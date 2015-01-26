@@ -3,6 +3,9 @@
 - C-41: Make developing film easier and more reliable by using this simple timer
   - https://github.com/ashfurrow/C-41
   - https://itunes.apple.com/ca/app/c-41/id789924103?mt=8
+- Coins: Bitcoin value tracker
+  - https://github.com/nothingmagical/coins
+  - https://itunes.apple.com/app/id787299853?mt=8
 - HN Reader: Hacker News Reader
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/us/app/hn-reader-hacker-news-reader/id919243741?mt=8
