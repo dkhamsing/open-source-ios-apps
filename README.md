@@ -1,6 +1,9 @@
 # Open-Source iOS Apps
 
-- Parties for WWDC: aggregator of developers parties happening in San Francisco mostly exclusively for participators of WWDC 2014
+- C-41: Make developing film easier and more reliable by using this simple timer
+  - https://github.com/ashfurrow/C-41
+  - https://itunes.apple.com/ca/app/c-41/id789924103?mt=8
+- Parties for WWDC: Aggregator of developers parties happening in San Francisco mostly exclusively for participators of WWDC 2014
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/us/app/parties-for-wwdc/id879924066?mt=8
 - Wikipedia: Official Wikipedia App for iOS
