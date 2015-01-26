@@ -1,5 +1,8 @@
 # Open-Source iOS Apps
 
+- Artsy: The Art World in Your Pocket
+  - https://github.com/artsy/eigen
+  - https://itunes.apple.com/us/app/artsy-art-world-in-your-pocket/id703796080?mt=8
 - C-41: Make developing film easier and more reliable by using this simple timer
   - https://github.com/ashfurrow/C-41
   - https://itunes.apple.com/ca/app/c-41/id789924103?mt=8
