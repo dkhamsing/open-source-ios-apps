@@ -2,6 +2,8 @@
 
 List of open-source iOS apps available in the App Store (see [this list](non-app-store-ios-apps.md) for apps not in the store). 
 
+Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](https://twitter.com/dkhamsing).
+
 - Artsy: The Art World in Your Pocket
   - https://github.com/artsy/eigen
   - https://itunes.apple.com/us/app/artsy-art-world-in-your-pocket/id703796080?mt=8
