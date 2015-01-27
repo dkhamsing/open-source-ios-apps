@@ -1,5 +1,7 @@
 # Open-Source iOS Apps
 
+List of open-source iOS apps available in the App Store (see [this list](non-app-store-ios-apps.md) for apps not in the store). 
+
 - Artsy: The Art World in Your Pocket
   - https://github.com/artsy/eigen
   - https://itunes.apple.com/us/app/artsy-art-world-in-your-pocket/id703796080?mt=8
