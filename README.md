@@ -13,13 +13,16 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Coins: Bitcoin value tracker
   - https://github.com/nothingmagical/coins
   - https://itunes.apple.com/app/id787299853
+- Edhita: Text editor for iOS
+  - https://github.com/tnantoka/edhita
+  - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
 - HN Reader: Hacker News Reader
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
-- News/YC: Hacker News client written in Swift - with user management, commenting, submitting and themes.
+- News/YC: Hacker News client written in Swift - with user management, commenting, submitting and themes
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
-- Onions: Cloud encrypted text storage app that leverages client-side encryption instead of server-side encryption to make sure your stuff stays private.
+- Onions: Cloud encrypted text storage app that leverages client-side encryption instead of server-side encryption to make sure your stuff stays private
   - https://github.com/onionsapp/Onions-iOS
   - https://itunes.apple.com/app/onions/id687296481
 - Parties for WWDC: List of mostly exclusive parties for WWDC 2014 attendees
