@@ -11,3 +11,4 @@ List of open-source iOS apps (see [this list](README.md) for apps on the App Sto
 ## Objective-C
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS): iOS Client for Everest.com
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
+- [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app for iOS
