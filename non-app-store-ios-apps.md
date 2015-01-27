@@ -2,6 +2,8 @@
 
 List of open-source iOS apps (see [this list](README.md) for apps on the App Store).
 
+Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](https://twitter.com/dkhamsing).
+
 ## Swift
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app
 - [Firefox](https://github.com/mozilla/firefox-ios): Firefox for iOS
@@ -17,3 +19,7 @@ List of open-source iOS apps (see [this list](README.md) for apps on the App Sto
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS): iOS Client for Everest.com
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app for iOS
+
+## Contact
+- [github.com/dkhamsing](https://github.com/dkhamsing)
+- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)
