@@ -3,6 +3,7 @@
 List of open-source iOS apps (see [this list](README.md) for apps on the App Store).
 
 ## Swift
+- [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app
 - [Firefox](https://github.com/mozilla/firefox-ios): Firefox for iOS
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule
