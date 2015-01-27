@@ -5,6 +5,7 @@ List of open-source iOS apps (see [this list](README.md) for apps on the App Sto
 ## Swift
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app
 - [Firefox](https://github.com/mozilla/firefox-ios): Firefox for iOS
+- [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock (MVVM and ReactiveCocoa)
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule
