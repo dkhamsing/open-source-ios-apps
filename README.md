@@ -16,6 +16,12 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - HN Reader: Hacker News Reader
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
+- News/YC: Hacker News client written in Swift - with user management, commenting, submitting and themes.
+  - https://github.com/bennyguitar/News-YC---iPhone
+  - https://itunes.apple.com/app/news-yc/id592893508
+- Onions: Cloud encrypted text storage app that leverages client-side encryption instead of server-side encryption to make sure your stuff stays private.
+  - https://github.com/onionsapp/Onions-iOS
+  - https://itunes.apple.com/app/onions/id687296481
 - Parties for WWDC: List of mostly exclusive parties for WWDC 2014 attendees
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
