@@ -22,3 +22,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Wikipedia: Official Wikipedia App for iOS
   - https://github.com/wikimedia/apps-ios-wikipedia
   - https://itunes.apple.com/us/app/wikipedia-mobile/id324715238?mt=8
+
+## Contact
+- [github.com/dkhamsing](https://github.com/dkhamsing)
+- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)
