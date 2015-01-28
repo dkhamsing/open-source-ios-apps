@@ -11,6 +11,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Coins: Bitcoin value tracker
   - https://github.com/nothingmagical/coins
   - https://itunes.apple.com/app/id787299853
+- Concurrency: Beautiful, intuitive currency converter
+  - https://github.com/nicklockwood/Concurrency
+  - https://itunes.apple.com/app/concurrency/id738872892
 - Edhita: Text editor
   - https://github.com/tnantoka/edhita
   - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
