@@ -11,7 +11,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Coins: Bitcoin value tracker
   - https://github.com/nothingmagical/coins
   - https://itunes.apple.com/app/id787299853
-- Edhita: Text editor for iOS
+- Edhita: Text editor
   - https://github.com/tnantoka/edhita
   - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
 - HN Reader: Hacker News Reader
@@ -25,6 +25,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
   - https://itunes.apple.com/app/round-split/id912288737 
   
 ## Objective-C
+- Be my eyes: An app that connects blind people with volunteer helpers via live video chat
+  - https://github.com/bemyeyes/bemyeyes-ios
+  - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575   
 - C-41: Make developing film easier and more reliable by using this simple timer
   - https://github.com/ashfurrow/C-41
   - https://itunes.apple.com/app/c-41/id789924103
@@ -34,15 +37,12 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Parties for WWDC: List of mostly exclusive parties for WWDC 2014 attendees
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
-- Vinylogue: A simple Last.fm client for iOS
+- Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
-- Wikipedia: Official Wikipedia App for iOS
+- Wikipedia: Official Wikipedia App
   - https://github.com/wikimedia/apps-ios-wikipedia
   - https://itunes.apple.com/app/wikipedia-mobile/id324715238
-- Be my eyes: An app that connects blind people with volunteer helpers via live video chat.
-  - https://github.com/bemyeyes/bemyeyes-ios
-  - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575   
   
 ## Contact
 - [github.com/dkhamsing](https://github.com/dkhamsing)
