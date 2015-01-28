@@ -40,7 +40,10 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Wikipedia: Official Wikipedia App for iOS
   - https://github.com/wikimedia/apps-ios-wikipedia
   - https://itunes.apple.com/app/wikipedia-mobile/id324715238
-
+- Be my eyes: An app that connects blind people with volunteer helpers via live video chat.
+  - https://github.com/bemyeyes/bemyeyes-ios
+  - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575   
+  
 ## Contact
 - [github.com/dkhamsing](https://github.com/dkhamsing)
 - [twitter.com/dkhamsing](https://twitter.com/dkhamsing)
