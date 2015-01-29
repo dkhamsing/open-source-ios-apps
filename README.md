@@ -37,6 +37,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Onions: Cloud encrypted text storage app that leverages client-side encryption instead of server-side encryption to make sure your stuff stays private
   - https://github.com/onionsapp/Onions-iOS
   - https://itunes.apple.com/app/onions/id687296481
+- IRCCloud: An IRC client/service
+  - https://github.com/irccloud/ios
+  - https://itunes.apple.com/us/app/irccloud/id672699103
 - Parties for WWDC: List of mostly exclusive parties for WWDC 2014 attendees
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
