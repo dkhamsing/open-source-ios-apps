@@ -11,6 +11,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - [iContactU](https://github.com/rizal72/iContactU): Reminds you to contact people you ought to
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu
+- [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search application that uses MVVM and ReactiveCocoa
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule
 - [Words](https://github.com/soffes/words): Thesaurus app 
 
