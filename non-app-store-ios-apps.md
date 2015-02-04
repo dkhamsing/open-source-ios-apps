@@ -17,6 +17,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 ## Objective-C
 - [Cheddar](https://github.com/nothingmagical/cheddar-ios): Universal app for Cheddar, a simple & instant task manager
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS): iOS Client for Everest.com
+- [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app 
 
