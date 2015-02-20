@@ -20,6 +20,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS): iOS Client for Everest.com
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
+- [MovieDBApp](https://github.com/KMindeguia/moviedbapp): MovieDB is an app implementing several UI patterns
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app 
 
 ## Contact
