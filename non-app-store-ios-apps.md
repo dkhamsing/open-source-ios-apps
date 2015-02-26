@@ -6,6 +6,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 
 ## Swift
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app
+- [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app designed for the  Watch 
 - [Firefox](https://github.com/mozilla/firefox-ios): Official Firefox app (work in progress)
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa
 - [iContactU](https://github.com/rizal72/iContactU): Reminds you to contact people you ought to
@@ -20,6 +21,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS): iOS Client for Everest.com
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
+- [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app designed for the  Watch 
 - [MovieDBApp](https://github.com/KMindeguia/moviedbapp): MovieDB is an app implementing several UI patterns
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app 
 
