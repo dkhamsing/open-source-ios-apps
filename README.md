@@ -43,6 +43,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Parties for WWDC: List of mostly exclusive parties for WWDC 2014 attendees
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
+- Signal: Free, world-wide, private messaging and phone calls for iPhone.
+  - https://github.com/@/Signal-iOS
+  - https://itunes.apple.com/app/id874139669
 - Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
