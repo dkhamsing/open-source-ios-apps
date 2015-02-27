@@ -44,7 +44,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
 - Signal: Free, world-wide, private messaging and phone calls for iPhone.
-  - https://github.com/@/Signal-iOS
+  - https://github.com/WhisperSystems/Signal-iOS
   - https://itunes.apple.com/app/id874139669
 - Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
