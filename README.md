@@ -11,6 +11,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Edhita: Text editor
   - https://github.com/tnantoka/edhita
   - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
+- Jupp: App with share extension for ADN
+  - https://github.com/dasdom/Jupp
+  - https://itunes.apple.com/de/app/jupp-share-extension-for-app.net/id909926740
 - HN Reader: Hacker News Reader
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
