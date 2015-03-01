@@ -2,7 +2,7 @@
 
 List of open-source iOS apps (see [this list](README.md) for apps on the App Store).
 
-Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](https://twitter.com/dkhamsing).
+Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](https://twitter.com/dkhamsing) :smile:
 
 ## Swift
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app
