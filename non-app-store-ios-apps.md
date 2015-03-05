@@ -21,9 +21,11 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS): iOS Client for Everest.com
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
+- [iBeaconTasks](https://github.com/TomekB/iBeaconTasks) - iBeacon TODO reminder app based on Parse
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app designed for the  Watch 
 - [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app 
 - [MovieDBApp](https://github.com/KMindeguia/moviedbapp): MovieDB is an app implementing several UI patterns
+- [Parse-Challenge-App](https://github.com/TomekB/Parse-Challenge-App) - demo iPhone app built using Parse (likes, comments, posting images/video)
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app 
 
 ## Contact
