@@ -25,7 +25,6 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app designed for the  Watch 
 - [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app 
 - [MovieDBApp](https://github.com/KMindeguia/moviedbapp): MovieDB is an app implementing several UI patterns
-- [Parse-Challenge-App](https://github.com/TomekB/Parse-Challenge-App) - demo iPhone app built using Parse (likes, comments, posting images/video)
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app 
 
 ## Contact

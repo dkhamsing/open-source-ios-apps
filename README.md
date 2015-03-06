@@ -46,6 +46,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - IRCCloud: An IRC client/service
   - https://github.com/irccloud/ios
   - https://itunes.apple.com/us/app/irccloud/id672699103
+- Parse-Challenge-App: Demo iPhone app built using Parse (likes, comments, posting images/video)
+  - https://github.com/TomekB/Parse-Challenge-App
+  - https://itunes.apple.com/us/app/lets-challenge-me/id944004497
 - Parties for WWDC: List of mostly exclusive parties for WWDC 2014 attendees
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
