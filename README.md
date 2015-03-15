@@ -8,6 +8,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Coins: Bitcoin value tracker
   - https://github.com/nothingmagical/coins
   - https://itunes.apple.com/app/id787299853
+- Designer News App
+  - https://github.com/MengTo/DesignerNewsApp
+  - https://itunes.apple.com/app/designer-news-app/id879990495
 - Edhita: Text editor
   - https://github.com/tnantoka/edhita
   - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
