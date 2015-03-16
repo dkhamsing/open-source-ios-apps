@@ -52,6 +52,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - GreatReader: This is a "great" PDF reader designed for both iPhone and iPad.
   - https://github.com/semweb/GreatReader
   - https://itunes.apple.com/us/app/greatreader/id903651112
+- iGrades: Track your class grades
+  - https://github.com/maurovc/iGrades
+  - https://itunes.apple.com/us/app/id816987574
 - OCiney: Movie info app
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/us/app/id955480687
