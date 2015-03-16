@@ -67,6 +67,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
+- VisitBCN: City guide for Barcelona
+  - https://github.com/maurovc/visitBCN
+  - https://itunes.apple.com/us/app/visitbcn/id904676442
 - Wikipedia: Official Wikipedia App
   - https://github.com/wikimedia/apps-ios-wikipedia
   - https://itunes.apple.com/app/wikipedia-mobile/id324715238
