@@ -40,6 +40,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Concurrency: Beautiful, intuitive currency converter
   - https://github.com/nicklockwood/Concurrency
   - https://itunes.apple.com/app/concurrency/id738872892
+- GreatReader: This is a "great" PDF reader designed for both iPhone and iPad.
+  - https://github.com/semweb/GreatReader
+  - https://itunes.apple.com/us/app/greatreader/id903651112
 - OCiney: Movie info app
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/us/app/id955480687
