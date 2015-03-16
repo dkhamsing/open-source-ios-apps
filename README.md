@@ -26,7 +26,10 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Round & Split: A Tip Calculator
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737 
-  
+- VPN On
+  - https://github.com/lexrus/VPNOn
+  - https://itunes.apple.com/app/vpn-on/id951344279
+
 ## Objective-C
 - Artsy: The Art World in Your Pocket
   - https://github.com/artsy/eigen
