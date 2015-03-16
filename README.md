@@ -43,6 +43,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - C-41: Make developing film easier and more reliable by using this simple timer
   - https://github.com/ashfurrow/C-41
   - https://itunes.apple.com/app/c-41/id789924103
+- ColorBlur: Add blur to your photos
+  - https://github.com/maurovc/ColorBlur
+  - https://itunes.apple.com/us/app/id928863510
 - Concurrency: Beautiful, intuitive currency converter
   - https://github.com/nicklockwood/Concurrency
   - https://itunes.apple.com/app/concurrency/id738872892
