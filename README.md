@@ -85,6 +85,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - ParseStore: Backend provider for selling physical goods using Parse.
   - https://github.com/ParsePlatform/ParseStore
   - https://appsto.re/us/JmaLK.i
+
 ## Thanks
 This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift).
 
