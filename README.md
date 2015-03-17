@@ -72,19 +72,19 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
   - https://itunes.apple.com/app/wikipedia-mobile/id324715238
 - WordPress: WordPress for iOS
   - https://github.com/wordpress-mobile/WordPress-iOS
-  - https://itunes.apple.com/en/app/wordpress/id335703880
+  - https://itunes.apple.com/app/wordpress/id335703880
 - Anypic: An open source mobile and web app that lets users share photos similar to Instagram
   - https://github.com/ParsePlatform/Anypic
-  - https://appsto.re/us/l18kG.i
+  - https://itunes.apple.com/app/anypic/id539741538
 - ParseDeveloperDay: Developer Conference App
   - https://github.com/ParsePlatform/ParseDeveloperDay
-  - https://itunes.apple.com/us/app/parse-developer-day/id691488056
+  - https://itunes.apple.com/app/parse-developer-day/id691488056
 - AnyWall: A fun geolocation app built with Parse.
   - https://github.com/ParsePlatform/AnyWall
-  - https://appsto.re/us/lzsdF.i
+  - https://itunes.apple.com/app/anywall/id520955490
 - ParseStore: Backend provider for selling physical goods using Parse.
   - https://github.com/ParsePlatform/ParseStore
-  - https://appsto.re/us/JmaLK.i
+  - https://itunes.apple.com/app/parse-store/id613679907
 
 ## Thanks
 This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift).
