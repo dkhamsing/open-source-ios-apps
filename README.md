@@ -70,6 +70,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Wikipedia: Official Wikipedia App
   - https://github.com/wikimedia/apps-ios-wikipedia
   - https://itunes.apple.com/app/wikipedia-mobile/id324715238
+- WordPress: WordPress for iOS
+  - https://github.com/wordpress-mobile/WordPress-iOS
+  - https://itunes.apple.com/en/app/wordpress/id335703880
   
 ## Thanks
 This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift).
