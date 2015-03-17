@@ -70,6 +70,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Parties for WWDC: List of mostly exclusive parties for WWDC 2014 attendees
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
+- Peggsite: App for sharing a social board
+  - https://github.com/jenduf/GenericSocialApp
+  - https://itunes.apple.com/us/app/peggsite/id938445951 
 - Signal: Free, world-wide, private messaging and phone calls for iPhone.
   - https://github.com/WhisperSystems/Signal-iOS
   - https://itunes.apple.com/app/id874139669
