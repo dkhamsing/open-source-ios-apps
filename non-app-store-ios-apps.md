@@ -7,6 +7,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 ## Swift
 - [2048](https://github.com/austinzheng/swift-2048): 2048 for Swift
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app
+- [Chats](https://github.com/acani/Chats): Native iOS Messages App
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app designed for the  Watch 
 - [Firefox](https://github.com/mozilla/firefox-ios): Official Firefox app (work in progress)
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa
