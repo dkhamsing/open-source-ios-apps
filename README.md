@@ -26,6 +26,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Round & Split: A Tip Calculator
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737 
+-  The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan
+  - https://github.com/aclissold/the-oakland-post 
+  - https://itunes.apple.com/app/oakland-post/id931152313
 - VPN On
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
