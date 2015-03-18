@@ -10,6 +10,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [Chats](https://github.com/acani/Chats): Native iOS Messages App
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app designed for the  Watch 
 - [Firefox](https://github.com/mozilla/firefox-ios): Official Firefox app (work in progress)
+- [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa
 - [iContactU](https://github.com/rizal72/iContactU): Reminds you to contact people you ought to
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App
