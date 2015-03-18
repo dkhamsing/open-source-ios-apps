@@ -31,6 +31,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
   - https://itunes.apple.com/app/vpn-on/id951344279
 
 ## Objective-C
+- A Menjar: Food menu app
+  - https://github.com/maurovc/aMenjar
+  - https://itunes.apple.com/us/app/a-menjar!/id816473131
 - Artsy: The Art World in Your Pocket
   - https://github.com/artsy/eigen
   - https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080
@@ -40,12 +43,18 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - C-41: Make developing film easier and more reliable by using this simple timer
   - https://github.com/ashfurrow/C-41
   - https://itunes.apple.com/app/c-41/id789924103
+- ColorBlur: Add blur to your photos
+  - https://github.com/maurovc/ColorBlur
+  - https://itunes.apple.com/us/app/id928863510
 - Concurrency: Beautiful, intuitive currency converter
   - https://github.com/nicklockwood/Concurrency
   - https://itunes.apple.com/app/concurrency/id738872892
 - GreatReader: This is a "great" PDF reader designed for both iPhone and iPad.
   - https://github.com/semweb/GreatReader
   - https://itunes.apple.com/us/app/greatreader/id903651112
+- iGrades: Track your class grades
+  - https://github.com/maurovc/iGrades
+  - https://itunes.apple.com/us/app/id816987574
 - OCiney: Movie info app
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/us/app/id955480687
@@ -61,12 +70,18 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Parties for WWDC: List of mostly exclusive parties for WWDC 2014 attendees
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
+- Peggsite: App for sharing a social board
+  - https://github.com/jenduf/GenericSocialApp
+  - https://itunes.apple.com/us/app/peggsite/id938445951 
 - Signal: Free, world-wide, private messaging and phone calls for iPhone.
   - https://github.com/WhisperSystems/Signal-iOS
   - https://itunes.apple.com/app/id874139669
 - Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
+- VisitBCN: City guide for Barcelona
+  - https://github.com/maurovc/visitBCN
+  - https://itunes.apple.com/us/app/visitbcn/id904676442
 - Wikipedia: Official Wikipedia App
   - https://github.com/wikimedia/apps-ios-wikipedia
   - https://itunes.apple.com/app/wikipedia-mobile/id324715238
