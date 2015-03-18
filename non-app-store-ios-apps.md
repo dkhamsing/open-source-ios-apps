@@ -16,6 +16,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search application that uses MVVM and ReactiveCocoa
+- [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app.
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule
 - [Words](https://github.com/soffes/words): Thesaurus app 
 
