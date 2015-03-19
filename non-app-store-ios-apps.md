@@ -8,9 +8,10 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [2048](https://github.com/austinzheng/swift-2048): 2048 for Swift
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app
 - [Chats](https://github.com/acani/Chats): Native iOS Messages App
-- [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app designed for the  Watch 
+- [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app designed for the  Watch
 - [Firefox](https://github.com/mozilla/firefox-ios): Official Firefox app (work in progress)
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird
+- [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader iOS app using Swift
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa
 - [iContactU](https://github.com/rizal72/iContactU): Reminds you to contact people you ought to
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App
@@ -18,7 +19,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search application that uses MVVM and ReactiveCocoa
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app.
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule
-- [Words](https://github.com/soffes/words): Thesaurus app 
+- [Words](https://github.com/soffes/words): Thesaurus app
 
 ## Objective-C
 - [Cheddar](https://github.com/nothingmagical/cheddar-ios): Universal app for Cheddar, a simple & instant task manager
@@ -26,11 +27,12 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
 - [iBeaconTasks](https://github.com/TomekB/iBeaconTasks) - iBeacon TODO reminder app based on Parse
-- [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app designed for the  Watch 
-- [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app 
+- [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app designed for the  Watch
+- [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app
 - [MovieDBApp](https://github.com/KMindeguia/moviedbapp): MovieDB is an app implementing several UI patterns
-- [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app 
+- [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app
 
 ## Contact
 - [github.com/dkhamsing](https://github.com/dkhamsing)
 - [twitter.com/dkhamsing](https://twitter.com/dkhamsing)
+
