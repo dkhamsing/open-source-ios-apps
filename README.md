@@ -5,9 +5,6 @@ List of open-source iOS apps available in the App Store (see [this list](non-app
 Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](https://twitter.com/dkhamsing).
 
 ## Swift
-- Coins: Bitcoin value tracker
-  - https://github.com/nothingmagical/coins
-  - https://itunes.apple.com/app/id787299853
 - Designer News App
   - https://github.com/MengTo/DesignerNewsApp
   - https://itunes.apple.com/app/designer-news-app/id879990495

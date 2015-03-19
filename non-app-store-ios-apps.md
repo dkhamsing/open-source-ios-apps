@@ -9,6 +9,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app
 - [Chats](https://github.com/acani/Chats): Native iOS Messages App
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app designed for the  Watch
+- [Coins](https://github.com/nothingmagical/coins): Bitcoin value tracker
 - [Firefox](https://github.com/mozilla/firefox-ios): Official Firefox app (work in progress)
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader iOS app using Swift
