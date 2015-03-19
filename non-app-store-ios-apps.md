@@ -13,7 +13,6 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader iOS app using Swift
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa
-- [iContactU](https://github.com/rizal72/iContactU): Reminds you to contact people you ought to
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search application that uses MVVM and ReactiveCocoa

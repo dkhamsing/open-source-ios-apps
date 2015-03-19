@@ -20,6 +20,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - HN Reader: Hacker News Reader
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
+- iContactU: Reminds you to contact people you ought to
+  - https://github.com/rizal72/iContactU
+  - https://itunes.apple.com/app/icontactu/id920200100
 - News/YC: Hacker News client with user management, commenting, submitting and themes
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
