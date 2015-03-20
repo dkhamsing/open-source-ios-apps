@@ -13,7 +13,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
   - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
 - Jupp: App with share extension for ADN
   - https://github.com/dasdom/Jupp
-  - https://itunes.apple.com/de/app/jupp-share-extension-for-app.net/id909926740
+  - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
 - HN Reader: Hacker News Reader
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
@@ -36,7 +36,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 ## Objective-C
 - A Menjar: Food menu app
   - https://github.com/maurovc/aMenjar
-  - https://itunes.apple.com/us/app/a-menjar!/id816473131
+  - https://itunes.apple.com/app/a-menjar!/id816473131
 - Anypic: An open source mobile and web app that lets users share photos similar to Instagram
   - https://github.com/ParsePlatform/Anypic
   - https://itunes.apple.com/app/anypic/id539741538
@@ -54,28 +54,28 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
   - https://itunes.apple.com/app/c-41/id789924103
 - ColorBlur: Add blur to your photos
   - https://github.com/maurovc/ColorBlur
-  - https://itunes.apple.com/us/app/id928863510
+  - https://itunes.apple.com/app/id928863510
 - Concurrency: Beautiful, intuitive currency converter
   - https://github.com/nicklockwood/Concurrency
   - https://itunes.apple.com/app/concurrency/id738872892
 - GreatReader: This is a "great" PDF reader designed for both iPhone and iPad
   - https://github.com/semweb/GreatReader
-  - https://itunes.apple.com/us/app/greatreader/id903651112
+  - https://itunes.apple.com/app/greatreader/id903651112
 - iGrades: Track your class grades
   - https://github.com/maurovc/iGrades
-  - https://itunes.apple.com/us/app/id816987574
+  - https://itunes.apple.com/app/id816987574
 - OCiney: Movie info app
   - https://github.com/florent37/OCiney-iOS
-  - https://itunes.apple.com/us/app/id955480687
+  - https://itunes.apple.com/app/id955480687
 - Onions: Cloud encrypted text storage app
   - https://github.com/onionsapp/Onions-iOS
   - https://itunes.apple.com/app/onions/id687296481
 - IRCCloud: An IRC client/service
   - https://github.com/irccloud/ios
-  - https://itunes.apple.com/us/app/irccloud/id672699103
+  - https://itunes.apple.com/app/irccloud/id672699103
 - Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video
   - https://github.com/TomekB/Parse-Challenge-App
-  - https://itunes.apple.com/us/app/lets-challenge-me/id944004497
+  - https://itunes.apple.com/app/lets-challenge-me/id944004497
 - ParseDeveloperDay: Developer Conference App
   - https://github.com/ParsePlatform/ParseDeveloperDay
   - https://itunes.apple.com/app/parse-developer-day/id691488056
@@ -87,7 +87,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
 - Peggsite: App for sharing a social board
   - https://github.com/jenduf/GenericSocialApp
-  - https://itunes.apple.com/us/app/peggsite/id938445951 
+  - https://itunes.apple.com/app/peggsite/id938445951 
 - Signal: Free, world-wide, private messaging and phone calls for iPhone
   - https://github.com/WhisperSystems/Signal-iOS
   - https://itunes.apple.com/app/id874139669
@@ -96,7 +96,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
 - VisitBCN: City guide for Barcelona
   - https://github.com/maurovc/visitBCN
-  - https://itunes.apple.com/us/app/visitbcn/id904676442
+  - https://itunes.apple.com/app/visitbcn/id904676442
 - Wikipedia: Official Wikipedia App
   - https://github.com/wikimedia/apps-ios-wikipedia
   - https://itunes.apple.com/app/wikipedia-mobile/id324715238
