@@ -15,6 +15,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader iOS app
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App
+- [LayerPlayer](https://github.com/scotteg/LayerPlayer): Explore the capabilities of Apple's Core Animation API
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search application that uses MVVM and ReactiveCocoa
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app
