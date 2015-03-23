@@ -21,6 +21,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search application that uses MVVM and ReactiveCocoa
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule
+- [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit
 - [Words](https://github.com/soffes/words): Thesaurus app
 
 ## Objective-C
