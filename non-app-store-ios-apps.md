@@ -18,6 +18,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu
+- [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift example weather application for Typhoon
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search application that uses MVVM and ReactiveCocoa
 - [Reddit](https://github.com/amitburst/reddit-demo): Reddit news app
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app
