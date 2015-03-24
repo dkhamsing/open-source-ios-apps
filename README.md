@@ -111,6 +111,8 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
   - https://github.com/wordpress-mobile/WordPress-iOS
   - https://itunes.apple.com/app/wordpress/id335703880
 
+More open-source apps are on [this list](non-app-store-ios-apps.md).
+
 ## Thanks
 This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift).
 
