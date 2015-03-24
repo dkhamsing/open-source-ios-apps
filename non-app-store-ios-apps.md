@@ -25,6 +25,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [Words](https://github.com/soffes/words): Thesaurus app
 
 ## Objective-C
+- [2048](https://github.com/austinzheng/iOS-2048): 2048 game for iOS
 - [Cheddar](https://github.com/nothingmagical/cheddar-ios): Simple & instant task manager
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS): Everest.com app
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
