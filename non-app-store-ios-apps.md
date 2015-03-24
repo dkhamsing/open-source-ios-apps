@@ -17,6 +17,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader iOS app
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App
+- [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html):  Watch list app example by Apple
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search application that uses MVVM and ReactiveCocoa
 - [Reddit](https://github.com/amitburst/reddit-demo): Reddit news app
@@ -34,7 +35,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [iBeaconTasks](https://github.com/TomekB/iBeaconTasks) - iBeacon TODO reminder app based on Parse
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app designed for the  Watch
 - [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app
-- [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app that synchronizes data between Watch app and containing iPhone app 
+- [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html):  Watch list app example by Apple
 - [MovieDBApp](https://github.com/KMindeguia/moviedbapp): Movie info app
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app
 
