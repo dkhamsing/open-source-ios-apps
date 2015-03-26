@@ -61,6 +61,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - C-41: Make developing film easier and more reliable by using this simple timer
   - https://github.com/ashfurrow/C-41
   - https://itunes.apple.com/app/c-41/id789924103
+- Canabalt: Infinite runner game
+  - https://github.com/ericjohnson/canabalt-ios
+  - https://itunes.apple.com/app/canabalt/id333180061
 - ChatSecure: Encrypted chat app that supports OTR encryption over XMPP
   - https://github.com/ChatSecure/ChatSecure-iOS
   - https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063
