@@ -12,6 +12,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [Chats](https://github.com/acani/Chats): Messages app
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app designed for the  Watch
 - [Coins](https://github.com/nothingmagical/coins): Bitcoin value tracker
+- [DeckRocket](https://github.com/jpsim/DeckRocket): Turn your iPhone into a remote for Deckset presentations
 - [Firefox](https://github.com/mozilla/firefox-ios): Official Firefox app 
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader iOS app
