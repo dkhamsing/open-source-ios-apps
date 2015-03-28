@@ -16,11 +16,11 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [DeckRocket](https://github.com/jpsim/DeckRocket): Turn your iPhone into a remote for Deckset presentations
 - [Firefox](https://github.com/mozilla/firefox-ios): Official Firefox app 
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird
-- [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader iOS app
+- [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu
-- [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift example weather application for Typhoon
+- [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search application that uses MVVM and ReactiveCocoa
 - [Reddit](https://github.com/amitburst/reddit-demo): Reddit news app
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app
