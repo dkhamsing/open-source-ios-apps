@@ -23,6 +23,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search application that uses MVVM and ReactiveCocoa
 - [Reddit](https://github.com/amitburst/reddit-demo): Reddit news app
+- [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit
