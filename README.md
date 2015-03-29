@@ -29,7 +29,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - News/YC: Hacker News client with user management, commenting, submitting and themes
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
-- Round & Split: A Tip Calculator
+- Round & Split: Tip Calculator
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737 
 - Task: Designed to quickly and easily add tasks to your iPhone
@@ -46,7 +46,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - A Menjar: Food menu app
   - https://github.com/maurovc/aMenjar
   - https://itunes.apple.com/app/a-menjar!/id816473131
-- Anypic: An open source mobile and web app that lets users share photos similar to Instagram
+- Anypic: Mobile and web app that lets users share photos similar to Instagram
   - https://github.com/ParsePlatform/Anypic
   - https://itunes.apple.com/app/anypic/id539741538
 - AnyWall: A fun geolocation app built with Parse
@@ -73,7 +73,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Concurrency: Beautiful, intuitive currency converter
   - https://github.com/nicklockwood/Concurrency
   - https://itunes.apple.com/app/concurrency/id738872892
-- GreatReader: This is a "great" PDF reader designed for both iPhone and iPad
+- GreatReader: "Great" PDF reader designed for both iPhone and iPad
   - https://github.com/semweb/GreatReader
   - https://itunes.apple.com/app/greatreader/id903651112
 - iGrades: Track your class grades
@@ -97,7 +97,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - ParseStore: Backend provider for selling physical goods using Parse
   - https://github.com/ParsePlatform/ParseStore
   - https://itunes.apple.com/app/parse-store/id613679907
-- Parties for WWDC: List of mostly exclusive parties for WWDC 2014 attendees
+- Parties for WWDC: List of parties for WWDC 2014 attendees
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
 - Peggsite: App for sharing a social board
@@ -119,7 +119,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Wikipedia: Official Wikipedia App
   - https://github.com/wikimedia/apps-ios-wikipedia
   - https://itunes.apple.com/app/wikipedia-mobile/id324715238
-- WordPress: WordPress for iOS
+- WordPress: Official WordPress App
   - https://github.com/wordpress-mobile/WordPress-iOS
   - https://itunes.apple.com/app/wordpress/id335703880
 
