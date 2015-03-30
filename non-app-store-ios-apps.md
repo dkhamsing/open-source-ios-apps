@@ -18,6 +18,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa
+- [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo): A Swift demo for HomeKit.
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon
