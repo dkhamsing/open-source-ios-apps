@@ -106,7 +106,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Signal: Free, world-wide, private messaging and phone calls for iPhone
   - https://github.com/WhisperSystems/Signal-iOS
   - https://itunes.apple.com/app/id874139669
-- VLC: Media player 
+- VLC: Media Player 
   - http://www.videolan.org/vlc/download-ios.html
   - https://github.com/videolan/vlc
   - https://itunes.apple.com/app/vlc-for-ios/id650377962
