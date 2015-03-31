@@ -16,6 +16,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [DeckRocket](https://github.com/jpsim/DeckRocket): Turn your iPhone into a remote for Deckset presentations
 - [Firefox](https://github.com/mozilla/firefox-ios): Official Firefox app 
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird
+- [Game Of Life](https://github.com/yonbergman/swift-gameoflife): Conway's Game of Life
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo): A Swift demo for HomeKit.
