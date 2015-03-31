@@ -58,6 +58,9 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - Be my eyes: An app that connects blind people with volunteer helpers via live video chat
   - https://github.com/bemyeyes/bemyeyes-ios
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575   
+- Bither: Simple and secure Bitcoin wallet
+  - https://github.com/bither/bither-ios
+  - https://itunes.apple.com/app/bither/id899478936
 - C-41: Make developing film easier and more reliable by using this simple timer
   - https://github.com/ashfurrow/C-41
   - https://itunes.apple.com/app/c-41/id789924103
