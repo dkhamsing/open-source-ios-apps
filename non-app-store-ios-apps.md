@@ -7,7 +7,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 ## Swift
 - [2048](https://github.com/austinzheng/swift-2048): 2048 for Swift
 - [Apple Watch Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator)
-- [Alarm](https://github.com/ChrisChares/swift-alarm)
+- [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers
 - [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started): Apple Watch app to track Bitcoin price 
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app
 - [Chats](https://github.com/acani/Chats): Messages app
