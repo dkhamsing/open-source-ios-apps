@@ -1,8 +1,26 @@
 # Open-Source iOS Apps
 
-List of open-source iOS apps. :large_orange_diamond: are Swift projects.
+List of open-source iOS apps.
 
 Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](https://twitter.com/dkhamsing).
+
+Jump to
+
+1. [Apple Watch](#apple-watch)
+2. [Communication](#communication)
+3. [Games](#games)
+4. [Finance](#finance)
+5. [Multimedia](#multimedia)
+6. [News](#news)
+7. [Official](#official)
+8. [Personal](#personal)
+9. [Social](#social)
+10. [Tasks](#tasks)
+11. [Tools](#tools)
+12. [Weather](#weather)
+13. [Misc](#misc)
+
+:large_orange_diamond: are Swift projects
 
 ## Apple Watch
 
