@@ -38,12 +38,13 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS): Everest.com app
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
-- [iBeaconTasks](https://github.com/TomekB/iBeaconTasks) - iBeacon TODO reminder app based on Parse
+- [iBeaconTasks](https://github.com/TomekB/iBeaconTasks): iBeacon TODO reminder app based on Parse
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app designed for the  Watch
 - [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app
-- [Moves](https://github.com/neonichu/Places) : Visualize which places you spent the most time
+- [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time
 - [MovieDBApp](https://github.com/KMindeguia/moviedbapp): Movie info app
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app
+- [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool
 
 ## Sample code by Apple
 - [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): Apple Watch list app example 
