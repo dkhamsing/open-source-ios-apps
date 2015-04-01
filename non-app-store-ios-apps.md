@@ -13,6 +13,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [Chats](https://github.com/acani/Chats): Messages app
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app designed for the  Watch
 - [Coins](https://github.com/nothingmagical/coins): Bitcoin value tracker
+- [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List): Store & retrieve tasks using CloudKit
 - [DeckRocket](https://github.com/jpsim/DeckRocket): Turn your iPhone into a remote for Deckset presentations
 - [Firefox](https://github.com/mozilla/firefox-ios): Official Firefox app 
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird
