@@ -29,6 +29,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule
+- [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Audio recorder App for iPhone and iPad 
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit
 - [Words](https://github.com/soffes/words): Thesaurus app
 
