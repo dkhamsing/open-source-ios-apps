@@ -7,7 +7,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 ## Apple Watch
 
 - [Apple Watch Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator) :large_orange_diamond: 
-- [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started): Apple Watch app to track Bitcoin price 
+- [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started): Apple Watch app to track Bitcoin price :large_orange_diamond: 
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app designed for the Apple Watch :large_orange_diamond: 
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app designed for the Apple Watch
 - [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): Apple Watch list app example :large_orange_diamond: 
