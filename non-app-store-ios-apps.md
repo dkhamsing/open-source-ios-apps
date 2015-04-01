@@ -37,6 +37,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 ## Objective-C
 - [2048](https://github.com/austinzheng/iOS-2048): 2048 game for iOS
 - [Cheddar](https://github.com/nothingmagical/cheddar-ios): Simple & instant task manager
+- [Colo](https://github.com/wongzigii/Colo): Color themes Hunter
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS): Everest.com app
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
