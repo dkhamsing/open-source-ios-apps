@@ -41,6 +41,7 @@ Your contribution is welcome: [issues](https://github.com/dkhamsing/open-source-
 - [iBeaconTasks](https://github.com/TomekB/iBeaconTasks) - iBeacon TODO reminder app based on Parse
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app designed for the  Watch
 - [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app
+- [Moves](https://github.com/neonichu/Places) : Visualize which places you spent the most time
 - [MovieDBApp](https://github.com/KMindeguia/moviedbapp): Movie info app
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app
 
