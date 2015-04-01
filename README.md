@@ -37,7 +37,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird :large_orange_diamond:
 - [Game Of Life](https://github.com/yonbergman/swift-gameoflife): Conway's Game of Life :large_orange_diamond:
 
-## Financce
+## Finance
 
 - Bither: Simple and secure Bitcoin wallet
   - https://github.com/bither/bither-ios
