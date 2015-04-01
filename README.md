@@ -13,14 +13,6 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple :large_orange_diamond: 
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit :large_orange_diamond:
 
-## Audio
-
-- [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app
-- [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Audio recorder App for iPhone and iPad :large_orange_diamond:
-- Vinylogue: A simple Last.fm client
-  - https://github.com/twocentstudios/vinylogue
-  - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
-
 ## Communication
 
 - [Chats](https://github.com/acani/Chats): Messages app :large_orange_diamond:
@@ -70,6 +62,7 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
   - https://itunes.apple.com/app/id955480687
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser :large_orange_diamond: 
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa :large_orange_diamond:
+- [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Audio recorder App for iPhone and iPad :large_orange_diamond:
 - VLC: Media Player 
   - http://www.videolan.org/vlc/download-ios.html
   - https://github.com/videolan/vlc
@@ -157,10 +150,14 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
   - https://github.com/semweb/GreatReader
   - https://itunes.apple.com/app/greatreader/id903651112
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa :large_orange_diamond:
+- [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app
 - Round & Split: Tip Calculator :large_orange_diamond:
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737 
 - [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool
+- Vinylogue: A simple Last.fm client
+  - https://github.com/twocentstudios/vinylogue
+  - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
 - VPN On :large_orange_diamond:
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
