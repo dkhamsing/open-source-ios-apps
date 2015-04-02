@@ -216,17 +216,19 @@ id905177575
 - Parties for WWDC: List of parties for WWDC 2014 attendees
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
+- [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule :large_orange_diamond:
 - Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
 - VisitBCN: City guide for Barcelona
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
-- [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule :large_orange_diamond:
 
 ## Thanks
+
 This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift).
 
 ## Contact
+
 - [github.com/dkhamsing](https://github.com/dkhamsing)
 - [twitter.com/dkhamsing](https://twitter.com/dkhamsing)
