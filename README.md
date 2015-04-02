@@ -20,7 +20,7 @@ Jump to
 12. [Weather](#weather)
 13. [Misc](#misc)
 
-:large_orange_diamond: are Swift projects
+:large_orange_diamond: Swift projects
 
 ## Apple Watch
 
