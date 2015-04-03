@@ -197,6 +197,7 @@ id905177575
 - Cannonball: Fun way to create and share stories and poems :large_orange_diamond: 
   - https://github.com/twitterdev/cannonball-ios 
   - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
+- [Ghosty](https://github.com/mhaddl/Ghosty): Blogging App for Ghost :large_orange_diamond:
 - Jupp: App with share extension for ADN :large_orange_diamond:
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
