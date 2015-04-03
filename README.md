@@ -25,12 +25,12 @@ Jump to
 ## Apple Watch
 
 - [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started): Track Bitcoin price :large_orange_diamond: 
+- [Bither](https://github.com/bither/bither-ios/tree/master/bither-ios%20WatchKit%20Extension): Realtime Bitcoin price. Monitor Bitcoin assets.
 - [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator): Calculator app :large_orange_diamond: 
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app :large_orange_diamond: 
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple :large_orange_diamond: 
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit :large_orange_diamond:
-- [Bither](https://github.com/bither/bither-ios): Realtime Bitcoin price. Monitor Bitcoin assets.
 
 ## Communication
 
@@ -184,7 +184,6 @@ Jump to
 
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon :large_orange_diamond:
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app :large_orange_diamond:
-
 
 ## Misc
 
