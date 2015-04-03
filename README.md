@@ -117,6 +117,7 @@ Jump to
 
 ## Personal
 
+- [Everest](https://github.com/EverestOpenSource/Everest-iOS): app for documenting your life through journeys and individual moments. 
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
 - iContactU: Reminds you to contact people you ought to :large_orange_diamond:
   - https://github.com/rizal72/iContactU
