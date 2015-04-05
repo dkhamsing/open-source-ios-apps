@@ -228,7 +228,9 @@ id905177575
 ### OSX
 - Clock-Saver :large_orange_diamond:
   - https://github.com/soffes/clock-saver
-
+- Gifs: A Mac App for finding GIFs
+  - https://github.com/orta/gifs
+  
 ## Thanks
 
 This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift).
