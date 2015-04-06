@@ -31,7 +31,9 @@ Jump to
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple :large_orange_diamond: 
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit :large_orange_diamond:
-- [Parties for WWDC](https://github.com/sugarso/WWDC): Aggregator of developers parties happening in WWDC 2015.
+- Parties for WWDC: Aggregator of developers parties happening in WWDC 2015.
+  - https://github.com/sugarso/WWDC
+  - https://itunes.apple.com/app/parties-for-wwdc/id879924066
 
 ## Communication
 
@@ -222,9 +224,6 @@ id905177575
 - ParseStore: Backend provider for selling physical goods using Parse
   - https://github.com/ParsePlatform/ParseStore
   - https://itunes.apple.com/app/parse-store/id613679907
-- Parties for WWDC: List of parties for WWDC 2014 attendees
-  - https://github.com/sugarso/WWDC
-  - https://itunes.apple.com/app/parties-for-wwdc/id879924066
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule :large_orange_diamond:
 - Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
