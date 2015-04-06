@@ -30,10 +30,10 @@ Jump to
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app :large_orange_diamond: 
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple :large_orange_diamond: 
-- [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit :large_orange_diamond:
 - Parties for WWDC: Aggregator of developers parties happening in WWDC 2015.
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
+- [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit :large_orange_diamond:
 
 ## Communication
 
@@ -183,12 +183,12 @@ Jump to
 - Round & Split: Tip Calculator :large_orange_diamond:
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737 
+- [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Beautiful way to discover new startups and locate co-working spaces.
 - [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool
 - VPN On :large_orange_diamond:
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
 - [Words](https://github.com/soffes/words): Thesaurus app
-- [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Beautiful way to discover new startups and locate co-working spaces.
 
 ## Weather
 
@@ -237,10 +237,10 @@ id905177575
   - https://github.com/soffes/clock-saver
 - Gifs: A Mac App for finding GIFs
   - https://github.com/orta/gifs
-- macdown: Markdown editor
-  - https://github.com/uranusjr/macdown
 - mac2imgur: Upload screenshots to imgur :large_orange_diamond:
   - https://github.com/mileswd/mac2imgur
+- macdown: Markdown editor
+  - https://github.com/uranusjr/macdown
 
 ## Thanks
 
