@@ -229,7 +229,7 @@ id905177575
   - https://itunes.apple.com/app/visitbcn/id904676442
 
 ### OSX
-- Clock-Saver :large_orange_diamond:
+- Clock-Saver: Simple clock screensaver :large_orange_diamond:
   - https://github.com/soffes/clock-saver
 - Gifs: A Mac App for finding GIFs
   - https://github.com/orta/gifs
