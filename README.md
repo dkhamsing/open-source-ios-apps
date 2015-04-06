@@ -230,12 +230,14 @@ id905177575
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
 
-### OSX
+### OS X
 - Clock-Saver: Simple clock screensaver :large_orange_diamond:
   - https://github.com/soffes/clock-saver
 - Gifs: A Mac App for finding GIFs
   - https://github.com/orta/gifs
-  
+- macdown: Markdown editor
+  - https://github.com/uranusjr/macdown
+
 ## Thanks
 
 This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift).
