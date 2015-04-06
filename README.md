@@ -183,6 +183,9 @@ Jump to
 - Round & Split: Tip Calculator :large_orange_diamond:
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737 
+- Speak
+  - https://github.com/1raynes/speakability: AAC & Speech Therapy 
+  - https://itunes.apple.com/app/speakability/id784509467
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Beautiful way to discover new startups and locate co-working spaces.
 - [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool
 - VPN On :large_orange_diamond:
