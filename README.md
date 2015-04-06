@@ -238,6 +238,8 @@ id905177575
   - https://github.com/orta/gifs
 - macdown: Markdown editor
   - https://github.com/uranusjr/macdown
+- mac2imgur: Upload screenshots to imgur :large_orange_diamond:
+  - https://github.com/mileswd/mac2imgur
 
 ## Thanks
 
