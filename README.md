@@ -31,6 +31,7 @@ Jump to
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple :large_orange_diamond: 
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit :large_orange_diamond:
+- [Parties for WWDC](https://github.com/sugarso/WWDC): Aggregator of developers parties happening in WWDC 2015.
 
 ## Communication
 
@@ -185,6 +186,7 @@ Jump to
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
 - [Words](https://github.com/soffes/words): Thesaurus app
+- [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Beautiful way to discover new startups and locate co-working spaces.
 
 ## Weather
 
