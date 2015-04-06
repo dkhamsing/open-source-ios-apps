@@ -158,6 +158,7 @@ Jump to
 ## Tools
 
 - [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers :large_orange_diamond:
+- [AppSales-Mobile](https://github.com/omz/AppSales-Mobile): iTunes Connect App Sales for iOS
 - Be my eyes: An app that connects blind people with volunteer helpers via live video chat
   - https://github.com/bemyeyes/bemyeyes-ios
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/
