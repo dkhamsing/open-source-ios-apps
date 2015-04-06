@@ -47,7 +47,7 @@ Jump to
 - Signal: Free, world-wide, private messaging and phone calls for iPhone
   - https://github.com/WhisperSystems/Signal-iOS
   - https://itunes.apple.com/app/id874139669
-- Telegram
+- Telegram: Messaging app with a focus on speed and security
   - https://telegram.org/apps
   - https://itunes.apple.com/app/telegram-messenger/id686449807
 
