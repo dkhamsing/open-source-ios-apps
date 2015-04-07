@@ -54,7 +54,7 @@ Jump to
   - https://telegram.org/apps
   - https://itunes.apple.com/app/telegram-messenger/id686449807
 
-### Developer
+## Developer
 
 - [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests. :large_orange_diamond:
 
