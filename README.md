@@ -19,6 +19,7 @@ Jump to
 11. [Tools](#tools)
 12. [Weather](#weather)
 13. [Misc](#misc)
+14. [Developer](#developer)
 
 :large_orange_diamond: Swift projects
 
@@ -236,6 +237,10 @@ id905177575
 - VisitBCN: City guide for Barcelona
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
+  
+### Developer
+
+- [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests. :large_orange_diamond:
 
 ### OS X
 - Clock-Saver: Simple clock screensaver :large_orange_diamond:
