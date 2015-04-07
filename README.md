@@ -2,6 +2,8 @@
 
 List of open-source iOS apps.
 
+Looking for OS X apps? Check out [mac-apps](https://github.com/AwesomeOpenSource/mac-apps) (there's also [android-apps](https://github.com/pcqpcq/open-source-android-apps)).
+
 Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](https://twitter.com/dkhamsing).
 
 Jump to
@@ -242,9 +244,6 @@ id905177575
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
   
-### OS X
-[mac-apps](https://github.com/AwesomeOpenSource/mac-apps): The repo for awesome open source mac apps! PRs welcome!
-
 ## Thanks
 
 This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift).
