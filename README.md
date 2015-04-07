@@ -2,13 +2,13 @@
 
 List of open-source iOS apps.
 
-Looking for OS X apps? Check out [mac-apps](https://github.com/AwesomeOpenSource/mac-apps) (there's also [android-apps](https://github.com/pcqpcq/open-source-android-apps)).
-
 Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](https://twitter.com/dkhamsing).
+
+Looking for OS X apps? Check out [mac-apps](https://github.com/AwesomeOpenSource/mac-apps) (there's also [android-apps](https://github.com/pcqpcq/open-source-android-apps)).
 
 Jump to
 
-1. [Apple Watch](#apple-watch)
+- [Apple Watch](#apple-watch)
 - [Communication](#communication)
 - [Games](#games)
 - [Developer](#developer)
