@@ -168,6 +168,7 @@ Jump to
 - C-41: Make developing film easier and more reliable by using this simple timer
   - https://github.com/ashfurrow/C-41
   - https://itunes.apple.com/app/c-41/id789924103
+- [Coffee Timer](https://github.com/ashfurrow/yourfirstswiftapp) :large_orange_diamond:
 - [Colo](https://github.com/wongzigii/Colo): Color themes hunter
 - ColorBlur: Add blur to your photos
   - https://github.com/maurovc/ColorBlur
