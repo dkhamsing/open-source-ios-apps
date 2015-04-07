@@ -28,12 +28,12 @@ Jump to
 ## Apple Watch
 
 - [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started): Track Bitcoin price :large_orange_diamond: 
-- [Bither](https://github.com/bither/bither-ios/tree/master/bither-ios%20WatchKit%20Extension): Realtime Bitcoin price. Monitor Bitcoin assets.
+- [Bither](https://github.com/bither/bither-ios/tree/master/bither-ios%20WatchKit%20Extension): Realtime Bitcoin price, monitor Bitcoin assets
 - [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator): Calculator app :large_orange_diamond: 
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app :large_orange_diamond: 
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple :large_orange_diamond: 
-- Parties for WWDC: Aggregator of developers parties happening in WWDC 2015.
+- Parties for WWDC: Aggregator of developers parties happening in WWDC 2015
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit :large_orange_diamond:
@@ -133,7 +133,7 @@ Jump to
 
 ## Personal
 
-- [Everest](https://github.com/EverestOpenSource/Everest-iOS): app for documenting your life through journeys and individual moments. 
+- [Everest](https://github.com/EverestOpenSource/Everest-iOS): app for documenting your life through journeys and individual moments
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
 - iContactU: Reminds you to contact people you ought to :large_orange_diamond:
   - https://github.com/rizal72/iContactU
@@ -191,8 +191,8 @@ Jump to
 - Round & Split: Tip Calculator :large_orange_diamond:
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737 
-- Speak
-  - https://github.com/1raynes/speakability: AAC & Speech Therapy 
+- Speak: AAC & Speech Therapy 
+  - https://github.com/1raynes/speakability
   - https://itunes.apple.com/app/speakability/id784509467
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Beautiful way to discover new startups and locate co-working spaces.
 - [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool
@@ -236,7 +236,7 @@ id905177575
   - https://github.com/ParsePlatform/ParseStore
   - https://itunes.apple.com/app/parse-store/id613679907
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule :large_orange_diamond:
-- [TheReservist](https://github.com/kimar/TheReservist): An App to check for availability of iPhones. :large_orange_diamond:
+- [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones :large_orange_diamond:
 - Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
