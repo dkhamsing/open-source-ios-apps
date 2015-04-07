@@ -237,14 +237,7 @@ id905177575
   - https://itunes.apple.com/app/visitbcn/id904676442
 
 ### OS X
-- Clock-Saver: Simple clock screensaver :large_orange_diamond:
-  - https://github.com/soffes/clock-saver
-- Gifs: A Mac App for finding GIFs
-  - https://github.com/orta/gifs
-- mac2imgur: Upload screenshots to imgur :large_orange_diamond:
-  - https://github.com/mileswd/mac2imgur
-- macdown: Markdown editor
-  - https://github.com/uranusjr/macdown
+[mac-apps](https://github.com/AwesomeOpenSource/mac-apps): The repo for awesome open source mac apps! PRs welcome!
 
 ## Thanks
 
