@@ -7,19 +7,19 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 Jump to
 
 1. [Apple Watch](#apple-watch)
-2. [Communication](#communication)
-3. [Games](#games)
-4. [Finance](#finance)
-5. [Multimedia](#multimedia)
-6. [News](#news)
-7. [Official](#official)
-8. [Personal](#personal)
-9. [Social](#social)
-10. [Tasks](#tasks)
-11. [Tools](#tools)
-12. [Weather](#weather)
-13. [Misc](#misc)
-14. [Developer](#developer)
+- [Communication](#communication)
+- [Games](#games)
+- [Developer](#developer)
+- [Finance](#finance)
+- [Multimedia](#multimedia)
+- [News](#news)
+- [Official](#official)
+- [Personal](#personal)
+- [Social](#social)
+- [Tasks](#tasks)
+- [Tools](#tools)
+- [Weather](#weather)
+- [Misc](#misc)
 
 :large_orange_diamond: Swift projects
 
@@ -51,6 +51,10 @@ Jump to
 - Telegram: Messaging app with a focus on speed and security
   - https://telegram.org/apps
   - https://itunes.apple.com/app/telegram-messenger/id686449807
+
+### Developer
+
+- [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests. :large_orange_diamond:
 
 ## Games
 
@@ -213,15 +217,15 @@ id905177575
   - https://github.com/twitterdev/cannonball-ios 
   - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
 - [Ghosty](https://github.com/mhaddl/Ghosty): Blogging App for Ghost :large_orange_diamond:
+- [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo): A Swift demo for HomeKit :large_orange_diamond:
 - Jupp: App with share extension for ADN :large_orange_diamond:
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
+- [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App :large_orange_diamond:
 - [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API :large_orange_diamond:
   - https://github.com/scotteg/LayerPlayer
   - https://itunes.apple.com/app/layer-player/id949768742
-- [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo): A Swift demo for HomeKit :large_orange_diamond:
-- [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App :large_orange_diamond:
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu :large_orange_diamond:
 - ParseDeveloperDay: Developer Conference App
   - https://github.com/ParsePlatform/ParseDeveloperDay
@@ -238,10 +242,6 @@ id905177575
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
   
-### Developer
-
-- [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests. :large_orange_diamond:
-
 ### OS X
 - Clock-Saver: Simple clock screensaver :large_orange_diamond:
   - https://github.com/soffes/clock-saver
