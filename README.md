@@ -141,6 +141,9 @@ Jump to
 - iGrades: Track your class grades
   - https://github.com/maurovc/iGrades
   - https://itunes.apple.com/app/id816987574
+- Mention: Personal media wish list
+  - https://github.com/mhaddl/mentio
+  - https://itunes.apple.com/app/mentio-personal-media-wish/id796557338
 - [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time
 - Onions: Cloud encrypted text storage app
   - https://github.com/onionsapp/Onions-iOS
