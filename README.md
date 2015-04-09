@@ -28,9 +28,14 @@ Jump to
 ## Apple Watch
 
 - [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started): Track Bitcoin price :large_orange_diamond: 
-- [Bither](https://github.com/bither/bither-ios/tree/master/bither-ios%20WatchKit%20Extension): Realtime Bitcoin price, monitor Bitcoin assets
+- Bither: Simple and secure Bitcoin wallet
+  - https://github.com/bither/bither-ios ([extension](https://github.com/bither/bither-ios/tree/master/bither-ios%20WatchKit%20Extension))
+  - https://itunes.apple.com/app/bither/id899478936
 - [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator): Calculator app :large_orange_diamond: 
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app :large_orange_diamond: 
+- HN Reader: Hacker News Reader :large_orange_diamond:
+  - https://github.com/Dimillian/SwiftHN
+  - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple :large_orange_diamond: 
 - Parties for WWDC: Aggregator of developers parties happening in WWDC 2015
@@ -74,9 +79,6 @@ Jump to
 
 ## Finance
 
-- Bither: Simple and secure Bitcoin wallet
-  - https://github.com/bither/bither-ios
-  - https://itunes.apple.com/app/bither/id899478936
 - [Coins](https://github.com/nothingmagical/coins): Bitcoin value tracker :large_orange_diamond:
 - Concurrency: Beautiful, intuitive currency converter
   - https://github.com/nicklockwood/Concurrency
@@ -109,9 +111,6 @@ Jump to
   - https://github.com/MengTo/DesignerNewsApp
   - https://itunes.apple.com/app/designer-news-app/id879990495
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader :large_orange_diamond:
-- HN Reader: Hacker News Reader :large_orange_diamond:
-  - https://github.com/Dimillian/SwiftHN
-  - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
 - News/YC: Hacker News client with user management, commenting, submitting and themes :large_orange_diamond:
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
