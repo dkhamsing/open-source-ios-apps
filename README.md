@@ -99,6 +99,9 @@ Jump to
   - https://itunes.apple.com/app/id955480687
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser :large_orange_diamond: 
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa :large_orange_diamond:
+- Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
+  - https://github.com/xcoo/upupu
+  - https://itunes.apple.com/app/upupu/id508401854
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Audio recorder App for iPhone and iPad :large_orange_diamond:
 
 ## News
