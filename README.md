@@ -100,10 +100,6 @@ Jump to
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser :large_orange_diamond: 
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa :large_orange_diamond:
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Audio recorder App for iPhone and iPad :large_orange_diamond:
-- VLC: Media Player 
-  - http://www.videolan.org/vlc/download-ios.html
-  - https://github.com/videolan/vlc
-  - https://itunes.apple.com/app/vlc-for-ios/id650377962
 
 ## News
 
@@ -126,6 +122,10 @@ Jump to
 - Wikipedia: Official Wikipedia App
   - https://github.com/wikimedia/apps-ios-wikipedia
   - https://itunes.apple.com/app/wikipedia-mobile/id324715238
+- VLC: Media Player 
+  - http://www.videolan.org/vlc/download-ios.html
+  - https://github.com/videolan/vlc
+  - https://itunes.apple.com/app/vlc-for-ios/id650377962
 - WordPress: Official WordPress App
   - https://github.com/wordpress-mobile/WordPress-iOS
   - https://itunes.apple.com/app/wordpress/id335703880
