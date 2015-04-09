@@ -238,6 +238,7 @@ id905177575
 - ParseStore: Backend provider for selling physical goods using Parse
   - https://github.com/ParsePlatform/ParseStore
   - https://itunes.apple.com/app/parse-store/id613679907
+- [RKGist](https://github.com/RestKit/RKGist): GitHub Gist app using RestKit
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule :large_orange_diamond:
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones :large_orange_diamond:
 - Vinylogue: A simple Last.fm client
