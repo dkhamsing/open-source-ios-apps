@@ -44,7 +44,7 @@ Jump to
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit :large_orange_diamond:
-
+- [sample-watchKit-apps](https://github.com/sanketfirodiya/sample-watchkit-apps): Curated list of the best, in-depth WatchKit tutorials that explain key concepts and provide sample code. 
 ## Communication
 
 - [Chats](https://github.com/acani/Chats): Messages app :large_orange_diamond:
