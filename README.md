@@ -154,6 +154,9 @@ Jump to
 
 ## [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 
+- C-41: Make developing film easier and more reliable by using this simple timer
+  - https://github.com/ashfurrow/C-41
+  - https://itunes.apple.com/app/c-41/id789924103
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa :large_orange_diamond:
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa :large_orange_diamond:
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more)
@@ -183,9 +186,6 @@ Jump to
 - Be my eyes: An app that connects blind people with volunteer helpers via live video chat
   - https://github.com/bemyeyes/bemyeyes-ios
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/
-- C-41: Make developing film easier and more reliable by using this simple timer
-  - https://github.com/ashfurrow/C-41
-  - https://itunes.apple.com/app/c-41/id789924103
 - [Coffee Timer](https://github.com/ashfurrow/yourfirstswiftapp) :large_orange_diamond:
 - [Colo](https://github.com/wongzigii/Colo): Color themes hunter
 - ColorBlur: Add blur to your photos
