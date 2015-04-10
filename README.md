@@ -17,7 +17,7 @@ Jump to
 - [News](#news)
 - [Official](#official)
 - [Personal](#personal)
-- [React Native](react-native)
+- [React Native](#react-native)
 - [ReactiveCocoa](#reactivecocoa)
 - [Social](#social)
 - [Tasks](#tasks)
