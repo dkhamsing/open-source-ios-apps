@@ -17,6 +17,7 @@ Jump to
 - [News](#news)
 - [Official](#official)
 - [Personal](#personal)
+- [ReactiveCocoa](#reactive-cocoa)
 - [Social](#social)
 - [Tasks](#tasks)
 - [Tools](#tools)
@@ -151,6 +152,10 @@ Jump to
   - https://github.com/onionsapp/Onions-iOS
   - https://itunes.apple.com/app/onions/id687296481
 - [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing :large_orange_diamond:
+
+## [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
+
+- [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more)
 
 ## Social
 
