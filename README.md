@@ -17,7 +17,7 @@ Jump to
 - [News](#news)
 - [Official](#official)
 - [Personal](#personal)
-- [ReactiveCocoa](#reactive-cocoa)
+- [ReactiveCocoa](#reactivecocoa)
 - [Social](#social)
 - [Tasks](#tasks)
 - [Tools](#tools)
@@ -99,7 +99,6 @@ Jump to
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/app/id955480687
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser :large_orange_diamond: 
-- [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa :large_orange_diamond:
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
@@ -155,6 +154,8 @@ Jump to
 
 ## [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 
+- [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa :large_orange_diamond:
+- [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa :large_orange_diamond:
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more)
 
 ## Social
@@ -197,7 +198,6 @@ Jump to
 - GreatReader: "Great" PDF reader designed for both iPhone and iPad
   - https://github.com/semweb/GreatReader
   - https://itunes.apple.com/app/greatreader/id903651112
-- [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa :large_orange_diamond:
 - Round & Split: Tip Calculator :large_orange_diamond:
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737 
