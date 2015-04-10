@@ -44,6 +44,7 @@ Jump to
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit :large_orange_diamond:
+- [WatchPics](https://github.com/D-32/WatchPics): Instagram for the Apple Watch
 
 ## Communication
 
