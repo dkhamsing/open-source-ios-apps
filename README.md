@@ -82,6 +82,9 @@ Jump to
 
 ## Finance
 
+- BitStore: Bitcoin wallet
+  - https://github.com/BitStore/BitStore-iOS
+  - https://itunes.apple.com/app/bitstore/id890668158
 - [Coins](https://github.com/nothingmagical/coins): Bitcoin value tracker :large_orange_diamond:
 - Concurrency: Beautiful, intuitive currency converter
   - https://github.com/nicklockwood/Concurrency
