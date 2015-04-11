@@ -16,6 +16,7 @@ Jump to
 - [Multimedia](#multimedia)
 - [News](#news)
 - [Official](#official)
+- [Parse](#parse)
 - [Personal](#personal)
 - [React Native](#react-native)
 - [ReactiveCocoa](#reactivecocoa)
@@ -92,9 +93,6 @@ Jump to
 
 ## Multimedia
 
-- Anypic: Mobile and web app that lets users share photos similar to Instagram
-  - https://github.com/ParsePlatform/Anypic
-  - https://itunes.apple.com/app/anypic/id539741538
 - Artsy: The Art World in Your Pocket
   - https://github.com/artsy/eigen
   - https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080
@@ -138,6 +136,25 @@ Jump to
   - https://github.com/wordpress-mobile/WordPress-iOS
   - https://itunes.apple.com/app/wordpress/id335703880
 
+## [Parse](https://www.parse.com/)
+
+- Anypic: Mobile and web app that lets users share photos similar to Instagram
+  - https://github.com/ParsePlatform/Anypic
+  - https://itunes.apple.com/app/anypic/id539741538
+- AnyWall: A fun geolocation app built with Parse
+  - https://github.com/ParsePlatform/AnyWall
+  - https://itunes.apple.com/app/anywall/id520955490
+- [iBeaconTasks](https://github.com/TomekB/iBeaconTasks): iBeacon TODO reminder app based on Parse
+- Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video
+  - https://github.com/TomekB/Parse-Challenge-App
+  - https://itunes.apple.com/app/lets-challenge-me/id944004497
+- ParseDeveloperDay: Developer Conference App
+  - https://github.com/ParsePlatform/ParseDeveloperDay
+  - https://itunes.apple.com/app/parse-developer-day/id691488056
+- ParseStore: Backend provider for selling physical goods using Parse
+  - https://github.com/ParsePlatform/ParseStore
+  - https://itunes.apple.com/app/parse-store/id613679907
+
 ## Personal
 
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS): app for documenting your life through journeys and individual moments
@@ -173,9 +190,6 @@ Jump to
 
 ## Social
 
-- Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video
-  - https://github.com/TomekB/Parse-Challenge-App
-  - https://itunes.apple.com/app/lets-challenge-me/id944004497
 - Peggsite: App for sharing a social board
   - https://github.com/jenduf/GenericSocialApp
   - https://itunes.apple.com/app/peggsite/id938445951 
@@ -184,7 +198,6 @@ Jump to
 
 - [Cheddar](https://github.com/nothingmagical/cheddar-ios): Simple & instant task manager
 - [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List): Store & retrieve tasks using CloudKit :large_orange_diamond:
-- [iBeaconTasks](https://github.com/TomekB/iBeaconTasks): iBeacon TODO reminder app based on Parse
 - Task: Designed to quickly and easily add tasks to your iPhone :large_orange_diamond:
   - https://github.com/mbcrump/TasksForSwiftWithPersistingData
   - https://itunes.apple.com/app/task-application/id960435759
@@ -231,9 +244,6 @@ Jump to
 - A Menjar: Food menu app
   - https://github.com/maurovc/aMenjar
   - https://itunes.apple.com/app/a-menjar!/id816473131
-- AnyWall: A fun geolocation app built with Parse
-  - https://github.com/ParsePlatform/AnyWall
-  - https://itunes.apple.com/app/anywall/id520955490
 id905177575   
 - Cannonball: Fun way to create and share stories and poems :large_orange_diamond: 
   - https://github.com/twitterdev/cannonball-ios 
@@ -249,12 +259,6 @@ id905177575
   - https://github.com/scotteg/LayerPlayer
   - https://itunes.apple.com/app/layer-player/id949768742
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu :large_orange_diamond:
-- ParseDeveloperDay: Developer Conference App
-  - https://github.com/ParsePlatform/ParseDeveloperDay
-  - https://itunes.apple.com/app/parse-developer-day/id691488056
-- ParseStore: Backend provider for selling physical goods using Parse
-  - https://github.com/ParsePlatform/ParseStore
-  - https://itunes.apple.com/app/parse-store/id613679907
 - [RKGist](https://github.com/RestKit/RKGist): GitHub Gist app using RestKit
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule :large_orange_diamond:
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones :large_orange_diamond:
