@@ -13,7 +13,7 @@ Jump to
 - [Games](#games)
 - [Developer](#developer)
 - [Finance](#finance)
-- [Multimedia](#multimedia)
+- [Multimedia](#multimedia)n
 - [News](#news)
 - [Official](#official)
 - [Parse](#parse)
@@ -178,6 +178,7 @@ Jump to
 ## [React Native](http://facebook.github.io/react-native/)
 
 - [App examples by Facebook](https://github.com/facebook/react-native/tree/master/Examples): Sample apps including 2048, movies, tic tac toe and more
+- [Facebook Login](https://github.com/brentvatne/react-native-login)
 - [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder): Property search app 
   
 ## [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
