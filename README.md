@@ -21,6 +21,7 @@ Jump to
 - [Personal](#personal)
 - [React Native](#react-native)
 - [ReactiveCocoa](#reactivecocoa)
+- [ResearchKit](#researchkit)
 - [Sample](#sample)
 - [Social](#social)
 - [Tasks](#tasks)
@@ -197,6 +198,12 @@ Jump to
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa :large_orange_diamond:
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more)
 
+## ResearchKit
+
+- AsthmaHealth: ResearchKit app studying Asthma, developed by Mt Sinai
+  - https://github.com/ResearchKit/AsthmaHealth
+  - https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668
+  
 ## Sample
 
 - [Code by Apple](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code)
