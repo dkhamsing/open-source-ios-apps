@@ -14,7 +14,7 @@ Jump to
 - [Developer](#developer)
 - [Finance](#finance)
 - [Location](#location)
-- [Multimedia](#multimedia)n
+- [Multimedia](#multimedia)
 - [News](#news)
 - [Official](#official)
 - [Parse](#parse)
@@ -94,7 +94,11 @@ Jump to
   - https://itunes.apple.com/app/concurrency/id738872892
 
 ## Location
+
+- [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers :large_orange_diamond:
+- [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time
 - [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS): Share your location
+- [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups and locate co-working spaces
 
 ## Multimedia
 
@@ -173,7 +177,6 @@ Jump to
 - Mention: Personal media wish list
   - https://github.com/mhaddl/mentio
   - https://itunes.apple.com/app/mentio-personal-media-wish/id796557338
-- [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time
 - Onions: Cloud encrypted text storage app
   - https://github.com/onionsapp/Onions-iOS
   - https://itunes.apple.com/app/onions/id687296481
@@ -214,7 +217,6 @@ Jump to
 
 ## Tools
 
-- [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers :large_orange_diamond:
 - [AppSales-Mobile](https://github.com/omz/AppSales-Mobile): iTunes Connect App Sales for iOS
 - Be my eyes: An app that connects blind people with volunteer helpers via live video chat
   - https://github.com/bemyeyes/bemyeyes-ios
@@ -237,7 +239,6 @@ Jump to
 - Speak: AAC & Speech Therapy 
   - https://github.com/1raynes/speakability
   - https://itunes.apple.com/app/speakability/id784509467
-- [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Beautiful way to discover new startups and locate co-working spaces.
 - [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool
 - VPN On :large_orange_diamond:
   - https://github.com/lexrus/VPNOn
