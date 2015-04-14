@@ -208,6 +208,7 @@ Jump to
 
 - [Code by Apple](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code)
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) :large_orange_diamond: 
+- [RKGist](https://github.com/RestKit/RKGist): Sample GitHub Gist app for RestKit 
 
 ## Social
 
@@ -278,7 +279,6 @@ id905177575
   - https://github.com/scotteg/LayerPlayer
   - https://itunes.apple.com/app/layer-player/id949768742
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu :large_orange_diamond:
-- [RKGist](https://github.com/RestKit/RKGist): GitHub Gist app using RestKit
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule :large_orange_diamond:
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones :large_orange_diamond:
 - Vinylogue: A simple Last.fm client
