@@ -13,6 +13,7 @@ Jump to
 - [Games](#games)
 - [Developer](#developer)
 - [Finance](#finance)
+- [Location](#location)
 - [Multimedia](#multimedia)n
 - [News](#news)
 - [Official](#official)
@@ -91,6 +92,9 @@ Jump to
 - Concurrency: Beautiful, intuitive currency converter
   - https://github.com/nicklockwood/Concurrency
   - https://itunes.apple.com/app/concurrency/id738872892
+
+## Location
+- [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS): Share your location
 
 ## Multimedia
 
