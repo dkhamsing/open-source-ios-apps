@@ -168,7 +168,6 @@ Jump to
 ## Personal
 
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS): app for documenting your life through journeys and individual moments
-- [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
 - iContactU: Reminds you to contact people you ought to :large_orange_diamond:
   - https://github.com/rizal72/iContactU
   - https://itunes.apple.com/app/icontactu/id920200100
@@ -182,6 +181,7 @@ Jump to
   - https://github.com/onionsapp/Onions-iOS
   - https://itunes.apple.com/app/onions/id687296481
 - [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing :large_orange_diamond:
+- [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool
 
 ## [React Native](http://facebook.github.io/react-native/)
 
@@ -194,6 +194,7 @@ Jump to
 - C-41: Make developing film easier and more reliable by using this simple timer
   - https://github.com/ashfurrow/C-41
   - https://itunes.apple.com/app/c-41/id789924103
+- [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa :large_orange_diamond:
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa :large_orange_diamond:
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more)
@@ -206,9 +207,12 @@ Jump to
   
 ## Sample
 
+- Cannonball: Sample app for Fabric (fun way to create and share stories and poems) :large_orange_diamond: 
+  - https://github.com/twitterdev/cannonball-ios 
+  - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
 - [Code by Apple](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code)
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) :large_orange_diamond: 
-- [RKGist](https://github.com/RestKit/RKGist): Sample GitHub Gist app for RestKit 
+- [RKGist](https://github.com/RestKit/RKGist): Sample app for RestKit (GitHub Gist app)
 
 ## Social
 
@@ -248,7 +252,6 @@ Jump to
 - Speak: AAC & Speech Therapy 
   - https://github.com/1raynes/speakability
   - https://itunes.apple.com/app/speakability/id784509467
-- [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool
 - VPN On :large_orange_diamond:
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
@@ -265,9 +268,6 @@ Jump to
   - https://github.com/maurovc/aMenjar
   - https://itunes.apple.com/app/a-menjar!/id816473131
 id905177575   
-- Cannonball: Fun way to create and share stories and poems :large_orange_diamond: 
-  - https://github.com/twitterdev/cannonball-ios 
-  - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
 - [Ghosty](https://github.com/mhaddl/Ghosty): Blogging App for Ghost :large_orange_diamond:
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo): A Swift demo for HomeKit :large_orange_diamond:
 - Jupp: App with share extension for ADN :large_orange_diamond:
