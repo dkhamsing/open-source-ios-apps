@@ -201,10 +201,19 @@ Jump to
 
 ## ResearchKit
 
-- AsthmaHealth: ResearchKit app studying Asthma, developed by Mt Sinai
+- AsthmaHealth: ResearchKit app studying Asthma 
   - https://github.com/ResearchKit/AsthmaHealth
   - https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668
-  
+- GlucoSuccess: ResearchKit app studying Diabetes
+  - https://github.com/ResearchKit/GlucoSuccess
+  - https://itunes.apple.com/app/glucosuccess/id972143976 
+- mPower: ResearchKit app studying Parkinson's disease 
+  - https://github.com/ResearchKit/mPower
+  - https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200  
+- Share The Journey: ResearchKit app studying Breast Cancer  
+  - https://github.com/ResearchKit/ShareTheJourney
+  - https://itunes.apple.com/app/share-the-journey/id972180604 
+
 ## Sample
 
 - Cannonball: Sample app for Fabric (fun way to create and share stories and poems) :large_orange_diamond: 
