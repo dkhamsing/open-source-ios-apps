@@ -221,6 +221,10 @@ Jump to
   - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
 - [Code by Apple](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code)
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) :large_orange_diamond: 
+- [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo): A Swift demo for HomeKit :large_orange_diamond:
+- LayerPlayer: Explore the capabilities of Apple's Core Animation API :large_orange_diamond:
+  - https://github.com/scotteg/LayerPlayer
+  - https://itunes.apple.com/app/layer-player/id949768742
 - [RKGist](https://github.com/RestKit/RKGist): Sample app for RestKit (GitHub Gist app)
 
 ## Social
@@ -278,15 +282,11 @@ Jump to
   - https://itunes.apple.com/app/a-menjar!/id816473131
 id905177575   
 - [Ghosty](https://github.com/mhaddl/Ghosty): Blogging App for Ghost :large_orange_diamond:
-- [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo): A Swift demo for HomeKit :large_orange_diamond:
 - Jupp: App with share extension for ADN :large_orange_diamond:
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App :large_orange_diamond:
 - [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app
-- LayerPlayer: Explore the capabilities of Apple's Core Animation API :large_orange_diamond:
-  - https://github.com/scotteg/LayerPlayer
-  - https://itunes.apple.com/app/layer-player/id949768742
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu :large_orange_diamond:
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule :large_orange_diamond:
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones :large_orange_diamond:
