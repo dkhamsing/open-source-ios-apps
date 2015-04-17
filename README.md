@@ -164,6 +164,8 @@ Jump to
 - ParseStore: Backend provider for selling physical goods using Parse
   - https://github.com/ParsePlatform/ParseStore
   - https://itunes.apple.com/app/parse-store/id613679907
+- [Paws](http://www.appcoda.com/instagram-app-parse-swift): Building an Instagram-Like App with Parse and Swift :large_orange_diamond: 
+
 
 ## Personal
 
