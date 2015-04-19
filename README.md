@@ -126,6 +126,7 @@ Jump to
 - News/YC: Hacker News client with user management, commenting, submitting and themes :large_orange_diamond:
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
+- [newsyc](https://github.com/Xuzz/newsyc): An iPhone Hacker News client. http://newsyc.me/
 - [Reddit](https://github.com/amitburst/reddit-demo): Reddit news app :large_orange_diamond:
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app
 - The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan :large_orange_diamond:
