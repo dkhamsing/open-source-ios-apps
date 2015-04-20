@@ -131,7 +131,9 @@ Jump to
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app
 - The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan :large_orange_diamond:
   - https://github.com/aclissold/the-oakland-post 
-  - https://itunes.apple.com/app/oakland-post/id931152313
+  - https://itunes.apple.com/app/oakland-post/id931152313  
+- [v2ex](https://github.com/singro/v2ex): An iOS client for v2ex.com  
+  - https://itunes.apple.com/us/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535?ls=1&mt=8
 
 ## Official
 
