@@ -128,6 +128,9 @@ Jump to
   - https://itunes.apple.com/app/news-yc/id592893508
 - [newsyc](https://github.com/Xuzz/newsyc): An iPhone Hacker News client. http://newsyc.me/
 - [Reddit](https://github.com/amitburst/reddit-demo): Reddit news app :large_orange_diamond:
+- RSSRead: A RSS reader with offline feature
+  - https://github.com/ming1016/RSSRead
+  - https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app
 - The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan :large_orange_diamond:
   - https://github.com/aclissold/the-oakland-post 
