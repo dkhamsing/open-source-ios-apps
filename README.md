@@ -39,6 +39,9 @@ Jump to
   - https://itunes.apple.com/app/bither/id899478936
 - [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator): Calculator app :large_orange_diamond: 
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app :large_orange_diamond: 
+- Gulps
+  - https://github.com/FancyPixel/gulps: Track of your daily water consumption
+  - https://itunes.apple.com/app/gulps/id979057304
 - HN Reader: Hacker News Reader :large_orange_diamond:
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
