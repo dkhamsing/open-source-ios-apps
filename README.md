@@ -136,7 +136,8 @@ Jump to
   - https://github.com/aclissold/the-oakland-post 
   - https://itunes.apple.com/app/oakland-post/id931152313  
 - [v2ex](https://github.com/singro/v2ex): An iOS client for v2ex.com  
-  - https://itunes.apple.com/us/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535?ls=1&mt=8
+  - https://itunes.apple.com/us/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535?ls=1&mt=8  
+- [Ganhuo](https://github.com/ganhuo/iOS-Ganhuo): Ganhuo(developing)
 
 ## Official
 
