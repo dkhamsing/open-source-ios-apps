@@ -283,6 +283,7 @@ Jump to
 ## Weather
 
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon :large_orange_diamond:
+- [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Open Source Weather App created with Swift   
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app :large_orange_diamond:
 
 ## Misc
