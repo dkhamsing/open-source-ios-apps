@@ -29,33 +29,33 @@ Jump to
 - [Weather](#weather)
 - [Misc](#misc)
 
-:large_orange_diamond: Swift projects
+🔶 Swift projects
 
 ## Apple Watch
 
-- [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started): Track Bitcoin price :large_orange_diamond: 
+- [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started): Track Bitcoin price 🔶 
 - Bither: Simple and secure Bitcoin wallet
   - https://github.com/bither/bither-ios ([extension](https://github.com/bither/bither-ios/tree/master/bither-ios%20WatchKit%20Extension))
   - https://itunes.apple.com/app/bither/id899478936
-- [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator): Calculator app :large_orange_diamond: 
-- [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app :large_orange_diamond: 
+- [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator): Calculator app 🔶 
+- [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app 🔶 
 - Gulps
   - https://github.com/FancyPixel/gulps: Track of your daily water consumption
   - https://itunes.apple.com/app/gulps/id979057304
-- HN Reader: Hacker News Reader :large_orange_diamond:
+- HN Reader: Hacker News Reader 🔶
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
-- [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple :large_orange_diamond: 
+- [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
 - Parties for WWDC: Aggregator of developers parties happening in WWDC 2015
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
-- [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit :large_orange_diamond:
+- [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit 🔶
 - [WatchPics](https://github.com/D-32/WatchPics): Instagram for the Apple Watch
 
 ## Communication
 
-- [Chats](https://github.com/acani/Chats): Messages app :large_orange_diamond:
+- [Chats](https://github.com/acani/Chats): Messages app 🔶
 - ChatSecure: Encrypted chat app that supports OTR encryption over XMPP
   - https://github.com/ChatSecure/ChatSecure-iOS
   - https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063
@@ -71,19 +71,19 @@ Jump to
 
 ## Developer
 
-- [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests. :large_orange_diamond:
+- [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests. 🔶
 
 ## Games
 
 - [2048](https://github.com/austinzheng/iOS-2048): 2048 game in Objective-C
-- [2048](https://github.com/austinzheng/swift-2048): 2048 game in Swift :large_orange_diamond:
+- [2048](https://github.com/austinzheng/swift-2048): 2048 game in Swift 🔶
 - Canabalt: Infinite runner game
   - https://github.com/ericjohnson/canabalt-ios
   - https://itunes.apple.com/app/canabalt/id333180061
-- [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app :large_orange_diamond:
-- [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird :large_orange_diamond:
-- [Game Of Life](https://github.com/yonbergman/swift-gameoflife): Conway's Game of Life :large_orange_diamond:
-- [Orbit7](https://github.com/Mav3r1ck/Orbit7): iOS Game created in SpriteKit :large_orange_diamond:
+- [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app 🔶
+- [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird 🔶
+- [Game Of Life](https://github.com/yonbergman/swift-gameoflife): Conway's Game of Life 🔶
+- [Orbit7](https://github.com/Mav3r1ck/Orbit7): iOS Game created in SpriteKit 🔶
 - Spare Parts: Simple 2D point and line physics using Verlet integration
   - https://github.com/adamwulf/spare-parts-app
 
@@ -92,14 +92,14 @@ Jump to
 - BitStore: Bitcoin wallet
   - https://github.com/BitStore/BitStore-iOS
   - https://itunes.apple.com/app/bitstore/id890668158
-- [Coins](https://github.com/nothingmagical/coins): Bitcoin value tracker :large_orange_diamond:
+- [Coins](https://github.com/nothingmagical/coins): Bitcoin value tracker 🔶
 - Concurrency: Beautiful, intuitive currency converter
   - https://github.com/nicklockwood/Concurrency
   - https://itunes.apple.com/app/concurrency/id738872892
 
 ## Location
 
-- [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers :large_orange_diamond:
+- [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers 🔶
 - [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time
 - [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS): Share your location
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups and locate co-working spaces
@@ -114,28 +114,28 @@ Jump to
 - OCiney: Movie info app
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/app/id955480687
-- [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser :large_orange_diamond: 
+- [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶 
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
-- [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Audio recorder App for iPhone and iPad :large_orange_diamond:
+- [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Audio recorder App for iPhone and iPad 🔶
 
 ## News
 
-- Designer News App :large_orange_diamond: 
+- Designer News App 🔶 
   - https://github.com/MengTo/DesignerNewsApp
   - https://itunes.apple.com/app/designer-news-app/id879990495
-- [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader :large_orange_diamond:
-- News/YC: Hacker News client with user management, commenting, submitting and themes :large_orange_diamond:
+- [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader 🔶
+- News/YC: Hacker News client with user management, commenting, submitting and themes 🔶
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
 - [newsyc](https://github.com/Xuzz/newsyc): An iPhone Hacker News client. http://newsyc.me/
-- [Reddit](https://github.com/amitburst/reddit-demo): Reddit news app :large_orange_diamond:
+- [Reddit](https://github.com/amitburst/reddit-demo): Reddit news app 🔶
 - RSSRead: A RSS reader with offline feature
   - https://github.com/ming1016/RSSRead
   - https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app
-- The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan :large_orange_diamond:
+- The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan 🔶
   - https://github.com/aclissold/the-oakland-post 
   - https://itunes.apple.com/app/oakland-post/id931152313  
 - [v2ex](https://github.com/singro/v2ex): An iOS client for v2ex.com  
@@ -144,7 +144,7 @@ Jump to
 
 ## Official
 
-- [Firefox](https://github.com/mozilla/firefox-ios): Official Firefox app :large_orange_diamond:
+- [Firefox](https://github.com/mozilla/firefox-ios): Official Firefox app 🔶
 - Wikipedia: Official Wikipedia App
   - https://github.com/wikimedia/apps-ios-wikipedia
   - https://itunes.apple.com/app/wikipedia-mobile/id324715238
@@ -174,13 +174,13 @@ Jump to
 - ParseStore: Backend provider for selling physical goods using Parse
   - https://github.com/ParsePlatform/ParseStore
   - https://itunes.apple.com/app/parse-store/id613679907
-- [Paws](http://www.appcoda.com/instagram-app-parse-swift): Building an Instagram-Like App with Parse and Swift :large_orange_diamond: 
+- [Paws](http://www.appcoda.com/instagram-app-parse-swift): Building an Instagram-Like App with Parse and Swift 🔶 
 
 
 ## Personal
 
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS): app for documenting your life through journeys and individual moments
-- iContactU: Reminds you to contact people you ought to :large_orange_diamond:
+- iContactU: Reminds you to contact people you ought to 🔶
   - https://github.com/rizal72/iContactU
   - https://itunes.apple.com/app/icontactu/id920200100
 - iGrades: Track your class grades
@@ -192,7 +192,7 @@ Jump to
 - Onions: Cloud encrypted text storage app
   - https://github.com/onionsapp/Onions-iOS
   - https://itunes.apple.com/app/onions/id687296481
-- [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing :large_orange_diamond:
+- [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing 🔶
 - [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool
 
 ## [React Native](http://facebook.github.io/react-native/)
@@ -208,8 +208,8 @@ Jump to
   - https://github.com/ashfurrow/C-41
   - https://itunes.apple.com/app/c-41/id789924103
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
-- [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa :large_orange_diamond:
-- [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa :large_orange_diamond:
+- [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa 🔶
+- [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa 🔶
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more)
 
 ## ResearchKit
@@ -229,13 +229,13 @@ Jump to
 
 ## Sample
 
-- Cannonball: Sample app for Fabric (fun way to create and share stories and poems) :large_orange_diamond: 
+- Cannonball: Sample app for Fabric (fun way to create and share stories and poems) 🔶 
   - https://github.com/twitterdev/cannonball-ios 
   - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
 - [Code by Apple](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code)
-- [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) :large_orange_diamond: 
-- [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo): A Swift demo for HomeKit :large_orange_diamond:
-- LayerPlayer: Explore the capabilities of Apple's Core Animation API :large_orange_diamond:
+- [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) 🔶 
+- [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo): A Swift demo for HomeKit 🔶
+- LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶
   - https://github.com/scotteg/LayerPlayer
   - https://itunes.apple.com/app/layer-player/id949768742
 - [RKGist](https://github.com/RestKit/RKGist): Sample app for RestKit (GitHub Gist app)
@@ -249,8 +249,8 @@ Jump to
 ## Tasks
 
 - [Cheddar](https://github.com/nothingmagical/cheddar-ios): Simple & instant task manager
-- [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List): Store & retrieve tasks using CloudKit :large_orange_diamond:
-- Task: Designed to quickly and easily add tasks to your iPhone :large_orange_diamond:
+- [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List): Store & retrieve tasks using CloudKit 🔶
+- Task: Designed to quickly and easily add tasks to your iPhone 🔶
   - https://github.com/mbcrump/TasksForSwiftWithPersistingData
   - https://itunes.apple.com/app/task-application/id960435759
 
@@ -260,34 +260,34 @@ Jump to
 - Be my eyes: An app that connects blind people with volunteer helpers via live video chat
   - https://github.com/bemyeyes/bemyeyes-ios
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/
-- [Coffee Timer](https://github.com/ashfurrow/yourfirstswiftapp) :large_orange_diamond:
+- [Coffee Timer](https://github.com/ashfurrow/yourfirstswiftapp) 🔶
 - [Colo](https://github.com/wongzigii/Colo): Color themes hunter
 - ColorBlur: Add blur to your photos
   - https://github.com/maurovc/ColorBlur
   - https://itunes.apple.com/app/id928863510
-- [DeckRocket](https://github.com/jpsim/DeckRocket): Turn your iPhone into a remote for Deckset presentations :large_orange_diamond:
-- Edhita: Text editor :large_orange_diamond:
+- [DeckRocket](https://github.com/jpsim/DeckRocket): Turn your iPhone into a remote for Deckset presentations 🔶
+- Edhita: Text editor 🔶
   - https://github.com/tnantoka/edhita
   - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
 - GreatReader: "Great" PDF reader designed for both iPhone and iPad
   - https://github.com/semweb/GreatReader
   - https://itunes.apple.com/app/greatreader/id903651112
-- Round & Split: Tip Calculator :large_orange_diamond:
+- Round & Split: Tip Calculator 🔶
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737 
 - Speak: AAC & Speech Therapy 
   - https://github.com/1raynes/speakability
   - https://itunes.apple.com/app/speakability/id784509467
-- VPN On :large_orange_diamond:
+- VPN On 🔶
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
 - [Words](https://github.com/soffes/words): Thesaurus app
 
 ## Weather
 
-- [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon :large_orange_diamond:
+- [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon 🔶
 - [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Open Source Weather App created with Swift   
-- [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app :large_orange_diamond:
+- [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app 🔶
 
 ## Misc
 
@@ -295,15 +295,15 @@ Jump to
   - https://github.com/maurovc/aMenjar
   - https://itunes.apple.com/app/a-menjar!/id816473131
 id905177575   
-- [Ghosty](https://github.com/mhaddl/Ghosty): Blogging App for Ghost :large_orange_diamond:
-- Jupp: App with share extension for ADN :large_orange_diamond:
+- [Ghosty](https://github.com/mhaddl/Ghosty): Blogging App for Ghost 🔶
+- Jupp: App with share extension for ADN 🔶
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
-- [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App :large_orange_diamond:
+- [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App 🔶
 - [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app
-- [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu :large_orange_diamond:
-- [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule :large_orange_diamond:
-- [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones :large_orange_diamond:
+- [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu 🔶
+- [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule 🔶
+- [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
 - Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
