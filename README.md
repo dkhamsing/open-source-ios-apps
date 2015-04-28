@@ -39,8 +39,8 @@ Jump to
   - https://itunes.apple.com/app/bither/id899478936
 - [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator): Calculator app 🔶 
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app 🔶 
-- Gulps
-  - https://github.com/FancyPixel/gulps: Track of your daily water consumption
+- Gulps: Track of your daily water consumption 🔶
+  - https://github.com/FancyPixel/gulps
   - https://itunes.apple.com/app/gulps/id979057304
 - HN Reader: Hacker News Reader 🔶
   - https://github.com/Dimillian/SwiftHN
@@ -141,7 +141,6 @@ Jump to
   - https://itunes.apple.com/app/oakland-post/id931152313  
 - [v2ex](https://github.com/singro/v2ex): An iOS client for v2ex.com  
   - https://itunes.apple.com/us/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535?ls=1&mt=8  
-- [Ganhuo](https://github.com/ganhuo/iOS-Ganhuo): Ganhuo(developing)
 
 ## Official
 
@@ -287,7 +286,7 @@ Jump to
 ## Weather
 
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon 🔶
-- [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Open Source Weather App created with Swift   
+- [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Open Source Weather App created with Swift 🔶
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app 🔶
 
 ## Misc
