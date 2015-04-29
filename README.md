@@ -37,6 +37,9 @@ Jump to
 - Bither: Simple and secure Bitcoin wallet
   - https://github.com/bither/bither-ios ([extension](https://github.com/bither/bither-ios/tree/master/bither-ios%20WatchKit%20Extension))
   - https://itunes.apple.com/app/bither/id899478936
+- Brew: Discover craft beer pubs nearby 🔶
+  - https://github.com/contentful-labs/ContentfulWatchKitExample
+  - https://itunes.apple.com/app/id986830433
 - [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator): Calculator app 🔶 
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app 🔶 
 - Gulps: Track of your daily water consumption 🔶
