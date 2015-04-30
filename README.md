@@ -129,6 +129,9 @@ Jump to
 - Designer News App 🔶 
   - https://github.com/MengTo/DesignerNewsApp
   - https://itunes.apple.com/app/designer-news-app/id879990495
+- Hacker News Client: Hacker News API-Based iOS Reader (Firebase)
+  - https://github.com/bonzoq/hniosreader
+  - https://itunes.apple.com/app/hacker-news-client/id939454231 
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader 🔶
 - News/YC: Hacker News client with user management, commenting, submitting and themes 🔶
   - https://github.com/bennyguitar/News-YC---iPhone
