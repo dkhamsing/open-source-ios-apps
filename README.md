@@ -262,7 +262,7 @@ id905177575
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
   
-## iOS8 Samplers
+## iOS 8 Samplers
 - [iOS 8 Samplers](https://github.com/shu223/iOS8-Sampler): Code examples for the new functions in iOS 8 such as audio effects, image filters, metal, healthkit, touch id, ruby annotation, webkit, altimeter, pedometer, avkit, histogram.
   
 ## Thanks
