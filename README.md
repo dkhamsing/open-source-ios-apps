@@ -24,7 +24,7 @@ Jump to
 - [Tools](#tools)
 - [Weather](#weather)
 - [Misc](#misc)
-- [iOS 8 Samplers](#iOS8-samplers)
+- [iOS 8 Samplers](#ios-8-samplers)
 
 :large_orange_diamond: Swift projects
 
