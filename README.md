@@ -146,7 +146,8 @@ Jump to
 - The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan 🔶
   - https://github.com/aclissold/the-oakland-post 
   - https://itunes.apple.com/app/oakland-post/id931152313  
-- [v2ex](https://github.com/singro/v2ex): An iOS client for v2ex.com  
+- v2ex: An iOS client for the technical and creative website v2ex.com  
+  - https://github.com/singro/v2ex 
   - https://itunes.apple.com/us/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535?ls=1&mt=8  
 
 ## Official
@@ -264,7 +265,7 @@ Jump to
 
 ## Tools
 
-- [AppSales-Mobile](https://github.com/omz/AppSales-Mobile): iTunes Connect App Sales for iOS
+- [AppSales-Mobile](https://github.com/omz/AppSales-Mobile): App for iTunes Connect Sales 
 - Be my eyes: An app that connects blind people with volunteer helpers via live video chat
   - https://github.com/bemyeyes/bemyeyes-ios
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/
@@ -294,7 +295,7 @@ Jump to
 ## Weather
 
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon 🔶
-- [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Open Source Weather App created with Swift 🔶
+- [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Weather App using Forecast.io 🔶
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app 🔶
 
 ## Misc
