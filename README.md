@@ -57,6 +57,7 @@ Jump to
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit 🔶
 - [WatchNotes](https://github.com/azamsharp/WatchNotes): Notes on your wrist 🔶
 - [WatchPics](https://github.com/D-32/WatchPics): Instagram for the Apple Watch
+- [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game Snake for Watch 🔶
 
 ## Communication
 
