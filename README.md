@@ -121,6 +121,7 @@ Jump to
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/app/id955480687
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶 
+- [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
