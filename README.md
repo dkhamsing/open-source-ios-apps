@@ -40,7 +40,7 @@ Jump to
 - Brew: Discover craft beer pubs nearby 🔶
   - https://github.com/contentful-labs/ContentfulWatchKitExample
   - https://itunes.apple.com/app/id986830433
-- [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator): Calculator app 🔶 
+- [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator) 🔶 
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app 🔶 
 - [Done](https://github.com/FancyPixel/done-swift): Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
 - Gulps: Track of your daily water consumption 🔶
@@ -51,13 +51,13 @@ Jump to
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
-- Parties for WWDC: Aggregator of developers parties happening in WWDC 2015
+- Parties for WWDC: Aggregator of developers WWDC parties
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit 🔶
 - [WatchNotes](https://github.com/azamsharp/WatchNotes): Notes on your wrist 🔶
 - [WatchPics](https://github.com/D-32/WatchPics): Instagram for the Apple Watch
-- [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game Snake for Watch 🔶
+- [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake for Watch 🔶
 
 ## Communication
 
@@ -83,7 +83,7 @@ Jump to
 
 - [2048](https://github.com/austinzheng/iOS-2048): 2048 game in Objective-C
 - [2048](https://github.com/austinzheng/swift-2048): 2048 game in Swift 🔶
-- Canabalt: Infinite runner game
+- Canabalt: Infinite runner
   - https://github.com/ericjohnson/canabalt-ios
   - https://itunes.apple.com/app/canabalt/id333180061
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app 🔶
@@ -93,6 +93,7 @@ Jump to
 - [Provenance](https://github.com/jasarien/Provenance): Game emulator frontend
 - Spare Parts: Simple 2D point and line physics using Verlet integration
   - https://github.com/adamwulf/spare-parts-app
+  - https://itunes.apple.com/app/spare-parts/id981297199 
 
 ## Finance
 
@@ -107,7 +108,7 @@ Jump to
 ## Location
 
 - [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers 🔶
-- [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time
+- [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time at
 - [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS): Share your location
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups and locate co-working spaces
 
@@ -127,7 +128,7 @@ Jump to
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
-- [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Audio recorder App for iPhone and iPad 🔶
+- [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶
 
 ## News
 
@@ -243,7 +244,7 @@ Jump to
 
 ## Sample
 
-- Cannonball: Sample app for Fabric (fun way to create and share stories and poems) 🔶 
+- Cannonball: Fun way to create and share stories and poems using Fabric 🔶 
   - https://github.com/twitterdev/cannonball-ios 
   - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
 - [Code by Apple](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code)
@@ -253,7 +254,7 @@ Jump to
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶
   - https://github.com/scotteg/LayerPlayer
   - https://itunes.apple.com/app/layer-player/id949768742
-- [RKGist](https://github.com/RestKit/RKGist): Sample app for RestKit (GitHub Gist app)
+- [RKGist](https://github.com/RestKit/RKGist): GitHub Gist app using RestKit
 
 ## Social
 
@@ -302,7 +303,7 @@ Jump to
 
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon 🔶
 - [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Weather App using Forecast.io 🔶
-- [SwiftWeather](https://github.com/JakeLin/SwiftWeather): Weather app 🔶
+- [SwiftWeather](https://github.com/JakeLin/SwiftWeather) 🔶
 
 ## Misc
 
