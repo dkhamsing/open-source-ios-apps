@@ -319,6 +319,7 @@ id905177575
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App 🔶
 - [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu 🔶
+- [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
 - [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule 🔶
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
