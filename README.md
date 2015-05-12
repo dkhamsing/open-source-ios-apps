@@ -143,7 +143,9 @@ Jump to
 - News/YC: Hacker News client with user management, commenting, submitting and themes 🔶
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
-- [newsyc](https://github.com/Xuzz/newsyc): An iPhone Hacker News client. http://newsyc.me/
+- news:yc
+  - https://github.com/Xuzz/newsyc 
+  - https://itunes.apple.com/app/news-yc/id434787119
 - [Reddit](https://github.com/amitburst/reddit-demo): Reddit news app 🔶
 - RSSRead: A RSS reader with offline feature
   - https://github.com/ming1016/RSSRead
