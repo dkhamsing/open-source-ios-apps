@@ -55,6 +55,7 @@ Jump to
 - Parties for WWDC: Aggregator of developers WWDC parties
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
+- [SBB](https://github.com/D-32/AppleWatchSBB): Apple Watch app to access the SBB (Swiss railway) timetable
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit 🔶
 - [WatchNotes](https://github.com/azamsharp/WatchNotes): Notes on your wrist 🔶
 - [WatchPics](https://github.com/D-32/WatchPics): Instagram for the Apple Watch
