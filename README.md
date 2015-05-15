@@ -336,6 +336,7 @@ id905177575
 - VisitBCN: City guide for Barcelona
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
+- [MasterPassword](https://github.com/Lyndir/MasterPassword):Stateless password management solution
   
 ## Thanks
 
