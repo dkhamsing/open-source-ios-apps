@@ -86,6 +86,9 @@ Jump to
 - [翻翻看](https://github.com/geek5nan/FanFanSwift): Concentration game 🔶
 - [2048](https://github.com/austinzheng/iOS-2048): 2048 game in Objective-C
 - [2048](https://github.com/austinzheng/swift-2048): 2048 game in Swift 🔶
+- Bridges: A puzzle game with bridges, houses, tolls, and subways
+  - https://github.com/zgrossbart/bridges
+  - https://itunes.apple.com/app/seven-bridges/id586598714
 - Canabalt: Infinite runner
   - https://github.com/ericjohnson/canabalt-ios
   - https://itunes.apple.com/app/canabalt/id333180061
@@ -97,8 +100,7 @@ Jump to
 - Spare Parts: Simple 2D point and line physics using Verlet integration
   - https://github.com/adamwulf/spare-parts-app
   - https://itunes.apple.com/app/spare-parts/id981297199 
-- [Sudoku](https://github.com/Haoest/SudokuResolv):Sudoku solver with OCR capability on iOS  
-- [Bridges](https://github.com/zgrossbart/bridges):A puzzle game with bridges, houses, tolls, and subways for iOS
+- [Sudoku](https://github.com/Haoest/SudokuResolv): Sudoku solver with OCR capability on iOS  
 
 ## Finance
 
@@ -160,7 +162,7 @@ Jump to
   - https://itunes.apple.com/app/oakland-post/id931152313  
 - v2ex: An iOS client for the technical and creative website v2ex.com  
   - https://github.com/singro/v2ex 
-  - https://itunes.apple.com/us/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535?ls=1&mt=8  
+  - https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535
 
 ## Official
 
@@ -175,9 +177,9 @@ Jump to
 - WordPress: Official WordPress App
   - https://github.com/wordpress-mobile/WordPress-iOS
   - https://itunes.apple.com/app/wordpress/id335703880
-- WhiteHouse Official WhiteHouse App
+- WhiteHouse: Official White House App
   - https://github.com/WhiteHouse/wh-app-ios
-  - https://itunes.apple.com/us/app/the-white-house/id350190807?mt=8
+  - https://itunes.apple.com/app/the-white-house/id350190807
 
 ## [Parse](https://www.parse.com/)
 
@@ -209,6 +211,9 @@ Jump to
 - iGrades: Track your class grades
   - https://github.com/maurovc/iGrades
   - https://itunes.apple.com/app/id816987574
+- MasterPassword: Stateless password management solution
+  - https://github.com/Lyndir/MasterPassword
+  - https://itunes.apple.com/app/id510296984
 - Mention: Personal media wish list
   - https://github.com/mhaddl/mentio
   - https://itunes.apple.com/app/mentio-personal-media-wish/id796557338
@@ -333,6 +338,7 @@ id905177575
 - [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu 🔶
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
 - [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
+- [PocketFlix](https://code.google.com/p/metasyntactic/wiki/PocketFlix): Put the power of Netflix at your fingertips
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule 🔶
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
 - Vinylogue: A simple Last.fm client
@@ -341,8 +347,6 @@ id905177575
 - VisitBCN: City guide for Barcelona
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
-- [MasterPassword](https://github.com/Lyndir/MasterPassword):Stateless password management solution
-- [PocketFlix](https://code.google.com/p/metasyntactic/wiki/PocketFlix):Put the power of Netflix at your fingertips
   
 ## Thanks
 
