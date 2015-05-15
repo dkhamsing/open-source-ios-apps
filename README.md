@@ -97,6 +97,8 @@ Jump to
 - Spare Parts: Simple 2D point and line physics using Verlet integration
   - https://github.com/adamwulf/spare-parts-app
   - https://itunes.apple.com/app/spare-parts/id981297199 
+- [Sudoku](https://github.com/Haoest/SudokuResolv):Sudoku solver with OCR capability on iOS  
+- [Bridges](https://github.com/zgrossbart/bridges):A puzzle game with bridges, houses, tolls, and subways for iOS
 
 ## Finance
 
@@ -173,6 +175,9 @@ Jump to
 - WordPress: Official WordPress App
   - https://github.com/wordpress-mobile/WordPress-iOS
   - https://itunes.apple.com/app/wordpress/id335703880
+- WhiteHouse Official WhiteHouse App
+  - https://github.com/WhiteHouse/wh-app-ios
+  - https://itunes.apple.com/us/app/the-white-house/id350190807?mt=8
 
 ## [Parse](https://www.parse.com/)
 
@@ -336,6 +341,8 @@ id905177575
 - VisitBCN: City guide for Barcelona
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
+- [MasterPassword](https://github.com/Lyndir/MasterPassword):Stateless password management solution
+- [PocketFlix](https://code.google.com/p/metasyntactic/wiki/PocketFlix):Put the power of Netflix at your fingertips
   
 ## Thanks
 
