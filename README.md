@@ -265,6 +265,8 @@ Jump to
   - https://github.com/twitterdev/cannonball-ios 
   - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
 - [Code by Apple](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code)
+- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C) 66
+- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift) :large_orange_diamond: 72
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) 🔶 
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo): A Swift demo for HomeKit 🔶
 - [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler): Code examples for the new functions in iOS 8 
