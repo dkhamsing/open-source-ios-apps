@@ -221,6 +221,9 @@ Jump to
 - Onions: Cloud encrypted text storage app
   - https://github.com/onionsapp/Onions-iOS
   - https://itunes.apple.com/app/onions/id687296481
+- ownCloud: Client for a personal open-source cloud data provider
+  - https://github.com/owncloud/ios
+  - https://itunes.apple.com/us/app/owncloud/id543672169
 - [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing 🔶
 - [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool
 
