@@ -60,6 +60,7 @@ Jump to
 - [WatchNotes](https://github.com/azamsharp/WatchNotes): Notes on your wrist 🔶
 - [WatchPics](https://github.com/D-32/WatchPics): Instagram for the Apple Watch
 - [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake for Watch 🔶
+- [Wunderschnell](https://github.com/contentful-labs/Wunderschnell): Order the right product with one tap on your wrist 🔶
 
 ## Communication
 
