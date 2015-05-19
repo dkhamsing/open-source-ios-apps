@@ -97,7 +97,9 @@ Jump to
 - DOOM: DOOM Classic for iOS
   - https://github.com/id-Software/DOOM-iOS
   - https://itunes.apple.com/app/doom-classic/id336347946
-- [DOOM-IOS2](https://github.com/id-Software/DOOM-IOS2): Doom Classic for iOS version 2
+- DOOM-IOS2: Doom Classic for iOS version 2
+  - https://github.com/id-Software/DOOM-IOS2
+  - https://itunes.apple.com/app/doom-ii-rpg/id354051766 
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird 🔶
 - [Game Of Life](https://github.com/yonbergman/swift-gameoflife): Conway's Game of Life 🔶
 - [Orbit7](https://github.com/Mav3r1ck/Orbit7): iOS Game created in SpriteKit 🔶
