@@ -94,6 +94,10 @@ Jump to
   - https://github.com/ericjohnson/canabalt-ios
   - https://itunes.apple.com/app/canabalt/id333180061
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app 🔶
+- DOOM: DOOM Classic for iOS
+  - https://github.com/id-Software/DOOM-iOS
+  - https://itunes.apple.com/app/doom-classic/id336347946
+- [DOOM-IOS2](https://github.com/id-Software/DOOM-IOS2): Doom Classic for iOS version 2
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird 🔶
 - [Game Of Life](https://github.com/yonbergman/swift-gameoflife): Conway's Game of Life 🔶
 - [Orbit7](https://github.com/Mav3r1ck/Orbit7): iOS Game created in SpriteKit 🔶
@@ -102,6 +106,9 @@ Jump to
   - https://github.com/adamwulf/spare-parts-app
   - https://itunes.apple.com/app/spare-parts/id981297199 
 - [Sudoku](https://github.com/Haoest/SudokuResolv): Sudoku solver with OCR capability on iOS  
+- Wolfenstein 3D: Wolfenstein 3D for iOS 
+  - https://github.com/id-Software/Wolf3D-iOS
+  - https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478
 
 ## Finance
 
@@ -223,7 +230,7 @@ Jump to
   - https://itunes.apple.com/app/onions/id687296481
 - ownCloud: Client for a personal open-source cloud data provider
   - https://github.com/owncloud/ios
-  - https://itunes.apple.com/us/app/owncloud/id543672169
+  - https://itunes.apple.com/app/owncloud/id543672169
 - [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing 🔶
 - [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool
 
