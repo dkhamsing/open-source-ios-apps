@@ -140,6 +140,7 @@ Jump to
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/app/id955480687
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶 
+- [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
