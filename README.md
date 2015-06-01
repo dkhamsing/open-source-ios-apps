@@ -47,6 +47,7 @@ Jump to
 - Gulps: Track of your daily water consumption 🔶
   - https://github.com/FancyPixel/gulps
   - https://itunes.apple.com/app/gulps/id979057304
+- [Hightstreet](https://github.com/GetHighstreet/HighstreetWatchApp): Highstreet shopping app 🔶
 - HN Reader: Hacker News Reader 🔶
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
