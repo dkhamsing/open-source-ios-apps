@@ -351,7 +351,9 @@ Jump to
   - https://itunes.apple.com/app/a-menjar!/id816473131
 id905177575   
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶
-- [ClickWheelKeyboard](https://github.com/b3ll/ClickWheelKeyboard): Brings back the classic iPod click wheel as a keyboard for iOS 8
+- ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8
+  - https://github.com/b3ll/ClickWheelKeyboard
+  - https://itunes.apple.com/app/click-wheel-keyboard/id993111285 
 - [Ghosty](https://github.com/mhaddl/Ghosty): Blogging App for Ghost 🔶
 - Jupp: App with share extension for ADN 🔶
   - https://github.com/dasdom/Jupp
