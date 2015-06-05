@@ -14,6 +14,7 @@ Jump to
 - [Developer](#developer)
 - [Finance](#finance)
 - [Location](#location)
+- [Entertainment](#entertainment)
 - [Multimedia](#multimedia)
 - [News](#news)
 - [Official](#official)
@@ -130,6 +131,10 @@ Jump to
 - [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time at
 - [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS): Share your location
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups and locate co-working spaces
+
+## Entertainment
+- [xkcd: Open Source](https://github.com/mamaral/xkcd-Open-Source) - An xkcd Comic Reader
+  - https://itunes.apple.com/us/app/xkcd-open-source/id995811425?mt=8
 
 ## Multimedia
 
