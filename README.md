@@ -152,6 +152,7 @@ Jump to
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶 
 - [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶
+- [Swifteroid](https://github.com/eugenpirogoff/swifteroid) - a manual HDR exposure camera app written in swift.
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
