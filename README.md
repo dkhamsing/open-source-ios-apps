@@ -152,7 +152,7 @@ Jump to
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶 
 - [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶
-- [Swifteroid](https://github.com/eugenpirogoff/swifteroid) - a manual HDR exposure camera app written in swift.
+- [Swifteroid](https://github.com/eugenpirogoff/swifteroid): A manual HDR exposure camera app written in Swift 🔶
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
@@ -226,7 +226,7 @@ Jump to
 
 ## Personal
 
-- [Arex](https://github.com/a2/arex-7) - An iOS application for remembering to take your medications 🔶
+- [Arex](https://github.com/a2/arex-7): An iOS application for remembering to take your medications 🔶
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS): app for documenting your life through journeys and individual moments
 - iContactU: Reminds you to contact people you ought to 🔶
   - https://github.com/rizal72/iContactU
