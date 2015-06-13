@@ -256,6 +256,7 @@ Jump to
 - [Den](https://github.com/asamiller/den): View houses for sale in the Northwest
 - [Facebook Login](https://github.com/brentvatne/react-native-login)
 - [IcelandEarthquakes](https://github.com/paranoida/IcelandEarthquakes): Displays Iceland Earthquakes that happened in last 48 hours
+- [iTunesCatalog](https://github.com/alexissan/ReactNativeWorkshop): Search iTunes
 - [newswatch](https://github.com/bradoyler/newswatch-react-native): News app using YouTube playlists
 - [NortalTechDay](https://github.com/mikkoj/NortalTechDay): Conference app
 - [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder): Property search app 
