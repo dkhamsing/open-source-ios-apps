@@ -255,7 +255,7 @@ Jump to
 - [Currency Converter](https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter)
 - [Den](https://github.com/asamiller/den): View houses for sale in the Northwest
 - [Facebook Login](https://github.com/brentvatne/react-native-login)
-- [IcelandEarthquakes](https://github.com/paranoida/IcelandEarthquakes): Displays Iceland Earthquakes that happened in last 48 hours
+- [IcelandEarthquakes](https://github.com/paranoida/IcelandEarthquakes): Displays recent Iceland earthquakes
 - [iTunesCatalog](https://github.com/alexissan/ReactNativeWorkshop): Search iTunes
 - [newswatch](https://github.com/bradoyler/newswatch-react-native): News app using YouTube playlists
 - [NortalTechDay](https://github.com/mikkoj/NortalTechDay): Conference app
@@ -263,7 +263,7 @@ Jump to
 - [Spacepics](https://github.com/campezzi/react-native-spacepics): A small app displaying NASA's Picture of the Day
 - [To Do List](https://github.com/joemaddalone/react-native-todo)
 - [WeatherApp](https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp)  
-- [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app): React native using Dribbble
+- [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app)
   
 ## [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 
