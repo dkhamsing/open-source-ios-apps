@@ -354,7 +354,7 @@ Jump to
 
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon 🔶
 - [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Weather App using Forecast.io 🔶
-- [Sol](https://github.com/comyarzaheri/Sol)
+- [Sol](https://github.com/comyarzaheri/Sol): Uses the Weather Underground API.
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather) 🔶
 - [YoCelsius](https://github.com/YouXianMing/YoCelsius)
 
