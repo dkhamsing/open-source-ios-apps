@@ -304,6 +304,7 @@ Jump to
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶
   - https://github.com/scotteg/LayerPlayer
   - https://itunes.apple.com/app/layer-player/id949768742
+- [Polls](https://github.com/apiaryio/polls-app): iOS Client for Polls API by Apiary 🔶
 - [RKGist](https://github.com/RestKit/RKGist): GitHub Gist app using RestKit
 - [WWDC 2015](https://developer.apple.com/sample-code/wwdc/2015/) - Sample code by Apple
 
