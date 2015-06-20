@@ -97,7 +97,7 @@ Jump to
   - https://github.com/ericjohnson/canabalt-ios
   - https://itunes.apple.com/app/canabalt/id333180061
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app 🔶
-- DOOM: DOOM Classic for iOS
+- DOOM: Doom Classic for iOS
   - https://github.com/id-Software/DOOM-iOS
   - https://itunes.apple.com/app/doom-classic/id336347946
 - DOOM-IOS2: Doom Classic for iOS version 2
