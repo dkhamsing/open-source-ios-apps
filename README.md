@@ -340,7 +340,7 @@ Jump to
 - Edhita: Text editor 🔶
   - https://github.com/tnantoka/edhita
   - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
-- Fojusi: Work timer with today extension
+- Fojusi: Work timer with today extension 🔶
   - https://github.com/dasdom/Tomate
   - https://itunes.apple.com/de/app/fojusi/id923044693
 - GreatReader: "Great" PDF reader designed for both iPhone and iPad
