@@ -135,6 +135,9 @@ Jump to
 
 ## Entertainment
 
+- Longboxed: Track the releases of your favorite comics.
+  - https://github.com/jayhickey/Longboxed-iOS
+  - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339 
 - xkcd: Open Source: An xkcd Comic Reader
   - https://github.com/mamaral/xkcd-Open-Source
   - https://itunes.apple.com/app/xkcd-open-source/id995811425
