@@ -4,7 +4,7 @@ List of open-source iOS apps.
 
 Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](https://twitter.com/dkhamsing).
 
-Looking for OS X apps? Check out [mac-apps](https://github.com/jeffreyjackson/mac-apps) (there's also [android-apps](https://github.com/pcqpcq/open-source-android-apps)).
+Looking for OS X apps? Check out [mac-apps](https://github.com/jeffreyjackson/mac-apps) (there's also [android-apps](https://github.comweat/pcqpcq/open-source-android-apps)).
 
 Jump to
 
@@ -357,11 +357,11 @@ Jump to
 - [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Weather App using Forecast.io 🔶
 - [Sol](https://github.com/comyarzaheri/Sol): Uses the Weather Underground API.
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather) 🔶
-- [YoCelsius](https://github.com/YouXianMing/YoCelsius)
 - WeatherMap: Weather around you in a glance. Uses OpenWeatherMap API 🔶
   - https://github.com/TakefiveInteractive/WeatherMap
   - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
-  
+- [YoCelsius](https://github.com/YouXianMing/YoCelsius)
+
 ## Misc
 
 - A Menjar: Food menu app
