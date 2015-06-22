@@ -264,6 +264,7 @@ Jump to
 - [newswatch](https://github.com/bradoyler/newswatch-react-native): News app using YouTube playlists
 - [NortalTechDay](https://github.com/mikkoj/NortalTechDay): Conference app
 - [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder): Property search app 
+- [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
 - [Spacepics](https://github.com/campezzi/react-native-spacepics): A small app displaying NASA's Picture of the Day
 - [To Do List](https://github.com/joemaddalone/react-native-todo)
 - [WeatherApp](https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp)  
