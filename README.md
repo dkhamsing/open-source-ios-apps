@@ -371,7 +371,7 @@ Jump to
   - https://github.com/TakefiveInteractive/WeatherMap
   - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
 - [YoCelsius](https://github.com/YouXianMing/YoCelsius)
-- [Tropos](https://github.com/thoughtbot/Tropos): Weather and forecasts for humans.
+- [Tropos](https://github.com/thoughtbot/Tropos): Phrase based weather conditions.
 
 ## Misc
 
