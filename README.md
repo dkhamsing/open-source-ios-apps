@@ -278,6 +278,9 @@ Jump to
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa 🔶
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa 🔶
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more)
+- Tropos: A weather app using ReactiveCocoa and Forecast.io 
+  - https://github.com/thoughtbot/Tropos
+  - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376
 
 ## ResearchKit
 
