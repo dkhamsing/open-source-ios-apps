@@ -367,6 +367,8 @@ Jump to
 - [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Weather App using Forecast.io 🔶
 - [Sol](https://github.com/comyarzaheri/Sol): Uses the Weather Underground API.
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather) 🔶
+- [Tropos](#reactivecocoa): A weather app using ReactiveCocoa and Forecast.io 
+- [WeatherApp](#react-native): Weather app using React Native 
 - WeatherMap: Weather around you in a glance. Uses OpenWeatherMap API 🔶
   - https://github.com/TakefiveInteractive/WeatherMap
   - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
