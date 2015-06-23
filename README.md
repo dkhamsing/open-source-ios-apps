@@ -61,6 +61,7 @@ Jump to
 - [Soon](https://github.com/sandofsky/soon): Countdown App 🔶
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit 🔶
 - [WatchNotes](https://github.com/azamsharp/WatchNotes): Notes on your wrist 🔶
+- [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler): Code examples for new features of watchOS 2 🔶
 - [WatchPics](https://github.com/D-32/WatchPics): Instagram for the Apple Watch
 - [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake for Watch 🔶
 - [Wunderschnell](https://github.com/contentful-labs/Wunderschnell): Order the right product with one tap on your wrist 🔶
