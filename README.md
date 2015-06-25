@@ -44,6 +44,9 @@ Jump to
 - [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator) 🔶 
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app 🔶 
 - [CoolSpot](https://github.com/neonichu/CoolSpot): The missing Spotify ᴡᴀᴛᴄʜ app 🔶
+- Cortado: Track your caffeine consumption habits
+  - https://github.com/lazerwalker/cortado
+  - https://itunes.apple.com/app/cortado/id969899327
 - [Done](https://github.com/FancyPixel/done-swift): Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
 - Gulps: Track of your daily water consumption 🔶
   - https://github.com/FancyPixel/gulps
