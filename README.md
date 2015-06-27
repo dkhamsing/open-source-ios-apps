@@ -142,6 +142,9 @@ Jump to
 - Longboxed: Track the releases of your favorite comics.
   - https://github.com/jayhickey/Longboxed-iOS
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339 
+- That Movie With: Find common movies among actors
+  - https://github.com/jayhickey/thatmoviewith
+  - https://itunes.apple.com/us/app/that-movie-with/id892972135
 - xkcd: Open Source: An xkcd Comic Reader
   - https://github.com/mamaral/xkcd-Open-Source
   - https://itunes.apple.com/app/xkcd-open-source/id995811425
