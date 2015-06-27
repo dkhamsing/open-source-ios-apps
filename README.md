@@ -164,9 +164,9 @@ Jump to
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
-- [PhishOD] The power of Phish.in & LivePhish.com in the palm of your hand! Listen to any song from Phish.in and view concert ratings and reviews from phish.net!
+- PhishOD: The power of Phish.in & LivePhish.com in the palm of your hand, listen to any song from Phish.in and view concert ratings and reviews from phish.net
   - https://github.com/alecgorge/PhishOD-iOS
-  - https://itunes.apple.com/us/app/phish-on-demand-all-phish/id672139018?ls=1&mt=8
+  - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018?
 - 
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶
 
