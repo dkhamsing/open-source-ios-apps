@@ -149,6 +149,7 @@ Jump to
 - PhishOD: Listen to any song from Phish.in and view concert ratings and reviews from phish.net
   - https://github.com/alecgorge/PhishOD-iOS
   - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018?
+- [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
 - That Movie With: Find common movies among actors
   - https://github.com/jayhickey/thatmoviewith
   - https://itunes.apple.com/us/app/that-movie-with/id892972135
@@ -158,18 +159,20 @@ Jump to
 
 ## Multimedia
 
+*Image, video, audio*
+
 - Artsy: The Art World in Your Pocket
   - https://github.com/artsy/eigen
   - https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶 
-- [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶
 - [Swifteroid](https://github.com/eugenpirogoff/swifteroid): A manual HDR exposure camera app written in Swift 🔶
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
+- [VLC](#official)
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶
 
 ## News
