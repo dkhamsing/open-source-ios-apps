@@ -142,6 +142,13 @@ Jump to
 - Longboxed: Track the releases of your favorite comics.
   - https://github.com/jayhickey/Longboxed-iOS
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339 
+- [MovieDBApp](https://github.com/KMindeguia/moviedbapp): Movie info app
+- OCiney: Movie info app
+  - https://github.com/florent37/OCiney-iOS
+  - https://itunes.apple.com/app/id955480687
+- PhishOD: Listen to any song from Phish.in and view concert ratings and reviews from phish.net
+  - https://github.com/alecgorge/PhishOD-iOS
+  - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018?
 - That Movie With: Find common movies among actors
   - https://github.com/jayhickey/thatmoviewith
   - https://itunes.apple.com/us/app/that-movie-with/id892972135
@@ -155,10 +162,6 @@ Jump to
   - https://github.com/artsy/eigen
   - https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
-- [MovieDBApp](https://github.com/KMindeguia/moviedbapp): Movie info app
-- OCiney: Movie info app
-  - https://github.com/florent37/OCiney-iOS
-  - https://itunes.apple.com/app/id955480687
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶 
 - [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶
@@ -167,10 +170,6 @@ Jump to
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
-- PhishOD: The power of Phish.in & LivePhish.com in the palm of your hand, listen to any song from Phish.in and view concert ratings and reviews from phish.net
-  - https://github.com/alecgorge/PhishOD-iOS
-  - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018?
-- 
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶
 
 ## News
