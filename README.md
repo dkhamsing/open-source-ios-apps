@@ -131,6 +131,9 @@ Jump to
 - Concurrency: Beautiful, intuitive currency converter
   - https://github.com/nicklockwood/Concurrency
   - https://itunes.apple.com/app/concurrency/id738872892
+- TodayStocks: TodayStocks is a lightweight stocks app that shows you your portfolio in a minimalist today extension. 
+  - https://github.com/premnirmal/TodayStocks
+  - https://itunes.apple.com/app/todaystocks/id993467855
 
 ## Location
 
