@@ -399,6 +399,7 @@ Jump to
   - https://github.com/maurovc/aMenjar
   - https://itunes.apple.com/app/a-menjar!/id816473131
 id905177575   
+- [BlockParty](https://github.com/krishkumar/BlockParty): iOS 9 Safari Content Blocker App
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶
 - ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8
   - https://github.com/b3ll/ClickWheelKeyboard
