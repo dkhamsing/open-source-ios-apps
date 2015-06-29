@@ -405,6 +405,7 @@ id905177575
   - https://github.com/b3ll/ClickWheelKeyboard
   - https://itunes.apple.com/app/click-wheel-keyboard/id993111285 
 - [Ghosty](https://github.com/mhaddl/Ghosty): Blogging App for Ghost 🔶
+- [HackCancer](https://github.com/HackCancer/iOS): [Hackathon app](https://github.com/dkhamsing/open-source-ios-apps/issues/63#issuecomment-116225024) 🔶
 - Jupp: App with share extension for ADN 🔶
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
