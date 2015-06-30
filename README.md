@@ -117,6 +117,7 @@ Jump to
 - Spare Parts: Simple 2D point and line physics using Verlet integration
   - https://github.com/adamwulf/spare-parts-app
   - https://itunes.apple.com/app/spare-parts/id981297199 
+- [Stick-Hero-Swift](https://github.com/phpmaple/Stick-Hero-Swift): Universal iOS Game using Swift and iOS SpriteKit 🔶
 - [Sudoku](https://github.com/Haoest/SudokuResolv): Sudoku solver with OCR capability on iOS  
 - Wolfenstein 3D: Wolfenstein 3D for iOS 
   - https://github.com/id-Software/Wolf3D-iOS
