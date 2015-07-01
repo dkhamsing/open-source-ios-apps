@@ -13,6 +13,7 @@ Jump to
 - [Games](#games)
 - [Developer](#developer)
 - [Finance](#finance)
+- [Keyboards](#keyboards)
 - [Location](#location)
 - [Entertainment](#entertainment)
 - [Multimedia](#multimedia)
@@ -122,6 +123,12 @@ Jump to
 - Wolfenstein 3D: Wolfenstein 3D for iOS 
   - https://github.com/id-Software/Wolf3D-iOS
   - https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478
+
+## Keyboards
+
+- ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8
+  - https://github.com/b3ll/ClickWheelKeyboard
+  - https://itunes.apple.com/app/click-wheel-keyboard/id993111285 
 
 ## Finance
 
@@ -405,9 +412,6 @@ Jump to
 id905177575   
 - [BlockParty](https://github.com/krishkumar/BlockParty): iOS 9 Safari Content Blocker App
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶
-- ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8
-  - https://github.com/b3ll/ClickWheelKeyboard
-  - https://itunes.apple.com/app/click-wheel-keyboard/id993111285 
 - [Ghosty](https://github.com/mhaddl/Ghosty): Blogging App for Ghost 🔶
 - [HackCancer](https://github.com/HackCancer/iOS): [Hackathon app](https://github.com/dkhamsing/open-source-ios-apps/issues/63#issuecomment-116225024) 🔶
 - Jupp: App with share extension for ADN 🔶
