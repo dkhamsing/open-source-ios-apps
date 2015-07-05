@@ -61,6 +61,9 @@ Jump to
 - Parties for WWDC: Aggregator of developers WWDC parties
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
+- PhoneBattery: Your phone's battery, on your wrist
+  - https://github.com/marcelvoss/PhoneBattery
+  - https://itunes.apple.com/app/phonebattery-your-phones-battery/id1009278300
 - [SBB](https://github.com/D-32/AppleWatchSBB): Apple Watch app to access the SBB (Swiss railway) timetable
 - [Soon](https://github.com/sandofsky/soon): Countdown App 🔶
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit 🔶
