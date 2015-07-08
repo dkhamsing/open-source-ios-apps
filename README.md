@@ -141,6 +141,9 @@ Jump to
 - BitStore: Bitcoin wallet
   - https://github.com/BitStore/BitStore-iOS
   - https://itunes.apple.com/app/bitstore/id890668158
+- breadwallet: Bitcoin wallet
+  - https://github.com/breadwallet/breadwallet
+  - https://itunes.apple.com/app/breadwallet/id885251393
 - [Coins](https://github.com/nothingmagical/coins): Bitcoin value tracker 🔶
 - Concurrency: Beautiful, intuitive currency converter
   - https://github.com/nicklockwood/Concurrency
