@@ -307,6 +307,7 @@ Jump to
 - [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder): Property search app 
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
 - [Spacepics](https://github.com/campezzi/react-native-spacepics): A small app displaying NASA's Picture of the Day
+- [Sudoku](https://github.com/christopherdro/react-native-sudoku)
 - [To Do List](https://github.com/joemaddalone/react-native-todo)
 - [WeatherApp](https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp)  
   
