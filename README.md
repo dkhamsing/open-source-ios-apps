@@ -105,6 +105,7 @@ Jump to
   - https://github.com/ericjohnson/canabalt-ios
   - https://itunes.apple.com/app/canabalt/id333180061
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app 🔶
+- [Chess](https://github.com/mjcuva/Chess): iOS Chess game to learn SpriteKit 🔶
 - DOOM: Doom Classic for iOS
   - https://github.com/id-Software/DOOM-iOS
   - https://itunes.apple.com/app/doom-classic/id336347946
