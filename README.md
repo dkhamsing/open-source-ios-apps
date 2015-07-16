@@ -345,7 +345,9 @@ Jump to
 - Cannonball: Fun way to create and share stories and poems using Fabric 🔶 
   - https://github.com/twitterdev/cannonball-ios 
   - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
-- [Code by Apple](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code)
+- Code by Apple
+  - [Developer Library](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code)
+  - [WWDC 2015](https://developer.apple.com/sample-code/wwdc/2015/) 
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C) 66
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift) :large_orange_diamond: 72
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) 🔶 
@@ -356,7 +358,6 @@ Jump to
   - https://itunes.apple.com/app/layer-player/id949768742
 - [Polls](https://github.com/apiaryio/polls-app): iOS Client for Polls API by Apiary 🔶
 - [RKGist](https://github.com/RestKit/RKGist): GitHub Gist app using RestKit
-- [WWDC 2015](https://developer.apple.com/sample-code/wwdc/2015/) - Sample code by Apple
 
 ## Social
 
