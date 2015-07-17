@@ -44,6 +44,7 @@ Jump to
   - https://itunes.apple.com/app/id986830433
 - [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator) 🔶 
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app 🔶 
+- [Connectivity Demo](https://github.com/swilliams/watchkit-connectivity-demo)
 - [CoolSpot](https://github.com/neonichu/CoolSpot): The missing Spotify ᴡᴀᴛᴄʜ app 🔶
 - Cortado: Track your caffeine consumption habits
   - https://github.com/lazerwalker/cortado
