@@ -195,6 +195,9 @@ Jump to
   - https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶 
+- Poppins: House all your favorite GIFs and easily share them with your friends and family 🔶
+  - https://github.com/thoughtbot/poppins
+  - https://itunes.apple.com/app/poppins/id978854068
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶
 - [Swifteroid](https://github.com/eugenpirogoff/swifteroid): A manual HDR exposure camera app written in Swift 🔶
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶
