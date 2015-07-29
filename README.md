@@ -53,6 +53,7 @@ Jump to
 - Gulps: Track of your daily water consumption 🔶
   - https://github.com/FancyPixel/gulps
   - https://itunes.apple.com/app/gulps/id979057304
+- [heartrate](https://github.com/coolioxlr/watchOS-2-heartrate): Show streaming heartrate from the watch with watchOS 2 🔶
 - [Hightstreet](https://github.com/GetHighstreet/HighstreetWatchApp): Highstreet shopping app 🔶
 - HN Reader: Hacker News Reader 🔶
   - https://github.com/Dimillian/SwiftHN
