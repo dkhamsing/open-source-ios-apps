@@ -8,7 +8,7 @@ Looking for OS X apps? Check out [mac-apps](https://github.com/jeffreyjackson/ma
 
 Jump to
 
-- [Apple Watch](#apple-watch)
+- [Apple Watch](#apple-watch)r
 - [Communication](#communication)
 - [Games](#games)
 - [Developer](#developer)
@@ -309,6 +309,7 @@ Jump to
 - [Hacker News](https://github.com/iSimar/HackerNews-React-Native)
 - [IcelandEarthquakes](https://github.com/paranoida/IcelandEarthquakes): Displays recent Iceland earthquakes
 - [iTunesCatalog](https://github.com/alexissan/ReactNativeWorkshop): Search iTunes
+- [london-react](https://github.com/JoeStanton/london-react)
 - [newswatch](https://github.com/bradoyler/newswatch-react-native): News app using YouTube playlists
 - [NortalTechDay](https://github.com/mikkoj/NortalTechDay): Conference app
 - [Product Hunt](https://github.com/rkho/product-hunt-react-native)
