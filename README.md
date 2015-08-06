@@ -206,7 +206,9 @@ Jump to
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
 - [VLC](#official)
-- [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶
+- [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶   
+- [DoubanFM](https://github.com/XVXVXXX/DoubanFM): The DoubanFM for iPhone,using AFN and MPMoviePlayer  
+- [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift): BaiduFM using swift.
 
 ## News
 
