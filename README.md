@@ -8,7 +8,7 @@ Looking for OS X apps? Check out [mac-apps](https://github.com/jeffreyjackson/ma
 
 Jump to
 
-- [Apple Watch](#apple-watch)r
+- [Apple Watch](#apple-watch)
 - [Communication](#communication)
 - [Games](#games)
 - [Developer](#developer)
@@ -35,6 +35,7 @@ Jump to
 
 ## Apple Watch
 
+- [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) 🔶
 - [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started): Track Bitcoin price 🔶 
 - Bither: Simple and secure Bitcoin wallet
   - https://github.com/bither/bither-ios ([extension](https://github.com/bither/bither-ios/tree/master/bither-ios%20WatchKit%20Extension))
@@ -194,6 +195,7 @@ Jump to
 - Artsy: The Art World in Your Pocket
   - https://github.com/artsy/eigen
   - https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080
+- [DoubanFM](https://github.com/XVXVXXX/DoubanFM): The DoubanFM for iPhone, using AFN and MPMoviePlayer  
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶 
 - Poppins: House all your favorite GIFs and easily share them with your friends and family 🔶
@@ -207,8 +209,6 @@ Jump to
   - https://itunes.apple.com/app/upupu/id508401854
 - [VLC](#official)
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶   
-- [DoubanFM](https://github.com/XVXVXXX/DoubanFM): The DoubanFM for iPhone,using AFN and MPMoviePlayer  
-- [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift): BaiduFM using swift.
 
 ## News
 
