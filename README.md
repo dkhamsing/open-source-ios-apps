@@ -10,6 +10,7 @@ Jump to
 
 - [Apple Watch](#apple-watch)
 - [Communication](#communication)
+- [Core Data](#core-data)
 - [Games](#games)
 - [Developer](#developer)
 - [Finance](#finance)
@@ -91,6 +92,10 @@ Jump to
 - Telegram: Messaging app with a focus on speed and security
   - https://telegram.org/apps
   - https://itunes.apple.com/app/telegram-messenger/id686449807
+
+## Core Data
+- [DVD Collection Tracker](https://github.com/chrismiles/OrganisingCoreData)
+- [Nested Lists](https://github.com/objcio/issue-4-full-core-data-application)
 
 ## Developer
 
