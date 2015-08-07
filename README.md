@@ -95,6 +95,7 @@ Jump to
 
 ## Core Data
 - [DVD Collection Tracker](https://github.com/chrismiles/OrganisingCoreData)
+- [Nested Lists](https://github.com/objcio/issue-4-full-core-data-application)
 
 ## Developer
 
