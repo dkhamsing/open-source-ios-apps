@@ -127,6 +127,7 @@ Jump to
   - https://itunes.apple.com/us/app/mudrammer-a-modern-mud-client/id597157072?mt=8
 - [Orbit7](https://github.com/Mav3r1ck/Orbit7): iOS Game created in SpriteKit 🔶
 - [Provenance](https://github.com/jasarien/Provenance): Game emulator frontend
+- [SceneKitFrogger](https://github.com/devindazzle/SceneKitFrogger) 🔶
 - Spare Parts: Simple 2D point and line physics using Verlet integration
   - https://github.com/adamwulf/spare-parts-app
   - https://itunes.apple.com/app/spare-parts/id981297199 
