@@ -201,6 +201,9 @@ Jump to
 - Artsy: The Art World in Your Pocket
   - https://github.com/artsy/eigen
   - https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080
+- Artsy Folio: Artwork showcase
+  - https://github.com/artsy/energy
+  - https://itunes.apple.com/app/artsy-folio/id504862164
 - [DoubanFM](https://github.com/XVXVXXX/DoubanFM): The DoubanFM for iPhone, using AFN and MPMoviePlayer  
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶 
