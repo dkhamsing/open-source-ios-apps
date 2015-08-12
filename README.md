@@ -60,6 +60,7 @@ Jump to
 - HN Reader: Hacker News Reader 🔶
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
+- [Impulse](https://github.com/Jasdev/Impulse): Real-time age ticker for iOS and watchOS 🔶
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
 - Parties for WWDC: Aggregator of developers WWDC parties
