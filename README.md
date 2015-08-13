@@ -177,6 +177,9 @@ Jump to
 
 ## Entertainment
 
+- ComicFlow: Comic reader for iPad
+  - https://github.com/swisspol/ComicFlow
+  - https://itunes.apple.com/us/app/comicflow/id409290355
 - Longboxed: Track the releases of your favorite comics.
   - https://github.com/jayhickey/Longboxed-iOS
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339 
