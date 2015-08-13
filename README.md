@@ -339,7 +339,9 @@ Jump to
   - https://itunes.apple.com/app/c-41/id789924103
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa 🔶
-- [ReactiveHackerNews](https://github.com/syshen/ReactiveHackerNews): Hacker News reader with Tinder style interface, written in ObjC, uses MVVM & ReactiveCocoa
+- ReactiveHackerNews: Hacker News reader with Tinder style interface, written in ObjC, uses MVVM & ReactiveCocoa
+  - https://github.com/syshen/ReactiveHackerNews
+  - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368 
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa 🔶
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more)
 - Tropos: A weather app using ReactiveCocoa and Forecast.io 
