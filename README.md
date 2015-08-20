@@ -432,8 +432,8 @@ Jump to
   - https://itunes.apple.com/app/vpn-on/id951344279
 - [Words](https://github.com/soffes/words): Thesaurus app
 - Workdays: Simple iPhone calendar with operating schedule
-- https://github.com/mpak/Workdays
-- https://itunes.apple.com/us/app/workdays-calendar/id889712978?l=ru&ls=1&mt=8
+ - https://github.com/mpak/Workdays
+ - https://itunes.apple.com/us/app/workdays-calendar/id889712978?l=ru&ls=1&mt=8
 
 ## Weather
 
