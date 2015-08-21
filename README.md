@@ -438,16 +438,16 @@ Jump to
 ## Weather
 
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon 🔶
-- [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Weather App using Forecast.io 🔶
-- [Sol](https://github.com/comyarzaheri/Sol): Uses the Weather Underground API.
+- [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Uses Forecast.io 🔶
+- [Sol](https://github.com/comyarzaheri/Sol): Uses Weather Underground
+- [SmileWeather](https://github.com/liu044100/SmileWeather): Uses Wunderground & OpenWeatherMap
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather) 🔶
 - [Tropos](#reactivecocoa): A weather app using ReactiveCocoa and Forecast.io 
 - [WeatherApp](#react-native): Weather app using React Native 
-- WeatherMap: Weather around you in a glance. Uses OpenWeatherMap API 🔶
+- WeatherMap: Weather around you in a glance. Uses OpenWeatherMap 🔶
   - https://github.com/TakefiveInteractive/WeatherMap
   - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
 - [YoCelsius](https://github.com/YouXianMing/YoCelsius)
-- [SmileWeather](https://github.com/liu044100/SmileWeather)
 
 ## Misc
 
