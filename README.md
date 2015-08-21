@@ -447,6 +447,7 @@ Jump to
   - https://github.com/TakefiveInteractive/WeatherMap
   - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
 - [YoCelsius](https://github.com/YouXianMing/YoCelsius)
+- [SmileWeather](https://github.com/liu044100/SmileWeather)
 
 ## Misc
 
