@@ -304,7 +304,8 @@ Jump to
   - https://github.com/owncloud/ios
   - https://itunes.apple.com/app/owncloud/id543672169
 - [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing 🔶
-- [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool
+- [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool  
+- [SimpleMemo](https://github.com/likumb/SimpleMemo): sync notes to EverNote
 
 ## [React Native](http://facebook.github.io/react-native/)
 
