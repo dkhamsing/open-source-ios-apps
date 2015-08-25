@@ -60,6 +60,7 @@ Jump to
 - HN Reader: Hacker News Reader 🔶
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
+- [Impulse](https://github.com/Jasdev/Impulse): Real-time age ticker for iOS and watchOS 🔶
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
 - Parties for WWDC: Aggregator of developers WWDC parties
@@ -176,6 +177,9 @@ Jump to
 
 ## Entertainment
 
+- ComicFlow: Comic reader for iPad
+  - https://github.com/swisspol/ComicFlow
+  - https://itunes.apple.com/app/comicflow/id409290355
 - Longboxed: Track the releases of your favorite comics.
   - https://github.com/jayhickey/Longboxed-iOS
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339 
@@ -201,6 +205,9 @@ Jump to
 - Artsy: The Art World in Your Pocket
   - https://github.com/artsy/eigen
   - https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080
+- Artsy Folio: Artwork showcase
+  - https://github.com/artsy/energy
+  - https://itunes.apple.com/app/artsy-folio/id504862164
 - [DoubanFM](https://github.com/XVXVXXX/DoubanFM): The DoubanFM for iPhone, using AFN and MPMoviePlayer  
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶 
@@ -336,6 +343,9 @@ Jump to
   - https://itunes.apple.com/app/c-41/id789924103
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa 🔶
+- ReactiveHackerNews: Hacker News reader with Tinder style interface, written in ObjC, uses MVVM & ReactiveCocoa
+  - https://github.com/syshen/ReactiveHackerNews
+  - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368 
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa 🔶
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more)
 - Tropos: A weather app using ReactiveCocoa and Forecast.io 
@@ -423,18 +433,22 @@ Jump to
   - https://itunes.apple.com/app/vpn-on/id951344279
 - [Words](https://github.com/soffes/words): Thesaurus app
 - Workdays: Simple iPhone calendar with operating schedule
-- https://github.com/mpak/Workdays
-- https://itunes.apple.com/us/app/workdays-calendar/id889712978?l=ru&ls=1&mt=8
+ - https://github.com/mpak/Workdays
+ - https://itunes.apple.com/us/app/workdays-calendar/id889712978?l=ru&ls=1&mt=8
+- OneBusAway: real-time arrival and schedule information for public transit vehicles operated in Seattle, Atlanta, Tampa, and beyond. 
+ - https://github.com/OneBusAway/onebusaway-iphone
+ - https://itunes.apple.com/us/app/onebusaway/id329380089?mt=8
 
 ## Weather
 
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon 🔶
-- [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Weather App using Forecast.io 🔶
-- [Sol](https://github.com/comyarzaheri/Sol): Uses the Weather Underground API.
+- [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Uses Forecast.io 🔶
+- [Sol](https://github.com/comyarzaheri/Sol): Uses Weather Underground
+- [SmileWeather](https://github.com/liu044100/SmileWeather): Uses Wunderground & OpenWeatherMap
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather) 🔶
 - [Tropos](#reactivecocoa): A weather app using ReactiveCocoa and Forecast.io 
 - [WeatherApp](#react-native): Weather app using React Native 
-- WeatherMap: Weather around you in a glance. Uses OpenWeatherMap API 🔶
+- WeatherMap: Weather around you in a glance. Uses OpenWeatherMap 🔶
   - https://github.com/TakefiveInteractive/WeatherMap
   - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
 - [YoCelsius](https://github.com/YouXianMing/YoCelsius)
