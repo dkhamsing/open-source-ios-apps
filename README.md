@@ -311,7 +311,8 @@ Jump to
   - https://github.com/owncloud/ios
   - https://itunes.apple.com/app/owncloud/id543672169
 - [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing 🔶
-- [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool
+- [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool  
+- [SimpleMemo](https://github.com/likumb/SimpleMemo): sync notes to EverNote
 
 ## [React Native](http://facebook.github.io/react-native/)
 
@@ -349,7 +350,9 @@ Jump to
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more)
 - Tropos: A weather app using ReactiveCocoa and Forecast.io 
   - https://github.com/thoughtbot/Tropos
-  - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376
+  - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376  
+- [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa): GitBucket iOS App
+  - https://itunes.apple.com/cn/app/id961330940?mt=8
 
 ## ResearchKit
 
