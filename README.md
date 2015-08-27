@@ -310,9 +310,11 @@ Jump to
 - ownCloud: Client for a personal open-source cloud data provider
   - https://github.com/owncloud/ios
   - https://itunes.apple.com/app/owncloud/id543672169
+- SimpleMemo: Sync notes to EverNote
+  - https://github.com/likumb/SimpleMemo
+  - https://itunes.apple.com/app/yi-bian-qian/id1029807896
 - [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing 🔶
 - [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool  
-- [SimpleMemo](https://github.com/likumb/SimpleMemo): sync notes to EverNote
 
 ## [React Native](http://facebook.github.io/react-native/)
 
