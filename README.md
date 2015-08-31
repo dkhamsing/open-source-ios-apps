@@ -95,12 +95,16 @@ Jump to
   - https://itunes.apple.com/app/telegram-messenger/id686449807
 
 ## Core Data
+
 - [DVD Collection Tracker](https://github.com/chrismiles/OrganisingCoreData)
 - [Nested Lists](https://github.com/objcio/issue-4-full-core-data-application)
 
 ## Developer
 
 - [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests. 🔶
+- Monkey: GitHub third party client that shows the rank of coders and repositories
+  - https://github.com/coderyi/Monkey
+  - https://itunes.apple.com/app/monkey-for-github/id1003765407
 
 ## Games
 
@@ -304,9 +308,6 @@ Jump to
 - Mention: Personal media wish list
   - https://github.com/mhaddl/mentio
   - https://itunes.apple.com/app/mentio-personal-media-wish/id796557338
-- Monkey: GitHub third party client that shows the rank of coders and repositories
-  - https://github.com/coderyi/Monkey
-  - https://itunes.apple.com/app/monkey-for-github/id1003765407
 - Onions: Cloud encrypted text storage app
   - https://github.com/onionsapp/Onions-iOS
   - https://itunes.apple.com/app/onions/id687296481
