@@ -471,7 +471,6 @@ id905177575
 - Frameless: A full-screen web browser 🔶
   - https://github.com/stakes/Frameless
   - https://itunes.apple.com/app/id933580264
-- [Ghosty](https://github.com/mhaddl/Ghosty): Blogging App for Ghost 🔶
 - [HackCancer](https://github.com/HackCancer/iOS): [Hackathon app](https://github.com/dkhamsing/open-source-ios-apps/issues/63#issuecomment-116225024) 🔶
 - Jupp: App with share extension for ADN 🔶
   - https://github.com/dasdom/Jupp
