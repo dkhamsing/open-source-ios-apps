@@ -162,7 +162,7 @@ Jump to
 - doughwallet: Dogecoin wallet
   - https://github.com/peritus/doughwallet
   - https://itunes.apple.com/app/doughwallet/id951731776
-- TodayStocks: TodayStocks is a lightweight stocks app that shows you your portfolio in a minimalist today extension. 
+- TodayStocks: Lightweight stocks app that shows your portfolio in a minimalist today extension
   - https://github.com/premnirmal/TodayStocks
   - https://itunes.apple.com/app/todaystocks/id993467855
 
@@ -328,13 +328,13 @@ Jump to
 - [Facebook Login](https://github.com/brentvatne/react-native-login)
 - [Foreign Exchange](https://github.com/peralmq/ForeignExchangeApp)
 - [Hacker News](https://github.com/iSimar/HackerNews-React-Native)
-- [IcelandEarthquakes](https://github.com/paranoida/IcelandEarthquakes): Displays recent Iceland earthquakes
-- [iTunesCatalog](https://github.com/alexissan/ReactNativeWorkshop): Search iTunes
+- [Iceland Earthquakes](https://github.com/paranoida/IcelandEarthquakes)
+- [iTunes Catalog Search](https://github.com/alexissan/ReactNativeWorkshop)
 - [london-react](https://github.com/JoeStanton/london-react)
 - [newswatch](https://github.com/bradoyler/newswatch-react-native): News app using YouTube playlists
 - [NortalTechDay](https://github.com/mikkoj/NortalTechDay): Conference app
 - [Product Hunt](https://github.com/rkho/product-hunt-react-native)
-- [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder): Property search app 
+- [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder)
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
 - [Spacepics](https://github.com/campezzi/react-native-spacepics): A small app displaying NASA's Picture of the Day
 - [Sudoku](https://github.com/christopherdro/react-native-sudoku)
@@ -429,6 +429,9 @@ Jump to
 - GreatReader: "Great" PDF reader designed for both iPhone and iPad
   - https://github.com/semweb/GreatReader
   - https://itunes.apple.com/app/greatreader/id903651112
+- OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more
+ - https://github.com/OneBusAway/onebusaway-iphone
+ - https://itunes.apple.com/us/app/onebusaway/id329380089?mt=8
 - Round & Split: Tip Calculator 🔶
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737 
@@ -441,21 +444,18 @@ Jump to
 - [Words](https://github.com/soffes/words): Thesaurus app
 - Workdays: Simple iPhone calendar with operating schedule
  - https://github.com/mpak/Workdays
- - https://itunes.apple.com/us/app/workdays-calendar/id889712978?l=ru&ls=1&mt=8
-- OneBusAway: real-time arrival and schedule information for public transit vehicles operated in Seattle, Atlanta, Tampa, and beyond. 
- - https://github.com/OneBusAway/onebusaway-iphone
- - https://itunes.apple.com/us/app/onebusaway/id329380089?mt=8
+ - https://itunes.apple.com/app/workdays-calendar/id889712978
 
 ## Weather
 
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon 🔶
 - [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Uses Forecast.io 🔶
 - [Sol](https://github.com/comyarzaheri/Sol): Uses Weather Underground
-- [SmileWeather](https://github.com/liu044100/SmileWeather): Uses Wunderground & OpenWeatherMap
+- [SmileWeather](https://github.com/liu044100/SmileWeather): Uses Weather Underground & OpenWeatherMap
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather) 🔶
 - [Tropos](#reactivecocoa): A weather app using ReactiveCocoa and Forecast.io 
 - [WeatherApp](#react-native): Weather app using React Native 
-- WeatherMap: Weather around you in a glance. Uses OpenWeatherMap 🔶
+- WeatherMap: Weather around you in a glance, uses OpenWeatherMap 🔶
   - https://github.com/TakefiveInteractive/WeatherMap
   - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
 - [YoCelsius](https://github.com/YouXianMing/YoCelsius)
