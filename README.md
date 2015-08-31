@@ -315,6 +315,8 @@ Jump to
   - https://itunes.apple.com/app/yi-bian-qian/id1029807896
 - [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing 🔶
 - [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool  
+- [Monkey](https://github.com/coderyi/Monkey): Monkey is a GitHub third party client for iOS,to show the rank of coders and repositories.
+  - https://itunes.apple.com/cn/app/monkey-for-github/id1003765407 
 
 ## [React Native](http://facebook.github.io/react-native/)
 
