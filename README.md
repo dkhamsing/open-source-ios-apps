@@ -335,7 +335,7 @@ Jump to
 - [london-react](https://github.com/JoeStanton/london-react)
 - [newswatch](https://github.com/bradoyler/newswatch-react-native): News app using YouTube playlists
 - [NortalTechDay](https://github.com/mikkoj/NortalTechDay): Conference app
-- [Product Hunt](https://github.com/rkho/product-hunt-react-native)
+- [Product Kitty](https://github.com/rkho/product-kitty)
 - [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder)
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
 - [Spacepics](https://github.com/campezzi/react-native-spacepics): A small app displaying NASA's Picture of the Day
