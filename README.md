@@ -168,7 +168,7 @@ Jump to
   - https://itunes.apple.com/app/doughwallet/id951731776
 - Savings Assistant: Expense tracker 🔶
   - https://github.com/chrisamanse/savings-assistant
-  - https://itunes.apple.com/us/app/savings-assistant/id1022760996
+  - https://itunes.apple.com/app/savings-assistant/id1022760996
 - TodayStocks: Lightweight stocks app that shows your portfolio in a minimalist today extension
   - https://github.com/premnirmal/TodayStocks
   - https://itunes.apple.com/app/todaystocks/id993467855
