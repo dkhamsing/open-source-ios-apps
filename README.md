@@ -76,7 +76,7 @@ Jump to
 - [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler): Code examples for new features of watchOS 2 🔶
 - [WatchPics](https://github.com/D-32/WatchPics): Instagram for the Apple Watch
 - [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake for Watch 🔶
-- [WatchStocks](https://github.com/willedflipper66/WatchStocks): App to track your stocks portfolio. Also includes a watch face complication
+- [WatchStocks](https://github.com/willedflipper66/WatchStocks): App to track your stocks portfolio. Also includes a watch face complication 🔶
 - [Wunderschnell](https://github.com/contentful-labs/Wunderschnell): Order the right product with one tap on your wrist 🔶
 
 ## Communication
