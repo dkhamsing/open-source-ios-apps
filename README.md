@@ -394,6 +394,7 @@ Jump to
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift) :large_orange_diamond: 72
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) 🔶 
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo): A Swift demo for HomeKit 🔶
+- [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler) Code examples for the new functions in iOS 9 🔶
 - [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler): Code examples for the new functions in iOS 8 
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶
   - https://github.com/scotteg/LayerPlayer
