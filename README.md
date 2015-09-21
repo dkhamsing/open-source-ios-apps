@@ -390,12 +390,12 @@ Jump to
 - Code by Apple
   - [Developer Library](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code), [GitHub Mirror](https://github.com/robovm/apple-ios-samples)
   - [WWDC 2015](https://developer.apple.com/sample-code/wwdc/2015/) 
-- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C) 66
-- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift) :large_orange_diamond: 72
+- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C) 
+- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift) :large_orange_diamond: 
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) 🔶 
-- [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo): A Swift demo for HomeKit 🔶
-- [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler) Code examples for the new functions in iOS 9 🔶
+- [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo) 🔶
 - [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler): Code examples for the new functions in iOS 8 
+- [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler): Code examples for the new functions in iOS 9 🔶
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶
   - https://github.com/scotteg/LayerPlayer
   - https://itunes.apple.com/app/layer-player/id949768742
