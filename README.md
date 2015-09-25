@@ -11,6 +11,7 @@ Jump to
 
 - [Apple Watch](#apple-watch)
 - [Communication](#communication)
+- [Content Blocking](#content-blocking)
 - [Core Data](#core-data)
 - [Games](#games)
 - [Developer](#developer)
@@ -96,6 +97,12 @@ Jump to
 - Telegram: Messaging app with a focus on speed and security
   - https://telegram.org/apps
   - https://itunes.apple.com/app/telegram-messenger/id686449807
+
+## Content Blocking
+
+- Adblock Fast
+  - https://github.com/rocketshipapps/adblockfast
+  - https://itunes.apple.com/app/adblock-fast/id1032930802
 
 ## Core Data
 
