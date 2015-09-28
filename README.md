@@ -284,6 +284,9 @@ Jump to
 - WhiteHouse: Official White House App
   - https://github.com/WhiteHouse/wh-app-ios
   - https://itunes.apple.com/app/the-white-house/id350190807
+- Coding: Official Coding App
+  - https://github.com/Coding/Coding-iOS
+  - https://itunes.apple.com/cn/app/coding/id923676989
 
 ## [Parse](https://www.parse.com/)
 
