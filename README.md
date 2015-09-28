@@ -270,23 +270,23 @@ Jump to
 
 ## Official
 
+- Coding: Official Coding App
+  - https://github.com/Coding/Coding-iOS
+  - https://itunes.apple.com/app/coding/id923676989
 - [Firefox](https://github.com/mozilla/firefox-ios): Official Firefox app 🔶
-- Wikipedia: Official Wikipedia App
-  - https://github.com/wikimedia/apps-ios-wikipedia
-  - https://itunes.apple.com/app/wikipedia-mobile/id324715238
 - VLC: Media Player 
   - http://www.videolan.org/vlc/download-ios.html
   - https://github.com/videolan/vlc
   - https://itunes.apple.com/app/vlc-for-ios/id650377962
-- WordPress: Official WordPress App
-  - https://github.com/wordpress-mobile/WordPress-iOS
-  - https://itunes.apple.com/app/wordpress/id335703880
 - WhiteHouse: Official White House App
   - https://github.com/WhiteHouse/wh-app-ios
   - https://itunes.apple.com/app/the-white-house/id350190807
-- Coding: Official Coding App
-  - https://github.com/Coding/Coding-iOS
-  - https://itunes.apple.com/cn/app/coding/id923676989
+- Wikipedia: Official Wikipedia App
+  - https://github.com/wikimedia/apps-ios-wikipedia
+  - https://itunes.apple.com/app/wikipedia-mobile/id324715238
+- WordPress: Official WordPress App
+  - https://github.com/wordpress-mobile/WordPress-iOS
+  - https://itunes.apple.com/app/wordpress/id335703880
 
 ## [Parse](https://www.parse.com/)
 
