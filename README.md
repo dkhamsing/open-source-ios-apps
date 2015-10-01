@@ -104,6 +104,7 @@ Jump to
 - Adblock Fast
   - https://github.com/rocketshipapps/adblockfast
   - https://itunes.apple.com/app/adblock-fast/id1032930802
+- [BlockParty](https://github.com/krishkumar/BlockParty): Safari Content Blocker App for iOS 9 and OSX
 
 ## Core Data
 
