@@ -104,6 +104,7 @@ Jump to
 - Adblock Fast
   - https://github.com/rocketshipapps/adblockfast
   - https://itunes.apple.com/app/adblock-fast/id1032930802
+- [BlockParty](https://github.com/krishkumar/BlockParty): iOS 9 Safari Content Blocker App
 
 ## Core Data
 
@@ -495,8 +496,6 @@ Jump to
 - A Menjar: Food menu app
   - https://github.com/maurovc/aMenjar
   - https://itunes.apple.com/app/a-menjar!/id816473131
-id905177575   
-- [BlockParty](https://github.com/krishkumar/BlockParty): iOS 9 Safari Content Blocker App
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶
 - Frameless: A full-screen web browser 🔶
   - https://github.com/stakes/Frameless
