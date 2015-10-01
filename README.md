@@ -226,7 +226,7 @@ Jump to
 - Artsy Folio: Artwork showcase
   - https://github.com/artsy/energy
   - https://itunes.apple.com/app/artsy-folio/id504862164
-- [DoubanFM](https://github.com/XVXVXXX/DoubanFM): The DoubanFM for iPhone, using AFN and MPMoviePlayer  
+- [DoubanFM](https://github.com/XVXVXXX/DoubanFM): douban.fm client for iPhone, using AFN and MPMoviePlayer  
 - Eleven: Eleven Player is a simple powerful video player, uses ffmpeg.
   - https://github.com/coderyi/Eleven
   - https://itunes.apple.com/app/elevenplayer/id1033773648
