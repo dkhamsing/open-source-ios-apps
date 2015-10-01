@@ -227,6 +227,9 @@ Jump to
   - https://github.com/artsy/energy
   - https://itunes.apple.com/app/artsy-folio/id504862164
 - [DoubanFM](https://github.com/XVXVXXX/DoubanFM): The DoubanFM for iPhone, using AFN and MPMoviePlayer  
+- Eleven: Eleven Player is a simple powerful video player, uses ffmpeg.
+  - https://github.com/coderyi/Eleven
+  - https://itunes.apple.com/app/elevenplayer/id1033773648
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶 
 - Poppins: House all your favorite GIFs and easily share them with your friends and family 🔶
