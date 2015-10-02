@@ -232,6 +232,9 @@ Jump to
   - https://github.com/coderyi/Eleven
   - https://itunes.apple.com/app/elevenplayer/id1033773648
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
+- Mume: Music player and douban.fm client for iOS
+  - https://github.com/coderyi/Mume
+  - https://itunes.apple.com/app/mumefm/id1037825434
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶 
 - Poppins: House all your favorite GIFs and easily share them with your friends and family 🔶
   - https://github.com/thoughtbot/poppins
