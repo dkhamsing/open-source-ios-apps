@@ -304,6 +304,7 @@ Jump to
 - AnyWall: A fun geolocation app built with Parse
   - https://github.com/ParsePlatform/AnyWall
   - https://itunes.apple.com/app/anywall/id520955490
+- [how-much](https://github.com/dkhamsing/how-much): Simple app to record how much things cost using Parse
 - [iBeaconTasks](https://github.com/TomekB/iBeaconTasks): iBeacon TODO reminder app based on Parse
 - Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video
   - https://github.com/TomekB/Parse-Challenge-App
