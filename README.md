@@ -75,6 +75,7 @@ Jump to
 - [SBB](https://github.com/D-32/AppleWatchSBB): Apple Watch app to access the SBB (Swiss railway) timetable
 - [Soon](https://github.com/sandofsky/soon): Countdown App 🔶
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit 🔶
+- [Watchman](https://github.com/DanielTomlinson/Watchman): A WatchOS2 Hangman Game 🔶
 - [WatchNotes](https://github.com/azamsharp/WatchNotes): Notes on your wrist 🔶
 - [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler): Code examples for new features of watchOS 2 🔶
 - [WatchPics](https://github.com/D-32/WatchPics): Instagram for the Apple Watch
