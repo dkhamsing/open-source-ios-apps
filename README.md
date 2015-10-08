@@ -244,13 +244,13 @@ Jump to
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶
 - [Swifteroid](https://github.com/eugenpirogoff/swifteroid): A manual HDR exposure camera app written in Swift 🔶
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶
+- [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro): Professional Radio Station App, created w/ Swift 2.0
 - [SwiftSpace](https://github.com/FlexMonkey/SwiftSpace): CoreMotion Controlled Drawing in 3D Space 🔶
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
 - [VLC](#official)
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶   
-- [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro): Professional Radio Station App, created w/ Swift 2.0
 
 ## News
 
