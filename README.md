@@ -249,6 +249,7 @@ Jump to
   - https://itunes.apple.com/app/upupu/id508401854
 - [VLC](#official)
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶   
+- [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro): Professional Radio Station App, created w/ Swift 2.0
 
 ## News
 
