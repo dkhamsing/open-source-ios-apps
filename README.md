@@ -118,6 +118,7 @@ Jump to
 - Monkey: GitHub third party client that shows the rank of coders and repositories
   - https://github.com/coderyi/Monkey
   - https://itunes.apple.com/app/monkey-for-github/id1003765407
+- [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and the Mac Apps 🔶
 
 ## Games
 
