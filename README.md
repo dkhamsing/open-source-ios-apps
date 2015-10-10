@@ -257,6 +257,9 @@ Jump to
 - Designer News App 🔶 
   - https://github.com/MengTo/DesignerNewsApp
   - https://itunes.apple.com/app/designer-news-app/id879990495
+- Feeds4U: Well architectured RSS reader 🔶
+  - https://github.com/EvgenyKarkan/Feeds4U
+  - https://itunes.apple.com/app/feeds4u/id1038456442
 - Hacker News Client: Hacker News API-Based iOS Reader (Firebase)
   - https://github.com/bonzoq/hniosreader
   - https://itunes.apple.com/app/hacker-news-client/id939454231 
