@@ -340,9 +340,6 @@ Jump to
 - MasterPassword: Stateless password management solution
   - https://github.com/Lyndir/MasterPassword
   - https://itunes.apple.com/app/id510296984
-- Mention: Personal media wish list
-  - https://github.com/mhaddl/mentio
-  - https://itunes.apple.com/app/mentio-personal-media-wish/id796557338
 - Onions: Cloud encrypted text storage app
   - https://github.com/onionsapp/Onions-iOS
   - https://itunes.apple.com/app/onions/id687296481
