@@ -457,7 +457,7 @@ Jump to
 - [AppSales-Mobile](https://github.com/omz/AppSales-Mobile): App for iTunes Connect Sales 
 - Be my eyes: An app that connects blind people with volunteer helpers via live video chat
   - https://github.com/bemyeyes/bemyeyes-ios
-  - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/
+  - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
 - [Coffee Timer](https://github.com/ashfurrow/yourfirstswiftapp) 🔶
 - [Colo](https://github.com/wongzigii/Colo): Color themes hunter
 - ColorBlur: Add blur to your photos
