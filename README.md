@@ -141,9 +141,9 @@ Jump to
   - https://itunes.apple.com/app/doom-ii-rpg/id354051766 
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird 🔶
 - [Game Of Life](https://github.com/yonbergman/swift-gameoflife): Conway's Game of Life 🔶
-- MUDRammer — A Modern MUD Client for iPhone and iPad
+- MUDRammer: MUD Client for iPhone and iPad
   - https://github.com/splinesoft/MUDRammer
-  - https://itunes.apple.com/us/app/mudrammer-a-modern-mud-client/id597157072?mt=8
+  - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
 - [Orbit7](https://github.com/Mav3r1ck/Orbit7): iOS Game created in SpriteKit 🔶
 - [Provenance](https://github.com/jasarien/Provenance): Game emulator frontend
 - [SceneKitFrogger](https://github.com/devindazzle/SceneKitFrogger) 🔶
