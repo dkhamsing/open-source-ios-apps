@@ -349,6 +349,9 @@ Jump to
 - ownCloud: Client for a personal open-source cloud data provider
   - https://github.com/owncloud/ios
   - https://itunes.apple.com/app/owncloud/id543672169
+- Runner-Stats: iPhone app to record running data
+  - https://github.com/hukun01/Runner-Stats
+  - https://itunes.apple.com/app/runner-stats/id793443821
 - SimpleMemo: Sync notes to EverNote
   - https://github.com/likumb/SimpleMemo
   - https://itunes.apple.com/app/yi-bian-qian/id1029807896
