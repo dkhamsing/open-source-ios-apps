@@ -380,6 +380,9 @@ Jump to
 - C-41: Make developing film easier and more reliable by using this simple timer
   - https://github.com/ashfurrow/C-41
   - https://itunes.apple.com/app/c-41/id789924103
+- GitBucket: GitHub client using MVVM & ReactiveCocoa
+  - https://github.com/leichunfeng/MVVMReactiveCocoa
+  - https://itunes.apple.com/app/id961330940
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa 🔶
 - ReactiveHackerNews: Hacker News reader with Tinder style interface, written in ObjC, uses MVVM & ReactiveCocoa
@@ -390,8 +393,6 @@ Jump to
 - Tropos: A weather app using ReactiveCocoa and Forecast.io 
   - https://github.com/thoughtbot/Tropos
   - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376  
-- [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa): GitBucket iOS App
-  - https://itunes.apple.com/cn/app/id961330940?mt=8
 
 ## Realm
 
