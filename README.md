@@ -210,7 +210,7 @@ Jump to
   - https://itunes.apple.com/app/id955480687
 - PhishOD: Listen to any song from Phish.in and view concert ratings and reviews from phish.net
   - https://github.com/alecgorge/PhishOD-iOS
-  - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018?
+  - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018
 - [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
 - That Movie With: Find common movies among actors
   - https://github.com/jayhickey/thatmoviewith
@@ -517,7 +517,7 @@ Jump to
 - Frameless: A full-screen web browser 🔶
   - https://github.com/stakes/Frameless
   - https://itunes.apple.com/app/id933580264
-- [HackCancer](https://github.com/HackCancer/iOS): [Hackathon app](https://github.com/dkhamsing/open-source-ios-apps/issues/63#issuecomment-116225024) 🔶
+- [HackCancer](https://github.com/HackCancer/iOS): [Hackathon app](http://www.hackcancer.co/) 🔶
 - Jupp: App with share extension for ADN 🔶
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
