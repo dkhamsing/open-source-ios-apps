@@ -358,6 +358,7 @@ Jump to
 ## [React Native](http://facebook.github.io/react-native/)
 
 - [App examples by Facebook](https://github.com/facebook/react-native/tree/master/Examples): Sample apps including 2048, movies, tic tac toe and more
+- [Around Me](https://github.com/bgryszko/react-native-example): Display Instagram photos around your location
 - [Currency Converter](https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter)
 - [Den](https://github.com/asamiller/den): View houses for sale in the Northwest
 - [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app)
