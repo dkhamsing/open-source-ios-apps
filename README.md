@@ -284,6 +284,9 @@ Jump to
 - v2ex: An iOS client for the technical and creative website v2ex.com  
   - https://github.com/singro/v2ex 
   - https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535
+  - GrinnellEvents:Grinnell Events gathers all events on campus, and lists them so you can see what's happening
+  - https://github.com/Bautistax/Grinnell-Events-iOS
+  - https://itunes.apple.com/us/app/grinnell-events/id924312300?mt=8
 
 ## Official
 
