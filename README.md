@@ -260,6 +260,9 @@ Jump to
 - Feeds4U: Well architectured RSS reader 🔶
   - https://github.com/EvgenyKarkan/Feeds4U
   - https://itunes.apple.com/app/feeds4u/id1038456442
+- HackerNews (Y): Built using pure Objective C with official HN API (uses Firebase and Fabric)
+  - https://github.com/vetri02/HackerNews
+  - https://itunes.apple.com/app/hacker-news-y/id1027140113
 - Hacker News Client: Hacker News API-Based iOS Reader (Firebase)
   - https://github.com/bonzoq/hniosreader
   - https://itunes.apple.com/app/hacker-news-client/id939454231 
