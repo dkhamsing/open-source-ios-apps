@@ -541,6 +541,10 @@ Jump to
 - VisitBCN: City guide for Barcelona
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
+  - Sunning Shop: A cloud store for Sunning
+  - https://github.com/FelixMLians/suning-shop-ios
+  - https://itunes.apple.com/us/app/yun-dian/id647016969?mt=8
+  
   
 ## Thanks
 
