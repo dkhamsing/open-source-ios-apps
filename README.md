@@ -499,6 +499,9 @@ Jump to
  - https://github.com/mpak/Workdays
  - https://itunes.apple.com/app/workdays-calendar/id889712978
 - [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage
+- QiitaCollection: To record the knowledge of programming, optimal service to share!
+- https://github.com/anzfactory/QiitaCollection
+- https://itunes.apple.com/us/app/kitakore-for-qiita/id973532800?mt=8
 
 ## Weather
 
