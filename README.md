@@ -186,6 +186,9 @@ Jump to
 - TodayStocks: Lightweight stocks app that shows your portfolio in a minimalist today extension
   - https://github.com/premnirmal/TodayStocks
   - https://itunes.apple.com/app/todaystocks/id993467855
+  - ProMonster: Store 
+  - https://github.com/usemobile/promonster_ios
+  - https://itunes.apple.com/br/app/promonster/id919649318?mt=8
 
 ## Location
 - [EatNow]: Eat-Now’s philosophy is simple, elegant and instantly helpful for nearby restaurants.
