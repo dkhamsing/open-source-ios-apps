@@ -275,7 +275,9 @@ Jump to
   - https://github.com/bonzoq/hniosreader
   - https://itunes.apple.com/app/hacker-news-client/id939454231 
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader 🔶
-- [HackerNewsReader](https://github.com/rnystrom/HackerNewsReader): A small, read-only app for Hacker News
+- HackerNewsReader: A small, read-only app for Hacker News
+  - https://github.com/rnystrom/HackerNewsReader
+  - https://itunes.apple.com/app/simple-reader-free-open-source/id1000995253
 - News/YC: Hacker News client with user management, commenting, submitting and themes 🔶
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
