@@ -118,6 +118,9 @@ Jump to
 - Monkey: GitHub third party client that shows the rank of coders and repositories
   - https://github.com/coderyi/Monkey
   - https://itunes.apple.com/app/monkey-for-github/id1003765407
+- QiitaCollection: Technical knowledge sharing and collaboration platform 🇯🇵
+  - https://github.com/anzfactory/QiitaCollection
+  - https://itunes.apple.com/app/kitakore-for-qiita/id973532800
 - [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and the Mac Apps 🔶
 
 ## Games
@@ -500,9 +503,6 @@ Jump to
  - https://github.com/mpak/Workdays
  - https://itunes.apple.com/app/workdays-calendar/id889712978
 - [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage
-- QiitaCollection: To record the knowledge of programming, optimal service to share!
-- https://github.com/anzfactory/QiitaCollection
-- https://itunes.apple.com/us/app/kitakore-for-qiita/id973532800?mt=8
 
 ## Weather
 
