@@ -265,6 +265,9 @@ Jump to
 - Feeds4U: Well architectured RSS reader 🔶
   - https://github.com/EvgenyKarkan/Feeds4U
   - https://itunes.apple.com/app/feeds4u/id1038456442
+- GrinnellEvents: Grinnell Events gathers all events on campus, and lists them so you can see what's happening
+  - https://github.com/Bautistax/Grinnell-Events-iOS
+  - https://itunes.apple.com/app/grinnell-events/id924312300
 - HackerNews (Y): Built using pure Objective C with official HN API (uses Firebase and Fabric)
   - https://github.com/vetri02/HackerNews
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
@@ -290,9 +293,6 @@ Jump to
 - v2ex: An iOS client for the technical and creative website v2ex.com  
   - https://github.com/singro/v2ex 
   - https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535
-  - GrinnellEvents:Grinnell Events gathers all events on campus, and lists them so you can see what's happening
-  - https://github.com/Bautistax/Grinnell-Events-iOS
-  - https://itunes.apple.com/us/app/grinnell-events/id924312300?mt=8
 
 ## Official
 
