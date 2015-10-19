@@ -268,22 +268,6 @@ Jump to
 - GrinnellEvents: Grinnell Events gathers all events on campus, and lists them so you can see what's happening
   - https://github.com/Bautistax/Grinnell-Events-iOS
   - https://itunes.apple.com/app/grinnell-events/id924312300
-- HackerNews (Y): Built using pure Objective C with official HN API (uses Firebase and Fabric)
-  - https://github.com/vetri02/HackerNews
-  - https://itunes.apple.com/app/hacker-news-y/id1027140113
-- Hacker News Client: Hacker News API-Based iOS Reader (Firebase)
-  - https://github.com/bonzoq/hniosreader
-  - https://itunes.apple.com/app/hacker-news-client/id939454231 
-- [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader 🔶
-- HackerNewsReader: A small, read-only app for Hacker News
-  - https://github.com/rnystrom/HackerNewsReader
-  - https://itunes.apple.com/app/simple-reader-free-open-source/id1000995253
-- News/YC: Hacker News client with user management, commenting, submitting and themes 🔶
-  - https://github.com/bennyguitar/News-YC---iPhone
-  - https://itunes.apple.com/app/news-yc/id592893508
-- news:yc
-  - https://github.com/Xuzz/newsyc 
-  - https://itunes.apple.com/app/news-yc/id434787119
 - [Reddit](https://github.com/amitburst/reddit-demo): Reddit news app 🔶
 - RSSRead: A RSS reader with offline feature
   - https://github.com/ming1016/RSSRead
@@ -295,6 +279,26 @@ Jump to
 - v2ex: An iOS client for the technical and creative website v2ex.com  
   - https://github.com/singro/v2ex 
   - https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535
+
+### Hacker News
+
+- Hacker News Client: Hacker News API-Based iOS Reader (Firebase)
+  - https://github.com/bonzoq/hniosreader
+  - https://itunes.apple.com/app/hacker-news-client/id939454231 
+- HackerNews (Y): Built using pure Objective C with official HN API (uses Firebase and Fabric)
+  - https://github.com/vetri02/HackerNews
+  - https://itunes.apple.com/app/hacker-news-y/id1027140113
+- [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader 🔶
+- HackerNewsReader: A small, read-only app for Hacker News
+  - https://github.com/rnystrom/HackerNewsReader
+  - https://itunes.apple.com/app/simple-reader-free-open-source/id1000995253
+- [HN Reader: Hacker News Reader](#apple-watch) 🔶
+- News/YC: Hacker News client with user management, commenting, submitting and themes 🔶
+  - https://github.com/bennyguitar/News-YC---iPhone
+  - https://itunes.apple.com/app/news-yc/id592893508
+- news:yc
+  - https://github.com/Xuzz/newsyc 
+  - https://itunes.apple.com/app/news-yc/id434787119
 
 ## Official
 
