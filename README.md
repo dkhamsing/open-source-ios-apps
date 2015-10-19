@@ -186,9 +186,6 @@ Jump to
 - TodayStocks: Lightweight stocks app that shows your portfolio in a minimalist today extension
   - https://github.com/premnirmal/TodayStocks
   - https://itunes.apple.com/app/todaystocks/id993467855
-  - ProMonster: Store 
-  - https://github.com/usemobile/promonster_ios
-  - https://itunes.apple.com/br/app/promonster/id919649318?mt=8
 
 ## Location
 - [EatNow]: Eat-Now’s philosophy is simple, elegant and instantly helpful for nearby restaurants.
@@ -543,6 +540,9 @@ Jump to
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
 - [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
 - [PocketFlix](https://code.google.com/p/metasyntactic/wiki/PocketFlix): Put the power of Netflix at your fingertips
+- ProMonster: Store 
+  - https://github.com/usemobile/promonster_ios
+  - https://itunes.apple.com/app/promonster/id919649318
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule 🔶
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
 - Vinylogue: A simple Last.fm client
