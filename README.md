@@ -543,6 +543,9 @@ Jump to
 - ProMonster: Store 
   - https://github.com/usemobile/promonster_ios
   - https://itunes.apple.com/app/promonster/id919649318
+- Sunning Shop: A cloud store for Sunning
+  - https://github.com/FelixMLians/suning-shop-ios
+  - https://itunes.apple.com/app/yun-dian/id647016969
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule 🔶
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
 - Vinylogue: A simple Last.fm client
@@ -551,10 +554,6 @@ Jump to
 - VisitBCN: City guide for Barcelona
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
-  - Sunning Shop: A cloud store for Sunning
-  - https://github.com/FelixMLians/suning-shop-ios
-  - https://itunes.apple.com/us/app/yun-dian/id647016969?mt=8
-  
   
 ## Thanks
 
