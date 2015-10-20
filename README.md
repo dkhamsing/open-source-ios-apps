@@ -66,13 +66,13 @@ Jump to
 - [Impulse](https://github.com/Jasdev/Impulse): Real-time age ticker for iOS and watchOS 🔶
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
+- [OnTime](https://github.com/D-32/OnTime): Apple Watch app to access the SBB (Swiss railway) timetable
 - Parties for WWDC: Aggregator of developers WWDC parties
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
 - PhoneBattery: Your phone's battery, on your wrist
   - https://github.com/marcelvoss/PhoneBattery
   - https://itunes.apple.com/app/phonebattery-your-phones-battery/id1009278300
-- [SBB](https://github.com/D-32/AppleWatchSBB): Apple Watch app to access the SBB (Swiss railway) timetable
 - [Soon](https://github.com/sandofsky/soon): Countdown App 🔶
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit 🔶
 - [Watchman](https://github.com/DanielTomlinson/Watchman): A WatchOS2 Hangman Game 🔶
@@ -209,7 +209,7 @@ Jump to
 - Longboxed: Track the releases of your favorite comics.
   - https://github.com/jayhickey/Longboxed-iOS
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339 
-- [MovieDBApp](https://github.com/KMindeguia/moviedbapp): Movie info app
+- [movies](https://github.com/KMindeguia/movies): Movie info app
 - OCiney: Movie info app
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/app/id955480687
@@ -314,7 +314,7 @@ Jump to
   - https://github.com/WhiteHouse/wh-app-ios
   - https://itunes.apple.com/app/the-white-house/id350190807
 - Wikipedia: Official Wikipedia App
-  - https://github.com/wikimedia/apps-ios-wikipedia
+  - https://github.com/wikimedia/wikipedia-ios
   - https://itunes.apple.com/app/wikipedia-mobile/id324715238
 - WordPress: Official WordPress App
   - https://github.com/wordpress-mobile/WordPress-iOS
@@ -499,7 +499,7 @@ Jump to
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737 
 - Speak: AAC & Speech Therapy 
-  - https://github.com/1raynes/speakability
+  - https://github.com/raynesio/speakability
   - https://itunes.apple.com/app/speakability/id784509467
 - VPN On 🔶
   - https://github.com/lexrus/VPNOn
@@ -529,6 +529,7 @@ Jump to
 - A Menjar: Food menu app
   - https://github.com/maurovc/aMenjar
   - https://itunes.apple.com/app/a-menjar!/id816473131
+- [bar](https://github.com/soffes/bar): Cocktail Menu 🔶
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶
 - Frameless: A full-screen web browser 🔶
   - https://github.com/stakes/Frameless
@@ -542,7 +543,6 @@ Jump to
 - LidderbuchApp: Songbook for Luxembourgish Students 🔶
   - https://github.com/AcelLuxembourg/LidderbuchApp
   - https://itunes.apple.com/app/lidderbuch/id997143407
-- [NYE](https://github.com/soffes/nye): New Year's Eve Cocktail Menu 🔶
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
 - [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
 - [PocketFlix](https://code.google.com/p/metasyntactic/wiki/PocketFlix): Put the power of Netflix at your fingertips
