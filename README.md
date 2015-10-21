@@ -40,7 +40,6 @@ Jump to
 ## Apple Watch
 
 - [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) 🔶
-- [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started): Track Bitcoin price 🔶 
 - Bither: Simple and secure Bitcoin wallet
   - https://github.com/bither/bither-ios ([extension](https://github.com/bither/bither-ios/tree/master/bither-ios%20WatchKit%20Extension))
   - https://itunes.apple.com/app/bither/id899478936
