@@ -289,9 +289,6 @@ Jump to
   - https://github.com/vetri02/HackerNews
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader 🔶
-- HackerNewsReader: A small, read-only app for Hacker News
-  - https://github.com/rnystrom/HackerNewsReader
-  - https://itunes.apple.com/app/simple-reader-free-open-source/id1000995253
 - [HN Reader: Hacker News Reader](#apple-watch) 🔶
 - News/YC: Hacker News client with user management, commenting, submitting and themes 🔶
   - https://github.com/bennyguitar/News-YC---iPhone
@@ -299,6 +296,9 @@ Jump to
 - news:yc
   - https://github.com/Xuzz/newsyc 
   - https://itunes.apple.com/app/news-yc/id434787119
+- Simple Reader: A small, read-only app for Hacker News
+  - https://github.com/rnystrom/HackerNewsReader
+  - https://itunes.apple.com/app/simple-reader-free-open-source/id1000995253
 
 ## Official
 
