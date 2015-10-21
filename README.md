@@ -19,7 +19,7 @@ Jump to
 - [Keyboards](#keyboards)
 - [Location](#location)
 - [Entertainment](#entertainment)
-- [Multimedia](#multimedia)
+- [Media](#media)
 - [News](#news)
 - [Official](#official)
 - [Parse](#parse)
@@ -224,7 +224,7 @@ Jump to
   - https://github.com/mamaral/xkcd-Open-Source
   - https://itunes.apple.com/app/xkcd-open-source/id995811425
 
-## Multimedia
+## Media
 
 *Image, video, audio*
 
