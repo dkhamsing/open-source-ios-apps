@@ -226,7 +226,7 @@ Jump to
 - [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
 - That Movie With: Find common movies among actors
   - https://github.com/jayhickey/thatmoviewith
-  - https://itunes.apple.com/us/app/that-movie-with/id892972135
+  - https://itunes.apple.com/app/that-movie-with/id892972135
 - xkcd: Open Source: An xkcd Comic Reader
   - https://github.com/mamaral/xkcd-Open-Source
   - https://itunes.apple.com/app/xkcd-open-source/id995811425
@@ -501,7 +501,7 @@ Jump to
   - https://itunes.apple.com/app/greatreader/id903651112
 - OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more 🔥
  - https://github.com/OneBusAway/onebusaway-iphone
- - https://itunes.apple.com/us/app/onebusaway/id329380089?mt=8
+ - https://itunes.apple.com/app/onebusaway/id329380089
 - Round & Split: Tip Calculator 🔶
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737 
