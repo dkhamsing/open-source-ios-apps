@@ -143,6 +143,9 @@ Jump to
   - https://itunes.apple.com/app/canabalt/id333180061
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app 🔶🔥🔥
 - [Chess](https://github.com/mjcuva/Chess): iOS Chess game to learn SpriteKit 🔶
+- Chuck: Throw a ball and catch it. Over and over and over.
+  - https://github.com/moowahaha/Chuck
+  - https://itunes.apple.com/us/app/chuck/id1050453297
 - DOOM: Doom Classic for iOS 🔥🔥
   - https://github.com/id-Software/DOOM-iOS
   - https://itunes.apple.com/app/doom-classic/id336347946
