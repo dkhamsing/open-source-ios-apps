@@ -18,7 +18,6 @@ Jump to
 - [Finance](#finance)
 - [Keyboards](#keyboards)
 - [Location](#location)
-- [Entertainment](#entertainment)
 - [Media](#media)
 - [News](#news)
 - [Official](#official)
@@ -215,29 +214,6 @@ Jump to
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups and locate co-working spaces
 - [Swift-Walk-Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker): An open source walk tracking iOS App 🔶
 
-## Entertainment
-
-- ComicFlow: Comic reader for iPad 🔥
-  - https://github.com/swisspol/ComicFlow
-  - https://itunes.apple.com/app/comicflow/id409290355
-- Longboxed: Track the releases of your favorite comics.
-  - https://github.com/jayhickey/Longboxed-iOS
-  - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339 
-- [movies](https://github.com/KMindeguia/movies): Movie info app 🔥🔥🔥
-- OCiney: Movie info app 🔥
-  - https://github.com/florent37/OCiney-iOS
-  - https://itunes.apple.com/app/id955480687
-- PhishOD: Listen to any song from Phish.in and view concert ratings and reviews from phish.net
-  - https://github.com/alecgorge/PhishOD-iOS
-  - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018
-- [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
-- That Movie With: Find common movies among actors
-  - https://github.com/jayhickey/thatmoviewith
-  - https://itunes.apple.com/app/that-movie-with/id892972135
-- xkcd: Open Source: An xkcd Comic Reader
-  - https://github.com/mamaral/xkcd-Open-Source
-  - https://itunes.apple.com/app/xkcd-open-source/id995811425
-
 ## Media
 
 *Image, video, audio*
@@ -248,29 +224,49 @@ Jump to
 - Artsy Folio: Artwork showcase
   - https://github.com/artsy/energy
   - https://itunes.apple.com/app/artsy-folio/id504862164
+- ComicFlow: Comic reader for iPad 🔥
+  - https://github.com/swisspol/ComicFlow
+  - https://itunes.apple.com/app/comicflow/id409290355
 - [DoubanFM](https://github.com/XVXVXXX/DoubanFM): douban.fm client for iPhone, using AFN and MPMoviePlayer 🔥🔥 
 - Eleven: Eleven Player is a simple powerful video player, uses ffmpeg 🔥
   - https://github.com/coderyi/Eleven
   - https://itunes.apple.com/app/elevenplayer/id1033773648
-- [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app 🔥
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
+- [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app 🔥
+- Longboxed: Track the releases of your favorite comics.
+  - https://github.com/jayhickey/Longboxed-iOS
+  - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339 
+- [movies](https://github.com/KMindeguia/movies): Movie info app 🔥🔥🔥
 - Mume: Music player and douban.fm client for iOS
   - https://github.com/coderyi/Mume
   - https://itunes.apple.com/app/mumefm/id1037825434
+- OCiney: Movie info app 🔥
+  - https://github.com/florent37/OCiney-iOS
+  - https://itunes.apple.com/app/id955480687
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶🔥🔥 
 - Poppins: House all your favorite GIFs and easily share them with your friends and family 🔶
   - https://github.com/thoughtbot/poppins
   - https://itunes.apple.com/app/poppins/id978854068
+- PhishOD: Listen to any song from Phish.in and view concert ratings and reviews from phish.net
+  - https://github.com/alecgorge/PhishOD-iOS
+  - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018
+- [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶
 - [Swifteroid](https://github.com/eugenpirogoff/swifteroid): A manual HDR exposure camera app written in Swift 🔶
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶🔥🔥
 - [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro): Professional Radio Station App, created w/ Swift 2.0 🔥🔥🔥
 - [SwiftSpace](https://github.com/FlexMonkey/SwiftSpace): CoreMotion Controlled Drawing in 3D Space 🔶
+- That Movie With: Find common movies among actors
+  - https://github.com/jayhickey/thatmoviewith
+  - https://itunes.apple.com/app/that-movie-with/id892972135
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
 - [VLC](#official)
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶🔥   
+- xkcd: Open Source: An xkcd Comic Reader
+  - https://github.com/mamaral/xkcd-Open-Source
+  - https://itunes.apple.com/app/xkcd-open-source/id995811425
 
 ## News
 
