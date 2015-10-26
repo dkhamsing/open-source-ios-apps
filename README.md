@@ -122,6 +122,7 @@ Jump to
 ## Developer
 
 - [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests. 🔶
+- [AppSales-Mobile](https://github.com/omz/AppSales-Mobile): App for iTunes Connect Sales 🔥🔥🔥🔥
 - Monkey: GitHub third party client that shows the rank of coders and repositories 🔥🔥🔥
   - https://github.com/coderyi/Monkey
   - https://itunes.apple.com/app/monkey-for-github/id1003765407
@@ -486,7 +487,6 @@ Jump to
 
 ## Tools
 
-- [AppSales-Mobile](https://github.com/omz/AppSales-Mobile): App for iTunes Connect Sales 🔥🔥🔥🔥
 - Be my eyes: An app that connects blind people with volunteer helpers via live video chat 🔥🔥
   - https://github.com/bemyeyes/bemyeyes-ios
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
