@@ -252,6 +252,7 @@ Jump to
 - Eleven: Eleven Player is a simple powerful video player, uses ffmpeg 🔥
   - https://github.com/coderyi/Eleven
   - https://itunes.apple.com/app/elevenplayer/id1033773648
+- [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app 🔥
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - Mume: Music player and douban.fm client for iOS
   - https://github.com/coderyi/Mume
@@ -552,7 +553,6 @@ Jump to
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App 🔶🔥🔥🔥
-- [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app 🔥
 - LidderbuchApp: Songbook for Luxembourgish Students 🔶
   - https://github.com/AcelLuxembourg/LidderbuchApp
   - https://itunes.apple.com/app/lidderbuch/id997143407
