@@ -392,6 +392,7 @@ Jump to
 - [Den](https://github.com/asamiller/den): View houses for sale in the Northwest 🔥
 - [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app) 🔥🔥🔥
 - [Facebook Login](https://github.com/brentvatne/react-native-login) 🔥🔥
+- [Finance](https://github.com/7kfpun/FinanceReactNative): iOS's Stocks app written in React Native 🔥
 - [Foreign Exchange](https://github.com/peralmq/ForeignExchangeApp)
 - [Hacker News](https://github.com/iSimar/HackerNews-React-Native) 🔥🔥🔥🔥
 - [Iceland Earthquakes](https://github.com/paranoida/IcelandEarthquakes)
@@ -402,6 +403,7 @@ Jump to
 - [Product Kitty](https://github.com/rkho/product-kitty)
 - [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder) 🔥
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
+- [Songkick](https://github.com/ArnaudRinquin/sk-react-native)
 - [Spacepics](https://github.com/campezzi/react-native-spacepics): A small app displaying NASA's Picture of the Day
 - [Sudoku](https://github.com/christopherdro/react-native-sudoku)
 - [To Do List](https://github.com/joemaddalone/react-native-todo)
