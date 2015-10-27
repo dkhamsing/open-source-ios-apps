@@ -458,6 +458,7 @@ Jump to
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C) 
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift) :large_orange_diamond: 
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) 🔶 
+- [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift): Apple HealthKit sample code fit swift version.
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo) 🔶🔥🔥
 - [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler): Code examples for the new functions in iOS 8 🔥🔥🔥🔥🔥
 - [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler): Code examples for the new functions in iOS 9 🔶🔥🔥🔥🔥🔥
