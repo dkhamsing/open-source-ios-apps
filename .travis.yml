@@ -1,0 +1,11 @@
+language: ruby
+rvm:
+  - 2.2
+before_script:
+  - wget https://github.com/dkhamsing/frankenstein/archive/travis.tar.gz -O /tmp/frankenstein.tar.gz
+  - tar -xvf /tmp/frankenstein.tar.gz
+  - export PATH=$PATH:$PWD/frankenstein-travis/bin/
+  - cd frankenstein-travis
+  - bundle install
+script:  
+  - frankenstein ../README.md
