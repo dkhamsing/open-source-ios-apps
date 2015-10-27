@@ -392,6 +392,7 @@ Jump to
 - [Den](https://github.com/asamiller/den): View houses for sale in the Northwest 🔥
 - [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app) 🔥🔥🔥
 - [Facebook Login](https://github.com/brentvatne/react-native-login) 🔥🔥
+- [Finance](https://github.com/7kfpun/FinanceReactNative): iOS's Stocks app written in React Native 🔥
 - [Foreign Exchange](https://github.com/peralmq/ForeignExchangeApp)
 - [Hacker News](https://github.com/iSimar/HackerNews-React-Native) 🔥🔥🔥🔥
 - [Iceland Earthquakes](https://github.com/paranoida/IcelandEarthquakes)
