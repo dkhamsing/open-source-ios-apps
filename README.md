@@ -402,6 +402,7 @@ Jump to
 - [Product Kitty](https://github.com/rkho/product-kitty)
 - [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder) 🔥
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
+- [Songkick](https://github.com/ArnaudRinquin/sk-react-native)
 - [Spacepics](https://github.com/campezzi/react-native-spacepics): A small app displaying NASA's Picture of the Day
 - [Sudoku](https://github.com/christopherdro/react-native-sudoku)
 - [To Do List](https://github.com/joemaddalone/react-native-todo)
