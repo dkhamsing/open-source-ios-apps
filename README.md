@@ -544,7 +544,7 @@ Jump to
 
 ## Misc
 
-- A Menjar: Food menu app
+- A Menjar: Food menu app 🇪🇸
   - https://github.com/maurovc/aMenjar
   - https://itunes.apple.com/app/a-menjar!/id816473131
 - [bar](https://github.com/soffes/bar): Cocktail Menu 🔶
