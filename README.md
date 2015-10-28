@@ -445,6 +445,9 @@ Jump to
 - mPower: ResearchKit app studying Parkinson's disease 
   - https://github.com/ResearchKit/mPower
   - https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200  
+- MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk. 
+  - https://github.com/ResearchKit/MyHeartCounts
+  - https://itunes.apple.com/app/id972189947
 - Share The Journey: ResearchKit app studying Breast Cancer  
   - https://github.com/ResearchKit/ShareTheJourney
   - https://itunes.apple.com/app/share-the-journey/id972180604 
