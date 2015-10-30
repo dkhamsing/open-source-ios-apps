@@ -563,7 +563,6 @@ Jump to
   - https://itunes.apple.com/app/lidderbuch/id997143407
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
 - [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
-- [PocketFlix](https://code.google.com/p/metasyntactic/wiki/PocketFlix): Put the power of Netflix at your fingertips
 - ProMonster: Store 
   - https://github.com/usemobile/promonster_ios
   - https://itunes.apple.com/app/promonster/id919649318
