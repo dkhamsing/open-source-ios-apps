@@ -132,7 +132,7 @@ Jump to
 
 ## Games
 
-- [翻翻看](https://github.com/geek5nan/FanFanSwift): Concentration game 🔶🔥
+- [翻翻看](https://github.com/geek5nan/FanFanSwift): Concentration game 🇨🇳 🔶🔥 🇨
 - [2048](https://github.com/austinzheng/iOS-2048): 2048 game in Objective-C 🔥
 - [2048](https://github.com/austinzheng/swift-2048): 2048 game in Swift 🔶🔥🔥🔥🔥
 - Bridges: A puzzle game with bridges, houses, tolls, and subways 🔥
@@ -227,7 +227,7 @@ Jump to
 - ComicFlow: Comic reader for iPad 🔥
   - https://github.com/swisspol/ComicFlow
   - https://itunes.apple.com/app/comicflow/id409290355
-- [DoubanFM](https://github.com/XVXVXXX/DoubanFM): douban.fm client for iPhone, using AFN and MPMoviePlayer 🔥🔥 
+- [DoubanFM](https://github.com/XVXVXXX/DoubanFM): douban.fm client for iPhone, using AFN and MPMoviePlayer 🇨🇳 🔥🔥 
 - Eleven: Eleven Player is a simple powerful video player, uses ffmpeg 🔥
   - https://github.com/coderyi/Eleven
   - https://itunes.apple.com/app/elevenplayer/id1033773648
@@ -281,14 +281,14 @@ Jump to
   - https://github.com/Bautistax/Grinnell-Events-iOS
   - https://itunes.apple.com/app/grinnell-events/id924312300
 - [Reddit](https://github.com/amitburst/reddit-demo): Reddit news app 🔶
-- RSSRead: A RSS reader with offline feature 🔥🔥
+- RSSRead: A RSS reader with offline feature 🇨🇳 🔥🔥
   - https://github.com/ming1016/RSSRead
   - https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app
 - The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan 🔶🔥🔥
   - https://github.com/aclissold/the-oakland-post 
   - https://itunes.apple.com/app/oakland-post/id931152313  
-- v2ex: An iOS client for the technical and creative website v2ex.com 🔥🔥🔥🔥 
+- v2ex: An iOS client for the technical and creative website v2ex.com 🇨🇳 🔥🔥🔥🔥 
   - https://github.com/singro/v2ex 
   - https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535
 
@@ -567,7 +567,7 @@ Jump to
 - ProMonster: Store 
   - https://github.com/usemobile/promonster_ios
   - https://itunes.apple.com/app/promonster/id919649318
-- Sunning Shop: A cloud store for Sunning
+- Sunning Shop: A cloud store for Sunning 🇨🇳
   - https://github.com/FelixMLians/suning-shop-ios
   - https://itunes.apple.com/app/yun-dian/id647016969
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule 🔶🔥🔥
