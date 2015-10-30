@@ -561,6 +561,7 @@ Jump to
 - LidderbuchApp: Songbook for Luxembourgish Students 🔶
   - https://github.com/AcelLuxembourg/LidderbuchApp
   - https://itunes.apple.com/app/lidderbuch/id997143407
+- [Malendar](https://github.com/croossin/Malendar): A redesigned calendar app 🔶
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
 - [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
 - ProMonster: Store 
