@@ -337,8 +337,9 @@ Jump to
 - 2CITY: Find out the coolest things to do in your city
   - https://github.com/2city/2CITY-iOS
   - https://itunes.apple.com/app/2city/id944632470
-- Anypic: Mobile and web app that lets users share photos similar to Instagram 🔥🔥🔥🔥
-  - https://github.com/ParsePlatform/Anypic
+- Anypic: Mobile and web app that lets users share photos similar to Instagram
+  - https://github.com/ParsePlatform/Anypic 🔥🔥🔥🔥
+  - https://github.com/kwkhaw/SwiftAnyPic 🔶
   - https://itunes.apple.com/app/anypic/id539741538
 - AnyWall: A fun geolocation app built with Parse 🔥🔥
   - https://github.com/ParsePlatform/AnyWall
