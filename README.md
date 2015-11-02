@@ -559,7 +559,7 @@ Jump to
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App 🔶🔥🔥🔥
 - LidderbuchApp: Songbook for Luxembourgish Students 🔶
-  - https://github.com/AcelLuxembourg/LidderbuchApp
+  - https://github.com/AcelLuxembourg/LidderbuchApp 🇩🇪
   - https://itunes.apple.com/app/lidderbuch/id997143407
 - [Malendar](https://github.com/croossin/Malendar): A redesigned calendar app 🔶
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
