@@ -564,7 +564,7 @@ Jump to
 - [Malendar](https://github.com/croossin/Malendar): A redesigned calendar app 🔶
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
 - [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
-- ProMonster: Store 
+- ProMonster: Store 🇧🇷
   - https://github.com/usemobile/promonster_ios
   - https://itunes.apple.com/app/promonster/id919649318
 - Sunning Shop: A cloud store for Sunning 🇨🇳
