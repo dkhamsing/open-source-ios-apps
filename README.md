@@ -360,7 +360,7 @@ Jump to
 ## Personal
 
 - [Arex](https://github.com/a2/arex-7): An iOS application for remembering to take your medications 🔶
-- [Everest](https://github.com/EverestOpenSource/Everest-iOS): app for documenting your life through journeys and individual moments
+- [Everest](https://github.com/EverestOpenSource/Everest-iOS): Documente your life through journeys & individual moments
 - iContactU: Reminds you to contact people you ought to 🔶
   - https://github.com/rizal72/iContactU
   - https://itunes.apple.com/app/icontactu/id920200100
@@ -520,7 +520,7 @@ Jump to
 - Speak: AAC & Speech Therapy 
   - https://github.com/raynesio/speakability
   - https://itunes.apple.com/app/speakability/id784509467
-- VPN On 🔶🔥🔥🔥🔥
+- VPN On: Today Widget to turn on VPN 🔶🔥🔥🔥🔥
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
 - [Words](https://github.com/soffes/words): Thesaurus app
