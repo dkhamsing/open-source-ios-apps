@@ -280,6 +280,7 @@ Jump to
 - GrinnellEvents: Grinnell Events gathers all events on campus, and lists them so you can see what's happening
   - https://github.com/Bautistax/Grinnell-Events-iOS
   - https://itunes.apple.com/app/grinnell-events/id924312300
+- [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0) 🇨🇳 🔥🔥🔥
 - [Reddit](https://github.com/amitburst/reddit-demo): Reddit news app 🔶
 - RSSRead: A RSS reader with offline feature 🇨🇳 🔥🔥
   - https://github.com/ming1016/RSSRead
