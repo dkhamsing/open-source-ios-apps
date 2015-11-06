@@ -9,6 +9,7 @@ and [android-apps](https://github.com/pcqpcq/open-source-android-apps).*
 
 Jump to
 
+- [Apple TV](#apple-tv)
 - [Apple Watch](#apple-watch)
 - [Communication](#communication)
 - [Content Blocking](#content-blocking)
@@ -43,6 +44,10 @@ Jump to
 1000+ Stars: 🔥🔥🔥🔥
 2000+ Stars: 🔥🔥🔥🔥🔥
 ``` 
+
+## Apple TV
+
+- [Artsy Shows](https://github.com/artsy/Emergence): Art shows on your TV 🔶🔥
 
 ## Apple Watch
 
