@@ -48,6 +48,7 @@ Jump to
 ## Apple TV
 
 - [Artsy Shows](https://github.com/artsy/Emergence): Art shows on your TV 🔶🔥
+- [UitzendingGemist](https://github.com/jeffkreeftmeijer/UitzendingGemist): Unofficial Apple TV app for Dutch Public Broadcasting video on demand service 🔶
 
 ## Apple Watch
 
