@@ -271,7 +271,10 @@ Jump to
   - https://itunes.apple.com/app/upupu/id508401854
 - [VLC](#official)
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶🔥   
-- xkcd: Open Source: An xkcd Comic Reader
+- xkcd: iPhone app
+  - https://github.com/paulrehkugler/xkcd
+  - https://itunes.apple.com/app/xkcd/id303688284
+- xkcd Open Source: An xkcd Comic Reader
   - https://github.com/mamaral/xkcd-Open-Source
   - https://itunes.apple.com/app/xkcd-open-source/id995811425
 
