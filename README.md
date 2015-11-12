@@ -328,7 +328,9 @@ Jump to
 - Coding: Official Coding App 🔥🔥🔥
   - https://github.com/Coding/Coding-iOS
   - https://itunes.apple.com/app/coding/id923676989
-- [Firefox](https://github.com/mozilla/firefox-ios): Official Firefox app 🔶🔥🔥🔥🔥🔥
+- Firefox: Official Firefox app 🔶🔥🔥🔥🔥🔥
+  - https://github.com/mozilla/firefox-ios
+  - https://itunes.apple.com/app/firefox-web-browser/id989804926
 - VLC: Media Player 🔥🔥🔥🔥
   - http://www.videolan.org/vlc/download-ios.html
   - https://github.com/videolan/vlc
