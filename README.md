@@ -184,6 +184,7 @@ Jump to
 - ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8
   - https://github.com/b3ll/ClickWheelKeyboard
   - https://itunes.apple.com/app/click-wheel-keyboard/id993111285 
+- [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard): Keyboard that supports The Big List of Naughty Strings 🔶🔥🔥🔥
 
 ## Finance
 
