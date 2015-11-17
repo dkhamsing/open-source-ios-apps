@@ -194,6 +194,9 @@ Jump to
 - breadwallet: Bitcoin wallet
   - https://github.com/breadwallet/breadwallet
   - https://itunes.apple.com/app/breadwallet/id885251393
+- Buck Tracker: Expense tracker 🔶
+  - https://github.com/hkalexling/Buck_Tracker
+  - https://itunes.apple.com/app/ibudgeter/id1048395728
 - [Coins](https://github.com/nothingmagical/coins): Bitcoin value tracker 🔶🔥
 - Concurrency: Beautiful, intuitive currency converter 🔥🔥
   - https://github.com/nicklockwood/Concurrency
@@ -201,9 +204,6 @@ Jump to
 - doughwallet: Dogecoin wallet
   - https://github.com/peritus/doughwallet
   - https://itunes.apple.com/app/doughwallet/id951731776
-- iBudgeter: Elegant and easy-to-use finance/expense app 🔶
-  - https://github.com/hkalexling/Buck_Tracker
-  - https://itunes.apple.com/app/ibudgeter/id1048395728
 - Savings Assistant: Expense tracker 🔶
   - https://github.com/chrisamanse/savings-assistant
   - https://itunes.apple.com/app/savings-assistant/id1022760996
