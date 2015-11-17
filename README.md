@@ -48,6 +48,7 @@ Jump to
 ## Apple TV
 
 - [Artsy Shows](https://github.com/artsy/Emergence): Art shows on your TV 🔶🔥
+- [Provenance](#games): Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥
 - [UitzendingGemist](https://github.com/jeffkreeftmeijer/UitzendingGemist): Unofficial Apple TV app for Dutch Public Broadcasting video on demand service 🔶
 
 ## Apple Watch
@@ -165,7 +166,7 @@ Jump to
   - https://github.com/splinesoft/MUDRammer
   - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
 - [Orbit7](https://github.com/Mav3r1ck/Orbit7): iOS Game created in SpriteKit 🔶
-- [Provenance](https://github.com/jasarien/Provenance): Game emulator frontend 🔥🔥🔥
+- [Provenance](https://github.com/jasarien/Provenance): Game emulator frontend 🔥🔥🔥🔥
 - [SceneKitFrogger](https://github.com/devindazzle/SceneKitFrogger) 🔶
 - Spare Parts: Simple 2D point and line physics using Verlet integration
   - https://github.com/adamwulf/spare-parts-app
