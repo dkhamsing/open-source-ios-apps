@@ -202,7 +202,7 @@ Jump to
   - https://github.com/peritus/doughwallet
   - https://itunes.apple.com/app/doughwallet/id951731776
 - iBudgeter: Elegant and easy-to-use finance/expense app 🔶
-  - https://github.com/hkalexling/iBudgeter
+  - https://github.com/hkalexling/Buck_Tracker
   - https://itunes.apple.com/app/ibudgeter/id1048395728
 - Savings Assistant: Expense tracker 🔶
   - https://github.com/chrisamanse/savings-assistant
