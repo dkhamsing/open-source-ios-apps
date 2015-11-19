@@ -50,6 +50,7 @@ Jump to
 - [Artsy Shows](https://github.com/artsy/Emergence): Art shows on your TV 🔶🔥
 - [Provenance](#games): Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥
 - [UitzendingGemist](https://github.com/jeffkreeftmeijer/UitzendingGemist): Unofficial Apple TV app for Dutch Public Broadcasting video on demand service 🔶
+- [WWDCTV](https://github.com/azzoor/WWDCTV): Watch the WWDC Videos on your Apple TV.
 
 ## Apple Watch
 
