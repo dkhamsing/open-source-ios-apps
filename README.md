@@ -163,6 +163,7 @@ Jump to
   - https://itunes.apple.com/app/doom-ii-rpg/id354051766 
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird 🔶🔥🔥🔥🔥🔥
 - [Game Of Life](https://github.com/yonbergman/swift-gameoflife): Conway's Game of Life 🔶
+- [GBA4iOS](https://bitbucket.org/rileytestut/gba4ios/): Gameboy, Gameboy Color & Gameboy Advance emulator for iOS.
 - MUDRammer: MUD Client for iPhone and iPad
   - https://github.com/splinesoft/MUDRammer
   - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
