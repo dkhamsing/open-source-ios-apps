@@ -188,6 +188,7 @@ Jump to
   - https://github.com/b3ll/ClickWheelKeyboard
   - https://itunes.apple.com/app/click-wheel-keyboard/id993111285 
 - [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard): Keyboard that supports The Big List of Naughty Strings 🔶🔥🔥🔥
+- [Slidden](https://github.com/Brimizer/Slidden): An open source, customizable, iOS keyboard 🔥🔥
 
 ## Finance
 
