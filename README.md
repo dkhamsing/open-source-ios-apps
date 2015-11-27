@@ -73,7 +73,7 @@ Jump to
   - https://github.com/FancyPixel/gulps
   - https://itunes.apple.com/app/gulps/id979057304
 - [heartrate](https://github.com/coolioxlr/watchOS-2-heartrate): Show streaming heartrate from the watch with watchOS 2 🔶🔥🔥
-- [Hightstreet](https://github.com/GetHighstreet/HighstreetWatchApp): Highstreet shopping app 🔶🔥🔥
+- [HighStreet](https://github.com/GetHighstreet/HighstreetWatchApp): Highstreet shopping app 🔶🔥🔥
 - HN Reader: Hacker News Reader 🔶🔥🔥🔥
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
@@ -222,7 +222,7 @@ Jump to
 - [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers 🔶🔥
 - [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time at
 - [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS): Share your location
-- [pathlogger](https://github.com/eugenpirogoff/pathlogger): GPS logging application for ios written in Swift 🔶
+- [pathlogger](https://github.com/eugenpirogoff/pathlogger): GPS logging application for iOS written in Swift 🔶
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups and locate co-working spaces
 - [Swift-Walk-Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker): An open source walk tracking iOS App 🔶
 
@@ -289,7 +289,7 @@ Jump to
 - Designer News App 🔶🔥🔥🔥🔥 
   - https://github.com/MengTo/DesignerNewsApp
   - https://itunes.apple.com/app/designer-news-app/id879990495
-- Feeds4U: Well architectured RSS reader 🔶
+- Feeds4U: Well architected RSS reader 🔶
   - https://github.com/EvgenyKarkan/Feeds4U
   - https://itunes.apple.com/app/feeds4u/id1038456442
 - GrinnellEvents: Grinnell Events gathers all events on campus, and lists them so you can see what's happening
@@ -379,7 +379,7 @@ Jump to
 ## Personal
 
 - [Arex](https://github.com/a2/arex-7): An iOS application for remembering to take your medications 🔶
-- [Everest](https://github.com/EverestOpenSource/Everest-iOS): Documente your life through journeys & individual moments
+- [Everest](https://github.com/EverestOpenSource/Everest-iOS): Document your life through journeys & individual moments
 - iContactU: Reminds you to contact people you ought to 🔶
   - https://github.com/rizal72/iContactU
   - https://itunes.apple.com/app/icontactu/id920200100
