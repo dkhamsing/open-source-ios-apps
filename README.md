@@ -377,7 +377,6 @@ Jump to
 ## Personal
 
 - [Arex](https://github.com/a2/arex-7): An iOS application for remembering to take your medications 🔶
-- [Everest](https://github.com/EverestOpenSource/Everest-iOS): Document your life through journeys & individual moments
 - iContactU: Reminds you to contact people you ought to 🔶
   - https://github.com/rizal72/iContactU
   - https://itunes.apple.com/app/icontactu/id920200100
