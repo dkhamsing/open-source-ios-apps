@@ -4,9 +4,6 @@ List of open-source iOS apps.
 
 Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](https://twitter.com/dkhamsing).
 
-*Bonus: [mac-apps](https://github.com/jeffreyjackson/mac-apps), [awesome-osx](https://github.com/iCHAIT/awesome-osx)
-and [android-apps](https://github.com/pcqpcq/open-source-android-apps).*
-
 Jump to
 
 - [Apple TV](#apple-tv)
@@ -34,6 +31,7 @@ Jump to
 - [Tools](#tools)
 - [Weather](#weather)
 - [Misc](#misc)
+- [Bonus](#bonus)
 
 ```
 🔶 Swift projects
@@ -602,6 +600,10 @@ Jump to
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
   
+## Bonus
+
+See [archive](archive.md), [mac-apps](https://github.com/jeffreyjackson/mac-apps), [awesome-osx](https://github.com/iCHAIT/awesome-osx) and [android-apps](https://github.com/pcqpcq/open-source-android-apps).
+
 ## Thanks
 
 This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift).
