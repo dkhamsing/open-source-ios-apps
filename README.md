@@ -228,6 +228,9 @@ Jump to
 
 *Image, video, audio*
 
+- 360 VR Player: A Open Source, Ad-free, Native and Universal 360° video player for iOS. 🔥🔥
+  - https://github.com/hanton/HTY360Player
+  - https://itunes.apple.com/hk/app/360-vr-player/id1061464612?mt=8
 - Artsy: The Art World in Your Pocket 🔥🔥🔥
   - https://github.com/artsy/eigen
   - https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080
@@ -281,9 +284,6 @@ Jump to
 - xkcd Open Source: An xkcd Comic Reader
   - https://github.com/mamaral/xkcd-Open-Source
   - https://itunes.apple.com/app/xkcd-open-source/id995811425
-- 360 VR Player: A Open Source, Ad-free, Native and Universal 360° video player for iOS. 🔥🔥
-  - https://github.com/hanton/HTY360Player
-  - https://itunes.apple.com/hk/app/360-vr-player/id1061464612?mt=8
 
 ## News
 
