@@ -246,6 +246,9 @@ Jump to
   - https://itunes.apple.com/app/elevenplayer/id1033773648
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [FreeStreamer](https://github.com/muhku/FreeStreamer): A low-memory footprint streaming audio player 🔥🔥🔥
+- KonaBot: unofficial client for konachan.net 🔶
+  - https://github.com/hkalexling/KonaBot-iOS
+  - https://itunes.apple.com/us/app/konabot/id1055716649?ls=1&mt=8
 - [lastfm-iphone](https://github.com/lastfm/lastfm-iphone): Last.fm iPhone app 🔥
 - Longboxed: Track the releases of your favorite comics.
   - https://github.com/jayhickey/Longboxed-iOS
