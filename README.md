@@ -36,6 +36,9 @@ Jump to
 ```
 🔶 Swift projects
 
+🇨🇳 Project is in Chinese
+🇪🇸 Project is in Spanish, etc
+
  100+ Stars: 🔥
  200+ Stars: 🔥🔥
  500+ Stars: 🔥🔥🔥
