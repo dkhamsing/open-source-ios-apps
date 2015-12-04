@@ -30,6 +30,7 @@ Jump to
 - [Tasks](#tasks)
 - [Tools](#tools)
 - [Weather](#weather)
+- [Web](#web)
 - [Misc](#misc)
 - [Bonus](#bonus)
 
@@ -135,9 +136,6 @@ Jump to
   - https://github.com/coderyi/Monkey
   - https://itunes.apple.com/app/monkey-for-github/id1003765407
 - [MrCode](https://github.com/haolloyin/MrCode): GitHub iPhone app that can cache Markdown content 🇨🇳 🔥🔥
-- QiitaCollection: Technical knowledge sharing and collaboration platform 🇯🇵
-  - https://github.com/anzfactory/QiitaCollection
-  - https://itunes.apple.com/app/kitakore-for-qiita/id973532800
 - [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and the Mac Apps 🔶
 
 ## Games
@@ -572,6 +570,18 @@ Jump to
   - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
 - [YoCelsius](https://github.com/YouXianMing/YoCelsius) 🔥🔥
 
+## Web
+
+- ProMonster: Store 🇧🇷
+  - https://github.com/usemobile/promonster_ios
+  - https://itunes.apple.com/app/promonster/id919649318
+- QiitaCollection: Technical knowledge sharing and collaboration platform 🇯🇵
+  - https://github.com/anzfactory/QiitaCollection
+  - https://itunes.apple.com/app/kitakore-for-qiita/id973532800
+- Sunning Shop: A cloud store for Sunning 🇨🇳
+  - https://github.com/FelixMLians/suning-shop-ios
+  - https://itunes.apple.com/app/yun-dian/id647016969
+
 ## Misc
 
 - A Menjar: Food menu app 🇪🇸
@@ -593,12 +603,6 @@ Jump to
 - [Malendar](https://github.com/croossin/Malendar): A redesigned calendar app 🔶
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
 - [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
-- ProMonster: Store 🇧🇷
-  - https://github.com/usemobile/promonster_ios
-  - https://itunes.apple.com/app/promonster/id919649318
-- Sunning Shop: A cloud store for Sunning 🇨🇳
-  - https://github.com/FelixMLians/suning-shop-ios
-  - https://itunes.apple.com/app/yun-dian/id647016969
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule 🔶🔥🔥
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
 - Vinylogue: A simple Last.fm client
