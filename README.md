@@ -37,6 +37,7 @@ Jump to
 ```
 🔶 Swift projects
 
+Projects that are not in English have a flag
 🇨🇳 Project is in Chinese
 🇪🇸 Project is in Spanish, etc
 
