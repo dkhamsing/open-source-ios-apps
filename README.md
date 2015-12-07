@@ -588,7 +588,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/yun-dian/id647016969
 
 ## Xamarin
-- Toggl: Native mobile apps for Toggl 🔥
+- Toggl Timer 🔥
   - https://github.com/toggl/mobile
   - https://itunes.apple.com/us/app/toggl-timer/id885767775
 
