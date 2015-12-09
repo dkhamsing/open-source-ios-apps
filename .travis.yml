@@ -2,10 +2,10 @@ language: ruby
 rvm:
   - 2.2
 before_script:
-  - wget https://github.com/dkhamsing/frankenstein/archive/travis.tar.gz -O /tmp/frankenstein.tar.gz
-  - tar -xvf /tmp/frankenstein.tar.gz
-  - export PATH=$PATH:$PWD/frankenstein-travis/bin/
-  - cd frankenstein-travis
+  - wget https://codeload.github.com/dkhamsing/awesome_bot/tar.gz/wip -O /tmp/temp.tar.gz
+  - tar -xvf /tmp/temp.tar.gz
+  - export PATH=$PATH:$PWD/awesome_bot-wip/bin/
+  - cd awesome_bot-wip
   - bundle install
 script:  
-  - frankenstein ../README.md
+  - awesome_bot ../README.md -v
