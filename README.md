@@ -2,7 +2,7 @@
 
 List of open-source iOS apps.
 
-Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](https://twitter.com/dkhamsing).
+Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](#contact).
 
 Jump to
 
@@ -514,7 +514,7 @@ Projects that are not in English have a flag
 - Task: Designed to quickly and easily add tasks to your iPhone 🔶
   - https://github.com/mbcrump/TasksForSwiftWithPersistingData
   - https://itunes.apple.com/app/task-application/id960435759
-- [Todo.txt](https://github.com/ginatrapani/todo.txt-ios): If you have a file called todo.txt on your computer right now, you're in the right place. 🔥🔥
+- Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place. 🔥🔥
   - [https://github.com/ginatrapani/todo.txt-ios](https://github.com/ginatrapani/todo.txt-ios)
   - [https://itunes.apple.com/app/todo.txt-touch/id491342186](https://itunes.apple.com/us/app/todo.txt-touch/id491342186)
 
