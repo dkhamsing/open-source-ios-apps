@@ -8,4 +8,4 @@ before_script:
   - cd awesome_bot-wip
   - bundle install
 script:  
-  - awesome_bot ../README.md -v
+  - awesome_bot ../README.md --dupe
