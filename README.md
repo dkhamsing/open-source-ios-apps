@@ -532,6 +532,9 @@ Projects that are not in English have a flag
 - Edhita: Text editor 🔶🔥🔥🔥
   - https://github.com/tnantoka/edhita
   - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
+- Firefox
+  - https://github.com/mozilla/firefox-ios
+  - https://itunes.apple.com/app/firefox-web-browser/id989804926
 - Fojusi: Work timer with today extension 🔶🔥🔥
   - https://github.com/dasdom/Tomate
   - https://itunes.apple.com/app/fojusi/id923044693
