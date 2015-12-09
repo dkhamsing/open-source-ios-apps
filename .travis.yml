@@ -2,10 +2,10 @@ language: ruby
 rvm:
   - 2.2
 before_script:
-  - wget https://codeload.github.com/dkhamsing/awesome_bot/tar.gz/wip -O /tmp/temp.tar.gz
+  - wget https://codeload.github.com/dkhamsing/awesome_bot/tar.gz/master -O /tmp/temp.tar.gz
   - tar -xvf /tmp/temp.tar.gz
-  - export PATH=$PATH:$PWD/awesome_bot-wip/bin/
-  - cd awesome_bot-wip
+  - export PATH=$PATH:$PWD/awesome_bot-master/bin/
+  - cd awesome_bot-master
   - bundle install
 script:  
-  - awesome_bot ../README.md
+  - awesome_bot ../README.md 
