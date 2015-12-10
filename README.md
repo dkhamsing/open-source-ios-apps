@@ -83,7 +83,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
 - [Impulse](https://github.com/Jasdev/Impulse): Real-time age ticker for iOS and watchOS 🔶
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
-- [Lister](https://developer.apple.com/library/prerelease/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
+- [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
 - [OnTime](https://github.com/D-32/OnTime): Apple Watch app to access the SBB (Swiss railway) timetable
 - Parties for WWDC: Aggregator of developers WWDC parties 🔥 
   - https://github.com/sugarso/WWDC
