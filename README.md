@@ -264,9 +264,6 @@ Projects that are not in English have a flag
   - https://github.com/jayhickey/Longboxed-iOS
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339 
 - [movies](https://github.com/KMindeguia/movies): Movie info app 🔥🔥🔥
-- Mume: Music player and douban.fm client for iOS
-  - https://github.com/coderyi/Mume
-  - https://itunes.apple.com/app/mumefm/id1037825434
 - OCiney: Movie info app 🔥
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/app/id955480687
