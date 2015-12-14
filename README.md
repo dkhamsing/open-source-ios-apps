@@ -123,6 +123,9 @@ Projects that are not in English have a flag
 - Adblock Fast 🔥🔥
   - https://github.com/rocketshipapps/adblockfast
   - https://itunes.apple.com/app/adblock-fast/id1032930802
+- Adblock Plus
+  - https://github.com/adblockplus/adblockplussafariios
+  - https://itunes.apple.com/app/adblock-plus-abp/id1028871868
 - [BlockParty](https://github.com/krishkumar/BlockParty): iOS 9 Safari Content Blocker App 🔥🔥
 - [Focus](https://github.com/mozilla/focus): Content blocker by Firefox 🔶
 
