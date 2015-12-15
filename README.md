@@ -328,6 +328,7 @@ Projects that are not in English have a flag
   - https://github.com/vetri02/HackerNews
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader 🔶🔥🔥🔥
+- [Hackers](https://github.com/weiran/Hackers) 🔶🔥🔥
 - [HN Reader: Hacker News Reader](#apple-watch) 🔶
 - News/YC: Hacker News client with user management, commenting, submitting and themes 🔶🔥🔥🔥
   - https://github.com/bennyguitar/News-YC---iPhone
