@@ -554,6 +554,7 @@ Projects that are not in English have a flag
 - Speak: AAC & Speech Therapy 
   - https://github.com/raynesio/speakability
   - https://itunes.apple.com/app/speakability/id784509467
+- [Tether](https://github.com/chrisballinger/Tether-iOS): Tethering for non-jailbroken iOS Devices over USB
 - VPN On: Today Widget to turn on VPN 🔶🔥🔥🔥🔥
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
