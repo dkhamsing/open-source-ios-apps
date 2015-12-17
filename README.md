@@ -588,9 +588,6 @@ Projects that are not in English have a flag
 - QiitaCollection: Technical knowledge sharing and collaboration platform 🇯🇵
   - https://github.com/anzfactory/QiitaCollection
   - https://itunes.apple.com/app/kitakore-for-qiita/id973532800
-- Sunning Shop: A cloud store for Sunning 🇨🇳
-  - https://github.com/FelixMLians/suning-shop-ios
-  - https://itunes.apple.com/app/yun-dian/id647016969
 
 ## Xamarin
 - Toggl Timer 🔥
