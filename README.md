@@ -14,6 +14,7 @@ Jump to
 - [Games](#games)
 - [Developer](#developer)
 - [Finance](#finance)
+- [Health](#health)
 - [Keyboards](#keyboards)
 - [Location](#location)
 - [Media](#media)
@@ -24,7 +25,6 @@ Jump to
 - [React Native](#react-native)
 - [ReactiveCocoa](#reactivecocoa)
 - [Realm](#realm)
-- [ResearchKit](#researchkit)
 - [Sample](#sample)
 - [Social](#social)
 - [Tasks](#tasks)
@@ -220,6 +220,26 @@ Projects that are not in English have a flag
   - https://github.com/premnirmal/TodayStocks
   - https://itunes.apple.com/app/todaystocks/id993467855
 
+## Health
+
+- [Arex](https://github.com/a2/arex-7): App for remembering to take your medications 🔶
+- AsthmaHealth: ResearchKit app studying Asthma 
+  - https://github.com/ResearchKit/AsthmaHealth
+  - https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668
+- GlucoSuccess: ResearchKit app studying Diabetes
+  - https://github.com/ResearchKit/GlucoSuccess
+  - https://itunes.apple.com/app/glucosuccess/id972143976 
+- [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift) Sample app for Apple HealthKit 🔶 
+- mPower: ResearchKit app studying Parkinson's disease 
+  - https://github.com/ResearchKit/mPower
+  - https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200  
+- MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk. 
+  - https://github.com/ResearchKit/MyHeartCounts
+  - https://itunes.apple.com/app/id972189947
+- Share The Journey: ResearchKit app studying Breast Cancer  
+  - https://github.com/ResearchKit/ShareTheJourney
+  - https://itunes.apple.com/app/share-the-journey/id972180604 
+
 ## Location
 - EatNow: Get recommendations for nearby restaurants.
   - https://github.com/callzhang/Eat-Now
@@ -389,7 +409,6 @@ Projects that are not in English have a flag
 
 ## Personal
 
-- [Arex](https://github.com/a2/arex-7): An iOS application for remembering to take your medications 🔶
 - iContactU: Reminds you to contact people you ought to 🔶
   - https://github.com/rizal72/iContactU
   - https://itunes.apple.com/app/icontactu/id920200100
@@ -464,24 +483,6 @@ Projects that are not in English have a flag
 - [Done][]: Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
 - [RealmToDo][]: A small todo list with Realm integration 🔶
 
-## ResearchKit
-
-- AsthmaHealth: ResearchKit app studying Asthma 
-  - https://github.com/ResearchKit/AsthmaHealth
-  - https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668
-- GlucoSuccess: ResearchKit app studying Diabetes
-  - https://github.com/ResearchKit/GlucoSuccess
-  - https://itunes.apple.com/app/glucosuccess/id972143976 
-- mPower: ResearchKit app studying Parkinson's disease 
-  - https://github.com/ResearchKit/mPower
-  - https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200  
-- MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk. 
-  - https://github.com/ResearchKit/MyHeartCounts
-  - https://itunes.apple.com/app/id972189947
-- Share The Journey: ResearchKit app studying Breast Cancer  
-  - https://github.com/ResearchKit/ShareTheJourney
-  - https://itunes.apple.com/app/share-the-journey/id972180604 
-
 ## Sample
 
 - Cannonball: Fun way to create and share stories and poems using Fabric 🔶🔥
@@ -493,7 +494,6 @@ Projects that are not in English have a flag
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C) 
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift) :large_orange_diamond: 
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) 🔶 
-- [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift) 🔶 
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo) 🔶🔥🔥
 - [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler): Code examples for the new functions in iOS 8 🔥🔥🔥🔥🔥
 - [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler): Code examples for the new functions in iOS 9 🔶🔥🔥🔥🔥🔥
