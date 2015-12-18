@@ -52,7 +52,7 @@ Projects that are not in English have a flag
 ## Apple TV
 
 - [Artsy Shows](https://github.com/artsy/Emergence): Art shows on your TV 🔶🔥
-- [Provenance](#games): Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥
+- [Provenance][]: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥
 - [UitzendingGemist](https://github.com/jeffkreeftmeijer/UitzendingGemist): Unofficial Apple TV app for Dutch Public Broadcasting video on demand service 🔶
 - [WWDCTV](https://github.com/azzoor/WWDCTV): Watch the WWDC Videos on your Apple TV.
 
@@ -73,14 +73,13 @@ Projects that are not in English have a flag
 - Cortado: Track your caffeine consumption habits 🔥
   - https://github.com/lazerwalker/cortado
   - https://itunes.apple.com/app/cortado/id969899327
-- [Done](https://github.com/FancyPixel/done-swift): Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
+- [Done][]: Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
 - Gulps: Track of your daily water consumption 🔶🔥🔥
   - https://github.com/FancyPixel/gulps
   - https://itunes.apple.com/app/gulps/id979057304
 - [heartrate](https://github.com/coolioxlr/watchOS-2-heartrate): Show streaming heartrate from the watch with watchOS 2 🔶🔥🔥
 - [HighStreet](https://github.com/GetHighstreet/HighstreetWatchApp): Highstreet shopping app 🔶🔥🔥
-- HN Reader: Hacker News Reader 🔶🔥🔥🔥
-  - https://github.com/Dimillian/SwiftHN
+- [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
 - [Impulse](https://github.com/Jasdev/Impulse): Real-time age ticker for iOS and watchOS 🔶
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
@@ -174,7 +173,7 @@ Projects that are not in English have a flag
   - https://github.com/splinesoft/MUDRammer
   - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
 - [Orbit7](https://github.com/Mav3r1ck/Orbit7): iOS Game created in SpriteKit 🔶
-- [Provenance](https://github.com/jasarien/Provenance): Game emulator frontend 🔥🔥🔥🔥
+- [Provenance][]: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥
 - [SceneKitFrogger](https://github.com/devindazzle/SceneKitFrogger) 🔶
 - Spare Parts: Simple 2D point and line physics using Verlet integration
   - https://github.com/adamwulf/spare-parts-app
@@ -287,7 +286,7 @@ Projects that are not in English have a flag
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
-- [VLC](#official)
+- [VLC][]: Media Player 🔥🔥🔥🔥
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶🔥   
 - xkcd: iPhone app
   - https://github.com/paulrehkugler/xkcd
@@ -330,7 +329,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader 🔶🔥🔥🔥
 - [Hackers](https://github.com/weiran/Hackers) 🔶🔥🔥
-- [HN Reader: Hacker News Reader](#apple-watch) 🔶
+- [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥
 - News/YC: Hacker News client with user management, commenting, submitting and themes 🔶🔥🔥🔥
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
@@ -349,9 +348,8 @@ Projects that are not in English have a flag
 - Firefox: Official Firefox app 🔶🔥🔥🔥🔥🔥
   - https://github.com/mozilla/firefox-ios
   - https://itunes.apple.com/app/firefox-web-browser/id989804926
-- VLC: Media Player 🔥🔥🔥🔥
+- [VLC][]: Media Player 🔥🔥🔥🔥
   - http://www.videolan.org/vlc/download-ios.html
-  - https://github.com/videolan/vlc
   - https://itunes.apple.com/app/vlc-for-ios/id650377962
 - WhiteHouse: Official White House App 🔥🔥🔥
   - https://github.com/WhiteHouse/wh-app-ios
@@ -440,8 +438,8 @@ Projects that are not in English have a flag
 - [Spacepics](https://github.com/campezzi/react-native-spacepics): A small app displaying NASA's Picture of the Day
 - [Sudoku](https://github.com/christopherdro/react-native-sudoku)
 - [To Do List](https://github.com/joemaddalone/react-native-todo)
-- [WeatherApp](https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp)  
-  
+- [WeatherApp][]
+
 ## [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 
 - [BrewMobile](https://github.com/brewfactory/BrewMobile): App for managing the beer brewing process 🔶
@@ -458,14 +456,13 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368 
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa 🔶🔥🔥
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥
-- Tropos: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
-  - https://github.com/thoughtbot/Tropos
+- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
   - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376  
 
 ## Realm
 
-- [Done](#apple-watch): Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
-- [RealmToDo](#tasks): A small todo list with Realm integration 🔶
+- [Done][]: Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
+- [RealmToDo][]: A small todo list with Realm integration 🔶
 
 ## ResearchKit
 
@@ -515,7 +512,7 @@ Projects that are not in English have a flag
 ## Tasks
 
 - [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List): Store & retrieve tasks using CloudKit 🔶
-- [RealmToDo](https://github.com/pietbrauer/RealmToDo): A small todo list with Realm integration 🔶
+- [RealmToDo][]: A small todo list with Realm integration 🔶
 - Task: Designed to quickly and easily add tasks to your iPhone 🔶
   - https://github.com/mbcrump/TasksForSwiftWithPersistingData
   - https://itunes.apple.com/app/task-application/id960435759
@@ -572,8 +569,8 @@ Projects that are not in English have a flag
 - [Sol](https://github.com/comyarzaheri/Sol): Uses Weather Underground 🔥🔥🔥
 - [SmileWeather](https://github.com/liu044100/SmileWeather): Uses Weather Underground & OpenWeatherMap 🔥🔥
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather) 🔶🔥🔥🔥🔥
-- [Tropos](#reactivecocoa): A weather app using ReactiveCocoa and Forecast.io 
-- [WeatherApp](#react-native): Weather app using React Native 
+- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
+- [WeatherApp][]: Weather app using React Native 
 - WeatherMap: Weather around you in a glance, uses OpenWeatherMap 🔶🔥🔥
   - https://github.com/TakefiveInteractive/WeatherMap
   - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
@@ -638,3 +635,11 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 
 - [github.com/dkhamsing](https://github.com/dkhamsing)
 - [twitter.com/dkhamsing](https://twitter.com/dkhamsing)
+
+[Done]: https://github.com/FancyPixel/done-swift
+[HN Reader]: https://github.com/Dimillian/SwiftHN
+[Provenance]: https://github.com/jasarien/Provenance
+[RealmToDo]: https://github.com/pietbrauer/RealmToDo
+[Tropos]: https://github.com/thoughtbot/Tropos
+[VLC]: https://github.com/videolan/vlc
+[WeatherApp]: https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
