@@ -14,6 +14,7 @@ Jump to
 - [Games](#games)
 - [Developer](#developer)
 - [Finance](#finance)
+- [Health](#health)
 - [Keyboards](#keyboards)
 - [Location](#location)
 - [Media](#media)
@@ -24,7 +25,6 @@ Jump to
 - [React Native](#react-native)
 - [ReactiveCocoa](#reactivecocoa)
 - [Realm](#realm)
-- [ResearchKit](#researchkit)
 - [Sample](#sample)
 - [Social](#social)
 - [Tasks](#tasks)
@@ -219,6 +219,24 @@ Projects that are not in English have a flag
 - TodayStocks: Lightweight stocks app that shows your portfolio in a minimalist today extension
   - https://github.com/premnirmal/TodayStocks
   - https://itunes.apple.com/app/todaystocks/id993467855
+
+## Health
+
+- AsthmaHealth: ResearchKit app studying Asthma 
+  - https://github.com/ResearchKit/AsthmaHealth
+  - https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668
+- GlucoSuccess: ResearchKit app studying Diabetes
+  - https://github.com/ResearchKit/GlucoSuccess
+  - https://itunes.apple.com/app/glucosuccess/id972143976 
+- mPower: ResearchKit app studying Parkinson's disease 
+  - https://github.com/ResearchKit/mPower
+  - https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200  
+- MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk. 
+  - https://github.com/ResearchKit/MyHeartCounts
+  - https://itunes.apple.com/app/id972189947
+- Share The Journey: ResearchKit app studying Breast Cancer  
+  - https://github.com/ResearchKit/ShareTheJourney
+  - https://itunes.apple.com/app/share-the-journey/id972180604 
 
 ## Location
 - EatNow: Get recommendations for nearby restaurants.
@@ -463,24 +481,6 @@ Projects that are not in English have a flag
 
 - [Done][]: Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
 - [RealmToDo][]: A small todo list with Realm integration 🔶
-
-## ResearchKit
-
-- AsthmaHealth: ResearchKit app studying Asthma 
-  - https://github.com/ResearchKit/AsthmaHealth
-  - https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668
-- GlucoSuccess: ResearchKit app studying Diabetes
-  - https://github.com/ResearchKit/GlucoSuccess
-  - https://itunes.apple.com/app/glucosuccess/id972143976 
-- mPower: ResearchKit app studying Parkinson's disease 
-  - https://github.com/ResearchKit/mPower
-  - https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200  
-- MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk. 
-  - https://github.com/ResearchKit/MyHeartCounts
-  - https://itunes.apple.com/app/id972189947
-- Share The Journey: ResearchKit app studying Breast Cancer  
-  - https://github.com/ResearchKit/ShareTheJourney
-  - https://itunes.apple.com/app/share-the-journey/id972180604 
 
 ## Sample
 
