@@ -66,6 +66,7 @@ Projects that are not in English have a flag
   - https://github.com/contentful-labs/ContentfulWatchKitExample
   - https://itunes.apple.com/app/id986830433
 - [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator) 🔶 
+- [Calculator](https://github.com/mukeshthawani/Calculator) 🔶
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app 🔶🔥🔥 
 - [Connectivity Demo](https://github.com/swilliams/watchkit-connectivity-demo)
 - [CoolSpot](https://github.com/neonichu/CoolSpot): The missing Spotify ᴡᴀᴛᴄʜ app 🔶
