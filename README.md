@@ -247,6 +247,10 @@ Projects that are not in English have a flag
 - [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers 🔶🔥
 - [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time at
 - [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS): Share your location
+- [iBeaconTasks][]: iBeacon TODO reminder app based on Parse
+- Locative: Helping you to get the best out of your automated home, geofencing, iBeacons at your hand 🔥
+  - https://github.com/LocativeHQ/ios-app
+  - https://itunes.apple.com/app/locative/id725198453
 - [pathlogger](https://github.com/eugenpirogoff/pathlogger): GPS logging application for iOS written in Swift 🔶
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups and locate co-working spaces
 - [Swift-Walk-Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker): An open source walk tracking iOS App 🔶
@@ -394,7 +398,7 @@ Projects that are not in English have a flag
   - https://github.com/ParsePlatform/AnyWall
   - https://itunes.apple.com/app/anywall/id520955490
 - [how-much](https://github.com/dkhamsing/how-much): Simple app to record how much things cost using Parse
-- [iBeaconTasks](https://github.com/TomekB/iBeaconTasks): iBeacon TODO reminder app based on Parse
+- [iBeaconTasks][]: iBeacon TODO reminder app based on Parse
 - Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video 🔥
   - https://github.com/TomekB/Parse-Challenge-App
   - https://itunes.apple.com/app/lets-challenge-me/id944004497
@@ -638,6 +642,7 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 
 [Done]: https://github.com/FancyPixel/done-swift
 [HN Reader]: https://github.com/Dimillian/SwiftHN
+[iBeaconTasks]: https://github.com/TomekB/iBeaconTasks
 [Provenance]: https://github.com/jasarien/Provenance
 [RealmToDo]: https://github.com/pietbrauer/RealmToDo
 [Tropos]: https://github.com/thoughtbot/Tropos
