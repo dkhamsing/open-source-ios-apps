@@ -248,7 +248,7 @@ Projects that are not in English have a flag
 - [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time at
 - [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS): Share your location
 - [iBeaconTasks][]: iBeacon TODO reminder app based on Parse
-- Locative: Helping you to get the best out of your automated home, geofencing, iBeacons at your hand.
+- Locative: Helping you to get the best out of your automated home, geofencing, iBeacons at your hand 🔥
   - https://github.com/LocativeHQ/ios-app
   - https://itunes.apple.com/app/locative/id725198453
 - [pathlogger](https://github.com/eugenpirogoff/pathlogger): GPS logging application for iOS written in Swift 🔶
