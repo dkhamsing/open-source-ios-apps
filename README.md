@@ -8,6 +8,7 @@ Jump to
 
 - [Apple TV](#apple-tv)
 - [Apple Watch](#apple-watch)
+- [Browser](#browser)
 - [Communication](#communication)
 - [Content Blocking](#content-blocking)
 - [Core Data](#core-data)
@@ -100,6 +101,12 @@ Projects that are not in English have a flag
 - [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake for Watch 🔶
 - [WatchStocks](https://github.com/G2Jose/WatchStocks): App to track your stocks portfolio. Also includes a watch face complication 🔶
 - [Wunderschnell](https://github.com/contentful-labs/Wunderschnell): Order the right product with one tap on your wrist 🔶
+
+## Browser
+
+- Frameless: A full-screen web browser 🔶🔥🔥🔥
+  - https://github.com/stakes/Frameless
+  - https://itunes.apple.com/app/id933580264
 
 ## Communication
 
@@ -604,9 +611,6 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/a-menjar!/id816473131
 - [bar](https://github.com/soffes/bar): Cocktail Menu 🔶
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶🔥
-- Frameless: A full-screen web browser 🔶🔥🔥🔥
-  - https://github.com/stakes/Frameless
-  - https://itunes.apple.com/app/id933580264
 - [HackCancer](https://github.com/HackCancer/iOS): [Hackathon app](http://www.hackcancer.co/) 🔶
 - Jupp: App with share extension for ADN 🔶
   - https://github.com/dasdom/Jupp
