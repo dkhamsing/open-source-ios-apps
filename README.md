@@ -104,6 +104,9 @@ Projects that are not in English have a flag
 
 ## Browser
 
+- Endless Browser: Web browser built with privacy and security in mind
+  - https://github.com/jcs/endless
+  - https://itunes.apple.com/app/endless-browser/id974745755
 - [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥
 - Frameless: A full-screen web browser 🔶🔥🔥🔥
   - https://github.com/stakes/Frameless
