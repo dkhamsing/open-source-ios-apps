@@ -104,6 +104,7 @@ Projects that are not in English have a flag
 
 ## Browser
 
+- [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥
 - Frameless: A full-screen web browser 🔶🔥🔥🔥
   - https://github.com/stakes/Frameless
   - https://itunes.apple.com/app/id933580264
@@ -376,8 +377,7 @@ Projects that are not in English have a flag
 - Coding: Official Coding App 🔥🔥🔥
   - https://github.com/Coding/Coding-iOS
   - https://itunes.apple.com/app/coding/id923676989
-- Firefox: Official Firefox app 🔶🔥🔥🔥🔥🔥
-  - https://github.com/mozilla/firefox-ios
+- [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥
   - https://itunes.apple.com/app/firefox-web-browser/id989804926
 - [VLC][]: Media Player 🔥🔥🔥🔥
   - http://www.videolan.org/vlc/download-ios.html
@@ -647,6 +647,7 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 [Done]: https://github.com/FancyPixel/done-swift
 [HN Reader]: https://github.com/Dimillian/SwiftHN
 [iBeaconTasks]: https://github.com/TomekB/iBeaconTasks
+[Firefox]: https://github.com/mozilla/firefox-ios
 [Provenance]: https://github.com/jasarien/Provenance
 [RealmToDo]: https://github.com/pietbrauer/RealmToDo
 [Tropos]: https://github.com/thoughtbot/Tropos
