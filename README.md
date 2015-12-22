@@ -8,6 +8,7 @@ Jump to
 
 - [Apple TV](#apple-tv)
 - [Apple Watch](#apple-watch)
+- [Browser](#browser)
 - [Communication](#communication)
 - [Content Blocking](#content-blocking)
 - [Core Data](#core-data)
@@ -100,6 +101,16 @@ Projects that are not in English have a flag
 - [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake for Watch 🔶
 - [WatchStocks](https://github.com/G2Jose/WatchStocks): App to track your stocks portfolio. Also includes a watch face complication 🔶
 - [Wunderschnell](https://github.com/contentful-labs/Wunderschnell): Order the right product with one tap on your wrist 🔶
+
+## Browser
+
+- Endless Browser: Web browser built with privacy and security in mind
+  - https://github.com/jcs/endless
+  - https://itunes.apple.com/app/endless-browser/id974745755
+- [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥
+- Frameless: A full-screen web browser 🔶🔥🔥🔥
+  - https://github.com/stakes/Frameless
+  - https://itunes.apple.com/app/id933580264
 
 ## Communication
 
@@ -369,8 +380,7 @@ Projects that are not in English have a flag
 - Coding: Official Coding App 🔥🔥🔥
   - https://github.com/Coding/Coding-iOS
   - https://itunes.apple.com/app/coding/id923676989
-- Firefox: Official Firefox app 🔶🔥🔥🔥🔥🔥
-  - https://github.com/mozilla/firefox-ios
+- [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥
   - https://itunes.apple.com/app/firefox-web-browser/id989804926
 - [VLC][]: Media Player 🔥🔥🔥🔥
   - http://www.videolan.org/vlc/download-ios.html
@@ -604,9 +614,6 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/a-menjar!/id816473131
 - [bar](https://github.com/soffes/bar): Cocktail Menu 🔶
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶🔥
-- Frameless: A full-screen web browser 🔶🔥🔥🔥
-  - https://github.com/stakes/Frameless
-  - https://itunes.apple.com/app/id933580264
 - [HackCancer](https://github.com/HackCancer/iOS): [Hackathon app](http://www.hackcancer.co/) 🔶
 - Jupp: App with share extension for ADN 🔶
   - https://github.com/dasdom/Jupp
@@ -643,6 +650,7 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 [Done]: https://github.com/FancyPixel/done-swift
 [HN Reader]: https://github.com/Dimillian/SwiftHN
 [iBeaconTasks]: https://github.com/TomekB/iBeaconTasks
+[Firefox]: https://github.com/mozilla/firefox-ios
 [Provenance]: https://github.com/jasarien/Provenance
 [RealmToDo]: https://github.com/pietbrauer/RealmToDo
 [Tropos]: https://github.com/thoughtbot/Tropos
