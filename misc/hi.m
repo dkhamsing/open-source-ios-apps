@@ -2,6 +2,6 @@
 
 @implementation Hello
 NSString *hi() {
-  return @"Hello world"
+  return @"Hello world";
 }
 @end
