@@ -553,6 +553,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/fojusi/id923044693
 - [ForceSketch](https://github.com/FlexMonkey/ForceSketch): Demonstration of a Sketching App Using 3D Touch
 - [GammaThingy](https://github.com/thomasfinch/GammaThingy): Change screen gamma dynamically 🔥🔥🔥
+- [GoodNight](https://github.com/anthonya1999/GoodNight): Change screen gamma dynamically 🔥🔥
 - GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
   - https://github.com/semweb/GreatReader
   - https://itunes.apple.com/app/greatreader/id903651112
