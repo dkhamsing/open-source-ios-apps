@@ -195,17 +195,6 @@ Projects that are not in English have a flag
   - https://github.com/id-Software/Wolf3D-iOS
   - https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478
 
-## Keyboards
-
-- AA-Keyboard: ASCI Art Keyboard
-  - https://github.com/sonsongithub/AAKeyboard
-  - https://itunes.apple.com/app/aa-keyboard/id964182815
-- ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8
-  - https://github.com/b3ll/ClickWheelKeyboard
-  - https://itunes.apple.com/app/click-wheel-keyboard/id993111285 
-- [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard): Keyboard that supports The Big List of Naughty Strings 🔶🔥🔥🔥
-- [Slidden](https://github.com/Brimizer/Slidden): An open source, customizable, iOS keyboard 🔥🔥
-
 ## Finance
 
 - BitStore: Bitcoin wallet
@@ -251,7 +240,19 @@ Projects that are not in English have a flag
   - https://github.com/ResearchKit/ShareTheJourney
   - https://itunes.apple.com/app/share-the-journey/id972180604 
 
+## Keyboards
+
+- AA-Keyboard: ASCI Art Keyboard
+  - https://github.com/sonsongithub/AAKeyboard
+  - https://itunes.apple.com/app/aa-keyboard/id964182815
+- ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8
+  - https://github.com/b3ll/ClickWheelKeyboard
+  - https://itunes.apple.com/app/click-wheel-keyboard/id993111285 
+- [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard): Keyboard that supports The Big List of Naughty Strings 🔶🔥🔥🔥
+- [Slidden](https://github.com/Brimizer/Slidden): An open source, customizable, iOS keyboard 🔥🔥
+
 ## Location
+
 - EatNow: Get recommendations for nearby restaurants.
   - https://github.com/callzhang/Eat-Now
   - https://itunes.apple.com/app/eat-now-instant-personalized/id946591471
