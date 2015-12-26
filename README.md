@@ -248,6 +248,7 @@ Projects that are not in English have a flag
 - ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8
   - https://github.com/b3ll/ClickWheelKeyboard
   - https://itunes.apple.com/app/click-wheel-keyboard/id993111285 
+- [Hodor](https://github.com/jonomuller/Hodor-Keyboard): Fun Hodor keyboard 🔶
 - [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard): Keyboard that supports The Big List of Naughty Strings 🔶🔥🔥🔥
 - [Slidden](https://github.com/Brimizer/Slidden): An open source, customizable, iOS keyboard 🔥🔥
 
