@@ -55,7 +55,7 @@ Projects that are not in English have a flag
 - [Artsy Shows](https://github.com/artsy/Emergence): Art shows on your TV 🔶🔥
 - [Provenance][]: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥
 - [UitzendingGemist](https://github.com/jeffkreeftmeijer/UitzendingGemist): Unofficial Apple TV app for Dutch Public Broadcasting video on demand service 🔶
-- [WWDCTV](https://github.com/azzoor/WWDCTV): Watch the WWDC Videos on your Apple TV.
+- [WWDCTV](https://github.com/azzoor/WWDCTV): Watch the WWDC Videos on your Apple TV
 
 ## Apple Watch
 
@@ -147,7 +147,7 @@ Projects that are not in English have a flag
 
 ## Developer
 
-- [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests. 🔶
+- [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests 🔶
 - [AppSales-Mobile](https://github.com/omz/AppSales-Mobile): App for iTunes Connect Sales 🔥🔥🔥🔥
 - Monkey: GitHub third party client that shows the rank of coders and repositories 🔥🔥🔥
   - https://github.com/coderyi/Monkey
@@ -233,7 +233,7 @@ Projects that are not in English have a flag
 - mPower: ResearchKit app studying Parkinson's disease 
   - https://github.com/ResearchKit/mPower
   - https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200  
-- MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk. 
+- MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk
   - https://github.com/ResearchKit/MyHeartCounts
   - https://itunes.apple.com/app/id972189947
 - Share The Journey: ResearchKit app studying Breast Cancer  
@@ -447,7 +447,7 @@ Projects that are not in English have a flag
   - https://github.com/likumb/SimpleMemo
   - https://itunes.apple.com/app/yi-bian-qian/id1029807896
 - [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing 🔶🔥
-- [Theseus](https://github.com/lazerwalker/Theseus): An open-source iOS personal analytics tool 🔥🔥🔥 
+- [Theseus](https://github.com/lazerwalker/Theseus): Personal analytics tool 🔥🔥🔥 
 
 ## [React Native](http://facebook.github.io/react-native/)
 
@@ -532,7 +532,7 @@ Projects that are not in English have a flag
 - Task: Designed to quickly and easily add tasks to your iPhone 🔶
   - https://github.com/mbcrump/TasksForSwiftWithPersistingData
   - https://itunes.apple.com/app/task-application/id960435759
-- Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place. 🔥🔥
+- Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place 🔥🔥
   - https://github.com/ginatrapani/todo.txt-ios
   - https://itunes.apple.com/app/todo.txt-touch/id491342186
 
