@@ -111,6 +111,9 @@ Projects that are not in English have a flag
 - Frameless: A full-screen web browser 🔶🔥🔥🔥
   - https://github.com/stakes/Frameless
   - https://itunes.apple.com/app/id933580264
+- Helium: A floating browser window for OS X
+  - https://github.com/JadenGeller/Helium
+  - https://itunes.apple.com/app/id1054607607
 
 ## Communication
 
