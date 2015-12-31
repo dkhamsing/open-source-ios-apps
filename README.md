@@ -272,7 +272,7 @@ Projects that are not in English have a flag
 
 *Image, video, audio*
 
-- 360 VR Player: A Open Source, Ad-free, Native and Universal 360° video player for iOS. 🔥🔥
+- 360 VR Player: A Open Source, Ad-free, Native and Universal 360° video player for iOS. 🔥🔥🔥
   - https://github.com/hanton/HTY360Player
   - https://itunes.apple.com/hk/app/360-vr-player/id1061464612?mt=8
 - Artsy: The Art World in Your Pocket 🔥🔥🔥
