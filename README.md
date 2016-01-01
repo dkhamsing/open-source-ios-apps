@@ -304,6 +304,7 @@ Projects that are not in English have a flag
 - OCiney: Movie info app 🔥
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/app/id955480687
+- [OpenPics](https://github.com/pj4533/OpenPics):  View historical images from multiple remote sources
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶🔥🔥 
 - Poppins: House all your favorite GIFs and easily share them with your friends and family 🔶
   - https://github.com/thoughtbot/poppins
@@ -573,6 +574,7 @@ Projects that are not in English have a flag
 - VPN On: Today Widget to turn on VPN 🔶🔥🔥🔥🔥
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
+- [wat](https://github.com/pj4533/wat): A very simple packet sniffer in swift 🔶
 - [Words](https://github.com/soffes/words): Thesaurus app
 - Workdays: Simple iPhone calendar with operating schedule
  - https://github.com/mpak/Workdays
