@@ -229,7 +229,7 @@ Projects that are not in English have a flag
 - GlucoSuccess: ResearchKit app studying Diabetes
   - https://github.com/ResearchKit/GlucoSuccess
   - https://itunes.apple.com/app/glucosuccess/id972143976 
-- [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift) Sample app for Apple HealthKit 🔶 
+- [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift): Sample app for Apple HealthKit 🔶 
 - mPower: ResearchKit app studying Parkinson's disease 
   - https://github.com/ResearchKit/mPower
   - https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200  
