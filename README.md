@@ -230,6 +230,7 @@ Projects that are not in English have a flag
   - https://github.com/ResearchKit/GlucoSuccess
   - https://itunes.apple.com/app/glucosuccess/id972143976 
 - [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift): Sample app for Apple HealthKit 🔶 
+- [Jim][]: Track your gym workouts 🔶 
 - mPower: ResearchKit app studying Parkinson's disease 
   - https://github.com/ResearchKit/mPower
   - https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200  
@@ -412,6 +413,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/anywall/id520955490
 - [how-much](https://github.com/dkhamsing/how-much): Simple app to record how much things cost using Parse
 - [iBeaconTasks][]: iBeacon TODO reminder app based on Parse
+- [Jim][]: Track your gym workouts 🔶 
 - Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video 🔥
   - https://github.com/TomekB/Parse-Challenge-App
   - https://itunes.apple.com/app/lets-challenge-me/id944004497
@@ -657,6 +659,7 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 [HN Reader]: https://github.com/Dimillian/SwiftHN
 [iBeaconTasks]: https://github.com/TomekB/iBeaconTasks
 [Firefox]: https://github.com/mozilla/firefox-ios
+[Jim]: https://github.com/kylejm/Jim
 [Provenance]: https://github.com/jasarien/Provenance
 [RealmToDo]: https://github.com/pietbrauer/RealmToDo
 [Tropos]: https://github.com/thoughtbot/Tropos
