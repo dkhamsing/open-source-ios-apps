@@ -631,6 +631,7 @@ Projects that are not in English have a flag
   - https://github.com/AcelLuxembourg/LidderbuchApp
   - https://itunes.apple.com/app/lidderbuch/id997143407
 - [Malendar](https://github.com/croossin/Malendar): A redesigned calendar app 🔶
+- [Mirror++](https://github.com/nathunsmitty/MirrorPlusPlus): Minimalist mirror 🔶
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
 - [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule 🔶🔥🔥
