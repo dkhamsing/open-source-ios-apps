@@ -106,7 +106,7 @@ Projects that are not in English have a flag
 - Endless Browser: Web browser built with privacy and security in mind
   - https://github.com/jcs/endless
   - https://itunes.apple.com/app/endless-browser/id974745755
-- [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
+- [Firefox][]: Official Firefox App 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
 - Frameless: A full-screen web browser 🔶🔥🔥🔥
   - https://github.com/stakes/Frameless
   - https://itunes.apple.com/app/id933580264
@@ -383,7 +383,7 @@ Projects that are not in English have a flag
 - Coding: Official Coding App 🔥🔥🔥
   - https://github.com/Coding/Coding-iOS
   - https://itunes.apple.com/app/coding/id923676989
-- [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
+- [Firefox][]: Official Firefox App 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
 - [VLC][]: Media Player 🔥🔥🔥🔥🔥 ([VLC on the App Store][], [VLC videolan.org][])
 - WhiteHouse: Official White House App 🔥🔥🔥
   - https://github.com/WhiteHouse/wh-app-ios
