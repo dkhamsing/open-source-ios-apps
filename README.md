@@ -80,8 +80,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/gulps/id979057304
 - [heartrate](https://github.com/coolioxlr/watchOS-2-heartrate): Show streaming heartrate from the watch with watchOS 2 🔶🔥🔥
 - [HighStreet](https://github.com/GetHighstreet/HighstreetWatchApp): Highstreet shopping app 🔶🔥🔥
-- [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥
-  - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
+- [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥  ([HN Reader on the App Store][])
 - [Impulse](https://github.com/Jasdev/Impulse): Real-time age ticker for iOS and watchOS 🔶
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
@@ -107,7 +106,7 @@ Projects that are not in English have a flag
 - Endless Browser: Web browser built with privacy and security in mind
   - https://github.com/jcs/endless
   - https://itunes.apple.com/app/endless-browser/id974745755
-- [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥
+- [Firefox][]: Official Firefox App 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
 - Frameless: A full-screen web browser 🔶🔥🔥🔥
   - https://github.com/stakes/Frameless
   - https://itunes.apple.com/app/id933580264
@@ -325,7 +324,7 @@ Projects that are not in English have a flag
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
-- [VLC][]: Media Player 🔥🔥🔥🔥
+- [VLC][]: Media Player 🔥🔥🔥🔥🔥 ([VLC on the App Store][], [VLC videolan.org][])
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶🔥   
 - xkcd: iPhone app
   - https://github.com/paulrehkugler/xkcd
@@ -368,7 +367,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader 🔶🔥🔥🔥
 - [Hackers](https://github.com/weiran/Hackers) 🔶🔥🔥
-- [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥
+- [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥  ([HN Reader on the App Store][])
 - News/YC: Hacker News client with user management, commenting, submitting and themes 🔶🔥🔥🔥
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
@@ -384,11 +383,8 @@ Projects that are not in English have a flag
 - Coding: Official Coding App 🔥🔥🔥
   - https://github.com/Coding/Coding-iOS
   - https://itunes.apple.com/app/coding/id923676989
-- [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥
-  - https://itunes.apple.com/app/firefox-web-browser/id989804926
-- [VLC][]: Media Player 🔥🔥🔥🔥
-  - http://www.videolan.org/vlc/download-ios.html
-  - https://itunes.apple.com/app/vlc-for-ios/id650377962
+- [Firefox][]: Official Firefox App 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
+- [VLC][]: Media Player 🔥🔥🔥🔥🔥 ([VLC on the App Store][], [VLC videolan.org][])
 - WhiteHouse: Official White House App 🔥🔥🔥
   - https://github.com/WhiteHouse/wh-app-ios
   - https://itunes.apple.com/app/the-white-house/id350190807
@@ -494,8 +490,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368 
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa 🔶🔥🔥
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥
-- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
-  - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376  
+- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥🔥 ([Tropos on the App Store][])
 
 ## Realm
 
@@ -591,7 +586,7 @@ Projects that are not in English have a flag
 - [Sol](https://github.com/comyarzaheri/Sol): Uses Weather Underground 🔥🔥🔥
 - [SmileWeather](https://github.com/liu044100/SmileWeather): Uses Weather Underground & OpenWeatherMap 🔥🔥
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather) 🔶🔥🔥🔥🔥
-- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
+- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥🔥 ([Tropos on the App Store][])
 - [WeatherApp][]: Weather app using React Native 
 - WeatherMap: Weather around you in a glance, uses OpenWeatherMap 🔶🔥🔥
   - https://github.com/TakefiveInteractive/WeatherMap
@@ -659,11 +654,16 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 
 [Done]: https://github.com/FancyPixel/done-swift
 [HN Reader]: https://github.com/Dimillian/SwiftHN
+[HN Reader on the App Store]: https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
 [iBeaconTasks]: https://github.com/TomekB/iBeaconTasks
 [Firefox]: https://github.com/mozilla/firefox-ios
+[Firefox on the App Store]: https://itunes.apple.com/app/firefox-web-browser/id989804926
 [Jim]: https://github.com/kylejm/Jim
 [Provenance]: https://github.com/jasarien/Provenance
 [RealmToDo]: https://github.com/pietbrauer/RealmToDo
 [Tropos]: https://github.com/thoughtbot/Tropos
+[Tropos on the App Store]: https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376  
 [VLC]: https://github.com/videolan/vlc
+[VLC on the App Store]: https://itunes.apple.com/app/vlc-for-ios/id650377962
+[VLC videolan.org]: http://www.videolan.org/vlc/download-ios.html
 [WeatherApp]: https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
