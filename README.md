@@ -80,7 +80,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/gulps/id979057304
 - [heartrate](https://github.com/coolioxlr/watchOS-2-heartrate): Show streaming heartrate from the watch with watchOS 2 🔶🔥🔥
 - [HighStreet](https://github.com/GetHighstreet/HighstreetWatchApp): Highstreet shopping app 🔶🔥🔥
-- [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥  ([HN Reader on App Store][])
+- [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥  ([HN Reader on the App Store][])
 - [Impulse](https://github.com/Jasdev/Impulse): Real-time age ticker for iOS and watchOS 🔶
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
@@ -106,7 +106,7 @@ Projects that are not in English have a flag
 - Endless Browser: Web browser built with privacy and security in mind
   - https://github.com/jcs/endless
   - https://itunes.apple.com/app/endless-browser/id974745755
-- [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥
+- [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
 - Frameless: A full-screen web browser 🔶🔥🔥🔥
   - https://github.com/stakes/Frameless
   - https://itunes.apple.com/app/id933580264
@@ -367,7 +367,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader 🔶🔥🔥🔥
 - [Hackers](https://github.com/weiran/Hackers) 🔶🔥🔥
-- [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥  ([HN Reader on App Store][])
+- [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥  ([HN Reader on the App Store][])
 - News/YC: Hacker News client with user management, commenting, submitting and themes 🔶🔥🔥🔥
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
@@ -383,8 +383,7 @@ Projects that are not in English have a flag
 - Coding: Official Coding App 🔥🔥🔥
   - https://github.com/Coding/Coding-iOS
   - https://itunes.apple.com/app/coding/id923676989
-- [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥
-  - https://itunes.apple.com/app/firefox-web-browser/id989804926
+- [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
 - [VLC][]: Media Player 🔥🔥🔥🔥
   - http://www.videolan.org/vlc/download-ios.html
   - https://itunes.apple.com/app/vlc-for-ios/id650377962
@@ -658,9 +657,10 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 
 [Done]: https://github.com/FancyPixel/done-swift
 [HN Reader]: https://github.com/Dimillian/SwiftHN
-[HN Reader on App Store]: https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
+[HN Reader on the App Store]: https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
 [iBeaconTasks]: https://github.com/TomekB/iBeaconTasks
 [Firefox]: https://github.com/mozilla/firefox-ios
+[Firefox on the App Store]: https://itunes.apple.com/app/firefox-web-browser/id989804926
 [Jim]: https://github.com/kylejm/Jim
 [Provenance]: https://github.com/jasarien/Provenance
 [RealmToDo]: https://github.com/pietbrauer/RealmToDo
