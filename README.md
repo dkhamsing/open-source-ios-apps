@@ -80,8 +80,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/gulps/id979057304
 - [heartrate](https://github.com/coolioxlr/watchOS-2-heartrate): Show streaming heartrate from the watch with watchOS 2 🔶🔥🔥
 - [HighStreet](https://github.com/GetHighstreet/HighstreetWatchApp): Highstreet shopping app 🔶🔥🔥
-- [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥
-  - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
+- [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥  ([HN Reader on App Store][])
 - [Impulse](https://github.com/Jasdev/Impulse): Real-time age ticker for iOS and watchOS 🔶
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
@@ -368,7 +367,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
 - [HackerNews](https://github.com/amitburst/HackerNews): Hacker News reader 🔶🔥🔥🔥
 - [Hackers](https://github.com/weiran/Hackers) 🔶🔥🔥
-- [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥
+- [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥  ([HN Reader on App Store][])
 - News/YC: Hacker News client with user management, commenting, submitting and themes 🔶🔥🔥🔥
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
@@ -659,6 +658,7 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 
 [Done]: https://github.com/FancyPixel/done-swift
 [HN Reader]: https://github.com/Dimillian/SwiftHN
+[HN Reader on App Store]: https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
 [iBeaconTasks]: https://github.com/TomekB/iBeaconTasks
 [Firefox]: https://github.com/mozilla/firefox-ios
 [Jim]: https://github.com/kylejm/Jim
