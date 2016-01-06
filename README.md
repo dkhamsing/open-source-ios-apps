@@ -492,8 +492,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368 
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa 🔶🔥🔥
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥
-- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
-  - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376  
+- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥🔥 ([Tropos on the App Store][])
 
 ## Realm
 
@@ -589,7 +588,7 @@ Projects that are not in English have a flag
 - [Sol](https://github.com/comyarzaheri/Sol): Uses Weather Underground 🔥🔥🔥
 - [SmileWeather](https://github.com/liu044100/SmileWeather): Uses Weather Underground & OpenWeatherMap 🔥🔥
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather) 🔶🔥🔥🔥🔥
-- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
+- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥🔥 ([Tropos on the App Store][])
 - [WeatherApp][]: Weather app using React Native 
 - WeatherMap: Weather around you in a glance, uses OpenWeatherMap 🔶🔥🔥
   - https://github.com/TakefiveInteractive/WeatherMap
@@ -665,5 +664,6 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 [Provenance]: https://github.com/jasarien/Provenance
 [RealmToDo]: https://github.com/pietbrauer/RealmToDo
 [Tropos]: https://github.com/thoughtbot/Tropos
+[Tropos on the App Store]: https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376  
 [VLC]: https://github.com/videolan/vlc
 [WeatherApp]: https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
