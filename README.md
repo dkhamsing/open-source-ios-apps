@@ -324,7 +324,7 @@ Projects that are not in English have a flag
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
-- [VLC][]: Media Player 🔥🔥🔥🔥
+- [VLC][]: Media Player 🔥🔥🔥🔥🔥 ([VLC on the App Store][], [VLC videolan.org][])
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶🔥   
 - xkcd: iPhone app
   - https://github.com/paulrehkugler/xkcd
@@ -384,9 +384,7 @@ Projects that are not in English have a flag
   - https://github.com/Coding/Coding-iOS
   - https://itunes.apple.com/app/coding/id923676989
 - [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
-- [VLC][]: Media Player 🔥🔥🔥🔥
-  - http://www.videolan.org/vlc/download-ios.html
-  - https://itunes.apple.com/app/vlc-for-ios/id650377962
+- [VLC][]: Media Player 🔥🔥🔥🔥🔥 ([VLC on the App Store][], [VLC videolan.org][])
 - WhiteHouse: Official White House App 🔥🔥🔥
   - https://github.com/WhiteHouse/wh-app-ios
   - https://itunes.apple.com/app/the-white-house/id350190807
@@ -666,4 +664,6 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 [Tropos]: https://github.com/thoughtbot/Tropos
 [Tropos on the App Store]: https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376  
 [VLC]: https://github.com/videolan/vlc
+[VLC on the App Store]: https://itunes.apple.com/app/vlc-for-ios/id650377962
+[VLC videolan.org]: http://www.videolan.org/vlc/download-ios.html
 [WeatherApp]: https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
