@@ -291,6 +291,7 @@ Projects that are not in English have a flag
 - Eleven: Eleven Player is a simple powerful video player, uses ffmpeg 🔥
   - https://github.com/coderyi/Eleven
   - https://itunes.apple.com/app/elevenplayer/id1033773648
+- [Filterpedia](https://github.com/FlexMonkey/Filterpedia): Core Image Filter explorer 🔶🔥🔥🔥
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [FreeStreamer](https://github.com/muhku/FreeStreamer): A low-memory footprint streaming audio player 🔥🔥🔥
 - KonaBot: unofficial client for konachan.net 🔶
