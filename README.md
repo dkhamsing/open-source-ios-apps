@@ -255,16 +255,17 @@ Projects that are not in English have a flag
 
 ## Location
 
+- [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers 🔶🔥
 - EatNow: Get recommendations for nearby restaurants.
   - https://github.com/callzhang/Eat-Now
   - https://itunes.apple.com/app/eat-now-instant-personalized/id946591471
-- [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers 🔶🔥
-- [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time at
 - [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS): Share your location
 - [iBeaconTasks][]: iBeacon TODO reminder app based on Parse
 - Locative: Helping you to get the best out of your automated home, geofencing, iBeacons at your hand 🔥
   - https://github.com/LocativeHQ/ios-app
   - https://itunes.apple.com/app/locative/id725198453
+- [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time at
+- [OneBusAway](https://github.com/onebusaway/onebusaway-iphone): Real-time bus, ferry, and train schedule for Seattle 🔥
 - [pathlogger](https://github.com/eugenpirogoff/pathlogger): GPS logging application for iOS written in Swift 🔶
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups and locate co-working spaces
 - [Swift-Walk-Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker): An open source walk tracking iOS App 🔶
