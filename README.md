@@ -113,6 +113,7 @@ Projects that are not in English have a flag
 
 ## Communication
 
+- [BLEMeshChat](https://github.com/chrisballinger/BLEMeshChat): Bluetooth LE Mesh Chat 🔥
 - [Chats](https://github.com/acani/Chats): Messages app 🔶🔥🔥🔥🔥
 - ChatSecure: Encrypted chat app that supports OTR encryption over XMPP 🔥🔥🔥🔥
   - https://github.com/ChatSecure/ChatSecure-iOS
