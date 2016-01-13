@@ -255,16 +255,19 @@ Projects that are not in English have a flag
 
 ## Location
 
+- [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers 🔶🔥
 - EatNow: Get recommendations for nearby restaurants.
   - https://github.com/callzhang/Eat-Now
   - https://itunes.apple.com/app/eat-now-instant-personalized/id946591471
-- [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers 🔶🔥
-- [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time at
 - [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS): Share your location
 - [iBeaconTasks][]: iBeacon TODO reminder app based on Parse
 - Locative: Helping you to get the best out of your automated home, geofencing, iBeacons at your hand 🔥
   - https://github.com/LocativeHQ/ios-app
   - https://itunes.apple.com/app/locative/id725198453
+- [Moves](https://github.com/neonichu/Places): Visualize which places you spent the most time at
+- OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more 🔥
+ - https://github.com/OneBusAway/onebusaway-iphone
+ - https://itunes.apple.com/app/onebusaway/id329380089
 - [pathlogger](https://github.com/eugenpirogoff/pathlogger): GPS logging application for iOS written in Swift 🔶
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups and locate co-working spaces
 - [Swift-Walk-Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker): An open source walk tracking iOS App 🔶
@@ -560,9 +563,6 @@ Projects that are not in English have a flag
 - GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
   - https://github.com/semweb/GreatReader
   - https://itunes.apple.com/app/greatreader/id903651112
-- OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more 🔥
- - https://github.com/OneBusAway/onebusaway-iphone
- - https://itunes.apple.com/app/onebusaway/id329380089
 - [Plum-O-Meter](https://github.com/FlexMonkey/Plum-O-Meter): 3D Touch Application for Weighing Plums (and other small fruit!) 🔶🔥🔥
 - Round & Split: Tip Calculator 🔶
   - https://github.com/lukhnos/roundandsplit
