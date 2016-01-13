@@ -370,11 +370,14 @@ Projects that are not in English have a flag
 - Hacker News Client: Firebase API-Based iOS Reader (Firebase) 🔥🔥
   - https://github.com/bonzoq/hniosreader
   - https://itunes.apple.com/app/hacker-news-client/id939454231 
-- HackerNews (Y): Built using pure Objective C with official HN API (uses Firebase and Fabric)
+- HackerNews (Y): Built using pure Objective-C with official HN API (uses Firebase and Fabric)
   - https://github.com/vetri02/HackerNews
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
 - [HackerNews](https://github.com/amitburst/HackerNews) 🔶🔥🔥🔥
 - [Hackers](https://github.com/weiran/Hackers) 🔶🔥🔥
+- HN-App 🔶
+  - https://github.com/NikantVohra/HackerNewsClient-iOS
+  - https://itunes.apple.com/app/hn-app/id983203003
 - [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥  ([HN Reader on the App Store][])
 - News/YC: Hacker News client with user management, commenting, submitting and themes 🔶🔥🔥🔥
   - https://github.com/bennyguitar/News-YC---iPhone
