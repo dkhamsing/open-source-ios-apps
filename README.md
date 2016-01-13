@@ -226,6 +226,9 @@ Projects that are not in English have a flag
 - AsthmaHealth: ResearchKit app studying Asthma 
   - https://github.com/ResearchKit/AsthmaHealth
   - https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668
+- Depressed: Test if you are depressed 🔶 
+  - https://github.com/DerLobi/Depressed
+  - https://itunes.apple.com/app/depressed/id1062594092
 - GlucoSuccess: ResearchKit app studying Diabetes
   - https://github.com/ResearchKit/GlucoSuccess
   - https://itunes.apple.com/app/glucosuccess/id972143976 
