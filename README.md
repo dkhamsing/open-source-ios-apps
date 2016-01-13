@@ -272,8 +272,12 @@ Projects that are not in English have a flag
  - https://github.com/OneBusAway/onebusaway-iphone
  - https://itunes.apple.com/app/onebusaway/id329380089
 - [pathlogger](https://github.com/eugenpirogoff/pathlogger): GPS logging application for iOS written in Swift 🔶
+- [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups and locate co-working spaces
 - [Swift-Walk-Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker): An open source walk tracking iOS App 🔶
+- VisitBCN: City guide for Barcelona
+  - https://github.com/maurovc/visitBCN
+  - https://itunes.apple.com/app/visitbcn/id904676442
 
 ## Media
 
@@ -638,15 +642,11 @@ Projects that are not in English have a flag
 - [Malendar](https://github.com/croossin/Malendar): A redesigned calendar app 🔶
 - [Mirror++](https://github.com/nathunsmitty/MirrorPlusPlus): Minimalist mirror 🔶
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
-- [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule 🔶🔥🔥
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
 - Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
-- VisitBCN: City guide for Barcelona
-  - https://github.com/maurovc/visitBCN
-  - https://itunes.apple.com/app/visitbcn/id904676442
   
 ## Bonus
 
