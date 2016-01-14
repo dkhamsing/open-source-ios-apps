@@ -604,7 +604,9 @@ Projects that are not in English have a flag
 - WeatherMap: Weather around you in a glance, uses OpenWeatherMap 🔶🔥🔥
   - https://github.com/TakefiveInteractive/WeatherMap
   - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
-- [YoCelsius](https://github.com/YouXianMing/YoCelsius) 🔥🔥
+- YoCelsius 🔥🔥🔥
+  - https://github.com/YouXianMing/YoCelsius 
+  - https://itunes.apple.com/app/yocelsius/id967721892
 
 ## Web
 
