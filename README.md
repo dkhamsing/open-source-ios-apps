@@ -506,6 +506,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368 
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa 🔶🔥🔥
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥
+- [SwiftRACGoogleImages](https://github.com/Adlai-Holler/SwiftRACGoogleImages): Google image search using RAC 4.0 and Swift 2.1 🔶
 - [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥🔥 ([Tropos on the App Store][])
 
 ## Realm
