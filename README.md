@@ -263,6 +263,7 @@ Projects that are not in English have a flag
   - https://github.com/callzhang/Eat-Now
   - https://itunes.apple.com/app/eat-now-instant-personalized/id946591471
 - [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS): Share your location
+- [HopperBus](https://github.com/TosinAF/HopperBus-iOS): Timetable for the University of Nottingham Hopper Bus 🔶
 - [iBeaconTasks][]: iBeacon TODO reminder app based on Parse
 - Locative: Helping you to get the best out of your automated home, geofencing, iBeacons at your hand 🔥
   - https://github.com/LocativeHQ/ios-app
@@ -275,6 +276,7 @@ Projects that are not in English have a flag
 - [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups and locate co-working spaces
 - [Swift-Walk-Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker): An open source walk tracking iOS App 🔶
+- [Smart Traveller (UberGuide)](https://github.com/hACKbUSTER/UberGuide-iOS): Simple and comfortable way to explore a city using Uber API 🔥
 - VisitBCN: City guide for Barcelona
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
