@@ -275,6 +275,7 @@ Projects that are not in English have a flag
 - [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups and locate co-working spaces
 - [Swift-Walk-Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker): An open source walk tracking iOS App 🔶
+- [Smart Traveller (UberGuide)](https://github.com/hACKbUSTER/UberGuide-iOS): Simple and comfortable way to explore a city using Uber API 🔥
 - VisitBCN: City guide for Barcelona
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
