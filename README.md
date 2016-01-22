@@ -263,6 +263,7 @@ Projects that are not in English have a flag
   - https://github.com/callzhang/Eat-Now
   - https://itunes.apple.com/app/eat-now-instant-personalized/id946591471
 - [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS): Share your location
+- [HopperBus](https://github.com/TosinAF/HopperBus-iOS): Timetable for the University of Nottingham Hopper Bus 🔶
 - [iBeaconTasks][]: iBeacon TODO reminder app based on Parse
 - Locative: Helping you to get the best out of your automated home, geofencing, iBeacons at your hand 🔥
   - https://github.com/LocativeHQ/ios-app
