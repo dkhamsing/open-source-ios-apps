@@ -168,6 +168,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/canabalt/id333180061
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app 🔶🔥🔥
 - [Chess](https://github.com/mjcuva/Chess): iOS Chess game to learn SpriteKit 🔶
+- [CodeCombat](https://github.com/codecombat/codecombat-ios): Multiplayer programming game for learning how to code
 - Chuck: Throw a ball and catch it. Over and over and over.
   - https://github.com/moowahaha/Chuck
   - https://itunes.apple.com/us/app/chuck/id1050453297
