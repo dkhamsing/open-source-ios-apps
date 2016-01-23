@@ -168,6 +168,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/canabalt/id333180061
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app 🔶🔥🔥
 - [Chess](https://github.com/mjcuva/Chess): iOS Chess game to learn SpriteKit 🔶
+- [CodeCombat](https://github.com/codecombat/codecombat-ios): Multiplayer programming game for learning how to code
 - Chuck: Throw a ball and catch it. Over and over and over.
   - https://github.com/moowahaha/Chuck
   - https://itunes.apple.com/us/app/chuck/id1050453297
@@ -180,6 +181,7 @@ Projects that are not in English have a flag
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird 🔶🔥🔥🔥🔥🔥
 - [Game Of Life](https://github.com/yonbergman/swift-gameoflife): Conway's Game of Life 🔶
 - [GBA4iOS](https://bitbucket.org/rileytestut/gba4ios/): Gameboy, Gameboy Color & Gameboy Advance emulator for iOS.
+- [GrubbyWorm](https://github.com/gamechina/GrubbyWorm): A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 🔶
 - MUDRammer: MUD Client for iPhone and iPad
   - https://github.com/splinesoft/MUDRammer
   - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
