@@ -157,7 +157,7 @@ Projects that are not in English have a flag
 
 ## Games
 
-- [翻翻看](https://github.com/geek5nan/FanFanSwift): Concentration game 🇨🇳 🔶🔥 🇨
+- [翻翻看](https://github.com/geek5nan/FanFanSwift): Concentration game 🇨🇳 🔶🔥 
 - [2048](https://github.com/austinzheng/iOS-2048): 2048 game in Objective-C 🔥
 - [2048](https://github.com/austinzheng/swift-2048): 2048 game in Swift 🔶🔥🔥🔥🔥
 - Bridges: A puzzle game with bridges, houses, tolls, and subways 🔥
