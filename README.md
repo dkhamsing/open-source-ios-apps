@@ -138,7 +138,7 @@ Projects that are not in English have a flag
   - https://github.com/adblockplus/adblockplussafariios
   - https://itunes.apple.com/app/adblock-plus-abp/id1028871868
 - [BlockParty](https://github.com/krishkumar/BlockParty): Content Blocker App for iOS and OS X 🔥🔥🔥
-- [Focus](https://github.com/mozilla/focus): Content blocker by Firefox 🔶
+- [Focus](https://github.com/mozilla/focus): Content blocker by Firefox 🔶🔥🔥
 
 ## Core Data
 
