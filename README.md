@@ -541,6 +541,7 @@ Projects that are not in English have a flag
 - [Polls](https://github.com/apiaryio/polls-app): iOS Client for Polls API by Apiary 🔶
 - [RKGist](https://github.com/RestKit/RKGist): GitHub Gist app using RestKit
 - [Starship](https://github.com/kylef/Starship): A generic API client application for iOS using Hyperdrive 🔶
+- [StateRestorationDemo](https://github.com/shagedorn/StateRestorationDemo): App to demonstrate state preservation and restoration APIs 🔶
 
 ## Social
 
