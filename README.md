@@ -296,6 +296,7 @@ Projects that are not in English have a flag
 - Artsy Folio: Artwork showcase
   - https://github.com/artsy/energy
   - https://itunes.apple.com/app/artsy-folio/id504862164
+- [CollageMaker](https://github.com/Azoft/CollageMaker-iOS): Import photos from an Instagram user and make a collage
 - ComicFlow: Comic reader for iPad 🔥
   - https://github.com/swisspol/ComicFlow
   - https://itunes.apple.com/app/comicflow/id409290355
