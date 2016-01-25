@@ -296,6 +296,7 @@ Projects that are not in English have a flag
 - Artsy Folio: Artwork showcase
   - https://github.com/artsy/energy
   - https://itunes.apple.com/app/artsy-folio/id504862164
+- [CollageMaker](https://github.com/Azoft/CollageMaker-iOS): Import photos from an Instagram user and make a collage
 - ComicFlow: Comic reader for iPad 🔥
   - https://github.com/swisspol/ComicFlow
   - https://itunes.apple.com/app/comicflow/id409290355
@@ -329,6 +330,7 @@ Projects that are not in English have a flag
   - https://github.com/alecgorge/PhishOD-iOS
   - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018
 - [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
+- [Pugs](https://github.com/soffes/Pugs): Simple pug photo viewer 🔶
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶
 - [Swifteroid](https://github.com/eugenpirogoff/swifteroid): A manual HDR exposure camera app written in Swift 🔶
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶🔥🔥
@@ -534,7 +536,6 @@ Projects that are not in English have a flag
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo) 🔶🔥🔥
 - [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler): Code examples for the new functions in iOS 8 🔥🔥🔥🔥🔥
 - [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler): Code examples for the new functions in iOS 9 🔶🔥🔥🔥🔥🔥
-- [KeychainDemo](https://github.com/dasdom/KeychainDemo): Demo project to show how to share a keychain between an App and it's extension 🔶
 - [Layer-Parse](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example): This is a Swift sample app that integrates Layer and Atlas with Parse 🔶
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶🔥🔥🔥
   - https://github.com/scotteg/LayerPlayer
