@@ -530,6 +530,7 @@ Projects that are not in English have a flag
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C) 
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift) :large_orange_diamond: 
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) 🔶 
+- [Furni](https://github.com/twitterdev/furni-ios): Furniture store demo app using Fabric 🔶🔥
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo) 🔶🔥🔥
 - [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler): Code examples for the new functions in iOS 8 🔥🔥🔥🔥🔥
 - [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler): Code examples for the new functions in iOS 9 🔶🔥🔥🔥🔥🔥
