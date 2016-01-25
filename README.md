@@ -329,6 +329,7 @@ Projects that are not in English have a flag
   - https://github.com/alecgorge/PhishOD-iOS
   - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018
 - [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
+- [Pugs](https://github.com/soffes/Pugs): Simple pug photo viewer 🔶
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶
 - [Swifteroid](https://github.com/eugenpirogoff/swifteroid): A manual HDR exposure camera app written in Swift 🔶
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶🔥🔥
