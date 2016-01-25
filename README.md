@@ -540,6 +540,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/layer-player/id949768742
 - [Polls](https://github.com/apiaryio/polls-app): iOS Client for Polls API by Apiary 🔶
 - [RKGist](https://github.com/RestKit/RKGist): GitHub Gist app using RestKit
+- [Starship](https://github.com/kylef/Starship): A generic API client application for iOS using Hyperdrive 🔶
 
 ## Social
 
