@@ -530,14 +530,19 @@ Projects that are not in English have a flag
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C) 
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift) :large_orange_diamond: 
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) 🔶 
+- [Furni](https://github.com/twitterdev/furni-ios): Furniture store demo app using Fabric 🔶🔥
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo) 🔶🔥🔥
 - [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler): Code examples for the new functions in iOS 8 🔥🔥🔥🔥🔥
 - [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler): Code examples for the new functions in iOS 9 🔶🔥🔥🔥🔥🔥
+- [KeychainDemo](https://github.com/dasdom/KeychainDemo): Demo project to show how to share a keychain between an App and it's extension 🔶
+- [Layer-Parse](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example): This is a Swift sample app that integrates Layer and Atlas with Parse 🔶
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶🔥🔥🔥
   - https://github.com/scotteg/LayerPlayer
   - https://itunes.apple.com/app/layer-player/id949768742
 - [Polls](https://github.com/apiaryio/polls-app): iOS Client for Polls API by Apiary 🔶
 - [RKGist](https://github.com/RestKit/RKGist): GitHub Gist app using RestKit
+- [Starship](https://github.com/kylef/Starship): A generic API client application for iOS using Hyperdrive 🔶
+- [StateRestorationDemo](https://github.com/shagedorn/StateRestorationDemo): App to demonstrate state preservation and restoration APIs 🔶
 
 ## Social
 
