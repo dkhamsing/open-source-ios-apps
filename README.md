@@ -332,8 +332,9 @@ Projects that are not in English have a flag
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶
 - [Swifteroid](https://github.com/eugenpirogoff/swifteroid): A manual HDR exposure camera app written in Swift 🔶
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶🔥🔥
-- [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro): Professional Radio Station App, created w/ Swift 2.0 🔶🔥🔥🔥🔥
+- [Swift Radio Pro](https://github.com/swiftcodex/Swift-Radio-Pro): Professional Radio Station App, created w/ Swift 2.0 🔶🔥🔥🔥🔥
 - [SwiftSpace](https://github.com/FlexMonkey/SwiftSpace): CoreMotion Controlled Drawing in 3D Space 🔶
+- [Swift Synth](http://matthewfecher.com/app-developement/swift-synth/): Analog Synthesizer Keyboard Music App, created w/ Swift 2 🔶
 - That Movie With: Find common movies among actors
   - https://github.com/jayhickey/thatmoviewith
   - https://itunes.apple.com/app/that-movie-with/id892972135
