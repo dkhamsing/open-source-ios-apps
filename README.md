@@ -15,7 +15,7 @@ Jump to
 - [Games](#games)
 - [Developer](#developer)
 - [Finance](#finance)
-- [Health](#health)
+- [Health](#health)mi
 - [Keyboards](#keyboards)
 - [Location](#location)
 - [Media](#media)
@@ -622,7 +622,7 @@ Projects that are not in English have a flag
 
 ## Web
 
-- PHPHub: Universal app for PHPHub Forum 🔥🔥🇨🇳 
+- PHPHub: Universal app for PHPHub Forum 🇨🇳🔥🔥
   - https://github.com/Aufree/phphub-ios
   - https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564
 - ProMonster: Store 🇧🇷
