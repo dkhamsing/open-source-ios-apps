@@ -52,10 +52,10 @@ Projects that are not in English have a flag
 
 ## Apple TV
 
-- [Artsy Shows](https://github.com/artsy/Emergence): Art shows on your TV 🔶🔥
+- [Artsy Shows](https://github.com/artsy/Emergence): Art shows on your TV 🔶🔥🔥
 - [Provenance][]: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥
 - [UitzendingGemist](https://github.com/jeffkreeftmeijer/UitzendingGemist): Unofficial Apple TV app for Dutch Public Broadcasting video on demand service 🔶
-- [WWDCTV](https://github.com/azzoor/WWDCTV): Watch the WWDC Videos on your Apple TV
+- [WWDCTV](https://github.com/azzoor/WWDCTV): Watch the WWDC Videos on your Apple TV 🔥🔥
 
 ## Apple Watch
 
@@ -143,7 +143,7 @@ Projects that are not in English have a flag
 ## Core Data
 
 - [DVD Collection Tracker](https://github.com/chrismiles/OrganisingCoreData)
-- [Nested Lists](https://github.com/objcio/issue-4-full-core-data-application) 🔥🔥
+- [Nested Lists](https://github.com/objcio/issue-4-full-core-data-application) 🔥
 
 ## Developer
 
@@ -153,7 +153,7 @@ Projects that are not in English have a flag
   - https://github.com/coderyi/Monkey
   - https://itunes.apple.com/app/monkey-for-github/id1003765407
 - [MrCode](https://github.com/haolloyin/MrCode): GitHub iPhone app that can cache Markdown content 🇨🇳 🔥🔥
-- [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and the Mac Apps 🔶
+- [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and the Mac Apps 🔶🔥
 
 ## Games
 
@@ -290,10 +290,10 @@ Projects that are not in English have a flag
 - 360 VR Player: A Open Source, Ad-free, Native and Universal 360° video player for iOS. 🔥🔥🔥
   - https://github.com/hanton/HTY360Player
   - https://itunes.apple.com/hk/app/360-vr-player/id1061464612?mt=8
-- Artsy: The Art World in Your Pocket 🔥🔥🔥
+- Artsy: The Art World in Your Pocket 🔥🔥🔥🔥
   - https://github.com/artsy/eigen
   - https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080
-- Artsy Folio: Artwork showcase
+- Artsy Folio: Artwork showcase 🔥
   - https://github.com/artsy/energy
   - https://itunes.apple.com/app/artsy-folio/id504862164
 - [CollageMaker](https://github.com/Azoft/CollageMaker-iOS): Import photos from an Instagram user and make a collage
@@ -304,7 +304,7 @@ Projects that are not in English have a flag
 - Dunk: Dribbble client 🔶🔥🔥
   - https://github.com/naoyashiga/Dunk
   - https://itunes.apple.com/app/dunk-for-dribbble/id1003028105
-- Eleven: Eleven Player is a simple powerful video player, uses ffmpeg 🔥
+- Eleven: Eleven Player is a simple powerful video player, uses ffmpeg 🔥🔥
   - https://github.com/coderyi/Eleven
   - https://itunes.apple.com/app/elevenplayer/id1033773648
 - [Filterpedia](https://github.com/FlexMonkey/Filterpedia): Core Image Filter explorer 🔶🔥🔥🔥
@@ -331,7 +331,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018
 - [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
 - [Pugs](https://github.com/soffes/Pugs): Simple pug photo viewer 🔶
-- [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶
+- [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶🔥
 - [Swifteroid](https://github.com/eugenpirogoff/swifteroid): A manual HDR exposure camera app written in Swift 🔶
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶🔥🔥
 - [Swift Radio Pro](https://github.com/swiftcodex/Swift-Radio-Pro): Professional Radio Station App, created w/ Swift 2.0 🔶🔥🔥🔥🔥
@@ -343,12 +343,12 @@ Projects that are not in English have a flag
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
-- [VLC][]: Media Player 🔥🔥🔥🔥🔥 ([VLC on the App Store][], [VLC videolan.org][])
+- [VLC][]: Media Player 🔥🔥🔥🔥 ([VLC on the App Store][], [VLC videolan.org][])
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Universal audio recorder app 🔶🔥   
 - xkcd: iPhone app
   - https://github.com/paulrehkugler/xkcd
   - https://itunes.apple.com/app/xkcd/id303688284
-- xkcd Open Source: An xkcd Comic Reader
+- xkcd Open Source: An xkcd Comic Reader 🔥
   - https://github.com/mamaral/xkcd-Open-Source
   - https://itunes.apple.com/app/xkcd-open-source/id995811425
 
@@ -406,11 +406,11 @@ Projects that are not in English have a flag
   - https://github.com/Coding/Coding-iOS
   - https://itunes.apple.com/app/coding/id923676989
 - [Firefox][]: Official Firefox App 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
-- [VLC][]: Media Player 🔥🔥🔥🔥🔥 ([VLC on the App Store][], [VLC videolan.org][])
+- [VLC][]: Media Player 🔥🔥🔥🔥 ([VLC on the App Store][], [VLC videolan.org][])
 - WhiteHouse: Official White House App 🔥🔥🔥
   - https://github.com/WhiteHouse/wh-app-ios
   - https://itunes.apple.com/app/the-white-house/id350190807
-- Wikipedia: Official Wikipedia App 🔥🔥
+- Wikipedia: Official Wikipedia App 🔥🔥🔥
   - https://github.com/wikimedia/wikipedia-ios
   - https://itunes.apple.com/app/wikipedia-mobile/id324715238
 - WordPress: Official WordPress App 🔥🔥🔥
@@ -446,7 +446,7 @@ Projects that are not in English have a flag
 
 ## Personal
 
-- iContactU: Reminds you to contact people you ought to 🔶
+- iContactU: Reminds you to contact people you ought to 🔶🔥
   - https://github.com/rizal72/iContactU
   - https://itunes.apple.com/app/icontactu/id920200100
 - iGrades: Track your class grades
@@ -472,7 +472,7 @@ Projects that are not in English have a flag
 
 ## [React Native](http://facebook.github.io/react-native/)
 
-- [allyoop](https://github.com/wwayne/react-native-nba-app): NBA game scores app
+- [allyoop](https://github.com/wwayne/react-native-nba-app): NBA game scores app 🔥🔥
 - [App examples by Facebook](https://github.com/facebook/react-native/tree/master/Examples): Sample apps including 2048, movies, tic tac toe and more
 - [Around Me](https://github.com/bgryszko/react-native-example): Display Instagram photos around your location
 - [Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) 🔥🔥🔥🔥
@@ -499,11 +499,11 @@ Projects that are not in English have a flag
 
 ## [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 
-- [BrewMobile](https://github.com/brewfactory/BrewMobile): App for managing the beer brewing process 🔶
+- [BrewMobile](https://github.com/brewfactory/BrewMobile): App for managing the beer brewing process 🔶🔥
 - C-41: Make developing film easier and more reliable by using this simple timer 🔥🔥🔥🔥
   - https://github.com/ashfurrow/C-41
   - https://itunes.apple.com/app/c-41/id789924103
-- GitBucket: GitHub client using MVVM & ReactiveCocoa 🔥🔥🔥
+- GitBucket: GitHub client using MVVM & ReactiveCocoa 🔥🔥🔥🔥
   - https://github.com/leichunfeng/MVVMReactiveCocoa
   - https://itunes.apple.com/app/id961330940
 - [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub 🔥🔥🔥
@@ -512,9 +512,9 @@ Projects that are not in English have a flag
   - https://github.com/syshen/ReactiveHackerNews
   - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368 
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa 🔶🔥🔥
-- [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥
+- [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥🔥
 - [SwiftRACGoogleImages](https://github.com/Adlai-Holler/SwiftRACGoogleImages): Google image search using RAC 4.0 and Swift 2.1 🔶
-- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥🔥 ([Tropos on the App Store][])
+- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥 ([Tropos on the App Store][])
 
 ## Realm
 
@@ -523,10 +523,10 @@ Projects that are not in English have a flag
 
 ## Sample
 
-- Cannonball: Fun way to create and share stories and poems using Fabric 🔶🔥
+- Cannonball: Fun way to create and share stories and poems using Fabric 🔶🔥🔥
   - https://github.com/twitterdev/cannonball-ios 
   - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
-- Code by Apple 🔥🔥
+- Code by Apple 🔥🔥🔥
   - [Developer Library](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code), [GitHub Mirror](https://github.com/robovm/apple-ios-samples)
   - [WWDC 2015](https://developer.apple.com/sample-code/wwdc/2015/) 
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C) 
@@ -608,10 +608,10 @@ Projects that are not in English have a flag
 - [Lucid Weather Clock](https://github.com/wrutkowski/Lucid-Weather-Clock): Swift precipitation clock - uses Forecast.io 🔶
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example): Swift weather application for Typhoon 🔶🔥🔥
 - [RainMan](https://github.com/Mav3r1ck/Project-RainMan): Uses Forecast.io 🔶🔥🔥🔥
-- [Sol](https://github.com/comyarzaheri/Sol): Uses Weather Underground 🔥🔥🔥
+- [Sol](https://github.com/comyarzaheri/Sol): Uses Weather Underground 🔥🔥🔥🔥
 - [SmileWeather](https://github.com/liu044100/SmileWeather): Uses Weather Underground & OpenWeatherMap 🔥🔥
-- [SwiftWeather](https://github.com/JakeLin/SwiftWeather) 🔶🔥🔥🔥🔥
-- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥🔥 ([Tropos on the App Store][])
+- [SwiftWeather](https://github.com/JakeLin/SwiftWeather) 🔶🔥🔥🔥🔥🔥
+- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥 ([Tropos on the App Store][])
 - [WeatherApp][]: Weather app using React Native 
 - WeatherMap: Weather around you in a glance, uses OpenWeatherMap 🔶🔥🔥
   - https://github.com/TakefiveInteractive/WeatherMap
