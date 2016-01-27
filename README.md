@@ -118,6 +118,7 @@ Projects that are not in English have a flag
 - ChatSecure: Encrypted chat app that supports OTR encryption over XMPP 🔥🔥🔥🔥
   - https://github.com/ChatSecure/ChatSecure-iOS
   - https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063
+- [Colloquy](https://github.com/colloquy/colloquy): IRC client
 - IRCCloud: An IRC client/service 🔥
   - https://github.com/irccloud/ios
   - https://itunes.apple.com/app/irccloud/id672699103
