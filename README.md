@@ -15,7 +15,7 @@ Jump to
 - [Games](#games)
 - [Developer](#developer)
 - [Finance](#finance)
-- [Health](#health)mi
+- [Health](#health)
 - [Keyboards](#keyboards)
 - [Location](#location)
 - [Media](#media)
