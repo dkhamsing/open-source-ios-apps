@@ -123,6 +123,7 @@ Projects that are not in English have a flag
   - https://github.com/irccloud/ios
   - https://itunes.apple.com/app/irccloud/id672699103
 - [Mumble](https://github.com/mumble-voip/mumble-iphoneos): Gaming-focused social voice chat utility 🔥
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.iOS): Rocket.Chat (open source Meteor chat platform) app 🔶
 - Signal: Free, world-wide, private messaging and phone calls for iPhone 🔥🔥🔥🔥
   - https://github.com/WhisperSystems/Signal-iOS
   - https://itunes.apple.com/app/id874139669
