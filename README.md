@@ -122,6 +122,9 @@ Projects that are not in English have a flag
 - IRCCloud: An IRC client/service 🔥
   - https://github.com/irccloud/ios
   - https://itunes.apple.com/app/irccloud/id672699103
+- M: Email with device-to-device encryption for messages sent between M users
+  - https://github.com/Mynigma/M
+  - https://itunes.apple.com/app/m-safe-email-made-simple/id818498595
 - [Mumble](https://github.com/mumble-voip/mumble-iphoneos): Gaming-focused social voice chat utility 🔥
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.iOS): Rocket.Chat (open source Meteor chat platform) app 🔶
 - Signal: Free, world-wide, private messaging and phone calls for iPhone 🔥🔥🔥🔥
