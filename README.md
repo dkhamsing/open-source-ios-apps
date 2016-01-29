@@ -562,7 +562,9 @@ Projects that are not in English have a flag
 - Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place 🔥🔥
   - https://github.com/ginatrapani/todo.txt-ios
   - https://itunes.apple.com/app/todo.txt-touch/id491342186
-- [Tinylog](https://github.com/binarylevel/Tinylog-iOS): A minimal TODO App for iOS (iPhone/iPad) 🔶
+- Tinylog: A minimal iPhone/iPad TODO app 🔶
+  - https://github.com/binarylevel/Tinylog-iOS
+  - https://itunes.apple.com/app/tinylog/id799267191
 
 ## Tools
 
