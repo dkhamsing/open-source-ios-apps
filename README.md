@@ -295,6 +295,7 @@ Projects that are not in English have a flag
 - 360 VR Player: A Open Source, Ad-free, Native and Universal 360° video player for iOS. 🔥🔥🔥
   - https://github.com/hanton/HTY360Player
   - https://itunes.apple.com/hk/app/360-vr-player/id1061464612?mt=8
+- [Analog Synth X](http://matthewfecher.com/app-developement/swift-synth/): Analog Synthesizer Keyboard Music App, created w/ Swift 2 🔶 ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX))
 - Artsy: The Art World in Your Pocket 🔥🔥🔥🔥
   - https://github.com/artsy/eigen
   - https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080
@@ -341,7 +342,6 @@ Projects that are not in English have a flag
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶🔥🔥
 - [Swift Radio Pro](https://github.com/swiftcodex/Swift-Radio-Pro): Professional Radio Station App, created w/ Swift 2.0 🔶🔥🔥🔥🔥
 - [SwiftSpace](https://github.com/FlexMonkey/SwiftSpace): CoreMotion Controlled Drawing in 3D Space 🔶
-- [Swift Synth](http://matthewfecher.com/app-developement/swift-synth/): Analog Synthesizer Keyboard Music App, created w/ Swift 2 🔶 ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/SwiftSynth))
 - That Movie With: Find common movies among actors
   - https://github.com/jayhickey/thatmoviewith
   - https://itunes.apple.com/app/that-movie-with/id892972135
