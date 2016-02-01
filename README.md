@@ -2,7 +2,7 @@
 
 List of open-source iOS apps.
 
-Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](#contact).
+Your contribution is welcome :smile: ([issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](#contact))
 
 Jump to
 
