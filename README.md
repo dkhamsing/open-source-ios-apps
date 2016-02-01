@@ -70,12 +70,12 @@ Projects that are not in English have a flag
 - [Calculator](https://github.com/mukeshthawani/Calculator) 🔶
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app 🔶🔥🔥 
 - [Connectivity Demo](https://github.com/swilliams/watchkit-connectivity-demo)
-- [CoolSpot](https://github.com/neonichu/CoolSpot): The missing Spotify ᴡᴀᴛᴄʜ app 🔶
+- [CoolSpot](https://github.com/neonichu/CoolSpot): The missing Spotify app 🔶
 - Cortado: Track your caffeine consumption habits 🔥
   - https://github.com/lazerwalker/cortado
   - https://itunes.apple.com/app/cortado/id969899327
 - [Done][]: Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
-- Gulps: Track of your daily water consumption 🔶🔥🔥
+- Gulps: Track your daily water consumption 🔶🔥🔥
   - https://github.com/FancyPixel/gulps
   - https://itunes.apple.com/app/gulps/id979057304
 - [heartrate](https://github.com/coolioxlr/watchOS-2-heartrate): Show streaming heartrate from the watch with watchOS 2 🔶🔥🔥
@@ -85,7 +85,7 @@ Projects that are not in English have a flag
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
 - [OnTime](https://github.com/D-32/OnTime): Apple Watch app to access the SBB (Swiss railway) timetable
-- Parties for WWDC: Aggregator of developers WWDC parties 🔥 
+- Parties for WWDC 🔥 
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
 - PhoneBattery: Your phone's battery, on your wrist
@@ -96,9 +96,9 @@ Projects that are not in English have a flag
 - [Watchman](https://github.com/DanielTomlinson/Watchman): A WatchOS2 Hangman Game 🔶
 - [WatchNotes](https://github.com/azamsharp/WatchNotes): Notes on your wrist 🔶
 - [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler): Code examples for new features of watchOS 2 🔶🔥🔥🔥
-- [WatchPics](https://github.com/D-32/WatchPics): Instagram for the Apple Watch
-- [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake for Watch 🔶
-- [WatchStocks](https://github.com/G2Jose/WatchStocks): App to track your stocks portfolio. Also includes a watch face complication 🔶
+- [WatchPics](https://github.com/D-32/WatchPics): Instagram app 
+- [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake 🔶
+- [WatchStocks](https://github.com/G2Jose/WatchStocks): App to track your stocks portfolio, also includes a watch face complication 🔶
 - [Wunderschnell](https://github.com/contentful-labs/Wunderschnell): Order the right product with one tap on your wrist 🔶
 
 ## Browser
