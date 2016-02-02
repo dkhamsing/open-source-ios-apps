@@ -323,6 +323,7 @@ Projects that are not in English have a flag
 - Longboxed: Track the releases of your favorite comics.
   - https://github.com/jayhickey/Longboxed-iOS
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339 
+- [Megabite](https://github.com/AaronRandall/Megabite): Turn a photo of your food into a face
 - [movies](https://github.com/KMindeguia/movies): Movie info app 🔥🔥🔥
 - OCiney: Movie info app 🔥
   - https://github.com/florent37/OCiney-iOS
