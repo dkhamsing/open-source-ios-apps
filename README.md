@@ -391,6 +391,7 @@ Projects that are not in English have a flag
   - https://github.com/vetri02/HackerNews
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
 - [HackerNews](https://github.com/amitburst/HackerNews) 🔶🔥🔥🔥
+- [HackerNews-React-Native][] 🔥🔥🔥🔥
 - [Hackers](https://github.com/weiran/Hackers) 🔶🔥🔥
 - HN-App 🔶
   - https://github.com/NikantVohra/HackerNewsClient-iOS
@@ -488,12 +489,13 @@ Projects that are not in English have a flag
 - [Facebook Login](https://github.com/brentvatne/react-native-login) 🔥🔥
 - [Finance](https://github.com/7kfpun/FinanceReactNative): iOS's Stocks app written in React Native 🔥
 - [Foreign Exchange](https://github.com/peralmq/ForeignExchangeApp)
-- [Hacker News](https://github.com/iSimar/HackerNews-React-Native) 🔥🔥🔥🔥
+- [HackerNews-React-Native][] 🔥🔥🔥🔥
 - [Iceland Earthquakes](https://github.com/paranoida/IcelandEarthquakes)
 - [iTunes Catalog Search](https://github.com/alexissan/ReactNativeWorkshop)
 - [london-react](https://github.com/JoeStanton/london-react)
 - [newswatch](https://github.com/bradoyler/newswatch-react-native): News app using YouTube playlists
 - [NortalTechDay](https://github.com/mikkoj/NortalTechDay): Conference app 🔥
+- [PocketNode](https://github.com/mzabriskie/PocketNode): Lightweight Node REPL
 - [Product Kitty](https://github.com/rkho/product-kitty)
 - [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder) 🔥
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
@@ -501,6 +503,7 @@ Projects that are not in English have a flag
 - [Spacepics](https://github.com/campezzi/react-native-spacepics): A small app displaying NASA's Picture of the Day
 - [Sudoku](https://github.com/christopherdro/react-native-sudoku)
 - [To Do List](https://github.com/joemaddalone/react-native-todo)
+- [Twitch](https://github.com/IFours/react-native-twitch)
 - [WeatherApp][]
 
 ## [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
@@ -688,6 +691,7 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 - [twitter.com/dkhamsing](https://twitter.com/dkhamsing)
 
 [Done]: https://github.com/FancyPixel/done-swift
+[HackerNews-React-Native]: https://github.com/iSimar/HackerNews-React-Native
 [HN Reader]: https://github.com/Dimillian/SwiftHN
 [HN Reader on the App Store]: https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
 [iBeaconTasks]: https://github.com/TomekB/iBeaconTasks
