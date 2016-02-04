@@ -130,7 +130,7 @@ Projects that are not in English have a flag
 - Signal: Free, world-wide, private messaging and phone calls for iPhone 🔥🔥🔥🔥
   - https://github.com/WhisperSystems/Signal-iOS
   - https://itunes.apple.com/app/id874139669
-- Telegram: Messaging app with a focus on speed and security
+- Telegram: Messaging app with a focus on speed and security 🔥🔥🔥
   - https://telegram.org/apps
   - https://itunes.apple.com/app/telegram-messenger/id686449807
 
@@ -323,7 +323,7 @@ Projects that are not in English have a flag
 - Longboxed: Track the releases of your favorite comics.
   - https://github.com/jayhickey/Longboxed-iOS
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339 
-- [Megabite](https://github.com/AaronRandall/Megabite): Turn a photo of your food into a face
+- [Megabite](https://github.com/AaronRandall/Megabite): Turn a photo of your food into a face 🔥🔥
 - [movies](https://github.com/KMindeguia/movies): Movie info app 🔥🔥🔥
 - OCiney: Movie info app 🔥
   - https://github.com/florent37/OCiney-iOS
