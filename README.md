@@ -494,6 +494,7 @@ Projects that are not in English have a flag
 - [london-react](https://github.com/JoeStanton/london-react)
 - [newswatch](https://github.com/bradoyler/newswatch-react-native): News app using YouTube playlists
 - [NortalTechDay](https://github.com/mikkoj/NortalTechDay): Conference app 🔥
+- [PocketNode](https://github.com/mzabriskie/PocketNode): Lightweight Node REPL
 - [Product Kitty](https://github.com/rkho/product-kitty)
 - [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder) 🔥
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
