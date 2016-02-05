@@ -480,7 +480,11 @@ Projects that are not in English have a flag
 ## [React Native](http://facebook.github.io/react-native/)
 
 - [allyoop](https://github.com/wwayne/react-native-nba-app): NBA game scores app 🔥🔥
-- [App examples by Facebook](https://github.com/facebook/react-native/tree/master/Examples): Sample apps including 2048, movies, tic tac toe and more
+- Apps by Facebook
+  - [2048](https://github.com/facebook/react-native/tree/master/Examples/2048)
+  - [Movies](https://github.com/facebook/react-native/tree/master/Examples/Movies)
+  - [TicTacToe](https://github.com/facebook/react-native/tree/master/Examples/TicTacToe)
+  - [UIExplorer](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer)
 - [Around Me](https://github.com/bgryszko/react-native-example): Display Instagram photos around your location
 - [Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) 🔥🔥🔥🔥
 - [Currency Converter](https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter)
@@ -496,7 +500,7 @@ Projects that are not in English have a flag
 - [newswatch](https://github.com/bradoyler/newswatch-react-native): News app using YouTube playlists
 - [NortalTechDay](https://github.com/mikkoj/NortalTechDay): Conference app 🔥
 - [PocketNode](https://github.com/mzabriskie/PocketNode): Lightweight Node REPL
-- [Product Kitty](https://github.com/rkho/product-kitty)
+- [Product Kitty](https://github.com/rkho/product-kitty): Product Hunt app
 - [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder) 🔥
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
 - [Songkick](https://github.com/ArnaudRinquin/sk-react-native)
