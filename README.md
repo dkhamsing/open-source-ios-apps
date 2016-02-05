@@ -131,7 +131,7 @@ Projects that are not in English have a flag
   - https://github.com/WhisperSystems/Signal-iOS
   - https://itunes.apple.com/app/id874139669
 - Telegram: Messaging app with a focus on speed and security 🔥🔥🔥
-  - https://telegram.org/apps
+  - https://github.com/peter-iakovlev/Telegram
   - https://itunes.apple.com/app/telegram-messenger/id686449807
 
 ## Content Blocking
