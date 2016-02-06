@@ -558,12 +558,16 @@ Projects that are not in English have a flag
 
 ## Social
 
+- Aozora: Discover and track anime 🔶
+  - https://github.com/pjchavarria/Aozora
+  - https://itunes.apple.com/us/app/aozora-anime-community-track/id1017433045
 - Yep: Discover talent and build something together 🔶🔥🔥🔥🔥🔥
   - https://github.com/CatchChat/Yep
   - https://itunes.apple.com/app/yep-meet-genius/id983891256
 - Peggsite: App for sharing a social board
   - https://github.com/jenduf/GenericSocialApp
   - https://itunes.apple.com/app/peggsite/id938445951 
+
 
 ## Tasks
 
