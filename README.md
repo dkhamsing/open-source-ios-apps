@@ -460,6 +460,9 @@ Projects that are not in English have a flag
 - MasterPassword: Stateless password management solution 🔥🔥
   - https://github.com/Lyndir/MasterPassword
   - https://itunes.apple.com/app/id510296984
+- MiniKeePass: Secure Password Manager 🔥🔥
+  - https://github.com/MiniKeePass/MiniKeePass
+  - https://itunes.apple.com/app/id451661808
 - Onions: Cloud encrypted text storage app
   - https://github.com/onionsapp/Onions-iOS
   - https://itunes.apple.com/app/onions/id687296481
