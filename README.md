@@ -630,6 +630,7 @@ Projects that are not in English have a flag
 ## VIPER
 
 - [Contacts](https://github.com/sebastianwr/VIPER-Persons)
+- [Counter](https://github.com/mutualmobile/Counter) 🔥
 - [To do](https://www.objc.io/issues/13-architecture/viper/): objcio [example](https://github.com/objcio/issue-13-viper)
 
 ## Weather
