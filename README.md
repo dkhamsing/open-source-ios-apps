@@ -28,6 +28,7 @@ Jump to
 - [Social](#social)
 - [Tasks](#tasks)
 - [Tools](#tools)
+- [VIPER](#viper)
 - [Weather](#weather)
 - [Web](#web)
 - [Xamarin](#xamarin)
@@ -625,6 +626,12 @@ Projects that are not in English have a flag
  - https://github.com/mpak/Workdays
  - https://itunes.apple.com/app/workdays-calendar/id889712978
 - [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage
+
+## VIPER
+
+- [Contacts](https://github.com/sebastianwr/VIPER-Persons)
+- [Counter](https://github.com/mutualmobile/Counter) 🔥
+- [To do](https://www.objc.io/issues/13-architecture/viper/): objcio [example](https://github.com/objcio/issue-13-viper)
 
 ## Weather
 
