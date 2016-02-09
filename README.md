@@ -99,6 +99,7 @@ Projects that are not in English have a flag
 - [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake 🔶
 - [WatchStocks](https://github.com/G2Jose/WatchStocks): App to track your stocks portfolio, also includes a watch face complication 🔶
 - [Wunderschnell](https://github.com/contentful-labs/Wunderschnell): Order the right product with one tap on your wrist 🔶
+- [EX Player](https://github.com/IGRSoft/exTVPlayer): Watch video from ex.ua on your TV
 
 ## Browser
 
@@ -356,6 +357,7 @@ Projects that are not in English have a flag
 - xkcd Open Source: An xkcd Comic Reader 🔥
   - https://github.com/mamaral/xkcd-Open-Source
   - https://itunes.apple.com/app/xkcd-open-source/id995811425
+- [EX Player](https://github.com/IGRSoft/exTVPlayer): Watch video from ex.ua on iOS device
 
 ## News
 
