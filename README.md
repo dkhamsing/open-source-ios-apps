@@ -99,7 +99,7 @@ Projects that are not in English have a flag
 - [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake 🔶
 - [WatchStocks](https://github.com/G2Jose/WatchStocks): App to track your stocks portfolio, also includes a watch face complication 🔶
 - [Wunderschnell](https://github.com/contentful-labs/Wunderschnell): Order the right product with one tap on your wrist 🔶
-- [EX Player](https://github.com/IGRSoft/exTVPlayer): Watch video from ex.ua on your TV
+- [EX Player][extvplayer]: Watch video from ex.ua on your TV
 
 ## Browser
 
@@ -357,7 +357,7 @@ Projects that are not in English have a flag
 - xkcd Open Source: An xkcd Comic Reader 🔥
   - https://github.com/mamaral/xkcd-Open-Source
   - https://itunes.apple.com/app/xkcd-open-source/id995811425
-- [EX Player](https://github.com/IGRSoft/exTVPlayer): Watch video from ex.ua on iOS device
+- [EX Player][extvplayer]: Watch video from ex.ua on iOS device
 
 ## News
 
@@ -712,6 +712,7 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 [HN Reader]: https://github.com/Dimillian/SwiftHN
 [HN Reader on the App Store]: https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
 [iBeaconTasks]: https://github.com/TomekB/iBeaconTasks
+[extvplayer]: https://github.com/IGRSoft/exTVPlayer
 [Firefox]: https://github.com/mozilla/firefox-ios
 [Firefox on the App Store]: https://itunes.apple.com/app/firefox-web-browser/id989804926
 [Jim]: https://github.com/kylejm/Jim
