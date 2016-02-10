@@ -74,6 +74,7 @@ Projects that are not in English have a flag
   - https://github.com/lazerwalker/cortado
   - https://itunes.apple.com/app/cortado/id969899327
 - [Done][]: Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
+- [EX Player][extvplayer]: Watch video from ex.ua on your TV
 - Gulps: Track your daily water consumption 🔶🔥🔥
   - https://github.com/FancyPixel/gulps
   - https://itunes.apple.com/app/gulps/id979057304
@@ -99,7 +100,6 @@ Projects that are not in English have a flag
 - [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake 🔶
 - [WatchStocks](https://github.com/G2Jose/WatchStocks): App to track your stocks portfolio, also includes a watch face complication 🔶
 - [Wunderschnell](https://github.com/contentful-labs/Wunderschnell): Order the right product with one tap on your wrist 🔶
-- [EX Player][extvplayer]: Watch video from ex.ua on your TV
 
 ## Browser
 
@@ -313,6 +313,7 @@ Projects that are not in English have a flag
 - Eleven: Eleven Player is a simple powerful video player, uses ffmpeg 🔥🔥
   - https://github.com/coderyi/Eleven
   - https://itunes.apple.com/app/elevenplayer/id1033773648
+- [EX Player][extvplayer]: Watch video from ex.ua on iOS device
 - [Filterpedia](https://github.com/FlexMonkey/Filterpedia): Core Image Filter explorer 🔶🔥🔥🔥
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search/): Simple app which consumes the Flickr Search API
 - [FreeStreamer](https://github.com/muhku/FreeStreamer): A low-memory footprint streaming audio player 🔥🔥🔥
@@ -357,7 +358,6 @@ Projects that are not in English have a flag
 - xkcd Open Source: An xkcd Comic Reader 🔥
   - https://github.com/mamaral/xkcd-Open-Source
   - https://itunes.apple.com/app/xkcd-open-source/id995811425
-- [EX Player][extvplayer]: Watch video from ex.ua on iOS device
 
 ## News
 
