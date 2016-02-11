@@ -52,6 +52,7 @@ Projects that are not in English have a flag
 ## Apple TV
 
 - [Artsy Shows](https://github.com/artsy/Emergence): Art shows on your TV 🔶🔥🔥
+- [EX Player][extvplayer]: Watch video from ex.ua on your TV
 - [Provenance][]: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥
 - [UitzendingGemist](https://github.com/jeffkreeftmeijer/UitzendingGemist): Unofficial Apple TV app for Dutch Public Broadcasting video on demand service 🔶
 - [WWDCTV](https://github.com/azzoor/WWDCTV): Watch the WWDC Videos on your Apple TV 🔥🔥
@@ -74,7 +75,6 @@ Projects that are not in English have a flag
   - https://github.com/lazerwalker/cortado
   - https://itunes.apple.com/app/cortado/id969899327
 - [Done][]: Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
-- [EX Player][extvplayer]: Watch video from ex.ua on your TV
 - Gulps: Track your daily water consumption 🔶🔥🔥
   - https://github.com/FancyPixel/gulps
   - https://itunes.apple.com/app/gulps/id979057304
