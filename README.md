@@ -8,6 +8,7 @@ Jump to
 - [Apple Watch](#apple-watch)
 - [Browser](#browser)
 - [Communication](#communication)
+- [Conference](#conference)
 - [Content Blocking](#content-blocking)
 - [Core Data](#core-data)
 - [Games](#games)
@@ -133,6 +134,8 @@ Projects that are not in English have a flag
 - Telegram: Messaging app with a focus on speed and security 🔥🔥🔥
   - https://github.com/peter-iakovlev/Telegram
   - https://itunes.apple.com/app/telegram-messenger/id686449807
+
+## Conference
 
 ## Content Blocking
 
