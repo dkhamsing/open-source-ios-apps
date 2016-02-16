@@ -8,6 +8,7 @@ Jump to
 - [Apple Watch](#apple-watch)
 - [Browser](#browser)
 - [Communication](#communication)
+- [Conference](#conference)
 - [Content Blocking](#content-blocking)
 - [Core Data](#core-data)
 - [Games](#games)
@@ -133,6 +134,13 @@ Projects that are not in English have a flag
 - Telegram: Messaging app with a focus on speed and security 🔥🔥🔥
   - https://github.com/peter-iakovlev/Telegram
   - https://itunes.apple.com/app/telegram-messenger/id686449807
+
+## Conference
+
+- [NortalTechDay][]: Nortal TechDay 2015 app 🔥
+- [ParseDeveloperDay][]: Parse 2013 Developer Conference App
+- [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp): try! Swift Conference App 🔶🔥
+- [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule 🔶🔥🔥
 
 ## Content Blocking
 
@@ -443,9 +451,7 @@ Projects that are not in English have a flag
 - Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video 🔥
   - https://github.com/TomekB/Parse-Challenge-App
   - https://itunes.apple.com/app/lets-challenge-me/id944004497
-- ParseDeveloperDay: Developer Conference App
-  - https://github.com/ParsePlatform/ParseDeveloperDay
-  - https://itunes.apple.com/app/parse-developer-day/id691488056
+- [ParseDeveloperDay][]: 2013 Developer Conference App
 - ParseStore: Backend provider for selling physical goods using Parse 🔥
   - https://github.com/ParsePlatform/ParseStore
   - https://itunes.apple.com/app/parse-store/id613679907
@@ -502,7 +508,7 @@ Projects that are not in English have a flag
 - [iTunes Catalog Search](https://github.com/alexissan/ReactNativeWorkshop)
 - [london-react](https://github.com/JoeStanton/london-react)
 - [newswatch](https://github.com/bradoyler/newswatch-react-native): News app using YouTube playlists
-- [NortalTechDay](https://github.com/mikkoj/NortalTechDay): Conference app 🔥
+- [NortalTechDay][]: Conference app 🔥
 - [PocketNode](https://github.com/mzabriskie/PocketNode): Lightweight Node REPL
 - [Product Kitty](https://github.com/rkho/product-kitty): Product Hunt app
 - [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder) 🔥
@@ -688,7 +694,6 @@ Projects that are not in English have a flag
 - [Malendar](https://github.com/croossin/Malendar): A redesigned calendar app 🔶
 - [Mirror++](https://github.com/nathunsmitty/MirrorPlusPlus): Minimalist mirror 🔶
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
-- [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule 🔶🔥🔥
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
 - Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
@@ -716,6 +721,8 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 [Firefox]: https://github.com/mozilla/firefox-ios
 [Firefox on the App Store]: https://itunes.apple.com/app/firefox-web-browser/id989804926
 [Jim]: https://github.com/kylejm/Jim
+[NortalTechDay]: https://github.com/mikkoj/NortalTechDay
+[ParseDeveloperDay]: https://github.com/ParsePlatform/ParseDeveloperDay
 [Provenance]: https://github.com/jasarien/Provenance
 [RealmToDo]: https://github.com/pietbrauer/RealmToDo
 [Tropos]: https://github.com/thoughtbot/Tropos
