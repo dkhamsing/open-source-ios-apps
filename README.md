@@ -137,6 +137,7 @@ Projects that are not in English have a flag
 
 ## Conference
 
+- [NortalTechDay][]: Nortal TechDay 2015 app 🔥
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule 🔶🔥🔥
 
 ## Content Blocking
@@ -507,7 +508,7 @@ Projects that are not in English have a flag
 - [iTunes Catalog Search](https://github.com/alexissan/ReactNativeWorkshop)
 - [london-react](https://github.com/JoeStanton/london-react)
 - [newswatch](https://github.com/bradoyler/newswatch-react-native): News app using YouTube playlists
-- [NortalTechDay](https://github.com/mikkoj/NortalTechDay): Conference app 🔥
+- [NortalTechDay][]: Conference app 🔥
 - [PocketNode](https://github.com/mzabriskie/PocketNode): Lightweight Node REPL
 - [Product Kitty](https://github.com/rkho/product-kitty): Product Hunt app
 - [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder) 🔥
@@ -720,6 +721,7 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 [Firefox]: https://github.com/mozilla/firefox-ios
 [Firefox on the App Store]: https://itunes.apple.com/app/firefox-web-browser/id989804926
 [Jim]: https://github.com/kylejm/Jim
+[NortalTechDay]: https://github.com/mikkoj/NortalTechDay
 [Provenance]: https://github.com/jasarien/Provenance
 [RealmToDo]: https://github.com/pietbrauer/RealmToDo
 [Tropos]: https://github.com/thoughtbot/Tropos
