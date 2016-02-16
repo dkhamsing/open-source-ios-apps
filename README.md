@@ -138,7 +138,7 @@ Projects that are not in English have a flag
 ## Conference
 
 - [NortalTechDay][]: Nortal TechDay 2015 app 🔥
-- [ParseDeveloperDay][]: Developer Conference App ([ParseDeveloperDay on the App Store][])
+- [ParseDeveloperDay][]: Parse 2013 Developer Conference App
 - [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule 🔶🔥🔥
 
 ## Content Blocking
@@ -450,7 +450,7 @@ Projects that are not in English have a flag
 - Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video 🔥
   - https://github.com/TomekB/Parse-Challenge-App
   - https://itunes.apple.com/app/lets-challenge-me/id944004497
-- [ParseDeveloperDay][]: Developer Conference App ([ParseDeveloperDay on the App Store][])
+- [ParseDeveloperDay][]: 2013 Developer Conference App
 - ParseStore: Backend provider for selling physical goods using Parse 🔥
   - https://github.com/ParsePlatform/ParseStore
   - https://itunes.apple.com/app/parse-store/id613679907
@@ -722,7 +722,6 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 [Jim]: https://github.com/kylejm/Jim
 [NortalTechDay]: https://github.com/mikkoj/NortalTechDay
 [ParseDeveloperDay]: https://github.com/ParsePlatform/ParseDeveloperDay
-[ParseDeveloperDay on the App Store]: https://itunes.apple.com/app/parse-developer-day/id691488056
 [Provenance]: https://github.com/jasarien/Provenance
 [RealmToDo]: https://github.com/pietbrauer/RealmToDo
 [Tropos]: https://github.com/thoughtbot/Tropos
