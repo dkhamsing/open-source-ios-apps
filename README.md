@@ -67,6 +67,9 @@ Projects that are not in English have a flag
 - Brew: Discover craft beer pubs nearby 🔶
   - https://github.com/contentful-labs/ContentfulWatchKitExample
   - https://itunes.apple.com/app/id986830433
+- Bus Today: Track bus line on your wrist 🇨🇳
+  - https://github.com/JohnWong/bus-today
+  - https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341
 - [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator) 🔶 
 - [Calculator](https://github.com/mukeshthawani/Calculator) 🔶
 - [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app 🔶🔥🔥 
@@ -101,9 +104,6 @@ Projects that are not in English have a flag
 - [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake 🔶
 - [WatchStocks](https://github.com/G2Jose/WatchStocks): App to track your stocks portfolio, also includes a watch face complication 🔶
 - [Wunderschnell](https://github.com/contentful-labs/Wunderschnell): Order the right product with one tap on your wrist 🔶
-- Bus Today: Trace bus line on your wrist 🇨🇳
-  - https://github.com/JohnWong/bus-today
-  - https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341
 
 ## Browser
 
