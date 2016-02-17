@@ -301,7 +301,7 @@ Projects that are not in English have a flag
 
 ## Media
 
-*Image, video, audio*
+*Image, video, audio, reading*
 
 - 360 VR Player: A Open Source, Ad-free, Native and Universal 360° video player for iOS. 🔥🔥🔥
   - https://github.com/hanton/HTY360Player
@@ -358,6 +358,9 @@ Projects that are not in English have a flag
 - That Movie With: Find common movies among actors
   - https://github.com/jayhickey/thatmoviewith
   - https://itunes.apple.com/app/that-movie-with/id892972135
+- Textbook: textbooks from People's Education Press in China 🔶 🇨🇳
+  - https://github.com/JohnWong/textbook
+  - https://itunes.apple.com/app/ke-ben/id993244460
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox
   - https://github.com/xcoo/upupu
   - https://itunes.apple.com/app/upupu/id508401854
@@ -701,9 +704,6 @@ Projects that are not in English have a flag
 - Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
-- Textbook: textbooks from People's Education Press in China 🔶 🇨🇳
-  - https://github.com/JohnWong/textbook
-  - https://itunes.apple.com/app/ke-ben/id993244460
   
 ## Bonus
 
