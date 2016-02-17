@@ -101,6 +101,9 @@ Projects that are not in English have a flag
 - [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake 🔶
 - [WatchStocks](https://github.com/G2Jose/WatchStocks): App to track your stocks portfolio, also includes a watch face complication 🔶
 - [Wunderschnell](https://github.com/contentful-labs/Wunderschnell): Order the right product with one tap on your wrist 🔶
+- Bus Today: Trace bus line on your wrist 🇨🇳
+  - https://github.com/JohnWong/bus-today
+  - https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341
 
 ## Browser
 
@@ -698,6 +701,9 @@ Projects that are not in English have a flag
 - Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
+- Textbook: textbooks from People's Education Press in China 🔶 🇨🇳
+  - https://github.com/JohnWong/textbook
+  - https://itunes.apple.com/app/ke-ben/id993244460
   
 ## Bonus
 
