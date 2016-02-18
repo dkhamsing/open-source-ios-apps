@@ -344,6 +344,9 @@ Projects that are not in English have a flag
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/app/id955480687
 - [OpenPics](https://github.com/pj4533/OpenPics):  View historical images from multiple remote sources
+- Open Source Selfie Stick: Sync two iOS devices and use one as a remote control for the other's camera!
+  - [GitHub](https://github.com/RF-Nelson/open-source-selfie-stick)
+  - [App Store](https://itunes.apple.com/app/id1084487132)
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶🔥🔥 
 - Poppins: House all your favorite GIFs and easily share them with your friends and family 🔶
   - https://github.com/thoughtbot/poppins
