@@ -170,6 +170,9 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/monkey-for-github/id1003765407
 - [MrCode](https://github.com/haolloyin/MrCode): GitHub iPhone app that can cache Markdown content 🇨🇳 🔥🔥
 - [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and the Mac Apps 🔶🔥
+- OctoPodium: List user rankings based on Github repositories' number of stars.
+  - https://itunes.apple.com/app/octopodium/id1077519133
+  - https://github.com/nunogoncalves/iOS-OctoPodium
 
 ## Games
 
