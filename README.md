@@ -629,6 +629,9 @@ Projects that are not in English have a flag
 - GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
   - https://github.com/semweb/GreatReader
   - https://itunes.apple.com/app/greatreader/id903651112
+- my41: HP-41C/CV/CX Microcode emulator
+  - https://github.com/mperovic/my41
+  - https://itunes.apple.com/app/my41cx/id979041950
 - [Plum-O-Meter](https://github.com/FlexMonkey/Plum-O-Meter): 3D Touch Application for Weighing Plums (and other small fruit!) 🔶🔥🔥
 - Round & Split: Tip Calculator 🔶
   - https://github.com/lukhnos/roundandsplit
