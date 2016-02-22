@@ -164,6 +164,9 @@ Projects that are not in English have a flag
 ## Developer
 
 - [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests 🔶
+- Charter: A Swift mailing list client for iPhone and iPad 🔶🔥
+  - https://github.com/matthewpalmer/Charter
+  - https://itunes.apple.com/app/charter-mailing-list-client/id1082212697
 - Monkey: GitHub third party client that shows the rank of coders and repositories 🔥🔥🔥
   - https://github.com/coderyi/Monkey
   - https://itunes.apple.com/app/monkey-for-github/id1003765407
