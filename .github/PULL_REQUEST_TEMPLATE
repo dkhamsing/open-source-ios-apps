@@ -1,0 +1,14 @@
+Thanks for contributing to `open-source-ios-apps` 😊
+
+When making an addition:
+1. Insert the project in alphabetical order
+2. Follow the following template (use 🔶 for Swift projects)
+3. Avoid iOS or open-source in description as it is assumed :-)
+
+- App name: Short description 🔶
+  - source url, i.e. https://github.com/username/project
+  - https://itunes.apple.com/app/app-name/id-zzz
+
+or
+
+- [App name](source url): Short description 🔶
