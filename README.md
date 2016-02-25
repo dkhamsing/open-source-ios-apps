@@ -95,6 +95,7 @@ Projects that are not in English have a flag
 - PhoneBattery: Your phone's battery, on your wrist
   - https://github.com/marcelvoss/PhoneBattery
   - https://itunes.apple.com/app/phonebattery-your-phones-battery/id1009278300
+- [PhotoWatch](https://github.com/dropbox/PhotoWatch): Uses the SwiftyDropbox SDK 🔶
 - [Soon](https://github.com/sandofsky/soon): Countdown App 🔶
 - [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app for WatchKit 🔶🔥🔥🔥
 - [Watchman](https://github.com/DanielTomlinson/Watchman): A WatchOS2 Hangman Game 🔶
