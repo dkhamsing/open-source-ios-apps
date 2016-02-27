@@ -4,6 +4,7 @@ When making an addition:
 1. Insert the project in alphabetical order
 2. Follow the following template (use 🔶 for Swift projects)
 3. Avoid iOS or open-source in description as it is assumed :-)
+4. Use the this format for commit title if applicable: Add app-name by @github-username
 
 - App name: Short description 🔶
   - source url, i.e. https://github.com/username/project
