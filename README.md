@@ -716,6 +716,7 @@ Projects that are not in English have a flag
 - [Malendar](https://github.com/croossin/Malendar): A redesigned calendar app 🔶
 - [Mirror++](https://github.com/nathunsmitty/MirrorPlusPlus): Minimalist mirror 🔶
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
+- [Phonetic](https://github.com/iAugux/Phonetic): Add phonetic keys for Chinese names 🔥🔥
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
 - Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
