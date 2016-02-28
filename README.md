@@ -706,6 +706,7 @@ Projects that are not in English have a flag
 - [bar](https://github.com/soffes/bar): Cocktail Menu 🔶
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶🔥
 - [HackCancer](https://github.com/HackCancer/iOS): [Hackathon app](http://www.hackcancer.co/) 🔶
+- [iCopyPasta](https://github.com/alltheflow/iCopyPasta): Pasteboard feed app 🔶🔥
 - Jupp: App with share extension for ADN 🔶
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
