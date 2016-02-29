@@ -655,9 +655,9 @@ Projects that are not in English have a flag
 - Workdays: Simple iPhone calendar with operating schedule
  - https://github.com/mpak/Workdays
  - https://itunes.apple.com/app/workdays-calendar/id889712978
-- Yorkie: This app will help you, in an easy way, taking care of your dog.
+- Yorkie: This app will help you take care of your dog
  - https://github.com/carlbutron/YorkieApp
- - https://itunes.apple.com/en/app/Yorkie/id1000836606
+ - https://itunes.apple.com/app/Yorkie/id1000836606
 - [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage
 
 ## [VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
