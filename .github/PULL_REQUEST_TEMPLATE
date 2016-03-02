@@ -1,15 +1,17 @@
-Thanks for contributing to `open-source-ios-apps` 😊
+<!-- Thanks for contributing to open-source-ios-apps 😊 -->
 
-When making an addition:
-1. Insert the project in alphabetical order
-2. Avoid iOS or open-source in description as it is assumed :-)
-3. Use the commit title format if applicable: Add app-name by @github-username
-4. Follow the following template (use 🔶 for Swift projects)
+<!-- When making an addition: -->
+1. [ ] Insert the project in alphabetical order
+2. [ ] Avoid iOS or open-source in description as it is assumed :-)
+3. [ ] Use this commit title format if applicable: Add app-name by @github-username
+4. [ ] Follow the following template (use 🔶 for Swift projects)
 
-- App name: Short description 🔶
+<!-- 
+  - App name: Short description 🔶
   - source url, i.e. https://github.com/username/project
   - https://itunes.apple.com/app/app-name/id-zzz
 
 or
 
 - [App name](source url): Short description 🔶
+-->
