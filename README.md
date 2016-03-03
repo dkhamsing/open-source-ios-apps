@@ -15,6 +15,7 @@ Jump to
 - [Developer](#developer)
 - [Finance](#finance)
 - [Health](#health)
+- [Ionic](#ionic)
 - [Keyboards](#keyboards)
 - [Location](#location)
 - [Media](#media)
@@ -271,6 +272,12 @@ Projects that are not in English have a flag
 - Share The Journey: ResearchKit app studying Breast Cancer  
   - https://github.com/ResearchKit/ShareTheJourney
   - https://itunes.apple.com/app/share-the-journey/id972180604 
+
+## Ionic
+
+- Vegan Lists UK: View and collect official/unofficial Vegan food lists
+  - https://github.com/dsgriffin/vegan-lists-uk
+  - https://itunes.apple.com/app/vegan-lists-uk/id1083273301
 
 ## Keyboards
 
