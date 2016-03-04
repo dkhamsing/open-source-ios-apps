@@ -727,7 +727,9 @@ Projects that are not in English have a flag
 - [Malendar](https://github.com/croossin/Malendar): A redesigned calendar app 🔶
 - [Mirror++](https://github.com/nathunsmitty/MirrorPlusPlus): Minimalist mirror 🔶
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
-- [Population Clock](https://github.com/Netfilter-Com/PopulationClock): [Population Clock](https://itunes.apple.com/us/app/population-clock-hd/id590689957) is an iOS tool for learning about geography and demographics. 
+- Population Clock: Learn about geography and demographics
+  - https://github.com/Netfilter-Com/PopulationClock
+  - https://itunes.apple.com/app/population-clock-hd/id590689957
 - [Phonetic](https://github.com/iAugux/Phonetic): Add phonetic keys for Chinese names 🔥🔥
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
 - Vinylogue: A simple Last.fm client
