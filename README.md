@@ -25,8 +25,8 @@ Jump to
 - [Personal](#personal)
 - [React Native](#react-native)
 - [ReactiveCocoa](#reactivecocoa)
-- [RxSwift](#rxswift)
 - [Realm](#realm)
+- [RxSwift](#rxswift)
 - [Sample](#sample)
 - [Social](#social)
 - [Tasks](#tasks)
@@ -566,14 +566,14 @@ Projects that are not in English have a flag
 - [SwiftRACGoogleImages](https://github.com/Adlai-Holler/SwiftRACGoogleImages): Google image search using RAC 4.0 and Swift 2.1 🔶
 - [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥 ([Tropos on the App Store][])
 
-## [RxSwift](https://github.com/ReactiveX/RxSwift)
-
-- [Eidolon](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App 🔶🔥🔥🔥🔥
-
 ## Realm
 
 - [Done][]: Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
 - [RealmToDo][]: A small todo list with Realm integration 🔶
+
+## [RxSwift](https://github.com/ReactiveX/RxSwift)
+
+- [Eidolon](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App 🔶🔥🔥🔥🔥
 
 ## Sample
 
