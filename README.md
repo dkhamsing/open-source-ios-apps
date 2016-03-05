@@ -720,7 +720,7 @@ Projects that are not in English have a flag
 - Jupp: App with share extension for ADN 🔶
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
-- [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App 🔶🔥🔥🔥
+- [Kiosk](https://github.com/artsy/eidolon): The Artsy auction kiosk app, uses RxSwift 🔶�🔥🔥🔥🔥
 - LidderbuchApp: Songbook for Luxembourgish Students 🔶🇱🇺
   - https://github.com/AcelLuxembourg/LidderbuchApp
   - https://itunes.apple.com/app/lidderbuch/id997143407
