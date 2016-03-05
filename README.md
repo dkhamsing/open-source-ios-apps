@@ -294,6 +294,7 @@ Projects that are not in English have a flag
 ## Location
 
 - [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers 🔶🔥
+- [Doppio](https://github.com/chroman/Doppio): Finds the nearest Starbucks 🔥🔥🔥
 - EatNow: Get recommendations for nearby restaurants.
   - https://github.com/callzhang/Eat-Now
   - https://itunes.apple.com/app/eat-now-instant-personalized/id946591471
