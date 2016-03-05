@@ -628,7 +628,6 @@ Projects that are not in English have a flag
 - Be my eyes: An app that connects blind people with volunteer helpers via live video chat 🔥🔥
   - https://github.com/bemyeyes/bemyeyes-ios
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
-- [Cheddar](https://github.com/nothingmagical/cheddar-ios): Manage your tasks on the go with Cheddar for iOS and Cheddar for Mac 🔥🔥🔥🔥🔥
 - [Coffee Timer](https://github.com/ashfurrow/yourfirstswiftapp) 🔶
 - [Colo](https://github.com/wongzigii/Colo): Color themes hunter
 - ColorBlur: Add blur to your photos
