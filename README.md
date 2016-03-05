@@ -568,6 +568,8 @@ Projects that are not in English have a flag
 
 ## [RxSwift](https://github.com/ReactiveX/RxSwift)
 
+- [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App 🔶🔥🔥🔥🔥
+
 ## Realm
 
 - [Done][]: Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
@@ -723,7 +725,6 @@ Projects that are not in English have a flag
 - Jupp: App with share extension for ADN 🔶
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
-- [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App 🔶🔥🔥🔥
 - LidderbuchApp: Songbook for Luxembourgish Students 🔶🇱🇺
   - https://github.com/AcelLuxembourg/LidderbuchApp
   - https://itunes.apple.com/app/lidderbuch/id997143407
