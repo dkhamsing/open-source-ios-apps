@@ -26,6 +26,7 @@ Jump to
 - [React Native](#react-native)
 - [ReactiveCocoa](#reactivecocoa)
 - [Realm](#realm)
+- [RxSwift](#rxswift)
 - [Sample](#sample)
 - [Social](#social)
 - [Tasks](#tasks)
@@ -570,6 +571,10 @@ Projects that are not in English have a flag
 - [Done][]: Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
 - [RealmToDo][]: A small todo list with Realm integration 🔶
 
+## [RxSwift](https://github.com/ReactiveX/RxSwift)
+
+- [Eidolon](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App 🔶🔥🔥🔥🔥
+
 ## Sample
 
 - Cannonball: Fun way to create and share stories and poems using Fabric 🔶🔥🔥
@@ -720,7 +725,6 @@ Projects that are not in English have a flag
 - Jupp: App with share extension for ADN 🔶
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
-- [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App 🔶🔥🔥🔥
 - LidderbuchApp: Songbook for Luxembourgish Students 🔶🇱🇺
   - https://github.com/AcelLuxembourg/LidderbuchApp
   - https://itunes.apple.com/app/lidderbuch/id997143407
