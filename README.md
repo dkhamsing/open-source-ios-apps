@@ -568,7 +568,7 @@ Projects that are not in English have a flag
 
 ## [RxSwift](https://github.com/ReactiveX/RxSwift)
 
-- [Kiosk](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App 🔶🔥🔥🔥🔥
+- [Eidolon](https://github.com/artsy/eidolon): The Artsy Auction Kiosk App 🔶🔥🔥🔥🔥
 
 ## Realm
 
