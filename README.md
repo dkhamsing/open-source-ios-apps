@@ -205,6 +205,7 @@ Projects that are not in English have a flag
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird 🔶🔥🔥🔥🔥🔥
 - [Game Of Life](https://github.com/yonbergman/swift-gameoflife): Conway's Game of Life 🔶
 - [GBA4iOS](https://bitbucket.org/rileytestut/gba4ios/): Gameboy, Gameboy Color & Gameboy Advance emulator for iOS.
+- [Gorillas](https://github.com/Lyndir/Gorillas): An iPhone (or iPod touch) port of the popular old QBasic game with spunk! 🔥🔥
 - [GrubbyWorm](https://github.com/gamechina/GrubbyWorm): A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 🔶
 - MUDRammer: MUD Client for iPhone and iPad
   - https://github.com/splinesoft/MUDRammer
@@ -294,6 +295,7 @@ Projects that are not in English have a flag
 ## Location
 
 - [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers 🔶🔥
+- [Doppio](https://github.com/chroman/Doppio): Finds the nearest Starbucks 🔥🔥🔥
 - EatNow: Get recommendations for nearby restaurants.
   - https://github.com/callzhang/Eat-Now
   - https://itunes.apple.com/app/eat-now-instant-personalized/id946591471
@@ -370,6 +372,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018
 - [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
 - [Pugs](https://github.com/soffes/Pugs): Simple pug photo viewer 🔶
+- [Revolved](https://github.com/Ciechan/Revolved): 3D modelling app for the iPad 🔥🔥🔥
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶🔥
 - [Swifteroid](https://github.com/eugenpirogoff/swifteroid): A manual HDR exposure camera app written in Swift 🔶
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶🔥🔥
