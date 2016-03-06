@@ -207,6 +207,7 @@ Projects that are not in English have a flag
 - [GBA4iOS](https://bitbucket.org/rileytestut/gba4ios/): Gameboy, Gameboy Color & Gameboy Advance emulator for iOS.
 - [Gorillas](https://github.com/Lyndir/Gorillas): An iPhone (or iPod touch) port of the popular old QBasic game with spunk! 🔥🔥
 - [GrubbyWorm](https://github.com/gamechina/GrubbyWorm): A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 🔶
+- [littlego](https://github.com/herzbube/littlego): An iOS application that lets you play the game of Go on the iPhone or iPad.
 - MUDRammer: MUD Client for iPhone and iPad
   - https://github.com/splinesoft/MUDRammer
   - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
