@@ -3,14 +3,14 @@
 <!-- When making an addition: -->
 1. [ ] One project per pull request
 2. [ ] Insert the project in alphabetical order
-3. [ ] Avoid iOS or open-source in description as it is assumed :-)
+3. [ ] Avoid iOS or open-source in description as it is assumed 
 4. [ ] Use this commit title format if applicable: Add app-name by @github-username
-5. [ ] Follow the following template (use 🔶 for Swift projects)
+5. [ ] Use format below for your entry (use 🔶 for Swift projects)
 
 <!-- 
-  - App name: Short description 🔶
-  - source url, i.e. https://github.com/username/project
-  - https://itunes.apple.com/app/app-name/id-zzz
+- App name: Short description 🔶
+- source url, i.e. https://github.com/username/project
+- https://itunes.apple.com/app/app-name/id-zzz
 
 or
 
