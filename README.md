@@ -136,12 +136,12 @@ Projects that are not in English have a flag
 - Signal: Free, world-wide, private messaging and phone calls for iPhone 🔥🔥🔥🔥
   - https://github.com/WhisperSystems/Signal-iOS
   - https://itunes.apple.com/app/id874139669
-- Telegram: Messaging app with a focus on speed and security 🔥🔥🔥
-  - https://github.com/peter-iakovlev/Telegram
-  - https://itunes.apple.com/app/telegram-messenger/id686449807
 - surespot: surespot is a mobile messaging application that secures all messages using end-to-end encryption.
   - https://github.com/surespot/surespot-ios
   - https://itunes.apple.com/us/app/surespot/id790314865
+- Telegram: Messaging app with a focus on speed and security 🔥🔥🔥
+  - https://github.com/peter-iakovlev/Telegram
+  - https://itunes.apple.com/app/telegram-messenger/id686449807
 
 ## Conference
 
