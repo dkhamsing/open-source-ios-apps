@@ -675,7 +675,7 @@ Projects that are not in English have a flag
 
 - [Contacts](https://github.com/sebastianwr/VIPER-Persons)
 - [Counter](https://github.com/mutualmobile/Counter) 🔥
-- [RamblerConferences - open source VIPER application](https://github.com/rambler-ios/RamblerConferences)
+- [Rambler.Conferences](https://github.com/rambler-ios/RamblerConferences)
 - [To do](https://www.objc.io/issues/13-architecture/viper/): objcio [example](https://github.com/objcio/issue-13-viper)
 
 ## Weather
