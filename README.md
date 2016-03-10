@@ -136,9 +136,9 @@ Projects that are not in English have a flag
 - Signal: Free, world-wide, private messaging and phone calls for iPhone 🔥🔥🔥🔥
   - https://github.com/WhisperSystems/Signal-iOS
   - https://itunes.apple.com/app/id874139669
-- surespot: surespot is a mobile messaging application that secures all messages using end-to-end encryption.
+- surespot: Secures all messages using end-to-end encryption
   - https://github.com/surespot/surespot-ios
-  - https://itunes.apple.com/us/app/surespot/id790314865
+  - https://itunes.apple.com/app/surespot/id790314865
 - Telegram: Messaging app with a focus on speed and security 🔥🔥🔥
   - https://github.com/peter-iakovlev/Telegram
   - https://itunes.apple.com/app/telegram-messenger/id686449807
@@ -193,7 +193,7 @@ Projects that are not in English have a flag
 - [CodeCombat](https://github.com/codecombat/codecombat-ios): Multiplayer programming game for learning how to code
 - Chuck: Throw a ball and catch it. Over and over and over.
   - https://github.com/moowahaha/Chuck
-  - https://itunes.apple.com/us/app/chuck/id1050453297
+  - https://itunes.apple.com/app/chuck/id1050453297
 - DOOM: Doom Classic for iOS 🔥🔥
   - https://github.com/id-Software/DOOM-iOS
   - https://itunes.apple.com/app/doom-classic/id336347946
@@ -347,7 +347,7 @@ Projects that are not in English have a flag
 - [FreeStreamer](https://github.com/muhku/FreeStreamer): A low-memory footprint streaming audio player 🔥🔥🔥
 - KonaBot: unofficial client for konachan.net 🔶
   - https://github.com/hkalexling/KonaBot-iOS
-  - https://itunes.apple.com/us/app/konabot/id1055716649?ls=1&mt=8
+  - https://itunes.apple.com/app/konabot/id1055716649
 - Longboxed: Track the releases of your favorite comics.
   - https://github.com/jayhickey/Longboxed-iOS
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339 
@@ -487,7 +487,7 @@ Projects that are not in English have a flag
 
 - Aozora: Discover and track anime 🔶
   - https://github.com/pjchavarria/Aozora
-  - https://itunes.apple.com/us/app/aozora-anime-community-track/id1017433045
+  - https://itunes.apple.com/app/aozora-anime-community-track/id1017433045
 - Peggsite: App for sharing a social board
   - https://github.com/jenduf/GenericSocialApp
   - https://itunes.apple.com/app/peggsite/id938445951 
