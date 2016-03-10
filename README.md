@@ -24,7 +24,7 @@ Jump to
 - [Parse](#parse)
 - [Personal](#personal)
 - [React Native](#react-native)
-- [ReactiveCocoa](#reactivecocoa)
+- [Reactive Programming](#reactive-programming)
 - [Realm](#realm)
 - [Sample](#sample)
 - [Social](#social)
@@ -553,7 +553,9 @@ Projects that are not in English have a flag
 - [Twitch](https://github.com/IFours/react-native-twitch)
 - [WeatherApp][]
 
-## [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
+## Reactive Programming
+
+### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 
 - [BrewMobile](https://github.com/brewfactory/BrewMobile): App for managing the beer brewing process 🔶🔥
 - C-41: Make developing film easier and more reliable by using this simple timer 🔥🔥🔥🔥
@@ -571,6 +573,10 @@ Projects that are not in English have a flag
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥🔥
 - [SwiftRACGoogleImages](https://github.com/Adlai-Holler/SwiftRACGoogleImages): Google image search using RAC 4.0 and Swift 2.1 🔶
 - [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥 ([Tropos on the App Store][])
+
+### [RXSwift](https://github.com/ReactiveX/RxSwift)
+
+- [Kiosk](https://github.com/artsy/eidolon): The Artsy auction kiosk app, uses RxSwift 🔶�🔥🔥🔥🔥
 
 ## Realm
 
@@ -728,7 +734,6 @@ Projects that are not in English have a flag
 - Jupp: App with share extension for ADN 🔶
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
-- [Kiosk](https://github.com/artsy/eidolon): The Artsy auction kiosk app, uses RxSwift 🔶�🔥🔥🔥🔥
 - LidderbuchApp: Songbook for Luxembourgish Students 🔶🇱🇺
   - https://github.com/AcelLuxembourg/LidderbuchApp
   - https://itunes.apple.com/app/lidderbuch/id997143407
