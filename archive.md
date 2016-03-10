@@ -5,6 +5,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - https://github.com/omz/AppSales-Mobile
 - https://github.com/nothingmagical/cheddar-ios
 - https://github.com/EverestOpenSource/Everest-iOS
+- https://github.com/lastfm/lastfm-iphone
 - https://github.com/coderyi/Mume ([fork](https://github.com/opensourceios/Mume))
 - https://code.google.com/p/metasyntactic/wiki/PocketFlix
 - https://github.com/ricburton/Repo
