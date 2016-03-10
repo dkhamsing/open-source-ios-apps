@@ -10,30 +10,31 @@ Jump to
 - [Communication](#communication)
 - [Conference](#conference)
 - [Content Blocking](#content-blocking)
-- [Core Data](#core-data)
 - [Games](#games)
 - [Developer](#developer)
 - [Finance](#finance)
 - [Health](#health)
-- [Ionic](#ionic)
 - [Keyboards](#keyboards)
 - [Location](#location)
 - [Media](#media)
 - [News](#news)
 - [Official](#official)
-- [Parse](#parse)
 - [Personal](#personal)
-- [React Native](#react-native)
-- [Reactive Programming](#reactive-programming)
-- [Realm](#realm)
 - [Sample](#sample)
 - [Social](#social)
 - [Tasks](#tasks)
-- [VIPER](#viper)
 - [Weather](#weather)
 - [Web](#web)
-- [Xamarin](#xamarin)
 - [Misc](#misc)
+- Special
+  - [Core Data](#core-data)
+  - [Ionic](#ionic)
+  - [Parse](#parse)
+  - [React Native](#react-native)
+  - [Reactive Programming](#reactive-programming)
+  - [Realm](#realm)
+  - [VIPER](#viper)
+  - [Xamarin](#xamarin)
 - [Bonus](#bonus)
 
 ```
@@ -161,11 +162,6 @@ Projects that are not in English have a flag
 - [BlockParty](https://github.com/krishkumar/BlockParty): Content Blocker App for iOS and OS X 🔥🔥🔥
 - [Focus](https://github.com/mozilla/focus): Content blocker by Firefox 🔶🔥🔥
 
-## Core Data
-
-- [DVD Collection Tracker](https://github.com/chrismiles/OrganisingCoreData)
-- [Nested Lists](https://github.com/objcio/issue-4-full-core-data-application) 🔥
-
 ## Developer
 
 - [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests 🔶
@@ -276,12 +272,6 @@ Projects that are not in English have a flag
 - Share The Journey: ResearchKit app studying Breast Cancer  
   - https://github.com/ResearchKit/ShareTheJourney
   - https://itunes.apple.com/app/share-the-journey/id972180604 
-
-## [Ionic](http://ionicframework.com/)
-
-- Vegan Lists UK: View and collect official/unofficial Vegan food lists
-  - https://github.com/dsgriffin/vegan-lists-uk
-  - https://itunes.apple.com/app/vegan-lists-uk/id1083273301
 
 ## Keyboards
 
@@ -465,31 +455,6 @@ Projects that are not in English have a flag
   - https://github.com/wordpress-mobile/WordPress-iOS
   - https://itunes.apple.com/app/wordpress/id335703880
 
-## [Parse](https://www.parse.com/)
-
-- 2CITY: Find out the coolest things to do in your city
-  - https://github.com/2city/2CITY-iOS
-  - https://itunes.apple.com/app/2city/id944632470
-- Anypic: Mobile and web app that lets users share photos similar to Instagram
-  - https://github.com/ParsePlatform/Anypic 🔥🔥🔥🔥
-  - https://github.com/kwkhaw/SwiftAnyPic 🔶
-  - https://itunes.apple.com/app/anypic/id539741538
-- AnyWall: A fun geolocation app built with Parse 🔥🔥
-  - https://github.com/ParsePlatform/AnyWall
-  - https://itunes.apple.com/app/anywall/id520955490
-- [how-much](https://github.com/dkhamsing/how-much): Simple app to record how much things cost using Parse
-- [iBeaconTasks][]: iBeacon TODO reminder app based on Parse
-- [Jim][]: Track your gym workouts 🔶 
-- Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video 🔥
-  - https://github.com/TomekB/Parse-Challenge-App
-  - https://itunes.apple.com/app/lets-challenge-me/id944004497
-- [ParseDeveloperDay][]: 2013 Developer Conference App
-- ParseStore: Backend provider for selling physical goods using Parse 🔥
-  - https://github.com/ParsePlatform/ParseStore
-  - https://itunes.apple.com/app/parse-store/id613679907
-- [Paws](http://www.appcoda.com/instagram-app-parse-swift/): Building an Instagram-Like App with Parse and Swift 🔶 
-
-
 ## Personal
 
 - iContactU: Reminds you to contact people you ought to 🔶🔥
@@ -518,69 +483,6 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/yi-bian-qian/id1029807896
 - [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing 🔶🔥
 - [Theseus](https://github.com/lazerwalker/Theseus): Personal analytics tool 🔥🔥🔥 
-
-## [React Native](http://facebook.github.io/react-native/)
-
-- [allyoop](https://github.com/wwayne/react-native-nba-app): NBA game scores app 🔥🔥
-- Apps by Facebook
-  - [2048](https://github.com/facebook/react-native/tree/master/Examples/2048)
-  - [Movies](https://github.com/facebook/react-native/tree/master/Examples/Movies)
-  - [TicTacToe](https://github.com/facebook/react-native/tree/master/Examples/TicTacToe)
-  - [UIExplorer](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer)
-- [Around Me](https://github.com/bgryszko/react-native-example): Display Instagram photos around your location
-- [Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) 🔥🔥🔥🔥
-- [Currency Converter](https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter)
-- [Den](https://github.com/asamiller/den): View houses for sale in the Northwest 🔥
-- [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app) 🔥🔥🔥
-- [Facebook Login](https://github.com/brentvatne/react-native-login) 🔥🔥
-- [Finance](https://github.com/7kfpun/FinanceReactNative): iOS's Stocks app written in React Native 🔥
-- [Foreign Exchange](https://github.com/peralmq/ForeignExchangeApp)
-- [HackerNews-React-Native][] 🔥🔥🔥🔥
-- [Iceland Earthquakes](https://github.com/paranoida/IcelandEarthquakes)
-- [iTunes Catalog Search](https://github.com/alexissan/ReactNativeWorkshop)
-- [london-react](https://github.com/JoeStanton/london-react)
-- [newswatch](https://github.com/bradoyler/newswatch-react-native): News app using YouTube playlists
-- [NortalTechDay][]: Conference app 🔥
-- [PocketNode](https://github.com/mzabriskie/PocketNode): Lightweight Node REPL
-- [Product Kitty](https://github.com/rkho/product-kitty): Product Hunt app
-- [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder) 🔥
-- [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
-- [Songkick](https://github.com/ArnaudRinquin/sk-react-native)
-- [Spacepics](https://github.com/campezzi/react-native-spacepics): A small app displaying NASA's Picture of the Day
-- [Sudoku](https://github.com/christopherdro/react-native-sudoku)
-- [To Do List](https://github.com/joemaddalone/react-native-todo)
-- [Twitch](https://github.com/IFours/react-native-twitch)
-- [WeatherApp][]
-
-## Reactive Programming
-
-### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
-
-- [BrewMobile](https://github.com/brewfactory/BrewMobile): App for managing the beer brewing process 🔶🔥
-- C-41: Make developing film easier and more reliable by using this simple timer 🔥🔥🔥🔥
-  - https://github.com/ashfurrow/C-41
-  - https://itunes.apple.com/app/c-41/id789924103
-- GitBucket: GitHub client using MVVM & ReactiveCocoa 🔥🔥🔥🔥
-  - https://github.com/leichunfeng/MVVMReactiveCocoa
-  - https://itunes.apple.com/app/id961330940
-- [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub 🔥🔥🔥
-- [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa 🔶
-- ReactiveHackerNews: Hacker News reader with Tinder style interface, written in ObjC, uses MVVM & ReactiveCocoa
-  - https://github.com/syshen/ReactiveHackerNews
-  - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368 
-- [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa 🔶🔥🔥
-- [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥🔥
-- [SwiftRACGoogleImages](https://github.com/Adlai-Holler/SwiftRACGoogleImages): Google image search using RAC 4.0 and Swift 2.1 🔶
-- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥 ([Tropos on the App Store][])
-
-### [RXSwift](https://github.com/ReactiveX/RxSwift)
-
-- [Kiosk](https://github.com/artsy/eidolon): The Artsy auction kiosk app, uses RxSwift 🔶�🔥🔥🔥🔥
-
-## Realm
-
-- [Done][]: Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
-- [RealmToDo][]: A small todo list with Realm integration 🔶
 
 ## Sample
 
@@ -632,13 +534,6 @@ Projects that are not in English have a flag
   - https://github.com/binarylevel/Tinylog-iOS
   - https://itunes.apple.com/app/tinylog/id799267191
 
-## [VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
-
-- [Contacts](https://github.com/sebastianwr/VIPER-Persons)
-- [Counter](https://github.com/mutualmobile/Counter) 🔥
-- [Rambler.Conferences](https://github.com/rambler-ios/RamblerConferences)
-- [To do](https://www.objc.io/issues/13-architecture/viper/): objcio [example](https://github.com/objcio/issue-13-viper)
-
 ## Weather
 
 - [Lucid Weather Clock](https://github.com/wrutkowski/Lucid-Weather-Clock): Swift precipitation clock - uses Forecast.io 🔶
@@ -667,12 +562,6 @@ Projects that are not in English have a flag
 - QiitaCollection: Technical knowledge sharing and collaboration platform 🇯🇵
   - https://github.com/anzfactory/QiitaCollection
   - https://itunes.apple.com/app/kitakore-for-qiita/id973532800
-
-## Xamarin
-
-- Toggl Timer 🔥
-  - https://github.com/toggl/mobile
-  - https://itunes.apple.com/us/app/toggl-timer/id885767775
 
 ## Misc
 
@@ -744,6 +633,127 @@ Projects that are not in English have a flag
  - https://github.com/carlbutron/YorkieApp
  - https://itunes.apple.com/app/Yorkie/id1000836606
 - [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage
+
+ 
+  - [Realm](#realm)
+  - [VIPER](#viper)
+  - [Xamarin](#xamarin)
+- [Bonus](#bonus)
+
+------
+
+## Special
+
+### Core Data
+
+- [DVD Collection Tracker](https://github.com/chrismiles/OrganisingCoreData)
+- [Nested Lists](https://github.com/objcio/issue-4-full-core-data-application) 🔥
+
+### [Ionic](http://ionicframework.com/)
+
+- Vegan Lists UK: View and collect official/unofficial Vegan food lists
+  - https://github.com/dsgriffin/vegan-lists-uk
+  - https://itunes.apple.com/app/vegan-lists-uk/id1083273301
+
+### [Parse](https://www.parse.com/)
+
+- 2CITY: Find out the coolest things to do in your city
+  - https://github.com/2city/2CITY-iOS
+  - https://itunes.apple.com/app/2city/id944632470
+- Anypic: Mobile and web app that lets users share photos similar to Instagram
+  - https://github.com/ParsePlatform/Anypic 🔥🔥🔥🔥
+  - https://github.com/kwkhaw/SwiftAnyPic 🔶
+  - https://itunes.apple.com/app/anypic/id539741538
+- AnyWall: A fun geolocation app built with Parse 🔥🔥
+  - https://github.com/ParsePlatform/AnyWall
+  - https://itunes.apple.com/app/anywall/id520955490
+- [how-much](https://github.com/dkhamsing/how-much): Simple app to record how much things cost using Parse
+- [iBeaconTasks][]: iBeacon TODO reminder app based on Parse
+- [Jim][]: Track your gym workouts 🔶 
+- Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video 🔥
+  - https://github.com/TomekB/Parse-Challenge-App
+  - https://itunes.apple.com/app/lets-challenge-me/id944004497
+- [ParseDeveloperDay][]: 2013 Developer Conference App
+- ParseStore: Backend provider for selling physical goods using Parse 🔥
+  - https://github.com/ParsePlatform/ParseStore
+  - https://itunes.apple.com/app/parse-store/id613679907
+- [Paws](http://www.appcoda.com/instagram-app-parse-swift/): Building an Instagram-Like App with Parse and Swift 🔶 
+
+### [React Native](http://facebook.github.io/react-native/)
+
+- [allyoop](https://github.com/wwayne/react-native-nba-app): NBA game scores app 🔥🔥
+- Apps by Facebook
+  - [2048](https://github.com/facebook/react-native/tree/master/Examples/2048)
+  - [Movies](https://github.com/facebook/react-native/tree/master/Examples/Movies)
+  - [TicTacToe](https://github.com/facebook/react-native/tree/master/Examples/TicTacToe)
+  - [UIExplorer](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer)
+- [Around Me](https://github.com/bgryszko/react-native-example): Display Instagram photos around your location
+- [Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) 🔥🔥🔥🔥
+- [Currency Converter](https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter)
+- [Den](https://github.com/asamiller/den): View houses for sale in the Northwest 🔥
+- [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app) 🔥🔥🔥
+- [Facebook Login](https://github.com/brentvatne/react-native-login) 🔥🔥
+- [Finance](https://github.com/7kfpun/FinanceReactNative): iOS's Stocks app written in React Native 🔥
+- [Foreign Exchange](https://github.com/peralmq/ForeignExchangeApp)
+- [HackerNews-React-Native][] 🔥🔥🔥🔥
+- [Iceland Earthquakes](https://github.com/paranoida/IcelandEarthquakes)
+- [iTunes Catalog Search](https://github.com/alexissan/ReactNativeWorkshop)
+- [london-react](https://github.com/JoeStanton/london-react)
+- [newswatch](https://github.com/bradoyler/newswatch-react-native): News app using YouTube playlists
+- [NortalTechDay][]: Conference app 🔥
+- [PocketNode](https://github.com/mzabriskie/PocketNode): Lightweight Node REPL
+- [Product Kitty](https://github.com/rkho/product-kitty): Product Hunt app
+- [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder) 🔥
+- [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
+- [Songkick](https://github.com/ArnaudRinquin/sk-react-native)
+- [Spacepics](https://github.com/campezzi/react-native-spacepics): A small app displaying NASA's Picture of the Day
+- [Sudoku](https://github.com/christopherdro/react-native-sudoku)
+- [To Do List](https://github.com/joemaddalone/react-native-todo)
+- [Twitch](https://github.com/IFours/react-native-twitch)
+- [WeatherApp][]
+
+### Reactive Programming
+
+#### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
+
+- [BrewMobile](https://github.com/brewfactory/BrewMobile): App for managing the beer brewing process 🔶🔥
+- C-41: Make developing film easier and more reliable by using this simple timer 🔥🔥🔥🔥
+  - https://github.com/ashfurrow/C-41
+  - https://itunes.apple.com/app/c-41/id789924103
+- GitBucket: GitHub client using MVVM & ReactiveCocoa 🔥🔥🔥🔥
+  - https://github.com/leichunfeng/MVVMReactiveCocoa
+  - https://itunes.apple.com/app/id961330940
+- [GroceryList](https://github.com/jspahrsummers/GroceryList): iPhone grocery list app, synchronized using GitHub 🔥🔥🔥
+- [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa 🔶
+- ReactiveHackerNews: Hacker News reader with Tinder style interface, written in ObjC, uses MVVM & ReactiveCocoa
+  - https://github.com/syshen/ReactiveHackerNews
+  - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368 
+- [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa 🔶🔥🔥
+- [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥🔥
+- [SwiftRACGoogleImages](https://github.com/Adlai-Holler/SwiftRACGoogleImages): Google image search using RAC 4.0 and Swift 2.1 🔶
+- [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥 ([Tropos on the App Store][])
+
+#### [RXSwift](https://github.com/ReactiveX/RxSwift)
+
+- [Kiosk](https://github.com/artsy/eidolon): The Artsy auction kiosk app, uses RxSwift 🔶�🔥🔥🔥🔥
+
+### Realm
+
+- [Done][]: Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
+- [RealmToDo][]: A small todo list with Realm integration 🔶
+
+### [VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
+
+- [Contacts](https://github.com/sebastianwr/VIPER-Persons)
+- [Counter](https://github.com/mutualmobile/Counter) 🔥
+- [Rambler.Conferences](https://github.com/rambler-ios/RamblerConferences)
+- [To do](https://www.objc.io/issues/13-architecture/viper/): objcio [example](https://github.com/objcio/issue-13-viper)
+
+### Xamarin
+
+- Toggl Timer 🔥
+  - https://github.com/toggl/mobile
+  - https://itunes.apple.com/us/app/toggl-timer/id885767775
 
 ## Bonus
 
