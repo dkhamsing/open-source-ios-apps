@@ -547,6 +547,7 @@ Projects that are not in English have a flag
 - Be my eyes: Connect blind people with volunteer helpers via live video chat 🔥🔥
   - https://github.com/bemyeyes/bemyeyes-ios
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
+- [BlogQuest](https://github.com/irace/BlogQuest): Alternative Tumblr client
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶🔥
 - [Colo](https://github.com/wongzigii/Colo): Color themes hunter
 - [DeckRocket](https://github.com/jpsim/DeckRocket): Turn your iPhone into a remote for Deckset presentations 🔶🔥🔥
