@@ -19,7 +19,6 @@ Jump to
 - [Media](#media)
 - [News](#news)
 - [Official](#official)
-- [Personal](#personal)
 - [Sample](#sample)
 - [Social](#social)
 - [Tasks](#tasks)
@@ -73,7 +72,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341
 - [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator) 🔶 
 - [Calculator](https://github.com/mukeshthawani/Calculator) 🔶
-- [Cherry](https://github.com/kenshin03/Cherry): Mini Pomodoro Timer app 🔶🔥🔥 
+- [Cherry][]: Mini Pomodoro Timer app 🔶🔥🔥 
 - [Connectivity Demo](https://github.com/swilliams/watchkit-connectivity-demo)
 - [CoolSpot](https://github.com/neonichu/CoolSpot): The missing Spotify app 🔶
 - Cortado: Track your caffeine consumption habits 🔥
@@ -88,7 +87,7 @@ Projects that are not in English have a flag
 - [HighStreet](https://github.com/GetHighstreet/HighstreetWatchApp): Highstreet shopping app 🔶🔥🔥
 - [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥  ([HN Reader on the App Store][])
 - [Impulse](https://github.com/Jasdev/Impulse): Real-time age ticker for iOS and watchOS 🔶
-- [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer app
+- [KTPomodoro][]: Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
 - [OnTime](https://github.com/D-32/OnTime): Apple Watch app to access the SBB (Swiss railway) timetable
 - Parties for WWDC 🔥 
@@ -113,7 +112,7 @@ Projects that are not in English have a flag
 - Endless Browser: Web browser built with privacy and security in mind
   - https://github.com/jcs/endless
   - https://itunes.apple.com/app/endless-browser/id974745755
-- [Firefox][]: Official Firefox App 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
+- [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
 - Frameless: A full-screen web browser 🔶🔥🔥🔥
   - https://github.com/stakes/Frameless
   - https://itunes.apple.com/app/id933580264
@@ -176,6 +175,7 @@ Projects that are not in English have a flag
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
 - [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and the Mac Apps 🔶🔥
+- [wat](https://github.com/pj4533/wat): Very simple packet sniffer in Swift 🔶
 
 ## Games
 
@@ -272,6 +272,9 @@ Projects that are not in English have a flag
 - Share The Journey: ResearchKit app studying Breast Cancer  
   - https://github.com/ResearchKit/ShareTheJourney
   - https://itunes.apple.com/app/share-the-journey/id972180604 
+- Speak: AAC & Speech Therapy 
+  - https://github.com/raynesio/speakability
+  - https://itunes.apple.com/app/speakability/id784509467
 
 ## Keyboards
 
@@ -326,6 +329,9 @@ Projects that are not in English have a flag
   - https://github.com/artsy/energy
   - https://itunes.apple.com/app/artsy-folio/id504862164
 - [CollageMaker](https://github.com/Azoft/CollageMaker-iOS): Import photos from an Instagram user and make a collage
+- ColorBlur: Add blur to your photos
+  - https://github.com/maurovc/ColorBlur
+  - https://itunes.apple.com/app/id928863510
 - ComicFlow: Comic reader for iPad 🔥
   - https://github.com/swisspol/ComicFlow
   - https://itunes.apple.com/app/comicflow/id409290355
@@ -440,49 +446,20 @@ Projects that are not in English have a flag
 
 ## Official
 
-- Coding: Official Coding App 🔥🔥🔥
+- Coding: Official Coding app 🔥🔥🔥
   - https://github.com/Coding/Coding-iOS
   - https://itunes.apple.com/app/coding/id923676989
-- [Firefox][]: Official Firefox App 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
-- [VLC][]: Media Player 🔥🔥🔥🔥 ([VLC on the App Store][], [VLC videolan.org][])
-- WhiteHouse: Official White House App 🔥🔥🔥
+- [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
+- [VLC][]: Official VLC app 🔥🔥🔥🔥 ([VLC on the App Store][], [VLC videolan.org][])
+- WhiteHouse: Official White House app 🔥🔥🔥
   - https://github.com/WhiteHouse/wh-app-ios
   - https://itunes.apple.com/app/the-white-house/id350190807
-- Wikipedia: Official Wikipedia App 🔥🔥🔥
+- Wikipedia: Official Wikipedia app 🔥🔥🔥
   - https://github.com/wikimedia/wikipedia-ios
   - https://itunes.apple.com/app/wikipedia-mobile/id324715238
-- WordPress: Official WordPress App 🔥🔥🔥
+- WordPress: Official WordPress app 🔥🔥🔥
   - https://github.com/wordpress-mobile/WordPress-iOS
   - https://itunes.apple.com/app/wordpress/id335703880
-
-## Personal
-
-- iContactU: Reminds you to contact people you ought to 🔶🔥
-  - https://github.com/rizal72/iContactU
-  - https://itunes.apple.com/app/icontactu/id920200100
-- iGrades: Track your class grades
-  - https://github.com/maurovc/iGrades
-  - https://itunes.apple.com/app/id816987574
-- MasterPassword: Stateless password management solution 🔥🔥
-  - https://github.com/Lyndir/MasterPassword
-  - https://itunes.apple.com/app/id510296984
-- MiniKeePass: Secure Password Manager 🔥🔥
-  - https://github.com/MiniKeePass/MiniKeePass
-  - https://itunes.apple.com/app/id451661808
-- Onions: Cloud encrypted text storage app
-  - https://github.com/onionsapp/Onions-iOS
-  - https://itunes.apple.com/app/onions/id687296481
-- ownCloud: Client for a personal open-source cloud data provider 🔥
-  - https://github.com/owncloud/ios
-  - https://itunes.apple.com/app/owncloud/id543672169
-- Runner-Stats: iPhone app to record running data
-  - https://github.com/hukun01/Runner-Stats
-  - https://itunes.apple.com/app/runner-stats/id793443821
-- SimpleMemo: Sync notes to EverNote 🔥
-  - https://github.com/likumb/SimpleMemo
-  - https://itunes.apple.com/app/yi-bian-qian/id1029807896
-- [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing 🔶🔥
-- [Theseus](https://github.com/lazerwalker/Theseus): Personal analytics tool 🔥🔥🔥 
 
 ## Sample
 
@@ -513,12 +490,12 @@ Projects that are not in English have a flag
 - Aozora: Discover and track anime 🔶
   - https://github.com/pjchavarria/Aozora
   - https://itunes.apple.com/us/app/aozora-anime-community-track/id1017433045
-- Yep: Discover talent and build something together 🔶🔥🔥🔥🔥🔥
-  - https://github.com/CatchChat/Yep
-  - https://itunes.apple.com/app/yep-meet-genius/id983891256
 - Peggsite: App for sharing a social board
   - https://github.com/jenduf/GenericSocialApp
   - https://itunes.apple.com/app/peggsite/id938445951 
+- Yep: Discover talent and build something together 🔶🔥🔥🔥🔥🔥
+  - https://github.com/CatchChat/Yep
+  - https://itunes.apple.com/app/yep-meet-genius/id983891256
 
 ## Tasks
 
@@ -573,19 +550,8 @@ Projects that are not in English have a flag
   - https://github.com/bemyeyes/bemyeyes-ios
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶🔥
-- [Coffee Timer](https://github.com/ashfurrow/yourfirstswiftapp) 🔶
 - [Colo](https://github.com/wongzigii/Colo): Color themes hunter
-- ColorBlur: Add blur to your photos
-  - https://github.com/maurovc/ColorBlur
-  - https://itunes.apple.com/app/id928863510
 - [DeckRocket](https://github.com/jpsim/DeckRocket): Turn your iPhone into a remote for Deckset presentations 🔶🔥🔥
-- Edhita: Text editor 🔶🔥🔥🔥
-  - https://github.com/tnantoka/edhita
-  - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
-- Fojusi: Work timer with today extension 🔶🔥🔥
-  - https://github.com/dasdom/Tomate
-  - https://itunes.apple.com/app/fojusi/id923044693
-- [ForceSketch](https://github.com/FlexMonkey/ForceSketch): Demonstration of a sketching app using 3D Touch
 - [GammaThingy](https://github.com/thomasfinch/GammaThingy): Change screen gamma dynamically 🔥🔥🔥
 - [GoodNight](https://github.com/anthonya1999/GoodNight): Change screen gamma dynamically 🔥🔥
 - GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
@@ -593,30 +559,41 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/greatreader/id903651112
 - [HackCancer](https://github.com/HackCancer/iOS): [Hackathon app](http://www.hackcancer.co/) 🔶
 - [iCopyPasta](https://github.com/alltheflow/iCopyPasta): Pasteboard feed app 🔶🔥
+- iContactU: Reminds you to contact people you ought to 🔶🔥
+  - https://github.com/rizal72/iContactU
+  - https://itunes.apple.com/app/icontactu/id920200100
+- iGrades: Track your class grades
+  - https://github.com/maurovc/iGrades
+  - https://itunes.apple.com/app/id816987574
 - Jupp: App with share extension for ADN 🔶
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
 - LidderbuchApp: Songbook for Luxembourgish Students 🔶🇱🇺
   - https://github.com/AcelLuxembourg/LidderbuchApp
   - https://itunes.apple.com/app/lidderbuch/id997143407
-- [Malendar](https://github.com/croossin/Malendar): A redesigned calendar app 🔶
 - [Mirror++](https://github.com/nathunsmitty/MirrorPlusPlus): Minimalist mirror 🔶
 - my41: HP-41C/CV/CX Microcode emulator
   - https://github.com/mperovic/my41
   - https://itunes.apple.com/app/my41cx/id979041950
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
+- Onions: Cloud encrypted text storage app
+  - https://github.com/onionsapp/Onions-iOS
+  - https://itunes.apple.com/app/onions/id687296481
+- ownCloud: File browser and sync for ownCloud file hosting service 🔥
+  - https://github.com/owncloud/ios
+  - https://itunes.apple.com/app/owncloud/id543672169
 - [Phonetic](https://github.com/iAugux/Phonetic): Add phonetic keys for Chinese names 🔥🔥
-- [Plum-O-Meter](https://github.com/FlexMonkey/Plum-O-Meter): 3D Touch Application for Weighing Plums (and other small fruit!) 🔶🔥🔥
 - Population Clock: Learn about geography and demographics
   - https://github.com/Netfilter-Com/PopulationClock
   - https://itunes.apple.com/app/population-clock-hd/id590689957
 - Round & Split: Tip Calculator 🔶
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737 
-- Speak: AAC & Speech Therapy 
-  - https://github.com/raynesio/speakability
-  - https://itunes.apple.com/app/speakability/id784509467
+- Runner-Stats: iPhone app to record running data
+  - https://github.com/hukun01/Runner-Stats
+  - https://itunes.apple.com/app/runner-stats/id793443821
 - [Tether](https://github.com/chrisballinger/Tether-iOS): Tethering for non-jailbroken iOS Devices over USB
+- [Theseus](https://github.com/lazerwalker/Theseus): Personal analytics tool 🔥🔥🔥 
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
 - VPN On: Today Widget to turn on VPN 🔶🔥🔥🔥🔥
   - https://github.com/lexrus/VPNOn
@@ -624,15 +601,49 @@ Projects that are not in English have a flag
 - Vinylogue: Simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
-- [wat](https://github.com/pj4533/wat): Very simple packet sniffer in Swift 🔶
 - [Words](https://github.com/soffes/words): Thesaurus app
-- Workdays: Simple iPhone calendar with operating schedule
- - https://github.com/mpak/Workdays
- - https://itunes.apple.com/app/workdays-calendar/id889712978
 - Yorkie: This app will help you take care of your dog
  - https://github.com/carlbutron/YorkieApp
  - https://itunes.apple.com/app/Yorkie/id1000836606
+
+### 3D Touch
+
+- [ForceSketch](https://github.com/FlexMonkey/ForceSketch): Demonstration of a sketching app using 3D Touch
+- [Plum-O-Meter](https://github.com/FlexMonkey/Plum-O-Meter): 3D Touch Application for Weighing Plums (and other small fruit!) 🔶🔥🔥
+
+### Calendar
+
+- [Malendar](https://github.com/croossin/Malendar): A redesigned calendar app 🔶
+- Workdays: Simple iPhone calendar with operating schedule
+ - https://github.com/mpak/Workdays
+ - https://itunes.apple.com/app/workdays-calendar/id889712978
+
+### Passwords
+
+- MasterPassword: Stateless password management solution 🔥🔥
+  - https://github.com/Lyndir/MasterPassword
+  - https://itunes.apple.com/app/id510296984
+- MiniKeePass: Secure Password Manager 🔥🔥
+  - https://github.com/MiniKeePass/MiniKeePass
+  - https://itunes.apple.com/app/id451661808
 - [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage
+
+# Text
+
+- Edhita: Text editor 🔶🔥🔥🔥
+  - https://github.com/tnantoka/edhita
+  - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
+- SimpleMemo: Sync notes to EverNote 🔥
+  - https://github.com/likumb/SimpleMemo
+  - https://itunes.apple.com/app/yi-bian-qian/id1029807896
+- [SwiftNote](https://github.com/mslathrop/SwiftNote): Simple note taking app with today widget and iCloud syncing 🔶🔥
+
+### Timer
+
+- [Coffee Timer](https://github.com/ashfurrow/yourfirstswiftapp) 🔶
+- Fojusi: Work timer with today extension 🔶🔥🔥
+  - https://github.com/dasdom/Tomate
+  - https://itunes.apple.com/app/fojusi/id923044693
 
 ## Special
 
@@ -743,9 +754,7 @@ Projects that are not in English have a flag
 
 ### Xamarin
 
-- Toggl Timer 🔥
-  - https://github.com/toggl/mobile
-  - https://itunes.apple.com/us/app/toggl-timer/id885767775
+- [Toggl Timer][] 🔥 ([Toggl Timer on the App Store][])
 
 ## Bonus
 
@@ -760,6 +769,7 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 - [github.com/dkhamsing](https://github.com/dkhamsing)
 - [twitter.com/dkhamsing](https://twitter.com/dkhamsing)
 
+[Cherry]: https://github.com/kenshin03/Cherry
 [Done]: https://github.com/FancyPixel/done-swift
 [HackerNews-React-Native]: https://github.com/iSimar/HackerNews-React-Native
 [HN Reader]: https://github.com/Dimillian/SwiftHN
@@ -769,10 +779,13 @@ This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) a
 [Firefox]: https://github.com/mozilla/firefox-ios
 [Firefox on the App Store]: https://itunes.apple.com/app/firefox-web-browser/id989804926
 [Jim]: https://github.com/kylejm/Jim
+[KTPomodoro]: https://github.com/kenshin03/KTPomodoro
 [NortalTechDay]: https://github.com/mikkoj/NortalTechDay
 [ParseDeveloperDay]: https://github.com/ParsePlatform/ParseDeveloperDay
 [Provenance]: https://github.com/jasarien/Provenance
 [RealmToDo]: https://github.com/pietbrauer/RealmToDo
+[Toggl Timer]: https://github.com/toggl/mobile
+[Toggl Timer on the App Store]: https://itunes.apple.com/app/toggl-timer/id885767775
 [Tropos]: https://github.com/thoughtbot/Tropos
 [Tropos on the App Store]: https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376  
 [VLC]: https://github.com/videolan/vlc
