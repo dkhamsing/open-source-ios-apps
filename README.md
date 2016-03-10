@@ -634,14 +634,6 @@ Projects that are not in English have a flag
  - https://itunes.apple.com/app/Yorkie/id1000836606
 - [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage
 
- 
-  - [Realm](#realm)
-  - [VIPER](#viper)
-  - [Xamarin](#xamarin)
-- [Bonus](#bonus)
-
-------
-
 ## Special
 
 ### Core Data
