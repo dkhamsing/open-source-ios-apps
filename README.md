@@ -219,7 +219,6 @@ Projects that are not in English have a flag
   - https://github.com/adamwulf/spare-parts-app
   - https://itunes.apple.com/app/spare-parts/id981297199 
 - [Stick-Hero-Swift](https://github.com/phpmaple/Stick-Hero-Swift): Universal iOS Game using Swift and iOS SpriteKit 🔶🔥🔥
-- [Sudoku](https://github.com/Haoest/SudokuResolv): Sudoku solver with OCR capability on iOS 🔥🔥  
 - Wolfenstein 3D: Wolfenstein 3D for iOS 🔥🔥
   - https://github.com/id-Software/Wolf3D-iOS
   - https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478

@@ -9,6 +9,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - https://github.com/coderyi/Mume ([fork](https://github.com/opensourceios/Mume))
 - https://code.google.com/p/metasyntactic/wiki/PocketFlix
 - https://github.com/ricburton/Repo
+- https://github.com/Haoest/SudokuResolv
 - https://github.com/FelixMLians/suning-shop-ios
 
 ## Contact
