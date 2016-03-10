@@ -29,7 +29,6 @@ Jump to
 - [Sample](#sample)
 - [Social](#social)
 - [Tasks](#tasks)
-- [Tools](#tools)
 - [VIPER](#viper)
 - [Weather](#weather)
 - [Web](#web)
@@ -633,53 +632,6 @@ Projects that are not in English have a flag
   - https://github.com/binarylevel/Tinylog-iOS
   - https://itunes.apple.com/app/tinylog/id799267191
 
-## Tools
-
-- Be my eyes: An app that connects blind people with volunteer helpers via live video chat 🔥🔥
-  - https://github.com/bemyeyes/bemyeyes-ios
-  - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
-- [Coffee Timer](https://github.com/ashfurrow/yourfirstswiftapp) 🔶
-- [Colo](https://github.com/wongzigii/Colo): Color themes hunter
-- ColorBlur: Add blur to your photos
-  - https://github.com/maurovc/ColorBlur
-  - https://itunes.apple.com/app/id928863510
-- [DeckRocket](https://github.com/jpsim/DeckRocket): Turn your iPhone into a remote for Deckset presentations 🔶🔥🔥
-- Edhita: Text editor 🔶🔥🔥🔥
-  - https://github.com/tnantoka/edhita
-  - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
-- Fojusi: Work timer with today extension 🔶🔥🔥
-  - https://github.com/dasdom/Tomate
-  - https://itunes.apple.com/app/fojusi/id923044693
-- [ForceSketch](https://github.com/FlexMonkey/ForceSketch): Demonstration of a Sketching App Using 3D Touch
-- [GammaThingy](https://github.com/thomasfinch/GammaThingy): Change screen gamma dynamically 🔥🔥🔥
-- [GoodNight](https://github.com/anthonya1999/GoodNight): Change screen gamma dynamically 🔥🔥
-- GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
-  - https://github.com/semweb/GreatReader
-  - https://itunes.apple.com/app/greatreader/id903651112
-- my41: HP-41C/CV/CX Microcode emulator
-  - https://github.com/mperovic/my41
-  - https://itunes.apple.com/app/my41cx/id979041950
-- [Plum-O-Meter](https://github.com/FlexMonkey/Plum-O-Meter): 3D Touch Application for Weighing Plums (and other small fruit!) 🔶🔥🔥
-- Round & Split: Tip Calculator 🔶
-  - https://github.com/lukhnos/roundandsplit
-  - https://itunes.apple.com/app/round-split/id912288737 
-- Speak: AAC & Speech Therapy 
-  - https://github.com/raynesio/speakability
-  - https://itunes.apple.com/app/speakability/id784509467
-- [Tether](https://github.com/chrisballinger/Tether-iOS): Tethering for non-jailbroken iOS Devices over USB
-- VPN On: Today Widget to turn on VPN 🔶🔥🔥🔥🔥
-  - https://github.com/lexrus/VPNOn
-  - https://itunes.apple.com/app/vpn-on/id951344279
-- [wat](https://github.com/pj4533/wat): A very simple packet sniffer in swift 🔶
-- [Words](https://github.com/soffes/words): Thesaurus app
-- Workdays: Simple iPhone calendar with operating schedule
- - https://github.com/mpak/Workdays
- - https://itunes.apple.com/app/workdays-calendar/id889712978
-- Yorkie: This app will help you take care of your dog
- - https://github.com/carlbutron/YorkieApp
- - https://itunes.apple.com/app/Yorkie/id1000836606
-- [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage
-
 ## [VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
 
 - [Contacts](https://github.com/sebastianwr/VIPER-Persons)
@@ -728,7 +680,28 @@ Projects that are not in English have a flag
   - https://github.com/maurovc/aMenjar
   - https://itunes.apple.com/app/a-menjar!/id816473131
 - [bar](https://github.com/soffes/bar): Cocktail Menu 🔶
+- Be my eyes: An app that connects blind people with volunteer helpers via live video chat 🔥🔥
+  - https://github.com/bemyeyes/bemyeyes-ios
+  - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶🔥
+- [Coffee Timer](https://github.com/ashfurrow/yourfirstswiftapp) 🔶
+- [Colo](https://github.com/wongzigii/Colo): Color themes hunter
+- ColorBlur: Add blur to your photos
+  - https://github.com/maurovc/ColorBlur
+  - https://itunes.apple.com/app/id928863510
+- [DeckRocket](https://github.com/jpsim/DeckRocket): Turn your iPhone into a remote for Deckset presentations 🔶🔥🔥
+- Edhita: Text editor 🔶🔥🔥🔥
+  - https://github.com/tnantoka/edhita
+  - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
+- Fojusi: Work timer with today extension 🔶🔥🔥
+  - https://github.com/dasdom/Tomate
+  - https://itunes.apple.com/app/fojusi/id923044693
+- [ForceSketch](https://github.com/FlexMonkey/ForceSketch): Demonstration of a Sketching App Using 3D Touch
+- [GammaThingy](https://github.com/thomasfinch/GammaThingy): Change screen gamma dynamically 🔥🔥🔥
+- [GoodNight](https://github.com/anthonya1999/GoodNight): Change screen gamma dynamically 🔥🔥
+- GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
+  - https://github.com/semweb/GreatReader
+  - https://itunes.apple.com/app/greatreader/id903651112
 - [HackCancer](https://github.com/HackCancer/iOS): [Hackathon app](http://www.hackcancer.co/) 🔶
 - [iCopyPasta](https://github.com/alltheflow/iCopyPasta): Pasteboard feed app 🔶🔥
 - Jupp: App with share extension for ADN 🔶
@@ -739,16 +712,39 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/lidderbuch/id997143407
 - [Malendar](https://github.com/croossin/Malendar): A redesigned calendar app 🔶
 - [Mirror++](https://github.com/nathunsmitty/MirrorPlusPlus): Minimalist mirror 🔶
+- my41: HP-41C/CV/CX Microcode emulator
+  - https://github.com/mperovic/my41
+  - https://itunes.apple.com/app/my41cx/id979041950
 - [OpenCB](https://github.com/student-t/OpenCB): Interactive chess book reader
+- [Phonetic](https://github.com/iAugux/Phonetic): Add phonetic keys for Chinese names 🔥🔥
+- [Plum-O-Meter](https://github.com/FlexMonkey/Plum-O-Meter): 3D Touch Application for Weighing Plums (and other small fruit!) 🔶🔥🔥
 - Population Clock: Learn about geography and demographics
   - https://github.com/Netfilter-Com/PopulationClock
   - https://itunes.apple.com/app/population-clock-hd/id590689957
-- [Phonetic](https://github.com/iAugux/Phonetic): Add phonetic keys for Chinese names 🔥🔥
+- Round & Split: Tip Calculator 🔶
+  - https://github.com/lukhnos/roundandsplit
+  - https://itunes.apple.com/app/round-split/id912288737 
+- Speak: AAC & Speech Therapy 
+  - https://github.com/raynesio/speakability
+  - https://itunes.apple.com/app/speakability/id784509467
+- [Tether](https://github.com/chrisballinger/Tether-iOS): Tethering for non-jailbroken iOS Devices over USB
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
+- VPN On: Today Widget to turn on VPN 🔶🔥🔥🔥🔥
+  - https://github.com/lexrus/VPNOn
+  - https://itunes.apple.com/app/vpn-on/id951344279
 - Vinylogue: A simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
-  
+- [wat](https://github.com/pj4533/wat): A very simple packet sniffer in swift 🔶
+- [Words](https://github.com/soffes/words): Thesaurus app
+- Workdays: Simple iPhone calendar with operating schedule
+ - https://github.com/mpak/Workdays
+ - https://itunes.apple.com/app/workdays-calendar/id889712978
+- Yorkie: This app will help you take care of your dog
+ - https://github.com/carlbutron/YorkieApp
+ - https://itunes.apple.com/app/Yorkie/id1000836606
+- [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage
+
 ## Bonus
 
 See [archive](archive.md), [mac-apps](https://github.com/jeffreyjackson/mac-apps), [awesome-osx](https://github.com/iCHAIT/awesome-osx) and [android-apps](https://github.com/pcqpcq/open-source-android-apps).
