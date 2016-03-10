@@ -568,8 +568,8 @@ Projects that are not in English have a flag
 - A Menjar: Food menu app 🇪🇸
   - https://github.com/maurovc/aMenjar
   - https://itunes.apple.com/app/a-menjar!/id816473131
-- [bar](https://github.com/soffes/bar): Cocktail Menu 🔶
-- Be my eyes: An app that connects blind people with volunteer helpers via live video chat 🔥🔥
+- [bar](https://github.com/soffes/bar): Cocktail menu 🔶
+- Be my eyes: Connect blind people with volunteer helpers via live video chat 🔥🔥
   - https://github.com/bemyeyes/bemyeyes-ios
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶🔥
@@ -585,7 +585,7 @@ Projects that are not in English have a flag
 - Fojusi: Work timer with today extension 🔶🔥🔥
   - https://github.com/dasdom/Tomate
   - https://itunes.apple.com/app/fojusi/id923044693
-- [ForceSketch](https://github.com/FlexMonkey/ForceSketch): Demonstration of a Sketching App Using 3D Touch
+- [ForceSketch](https://github.com/FlexMonkey/ForceSketch): Demonstration of a sketching app using 3D Touch
 - [GammaThingy](https://github.com/thomasfinch/GammaThingy): Change screen gamma dynamically 🔥🔥🔥
 - [GoodNight](https://github.com/anthonya1999/GoodNight): Change screen gamma dynamically 🔥🔥
 - GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
@@ -621,10 +621,10 @@ Projects that are not in English have a flag
 - VPN On: Today Widget to turn on VPN 🔶🔥🔥🔥🔥
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
-- Vinylogue: A simple Last.fm client
+- Vinylogue: Simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
-- [wat](https://github.com/pj4533/wat): A very simple packet sniffer in swift 🔶
+- [wat](https://github.com/pj4533/wat): Very simple packet sniffer in Swift 🔶
 - [Words](https://github.com/soffes/words): Thesaurus app
 - Workdays: Simple iPhone calendar with operating schedule
  - https://github.com/mpak/Workdays
