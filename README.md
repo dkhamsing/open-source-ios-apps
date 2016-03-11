@@ -485,6 +485,9 @@ Projects that are not in English have a flag
 
 ## Security
 
+- FreeOTP Two-Factor Authentication
+  - https://fedorahosted.org/freeotp/browser/ios
+  - https://itunes.apple.com/app/freeotp/id872559395
 - MasterPassword: Stateless password management solution 🔥🔥
   - https://github.com/Lyndir/MasterPassword
   - https://itunes.apple.com/app/id510296984
