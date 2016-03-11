@@ -20,7 +20,7 @@ Jump to
 - [News](#news)
 - [Official](#official)
 - [Sample](#sample)
-- [Security](#securiy)
+- [Security](#security)
 - [Social](#social)
 - [Tasks](#tasks)
 - [Weather](#weather)
