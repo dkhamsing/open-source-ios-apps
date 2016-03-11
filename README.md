@@ -20,6 +20,7 @@ Jump to
 - [News](#news)
 - [Official](#official)
 - [Sample](#sample)
+- [Security](#securiy)
 - [Social](#social)
 - [Tasks](#tasks)
 - [Weather](#weather)
@@ -482,6 +483,16 @@ Projects that are not in English have a flag
 - [Starship](https://github.com/kylef/Starship): A generic API client application for iOS using Hyperdrive 🔶
 - [StateRestorationDemo](https://github.com/shagedorn/StateRestorationDemo): App to demonstrate state preservation and restoration APIs 🔶
 
+## Security
+
+- MasterPassword: Stateless password management solution 🔥🔥
+  - https://github.com/Lyndir/MasterPassword
+  - https://itunes.apple.com/app/id510296984
+- MiniKeePass: Secure Password Manager 🔥🔥
+  - https://github.com/MiniKeePass/MiniKeePass
+  - https://itunes.apple.com/app/id451661808
+- [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage
+
 ## Social
 
 - Aozora: Discover and track anime 🔶
@@ -615,16 +626,6 @@ Projects that are not in English have a flag
 - Workdays: Simple iPhone calendar with operating schedule
  - https://github.com/mpak/Workdays
  - https://itunes.apple.com/app/workdays-calendar/id889712978
-
-### Passwords
-
-- MasterPassword: Stateless password management solution 🔥🔥
-  - https://github.com/Lyndir/MasterPassword
-  - https://itunes.apple.com/app/id510296984
-- MiniKeePass: Secure Password Manager 🔥🔥
-  - https://github.com/MiniKeePass/MiniKeePass
-  - https://itunes.apple.com/app/id451661808
-- [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage
 
 # Text
 
