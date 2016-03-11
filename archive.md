@@ -6,6 +6,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - https://github.com/squallstar/bancha-ios-app
 - https://github.com/nothingmagical/cheddar-ios
 - https://github.com/EverestOpenSource/Everest-iOS
+- https://github.com/dennisreimann/ioctocat
 - https://github.com/lastfm/lastfm-iphone
 - https://github.com/coderyi/Mume ([fork](https://github.com/opensourceios/Mume))
 - https://github.com/Imaginea/pancake-ios
