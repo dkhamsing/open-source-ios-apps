@@ -49,7 +49,7 @@ Projects that are not in English have a flag
  500+ Stars: 🔥🔥🔥
 1000+ Stars: 🔥🔥🔥🔥
 2000+ Stars: 🔥🔥🔥🔥🔥
-``` 
+```
 
 ## Apple TV
 
@@ -71,9 +71,9 @@ Projects that are not in English have a flag
 - Bus Today: Track bus line on your wrist 🇨🇳
   - https://github.com/JohnWong/bus-today
   - https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341
-- [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator) 🔶 
+- [Calculator](https://github.com/noodlewerk/Apple_Watch_Calculator) 🔶
 - [Calculator](https://github.com/mukeshthawani/Calculator) 🔶
-- [Cherry][]: Mini Pomodoro Timer app 🔶🔥🔥 
+- [Cherry][]: Mini Pomodoro Timer app 🔶🔥🔥
 - [Connectivity Demo](https://github.com/swilliams/watchkit-connectivity-demo)
 - [CoolSpot](https://github.com/neonichu/CoolSpot): The missing Spotify app 🔶
 - Cortado: Track your caffeine consumption habits 🔥
@@ -89,9 +89,9 @@ Projects that are not in English have a flag
 - [HN Reader][]: Hacker News Reader 🔶🔥🔥🔥  ([HN Reader on the App Store][])
 - [Impulse](https://github.com/Jasdev/Impulse): Real-time age ticker for iOS and watchOS 🔶
 - [KTPomodoro][]: Mini Pomodoro Timer app
-- [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
+- [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶
 - [OnTime](https://github.com/D-32/OnTime): Apple Watch app to access the SBB (Swiss railway) timetable
-- Parties for WWDC 🔥 
+- Parties for WWDC 🔥
   - https://github.com/sugarso/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
 - PhoneBattery: Your phone's battery, on your wrist
@@ -103,7 +103,7 @@ Projects that are not in English have a flag
 - [Watchman](https://github.com/DanielTomlinson/Watchman): A WatchOS2 Hangman Game 🔶
 - [WatchNotes](https://github.com/azamsharp/WatchNotes): Notes on your wrist 🔶
 - [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler): Code examples for new features of watchOS 2 🔶🔥🔥🔥
-- [WatchPics](https://github.com/D-32/WatchPics): Instagram app 
+- [WatchPics](https://github.com/D-32/WatchPics): Instagram app
 - [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake 🔶
 - [WatchStocks](https://github.com/G2Jose/WatchStocks): App to track your stocks portfolio, also includes a watch face complication 🔶
 - [Wunderschnell](https://github.com/contentful-labs/Wunderschnell): Order the right product with one tap on your wrist 🔶
@@ -181,7 +181,7 @@ Projects that are not in English have a flag
 
 ## Games
 
-- [翻翻看](https://github.com/geek5nan/FanFanSwift): Concentration game 🇨🇳 🔶🔥 
+- [翻翻看](https://github.com/geek5nan/FanFanSwift): Concentration game 🇨🇳 🔶🔥
 - [2048](https://github.com/austinzheng/iOS-2048): 2048 game in Objective-C 🔥
 - [2048](https://github.com/austinzheng/swift-2048): 2048 game in Swift 🔶🔥🔥🔥🔥
 - Bridges: A puzzle game with bridges, houses, tolls, and subways 🔥
@@ -201,7 +201,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/doom-classic/id336347946
 - DOOM-IOS2: Doom Classic for iOS version 2 🔥
   - https://github.com/id-Software/DOOM-IOS2
-  - https://itunes.apple.com/app/doom-ii-rpg/id354051766 
+  - https://itunes.apple.com/app/doom-ii-rpg/id354051766
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird 🔶🔥🔥🔥🔥🔥
 - [Game Of Life](https://github.com/yonbergman/swift-gameoflife): Conway's Game of Life 🔶
 - [GBA4iOS](https://bitbucket.org/rileytestut/gba4ios/): Gameboy, Gameboy Color & Gameboy Advance emulator for iOS.
@@ -219,7 +219,7 @@ Projects that are not in English have a flag
 - [SceneKitFrogger](https://github.com/devindazzle/SceneKitFrogger) 🔶
 - Spare Parts: Simple 2D point and line physics using Verlet integration
   - https://github.com/adamwulf/spare-parts-app
-  - https://itunes.apple.com/app/spare-parts/id981297199 
+  - https://itunes.apple.com/app/spare-parts/id981297199
 - [Stick-Hero-Swift](https://github.com/phpmaple/Stick-Hero-Swift): Universal iOS Game using Swift and iOS SpriteKit 🔶🔥🔥
 - Wolfenstein 3D: Wolfenstein 3D for iOS 🔥🔥
   - https://github.com/id-Software/Wolf3D-iOS
@@ -253,18 +253,18 @@ Projects that are not in English have a flag
 ## Health
 
 - [Arex](https://github.com/a2/arex-7): App for remembering to take your medications 🔶
-- AsthmaHealth: ResearchKit app studying Asthma 
+- AsthmaHealth: ResearchKit app studying Asthma
   - https://github.com/ResearchKit/AsthmaHealth
   - https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668
-- Depressed: Test if you are depressed 🔶 
+- Depressed: Test if you are depressed 🔶
   - https://github.com/DerLobi/Depressed
   - https://itunes.apple.com/app/depressed/id1062594092
 - GlucoSuccess: ResearchKit app studying Diabetes
   - https://github.com/ResearchKit/GlucoSuccess
-  - https://itunes.apple.com/app/glucosuccess/id972143976 
-- [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift): Sample app for Apple HealthKit 🔶 
-- [Jim][]: Track your gym workouts 🔶 
-- mPower: ResearchKit app studying Parkinson's disease 
+  - https://itunes.apple.com/app/glucosuccess/id972143976
+- [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift): Sample app for Apple HealthKit 🔶
+- [Jim][]: Track your gym workouts 🔶
+- mPower: ResearchKit app studying Parkinson's disease
   - https://github.com/ResearchKit/mPower
   - https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200  
 - MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk
@@ -272,8 +272,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/id972189947
 - Share The Journey: ResearchKit app studying Breast Cancer  
   - https://github.com/ResearchKit/ShareTheJourney
-  - https://itunes.apple.com/app/share-the-journey/id972180604 
-- Speak: AAC & Speech Therapy 
+  - https://itunes.apple.com/app/share-the-journey/id972180604
+- Speak: AAC & Speech Therapy
   - https://github.com/raynesio/speakability
   - https://itunes.apple.com/app/speakability/id784509467
 
@@ -284,7 +284,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/aa-keyboard/id964182815
 - ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8
   - https://github.com/b3ll/ClickWheelKeyboard
-  - https://itunes.apple.com/app/click-wheel-keyboard/id993111285 
+  - https://itunes.apple.com/app/click-wheel-keyboard/id993111285
 - [Hodor](https://github.com/jonomuller/Hodor-Keyboard): Fun Hodor keyboard 🔶
 - [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard): Keyboard that supports The Big List of Naughty Strings 🔶🔥🔥🔥
 - [Slidden](https://github.com/Brimizer/Slidden): An open source, customizable, iOS keyboard 🔥🔥
@@ -336,7 +336,7 @@ Projects that are not in English have a flag
 - ComicFlow: Comic reader for iPad 🔥
   - https://github.com/swisspol/ComicFlow
   - https://itunes.apple.com/app/comicflow/id409290355
-- [DoubanFM](https://github.com/XVXVXXX/DoubanFM): douban.fm client for iPhone, using AFN and MPMoviePlayer 🇨🇳 🔥🔥 
+- [DoubanFM](https://github.com/XVXVXXX/DoubanFM): douban.fm client for iPhone, using AFN and MPMoviePlayer 🇨🇳 🔥🔥
 - Dunk: Dribbble client 🔶🔥🔥
   - https://github.com/naoyashiga/Dunk
   - https://itunes.apple.com/app/dunk-for-dribbble/id1003028105
@@ -352,7 +352,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/konabot/id1055716649
 - Longboxed: Track the releases of your favorite comics.
   - https://github.com/jayhickey/Longboxed-iOS
-  - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339 
+  - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339
 - [Megabite](https://github.com/AaronRandall/Megabite): Turn a photo of your food into a face 🔥🔥
 - [movies](https://github.com/KMindeguia/movies): Movie info app 🔥🔥🔥
 - OCiney: Movie info app 🔥
@@ -362,7 +362,7 @@ Projects that are not in English have a flag
 - Open Source Selfie Stick: Sync two iOS devices and use one as a remote control for the other's camera!
   - https://github.com/RF-Nelson/open-source-selfie-stick
   - https://itunes.apple.com/app/id1084487132
-- [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶🔥🔥 
+- [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser): A simple iOS Instagram photo browser 🔶🔥🔥
 - Poppins: House all your favorite GIFs and easily share them with your friends and family 🔶
   - https://github.com/thoughtbot/poppins
   - https://itunes.apple.com/app/poppins/id978854068
@@ -397,7 +397,7 @@ Projects that are not in English have a flag
 
 ## News
 
-- Designer News App 🔶🔥🔥🔥🔥 
+- Designer News App 🔶🔥🔥🔥🔥
   - https://github.com/MengTo/DesignerNewsApp
   - https://itunes.apple.com/app/designer-news-app/id879990495
 - Feeds4U: Well architected RSS reader 🔶
@@ -413,17 +413,17 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app
 - The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan 🔶🔥🔥
-  - https://github.com/aclissold/the-oakland-post 
+  - https://github.com/aclissold/the-oakland-post
   - https://itunes.apple.com/app/oakland-post/id931152313  
-- v2ex: An iOS client for the technical and creative website v2ex.com 🇨🇳 🔥🔥🔥🔥 
-  - https://github.com/singro/v2ex 
+- v2ex: An iOS client for the technical and creative website v2ex.com 🇨🇳 🔥🔥🔥🔥
+  - https://github.com/singro/v2ex
   - https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535
 
 ### Hacker News
 
 - Hacker News Client: Firebase API-Based iOS Reader (Firebase) 🔥🔥
   - https://github.com/bonzoq/hniosreader
-  - https://itunes.apple.com/app/hacker-news-client/id939454231 
+  - https://itunes.apple.com/app/hacker-news-client/id939454231
 - HackerNews (Y): Built using pure Objective-C with official HN API (uses Firebase and Fabric)
   - https://github.com/vetri02/HackerNews
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
@@ -437,7 +437,7 @@ Projects that are not in English have a flag
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
 - news:yc 🔥🔥🔥🔥
-  - https://github.com/Xuzz/newsyc 
+  - https://github.com/Xuzz/newsyc
   - https://itunes.apple.com/app/news-yc/id434787119
 - Simple Reader 🔥
   - https://github.com/rnystrom/HackerNewsReader
@@ -463,14 +463,14 @@ Projects that are not in English have a flag
 ## Sample
 
 - Cannonball: Fun way to create and share stories and poems using Fabric 🔶🔥🔥
-  - https://github.com/twitterdev/cannonball-ios 
+  - https://github.com/twitterdev/cannonball-ios
   - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
 - Code by Apple 🔥🔥🔥
   - [Developer Library](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code), [GitHub Mirror](https://github.com/robovm/apple-ios-samples)
-  - [WWDC 2015](https://developer.apple.com/sample-code/wwdc/2015/) 
-- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C) 
-- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift) :large_orange_diamond: 
-- [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) 🔶 
+  - [WWDC 2015](https://developer.apple.com/sample-code/wwdc/2015/)
+- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C)
+- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift) :large_orange_diamond:
+- [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) 🔶
 - [Furni](https://github.com/twitterdev/furni-ios): Furniture store demo app using Fabric 🔶🔥
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo) 🔶🔥🔥
 - [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler): Code examples for the new functions in iOS 8 🔥🔥🔥🔥🔥
@@ -504,7 +504,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/aozora-anime-community-track/id1017433045
 - Peggsite: App for sharing a social board
   - https://github.com/jenduf/GenericSocialApp
-  - https://itunes.apple.com/app/peggsite/id938445951 
+  - https://itunes.apple.com/app/peggsite/id938445951
 - Yep: Discover talent and build something together 🔶🔥🔥🔥🔥🔥
   - https://github.com/CatchChat/Yep
   - https://itunes.apple.com/app/yep-meet-genius/id983891256
@@ -532,12 +532,12 @@ Projects that are not in English have a flag
 - [SmileWeather](https://github.com/liu044100/SmileWeather): Uses Weather Underground & OpenWeatherMap 🔥🔥
 - [SwiftWeather](https://github.com/JakeLin/SwiftWeather) 🔶🔥🔥🔥🔥🔥
 - [Tropos][]: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥 ([Tropos on the App Store][])
-- [WeatherApp][]: Weather app using React Native 
+- [WeatherApp][]: Weather app using React Native
 - WeatherMap: Weather around you in a glance, uses OpenWeatherMap 🔶🔥🔥
   - https://github.com/TakefiveInteractive/WeatherMap
   - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
 - YoCelsius 🔥🔥🔥
-  - https://github.com/YouXianMing/YoCelsius 
+  - https://github.com/YouXianMing/YoCelsius
   - https://itunes.apple.com/app/yocelsius/id967721892
 
 ## Web
@@ -601,12 +601,12 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/population-clock-hd/id590689957
 - Round & Split: Tip Calculator 🔶
   - https://github.com/lukhnos/roundandsplit
-  - https://itunes.apple.com/app/round-split/id912288737 
+  - https://itunes.apple.com/app/round-split/id912288737
 - Runner-Stats: iPhone app to record running data
   - https://github.com/hukun01/Runner-Stats
   - https://itunes.apple.com/app/runner-stats/id793443821
 - [Tether](https://github.com/chrisballinger/Tether-iOS): Tethering for non-jailbroken iOS Devices over USB
-- [Theseus](https://github.com/lazerwalker/Theseus): Personal analytics tool 🔥🔥🔥 
+- [Theseus](https://github.com/lazerwalker/Theseus): Personal analytics tool 🔥🔥🔥
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
 - VPN On: Today Widget to turn on VPN 🔶🔥🔥🔥🔥
   - https://github.com/lexrus/VPNOn
@@ -675,7 +675,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/anywall/id520955490
 - [how-much](https://github.com/dkhamsing/how-much): Simple app to record how much things cost using Parse
 - [iBeaconTasks][]: iBeacon TODO reminder app based on Parse
-- [Jim][]: Track your gym workouts 🔶 
+- [Jim][]: Track your gym workouts 🔶
 - Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video 🔥
   - https://github.com/TomekB/Parse-Challenge-App
   - https://itunes.apple.com/app/lets-challenge-me/id944004497
@@ -683,7 +683,7 @@ Projects that are not in English have a flag
 - ParseStore: Backend provider for selling physical goods using Parse 🔥
   - https://github.com/ParsePlatform/ParseStore
   - https://itunes.apple.com/app/parse-store/id613679907
-- [Paws](http://www.appcoda.com/instagram-app-parse-swift/): Building an Instagram-Like App with Parse and Swift 🔶 
+- [Paws](http://www.appcoda.com/instagram-app-parse-swift/): Building an Instagram-Like App with Parse and Swift 🔶
 
 ### [React Native](http://facebook.github.io/react-native/)
 
@@ -735,7 +735,7 @@ Projects that are not in English have a flag
 - [HausClock](https://github.com/nottombrown/HausClock): Minimal Chess Clock using MVVM and ReactiveCocoa 🔶
 - ReactiveHackerNews: Hacker News reader with Tinder style interface, written in ObjC, uses MVVM & ReactiveCocoa
   - https://github.com/syshen/ReactiveHackerNews
-  - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368 
+  - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): A Flickr-search app that uses MVVM & ReactiveCocoa 🔶🔥🔥
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥🔥
 - [SwiftRACGoogleImages](https://github.com/Adlai-Holler/SwiftRACGoogleImages): Google image search using RAC 4.0 and Swift 2.1 🔶
@@ -743,6 +743,7 @@ Projects that are not in English have a flag
 
 #### [RXSwift](https://github.com/ReactiveX/RxSwift)
 
+- [GitHub API Client](https://github.com/tailec/boilerplate): GitHub client using MVVM and RxSwift 🔶
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy auction kiosk app, uses RxSwift 🔶�🔥🔥🔥🔥
 
 ### Realm
