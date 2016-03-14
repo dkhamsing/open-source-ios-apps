@@ -216,6 +216,9 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/mission-999/id1036686316
 - [Orbit7](https://github.com/Mav3r1ck/Orbit7): iOS Game created in SpriteKit 🔶
 - [Provenance][]: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥
+- Sakura Fly: Action game created in SpriteKit
+  - https://github.com/l800891/Sakura-Fly
+  - https://itunes.apple.com/app/sakura-fly/id1019023051
 - [SceneKitFrogger](https://github.com/devindazzle/SceneKitFrogger) 🔶
 - Spare Parts: Simple 2D point and line physics using Verlet integration
   - https://github.com/adamwulf/spare-parts-app
