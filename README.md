@@ -451,6 +451,9 @@ Projects that are not in English have a flag
 - Coding: Official Coding app 🔥🔥🔥
   - https://github.com/Coding/Coding-iOS
   - https://itunes.apple.com/app/coding/id923676989
+- DuckDuckGo: Official DuckDuckGo app
+  - https://github.com/duckduckgo/ios/
+  - https://itunes.apple.com/app/duckduckgo-search-stories/id663592361 
 - [Firefox][]: Official Firefox app 🔶🔥🔥🔥🔥🔥 ([Firefox on the App Store][])
 - [VLC][]: Official VLC app 🔥🔥🔥🔥 ([VLC on the App Store][], [VLC videolan.org][])
 - WhiteHouse: Official White House app 🔥🔥🔥
