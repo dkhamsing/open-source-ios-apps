@@ -746,7 +746,7 @@ Projects that are not in English have a flag
 
 #### [RXSwift](https://github.com/ReactiveX/RxSwift)
 
-- [GitHub API Client](https://github.com/tailec/boilerplate): GitHub client using MVVM and RxSwift 🔶
+- [GitHub API Client](https://github.com/tailec/boilerplate): GitHub client using MVVM and RxSwift 🔶🔥
 - [Kiosk](https://github.com/artsy/eidolon): The Artsy auction kiosk app, uses RxSwift 🔶�🔥🔥🔥🔥
 
 ### Realm
