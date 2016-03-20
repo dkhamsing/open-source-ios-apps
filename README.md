@@ -147,10 +147,10 @@ Projects that are not in English have a flag
 ## Conference
 
 - [NortalTechDay][]: Nortal TechDay 2015 app 🔥
-- [ParseDeveloperDay][]: Parse 2013 Developer Conference App
-- [RWDevCon](https://github.com/raywenderlich/RWDevCon-App): RWDevCon App 🔶
-- [trySwiftApp](https://github.com/tryswift/trySwiftApp): try! Swift Conference App 🔶🔥
-- [Valio](https://github.com/soffes/valio): Valio Con 2014 Schedule 🔶🔥🔥
+- [ParseDeveloperDay][]: Parse 2013 developer conference app
+- [RWDevCon](https://github.com/raywenderlich/RWDevCon-App): RWDevCon app 🔶
+- [trySwiftApp](https://github.com/tryswift/trySwiftApp): try! Swift conference app 🔶🔥
+- [Valio](https://github.com/soffes/valio): Valio Con 2014 schedule 🔶🔥🔥
 
 ## Content Blocking
 
