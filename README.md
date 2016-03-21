@@ -481,7 +481,7 @@ Projects that are not in English have a flag
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo) 🔶🔥🔥
 - [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler): Code examples for the new functions in iOS 8 🔥🔥🔥🔥🔥
 - [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler): Code examples for the new functions in iOS 9 🔶🔥🔥🔥🔥🔥
-- [Knock-to-React](https://github.com/MatheusCavalca/Knock-To-React): Example of how to built an exclusive feature to interact with users just by receiving and recognizing "knocks" in the device.
+- [Knock-to-React](https://github.com/MatheusCavalca/Knock-To-React): Interact with users just by receiving and recognizing "knocks" in the device
 - [Layer-Parse](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example): This is a Swift sample app that integrates Layer and Atlas with Parse 🔶
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶🔥🔥🔥
   - https://github.com/scotteg/LayerPlayer
@@ -569,6 +569,7 @@ Projects that are not in English have a flag
   - https://github.com/bemyeyes/bemyeyes-ios
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
 - [BlogQuest](https://github.com/irace/BlogQuest): Alternative Tumblr client
+- [Borrowed Books UFGRS:](https://github.com/MatheusCavalca/RenovaLivrosUFRGS) Manage borrowed books at UFRGS using SABI 🔶
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶🔥
 - [Colo](https://github.com/wongzigii/Colo): Color themes hunter
 - [DeckRocket](https://github.com/jpsim/DeckRocket): Turn your iPhone into a remote for Deckset presentations 🔶🔥🔥
@@ -606,7 +607,6 @@ Projects that are not in English have a flag
 - Population Clock: Learn about geography and demographics
   - https://github.com/Netfilter-Com/PopulationClock
   - https://itunes.apple.com/app/population-clock-hd/id590689957
-- [Borrowed Books UFGRS:](https://github.com/MatheusCavalca/RenovaLivrosUFRGS) Manage borrowed books at UFRGS using SABI. 🔶
 - Round & Split: Tip Calculator 🔶
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737 
