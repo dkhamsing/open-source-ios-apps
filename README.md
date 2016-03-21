@@ -169,6 +169,9 @@ Projects that are not in English have a flag
 - Charter: A Swift mailing list client for iPhone and iPad 🔶🔥
   - https://github.com/matthewpalmer/Charter
   - https://itunes.apple.com/app/charter-mailing-list-client/id1082212697
+- CI2Go: An unofficial CircleCI Client 🔶
+  - https://github.com/ngs/ci2go
+  - https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427
 - Monkey: GitHub third party client that shows the rank of coders and repositories 🔥🔥🔥
   - https://github.com/coderyi/Monkey
   - https://itunes.apple.com/app/monkey-for-github/id1003765407
