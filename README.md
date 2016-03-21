@@ -623,6 +623,7 @@ Projects that are not in English have a flag
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
 - [Words](https://github.com/soffes/words): Thesaurus app
+- [WWDC Students](https://github.com/wwdc): WWDC scholarship entry apps 🔶🔥
 - Yorkie: This app will help you take care of your dog
  - https://github.com/carlbutron/YorkieApp
  - https://itunes.apple.com/app/Yorkie/id1000836606
