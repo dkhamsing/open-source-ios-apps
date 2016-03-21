@@ -92,7 +92,7 @@ Projects that are not in English have a flag
 - [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
 - [OnTime](https://github.com/D-32/OnTime): Apple Watch app to access the SBB (Swiss railway) timetable
 - Parties for WWDC 🔥 
-  - https://github.com/sugarso/WWDC
+  - https://github.com/genadyo/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
 - PhoneBattery: Your phone's battery, on your wrist
   - https://github.com/marcelvoss/PhoneBattery
