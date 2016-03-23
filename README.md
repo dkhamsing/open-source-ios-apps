@@ -10,9 +10,9 @@ Jump to
 - [Communication](#communication)
 - [Conference](#conference)
 - [Content Blocking](#content-blocking)
-- [Games](#games)
 - [Developer](#developer)
 - [Finance](#finance)
+- [Games](#games)
 - [Health](#health)
 - [Keyboards](#keyboards)
 - [Location](#location)
@@ -182,6 +182,31 @@ Projects that are not in English have a flag
 - [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and the Mac Apps 🔶🔥
 - [wat](https://github.com/pj4533/wat): Very simple packet sniffer in Swift 🔶
 
+## Finance
+
+- BitStore: Bitcoin wallet
+  - https://github.com/BitStore/BitStore-iOS
+  - https://itunes.apple.com/app/bitstore/id890668158
+- breadwallet: Bitcoin wallet
+  - https://github.com/breadwallet/breadwallet
+  - https://itunes.apple.com/app/breadwallet/id885251393
+- Buck Tracker: Expense tracker 🔶
+  - https://github.com/hkalexling/Buck_Tracker
+  - https://itunes.apple.com/app/ibudgeter/id1048395728
+- [Coins](https://github.com/nothingmagical/coins): Bitcoin value tracker 🔶🔥
+- Concurrency: Beautiful, intuitive currency converter 🔥🔥
+  - https://github.com/nicklockwood/Concurrency
+  - https://itunes.apple.com/app/concurrency/id738872892
+- doughwallet: Dogecoin wallet
+  - https://github.com/peritus/doughwallet
+  - https://itunes.apple.com/app/doughwallet/id951731776
+- Savings Assistant: Expense tracker 🔶
+  - https://github.com/chrisamanse/savings-assistant
+  - https://itunes.apple.com/app/savings-assistant/id1022760996
+- TodayStocks: Lightweight stocks app that shows your portfolio in a minimalist today extension
+  - https://github.com/premnirmal/TodayStocks
+  - https://itunes.apple.com/app/todaystocks/id993467855
+
 ## Games
 
 - [翻翻看](https://github.com/geek5nan/FanFanSwift): Concentration game 🇨🇳 🔶🔥 
@@ -231,31 +256,6 @@ Projects that are not in English have a flag
 - Wolfenstein 3D: Wolfenstein 3D for iOS 🔥🔥
   - https://github.com/id-Software/Wolf3D-iOS
   - https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478
-
-## Finance
-
-- BitStore: Bitcoin wallet
-  - https://github.com/BitStore/BitStore-iOS
-  - https://itunes.apple.com/app/bitstore/id890668158
-- breadwallet: Bitcoin wallet
-  - https://github.com/breadwallet/breadwallet
-  - https://itunes.apple.com/app/breadwallet/id885251393
-- Buck Tracker: Expense tracker 🔶
-  - https://github.com/hkalexling/Buck_Tracker
-  - https://itunes.apple.com/app/ibudgeter/id1048395728
-- [Coins](https://github.com/nothingmagical/coins): Bitcoin value tracker 🔶🔥
-- Concurrency: Beautiful, intuitive currency converter 🔥🔥
-  - https://github.com/nicklockwood/Concurrency
-  - https://itunes.apple.com/app/concurrency/id738872892
-- doughwallet: Dogecoin wallet
-  - https://github.com/peritus/doughwallet
-  - https://itunes.apple.com/app/doughwallet/id951731776
-- Savings Assistant: Expense tracker 🔶
-  - https://github.com/chrisamanse/savings-assistant
-  - https://itunes.apple.com/app/savings-assistant/id1022760996
-- TodayStocks: Lightweight stocks app that shows your portfolio in a minimalist today extension
-  - https://github.com/premnirmal/TodayStocks
-  - https://itunes.apple.com/app/todaystocks/id993467855
 
 ## Health
 
