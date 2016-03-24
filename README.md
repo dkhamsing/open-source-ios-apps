@@ -326,7 +326,7 @@ Projects that are not in English have a flag
 
 *Image, video, audio, reading*
 
-- 360 VR Player: A Open Source, Ad-free, Native and Universal 360° video player for iOS. 🔥🔥🔥
+- 360 VR Player: Universal 360° video player 🔥🔥🔥
   - https://github.com/hanton/HTY360Player
   - https://itunes.apple.com/hk/app/360-vr-player/id1061464612?mt=8
 - [Analog Synth X](http://matthewfecher.com/app-developement/swift-synth/): Analog Synthesizer Keyboard Music App, created w/ Swift 2 🔶 ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX))
