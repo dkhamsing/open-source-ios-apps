@@ -377,6 +377,7 @@ Projects that are not in English have a flag
   - https://github.com/alecgorge/PhishOD-iOS
   - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018
 - [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app 🔶
+- [prankPro](https://github.com/huijimuhe/prankPro): Record a 6 second video while playing prank sounds
 - [Pugs](https://github.com/soffes/Pugs): Simple pug photo viewer 🔶
 - [Revolved](https://github.com/Ciechan/Revolved): 3D modelling app for the iPad 🔥🔥🔥
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶🔥
