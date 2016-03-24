@@ -486,7 +486,7 @@ Projects that are not in English have a flag
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo) 🔶🔥🔥
 - [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler): Code examples for the new functions in iOS 8 🔥🔥🔥🔥🔥
 - [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler): Code examples for the new functions in iOS 9 🔶🔥🔥🔥🔥🔥
-- [Knock-to-React](https://github.com/MatheusCavalca/Knock-To-React): Interact with users just by receiving and recognizing "knocks" in the device
+- [KnockToReact](https://github.com/MatheusCavalca/KnockToReact): Interact with users just by receiving and recognizing "knocks" in the device
 - [Layer-Parse](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example): This is a Swift sample app that integrates Layer and Atlas with Parse 🔶
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶🔥🔥🔥
   - https://github.com/scotteg/LayerPlayer
