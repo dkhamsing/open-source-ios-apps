@@ -528,6 +528,7 @@ Projects that are not in English have a flag
 - Task: Designed to quickly and easily add tasks to your iPhone 🔶
   - https://github.com/mbcrump/TasksForSwiftWithPersistingData
   - https://itunes.apple.com/app/task-application/id960435759
+- [Todo](https://github.com/JakeLin/Todo): A todo list app written in Swift 🔶🔥
 - Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place 🔥🔥
   - https://github.com/ginatrapani/todo.txt-ios
   - https://itunes.apple.com/app/todo.txt-touch/id491342186
