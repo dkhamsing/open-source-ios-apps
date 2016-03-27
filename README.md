@@ -105,7 +105,7 @@ Projects that are not in English have a flag
 - [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler): Code examples for new features of watchOS 2 🔶🔥🔥🔥
 - [WatchPics](https://github.com/D-32/WatchPics): Instagram app 
 - [WatchSnake](https://github.com/davidcairns/-WatchSnake): Game of Snake 🔶
-- [WatchStocks](https://github.com/G2Jose/WatchStocks): App to track your stocks portfolio, also includes a watch face complication 🔶
+- [WatchStocks](https://github.com/G2Jose/WatchStocks): Track your stocks portfolio, also includes a watch face complication 🔶
 - [Wunderschnell](https://github.com/contentful-labs/Wunderschnell): Order the right product with one tap on your wrist 🔶
 
 ## Browser
@@ -179,7 +179,7 @@ Projects that are not in English have a flag
 - OctoPodium: List user rankings based on GitHub repositories' number of stars 🔶
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
-- [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and the Mac Apps 🔶🔥
+- [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and Mac apps 🔶🔥
 - [wat](https://github.com/pj4533/wat): Very simple packet sniffer in Swift 🔶
 
 ## Finance
