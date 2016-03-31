@@ -508,6 +508,9 @@ Projects that are not in English have a flag
 - MiniKeePass: Secure Password Manager 🔥🔥
   - https://github.com/MiniKeePass/MiniKeePass
   - https://itunes.apple.com/app/id451661808
+- SkeletonKey: iPhone password manager with Dropbox
+  - https://github.com/chrishulbert/SkeletonKey
+  - https://itunes.apple.com/app/skeleton-key-password-manager/id513648119
 - [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage
 
 ## Social
