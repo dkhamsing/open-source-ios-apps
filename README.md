@@ -314,6 +314,7 @@ Projects that are not in English have a flag
 - OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more 🔥
  - https://github.com/OneBusAway/onebusaway-iphone
  - https://itunes.apple.com/app/onebusaway/id329380089
+- [OwnTracks](https://github.com/owntracks/ios): Keep track of your own location, you can build your private location diary or share it with your family and friends.
 - [pathlogger](https://github.com/eugenpirogoff/pathlogger): GPS logging application for iOS written in Swift 🔶
 - [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups and locate co-working spaces
