@@ -493,7 +493,7 @@ Projects that are not in English have a flag
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶🔥🔥🔥
   - https://github.com/scotteg/LayerPlayer
   - https://itunes.apple.com/app/layer-player/id949768742
-- [LVMC](https://github.com/falkolab/LVMC-Demo-Alloy-App): Multicolumn ListView helper library
+- [LVMC](https://github.com/falkolab/LVMC-Demo-Alloy-App): Multicolumn ListView helper library for Titanium
 - [Polls](https://github.com/apiaryio/polls-app): iOS Client for Polls API by Apiary 🔶
 - [RKGist](https://github.com/RestKit/RKGist): GitHub Gist app using RestKit
 - [Starship](https://github.com/kylef/Starship): A generic API client application for iOS using Hyperdrive 🔶
