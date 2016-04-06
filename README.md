@@ -612,6 +612,7 @@ Projects that are not in English have a flag
 - Onions: Cloud encrypted text storage app
   - https://github.com/onionsapp/Onions-iOS
   - https://itunes.apple.com/app/onions/id687296481
+- [Open States](https://github.com/sunlightlabs/openstates-ios): Browse state legislatures
 - ownCloud: File browser and sync for ownCloud file hosting service 🔥
   - https://github.com/owncloud/ios
   - https://itunes.apple.com/app/owncloud/id543672169
