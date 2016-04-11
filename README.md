@@ -275,6 +275,9 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/glucosuccess/id972143976 
 - [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift): Sample app for Apple HealthKit 🔶 
 - [Jim][]: Track your gym workouts 🔶 
+- LogU: A Strength Logger is a simple logging application for strength athletes.🔶
+- https://github.com/brettalcox/logU-swift
+- https://itunes.apple.com/us/app/logu-a-strength-logger/id1084487510?mt=8
 - mPower: ResearchKit app studying Parkinson's disease 
   - https://github.com/ResearchKit/mPower
   - https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200  
