@@ -568,7 +568,7 @@ Projects that are not in English have a flag
   - https://github.com/Aufree/phphub-ios
   - https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564
 - ProMonster: Store 🇧🇷
-  - https://github.com/usemobile/promonster_ios
+  - https://github.com/usemobile/promonster-ios
   - https://itunes.apple.com/app/promonster/id919649318
 - QiitaCollection: Technical knowledge sharing and collaboration platform 🇯🇵
   - https://github.com/anzfactory/QiitaCollection
