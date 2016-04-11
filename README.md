@@ -545,8 +545,8 @@ Projects that are not in English have a flag
   - https://github.com/binarylevel/Tinylog-iOS
   - https://itunes.apple.com/app/tinylog/id799267191
 - 1Trackr: Digitally log in your community service hours onto the cloud
-- https://github.com/JerryHDev/1Trackr
-- https://itunes.apple.com/us/app/1trackr-service-hour-tracking/id1072273630?ls=1&mt=8
+  - https://github.com/JerryHDev/1Trackr
+  - https://itunes.apple.com/us/app/1trackr-service-hour-tracking/id1072273630?ls=1&mt=8
 
 ## Weather
 
