@@ -121,6 +121,9 @@ Projects that are not in English have a flag
 
 ## Communication
 
+- Actor: Communication app with a focus on speed and security 
+  - https://github.com/actorapp/actor-platform
+  - https://itunes.apple.com/app/actor-messenger/id1025501036
 - [BLEMeshChat](https://github.com/chrisballinger/BLEMeshChat): Bluetooth LE mesh chat 🔥
 - [Chats](https://github.com/acani/Chats): Messages app 🔶🔥🔥🔥🔥u
 - ChatSecure: Encrypted chat app that supports OTR encryption over XMPP 🔥🔥🔥🔥
