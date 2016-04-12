@@ -171,7 +171,7 @@ Projects that are not in English have a flag
 
 - [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests 🔶
 - Codinator: Code editor for iPhone and iPad
-  - https://github.com/VWAS/codinator/branches
+  - https://github.com/VWAS/codinator
   - https://itunes.apple.com/app/codinator/id1024671232
 - Charter: A Swift mailing list client for iPhone and iPad 🔶🔥
   - https://github.com/matthewpalmer/Charter
