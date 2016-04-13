@@ -150,6 +150,7 @@ Projects that are not in English have a flag
 
 ## Conference
 
+- [EventBlankApp](https://github.com/icanzilb/EventBlankApp): App for events or conferences 🔶🔥🔥
 - [NortalTechDay][]: Nortal TechDay 2015 app 🔥
 - [ParseDeveloperDay][]: Parse 2013 developer conference app
 - [RWDevCon](https://github.com/raywenderlich/RWDevCon-App): RWDevCon app 🔶
