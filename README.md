@@ -424,7 +424,7 @@ Projects that are not in English have a flag
   - https://github.com/EvgenyKarkan/Feeds4U
   - https://itunes.apple.com/app/feeds4u/id1038456442
 - GrinnellEvents: Grinnell Events gathers all events on campus, and lists them so you can see what's happening
-  - https://github.com/Bautistax/Grinnell-Events-iOS
+  - https://github.com/kvnbautista/Grinnell-Events-iOS
   - https://itunes.apple.com/app/grinnell-events/id924312300
 - [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0) 🇨🇳 🔥🔥🔥
 - [Reddit](https://github.com/amitburst/reddit-demo): Reddit news app 🔶
