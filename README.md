@@ -730,6 +730,7 @@ Projects that are not in English have a flag
 - [Currency Converter](https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter)
 - [Den](https://github.com/asamiller/den): View houses for sale in the Northwest 🔥
 - [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app) 🔥🔥🔥
+- [F8 2016](https://github.com/fbsamples/f8app/) Official F8 app 🔥🔥🔥🔥
 - [Facebook Login](https://github.com/brentvatne/react-native-login) 🔥🔥
 - [Finance](https://github.com/7kfpun/FinanceReactNative): iOS's Stocks app written in React Native 🔥
 - [Foreign Exchange](https://github.com/peralmq/ForeignExchangeApp)
