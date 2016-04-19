@@ -604,7 +604,7 @@ Projects that are not in English have a flag
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶🔥
 - [Colo](https://github.com/wongzigii/Colo): Color themes hunter
 - [DeckRocket](https://github.com/jpsim/DeckRocket): Turn your iPhone into a remote for Deckset presentations 🔶🔥🔥
-- [https://github.com/Yogayu/EmotionNote](https://github.com/Yogayu/https://github.com/Yogayu/EmotionNote): Emotion diary — choose or take a photo of your face, the app will tell you your emotion 🔶
+- [EmotionNote](https://github.com/Yogayu/EmotionNote): Emotion diary — choose or take a photo of your face, the app will tell you your emotion 🔶
 - [GammaThingy](https://github.com/thomasfinch/GammaThingy): Change screen gamma dynamically 🔥🔥🔥
 - [GoodNight](https://github.com/anthonya1999/GoodNight): Change screen gamma dynamically 🔥🔥
 - GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
