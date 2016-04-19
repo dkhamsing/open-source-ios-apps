@@ -401,8 +401,7 @@ Projects that are not in English have a flag
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶🔥
 - [Swifteroid](https://github.com/eugenpirogoff/swifteroid): A manual HDR exposure camera app written in Swift 🔶
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶🔥🔥
-- [Swift Radio Pro](https://github.com/swiftcodex/Swift-Radio-Pro): Professional Radio Station App, created w/ Swift 2.0
-- 🔶🔥🔥🔥🔥
+- [Swift Radio Pro](https://github.com/swiftcodex/Swift-Radio-Pro): Professional Radio Station App, created w/ Swift 2.0 🔶🔥🔥🔥🔥
 - [SwiftSpace](https://github.com/FlexMonkey/SwiftSpace): CoreMotion Controlled Drawing in 3D Space 🔶
 - TechTavta: Keep track of all events for Techtatva 2015
   - https://github.com/shubhsin/TechTatva-15.git
