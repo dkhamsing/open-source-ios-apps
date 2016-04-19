@@ -288,6 +288,9 @@ Projects that are not in English have a flag
 - MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk
   - https://github.com/ResearchKit/MyHeartCounts
   - https://itunes.apple.com/app/id972189947
+- rTracker: A generic, customizable personal data tracker
+  - https://github.com/rob-miller/rTracker
+  - https://itunes.apple.com/app/rtracker-track-it-all-your-way/id486541371
 - Share The Journey: ResearchKit app studying Breast Cancer  
   - https://github.com/ResearchKit/ShareTheJourney
   - https://itunes.apple.com/app/share-the-journey/id972180604 
