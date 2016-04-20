@@ -552,6 +552,7 @@ Projects that are not in English have a flag
   - https://github.com/JerryHDev/1Trackr
   - https://itunes.apple.com/us/app/1trackr-service-hour-tracking/id1072273630
 - [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List): Store & retrieve tasks using CloudKit 🔶
+- [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) 🔶
 - [RealmToDo][]: A small todo list with Realm integration 🔶
 - Task: Designed to quickly and easily add tasks to your iPhone 🔶
   - https://github.com/mbcrump/TasksForSwiftWithPersistingData
