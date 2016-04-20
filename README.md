@@ -543,6 +543,9 @@ Projects that are not in English have a flag
 - Peggsite: App for sharing a social board
   - https://github.com/jenduf/GenericSocialApp
   - https://itunes.apple.com/app/peggsite/id938445951 
+- StreetMusicMap: Is a collaborative global community that connects street musicians, fans and videomakers.
+  - https://github.com/henriquevelloso/StreetMusicMap
+  - https://itunes.apple.com/us/app/street-music-map/id980068735
 - Yep: Discover talent and build something together 🔶🔥🔥🔥🔥🔥
   - https://github.com/CatchChat/Yep
   - https://itunes.apple.com/app/yep-meet-genius/id983891256
