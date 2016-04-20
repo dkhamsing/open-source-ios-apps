@@ -90,6 +90,7 @@ Projects that are not in English have a flag
 - [Impulse](https://github.com/Jasdev/Impulse): Real-time age ticker for iOS and watchOS 🔶
 - [KTPomodoro][]: Mini Pomodoro Timer app
 - [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html): List app example by Apple 🔶 
+- [Natural Language Clock](https://github.com/chadkeck/Natural-Language-Clock): Display the time as you would speak it 🔶
 - [OnTime](https://github.com/D-32/OnTime): Apple Watch app to access the SBB (Swiss railway) timetable
 - Parties for WWDC 🔥 
   - https://github.com/genadyo/WWDC
