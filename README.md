@@ -27,6 +27,7 @@ Jump to
 - [Web](#web)
 - [Misc](#misc)
 - Special
+  - [Appcelerator](#appcelerator)
   - [Core Data](#core-data)
   - [Ionic](#ionic)
   - [Parse](#parse)
@@ -405,7 +406,7 @@ Projects that are not in English have a flag
 - [Swift Radio Pro](https://github.com/swiftcodex/Swift-Radio-Pro): Professional Radio Station App, created w/ Swift 2.0 🔶🔥🔥🔥🔥
 - [SwiftSpace](https://github.com/FlexMonkey/SwiftSpace): CoreMotion Controlled Drawing in 3D Space 🔶
 - TechTavta: Keep track of all events for Techtatva 2015
-  - https://github.com/shubhsin/TechTatva-15
+  - https://github.com/LUGM/TechTatva-15
   - https://itunes.apple.com/in/app/techtatva15/id922178880
 - That Movie With: Find common movies among actors
   - https://github.com/jayhickey/thatmoviewith
@@ -699,6 +700,10 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/fojusi/id923044693
 
 ## Special
+
+### Appcelerator
+
+- [Tracker 4 Compassion](https://github.com/fokkezb/tracker)
 
 ### Core Data
 
