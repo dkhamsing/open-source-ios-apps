@@ -67,7 +67,7 @@ Projects that are not in English have a flag
   - https://github.com/bither/bither-ios ([extension](https://github.com/bither/bither-ios/tree/master/bither-ios%20WatchKit%20Extension))
   - https://itunes.apple.com/app/bither/id899478936
 - Brew: Discover craft beer pubs nearby 🔶
-  - https://github.com/contentful-labs/ContentfulWatchKitExample
+  - https://github.com/contentful/ContentfulWatchKitExample
   - https://itunes.apple.com/app/id986830433
 - Bus Today: Track bus line on your wrist 🇨🇳
   - https://github.com/JohnWong/bus-today
