@@ -703,7 +703,9 @@ Projects that are not in English have a flag
 
 ### Appcelerator
 
-- [Tracker 4 Compassion](https://github.com/fokkezb/tracker)
+- Tracker 4 Compassion: Track your walk, run or ride
+  - https://github.com/fokkezb/tracker
+  - https://itunes.apple.com/app/g.o.-tracker-4-compassion/id1100240821
 
 ### Core Data
 
