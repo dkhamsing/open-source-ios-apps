@@ -149,6 +149,7 @@ Projects that are not in English have a flag
 - Telegram: Messaging app with a focus on speed and security 🔥🔥🔥
   - https://github.com/peter-iakovlev/Telegram
   - https://itunes.apple.com/app/telegram-messenger/id686449807
+- [TextEthan](https://github.com/thii/TextEthan): Clone of TextEthan, a messaging app that allows anyone to message you 🔶
 
 ## Conference
 
