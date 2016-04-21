@@ -283,7 +283,7 @@ Projects that are not in English have a flag
 - [Jim][]: Track your gym workouts 🔶 
 - LogU: A Strength Logger is a simple logging application for strength athletes.🔶
   - https://github.com/brettalcox/logU-swift
-  - https://itunes.apple.com/us/app/logu-a-strength-logger/id1084487510?mt=8
+  - https://itunes.apple.com/app/logu-a-strength-logger/id1084487510
 - mPower: ResearchKit app studying Parkinson's disease 
   - https://github.com/ResearchKit/mPower
   - https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200  
@@ -348,7 +348,7 @@ Projects that are not in English have a flag
 
 - 360 VR Player: Universal 360° video player 🔥🔥🔥
   - https://github.com/hanton/HTY360Player
-  - https://itunes.apple.com/hk/app/360-vr-player/id1061464612?mt=8
+  - https://itunes.apple.com/app/360-vr-player/id1061464612
 - [Analog Synth X](http://matthewfecher.com/app-developement/swift-synth/): Analog Synthesizer Keyboard Music App, created w/ Swift 2 🔶 ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX))
 - Artsy: The Art World in Your Pocket 🔥🔥🔥🔥
   - https://github.com/artsy/eigen
@@ -546,7 +546,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/peggsite/id938445951 
 - StreetMusicMap: Is a collaborative global community that connects street musicians, fans and videomakers.
   - https://github.com/henriquevelloso/StreetMusicMap
-  - https://itunes.apple.com/us/app/street-music-map/id980068735
+  - https://itunes.apple.com/app/street-music-map/id980068735
 - Yep: Discover talent and build something together 🔶🔥🔥🔥🔥🔥
   - https://github.com/CatchChat/Yep
   - https://itunes.apple.com/app/yep-meet-genius/id983891256
@@ -555,7 +555,7 @@ Projects that are not in English have a flag
 
 - 1Trackr: Digitally log in your community service hours onto the cloud
   - https://github.com/JerryHDev/1Trackr
-  - https://itunes.apple.com/us/app/1trackr-service-hour-tracking/id1072273630
+  - https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630
 - [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List): Store & retrieve tasks using CloudKit 🔶
 - [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) 🔶
 - [RealmToDo][]: A small todo list with Realm integration 🔶
