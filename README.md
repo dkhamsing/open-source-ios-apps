@@ -524,6 +524,7 @@ Projects that are not in English have a flag
 - [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest): Demo showing how to auto-login users in iOS 9 based on Safari cookies 🔶
 - [Starship](https://github.com/kylef/Starship): A generic API client application for iOS using Hyperdrive 🔶
 - [StateRestorationDemo](https://github.com/shagedorn/StateRestorationDemo): App to demonstrate state preservation and restoration APIs 🔶
+- [Swift-Demos](https://github.com/Lax/iOS-Swift-Demos): Collection of demos for Swift 🇨🇳🔶
 
 ## Security
 
