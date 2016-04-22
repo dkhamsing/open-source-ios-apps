@@ -520,11 +520,12 @@ Projects that are not in English have a flag
   - https://github.com/openshopio/openshop.io-ios
   - https://itunes.apple.com/app/id1088689646
 - [Polls](https://github.com/apiaryio/polls-app): iOS Client for Polls API by Apiary 🔶
+- [Reusable Code](https://github.com/carlbutron/Swift): Reusable code, written in Swift 🔶🔥🔥🔥🔥🔥
 - [RKGist](https://github.com/RestKit/RKGist): GitHub Gist app using RestKit
 - [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest): Demo showing how to auto-login users in iOS 9 based on Safari cookies 🔶
 - [Starship](https://github.com/kylef/Starship): A generic API client application for iOS using Hyperdrive 🔶
 - [StateRestorationDemo](https://github.com/shagedorn/StateRestorationDemo): App to demonstrate state preservation and restoration APIs 🔶
-- [Swift-Demos](https://github.com/Lax/iOS-Swift-Demos): Collection of demos for Swift 🇨🇳🔶
+- [Swift-Demos](https://github.com/Lax/iOS-Swift-Demos): Collection of demos for Swift 🇨🇳🔶🔥🔥🔥🔥
 
 ## Security
 
