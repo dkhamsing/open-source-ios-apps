@@ -563,6 +563,7 @@ Projects that are not in English have a flag
 - [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List): Store & retrieve tasks using CloudKit 🔶
 - [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) 🔶
 - [RealmToDo][]: A small todo list with Realm integration 🔶
+- [Swift Off](https://github.com/goprimer/swift-off-todo): Firebase powered to do app built in Swift, includes tutorial 🔶
 - Task: Designed to quickly and easily add tasks to your iPhone 🔶
   - https://github.com/mbcrump/TasksForSwiftWithPersistingData
   - https://itunes.apple.com/app/task-application/id960435759
