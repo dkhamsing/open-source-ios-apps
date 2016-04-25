@@ -334,6 +334,9 @@ Projects that are not in English have a flag
  - https://github.com/OneBusAway/onebusaway-iphone
  - https://itunes.apple.com/app/onebusaway/id329380089
 - [OwnTracks](https://github.com/owntracks/ios): Keep track of your own location, you can build your private location diary or share it with your family and friends.
+- ParkenDD: Check the status of several public parking lots in Germany and Switzerland 🔶
+  - https://github.com/kiliankoe/ParkenDD
+  - https://itunes.apple.com/de/app/parkendd/id957165041
 - [pathlogger](https://github.com/eugenpirogoff/pathlogger): GPS logging application for iOS written in Swift 🔶
 - [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups and locate co-working spaces
