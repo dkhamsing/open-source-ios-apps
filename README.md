@@ -666,6 +666,9 @@ Projects that are not in English have a flag
 - Runner-Stats: iPhone app to record running data
   - https://github.com/hukun01/Runner-Stats
   - https://itunes.apple.com/app/runner-stats/id793443821
+- Swiflytics: See your realtime Google Analytics data 🔶
+  - https://github.com/aciidb0mb3r/Swiflytics
+  - https://itunes.apple.com/app/swiflytics/id1076165139
 - [Tether](https://github.com/chrisballinger/Tether-iOS): Tethering for non-jailbroken iOS Devices over USB
 - [Theseus](https://github.com/lazerwalker/Theseus): Personal analytics tool 🔥🔥🔥 
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
