@@ -217,6 +217,9 @@ Projects that are not in English have a flag
 - TodayStocks: Lightweight stocks app that shows your portfolio in a minimalist today extension
   - https://github.com/premnirmal/TodayStocks
   - https://itunes.apple.com/app/todaystocks/id993467855
+- ToThePenny: Budget tracker
+  - https://github.com/vanyaland/ToThePenny
+  - https://itunes.apple.com/app/tothepenny/id994476075
 
 ## Games
 
