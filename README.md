@@ -623,7 +623,8 @@ Projects that are not in English have a flag
   - https://github.com/bemyeyes/bemyeyes-ios
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
 - [BlogQuest](https://github.com/irace/BlogQuest): Alternative Tumblr client
-- [Borrowed Books UFGRS:](https://github.com/MatheusCavalca/RenovaLivrosUFRGS) Manage borrowed books at UFRGS using SABI 🔶
+- [Borrowed Books UFGRS](https://github.com/MatheusCavalca/RenovaLivrosUFRGS): Manage borrowed books at UFRGS using SABI 🔶
+- [CardDecks](https://github.com/aharren/CardDecks): Configurable card decks
 - [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac) 🔶🔥
 - [Colo](https://github.com/wongzigii/Colo): Color themes hunter
 - [DeckRocket](https://github.com/jpsim/DeckRocket): Turn your iPhone into a remote for Deckset presentations 🔶🔥🔥
