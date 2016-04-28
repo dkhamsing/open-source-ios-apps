@@ -80,7 +80,7 @@ Projects that are not in English have a flag
 - Cortado: Track your caffeine consumption habits 🔥
   - https://github.com/lazerwalker/cortado
   - https://itunes.apple.com/app/cortado/id969899327
-- [Done][]: Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
+- [Done][]: Data sharing between a WatchKit app and its main app using Realm 🔶
 - [FlickrWatch](https://github.com/jazzychad/FlickrWatch): Apple Watch face using Flickr API
 - Gulps: Track your daily water consumption 🔶🔥🔥
   - https://github.com/FancyPixel/gulps
@@ -530,7 +530,7 @@ Projects that are not in English have a flag
 - [RKGist](https://github.com/RestKit/RKGist): GitHub Gist app using RestKit
 - [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest): Demo showing how to auto-login users in iOS 9 based on Safari cookies 🔶
 - [Starship](https://github.com/kylef/Starship): A generic API client application for iOS using Hyperdrive 🔶
-- [StateRestorationDemo](https://github.com/shagedorn/StateRestorationDemo): App to demonstrate state preservation and restoration APIs 🔶
+- [StateRestorationDemo](https://github.com/shagedorn/StateRestorationDemo): State preservation and restoration APIs 🔶
 - [Swift-Demos](https://github.com/Lax/iOS-Swift-Demos): Collection of demos for Swift 🇨🇳🔶🔥🔥🔥🔥
 
 ## Security
@@ -690,7 +690,7 @@ Projects that are not in English have a flag
 
 ### 3D Touch
 
-- [ForceSketch](https://github.com/FlexMonkey/ForceSketch): Demonstration of a sketching app using 3D Touch
+- [ForceSketch](https://github.com/FlexMonkey/ForceSketch): Sketching app using 3D Touch
 - [Plum-O-Meter](https://github.com/FlexMonkey/Plum-O-Meter): 3D Touch Application for Weighing Plums (and other small fruit!) 🔶🔥🔥
 
 ### Calendar
@@ -825,7 +825,7 @@ Projects that are not in English have a flag
 
 ### Realm
 
-- [Done][]: Demonstrate data sharing between a WatchKit app and its main app using Realm 🔶
+- [Done][]: Data sharing between a WatchKit app and its main app using Realm 🔶
 - [RealmToDo][]: A small todo list with Realm integration 🔶
 
 ### [VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
