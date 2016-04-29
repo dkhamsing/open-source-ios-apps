@@ -82,6 +82,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/cortado/id969899327
 - [Done][]: Data sharing between a WatchKit app and its main app using Realm 🔶
 - [FlickrWatch](https://github.com/jazzychad/FlickrWatch): Apple Watch face using Flickr API
+- [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard): Hang a TV in your open space / team room to show everyone what's up and get them up to speed 🔶🔥
 - Gulps: Track your daily water consumption 🔶🔥🔥
   - https://github.com/FancyPixel/gulps
   - https://itunes.apple.com/app/gulps/id979057304
