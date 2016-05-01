@@ -408,6 +408,7 @@ Projects that are not in English have a flag
 - [prankPro](https://github.com/huijimuhe/prankPro): Record a 6 second video while playing prank sounds
 - [Pugs](https://github.com/soffes/Pugs): Simple pug photo viewer 🔶
 - [Revolved](https://github.com/Ciechan/Revolved): 3D modelling app for the iPad 🔥🔥🔥
+- [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift): SoundCloud client written on Swift 🔶🔥
 - [Swift ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art) 🔶🔥
 - [Swifteroid](https://github.com/eugenpirogoff/swifteroid): A manual HDR exposure camera app written in Swift 🔶
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp): Flickr popular photo viewer 🔶🔥🔥
