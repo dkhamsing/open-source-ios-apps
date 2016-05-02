@@ -1,0 +1,11 @@
+machine:
+  ruby:
+    version: 2.2.0
+test:
+  pre:
+    - gem install awesome_bot
+  override:
+    - awesome_bot README.md
+general:
+  artifacts:
+    - "results.json"
