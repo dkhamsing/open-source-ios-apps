@@ -678,6 +678,7 @@ Projects that are not in English have a flag
 - [Tether](https://github.com/chrisballinger/Tether-iOS): Tethering for non-jailbroken iOS Devices over USB
 - [Theseus](https://github.com/lazerwalker/Theseus): Personal analytics tool 🔥🔥🔥 
 - [TheReservist](https://github.com/kimar/TheReservist): Check availability of iPhones 🔶
+- [TrollDrop](https://github.com/a2/TrollDrop): AirDrop trollfaces to everyone
 - VPN On: Today Widget to turn on VPN 🔶🔥🔥🔥🔥
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
