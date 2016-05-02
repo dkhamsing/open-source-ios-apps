@@ -771,6 +771,7 @@ Projects that are not in English have a flag
   - [TicTacToe](https://github.com/facebook/react-native/tree/master/Examples/TicTacToe)
   - [UIExplorer](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer)
 - [Around Me](https://github.com/bgryszko/react-native-example): Display Instagram photos around your location
+- [Assemblies](https://github.com/buildreactnative/assemblies): Developer-focused Meetup clone 🔥
 - [Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) 🔥🔥🔥🔥
 - [Currency Converter](https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter)
 - [Den](https://github.com/asamiller/den): View houses for sale in the Northwest 🔥
