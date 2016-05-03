@@ -685,6 +685,9 @@ Projects that are not in English have a flag
 - Vinylogue: Simple Last.fm client
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
+- WaniKani: Client app for WaniKani.com site (learn kanji) 🔶
+  - https://github.com/haawa799/WaniKani-iOS
+  - https://itunes.apple.com/app/wanikani/id1034355141
 - [Words](https://github.com/soffes/words): Thesaurus app
 - [WWDC Students](https://github.com/wwdc): WWDC scholarship entry apps 🔶🔥
 - Yorkie: This app will help you take care of your dog
