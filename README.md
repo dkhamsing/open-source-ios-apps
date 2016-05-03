@@ -644,6 +644,8 @@ Projects that are not in English have a flag
   - https://github.com/semweb/GreatReader
   - https://itunes.apple.com/app/greatreader/id903651112
 - [HackCancer](https://github.com/HackCancer/iOS): [Hackathon app](http://www.hackcancer.co/) 🔶
+- [Hidrate](https://github.com/mjcuva/Hidrate): App for smart water bottle
+
 - [iCopyPasta](https://github.com/alltheflow/iCopyPasta): Pasteboard feed app 🔶🔥
 - iContactU: Reminds you to contact people you ought to 🔶🔥
   - https://github.com/rizal72/iContactU
