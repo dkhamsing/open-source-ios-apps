@@ -709,7 +709,7 @@ Projects that are not in English have a flag
  - https://github.com/mpak/Workdays
  - https://itunes.apple.com/app/workdays-calendar/id889712978
 
-# Text
+### Text
 
 - Edhita: Text editor 🔶🔥🔥🔥
   - https://github.com/tnantoka/edhita
