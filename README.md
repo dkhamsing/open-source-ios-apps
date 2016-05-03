@@ -184,6 +184,15 @@ Projects that are not in English have a flag
 - CI2Go: An unofficial CircleCI Client 🔶
   - https://github.com/ngs/ci2go
   - https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427
+- [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and Mac apps 🔶🔥
+- TLDR Man Page: Reference dictionary for computer manual commands, but in TL;DR (Too long didn't read) mode 🔶
+  - https://github.com/freesuraj/TLDR
+  - https://itunes.apple.com/app/tldr-man-page/id1073433250
+- [wat](https://github.com/pj4533/wat): Very simple packet sniffer in Swift 🔶
+
+### GitHub
+
+- [Github-Swift](https://github.com/acmacalister/Github-Swift): App written in Swift using the Github API 🔶
 - Monkey: GitHub third party client that shows the rank of coders and repositories 🔥🔥🔥
   - https://github.com/coderyi/Monkey
   - https://itunes.apple.com/app/monkey-for-github/id1003765407
@@ -191,11 +200,6 @@ Projects that are not in English have a flag
 - OctoPodium: List user rankings based on GitHub repository star count 🔶
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
-- [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and Mac apps 🔶🔥
-- TLDR Man Page: Reference dictionary for computer manual commands, but in TL;DR (Too long didn't read) mode 🔶
-  - https://github.com/freesuraj/TLDR
-  - https://itunes.apple.com/app/tldr-man-page/id1073433250
-- [wat](https://github.com/pj4533/wat): Very simple packet sniffer in Swift 🔶
 
 ## Finance
 
