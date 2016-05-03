@@ -739,6 +739,7 @@ Projects that are not in English have a flag
 
 - [DVD Collection Tracker](https://github.com/chrismiles/OrganisingCoreData)
 - [Nested Lists](https://github.com/objcio/issue-4-full-core-data-application) 🔥
+- [Tasks](https://github.com/mbcrump/TasksForSwiftWithPersistingData) 🔶
 
 ### [Ionic](http://ionicframework.com/)
 
