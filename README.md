@@ -192,6 +192,9 @@ Projects that are not in English have a flag
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
 - [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and Mac apps 🔶🔥
+- TLDR Man Page: Reference dictionary for computer manual commands, but in TL;DR (Too long didn't read) mode 🔶
+  - https://github.com/freesuraj/TLDR
+  - https://itunes.apple.com/app/tldr-man-page/id1073433250
 - [wat](https://github.com/pj4533/wat): Very simple packet sniffer in Swift 🔶
 
 ## Finance
