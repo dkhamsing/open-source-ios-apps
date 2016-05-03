@@ -813,7 +813,8 @@ Projects that are not in English have a flag
 - [Sudoku](https://github.com/christopherdro/react-native-sudoku)
 - [To Do List](https://github.com/joemaddalone/react-native-todo)
 - [Twitch](https://github.com/IFours/react-native-twitch)
-- [WeatherApp][]
+- [Weather](https://github.com/JakeLin/ReactNativeWeather): by JakeLin
+- [WeatherApp][]: by jsphkhan
 
 ### Reactive Programming
 
