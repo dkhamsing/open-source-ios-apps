@@ -8,4 +8,4 @@ test:
     - awesome_bot README.md
 general:
   artifacts:
-    - "results.json"
+    - "ab-results.json"
