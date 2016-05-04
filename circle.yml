@@ -5,7 +5,7 @@ test:
   pre:
     - gem install awesome_bot
   override:
-    - awesome_bot README.md
+    - awesome_bot README.md --white-list developer.apple
 general:
   artifacts:
     - "ab-results.json"
