@@ -582,9 +582,6 @@ Projects that are not in English have a flag
 - [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) 🔶
 - [RealmToDo][]: A small todo list with Realm integration 🔶
 - [Swift Off](https://github.com/goprimer/swift-off-todo): Firebase powered to do app built in Swift, includes tutorial 🔶
-- Task: Designed to quickly and easily add tasks to your iPhone 🔶
-  - https://github.com/mbcrump/TasksForSwiftWithPersistingData
-  - https://itunes.apple.com/app/task-application/id960435759
 - [Todo](https://github.com/JakeLin/Todo): A todo list app written in Swift 🔶🔥
 - Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place 🔥🔥
   - https://github.com/ginatrapani/todo.txt-ios
@@ -745,7 +742,9 @@ Projects that are not in English have a flag
 
 - [DVD Collection Tracker](https://github.com/chrismiles/OrganisingCoreData)
 - [Nested Lists](https://github.com/objcio/issue-4-full-core-data-application) 🔥
-- [Tasks](https://github.com/mbcrump/TasksForSwiftWithPersistingData) 🔶
+- Tasks: Designed to quickly and easily add tasks to your iPhone 🔶
+  - https://github.com/mbcrump/TasksForSwiftWithPersistingData
+  - https://itunes.apple.com/app/task-application/id960435759
 
 ### [Ionic](http://ionicframework.com/)
 
