@@ -253,6 +253,7 @@ Projects that are not in English have a flag
   - https://github.com/id-Software/DOOM-IOS2
   - https://itunes.apple.com/app/doom-ii-rpg/id354051766 
 - [Dungeon Crawl](https://github.com/CliffsDover/crawl/tree/iOS_Release): A game of dungeon exploration, combat and magic, involving characters of diverse skills
+- [Five-In-A-Row](https://github.com/WelkinXie/FiveInARow): Five In A Row (五子棋) game with SpriteKit. 🇨🇳
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird 🔶🔥🔥🔥🔥🔥
 - [Game Of Life](https://github.com/yonbergman/swift-gameoflife): Conway's Game of Life 🔶
 - [GBA4iOS](https://bitbucket.org/rileytestut/gba4ios/): Gameboy, Gameboy Color & Gameboy Advance emulator for iOS.
