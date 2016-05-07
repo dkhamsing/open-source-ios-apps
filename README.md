@@ -279,6 +279,7 @@ Projects that are not in English have a flag
 - Wolfenstein 3D: Wolfenstein 3D for iOS 🔥🔥
   - https://github.com/id-Software/Wolf3D-iOS
   - https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478
+- [Five-In-A-Row](https://github.com/WelkinXie/FiveInARow): Five In A Row (五子棋) game with SpriteKit. 🇨🇳
 
 ## Health
 
