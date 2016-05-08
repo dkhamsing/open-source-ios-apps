@@ -335,6 +335,9 @@ Projects that are not in English have a flag
 - Cafe 🔶🇨🇳
   - https://github.com/flexih/Cafe
   - https://itunes.apple.com/app/diao-ke-shi-guang/id440983941
+- DoctorNearby: Is a healthcare app, which helps you find doctors in your city
+  - https://github.com/vincezzh/doctornearby-ios
+  - https://itunes.apple.com/app/doctor-nearby/id1068715113
 - EatNow: Get recommendations for nearby restaurants.
   - https://github.com/callzhang/Eat-Now
   - https://itunes.apple.com/app/eat-now-instant-personalized/id946591471
