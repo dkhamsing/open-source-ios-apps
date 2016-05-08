@@ -174,6 +174,9 @@ Projects that are not in English have a flag
 
 ## Developer
 
+- AppLove: View app reviews for all territories (countries) 🔶
+  - https://github.com/snowpunch/AppLove
+  - https://itunes.apple.com/app/app-love/id1099336831
 - [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests 🔶
 - Codinator: Code editor for iPhone and iPad
   - https://github.com/VWAS/codinator
