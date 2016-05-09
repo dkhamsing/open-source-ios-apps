@@ -150,11 +150,13 @@
 	}, {
 		"title": "EX Player",
 		"category": "apple-tv",
-		"description": "Watch video from ex.ua on your TV"
+		"description": "Watch video from ex.ua on your TV",
+		"source": "https://github.com/IGRSoft/exTVPlayer"
 	}, {
 		"title": "Provenance",
 		"category": "apple-tv",
 		"description": "Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more",
+		"source": "https://github.com/jasarien/Provenance",
 		"stars": 1000
 	}, {
 		"title": "UitzendingGemist",
@@ -210,6 +212,7 @@
 		"title": "Cherry",
 		"category": "apple-watch",
 		"description": "Mini Pomodoro Timer app",
+		"source": "https://github.com/kenshin03/Cherry",
 		"stars": 200,
 		"tags": ["swift"]
 	}, {
@@ -234,6 +237,7 @@
 		"title": "Done",
 		"category": "apple-watch",
 		"description": "Data sharing between a WatchKit app and its main app using Realm",
+		"source": "https://github.com/FancyPixel/done-swift",
 		"tags": ["swift"]
 	}, {
 		"title": "FlickrWatch",
@@ -273,6 +277,8 @@
 		"title": "HN Reader",
 		"category": "apple-watch",
 		"description": "Hacker News Reader   ([HN Reader on the App Store][])",
+		"source": "https://github.com/Dimillian/SwiftHN",
+		"itunes": "https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741",
 		"stars": 500,
 		"tags": ["swift"]
 	}, {
@@ -284,7 +290,8 @@
 	}, {
 		"title": "KTPomodoro",
 		"category": "apple-watch",
-		"description": "Mini Pomodoro Timer app"
+		"description": "Mini Pomodoro Timer app",
+		"source": "https://github.com/kenshin03/KTPomodoro"
 	}, {
 		"title": "Lister",
 		"category": "apple-watch",
@@ -391,7 +398,9 @@
 	}, {
 		"title": "Firefox",
 		"category": "browser",
-		"description": "Official Firefox app  ([Firefox on the App Store][])",
+		"description": "Official Firefox app",
+		"source": "https://github.com/mozilla/firefox-ios",
+		"itunes": "https://itunes.apple.com/app/firefox-web-browser/id989804926",
 		"stars": 2000,
 		"tags": ["swift"]
 	}, {
@@ -495,11 +504,13 @@
 		"title": "NortalTechDay",
 		"category": "conference",
 		"description": "Nortal TechDay 2015 app",
+		"source": "https://github.com/mikkoj/NortalTechDay",
 		"stars": 100
 	}, {
 		"title": "ParseDeveloperDay",
 		"category": "conference",
-		"description": "Parse 2013 developer conference app"
+		"description": "Parse 2013 developer conference app",
+		"source": "https://github.com/ParsePlatform/ParseDeveloperDay"
 	}, {
 		"title": "RWDevCon",
 		"category": "conference",
@@ -820,6 +831,7 @@
 		"title": "Provenance",
 		"category": "games",
 		"description": "Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more",
+		"source": "https://github.com/jasarien/Provenance",
 		"stars": 1000
 	}, {
 		"title": "Sakura Fly",
@@ -888,6 +900,7 @@
 		"title": "Jim",
 		"category": "health",
 		"description": "Track your gym workouts",
+		"source": "https://github.com/kylejm/Jim",
 		"tags": ["swift"]
 	}, {
 		"title": "LogU",
@@ -1002,7 +1015,8 @@
 	}, {
 		"title": "iBeaconTasks",
 		"category": "location",
-		"description": "iBeacon TODO reminder app based on Parse"
+		"description": "iBeacon TODO reminder app based on Parse",
+		"source": "https://github.com/TomekB/iBeaconTasks"
 	}, {
 		"title": "Locative",
 		"category": "location",
@@ -1019,6 +1033,8 @@
 		"title": "OneBusAway",
 		"category": "location",
 		"description": "Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more",
+		"source": "https://github.com/OneBusAway/onebusaway-iphone",
+		"itunes": "https://itunes.apple.com/app/onebusaway/id329380089",
 		"stars": 100
 	}, {
 		"title": "OwnTracks",
@@ -1135,7 +1151,8 @@
 	}, {
 		"title": "EX Player",
 		"category": "media",
-		"description": "Watch video from ex.ua on iOS device"
+		"description": "Watch video from ex.ua on iOS device",
+		"source": "https://github.com/IGRSoft/exTVPlayer"
 	}, {
 		"title": "Filterpedia",
 		"category": "media",
@@ -1308,7 +1325,10 @@
 	}, {
 		"title": "VLC",
 		"category": "media",
-		"description": "Media Player  ([VLC on the App Store][], [VLC videolan.org][])",
+		"description": "Media Player",
+		"source": "https://github.com/videolan/vlc",
+		"homepage": "https://www.videolan.org/",
+		"itunes": "https://itunes.apple.com/app/vlc-for-ios/id650377962",
 		"stars": 1000
 	}, {
 		"title": "VoiceMemos",
@@ -1425,7 +1445,9 @@
 	}, {
 		"title": "HN Reader",
 		"category": "hacker-news",
-		"description": "Hacker News Reader   ([HN Reader on the App Store][])",
+		"description": "Hacker News Reader",
+		"source": "https://github.com/Dimillian/SwiftHN",
+		"itunes": "https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741",
 		"stars": 500,
 		"tags": ["swift"]
 	}, {
@@ -1465,13 +1487,18 @@
 	}, {
 		"title": "Firefox",
 		"category": "official",
-		"description": "Official Firefox app  ([Firefox on the App Store][])",
+		"description": "Official Firefox app",
+		"source": "https://github.com/mozilla/firefox-ios",
+		"itunes": "https://itunes.apple.com/app/firefox-web-browser/id989804926",
 		"stars": 2000,
 		"tags": ["swift"]
 	}, {
 		"title": "VLC",
 		"category": "official",
-		"description": "Official VLC app  ([VLC on the App Store][], [VLC videolan.org][])",
+		"description": "Official VLC app",
+		"source": "https://github.com/videolan/vlc",
+		"homepage": "https://www.videolan.org/",
+		"itunes": "https://itunes.apple.com/app/vlc-for-ios/id650377962",
 		"stars": 1000
 	}, {
 		"title": "WhiteHouse",
@@ -1503,10 +1530,14 @@
 		"stars": 200,
 		"tags": ["swift"]
 	}, {
-		"title": "Code by Apple",
+		"title": "Apple Developer Library",
 		"category": "sample",
-		"homepage": "[WWDC 2015](https://developer.apple.com/sample-code/wwdc/2015/)",
-		"stars": 500
+		"source": "https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code"
+	}, {
+		"title": "Apple WWDC 2015",
+		"category": "sample",
+		"description": "Code samples from WWDC 2015",
+		"source": "https://developer.apple.com/sample-code/wwdc/2015/"
 	}, {
 		"title": "CloudKit",
 		"category": "sample",
@@ -1624,8 +1655,9 @@
 		"stars": 1000,
 		"tags": ["swift"]
 	}, {
-		"title": "FreeOTP Two-Factor Authentication",
+		"title": "FreeOTP Authenticator",
 		"category": "security",
+		"description": "Two-Factor Authentication",
 		"homepage": "https://fedorahosted.org/freeotp/browser/ios",
 		"itunes": "https://itunes.apple.com/app/freeotp/id872559395"
 	}, {
@@ -1702,6 +1734,7 @@
 		"title": "RealmToDo",
 		"category": "tasks",
 		"description": "A small todo list with Realm integration",
+		"source": "https://github.com/pietbrauer/RealmToDo",
 		"tags": ["swift"]
 	}, {
 		"title": "Swift Off",
@@ -1772,12 +1805,15 @@
 	}, {
 		"title": "Tropos",
 		"category": "weather",
-		"description": "A weather app using ReactiveCocoa and Forecast.io  ([Tropos on the App Store][])",
+		"description": "A weather app using ReactiveCocoa and Forecast.io",
+		"source": "https://github.com/thoughtbot/Tropos",
+		"itunes": "https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376",
 		"stars": 1000
 	}, {
 		"title": "WeatherApp",
 		"category": "weather",
-		"description": "Weather app using React Native"
+		"description": "Weather app using React Native",
+		"source": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp"
 	}, {
 		"title": "WeatherMap",
 		"category": "weather",
@@ -2061,7 +2097,9 @@
 	}, {
 		"title": "Yorkie",
 		"category": "misc",
-		"description": "This app will help you take care of your dog"
+		"description": "This app will help you take care of your dog",
+		"source": "https://github.com/carlbutron/YorkieApp",
+		"itunes": "https://itunes.apple.com/app/Yorkie/id1000836606"
 	}, {
 		"title": "ForceSketch",
 		"category": "3d-touch",
@@ -2083,7 +2121,9 @@
 	}, {
 		"title": "Workdays",
 		"category": "calendar",
-		"description": "Simple iPhone calendar with operating schedule"
+		"description": "Simple iPhone calendar with operating schedule",
+		"source": "https://github.com/mpak/Workdays",
+		"itunes": "https://itunes.apple.com/app/workdays-calendar/id889712978"
 	}, {
 		"title": "Edhita",
 		"category": "text",
@@ -2182,11 +2222,13 @@
 	}, {
 		"title": "iBeaconTasks",
 		"category": "parse",
-		"description": "iBeacon TODO reminder app based on Parse"
+		"description": "iBeacon TODO reminder app based on Parse",
+		"source": "https://github.com/TomekB/iBeaconTasks"
 	}, {
 		"title": "Jim",
 		"category": "parse",
 		"description": "Track your gym workouts",
+		"source": "https://github.com/kylejm/Jim",
 		"tags": ["swift"]
 	}, {
 		"title": "Parse-Challenge-App",
@@ -2198,7 +2240,8 @@
 	}, {
 		"title": "ParseDeveloperDay",
 		"category": "parse",
-		"description": "2013 Developer Conference App"
+		"description": "2013 Developer Conference App",
+		"source": "https://github.com/ParsePlatform/ParseDeveloperDay"
 	}, {
 		"title": "ParseStore",
 		"category": "parse",
@@ -2219,9 +2262,25 @@
 		"source": "https://github.com/wwayne/react-native-nba-app",
 		"stars": 200
 	}, {
-		"title": "Apps by Facebook",
+		"title": "2048",
 		"category": "react-native",
-		"homepage": "[UIExplorer](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer)"
+		"description": "App by Facebook",
+		"source": "https://github.com/facebook/react-native/tree/master/Examples/2048"
+	}, {
+		"title": "Movies",
+		"category": "react-native",
+		"description": "App by Facebook",
+		"source": "https://github.com/facebook/react-native/tree/master/Examples/Movies"
+	}, {
+		"title": "TicTacToe",
+		"category": "react-native",
+		"description": "App by Facebook",
+		"source": "https://github.com/facebook/react-native/tree/master/Examples/TicTacToe"
+	}, {
+		"title": "UIExplorer",
+		"category": "react-native",
+		"description": "App by Facebook",
+		"source": "https://github.com/facebook/react-native/tree/master/Examples/UIExplorer"
 	}, {
 		"title": "Around Me",
 		"category": "react-native",
@@ -2309,6 +2368,7 @@
 		"title": "NortalTechDay",
 		"category": "react-native",
 		"description": "Conference app",
+		"source": "https://github.com/mikkoj/NortalTechDay",
 		"stars": 100
 	}, {
 		"title": "PocketNode",
@@ -2369,7 +2429,8 @@
 	}, {
 		"title": "WeatherApp",
 		"category": "react-native",
-		"description": "by jsphkhan"
+		"description": "by jsphkhan",
+		"source": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp"
 	}, {
 		"title": "BrewMobile",
 		"category": "reactivecocoa",
@@ -2432,6 +2493,8 @@
 		"title": "Tropos",
 		"category": "reactivecocoa",
 		"description": "A weather app using ReactiveCocoa and Forecast.io  ([Tropos on the App Store][])",
+		"source": "https://github.com/thoughtbot/Tropos",
+		"itunes": "https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376",
 		"stars": 1000
 	}, {
 		"title": "GitHub API Client",
@@ -2451,11 +2514,13 @@
 		"title": "Done",
 		"category": "realm",
 		"description": "Data sharing between a WatchKit app and its main app using Realm",
+		"source": "https://github.com/FancyPixel/done-swift",
 		"tags": ["swift"]
 	}, {
 		"title": "RealmToDo",
 		"category": "realm",
 		"description": "A small todo list with Realm integration",
+		"source": "https://github.com/pietbrauer/RealmToDo",
 		"tags": ["swift"]
 	}, {
 		"title": "Contacts",
@@ -2481,7 +2546,8 @@
 	}, {
 		"title": "Toggl Timer",
 		"category": "xamarin",
-		"source": "[Toggl Timer on the App Store][]",
+		"source": "https://github.com/toggl/mobile",
+		"itunes": "https://itunes.apple.com/app/toggl-timer/id885767775",
 		"stars": 100
 	}]
 }
