@@ -196,6 +196,7 @@
 		"title": "Bus Today",
 		"category": "apple-watch",
 		"description": "Track bus line on your wrist",
+		"lang": "zho",
 		"source": "https://github.com/JohnWong/bus-today",
 		"itunes": "https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341"
 	}, {
@@ -627,7 +628,8 @@
 	}, {
 		"title": "MrCode",
 		"category": "github",
-		"description": "GitHub iPhone app that can cache Markdown content  🔥🔥",
+		"description": "GitHub iPhone app that can cache Markdown content",
+		"lang": "zho",
 		"source": "https://github.com/haolloyin/MrCode",
 		"stars": 200
 	}, {
@@ -696,9 +698,10 @@
 		"source": "https://github.com/vanyaland/ToThePenny",
 		"itunes": "https://itunes.apple.com/app/tothepenny/id994476075"
 	}, {
-		"title": "",
+		"title": "翻翻看",
 		"category": "games",
-		"description": "Concentration game 🇨🇳 🔶🔥",
+		"description": "Concentration game",
+		"lang": "zho",
 		"source": "https://github.com/geek5nan/FanFanSwift",
 		"stars": 100,
 		"tags": ["swift"]
@@ -775,7 +778,8 @@
 	}, {
 		"title": "Five-In-A-Row",
 		"category": "games",
-		"description": "Five In A Row () game with SpriteKit 🇨🇳",
+		"description": "Five In A Row () game with SpriteKit",
+		"lang": "zho",
 		"source": "https://github.com/WelkinXie/FiveInARow"
 	}, {
 		"title": "FlappySwift",
@@ -988,6 +992,7 @@
 	}, {
 		"title": "Cafe",
 		"category": "location",
+		"lang": "zho",
 		"source": "https://github.com/flexih/Cafe",
 		"itunes": "https://itunes.apple.com/app/diao-ke-shi-guang/id440983941",
 		"tags": ["swift"]
@@ -1132,7 +1137,8 @@
 	}, {
 		"title": "DoubanFM",
 		"category": "media",
-		"description": "douban.fm client for iPhone, using AFN and MPMoviePlayer  🔥🔥",
+		"description": "douban.fm client for iPhone, using AFN and MPMoviePlayer",
+		"lang": "zho",
 		"source": "https://github.com/XVXVXXX/DoubanFM",
 		"stars": 200
 	}, {
@@ -1314,7 +1320,8 @@
 	}, {
 		"title": "Textbook",
 		"category": "media",
-		"description": "textbooks from People's Education Press in China  🇨🇳",
+		"description": "textbooks from People's Education Press in China",
+		"lang": "zho",
 		"source": "https://github.com/JohnWong/textbook",
 		"itunes": "https://itunes.apple.com/app/ke-ben/id993244460",
 		"tags": ["swift"]
@@ -1375,7 +1382,7 @@
 	}, {
 		"title": "NirZhihuDaily2.0",
 		"category": "news",
-		"description": "🔥🔥🔥",
+		"lang": "zho",
 		"source": "https://github.com/zpz1237/NirZhihuDaily2.0",
 		"stars": 500
 	}, {
@@ -1387,7 +1394,8 @@
 	}, {
 		"title": "RSSRead",
 		"category": "news",
-		"description": "A RSS reader with offline feature  🔥🔥",
+		"description": "A RSS reader with offline feature",
+		"lang": "zho",
 		"source": "https://github.com/ming1016/RSSRead",
 		"itunes": "https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364",
 		"stars": 200
@@ -1407,7 +1415,8 @@
 	}, {
 		"title": "v2ex",
 		"category": "news",
-		"description": "An iOS client for the technical and creative website v2ex.com  🔥🔥🔥🔥",
+		"description": "An iOS client for the technical and creative website v2ex.com",
+		"lang": "zho",
 		"source": "https://github.com/singro/v2ex",
 		"itunes": "https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535",
 		"stars": 1000
@@ -1653,6 +1662,7 @@
 		"title": "Swift-Demos",
 		"category": "sample",
 		"description": "Collection of demos for Swift",
+		"lang": "zho",
 		"source": "https://github.com/Lax/iOS-Swift-Demos",
 		"stars": 1000,
 		"tags": ["swift"]
@@ -1834,6 +1844,7 @@
 		"title": "PHPHub",
 		"category": "web",
 		"description": "Universal app for PHPHub Forum",
+		"lang": "zho",
 		"source": "https://github.com/Aufree/phphub-ios",
 		"itunes": "https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564",
 		"stars": 200
@@ -1841,18 +1852,21 @@
 		"title": "ProMonster",
 		"category": "web",
 		"description": "Store",
+		"lang": "por",
 		"source": "https://github.com/usemobile/promonster-ios",
 		"itunes": "https://itunes.apple.com/app/promonster/id919649318"
 	}, {
 		"title": "QiitaCollection",
 		"category": "web",
 		"description": "Technical knowledge sharing and collaboration platform",
+		"lang": "jpn",
 		"source": "https://github.com/anzfactory/QiitaCollection",
 		"itunes": "https://itunes.apple.com/app/kitakore-for-qiita/id973532800"
 	}, {
 		"title": "A Menjar",
 		"category": "misc",
 		"description": "Food menu app",
+		"lang": "spa",
 		"source": "https://github.com/maurovc/aMenjar",
 		"itunes": "https://itunes.apple.com/app/a-menjar!/id816473131"
 	}, {
@@ -1971,6 +1985,7 @@
 		"title": "LidderbuchApp",
 		"category": "misc",
 		"description": "Songbook for Luxembourgish Students",
+		"lang": "ltz",
 		"source": "https://github.com/AcelLuxembourg/LidderbuchApp",
 		"itunes": "https://itunes.apple.com/app/lidderbuch/id997143407",
 		"tags": ["swift"]
