@@ -429,7 +429,7 @@
 	}, {
 		"title": "Chats",
 		"category": "communication",
-		"description": "Messages app u",
+		"description": "Messages app",
 		"source": "https://github.com/acani/Chats",
 		"stars": 1000,
 		"tags": ["swift"]
