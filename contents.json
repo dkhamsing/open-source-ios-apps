@@ -1513,15 +1513,14 @@
 		"description": "Code samples from WWDC 2015",
 		"source": "https://developer.apple.com/sample-code/wwdc/2015/"
 	}, {
-		"title": "CloudKit",
+		"title": "CloudKit in Objective-C",
 		"category": "sample",
-		"description": "",
 		"source": "https://github.com/Yalantis/CloudKit-Demo.Objective-C"
 	}, {
-		"title": "CloudKit",
+		"title": "CloudKit in Swift",
 		"category": "sample",
-		"description": ":large_orange_diamond:",
-		"source": "https://github.com/Yalantis/CloudKit-Demo.Swift"
+		"source": "https://github.com/Yalantis/CloudKit-Demo.Swift",
+		"tags": ["swift"]
 	}, {
 		"title": "Federal Data SDK",
 		"category": "sample",
