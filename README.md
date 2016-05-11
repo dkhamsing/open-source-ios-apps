@@ -1,5 +1,9 @@
 # Open-Source iOS Apps
 
+<!-- 
+⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
+--> 
+
 A collaborative list of open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/issues) [is](https://github.com/dkhamsing/open-source-ios-apps/pulls) [welcome](#contact) :smile:
 
 Jump to
