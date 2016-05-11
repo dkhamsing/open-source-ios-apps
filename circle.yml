@@ -16,4 +16,4 @@ deployment:
     branch: master
     commands:
       - ruby .github/convert.rb
-      - ./github/deploy.sh
+      - ./.github/deploy.sh
