@@ -1080,8 +1080,8 @@
 	}, {
 		"title": "Smart Traveller (UberGuide)",
 		"category": "location",
-		"description": "(https://github.com/hACKbUSTER/UberGuide-iOS): Simple and comfortable way to explore a city using Uber API",
-		"source": "UberGuide",
+		"description": "Simple and comfortable way to explore a city using Uber API",
+		"source": "https://github.com/hACKbUSTER/UberGuide-iOS",
 		"stars": 100
 	}, {
 		"title": "VisitBCN",
@@ -1670,7 +1670,7 @@
 		"title": "FreeOTP Authenticator",
 		"category": "security",
 		"description": "Two-Factor Authentication",
-		"homepage": "https://fedorahosted.org/freeotp/browser/ios",
+		"source": "https://fedorahosted.org/freeotp/browser/ios",
 		"itunes": "https://itunes.apple.com/app/freeotp/id872559395"
 	}, {
 		"title": "MasterPassword",

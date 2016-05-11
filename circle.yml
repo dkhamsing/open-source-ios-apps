@@ -4,8 +4,10 @@ machine:
 test:
   pre:
     - gem install awesome_bot
+    - sudo pip install json-spec
   override:
     - awesome_bot README.md --white-list developer.apple
+    - json validate --schema-file=schema.json --document-file=data.json
 general:
   artifacts:
     - "ab-results.json"
