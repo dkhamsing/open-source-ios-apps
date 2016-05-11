@@ -250,6 +250,8 @@ Projects that are not in English have a flag
 - Codinator: Code editor for iPhone and iPad 
   - https://github.com/VWAS/codinator
   - https://itunes.apple.com/app/codinator/id1024671232
+- RealmVideo: Watch Realm videos and slides on your phone 🔶🔥
+  - https://github.com/BalestraPatrick/RealmVideo
 - Review Time: Shows average review times for iOS and Mac apps 🔶🔥
   - https://github.com/nthegedus/ReviewTime
 - TLDR Man Page: Reference dictionary for computer manual commands, but in TL;DR (Too long didn't read) mode 🔶
@@ -533,6 +535,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/poppins/id978854068
 - Pugs: Simple pug photo viewer 🔶
   - https://github.com/soffes/Pugs
+- RealmVideo: Watch Realm videos and slides on your phone 🔶🔥
+  - https://github.com/BalestraPatrick/RealmVideo
 - Revolved: 3D modelling app for the iPad 🔥🔥🔥
   - https://github.com/Ciechan/Revolved
 - SoundCloudSwift: SoundCloud client written on Swift 🔶🔥
