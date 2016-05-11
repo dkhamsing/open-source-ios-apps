@@ -1788,8 +1788,8 @@
 		"stars": 1000
 	}, {
 		"title": "WeatherApp",
-		"category": "weather",
-		"description": "Weather app using React Native",
+		"category": ["weather", "react-native"],
+		"description": "Weather app by jsphkhan using React Native",
 		"source": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp"
 	}, {
 		"title": "WeatherMap",
@@ -2386,11 +2386,6 @@
 		"category": "react-native",
 		"description": "by JakeLin",
 		"source": "https://github.com/JakeLin/ReactNativeWeather"
-	}, {
-		"title": "WeatherApp",
-		"category": "react-native",
-		"description": "by jsphkhan",
-		"source": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp"
 	}, {
 		"title": "BrewMobile",
 		"category": "reactivecocoa",
