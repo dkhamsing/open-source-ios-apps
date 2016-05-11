@@ -175,7 +175,6 @@
 	}, {
 		"title": "BaiduFM-Swift",
 		"category": "apple-watch",
-		"description": "",
 		"source": "https://github.com/belm/BaiduFM-Swift",
 		"stars": 200,
 		"tags": ["swift"]
@@ -202,13 +201,11 @@
 	}, {
 		"title": "Calculator by noodlewerk",
 		"category": "apple-watch",
-		"description": "",
 		"source": "https://github.com/noodlewerk/Apple_Watch_Calculator",
 		"tags": ["swift"]
 	}, {
 		"title": "Calculator by mukeshthawani",
 		"category": "apple-watch",
-		"description": "",
 		"source": "https://github.com/mukeshthawani/Calculator",
 		"tags": ["swift"]
 	}, {
@@ -221,7 +218,6 @@
 	}, {
 		"title": "Connectivity Demo",
 		"category": "apple-watch",
-		"description": "",
 		"source": "https://github.com/swilliams/watchkit-connectivity-demo"
 	}, {
 		"title": "CoolSpot",
@@ -840,7 +836,6 @@
 	}, {
 		"title": "SceneKitFrogger",
 		"category": "games",
-		"description": "",
 		"source": "https://github.com/devindazzle/SceneKitFrogger",
 		"tags": ["swift"]
 	}, {
@@ -1262,7 +1257,6 @@
 	}, {
 		"title": "Swift ASCII Art Generator",
 		"category": "media",
-		"description": "",
 		"source": "https://github.com/ijoshsmith/swift-ascii-art",
 		"stars": 100,
 		"tags": ["swift"]
@@ -1423,14 +1417,12 @@
 	}, {
 		"title": "HackerNews",
 		"category": "hacker-news",
-		"description": "",
 		"source": "https://github.com/amitburst/HackerNews",
 		"stars": 500,
 		"tags": ["swift"]
 	}, {
 		"title": "Hackers",
 		"category": "hacker-news",
-		"description": "",
 		"source": "https://github.com/weiran/Hackers",
 		"stars": 200,
 		"tags": ["swift"]
@@ -1524,7 +1516,6 @@
 	}, {
 		"title": "Federal Data SDK",
 		"category": "sample",
-		"description": "",
 		"source": "https://github.com/USDepartmentofLabor/Swift-Sample-App",
 		"tags": ["swift"]
 	}, {
@@ -1537,7 +1528,6 @@
 	}, {
 		"title": "HomeKit-Demo",
 		"category": "sample",
-		"description": "",
 		"source": "https://github.com/KhaosT/HomeKit-Demo",
 		"stars": 200,
 		"tags": ["swift"]
@@ -1701,7 +1691,6 @@
 	}, {
 		"title": "MyAwesomeChecklist",
 		"category": "tasks",
-		"description": "",
 		"source": "https://github.com/imod/MyAwesomeChecklist",
 		"tags": ["swift"]
 	}, {
@@ -1772,7 +1761,6 @@
 	}, {
 		"title": "SwiftWeather",
 		"category": "weather",
-		"description": "",
 		"source": "https://github.com/JakeLin/SwiftWeather",
 		"stars": 2000,
 		"tags": ["swift"]
@@ -1863,7 +1851,6 @@
 	}, {
 		"title": "ChineseZodiac",
 		"category": "misc",
-		"description": "",
 		"source": "https://github.com/JakeLin/ChineseZodiac",
 		"stars": 100,
 		"tags": ["swift"]
@@ -2128,7 +2115,6 @@
 	}, {
 		"title": "Coffee Timer",
 		"category": "timer",
-		"description": "",
 		"source": "https://github.com/ashfurrow/yourfirstswiftapp",
 		"tags": ["swift"]
 	}, {
@@ -2142,7 +2128,6 @@
 	}, {
 		"title": "TrackMyTime",
 		"category": "timer",
-		"description": "",
 		"source": "https://github.com/EvgenyKarkan/TrackMyTime"
 	}, {
 		"title": "Tracker 4 Compassion",
@@ -2153,12 +2138,10 @@
 	}, {
 		"title": "DVD Collection Tracker",
 		"category": "core-data",
-		"description": "",
 		"source": "https://github.com/chrismiles/OrganisingCoreData"
 	}, {
 		"title": "Nested Lists",
 		"category": "core-data",
-		"description": "",
 		"source": "https://github.com/objcio/issue-4-full-core-data-application",
 		"stars": 100
 	}, {
@@ -2258,13 +2241,11 @@
 	}, {
 		"title": "Calculator",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/benoitvallon/react-native-nw-react-calculator",
 		"stars": 1000
 	}, {
 		"title": "Currency Converter",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter"
 	}, {
 		"title": "Den",
@@ -2275,7 +2256,6 @@
 	}, {
 		"title": "Dribbble",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/catalinmiron/react-native-dribbble-app",
 		"stars": 500
 	}, {
@@ -2287,7 +2267,6 @@
 	}, {
 		"title": "Facebook Login",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/brentvatne/react-native-login",
 		"stars": 200
 	}, {
@@ -2299,7 +2278,6 @@
 	}, {
 		"title": "Foreign Exchange",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/peralmq/ForeignExchangeApp"
 	}, {
 		"title": "HackerNews-React-Native",
@@ -2310,17 +2288,14 @@
 	}, {
 		"title": "Iceland Earthquakes",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/paranoida/IcelandEarthquakes"
 	}, {
 		"title": "iTunes Catalog Search",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/alexissan/ReactNativeWorkshop"
 	}, {
 		"title": "london-react",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/JoeStanton/london-react"
 	}, {
 		"title": "newswatch",
@@ -2340,23 +2315,19 @@
 	}, {
 		"title": "Property Finder",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/ColinEberhardt/ReactNative-PropertyFinder",
 		"stars": 100
 	}, {
 		"title": "ReactNativeHackerNews",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/jsdf/ReactNativeHackerNews"
 	}, {
 		"title": "RSS Reader",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/christopherdro/react-native-rss-reader"
 	}, {
 		"title": "Songkick",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/ArnaudRinquin/sk-react-native"
 	}, {
 		"title": "Spacepics",
@@ -2366,17 +2337,14 @@
 	}, {
 		"title": "Sudoku",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/christopherdro/react-native-sudoku"
 	}, {
 		"title": "To Do List",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/joemaddalone/react-native-todo"
 	}, {
 		"title": "Twitch",
 		"category": "react-native",
-		"description": "",
 		"source": "https://github.com/IFours/react-native-twitch"
 	}, {
 		"title": "Weather",
@@ -2458,18 +2426,15 @@
 	}, {
 		"title": "Contacts",
 		"category": "viper",
-		"description": "",
 		"source": "https://github.com/sebastianwr/VIPER-Persons"
 	}, {
 		"title": "Counter",
 		"category": "viper",
-		"description": "",
 		"source": "https://github.com/mutualmobile/Counter",
 		"stars": 100
 	}, {
 		"title": "Rambler.Conferences",
 		"category": "viper",
-		"description": "",
 		"source": "https://github.com/rambler-ios/RamblerConferences"
 	}, {
 		"title": "To do",
