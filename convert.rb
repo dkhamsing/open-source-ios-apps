@@ -33,8 +33,16 @@ def output_flag(lang)
 end
 
 def apps_for_cat(apps, id)
+  apps.select do |a|
+    cat = a['category']
+    # puts cat.class
+    cat.class == Array ? cat.include?(id) : (cat == id)
+  end
+end
+
+def output_apps(apps)
   o = ''
-  apps.select { |a| a['category'] == id }.each do |a|
+  apps.each do |a|
       name = a['title']
       link = a['source']
       itunes = a['itunes']
@@ -100,7 +108,8 @@ cats.each do |c|
   temp = "\n#\##{'#' unless c['parent']==nil } #{c['title']} \n \n"
   output << temp
 
-  output << apps_for_cat(apps, c['id'])
+  cat_apps = apps_for_cat(apps, c['id'])
+  output << output_apps(cat_apps)
 end
 
 output << "\n"
