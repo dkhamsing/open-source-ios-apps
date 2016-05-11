@@ -1,9 +1,9 @@
-To contribute to`open-source-ios-apps`, please update the **contents.json** file (this will generate the README)
+To contribute to`open-source-ios-apps`, please update the **contents.json** file (this will generate the README).
 
 ## New category
 
 Please [open an issue](https://github.com/dkhamsing/open-source-ios-apps/issues) and contact
-@dkhamsing, @kvnbautista or @scribblemaniac
+@dkhamsing, @kvnbautista or @scribblemaniac.
 
 ## New app
 
@@ -43,7 +43,7 @@ Optionally
 		"title": "App name",
 		"category": ["github", "parse"],
 		"description": "Describe what this app does",
-		"lang": "zho",
+		"lang": "zho", // ISO 639-2 code
 		"source": "https://github.com/user/repo",
 		"homepage": "https://awesome-url",
 		"itunes": "https://itunes.apple.com/app/id1234567890",
@@ -51,5 +51,7 @@ Optionally
 		"stars": 200 // number of GitHub stars
   }
 ```
+
+For `lang` (language), use ISO 639-2 https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 
 Thanks for contributing :tada:
