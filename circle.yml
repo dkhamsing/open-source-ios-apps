@@ -6,8 +6,14 @@ test:
     - gem install awesome_bot
     - sudo pip install json-spec
   override:
-    - awesome_bot README.md --white-list developer.apple
-    - json validate --schema-file=schema.json --document-file=data.json
+    - awesome_bot contents.json --white-list developer.apple
+    - json validate --schema-file=schema.json --document-file=contents.json
 general:
   artifacts:
     - "ab-results.json"
+deployment:
+  master:
+    branch: master
+    commands:
+      - ruby convert.md
+      - ./deploy.sh
