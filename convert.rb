@@ -33,11 +33,11 @@ def output_flag(lang)
 end
 
 def apps_for_cat(apps, id)
-  apps.select do |a|
+  s = apps.select do |a|
     cat = a['category']
-    # puts cat.class
     cat.class == Array ? cat.include?(id) : (cat == id)
   end
+  s.sort_by { |k, v| k['title'] }
 end
 
 def output_apps(apps)
@@ -46,6 +46,7 @@ def output_apps(apps)
       name = a['title']
       link = a['source']
       itunes = a['itunes']
+      homepage = a['homepage']
       desc = a['description']
       tags = a['tags']
       stars = a['stars']
@@ -73,6 +74,7 @@ def output_apps(apps)
 
       o << "\n"
       o << "  - #{link}\n"
+      o << "  - #{homepage}\n" unless homepage.nil?
       o << "  - #{itunes}\n" unless itunes.nil?
   end
   o
