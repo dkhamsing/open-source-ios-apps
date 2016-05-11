@@ -151,12 +151,12 @@
 		"tags": ["swift"]
 	}, {
 		"title": "EX Player",
-		"category": "apple-tv",
-		"description": "Watch video from ex.ua on your TV",
+		"category": ["apple-tv", "media"],
+		"description": "Watch video from ex.ua",
 		"source": "https://github.com/IGRSoft/exTVPlayer"
 	}, {
 		"title": "Provenance",
-		"category": "apple-tv",
+		"category": ["apple-tv", "games"],
 		"description": "Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more",
 		"source": "https://github.com/jasarien/Provenance",
 		"stars": 1000
@@ -238,7 +238,7 @@
 		"stars": 100
 	}, {
 		"title": "Done",
-		"category": "apple-watch",
+		"category": ["apple-watch", "realm"],
 		"description": "Data sharing between a WatchKit app and its main app using Realm",
 		"source": "https://github.com/FancyPixel/done-swift",
 		"tags": ["swift"]
@@ -278,8 +278,8 @@
 		"tags": ["swift"]
 	}, {
 		"title": "HN Reader",
-		"category": "apple-watch",
-		"description": "Hacker News Reader   ([HN Reader on the App Store][])",
+		"category": ["apple-watch", "hacker-news"],
+		"description": "Hacker News Reader",
 		"source": "https://github.com/Dimillian/SwiftHN",
 		"itunes": "https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741",
 		"stars": 500,
@@ -388,7 +388,7 @@
 	}, {
 		"title": "Brave",
 		"category": "browser",
-		"description": "[Firefox][]-based browser with ad blocking built in (also blocks tracking pixels/cookies)",
+		"description": "Firefox-based browser with ad blocking built in (also blocks tracking pixels/cookies)",
 		"source": "https://github.com/brave/browser-ios",
 		"stars": 200,
 		"tags": ["swift"]
@@ -400,7 +400,7 @@
 		"itunes": "https://itunes.apple.com/app/endless-browser/id974745755"
 	}, {
 		"title": "Firefox",
-		"category": "browser",
+		"category": ["browser", "official"],
 		"description": "Official Firefox app",
 		"source": "https://github.com/mozilla/firefox-ios",
 		"itunes": "https://itunes.apple.com/app/firefox-web-browser/id989804926",
@@ -505,13 +505,13 @@
 		"tags": ["swift"]
 	}, {
 		"title": "NortalTechDay",
-		"category": "conference",
+		"category": ["conference", "react-native"],
 		"description": "Nortal TechDay 2015 app",
 		"source": "https://github.com/mikkoj/NortalTechDay",
 		"stars": 100
 	}, {
 		"title": "ParseDeveloperDay",
-		"category": "conference",
+		"category": ["conference", "react-native"],
 		"description": "Parse 2013 developer conference app",
 		"source": "https://github.com/ParsePlatform/ParseDeveloperDay"
 	}, {
@@ -834,12 +834,6 @@
 		"source": "https://github.com/Mav3r1ck/Orbit7",
 		"tags": ["swift"]
 	}, {
-		"title": "Provenance",
-		"category": "games",
-		"description": "Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more",
-		"source": "https://github.com/jasarien/Provenance",
-		"stars": 1000
-	}, {
 		"title": "Sakura Fly",
 		"category": "games",
 		"description": "Action game created in SpriteKit",
@@ -904,7 +898,7 @@
 		"tags": ["swift"]
 	}, {
 		"title": "Jim",
-		"category": "health",
+		"category": ["health", "parse"],
 		"description": "Track your gym workouts",
 		"source": "https://github.com/kylejm/Jim",
 		"tags": ["swift"]
@@ -1021,7 +1015,7 @@
 		"tags": ["swift"]
 	}, {
 		"title": "iBeaconTasks",
-		"category": "location",
+		"category": ["location", "parse"],
 		"description": "iBeacon TODO reminder app based on Parse",
 		"source": "https://github.com/TomekB/iBeaconTasks"
 	}, {
@@ -1156,11 +1150,6 @@
 		"source": "https://github.com/coderyi/Eleven",
 		"itunes": "https://itunes.apple.com/app/elevenplayer/id1033773648",
 		"stars": 200
-	}, {
-		"title": "EX Player",
-		"category": "media",
-		"description": "Watch video from ex.ua on iOS device",
-		"source": "https://github.com/IGRSoft/exTVPlayer"
 	}, {
 		"title": "Filterpedia",
 		"category": "media",
@@ -1333,7 +1322,7 @@
 		"itunes": "https://itunes.apple.com/app/upupu/id508401854"
 	}, {
 		"title": "VLC",
-		"category": "media",
+		"category": ["media", "official"],
 		"description": "Media Player",
 		"source": "https://github.com/videolan/vlc",
 		"homepage": "https://www.videolan.org/",
@@ -1454,14 +1443,6 @@
 		"itunes": "https://itunes.apple.com/app/hn-app/id983203003",
 		"tags": ["swift"]
 	}, {
-		"title": "HN Reader",
-		"category": "hacker-news",
-		"description": "Hacker News Reader",
-		"source": "https://github.com/Dimillian/SwiftHN",
-		"itunes": "https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741",
-		"stars": 500,
-		"tags": ["swift"]
-	}, {
 		"title": "News/YC",
 		"category": "hacker-news",
 		"description": "Hacker News client with user management, commenting, submitting and themes",
@@ -1495,22 +1476,6 @@
 		"description": "Official DuckDuckGo app",
 		"source": "https://github.com/duckduckgo/ios/",
 		"itunes": "https://itunes.apple.com/app/duckduckgo-search-stories/id663592361"
-	}, {
-		"title": "Firefox",
-		"category": "official",
-		"description": "Official Firefox app",
-		"source": "https://github.com/mozilla/firefox-ios",
-		"itunes": "https://itunes.apple.com/app/firefox-web-browser/id989804926",
-		"stars": 2000,
-		"tags": ["swift"]
-	}, {
-		"title": "VLC",
-		"category": "official",
-		"description": "Official VLC app",
-		"source": "https://github.com/videolan/vlc",
-		"homepage": "https://www.videolan.org/",
-		"itunes": "https://itunes.apple.com/app/vlc-for-ios/id650377962",
-		"stars": 1000
 	}, {
 		"title": "WhiteHouse",
 		"category": "official",
@@ -1744,7 +1709,7 @@
 		"tags": ["swift"]
 	}, {
 		"title": "RealmToDo",
-		"category": "tasks",
+		"category": ["tasks", "realm"],
 		"description": "A small todo list with Realm integration",
 		"source": "https://github.com/pietbrauer/RealmToDo",
 		"tags": ["swift"]
@@ -1816,7 +1781,7 @@
 		"tags": ["swift"]
 	}, {
 		"title": "Tropos",
-		"category": "weather",
+		"category": ["weather", "reactivecocoa"],
 		"description": "A weather app using ReactiveCocoa and Forecast.io",
 		"source": "https://github.com/thoughtbot/Tropos",
 		"itunes": "https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376",
@@ -2237,28 +2202,12 @@
 		"description": "Simple app to record how much things cost using Parse",
 		"source": "https://github.com/dkhamsing/how-much"
 	}, {
-		"title": "iBeaconTasks",
-		"category": "parse",
-		"description": "iBeacon TODO reminder app based on Parse",
-		"source": "https://github.com/TomekB/iBeaconTasks"
-	}, {
-		"title": "Jim",
-		"category": "parse",
-		"description": "Track your gym workouts",
-		"source": "https://github.com/kylejm/Jim",
-		"tags": ["swift"]
-	}, {
 		"title": "Parse-Challenge-App",
 		"category": "parse",
 		"description": "iPhone app built using Parse w/ likes, comments, posting images/video",
 		"source": "https://github.com/TomekB/Parse-Challenge-App",
 		"itunes": "https://itunes.apple.com/app/lets-challenge-me/id944004497",
 		"stars": 100
-	}, {
-		"title": "ParseDeveloperDay",
-		"category": "parse",
-		"description": "2013 Developer Conference App",
-		"source": "https://github.com/ParsePlatform/ParseDeveloperDay"
 	}, {
 		"title": "ParseStore",
 		"category": "parse",
@@ -2382,12 +2331,6 @@
 		"description": "News app using YouTube playlists",
 		"source": "https://github.com/bradoyler/newswatch-react-native"
 	}, {
-		"title": "NortalTechDay",
-		"category": "react-native",
-		"description": "Conference app",
-		"source": "https://github.com/mikkoj/NortalTechDay",
-		"stars": 100
-	}, {
 		"title": "PocketNode",
 		"category": "react-native",
 		"description": "Lightweight Node REPL",
@@ -2507,13 +2450,6 @@
 		"source": "https://github.com/Adlai-Holler/SwiftRACGoogleImages",
 		"tags": ["swift"]
 	}, {
-		"title": "Tropos",
-		"category": "reactivecocoa",
-		"description": "A weather app using ReactiveCocoa and Forecast.io  ([Tropos on the App Store][])",
-		"source": "https://github.com/thoughtbot/Tropos",
-		"itunes": "https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376",
-		"stars": 1000
-	}, {
 		"title": "GitHub API Client",
 		"category": "rxswift",
 		"description": "GitHub client using MVVM and RxSwift",
@@ -2526,18 +2462,6 @@
 		"description": "The Artsy auction kiosk app, uses RxSwift",
 		"source": "https://github.com/artsy/eidolon",
 		"stars": 1000,
-		"tags": ["swift"]
-	}, {
-		"title": "Done",
-		"category": "realm",
-		"description": "Data sharing between a WatchKit app and its main app using Realm",
-		"source": "https://github.com/FancyPixel/done-swift",
-		"tags": ["swift"]
-	}, {
-		"title": "RealmToDo",
-		"category": "realm",
-		"description": "A small todo list with Realm integration",
-		"source": "https://github.com/pietbrauer/RealmToDo",
 		"tags": ["swift"]
 	}, {
 		"title": "Contacts",
