@@ -2485,5 +2485,13 @@
 		"source": "https://github.com/toggl/mobile",
 		"itunes": "https://itunes.apple.com/app/toggl-timer/id885767775",
 		"stars": 100
+	},
+	{
+		"title": "RealmVideo",
+		"category": ["media", "developer"],
+		"description": "Watch Realm videos and slides on your phone",
+		"source": "https://github.com/BalestraPatrick/RealmVideo",
+		"stars": 198,
+		"tags": ["swift"]
 	}]
 }
