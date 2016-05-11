@@ -563,6 +563,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/poppins/id978854068
 - Pugs: Simple pug photo viewer 🔶
   - https://github.com/soffes/Pugs
+- ReactiveKitten: It's about gifs and cats, example project for Interstellar 🔶
+  - https://github.com/JensRavens/ReactiveKitten
 - RealmVideo: Watch Realm videos and slides on your phone 🔶🔥
   - https://github.com/BalestraPatrick/RealmVideo
 - Revolved: 3D modelling app for the iPad 🔥🔥🔥
@@ -705,9 +707,9 @@ Image, video, audio, reading — [back to top](#readme)
 - Cannonball: Fun way to create and share stories and poems using Fabric 🔶🔥🔥
   - https://github.com/twitterdev/cannonball-ios
   - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
-- CloudKit
+- CloudKit in Objective-C 
   - https://github.com/Yalantis/CloudKit-Demo.Objective-C
-- CloudKit: :large_orange_diamond: 
+- CloudKit in Swift 🔶
   - https://github.com/Yalantis/CloudKit-Demo.Swift
 - Federal Data SDK🔶
   - https://github.com/USDepartmentofLabor/Swift-Sample-App
@@ -731,6 +733,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/apiaryio/polls-app
 - RKGist: GitHub Gist app using RestKit 
   - https://github.com/RestKit/RKGist
+- ReactiveKitten: It's about gifs and cats, example project for Interstellar 🔶
+  - https://github.com/JensRavens/ReactiveKitten
 - Reusable Code: Reusable code, written in Swift 🔶🔥🔥🔥🔥🔥
   - https://github.com/carlbutron/Swift
 - SafariAutoLoginTest: Demo showing how to auto-login users in iOS 9 based on Safari cookies 🔶
@@ -1136,6 +1140,8 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- ReactiveKitten: It's about gifs and cats, example project for Interstellar 🔶
+  - https://github.com/JensRavens/ReactiveKitten
 
 ### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 
  
