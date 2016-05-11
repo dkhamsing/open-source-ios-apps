@@ -2491,5 +2491,11 @@
 		"source": "https://github.com/BalestraPatrick/RealmVideo",
 		"stars": 198,
 		"tags": ["swift"]
-	}]
+	}, {
+		"title": "ReactiveKitten",
+		"category": ["reactive-programming", "media", "sample"],
+		"description": "It's about gifs and cats, example project for Interstellar",
+		"source": "https://github.com/JensRavens/ReactiveKitten",
+		"tags": ["swift"]
+		}]
 }
