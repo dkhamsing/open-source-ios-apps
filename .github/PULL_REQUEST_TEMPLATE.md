@@ -2,6 +2,8 @@
 
 **Please do not edit the README, instead make changes to `contents.json` **
 
+<!-- To create a new category, please open an issue (see CONTRIBUTING) -->
+
 <!-- When making an addition: -->
 
 1. [ ] Project URL:
@@ -15,28 +17,26 @@
 
 At minimum
 
-```js
   {
 		"title": "MrCode",
 		"category": "github",
 		"description": "GitHub iPhone app that can cache Markdown content",
 		"source": "https://github.com/haolloyin/MrCode" // note, no comma on last line
   }
-```
+
 
 Optionally
 
-```js
   {
 		"title": "MrCode",
 		"category": ["github", "parse"],
 		"description": "GitHub iPhone app that can cache Markdown content",
 		"lang": "zho",
 		"source": "https://github.com/haolloyin/MrCode",
+    "homepage": "https://awesome-url",
 		"itunes": "https://itunes.apple.com/app/id1234567890",
 		"tags": ["swift"],
 		"stars": 200
   }
-```
 
 -->
