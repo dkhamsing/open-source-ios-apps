@@ -48,8 +48,8 @@ Jump to
   - [Realm](#realm) 
   - [[VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)](#viper) 
   - [Xamarin](#xamarin) 
-- [Bonus](#bonus)
- 
+- [Bonus](#bonus) 
+
 ```
 🔶 Swift projects
 
@@ -66,6 +66,8 @@ Projects that are not in English have a flag
 
 ## Apple TV 
  
+[back to top](#readme) 
+ 
 - Artsy Shows: Art shows on your TV 🔶🔥🔥
   - https://github.com/artsy/Emergence
 - EX Player: Watch video from ex.ua 
@@ -79,6 +81,8 @@ Projects that are not in English have a flag
 
 ## Apple Watch 
  
+[back to top](#readme) 
+ 
 - BaiduFM-Swift🔶🔥🔥
   - https://github.com/belm/BaiduFM-Swift
 - Bither: Simple and secure Bitcoin wallet 
@@ -90,10 +94,10 @@ Projects that are not in English have a flag
 - Bus Today: Track bus line on your wrist 🇨🇳
   - https://github.com/JohnWong/bus-today
   - https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341
-- Calculator🔶
-  - https://github.com/noodlewerk/Apple_Watch_Calculator
-- Calculator🔶
+- Calculator by mukeshthawani🔶
   - https://github.com/mukeshthawani/Calculator
+- Calculator by noodlewerk🔶
+  - https://github.com/noodlewerk/Apple_Watch_Calculator
 - Cherry: Mini Pomodoro Timer app 🔶🔥🔥
   - https://github.com/kenshin03/Cherry
 - Connectivity Demo
@@ -158,6 +162,8 @@ Projects that are not in English have a flag
 
 ## Browser 
  
+[back to top](#readme) 
+ 
 - Brave: Firefox-based browser with ad blocking built in (also blocks tracking pixels/cookies) 🔶🔥🔥
   - https://github.com/brave/browser-ios
 - Endless Browser: Web browser built with privacy and security in mind 
@@ -172,6 +178,8 @@ Projects that are not in English have a flag
 
 ## Communication 
  
+[back to top](#readme) 
+ 
 - Actor: Communication app with a focus on speed and security 
   - https://github.com/actorapp/actor-platform
   - https://itunes.apple.com/app/actor-messenger/id1025501036
@@ -180,7 +188,7 @@ Projects that are not in English have a flag
 - ChatSecure: Encrypted chat app that supports OTR encryption over XMPP 🔥🔥🔥🔥
   - https://github.com/ChatSecure/ChatSecure-iOS
   - https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063
-- Chats: Messages app u 🔶🔥🔥🔥🔥
+- Chats: Messages app 🔶🔥🔥🔥🔥
   - https://github.com/acani/Chats
 - Colloquy: IRC client 
   - https://github.com/colloquy/colloquy
@@ -208,6 +216,8 @@ Projects that are not in English have a flag
 
 ## Conference 
  
+[back to top](#readme) 
+ 
 - EventBlankApp: App for events or conferences 🔶🔥🔥
   - https://github.com/icanzilb/EventBlankApp
 - NortalTechDay: Nortal TechDay 2015 app 🔥
@@ -223,6 +233,8 @@ Projects that are not in English have a flag
 
 ## Content Blocking 
  
+[back to top](#readme) 
+ 
 - Adblock Fast 🔥🔥
   - https://github.com/rocketshipapps/adblockfast
   - https://itunes.apple.com/app/adblock-fast/id1032930802
@@ -235,6 +247,8 @@ Projects that are not in English have a flag
   - https://github.com/mozilla/focus
 
 ## Developer 
+ 
+[back to top](#readme) 
  
 - AppLove: View app reviews for all territories (countries) 🔶
   - https://github.com/snowpunch/AppLove
@@ -262,6 +276,8 @@ Projects that are not in English have a flag
 
 ### GitHub 
  
+[back to top](#readme) 
+ 
 - Github-Swift: App written in Swift using the Github API 🔶
   - https://github.com/acmacalister/Github-Swift
 - Monkey: GitHub third party client that shows the rank of coders and repositories 🔥🔥🔥
@@ -274,6 +290,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/octopodium/id1077519133
 
 ## Finance 
+ 
+[back to top](#readme) 
  
 - BitStore: Bitcoin wallet 
   - https://github.com/BitStore/BitStore-iOS
@@ -304,9 +322,11 @@ Projects that are not in English have a flag
 
 ## Games 
  
-- 2048: 2048 game in Objective-C 🔥
+[back to top](#readme) 
+ 
+- 2048 in Objective-C 🔥
   - https://github.com/austinzheng/iOS-2048
-- 2048: 2048 game in Swift 🔶🔥🔥🔥🔥
+- 2048 in Swift 🔶🔥🔥🔥🔥
   - https://github.com/austinzheng/swift-2048
 - Bridges: A puzzle game with bridges, houses, tolls, and subways 🔥
   - https://github.com/zgrossbart/bridges
@@ -373,6 +393,8 @@ Projects that are not in English have a flag
 
 ## Health 
  
+[back to top](#readme) 
+ 
 - Arex: App for remembering to take your medications 🔶
   - https://github.com/a2/arex-7
 - AsthmaHealth: ResearchKit app studying Asthma 
@@ -409,6 +431,8 @@ Projects that are not in English have a flag
 
 ## Keyboards 
  
+[back to top](#readme) 
+ 
 - AA-Keyboard: ASCI Art Keyboard 
   - https://github.com/sonsongithub/AAKeyboard
   - https://itunes.apple.com/app/aa-keyboard/id964182815
@@ -423,6 +447,8 @@ Projects that are not in English have a flag
   - https://github.com/Brimizer/Slidden
 
 ## Location 
+ 
+[back to top](#readme) 
  
 - Alarm: Geolocation based alarm app for travelers 🔶🔥
   - https://github.com/ChrisChares/swift-alarm
@@ -471,6 +497,8 @@ Projects that are not in English have a flag
   - https://github.com/eugenpirogoff/pathlogger
 
 ## Media 
+ 
+Image, video, audio, reading — [back to top](#readme) 
  
 - 360 VR Player: Universal 360 video player 🔥🔥🔥 🔥🔥🔥
   - https://github.com/hanton/HTY360Player
@@ -582,6 +610,8 @@ Projects that are not in English have a flag
 
 ## News 
  
+[back to top](#readme) 
+ 
 - Designer News App 🔶🔥🔥🔥🔥
   - https://github.com/MengTo/DesignerNewsApp
   - https://itunes.apple.com/app/designer-news-app/id879990495
@@ -608,6 +638,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535
 
 ### Hacker News 
+ 
+[back to top](#readme) 
  
 - HN Reader: Hacker News Reader 🔶🔥🔥🔥
   - https://github.com/Dimillian/SwiftHN
@@ -637,6 +669,8 @@ Projects that are not in English have a flag
 
 ## Official 
  
+[back to top](#readme) 
+ 
 - Coding: Official Coding app 🔥🔥🔥
   - https://github.com/Coding/Coding-iOS
   - https://itunes.apple.com/app/coding/id923676989
@@ -661,6 +695,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/wordpress/id335703880
 
 ## Sample 
+ 
+[back to top](#readme) 
  
 - Apple Developer Library 
   - https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code
@@ -712,6 +748,8 @@ Projects that are not in English have a flag
 
 ## Security 
  
+[back to top](#readme) 
+ 
 - FreeOTP Authenticator: Two-Factor Authentication 
   - https://fedorahosted.org/freeotp/browser/ios
   - https://itunes.apple.com/app/freeotp/id872559395
@@ -729,6 +767,8 @@ Projects that are not in English have a flag
 
 ## Social 
  
+[back to top](#readme) 
+ 
 - Aozora: Discover and track anime 🔶
   - https://github.com/pjchavarria/Aozora
   - https://itunes.apple.com/app/aozora-anime-community-track/id1017433045
@@ -743,6 +783,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/yep-meet-genius/id983891256
 
 ## Tasks 
+ 
+[back to top](#readme) 
  
 - 1Trackr: Digitally log in your community service hours onto the cloud 
   - https://github.com/JerryHDev/1Trackr
@@ -765,6 +807,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/todo.txt-touch/id491342186
 
 ## Weather 
+ 
+[back to top](#readme) 
  
 - Lucid Weather Clock: Swift precipitation clock - uses Forecast.io 🔶
   - https://github.com/wrutkowski/Lucid-Weather-Clock
@@ -792,6 +836,8 @@ Projects that are not in English have a flag
 
 ## Web 
  
+[back to top](#readme) 
+ 
 - PHPHub: Universal app for PHPHub Forum 🇨🇳🔥🔥
   - https://github.com/Aufree/phphub-ios
   - https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564
@@ -803,6 +849,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/kitakore-for-qiita/id973532800
 
 ## Misc 
+ 
+[back to top](#readme) 
  
 - A Menjar: Food menu app 🇪🇸
   - https://github.com/maurovc/aMenjar
@@ -907,12 +955,16 @@ Projects that are not in English have a flag
 
 ### 3D Touch 
  
+[back to top](#readme) 
+ 
 - ForceSketch: Sketching app using 3D Touch 
   - https://github.com/FlexMonkey/ForceSketch
 - Plum-O-Meter: 3D Touch Application for Weighing Plums (and other small fruit!) 🔶🔥🔥
   - https://github.com/FlexMonkey/Plum-O-Meter
 
 ### Calendar 
+ 
+[back to top](#readme) 
  
 - Malendar: A redesigned calendar app 🔶
   - https://github.com/croossin/Malendar
@@ -921,6 +973,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/workdays-calendar/id889712978
 
 ### Text 
+ 
+[back to top](#readme) 
  
 - Edhita: Text editor 🔶🔥🔥🔥
   - https://github.com/tnantoka/edhita
@@ -933,6 +987,8 @@ Projects that are not in English have a flag
 
 ### Timer 
  
+[back to top](#readme) 
+ 
 - Coffee Timer🔶
   - https://github.com/ashfurrow/yourfirstswiftapp
 - Fojusi: Work timer with today extension 🔶🔥🔥
@@ -943,14 +999,20 @@ Projects that are not in English have a flag
 
 ## Special 
  
+[back to top](#readme) 
+ 
 
 ### Appcelerator 
+ 
+[back to top](#readme) 
  
 - Tracker 4 Compassion: Track your walk, run or ride 
   - https://github.com/fokkezb/tracker
   - https://itunes.apple.com/app/g.o.-tracker-4-compassion/id1100240821
 
 ### Core Data 
+ 
+[back to top](#readme) 
  
 - DVD Collection Tracker
   - https://github.com/chrismiles/OrganisingCoreData
@@ -962,11 +1024,15 @@ Projects that are not in English have a flag
 
 ### [Ionic](http://ionicframework.com/) 
  
+[back to top](#readme) 
+ 
 - Vegan Lists UK: View and collect official/unofficial Vegan food lists 
   - https://github.com/dsgriffin/vegan-lists-uk
   - https://itunes.apple.com/app/vegan-lists-uk/id1083273301
 
 ### Parse 
+ 
+[back to top](#readme) 
  
 - 2CITY: Find out the coolest things to do in your city 
   - https://github.com/2city/2CITY-iOS
@@ -993,6 +1059,8 @@ Projects that are not in English have a flag
   - https://github.com/TomekB/iBeaconTasks
 
 ### [React Native](http://facebook.github.io/react-native/) 
+ 
+[back to top](#readme) 
  
 - 2048: App by Facebook 
   - https://github.com/facebook/react-native/tree/master/Examples/2048
@@ -1066,8 +1134,12 @@ Projects that are not in English have a flag
 
 ### Reactive Programming 
  
+[back to top](#readme) 
+ 
 
 ### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 
+ 
+[back to top](#readme) 
  
 - BrewMobile: App for managing the beer brewing process 🔶🔥
   - https://github.com/brewfactory/BrewMobile
@@ -1096,6 +1168,8 @@ Projects that are not in English have a flag
 
 ### [RXSwift](https://github.com/ReactiveX/RxSwift) 
  
+[back to top](#readme) 
+ 
 - GitHub API Client: GitHub client using MVVM and RxSwift 🔶🔥
   - https://github.com/tailec/boilerplate
 - Kiosk: The Artsy auction kiosk app, uses RxSwift 🔶🔥🔥🔥🔥
@@ -1103,12 +1177,16 @@ Projects that are not in English have a flag
 
 ### Realm 
  
+[back to top](#readme) 
+ 
 - Done: Data sharing between a WatchKit app and its main app using Realm 🔶
   - https://github.com/FancyPixel/done-swift
 - RealmToDo: A small todo list with Realm integration 🔶
   - https://github.com/pietbrauer/RealmToDo
 
 ### [VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/) 
+ 
+[back to top](#readme) 
  
 - Contacts
   - https://github.com/sebastianwr/VIPER-Persons
@@ -1120,6 +1198,8 @@ Projects that are not in English have a flag
   - https://www.objc.io/issues/13-architecture/viper/
 
 ### Xamarin 
+ 
+[back to top](#readme) 
  
 - Toggl Timer 🔥
   - https://github.com/toggl/mobile

@@ -83,10 +83,10 @@ end
 c = File.read 'contents.json'
 j = JSON.parse c
 
-t = j['title']
+t    = j['title']
 desc = j['description']
-h = j['header']
-f = j['footer']
+h    = j['header']
+f    = j['footer']
 cats = j['categories']
 apps = j['projects']
 
@@ -100,14 +100,19 @@ cats.each do |c|
   output << temp
 end
 
-output << "- [Bonus](#bonus)"
+output << "- [Bonus](#bonus) \n"
 
-output << "\n \n"
+output << "\n"
 output << h
 output << "\n"
 
 cats.each do |c|
   temp = "\n#\##{'#' unless c['parent']==nil } #{c['title']} \n \n"
+
+  d = c['description']
+  temp << "#{d} — " unless d.nil?
+
+  temp << "[back to top](#readme) \n \n"
   output << temp
 
   cat_apps = apps_for_cat(apps, c['id'])
