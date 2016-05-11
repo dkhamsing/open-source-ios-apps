@@ -83,10 +83,10 @@ end
 c = File.read 'contents.json'
 j = JSON.parse c
 
-t = j['title']
+t    = j['title']
 desc = j['description']
-h = j['header']
-f = j['footer']
+h    = j['header']
+f    = j['footer']
 cats = j['categories']
 apps = j['projects']
 
@@ -100,9 +100,9 @@ cats.each do |c|
   output << temp
 end
 
-output << "- [Bonus](#bonus)"
+output << "- [Bonus](#bonus) \n"
 
-output << "\n \n"
+output << "\n"
 output << h
 output << "\n"
 
