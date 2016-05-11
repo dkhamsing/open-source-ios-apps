@@ -15,5 +15,5 @@ deployment:
   master:
     branch: master
     commands:
-      - ruby convert.md
+      - ruby convert.rb
       - ./deploy.sh
