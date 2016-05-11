@@ -110,7 +110,7 @@
 		"id": "ionic",
 		"parent": "special"
 	}, {
-		"title": "parse",
+		"title": "Parse",
 		"id": "parse",
 		"parent": "special"
 	}, {
