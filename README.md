@@ -58,7 +58,9 @@ Projects that are not in English have a flag
 - [EX Player][extvplayer]: Watch video from ex.ua on your TV
 - [Provenance][]: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥
 - [UitzendingGemist](https://github.com/jeffkreeftmeijer/UitzendingGemist): Unofficial Apple TV app for Dutch Public Broadcasting video on demand service 🔶
+- [View Rails casts video on Apple TV](https://github.com/Romi08/railscasts-on-appletv): Rails Video On Your Apple TV 
 - [WWDCTV](https://github.com/azzoor/WWDCTV): Watch the WWDC Videos on your Apple TV 🔥🔥
+
 
 ## Apple Watch
 
