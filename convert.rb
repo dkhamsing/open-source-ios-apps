@@ -107,7 +107,11 @@ output << h
 output << "\n"
 
 cats.each do |c|
-  temp = "\n#\##{'#' unless c['parent']==nil } #{c['title']} \n"
+  temp = "\n#\##{'#' unless c['parent']==nil } #{c['title']} \n \n"
+
+  d = c['description']
+  temp << "#{d} — " unless d.nil?
+
   temp << "[back to top](#readme) \n \n"
   output << temp
 
