@@ -200,13 +200,13 @@
 		"source": "https://github.com/JohnWong/bus-today",
 		"itunes": "https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341"
 	}, {
-		"title": "Calculator",
+		"title": "Calculator by noodlewerk",
 		"category": "apple-watch",
 		"description": "",
 		"source": "https://github.com/noodlewerk/Apple_Watch_Calculator",
 		"tags": ["swift"]
 	}, {
-		"title": "Calculator",
+		"title": "Calculator by mukeshthawani",
 		"category": "apple-watch",
 		"description": "",
 		"source": "https://github.com/mukeshthawani/Calculator",
@@ -706,15 +706,13 @@
 		"stars": 100,
 		"tags": ["swift"]
 	}, {
-		"title": "2048",
+		"title": "2048 in Objective-C",
 		"category": "games",
-		"description": "2048 game in Objective-C",
 		"source": "https://github.com/austinzheng/iOS-2048",
 		"stars": 100
 	}, {
-		"title": "2048",
+		"title": "2048 in Swift",
 		"category": "games",
-		"description": "2048 game in Swift",
 		"source": "https://github.com/austinzheng/swift-2048",
 		"stars": 1000,
 		"tags": ["swift"]
