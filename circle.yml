@@ -7,7 +7,7 @@ test:
     - sudo pip install json-spec
   override:
     - awesome_bot contents.json --white-list developer.apple
-    - json validate --schema-file=schema.json --document-file=contents.json
+    - json validate --schema-file=.github/schema.json --document-file=contents.json
 general:
   artifacts:
     - "ab-results.json"
@@ -15,5 +15,5 @@ deployment:
   master:
     branch: master
     commands:
-      - ruby convert.rb
-      - ./deploy.sh
+      - ruby .github/convert.rb
+      - ./github/deploy.sh
