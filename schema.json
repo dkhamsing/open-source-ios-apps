@@ -133,7 +133,7 @@
 					}
 
 				},
-				"required": ["title", "category", "description", "source"],
+				"required": ["title", "category", "source"],
 				"additionalProperties": false
 			}
 		}
