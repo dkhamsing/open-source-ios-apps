@@ -11,6 +11,8 @@ Adding a `JSON` entry
 
 ### New entries go to the end of the file
 
+Example: https://github.com/dkhamsing/open-source-ios-apps/pull/281/files
+
 At the end of **contents.json**, add an entry at `}]`
 
 ```js
