@@ -8,34 +8,20 @@ To create a new category, please open an issue (see CONTRIBUTING) -->
 
 1. [ ] Project URL:
 2. [ ] One project per pull request
-3. [ ] Avoid iOS or open-source in description as it is assumed
-4. [ ] Use this commit title format if applicable: Add app-name by @github-username
-5. [ ] Use approved format for your entry
+3. [ ] Project added at the end of the list (a script sorts projects automatically)
+4. [ ] Avoid iOS or open-source in description as it is assumed
+5. [ ] Use this commit title format if applicable: Add app-name by @github-username
+6. [ ] Use approved format for your entry
 
 <!-- Approved Format
 
-At minimum
+{
+  "title": "Name of the app",
+  "category": "Category name",
+  "description": "What this app does",
+  "source": "Link to source, usually GitHub"
+}
 
-  {
-		"title": "MrCode",
-		"category": "github",
-		"description": "GitHub iPhone app that can cache Markdown content",
-		"source": "https://github.com/haolloyin/MrCode" // note, no comma on last line
-  }
-
-
-Optionally
-
-  {
-		"title": "MrCode",
-		"category": ["github", "parse"],
-		"description": "GitHub iPhone app that can cache Markdown content",
-		"lang": "zho",
-		"source": "https://github.com/haolloyin/MrCode",
-    "homepage": "https://awesome-url",
-		"itunes": "https://itunes.apple.com/app/id1234567890",
-		"tags": ["swift"],
-		"stars": 200
-  }
+For more information, read https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md
 
 -->
