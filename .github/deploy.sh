@@ -5,7 +5,7 @@ set -e
 git config user.name "Travis CI"
 git config user.email "dkhamsing@users.noreply.github.com"
 
-git checkout master
+#git checkout master
 
 git add README.md
 
