@@ -74,6 +74,8 @@ Projects that are not in English have a flag
   - https://github.com/IGRSoft/exTVPlayer
 - Provenance: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥
   - https://github.com/jasarien/Provenance
+- RailsCasts: Watch RailsCasts videos on Apple TV 
+  - https://github.com/spritlesoftware/railscasts-on-appletv
 - UitzendingGemist: Unofficial Apple TV app for Dutch Public Broadcasting video on demand service 🔶
   - https://github.com/jeffkreeftmeijer/UitzendingGemist
 - WWDCTV: Watch the WWDC Videos on your Apple TV 🔥🔥
@@ -288,8 +290,6 @@ Projects that are not in English have a flag
 - OctoPodium: List user rankings based on GitHub repository star count 🔶
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
-- View Rails Casts video on Apple TV: Watch rails casts video on Apple TV 
-  - https://github.com/spritlesoftware/railscasts-on-appletv
 
 ## Finance 
  
