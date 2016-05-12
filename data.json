@@ -167,6 +167,13 @@
 		"source": "https://github.com/jeffkreeftmeijer/UitzendingGemist",
 		"tags": ["swift"]
 	}, {
+		"title": "View Rails Casts Video On Apple TV",
+		"category": "apple-tv",
+		"description": "Watch video of Rails Casts on your TV",
+		"source": "https://github.com/Romi08/railscasts-on-appletv"
+	},
+
+	   {
 		"title": "WWDCTV",
 		"category": "apple-tv",
 		"description": "Watch the WWDC Videos on your Apple TV",
