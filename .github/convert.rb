@@ -14,6 +14,8 @@ def output_stars(number)
     '🔥🔥🔥🔥'
   when 2000...100000
     '🔥🔥🔥🔥🔥'
+  else
+    ''
   end
 end
 
