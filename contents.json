@@ -3449,6 +3449,13 @@
       "description": "Watch RailsCasts videos on Apple TV",
       "source": "https://github.com/spritlesoftware/railscasts-on-appletv",
       "stars": 0
+    },
+    {
+      "title": "Auto Layout Magic",
+      "category": "developer",
+      "description": "Design 1 scene, and auto-generate constraints",
+      "source": "http://akordadev.github.io/AutoLayoutMagic/",
+      "stars": 0
     }
   ]
 }
