@@ -2653,10 +2653,11 @@
       "stars": 438
     },
     {
-      "title": "HackCancer",
-      "category": "misc",
-      "description": "[Hackathon app](http://www.hackcancer.co/)",
+      "title": "Hack Cancer",
+      "category": "conference",
+      "description": "Hackathon app",
       "source": "https://github.com/HackCancer/iOS",
+      "itunes": "https://itunes.apple.com/app/hack-cancer/id1030806844",
       "tags": [
         "swift"
       ],
