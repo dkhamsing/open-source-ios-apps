@@ -83,7 +83,7 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- BaiduFM-Swift🔶🔥🔥
+- BaiduFM-Swift 🔶🔥🔥
   - https://github.com/belm/BaiduFM-Swift
 - Bither: Simple and secure Bitcoin wallet 
   - https://github.com/bither/bither-ios ([extension](https://github.com/bither/bither-ios/tree/master/bither-ios%20WatchKit%20Extension))
@@ -94,13 +94,13 @@ Projects that are not in English have a flag
 - Bus Today: Track bus line on your wrist 🇨🇳
   - https://github.com/JohnWong/bus-today
   - https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341
-- Calculator by mukeshthawani🔶
+- Calculator by mukeshthawani 🔶
   - https://github.com/mukeshthawani/Calculator
-- Calculator by noodlewerk🔶
+- Calculator by noodlewerk 🔶
   - https://github.com/noodlewerk/Apple_Watch_Calculator
 - Cherry: Mini Pomodoro Timer app 🔶🔥🔥
   - https://github.com/kenshin03/Cherry
-- Connectivity Demo
+- Connectivity Demo 
   - https://github.com/swilliams/watchkit-connectivity-demo
 - CoolSpot: The missing Spotify app 🔶
   - https://github.com/neonichu/CoolSpot
@@ -288,6 +288,8 @@ Projects that are not in English have a flag
 - OctoPodium: List user rankings based on GitHub repository star count 🔶
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
+- View Rails Casts video on Apple TV: Watch rails casts video on Apple TV 
+  - https://github.com/spritlesoftware/railscasts-on-appletv
 
 ## Finance 
  
@@ -376,7 +378,7 @@ Projects that are not in English have a flag
 - Sakura Fly: Action game created in SpriteKit 
   - https://github.com/l800891/Sakura-Fly
   - https://itunes.apple.com/app/sakura-fly/id1019023051
-- SceneKitFrogger🔶
+- SceneKitFrogger 🔶
   - https://github.com/devindazzle/SceneKitFrogger
 - Spare Parts: Simple 2D point and line physics using Verlet integration 
   - https://github.com/adamwulf/spare-parts-app
@@ -571,7 +573,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/Ciechan/Revolved
 - SoundCloudSwift: SoundCloud client written on Swift 🔶🔥
   - https://github.com/pepibumur/SoundCloudSwift
-- Swift ASCII Art Generator🔶🔥
+- Swift ASCII Art Generator 🔶🔥
   - https://github.com/ijoshsmith/swift-ascii-art
 - Swift Radio Pro: Professional Radio Station App, created w/ Swift 2.0 🔶🔥🔥🔥🔥
   - https://github.com/swiftcodex/Swift-Radio-Pro
@@ -652,12 +654,12 @@ Image, video, audio, reading — [back to top](#readme)
 - Hacker News Client: Firebase API-Based iOS Reader (Firebase) 🔥🔥
   - https://github.com/bonzoq/hniosreader
   - https://itunes.apple.com/app/hacker-news-client/id939454231
-- HackerNews🔶🔥🔥🔥
+- HackerNews 🔶🔥🔥🔥
   - https://github.com/amitburst/HackerNews
 - HackerNews (Y): Built using pure Objective-C with official HN API (uses Firebase and Fabric) 
   - https://github.com/vetri02/HackerNews
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
-- Hackers🔶🔥🔥
+- Hackers 🔶🔥🔥
   - https://github.com/weiran/Hackers
 - News/YC: Hacker News client with user management, commenting, submitting and themes 🔶🔥🔥🔥
   - https://github.com/bennyguitar/News-YC---iPhone
@@ -711,11 +713,11 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/Yalantis/CloudKit-Demo.Objective-C
 - CloudKit in Swift 🔶
   - https://github.com/Yalantis/CloudKit-Demo.Swift
-- Federal Data SDK🔶
+- Federal Data SDK 🔶
   - https://github.com/USDepartmentofLabor/Swift-Sample-App
 - Furni: Furniture store demo app using Fabric 🔶🔥
   - https://github.com/twitterdev/furni-ios
-- HomeKit-Demo🔶🔥🔥
+- HomeKit-Demo 🔶🔥🔥
   - https://github.com/KhaosT/HomeKit-Demo
 - KnockToReact: Interact with users just by receiving and recognizing "knocks" in the device 
   - https://github.com/MatheusCavalca/KnockToReact
@@ -795,7 +797,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630
 - CloudKit-To-Do-List: Store & retrieve tasks using CloudKit 🔶
   - https://github.com/anthonygeranio/CloudKit-To-Do-List
-- MyAwesomeChecklist🔶
+- MyAwesomeChecklist 🔶
   - https://github.com/imod/MyAwesomeChecklist
 - RealmToDo: A small todo list with Realm integration 🔶
   - https://github.com/pietbrauer/RealmToDo
@@ -824,7 +826,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/liu044100/SmileWeather
 - Sol: Uses Weather Underground 🔥🔥🔥🔥
   - https://github.com/comyarzaheri/Sol
-- SwiftWeather🔶🔥🔥🔥🔥🔥
+- SwiftWeather 🔶🔥🔥🔥🔥🔥
   - https://github.com/JakeLin/SwiftWeather
 - Tropos: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
   - https://github.com/thoughtbot/Tropos
@@ -868,7 +870,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/MatheusCavalca/RenovaLivrosUFRGS
 - CardDecks: Configurable card decks 
   - https://github.com/aharren/CardDecks
-- ChineseZodiac🔶🔥
+- ChineseZodiac 🔶🔥
   - https://github.com/JakeLin/ChineseZodiac
 - Colo: Color themes hunter 
   - https://github.com/wongzigii/Colo
@@ -993,12 +995,12 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Coffee Timer🔶
+- Coffee Timer 🔶
   - https://github.com/ashfurrow/yourfirstswiftapp
 - Fojusi: Work timer with today extension 🔶🔥🔥
   - https://github.com/dasdom/Tomate
   - https://itunes.apple.com/app/fojusi/id923044693
-- TrackMyTime
+- TrackMyTime 
   - https://github.com/EvgenyKarkan/TrackMyTime
 
 ## Special 
@@ -1018,9 +1020,9 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- DVD Collection Tracker
+- DVD Collection Tracker 
   - https://github.com/chrismiles/OrganisingCoreData
-- Nested Lists🔥
+- Nested Lists 🔥
   - https://github.com/objcio/issue-4-full-core-data-application
 - Tasks: Designed to quickly and easily add tasks to your iPhone 🔶
   - https://github.com/mbcrump/TasksForSwiftWithPersistingData
@@ -1072,26 +1074,26 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/bgryszko/react-native-example
 - Assemblies: Developer-focused Meetup clone 🔥
   - https://github.com/buildreactnative/assemblies
-- Calculator🔥🔥🔥🔥
+- Calculator 🔥🔥🔥🔥
   - https://github.com/benoitvallon/react-native-nw-react-calculator
-- Currency Converter
+- Currency Converter 
   - https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter
 - Den: View houses for sale in the Northwest 🔥
   - https://github.com/asamiller/den
-- Dribbble🔥🔥🔥
+- Dribbble 🔥🔥🔥
   - https://github.com/catalinmiron/react-native-dribbble-app
 - F8 2016: Official F8 app 🔥🔥🔥🔥
   - https://github.com/fbsamples/f8app/
-- Facebook Login🔥🔥
+- Facebook Login 🔥🔥
   - https://github.com/brentvatne/react-native-login
 - Finance: iOS's Stocks app written in React Native 🔥
   - https://github.com/7kfpun/FinanceReactNative
-- Foreign Exchange
+- Foreign Exchange 
   - https://github.com/peralmq/ForeignExchangeApp
 - HackerNews-React-Native 🔥🔥🔥🔥
   - https://github.com/iSimar/HackerNews-React-Native
   - https://itunes.apple.com/app/hacker-news-reader-react-native/id1067161633
-- Iceland Earthquakes
+- Iceland Earthquakes 
   - https://github.com/paranoida/IcelandEarthquakes
 - Movies: App by Facebook 
   - https://github.com/facebook/react-native/tree/master/Examples/Movies
@@ -1103,23 +1105,23 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/mzabriskie/PocketNode
 - Product Kitty: Product Hunt app 
   - https://github.com/rkho/product-kitty
-- Property Finder🔥
+- Property Finder 🔥
   - https://github.com/ColinEberhardt/ReactNative-PropertyFinder
-- RSS Reader
+- RSS Reader 
   - https://github.com/christopherdro/react-native-rss-reader
-- ReactNativeHackerNews
+- ReactNativeHackerNews 
   - https://github.com/jsdf/ReactNativeHackerNews
-- Songkick
+- Songkick 
   - https://github.com/ArnaudRinquin/sk-react-native
 - Spacepics: A small app displaying NASA's Picture of the Day 
   - https://github.com/campezzi/react-native-spacepics
-- Sudoku
+- Sudoku 
   - https://github.com/christopherdro/react-native-sudoku
 - TicTacToe: App by Facebook 
   - https://github.com/facebook/react-native/tree/master/Examples/TicTacToe
-- To Do List
+- To Do List 
   - https://github.com/joemaddalone/react-native-todo
-- Twitch
+- Twitch 
   - https://github.com/IFours/react-native-twitch
 - UIExplorer: App by Facebook 
   - https://github.com/facebook/react-native/tree/master/Examples/UIExplorer
@@ -1129,9 +1131,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
 - allyoop: NBA game scores app 🔥🔥
   - https://github.com/wwayne/react-native-nba-app
-- iTunes Catalog Search
+- iTunes Catalog Search 
   - https://github.com/alexissan/ReactNativeWorkshop
-- london-react
+- london-react 
   - https://github.com/JoeStanton/london-react
 - newswatch: News app using YouTube playlists 
   - https://github.com/bradoyler/newswatch-react-native
@@ -1194,11 +1196,11 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Contacts
+- Contacts 
   - https://github.com/sebastianwr/VIPER-Persons
-- Counter🔥
+- Counter 🔥
   - https://github.com/mutualmobile/Counter
-- Rambler.Conferences
+- Rambler.Conferences 
   - https://github.com/rambler-ios/RamblerConferences
 - To do: objcio [example](https://github.com/objcio/issue-13-viper) 
   - https://www.objc.io/issues/13-architecture/viper/
