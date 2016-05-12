@@ -2466,5 +2466,10 @@
 		"category": "github",
 		"description": "Watch rails casts video on Apple TV",
 		"source": "https://github.com/spritlesoftware/railscasts-on-appletv"
+	}, {
+		"title": "Load-Map-on-reactnative",
+		"category": "react-native",
+		"description": "Embed Responsive Web On A React-Native App",
+		"source": "https://github.com/sathyapriya31/load-webview-on-reactnative"
 	}]
 }
