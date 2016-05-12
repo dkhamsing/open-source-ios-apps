@@ -283,7 +283,7 @@
 	}, {
 		"title": "Impulse",
 		"category": "apple-watch",
-		"description": "Real-time age ticker for iOS and watchOS",
+		"description": "Real-time age ticker",
 		"source": "https://github.com/Jasdev/Impulse",
 		"tags": ["swift"]
 	}, {
@@ -544,7 +544,6 @@
 	}, {
 		"title": "BlockParty",
 		"category": "content-blocking",
-		"description": "Content blocker for iOS and OS X",
 		"source": "https://github.com/krishkumar/BlockParty",
 		"stars": 500
 	}, {
@@ -736,7 +735,7 @@
 	}, {
 		"title": "Chess",
 		"category": "games",
-		"description": "iOS Chess game to learn SpriteKit",
+		"description": "Chess game to learn SpriteKit",
 		"source": "https://github.com/mjcuva/Chess",
 		"tags": ["swift"]
 	}, {
@@ -772,7 +771,7 @@
 	}, {
 		"title": "Five-In-A-Row",
 		"category": "games",
-		"description": "Five In A Row () game with SpriteKit",
+		"description": "Five In A Row (五子棋) game with SpriteKit",
 		"lang": "zho",
 		"source": "https://github.com/WelkinXie/FiveInARow"
 	}, {
@@ -824,7 +823,7 @@
 	}, {
 		"title": "Orbit7",
 		"category": "games",
-		"description": "iOS Game created in SpriteKit",
+		"description": "Game created in SpriteKit",
 		"source": "https://github.com/Mav3r1ck/Orbit7",
 		"tags": ["swift"]
 	}, {
@@ -861,7 +860,7 @@
 	}, {
 		"title": "Arex",
 		"category": "health",
-		"description": "App for remembering to take your medications",
+		"description": "Reminders for taking your medications",
 		"source": "https://github.com/a2/arex-7",
 		"tags": ["swift"]
 	}, {
