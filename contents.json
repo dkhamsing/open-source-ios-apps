@@ -2462,9 +2462,9 @@
 		"source": "https://github.com/JensRavens/ReactiveKitten",
 		"tags": ["swift"]
 	}, {
-		"title": "View Rails Casts video on Apple TV",
+		"title": "RailsCasts",
 		"category": "apple-tv",
-		"description": "Watch rails casts video on Apple TV",
+		"description": "Watch RailsCasts videos on Apple TV",
 		"source": "https://github.com/spritlesoftware/railscasts-on-appletv"
 	}]
 }
