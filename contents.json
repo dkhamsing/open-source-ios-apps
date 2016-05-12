@@ -2461,5 +2461,10 @@
 		"description": "It's about gifs and cats, example project for Interstellar",
 		"source": "https://github.com/JensRavens/ReactiveKitten",
 		"tags": ["swift"]
-		}]
+	}, {
+		"title": "View Rails Casts video on Apple TV",
+		"category": "github",
+		"description": "Watch rails casts video on Apple TV",
+		"source": "https://github.com/spritlesoftware/railscasts-on-appletv"
+	}]
 }
