@@ -72,7 +72,7 @@ Projects that are not in English have a flag
   - https://github.com/artsy/Emergence
 - EX Player: Watch video from ex.ua 
   - https://github.com/IGRSoft/exTVPlayer
-- Provenance: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥
+- Provenance: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
   - https://github.com/jasarien/Provenance
 - RailsCasts: Watch RailsCasts videos on Apple TV 
   - https://github.com/spritlesoftware/railscasts-on-appletv
@@ -88,7 +88,7 @@ Projects that are not in English have a flag
 - BaiduFM-Swift 🔶🔥🔥
   - https://github.com/belm/BaiduFM-Swift
 - Bither: Simple and secure Bitcoin wallet 
-  - https://github.com/bither/bither-ios ([extension](https://github.com/bither/bither-ios/tree/master/bither-ios%20WatchKit%20Extension))
+  - https://github.com/bither/bither-ios
   - https://itunes.apple.com/app/bither/id899478936
 - Brew: Discover craft beer pubs nearby 🔶
   - https://github.com/contentful/ContentfulWatchKitExample
@@ -115,15 +115,15 @@ Projects that are not in English have a flag
   - https://github.com/jazzychad/FlickrWatch
 - GrandCentralBoard: Hang a TV in your open space / team room to show everyone what's up and get them up to speed 🔶🔥
   - https://github.com/macoscope/GrandCentralBoard
-- Gulps: Track your daily water consumption 🔶🔥🔥
+- Gulps: Track your daily water consumption 🔶🔥🔥🔥
   - https://github.com/FancyPixel/gulps
   - https://itunes.apple.com/app/gulps/id979057304
-- HN Reader: Hacker News Reader 🔶🔥🔥🔥
+- HN Reader: Hacker News Reader 🔶🔥🔥🔥🔥
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
 - HighStreet: Highstreet shopping app 🔶🔥🔥
   - https://github.com/GetHighstreet/HighstreetWatchApp
-- Impulse: Real-time age ticker for iOS and watchOS 🔶
+- Impulse: Real-time age ticker 🔶
   - https://github.com/Jasdev/Impulse
 - KTPomodoro: Mini Pomodoro Timer app 
   - https://github.com/kenshin03/KTPomodoro
@@ -133,7 +133,7 @@ Projects that are not in English have a flag
   - https://github.com/chadkeck/Natural-Language-Clock
 - OnTime: Apple Watch app to access the SBB (Swiss railway) timetable 
   - https://github.com/D-32/OnTime
-- Parties for WWDC 🔥
+- Parties for WWDC 🔥🔥
   - https://github.com/genadyo/WWDC
   - https://itunes.apple.com/app/parties-for-wwdc/id879924066
 - PhoneBattery: Your phone's battery, on your wrist 
@@ -182,10 +182,10 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- Actor: Communication app with a focus on speed and security 
+- Actor: Communication app with a focus on speed and security 🔥🔥🔥🔥🔥
   - https://github.com/actorapp/actor-platform
   - https://itunes.apple.com/app/actor-messenger/id1025501036
-- BLEMeshChat: Bluetooth LE mesh chat 🔥
+- BLEMeshChat: Bluetooth LE mesh chat 🔥🔥
   - https://github.com/chrisballinger/BLEMeshChat
 - ChatSecure: Encrypted chat app that supports OTR encryption over XMPP 🔥🔥🔥🔥
   - https://github.com/ChatSecure/ChatSecure-iOS
@@ -230,7 +230,7 @@ Projects that are not in English have a flag
   - https://github.com/raywenderlich/RWDevCon-App
 - Valio: Valio Con 2014 schedule 🔶🔥🔥
   - https://github.com/soffes/valio
-- trySwiftApp: try! Swift conference app 🔶🔥
+- trySwiftApp: try! Swift conference app 🔶🔥🔥
   - https://github.com/tryswift/trySwiftApp
 
 ## Content Blocking 
@@ -243,7 +243,7 @@ Projects that are not in English have a flag
 - Adblock Plus 
   - https://github.com/adblockplus/adblockplussafariios
   - https://itunes.apple.com/app/adblock-plus-abp/id1028871868
-- BlockParty: Content blocker for iOS and OS X 🔥🔥🔥
+- BlockParty 🔥🔥🔥
   - https://github.com/krishkumar/BlockParty
 - Focus: Content blocker by Firefox 🔶🔥🔥
   - https://github.com/mozilla/focus
@@ -260,13 +260,13 @@ Projects that are not in English have a flag
 - CI2Go: An unofficial CircleCI Client 🔶
   - https://github.com/ngs/ci2go
   - https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427
-- Charter: A Swift mailing list client for iPhone and iPad 🔶🔥
+- Charter: A Swift mailing list client for iPhone and iPad 🔶🔥🔥
   - https://github.com/matthewpalmer/Charter
   - https://itunes.apple.com/app/charter-mailing-list-client/id1082212697
 - Codinator: Code editor for iPhone and iPad 
   - https://github.com/VWAS/codinator
   - https://itunes.apple.com/app/codinator/id1024671232
-- RealmVideo: Watch Realm videos and slides on your phone 🔶🔥
+- RealmVideo: Watch Realm videos and slides on your phone 🔶🔥🔥
   - https://github.com/BalestraPatrick/RealmVideo
 - Review Time: Shows average review times for iOS and Mac apps 🔶🔥
   - https://github.com/nthegedus/ReviewTime
@@ -282,7 +282,7 @@ Projects that are not in English have a flag
  
 - Github-Swift: App written in Swift using the Github API 🔶
   - https://github.com/acmacalister/Github-Swift
-- Monkey: GitHub third party client that shows the rank of coders and repositories 🔥🔥🔥
+- Monkey: GitHub third party client that shows the rank of coders and repositories 🔥🔥🔥🔥
   - https://github.com/coderyi/Monkey
   - https://itunes.apple.com/app/monkey-for-github/id1003765407
 - MrCode: GitHub iPhone app that can cache Markdown content 🇨🇳🔥🔥
@@ -328,7 +328,7 @@ Projects that are not in English have a flag
  
 - 2048 in Objective-C 🔥
   - https://github.com/austinzheng/iOS-2048
-- 2048 in Swift 🔶🔥🔥🔥🔥
+- 2048 in Swift 🔶🔥🔥🔥🔥🔥
   - https://github.com/austinzheng/swift-2048
 - Bridges: A puzzle game with bridges, houses, tolls, and subways 🔥
   - https://github.com/zgrossbart/bridges
@@ -338,7 +338,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/canabalt/id333180061
 - CardsAgainst: Cards Against Humanity app 🔶🔥🔥
   - https://github.com/jpsim/CardsAgainst
-- Chess: iOS Chess game to learn SpriteKit 🔶
+- Chess: Chess game to learn SpriteKit 🔶
   - https://github.com/mjcuva/Chess
 - Chuck: Throw a ball and catch it. Over and over and over. 
   - https://github.com/moowahaha/Chuck
@@ -353,7 +353,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/doom-ii-rpg/id354051766
 - Dungeon Crawl: A game of dungeon exploration, combat and magic, involving characters of diverse skills 
   - https://github.com/CliffsDover/crawl/tree/iOS_Release
-- Five-In-A-Row: Five In A Row () game with SpriteKit 🇨🇳
+- Five-In-A-Row: Five In A Row (五子棋) game with SpriteKit 🇨🇳
   - https://github.com/WelkinXie/FiveInARow
 - FlappySwift: Swift implementation of Flappy Bird 🔶🔥🔥🔥🔥🔥
   - https://github.com/fullstackio/FlappySwift
@@ -371,9 +371,9 @@ Projects that are not in English have a flag
 - Mission999 
   - https://github.com/whunmr/Mission999
   - https://itunes.apple.com/app/mission-999/id1036686316
-- Orbit7: iOS Game created in SpriteKit 🔶
+- Orbit7: Game created in SpriteKit 🔶
   - https://github.com/Mav3r1ck/Orbit7
-- Provenance: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥
+- Provenance: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
   - https://github.com/jasarien/Provenance
 - Sakura Fly: Action game created in SpriteKit 
   - https://github.com/l800891/Sakura-Fly
@@ -397,7 +397,7 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- Arex: App for remembering to take your medications 🔶
+- Arex: Reminders for taking your medications 🔶
   - https://github.com/a2/arex-7
 - AsthmaHealth: ResearchKit app studying Asthma 
   - https://github.com/ResearchKit/AsthmaHealth
@@ -484,7 +484,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/parkendd/id957165041
 - PebCiti: Pebble app to show nearest CitiBike NYC dock 
   - https://github.com/joemasilotti/PebCiti
-- Smart Traveller (UberGuide): Simple and comfortable way to explore a city using Uber API 🔥
+- Smart Traveller (UberGuide): Simple and comfortable way to explore a city using Uber API 🔥🔥
   - https://github.com/hACKbUSTER/UberGuide-iOS
 - Startups - Mapped In Israel: Discover new startups and locate co-working spaces 
   - https://github.com/sugarso/MappedInIsrael
@@ -518,7 +518,7 @@ Image, video, audio, reading — [back to top](#readme)
 - ColorBlur: Add blur to your photos 
   - https://github.com/maurovc/ColorBlur
   - https://itunes.apple.com/app/id928863510
-- ComicFlow: Comic reader for iPad 🔥
+- ComicFlow: Comic reader for iPad 🔥🔥
   - https://github.com/swisspol/ComicFlow
   - https://itunes.apple.com/app/comicflow/id409290355
 - DoubanFM: douban.fm client for iPhone, using AFN and MPMoviePlayer 🇨🇳🔥🔥
@@ -531,10 +531,10 @@ Image, video, audio, reading — [back to top](#readme)
 - Eleven: Eleven Player is a simple powerful video player, uses ffmpeg 🔥🔥
   - https://github.com/coderyi/Eleven
   - https://itunes.apple.com/app/elevenplayer/id1033773648
-- Filterpedia: Core Image Filter explorer 🔶🔥🔥🔥
+- Filterpedia: Core Image Filter explorer 🔶🔥🔥🔥🔥
   - https://github.com/FlexMonkey/Filterpedia
 - Flickr-Search: Simple app which consumes the Flickr Search API 
-  - https://github.com/alikaragoz/Flickr-Search/
+  - https://github.com/alikaragoz/Flickr-Search
 - FreeStreamer: A low-memory footprint streaming audio player 🔥🔥🔥
   - https://github.com/muhku/FreeStreamer
 - KonaBot: unofficial client for konachan.net 🔶
@@ -545,7 +545,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339
 - Megabite: Turn a photo of your food into a face 🔥🔥
   - https://github.com/AaronRandall/Megabite
-- OCiney: Movie info app 🔥
+- OCiney: Movie info app 🔥🔥
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/app/id955480687
 - Open Source Selfie Stick: Sync two iOS devices and use one as a remote control for the other's camera! 
@@ -558,7 +558,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018
 - PhotoBrowser: A simple iOS Instagram photo browser 🔶🔥🔥
   - https://github.com/MoZhouqi/PhotoBrowser
-- PopcornTime: PopcornTime movie app 🔶
+- PopcornTime: PopcornTime movie app 🔶🔥
   - https://github.com/danylokostyshyn/popcorntime-ios
 - Poppins: House all your favorite GIFs and easily share them with your friends and family 🔶
   - https://github.com/thoughtbot/poppins
@@ -567,7 +567,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/soffes/Pugs
 - ReactiveKitten: It's about gifs and cats, example project for Interstellar 🔶
   - https://github.com/JensRavens/ReactiveKitten
-- RealmVideo: Watch Realm videos and slides on your phone 🔶🔥
+- RealmVideo: Watch Realm videos and slides on your phone 🔶🔥🔥
   - https://github.com/BalestraPatrick/RealmVideo
 - Revolved: 3D modelling app for the iPad 🔥🔥🔥
   - https://github.com/Ciechan/Revolved
@@ -599,11 +599,11 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/videolan/vlc
   - https://www.videolan.org/
   - https://itunes.apple.com/app/vlc-for-ios/id650377962
-- VoiceMemos: Universal audio recorder app 🔶🔥
+- VoiceMemos: Universal audio recorder app 🔶🔥🔥
   - https://github.com/MoZhouqi/VoiceMemos
 - movies: Movie info app 🔥🔥🔥
   - https://github.com/KMindeguia/movies
-- prankPro: Record a 6 second video while playing prank sounds 
+- prankPro: Record a 6 second video while playing prank sounds 🔥🔥
   - https://github.com/huijimuhe/prankPro
 - xkcd: iPhone app 
   - https://github.com/paulrehkugler/xkcd
@@ -625,9 +625,9 @@ Image, video, audio, reading — [back to top](#readme)
 - GrinnellEvents: Grinnell Events gathers all events on campus, and lists them so you can see what's happening 
   - https://github.com/kvnbautista/Grinnell-Events-iOS
   - https://itunes.apple.com/app/grinnell-events/id924312300
-- NirZhihuDaily2.0 🇨🇳🔥🔥🔥
+- NirZhihuDaily2.0 🇨🇳🔥🔥🔥🔥
   - https://github.com/zpz1237/NirZhihuDaily2.0
-- RSSRead: A RSS reader with offline feature 🇨🇳🔥🔥
+- RSSRead: A RSS reader with offline feature 🇨🇳🔥🔥🔥
   - https://github.com/ming1016/RSSRead
   - https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364
 - Reddit: Reddit news app 🔶
@@ -645,7 +645,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- HN Reader: Hacker News Reader 🔶🔥🔥🔥
+- HN Reader: Hacker News Reader 🔶🔥🔥🔥🔥
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
 - HN-App 🔶
@@ -675,7 +675,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Coding: Official Coding app 🔥🔥🔥
+- Coding: Official Coding app 🔥🔥🔥🔥
   - https://github.com/Coding/Coding-iOS
   - https://itunes.apple.com/app/coding/id923676989
 - DuckDuckGo: Official DuckDuckGo app 
@@ -694,7 +694,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Wikipedia: Official Wikipedia app 🔥🔥🔥
   - https://github.com/wikimedia/wikipedia-ios
   - https://itunes.apple.com/app/wikipedia-mobile/id324715238
-- WordPress: Official WordPress app 🔥🔥🔥
+- WordPress: Official WordPress app 🔥🔥🔥🔥
   - https://github.com/wordpress-mobile/WordPress-iOS
   - https://itunes.apple.com/app/wordpress/id335703880
 
@@ -709,13 +709,13 @@ Image, video, audio, reading — [back to top](#readme)
 - Cannonball: Fun way to create and share stories and poems using Fabric 🔶🔥🔥
   - https://github.com/twitterdev/cannonball-ios
   - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
-- CloudKit in Objective-C 
+- CloudKit in Objective-C 🔥
   - https://github.com/Yalantis/CloudKit-Demo.Objective-C
-- CloudKit in Swift 🔶
+- CloudKit in Swift 🔶🔥
   - https://github.com/Yalantis/CloudKit-Demo.Swift
 - Federal Data SDK 🔶
   - https://github.com/USDepartmentofLabor/Swift-Sample-App
-- Furni: Furniture store demo app using Fabric 🔶🔥
+- Furni: Furniture store demo app using Fabric 🔶🔥🔥🔥
   - https://github.com/twitterdev/furni-ios
 - HomeKit-Demo 🔶🔥🔥
   - https://github.com/KhaosT/HomeKit-Demo
@@ -723,7 +723,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/MatheusCavalca/KnockToReact
 - LVMC: Multicolumn ListView helper library for Titanium 
   - https://github.com/falkolab/LVMC-Demo-Alloy-App
-- Layer-Parse: This is a Swift sample app that integrates Layer and Atlas with Parse 🔶
+- Layer-Parse: This is a Swift sample app that integrates Layer and Atlas with Parse 🔶🔥
   - https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶🔥🔥🔥
   - https://github.com/scotteg/LayerPlayer
@@ -739,7 +739,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/JensRavens/ReactiveKitten
 - Reusable Code: Reusable code, written in Swift 🔶🔥🔥🔥🔥🔥
   - https://github.com/carlbutron/Swift
-- SafariAutoLoginTest: Demo showing how to auto-login users in iOS 9 based on Safari cookies 🔶
+- SafariAutoLoginTest: Demo showing how to auto-login users in iOS 9 based on Safari cookies 🔶🔥🔥
   - https://github.com/mackuba/SafariAutoLoginTest
 - Starship: A generic API client application for iOS using Hyperdrive 🔶
   - https://github.com/kylef/Starship
@@ -759,7 +759,7 @@ Image, video, audio, reading — [back to top](#readme)
 - FreeOTP Authenticator: Two-Factor Authentication 
   - https://fedorahosted.org/freeotp/browser/ios
   - https://itunes.apple.com/app/freeotp/id872559395
-- MasterPassword: Stateless password management solution 🔥🔥
+- MasterPassword: Stateless password management solution 🔥🔥🔥
   - https://github.com/Lyndir/MasterPassword
   - https://itunes.apple.com/app/id510296984
 - MiniKeePass: Secure Password Manager 🔥🔥
@@ -836,7 +836,7 @@ Image, video, audio, reading — [back to top](#readme)
 - WeatherMap: Weather around you in a glance, uses OpenWeatherMap 🔶🔥🔥
   - https://github.com/TakefiveInteractive/WeatherMap
   - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
-- YoCelsius 🔥🔥🔥
+- YoCelsius 🔥🔥🔥🔥
   - https://github.com/YouXianMing/YoCelsius
   - https://itunes.apple.com/app/yocelsius/id967721892
 
@@ -844,7 +844,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- PHPHub: Universal app for PHPHub Forum 🇨🇳🔥🔥
+- PHPHub: Universal app for PHPHub Forum 🇨🇳🔥🔥🔥
   - https://github.com/Aufree/phphub-ios
   - https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564
 - ProMonster: Store 🇧🇷
@@ -880,7 +880,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/Yogayu/EmotionNote
 - GammaThingy: Change screen gamma dynamically 🔥🔥🔥
   - https://github.com/thomasfinch/GammaThingy
-- GoodNight: Change screen gamma dynamically 🔥🔥
+- GoodNight: Change screen gamma dynamically 🔥🔥🔥
   - https://github.com/anthonya1999/GoodNight
 - GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
   - https://github.com/semweb/GreatReader
@@ -926,7 +926,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/lazerwalker/Theseus
 - TrollDrop: AirDrop trollfaces to everyone 
   - https://github.com/a2/TrollDrop
-- VPN On: Today Widget to turn on VPN 🔶🔥🔥🔥🔥
+- VPN On: Today Widget to turn on VPN 🔶🔥🔥🔥🔥🔥
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
 - Vinylogue: Simple Last.fm client 
@@ -947,7 +947,7 @@ Image, video, audio, reading — [back to top](#readme)
 - iContactU: Reminds you to contact people you ought to 🔶🔥
   - https://github.com/rizal72/iContactU
   - https://itunes.apple.com/app/icontactu/id920200100
-- iCopyPasta: Pasteboard feed app 🔶🔥
+- iCopyPasta: Pasteboard feed app 🔶
   - https://github.com/alltheflow/iCopyPasta
 - iGrades: Track your class grades 
   - https://github.com/maurovc/iGrades
@@ -985,7 +985,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Edhita: Text editor 🔶🔥🔥🔥
   - https://github.com/tnantoka/edhita
   - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
-- SimpleMemo: Sync notes to EverNote 🔥
+- SimpleMemo: Sync notes to EverNote 🔥🔥
   - https://github.com/likumb/SimpleMemo
   - https://itunes.apple.com/app/yi-bian-qian/id1029807896
 - SwiftNote: Simple note taking app with today widget and iCloud syncing 🔶🔥
@@ -1046,9 +1046,11 @@ Image, video, audio, reading — [back to top](#readme)
 - AnyWall: A fun geolocation app built with Parse 🔥🔥
   - https://github.com/ParsePlatform/AnyWall
   - https://itunes.apple.com/app/anywall/id520955490
-- Anypic: Mobile and web app that lets users share photos similar to Instagram 
-  - https://github.com/kwkhaw/SwiftAnyPic 🔶
+- Anypic in Objective-C: Mobile and web app that lets users share photos similar to Instagram 
+  - https://github.com/ParsePlatform/Anypic
   - https://itunes.apple.com/app/anypic/id539741538
+- Anypic in Swift 🔶
+  - https://github.com/kwkhaw/SwiftAnyPic
 - Jim: Track your gym workouts 🔶
   - https://github.com/kylejm/Jim
 - Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video 🔥
@@ -1074,19 +1076,19 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/bgryszko/react-native-example
 - Assemblies: Developer-focused Meetup clone 🔥
   - https://github.com/buildreactnative/assemblies
-- Calculator 🔥🔥🔥🔥
+- Calculator 🔥🔥🔥🔥🔥
   - https://github.com/benoitvallon/react-native-nw-react-calculator
 - Currency Converter 
   - https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter
-- Den: View houses for sale in the Northwest 🔥
+- Den: View houses for sale in the Northwest 🔥🔥
   - https://github.com/asamiller/den
-- Dribbble 🔥🔥🔥
+- Dribbble 🔥🔥🔥🔥
   - https://github.com/catalinmiron/react-native-dribbble-app
 - F8 2016: Official F8 app 🔥🔥🔥🔥
-  - https://github.com/fbsamples/f8app/
+  - https://github.com/fbsamples/f8app
 - Facebook Login 🔥🔥
   - https://github.com/brentvatne/react-native-login
-- Finance: iOS's Stocks app written in React Native 🔥
+- Finance: iOS's Stocks app written in React Native 🔥🔥🔥
   - https://github.com/7kfpun/FinanceReactNative
 - Foreign Exchange 
   - https://github.com/peralmq/ForeignExchangeApp
@@ -1105,11 +1107,11 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/mzabriskie/PocketNode
 - Product Kitty: Product Hunt app 
   - https://github.com/rkho/product-kitty
-- Property Finder 🔥
+- Property Finder 🔥🔥
   - https://github.com/ColinEberhardt/ReactNative-PropertyFinder
 - RSS Reader 
   - https://github.com/christopherdro/react-native-rss-reader
-- ReactNativeHackerNews 
+- ReactNativeHackerNews 🔥
   - https://github.com/jsdf/ReactNativeHackerNews
 - Songkick 
   - https://github.com/ArnaudRinquin/sk-react-native
@@ -1129,7 +1131,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/JakeLin/ReactNativeWeather
 - WeatherApp: Weather app by jsphkhan using React Native 
   - https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
-- allyoop: NBA game scores app 🔥🔥
+- allyoop: NBA game scores app 🔥🔥🔥
   - https://github.com/wwayne/react-native-nba-app
 - iTunes Catalog Search 
   - https://github.com/alexissan/ReactNativeWorkshop
@@ -1198,7 +1200,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 - Contacts 
   - https://github.com/sebastianwr/VIPER-Persons
-- Counter 🔥
+- Counter 🔥🔥
   - https://github.com/mutualmobile/Counter
 - Rambler.Conferences 
   - https://github.com/rambler-ios/RamblerConferences
