@@ -728,7 +728,7 @@ Image, video, audio, reading — [back to top](#readme)
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶🔥🔥🔥
   - https://github.com/scotteg/LayerPlayer
   - https://itunes.apple.com/app/layer-player/id949768742
-- OpenShop.io: Ecommerce shopping app 
+- OpenShop.io: Ecommerce shopping app 🔥
   - https://github.com/openshopio/openshop.io-ios
   - https://itunes.apple.com/app/id1088689646
 - Polls: iOS Client for Polls API by Apiary 🔶
