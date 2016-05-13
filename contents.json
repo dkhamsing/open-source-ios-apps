@@ -1086,7 +1086,8 @@
       "title": "Dungeon Crawl",
       "category": "games",
       "description": "A game of dungeon exploration, combat and magic, involving characters of diverse skills",
-      "source": "https://github.com/CliffsDover/crawl/tree/iOS_Release"
+      "homepage": "https://github.com/CliffsDover/crawl/tree/iOS_Release",
+      "source": "https://github.com/CliffsDover/crawl"
     },
     {
       "title": "Five-In-A-Row",
@@ -2052,7 +2053,7 @@
       "title": "DuckDuckGo",
       "category": "official",
       "description": "Official DuckDuckGo app",
-      "source": "https://github.com/duckduckgo/ios/",
+      "source": "https://github.com/duckduckgo/ios",
       "itunes": "https://itunes.apple.com/app/duckduckgo-search-stories/id663592361"
     },
     {
@@ -2498,7 +2499,8 @@
         "react-native"
       ],
       "description": "Weather app by jsphkhan using React Native",
-      "source": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp"
+      "homepage": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp",
+      "source": "https://github.com/jsphkhan/ReactNativeExamples"
     },
     {
       "title": "WeatherMap",
@@ -3151,7 +3153,8 @@
     {
       "title": "Currency Converter",
       "category": "react-native",
-      "source": "https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter"
+      "homepage": "https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter",
+      "source": "https://github.com/ashwinpreet/ReactNativeExamples"
     },
     {
       "title": "Den",
