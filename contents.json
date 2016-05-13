@@ -2312,7 +2312,7 @@
       "title": "Aozora",
       "category": "social",
       "description": "Discover and track anime",
-      "source": "https://github.com/pjchavarria/Aozora",
+      "source": "https://github.com/pjchavarria/aozora-ios",
       "itunes": "https://itunes.apple.com/app/aozora-anime-community-track/id1017433045",
       "tags": [
         "swift"
@@ -3622,6 +3622,6 @@
       "description": "PSP emulator with iOS support",
       "source": "https://github.com/hrydgard/ppsspp",
       "stars": 2288
-    }    
+    }
   ]
 }
