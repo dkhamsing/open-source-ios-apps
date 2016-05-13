@@ -3622,6 +3622,16 @@
       "description": "PSP emulator with iOS support",
       "source": "https://github.com/hrydgard/ppsspp",
       "stars": 2288
+    },
+    {
+      "title": "Scary Flight",
+      "category": [
+        "games"
+      ],
+      "description": "Just another yet FlappyBird-style game",
+      "source": "https://github.com/EvgenyKarkan/ScaryFlight",
+      "itunes": "https://itunes.apple.com/app/scary-flight/id824428528",
+      "stars": 19
     }
   ]
 }
