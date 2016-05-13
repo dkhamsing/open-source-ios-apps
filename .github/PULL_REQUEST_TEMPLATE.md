@@ -6,7 +6,8 @@ To create a new category, please open an issue (see CONTRIBUTING) -->
 
 <!-- When making an addition: -->
 
-1. [ ] Project URL:
+0. [ ] Project URL:
+1. [ ] Update contents.json instead of README 
 2. [ ] One project per pull request
 3. [ ] Project added at the end of the list (a script sorts projects automatically)
 4. [ ] Avoid iOS or open-source in description as it is assumed
