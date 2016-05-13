@@ -1,7 +1,10 @@
 require 'date'
 require 'json'
 
-OUTPUT = 'README.md'
+README = 'README.md'
+
+ARCHIVE = 'ARCHIVE.md'
+ARCHIVE_TAG = 'archive'
 
 def output_stars(number)
   case number
@@ -35,8 +38,23 @@ def output_flag(lang)
   end
 end
 
+def apps_archived(apps)
+  a = apps.select {|a| a['tags'] != nil }.select {|b| b['tags'].include?ARCHIVE_TAG}
+  a.sort_by { |k, v| k['title'] }
+end
+
 def apps_for_cat(apps, id)
-  s = apps.select do |a|
+  f = apps.select do |a|
+
+    tags = a['tags']
+    if tags.nil?
+      true
+    else
+      !(tags.include? ARCHIVE_TAG)
+    end
+  end
+
+  s = f.select do |a|
     cat = a['category']
     cat.class == Array ? cat.include?(id) : (cat == id)
   end
@@ -83,53 +101,83 @@ def output_apps(apps)
   o
 end
 
+def write_readme(j)
+  t    = j['title']
+  desc = j['description']
+  h    = j['header']
+  f    = j['footer']
+  cats = j['categories']
+  apps = j['projects']
+
+  date = DateTime.now
+  date_display = date.strftime "%B %d, %Y"
+
+  output = '# ' + t
+  output << "\n\n"
+  output << desc
+  output << "\n\nA collaborative list of **#{apps.count}** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: "
+  output << "(last update *#{date_display}*)."
+
+  output << "\n \nJump to \n \n"
+
+  cats.each do |c|
+    temp = "#{'  ' unless c['parent']==nil }- [#{c['title']}](\##{c['id']}) \n"
+    output << temp
+  end
+
+  output << "- [Bonus](#bonus) \n"
+
+  output << "\n"
+  output << h
+  output << "\n"
+
+  cats.each do |c|
+    temp = "\n#\##{'#' unless c['parent']==nil } #{c['title']} \n \n"
+
+    d = c['description']
+    temp << "#{d} — " unless d.nil?
+
+    temp << "[back to top](#readme) \n \n"
+    output << temp
+
+    cat_apps = apps_for_cat(apps, c['id'])
+    output << output_apps(cat_apps)
+  end
+
+  output << "\n"
+  output << f
+
+  File.open(README, 'w') { |f| f.write output }
+  puts "wrote #{README} ✨"
+end
+
+def write_archive(j)
+  t    = j['title']
+  desc = "This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.\n\n"
+  f    = "## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n"
+  apps = j['projects']
+  archived = apps_archived apps
+
+  output = "\# #{t} Archive\n\n"
+  output << desc
+
+  archived.each do |a|
+    t = a['title']
+    s = a['source']
+    output << "- #{t} #{s}\n"
+    # output <<
+  end
+
+  output << "\n"
+  output << f
+
+  file = ARCHIVE
+  File.open(file, 'w') { |f| f.write output }
+  puts "wrote #{file} ✨"
+end
+
 c = File.read 'contents.json'
 j = JSON.parse c
 
-t    = j['title']
-desc = j['description']
-h    = j['header']
-f    = j['footer']
-cats = j['categories']
-apps = j['projects']
-
-date = DateTime.now
-date_display = date.strftime "%B %d, %Y"
-
-output = '# ' + t
-output << "\n\n"
-output << desc
-output << "\n\nA collaborative list of **#{apps.count}** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: "
-output << "(last update *#{date_display}*)."
-
-output << "\n \nJump to \n \n"
-
-cats.each do |c|
-  temp = "#{'  ' unless c['parent']==nil }- [#{c['title']}](\##{c['id']}) \n"
-  output << temp
-end
-
-output << "- [Bonus](#bonus) \n"
-
-output << "\n"
-output << h
-output << "\n"
-
-cats.each do |c|
-  temp = "\n#\##{'#' unless c['parent']==nil } #{c['title']} \n \n"
-
-  d = c['description']
-  temp << "#{d} — " unless d.nil?
-
-  temp << "[back to top](#readme) \n \n"
-  output << temp
-
-  cat_apps = apps_for_cat(apps, c['id'])
-  output << output_apps(cat_apps)
-end
-
-output << "\n"
-output << f
-
-File.open(OUTPUT, 'w') { |f| f.write output }
-puts "wrote #{OUTPUT} ✨"
+write_readme(j)
+write_archive(j)
