@@ -5,6 +5,10 @@ To contribute to`open-source-ios-apps`, update the **contents.json** file (this 
 Please [open an issue](https://github.com/dkhamsing/open-source-ios-apps/issues) and contact
 @dkhamsing, @kvnbautista or @scribblemaniac.
 
+## Delete app
+
+To delete an app, add the value **archive** to the `tags` field.
+
 ## New app
 
 Adding a `JSON` entry
