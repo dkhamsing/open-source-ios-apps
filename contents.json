@@ -2974,6 +2974,7 @@
       ],
       "stars": 61
     },
+    
     {
       "title": "Fojusi",
       "category": "timer",
@@ -3450,6 +3451,15 @@
       "description": "Watch RailsCasts videos on Apple TV",
       "source": "https://github.com/spritlesoftware/railscasts-on-appletv",
       "stars": 0
+    },
+    {
+      "title": "MetricTime",
+      "category": "timer",
+      "description": "An app to display 'Metric Time' in order to prank friends while on trips to countries that use the metric system, (esp Canada)",
+      "source": "https://github.com/DeveloperACE/MetricTime",
+      "tags": [
+        "swift"
+      ]
     }
   ]
 }
