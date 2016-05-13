@@ -1,3 +1,4 @@
+require 'date'
 require 'json'
 
 OUTPUT = 'README.md'
@@ -92,9 +93,15 @@ f    = j['footer']
 cats = j['categories']
 apps = j['projects']
 
+date = DateTime.now
+date_display = date.strftime "%B %d, %Y"
+
 output = '# ' + t
 output << "\n\n"
 output << desc
+output << "\n\nA collaborative list of **#{apps.count}** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: "
+output << "(last update *#{date_display}*)."
+
 output << "\n \nJump to \n \n"
 
 cats.each do |c|
