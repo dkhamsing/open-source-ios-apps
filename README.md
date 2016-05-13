@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **400** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 13, 2016*).
+A collaborative list of **401** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 13, 2016*).
  
 Jump to 
  
@@ -359,6 +359,7 @@ Projects that are not in English have a flag
 - DOSPad: DOSBox for iOS 
   - https://github.com/litchie/dospad
 - Dungeon Crawl: A game of dungeon exploration, combat and magic, involving characters of diverse skills 
+  - https://github.com/CliffsDover/crawl
   - https://github.com/CliffsDover/crawl/tree/iOS_Release
 - Five-In-A-Row: Five In A Row (五子棋) game with SpriteKit 🇨🇳
   - https://github.com/WelkinXie/FiveInARow
@@ -564,6 +565,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339
 - Megabite: Turn a photo of your food into a face 🔥🔥
   - https://github.com/AaronRandall/Megabite
+- MiamiSunglasses: An app that plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH). 🔶
+  - https://github.com/DeveloperACE/MiamiSunglasses
 - OCiney: Movie info app 🔥🔥
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/app/id955480687
@@ -698,7 +701,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/Coding/Coding-iOS
   - https://itunes.apple.com/app/coding/id923676989
 - DuckDuckGo: Official DuckDuckGo app 
-  - https://github.com/duckduckgo/ios/
+  - https://github.com/duckduckgo/ios
   - https://itunes.apple.com/app/duckduckgo-search-stories/id663592361
 - Firefox: Official Firefox app 🔶🔥🔥🔥🔥🔥
   - https://github.com/mozilla/firefox-ios
@@ -747,7 +750,7 @@ Image, video, audio, reading — [back to top](#readme)
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶🔥🔥🔥
   - https://github.com/scotteg/LayerPlayer
   - https://itunes.apple.com/app/layer-player/id949768742
-- OpenShop.io: Ecommerce shopping app 
+- OpenShop.io: Ecommerce shopping app 🔥
   - https://github.com/openshopio/openshop.io-ios
   - https://itunes.apple.com/app/id1088689646
 - Polls: iOS Client for Polls API by Apiary 🔶
@@ -851,6 +854,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/thoughtbot/Tropos
   - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376
 - WeatherApp: Weather app by jsphkhan using React Native 
+  - https://github.com/jsphkhan/ReactNativeExamples
   - https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
 - WeatherMap: Weather around you in a glance, uses OpenWeatherMap 🔶🔥🔥
   - https://github.com/TakefiveInteractive/WeatherMap
@@ -1065,7 +1069,7 @@ Image, video, audio, reading — [back to top](#readme)
 - AnyWall: A fun geolocation app built with Parse 🔥🔥
   - https://github.com/ParsePlatform/AnyWall
   - https://itunes.apple.com/app/anywall/id520955490
-- Anypic in Objective-C: Mobile and web app that lets users share photos similar to Instagram 
+- Anypic in Objective-C: Mobile and web app that lets users share photos similar to Instagram 🔥🔥🔥🔥
   - https://github.com/ParsePlatform/Anypic
   - https://itunes.apple.com/app/anypic/id539741538
 - Anypic in Swift 🔶
@@ -1098,12 +1102,13 @@ Image, video, audio, reading — [back to top](#readme)
 - Calculator 🔥🔥🔥🔥🔥
   - https://github.com/benoitvallon/react-native-nw-react-calculator
 - Currency Converter 
+  - https://github.com/ashwinpreet/ReactNativeExamples
   - https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter
 - Den: View houses for sale in the Northwest 🔥🔥
   - https://github.com/asamiller/den
 - Dribbble 🔥🔥🔥🔥
   - https://github.com/catalinmiron/react-native-dribbble-app
-- F8 2016: Official F8 app 🔥🔥🔥🔥
+- F8 2016: Official F8 app 🔥🔥🔥🔥🔥
   - https://github.com/fbsamples/f8app
 - Facebook Login 🔥🔥
   - https://github.com/brentvatne/react-native-login
@@ -1149,6 +1154,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Weather: by JakeLin 
   - https://github.com/JakeLin/ReactNativeWeather
 - WeatherApp: Weather app by jsphkhan using React Native 
+  - https://github.com/jsphkhan/ReactNativeExamples
   - https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
 - allyoop: NBA game scores app 🔥🔥🔥
   - https://github.com/wwayne/react-native-nba-app
