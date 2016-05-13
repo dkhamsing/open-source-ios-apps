@@ -3450,6 +3450,15 @@
       "description": "Watch RailsCasts videos on Apple TV",
       "source": "https://github.com/spritlesoftware/railscasts-on-appletv",
       "stars": 0
+    },
+    {
+      "title": "MiamiSunglasses",
+      "category": "media",
+      "description": "An App that plays the first five seconds of the CSI Miami intro song for on-the-go meme making. (YEAAAAAAAAAAAAH)",
+      "source": "https://github.com/DeveloperACE/MiamiSunglasses",
+      "tags": [
+        "swift"
+      ]
     }
   ]
 }
