@@ -2,9 +2,9 @@
 
 <!-- 
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
---> 
+-->
 
-A collaborative list of open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/issues) [is](https://github.com/dkhamsing/open-source-ios-apps/pulls) [welcome](#contact) :smile:
+A collaborative list of **380** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 13, 2016*).
  
 Jump to 
  
@@ -222,6 +222,9 @@ Projects that are not in English have a flag
  
 - EventBlankApp: App for events or conferences 🔶🔥🔥
   - https://github.com/icanzilb/EventBlankApp
+- Hack Cancer: Hackathon app 🔶
+  - https://github.com/HackCancer/iOS
+  - https://itunes.apple.com/app/hack-cancer/id1030806844
 - NortalTechDay: Nortal TechDay 2015 app 🔥
   - https://github.com/mikkoj/NortalTechDay
 - ParseDeveloperDay: Parse 2013 developer conference app 
@@ -885,8 +888,6 @@ Image, video, audio, reading — [back to top](#readme)
 - GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
   - https://github.com/semweb/GreatReader
   - https://itunes.apple.com/app/greatreader/id903651112
-- HackCancer: [Hackathon app](http://www.hackcancer.co/) 🔶
-  - https://github.com/HackCancer/iOS
 - Hidrate: App for smart water bottle 
   - https://github.com/mjcuva/Hidrate
 - Jupp: App with share extension for ADN 🔶
@@ -1000,6 +1001,8 @@ Image, video, audio, reading — [back to top](#readme)
 - Fojusi: Work timer with today extension 🔶🔥🔥
   - https://github.com/dasdom/Tomate
   - https://itunes.apple.com/app/fojusi/id923044693
+- MetricTime: An app to display 'Metric Time' in order to prank friends while on trips to countries that use the metric system, (esp Canada) 🔶
+  - https://github.com/DeveloperACE/MetricTime
 - TrackMyTime 
   - https://github.com/EvgenyKarkan/TrackMyTime
 
