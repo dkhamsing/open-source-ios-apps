@@ -5,14 +5,16 @@ set -e
 git config user.name "Travis CI"
 git config user.email "dkhamsing@users.noreply.github.com"
 
-# git checkout master
+if [[ $status == *"README.md"* ]]
+then
+  git add README.md
+  git commit -m "[auto] [ci skip] Generate README"
+fi
 
-git add README.md
-git commit -m "[auto] [ci skip] Generate README"
-
-# git add ARCHIVE.md
-# git commit -m "[auto] [ci skip] Generate ARCHIVE"
-
-# git status
+if [[ $status == *"ARCHIVE.md"* ]]
+then
+  git add ARCHIVE.md
+  git commit -m "[auto] [ci skip] Generate ARCHIVE"
+fi
 
 git push --quiet "https://${GH_TOKEN}@github.com/dkhamsing/open-source-ios-apps" master:master > /dev/null 2>&1
