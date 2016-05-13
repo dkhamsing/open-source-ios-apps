@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **393** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 13, 2016*).
+A collaborative list of **394** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 13, 2016*).
  
 Jump to 
  
@@ -460,6 +460,9 @@ Projects that are not in English have a flag
 - Cafe 🔶🇨🇳
   - https://github.com/flexih/Cafe
   - https://itunes.apple.com/app/diao-ke-shi-guang/id440983941
+- Closebox: Find the Closest Postbox 
+  - https://github.com/peteog/Closebox
+  - https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813
 - DoctorNearby: Is a healthcare app, which helps you find doctors in your city 
   - https://github.com/vincezzh/doctornearby-ios
   - https://itunes.apple.com/app/doctor-nearby/id1068715113
