@@ -1,4 +1,4 @@
-To contribute to`open-source-ios-apps`, please update the **contents.json** file (this will generate the README).
+To contribute to`open-source-ios-apps`, update the **contents.json** file (this will generate the README).
 
 ## New category
 
@@ -66,7 +66,6 @@ Feel free to cut and paste the snippet below
 
 #### Examples
 
-Pull request:
 
 - https://github.com/dkhamsing/open-source-ios-apps/pull/281
 - https://github.com/dkhamsing/open-source-ios-apps/pull/281/files
