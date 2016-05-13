@@ -5,6 +5,8 @@ set -e
 git config user.name "Travis CI"
 git config user.email "dkhamsing@users.noreply.github.com"
 
+status=`git status`
+
 if [[ $status == *"README.md"* ]]
 then
   git add README.md
