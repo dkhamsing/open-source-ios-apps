@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **380** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 13, 2016*).
+A collaborative list of **393** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 13, 2016*).
  
 Jump to 
  
@@ -1220,7 +1220,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 ## Bonus
 
-See [archive](archive.md), [mac-apps](https://github.com/jeffreyjackson/mac-apps), [awesome-osx](https://github.com/iCHAIT/awesome-osx) and [android-apps](https://github.com/pcqpcq/open-source-android-apps).
+See [archive](ARCHIVE.md), [mac-apps](https://github.com/jeffreyjackson/mac-apps), [awesome-osx](https://github.com/iCHAIT/awesome-osx) and [android-apps](https://github.com/pcqpcq/open-source-android-apps).
 
 ## Thanks
 
