@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **399** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 13, 2016*).
+A collaborative list of **400** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 13, 2016*).
  
 Jump to 
  
@@ -391,6 +391,9 @@ Projects that are not in English have a flag
 - Sakura Fly: Action game created in SpriteKit 
   - https://github.com/l800891/Sakura-Fly
   - https://itunes.apple.com/app/sakura-fly/id1019023051
+- Scary Flight: Just another yet FlappyBird-style game 
+  - https://github.com/EvgenyKarkan/ScaryFlight
+  - https://itunes.apple.com/app/scary-flight/id824428528
 - SceneKitFrogger 🔶
   - https://github.com/devindazzle/SceneKitFrogger
 - Spare Parts: Simple 2D point and line physics using Verlet integration 
