@@ -3632,6 +3632,15 @@
       "source": "https://github.com/EvgenyKarkan/ScaryFlight",
       "itunes": "https://itunes.apple.com/app/scary-flight/id824428528",
       "stars": 19
+    },
+    {
+      "title": "MiamiSunglasses",
+      "category": [
+        "media"
+      ],
+      "description": "An app that plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH).",
+      "source": "https://github.com/DeveloperACE/MiamiSunglasses",
+      "tags": ["swift"]
     }
   ]
 }
