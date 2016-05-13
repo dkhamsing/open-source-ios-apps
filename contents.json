@@ -3577,6 +3577,51 @@
       "category": "location",
       "source": "https://github.com/peteog/Closebox",
       "itunes": "https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813"
-    }
+    },
+    {
+      "title": "ActiveGS",
+      "category": [
+        "games"
+      ],
+      "description": "Apple II/IIGS Emulator with in-app game browser, mFi and iCade controller support",
+      "source": "https://github.com/ogoguel/activegs-ios",
+      "stars": 4
+    },
+    {
+      "title": "RetroArch",
+      "category": [
+        "games"
+      ],
+      "description": "The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others",
+      "source": "https://github.com/libretro/RetroArch",
+      "stars": 1094
+    },
+    {
+      "title": "MAME4iOS",
+      "category": [
+        "games"
+      ],
+      "description": "MAME frontend for iOS",
+      "source": "https://github.com/yoshisuga/MAME4iOS",
+      "stars": 0
+    },
+    {
+      "title": "DOSPad",
+      "category": [
+        "games"
+      ],
+      "description": "DOSBox for iOS",
+      "source": "https://github.com/litchie/dospad",
+      "stars": 73
+    },
+    {
+      "title": "PPSSPP",
+      "category": [
+        "games"
+      ],
+      "description": "PSP emulator with iOS support",
+      "source": "https://github.com/hrydgard/ppsspp",
+      "stars": 2288
+    }    
   ]
 }
