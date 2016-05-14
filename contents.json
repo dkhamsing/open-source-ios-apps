@@ -3656,6 +3656,24 @@
       "description": "An app that plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH).",
       "source": "https://github.com/DeveloperACE/MiamiSunglasses",
       "tags": ["swift"]
-    }
+    },
+    {
+      "title": "nds4ios",
+      "category": [
+        "games"
+      ],
+      "description": "Nintendo DS emulator, port of DeSmuME to iOS",
+      "source": "https://github.com/raaxis/nds4ios",
+      "stars": 45
+    },
+    {
+      "title": "iUAE",
+      "category": [
+        "games"
+      ],
+      "description": "Commodore Amiga emulator, based on UAE, updated for iOS 7+",
+      "source": "https://github.com/emufreak/iAmiga",
+      "stars": 18
+    }    
   ]
 }
