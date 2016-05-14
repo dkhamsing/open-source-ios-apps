@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **401** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 13, 2016*).
+A collaborative list of **403** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 14, 2016*).
  
 Jump to 
  
@@ -405,8 +405,12 @@ Projects that are not in English have a flag
 - Wolfenstein 3D: Wolfenstein 3D for iOS 🔥🔥
   - https://github.com/id-Software/Wolf3D-iOS
   - https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478
+- iUAE: Commodore Amiga emulator, based on UAE, updated for iOS 7+ 
+  - https://github.com/emufreak/iAmiga
 - littlego: Play the game of Go on the iPhone or iPad 
   - https://github.com/herzbube/littlego
+- nds4ios: Nintendo DS emulator, port of DeSmuME to iOS 
+  - https://github.com/raaxis/nds4ios
 - 翻翻看: Concentration game 🔶🇨🇳🔥
   - https://github.com/geek5nan/FanFanSwift
 
