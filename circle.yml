@@ -3,10 +3,10 @@ machine:
     version: 2.2.0
 test:
   pre:
-    # - gem install awesome_bot
+    - gem install awesome_bot
     - sudo pip install json-spec
   override:
-    # - awesome_bot contents.json --white-list developer.apple
+    - awesome_bot contents.json --white-list developer.apple
     - json validate --schema-file=.github/schema.json --document-file=contents.json
 general:
   artifacts:

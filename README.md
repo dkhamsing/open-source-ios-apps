@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **393** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 13, 2016*).
+A collaborative list of **401** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 13, 2016*).
  
 Jump to 
  
@@ -333,6 +333,8 @@ Projects that are not in English have a flag
   - https://github.com/austinzheng/iOS-2048
 - 2048 in Swift 🔶🔥🔥🔥🔥🔥
   - https://github.com/austinzheng/swift-2048
+- ActiveGS: Apple II/IIGS Emulator with in-app game browser, mFi and iCade controller support 
+  - https://github.com/ogoguel/activegs-ios
 - Bridges: A puzzle game with bridges, houses, tolls, and subways 🔥
   - https://github.com/zgrossbart/bridges
   - https://itunes.apple.com/app/seven-bridges/id586598714
@@ -354,7 +356,10 @@ Projects that are not in English have a flag
 - DOOM-IOS2: Doom Classic for iOS version 2 🔥
   - https://github.com/id-Software/DOOM-IOS2
   - https://itunes.apple.com/app/doom-ii-rpg/id354051766
+- DOSPad: DOSBox for iOS 
+  - https://github.com/litchie/dospad
 - Dungeon Crawl: A game of dungeon exploration, combat and magic, involving characters of diverse skills 
+  - https://github.com/CliffsDover/crawl
   - https://github.com/CliffsDover/crawl/tree/iOS_Release
 - Five-In-A-Row: Five In A Row (五子棋) game with SpriteKit 🇨🇳
   - https://github.com/WelkinXie/FiveInARow
@@ -368,6 +373,8 @@ Projects that are not in English have a flag
   - https://github.com/Lyndir/Gorillas
 - GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 🔶
   - https://github.com/gamechina/GrubbyWorm
+- MAME4iOS: MAME frontend for iOS 
+  - https://github.com/yoshisuga/MAME4iOS
 - MUDRammer: MUD Client for iPhone and iPad 
   - https://github.com/splinesoft/MUDRammer
   - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
@@ -376,11 +383,18 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/mission-999/id1036686316
 - Orbit7: Game created in SpriteKit 🔶
   - https://github.com/Mav3r1ck/Orbit7
+- PPSSPP: PSP emulator with iOS support 🔥🔥🔥🔥🔥
+  - https://github.com/hrydgard/ppsspp
 - Provenance: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
   - https://github.com/jasarien/Provenance
+- RetroArch: The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others 🔥🔥🔥🔥
+  - https://github.com/libretro/RetroArch
 - Sakura Fly: Action game created in SpriteKit 
   - https://github.com/l800891/Sakura-Fly
   - https://itunes.apple.com/app/sakura-fly/id1019023051
+- Scary Flight: Just another yet FlappyBird-style game 
+  - https://github.com/EvgenyKarkan/ScaryFlight
+  - https://itunes.apple.com/app/scary-flight/id824428528
 - SceneKitFrogger 🔶
   - https://github.com/devindazzle/SceneKitFrogger
 - Spare Parts: Simple 2D point and line physics using Verlet integration 
@@ -460,6 +474,9 @@ Projects that are not in English have a flag
 - Cafe 🔶🇨🇳
   - https://github.com/flexih/Cafe
   - https://itunes.apple.com/app/diao-ke-shi-guang/id440983941
+- Closebox: Find the Closest Postbox 
+  - https://github.com/peteog/Closebox
+  - https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813
 - DoctorNearby: Is a healthcare app, which helps you find doctors in your city 
   - https://github.com/vincezzh/doctornearby-ios
   - https://itunes.apple.com/app/doctor-nearby/id1068715113
@@ -548,6 +565,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339
 - Megabite: Turn a photo of your food into a face 🔥🔥
   - https://github.com/AaronRandall/Megabite
+- MiamiSunglasses: An app that plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH). 🔶
+  - https://github.com/DeveloperACE/MiamiSunglasses
 - OCiney: Movie info app 🔥🔥
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/app/id955480687
@@ -682,7 +701,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/Coding/Coding-iOS
   - https://itunes.apple.com/app/coding/id923676989
 - DuckDuckGo: Official DuckDuckGo app 
-  - https://github.com/duckduckgo/ios/
+  - https://github.com/duckduckgo/ios
   - https://itunes.apple.com/app/duckduckgo-search-stories/id663592361
 - Firefox: Official Firefox app 🔶🔥🔥🔥🔥🔥
   - https://github.com/mozilla/firefox-ios
@@ -731,7 +750,7 @@ Image, video, audio, reading — [back to top](#readme)
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶🔥🔥🔥
   - https://github.com/scotteg/LayerPlayer
   - https://itunes.apple.com/app/layer-player/id949768742
-- OpenShop.io: Ecommerce shopping app 
+- OpenShop.io: Ecommerce shopping app 🔥
   - https://github.com/openshopio/openshop.io-ios
   - https://itunes.apple.com/app/id1088689646
 - Polls: iOS Client for Polls API by Apiary 🔶
@@ -779,7 +798,7 @@ Image, video, audio, reading — [back to top](#readme)
 [back to top](#readme) 
  
 - Aozora: Discover and track anime 🔶
-  - https://github.com/pjchavarria/Aozora
+  - https://github.com/pjchavarria/aozora-ios
   - https://itunes.apple.com/app/aozora-anime-community-track/id1017433045
 - Peggsite: App for sharing a social board 
   - https://github.com/jenduf/GenericSocialApp
@@ -835,6 +854,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/thoughtbot/Tropos
   - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376
 - WeatherApp: Weather app by jsphkhan using React Native 
+  - https://github.com/jsphkhan/ReactNativeExamples
   - https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
 - WeatherMap: Weather around you in a glance, uses OpenWeatherMap 🔶🔥🔥
   - https://github.com/TakefiveInteractive/WeatherMap
@@ -1049,7 +1069,7 @@ Image, video, audio, reading — [back to top](#readme)
 - AnyWall: A fun geolocation app built with Parse 🔥🔥
   - https://github.com/ParsePlatform/AnyWall
   - https://itunes.apple.com/app/anywall/id520955490
-- Anypic in Objective-C: Mobile and web app that lets users share photos similar to Instagram 
+- Anypic in Objective-C: Mobile and web app that lets users share photos similar to Instagram 🔥🔥🔥🔥
   - https://github.com/ParsePlatform/Anypic
   - https://itunes.apple.com/app/anypic/id539741538
 - Anypic in Swift 🔶
@@ -1082,12 +1102,13 @@ Image, video, audio, reading — [back to top](#readme)
 - Calculator 🔥🔥🔥🔥🔥
   - https://github.com/benoitvallon/react-native-nw-react-calculator
 - Currency Converter 
+  - https://github.com/ashwinpreet/ReactNativeExamples
   - https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter
 - Den: View houses for sale in the Northwest 🔥🔥
   - https://github.com/asamiller/den
 - Dribbble 🔥🔥🔥🔥
   - https://github.com/catalinmiron/react-native-dribbble-app
-- F8 2016: Official F8 app 🔥🔥🔥🔥
+- F8 2016: Official F8 app 🔥🔥🔥🔥🔥
   - https://github.com/fbsamples/f8app
 - Facebook Login 🔥🔥
   - https://github.com/brentvatne/react-native-login
@@ -1133,6 +1154,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Weather: by JakeLin 
   - https://github.com/JakeLin/ReactNativeWeather
 - WeatherApp: Weather app by jsphkhan using React Native 
+  - https://github.com/jsphkhan/ReactNativeExamples
   - https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
 - allyoop: NBA game scores app 🔥🔥🔥
   - https://github.com/wwayne/react-native-nba-app
