@@ -215,7 +215,7 @@
         "apple-tv",
         "emulators"
       ],
-      "description": "Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more",
+      "description": "Emulators frontend supporting Sega Genesis, SNES, NES, GB/GBC, & more",
       "source": "https://github.com/jasarien/Provenance",
       "stars": 2016
     },
