@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **403** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 14, 2016*).
+A collaborative list of **403** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 15, 2016*).
  
 Jump to 
  
@@ -18,6 +18,7 @@ Jump to
   - [GitHub](#github) 
 - [Finance](#finance) 
 - [Games](#games) 
+  - [Emulators](#emulators) 
 - [Health](#health) 
 - [Keyboards](#keyboards) 
 - [Location](#location) 
@@ -333,8 +334,6 @@ Projects that are not in English have a flag
   - https://github.com/austinzheng/iOS-2048
 - 2048 in Swift 🔶🔥🔥🔥🔥🔥
   - https://github.com/austinzheng/swift-2048
-- ActiveGS: Apple II/IIGS Emulator with in-app game browser, mFi and iCade controller support 
-  - https://github.com/ogoguel/activegs-ios
 - Bridges: A puzzle game with bridges, houses, tolls, and subways 🔥
   - https://github.com/zgrossbart/bridges
   - https://itunes.apple.com/app/seven-bridges/id586598714
@@ -356,8 +355,6 @@ Projects that are not in English have a flag
 - DOOM-IOS2: Doom Classic for iOS version 2 🔥
   - https://github.com/id-Software/DOOM-IOS2
   - https://itunes.apple.com/app/doom-ii-rpg/id354051766
-- DOSPad: DOSBox for iOS 
-  - https://github.com/litchie/dospad
 - Dungeon Crawl: A game of dungeon exploration, combat and magic, involving characters of diverse skills 
   - https://github.com/CliffsDover/crawl
   - https://github.com/CliffsDover/crawl/tree/iOS_Release
@@ -373,8 +370,6 @@ Projects that are not in English have a flag
   - https://github.com/Lyndir/Gorillas
 - GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 🔶
   - https://github.com/gamechina/GrubbyWorm
-- MAME4iOS: MAME frontend for iOS 
-  - https://github.com/yoshisuga/MAME4iOS
 - MUDRammer: MUD Client for iPhone and iPad 
   - https://github.com/splinesoft/MUDRammer
   - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
@@ -383,12 +378,6 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/mission-999/id1036686316
 - Orbit7: Game created in SpriteKit 🔶
   - https://github.com/Mav3r1ck/Orbit7
-- PPSSPP: PSP emulator with iOS support 🔥🔥🔥🔥🔥
-  - https://github.com/hrydgard/ppsspp
-- Provenance: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
-  - https://github.com/jasarien/Provenance
-- RetroArch: The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others 🔥🔥🔥🔥
-  - https://github.com/libretro/RetroArch
 - Sakura Fly: Action game created in SpriteKit 
   - https://github.com/l800891/Sakura-Fly
   - https://itunes.apple.com/app/sakura-fly/id1019023051
@@ -405,14 +394,31 @@ Projects that are not in English have a flag
 - Wolfenstein 3D: Wolfenstein 3D for iOS 🔥🔥
   - https://github.com/id-Software/Wolf3D-iOS
   - https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478
-- iUAE: Commodore Amiga emulator, based on UAE, updated for iOS 7+ 
-  - https://github.com/emufreak/iAmiga
 - littlego: Play the game of Go on the iPhone or iPad 
   - https://github.com/herzbube/littlego
-- nds4ios: Nintendo DS emulator, port of DeSmuME to iOS 
-  - https://github.com/raaxis/nds4ios
 - 翻翻看: Concentration game 🔶🇨🇳🔥
   - https://github.com/geek5nan/FanFanSwift
+
+### Emulators 
+ 
+[back to top](#readme) 
+ 
+- ActiveGS: Apple II/IIGS Emulator with in-app game browser, mFi and iCade controller support 
+  - https://github.com/ogoguel/activegs-ios
+- DOSPad: DOSBox 
+  - https://github.com/litchie/dospad
+- MAME4iOS: MAME frontend 
+  - https://github.com/yoshisuga/MAME4iOS
+- PPSSPP: PSP emulator 🔥🔥🔥🔥🔥
+  - https://github.com/hrydgard/ppsspp
+- Provenance: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
+  - https://github.com/jasarien/Provenance
+- RetroArch: The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others 🔥🔥🔥🔥
+  - https://github.com/libretro/RetroArch
+- iUAE: Commodore Amiga emulator, based on UAE 
+  - https://github.com/emufreak/iAmiga
+- nds4ios: Nintendo DS emulator, port of DeSmuME 
+  - https://github.com/raaxis/nds4ios
 
 ## Health 
  
@@ -519,7 +525,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/visitbcn/id904676442
 - iBeaconTasks: iBeacon TODO reminder app based on Parse 
   - https://github.com/TomekB/iBeaconTasks
-- pathlogger: GPS logging application for iOS written in Swift 🔶
+- pathlogger: GPS logging application written in Swift 🔶
   - https://github.com/eugenpirogoff/pathlogger
 
 ## Media 
@@ -767,7 +773,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/carlbutron/Swift
 - SafariAutoLoginTest: Demo showing how to auto-login users in iOS 9 based on Safari cookies 🔶🔥🔥
   - https://github.com/mackuba/SafariAutoLoginTest
-- Starship: A generic API client application for iOS using Hyperdrive 🔶
+- Starship: A generic API client application using Hyperdrive 🔶
   - https://github.com/kylef/Starship
 - StateRestorationDemo: State preservation and restoration APIs 🔶
   - https://github.com/shagedorn/StateRestorationDemo
