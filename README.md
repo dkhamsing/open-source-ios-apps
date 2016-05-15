@@ -529,7 +529,10 @@ Projects that are not in English have a flag
   - https://github.com/TomekB/iBeaconTasks
 - pathlogger: GPS logging application written in Swift 🔶
   - https://github.com/eugenpirogoff/pathlogger
-
+- Lunchify: Find 10€ Lunch Buffets in Finland. 
+  - https://github.com/sallar/lunchify-swift
+  - https://itunes.apple.com/us/app/lunchify/id1099214692
+  - 
 ## Media 
  
 Image, video, audio, reading — [back to top](#readme) 
