@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **403** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 15, 2016*).
+A collaborative list of **404** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 15, 2016*).
  
 Jump to 
  
@@ -73,7 +73,7 @@ Projects that are not in English have a flag
   - https://github.com/artsy/Emergence
 - EX Player: Watch video from ex.ua 
   - https://github.com/IGRSoft/exTVPlayer
-- Provenance: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
+- Provenance: Emulators frontend supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
   - https://github.com/jasarien/Provenance
 - RailsCasts: Watch RailsCasts videos on Apple TV 
   - https://github.com/spritlesoftware/railscasts-on-appletv
@@ -294,6 +294,8 @@ Projects that are not in English have a flag
 - OctoPodium: List user rankings based on GitHub repository star count 🔶
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
+- SwiftHub: View Swift repositories from Github 
+  - https://github.com/sahandnayebaziz/SwiftHub
 
 ## Finance 
  
@@ -358,7 +360,7 @@ Projects that are not in English have a flag
 - Dungeon Crawl: A game of dungeon exploration, combat and magic, involving characters of diverse skills 
   - https://github.com/CliffsDover/crawl
   - https://github.com/CliffsDover/crawl/tree/iOS_Release
-- Five-In-A-Row: Five In A Row (五子棋) game with SpriteKit 🇨🇳
+- Five In A Row (五子棋): SpriteKit game 🇨🇳
   - https://github.com/WelkinXie/FiveInARow
 - FlappySwift: Swift implementation of Flappy Bird 🔶🔥🔥🔥🔥🔥
   - https://github.com/fullstackio/FlappySwift
@@ -411,7 +413,7 @@ Projects that are not in English have a flag
   - https://github.com/yoshisuga/MAME4iOS
 - PPSSPP: PSP emulator 🔥🔥🔥🔥🔥
   - https://github.com/hrydgard/ppsspp
-- Provenance: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
+- Provenance: Emulators frontend supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
   - https://github.com/jasarien/Provenance
 - RetroArch: The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others 🔥🔥🔥🔥
   - https://github.com/libretro/RetroArch
@@ -617,7 +619,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/eugenpirogoff/swifteroid
 - TechTavta: Keep track of all events for Techtatva 2015 
   - https://github.com/LUGM/TechTatva-15
-  - https://itunes.apple.com/in/app/techtatva15/id922178880
+  - https://itunes.apple.com/app/techtatva15/id922178880
 - Textbook: textbooks from People's Education Press in China 🔶🇨🇳
   - https://github.com/JohnWong/textbook
   - https://itunes.apple.com/app/ke-ben/id993244460
