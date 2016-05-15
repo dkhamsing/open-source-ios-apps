@@ -1095,9 +1095,9 @@
       "source": "https://github.com/CliffsDover/crawl"
     },
     {
-      "title": "Five-In-A-Row",
+      "title": "Five In A Row (五子棋)",
       "category": "games",
-      "description": "Five In A Row (五子棋) game with SpriteKit",
+      "description": "SpriteKit game",
       "lang": "zho",
       "source": "https://github.com/WelkinXie/FiveInARow",
       "stars": 0
