@@ -35,6 +35,8 @@ def output_flag(lang)
     '🇪🇸'
   when 'zho'
     '🇨🇳'
+  else
+    ''
   end
 end
 
