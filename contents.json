@@ -1489,7 +1489,7 @@
     {
       "title": "pathlogger",
       "category": "location",
-      "description": "GPS logging application for iOS written in Swift",
+      "description": "GPS logging application written in Swift",
       "source": "https://github.com/eugenpirogoff/pathlogger",
       "tags": [
         "swift"
@@ -2250,7 +2250,7 @@
     {
       "title": "Starship",
       "category": "sample",
-      "description": "A generic API client application for iOS using Hyperdrive",
+      "description": "A generic API client application using Hyperdrive",
       "source": "https://github.com/kylef/Starship",
       "tags": [
         "swift"
@@ -3621,7 +3621,7 @@
       "category": [
         "emulators"
       ],
-      "description": "MAME frontend for iOS",
+      "description": "MAME frontend",
       "source": "https://github.com/yoshisuga/MAME4iOS",
       "stars": 0
     },
@@ -3630,7 +3630,7 @@
       "category": [
         "emulators"
       ],
-      "description": "DOSBox for iOS",
+      "description": "DOSBox",
       "source": "https://github.com/litchie/dospad",
       "stars": 73
     },
@@ -3639,7 +3639,7 @@
       "category": [
         "emulators"
       ],
-      "description": "PSP emulator with iOS support",
+      "description": "PSP emulator",
       "source": "https://github.com/hrydgard/ppsspp",
       "stars": 2288
     },
@@ -3667,7 +3667,7 @@
       "category": [
         "emulators"
       ],
-      "description": "Nintendo DS emulator, port of DeSmuME to iOS",
+      "description": "Nintendo DS emulator, port of DeSmuME",
       "source": "https://github.com/raaxis/nds4ios",
       "stars": 45
     },
@@ -3676,7 +3676,7 @@
       "category": [
         "emulators"
       ],
-      "description": "Commodore Amiga emulator, based on UAE, updated for iOS 7+",
+      "description": "Commodore Amiga emulator, based on UAE",
       "source": "https://github.com/emufreak/iAmiga",
       "stars": 18
     }
