@@ -3679,6 +3679,12 @@
       "description": "Commodore Amiga emulator, based on UAE",
       "source": "https://github.com/emufreak/iAmiga",
       "stars": 18
+    },
+    {
+      "title": "SwiftHub",
+      "category": [ "github"],
+      "description": "View Swift repositories from Github",
+      "source": "https://github.com/sahandnayebaziz/SwiftHub"
     }
   ]
 }
