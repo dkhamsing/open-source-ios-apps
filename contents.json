@@ -46,6 +46,11 @@
       "id": "games"
     },
     {
+      "title": "Emulators",
+      "id": "emulators",
+      "parent": "games"
+    },
+    {
       "title": "Health",
       "id": "health"
     },
@@ -208,7 +213,7 @@
       "title": "Provenance",
       "category": [
         "apple-tv",
-        "games"
+        "emulators"
       ],
       "description": "Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more",
       "source": "https://github.com/jasarien/Provenance",
@@ -3596,7 +3601,7 @@
     {
       "title": "ActiveGS",
       "category": [
-        "games"
+        "emulators"
       ],
       "description": "Apple II/IIGS Emulator with in-app game browser, mFi and iCade controller support",
       "source": "https://github.com/ogoguel/activegs-ios",
@@ -3605,7 +3610,7 @@
     {
       "title": "RetroArch",
       "category": [
-        "games"
+        "emulators"
       ],
       "description": "The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others",
       "source": "https://github.com/libretro/RetroArch",
@@ -3614,7 +3619,7 @@
     {
       "title": "MAME4iOS",
       "category": [
-        "games"
+        "emulators"
       ],
       "description": "MAME frontend for iOS",
       "source": "https://github.com/yoshisuga/MAME4iOS",
@@ -3623,7 +3628,7 @@
     {
       "title": "DOSPad",
       "category": [
-        "games"
+        "emulators"
       ],
       "description": "DOSBox for iOS",
       "source": "https://github.com/litchie/dospad",
@@ -3632,7 +3637,7 @@
     {
       "title": "PPSSPP",
       "category": [
-        "games"
+        "emulators"
       ],
       "description": "PSP emulator with iOS support",
       "source": "https://github.com/hrydgard/ppsspp",
@@ -3660,7 +3665,7 @@
     {
       "title": "nds4ios",
       "category": [
-        "games"
+        "emulators"
       ],
       "description": "Nintendo DS emulator, port of DeSmuME to iOS",
       "source": "https://github.com/raaxis/nds4ios",
@@ -3669,11 +3674,11 @@
     {
       "title": "iUAE",
       "category": [
-        "games"
+        "emulators"
       ],
       "description": "Commodore Amiga emulator, based on UAE, updated for iOS 7+",
       "source": "https://github.com/emufreak/iAmiga",
       "stars": 18
-    }    
+    }
   ]
 }
