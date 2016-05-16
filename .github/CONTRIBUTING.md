@@ -7,7 +7,7 @@ Please [open an issue](https://github.com/dkhamsing/open-source-ios-apps/issues)
 
 ## Delete app
 
-To delete an app, add the value **archive** to the `tags` field.
+To delete an app, add the value **archive** to the `tags` field (more [info](https://github.com/dkhamsing/open-source-ios-apps/wiki/Deleting)).
 
 ## New app
 
