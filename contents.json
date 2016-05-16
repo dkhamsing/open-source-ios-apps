@@ -3322,7 +3322,7 @@
     },
     {
       "title": "GitBucket",
-      "category": "reactivecocoa",
+      "category": ["reactivecocoa", "github"],
       "description": "GitHub client using MVVM & ReactiveCocoa",
       "source": "https://github.com/leichunfeng/MVVMReactiveCocoa",
       "itunes": "https://itunes.apple.com/app/id961330940",
