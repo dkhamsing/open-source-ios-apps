@@ -3685,6 +3685,12 @@
       "category": [ "github"],
       "description": "View Swift repositories from Github",
       "source": "https://github.com/sahandnayebaziz/SwiftHub"
+    },
+    {
+      "title": "Baloon Burst",
+      "category": "game",
+      "description": "A simple game to use in learning Cocos2D",
+      "source": "https://github.com/jamiely/ios-balloon-burst"
     }
   ]
 }
