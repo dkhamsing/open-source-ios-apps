@@ -339,6 +339,8 @@ Projects that are not in English have a flag
   - https://github.com/austinzheng/iOS-2048
 - 2048 in Swift 🔶🔥🔥🔥🔥🔥
   - https://github.com/austinzheng/swift-2048
+- Baloon Burst: A simple game to use in learning Cocos2D 
+  - https://github.com/jamiely/ios-balloon-burst
 - Bridges: A puzzle game with bridges, houses, tolls, and subways 🔥
   - https://github.com/zgrossbart/bridges
   - https://itunes.apple.com/app/seven-bridges/id586598714
