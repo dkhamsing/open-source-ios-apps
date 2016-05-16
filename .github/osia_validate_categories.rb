@@ -1,6 +1,6 @@
-require 'json'
+require_relative 'osia_helper'
 
-j = JSON.parse(File.read 'contents.json')
+j = get_json
 c = j['categories']
 a = j['projects']
 

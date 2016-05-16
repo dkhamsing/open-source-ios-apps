@@ -8,7 +8,7 @@ test:
   override:
     - awesome_bot contents.json --white-list developer.apple
     - json validate --schema-file=.github/schema.json --document-file=contents.json
-    - ruby .github/validate_categories.rb
+    - ruby .github/osia_validate_categories.rb
 general:
   artifacts:
     - "ab-results.json"
@@ -16,5 +16,5 @@ deployment:
   master:
     branch: master
     commands:
-      - ruby .github/convert.rb
+      - ruby .github/osia_convert.rb
       - ./.github/deploy.sh

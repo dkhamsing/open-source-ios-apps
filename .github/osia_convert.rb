@@ -1,44 +1,10 @@
+require_relative 'osia_helper'
 require 'date'
-require 'json'
 
 README = 'README.md'
 
 ARCHIVE = 'ARCHIVE.md'
 ARCHIVE_TAG = 'archive'
-
-def output_stars(number)
-  case number
-  when 100...200
-    '🔥'
-  when 200...500
-    '🔥🔥'
-  when 500...1000
-    '🔥🔥🔥'
-  when 1000...2000
-    '🔥🔥🔥🔥'
-  when 2000...100000
-    '🔥🔥🔥🔥🔥'
-  else
-    ''
-  end
-end
-
-def output_flag(lang)
-  case lang
-  when 'jpn'
-    '🇯🇵'
-  when 'ltz'
-    '🇱🇺'
-  when 'por'
-    '🇧🇷'
-  when 'spa'
-    '🇪🇸'
-  when 'zho'
-    '🇨🇳'
-  else
-    ''
-  end
-end
 
 def apps_archived(apps)
   a = apps.select {|a| a['tags'] != nil }.select {|b| b['tags'].include?ARCHIVE_TAG}
@@ -101,6 +67,40 @@ def output_apps(apps)
       o << "  - #{itunes}\n" unless itunes.nil?
   end
   o
+end
+
+def output_flag(lang)
+  case lang
+  when 'jpn'
+    '🇯🇵'
+  when 'ltz'
+    '🇱🇺'
+  when 'por'
+    '🇧🇷'
+  when 'spa'
+    '🇪🇸'
+  when 'zho'
+    '🇨🇳'
+  else
+    ''
+  end
+end
+
+def output_stars(number)
+  case number
+  when 100...200
+    '🔥'
+  when 200...500
+    '🔥🔥'
+  when 500...1000
+    '🔥🔥🔥'
+  when 1000...2000
+    '🔥🔥🔥🔥'
+  when 2000...100000
+    '🔥🔥🔥🔥🔥'
+  else
+    ''
+  end
 end
 
 def write_readme(j)
@@ -178,8 +178,7 @@ def write_archive(j)
   puts "wrote #{file} ✨"
 end
 
-c = File.read 'contents.json'
-j = JSON.parse c
+j = get_json
 
 write_readme(j)
 write_archive(j)

@@ -1,8 +1,6 @@
-require 'json'
+require_relative 'osia_helper'
 
-c = File.read 'contents.json'
-j = JSON.parse c
-
+j = get_json
 c = j['categories']
 
 c.sort_by { |h| h['title']}
