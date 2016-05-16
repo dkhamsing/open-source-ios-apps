@@ -3589,7 +3589,7 @@
       "tags": [
         "archive"
       ]
-    },    
+    },
     {
       "title": "ActiveGS",
       "category": [
@@ -3680,7 +3680,7 @@
     },
     {
       "title": "Baloon Burst",
-      "category": "game",
+      "category": "games",
       "description": "A simple game to use in learning Cocos2D",
       "source": "https://github.com/jamiely/ios-balloon-burst"
     }
