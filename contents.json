@@ -2975,16 +2975,6 @@
       ]
     },
     {
-      "title": "Sentiments",
-      "category": "text",
-      "description": "iOS app written in Swift that analyzes text for positive or negative sentiment.",
-      "source": "https://github.com/kyleweiner/Sentiments",
-      "stars": 71,
-      "tags": [
-        "swift"
-      ]
-    },
-    {
       "title": "Coffee Timer",
       "category": "timer",
       "source": "https://github.com/ashfurrow/yourfirstswiftapp",
@@ -3700,6 +3690,16 @@
       "category": "location",
       "source": "https://github.com/peteog/Closebox",
       "itunes": "https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813"
+    },
+    {
+      "title": "Sentiments",
+      "category": "text",
+      "description": "iOS app written in Swift that analyzes text for positive or negative sentiment.",
+      "source": "https://github.com/kyleweiner/Sentiments",
+      "stars": 71,
+      "tags": [
+        "swift"
+      ]
     }
   ]
 }
