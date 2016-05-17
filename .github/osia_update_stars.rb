@@ -1,15 +1,11 @@
-require 'json'
+require_relative 'osia_helper'
 
 require 'octokit'
 require 'netrc'
 
-FILE = 'contents.json'
-
-c = File.read FILE
-j = JSON.parse c
-
 client = Octokit::Client.new(:netrc => true)
 
+j = get_json
 apps = j['projects']
 updated = []
 
