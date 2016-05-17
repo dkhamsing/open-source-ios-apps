@@ -2975,6 +2975,16 @@
       ]
     },
     {
+      "title": "Sentiments",
+      "category": "text",
+      "description": "iOS app written in Swift that analyzes text for positive or negative sentiment.",
+      "source": "https://github.com/kyleweiner/Sentiments",
+      "stars": 71,
+      "tags": [
+        "swift"
+      ]
+    },
+    {
       "title": "Coffee Timer",
       "category": "timer",
       "source": "https://github.com/ashfurrow/yourfirstswiftapp",
