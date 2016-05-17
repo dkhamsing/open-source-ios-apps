@@ -3694,7 +3694,7 @@
     {
       "title": "Sentiments",
       "category": "text",
-      "description": "iOS app written in Swift that analyzes text for positive or negative sentiment.",
+      "description": "Analyzes text for positive or negative sentiment.",
       "source": "https://github.com/kyleweiner/Sentiments",
       "stars": 71,
       "tags": [
