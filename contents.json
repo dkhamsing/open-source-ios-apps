@@ -3690,6 +3690,12 @@
       "category": "location",
       "source": "https://github.com/peteog/Closebox",
       "itunes": "https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813"
+    },
+    {
+      "title": "Sentiments",
+      "category": "text",
+      "description": "Analyzes text for positive or negative sentiment.",
+      "source": "https://github.com/kyleweiner/Sentiments"
     }
   ]
 }
