@@ -3695,11 +3695,7 @@
       "title": "Sentiments",
       "category": "text",
       "description": "Analyzes text for positive or negative sentiment.",
-      "source": "https://github.com/kyleweiner/Sentiments",
-      "stars": 71,
-      "tags": [
-        "swift"
-      ]
+      "source": "https://github.com/kyleweiner/Sentiments"
     }
   ]
 }
