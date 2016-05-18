@@ -3702,7 +3702,9 @@
       "title": "TSWeChat",
       "category": "communication",
       "description": "A WeChat alternative",
-      "source": "https://github.com/hilen/TSWeChat"
+      "source": "https://github.com/hilen/TSWeChat",
+      "tags": ["swift"],
+      "stars": 1051      
     }
   ]
 }
