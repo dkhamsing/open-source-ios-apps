@@ -11,7 +11,7 @@ test:
     - ruby .github/osia_validate_categories.rb
 general:
   artifacts:
-    - "ab-results.json"
+    - "ab-results-contents.json.json"
 deployment:
   master:
     branch: master
