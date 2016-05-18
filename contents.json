@@ -3704,15 +3704,14 @@
       "description": "A WeChat alternative",
       "source": "https://github.com/hilen/TSWeChat",
       "tags": ["swift"],
-      "stars": 1051      
+      "stars": 1051
     },
     {
       "title": "Colorblind",
       "category": "health",
       "description": "ResearchKit app built in swift in order to provide an easy test for colorblind people.",
       "source": "https://github.com/boostcode/ResearchKit-ColorBlind",
-      "itunes": "https://itunes.apple.com/us/app/colorblind-app-color-blindness/id1098387412?ls=1&mt=8",      
-      "lang": "en",     
+      "itunes": "https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412",
       "tags": ["swift","researchkit"]
     }
   ]
