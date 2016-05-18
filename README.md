@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **406** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 17, 2016*).
+A collaborative list of **407** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 18, 2016*).
  
 Jump to 
  
@@ -208,6 +208,8 @@ Projects that are not in English have a flag
 - Signal: Free, world-wide, private messaging and phone calls for iPhone 🔥🔥🔥🔥
   - https://github.com/WhisperSystems/Signal-iOS
   - https://itunes.apple.com/app/id874139669
+- TSWeChat: A WeChat alternative 🔶🔥🔥🔥🔥
+  - https://github.com/hilen/TSWeChat
 - Telegram: Messaging app with a focus on speed and security 🔥🔥🔥
   - https://github.com/peter-iakovlev/Telegram
   - https://itunes.apple.com/app/telegram-messenger/id686449807
@@ -1023,7 +1025,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Edhita: Text editor 🔶🔥🔥🔥
   - https://github.com/tnantoka/edhita
   - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
-- Sentiments: Analyzes text for positive or negative sentiment. 
+- Sentiments: Analyzes text for positive or negative sentiment. 🔶
   - https://github.com/kyleweiner/Sentiments
 - SimpleMemo: Sync notes to EverNote 🔥🔥
   - https://github.com/likumb/SimpleMemo
