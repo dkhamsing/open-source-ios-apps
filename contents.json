@@ -3697,6 +3697,12 @@
       "description": "Analyzes text for positive or negative sentiment.",
       "source": "https://github.com/kyleweiner/Sentiments",
       "tags": ["swift"]
+    },
+    {
+      "title": "TSWeChat",
+      "category": "communication",
+      "description": "A WeChat alternative",
+      "source": "https://github.com/hilen/TSWeChat"
     }
   ]
 }
