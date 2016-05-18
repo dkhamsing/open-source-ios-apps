@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **407** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 18, 2016*).
+A collaborative list of **408** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 18, 2016*).
  
 Jump to 
  
@@ -438,6 +438,9 @@ Projects that are not in English have a flag
 - AsthmaHealth: ResearchKit app studying Asthma 
   - https://github.com/ResearchKit/AsthmaHealth
   - https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668
+- Colorblind: ResearchKit app built in swift in order to provide an easy test for colorblind people. 🔶
+  - https://github.com/boostcode/ResearchKit-ColorBlind
+  - https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412
 - Depressed: Test if you are depressed 🔶
   - https://github.com/DerLobi/Depressed
   - https://itunes.apple.com/app/depressed/id1062594092
