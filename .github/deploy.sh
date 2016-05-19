@@ -2,7 +2,7 @@
 
 set -e
 
-git config user.name "Travis CI"
+git config user.name "CI"
 git config user.email "dkhamsing@users.noreply.github.com"
 
 status=`git status`
