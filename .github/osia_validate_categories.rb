@@ -2,7 +2,7 @@ require_relative 'osia_helper'
 
 j = get_json
 c = j['categories']
-a = j['projects']
+apps = j['projects']
 
 def failed(cat, app)
   puts "‼️  #{cat} is not a valid category for #{app}"
@@ -13,13 +13,12 @@ def verify(cat, allowed, app)
   failed(cat, app) unless allowed.include? cat
 end
 
-allowed_categories = c.sort_by { |h| h['title']}.map { |x| x['id']}
+allowed_categories = osia_allowed_categories(c)
 
-a.each do |a|
+apps.each do |a|
   cat = a['category']
 
   if cat.nil?
-    # failed(cat, a)
     puts "missing category for #{a}"
     exit 1
   end
@@ -27,7 +26,7 @@ a.each do |a|
   if cat.class == String
     verify(cat, allowed_categories, a)
   elsif cat.class == Array
-    cat.each { |c| verify(c, allowed_categories, a) }
+    cat.each { |d| verify(d, allowed_categories, a) }
   end
 end
 
