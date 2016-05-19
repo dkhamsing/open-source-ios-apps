@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-04/schema#",
-	"$id": "https://raw.githubusercontent.com/dkhamsing/open-source-ios-apps/master/schema.json",
+	"$id": "https://raw.githubusercontent.com/dkhamsing/open-source-ios-apps/master/.github/schema.json",
 	"type": "object",
 	"properties": {
 		"title": {
