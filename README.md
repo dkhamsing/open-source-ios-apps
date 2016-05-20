@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **408** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 19, 2016*).
+A collaborative list of **409** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 20, 2016*).
  
 Jump to 
  
@@ -77,7 +77,9 @@ Projects that are not in English have a flag
   - https://github.com/jasarien/Provenance
 - RailsCasts: Watch RailsCasts videos on Apple TV 
   - https://github.com/spritlesoftware/railscasts-on-appletv
-- UitzendingGemist: Unofficial Apple TV app for Dutch Public Broadcasting video on demand service 🔶
+- UitzendingGemist by 4np: Uitgebreide UitzendingGemist app voor Nederland 🔶🇳🇱
+  - https://github.com/4np/UitzendingGemist
+- UitzendingGemist by jeffkreeftmeijer: Unofficial Apple TV app for Dutch Public Broadcasting video on demand service 🔶
   - https://github.com/jeffkreeftmeijer/UitzendingGemist
 - WWDCTV: Watch the WWDC Videos on your Apple TV 🔥🔥
   - https://github.com/azzoor/WWDCTV
@@ -300,7 +302,7 @@ Projects that are not in English have a flag
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
 - SwiftHub: View Swift repositories from Github 
-  - https://github.com/sahandnayebaziz/SwiftHub
+  - https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub
 
 ## Finance 
  
