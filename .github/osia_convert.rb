@@ -75,6 +75,8 @@ def output_flag(lang)
     '🇯🇵'
   when 'ltz'
     '🇱🇺'
+  when 'nld'
+    '🇳🇱'
   when 'por'
     '🇧🇷'
   when 'spa'
