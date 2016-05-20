@@ -220,7 +220,7 @@
       "stars": 2016
     },
     {
-      "title": "UitzendingGemist",
+      "title": "UitzendingGemist by jeffkreeftmeijer",
       "category": "apple-tv",
       "description": "Unofficial Apple TV app for Dutch Public Broadcasting video on demand service",
       "source": "https://github.com/jeffkreeftmeijer/UitzendingGemist",
@@ -3713,6 +3713,14 @@
       "source": "https://github.com/boostcode/ResearchKit-ColorBlind",
       "itunes": "https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412",
       "tags": ["swift","researchkit"]
+    },
+    {
+      "title": "UitzendingGemist by 4np",
+      "category": "apple-tv",
+      "description": "Uitgebreide UitzendingGemist app voor Nederland",
+      "source": "https://github.com/4np/UitzendingGemist",
+      "lang": "nld",
+      "tags": ["swift"]
     }
   ]
 }
