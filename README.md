@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **409** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 20, 2016*).
+A collaborative list of **410** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 24, 2016*).
  
 Jump to 
  
@@ -1044,6 +1044,8 @@ Image, video, audio, reading — [back to top](#readme)
  
 - Coffee Timer 🔶
   - https://github.com/ashfurrow/yourfirstswiftapp
+- Fibonacc iClock: A clock based off the famous fibonacci sequence. 
+  - https://github.com/scribblemaniac/Fibonacc-iClock
 - Fojusi: Work timer with today extension 🔶🔥🔥
   - https://github.com/dasdom/Tomate
   - https://itunes.apple.com/app/fojusi/id923044693
