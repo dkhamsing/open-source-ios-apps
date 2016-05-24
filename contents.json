@@ -565,6 +565,7 @@
       "category": "browser",
       "description": "Firefox-based browser with ad blocking built in (also blocks tracking pixels/cookies)",
       "source": "https://github.com/brave/browser-ios",
+      "itunes": "https://itunes.apple.com/app/brave-web-browser/id1052879175",
       "stars": 358,
       "tags": [
         "swift"
