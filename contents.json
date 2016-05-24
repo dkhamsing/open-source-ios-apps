@@ -3733,6 +3733,12 @@
       "category": "timer",
       "description": "A clock based off the famous fibonacci sequence.",
       "source": "https://github.com/scribblemaniac/Fibonacc-iClock"
+    },
+    {
+      "title": "Chaty",
+      "category": ["firebase","communication"],
+      "description": "Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching",
+      "source": "https://github.com/LunarFlash/Chaty"
     }
   ]
 }
