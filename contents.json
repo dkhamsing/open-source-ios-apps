@@ -143,6 +143,11 @@
       "parent": "special"
     },
     {
+      "title": "Firebase",
+      "id": "firebase",
+      "parent": "special"
+    },    
+    {
       "title": "[Ionic](http://ionicframework.com/)",
       "id": "ionic",
       "parent": "special"
@@ -1978,7 +1983,7 @@
     },
     {
       "title": "Hacker News Client",
-      "category": "hacker-news",
+      "category": ["hacker-news","firebase"],
       "description": "Firebase API-Based iOS Reader (Firebase)",
       "source": "https://github.com/bonzoq/hniosreader",
       "itunes": "https://itunes.apple.com/app/hacker-news-client/id939454231",
@@ -1986,7 +1991,7 @@
     },
     {
       "title": "HackerNews (Y)",
-      "category": "hacker-news",
+      "category": ["hacker-news","firebase"],
       "description": "Built using pure Objective-C with official HN API (uses Firebase and Fabric)",
       "source": "https://github.com/vetri02/HackerNews",
       "itunes": "https://itunes.apple.com/app/hacker-news-y/id1027140113",
@@ -2396,7 +2401,7 @@
     },
     {
       "title": "Swift Off",
-      "category": "tasks",
+      "category": ["tasks","firebase"],
       "description": "Firebase powered to do app built in Swift, includes tutorial",
       "source": "https://github.com/goprimer/swift-off-todo",
       "tags": [
