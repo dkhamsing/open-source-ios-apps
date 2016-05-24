@@ -172,6 +172,7 @@ Projects that are not in English have a flag
  
 - Brave: Firefox-based browser with ad blocking built in (also blocks tracking pixels/cookies) 🔶🔥🔥
   - https://github.com/brave/browser-ios
+  - https://itunes.apple.com/app/brave-web-browser/id1052879175
 - Endless Browser: Web browser built with privacy and security in mind 
   - https://github.com/jcs/endless
   - https://itunes.apple.com/app/endless-browser/id974745755
