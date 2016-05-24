@@ -40,6 +40,7 @@ Jump to
 - [Special](#special) 
   - [Appcelerator](#appcelerator) 
   - [Core Data](#core-data) 
+  - [Firebase](#firebase) 
   - [[Ionic](http://ionicframework.com/)](#ionic) 
   - [Parse](#parse) 
   - [[React Native](http://facebook.github.io/react-native/)](#react-native) 
@@ -1078,6 +1079,19 @@ Image, video, audio, reading — [back to top](#readme)
 - Tasks: Designed to quickly and easily add tasks to your iPhone 🔶
   - https://github.com/mbcrump/TasksForSwiftWithPersistingData
   - https://itunes.apple.com/app/task-application/id960435759
+
+### Firebase 
+ 
+[back to top](#readme) 
+ 
+- Hacker News Client: Firebase API-Based iOS Reader (Firebase) 🔥🔥
+  - https://github.com/bonzoq/hniosreader
+  - https://itunes.apple.com/app/hacker-news-client/id939454231
+- HackerNews (Y): Built using pure Objective-C with official HN API (uses Firebase and Fabric) 
+  - https://github.com/vetri02/HackerNews
+  - https://itunes.apple.com/app/hacker-news-y/id1027140113
+- Swift Off: Firebase powered to do app built in Swift, includes tutorial 🔶
+  - https://github.com/goprimer/swift-off-todo
 
 ### [Ionic](http://ionicframework.com/) 
  
