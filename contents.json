@@ -146,7 +146,7 @@
       "title": "Firebase",
       "id": "firebase",
       "parent": "special"
-    },    
+    },
     {
       "title": "[Ionic](http://ionicframework.com/)",
       "id": "ionic",
@@ -3739,6 +3739,12 @@
       "category": ["firebase","communication"],
       "description": "Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching",
       "source": "https://github.com/LunarFlash/Chaty"
+    },
+    {
+      "title": "iCook",
+      "category": "apple-tv",
+      "description": "A tvOS app that plays iCook TV videos.",
+      "source": "https://github.com/polydice/iCook-tvOS"
     }
   ]
 }
