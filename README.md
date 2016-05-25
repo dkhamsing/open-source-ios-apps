@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **411** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 25, 2016*).
+A collaborative list of **412** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 25, 2016*).
  
 Jump to 
  
@@ -84,6 +84,8 @@ Projects that are not in English have a flag
   - https://github.com/jeffkreeftmeijer/UitzendingGemist
 - WWDCTV: Watch the WWDC Videos on your Apple TV 🔥🔥
   - https://github.com/azzoor/WWDCTV
+- iCook: A tvOS app that plays iCook TV videos. 
+  - https://github.com/polydice/iCook-tvOS
 
 ## Apple Watch 
  
