@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **410** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 24, 2016*).
+A collaborative list of **411** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 25, 2016*).
  
 Jump to 
  
@@ -197,6 +197,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063
 - Chats: Messages app 🔶🔥🔥🔥🔥
   - https://github.com/acani/Chats
+- Chaty: Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching 
+  - https://github.com/LunarFlash/Chaty
 - Colloquy: IRC client 
   - https://github.com/colloquy/colloquy
 - IRCCloud: An IRC client/service 🔥
@@ -1085,6 +1087,8 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Chaty: Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching 
+  - https://github.com/LunarFlash/Chaty
 - Hacker News Client: Firebase API-Based iOS Reader (Firebase) 🔥🔥
   - https://github.com/bonzoq/hniosreader
   - https://itunes.apple.com/app/hacker-news-client/id939454231
