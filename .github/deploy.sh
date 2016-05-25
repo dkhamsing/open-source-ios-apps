@@ -2,8 +2,8 @@
 
 set -e
 
-git config user.name "CI"
-git config user.email "dkhamsing@users.noreply.github.com"
+git config user.name "READMEbot"
+git config user.email "readmebot@users.noreply.github.com"
 
 status=`git status`
 
