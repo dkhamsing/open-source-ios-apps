@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **412** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 25, 2016*).
+A collaborative list of **413** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 26, 2016*).
  
 Jump to 
  
@@ -1258,6 +1258,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/tailec/boilerplate
 - Kiosk: The Artsy auction kiosk app, uses RxSwift 🔶🔥🔥🔥🔥
   - https://github.com/artsy/eidolon
+- Tweetometer: See who is tweeting in your timeline 🔶
+  - https://github.com/BalestraPatrick/Tweetometer
 
 ### Realm 
  
