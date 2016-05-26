@@ -3745,6 +3745,13 @@
       "category": "apple-tv",
       "description": "A tvOS app that plays iCook TV videos.",
       "source": "https://github.com/polydice/iCook-tvOS"
+    },
+    {
+      "title": "Tweetometer",
+      "category": "rxswift",
+      "description": "See who is tweeting in your timeline",
+      "source": "https://github.com/BalestraPatrick/Tweetometer",
+      "tags": ["swift"]
     }
   ]
 }
