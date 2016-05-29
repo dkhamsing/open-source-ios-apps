@@ -3758,6 +3758,13 @@
       "category": ["finance", "location"],
       "description": "Pay-if-U-R-late app using geofences and Venmo API",
       "source": "https://github.com/ayunav/Neverlate"
+    },
+    {
+      "title": "Telemat-tvOS",
+      "category": ["apple-tv", "media"],
+      "description": "APP to watch Public German Broadcast/TV company streams",
+      "lang": "ger",
+      "source": "https://github.com/omichde/Telemat-tvOS"
     }
   ]
 }
