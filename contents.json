@@ -3775,7 +3775,7 @@
     {
       "title": "NumberPad",
       "category": ["calculator"],
-      "description": "An experimental prototype calculator",
+      "description": "An experimental prototype calculator for iPad",
       "source": "https://github.com/bridger/NumberPad"
     }
   ]
