@@ -3770,6 +3770,12 @@
       "description": "APP to watch Public German Broadcast/TV company streams",
       "lang": "ger",
       "source": "https://github.com/omichde/Telemat-tvOS"
+    },
+    {
+      "title": "NumberPad",
+      "category": ["calculator"],
+      "description": "An experimental prototype calculator",
+      "source": "https://github.com/bridger/NumberPad"
     }
   ]
 }
