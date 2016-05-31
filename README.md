@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **414** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 27, 2016*).
+A collaborative list of **415** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 31, 2016*).
  
 Jump to 
  
@@ -78,6 +78,8 @@ Projects that are not in English have a flag
   - https://github.com/jasarien/Provenance
 - RailsCasts: Watch RailsCasts videos on Apple TV 
   - https://github.com/spritlesoftware/railscasts-on-appletv
+- Telemat-tvOS: APP to watch Public German Broadcast/TV company streams 
+  - https://github.com/omichde/Telemat-tvOS
 - UitzendingGemist by 4np: Uitgebreide UitzendingGemist app voor Nederland 🔶🇳🇱
   - https://github.com/4np/UitzendingGemist
 - UitzendingGemist by jeffkreeftmeijer: Unofficial Apple TV app for Dutch Public Broadcasting video on demand service 🔶
@@ -642,6 +644,8 @@ Image, video, audio, reading — [back to top](#readme)
 - TechTavta: Keep track of all events for Techtatva 2015 
   - https://github.com/LUGM/TechTatva-15
   - https://itunes.apple.com/app/techtatva15/id922178880
+- Telemat-tvOS: APP to watch Public German Broadcast/TV company streams 
+  - https://github.com/omichde/Telemat-tvOS
 - Textbook: textbooks from People's Education Press in China 🔶🇨🇳
   - https://github.com/JohnWong/textbook
   - https://itunes.apple.com/app/ke-ben/id993244460
