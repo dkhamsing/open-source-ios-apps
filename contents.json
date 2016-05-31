@@ -3761,7 +3761,7 @@
     },
     {
       "title": "Telemat-tvOS",
-      "category": ["apple-tv", "media"],
+      "category": ["apple-tv"],
       "description": "APP to watch Public German Broadcast/TV company streams",
       "lang": "ger",
       "source": "https://github.com/omichde/Telemat-tvOS"
