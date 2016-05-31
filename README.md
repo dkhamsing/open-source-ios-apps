@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **415** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 31, 2016*).
+A collaborative list of **416** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 31, 2016*).
  
 Jump to 
  
@@ -35,6 +35,7 @@ Jump to
 - [Misc](#misc) 
   - [3D Touch](#3d-touch) 
   - [Calendar](#calendar) 
+  - [Calculator](#calculator) 
   - [Text](#text) 
   - [Timer](#timer) 
 - [Special](#special) 
@@ -644,8 +645,6 @@ Image, video, audio, reading — [back to top](#readme)
 - TechTavta: Keep track of all events for Techtatva 2015 
   - https://github.com/LUGM/TechTatva-15
   - https://itunes.apple.com/app/techtatva15/id922178880
-- Telemat-tvOS: APP to watch Public German Broadcast/TV company streams 🇩🇪
-  - https://github.com/omichde/Telemat-tvOS
 - Textbook: textbooks from People's Education Press in China 🔶🇨🇳
   - https://github.com/JohnWong/textbook
   - https://itunes.apple.com/app/ke-ben/id993244460
@@ -968,9 +967,6 @@ Image, video, audio, reading — [back to top](#readme)
 - Population Clock: Learn about geography and demographics 
   - https://github.com/Netfilter-Com/PopulationClock
   - https://itunes.apple.com/app/population-clock-hd/id590689957
-- Round & Split: Tip Calculator 🔶
-  - https://github.com/lukhnos/roundandsplit
-  - https://itunes.apple.com/app/round-split/id912288737
 - Runner-Stats: iPhone app to record running data 
   - https://github.com/hukun01/Runner-Stats
   - https://itunes.apple.com/app/runner-stats/id793443821
@@ -1036,6 +1032,18 @@ Image, video, audio, reading — [back to top](#readme)
 - Workdays: Simple iPhone calendar with operating schedule 
   - https://github.com/mpak/Workdays
   - https://itunes.apple.com/app/workdays-calendar/id889712978
+
+### Calculator 
+ 
+[back to top](#readme) 
+ 
+- Calculator: React Native calculator 🔥🔥🔥🔥🔥
+  - https://github.com/benoitvallon/react-native-nw-react-calculator
+- NumberPad: An experimental prototype calculator 
+  - https://github.com/bridger/NumberPad
+- Round & Split: Tip Calculator 🔶
+  - https://github.com/lukhnos/roundandsplit
+  - https://itunes.apple.com/app/round-split/id912288737
 
 ### Text 
  
@@ -1156,7 +1164,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/bgryszko/react-native-example
 - Assemblies: Developer-focused Meetup clone 🔥
   - https://github.com/buildreactnative/assemblies
-- Calculator 🔥🔥🔥🔥🔥
+- Calculator: React Native calculator 🔥🔥🔥🔥🔥
   - https://github.com/benoitvallon/react-native-nw-react-calculator
 - Currency Converter 
   - https://github.com/ashwinpreet/ReactNativeExamples
