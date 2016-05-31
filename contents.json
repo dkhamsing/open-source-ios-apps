@@ -3163,6 +3163,7 @@
     {
       "title": "Calculator",
       "category": ["react-native", "calculator"],
+      "description": "React Native calculator",
       "source": "https://github.com/benoitvallon/react-native-nw-react-calculator",
       "stars": 2752
     },
