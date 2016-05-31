@@ -119,6 +119,11 @@
       "parent": "misc"
     },
     {
+      "title": "Calculator",
+      "id": "calculator",
+      "parent": "misc"
+    },
+    {
       "title": "Text",
       "id": "text",
       "parent": "misc"
@@ -2802,7 +2807,7 @@
     },
     {
       "title": "Round & Split",
-      "category": "misc",
+      "category": "calculator",
       "description": "Tip Calculator",
       "source": "https://github.com/lukhnos/roundandsplit",
       "itunes": "https://itunes.apple.com/app/round-split/id912288737",
@@ -3157,7 +3162,7 @@
     },
     {
       "title": "Calculator",
-      "category": "react-native",
+      "category": ["react-native", "calculator"],
       "source": "https://github.com/benoitvallon/react-native-nw-react-calculator",
       "stars": 2752
     },
