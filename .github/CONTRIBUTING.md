@@ -37,7 +37,7 @@ Feel free to cut and paste the snippet below
     		"category": "Category name",
     		"description": "What this app does",
     		"source": "Link to source, usually GitHub"
-	}
+}
 ```
 
 #### Details
@@ -68,8 +68,20 @@ Feel free to cut and paste the snippet below
 
 - `tags`: List of app attribute tags, use `swift` if the app is written in Swift
 
-#### Examples
+- `itunes`: Link to App Store
 
+  - No regional restriction: the app should not have a region in the URL (`/gb` below)
+
+    - Good: https://itunes.apple.com/app/gorillas/id302275459
+    - Bad:  https://itunes.apple.com/gb/app/gorillas/id302275459
+
+  - If the app is only available in a region, the URL should have a region
+
+	- Good: https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813
+	- Bad:  https://itunes.apple.com/app/closebox-find-closest-postbox/id556364813
+
+
+#### Examples
 
 - https://github.com/dkhamsing/open-source-ios-apps/pull/281
 - https://github.com/dkhamsing/open-source-ios-apps/pull/281/files
