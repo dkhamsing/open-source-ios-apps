@@ -3804,6 +3804,14 @@
       "description": "Visualize molecules in 3D.",
       "source": "http://www.sunsetlakesoftware.com/molecules",
       "itunes": "https://itunes.apple.com/us/app/molecules/id284943090?mt=8"
+    },
+    {
+      "title": "Task Coach",
+      "category": "tasks",
+      "description": "Visualize molecules in 3D.",
+      "source": "https://sourceforge.net/projects/taskcoach/",
+      "homepage": "http://taskcoach.org/"
+      "itunes": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=311403563&mt=8"
     }
   ]
 }
