@@ -3777,6 +3777,12 @@
       "category": ["calculator"],
       "description": "An experimental prototype calculator for iPad",
       "source": "https://github.com/bridger/NumberPad"
+    },
+    {
+      "title": "SRGMediaPlayer-iOS",
+      "category": "Media",
+      "description": "The SRG Media Player library for iOS provides a simple way to add a universal audio / video player to any iOS application.",
+      "source": "https://github.com/SRGSSR/SRGMediaPlayer-iOS.git"
     }
   ]
 }
