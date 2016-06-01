@@ -3858,6 +3858,13 @@
       "category": "games",
       "description": "Escape the labyrinth by following limited paths.",
       "source": "https://github.com/RolandasRazma/iLabyrinth"
+    },
+    {
+      "title": "Heredox",
+      "category": "games",
+      "description": "Place tiles to form your allegiance's symbols.",
+      "source": "https://github.com/RolandasRazma/Heredox/",
+      "homepage": "http://www.heredox.com/"
     }
   ]
 }
