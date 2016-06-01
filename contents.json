@@ -3825,6 +3825,12 @@
       "category": "games",
       "description": "A puzzle game where you must shift keys around a board to unlock treasure chests.",
       "source": "https://github.com/insurgentgames/Skeleton-Key-iOS"
+    },
+    {
+      "title": "Cryptose",
+      "category": "games",
+      "description": "Solve cryptograms as a Hacker, Detective, or Spy.",
+      "source": "https://github.com/insurgentgames/Cryptose"
     }
   ]
 }
