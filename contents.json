@@ -3785,6 +3785,14 @@
       "source": "https://github.com/mapsme/omim",
       "homepage": "https://maps.me/en/home",
       "itunes": "https://itunes.apple.com/app/id510623322"
+    },
+    {
+      "title": "Linphone",
+      "category": "communication",
+      "description": "Make free audio/video calls and text messages.",
+      "source": "https://www.linphone.org/technical-corner/linphone/downloads",
+      "homepage": "https://www.linphone.org/",
+      "itunes": "https://itunes.apple.com/us/app/linphone/id360065638?mt=8"
     }
   ]
 }
