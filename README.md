@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **429** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 01, 2016*).
+A collaborative list of **430** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 01, 2016*).
  
 Jump to 
  
@@ -414,6 +414,9 @@ Projects that are not in English have a flag
 - Mission999 
   - https://github.com/whunmr/Mission999
   - https://itunes.apple.com/app/mission-999/id1036686316
+- Neocom for EVE Online: The character management tool for EveOnline MMORG. 
+  - https://github.com/mrdepth/Neocom
+  - https://itunes.apple.com/us/app/eveuniverse/id418895101
 - Orbit7: Game created in SpriteKit 🔶
   - https://github.com/Mav3r1ck/Orbit7
 - Pterodactyl Attack: Blast your way through waves of pterodactyls. Also has a detailed writeup on how it's made. 
