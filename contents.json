@@ -3837,6 +3837,12 @@
       "category": "games",
       "description": "A steampunk retro 2d platformer.",
       "source": "https://github.com/insurgentgames/Aeropack"
+    },
+    {
+      "title": "teh internets",
+      "category": "games",
+      "description": "Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter.",
+      "source": "https://github.com/insurgentgames/teh-internets"
     }
   ]
 }
