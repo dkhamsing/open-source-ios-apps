@@ -213,7 +213,7 @@ Projects that are not in English have a flag
 - Linphone: Make free audio/video calls and text messages. 
   - https://www.linphone.org/technical-corner/linphone/downloads
   - https://www.linphone.org/
-  - https://itunes.apple.com/us/app/linphone/id360065638
+  - https://itunes.apple.com/app/linphone/id360065638
 - M: Email with device-to-device encryption for messages sent between M users 
   - https://github.com/Mynigma/M
   - https://itunes.apple.com/app/m-safe-email-made-simple/id818498595
@@ -373,7 +373,7 @@ Projects that are not in English have a flag
   - https://github.com/jpsim/CardsAgainst
 - Castle Hassle: A real-time physical game where you build your kingdom while crushing your opponents. 
   - https://github.com/bryceredd/CastleHassle
-  - https://itunes.apple.com/us/app/castle-hassle/id524566068
+  - https://itunes.apple.com/app/castle-hassle/id524566068
 - Chess: Chess game to learn SpriteKit 🔶
   - https://github.com/mjcuva/Chess
 - Chuck: Throw a ball and catch it. Over and over and over. 
@@ -417,13 +417,13 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/mission-999/id1036686316
 - Neocom for EVE Online: The character management tool for EveOnline MMORG. 
   - https://github.com/mrdepth/Neocom
-  - https://itunes.apple.com/us/app/eveuniverse/id418895101
+  - https://itunes.apple.com/app/eveuniverse/id418895101
 - Orbit7: Game created in SpriteKit 🔶
   - https://github.com/Mav3r1ck/Orbit7
 - Pterodactyl Attack: Blast your way through waves of pterodactyls. Also has a detailed writeup on how it's made. 
   - https://github.com/shaunlebron/PterodactylAttack
   - https://shaunlebron.github.io/pteroattack.com/
-  - https://itunes.apple.com/us/app/pterodactyl-attack/id786862892
+  - https://itunes.apple.com/app/pterodactyl-attack/id786862892
 - Sakura Fly: Action game created in SpriteKit 
   - https://github.com/l800891/Sakura-Fly
   - https://itunes.apple.com/app/sakura-fly/id1019023051
@@ -854,7 +854,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 - Molecules: Visualize molecules in 3D. 
   - http://www.sunsetlakesoftware.com/molecules
-  - https://itunes.apple.com/us/app/molecules/id284943090
+  - https://itunes.apple.com/app/molecules/id284943090
 - NumberPad: An experimental prototype calculator for iPad 
   - https://github.com/bridger/NumberPad
 
