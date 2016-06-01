@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **416** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *May 31, 2016*).
+A collaborative list of **429** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 01, 2016*).
  
 Jump to 
  
@@ -27,6 +27,7 @@ Jump to
   - [Hacker News](#hacker-news) 
 - [Official](#official) 
 - [Sample](#sample) 
+- [Science](#science) 
 - [Security](#security) 
 - [Social](#social) 
 - [Tasks](#tasks) 
@@ -209,6 +210,10 @@ Projects that are not in English have a flag
 - IRCCloud: An IRC client/service 🔥
   - https://github.com/irccloud/ios
   - https://itunes.apple.com/app/irccloud/id672699103
+- Linphone: Make free audio/video calls and text messages. 
+  - https://www.linphone.org/technical-corner/linphone/downloads
+  - https://www.linphone.org/
+  - https://itunes.apple.com/us/app/linphone/id360065638
 - M: Email with device-to-device encryption for messages sent between M users 
   - https://github.com/Mynigma/M
   - https://itunes.apple.com/app/m-safe-email-made-simple/id818498595
@@ -354,6 +359,8 @@ Projects that are not in English have a flag
   - https://github.com/austinzheng/iOS-2048
 - 2048 in Swift 🔶🔥🔥🔥🔥🔥
   - https://github.com/austinzheng/swift-2048
+- Aeropack: A steampunk retro 2d platformer. 
+  - https://github.com/insurgentgames/Aeropack
 - Balloon Burst: A simple game to use in learning Cocos2D 
   - https://github.com/jamiely/ios-balloon-burst
 - Bridges: A puzzle game with bridges, houses, tolls, and subways 🔥
@@ -364,6 +371,9 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/canabalt/id333180061
 - CardsAgainst: Cards Against Humanity app 🔶🔥🔥
   - https://github.com/jpsim/CardsAgainst
+- Castle Hassle: A real-time physical game where you build your kingdom while crushing your opponents. 
+  - https://github.com/bryceredd/CastleHassle
+  - https://itunes.apple.com/us/app/castle-hassle/id524566068
 - Chess: Chess game to learn SpriteKit 🔶
   - https://github.com/mjcuva/Chess
 - Chuck: Throw a ball and catch it. Over and over and over. 
@@ -371,6 +381,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/chuck/id1050453297
 - CodeCombat: Multiplayer programming game for learning how to code 
   - https://github.com/codecombat/codecombat-ios
+- Cryptose: Solve cryptograms as a Hacker, Detective, or Spy. 
+  - https://github.com/insurgentgames/Cryptose
 - DOOM: Doom Classic for iOS 🔥🔥
   - https://github.com/id-Software/DOOM-iOS
   - https://itunes.apple.com/app/doom-classic/id336347946
@@ -390,8 +402,12 @@ Projects that are not in English have a flag
   - https://github.com/yonbergman/swift-gameoflife
 - Gorillas: An iPhone (or iPod touch) port of the popular old QBasic game with spunk! 🔥🔥
   - https://github.com/Lyndir/Gorillas
+  - http://gorillas.lyndir.com/
 - GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 🔶
   - https://github.com/gamechina/GrubbyWorm
+- Heredox: Place tiles to form your allegiance's symbols. 
+  - https://github.com/RolandasRazma/Heredox/
+  - http://www.heredox.com/
 - MUDRammer: MUD Client for iPhone and iPad 
   - https://github.com/splinesoft/MUDRammer
   - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
@@ -400,6 +416,10 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/mission-999/id1036686316
 - Orbit7: Game created in SpriteKit 🔶
   - https://github.com/Mav3r1ck/Orbit7
+- Pterodactyl Attack: Blast your way through waves of pterodactyls. Also has a detailed writeup on how it's made. 
+  - https://github.com/shaunlebron/PterodactylAttack
+  - https://shaunlebron.github.io/pteroattack.com/
+  - https://itunes.apple.com/us/app/pterodactyl-attack/id786862892
 - Sakura Fly: Action game created in SpriteKit 
   - https://github.com/l800891/Sakura-Fly
   - https://itunes.apple.com/app/sakura-fly/id1019023051
@@ -408,6 +428,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/scary-flight/id824428528
 - SceneKitFrogger 🔶
   - https://github.com/devindazzle/SceneKitFrogger
+- Skeleton Key: A puzzle game where you must shift keys around a board to unlock treasure chests. 
+  - https://github.com/insurgentgames/Skeleton-Key-iOS
 - Spare Parts: Simple 2D point and line physics using Verlet integration 
   - https://github.com/adamwulf/spare-parts-app
   - https://itunes.apple.com/app/spare-parts/id981297199
@@ -416,8 +438,15 @@ Projects that are not in English have a flag
 - Wolfenstein 3D: Wolfenstein 3D for iOS 🔥🔥
   - https://github.com/id-Software/Wolf3D-iOS
   - https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478
+- hoxChess: Xiangqi (Chinese Chess) with single and multiplayer modes. 
+  - https://github.com/huygithub/hoxChess
+  - https://itunes.apple.com/app/hoxchess/id363513274
+- iLabyrinth: Escape the labyrinth by following limited paths. 
+  - https://github.com/RolandasRazma/iLabyrinth
 - littlego: Play the game of Go on the iPhone or iPad 
   - https://github.com/herzbube/littlego
+- teh internets: Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter. 
+  - https://github.com/insurgentgames/teh-internets
 - 翻翻看: Concentration game 🔶🇨🇳🔥
   - https://github.com/geek5nan/FanFanSwift
 
@@ -527,6 +556,10 @@ Projects that are not in English have a flag
 - Locative: Helping you to get the best out of your automated home, geofencing, iBeacons at your hand 🔥
   - https://github.com/LocativeHQ/ios-app
   - https://itunes.apple.com/app/locative/id725198453
+- MAPS.ME: Offline maps application with navigation using [OpenStreetMap](https://www.openstreetmap.org) data. 
+  - https://github.com/mapsme/omim
+  - https://maps.me/en/home
+  - https://itunes.apple.com/app/id510623322
 - Moves: Visualize which places you spent the most time at 
   - https://github.com/neonichu/Places
 - Neverlate: Pay-if-U-R-late app using geofences and Venmo API 
@@ -811,6 +844,16 @@ Image, video, audio, reading — [back to top](#readme)
 - iOS 9 Sampler: Code examples for the new functions in iOS 9 🔶🔥🔥🔥🔥🔥
   - https://github.com/shu223/iOS-9-Sampler
 
+## Science 
+ 
+[back to top](#readme) 
+ 
+- Molecules: Visualize molecules in 3D. 
+  - http://www.sunsetlakesoftware.com/molecules
+  - https://itunes.apple.com/us/app/molecules/id284943090
+- NumberPad: An experimental prototype calculator for iPad 
+  - https://github.com/bridger/NumberPad
+
 ## Security 
  
 [back to top](#readme) 
@@ -862,6 +905,10 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/pietbrauer/RealmToDo
 - Swift Off: Firebase powered to do app built in Swift, includes tutorial 🔶
   - https://github.com/goprimer/swift-off-todo
+- Task Coach: A simple toto manager designed for composite tasks. 
+  - https://sourceforge.net/projects/taskcoach/
+  - http://taskcoach.org/
+  - https://itunes.apple.com/app/task-coach/id311403563
 - Tinylog: A minimal iPhone/iPad TODO app 🔶
   - https://github.com/binarylevel/Tinylog-iOS
   - https://itunes.apple.com/app/tinylog/id799267191
@@ -1039,7 +1086,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 - Calculator: React Native calculator 🔥🔥🔥🔥🔥
   - https://github.com/benoitvallon/react-native-nw-react-calculator
-- NumberPad: An experimental prototype calculator 
+- NumberPad: An experimental prototype calculator for iPad 
   - https://github.com/bridger/NumberPad
 - Round & Split: Tip Calculator 🔶
   - https://github.com/lukhnos/roundandsplit
