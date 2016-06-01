@@ -3777,6 +3777,14 @@
       "category": ["calculator"],
       "description": "An experimental prototype calculator for iPad",
       "source": "https://github.com/bridger/NumberPad"
+    },
+    {
+      "title": "MAPS.ME",
+      "category": "location",
+      "description": "Offline maps application with navigation using [OpenStreetMap](https://www.openstreetmap.org) data.",
+      "source": "https://github.com/mapsme/omim",
+      "homepage": "https://maps.me/en/home",
+      "itunes": "https://itunes.apple.com/app/id510623322"
     }
   ]
 }
