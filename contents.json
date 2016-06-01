@@ -3873,13 +3873,6 @@
       "source": "https://github.com/shaunlebron/PterodactylAttack",
       "homepage": "https://shaunlebron.github.io/pteroattack.com/",
       "itunes": "https://itunes.apple.com/us/app/pterodactyl-attack/id786862892?mt=8&ign-mpt=uo%3D4"
-    },
-    {
-      "title": "The Seven Bridges of Königsberg",
-      "category": "games",
-      "description": "A puzzle game where you must cross all of the bridges once.",
-      "source": "https://github.com/zgrossbart/bridges",
-      "homepage": "https://zgrossbart.github.io/bridges/"
-    }
+    }    
   ]
 }
