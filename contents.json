@@ -3872,6 +3872,14 @@
       "source": "https://github.com/shaunlebron/PterodactylAttack",
       "homepage": "https://shaunlebron.github.io/pteroattack.com/",
       "itunes": "https://itunes.apple.com/us/app/pterodactyl-attack/id786862892"
+    },
+    {
+      "title": "Neocom for EVE Online",
+      "category": "games",
+      "description": "The character management tool for EveOnline MMORG.",
+      "source": "https://github.com/mrdepth/Neocom",
+      "itunes": "https://itunes.apple.com/us/app/eveuniverse/id418895101",
+      "stars": 56
     }
   ]
 }
