@@ -3810,8 +3810,15 @@
       "category": "tasks",
       "description": "Visualize molecules in 3D.",
       "source": "https://sourceforge.net/projects/taskcoach/",
-      "homepage": "http://taskcoach.org/"
+      "homepage": "http://taskcoach.org/",
       "itunes": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=311403563&mt=8"
+    },
+    {
+      "title": "Castle Hassle",
+      "category": "games",
+      "description": "A real-time physical game where you build your kingdom while crushing your opponents.",
+      "source": "https://github.com/bryceredd/CastleHassle",
+      "itunes": "https://itunes.apple.com/us/app/castle-hassle/id524566068?mt=8"
     }
   ]
 }
