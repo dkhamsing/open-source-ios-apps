@@ -1149,7 +1149,7 @@
       "description": "An iPhone (or iPod touch) port of the popular old QBasic game with spunk!",
       "source": "https://github.com/Lyndir/Gorillas",
       "homepage": "http://gorillas.lyndir.com/",
-      "itunes": "https://itunes.apple.com/app/lyndir/gorillas/id302275459?mt=8",
+      "itunes": "https://itunes.apple.com/app/lyndir/gorillas/id302275459",
       "stars": 240
     },
     {
@@ -3798,14 +3798,14 @@
       "description": "Make free audio/video calls and text messages.",
       "source": "https://www.linphone.org/technical-corner/linphone/downloads",
       "homepage": "https://www.linphone.org/",
-      "itunes": "https://itunes.apple.com/us/app/linphone/id360065638?mt=8"
+      "itunes": "https://itunes.apple.com/us/app/linphone/id360065638"
     },
     {
       "title": "Molecules",
       "category": "science",
       "description": "Visualize molecules in 3D.",
       "source": "http://www.sunsetlakesoftware.com/molecules",
-      "itunes": "https://itunes.apple.com/us/app/molecules/id284943090?mt=8"
+      "itunes": "https://itunes.apple.com/us/app/molecules/id284943090"
     },
     {
       "title": "Task Coach",
@@ -3813,14 +3813,14 @@
       "description": "A simple toto manager designed for composite tasks.",
       "source": "https://sourceforge.net/projects/taskcoach/",
       "homepage": "http://taskcoach.org/",
-      "itunes": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=311403563&mt=8"
+      "itunes": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=311403563"
     },
     {
       "title": "Castle Hassle",
       "category": "games",
       "description": "A real-time physical game where you build your kingdom while crushing your opponents.",
       "source": "https://github.com/bryceredd/CastleHassle",
-      "itunes": "https://itunes.apple.com/us/app/castle-hassle/id524566068?mt=8"
+      "itunes": "https://itunes.apple.com/us/app/castle-hassle/id524566068"
     },
     {
       "title": "Skeleton Key",
@@ -3851,7 +3851,7 @@
       "category": "games",
       "description": "Xiangqi (Chinese Chess) with single and multiplayer modes.",
       "source": "https://github.com/huygithub/hoxChess",
-      "itunes": "https://itunes.apple.com/app/hoxchess/id363513274?mt=8"
+      "itunes": "https://itunes.apple.com/app/hoxchess/id363513274"
     },
     {
       "title": "iLabyrinth",
@@ -3872,7 +3872,7 @@
       "description": "Blast your way through waves of pterodactyls. Also has a detailed writeup on how it's made.",
       "source": "https://github.com/shaunlebron/PterodactylAttack",
       "homepage": "https://shaunlebron.github.io/pteroattack.com/",
-      "itunes": "https://itunes.apple.com/us/app/pterodactyl-attack/id786862892?mt=8&ign-mpt=uo%3D4"
+      "itunes": "https://itunes.apple.com/us/app/pterodactyl-attack/id786862892"
     }
   ]
 }
