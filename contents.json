@@ -3819,6 +3819,12 @@
       "description": "A real-time physical game where you build your kingdom while crushing your opponents.",
       "source": "https://github.com/bryceredd/CastleHassle",
       "itunes": "https://itunes.apple.com/us/app/castle-hassle/id524566068?mt=8"
+    },
+    {
+      "title": "Skeleton Key",
+      "category": "games",
+      "description": "A puzzle game where you must shift keys around a board to unlock treasure chests.",
+      "source": "https://github.com/insurgentgames/Skeleton-Key-iOS"
     }
   ]
 }
