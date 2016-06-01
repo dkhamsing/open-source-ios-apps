@@ -3852,6 +3852,12 @@
       "description": "Xiangqi (Chinese Chess) with single and multiplayer modes.",
       "source": "https://github.com/huygithub/hoxChess",
       "itunes": "https://itunes.apple.com/app/hoxchess/id363513274?mt=8"
+    },
+    {
+      "title": "iLabyrinth",
+      "category": "games",
+      "description": "Escape the labyrinth by following limited paths.",
+      "source": "https://github.com/RolandasRazma/iLabyrinth"
     }
   ]
 }
