@@ -85,6 +85,10 @@
       "id": "sample"
     },
     {
+      "title": "Science",
+      "id": "science"
+    },
+    {
       "title": "Security",
       "id": "security"
     },
@@ -3793,6 +3797,13 @@
       "source": "https://www.linphone.org/technical-corner/linphone/downloads",
       "homepage": "https://www.linphone.org/",
       "itunes": "https://itunes.apple.com/us/app/linphone/id360065638?mt=8"
+    },
+    {
+      "title": "Molecules",
+      "category": "science",
+      "description": "Visualize molecules in 3D.",
+      "source": "http://www.sunsetlakesoftware.com/molecules",
+      "itunes": "https://itunes.apple.com/us/app/molecules/id284943090?mt=8"
     }
   ]
 }
