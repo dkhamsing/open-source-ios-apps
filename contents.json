@@ -3865,6 +3865,14 @@
       "description": "Place tiles to form your allegiance's symbols.",
       "source": "https://github.com/RolandasRazma/Heredox/",
       "homepage": "http://www.heredox.com/"
+    },
+    {
+      "title": "Pterodactyl Attack",
+      "category": "games",
+      "description": "Blast your way through waves of pterodactyls. Also has a detailed writeup on how it's made.",
+      "source": "https://github.com/shaunlebron/PterodactylAttack",
+      "homepage": "https://shaunlebron.github.io/pteroattack.com/",
+      "itunes": "https://itunes.apple.com/us/app/pterodactyl-attack/id786862892?mt=8&ign-mpt=uo%3D4"
     }
   ]
 }
