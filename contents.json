@@ -3843,6 +3843,14 @@
       "category": "games",
       "description": "Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter.",
       "source": "https://github.com/insurgentgames/teh-internets"
+    },
+    {
+      "title": "Gorillas",
+      "category": "games",
+      "description": "A ressurection of *Gorilla.Bas* shipped with MS DOS 5.",
+      "source": "https://github.com/Lyndir/Gorillas",
+      "homepage": "http://gorillas.lyndir.com/",
+      "itunes": "https://itunes.apple.com/app/lyndir/gorillas/id302275459?mt=8"
     }
   ]
 }
