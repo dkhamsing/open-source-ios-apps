@@ -403,6 +403,7 @@ Projects that are not in English have a flag
 - Gorillas: An iPhone (or iPod touch) port of the popular old QBasic game with spunk! 🔥🔥
   - https://github.com/Lyndir/Gorillas
   - http://gorillas.lyndir.com/
+  - https://itunes.apple.com/app/gorillas/id302275459
 - GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 🔶
   - https://github.com/gamechina/GrubbyWorm
 - Heredox: Place tiles to form your allegiance's symbols. 
