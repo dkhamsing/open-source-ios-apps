@@ -3780,7 +3780,7 @@
     },
     {
       "title": "NumberPad",
-      "category": ["calculator"],
+      "category": ["calculator", "science"],
       "description": "An experimental prototype calculator for iPad",
       "source": "https://github.com/bridger/NumberPad"
     },
@@ -3873,6 +3873,6 @@
       "source": "https://github.com/shaunlebron/PterodactylAttack",
       "homepage": "https://shaunlebron.github.io/pteroattack.com/",
       "itunes": "https://itunes.apple.com/us/app/pterodactyl-attack/id786862892?mt=8&ign-mpt=uo%3D4"
-    }    
+    }
   ]
 }
