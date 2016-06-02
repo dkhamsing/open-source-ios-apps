@@ -4065,6 +4065,14 @@
       "source": "https://github.com/kiwix/iOS",
       "homepage": "http://www.kiwix.org/wiki/Main_Page",
       "itunes": "https://itunes.apple.com/app/id997079563"
+    },
+    {
+      "title": "Hedgewars",
+      "category": "games",
+      "description": "A turn-based strategy game.",
+      "source": "http://hg.hedgewars.org/hedgewars/",
+      "homepage": "http://www.hedgewars.org/",
+      "itunes": "https://itunes.apple.com/app/id391234866"
     }
   ]
 }
