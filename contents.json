@@ -3911,6 +3911,14 @@
       "source": "https://github.com/mattrubin/authenticator",
       "homepage": "https://mattrubin.me/authenticator/",
       "itunes": "https://itunes.apple.com/app/id766157276"
+    },
+    {
+      "title": "CodeHub",
+      "category": "github",
+      "description": "Browse and maintain GitHub repositories.",
+      "source": "https://github.com/thedillonb/CodeHub",
+      "homepage": "http://codehub-app.com/",
+      "itunes": "https://itunes.apple.com/app/id707173885"
     }
   ]
 }
