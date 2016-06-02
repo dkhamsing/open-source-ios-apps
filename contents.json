@@ -3919,6 +3919,13 @@
       "source": "https://github.com/thedillonb/CodeHub",
       "homepage": "http://codehub-app.com/",
       "itunes": "https://itunes.apple.com/app/id707173885"
+    },
+    {
+      "title": "Dragon Shout App 2",
+      "category": "games",
+      "description": "A social journal for the Elder Scrolls® series.",
+      "source": "https://github.com/rblalock/dragon_shout_app_open_source",
+      "itunes": "https://itunes.apple.com/app/id690208182"
     }
   ]
 }
