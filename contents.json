@@ -4009,6 +4009,14 @@
       "description": "A tox client.",
       "source": "https://github.com/Antidote-for-Tox/Antidote",
       "homepage": "https://antidote.im/"
+    },
+    {
+      "title": "Tutanota",
+      "category": "communication",
+      "description": "End-to-end encrypted email.",
+      "source": "https://github.com/tutao/tutanota",
+      "homepage": "https://tutanota.com/",
+      "itunes": "https://itunes.apple.com/app/id922429609"
     }
   ]
 }
