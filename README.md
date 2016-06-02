@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **430** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 01, 2016*).
+A collaborative list of **465** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 02, 2016*).
  
 Jump to 
  
@@ -188,6 +188,10 @@ Projects that are not in English have a flag
 - Frameless: A full-screen web browser 🔶🔥🔥🔥
   - https://github.com/stakes/Frameless
   - https://itunes.apple.com/app/id933580264
+- Onion Browser: A Tor-powered web browser that improves your privacy. 
+  - https://github.com/mtigas/iOS-OnionBrowser
+  - https://mike.tig.as/onionbrowser/
+  - https://itunes.apple.com/app/id519296448
 
 ## Communication 
  
@@ -196,6 +200,9 @@ Projects that are not in English have a flag
 - Actor: Communication app with a focus on speed and security 🔥🔥🔥🔥🔥
   - https://github.com/actorapp/actor-platform
   - https://itunes.apple.com/app/actor-messenger/id1025501036
+- Antidote: A tox client. 
+  - https://github.com/Antidote-for-Tox/Antidote
+  - https://antidote.im/
 - BLEMeshChat: Bluetooth LE mesh chat 🔥🔥
   - https://github.com/chrisballinger/BLEMeshChat
 - ChatSecure: Encrypted chat app that supports OTR encryption over XMPP 🔥🔥🔥🔥
@@ -224,6 +231,9 @@ Projects that are not in English have a flag
 - Signal: Free, world-wide, private messaging and phone calls for iPhone 🔥🔥🔥🔥
   - https://github.com/WhisperSystems/Signal-iOS
   - https://itunes.apple.com/app/id874139669
+- Spika: A secure business messenger. 
+  - https://github.com/cloverstudio/Spika
+  - https://spika.business/
 - TSWeChat: A WeChat alternative 🔶🔥🔥🔥🔥
   - https://github.com/hilen/TSWeChat
 - Telegram: Messaging app with a focus on speed and security 🔥🔥🔥
@@ -231,6 +241,10 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/telegram-messenger/id686449807
 - TextEthan: Clone of TextEthan, a messaging app that allows anyone to message you 🔶
   - https://github.com/thii/TextEthan
+- Tutanota: End-to-end encrypted email. 
+  - https://github.com/tutao/tutanota
+  - https://tutanota.com/
+  - https://itunes.apple.com/app/id922429609
 - surespot: Secures all messages using end-to-end encryption 
   - https://github.com/surespot/surespot-ios
   - https://itunes.apple.com/app/surespot/id790314865
@@ -277,6 +291,10 @@ Projects that are not in English have a flag
 - AppLove: View app reviews for all territories (countries) 🔶
   - https://github.com/snowpunch/AppLove
   - https://itunes.apple.com/app/app-love/id1099336831
+- AppSlate: Make your own iOS applications. 
+  - https://github.com/Taehan-Kim/AppSlate
+  - https://www.facebook.com/AppSlate
+  - https://itunes.apple.com/app/id511327336
 - Bequest: Create and replay HTTP/S requests 🔶
   - https://github.com/splinesoft/Bequest
 - CI2Go: An unofficial CircleCI Client 🔶
@@ -288,6 +306,10 @@ Projects that are not in English have a flag
 - Codinator: Code editor for iPhone and iPad 
   - https://github.com/VWAS/codinator
   - https://itunes.apple.com/app/codinator/id1024671232
+- Piwik Mobile 2: Access Piwik analytics on the go. 
+  - https://github.com/piwik/piwik-mobile-2
+  - https://piwik.org/mobile/
+  - https://itunes.apple.com/app/id737216887
 - RealmVideo: Watch Realm videos and slides on your phone 🔶🔥🔥
   - https://github.com/BalestraPatrick/RealmVideo
 - Review Time: Shows average review times for iOS and Mac apps 🔶🔥
@@ -302,6 +324,10 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
+- CodeHub: Browse and maintain GitHub repositories. 
+  - https://github.com/thedillonb/CodeHub
+  - http://codehub-app.com/
+  - https://itunes.apple.com/app/id707173885
 - GitBucket: GitHub client using MVVM & ReactiveCocoa 🔥🔥🔥🔥
   - https://github.com/leichunfeng/MVVMReactiveCocoa
   - https://itunes.apple.com/app/id961330940
@@ -389,6 +415,9 @@ Projects that are not in English have a flag
 - DOOM-IOS2: Doom Classic for iOS version 2 🔥
   - https://github.com/id-Software/DOOM-IOS2
   - https://itunes.apple.com/app/doom-ii-rpg/id354051766
+- Dragon Shout App 2: A social journal for the Elder Scrolls® series. 
+  - https://github.com/rblalock/dragon_shout_app_open_source
+  - https://itunes.apple.com/app/id690208182
 - Dungeon Crawl: A game of dungeon exploration, combat and magic, involving characters of diverse skills 
   - https://github.com/CliffsDover/crawl
   - https://github.com/CliffsDover/crawl/tree/iOS_Release
@@ -396,6 +425,10 @@ Projects that are not in English have a flag
   - https://github.com/WelkinXie/FiveInARow
 - FlappySwift: Swift implementation of Flappy Bird 🔶🔥🔥🔥🔥🔥
   - https://github.com/fullstackio/FlappySwift
+- Frotz: Play hundreds of free works of Interactive Fiction (a.k.a. text adventure games). 
+  - https://github.com/ifrotz/iosfrotz
+  - https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md
+  - https://itunes.apple.com/app/id287653015
 - GBA4iOS: Gameboy, Gameboy Color & Gameboy Advance emulator 
   - https://bitbucket.org/rileytestut/gba4ios/
 - Game Of Life: Conway's Game of Life 🔶
@@ -406,9 +439,15 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/gorillas/id302275459
 - GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 🔶
   - https://github.com/gamechina/GrubbyWorm
+- Hedgewars: A turn-based strategy game. 
+  - http://hg.hedgewars.org/hedgewars/
+  - http://www.hedgewars.org/
+  - https://itunes.apple.com/app/id391234866
 - Heredox: Place tiles to form your allegiance's symbols. 
   - https://github.com/RolandasRazma/Heredox/
   - http://www.heredox.com/
+- Hostile Takeover: A release of the Real Time Strategy game Warfare Incorporated. 
+  - https://github.com/spiffcode/hostile-takeover
 - MUDRammer: MUD Client for iPhone and iPad 
   - https://github.com/splinesoft/MUDRammer
   - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
@@ -439,9 +478,15 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/spare-parts/id981297199
 - Stick-Hero-Swift: Universal iOS Game using Swift and iOS SpriteKit 🔶🔥🔥
   - https://github.com/phpmaple/Stick-Hero-Swift
+- Wizard War: Cast spells in single or multiplayer wizard duels. 
+  - https://github.com/seanhess/wizardwar
 - Wolfenstein 3D: Wolfenstein 3D for iOS 🔥🔥
   - https://github.com/id-Software/Wolf3D-iOS
   - https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478
+- XPilot: An iPhone port of the classic XPilot game. 
+  - http://7b5labs.com/xpilot.git/
+  - http://7b5labs.com/xpilotiphone
+  - https://itunes.apple.com/app/id322114791
 - hoxChess: Xiangqi (Chinese Chess) with single and multiplayer modes. 
   - https://github.com/huygithub/hoxChess
   - https://itunes.apple.com/app/hoxchess/id363513274
@@ -564,6 +609,10 @@ Projects that are not in English have a flag
   - https://github.com/mapsme/omim
   - https://maps.me/en/home
   - https://itunes.apple.com/app/id510623322
+- Miataru: A location tracking app where data can be shared over public or private servers. 
+  - https://github.com/miataru/miataru-ios-client
+  - http://miataru.com/ios/
+  - https://itunes.apple.com/app/id717539389
 - Moves: Visualize which places you spent the most time at 
   - https://github.com/neonichu/Places
 - Neverlate: Pay-if-U-R-late app using geofences and Venmo API 
@@ -571,6 +620,10 @@ Projects that are not in English have a flag
 - OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more 🔥
   - https://github.com/OneBusAway/onebusaway-iphone
   - https://itunes.apple.com/app/onebusaway/id329380089
+- OsmAnd Maps: A map application with access to OpenStreetMaps. 
+  - https://github.com/osmandapp/Osmand
+  - http://osmand.net/
+  - https://itunes.apple.com/app/id934850257
 - OwnTracks: Keep track of your own location, you can build your private location diary or share it with your family and friends. 
   - https://github.com/owntracks/ios
 - ParkenDD: Check the status of several public parking lots in Germany and Switzerland 🔶
@@ -578,6 +631,13 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/parkendd/id957165041
 - PebCiti: Pebble app to show nearest CitiBike NYC dock 
   - https://github.com/joemasilotti/PebCiti
+- Prey Anti Theft: Track lost or stolen devices and perform actions remotely. 
+  - https://github.com/prey/prey-ios-client
+  - https://preyproject.com/
+  - https://itunes.apple.com/app/id456755037
+- Prey Swift Client: Track lost or stolen devices and perform actions remotely. 🔶
+  - https://github.com/prey/prey-swift-client
+  - https://preyproject.com/
 - Smart Traveller (UberGuide): Simple and comfortable way to explore a city using Uber API 🔥🔥
   - https://github.com/hACKbUSTER/UberGuide-iOS
 - Startups - Mapped In Israel: Discover new startups and locate co-working spaces 
@@ -587,6 +647,10 @@ Projects that are not in English have a flag
 - VisitBCN: City guide for Barcelona 
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
+- Wheelmap: Online map for locating wheelchair-accessible places. 
+  - https://github.com/sozialhelden/wheelmap-iphone2
+  - http://wheelmap.org
+  - https://itunes.apple.com/app/id399239476
 - iBeaconTasks: iBeacon TODO reminder app based on Parse 
   - https://github.com/TomekB/iBeaconTasks
 - pathlogger: GPS logging application written in Swift 🔶
@@ -631,6 +695,11 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/alikaragoz/Flickr-Search
 - FreeStreamer: A low-memory footprint streaming audio player 🔥🔥🔥
   - https://github.com/muhku/FreeStreamer
+- Inkpad: A vector illustration app. 
+  - https://github.com/sprang/Inkpad
+- Kodi: A popular media player and entertainment hub. 
+  - https://github.com/xbmc/xbmc
+  - https://kodi.tv/
 - KonaBot: unofficial client for konachan.net 🔶
   - https://github.com/hkalexling/KonaBot-iOS
   - https://itunes.apple.com/app/konabot/id1055716649
@@ -641,9 +710,17 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/AaronRandall/Megabite
 - MiamiSunglasses: An app that plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH). 🔶
   - https://github.com/DeveloperACE/MiamiSunglasses
+- MuPDF: A PDF, XPS/OpenXPS, CBZ and EPUB document viewer. 
+  - http://git.ghostscript.com/?p=mupdf.git;a=summary
+  - http://mupdf.com/
+  - https://itunes.apple.com/app/id482941798
 - OCiney: Movie info app 🔥🔥
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/app/id955480687
+- Official Kodi Remote: A full-featured remote control for Kodi Media Center. 
+  - https://github.com/xbmc/xbmc
+  - https://kodi.tv/
+  - https://itunes.apple.com/app/id520480364
 - Open Source Selfie Stick: Sync two iOS devices and use one as a remote control for the other's camera! 
   - https://github.com/RF-Nelson/open-source-selfie-stick
   - https://itunes.apple.com/app/id1084487132
@@ -661,6 +738,10 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/poppins/id978854068
 - Pugs: Simple pug photo viewer 🔶
   - https://github.com/soffes/Pugs
+- Radio Paradise: A client for [RadioParadise](http://www.radioparadise.com/rp_2.php). 
+  - https://github.com/ilTofa/rposx
+  - https://www.iltofa.com/rphd/
+  - https://itunes.apple.com/app/id663334697
 - ReactiveKitten: It's about gifs and cats, example project for Interstellar 🔶
   - https://github.com/JensRavens/ReactiveKitten
 - RealmVideo: Watch Realm videos and slides on your phone 🔶🔥🔥
@@ -697,10 +778,18 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/vlc-for-ios/id650377962
 - VoiceMemos: Universal audio recorder app 🔶🔥🔥
   - https://github.com/MoZhouqi/VoiceMemos
+- ZBar Barcode Reader: A comprehensive barcode reader. 
+  - https://sourceforge.net/projects/zbar/
+  - http://zbar.sourceforge.net/
+  - https://itunes.apple.com/app/id344957305
 - movies: Movie info app 🔥🔥🔥
   - https://github.com/KMindeguia/movies
 - prankPro: Record a 6 second video while playing prank sounds 🔥🔥
   - https://github.com/huijimuhe/prankPro
+- projectM: An OpenGl based advanced music visualization program. 
+  - https://sourceforge.net/projects/projectm/
+  - http://projectm.sourceforge.net/
+  - https://itunes.apple.com/app/id530922227
 - xkcd: iPhone app 
   - https://github.com/paulrehkugler/xkcd
   - https://itunes.apple.com/app/xkcd/id303688284
@@ -780,6 +869,17 @@ Image, video, audio, reading — [back to top](#readme)
 - Firefox: Official Firefox app 🔶🔥🔥🔥🔥🔥
   - https://github.com/mozilla/firefox-ios
   - https://itunes.apple.com/app/firefox-web-browser/id989804926
+- Kodi: A popular media player and entertainment hub. 
+  - https://github.com/xbmc/xbmc
+  - https://kodi.tv/
+- Official Kodi Remote: A full-featured remote control for Kodi Media Center. 
+  - https://github.com/xbmc/xbmc
+  - https://kodi.tv/
+  - https://itunes.apple.com/app/id520480364
+- Radio Paradise: A client for [RadioParadise](http://www.radioparadise.com/rp_2.php). 
+  - https://github.com/ilTofa/rposx
+  - https://www.iltofa.com/rphd/
+  - https://itunes.apple.com/app/id663334697
 - VLC: Media Player 🔥🔥🔥🔥
   - https://github.com/videolan/vlc
   - https://www.videolan.org/
@@ -862,6 +962,14 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Authenticator: A simple two-factor authentication app with a clean UI. 
+  - https://github.com/mattrubin/authenticator
+  - https://mattrubin.me/authenticator/
+  - https://itunes.apple.com/app/id766157276
+- Encryptr: A zero-knowledge, cloud-based e-wallet and password manager. 
+  - https://github.com/SpiderOak/Encryptr
+  - https://spideroak.com/solutions/encryptr
+  - https://itunes.apple.com/app/id1066041348
 - FreeOTP Authenticator: Two-Factor Authentication 
   - https://fedorahosted.org/freeotp/browser/ios
   - https://itunes.apple.com/app/freeotp/id872559395
@@ -871,6 +979,13 @@ Image, video, audio, reading — [back to top](#readme)
 - MiniKeePass: Secure Password Manager 🔥🔥
   - https://github.com/MiniKeePass/MiniKeePass
   - https://itunes.apple.com/app/id451661808
+- Prey Anti Theft: Track lost or stolen devices and perform actions remotely. 
+  - https://github.com/prey/prey-ios-client
+  - https://preyproject.com/
+  - https://itunes.apple.com/app/id456755037
+- Prey Swift Client: Track lost or stolen devices and perform actions remotely. 🔶
+  - https://github.com/prey/prey-swift-client
+  - https://preyproject.com/
 - SkeletonKey: iPhone password manager with Dropbox 
   - https://github.com/chrishulbert/SkeletonKey
   - https://itunes.apple.com/app/skeleton-key-password-manager/id513648119
@@ -884,6 +999,10 @@ Image, video, audio, reading — [back to top](#readme)
 - Aozora: Discover and track anime 🔶
   - https://github.com/pjchavarria/aozora-ios
   - https://itunes.apple.com/app/aozora-anime-community-track/id1017433045
+- Minds Mobile App: An encrypted social network. 
+  - https://github.com/Minds/mobile
+  - https://www.minds.com/
+  - https://itunes.apple.com/app/id961771928
 - Peggsite: App for sharing a social board 
   - https://github.com/jenduf/GenericSocialApp
   - https://itunes.apple.com/app/peggsite/id938445951
@@ -903,6 +1022,10 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630
 - CloudKit-To-Do-List: Store & retrieve tasks using CloudKit 🔶
   - https://github.com/anthonygeranio/CloudKit-To-Do-List
+- Habitica: A client for Habitica, a habit building and productivity app 
+  - https://github.com/HabitRPG/habitrpg-ios
+  - https://habitica.com/static/front
+  - https://itunes.apple.com/app/id994882113
 - MyAwesomeChecklist 🔶
   - https://github.com/imod/MyAwesomeChecklist
 - RealmToDo: A small todo list with Realm integration 🔶
@@ -955,6 +1078,10 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Kiwix: An offline reader for Wikipedia (and many other websites). 
+  - https://github.com/kiwix/iOS
+  - http://www.kiwix.org/wiki/Main_Page
+  - https://itunes.apple.com/app/id997079563
 - PHPHub: Universal app for PHPHub Forum 🇨🇳🔥🔥🔥
   - https://github.com/Aufree/phphub-ios
   - https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564
@@ -989,6 +1116,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/jpsim/DeckRocket
 - EmotionNote: Emotion diary  choose or take a photo of your face, the app will tell you your emotion 🔶 🔶
   - https://github.com/Yogayu/EmotionNote
+- FreeRDP: An implementation of the Remote Desktop Protocol (RDP). 
+  - https://github.com/FreeRDP/FreeRDP
+  - http://www.freerdp.com/
 - GammaThingy: Change screen gamma dynamically 🔥🔥🔥
   - https://github.com/thomasfinch/GammaThingy
 - GoodNight: Change screen gamma dynamically 🔥🔥🔥
@@ -1001,6 +1131,9 @@ Image, video, audio, reading — [back to top](#readme)
 - Jupp: App with share extension for ADN 🔶
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
+- LibreOffice Remote for Impress: Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely. 
+  - https://cgit.freedesktop.org/libreoffice/impress_remote/
+  - https://itunes.apple.com/app/id806879890
 - LidderbuchApp: Songbook for Luxembourgish Students 🔶🇱🇺
   - https://github.com/AcelLuxembourg/LidderbuchApp
   - https://itunes.apple.com/app/lidderbuch/id997143407
@@ -1021,6 +1154,10 @@ Image, video, audio, reading — [back to top](#readme)
 - Runner-Stats: iPhone app to record running data 
   - https://github.com/hukun01/Runner-Stats
   - https://itunes.apple.com/app/runner-stats/id793443821
+- Seafile Pro: A client for Seafile (a self-hosting dropbox for teams). 
+  - https://github.com/haiwen/seafile-iOS
+  - https://www.seafile.com/en/home/
+  - https://itunes.apple.com/app/id639202512
 - Swiflytics: See your realtime Google Analytics data 🔶
   - https://github.com/aciidb0mb3r/Swiflytics
   - https://itunes.apple.com/app/swiflytics/id1076165139
@@ -1061,6 +1198,10 @@ Image, video, audio, reading — [back to top](#readme)
 - my41: HP-41C/CV/CX Microcode emulator 
   - https://github.com/mperovic/my41
   - https://itunes.apple.com/app/my41cx/id979041950
+- openHAB: Vendor and technology agnostic home automation. 
+  - https://github.com/openhab/openhab.ios
+  - http://www.openhab.org/
+  - https://itunes.apple.com/app/id492054521
 - ownCloud: File browser and sync for ownCloud file hosting service 🔥🔥
   - https://github.com/owncloud/ios
   - https://itunes.apple.com/app/owncloud/id543672169
@@ -1090,6 +1231,10 @@ Image, video, audio, reading — [back to top](#readme)
  
 - Calculator: React Native calculator 🔥🔥🔥🔥🔥
   - https://github.com/benoitvallon/react-native-nw-react-calculator
+- Free42: A re-implementation of the HP-42S Calculator and the HP-82240 printer. 
+  - http://thomasokken.com/free42/download/free42.tgz
+  - http://thomasokken.com/free42/
+  - https://itunes.apple.com/app/id337692629
 - NumberPad: An experimental prototype calculator for iPad 
   - https://github.com/bridger/NumberPad
 - Round & Split: Tip Calculator 🔶
@@ -1171,6 +1316,10 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Minds Mobile App: An encrypted social network. 
+  - https://github.com/Minds/mobile
+  - https://www.minds.com/
+  - https://itunes.apple.com/app/id961771928
 - Vegan Lists UK: View and collect official/unofficial Vegan food lists 
   - https://github.com/dsgriffin/vegan-lists-uk
   - https://itunes.apple.com/app/vegan-lists-uk/id1083273301
@@ -1200,6 +1349,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/parse-store/id613679907
 - Paws: Building an Instagram-Like App with Parse and Swift 🔶
   - http://www.appcoda.com/instagram-app-parse-swift/
+- Wizard War: Cast spells in single or multiplayer wizard duels. 
+  - https://github.com/seanhess/wizardwar
 - how-much: Simple app to record how much things cost using Parse 
   - https://github.com/dkhamsing/how-much
 - iBeaconTasks: iBeacon TODO reminder app based on Parse 
@@ -1316,6 +1467,8 @@ Image, video, audio, reading — [back to top](#readme)
 - Tropos: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
   - https://github.com/thoughtbot/Tropos
   - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376
+- Wizard War: Cast spells in single or multiplayer wizard duels. 
+  - https://github.com/seanhess/wizardwar
 
 ### [RXSwift](https://github.com/ReactiveX/RxSwift) 
  
