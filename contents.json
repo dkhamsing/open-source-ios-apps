@@ -3926,6 +3926,14 @@
       "description": "A social journal for the Elder Scrolls® series.",
       "source": "https://github.com/rblalock/dragon_shout_app_open_source",
       "itunes": "https://itunes.apple.com/app/id690208182"
+    },
+    {
+      "title": "Frotz",
+      "category": "games",
+      "description": "Play hundreds of free works of Interactive Fiction (a.k.a. text adventure games).",
+      "source": "https://github.com/ifrotz/iosfrotz",
+      "homepage": "https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md",
+      "itunes": "https://itunes.apple.com/app/id287653015"
     }
   ]
 }
