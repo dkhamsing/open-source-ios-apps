@@ -4017,6 +4017,14 @@
       "source": "https://github.com/tutao/tutanota",
       "homepage": "https://tutanota.com/",
       "itunes": "https://itunes.apple.com/app/id922429609"
+    },
+    {
+      "title": "Piwik Mobile 2",
+      "category": "developer",
+      "description": "Access Piwik analytics on the go.",
+      "source": "https://github.com/piwik/piwik-mobile-2",
+      "homepage": "https://piwik.org/mobile/",
+      "itunes": "https://itunes.apple.com/app/id737216887"
     }
   ]
 }
