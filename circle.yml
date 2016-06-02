@@ -6,7 +6,7 @@ test:
     - gem install awesome_bot
     - sudo pip install json-spec
   override:
-    - awesome_bot contents.json --white-list developer.apple,preyproject,xbmc/xbmc,wheelmap.org
+    - awesome_bot contents.json --white-list developer.apple,preyproject,xbmc/xbmc,wheelmap.org,itunes.apple
     - json validate --schema-file=.github/schema.json --document-file=contents.json
     - ruby .github/osia_validate_categories.rb
 general:
