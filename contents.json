@@ -3979,6 +3979,14 @@
       "tags": [
         "swift"
       ]
+    },
+    {
+      "title": "Radio Paradise",
+      "category": ["official", "media"],
+      "description": "A client for [RadioParadise](http://www.radioparadise.com/rp_2.php).",
+      "source": "https://github.com/ilTofa/rposx",
+      "homepage": "https://www.iltofa.com/rphd/",
+      "itunes": "https://itunes.apple.com/app/id663334697"
     }
   ]
 }
