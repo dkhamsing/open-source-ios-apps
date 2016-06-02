@@ -3934,6 +3934,12 @@
       "source": "https://github.com/ifrotz/iosfrotz",
       "homepage": "https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md",
       "itunes": "https://itunes.apple.com/app/id287653015"
+    },
+    {
+      "title": "Inkpad",
+      "category": "media",
+      "description": "A vector illustration app.",
+      "source": "https://github.com/sprang/Inkpad"
     }
   ]
 }
