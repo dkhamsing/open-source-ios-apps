@@ -4045,7 +4045,7 @@
     {
       "title": "Habitica",
       "category": "tasks",
-      "description": "A client for [Habitica](https://habitica.com/static/front).",
+      "description": "A client for Habitica, a habit building and productivity app",
       "source": "https://github.com/HabitRPG/habitrpg-ios",
       "homepage": "https://habitica.com/static/front",
       "itunes": "https://itunes.apple.com/app/id994882113"
