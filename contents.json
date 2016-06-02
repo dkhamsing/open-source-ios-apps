@@ -4049,6 +4049,14 @@
       "source": "https://github.com/HabitRPG/habitrpg-ios",
       "homepage": "https://habitica.com/static/front",
       "itunes": "https://itunes.apple.com/app/id994882113"
+    },
+    {
+      "title": "MuPDF",
+      "category": "media",
+      "description": "A PDF, XPS/OpenXPS, CBZ and EPUB document viewer.",
+      "source": "http://git.ghostscript.com/?p=mupdf.git;a=summary",
+      "homepage": "http://mupdf.com/",
+      "itunes": "https://itunes.apple.com/app/id482941798"
     }
   ]
 }
