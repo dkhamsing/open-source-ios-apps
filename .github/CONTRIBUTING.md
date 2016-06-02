@@ -1,5 +1,20 @@
 To contribute to`open-source-ios-apps`, update the **contents.json** file (this will generate the README).
 
+## TLDR
+
+A new entry should update **contents.json** with this format:
+
+```js
+{
+            "title": "Name of the app",
+            "category": "Category name",
+            "description": "What this app does",
+            "source": "Link to source, usually GitHub"
+}
+```
+
+:tada:
+
 ## New category
 
 Please [open an issue](https://github.com/dkhamsing/open-source-ios-apps/issues) and contact
