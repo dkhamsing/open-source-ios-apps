@@ -4111,6 +4111,14 @@
       "source": "https://github.com/mtigas/iOS-OnionBrowser",
       "homepage": "https://mike.tig.as/onionbrowser/",
       "itunes": "https://itunes.apple.com/app/id519296448"
+    },
+    {
+      "title": "projectM",
+      "category": "media",
+      "description": "An OpenGl based advanced music visualization program.",
+      "source": "https://sourceforge.net/projects/projectm/",
+      "homepage": "http://projectm.sourceforge.net/",
+      "itunes": "https://itunes.apple.com/app/id530922227"
     }
   ]
 }
