@@ -4150,6 +4150,14 @@
       "source": "https://github.com/miataru/miataru-ios-client",
       "homepage": "http://miataru.com/ios/",
       "itunes": "https://itunes.apple.com/app/id717539389"
+    },
+    {
+      "title": "Wheelmap",
+      "category": "location",
+      "description": "Online map for locating wheelchair-accessible places.",
+      "source": "https://github.com/sozialhelden/wheelmap-iphone2",
+      "homepage": "http://wheelmap.org",
+      "itunes": "https://itunes.apple.com/app/id399239476"
     }
   ]
 }
