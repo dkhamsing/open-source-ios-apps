@@ -4027,7 +4027,7 @@
     {
       "title": "Seafile Pro",
       "category": "misc",
-      "description": "A client for Seafile (a self-hosting Dropbox for teams).",
+      "description": "A client for Seafile (self-hosted file sharing).",
       "source": "https://github.com/haiwen/seafile-iOS",
       "homepage": "https://www.seafile.com/en/home/",
       "itunes": "https://itunes.apple.com/app/id639202512"
