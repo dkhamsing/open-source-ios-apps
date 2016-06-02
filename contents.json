@@ -3887,6 +3887,14 @@
       "category": "games",
       "description": "A release of the Real Time Strategy game Warfare Incorporated.",
       "source": "https://github.com/spiffcode/hostile-takeover"
+    },
+    {
+      "title": "XPilot",
+      "category": "games",
+      "description": "An iPhone port of the classic XPilot game.",
+      "source": "http://7b5labs.com/xpilot.git/",
+      "homepage": "http://7b5labs.com/xpilotiphone",
+      "itunes": "https://itunes.apple.com/app/id322114791"
     }
   ]
 }
