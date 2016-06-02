@@ -4156,6 +4156,14 @@
       "source": "https://github.com/sozialhelden/wheelmap-iphone2",
       "homepage": "http://wheelmap.org",
       "itunes": "https://itunes.apple.com/app/id399239476"
+    },
+    {
+      "title": "Ello",
+      "category": "social",
+      "description": "Ello is the Creators Network",
+      "source": "https://github.com/ello/ello-ios",
+      "itunes": "https://itunes.apple.com/app/ello/id953614327",
+      "tags": ["swift"]
     }
   ]
 }
