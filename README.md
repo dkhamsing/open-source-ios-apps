@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **465** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 02, 2016*).
+A collaborative list of **466** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 02, 2016*).
  
 Jump to 
  
@@ -705,7 +705,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/sprang/Inkpad
 - Kodi: A popular media player and entertainment hub. 
   - https://github.com/xbmc/xbmc
-  - https://kodi.tv/
+  - http://kodi.wiki/view/IOS
 - KonaBot: unofficial client for konachan.net 🔶
   - https://github.com/hkalexling/KonaBot-iOS
   - https://itunes.apple.com/app/konabot/id1055716649
@@ -877,7 +877,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/firefox-web-browser/id989804926
 - Kodi: A popular media player and entertainment hub. 
   - https://github.com/xbmc/xbmc
-  - https://kodi.tv/
+  - http://kodi.wiki/view/IOS
 - Official Kodi Remote: A full-featured remote control for Kodi Media Center. 
   - https://github.com/xbmc/xbmc
   - https://kodi.tv/
@@ -1005,6 +1005,9 @@ Image, video, audio, reading — [back to top](#readme)
 - Aozora: Discover and track anime 🔶
   - https://github.com/pjchavarria/aozora-ios
   - https://itunes.apple.com/app/aozora-anime-community-track/id1017433045
+- Ello: Ello is the Creators Network 🔶
+  - https://github.com/ello/ello-ios
+  - https://itunes.apple.com/app/ello/id953614327
 - Minds Mobile App: An encrypted social network. 
   - https://github.com/Minds/mobile
   - https://www.minds.com/
@@ -1160,7 +1163,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Runner-Stats: iPhone app to record running data 
   - https://github.com/hukun01/Runner-Stats
   - https://itunes.apple.com/app/runner-stats/id793443821
-- Seafile Pro: A client for Seafile (a self-hosting Dropbox for teams). 
+- Seafile Pro: A client for Seafile (self-hosted file sharing). 
   - https://github.com/haiwen/seafile-iOS
   - https://www.seafile.com/en/home/
   - https://itunes.apple.com/app/id639202512
