@@ -3895,6 +3895,14 @@
       "source": "http://7b5labs.com/xpilot.git/",
       "homepage": "http://7b5labs.com/xpilotiphone",
       "itunes": "https://itunes.apple.com/app/id322114791"
+    },
+    {
+      "title": "AppSlate",
+      "category": "developer",
+      "description": "Make your own iOS applications.",
+      "source": "https://github.com/Taehan-Kim/AppSlate",
+      "homepage": "https://www.facebook.com/AppSlate",
+      "itunes": "https://itunes.apple.com/app/id511327336"
     }
   ]
 }
