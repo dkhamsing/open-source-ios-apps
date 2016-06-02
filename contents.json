@@ -4127,6 +4127,13 @@
       "source": "https://github.com/openhab/openhab.ios",
       "homepage": "http://www.openhab.org/",
       "itunes": "https://itunes.apple.com/app/id492054521"
+    },
+    {
+      "title": "LibreOffice Remote for Impress",
+      "category": "misc",
+      "description": "Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely.",
+      "source": "https://cgit.freedesktop.org/libreoffice/impress_remote/",
+      "itunes": "https://itunes.apple.com/app/id806879890"
     }
   ]
 }
