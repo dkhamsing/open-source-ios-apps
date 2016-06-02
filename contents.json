@@ -4057,6 +4057,14 @@
       "source": "http://git.ghostscript.com/?p=mupdf.git;a=summary",
       "homepage": "http://mupdf.com/",
       "itunes": "https://itunes.apple.com/app/id482941798"
+    },
+    {
+      "title": "Kiwix",
+      "category": "web",
+      "description": "An offline reader for Wikipedia (and many other websites).",
+      "source": "https://github.com/kiwix/iOS",
+      "homepage": "http://www.kiwix.org/wiki/Main_Page",
+      "itunes": "https://itunes.apple.com/app/id997079563"
     }
   ]
 }
