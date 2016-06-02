@@ -3947,6 +3947,12 @@
       "description": "Disguise yourself as white blood cells to infect the host.",
       "source": "http://globalgamejam.org/sites/default/files/uploads/2010/3942/viralfire_0.rar",
       "homepage": "https://viralfire.wordpress.com/about/"
+    },
+    {
+      "title": "Wizard War",
+      "category": ["games", "reactive-cocoa", "parse"],
+      "description": "Cast spells in single or multiplayer wizard duels.",
+      "source": "https://github.com/seanhess/wizardwar"
     }
   ]
 }
