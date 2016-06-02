@@ -3903,6 +3903,14 @@
       "source": "https://github.com/Taehan-Kim/AppSlate",
       "homepage": "https://www.facebook.com/AppSlate",
       "itunes": "https://itunes.apple.com/app/id511327336"
+    },
+    {
+      "title": "Authenticator",
+      "category": "security",
+      "description": "A simple two-factor authentication app with a clean UI.",
+      "source": "https://github.com/mattrubin/authenticator",
+      "homepage": "https://mattrubin.me/authenticator/",
+      "itunes": "https://itunes.apple.com/app/id766157276"
     }
   ]
 }
