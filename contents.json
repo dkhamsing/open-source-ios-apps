@@ -4142,6 +4142,14 @@
       "source": "http://thomasokken.com/free42/download/free42.tgz",
       "homepage": "http://thomasokken.com/free42/",
       "itunes": "https://itunes.apple.com/app/id337692629"
+    },
+    {
+      "title": "Miataru",
+      "category": "location",
+      "description": "A location tracking app where data can be shared over public or private servers.",
+      "source": "https://github.com/miataru/miataru-ios-client",
+      "homepage": "http://miataru.com/ios/",
+      "itunes": "https://itunes.apple.com/app/id717539389"
     }
   ]
 }
