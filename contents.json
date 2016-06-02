@@ -3953,6 +3953,14 @@
       "category": ["games", "reactive-cocoa", "parse"],
       "description": "Cast spells in single or multiplayer wizard duels.",
       "source": "https://github.com/seanhess/wizardwar"
+    },
+    {
+      "title": "ZBar Barcode Reader",
+      "category": "media",
+      "description": "A comprehensive barcode reader.",
+      "source": "https://sourceforge.net/projects/zbar/",
+      "homepage": "http://zbar.sourceforge.net/",
+      "itunes": "https://itunes.apple.com/app/id344957305"
     }
   ]
 }
