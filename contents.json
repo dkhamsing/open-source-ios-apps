@@ -3969,6 +3969,16 @@
       "source": "https://github.com/prey/prey-ios-client",
       "homepage": "https://preyproject.com/",
       "itunes": "https://itunes.apple.com/app/id456755037"
+    },
+    {
+      "title": "Prey Swift Client",
+      "category": ["security", "location"],
+      "description": "Track lost or stolen devices and perform actions remotely.",
+      "source": "https://github.com/prey/prey-swift-client",
+      "homepage": "https://preyproject.com/",
+      "tags": [
+        "swift"
+      ]
     }
   ]
 }
