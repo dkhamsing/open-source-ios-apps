@@ -3994,6 +3994,14 @@
       "description": "A popular media player and entertainment hub.",
       "source": "https://github.com/xbmc/xbmc",
       "homepage": "https://kodi.tv/"
+    },
+    {
+      "title": "Official Kodi Remote",
+      "category": ["official", "media"],
+      "description": "A full-featured remote control for Kodi Media Center.",
+      "source": "https://github.com/xbmc/xbmc",
+      "homepage": "https://kodi.tv/",
+      "itunes": "https://itunes.apple.com/app/id520480364"
     }
   ]
 }
