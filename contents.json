@@ -4088,6 +4088,14 @@
       "source": "https://github.com/Minds/mobile",
       "homepage": "https://www.minds.com/",
       "itunes": "https://itunes.apple.com/app/id961771928"
+    },
+    {
+      "title": "Encryptr",
+      "category": "security",
+      "description": "A zero-knowledge, cloud-based e-wallet and password manager.",
+      "source": "https://github.com/SpiderOak/Encryptr",
+      "homepage": "https://spideroak.com/solutions/encryptr",
+      "itunes": "https://itunes.apple.com/app/id1066041348"
     }
   ]
 }
