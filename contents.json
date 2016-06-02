@@ -4080,6 +4080,14 @@
       "description": "An implementation of the Remote Desktop Protocol (RDP).",
       "source": "https://github.com/FreeRDP/FreeRDP",
       "homepage": "http://www.freerdp.com/"
+    },
+    {
+      "title": "Minds Mobile App",
+      "category": ["social", "iconic"],
+      "description": "An encrypted social network.",
+      "source": "https://github.com/Minds/mobile",
+      "homepage": "https://www.minds.com/",
+      "itunes": "https://itunes.apple.com/app/id961771928"
     }
   ]
 }
