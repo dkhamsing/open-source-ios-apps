@@ -3950,7 +3950,7 @@
     },
     {
       "title": "Wizard War",
-      "category": ["games", "reactive-cocoa", "parse"],
+      "category": ["games", "reactivecocoa", "parse"],
       "description": "Cast spells in single or multiplayer wizard duels.",
       "source": "https://github.com/seanhess/wizardwar"
     },
