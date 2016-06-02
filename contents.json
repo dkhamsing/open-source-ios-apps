@@ -4041,6 +4041,14 @@
       "source": "https://github.com/osmandapp/Osmand",
       "homepage": "http://osmand.net/,
       "itunes": "https://itunes.apple.com/app/id934850257"
+    },
+    {
+      "title": "Habitica",
+      "category": "tasks",
+      "description": "A client for [Habitica](https://habitica.com/static/front).",
+      "source": "https://github.com/HabitRPG/habitrpg-ios",
+      "homepage": "https://habitica.com/static/front",
+      "itunes": "https://itunes.apple.com/app/id994882113"
     }
   ]
 }
