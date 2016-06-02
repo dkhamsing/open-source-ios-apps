@@ -3987,6 +3987,13 @@
       "source": "https://github.com/ilTofa/rposx",
       "homepage": "https://www.iltofa.com/rphd/",
       "itunes": "https://itunes.apple.com/app/id663334697"
+    },
+    {
+      "title": "Kodi",
+      "category": ["official", "media"],
+      "description": "A popular media player and entertainment hub.",
+      "source": "https://github.com/xbmc/xbmc",
+      "homepage": "https://kodi.tv/"
     }
   ]
 }
