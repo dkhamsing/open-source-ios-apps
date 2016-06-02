@@ -20,6 +20,7 @@ Jump to
 - [Games](#games) 
   - [Emulators](#emulators) 
 - [Health](#health) 
+  - [ResearchKit](#researchkit) 
 - [Keyboards](#keyboards) 
 - [Location](#location) 
 - [Media](#media) 
@@ -526,18 +527,9 @@ Projects that are not in English have a flag
  
 - Arex: Reminders for taking your medications 🔶
   - https://github.com/a2/arex-7
-- AsthmaHealth: ResearchKit app studying Asthma 
-  - https://github.com/ResearchKit/AsthmaHealth
-  - https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668
-- Colorblind: ResearchKit app built in swift in order to provide an easy test for colorblind people. 🔶
-  - https://github.com/boostcode/ResearchKit-ColorBlind
-  - https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412
 - Depressed: Test if you are depressed 🔶
   - https://github.com/DerLobi/Depressed
   - https://itunes.apple.com/app/depressed/id1062594092
-- GlucoSuccess: ResearchKit app studying Diabetes 
-  - https://github.com/ResearchKit/GlucoSuccess
-  - https://itunes.apple.com/app/glucosuccess/id972143976
 - HealthKit~Swift: Sample app for Apple HealthKit 🔶
   - https://github.com/Darktt/HealthKit-Swift
 - Jim: Track your gym workouts 🔶
@@ -545,21 +537,35 @@ Projects that are not in English have a flag
 - LogU: A Strength Logger is a simple logging application for strength athletes. 🔶
   - https://github.com/brettalcox/logU-swift
   - https://itunes.apple.com/app/logu-a-strength-logger/id1084487510
+- Speak: AAC & Speech Therapy 
+  - https://github.com/raynesio/speakability
+  - https://itunes.apple.com/app/speakability/id784509467
+- rTracker: A generic, customizable personal data tracker 
+  - https://github.com/rob-miller/rTracker
+  - https://itunes.apple.com/app/rtracker-track-it-all-your-way/id486541371
+
+### ResearchKit 
+ 
+[back to top](#readme) 
+ 
+- AsthmaHealth: ResearchKit app studying Asthma 
+  - https://github.com/ResearchKit/AsthmaHealth
+  - https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668
+- Colorblind: ResearchKit app built in swift in order to provide an easy test for colorblind people. 🔶
+  - https://github.com/boostcode/ResearchKit-ColorBlind
+  - https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412
+- GlucoSuccess: ResearchKit app studying Diabetes 
+  - https://github.com/ResearchKit/GlucoSuccess
+  - https://itunes.apple.com/app/glucosuccess/id972143976
 - MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk 
   - https://github.com/ResearchKit/MyHeartCounts
   - https://itunes.apple.com/app/id972189947
 - Share The Journey: ResearchKit app studying Breast Cancer 
   - https://github.com/ResearchKit/ShareTheJourney
   - https://itunes.apple.com/app/share-the-journey/id972180604
-- Speak: AAC & Speech Therapy 
-  - https://github.com/raynesio/speakability
-  - https://itunes.apple.com/app/speakability/id784509467
 - mPower: ResearchKit app studying Parkinson's disease 
   - https://github.com/ResearchKit/mPower
   - https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200
-- rTracker: A generic, customizable personal data tracker 
-  - https://github.com/rob-miller/rTracker
-  - https://itunes.apple.com/app/rtracker-track-it-all-your-way/id486541371
 
 ## Keyboards 
  
@@ -1154,7 +1160,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Runner-Stats: iPhone app to record running data 
   - https://github.com/hukun01/Runner-Stats
   - https://itunes.apple.com/app/runner-stats/id793443821
-- Seafile Pro: A client for Seafile (a self-hosting dropbox for teams). 
+- Seafile Pro: A client for Seafile (a self-hosting Dropbox for teams). 
   - https://github.com/haiwen/seafile-iOS
   - https://www.seafile.com/en/home/
   - https://itunes.apple.com/app/id639202512
