@@ -4134,6 +4134,14 @@
       "description": "Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely.",
       "source": "https://cgit.freedesktop.org/libreoffice/impress_remote/",
       "itunes": "https://itunes.apple.com/app/id806879890"
+    },
+    {
+      "title": "Free42",
+      "category": "calculator",
+      "description": "A re-implementation of the HP-42S Calculator and the HP-82240 printer.",
+      "source": "http://thomasokken.com/free42/download/free42.tgz",
+      "homepage": "http://thomasokken.com/free42/",
+      "itunes": "https://itunes.apple.com/app/id337692629"
     }
   ]
 }
