@@ -4119,6 +4119,14 @@
       "source": "https://sourceforge.net/projects/projectm/",
       "homepage": "http://projectm.sourceforge.net/",
       "itunes": "https://itunes.apple.com/app/id530922227"
+    },
+    {
+      "title": "openHAB",
+      "category": "misc",
+      "description": "Vendor and technology agnostic home automation.",
+      "source": "https://github.com/openhab/openhab.ios",
+      "homepage": "http://www.openhab.org/",
+      "itunes": "https://itunes.apple.com/app/id492054521"
     }
   ]
 }
