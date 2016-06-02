@@ -55,6 +55,11 @@
       "id": "health"
     },
     {
+      "title": "ResearchKit",
+      "id": "researchkit",
+      "parent": "health"
+    },
+    {
       "title": "Keyboards",
       "id": "keyboards"
     },
@@ -1249,7 +1254,7 @@
     },
     {
       "title": "AsthmaHealth",
-      "category": "health",
+      "category": "researchkit",
       "description": "ResearchKit app studying Asthma",
       "source": "https://github.com/ResearchKit/AsthmaHealth",
       "itunes": "https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668",
@@ -1268,7 +1273,7 @@
     },
     {
       "title": "GlucoSuccess",
-      "category": "health",
+      "category": "researchkit",
       "description": "ResearchKit app studying Diabetes",
       "source": "https://github.com/ResearchKit/GlucoSuccess",
       "itunes": "https://itunes.apple.com/app/glucosuccess/id972143976",
@@ -1310,7 +1315,7 @@
     },
     {
       "title": "mPower",
-      "category": "health",
+      "category": "researchkit",
       "description": "ResearchKit app studying Parkinson's disease",
       "source": "https://github.com/ResearchKit/mPower",
       "itunes": "https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200",
@@ -1318,7 +1323,7 @@
     },
     {
       "title": "MyHeartCounts",
-      "category": "health",
+      "category": "researchkit",
       "description": "Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk",
       "source": "https://github.com/ResearchKit/MyHeartCounts",
       "itunes": "https://itunes.apple.com/app/id972189947",
@@ -1334,7 +1339,7 @@
     },
     {
       "title": "Share The Journey",
-      "category": "health",
+      "category": "researchkit",
       "description": "ResearchKit app studying Breast Cancer",
       "source": "https://github.com/ResearchKit/ShareTheJourney",
       "itunes": "https://itunes.apple.com/app/share-the-journey/id972180604",
@@ -3726,11 +3731,11 @@
     },
     {
       "title": "Colorblind",
-      "category": "health",
+      "category": "researchkit",
       "description": "ResearchKit app built in swift in order to provide an easy test for colorblind people.",
       "source": "https://github.com/boostcode/ResearchKit-ColorBlind",
       "itunes": "https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412",
-      "tags": ["swift","researchkit"]
+      "tags": ["swift"]
     },
     {
       "title": "UitzendingGemist by 4np",
