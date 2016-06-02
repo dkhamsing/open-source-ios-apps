@@ -4073,6 +4073,13 @@
       "source": "http://hg.hedgewars.org/hedgewars/",
       "homepage": "http://www.hedgewars.org/",
       "itunes": "https://itunes.apple.com/app/id391234866"
+    },
+    {
+      "title": "FreeRDP",
+      "category": "misc",
+      "description": "An implementation of the Remote Desktop Protocol (RDP).",
+      "source": "https://github.com/FreeRDP/FreeRDP",
+      "homepage": "http://www.freerdp.com/"
     }
   ]
 }
