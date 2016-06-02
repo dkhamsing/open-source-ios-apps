@@ -4096,6 +4096,13 @@
       "source": "https://github.com/SpiderOak/Encryptr",
       "homepage": "https://spideroak.com/solutions/encryptr",
       "itunes": "https://itunes.apple.com/app/id1066041348"
+    },
+    {
+      "title": "Spika",
+      "category": "communication",
+      "description": "A secure business messenger.",
+      "source": "https://github.com/cloverstudio/Spika",
+      "homepage": "https://spika.business/"
     }
   ]
 }
