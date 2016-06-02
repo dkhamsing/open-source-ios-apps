@@ -3881,6 +3881,12 @@
       "source": "https://github.com/mrdepth/Neocom",
       "itunes": "https://itunes.apple.com/app/eveuniverse/id418895101",
       "stars": 56
+    },
+    {
+      "title": "Hostile Takeover",
+      "category": "games",
+      "description": "A release of the Real Time Strategy game Warfare Incorporated.",
+      "source": "https://github.com/spiffcode/hostile-takeover"
     }
   ]
 }
