@@ -3961,6 +3961,14 @@
       "source": "https://sourceforge.net/projects/zbar/",
       "homepage": "http://zbar.sourceforge.net/",
       "itunes": "https://itunes.apple.com/app/id344957305"
+    },
+    {
+      "title": "Prey Anti Theft",
+      "category": ["security", "location"],
+      "description": "Track lost or stolen devices and perform actions remotely.",
+      "source": "https://github.com/prey/prey-ios-client",
+      "homepage": "https://preyproject.com/",
+      "itunes": "https://itunes.apple.com/app/id456755037"
     }
   ]
 }
