@@ -4103,6 +4103,14 @@
       "description": "A secure business messenger.",
       "source": "https://github.com/cloverstudio/Spika",
       "homepage": "https://spika.business/"
+    },
+    {
+      "title": "Onion Browser",
+      "category": "browser",
+      "description": "A Tor-powered web browser that improves your privacy.",
+      "source": "https://github.com/mtigas/iOS-OnionBrowser",
+      "homepage": "https://mike.tig.as/onionbrowser/",
+      "itunes": "https://itunes.apple.com/app/id519296448"
     }
   ]
 }
