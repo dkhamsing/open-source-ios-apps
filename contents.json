@@ -4675,6 +4675,12 @@
         "swift"
       ],
       "license": "mit"
+    },
+    {
+      "title": "CodeBucket",
+      "category": "developer",
+      "description": "Browse and maintain your Bitbucket repositories",
+      "source": "https://github.com/thedillonb/CodeBucket"
     }
   ]
 }
