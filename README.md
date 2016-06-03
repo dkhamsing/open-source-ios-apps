@@ -1089,7 +1089,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Kiwix: An offline reader for Wikipedia (and many other websites). 
+- Kiwix: An offline reader for Wikipedia (and many other websites). 🔶
   - https://github.com/kiwix/iOS
   - http://www.kiwix.org/wiki/Main_Page
   - https://itunes.apple.com/app/id997079563
@@ -1511,7 +1511,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/mutualmobile/Counter
 - Rambler.Conferences 
   - https://github.com/rambler-ios/RamblerConferences
-- To do: objcio [example](https://github.com/objcio/issue-13-viper) 
+- To do: A to-do list application in viper. 
+  - https://github.com/objcio/issue-13-viper
   - https://www.objc.io/issues/13-architecture/viper/
 
 ### Xamarin 
