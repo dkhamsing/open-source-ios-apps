@@ -4680,7 +4680,8 @@
       "title": "CodeBucket",
       "category": "developer",
       "description": "Browse and maintain your Bitbucket repositories",
-      "source": "https://github.com/thedillonb/CodeBucket"
+      "source": "https://github.com/thedillonb/CodeBucket",
+      "license": "other"
     }
   ]
 }
