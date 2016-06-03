@@ -4574,6 +4574,9 @@
       "source": "https://github.com/kiwix/iOS",
       "homepage": "http://www.kiwix.org/wiki/Main_Page",
       "itunes": "https://itunes.apple.com/app/id997079563",
+      "tags": [
+        "swift"
+      ],
       "license": "other"
     },
     {
