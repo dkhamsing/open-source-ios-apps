@@ -97,6 +97,13 @@
 						"maxLength": 2,
 						"default": null
 					},
+					"license": {
+						"title": "Project License",
+						"description": "The license that the project's source is under.",
+						"type": "string",
+						"enum": ["apache", "bsd", "gpl", "lgpl", "mit", "mozilla", "cddl", "eclipse", "public_domain", "other"],
+						"default": "other"
+					},
 					"source": {
 						"title": "Project Source",
 						"description": "A URL where the source code to the project can be found.",
