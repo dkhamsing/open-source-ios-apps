@@ -239,7 +239,7 @@
       "description": "Emulators frontend supporting Sega Genesis, SNES, NES, GB/GBC, & more",
       "source": "https://github.com/jasarien/Provenance",
       "stars": 2016,
-      "license": "other"
+      "license": "bsd-3-clause"
     },
     {
       "title": "UitzendingGemist by jeffkreeftmeijer",
@@ -402,7 +402,7 @@
       "tags": [
         "swift"
       ],
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "heartrate",
@@ -419,7 +419,7 @@
       "title": "HighStreet",
       "category": "apple-watch",
       "description": "Highstreet shopping app",
-      "license": "other",
+      "license": "mit",
       "source": "https://github.com/GetHighstreet/HighstreetWatchApp",
       "stars": 341,
       "tags": [
@@ -467,7 +467,8 @@
       "source": "https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html",
       "tags": [
         "swift"
-      ]
+      ],
+      "license": "other"
     },
     {
       "title": "Natural Language Clock",
@@ -686,13 +687,13 @@
       "tags": [
         "swift"
       ],
-      "license": "other"
+      "license": "unlicense"
     },
     {
       "title": "ChatSecure",
       "category": "communication",
       "description": "Encrypted chat app that supports OTR encryption over XMPP",
-      "license": "other",
+      "license": "gpl-3.0",
       "source": "https://github.com/ChatSecure/ChatSecure-iOS",
       "itunes": "https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063",
       "stars": 1929
@@ -721,7 +722,7 @@
       "source": "https://github.com/Mynigma/M",
       "itunes": "https://itunes.apple.com/app/m-safe-email-made-simple/id818498595",
       "stars": 16,
-      "license": "other"
+      "license": "gpl-3.0"
     },
     {
       "title": "Mumble",
@@ -749,7 +750,7 @@
       "source": "https://github.com/WhisperSystems/Signal-iOS",
       "itunes": "https://itunes.apple.com/app/id874139669",
       "stars": 1836,
-      "license": "other"
+      "license": "gpl-3.0"
     },
     {
       "title": "surespot",
@@ -758,7 +759,7 @@
       "source": "https://github.com/surespot/surespot-ios",
       "itunes": "https://itunes.apple.com/app/surespot/id790314865",
       "stars": 46,
-      "license": "other"
+      "license": "gpl-3.0"
     },
     {
       "title": "Telegram",
@@ -800,7 +801,7 @@
       "description": "Nortal TechDay 2015 app",
       "source": "https://github.com/mikkoj/NortalTechDay",
       "stars": 175,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "ParseDeveloperDay",
@@ -860,7 +861,7 @@
       "source": "https://github.com/adblockplus/adblockplussafariios",
       "itunes": "https://itunes.apple.com/app/adblock-plus-abp/id1028871868",
       "stars": 49,
-      "license": "other"
+      "license": "gpl-3.0"
     },
     {
       "title": "BlockParty",
@@ -1210,7 +1211,7 @@
       "description": "A game of dungeon exploration, combat and magic, involving characters of diverse skills",
       "homepage": "https://github.com/CliffsDover/crawl/tree/iOS_Release",
       "source": "https://github.com/CliffsDover/crawl",
-      "license": "other"
+      "license": "gpl-2.0"
     },
     {
       "title": "Five In A Row (五子棋)",
@@ -1247,7 +1248,8 @@
       "title": "GBA4iOS",
       "category": "games",
       "description": "Gameboy, Gameboy Color & Gameboy Advance emulator",
-      "source": "https://bitbucket.org/rileytestut/gba4ios/"
+      "source": "https://bitbucket.org/rileytestut/gba4ios/",
+      "license": "other"
     },
     {
       "title": "Gorillas",
@@ -1352,7 +1354,7 @@
       "source": "https://github.com/id-Software/Wolf3D-iOS",
       "itunes": "https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478",
       "stars": 290,
-      "license": "other"
+      "license": "gpl-2.0"
     },
     {
       "title": "Arex",
@@ -1457,7 +1459,7 @@
       "source": "https://github.com/rob-miller/rTracker",
       "itunes": "https://itunes.apple.com/app/rtracker-track-it-all-your-way/id486541371",
       "stars": 5,
-      "license": "other"
+      "license": "apache-2.0"
     },
     {
       "title": "Share The Journey",
@@ -1475,7 +1477,7 @@
       "source": "https://github.com/raynesio/speakability",
       "itunes": "https://itunes.apple.com/app/speakability/id784509467",
       "stars": 17,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "AA-Keyboard",
@@ -1484,7 +1486,7 @@
       "source": "https://github.com/sonsongithub/AAKeyboard",
       "itunes": "https://itunes.apple.com/app/aa-keyboard/id964182815",
       "stars": 84,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "ClickWheelKeyboard",
@@ -1523,7 +1525,7 @@
       "description": "An open source, customizable, iOS keyboard",
       "source": "https://github.com/Brimizer/Slidden",
       "stars": 461,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Alarm",
@@ -1542,7 +1544,7 @@
       "description": "Finds the nearest Starbucks",
       "source": "https://github.com/chroman/Doppio",
       "stars": 527,
-      "license": "other"
+      "license": "bsd-2-clause"
     },
     {
       "title": "Cafe",
@@ -1572,7 +1574,7 @@
       "source": "https://github.com/callzhang/Eat-Now",
       "itunes": "https://itunes.apple.com/app/eat-now-instant-personalized/id946591471",
       "stars": 22,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "GeoTappy",
@@ -1721,7 +1723,8 @@
       "source": "http://matthewfecher.com/app-developement/swift-synth/",
       "tags": [
         "swift"
-      ]
+      ],
+      "license": "mit"
     },
     {
       "title": "Artsy",
@@ -1747,7 +1750,7 @@
       "description": "Import photos from an Instagram user and make a collage",
       "source": "https://github.com/Azoft/CollageMaker-iOS",
       "stars": 23,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "ColorBlur",
@@ -1936,7 +1939,7 @@
       "description": "Record a 6 second video while playing prank sounds",
       "source": "https://github.com/huijimuhe/prankPro",
       "stars": 235,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Pugs",
@@ -2163,7 +2166,7 @@
       "source": "https://github.com/ming1016/RSSRead",
       "itunes": "https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364",
       "stars": 652,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "TabDump",
@@ -2205,7 +2208,7 @@
       "source": "https://github.com/bonzoq/hniosreader",
       "itunes": "https://itunes.apple.com/app/hacker-news-client/id939454231",
       "stars": 210,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "HackerNews (Y)",
@@ -2237,7 +2240,7 @@
       "tags": [
         "swift"
       ],
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "HN-App",
@@ -2248,7 +2251,7 @@
         "swift"
       ],
       "stars": 63,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "News/YC",
@@ -2294,7 +2297,7 @@
       "description": "Official DuckDuckGo app",
       "source": "https://github.com/duckduckgo/ios",
       "itunes": "https://itunes.apple.com/app/duckduckgo-search-stories/id663592361",
-      "license": "other"
+      "license": "apache-2.0"
     },
     {
       "title": "WhiteHouse",
@@ -2303,7 +2306,7 @@
       "source": "https://github.com/WhiteHouse/wh-app-ios",
       "itunes": "https://itunes.apple.com/app/the-white-house/id350190807",
       "stars": 647,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Wikipedia",
@@ -2338,13 +2341,15 @@
     {
       "title": "Apple Developer Library",
       "category": "sample",
-      "source": "https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code"
+      "source": "https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code",
+      "license": "other"
     },
     {
       "title": "Apple WWDC 2015",
       "category": "sample",
       "description": "Code samples from WWDC 2015",
-      "source": "https://developer.apple.com/sample-code/wwdc/2015/"
+      "source": "https://developer.apple.com/sample-code/wwdc/2015/",
+      "license": "other"
     },
     {
       "title": "CloudKit in Objective-C",
@@ -2541,7 +2546,8 @@
       "category": "security",
       "description": "Two-Factor Authentication",
       "source": "https://fedorahosted.org/freeotp/browser/ios",
-      "itunes": "https://itunes.apple.com/app/freeotp/id872559395"
+      "itunes": "https://itunes.apple.com/app/freeotp/id872559395",
+      "license": "apache-2.0"
     },
     {
       "title": "MasterPassword",
@@ -2588,7 +2594,7 @@
         "swift"
       ],
       "stars": 49,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Peggsite",
@@ -2790,7 +2796,7 @@
       "description": "Weather app by jsphkhan using React Native",
       "homepage": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp",
       "source": "https://github.com/jsphkhan/ReactNativeExamples",
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "WeatherMap",
@@ -2878,7 +2884,7 @@
       "description": "Alternative Tumblr client",
       "source": "https://github.com/irace/BlogQuest",
       "stars": 8,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Borrowed Books UFGRS",
@@ -2897,7 +2903,7 @@
       "description": "Configurable card decks",
       "source": "https://github.com/aharren/CardDecks",
       "stars": 28,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "ChineseZodiac",
@@ -3039,7 +3045,7 @@
         "swift"
       ],
       "stars": 2,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Mirror++",
@@ -3084,7 +3090,7 @@
       "description": "Browse state legislatures",
       "source": "https://github.com/sunlightlabs/openstates-ios",
       "stars": 55,
-      "license": "other"
+      "license": "bsd-3-clause"
     },
     {
       "title": "ownCloud",
@@ -3122,7 +3128,7 @@
         "swift"
       ],
       "stars": 19,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Runner-Stats",
@@ -3149,7 +3155,7 @@
       "title": "Tether",
       "category": "misc",
       "description": "Tethering for non-jailbroken iOS Devices over USB",
-      "license": "other",
+      "license": "gpl-3.0",
       "source": "https://github.com/chrisballinger/Tether-iOS",
       "stars": 92
     },
@@ -3269,7 +3275,7 @@
         "swift"
       ],
       "stars": 69,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Workdays",
@@ -3383,7 +3389,7 @@
       "source": "https://github.com/dsgriffin/vegan-lists-uk",
       "itunes": "https://itunes.apple.com/app/vegan-lists-uk/id1083273301",
       "stars": 0,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "2CITY",
@@ -3455,7 +3461,8 @@
       "source": "http://www.appcoda.com/instagram-app-parse-swift/",
       "tags": [
         "swift"
-      ]
+      ],
+      "license": "other"
     },
     {
       "title": "allyoop",
@@ -3525,7 +3532,7 @@
       "category": "react-native",
       "homepage": "https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter",
       "source": "https://github.com/ashwinpreet/ReactNativeExamples",
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Den",
@@ -3789,7 +3796,7 @@
       "tags": [
         "swift"
       ],
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Kiosk",
@@ -3827,7 +3834,8 @@
       "title": "To do",
       "category": "viper",
       "description": "objcio [example](https://github.com/objcio/issue-13-viper)",
-      "source": "https://www.objc.io/issues/13-architecture/viper/"
+      "source": "https://www.objc.io/issues/13-architecture/viper/",
+      "license": "mit"
     },
     {
       "title": "Toggl Timer",
@@ -3849,7 +3857,7 @@
       "tags": [
         "swift"
       ],
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "ReactiveKitten",
@@ -3893,7 +3901,7 @@
         "archive"
       ],
       "stars": 1917,
-      "license": "other"
+      "license": "bsd-2-clause"
     },
     {
       "title": "Bancha",
@@ -3903,7 +3911,7 @@
         "archive"
       ],
       "stars": 27,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Cheddar",
@@ -3953,7 +3961,7 @@
         "archive"
       ],
       "stars": 0,
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Pancake",
@@ -3971,7 +3979,8 @@
       "source": "https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki",
       "tags": [
         "archive"
-      ]
+      ],
+      "license": "gpl-2.0"
     },
     {
       "title": "Repo",
@@ -4010,7 +4019,7 @@
       "tags": [
         "archive"
       ],
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "ActiveGS",
@@ -4040,7 +4049,7 @@
       "description": "MAME frontend",
       "source": "https://github.com/yoshisuga/MAME4iOS",
       "stars": 0,
-      "license": "other"
+      "license": "gpl-2.0"
     },
     {
       "title": "DOSPad",
@@ -4103,7 +4112,7 @@
       "description": "Commodore Amiga emulator, based on UAE",
       "source": "https://github.com/emufreak/iAmiga",
       "stars": 18,
-      "license": "other"
+      "license": "gpl-2.0"
     },
     {
       "title": "SwiftHub",
@@ -4193,7 +4202,7 @@
       "title": "iCook",
       "category": "apple-tv",
       "description": "A tvOS app that plays iCook TV videos.",
-      "license": "other",
+      "license": "mit",
       "source": "https://github.com/polydice/iCook-tvOS"
     },
     {
@@ -4251,14 +4260,16 @@
       "description": "Make free audio/video calls and text messages.",
       "source": "https://www.linphone.org/technical-corner/linphone/downloads",
       "homepage": "https://www.linphone.org/",
-      "itunes": "https://itunes.apple.com/app/linphone/id360065638"
+      "itunes": "https://itunes.apple.com/app/linphone/id360065638",
+      "license": "gpl-2.0"
     },
     {
       "title": "Molecules",
       "category": "science",
       "description": "Visualize molecules in 3D.",
       "source": "http://www.sunsetlakesoftware.com/molecules",
-      "itunes": "https://itunes.apple.com/app/molecules/id284943090"
+      "itunes": "https://itunes.apple.com/app/molecules/id284943090",
+      "license": "other"
     },
     {
       "title": "Task Coach",
@@ -4266,7 +4277,8 @@
       "description": "A simple toto manager designed for composite tasks.",
       "source": "https://sourceforge.net/projects/taskcoach/",
       "homepage": "http://taskcoach.org/",
-      "itunes": "https://itunes.apple.com/app/task-coach/id311403563"
+      "itunes": "https://itunes.apple.com/app/task-coach/id311403563",
+      "license": "gpl-3.0"
     },
     {
       "title": "Castle Hassle",
@@ -4274,7 +4286,7 @@
       "description": "A real-time physical game where you build your kingdom while crushing your opponents.",
       "source": "https://github.com/bryceredd/CastleHassle",
       "itunes": "https://itunes.apple.com/app/castle-hassle/id524566068",
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Skeleton Key",
@@ -4288,21 +4300,21 @@
       "category": "games",
       "description": "Solve cryptograms as a Hacker, Detective, or Spy.",
       "source": "https://github.com/insurgentgames/Cryptose",
-      "license": "other"
+      "license": "gpl-3.0"
     },
     {
       "title": "Aeropack",
       "category": "games",
       "description": "A steampunk retro 2d platformer.",
       "source": "https://github.com/insurgentgames/Aeropack",
-      "license": "other"
+      "license": "gpl-3.0"
     },
     {
       "title": "teh internets",
       "category": "games",
       "description": "Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter.",
       "source": "https://github.com/insurgentgames/teh-internets",
-      "license": "other"
+      "license": "gpl-3.0"
     },
     {
       "title": "hoxChess",
@@ -4310,7 +4322,7 @@
       "description": "Xiangqi (Chinese Chess) with single and multiplayer modes.",
       "source": "https://github.com/huygithub/hoxChess",
       "itunes": "https://itunes.apple.com/app/hoxchess/id363513274",
-      "license": "other"
+      "license": "gpl-3.0"
     },
     {
       "title": "iLabyrinth",
@@ -4325,7 +4337,7 @@
       "description": "Place tiles to form your allegiance's symbols.",
       "source": "https://github.com/RolandasRazma/Heredox/",
       "homepage": "http://www.heredox.com/",
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Pterodactyl Attack",
@@ -4358,7 +4370,8 @@
       "description": "An iPhone port of the classic XPilot game.",
       "source": "http://7b5labs.com/xpilot.git/",
       "homepage": "http://7b5labs.com/xpilotiphone",
-      "itunes": "https://itunes.apple.com/app/id322114791"
+      "itunes": "https://itunes.apple.com/app/id322114791",
+      "license": "gpl-2.0"
     },
     {
       "title": "AppSlate",
@@ -4376,7 +4389,7 @@
       "source": "https://github.com/mattrubin/authenticator",
       "homepage": "https://mattrubin.me/authenticator/",
       "itunes": "https://itunes.apple.com/app/id766157276",
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "CodeHub",
@@ -4393,7 +4406,7 @@
       "description": "A social journal for the Elder Scrolls® series.",
       "source": "https://github.com/rblalock/dragon_shout_app_open_source",
       "itunes": "https://itunes.apple.com/app/id690208182",
-      "license": "other"
+      "license": "apache-2.0"
     },
     {
       "title": "Frotz",
@@ -4428,7 +4441,8 @@
       "description": "A comprehensive barcode reader.",
       "source": "https://sourceforge.net/projects/zbar/",
       "homepage": "http://zbar.sourceforge.net/",
-      "itunes": "https://itunes.apple.com/app/id344957305"
+      "itunes": "https://itunes.apple.com/app/id344957305",
+      "license": "lgpl-2.1"
     },
     {
       "title": "Prey Anti Theft",
@@ -4454,7 +4468,7 @@
       "tags": [
         "swift"
       ],
-      "license": "other"
+      "license": "gpl-3.0"
     },
     {
       "title": "Radio Paradise",
@@ -4466,7 +4480,7 @@
       "source": "https://github.com/ilTofa/rposx",
       "homepage": "https://www.iltofa.com/rphd/",
       "itunes": "https://itunes.apple.com/app/id663334697",
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Kodi",
@@ -4530,7 +4544,7 @@
       "title": "OsmAnd Maps",
       "category": "location",
       "description": "A map application with access to OpenStreetMaps.",
-      "license": "other",
+      "license": "gpl-3.0",
       "source": "https://github.com/osmandapp/Osmand",
       "homepage": "http://osmand.net/",
       "itunes": "https://itunes.apple.com/app/id934850257"
@@ -4550,7 +4564,8 @@
       "description": "A PDF, XPS/OpenXPS, CBZ and EPUB document viewer.",
       "source": "http://git.ghostscript.com/?p=mupdf.git;a=summary",
       "homepage": "http://mupdf.com/",
-      "itunes": "https://itunes.apple.com/app/id482941798"
+      "itunes": "https://itunes.apple.com/app/id482941798",
+      "license": "agpl-3.0"
     },
     {
       "title": "Kiwix",
@@ -4567,7 +4582,8 @@
       "description": "A turn-based strategy game.",
       "source": "http://hg.hedgewars.org/hedgewars/",
       "homepage": "http://www.hedgewars.org/",
-      "itunes": "https://itunes.apple.com/app/id391234866"
+      "itunes": "https://itunes.apple.com/app/id391234866",
+      "license": "gpl-2.0"
     },
     {
       "title": "FreeRDP",
@@ -4604,7 +4620,7 @@
       "description": "A secure business messenger.",
       "source": "https://github.com/cloverstudio/Spika",
       "homepage": "https://spika.business/",
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "Onion Browser",
@@ -4613,7 +4629,7 @@
       "source": "https://github.com/mtigas/iOS-OnionBrowser",
       "homepage": "https://mike.tig.as/onionbrowser/",
       "itunes": "https://itunes.apple.com/app/id519296448",
-      "license": "other"
+      "license": "mit"
     },
     {
       "title": "projectM",
@@ -4621,7 +4637,8 @@
       "description": "An OpenGl based advanced music visualization program.",
       "source": "https://sourceforge.net/projects/projectm/",
       "homepage": "http://projectm.sourceforge.net/",
-      "itunes": "https://itunes.apple.com/app/id530922227"
+      "itunes": "https://itunes.apple.com/app/id530922227",
+      "license": "gpl-2.0"
     },
     {
       "title": "openHAB",
@@ -4637,7 +4654,8 @@
       "category": "misc",
       "description": "Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely.",
       "source": "https://cgit.freedesktop.org/libreoffice/impress_remote/",
-      "itunes": "https://itunes.apple.com/app/id806879890"
+      "itunes": "https://itunes.apple.com/app/id806879890",
+      "license": "mpl-2.0"
     },
     {
       "title": "Free42",
@@ -4645,7 +4663,8 @@
       "description": "A re-implementation of the HP-42S Calculator and the HP-82240 printer.",
       "source": "http://thomasokken.com/free42/download/free42.tgz",
       "homepage": "http://thomasokken.com/free42/",
-      "itunes": "https://itunes.apple.com/app/id337692629"
+      "itunes": "https://itunes.apple.com/app/id337692629",
+      "license": "gpl-2.0"
     },
     {
       "title": "Miataru",
@@ -4663,7 +4682,7 @@
       "source": "https://github.com/sozialhelden/wheelmap-iphone2",
       "homepage": "http://wheelmap.org",
       "itunes": "https://itunes.apple.com/app/id399239476",
-      "license": "other"
+      "license": "apache-2.0"
     },
     {
       "title": "Ello",
