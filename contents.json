@@ -3833,8 +3833,9 @@
     {
       "title": "To do",
       "category": "viper",
-      "description": "objcio [example](https://github.com/objcio/issue-13-viper)",
-      "source": "https://www.objc.io/issues/13-architecture/viper/",
+      "description": "A to-do list application in viper.",
+      "source": "https://github.com/objcio/issue-13-viper",
+      "homepage": "https://www.objc.io/issues/13-architecture/viper/",
       "license": "mit"
     },
     {
