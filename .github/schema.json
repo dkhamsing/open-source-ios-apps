@@ -101,7 +101,7 @@
 						"title": "Project License",
 						"description": "The license that the project's source is under.",
 						"type": "string",
-						"enum": ["apache", "bsd", "gpl", "lgpl", "mit", "mozilla", "cddl", "eclipse", "public_domain", "other"],
+						"enum": ["mit", "mpl-2.0", "gpl-3.0", "lgpl-3.0", "unlicense", "bsd-2-clause", "isc", "lgpl-2.1", "gpl-2.0", "apache-2.0", "cc0-1.0", "artistic-2.0", "bsd-3-clause", "agpl-3.0", "epl-1.0", "other"],
 						"default": "other"
 					},
 					"source": {
