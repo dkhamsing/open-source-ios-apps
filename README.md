@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **466** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 03, 2016*).
+A collaborative list of **467** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 03, 2016*).
  
 Jump to 
  
@@ -304,6 +304,8 @@ Projects that are not in English have a flag
 - Charter: A Swift mailing list client for iPhone and iPad 🔶🔥🔥
   - https://github.com/matthewpalmer/Charter
   - https://itunes.apple.com/app/charter-mailing-list-client/id1082212697
+- CodeBucket: Browse and maintain your Bitbucket repositories 
+  - https://github.com/thedillonb/CodeBucket
 - Codinator: Code editor for iPhone and iPad 
   - https://github.com/VWAS/codinator
   - https://itunes.apple.com/app/codinator/id1024671232
