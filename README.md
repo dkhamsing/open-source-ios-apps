@@ -49,7 +49,7 @@ Jump to
   - [[React Native](http://facebook.github.io/react-native/)](#react-native) 
   - [Reactive Programming](#reactive-programming) 
   - [[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)](#reactivecocoa) 
-  - [[RXSwift](https://github.com/ReactiveX/RxSwift)](#rxswift) 
+  - [[RxSwift](https://github.com/ReactiveX/RxSwift)](#rxswift) 
   - [Realm](#realm) 
   - [[VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)](#viper) 
   - [Xamarin](#xamarin) 
@@ -1484,7 +1484,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Wizard War: Cast spells in single or multiplayer wizard duels. 
   - https://github.com/seanhess/wizardwar
 
-### [RXSwift](https://github.com/ReactiveX/RxSwift) 
+### [RxSwift](https://github.com/ReactiveX/RxSwift) 
  
 [back to top](#readme) 
  
