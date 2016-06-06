@@ -4705,6 +4705,14 @@
       "description": "Browse and maintain your Bitbucket repositories",
       "source": "https://github.com/thedillonb/CodeBucket",
       "license": "other"
+    },
+    {
+        "title": "Meme Maker",
+        "category": "media",
+        "description": "Create and share memes!",
+        "source": "https://github.com/Meme-Maker/Meme-Maker-iOS",
+        "itunes": "https://itunes.apple.com/app/id962121383",
+        "tags": ["swift"]
     }
   ]
 }
