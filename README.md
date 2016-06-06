@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **467** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 03, 2016*).
+A collaborative list of **468** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 06, 2016*).
  
 Jump to 
  
@@ -81,15 +81,15 @@ Projects that are not in English have a flag
   - https://github.com/jasarien/Provenance
 - RailsCasts: Watch RailsCasts videos on Apple TV 
   - https://github.com/spritlesoftware/railscasts-on-appletv
-- Telemat-tvOS: APP to watch Public German Broadcast/TV company streams 🇩🇪
+- Telemat-tvOS: Watch Public German Broadcast/TV company streams 🇩🇪
   - https://github.com/omichde/Telemat-tvOS
 - UitzendingGemist by 4np: Uitgebreide UitzendingGemist app voor Nederland 🔶🇳🇱
   - https://github.com/4np/UitzendingGemist
-- UitzendingGemist by jeffkreeftmeijer: Unofficial Apple TV app for Dutch Public Broadcasting video on demand service 🔶
+- UitzendingGemist by jeffkreeftmeijer: Dutch Public Broadcasting video on demand 🔶
   - https://github.com/jeffkreeftmeijer/UitzendingGemist
 - WWDCTV: Watch the WWDC Videos on your Apple TV 🔥🔥
   - https://github.com/azzoor/WWDCTV
-- iCook: A tvOS app that plays iCook TV videos. 
+- iCook: A tvOS app that plays iCook TV videos 
   - https://github.com/polydice/iCook-tvOS
 
 ## Apple Watch 
@@ -165,7 +165,7 @@ Projects that are not in English have a flag
 - WatchStocks: Track your stocks portfolio, also includes a watch face complication 🔶
   - https://github.com/G2Jose/WatchStocks
 - Watchman: A WatchOS2 Hangman Game 🔶
-  - https://github.com/DanielTomlinson/Watchman
+  - https://github.com/DanToml/Watchman
 - Wunderschnell: Order the right product with one tap on your wrist 🔶
   - https://github.com/contentful-labs/Wunderschnell
 - heartrate: Show streaming heartrate from the watch with watchOS 2 🔶🔥🔥
@@ -716,6 +716,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339
 - Megabite: Turn a photo of your food into a face 🔥🔥
   - https://github.com/AaronRandall/Megabite
+- Meme Maker: Create and share memes! 🔶
+  - https://github.com/Meme-Maker/Meme-Maker-iOS
+  - https://itunes.apple.com/app/id962121383
 - MiamiSunglasses: An app that plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH). 🔶
   - https://github.com/DeveloperACE/MiamiSunglasses
 - MuPDF: A PDF, XPS/OpenXPS, CBZ and EPUB document viewer. 
