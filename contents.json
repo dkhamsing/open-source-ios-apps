@@ -244,7 +244,7 @@
     {
       "title": "UitzendingGemist by jeffkreeftmeijer",
       "category": "apple-tv",
-      "description": "Unofficial Apple TV app for Dutch Public Broadcasting video on demand service",
+      "description": "Dutch Public Broadcasting video on demand",
       "source": "https://github.com/jeffkreeftmeijer/UitzendingGemist",
       "license": "mit",
       "tags": [
@@ -543,7 +543,7 @@
       "title": "Watchman",
       "category": "apple-watch",
       "description": "A WatchOS2 Hangman Game",
-      "source": "https://github.com/DanielTomlinson/Watchman",
+      "source": "https://github.com/DanToml/Watchman",
       "tags": [
         "swift"
       ],
@@ -4202,7 +4202,7 @@
     {
       "title": "iCook",
       "category": "apple-tv",
-      "description": "A tvOS app that plays iCook TV videos.",
+      "description": "A tvOS app that plays iCook TV videos",
       "license": "mit",
       "source": "https://github.com/polydice/iCook-tvOS"
     },
@@ -4231,7 +4231,7 @@
       "category": [
         "apple-tv"
       ],
-      "description": "APP to watch Public German Broadcast/TV company streams",
+      "description": "Watch Public German Broadcast/TV company streams",
       "lang": "ger",
       "license": "gpl-2.0",
       "source": "https://github.com/omichde/Telemat-tvOS"
@@ -4712,7 +4712,8 @@
         "description": "Create and share memes!",
         "source": "https://github.com/Meme-Maker/Meme-Maker-iOS",
         "itunes": "https://itunes.apple.com/app/id962121383",
-        "tags": ["swift"]
+        "tags": ["swift"],
+        "license": "other"
     }
   ]
 }
