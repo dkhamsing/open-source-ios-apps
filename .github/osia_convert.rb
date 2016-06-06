@@ -127,7 +127,10 @@ def write_readme(j)
   output << "\n \nJump to \n \n"
 
   cats.each do |c|
-    temp = "#{'  ' unless c['parent']==nil }- [#{c['title']}](\##{c['id']}) \n"
+    title = c['title']
+    m = title.match /\[.*?\]/
+    title = m[0].sub('[', '').sub(']', '') unless m.nil?
+    temp = "#{'  ' unless c['parent']==nil }- [#{title}](\##{c['id']}) \n"
     output << temp
   end
 
