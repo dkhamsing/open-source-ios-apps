@@ -2,6 +2,7 @@
 
 This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.
 
+- Aozora https://github.com/pjchavarria/aozora-ios
 - AppSales-Mobile https://github.com/omz/AppSales-Mobile
 - Bancha https://github.com/squallstar/bancha-ios-app
 - Cheddar https://github.com/nothingmagical/cheddar-ios
