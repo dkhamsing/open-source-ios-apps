@@ -4714,6 +4714,13 @@
         "itunes": "https://itunes.apple.com/app/id962121383",
         "tags": ["swift"],
         "license": "other"
+    },
+    {
+      "title": "OpenIt",
+      "category": "misc",
+      "description": "Notification widget to launch other apps from the notification center",
+      "source": "https://github.com/BalestraPatrick/OpenIt",
+      "license": "other"
     }
   ]
 }
