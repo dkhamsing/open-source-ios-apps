@@ -2588,10 +2588,10 @@
       "title": "Aozora",
       "category": "social",
       "description": "Discover and track anime",
-      "source": "https://github.com/pjchavarria/aozora-ios",
+      "source": "https://github.com/opensourceios/Aozora",
       "itunes": "https://itunes.apple.com/app/aozora-anime-community-track/id1017433045",
       "tags": [
-        "swift", "archive"
+        "swift"
       ],
       "stars": 49,
       "license": "mit"
