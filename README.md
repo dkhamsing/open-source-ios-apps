@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **468** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 06, 2016*).
+A collaborative list of **469** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 07, 2016*).
  
 Jump to 
  
@@ -1007,9 +1007,6 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Aozora: Discover and track anime 🔶
-  - https://github.com/pjchavarria/aozora-ios
-  - https://itunes.apple.com/app/aozora-anime-community-track/id1017433045
 - Ello: Ello is the Creators Network 🔶
   - https://github.com/ello/ello-ios
   - https://itunes.apple.com/app/ello/id953614327
@@ -1160,6 +1157,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/sunlightlabs/openstates-ios
 - OpenCB: Interactive chess book reader 
   - https://github.com/student-t/OpenCB
+- OpenIt: Notification widget to launch other apps from the notification center 
+  - https://github.com/BalestraPatrick/OpenIt
 - Phonetic: Add phonetic keys for Chinese names 🔥🔥
   - https://github.com/iAugux/Phonetic
 - Population Clock: Learn about geography and demographics 
