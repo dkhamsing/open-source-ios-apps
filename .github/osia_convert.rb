@@ -116,7 +116,7 @@ def write_readme(j)
   apps = j['projects']
 
   date = DateTime.now
-  date_display = date.strftime "%B %d, %Y"
+  date_display = date.strftime "%B %e, %Y"
 
   output = '# ' + t
   output << "\n\n"
