@@ -10,9 +10,15 @@ end
 j = get_json
 a = j['projects']
 archived = apps_archived a
-links = a.reject { |x| archived.include? x }.map { |y| y['source']}
+active = a.reject { |x| archived.include? x }
 
-links.each_with_index { |z, i| puts "#{i+1} #{z}"}
+links = []
+active.each do |z|
+  links.push z['source']
+  links.push z['itunes'] unless z['itunes'].nil?
+end
+
+links.each_with_index { |z, i| puts "#{i+1} #{z}" }
 
 puts "Writing #{OUTPUT}"
 File.open(OUTPUT, 'w') { |f| f.puts links }
