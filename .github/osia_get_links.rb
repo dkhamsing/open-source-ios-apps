@@ -1,6 +1,7 @@
 require_relative 'osia_helper'
 
-OUTPUT = 'temp-links'
+OUTPUT = 'check-links.txt'
+HP     = 'check-homepages.txt'
 
 def apps_archived(apps)
   a = apps.select {|a| a['tags'] != nil }.select {|b| b['tags'].include?'archive'}
@@ -22,3 +23,13 @@ links.each_with_index { |z, i| puts "#{i+1} #{z}" }
 
 puts "Writing #{OUTPUT}"
 File.open(OUTPUT, 'w') { |f| f.puts links }
+
+hp = []
+active.each do |z|
+  hp.push z['homepage'] unless z['homepage'].nil?
+end
+
+hp.each_with_index { |z, i| puts "#{i+1} #{z}" }
+
+puts "Writing #{HP}"
+File.open(HP, 'w') { |f| f.puts hp }
