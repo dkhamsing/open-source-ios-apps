@@ -15,7 +15,8 @@ general:
   artifacts:
     - "check-links.txt"
     - "check-homepages.txt"
-    - "ab-results-temp-links.json"
+    - "ab-results-check-homepages.txt.json"
+    - "ab-results-check-links.txt.json"
 deployment:
   master:
     branch: master
