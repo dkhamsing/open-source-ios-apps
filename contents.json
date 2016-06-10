@@ -3430,9 +3430,9 @@
     },
     {
       "title": "how-much",
-      "category": "parse",
+      "category": ["parse", "firebase"],
       "license": "mit",
-      "description": "Simple app to record how much things cost using Parse",
+      "description": "Simple app to record how much things cost using Parse or Firebase",
       "source": "https://github.com/dkhamsing/how-much",
       "stars": 1
     },
