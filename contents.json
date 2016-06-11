@@ -4721,6 +4721,14 @@
       "description": "Notification widget to launch other apps from the notification center",
       "source": "https://github.com/BalestraPatrick/OpenIt",
       "license": "other"
+    },
+    {
+      "title": "AwesomeSwift iOS App",
+      "category": "official",
+      "description": "Awesomeswift repository official app"
+      "source": "https://github.com/matteocrippa/awesomeSwift-iOS-App",
+      "license": "MIT",
+      "tags": ["swift"]
     }
   ]
 }
