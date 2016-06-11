@@ -4721,6 +4721,16 @@
       "description": "Notification widget to launch other apps from the notification center",
       "source": "https://github.com/BalestraPatrick/OpenIt",
       "license": "other"
+    },
+    {
+      "title": "ABU",
+      "category": "media",
+      "lang": "zho",
+      "source": "https://github.com/flexih/ABU",
+      "itunes": "https://itunes.apple.com/app/id1060940756",
+      "tags": [
+        "swift"
+      ]
     }
   ]
 }
