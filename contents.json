@@ -4725,6 +4725,7 @@
     {
       "title": "ABU",
       "category": "media",
+      "description": "Easily watch videos from YouKu, iQiyi, SohuTV, bilibili, AcFun & more",
       "lang": "zho",
       "source": "https://github.com/flexih/ABU",
       "itunes": "https://itunes.apple.com/app/id1060940756",
