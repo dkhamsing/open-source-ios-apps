@@ -4725,9 +4725,9 @@
     {
       "title": "AwesomeSwift iOS App",
       "category": "official",
-      "description": "Awesomeswift repository official app"
+      "description": "Awesomeswift repository official app",
       "source": "https://github.com/matteocrippa/awesomeSwift-iOS-App",
-      "license": "MIT",
+      "license": "mit",
       "tags": ["swift"]
     }
   ]
