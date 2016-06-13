@@ -4723,12 +4723,24 @@
       "license": "other"
     },
     {
+
       "title": "AwesomeSwift iOS App",
       "category": "official",
       "description": "Awesomeswift repository official app",
       "source": "https://github.com/matteocrippa/awesomeSwift-iOS-App",
       "license": "mit",
       "tags": ["swift"]
+    },
+    {
+      "title": "ABU",
+      "category": "media",
+      "description": "Easily watch videos from YouKu, iQiyi, SohuTV, bilibili, AcFun & more",
+      "lang": "zho",
+      "source": "https://github.com/flexih/ABU",
+      "itunes": "https://itunes.apple.com/app/id1060940756",
+      "tags": [
+        "swift"
+      ]
     }
   ]
 }

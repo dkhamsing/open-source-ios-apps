@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **469** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June  8, 2016*).
+A collaborative list of **470** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 12, 2016*).
  
 Jump to 
  
@@ -671,6 +671,9 @@ Image, video, audio, reading — [back to top](#readme)
 - 360 VR Player: Universal 360 video player 🔥🔥🔥 🔥🔥🔥
   - https://github.com/hanton/HTY360Player
   - https://itunes.apple.com/app/360-vr-player/id1061464612
+- ABU: Easily watch videos from YouKu, iQiyi, SohuTV, bilibili, AcFun & more 🔶🇨🇳
+  - https://github.com/flexih/ABU
+  - https://itunes.apple.com/app/id1060940756
 - Analog Synth X: Analog Synthesizer Keyboard Music App, created w/ Swift 2  ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX)) 🔶
   - http://matthewfecher.com/app-developement/swift-synth/
 - Artsy: The Art World in Your Pocket 🔥🔥🔥🔥
@@ -1327,6 +1330,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
 - Swift Off: Firebase powered to do app built in Swift, includes tutorial 🔶
   - https://github.com/goprimer/swift-off-todo
+- how-much: Simple app to record how much things cost using Parse or Firebase 
+  - https://github.com/dkhamsing/how-much
 
 ### [Ionic](http://ionicframework.com/) 
  
@@ -1367,7 +1372,7 @@ Image, video, audio, reading — [back to top](#readme)
   - http://www.appcoda.com/instagram-app-parse-swift/
 - Wizard War: Cast spells in single or multiplayer wizard duels. 
   - https://github.com/seanhess/wizardwar
-- how-much: Simple app to record how much things cost using Parse 
+- how-much: Simple app to record how much things cost using Parse or Firebase 
   - https://github.com/dkhamsing/how-much
 - iBeaconTasks: iBeacon TODO reminder app based on Parse 
   - https://github.com/TomekB/iBeaconTasks

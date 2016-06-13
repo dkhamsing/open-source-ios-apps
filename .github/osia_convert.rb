@@ -26,7 +26,7 @@ def apps_for_cat(apps, id)
     cat = a['category']
     cat.class == Array ? cat.include?(id) : (cat == id)
   end
-  s.sort_by { |k, v| k['title'] }
+  s.sort_by { |k, v| k['title'].downcase }
 end
 
 def output_apps(apps)
