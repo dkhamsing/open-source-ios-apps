@@ -2419,10 +2419,10 @@
       ]
     },
     {
-      "title": "KnockToReact",
+      "title": "Knock",
       "category": "sample",
-      "description": "Interact with users just by receiving and recognizing \"knocks\" in the device",
-      "source": "https://github.com/MatheusCavalca/KnockToReact",
+      "description": "Use Accelerometer and background mode to create a feature of knocking your phone",
+      "source": "https://github.com/MatheusCavalca/Knock",
       "stars": 7,
       "license": "mit"
     },
