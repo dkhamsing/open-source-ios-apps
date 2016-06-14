@@ -4742,5 +4742,17 @@
         "swift"
       ]
     }
+    ,
+    {
+      "title": "Swift-Gif",
+      "description": "Gif Search",
+      "category": "media",
+      "source": "https://github.com/pjchavarria/Swift-Gif",
+      "license": "mit",
+      "stars": 51,
+      "tags": [
+        "swift"
+      ]
+    }
   ]
 }
