@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **471** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 13, 2016*).
+A collaborative list of **472** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 14, 2016*).
  
 Jump to 
  
@@ -307,7 +307,7 @@ Projects that are not in English have a flag
 - CodeBucket: Browse and maintain your Bitbucket repositories 
   - https://github.com/thedillonb/CodeBucket
 - Codinator: Code editor for iPhone and iPad 
-  - https://github.com/VWAS/codinator
+  - https://github.com/DanilaVladi/codinator
   - https://itunes.apple.com/app/codinator/id1024671232
 - Piwik Mobile 2: Access Piwik analytics on the go. 
   - https://github.com/piwik/piwik-mobile-2
@@ -671,9 +671,6 @@ Image, video, audio, reading — [back to top](#readme)
 - 360 VR Player: Universal 360 video player 🔥🔥🔥 🔥🔥🔥
   - https://github.com/hanton/HTY360Player
   - https://itunes.apple.com/app/360-vr-player/id1061464612
-- ABU: Easily watch videos from YouKu, iQiyi, SohuTV, bilibili, AcFun & more 🔶🇨🇳
-  - https://github.com/flexih/ABU
-  - https://itunes.apple.com/app/id1060940756
 - Analog Synth X: Analog Synthesizer Keyboard Music App, created w/ Swift 2  ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX)) 🔶
   - http://matthewfecher.com/app-developement/swift-synth/
 - Artsy: The Art World in Your Pocket 🔥🔥🔥🔥
@@ -776,6 +773,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/ijoshsmith/swift-ascii-art
 - Swift Radio Pro: Professional Radio Station App, created w/ Swift 2.0 🔶🔥🔥🔥🔥
   - https://github.com/swiftcodex/Swift-Radio-Pro
+- Swift-Gif: Gif Search 🔶
+  - https://github.com/pjchavarria/Swift-Gif
 - Swifteroid: A manual HDR exposure camera app written in Swift 🔶
   - https://github.com/eugenpirogoff/swifteroid
 - SwiftFlickrApp: Flickr popular photo viewer 🔶🔥🔥
@@ -874,7 +873,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- AwesomeSwift iOS App: Awesomeswift repository official app 🔶
+- Awesome Swift iOS App: awesome-swift repository official app 🔶
   - https://github.com/matteocrippa/awesomeSwift-iOS-App
 - Coding: Official Coding app 🔥🔥🔥🔥
   - https://github.com/Coding/Coding-iOS
