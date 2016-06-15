@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **473** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 15, 2016*).
+A collaborative list of **474** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 15, 2016*).
  
 Jump to 
  
@@ -1511,6 +1511,8 @@ Image, video, audio, reading — [back to top](#readme)
  
 - Done: Data sharing between a WatchKit app and its main app using Realm 🔶
   - https://github.com/FancyPixel/done-swift
+- Obědář: Shows daily menu of close restaurants to Czech Technical University 🔶
+  - https://github.com/syky27/lunch_guy-ios
 - RealmToDo: A small todo list with Realm integration 🔶
   - https://github.com/pietbrauer/RealmToDo
 
