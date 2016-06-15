@@ -4753,6 +4753,14 @@
       "tags": [
         "swift"
       ]
+    },
+    {
+      "title": "DownTube",
+      "category": "media",
+      "description": "Download any video from YouTube for offline use",
+      "source": "https://github.com/MrAdamBoyd/DownTube",
+      "license": "mit",
+      "tags": ["swift"]
     }
   ]
 }
