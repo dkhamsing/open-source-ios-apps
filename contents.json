@@ -4753,6 +4753,15 @@
       "tags": [
         "swift"
       ]
+    },
+    {
+      "title": "Pictograph",
+      "category": "media",
+      "description": "Hide messages in images using steganography",
+      "source": "https://github.com/MrAdamBoyd/Pictograph",
+      "itunes": "https://itunes.apple.com/us/app/id1051879856",
+      "license": "mit",
+      "tags": ["swift"]
     }
   ]
 }
