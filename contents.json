@@ -4762,6 +4762,22 @@
       "itunes": "https://itunes.apple.com/us/app/id1051879856",
       "license": "mit",
       "tags": ["swift"]
+    },
+    {
+      "title": "DownTube",
+      "category": "media",
+      "description": "Download any video from YouTube for offline use",
+      "source": "https://github.com/MrAdamBoyd/DownTube",
+      "license": "mit",
+      "tags": ["swift"]
+    },
+    {
+      "title": "Obědář",
+      "category": "realm",
+      "description": "Shows daily menu of close restaurants to Czech Technical University",
+      "source": "https://github.com/syky27/lunch_guy-ios",
+      "license": "mit",
+      "tags": ["swift"]
     }
   ]
 }
