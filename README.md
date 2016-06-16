@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **472** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 14, 2016*).
+A collaborative list of **475** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 16, 2016*).
  
 Jump to 
  
@@ -689,6 +689,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/comicflow/id409290355
 - DoubanFM: douban.fm client for iPhone, using AFN and MPMoviePlayer 🇨🇳🔥🔥
   - https://github.com/XVXVXXX/DoubanFM
+- DownTube: Download any video from YouTube for offline use 🔶
+  - https://github.com/MrAdamBoyd/DownTube
 - Dunk: Dribbble client 🔶🔥🔥
   - https://github.com/naoyashiga/Dunk
   - https://itunes.apple.com/app/dunk-for-dribbble/id1003028105
@@ -744,6 +746,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018
 - PhotoBrowser: A simple iOS Instagram photo browser 🔶🔥🔥
   - https://github.com/MoZhouqi/PhotoBrowser
+- Pictograph: Hide messages in images using steganography 🔶
+  - https://github.com/MrAdamBoyd/Pictograph
+  - https://itunes.apple.com/us/app/id1051879856
 - PopcornTime: PopcornTime movie app 🔶🔥
   - https://github.com/danylokostyshyn/popcorntime-ios
 - Poppins: House all your favorite GIFs and easily share them with your friends and family 🔶
@@ -1509,6 +1514,8 @@ Image, video, audio, reading — [back to top](#readme)
  
 - Done: Data sharing between a WatchKit app and its main app using Realm 🔶
   - https://github.com/FancyPixel/done-swift
+- Obědář: Shows daily menu of close restaurants to Czech Technical University 🔶
+  - https://github.com/syky27/lunch_guy-ios
 - RealmToDo: A small todo list with Realm integration 🔶
   - https://github.com/pietbrauer/RealmToDo
 
