@@ -4784,9 +4784,10 @@
       "category": "health",
       "description": "Cases recording, study, and sharing for ophthalmologist",
       "source": "https://github.com/herrkaefer/CaseAssistant",
-      "itunes": "https://itunes.apple.com/cn/app/id1003007080",
+      "itunes": "https://itunes.apple.com/app/id1003007080",
       "lang": "zho",
       "stars": 122,
+      "license": "mpl-2.0",
       "tags": ["swift", "realm"]
     }
   ]
