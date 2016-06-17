@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **475** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 16, 2016*).
+A collaborative list of **476** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 17, 2016*).
  
 Jump to 
  
@@ -529,6 +529,9 @@ Projects that are not in English have a flag
  
 - Arex: Reminders for taking your medications 🔶
   - https://github.com/a2/arex-7
+- CaseAssistant: Cases recording, study, and sharing for ophthalmologist 🔶🇨🇳🔥
+  - https://github.com/herrkaefer/CaseAssistant
+  - https://itunes.apple.com/cn/app/id1003007080
 - Depressed: Test if you are depressed 🔶
   - https://github.com/DerLobi/Depressed
   - https://itunes.apple.com/app/depressed/id1062594092
