@@ -4778,6 +4778,16 @@
       "source": "https://github.com/syky27/lunch_guy-ios",
       "license": "mit",
       "tags": ["swift"]
+    },
+    {
+      "title": "CaseAssistant",
+      "category": "health",
+      "description": "Cases recording, study, and sharing for ophthalmologist",
+      "source": "https://github.com/herrkaefer/CaseAssistant",
+      "itunes": "https://itunes.apple.com/cn/app/id1003007080",
+      "lang": "zho",
+      "stars": 122,
+      "tags": ["swift"]
     }
   ]
 }
