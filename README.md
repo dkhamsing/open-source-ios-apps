@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **476** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 17, 2016*).
+A collaborative list of **477** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 18, 2016*).
  
 Jump to 
  
@@ -531,7 +531,7 @@ Projects that are not in English have a flag
   - https://github.com/a2/arex-7
 - CaseAssistant: Cases recording, study, and sharing for ophthalmologist 🔶🇨🇳🔥
   - https://github.com/herrkaefer/CaseAssistant
-  - https://itunes.apple.com/cn/app/id1003007080
+  - https://itunes.apple.com/app/id1003007080
 - Depressed: Test if you are depressed 🔶
   - https://github.com/DerLobi/Depressed
   - https://itunes.apple.com/app/depressed/id1062594092
@@ -1209,6 +1209,8 @@ Image, video, audio, reading — [back to top](#readme)
 - Swiflytics: See your realtime Google Analytics data 🔶
   - https://github.com/aciidb0mb3r/Swiflytics
   - https://itunes.apple.com/app/swiflytics/id1076165139
+- SwiftTextClock: A Swift version of the beautyful QlockTwo 🔶
+  - https://github.com/MichMich/SwiftTextClock
 - Tether: Tethering for non-jailbroken iOS Devices over USB 
   - https://github.com/chrisballinger/Tether-iOS
 - TheReservist: Check availability of iPhones 🔶
