@@ -4789,6 +4789,14 @@
       "stars": 122,
       "license": "mpl-2.0",
       "tags": ["swift", "realm"]
+    },
+    {
+      "title": "SwiftTextClock",
+      "category": "misc",
+      "description": "A Swift version of the beautyful QlockTwo",
+      "source": "https://github.com/MichMich/SwiftTextClock",
+      "license": "other",
+      "tags": ["swift"]
     }
   ]
 }
