@@ -323,7 +323,7 @@
     },
     {
       "title": "Cherry",
-      "category": "apple-watch",
+      "category": ["apple-watch", "timer"],
       "description": "Mini Pomodoro Timer app",
       "license": "mit",
       "source": "https://github.com/kenshin03/Cherry",
