@@ -4799,7 +4799,7 @@
       "tags": ["swift"]
     },
     {
-      "title": "react-native-redux-todo-list",
+      "title": "To Do List (Redux)",
       "category": "react-native",
       "description": "React Native Todo List app which uses Redux for managing app state",
       "source": "https://github.com/uiheros/react-native-redux-todo-list",
