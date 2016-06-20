@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **477** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 18, 2016*).
+A collaborative list of **478** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 20, 2016*).
  
 Jump to 
  
@@ -1290,6 +1290,8 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Cherry: Mini Pomodoro Timer app 🔶🔥🔥
+  - https://github.com/kenshin03/Cherry
 - Coffee Timer 🔶
   - https://github.com/ashfurrow/yourfirstswiftapp
 - Fibonacc iClock: A clock based off the famous fibonacci sequence. 
@@ -1440,6 +1442,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/rkho/product-kitty
 - Property Finder 🔥🔥
   - https://github.com/ColinEberhardt/ReactNative-PropertyFinder
+- react-native-redux-todo-list: React Native Todo List app which uses Redux for managing app state 
+  - https://github.com/uiheros/react-native-redux-todo-list
 - ReactNativeHackerNews 🔥
   - https://github.com/jsdf/ReactNativeHackerNews
 - RSS Reader 
