@@ -3886,7 +3886,7 @@
     {
       "title": "MetricTime",
       "category": "timer",
-      "description": "An app to display 'Metric Time' in order to prank friends while on trips to countries that use the metric system, (esp Canada)",
+      "description": "An app to display 'Metric Time' in order to prank friends while on trips to countries that use the metric system, i.e. Canada",
       "source": "https://github.com/DeveloperACE/MetricTime",
       "tags": [
         "swift"
