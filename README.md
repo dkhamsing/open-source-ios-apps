@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **478** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 20, 2016*).
+A collaborative list of **479** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 21, 2016*).
  
 Jump to 
  
@@ -1209,6 +1209,8 @@ Image, video, audio, reading — [back to top](#readme)
 - Swiflytics: See your realtime Google Analytics data 🔶
   - https://github.com/aciidb0mb3r/Swiflytics
   - https://itunes.apple.com/app/swiflytics/id1076165139
+- SwiftBlog: Read the official Apple Swift Blog via RSS 
+  - https://github.com/BalestraPatrick/SwiftBlog
 - SwiftTextClock: A Swift version of the beautyful QlockTwo 🔶
   - https://github.com/MichMich/SwiftTextClock
 - Tether: Tethering for non-jailbroken iOS Devices over USB 
@@ -1299,7 +1301,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Fojusi: Work timer with today extension 🔶🔥🔥
   - https://github.com/dasdom/Tomate
   - https://itunes.apple.com/app/fojusi/id923044693
-- MetricTime: An app to display 'Metric Time' in order to prank friends while on trips to countries that use the metric system, (esp Canada) 🔶
+- MetricTime: An app to display 'Metric Time' in order to prank friends while on trips to countries that use the metric system, i.e. Canada 🔶
   - https://github.com/DeveloperACE/MetricTime
 - TrackMyTime 
   - https://github.com/EvgenyKarkan/TrackMyTime
@@ -1442,8 +1444,6 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/rkho/product-kitty
 - Property Finder 🔥🔥
   - https://github.com/ColinEberhardt/ReactNative-PropertyFinder
-- react-native-redux-todo-list: React Native Todo List app which uses Redux for managing app state 
-  - https://github.com/uiheros/react-native-redux-todo-list
 - ReactNativeHackerNews 🔥
   - https://github.com/jsdf/ReactNativeHackerNews
 - RSS Reader 
@@ -1458,6 +1458,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/facebook/react-native/tree/master/Examples/TicTacToe
 - To Do List 
   - https://github.com/joemaddalone/react-native-todo
+- To Do List (Redux): React Native Todo List app which uses Redux for managing app state 
+  - https://github.com/uiheros/react-native-redux-todo-list
 - Twitch 
   - https://github.com/IFours/react-native-twitch
 - UIExplorer: App by Facebook 
