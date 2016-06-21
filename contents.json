@@ -4810,7 +4810,8 @@
       "category": "misc",
       "description": "Read the official Apple Swift Blog via RSS",
       "source": "https://github.com/BalestraPatrick/SwiftBlog",
-      "license": "other"
+      "license": "other",
+      "tags": ["swift"]
     }
   ]
 }
