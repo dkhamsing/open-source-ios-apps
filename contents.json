@@ -4804,6 +4804,13 @@
       "description": "React Native Todo List app which uses Redux for managing app state",
       "source": "https://github.com/uiheros/react-native-redux-todo-list",
       "license": "mit"
+    },
+    {
+      "title": "SwiftBlog",
+      "category": "misc",
+      "description": "Read the official Apple Swift Blog via RSS",
+      "source": "https://github.com/BalestraPatrick/SwiftBlog",
+      "license": "other"
     }
   ]
 }
