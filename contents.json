@@ -4812,6 +4812,15 @@
       "source": "https://github.com/BalestraPatrick/SwiftBlog",
       "license": "other",
       "tags": ["swift"]
+    },
+    {
+      "title": "American Chronicle",
+      "category": ["news", "viper"],
+      "description": "Search Chronicling America's collection of digitized U.S. newspapers",
+      "source": "https://github.com/ryanipete/AmericanChronicle",
+      "homepage": "http://ryanipete.com/AmericanChronicle/",
+      "itunes": "https://itunes.apple.com/app/american-chronicle/id1092988367",
+      "license": "mit"
     }
   ]
 }
