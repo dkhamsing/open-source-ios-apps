@@ -825,7 +825,7 @@ Image, video, audio, reading — [back to top](#readme)
 - American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers 
   - https://github.com/ryanipete/AmericanChronicle
   - http://ryanipete.com/AmericanChronicle/
-  - https://itunes.apple.com/app/american-chronicle/id1092988367
+  - https://itunes.apple.com/app/id1092988367
 - Designer News App 🔶🔥🔥🔥🔥
   - https://github.com/MengTo/DesignerNewsApp
   - https://itunes.apple.com/app/designer-news-app/id879990495
@@ -1305,7 +1305,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Fojusi: Work timer with today extension 🔶🔥🔥
   - https://github.com/dasdom/Tomate
   - https://itunes.apple.com/app/fojusi/id923044693
-- MetricTime: An app to display 'Metric Time' in order to prank friends while on trips to countries that use the metric system, i.e. Canada 🔶
+- MetricTime: Displays 'Metric Time' for pranking friends on trips to countries that use the metric system. 🔶
   - https://github.com/DeveloperACE/MetricTime
 - TrackMyTime 
   - https://github.com/EvgenyKarkan/TrackMyTime
@@ -1541,7 +1541,7 @@ Image, video, audio, reading — [back to top](#readme)
 - American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers 
   - https://github.com/ryanipete/AmericanChronicle
   - http://ryanipete.com/AmericanChronicle/
-  - https://itunes.apple.com/app/american-chronicle/id1092988367
+  - https://itunes.apple.com/app/id1092988367
 - Contacts 
   - https://github.com/sebastianwr/VIPER-Persons
 - Counter 🔥🔥
