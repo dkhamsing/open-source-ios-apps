@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **479** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 21, 2016*).
+A collaborative list of **480** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 22, 2016*).
  
 Jump to 
  
@@ -822,6 +822,10 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers 
+  - https://github.com/ryanipete/AmericanChronicle
+  - http://ryanipete.com/AmericanChronicle/
+  - https://itunes.apple.com/app/american-chronicle/id1092988367
 - Designer News App 🔶🔥🔥🔥🔥
   - https://github.com/MengTo/DesignerNewsApp
   - https://itunes.apple.com/app/designer-news-app/id879990495
@@ -1209,7 +1213,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Swiflytics: See your realtime Google Analytics data 🔶
   - https://github.com/aciidb0mb3r/Swiflytics
   - https://itunes.apple.com/app/swiflytics/id1076165139
-- SwiftBlog: Read the official Apple Swift Blog via RSS 
+- SwiftBlog: Read the official Apple Swift Blog via RSS 🔶
   - https://github.com/BalestraPatrick/SwiftBlog
 - SwiftTextClock: A Swift version of the beautyful QlockTwo 🔶
   - https://github.com/MichMich/SwiftTextClock
@@ -1534,6 +1538,10 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers 
+  - https://github.com/ryanipete/AmericanChronicle
+  - http://ryanipete.com/AmericanChronicle/
+  - https://itunes.apple.com/app/american-chronicle/id1092988367
 - Contacts 
   - https://github.com/sebastianwr/VIPER-Persons
 - Counter 🔥🔥
