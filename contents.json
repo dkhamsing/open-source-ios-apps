@@ -4821,6 +4821,12 @@
       "homepage": "http://ryanipete.com/AmericanChronicle/",
       "itunes": "https://itunes.apple.com/app/id1092988367",
       "license": "mit"
-    }
+    },
+    {
+      "title": "SaveTheDot",
+      "category": "games",
+      "description": "UIViewPropertyAnimator experiment where you have to scape from the squares",
+      "source": "https://github.com/JakeLin/SaveTheDot"
+}
   ]
 }
