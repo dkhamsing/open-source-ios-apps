@@ -4825,8 +4825,9 @@
     {
       "title": "SaveTheDot",
       "category": "games",
-      "description": "UIViewPropertyAnimator experiment where you have to scape from the squares",
-      "source": "https://github.com/JakeLin/SaveTheDot"
+      "description": "UIViewPropertyAnimator experiment where you have to escape from the squares",
+      "source": "https://github.com/JakeLin/SaveTheDot",
+      "license": "mit"
     }
   ]
 }
