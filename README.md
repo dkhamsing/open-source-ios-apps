@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **481** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 25, 2016*).
+A collaborative list of **481** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 27, 2016*).
  
 Jump to 
  
@@ -341,7 +341,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/monkey-for-github/id1003765407
 - MrCode: GitHub iPhone app that can cache Markdown content 🇨🇳🔥🔥
   - https://github.com/haolloyin/MrCode
-- OctoPodium: List user rankings based on GitHub repository star count 🔶
+- OctoPodium: List user rankings based on GitHub repository star count 🔶🔥
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
 - SwiftHub: View Swift repositories from Github 
@@ -476,7 +476,7 @@ Projects that are not in English have a flag
 - Sakura Fly: Action game created in SpriteKit 
   - https://github.com/l800891/Sakura-Fly
   - https://itunes.apple.com/app/sakura-fly/id1019023051
-- SaveTheDot: UIViewPropertyAnimator experiment where you have to scape from the squares 
+- SaveTheDot: UIViewPropertyAnimator experiment where you have to escape from the squares 
   - https://github.com/JakeLin/SaveTheDot
 - Scary Flight: Just another yet FlappyBird-style game 
   - https://github.com/EvgenyKarkan/ScaryFlight
