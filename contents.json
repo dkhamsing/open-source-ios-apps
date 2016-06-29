@@ -4828,6 +4828,15 @@
       "description": "UIViewPropertyAnimator experiment where you have to escape from the squares",
       "source": "https://github.com/JakeLin/SaveTheDot",
       "license": "mit"
+    },
+    {
+      "title": "RxMarbles",
+      "category": "rxswift",
+      "description": "Interactive diagrams of Rx Observables",
+      "source": "https://github.com/RxSwiftCommunity/RxMarbles",
+      "itunes": "https://itunes.apple.com/us/app/rxmarbles/id1087272442",
+      "license": "other",
+      "tags": ["swift"]
     }
   ]
 }
