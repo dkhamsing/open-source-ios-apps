@@ -4837,6 +4837,16 @@
       "itunes": "https://itunes.apple.com/us/app/rxmarbles/id1087272442",
       "license": "other",
       "tags": ["swift"]
+    },
+    {
+      "title": "Potatso",
+      "category": "security",
+      "description": "App that implements Shadowsocks proxy",
+      "source": "https://github.com/shadowsocks/Potatso-iOS",
+      "itunes": "https://itunes.apple.com/app/id1070901416",
+      "license": "gpl-3.0",
+      "tags": ["swift"],
+      "lang": "zho",
     }
   ]
 }
