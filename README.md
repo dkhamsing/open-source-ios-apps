@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **482** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 29, 2016*).
+A collaborative list of **483** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 30, 2016*).
  
 Jump to 
  
@@ -1008,6 +1008,9 @@ Image, video, audio, reading — [back to top](#readme)
 - MiniKeePass: Secure Password Manager 🔥🔥
   - https://github.com/MiniKeePass/MiniKeePass
   - https://itunes.apple.com/app/id451661808
+- Potatso: App that implements Shadowsocks proxy 🔶🇨🇳
+  - https://github.com/shadowsocks/Potatso-iOS
+  - https://itunes.apple.com/app/id1070901416
 - Prey Anti Theft: Track lost or stolen devices and perform actions remotely. 
   - https://github.com/prey/prey-ios-client
   - https://preyproject.com/
