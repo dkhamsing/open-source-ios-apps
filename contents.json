@@ -4847,6 +4847,15 @@
       "license": "gpl-3.0",
       "tags": ["swift"],
       "lang": "zho"
+    },
+    {
+      "title": "SIP - Calculator",
+      "category": "finance",
+      "description": "SIP calculator calculates the future value of SIP (Systematic Investment Plan) payments",
+      "source": "https://github.com/tirupati17/sip-calculator-swift",
+      "itunes": "https://itunes.apple.com/app/id1092822415",
+      "tags": ["swift"],
+      "license": "mit"
     }
   ]
 }
