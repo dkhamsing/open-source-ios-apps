@@ -4856,15 +4856,6 @@
       "itunes": "https://itunes.apple.com/app/id1092822415",
       "tags": ["swift"],
       "license": "mit"
-    },
-    {
-      "title": "EMI Calculator for Home, Personal & Car Loan",
-      "category": ["finance", "clean-swift"],
-      "description": "Calculate your Equated Monthly instalment (EMI) for Home loan, Housing loan, Car loan & Personal loan",
-      "source": "https://github.com/tirupati17/loan-emi-calculator-clean-swift",
-      "itunes": "https://itunes.apple.com/app/id1105890730",
-      "tags": ["swift", "clean-swift"],
-      "license": "mit"
     }
   ]
 }
