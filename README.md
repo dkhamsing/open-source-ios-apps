@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **483** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *June 30, 2016*).
+A collaborative list of **484** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July  1, 2016*).
  
 Jump to 
  
@@ -373,6 +373,9 @@ Projects that are not in English have a flag
 - Savings Assistant: Expense tracker 🔶
   - https://github.com/chrisamanse/savings-assistant
   - https://itunes.apple.com/app/savings-assistant/id1022760996
+- SIP - Calculator: SIP calculator calculates the future value of SIP (Systematic Investment Plan) payments 🔶
+  - https://github.com/tirupati17/sip-calculator-swift
+  - https://itunes.apple.com/app/id1092822415
 - TodayStocks: Lightweight stocks app that shows your portfolio in a minimalist today extension 
   - https://github.com/premnirmal/TodayStocks
   - https://itunes.apple.com/app/todaystocks/id993467855
