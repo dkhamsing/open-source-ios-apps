@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **484** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July  1, 2016*).
+A collaborative list of **485** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July  2, 2016*).
  
 Jump to 
  
@@ -676,7 +676,7 @@ Projects that are not in English have a flag
  
 Image, video, audio, reading — [back to top](#readme) 
  
-- 360 VR Player: Universal 360 video player 🔥🔥🔥 🔥🔥🔥🔥
+- 360 VR Player: Universal 360 video player 🔥🔥🔥🔥
   - https://github.com/hanton/HTY360Player
   - https://itunes.apple.com/app/360-vr-player/id1061464612
 - Analog Synth X: Analog Synthesizer Keyboard Music App, created w/ Swift 2  ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX)) 🔶
@@ -794,6 +794,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/synboo/SwiftFlickrApp
 - SwiftSpace: CoreMotion Controlled Drawing in 3D Space 🔶
   - https://github.com/FlexMonkey/SwiftSpace
+- Tagger: Tagger helps you increase the number of Instagram or Flickr followers and likes on your pictures. 🔶
+  - https://github.com/vanyaland/Tagger
 - TechTavta: Keep track of all events for Techtatva 2015 
   - https://github.com/LUGM/TechTatva-15
   - https://itunes.apple.com/app/techtatva15/id922178880
@@ -1339,6 +1341,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/chrismiles/OrganisingCoreData
 - Nested Lists 🔥
   - https://github.com/objcio/issue-4-full-core-data-application
+- Tagger: Tagger helps you increase the number of Instagram or Flickr followers and likes on your pictures. 🔶
+  - https://github.com/vanyaland/Tagger
 - Tasks: Designed to quickly and easily add tasks to your iPhone 🔶
   - https://github.com/mbcrump/TasksForSwiftWithPersistingData
   - https://itunes.apple.com/app/task-application/id960435759
