@@ -4959,6 +4959,17 @@
       ],
       "license": "mit",
       "stars": 0
+    },
+    {
+      "title": "Tagger",
+      "category": ["media", "core-data"],
+      "description": "Tagger helps you increase the number of Instagram or Flickr followers and likes on your pictures.",
+      "source": "https://github.com/vanyaland/Tagger",
+      "stars": 0,
+      "license": "mit",
+      "tags": [
+      	"swift"
+      ]
     }
   ]
 }
