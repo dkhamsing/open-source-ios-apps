@@ -4970,6 +4970,15 @@
       "tags": [
       	"swift"
       ]
+    },
+    {
+      "title": "EMI Calculator for Home, Personal & Car Loan",
+      "category": ["finance", "viper"],
+      "description": "Calculate your Equated Monthly instalment (EMI) for Home loan, Housing loan, Car loan & Personal loan",
+      "source": "https://github.com/tirupati17/loan-emi-calculator-clean-swift",
+      "itunes": "https://itunes.apple.com/app/id1105890730",
+      "tags": ["swift", "viper"],
+      "license": "mit"
     }
   ]
 }
