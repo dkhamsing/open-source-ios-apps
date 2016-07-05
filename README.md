@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **485** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July  2, 2016*).
+A collaborative list of **486** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July  5, 2016*).
  
 Jump to 
  
@@ -368,6 +368,9 @@ Projects that are not in English have a flag
 - doughwallet: Dogecoin wallet 
   - https://github.com/peritus/doughwallet
   - https://itunes.apple.com/app/doughwallet/id951731776
+- EMI Calculator for Home, Personal & Car Loan: Calculate your Equated Monthly instalment (EMI) for Home loan, Housing loan, Car loan & Personal loan 🔶
+  - https://github.com/tirupati17/loan-emi-calculator-clean-swift
+  - https://itunes.apple.com/app/id1105890730
 - Neverlate: Pay-if-U-R-late app using geofences and Venmo API 
   - https://github.com/ayunav/Neverlate
 - Savings Assistant: Expense tracker 🔶
@@ -1014,7 +1017,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/MiniKeePass/MiniKeePass
   - https://itunes.apple.com/app/id451661808
 - Potatso: App that implements Shadowsocks proxy 🔶🇨🇳🔥🔥🔥🔥
-  - https://github.com/shadowsocks/Potatso-iOS
+  - https://github.com/shadowsocks/Potatso
   - https://itunes.apple.com/app/id1070901416
 - Prey Anti Theft: Track lost or stolen devices and perform actions remotely. 🔥🔥
   - https://github.com/prey/prey-ios-client
@@ -1561,6 +1564,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/sebastianwr/VIPER-Persons
 - Counter 🔥🔥
   - https://github.com/mutualmobile/Counter
+- EMI Calculator for Home, Personal & Car Loan: Calculate your Equated Monthly instalment (EMI) for Home loan, Housing loan, Car loan & Personal loan 🔶
+  - https://github.com/tirupati17/loan-emi-calculator-clean-swift
+  - https://itunes.apple.com/app/id1105890730
 - Rambler.Conferences 
   - https://github.com/rambler-ios/RamblerConferences
 - To do: A to-do list application in viper. 🔥🔥🔥
