@@ -4981,9 +4981,9 @@
       "license": "mit"
     },
       {
-      "title": "My first memory (SwiftIntro)",
+      "title": "My First Memory",
       "category": ["media", "games"],
-      "description": "**Memory game** in Swift fetching images from any Instagram account. Lists **tasks** for you to do in order to learn Swift - at three difficulty levels.",
+      "description": "Introduction to iOS & Swift / memory game implementation fetching images from Instagram",
       "source": "https://github.com/Sajjon/SwiftIntro",
       "tags": ["swift"],
       "license": "gpl-3.0",
