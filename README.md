@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **486** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July  5, 2016*).
+A collaborative list of **487** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July  6, 2016*).
  
 Jump to 
  
@@ -470,6 +470,8 @@ Projects that are not in English have a flag
 - MUDRammer: MUD Client for iPhone and iPad 
   - https://github.com/splinesoft/MUDRammer
   - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
+- My first memory (SwiftIntro): **Memory game** in Swift fetching images from any Instagram account. Lists **tasks** for you to do in order to learn Swift - at three difficulty levels. 🔶
+  - https://github.com/Sajjon/SwiftIntro
 - Neocom for EVE Online: The character management tool for EveOnline MMORG. 
   - https://github.com/mrdepth/Neocom
   - https://itunes.apple.com/app/eveuniverse/id418895101
@@ -740,6 +742,8 @@ Image, video, audio, reading — [back to top](#readme)
   - http://git.ghostscript.com/?p=mupdf.git;a=summary
   - http://mupdf.com/
   - https://itunes.apple.com/app/id482941798
+- My first memory (SwiftIntro): **Memory game** in Swift fetching images from any Instagram account. Lists **tasks** for you to do in order to learn Swift - at three difficulty levels. 🔶
+  - https://github.com/Sajjon/SwiftIntro
 - OCiney: Movie info app 🔥🔥
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/app/id955480687
