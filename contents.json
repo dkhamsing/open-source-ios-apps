@@ -4979,6 +4979,15 @@
       "itunes": "https://itunes.apple.com/app/id1105890730",
       "tags": ["swift", "viper"],
       "license": "mit"
+    },
+      {
+      "title": "My first memory (SwiftIntro)",
+      "category": ["media", "games"],
+      "description": "**Memory game** in Swift fetching images from any Instagram account. Lists **tasks** for you to do in order to learn Swift - at three difficulty levels.",
+      "source": "https://github.com/Sajjon/SwiftIntro",
+      "tags": ["swift"],
+      "license": "gpl-3.0",
+      "stars": 27
     }
   ]
 }
