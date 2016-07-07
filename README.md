@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **487** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July  6, 2016*).
+A collaborative list of **487** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July  7, 2016*).
  
 Jump to 
  
@@ -39,6 +39,7 @@ Jump to
   - [Calendar](#calendar) 
   - [Calculator](#calculator) 
   - [Text](#text) 
+  - [Clock](#clock) 
   - [Timer](#timer) 
 - [Special](#special) 
   - [Appcelerator](#appcelerator) 
@@ -470,7 +471,7 @@ Projects that are not in English have a flag
 - MUDRammer: MUD Client for iPhone and iPad 
   - https://github.com/splinesoft/MUDRammer
   - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
-- My first memory (SwiftIntro): **Memory game** in Swift fetching images from any Instagram account. Lists **tasks** for you to do in order to learn Swift - at three difficulty levels. 🔶
+- My First Memory: Introduction to iOS & Swift / memory game implementation fetching images from Instagram 🔶
   - https://github.com/Sajjon/SwiftIntro
 - Neocom for EVE Online: The character management tool for EveOnline MMORG. 
   - https://github.com/mrdepth/Neocom
@@ -742,7 +743,7 @@ Image, video, audio, reading — [back to top](#readme)
   - http://git.ghostscript.com/?p=mupdf.git;a=summary
   - http://mupdf.com/
   - https://itunes.apple.com/app/id482941798
-- My first memory (SwiftIntro): **Memory game** in Swift fetching images from any Instagram account. Lists **tasks** for you to do in order to learn Swift - at three difficulty levels. 🔶
+- My First Memory: Introduction to iOS & Swift / memory game implementation fetching images from Instagram 🔶
   - https://github.com/Sajjon/SwiftIntro
 - OCiney: Movie info app 🔥🔥
   - https://github.com/florent37/OCiney-iOS
@@ -1217,9 +1218,6 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/owncloud/id543672169
 - Phonetic: Add phonetic keys for Chinese names 🔥🔥
   - https://github.com/iAugux/Phonetic
-- Population Clock: Learn about geography and demographics 
-  - https://github.com/Netfilter-Com/PopulationClock
-  - https://itunes.apple.com/app/population-clock-hd/id590689957
 - Runner-Stats: iPhone app to record running data 
   - https://github.com/hukun01/Runner-Stats
   - https://itunes.apple.com/app/runner-stats/id793443821
@@ -1232,8 +1230,6 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/swiflytics/id1076165139
 - SwiftBlog: Read the official Apple Swift Blog via RSS 🔶
   - https://github.com/BalestraPatrick/SwiftBlog
-- SwiftTextClock: A Swift version of the beautyful QlockTwo 🔶
-  - https://github.com/MichMich/SwiftTextClock
 - Tether: Tethering for non-jailbroken iOS Devices over USB 
   - https://github.com/chrisballinger/Tether-iOS
 - TheReservist: Check availability of iPhones 🔶
@@ -1309,6 +1305,22 @@ Image, video, audio, reading — [back to top](#readme)
 - SwiftNote: Simple note taking app with today widget and iCloud syncing 🔶🔥
   - https://github.com/mslathrop/SwiftNote
 
+### Clock 
+ 
+[back to top](#readme) 
+ 
+- Fibonacc iClock: A clock based off the famous fibonacci sequence. 
+  - https://github.com/scribblemaniac/Fibonacc-iClock
+- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa 🔶
+  - https://github.com/nottombrown/HausClock
+- Natural Language Clock: Display the time as you would speak it 🔶
+  - https://github.com/chadkeck/Natural-Language-Clock
+- Population Clock: Learn about geography and demographics 
+  - https://github.com/Netfilter-Com/PopulationClock
+  - https://itunes.apple.com/app/population-clock-hd/id590689957
+- SwiftTextClock: A Swift version of the beautyful QlockTwo 🔶
+  - https://github.com/MichMich/SwiftTextClock
+
 ### Timer 
  
 [back to top](#readme) 
@@ -1317,8 +1329,6 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/kenshin03/Cherry
 - Coffee Timer 🔶
   - https://github.com/ashfurrow/yourfirstswiftapp
-- Fibonacc iClock: A clock based off the famous fibonacci sequence. 
-  - https://github.com/scribblemaniac/Fibonacc-iClock
 - Fojusi: Work timer with today extension 🔶🔥🔥
   - https://github.com/dasdom/Tomate
   - https://itunes.apple.com/app/fojusi/id923044693
