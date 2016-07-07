@@ -480,7 +480,7 @@
     },
     {
       "title": "Natural Language Clock",
-      "category": "apple-watch",
+      "category": ["apple-watch", "clock"],
       "description": "Display the time as you would speak it",
       "license": "mit",
       "source": "https://github.com/chadkeck/Natural-Language-Clock",
@@ -3122,7 +3122,7 @@
     },
     {
       "title": "Population Clock",
-      "category": "misc",
+      "category": "clock",
       "description": "Learn about geography and demographics",
       "source": "https://github.com/Netfilter-Com/PopulationClock",
       "itunes": "https://itunes.apple.com/app/population-clock-hd/id590689957",
@@ -3754,7 +3754,7 @@
     },
     {
       "title": "HausClock",
-      "category": "reactivecocoa",
+      "category": ["reactivecocoa", "clock"],
       "description": "Minimal Chess Clock using MVVM and ReactiveCocoa",
       "license": "mit",
       "source": "https://github.com/nottombrown/HausClock",
@@ -4207,7 +4207,7 @@
     },
     {
       "title": "Fibonacc iClock",
-      "category": "timer",
+      "category": "clock",
       "description": "A clock based off the famous fibonacci sequence.",
       "license": "gpl-2.0",
       "source": "https://github.com/scribblemaniac/Fibonacc-iClock",
@@ -4879,7 +4879,7 @@
     },
     {
       "title": "SwiftTextClock",
-      "category": "misc",
+      "category": "clock",
       "description": "A Swift version of the beautyful QlockTwo",
       "source": "https://github.com/MichMich/SwiftTextClock",
       "license": "other",
