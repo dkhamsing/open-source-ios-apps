@@ -138,6 +138,11 @@
       "parent": "misc"
     },
     {
+      "title": "Clock",
+      "id": "clock",
+      "parent": "misc"
+    },
+    {
       "title": "Timer",
       "id": "timer",
       "parent": "misc"
