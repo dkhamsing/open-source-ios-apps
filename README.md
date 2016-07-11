@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **489** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 11, 2016*).
+A collaborative list of **490** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 11, 2016*).
  
 Jump to 
  
@@ -544,6 +544,8 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
+- Abby's Cycle: A HealthKit powered menstrual cycle tracker 🔶
+  - https://github.com/jc4p/abby-healthkit
 - Arex: Reminders for taking your medications 🔶
   - https://github.com/a2/arex-7
 - CaseAssistant: Cases recording, study, and sharing for ophthalmologist 🔶🇨🇳🔥
