@@ -4985,7 +4985,7 @@
       "tags": ["swift", "viper"],
       "license": "mit"
     },
-      {
+    {
       "title": "My First Memory",
       "category": ["media", "games"],
       "description": "Introduction to iOS & Swift / memory game implementation fetching images from Instagram",
@@ -4993,6 +4993,15 @@
       "tags": ["swift"],
       "license": "gpl-3.0",
       "stars": 27
+    },
+    {
+      "title": "Tob - Secure browser",
+      "category": ["browser"],
+      "description": "A beautiful Tor browser to protect your anonymity.",
+      "source": "https://github.com/JRock007/Tob",
+      "itunes": "https://itunes.apple.com/app/id1063151782",
+      "license": "mit",
+      "stars": 4
     }
   ]
 }
