@@ -5019,6 +5019,24 @@
       "license": "other",
       "tags": ["swift"],
       "source": "https://github.com/jc4p/abby-healthkit"      
+    },
+    {
+      "title": "Traccar Client",
+      "category": "location",
+      "description": "Report device location to the server",
+      "license": "apache-2.0",
+      "source": "https://github.com/tananaev/traccar-client-ios",
+      "itunes": "https://itunes.apple.com/us/app/traccar-client/id843156974",
+      "stars": 47
+    },
+    {
+      "title": "Traccar Manager",
+      "category": "location",
+      "description": "Track GPS devices on map",
+      "license": "apache-2.0",
+      "source": "https://github.com/tananaev/traccar-manager-ios",
+      "itunes": "https://itunes.apple.com/us/app/traccar-manager/id1113966562",
+      "stars": 0
     }
   ]
 }
