@@ -5011,6 +5011,14 @@
       "source": "https://github.com/kenmickles/unh_tvos",
       "itunes": "https://itunes.apple.com/us/app/id1042172021",
       "stars": 1
+    },
+    {
+      "title": "Abby's Cycle",
+      "category": "health",
+      "description": "A HealthKit powered menstrual cycle tracker",
+      "license": "other",
+      "tags": ["swift"],
+      "source": "https://github.com/jc4p/abby-healthkit"      
     }
   ]
 }
