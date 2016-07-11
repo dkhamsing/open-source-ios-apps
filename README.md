@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **490** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 11, 2016*).
+A collaborative list of **492** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 11, 2016*).
  
 Jump to 
  
@@ -678,6 +678,12 @@ Projects that are not in English have a flag
   - https://github.com/sugarso/MappedInIsrael
 - Swift-Walk-Tracker: An open source walk tracking iOS App 🔶
   - https://github.com/kevinvanderlugt/Swift-Walk-Tracker
+- Traccar Client: Report device location to the server 
+  - https://github.com/tananaev/traccar-client-ios
+  - https://itunes.apple.com/us/app/traccar-client/id843156974
+- Traccar Manager: Track GPS devices on map 
+  - https://github.com/tananaev/traccar-manager-ios
+  - https://itunes.apple.com/us/app/traccar-manager/id1113966562
 - VisitBCN: City guide for Barcelona 
   - https://github.com/maurovc/visitBCN
   - https://itunes.apple.com/app/visitbcn/id904676442
@@ -732,6 +738,10 @@ Image, video, audio, reading — [back to top](#readme)
 - Kodi: A popular media player and entertainment hub. 🔥🔥🔥🔥🔥
   - https://github.com/xbmc/xbmc
   - http://kodi.wiki/view/IOS
+- Kodi Remote: A full-featured remote control for Kodi Media Center. 🔥🔥🔥🔥🔥
+  - https://github.com/xbmc/xbmc
+  - https://kodi.tv/
+  - https://itunes.apple.com/app/id520480364
 - KonaBot: unofficial client for konachan.net 🔶
   - https://github.com/hkalexling/KonaBot-iOS
   - https://itunes.apple.com/app/konabot/id1055716649
@@ -756,10 +766,6 @@ Image, video, audio, reading — [back to top](#readme)
 - OCiney: Movie info app 🔥🔥
   - https://github.com/florent37/OCiney-iOS
   - https://itunes.apple.com/app/id955480687
-- Official Kodi Remote: A full-featured remote control for Kodi Media Center. 🔥🔥🔥🔥🔥
-  - https://github.com/xbmc/xbmc
-  - https://kodi.tv/
-  - https://itunes.apple.com/app/id520480364
 - Open Source Selfie Stick: Sync two iOS devices and use one as a remote control for the other's camera! 
   - https://github.com/RF-Nelson/open-source-selfie-stick
   - https://itunes.apple.com/app/id1084487132
@@ -922,7 +928,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Kodi: A popular media player and entertainment hub. 🔥🔥🔥🔥🔥
   - https://github.com/xbmc/xbmc
   - http://kodi.wiki/view/IOS
-- Official Kodi Remote: A full-featured remote control for Kodi Media Center. 🔥🔥🔥🔥🔥
+- Kodi Remote: A full-featured remote control for Kodi Media Center. 🔥🔥🔥🔥🔥
   - https://github.com/xbmc/xbmc
   - https://kodi.tv/
   - https://itunes.apple.com/app/id520480364
