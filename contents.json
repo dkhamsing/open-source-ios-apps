@@ -1618,8 +1618,8 @@
     {
       "title": "Locative",
       "category": "location",
-      "description": "Helping you to get the best out of your automated home, geofencing, iBeacons at your hand",
-      "source": "https://github.com/LocativeHQ/ios-app",
+      "description": "Helping you to get the best out of your automated home, geofencing, iBeacons",
+      "source": "https://github.com/LocativeHQ/Locative-iOS",
       "itunes": "https://itunes.apple.com/app/locative/id725198453",
       "stars": 163,
       "license": "mit"
@@ -4779,7 +4779,7 @@
       "title": "Meme Maker",
       "category": "media",
       "description": "Create and share memes!",
-      "source": "https://github.com/Meme-Maker/Meme-Maker-iOS",
+      "source": "https://github.com/MemeMaker/Meme-Maker-iOS",
       "itunes": "https://itunes.apple.com/app/id962121383",
       "tags": [
         "swift"
