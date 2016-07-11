@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **488** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 11, 2016*).
+A collaborative list of **489** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 11, 2016*).
  
 Jump to 
  
@@ -90,6 +90,9 @@ Projects that are not in English have a flag
   - https://github.com/4np/UitzendingGemist
 - UitzendingGemist by jeffkreeftmeijer: Dutch Public Broadcasting video on demand 🔶
   - https://github.com/jeffkreeftmeijer/UitzendingGemist
+- Uncle Nagy's House: Uncle Nagy's House tvOS App (TVML app with Gulp tasks for building Jade and CoffeeScript) 
+  - https://github.com/kenmickles/unh_tvos
+  - https://itunes.apple.com/us/app/id1042172021
 - WWDCTV: Watch the WWDC Videos on your Apple TV 🔥🔥
   - https://github.com/azzoor/WWDCTV
 
