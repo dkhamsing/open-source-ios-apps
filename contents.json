@@ -4999,7 +4999,7 @@
       "category": ["emulators"],
       "description": "Early 68K Macintosh emulator",
       "source": "https://github.com/zydeco/minivmac4ios",
-      "homepage": "https://namedfork.net/minivmac",
+      "homepage": "https://namedfork.net/minivmac/",
       "stars": 20,
       "license": "gpl-2.0"
     }
