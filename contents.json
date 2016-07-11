@@ -4985,7 +4985,7 @@
       "tags": ["swift", "viper"],
       "license": "mit"
     },
-      {
+    {
       "title": "My First Memory",
       "category": ["media", "games"],
       "description": "Introduction to iOS & Swift / memory game implementation fetching images from Instagram",
@@ -4993,6 +4993,15 @@
       "tags": ["swift"],
       "license": "gpl-3.0",
       "stars": 27
+    },
+    {
+      "title": "Mini vMac",
+      "category": ["emulators"],
+      "description": "Early 68K Macintosh emulator",
+      "source": "https://github.com/zydeco/minivmac4ios",
+      "homepage": "https://namedfork.net/minivmac/",
+      "stars": 20,
+      "license": "gpl-2.0"
     }
   ]
 }
