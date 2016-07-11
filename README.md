@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **487** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July  7, 2016*).
+A collaborative list of **488** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 11, 2016*).
  
 Jump to 
  
@@ -525,6 +525,9 @@ Projects that are not in English have a flag
   - https://github.com/emufreak/iAmiga
 - MAME4iOS: MAME frontend 
   - https://github.com/yoshisuga/MAME4iOS
+- Mini vMac: Early 68K Macintosh emulator 
+  - https://github.com/zydeco/minivmac4ios
+  - https://namedfork.net/minivmac/
 - nds4ios: Nintendo DS emulator, port of DeSmuME 
   - https://github.com/raaxis/nds4ios
 - PPSSPP: PSP emulator 🔥🔥🔥🔥🔥
@@ -626,8 +629,8 @@ Projects that are not in English have a flag
   - https://github.com/TosinAF/HopperBus-iOS
 - iBeaconTasks: iBeacon TODO reminder app based on Parse 🔥
   - https://github.com/TomekB/iBeaconTasks
-- Locative: Helping you to get the best out of your automated home, geofencing, iBeacons at your hand 🔥
-  - https://github.com/LocativeHQ/ios-app
+- Locative: Helping you to get the best out of your automated home, geofencing, iBeacons 🔥
+  - https://github.com/LocativeHQ/Locative-iOS
   - https://itunes.apple.com/app/locative/id725198453
 - MAPS.ME: Offline maps application with navigation using [OpenStreetMap](https://www.openstreetmap.org) data. 🔥🔥🔥🔥
   - https://github.com/mapsme/omim
@@ -733,7 +736,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Megabite: Turn a photo of your food into a face 🔥🔥
   - https://github.com/AaronRandall/Megabite
 - Meme Maker: Create and share memes! 🔶
-  - https://github.com/Meme-Maker/Meme-Maker-iOS
+  - https://github.com/MemeMaker/Meme-Maker-iOS
   - https://itunes.apple.com/app/id962121383
 - MiamiSunglasses: An app that plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH). 🔶
   - https://github.com/DeveloperACE/MiamiSunglasses
@@ -1318,7 +1321,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Population Clock: Learn about geography and demographics 
   - https://github.com/Netfilter-Com/PopulationClock
   - https://itunes.apple.com/app/population-clock-hd/id590689957
-- SwiftTextClock: A Swift version of the beautyful QlockTwo 🔶
+- SwiftTextClock: A Swift version of the beautiful QlockTwo 🔶
   - https://github.com/MichMich/SwiftTextClock
 
 ### Timer 
@@ -1597,7 +1600,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 ## Bonus
 
-See [archive](ARCHIVE.md), [mac-apps](https://github.com/jeffreyjackson/mac-apps), [awesome-osx](https://github.com/iCHAIT/awesome-osx) and [android-apps](https://github.com/pcqpcq/open-source-android-apps).
+See [archive](ARCHIVE.md), [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) and [android-apps](https://github.com/pcqpcq/open-source-android-apps).
 
 ## Thanks
 
