@@ -396,6 +396,7 @@ Projects that are not in English have a flag
  
 - 2048 in Objective-C 🔥
   - https://github.com/austinzheng/iOS-2048
+  - https://github.com/danqing/2048 (SpriteKit)
 - 2048 in Swift 🔶🔥🔥🔥🔥🔥
   - https://github.com/austinzheng/swift-2048
 - Aeropack: A steampunk retro 2d platformer. 
