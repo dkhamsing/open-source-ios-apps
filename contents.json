@@ -5045,7 +5045,7 @@
       "source": "https://github.com/danqing/2048",
       "stars": 803
     },
-	{
+     {
       "title": "Swab",
       "category": ["content-blocking"],
       "description": "The Content Blocker of Creative, Web and Design Culture Ads",
@@ -5054,6 +5054,16 @@
       "homepage": "http://swabthe.com/",
       "itunes": "https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002",      
       "tags": ["swift"]
-	}
+      },
+    {
+      "title": "DropColour Game in Swift 2.2",
+      "category": "games",
+      "description": "Arcade game in which you simply have to drag and drop one circle onto another of the same color.",
+      "source": "https://github.com/elpassion/DropColour-iOS",
+      "itunes": "https://itunes.apple.com/pl/app/dropcolour/id1046339763?mt=8",
+      "stars": 42,
+      "license": "MIT",
+      "tags": ["swift"]
+    }
   ]
 }
