@@ -5052,14 +5052,14 @@
       "license": "bsd-3-clause",
       "source": "https://github.com/pkamb/swab",
       "homepage": "http://swabthe.com/",
-      "itunes": "https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002",      
+      "itunes": "https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002",
       "tags": ["swift"]
     },
     {
       "title": "SHMUP",
       "category": "games",
       "description": "3D multiplatform game written primarily in C",
-      "license": "gpl",
+      "license": "other",
       "homepage": "http://fabiensanglard.net/shmup/",
       "source": "https://github.com/fabiensanglard/Shmup",
       "itunes": "https://itunes.apple.com/app/shmup/id337663605",
