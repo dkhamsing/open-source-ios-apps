@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **501** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
+A collaborative list of **502** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
  
 Jump to 
  
@@ -957,6 +957,10 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/ilTofa/rposx
   - https://www.iltofa.com/rphd/
   - https://itunes.apple.com/app/id663334697
+- Scholars of WWDC: The official app of the WWDC Scholarship Recipients 🔶
+  - https://github.com/WWDCScholars/WWDCScholars-iOS
+  - http://wwdcscholars.com/
+  - https://itunes.apple.com/app/scholars-of-wwdc/id999731893
 - VLC: Media Player 🔥🔥🔥🔥
   - https://github.com/videolan/vlc
   - https://www.videolan.org/
