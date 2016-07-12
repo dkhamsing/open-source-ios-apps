@@ -1,6 +1,6 @@
 {
   "title": "Open-Source iOS Apps",
-  "description": "<!-- \n⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ \n-->",
+  "description": "<!-- \n⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ \n https://github.com/dkhamsing/open-source-ios-apps -->",
   "header": "```\n🔶 Swift projects\n\nProjects that are not in English have a flag\n🇨🇳 Project is in Chinese\n🇪🇸 Project is in Spanish, etc\n\n 100+ Stars: 🔥\n 200+ Stars: 🔥🔥\n 500+ Stars: 🔥🔥🔥\n1000+ Stars: 🔥🔥🔥🔥\n2000+ Stars: 🔥🔥🔥🔥🔥\n```",
   "footer": "## Bonus\n\nSee [archive](ARCHIVE.md), [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) and [android-apps](https://github.com/pcqpcq/open-source-android-apps).\n\n## Thanks\n\nThis list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift). Thanks to all the [contributors](https://github.com/dkhamsing/open-source-ios-apps/graphs/contributors) 🎉 \n\n## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n",
   "categories": [
