@@ -1110,9 +1110,8 @@
       "license": "mit"
     },
     {
-      "title": "翻翻看",
+      "title": "Concentration game (翻翻看)",
       "category": "games",
-      "description": "Concentration game",
       "lang": "zho",
       "source": "https://github.com/geek5nan/FanFanSwift",
       "stars": 186,
@@ -5045,14 +5044,75 @@
       "source": "https://github.com/danqing/2048",
       "stars": 803
     },
-	{
+    {
       "title": "Swab",
       "category": ["content-blocking"],
       "description": "The Content Blocker of Creative, Web and Design Culture Ads",
       "license": "bsd-3-clause",
       "source": "https://github.com/pkamb/swab",
       "homepage": "http://swabthe.com/",
-      "itunes": "https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002",      
+      "itunes": "https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002",
+      "tags": ["swift"]
+    },
+    {
+      "title": "SHMUP",
+      "category": "games",
+      "description": "3D multiplatform game written primarily in C",
+      "license": "gpl-3.0",
+      "homepage": "http://fabiensanglard.net/shmup/",
+      "source": "https://github.com/fabiensanglard/Shmup",
+      "itunes": "https://itunes.apple.com/app/shmup/id337663605",
+      "stars": 161
+    },
+    {
+      "title": "Themoji",
+      "category": "misc",
+      "license": "other",
+      "description": "Use Emojis to communicate while traveling",
+      "homepage": "https://themoji.me/",
+      "source": "https://github.com/themoji/ios"
+    },
+    {
+      "title": "Blink",
+      "category": "developer",
+      "license": "gpl-3.0",
+      "description": "Mobile shell terminal based on Mosh",
+      "source": "https://github.com/blinksh/blink"
+    },{
+        "title": "Count It",
+        "category": ["rxswift", "apple-watch"],
+        "description": "Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything.",
+        "source": "https://github.com/PiXeL16/CountItApp",
+        "itunes": "https://itunes.apple.com/app/id1098893335",
+        "stars": 10,
+        "tags": ["swift"]
+    },
+    {
+        "title": "Send To Me",
+        "category": "tasks",
+        "description": "Share content to your email with a single tap.",
+        "source": "https://github.com/PiXeL16/SendToMe",
+        "itunes": "https://itunes.apple.com/app/id1100027787",
+        "stars": 8,
+        "tags": ["swift"]
+      },
+      {
+      "title": "Tob - Secure browser",
+      "category": ["browser"],
+      "description": "A beautiful Tor browser to protect your anonymity.",
+      "source": "https://github.com/JRock007/Tob",
+      "itunes": "https://itunes.apple.com/app/id1063151782",
+      "license": "mit",
+      "stars": 4
+    },
+    {
+      "title": "DropColour Game in Swift 2.2",
+      "category": "games",
+      "description": "Arcade game in which you simply have to drag and drop one circle onto another of the same color.",
+      "source": "https://github.com/elpassion/DropColour-iOS",
+      "itunes": "https://itunes.apple.com/app/dropcolour/id1046339763",
+      "stars": 42,
+      "license": "mit",
       "tags": ["swift"]
 	},
 	{
