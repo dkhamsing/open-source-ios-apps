@@ -5064,6 +5064,14 @@
       "source": "https://github.com/fabiensanglard/Shmup",
       "itunes": "https://itunes.apple.com/app/shmup/id337663605",
       "stars": 161
+    },
+    {
+      "title": "Themoji",
+      "category": "misc",
+      "license": "other",
+      "description": "Use Emojis to communicate while traveling",
+      "homepage": "https://themoji.me/",
+      "source": "https://github.com/themoji/ios"
     }
   ]
 }
