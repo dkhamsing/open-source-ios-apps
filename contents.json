@@ -5044,6 +5044,16 @@
       "license": "mit",
       "source": "https://github.com/danqing/2048",
       "stars": 803
-    }
+    },
+	{
+      "title": "Swab",
+      "category": ["content-blocking"],
+      "description": "The Content Blocker of Creative, Web and Design Culture Ads",
+      "license": "bsd-3-clause",
+      "source": "https://github.com/pkamb/swab",
+      "homepage": "http://swabthe.com/",
+      "itunes": "https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002",      
+      "tags": ["swift"]
+	}
   ]
 }
