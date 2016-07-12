@@ -4995,6 +4995,7 @@
       "stars": 27
     },
     {
+<<<<<<< HEAD
       "title": "Mini vMac",
       "category": ["emulators"],
       "description": "Early 68K Macintosh emulator",
@@ -5079,6 +5080,23 @@
       "license": "gpl-3.0",
       "description": "Mobile shell terminal based on Mosh",
       "source": "https://github.com/blinksh/blink"
+    },{
+        "title": "Count It",
+        "category": ["rxswift", "apple-watch"],
+        "description": "Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything.",
+        "source": "https://github.com/PiXeL16/CountItApp",
+        "itunes": "https://itunes.apple.com/app/id1098893335",
+        "stars": 10,
+        "tags": ["swift"]
+    },
+    {
+        "title": "Send To Me",
+        "category": "tasks",
+        "description": "Share content to your email with a single tap.",
+        "source": "https://github.com/PiXeL16/SendToMe",
+        "itunes": "https://itunes.apple.com/app/id1100027787",
+        "stars": 8,
+        "tags": ["swift"]
     }
   ]
 }
