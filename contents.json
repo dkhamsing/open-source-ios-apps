@@ -5059,7 +5059,7 @@
       "title": "Scholars of WWDC",
       "category": ["official"],
       "description": "The official app of the WWDC Scholarship Recipients",
-      "license": "MIT",
+      "license": "mit",
       "source": "https://github.com/WWDCScholars/WWDCScholars-iOS",
       "homepage": "http://wwdcscholars.com/",
       "itunes": "https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8",      
