@@ -5096,6 +5096,15 @@
         "itunes": "https://itunes.apple.com/app/id1100027787",
         "stars": 8,
         "tags": ["swift"]
+      },
+      {
+      "title": "Tob - Secure browser",
+      "category": ["browser"],
+      "description": "A beautiful Tor browser to protect your anonymity.",
+      "source": "https://github.com/JRock007/Tob",
+      "itunes": "https://itunes.apple.com/app/id1063151782",
+      "license": "mit",
+      "stars": 4
     }
   ]
 }
