@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **494** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
+A collaborative list of **496** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
  
 Jump to 
  
@@ -501,6 +501,10 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/scary-flight/id824428528
 - SceneKitFrogger 🔶
   - https://github.com/devindazzle/SceneKitFrogger
+- SHMUP: 3D multiplatform game written primarily in C 🔥
+  - https://github.com/fabiensanglard/Shmup
+  - http://fabiensanglard.net/shmup/
+  - https://itunes.apple.com/app/shmup/id337663605
 - Skeleton Key: A puzzle game where you must shift keys around a board to unlock treasure chests. 🔥
   - https://github.com/insurgentgames/Skeleton-Key-iOS
 - Spare Parts: Simple 2D point and line physics using Verlet integration 
@@ -1252,6 +1256,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/BalestraPatrick/SwiftBlog
 - Tether: Tethering for non-jailbroken iOS Devices over USB 
   - https://github.com/chrisballinger/Tether-iOS
+- Themoji: Use Emojis to communicate while traveling 
+  - https://github.com/themoji/ios
+  - https://themoji.me/
 - TheReservist: Check availability of iPhones 🔶
   - https://github.com/kimar/TheReservist
 - Theseus: Personal analytics tool 🔥🔥🔥
