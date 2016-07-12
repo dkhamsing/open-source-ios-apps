@@ -5114,6 +5114,16 @@
       "stars": 42,
       "license": "mit",
       "tags": ["swift"]
-    }
+	},
+	{
+      "title": "Scholars of WWDC",
+      "category": ["official"],
+      "description": "The official app of the WWDC Scholarship Recipients",
+      "license": "mit",
+      "source": "https://github.com/WWDCScholars/WWDCScholars-iOS",
+      "homepage": "http://wwdcscholars.com/",
+      "itunes": "https://itunes.apple.com/app/scholars-of-wwdc/id999731893",      
+      "tags": ["swift"]
+	}
   ]
 }
