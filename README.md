@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
 -->
 
-A collaborative list of **492** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 11, 2016*).
+A collaborative list of **493** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
  
 Jump to 
  
@@ -396,6 +396,8 @@ Projects that are not in English have a flag
  
 - 2048 in Objective-C 🔥
   - https://github.com/austinzheng/iOS-2048
+- 2048 in Objective-C 🔥🔥🔥
+  - https://github.com/danqing/2048
 - 2048 in Swift 🔶🔥🔥🔥🔥🔥
   - https://github.com/austinzheng/swift-2048
 - Aeropack: A steampunk retro 2d platformer. 
