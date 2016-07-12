@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **497** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
+A collaborative list of **499** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
  
 Jump to 
  
@@ -124,6 +124,9 @@ Projects that are not in English have a flag
 - Cortado: Track your caffeine consumption habits 🔥
   - https://github.com/lazerwalker/cortado
   - https://itunes.apple.com/app/cortado/id969899327
+- Count It: Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything. 🔶
+  - https://github.com/PiXeL16/CountItApp
+  - https://itunes.apple.com/app/id1098893335
 - Done: Data sharing between a WatchKit app and its main app using Realm 🔶
   - https://github.com/FancyPixel/done-swift
 - FlickrWatch: Apple Watch face using Flickr API 
@@ -1104,6 +1107,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/imod/MyAwesomeChecklist
 - RealmToDo: A small todo list with Realm integration 🔶
   - https://github.com/pietbrauer/RealmToDo
+- Send To Me: Share content to your email with a single tap. 🔶
+  - https://github.com/PiXeL16/SendToMe
+  - https://itunes.apple.com/app/id1100027787
 - Swift Off: Firebase powered to do app built in Swift, includes tutorial 🔶
   - https://github.com/goprimer/swift-off-todo
 - Task Coach: A simple toto manager designed for composite tasks. 
@@ -1574,6 +1580,9 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Count It: Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything. 🔶
+  - https://github.com/PiXeL16/CountItApp
+  - https://itunes.apple.com/app/id1098893335
 - GitHub API Client: GitHub client using MVVM and RxSwift 🔶🔥
   - https://github.com/tailec/boilerplate
 - Kiosk: The Artsy auction kiosk app, uses RxSwift 🔶🔥🔥🔥🔥
