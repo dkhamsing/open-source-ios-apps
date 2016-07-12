@@ -5058,7 +5058,7 @@
     {
       "title": "DropColour Game in Swift 2.2",
       "category": "games",
-      "description": "Open-Source Arcade Game for iOS",
+      "description": "Arcade game in which you simply have to drag and drop one circle onto another of the same color.",
       "source": "https://github.com/elpassion/DropColour-iOS",
       "itunes": "https://itunes.apple.com/pl/app/dropcolour/id1046339763?mt=8",
       "stars": 42,
