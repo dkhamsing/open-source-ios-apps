@@ -5062,7 +5062,7 @@
       "license": "mit",
       "source": "https://github.com/WWDCScholars/WWDCScholars-iOS",
       "homepage": "http://wwdcscholars.com/",
-      "itunes": "https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8",      
+      "itunes": "https://itunes.apple.com/app/scholars-of-wwdc/id999731893",      
       "tags": ["swift"]
 	}
   ]
