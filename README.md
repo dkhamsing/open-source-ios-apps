@@ -2,9 +2,9 @@
 
 <!-- 
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
--->
+ https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **493** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
+A collaborative list of **494** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
  
 Jump to 
  
@@ -288,6 +288,10 @@ Projects that are not in English have a flag
   - https://github.com/krishkumar/BlockParty
 - Focus: Content blocker by Firefox 🔶🔥🔥
   - https://github.com/mozilla/focus
+- Swab: The Content Blocker of Creative, Web and Design Culture Ads 🔶
+  - https://github.com/pkamb/swab
+  - http://swabthe.com/
+  - https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002
 
 ## Developer 
  
@@ -396,7 +400,7 @@ Projects that are not in English have a flag
  
 - 2048 in Objective-C 🔥
   - https://github.com/austinzheng/iOS-2048
-- 2048 in Objective-C 🔥🔥🔥
+- 2048 in Objective-C using SpriteKit 🔥🔥🔥
   - https://github.com/danqing/2048
 - 2048 in Swift 🔶🔥🔥🔥🔥🔥
   - https://github.com/austinzheng/swift-2048
