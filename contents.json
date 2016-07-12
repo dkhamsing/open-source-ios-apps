@@ -1110,9 +1110,8 @@
       "license": "mit"
     },
     {
-      "title": "翻翻看",
-      "category": "games",
-      "description": "Concentration game",
+      "title": "Concentration game (翻翻看)",
+      "category": "games",      
       "lang": "zho",
       "source": "https://github.com/geek5nan/FanFanSwift",
       "stars": 186,
