@@ -434,6 +434,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/chuck/id1050453297
 - CodeCombat: Multiplayer programming game for learning how to code 
   - https://github.com/codecombat/codecombat-ios
+- Concentration game (翻翻看) 🔶🇨🇳🔥
+  - https://github.com/geek5nan/FanFanSwift
 - Cryptose: Solve cryptograms as a Hacker, Detective, or Spy. 
   - https://github.com/insurgentgames/Cryptose
 - DOOM: Doom Classic for iOS 🔥🔥
@@ -531,8 +533,6 @@ Projects that are not in English have a flag
   - http://7b5labs.com/xpilot.git/
   - http://7b5labs.com/xpilotiphone
   - https://itunes.apple.com/app/id322114791
-- 翻翻看: Concentration game 🔶🇨🇳🔥
-  - https://github.com/geek5nan/FanFanSwift
 
 ### Emulators 
  
