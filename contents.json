@@ -5018,7 +5018,7 @@
       "description": "A HealthKit powered menstrual cycle tracker",
       "license": "other",
       "tags": ["swift"],
-      "source": "https://github.com/jc4p/abby-healthkit"      
+      "source": "https://github.com/jc4p/abby-healthkit"
     },
     {
       "title": "Traccar Client",
@@ -5039,7 +5039,7 @@
       "stars": 0
     },
     {
-      "title": "2048 in Objective-C",
+      "title": "2048 in Objective-C using SpriteKit",
       "category": "games",
       "license": "mit",
       "source": "https://github.com/danqing/2048",
