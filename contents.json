@@ -5045,7 +5045,7 @@
       "source": "https://github.com/danqing/2048",
       "stars": 803
     },
-	{
+    {
       "title": "Swab",
       "category": ["content-blocking"],
       "description": "The Content Blocker of Creative, Web and Design Culture Ads",
@@ -5054,6 +5054,16 @@
       "homepage": "http://swabthe.com/",
       "itunes": "https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002",      
       "tags": ["swift"]
-	}
+    },
+    {
+      "title": "SHMUP",
+      "category": "games",
+      "description": "3D multiplatform game written primarily in C",
+      "license": "gpl",
+      "homepage": "http://fabiensanglard.net/shmup/",
+      "source": "https://github.com/fabiensanglard/Shmup",
+      "itunes": "https://itunes.apple.com/app/shmup/id337663605",
+      "stars": 161
+    }
   ]
 }
