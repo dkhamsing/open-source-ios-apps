@@ -1111,7 +1111,7 @@
     },
     {
       "title": "Concentration game (翻翻看)",
-      "category": "games",      
+      "category": "games",
       "lang": "zho",
       "source": "https://github.com/geek5nan/FanFanSwift",
       "stars": 186,
@@ -5058,7 +5058,7 @@
       "title": "SHMUP",
       "category": "games",
       "description": "3D multiplatform game written primarily in C",
-      "license": "other",
+      "license": "gpl-3.0",
       "homepage": "http://fabiensanglard.net/shmup/",
       "source": "https://github.com/fabiensanglard/Shmup",
       "itunes": "https://itunes.apple.com/app/shmup/id337663605",
