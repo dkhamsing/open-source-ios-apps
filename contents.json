@@ -5072,6 +5072,13 @@
       "description": "Use Emojis to communicate while traveling",
       "homepage": "https://themoji.me/",
       "source": "https://github.com/themoji/ios"
+    },
+    {
+      "title": "Blink",
+      "category": "developer",
+      "license": "gpl-3.0",
+      "description": "Mobile shell terminal based on Mosh",
+      "source": "https://github.com/blinksh/blink"
     }
   ]
 }
