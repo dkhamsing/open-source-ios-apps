@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **499** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
+A collaborative list of **500** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
  
 Jump to 
  
@@ -200,6 +200,9 @@ Projects that are not in English have a flag
   - https://github.com/mtigas/iOS-OnionBrowser
   - https://mike.tig.as/onionbrowser/
   - https://itunes.apple.com/app/id519296448
+- Tob - Secure browser: A beautiful Tor browser to protect your anonymity. 
+  - https://github.com/JRock007/Tob
+  - https://itunes.apple.com/app/id1063151782
 
 ## Communication 
  
@@ -528,7 +531,7 @@ Projects that are not in English have a flag
   - http://7b5labs.com/xpilot.git/
   - http://7b5labs.com/xpilotiphone
   - https://itunes.apple.com/app/id322114791
-- Concentration game (翻翻看) 🔶🇨🇳🔥
+- 翻翻看: Concentration game 🔶🇨🇳🔥
   - https://github.com/geek5nan/FanFanSwift
 
 ### Emulators 
