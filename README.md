@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **496** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
+A collaborative list of **497** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
  
 Jump to 
  
@@ -306,6 +306,8 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/id511327336
 - Bequest: Create and replay HTTP/S requests 🔶
   - https://github.com/splinesoft/Bequest
+- Blink: Mobile shell terminal based on Mosh 
+  - https://github.com/blinksh/blink
 - Charter: A Swift mailing list client for iPhone and iPad 🔶🔥🔥
   - https://github.com/matthewpalmer/Charter
   - https://itunes.apple.com/app/charter-mailing-list-client/id1082212697
