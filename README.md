@@ -528,7 +528,7 @@ Projects that are not in English have a flag
   - http://7b5labs.com/xpilot.git/
   - http://7b5labs.com/xpilotiphone
   - https://itunes.apple.com/app/id322114791
-- 翻翻看: Concentration game 🔶🇨🇳🔥
+- Concentration game (翻翻看) 🔶🇨🇳🔥
   - https://github.com/geek5nan/FanFanSwift
 
 ### Emulators 
