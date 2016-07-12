@@ -5037,6 +5037,13 @@
       "source": "https://github.com/tananaev/traccar-manager-ios",
       "itunes": "https://itunes.apple.com/us/app/traccar-manager/id1113966562",
       "stars": 0
+    },
+    {
+      "title": "2048 in Objective-C",
+      "category": "games",
+      "license": "mit",
+      "source": "https://github.com/danqing/2048",
+      "stars": 803
     }
   ]
 }
