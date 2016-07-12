@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **500** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
+A collaborative list of **501** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
  
 Jump to 
  
@@ -447,6 +447,9 @@ Projects that are not in English have a flag
 - Dragon Shout App 2: A social journal for the Elder Scrolls® series. 
   - https://github.com/rblalock/dragon_shout_app_open_source
   - https://itunes.apple.com/app/id690208182
+- DropColour Game in Swift 2.2: Arcade game in which you simply have to drag and drop one circle onto another of the same color. 🔶
+  - https://github.com/elpassion/DropColour-iOS
+  - https://itunes.apple.com/app/dropcolour/id1046339763
 - Dungeon Crawl: A game of dungeon exploration, combat and magic, involving characters of diverse skills 
   - https://github.com/CliffsDover/crawl
   - https://github.com/CliffsDover/crawl/tree/iOS_Release
