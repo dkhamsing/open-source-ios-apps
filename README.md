@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **502** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 12, 2016*).
+A collaborative list of **503** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 13, 2016*).
  
 Jump to 
  
@@ -1296,6 +1296,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/soffes/words
 - WWDC Students: WWDC scholarship entry apps 🔶🔥
   - https://github.com/wwdc
+- YaleMobile: App for Yale University students 
+  - https://github.com/kiokoo/YaleMobile
+  - https://itunes.apple.com/app/yale-mobile/id497588523
 - Yorkie: This app will help you take care of your dog 
   - https://github.com/carlbutron/YorkieApp
   - https://itunes.apple.com/app/Yorkie/id1000836606
