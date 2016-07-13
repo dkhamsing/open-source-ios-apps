@@ -5122,8 +5122,16 @@
       "license": "mit",
       "source": "https://github.com/WWDCScholars/WWDCScholars-iOS",
       "homepage": "http://wwdcscholars.com/",
-      "itunes": "https://itunes.apple.com/app/scholars-of-wwdc/id999731893",      
+      "itunes": "https://itunes.apple.com/app/scholars-of-wwdc/id999731893",
       "tags": ["swift"]
-	}
+	},
+  {
+      "title": "YaleMobile",
+      "category": "misc",
+      "description": "App for Yale University students",
+      "license": "mit",
+      "source": "https://github.com/kiokoo/YaleMobile",
+      "itunes": "https://itunes.apple.com/app/yale-mobile/id497588523"
+  }
   ]
 }
