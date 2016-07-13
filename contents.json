@@ -5132,6 +5132,14 @@
       "license": "mit",
       "source": "https://github.com/kiokoo/YaleMobile",
       "itunes": "https://itunes.apple.com/app/yale-mobile/id497588523"
+  },
+  {
+    "title": "Find My Bus NJ",
+    "category": "location",
+    "description": "Track NJ Transit bus times",
+    "source": "https://github.com/findmybusnj/findmybusnj-swift",
+    "tags": ["swift"],
+    "license": "gpl-3.0"
   }
   ]
 }
