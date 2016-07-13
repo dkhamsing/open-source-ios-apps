@@ -1626,7 +1626,7 @@
     {
       "title": "Moves",
       "category": "location",
-      "description": "Visualize which places you spent the most time at",
+      "description": "Visualize where you spend your time",
       "license": "mit",
       "source": "https://github.com/neonichu/Places",
       "stars": 33
