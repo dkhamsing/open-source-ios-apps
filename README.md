@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **503** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 13, 2016*).
+A collaborative list of **504** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 13, 2016*).
  
 Jump to 
  
@@ -649,6 +649,8 @@ Projects that are not in English have a flag
 - EatNow: Get recommendations for nearby restaurants. 
   - https://github.com/callzhang/Eat-Now
   - https://itunes.apple.com/app/eat-now-instant-personalized/id946591471
+- Find My Bus NJ: Track NJ Transit bus times 🔶
+  - https://github.com/findmybusnj/findmybusnj-swift
 - GeoTappy: Share your location 
   - https://github.com/GeoTappy/GeoTappy-iOS
 - HopperBus: Timetable for the University of Nottingham Hopper Bus 🔶
@@ -666,7 +668,7 @@ Projects that are not in English have a flag
   - https://github.com/miataru/miataru-ios-client
   - http://miataru.com/ios/
   - https://itunes.apple.com/app/id717539389
-- Moves: Visualize which places you spent the most time at 
+- Moves: Visualize where you spend your time 
   - https://github.com/neonichu/Places
 - Neverlate: Pay-if-U-R-late app using geofences and Venmo API 
   - https://github.com/ayunav/Neverlate
@@ -897,7 +899,7 @@ Image, video, audio, reading — [back to top](#readme)
 - The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan 🔶🔥🔥
   - https://github.com/aclissold/the-oakland-post
   - https://itunes.apple.com/app/oakland-post/id931152313
-- v2ex: An iOS client for the technical and creative website v2ex.com 🇨🇳🔥🔥🔥🔥
+- v2ex: An app for the technical and creative website v2ex.com 🇨🇳🔥🔥🔥🔥
   - https://github.com/singro/v2ex
   - https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535
 
