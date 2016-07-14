@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **505** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 14, 2016*).
+A collaborative list of **506** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 14, 2016*).
  
 Jump to 
  
@@ -1049,6 +1049,10 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/mattrubin/authenticator
   - https://mattrubin.me/authenticator/
   - https://itunes.apple.com/app/id766157276
+- Dono: Password derivation tool 🔶
+  - https://github.com/dono-app/ios/
+  - https://dono-app.github.io/
+  - https://itunes.apple.com/app/id1092920229
 - Encryptr: A zero-knowledge, cloud-based e-wallet and password manager. 🔥🔥🔥🔥
   - https://github.com/SpiderOak/Encryptr
   - https://spideroak.com/solutions/encryptr
@@ -1156,7 +1160,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Tropos: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
   - https://github.com/thoughtbot/Tropos
   - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376
-- WeatherApp: Weather app by jsphkhan using React Native 
+- Weather by jsphkhan: Weather app using React Native 
   - https://github.com/jsphkhan/ReactNativeExamples
   - https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
 - WeatherMap: Weather around you in a glance, uses OpenWeatherMap 🔶🔥🔥
@@ -1515,7 +1519,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/JoeStanton/london-react
 - Movies: App by Facebook 
   - https://github.com/facebook/react-native/tree/master/Examples/Movies
-- NBAreact: App for NBA stats and standings 
+- NBAreact: NBA stats and standings 
   - https://github.com/jbkuczma/NBAreact
 - newswatch: News app using YouTube playlists 
   - https://github.com/bradoyler/newswatch-react-native
@@ -1549,9 +1553,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/IFours/react-native-twitch
 - UIExplorer: App by Facebook 
   - https://github.com/facebook/react-native/tree/master/Examples/UIExplorer
-- Weather: by JakeLin 
+- Weather by JakeLin 
   - https://github.com/JakeLin/ReactNativeWeather
-- WeatherApp: Weather app by jsphkhan using React Native 
+- Weather by jsphkhan: Weather app using React Native 
   - https://github.com/jsphkhan/ReactNativeExamples
   - https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
 
