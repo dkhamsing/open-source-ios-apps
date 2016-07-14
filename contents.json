@@ -1569,7 +1569,7 @@
     {
       "title": "DoctorNearby",
       "category": "location",
-      "description": "Is a healthcare app, which helps you find doctors in your city",
+      "description": "Helps you find doctors in your city",
       "source": "https://github.com/vincezzh/doctornearby-ios",
       "itunes": "https://itunes.apple.com/app/doctor-nearby/id1068715113",
       "stars": 2,
