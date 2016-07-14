@@ -5144,7 +5144,8 @@
   {
     "title": "NBAreact",
     "category": "react-native",
-    "description": "App for NBA stats and standings",
+    "description": "NBA stats and standings",
+    "license": "mit",
     "source": "https://github.com/jbkuczma/NBAreact"	
   }
   ]
