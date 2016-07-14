@@ -1578,7 +1578,7 @@
     {
       "title": "EatNow",
       "category": "location",
-      "description": "Get recommendations for nearby restaurants.",
+      "description": "Get recommendations for restaurants nearby",
       "source": "https://github.com/callzhang/Eat-Now",
       "itunes": "https://itunes.apple.com/app/eat-now-instant-personalized/id946591471",
       "stars": 26,
