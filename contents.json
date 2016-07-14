@@ -5140,6 +5140,12 @@
     "source": "https://github.com/findmybusnj/findmybusnj-swift",
     "tags": ["swift"],
     "license": "gpl-3.0"
+  }, 
+  {
+    "title": "NBAreact",
+    "category": "react-native",
+    "description": "App for NBA stats and standings",
+    "source": "https://github.com/jbkuczma/NBAreact"	
   }
   ]
 }
