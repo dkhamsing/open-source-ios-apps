@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **504** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 13, 2016*).
+A collaborative list of **505** open-source iOS apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 14, 2016*).
  
 Jump to 
  
@@ -641,12 +641,12 @@ Projects that are not in English have a flag
 - Closebox: Find the Closest Postbox 
   - https://github.com/peteog/Closebox
   - https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813
-- DoctorNearby: Is a healthcare app, which helps you find doctors in your city 
+- DoctorNearby: Helps you find doctors in your city 
   - https://github.com/vincezzh/doctornearby-ios
   - https://itunes.apple.com/app/doctor-nearby/id1068715113
 - Doppio: Finds the nearest Starbucks 🔥🔥🔥
   - https://github.com/chroman/Doppio
-- EatNow: Get recommendations for nearby restaurants. 
+- EatNow: Get recommendations for restaurants nearby 
   - https://github.com/callzhang/Eat-Now
   - https://itunes.apple.com/app/eat-now-instant-personalized/id946591471
 - Find My Bus NJ: Track NJ Transit bus times 🔶
@@ -1515,6 +1515,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/JoeStanton/london-react
 - Movies: App by Facebook 
   - https://github.com/facebook/react-native/tree/master/Examples/Movies
+- NBAreact: App for NBA stats and standings 
+  - https://github.com/jbkuczma/NBAreact
 - newswatch: News app using YouTube playlists 
   - https://github.com/bradoyler/newswatch-react-native
 - NortalTechDay: Nortal TechDay 2015 app 🔥
