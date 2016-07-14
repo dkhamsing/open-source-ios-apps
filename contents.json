@@ -2797,12 +2797,12 @@
       "stars": 1292
     },
     {
-      "title": "WeatherApp",
+      "title": "Weather by jsphkhan",
       "category": [
         "weather",
         "react-native"
       ],
-      "description": "Weather app by jsphkhan using React Native",
+      "description": "Weather app using React Native",
       "homepage": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp",
       "source": "https://github.com/jsphkhan/ReactNativeExamples",
       "license": "mit",
@@ -3704,9 +3704,8 @@
       "license": "other"
     },
     {
-      "title": "Weather",
+      "title": "Weather by JakeLin",
       "category": "react-native",
-      "description": "by JakeLin",
       "license": "mit",
       "source": "https://github.com/JakeLin/ReactNativeWeather",
       "stars": 12
