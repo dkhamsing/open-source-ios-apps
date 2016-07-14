@@ -1140,7 +1140,7 @@
     "title": "Alienblast",
     "category": "games",
     "description": "Cute and sweet game developed by Swift, Coco2d and Spritebuilder.",
-    "homepage": "https://github.com/etamity/AlienBlast",
+    "source": "https://github.com/etamity/AlienBlast",
     "tags": ["iOS","swift"]
    },
     {
