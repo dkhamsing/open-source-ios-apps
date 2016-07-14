@@ -5150,10 +5150,11 @@
   {
     "title": "Dono",
     "category": "security",
-    "description": "Password Derivation Tool",
+    "description": "Password derivation tool",
     "homepage": "https://dono-app.github.io/",
     "itunes": "https://itunes.apple.com/app/id1092920229",
     "source": "https://github.com/dono-app/ios/",
+    "tags": ["swift"],
     "license": "gpl-3.0"
   }
   ]
