@@ -5139,7 +5139,7 @@
     "source": "https://github.com/findmybusnj/findmybusnj-swift",
     "tags": ["swift"],
     "license": "gpl-3.0"
-  }, 
+  },
   {
     "title": "NBAreact",
     "category": "react-native",
@@ -5152,7 +5152,7 @@
     "category": "security",
     "description": "Password Derivation Tool",
     "homepage": "https://dono-app.github.io/",
-    "itunes": "https://itunes.apple.com/no/app/id1092920229?mt=8",
+    "itunes": "https://itunes.apple.com/app/id1092920229",
     "source": "https://github.com/dono-app/ios/",
     "license": "gpl-3.0"
   }
