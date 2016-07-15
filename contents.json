@@ -230,7 +230,7 @@
         "apple-tv",
         "media"
       ],
-      "description": "Watch video from ex.ua",
+      "description": "Watch videos from ex.ua",
       "license": "lgpl-2.1",
       "source": "https://github.com/IGRSoft/exTVPlayer",
       "stars": 8
