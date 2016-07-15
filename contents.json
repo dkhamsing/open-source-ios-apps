@@ -5160,7 +5160,7 @@
   {
     "title": "Post Manager",
     "category": "social",
-    "description": "post/schedule twitter posts like buffer + node.js backend + share extension",
+    "description": "Post/schedule Twitter posts like Buffer + node.js backend + share extension",
     "source": "https://github.com/TomekB/PostManager",
     "tags": [
       "swift"
