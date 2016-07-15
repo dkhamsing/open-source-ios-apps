@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **506** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 14, 2016*).
+A collaborative list of **507** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 15, 2016*).
  
 Jump to 
  
@@ -1099,6 +1099,8 @@ Image, video, audio, reading — [back to top](#readme)
 - Peggsite: App for sharing a social board 
   - https://github.com/jenduf/GenericSocialApp
   - https://itunes.apple.com/app/peggsite/id938445951
+- Post Manager: post/schedule twitter posts like buffer + node.js backend + share extension 🔶
+  - https://github.com/TomekB/PostManager
 - StreetMusicMap: Is a collaborative global community that connects street musicians, fans and videomakers. 
   - https://github.com/henriquevelloso/StreetMusicMap
   - https://itunes.apple.com/app/street-music-map/id980068735
