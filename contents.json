@@ -5156,6 +5156,15 @@
     "source": "https://github.com/dono-app/ios/",
     "tags": ["swift"],
     "license": "gpl-3.0"
+  },
+  {
+    "title": "Post Manager",
+    "category": "social",
+    "description": "post/schedule twitter posts like buffer + node.js backend + share extension",
+    "source": "https://github.com/TomekB/PostManager",
+    "tags": [
+      "swift"
+    ]
   }
   ]
 }
