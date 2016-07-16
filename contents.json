@@ -5165,6 +5165,14 @@
     "tags": [
       "swift"
     ]
+  },
+  {
+    "title": "Upcoming Movies",
+    "category": "apple-tv",
+    "description": "A tvOS example app, shows upcoming movies",
+    "source": "https://github.com/vanyaland/UpcomingMovies",
+    "tags": ["swift"],
+    "license": "mit"
   }
   ]
 }
