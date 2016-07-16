@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **507** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 15, 2016*).
+A collaborative list of **508** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 16, 2016*).
  
 Jump to 
  
@@ -76,7 +76,7 @@ Projects that are not in English have a flag
  
 - Artsy Shows: Art shows on your TV 🔶🔥🔥
   - https://github.com/artsy/Emergence
-- EX Player: Watch video from ex.ua 
+- EX Player: Watch videos from ex.ua 
   - https://github.com/IGRSoft/exTVPlayer
 - iCook: A tvOS app that plays iCook TV videos 
   - https://github.com/polydice/iCook-tvOS
@@ -93,6 +93,8 @@ Projects that are not in English have a flag
 - Uncle Nagy's House: Uncle Nagy's House tvOS App (TVML app with Gulp tasks for building Jade and CoffeeScript) 
   - https://github.com/kenmickles/unh_tvos
   - https://itunes.apple.com/us/app/id1042172021
+- Upcoming Movies: A tvOS example app, shows upcoming movies 🔶
+  - https://github.com/vanyaland/UpcomingMovies
 - WWDCTV: Watch the WWDC Videos on your Apple TV 🔥🔥
   - https://github.com/azzoor/WWDCTV
 
@@ -748,7 +750,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Eleven: Eleven Player is a simple powerful video player, uses ffmpeg 🔥🔥
   - https://github.com/coderyi/Eleven
   - https://itunes.apple.com/app/elevenplayer/id1033773648
-- EX Player: Watch video from ex.ua 
+- EX Player: Watch videos from ex.ua 
   - https://github.com/IGRSoft/exTVPlayer
 - Filterpedia: Core Image Filter explorer 🔶🔥🔥🔥🔥
   - https://github.com/FlexMonkey/Filterpedia
@@ -1099,7 +1101,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Peggsite: App for sharing a social board 
   - https://github.com/jenduf/GenericSocialApp
   - https://itunes.apple.com/app/peggsite/id938445951
-- Post Manager: post/schedule twitter posts like buffer + node.js backend + share extension 🔶
+- Post Manager: Post/schedule Twitter posts like Buffer + node.js backend + share extension 🔶
   - https://github.com/TomekB/PostManager
 - StreetMusicMap: Is a collaborative global community that connects street musicians, fans and videomakers. 
   - https://github.com/henriquevelloso/StreetMusicMap
