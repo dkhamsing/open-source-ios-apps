@@ -230,7 +230,7 @@
         "apple-tv",
         "media"
       ],
-      "description": "Watch video from ex.ua",
+      "description": "Watch videos from ex.ua",
       "license": "lgpl-2.1",
       "source": "https://github.com/IGRSoft/exTVPlayer",
       "stars": 8
@@ -5156,6 +5156,15 @@
     "source": "https://github.com/dono-app/ios/",
     "tags": ["swift"],
     "license": "gpl-3.0"
+  },
+  {
+    "title": "Post Manager",
+    "category": "social",
+    "description": "Post/schedule Twitter posts like Buffer + node.js backend + share extension",
+    "source": "https://github.com/TomekB/PostManager",
+    "tags": [
+      "swift"
+    ]
   },
   {
     "title": "Upcoming Movies",
