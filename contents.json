@@ -106,6 +106,10 @@
       "id": "tasks"
     },
     {
+      "title": "Travel",
+      "id": "travel"
+    },
+    {
       "title": "Weather",
       "id": "weather"
     },
@@ -1534,7 +1538,7 @@
     },
     {
       "title": "Alarm",
-      "category": "location",
+      "category": ["location", "travel"],
       "description": "Geolocation based alarm app for travelers",
       "license": "mit",
       "source": "https://github.com/ChrisChares/swift-alarm",
@@ -1697,7 +1701,7 @@
     },
     {
       "title": "Smart Traveller (UberGuide)",
-      "category": "location",
+      "category": "travel",
       "description": "Simple and comfortable way to explore a city using Uber API",
       "license": "mit",
       "source": "https://github.com/hACKbUSTER/UberGuide-iOS",
@@ -3891,7 +3895,7 @@
     },
     {
       "title": "MetricTime",
-      "category": "timer",
+      "category": "travel",
       "description": "Displays 'Metric Time' for pranking friends on trips to countries that use the metric system",
       "source": "https://github.com/DeveloperACE/MetricTime",
       "tags": [
@@ -5057,7 +5061,7 @@
     },
     {
       "title": "Themoji",
-      "category": "misc",
+      "category": "travel",
       "license": "other",
       "description": "Use Emojis to communicate while traveling",
       "homepage": "https://themoji.me/",
