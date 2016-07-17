@@ -50,7 +50,7 @@ def output_apps(apps)
       end
 
       unless tags.nil?
-        o << "🔶" if tags.include? 'swift'
+        o << '`Swift` ' if tags.include? 'swift'
       end
 
       unless lang.nil?
