@@ -4952,7 +4952,7 @@
     },
     {
       "title": "SIP Calculator",
-      "category": "finance",
+      "category": ["finance", "calculator"],
       "description": "Calculate the future value of SIP (Systematic Investment Plan) payments",
       "source": "https://github.com/tirupati17/sip-calculator-swift",
       "itunes": "https://itunes.apple.com/app/id1092822415",
