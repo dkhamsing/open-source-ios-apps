@@ -38,10 +38,6 @@ Jump to
 - [Travel](#travel) 
 - [Weather](#weather) 
 - [Web](#web) 
-- [Misc](#misc) 
-  - [Calculator](#calculator) 
-  - [Clock](#clock) 
-  - [Timer](#timer) 
 - [Special](#special) 
   - [3D Touch](#3d-touch) 
   - [Appcelerator](#appcelerator) 
@@ -52,10 +48,14 @@ Jump to
   - [React Native](#react-native) 
   - [Reactive Programming](#reactive-programming) 
   - [ReactiveCocoa](#reactivecocoa) 
-  - [RxSwift](#rxswift) 
   - [Realm](#realm) 
+  - [RxSwift](#rxswift) 
   - [VIPER](#viper) 
   - [Xamarin](#xamarin) 
+- [Misc](#misc) 
+  - [Calculator](#calculator) 
+  - [Clock](#clock) 
+  - [Timer](#timer) 
 - [Bonus](#bonus) 
 
 ```
@@ -1237,170 +1237,6 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/anzfactory/QiitaCollection
   - https://itunes.apple.com/app/kitakore-for-qiita/id973532800
 
-## Misc 
- 
-[back to top](#readme) 
- 
-- A Menjar: Food menu 🇪🇸
-  - https://github.com/maurovc/aMenjar
-  - https://itunes.apple.com/app/a-menjar!/id816473131
-- bar: Cocktail menu `Swift` 
-  - https://github.com/soffes/bar
-- Be my eyes: Connect blind people with volunteer helpers via live video chat 🔥🔥
-  - https://github.com/bemyeyes/bemyeyes-ios
-  - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
-- BlogQuest: Alternative Tumblr client 
-  - https://github.com/irace/BlogQuest
-- Borrowed Books UFGRS: Manage borrowed books at UFRGS using SABI `Swift` 
-  - https://github.com/MatheusCavalca/RenovaLivrosUFRGS
-- CardDecks: Configurable card decks 
-  - https://github.com/aharren/CardDecks
-- ChineseZodiac `Swift` 🔥
-  - https://github.com/JakeLin/ChineseZodiac
-- Colo: Color themes hunter 
-  - https://github.com/wongzigii/Colo
-- DeckRocket: Turn your iPhone into a remote for Deckset presentations `Swift` 🔥🔥
-  - https://github.com/jpsim/DeckRocket
-- EmotionNote: Emotion diary  choose or take a photo of your face, the app will tell you your emotion 🔶 `Swift` 
-  - https://github.com/Yogayu/EmotionNote
-- FreeRDP: An implementation of the Remote Desktop Protocol (RDP) 🔥🔥🔥🔥
-  - https://github.com/FreeRDP/FreeRDP
-  - http://www.freerdp.com/
-- GammaThingy: Change screen gamma dynamically 🔥🔥🔥
-  - https://github.com/thomasfinch/GammaThingy
-- GoodNight: Change screen gamma dynamically 🔥🔥🔥
-  - https://github.com/anthonya1999/GoodNight
-- GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
-  - https://github.com/semweb/GreatReader
-  - https://itunes.apple.com/app/greatreader/id903651112
-- Hidrate: App for smart water bottle 
-  - https://github.com/mjcuva/Hidrate
-- iContactU: Reminds you to contact people you ought to `Swift` 🔥
-  - https://github.com/rizal72/iContactU
-  - https://itunes.apple.com/app/icontactu/id920200100
-- iCopyPasta: Pasteboard feed `Swift` 
-  - https://github.com/alltheflow/iCopyPasta
-- iGrades: Track your class grades 
-  - https://github.com/maurovc/iGrades
-  - https://itunes.apple.com/app/id816987574
-- Jupp: App with share extension for ADN `Swift` 
-  - https://github.com/dasdom/Jupp
-  - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
-- LibreOffice Remote for Impress: Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely 
-  - https://cgit.freedesktop.org/libreoffice/impress_remote/
-  - https://itunes.apple.com/app/id806879890
-- LidderbuchApp: Songbook for Luxembourgish Students `Swift` 🇱🇺
-  - https://github.com/AcelLuxembourg/LidderbuchApp
-  - https://itunes.apple.com/app/lidderbuch/id997143407
-- Mirror++: Minimalist mirror `Swift` 
-  - https://github.com/nathunsmitty/MirrorPlusPlus
-- my41: HP-41C/CV/CX Microcode emulator 
-  - https://github.com/mperovic/my41
-  - https://itunes.apple.com/app/my41cx/id979041950
-- Onions: Cloud encrypted text storage 
-  - https://github.com/onionsapp/Onions-iOS
-  - https://itunes.apple.com/app/onions/id687296481
-- Open States: Browse state legislatures 
-  - https://github.com/sunlightlabs/openstates-ios
-- OpenCB: Interactive chess book reader 
-  - https://github.com/student-t/OpenCB
-- openHAB: Vendor and technology agnostic home automation 
-  - https://github.com/openhab/openhab.ios
-  - http://www.openhab.org/
-  - https://itunes.apple.com/app/id492054521
-- OpenIt: Notification widget to launch other apps from the notification center 
-  - https://github.com/BalestraPatrick/OpenIt
-- ownCloud: File browser and sync for ownCloud file hosting service 🔥🔥
-  - https://github.com/owncloud/ios
-  - https://itunes.apple.com/app/owncloud/id543672169
-- Phonetic: Add phonetic keys for Chinese names 🔥🔥
-  - https://github.com/iAugux/Phonetic
-- Runner-Stats: iPhone app to record running data 
-  - https://github.com/hukun01/Runner-Stats
-  - https://itunes.apple.com/app/runner-stats/id793443821
-- Seafile Pro: A client for Seafile (self-hosted file sharing) 
-  - https://github.com/haiwen/seafile-iOS
-  - https://www.seafile.com/en/home/
-  - https://itunes.apple.com/app/id639202512
-- Swiflytics: See your realtime Google Analytics data `Swift` 
-  - https://github.com/aciidb0mb3r/Swiflytics
-  - https://itunes.apple.com/app/swiflytics/id1076165139
-- SwiftBlog: Read the official Apple Swift Blog via RSS `Swift` 
-  - https://github.com/BalestraPatrick/SwiftBlog
-- Tether: Tethering for non-jailbroken iOS Devices over USB 
-  - https://github.com/chrisballinger/Tether-iOS
-- TheReservist: Check availability of iPhones `Swift` 
-  - https://github.com/kimar/TheReservist
-- Theseus: Personal analytics tool 🔥🔥🔥
-  - https://github.com/lazerwalker/Theseus
-- TrollDrop: AirDrop trollfaces to everyone 
-  - https://github.com/a2/TrollDrop
-- Vinylogue: Simple Last.fm client 🔥
-  - https://github.com/twocentstudios/vinylogue
-  - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
-- VPN On: Today Widget to turn on VPN `Swift` 🔥🔥🔥🔥🔥
-  - https://github.com/lexrus/VPNOn
-  - https://itunes.apple.com/app/vpn-on/id951344279
-- WaniKani: Client app for WaniKani.com site (learn kanji) `Swift` 
-  - https://github.com/haawa799/WaniKani-iOS
-  - https://itunes.apple.com/app/wanikani/id1034355141
-- Words: Thesaurus app 
-  - https://github.com/soffes/words
-- WWDC Students: WWDC scholarship entries `Swift` 🔥
-  - https://github.com/wwdc
-- YaleMobile: App for Yale University students 
-  - https://github.com/kiokoo/YaleMobile
-  - https://itunes.apple.com/app/yale-mobile/id497588523
-- Yorkie: This app will help you take care of your dog 
-  - https://github.com/carlbtrn/YorkieApp
-  - https://itunes.apple.com/app/Yorkie/id1000836606
-
-### Calculator 
- 
-[back to top](#readme) 
- 
-- Calculator: React Native calculator 🔥🔥🔥🔥🔥
-  - https://github.com/benoitvallon/react-native-nw-react-calculator
-- Free42: A re-implementation of the HP-42S Calculator and the HP-82240 printer 
-  - http://thomasokken.com/free42/download/free42.tgz
-  - http://thomasokken.com/free42/
-  - https://itunes.apple.com/app/id337692629
-- NumberPad: An experimental prototype calculator for iPad 
-  - https://github.com/bridger/NumberPad
-- Round & Split: Tip Calculator `Swift` 
-  - https://github.com/lukhnos/roundandsplit
-  - https://itunes.apple.com/app/round-split/id912288737
-
-### Clock 
- 
-[back to top](#readme) 
- 
-- Fibonacc iClock: A clock based off the famous fibonacci sequence 
-  - https://github.com/scribblemaniac/Fibonacc-iClock
-- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa `Swift` 
-  - https://github.com/nottombrown/HausClock
-- Natural Language Clock: Display the time as you would speak it `Swift` 
-  - https://github.com/chadkeck/Natural-Language-Clock
-- Population Clock: Learn about geography and demographics 
-  - https://github.com/Netfilter-Com/PopulationClock
-  - https://itunes.apple.com/app/population-clock-hd/id590689957
-- SwiftTextClock: Inspired by the beautiful QlockTwo `Swift` 
-  - https://github.com/MichMich/SwiftTextClock
-
-### Timer 
- 
-[back to top](#readme) 
- 
-- Cherry: Mini Pomodoro Timer `Swift` 🔥🔥
-  - https://github.com/kenshin03/Cherry
-- Coffee Timer `Swift` 
-  - https://github.com/ashfurrow/yourfirstswiftapp
-- Fojusi: Work timer with today extension `Swift` 🔥🔥
-  - https://github.com/dasdom/Tomate
-  - https://itunes.apple.com/app/fojusi/id923044693
-- TrackMyTime 
-  - https://github.com/EvgenyKarkan/TrackMyTime
-
 ## Special 
  
 [back to top](#readme) 
@@ -1616,6 +1452,17 @@ Image, video, audio, reading — [back to top](#readme)
 - Wizard War: Cast spells in single or multiplayer wizard duels 🔥🔥🔥
   - https://github.com/seanhess/wizardwar
 
+### Realm 
+ 
+[back to top](#readme) 
+ 
+- Done: Data sharing using WatchKit and Realm `Swift` 
+  - https://github.com/FancyPixel/done-swift
+- Obědář: Shows daily menu of close restaurants to Czech Technical University `Swift` 
+  - https://github.com/syky27/lunch_guy-ios
+- RealmToDo: A small todo list with Realm integration `Swift` 
+  - https://github.com/pietbrauer/RealmToDo
+
 ### [RxSwift](https://github.com/ReactiveX/RxSwift) 
  
 [back to top](#readme) 
@@ -1632,17 +1479,6 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/us/app/rxmarbles/id1087272442
 - Tweetometer: See who is tweeting in your timeline `Swift` 
   - https://github.com/BalestraPatrick/Tweetometer
-
-### Realm 
- 
-[back to top](#readme) 
- 
-- Done: Data sharing using WatchKit and Realm `Swift` 
-  - https://github.com/FancyPixel/done-swift
-- Obědář: Shows daily menu of close restaurants to Czech Technical University `Swift` 
-  - https://github.com/syky27/lunch_guy-ios
-- RealmToDo: A small todo list with Realm integration `Swift` 
-  - https://github.com/pietbrauer/RealmToDo
 
 ### [VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/) 
  
@@ -1672,6 +1508,170 @@ Image, video, audio, reading — [back to top](#readme)
 - Toggl Timer 🔥
   - https://github.com/toggl/mobile
   - https://itunes.apple.com/app/toggl-timer/id885767775
+
+## Misc 
+ 
+[back to top](#readme) 
+ 
+- A Menjar: Food menu 🇪🇸
+  - https://github.com/maurovc/aMenjar
+  - https://itunes.apple.com/app/a-menjar!/id816473131
+- bar: Cocktail menu `Swift` 
+  - https://github.com/soffes/bar
+- Be my eyes: Connect blind people with volunteer helpers via live video chat 🔥🔥
+  - https://github.com/bemyeyes/bemyeyes-ios
+  - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
+- BlogQuest: Alternative Tumblr client 
+  - https://github.com/irace/BlogQuest
+- Borrowed Books UFGRS: Manage borrowed books at UFRGS using SABI `Swift` 
+  - https://github.com/MatheusCavalca/RenovaLivrosUFRGS
+- CardDecks: Configurable card decks 
+  - https://github.com/aharren/CardDecks
+- ChineseZodiac `Swift` 🔥
+  - https://github.com/JakeLin/ChineseZodiac
+- Colo: Color themes hunter 
+  - https://github.com/wongzigii/Colo
+- DeckRocket: Turn your iPhone into a remote for Deckset presentations `Swift` 🔥🔥
+  - https://github.com/jpsim/DeckRocket
+- EmotionNote: Emotion diary  choose or take a photo of your face, the app will tell you your emotion 🔶 `Swift` 
+  - https://github.com/Yogayu/EmotionNote
+- FreeRDP: An implementation of the Remote Desktop Protocol (RDP) 🔥🔥🔥🔥
+  - https://github.com/FreeRDP/FreeRDP
+  - http://www.freerdp.com/
+- GammaThingy: Change screen gamma dynamically 🔥🔥🔥
+  - https://github.com/thomasfinch/GammaThingy
+- GoodNight: Change screen gamma dynamically 🔥🔥🔥
+  - https://github.com/anthonya1999/GoodNight
+- GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
+  - https://github.com/semweb/GreatReader
+  - https://itunes.apple.com/app/greatreader/id903651112
+- Hidrate: App for smart water bottle 
+  - https://github.com/mjcuva/Hidrate
+- iContactU: Reminds you to contact people you ought to `Swift` 🔥
+  - https://github.com/rizal72/iContactU
+  - https://itunes.apple.com/app/icontactu/id920200100
+- iCopyPasta: Pasteboard feed `Swift` 
+  - https://github.com/alltheflow/iCopyPasta
+- iGrades: Track your class grades 
+  - https://github.com/maurovc/iGrades
+  - https://itunes.apple.com/app/id816987574
+- Jupp: App with share extension for ADN `Swift` 
+  - https://github.com/dasdom/Jupp
+  - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
+- LibreOffice Remote for Impress: Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely 
+  - https://cgit.freedesktop.org/libreoffice/impress_remote/
+  - https://itunes.apple.com/app/id806879890
+- LidderbuchApp: Songbook for Luxembourgish Students `Swift` 🇱🇺
+  - https://github.com/AcelLuxembourg/LidderbuchApp
+  - https://itunes.apple.com/app/lidderbuch/id997143407
+- Mirror++: Minimalist mirror `Swift` 
+  - https://github.com/nathunsmitty/MirrorPlusPlus
+- my41: HP-41C/CV/CX Microcode emulator 
+  - https://github.com/mperovic/my41
+  - https://itunes.apple.com/app/my41cx/id979041950
+- Onions: Cloud encrypted text storage 
+  - https://github.com/onionsapp/Onions-iOS
+  - https://itunes.apple.com/app/onions/id687296481
+- Open States: Browse state legislatures 
+  - https://github.com/sunlightlabs/openstates-ios
+- OpenCB: Interactive chess book reader 
+  - https://github.com/student-t/OpenCB
+- openHAB: Vendor and technology agnostic home automation 
+  - https://github.com/openhab/openhab.ios
+  - http://www.openhab.org/
+  - https://itunes.apple.com/app/id492054521
+- OpenIt: Notification widget to launch other apps from the notification center 
+  - https://github.com/BalestraPatrick/OpenIt
+- ownCloud: File browser and sync for ownCloud file hosting service 🔥🔥
+  - https://github.com/owncloud/ios
+  - https://itunes.apple.com/app/owncloud/id543672169
+- Phonetic: Add phonetic keys for Chinese names 🔥🔥
+  - https://github.com/iAugux/Phonetic
+- Runner-Stats: iPhone app to record running data 
+  - https://github.com/hukun01/Runner-Stats
+  - https://itunes.apple.com/app/runner-stats/id793443821
+- Seafile Pro: A client for Seafile (self-hosted file sharing) 
+  - https://github.com/haiwen/seafile-iOS
+  - https://www.seafile.com/en/home/
+  - https://itunes.apple.com/app/id639202512
+- Swiflytics: See your realtime Google Analytics data `Swift` 
+  - https://github.com/aciidb0mb3r/Swiflytics
+  - https://itunes.apple.com/app/swiflytics/id1076165139
+- SwiftBlog: Read the official Apple Swift Blog via RSS `Swift` 
+  - https://github.com/BalestraPatrick/SwiftBlog
+- Tether: Tethering for non-jailbroken iOS Devices over USB 
+  - https://github.com/chrisballinger/Tether-iOS
+- TheReservist: Check availability of iPhones `Swift` 
+  - https://github.com/kimar/TheReservist
+- Theseus: Personal analytics tool 🔥🔥🔥
+  - https://github.com/lazerwalker/Theseus
+- TrollDrop: AirDrop trollfaces to everyone 
+  - https://github.com/a2/TrollDrop
+- Vinylogue: Simple Last.fm client 🔥
+  - https://github.com/twocentstudios/vinylogue
+  - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
+- VPN On: Today Widget to turn on VPN `Swift` 🔥🔥🔥🔥🔥
+  - https://github.com/lexrus/VPNOn
+  - https://itunes.apple.com/app/vpn-on/id951344279
+- WaniKani: Client app for WaniKani.com site (learn kanji) `Swift` 
+  - https://github.com/haawa799/WaniKani-iOS
+  - https://itunes.apple.com/app/wanikani/id1034355141
+- Words: Thesaurus app 
+  - https://github.com/soffes/words
+- WWDC Students: WWDC scholarship entries `Swift` 🔥
+  - https://github.com/wwdc
+- YaleMobile: App for Yale University students 
+  - https://github.com/kiokoo/YaleMobile
+  - https://itunes.apple.com/app/yale-mobile/id497588523
+- Yorkie: This app will help you take care of your dog 
+  - https://github.com/carlbtrn/YorkieApp
+  - https://itunes.apple.com/app/Yorkie/id1000836606
+
+### Calculator 
+ 
+[back to top](#readme) 
+ 
+- Calculator: React Native calculator 🔥🔥🔥🔥🔥
+  - https://github.com/benoitvallon/react-native-nw-react-calculator
+- Free42: A re-implementation of the HP-42S Calculator and the HP-82240 printer 
+  - http://thomasokken.com/free42/download/free42.tgz
+  - http://thomasokken.com/free42/
+  - https://itunes.apple.com/app/id337692629
+- NumberPad: An experimental prototype calculator for iPad 
+  - https://github.com/bridger/NumberPad
+- Round & Split: Tip Calculator `Swift` 
+  - https://github.com/lukhnos/roundandsplit
+  - https://itunes.apple.com/app/round-split/id912288737
+
+### Clock 
+ 
+[back to top](#readme) 
+ 
+- Fibonacc iClock: A clock based off the famous fibonacci sequence 
+  - https://github.com/scribblemaniac/Fibonacc-iClock
+- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa `Swift` 
+  - https://github.com/nottombrown/HausClock
+- Natural Language Clock: Display the time as you would speak it `Swift` 
+  - https://github.com/chadkeck/Natural-Language-Clock
+- Population Clock: Learn about geography and demographics 
+  - https://github.com/Netfilter-Com/PopulationClock
+  - https://itunes.apple.com/app/population-clock-hd/id590689957
+- SwiftTextClock: Inspired by the beautiful QlockTwo `Swift` 
+  - https://github.com/MichMich/SwiftTextClock
+
+### Timer 
+ 
+[back to top](#readme) 
+ 
+- Cherry: Mini Pomodoro Timer `Swift` 🔥🔥
+  - https://github.com/kenshin03/Cherry
+- Coffee Timer `Swift` 
+  - https://github.com/ashfurrow/yourfirstswiftapp
+- Fojusi: Work timer with today extension `Swift` 🔥🔥
+  - https://github.com/dasdom/Tomate
+  - https://itunes.apple.com/app/fojusi/id923044693
+- TrackMyTime 
+  - https://github.com/EvgenyKarkan/TrackMyTime
 
 ## Bonus
 
