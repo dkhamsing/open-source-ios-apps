@@ -1015,7 +1015,7 @@
     {
       "title": "OctoPodium",
       "category": "github",
-      "description": "List user rankings based on GitHub repository star count",
+      "description": "List users ranked by GitHub repository star count",
       "source": "https://github.com/nunogoncalves/iOS-OctoPodium",
       "itunes": "https://itunes.apple.com/app/octopodium/id1077519133",
       "tags": [
@@ -1613,7 +1613,7 @@
         "location",
         "parse"
       ],
-      "description": "iBeacon to-do reminder app based on Parse",
+      "description": "iBeacon to-do reminder app using Parse",
       "source": "https://github.com/TomekB/iBeaconTasks",
       "stars": 103,
       "license": "other"
@@ -2510,7 +2510,7 @@
     {
       "title": "SafariAutoLoginTest",
       "category": "sample",
-      "description": "Demo showing how to auto-login users in iOS 9 based on Safari cookies",
+      "description": "Demo showing how to auto-login users in iOS 9 using Safari cookies",
       "source": "https://github.com/mackuba/SafariAutoLoginTest",
       "tags": [
         "swift"
