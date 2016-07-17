@@ -135,11 +135,6 @@
       "id": "misc"
     },
     {
-      "title": "3D Touch",
-      "id": "3d-touch",
-      "parent": "misc"
-    },
-    {
       "title": "Calculator",
       "id": "calculator",
       "parent": "misc"
@@ -157,6 +152,11 @@
     {
       "title": "Special",
       "id": "special"
+    },
+    {
+      "title": "3D Touch",
+      "id": "3d-touch",
+      "parent": "special"
     },
     {
       "title": "Appcelerator",
