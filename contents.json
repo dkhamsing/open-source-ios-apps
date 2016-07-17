@@ -332,7 +332,7 @@
         "apple-watch",
         "timer"
       ],
-      "description": "Mini Pomodoro Timer app",
+      "description": "Mini Pomodoro Timer",
       "license": "mit",
       "source": "https://github.com/kenshin03/Cherry",
       "stars": 343,
@@ -463,7 +463,7 @@
     {
       "title": "KTPomodoro",
       "category": "apple-watch",
-      "description": "Mini Pomodoro Timer app",
+      "description": "Mini Pomodoro Timer",
       "source": "https://github.com/kenshin03/KTPomodoro",
       "stars": 31,
       "license": "other"
@@ -528,7 +528,7 @@
     {
       "title": "Soon",
       "category": "apple-watch",
-      "description": "Countdown App",
+      "description": "Countdown app",
       "source": "https://github.com/sandofsky/soon",
       "tags": [
         "swift"
@@ -936,7 +936,7 @@
     {
       "title": "CI2Go",
       "category": "developer",
-      "description": "An unofficial CircleCI Client",
+      "description": "Unofficial CircleCI app",
       "source": "https://github.com/ngs/ci2go",
       "itunes": "https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427",
       "tags": [
@@ -1187,7 +1187,7 @@
     {
       "title": "Chuck",
       "category": "games",
-      "description": "Throw a ball and catch it. Over and over and over.",
+      "description": "Throw a ball and catch it. Over and over and over",
       "source": "https://github.com/moowahaha/Chuck",
       "itunes": "https://itunes.apple.com/app/chuck/id1050453297",
       "stars": 2,
@@ -1432,7 +1432,7 @@
     {
       "title": "LogU",
       "category": "health",
-      "description": "A Strength Logger is a simple logging application for strength athletes.",
+      "description": "A Strength Logger is a simple logging application for strength athletes",
       "source": "https://github.com/brettalcox/logU-swift",
       "itunes": "https://itunes.apple.com/app/logu-a-strength-logger/id1084487510",
       "tags": [
@@ -1642,7 +1642,7 @@
     {
       "title": "OwnTracks",
       "category": "location",
-      "description": "Keep track of your own location, you can build your private location diary or share it with your family and friends.",
+      "description": "Keep track of your own location, you can build your private location diary or share it with your family and friends",
       "source": "https://github.com/owntracks/ios",
       "stars": 88,
       "license": "other"
@@ -1689,7 +1689,7 @@
     {
       "title": "Swift-Walk-Tracker",
       "category": "location",
-      "description": "An open source walk tracking iOS App",
+      "description": "Track your walks",
       "source": "https://github.com/kevinvanderlugt/Swift-Walk-Tracker",
       "tags": [
         "swift"
@@ -1849,7 +1849,7 @@
     {
       "title": "Longboxed",
       "category": "media",
-      "description": "Track the releases of your favorite comics.",
+      "description": "Track the releases of your favorite comics",
       "license": "mit",
       "source": "https://github.com/jayhickey/Longboxed-iOS",
       "itunes": "https://itunes.apple.com/app/longboxed-comic-tracker/id965045339",
@@ -1991,7 +1991,7 @@
     {
       "title": "Swifteroid",
       "category": "media",
-      "description": "A manual HDR exposure camera app",
+      "description": "Manual HDR exposure camera",
       "license": "mit",
       "source": "https://github.com/eugenpirogoff/swifteroid",
       "tags": [
@@ -2108,7 +2108,7 @@
     {
       "title": "xkcd Open Source",
       "category": "media",
-      "description": "An xkcd Comic Reader",
+      "description": "An xkcd comic reader",
       "source": "https://github.com/mamaral/xkcd-Open-Source",
       "itunes": "https://itunes.apple.com/app/xkcd-open-source/id995811425",
       "stars": 115,
@@ -2157,7 +2157,6 @@
     {
       "title": "Reddit",
       "category": "news",
-      "description": "Reddit news app",
       "license": "mit",
       "source": "https://github.com/amitburst/reddit-demo",
       "tags": [
@@ -2614,7 +2613,7 @@
     {
       "title": "StreetMusicMap",
       "category": "social",
-      "description": "Is a collaborative global community that connects street musicians, fans and videomakers.",
+      "description": "Is a collaborative global community that connects street musicians, fans and videomakers",
       "source": "https://github.com/henriquevelloso/StreetMusicMap",
       "itunes": "https://itunes.apple.com/app/street-music-map/id980068735",
       "stars": 0,
@@ -2693,7 +2692,6 @@
     {
       "title": "Todo",
       "category": "tasks",
-      "description": "Todo list app",
       "source": "https://github.com/JakeLin/Todo",
       "stars": 194,
       "tags": [
@@ -2713,7 +2711,7 @@
     {
       "title": "Tinylog",
       "category": "tasks",
-      "description": "A minimal iPhone/iPad TODO app",
+      "description": "A minimal universal TODO app",
       "license": "mit",
       "source": "https://github.com/binarylevel/Tinylog-iOS",
       "itunes": "https://itunes.apple.com/app/tinylog/id799267191",
@@ -2858,7 +2856,7 @@
     {
       "title": "A Menjar",
       "category": "misc",
-      "description": "Food menu app",
+      "description": "Food menu",
       "lang": "spa",
       "license": "mit",
       "source": "https://github.com/maurovc/aMenjar",
@@ -2978,9 +2976,8 @@
       "stars": 450
     },
     {
-      "title": "Hack Cancer",
+      "title": "Hack Cancer Hackathon",
       "category": "conference",
-      "description": "Hackathon app",
       "source": "https://github.com/HackCancer/iOS",
       "itunes": "https://itunes.apple.com/app/hack-cancer/id1030806844",
       "tags": [
@@ -3000,7 +2997,7 @@
     {
       "title": "iCopyPasta",
       "category": "misc",
-      "description": "Pasteboard feed app",
+      "description": "Pasteboard feed",
       "license": "mit",
       "source": "https://github.com/alltheflow/iCopyPasta",
       "stars": 18,
@@ -3085,7 +3082,7 @@
     {
       "title": "Onions",
       "category": "misc",
-      "description": "Cloud encrypted text storage app",
+      "description": "Cloud encrypted text storage",
       "source": "https://github.com/onionsapp/Onions-iOS",
       "itunes": "https://itunes.apple.com/app/onions/id687296481",
       "stars": 44,
@@ -3237,7 +3234,7 @@
     {
       "title": "WWDC Students",
       "category": "misc",
-      "description": "WWDC scholarship entry apps",
+      "description": "WWDC scholarship entries",
       "source": "https://github.com/wwdc",
       "stars": 100,
       "tags": [
@@ -3276,7 +3273,7 @@
     {
       "title": "Malendar",
       "category": "calendar",
-      "description": "A redesigned calendar app",
+      "description": "A redesigned calendar",
       "source": "https://github.com/croossin/Malendar",
       "tags": [
         "swift"
@@ -3477,7 +3474,7 @@
     {
       "title": "allyoop",
       "category": "react-native",
-      "description": "NBA game scores app",
+      "description": "NBA game scores",
       "license": "mit",
       "source": "https://github.com/wwayne/react-native-nba-app",
       "stars": 724
@@ -3843,7 +3840,7 @@
     {
       "title": "To do",
       "category": "viper",
-      "description": "A to-do list application in viper.",
+      "description": "A to-do list application in viper",
       "source": "https://github.com/objcio/issue-13-viper",
       "homepage": "https://www.objc.io/issues/13-architecture/viper/",
       "license": "mit",
@@ -3897,7 +3894,7 @@
     {
       "title": "MetricTime",
       "category": "timer",
-      "description": "Displays 'Metric Time' for pranking friends on trips to countries that use the metric system.",
+      "description": "Displays 'Metric Time' for pranking friends on trips to countries that use the metric system",
       "source": "https://github.com/DeveloperACE/MetricTime",
       "tags": [
         "swift"
@@ -4099,7 +4096,7 @@
       "category": [
         "media"
       ],
-      "description": "An app that plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH).",
+      "description": "Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH)",
       "source": "https://github.com/DeveloperACE/MiamiSunglasses",
       "tags": [
         "swift"
@@ -4157,7 +4154,7 @@
     {
       "title": "Sentiments",
       "category": "text",
-      "description": "Analyzes text for positive or negative sentiment.",
+      "description": "Analyzes text for positive or negative sentiment",
       "license": "mit",
       "source": "https://github.com/kyleweiner/Sentiments",
       "tags": [
@@ -4203,7 +4200,7 @@
     {
       "title": "Fibonacc iClock",
       "category": "clock",
-      "description": "A clock based off the famous fibonacci sequence.",
+      "description": "A clock based off the famous fibonacci sequence",
       "license": "gpl-2.0",
       "source": "https://github.com/scribblemaniac/Fibonacc-iClock",
       "stars": 0
@@ -4274,7 +4271,7 @@
     {
       "title": "MAPS.ME",
       "category": "location",
-      "description": "Offline maps application with navigation using [OpenStreetMap](https://www.openstreetmap.org) data.",
+      "description": "Offline maps application with navigation using [OpenStreetMap](https://www.openstreetmap.org) data",
       "license": "apache-2.0",
       "source": "https://github.com/mapsme/omim",
       "homepage": "https://maps.me/en/home",
@@ -4284,7 +4281,7 @@
     {
       "title": "Linphone",
       "category": "communication",
-      "description": "Make free audio/video calls and text messages.",
+      "description": "Make free audio/video calls and text messages",
       "source": "https://www.linphone.org/technical-corner/linphone/downloads",
       "homepage": "https://www.linphone.org/",
       "itunes": "https://itunes.apple.com/app/linphone/id360065638",
@@ -4293,7 +4290,7 @@
     {
       "title": "Molecules",
       "category": "science",
-      "description": "Visualize molecules in 3D.",
+      "description": "Visualize molecules in 3D",
       "source": "http://www.sunsetlakesoftware.com/molecules",
       "itunes": "https://itunes.apple.com/app/molecules/id284943090",
       "license": "other"
@@ -4301,7 +4298,7 @@
     {
       "title": "Task Coach",
       "category": "tasks",
-      "description": "A simple toto manager designed for composite tasks.",
+      "description": "A simple toto manager designed for composite tasks",
       "source": "https://sourceforge.net/projects/taskcoach/",
       "homepage": "http://taskcoach.org/",
       "itunes": "https://itunes.apple.com/app/task-coach/id311403563",
@@ -4310,7 +4307,7 @@
     {
       "title": "Castle Hassle",
       "category": "games",
-      "description": "A real-time physical game where you build your kingdom while crushing your opponents.",
+      "description": "A real-time physical game where you build your kingdom while crushing your opponents",
       "source": "https://github.com/bryceredd/CastleHassle",
       "itunes": "https://itunes.apple.com/app/castle-hassle/id524566068",
       "license": "mit",
@@ -4319,7 +4316,7 @@
     {
       "title": "Skeleton Key",
       "category": "games",
-      "description": "A puzzle game where you must shift keys around a board to unlock treasure chests.",
+      "description": "A puzzle game where you must shift keys around a board to unlock treasure chests",
       "source": "https://github.com/insurgentgames/Skeleton-Key-iOS",
       "license": "mit",
       "stars": 116
@@ -4327,7 +4324,7 @@
     {
       "title": "Cryptose",
       "category": "games",
-      "description": "Solve cryptograms as a Hacker, Detective, or Spy.",
+      "description": "Solve cryptograms as a Hacker, Detective, or Spy",
       "source": "https://github.com/insurgentgames/Cryptose",
       "license": "gpl-3.0",
       "stars": 61
@@ -4335,7 +4332,7 @@
     {
       "title": "Aeropack",
       "category": "games",
-      "description": "A steampunk retro 2d platformer.",
+      "description": "A steampunk retro 2d platformer",
       "source": "https://github.com/insurgentgames/Aeropack",
       "license": "gpl-3.0",
       "stars": 75
@@ -4343,7 +4340,7 @@
     {
       "title": "teh internets",
       "category": "games",
-      "description": "Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter.",
+      "description": "Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter",
       "source": "https://github.com/insurgentgames/teh-internets",
       "license": "gpl-3.0",
       "stars": 59
@@ -4351,7 +4348,7 @@
     {
       "title": "hoxChess",
       "category": "games",
-      "description": "Xiangqi (Chinese Chess) with single and multiplayer modes.",
+      "description": "Xiangqi (Chinese Chess) with single and multiplayer modes",
       "source": "https://github.com/huygithub/hoxChess",
       "itunes": "https://itunes.apple.com/app/hoxchess/id363513274",
       "license": "gpl-3.0",
@@ -4360,7 +4357,7 @@
     {
       "title": "iLabyrinth",
       "category": "games",
-      "description": "Escape the labyrinth by following limited paths.",
+      "description": "Escape the labyrinth by following limited paths",
       "source": "https://github.com/RolandasRazma/iLabyrinth",
       "license": "other",
       "stars": 186
@@ -4368,7 +4365,7 @@
     {
       "title": "Heredox",
       "category": "games",
-      "description": "Place tiles to form your allegiance's symbols.",
+      "description": "Place tiles to form your allegiance's symbols",
       "source": "https://github.com/RolandasRazma/Heredox/",
       "homepage": "http://www.heredox.com/",
       "license": "mit"
@@ -4376,7 +4373,7 @@
     {
       "title": "Pterodactyl Attack",
       "category": "games",
-      "description": "Blast your way through waves of pterodactyls. Also has a detailed writeup on how it's made.",
+      "description": "Blast your way through waves of pterodactyls. Also has a detailed writeup on how it's made",
       "source": "https://github.com/shaunlebron/PterodactylAttack",
       "homepage": "https://shaunlebron.github.io/pteroattack.com/",
       "itunes": "https://itunes.apple.com/app/pterodactyl-attack/id786862892",
@@ -4386,7 +4383,7 @@
     {
       "title": "Neocom for EVE Online",
       "category": "games",
-      "description": "The character management tool for EveOnline MMORG.",
+      "description": "The character management tool for EveOnline MMORG",
       "license": "lgpl-2.1",
       "source": "https://github.com/mrdepth/Neocom",
       "itunes": "https://itunes.apple.com/app/eveuniverse/id418895101",
@@ -4395,7 +4392,7 @@
     {
       "title": "Hostile Takeover",
       "category": "games",
-      "description": "A release of the Real Time Strategy game Warfare Incorporated.",
+      "description": "A release of the Real Time Strategy game Warfare Incorporated",
       "source": "https://github.com/spiffcode/hostile-takeover",
       "license": "bsd-2-clause",
       "stars": 76
@@ -4403,7 +4400,7 @@
     {
       "title": "XPilot",
       "category": "games",
-      "description": "An iPhone port of the classic XPilot game.",
+      "description": "An iPhone port of the classic XPilot game",
       "source": "http://7b5labs.com/xpilot.git/",
       "homepage": "http://7b5labs.com/xpilotiphone",
       "itunes": "https://itunes.apple.com/app/id322114791",
@@ -4412,7 +4409,7 @@
     {
       "title": "AppSlate",
       "category": "developer",
-      "description": "Make your own iOS applications.",
+      "description": "Make your own iOS applications",
       "source": "https://github.com/Taehan-Kim/AppSlate",
       "homepage": "https://www.facebook.com/AppSlate",
       "itunes": "https://itunes.apple.com/app/id511327336",
@@ -4422,7 +4419,7 @@
     {
       "title": "Authenticator",
       "category": "security",
-      "description": "A simple two-factor authentication app with a clean UI.",
+      "description": "A simple two-factor authentication app with a clean UI",
       "source": "https://github.com/mattrubin/authenticator",
       "homepage": "https://mattrubin.me/authenticator/",
       "itunes": "https://itunes.apple.com/app/id766157276",
@@ -4432,7 +4429,7 @@
     {
       "title": "CodeHub",
       "category": "github",
-      "description": "Browse and maintain GitHub repositories.",
+      "description": "Browse and maintain GitHub repositories",
       "source": "https://github.com/thedillonb/CodeHub",
       "homepage": "http://codehub-app.com/",
       "itunes": "https://itunes.apple.com/app/id707173885",
@@ -4442,7 +4439,7 @@
     {
       "title": "Dragon Shout App 2",
       "category": "games",
-      "description": "A social journal for the Elder Scrolls® series.",
+      "description": "A social journal for the Elder Scrolls® series",
       "source": "https://github.com/rblalock/dragon_shout_app_open_source",
       "itunes": "https://itunes.apple.com/app/id690208182",
       "license": "apache-2.0",
@@ -4451,7 +4448,7 @@
     {
       "title": "Frotz",
       "category": "games",
-      "description": "Play hundreds of free works of Interactive Fiction (a.k.a. text adventure games).",
+      "description": "Play hundreds of free works of Interactive Fiction (a.k.a. text adventure games)",
       "source": "https://github.com/ifrotz/iosfrotz",
       "homepage": "https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md",
       "itunes": "https://itunes.apple.com/app/id287653015",
@@ -4461,7 +4458,7 @@
     {
       "title": "Inkpad",
       "category": "media",
-      "description": "A vector illustration app.",
+      "description": "Vector illustration",
       "license": "mpl-2.0",
       "source": "https://github.com/sprang/Inkpad",
       "stars": 2380
@@ -4473,7 +4470,7 @@
         "reactivecocoa",
         "parse"
       ],
-      "description": "Cast spells in single or multiplayer wizard duels.",
+      "description": "Cast spells in single or multiplayer wizard duels",
       "source": "https://github.com/seanhess/wizardwar",
       "license": "mit",
       "stars": 557
@@ -4481,7 +4478,7 @@
     {
       "title": "ZBar Barcode Reader",
       "category": "media",
-      "description": "A comprehensive barcode reader.",
+      "description": "A comprehensive barcode reader",
       "source": "https://sourceforge.net/projects/zbar/",
       "homepage": "http://zbar.sourceforge.net/",
       "itunes": "https://itunes.apple.com/app/id344957305",
@@ -4493,7 +4490,7 @@
         "location",
         "security"
       ],
-      "description": "Track lost or stolen devices and perform actions remotely.",
+      "description": "Track lost or stolen devices and perform actions remotely",
       "license": "gpl-3.0",
       "source": "https://github.com/prey/prey-ios-client",
       "homepage": "https://preyproject.com/",
@@ -4506,7 +4503,7 @@
         "location",
         "security"
       ],
-      "description": "Track lost or stolen devices and perform actions remotely.",
+      "description": "Track lost or stolen devices and perform actions remotely",
       "source": "https://github.com/prey/prey-swift-client",
       "homepage": "https://preyproject.com/",
       "tags": [
@@ -4521,7 +4518,7 @@
         "media",
         "official"
       ],
-      "description": "A client for [RadioParadise](http://www.radioparadise.com/rp_2.php).",
+      "description": "A client for [RadioParadise](http://www.radioparadise.com/rp_2.php)",
       "source": "https://github.com/ilTofa/rposx",
       "homepage": "https://www.iltofa.com/rphd/",
       "itunes": "https://itunes.apple.com/app/id663334697",
@@ -4534,7 +4531,7 @@
         "media",
         "official"
       ],
-      "description": "A popular media player and entertainment hub.",
+      "description": "A popular media player and entertainment hub",
       "source": "https://github.com/xbmc/xbmc",
       "homepage": "http://kodi.wiki/view/IOS",
       "license": "gpl-2.0",
@@ -4546,7 +4543,7 @@
         "media",
         "official"
       ],
-      "description": "A full-featured remote control for Kodi Media Center.",
+      "description": "A full-featured remote control for Kodi Media Center",
       "source": "https://github.com/xbmc/xbmc",
       "homepage": "https://kodi.tv/",
       "itunes": "https://itunes.apple.com/app/id520480364",
@@ -4556,7 +4553,7 @@
     {
       "title": "Antidote",
       "category": "communication",
-      "description": "A tox client.",
+      "description": "A tox client",
       "source": "https://github.com/Antidote-for-Tox/Antidote",
       "license": "mit",
       "homepage": "https://antidote.im/",
@@ -4565,7 +4562,7 @@
     {
       "title": "Tutanota",
       "category": "communication",
-      "description": "End-to-end encrypted email.",
+      "description": "End-to-end encrypted email",
       "source": "https://github.com/tutao/tutanota",
       "homepage": "https://tutanota.com/",
       "itunes": "https://itunes.apple.com/app/id922429609",
@@ -4575,7 +4572,7 @@
     {
       "title": "Piwik Mobile 2",
       "category": "developer",
-      "description": "Access Piwik analytics on the go.",
+      "description": "Access Piwik analytics on the go",
       "license": "gpl-3.0",
       "source": "https://github.com/piwik/piwik-mobile-2",
       "homepage": "https://piwik.org/mobile/",
@@ -4585,7 +4582,7 @@
     {
       "title": "Seafile Pro",
       "category": "misc",
-      "description": "A client for Seafile (self-hosted file sharing).",
+      "description": "A client for Seafile (self-hosted file sharing)",
       "source": "https://github.com/haiwen/seafile-iOS",
       "homepage": "https://www.seafile.com/en/home/",
       "itunes": "https://itunes.apple.com/app/id639202512",
@@ -4595,7 +4592,7 @@
     {
       "title": "OsmAnd Maps",
       "category": "location",
-      "description": "A map application with access to OpenStreetMaps.",
+      "description": "A map application with access to OpenStreetMaps",
       "license": "gpl-3.0",
       "source": "https://github.com/osmandapp/Osmand",
       "homepage": "http://osmand.net/",
@@ -4605,7 +4602,7 @@
     {
       "title": "Habitica",
       "category": "tasks",
-      "description": "A client for Habitica, a habit building and productivity app",
+      "description": "Habit building and productivity",
       "license": "gpl-3.0",
       "source": "https://github.com/HabitRPG/habitrpg-ios",
       "homepage": "https://habitica.com/static/front",
@@ -4615,7 +4612,7 @@
     {
       "title": "MuPDF",
       "category": "media",
-      "description": "A PDF, XPS/OpenXPS, CBZ and EPUB document viewer.",
+      "description": "A PDF, XPS/OpenXPS, CBZ and EPUB document viewer",
       "source": "http://git.ghostscript.com/?p=mupdf.git;a=summary",
       "homepage": "http://mupdf.com/",
       "itunes": "https://itunes.apple.com/app/id482941798",
@@ -4624,7 +4621,7 @@
     {
       "title": "Kiwix",
       "category": "web",
-      "description": "An offline reader for Wikipedia (and many other websites).",
+      "description": "An offline reader for Wikipedia (and many other websites)",
       "source": "https://github.com/kiwix/iOS",
       "homepage": "http://www.kiwix.org/wiki/Main_Page",
       "itunes": "https://itunes.apple.com/app/id997079563",
@@ -4637,7 +4634,7 @@
     {
       "title": "Hedgewars",
       "category": "games",
-      "description": "A turn-based strategy game.",
+      "description": "A turn-based strategy game",
       "source": "http://hg.hedgewars.org/hedgewars/",
       "homepage": "http://www.hedgewars.org/",
       "itunes": "https://itunes.apple.com/app/id391234866",
@@ -4646,7 +4643,7 @@
     {
       "title": "FreeRDP",
       "category": "misc",
-      "description": "An implementation of the Remote Desktop Protocol (RDP).",
+      "description": "An implementation of the Remote Desktop Protocol (RDP)",
       "license": "apache-2.0",
       "source": "https://github.com/FreeRDP/FreeRDP",
       "homepage": "http://www.freerdp.com/",
@@ -4658,7 +4655,7 @@
         "social",
         "ionic"
       ],
-      "description": "An encrypted social network.",
+      "description": "An encrypted social network",
       "source": "https://github.com/Minds/mobile",
       "homepage": "https://www.minds.com/",
       "itunes": "https://itunes.apple.com/app/id961771928",
@@ -4668,7 +4665,7 @@
     {
       "title": "Encryptr",
       "category": "security",
-      "description": "A zero-knowledge, cloud-based e-wallet and password manager.",
+      "description": "A zero-knowledge, cloud-based e-wallet and password manager",
       "license": "gpl-3.0",
       "source": "https://github.com/SpiderOak/Encryptr",
       "homepage": "https://spideroak.com/solutions/encryptr",
@@ -4678,7 +4675,7 @@
     {
       "title": "Spika",
       "category": "communication",
-      "description": "A secure business messenger.",
+      "description": "A secure business messenger",
       "source": "https://github.com/cloverstudio/Spika",
       "homepage": "https://spika.business/",
       "license": "mit",
@@ -4687,7 +4684,7 @@
     {
       "title": "Onion Browser",
       "category": "browser",
-      "description": "A Tor-powered web browser that improves your privacy.",
+      "description": "A Tor-powered web browser that improves your privacy",
       "source": "https://github.com/mtigas/iOS-OnionBrowser",
       "homepage": "https://mike.tig.as/onionbrowser/",
       "itunes": "https://itunes.apple.com/app/id519296448",
@@ -4697,7 +4694,7 @@
     {
       "title": "projectM",
       "category": "media",
-      "description": "An OpenGl based advanced music visualization program.",
+      "description": "An OpenGl based advanced music visualization program",
       "source": "https://sourceforge.net/projects/projectm/",
       "homepage": "http://projectm.sourceforge.net/",
       "itunes": "https://itunes.apple.com/app/id530922227",
@@ -4706,7 +4703,7 @@
     {
       "title": "openHAB",
       "category": "misc",
-      "description": "Vendor and technology agnostic home automation.",
+      "description": "Vendor and technology agnostic home automation",
       "license": "epl-1.0",
       "source": "https://github.com/openhab/openhab.ios",
       "homepage": "http://www.openhab.org/",
@@ -4716,7 +4713,7 @@
     {
       "title": "LibreOffice Remote for Impress",
       "category": "misc",
-      "description": "Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely.",
+      "description": "Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely",
       "source": "https://cgit.freedesktop.org/libreoffice/impress_remote/",
       "itunes": "https://itunes.apple.com/app/id806879890",
       "license": "mpl-2.0"
@@ -4724,7 +4721,7 @@
     {
       "title": "Free42",
       "category": "calculator",
-      "description": "A re-implementation of the HP-42S Calculator and the HP-82240 printer.",
+      "description": "A re-implementation of the HP-42S Calculator and the HP-82240 printer",
       "source": "http://thomasokken.com/free42/download/free42.tgz",
       "homepage": "http://thomasokken.com/free42/",
       "itunes": "https://itunes.apple.com/app/id337692629",
@@ -4733,7 +4730,7 @@
     {
       "title": "Miataru",
       "category": "location",
-      "description": "A location tracking app where data can be shared over public or private servers.",
+      "description": "A location tracking app where data can be shared over public or private servers",
       "license": "bsd-2-clause",
       "source": "https://github.com/miataru/miataru-ios-client",
       "homepage": "http://miataru.com/ios/",
@@ -4743,7 +4740,7 @@
     {
       "title": "Wheelmap",
       "category": "location",
-      "description": "Online map for locating wheelchair-accessible places.",
+      "description": "Online map for locating wheelchair-accessible places",
       "source": "https://github.com/sozialhelden/wheelmap-iphone2",
       "homepage": "http://wheelmap.org",
       "itunes": "https://itunes.apple.com/app/id399239476",
@@ -4875,7 +4872,7 @@
     {
       "title": "SwiftTextClock",
       "category": "clock",
-      "description": "An app inspired by the beautiful QlockTwo",
+      "description": "Inspired by the beautiful QlockTwo",
       "source": "https://github.com/MichMich/SwiftTextClock",
       "license": "other",
       "tags": [
@@ -4963,7 +4960,7 @@
     {
       "title": "Tagger",
       "category": ["media", "core-data"],
-      "description": "Tagger helps you increase the number of Instagram or Flickr followers and likes on your pictures.",
+      "description": "Tagger helps you increase the number of Instagram or Flickr followers and likes on your pictures",
       "source": "https://github.com/vanyaland/Tagger",
       "stars": 0,
       "license": "mit",
@@ -5077,7 +5074,7 @@
     },{
         "title": "Count It",
         "category": ["rxswift", "apple-watch"],
-        "description": "Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything.",
+        "description": "Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything",
         "source": "https://github.com/PiXeL16/CountItApp",
         "itunes": "https://itunes.apple.com/app/id1098893335",
         "stars": 10,
@@ -5086,7 +5083,7 @@
     {
         "title": "Send To Me",
         "category": "tasks",
-        "description": "Share content to your email with a single tap.",
+        "description": "Share content to your email with a single tap",
         "source": "https://github.com/PiXeL16/SendToMe",
         "itunes": "https://itunes.apple.com/app/id1100027787",
         "stars": 8,
@@ -5095,7 +5092,7 @@
       {
       "title": "Tob - Secure browser",
       "category": ["browser"],
-      "description": "A beautiful Tor browser to protect your anonymity.",
+      "description": "A beautiful Tor browser to protect your anonymity",
       "source": "https://github.com/JRock007/Tob",
       "itunes": "https://itunes.apple.com/app/id1063151782",
       "license": "mit",
@@ -5104,7 +5101,7 @@
     {
       "title": "DropColour Game in Swift 2.2",
       "category": "games",
-      "description": "Arcade game in which you simply have to drag and drop one circle onto another of the same color.",
+      "description": "Arcade game in which you simply have to drag and drop one circle onto another of the same color",
       "source": "https://github.com/elpassion/DropColour-iOS",
       "itunes": "https://itunes.apple.com/app/dropcolour/id1046339763",
       "stars": 42,
