@@ -42,6 +42,11 @@
       "id": "finance"
     },
     {
+      "title": "Bitcoin",
+      "id": "bitcoin",
+      "parent": "finance"
+    },
+    {
       "title": "Games",
       "id": "games"
     },
@@ -281,7 +286,7 @@
     },
     {
       "title": "Bither",
-      "category": "apple-watch",
+      "category": ["apple-watch", "bitcoin"],
       "description": "Simple and secure Bitcoin wallet",
       "license": "apache-2.0",
       "source": "https://github.com/bither/bither-ios",
@@ -1023,7 +1028,7 @@
     },
     {
       "title": "BitStore",
-      "category": "finance",
+      "category": "bitcoin",
       "description": "Bitcoin wallet",
       "license": "mit",
       "source": "https://github.com/BitStore/BitStore-iOS",
@@ -1032,7 +1037,7 @@
     },
     {
       "title": "breadwallet",
-      "category": "finance",
+      "category": "bitcoin",
       "description": "Bitcoin wallet",
       "license": "mit",
       "source": "https://github.com/breadwallet/breadwallet",
@@ -1053,7 +1058,7 @@
     },
     {
       "title": "Coins",
-      "category": "finance",
+      "category": "bitcoin",
       "description": "Bitcoin tracker",
       "license": "mit",
       "source": "https://github.com/nothingmagical/coins",
