@@ -133,8 +133,7 @@
     },
     {
       "title": "Calendar",
-      "id": "calendar",
-      "parent": "misc"
+      "id": "calendar"
     },
     {
       "title": "Calculator",
@@ -143,8 +142,7 @@
     },
     {
       "title": "Text",
-      "id": "text",
-      "parent": "misc"
+      "id": "text"
     },
     {
       "title": "Clock",
