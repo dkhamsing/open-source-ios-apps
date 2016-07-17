@@ -17,6 +17,10 @@
       "id": "browser"
     },
     {
+      "title": "Calendar",
+      "id": "calendar"
+    },
+    {
       "title": "Communication",
       "id": "communication"
     },
@@ -111,6 +115,10 @@
       "id": "tasks"
     },
     {
+      "title": "Text",
+      "id": "text"
+    },
+    {
       "title": "Travel",
       "id": "travel"
     },
@@ -132,17 +140,9 @@
       "parent": "misc"
     },
     {
-      "title": "Calendar",
-      "id": "calendar"
-    },
-    {
       "title": "Calculator",
       "id": "calculator",
       "parent": "misc"
-    },
-    {
-      "title": "Text",
-      "id": "text"
     },
     {
       "title": "Clock",
