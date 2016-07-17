@@ -675,7 +675,7 @@ Projects that are not in English have a flag
   - https://github.com/GeoTappy/GeoTappy-iOS
 - HopperBus: Timetable for the University of Nottingham Hopper Bus `Swift` 
   - https://github.com/TosinAF/HopperBus-iOS
-- iBeaconTasks: iBeacon TODO reminder app based on Parse 🔥
+- iBeaconTasks: iBeacon to-do reminder app based on Parse 🔥
   - https://github.com/TomekB/iBeaconTasks
 - Locative: Helping you to get the best out of your automated home, geofencing, iBeacons 🔥
   - https://github.com/LocativeHQ/Locative-iOS
@@ -1141,7 +1141,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/id994882113
 - MyAwesomeChecklist `Swift` 
   - https://github.com/imod/MyAwesomeChecklist
-- RealmToDo: A small todo list with Realm integration `Swift` 
+- RealmToDo: A small to-do list with Realm integration `Swift` 
   - https://github.com/pietbrauer/RealmToDo
 - Send To Me: Share content to your email with a single tap `Swift` 
   - https://github.com/PiXeL16/SendToMe
@@ -1152,7 +1152,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://sourceforge.net/projects/taskcoach/
   - http://taskcoach.org/
   - https://itunes.apple.com/app/task-coach/id311403563
-- Tinylog: A minimal iPhone/iPad TODO app `Swift` 
+- Tinylog: A minimal iPhone/iPad to-do app `Swift` 
   - https://github.com/binarylevel/Tinylog-iOS
   - https://itunes.apple.com/app/tinylog/id799267191
 - Todo `Swift` 🔥
@@ -1319,7 +1319,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/anywall/id520955490
 - how-much: Simple app to record how much things cost using Parse or Firebase 
   - https://github.com/dkhamsing/how-much
-- iBeaconTasks: iBeacon TODO reminder app based on Parse 🔥
+- iBeaconTasks: iBeacon to-do reminder app based on Parse 🔥
   - https://github.com/TomekB/iBeaconTasks
 - Jim: Track your gym workouts `Swift` 
   - https://github.com/kylejm/Jim
@@ -1402,7 +1402,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/facebook/react-native/tree/master/Examples/TicTacToe
 - To Do List 
   - https://github.com/joemaddalone/react-native-todo
-- To Do List (Redux): React Native Todo List app which uses Redux for managing app state 
+- To Do List (Redux): React Native to-do List app which uses Redux for managing app state 
   - https://github.com/uiheros/react-native-redux-todo-list
 - Twitch 
   - https://github.com/IFours/react-native-twitch
@@ -1460,7 +1460,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/FancyPixel/done-swift
 - Obědář: Shows daily menu of close restaurants to Czech Technical University `Swift` 
   - https://github.com/syky27/lunch_guy-ios
-- RealmToDo: A small todo list with Realm integration `Swift` 
+- RealmToDo: A small to-do list with Realm integration `Swift` 
   - https://github.com/pietbrauer/RealmToDo
 
 ### [RxSwift](https://github.com/ReactiveX/RxSwift) 
