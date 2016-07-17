@@ -17,6 +17,7 @@ Jump to
 - [Developer](#developer) 
   - [GitHub](#github) 
 - [Finance](#finance) 
+  - [Bitcoin](#bitcoin) 
 - [Games](#games) 
   - [Emulators](#emulators) 
 - [Health](#health) 
@@ -368,17 +369,9 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- BitStore: Bitcoin wallet 
-  - https://github.com/BitStore/BitStore-iOS
-  - https://itunes.apple.com/app/bitstore/id890668158
-- breadwallet: Bitcoin wallet 
-  - https://github.com/breadwallet/breadwallet
-  - https://itunes.apple.com/app/breadwallet/id885251393
 - Buck Tracker: Expense tracker `Swift` 
   - https://github.com/hkalexling/Buck_Tracker
   - https://itunes.apple.com/app/ibudgeter/id1048395728
-- Coins: Bitcoin tracker `Swift` 🔥
-  - https://github.com/nothingmagical/coins
 - Concurrency: Beautiful, intuitive currency converter 🔥🔥
   - https://github.com/nicklockwood/Concurrency
   - https://itunes.apple.com/app/concurrency/id738872892
@@ -402,6 +395,22 @@ Projects that are not in English have a flag
 - ToThePenny: Budget tracker 
   - https://github.com/vanyaland/ToThePenny
   - https://itunes.apple.com/app/tothepenny/id994476075
+
+### Bitcoin 
+ 
+[back to top](#readme) 
+ 
+- Bither: Simple and secure Bitcoin wallet 
+  - https://github.com/bither/bither-ios
+  - https://itunes.apple.com/app/bither/id899478936
+- BitStore: Bitcoin wallet 
+  - https://github.com/BitStore/BitStore-iOS
+  - https://itunes.apple.com/app/bitstore/id890668158
+- breadwallet: Bitcoin wallet 
+  - https://github.com/breadwallet/breadwallet
+  - https://itunes.apple.com/app/breadwallet/id885251393
+- Coins: Bitcoin tracker `Swift` 🔥
+  - https://github.com/nothingmagical/coins
 
 ## Games 
  
