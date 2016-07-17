@@ -131,25 +131,6 @@
       "id": "web"
     },
     {
-      "title": "Misc",
-      "id": "misc"
-    },
-    {
-      "title": "Calculator",
-      "id": "calculator",
-      "parent": "misc"
-    },
-    {
-      "title": "Clock",
-      "id": "clock",
-      "parent": "misc"
-    },
-    {
-      "title": "Timer",
-      "id": "timer",
-      "parent": "misc"
-    },
-    {
       "title": "Special",
       "id": "special"
     },
@@ -199,14 +180,14 @@
       "parent": "reactive-programming"
     },
     {
-      "title": "[RxSwift](https://github.com/ReactiveX/RxSwift)",
-      "id": "rxswift",
-      "parent": "reactive-programming"
-    },
-    {
       "title": "Realm",
       "id": "realm",
       "parent": "special"
+    },
+    {
+      "title": "[RxSwift](https://github.com/ReactiveX/RxSwift)",
+      "id": "rxswift",
+      "parent": "reactive-programming"
     },
     {
       "title": "[VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)",
@@ -217,7 +198,26 @@
       "title": "Xamarin",
       "id": "xamarin",
       "parent": "special"
-    }
+    },
+    {
+      "title": "Misc",
+      "id": "misc"
+    },
+    {
+      "title": "Calculator",
+      "id": "calculator",
+      "parent": "misc"
+    },
+    {
+      "title": "Clock",
+      "id": "clock",
+      "parent": "misc"
+    },
+    {
+      "title": "Timer",
+      "id": "timer",
+      "parent": "misc"
+    }        
   ],
   "projects": [
     {
