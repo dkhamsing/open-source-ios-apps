@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **508** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 16, 2016*).
+A collaborative list of **508** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 17, 2016*).
  
 Jump to 
  
@@ -57,8 +57,6 @@ Jump to
 - [Bonus](#bonus) 
 
 ```
-🔶 Swift projects
-
 Projects that are not in English have a flag
 🇨🇳 Project is in Chinese
 🇪🇸 Project is in Spanish, etc
@@ -74,7 +72,7 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- Artsy Shows: Art shows on your TV 🔶🔥🔥
+- Artsy Shows: Art shows on your TV `Swift` 🔥🔥
   - https://github.com/artsy/Emergence
 - EX Player: Watch videos from ex.ua 
   - https://github.com/IGRSoft/exTVPlayer
@@ -86,14 +84,14 @@ Projects that are not in English have a flag
   - https://github.com/spritlesoftware/railscasts-on-appletv
 - Telemat-tvOS: Watch Public German Broadcast/TV company streams 🇩🇪
   - https://github.com/omichde/Telemat-tvOS
-- UitzendingGemist by 4np: Uitgebreide UitzendingGemist app voor Nederland 🔶🇳🇱
+- UitzendingGemist by 4np: Uitgebreide UitzendingGemist app voor Nederland `Swift` 🇳🇱
   - https://github.com/4np/UitzendingGemist
-- UitzendingGemist by jeffkreeftmeijer: Dutch Public Broadcasting video on demand 🔶
+- UitzendingGemist by jeffkreeftmeijer: Dutch Public Broadcasting video on demand `Swift` 
   - https://github.com/jeffkreeftmeijer/UitzendingGemist
 - Uncle Nagy's House: Uncle Nagy's House tvOS App (TVML app with Gulp tasks for building Jade and CoffeeScript) 
   - https://github.com/kenmickles/unh_tvos
   - https://itunes.apple.com/us/app/id1042172021
-- Upcoming Movies: A tvOS example app, shows upcoming movies 🔶
+- Upcoming Movies: A tvOS example app, shows upcoming movies `Swift` 
   - https://github.com/vanyaland/UpcomingMovies
 - WWDCTV: Watch the WWDC Videos on your Apple TV 🔥🔥
   - https://github.com/azzoor/WWDCTV
@@ -102,56 +100,56 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- BaiduFM-Swift 🔶🔥🔥🔥
+- BaiduFM-Swift `Swift` 🔥🔥🔥
   - https://github.com/belm/BaiduFM-Swift
 - Bither: Simple and secure Bitcoin wallet 
   - https://github.com/bither/bither-ios
   - https://itunes.apple.com/app/bither/id899478936
-- Brew: Discover craft beer pubs nearby 🔶
+- Brew: Discover craft beer pubs nearby `Swift` 
   - https://github.com/contentful/ContentfulWatchKitExample
   - https://itunes.apple.com/app/id986830433
 - Bus Today: Track bus line on your wrist 🇨🇳
   - https://github.com/JohnWong/bus-today
   - https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341
-- Calculator by mukeshthawani 🔶
+- Calculator by mukeshthawani `Swift` 
   - https://github.com/mukeshthawani/Calculator
-- Calculator by noodlewerk 🔶
+- Calculator by noodlewerk `Swift` 
   - https://github.com/noodlewerk/Apple_Watch_Calculator
-- Cherry: Mini Pomodoro Timer app 🔶🔥🔥
+- Cherry: Mini Pomodoro Timer app `Swift` 🔥🔥
   - https://github.com/kenshin03/Cherry
 - Connectivity Demo 
   - https://github.com/swilliams/watchkit-connectivity-demo
-- CoolSpot: The missing Spotify app 🔶
+- CoolSpot: The missing Spotify app `Swift` 
   - https://github.com/neonichu/CoolSpot
 - Cortado: Track your caffeine consumption habits 🔥
   - https://github.com/lazerwalker/cortado
   - https://itunes.apple.com/app/cortado/id969899327
-- Count It: Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything. 🔶
+- Count It: Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything. `Swift` 
   - https://github.com/PiXeL16/CountItApp
   - https://itunes.apple.com/app/id1098893335
-- Done: Data sharing between a WatchKit app and its main app using Realm 🔶
+- Done: Data sharing between a WatchKit app and its main app using Realm `Swift` 
   - https://github.com/FancyPixel/done-swift
 - FlickrWatch: Apple Watch face using Flickr API 
   - https://github.com/jazzychad/FlickrWatch
-- GrandCentralBoard: Hang a TV in your open space / team room to show everyone what's up and get them up to speed 🔶🔥
+- GrandCentralBoard: Hang a TV in your open space / team room to show everyone what's up and get them up to speed `Swift` 🔥
   - https://github.com/macoscope/GrandCentralBoard
-- Gulps: Track your daily water consumption 🔶🔥🔥🔥
+- Gulps: Track your daily water consumption `Swift` 🔥🔥🔥
   - https://github.com/FancyPixel/gulps
   - https://itunes.apple.com/app/gulps/id979057304
-- heartrate: Show streaming heartrate from the watch with watchOS 2 🔶🔥🔥
+- heartrate: Show streaming heartrate from the watch with watchOS 2 `Swift` 🔥🔥
   - https://github.com/coolioxlr/watchOS-2-heartrate
-- HighStreet: Highstreet shopping app 🔶🔥🔥
+- HighStreet: Highstreet shopping app `Swift` 🔥🔥
   - https://github.com/GetHighstreet/HighstreetWatchApp
-- HN Reader: Hacker News Reader 🔶🔥🔥🔥🔥
+- HN Reader: Hacker News Reader `Swift` 🔥🔥🔥🔥
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
-- Impulse: Real-time age ticker 🔶
+- Impulse: Real-time age ticker `Swift` 
   - https://github.com/Jasdev/Impulse
 - KTPomodoro: Mini Pomodoro Timer app 
   - https://github.com/kenshin03/KTPomodoro
-- Lister: List app example by Apple 🔶
+- Lister: List app example by Apple `Swift` 
   - https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html
-- Natural Language Clock: Display the time as you would speak it 🔶
+- Natural Language Clock: Display the time as you would speak it `Swift` 
   - https://github.com/chadkeck/Natural-Language-Clock
 - OnTime: Apple Watch app to access the SBB (Swiss railway) timetable 
   - https://github.com/D-32/OnTime
@@ -161,41 +159,41 @@ Projects that are not in English have a flag
 - PhoneBattery: Your phone's battery, on your wrist 
   - https://github.com/marcelvoss/PhoneBattery
   - https://itunes.apple.com/app/phonebattery-your-phones-battery/id1009278300
-- PhotoWatch: Uses the SwiftyDropbox SDK 🔶
+- PhotoWatch: Uses the SwiftyDropbox SDK `Swift` 
   - https://github.com/dropbox/PhotoWatch
-- Soon: Countdown App 🔶
+- Soon: Countdown App `Swift` 
   - https://github.com/sandofsky/soon
-- WatchKit-Apps: Tutorials app for WatchKit 🔶🔥🔥🔥🔥
+- WatchKit-Apps: Tutorials app for WatchKit `Swift` 🔥🔥🔥🔥
   - https://github.com/kostiakoval/WatchKit-Apps
-- Watchman: A WatchOS2 Hangman Game 🔶
+- Watchman: A WatchOS2 Hangman Game `Swift` 
   - https://github.com/DanToml/Watchman
-- WatchNotes: Notes on your wrist 🔶
+- WatchNotes: Notes on your wrist `Swift` 
   - https://github.com/azamsharp/WatchNotes
-- watchOS-2-Sampler: Code examples for new features of watchOS 2 🔶🔥🔥🔥
+- watchOS-2-Sampler: Code examples for new features of watchOS 2 `Swift` 🔥🔥🔥
   - https://github.com/shu223/watchOS-2-Sampler
 - WatchPics: Instagram app 
   - https://github.com/D-32/WatchPics
-- WatchSnake: Game of Snake 🔶
+- WatchSnake: Game of Snake `Swift` 
   - https://github.com/davidcairns/-WatchSnake
-- WatchStocks: Track your stocks portfolio, also includes a watch face complication 🔶
+- WatchStocks: Track your stocks portfolio, also includes a watch face complication `Swift` 
   - https://github.com/G2Jose/WatchStocks
-- Wunderschnell: Order the right product with one tap on your wrist 🔶
+- Wunderschnell: Order the right product with one tap on your wrist `Swift` 
   - https://github.com/contentful-labs/Wunderschnell
 
 ## Browser 
  
 [back to top](#readme) 
  
-- Brave: Firefox-based browser with ad blocking built in (also blocks tracking pixels/cookies) 🔶🔥🔥
+- Brave: Firefox-based browser with ad blocking built in (also blocks tracking pixels/cookies) `Swift` 🔥🔥
   - https://github.com/brave/browser-ios
   - https://itunes.apple.com/app/brave-web-browser/id1052879175
 - Endless Browser: Web browser built with privacy and security in mind 
   - https://github.com/jcs/endless
   - https://itunes.apple.com/app/endless-browser/id974745755
-- Firefox: Official Firefox app 🔶🔥🔥🔥🔥🔥
+- Firefox: Official Firefox app `Swift` 🔥🔥🔥🔥🔥
   - https://github.com/mozilla/firefox-ios
   - https://itunes.apple.com/app/firefox-web-browser/id989804926
-- Frameless: A full-screen web browser 🔶🔥🔥🔥
+- Frameless: A full-screen web browser `Swift` 🔥🔥🔥
   - https://github.com/stakes/Frameless
   - https://itunes.apple.com/app/id933580264
 - Onion Browser: A Tor-powered web browser that improves your privacy. 🔥🔥🔥
@@ -218,7 +216,7 @@ Projects that are not in English have a flag
   - https://antidote.im/
 - BLEMeshChat: Bluetooth LE mesh chat 🔥🔥
   - https://github.com/chrisballinger/BLEMeshChat
-- Chats: Messages app 🔶🔥🔥🔥🔥
+- Chats: Messages app `Swift` 🔥🔥🔥🔥
   - https://github.com/acani/Chats
 - ChatSecure: Encrypted chat app that supports OTR encryption over XMPP 🔥🔥🔥🔥
   - https://github.com/ChatSecure/ChatSecure-iOS
@@ -239,7 +237,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/m-safe-email-made-simple/id818498595
 - Mumble: Gaming-focused social voice chat utility 🔥
   - https://github.com/mumble-voip/mumble-iphoneos
-- Rocket.Chat: Meteor chat platform app 🔶🔥
+- Rocket.Chat: Meteor chat platform app `Swift` 🔥
   - https://github.com/RocketChat/Rocket.Chat.iOS
 - Signal: Free, world-wide, private messaging and phone calls for iPhone 🔥🔥🔥🔥
   - https://github.com/WhisperSystems/Signal-iOS
@@ -253,9 +251,9 @@ Projects that are not in English have a flag
 - Telegram: Messaging app with a focus on speed and security 🔥🔥🔥
   - https://github.com/peter-iakovlev/Telegram
   - https://itunes.apple.com/app/telegram-messenger/id686449807
-- TextEthan: Clone of TextEthan, a messaging app that allows anyone to message you 🔶
+- TextEthan: Clone of TextEthan, a messaging app that allows anyone to message you `Swift` 
   - https://github.com/thii/TextEthan
-- TSWeChat: A WeChat alternative 🔶🔥🔥🔥🔥
+- TSWeChat: A WeChat alternative `Swift` 🔥🔥🔥🔥
   - https://github.com/hilen/TSWeChat
 - Tutanota: End-to-end encrypted email. 🔥🔥🔥🔥
   - https://github.com/tutao/tutanota
@@ -266,20 +264,20 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- EventBlankApp: App for events or conferences 🔶🔥🔥
+- EventBlankApp: App for events or conferences `Swift` 🔥🔥
   - https://github.com/icanzilb/EventBlankApp
-- Hack Cancer: Hackathon app 🔶
+- Hack Cancer: Hackathon app `Swift` 
   - https://github.com/HackCancer/iOS
   - https://itunes.apple.com/app/hack-cancer/id1030806844
 - NortalTechDay: Nortal TechDay 2015 app 🔥
   - https://github.com/mikkoj/NortalTechDay
 - ParseDeveloperDay: Parse 2013 developer conference app 
   - https://github.com/ParsePlatform/ParseDeveloperDay
-- RWDevCon: RWDevCon app 🔶
+- RWDevCon: RWDevCon app `Swift` 
   - https://github.com/raywenderlich/RWDevCon-App
-- trySwiftApp: try! Swift conference app 🔶🔥🔥
+- trySwiftApp: try! Swift conference app `Swift` 🔥🔥
   - https://github.com/tryswift/trySwiftApp
-- Valio: Valio Con 2014 schedule 🔶🔥🔥
+- Valio: Valio Con 2014 schedule `Swift` 🔥🔥
   - https://github.com/soffes/valio
 
 ## Content Blocking 
@@ -294,9 +292,9 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/adblock-plus-abp/id1028871868
 - BlockParty 🔥🔥🔥
   - https://github.com/krishkumar/BlockParty
-- Focus: Content blocker by Firefox 🔶🔥🔥
+- Focus: Content blocker by Firefox `Swift` 🔥🔥
   - https://github.com/mozilla/focus
-- Swab: The Content Blocker of Creative, Web and Design Culture Ads 🔶
+- Swab: The Content Blocker of Creative, Web and Design Culture Ads `Swift` 
   - https://github.com/pkamb/swab
   - http://swabthe.com/
   - https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002
@@ -305,21 +303,21 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- AppLove: View app reviews for all territories (countries) 🔶
+- AppLove: View app reviews for all territories (countries) `Swift` 
   - https://github.com/snowpunch/AppLove
   - https://itunes.apple.com/app/app-love/id1099336831
 - AppSlate: Make your own iOS applications. 🔥
   - https://github.com/Taehan-Kim/AppSlate
   - https://www.facebook.com/AppSlate
   - https://itunes.apple.com/app/id511327336
-- Bequest: Create and replay HTTP/S requests 🔶
+- Bequest: Create and replay HTTP/S requests `Swift` 
   - https://github.com/splinesoft/Bequest
 - Blink: Mobile shell terminal based on Mosh 
   - https://github.com/blinksh/blink
-- Charter: A Swift mailing list client for iPhone and iPad 🔶🔥🔥
+- Charter: A Swift mailing list client for iPhone and iPad `Swift` 🔥🔥
   - https://github.com/matthewpalmer/Charter
   - https://itunes.apple.com/app/charter-mailing-list-client/id1082212697
-- CI2Go: An unofficial CircleCI Client 🔶
+- CI2Go: An unofficial CircleCI Client `Swift` 
   - https://github.com/ngs/ci2go
   - https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427
 - CodeBucket: Browse and maintain your Bitbucket repositories 🔥
@@ -331,14 +329,14 @@ Projects that are not in English have a flag
   - https://github.com/piwik/piwik-mobile-2
   - https://piwik.org/mobile/
   - https://itunes.apple.com/app/id737216887
-- RealmVideo: Watch Realm videos and slides on your phone 🔶🔥🔥
+- RealmVideo: Watch Realm videos and slides on your phone `Swift` 🔥🔥
   - https://github.com/BalestraPatrick/RealmVideo
-- Review Time: Shows average review times for iOS and Mac apps 🔶🔥
+- Review Time: Shows average review times for iOS and Mac apps `Swift` 🔥
   - https://github.com/nthegedus/ReviewTime
-- TLDR Man Page: Reference dictionary for computer manual commands, but in TL;DR (Too long didn't read) mode 🔶
+- TLDR Man Page: Reference dictionary for computer manual commands, but in TL;DR (Too long didn't read) mode `Swift` 
   - https://github.com/freesuraj/TLDR
   - https://itunes.apple.com/app/tldr-man-page/id1073433250
-- wat: Very simple packet sniffer in Swift 🔶
+- wat: Very simple packet sniffer in Swift `Swift` 
   - https://github.com/pj4533/wat
 
 ### GitHub 
@@ -352,14 +350,14 @@ Projects that are not in English have a flag
 - GitBucket: GitHub client using MVVM & ReactiveCocoa 🔥🔥🔥🔥🔥
   - https://github.com/leichunfeng/MVVMReactiveCocoa
   - https://itunes.apple.com/app/id961330940
-- Github-Swift: App written in Swift using the Github API 🔶
+- Github-Swift: App written in Swift using the Github API `Swift` 
   - https://github.com/acmacalister/Github-Swift
 - Monkey: GitHub third party client that shows the rank of coders and repositories 🔥🔥🔥🔥
   - https://github.com/coderyi/Monkey
   - https://itunes.apple.com/app/monkey-for-github/id1003765407
 - MrCode: GitHub iPhone app that can cache Markdown content 🇨🇳🔥🔥
   - https://github.com/haolloyin/MrCode
-- OctoPodium: List user rankings based on GitHub repository star count 🔶🔥
+- OctoPodium: List user rankings based on GitHub repository star count `Swift` 🔥
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
 - SwiftHub: View Swift repositories from Github 
@@ -375,10 +373,10 @@ Projects that are not in English have a flag
 - breadwallet: Bitcoin wallet 
   - https://github.com/breadwallet/breadwallet
   - https://itunes.apple.com/app/breadwallet/id885251393
-- Buck Tracker: Expense tracker 🔶
+- Buck Tracker: Expense tracker `Swift` 
   - https://github.com/hkalexling/Buck_Tracker
   - https://itunes.apple.com/app/ibudgeter/id1048395728
-- Coins: Bitcoin value tracker 🔶🔥
+- Coins: Bitcoin value tracker `Swift` 🔥
   - https://github.com/nothingmagical/coins
 - Concurrency: Beautiful, intuitive currency converter 🔥🔥
   - https://github.com/nicklockwood/Concurrency
@@ -386,15 +384,15 @@ Projects that are not in English have a flag
 - doughwallet: Dogecoin wallet 
   - https://github.com/peritus/doughwallet
   - https://itunes.apple.com/app/doughwallet/id951731776
-- EMI Calculator for Home, Personal & Car Loan: Calculate your Equated Monthly instalment (EMI) for Home loan, Housing loan, Car loan & Personal loan 🔶
+- EMI Calculator for Home, Personal & Car Loan: Calculate your Equated Monthly instalment (EMI) for Home loan, Housing loan, Car loan & Personal loan `Swift` 
   - https://github.com/tirupati17/loan-emi-calculator-clean-swift
   - https://itunes.apple.com/app/id1105890730
 - Neverlate: Pay-if-U-R-late app using geofences and Venmo API 
   - https://github.com/ayunav/Neverlate
-- Savings Assistant: Expense tracker 🔶
+- Savings Assistant: Expense tracker `Swift` 
   - https://github.com/chrisamanse/savings-assistant
   - https://itunes.apple.com/app/savings-assistant/id1022760996
-- SIP - Calculator: SIP calculator calculates the future value of SIP (Systematic Investment Plan) payments 🔶
+- SIP - Calculator: SIP calculator calculates the future value of SIP (Systematic Investment Plan) payments `Swift` 
   - https://github.com/tirupati17/sip-calculator-swift
   - https://itunes.apple.com/app/id1092822415
 - TodayStocks: Lightweight stocks app that shows your portfolio in a minimalist today extension 
@@ -412,7 +410,7 @@ Projects that are not in English have a flag
   - https://github.com/austinzheng/iOS-2048
 - 2048 in Objective-C using SpriteKit 🔥🔥🔥
   - https://github.com/danqing/2048
-- 2048 in Swift 🔶🔥🔥🔥🔥🔥
+- 2048 in Swift `Swift` 🔥🔥🔥🔥🔥
   - https://github.com/austinzheng/swift-2048
 - Aeropack: A steampunk retro 2d platformer. 
   - https://github.com/insurgentgames/Aeropack
@@ -424,19 +422,19 @@ Projects that are not in English have a flag
 - Canabalt: Infinite runner 🔥🔥🔥🔥
   - https://github.com/ericjohnson/canabalt-ios
   - https://itunes.apple.com/app/canabalt/id333180061
-- CardsAgainst: Cards Against Humanity app 🔶🔥🔥
+- CardsAgainst: Cards Against Humanity app `Swift` 🔥🔥
   - https://github.com/jpsim/CardsAgainst
 - Castle Hassle: A real-time physical game where you build your kingdom while crushing your opponents. 🔥
   - https://github.com/bryceredd/CastleHassle
   - https://itunes.apple.com/app/castle-hassle/id524566068
-- Chess: Chess game to learn SpriteKit 🔶
+- Chess: Chess game to learn SpriteKit `Swift` 
   - https://github.com/mjcuva/Chess
 - Chuck: Throw a ball and catch it. Over and over and over. 
   - https://github.com/moowahaha/Chuck
   - https://itunes.apple.com/app/chuck/id1050453297
 - CodeCombat: Multiplayer programming game for learning how to code 
   - https://github.com/codecombat/codecombat-ios
-- Concentration game (翻翻看) 🔶🇨🇳🔥
+- Concentration game (翻翻看) `Swift` 🇨🇳🔥
   - https://github.com/geek5nan/FanFanSwift
 - Cryptose: Solve cryptograms as a Hacker, Detective, or Spy. 
   - https://github.com/insurgentgames/Cryptose
@@ -449,7 +447,7 @@ Projects that are not in English have a flag
 - Dragon Shout App 2: A social journal for the Elder Scrolls® series. 
   - https://github.com/rblalock/dragon_shout_app_open_source
   - https://itunes.apple.com/app/id690208182
-- DropColour Game in Swift 2.2: Arcade game in which you simply have to drag and drop one circle onto another of the same color. 🔶
+- DropColour Game in Swift 2.2: Arcade game in which you simply have to drag and drop one circle onto another of the same color. `Swift` 
   - https://github.com/elpassion/DropColour-iOS
   - https://itunes.apple.com/app/dropcolour/id1046339763
 - Dungeon Crawl: A game of dungeon exploration, combat and magic, involving characters of diverse skills 
@@ -457,13 +455,13 @@ Projects that are not in English have a flag
   - https://github.com/CliffsDover/crawl/tree/iOS_Release
 - Five In A Row (五子棋): SpriteKit game 🇨🇳
   - https://github.com/WelkinXie/FiveInARow
-- FlappySwift: Swift implementation of Flappy Bird 🔶🔥🔥🔥🔥🔥
+- FlappySwift: Swift implementation of Flappy Bird `Swift` 🔥🔥🔥🔥🔥
   - https://github.com/fullstackio/FlappySwift
 - Frotz: Play hundreds of free works of Interactive Fiction (a.k.a. text adventure games). 
   - https://github.com/ifrotz/iosfrotz
   - https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md
   - https://itunes.apple.com/app/id287653015
-- Game Of Life: Conway's Game of Life 🔶
+- Game Of Life: Conway's Game of Life `Swift` 
   - https://github.com/yonbergman/swift-gameoflife
 - GBA4iOS: Gameboy, Gameboy Color & Gameboy Advance emulator 
   - https://bitbucket.org/rileytestut/gba4ios/
@@ -471,7 +469,7 @@ Projects that are not in English have a flag
   - https://github.com/Lyndir/Gorillas
   - http://gorillas.lyndir.com/
   - https://itunes.apple.com/app/gorillas/id302275459
-- GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 🔶
+- GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 `Swift` 
   - https://github.com/gamechina/GrubbyWorm
 - Hedgewars: A turn-based strategy game. 
   - http://hg.hedgewars.org/hedgewars/
@@ -495,12 +493,12 @@ Projects that are not in English have a flag
 - MUDRammer: MUD Client for iPhone and iPad 
   - https://github.com/splinesoft/MUDRammer
   - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
-- My First Memory: Introduction to iOS & Swift / memory game implementation fetching images from Instagram 🔶
+- My First Memory: Introduction to iOS & Swift / memory game implementation fetching images from Instagram `Swift` 
   - https://github.com/Sajjon/SwiftIntro
 - Neocom for EVE Online: The character management tool for EveOnline MMORG. 
   - https://github.com/mrdepth/Neocom
   - https://itunes.apple.com/app/eveuniverse/id418895101
-- Orbit7: Game created in SpriteKit 🔶
+- Orbit7: Game created in SpriteKit `Swift` 
   - https://github.com/Mav3r1ck/Orbit7
 - Pterodactyl Attack: Blast your way through waves of pterodactyls. Also has a detailed writeup on how it's made. 
   - https://github.com/shaunlebron/PterodactylAttack
@@ -514,7 +512,7 @@ Projects that are not in English have a flag
 - Scary Flight: Just another yet FlappyBird-style game 
   - https://github.com/EvgenyKarkan/ScaryFlight
   - https://itunes.apple.com/app/scary-flight/id824428528
-- SceneKitFrogger 🔶
+- SceneKitFrogger `Swift` 
   - https://github.com/devindazzle/SceneKitFrogger
 - SHMUP: 3D multiplatform game written primarily in C 🔥
   - https://github.com/fabiensanglard/Shmup
@@ -525,7 +523,7 @@ Projects that are not in English have a flag
 - Spare Parts: Simple 2D point and line physics using Verlet integration 
   - https://github.com/adamwulf/spare-parts-app
   - https://itunes.apple.com/app/spare-parts/id981297199
-- Stick-Hero-Swift: Universal iOS Game using Swift and iOS SpriteKit 🔶🔥🔥
+- Stick-Hero-Swift: Universal iOS Game using Swift and iOS SpriteKit `Swift` 🔥🔥
   - https://github.com/phpmaple/Stick-Hero-Swift
 - teh internets: Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter. 
   - https://github.com/insurgentgames/teh-internets
@@ -567,21 +565,21 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- Abby's Cycle: A HealthKit powered menstrual cycle tracker 🔶
+- Abby's Cycle: A HealthKit powered menstrual cycle tracker `Swift` 
   - https://github.com/jc4p/abby-healthkit
-- Arex: Reminders for taking your medications 🔶
+- Arex: Reminders for taking your medications `Swift` 
   - https://github.com/a2/arex-7
-- CaseAssistant: Cases recording, study, and sharing for ophthalmologist 🔶🇨🇳🔥
+- CaseAssistant: Cases recording, study, and sharing for ophthalmologist `Swift` 🇨🇳🔥
   - https://github.com/herrkaefer/CaseAssistant
   - https://itunes.apple.com/app/id1003007080
-- Depressed: Test if you are depressed 🔶
+- Depressed: Test if you are depressed `Swift` 
   - https://github.com/DerLobi/Depressed
   - https://itunes.apple.com/app/depressed/id1062594092
-- HealthKit~Swift: Sample app for Apple HealthKit 🔶
+- HealthKit~Swift: Sample app for Apple HealthKit `Swift` 
   - https://github.com/Darktt/HealthKit-Swift
-- Jim: Track your gym workouts 🔶
+- Jim: Track your gym workouts `Swift` 
   - https://github.com/kylejm/Jim
-- LogU: A Strength Logger is a simple logging application for strength athletes. 🔶
+- LogU: A Strength Logger is a simple logging application for strength athletes. `Swift` 
   - https://github.com/brettalcox/logU-swift
   - https://itunes.apple.com/app/logu-a-strength-logger/id1084487510
 - rTracker: A generic, customizable personal data tracker 
@@ -598,7 +596,7 @@ Projects that are not in English have a flag
 - AsthmaHealth: ResearchKit app studying Asthma 
   - https://github.com/ResearchKit/AsthmaHealth
   - https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668
-- Colorblind: ResearchKit app built in swift in order to provide an easy test for colorblind people. 🔶
+- Colorblind: ResearchKit app built in swift in order to provide an easy test for colorblind people. `Swift` 
   - https://github.com/boostcode/ResearchKit-ColorBlind
   - https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412
 - GlucoSuccess: ResearchKit app studying Diabetes 
@@ -624,9 +622,9 @@ Projects that are not in English have a flag
 - ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8 
   - https://github.com/b3ll/ClickWheelKeyboard
   - https://itunes.apple.com/app/click-wheel-keyboard/id993111285
-- Hodor: Fun Hodor keyboard 🔶
+- Hodor: Fun Hodor keyboard `Swift` 
   - https://github.com/jonomuller/Hodor-Keyboard
-- NaughtyKeyboard: Keyboard that supports The Big List of Naughty Strings 🔶🔥🔥🔥
+- NaughtyKeyboard: Keyboard that supports The Big List of Naughty Strings `Swift` 🔥🔥🔥
   - https://github.com/Palleas/NaughtyKeyboard
 - Slidden: An open source, customizable, iOS keyboard 🔥🔥
   - https://github.com/Brimizer/Slidden
@@ -635,9 +633,9 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- Alarm: Geolocation based alarm app for travelers 🔶🔥
+- Alarm: Geolocation based alarm app for travelers `Swift` 🔥
   - https://github.com/ChrisChares/swift-alarm
-- Cafe 🔶🇨🇳
+- Cafe `Swift` 🇨🇳
   - https://github.com/flexih/Cafe
   - https://itunes.apple.com/app/diao-ke-shi-guang/id440983941
 - Closebox: Find the Closest Postbox 
@@ -651,11 +649,11 @@ Projects that are not in English have a flag
 - EatNow: Get recommendations for restaurants nearby 
   - https://github.com/callzhang/Eat-Now
   - https://itunes.apple.com/app/eat-now-instant-personalized/id946591471
-- Find My Bus NJ: Track NJ Transit bus times 🔶
+- Find My Bus NJ: Track NJ Transit bus times `Swift` 
   - https://github.com/findmybusnj/findmybusnj-swift
 - GeoTappy: Share your location 
   - https://github.com/GeoTappy/GeoTappy-iOS
-- HopperBus: Timetable for the University of Nottingham Hopper Bus 🔶
+- HopperBus: Timetable for the University of Nottingham Hopper Bus `Swift` 
   - https://github.com/TosinAF/HopperBus-iOS
 - iBeaconTasks: iBeacon TODO reminder app based on Parse 🔥
   - https://github.com/TomekB/iBeaconTasks
@@ -683,10 +681,10 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/id934850257
 - OwnTracks: Keep track of your own location, you can build your private location diary or share it with your family and friends. 
   - https://github.com/owntracks/ios
-- ParkenDD: Check the status of several public parking lots in Germany and Switzerland 🔶
+- ParkenDD: Check the status of several public parking lots in Germany and Switzerland `Swift` 
   - https://github.com/kiliankoe/ParkenDD
   - https://itunes.apple.com/app/parkendd/id957165041
-- pathlogger: GPS logging application written in Swift 🔶
+- pathlogger: GPS logging application written in Swift `Swift` 
   - https://github.com/eugenpirogoff/pathlogger
 - PebCiti: Pebble app to show nearest CitiBike NYC dock 
   - https://github.com/joemasilotti/PebCiti
@@ -694,14 +692,14 @@ Projects that are not in English have a flag
   - https://github.com/prey/prey-ios-client
   - https://preyproject.com/
   - https://itunes.apple.com/app/id456755037
-- Prey Swift Client: Track lost or stolen devices and perform actions remotely. 🔶
+- Prey Swift Client: Track lost or stolen devices and perform actions remotely. `Swift` 
   - https://github.com/prey/prey-swift-client
   - https://preyproject.com/
 - Smart Traveller (UberGuide): Simple and comfortable way to explore a city using Uber API 🔥🔥
   - https://github.com/hACKbUSTER/UberGuide-iOS
 - Startups - Mapped In Israel: Discover new startups and locate co-working spaces 
   - https://github.com/sugarso/MappedInIsrael
-- Swift-Walk-Tracker: An open source walk tracking iOS App 🔶
+- Swift-Walk-Tracker: An open source walk tracking iOS App `Swift` 
   - https://github.com/kevinvanderlugt/Swift-Walk-Tracker
 - Traccar Client: Report device location to the server 
   - https://github.com/tananaev/traccar-client-ios
@@ -724,7 +722,7 @@ Image, video, audio, reading — [back to top](#readme)
 - 360 VR Player: Universal 360 video player 🔥🔥🔥🔥
   - https://github.com/hanton/HTY360Player
   - https://itunes.apple.com/app/360-vr-player/id1061464612
-- Analog Synth X: Analog Synthesizer Keyboard Music App, created w/ Swift 2  ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX)) 🔶
+- Analog Synth X: Analog Synthesizer Keyboard Music App, created w/ Swift 2  ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX)) `Swift` 
   - http://matthewfecher.com/app-developement/swift-synth/
 - Artsy: The Art World in Your Pocket 🔥🔥🔥🔥
   - https://github.com/artsy/eigen
@@ -742,9 +740,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/comicflow/id409290355
 - DoubanFM: douban.fm client for iPhone, using AFN and MPMoviePlayer 🇨🇳🔥🔥
   - https://github.com/XVXVXXX/DoubanFM
-- DownTube: Download any video from YouTube for offline use 🔶
+- DownTube: Download any video from YouTube for offline use `Swift` 
   - https://github.com/MrAdamBoyd/DownTube
-- Dunk: Dribbble client 🔶🔥🔥
+- Dunk: Dribbble client `Swift` 🔥🔥
   - https://github.com/naoyashiga/Dunk
   - https://itunes.apple.com/app/dunk-for-dribbble/id1003028105
 - Eleven: Eleven Player is a simple powerful video player, uses ffmpeg 🔥🔥
@@ -752,7 +750,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/elevenplayer/id1033773648
 - EX Player: Watch videos from ex.ua 
   - https://github.com/IGRSoft/exTVPlayer
-- Filterpedia: Core Image Filter explorer 🔶🔥🔥🔥🔥
+- Filterpedia: Core Image Filter explorer `Swift` 🔥🔥🔥🔥
   - https://github.com/FlexMonkey/Filterpedia
 - Flickr-Search: Simple app which consumes the Flickr Search API 
   - https://github.com/alikaragoz/Flickr-Search
@@ -767,7 +765,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/xbmc/xbmc
   - https://kodi.tv/
   - https://itunes.apple.com/app/id520480364
-- KonaBot: unofficial client for konachan.net 🔶
+- KonaBot: unofficial client for konachan.net `Swift` 
   - https://github.com/hkalexling/KonaBot-iOS
   - https://itunes.apple.com/app/konabot/id1055716649
 - Longboxed: Track the releases of your favorite comics. 
@@ -775,10 +773,10 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339
 - Megabite: Turn a photo of your food into a face 🔥🔥
   - https://github.com/AaronRandall/Megabite
-- Meme Maker: Create and share memes! 🔶
+- Meme Maker: Create and share memes! `Swift` 
   - https://github.com/MemeMaker/Meme-Maker-iOS
   - https://itunes.apple.com/app/id962121383
-- MiamiSunglasses: An app that plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH). 🔶
+- MiamiSunglasses: An app that plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH). `Swift` 
   - https://github.com/DeveloperACE/MiamiSunglasses
 - movies: Movie info app 🔥🔥🔥
   - https://github.com/KMindeguia/movies
@@ -786,7 +784,7 @@ Image, video, audio, reading — [back to top](#readme)
   - http://git.ghostscript.com/?p=mupdf.git;a=summary
   - http://mupdf.com/
   - https://itunes.apple.com/app/id482941798
-- My First Memory: Introduction to iOS & Swift / memory game implementation fetching images from Instagram 🔶
+- My First Memory: Introduction to iOS & Swift / memory game implementation fetching images from Instagram `Swift` 
   - https://github.com/Sajjon/SwiftIntro
 - OCiney: Movie info app 🔥🔥
   - https://github.com/florent37/OCiney-iOS
@@ -799,14 +797,14 @@ Image, video, audio, reading — [back to top](#readme)
 - PhishOD: Listen to any song from Phish.in and view concert ratings and reviews from phish.net 
   - https://github.com/alecgorge/PhishOD-iOS
   - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018
-- PhotoBrowser: A simple iOS Instagram photo browser 🔶🔥🔥
+- PhotoBrowser: A simple iOS Instagram photo browser `Swift` 🔥🔥
   - https://github.com/MoZhouqi/PhotoBrowser
-- Pictograph: Hide messages in images using steganography 🔶
+- Pictograph: Hide messages in images using steganography `Swift` 
   - https://github.com/MrAdamBoyd/Pictograph
   - https://itunes.apple.com/us/app/id1051879856
-- PopcornTime: PopcornTime movie app 🔶🔥
+- PopcornTime: PopcornTime movie app `Swift` 🔥
   - https://github.com/danylokostyshyn/popcorntime-ios
-- Poppins: House all your favorite GIFs and easily share them with your friends and family 🔶🔥
+- Poppins: House all your favorite GIFs and easily share them with your friends and family `Swift` 🔥
   - https://github.com/thoughtbot/poppins
   - https://itunes.apple.com/app/poppins/id978854068
 - prankPro: Record a 6 second video while playing prank sounds 🔥🔥
@@ -815,38 +813,38 @@ Image, video, audio, reading — [back to top](#readme)
   - https://sourceforge.net/projects/projectm/
   - http://projectm.sourceforge.net/
   - https://itunes.apple.com/app/id530922227
-- Pugs: Simple pug photo viewer 🔶
+- Pugs: Simple pug photo viewer `Swift` 
   - https://github.com/soffes/Pugs
 - Radio Paradise: A client for [RadioParadise](http://www.radioparadise.com/rp_2.php). 
   - https://github.com/ilTofa/rposx
   - https://www.iltofa.com/rphd/
   - https://itunes.apple.com/app/id663334697
-- ReactiveKitten: It's about gifs and cats, example project for Interstellar 🔶
+- ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
   - https://github.com/JensRavens/ReactiveKitten
-- RealmVideo: Watch Realm videos and slides on your phone 🔶🔥🔥
+- RealmVideo: Watch Realm videos and slides on your phone `Swift` 🔥🔥
   - https://github.com/BalestraPatrick/RealmVideo
 - Revolved: 3D modelling app for the iPad 🔥🔥🔥
   - https://github.com/Ciechan/Revolved
-- SoundCloudSwift: SoundCloud client written on Swift 🔶🔥
+- SoundCloudSwift: SoundCloud client written on Swift `Swift` 🔥
   - https://github.com/pepibumur/SoundCloudSwift
-- Swift ASCII Art Generator 🔶🔥
+- Swift ASCII Art Generator `Swift` 🔥
   - https://github.com/ijoshsmith/swift-ascii-art
-- Swift Radio Pro: Professional Radio Station App, created w/ Swift 2.0 🔶🔥🔥🔥🔥
+- Swift Radio Pro: Professional Radio Station App, created w/ Swift 2.0 `Swift` 🔥🔥🔥🔥
   - https://github.com/swiftcodex/Swift-Radio-Pro
-- Swift-Gif: Gif Search 🔶
+- Swift-Gif: Gif Search `Swift` 
   - https://github.com/pjchavarria/Swift-Gif
-- Swifteroid: A manual HDR exposure camera app written in Swift 🔶
+- Swifteroid: A manual HDR exposure camera app written in Swift `Swift` 
   - https://github.com/eugenpirogoff/swifteroid
-- SwiftFlickrApp: Flickr popular photo viewer 🔶🔥🔥
+- SwiftFlickrApp: Flickr popular photo viewer `Swift` 🔥🔥
   - https://github.com/synboo/SwiftFlickrApp
-- SwiftSpace: CoreMotion Controlled Drawing in 3D Space 🔶
+- SwiftSpace: CoreMotion Controlled Drawing in 3D Space `Swift` 
   - https://github.com/FlexMonkey/SwiftSpace
-- Tagger: Tagger helps you increase the number of Instagram or Flickr followers and likes on your pictures. 🔶
+- Tagger: Tagger helps you increase the number of Instagram or Flickr followers and likes on your pictures. `Swift` 
   - https://github.com/vanyaland/Tagger
 - TechTavta: Keep track of all events for Techtatva 2015 
   - https://github.com/LUGM/TechTatva-15
   - https://itunes.apple.com/app/techtatva15/id922178880
-- Textbook: textbooks from People's Education Press in China 🔶🇨🇳
+- Textbook: textbooks from People's Education Press in China `Swift` 🇨🇳
   - https://github.com/JohnWong/textbook
   - https://itunes.apple.com/app/ke-ben/id993244460
 - That Movie With: Find common movies among actors 
@@ -859,7 +857,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/videolan/vlc
   - https://www.videolan.org/
   - https://itunes.apple.com/app/vlc-for-ios/id650377962
-- VoiceMemos: Universal audio recorder app 🔶🔥🔥
+- VoiceMemos: Universal audio recorder app `Swift` 🔥🔥
   - https://github.com/MoZhouqi/VoiceMemos
 - xkcd: iPhone app 
   - https://github.com/paulrehkugler/xkcd
@@ -880,10 +878,10 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/ryanipete/AmericanChronicle
   - http://ryanipete.com/AmericanChronicle/
   - https://itunes.apple.com/app/id1092988367
-- Designer News App 🔶🔥🔥🔥🔥
+- Designer News App `Swift` 🔥🔥🔥🔥
   - https://github.com/MengTo/DesignerNewsApp
   - https://itunes.apple.com/app/designer-news-app/id879990495
-- Feeds4U: Well architected RSS reader 🔶
+- Feeds4U: Well architected RSS reader `Swift` 
   - https://github.com/EvgenyKarkan/Feeds4U
   - https://itunes.apple.com/app/feeds4u/id1038456442
 - GrinnellEvents: Grinnell Events gathers all events on campus, and lists them so you can see what's happening 
@@ -891,14 +889,14 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/grinnell-events/id924312300
 - NirZhihuDaily2.0 🇨🇳🔥🔥🔥🔥
   - https://github.com/zpz1237/NirZhihuDaily2.0
-- Reddit: Reddit news app 🔶
+- Reddit: Reddit news app `Swift` 
   - https://github.com/amitburst/reddit-demo
 - RSSRead: A RSS reader with offline feature 🇨🇳🔥🔥🔥
   - https://github.com/ming1016/RSSRead
   - https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364
 - TabDump: TabDump news app 
   - https://github.com/dkhamsing/TabDump
-- The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan 🔶🔥🔥
+- The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan `Swift` 🔥🔥
   - https://github.com/aclissold/the-oakland-post
   - https://itunes.apple.com/app/oakland-post/id931152313
 - v2ex: An app for the technical and creative website v2ex.com 🇨🇳🔥🔥🔥🔥
@@ -912,23 +910,23 @@ Image, video, audio, reading — [back to top](#readme)
 - Hacker News Client: Firebase API-Based iOS Reader (Firebase) 🔥🔥
   - https://github.com/bonzoq/hniosreader
   - https://itunes.apple.com/app/hacker-news-client/id939454231
-- HackerNews 🔶🔥🔥🔥
+- HackerNews `Swift` 🔥🔥🔥
   - https://github.com/amitburst/HackerNews
 - HackerNews (Y): Built using pure Objective-C with official HN API (uses Firebase and Fabric) 
   - https://github.com/vetri02/HackerNews
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
-- Hackers 🔶🔥🔥
+- Hackers `Swift` 🔥🔥
   - https://github.com/weiran/Hackers
-- HN Reader: Hacker News Reader 🔶🔥🔥🔥🔥
+- HN Reader: Hacker News Reader `Swift` 🔥🔥🔥🔥
   - https://github.com/Dimillian/SwiftHN
   - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
-- HN-App 🔶
+- HN-App `Swift` 
   - https://github.com/NikantVohra/HackerNewsClient-iOS
   - https://itunes.apple.com/app/hn-app/id983203003
 - news: yc 🔥🔥🔥🔥
   - https://github.com/Xuzz/newsyc
   - https://itunes.apple.com/app/news-yc/id434787119
-- News/YC: Hacker News client with user management, commenting, submitting and themes 🔶🔥🔥🔥
+- News/YC: Hacker News client with user management, commenting, submitting and themes `Swift` 🔥🔥🔥
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
 - Simple Reader 🔥
@@ -939,7 +937,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Awesome Swift iOS App: awesome-swift repository official app 🔶
+- Awesome Swift iOS App: awesome-swift repository official app `Swift` 
   - https://github.com/matteocrippa/awesomeSwift-iOS-App
 - Coding: Official Coding app 🔥🔥🔥🔥
   - https://github.com/Coding/Coding-iOS
@@ -947,7 +945,7 @@ Image, video, audio, reading — [back to top](#readme)
 - DuckDuckGo: Official DuckDuckGo app 🔥
   - https://github.com/duckduckgo/ios
   - https://itunes.apple.com/app/duckduckgo-search-stories/id663592361
-- Firefox: Official Firefox app 🔶🔥🔥🔥🔥🔥
+- Firefox: Official Firefox app `Swift` 🔥🔥🔥🔥🔥
   - https://github.com/mozilla/firefox-ios
   - https://itunes.apple.com/app/firefox-web-browser/id989804926
 - Kodi: A popular media player and entertainment hub. 🔥🔥🔥🔥🔥
@@ -961,7 +959,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/ilTofa/rposx
   - https://www.iltofa.com/rphd/
   - https://itunes.apple.com/app/id663334697
-- Scholars of WWDC: The official app of the WWDC Scholarship Recipients 🔶
+- Scholars of WWDC: The official app of the WWDC Scholarship Recipients `Swift` 
   - https://github.com/WWDCScholars/WWDCScholars-iOS
   - http://wwdcscholars.com/
   - https://itunes.apple.com/app/scholars-of-wwdc/id999731893
@@ -987,28 +985,28 @@ Image, video, audio, reading — [back to top](#readme)
   - https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code
 - Apple WWDC 2015: Code samples from WWDC 2015 
   - https://developer.apple.com/sample-code/wwdc/2015/
-- Cannonball: Fun way to create and share stories and poems using Fabric 🔶🔥🔥
+- Cannonball: Fun way to create and share stories and poems using Fabric `Swift` 🔥🔥
   - https://github.com/twitterdev/cannonball-ios
   - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
 - CloudKit in Objective-C 🔥
   - https://github.com/Yalantis/CloudKit-Demo.Objective-C
-- CloudKit in Swift 🔶🔥
+- CloudKit in Swift `Swift` 🔥
   - https://github.com/Yalantis/CloudKit-Demo.Swift
-- Federal Data SDK 🔶
+- Federal Data SDK `Swift` 
   - https://github.com/USDepartmentofLabor/Swift-Sample-App
-- Furni: Furniture store demo app using Fabric 🔶🔥🔥🔥
+- Furni: Furniture store demo app using Fabric `Swift` 🔥🔥🔥
   - https://github.com/twitterdev/furni-ios
-- HomeKit-Demo 🔶🔥🔥
+- HomeKit-Demo `Swift` 🔥🔥
   - https://github.com/KhaosT/HomeKit-Demo
 - iOS 8 Sampler: Code examples for the new functions in iOS 8 🔥🔥🔥🔥🔥
   - https://github.com/shu223/iOS8-Sampler
-- iOS 9 Sampler: Code examples for the new functions in iOS 9 🔶🔥🔥🔥🔥🔥
+- iOS 9 Sampler: Code examples for the new functions in iOS 9 `Swift` 🔥🔥🔥🔥🔥
   - https://github.com/shu223/iOS-9-Sampler
 - Knock: Use Accelerometer and background mode to create a feature of knocking your phone 
   - https://github.com/MatheusCavalca/Knock
-- Layer-Parse: This is a Swift sample app that integrates Layer and Atlas with Parse 🔶🔥
+- Layer-Parse: This is a Swift sample app that integrates Layer and Atlas with Parse `Swift` 🔥
   - https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example
-- LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶🔥🔥🔥
+- LayerPlayer: Explore the capabilities of Apple's Core Animation API `Swift` 🔥🔥🔥
   - https://github.com/scotteg/LayerPlayer
   - https://itunes.apple.com/app/layer-player/id949768742
 - LVMC: Multicolumn ListView helper library for Titanium 
@@ -1016,21 +1014,21 @@ Image, video, audio, reading — [back to top](#readme)
 - OpenShop.io: Ecommerce shopping app 🔥
   - https://github.com/openshopio/openshop.io-ios
   - https://itunes.apple.com/app/id1088689646
-- Polls: iOS Client for Polls API by Apiary 🔶
+- Polls: iOS Client for Polls API by Apiary `Swift` 
   - https://github.com/apiaryio/polls-app
-- ReactiveKitten: It's about gifs and cats, example project for Interstellar 🔶
+- ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
   - https://github.com/JensRavens/ReactiveKitten
-- Reusable Code: Reusable code, written in Swift 🔶🔥🔥🔥🔥🔥
-  - https://github.com/carlbutron/Swift
+- Reusable Code: Reusable code, written in Swift `Swift` 🔥🔥🔥🔥🔥
+  - https://github.com/carlbtrn/Swift
 - RKGist: GitHub Gist app using RestKit 
   - https://github.com/RestKit/RKGist
-- SafariAutoLoginTest: Demo showing how to auto-login users in iOS 9 based on Safari cookies 🔶🔥🔥
+- SafariAutoLoginTest: Demo showing how to auto-login users in iOS 9 based on Safari cookies `Swift` 🔥🔥
   - https://github.com/mackuba/SafariAutoLoginTest
-- Starship: A generic API client application using Hyperdrive 🔶
+- Starship: A generic API client application using Hyperdrive `Swift` 
   - https://github.com/kylef/Starship
-- StateRestorationDemo: State preservation and restoration APIs 🔶
+- StateRestorationDemo: State preservation and restoration APIs `Swift` 
   - https://github.com/shagedorn/StateRestorationDemo
-- Swift-Demos: Collection of demos for Swift 🔶🇨🇳🔥🔥🔥🔥
+- Swift-Demos: Collection of demos for Swift `Swift` 🇨🇳🔥🔥🔥🔥
   - https://github.com/Lax/iOS-Swift-Demos
 
 ## Science 
@@ -1051,7 +1049,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/mattrubin/authenticator
   - https://mattrubin.me/authenticator/
   - https://itunes.apple.com/app/id766157276
-- Dono: Password derivation tool 🔶
+- Dono: Password derivation tool `Swift` 
   - https://github.com/dono-app/ios/
   - https://dono-app.github.io/
   - https://itunes.apple.com/app/id1092920229
@@ -1068,14 +1066,14 @@ Image, video, audio, reading — [back to top](#readme)
 - MiniKeePass: Secure Password Manager 🔥🔥
   - https://github.com/MiniKeePass/MiniKeePass
   - https://itunes.apple.com/app/id451661808
-- Potatso: App that implements Shadowsocks proxy 🔶🇨🇳🔥🔥🔥🔥
+- Potatso: App that implements Shadowsocks proxy `Swift` 🇨🇳🔥🔥🔥🔥
   - https://github.com/shadowsocks/Potatso
   - https://itunes.apple.com/app/id1070901416
 - Prey Anti Theft: Track lost or stolen devices and perform actions remotely. 🔥🔥
   - https://github.com/prey/prey-ios-client
   - https://preyproject.com/
   - https://itunes.apple.com/app/id456755037
-- Prey Swift Client: Track lost or stolen devices and perform actions remotely. 🔶
+- Prey Swift Client: Track lost or stolen devices and perform actions remotely. `Swift` 
   - https://github.com/prey/prey-swift-client
   - https://preyproject.com/
 - SkeletonKey: iPhone password manager with Dropbox 
@@ -1088,10 +1086,10 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Aozora: Discover and track anime 🔶
+- Aozora: Discover and track anime `Swift` 
   - https://github.com/opensourceios/Aozora
   - https://itunes.apple.com/app/aozora-anime-community-track/id1017433045
-- Ello: Ello is the Creators Network 🔶🔥🔥
+- Ello: Ello is the Creators Network `Swift` 🔥🔥
   - https://github.com/ello/ello-ios
   - https://itunes.apple.com/app/ello/id953614327
 - Minds Mobile App: An encrypted social network. 🔥
@@ -1101,12 +1099,12 @@ Image, video, audio, reading — [back to top](#readme)
 - Peggsite: App for sharing a social board 
   - https://github.com/jenduf/GenericSocialApp
   - https://itunes.apple.com/app/peggsite/id938445951
-- Post Manager: Post/schedule Twitter posts like Buffer + node.js backend + share extension 🔶
+- Post Manager: Post/schedule Twitter posts like Buffer + node.js backend + share extension `Swift` 
   - https://github.com/TomekB/PostManager
 - StreetMusicMap: Is a collaborative global community that connects street musicians, fans and videomakers. 
   - https://github.com/henriquevelloso/StreetMusicMap
   - https://itunes.apple.com/app/street-music-map/id980068735
-- Yep: Discover talent and build something together 🔶🔥🔥🔥🔥🔥
+- Yep: Discover talent and build something together `Swift` 🔥🔥🔥🔥🔥
   - https://github.com/CatchChat/Yep
   - https://itunes.apple.com/app/yep-meet-genius/id983891256
 
@@ -1117,29 +1115,29 @@ Image, video, audio, reading — [back to top](#readme)
 - 1Trackr: Digitally log in your community service hours onto the cloud 
   - https://github.com/JerryHDev/1Trackr
   - https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630
-- CloudKit-To-Do-List: Store & retrieve tasks using CloudKit 🔶
+- CloudKit-To-Do-List: Store & retrieve tasks using CloudKit `Swift` 
   - https://github.com/anthonygeranio/CloudKit-To-Do-List
 - Habitica: A client for Habitica, a habit building and productivity app 
   - https://github.com/HabitRPG/habitrpg-ios
   - https://habitica.com/static/front
   - https://itunes.apple.com/app/id994882113
-- MyAwesomeChecklist 🔶
+- MyAwesomeChecklist `Swift` 
   - https://github.com/imod/MyAwesomeChecklist
-- RealmToDo: A small todo list with Realm integration 🔶
+- RealmToDo: A small todo list with Realm integration `Swift` 
   - https://github.com/pietbrauer/RealmToDo
-- Send To Me: Share content to your email with a single tap. 🔶
+- Send To Me: Share content to your email with a single tap. `Swift` 
   - https://github.com/PiXeL16/SendToMe
   - https://itunes.apple.com/app/id1100027787
-- Swift Off: Firebase powered to do app built in Swift, includes tutorial 🔶
+- Swift Off: Firebase powered to do app built in Swift, includes tutorial `Swift` 
   - https://github.com/goprimer/swift-off-todo
 - Task Coach: A simple toto manager designed for composite tasks. 
   - https://sourceforge.net/projects/taskcoach/
   - http://taskcoach.org/
   - https://itunes.apple.com/app/task-coach/id311403563
-- Tinylog: A minimal iPhone/iPad TODO app 🔶
+- Tinylog: A minimal iPhone/iPad TODO app `Swift` 
   - https://github.com/binarylevel/Tinylog-iOS
   - https://itunes.apple.com/app/tinylog/id799267191
-- Todo: A todo list app written in Swift 🔶🔥
+- Todo: A todo list app written in Swift `Swift` 🔥
   - https://github.com/JakeLin/Todo
 - Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place 🔥🔥
   - https://github.com/ginatrapani/todo.txt-ios
@@ -1149,17 +1147,17 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Lucid Weather Clock: Swift precipitation clock - uses Forecast.io 🔶
+- Lucid Weather Clock: Swift precipitation clock - uses Forecast.io `Swift` 
   - https://github.com/wrutkowski/Lucid-Weather-Clock
-- Pocket Forecast: Swift weather application for Typhoon 🔶🔥🔥
+- Pocket Forecast: Swift weather application for Typhoon `Swift` 🔥🔥
   - https://github.com/appsquickly/Typhoon-Swift-Example
-- RainMan: Uses Forecast.io 🔶🔥🔥🔥
+- RainMan: Uses Forecast.io `Swift` 🔥🔥🔥
   - https://github.com/Mav3r1ck/Project-RainMan
 - SmileWeather: Uses Weather Underground & OpenWeatherMap 🔥🔥
   - https://github.com/liu044100/SmileWeather
 - Sol: Uses Weather Underground 🔥🔥🔥🔥
   - https://github.com/comyarzaheri/Sol
-- SwiftWeather 🔶🔥🔥🔥🔥🔥
+- SwiftWeather `Swift` 🔥🔥🔥🔥🔥
   - https://github.com/JakeLin/SwiftWeather
 - Tropos: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
   - https://github.com/thoughtbot/Tropos
@@ -1167,7 +1165,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Weather by jsphkhan: Weather app using React Native 
   - https://github.com/jsphkhan/ReactNativeExamples
   - https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
-- WeatherMap: Weather around you in a glance, uses OpenWeatherMap 🔶🔥🔥
+- WeatherMap: Weather around you in a glance, uses OpenWeatherMap `Swift` 🔥🔥
   - https://github.com/TakefiveInteractive/WeatherMap
   - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
 - YoCelsius 🔥🔥🔥🔥
@@ -1178,7 +1176,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Kiwix: An offline reader for Wikipedia (and many other websites). 🔶
+- Kiwix: An offline reader for Wikipedia (and many other websites). `Swift` 
   - https://github.com/kiwix/iOS
   - http://www.kiwix.org/wiki/Main_Page
   - https://itunes.apple.com/app/id997079563
@@ -1199,24 +1197,24 @@ Image, video, audio, reading — [back to top](#readme)
 - A Menjar: Food menu app 🇪🇸
   - https://github.com/maurovc/aMenjar
   - https://itunes.apple.com/app/a-menjar!/id816473131
-- bar: Cocktail menu 🔶
+- bar: Cocktail menu `Swift` 
   - https://github.com/soffes/bar
 - Be my eyes: Connect blind people with volunteer helpers via live video chat 🔥🔥
   - https://github.com/bemyeyes/bemyeyes-ios
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
 - BlogQuest: Alternative Tumblr client 
   - https://github.com/irace/BlogQuest
-- Borrowed Books UFGRS: Manage borrowed books at UFRGS using SABI 🔶
+- Borrowed Books UFGRS: Manage borrowed books at UFRGS using SABI `Swift` 
   - https://github.com/MatheusCavalca/RenovaLivrosUFRGS
 - CardDecks: Configurable card decks 
   - https://github.com/aharren/CardDecks
-- ChineseZodiac 🔶🔥
+- ChineseZodiac `Swift` 🔥
   - https://github.com/JakeLin/ChineseZodiac
 - Colo: Color themes hunter 
   - https://github.com/wongzigii/Colo
-- DeckRocket: Turn your iPhone into a remote for Deckset presentations 🔶🔥🔥
+- DeckRocket: Turn your iPhone into a remote for Deckset presentations `Swift` 🔥🔥
   - https://github.com/jpsim/DeckRocket
-- EmotionNote: Emotion diary  choose or take a photo of your face, the app will tell you your emotion 🔶 🔶
+- EmotionNote: Emotion diary  choose or take a photo of your face, the app will tell you your emotion 🔶 `Swift` 
   - https://github.com/Yogayu/EmotionNote
 - FreeRDP: An implementation of the Remote Desktop Protocol (RDP). 🔥🔥🔥🔥
   - https://github.com/FreeRDP/FreeRDP
@@ -1230,24 +1228,24 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/greatreader/id903651112
 - Hidrate: App for smart water bottle 
   - https://github.com/mjcuva/Hidrate
-- iContactU: Reminds you to contact people you ought to 🔶🔥
+- iContactU: Reminds you to contact people you ought to `Swift` 🔥
   - https://github.com/rizal72/iContactU
   - https://itunes.apple.com/app/icontactu/id920200100
-- iCopyPasta: Pasteboard feed app 🔶
+- iCopyPasta: Pasteboard feed app `Swift` 
   - https://github.com/alltheflow/iCopyPasta
 - iGrades: Track your class grades 
   - https://github.com/maurovc/iGrades
   - https://itunes.apple.com/app/id816987574
-- Jupp: App with share extension for ADN 🔶
+- Jupp: App with share extension for ADN `Swift` 
   - https://github.com/dasdom/Jupp
   - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
 - LibreOffice Remote for Impress: Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely. 
   - https://cgit.freedesktop.org/libreoffice/impress_remote/
   - https://itunes.apple.com/app/id806879890
-- LidderbuchApp: Songbook for Luxembourgish Students 🔶🇱🇺
+- LidderbuchApp: Songbook for Luxembourgish Students `Swift` 🇱🇺
   - https://github.com/AcelLuxembourg/LidderbuchApp
   - https://itunes.apple.com/app/lidderbuch/id997143407
-- Mirror++: Minimalist mirror 🔶
+- Mirror++: Minimalist mirror `Swift` 
   - https://github.com/nathunsmitty/MirrorPlusPlus
 - my41: HP-41C/CV/CX Microcode emulator 
   - https://github.com/mperovic/my41
@@ -1277,17 +1275,17 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/haiwen/seafile-iOS
   - https://www.seafile.com/en/home/
   - https://itunes.apple.com/app/id639202512
-- Swiflytics: See your realtime Google Analytics data 🔶
+- Swiflytics: See your realtime Google Analytics data `Swift` 
   - https://github.com/aciidb0mb3r/Swiflytics
   - https://itunes.apple.com/app/swiflytics/id1076165139
-- SwiftBlog: Read the official Apple Swift Blog via RSS 🔶
+- SwiftBlog: Read the official Apple Swift Blog via RSS `Swift` 
   - https://github.com/BalestraPatrick/SwiftBlog
 - Tether: Tethering for non-jailbroken iOS Devices over USB 
   - https://github.com/chrisballinger/Tether-iOS
 - Themoji: Use Emojis to communicate while traveling 
   - https://github.com/themoji/ios
   - https://themoji.me/
-- TheReservist: Check availability of iPhones 🔶
+- TheReservist: Check availability of iPhones `Swift` 
   - https://github.com/kimar/TheReservist
 - Theseus: Personal analytics tool 🔥🔥🔥
   - https://github.com/lazerwalker/Theseus
@@ -1296,21 +1294,21 @@ Image, video, audio, reading — [back to top](#readme)
 - Vinylogue: Simple Last.fm client 🔥
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
-- VPN On: Today Widget to turn on VPN 🔶🔥🔥🔥🔥🔥
+- VPN On: Today Widget to turn on VPN `Swift` 🔥🔥🔥🔥🔥
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
-- WaniKani: Client app for WaniKani.com site (learn kanji) 🔶
+- WaniKani: Client app for WaniKani.com site (learn kanji) `Swift` 
   - https://github.com/haawa799/WaniKani-iOS
   - https://itunes.apple.com/app/wanikani/id1034355141
 - Words: Thesaurus app 
   - https://github.com/soffes/words
-- WWDC Students: WWDC scholarship entry apps 🔶🔥
+- WWDC Students: WWDC scholarship entry apps `Swift` 🔥
   - https://github.com/wwdc
 - YaleMobile: App for Yale University students 
   - https://github.com/kiokoo/YaleMobile
   - https://itunes.apple.com/app/yale-mobile/id497588523
 - Yorkie: This app will help you take care of your dog 
-  - https://github.com/carlbutron/YorkieApp
+  - https://github.com/carlbtrn/YorkieApp
   - https://itunes.apple.com/app/Yorkie/id1000836606
 
 ### 3D Touch 
@@ -1319,14 +1317,14 @@ Image, video, audio, reading — [back to top](#readme)
  
 - ForceSketch: Sketching app using 3D Touch 
   - https://github.com/FlexMonkey/ForceSketch
-- Plum-O-Meter: 3D Touch Application for Weighing Plums (and other small fruit!) 🔶🔥🔥
+- Plum-O-Meter: 3D Touch Application for Weighing Plums (and other small fruit!) `Swift` 🔥🔥
   - https://github.com/FlexMonkey/Plum-O-Meter
 
 ### Calendar 
  
 [back to top](#readme) 
  
-- Malendar: A redesigned calendar app 🔶
+- Malendar: A redesigned calendar app `Swift` 
   - https://github.com/croossin/Malendar
 - Workdays: Simple iPhone calendar with operating schedule 
   - https://github.com/mpak/Workdays
@@ -1344,7 +1342,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/id337692629
 - NumberPad: An experimental prototype calculator for iPad 
   - https://github.com/bridger/NumberPad
-- Round & Split: Tip Calculator 🔶
+- Round & Split: Tip Calculator `Swift` 
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737
 
@@ -1352,15 +1350,15 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Edhita: Text editor 🔶🔥🔥🔥
+- Edhita: Text editor `Swift` 🔥🔥🔥
   - https://github.com/tnantoka/edhita
   - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
-- Sentiments: Analyzes text for positive or negative sentiment. 🔶🔥
+- Sentiments: Analyzes text for positive or negative sentiment. `Swift` 🔥
   - https://github.com/kyleweiner/Sentiments
 - SimpleMemo: Sync notes to EverNote 🔥🔥
   - https://github.com/likumb/SimpleMemo
   - https://itunes.apple.com/app/yi-bian-qian/id1029807896
-- SwiftNote: Simple note taking app with today widget and iCloud syncing 🔶🔥
+- SwiftNote: Simple note taking app with today widget and iCloud syncing `Swift` 🔥
   - https://github.com/mslathrop/SwiftNote
 
 ### Clock 
@@ -1369,28 +1367,28 @@ Image, video, audio, reading — [back to top](#readme)
  
 - Fibonacc iClock: A clock based off the famous fibonacci sequence. 
   - https://github.com/scribblemaniac/Fibonacc-iClock
-- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa 🔶
+- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa `Swift` 
   - https://github.com/nottombrown/HausClock
-- Natural Language Clock: Display the time as you would speak it 🔶
+- Natural Language Clock: Display the time as you would speak it `Swift` 
   - https://github.com/chadkeck/Natural-Language-Clock
 - Population Clock: Learn about geography and demographics 
   - https://github.com/Netfilter-Com/PopulationClock
   - https://itunes.apple.com/app/population-clock-hd/id590689957
-- SwiftTextClock: A Swift version of the beautiful QlockTwo 🔶
+- SwiftTextClock: A Swift version of the beautiful QlockTwo `Swift` 
   - https://github.com/MichMich/SwiftTextClock
 
 ### Timer 
  
 [back to top](#readme) 
  
-- Cherry: Mini Pomodoro Timer app 🔶🔥🔥
+- Cherry: Mini Pomodoro Timer app `Swift` 🔥🔥
   - https://github.com/kenshin03/Cherry
-- Coffee Timer 🔶
+- Coffee Timer `Swift` 
   - https://github.com/ashfurrow/yourfirstswiftapp
-- Fojusi: Work timer with today extension 🔶🔥🔥
+- Fojusi: Work timer with today extension `Swift` 🔥🔥
   - https://github.com/dasdom/Tomate
   - https://itunes.apple.com/app/fojusi/id923044693
-- MetricTime: Displays 'Metric Time' for pranking friends on trips to countries that use the metric system. 🔶
+- MetricTime: Displays 'Metric Time' for pranking friends on trips to countries that use the metric system. `Swift` 
   - https://github.com/DeveloperACE/MetricTime
 - TrackMyTime 
   - https://github.com/EvgenyKarkan/TrackMyTime
@@ -1416,9 +1414,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/chrismiles/OrganisingCoreData
 - Nested Lists 🔥
   - https://github.com/objcio/issue-4-full-core-data-application
-- Tagger: Tagger helps you increase the number of Instagram or Flickr followers and likes on your pictures. 🔶
+- Tagger: Tagger helps you increase the number of Instagram or Flickr followers and likes on your pictures. `Swift` 
   - https://github.com/vanyaland/Tagger
-- Tasks: Designed to quickly and easily add tasks to your iPhone 🔶
+- Tasks: Designed to quickly and easily add tasks to your iPhone `Swift` 
   - https://github.com/mbcrump/TasksForSwiftWithPersistingData
   - https://itunes.apple.com/app/task-application/id960435759
 
@@ -1436,7 +1434,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
 - how-much: Simple app to record how much things cost using Parse or Firebase 
   - https://github.com/dkhamsing/how-much
-- Swift Off: Firebase powered to do app built in Swift, includes tutorial 🔶
+- Swift Off: Firebase powered to do app built in Swift, includes tutorial `Swift` 
   - https://github.com/goprimer/swift-off-todo
 
 ### [Ionic](http://ionicframework.com/) 
@@ -1461,7 +1459,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Anypic in Objective-C: Mobile and web app that lets users share photos similar to Instagram 🔥🔥🔥🔥
   - https://github.com/ParsePlatform/Anypic
   - https://itunes.apple.com/app/anypic/id539741538
-- Anypic in Swift 🔶
+- Anypic in Swift `Swift` 
   - https://github.com/kwkhaw/SwiftAnyPic
 - AnyWall: A fun geolocation app built with Parse 🔥🔥
   - https://github.com/ParsePlatform/AnyWall
@@ -1470,7 +1468,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/dkhamsing/how-much
 - iBeaconTasks: iBeacon TODO reminder app based on Parse 🔥
   - https://github.com/TomekB/iBeaconTasks
-- Jim: Track your gym workouts 🔶
+- Jim: Track your gym workouts `Swift` 
   - https://github.com/kylejm/Jim
 - Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video 🔥
   - https://github.com/TomekB/Parse-Challenge-App
@@ -1478,7 +1476,7 @@ Image, video, audio, reading — [back to top](#readme)
 - ParseStore: Backend provider for selling physical goods using Parse 🔥
   - https://github.com/ParsePlatform/ParseStore
   - https://itunes.apple.com/app/parse-store/id613679907
-- Paws: Building an Instagram-Like App with Parse and Swift 🔶
+- Paws: Building an Instagram-Like App with Parse and Swift `Swift` 
   - http://www.appcoda.com/instagram-app-parse-swift/
 - Wizard War: Cast spells in single or multiplayer wizard duels. 🔥🔥🔥
   - https://github.com/seanhess/wizardwar
@@ -1567,14 +1565,14 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- ReactiveKitten: It's about gifs and cats, example project for Interstellar 🔶
+- ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
   - https://github.com/JensRavens/ReactiveKitten
 
 ### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 
  
 [back to top](#readme) 
  
-- BrewMobile: App for managing the beer brewing process 🔶🔥
+- BrewMobile: App for managing the beer brewing process `Swift` 🔥
   - https://github.com/brewfactory/BrewMobile
 - C-41: Make developing film easier and more reliable by using this simple timer 🔥🔥🔥🔥
   - https://github.com/ashfurrow/C-41
@@ -1584,16 +1582,16 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/id961330940
 - GroceryList: iPhone grocery list app, synchronized using GitHub 🔥🔥🔥
   - https://github.com/jspahrsummers/GroceryList
-- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa 🔶
+- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa `Swift` 
   - https://github.com/nottombrown/HausClock
 - ReactiveHackerNews: Hacker News reader with Tinder style interface, written in ObjC, uses MVVM & ReactiveCocoa 
   - https://github.com/syshen/ReactiveHackerNews
   - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368
-- ReactiveSwiftFlickrSearch: A Flickr-search app that uses MVVM & ReactiveCocoa 🔶🔥🔥
+- ReactiveSwiftFlickrSearch: A Flickr-search app that uses MVVM & ReactiveCocoa `Swift` 🔥🔥
   - https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch
 - SimpleAuth: Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥🔥
   - https://github.com/calebd/SimpleAuth
-- SwiftRACGoogleImages: Google image search using RAC 4.0 and Swift 2.1 🔶
+- SwiftRACGoogleImages: Google image search using RAC 4.0 and Swift 2.1 `Swift` 
   - https://github.com/Adlai-Holler/SwiftRACGoogleImages
 - Tropos: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
   - https://github.com/thoughtbot/Tropos
@@ -1605,28 +1603,28 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Count It: Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything. 🔶
+- Count It: Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything. `Swift` 
   - https://github.com/PiXeL16/CountItApp
   - https://itunes.apple.com/app/id1098893335
-- GitHub API Client: GitHub client using MVVM and RxSwift 🔶🔥
+- GitHub API Client: GitHub client using MVVM and RxSwift `Swift` 🔥
   - https://github.com/tailec/boilerplate
-- Kiosk: The Artsy auction kiosk app, uses RxSwift 🔶🔥🔥🔥🔥
+- Kiosk: The Artsy auction kiosk app, uses RxSwift `Swift` 🔥🔥🔥🔥
   - https://github.com/artsy/eidolon
-- RxMarbles: Interactive diagrams of Rx Observables 🔶
+- RxMarbles: Interactive diagrams of Rx Observables `Swift` 
   - https://github.com/RxSwiftCommunity/RxMarbles
   - https://itunes.apple.com/us/app/rxmarbles/id1087272442
-- Tweetometer: See who is tweeting in your timeline 🔶
+- Tweetometer: See who is tweeting in your timeline `Swift` 
   - https://github.com/BalestraPatrick/Tweetometer
 
 ### Realm 
  
 [back to top](#readme) 
  
-- Done: Data sharing between a WatchKit app and its main app using Realm 🔶
+- Done: Data sharing between a WatchKit app and its main app using Realm `Swift` 
   - https://github.com/FancyPixel/done-swift
-- Obědář: Shows daily menu of close restaurants to Czech Technical University 🔶
+- Obědář: Shows daily menu of close restaurants to Czech Technical University `Swift` 
   - https://github.com/syky27/lunch_guy-ios
-- RealmToDo: A small todo list with Realm integration 🔶
+- RealmToDo: A small todo list with Realm integration `Swift` 
   - https://github.com/pietbrauer/RealmToDo
 
 ### [VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/) 
@@ -1641,7 +1639,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/sebastianwr/VIPER-Persons
 - Counter 🔥🔥
   - https://github.com/mutualmobile/Counter
-- EMI Calculator for Home, Personal & Car Loan: Calculate your Equated Monthly instalment (EMI) for Home loan, Housing loan, Car loan & Personal loan 🔶
+- EMI Calculator for Home, Personal & Car Loan: Calculate your Equated Monthly instalment (EMI) for Home loan, Housing loan, Car loan & Personal loan `Swift` 
   - https://github.com/tirupati17/loan-emi-calculator-clean-swift
   - https://itunes.apple.com/app/id1105890730
 - Rambler.Conferences 
