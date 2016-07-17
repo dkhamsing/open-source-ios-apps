@@ -2490,7 +2490,7 @@
       "title": "Reusable Code",
       "category": "sample",
       "description": "Reusable code, written in Swift",
-      "source": "https://github.com/carlbutron/Swift",
+      "source": "https://github.com/carlbtrn/Swift",
       "stars": 2355,
       "tags": [
         "swift"
@@ -3252,7 +3252,7 @@
       "title": "Yorkie",
       "category": "misc",
       "description": "This app will help you take care of your dog",
-      "source": "https://github.com/carlbutron/YorkieApp",
+      "source": "https://github.com/carlbtrn/YorkieApp",
       "itunes": "https://itunes.apple.com/app/Yorkie/id1000836606",
       "stars": 16,
       "license": "mit"
