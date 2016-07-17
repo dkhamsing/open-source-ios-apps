@@ -924,7 +924,7 @@
     {
       "title": "Charter",
       "category": "developer",
-      "description": "A Swift mailing list client for iPhone and iPad",
+      "description": "An universal mailing list app",
       "source": "https://github.com/matthewpalmer/Charter",
       "itunes": "https://itunes.apple.com/app/charter-mailing-list-client/id1082212697",
       "stars": 241,
@@ -971,7 +971,7 @@
     {
       "title": "wat",
       "category": "developer",
-      "description": "Very simple packet sniffer in Swift",
+      "description": "Very simple packet sniffer",
       "license": "mit",
       "source": "https://github.com/pj4533/wat",
       "tags": [
@@ -982,7 +982,6 @@
     {
       "title": "Github-Swift",
       "category": "github",
-      "description": "App written in Swift using the Github API",
       "license": "mit",
       "source": "https://github.com/acmacalister/Github-Swift",
       "tags": [
@@ -1347,7 +1346,7 @@
     {
       "title": "Stick-Hero-Swift",
       "category": "games",
-      "description": "Universal iOS Game using Swift and iOS SpriteKit",
+      "description": "Universal iOS Game using SpriteKit",
       "license": "mit",
       "source": "https://github.com/phpmaple/Stick-Hero-Swift",
       "stars": 324,
@@ -1663,7 +1662,7 @@
     {
       "title": "pathlogger",
       "category": "location",
-      "description": "GPS logging application written in Swift",
+      "description": "GPS logging application",
       "source": "https://github.com/eugenpirogoff/pathlogger",
       "tags": [
         "swift"
@@ -1727,7 +1726,7 @@
     {
       "title": "Analog Synth X",
       "category": "media",
-      "description": "Analog Synthesizer Keyboard Music App, created w/ Swift 2  ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX))",
+      "description": "Analog Synthesizer Keyboard Music App, created with Swift 2 ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX))",
       "source": "http://matthewfecher.com/app-developement/swift-synth/",
       "tags": [
         "swift"
@@ -1971,7 +1970,7 @@
     {
       "title": "SoundCloudSwift",
       "category": "media",
-      "description": "SoundCloud client written on Swift",
+      "description": "SoundCloud app",
       "license": "mit",
       "source": "https://github.com/pepibumur/SoundCloudSwift",
       "stars": 161,
@@ -1980,7 +1979,7 @@
       ]
     },
     {
-      "title": "Swift ASCII Art Generator",
+      "title": "ASCII Art Generator",
       "category": "media",
       "source": "https://github.com/ijoshsmith/swift-ascii-art",
       "license": "mit",
@@ -1992,7 +1991,7 @@
     {
       "title": "Swifteroid",
       "category": "media",
-      "description": "A manual HDR exposure camera app written in Swift",
+      "description": "A manual HDR exposure camera app",
       "license": "mit",
       "source": "https://github.com/eugenpirogoff/swifteroid",
       "tags": [
@@ -2014,7 +2013,7 @@
     {
       "title": "Swift Radio Pro",
       "category": "media",
-      "description": "Professional Radio Station App, created w/ Swift 2.0",
+      "description": "Professional Radio Station App, created with Swift 2",
       "license": "mit",
       "source": "https://github.com/swiftcodex/Swift-Radio-Pro",
       "stars": 1290,
@@ -2438,7 +2437,7 @@
     {
       "title": "Layer-Parse",
       "category": "sample",
-      "description": "This is a Swift sample app that integrates Layer and Atlas with Parse",
+      "description": "Sample app that integrates Layer and Atlas with Parse",
       "license": "apache-2.0",
       "source": "https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example",
       "tags": [
@@ -2489,7 +2488,6 @@
     {
       "title": "Reusable Code",
       "category": "sample",
-      "description": "Reusable code, written in Swift",
       "source": "https://github.com/carlbtrn/Swift",
       "stars": 2355,
       "tags": [
@@ -2541,7 +2539,6 @@
     {
       "title": "Swift-Demos",
       "category": "sample",
-      "description": "Collection of demos for Swift",
       "lang": "zho",
       "source": "https://github.com/Lax/iOS-Swift-Demos",
       "stars": 1587,
@@ -2685,7 +2682,7 @@
         "tasks",
         "firebase"
       ],
-      "description": "Firebase powered to do app built in Swift, includes tutorial",
+      "description": "Firebase powered to do app, includes tutorial",
       "source": "https://github.com/goprimer/swift-off-todo",
       "tags": [
         "swift"
@@ -2696,7 +2693,7 @@
     {
       "title": "Todo",
       "category": "tasks",
-      "description": "A todo list app written in Swift",
+      "description": "Todo list app",
       "source": "https://github.com/JakeLin/Todo",
       "stars": 194,
       "tags": [
@@ -2728,7 +2725,7 @@
     {
       "title": "Lucid Weather Clock",
       "category": "weather",
-      "description": "Swift precipitation clock - uses Forecast.io",
+      "description": "Precipitation clock, uses Forecast.io",
       "license": "mit",
       "source": "https://github.com/wrutkowski/Lucid-Weather-Clock",
       "tags": [
@@ -2739,7 +2736,7 @@
     {
       "title": "Pocket Forecast",
       "category": "weather",
-      "description": "Swift weather application for Typhoon",
+      "description": "Weather application for Typhoon",
       "license": "apache-2.0",
       "source": "https://github.com/appsquickly/Typhoon-Swift-Example",
       "stars": 323,
@@ -3470,7 +3467,7 @@
     {
       "title": "Paws",
       "category": "parse",
-      "description": "Building an Instagram-Like App with Parse and Swift",
+      "description": "Building an Instagram-Like App with Parse",
       "source": "http://www.appcoda.com/instagram-app-parse-swift/",
       "tags": [
         "swift"
@@ -4135,7 +4132,7 @@
       "category": [
         "github"
       ],
-      "description": "View Swift repositories from Github",
+      "description": "View Swift repositories from GitHub",
       "license": "mit",
       "source": "https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub",
       "stars": 14
@@ -4182,7 +4179,7 @@
     {
       "title": "Colorblind",
       "category": "researchkit",
-      "description": "ResearchKit app built in swift in order to provide an easy test for colorblind people.",
+      "description": "ResearchKit app that provides an easy test for colorblind people",
       "source": "https://github.com/boostcode/ResearchKit-ColorBlind",
       "itunes": "https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412",
       "tags": [
@@ -4504,7 +4501,7 @@
       "stars": 209
     },
     {
-      "title": "Prey Swift Client",
+      "title": "Prey",
       "category": [
         "location",
         "security"
@@ -4878,7 +4875,7 @@
     {
       "title": "SwiftTextClock",
       "category": "clock",
-      "description": "A Swift version of the beautiful QlockTwo",
+      "description": "An app inspired by the beautiful QlockTwo",
       "source": "https://github.com/MichMich/SwiftTextClock",
       "license": "other",
       "tags": [
