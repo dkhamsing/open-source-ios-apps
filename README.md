@@ -39,11 +39,11 @@ Jump to
 - [Weather](#weather) 
 - [Web](#web) 
 - [Misc](#misc) 
-  - [3D Touch](#3d-touch) 
   - [Calculator](#calculator) 
   - [Clock](#clock) 
   - [Timer](#timer) 
 - [Special](#special) 
+  - [3D Touch](#3d-touch) 
   - [Appcelerator](#appcelerator) 
   - [Core Data](#core-data) 
   - [Firebase](#firebase) 
@@ -1355,15 +1355,6 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/carlbtrn/YorkieApp
   - https://itunes.apple.com/app/Yorkie/id1000836606
 
-### 3D Touch 
- 
-[back to top](#readme) 
- 
-- ForceSketch: Sketching app using 3D Touch 
-  - https://github.com/FlexMonkey/ForceSketch
-- Plum-O-Meter: 3D Touch Application for Weighing Plums (and other small fruit!) `Swift` 🔥🔥
-  - https://github.com/FlexMonkey/Plum-O-Meter
-
 ### Calculator 
  
 [back to top](#readme) 
@@ -1414,6 +1405,15 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+
+### 3D Touch 
+ 
+[back to top](#readme) 
+ 
+- ForceSketch: Sketching app using 3D Touch 
+  - https://github.com/FlexMonkey/ForceSketch
+- Plum-O-Meter: 3D Touch Application for Weighing Plums (and other small fruit!) `Swift` 🔥🔥
+  - https://github.com/FlexMonkey/Plum-O-Meter
 
 ### Appcelerator 
  
