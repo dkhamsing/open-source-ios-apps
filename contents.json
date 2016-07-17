@@ -260,7 +260,7 @@
     {
       "title": "WWDCTV",
       "category": "apple-tv",
-      "description": "Watch the WWDC Videos on your Apple TV",
+      "description": "Watch WWDC Videos",
       "source": "https://github.com/azzoor/WWDCTV",
       "stars": 405,
       "license": "other"
@@ -373,7 +373,7 @@
         "apple-watch",
         "realm"
       ],
-      "description": "Data sharing between a WatchKit app and its main app using Realm",
+      "description": "Data sharing using WatchKit and Realm",
       "license": "mit",
       "source": "https://github.com/FancyPixel/done-swift",
       "tags": [
@@ -492,7 +492,7 @@
     {
       "title": "OnTime",
       "category": "apple-watch",
-      "description": "Apple Watch app to access the SBB (Swiss railway) timetable",
+      "description": "Access the SBB (Swiss railway) timetable",
       "license": "apache-2.0",
       "source": "https://github.com/D-32/OnTime",
       "stars": 36
@@ -539,7 +539,7 @@
     {
       "title": "WatchKit-Apps",
       "category": "apple-watch",
-      "description": "Tutorials app for WatchKit",
+      "description": "Tutorials app",
       "license": "mit",
       "source": "https://github.com/kostiakoval/WatchKit-Apps",
       "stars": 1005,
@@ -591,7 +591,7 @@
     {
       "title": "WatchSnake",
       "category": "apple-watch",
-      "description": "Game of Snake",
+      "description": "Snake game",
       "source": "https://github.com/davidcairns/-WatchSnake",
       "tags": [
         "swift"
@@ -672,7 +672,7 @@
     {
       "title": "Actor",
       "category": "communication",
-      "description": "Communication app with a focus on speed and security",
+      "description": "Cross-platform IM app",
       "license": "agpl-3.0",
       "source": "https://github.com/actorapp/actor-platform",
       "itunes": "https://itunes.apple.com/app/actor-messenger/id1025501036",
@@ -689,7 +689,6 @@
     {
       "title": "Chats",
       "category": "communication",
-      "description": "Messages app",
       "source": "https://github.com/acani/Chats",
       "stars": 1921,
       "tags": [
@@ -700,7 +699,7 @@
     {
       "title": "ChatSecure",
       "category": "communication",
-      "description": "Encrypted chat app that supports OTR encryption over XMPP",
+      "description": "Send messages with OTR encryption over XMPP",
       "license": "gpl-3.0",
       "source": "https://github.com/ChatSecure/ChatSecure-iOS",
       "itunes": "https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063",
@@ -717,7 +716,7 @@
     {
       "title": "IRCCloud",
       "category": "communication",
-      "description": "An IRC client/service",
+      "description": "IRC client/service",
       "source": "https://github.com/irccloud/ios",
       "itunes": "https://itunes.apple.com/app/irccloud/id672699103",
       "stars": 166,
@@ -772,7 +771,7 @@
     {
       "title": "Telegram",
       "category": "communication",
-      "description": "Messaging app with a focus on speed and security",
+      "description": "Send messages with a focus on speed and security",
       "source": "https://github.com/peter-iakovlev/Telegram",
       "itunes": "https://itunes.apple.com/app/telegram-messenger/id686449807",
       "stars": 766,
@@ -781,7 +780,7 @@
     {
       "title": "TextEthan",
       "category": "communication",
-      "description": "Clone of TextEthan, a messaging app that allows anyone to message you",
+      "description": "Allow anyone to message you",
       "license": "mit",
       "source": "https://github.com/thii/TextEthan",
       "tags": [
@@ -792,7 +791,7 @@
     {
       "title": "EventBlankApp",
       "category": "conference",
-      "description": "App for events or conferences",
+      "description": "Events / conferences",
       "license": "mit",
       "source": "https://github.com/icanzilb/EventBlankApp",
       "stars": 233,
@@ -806,7 +805,7 @@
         "conference",
         "react-native"
       ],
-      "description": "Nortal TechDay 2015 app",
+      "description": "Nortal TechDay 2015",
       "source": "https://github.com/mikkoj/NortalTechDay",
       "stars": 177,
       "license": "mit"
@@ -817,7 +816,7 @@
         "conference",
         "react-native"
       ],
-      "description": "Parse 2013 developer conference app",
+      "description": "Parse 2013 developer conference",
       "source": "https://github.com/ParsePlatform/ParseDeveloperDay",
       "stars": 92,
       "license": "cc0-1.0"
@@ -825,7 +824,6 @@
     {
       "title": "RWDevCon",
       "category": "conference",
-      "description": "RWDevCon app",
       "source": "https://github.com/raywenderlich/RWDevCon-App",
       "tags": [
         "swift"
@@ -836,7 +834,7 @@
     {
       "title": "trySwiftApp",
       "category": "conference",
-      "description": "try! Swift conference app",
+      "description": "try! Swift conference",
       "source": "https://github.com/tryswift/trySwiftApp",
       "stars": 348,
       "tags": [
@@ -915,7 +913,7 @@
     {
       "title": "Codinator",
       "category": "developer",
-      "description": "Code editor for iPhone and iPad",
+      "description": "iPhone/iPad code editor",
       "source": "https://github.com/DanilaVladi/codinator",
       "itunes": "https://itunes.apple.com/app/codinator/id1024671232",
       "stars": 11,
@@ -924,7 +922,7 @@
     {
       "title": "Charter",
       "category": "developer",
-      "description": "An universal mailing list app",
+      "description": "An iPhone/iPad mailing list app",
       "source": "https://github.com/matthewpalmer/Charter",
       "itunes": "https://itunes.apple.com/app/charter-mailing-list-client/id1082212697",
       "stars": 241,
@@ -992,7 +990,7 @@
     {
       "title": "Monkey",
       "category": "github",
-      "description": "GitHub third party client that shows the rank of coders and repositories",
+      "description": "GitHub app that shows the rank of coders and repositories",
       "source": "https://github.com/coderyi/Monkey",
       "itunes": "https://itunes.apple.com/app/monkey-for-github/id1003765407",
       "stars": 1151,
@@ -1052,7 +1050,7 @@
     {
       "title": "Coins",
       "category": "finance",
-      "description": "Bitcoin value tracker",
+      "description": "Bitcoin tracker",
       "license": "mit",
       "source": "https://github.com/nothingmagical/coins",
       "stars": 164,
@@ -1093,7 +1091,7 @@
     {
       "title": "TodayStocks",
       "category": "finance",
-      "description": "Lightweight stocks app that shows your portfolio in a minimalist today extension",
+      "description": "Show portfolio in a minimalist today extension",
       "source": "https://github.com/premnirmal/TodayStocks",
       "itunes": "https://itunes.apple.com/app/todaystocks/id993467855",
       "stars": 23,
@@ -1187,7 +1185,7 @@
     {
       "title": "Chuck",
       "category": "games",
-      "description": "Throw a ball and catch it. Over and over and over",
+      "description": "Throw a ball and catch it, over and over and over",
       "source": "https://github.com/moowahaha/Chuck",
       "itunes": "https://itunes.apple.com/app/chuck/id1050453297",
       "stars": 2,
@@ -1346,7 +1344,7 @@
     {
       "title": "Stick-Hero-Swift",
       "category": "games",
-      "description": "Universal iOS Game using SpriteKit",
+      "description": "iPhone/iPad iOS Game using SpriteKit",
       "license": "mit",
       "source": "https://github.com/phpmaple/Stick-Hero-Swift",
       "stars": 324,
@@ -1717,7 +1715,7 @@
     {
       "title": "360 VR Player",
       "category": "media",
-      "description": "Universal 360 video player",
+      "description": "iPhone/iPad 360 video player",
       "license": "mit",
       "source": "https://github.com/hanton/HTY360Player",
       "itunes": "https://itunes.apple.com/app/360-vr-player/id1061464612",
@@ -2088,7 +2086,7 @@
     {
       "title": "VoiceMemos",
       "category": "media",
-      "description": "Universal audio recorder app",
+      "description": "iPhone/iPad audio recorder app",
       "license": "mit",
       "source": "https://github.com/MoZhouqi/VoiceMemos",
       "stars": 223,
@@ -2711,7 +2709,7 @@
     {
       "title": "Tinylog",
       "category": "tasks",
-      "description": "A minimal universal TODO app",
+      "description": "A minimal iPhone/iPad TODO app",
       "license": "mit",
       "source": "https://github.com/binarylevel/Tinylog-iOS",
       "itunes": "https://itunes.apple.com/app/tinylog/id799267191",
@@ -2826,7 +2824,7 @@
     {
       "title": "PHPHub",
       "category": "web",
-      "description": "Universal app for PHPHub Forum",
+      "description": "iPhone/iPad app for PHPHub Forum",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/Aufree/phphub-ios",
@@ -3730,7 +3728,7 @@
         "reactivecocoa",
         "github"
       ],
-      "description": "GitHub client using MVVM & ReactiveCocoa",
+      "description": "Uses MVVM & ReactiveCocoa",
       "license": "mit",
       "source": "https://github.com/leichunfeng/MVVMReactiveCocoa",
       "itunes": "https://itunes.apple.com/app/id961330940",
@@ -3886,7 +3884,7 @@
     {
       "title": "RailsCasts",
       "category": "apple-tv",
-      "description": "Watch RailsCasts videos on Apple TV",
+      "description": "Watch RailsCasts videos",
       "source": "https://github.com/spritlesoftware/railscasts-on-appletv",
       "stars": 1,
       "license": "other"
@@ -4129,7 +4127,7 @@
       "category": [
         "github"
       ],
-      "description": "View Swift repositories from GitHub",
+      "description": "View Swift repositories on GitHub",
       "license": "mit",
       "source": "https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub",
       "stars": 14
@@ -4211,7 +4209,7 @@
         "firebase",
         "communication"
       ],
-      "description": "Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching",
+      "description": "Anonymous messaging leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching",
       "license": "mit",
       "source": "https://github.com/LunarFlash/Chaty",
       "stars": 217
@@ -4219,7 +4217,7 @@
     {
       "title": "iCook",
       "category": "apple-tv",
-      "description": "A tvOS app that plays iCook TV videos",
+      "description": "Play iCook TV videos",
       "license": "mit",
       "source": "https://github.com/polydice/iCook-tvOS",
       "stars": 39
@@ -4946,9 +4944,9 @@
       "stars": 1591
     },
     {
-      "title": "SIP - Calculator",
+      "title": "SIP Calculator",
       "category": "finance",
-      "description": "SIP calculator calculates the future value of SIP (Systematic Investment Plan) payments",
+      "description": "Calculate the future value of SIP (Systematic Investment Plan) payments",
       "source": "https://github.com/tirupati17/sip-calculator-swift",
       "itunes": "https://itunes.apple.com/app/id1092822415",
       "tags": [
@@ -4969,9 +4967,9 @@
       ]
     },
     {
-      "title": "EMI Calculator for Home, Personal & Car Loan",
+      "title": "EMI Calculator",
       "category": ["finance", "viper"],
-      "description": "Calculate your Equated Monthly instalment (EMI) for Home loan, Housing loan, Car loan & Personal loan",
+      "description": "Calculate your Equated Monthly installment (EMI) for home, car & personal loans",
       "source": "https://github.com/tirupati17/loan-emi-calculator-clean-swift",
       "itunes": "https://itunes.apple.com/app/id1105890730",
       "tags": ["swift", "viper"],
@@ -5074,7 +5072,7 @@
     },{
         "title": "Count It",
         "category": ["rxswift", "apple-watch"],
-        "description": "Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything",
+        "description": "Dead simple app that lets you count anything",
         "source": "https://github.com/PiXeL16/CountItApp",
         "itunes": "https://itunes.apple.com/app/id1098893335",
         "stars": 10,
@@ -5163,7 +5161,6 @@
   {
     "title": "Upcoming Movies",
     "category": "apple-tv",
-    "description": "A tvOS example app, shows upcoming movies",
     "source": "https://github.com/vanyaland/UpcomingMovies",
     "tags": ["swift"],
     "license": "mit"
