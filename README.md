@@ -32,6 +32,7 @@ Jump to
 - [Security](#security) 
 - [Social](#social) 
 - [Tasks](#tasks) 
+- [Travel](#travel) 
 - [Weather](#weather) 
 - [Web](#web) 
 - [Misc](#misc) 
@@ -695,8 +696,6 @@ Projects that are not in English have a flag
   - https://github.com/prey/prey-ios-client
   - https://preyproject.com/
   - https://itunes.apple.com/app/id456755037
-- Smart Traveller (UberGuide): Simple and comfortable way to explore a city using Uber API 🔥🔥
-  - https://github.com/hACKbUSTER/UberGuide-iOS
 - Startups - Mapped In Israel: Discover new startups and locate co-working spaces 
   - https://github.com/sugarso/MappedInIsrael
 - Swift-Walk-Tracker: Track your walks `Swift` 
@@ -1143,6 +1142,20 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/ginatrapani/todo.txt-ios
   - https://itunes.apple.com/app/todo.txt-touch/id491342186
 
+## Travel 
+ 
+[back to top](#readme) 
+ 
+- Alarm: Geolocation based alarm app for travelers `Swift` 🔥
+  - https://github.com/ChrisChares/swift-alarm
+- MetricTime: Displays 'Metric Time' for pranking friends on trips to countries that use the metric system `Swift` 
+  - https://github.com/DeveloperACE/MetricTime
+- Smart Traveller (UberGuide): Simple and comfortable way to explore a city using Uber API 🔥🔥
+  - https://github.com/hACKbUSTER/UberGuide-iOS
+- Themoji: Use Emojis to communicate while traveling 
+  - https://github.com/themoji/ios
+  - https://themoji.me/
+
 ## Weather 
  
 [back to top](#readme) 
@@ -1282,9 +1295,6 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/BalestraPatrick/SwiftBlog
 - Tether: Tethering for non-jailbroken iOS Devices over USB 
   - https://github.com/chrisballinger/Tether-iOS
-- Themoji: Use Emojis to communicate while traveling 
-  - https://github.com/themoji/ios
-  - https://themoji.me/
 - TheReservist: Check availability of iPhones `Swift` 
   - https://github.com/kimar/TheReservist
 - Theseus: Personal analytics tool 🔥🔥🔥
@@ -1388,8 +1398,6 @@ Image, video, audio, reading — [back to top](#readme)
 - Fojusi: Work timer with today extension `Swift` 🔥🔥
   - https://github.com/dasdom/Tomate
   - https://itunes.apple.com/app/fojusi/id923044693
-- MetricTime: Displays 'Metric Time' for pranking friends on trips to countries that use the metric system `Swift` 
-  - https://github.com/DeveloperACE/MetricTime
 - TrackMyTime 
   - https://github.com/EvgenyKarkan/TrackMyTime
 
