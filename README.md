@@ -11,6 +11,7 @@ Jump to
 - [Apple TV](#apple-tv) 
 - [Apple Watch](#apple-watch) 
 - [Browser](#browser) 
+- [Calendar](#calendar) 
 - [Communication](#communication) 
 - [Conference](#conference) 
 - [Content Blocking](#content-blocking) 
@@ -33,14 +34,13 @@ Jump to
 - [Security](#security) 
 - [Social](#social) 
 - [Tasks](#tasks) 
+- [Text](#text) 
 - [Travel](#travel) 
 - [Weather](#weather) 
 - [Web](#web) 
 - [Misc](#misc) 
   - [3D Touch](#3d-touch) 
-- [Calendar](#calendar) 
   - [Calculator](#calculator) 
-- [Text](#text) 
   - [Clock](#clock) 
   - [Timer](#timer) 
 - [Special](#special) 
@@ -205,6 +205,16 @@ Projects that are not in English have a flag
 - Tob - Secure browser: A beautiful Tor browser to protect your anonymity 
   - https://github.com/JRock007/Tob
   - https://itunes.apple.com/app/id1063151782
+
+## Calendar 
+ 
+[back to top](#readme) 
+ 
+- Malendar: A redesigned calendar `Swift` 
+  - https://github.com/croossin/Malendar
+- Workdays: Simple iPhone calendar with operating schedule 
+  - https://github.com/mpak/Workdays
+  - https://itunes.apple.com/app/workdays-calendar/id889712978
 
 ## Communication 
  
@@ -1151,6 +1161,21 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/ginatrapani/todo.txt-ios
   - https://itunes.apple.com/app/todo.txt-touch/id491342186
 
+## Text 
+ 
+[back to top](#readme) 
+ 
+- Edhita: Text editor `Swift` 🔥🔥🔥
+  - https://github.com/tnantoka/edhita
+  - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
+- Sentiments: Analyzes text for positive or negative sentiment `Swift` 🔥
+  - https://github.com/kyleweiner/Sentiments
+- SimpleMemo: Sync notes to EverNote 🔥🔥
+  - https://github.com/likumb/SimpleMemo
+  - https://itunes.apple.com/app/yi-bian-qian/id1029807896
+- SwiftNote: Simple note taking app with today widget and iCloud syncing `Swift` 🔥
+  - https://github.com/mslathrop/SwiftNote
+
 ## Travel 
  
 [back to top](#readme) 
@@ -1339,16 +1364,6 @@ Image, video, audio, reading — [back to top](#readme)
 - Plum-O-Meter: 3D Touch Application for Weighing Plums (and other small fruit!) `Swift` 🔥🔥
   - https://github.com/FlexMonkey/Plum-O-Meter
 
-## Calendar 
- 
-[back to top](#readme) 
- 
-- Malendar: A redesigned calendar `Swift` 
-  - https://github.com/croossin/Malendar
-- Workdays: Simple iPhone calendar with operating schedule 
-  - https://github.com/mpak/Workdays
-  - https://itunes.apple.com/app/workdays-calendar/id889712978
-
 ### Calculator 
  
 [back to top](#readme) 
@@ -1364,21 +1379,6 @@ Image, video, audio, reading — [back to top](#readme)
 - Round & Split: Tip Calculator `Swift` 
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737
-
-## Text 
- 
-[back to top](#readme) 
- 
-- Edhita: Text editor `Swift` 🔥🔥🔥
-  - https://github.com/tnantoka/edhita
-  - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
-- Sentiments: Analyzes text for positive or negative sentiment `Swift` 🔥
-  - https://github.com/kyleweiner/Sentiments
-- SimpleMemo: Sync notes to EverNote 🔥🔥
-  - https://github.com/likumb/SimpleMemo
-  - https://itunes.apple.com/app/yi-bian-qian/id1029807896
-- SwiftNote: Simple note taking app with today widget and iCloud syncing `Swift` 🔥
-  - https://github.com/mslathrop/SwiftNote
 
 ### Clock 
  
