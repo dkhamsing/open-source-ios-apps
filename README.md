@@ -38,9 +38,9 @@ Jump to
 - [Web](#web) 
 - [Misc](#misc) 
   - [3D Touch](#3d-touch) 
-  - [Calendar](#calendar) 
+- [Calendar](#calendar) 
   - [Calculator](#calculator) 
-  - [Text](#text) 
+- [Text](#text) 
   - [Clock](#clock) 
   - [Timer](#timer) 
 - [Special](#special) 
@@ -1339,7 +1339,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Plum-O-Meter: 3D Touch Application for Weighing Plums (and other small fruit!) `Swift` 🔥🔥
   - https://github.com/FlexMonkey/Plum-O-Meter
 
-### Calendar 
+## Calendar 
  
 [back to top](#readme) 
  
@@ -1365,7 +1365,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737
 
-### Text 
+## Text 
  
 [back to top](#readme) 
  
