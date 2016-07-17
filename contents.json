@@ -217,7 +217,7 @@
       "title": "Timer",
       "id": "timer",
       "parent": "misc"
-    }        
+    }
   ],
   "projects": [
     {
@@ -1613,7 +1613,7 @@
         "location",
         "parse"
       ],
-      "description": "iBeacon TODO reminder app based on Parse",
+      "description": "iBeacon to-do reminder app based on Parse",
       "source": "https://github.com/TomekB/iBeaconTasks",
       "stars": 103,
       "license": "other"
@@ -2672,7 +2672,7 @@
         "tasks",
         "realm"
       ],
-      "description": "A small todo list with Realm integration",
+      "description": "A small to-do list with Realm integration",
       "source": "https://github.com/pietbrauer/RealmToDo",
       "tags": [
         "swift"
@@ -2716,7 +2716,7 @@
     {
       "title": "Tinylog",
       "category": "tasks",
-      "description": "A minimal iPhone/iPad TODO app",
+      "description": "A minimal iPhone/iPad to-do app",
       "license": "mit",
       "source": "https://github.com/binarylevel/Tinylog-iOS",
       "itunes": "https://itunes.apple.com/app/tinylog/id799267191",
@@ -4888,7 +4888,7 @@
     {
       "title": "To Do List (Redux)",
       "category": "react-native",
-      "description": "React Native Todo List app which uses Redux for managing app state",
+      "description": "React Native to-do List app which uses Redux for managing app state",
       "source": "https://github.com/uiheros/react-native-redux-todo-list",
       "license": "mit",
       "stars": 7
