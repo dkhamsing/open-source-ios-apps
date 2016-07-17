@@ -314,7 +314,7 @@ Projects that are not in English have a flag
   - https://github.com/splinesoft/Bequest
 - Blink: Mobile shell terminal based on Mosh 
   - https://github.com/blinksh/blink
-- Charter: A Swift mailing list client for iPhone and iPad `Swift` 🔥🔥
+- Charter: An universal mailing list app `Swift` 🔥🔥
   - https://github.com/matthewpalmer/Charter
   - https://itunes.apple.com/app/charter-mailing-list-client/id1082212697
 - CI2Go: An unofficial CircleCI Client `Swift` 
@@ -336,7 +336,7 @@ Projects that are not in English have a flag
 - TLDR Man Page: Reference dictionary for computer manual commands, but in TL;DR (Too long didn't read) mode `Swift` 
   - https://github.com/freesuraj/TLDR
   - https://itunes.apple.com/app/tldr-man-page/id1073433250
-- wat: Very simple packet sniffer in Swift `Swift` 
+- wat: Very simple packet sniffer `Swift` 
   - https://github.com/pj4533/wat
 
 ### GitHub 
@@ -350,7 +350,7 @@ Projects that are not in English have a flag
 - GitBucket: GitHub client using MVVM & ReactiveCocoa 🔥🔥🔥🔥🔥
   - https://github.com/leichunfeng/MVVMReactiveCocoa
   - https://itunes.apple.com/app/id961330940
-- Github-Swift: App written in Swift using the Github API `Swift` 
+- Github-Swift `Swift` 
   - https://github.com/acmacalister/Github-Swift
 - Monkey: GitHub third party client that shows the rank of coders and repositories 🔥🔥🔥🔥
   - https://github.com/coderyi/Monkey
@@ -360,7 +360,7 @@ Projects that are not in English have a flag
 - OctoPodium: List user rankings based on GitHub repository star count `Swift` 🔥
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
-- SwiftHub: View Swift repositories from Github 
+- SwiftHub: View Swift repositories from GitHub 
   - https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub
 
 ## Finance 
@@ -523,7 +523,7 @@ Projects that are not in English have a flag
 - Spare Parts: Simple 2D point and line physics using Verlet integration 
   - https://github.com/adamwulf/spare-parts-app
   - https://itunes.apple.com/app/spare-parts/id981297199
-- Stick-Hero-Swift: Universal iOS Game using Swift and iOS SpriteKit `Swift` 🔥🔥
+- Stick-Hero-Swift: Universal iOS Game using SpriteKit `Swift` 🔥🔥
   - https://github.com/phpmaple/Stick-Hero-Swift
 - teh internets: Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter. 
   - https://github.com/insurgentgames/teh-internets
@@ -596,7 +596,7 @@ Projects that are not in English have a flag
 - AsthmaHealth: ResearchKit app studying Asthma 
   - https://github.com/ResearchKit/AsthmaHealth
   - https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668
-- Colorblind: ResearchKit app built in swift in order to provide an easy test for colorblind people. `Swift` 
+- Colorblind: ResearchKit app that provides an easy test for colorblind people `Swift` 
   - https://github.com/boostcode/ResearchKit-ColorBlind
   - https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412
 - GlucoSuccess: ResearchKit app studying Diabetes 
@@ -684,17 +684,17 @@ Projects that are not in English have a flag
 - ParkenDD: Check the status of several public parking lots in Germany and Switzerland `Swift` 
   - https://github.com/kiliankoe/ParkenDD
   - https://itunes.apple.com/app/parkendd/id957165041
-- pathlogger: GPS logging application written in Swift `Swift` 
+- pathlogger: GPS logging application `Swift` 
   - https://github.com/eugenpirogoff/pathlogger
 - PebCiti: Pebble app to show nearest CitiBike NYC dock 
   - https://github.com/joemasilotti/PebCiti
+- Prey: Track lost or stolen devices and perform actions remotely. `Swift` 
+  - https://github.com/prey/prey-swift-client
+  - https://preyproject.com/
 - Prey Anti Theft: Track lost or stolen devices and perform actions remotely. 🔥🔥
   - https://github.com/prey/prey-ios-client
   - https://preyproject.com/
   - https://itunes.apple.com/app/id456755037
-- Prey Swift Client: Track lost or stolen devices and perform actions remotely. `Swift` 
-  - https://github.com/prey/prey-swift-client
-  - https://preyproject.com/
 - Smart Traveller (UberGuide): Simple and comfortable way to explore a city using Uber API 🔥🔥
   - https://github.com/hACKbUSTER/UberGuide-iOS
 - Startups - Mapped In Israel: Discover new startups and locate co-working spaces 
@@ -722,7 +722,7 @@ Image, video, audio, reading — [back to top](#readme)
 - 360 VR Player: Universal 360 video player 🔥🔥🔥🔥
   - https://github.com/hanton/HTY360Player
   - https://itunes.apple.com/app/360-vr-player/id1061464612
-- Analog Synth X: Analog Synthesizer Keyboard Music App, created w/ Swift 2  ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX)) `Swift` 
+- Analog Synth X: Analog Synthesizer Keyboard Music App, created with Swift 2 ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX)) `Swift` 
   - http://matthewfecher.com/app-developement/swift-synth/
 - Artsy: The Art World in Your Pocket 🔥🔥🔥🔥
   - https://github.com/artsy/eigen
@@ -730,6 +730,8 @@ Image, video, audio, reading — [back to top](#readme)
 - Artsy Folio: Artwork showcase 🔥
   - https://github.com/artsy/energy
   - https://itunes.apple.com/app/artsy-folio/id504862164
+- ASCII Art Generator `Swift` 🔥
+  - https://github.com/ijoshsmith/swift-ascii-art
 - CollageMaker: Import photos from an Instagram user and make a collage 
   - https://github.com/Azoft/CollageMaker-iOS
 - ColorBlur: Add blur to your photos 
@@ -825,15 +827,13 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/BalestraPatrick/RealmVideo
 - Revolved: 3D modelling app for the iPad 🔥🔥🔥
   - https://github.com/Ciechan/Revolved
-- SoundCloudSwift: SoundCloud client written on Swift `Swift` 🔥
+- SoundCloudSwift: SoundCloud app `Swift` 🔥
   - https://github.com/pepibumur/SoundCloudSwift
-- Swift ASCII Art Generator `Swift` 🔥
-  - https://github.com/ijoshsmith/swift-ascii-art
-- Swift Radio Pro: Professional Radio Station App, created w/ Swift 2.0 `Swift` 🔥🔥🔥🔥
+- Swift Radio Pro: Professional Radio Station App, created with Swift 2 `Swift` 🔥🔥🔥🔥
   - https://github.com/swiftcodex/Swift-Radio-Pro
 - Swift-Gif: Gif Search `Swift` 
   - https://github.com/pjchavarria/Swift-Gif
-- Swifteroid: A manual HDR exposure camera app written in Swift `Swift` 
+- Swifteroid: A manual HDR exposure camera app `Swift` 
   - https://github.com/eugenpirogoff/swifteroid
 - SwiftFlickrApp: Flickr popular photo viewer `Swift` 🔥🔥
   - https://github.com/synboo/SwiftFlickrApp
@@ -1004,7 +1004,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/shu223/iOS-9-Sampler
 - Knock: Use Accelerometer and background mode to create a feature of knocking your phone 
   - https://github.com/MatheusCavalca/Knock
-- Layer-Parse: This is a Swift sample app that integrates Layer and Atlas with Parse `Swift` 🔥
+- Layer-Parse: Sample app that integrates Layer and Atlas with Parse `Swift` 🔥
   - https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API `Swift` 🔥🔥🔥
   - https://github.com/scotteg/LayerPlayer
@@ -1018,7 +1018,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/apiaryio/polls-app
 - ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
   - https://github.com/JensRavens/ReactiveKitten
-- Reusable Code: Reusable code, written in Swift `Swift` 🔥🔥🔥🔥🔥
+- Reusable Code `Swift` 🔥🔥🔥🔥🔥
   - https://github.com/carlbtrn/Swift
 - RKGist: GitHub Gist app using RestKit 
   - https://github.com/RestKit/RKGist
@@ -1028,7 +1028,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/kylef/Starship
 - StateRestorationDemo: State preservation and restoration APIs `Swift` 
   - https://github.com/shagedorn/StateRestorationDemo
-- Swift-Demos: Collection of demos for Swift `Swift` 🇨🇳🔥🔥🔥🔥
+- Swift-Demos `Swift` 🇨🇳🔥🔥🔥🔥
   - https://github.com/Lax/iOS-Swift-Demos
 
 ## Science 
@@ -1069,13 +1069,13 @@ Image, video, audio, reading — [back to top](#readme)
 - Potatso: App that implements Shadowsocks proxy `Swift` 🇨🇳🔥🔥🔥🔥
   - https://github.com/shadowsocks/Potatso
   - https://itunes.apple.com/app/id1070901416
+- Prey: Track lost or stolen devices and perform actions remotely. `Swift` 
+  - https://github.com/prey/prey-swift-client
+  - https://preyproject.com/
 - Prey Anti Theft: Track lost or stolen devices and perform actions remotely. 🔥🔥
   - https://github.com/prey/prey-ios-client
   - https://preyproject.com/
   - https://itunes.apple.com/app/id456755037
-- Prey Swift Client: Track lost or stolen devices and perform actions remotely. `Swift` 
-  - https://github.com/prey/prey-swift-client
-  - https://preyproject.com/
 - SkeletonKey: iPhone password manager with Dropbox 
   - https://github.com/chrishulbert/SkeletonKey
   - https://itunes.apple.com/app/skeleton-key-password-manager/id513648119
@@ -1128,7 +1128,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Send To Me: Share content to your email with a single tap. `Swift` 
   - https://github.com/PiXeL16/SendToMe
   - https://itunes.apple.com/app/id1100027787
-- Swift Off: Firebase powered to do app built in Swift, includes tutorial `Swift` 
+- Swift Off: Firebase powered to do app, includes tutorial `Swift` 
   - https://github.com/goprimer/swift-off-todo
 - Task Coach: A simple toto manager designed for composite tasks. 
   - https://sourceforge.net/projects/taskcoach/
@@ -1137,7 +1137,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Tinylog: A minimal iPhone/iPad TODO app `Swift` 
   - https://github.com/binarylevel/Tinylog-iOS
   - https://itunes.apple.com/app/tinylog/id799267191
-- Todo: A todo list app written in Swift `Swift` 🔥
+- Todo: Todo list app `Swift` 🔥
   - https://github.com/JakeLin/Todo
 - Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place 🔥🔥
   - https://github.com/ginatrapani/todo.txt-ios
@@ -1147,9 +1147,9 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Lucid Weather Clock: Swift precipitation clock - uses Forecast.io `Swift` 
+- Lucid Weather Clock: Precipitation clock, uses Forecast.io `Swift` 
   - https://github.com/wrutkowski/Lucid-Weather-Clock
-- Pocket Forecast: Swift weather application for Typhoon `Swift` 🔥🔥
+- Pocket Forecast: Weather application for Typhoon `Swift` 🔥🔥
   - https://github.com/appsquickly/Typhoon-Swift-Example
 - RainMan: Uses Forecast.io `Swift` 🔥🔥🔥
   - https://github.com/Mav3r1ck/Project-RainMan
@@ -1374,7 +1374,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Population Clock: Learn about geography and demographics 
   - https://github.com/Netfilter-Com/PopulationClock
   - https://itunes.apple.com/app/population-clock-hd/id590689957
-- SwiftTextClock: A Swift version of the beautiful QlockTwo `Swift` 
+- SwiftTextClock: An app inspired by the beautiful QlockTwo `Swift` 
   - https://github.com/MichMich/SwiftTextClock
 
 ### Timer 
@@ -1434,7 +1434,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
 - how-much: Simple app to record how much things cost using Parse or Firebase 
   - https://github.com/dkhamsing/how-much
-- Swift Off: Firebase powered to do app built in Swift, includes tutorial `Swift` 
+- Swift Off: Firebase powered to do app, includes tutorial `Swift` 
   - https://github.com/goprimer/swift-off-todo
 
 ### [Ionic](http://ionicframework.com/) 
@@ -1476,7 +1476,7 @@ Image, video, audio, reading — [back to top](#readme)
 - ParseStore: Backend provider for selling physical goods using Parse 🔥
   - https://github.com/ParsePlatform/ParseStore
   - https://itunes.apple.com/app/parse-store/id613679907
-- Paws: Building an Instagram-Like App with Parse and Swift `Swift` 
+- Paws: Building an Instagram-Like App with Parse `Swift` 
   - http://www.appcoda.com/instagram-app-parse-swift/
 - Wizard War: Cast spells in single or multiplayer wizard duels. 🔥🔥🔥
   - https://github.com/seanhess/wizardwar
