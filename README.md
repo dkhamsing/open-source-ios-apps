@@ -76,11 +76,11 @@ Projects that are not in English have a flag
   - https://github.com/artsy/Emergence
 - EX Player: Watch videos from ex.ua 
   - https://github.com/IGRSoft/exTVPlayer
-- iCook: A tvOS app that plays iCook TV videos 
+- iCook: Play iCook TV videos 
   - https://github.com/polydice/iCook-tvOS
 - Provenance: Emulators frontend supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
   - https://github.com/jasarien/Provenance
-- RailsCasts: Watch RailsCasts videos on Apple TV 
+- RailsCasts: Watch RailsCasts videos 
   - https://github.com/spritlesoftware/railscasts-on-appletv
 - Telemat-tvOS: Watch Public German Broadcast/TV company streams 🇩🇪
   - https://github.com/omichde/Telemat-tvOS
@@ -91,9 +91,9 @@ Projects that are not in English have a flag
 - Uncle Nagy's House: Uncle Nagy's House tvOS App (TVML app with Gulp tasks for building Jade and CoffeeScript) 
   - https://github.com/kenmickles/unh_tvos
   - https://itunes.apple.com/us/app/id1042172021
-- Upcoming Movies: A tvOS example app, shows upcoming movies `Swift` 
+- Upcoming Movies `Swift` 
   - https://github.com/vanyaland/UpcomingMovies
-- WWDCTV: Watch the WWDC Videos on your Apple TV 🔥🔥
+- WWDCTV: Watch WWDC Videos 🔥🔥
   - https://github.com/azzoor/WWDCTV
 
 ## Apple Watch 
@@ -124,10 +124,10 @@ Projects that are not in English have a flag
 - Cortado: Track your caffeine consumption habits 🔥
   - https://github.com/lazerwalker/cortado
   - https://itunes.apple.com/app/cortado/id969899327
-- Count It: Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything `Swift` 
+- Count It: Dead simple app that lets you count anything `Swift` 
   - https://github.com/PiXeL16/CountItApp
   - https://itunes.apple.com/app/id1098893335
-- Done: Data sharing between a WatchKit app and its main app using Realm `Swift` 
+- Done: Data sharing using WatchKit and Realm `Swift` 
   - https://github.com/FancyPixel/done-swift
 - FlickrWatch: Apple Watch face using Flickr API 
   - https://github.com/jazzychad/FlickrWatch
@@ -151,7 +151,7 @@ Projects that are not in English have a flag
   - https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html
 - Natural Language Clock: Display the time as you would speak it `Swift` 
   - https://github.com/chadkeck/Natural-Language-Clock
-- OnTime: Apple Watch app to access the SBB (Swiss railway) timetable 
+- OnTime: Access the SBB (Swiss railway) timetable 
   - https://github.com/D-32/OnTime
 - Parties for WWDC 🔥🔥
   - https://github.com/genadyo/WWDC
@@ -163,7 +163,7 @@ Projects that are not in English have a flag
   - https://github.com/dropbox/PhotoWatch
 - Soon: Countdown app `Swift` 
   - https://github.com/sandofsky/soon
-- WatchKit-Apps: Tutorials app for WatchKit `Swift` 🔥🔥🔥🔥
+- WatchKit-Apps: Tutorials app `Swift` 🔥🔥🔥🔥
   - https://github.com/kostiakoval/WatchKit-Apps
 - Watchman: A WatchOS2 Hangman Game `Swift` 
   - https://github.com/DanToml/Watchman
@@ -173,7 +173,7 @@ Projects that are not in English have a flag
   - https://github.com/shu223/watchOS-2-Sampler
 - WatchPics: Instagram app 
   - https://github.com/D-32/WatchPics
-- WatchSnake: Game of Snake `Swift` 
+- WatchSnake: Snake game `Swift` 
   - https://github.com/davidcairns/-WatchSnake
 - WatchStocks: Track your stocks portfolio, also includes a watch face complication `Swift` 
   - https://github.com/G2Jose/WatchStocks
@@ -208,7 +208,7 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- Actor: Communication app with a focus on speed and security 🔥🔥🔥🔥🔥
+- Actor: Cross-platform IM app 🔥🔥🔥🔥🔥
   - https://github.com/actorapp/actor-platform
   - https://itunes.apple.com/app/actor-messenger/id1025501036
 - Antidote: A tox client 🔥
@@ -216,16 +216,16 @@ Projects that are not in English have a flag
   - https://antidote.im/
 - BLEMeshChat: Bluetooth LE mesh chat 🔥🔥
   - https://github.com/chrisballinger/BLEMeshChat
-- Chats: Messages app `Swift` 🔥🔥🔥🔥
+- Chats `Swift` 🔥🔥🔥🔥
   - https://github.com/acani/Chats
-- ChatSecure: Encrypted chat app that supports OTR encryption over XMPP 🔥🔥🔥🔥
+- ChatSecure: Send messages with OTR encryption over XMPP 🔥🔥🔥🔥
   - https://github.com/ChatSecure/ChatSecure-iOS
   - https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063
-- Chaty: Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching 🔥🔥
+- Chaty: Anonymous messaging leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching 🔥🔥
   - https://github.com/LunarFlash/Chaty
 - Colloquy: IRC client 
   - https://github.com/colloquy/colloquy
-- IRCCloud: An IRC client/service 🔥
+- IRCCloud: IRC client/service 🔥
   - https://github.com/irccloud/ios
   - https://itunes.apple.com/app/irccloud/id672699103
 - Linphone: Make free audio/video calls and text messages 
@@ -248,10 +248,10 @@ Projects that are not in English have a flag
 - surespot: Secures all messages using end-to-end encryption 
   - https://github.com/surespot/surespot-ios
   - https://itunes.apple.com/app/surespot/id790314865
-- Telegram: Messaging app with a focus on speed and security 🔥🔥🔥
+- Telegram: Send messages with a focus on speed and security 🔥🔥🔥
   - https://github.com/peter-iakovlev/Telegram
   - https://itunes.apple.com/app/telegram-messenger/id686449807
-- TextEthan: Clone of TextEthan, a messaging app that allows anyone to message you `Swift` 
+- TextEthan: Allow anyone to message you `Swift` 
   - https://github.com/thii/TextEthan
 - TSWeChat: A WeChat alternative `Swift` 🔥🔥🔥🔥
   - https://github.com/hilen/TSWeChat
@@ -264,18 +264,18 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- EventBlankApp: App for events or conferences `Swift` 🔥🔥
+- EventBlankApp: Events / conferences `Swift` 🔥🔥
   - https://github.com/icanzilb/EventBlankApp
 - Hack Cancer Hackathon `Swift` 
   - https://github.com/HackCancer/iOS
   - https://itunes.apple.com/app/hack-cancer/id1030806844
-- NortalTechDay: Nortal TechDay 2015 app 🔥
+- NortalTechDay: Nortal TechDay 2015 🔥
   - https://github.com/mikkoj/NortalTechDay
-- ParseDeveloperDay: Parse 2013 developer conference app 
+- ParseDeveloperDay: Parse 2013 developer conference 
   - https://github.com/ParsePlatform/ParseDeveloperDay
-- RWDevCon: RWDevCon app `Swift` 
+- RWDevCon `Swift` 
   - https://github.com/raywenderlich/RWDevCon-App
-- trySwiftApp: try! Swift conference app `Swift` 🔥🔥
+- trySwiftApp: try! Swift conference `Swift` 🔥🔥
   - https://github.com/tryswift/trySwiftApp
 - Valio: Valio Con 2014 schedule `Swift` 🔥🔥
   - https://github.com/soffes/valio
@@ -314,7 +314,7 @@ Projects that are not in English have a flag
   - https://github.com/splinesoft/Bequest
 - Blink: Mobile shell terminal based on Mosh 
   - https://github.com/blinksh/blink
-- Charter: An universal mailing list app `Swift` 🔥🔥
+- Charter: An iPhone/iPad mailing list app `Swift` 🔥🔥
   - https://github.com/matthewpalmer/Charter
   - https://itunes.apple.com/app/charter-mailing-list-client/id1082212697
 - CI2Go: Unofficial CircleCI app `Swift` 
@@ -322,7 +322,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427
 - CodeBucket: Browse and maintain your Bitbucket repositories 🔥
   - https://github.com/thedillonb/CodeBucket
-- Codinator: Code editor for iPhone and iPad 
+- Codinator: iPhone/iPad code editor 
   - https://github.com/DanilaVladi/codinator
   - https://itunes.apple.com/app/codinator/id1024671232
 - Piwik Mobile 2: Access Piwik analytics on the go 
@@ -347,12 +347,12 @@ Projects that are not in English have a flag
   - https://github.com/thedillonb/CodeHub
   - http://codehub-app.com/
   - https://itunes.apple.com/app/id707173885
-- GitBucket: GitHub client using MVVM & ReactiveCocoa 🔥🔥🔥🔥🔥
+- GitBucket: Uses MVVM & ReactiveCocoa 🔥🔥🔥🔥🔥
   - https://github.com/leichunfeng/MVVMReactiveCocoa
   - https://itunes.apple.com/app/id961330940
 - Github-Swift `Swift` 
   - https://github.com/acmacalister/Github-Swift
-- Monkey: GitHub third party client that shows the rank of coders and repositories 🔥🔥🔥🔥
+- Monkey: GitHub app that shows the rank of coders and repositories 🔥🔥🔥🔥
   - https://github.com/coderyi/Monkey
   - https://itunes.apple.com/app/monkey-for-github/id1003765407
 - MrCode: GitHub iPhone app that can cache Markdown content 🇨🇳🔥🔥
@@ -360,7 +360,7 @@ Projects that are not in English have a flag
 - OctoPodium: List user rankings based on GitHub repository star count `Swift` 🔥
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
-- SwiftHub: View Swift repositories from GitHub 
+- SwiftHub: View Swift repositories on GitHub 
   - https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub
 
 ## Finance 
@@ -376,7 +376,7 @@ Projects that are not in English have a flag
 - Buck Tracker: Expense tracker `Swift` 
   - https://github.com/hkalexling/Buck_Tracker
   - https://itunes.apple.com/app/ibudgeter/id1048395728
-- Coins: Bitcoin value tracker `Swift` 🔥
+- Coins: Bitcoin tracker `Swift` 🔥
   - https://github.com/nothingmagical/coins
 - Concurrency: Beautiful, intuitive currency converter 🔥🔥
   - https://github.com/nicklockwood/Concurrency
@@ -384,7 +384,7 @@ Projects that are not in English have a flag
 - doughwallet: Dogecoin wallet 
   - https://github.com/peritus/doughwallet
   - https://itunes.apple.com/app/doughwallet/id951731776
-- EMI Calculator for Home, Personal & Car Loan: Calculate your Equated Monthly instalment (EMI) for Home loan, Housing loan, Car loan & Personal loan `Swift` 
+- EMI Calculator: Calculate your Equated Monthly installment (EMI) for home, car & personal loans `Swift` 
   - https://github.com/tirupati17/loan-emi-calculator-clean-swift
   - https://itunes.apple.com/app/id1105890730
 - Neverlate: Pay-if-U-R-late app using geofences and Venmo API 
@@ -392,10 +392,10 @@ Projects that are not in English have a flag
 - Savings Assistant: Expense tracker `Swift` 
   - https://github.com/chrisamanse/savings-assistant
   - https://itunes.apple.com/app/savings-assistant/id1022760996
-- SIP - Calculator: SIP calculator calculates the future value of SIP (Systematic Investment Plan) payments `Swift` 
+- SIP Calculator: Calculate the future value of SIP (Systematic Investment Plan) payments `Swift` 
   - https://github.com/tirupati17/sip-calculator-swift
   - https://itunes.apple.com/app/id1092822415
-- TodayStocks: Lightweight stocks app that shows your portfolio in a minimalist today extension 
+- TodayStocks: Show portfolio in a minimalist today extension 
   - https://github.com/premnirmal/TodayStocks
   - https://itunes.apple.com/app/todaystocks/id993467855
 - ToThePenny: Budget tracker 
@@ -429,7 +429,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/castle-hassle/id524566068
 - Chess: Chess game to learn SpriteKit `Swift` 
   - https://github.com/mjcuva/Chess
-- Chuck: Throw a ball and catch it. Over and over and over 
+- Chuck: Throw a ball and catch it, over and over and over 
   - https://github.com/moowahaha/Chuck
   - https://itunes.apple.com/app/chuck/id1050453297
 - CodeCombat: Multiplayer programming game for learning how to code 
@@ -523,7 +523,7 @@ Projects that are not in English have a flag
 - Spare Parts: Simple 2D point and line physics using Verlet integration 
   - https://github.com/adamwulf/spare-parts-app
   - https://itunes.apple.com/app/spare-parts/id981297199
-- Stick-Hero-Swift: Universal iOS Game using SpriteKit `Swift` 🔥🔥
+- Stick-Hero-Swift: iPhone/iPad iOS Game using SpriteKit `Swift` 🔥🔥
   - https://github.com/phpmaple/Stick-Hero-Swift
 - teh internets: Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter 
   - https://github.com/insurgentgames/teh-internets
@@ -719,7 +719,7 @@ Projects that are not in English have a flag
  
 Image, video, audio, reading — [back to top](#readme) 
  
-- 360 VR Player: Universal 360 video player 🔥🔥🔥🔥
+- 360 VR Player: iPhone/iPad 360 video player 🔥🔥🔥🔥
   - https://github.com/hanton/HTY360Player
   - https://itunes.apple.com/app/360-vr-player/id1061464612
 - Analog Synth X: Analog Synthesizer Keyboard Music App, created with Swift 2 ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX)) `Swift` 
@@ -857,7 +857,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/videolan/vlc
   - https://www.videolan.org/
   - https://itunes.apple.com/app/vlc-for-ios/id650377962
-- VoiceMemos: Universal audio recorder app `Swift` 🔥🔥
+- VoiceMemos: iPhone/iPad audio recorder app `Swift` 🔥🔥
   - https://github.com/MoZhouqi/VoiceMemos
 - xkcd: iPhone app 
   - https://github.com/paulrehkugler/xkcd
@@ -1134,7 +1134,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://sourceforge.net/projects/taskcoach/
   - http://taskcoach.org/
   - https://itunes.apple.com/app/task-coach/id311403563
-- Tinylog: A minimal universal TODO app `Swift` 
+- Tinylog: A minimal iPhone/iPad TODO app `Swift` 
   - https://github.com/binarylevel/Tinylog-iOS
   - https://itunes.apple.com/app/tinylog/id799267191
 - Todo `Swift` 🔥
@@ -1180,7 +1180,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/kiwix/iOS
   - http://www.kiwix.org/wiki/Main_Page
   - https://itunes.apple.com/app/id997079563
-- PHPHub: Universal app for PHPHub Forum 🇨🇳🔥🔥🔥
+- PHPHub: iPhone/iPad app for PHPHub Forum 🇨🇳🔥🔥🔥
   - https://github.com/Aufree/phphub-ios
   - https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564
 - ProMonster: Store 🇧🇷
@@ -1424,7 +1424,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Chaty: Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching 🔥🔥
+- Chaty: Anonymous messaging leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching 🔥🔥
   - https://github.com/LunarFlash/Chaty
 - Hacker News Client: Firebase API-Based iOS Reader (Firebase) 🔥🔥
   - https://github.com/bonzoq/hniosreader
@@ -1525,9 +1525,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/jbkuczma/NBAreact
 - newswatch: News app using YouTube playlists 
   - https://github.com/bradoyler/newswatch-react-native
-- NortalTechDay: Nortal TechDay 2015 app 🔥
+- NortalTechDay: Nortal TechDay 2015 🔥
   - https://github.com/mikkoj/NortalTechDay
-- ParseDeveloperDay: Parse 2013 developer conference app 
+- ParseDeveloperDay: Parse 2013 developer conference 
   - https://github.com/ParsePlatform/ParseDeveloperDay
 - PocketNode: Lightweight Node REPL 
   - https://github.com/mzabriskie/PocketNode
@@ -1577,7 +1577,7 @@ Image, video, audio, reading — [back to top](#readme)
 - C-41: Make developing film easier and more reliable by using this simple timer 🔥🔥🔥🔥
   - https://github.com/ashfurrow/C-41
   - https://itunes.apple.com/app/c-41/id789924103
-- GitBucket: GitHub client using MVVM & ReactiveCocoa 🔥🔥🔥🔥🔥
+- GitBucket: Uses MVVM & ReactiveCocoa 🔥🔥🔥🔥🔥
   - https://github.com/leichunfeng/MVVMReactiveCocoa
   - https://itunes.apple.com/app/id961330940
 - GroceryList: iPhone grocery list app, synchronized using GitHub 🔥🔥🔥
@@ -1603,7 +1603,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Count It: Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything `Swift` 
+- Count It: Dead simple app that lets you count anything `Swift` 
   - https://github.com/PiXeL16/CountItApp
   - https://itunes.apple.com/app/id1098893335
 - GitHub API Client: GitHub client using MVVM and RxSwift `Swift` 🔥
@@ -1620,7 +1620,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Done: Data sharing between a WatchKit app and its main app using Realm `Swift` 
+- Done: Data sharing using WatchKit and Realm `Swift` 
   - https://github.com/FancyPixel/done-swift
 - Obědář: Shows daily menu of close restaurants to Czech Technical University `Swift` 
   - https://github.com/syky27/lunch_guy-ios
@@ -1639,7 +1639,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/sebastianwr/VIPER-Persons
 - Counter 🔥🔥
   - https://github.com/mutualmobile/Counter
-- EMI Calculator for Home, Personal & Car Loan: Calculate your Equated Monthly instalment (EMI) for Home loan, Housing loan, Car loan & Personal loan `Swift` 
+- EMI Calculator: Calculate your Equated Monthly installment (EMI) for home, car & personal loans `Swift` 
   - https://github.com/tirupati17/loan-emi-calculator-clean-swift
   - https://itunes.apple.com/app/id1105890730
 - Rambler.Conferences 
