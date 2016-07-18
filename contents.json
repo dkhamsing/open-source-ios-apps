@@ -1147,7 +1147,7 @@
     "source": "https://github.com/etamity/AlienBlast",
     "itunes": "https://itunes.apple.com/app/id1098323034",
     "license": "mit",
-    "tags": [swift"]
+    "tags": ["swift"]
    },
     {
       "title": "Bridges",
@@ -5180,15 +5180,15 @@
     "tags": ["swift"],
     "license": "mit"
   },
-    {
-      "title": "Hackfoldr",
-      "category": "misc",
-      "description": "Hackfoldr is your hacking briefcase. You only need a url to share all those documents of your project.",
-      "source": "https://github.com/hackfoldr/hackfoldr-iOS",
-      "homepage": "https://hackfoldr.org",
-      "itunes": "https://itunes.apple.com/app/hackfoldr/id919010837",
-      "stars": 11,
-      "license": "mit"
-    }
+  {
+    "title": "Hackfoldr",
+    "category": "misc",
+    "description": "Hackfoldr is your hacking briefcase. You only need a url to share all those documents of your project.",
+    "source": "https://github.com/hackfoldr/hackfoldr-iOS",
+    "homepage": "https://hackfoldr.org",
+    "itunes": "https://itunes.apple.com/app/hackfoldr/id919010837",
+    "stars": 11,
+    "license": "mit"
+  }
   ]
 }
