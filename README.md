@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **508** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 17, 2016*).
+A collaborative list of **510** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 18, 2016*).
  
 Jump to 
  
@@ -369,7 +369,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/monkey-for-github/id1003765407
 - MrCode: GitHub iPhone app that can cache Markdown content 🇨🇳🔥🔥
   - https://github.com/haolloyin/MrCode
-- OctoPodium: List user rankings based on GitHub repository star count `Swift` 🔥
+- OctoPodium: List users ranked by GitHub repository star count `Swift` 🔥
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
 - SwiftHub: View Swift repositories on GitHub 
@@ -434,6 +434,9 @@ Projects that are not in English have a flag
   - https://github.com/austinzheng/swift-2048
 - Aeropack: A steampunk retro 2d platformer 
   - https://github.com/insurgentgames/Aeropack
+- Alienblast: Cute and sweet shooting game developed with Cocos2d & SpriteBuilder `Swift` 
+  - https://github.com/etamity/AlienBlast
+  - https://itunes.apple.com/app/id1098323034
 - Balloon Burst: A simple game to use in learning Cocos2D 
   - https://github.com/jamiely/ios-balloon-burst
 - Bridges: A puzzle game with bridges, houses, tolls, and subways 🔥
@@ -675,7 +678,7 @@ Projects that are not in English have a flag
   - https://github.com/GeoTappy/GeoTappy-iOS
 - HopperBus: Timetable for the University of Nottingham Hopper Bus `Swift` 
   - https://github.com/TosinAF/HopperBus-iOS
-- iBeaconTasks: iBeacon to-do reminder app based on Parse 🔥
+- iBeaconTasks: iBeacon to-do reminder app using Parse 🔥
   - https://github.com/TomekB/iBeaconTasks
 - Locative: Helping you to get the best out of your automated home, geofencing, iBeacons 🔥
   - https://github.com/LocativeHQ/Locative-iOS
@@ -1040,7 +1043,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/carlbtrn/Swift
 - RKGist: GitHub Gist app using RestKit 
   - https://github.com/RestKit/RKGist
-- SafariAutoLoginTest: Demo showing how to auto-login users in iOS 9 based on Safari cookies `Swift` 🔥🔥
+- SafariAutoLoginTest: Demo showing how to auto-login users in iOS 9 using Safari cookies `Swift` 🔥🔥
   - https://github.com/mackuba/SafariAutoLoginTest
 - Starship: A generic API client application using Hyperdrive `Swift` 
   - https://github.com/kylef/Starship
@@ -1319,7 +1322,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/anywall/id520955490
 - how-much: Simple app to record how much things cost using Parse or Firebase 
   - https://github.com/dkhamsing/how-much
-- iBeaconTasks: iBeacon to-do reminder app based on Parse 🔥
+- iBeaconTasks: iBeacon to-do reminder app using Parse 🔥
   - https://github.com/TomekB/iBeaconTasks
 - Jim: Track your gym workouts `Swift` 
   - https://github.com/kylejm/Jim
@@ -1545,6 +1548,10 @@ Image, video, audio, reading — [back to top](#readme)
 - GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
   - https://github.com/semweb/GreatReader
   - https://itunes.apple.com/app/greatreader/id903651112
+- Hackfoldr: Hackfoldr is your hacking briefcase. You only need a url to share all those documents of your project. 
+  - https://github.com/hackfoldr/hackfoldr-iOS
+  - https://hackfoldr.org
+  - https://itunes.apple.com/app/hackfoldr/id919010837
 - Hidrate: App for smart water bottle 
   - https://github.com/mjcuva/Hidrate
 - iContactU: Reminds you to contact people you ought to `Swift` 🔥
@@ -1642,6 +1649,9 @@ Image, video, audio, reading — [back to top](#readme)
 - Round & Split: Tip Calculator `Swift` 
   - https://github.com/lukhnos/roundandsplit
   - https://itunes.apple.com/app/round-split/id912288737
+- SIP Calculator: Calculate the future value of SIP (Systematic Investment Plan) payments `Swift` 
+  - https://github.com/tirupati17/sip-calculator-swift
+  - https://itunes.apple.com/app/id1092822415
 
 ### Clock 
  
