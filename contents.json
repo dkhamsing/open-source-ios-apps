@@ -964,7 +964,7 @@
     {
       "title": "TLDR Man Page",
       "category": "developer",
-      "description": "Reference dictionary for computer manual commands, but in TL;DR (Too long didn't read) mode",
+      "description": "Reference dictionary for computer manual commands, but in tl;dr (too long; didn't read) mode",
       "source": "https://github.com/freesuraj/TLDR",
       "itunes": "https://itunes.apple.com/app/tldr-man-page/id1073433250",
       "tags": [
