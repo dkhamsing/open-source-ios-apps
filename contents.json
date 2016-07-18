@@ -1143,9 +1143,11 @@
     }, {
     "title": "Alienblast",
     "category": "games",
-    "description": "Cute and sweet game developed by Swift, Coco2d and Spritebuilder.",
+    "description": "Cute and sweet shooting game developed with Cocos2d & SpriteBuilder",
     "source": "https://github.com/etamity/AlienBlast",
-    "tags": ["iOS","swift"]
+    "itunes": "https://itunes.apple.com/app/id1098323034"
+    "license": "mit",
+    "tags": [swift"]
    },
     {
       "title": "Bridges",
