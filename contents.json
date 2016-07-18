@@ -1057,7 +1057,7 @@
     {
       "title": "Coins",
       "category": "bitcoin",
-      "description": "Bitcoin tracker",
+      "description": "Bitcoin value tracker",
       "license": "mit",
       "source": "https://github.com/nothingmagical/coins",
       "stars": 164,
