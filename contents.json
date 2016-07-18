@@ -1143,7 +1143,7 @@
     }, {
     "title": "Alienblast",
     "category": "games",
-    "description": "Cute and sweet shooting game developed with Cocos2d & SpriteBuilder",
+    "description": "Cute and sweet shooting game developed with Cocos2D & SpriteBuilder",
     "source": "https://github.com/etamity/AlienBlast",
     "itunes": "https://itunes.apple.com/app/id1098323034",
     "license": "mit",
@@ -1303,7 +1303,7 @@
     {
       "title": "MUDRammer",
       "category": "games",
-      "description": "MUD Client for iPhone and iPad",
+      "description": "MUD app for iPhone/iPad",
       "license": "mit",
       "source": "https://github.com/splinesoft/MUDRammer",
       "itunes": "https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072",
@@ -1420,7 +1420,7 @@
     {
       "title": "HealthKit~Swift",
       "category": "health",
-      "description": "Sample app for Apple HealthKit",
+      "description": "Sample app for `HealthKit`",
       "source": "https://github.com/Darktt/HealthKit-Swift",
       "tags": [
         "swift"
@@ -1793,7 +1793,7 @@
     {
       "title": "DoubanFM",
       "category": "media",
-      "description": "douban.fm client for iPhone, using AFN and MPMoviePlayer",
+      "description": "douban.fm app for iPhone, using `AFNetworking` and `MPMoviePlayer`",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/XVXVXXX/DoubanFM",
@@ -1850,7 +1850,7 @@
     {
       "title": "KonaBot",
       "category": "media",
-      "description": "unofficial client for konachan.net",
+      "description": "Unofficial app for konachan.net",
       "source": "https://github.com/hkalexling/KonaBot-iOS",
       "itunes": "https://itunes.apple.com/app/konabot/id1055716649",
       "tags": [
@@ -1975,7 +1975,7 @@
     {
       "title": "Revolved",
       "category": "media",
-      "description": "3D modelling app for the iPad",
+      "description": "3D modelling app for iPad",
       "license": "bsd-3-clause",
       "source": "https://github.com/Ciechan/Revolved",
       "stars": 577
@@ -2210,7 +2210,7 @@
     {
       "title": "v2ex",
       "category": "news",
-      "description": "An app for the technical and creative website v2ex.com",
+      "description": "App for the technical and creative website v2ex.com",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/singro/v2ex",
@@ -2275,7 +2275,7 @@
     {
       "title": "News/YC",
       "category": "hacker-news",
-      "description": "Hacker News client with user management, commenting, submitting and themes",
+      "description": "Hacker News app with user management, commenting, submitting & themes",
       "license": "mit",
       "source": "https://github.com/bennyguitar/News-YC---iPhone",
       "itunes": "https://itunes.apple.com/app/news-yc/id592893508",
@@ -2489,7 +2489,7 @@
     {
       "title": "Polls",
       "category": "sample",
-      "description": "iOS Client for Polls API by Apiary",
+      "description": "App for Polls API by Apiary",
       "license": "mit",
       "source": "https://github.com/apiaryio/polls-app",
       "tags": [
@@ -2907,11 +2907,12 @@
     {
       "title": "Borrowed Books UFGRS",
       "category": "misc",
-      "description": "Manage borrowed books at UFRGS using SABI",
+      "description": "Manage ufrgs.br library books using `Alamofire`",
       "source": "https://github.com/MatheusCavalca/RenovaLivrosUFRGS",
       "tags": [
         "swift"
       ],
+      "lang": "por",
       "stars": 3,
       "license": "other"
     },
@@ -2955,7 +2956,7 @@
     {
       "title": "EmotionNote",
       "category": "misc",
-      "description": "Emotion diary  choose or take a photo of your face, the app will tell you your emotion 🔶",
+      "description": "Emotion diary, choose or take a photo of your face and the app will tell you your emotion",
       "license": "mit",
       "source": "https://github.com/Yogayu/EmotionNote",
       "tags": [
@@ -2982,7 +2983,7 @@
     {
       "title": "GreatReader",
       "category": "misc",
-      "description": "\"Great\" PDF reader designed for both iPhone and iPad",
+      "description": "\"Great\" PDF reader designed for both iPhone/iPad",
       "license": "mit",
       "source": "https://github.com/semweb/GreatReader",
       "itunes": "https://itunes.apple.com/app/greatreader/id903651112",
@@ -3002,7 +3003,7 @@
     {
       "title": "Hidrate",
       "category": "misc",
-      "description": "App for smart water bottle",
+      "description": "Interacts with smart water bottle",
       "source": "https://github.com/mjcuva/Hidrate",
       "stars": 7,
       "license": "other"
@@ -3179,7 +3180,7 @@
     {
       "title": "Theseus",
       "category": "misc",
-      "description": "Personal analytics tool",
+      "description": "Personal analytics app",
       "license": "gpl-2.0",
       "source": "https://github.com/lazerwalker/Theseus",
       "stars": 677
@@ -3218,7 +3219,7 @@
     {
       "title": "Vinylogue",
       "category": "misc",
-      "description": "Simple Last.fm client",
+      "description": "Simple Last.fm app",
       "license": "bsd-3-clause",
       "source": "https://github.com/twocentstudios/vinylogue",
       "itunes": "https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119",
@@ -3227,7 +3228,7 @@
     {
       "title": "WaniKani",
       "category": "misc",
-      "description": "Client app for WaniKani.com site (learn kanji)",
+      "description": "App for WaniKani.com site (learn kanji)",
       "license": "gpl-3.0",
       "source": "https://github.com/haawa799/WaniKani-iOS",
       "itunes": "https://itunes.apple.com/app/wanikani/id1034355141",
@@ -3258,7 +3259,7 @@
     {
       "title": "Yorkie",
       "category": "misc",
-      "description": "This app will help you take care of your dog",
+      "description": "Helps you take care of your dog",
       "source": "https://github.com/carlbtrn/YorkieApp",
       "itunes": "https://itunes.apple.com/app/Yorkie/id1000836606",
       "stars": 16,
@@ -3810,7 +3811,7 @@
     {
       "title": "GitHub API Client",
       "category": "rxswift",
-      "description": "GitHub client using MVVM and RxSwift",
+      "description": "GitHub app using MVVM and RxSwift",
       "source": "https://github.com/tailec/boilerplate",
       "stars": 179,
       "tags": [
@@ -4531,7 +4532,7 @@
         "media",
         "official"
       ],
-      "description": "A client for [RadioParadise](http://www.radioparadise.com/rp_2.php)",
+      "description": "App for [RadioParadise](http://www.radioparadise.com/rp_2.php)",
       "source": "https://github.com/ilTofa/rposx",
       "homepage": "https://www.iltofa.com/rphd/",
       "itunes": "https://itunes.apple.com/app/id663334697",
@@ -4595,7 +4596,7 @@
     {
       "title": "Seafile Pro",
       "category": "misc",
-      "description": "A client for Seafile (self-hosted file sharing)",
+      "description": "App for Seafile (self-hosted file sharing)",
       "source": "https://github.com/haiwen/seafile-iOS",
       "homepage": "https://www.seafile.com/en/home/",
       "itunes": "https://itunes.apple.com/app/id639202512",
@@ -5183,7 +5184,7 @@
   {
     "title": "Hackfoldr",
     "category": "misc",
-    "description": "Hackfoldr is your hacking briefcase. You only need a url to share all those documents of your project.",
+    "description": "Hackfoldr is your hacking briefcase, share all your project documents with a url",
     "source": "https://github.com/hackfoldr/hackfoldr-iOS",
     "homepage": "https://hackfoldr.org",
     "itunes": "https://itunes.apple.com/app/hackfoldr/id919010837",
