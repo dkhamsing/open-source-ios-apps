@@ -80,7 +80,7 @@ def output_flag(lang)
   when 'nld'
     '🇳🇱'
   when 'por'
-    '🇧🇷'
+    '🇵🇹'
   when 'spa'
     '🇪🇸'
   when 'zho'
