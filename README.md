@@ -434,7 +434,7 @@ Projects that are not in English have a flag
   - https://github.com/austinzheng/swift-2048
 - Aeropack: A steampunk retro 2d platformer 
   - https://github.com/insurgentgames/Aeropack
-- Alienblast: Cute and sweet shooting game developed with Cocos2d & SpriteBuilder `Swift` 
+- Alienblast: Cute and sweet shooting game developed with Cocos2D & SpriteBuilder `Swift` 
   - https://github.com/etamity/AlienBlast
   - https://itunes.apple.com/app/id1098323034
 - Balloon Burst: A simple game to use in learning Cocos2D 
@@ -513,7 +513,7 @@ Projects that are not in English have a flag
 - Mission999 
   - https://github.com/whunmr/Mission999
   - https://itunes.apple.com/app/mission-999/id1036686316
-- MUDRammer: MUD Client for iPhone and iPad 
+- MUDRammer: MUD app for iPhone/iPad 
   - https://github.com/splinesoft/MUDRammer
   - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
 - My First Memory: Introduction to iOS & Swift / memory game implementation fetching images from Instagram `Swift` 
@@ -598,7 +598,7 @@ Projects that are not in English have a flag
 - Depressed: Test if you are depressed `Swift` 
   - https://github.com/DerLobi/Depressed
   - https://itunes.apple.com/app/depressed/id1062594092
-- HealthKit~Swift: Sample app for Apple HealthKit `Swift` 
+- HealthKit~Swift: Sample app for `HealthKit` `Swift` 
   - https://github.com/Darktt/HealthKit-Swift
 - Jim: Track your gym workouts `Swift` 
   - https://github.com/kylejm/Jim
@@ -761,7 +761,7 @@ Image, video, audio, reading — [back to top](#readme)
 - ComicFlow: Comic reader for iPad 🔥🔥
   - https://github.com/swisspol/ComicFlow
   - https://itunes.apple.com/app/comicflow/id409290355
-- DoubanFM: douban.fm client for iPhone, using AFN and MPMoviePlayer 🇨🇳🔥🔥
+- DoubanFM: douban.fm app for iPhone, using `AFNetworking` and `MPMoviePlayer` 🇨🇳🔥🔥
   - https://github.com/XVXVXXX/DoubanFM
 - DownTube: Download any video from YouTube for offline use `Swift` 
   - https://github.com/MrAdamBoyd/DownTube
@@ -788,7 +788,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/xbmc/xbmc
   - https://kodi.tv/
   - https://itunes.apple.com/app/id520480364
-- KonaBot: unofficial client for konachan.net `Swift` 
+- KonaBot: Unofficial app for konachan.net `Swift` 
   - https://github.com/hkalexling/KonaBot-iOS
   - https://itunes.apple.com/app/konabot/id1055716649
 - Longboxed: Track the releases of your favorite comics 
@@ -838,7 +838,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/id530922227
 - Pugs: Simple pug photo viewer `Swift` 
   - https://github.com/soffes/Pugs
-- Radio Paradise: A client for [RadioParadise](http://www.radioparadise.com/rp_2.php) 
+- Radio Paradise: App for [RadioParadise](http://www.radioparadise.com/rp_2.php) 
   - https://github.com/ilTofa/rposx
   - https://www.iltofa.com/rphd/
   - https://itunes.apple.com/app/id663334697
@@ -846,7 +846,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/JensRavens/ReactiveKitten
 - RealmVideo: Watch Realm videos and slides on your phone `Swift` 🔥🔥
   - https://github.com/BalestraPatrick/RealmVideo
-- Revolved: 3D modelling app for the iPad 🔥🔥🔥
+- Revolved: 3D modelling app for iPad 🔥🔥🔥
   - https://github.com/Ciechan/Revolved
 - SoundCloudSwift: SoundCloud app `Swift` 🔥
   - https://github.com/pepibumur/SoundCloudSwift
@@ -920,7 +920,7 @@ Image, video, audio, reading — [back to top](#readme)
 - The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan `Swift` 🔥🔥
   - https://github.com/aclissold/the-oakland-post
   - https://itunes.apple.com/app/oakland-post/id931152313
-- v2ex: An app for the technical and creative website v2ex.com 🇨🇳🔥🔥🔥🔥
+- v2ex: App for the technical and creative website v2ex.com 🇨🇳🔥🔥🔥🔥
   - https://github.com/singro/v2ex
   - https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535
 
@@ -947,7 +947,7 @@ Image, video, audio, reading — [back to top](#readme)
 - news: yc 🔥🔥🔥🔥
   - https://github.com/Xuzz/newsyc
   - https://itunes.apple.com/app/news-yc/id434787119
-- News/YC: Hacker News client with user management, commenting, submitting and themes `Swift` 🔥🔥🔥
+- News/YC: Hacker News app with user management, commenting, submitting & themes `Swift` 🔥🔥🔥
   - https://github.com/bennyguitar/News-YC---iPhone
   - https://itunes.apple.com/app/news-yc/id592893508
 - Simple Reader 🔥
@@ -976,7 +976,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/xbmc/xbmc
   - https://kodi.tv/
   - https://itunes.apple.com/app/id520480364
-- Radio Paradise: A client for [RadioParadise](http://www.radioparadise.com/rp_2.php) 
+- Radio Paradise: App for [RadioParadise](http://www.radioparadise.com/rp_2.php) 
   - https://github.com/ilTofa/rposx
   - https://www.iltofa.com/rphd/
   - https://itunes.apple.com/app/id663334697
@@ -1035,7 +1035,7 @@ Image, video, audio, reading — [back to top](#readme)
 - OpenShop.io: Ecommerce shopping app 🔥
   - https://github.com/openshopio/openshop.io-ios
   - https://itunes.apple.com/app/id1088689646
-- Polls: iOS Client for Polls API by Apiary `Swift` 
+- Polls: App for Polls API by Apiary `Swift` 
   - https://github.com/apiaryio/polls-app
 - ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
   - https://github.com/JensRavens/ReactiveKitten
@@ -1473,7 +1473,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Count It: Dead simple app that lets you count anything `Swift` 
   - https://github.com/PiXeL16/CountItApp
   - https://itunes.apple.com/app/id1098893335
-- GitHub API Client: GitHub client using MVVM and RxSwift `Swift` 🔥
+- GitHub API Client: GitHub app using MVVM and RxSwift `Swift` 🔥
   - https://github.com/tailec/boilerplate
 - Kiosk: The Artsy auction kiosk app, uses RxSwift `Swift` 🔥🔥🔥🔥
   - https://github.com/artsy/eidolon
@@ -1526,7 +1526,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
 - BlogQuest: Alternative Tumblr client 
   - https://github.com/irace/BlogQuest
-- Borrowed Books UFGRS: Manage borrowed books at UFRGS using SABI `Swift` 
+- Borrowed Books UFGRS: Manage ufrgs.br library books using `Alamofire` `Swift` 🇧🇷
   - https://github.com/MatheusCavalca/RenovaLivrosUFRGS
 - CardDecks: Configurable card decks 
   - https://github.com/aharren/CardDecks
@@ -1536,7 +1536,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/wongzigii/Colo
 - DeckRocket: Turn your iPhone into a remote for Deckset presentations `Swift` 🔥🔥
   - https://github.com/jpsim/DeckRocket
-- EmotionNote: Emotion diary  choose or take a photo of your face, the app will tell you your emotion 🔶 `Swift` 
+- EmotionNote: Emotion diary, choose or take a photo of your face and the app will tell you your emotion `Swift` 
   - https://github.com/Yogayu/EmotionNote
 - FreeRDP: An implementation of the Remote Desktop Protocol (RDP) 🔥🔥🔥🔥
   - https://github.com/FreeRDP/FreeRDP
@@ -1545,14 +1545,14 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/thomasfinch/GammaThingy
 - GoodNight: Change screen gamma dynamically 🔥🔥🔥
   - https://github.com/anthonya1999/GoodNight
-- GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
+- GreatReader: "Great" PDF reader designed for both iPhone/iPad 🔥🔥
   - https://github.com/semweb/GreatReader
   - https://itunes.apple.com/app/greatreader/id903651112
-- Hackfoldr: Hackfoldr is your hacking briefcase. You only need a url to share all those documents of your project. 
+- Hackfoldr: Hackfoldr is your hacking briefcase, share all your project documents with a url 
   - https://github.com/hackfoldr/hackfoldr-iOS
   - https://hackfoldr.org
   - https://itunes.apple.com/app/hackfoldr/id919010837
-- Hidrate: App for smart water bottle 
+- Hidrate: Interacts with smart water bottle 
   - https://github.com/mjcuva/Hidrate
 - iContactU: Reminds you to contact people you ought to `Swift` 🔥
   - https://github.com/rizal72/iContactU
@@ -1597,7 +1597,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Runner-Stats: iPhone app to record running data 
   - https://github.com/hukun01/Runner-Stats
   - https://itunes.apple.com/app/runner-stats/id793443821
-- Seafile Pro: A client for Seafile (self-hosted file sharing) 
+- Seafile Pro: App for Seafile (self-hosted file sharing) 
   - https://github.com/haiwen/seafile-iOS
   - https://www.seafile.com/en/home/
   - https://itunes.apple.com/app/id639202512
@@ -1610,17 +1610,17 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/chrisballinger/Tether-iOS
 - TheReservist: Check availability of iPhones `Swift` 
   - https://github.com/kimar/TheReservist
-- Theseus: Personal analytics tool 🔥🔥🔥
+- Theseus: Personal analytics app 🔥🔥🔥
   - https://github.com/lazerwalker/Theseus
 - TrollDrop: AirDrop trollfaces to everyone 
   - https://github.com/a2/TrollDrop
-- Vinylogue: Simple Last.fm client 🔥
+- Vinylogue: Simple Last.fm app 🔥
   - https://github.com/twocentstudios/vinylogue
   - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
 - VPN On: Today Widget to turn on VPN `Swift` 🔥🔥🔥🔥🔥
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
-- WaniKani: Client app for WaniKani.com site (learn kanji) `Swift` 
+- WaniKani: App for WaniKani.com site (learn kanji) `Swift` 
   - https://github.com/haawa799/WaniKani-iOS
   - https://itunes.apple.com/app/wanikani/id1034355141
 - Words: Thesaurus app 
@@ -1630,7 +1630,7 @@ Image, video, audio, reading — [back to top](#readme)
 - YaleMobile: App for Yale University students 
   - https://github.com/kiokoo/YaleMobile
   - https://itunes.apple.com/app/yale-mobile/id497588523
-- Yorkie: This app will help you take care of your dog 
+- Yorkie: Helps you take care of your dog 
   - https://github.com/carlbtrn/YorkieApp
   - https://itunes.apple.com/app/Yorkie/id1000836606
 
