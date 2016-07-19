@@ -2955,8 +2955,8 @@
     },
     {
       "title": "EmotionNote",
-      "category": "misc",
-      "description": "Emotion diary, choose or take a photo of your face and the app will tell you your emotion",
+      "category": "media",
+      "description": "Emotion diary, analyze choose or take a photo of your face and the app will tell you your emotion",
       "license": "mit",
       "source": "https://github.com/Yogayu/EmotionNote",
       "tags": [
@@ -3095,7 +3095,7 @@
     },
     {
       "title": "Onions",
-      "category": "misc",
+      "category": ["text", "security"],
       "description": "Cloud encrypted text storage",
       "source": "https://github.com/onionsapp/Onions-iOS",
       "itunes": "https://itunes.apple.com/app/onions/id687296481",
@@ -3239,7 +3239,7 @@
     },
     {
       "title": "Words",
-      "category": "misc",
+      "category": "text",
       "description": "Thesaurus app",
       "license": "mit",
       "source": "https://github.com/soffes/words",
@@ -4904,7 +4904,7 @@
     },
     {
       "title": "SwiftBlog",
-      "category": "misc",
+      "category": "news",
       "description": "Read the official Apple Swift Blog via RSS",
       "source": "https://github.com/BalestraPatrick/SwiftBlog",
       "license": "other",
