@@ -2982,7 +2982,7 @@
     },
     {
       "title": "GreatReader",
-      "category": "misc",
+      "category": "media",
       "description": "\"Great\" PDF reader designed for both iPhone/iPad",
       "license": "mit",
       "source": "https://github.com/semweb/GreatReader",
@@ -3054,7 +3054,7 @@
     },
     {
       "title": "LidderbuchApp",
-      "category": "misc",
+      "category": "media",
       "description": "Songbook for Luxembourgish Students",
       "lang": "ltz",
       "source": "https://github.com/AcelLuxembourg/LidderbuchApp",
@@ -3087,7 +3087,7 @@
     },
     {
       "title": "OpenCB",
-      "category": "misc",
+      "category": "media",
       "description": "Interactive chess book reader",
       "license": "gpl-2.0",
       "source": "https://github.com/student-t/OpenCB",
