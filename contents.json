@@ -3096,7 +3096,7 @@
     {
       "title": "Onions",
       "category": ["text", "security"],
-      "description": "Cloud encrypted text storage",
+      "description": "Cloud encrypted notes",
       "source": "https://github.com/onionsapp/Onions-iOS",
       "itunes": "https://itunes.apple.com/app/onions/id687296481",
       "stars": 44,
