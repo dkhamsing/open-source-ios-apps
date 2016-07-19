@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **510** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 18, 2016*).
+A collaborative list of **510** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 19, 2016*).
  
 Jump to 
  
@@ -345,7 +345,7 @@ Projects that are not in English have a flag
   - https://github.com/BalestraPatrick/RealmVideo
 - Review Time: Shows average review times for iOS and Mac apps `Swift` 🔥
   - https://github.com/nthegedus/ReviewTime
-- TLDR Man Page: Reference dictionary for computer manual commands, but in TL;DR (Too long didn't read) mode `Swift` 
+- TLDR Man Page: Reference dictionary for computer manual commands, but in tl;dr (too long; didn't read) mode `Swift` 
   - https://github.com/freesuraj/TLDR
   - https://itunes.apple.com/app/tldr-man-page/id1073433250
 - wat: Very simple packet sniffer `Swift` 
@@ -419,7 +419,7 @@ Projects that are not in English have a flag
 - breadwallet: Bitcoin wallet 
   - https://github.com/breadwallet/breadwallet
   - https://itunes.apple.com/app/breadwallet/id885251393
-- Coins: Bitcoin tracker `Swift` 🔥
+- Coins: Bitcoin value tracker `Swift` 🔥
   - https://github.com/nothingmagical/coins
 
 ## Games 
@@ -771,6 +771,8 @@ Image, video, audio, reading — [back to top](#readme)
 - Eleven: Eleven Player is a simple powerful video player, uses ffmpeg 🔥🔥
   - https://github.com/coderyi/Eleven
   - https://itunes.apple.com/app/elevenplayer/id1033773648
+- EmotionNote: Emotion diary, analyze choose or take a photo of your face and the app will tell you your emotion `Swift` 
+  - https://github.com/Yogayu/EmotionNote
 - EX Player: Watch videos from ex.ua 
   - https://github.com/IGRSoft/exTVPlayer
 - Filterpedia: Core Image Filter explorer `Swift` 🔥🔥🔥🔥
@@ -915,6 +917,8 @@ Image, video, audio, reading — [back to top](#readme)
 - RSSRead: A RSS reader with offline feature 🇨🇳🔥🔥🔥
   - https://github.com/ming1016/RSSRead
   - https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364
+- SwiftBlog: Read the official Apple Swift Blog via RSS `Swift` 
+  - https://github.com/BalestraPatrick/SwiftBlog
 - TabDump: TabDump news app 
   - https://github.com/dkhamsing/TabDump
 - The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan `Swift` 🔥🔥
@@ -1087,6 +1091,9 @@ Image, video, audio, reading — [back to top](#readme)
 - MiniKeePass: Secure Password Manager 🔥🔥
   - https://github.com/MiniKeePass/MiniKeePass
   - https://itunes.apple.com/app/id451661808
+- Onions: Cloud encrypted text storage 
+  - https://github.com/onionsapp/Onions-iOS
+  - https://itunes.apple.com/app/onions/id687296481
 - Potatso: App that implements Shadowsocks proxy `Swift` 🇨🇳🔥🔥🔥🔥
   - https://github.com/shadowsocks/Potatso
   - https://itunes.apple.com/app/id1070901416
@@ -1171,6 +1178,9 @@ Image, video, audio, reading — [back to top](#readme)
 - Edhita: Text editor `Swift` 🔥🔥🔥
   - https://github.com/tnantoka/edhita
   - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
+- Onions: Cloud encrypted text storage 
+  - https://github.com/onionsapp/Onions-iOS
+  - https://itunes.apple.com/app/onions/id687296481
 - Sentiments: Analyzes text for positive or negative sentiment `Swift` 🔥
   - https://github.com/kyleweiner/Sentiments
 - SimpleMemo: Sync notes to EverNote 🔥🔥
@@ -1178,6 +1188,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/yi-bian-qian/id1029807896
 - SwiftNote: Simple note taking app with today widget and iCloud syncing `Swift` 🔥
   - https://github.com/mslathrop/SwiftNote
+- Words: Thesaurus app 
+  - https://github.com/soffes/words
 
 ## Travel 
  
@@ -1233,7 +1245,7 @@ Image, video, audio, reading — [back to top](#readme)
 - PHPHub: iPhone/iPad app for PHPHub Forum 🇨🇳🔥🔥🔥
   - https://github.com/Aufree/phphub-ios
   - https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564
-- ProMonster: Store 🇧🇷
+- ProMonster: Store 🇵🇹
   - https://github.com/usemobile/promonster-ios
   - https://itunes.apple.com/app/promonster/id919649318
 - QiitaCollection: Technical knowledge sharing and collaboration platform 🇯🇵
@@ -1526,7 +1538,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
 - BlogQuest: Alternative Tumblr client 
   - https://github.com/irace/BlogQuest
-- Borrowed Books UFGRS: Manage ufrgs.br library books using `Alamofire` `Swift` 🇧🇷
+- Borrowed Books UFGRS: Manage ufrgs.br library books using `Alamofire` `Swift` 🇵🇹
   - https://github.com/MatheusCavalca/RenovaLivrosUFRGS
 - CardDecks: Configurable card decks 
   - https://github.com/aharren/CardDecks
@@ -1536,8 +1548,6 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/wongzigii/Colo
 - DeckRocket: Turn your iPhone into a remote for Deckset presentations `Swift` 🔥🔥
   - https://github.com/jpsim/DeckRocket
-- EmotionNote: Emotion diary, choose or take a photo of your face and the app will tell you your emotion `Swift` 
-  - https://github.com/Yogayu/EmotionNote
 - FreeRDP: An implementation of the Remote Desktop Protocol (RDP) 🔥🔥🔥🔥
   - https://github.com/FreeRDP/FreeRDP
   - http://www.freerdp.com/
@@ -1576,9 +1586,6 @@ Image, video, audio, reading — [back to top](#readme)
 - my41: HP-41C/CV/CX Microcode emulator 
   - https://github.com/mperovic/my41
   - https://itunes.apple.com/app/my41cx/id979041950
-- Onions: Cloud encrypted text storage 
-  - https://github.com/onionsapp/Onions-iOS
-  - https://itunes.apple.com/app/onions/id687296481
 - Open States: Browse state legislatures 
   - https://github.com/sunlightlabs/openstates-ios
 - OpenCB: Interactive chess book reader 
@@ -1604,8 +1611,6 @@ Image, video, audio, reading — [back to top](#readme)
 - Swiflytics: See your realtime Google Analytics data `Swift` 
   - https://github.com/aciidb0mb3r/Swiflytics
   - https://itunes.apple.com/app/swiflytics/id1076165139
-- SwiftBlog: Read the official Apple Swift Blog via RSS `Swift` 
-  - https://github.com/BalestraPatrick/SwiftBlog
 - Tether: Tethering for non-jailbroken iOS Devices over USB 
   - https://github.com/chrisballinger/Tether-iOS
 - TheReservist: Check availability of iPhones `Swift` 
@@ -1620,11 +1625,9 @@ Image, video, audio, reading — [back to top](#readme)
 - VPN On: Today Widget to turn on VPN `Swift` 🔥🔥🔥🔥🔥
   - https://github.com/lexrus/VPNOn
   - https://itunes.apple.com/app/vpn-on/id951344279
-- WaniKani: App for WaniKani.com site (learn kanji) `Swift` 
+- WaniKani: Learn kanji with WaniKani.com `Swift` 
   - https://github.com/haawa799/WaniKani-iOS
   - https://itunes.apple.com/app/wanikani/id1034355141
-- Words: Thesaurus app 
-  - https://github.com/soffes/words
 - WWDC Students: WWDC scholarship entries `Swift` 🔥
   - https://github.com/wwdc
 - YaleMobile: App for Yale University students 
