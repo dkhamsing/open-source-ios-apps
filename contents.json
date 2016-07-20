@@ -5190,6 +5190,15 @@
     "itunes": "https://itunes.apple.com/app/hackfoldr/id919010837",
     "stars": 11,
     "license": "mit"
+  },
+  {
+    "title": "RaceMe",
+    "category": ["realm", "parse"],
+    "description": "Run tracking + ghosting",
+    "source": "https://github.com/enochng1/RaceMe",
+    "tags": ["swift"],
+    "license": "other",
+    "stars": 92
   }
   ]
 }
