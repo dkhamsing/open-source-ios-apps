@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **510** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 19, 2016*).
+A collaborative list of **511** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 20, 2016*).
  
 Jump to 
  
@@ -781,6 +781,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/alikaragoz/Flickr-Search
 - FreeStreamer: A low-memory footprint streaming audio player 🔥🔥🔥🔥
   - https://github.com/muhku/FreeStreamer
+- GreatReader: "Great" PDF reader designed for both iPhone/iPad 🔥🔥
+  - https://github.com/semweb/GreatReader
+  - https://itunes.apple.com/app/greatreader/id903651112
 - Inkpad: Vector illustration 🔥🔥🔥🔥🔥
   - https://github.com/sprang/Inkpad
 - Kodi: A popular media player and entertainment hub 🔥🔥🔥🔥🔥
@@ -793,6 +796,9 @@ Image, video, audio, reading — [back to top](#readme)
 - KonaBot: Unofficial app for konachan.net `Swift` 
   - https://github.com/hkalexling/KonaBot-iOS
   - https://itunes.apple.com/app/konabot/id1055716649
+- LidderbuchApp: Songbook for Luxembourgish Students `Swift` 🇱🇺
+  - https://github.com/AcelLuxembourg/LidderbuchApp
+  - https://itunes.apple.com/app/lidderbuch/id997143407
 - Longboxed: Track the releases of your favorite comics 
   - https://github.com/jayhickey/Longboxed-iOS
   - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339
@@ -817,6 +823,8 @@ Image, video, audio, reading — [back to top](#readme)
 - Open Source Selfie Stick: Sync two iOS devices and use one as a remote control for the other's camera! 
   - https://github.com/RF-Nelson/open-source-selfie-stick
   - https://itunes.apple.com/app/id1084487132
+- OpenCB: Interactive chess book reader 
+  - https://github.com/student-t/OpenCB
 - OpenPics: View historical images from multiple remote sources 
   - https://github.com/pj4533/OpenPics
 - PhishOD: Listen to any song from Phish.in and view concert ratings and reviews from phish.net 
@@ -1091,7 +1099,7 @@ Image, video, audio, reading — [back to top](#readme)
 - MiniKeePass: Secure Password Manager 🔥🔥
   - https://github.com/MiniKeePass/MiniKeePass
   - https://itunes.apple.com/app/id451661808
-- Onions: Cloud encrypted text storage 
+- Onions: Cloud encrypted notes 
   - https://github.com/onionsapp/Onions-iOS
   - https://itunes.apple.com/app/onions/id687296481
 - Potatso: App that implements Shadowsocks proxy `Swift` 🇨🇳🔥🔥🔥🔥
@@ -1178,7 +1186,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Edhita: Text editor `Swift` 🔥🔥🔥
   - https://github.com/tnantoka/edhita
   - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
-- Onions: Cloud encrypted text storage 
+- Onions: Cloud encrypted notes 
   - https://github.com/onionsapp/Onions-iOS
   - https://itunes.apple.com/app/onions/id687296481
 - Sentiments: Analyzes text for positive or negative sentiment `Swift` 🔥
@@ -1346,6 +1354,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/parse-store/id613679907
 - Paws: Building an Instagram-Like App with Parse `Swift` 
   - http://www.appcoda.com/instagram-app-parse-swift/
+- RaceMe: Run tracking + ghosting `Swift` 
+  - https://github.com/enochng1/RaceMe
 - Wizard War: Cast spells in single or multiplayer wizard duels 🔥🔥🔥
   - https://github.com/seanhess/wizardwar
 
@@ -1475,6 +1485,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/FancyPixel/done-swift
 - Obědář: Shows daily menu of close restaurants to Czech Technical University `Swift` 
   - https://github.com/syky27/lunch_guy-ios
+- RaceMe: Run tracking + ghosting `Swift` 
+  - https://github.com/enochng1/RaceMe
 - RealmToDo: A small to-do list with Realm integration `Swift` 
   - https://github.com/pietbrauer/RealmToDo
 
@@ -1555,9 +1567,6 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/thomasfinch/GammaThingy
 - GoodNight: Change screen gamma dynamically 🔥🔥🔥
   - https://github.com/anthonya1999/GoodNight
-- GreatReader: "Great" PDF reader designed for both iPhone/iPad 🔥🔥
-  - https://github.com/semweb/GreatReader
-  - https://itunes.apple.com/app/greatreader/id903651112
 - Hackfoldr: Hackfoldr is your hacking briefcase, share all your project documents with a url 
   - https://github.com/hackfoldr/hackfoldr-iOS
   - https://hackfoldr.org
@@ -1578,9 +1587,6 @@ Image, video, audio, reading — [back to top](#readme)
 - LibreOffice Remote for Impress: Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely 
   - https://cgit.freedesktop.org/libreoffice/impress_remote/
   - https://itunes.apple.com/app/id806879890
-- LidderbuchApp: Songbook for Luxembourgish Students `Swift` 🇱🇺
-  - https://github.com/AcelLuxembourg/LidderbuchApp
-  - https://itunes.apple.com/app/lidderbuch/id997143407
 - Mirror++: Minimalist mirror `Swift` 
   - https://github.com/nathunsmitty/MirrorPlusPlus
 - my41: HP-41C/CV/CX Microcode emulator 
@@ -1588,8 +1594,6 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/my41cx/id979041950
 - Open States: Browse state legislatures 
   - https://github.com/sunlightlabs/openstates-ios
-- OpenCB: Interactive chess book reader 
-  - https://github.com/student-t/OpenCB
 - openHAB: Vendor and technology agnostic home automation 
   - https://github.com/openhab/openhab.ios
   - http://www.openhab.org/
