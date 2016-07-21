@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **511** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 20, 2016*).
+A collaborative list of **512** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 21, 2016*).
  
 Jump to 
  
@@ -918,6 +918,8 @@ Image, video, audio, reading — [back to top](#readme)
 - GrinnellEvents: Grinnell Events gathers all events on campus, and lists them so you can see what's happening 
   - https://github.com/kvnbautista/Grinnell-Events-iOS
   - https://itunes.apple.com/app/grinnell-events/id924312300
+- LobsterApp: Browse the lobste.rs community news site 
+  - https://github.com/rpowelll/LobsterApp
 - NirZhihuDaily2.0 🇨🇳🔥🔥🔥🔥
   - https://github.com/zpz1237/NirZhihuDaily2.0
 - Reddit `Swift` 
