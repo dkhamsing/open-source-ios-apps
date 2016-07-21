@@ -2153,7 +2153,7 @@
     {
       "title": "GrinnellEvents",
       "category": "news",
-      "description": "Grinnell Events gathers all events on campus, and lists them so you can see what's happening",
+      "description": "Gather all events on Grinnell College campus",
       "license": "gpl-2.0",
       "source": "https://github.com/kvnbautista/Grinnell-Events-iOS",
       "itunes": "https://itunes.apple.com/app/grinnell-events/id924312300",
