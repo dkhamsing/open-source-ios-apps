@@ -5199,6 +5199,13 @@
     "tags": ["swift"],
     "license": "other",
     "stars": 92
+  },
+  {
+    "title": "LobsterApp",
+    "category": "news",
+    "description": "Browse the lobste.rs community news site",
+    "source": "https://github.com/rpowelll/LobsterApp",
+    "license": "other"
   }
   ]
 }
