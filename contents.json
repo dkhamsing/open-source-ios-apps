@@ -5213,7 +5213,7 @@
   {
     "title": "Vector",
     "category": "communication",
-    "description": "Collaboration for teams: chat and share via matrix.org",
+    "description": "Collaboration for teams: chat and share via http://matrix.org/",
     "source": "https://github.com/vector-im/vector-ios",
     "homepage": "https://vector.im/",
     "itunes": "https://itunes.apple.com/app/vector.im/id1083446067",
