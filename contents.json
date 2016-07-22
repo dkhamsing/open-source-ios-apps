@@ -1254,9 +1254,9 @@
       "license": "mit"
     },
     {
-      "title": "Game Of Life",
+      "title": "Conway's Game of Life",
       "category": "games",
-      "description": "Conway's Game of Life",
+      "description": "Uses SpriteKit",
       "license": "mit",
       "source": "https://github.com/yonbergman/swift-gameoflife",
       "tags": [
@@ -5228,9 +5228,8 @@
     "stars": 80
   },
   {
-    "title": "Vie - Conways's Game of Life",
+    "title": "Conways's Game of Life in Objective-C (Vie)",
     "category": "games",
-    "description": "Vie is an implementation of the popular game by John Conway: the Game of Life.",
     "source": "https://github.com/fabienwarniez/Vie",
     "itunes": "https://itunes.apple.com/app/vie-conways-game-of-life/id989686123",
     "license": "mit"
