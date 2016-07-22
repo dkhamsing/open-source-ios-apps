@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **512** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 21, 2016*).
+A collaborative list of **513** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 22, 2016*).
  
 Jump to 
  
@@ -271,6 +271,10 @@ Projects that are not in English have a flag
   - https://github.com/tutao/tutanota
   - https://tutanota.com/
   - https://itunes.apple.com/app/id922429609
+- Vector: An iOS client for the Matrix network - matrix.org 
+  - https://github.com/vector-im/vector-ios
+  - https://vector.im/
+  - https://itunes.apple.com/us/app/vector.im/id1083446067
 
 ## Conference 
  
@@ -915,7 +919,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Feeds4U: Well architected RSS reader `Swift` 
   - https://github.com/EvgenyKarkan/Feeds4U
   - https://itunes.apple.com/app/feeds4u/id1038456442
-- GrinnellEvents: Grinnell Events gathers all events on campus, and lists them so you can see what's happening 
+- GrinnellEvents: Gather all events on Grinnell College campus 
   - https://github.com/kvnbautista/Grinnell-Events-iOS
   - https://itunes.apple.com/app/grinnell-events/id924312300
 - LobsterApp: Browse the lobste.rs community news site 
