@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **514** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 22, 2016*).
+A collaborative list of **515** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 22, 2016*).
  
 Jump to 
  
@@ -466,6 +466,11 @@ Projects that are not in English have a flag
   - https://github.com/codecombat/codecombat-ios
 - Concentration game (翻翻看) `Swift` 🇨🇳🔥
   - https://github.com/geek5nan/FanFanSwift
+- Conway's Game of Life: Uses SpriteKit `Swift` 
+  - https://github.com/yonbergman/swift-gameoflife
+- Conways's Game of Life in Objective-C (Vie) 
+  - https://github.com/fabienwarniez/Vie
+  - https://itunes.apple.com/app/vie-conways-game-of-life/id989686123
 - Cryptose: Solve cryptograms as a Hacker, Detective, or Spy 
   - https://github.com/insurgentgames/Cryptose
 - DOOM: Doom Classic for iOS 🔥🔥
@@ -491,8 +496,6 @@ Projects that are not in English have a flag
   - https://github.com/ifrotz/iosfrotz
   - https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md
   - https://itunes.apple.com/app/id287653015
-- Game Of Life: Conway's Game of Life `Swift` 
-  - https://github.com/yonbergman/swift-gameoflife
 - GBA4iOS: Gameboy, Gameboy Color & Gameboy Advance emulator 
   - https://bitbucket.org/rileytestut/gba4ios/
 - Gorillas: An iPhone (or iPod touch) port of the popular old QBasic game with spunk! 🔥🔥
