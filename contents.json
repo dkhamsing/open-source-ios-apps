@@ -1,4 +1,4 @@
-{
+ {
   "title": "Open-Source iOS Apps",
   "description": "<!-- \n⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ \n https://github.com/dkhamsing/open-source-ios-apps -->",
   "header": "```\nProjects that are not in English have a flag\n🇨🇳 Project is in Chinese\n🇪🇸 Project is in Spanish, etc\n\n 100+ Stars: 🔥\n 200+ Stars: 🔥🔥\n 500+ Stars: 🔥🔥🔥\n1000+ Stars: 🔥🔥🔥🔥\n2000+ Stars: 🔥🔥🔥🔥🔥\n```",
@@ -95,6 +95,10 @@
       "id": "official"
     },
     {
+      "title": "Reactive Programming",
+      "id": "reactive-programming",
+    },
+    {
       "title": "Sample",
       "id": "sample"
     },
@@ -167,11 +171,6 @@
     {
       "title": "[React Native](http://facebook.github.io/react-native/)",
       "id": "react-native",
-      "parent": "special"
-    },
-    {
-      "title": "Reactive Programming",
-      "id": "reactive-programming",
       "parent": "special"
     },
     {
@@ -5012,7 +5011,7 @@
     {
       "title": "Uncle Nagy's House",
       "category": "apple-tv",
-      "description": "Uncle Nagy's House tvOS App (TVML app with Gulp tasks for building Jade and CoffeeScript)",
+      "description": "tvOS / TVML app with Gulp tasks for building `Jade` & `CoffeeScript`",
       "license": "mit",
       "source": "https://github.com/kenmickles/unh_tvos",
       "itunes": "https://itunes.apple.com/us/app/id1042172021",
