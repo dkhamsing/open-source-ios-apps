@@ -1,4 +1,4 @@
- {
+{
   "title": "Open-Source iOS Apps",
   "description": "<!-- \n⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ \n https://github.com/dkhamsing/open-source-ios-apps -->",
   "header": "```\nProjects that are not in English have a flag\n🇨🇳 Project is in Chinese\n🇪🇸 Project is in Spanish, etc\n\n 100+ Stars: 🔥\n 200+ Stars: 🔥🔥\n 500+ Stars: 🔥🔥🔥\n1000+ Stars: 🔥🔥🔥🔥\n2000+ Stars: 🔥🔥🔥🔥🔥\n```",
@@ -99,6 +99,16 @@
       "id": "reactive-programming"
     },
     {
+      "title": "[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)",
+      "id": "reactivecocoa",
+      "parent": "reactive-programming"
+    },
+    {
+      "title": "[RxSwift](https://github.com/ReactiveX/RxSwift)",
+      "id": "rxswift",
+      "parent": "reactive-programming"
+    },    
+    {
       "title": "Sample",
       "id": "sample"
     },
@@ -174,19 +184,9 @@
       "parent": "special"
     },
     {
-      "title": "[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)",
-      "id": "reactivecocoa",
-      "parent": "reactive-programming"
-    },
-    {
       "title": "Realm",
       "id": "realm",
       "parent": "special"
-    },
-    {
-      "title": "[RxSwift](https://github.com/ReactiveX/RxSwift)",
-      "id": "rxswift",
-      "parent": "reactive-programming"
     },
     {
       "title": "[VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)",
