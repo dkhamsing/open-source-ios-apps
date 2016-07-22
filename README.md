@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **513** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 22, 2016*).
+A collaborative list of **514** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 22, 2016*).
  
 Jump to 
  
@@ -271,10 +271,13 @@ Projects that are not in English have a flag
   - https://github.com/tutao/tutanota
   - https://tutanota.com/
   - https://itunes.apple.com/app/id922429609
-- Vector: An iOS client for the Matrix network - matrix.org 
+- Vector: Collaboration for teams: chat and share via matrix.org 
   - https://github.com/vector-im/vector-ios
   - https://vector.im/
-  - https://itunes.apple.com/us/app/vector.im/id1083446067
+  - https://itunes.apple.com/app/vector.im/id1083446067
+- Wire: Modern, private communications: crystal clear voice, video, group chats. No advertising. Always encrypted. `Swift` 
+  - https://github.com/wireapp/wire-ios
+  - https://itunes.apple.com/app/wire/id930944768
 
 ## Conference 
  
