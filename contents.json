@@ -5213,7 +5213,7 @@
     "description": "Collaboration for teams: chat and share via matrix.org",
     "source": "https://github.com/vector-im/vector-ios",
     "homepage": "https://vector.im/",
-    "itunes": "https://itunes.apple.com/us/app/vector.im/id1083446067",
+    "itunes": "https://itunes.apple.com/app/vector.im/id1083446067",
     "stars": 28
   },
   {
@@ -5221,7 +5221,7 @@
     "category": "communication",
     "description": "Modern, private communications: crystal clear voice, video, group chats. No advertising. Always encrypted.",
     "source": "https://github.com/wireapp/wire-ios",
-    "itunes": "https://itunes.apple.com/app/wire/id930944768?mt=8",
+    "itunes": "https://itunes.apple.com/app/wire/id930944768",
     "tags": ["swift"],
     "license": "gpl-3.0",
     "stars": 80
