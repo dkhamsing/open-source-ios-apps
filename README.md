@@ -29,6 +29,7 @@ Jump to
 - [News](#news) 
   - [Hacker News](#hacker-news) 
 - [Official](#official) 
+- [Reactive Programming](#reactive-programming) 
 - [Sample](#sample) 
 - [Science](#science) 
 - [Security](#security) 
@@ -46,7 +47,6 @@ Jump to
   - [Ionic](#ionic) 
   - [Parse](#parse) 
   - [React Native](#react-native) 
-  - [Reactive Programming](#reactive-programming) 
   - [ReactiveCocoa](#reactivecocoa) 
   - [Realm](#realm) 
   - [RxSwift](#rxswift) 
@@ -90,7 +90,7 @@ Projects that are not in English have a flag
   - https://github.com/4np/UitzendingGemist
 - UitzendingGemist by jeffkreeftmeijer: Dutch Public Broadcasting video on demand `Swift` 
   - https://github.com/jeffkreeftmeijer/UitzendingGemist
-- Uncle Nagy's House: Uncle Nagy's House tvOS App (TVML app with Gulp tasks for building Jade and CoffeeScript) 
+- Uncle Nagy's House: tvOS / TVML app with Gulp tasks for building `Jade` & `CoffeeScript` 
   - https://github.com/kenmickles/unh_tvos
   - https://itunes.apple.com/us/app/id1042172021
 - Upcoming Movies `Swift` 
@@ -271,7 +271,7 @@ Projects that are not in English have a flag
   - https://github.com/tutao/tutanota
   - https://tutanota.com/
   - https://itunes.apple.com/app/id922429609
-- Vector: Collaboration for teams: chat and share via matrix.org 
+- Vector: Collaboration for teams: chat and share via http://matrix.org/ 
   - https://github.com/vector-im/vector-ios
   - https://vector.im/
   - https://itunes.apple.com/app/vector.im/id1083446067
@@ -468,7 +468,7 @@ Projects that are not in English have a flag
   - https://github.com/geek5nan/FanFanSwift
 - Conway's Game of Life: Uses SpriteKit `Swift` 
   - https://github.com/yonbergman/swift-gameoflife
-- Conways's Game of Life in Objective-C (Vie) 
+- Conway's Game of Life in Objective-C (Vie) 
   - https://github.com/fabienwarniez/Vie
   - https://itunes.apple.com/app/vie-conways-game-of-life/id989686123
 - Cryptose: Solve cryptograms as a Hacker, Detective, or Spy 
@@ -1022,6 +1022,13 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/wordpress-mobile/WordPress-iOS
   - https://itunes.apple.com/app/wordpress/id335703880
 
+## Reactive Programming 
+ 
+[back to top](#readme) 
+ 
+- ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
+  - https://github.com/JensRavens/ReactiveKitten
+
 ## Sample 
  
 [back to top](#readme) 
@@ -1450,13 +1457,6 @@ Image, video, audio, reading — [back to top](#readme)
 - Weather by jsphkhan: Weather app using React Native 
   - https://github.com/jsphkhan/ReactNativeExamples
   - https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
-
-### Reactive Programming 
- 
-[back to top](#readme) 
- 
-- ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
-  - https://github.com/JensRavens/ReactiveKitten
 
 ### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 
  
