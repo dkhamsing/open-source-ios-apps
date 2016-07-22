@@ -5092,6 +5092,7 @@
         "source": "https://github.com/PiXeL16/CountItApp",
         "itunes": "https://itunes.apple.com/app/id1098893335",
         "stars": 10,
+        "license": "mit",
         "tags": ["swift"]
     },
     {
@@ -5101,6 +5102,7 @@
         "source": "https://github.com/PiXeL16/SendToMe",
         "itunes": "https://itunes.apple.com/app/id1100027787",
         "stars": 8,
+        "license": "mit",
         "tags": ["swift"]
       },
       {
@@ -5170,6 +5172,7 @@
     "category": "social",
     "description": "Post/schedule Twitter posts like Buffer + node.js backend + share extension",
     "source": "https://github.com/TomekB/PostManager",
+    "license": "other",
     "tags": [
       "swift"
     ]
