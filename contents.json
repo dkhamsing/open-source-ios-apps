@@ -5206,6 +5206,15 @@
     "description": "Browse the lobste.rs community news site",
     "source": "https://github.com/rpowelll/LobsterApp",
     "license": "other"
+  },
+  {
+    "title": "Vector",
+    "category": "communication",
+    "description": "An iOS client for the Matrix network - matrix.org",
+    "source": "https://github.com/vector-im/vector-ios",
+    "homepage": "https://vector.im/",
+    "itunes": "https://itunes.apple.com/us/app/vector.im/id1083446067",
+    "stars": 28
   }
   ]
 }
