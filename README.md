@@ -30,6 +30,8 @@ Jump to
   - [Hacker News](#hacker-news) 
 - [Official](#official) 
 - [Reactive Programming](#reactive-programming) 
+  - [ReactiveCocoa](#reactivecocoa) 
+  - [RxSwift](#rxswift) 
 - [Sample](#sample) 
 - [Science](#science) 
 - [Security](#security) 
@@ -47,9 +49,7 @@ Jump to
   - [Ionic](#ionic) 
   - [Parse](#parse) 
   - [React Native](#react-native) 
-  - [ReactiveCocoa](#reactivecocoa) 
   - [Realm](#realm) 
-  - [RxSwift](#rxswift) 
   - [VIPER](#viper) 
   - [Xamarin](#xamarin) 
 - [Misc](#misc) 
@@ -1029,6 +1029,54 @@ Image, video, audio, reading — [back to top](#readme)
 - ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
   - https://github.com/JensRavens/ReactiveKitten
 
+### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 
+ 
+[back to top](#readme) 
+ 
+- BrewMobile: App for managing the beer brewing process `Swift` 🔥
+  - https://github.com/brewfactory/BrewMobile
+- C-41: Make developing film easier and more reliable by using this simple timer 🔥🔥🔥🔥
+  - https://github.com/ashfurrow/C-41
+  - https://itunes.apple.com/app/c-41/id789924103
+- GitBucket: Uses MVVM & ReactiveCocoa 🔥🔥🔥🔥🔥
+  - https://github.com/leichunfeng/MVVMReactiveCocoa
+  - https://itunes.apple.com/app/id961330940
+- GroceryList: iPhone grocery list app, synchronized using GitHub 🔥🔥🔥
+  - https://github.com/jspahrsummers/GroceryList
+- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa `Swift` 
+  - https://github.com/nottombrown/HausClock
+- ReactiveHackerNews: Hacker News reader with Tinder style interface, written in ObjC, uses MVVM & ReactiveCocoa 
+  - https://github.com/syshen/ReactiveHackerNews
+  - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368
+- ReactiveSwiftFlickrSearch: A Flickr-search app that uses MVVM & ReactiveCocoa `Swift` 🔥🔥
+  - https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch
+- SimpleAuth: Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥🔥
+  - https://github.com/calebd/SimpleAuth
+- SwiftRACGoogleImages: Google image search using RAC 4.0 and Swift 2.1 `Swift` 
+  - https://github.com/Adlai-Holler/SwiftRACGoogleImages
+- Tropos: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
+  - https://github.com/thoughtbot/Tropos
+  - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376
+- Wizard War: Cast spells in single or multiplayer wizard duels 🔥🔥🔥
+  - https://github.com/seanhess/wizardwar
+
+### [RxSwift](https://github.com/ReactiveX/RxSwift) 
+ 
+[back to top](#readme) 
+ 
+- Count It: Dead simple app that lets you count anything `Swift` 
+  - https://github.com/PiXeL16/CountItApp
+  - https://itunes.apple.com/app/id1098893335
+- GitHub API Client: GitHub app using MVVM and RxSwift `Swift` 🔥
+  - https://github.com/tailec/boilerplate
+- Kiosk: The Artsy auction kiosk app, uses RxSwift `Swift` 🔥🔥🔥🔥
+  - https://github.com/artsy/eidolon
+- RxMarbles: Interactive diagrams of Rx Observables `Swift` 
+  - https://github.com/RxSwiftCommunity/RxMarbles
+  - https://itunes.apple.com/us/app/rxmarbles/id1087272442
+- Tweetometer: See who is tweeting in your timeline `Swift` 
+  - https://github.com/BalestraPatrick/Tweetometer
+
 ## Sample 
  
 [back to top](#readme) 
@@ -1458,37 +1506,6 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/jsphkhan/ReactNativeExamples
   - https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
 
-### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 
- 
-[back to top](#readme) 
- 
-- BrewMobile: App for managing the beer brewing process `Swift` 🔥
-  - https://github.com/brewfactory/BrewMobile
-- C-41: Make developing film easier and more reliable by using this simple timer 🔥🔥🔥🔥
-  - https://github.com/ashfurrow/C-41
-  - https://itunes.apple.com/app/c-41/id789924103
-- GitBucket: Uses MVVM & ReactiveCocoa 🔥🔥🔥🔥🔥
-  - https://github.com/leichunfeng/MVVMReactiveCocoa
-  - https://itunes.apple.com/app/id961330940
-- GroceryList: iPhone grocery list app, synchronized using GitHub 🔥🔥🔥
-  - https://github.com/jspahrsummers/GroceryList
-- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa `Swift` 
-  - https://github.com/nottombrown/HausClock
-- ReactiveHackerNews: Hacker News reader with Tinder style interface, written in ObjC, uses MVVM & ReactiveCocoa 
-  - https://github.com/syshen/ReactiveHackerNews
-  - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368
-- ReactiveSwiftFlickrSearch: A Flickr-search app that uses MVVM & ReactiveCocoa `Swift` 🔥🔥
-  - https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch
-- SimpleAuth: Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥🔥
-  - https://github.com/calebd/SimpleAuth
-- SwiftRACGoogleImages: Google image search using RAC 4.0 and Swift 2.1 `Swift` 
-  - https://github.com/Adlai-Holler/SwiftRACGoogleImages
-- Tropos: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
-  - https://github.com/thoughtbot/Tropos
-  - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376
-- Wizard War: Cast spells in single or multiplayer wizard duels 🔥🔥🔥
-  - https://github.com/seanhess/wizardwar
-
 ### Realm 
  
 [back to top](#readme) 
@@ -1501,23 +1518,6 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/enochng1/RaceMe
 - RealmToDo: A small to-do list with Realm integration `Swift` 
   - https://github.com/pietbrauer/RealmToDo
-
-### [RxSwift](https://github.com/ReactiveX/RxSwift) 
- 
-[back to top](#readme) 
- 
-- Count It: Dead simple app that lets you count anything `Swift` 
-  - https://github.com/PiXeL16/CountItApp
-  - https://itunes.apple.com/app/id1098893335
-- GitHub API Client: GitHub app using MVVM and RxSwift `Swift` 🔥
-  - https://github.com/tailec/boilerplate
-- Kiosk: The Artsy auction kiosk app, uses RxSwift `Swift` 🔥🔥🔥🔥
-  - https://github.com/artsy/eidolon
-- RxMarbles: Interactive diagrams of Rx Observables `Swift` 
-  - https://github.com/RxSwiftCommunity/RxMarbles
-  - https://itunes.apple.com/us/app/rxmarbles/id1087272442
-- Tweetometer: See who is tweeting in your timeline `Swift` 
-  - https://github.com/BalestraPatrick/Tweetometer
 
 ### [VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/) 
  
