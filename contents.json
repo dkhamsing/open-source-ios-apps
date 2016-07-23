@@ -5235,6 +5235,12 @@
     "source": "https://github.com/fabienwarniez/Vie",
     "itunes": "https://itunes.apple.com/app/vie-conways-game-of-life/id989686123",
     "license": "mit"
-  }
-  ]
+  },
+  {
+    "title": "Take Cover: Hide to Survive",
+    "category": "games",
+    "description": "Take Cover is a fun, endless game",
+    "source": "https://github.com/alexanderwarren/Take-Cover"
+    "itunes": "https://itunes.apple.com/app/id1126598806"
+  }]
 }
