@@ -107,7 +107,7 @@
       "title": "[RxSwift](https://github.com/ReactiveX/RxSwift)",
       "id": "rxswift",
       "parent": "reactive-programming"
-    },    
+    },
     {
       "title": "Sample",
       "id": "sample"
@@ -4386,7 +4386,7 @@
     {
       "title": "Pterodactyl Attack",
       "category": "games",
-      "description": "Blast your way through waves of pterodactyls. Also has a detailed writeup on how it's made",
+      "description": "Blast your way through waves of pterodactyls (has a detailed writeup on how it's made)",
       "source": "https://github.com/shaunlebron/PterodactylAttack",
       "homepage": "https://shaunlebron.github.io/pteroattack.com/",
       "itunes": "https://itunes.apple.com/app/pterodactyl-attack/id786862892",
@@ -4634,7 +4634,7 @@
     {
       "title": "Kiwix",
       "category": "web",
-      "description": "An offline reader for Wikipedia (and many other websites)",
+      "description": "An offline reader for Wikipedia (& many other websites)",
       "source": "https://github.com/kiwix/iOS",
       "homepage": "http://www.kiwix.org/wiki/Main_Page",
       "itunes": "https://itunes.apple.com/app/id997079563",
@@ -4849,7 +4849,7 @@
     {
       "title": "DownTube",
       "category": "media",
-      "description": "Download any video from YouTube for offline use",
+      "description": "Download videos from YouTube for offline use",
       "source": "https://github.com/MrAdamBoyd/DownTube",
       "license": "mit",
       "tags": [
@@ -4928,7 +4928,7 @@
     {
       "title": "SaveTheDot",
       "category": "games",
-      "description": "UIViewPropertyAnimator experiment where you have to escape from the squares",
+      "description": "`UIViewPropertyAnimator` experiment where you have to escape from the squares",
       "source": "https://github.com/JakeLin/SaveTheDot",
       "license": "mit",
       "stars": 439
@@ -4973,7 +4973,7 @@
     {
       "title": "Tagger",
       "category": ["media", "core-data"],
-      "description": "Tagger helps you increase the number of Instagram or Flickr followers and likes on your pictures",
+      "description": "Increase the number of Instagram or Flickr followers & likes on your pictures",
       "source": "https://github.com/vanyaland/Tagger",
       "stars": 0,
       "license": "mit",
@@ -5044,7 +5044,7 @@
       "stars": 0
     },
     {
-      "title": "2048 in Objective-C using SpriteKit",
+      "title": "2048 in Objective-C using `SpriteKit`",
       "category": "games",
       "license": "mit",
       "source": "https://github.com/danqing/2048",
@@ -5053,7 +5053,7 @@
     {
       "title": "Swab",
       "category": ["content-blocking"],
-      "description": "The Content Blocker of Creative, Web and Design Culture Ads",
+      "description": "Content blocker of creative, web & design culture ads",
       "license": "bsd-3-clause",
       "source": "https://github.com/pkamb/swab",
       "homepage": "http://swabthe.com/",
@@ -5126,7 +5126,7 @@
 	{
       "title": "Scholars of WWDC",
       "category": ["official"],
-      "description": "The official app of the WWDC Scholarship Recipients",
+      "description": "Official app of recipients for https://developer.apple.com/wwdc/scholarships/",
       "license": "mit",
       "source": "https://github.com/WWDCScholars/WWDCScholars-iOS",
       "homepage": "http://wwdcscholars.com/",
