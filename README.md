@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **515** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 22, 2016*).
+A collaborative list of **516** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 24, 2016*).
  
 Jump to 
  
@@ -80,7 +80,7 @@ Projects that are not in English have a flag
   - https://github.com/IGRSoft/exTVPlayer
 - iCook: Play iCook TV videos 
   - https://github.com/polydice/iCook-tvOS
-- Provenance: Emulators frontend supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
+- Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
   - https://github.com/jasarien/Provenance
 - RailsCasts: Watch RailsCasts videos 
   - https://github.com/spritlesoftware/railscasts-on-appletv
@@ -313,7 +313,7 @@ Projects that are not in English have a flag
   - https://github.com/krishkumar/BlockParty
 - Focus: Content blocker by Firefox `Swift` 🔥🔥
   - https://github.com/mozilla/focus
-- Swab: The Content Blocker of Creative, Web and Design Culture Ads `Swift` 
+- Swab: Content blocker of creative, web & design culture ads `Swift` 
   - https://github.com/pkamb/swab
   - http://swabthe.com/
   - https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002
@@ -435,7 +435,7 @@ Projects that are not in English have a flag
  
 - 2048 in Objective-C 🔥
   - https://github.com/austinzheng/iOS-2048
-- 2048 in Objective-C using SpriteKit 🔥🔥🔥
+- 2048 in Objective-C using `SpriteKit` 🔥🔥🔥
   - https://github.com/danqing/2048
 - 2048 in Swift `Swift` 🔥🔥🔥🔥🔥
   - https://github.com/austinzheng/swift-2048
@@ -533,14 +533,14 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/eveuniverse/id418895101
 - Orbit7: Game created in SpriteKit `Swift` 
   - https://github.com/Mav3r1ck/Orbit7
-- Pterodactyl Attack: Blast your way through waves of pterodactyls. Also has a detailed writeup on how it's made 
+- Pterodactyl Attack: Blast your way through waves of pterodactyls (has a detailed writeup on how it's made) 
   - https://github.com/shaunlebron/PterodactylAttack
   - https://shaunlebron.github.io/pteroattack.com/
   - https://itunes.apple.com/app/pterodactyl-attack/id786862892
 - Sakura Fly: Action game created in SpriteKit 
   - https://github.com/l800891/Sakura-Fly
   - https://itunes.apple.com/app/sakura-fly/id1019023051
-- SaveTheDot: UIViewPropertyAnimator experiment where you have to escape from the squares 🔥🔥
+- SaveTheDot: `UIViewPropertyAnimator` experiment where you have to escape from the squares 🔥🔥
   - https://github.com/JakeLin/SaveTheDot
 - Scary Flight: Just another yet FlappyBird-style game 
   - https://github.com/EvgenyKarkan/ScaryFlight
@@ -589,7 +589,7 @@ Projects that are not in English have a flag
   - https://github.com/raaxis/nds4ios
 - PPSSPP: PSP emulator 🔥🔥🔥🔥🔥
   - https://github.com/hrydgard/ppsspp
-- Provenance: Emulators frontend supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
+- Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
   - https://github.com/jasarien/Provenance
 - RetroArch: The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others 🔥🔥🔥🔥
   - https://github.com/libretro/RetroArch
@@ -763,6 +763,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/artsy-folio/id504862164
 - ASCII Art Generator `Swift` 🔥
   - https://github.com/ijoshsmith/swift-ascii-art
+- Celluloid: The best photo extension 🇨🇳
+  - https://github.com/100mango/Celluloid
+  - https://itunes.apple.com/app/celluloid/id1124966798
 - CollageMaker: Import photos from an Instagram user and make a collage 
   - https://github.com/Azoft/CollageMaker-iOS
 - ColorBlur: Add blur to your photos 
@@ -773,7 +776,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/comicflow/id409290355
 - DoubanFM: douban.fm app for iPhone, using `AFNetworking` and `MPMoviePlayer` 🇨🇳🔥🔥
   - https://github.com/XVXVXXX/DoubanFM
-- DownTube: Download any video from YouTube for offline use `Swift` 
+- DownTube: Download videos from YouTube for offline use `Swift` 
   - https://github.com/MrAdamBoyd/DownTube
 - Dunk: Dribbble client `Swift` 🔥🔥
   - https://github.com/naoyashiga/Dunk
@@ -880,7 +883,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/synboo/SwiftFlickrApp
 - SwiftSpace: CoreMotion Controlled Drawing in 3D Space `Swift` 
   - https://github.com/FlexMonkey/SwiftSpace
-- Tagger: Tagger helps you increase the number of Instagram or Flickr followers and likes on your pictures `Swift` 
+- Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures `Swift` 
   - https://github.com/vanyaland/Tagger
 - TechTavta: Keep track of all events for Techtatva 2015 
   - https://github.com/LUGM/TechTatva-15
@@ -1004,7 +1007,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/ilTofa/rposx
   - https://www.iltofa.com/rphd/
   - https://itunes.apple.com/app/id663334697
-- Scholars of WWDC: The official app of the WWDC Scholarship Recipients `Swift` 
+- Scholars of WWDC: Official app of recipients for https://developer.apple.com/wwdc/scholarships/ `Swift` 
   - https://github.com/WWDCScholars/WWDCScholars-iOS
   - http://wwdcscholars.com/
   - https://itunes.apple.com/app/scholars-of-wwdc/id999731893
@@ -1313,7 +1316,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Kiwix: An offline reader for Wikipedia (and many other websites) `Swift` 
+- Kiwix: An offline reader for Wikipedia (& many other websites) `Swift` 
   - https://github.com/kiwix/iOS
   - http://www.kiwix.org/wiki/Main_Page
   - https://itunes.apple.com/app/id997079563
@@ -1357,7 +1360,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/chrismiles/OrganisingCoreData
 - Nested Lists 🔥
   - https://github.com/objcio/issue-4-full-core-data-application
-- Tagger: Tagger helps you increase the number of Instagram or Flickr followers and likes on your pictures `Swift` 
+- Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures `Swift` 
   - https://github.com/vanyaland/Tagger
 - Tasks: Designed to quickly and easily add tasks to your iPhone `Swift` 
   - https://github.com/mbcrump/TasksForSwiftWithPersistingData
