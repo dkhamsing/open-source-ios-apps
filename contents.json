@@ -5235,6 +5235,12 @@
     "source": "https://github.com/fabienwarniez/Vie",
     "itunes": "https://itunes.apple.com/app/vie-conways-game-of-life/id989686123",
     "license": "mit"
+  },
+  {
+    "title": "Celluloid",
+    "category": "media",
+    "description": "The Best Photo Extension app",
+    "source": "https://github.com/100mango/Celluloid"
   }
   ]
 }
