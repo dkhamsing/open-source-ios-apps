@@ -5239,8 +5239,11 @@
   {
     "title": "Celluloid",
     "category": "media",
-    "description": "The Best Photo Extension app",
-    "source": "https://github.com/100mango/Celluloid"
+    "description": "The best photo extension",
+    "source": "https://github.com/100mango/Celluloid",
+    "license": "mit",
+    "lang": "zho",
+    "itunes": "https://itunes.apple.com/app/celluloid/id1124966798"
   }
   ]
 }
