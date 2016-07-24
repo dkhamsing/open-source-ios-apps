@@ -2100,7 +2100,7 @@
     {
       "title": "VoiceMemos",
       "category": "media",
-      "description": "iPhone/iPad audio recorder app",
+      "description": "iPhone/iPad audio recorder",
       "license": "mit",
       "source": "https://github.com/MoZhouqi/VoiceMemos",
       "stars": 223,
