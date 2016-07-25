@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **517** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 25, 2016*).
+A collaborative list of **518** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 25, 2016*).
  
 Jump to 
  
@@ -1006,6 +1006,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/xbmc/xbmc
   - https://kodi.tv/
   - https://itunes.apple.com/app/id520480364
+- osia: Super basic app to browse open-source-ios-apps 
+  - https://github.com/dkhamsing/osia
 - Radio Paradise: App for [RadioParadise](http://www.radioparadise.com/rp_2.php) 
   - https://github.com/ilTofa/rposx
   - https://www.iltofa.com/rphd/
