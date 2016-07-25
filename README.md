@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **516** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 24, 2016*).
+A collaborative list of **517** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 25, 2016*).
  
 Jump to 
  
@@ -520,6 +520,9 @@ Projects that are not in English have a flag
   - https://github.com/RolandasRazma/iLabyrinth
 - littlego: Play the game of Go on the iPhone or iPad 
   - https://github.com/herzbube/littlego
+- Master: PokéMon-like game that uses your location 
+  - https://github.com/Kjuly/iPokeMon
+  - https://itunes.apple.com/app/id601694902
 - Mission999 
   - https://github.com/whunmr/Mission999
   - https://itunes.apple.com/app/mission-999/id1036686316
@@ -901,7 +904,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/videolan/vlc
   - https://www.videolan.org/
   - https://itunes.apple.com/app/vlc-for-ios/id650377962
-- VoiceMemos: iPhone/iPad audio recorder app `Swift` 🔥🔥
+- VoiceMemos: iPhone/iPad audio recorder `Swift` 🔥🔥
   - https://github.com/MoZhouqi/VoiceMemos
 - xkcd: iPhone app 
   - https://github.com/paulrehkugler/xkcd
