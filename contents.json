@@ -5244,6 +5244,13 @@
     "license": "mit",
     "lang": "zho",
     "itunes": "https://itunes.apple.com/app/celluloid/id1124966798"
+  },
+  {
+    "title": "Master",
+    "category": "games",
+    "description": "PokéMon-like game that uses your location",
+    "license": "mit",
+    "itunes": "https://itunes.apple.com/app/id601694902"
   }
   ]
 }
