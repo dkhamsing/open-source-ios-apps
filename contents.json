@@ -5271,9 +5271,9 @@
     "itunes": "https://itunes.apple.com/app/movieglot-what-do-they-call-it/id710587066"
   },
   {
-    "title": "Siesta GithubBrowser",
+    "title": "Siesta GitHub Browser",
     "category": ["github", "reactive-programming", "sample"],
-    "description": "Browse and star Github repositories. Demonstrates use of Siesta & related quasi-reactive techniques.",
+    "description": "Browse and star Github repositories using Siesta (REST) & related quasi-reactive techniques",
     "source": "https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser",
     "stars": 660,
     "license": "mit",
