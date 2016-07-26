@@ -236,7 +236,7 @@
         "apple-tv",
         "media"
       ],
-      "description": "Watch videos from ex.ua",
+      "description": "Watch videos from EX.UA file sharing",
       "license": "lgpl-2.1",
       "source": "https://github.com/IGRSoft/exTVPlayer",
       "stars": 8
@@ -423,7 +423,7 @@
     {
       "title": "heartrate",
       "category": "apple-watch",
-      "description": "Show streaming heartrate from the watch with watchOS 2",
+      "description": "Show streaming heartrate from the watch with `watchOS` 2",
       "source": "https://github.com/coolioxlr/watchOS-2-heartrate",
       "stars": 314,
       "tags": [
@@ -580,7 +580,7 @@
     {
       "title": "watchOS-2-Sampler",
       "category": "apple-watch",
-      "description": "Code examples for new features of watchOS 2",
+      "description": "Code examples for new features of `watchOS` 2",
       "license": "mit",
       "source": "https://github.com/shu223/watchOS-2-Sampler",
       "stars": 947,
@@ -632,7 +632,7 @@
     {
       "title": "Brave",
       "category": "browser",
-      "description": "Firefox-based browser with ad blocking built in (also blocks tracking pixels/cookies)",
+      "description": "Firefox-based browser with ad & tracking pixel/cookie blocking built in",
       "license": "mpl-2.0",
       "source": "https://github.com/brave/browser-ios",
       "itunes": "https://itunes.apple.com/app/brave-web-browser/id1052879175",
@@ -680,7 +680,7 @@
     {
       "title": "Actor",
       "category": "communication",
-      "description": "Cross-platform IM app",
+      "description": "Cross-platform instant message app",
       "license": "agpl-3.0",
       "source": "https://github.com/actorapp/actor-platform",
       "itunes": "https://itunes.apple.com/app/actor-messenger/id1025501036",
@@ -689,7 +689,7 @@
     {
       "title": "BLEMeshChat",
       "category": "communication",
-      "description": "Bluetooth LE mesh chat",
+      "description": "Bluetooth LE app",
       "license": "mpl-2.0",
       "source": "https://github.com/chrisballinger/BLEMeshChat",
       "stars": 226
@@ -761,7 +761,7 @@
     {
       "title": "Signal",
       "category": "communication",
-      "description": "Free, world-wide, private messaging and phone calls for iPhone",
+      "description": "Free, world-wide, private messaging & phone calls for iPhone",
       "source": "https://github.com/WhisperSystems/Signal-iOS",
       "itunes": "https://itunes.apple.com/app/id874139669",
       "stars": 1909,
@@ -779,7 +779,7 @@
     {
       "title": "Telegram",
       "category": "communication",
-      "description": "Send messages with a focus on speed and security",
+      "description": "Send messages with a focus on speed & security",
       "source": "https://github.com/peter-iakovlev/Telegram",
       "itunes": "https://itunes.apple.com/app/telegram-messenger/id686449807",
       "stars": 766,
@@ -808,23 +808,21 @@
       ]
     },
     {
-      "title": "NortalTechDay",
+      "title": "Nortal TechDay 2015",
       "category": [
         "conference",
         "react-native"
       ],
-      "description": "Nortal TechDay 2015",
       "source": "https://github.com/mikkoj/NortalTechDay",
       "stars": 177,
       "license": "mit"
     },
     {
-      "title": "ParseDeveloperDay",
+      "title": "Parse 2013 Developer Day",
       "category": [
         "conference",
         "react-native"
       ],
-      "description": "Parse 2013 developer conference",
       "source": "https://github.com/ParsePlatform/ParseDeveloperDay",
       "stars": 92,
       "license": "cc0-1.0"
@@ -840,9 +838,8 @@
       "license": "other"
     },
     {
-      "title": "trySwiftApp",
+      "title": "try! Swift",
       "category": "conference",
-      "description": "try! Swift conference",
       "source": "https://github.com/tryswift/trySwiftApp",
       "stars": 348,
       "tags": [
@@ -851,9 +848,8 @@
       "license": "other"
     },
     {
-      "title": "Valio",
+      "title": "Valio Con 2014 Schedule",
       "category": "conference",
-      "description": "Valio Con 2014 schedule",
       "license": "mit",
       "source": "https://github.com/soffes/valio",
       "stars": 275,
@@ -942,7 +938,7 @@
     {
       "title": "CI2Go",
       "category": "developer",
-      "description": "Unofficial CircleCI app",
+      "description": "Unofficial app for https://circleci.com/",
       "source": "https://github.com/ngs/ci2go",
       "itunes": "https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427",
       "tags": [
@@ -1099,7 +1095,7 @@
     {
       "title": "TodayStocks",
       "category": "finance",
-      "description": "Show portfolio in a minimalist today extension",
+      "description": "Show portfolio in a minimalist Today extension",
       "source": "https://github.com/premnirmal/TodayStocks",
       "itunes": "https://itunes.apple.com/app/todaystocks/id993467855",
       "stars": 23,
@@ -3180,7 +3176,7 @@
     },
     {
       "title": "Theseus",
-      "category": "misc",
+      "category": "health",
       "description": "Personal analytics app",
       "license": "gpl-2.0",
       "source": "https://github.com/lazerwalker/Theseus",
@@ -3875,7 +3871,7 @@
         "media",
         "developer"
       ],
-      "description": "Watch Realm videos and slides on your phone",
+      "description": "Watch Realm videos & slides on your phone",
       "source": "https://github.com/BalestraPatrick/RealmVideo",
       "stars": 262,
       "tags": [
@@ -3899,9 +3895,8 @@
       "license": "other"
     },
     {
-      "title": "RailsCasts",
+      "title": "RailsCasts Videos",
       "category": "apple-tv",
-      "description": "Watch RailsCasts videos",
       "source": "https://github.com/spritlesoftware/railscasts-on-appletv",
       "stars": 1,
       "license": "other"
@@ -4226,15 +4221,14 @@
         "firebase",
         "communication"
       ],
-      "description": "Anonymous messaging leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching",
+      "description": "Anonymous messaging leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data sync",
       "license": "mit",
       "source": "https://github.com/LunarFlash/Chaty",
       "stars": 217
     },
     {
-      "title": "iCook",
+      "title": "iCook TV",
       "category": "apple-tv",
-      "description": "Play iCook TV videos",
       "license": "mit",
       "source": "https://github.com/polydice/iCook-tvOS",
       "stars": 39
@@ -4296,7 +4290,7 @@
     {
       "title": "Linphone",
       "category": "communication",
-      "description": "Make free audio/video calls and text messages",
+      "description": "Free audio/video calls & text messages",
       "source": "https://www.linphone.org/technical-corner/linphone/downloads",
       "homepage": "https://www.linphone.org/",
       "itunes": "https://itunes.apple.com/app/linphone/id360065638",
@@ -4424,7 +4418,7 @@
     {
       "title": "AppSlate",
       "category": "developer",
-      "description": "Make your own iOS applications",
+      "description": "Make your own iOS apps",
       "source": "https://github.com/Taehan-Kim/AppSlate",
       "homepage": "https://www.facebook.com/AppSlate",
       "itunes": "https://itunes.apple.com/app/id511327336",
@@ -4568,7 +4562,7 @@
     {
       "title": "Antidote",
       "category": "communication",
-      "description": "A tox client",
+      "description": "A client for https://tox.chat/",
       "source": "https://github.com/Antidote-for-Tox/Antidote",
       "license": "mit",
       "homepage": "https://antidote.im/",
@@ -4586,8 +4580,8 @@
     },
     {
       "title": "Piwik Mobile 2",
-      "category": "developer",
-      "description": "Access Piwik analytics on the go",
+      "category": ["developer", "official"],
+      "description": "[Piwik](http://piwik.org/) analytics on the go",
       "license": "gpl-3.0",
       "source": "https://github.com/piwik/piwik-mobile-2",
       "homepage": "https://piwik.org/mobile/",
@@ -5013,7 +5007,7 @@
     {
       "title": "Uncle Nagy's House",
       "category": "apple-tv",
-      "description": "tvOS / TVML app with Gulp tasks for building `Jade` & `CoffeeScript`",
+      "description": "`tvOS` / `TVML` app with Gulp tasks for building `Jade` & `CoffeeScript`",
       "license": "mit",
       "source": "https://github.com/kenmickles/unh_tvos",
       "itunes": "https://itunes.apple.com/us/app/id1042172021",
@@ -5214,7 +5208,7 @@
   {
     "title": "Vector",
     "category": "communication",
-    "description": "Collaboration for teams: chat and share via http://matrix.org/",
+    "description": "Collaboration for teams, chat & share via http://matrix.org/",
     "source": "https://github.com/vector-im/vector-ios",
     "homepage": "https://vector.im/",
     "itunes": "https://itunes.apple.com/app/vector.im/id1083446067",
