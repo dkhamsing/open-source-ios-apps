@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **518** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 25, 2016*).
+A collaborative list of **519** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 26, 2016*).
  
 Jump to 
  
@@ -864,7 +864,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/id530922227
 - Pugs: Simple pug photo viewer `Swift` 
   - https://github.com/soffes/Pugs
-- Radio Paradise: App for [RadioParadise](http://www.radioparadise.com/rp_2.php) 
+- Radio Paradise: Official app for http://www.radioparadise.com/ 
   - https://github.com/ilTofa/rposx
   - https://www.iltofa.com/rphd/
   - https://itunes.apple.com/app/id663334697
@@ -1008,7 +1008,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/id520480364
 - osia: Super basic app to browse open-source-ios-apps 
   - https://github.com/dkhamsing/osia
-- Radio Paradise: App for [RadioParadise](http://www.radioparadise.com/rp_2.php) 
+- Radio Paradise: Official app for http://www.radioparadise.com/ 
   - https://github.com/ilTofa/rposx
   - https://www.iltofa.com/rphd/
   - https://itunes.apple.com/app/id663334697
@@ -1282,6 +1282,10 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/ChrisChares/swift-alarm
 - MetricTime: Displays 'Metric Time' for pranking friends on trips to countries that use the metric system `Swift` 
   - https://github.com/DeveloperACE/MetricTime
+- MovieDict: Offline dictionary for international movie titles 
+  - https://github.com/jlnr/MovieDict
+  - https://moviedict.info
+  - https://itunes.apple.com/us/app/movieglot-what-do-they-call-it/id710587066
 - Smart Traveller (UberGuide): Simple and comfortable way to explore a city using Uber API 🔥🔥
   - https://github.com/hACKbUSTER/UberGuide-iOS
 - Themoji: Use Emojis to communicate while traveling 
