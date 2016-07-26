@@ -272,10 +272,12 @@
       "license": "other"
     },
     {
-      "title": "BaiduFM-Swift",
+      "title": "BaiduFM",
       "category": "apple-watch",
+      "description": "Unofficial Baidu Music app",
       "source": "https://github.com/belm/BaiduFM-Swift",
       "stars": 512,
+      "lang": "zho",
       "tags": [
         "swift"
       ],
