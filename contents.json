@@ -2648,8 +2648,8 @@
     },
     {
       "title": "1Trackr",
-      "category": "tasks",
-      "description": "Digitally log in your community service hours onto the cloud",
+      "category": ["tasks", "parse"],
+      "description": "Log your community service hours to the cloud using Parse",
       "source": "https://github.com/JerryHDev/1Trackr",
       "itunes": "https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630",
       "stars": 1,
@@ -2658,7 +2658,7 @@
     {
       "title": "CloudKit-To-Do-List",
       "category": "tasks",
-      "description": "Store & retrieve tasks using CloudKit",
+      "description": "Store & retrieve tasks using `CloudKit`",
       "license": "mit",
       "source": "https://github.com/anthonygeranio/CloudKit-To-Do-List",
       "tags": [
@@ -2696,7 +2696,7 @@
         "tasks",
         "firebase"
       ],
-      "description": "Firebase powered to do app, includes tutorial",
+      "description": "Firebase powered to-do app, includes tutorial",
       "source": "https://github.com/goprimer/swift-off-todo",
       "tags": [
         "swift"
@@ -3856,7 +3856,7 @@
     {
       "title": "To do",
       "category": "viper",
-      "description": "A to-do list application in viper",
+      "description": "A to-do list application using Viper",
       "source": "https://github.com/objcio/issue-13-viper",
       "homepage": "https://www.objc.io/issues/13-architecture/viper/",
       "license": "mit",
@@ -4312,7 +4312,7 @@
     {
       "title": "Task Coach",
       "category": "tasks",
-      "description": "A simple toto manager designed for composite tasks",
+      "description": "A simple to-do manager designed for composite tasks",
       "source": "https://sourceforge.net/projects/taskcoach/",
       "homepage": "http://taskcoach.org/",
       "itunes": "https://itunes.apple.com/app/task-coach/id311403563",
@@ -5097,7 +5097,7 @@
     },
     {
         "title": "Send To Me",
-        "category": "tasks",
+        "category": "misc",
         "description": "Share content to your email with a single tap",
         "source": "https://github.com/PiXeL16/SendToMe",
         "itunes": "https://itunes.apple.com/app/id1100027787",
