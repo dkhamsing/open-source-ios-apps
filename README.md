@@ -76,13 +76,13 @@ Projects that are not in English have a flag
  
 - Artsy Shows: Art shows on your TV `Swift` 🔥🔥
   - https://github.com/artsy/Emergence
-- EX Player: Watch videos from ex.ua 
+- EX Player: Watch videos from EX.UA file sharing 
   - https://github.com/IGRSoft/exTVPlayer
-- iCook: Play iCook TV videos 
+- iCook TV 
   - https://github.com/polydice/iCook-tvOS
 - Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
   - https://github.com/jasarien/Provenance
-- RailsCasts: Watch RailsCasts videos 
+- RailsCasts Videos 
   - https://github.com/spritlesoftware/railscasts-on-appletv
 - Telemat-tvOS: Watch Public German Broadcast/TV company streams 🇩🇪
   - https://github.com/omichde/Telemat-tvOS
@@ -90,7 +90,7 @@ Projects that are not in English have a flag
   - https://github.com/4np/UitzendingGemist
 - UitzendingGemist by jeffkreeftmeijer: Dutch Public Broadcasting video on demand `Swift` 
   - https://github.com/jeffkreeftmeijer/UitzendingGemist
-- Uncle Nagy's House: tvOS / TVML app with Gulp tasks for building `Jade` & `CoffeeScript` 
+- Uncle Nagy's House: `tvOS` / `TVML` app with Gulp tasks for building `Jade` & `CoffeeScript` 
   - https://github.com/kenmickles/unh_tvos
   - https://itunes.apple.com/us/app/id1042172021
 - Upcoming Movies `Swift` 
@@ -102,7 +102,7 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- BaiduFM-Swift `Swift` 🔥🔥🔥
+- BaiduFM: Unofficial Baidu Music app `Swift` 🇨🇳🔥🔥🔥
   - https://github.com/belm/BaiduFM-Swift
 - Bither: Simple and secure Bitcoin wallet 
   - https://github.com/bither/bither-ios
@@ -138,7 +138,7 @@ Projects that are not in English have a flag
 - Gulps: Track your daily water consumption `Swift` 🔥🔥🔥
   - https://github.com/FancyPixel/gulps
   - https://itunes.apple.com/app/gulps/id979057304
-- heartrate: Show streaming heartrate from the watch with watchOS 2 `Swift` 🔥🔥
+- heartrate: Show streaming heartrate from the watch with `watchOS` 2 `Swift` 🔥🔥
   - https://github.com/coolioxlr/watchOS-2-heartrate
 - HighStreet: Highstreet shopping app `Swift` 🔥🔥
   - https://github.com/GetHighstreet/HighstreetWatchApp
@@ -171,7 +171,7 @@ Projects that are not in English have a flag
   - https://github.com/DanToml/Watchman
 - WatchNotes: Notes on your wrist `Swift` 
   - https://github.com/azamsharp/WatchNotes
-- watchOS-2-Sampler: Code examples for new features of watchOS 2 `Swift` 🔥🔥🔥
+- watchOS-2-Sampler: Code examples for new features of `watchOS` 2 `Swift` 🔥🔥🔥
   - https://github.com/shu223/watchOS-2-Sampler
 - WatchPics: Instagram app 
   - https://github.com/D-32/WatchPics
@@ -186,7 +186,7 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- Brave: Firefox-based browser with ad blocking built in (also blocks tracking pixels/cookies) `Swift` 🔥🔥
+- Brave: Firefox-based browser with ad & tracking pixel/cookie blocking built in `Swift` 🔥🔥
   - https://github.com/brave/browser-ios
   - https://itunes.apple.com/app/brave-web-browser/id1052879175
 - Endless Browser: Web browser built with privacy and security in mind 
@@ -220,27 +220,27 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- Actor: Cross-platform IM app 🔥🔥🔥🔥🔥
+- Actor: Cross-platform instant message app 🔥🔥🔥🔥🔥
   - https://github.com/actorapp/actor-platform
   - https://itunes.apple.com/app/actor-messenger/id1025501036
-- Antidote: A tox client 🔥
+- Antidote: A client for https://tox.chat/ 🔥
   - https://github.com/Antidote-for-Tox/Antidote
   - https://antidote.im/
-- BLEMeshChat: Bluetooth LE mesh chat 🔥🔥
+- BLEMeshChat: Bluetooth LE app 🔥🔥
   - https://github.com/chrisballinger/BLEMeshChat
 - Chats `Swift` 🔥🔥🔥🔥
   - https://github.com/acani/Chats
 - ChatSecure: Send messages with OTR encryption over XMPP 🔥🔥🔥🔥
   - https://github.com/ChatSecure/ChatSecure-iOS
   - https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063
-- Chaty: Anonymous messaging leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching 🔥🔥
+- Chaty: Anonymous messaging leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data sync 🔥🔥
   - https://github.com/LunarFlash/Chaty
 - Colloquy: IRC client 
   - https://github.com/colloquy/colloquy
 - IRCCloud: IRC client/service 🔥
   - https://github.com/irccloud/ios
   - https://itunes.apple.com/app/irccloud/id672699103
-- Linphone: Make free audio/video calls and text messages 
+- Linphone: Free audio/video calls & text messages 
   - https://www.linphone.org/technical-corner/linphone/downloads
   - https://www.linphone.org/
   - https://itunes.apple.com/app/linphone/id360065638
@@ -251,7 +251,7 @@ Projects that are not in English have a flag
   - https://github.com/mumble-voip/mumble-iphoneos
 - Rocket.Chat: Meteor chat platform app `Swift` 🔥
   - https://github.com/RocketChat/Rocket.Chat.iOS
-- Signal: Free, world-wide, private messaging and phone calls for iPhone 🔥🔥🔥🔥
+- Signal: Free, world-wide, private messaging & phone calls for iPhone 🔥🔥🔥🔥
   - https://github.com/WhisperSystems/Signal-iOS
   - https://itunes.apple.com/app/id874139669
 - Spika: A secure business messenger 
@@ -260,7 +260,7 @@ Projects that are not in English have a flag
 - surespot: Secures all messages using end-to-end encryption 
   - https://github.com/surespot/surespot-ios
   - https://itunes.apple.com/app/surespot/id790314865
-- Telegram: Send messages with a focus on speed and security 🔥🔥🔥
+- Telegram: Send messages with a focus on speed & security 🔥🔥🔥
   - https://github.com/peter-iakovlev/Telegram
   - https://itunes.apple.com/app/telegram-messenger/id686449807
 - TextEthan: Allow anyone to message you `Swift` 
@@ -271,7 +271,7 @@ Projects that are not in English have a flag
   - https://github.com/tutao/tutanota
   - https://tutanota.com/
   - https://itunes.apple.com/app/id922429609
-- Vector: Collaboration for teams: chat and share via http://matrix.org/ 
+- Vector: Collaboration for teams, chat & share via http://matrix.org/ 
   - https://github.com/vector-im/vector-ios
   - https://vector.im/
   - https://itunes.apple.com/app/vector.im/id1083446067
@@ -288,15 +288,15 @@ Projects that are not in English have a flag
 - Hack Cancer Hackathon `Swift` 
   - https://github.com/HackCancer/iOS
   - https://itunes.apple.com/app/hack-cancer/id1030806844
-- NortalTechDay: Nortal TechDay 2015 🔥
+- Nortal TechDay 2015 🔥
   - https://github.com/mikkoj/NortalTechDay
-- ParseDeveloperDay: Parse 2013 developer conference 
+- Parse 2013 Developer Day 
   - https://github.com/ParsePlatform/ParseDeveloperDay
 - RWDevCon `Swift` 
   - https://github.com/raywenderlich/RWDevCon-App
-- trySwiftApp: try! Swift conference `Swift` 🔥🔥
+- try! Swift `Swift` 🔥🔥
   - https://github.com/tryswift/trySwiftApp
-- Valio: Valio Con 2014 schedule `Swift` 🔥🔥
+- Valio Con 2014 Schedule `Swift` 🔥🔥
   - https://github.com/soffes/valio
 
 ## Content Blocking 
@@ -325,7 +325,7 @@ Projects that are not in English have a flag
 - AppLove: View app reviews for all territories (countries) `Swift` 
   - https://github.com/snowpunch/AppLove
   - https://itunes.apple.com/app/app-love/id1099336831
-- AppSlate: Make your own iOS applications 🔥
+- AppSlate: Make your own iOS apps 🔥
   - https://github.com/Taehan-Kim/AppSlate
   - https://www.facebook.com/AppSlate
   - https://itunes.apple.com/app/id511327336
@@ -336,7 +336,7 @@ Projects that are not in English have a flag
 - Charter: An iPhone/iPad mailing list app `Swift` 🔥🔥
   - https://github.com/matthewpalmer/Charter
   - https://itunes.apple.com/app/charter-mailing-list-client/id1082212697
-- CI2Go: Unofficial CircleCI app `Swift` 
+- CI2Go: Unofficial app for https://circleci.com/ `Swift` 
   - https://github.com/ngs/ci2go
   - https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427
 - CodeBucket: Browse and maintain your Bitbucket repositories 🔥
@@ -344,11 +344,11 @@ Projects that are not in English have a flag
 - Codinator: iPhone/iPad code editor 
   - https://github.com/DanilaVladi/codinator
   - https://itunes.apple.com/app/codinator/id1024671232
-- Piwik Mobile 2: Access Piwik analytics on the go 
+- Piwik Mobile 2: [Piwik](http://piwik.org/) analytics on the go 
   - https://github.com/piwik/piwik-mobile-2
   - https://piwik.org/mobile/
   - https://itunes.apple.com/app/id737216887
-- RealmVideo: Watch Realm videos and slides on your phone `Swift` 🔥🔥
+- RealmVideo: Watch Realm videos & slides on your phone `Swift` 🔥🔥
   - https://github.com/BalestraPatrick/RealmVideo
 - Review Time: Shows average review times for iOS and Mac apps `Swift` 🔥
   - https://github.com/nthegedus/ReviewTime
@@ -406,7 +406,7 @@ Projects that are not in English have a flag
 - SIP Calculator: Calculate the future value of SIP (Systematic Investment Plan) payments `Swift` 
   - https://github.com/tirupati17/sip-calculator-swift
   - https://itunes.apple.com/app/id1092822415
-- TodayStocks: Show portfolio in a minimalist today extension 
+- TodayStocks: Show portfolio in a minimalist Today extension 
   - https://github.com/premnirmal/TodayStocks
   - https://itunes.apple.com/app/todaystocks/id993467855
 - ToThePenny: Budget tracker 
@@ -624,6 +624,8 @@ Projects that are not in English have a flag
 - Speak: AAC & Speech Therapy 
   - https://github.com/raynesio/speakability
   - https://itunes.apple.com/app/speakability/id784509467
+- Theseus: Personal analytics app 🔥🔥🔥
+  - https://github.com/lazerwalker/Theseus
 
 ### ResearchKit 
  
@@ -789,7 +791,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/elevenplayer/id1033773648
 - EmotionNote: Emotion diary, analyze choose or take a photo of your face and the app will tell you your emotion `Swift` 
   - https://github.com/Yogayu/EmotionNote
-- EX Player: Watch videos from ex.ua 
+- EX Player: Watch videos from EX.UA file sharing 
   - https://github.com/IGRSoft/exTVPlayer
 - Filterpedia: Core Image Filter explorer `Swift` 🔥🔥🔥🔥
   - https://github.com/FlexMonkey/Filterpedia
@@ -870,7 +872,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/id663334697
 - ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
   - https://github.com/JensRavens/ReactiveKitten
-- RealmVideo: Watch Realm videos and slides on your phone `Swift` 🔥🔥
+- RealmVideo: Watch Realm videos & slides on your phone `Swift` 🔥🔥
   - https://github.com/BalestraPatrick/RealmVideo
 - Revolved: 3D modelling app for iPad 🔥🔥🔥
   - https://github.com/Ciechan/Revolved
@@ -1008,6 +1010,10 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/id520480364
 - osia: Super basic app to browse open-source-ios-apps 
   - https://github.com/dkhamsing/osia
+- Piwik Mobile 2: [Piwik](http://piwik.org/) analytics on the go 
+  - https://github.com/piwik/piwik-mobile-2
+  - https://piwik.org/mobile/
+  - https://itunes.apple.com/app/id737216887
 - Radio Paradise: Official app for http://www.radioparadise.com/ 
   - https://github.com/ilTofa/rposx
   - https://www.iltofa.com/rphd/
@@ -1285,7 +1291,7 @@ Image, video, audio, reading — [back to top](#readme)
 - MovieDict: Offline dictionary for international movie titles 
   - https://github.com/jlnr/MovieDict
   - https://moviedict.info
-  - https://itunes.apple.com/us/app/movieglot-what-do-they-call-it/id710587066
+  - https://itunes.apple.com/app/movieglot-what-do-they-call-it/id710587066
 - Smart Traveller (UberGuide): Simple and comfortable way to explore a city using Uber API 🔥🔥
   - https://github.com/hACKbUSTER/UberGuide-iOS
 - Themoji: Use Emojis to communicate while traveling 
@@ -1379,7 +1385,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Chaty: Anonymous messaging leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching 🔥🔥
+- Chaty: Anonymous messaging leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data sync 🔥🔥
   - https://github.com/LunarFlash/Chaty
 - Hacker News Client: Firebase API-Based iOS Reader (Firebase) 🔥🔥
   - https://github.com/bonzoq/hniosreader
@@ -1482,9 +1488,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/jbkuczma/NBAreact
 - newswatch: News app using YouTube playlists 
   - https://github.com/bradoyler/newswatch-react-native
-- NortalTechDay: Nortal TechDay 2015 🔥
+- Nortal TechDay 2015 🔥
   - https://github.com/mikkoj/NortalTechDay
-- ParseDeveloperDay: Parse 2013 developer conference 
+- Parse 2013 Developer Day 
   - https://github.com/ParsePlatform/ParseDeveloperDay
 - PocketNode: Lightweight Node REPL 
   - https://github.com/mzabriskie/PocketNode
@@ -1643,8 +1649,6 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/chrisballinger/Tether-iOS
 - TheReservist: Check availability of iPhones `Swift` 
   - https://github.com/kimar/TheReservist
-- Theseus: Personal analytics app 🔥🔥🔥
-  - https://github.com/lazerwalker/Theseus
 - TrollDrop: AirDrop trollfaces to everyone 
   - https://github.com/a2/TrollDrop
 - Vinylogue: Simple Last.fm app 🔥
