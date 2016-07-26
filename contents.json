@@ -5269,5 +5269,14 @@
     "homepage": "https://moviedict.info",
     "license": "mit",
     "itunes": "https://itunes.apple.com/app/movieglot-what-do-they-call-it/id710587066"
+  },
+  {
+    "title": "Siesta GithubBrowser",
+    "category": ["github", "reactive-programming", "sample"],
+    "description": "Browse and star Github repositories. Demonstrates use of Siesta & related quasi-reactive techniques.",
+    "source": "https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser",
+    "stars": 660,
+    "license": "mit",
+    "tags": ["swift"]
   }]
 }
