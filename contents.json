@@ -1447,7 +1447,7 @@
     {
       "title": "LogU",
       "category": "fitness",
-      "description": "A Strength Logger is a simple logging application for strength athletes",
+      "description": "A Strength Logger is a simple logging app for strength athletes",
       "source": "https://github.com/brettalcox/logU-swift",
       "itunes": "https://itunes.apple.com/app/logu-a-strength-logger/id1084487510",
       "tags": [
@@ -1677,7 +1677,7 @@
     {
       "title": "pathlogger",
       "category": "location",
-      "description": "GPS logging application",
+      "description": "GPS logging app",
       "source": "https://github.com/eugenpirogoff/pathlogger",
       "tags": [
         "swift"
@@ -2531,7 +2531,7 @@
     {
       "title": "Starship",
       "category": "sample",
-      "description": "A generic API client application using Hyperdrive",
+      "description": "A generic API client app using Hyperdrive",
       "license": "bsd-2-clause",
       "source": "https://github.com/kylef/Starship",
       "tags": [
@@ -2749,7 +2749,7 @@
     {
       "title": "Pocket Forecast",
       "category": "weather",
-      "description": "Weather application for Typhoon",
+      "description": "Weather app for Typhoon",
       "license": "apache-2.0",
       "source": "https://github.com/appsquickly/Typhoon-Swift-Example",
       "stars": 323,
@@ -3278,7 +3278,7 @@
     {
       "title": "Plum-O-Meter",
       "category": "3d-touch",
-      "description": "3D Touch Application for Weighing Plums (and other small fruit!)",
+      "description": "3D Touch app for weighing plums (and other small fruit!)",
       "source": "https://github.com/FlexMonkey/Plum-O-Meter",
       "stars": 438,
       "tags": [
@@ -3856,7 +3856,7 @@
     {
       "title": "To do",
       "category": "viper",
-      "description": "A to-do list application using Viper",
+      "description": "A to-do list app using Viper",
       "source": "https://github.com/objcio/issue-13-viper",
       "homepage": "https://www.objc.io/issues/13-architecture/viper/",
       "license": "mit",
@@ -4285,7 +4285,7 @@
     {
       "title": "MAPS.ME",
       "category": "location",
-      "description": "Offline maps application with navigation using [OpenStreetMap](https://www.openstreetmap.org) data",
+      "description": "Offline maps app with navigation using [OpenStreetMap](https://www.openstreetmap.org) data",
       "license": "apache-2.0",
       "source": "https://github.com/mapsme/omim",
       "homepage": "https://maps.me/en/home",
@@ -4606,7 +4606,7 @@
     {
       "title": "OsmAnd Maps",
       "category": "location",
-      "description": "A map application with access to OpenStreetMaps",
+      "description": "A map app with access to OpenStreetMaps",
       "license": "gpl-3.0",
       "source": "https://github.com/osmandapp/Osmand",
       "homepage": "http://osmand.net/",
