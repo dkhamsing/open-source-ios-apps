@@ -5259,6 +5259,14 @@
     "description": "Super basic app to browse open-source-ios-apps",
     "license": "mit",
     "source": "https://github.com/dkhamsing/osia"
-  }
-  ]
+  },
+  {
+    "title": "MovieDict",
+    "category": "travel",
+    "description": "Offline dictionary for international movie titles",
+    "source": "https://github.com/jlnr/MovieDict",
+    "homepage": "https://moviedict.info",
+    "license": "mit",
+    "itunes": "https://itunes.apple.com/us/app/movieglot-what-do-they-call-it/id710587066"
+  }]
 }
