@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **519** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 26, 2016*).
+A collaborative list of **520** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 26, 2016*).
  
 Jump to 
  
@@ -22,6 +22,7 @@ Jump to
 - [Games](#games) 
   - [Emulators](#emulators) 
 - [Health](#health) 
+  - [Fitness](#fitness) 
   - [ResearchKit](#researchkit) 
 - [Keyboards](#keyboards) 
 - [Location](#location) 
@@ -379,6 +380,8 @@ Projects that are not in English have a flag
 - OctoPodium: List users ranked by GitHub repository star count `Swift` 🔥
   - https://github.com/nunogoncalves/iOS-OctoPodium
   - https://itunes.apple.com/app/octopodium/id1077519133
+- Siesta GitHub Browser: Browse and star GitHub repositories using Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
+  - https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser
 - SwiftHub: View Swift repositories on GitHub 
   - https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub
 
@@ -613,6 +616,14 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/depressed/id1062594092
 - HealthKit~Swift: Sample app for `HealthKit` `Swift` 
   - https://github.com/Darktt/HealthKit-Swift
+- Speak: AAC & Speech Therapy 
+  - https://github.com/raynesio/speakability
+  - https://itunes.apple.com/app/speakability/id784509467
+
+### Fitness 
+ 
+[back to top](#readme) 
+ 
 - Jim: Track your gym workouts `Swift` 
   - https://github.com/kylejm/Jim
 - LogU: A Strength Logger is a simple logging application for strength athletes `Swift` 
@@ -621,9 +632,6 @@ Projects that are not in English have a flag
 - rTracker: A generic, customizable personal data tracker 
   - https://github.com/rob-miller/rTracker
   - https://itunes.apple.com/app/rtracker-track-it-all-your-way/id486541371
-- Speak: AAC & Speech Therapy 
-  - https://github.com/raynesio/speakability
-  - https://itunes.apple.com/app/speakability/id784509467
 - Theseus: Personal analytics app 🔥🔥🔥
   - https://github.com/lazerwalker/Theseus
 
@@ -1042,6 +1050,8 @@ Image, video, audio, reading — [back to top](#readme)
  
 - ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
   - https://github.com/JensRavens/ReactiveKitten
+- Siesta GitHub Browser: Browse and star GitHub repositories using Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
+  - https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser
 
 ### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 
  
@@ -1138,6 +1148,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/RestKit/RKGist
 - SafariAutoLoginTest: Demo showing how to auto-login users in iOS 9 using Safari cookies `Swift` 🔥🔥
   - https://github.com/mackuba/SafariAutoLoginTest
+- Siesta GitHub Browser: Browse and star GitHub repositories using Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
+  - https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser
 - Starship: A generic API client application using Hyperdrive `Swift` 
   - https://github.com/kylef/Starship
 - StateRestorationDemo: State preservation and restoration APIs `Swift` 
@@ -1712,7 +1724,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/kenshin03/Cherry
 - Coffee Timer `Swift` 
   - https://github.com/ashfurrow/yourfirstswiftapp
-- Fojusi: Work timer with today extension `Swift` 🔥🔥
+- Fojusi: Work timer with Today extension `Swift` 🔥🔥
   - https://github.com/dasdom/Tomate
   - https://itunes.apple.com/app/fojusi/id923044693
 - TrackMyTime 
