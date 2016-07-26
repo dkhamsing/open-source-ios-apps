@@ -64,6 +64,11 @@
       "id": "health"
     },
     {
+      "title": "Fitness",
+      "id": "fitness",
+      "parent": "health"
+    },
+    {
       "title": "ResearchKit",
       "id": "researchkit",
       "parent": "health"
@@ -1428,7 +1433,7 @@
     {
       "title": "Jim",
       "category": [
-        "health",
+        "fitness",
         "parse"
       ],
       "description": "Track your gym workouts",
@@ -1441,7 +1446,7 @@
     },
     {
       "title": "LogU",
-      "category": "health",
+      "category": "fitness",
       "description": "A Strength Logger is a simple logging application for strength athletes",
       "source": "https://github.com/brettalcox/logU-swift",
       "itunes": "https://itunes.apple.com/app/logu-a-strength-logger/id1084487510",
@@ -1471,7 +1476,7 @@
     },
     {
       "title": "rTracker",
-      "category": "health",
+      "category": "fitness",
       "description": "A generic, customizable personal data tracker",
       "source": "https://github.com/rob-miller/rTracker",
       "itunes": "https://itunes.apple.com/app/rtracker-track-it-all-your-way/id486541371",
@@ -3176,7 +3181,7 @@
     },
     {
       "title": "Theseus",
-      "category": "health",
+      "category": "fitness",
       "description": "Personal analytics app",
       "license": "gpl-2.0",
       "source": "https://github.com/lazerwalker/Theseus",
