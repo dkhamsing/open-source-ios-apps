@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **520** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 26, 2016*).
+A collaborative list of **521** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 27, 2016*).
  
 Jump to 
  
@@ -81,7 +81,7 @@ Projects that are not in English have a flag
   - https://github.com/IGRSoft/exTVPlayer
 - iCook TV 
   - https://github.com/polydice/iCook-tvOS
-- Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
+- Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more 🔥🔥🔥🔥🔥
   - https://github.com/jasarien/Provenance
 - RailsCasts Videos 
   - https://github.com/spritlesoftware/railscasts-on-appletv
@@ -595,7 +595,7 @@ Projects that are not in English have a flag
   - https://github.com/raaxis/nds4ios
 - PPSSPP: PSP emulator 🔥🔥🔥🔥🔥
   - https://github.com/hrydgard/ppsspp
-- Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
+- Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more 🔥🔥🔥🔥🔥
   - https://github.com/jasarien/Provenance
 - RetroArch: The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others 🔥🔥🔥🔥
   - https://github.com/libretro/RetroArch
@@ -626,7 +626,7 @@ Projects that are not in English have a flag
  
 - Jim: Track your gym workouts `Swift` 
   - https://github.com/kylejm/Jim
-- LogU: A Strength Logger is a simple logging application for strength athletes `Swift` 
+- LogU: A Strength Logger is a simple logging app for strength athletes `Swift` 
   - https://github.com/brettalcox/logU-swift
   - https://itunes.apple.com/app/logu-a-strength-logger/id1084487510
 - rTracker: A generic, customizable personal data tracker 
@@ -706,7 +706,7 @@ Projects that are not in English have a flag
 - Locative: Helping you to get the best out of your automated home, geofencing, iBeacons 🔥
   - https://github.com/LocativeHQ/Locative-iOS
   - https://itunes.apple.com/app/locative/id725198453
-- MAPS.ME: Offline maps application with navigation using [OpenStreetMap](https://www.openstreetmap.org) data 🔥🔥🔥🔥
+- MAPS.ME: Offline maps app with navigation using [OpenStreetMap](https://www.openstreetmap.org) data 🔥🔥🔥🔥
   - https://github.com/mapsme/omim
   - https://maps.me/en/home
   - https://itunes.apple.com/app/id510623322
@@ -721,7 +721,7 @@ Projects that are not in English have a flag
 - OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more 🔥
   - https://github.com/OneBusAway/onebusaway-iphone
   - https://itunes.apple.com/app/onebusaway/id329380089
-- OsmAnd Maps: A map application with access to OpenStreetMaps 🔥🔥🔥
+- OsmAnd Maps: A map app with access to OpenStreetMaps 🔥🔥🔥
   - https://github.com/osmandapp/Osmand
   - http://osmand.net/
   - https://itunes.apple.com/app/id934850257
@@ -730,7 +730,7 @@ Projects that are not in English have a flag
 - ParkenDD: Check the status of several public parking lots in Germany and Switzerland `Swift` 
   - https://github.com/kiliankoe/ParkenDD
   - https://itunes.apple.com/app/parkendd/id957165041
-- pathlogger: GPS logging application `Swift` 
+- pathlogger: GPS logging app `Swift` 
   - https://github.com/eugenpirogoff/pathlogger
 - PebCiti: Pebble app to show nearest CitiBike NYC dock 
   - https://github.com/joemasilotti/PebCiti
@@ -801,6 +801,8 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/Yogayu/EmotionNote
 - EX Player: Watch videos from EX.UA file sharing 
   - https://github.com/IGRSoft/exTVPlayer
+- Facemotion: Find a contact by face recognition using `OpenCV` 
+  - https://github.com/remirobert/Facemotion
 - Filterpedia: Core Image Filter explorer `Swift` 🔥🔥🔥🔥
   - https://github.com/FlexMonkey/Filterpedia
 - Flickr-Search: Simple app which consumes the Flickr Search API 
@@ -1150,7 +1152,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/mackuba/SafariAutoLoginTest
 - Siesta GitHub Browser: Browse and star GitHub repositories using Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
   - https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser
-- Starship: A generic API client application using Hyperdrive `Swift` 
+- Starship: A generic API client app using Hyperdrive `Swift` 
   - https://github.com/kylef/Starship
 - StateRestorationDemo: State preservation and restoration APIs `Swift` 
   - https://github.com/shagedorn/StateRestorationDemo
@@ -1241,10 +1243,10 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- 1Trackr: Digitally log in your community service hours onto the cloud 
+- 1Trackr: Log your community service hours to the cloud using Parse 
   - https://github.com/JerryHDev/1Trackr
   - https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630
-- CloudKit-To-Do-List: Store & retrieve tasks using CloudKit `Swift` 
+- CloudKit-To-Do-List: Store & retrieve tasks using `CloudKit` `Swift` 
   - https://github.com/anthonygeranio/CloudKit-To-Do-List
 - Habitica: Habit building and productivity 
   - https://github.com/HabitRPG/habitrpg-ios
@@ -1254,12 +1256,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/imod/MyAwesomeChecklist
 - RealmToDo: A small to-do list with Realm integration `Swift` 
   - https://github.com/pietbrauer/RealmToDo
-- Send To Me: Share content to your email with a single tap `Swift` 
-  - https://github.com/PiXeL16/SendToMe
-  - https://itunes.apple.com/app/id1100027787
-- Swift Off: Firebase powered to do app, includes tutorial `Swift` 
+- Swift Off: Firebase powered to-do app, includes tutorial `Swift` 
   - https://github.com/goprimer/swift-off-todo
-- Task Coach: A simple toto manager designed for composite tasks 
+- Task Coach: A simple to-do manager designed for composite tasks 
   - https://sourceforge.net/projects/taskcoach/
   - http://taskcoach.org/
   - https://itunes.apple.com/app/task-coach/id311403563
@@ -1316,7 +1315,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 - Lucid Weather Clock: Precipitation clock, uses Forecast.io `Swift` 
   - https://github.com/wrutkowski/Lucid-Weather-Clock
-- Pocket Forecast: Weather application for Typhoon `Swift` 🔥🔥
+- Pocket Forecast: Weather app for Typhoon `Swift` 🔥🔥
   - https://github.com/appsquickly/Typhoon-Swift-Example
 - RainMan: Uses Forecast.io `Swift` 🔥🔥🔥
   - https://github.com/Mav3r1ck/Project-RainMan
@@ -1368,7 +1367,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 - ForceSketch: Sketching app using 3D Touch 
   - https://github.com/FlexMonkey/ForceSketch
-- Plum-O-Meter: 3D Touch Application for Weighing Plums (and other small fruit!) `Swift` 🔥🔥
+- Plum-O-Meter: 3D Touch app for weighing plums (and other small fruit!) `Swift` 🔥🔥
   - https://github.com/FlexMonkey/Plum-O-Meter
 
 ### Appcelerator 
@@ -1407,7 +1406,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/hacker-news-y/id1027140113
 - how-much: Simple app to record how much things cost using Parse or Firebase 
   - https://github.com/dkhamsing/how-much
-- Swift Off: Firebase powered to do app, includes tutorial `Swift` 
+- Swift Off: Firebase powered to-do app, includes tutorial `Swift` 
   - https://github.com/goprimer/swift-off-todo
 
 ### [Ionic](http://ionicframework.com/) 
@@ -1426,6 +1425,9 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- 1Trackr: Log your community service hours to the cloud using Parse 
+  - https://github.com/JerryHDev/1Trackr
+  - https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630
 - 2CITY: Find out the coolest things to do in your city 
   - https://github.com/2city/2CITY-iOS
   - https://itunes.apple.com/app/2city/id944632470
@@ -1542,6 +1544,8 @@ Image, video, audio, reading — [back to top](#readme)
  
 - Done: Data sharing using WatchKit and Realm `Swift` 
   - https://github.com/FancyPixel/done-swift
+- Facemotion: Find a contact by face recognition using `OpenCV` 
+  - https://github.com/remirobert/Facemotion
 - Obědář: Shows daily menu of close restaurants to Czech Technical University `Swift` 
   - https://github.com/syky27/lunch_guy-ios
 - RaceMe: Run tracking + ghosting `Swift` 
@@ -1566,7 +1570,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/id1105890730
 - Rambler.Conferences 
   - https://github.com/rambler-ios/RamblerConferences
-- To do: A to-do list application in viper 🔥🔥🔥
+- To do: A to-do list app using Viper 🔥🔥🔥
   - https://github.com/objcio/issue-13-viper
   - https://www.objc.io/issues/13-architecture/viper/
 
@@ -1654,6 +1658,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/haiwen/seafile-iOS
   - https://www.seafile.com/en/home/
   - https://itunes.apple.com/app/id639202512
+- Send To Me: Share content to your email with a single tap `Swift` 
+  - https://github.com/PiXeL16/SendToMe
+  - https://itunes.apple.com/app/id1100027787
 - Swiflytics: See your realtime Google Analytics data `Swift` 
   - https://github.com/aciidb0mb3r/Swiflytics
   - https://itunes.apple.com/app/swiflytics/id1076165139
