@@ -5282,7 +5282,7 @@
   {
     "title": "Facemotion",
     "category": ["media", "realm"],
-    "description": "Find a contact by face recognition",
+    "description": "Find a contact by face recognition using `OpenCV`",
     "source": "https://github.com/remirobert/Facemotion",
     "stars": 43,
     "license": "mit"
