@@ -137,8 +137,17 @@
 						"description": "A place to put any metadata for a project. The items can be any type.",
 						"type": "array",
 						"default": []
+					},
+					"suggested_by": {
+						"title": "Suggested By",
+						"description": "Name of person who suggested project.",
+						"type": "string"
+					},
+					"date_added": {
+						"title": "Date Added",
+						"description": "Date when project was added.",
+						"type": "string"
 					}
-
 				},
 				"required": ["title", "category", "source"],
 				"additionalProperties": false
