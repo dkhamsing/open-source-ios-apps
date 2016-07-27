@@ -5278,5 +5278,13 @@
     "stars": 660,
     "license": "mit",
     "tags": ["swift"]
+  },
+  {
+    "title": "Facemotion",
+    "category": ["media", "realm"],
+    "description": "Find a contact by face recognition",
+    "source": "https://github.com/remirobert/Facemotion",
+    "stars": 43,
+    "license": "mit"
   }]
 }
