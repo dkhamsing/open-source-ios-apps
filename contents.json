@@ -252,7 +252,7 @@
         "apple-tv",
         "emulators"
       ],
-      "description": "Emulators frontend for Sega Genesis, SNES, NES, GB/GBC, & more",
+      "description": "Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more",
       "source": "https://github.com/jasarien/Provenance",
       "stars": 2101,
       "license": "bsd-3-clause"
