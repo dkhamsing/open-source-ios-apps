@@ -93,7 +93,7 @@ Projects that are not in English have a flag
   </details>
 - RailsCasts Videos 
   <details><summary>https://github.com/spritlesoftware/railscasts-on-appletv</summary>
-  Added May 12, 2016
+  Added May 12, 2016<br>  License: `other`
   </details>
 - Telemat-tvOS: Watch Public German Broadcast/TV company streams 🇩🇪
   <details><summary>https://github.com/omichde/Telemat-tvOS</summary>
@@ -117,7 +117,7 @@ Projects that are not in English have a flag
   </details>
 - WWDCTV: Watch WWDC Videos 🔥🔥
   <details><summary>https://github.com/azzoor/WWDCTV</summary>
-  Added November 19, 2015
+  Added November 19, 2015<br>  License: `other`
   </details>
 
 ## Apple Watch 
@@ -126,7 +126,7 @@ Projects that are not in English have a flag
  
 - BaiduFM: Unofficial Baidu Music app `Swift` 🇨🇳🔥🔥🔥
   <details><summary>https://github.com/belm/BaiduFM-Swift</summary>
-  Added August  6, 2015
+  Added August  6, 2015<br>  License: `other`
   </details>
 - Bither: Simple and secure Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bither/id899478936) 
   <details><summary>https://github.com/bither/bither-ios</summary>
@@ -138,11 +138,11 @@ Projects that are not in English have a flag
   </details>
 - Bus Today: Track bus line on your wrist [` App Store`](https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341) 🇨🇳
   <details><summary>https://github.com/JohnWong/bus-today</summary>
-  Added February 17, 2016
+  Added February 17, 2016<br>  License: `other`
   </details>
 - Calculator by mukeshthawani `Swift` 
   <details><summary>https://github.com/mukeshthawani/Calculator</summary>
-  Added December 18, 2015
+  Added December 18, 2015<br>  License: `other`
   </details>
 - Calculator by noodlewerk `Swift` 
   <details><summary>https://github.com/noodlewerk/Apple_Watch_Calculator</summary>
@@ -186,7 +186,7 @@ Projects that are not in English have a flag
   </details>
 - heartrate: Show streaming heartrate from the watch with `watchOS` 2 `Swift` 🔥🔥
   <details><summary>https://github.com/coolioxlr/watchOS-2-heartrate</summary>
-  Added July 29, 2015
+  Added July 29, 2015<br>  License: `other`
   </details>
 - HighStreet: Highstreet shopping app `Swift` 🔥🔥
   <details><summary>https://github.com/GetHighstreet/HighstreetWatchApp</summary>
@@ -198,15 +198,15 @@ Projects that are not in English have a flag
   </details>
 - Impulse: Real-time age ticker `Swift` 
   <details><summary>https://github.com/Jasdev/Impulse</summary>
-  Added August 12, 2015
+  Added August 12, 2015<br>  License: `other`
   </details>
 - KTPomodoro: Mini Pomodoro Timer 
   <details><summary>https://github.com/kenshin03/KTPomodoro</summary>
-  Added February 26, 2015
+  Added February 26, 2015<br>  License: `other`
   </details>
 - Lister: List app example by Apple `Swift` 
   <details><summary>https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html</summary>
-  Added March 23, 2015
+  Added March 23, 2015<br>  License: `other`
   </details>
 - Natural Language Clock: Display the time as you would speak it `Swift` 
   <details><summary>https://github.com/chadkeck/Natural-Language-Clock</summary>
@@ -230,7 +230,7 @@ Projects that are not in English have a flag
   </details>
 - Soon: Countdown app `Swift` 
   <details><summary>https://github.com/sandofsky/soon</summary>
-  Added June  2, 2015
+  Added June  2, 2015<br>  License: `other`
   </details>
 - WatchKit-Apps: Tutorials app `Swift` 🔥🔥🔥🔥
   <details><summary>https://github.com/kostiakoval/WatchKit-Apps</summary>
@@ -238,11 +238,11 @@ Projects that are not in English have a flag
   </details>
 - Watchman: A WatchOS2 Hangman Game `Swift` 
   <details><summary>https://github.com/DanToml/Watchman</summary>
-  Added October  6, 2015
+  Added October  6, 2015<br>  License: `other`
   </details>
 - WatchNotes: Notes on your wrist `Swift` 
   <details><summary>https://github.com/azamsharp/WatchNotes</summary>
-  Added April 30, 2015
+  Added April 30, 2015<br>  License: `other`
   </details>
 - watchOS-2-Sampler: Code examples for new features of `watchOS` 2 `Swift` 🔥🔥🔥
   <details><summary>https://github.com/shu223/watchOS-2-Sampler</summary>
@@ -254,11 +254,11 @@ Projects that are not in English have a flag
   </details>
 - WatchSnake: Snake game `Swift` 
   <details><summary>https://github.com/davidcairns/-WatchSnake</summary>
-  Added May  5, 2015
+  Added May  5, 2015<br>  License: `other`
   </details>
 - WatchStocks: Track your stocks portfolio, also includes a watch face complication `Swift` 
   <details><summary>https://github.com/G2Jose/WatchStocks</summary>
-  Added September 17, 2015
+  Added September 17, 2015<br>  License: `other`
   </details>
 - Wunderschnell: Order the right product with one tap on your wrist `Swift` 
   <details><summary>https://github.com/contentful-labs/Wunderschnell</summary>
@@ -275,7 +275,7 @@ Projects that are not in English have a flag
   </details>
 - Endless Browser: Web browser built with privacy and security in mind [` App Store`](https://itunes.apple.com/app/endless-browser/id974745755) 
   <details><summary>https://github.com/jcs/endless</summary>
-  Added December 22, 2015
+  Added December 22, 2015<br>  License: `other`
   </details>
 - Firefox: Official Firefox app [` App Store`](https://itunes.apple.com/app/firefox-web-browser/id989804926) `Swift` 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/mozilla/firefox-ios</summary>
@@ -337,7 +337,7 @@ Projects that are not in English have a flag
   </details>
 - Colloquy: IRC client 
   <details><summary>https://github.com/colloquy/colloquy</summary>
-  Added January 27, 2016
+  Added January 27, 2016<br>  License: `other`
   </details>
 - IRCCloud: IRC client/service [` App Store`](https://itunes.apple.com/app/irccloud/id672699103) 🔥
   <details><summary>https://github.com/irccloud/ios</summary>
@@ -373,7 +373,7 @@ Projects that are not in English have a flag
   </details>
 - Telegram: Send messages with a focus on speed & security [` App Store`](https://itunes.apple.com/app/telegram-messenger/id686449807) 🔥🔥🔥
   <details><summary>https://github.com/peter-iakovlev/Telegram</summary>
-  Added April  6, 2015
+  Added April  6, 2015<br>  License: `other`
   </details>
 - TextEthan: Allow anyone to message you `Swift` 
   <details><summary>https://github.com/thii/TextEthan</summary>
@@ -406,7 +406,7 @@ Projects that are not in English have a flag
   </details>
 - Hack Cancer Hackathon [` App Store`](https://itunes.apple.com/app/hack-cancer/id1030806844) `Swift` 
   <details><summary>https://github.com/HackCancer/iOS</summary>
-  Added August  7, 2015
+  Added August  7, 2015<br>  License: `other`
   </details>
 - Nortal TechDay 2015 🔥
   <details><summary>https://github.com/mikkoj/NortalTechDay</summary>
@@ -418,11 +418,11 @@ Projects that are not in English have a flag
   </details>
 - RWDevCon `Swift` 
   <details><summary>https://github.com/raywenderlich/RWDevCon-App</summary>
-  Added March 13, 2016
+  Added March 13, 2016<br>  License: `other`
   </details>
 - try! Swift `Swift` 🔥🔥
   <details><summary>https://github.com/tryswift/trySwiftApp</summary>
-  Added February 16, 2016
+  Added February 16, 2016<br>  License: `other`
   </details>
 - Valio Con 2014 Schedule `Swift` 🔥🔥
   <details><summary>https://github.com/soffes/valio</summary>
@@ -464,11 +464,11 @@ Projects that are not in English have a flag
   </details>
 - AppSlate: Make your own iOS apps [` App Store`](https://itunes.apple.com/app/id511327336) 🔥
   <details><summary>https://github.com/Taehan-Kim/AppSlate</summary>
-  Added June  1, 2016<br>  https://www.facebook.com/AppSlate
+  Added June  1, 2016<br>  License: `other`<br>  https://www.facebook.com/AppSlate
   </details>
 - Bequest: Create and replay HTTP/S requests `Swift` 
   <details><summary>https://github.com/splinesoft/Bequest</summary>
-  Added April  7, 2015
+  Added April  7, 2015<br>  License: `other`
   </details>
 - Blink: Mobile shell terminal based on Mosh 
   <details><summary>https://github.com/blinksh/blink</summary>
@@ -476,19 +476,19 @@ Projects that are not in English have a flag
   </details>
 - Charter: An iPhone/iPad mailing list app [` App Store`](https://itunes.apple.com/app/charter-mailing-list-client/id1082212697) `Swift` 🔥🔥
   <details><summary>https://github.com/matthewpalmer/Charter</summary>
-  Added February 22, 2016
+  Added February 22, 2016<br>  License: `other`
   </details>
 - CI2Go: Unofficial app for https://circleci.com/ [` App Store`](https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427) `Swift` 
   <details><summary>https://github.com/ngs/ci2go</summary>
-  Added March 21, 2016
+  Added March 21, 2016<br>  License: `other`
   </details>
 - CodeBucket: Browse and maintain your Bitbucket repositories 🔥
   <details><summary>https://github.com/thedillonb/CodeBucket</summary>
-  Added June  3, 2016
+  Added June  3, 2016<br>  License: `other`
   </details>
 - Codinator: iPhone/iPad code editor [` App Store`](https://itunes.apple.com/app/codinator/id1024671232) 
   <details><summary>https://github.com/DanilaVladi/codinator</summary>
-  Added April 11, 2016
+  Added April 11, 2016<br>  License: `other`
   </details>
 - Piwik Mobile 2: [Piwik](http://piwik.org/) analytics on the go [` App Store`](https://itunes.apple.com/app/id737216887) 
   <details><summary>https://github.com/piwik/piwik-mobile-2</summary>
@@ -504,7 +504,7 @@ Projects that are not in English have a flag
   </details>
 - TLDR Man Page: Reference dictionary for computer manual commands, but in tl;dr (too long; didn't read) mode [` App Store`](https://itunes.apple.com/app/tldr-man-page/id1073433250) `Swift` 
   <details><summary>https://github.com/freesuraj/TLDR</summary>
-  Added May  3, 2016
+  Added May  3, 2016<br>  License: `other`
   </details>
 - wat: Very simple packet sniffer `Swift` 
   <details><summary>https://github.com/pj4533/wat</summary>
@@ -517,7 +517,7 @@ Projects that are not in English have a flag
  
 - CodeHub: Browse and maintain GitHub repositories [` App Store`](https://itunes.apple.com/app/id707173885) 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/thedillonb/CodeHub</summary>
-  Added June  1, 2016<br>  http://codehub-app.com/
+  Added June  1, 2016<br>  License: `other`<br>  http://codehub-app.com/
   </details>
 - GitBucket: Uses MVVM & ReactiveCocoa [` App Store`](https://itunes.apple.com/app/id961330940) 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/leichunfeng/MVVMReactiveCocoa</summary>
@@ -537,7 +537,7 @@ Projects that are not in English have a flag
   </details>
 - OctoPodium: List users ranked by GitHub repository star count [` App Store`](https://itunes.apple.com/app/octopodium/id1077519133) `Swift` 🔥
   <details><summary>https://github.com/nunogoncalves/iOS-OctoPodium</summary>
-  Added February 18, 2016
+  Added February 18, 2016<br>  License: `other`
   </details>
 - Siesta GitHub Browser: Browse and star GitHub repositories using Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
   <details><summary>https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser</summary>
@@ -554,11 +554,11 @@ Projects that are not in English have a flag
  
 - Buck Tracker: Expense tracker [` App Store`](https://itunes.apple.com/app/ibudgeter/id1048395728) `Swift` 
   <details><summary>https://github.com/hkalexling/Buck_Tracker</summary>
-  Added November 16, 2015
+  Added November 16, 2015<br>  License: `other`
   </details>
 - Concurrency: Beautiful, intuitive currency converter [` App Store`](https://itunes.apple.com/app/concurrency/id738872892) 🔥🔥
   <details><summary>https://github.com/nicklockwood/Concurrency</summary>
-  Added January 28, 2015
+  Added January 28, 2015<br>  License: `other`
   </details>
 - doughwallet: Dogecoin wallet [` App Store`](https://itunes.apple.com/app/doughwallet/id951731776) 
   <details><summary>https://github.com/peritus/doughwallet</summary>
@@ -570,7 +570,7 @@ Projects that are not in English have a flag
   </details>
 - Neverlate: Pay-if-U-R-late app using geofences and Venmo API 
   <details><summary>https://github.com/ayunav/Neverlate</summary>
-  Added May 27, 2016
+  Added May 27, 2016<br>  License: `other`
   </details>
 - Savings Assistant: Expense tracker [` App Store`](https://itunes.apple.com/app/savings-assistant/id1022760996) `Swift` 
   <details><summary>https://github.com/chrisamanse/savings-assistant</summary>
@@ -636,7 +636,7 @@ Projects that are not in English have a flag
   </details>
 - Balloon Burst: A simple game to use in learning Cocos2D 
   <details><summary>https://github.com/jamiely/ios-balloon-burst</summary>
-  Added May 16, 2016
+  Added May 16, 2016<br>  License: `other`
   </details>
 - Bridges: A puzzle game with bridges, houses, tolls, and subways [` App Store`](https://itunes.apple.com/app/seven-bridges/id586598714) 🔥
   <details><summary>https://github.com/zgrossbart/bridges</summary>
@@ -644,7 +644,7 @@ Projects that are not in English have a flag
   </details>
 - Canabalt: Infinite runner [` App Store`](https://itunes.apple.com/app/canabalt/id333180061) 🔥🔥🔥🔥
   <details><summary>https://github.com/ericjohnson/canabalt-ios</summary>
-  Added March 26, 2015
+  Added March 26, 2015<br>  License: `other`
   </details>
 - CardsAgainst: Cards Against Humanity app `Swift` 🔥🔥
   <details><summary>https://github.com/jpsim/CardsAgainst</summary>
@@ -656,7 +656,7 @@ Projects that are not in English have a flag
   </details>
 - Chess: Chess game to learn SpriteKit `Swift` 
   <details><summary>https://github.com/mjcuva/Chess</summary>
-  Added July 15, 2015
+  Added July 15, 2015<br>  License: `other`
   </details>
 - Chuck: Throw a ball and catch it, over and over and over [` App Store`](https://itunes.apple.com/app/chuck/id1050453297) 
   <details><summary>https://github.com/moowahaha/Chuck</summary>
@@ -668,7 +668,7 @@ Projects that are not in English have a flag
   </details>
 - Concentration game (翻翻看) `Swift` 🇨🇳🔥
   <details><summary>https://github.com/geek5nan/FanFanSwift</summary>
-  Added May 14, 2015
+  Added May 14, 2015<br>  License: `other`
   </details>
 - Conway's Game of Life: Uses SpriteKit `Swift` 
   <details><summary>https://github.com/yonbergman/swift-gameoflife</summary>
@@ -716,15 +716,15 @@ Projects that are not in English have a flag
   </details>
 - GBA4iOS: Gameboy, Gameboy Color & Gameboy Advance emulator 
   <details><summary>https://bitbucket.org/rileytestut/gba4ios/</summary>
-  Added November 21, 2015
+  Added November 21, 2015<br>  License: `other`
   </details>
 - Gorillas: An iPhone (or iPod touch) port of the popular old QBasic game with spunk! [` App Store`](https://itunes.apple.com/app/gorillas/id302275459) 🔥🔥
   <details><summary>https://github.com/Lyndir/Gorillas</summary>
-  Added March  5, 2016<br>  http://gorillas.lyndir.com/
+  Added March  5, 2016<br>  License: `other`<br>  http://gorillas.lyndir.com/
   </details>
 - GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 `Swift` 
   <details><summary>https://github.com/gamechina/GrubbyWorm</summary>
-  Added January 23, 2016
+  Added January 23, 2016<br>  License: `other`
   </details>
 - Hedgewars: A turn-based strategy game [` App Store`](https://itunes.apple.com/app/id391234866) 
   <details><summary>http://hg.hedgewars.org/hedgewars/</summary>
@@ -744,7 +744,7 @@ Projects that are not in English have a flag
   </details>
 - iLabyrinth: Escape the labyrinth by following limited paths 🔥
   <details><summary>https://github.com/RolandasRazma/iLabyrinth</summary>
-  Added June  1, 2016
+  Added June  1, 2016<br>  License: `other`
   </details>
 - littlego: Play the game of Go on the iPhone or iPad 
   <details><summary>https://github.com/herzbube/littlego</summary>
@@ -804,7 +804,7 @@ Projects that are not in English have a flag
   </details>
 - Spare Parts: Simple 2D point and line physics using Verlet integration [` App Store`](https://itunes.apple.com/app/spare-parts/id981297199) 
   <details><summary>https://github.com/adamwulf/spare-parts-app</summary>
-  Added April  6, 2015
+  Added April  6, 2015<br>  License: `other`
   </details>
 - Stick-Hero-Swift: iPhone/iPad iOS Game using SpriteKit `Swift` 🔥🔥
   <details><summary>https://github.com/phpmaple/Stick-Hero-Swift</summary>
@@ -833,7 +833,7 @@ Projects that are not in English have a flag
  
 - ActiveGS: Apple II/IIGS Emulator with in-app game browser, mFi and iCade controller support 
   <details><summary>https://github.com/ogoguel/activegs-ios</summary>
-  Added May 13, 2016
+  Added May 13, 2016<br>  License: `other`
   </details>
 - DOSPad: DOSBox 
   <details><summary>https://github.com/litchie/dospad</summary>
@@ -853,7 +853,7 @@ Projects that are not in English have a flag
   </details>
 - nds4ios: Nintendo DS emulator, port of DeSmuME 
   <details><summary>https://github.com/raaxis/nds4ios</summary>
-  Added May 14, 2016
+  Added May 14, 2016<br>  License: `other`
   </details>
 - PPSSPP: PSP emulator 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/hrydgard/ppsspp</summary>
@@ -874,7 +874,7 @@ Projects that are not in English have a flag
  
 - Abby's Cycle: A HealthKit powered menstrual cycle tracker `Swift` 
   <details><summary>https://github.com/jc4p/abby-healthkit</summary>
-  Added July 11, 2016
+  Added July 11, 2016<br>  License: `other`
   </details>
 - Arex: Reminders for taking your medications `Swift` 
   <details><summary>https://github.com/a2/arex-7</summary>
@@ -890,7 +890,7 @@ Projects that are not in English have a flag
   </details>
 - HealthKit~Swift: Sample app for `HealthKit` `Swift` 
   <details><summary>https://github.com/Darktt/HealthKit-Swift</summary>
-  Added October 27, 2015
+  Added October 27, 2015<br>  License: `other`
   </details>
 - Speak: AAC & Speech Therapy [` App Store`](https://itunes.apple.com/app/speakability/id784509467) 
   <details><summary>https://github.com/raynesio/speakability</summary>
@@ -903,11 +903,11 @@ Projects that are not in English have a flag
  
 - Jim: Track your gym workouts `Swift` 
   <details><summary>https://github.com/kylejm/Jim</summary>
-  Added January  4, 2016
+  Added January  4, 2016<br>  License: `other`
   </details>
 - LogU: A Strength Logger is a simple logging app for strength athletes [` App Store`](https://itunes.apple.com/app/logu-a-strength-logger/id1084487510) `Swift` 
   <details><summary>https://github.com/brettalcox/logU-swift</summary>
-  Added April 11, 2016
+  Added April 11, 2016<br>  License: `other`
   </details>
 - rTracker: A generic, customizable personal data tracker [` App Store`](https://itunes.apple.com/app/rtracker-track-it-all-your-way/id486541371) 
   <details><summary>https://github.com/rob-miller/rTracker</summary>
@@ -928,7 +928,7 @@ Projects that are not in English have a flag
   </details>
 - Colorblind: ResearchKit app that provides an easy test for colorblind people [` App Store`](https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412) `Swift` 
   <details><summary>https://github.com/boostcode/ResearchKit-ColorBlind</summary>
-  Added May 18, 2016
+  Added May 18, 2016<br>  License: `other`
   </details>
 - GlucoSuccess: ResearchKit app studying Diabetes [` App Store`](https://itunes.apple.com/app/glucosuccess/id972143976) 
   <details><summary>https://github.com/ResearchKit/GlucoSuccess</summary>
@@ -957,11 +957,11 @@ Projects that are not in English have a flag
   </details>
 - ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8 [` App Store`](https://itunes.apple.com/app/click-wheel-keyboard/id993111285) 
   <details><summary>https://github.com/b3ll/ClickWheelKeyboard</summary>
-  Added May 23, 2015
+  Added May 23, 2015<br>  License: `other`
   </details>
 - Hodor: Fun Hodor keyboard `Swift` 
   <details><summary>https://github.com/jonomuller/Hodor-Keyboard</summary>
-  Added December 26, 2015
+  Added December 26, 2015<br>  License: `other`
   </details>
 - NaughtyKeyboard: Keyboard that supports The Big List of Naughty Strings `Swift` 🔥🔥🔥
   <details><summary>https://github.com/Palleas/NaughtyKeyboard</summary>
@@ -990,7 +990,7 @@ Projects that are not in English have a flag
   </details>
 - DoctorNearby: Helps you find doctors in your city [` App Store`](https://itunes.apple.com/app/doctor-nearby/id1068715113) 
   <details><summary>https://github.com/vincezzh/doctornearby-ios</summary>
-  Added July 14, 2016
+  Added July 14, 2016<br>  License: `other`
   </details>
 - Doppio: Finds the nearest Starbucks 🔥🔥🔥
   <details><summary>https://github.com/chroman/Doppio</summary>
@@ -1010,11 +1010,11 @@ Projects that are not in English have a flag
   </details>
 - HopperBus: Timetable for the University of Nottingham Hopper Bus `Swift` 
   <details><summary>https://github.com/TosinAF/HopperBus-iOS</summary>
-  Added January 22, 2016
+  Added January 22, 2016<br>  License: `other`
   </details>
 - iBeaconTasks: iBeacon to-do reminder app using Parse 🔥
   <details><summary>https://github.com/TomekB/iBeaconTasks</summary>
-  Added March  5, 2015
+  Added March  5, 2015<br>  License: `other`
   </details>
 - Locative: Helping you to get the best out of your automated home, geofencing, iBeacons [` App Store`](https://itunes.apple.com/app/locative/id725198453) 🔥
   <details><summary>https://github.com/LocativeHQ/Locative-iOS</summary>
@@ -1034,11 +1034,11 @@ Projects that are not in English have a flag
   </details>
 - Munch: Tinder-styled restaurant recommendations using the Yelp API 
   <details><summary>https://github.com/enochng1/Munch</summary>
-  Added July 28, 2016<br>  ![Munch image 1](https://raw.githubusercontent.com/enochng1/Munch/master/poster-01.png)
+  Added July 28, 2016<br>  License: `other`<br>  ![Munch image 1](https://raw.githubusercontent.com/enochng1/Munch/master/poster-01.png)
   </details>
 - Neverlate: Pay-if-U-R-late app using geofences and Venmo API 
   <details><summary>https://github.com/ayunav/Neverlate</summary>
-  Added May 27, 2016
+  Added May 27, 2016<br>  License: `other`
   </details>
 - OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more [` App Store`](https://itunes.apple.com/app/onebusaway/id329380089) 🔥
   <details><summary>https://github.com/OneBusAway/onebusaway-iphone</summary>
@@ -1050,7 +1050,7 @@ Projects that are not in English have a flag
   </details>
 - OwnTracks: Keep track of your own location, you can build your private location diary or share it with your family and friends 
   <details><summary>https://github.com/owntracks/ios</summary>
-  Added April  3, 2016
+  Added April  3, 2016<br>  License: `other`
   </details>
 - ParkenDD: Check the status of several public parking lots in Germany and Switzerland [` App Store`](https://itunes.apple.com/app/parkendd/id957165041) `Swift` 
   <details><summary>https://github.com/kiliankoe/ParkenDD</summary>
@@ -1058,7 +1058,7 @@ Projects that are not in English have a flag
   </details>
 - pathlogger: GPS logging app `Swift` 
   <details><summary>https://github.com/eugenpirogoff/pathlogger</summary>
-  Added July 20, 2015
+  Added July 20, 2015<br>  License: `other`
   </details>
 - PebCiti: Pebble app to show nearest CitiBike NYC dock 
   <details><summary>https://github.com/joemasilotti/PebCiti</summary>
@@ -1078,7 +1078,7 @@ Projects that are not in English have a flag
   </details>
 - Swift-Walk-Tracker: Track your walks `Swift` 
   <details><summary>https://github.com/kevinvanderlugt/Swift-Walk-Tracker</summary>
-  Added June  7, 2015
+  Added June  7, 2015<br>  License: `other`
   </details>
 - Traccar Client: Report device location to the server [` App Store`](https://itunes.apple.com/us/app/traccar-client/id843156974) 
   <details><summary>https://github.com/tananaev/traccar-client-ios</summary>
@@ -1131,7 +1131,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - ColorBlur: Add blur to your photos [` App Store`](https://itunes.apple.com/app/id928863510) 
   <details><summary>https://github.com/maurovc/ColorBlur</summary>
-  Added March 16, 2015
+  Added March 16, 2015<br>  License: `other`
   </details>
 - ComicFlow: Comic reader for iPad [` App Store`](https://itunes.apple.com/app/comicflow/id409290355) 🔥🔥
   <details><summary>https://github.com/swisspol/ComicFlow</summary>
@@ -1167,11 +1167,11 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Filterpedia: Core Image Filter explorer `Swift` 🔥🔥🔥🔥
   <details><summary>https://github.com/FlexMonkey/Filterpedia</summary>
-  Added January  7, 2016
+  Added January  7, 2016<br>  License: `other`
   </details>
 - Flickr-Search: Simple app which consumes the Flickr Search API 
   <details><summary>https://github.com/alikaragoz/Flickr-Search</summary>
-  Added February  4, 2015
+  Added February  4, 2015<br>  License: `other`
   </details>
 - FreeStreamer: A low-memory footprint streaming audio player 🔥🔥🔥🔥
   <details><summary>https://github.com/muhku/FreeStreamer</summary>
@@ -1195,7 +1195,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - KonaBot: Unofficial app for konachan.net [` App Store`](https://itunes.apple.com/app/konabot/id1055716649) `Swift` 
   <details><summary>https://github.com/hkalexling/KonaBot-iOS</summary>
-  Added December  3, 2015
+  Added December  3, 2015<br>  License: `other`
   </details>
 - LidderbuchApp: Songbook for Luxembourgish Students [` App Store`](https://itunes.apple.com/app/lidderbuch/id997143407) `Swift` 🇱🇺
   <details><summary>https://github.com/AcelLuxembourg/LidderbuchApp</summary>
@@ -1207,11 +1207,11 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Megabite: Turn a photo of your food into a face 🔥🔥
   <details><summary>https://github.com/AaronRandall/Megabite</summary>
-  Added February  2, 2016
+  Added February  2, 2016<br>  License: `other`
   </details>
 - Meme Maker: Create and share memes! [` App Store`](https://itunes.apple.com/app/id962121383) `Swift` 
   <details><summary>https://github.com/MemeMaker/Meme-Maker-iOS</summary>
-  Added June  6, 2016
+  Added June  6, 2016<br>  License: `other`
   </details>
 - MiamiSunglasses: Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH) `Swift` 
   <details><summary>https://github.com/DeveloperACE/MiamiSunglasses</summary>
@@ -1231,7 +1231,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - OCiney: Movie info app [` App Store`](https://itunes.apple.com/app/id955480687) 🔥🔥
   <details><summary>https://github.com/florent37/OCiney-iOS</summary>
-  Added March  3, 2015
+  Added March  3, 2015<br>  License: `other`
   </details>
 - Open Source Selfie Stick: Sync two iOS devices and use one as a remote control for the other's camera! [` App Store`](https://itunes.apple.com/app/id1084487132) 
   <details><summary>https://github.com/RF-Nelson/open-source-selfie-stick</summary>
@@ -1247,11 +1247,11 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - PhishOD: Listen to any song from Phish.in and view concert ratings and reviews from phish.net [` App Store`](https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018) 
   <details><summary>https://github.com/alecgorge/PhishOD-iOS</summary>
-  Added June 26, 2015
+  Added June 26, 2015<br>  License: `other`
   </details>
 - PhotoBrowser: A simple iOS Instagram photo browser `Swift` 🔥🔥
   <details><summary>https://github.com/MoZhouqi/PhotoBrowser</summary>
-  Added March 31, 2015
+  Added March 31, 2015<br>  License: `other`
   </details>
 - Pictograph: Hide messages in images using steganography [` App Store`](https://itunes.apple.com/us/app/id1051879856) `Swift` 
   <details><summary>https://github.com/MrAdamBoyd/Pictograph</summary>
@@ -1259,7 +1259,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - PopcornTime: PopcornTime movie app `Swift` 🔥
   <details><summary>https://github.com/danylokostyshyn/popcorntime-ios</summary>
-  Added May 20, 2015
+  Added May 20, 2015<br>  License: `other`
   </details>
 - Poppins: House all your favorite GIFs and easily share them with your friends and family [` App Store`](https://itunes.apple.com/app/poppins/id978854068) `Swift` 🔥
   <details><summary>https://github.com/thoughtbot/poppins</summary>
@@ -1275,7 +1275,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Pugs: Simple pug photo viewer `Swift` 
   <details><summary>https://github.com/soffes/Pugs</summary>
-  Added January 25, 2016
+  Added January 25, 2016<br>  License: `other`
   </details>
 - Radio Paradise: Official app for http://www.radioparadise.com/ [` App Store`](https://itunes.apple.com/app/id663334697) 
   <details><summary>https://github.com/ilTofa/rposx</summary>
@@ -1283,7 +1283,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
   <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
-  Added May 11, 2016
+  Added May 11, 2016<br>  License: `other`
   </details>
 - RealmVideo: Watch Realm videos & slides on your phone `Swift` 🔥🔥
   <details><summary>https://github.com/BalestraPatrick/RealmVideo</summary>
@@ -1293,7 +1293,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/Ciechan/Revolved</summary>
   Added March  5, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
-- screenshotter: Organize & manage screenshots you take with your iPhone. [` App Store`](https://itunes.apple.com/app/screenshotter-organize-manage/id826596892) 
+- screenshotter: Organize & manage screenshots you take with your iPhone [` App Store`](https://itunes.apple.com/app/screenshotter-organize-manage/id826596892) 
   <details><summary>https://github.com/LaunchKit/screenshotter</summary>
   Added July 28, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  ![screenshotter image 1](https://camo.githubusercontent.com/ab02fd356e17f9d3de7ebdb367a08ef97f279c4c/687474703a2f2f73637265656e73686f747465722e6e65742f6c69622f696d616765732f6970686f6e652e706e67)
   </details>
@@ -1319,7 +1319,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - SwiftSpace: CoreMotion Controlled Drawing in 3D Space `Swift` 
   <details><summary>https://github.com/FlexMonkey/SwiftSpace</summary>
-  Added September  1, 2015
+  Added September  1, 2015<br>  License: `other`
   </details>
 - Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures `Swift` 
   <details><summary>https://github.com/vanyaland/Tagger</summary>
@@ -1327,11 +1327,11 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - TechTavta: Keep track of all events for Techtatva 2015 [` App Store`](https://itunes.apple.com/app/techtatva15/id922178880) 
   <details><summary>https://github.com/LUGM/TechTatva-15</summary>
-  Added April 19, 2016
+  Added April 19, 2016<br>  License: `other`
   </details>
 - Textbook: textbooks from People's Education Press in China [` App Store`](https://itunes.apple.com/app/ke-ben/id993244460) `Swift` 🇨🇳
   <details><summary>https://github.com/JohnWong/textbook</summary>
-  Added February 17, 2016
+  Added February 17, 2016<br>  License: `other`
   </details>
 - That Movie With: Find common movies among actors [` App Store`](https://itunes.apple.com/app/that-movie-with/id892972135) 
   <details><summary>https://github.com/jayhickey/thatmoviewith</summary>
@@ -1372,7 +1372,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Designer News App [` App Store`](https://itunes.apple.com/app/designer-news-app/id879990495) `Swift` 🔥🔥🔥🔥
   <details><summary>https://github.com/MengTo/DesignerNewsApp</summary>
-  Added March 15, 2015
+  Added March 15, 2015<br>  License: `other`
   </details>
 - Feeds4U: Well architected RSS reader [` App Store`](https://itunes.apple.com/app/feeds4u/id1038456442) `Swift` 
   <details><summary>https://github.com/EvgenyKarkan/Feeds4U</summary>
@@ -1384,7 +1384,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - LobsterApp: Browse the lobste.rs community news site 
   <details><summary>https://github.com/rpowelll/LobsterApp</summary>
-  Added July 21, 2016
+  Added July 21, 2016<br>  License: `other`
   </details>
 - NirZhihuDaily2.0 🇨🇳🔥🔥🔥🔥
   <details><summary>https://github.com/zpz1237/NirZhihuDaily2.0</summary>
@@ -1400,7 +1400,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - SwiftBlog: Read the official Apple Swift Blog via RSS `Swift` 
   <details><summary>https://github.com/BalestraPatrick/SwiftBlog</summary>
-  Added June 21, 2016
+  Added June 21, 2016<br>  License: `other`
   </details>
 - TabDump: TabDump news app 
   <details><summary>https://github.com/dkhamsing/TabDump</summary>
@@ -1429,7 +1429,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - HackerNews (Y): Built using pure Objective-C with official HN API (uses Firebase and Fabric) [` App Store`](https://itunes.apple.com/app/hacker-news-y/id1027140113) 
   <details><summary>https://github.com/vetri02/HackerNews</summary>
-  Added October 14, 2015
+  Added October 14, 2015<br>  License: `other`
   </details>
 - Hackers `Swift` 🔥🔥
   <details><summary>https://github.com/weiran/Hackers</summary>
@@ -1453,7 +1453,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Simple Reader [` App Store`](https://itunes.apple.com/app/simple-reader-free-open-source/id1000995253) 🔥
   <details><summary>https://github.com/rnystrom/HackerNewsReader</summary>
-  Added October 21, 2015
+  Added October 21, 2015<br>  License: `other`
   </details>
 
 ## Official 
@@ -1523,7 +1523,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 - ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
   <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
-  Added May 11, 2016
+  Added May 11, 2016<br>  License: `other`
   </details>
 - Siesta GitHub Browser: Browse and star GitHub repositories using Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
   <details><summary>https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser</summary>
@@ -1536,7 +1536,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 - BrewMobile: App for managing the beer brewing process `Swift` 🔥
   <details><summary>https://github.com/brewfactory/BrewMobile</summary>
-  Added September 10, 2015
+  Added September 10, 2015<br>  License: `other`
   </details>
 - C-41: Make developing film easier and more reliable by using this simple timer [` App Store`](https://itunes.apple.com/app/c-41/id789924103) 🔥🔥🔥🔥
   <details><summary>https://github.com/ashfurrow/C-41</summary>
@@ -1560,7 +1560,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - ReactiveSwiftFlickrSearch: A Flickr-search app that uses MVVM & ReactiveCocoa `Swift` 🔥🔥
   <details><summary>https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch</summary>
-  Added February  4, 2015
+  Added February  4, 2015<br>  License: `other`
   </details>
 - SimpleAuth: Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥🔥
   <details><summary>https://github.com/calebd/SimpleAuth</summary>
@@ -1568,7 +1568,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - SwiftRACGoogleImages: Google image search using RAC 4.0 and Swift 2.1 `Swift` 
   <details><summary>https://github.com/Adlai-Holler/SwiftRACGoogleImages</summary>
-  Added January 20, 2016
+  Added January 20, 2016<br>  License: `other`
   </details>
 - Tropos: A weather app using ReactiveCocoa and Forecast.io [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376) 🔥🔥🔥🔥
   <details><summary>https://github.com/thoughtbot/Tropos</summary>
@@ -1597,7 +1597,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - RxMarbles: Interactive diagrams of Rx Observables [` App Store`](https://itunes.apple.com/us/app/rxmarbles/id1087272442) `Swift` 
   <details><summary>https://github.com/RxSwiftCommunity/RxMarbles</summary>
-  Added June 29, 2016
+  Added June 29, 2016<br>  License: `other`
   </details>
 - Tweetometer: See who is tweeting in your timeline `Swift` 
   <details><summary>https://github.com/BalestraPatrick/Tweetometer</summary>
@@ -1610,11 +1610,11 @@ Image, video, audio, reading — [back to top](#readme)
  
 - Apple Developer Library 
   <details><summary>https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code</summary>
-  Added March 24, 2015
+  Added March 24, 2015<br>  License: `other`
   </details>
 - Apple WWDC 2015: Code samples from WWDC 2015 
   <details><summary>https://developer.apple.com/sample-code/wwdc/2015/</summary>
-  Added July 16, 2015
+  Added July 16, 2015<br>  License: `other`
   </details>
 - Cannonball: Fun way to create and share stories and poems using Fabric [` App Store`](https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075) `Swift` 🔥🔥
   <details><summary>https://github.com/twitterdev/cannonball-ios</summary>
@@ -1630,7 +1630,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Federal Data SDK `Swift` 
   <details><summary>https://github.com/USDepartmentofLabor/Swift-Sample-App</summary>
-  Added April 14, 2015
+  Added April 14, 2015<br>  License: `other`
   </details>
 - Furni: Furniture store demo app using Fabric `Swift` 🔥🔥🔥
   <details><summary>https://github.com/twitterdev/furni-ios</summary>
@@ -1674,7 +1674,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
   <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
-  Added May 11, 2016
+  Added May 11, 2016<br>  License: `other`
   </details>
 - Reusable Code `Swift` 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/carlbtrn/Swift</summary>
@@ -1686,7 +1686,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - SafariAutoLoginTest: Demo showing how to auto-login users in iOS 9 using Safari cookies `Swift` 🔥🔥
   <details><summary>https://github.com/mackuba/SafariAutoLoginTest</summary>
-  Added April 22, 2016
+  Added April 22, 2016<br>  License: `other`
   </details>
 - Siesta GitHub Browser: Browse and star GitHub repositories using Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
   <details><summary>https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser</summary>
@@ -1702,7 +1702,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Swift-Demos `Swift` 🇨🇳🔥🔥🔥🔥
   <details><summary>https://github.com/Lax/iOS-Swift-Demos</summary>
-  Added April 22, 2016
+  Added April 22, 2016<br>  License: `other`
   </details>
 
 ## Science 
@@ -1711,7 +1711,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 - Molecules: Visualize molecules in 3D [` App Store`](https://itunes.apple.com/app/molecules/id284943090) 
   <details><summary>http://www.sunsetlakesoftware.com/molecules</summary>
-  Added May 31, 2016
+  Added May 31, 2016<br>  License: `other`
   </details>
 - NumberPad: An experimental prototype calculator for iPad 
   <details><summary>https://github.com/bridger/NumberPad</summary>
@@ -1748,7 +1748,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Onions: Cloud encrypted notes [` App Store`](https://itunes.apple.com/app/onions/id687296481) 
   <details><summary>https://github.com/onionsapp/Onions-iOS</summary>
-  Added January 27, 2015
+  Added January 27, 2015<br>  License: `other`
   </details>
 - Potatso: App that implements Shadowsocks proxy [` App Store`](https://itunes.apple.com/app/id1070901416) `Swift` 🇨🇳🔥🔥🔥🔥
   <details><summary>https://github.com/shadowsocks/Potatso</summary>
@@ -1764,7 +1764,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - SkeletonKey: iPhone password manager with Dropbox [` App Store`](https://itunes.apple.com/app/skeleton-key-password-manager/id513648119) 
   <details><summary>https://github.com/chrishulbert/SkeletonKey</summary>
-  Added March 31, 2016
+  Added March 31, 2016<br>  License: `other`
   </details>
 - ZeroStore: password storage without the storage 
   <details><summary>https://github.com/kylebshr/zerostore-ios</summary>
@@ -1789,15 +1789,15 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Peggsite: App for sharing a social board [` App Store`](https://itunes.apple.com/app/peggsite/id938445951) 
   <details><summary>https://github.com/jenduf/GenericSocialApp</summary>
-  Added March 17, 2015
+  Added March 17, 2015<br>  License: `other`
   </details>
 - Post Manager: Post/schedule Twitter posts like Buffer + node.js backend + share extension `Swift` 
   <details><summary>https://github.com/TomekB/PostManager</summary>
-  Added July 15, 2016
+  Added July 15, 2016<br>  License: `other`
   </details>
 - StreetMusicMap: Is a collaborative global community that connects street musicians, fans and videomakers [` App Store`](https://itunes.apple.com/app/street-music-map/id980068735) 
   <details><summary>https://github.com/henriquevelloso/StreetMusicMap</summary>
-  Added April 20, 2016
+  Added April 20, 2016<br>  License: `other`
   </details>
 - Yep: Discover talent and build something together [` App Store`](https://itunes.apple.com/app/yep-meet-genius/id983891256) `Swift` 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/CatchChat/Yep</summary>
@@ -1810,7 +1810,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 - 1Trackr: Log your community service hours to the cloud using Parse [` App Store`](https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630) 
   <details><summary>https://github.com/JerryHDev/1Trackr</summary>
-  Added April 11, 2016
+  Added April 11, 2016<br>  License: `other`
   </details>
 - CloudKit-To-Do-List: Store & retrieve tasks using `CloudKit` `Swift` 
   <details><summary>https://github.com/anthonygeranio/CloudKit-To-Do-List</summary>
@@ -1826,11 +1826,11 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - RealmToDo: A small to-do list with Realm integration `Swift` 
   <details><summary>https://github.com/pietbrauer/RealmToDo</summary>
-  Added July 31, 2015
+  Added July 31, 2015<br>  License: `other`
   </details>
 - Swift Off: Firebase powered to-do app, includes tutorial `Swift` 
   <details><summary>https://github.com/goprimer/swift-off-todo</summary>
-  Added April 22, 2016
+  Added April 22, 2016<br>  License: `other`
   </details>
 - Task Coach: A simple to-do manager designed for composite tasks [` App Store`](https://itunes.apple.com/app/task-coach/id311403563) 
   <details><summary>https://sourceforge.net/projects/taskcoach/</summary>
@@ -1842,7 +1842,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Todo `Swift` 🔥
   <details><summary>https://github.com/JakeLin/Todo</summary>
-  Added November 30, 2015
+  Added November 30, 2015<br>  License: `other`
   </details>
 - Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place [` App Store`](https://itunes.apple.com/app/todo.txt-touch/id491342186) 🔥🔥
   <details><summary>https://github.com/ginatrapani/todo.txt-ios</summary>
@@ -1859,7 +1859,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Onions: Cloud encrypted notes [` App Store`](https://itunes.apple.com/app/onions/id687296481) 
   <details><summary>https://github.com/onionsapp/Onions-iOS</summary>
-  Added January 27, 2015
+  Added January 27, 2015<br>  License: `other`
   </details>
 - Sentiments: Analyzes text for positive or negative sentiment `Swift` 🔥
   <details><summary>https://github.com/kyleweiner/Sentiments</summary>
@@ -1900,7 +1900,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Themoji: Use Emojis to communicate while traveling 
   <details><summary>https://github.com/themoji/ios</summary>
-  Added July 12, 2016<br>  https://themoji.me/
+  Added July 12, 2016<br>  License: `other`<br>  https://themoji.me/
   </details>
 
 ## Weather 
@@ -1945,7 +1945,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - YoCelsius [` App Store`](https://itunes.apple.com/app/yocelsius/id967721892) 🔥🔥🔥🔥
   <details><summary>https://github.com/YouXianMing/YoCelsius</summary>
-  Added June  3, 2015
+  Added June  3, 2015<br>  License: `other`
   </details>
 
 ## Web 
@@ -1954,7 +1954,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 - Kiwix: An offline reader for Wikipedia (& many other websites) [` App Store`](https://itunes.apple.com/app/id997079563) `Swift` 
   <details><summary>https://github.com/kiwix/iOS</summary>
-  Added June  2, 2016<br>  http://www.kiwix.org/wiki/Main_Page
+  Added June  2, 2016<br>  License: `other`<br>  http://www.kiwix.org/wiki/Main_Page
   </details>
 - PHPHub: iPhone/iPad app for PHPHub Forum [` App Store`](https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564) 🇨🇳🔥🔥🔥
   <details><summary>https://github.com/Aufree/phphub-ios</summary>
@@ -1962,7 +1962,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - ProMonster: Store [` App Store`](https://itunes.apple.com/app/promonster/id919649318) 🇵🇹
   <details><summary>https://github.com/usemobile/promonster-ios</summary>
-  Added October 18, 2015
+  Added October 18, 2015<br>  License: `other`
   </details>
 - QiitaCollection: Technical knowledge sharing and collaboration platform [` App Store`](https://itunes.apple.com/app/kitakore-for-qiita/id973532800) 🇯🇵
   <details><summary>https://github.com/anzfactory/QiitaCollection</summary>
@@ -1980,11 +1980,11 @@ Image, video, audio, reading — [back to top](#readme)
  
 - ForceSketch: Sketching app using 3D Touch 
   <details><summary>https://github.com/FlexMonkey/ForceSketch</summary>
-  Added October 28, 2015
+  Added October 28, 2015<br>  License: `other`
   </details>
 - Plum-O-Meter: 3D Touch app for weighing plums (and other small fruit!) `Swift` 🔥🔥
   <details><summary>https://github.com/FlexMonkey/Plum-O-Meter</summary>
-  Added October 27, 2015
+  Added October 27, 2015<br>  License: `other`
   </details>
 
 ### Appcelerator 
@@ -2006,7 +2006,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Nested Lists 🔥
   <details><summary>https://github.com/objcio/issue-4-full-core-data-application</summary>
-  Added August  7, 2015
+  Added August  7, 2015<br>  License: `other`
   </details>
 - Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures `Swift` 
   <details><summary>https://github.com/vanyaland/Tagger</summary>
@@ -2014,7 +2014,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Tasks: Designed to quickly and easily add tasks to your iPhone [` App Store`](https://itunes.apple.com/app/task-application/id960435759) `Swift` 
   <details><summary>https://github.com/mbcrump/TasksForSwiftWithPersistingData</summary>
-  Added March  5, 2015
+  Added March  5, 2015<br>  License: `other`
   </details>
 
 ### Firebase 
@@ -2031,7 +2031,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - HackerNews (Y): Built using pure Objective-C with official HN API (uses Firebase and Fabric) [` App Store`](https://itunes.apple.com/app/hacker-news-y/id1027140113) 
   <details><summary>https://github.com/vetri02/HackerNews</summary>
-  Added October 14, 2015
+  Added October 14, 2015<br>  License: `other`
   </details>
 - how-much: Simple app to record how much things cost using Parse or Firebase 
   <details><summary>https://github.com/dkhamsing/how-much</summary>
@@ -2039,7 +2039,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Swift Off: Firebase powered to-do app, includes tutorial `Swift` 
   <details><summary>https://github.com/goprimer/swift-off-todo</summary>
-  Added April 22, 2016
+  Added April 22, 2016<br>  License: `other`
   </details>
 
 ### [Ionic](http://ionicframework.com/) 
@@ -2061,11 +2061,11 @@ Image, video, audio, reading — [back to top](#readme)
  
 - 1Trackr: Log your community service hours to the cloud using Parse [` App Store`](https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630) 
   <details><summary>https://github.com/JerryHDev/1Trackr</summary>
-  Added April 11, 2016
+  Added April 11, 2016<br>  License: `other`
   </details>
 - 2CITY: Find out the coolest things to do in your city [` App Store`](https://itunes.apple.com/app/2city/id944632470) 
   <details><summary>https://github.com/2city/2CITY-iOS</summary>
-  Added October 12, 2015
+  Added October 12, 2015<br>  License: `other`
   </details>
 - Anypic in Objective-C: Mobile and web app that lets users share photos similar to Instagram [` App Store`](https://itunes.apple.com/app/anypic/id539741538) 🔥🔥🔥🔥
   <details><summary>https://github.com/ParsePlatform/Anypic</summary>
@@ -2085,15 +2085,15 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - iBeaconTasks: iBeacon to-do reminder app using Parse 🔥
   <details><summary>https://github.com/TomekB/iBeaconTasks</summary>
-  Added March  5, 2015
+  Added March  5, 2015<br>  License: `other`
   </details>
 - Jim: Track your gym workouts `Swift` 
   <details><summary>https://github.com/kylejm/Jim</summary>
-  Added January  4, 2016
+  Added January  4, 2016<br>  License: `other`
   </details>
 - Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video [` App Store`](https://itunes.apple.com/app/lets-challenge-me/id944004497) 🔥
   <details><summary>https://github.com/TomekB/Parse-Challenge-App</summary>
-  Added March  5, 2015
+  Added March  5, 2015<br>  License: `other`
   </details>
 - ParseStore: Backend provider for selling physical goods using Parse [` App Store`](https://itunes.apple.com/app/parse-store/id613679907) 🔥
   <details><summary>https://github.com/ParsePlatform/ParseStore</summary>
@@ -2101,11 +2101,11 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Paws: Building an Instagram-Like App with Parse `Swift` 
   <details><summary>http://www.appcoda.com/instagram-app-parse-swift/</summary>
-  Added April 17, 2015
+  Added April 17, 2015<br>  License: `other`
   </details>
 - RaceMe: Run tracking + ghosting `Swift` 
   <details><summary>https://github.com/enochng1/RaceMe</summary>
-  Added July 20, 2016
+  Added July 20, 2016<br>  License: `other`
   </details>
 - Wizard War: Cast spells in single or multiplayer wizard duels 🔥🔥🔥
   <details><summary>https://github.com/seanhess/wizardwar</summary>
@@ -2118,7 +2118,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 - 2048: App by Facebook 
   <details><summary>https://github.com/facebook/react-native/tree/master/Examples/2048</summary>
-  Added February  5, 2016
+  Added February  5, 2016<br>  License: `other`
   </details>
 - allyoop: NBA game scores 🔥🔥🔥
   <details><summary>https://github.com/wwayne/react-native-nba-app</summary>
@@ -2126,11 +2126,11 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Around Me: Display Instagram photos around your location 
   <details><summary>https://github.com/bgryszko/react-native-example</summary>
-  Added October 13, 2015
+  Added October 13, 2015<br>  License: `other`
   </details>
 - Assemblies: Developer-focused Meetup clone 🔥
   <details><summary>https://github.com/buildreactnative/assemblies</summary>
-  Added May  2, 2016
+  Added May  2, 2016<br>  License: `other`
   </details>
 - Calculator: React Native calculator 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/benoitvallon/react-native-nw-react-calculator</summary>
@@ -2150,11 +2150,11 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - F8 2016: Official F8 app 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/fbsamples/f8app</summary>
-  Added April 14, 2016
+  Added April 14, 2016<br>  License: `other`
   </details>
 - Facebook Login 🔥🔥
   <details><summary>https://github.com/brentvatne/react-native-login</summary>
-  Added April 14, 2015
+  Added April 14, 2015<br>  License: `other`
   </details>
 - Finance: iOS's Stocks app written in React Native 🔥🔥🔥
   <details><summary>https://github.com/7kfpun/FinanceReactNative</summary>
@@ -2162,7 +2162,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Foreign Exchange 
   <details><summary>https://github.com/peralmq/ForeignExchangeApp</summary>
-  Added July 24, 2015
+  Added July 24, 2015<br>  License: `other`
   </details>
 - HackerNews-React-Native [` App Store`](https://itunes.apple.com/app/hacker-news-reader-react-native/id1067161633) 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/iSimar/HackerNews-React-Native</summary>
@@ -2174,15 +2174,15 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - iTunes Catalog Search 
   <details><summary>https://github.com/alexissan/ReactNativeWorkshop</summary>
-  Added June 13, 2015
+  Added June 13, 2015<br>  License: `other`
   </details>
 - london-react 
   <details><summary>https://github.com/JoeStanton/london-react</summary>
-  Added August  2, 2015
+  Added August  2, 2015<br>  License: `other`
   </details>
 - Movies: App by Facebook 
   <details><summary>https://github.com/facebook/react-native/tree/master/Examples/Movies</summary>
-  Added February  5, 2016
+  Added February  5, 2016<br>  License: `other`
   </details>
 - NBAreact: NBA stats and standings 
   <details><summary>https://github.com/jbkuczma/NBAreact</summary>
@@ -2190,7 +2190,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - newswatch: News app using YouTube playlists 
   <details><summary>https://github.com/bradoyler/newswatch-react-native</summary>
-  Added May 15, 2015
+  Added May 15, 2015<br>  License: `other`
   </details>
 - Nortal TechDay 2015 🔥
   <details><summary>https://github.com/mikkoj/NortalTechDay</summary>
@@ -2202,43 +2202,43 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - PocketNode: Lightweight Node REPL 
   <details><summary>https://github.com/mzabriskie/PocketNode</summary>
-  Added February  4, 2016
+  Added February  4, 2016<br>  License: `other`
   </details>
 - Product Kitty: Product Hunt app 🔥
   <details><summary>https://github.com/rkho/product-kitty</summary>
-  Added September  2, 2015
+  Added September  2, 2015<br>  License: `other`
   </details>
 - Property Finder 🔥🔥
   <details><summary>https://github.com/ColinEberhardt/ReactNative-PropertyFinder</summary>
-  Added April 10, 2015
+  Added April 10, 2015<br>  License: `other`
   </details>
 - ReactNativeHackerNews 🔥
   <details><summary>https://github.com/jsdf/ReactNativeHackerNews</summary>
-  Added March 30, 2016
+  Added March 30, 2016<br>  License: `other`
   </details>
 - RSS Reader 
   <details><summary>https://github.com/christopherdro/react-native-rss-reader</summary>
-  Added June 22, 2015
+  Added June 22, 2015<br>  License: `other`
   </details>
 - Songkick 
   <details><summary>https://github.com/ArnaudRinquin/sk-react-native</summary>
-  Added October 27, 2015
+  Added October 27, 2015<br>  License: `other`
   </details>
 - Spacepics: A small app displaying NASA's Picture of the Day 
   <details><summary>https://github.com/campezzi/react-native-spacepics</summary>
-  Added May 26, 2015
+  Added May 26, 2015<br>  License: `other`
   </details>
 - Sudoku 
   <details><summary>https://github.com/christopherdro/react-native-sudoku</summary>
-  Added March 10, 2016
+  Added March 10, 2016<br>  License: `other`
   </details>
 - TicTacToe: App by Facebook 
   <details><summary>https://github.com/facebook/react-native/tree/master/Examples/TicTacToe</summary>
-  Added February  5, 2016
+  Added February  5, 2016<br>  License: `other`
   </details>
 - To Do List 
   <details><summary>https://github.com/joemaddalone/react-native-todo</summary>
-  Added June 20, 2016
+  Added June 20, 2016<br>  License: `other`
   </details>
 - To Do List (Redux): React Native to-do List app which uses Redux for managing app state 
   <details><summary>https://github.com/uiheros/react-native-redux-todo-list</summary>
@@ -2246,11 +2246,11 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Twitch 
   <details><summary>https://github.com/IFours/react-native-twitch</summary>
-  Added February  4, 2016
+  Added February  4, 2016<br>  License: `other`
   </details>
 - UIExplorer: App by Facebook 
   <details><summary>https://github.com/facebook/react-native/tree/master/Examples/UIExplorer</summary>
-  Added February  5, 2016
+  Added February  5, 2016<br>  License: `other`
   </details>
 - Weather by JakeLin 
   <details><summary>https://github.com/JakeLin/ReactNativeWeather</summary>
@@ -2279,11 +2279,11 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - RaceMe: Run tracking + ghosting `Swift` 
   <details><summary>https://github.com/enochng1/RaceMe</summary>
-  Added July 20, 2016
+  Added July 20, 2016<br>  License: `other`
   </details>
 - RealmToDo: A small to-do list with Realm integration `Swift` 
   <details><summary>https://github.com/pietbrauer/RealmToDo</summary>
-  Added July 31, 2015
+  Added July 31, 2015<br>  License: `other`
   </details>
 
 ### [VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/) 
@@ -2296,7 +2296,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Contacts 
   <details><summary>https://github.com/sebastianwr/VIPER-Persons</summary>
-  Added February  8, 2016
+  Added February  8, 2016<br>  License: `other`
   </details>
 - Counter 🔥🔥
   <details><summary>https://github.com/mutualmobile/Counter</summary>
@@ -2334,7 +2334,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - bar: Cocktail menu `Swift` 
   <details><summary>https://github.com/soffes/bar</summary>
-  Added January 26, 2015
+  Added January 26, 2015<br>  License: `other`
   </details>
 - Be my eyes: Connect blind people with volunteer helpers via live video chat [` App Store`](https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575) 🔥🔥
   <details><summary>https://github.com/bemyeyes/bemyeyes-ios</summary>
@@ -2346,7 +2346,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Borrowed Books UFGRS: Manage ufrgs.br library books using `Alamofire` `Swift` 🇵🇹
   <details><summary>https://github.com/MatheusCavalca/RenovaLivrosUFRGS</summary>
-  Added March 20, 2016
+  Added March 20, 2016<br>  License: `other`
   </details>
 - CardDecks: Configurable card decks 
   <details><summary>https://github.com/aharren/CardDecks</summary>
@@ -2370,11 +2370,11 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - GammaThingy: Change screen gamma dynamically 🔥🔥🔥
   <details><summary>https://github.com/thomasfinch/GammaThingy</summary>
-  Added November 21, 2015
+  Added November 21, 2015<br>  License: `other`
   </details>
 - GoodNight: Change screen gamma dynamically 🔥🔥🔥
   <details><summary>https://github.com/anthonya1999/GoodNight</summary>
-  Added December 23, 2015
+  Added December 23, 2015<br>  License: `other`
   </details>
 - Hackfoldr: Hackfoldr is your hacking briefcase, share all your project documents with a url [` App Store`](https://itunes.apple.com/app/hackfoldr/id919010837) 
   <details><summary>https://github.com/hackfoldr/hackfoldr-iOS</summary>
@@ -2382,7 +2382,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Hidrate: Interacts with smart water bottle 
   <details><summary>https://github.com/mjcuva/Hidrate</summary>
-  Added May  3, 2016
+  Added May  3, 2016<br>  License: `other`
   </details>
 - iContactU: Reminds you to contact people you ought to [` App Store`](https://itunes.apple.com/app/icontactu/id920200100) `Swift` 🔥
   <details><summary>https://github.com/rizal72/iContactU</summary>
@@ -2394,7 +2394,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - iGrades: Track your class grades [` App Store`](https://itunes.apple.com/app/id816987574) 
   <details><summary>https://github.com/maurovc/iGrades</summary>
-  Added March 16, 2015
+  Added March 16, 2015<br>  License: `other`
   </details>
 - Jupp: App with share extension for ADN [` App Store`](https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740) `Swift` 
   <details><summary>https://github.com/dasdom/Jupp</summary>
@@ -2422,7 +2422,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - OpenIt: Notification widget to launch other apps from the notification center 
   <details><summary>https://github.com/BalestraPatrick/OpenIt</summary>
-  Added June  7, 2016
+  Added June  7, 2016<br>  License: `other`
   </details>
 - ownCloud: File browser and sync for ownCloud file hosting service [` App Store`](https://itunes.apple.com/app/owncloud/id543672169) 🔥🔥
   <details><summary>https://github.com/owncloud/ios</summary>
@@ -2446,7 +2446,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Swiflytics: See your realtime Google Analytics data [` App Store`](https://itunes.apple.com/app/swiflytics/id1076165139) `Swift` 
   <details><summary>https://github.com/aciidb0mb3r/Swiflytics</summary>
-  Added April 26, 2016
+  Added April 26, 2016<br>  License: `other`
   </details>
 - Tether: Tethering for non-jailbroken iOS Devices over USB 
   <details><summary>https://github.com/chrisballinger/Tether-iOS</summary>
@@ -2474,7 +2474,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - WWDC Students: WWDC scholarship entries `Swift` 🔥
   <details><summary>https://github.com/wwdc</summary>
-  Added March 21, 2016
+  Added March 21, 2016<br>  License: `other`
   </details>
 - YaleMobile: App for Yale University students [` App Store`](https://itunes.apple.com/app/yale-mobile/id497588523) 
   <details><summary>https://github.com/kiokoo/YaleMobile</summary>
@@ -2528,11 +2528,11 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Population Clock: Learn about geography and demographics [` App Store`](https://itunes.apple.com/app/population-clock-hd/id590689957) 
   <details><summary>https://github.com/Netfilter-Com/PopulationClock</summary>
-  Added March  2, 2016
+  Added March  2, 2016<br>  License: `other`
   </details>
 - SwiftTextClock: Inspired by the beautiful QlockTwo `Swift` 
   <details><summary>https://github.com/MichMich/SwiftTextClock</summary>
-  Added June 18, 2016
+  Added June 18, 2016<br>  License: `other`
   </details>
 
 ### Timer 
