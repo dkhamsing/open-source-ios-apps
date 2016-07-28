@@ -6454,7 +6454,7 @@
     {
       "title": "screenshotter",
       "category": "media",
-      "description": "Organize & manage screenshots you take with your iPhone.",
+      "description": "Organize & manage screenshots you take with your iPhone",
       "source": "https://github.com/LaunchKit/screenshotter",
       "itunes": "https://itunes.apple.com/app/screenshotter-organize-manage/id826596892",
       "license": "apache-2.0",
