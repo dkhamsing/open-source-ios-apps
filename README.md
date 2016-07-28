@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **521** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 28, 2016*).
+A collaborative list of **524** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 28, 2016*).
  
 Jump to 
  
@@ -2548,9 +2548,16 @@ Image, video, audio, reading — [back to top](#readme)
   Added May  3, 2016  - License: `mit`
   </details>
 
-## Bonus
-
-See [archive](ARCHIVE.md), [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) and [android-apps](https://github.com/pcqpcq/open-source-android-apps).
+## Bonus 
+ 
+[back to top](#readme) 
+ 
+- awesome-macOS 
+  - https://github.com/iCHAIT/awesome-macOS
+- open-source-android-apps 
+  - https://github.com/pcqpcq/open-source-android-apps
+- open-source-ios-apps archived apps 
+  - https://github.com/dkhamsing/open-source-ios-apps/blob/master/ARCHIVE.md
 
 ## Thanks
 
