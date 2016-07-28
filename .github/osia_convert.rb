@@ -163,7 +163,7 @@ def write_readme(j)
   output << "\n\n"
   output << desc
   output << "\n\nA collaborative list of **#{apps.count}** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: "
-  output << "(last update *#{date_display}*)."
+  output << "(updated *#{date_display}*)."
 
   output << "\n \nJump to \n \n"
 
