@@ -6422,7 +6422,8 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "open-source-ios-apps archived apps",
+      "title": "open-source-ios-apps archive",
+      "description": "Projects that are no longer maintained",
       "source": "https://github.com/dkhamsing/open-source-ios-apps/blob/master/ARCHIVE.md",
       "category": "bonus",
       "suggested_by": "@dkhamsing"
