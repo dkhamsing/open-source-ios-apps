@@ -6443,7 +6443,7 @@
       "title": "Munch",
       "category": "location",
       "description": "Tinder-styled restaurant recommendations using the Yelp API",
-      "itunes": "https://github.com/enochng1/Munch",
+      "source": "https://github.com/enochng1/Munch",
       "date_added": "Jul 28 2016",
       "suggested_by": "@dkhamsing",
       "screenshots": ["https://raw.githubusercontent.com/enochng1/Munch/master/poster-01.png"]
