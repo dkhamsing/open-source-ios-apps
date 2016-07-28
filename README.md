@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **521** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 27, 2016*).
+A collaborative list of **521** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 28, 2016*).
  
 Jump to 
  
@@ -662,7 +662,7 @@ Projects that are not in English have a flag
  
 [back to top](#readme) 
  
-- AA-Keyboard: ASCI Art Keyboard 
+- AA-Keyboard: ASCII art keyboard 
   - https://github.com/sonsongithub/AAKeyboard
   - https://itunes.apple.com/app/aa-keyboard/id964182815
 - ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8 
@@ -870,7 +870,7 @@ Image, video, audio, reading — [back to top](#readme)
   - https://itunes.apple.com/app/poppins/id978854068
 - prankPro: Record a 6 second video while playing prank sounds 🔥🔥
   - https://github.com/huijimuhe/prankPro
-- projectM: An OpenGl based advanced music visualization program 
+- projectM: An `OpenGL` based advanced music visualization program 
   - https://sourceforge.net/projects/projectm/
   - http://projectm.sourceforge.net/
   - https://itunes.apple.com/app/id530922227
