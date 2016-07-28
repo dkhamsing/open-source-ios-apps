@@ -95,11 +95,11 @@ def output_apps(apps)
 
         details << '  '
         details << details_list[0]
-        details_list[1..-1].each { |x| details << "  - #{x}" }
+        details_list[1..-1].each { |x| details << "<br>  #{x}" }
 
         unless screenshots.nil?
           screenshots.each_with_index do |s, i|
-            details << "  ![#{name} image #{i+1}](#{screenshots[i]})" unless screenshots.nil?
+            details << "<br>  ![#{name} image #{i+1}](#{screenshots[i]})" unless screenshots.nil?
           end
         end
 
