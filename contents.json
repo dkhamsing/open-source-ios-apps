@@ -1767,7 +1767,7 @@
     {
       "title": "AA-Keyboard",
       "category": "keyboards",
-      "description": "ASCI Art Keyboard",
+      "description": "ASCII art keyboard",
       "source": "https://github.com/sonsongithub/AAKeyboard",
       "itunes": "https://itunes.apple.com/app/aa-keyboard/id964182815",
       "stars": 88,
@@ -5652,7 +5652,7 @@
     {
       "title": "projectM",
       "category": "media",
-      "description": "An OpenGl based advanced music visualization program",
+      "description": "An `OpenGL` based advanced music visualization program",
       "source": "https://sourceforge.net/projects/projectm/",
       "homepage": "http://projectm.sourceforge.net/",
       "itunes": "https://itunes.apple.com/app/id530922227",
