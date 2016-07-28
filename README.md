@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **524** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 28, 2016*).
+A collaborative list of **525** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *July 28, 2016*).
  
 Jump to 
  
@@ -1031,6 +1031,10 @@ Projects that are not in English have a flag
 - Moves: Visualize where you spend your time 
   <details><summary>https://github.com/neonichu/Places</summary>
   Added July 13, 2016  - License: `mit`
+  </details>
+- Munch: Tinder-styled restaurant recommendations using the Yelp API 
+  <details><summary>https://github.com/enochng1/Munch</summary>
+  Added July 28, 2016  ![Munch image 1](https://raw.githubusercontent.com/enochng1/Munch/master/poster-01.png)
   </details>
 - Neverlate: Pay-if-U-R-late app using geofences and Venmo API 
   <details><summary>https://github.com/ayunav/Neverlate</summary>
