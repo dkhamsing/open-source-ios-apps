@@ -5775,6 +5775,7 @@
       "category": "official",
       "description": "awesome-swift repository official app",
       "source": "https://github.com/matteocrippa/awesomeSwift-iOS-App",
+      "itunes": "https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427",
       "license": "mit",
       "tags": [
         "swift"
