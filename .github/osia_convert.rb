@@ -85,8 +85,9 @@ def output_apps(apps)
           details_list.push "Added #{formatted_date}"
         end
 
-        unless license.nil?          
-          details_list.push "License: [`#{license}`](http://choosealicense.com/licenses/#{license}/)" if license != 'other'
+        unless license.nil?
+          license_display = license=='other'? "`#{license}`" : "[`#{license}`](http://choosealicense.com/licenses/#{license}/)"
+          details_list.push "License: #{license_display}"
         end
 
         unless homepage.nil?
