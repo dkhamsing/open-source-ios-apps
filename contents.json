@@ -6450,6 +6450,17 @@
       "date_added": "Jul 28 2016",
       "suggested_by": "@dkhamsing",
       "screenshots": ["https://raw.githubusercontent.com/enochng1/Munch/master/poster-01.png"]
+    },
+    {
+      "title": "screenshotter",
+      "category": "media",
+      "description": "Organize & manage screenshots you take with your iPhone.",
+      "source": "https://github.com/LaunchKit/screenshotter",
+      "itunes": "https://itunes.apple.com/app/screenshotter-organize-manage/id826596892",
+      "license": "apache-2.0",
+      "date_added": "Jul 28 2016",
+      "suggested_by": "@dkhamsing",
+      "screenshots": ["https://camo.githubusercontent.com/ab02fd356e17f9d3de7ebdb367a08ef97f279c4c/687474703a2f2f73637265656e73686f747465722e6e65742f6c69622f696d616765732f6970686f6e652e706e67"]
     }
   ]
 }
