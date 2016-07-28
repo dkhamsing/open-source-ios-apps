@@ -235,7 +235,8 @@
         "swift"
       ],
       "date_added": "Fri Nov 6 06:19:26 2015 -0800",
-      "suggested_by": "@dkhamsing"
+      "suggested_by": "@dkhamsing",
+      "screenshots": [ "https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/featured.png", "https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/show.png"]
     },
     {
       "title": "EX Player",
