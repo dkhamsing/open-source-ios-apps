@@ -763,7 +763,8 @@
         "swift"
       ],
       "date_added": "Mon Jan 26 19:08:04 2015 -0800",
-      "suggested_by": "@dkhamsing"
+      "suggested_by": "@dkhamsing",
+      "screenshots": ["http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg"]
     },
     {
       "title": "Frameless",
@@ -1471,7 +1472,8 @@
       ],
       "license": "mit",
       "date_added": "Wed Mar 18 11:05:17 2015 -0700",
-      "suggested_by": "@dkhamsing"
+      "suggested_by": "@dkhamsing",
+      "screenshots": ["https://camo.githubusercontent.com/867dfad61329bd77258f00d586b16476c7bc405a/687474703a2f2f692e696d6775722e636f6d2f314e4c6f546f552e676966"]
     },
     {
       "title": "Conway's Game of Life",
@@ -4286,7 +4288,8 @@
       "stars": 6387,
       "license": "other",
       "date_added": "Thu Apr 14 07:21:28 2016 -0700",
-      "suggested_by": "@dkhamsing"
+      "suggested_by": "@dkhamsing",
+      "screenshots": ["https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png"]
     },
     {
       "title": "Facebook Login",
