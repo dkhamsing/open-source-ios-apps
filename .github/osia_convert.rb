@@ -41,12 +41,20 @@ def output_apps(apps)
       stars = a['stars']
       lang = a['lang']
 
+      date_added = a['date_added']
+      screenshots = a['screenshots']
+      license = a['license']
+
       o << "- #{name}"
 
       if desc.nil?
         o << ' '
       else
         o << ": #{desc} " if desc.size>0
+      end
+
+      unless itunes.nil?
+        o << "[` App Store`](#{itunes}) "
       end
 
       unless tags.nil?
@@ -62,9 +70,42 @@ def output_apps(apps)
       end
 
       o << "\n"
-      o << "  - #{link}\n"
-      o << "  - #{homepage}\n" unless homepage.nil?
-      o << "  - #{itunes}\n" unless itunes.nil?
+
+      show_details = !homepage.nil? || !screenshots.nil? || !license.nil? || !date_added.nil?
+
+      if (!show_details)
+        o << "  - #{link}\n"
+      else
+        details = "  <details><summary>#{link}</summary>\n"
+
+        details_list = []
+        unless date_added.nil?
+          date = DateTime.parse(date_added)
+          formatted_date = date.strftime "%B %e, %Y"
+          details_list.push "Added #{formatted_date}"
+        end
+
+        unless license.nil?
+          details_list.push "License: `#{license}`"
+        end
+
+        unless homepage.nil?
+          details_list.push homepage
+        end
+
+        details << '  '
+        details << details_list[0]
+        details_list[1..-1].each { |x| details << "  - #{x}" }
+
+        unless screenshots.nil?
+          screenshots.each_with_index do |s, i|
+            details << "  ![#{name} image #{i+1}](#{screenshots[i]})" unless screenshots.nil?
+          end
+        end
+
+        details << "\n  </details>\n"
+        o << details
+      end
   end
   o
 end

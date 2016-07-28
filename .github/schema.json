@@ -147,6 +147,11 @@
 						"title": "Date Added",
 						"description": "Date when project was added.",
 						"type": "string"
+					},
+					"screenshots": {
+						"title": "Screenshots",
+						"description": "Links to screenshot images.",
+						"type": "array"
 					}
 				},
 				"required": ["title", "category", "source"],
