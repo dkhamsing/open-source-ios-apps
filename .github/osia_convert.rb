@@ -176,6 +176,9 @@ def write_readme(j)
     output << temp
   end
 
+  output << "- [Thanks](#thanks)\n"
+  output << "- [Contact](#contact)\n"
+
   output << "\n"
   output << h
   output << "\n"
