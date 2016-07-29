@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **526** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *July 28, 2016*).
+A collaborative list of **526** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *July 29, 2016*).
  
 Jump to 
  
@@ -58,8 +58,12 @@ Jump to
   - [Clock](#clock) 
   - [Timer](#timer) 
 - [Bonus](#bonus) 
+- [Thanks](#thanks)
+- [Contact](#contact)
 
 ```
+Click ► to show more details
+
 Projects that are not in English have a flag
 🇨🇳 Project is in Chinese
 🇪🇸 Project is in Spanish, etc
