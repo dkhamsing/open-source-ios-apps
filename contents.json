@@ -1854,20 +1854,6 @@
       "suggested_by": "Xabier Gorostidi"
     },
     {
-      "title": "Cafe",
-      "category": "location",
-      "lang": "zho",
-      "license": "mit",
-      "source": "https://github.com/flexih/Cafe",
-      "itunes": "https://itunes.apple.com/app/diao-ke-shi-guang/id440983941",
-      "tags": [
-        "swift"
-      ],
-      "stars": 14,
-      "date_added": "Fri Apr 15 08:17:29 2016 -0700",
-      "suggested_by": "@dkhamsing"
-    },
-    {
       "title": "DoctorNearby",
       "category": "location",
       "description": "Helps you find doctors in your city",
@@ -6470,7 +6456,7 @@
       "itunes": "https://itunes.apple.com/app/diao-ke-shi-guang/id440983941",
       "lang": "zho",
       "license": "mit",
-      "date_added": "Jul 29 2016",
+      "date_added": "Fri Apr 15 08:17:29 2016 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": ["https://github.com/flexih/Cafe/raw/master/snapshot/1.png"]
     }
