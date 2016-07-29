@@ -6459,6 +6459,18 @@
       "date_added": "Fri Apr 15 08:17:29 2016 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": ["https://github.com/flexih/Cafe/raw/master/snapshot/1.png"]
+    },
+    {
+      "title": "PixPic",
+      "category": "media",
+      "description": "Photo editing",
+      "source": "https://github.com/Yalantis/PixPic",
+      "screenshots": ["http://i.imgur.com/c8ahfkv.png"],
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "stars": 95        
     }
   ]
 }
