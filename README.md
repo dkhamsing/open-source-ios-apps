@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **526** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *July 29, 2016*).
+A collaborative list of **527** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *July 29, 2016*).
  
 Jump to 
  
@@ -62,17 +62,17 @@ Jump to
 - [Contact](#contact)
 
 ```
-Click ► to show more details
-
-Projects that are not in English have a flag
-🇨🇳 Project is in Chinese
-🇪🇸 Project is in Spanish, etc
-
  100+ Stars: 🔥
  200+ Stars: 🔥🔥
  500+ Stars: 🔥🔥🔥
 1000+ Stars: 🔥🔥🔥🔥
 2000+ Stars: 🔥🔥🔥🔥🔥
+
+Most projects are in English, exceptions have a flag
+🇨🇳 Project is in Chinese
+🇪🇸 Project is in Spanish, etc
+
+Click ► to show more details
 ```
 
 ## Apple TV 
@@ -984,10 +984,6 @@ Projects that are not in English have a flag
   <details><summary>https://github.com/ChrisChares/swift-alarm</summary>
   Added March 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Cafe [` App Store`](https://itunes.apple.com/app/diao-ke-shi-guang/id440983941) `Swift` 🇨🇳
-  <details><summary>https://github.com/flexih/Cafe</summary>
-  Added April 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - Closebox: Find the Closest Postbox [` App Store`](https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813) 
   <details><summary>https://github.com/peteog/Closebox</summary>
   Added May 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1075,6 +1071,10 @@ Projects that are not in English have a flag
 - Prey Anti Theft: Track lost or stolen devices and perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037) 🔥🔥
   <details><summary>https://github.com/prey/prey-ios-client</summary>
   Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://preyproject.com/
+  </details>
+- S.I.T. (雕刻时光): Unofficial app for Chinese cafe chain [Diaokeshiguang](https://www.sitcoffee.com/) [` App Store`](https://itunes.apple.com/app/diao-ke-shi-guang/id440983941) 🇨🇳
+  <details><summary>https://github.com/flexih/Cafe</summary>
+  Added April 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![S.I.T. (雕刻时光) image 1](https://github.com/flexih/Cafe/raw/master/snapshot/1.png)
   </details>
 - Startups - Mapped In Israel: Discover new startups and locate co-working spaces 
   <details><summary>https://github.com/sugarso/MappedInIsrael</summary>
@@ -1260,6 +1260,10 @@ Image, video, audio, reading — [back to top](#readme)
 - Pictograph: Hide messages in images using steganography [` App Store`](https://itunes.apple.com/us/app/id1051879856) `Swift` 
   <details><summary>https://github.com/MrAdamBoyd/Pictograph</summary>
   Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- PixPic: Photo editing `Swift` 
+  <details><summary>https://github.com/Yalantis/PixPic</summary>
+  License: `other`<br>  ![PixPic image 1](http://i.imgur.com/c8ahfkv.png)
   </details>
 - PopcornTime: PopcornTime movie app `Swift` 🔥
   <details><summary>https://github.com/danylokostyshyn/popcorntime-ios</summary>
