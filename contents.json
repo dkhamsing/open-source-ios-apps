@@ -5047,7 +5047,7 @@
     {
       "title": "Fibonacc iClock",
       "category": "clock",
-      "description": "A clock based off the famous fibonacci sequence",
+      "description": "A clock based off the famous Fibonacci sequence",
       "license": "gpl-2.0",
       "source": "https://github.com/scribblemaniac/Fibonacc-iClock",
       "stars": 0,
