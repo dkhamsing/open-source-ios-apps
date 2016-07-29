@@ -6461,6 +6461,18 @@
       "date_added": "Jul 28 2016",
       "suggested_by": "@dkhamsing",
       "screenshots": ["https://camo.githubusercontent.com/ab02fd356e17f9d3de7ebdb367a08ef97f279c4c/687474703a2f2f73637265656e73686f747465722e6e65742f6c69622f696d616765732f6970686f6e652e706e67"]
+    },
+    {
+      "title": "S.I.T. (雕刻时光)",
+      "description": "Unofficial app for Chinese cafe chain [Diaokeshiguang](https://www.sitcoffee.com/)",
+      "category": "location",
+      "source": "https://github.com/flexih/Cafe",
+      "itunes": "https://itunes.apple.com/app/diao-ke-shi-guang/id440983941",
+      "lang": "zho",
+      "license": "mit",
+      "date_added": "Jul 29 2016",
+      "suggested_by": "@dkhamsing",
+      "screenshots": ["https://github.com/flexih/Cafe/raw/master/snapshot/1.png"]
     }
   ]
 }
