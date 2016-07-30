@@ -4271,6 +4271,7 @@
       "source": "https://github.com/fbsamples/f8app",
       "stars": 6387,
       "license": "other",
+      "screenshots": ["https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png"],
       "date_added": "Thu Apr 14 07:21:28 2016 -0700",
       "suggested_by": "@dkhamsing"
     },
