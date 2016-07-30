@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **527** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *July 29, 2016*).
+A collaborative list of **527** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *July 30, 2016*).
  
 Jump to 
  
@@ -1263,7 +1263,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - PixPic: Photo editing `Swift` 
   <details><summary>https://github.com/Yalantis/PixPic</summary>
-  License: `other`<br>  ![PixPic image 1](http://i.imgur.com/c8ahfkv.png)
+  Added July 29, 2016<br>  License: `other`<br>  ![PixPic image 1](http://i.imgur.com/c8ahfkv.png)
   </details>
 - PopcornTime: PopcornTime movie app `Swift` 🔥
   <details><summary>https://github.com/danylokostyshyn/popcorntime-ios</summary>
@@ -2158,7 +2158,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - F8 2016: Official F8 app 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/fbsamples/f8app</summary>
-  Added April 14, 2016<br>  License: `other`
+  Added April 14, 2016<br>  License: `other`<br>  ![F8 2016 image 1](https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png)
   </details>
 - Facebook Login 🔥🔥
   <details><summary>https://github.com/brentvatne/react-native-login</summary>
@@ -2522,7 +2522,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Fibonacc iClock: A clock based off the famous fibonacci sequence 
+- Fibonacc iClock: A clock based off the famous Fibonacci sequence 
   <details><summary>https://github.com/scribblemaniac/Fibonacc-iClock</summary>
   Added May 23, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
