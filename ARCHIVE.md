@@ -15,7 +15,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - SudokuResolv https://github.com/Haoest/SudokuResolv
 - Vim https://github.com/applidium/Vim
 - iOctocat https://github.com/dennisreimann/ioctocat
-- wikiHow https://github.com/tderouin/wikiHow-iPhone-Application/
+- wikiHow https://github.com/tderouin/wikiHow-iPhone-Application
 
 ## Contact
 
