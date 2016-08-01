@@ -4844,7 +4844,7 @@
     {
       "title": "wikiHow",
       "category": "misc",
-      "source": "https://github.com/tderouin/wikiHow-iPhone-Application/",
+      "source": "https://github.com/tderouin/wikiHow-iPhone-Application",
       "tags": [
         "archive"
       ],
@@ -5255,7 +5255,7 @@
       "title": "Heredox",
       "category": "games",
       "description": "Place tiles to form your allegiance's symbols",
-      "source": "https://github.com/RolandasRazma/Heredox/",
+      "source": "https://github.com/RolandasRazma/Heredox",
       "homepage": "http://www.heredox.com/",
       "license": "mit",
       "date_added": "Wed Jun 1 00:56:23 2016 -0600",
@@ -6250,7 +6250,7 @@
       "description": "Password derivation tool",
       "homepage": "https://dono-app.github.io/",
       "itunes": "https://itunes.apple.com/app/id1092920229",
-      "source": "https://github.com/dono-app/ios/",
+      "source": "https://github.com/dono-app/ios",
       "tags": [
         "swift"
       ],
