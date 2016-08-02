@@ -3202,10 +3202,11 @@
       "title": "Swift Off",
       "category": [
         "tasks",
-        "firebase"
+        "firebase",
+        "archive"
       ],
       "description": "Firebase powered to-do app, includes tutorial",
-      "source": "https://github.com/goprimer/swift-off-todo",
+      "source": "https://github.com/opensourceios/swift-off-todo",
       "tags": [
         "swift"
       ],
@@ -6510,7 +6511,7 @@
       "stars": 120,
       "date_added": "Jul 29 2016",
       "suggested_by": "@dkhamsing"
-    },
+    },ceios
     {
       "title": "AlzPrevent",
       "category": "researchkit",
