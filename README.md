@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **527** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  1, 2016*).
+A collaborative list of **528** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  2, 2016*).
  
 Jump to 
  
@@ -926,6 +926,10 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- AlzPrevent: Clinical research platform for Alzheimer's disease `Swift` 
+  <details><summary>https://github.com/BBBInc/AlzPrevent-ios</summary>
+  Added August  2, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
 - AsthmaHealth: ResearchKit app studying Asthma [` App Store`](https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668) 
   <details><summary>https://github.com/ResearchKit/AsthmaHealth</summary>
   Added April 14, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
@@ -1836,10 +1840,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/pietbrauer/RealmToDo</summary>
   Added July 31, 2015<br>  License: `other`
   </details>
-- Swift Off: Firebase powered to-do app, includes tutorial `Swift` 
-  <details><summary>https://github.com/goprimer/swift-off-todo</summary>
-  Added April 22, 2016<br>  License: `other`
-  </details>
 - Task Coach: A simple to-do manager designed for composite tasks [` App Store`](https://itunes.apple.com/app/task-coach/id311403563) 
   <details><summary>https://sourceforge.net/projects/taskcoach/</summary>
   Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  http://taskcoach.org/
@@ -2044,10 +2044,6 @@ Image, video, audio, reading — [back to top](#readme)
 - how-much: Simple app to record how much things cost using Parse or Firebase 
   <details><summary>https://github.com/dkhamsing/how-much</summary>
   Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- Swift Off: Firebase powered to-do app, includes tutorial `Swift` 
-  <details><summary>https://github.com/goprimer/swift-off-todo</summary>
-  Added April 22, 2016<br>  License: `other`
   </details>
 
 ### [Ionic](http://ionicframework.com/) 
