@@ -6510,6 +6510,18 @@
       "stars": 120,
       "date_added": "Jul 29 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "AlzPrevent",
+      "category": "researchkit",
+      "description": "Clinical research platform for Alzheimer's disease",
+      "source": "https://github.com/BBBInc/AlzPrevent-ios",
+      "license": "bsd-3-clause",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Aug 2 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
