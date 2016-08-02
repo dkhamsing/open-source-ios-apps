@@ -3202,13 +3202,13 @@
       "title": "Swift Off",
       "category": [
         "tasks",
-        "firebase",
-        "archive"
+        "firebase"
       ],
       "description": "Firebase powered to-do app, includes tutorial",
       "source": "https://github.com/opensourceios/swift-off-todo",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "stars": 8,
       "license": "other",
