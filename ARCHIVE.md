@@ -13,9 +13,10 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
 - Repo https://github.com/ricburton/Repo
 - SudokuResolv https://github.com/Haoest/SudokuResolv
+- Swift Off https://github.com/opensourceios/swift-off-todo
 - Vim https://github.com/applidium/Vim
 - iOctocat https://github.com/dennisreimann/ioctocat
-- wikiHow https://github.com/tderouin/wikiHow-iPhone-Application/
+- wikiHow https://github.com/tderouin/wikiHow-iPhone-Application
 
 ## Contact
 

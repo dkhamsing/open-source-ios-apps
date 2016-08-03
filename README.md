@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **527** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *July 30, 2016*).
+A collaborative list of **528** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  2, 2016*).
  
 Jump to 
  
@@ -302,7 +302,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- Malendar: A redesigned calendar `Swift` 
+- Malendar: A redesigned calendar `Swift` 🔥
   <details><summary>https://github.com/croossin/Malendar</summary>
   Added October 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -331,7 +331,7 @@ Click ► to show more details
   <details><summary>https://github.com/acani/Chats</summary>
   Added March 18, 2015<br>  License: [`unlicense`](http://choosealicense.com/licenses/unlicense/)
   </details>
-- ChatSecure: Send messages with OTR encryption over XMPP [` App Store`](https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063) 🔥🔥🔥🔥
+- ChatSecure: Send messages with OTR encryption over XMPP [` App Store`](https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063) 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/ChatSecure/ChatSecure-iOS</summary>
   Added March 26, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
@@ -395,7 +395,7 @@ Click ► to show more details
   <details><summary>https://github.com/vector-im/vector-ios</summary>
   Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  https://vector.im/
   </details>
-- Wire: Modern, private communications: crystal clear voice, video, group chats. No advertising. Always encrypted. [` App Store`](https://itunes.apple.com/app/wire/id930944768) `Swift` 
+- Wire: Modern, private communications: crystal clear voice, video, group chats. No advertising. Always encrypted. [` App Store`](https://itunes.apple.com/app/wire/id930944768) `Swift` 🔥🔥🔥🔥
   <details><summary>https://github.com/wireapp/wire-ios</summary>
   Added July 22, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
@@ -735,7 +735,7 @@ Click ► to show more details
   Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  http://www.hedgewars.org/
   </details>
 - Heredox: Place tiles to form your allegiance's symbols 
-  <details><summary>https://github.com/RolandasRazma/Heredox/</summary>
+  <details><summary>https://github.com/RolandasRazma/Heredox</summary>
   Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  http://www.heredox.com/
   </details>
 - Hostile Takeover: A release of the Real Time Strategy game Warfare Incorporated 
@@ -754,7 +754,7 @@ Click ► to show more details
   <details><summary>https://github.com/herzbube/littlego</summary>
   Added March  6, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
-- Master: PokéMon-like game that uses your location [` App Store`](https://itunes.apple.com/app/id601694902) 
+- Master: PokéMon-like game that uses your location [` App Store`](https://itunes.apple.com/app/id601694902) 🔥🔥
   <details><summary>https://github.com/Kjuly/iPokeMon</summary>
   Added May 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -786,7 +786,7 @@ Click ► to show more details
   <details><summary>https://github.com/l800891/Sakura-Fly</summary>
   Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- SaveTheDot: `UIViewPropertyAnimator` experiment where you have to escape from the squares 🔥🔥
+- SaveTheDot: `UIViewPropertyAnimator` experiment where you have to escape from the squares 🔥🔥🔥
   <details><summary>https://github.com/JakeLin/SaveTheDot</summary>
   Added June 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -926,6 +926,10 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- AlzPrevent: Clinical research platform for Alzheimer's disease `Swift` 
+  <details><summary>https://github.com/BBBInc/AlzPrevent-ios</summary>
+  Added August  2, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
 - AsthmaHealth: ResearchKit app studying Asthma [` App Store`](https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668) 
   <details><summary>https://github.com/ResearchKit/AsthmaHealth</summary>
   Added April 14, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
@@ -1125,7 +1129,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/ijoshsmith/swift-ascii-art</summary>
   Added May  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Celluloid: The best photo extension [` App Store`](https://itunes.apple.com/app/celluloid/id1124966798) 🇨🇳
+- Celluloid: The best photo extension [` App Store`](https://itunes.apple.com/app/celluloid/id1124966798) 🇨🇳🔥🔥
   <details><summary>https://github.com/100mango/Celluloid</summary>
   Added July 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1153,7 +1157,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/naoyashiga/Dunk</summary>
   Added December 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Eleven: Eleven Player is a simple powerful video player, uses ffmpeg [` App Store`](https://itunes.apple.com/app/elevenplayer/id1033773648) 🔥🔥
+- Eleven: Eleven Player is a simple powerful video player, uses ffmpeg [` App Store`](https://itunes.apple.com/app/elevenplayer/id1033773648) 🔥🔥🔥
   <details><summary>https://github.com/coderyi/Eleven</summary>
   Added October  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1261,7 +1265,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/MrAdamBoyd/Pictograph</summary>
   Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- PixPic: Photo editing `Swift` 
+- PixPic: Photo editing `Swift` 🔥
   <details><summary>https://github.com/Yalantis/PixPic</summary>
   Added July 29, 2016<br>  License: `other`<br>  ![PixPic image 1](http://i.imgur.com/c8ahfkv.png)
   </details>
@@ -1595,7 +1599,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/PiXeL16/CountItApp</summary>
   Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- GitHub API Client: GitHub app using MVVM and RxSwift `Swift` 🔥
+- GitHub API Client: GitHub app using MVVM and RxSwift `Swift` 🔥🔥
   <details><summary>https://github.com/tailec/boilerplate</summary>
   Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1735,7 +1739,7 @@ Image, video, audio, reading — [back to top](#readme)
   Added March 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://mattrubin.me/authenticator/
   </details>
 - Dono: Password derivation tool [` App Store`](https://itunes.apple.com/app/id1092920229) `Swift` 
-  <details><summary>https://github.com/dono-app/ios/</summary>
+  <details><summary>https://github.com/dono-app/ios</summary>
   Added July 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://dono-app.github.io/
   </details>
 - Encryptr: A zero-knowledge, cloud-based e-wallet and password manager [` App Store`](https://itunes.apple.com/app/id1066041348) 🔥🔥🔥🔥
@@ -1758,7 +1762,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/onionsapp/Onions-iOS</summary>
   Added January 27, 2015<br>  License: `other`
   </details>
-- Potatso: App that implements Shadowsocks proxy [` App Store`](https://itunes.apple.com/app/id1070901416) `Swift` 🇨🇳🔥🔥🔥🔥
+- Potatso: App that implements Shadowsocks proxy [` App Store`](https://itunes.apple.com/app/id1070901416) `Swift` 🇨🇳🔥🔥🔥🔥🔥
   <details><summary>https://github.com/shadowsocks/Potatso</summary>
   Added June 30, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
@@ -1836,10 +1840,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/pietbrauer/RealmToDo</summary>
   Added July 31, 2015<br>  License: `other`
   </details>
-- Swift Off: Firebase powered to-do app, includes tutorial `Swift` 
-  <details><summary>https://github.com/goprimer/swift-off-todo</summary>
-  Added April 22, 2016<br>  License: `other`
-  </details>
 - Task Coach: A simple to-do manager designed for composite tasks [` App Store`](https://itunes.apple.com/app/task-coach/id311403563) 
   <details><summary>https://sourceforge.net/projects/taskcoach/</summary>
   Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  http://taskcoach.org/
@@ -1848,7 +1848,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/binarylevel/Tinylog-iOS</summary>
   Added January 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Todo `Swift` 🔥
+- Todo `Swift` 🔥🔥
   <details><summary>https://github.com/JakeLin/Todo</summary>
   Added November 30, 2015<br>  License: `other`
   </details>
@@ -2045,10 +2045,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/dkhamsing/how-much</summary>
   Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Swift Off: Firebase powered to-do app, includes tutorial `Swift` 
-  <details><summary>https://github.com/goprimer/swift-off-todo</summary>
-  Added April 22, 2016<br>  License: `other`
-  </details>
 
 ### [Ionic](http://ionicframework.com/) 
  
@@ -2111,7 +2107,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>http://www.appcoda.com/instagram-app-parse-swift/</summary>
   Added April 17, 2015<br>  License: `other`
   </details>
-- RaceMe: Run tracking + ghosting `Swift` 
+- RaceMe: Run tracking + ghosting `Swift` 🔥🔥
   <details><summary>https://github.com/enochng1/RaceMe</summary>
   Added July 20, 2016<br>  License: `other`
   </details>
@@ -2285,7 +2281,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/syky27/lunch_guy-ios</summary>
   Added June 16, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- RaceMe: Run tracking + ghosting `Swift` 
+- RaceMe: Run tracking + ghosting `Swift` 🔥🔥
   <details><summary>https://github.com/enochng1/RaceMe</summary>
   Added July 20, 2016<br>  License: `other`
   </details>
@@ -2456,7 +2452,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/aciidb0mb3r/Swiflytics</summary>
   Added April 26, 2016<br>  License: `other`
   </details>
-- Tether: Tethering for non-jailbroken iOS Devices over USB 
+- Tether: Tethering for non-jailbroken iOS Devices over USB 🔥
   <details><summary>https://github.com/chrisballinger/Tether-iOS</summary>
   Added December 17, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
@@ -2568,9 +2564,9 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- awesome-macOS 
+- awesome-macOS 🔥🔥🔥🔥🔥
   - https://github.com/iCHAIT/awesome-macOS
-- open-source-android-apps 
+- open-source-android-apps 🔥🔥🔥🔥🔥
   - https://github.com/pcqpcq/open-source-android-apps
 - open-source-ios-apps archive: Projects that are no longer maintained 
   - https://github.com/dkhamsing/open-source-ios-apps/blob/master/ARCHIVE.md
