@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **528** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  2, 2016*).
+A collaborative list of **528** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  3, 2016*).
  
 Jump to 
  
@@ -283,7 +283,7 @@ Click ► to show more details
   </details>
 - Firefox: Official Firefox app [` App Store`](https://itunes.apple.com/app/firefox-web-browser/id989804926) `Swift` 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/mozilla/firefox-ios</summary>
-  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>  ![Firefox image 1](http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg)
   </details>
 - Frameless: A full-screen web browser [` App Store`](https://itunes.apple.com/app/id933580264) `Swift` 🔥🔥🔥
   <details><summary>https://github.com/stakes/Frameless</summary>
@@ -712,7 +712,7 @@ Click ► to show more details
   </details>
 - FlappySwift: Swift implementation of Flappy Bird `Swift` 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/fullstackio/FlappySwift</summary>
-  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![FlappySwift image 1](https://camo.githubusercontent.com/867dfad61329bd77258f00d586b16476c7bc405a/687474703a2f2f692e696d6775722e636f6d2f314e4c6f546f552e676966)
   </details>
 - Frotz: Play hundreds of free works of Interactive Fiction (a.k.a. text adventure games) [` App Store`](https://itunes.apple.com/app/id287653015) 
   <details><summary>https://github.com/ifrotz/iosfrotz</summary>
@@ -1486,7 +1486,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Firefox: Official Firefox app [` App Store`](https://itunes.apple.com/app/firefox-web-browser/id989804926) `Swift` 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/mozilla/firefox-ios</summary>
-  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>  ![Firefox image 1](http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg)
   </details>
 - Kodi: A popular media player and entertainment hub 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/xbmc/xbmc</summary>
