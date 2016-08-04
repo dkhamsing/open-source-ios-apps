@@ -6526,6 +6526,20 @@
       ],
       "date_added": "Aug 2 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Good Living Guide: home snacks, gifts, beauty, shopping..",
+      "category": "misc",
+      "source": "https://github.com/hrscy/DanTang",
+      "itunes": "https://itunes.apple.com/app/id1021442122",
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "lang": "zho",
+      "stars": 147,
+      "date_added": "Aug 4 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
