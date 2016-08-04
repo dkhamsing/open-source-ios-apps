@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **528** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  3, 2016*).
+A collaborative list of **529** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  4, 2016*).
  
 Jump to 
  
@@ -2375,6 +2375,10 @@ Image, video, audio, reading — [back to top](#readme)
 - GammaThingy: Change screen gamma dynamically 🔥🔥🔥
   <details><summary>https://github.com/thomasfinch/GammaThingy</summary>
   Added November 21, 2015<br>  License: `other`
+  </details>
+- Good Living Guide: home snacks, gifts, beauty, shopping.. [` App Store`](https://itunes.apple.com/app/id1021442122) `Swift` 🇨🇳🔥
+  <details><summary>https://github.com/hrscy/DanTang</summary>
+  Added August  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - GoodNight: Change screen gamma dynamically 🔥🔥🔥
   <details><summary>https://github.com/anthonya1999/GoodNight</summary>
