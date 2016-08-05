@@ -7,16 +7,16 @@ test:
     - sudo pip install json-spec
   override:
     - ruby .github/osia_get_links.rb
-    - awesome_bot check-links.txt -a 403 -w xbmc/xbmc,7b5labs
-    - awesome_bot check-homepages.txt --allow-dupe -w wheelmap.org,sourceforge,7b5labs
+    - awesome_bot check-unique.txt -a 403 -w xbmc/xbmc,7b5labs
+    - awesome_bot check-links.txt --allow-dupe -w wheelmap.org,sourceforge,7b5labs,radioparadise
     - json validate --schema-file=.github/schema.json --document-file=contents.json
     - ruby .github/osia_validate_categories.rb
 general:
   artifacts:
-    - "check-links.txt"
-    - "check-homepages.txt"
-    - "ab-results-check-homepages.txt.json"
-    - "ab-results-check-links.txt.json"
+    - check-links.txt
+    - check-homepages.txt
+    - ab-results-check-homepages.txt.json
+    - ab-results-check-links.txt.json
 deployment:
   master:
     branch: master
