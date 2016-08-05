@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **529** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  4, 2016*).
+A collaborative list of **529** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  5, 2016*).
  
 Jump to 
  
@@ -494,7 +494,7 @@ Click ► to show more details
   <details><summary>https://github.com/DanilaVladi/codinator</summary>
   Added April 11, 2016<br>  License: `other`
   </details>
-- Piwik Mobile 2: [Piwik](http://piwik.org/) analytics on the go [` App Store`](https://itunes.apple.com/app/id737216887) 
+- Piwik Mobile 2: [Piwik](https://piwik.org/) analytics on the go [` App Store`](https://itunes.apple.com/app/id737216887) 
   <details><summary>https://github.com/piwik/piwik-mobile-2</summary>
   Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://piwik.org/mobile/
   </details>
@@ -1500,7 +1500,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/dkhamsing/osia</summary>
   Added July 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Piwik Mobile 2: [Piwik](http://piwik.org/) analytics on the go [` App Store`](https://itunes.apple.com/app/id737216887) 
+- Piwik Mobile 2: [Piwik](https://piwik.org/) analytics on the go [` App Store`](https://itunes.apple.com/app/id737216887) 
   <details><summary>https://github.com/piwik/piwik-mobile-2</summary>
   Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://piwik.org/mobile/
   </details>
