@@ -5508,7 +5508,7 @@
         "developer",
         "official"
       ],
-      "description": "[Piwik](http://piwik.org/) analytics on the go",
+      "description": "[Piwik](https://piwik.org/) analytics on the go",
       "license": "gpl-3.0",
       "source": "https://github.com/piwik/piwik-mobile-2",
       "homepage": "https://piwik.org/mobile/",
