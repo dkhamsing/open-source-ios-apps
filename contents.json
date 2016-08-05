@@ -6540,6 +6540,18 @@
       "stars": 147,
       "date_added": "Aug 4 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Communiqué",
+      "category": "communication",
+      "description": " Twitter app that only lets send & receive DM's",
+      "source": "https://github.com/zadr/Communique",
+      "license": "bsd-3-clause",
+      "tags": [
+        "archive"
+      ],
+      "date_added": "Aug 5 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
