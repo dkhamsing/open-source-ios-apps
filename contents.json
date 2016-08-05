@@ -87,6 +87,11 @@
       "description": "Image, video, audio, reading"
     },
     {
+      "title": "Content",
+      "id": "content",
+      "parent": "media"
+    },
+    {
       "title": "News",
       "id": "news"
     },
@@ -2065,7 +2070,7 @@
     },
     {
       "title": "Artsy",
-      "category": "media",
+      "category": "content",
       "description": "The Art World in Your Pocket",
       "license": "mit",
       "source": "https://github.com/artsy/eigen",
@@ -2233,7 +2238,7 @@
     },
     {
       "title": "OCiney",
-      "category": "media",
+      "category": "content",
       "description": "Movie info app",
       "source": "https://github.com/florent37/OCiney-iOS",
       "itunes": "https://itunes.apple.com/app/id955480687",
@@ -2244,7 +2249,7 @@
     },
     {
       "title": "OpenPics",
-      "category": "media",
+      "category": "content",
       "description": "View historical images from multiple remote sources",
       "license": "gpl-3.0",
       "source": "https://github.com/pj4533/OpenPics",
@@ -2265,7 +2270,7 @@
     },
     {
       "title": "PhotoBrowser",
-      "category": "media",
+      "category": "content",
       "description": "A simple iOS Instagram photo browser",
       "source": "https://github.com/MoZhouqi/PhotoBrowser",
       "stars": 466,
@@ -2292,7 +2297,7 @@
     },
     {
       "title": "PhishOD",
-      "category": "media",
+      "category": "content",
       "description": "Listen to any song from Phish.in and view concert ratings and reviews from phish.net",
       "source": "https://github.com/alecgorge/PhishOD-iOS",
       "itunes": "https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018",
@@ -2303,7 +2308,7 @@
     },
     {
       "title": "PopcornTime",
-      "category": "media",
+      "category": "content",
       "description": "PopcornTime movie app",
       "source": "https://github.com/danylokostyshyn/popcorntime-ios",
       "tags": [
@@ -2387,7 +2392,7 @@
     },
     {
       "title": "SwiftFlickrApp",
-      "category": "media",
+      "category": "content",
       "description": "Flickr popular photo viewer",
       "license": "mit",
       "source": "https://github.com/synboo/SwiftFlickrApp",
@@ -2448,7 +2453,7 @@
     },
     {
       "title": "Textbook",
-      "category": "media",
+      "category": "content",
       "description": "textbooks from People's Education Press in China",
       "lang": "zho",
       "source": "https://github.com/JohnWong/textbook",
@@ -2502,7 +2507,7 @@
     },
     {
       "title": "xkcd",
-      "category": "media",
+      "category": "content",
       "description": "iPhone app",
       "license": "mit",
       "source": "https://github.com/paulrehkugler/xkcd",
@@ -2513,7 +2518,7 @@
     },
     {
       "title": "xkcd Open Source",
-      "category": "media",
+      "category": "content",
       "description": "An xkcd comic reader",
       "source": "https://github.com/mamaral/xkcd-Open-Source",
       "itunes": "https://itunes.apple.com/app/xkcd-open-source/id995811425",
@@ -3485,7 +3490,7 @@
     },
     {
       "title": "ChineseZodiac",
-      "category": "misc",
+      "category": "content",
       "license": "mit",
       "source": "https://github.com/JakeLin/ChineseZodiac",
       "stars": 146,
@@ -3639,7 +3644,7 @@
     },
     {
       "title": "LidderbuchApp",
-      "category": "media",
+      "category": "content",
       "description": "Songbook for Luxembourgish Students",
       "lang": "ltz",
       "source": "https://github.com/AcelLuxembourg/LidderbuchApp",
@@ -3678,7 +3683,7 @@
     },
     {
       "title": "OpenCB",
-      "category": "media",
+      "category": "content",
       "description": "Interactive chess book reader",
       "license": "gpl-2.0",
       "source": "https://github.com/student-t/OpenCB",
@@ -3702,7 +3707,7 @@
     },
     {
       "title": "Open States",
-      "category": "misc",
+      "category": "content",
       "description": "Browse state legislatures",
       "source": "https://github.com/sunlightlabs/openstates-ios",
       "stars": 55,
@@ -3875,7 +3880,7 @@
     },
     {
       "title": "WWDC Students",
-      "category": "misc",
+      "category": "content",
       "description": "WWDC scholarship entries",
       "source": "https://github.com/wwdc",
       "stars": 100,
@@ -5769,7 +5774,7 @@
     },
     {
       "title": "Awesome Swift iOS App",
-      "category": "official",
+      "category": ["official", "content"],
       "description": "awesome-swift repository official app",
       "source": "https://github.com/matteocrippa/awesomeSwift-iOS-App",
       "itunes": "https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427",
@@ -5798,7 +5803,7 @@
     {
       "title": "Swift-Gif",
       "description": "Gif Search",
-      "category": "media",
+      "category": "content",
       "source": "https://github.com/pjchavarria/Swift-Gif",
       "license": "mit",
       "stars": 52,
@@ -6386,7 +6391,7 @@
     },
     {
       "title": "osia",
-      "category": "official",
+      "category": ["official", "content"],
       "description": "Super basic app to browse open-source-ios-apps",
       "license": "mit",
       "source": "https://github.com/dkhamsing/osia",
