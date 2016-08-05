@@ -306,6 +306,7 @@
       "source": "https://github.com/belm/BaiduFM-Swift",
       "stars": 530,
       "lang": "zho",
+      "screenshots": ["https://github.com/belm/BaiduFM-Swift/raw/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png?raw=true"],
       "tags": [
         "swift"
       ],
@@ -6400,6 +6401,7 @@
       "description": "Super basic app to browse open-source-ios-apps",
       "license": "mit",
       "source": "https://github.com/dkhamsing/osia",
+      "screenshots": ["https://github.com/dkhamsing/osia/raw/master/Assets/0.2.png"],
       "date_added": "Mon Jul 25 11:17:52 2016 -0700",
       "suggested_by": "@dkhamsing",
       "stars": 3
