@@ -6555,6 +6555,7 @@
     },
     {
       "title": "Navigation and Tour App for Adler Planetarium",
+      "category": "misc",
       "source": "https://github.com/lucasqiu/Adler-Mobile-App",
       "tags": [
         "archive"
