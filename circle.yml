@@ -14,7 +14,7 @@ test:
 general:
   artifacts:
     - check-links.txt
-    - check-homepages.txt
+    - check-unique.txt
     - ab-results-check-homepages.txt.json
     - ab-results-check-links.txt.json
 deployment:
