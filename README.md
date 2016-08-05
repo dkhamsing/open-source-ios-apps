@@ -27,6 +27,7 @@ Jump to
 - [Keyboards](#keyboards) 
 - [Location](#location) 
 - [Media](#media) 
+  - [Content](#content) 
 - [News](#news) 
   - [Hacker News](#hacker-news) 
 - [Official](#official) 
@@ -423,6 +424,10 @@ Click ► to show more details
 - RWDevCon `Swift` 
   <details><summary>https://github.com/raywenderlich/RWDevCon-App</summary>
   Added March 13, 2016<br>  License: `other`
+  </details>
+- TechTavta: Keep track of all events for Techtatva 2015 [` App Store`](https://itunes.apple.com/app/techtatva15/id922178880) 
+  <details><summary>https://github.com/LUGM/TechTatva-15</summary>
+  Added April 19, 2016<br>  License: `other`
   </details>
 - try! Swift `Swift` 🔥🔥
   <details><summary>https://github.com/tryswift/trySwiftApp</summary>
@@ -1117,10 +1122,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>http://matthewfecher.com/app-developement/swift-synth/</summary>
   Added February  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Artsy: The Art World in Your Pocket [` App Store`](https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080) 🔥🔥🔥🔥
-  <details><summary>https://github.com/artsy/eigen</summary>
-  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - Artsy Folio: Artwork showcase [` App Store`](https://itunes.apple.com/app/artsy-folio/id504862164) 🔥
   <details><summary>https://github.com/artsy/energy</summary>
   Added August 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1157,11 +1158,11 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/naoyashiga/Dunk</summary>
   Added December 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Eleven: Eleven Player is a simple powerful video player, uses ffmpeg [` App Store`](https://itunes.apple.com/app/elevenplayer/id1033773648) 🔥🔥🔥
+- Eleven: Simple powerful video player, uses ffmpeg [` App Store`](https://itunes.apple.com/app/elevenplayer/id1033773648) 🔥🔥🔥
   <details><summary>https://github.com/coderyi/Eleven</summary>
   Added October  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- EmotionNote: Emotion diary, analyze choose or take a photo of your face and the app will tell you your emotion `Swift` 
+- EmotionNote Diary: Analyze choose or take a photo of your face and the app will tell you your emotion `Swift` 
   <details><summary>https://github.com/Yogayu/EmotionNote</summary>
   Added April 19, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1205,10 +1206,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/hkalexling/KonaBot-iOS</summary>
   Added December  3, 2015<br>  License: `other`
   </details>
-- LidderbuchApp: Songbook for Luxembourgish Students [` App Store`](https://itunes.apple.com/app/lidderbuch/id997143407) `Swift` 🇱🇺
-  <details><summary>https://github.com/AcelLuxembourg/LidderbuchApp</summary>
-  Added September 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - Longboxed: Track the releases of your favorite comics [` App Store`](https://itunes.apple.com/app/longboxed-comic-tracker/id965045339) 
   <details><summary>https://github.com/jayhickey/Longboxed-iOS</summary>
   Added June 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1237,29 +1234,9 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/Sajjon/SwiftIntro</summary>
   Added July  6, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
-- OCiney: Movie info app [` App Store`](https://itunes.apple.com/app/id955480687) 🔥🔥
-  <details><summary>https://github.com/florent37/OCiney-iOS</summary>
-  Added March  3, 2015<br>  License: `other`
-  </details>
 - Open Source Selfie Stick: Sync two iOS devices and use one as a remote control for the other's camera! [` App Store`](https://itunes.apple.com/app/id1084487132) 
   <details><summary>https://github.com/RF-Nelson/open-source-selfie-stick</summary>
   Added February 18, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
-  </details>
-- OpenCB: Interactive chess book reader 
-  <details><summary>https://github.com/student-t/OpenCB</summary>
-  Added May  8, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  </details>
-- OpenPics: View historical images from multiple remote sources 
-  <details><summary>https://github.com/pj4533/OpenPics</summary>
-  Added December 31, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  </details>
-- PhishOD: Listen to any song from Phish.in and view concert ratings and reviews from phish.net [` App Store`](https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018) 
-  <details><summary>https://github.com/alecgorge/PhishOD-iOS</summary>
-  Added June 26, 2015<br>  License: `other`
-  </details>
-- PhotoBrowser: A simple iOS Instagram photo browser `Swift` 🔥🔥
-  <details><summary>https://github.com/MoZhouqi/PhotoBrowser</summary>
-  Added March 31, 2015<br>  License: `other`
   </details>
 - Pictograph: Hide messages in images using steganography [` App Store`](https://itunes.apple.com/us/app/id1051879856) `Swift` 
   <details><summary>https://github.com/MrAdamBoyd/Pictograph</summary>
@@ -1268,10 +1245,6 @@ Image, video, audio, reading — [back to top](#readme)
 - PixPic: Photo editing `Swift` 🔥
   <details><summary>https://github.com/Yalantis/PixPic</summary>
   Added July 29, 2016<br>  License: `other`<br>  ![PixPic image 1](http://i.imgur.com/c8ahfkv.png)
-  </details>
-- PopcornTime: PopcornTime movie app `Swift` 🔥
-  <details><summary>https://github.com/danylokostyshyn/popcorntime-ios</summary>
-  Added May 20, 2015<br>  License: `other`
   </details>
 - Poppins: House all your favorite GIFs and easily share them with your friends and family [` App Store`](https://itunes.apple.com/app/poppins/id978854068) `Swift` 🔥
   <details><summary>https://github.com/thoughtbot/poppins</summary>
@@ -1317,17 +1290,9 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/swiftcodex/Swift-Radio-Pro</summary>
   Added January 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Swift-Gif: Gif Search `Swift` 
-  <details><summary>https://github.com/pjchavarria/Swift-Gif</summary>
-  Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - Swifteroid: Manual HDR exposure camera `Swift` 
   <details><summary>https://github.com/eugenpirogoff/swifteroid</summary>
   Added June 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- SwiftFlickrApp: Flickr popular photo viewer `Swift` 🔥🔥
-  <details><summary>https://github.com/synboo/SwiftFlickrApp</summary>
-  Added May  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - SwiftSpace: CoreMotion Controlled Drawing in 3D Space `Swift` 
   <details><summary>https://github.com/FlexMonkey/SwiftSpace</summary>
@@ -1336,14 +1301,6 @@ Image, video, audio, reading — [back to top](#readme)
 - Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures `Swift` 
   <details><summary>https://github.com/vanyaland/Tagger</summary>
   Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- TechTavta: Keep track of all events for Techtatva 2015 [` App Store`](https://itunes.apple.com/app/techtatva15/id922178880) 
-  <details><summary>https://github.com/LUGM/TechTatva-15</summary>
-  Added April 19, 2016<br>  License: `other`
-  </details>
-- Textbook: textbooks from People's Education Press in China [` App Store`](https://itunes.apple.com/app/ke-ben/id993244460) `Swift` 🇨🇳
-  <details><summary>https://github.com/JohnWong/textbook</summary>
-  Added February 17, 2016<br>  License: `other`
   </details>
 - That Movie With: Find common movies among actors [` App Store`](https://itunes.apple.com/app/that-movie-with/id892972135) 
   <details><summary>https://github.com/jayhickey/thatmoviewith</summary>
@@ -1361,6 +1318,79 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/MoZhouqi/VoiceMemos</summary>
   Added April  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
+- ZBar Barcode Reader: A comprehensive barcode reader [` App Store`](https://itunes.apple.com/app/id344957305) 
+  <details><summary>https://sourceforge.net/projects/zbar/</summary>
+  Added June  1, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)<br>  http://zbar.sourceforge.net/
+  </details>
+
+### Content 
+ 
+[back to top](#readme) 
+ 
+- Artsy: The Art World in Your Pocket [` App Store`](https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080) 🔥🔥🔥🔥
+  <details><summary>https://github.com/artsy/eigen</summary>
+  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Awesome Swift iOS App: awesome-swift repository official app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427) `Swift` 
+  <details><summary>https://github.com/matteocrippa/awesomeSwift-iOS-App</summary>
+  Added June 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- ChineseZodiac `Swift` 🔥
+  <details><summary>https://github.com/JakeLin/ChineseZodiac</summary>
+  Added May 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- LidderbuchApp: Songbook for Luxembourgish Students [` App Store`](https://itunes.apple.com/app/lidderbuch/id997143407) `Swift` 🇱🇺
+  <details><summary>https://github.com/AcelLuxembourg/LidderbuchApp</summary>
+  Added September 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- OCiney: Movie info app [` App Store`](https://itunes.apple.com/app/id955480687) 🔥🔥
+  <details><summary>https://github.com/florent37/OCiney-iOS</summary>
+  Added March  3, 2015<br>  License: `other`
+  </details>
+- Open States: Browse state legislatures 
+  <details><summary>https://github.com/sunlightlabs/openstates-ios</summary>
+  Added April  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- OpenCB: Interactive chess book reader 
+  <details><summary>https://github.com/student-t/OpenCB</summary>
+  Added May  8, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- OpenPics: View historical images from multiple remote sources [` App Store`](https://itunes.apple.com/app/openpics/id633423505) 
+  <details><summary>https://github.com/pj4533/OpenPics</summary>
+  Added December 31, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  ![OpenPics image 1](https://github.com/pj4533/OpenPics/raw/master/openpics.gif)
+  </details>
+- osia: Super basic app to browse open-source-ios-apps 
+  <details><summary>https://github.com/dkhamsing/osia</summary>
+  Added July 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- PhishOD: Listen to any song from Phish.in and view concert ratings and reviews from phish.net [` App Store`](https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018) 
+  <details><summary>https://github.com/alecgorge/PhishOD-iOS</summary>
+  Added June 26, 2015<br>  License: `other`
+  </details>
+- PhotoBrowser: A simple iOS Instagram photo browser `Swift` 🔥🔥
+  <details><summary>https://github.com/MoZhouqi/PhotoBrowser</summary>
+  Added March 31, 2015<br>  License: `other`
+  </details>
+- PopcornTime: PopcornTime movie app `Swift` 🔥
+  <details><summary>https://github.com/danylokostyshyn/popcorntime-ios</summary>
+  Added May 20, 2015<br>  License: `other`
+  </details>
+- Swift-Gif: Gif Search `Swift` 
+  <details><summary>https://github.com/pjchavarria/Swift-Gif</summary>
+  Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- SwiftFlickrApp: Flickr popular photo viewer `Swift` 🔥🔥
+  <details><summary>https://github.com/synboo/SwiftFlickrApp</summary>
+  Added May  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Textbook: textbooks from People's Education Press in China [` App Store`](https://itunes.apple.com/app/ke-ben/id993244460) `Swift` 🇨🇳
+  <details><summary>https://github.com/JohnWong/textbook</summary>
+  Added February 17, 2016<br>  License: `other`
+  </details>
+- WWDC Students: WWDC scholarship entries `Swift` 🔥
+  <details><summary>https://github.com/wwdc</summary>
+  Added March 21, 2016<br>  License: `other`
+  </details>
 - xkcd: iPhone app [` App Store`](https://itunes.apple.com/app/xkcd/id303688284) 
   <details><summary>https://github.com/paulrehkugler/xkcd</summary>
   Added June  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1368,10 +1398,6 @@ Image, video, audio, reading — [back to top](#readme)
 - xkcd Open Source: An xkcd comic reader [` App Store`](https://itunes.apple.com/app/xkcd-open-source/id995811425) 🔥
   <details><summary>https://github.com/mamaral/xkcd-Open-Source</summary>
   Added June  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- ZBar Barcode Reader: A comprehensive barcode reader [` App Store`](https://itunes.apple.com/app/id344957305) 
-  <details><summary>https://sourceforge.net/projects/zbar/</summary>
-  Added June  1, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)<br>  http://zbar.sourceforge.net/
   </details>
 
 ## News 
@@ -2356,10 +2382,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/aharren/CardDecks</summary>
   Added April 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- ChineseZodiac `Swift` 🔥
-  <details><summary>https://github.com/JakeLin/ChineseZodiac</summary>
-  Added May 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - Colo: Color themes hunter 
   <details><summary>https://github.com/wongzigii/Colo</summary>
   Added March 16, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
@@ -2420,10 +2442,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/mperovic/my41</summary>
   Added February 19, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
-- Open States: Browse state legislatures 
-  <details><summary>https://github.com/sunlightlabs/openstates-ios</summary>
-  Added April  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-  </details>
 - openHAB: Vendor and technology agnostic home automation [` App Store`](https://itunes.apple.com/app/id492054521) 
   <details><summary>https://github.com/openhab/openhab.ios</summary>
   Added June  2, 2016<br>  License: [`epl-1.0`](http://choosealicense.com/licenses/epl-1.0/)<br>  http://www.openhab.org/
@@ -2479,10 +2497,6 @@ Image, video, audio, reading — [back to top](#readme)
 - WaniKani: Learn kanji with WaniKani.com [` App Store`](https://itunes.apple.com/app/wanikani/id1034355141) `Swift` 
   <details><summary>https://github.com/haawa799/WaniKani-iOS</summary>
   Added May  3, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  </details>
-- WWDC Students: WWDC scholarship entries `Swift` 🔥
-  <details><summary>https://github.com/wwdc</summary>
-  Added March 21, 2016<br>  License: `other`
   </details>
 - YaleMobile: App for Yale University students [` App Store`](https://itunes.apple.com/app/yale-mobile/id497588523) 
   <details><summary>https://github.com/kiokoo/YaleMobile</summary>
