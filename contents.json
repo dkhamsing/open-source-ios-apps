@@ -2150,7 +2150,7 @@
     {
       "title": "Eleven",
       "category": "media",
-      "description": "Eleven Player is a simple powerful video player, uses ffmpeg",
+      "description": "Simple powerful video player, uses ffmpeg",
       "source": "https://github.com/coderyi/Eleven",
       "itunes": "https://itunes.apple.com/app/elevenplayer/id1033773648",
       "stars": 728,
@@ -2431,7 +2431,7 @@
     },
     {
       "title": "TechTavta",
-      "category": "media",
+      "category": "conference",
       "description": "Keep track of all events for Techtatva 2015",
       "source": "https://github.com/LUGM/TechTatva-15",
       "itunes": "https://itunes.apple.com/app/techtatva15/id922178880",
@@ -3524,9 +3524,9 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "EmotionNote",
+      "title": "EmotionNote Diary",
       "category": "media",
-      "description": "Emotion diary, analyze choose or take a photo of your face and the app will tell you your emotion",
+      "description": "Analyze choose or take a photo of your face and the app will tell you your emotion",
       "license": "mit",
       "source": "https://github.com/Yogayu/EmotionNote",
       "tags": [
