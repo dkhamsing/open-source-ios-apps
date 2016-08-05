@@ -2256,6 +2256,9 @@
       "itunes": "https://itunes.apple.com/app/openpics/id633423505",
       "stars": 61,
       "screenshots": ["https://github.com/pj4533/OpenPics/raw/master/openpics.gif"],
+      "tags": [
+        "swift"
+      ],
       "date_added": "Thu Dec 31 12:25:41 2015 -0500",
       "suggested_by": "@pj4533"
     },
