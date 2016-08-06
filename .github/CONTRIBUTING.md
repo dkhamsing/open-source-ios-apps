@@ -8,7 +8,7 @@ A new entry should update **contents.json** with this format:
             "category": "Category name",
             "description": "What this app does",
             "source": "Link to source, usually GitHub",
-            "screenshots": ["http://something.com/image.png"]
+            "screenshots": ["http://something.com/image.png"],
             "date_added": "Aug 6 2016",
             "suggested_by": "@github_username"
 }
