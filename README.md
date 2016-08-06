@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **529** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  5, 2016*).
+A collaborative list of **531** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  6, 2016*).
  
 Jump to 
  
@@ -131,7 +131,7 @@ Click ► to show more details
  
 - BaiduFM: Unofficial Baidu Music app `Swift` 🇨🇳🔥🔥🔥
   <details><summary>https://github.com/belm/BaiduFM-Swift</summary>
-  Added August  6, 2015<br>  License: `other`
+  Added August  6, 2015<br>  License: `other`<br>  ![BaiduFM image 1](https://github.com/belm/BaiduFM-Swift/raw/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png?raw=true)
   </details>
 - Bither: Simple and secure Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bither/id899478936) 
   <details><summary>https://github.com/bither/bither-ios</summary>
@@ -1355,13 +1355,13 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/student-t/OpenCB</summary>
   Added May  8, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
-- OpenPics: View historical images from multiple remote sources [` App Store`](https://itunes.apple.com/app/openpics/id633423505) 
+- OpenPics: View historical images from multiple remote sources [` App Store`](https://itunes.apple.com/app/openpics/id633423505) `Swift` 
   <details><summary>https://github.com/pj4533/OpenPics</summary>
   Added December 31, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  ![OpenPics image 1](https://github.com/pj4533/OpenPics/raw/master/openpics.gif)
   </details>
 - osia: Super basic app to browse open-source-ios-apps 
   <details><summary>https://github.com/dkhamsing/osia</summary>
-  Added July 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added July 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![osia image 1](https://github.com/dkhamsing/osia/raw/master/Assets/0.2.png)
   </details>
 - PhishOD: Listen to any song from Phish.in and view concert ratings and reviews from phish.net [` App Store`](https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018) 
   <details><summary>https://github.com/alecgorge/PhishOD-iOS</summary>
@@ -1524,7 +1524,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - osia: Super basic app to browse open-source-ios-apps 
   <details><summary>https://github.com/dkhamsing/osia</summary>
-  Added July 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added July 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![osia image 1](https://github.com/dkhamsing/osia/raw/master/Assets/0.2.png)
   </details>
 - Piwik Mobile 2: [Piwik](https://piwik.org/) analytics on the go [` App Store`](https://itunes.apple.com/app/id737216887) 
   <details><summary>https://github.com/piwik/piwik-mobile-2</summary>
