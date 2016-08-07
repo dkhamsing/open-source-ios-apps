@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **531** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  6, 2016*).
+A collaborative list of **532** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  7, 2016*).
  
 Jump to 
  
@@ -1919,6 +1919,10 @@ Image, video, audio, reading — [back to top](#readme)
 - Alarm: Geolocation based alarm app for travelers `Swift` 🔥
   <details><summary>https://github.com/ChrisChares/swift-alarm</summary>
   Added March 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Californication: Discover only the best points of interest in the California `Swift` 
+  <details><summary>https://github.com/vanyaland/Californication</summary>
+  Added August  7, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Californication image 1](https://github.com/vanyaland/Californication/raw/master/screenshot.png)
   </details>
 - MetricTime: Displays 'Metric Time' for pranking friends on trips to countries that use the metric system `Swift` 
   <details><summary>https://github.com/DeveloperACE/MetricTime</summary>
