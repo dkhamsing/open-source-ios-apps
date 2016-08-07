@@ -6583,7 +6583,10 @@
       "license": "mit",
       "tags": [
         "swift"
-      ]
+      ],
+      "screenshots": ["https://github.com/vanyaland/Californication/raw/master/screenshot.png"],
+      "date_added": "Aug 7 2016",
+      "suggested_by": "@vanyaland"
     }
   ]
 }
