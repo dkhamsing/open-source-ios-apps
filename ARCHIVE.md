@@ -3,6 +3,7 @@
 This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.
 
 - ABU https://github.com/flexih/ABU
+- Adler Planetarium Navigation & Tour https://github.com/lucasqiu/Adler-Mobile-App
 - AppSales-Mobile https://github.com/omz/AppSales-Mobile
 - Bancha https://github.com/squallstar/bancha-ios-app
 - Cheddar https://github.com/nothingmagical/cheddar-ios
@@ -10,7 +11,6 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Everest https://github.com/EverestOpenSource/Everest-iOS
 - LastFM https://github.com/lastfm/lastfm-iphone
 - Mume https://github.com/opensourceios/Mume
-- Navigation and Tour App for Adler Planetarium https://github.com/lucasqiu/Adler-Mobile-App
 - Pancake https://github.com/Imaginea/pancake-ios
 - PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
 - Repo https://github.com/ricburton/Repo
