@@ -6574,6 +6574,16 @@
       ],
       "date_added": "Aug 5 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Californication",
+      "category": "travel",
+      "description": "Discover only the best points of interest in the California",
+      "source": "https://github.com/vanyaland/Californication",
+      "license": "mit",
+      "tags": [
+        "swift"
+      ]
     }
   ]
 }
