@@ -37,6 +37,10 @@
       "id": "developer"
     },
     {
+      "title": "Extension",
+      "id": "extension"
+    },
+    {
       "title": "GitHub",
       "id": "github",
       "parent": "developer"
@@ -1290,7 +1294,7 @@
     },
     {
       "title": "TodayStocks",
-      "category": "finance",
+      "category": ["finance", "extension"],
       "description": "Show portfolio in a minimalist Today extension",
       "source": "https://github.com/premnirmal/TodayStocks",
       "itunes": "https://itunes.apple.com/app/todaystocks/id993467855",
@@ -3850,8 +3854,8 @@
     },
     {
       "title": "VPN On",
-      "category": "misc",
-      "description": "Today Widget to turn on VPN",
+      "category": "extension",
+      "description": "Today extension to turn on VPN",
       "license": "mit",
       "source": "https://github.com/lexrus/VPNOn",
       "itunes": "https://itunes.apple.com/app/vpn-on/id951344279",
@@ -3995,8 +3999,8 @@
     },
     {
       "title": "SwiftNote",
-      "category": "text",
-      "description": "Simple note taking app with today widget and iCloud syncing",
+      "category": ["text", "extension"],
+      "description": "Simple note taking with Today extension & iCloud syncing",
       "license": "mit",
       "source": "https://github.com/mslathrop/SwiftNote",
       "stars": 171,
@@ -4020,7 +4024,7 @@
     },
     {
       "title": "Fojusi",
-      "category": "timer",
+      "category": ["timer", "extension"],
       "description": "Work timer with Today extension",
       "source": "https://github.com/dasdom/Tomate",
       "itunes": "https://itunes.apple.com/app/fojusi/id923044693",
@@ -5783,8 +5787,8 @@
     },
     {
       "title": "OpenIt",
-      "category": "misc",
-      "description": "Notification widget to launch other apps from the notification center",
+      "category": "extension",
+      "description": "Today extension to launch other apps from the notification center",
       "source": "https://github.com/BalestraPatrick/OpenIt",
       "license": "other",
       "stars": 92,
