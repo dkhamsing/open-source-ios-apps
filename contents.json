@@ -6598,6 +6598,23 @@
       "screenshots": ["https://github.com/vanyaland/Californication/raw/master/screenshot.png"],
       "date_added": "Aug 7 2016",
       "suggested_by": "@vanyaland"
+    },
+    {
+      "title": "Tip Calculator - Calculate Tip and Split The Bill",
+      "category": [
+        "finance",
+        "viper"
+      ],
+      "description": "Calculate your tip and split the bill between any number of people.",
+      "source": "https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c",
+      "itunes": "https://itunes.apple.com/app/id1139456857",
+      "license": "mit",
+      "screenshots": ["https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png"],
+      "date_added": "Aug 8 2016",
+      "suggested_by": "@tirupati17",
+      "tags": [
+        "viper"
+      ]
     }
   ]
 }
