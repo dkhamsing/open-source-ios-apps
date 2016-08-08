@@ -5930,7 +5930,7 @@
         "news",
         "viper"
       ],
-      "description": "Search Chronicling America's collection of digitized U.S. newspapers",
+      "description": "Search Chronicling America's collection of digitized U.S. newspapers, uses Viper",
       "source": "https://github.com/ryanipete/AmericanChronicle",
       "homepage": "http://ryanipete.com/AmericanChronicle/",
       "itunes": "https://itunes.apple.com/app/id1092988367",
@@ -6017,12 +6017,11 @@
         "finance",
         "viper"
       ],
-      "description": "Calculate your Equated Monthly installment (EMI) for home, car & personal loans",
+      "description": "Calculate your Equated Monthly installment (EMI) for home, car & personal loans, uses Viper",
       "source": "https://github.com/tirupati17/loan-emi-calculator-clean-swift",
       "itunes": "https://itunes.apple.com/app/id1105890730",
       "tags": [
-        "swift",
-        "viper"
+        "swift"
       ],
       "license": "mit",
       "date_added": "Sun, 3 Jul 2016 23:08:32 +0530",
@@ -6602,12 +6601,12 @@
       "suggested_by": "@vanyaland"
     },
     {
-      "title": "Tip Calculator - Calculate Tip and Split The Bill",
+      "title": "Tip Calculator",
       "category": [
         "finance",
         "viper"
       ],
-      "description": "Calculate your tip and split the bill between any number of people.",
+      "description": "Calculate tip & split the bill between any number of people, uses Viper",
       "source": "https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c",
       "itunes": "https://itunes.apple.com/app/id1139456857",
       "license": "mit",
