@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **532** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  7, 2016*).
+A collaborative list of **534** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  8, 2016*).
  
 Jump to 
  
@@ -588,6 +588,10 @@ Click ► to show more details
 - SIP Calculator: Calculate the future value of SIP (Systematic Investment Plan) payments [` App Store`](https://itunes.apple.com/app/id1092822415) `Swift` 
   <details><summary>https://github.com/tirupati17/sip-calculator-swift</summary>
   Added July 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Tip Calculator - Calculate Tip and Split The Bill: Calculate your tip and split the bill between any number of people. [` App Store`](https://itunes.apple.com/app/id1139456857) 
+  <details><summary>https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c</summary>
+  Added August  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Tip Calculator - Calculate Tip and Split The Bill image 1](https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png)
   </details>
 - TodayStocks: Show portfolio in a minimalist Today extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855) 
   <details><summary>https://github.com/premnirmal/TodayStocks</summary>
@@ -1420,6 +1424,10 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/kvnbautista/Grinnell-Events-iOS</summary>
   Added October 16, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
+- Keinex tech blog `Swift` 
+  <details><summary>https://github.com/AndreyBaranchikov/Keinex-iOS</summary>
+  Added August  8, 2016<br>  ![Keinex tech blog image 1](https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/1.jpg)<br>  ![Keinex tech blog image 2](https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/2.jpg)
+  </details>
 - LobsterApp: Browse the lobste.rs community news site 
   <details><summary>https://github.com/rpowelll/LobsterApp</summary>
   Added July 21, 2016<br>  License: `other`
@@ -2059,6 +2067,10 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Californication: Discover only the best points of interest in the California `Swift` 
+  <details><summary>https://github.com/vanyaland/Californication</summary>
+  Added August  7, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Californication image 1](https://github.com/vanyaland/Californication/raw/master/screenshot.png)
+  </details>
 - Chaty: Anonymous messaging leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data sync 🔥🔥
   <details><summary>https://github.com/LunarFlash/Chaty</summary>
   Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -2343,6 +2355,10 @@ Image, video, audio, reading — [back to top](#readme)
 - Rambler.Conferences 
   <details><summary>https://github.com/rambler-ios/RamblerConferences</summary>
   Added March  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Tip Calculator - Calculate Tip and Split The Bill: Calculate your tip and split the bill between any number of people. [` App Store`](https://itunes.apple.com/app/id1139456857) 
+  <details><summary>https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c</summary>
+  Added August  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Tip Calculator - Calculate Tip and Split The Bill image 1](https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png)
   </details>
 - To do: A to-do list app using Viper 🔥🔥🔥
   <details><summary>https://github.com/objcio/issue-13-viper</summary>
