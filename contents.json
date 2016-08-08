@@ -2572,6 +2572,17 @@
       "suggested_by": "@dkhamsing"
     },
     {
+      "title": "Keinex",
+      "category": "news",
+      "description": "The official open source app of the Keinex.com",
+      "source": "https://github.com/AndreyBaranchikov/Keinex-iOS",
+      "screenshots": [
+	"https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/1.jpg", 
+	"https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/2.jpg"],
+      "date_added": "Aug 8 2016",
+       "suggested_by": "@AndreyBaranchikov"
+    },
+    {
       "title": "NirZhihuDaily2.0",
       "category": "news",
       "lang": "zho",
