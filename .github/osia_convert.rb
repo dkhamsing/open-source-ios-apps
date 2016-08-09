@@ -111,6 +111,14 @@ def output_apps(apps)
   o
 end
 
+def output_badges(count)
+  date = DateTime.now
+  date_display = date.strftime "%B %e, %Y"
+
+  b = "![](https://img.shields.io/badge/Projects-#{count}-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-#{date_display}-lightgrey.svg)"
+  b
+end
+
 def output_flag(lang)
   case lang
   when 'ger'
@@ -151,20 +159,18 @@ end
 
 def write_readme(j)
   t    = j['title']
+  subt = j['subtitle']
   desc = j['description']
   h    = j['header']
   f    = j['footer']
   cats = j['categories']
   apps = j['projects']
 
-  date = DateTime.now
-  date_display = date.strftime "%B %e, %Y"
-
   output = '# ' + t
   output << "\n\n"
   output << desc
-  output << "\n\nA collaborative list of **#{apps.count}** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: "
-  output << "(updated *#{date_display}*)."
+  output << "\n\n #{subt} \n"
+  output << output_badges(apps.count)
 
   output << "\n \nJump to \n \n"
 
