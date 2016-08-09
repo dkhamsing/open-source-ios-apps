@@ -4,7 +4,8 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **534** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (updated *August  8, 2016*).
+ A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: 
+![](https://img.shields.io/badge/Projects-534-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August  9, 2016-lightgrey.svg)
  
 Jump to 
  
@@ -16,6 +17,7 @@ Jump to
 - [Conference](#conference) 
 - [Content Blocking](#content-blocking) 
 - [Developer](#developer) 
+- [Extension](#extension) 
   - [GitHub](#github) 
 - [Finance](#finance) 
   - [Bitcoin](#bitcoin) 
@@ -520,6 +522,31 @@ Click ► to show more details
   Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
+## Extension 
+ 
+[back to top](#readme) 
+ 
+- Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693) `Swift` 🔥🔥
+  <details><summary>https://github.com/dasdom/Tomate</summary>
+  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- OpenIt: Today extension to launch other apps from the notification center 
+  <details><summary>https://github.com/BalestraPatrick/OpenIt</summary>
+  Added June  7, 2016<br>  License: `other`
+  </details>
+- SwiftNote: Simple note taking with Today extension & iCloud syncing `Swift` 🔥
+  <details><summary>https://github.com/mslathrop/SwiftNote</summary>
+  Added March 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- TodayStocks: Show portfolio in a minimalist Today extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855) 
+  <details><summary>https://github.com/premnirmal/TodayStocks</summary>
+  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- VPN On: Today extension to turn on VPN [` App Store`](https://itunes.apple.com/app/vpn-on/id951344279) `Swift` 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/lexrus/VPNOn</summary>
+  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
 ### GitHub 
  
 [back to top](#readme) 
@@ -573,7 +600,7 @@ Click ► to show more details
   <details><summary>https://github.com/peritus/doughwallet</summary>
   Added July  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- EMI Calculator: Calculate your Equated Monthly installment (EMI) for home, car & personal loans [` App Store`](https://itunes.apple.com/app/id1105890730) `Swift` 
+- EMI Calculator: Calculate your Equated Monthly installment (EMI) for home, car & personal loans, uses Viper [` App Store`](https://itunes.apple.com/app/id1105890730) `Swift` 
   <details><summary>https://github.com/tirupati17/loan-emi-calculator-clean-swift</summary>
   Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -589,9 +616,9 @@ Click ► to show more details
   <details><summary>https://github.com/tirupati17/sip-calculator-swift</summary>
   Added July 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Tip Calculator - Calculate Tip and Split The Bill: Calculate your tip and split the bill between any number of people. [` App Store`](https://itunes.apple.com/app/id1139456857) 
+- Tip Calculator: Calculate tip & split the bill between any number of people, uses Viper [` App Store`](https://itunes.apple.com/app/id1139456857) 
   <details><summary>https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c</summary>
-  Added August  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Tip Calculator - Calculate Tip and Split The Bill image 1](https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png)
+  Added August  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Tip Calculator image 1](https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png)
   </details>
 - TodayStocks: Show portfolio in a minimalist Today extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855) 
   <details><summary>https://github.com/premnirmal/TodayStocks</summary>
@@ -1408,7 +1435,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://itunes.apple.com/app/id1092988367) 
+- American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers, uses Viper [` App Store`](https://itunes.apple.com/app/id1092988367) 
   <details><summary>https://github.com/ryanipete/AmericanChronicle</summary>
   Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  http://ryanipete.com/AmericanChronicle/
   </details>
@@ -1773,7 +1800,7 @@ Image, video, audio, reading — [back to top](#readme)
   Added March 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://mattrubin.me/authenticator/
   </details>
 - Dono: Password derivation tool [` App Store`](https://itunes.apple.com/app/id1092920229) `Swift` 
-  <details><summary>https://github.com/dono-app/ios</summary>
+  <details><summary>https://github.com/dono-app/dono-ios</summary>
   Added July 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://dono-app.github.io/
   </details>
 - Encryptr: A zero-knowledge, cloud-based e-wallet and password manager [` App Store`](https://itunes.apple.com/app/id1066041348) 🔥🔥🔥🔥
@@ -1911,7 +1938,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/likumb/SimpleMemo</summary>
   Added August 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- SwiftNote: Simple note taking app with today widget and iCloud syncing `Swift` 🔥
+- SwiftNote: Simple note taking with Today extension & iCloud syncing `Swift` 🔥
   <details><summary>https://github.com/mslathrop/SwiftNote</summary>
   Added March 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2336,7 +2363,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://itunes.apple.com/app/id1092988367) 
+- American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers, uses Viper [` App Store`](https://itunes.apple.com/app/id1092988367) 
   <details><summary>https://github.com/ryanipete/AmericanChronicle</summary>
   Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  http://ryanipete.com/AmericanChronicle/
   </details>
@@ -2348,7 +2375,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/mutualmobile/Counter</summary>
   Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- EMI Calculator: Calculate your Equated Monthly installment (EMI) for home, car & personal loans [` App Store`](https://itunes.apple.com/app/id1105890730) `Swift` 
+- EMI Calculator: Calculate your Equated Monthly installment (EMI) for home, car & personal loans, uses Viper [` App Store`](https://itunes.apple.com/app/id1105890730) `Swift` 
   <details><summary>https://github.com/tirupati17/loan-emi-calculator-clean-swift</summary>
   Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2356,9 +2383,9 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/rambler-ios/RamblerConferences</summary>
   Added March  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Tip Calculator - Calculate Tip and Split The Bill: Calculate your tip and split the bill between any number of people. [` App Store`](https://itunes.apple.com/app/id1139456857) 
+- Tip Calculator: Calculate tip & split the bill between any number of people, uses Viper [` App Store`](https://itunes.apple.com/app/id1139456857) 
   <details><summary>https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c</summary>
-  Added August  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Tip Calculator - Calculate Tip and Split The Bill image 1](https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png)
+  Added August  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Tip Calculator image 1](https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png)
   </details>
 - To do: A to-do list app using Viper 🔥🔥🔥
   <details><summary>https://github.com/objcio/issue-13-viper</summary>
@@ -2466,10 +2493,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/openhab/openhab.ios</summary>
   Added June  2, 2016<br>  License: [`epl-1.0`](http://choosealicense.com/licenses/epl-1.0/)<br>  http://www.openhab.org/
   </details>
-- OpenIt: Notification widget to launch other apps from the notification center 
-  <details><summary>https://github.com/BalestraPatrick/OpenIt</summary>
-  Added June  7, 2016<br>  License: `other`
-  </details>
 - ownCloud: File browser and sync for ownCloud file hosting service [` App Store`](https://itunes.apple.com/app/owncloud/id543672169) 🔥🔥
   <details><summary>https://github.com/owncloud/ios</summary>
   Added May 18, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
@@ -2509,10 +2532,6 @@ Image, video, audio, reading — [back to top](#readme)
 - Vinylogue: Simple Last.fm app [` App Store`](https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119) 🔥
   <details><summary>https://github.com/twocentstudios/vinylogue</summary>
   Added January 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-  </details>
-- VPN On: Today Widget to turn on VPN [` App Store`](https://itunes.apple.com/app/vpn-on/id951344279) `Swift` 🔥🔥🔥🔥🔥
-  <details><summary>https://github.com/lexrus/VPNOn</summary>
-  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - WaniKani: Learn kanji with WaniKani.com [` App Store`](https://itunes.apple.com/app/wanikani/id1034355141) `Swift` 
   <details><summary>https://github.com/haawa799/WaniKani-iOS</summary>
