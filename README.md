@@ -4,11 +4,12 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
- A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: 
+A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
+
 ![](https://img.shields.io/badge/Projects-534-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August  9, 2016-lightgrey.svg)
- 
-Jump to 
- 
+
+Jump to
+
 - [Apple TV](#apple-tv) 
 - [Apple Watch](#apple-watch) 
 - [Browser](#browser) 
@@ -21,12 +22,12 @@ Jump to
   - [GitHub](#github) 
 - [Finance](#finance) 
   - [Bitcoin](#bitcoin) 
-- [Games](#games) 
-  - [Emulators](#emulators) 
+- [Game](#game) 
+  - [Emulator](#emulator) 
 - [Health](#health) 
   - [Fitness](#fitness) 
   - [ResearchKit](#researchkit) 
-- [Keyboards](#keyboards) 
+- [Keyboard](#keyboard) 
 - [Location](#location) 
 - [Media](#media) 
   - [Content](#content) 
@@ -650,7 +651,7 @@ Click ► to show more details
   Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-## Games 
+## Game 
  
 [back to top](#readme) 
  
@@ -867,7 +868,7 @@ Click ► to show more details
   Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  http://7b5labs.com/xpilotiphone
   </details>
 
-### Emulators 
+### Emulator 
  
 [back to top](#readme) 
  
@@ -991,7 +992,7 @@ Click ► to show more details
   Added April 15, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
 
-## Keyboards 
+## Keyboard 
  
 [back to top](#readme) 
  
