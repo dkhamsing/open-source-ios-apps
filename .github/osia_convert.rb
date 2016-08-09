@@ -169,10 +169,10 @@ def write_readme(j)
   output = '# ' + t
   output << "\n\n"
   output << desc
-  output << "\n\n #{subt} \n"
+  output << "\n\n#{subt}\n\n"
   output << output_badges(apps.count)
 
-  output << "\n \nJump to \n \n"
+  output << "\n\nJump to\n\n"
 
   cats.each do |c|
     title = c['title']
