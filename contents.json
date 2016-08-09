@@ -56,13 +56,13 @@
       "parent": "finance"
     },
     {
-      "title": "Games",
-      "id": "games"
+      "title": "Game",
+      "id": "game"
     },
     {
-      "title": "Emulators",
-      "id": "emulators",
-      "parent": "games"
+      "title": "Emulator",
+      "id": "emulator",
+      "parent": "game"
     },
     {
       "title": "Health",
@@ -79,8 +79,8 @@
       "parent": "health"
     },
     {
-      "title": "Keyboards",
-      "id": "keyboards"
+      "title": "Keyboard",
+      "id": "keyboard"
     },
     {
       "title": "Location",
@@ -272,7 +272,7 @@
       "title": "Provenance",
       "category": [
         "apple-tv",
-        "emulators"
+        "emulator"
       ],
       "description": "Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more",
       "source": "https://github.com/jasarien/Provenance",
@@ -1317,7 +1317,7 @@
     },
     {
       "title": "Concentration game (翻翻看)",
-      "category": "games",
+      "category": "game",
       "lang": "zho",
       "source": "https://github.com/geek5nan/FanFanSwift",
       "stars": 192,
@@ -1330,7 +1330,7 @@
     },
     {
       "title": "2048 in Objective-C",
-      "category": "games",
+      "category": "game",
       "license": "mit",
       "source": "https://github.com/austinzheng/iOS-2048",
       "stars": 192,
@@ -1339,7 +1339,7 @@
     },
     {
       "title": "2048 in Swift",
-      "category": "games",
+      "category": "game",
       "license": "mit",
       "source": "https://github.com/austinzheng/swift-2048",
       "stars": 2202,
@@ -1351,7 +1351,7 @@
     },
     {
       "title": "Alienblast",
-      "category": "games",
+      "category": "game",
       "description": "Cute and sweet shooting game developed with Cocos2D & SpriteBuilder",
       "source": "https://github.com/etamity/AlienBlast",
       "itunes": "https://itunes.apple.com/app/id1098323034",
@@ -1365,7 +1365,7 @@
     },
     {
       "title": "Bridges",
-      "category": "games",
+      "category": "game",
       "description": "A puzzle game with bridges, houses, tolls, and subways",
       "source": "https://github.com/zgrossbart/bridges",
       "itunes": "https://itunes.apple.com/app/seven-bridges/id586598714",
@@ -1376,7 +1376,7 @@
     },
     {
       "title": "Canabalt",
-      "category": "games",
+      "category": "game",
       "description": "Infinite runner",
       "source": "https://github.com/ericjohnson/canabalt-ios",
       "itunes": "https://itunes.apple.com/app/canabalt/id333180061",
@@ -1387,7 +1387,7 @@
     },
     {
       "title": "CardsAgainst",
-      "category": "games",
+      "category": "game",
       "description": "Cards Against Humanity app",
       "license": "mit",
       "source": "https://github.com/jpsim/CardsAgainst",
@@ -1400,7 +1400,7 @@
     },
     {
       "title": "Chess",
-      "category": "games",
+      "category": "game",
       "description": "Chess game to learn SpriteKit",
       "source": "https://github.com/mjcuva/Chess",
       "tags": [
@@ -1413,7 +1413,7 @@
     },
     {
       "title": "CodeCombat",
-      "category": "games",
+      "category": "game",
       "description": "Multiplayer programming game for learning how to code",
       "license": "mit",
       "source": "https://github.com/codecombat/codecombat-ios",
@@ -1423,7 +1423,7 @@
     },
     {
       "title": "Chuck",
-      "category": "games",
+      "category": "game",
       "description": "Throw a ball and catch it, over and over and over",
       "source": "https://github.com/moowahaha/Chuck",
       "itunes": "https://itunes.apple.com/app/chuck/id1050453297",
@@ -1434,7 +1434,7 @@
     },
     {
       "title": "DOOM",
-      "category": "games",
+      "category": "game",
       "description": "Doom Classic for iOS",
       "source": "https://github.com/id-Software/DOOM-iOS",
       "itunes": "https://itunes.apple.com/app/doom-classic/id336347946",
@@ -1445,7 +1445,7 @@
     },
     {
       "title": "DOOM-IOS2",
-      "category": "games",
+      "category": "game",
       "description": "Doom Classic for iOS version 2",
       "source": "https://github.com/id-Software/DOOM-IOS2",
       "itunes": "https://itunes.apple.com/app/doom-ii-rpg/id354051766",
@@ -1456,7 +1456,7 @@
     },
     {
       "title": "Dungeon Crawl",
-      "category": "games",
+      "category": "game",
       "description": "A game of dungeon exploration, combat and magic, involving characters of diverse skills",
       "homepage": "https://github.com/CliffsDover/crawl/tree/iOS_Release",
       "source": "https://github.com/CliffsDover/crawl",
@@ -1467,7 +1467,7 @@
     },
     {
       "title": "Five In A Row (五子棋)",
-      "category": "games",
+      "category": "game",
       "description": "SpriteKit game",
       "lang": "zho",
       "license": "mit",
@@ -1478,7 +1478,7 @@
     },
     {
       "title": "FlappySwift",
-      "category": "games",
+      "category": "game",
       "description": "Swift implementation of Flappy Bird",
       "source": "https://github.com/fullstackio/FlappySwift",
       "stars": 7841,
@@ -1492,7 +1492,7 @@
     },
     {
       "title": "Conway's Game of Life",
-      "category": "games",
+      "category": "game",
       "description": "Uses SpriteKit",
       "license": "mit",
       "source": "https://github.com/yonbergman/swift-gameoflife",
@@ -1505,7 +1505,7 @@
     },
     {
       "title": "GBA4iOS",
-      "category": "games",
+      "category": "game",
       "description": "Gameboy, Gameboy Color & Gameboy Advance emulator",
       "source": "https://bitbucket.org/rileytestut/gba4ios/",
       "license": "other",
@@ -1514,7 +1514,7 @@
     },
     {
       "title": "Gorillas",
-      "category": "games",
+      "category": "game",
       "description": "An iPhone (or iPod touch) port of the popular old QBasic game with spunk!",
       "source": "https://github.com/Lyndir/Gorillas",
       "homepage": "http://gorillas.lyndir.com/",
@@ -1526,7 +1526,7 @@
     },
     {
       "title": "GrubbyWorm",
-      "category": "games",
+      "category": "game",
       "description": "A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2",
       "source": "https://github.com/gamechina/GrubbyWorm",
       "tags": [
@@ -1539,7 +1539,7 @@
     },
     {
       "title": "littlego",
-      "category": "games",
+      "category": "game",
       "description": "Play the game of Go on the iPhone or iPad",
       "license": "apache-2.0",
       "source": "https://github.com/herzbube/littlego",
@@ -1549,7 +1549,7 @@
     },
     {
       "title": "MUDRammer",
-      "category": "games",
+      "category": "game",
       "description": "MUD app for iPhone/iPad",
       "license": "mit",
       "source": "https://github.com/splinesoft/MUDRammer",
@@ -1560,7 +1560,7 @@
     },
     {
       "title": "Mission999",
-      "category": "games",
+      "category": "game",
       "license": "apache-2.0",
       "source": "https://github.com/whunmr/Mission999",
       "itunes": "https://itunes.apple.com/app/mission-999/id1036686316",
@@ -1570,7 +1570,7 @@
     },
     {
       "title": "Orbit7",
-      "category": "games",
+      "category": "game",
       "description": "Game created in SpriteKit",
       "source": "https://github.com/Mav3r1ck/Orbit7",
       "tags": [
@@ -1583,7 +1583,7 @@
     },
     {
       "title": "Sakura Fly",
-      "category": "games",
+      "category": "game",
       "description": "Action game created in SpriteKit",
       "source": "https://github.com/l800891/Sakura-Fly",
       "itunes": "https://itunes.apple.com/app/sakura-fly/id1019023051",
@@ -1594,7 +1594,7 @@
     },
     {
       "title": "SceneKitFrogger",
-      "category": "games",
+      "category": "game",
       "license": "mit",
       "source": "https://github.com/devindazzle/SceneKitFrogger",
       "tags": [
@@ -1606,7 +1606,7 @@
     },
     {
       "title": "Spare Parts",
-      "category": "games",
+      "category": "game",
       "description": "Simple 2D point and line physics using Verlet integration",
       "source": "https://github.com/adamwulf/spare-parts-app",
       "itunes": "https://itunes.apple.com/app/spare-parts/id981297199",
@@ -1617,7 +1617,7 @@
     },
     {
       "title": "Stick-Hero-Swift",
-      "category": "games",
+      "category": "game",
       "description": "iPhone/iPad iOS Game using SpriteKit",
       "license": "mit",
       "source": "https://github.com/phpmaple/Stick-Hero-Swift",
@@ -1630,7 +1630,7 @@
     },
     {
       "title": "Wolfenstein 3D",
-      "category": "games",
+      "category": "game",
       "description": "Wolfenstein 3D for iOS",
       "source": "https://github.com/id-Software/Wolf3D-iOS",
       "itunes": "https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478",
@@ -1788,7 +1788,7 @@
     },
     {
       "title": "AA-Keyboard",
-      "category": "keyboards",
+      "category": "keyboard",
       "description": "ASCII art keyboard",
       "source": "https://github.com/sonsongithub/AAKeyboard",
       "itunes": "https://itunes.apple.com/app/aa-keyboard/id964182815",
@@ -1799,7 +1799,7 @@
     },
     {
       "title": "ClickWheelKeyboard",
-      "category": "keyboards",
+      "category": "keyboard",
       "description": "Brings back the classic iPod click wheel as a keyboard for iOS 8",
       "source": "https://github.com/b3ll/ClickWheelKeyboard",
       "itunes": "https://itunes.apple.com/app/click-wheel-keyboard/id993111285",
@@ -1810,7 +1810,7 @@
     },
     {
       "title": "Hodor",
-      "category": "keyboards",
+      "category": "keyboard",
       "description": "Fun Hodor keyboard",
       "source": "https://github.com/jonomuller/Hodor-Keyboard",
       "tags": [
@@ -1823,7 +1823,7 @@
     },
     {
       "title": "NaughtyKeyboard",
-      "category": "keyboards",
+      "category": "keyboard",
       "description": "Keyboard that supports The Big List of Naughty Strings",
       "license": "mit",
       "source": "https://github.com/Palleas/NaughtyKeyboard",
@@ -1836,7 +1836,7 @@
     },
     {
       "title": "Slidden",
-      "category": "keyboards",
+      "category": "keyboard",
       "description": "An open source, customizable, iOS keyboard",
       "source": "https://github.com/Brimizer/Slidden",
       "stars": 483,
@@ -4888,7 +4888,7 @@
     {
       "title": "ActiveGS",
       "category": [
-        "emulators"
+        "emulator"
       ],
       "description": "Apple II/IIGS Emulator with in-app game browser, mFi and iCade controller support",
       "source": "https://github.com/ogoguel/activegs-ios",
@@ -4900,7 +4900,7 @@
     {
       "title": "RetroArch",
       "category": [
-        "emulators"
+        "emulator"
       ],
       "description": "The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others",
       "source": "https://github.com/libretro/RetroArch",
@@ -4912,7 +4912,7 @@
     {
       "title": "MAME4iOS",
       "category": [
-        "emulators"
+        "emulator"
       ],
       "description": "MAME frontend",
       "source": "https://github.com/yoshisuga/MAME4iOS",
@@ -4924,7 +4924,7 @@
     {
       "title": "DOSPad",
       "category": [
-        "emulators"
+        "emulator"
       ],
       "description": "DOSBox",
       "license": "gpl-2.0",
@@ -4936,7 +4936,7 @@
     {
       "title": "PPSSPP",
       "category": [
-        "emulators"
+        "emulator"
       ],
       "description": "PSP emulator",
       "source": "https://github.com/hrydgard/ppsspp",
@@ -4948,7 +4948,7 @@
     {
       "title": "Scary Flight",
       "category": [
-        "games"
+        "game"
       ],
       "description": "Just another yet FlappyBird-style game",
       "license": "mit",
@@ -4976,7 +4976,7 @@
     {
       "title": "nds4ios",
       "category": [
-        "emulators"
+        "emulator"
       ],
       "description": "Nintendo DS emulator, port of DeSmuME",
       "source": "https://github.com/raaxis/nds4ios",
@@ -4988,7 +4988,7 @@
     {
       "title": "iUAE",
       "category": [
-        "emulators"
+        "emulator"
       ],
       "description": "Commodore Amiga emulator, based on UAE",
       "source": "https://github.com/emufreak/iAmiga",
@@ -5011,7 +5011,7 @@
     },
     {
       "title": "Balloon Burst",
-      "category": "games",
+      "category": "game",
       "description": "A simple game to use in learning Cocos2D",
       "source": "https://github.com/jamiely/ios-balloon-burst",
       "license": "other",
@@ -5214,7 +5214,7 @@
     },
     {
       "title": "Castle Hassle",
-      "category": "games",
+      "category": "game",
       "description": "A real-time physical game where you build your kingdom while crushing your opponents",
       "source": "https://github.com/bryceredd/CastleHassle",
       "itunes": "https://itunes.apple.com/app/castle-hassle/id524566068",
@@ -5225,7 +5225,7 @@
     },
     {
       "title": "Skeleton Key",
-      "category": "games",
+      "category": "game",
       "description": "A puzzle game where you must shift keys around a board to unlock treasure chests",
       "source": "https://github.com/insurgentgames/Skeleton-Key-iOS",
       "license": "mit",
@@ -5235,7 +5235,7 @@
     },
     {
       "title": "Cryptose",
-      "category": "games",
+      "category": "game",
       "description": "Solve cryptograms as a Hacker, Detective, or Spy",
       "source": "https://github.com/insurgentgames/Cryptose",
       "license": "gpl-3.0",
@@ -5245,7 +5245,7 @@
     },
     {
       "title": "Aeropack",
-      "category": "games",
+      "category": "game",
       "description": "A steampunk retro 2d platformer",
       "source": "https://github.com/insurgentgames/Aeropack",
       "license": "gpl-3.0",
@@ -5255,7 +5255,7 @@
     },
     {
       "title": "teh internets",
-      "category": "games",
+      "category": "game",
       "description": "Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter",
       "source": "https://github.com/insurgentgames/teh-internets",
       "license": "gpl-3.0",
@@ -5265,7 +5265,7 @@
     },
     {
       "title": "hoxChess",
-      "category": "games",
+      "category": "game",
       "description": "Xiangqi (Chinese Chess) with single and multiplayer modes",
       "source": "https://github.com/huygithub/hoxChess",
       "itunes": "https://itunes.apple.com/app/hoxchess/id363513274",
@@ -5276,7 +5276,7 @@
     },
     {
       "title": "iLabyrinth",
-      "category": "games",
+      "category": "game",
       "description": "Escape the labyrinth by following limited paths",
       "source": "https://github.com/RolandasRazma/iLabyrinth",
       "license": "other",
@@ -5286,7 +5286,7 @@
     },
     {
       "title": "Heredox",
-      "category": "games",
+      "category": "game",
       "description": "Place tiles to form your allegiance's symbols",
       "source": "https://github.com/RolandasRazma/Heredox",
       "homepage": "http://www.heredox.com/",
@@ -5296,7 +5296,7 @@
     },
     {
       "title": "Pterodactyl Attack",
-      "category": "games",
+      "category": "game",
       "description": "Blast your way through waves of pterodactyls (has a detailed writeup on how it's made)",
       "source": "https://github.com/shaunlebron/PterodactylAttack",
       "homepage": "https://shaunlebron.github.io/pteroattack.com/",
@@ -5308,7 +5308,7 @@
     },
     {
       "title": "Neocom for EVE Online",
-      "category": "games",
+      "category": "game",
       "description": "The character management tool for EveOnline MMORG",
       "license": "lgpl-2.1",
       "source": "https://github.com/mrdepth/Neocom",
@@ -5319,7 +5319,7 @@
     },
     {
       "title": "Hostile Takeover",
-      "category": "games",
+      "category": "game",
       "description": "A release of the Real Time Strategy game Warfare Incorporated",
       "source": "https://github.com/spiffcode/hostile-takeover",
       "license": "bsd-2-clause",
@@ -5329,7 +5329,7 @@
     },
     {
       "title": "XPilot",
-      "category": "games",
+      "category": "game",
       "description": "An iPhone port of the classic XPilot game",
       "source": "http://7b5labs.com/xpilot.git/",
       "homepage": "http://7b5labs.com/xpilotiphone",
@@ -5376,7 +5376,7 @@
     },
     {
       "title": "Dragon Shout App 2",
-      "category": "games",
+      "category": "game",
       "description": "A social journal for the Elder Scrolls® series",
       "source": "https://github.com/rblalock/dragon_shout_app_open_source",
       "itunes": "https://itunes.apple.com/app/id690208182",
@@ -5387,7 +5387,7 @@
     },
     {
       "title": "Frotz",
-      "category": "games",
+      "category": "game",
       "description": "Play hundreds of free works of Interactive Fiction (a.k.a. text adventure games)",
       "source": "https://github.com/ifrotz/iosfrotz",
       "homepage": "https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md",
@@ -5410,7 +5410,7 @@
     {
       "title": "Wizard War",
       "category": [
-        "games",
+        "game",
         "reactivecocoa",
         "parse"
       ],
@@ -5610,7 +5610,7 @@
     },
     {
       "title": "Hedgewars",
-      "category": "games",
+      "category": "game",
       "description": "A turn-based strategy game",
       "source": "http://hg.hedgewars.org/hedgewars/",
       "homepage": "http://www.hedgewars.org/",
@@ -5946,7 +5946,7 @@
     },
     {
       "title": "SaveTheDot",
-      "category": "games",
+      "category": "game",
       "description": "`UIViewPropertyAnimator` experiment where you have to escape from the squares",
       "source": "https://github.com/JakeLin/SaveTheDot",
       "license": "mit",
@@ -6037,7 +6037,7 @@
       "title": "My First Memory",
       "category": [
         "media",
-        "games"
+        "game"
       ],
       "description": "Introduction to iOS & Swift / memory game implementation fetching images from Instagram",
       "source": "https://github.com/Sajjon/SwiftIntro",
@@ -6052,7 +6052,7 @@
     {
       "title": "Mini vMac",
       "category": [
-        "emulators"
+        "emulator"
       ],
       "description": "Early 68K Macintosh emulator",
       "source": "https://github.com/zydeco/minivmac4ios",
@@ -6110,7 +6110,7 @@
     },
     {
       "title": "2048 in Objective-C using `SpriteKit`",
-      "category": "games",
+      "category": "game",
       "license": "mit",
       "source": "https://github.com/danqing/2048",
       "stars": 812,
@@ -6136,7 +6136,7 @@
     },
     {
       "title": "SHMUP",
-      "category": "games",
+      "category": "game",
       "description": "3D multiplatform game written primarily in C",
       "license": "gpl-3.0",
       "homepage": "http://fabiensanglard.net/shmup/",
@@ -6213,7 +6213,7 @@
     },
     {
       "title": "DropColour Game in Swift 2.2",
-      "category": "games",
+      "category": "game",
       "description": "Arcade game in which you simply have to drag and drop one circle onto another of the same color",
       "source": "https://github.com/elpassion/DropColour-iOS",
       "itunes": "https://itunes.apple.com/app/dropcolour/id1046339763",
@@ -6381,7 +6381,7 @@
     },
     {
       "title": "Conway's Game of Life in Objective-C (Vie)",
-      "category": "games",
+      "category": "game",
       "source": "https://github.com/fabienwarniez/Vie",
       "itunes": "https://itunes.apple.com/app/vie-conways-game-of-life/id989686123",
       "license": "mit",
@@ -6403,7 +6403,7 @@
     },
     {
       "title": "Master",
-      "category": "games",
+      "category": "game",
       "description": "PokéMon-like game that uses your location",
       "license": "mit",
       "source": "https://github.com/Kjuly/iPokeMon",
