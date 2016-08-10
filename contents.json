@@ -345,7 +345,7 @@
       ],
       "stars": 72,
       "date_added": "Wed Apr 29 16:01:24 2015 +0200",
-      "suggested_by": "Boris Bügling"
+      "suggested_by": "Boris Bügling"
     },
     {
       "title": "Bus Today",
@@ -6618,6 +6618,19 @@
       "screenshots": ["https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png"],
       "date_added": "Aug 8 2016",
       "suggested_by": "@tirupati17"
+    },
+    {
+      "title": "QR Blank",
+      "category": ["misc"],
+      "description": "No Ads Simple QR Code URL scanner",
+      "source": "https://github.com/kahopoon/QR-Blank",
+      "homepage": "https://www.kahopoon.net",
+      "itunes": "https://itunes.apple.com/app/id1137064763",        
+      "license": "mit",   
+      "tags": ["swift"],
+      "screenshots": ["https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif", "https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg", "https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg"],
+      "date_added": "Aug 10 2016",
+      "suggested_by": "@kahopoon"
     }
   ]
 }
