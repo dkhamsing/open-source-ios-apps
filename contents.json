@@ -6618,7 +6618,7 @@
       "screenshots": ["https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png"],
       "date_added": "Aug 8 2016",
       "suggested_by": "@tirupati17"
-    }
+    },
     {
       "title": "QR Blank",
       "category": ["misc"],
@@ -6631,6 +6631,6 @@
       "screenshots": ["https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif", "https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg", "https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg"],
       "date_added": "Aug 10 2016",
       "suggested_by": "@kahopoon"
-}
+    }
   ]
 }
