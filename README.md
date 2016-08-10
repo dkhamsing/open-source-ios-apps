@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-534-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August  9, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-535-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 10, 2016-lightgrey.svg)
 
 Jump to
 
@@ -2501,6 +2501,10 @@ Image, video, audio, reading — [back to top](#readme)
 - Phonetic: Add phonetic keys for Chinese names 🔥🔥
   <details><summary>https://github.com/iAugux/Phonetic</summary>
   Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- QR Blank: No Ads Simple QR Code URL scanner [` App Store`](https://itunes.apple.com/app/id1137064763) `Swift` 
+  <details><summary>https://github.com/kahopoon/QR-Blank</summary>
+  Added August 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://www.kahopoon.net<br>  ![QR Blank image 1](https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif)<br>  ![QR Blank image 2](https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg)<br>  ![QR Blank image 3](https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg)
   </details>
 - Runner-Stats: iPhone app to record running data [` App Store`](https://itunes.apple.com/app/runner-stats/id793443821) 
   <details><summary>https://github.com/hukun01/Runner-Stats</summary>
