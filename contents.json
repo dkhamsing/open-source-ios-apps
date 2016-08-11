@@ -6631,6 +6631,18 @@
       "screenshots": ["https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif", "https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg", "https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg"],
       "date_added": "Aug 10 2016",
       "suggested_by": "@kahopoon"
+    },
+    {
+      "title": "Simplenote",
+      "category": "text",
+      "description": "Easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices. Share notes with other users to collaborate on a project together or to access the same list.",
+      "source": "https://github.com/automattic/simplenote-ios",
+      "itunes": "https://itunes.apple.com/app/simplenote/id289429962",
+      "homepage": "https://simplenote.com/",
+      "license": "gpl-2.0",
+      "screenshots": ["https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg"],
+      "date_added": "Aug 11 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
