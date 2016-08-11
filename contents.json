@@ -38,13 +38,13 @@
       "id": "developer"
     },
     {
-      "title": "Extension",
-      "id": "extension"
-    },
-    {
       "title": "GitHub",
       "id": "github",
       "parent": "developer"
+    },
+    {
+      "title": "Extension",
+      "id": "extension"
     },
     {
       "title": "Finance",
