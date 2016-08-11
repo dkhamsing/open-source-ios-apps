@@ -3881,7 +3881,7 @@
     {
       "title": "WaniKani",
       "category": "misc",
-      "description": "Learn kanji with WaniKani.com",
+      "description": "Learn kanji with https://www.wanikani.com/",
       "license": "gpl-3.0",
       "source": "https://github.com/haawa799/WaniKani-iOS",
       "itunes": "https://itunes.apple.com/app/wanikani/id1034355141",
