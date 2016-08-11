@@ -6346,7 +6346,7 @@
     {
       "title": "LobsterApp",
       "category": "news",
-      "description": "Browse the lobste.rs community news site",
+      "description": "Browse the https://lobste.rs/ community news site",
       "source": "https://github.com/rpowelll/LobsterApp",
       "license": "other",
       "date_added": "Thu Jul 21 07:33:15 2016 -0700",
