@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-535-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 10, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-536-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 11, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1456,7 +1456,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/AndreyBaranchikov/Keinex-iOS</summary>
   Added August  8, 2016<br>  ![Keinex tech blog image 1](https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/1.jpg)<br>  ![Keinex tech blog image 2](https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/2.jpg)
   </details>
-- LobsterApp: Browse the lobste.rs community news site 
+- LobsterApp: Browse the https://lobste.rs/ community news site 
   <details><summary>https://github.com/rpowelll/LobsterApp</summary>
   Added July 21, 2016<br>  License: `other`
   </details>
@@ -1938,6 +1938,10 @@ Image, video, audio, reading — [back to top](#readme)
 - SimpleMemo: Sync notes to EverNote [` App Store`](https://itunes.apple.com/app/yi-bian-qian/id1029807896) 🔥🔥
   <details><summary>https://github.com/likumb/SimpleMemo</summary>
   Added August 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Simplenote: Easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices. Share notes with other users to collaborate on a project together or to access the same list. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962) 
+  <details><summary>https://github.com/automattic/simplenote-ios</summary>
+  Added August 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://simplenote.com/<br>  ![Simplenote image 1](https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg)
   </details>
 - SwiftNote: Simple note taking with Today extension & iCloud syncing `Swift` 🔥
   <details><summary>https://github.com/mslathrop/SwiftNote</summary>
@@ -2502,7 +2506,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/iAugux/Phonetic</summary>
   Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- QR Blank: No Ads Simple QR Code URL scanner [` App Store`](https://itunes.apple.com/app/id1137064763) `Swift` 
+- QR Blank: No ads simple QR code URL scanner [` App Store`](https://itunes.apple.com/app/id1137064763) `Swift` 
   <details><summary>https://github.com/kahopoon/QR-Blank</summary>
   Added August 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://www.kahopoon.net<br>  ![QR Blank image 1](https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif)<br>  ![QR Blank image 2](https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg)<br>  ![QR Blank image 3](https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg)
   </details>
@@ -2538,7 +2542,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/twocentstudios/vinylogue</summary>
   Added January 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
-- WaniKani: Learn kanji with WaniKani.com [` App Store`](https://itunes.apple.com/app/wanikani/id1034355141) `Swift` 
+- WaniKani: Learn kanji with https://www.wanikani.com/ [` App Store`](https://itunes.apple.com/app/wanikani/id1034355141) `Swift` 
   <details><summary>https://github.com/haawa799/WaniKani-iOS</summary>
   Added May  3, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
