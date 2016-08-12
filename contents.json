@@ -3895,7 +3895,7 @@
     },
     {
       "title": "Words",
-      "category": "text",
+      "category": "content",
       "description": "Thesaurus app",
       "license": "mit",
       "source": "https://github.com/soffes/words",
