@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-536-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 11, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-536-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 12, 2016-lightgrey.svg)
 
 Jump to
 
@@ -18,12 +18,12 @@ Jump to
 - [Conference](#conference) 
 - [Developer](#developer) 
   - [GitHub](#github) 
+- [Emulator](#emulator) 
 - [Extension](#extension) 
   - [Content Blocking](#content-blocking) 
 - [Finance](#finance) 
   - [Bitcoin](#bitcoin) 
 - [Game](#game) 
-  - [Emulator](#emulator) 
 - [Health](#health) 
   - [Fitness](#fitness) 
   - [ResearchKit](#researchkit) 
@@ -536,6 +536,51 @@ Click ► to show more details
   Added May 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
+## Emulator 
+ 
+[back to top](#readme) 
+ 
+- ActiveGS: Apple II/IIGS Emulator with in-app game browser, mFi and iCade controller support 
+  <details><summary>https://github.com/ogoguel/activegs-ios</summary>
+  Added May 13, 2016<br>  License: `other`
+  </details>
+- DOSPad: DOSBox 
+  <details><summary>https://github.com/litchie/dospad</summary>
+  Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- GBA4iOS: Gameboy, Gameboy Color & Gameboy Advance emulator 
+  <details><summary>https://bitbucket.org/rileytestut/gba4ios/</summary>
+  Added November 21, 2015<br>  License: `other`
+  </details>
+- iUAE: Commodore Amiga emulator, based on UAE 
+  <details><summary>https://github.com/emufreak/iAmiga</summary>
+  Added May 14, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- MAME4iOS: MAME frontend 
+  <details><summary>https://github.com/yoshisuga/MAME4iOS</summary>
+  Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- Mini vMac: Early 68K Macintosh emulator 
+  <details><summary>https://github.com/zydeco/minivmac4ios</summary>
+  Added July 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://namedfork.net/minivmac/
+  </details>
+- nds4ios: Nintendo DS emulator, port of DeSmuME 
+  <details><summary>https://github.com/raaxis/nds4ios</summary>
+  Added May 14, 2016<br>  License: `other`
+  </details>
+- PPSSPP: PSP emulator 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/hrydgard/ppsspp</summary>
+  Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/jasarien/Provenance</summary>
+  Added April 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- RetroArch: The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others 🔥🔥🔥🔥
+  <details><summary>https://github.com/libretro/RetroArch</summary>
+  Added May 13, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+
 ## Extension 
  
 [back to top](#readme) 
@@ -680,11 +725,11 @@ Click ► to show more details
   <details><summary>https://github.com/etamity/AlienBlast</summary>
   Added July 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Balloon Burst: A simple game to use in learning Cocos2D 
+- Balloon Burst: Uses Cocos2D 
   <details><summary>https://github.com/jamiely/ios-balloon-burst</summary>
   Added May 16, 2016<br>  License: `other`
   </details>
-- Bridges: A puzzle game with bridges, houses, tolls, and subways [` App Store`](https://itunes.apple.com/app/seven-bridges/id586598714) 🔥
+- Bridges: A puzzle game with bridges, houses, tolls & subways [` App Store`](https://itunes.apple.com/app/seven-bridges/id586598714) 🔥
   <details><summary>https://github.com/zgrossbart/bridges</summary>
   Added May 15, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -700,7 +745,7 @@ Click ► to show more details
   <details><summary>https://github.com/bryceredd/CastleHassle</summary>
   Added May 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Chess: Chess game to learn SpriteKit `Swift` 
+- Chess: Uses SpriteKit `Swift` 
   <details><summary>https://github.com/mjcuva/Chess</summary>
   Added July 15, 2015<br>  License: `other`
   </details>
@@ -740,7 +785,7 @@ Click ► to show more details
   <details><summary>https://github.com/rblalock/dragon_shout_app_open_source</summary>
   Added June  1, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
-- DropColour Game in Swift 2.2: Arcade game in which you simply have to drag and drop one circle onto another of the same color [` App Store`](https://itunes.apple.com/app/dropcolour/id1046339763) `Swift` 
+- DropColour Game in Swift 2.2: Drag and drop one circle onto another of the same color [` App Store`](https://itunes.apple.com/app/dropcolour/id1046339763) `Swift` 
   <details><summary>https://github.com/elpassion/DropColour-iOS</summary>
   Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -748,7 +793,7 @@ Click ► to show more details
   <details><summary>https://github.com/CliffsDover/crawl</summary>
   Added March 23, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://github.com/CliffsDover/crawl/tree/iOS_Release
   </details>
-- Five In A Row (五子棋): SpriteKit game 🇨🇳
+- Five In A Row (五子棋): Uses SpriteKit 🇨🇳
   <details><summary>https://github.com/WelkinXie/FiveInARow</summary>
   Added May  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -760,15 +805,11 @@ Click ► to show more details
   <details><summary>https://github.com/ifrotz/iosfrotz</summary>
   Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md
   </details>
-- GBA4iOS: Gameboy, Gameboy Color & Gameboy Advance emulator 
-  <details><summary>https://bitbucket.org/rileytestut/gba4ios/</summary>
-  Added November 21, 2015<br>  License: `other`
-  </details>
-- Gorillas: An iPhone (or iPod touch) port of the popular old QBasic game with spunk! [` App Store`](https://itunes.apple.com/app/gorillas/id302275459) 🔥🔥
+- Gorillas: An iPhone port of the popular old QBasic game with spunk [` App Store`](https://itunes.apple.com/app/gorillas/id302275459) 🔥🔥
   <details><summary>https://github.com/Lyndir/Gorillas</summary>
   Added March  5, 2016<br>  License: `other`<br>  http://gorillas.lyndir.com/
   </details>
-- GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 `Swift` 
+- GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit & ReplayKit, written in Swift 2 `Swift` 
   <details><summary>https://github.com/gamechina/GrubbyWorm</summary>
   Added January 23, 2016<br>  License: `other`
   </details>
@@ -780,7 +821,7 @@ Click ► to show more details
   <details><summary>https://github.com/RolandasRazma/Heredox</summary>
   Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  http://www.heredox.com/
   </details>
-- Hostile Takeover: A release of the Real Time Strategy game Warfare Incorporated 
+- Hostile Takeover: A release of the real time strategy game Warfare Incorporated 
   <details><summary>https://github.com/spiffcode/hostile-takeover</summary>
   Added June  1, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
   </details>
@@ -792,7 +833,7 @@ Click ► to show more details
   <details><summary>https://github.com/RolandasRazma/iLabyrinth</summary>
   Added June  1, 2016<br>  License: `other`
   </details>
-- littlego: Play the game of Go on the iPhone or iPad 
+- littlego: Play the game of Go on iPhone/iPad 
   <details><summary>https://github.com/herzbube/littlego</summary>
   Added March  6, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -816,15 +857,15 @@ Click ► to show more details
   <details><summary>https://github.com/mrdepth/Neocom</summary>
   Added June  1, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
   </details>
-- Orbit7: Game created in SpriteKit `Swift` 
+- Orbit7: Uses SpriteKit `Swift` 
   <details><summary>https://github.com/Mav3r1ck/Orbit7</summary>
   Added April  2, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Pterodactyl Attack: Blast your way through waves of pterodactyls (has a detailed writeup on how it's made) [` App Store`](https://itunes.apple.com/app/pterodactyl-attack/id786862892) 
+- Pterodactyl Attack: Blast your way through waves of pterodactyls, includes detailed writeup on how it's made [` App Store`](https://itunes.apple.com/app/pterodactyl-attack/id786862892) 
   <details><summary>https://github.com/shaunlebron/PterodactylAttack</summary>
   Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://shaunlebron.github.io/pteroattack.com/
   </details>
-- Sakura Fly: Action game created in SpriteKit [` App Store`](https://itunes.apple.com/app/sakura-fly/id1019023051) 
+- Sakura Fly: Action game, uses SpriteKit [` App Store`](https://itunes.apple.com/app/sakura-fly/id1019023051) 
   <details><summary>https://github.com/l800891/Sakura-Fly</summary>
   Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -852,7 +893,7 @@ Click ► to show more details
   <details><summary>https://github.com/adamwulf/spare-parts-app</summary>
   Added April  6, 2015<br>  License: `other`
   </details>
-- Stick-Hero-Swift: iPhone/iPad iOS Game using SpriteKit `Swift` 🔥🔥
+- Stick-Hero-Swift: iPhone/iPad game, uses SpriteKit `Swift` 🔥🔥
   <details><summary>https://github.com/phpmaple/Stick-Hero-Swift</summary>
   Added June 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -871,47 +912,6 @@ Click ► to show more details
 - XPilot: An iPhone port of the classic XPilot game [` App Store`](https://itunes.apple.com/app/id322114791) 
   <details><summary>http://7b5labs.com/xpilot.git/</summary>
   Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  http://7b5labs.com/xpilotiphone
-  </details>
-
-### Emulator 
- 
-[back to top](#readme) 
- 
-- ActiveGS: Apple II/IIGS Emulator with in-app game browser, mFi and iCade controller support 
-  <details><summary>https://github.com/ogoguel/activegs-ios</summary>
-  Added May 13, 2016<br>  License: `other`
-  </details>
-- DOSPad: DOSBox 
-  <details><summary>https://github.com/litchie/dospad</summary>
-  Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  </details>
-- iUAE: Commodore Amiga emulator, based on UAE 
-  <details><summary>https://github.com/emufreak/iAmiga</summary>
-  Added May 14, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  </details>
-- MAME4iOS: MAME frontend 
-  <details><summary>https://github.com/yoshisuga/MAME4iOS</summary>
-  Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  </details>
-- Mini vMac: Early 68K Macintosh emulator 
-  <details><summary>https://github.com/zydeco/minivmac4ios</summary>
-  Added July 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://namedfork.net/minivmac/
-  </details>
-- nds4ios: Nintendo DS emulator, port of DeSmuME 
-  <details><summary>https://github.com/raaxis/nds4ios</summary>
-  Added May 14, 2016<br>  License: `other`
-  </details>
-- PPSSPP: PSP emulator 🔥🔥🔥🔥🔥
-  <details><summary>https://github.com/hrydgard/ppsspp</summary>
-  Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  </details>
-- Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more 🔥🔥🔥🔥🔥
-  <details><summary>https://github.com/jasarien/Provenance</summary>
-  Added April 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-  </details>
-- RetroArch: The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others 🔥🔥🔥🔥
-  <details><summary>https://github.com/libretro/RetroArch</summary>
-  Added May 13, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 
 ## Health 
