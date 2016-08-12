@@ -60,6 +60,7 @@ Jump to
 - [Misc](#misc) 
   - [Calculator](#calculator) 
   - [Clock](#clock) 
+  - [Scan](#scan) 
   - [Timer](#timer) 
 - [Bonus](#bonus) 
 - [Thanks](#thanks)
@@ -136,7 +137,7 @@ Click ► to show more details
   <details><summary>https://github.com/belm/BaiduFM-Swift</summary>
   Added August  6, 2015<br>  License: `other`<br>  ![BaiduFM image 1](https://github.com/belm/BaiduFM-Swift/raw/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png?raw=true)
   </details>
-- Bither: Simple and secure Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bither/id899478936) 
+- Bither: Simple & secure Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bither/id899478936) 
   <details><summary>https://github.com/bither/bither-ios</summary>
   Added April  3, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -172,7 +173,7 @@ Click ► to show more details
   <details><summary>https://github.com/lazerwalker/cortado</summary>
   Added June 25, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Count It: Dead simple app that lets you count anything [` App Store`](https://itunes.apple.com/app/id1098893335) `Swift` 
+- Count It: Dead simple way to you count anything [` App Store`](https://itunes.apple.com/app/id1098893335) `Swift` 
   <details><summary>https://github.com/PiXeL16/CountItApp</summary>
   Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -539,6 +540,10 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- Celluloid: The best photo extension [` App Store`](https://itunes.apple.com/app/celluloid/id1124966798) 🇨🇳🔥🔥
+  <details><summary>https://github.com/100mango/Celluloid</summary>
+  Added July 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693) `Swift` 🔥🔥
   <details><summary>https://github.com/dasdom/Tomate</summary>
   Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -576,11 +581,11 @@ Click ► to show more details
   <details><summary>https://github.com/krishkumar/BlockParty</summary>
   Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Focus: Content blocker by Firefox `Swift` 🔥🔥
+- Focus by Firefox `Swift` 🔥🔥
   <details><summary>https://github.com/mozilla/focus</summary>
   Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   </details>
-- Swab: Content blocker of creative, web & design culture ads [` App Store`](https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002) `Swift` 
+- Swab: Creative, web & design culture ad blocking [` App Store`](https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002) `Swift` 
   <details><summary>https://github.com/pkamb/swab</summary>
   Added July 12, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>  http://swabthe.com/
   </details>
@@ -634,7 +639,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- Bither: Simple and secure Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bither/id899478936) 
+- Bither: Simple & secure Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bither/id899478936) 
   <details><summary>https://github.com/bither/bither-ios</summary>
   Added April  3, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -1162,10 +1167,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/ijoshsmith/swift-ascii-art</summary>
   Added May  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Celluloid: The best photo extension [` App Store`](https://itunes.apple.com/app/celluloid/id1124966798) 🇨🇳🔥🔥
-  <details><summary>https://github.com/100mango/Celluloid</summary>
-  Added July 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - CollageMaker: Import photos from an Instagram user and make a collage 
   <details><summary>https://github.com/Azoft/CollageMaker-iOS</summary>
   Added January 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1185,10 +1186,6 @@ Image, video, audio, reading — [back to top](#readme)
 - DownTube: Download videos from YouTube for offline use `Swift` 
   <details><summary>https://github.com/MrAdamBoyd/DownTube</summary>
   Added June 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- Dunk: Dribbble client [` App Store`](https://itunes.apple.com/app/dunk-for-dribbble/id1003028105) `Swift` 🔥🔥
-  <details><summary>https://github.com/naoyashiga/Dunk</summary>
-  Added December 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - Eleven: Simple powerful video player, uses ffmpeg [` App Store`](https://itunes.apple.com/app/elevenplayer/id1033773648) 🔥🔥🔥
   <details><summary>https://github.com/coderyi/Eleven</summary>
@@ -1210,10 +1207,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/FlexMonkey/Filterpedia</summary>
   Added January  7, 2016<br>  License: `other`
   </details>
-- Flickr-Search: Simple app which consumes the Flickr Search API 
-  <details><summary>https://github.com/alikaragoz/Flickr-Search</summary>
-  Added February  4, 2015<br>  License: `other`
-  </details>
 - FreeStreamer: A low-memory footprint streaming audio player 🔥🔥🔥🔥
   <details><summary>https://github.com/muhku/FreeStreamer</summary>
   Added October 30, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
@@ -1234,10 +1227,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/xbmc/xbmc</summary>
   Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://kodi.tv/
   </details>
-- KonaBot: Unofficial app for konachan.net [` App Store`](https://itunes.apple.com/app/konabot/id1055716649) `Swift` 
-  <details><summary>https://github.com/hkalexling/KonaBot-iOS</summary>
-  Added December  3, 2015<br>  License: `other`
-  </details>
 - Longboxed: Track the releases of your favorite comics [` App Store`](https://itunes.apple.com/app/longboxed-comic-tracker/id965045339) 
   <details><summary>https://github.com/jayhickey/Longboxed-iOS</summary>
   Added June 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1253,10 +1242,6 @@ Image, video, audio, reading — [back to top](#readme)
 - MiamiSunglasses: Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH) `Swift` 
   <details><summary>https://github.com/DeveloperACE/MiamiSunglasses</summary>
   Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  </details>
-- movies: Movie info app 🔥🔥🔥
-  <details><summary>https://github.com/KMindeguia/movies</summary>
-  Added February 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - MuPDF: A PDF, XPS/OpenXPS, CBZ and EPUB document viewer [` App Store`](https://itunes.apple.com/app/id482941798) 
   <details><summary>http://git.ghostscript.com/?p=mupdf.git;a=summary</summary>
@@ -1290,17 +1275,9 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://sourceforge.net/projects/projectm/</summary>
   Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  http://projectm.sourceforge.net/
   </details>
-- Pugs: Simple pug photo viewer `Swift` 
-  <details><summary>https://github.com/soffes/Pugs</summary>
-  Added January 25, 2016<br>  License: `other`
-  </details>
 - Radio Paradise: Official app for http://www.radioparadise.com/ [` App Store`](https://itunes.apple.com/app/id663334697) 
   <details><summary>https://github.com/ilTofa/rposx</summary>
   Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://www.iltofa.com/rphd/
-  </details>
-- ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
-  <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
-  Added May 11, 2016<br>  License: `other`
   </details>
 - RealmVideo: Watch Realm videos & slides on your phone `Swift` 🔥🔥
   <details><summary>https://github.com/BalestraPatrick/RealmVideo</summary>
@@ -1314,11 +1291,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/LaunchKit/screenshotter</summary>
   Added July 28, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  ![screenshotter image 1](https://camo.githubusercontent.com/ab02fd356e17f9d3de7ebdb367a08ef97f279c4c/687474703a2f2f73637265656e73686f747465722e6e65742f6c69622f696d616765732f6970686f6e652e706e67)
   </details>
-- SoundCloudSwift: SoundCloud app `Swift` 🔥
-  <details><summary>https://github.com/pepibumur/SoundCloudSwift</summary>
-  Added May  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- Swift Radio Pro: Professional Radio Station App, created with Swift 2 `Swift` 🔥🔥🔥🔥
+- Swift Radio Pro: Professional radio station app, created with Swift 2 `Swift` 🔥🔥🔥🔥
   <details><summary>https://github.com/swiftcodex/Swift-Radio-Pro</summary>
   Added January 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1334,10 +1307,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/vanyaland/Tagger</summary>
   Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- That Movie With: Find common movies among actors [` App Store`](https://itunes.apple.com/app/that-movie-with/id892972135) 
-  <details><summary>https://github.com/jayhickey/thatmoviewith</summary>
-  Added June 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox [` App Store`](https://itunes.apple.com/app/upupu/id508401854) 
   <details><summary>https://github.com/xcoo/upupu</summary>
   Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
@@ -1349,10 +1318,6 @@ Image, video, audio, reading — [back to top](#readme)
 - VoiceMemos: iPhone/iPad audio recorder `Swift` 🔥🔥
   <details><summary>https://github.com/MoZhouqi/VoiceMemos</summary>
   Added April  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- ZBar Barcode Reader: A comprehensive barcode reader [` App Store`](https://itunes.apple.com/app/id344957305) 
-  <details><summary>https://sourceforge.net/projects/zbar/</summary>
-  Added June  1, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)<br>  http://zbar.sourceforge.net/
   </details>
 
 ### Content 
@@ -1371,9 +1336,25 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/JakeLin/ChineseZodiac</summary>
   Added May 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
+- Dunk: Dribbble client [` App Store`](https://itunes.apple.com/app/dunk-for-dribbble/id1003028105) `Swift` 🔥🔥
+  <details><summary>https://github.com/naoyashiga/Dunk</summary>
+  Added December 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Flickr-Search: Simple app which consumes the Flickr Search API 
+  <details><summary>https://github.com/alikaragoz/Flickr-Search</summary>
+  Added February  4, 2015<br>  License: `other`
+  </details>
+- KonaBot: Unofficial app for http://konachan.net/ [` App Store`](https://itunes.apple.com/app/konabot/id1055716649) `Swift` 
+  <details><summary>https://github.com/hkalexling/KonaBot-iOS</summary>
+  Added December  3, 2015<br>  License: `other`
+  </details>
 - LidderbuchApp: Songbook for Luxembourgish Students [` App Store`](https://itunes.apple.com/app/lidderbuch/id997143407) `Swift` 🇱🇺
   <details><summary>https://github.com/AcelLuxembourg/LidderbuchApp</summary>
   Added September 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- movies: Movie info app 🔥🔥🔥
+  <details><summary>https://github.com/KMindeguia/movies</summary>
+  Added February 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - OCiney: Movie info app [` App Store`](https://itunes.apple.com/app/id955480687) 🔥🔥
   <details><summary>https://github.com/florent37/OCiney-iOS</summary>
@@ -1407,6 +1388,18 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/danylokostyshyn/popcorntime-ios</summary>
   Added May 20, 2015<br>  License: `other`
   </details>
+- Pugs: Simple pug photo viewer `Swift` 
+  <details><summary>https://github.com/soffes/Pugs</summary>
+  Added January 25, 2016<br>  License: `other`
+  </details>
+- ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
+  <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
+  Added May 11, 2016<br>  License: `other`
+  </details>
+- SoundCloudSwift: SoundCloud app `Swift` 🔥
+  <details><summary>https://github.com/pepibumur/SoundCloudSwift</summary>
+  Added May  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Swift-Gif: Gif Search `Swift` 
   <details><summary>https://github.com/pjchavarria/Swift-Gif</summary>
   Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1418,6 +1411,10 @@ Image, video, audio, reading — [back to top](#readme)
 - Textbook: textbooks from People's Education Press in China [` App Store`](https://itunes.apple.com/app/ke-ben/id993244460) `Swift` 🇨🇳
   <details><summary>https://github.com/JohnWong/textbook</summary>
   Added February 17, 2016<br>  License: `other`
+  </details>
+- That Movie With: Find common movies among actors [` App Store`](https://itunes.apple.com/app/that-movie-with/id892972135) 
+  <details><summary>https://github.com/jayhickey/thatmoviewith</summary>
+  Added June 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - Words: Thesaurus app 
   <details><summary>https://github.com/soffes/words</summary>
@@ -1488,7 +1485,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/aclissold/the-oakland-post</summary>
   Added March 18, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
-- v2ex: App for the technical and creative website v2ex.com [` App Store`](https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535) 🇨🇳🔥🔥🔥🔥
+- v2ex: App for the technical and creative website http://v2ex.com/ [` App Store`](https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535) 🇨🇳🔥🔥🔥🔥
   <details><summary>https://github.com/singro/v2ex</summary>
   Added April 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1661,7 +1658,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Count It: Dead simple app that lets you count anything [` App Store`](https://itunes.apple.com/app/id1098893335) `Swift` 
+- Count It: Dead simple way to you count anything [` App Store`](https://itunes.apple.com/app/id1098893335) `Swift` 
   <details><summary>https://github.com/PiXeL16/CountItApp</summary>
   Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1943,7 +1940,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/likumb/SimpleMemo</summary>
   Added August 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Simplenote: Easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices. Share notes with other users to collaborate on a project together or to access the same list. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962) 
+- Simplenote: Easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices. Share notes with other users to collaborate on a project together or to access the same list. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962) 🔥
   <details><summary>https://github.com/automattic/simplenote-ios</summary>
   Added August 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://simplenote.com/<br>  ![Simplenote image 1](https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg)
   </details>
@@ -2506,10 +2503,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/iAugux/Phonetic</summary>
   Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- QR Blank: No ads simple QR code URL scanner [` App Store`](https://itunes.apple.com/app/id1137064763) `Swift` 
-  <details><summary>https://github.com/kahopoon/QR-Blank</summary>
-  Added August 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://www.kahopoon.net<br>  ![QR Blank image 1](https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif)<br>  ![QR Blank image 2](https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg)<br>  ![QR Blank image 3](https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg)
-  </details>
 - Runner-Stats: iPhone app to record running data [` App Store`](https://itunes.apple.com/app/runner-stats/id793443821) 
   <details><summary>https://github.com/hukun01/Runner-Stats</summary>
   Added October 12, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
@@ -2603,6 +2596,19 @@ Image, video, audio, reading — [back to top](#readme)
 - SwiftTextClock: Inspired by the beautiful QlockTwo `Swift` 
   <details><summary>https://github.com/MichMich/SwiftTextClock</summary>
   Added June 18, 2016<br>  License: `other`
+  </details>
+
+### Scan 
+ 
+[back to top](#readme) 
+ 
+- QR Blank: No ads simple QR code URL scanner [` App Store`](https://itunes.apple.com/app/id1137064763) `Swift` 
+  <details><summary>https://github.com/kahopoon/QR-Blank</summary>
+  Added August 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://www.kahopoon.net<br>  ![QR Blank image 1](https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif)<br>  ![QR Blank image 2](https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg)<br>  ![QR Blank image 3](https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg)
+  </details>
+- ZBar Barcode Reader: A comprehensive barcode reader [` App Store`](https://itunes.apple.com/app/id344957305) 
+  <details><summary>https://sourceforge.net/projects/zbar/</summary>
+  Added June  1, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)<br>  http://zbar.sourceforge.net/
   </details>
 
 ### Timer 
