@@ -41,7 +41,7 @@
     {
       "title": "Emulator",
       "id": "emulator"
-    },    
+    },
     {
       "title": "Extension",
       "id": "extension"
@@ -63,6 +63,11 @@
     {
       "title": "Game",
       "id": "game"
+    },
+    {
+      "title": "SpriteKit",
+      "id": "spritekit",
+      "parent": "game"
     },
     {
       "title": "Health",
@@ -1404,8 +1409,7 @@
     },
     {
       "title": "Chess",
-      "category": "game",
-      "description": "Uses SpriteKit",
+      "category": "spritekit",
       "source": "https://github.com/mjcuva/Chess",
       "tags": [
         "swift"
@@ -1471,8 +1475,7 @@
     },
     {
       "title": "Five In A Row (五子棋)",
-      "category": "game",
-      "description": "Uses SpriteKit",
+      "category": "spritekit",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/WelkinXie/FiveInARow",
@@ -1496,8 +1499,7 @@
     },
     {
       "title": "Conway's Game of Life",
-      "category": "game",
-      "description": "Uses SpriteKit",
+      "category": "spritekit",
       "license": "mit",
       "source": "https://github.com/yonbergman/swift-gameoflife",
       "tags": [
@@ -1530,7 +1532,7 @@
     },
     {
       "title": "GrubbyWorm",
-      "category": "game",
+      "category": "spritekit",
       "description": "A simple digital worm game made with iOS 9, SpriteKit, GameplayKit & ReplayKit, written in Swift 2",
       "source": "https://github.com/gamechina/GrubbyWorm",
       "tags": [
@@ -1574,8 +1576,7 @@
     },
     {
       "title": "Orbit7",
-      "category": "game",
-      "description": "Uses SpriteKit",
+      "category": "spritekit",
       "source": "https://github.com/Mav3r1ck/Orbit7",
       "tags": [
         "swift"
@@ -1586,9 +1587,8 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Sakura Fly",
-      "category": "game",
-      "description": "Action game, uses SpriteKit",
+      "title": "Sakura Fly action game",
+      "category": "spritekit",
       "source": "https://github.com/l800891/Sakura-Fly",
       "itunes": "https://itunes.apple.com/app/sakura-fly/id1019023051",
       "stars": 19,
@@ -1620,9 +1620,8 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Stick-Hero-Swift",
-      "category": "game",
-      "description": "iPhone/iPad game, uses SpriteKit",
+      "title": "Stick-Hero-Swift for iPhone/iPad",
+      "category": "spritekit",
       "license": "mit",
       "source": "https://github.com/phpmaple/Stick-Hero-Swift",
       "stars": 326,
@@ -6114,7 +6113,7 @@
     },
     {
       "title": "2048 in Objective-C using `SpriteKit`",
-      "category": "game",
+      "category": ["game", "spritekit"],
       "license": "mit",
       "source": "https://github.com/danqing/2048",
       "stars": 812,
