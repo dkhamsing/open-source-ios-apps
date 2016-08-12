@@ -4002,7 +4002,7 @@
     {
       "title": "SwiftNote",
       "category": ["text", "extension"],
-      "description": "Simple note taking with Today extension & iCloud syncing",
+      "description": "Simple note taking with Today extension & iCloud sync",
       "license": "mit",
       "source": "https://github.com/mslathrop/SwiftNote",
       "stars": 171,
@@ -5790,7 +5790,7 @@
     {
       "title": "OpenIt",
       "category": "extension",
-      "description": "Today extension to launch other apps from the notification center",
+      "description": "Today extension to launch other apps",
       "source": "https://github.com/BalestraPatrick/OpenIt",
       "license": "other",
       "stars": 92,
