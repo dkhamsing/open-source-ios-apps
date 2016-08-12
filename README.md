@@ -24,6 +24,7 @@ Jump to
 - [Finance](#finance) 
   - [Bitcoin](#bitcoin) 
 - [Game](#game) 
+  - [SpriteKit](#spritekit) 
 - [Health](#health) 
   - [Fitness](#fitness) 
   - [ResearchKit](#researchkit) 
@@ -745,10 +746,6 @@ Click ► to show more details
   <details><summary>https://github.com/bryceredd/CastleHassle</summary>
   Added May 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Chess: Uses SpriteKit `Swift` 
-  <details><summary>https://github.com/mjcuva/Chess</summary>
-  Added July 15, 2015<br>  License: `other`
-  </details>
 - Chuck: Throw a ball and catch it, over and over and over [` App Store`](https://itunes.apple.com/app/chuck/id1050453297) 
   <details><summary>https://github.com/moowahaha/Chuck</summary>
   Added October 25, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -760,10 +757,6 @@ Click ► to show more details
 - Concentration game (翻翻看) `Swift` 🇨🇳🔥
   <details><summary>https://github.com/geek5nan/FanFanSwift</summary>
   Added May 14, 2015<br>  License: `other`
-  </details>
-- Conway's Game of Life: Uses SpriteKit `Swift` 
-  <details><summary>https://github.com/yonbergman/swift-gameoflife</summary>
-  Added March 31, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - Conway's Game of Life in Objective-C (Vie) [` App Store`](https://itunes.apple.com/app/vie-conways-game-of-life/id989686123) 
   <details><summary>https://github.com/fabienwarniez/Vie</summary>
@@ -793,10 +786,6 @@ Click ► to show more details
   <details><summary>https://github.com/CliffsDover/crawl</summary>
   Added March 23, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://github.com/CliffsDover/crawl/tree/iOS_Release
   </details>
-- Five In A Row (五子棋): Uses SpriteKit 🇨🇳
-  <details><summary>https://github.com/WelkinXie/FiveInARow</summary>
-  Added May  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - FlappySwift: Swift implementation of Flappy Bird `Swift` 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/fullstackio/FlappySwift</summary>
   Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![FlappySwift image 1](https://camo.githubusercontent.com/867dfad61329bd77258f00d586b16476c7bc405a/687474703a2f2f692e696d6775722e636f6d2f314e4c6f546f552e676966)
@@ -808,10 +797,6 @@ Click ► to show more details
 - Gorillas: An iPhone port of the popular old QBasic game with spunk [` App Store`](https://itunes.apple.com/app/gorillas/id302275459) 🔥🔥
   <details><summary>https://github.com/Lyndir/Gorillas</summary>
   Added March  5, 2016<br>  License: `other`<br>  http://gorillas.lyndir.com/
-  </details>
-- GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit & ReplayKit, written in Swift 2 `Swift` 
-  <details><summary>https://github.com/gamechina/GrubbyWorm</summary>
-  Added January 23, 2016<br>  License: `other`
   </details>
 - Hedgewars: A turn-based strategy game [` App Store`](https://itunes.apple.com/app/id391234866) 
   <details><summary>http://hg.hedgewars.org/hedgewars/</summary>
@@ -857,17 +842,9 @@ Click ► to show more details
   <details><summary>https://github.com/mrdepth/Neocom</summary>
   Added June  1, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
   </details>
-- Orbit7: Uses SpriteKit `Swift` 
-  <details><summary>https://github.com/Mav3r1ck/Orbit7</summary>
-  Added April  2, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - Pterodactyl Attack: Blast your way through waves of pterodactyls, includes detailed writeup on how it's made [` App Store`](https://itunes.apple.com/app/pterodactyl-attack/id786862892) 
   <details><summary>https://github.com/shaunlebron/PterodactylAttack</summary>
   Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://shaunlebron.github.io/pteroattack.com/
-  </details>
-- Sakura Fly: Action game, uses SpriteKit [` App Store`](https://itunes.apple.com/app/sakura-fly/id1019023051) 
-  <details><summary>https://github.com/l800891/Sakura-Fly</summary>
-  Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - SaveTheDot: `UIViewPropertyAnimator` experiment where you have to escape from the squares 🔥🔥🔥
   <details><summary>https://github.com/JakeLin/SaveTheDot</summary>
@@ -893,10 +870,6 @@ Click ► to show more details
   <details><summary>https://github.com/adamwulf/spare-parts-app</summary>
   Added April  6, 2015<br>  License: `other`
   </details>
-- Stick-Hero-Swift: iPhone/iPad game, uses SpriteKit `Swift` 🔥🔥
-  <details><summary>https://github.com/phpmaple/Stick-Hero-Swift</summary>
-  Added June 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - teh internets: Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter 
   <details><summary>https://github.com/insurgentgames/teh-internets</summary>
   Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
@@ -912,6 +885,43 @@ Click ► to show more details
 - XPilot: An iPhone port of the classic XPilot game [` App Store`](https://itunes.apple.com/app/id322114791) 
   <details><summary>http://7b5labs.com/xpilot.git/</summary>
   Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  http://7b5labs.com/xpilotiphone
+  </details>
+
+### SpriteKit 
+ 
+[back to top](#readme) 
+ 
+- 2048 in Objective-C using `SpriteKit` 🔥🔥🔥
+  <details><summary>https://github.com/danqing/2048</summary>
+  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Chess `Swift` 
+  <details><summary>https://github.com/mjcuva/Chess</summary>
+  Added July 15, 2015<br>  License: `other`
+  </details>
+- Conway's Game of Life `Swift` 
+  <details><summary>https://github.com/yonbergman/swift-gameoflife</summary>
+  Added March 31, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Five In A Row (五子棋) 🇨🇳
+  <details><summary>https://github.com/WelkinXie/FiveInARow</summary>
+  Added May  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit & ReplayKit, written in Swift 2 `Swift` 
+  <details><summary>https://github.com/gamechina/GrubbyWorm</summary>
+  Added January 23, 2016<br>  License: `other`
+  </details>
+- Orbit7 `Swift` 
+  <details><summary>https://github.com/Mav3r1ck/Orbit7</summary>
+  Added April  2, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Sakura Fly action game [` App Store`](https://itunes.apple.com/app/sakura-fly/id1019023051) 
+  <details><summary>https://github.com/l800891/Sakura-Fly</summary>
+  Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Stick-Hero-Swift for iPhone/iPad `Swift` 🔥🔥
+  <details><summary>https://github.com/phpmaple/Stick-Hero-Swift</summary>
+  Added June 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 ## Health 
