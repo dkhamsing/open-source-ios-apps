@@ -39,6 +39,10 @@
       "parent": "developer"
     },
     {
+      "title": "Emulator",
+      "id": "emulator"
+    },    
+    {
       "title": "Extension",
       "id": "extension"
     },
@@ -59,11 +63,6 @@
     {
       "title": "Game",
       "id": "game"
-    },
-    {
-      "title": "Emulator",
-      "id": "emulator",
-      "parent": "game"
     },
     {
       "title": "Health",
