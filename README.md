@@ -16,10 +16,10 @@ Jump to
 - [Calendar](#calendar) 
 - [Communication](#communication) 
 - [Conference](#conference) 
-- [Content Blocking](#content-blocking) 
 - [Developer](#developer) 
-- [Extension](#extension) 
   - [GitHub](#github) 
+- [Extension](#extension) 
+  - [Content Blocking](#content-blocking) 
 - [Finance](#finance) 
   - [Bitcoin](#bitcoin) 
 - [Game](#game) 
@@ -441,31 +441,6 @@ Click ► to show more details
   Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-## Content Blocking 
- 
-[back to top](#readme) 
- 
-- Adblock Fast [` App Store`](https://itunes.apple.com/app/adblock-fast/id1032930802) 🔥🔥
-  <details><summary>https://github.com/rocketshipapps/adblockfast</summary>
-  Added September 25, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  </details>
-- Adblock Plus [` App Store`](https://itunes.apple.com/app/adblock-plus-abp/id1028871868) 
-  <details><summary>https://github.com/adblockplus/adblockplussafariios</summary>
-  Added December 14, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  </details>
-- BlockParty 🔥🔥🔥
-  <details><summary>https://github.com/krishkumar/BlockParty</summary>
-  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- Focus: Content blocker by Firefox `Swift` 🔥🔥
-  <details><summary>https://github.com/mozilla/focus</summary>
-  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
-  </details>
-- Swab: Content blocker of creative, web & design culture ads [` App Store`](https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002) `Swift` 
-  <details><summary>https://github.com/pkamb/swab</summary>
-  Added July 12, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>  http://swabthe.com/
-  </details>
-
 ## Developer 
  
 [back to top](#readme) 
@@ -523,31 +498,6 @@ Click ► to show more details
   Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-## Extension 
- 
-[back to top](#readme) 
- 
-- Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693) `Swift` 🔥🔥
-  <details><summary>https://github.com/dasdom/Tomate</summary>
-  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- OpenIt: Today extension to launch other apps from the notification center 
-  <details><summary>https://github.com/BalestraPatrick/OpenIt</summary>
-  Added June  7, 2016<br>  License: `other`
-  </details>
-- SwiftNote: Simple note taking with Today extension & iCloud syncing `Swift` 🔥
-  <details><summary>https://github.com/mslathrop/SwiftNote</summary>
-  Added March 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- TodayStocks: Show portfolio in a minimalist Today extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855) 
-  <details><summary>https://github.com/premnirmal/TodayStocks</summary>
-  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- VPN On: Today extension to turn on VPN [` App Store`](https://itunes.apple.com/app/vpn-on/id951344279) `Swift` 🔥🔥🔥🔥🔥
-  <details><summary>https://github.com/lexrus/VPNOn</summary>
-  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
 ### GitHub 
  
 [back to top](#readme) 
@@ -583,6 +533,56 @@ Click ► to show more details
 - SwiftHub: View Swift repositories on GitHub 
   <details><summary>https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub</summary>
   Added May 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+## Extension 
+ 
+[back to top](#readme) 
+ 
+- Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693) `Swift` 🔥🔥
+  <details><summary>https://github.com/dasdom/Tomate</summary>
+  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- OpenIt: Today extension to launch other apps 
+  <details><summary>https://github.com/BalestraPatrick/OpenIt</summary>
+  Added June  7, 2016<br>  License: `other`
+  </details>
+- SwiftNote: Simple note taking with Today extension & iCloud sync `Swift` 🔥
+  <details><summary>https://github.com/mslathrop/SwiftNote</summary>
+  Added March 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- TodayStocks: Show portfolio in a minimalist Today extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855) 
+  <details><summary>https://github.com/premnirmal/TodayStocks</summary>
+  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- VPN On: Today extension to turn on VPN [` App Store`](https://itunes.apple.com/app/vpn-on/id951344279) `Swift` 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/lexrus/VPNOn</summary>
+  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+### Content Blocking 
+ 
+[back to top](#readme) 
+ 
+- Adblock Fast [` App Store`](https://itunes.apple.com/app/adblock-fast/id1032930802) 🔥🔥
+  <details><summary>https://github.com/rocketshipapps/adblockfast</summary>
+  Added September 25, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- Adblock Plus [` App Store`](https://itunes.apple.com/app/adblock-plus-abp/id1028871868) 
+  <details><summary>https://github.com/adblockplus/adblockplussafariios</summary>
+  Added December 14, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- BlockParty 🔥🔥🔥
+  <details><summary>https://github.com/krishkumar/BlockParty</summary>
+  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Focus: Content blocker by Firefox `Swift` 🔥🔥
+  <details><summary>https://github.com/mozilla/focus</summary>
+  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  </details>
+- Swab: Content blocker of creative, web & design culture ads [` App Store`](https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002) `Swift` 
+  <details><summary>https://github.com/pkamb/swab</summary>
+  Added July 12, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>  http://swabthe.com/
   </details>
 
 ## Finance 
@@ -1419,6 +1419,10 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/JohnWong/textbook</summary>
   Added February 17, 2016<br>  License: `other`
   </details>
+- Words: Thesaurus app 
+  <details><summary>https://github.com/soffes/words</summary>
+  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - WWDC Students: WWDC scholarship entries `Swift` 🔥
   <details><summary>https://github.com/wwdc</summary>
   Added March 21, 2016<br>  License: `other`
@@ -1943,13 +1947,9 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/automattic/simplenote-ios</summary>
   Added August 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://simplenote.com/<br>  ![Simplenote image 1](https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg)
   </details>
-- SwiftNote: Simple note taking with Today extension & iCloud syncing `Swift` 🔥
+- SwiftNote: Simple note taking with Today extension & iCloud sync `Swift` 🔥
   <details><summary>https://github.com/mslathrop/SwiftNote</summary>
   Added March 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- Words: Thesaurus app 
-  <details><summary>https://github.com/soffes/words</summary>
-  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 ## Travel 
