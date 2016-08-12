@@ -229,6 +229,11 @@
       "parent": "misc"
     },
     {
+      "title": "Scan",
+      "id": "scan",
+      "parent": "misc"
+    },
+    {
       "title": "Timer",
       "id": "timer",
       "parent": "misc"
@@ -326,7 +331,7 @@
         "apple-watch",
         "bitcoin"
       ],
-      "description": "Simple and secure Bitcoin wallet",
+      "description": "Simple & secure Bitcoin wallet",
       "license": "apache-2.0",
       "source": "https://github.com/bither/bither-ios",
       "itunes": "https://itunes.apple.com/app/bither/id899478936",
@@ -1043,9 +1048,8 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Focus",
+      "title": "Focus by Firefox",
       "category": "content-blocking",
-      "description": "Content blocker by Firefox",
       "license": "mpl-2.0",
       "source": "https://github.com/mozilla/focus",
       "stars": 355,
@@ -2142,7 +2146,7 @@
     },
     {
       "title": "Dunk",
-      "category": "media",
+      "category": "content",
       "description": "Dribbble client",
       "license": "mit",
       "source": "https://github.com/naoyashiga/Dunk",
@@ -2180,7 +2184,7 @@
     },
     {
       "title": "Flickr-Search",
-      "category": "media",
+      "category": "content",
       "description": "Simple app which consumes the Flickr Search API",
       "source": "https://github.com/alikaragoz/Flickr-Search",
       "stars": 18,
@@ -2200,8 +2204,8 @@
     },
     {
       "title": "KonaBot",
-      "category": "media",
-      "description": "Unofficial app for konachan.net",
+      "category": "content",
+      "description": "Unofficial app for http://konachan.net/",
       "source": "https://github.com/hkalexling/KonaBot-iOS",
       "itunes": "https://itunes.apple.com/app/konabot/id1055716649",
       "tags": [
@@ -2235,7 +2239,7 @@
     },
     {
       "title": "movies",
-      "category": "media",
+      "category": "content",
       "description": "Movie info app",
       "source": "https://github.com/KMindeguia/movies",
       "stars": 792,
@@ -2343,7 +2347,7 @@
     },
     {
       "title": "Pugs",
-      "category": "media",
+      "category": "content",
       "description": "Simple pug photo viewer",
       "source": "https://github.com/soffes/Pugs",
       "tags": [
@@ -2366,7 +2370,7 @@
     },
     {
       "title": "SoundCloudSwift",
-      "category": "media",
+      "category": "content",
       "description": "SoundCloud app",
       "license": "mit",
       "source": "https://github.com/pepibumur/SoundCloudSwift",
@@ -2418,7 +2422,7 @@
     {
       "title": "Swift Radio Pro",
       "category": "media",
-      "description": "Professional Radio Station App, created with Swift 2",
+      "description": "Professional radio station app, created with Swift 2",
       "license": "mit",
       "source": "https://github.com/swiftcodex/Swift-Radio-Pro",
       "stars": 1308,
@@ -2454,7 +2458,7 @@
     },
     {
       "title": "That Movie With",
-      "category": "media",
+      "category": "content",
       "description": "Find common movies among actors",
       "source": "https://github.com/jayhickey/thatmoviewith",
       "itunes": "https://itunes.apple.com/app/that-movie-with/id892972135",
@@ -2651,7 +2655,7 @@
     {
       "title": "v2ex",
       "category": "news",
-      "description": "App for the technical and creative website v2ex.com",
+      "description": "App for the technical and creative website http://v2ex.com/",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/singro/v2ex",
@@ -4697,7 +4701,7 @@
       "title": "ReactiveKitten",
       "category": [
         "reactive-programming",
-        "media",
+        "content",
         "sample"
       ],
       "description": "It's about gifs and cats, example project for Interstellar",
@@ -5424,7 +5428,7 @@
     },
     {
       "title": "ZBar Barcode Reader",
-      "category": "media",
+      "category": "scan",
       "description": "A comprehensive barcode reader",
       "source": "https://sourceforge.net/projects/zbar/",
       "homepage": "http://zbar.sourceforge.net/",
@@ -6123,7 +6127,7 @@
       "category": [
         "content-blocking"
       ],
-      "description": "Content blocker of creative, web & design culture ads",
+      "description": "Creative, web & design culture ad blocking",
       "license": "bsd-3-clause",
       "source": "https://github.com/pkamb/swab",
       "homepage": "http://swabthe.com/",
@@ -6174,7 +6178,7 @@
         "rxswift",
         "apple-watch"
       ],
-      "description": "Dead simple app that lets you count anything",
+      "description": "Dead simple way to you count anything",
       "source": "https://github.com/PiXeL16/CountItApp",
       "itunes": "https://itunes.apple.com/app/id1098893335",
       "stars": 25,
@@ -6392,7 +6396,7 @@
     },
     {
       "title": "Celluloid",
-      "category": "media",
+      "category": "extension",
       "description": "The best photo extension",
       "source": "https://github.com/100mango/Celluloid",
       "license": "mit",
@@ -6622,7 +6626,7 @@
     },
     {
       "title": "QR Blank",
-      "category": ["misc"],
+      "category": ["scan"],
       "description": "No ads simple QR code URL scanner",
       "source": "https://github.com/kahopoon/QR-Blank",
       "homepage": "https://www.kahopoon.net",
@@ -6641,6 +6645,7 @@
       "itunes": "https://itunes.apple.com/app/simplenote/id289429962",
       "homepage": "https://simplenote.com/",
       "license": "gpl-2.0",
+      "stars": 119,
       "screenshots": ["https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg"],
       "date_added": "Aug 11 2016",
       "suggested_by": "@dkhamsing"
