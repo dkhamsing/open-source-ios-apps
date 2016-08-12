@@ -6,6 +6,9 @@
 		"title": {
 			"type": "string"
 		},
+		"subtitle": {
+			"type": "string"
+		},
 		"description": {
 			"type": "string"
 		},
@@ -137,8 +140,22 @@
 						"description": "A place to put any metadata for a project. The items can be any type.",
 						"type": "array",
 						"default": []
+					},
+					"suggested_by": {
+						"title": "Suggested By",
+						"description": "Name of person who suggested project.",
+						"type": "string"
+					},
+					"date_added": {
+						"title": "Date Added",
+						"description": "Date when project was added.",
+						"type": "string"
+					},
+					"screenshots": {
+						"title": "Screenshots",
+						"description": "Links to screenshot images.",
+						"type": "array"
 					}
-
 				},
 				"required": ["title", "category", "source"],
 				"additionalProperties": false

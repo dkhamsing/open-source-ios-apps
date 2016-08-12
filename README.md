@@ -4,1659 +4,2644 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of **506** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: (last update *July 14, 2016*).
- 
-Jump to 
- 
+A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
+
+![](https://img.shields.io/badge/Projects-536-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 11, 2016-lightgrey.svg)
+
+Jump to
+
 - [Apple TV](#apple-tv) 
 - [Apple Watch](#apple-watch) 
 - [Browser](#browser) 
+- [Calendar](#calendar) 
 - [Communication](#communication) 
 - [Conference](#conference) 
-- [Content Blocking](#content-blocking) 
 - [Developer](#developer) 
   - [GitHub](#github) 
+- [Extension](#extension) 
+  - [Content Blocking](#content-blocking) 
 - [Finance](#finance) 
-- [Games](#games) 
-  - [Emulators](#emulators) 
+  - [Bitcoin](#bitcoin) 
+- [Game](#game) 
+  - [Emulator](#emulator) 
 - [Health](#health) 
+  - [Fitness](#fitness) 
   - [ResearchKit](#researchkit) 
-- [Keyboards](#keyboards) 
+- [Keyboard](#keyboard) 
 - [Location](#location) 
 - [Media](#media) 
+  - [Content](#content) 
 - [News](#news) 
   - [Hacker News](#hacker-news) 
 - [Official](#official) 
+- [Reactive Programming](#reactive-programming) 
+  - [ReactiveCocoa](#reactivecocoa) 
+  - [RxSwift](#rxswift) 
 - [Sample](#sample) 
 - [Science](#science) 
 - [Security](#security) 
 - [Social](#social) 
 - [Tasks](#tasks) 
+- [Text](#text) 
+- [Travel](#travel) 
 - [Weather](#weather) 
 - [Web](#web) 
-- [Misc](#misc) 
-  - [3D Touch](#3d-touch) 
-  - [Calendar](#calendar) 
-  - [Calculator](#calculator) 
-  - [Text](#text) 
-  - [Clock](#clock) 
-  - [Timer](#timer) 
 - [Special](#special) 
+  - [3D Touch](#3d-touch) 
   - [Appcelerator](#appcelerator) 
   - [Core Data](#core-data) 
   - [Firebase](#firebase) 
   - [Ionic](#ionic) 
   - [Parse](#parse) 
   - [React Native](#react-native) 
-  - [Reactive Programming](#reactive-programming) 
-  - [ReactiveCocoa](#reactivecocoa) 
-  - [RxSwift](#rxswift) 
   - [Realm](#realm) 
   - [VIPER](#viper) 
   - [Xamarin](#xamarin) 
+- [Misc](#misc) 
+  - [Calculator](#calculator) 
+  - [Clock](#clock) 
+  - [Scan](#scan) 
+  - [Timer](#timer) 
 - [Bonus](#bonus) 
+- [Thanks](#thanks)
+- [Contact](#contact)
 
 ```
-🔶 Swift projects
-
-Projects that are not in English have a flag
-🇨🇳 Project is in Chinese
-🇪🇸 Project is in Spanish, etc
-
  100+ Stars: 🔥
  200+ Stars: 🔥🔥
  500+ Stars: 🔥🔥🔥
 1000+ Stars: 🔥🔥🔥🔥
 2000+ Stars: 🔥🔥🔥🔥🔥
+
+Most projects are in English, exceptions have a flag
+🇨🇳 Project is in Chinese
+🇪🇸 Project is in Spanish, etc
+
+Click ► to show more details
 ```
 
 ## Apple TV 
  
 [back to top](#readme) 
  
-- Artsy Shows: Art shows on your TV 🔶🔥🔥
-  - https://github.com/artsy/Emergence
-- EX Player: Watch video from ex.ua 
-  - https://github.com/IGRSoft/exTVPlayer
-- iCook: A tvOS app that plays iCook TV videos 
-  - https://github.com/polydice/iCook-tvOS
-- Provenance: Emulators frontend supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
-  - https://github.com/jasarien/Provenance
-- RailsCasts: Watch RailsCasts videos on Apple TV 
-  - https://github.com/spritlesoftware/railscasts-on-appletv
+- Artsy Shows: Art shows on your TV `Swift` 🔥🔥
+  <details><summary>https://github.com/artsy/Emergence</summary>
+  Added November  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Artsy Shows image 1](https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/featured.png)<br>  ![Artsy Shows image 2](https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/show.png)
+  </details>
+- EX Player: Watch videos from EX.UA file sharing 
+  <details><summary>https://github.com/IGRSoft/exTVPlayer</summary>
+  Added February  9, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
+  </details>
+- iCook TV 
+  <details><summary>https://github.com/polydice/iCook-tvOS</summary>
+  Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/jasarien/Provenance</summary>
+  Added April 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- RailsCasts Videos 
+  <details><summary>https://github.com/spritlesoftware/railscasts-on-appletv</summary>
+  Added May 12, 2016<br>  License: `other`
+  </details>
 - Telemat-tvOS: Watch Public German Broadcast/TV company streams 🇩🇪
-  - https://github.com/omichde/Telemat-tvOS
-- UitzendingGemist by 4np: Uitgebreide UitzendingGemist app voor Nederland 🔶🇳🇱
-  - https://github.com/4np/UitzendingGemist
-- UitzendingGemist by jeffkreeftmeijer: Dutch Public Broadcasting video on demand 🔶
-  - https://github.com/jeffkreeftmeijer/UitzendingGemist
-- Uncle Nagy's House: Uncle Nagy's House tvOS App (TVML app with Gulp tasks for building Jade and CoffeeScript) 
-  - https://github.com/kenmickles/unh_tvos
-  - https://itunes.apple.com/us/app/id1042172021
-- WWDCTV: Watch the WWDC Videos on your Apple TV 🔥🔥
-  - https://github.com/azzoor/WWDCTV
+  <details><summary>https://github.com/omichde/Telemat-tvOS</summary>
+  Added May 31, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- UitzendingGemist by 4np: Uitgebreide UitzendingGemist app voor Nederland `Swift` 🇳🇱
+  <details><summary>https://github.com/4np/UitzendingGemist</summary>
+  Added November 10, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- UitzendingGemist by jeffkreeftmeijer: Dutch Public Broadcasting video on demand `Swift` 
+  <details><summary>https://github.com/jeffkreeftmeijer/UitzendingGemist</summary>
+  Added November 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Uncle Nagy's House: `tvOS` / `TVML` app with Gulp tasks for building `Jade` & `CoffeeScript` [` App Store`](https://itunes.apple.com/us/app/id1042172021) 
+  <details><summary>https://github.com/kenmickles/unh_tvos</summary>
+  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Upcoming Movies `Swift` 
+  <details><summary>https://github.com/vanyaland/UpcomingMovies</summary>
+  Added July 16, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- WWDCTV: Watch WWDC Videos 🔥🔥
+  <details><summary>https://github.com/azzoor/WWDCTV</summary>
+  Added November 19, 2015<br>  License: `other`
+  </details>
 
 ## Apple Watch 
  
 [back to top](#readme) 
  
-- BaiduFM-Swift 🔶🔥🔥🔥
-  - https://github.com/belm/BaiduFM-Swift
-- Bither: Simple and secure Bitcoin wallet 
-  - https://github.com/bither/bither-ios
-  - https://itunes.apple.com/app/bither/id899478936
-- Brew: Discover craft beer pubs nearby 🔶
-  - https://github.com/contentful/ContentfulWatchKitExample
-  - https://itunes.apple.com/app/id986830433
-- Bus Today: Track bus line on your wrist 🇨🇳
-  - https://github.com/JohnWong/bus-today
-  - https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341
-- Calculator by mukeshthawani 🔶
-  - https://github.com/mukeshthawani/Calculator
-- Calculator by noodlewerk 🔶
-  - https://github.com/noodlewerk/Apple_Watch_Calculator
-- Cherry: Mini Pomodoro Timer app 🔶🔥🔥
-  - https://github.com/kenshin03/Cherry
+- BaiduFM: Unofficial Baidu Music app `Swift` 🇨🇳🔥🔥🔥
+  <details><summary>https://github.com/belm/BaiduFM-Swift</summary>
+  Added August  6, 2015<br>  License: `other`<br>  ![BaiduFM image 1](https://github.com/belm/BaiduFM-Swift/raw/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png?raw=true)
+  </details>
+- Bither: Simple & secure Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bither/id899478936) 
+  <details><summary>https://github.com/bither/bither-ios</summary>
+  Added April  3, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- Brew: Discover craft beer pubs nearby [` App Store`](https://itunes.apple.com/app/id986830433) `Swift` 
+  <details><summary>https://github.com/contentful/ContentfulWatchKitExample</summary>
+  Added April 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Bus Today: Track bus line on your wrist [` App Store`](https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341) 🇨🇳
+  <details><summary>https://github.com/JohnWong/bus-today</summary>
+  Added February 17, 2016<br>  License: `other`
+  </details>
+- Calculator by mukeshthawani `Swift` 
+  <details><summary>https://github.com/mukeshthawani/Calculator</summary>
+  Added December 18, 2015<br>  License: `other`
+  </details>
+- Calculator by noodlewerk `Swift` 
+  <details><summary>https://github.com/noodlewerk/Apple_Watch_Calculator</summary>
+  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Cherry: Mini Pomodoro Timer `Swift` 🔥🔥
+  <details><summary>https://github.com/kenshin03/Cherry</summary>
+  Added February 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Connectivity Demo 
-  - https://github.com/swilliams/watchkit-connectivity-demo
-- CoolSpot: The missing Spotify app 🔶
-  - https://github.com/neonichu/CoolSpot
-- Cortado: Track your caffeine consumption habits 🔥
-  - https://github.com/lazerwalker/cortado
-  - https://itunes.apple.com/app/cortado/id969899327
-- Count It: Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything. 🔶
-  - https://github.com/PiXeL16/CountItApp
-  - https://itunes.apple.com/app/id1098893335
-- Done: Data sharing between a WatchKit app and its main app using Realm 🔶
-  - https://github.com/FancyPixel/done-swift
+  <details><summary>https://github.com/swilliams/watchkit-connectivity-demo</summary>
+  Added July 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- CoolSpot: The missing Spotify app `Swift` 
+  <details><summary>https://github.com/neonichu/CoolSpot</summary>
+  Added May 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Cortado: Track your caffeine consumption habits [` App Store`](https://itunes.apple.com/app/cortado/id969899327) 🔥
+  <details><summary>https://github.com/lazerwalker/cortado</summary>
+  Added June 25, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Count It: Dead simple way to you count anything [` App Store`](https://itunes.apple.com/app/id1098893335) `Swift` 
+  <details><summary>https://github.com/PiXeL16/CountItApp</summary>
+  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Done: Data sharing using WatchKit and Realm `Swift` 
+  <details><summary>https://github.com/FancyPixel/done-swift</summary>
+  Added May  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - FlickrWatch: Apple Watch face using Flickr API 
-  - https://github.com/jazzychad/FlickrWatch
-- GrandCentralBoard: Hang a TV in your open space / team room to show everyone what's up and get them up to speed 🔶🔥
-  - https://github.com/macoscope/GrandCentralBoard
-- Gulps: Track your daily water consumption 🔶🔥🔥🔥
-  - https://github.com/FancyPixel/gulps
-  - https://itunes.apple.com/app/gulps/id979057304
-- heartrate: Show streaming heartrate from the watch with watchOS 2 🔶🔥🔥
-  - https://github.com/coolioxlr/watchOS-2-heartrate
-- HighStreet: Highstreet shopping app 🔶🔥🔥
-  - https://github.com/GetHighstreet/HighstreetWatchApp
-- HN Reader: Hacker News Reader 🔶🔥🔥🔥🔥
-  - https://github.com/Dimillian/SwiftHN
-  - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
-- Impulse: Real-time age ticker 🔶
-  - https://github.com/Jasdev/Impulse
-- KTPomodoro: Mini Pomodoro Timer app 
-  - https://github.com/kenshin03/KTPomodoro
-- Lister: List app example by Apple 🔶
-  - https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html
-- Natural Language Clock: Display the time as you would speak it 🔶
-  - https://github.com/chadkeck/Natural-Language-Clock
-- OnTime: Apple Watch app to access the SBB (Swiss railway) timetable 
-  - https://github.com/D-32/OnTime
-- Parties for WWDC 🔥🔥
-  - https://github.com/genadyo/WWDC
-  - https://itunes.apple.com/app/parties-for-wwdc/id879924066
-- PhoneBattery: Your phone's battery, on your wrist 
-  - https://github.com/marcelvoss/PhoneBattery
-  - https://itunes.apple.com/app/phonebattery-your-phones-battery/id1009278300
-- PhotoWatch: Uses the SwiftyDropbox SDK 🔶
-  - https://github.com/dropbox/PhotoWatch
-- Soon: Countdown App 🔶
-  - https://github.com/sandofsky/soon
-- WatchKit-Apps: Tutorials app for WatchKit 🔶🔥🔥🔥🔥
-  - https://github.com/kostiakoval/WatchKit-Apps
-- Watchman: A WatchOS2 Hangman Game 🔶
-  - https://github.com/DanToml/Watchman
-- WatchNotes: Notes on your wrist 🔶
-  - https://github.com/azamsharp/WatchNotes
-- watchOS-2-Sampler: Code examples for new features of watchOS 2 🔶🔥🔥🔥
-  - https://github.com/shu223/watchOS-2-Sampler
+  <details><summary>https://github.com/jazzychad/FlickrWatch</summary>
+  Added February 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- GrandCentralBoard: Hang a TV in your open space / team room to show everyone what's up and get them up to speed `Swift` 🔥
+  <details><summary>https://github.com/macoscope/GrandCentralBoard</summary>
+  Added April 29, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- Gulps: Track your daily water consumption [` App Store`](https://itunes.apple.com/app/gulps/id979057304) `Swift` 🔥🔥🔥
+  <details><summary>https://github.com/FancyPixel/gulps</summary>
+  Added April 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- heartrate: Show streaming heartrate from the watch with `watchOS` 2 `Swift` 🔥🔥
+  <details><summary>https://github.com/coolioxlr/watchOS-2-heartrate</summary>
+  Added July 29, 2015<br>  License: `other`
+  </details>
+- HighStreet: Highstreet shopping app `Swift` 🔥🔥
+  <details><summary>https://github.com/GetHighstreet/HighstreetWatchApp</summary>
+  Added June  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- HN Reader: Hacker News Reader [` App Store`](https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741) `Swift` 🔥🔥🔥🔥
+  <details><summary>https://github.com/Dimillian/SwiftHN</summary>
+  Added January 26, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- Impulse: Real-time age ticker `Swift` 
+  <details><summary>https://github.com/Jasdev/Impulse</summary>
+  Added August 12, 2015<br>  License: `other`
+  </details>
+- KTPomodoro: Mini Pomodoro Timer 
+  <details><summary>https://github.com/kenshin03/KTPomodoro</summary>
+  Added February 26, 2015<br>  License: `other`
+  </details>
+- Lister: List app example by Apple `Swift` 
+  <details><summary>https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html</summary>
+  Added March 23, 2015<br>  License: `other`
+  </details>
+- Natural Language Clock: Display the time as you would speak it `Swift` 
+  <details><summary>https://github.com/chadkeck/Natural-Language-Clock</summary>
+  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- OnTime: Access the SBB (Swiss railway) timetable 
+  <details><summary>https://github.com/D-32/OnTime</summary>
+  Added May 13, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- Parties for WWDC [` App Store`](https://itunes.apple.com/app/parties-for-wwdc/id879924066) 🔥🔥
+  <details><summary>https://github.com/genadyo/WWDC</summary>
+  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- PhoneBattery: Your phone's battery, on your wrist [` App Store`](https://itunes.apple.com/app/phonebattery-your-phones-battery/id1009278300) 
+  <details><summary>https://github.com/marcelvoss/PhoneBattery</summary>
+  Added July  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- PhotoWatch: Uses the SwiftyDropbox SDK `Swift` 
+  <details><summary>https://github.com/dropbox/PhotoWatch</summary>
+  Added February 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Soon: Countdown app `Swift` 
+  <details><summary>https://github.com/sandofsky/soon</summary>
+  Added June  2, 2015<br>  License: `other`
+  </details>
+- WatchKit-Apps: Tutorials app `Swift` 🔥🔥🔥🔥
+  <details><summary>https://github.com/kostiakoval/WatchKit-Apps</summary>
+  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Watchman: A WatchOS2 Hangman Game `Swift` 
+  <details><summary>https://github.com/DanToml/Watchman</summary>
+  Added October  6, 2015<br>  License: `other`
+  </details>
+- WatchNotes: Notes on your wrist `Swift` 
+  <details><summary>https://github.com/azamsharp/WatchNotes</summary>
+  Added April 30, 2015<br>  License: `other`
+  </details>
+- watchOS-2-Sampler: Code examples for new features of `watchOS` 2 `Swift` 🔥🔥🔥
+  <details><summary>https://github.com/shu223/watchOS-2-Sampler</summary>
+  Added June 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - WatchPics: Instagram app 
-  - https://github.com/D-32/WatchPics
-- WatchSnake: Game of Snake 🔶
-  - https://github.com/davidcairns/-WatchSnake
-- WatchStocks: Track your stocks portfolio, also includes a watch face complication 🔶
-  - https://github.com/G2Jose/WatchStocks
-- Wunderschnell: Order the right product with one tap on your wrist 🔶
-  - https://github.com/contentful-labs/Wunderschnell
+  <details><summary>https://github.com/D-32/WatchPics</summary>
+  Added April 10, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- WatchSnake: Snake game `Swift` 
+  <details><summary>https://github.com/davidcairns/-WatchSnake</summary>
+  Added May  5, 2015<br>  License: `other`
+  </details>
+- WatchStocks: Track your stocks portfolio, also includes a watch face complication `Swift` 
+  <details><summary>https://github.com/G2Jose/WatchStocks</summary>
+  Added September 17, 2015<br>  License: `other`
+  </details>
+- Wunderschnell: Order the right product with one tap on your wrist `Swift` 
+  <details><summary>https://github.com/contentful-labs/Wunderschnell</summary>
+  Added May 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ## Browser 
  
 [back to top](#readme) 
  
-- Brave: Firefox-based browser with ad blocking built in (also blocks tracking pixels/cookies) 🔶🔥🔥
-  - https://github.com/brave/browser-ios
-  - https://itunes.apple.com/app/brave-web-browser/id1052879175
-- Endless Browser: Web browser built with privacy and security in mind 
-  - https://github.com/jcs/endless
-  - https://itunes.apple.com/app/endless-browser/id974745755
-- Firefox: Official Firefox app 🔶🔥🔥🔥🔥🔥
-  - https://github.com/mozilla/firefox-ios
-  - https://itunes.apple.com/app/firefox-web-browser/id989804926
-- Frameless: A full-screen web browser 🔶🔥🔥🔥
-  - https://github.com/stakes/Frameless
-  - https://itunes.apple.com/app/id933580264
-- Onion Browser: A Tor-powered web browser that improves your privacy. 🔥🔥🔥
-  - https://github.com/mtigas/iOS-OnionBrowser
-  - https://mike.tig.as/onionbrowser/
-  - https://itunes.apple.com/app/id519296448
-- Tob - Secure browser: A beautiful Tor browser to protect your anonymity. 
-  - https://github.com/JRock007/Tob
-  - https://itunes.apple.com/app/id1063151782
+- Brave: Firefox-based browser with ad & tracking pixel/cookie blocking built in [` App Store`](https://itunes.apple.com/app/brave-web-browser/id1052879175) `Swift` 🔥🔥
+  <details><summary>https://github.com/brave/browser-ios</summary>
+  Added May 24, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  </details>
+- Endless Browser: Web browser built with privacy and security in mind [` App Store`](https://itunes.apple.com/app/endless-browser/id974745755) 
+  <details><summary>https://github.com/jcs/endless</summary>
+  Added December 22, 2015<br>  License: `other`
+  </details>
+- Firefox: Official Firefox app [` App Store`](https://itunes.apple.com/app/firefox-web-browser/id989804926) `Swift` 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/mozilla/firefox-ios</summary>
+  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>  ![Firefox image 1](http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg)
+  </details>
+- Frameless: A full-screen web browser [` App Store`](https://itunes.apple.com/app/id933580264) `Swift` 🔥🔥🔥
+  <details><summary>https://github.com/stakes/Frameless</summary>
+  Added July 31, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Onion Browser: A Tor-powered web browser that improves your privacy [` App Store`](https://itunes.apple.com/app/id519296448) 🔥🔥🔥
+  <details><summary>https://github.com/mtigas/iOS-OnionBrowser</summary>
+  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://mike.tig.as/onionbrowser/
+  </details>
+- Tob - Secure browser: A beautiful Tor browser to protect your anonymity [` App Store`](https://itunes.apple.com/app/id1063151782) 
+  <details><summary>https://github.com/JRock007/Tob</summary>
+  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+## Calendar 
+ 
+[back to top](#readme) 
+ 
+- Malendar: A redesigned calendar `Swift` 🔥
+  <details><summary>https://github.com/croossin/Malendar</summary>
+  Added October 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Workdays: Simple iPhone calendar with operating schedule [` App Store`](https://itunes.apple.com/app/workdays-calendar/id889712978) 
+  <details><summary>https://github.com/mpak/Workdays</summary>
+  Added August 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ## Communication 
  
 [back to top](#readme) 
  
-- Actor: Communication app with a focus on speed and security 🔥🔥🔥🔥🔥
-  - https://github.com/actorapp/actor-platform
-  - https://itunes.apple.com/app/actor-messenger/id1025501036
-- Antidote: A tox client. 🔥
-  - https://github.com/Antidote-for-Tox/Antidote
-  - https://antidote.im/
-- BLEMeshChat: Bluetooth LE mesh chat 🔥🔥
-  - https://github.com/chrisballinger/BLEMeshChat
-- Chats: Messages app 🔶🔥🔥🔥🔥
-  - https://github.com/acani/Chats
-- ChatSecure: Encrypted chat app that supports OTR encryption over XMPP 🔥🔥🔥🔥
-  - https://github.com/ChatSecure/ChatSecure-iOS
-  - https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063
-- Chaty: Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching 🔥🔥
-  - https://github.com/LunarFlash/Chaty
+- Actor: Cross-platform instant message app [` App Store`](https://itunes.apple.com/app/actor-messenger/id1025501036) 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/actorapp/actor-platform</summary>
+  Added April 11, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
+  </details>
+- Antidote: A client for https://tox.chat/ 🔥
+  <details><summary>https://github.com/Antidote-for-Tox/Antidote</summary>
+  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://antidote.im/
+  </details>
+- BLEMeshChat: Bluetooth LE app 🔥🔥
+  <details><summary>https://github.com/chrisballinger/BLEMeshChat</summary>
+  Added January 11, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  </details>
+- Chats `Swift` 🔥🔥🔥🔥
+  <details><summary>https://github.com/acani/Chats</summary>
+  Added March 18, 2015<br>  License: [`unlicense`](http://choosealicense.com/licenses/unlicense/)
+  </details>
+- ChatSecure: Send messages with OTR encryption over XMPP [` App Store`](https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063) 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/ChatSecure/ChatSecure-iOS</summary>
+  Added March 26, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- Chaty: Anonymous messaging leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data sync 🔥🔥
+  <details><summary>https://github.com/LunarFlash/Chaty</summary>
+  Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Colloquy: IRC client 
-  - https://github.com/colloquy/colloquy
-- IRCCloud: An IRC client/service 🔥
-  - https://github.com/irccloud/ios
-  - https://itunes.apple.com/app/irccloud/id672699103
-- Linphone: Make free audio/video calls and text messages. 
-  - https://www.linphone.org/technical-corner/linphone/downloads
-  - https://www.linphone.org/
-  - https://itunes.apple.com/app/linphone/id360065638
-- M: Email with device-to-device encryption for messages sent between M users 
-  - https://github.com/Mynigma/M
-  - https://itunes.apple.com/app/m-safe-email-made-simple/id818498595
+  <details><summary>https://github.com/colloquy/colloquy</summary>
+  Added January 27, 2016<br>  License: `other`
+  </details>
+- IRCCloud: IRC client/service [` App Store`](https://itunes.apple.com/app/irccloud/id672699103) 🔥
+  <details><summary>https://github.com/irccloud/ios</summary>
+  Added January 29, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- Linphone: Free audio/video calls & text messages [` App Store`](https://itunes.apple.com/app/linphone/id360065638) 
+  <details><summary>https://www.linphone.org/technical-corner/linphone/downloads</summary>
+  Added May 31, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://www.linphone.org/
+  </details>
+- M: Email with device-to-device encryption for messages sent between M users [` App Store`](https://itunes.apple.com/app/m-safe-email-made-simple/id818498595) 
+  <details><summary>https://github.com/Mynigma/M</summary>
+  Added January 26, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
 - Mumble: Gaming-focused social voice chat utility 🔥
-  - https://github.com/mumble-voip/mumble-iphoneos
-- Rocket.Chat: Meteor chat platform app 🔶🔥
-  - https://github.com/RocketChat/Rocket.Chat.iOS
-- Signal: Free, world-wide, private messaging and phone calls for iPhone 🔥🔥🔥🔥
-  - https://github.com/WhisperSystems/Signal-iOS
-  - https://itunes.apple.com/app/id874139669
-- Spika: A secure business messenger. 
-  - https://github.com/cloverstudio/Spika
-  - https://spika.business/
-- surespot: Secures all messages using end-to-end encryption 
-  - https://github.com/surespot/surespot-ios
-  - https://itunes.apple.com/app/surespot/id790314865
-- Telegram: Messaging app with a focus on speed and security 🔥🔥🔥
-  - https://github.com/peter-iakovlev/Telegram
-  - https://itunes.apple.com/app/telegram-messenger/id686449807
-- TextEthan: Clone of TextEthan, a messaging app that allows anyone to message you 🔶
-  - https://github.com/thii/TextEthan
-- TSWeChat: A WeChat alternative 🔶🔥🔥🔥🔥
-  - https://github.com/hilen/TSWeChat
-- Tutanota: End-to-end encrypted email. 🔥🔥🔥🔥
-  - https://github.com/tutao/tutanota
-  - https://tutanota.com/
-  - https://itunes.apple.com/app/id922429609
+  <details><summary>https://github.com/mumble-voip/mumble-iphoneos</summary>
+  Added September 10, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- Rocket.Chat: Meteor chat platform app `Swift` 🔥
+  <details><summary>https://github.com/RocketChat/Rocket.Chat.iOS</summary>
+  Added January 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Signal: Free, world-wide, private messaging & phone calls for iPhone [` App Store`](https://itunes.apple.com/app/id874139669) 🔥🔥🔥🔥
+  <details><summary>https://github.com/WhisperSystems/Signal-iOS</summary>
+  Added February 27, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- Spika: A secure business messenger 
+  <details><summary>https://github.com/cloverstudio/Spika</summary>
+  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://spika.business/
+  </details>
+- surespot: Secures all messages using end-to-end encryption [` App Store`](https://itunes.apple.com/app/surespot/id790314865) 
+  <details><summary>https://github.com/surespot/surespot-ios</summary>
+  Added March  3, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- Telegram: Send messages with a focus on speed & security [` App Store`](https://itunes.apple.com/app/telegram-messenger/id686449807) 🔥🔥🔥
+  <details><summary>https://github.com/peter-iakovlev/Telegram</summary>
+  Added April  6, 2015<br>  License: `other`
+  </details>
+- TextEthan: Allow anyone to message you `Swift` 
+  <details><summary>https://github.com/thii/TextEthan</summary>
+  Added April 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- TSWeChat: A WeChat alternative `Swift` 🔥🔥🔥🔥
+  <details><summary>https://github.com/hilen/TSWeChat</summary>
+  Added May 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Tutanota: End-to-end encrypted email [` App Store`](https://itunes.apple.com/app/id922429609) 🔥🔥🔥🔥
+  <details><summary>https://github.com/tutao/tutanota</summary>
+  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://tutanota.com/
+  </details>
+- Vector: Collaboration for teams, chat & share via http://matrix.org/ [` App Store`](https://itunes.apple.com/app/vector.im/id1083446067) 
+  <details><summary>https://github.com/vector-im/vector-ios</summary>
+  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  https://vector.im/
+  </details>
+- Wire: Modern, private communications: crystal clear voice, video, group chats. No advertising. Always encrypted. [` App Store`](https://itunes.apple.com/app/wire/id930944768) `Swift` 🔥🔥🔥🔥
+  <details><summary>https://github.com/wireapp/wire-ios</summary>
+  Added July 22, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
 
 ## Conference 
  
 [back to top](#readme) 
  
-- EventBlankApp: App for events or conferences 🔶🔥🔥
-  - https://github.com/icanzilb/EventBlankApp
-- Hack Cancer: Hackathon app 🔶
-  - https://github.com/HackCancer/iOS
-  - https://itunes.apple.com/app/hack-cancer/id1030806844
-- NortalTechDay: Nortal TechDay 2015 app 🔥
-  - https://github.com/mikkoj/NortalTechDay
-- ParseDeveloperDay: Parse 2013 developer conference app 
-  - https://github.com/ParsePlatform/ParseDeveloperDay
-- RWDevCon: RWDevCon app 🔶
-  - https://github.com/raywenderlich/RWDevCon-App
-- trySwiftApp: try! Swift conference app 🔶🔥🔥
-  - https://github.com/tryswift/trySwiftApp
-- Valio: Valio Con 2014 schedule 🔶🔥🔥
-  - https://github.com/soffes/valio
-
-## Content Blocking 
- 
-[back to top](#readme) 
- 
-- Adblock Fast 🔥🔥
-  - https://github.com/rocketshipapps/adblockfast
-  - https://itunes.apple.com/app/adblock-fast/id1032930802
-- Adblock Plus 
-  - https://github.com/adblockplus/adblockplussafariios
-  - https://itunes.apple.com/app/adblock-plus-abp/id1028871868
-- BlockParty 🔥🔥🔥
-  - https://github.com/krishkumar/BlockParty
-- Focus: Content blocker by Firefox 🔶🔥🔥
-  - https://github.com/mozilla/focus
-- Swab: The Content Blocker of Creative, Web and Design Culture Ads 🔶
-  - https://github.com/pkamb/swab
-  - http://swabthe.com/
-  - https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002
+- EventBlankApp: Events / conferences `Swift` 🔥🔥
+  <details><summary>https://github.com/icanzilb/EventBlankApp</summary>
+  Added April 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Hack Cancer Hackathon [` App Store`](https://itunes.apple.com/app/hack-cancer/id1030806844) `Swift` 
+  <details><summary>https://github.com/HackCancer/iOS</summary>
+  Added August  7, 2015<br>  License: `other`
+  </details>
+- Nortal TechDay 2015 🔥
+  <details><summary>https://github.com/mikkoj/NortalTechDay</summary>
+  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Parse 2013 Developer Day 
+  <details><summary>https://github.com/ParsePlatform/ParseDeveloperDay</summary>
+  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
+  </details>
+- RWDevCon `Swift` 
+  <details><summary>https://github.com/raywenderlich/RWDevCon-App</summary>
+  Added March 13, 2016<br>  License: `other`
+  </details>
+- TechTavta: Keep track of all events for Techtatva 2015 [` App Store`](https://itunes.apple.com/app/techtatva15/id922178880) 
+  <details><summary>https://github.com/LUGM/TechTatva-15</summary>
+  Added April 19, 2016<br>  License: `other`
+  </details>
+- try! Swift `Swift` 🔥🔥
+  <details><summary>https://github.com/tryswift/trySwiftApp</summary>
+  Added February 16, 2016<br>  License: `other`
+  </details>
+- Valio Con 2014 Schedule `Swift` 🔥🔥
+  <details><summary>https://github.com/soffes/valio</summary>
+  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ## Developer 
  
 [back to top](#readme) 
  
-- AppLove: View app reviews for all territories (countries) 🔶
-  - https://github.com/snowpunch/AppLove
-  - https://itunes.apple.com/app/app-love/id1099336831
-- AppSlate: Make your own iOS applications. 🔥
-  - https://github.com/Taehan-Kim/AppSlate
-  - https://www.facebook.com/AppSlate
-  - https://itunes.apple.com/app/id511327336
-- Bequest: Create and replay HTTP/S requests 🔶
-  - https://github.com/splinesoft/Bequest
+- AppLove: View app reviews for all territories (countries) [` App Store`](https://itunes.apple.com/app/app-love/id1099336831) `Swift` 
+  <details><summary>https://github.com/snowpunch/AppLove</summary>
+  Added May  7, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- AppSlate: Make your own iOS apps [` App Store`](https://itunes.apple.com/app/id511327336) 🔥
+  <details><summary>https://github.com/Taehan-Kim/AppSlate</summary>
+  Added June  1, 2016<br>  License: `other`<br>  https://www.facebook.com/AppSlate
+  </details>
+- Bequest: Create and replay HTTP/S requests `Swift` 
+  <details><summary>https://github.com/splinesoft/Bequest</summary>
+  Added April  7, 2015<br>  License: `other`
+  </details>
 - Blink: Mobile shell terminal based on Mosh 
-  - https://github.com/blinksh/blink
-- Charter: A Swift mailing list client for iPhone and iPad 🔶🔥🔥
-  - https://github.com/matthewpalmer/Charter
-  - https://itunes.apple.com/app/charter-mailing-list-client/id1082212697
-- CI2Go: An unofficial CircleCI Client 🔶
-  - https://github.com/ngs/ci2go
-  - https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427
+  <details><summary>https://github.com/blinksh/blink</summary>
+  Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- Charter: An iPhone/iPad mailing list app [` App Store`](https://itunes.apple.com/app/charter-mailing-list-client/id1082212697) `Swift` 🔥🔥
+  <details><summary>https://github.com/matthewpalmer/Charter</summary>
+  Added February 22, 2016<br>  License: `other`
+  </details>
+- CI2Go: Unofficial app for https://circleci.com/ [` App Store`](https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427) `Swift` 
+  <details><summary>https://github.com/ngs/ci2go</summary>
+  Added March 21, 2016<br>  License: `other`
+  </details>
 - CodeBucket: Browse and maintain your Bitbucket repositories 🔥
-  - https://github.com/thedillonb/CodeBucket
-- Codinator: Code editor for iPhone and iPad 
-  - https://github.com/DanilaVladi/codinator
-  - https://itunes.apple.com/app/codinator/id1024671232
-- Piwik Mobile 2: Access Piwik analytics on the go. 
-  - https://github.com/piwik/piwik-mobile-2
-  - https://piwik.org/mobile/
-  - https://itunes.apple.com/app/id737216887
-- RealmVideo: Watch Realm videos and slides on your phone 🔶🔥🔥
-  - https://github.com/BalestraPatrick/RealmVideo
-- Review Time: Shows average review times for iOS and Mac apps 🔶🔥
-  - https://github.com/nthegedus/ReviewTime
-- TLDR Man Page: Reference dictionary for computer manual commands, but in TL;DR (Too long didn't read) mode 🔶
-  - https://github.com/freesuraj/TLDR
-  - https://itunes.apple.com/app/tldr-man-page/id1073433250
-- wat: Very simple packet sniffer in Swift 🔶
-  - https://github.com/pj4533/wat
+  <details><summary>https://github.com/thedillonb/CodeBucket</summary>
+  Added June  3, 2016<br>  License: `other`
+  </details>
+- Codinator: iPhone/iPad code editor [` App Store`](https://itunes.apple.com/app/codinator/id1024671232) 
+  <details><summary>https://github.com/DanilaVladi/codinator</summary>
+  Added April 11, 2016<br>  License: `other`
+  </details>
+- Piwik Mobile 2: [Piwik](https://piwik.org/) analytics on the go [` App Store`](https://itunes.apple.com/app/id737216887) 
+  <details><summary>https://github.com/piwik/piwik-mobile-2</summary>
+  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://piwik.org/mobile/
+  </details>
+- RealmVideo: Watch Realm videos & slides on your phone `Swift` 🔥🔥
+  <details><summary>https://github.com/BalestraPatrick/RealmVideo</summary>
+  Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Review Time: Shows average review times for iOS and Mac apps `Swift` 🔥
+  <details><summary>https://github.com/nthegedus/ReviewTime</summary>
+  Added October  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- TLDR Man Page: Reference dictionary for computer manual commands, but in tl;dr (too long; didn't read) mode [` App Store`](https://itunes.apple.com/app/tldr-man-page/id1073433250) `Swift` 
+  <details><summary>https://github.com/freesuraj/TLDR</summary>
+  Added May  3, 2016<br>  License: `other`
+  </details>
+- wat: Very simple packet sniffer `Swift` 
+  <details><summary>https://github.com/pj4533/wat</summary>
+  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ### GitHub 
  
 [back to top](#readme) 
  
-- CodeHub: Browse and maintain GitHub repositories. 🔥🔥🔥🔥🔥
-  - https://github.com/thedillonb/CodeHub
-  - http://codehub-app.com/
-  - https://itunes.apple.com/app/id707173885
-- GitBucket: GitHub client using MVVM & ReactiveCocoa 🔥🔥🔥🔥🔥
-  - https://github.com/leichunfeng/MVVMReactiveCocoa
-  - https://itunes.apple.com/app/id961330940
-- Github-Swift: App written in Swift using the Github API 🔶
-  - https://github.com/acmacalister/Github-Swift
-- Monkey: GitHub third party client that shows the rank of coders and repositories 🔥🔥🔥🔥
-  - https://github.com/coderyi/Monkey
-  - https://itunes.apple.com/app/monkey-for-github/id1003765407
+- CodeHub: Browse and maintain GitHub repositories [` App Store`](https://itunes.apple.com/app/id707173885) 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/thedillonb/CodeHub</summary>
+  Added June  1, 2016<br>  License: `other`<br>  http://codehub-app.com/
+  </details>
+- GitBucket: Uses MVVM & ReactiveCocoa [` App Store`](https://itunes.apple.com/app/id961330940) 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/leichunfeng/MVVMReactiveCocoa</summary>
+  Added October 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Github-Swift `Swift` 
+  <details><summary>https://github.com/acmacalister/Github-Swift</summary>
+  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Monkey: GitHub app that shows the rank of coders and repositories [` App Store`](https://itunes.apple.com/app/monkey-for-github/id1003765407) 🔥🔥🔥🔥
+  <details><summary>https://github.com/coderyi/Monkey</summary>
+  Added August 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - MrCode: GitHub iPhone app that can cache Markdown content 🇨🇳🔥🔥
-  - https://github.com/haolloyin/MrCode
-- OctoPodium: List user rankings based on GitHub repository star count 🔶🔥
-  - https://github.com/nunogoncalves/iOS-OctoPodium
-  - https://itunes.apple.com/app/octopodium/id1077519133
-- SwiftHub: View Swift repositories from Github 
-  - https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub
+  <details><summary>https://github.com/haolloyin/MrCode</summary>
+  Added November  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- OctoPodium: List users ranked by GitHub repository star count [` App Store`](https://itunes.apple.com/app/octopodium/id1077519133) `Swift` 🔥
+  <details><summary>https://github.com/nunogoncalves/iOS-OctoPodium</summary>
+  Added February 18, 2016<br>  License: `other`
+  </details>
+- Siesta GitHub Browser: Browse and star GitHub repositories using Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
+  <details><summary>https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser</summary>
+  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- SwiftHub: View Swift repositories on GitHub 
+  <details><summary>https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub</summary>
+  Added May 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+## Extension 
+ 
+[back to top](#readme) 
+ 
+- Celluloid: The best photo extension [` App Store`](https://itunes.apple.com/app/celluloid/id1124966798) 🇨🇳🔥🔥
+  <details><summary>https://github.com/100mango/Celluloid</summary>
+  Added July 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693) `Swift` 🔥🔥
+  <details><summary>https://github.com/dasdom/Tomate</summary>
+  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- OpenIt: Today extension to launch other apps 
+  <details><summary>https://github.com/BalestraPatrick/OpenIt</summary>
+  Added June  7, 2016<br>  License: `other`
+  </details>
+- SwiftNote: Simple note taking with Today extension & iCloud sync `Swift` 🔥
+  <details><summary>https://github.com/mslathrop/SwiftNote</summary>
+  Added March 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- TodayStocks: Show portfolio in a minimalist Today extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855) 
+  <details><summary>https://github.com/premnirmal/TodayStocks</summary>
+  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- VPN On: Today extension to turn on VPN [` App Store`](https://itunes.apple.com/app/vpn-on/id951344279) `Swift` 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/lexrus/VPNOn</summary>
+  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+### Content Blocking 
+ 
+[back to top](#readme) 
+ 
+- Adblock Fast [` App Store`](https://itunes.apple.com/app/adblock-fast/id1032930802) 🔥🔥
+  <details><summary>https://github.com/rocketshipapps/adblockfast</summary>
+  Added September 25, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- Adblock Plus [` App Store`](https://itunes.apple.com/app/adblock-plus-abp/id1028871868) 
+  <details><summary>https://github.com/adblockplus/adblockplussafariios</summary>
+  Added December 14, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- BlockParty 🔥🔥🔥
+  <details><summary>https://github.com/krishkumar/BlockParty</summary>
+  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Focus by Firefox `Swift` 🔥🔥
+  <details><summary>https://github.com/mozilla/focus</summary>
+  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  </details>
+- Swab: Creative, web & design culture ad blocking [` App Store`](https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002) `Swift` 
+  <details><summary>https://github.com/pkamb/swab</summary>
+  Added July 12, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>  http://swabthe.com/
+  </details>
 
 ## Finance 
  
 [back to top](#readme) 
  
-- BitStore: Bitcoin wallet 
-  - https://github.com/BitStore/BitStore-iOS
-  - https://itunes.apple.com/app/bitstore/id890668158
-- breadwallet: Bitcoin wallet 
-  - https://github.com/breadwallet/breadwallet
-  - https://itunes.apple.com/app/breadwallet/id885251393
-- Buck Tracker: Expense tracker 🔶
-  - https://github.com/hkalexling/Buck_Tracker
-  - https://itunes.apple.com/app/ibudgeter/id1048395728
-- Coins: Bitcoin value tracker 🔶🔥
-  - https://github.com/nothingmagical/coins
-- Concurrency: Beautiful, intuitive currency converter 🔥🔥
-  - https://github.com/nicklockwood/Concurrency
-  - https://itunes.apple.com/app/concurrency/id738872892
-- doughwallet: Dogecoin wallet 
-  - https://github.com/peritus/doughwallet
-  - https://itunes.apple.com/app/doughwallet/id951731776
-- EMI Calculator for Home, Personal & Car Loan: Calculate your Equated Monthly instalment (EMI) for Home loan, Housing loan, Car loan & Personal loan 🔶
-  - https://github.com/tirupati17/loan-emi-calculator-clean-swift
-  - https://itunes.apple.com/app/id1105890730
+- Buck Tracker: Expense tracker [` App Store`](https://itunes.apple.com/app/ibudgeter/id1048395728) `Swift` 
+  <details><summary>https://github.com/hkalexling/Buck_Tracker</summary>
+  Added November 16, 2015<br>  License: `other`
+  </details>
+- Concurrency: Beautiful, intuitive currency converter [` App Store`](https://itunes.apple.com/app/concurrency/id738872892) 🔥🔥
+  <details><summary>https://github.com/nicklockwood/Concurrency</summary>
+  Added January 28, 2015<br>  License: `other`
+  </details>
+- doughwallet: Dogecoin wallet [` App Store`](https://itunes.apple.com/app/doughwallet/id951731776) 
+  <details><summary>https://github.com/peritus/doughwallet</summary>
+  Added July  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- EMI Calculator: Calculate your Equated Monthly installment (EMI) for home, car & personal loans, uses Viper [` App Store`](https://itunes.apple.com/app/id1105890730) `Swift` 
+  <details><summary>https://github.com/tirupati17/loan-emi-calculator-clean-swift</summary>
+  Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Neverlate: Pay-if-U-R-late app using geofences and Venmo API 
-  - https://github.com/ayunav/Neverlate
-- Savings Assistant: Expense tracker 🔶
-  - https://github.com/chrisamanse/savings-assistant
-  - https://itunes.apple.com/app/savings-assistant/id1022760996
-- SIP - Calculator: SIP calculator calculates the future value of SIP (Systematic Investment Plan) payments 🔶
-  - https://github.com/tirupati17/sip-calculator-swift
-  - https://itunes.apple.com/app/id1092822415
-- TodayStocks: Lightweight stocks app that shows your portfolio in a minimalist today extension 
-  - https://github.com/premnirmal/TodayStocks
-  - https://itunes.apple.com/app/todaystocks/id993467855
-- ToThePenny: Budget tracker 
-  - https://github.com/vanyaland/ToThePenny
-  - https://itunes.apple.com/app/tothepenny/id994476075
+  <details><summary>https://github.com/ayunav/Neverlate</summary>
+  Added May 27, 2016<br>  License: `other`
+  </details>
+- Savings Assistant: Expense tracker [` App Store`](https://itunes.apple.com/app/savings-assistant/id1022760996) `Swift` 
+  <details><summary>https://github.com/chrisamanse/savings-assistant</summary>
+  Added September  5, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- SIP Calculator: Calculate the future value of SIP (Systematic Investment Plan) payments [` App Store`](https://itunes.apple.com/app/id1092822415) `Swift` 
+  <details><summary>https://github.com/tirupati17/sip-calculator-swift</summary>
+  Added July 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Tip Calculator: Calculate tip & split the bill between any number of people, uses Viper [` App Store`](https://itunes.apple.com/app/id1139456857) 
+  <details><summary>https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c</summary>
+  Added August  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Tip Calculator image 1](https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png)
+  </details>
+- TodayStocks: Show portfolio in a minimalist Today extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855) 
+  <details><summary>https://github.com/premnirmal/TodayStocks</summary>
+  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- ToThePenny: Budget tracker [` App Store`](https://itunes.apple.com/app/tothepenny/id994476075) 
+  <details><summary>https://github.com/vanyaland/ToThePenny</summary>
+  Added April 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
-## Games 
+### Bitcoin 
+ 
+[back to top](#readme) 
+ 
+- Bither: Simple & secure Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bither/id899478936) 
+  <details><summary>https://github.com/bither/bither-ios</summary>
+  Added April  3, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- BitStore: Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bitstore/id890668158) 
+  <details><summary>https://github.com/BitStore/BitStore-iOS</summary>
+  Added April 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- breadwallet: Bitcoin wallet [` App Store`](https://itunes.apple.com/app/breadwallet/id885251393) 
+  <details><summary>https://github.com/breadwallet/breadwallet</summary>
+  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Coins: Bitcoin value tracker `Swift` 🔥
+  <details><summary>https://github.com/nothingmagical/coins</summary>
+  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+## Game 
  
 [back to top](#readme) 
  
 - 2048 in Objective-C 🔥
-  - https://github.com/austinzheng/iOS-2048
-- 2048 in Objective-C using SpriteKit 🔥🔥🔥
-  - https://github.com/danqing/2048
-- 2048 in Swift 🔶🔥🔥🔥🔥🔥
-  - https://github.com/austinzheng/swift-2048
-- Aeropack: A steampunk retro 2d platformer. 
-  - https://github.com/insurgentgames/Aeropack
+  <details><summary>https://github.com/austinzheng/iOS-2048</summary>
+  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- 2048 in Objective-C using `SpriteKit` 🔥🔥🔥
+  <details><summary>https://github.com/danqing/2048</summary>
+  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- 2048 in Swift `Swift` 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/austinzheng/swift-2048</summary>
+  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Aeropack: A steampunk retro 2d platformer 
+  <details><summary>https://github.com/insurgentgames/Aeropack</summary>
+  Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- Alienblast: Cute and sweet shooting game developed with Cocos2D & SpriteBuilder [` App Store`](https://itunes.apple.com/app/id1098323034) `Swift` 
+  <details><summary>https://github.com/etamity/AlienBlast</summary>
+  Added July 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Balloon Burst: A simple game to use in learning Cocos2D 
-  - https://github.com/jamiely/ios-balloon-burst
-- Bridges: A puzzle game with bridges, houses, tolls, and subways 🔥
-  - https://github.com/zgrossbart/bridges
-  - https://itunes.apple.com/app/seven-bridges/id586598714
-- Canabalt: Infinite runner 🔥🔥🔥🔥
-  - https://github.com/ericjohnson/canabalt-ios
-  - https://itunes.apple.com/app/canabalt/id333180061
-- CardsAgainst: Cards Against Humanity app 🔶🔥🔥
-  - https://github.com/jpsim/CardsAgainst
-- Castle Hassle: A real-time physical game where you build your kingdom while crushing your opponents. 🔥
-  - https://github.com/bryceredd/CastleHassle
-  - https://itunes.apple.com/app/castle-hassle/id524566068
-- Chess: Chess game to learn SpriteKit 🔶
-  - https://github.com/mjcuva/Chess
-- Chuck: Throw a ball and catch it. Over and over and over. 
-  - https://github.com/moowahaha/Chuck
-  - https://itunes.apple.com/app/chuck/id1050453297
+  <details><summary>https://github.com/jamiely/ios-balloon-burst</summary>
+  Added May 16, 2016<br>  License: `other`
+  </details>
+- Bridges: A puzzle game with bridges, houses, tolls, and subways [` App Store`](https://itunes.apple.com/app/seven-bridges/id586598714) 🔥
+  <details><summary>https://github.com/zgrossbart/bridges</summary>
+  Added May 15, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- Canabalt: Infinite runner [` App Store`](https://itunes.apple.com/app/canabalt/id333180061) 🔥🔥🔥🔥
+  <details><summary>https://github.com/ericjohnson/canabalt-ios</summary>
+  Added March 26, 2015<br>  License: `other`
+  </details>
+- CardsAgainst: Cards Against Humanity app `Swift` 🔥🔥
+  <details><summary>https://github.com/jpsim/CardsAgainst</summary>
+  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Castle Hassle: A real-time physical game where you build your kingdom while crushing your opponents [` App Store`](https://itunes.apple.com/app/castle-hassle/id524566068) 🔥
+  <details><summary>https://github.com/bryceredd/CastleHassle</summary>
+  Added May 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Chess: Chess game to learn SpriteKit `Swift` 
+  <details><summary>https://github.com/mjcuva/Chess</summary>
+  Added July 15, 2015<br>  License: `other`
+  </details>
+- Chuck: Throw a ball and catch it, over and over and over [` App Store`](https://itunes.apple.com/app/chuck/id1050453297) 
+  <details><summary>https://github.com/moowahaha/Chuck</summary>
+  Added October 25, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - CodeCombat: Multiplayer programming game for learning how to code 
-  - https://github.com/codecombat/codecombat-ios
-- Concentration game (翻翻看) 🔶🇨🇳🔥
-  - https://github.com/geek5nan/FanFanSwift
-- Cryptose: Solve cryptograms as a Hacker, Detective, or Spy. 
-  - https://github.com/insurgentgames/Cryptose
-- DOOM: Doom Classic for iOS 🔥🔥
-  - https://github.com/id-Software/DOOM-iOS
-  - https://itunes.apple.com/app/doom-classic/id336347946
-- DOOM-IOS2: Doom Classic for iOS version 2 🔥
-  - https://github.com/id-Software/DOOM-IOS2
-  - https://itunes.apple.com/app/doom-ii-rpg/id354051766
-- Dragon Shout App 2: A social journal for the Elder Scrolls® series. 
-  - https://github.com/rblalock/dragon_shout_app_open_source
-  - https://itunes.apple.com/app/id690208182
-- DropColour Game in Swift 2.2: Arcade game in which you simply have to drag and drop one circle onto another of the same color. 🔶
-  - https://github.com/elpassion/DropColour-iOS
-  - https://itunes.apple.com/app/dropcolour/id1046339763
+  <details><summary>https://github.com/codecombat/codecombat-ios</summary>
+  Added January 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Concentration game (翻翻看) `Swift` 🇨🇳🔥
+  <details><summary>https://github.com/geek5nan/FanFanSwift</summary>
+  Added May 14, 2015<br>  License: `other`
+  </details>
+- Conway's Game of Life: Uses SpriteKit `Swift` 
+  <details><summary>https://github.com/yonbergman/swift-gameoflife</summary>
+  Added March 31, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Conway's Game of Life in Objective-C (Vie) [` App Store`](https://itunes.apple.com/app/vie-conways-game-of-life/id989686123) 
+  <details><summary>https://github.com/fabienwarniez/Vie</summary>
+  Added July 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Cryptose: Solve cryptograms as a Hacker, Detective, or Spy 
+  <details><summary>https://github.com/insurgentgames/Cryptose</summary>
+  Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- DOOM: Doom Classic for iOS [` App Store`](https://itunes.apple.com/app/doom-classic/id336347946) 🔥🔥
+  <details><summary>https://github.com/id-Software/DOOM-iOS</summary>
+  Added May 19, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- DOOM-IOS2: Doom Classic for iOS version 2 [` App Store`](https://itunes.apple.com/app/doom-ii-rpg/id354051766) 🔥
+  <details><summary>https://github.com/id-Software/DOOM-IOS2</summary>
+  Added May 19, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- Dragon Shout App 2: A social journal for the Elder Scrolls® series [` App Store`](https://itunes.apple.com/app/id690208182) 
+  <details><summary>https://github.com/rblalock/dragon_shout_app_open_source</summary>
+  Added June  1, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- DropColour Game in Swift 2.2: Arcade game in which you simply have to drag and drop one circle onto another of the same color [` App Store`](https://itunes.apple.com/app/dropcolour/id1046339763) `Swift` 
+  <details><summary>https://github.com/elpassion/DropColour-iOS</summary>
+  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Dungeon Crawl: A game of dungeon exploration, combat and magic, involving characters of diverse skills 
-  - https://github.com/CliffsDover/crawl
-  - https://github.com/CliffsDover/crawl/tree/iOS_Release
+  <details><summary>https://github.com/CliffsDover/crawl</summary>
+  Added March 23, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://github.com/CliffsDover/crawl/tree/iOS_Release
+  </details>
 - Five In A Row (五子棋): SpriteKit game 🇨🇳
-  - https://github.com/WelkinXie/FiveInARow
-- FlappySwift: Swift implementation of Flappy Bird 🔶🔥🔥🔥🔥🔥
-  - https://github.com/fullstackio/FlappySwift
-- Frotz: Play hundreds of free works of Interactive Fiction (a.k.a. text adventure games). 
-  - https://github.com/ifrotz/iosfrotz
-  - https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md
-  - https://itunes.apple.com/app/id287653015
-- Game Of Life: Conway's Game of Life 🔶
-  - https://github.com/yonbergman/swift-gameoflife
+  <details><summary>https://github.com/WelkinXie/FiveInARow</summary>
+  Added May  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- FlappySwift: Swift implementation of Flappy Bird `Swift` 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/fullstackio/FlappySwift</summary>
+  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![FlappySwift image 1](https://camo.githubusercontent.com/867dfad61329bd77258f00d586b16476c7bc405a/687474703a2f2f692e696d6775722e636f6d2f314e4c6f546f552e676966)
+  </details>
+- Frotz: Play hundreds of free works of Interactive Fiction (a.k.a. text adventure games) [` App Store`](https://itunes.apple.com/app/id287653015) 
+  <details><summary>https://github.com/ifrotz/iosfrotz</summary>
+  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md
+  </details>
 - GBA4iOS: Gameboy, Gameboy Color & Gameboy Advance emulator 
-  - https://bitbucket.org/rileytestut/gba4ios/
-- Gorillas: An iPhone (or iPod touch) port of the popular old QBasic game with spunk! 🔥🔥
-  - https://github.com/Lyndir/Gorillas
-  - http://gorillas.lyndir.com/
-  - https://itunes.apple.com/app/gorillas/id302275459
-- GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 🔶
-  - https://github.com/gamechina/GrubbyWorm
-- Hedgewars: A turn-based strategy game. 
-  - http://hg.hedgewars.org/hedgewars/
-  - http://www.hedgewars.org/
-  - https://itunes.apple.com/app/id391234866
-- Heredox: Place tiles to form your allegiance's symbols. 
-  - https://github.com/RolandasRazma/Heredox/
-  - http://www.heredox.com/
-- Hostile Takeover: A release of the Real Time Strategy game Warfare Incorporated. 
-  - https://github.com/spiffcode/hostile-takeover
-- hoxChess: Xiangqi (Chinese Chess) with single and multiplayer modes. 
-  - https://github.com/huygithub/hoxChess
-  - https://itunes.apple.com/app/hoxchess/id363513274
-- iLabyrinth: Escape the labyrinth by following limited paths. 🔥
-  - https://github.com/RolandasRazma/iLabyrinth
+  <details><summary>https://bitbucket.org/rileytestut/gba4ios/</summary>
+  Added November 21, 2015<br>  License: `other`
+  </details>
+- Gorillas: An iPhone (or iPod touch) port of the popular old QBasic game with spunk! [` App Store`](https://itunes.apple.com/app/gorillas/id302275459) 🔥🔥
+  <details><summary>https://github.com/Lyndir/Gorillas</summary>
+  Added March  5, 2016<br>  License: `other`<br>  http://gorillas.lyndir.com/
+  </details>
+- GrubbyWorm: A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 `Swift` 
+  <details><summary>https://github.com/gamechina/GrubbyWorm</summary>
+  Added January 23, 2016<br>  License: `other`
+  </details>
+- Hedgewars: A turn-based strategy game [` App Store`](https://itunes.apple.com/app/id391234866) 
+  <details><summary>http://hg.hedgewars.org/hedgewars/</summary>
+  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  http://www.hedgewars.org/
+  </details>
+- Heredox: Place tiles to form your allegiance's symbols 
+  <details><summary>https://github.com/RolandasRazma/Heredox</summary>
+  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  http://www.heredox.com/
+  </details>
+- Hostile Takeover: A release of the Real Time Strategy game Warfare Incorporated 
+  <details><summary>https://github.com/spiffcode/hostile-takeover</summary>
+  Added June  1, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+  </details>
+- hoxChess: Xiangqi (Chinese Chess) with single and multiplayer modes [` App Store`](https://itunes.apple.com/app/hoxchess/id363513274) 
+  <details><summary>https://github.com/huygithub/hoxChess</summary>
+  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- iLabyrinth: Escape the labyrinth by following limited paths 🔥
+  <details><summary>https://github.com/RolandasRazma/iLabyrinth</summary>
+  Added June  1, 2016<br>  License: `other`
+  </details>
 - littlego: Play the game of Go on the iPhone or iPad 
-  - https://github.com/herzbube/littlego
-- Mission999 
-  - https://github.com/whunmr/Mission999
-  - https://itunes.apple.com/app/mission-999/id1036686316
-- MUDRammer: MUD Client for iPhone and iPad 
-  - https://github.com/splinesoft/MUDRammer
-  - https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072
-- My First Memory: Introduction to iOS & Swift / memory game implementation fetching images from Instagram 🔶
-  - https://github.com/Sajjon/SwiftIntro
-- Neocom for EVE Online: The character management tool for EveOnline MMORG. 
-  - https://github.com/mrdepth/Neocom
-  - https://itunes.apple.com/app/eveuniverse/id418895101
-- Orbit7: Game created in SpriteKit 🔶
-  - https://github.com/Mav3r1ck/Orbit7
-- Pterodactyl Attack: Blast your way through waves of pterodactyls. Also has a detailed writeup on how it's made. 
-  - https://github.com/shaunlebron/PterodactylAttack
-  - https://shaunlebron.github.io/pteroattack.com/
-  - https://itunes.apple.com/app/pterodactyl-attack/id786862892
-- Sakura Fly: Action game created in SpriteKit 
-  - https://github.com/l800891/Sakura-Fly
-  - https://itunes.apple.com/app/sakura-fly/id1019023051
-- SaveTheDot: UIViewPropertyAnimator experiment where you have to escape from the squares 🔥🔥
-  - https://github.com/JakeLin/SaveTheDot
-- Scary Flight: Just another yet FlappyBird-style game 
-  - https://github.com/EvgenyKarkan/ScaryFlight
-  - https://itunes.apple.com/app/scary-flight/id824428528
-- SceneKitFrogger 🔶
-  - https://github.com/devindazzle/SceneKitFrogger
-- SHMUP: 3D multiplatform game written primarily in C 🔥
-  - https://github.com/fabiensanglard/Shmup
-  - http://fabiensanglard.net/shmup/
-  - https://itunes.apple.com/app/shmup/id337663605
-- Skeleton Key: A puzzle game where you must shift keys around a board to unlock treasure chests. 🔥
-  - https://github.com/insurgentgames/Skeleton-Key-iOS
-- Spare Parts: Simple 2D point and line physics using Verlet integration 
-  - https://github.com/adamwulf/spare-parts-app
-  - https://itunes.apple.com/app/spare-parts/id981297199
-- Stick-Hero-Swift: Universal iOS Game using Swift and iOS SpriteKit 🔶🔥🔥
-  - https://github.com/phpmaple/Stick-Hero-Swift
-- teh internets: Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter. 
-  - https://github.com/insurgentgames/teh-internets
-- Wizard War: Cast spells in single or multiplayer wizard duels. 🔥🔥🔥
-  - https://github.com/seanhess/wizardwar
-- Wolfenstein 3D: Wolfenstein 3D for iOS 🔥🔥
-  - https://github.com/id-Software/Wolf3D-iOS
-  - https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478
-- XPilot: An iPhone port of the classic XPilot game. 
-  - http://7b5labs.com/xpilot.git/
-  - http://7b5labs.com/xpilotiphone
-  - https://itunes.apple.com/app/id322114791
+  <details><summary>https://github.com/herzbube/littlego</summary>
+  Added March  6, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- Master: PokéMon-like game that uses your location [` App Store`](https://itunes.apple.com/app/id601694902) 🔥🔥
+  <details><summary>https://github.com/Kjuly/iPokeMon</summary>
+  Added May 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Mission999 [` App Store`](https://itunes.apple.com/app/mission-999/id1036686316) 
+  <details><summary>https://github.com/whunmr/Mission999</summary>
+  Added February 17, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- MUDRammer: MUD app for iPhone/iPad [` App Store`](https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072) 
+  <details><summary>https://github.com/splinesoft/MUDRammer</summary>
+  Added June 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- My First Memory: Introduction to iOS & Swift / memory game implementation fetching images from Instagram `Swift` 
+  <details><summary>https://github.com/Sajjon/SwiftIntro</summary>
+  Added July  6, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- Neocom for EVE Online: The character management tool for EveOnline MMORG [` App Store`](https://itunes.apple.com/app/eveuniverse/id418895101) 
+  <details><summary>https://github.com/mrdepth/Neocom</summary>
+  Added June  1, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
+  </details>
+- Orbit7: Game created in SpriteKit `Swift` 
+  <details><summary>https://github.com/Mav3r1ck/Orbit7</summary>
+  Added April  2, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Pterodactyl Attack: Blast your way through waves of pterodactyls (has a detailed writeup on how it's made) [` App Store`](https://itunes.apple.com/app/pterodactyl-attack/id786862892) 
+  <details><summary>https://github.com/shaunlebron/PterodactylAttack</summary>
+  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://shaunlebron.github.io/pteroattack.com/
+  </details>
+- Sakura Fly: Action game created in SpriteKit [` App Store`](https://itunes.apple.com/app/sakura-fly/id1019023051) 
+  <details><summary>https://github.com/l800891/Sakura-Fly</summary>
+  Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- SaveTheDot: `UIViewPropertyAnimator` experiment where you have to escape from the squares 🔥🔥🔥
+  <details><summary>https://github.com/JakeLin/SaveTheDot</summary>
+  Added June 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Scary Flight: Just another yet FlappyBird-style game [` App Store`](https://itunes.apple.com/app/scary-flight/id824428528) 
+  <details><summary>https://github.com/EvgenyKarkan/ScaryFlight</summary>
+  Added May 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- SceneKitFrogger `Swift` 
+  <details><summary>https://github.com/devindazzle/SceneKitFrogger</summary>
+  Added August  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- SHMUP: 3D multiplatform game written primarily in C [` App Store`](https://itunes.apple.com/app/shmup/id337663605) 🔥
+  <details><summary>https://github.com/fabiensanglard/Shmup</summary>
+  Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  http://fabiensanglard.net/shmup/
+  </details>
+- Skeleton Key: A puzzle game where you must shift keys around a board to unlock treasure chests 🔥
+  <details><summary>https://github.com/insurgentgames/Skeleton-Key-iOS</summary>
+  Added May 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Spare Parts: Simple 2D point and line physics using Verlet integration [` App Store`](https://itunes.apple.com/app/spare-parts/id981297199) 
+  <details><summary>https://github.com/adamwulf/spare-parts-app</summary>
+  Added April  6, 2015<br>  License: `other`
+  </details>
+- Stick-Hero-Swift: iPhone/iPad iOS Game using SpriteKit `Swift` 🔥🔥
+  <details><summary>https://github.com/phpmaple/Stick-Hero-Swift</summary>
+  Added June 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- teh internets: Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter 
+  <details><summary>https://github.com/insurgentgames/teh-internets</summary>
+  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- Wizard War: Cast spells in single or multiplayer wizard duels 🔥🔥🔥
+  <details><summary>https://github.com/seanhess/wizardwar</summary>
+  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Wolfenstein 3D: Wolfenstein 3D for iOS [` App Store`](https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478) 🔥🔥
+  <details><summary>https://github.com/id-Software/Wolf3D-iOS</summary>
+  Added May 19, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- XPilot: An iPhone port of the classic XPilot game [` App Store`](https://itunes.apple.com/app/id322114791) 
+  <details><summary>http://7b5labs.com/xpilot.git/</summary>
+  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  http://7b5labs.com/xpilotiphone
+  </details>
 
-### Emulators 
+### Emulator 
  
 [back to top](#readme) 
  
 - ActiveGS: Apple II/IIGS Emulator with in-app game browser, mFi and iCade controller support 
-  - https://github.com/ogoguel/activegs-ios
+  <details><summary>https://github.com/ogoguel/activegs-ios</summary>
+  Added May 13, 2016<br>  License: `other`
+  </details>
 - DOSPad: DOSBox 
-  - https://github.com/litchie/dospad
+  <details><summary>https://github.com/litchie/dospad</summary>
+  Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
 - iUAE: Commodore Amiga emulator, based on UAE 
-  - https://github.com/emufreak/iAmiga
+  <details><summary>https://github.com/emufreak/iAmiga</summary>
+  Added May 14, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
 - MAME4iOS: MAME frontend 
-  - https://github.com/yoshisuga/MAME4iOS
+  <details><summary>https://github.com/yoshisuga/MAME4iOS</summary>
+  Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
 - Mini vMac: Early 68K Macintosh emulator 
-  - https://github.com/zydeco/minivmac4ios
-  - https://namedfork.net/minivmac/
+  <details><summary>https://github.com/zydeco/minivmac4ios</summary>
+  Added July 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://namedfork.net/minivmac/
+  </details>
 - nds4ios: Nintendo DS emulator, port of DeSmuME 
-  - https://github.com/raaxis/nds4ios
+  <details><summary>https://github.com/raaxis/nds4ios</summary>
+  Added May 14, 2016<br>  License: `other`
+  </details>
 - PPSSPP: PSP emulator 🔥🔥🔥🔥🔥
-  - https://github.com/hrydgard/ppsspp
-- Provenance: Emulators frontend supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔥🔥🔥🔥🔥
-  - https://github.com/jasarien/Provenance
+  <details><summary>https://github.com/hrydgard/ppsspp</summary>
+  Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/jasarien/Provenance</summary>
+  Added April 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
 - RetroArch: The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others 🔥🔥🔥🔥
-  - https://github.com/libretro/RetroArch
+  <details><summary>https://github.com/libretro/RetroArch</summary>
+  Added May 13, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
 
 ## Health 
  
 [back to top](#readme) 
  
-- Abby's Cycle: A HealthKit powered menstrual cycle tracker 🔶
-  - https://github.com/jc4p/abby-healthkit
-- Arex: Reminders for taking your medications 🔶
-  - https://github.com/a2/arex-7
-- CaseAssistant: Cases recording, study, and sharing for ophthalmologist 🔶🇨🇳🔥
-  - https://github.com/herrkaefer/CaseAssistant
-  - https://itunes.apple.com/app/id1003007080
-- Depressed: Test if you are depressed 🔶
-  - https://github.com/DerLobi/Depressed
-  - https://itunes.apple.com/app/depressed/id1062594092
-- HealthKit~Swift: Sample app for Apple HealthKit 🔶
-  - https://github.com/Darktt/HealthKit-Swift
-- Jim: Track your gym workouts 🔶
-  - https://github.com/kylejm/Jim
-- LogU: A Strength Logger is a simple logging application for strength athletes. 🔶
-  - https://github.com/brettalcox/logU-swift
-  - https://itunes.apple.com/app/logu-a-strength-logger/id1084487510
-- rTracker: A generic, customizable personal data tracker 
-  - https://github.com/rob-miller/rTracker
-  - https://itunes.apple.com/app/rtracker-track-it-all-your-way/id486541371
-- Speak: AAC & Speech Therapy 
-  - https://github.com/raynesio/speakability
-  - https://itunes.apple.com/app/speakability/id784509467
+- Abby's Cycle: A HealthKit powered menstrual cycle tracker `Swift` 
+  <details><summary>https://github.com/jc4p/abby-healthkit</summary>
+  Added July 11, 2016<br>  License: `other`
+  </details>
+- Arex: Reminders for taking your medications `Swift` 
+  <details><summary>https://github.com/a2/arex-7</summary>
+  Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- CaseAssistant: Cases recording, study, and sharing for ophthalmologist [` App Store`](https://itunes.apple.com/app/id1003007080) `Swift` 🇨🇳🔥
+  <details><summary>https://github.com/herrkaefer/CaseAssistant</summary>
+  Added June 17, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  </details>
+- Depressed: Test if you are depressed [` App Store`](https://itunes.apple.com/app/depressed/id1062594092) `Swift` 
+  <details><summary>https://github.com/DerLobi/Depressed</summary>
+  Added January 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- HealthKit~Swift: Sample app for `HealthKit` `Swift` 
+  <details><summary>https://github.com/Darktt/HealthKit-Swift</summary>
+  Added October 27, 2015<br>  License: `other`
+  </details>
+- Speak: AAC & Speech Therapy [` App Store`](https://itunes.apple.com/app/speakability/id784509467) 
+  <details><summary>https://github.com/raynesio/speakability</summary>
+  Added April  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+### Fitness 
+ 
+[back to top](#readme) 
+ 
+- Jim: Track your gym workouts `Swift` 
+  <details><summary>https://github.com/kylejm/Jim</summary>
+  Added January  4, 2016<br>  License: `other`
+  </details>
+- LogU: A Strength Logger is a simple logging app for strength athletes [` App Store`](https://itunes.apple.com/app/logu-a-strength-logger/id1084487510) `Swift` 
+  <details><summary>https://github.com/brettalcox/logU-swift</summary>
+  Added April 11, 2016<br>  License: `other`
+  </details>
+- rTracker: A generic, customizable personal data tracker [` App Store`](https://itunes.apple.com/app/rtracker-track-it-all-your-way/id486541371) 
+  <details><summary>https://github.com/rob-miller/rTracker</summary>
+  Added April 19, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- Theseus: Personal analytics app 🔥🔥🔥
+  <details><summary>https://github.com/lazerwalker/Theseus</summary>
+  Added April  1, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
 
 ### ResearchKit 
  
 [back to top](#readme) 
  
-- AsthmaHealth: ResearchKit app studying Asthma 
-  - https://github.com/ResearchKit/AsthmaHealth
-  - https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668
-- Colorblind: ResearchKit app built in swift in order to provide an easy test for colorblind people. 🔶
-  - https://github.com/boostcode/ResearchKit-ColorBlind
-  - https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412
-- GlucoSuccess: ResearchKit app studying Diabetes 
-  - https://github.com/ResearchKit/GlucoSuccess
-  - https://itunes.apple.com/app/glucosuccess/id972143976
-- mPower: ResearchKit app studying Parkinson's disease 
-  - https://github.com/ResearchKit/mPower
-  - https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200
-- MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk 
-  - https://github.com/ResearchKit/MyHeartCounts
-  - https://itunes.apple.com/app/id972189947
-- Share The Journey: ResearchKit app studying Breast Cancer 
-  - https://github.com/ResearchKit/ShareTheJourney
-  - https://itunes.apple.com/app/share-the-journey/id972180604
+- AlzPrevent: Clinical research platform for Alzheimer's disease `Swift` 
+  <details><summary>https://github.com/BBBInc/AlzPrevent-ios</summary>
+  Added August  2, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- AsthmaHealth: ResearchKit app studying Asthma [` App Store`](https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668) 
+  <details><summary>https://github.com/ResearchKit/AsthmaHealth</summary>
+  Added April 14, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- Colorblind: ResearchKit app that provides an easy test for colorblind people [` App Store`](https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412) `Swift` 
+  <details><summary>https://github.com/boostcode/ResearchKit-ColorBlind</summary>
+  Added May 18, 2016<br>  License: `other`
+  </details>
+- GlucoSuccess: ResearchKit app studying Diabetes [` App Store`](https://itunes.apple.com/app/glucosuccess/id972143976) 
+  <details><summary>https://github.com/ResearchKit/GlucoSuccess</summary>
+  Added April 15, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- mPower: ResearchKit app studying Parkinson's disease [` App Store`](https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200) 
+  <details><summary>https://github.com/ResearchKit/mPower</summary>
+  Added April 15, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk [` App Store`](https://itunes.apple.com/app/id972189947) 
+  <details><summary>https://github.com/ResearchKit/MyHeartCounts</summary>
+  Added October 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- Share The Journey: ResearchKit app studying Breast Cancer [` App Store`](https://itunes.apple.com/app/share-the-journey/id972180604) 
+  <details><summary>https://github.com/ResearchKit/ShareTheJourney</summary>
+  Added April 15, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
 
-## Keyboards 
+## Keyboard 
  
 [back to top](#readme) 
  
-- AA-Keyboard: ASCI Art Keyboard 
-  - https://github.com/sonsongithub/AAKeyboard
-  - https://itunes.apple.com/app/aa-keyboard/id964182815
-- ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8 
-  - https://github.com/b3ll/ClickWheelKeyboard
-  - https://itunes.apple.com/app/click-wheel-keyboard/id993111285
-- Hodor: Fun Hodor keyboard 🔶
-  - https://github.com/jonomuller/Hodor-Keyboard
-- NaughtyKeyboard: Keyboard that supports The Big List of Naughty Strings 🔶🔥🔥🔥
-  - https://github.com/Palleas/NaughtyKeyboard
+- AA-Keyboard: ASCII art keyboard [` App Store`](https://itunes.apple.com/app/aa-keyboard/id964182815) 
+  <details><summary>https://github.com/sonsongithub/AAKeyboard</summary>
+  Added July  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8 [` App Store`](https://itunes.apple.com/app/click-wheel-keyboard/id993111285) 
+  <details><summary>https://github.com/b3ll/ClickWheelKeyboard</summary>
+  Added May 23, 2015<br>  License: `other`
+  </details>
+- Hodor: Fun Hodor keyboard `Swift` 
+  <details><summary>https://github.com/jonomuller/Hodor-Keyboard</summary>
+  Added December 26, 2015<br>  License: `other`
+  </details>
+- NaughtyKeyboard: Keyboard that supports The Big List of Naughty Strings `Swift` 🔥🔥🔥
+  <details><summary>https://github.com/Palleas/NaughtyKeyboard</summary>
+  Added November 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Slidden: An open source, customizable, iOS keyboard 🔥🔥
-  - https://github.com/Brimizer/Slidden
+  <details><summary>https://github.com/Brimizer/Slidden</summary>
+  Added November 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ## Location 
  
 [back to top](#readme) 
  
-- Alarm: Geolocation based alarm app for travelers 🔶🔥
-  - https://github.com/ChrisChares/swift-alarm
-- Cafe 🔶🇨🇳
-  - https://github.com/flexih/Cafe
-  - https://itunes.apple.com/app/diao-ke-shi-guang/id440983941
-- Closebox: Find the Closest Postbox 
-  - https://github.com/peteog/Closebox
-  - https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813
-- DoctorNearby: Helps you find doctors in your city 
-  - https://github.com/vincezzh/doctornearby-ios
-  - https://itunes.apple.com/app/doctor-nearby/id1068715113
+- Alarm: Geolocation based alarm app for travelers `Swift` 🔥
+  <details><summary>https://github.com/ChrisChares/swift-alarm</summary>
+  Added March 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Closebox: Find the Closest Postbox [` App Store`](https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813) 
+  <details><summary>https://github.com/peteog/Closebox</summary>
+  Added May 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- DoctorNearby: Helps you find doctors in your city [` App Store`](https://itunes.apple.com/app/doctor-nearby/id1068715113) 
+  <details><summary>https://github.com/vincezzh/doctornearby-ios</summary>
+  Added July 14, 2016<br>  License: `other`
+  </details>
 - Doppio: Finds the nearest Starbucks 🔥🔥🔥
-  - https://github.com/chroman/Doppio
-- EatNow: Get recommendations for restaurants nearby 
-  - https://github.com/callzhang/Eat-Now
-  - https://itunes.apple.com/app/eat-now-instant-personalized/id946591471
-- Find My Bus NJ: Track NJ Transit bus times 🔶
-  - https://github.com/findmybusnj/findmybusnj-swift
+  <details><summary>https://github.com/chroman/Doppio</summary>
+  Added March  5, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+  </details>
+- EatNow: Get recommendations for restaurants nearby [` App Store`](https://itunes.apple.com/app/eat-now-instant-personalized/id946591471) 
+  <details><summary>https://github.com/callzhang/Eat-Now</summary>
+  Added October 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Find My Bus NJ: Track NJ Transit bus times `Swift` 
+  <details><summary>https://github.com/findmybusnj/findmybusnj-swift</summary>
+  Added July 13, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
 - GeoTappy: Share your location 
-  - https://github.com/GeoTappy/GeoTappy-iOS
-- HopperBus: Timetable for the University of Nottingham Hopper Bus 🔶
-  - https://github.com/TosinAF/HopperBus-iOS
-- iBeaconTasks: iBeacon TODO reminder app based on Parse 🔥
-  - https://github.com/TomekB/iBeaconTasks
-- Locative: Helping you to get the best out of your automated home, geofencing, iBeacons 🔥
-  - https://github.com/LocativeHQ/Locative-iOS
-  - https://itunes.apple.com/app/locative/id725198453
-- MAPS.ME: Offline maps application with navigation using [OpenStreetMap](https://www.openstreetmap.org) data. 🔥🔥🔥🔥
-  - https://github.com/mapsme/omim
-  - https://maps.me/en/home
-  - https://itunes.apple.com/app/id510623322
-- Miataru: A location tracking app where data can be shared over public or private servers. 
-  - https://github.com/miataru/miataru-ios-client
-  - http://miataru.com/ios/
-  - https://itunes.apple.com/app/id717539389
+  <details><summary>https://github.com/GeoTappy/GeoTappy-iOS</summary>
+  Added April 14, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- HopperBus: Timetable for the University of Nottingham Hopper Bus `Swift` 
+  <details><summary>https://github.com/TosinAF/HopperBus-iOS</summary>
+  Added January 22, 2016<br>  License: `other`
+  </details>
+- iBeaconTasks: iBeacon to-do reminder app using Parse 🔥
+  <details><summary>https://github.com/TomekB/iBeaconTasks</summary>
+  Added March  5, 2015<br>  License: `other`
+  </details>
+- Locative: Helping you to get the best out of your automated home, geofencing, iBeacons [` App Store`](https://itunes.apple.com/app/locative/id725198453) 🔥
+  <details><summary>https://github.com/LocativeHQ/Locative-iOS</summary>
+  Added December 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- MAPS.ME: Offline maps app with navigation using [OpenStreetMap](https://www.openstreetmap.org) data [` App Store`](https://itunes.apple.com/app/id510623322) 🔥🔥🔥🔥
+  <details><summary>https://github.com/mapsme/omim</summary>
+  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  https://maps.me/en/home
+  </details>
+- Miataru: A location tracking app where data can be shared over public or private servers [` App Store`](https://itunes.apple.com/app/id717539389) 
+  <details><summary>https://github.com/miataru/miataru-ios-client</summary>
+  Added June  2, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)<br>  http://miataru.com/ios/
+  </details>
 - Moves: Visualize where you spend your time 
-  - https://github.com/neonichu/Places
+  <details><summary>https://github.com/neonichu/Places</summary>
+  Added July 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Munch: Tinder-styled restaurant recommendations using the Yelp API 
+  <details><summary>https://github.com/enochng1/Munch</summary>
+  Added July 28, 2016<br>  License: `other`<br>  ![Munch image 1](https://raw.githubusercontent.com/enochng1/Munch/master/poster-01.png)
+  </details>
 - Neverlate: Pay-if-U-R-late app using geofences and Venmo API 
-  - https://github.com/ayunav/Neverlate
-- OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more 🔥
-  - https://github.com/OneBusAway/onebusaway-iphone
-  - https://itunes.apple.com/app/onebusaway/id329380089
-- OsmAnd Maps: A map application with access to OpenStreetMaps. 🔥🔥🔥
-  - https://github.com/osmandapp/Osmand
-  - http://osmand.net/
-  - https://itunes.apple.com/app/id934850257
-- OwnTracks: Keep track of your own location, you can build your private location diary or share it with your family and friends. 
-  - https://github.com/owntracks/ios
-- ParkenDD: Check the status of several public parking lots in Germany and Switzerland 🔶
-  - https://github.com/kiliankoe/ParkenDD
-  - https://itunes.apple.com/app/parkendd/id957165041
-- pathlogger: GPS logging application written in Swift 🔶
-  - https://github.com/eugenpirogoff/pathlogger
+  <details><summary>https://github.com/ayunav/Neverlate</summary>
+  Added May 27, 2016<br>  License: `other`
+  </details>
+- OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more [` App Store`](https://itunes.apple.com/app/onebusaway/id329380089) 🔥
+  <details><summary>https://github.com/OneBusAway/onebusaway-iphone</summary>
+  Added August 21, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- OsmAnd Maps: A map app with access to OpenStreetMaps [` App Store`](https://itunes.apple.com/app/id934850257) 🔥🔥🔥
+  <details><summary>https://github.com/osmandapp/Osmand</summary>
+  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  http://osmand.net/
+  </details>
+- OwnTracks: Keep track of your own location, you can build your private location diary or share it with your family and friends 
+  <details><summary>https://github.com/owntracks/ios</summary>
+  Added April  3, 2016<br>  License: `other`
+  </details>
+- ParkenDD: Check the status of several public parking lots in Germany and Switzerland [` App Store`](https://itunes.apple.com/app/parkendd/id957165041) `Swift` 
+  <details><summary>https://github.com/kiliankoe/ParkenDD</summary>
+  Added April 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- pathlogger: GPS logging app `Swift` 
+  <details><summary>https://github.com/eugenpirogoff/pathlogger</summary>
+  Added July 20, 2015<br>  License: `other`
+  </details>
 - PebCiti: Pebble app to show nearest CitiBike NYC dock 
-  - https://github.com/joemasilotti/PebCiti
-- Prey Anti Theft: Track lost or stolen devices and perform actions remotely. 🔥🔥
-  - https://github.com/prey/prey-ios-client
-  - https://preyproject.com/
-  - https://itunes.apple.com/app/id456755037
-- Prey Swift Client: Track lost or stolen devices and perform actions remotely. 🔶
-  - https://github.com/prey/prey-swift-client
-  - https://preyproject.com/
-- Smart Traveller (UberGuide): Simple and comfortable way to explore a city using Uber API 🔥🔥
-  - https://github.com/hACKbUSTER/UberGuide-iOS
+  <details><summary>https://github.com/joemasilotti/PebCiti</summary>
+  Added May  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Prey: Track lost or stolen devices and perform actions remotely `Swift` 
+  <details><summary>https://github.com/prey/prey-swift-client</summary>
+  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://preyproject.com/
+  </details>
+- Prey Anti Theft: Track lost or stolen devices and perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037) 🔥🔥
+  <details><summary>https://github.com/prey/prey-ios-client</summary>
+  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://preyproject.com/
+  </details>
+- S.I.T. (雕刻时光): Unofficial app for Chinese cafe chain [Diaokeshiguang](https://www.sitcoffee.com/) [` App Store`](https://itunes.apple.com/app/diao-ke-shi-guang/id440983941) 🇨🇳
+  <details><summary>https://github.com/flexih/Cafe</summary>
+  Added April 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![S.I.T. (雕刻时光) image 1](https://github.com/flexih/Cafe/raw/master/snapshot/1.png)
+  </details>
 - Startups - Mapped In Israel: Discover new startups and locate co-working spaces 
-  - https://github.com/sugarso/MappedInIsrael
-- Swift-Walk-Tracker: An open source walk tracking iOS App 🔶
-  - https://github.com/kevinvanderlugt/Swift-Walk-Tracker
-- Traccar Client: Report device location to the server 
-  - https://github.com/tananaev/traccar-client-ios
-  - https://itunes.apple.com/us/app/traccar-client/id843156974
-- Traccar Manager: Track GPS devices on map 
-  - https://github.com/tananaev/traccar-manager-ios
-  - https://itunes.apple.com/us/app/traccar-manager/id1113966562
-- VisitBCN: City guide for Barcelona 
-  - https://github.com/maurovc/visitBCN
-  - https://itunes.apple.com/app/visitbcn/id904676442
-- Wheelmap: Online map for locating wheelchair-accessible places. 
-  - https://github.com/sozialhelden/wheelmap-iphone2
-  - http://wheelmap.org
-  - https://itunes.apple.com/app/id399239476
+  <details><summary>https://github.com/sugarso/MappedInIsrael</summary>
+  Added April  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Swift-Walk-Tracker: Track your walks `Swift` 
+  <details><summary>https://github.com/kevinvanderlugt/Swift-Walk-Tracker</summary>
+  Added June  7, 2015<br>  License: `other`
+  </details>
+- Traccar Client: Report device location to the server [` App Store`](https://itunes.apple.com/us/app/traccar-client/id843156974) 
+  <details><summary>https://github.com/tananaev/traccar-client-ios</summary>
+  Added July 12, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- Traccar Manager: Track GPS devices on map [` App Store`](https://itunes.apple.com/us/app/traccar-manager/id1113966562) 
+  <details><summary>https://github.com/tananaev/traccar-manager-ios</summary>
+  Added July 12, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- VisitBCN: City guide for Barcelona [` App Store`](https://itunes.apple.com/app/visitbcn/id904676442) 
+  <details><summary>https://github.com/maurovc/visitBCN</summary>
+  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Wheelmap: Online map for locating wheelchair-accessible places [` App Store`](https://itunes.apple.com/app/id399239476) 
+  <details><summary>https://github.com/sozialhelden/wheelmap-iphone2</summary>
+  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  http://wheelmap.org
+  </details>
 
 ## Media 
  
 Image, video, audio, reading — [back to top](#readme) 
  
-- 360 VR Player: Universal 360 video player 🔥🔥🔥🔥
-  - https://github.com/hanton/HTY360Player
-  - https://itunes.apple.com/app/360-vr-player/id1061464612
-- Analog Synth X: Analog Synthesizer Keyboard Music App, created w/ Swift 2  ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX)) 🔶
-  - http://matthewfecher.com/app-developement/swift-synth/
-- Artsy: The Art World in Your Pocket 🔥🔥🔥🔥
-  - https://github.com/artsy/eigen
-  - https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080
-- Artsy Folio: Artwork showcase 🔥
-  - https://github.com/artsy/energy
-  - https://itunes.apple.com/app/artsy-folio/id504862164
+- 360 VR Player: iPhone/iPad 360 video player [` App Store`](https://itunes.apple.com/app/360-vr-player/id1061464612) 🔥🔥🔥🔥
+  <details><summary>https://github.com/hanton/HTY360Player</summary>
+  Added December  2, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Analog Synth X: Analog Synthesizer Keyboard Music App, created with Swift 2 ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX)) `Swift` 
+  <details><summary>http://matthewfecher.com/app-developement/swift-synth/</summary>
+  Added February  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Artsy Folio: Artwork showcase [` App Store`](https://itunes.apple.com/app/artsy-folio/id504862164) 🔥
+  <details><summary>https://github.com/artsy/energy</summary>
+  Added August 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- ASCII Art Generator `Swift` 🔥
+  <details><summary>https://github.com/ijoshsmith/swift-ascii-art</summary>
+  Added May  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - CollageMaker: Import photos from an Instagram user and make a collage 
-  - https://github.com/Azoft/CollageMaker-iOS
-- ColorBlur: Add blur to your photos 
-  - https://github.com/maurovc/ColorBlur
-  - https://itunes.apple.com/app/id928863510
-- ComicFlow: Comic reader for iPad 🔥🔥
-  - https://github.com/swisspol/ComicFlow
-  - https://itunes.apple.com/app/comicflow/id409290355
-- DoubanFM: douban.fm client for iPhone, using AFN and MPMoviePlayer 🇨🇳🔥🔥
-  - https://github.com/XVXVXXX/DoubanFM
-- DownTube: Download any video from YouTube for offline use 🔶
-  - https://github.com/MrAdamBoyd/DownTube
-- Dunk: Dribbble client 🔶🔥🔥
-  - https://github.com/naoyashiga/Dunk
-  - https://itunes.apple.com/app/dunk-for-dribbble/id1003028105
-- Eleven: Eleven Player is a simple powerful video player, uses ffmpeg 🔥🔥
-  - https://github.com/coderyi/Eleven
-  - https://itunes.apple.com/app/elevenplayer/id1033773648
-- EX Player: Watch video from ex.ua 
-  - https://github.com/IGRSoft/exTVPlayer
-- Filterpedia: Core Image Filter explorer 🔶🔥🔥🔥🔥
-  - https://github.com/FlexMonkey/Filterpedia
-- Flickr-Search: Simple app which consumes the Flickr Search API 
-  - https://github.com/alikaragoz/Flickr-Search
+  <details><summary>https://github.com/Azoft/CollageMaker-iOS</summary>
+  Added January 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- ColorBlur: Add blur to your photos [` App Store`](https://itunes.apple.com/app/id928863510) 
+  <details><summary>https://github.com/maurovc/ColorBlur</summary>
+  Added March 16, 2015<br>  License: `other`
+  </details>
+- ComicFlow: Comic reader for iPad [` App Store`](https://itunes.apple.com/app/comicflow/id409290355) 🔥🔥
+  <details><summary>https://github.com/swisspol/ComicFlow</summary>
+  Added August 13, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- DoubanFM: douban.fm app for iPhone, using `AFNetworking` and `MPMoviePlayer` 🇨🇳🔥🔥
+  <details><summary>https://github.com/XVXVXXX/DoubanFM</summary>
+  Added October  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- DownTube: Download videos from YouTube for offline use `Swift` 
+  <details><summary>https://github.com/MrAdamBoyd/DownTube</summary>
+  Added June 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Eleven: Simple powerful video player, uses ffmpeg [` App Store`](https://itunes.apple.com/app/elevenplayer/id1033773648) 🔥🔥🔥
+  <details><summary>https://github.com/coderyi/Eleven</summary>
+  Added October  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- EmotionNote Diary: Analyze choose or take a photo of your face and the app will tell you your emotion `Swift` 
+  <details><summary>https://github.com/Yogayu/EmotionNote</summary>
+  Added April 19, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- EX Player: Watch videos from EX.UA file sharing 
+  <details><summary>https://github.com/IGRSoft/exTVPlayer</summary>
+  Added February  9, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
+  </details>
+- Facemotion: Find a contact by face recognition using `OpenCV` 
+  <details><summary>https://github.com/remirobert/Facemotion</summary>
+  Added July 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Filterpedia: Core Image Filter explorer `Swift` 🔥🔥🔥🔥
+  <details><summary>https://github.com/FlexMonkey/Filterpedia</summary>
+  Added January  7, 2016<br>  License: `other`
+  </details>
 - FreeStreamer: A low-memory footprint streaming audio player 🔥🔥🔥🔥
-  - https://github.com/muhku/FreeStreamer
-- Inkpad: A vector illustration app. 🔥🔥🔥🔥🔥
-  - https://github.com/sprang/Inkpad
-- Kodi: A popular media player and entertainment hub. 🔥🔥🔥🔥🔥
-  - https://github.com/xbmc/xbmc
-  - http://kodi.wiki/view/IOS
-- Kodi Remote: A full-featured remote control for Kodi Media Center. 🔥🔥🔥🔥🔥
-  - https://github.com/xbmc/xbmc
-  - https://kodi.tv/
-  - https://itunes.apple.com/app/id520480364
-- KonaBot: unofficial client for konachan.net 🔶
-  - https://github.com/hkalexling/KonaBot-iOS
-  - https://itunes.apple.com/app/konabot/id1055716649
-- Longboxed: Track the releases of your favorite comics. 
-  - https://github.com/jayhickey/Longboxed-iOS
-  - https://itunes.apple.com/app/longboxed-comic-tracker/id965045339
+  <details><summary>https://github.com/muhku/FreeStreamer</summary>
+  Added October 30, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- GreatReader: "Great" PDF reader designed for both iPhone/iPad [` App Store`](https://itunes.apple.com/app/greatreader/id903651112) 🔥🔥
+  <details><summary>https://github.com/semweb/GreatReader</summary>
+  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Inkpad: Vector illustration 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/sprang/Inkpad</summary>
+  Added June  1, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  </details>
+- Kodi: A popular media player and entertainment hub 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/xbmc/xbmc</summary>
+  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  http://kodi.wiki/view/IOS
+  </details>
+- Kodi Remote: A full-featured remote control for Kodi Media Center [` App Store`](https://itunes.apple.com/app/id520480364) 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/xbmc/xbmc</summary>
+  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://kodi.tv/
+  </details>
+- Longboxed: Track the releases of your favorite comics [` App Store`](https://itunes.apple.com/app/longboxed-comic-tracker/id965045339) 
+  <details><summary>https://github.com/jayhickey/Longboxed-iOS</summary>
+  Added June 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Megabite: Turn a photo of your food into a face 🔥🔥
-  - https://github.com/AaronRandall/Megabite
-- Meme Maker: Create and share memes! 🔶
-  - https://github.com/MemeMaker/Meme-Maker-iOS
-  - https://itunes.apple.com/app/id962121383
-- MiamiSunglasses: An app that plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH). 🔶
-  - https://github.com/DeveloperACE/MiamiSunglasses
-- movies: Movie info app 🔥🔥🔥
-  - https://github.com/KMindeguia/movies
-- MuPDF: A PDF, XPS/OpenXPS, CBZ and EPUB document viewer. 
-  - http://git.ghostscript.com/?p=mupdf.git;a=summary
-  - http://mupdf.com/
-  - https://itunes.apple.com/app/id482941798
-- My First Memory: Introduction to iOS & Swift / memory game implementation fetching images from Instagram 🔶
-  - https://github.com/Sajjon/SwiftIntro
-- OCiney: Movie info app 🔥🔥
-  - https://github.com/florent37/OCiney-iOS
-  - https://itunes.apple.com/app/id955480687
-- Open Source Selfie Stick: Sync two iOS devices and use one as a remote control for the other's camera! 
-  - https://github.com/RF-Nelson/open-source-selfie-stick
-  - https://itunes.apple.com/app/id1084487132
-- OpenPics: View historical images from multiple remote sources 
-  - https://github.com/pj4533/OpenPics
-- PhishOD: Listen to any song from Phish.in and view concert ratings and reviews from phish.net 
-  - https://github.com/alecgorge/PhishOD-iOS
-  - https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018
-- PhotoBrowser: A simple iOS Instagram photo browser 🔶🔥🔥
-  - https://github.com/MoZhouqi/PhotoBrowser
-- Pictograph: Hide messages in images using steganography 🔶
-  - https://github.com/MrAdamBoyd/Pictograph
-  - https://itunes.apple.com/us/app/id1051879856
-- PopcornTime: PopcornTime movie app 🔶🔥
-  - https://github.com/danylokostyshyn/popcorntime-ios
-- Poppins: House all your favorite GIFs and easily share them with your friends and family 🔶🔥
-  - https://github.com/thoughtbot/poppins
-  - https://itunes.apple.com/app/poppins/id978854068
+  <details><summary>https://github.com/AaronRandall/Megabite</summary>
+  Added February  2, 2016<br>  License: `other`
+  </details>
+- Meme Maker: Create and share memes! [` App Store`](https://itunes.apple.com/app/id962121383) `Swift` 
+  <details><summary>https://github.com/MemeMaker/Meme-Maker-iOS</summary>
+  Added June  6, 2016<br>  License: `other`
+  </details>
+- MiamiSunglasses: Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH) `Swift` 
+  <details><summary>https://github.com/DeveloperACE/MiamiSunglasses</summary>
+  Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- MuPDF: A PDF, XPS/OpenXPS, CBZ and EPUB document viewer [` App Store`](https://itunes.apple.com/app/id482941798) 
+  <details><summary>http://git.ghostscript.com/?p=mupdf.git;a=summary</summary>
+  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>  http://mupdf.com/
+  </details>
+- My First Memory: Introduction to iOS & Swift / memory game implementation fetching images from Instagram `Swift` 
+  <details><summary>https://github.com/Sajjon/SwiftIntro</summary>
+  Added July  6, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- Open Source Selfie Stick: Sync two iOS devices and use one as a remote control for the other's camera! [` App Store`](https://itunes.apple.com/app/id1084487132) 
+  <details><summary>https://github.com/RF-Nelson/open-source-selfie-stick</summary>
+  Added February 18, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  </details>
+- Pictograph: Hide messages in images using steganography [` App Store`](https://itunes.apple.com/us/app/id1051879856) `Swift` 
+  <details><summary>https://github.com/MrAdamBoyd/Pictograph</summary>
+  Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- PixPic: Photo editing `Swift` 🔥
+  <details><summary>https://github.com/Yalantis/PixPic</summary>
+  Added July 29, 2016<br>  License: `other`<br>  ![PixPic image 1](http://i.imgur.com/c8ahfkv.png)
+  </details>
+- Poppins: House all your favorite GIFs and easily share them with your friends and family [` App Store`](https://itunes.apple.com/app/poppins/id978854068) `Swift` 🔥
+  <details><summary>https://github.com/thoughtbot/poppins</summary>
+  Added July 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - prankPro: Record a 6 second video while playing prank sounds 🔥🔥
-  - https://github.com/huijimuhe/prankPro
-- projectM: An OpenGl based advanced music visualization program. 
-  - https://sourceforge.net/projects/projectm/
-  - http://projectm.sourceforge.net/
-  - https://itunes.apple.com/app/id530922227
-- Pugs: Simple pug photo viewer 🔶
-  - https://github.com/soffes/Pugs
-- Radio Paradise: A client for [RadioParadise](http://www.radioparadise.com/rp_2.php). 
-  - https://github.com/ilTofa/rposx
-  - https://www.iltofa.com/rphd/
-  - https://itunes.apple.com/app/id663334697
-- ReactiveKitten: It's about gifs and cats, example project for Interstellar 🔶
-  - https://github.com/JensRavens/ReactiveKitten
-- RealmVideo: Watch Realm videos and slides on your phone 🔶🔥🔥
-  - https://github.com/BalestraPatrick/RealmVideo
-- Revolved: 3D modelling app for the iPad 🔥🔥🔥
-  - https://github.com/Ciechan/Revolved
-- SoundCloudSwift: SoundCloud client written on Swift 🔶🔥
-  - https://github.com/pepibumur/SoundCloudSwift
-- Swift ASCII Art Generator 🔶🔥
-  - https://github.com/ijoshsmith/swift-ascii-art
-- Swift Radio Pro: Professional Radio Station App, created w/ Swift 2.0 🔶🔥🔥🔥🔥
-  - https://github.com/swiftcodex/Swift-Radio-Pro
-- Swift-Gif: Gif Search 🔶
-  - https://github.com/pjchavarria/Swift-Gif
-- Swifteroid: A manual HDR exposure camera app written in Swift 🔶
-  - https://github.com/eugenpirogoff/swifteroid
-- SwiftFlickrApp: Flickr popular photo viewer 🔶🔥🔥
-  - https://github.com/synboo/SwiftFlickrApp
-- SwiftSpace: CoreMotion Controlled Drawing in 3D Space 🔶
-  - https://github.com/FlexMonkey/SwiftSpace
-- Tagger: Tagger helps you increase the number of Instagram or Flickr followers and likes on your pictures. 🔶
-  - https://github.com/vanyaland/Tagger
-- TechTavta: Keep track of all events for Techtatva 2015 
-  - https://github.com/LUGM/TechTatva-15
-  - https://itunes.apple.com/app/techtatva15/id922178880
-- Textbook: textbooks from People's Education Press in China 🔶🇨🇳
-  - https://github.com/JohnWong/textbook
-  - https://itunes.apple.com/app/ke-ben/id993244460
-- That Movie With: Find common movies among actors 
-  - https://github.com/jayhickey/thatmoviewith
-  - https://itunes.apple.com/app/that-movie-with/id892972135
-- Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox 
-  - https://github.com/xcoo/upupu
-  - https://itunes.apple.com/app/upupu/id508401854
-- VLC: Media Player 🔥🔥🔥🔥
-  - https://github.com/videolan/vlc
-  - https://www.videolan.org/
-  - https://itunes.apple.com/app/vlc-for-ios/id650377962
-- VoiceMemos: Universal audio recorder app 🔶🔥🔥
-  - https://github.com/MoZhouqi/VoiceMemos
-- xkcd: iPhone app 
-  - https://github.com/paulrehkugler/xkcd
-  - https://itunes.apple.com/app/xkcd/id303688284
-- xkcd Open Source: An xkcd Comic Reader 🔥
-  - https://github.com/mamaral/xkcd-Open-Source
-  - https://itunes.apple.com/app/xkcd-open-source/id995811425
-- ZBar Barcode Reader: A comprehensive barcode reader. 
-  - https://sourceforge.net/projects/zbar/
-  - http://zbar.sourceforge.net/
-  - https://itunes.apple.com/app/id344957305
+  <details><summary>https://github.com/huijimuhe/prankPro</summary>
+  Added March 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- projectM: An `OpenGL` based advanced music visualization program [` App Store`](https://itunes.apple.com/app/id530922227) 
+  <details><summary>https://sourceforge.net/projects/projectm/</summary>
+  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  http://projectm.sourceforge.net/
+  </details>
+- Radio Paradise: Official app for http://www.radioparadise.com/ [` App Store`](https://itunes.apple.com/app/id663334697) 
+  <details><summary>https://github.com/ilTofa/rposx</summary>
+  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://www.iltofa.com/rphd/
+  </details>
+- RealmVideo: Watch Realm videos & slides on your phone `Swift` 🔥🔥
+  <details><summary>https://github.com/BalestraPatrick/RealmVideo</summary>
+  Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Revolved: 3D modelling app for iPad 🔥🔥🔥
+  <details><summary>https://github.com/Ciechan/Revolved</summary>
+  Added March  5, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- screenshotter: Organize & manage screenshots you take with your iPhone [` App Store`](https://itunes.apple.com/app/screenshotter-organize-manage/id826596892) 
+  <details><summary>https://github.com/LaunchKit/screenshotter</summary>
+  Added July 28, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  ![screenshotter image 1](https://camo.githubusercontent.com/ab02fd356e17f9d3de7ebdb367a08ef97f279c4c/687474703a2f2f73637265656e73686f747465722e6e65742f6c69622f696d616765732f6970686f6e652e706e67)
+  </details>
+- Swift Radio Pro: Professional radio station app, created with Swift 2 `Swift` 🔥🔥🔥🔥
+  <details><summary>https://github.com/swiftcodex/Swift-Radio-Pro</summary>
+  Added January 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Swifteroid: Manual HDR exposure camera `Swift` 
+  <details><summary>https://github.com/eugenpirogoff/swifteroid</summary>
+  Added June 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- SwiftSpace: CoreMotion Controlled Drawing in 3D Space `Swift` 
+  <details><summary>https://github.com/FlexMonkey/SwiftSpace</summary>
+  Added September  1, 2015<br>  License: `other`
+  </details>
+- Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures `Swift` 
+  <details><summary>https://github.com/vanyaland/Tagger</summary>
+  Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Upupu: Simple camera app that can backup pictures on a WebDAV server or Dropbox [` App Store`](https://itunes.apple.com/app/upupu/id508401854) 
+  <details><summary>https://github.com/xcoo/upupu</summary>
+  Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- VLC: Media Player [` App Store`](https://itunes.apple.com/app/vlc-for-ios/id650377962) 🔥🔥🔥🔥
+  <details><summary>https://github.com/videolan/vlc</summary>
+  Added March 22, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://www.videolan.org/
+  </details>
+- VoiceMemos: iPhone/iPad audio recorder `Swift` 🔥🔥
+  <details><summary>https://github.com/MoZhouqi/VoiceMemos</summary>
+  Added April  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+### Content 
+ 
+[back to top](#readme) 
+ 
+- Artsy: The Art World in Your Pocket [` App Store`](https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080) 🔥🔥🔥🔥
+  <details><summary>https://github.com/artsy/eigen</summary>
+  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Awesome Swift iOS App: awesome-swift repository official app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427) `Swift` 
+  <details><summary>https://github.com/matteocrippa/awesomeSwift-iOS-App</summary>
+  Added June 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- ChineseZodiac `Swift` 🔥
+  <details><summary>https://github.com/JakeLin/ChineseZodiac</summary>
+  Added May 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Dunk: Dribbble client [` App Store`](https://itunes.apple.com/app/dunk-for-dribbble/id1003028105) `Swift` 🔥🔥
+  <details><summary>https://github.com/naoyashiga/Dunk</summary>
+  Added December 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Flickr-Search: Simple app which consumes the Flickr Search API 
+  <details><summary>https://github.com/alikaragoz/Flickr-Search</summary>
+  Added February  4, 2015<br>  License: `other`
+  </details>
+- KonaBot: Unofficial app for http://konachan.net/ [` App Store`](https://itunes.apple.com/app/konabot/id1055716649) `Swift` 
+  <details><summary>https://github.com/hkalexling/KonaBot-iOS</summary>
+  Added December  3, 2015<br>  License: `other`
+  </details>
+- LidderbuchApp: Songbook for Luxembourgish Students [` App Store`](https://itunes.apple.com/app/lidderbuch/id997143407) `Swift` 🇱🇺
+  <details><summary>https://github.com/AcelLuxembourg/LidderbuchApp</summary>
+  Added September 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- movies: Movie info app 🔥🔥🔥
+  <details><summary>https://github.com/KMindeguia/movies</summary>
+  Added February 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- OCiney: Movie info app [` App Store`](https://itunes.apple.com/app/id955480687) 🔥🔥
+  <details><summary>https://github.com/florent37/OCiney-iOS</summary>
+  Added March  3, 2015<br>  License: `other`
+  </details>
+- Open States: Browse state legislatures 
+  <details><summary>https://github.com/sunlightlabs/openstates-ios</summary>
+  Added April  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- OpenCB: Interactive chess book reader 
+  <details><summary>https://github.com/student-t/OpenCB</summary>
+  Added May  8, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- OpenPics: View historical images from multiple remote sources [` App Store`](https://itunes.apple.com/app/openpics/id633423505) `Swift` 
+  <details><summary>https://github.com/pj4533/OpenPics</summary>
+  Added December 31, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  ![OpenPics image 1](https://github.com/pj4533/OpenPics/raw/master/openpics.gif)
+  </details>
+- osia: Super basic app to browse open-source-ios-apps 
+  <details><summary>https://github.com/dkhamsing/osia</summary>
+  Added July 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![osia image 1](https://github.com/dkhamsing/osia/raw/master/Assets/0.2.png)
+  </details>
+- PhishOD: Listen to any song from Phish.in and view concert ratings and reviews from phish.net [` App Store`](https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018) 
+  <details><summary>https://github.com/alecgorge/PhishOD-iOS</summary>
+  Added June 26, 2015<br>  License: `other`
+  </details>
+- PhotoBrowser: A simple iOS Instagram photo browser `Swift` 🔥🔥
+  <details><summary>https://github.com/MoZhouqi/PhotoBrowser</summary>
+  Added March 31, 2015<br>  License: `other`
+  </details>
+- PopcornTime: PopcornTime movie app `Swift` 🔥
+  <details><summary>https://github.com/danylokostyshyn/popcorntime-ios</summary>
+  Added May 20, 2015<br>  License: `other`
+  </details>
+- Pugs: Simple pug photo viewer `Swift` 
+  <details><summary>https://github.com/soffes/Pugs</summary>
+  Added January 25, 2016<br>  License: `other`
+  </details>
+- ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
+  <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
+  Added May 11, 2016<br>  License: `other`
+  </details>
+- SoundCloudSwift: SoundCloud app `Swift` 🔥
+  <details><summary>https://github.com/pepibumur/SoundCloudSwift</summary>
+  Added May  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Swift-Gif: Gif Search `Swift` 
+  <details><summary>https://github.com/pjchavarria/Swift-Gif</summary>
+  Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- SwiftFlickrApp: Flickr popular photo viewer `Swift` 🔥🔥
+  <details><summary>https://github.com/synboo/SwiftFlickrApp</summary>
+  Added May  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Textbook: textbooks from People's Education Press in China [` App Store`](https://itunes.apple.com/app/ke-ben/id993244460) `Swift` 🇨🇳
+  <details><summary>https://github.com/JohnWong/textbook</summary>
+  Added February 17, 2016<br>  License: `other`
+  </details>
+- That Movie With: Find common movies among actors [` App Store`](https://itunes.apple.com/app/that-movie-with/id892972135) 
+  <details><summary>https://github.com/jayhickey/thatmoviewith</summary>
+  Added June 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Words: Thesaurus app 
+  <details><summary>https://github.com/soffes/words</summary>
+  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- WWDC Students: WWDC scholarship entries `Swift` 🔥
+  <details><summary>https://github.com/wwdc</summary>
+  Added March 21, 2016<br>  License: `other`
+  </details>
+- xkcd: iPhone app [` App Store`](https://itunes.apple.com/app/xkcd/id303688284) 
+  <details><summary>https://github.com/paulrehkugler/xkcd</summary>
+  Added June  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- xkcd Open Source: An xkcd comic reader [` App Store`](https://itunes.apple.com/app/xkcd-open-source/id995811425) 🔥
+  <details><summary>https://github.com/mamaral/xkcd-Open-Source</summary>
+  Added June  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ## News 
  
 [back to top](#readme) 
  
-- American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers 
-  - https://github.com/ryanipete/AmericanChronicle
-  - http://ryanipete.com/AmericanChronicle/
-  - https://itunes.apple.com/app/id1092988367
-- Designer News App 🔶🔥🔥🔥🔥
-  - https://github.com/MengTo/DesignerNewsApp
-  - https://itunes.apple.com/app/designer-news-app/id879990495
-- Feeds4U: Well architected RSS reader 🔶
-  - https://github.com/EvgenyKarkan/Feeds4U
-  - https://itunes.apple.com/app/feeds4u/id1038456442
-- GrinnellEvents: Grinnell Events gathers all events on campus, and lists them so you can see what's happening 
-  - https://github.com/kvnbautista/Grinnell-Events-iOS
-  - https://itunes.apple.com/app/grinnell-events/id924312300
+- American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers, uses Viper [` App Store`](https://itunes.apple.com/app/id1092988367) 
+  <details><summary>https://github.com/ryanipete/AmericanChronicle</summary>
+  Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  http://ryanipete.com/AmericanChronicle/
+  </details>
+- Designer News App [` App Store`](https://itunes.apple.com/app/designer-news-app/id879990495) `Swift` 🔥🔥🔥🔥
+  <details><summary>https://github.com/MengTo/DesignerNewsApp</summary>
+  Added March 15, 2015<br>  License: `other`
+  </details>
+- Feeds4U: Well architected RSS reader [` App Store`](https://itunes.apple.com/app/feeds4u/id1038456442) `Swift` 
+  <details><summary>https://github.com/EvgenyKarkan/Feeds4U</summary>
+  Added October 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- GrinnellEvents: Gather all events on Grinnell College campus [` App Store`](https://itunes.apple.com/app/grinnell-events/id924312300) 
+  <details><summary>https://github.com/kvnbautista/Grinnell-Events-iOS</summary>
+  Added October 16, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- Keinex tech blog `Swift` 
+  <details><summary>https://github.com/AndreyBaranchikov/Keinex-iOS</summary>
+  Added August  8, 2016<br>  ![Keinex tech blog image 1](https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/1.jpg)<br>  ![Keinex tech blog image 2](https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/2.jpg)
+  </details>
+- LobsterApp: Browse the https://lobste.rs/ community news site 
+  <details><summary>https://github.com/rpowelll/LobsterApp</summary>
+  Added July 21, 2016<br>  License: `other`
+  </details>
 - NirZhihuDaily2.0 🇨🇳🔥🔥🔥🔥
-  - https://github.com/zpz1237/NirZhihuDaily2.0
-- Reddit: Reddit news app 🔶
-  - https://github.com/amitburst/reddit-demo
-- RSSRead: A RSS reader with offline feature 🇨🇳🔥🔥🔥
-  - https://github.com/ming1016/RSSRead
-  - https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364
+  <details><summary>https://github.com/zpz1237/NirZhihuDaily2.0</summary>
+  Added November  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Reddit `Swift` 
+  <details><summary>https://github.com/amitburst/reddit-demo</summary>
+  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- RSSRead: A RSS reader with offline feature [` App Store`](https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364) 🇨🇳🔥🔥🔥
+  <details><summary>https://github.com/ming1016/RSSRead</summary>
+  Added April 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- SwiftBlog: Read the official Apple Swift Blog via RSS `Swift` 
+  <details><summary>https://github.com/BalestraPatrick/SwiftBlog</summary>
+  Added June 21, 2016<br>  License: `other`
+  </details>
 - TabDump: TabDump news app 
-  - https://github.com/dkhamsing/TabDump
-- The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan 🔶🔥🔥
-  - https://github.com/aclissold/the-oakland-post
-  - https://itunes.apple.com/app/oakland-post/id931152313
-- v2ex: An app for the technical and creative website v2ex.com 🇨🇳🔥🔥🔥🔥
-  - https://github.com/singro/v2ex
-  - https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535
+  <details><summary>https://github.com/dkhamsing/TabDump</summary>
+  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan [` App Store`](https://itunes.apple.com/app/oakland-post/id931152313) `Swift` 🔥🔥
+  <details><summary>https://github.com/aclissold/the-oakland-post</summary>
+  Added March 18, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- v2ex: App for the technical and creative website http://v2ex.com/ [` App Store`](https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535) 🇨🇳🔥🔥🔥🔥
+  <details><summary>https://github.com/singro/v2ex</summary>
+  Added April 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ### Hacker News 
  
 [back to top](#readme) 
  
-- Hacker News Client: Firebase API-Based iOS Reader (Firebase) 🔥🔥
-  - https://github.com/bonzoq/hniosreader
-  - https://itunes.apple.com/app/hacker-news-client/id939454231
-- HackerNews 🔶🔥🔥🔥
-  - https://github.com/amitburst/HackerNews
-- HackerNews (Y): Built using pure Objective-C with official HN API (uses Firebase and Fabric) 
-  - https://github.com/vetri02/HackerNews
-  - https://itunes.apple.com/app/hacker-news-y/id1027140113
-- Hackers 🔶🔥🔥
-  - https://github.com/weiran/Hackers
-- HN Reader: Hacker News Reader 🔶🔥🔥🔥🔥
-  - https://github.com/Dimillian/SwiftHN
-  - https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741
-- HN-App 🔶
-  - https://github.com/NikantVohra/HackerNewsClient-iOS
-  - https://itunes.apple.com/app/hn-app/id983203003
-- news: yc 🔥🔥🔥🔥
-  - https://github.com/Xuzz/newsyc
-  - https://itunes.apple.com/app/news-yc/id434787119
-- News/YC: Hacker News client with user management, commenting, submitting and themes 🔶🔥🔥🔥
-  - https://github.com/bennyguitar/News-YC---iPhone
-  - https://itunes.apple.com/app/news-yc/id592893508
-- Simple Reader 🔥
-  - https://github.com/rnystrom/HackerNewsReader
-  - https://itunes.apple.com/app/simple-reader-free-open-source/id1000995253
+- Hacker News Client: Firebase API-Based iOS Reader (Firebase) [` App Store`](https://itunes.apple.com/app/hacker-news-client/id939454231) 🔥🔥
+  <details><summary>https://github.com/bonzoq/hniosreader</summary>
+  Added April 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- HackerNews `Swift` 🔥🔥🔥
+  <details><summary>https://github.com/amitburst/HackerNews</summary>
+  Added March 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- HackerNews (Y): Built using pure Objective-C with official HN API (uses Firebase and Fabric) [` App Store`](https://itunes.apple.com/app/hacker-news-y/id1027140113) 
+  <details><summary>https://github.com/vetri02/HackerNews</summary>
+  Added October 14, 2015<br>  License: `other`
+  </details>
+- Hackers `Swift` 🔥🔥
+  <details><summary>https://github.com/weiran/Hackers</summary>
+  Added December 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- HN Reader: Hacker News Reader [` App Store`](https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741) `Swift` 🔥🔥🔥🔥
+  <details><summary>https://github.com/Dimillian/SwiftHN</summary>
+  Added January 26, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- HN-App [` App Store`](https://itunes.apple.com/app/hn-app/id983203003) `Swift` 
+  <details><summary>https://github.com/NikantVohra/HackerNewsClient-iOS</summary>
+  Added January 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- news: yc [` App Store`](https://itunes.apple.com/app/news-yc/id434787119) 🔥🔥🔥🔥
+  <details><summary>https://github.com/Xuzz/newsyc</summary>
+  Added March 19, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- News/YC: Hacker News app with user management, commenting, submitting & themes [` App Store`](https://itunes.apple.com/app/news-yc/id592893508) `Swift` 🔥🔥🔥
+  <details><summary>https://github.com/bennyguitar/News-YC---iPhone</summary>
+  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Simple Reader [` App Store`](https://itunes.apple.com/app/simple-reader-free-open-source/id1000995253) 🔥
+  <details><summary>https://github.com/rnystrom/HackerNewsReader</summary>
+  Added October 21, 2015<br>  License: `other`
+  </details>
 
 ## Official 
  
 [back to top](#readme) 
  
-- Awesome Swift iOS App: awesome-swift repository official app 🔶
-  - https://github.com/matteocrippa/awesomeSwift-iOS-App
-- Coding: Official Coding app 🔥🔥🔥🔥
-  - https://github.com/Coding/Coding-iOS
-  - https://itunes.apple.com/app/coding/id923676989
-- DuckDuckGo: Official DuckDuckGo app 🔥
-  - https://github.com/duckduckgo/ios
-  - https://itunes.apple.com/app/duckduckgo-search-stories/id663592361
-- Firefox: Official Firefox app 🔶🔥🔥🔥🔥🔥
-  - https://github.com/mozilla/firefox-ios
-  - https://itunes.apple.com/app/firefox-web-browser/id989804926
-- Kodi: A popular media player and entertainment hub. 🔥🔥🔥🔥🔥
-  - https://github.com/xbmc/xbmc
-  - http://kodi.wiki/view/IOS
-- Kodi Remote: A full-featured remote control for Kodi Media Center. 🔥🔥🔥🔥🔥
-  - https://github.com/xbmc/xbmc
-  - https://kodi.tv/
-  - https://itunes.apple.com/app/id520480364
-- Radio Paradise: A client for [RadioParadise](http://www.radioparadise.com/rp_2.php). 
-  - https://github.com/ilTofa/rposx
-  - https://www.iltofa.com/rphd/
-  - https://itunes.apple.com/app/id663334697
-- Scholars of WWDC: The official app of the WWDC Scholarship Recipients 🔶
-  - https://github.com/WWDCScholars/WWDCScholars-iOS
-  - http://wwdcscholars.com/
-  - https://itunes.apple.com/app/scholars-of-wwdc/id999731893
-- VLC: Media Player 🔥🔥🔥🔥
-  - https://github.com/videolan/vlc
-  - https://www.videolan.org/
-  - https://itunes.apple.com/app/vlc-for-ios/id650377962
-- WhiteHouse: Official White House app 🔥🔥🔥
-  - https://github.com/WhiteHouse/wh-app-ios
-  - https://itunes.apple.com/app/the-white-house/id350190807
-- Wikipedia: Official Wikipedia app 🔥🔥🔥
-  - https://github.com/wikimedia/wikipedia-ios
-  - https://itunes.apple.com/app/wikipedia-mobile/id324715238
-- WordPress: Official WordPress app 🔥🔥🔥🔥
-  - https://github.com/wordpress-mobile/WordPress-iOS
-  - https://itunes.apple.com/app/wordpress/id335703880
+- Awesome Swift iOS App: awesome-swift repository official app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427) `Swift` 
+  <details><summary>https://github.com/matteocrippa/awesomeSwift-iOS-App</summary>
+  Added June 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Coding: Official Coding app [` App Store`](https://itunes.apple.com/app/coding/id923676989) 🔥🔥🔥🔥
+  <details><summary>https://github.com/Coding/Coding-iOS</summary>
+  Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- DuckDuckGo: Official DuckDuckGo app [` App Store`](https://itunes.apple.com/app/duckduckgo-search-stories/id663592361) 🔥
+  <details><summary>https://github.com/duckduckgo/ios</summary>
+  Added March 17, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- Firefox: Official Firefox app [` App Store`](https://itunes.apple.com/app/firefox-web-browser/id989804926) `Swift` 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/mozilla/firefox-ios</summary>
+  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>  ![Firefox image 1](http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg)
+  </details>
+- Kodi: A popular media player and entertainment hub 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/xbmc/xbmc</summary>
+  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  http://kodi.wiki/view/IOS
+  </details>
+- Kodi Remote: A full-featured remote control for Kodi Media Center [` App Store`](https://itunes.apple.com/app/id520480364) 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/xbmc/xbmc</summary>
+  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://kodi.tv/
+  </details>
+- osia: Super basic app to browse open-source-ios-apps 
+  <details><summary>https://github.com/dkhamsing/osia</summary>
+  Added July 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![osia image 1](https://github.com/dkhamsing/osia/raw/master/Assets/0.2.png)
+  </details>
+- Piwik Mobile 2: [Piwik](https://piwik.org/) analytics on the go [` App Store`](https://itunes.apple.com/app/id737216887) 
+  <details><summary>https://github.com/piwik/piwik-mobile-2</summary>
+  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://piwik.org/mobile/
+  </details>
+- Radio Paradise: Official app for http://www.radioparadise.com/ [` App Store`](https://itunes.apple.com/app/id663334697) 
+  <details><summary>https://github.com/ilTofa/rposx</summary>
+  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://www.iltofa.com/rphd/
+  </details>
+- Scholars of WWDC: Official app of recipients for https://developer.apple.com/wwdc/scholarships/ [` App Store`](https://itunes.apple.com/app/scholars-of-wwdc/id999731893) `Swift` 
+  <details><summary>https://github.com/WWDCScholars/WWDCScholars-iOS</summary>
+  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  http://wwdcscholars.com/
+  </details>
+- VLC: Media Player [` App Store`](https://itunes.apple.com/app/vlc-for-ios/id650377962) 🔥🔥🔥🔥
+  <details><summary>https://github.com/videolan/vlc</summary>
+  Added March 22, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://www.videolan.org/
+  </details>
+- WhiteHouse: Official White House app [` App Store`](https://itunes.apple.com/app/the-white-house/id350190807) 🔥🔥🔥
+  <details><summary>https://github.com/WhiteHouse/wh-app-ios</summary>
+  Added May 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Wikipedia: Official Wikipedia app [` App Store`](https://itunes.apple.com/app/wikipedia-mobile/id324715238) 🔥🔥🔥
+  <details><summary>https://github.com/wikimedia/wikipedia-ios</summary>
+  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- WordPress: Official WordPress app [` App Store`](https://itunes.apple.com/app/wordpress/id335703880) 🔥🔥🔥🔥
+  <details><summary>https://github.com/wordpress-mobile/WordPress-iOS</summary>
+  Added March 17, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+
+## Reactive Programming 
+ 
+[back to top](#readme) 
+ 
+- ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
+  <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
+  Added May 11, 2016<br>  License: `other`
+  </details>
+- Siesta GitHub Browser: Browse and star GitHub repositories using Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
+  <details><summary>https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser</summary>
+  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 
+ 
+[back to top](#readme) 
+ 
+- BrewMobile: App for managing the beer brewing process `Swift` 🔥
+  <details><summary>https://github.com/brewfactory/BrewMobile</summary>
+  Added September 10, 2015<br>  License: `other`
+  </details>
+- C-41: Make developing film easier and more reliable by using this simple timer [` App Store`](https://itunes.apple.com/app/c-41/id789924103) 🔥🔥🔥🔥
+  <details><summary>https://github.com/ashfurrow/C-41</summary>
+  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- GitBucket: Uses MVVM & ReactiveCocoa [` App Store`](https://itunes.apple.com/app/id961330940) 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/leichunfeng/MVVMReactiveCocoa</summary>
+  Added October 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- GroceryList: iPhone grocery list app, synchronized using GitHub 🔥🔥🔥
+  <details><summary>https://github.com/jspahrsummers/GroceryList</summary>
+  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa `Swift` 
+  <details><summary>https://github.com/nottombrown/HausClock</summary>
+  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- ReactiveHackerNews: Hacker News reader with Tinder style interface, written in ObjC, uses MVVM & ReactiveCocoa [` App Store`](https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368) 
+  <details><summary>https://github.com/syshen/ReactiveHackerNews</summary>
+  Added August 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- ReactiveSwiftFlickrSearch: A Flickr-search app that uses MVVM & ReactiveCocoa `Swift` 🔥🔥
+  <details><summary>https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch</summary>
+  Added February  4, 2015<br>  License: `other`
+  </details>
+- SimpleAuth: Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥🔥
+  <details><summary>https://github.com/calebd/SimpleAuth</summary>
+  Added April 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- SwiftRACGoogleImages: Google image search using RAC 4.0 and Swift 2.1 `Swift` 
+  <details><summary>https://github.com/Adlai-Holler/SwiftRACGoogleImages</summary>
+  Added January 20, 2016<br>  License: `other`
+  </details>
+- Tropos: A weather app using ReactiveCocoa and Forecast.io [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376) 🔥🔥🔥🔥
+  <details><summary>https://github.com/thoughtbot/Tropos</summary>
+  Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Wizard War: Cast spells in single or multiplayer wizard duels 🔥🔥🔥
+  <details><summary>https://github.com/seanhess/wizardwar</summary>
+  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+### [RxSwift](https://github.com/ReactiveX/RxSwift) 
+ 
+[back to top](#readme) 
+ 
+- Count It: Dead simple way to you count anything [` App Store`](https://itunes.apple.com/app/id1098893335) `Swift` 
+  <details><summary>https://github.com/PiXeL16/CountItApp</summary>
+  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- GitHub API Client: GitHub app using MVVM and RxSwift `Swift` 🔥🔥
+  <details><summary>https://github.com/tailec/boilerplate</summary>
+  Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Kiosk: The Artsy auction kiosk app, uses RxSwift `Swift` 🔥🔥🔥🔥
+  <details><summary>https://github.com/artsy/eidolon</summary>
+  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- RxMarbles: Interactive diagrams of Rx Observables [` App Store`](https://itunes.apple.com/us/app/rxmarbles/id1087272442) `Swift` 
+  <details><summary>https://github.com/RxSwiftCommunity/RxMarbles</summary>
+  Added June 29, 2016<br>  License: `other`
+  </details>
+- Tweetometer: See who is tweeting in your timeline `Swift` 
+  <details><summary>https://github.com/BalestraPatrick/Tweetometer</summary>
+  Added May 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ## Sample 
  
 [back to top](#readme) 
  
 - Apple Developer Library 
-  - https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code
+  <details><summary>https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code</summary>
+  Added March 24, 2015<br>  License: `other`
+  </details>
 - Apple WWDC 2015: Code samples from WWDC 2015 
-  - https://developer.apple.com/sample-code/wwdc/2015/
-- Cannonball: Fun way to create and share stories and poems using Fabric 🔶🔥🔥
-  - https://github.com/twitterdev/cannonball-ios
-  - https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075
+  <details><summary>https://developer.apple.com/sample-code/wwdc/2015/</summary>
+  Added July 16, 2015<br>  License: `other`
+  </details>
+- Cannonball: Fun way to create and share stories and poems using Fabric [` App Store`](https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075) `Swift` 🔥🔥
+  <details><summary>https://github.com/twitterdev/cannonball-ios</summary>
+  Added March 24, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
 - CloudKit in Objective-C 🔥
-  - https://github.com/Yalantis/CloudKit-Demo.Objective-C
-- CloudKit in Swift 🔶🔥
-  - https://github.com/Yalantis/CloudKit-Demo.Swift
-- Federal Data SDK 🔶
-  - https://github.com/USDepartmentofLabor/Swift-Sample-App
-- Furni: Furniture store demo app using Fabric 🔶🔥🔥🔥
-  - https://github.com/twitterdev/furni-ios
-- HomeKit-Demo 🔶🔥🔥
-  - https://github.com/KhaosT/HomeKit-Demo
+  <details><summary>https://github.com/Yalantis/CloudKit-Demo.Objective-C</summary>
+  Added May 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- CloudKit in Swift `Swift` 🔥
+  <details><summary>https://github.com/Yalantis/CloudKit-Demo.Swift</summary>
+  Added May 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Federal Data SDK `Swift` 
+  <details><summary>https://github.com/USDepartmentofLabor/Swift-Sample-App</summary>
+  Added April 14, 2015<br>  License: `other`
+  </details>
+- Furni: Furniture store demo app using Fabric `Swift` 🔥🔥🔥
+  <details><summary>https://github.com/twitterdev/furni-ios</summary>
+  Added January 25, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- HomeKit-Demo `Swift` 🔥🔥
+  <details><summary>https://github.com/KhaosT/HomeKit-Demo</summary>
+  Added March 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - iOS 8 Sampler: Code examples for the new functions in iOS 8 🔥🔥🔥🔥🔥
-  - https://github.com/shu223/iOS8-Sampler
-- iOS 9 Sampler: Code examples for the new functions in iOS 9 🔶🔥🔥🔥🔥🔥
-  - https://github.com/shu223/iOS-9-Sampler
+  <details><summary>https://github.com/shu223/iOS8-Sampler</summary>
+  Added April 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- iOS 9 Sampler: Code examples for the new functions in iOS 9 `Swift` 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/shu223/iOS-9-Sampler</summary>
+  Added September 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Knock: Use Accelerometer and background mode to create a feature of knocking your phone 
-  - https://github.com/MatheusCavalca/Knock
-- Layer-Parse: This is a Swift sample app that integrates Layer and Atlas with Parse 🔶🔥
-  - https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example
-- LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶🔥🔥🔥
-  - https://github.com/scotteg/LayerPlayer
-  - https://itunes.apple.com/app/layer-player/id949768742
+  <details><summary>https://github.com/MatheusCavalca/Knock</summary>
+  Added March 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Layer-Parse: Sample app that integrates Layer and Atlas with Parse `Swift` 🔥
+  <details><summary>https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example</summary>
+  Added January 25, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- LayerPlayer: Explore the capabilities of Apple's Core Animation API [` App Store`](https://itunes.apple.com/app/layer-player/id949768742) `Swift` 🔥🔥🔥
+  <details><summary>https://github.com/scotteg/LayerPlayer</summary>
+  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - LVMC: Multicolumn ListView helper library for Titanium 
-  - https://github.com/falkolab/LVMC-Demo-Alloy-App
-- OpenShop.io: Ecommerce shopping app 🔥
-  - https://github.com/openshopio/openshop.io-ios
-  - https://itunes.apple.com/app/id1088689646
-- Polls: iOS Client for Polls API by Apiary 🔶
-  - https://github.com/apiaryio/polls-app
-- ReactiveKitten: It's about gifs and cats, example project for Interstellar 🔶
-  - https://github.com/JensRavens/ReactiveKitten
-- Reusable Code: Reusable code, written in Swift 🔶🔥🔥🔥🔥🔥
-  - https://github.com/carlbutron/Swift
+  <details><summary>https://github.com/falkolab/LVMC-Demo-Alloy-App</summary>
+  Added April  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- OpenShop.io: Ecommerce shopping app [` App Store`](https://itunes.apple.com/app/id1088689646) 🔥
+  <details><summary>https://github.com/openshopio/openshop.io-ios</summary>
+  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Polls: App for Polls API by Apiary `Swift` 
+  <details><summary>https://github.com/apiaryio/polls-app</summary>
+  Added June 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
+  <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
+  Added May 11, 2016<br>  License: `other`
+  </details>
+- Reusable Code `Swift` 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/carlbtrn/Swift</summary>
+  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - RKGist: GitHub Gist app using RestKit 
-  - https://github.com/RestKit/RKGist
-- SafariAutoLoginTest: Demo showing how to auto-login users in iOS 9 based on Safari cookies 🔶🔥🔥
-  - https://github.com/mackuba/SafariAutoLoginTest
-- Starship: A generic API client application using Hyperdrive 🔶
-  - https://github.com/kylef/Starship
-- StateRestorationDemo: State preservation and restoration APIs 🔶
-  - https://github.com/shagedorn/StateRestorationDemo
-- Swift-Demos: Collection of demos for Swift 🔶🇨🇳🔥🔥🔥🔥
-  - https://github.com/Lax/iOS-Swift-Demos
+  <details><summary>https://github.com/RestKit/RKGist</summary>
+  Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- SafariAutoLoginTest: Demo showing how to auto-login users in iOS 9 using Safari cookies `Swift` 🔥🔥
+  <details><summary>https://github.com/mackuba/SafariAutoLoginTest</summary>
+  Added April 22, 2016<br>  License: `other`
+  </details>
+- Siesta GitHub Browser: Browse and star GitHub repositories using Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
+  <details><summary>https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser</summary>
+  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Starship: A generic API client app using Hyperdrive `Swift` 
+  <details><summary>https://github.com/kylef/Starship</summary>
+  Added January 25, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+  </details>
+- StateRestorationDemo: State preservation and restoration APIs `Swift` 
+  <details><summary>https://github.com/shagedorn/StateRestorationDemo</summary>
+  Added January 25, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- Swift-Demos `Swift` 🇨🇳🔥🔥🔥🔥
+  <details><summary>https://github.com/Lax/iOS-Swift-Demos</summary>
+  Added April 22, 2016<br>  License: `other`
+  </details>
 
 ## Science 
  
 [back to top](#readme) 
  
-- Molecules: Visualize molecules in 3D. 
-  - http://www.sunsetlakesoftware.com/molecules
-  - https://itunes.apple.com/app/molecules/id284943090
+- Molecules: Visualize molecules in 3D [` App Store`](https://itunes.apple.com/app/molecules/id284943090) 
+  <details><summary>http://www.sunsetlakesoftware.com/molecules</summary>
+  Added May 31, 2016<br>  License: `other`
+  </details>
 - NumberPad: An experimental prototype calculator for iPad 
-  - https://github.com/bridger/NumberPad
+  <details><summary>https://github.com/bridger/NumberPad</summary>
+  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
 
 ## Security 
  
 [back to top](#readme) 
  
-- Authenticator: A simple two-factor authentication app with a clean UI. 🔥
-  - https://github.com/mattrubin/authenticator
-  - https://mattrubin.me/authenticator/
-  - https://itunes.apple.com/app/id766157276
-- Dono: Password derivation tool 🔶
-  - https://github.com/dono-app/ios/
-  - https://dono-app.github.io/
-  - https://itunes.apple.com/app/id1092920229
-- Encryptr: A zero-knowledge, cloud-based e-wallet and password manager. 🔥🔥🔥🔥
-  - https://github.com/SpiderOak/Encryptr
-  - https://spideroak.com/solutions/encryptr
-  - https://itunes.apple.com/app/id1066041348
-- FreeOTP Authenticator: Two-Factor Authentication 
-  - https://fedorahosted.org/freeotp/browser/ios
-  - https://itunes.apple.com/app/freeotp/id872559395
-- MasterPassword: Stateless password management solution 🔥🔥🔥
-  - https://github.com/Lyndir/MasterPassword
-  - https://itunes.apple.com/app/id510296984
-- MiniKeePass: Secure Password Manager 🔥🔥
-  - https://github.com/MiniKeePass/MiniKeePass
-  - https://itunes.apple.com/app/id451661808
-- Potatso: App that implements Shadowsocks proxy 🔶🇨🇳🔥🔥🔥🔥
-  - https://github.com/shadowsocks/Potatso
-  - https://itunes.apple.com/app/id1070901416
-- Prey Anti Theft: Track lost or stolen devices and perform actions remotely. 🔥🔥
-  - https://github.com/prey/prey-ios-client
-  - https://preyproject.com/
-  - https://itunes.apple.com/app/id456755037
-- Prey Swift Client: Track lost or stolen devices and perform actions remotely. 🔶
-  - https://github.com/prey/prey-swift-client
-  - https://preyproject.com/
-- SkeletonKey: iPhone password manager with Dropbox 
-  - https://github.com/chrishulbert/SkeletonKey
-  - https://itunes.apple.com/app/skeleton-key-password-manager/id513648119
+- Authenticator: A simple two-factor authentication app with a clean UI [` App Store`](https://itunes.apple.com/app/id766157276) 🔥
+  <details><summary>https://github.com/mattrubin/authenticator</summary>
+  Added March 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://mattrubin.me/authenticator/
+  </details>
+- Dono: Password derivation tool [` App Store`](https://itunes.apple.com/app/id1092920229) `Swift` 
+  <details><summary>https://github.com/dono-app/dono-ios</summary>
+  Added July 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://dono-app.github.io/
+  </details>
+- Encryptr: A zero-knowledge, cloud-based e-wallet and password manager [` App Store`](https://itunes.apple.com/app/id1066041348) 🔥🔥🔥🔥
+  <details><summary>https://github.com/SpiderOak/Encryptr</summary>
+  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://spideroak.com/solutions/encryptr
+  </details>
+- FreeOTP Authenticator: Two-Factor Authentication [` App Store`](https://itunes.apple.com/app/freeotp/id872559395) 
+  <details><summary>https://fedorahosted.org/freeotp/browser/ios</summary>
+  Added March 11, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- MasterPassword: Stateless password management solution [` App Store`](https://itunes.apple.com/app/id510296984) 🔥🔥🔥
+  <details><summary>https://github.com/Lyndir/MasterPassword</summary>
+  Added May 15, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- MiniKeePass: Secure Password Manager [` App Store`](https://itunes.apple.com/app/id451661808) 🔥🔥
+  <details><summary>https://github.com/MiniKeePass/MiniKeePass</summary>
+  Added February  7, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- Onions: Cloud encrypted notes [` App Store`](https://itunes.apple.com/app/onions/id687296481) 
+  <details><summary>https://github.com/onionsapp/Onions-iOS</summary>
+  Added January 27, 2015<br>  License: `other`
+  </details>
+- Potatso: App that implements Shadowsocks proxy [` App Store`](https://itunes.apple.com/app/id1070901416) `Swift` 🇨🇳🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/shadowsocks/Potatso</summary>
+  Added June 30, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- Prey: Track lost or stolen devices and perform actions remotely `Swift` 
+  <details><summary>https://github.com/prey/prey-swift-client</summary>
+  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://preyproject.com/
+  </details>
+- Prey Anti Theft: Track lost or stolen devices and perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037) 🔥🔥
+  <details><summary>https://github.com/prey/prey-ios-client</summary>
+  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://preyproject.com/
+  </details>
+- SkeletonKey: iPhone password manager with Dropbox [` App Store`](https://itunes.apple.com/app/skeleton-key-password-manager/id513648119) 
+  <details><summary>https://github.com/chrishulbert/SkeletonKey</summary>
+  Added March 31, 2016<br>  License: `other`
+  </details>
 - ZeroStore: password storage without the storage 
-  - https://github.com/kylebshr/zerostore-ios
+  <details><summary>https://github.com/kylebshr/zerostore-ios</summary>
+  Added September  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ## Social 
  
 [back to top](#readme) 
  
-- Aozora: Discover and track anime 🔶
-  - https://github.com/opensourceios/Aozora
-  - https://itunes.apple.com/app/aozora-anime-community-track/id1017433045
-- Ello: Ello is the Creators Network 🔶🔥🔥
-  - https://github.com/ello/ello-ios
-  - https://itunes.apple.com/app/ello/id953614327
-- Minds Mobile App: An encrypted social network. 🔥
-  - https://github.com/Minds/mobile
-  - https://www.minds.com/
-  - https://itunes.apple.com/app/id961771928
-- Peggsite: App for sharing a social board 
-  - https://github.com/jenduf/GenericSocialApp
-  - https://itunes.apple.com/app/peggsite/id938445951
-- StreetMusicMap: Is a collaborative global community that connects street musicians, fans and videomakers. 
-  - https://github.com/henriquevelloso/StreetMusicMap
-  - https://itunes.apple.com/app/street-music-map/id980068735
-- Yep: Discover talent and build something together 🔶🔥🔥🔥🔥🔥
-  - https://github.com/CatchChat/Yep
-  - https://itunes.apple.com/app/yep-meet-genius/id983891256
+- Aozora: Discover and track anime [` App Store`](https://itunes.apple.com/app/aozora-anime-community-track/id1017433045) `Swift` 
+  <details><summary>https://github.com/opensourceios/Aozora</summary>
+  Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Ello: Ello is the Creators Network [` App Store`](https://itunes.apple.com/app/ello/id953614327) `Swift` 🔥🔥
+  <details><summary>https://github.com/ello/ello-ios</summary>
+  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Minds Mobile App: An encrypted social network [` App Store`](https://itunes.apple.com/app/id961771928) 🔥
+  <details><summary>https://github.com/Minds/mobile</summary>
+  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>  https://www.minds.com/
+  </details>
+- Peggsite: App for sharing a social board [` App Store`](https://itunes.apple.com/app/peggsite/id938445951) 
+  <details><summary>https://github.com/jenduf/GenericSocialApp</summary>
+  Added March 17, 2015<br>  License: `other`
+  </details>
+- Post Manager: Post/schedule Twitter posts like Buffer + node.js backend + share extension `Swift` 
+  <details><summary>https://github.com/TomekB/PostManager</summary>
+  Added July 15, 2016<br>  License: `other`
+  </details>
+- StreetMusicMap: Is a collaborative global community that connects street musicians, fans and videomakers [` App Store`](https://itunes.apple.com/app/street-music-map/id980068735) 
+  <details><summary>https://github.com/henriquevelloso/StreetMusicMap</summary>
+  Added April 20, 2016<br>  License: `other`
+  </details>
+- Yep: Discover talent and build something together [` App Store`](https://itunes.apple.com/app/yep-meet-genius/id983891256) `Swift` 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/CatchChat/Yep</summary>
+  Added February  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ## Tasks 
  
 [back to top](#readme) 
  
-- 1Trackr: Digitally log in your community service hours onto the cloud 
-  - https://github.com/JerryHDev/1Trackr
-  - https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630
-- CloudKit-To-Do-List: Store & retrieve tasks using CloudKit 🔶
-  - https://github.com/anthonygeranio/CloudKit-To-Do-List
-- Habitica: A client for Habitica, a habit building and productivity app 
-  - https://github.com/HabitRPG/habitrpg-ios
-  - https://habitica.com/static/front
-  - https://itunes.apple.com/app/id994882113
-- MyAwesomeChecklist 🔶
-  - https://github.com/imod/MyAwesomeChecklist
-- RealmToDo: A small todo list with Realm integration 🔶
-  - https://github.com/pietbrauer/RealmToDo
-- Send To Me: Share content to your email with a single tap. 🔶
-  - https://github.com/PiXeL16/SendToMe
-  - https://itunes.apple.com/app/id1100027787
-- Swift Off: Firebase powered to do app built in Swift, includes tutorial 🔶
-  - https://github.com/goprimer/swift-off-todo
-- Task Coach: A simple toto manager designed for composite tasks. 
-  - https://sourceforge.net/projects/taskcoach/
-  - http://taskcoach.org/
-  - https://itunes.apple.com/app/task-coach/id311403563
-- Tinylog: A minimal iPhone/iPad TODO app 🔶
-  - https://github.com/binarylevel/Tinylog-iOS
-  - https://itunes.apple.com/app/tinylog/id799267191
-- Todo: A todo list app written in Swift 🔶🔥
-  - https://github.com/JakeLin/Todo
-- Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place 🔥🔥
-  - https://github.com/ginatrapani/todo.txt-ios
-  - https://itunes.apple.com/app/todo.txt-touch/id491342186
+- 1Trackr: Log your community service hours to the cloud using Parse [` App Store`](https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630) 
+  <details><summary>https://github.com/JerryHDev/1Trackr</summary>
+  Added April 11, 2016<br>  License: `other`
+  </details>
+- CloudKit-To-Do-List: Store & retrieve tasks using `CloudKit` `Swift` 
+  <details><summary>https://github.com/anthonygeranio/CloudKit-To-Do-List</summary>
+  Added April  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Habitica: Habit building and productivity [` App Store`](https://itunes.apple.com/app/id994882113) 
+  <details><summary>https://github.com/HabitRPG/habitrpg-ios</summary>
+  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://habitica.com/static/front
+  </details>
+- MyAwesomeChecklist `Swift` 
+  <details><summary>https://github.com/imod/MyAwesomeChecklist</summary>
+  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- RealmToDo: A small to-do list with Realm integration `Swift` 
+  <details><summary>https://github.com/pietbrauer/RealmToDo</summary>
+  Added July 31, 2015<br>  License: `other`
+  </details>
+- Task Coach: A simple to-do manager designed for composite tasks [` App Store`](https://itunes.apple.com/app/task-coach/id311403563) 
+  <details><summary>https://sourceforge.net/projects/taskcoach/</summary>
+  Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  http://taskcoach.org/
+  </details>
+- Tinylog: A minimal iPhone/iPad to-do app [` App Store`](https://itunes.apple.com/app/tinylog/id799267191) `Swift` 
+  <details><summary>https://github.com/binarylevel/Tinylog-iOS</summary>
+  Added January 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Todo `Swift` 🔥🔥
+  <details><summary>https://github.com/JakeLin/Todo</summary>
+  Added November 30, 2015<br>  License: `other`
+  </details>
+- Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place [` App Store`](https://itunes.apple.com/app/todo.txt-touch/id491342186) 🔥🔥
+  <details><summary>https://github.com/ginatrapani/todo.txt-ios</summary>
+  Added November 30, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+
+## Text 
+ 
+[back to top](#readme) 
+ 
+- Edhita: Text editor [` App Store`](https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655) `Swift` 🔥🔥🔥
+  <details><summary>https://github.com/tnantoka/edhita</summary>
+  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Onions: Cloud encrypted notes [` App Store`](https://itunes.apple.com/app/onions/id687296481) 
+  <details><summary>https://github.com/onionsapp/Onions-iOS</summary>
+  Added January 27, 2015<br>  License: `other`
+  </details>
+- Sentiments: Analyzes text for positive or negative sentiment `Swift` 🔥
+  <details><summary>https://github.com/kyleweiner/Sentiments</summary>
+  Added May 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- SimpleMemo: Sync notes to EverNote [` App Store`](https://itunes.apple.com/app/yi-bian-qian/id1029807896) 🔥🔥
+  <details><summary>https://github.com/likumb/SimpleMemo</summary>
+  Added August 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Simplenote: Easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices. Share notes with other users to collaborate on a project together or to access the same list. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962) 🔥
+  <details><summary>https://github.com/automattic/simplenote-ios</summary>
+  Added August 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://simplenote.com/<br>  ![Simplenote image 1](https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg)
+  </details>
+- SwiftNote: Simple note taking with Today extension & iCloud sync `Swift` 🔥
+  <details><summary>https://github.com/mslathrop/SwiftNote</summary>
+  Added March 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+## Travel 
+ 
+[back to top](#readme) 
+ 
+- Alarm: Geolocation based alarm app for travelers `Swift` 🔥
+  <details><summary>https://github.com/ChrisChares/swift-alarm</summary>
+  Added March 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Californication: Discover only the best points of interest in the California `Swift` 
+  <details><summary>https://github.com/vanyaland/Californication</summary>
+  Added August  7, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Californication image 1](https://github.com/vanyaland/Californication/raw/master/screenshot.png)
+  </details>
+- MetricTime: Displays 'Metric Time' for pranking friends on trips to countries that use the metric system `Swift` 
+  <details><summary>https://github.com/DeveloperACE/MetricTime</summary>
+  Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- MovieDict: Offline dictionary for international movie titles [` App Store`](https://itunes.apple.com/app/movieglot-what-do-they-call-it/id710587066) 
+  <details><summary>https://github.com/jlnr/MovieDict</summary>
+  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://moviedict.info
+  </details>
+- Smart Traveller (UberGuide): Simple and comfortable way to explore a city using Uber API 🔥🔥
+  <details><summary>https://github.com/hACKbUSTER/UberGuide-iOS</summary>
+  Added January 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Themoji: Use Emojis to communicate while traveling 
+  <details><summary>https://github.com/themoji/ios</summary>
+  Added July 12, 2016<br>  License: `other`<br>  https://themoji.me/
+  </details>
 
 ## Weather 
  
 [back to top](#readme) 
  
-- Lucid Weather Clock: Swift precipitation clock - uses Forecast.io 🔶
-  - https://github.com/wrutkowski/Lucid-Weather-Clock
-- Pocket Forecast: Swift weather application for Typhoon 🔶🔥🔥
-  - https://github.com/appsquickly/Typhoon-Swift-Example
-- RainMan: Uses Forecast.io 🔶🔥🔥🔥
-  - https://github.com/Mav3r1ck/Project-RainMan
+- Lucid Weather Clock: Precipitation clock, uses Forecast.io `Swift` 
+  <details><summary>https://github.com/wrutkowski/Lucid-Weather-Clock</summary>
+  Added January  5, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Pocket Forecast: Weather app for Typhoon `Swift` 🔥🔥
+  <details><summary>https://github.com/appsquickly/Typhoon-Swift-Example</summary>
+  Added March 24, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- RainMan: Uses Forecast.io `Swift` 🔥🔥🔥
+  <details><summary>https://github.com/Mav3r1ck/Project-RainMan</summary>
+  Added April 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - SmileWeather: Uses Weather Underground & OpenWeatherMap 🔥🔥
-  - https://github.com/liu044100/SmileWeather
+  <details><summary>https://github.com/liu044100/SmileWeather</summary>
+  Added August 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Sol: Uses Weather Underground 🔥🔥🔥🔥
-  - https://github.com/comyarzaheri/Sol
-- SwiftWeather 🔶🔥🔥🔥🔥🔥
-  - https://github.com/JakeLin/SwiftWeather
-- Tropos: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
-  - https://github.com/thoughtbot/Tropos
-  - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376
+  <details><summary>https://github.com/comyarzaheri/Sol</summary>
+  Added June 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- SwiftWeather `Swift` 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/JakeLin/SwiftWeather</summary>
+  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Tropos: A weather app using ReactiveCocoa and Forecast.io [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376) 🔥🔥🔥🔥
+  <details><summary>https://github.com/thoughtbot/Tropos</summary>
+  Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Weather by jsphkhan: Weather app using React Native 
-  - https://github.com/jsphkhan/ReactNativeExamples
-  - https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
-- WeatherMap: Weather around you in a glance, uses OpenWeatherMap 🔶🔥🔥
-  - https://github.com/TakefiveInteractive/WeatherMap
-  - https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529
-- YoCelsius 🔥🔥🔥🔥
-  - https://github.com/YouXianMing/YoCelsius
-  - https://itunes.apple.com/app/yocelsius/id967721892
+  <details><summary>https://github.com/jsphkhan/ReactNativeExamples</summary>
+  Added May  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
+  </details>
+- WeatherMap: Weather around you in a glance, uses OpenWeatherMap [` App Store`](https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529) `Swift` 🔥🔥
+  <details><summary>https://github.com/TakefiveInteractive/WeatherMap</summary>
+  Added June 19, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- YoCelsius [` App Store`](https://itunes.apple.com/app/yocelsius/id967721892) 🔥🔥🔥🔥
+  <details><summary>https://github.com/YouXianMing/YoCelsius</summary>
+  Added June  3, 2015<br>  License: `other`
+  </details>
 
 ## Web 
  
 [back to top](#readme) 
  
-- Kiwix: An offline reader for Wikipedia (and many other websites). 🔶
-  - https://github.com/kiwix/iOS
-  - http://www.kiwix.org/wiki/Main_Page
-  - https://itunes.apple.com/app/id997079563
-- PHPHub: Universal app for PHPHub Forum 🇨🇳🔥🔥🔥
-  - https://github.com/Aufree/phphub-ios
-  - https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564
-- ProMonster: Store 🇧🇷
-  - https://github.com/usemobile/promonster-ios
-  - https://itunes.apple.com/app/promonster/id919649318
-- QiitaCollection: Technical knowledge sharing and collaboration platform 🇯🇵
-  - https://github.com/anzfactory/QiitaCollection
-  - https://itunes.apple.com/app/kitakore-for-qiita/id973532800
-
-## Misc 
- 
-[back to top](#readme) 
- 
-- A Menjar: Food menu app 🇪🇸
-  - https://github.com/maurovc/aMenjar
-  - https://itunes.apple.com/app/a-menjar!/id816473131
-- bar: Cocktail menu 🔶
-  - https://github.com/soffes/bar
-- Be my eyes: Connect blind people with volunteer helpers via live video chat 🔥🔥
-  - https://github.com/bemyeyes/bemyeyes-ios
-  - https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575
-- BlogQuest: Alternative Tumblr client 
-  - https://github.com/irace/BlogQuest
-- Borrowed Books UFGRS: Manage borrowed books at UFRGS using SABI 🔶
-  - https://github.com/MatheusCavalca/RenovaLivrosUFRGS
-- CardDecks: Configurable card decks 
-  - https://github.com/aharren/CardDecks
-- ChineseZodiac 🔶🔥
-  - https://github.com/JakeLin/ChineseZodiac
-- Colo: Color themes hunter 
-  - https://github.com/wongzigii/Colo
-- DeckRocket: Turn your iPhone into a remote for Deckset presentations 🔶🔥🔥
-  - https://github.com/jpsim/DeckRocket
-- EmotionNote: Emotion diary  choose or take a photo of your face, the app will tell you your emotion 🔶 🔶
-  - https://github.com/Yogayu/EmotionNote
-- FreeRDP: An implementation of the Remote Desktop Protocol (RDP). 🔥🔥🔥🔥
-  - https://github.com/FreeRDP/FreeRDP
-  - http://www.freerdp.com/
-- GammaThingy: Change screen gamma dynamically 🔥🔥🔥
-  - https://github.com/thomasfinch/GammaThingy
-- GoodNight: Change screen gamma dynamically 🔥🔥🔥
-  - https://github.com/anthonya1999/GoodNight
-- GreatReader: "Great" PDF reader designed for both iPhone and iPad 🔥🔥
-  - https://github.com/semweb/GreatReader
-  - https://itunes.apple.com/app/greatreader/id903651112
-- Hidrate: App for smart water bottle 
-  - https://github.com/mjcuva/Hidrate
-- iContactU: Reminds you to contact people you ought to 🔶🔥
-  - https://github.com/rizal72/iContactU
-  - https://itunes.apple.com/app/icontactu/id920200100
-- iCopyPasta: Pasteboard feed app 🔶
-  - https://github.com/alltheflow/iCopyPasta
-- iGrades: Track your class grades 
-  - https://github.com/maurovc/iGrades
-  - https://itunes.apple.com/app/id816987574
-- Jupp: App with share extension for ADN 🔶
-  - https://github.com/dasdom/Jupp
-  - https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740
-- LibreOffice Remote for Impress: Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely. 
-  - https://cgit.freedesktop.org/libreoffice/impress_remote/
-  - https://itunes.apple.com/app/id806879890
-- LidderbuchApp: Songbook for Luxembourgish Students 🔶🇱🇺
-  - https://github.com/AcelLuxembourg/LidderbuchApp
-  - https://itunes.apple.com/app/lidderbuch/id997143407
-- Mirror++: Minimalist mirror 🔶
-  - https://github.com/nathunsmitty/MirrorPlusPlus
-- my41: HP-41C/CV/CX Microcode emulator 
-  - https://github.com/mperovic/my41
-  - https://itunes.apple.com/app/my41cx/id979041950
-- Onions: Cloud encrypted text storage app 
-  - https://github.com/onionsapp/Onions-iOS
-  - https://itunes.apple.com/app/onions/id687296481
-- Open States: Browse state legislatures 
-  - https://github.com/sunlightlabs/openstates-ios
-- OpenCB: Interactive chess book reader 
-  - https://github.com/student-t/OpenCB
-- openHAB: Vendor and technology agnostic home automation. 
-  - https://github.com/openhab/openhab.ios
-  - http://www.openhab.org/
-  - https://itunes.apple.com/app/id492054521
-- OpenIt: Notification widget to launch other apps from the notification center 
-  - https://github.com/BalestraPatrick/OpenIt
-- ownCloud: File browser and sync for ownCloud file hosting service 🔥🔥
-  - https://github.com/owncloud/ios
-  - https://itunes.apple.com/app/owncloud/id543672169
-- Phonetic: Add phonetic keys for Chinese names 🔥🔥
-  - https://github.com/iAugux/Phonetic
-- Runner-Stats: iPhone app to record running data 
-  - https://github.com/hukun01/Runner-Stats
-  - https://itunes.apple.com/app/runner-stats/id793443821
-- Seafile Pro: A client for Seafile (self-hosted file sharing). 
-  - https://github.com/haiwen/seafile-iOS
-  - https://www.seafile.com/en/home/
-  - https://itunes.apple.com/app/id639202512
-- Swiflytics: See your realtime Google Analytics data 🔶
-  - https://github.com/aciidb0mb3r/Swiflytics
-  - https://itunes.apple.com/app/swiflytics/id1076165139
-- SwiftBlog: Read the official Apple Swift Blog via RSS 🔶
-  - https://github.com/BalestraPatrick/SwiftBlog
-- Tether: Tethering for non-jailbroken iOS Devices over USB 
-  - https://github.com/chrisballinger/Tether-iOS
-- Themoji: Use Emojis to communicate while traveling 
-  - https://github.com/themoji/ios
-  - https://themoji.me/
-- TheReservist: Check availability of iPhones 🔶
-  - https://github.com/kimar/TheReservist
-- Theseus: Personal analytics tool 🔥🔥🔥
-  - https://github.com/lazerwalker/Theseus
-- TrollDrop: AirDrop trollfaces to everyone 
-  - https://github.com/a2/TrollDrop
-- Vinylogue: Simple Last.fm client 🔥
-  - https://github.com/twocentstudios/vinylogue
-  - https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119
-- VPN On: Today Widget to turn on VPN 🔶🔥🔥🔥🔥🔥
-  - https://github.com/lexrus/VPNOn
-  - https://itunes.apple.com/app/vpn-on/id951344279
-- WaniKani: Client app for WaniKani.com site (learn kanji) 🔶
-  - https://github.com/haawa799/WaniKani-iOS
-  - https://itunes.apple.com/app/wanikani/id1034355141
-- Words: Thesaurus app 
-  - https://github.com/soffes/words
-- WWDC Students: WWDC scholarship entry apps 🔶🔥
-  - https://github.com/wwdc
-- YaleMobile: App for Yale University students 
-  - https://github.com/kiokoo/YaleMobile
-  - https://itunes.apple.com/app/yale-mobile/id497588523
-- Yorkie: This app will help you take care of your dog 
-  - https://github.com/carlbutron/YorkieApp
-  - https://itunes.apple.com/app/Yorkie/id1000836606
-
-### 3D Touch 
- 
-[back to top](#readme) 
- 
-- ForceSketch: Sketching app using 3D Touch 
-  - https://github.com/FlexMonkey/ForceSketch
-- Plum-O-Meter: 3D Touch Application for Weighing Plums (and other small fruit!) 🔶🔥🔥
-  - https://github.com/FlexMonkey/Plum-O-Meter
-
-### Calendar 
- 
-[back to top](#readme) 
- 
-- Malendar: A redesigned calendar app 🔶
-  - https://github.com/croossin/Malendar
-- Workdays: Simple iPhone calendar with operating schedule 
-  - https://github.com/mpak/Workdays
-  - https://itunes.apple.com/app/workdays-calendar/id889712978
-
-### Calculator 
- 
-[back to top](#readme) 
- 
-- Calculator: React Native calculator 🔥🔥🔥🔥🔥
-  - https://github.com/benoitvallon/react-native-nw-react-calculator
-- Free42: A re-implementation of the HP-42S Calculator and the HP-82240 printer. 
-  - http://thomasokken.com/free42/download/free42.tgz
-  - http://thomasokken.com/free42/
-  - https://itunes.apple.com/app/id337692629
-- NumberPad: An experimental prototype calculator for iPad 
-  - https://github.com/bridger/NumberPad
-- Round & Split: Tip Calculator 🔶
-  - https://github.com/lukhnos/roundandsplit
-  - https://itunes.apple.com/app/round-split/id912288737
-
-### Text 
- 
-[back to top](#readme) 
- 
-- Edhita: Text editor 🔶🔥🔥🔥
-  - https://github.com/tnantoka/edhita
-  - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
-- Sentiments: Analyzes text for positive or negative sentiment. 🔶🔥
-  - https://github.com/kyleweiner/Sentiments
-- SimpleMemo: Sync notes to EverNote 🔥🔥
-  - https://github.com/likumb/SimpleMemo
-  - https://itunes.apple.com/app/yi-bian-qian/id1029807896
-- SwiftNote: Simple note taking app with today widget and iCloud syncing 🔶🔥
-  - https://github.com/mslathrop/SwiftNote
-
-### Clock 
- 
-[back to top](#readme) 
- 
-- Fibonacc iClock: A clock based off the famous fibonacci sequence. 
-  - https://github.com/scribblemaniac/Fibonacc-iClock
-- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa 🔶
-  - https://github.com/nottombrown/HausClock
-- Natural Language Clock: Display the time as you would speak it 🔶
-  - https://github.com/chadkeck/Natural-Language-Clock
-- Population Clock: Learn about geography and demographics 
-  - https://github.com/Netfilter-Com/PopulationClock
-  - https://itunes.apple.com/app/population-clock-hd/id590689957
-- SwiftTextClock: A Swift version of the beautiful QlockTwo 🔶
-  - https://github.com/MichMich/SwiftTextClock
-
-### Timer 
- 
-[back to top](#readme) 
- 
-- Cherry: Mini Pomodoro Timer app 🔶🔥🔥
-  - https://github.com/kenshin03/Cherry
-- Coffee Timer 🔶
-  - https://github.com/ashfurrow/yourfirstswiftapp
-- Fojusi: Work timer with today extension 🔶🔥🔥
-  - https://github.com/dasdom/Tomate
-  - https://itunes.apple.com/app/fojusi/id923044693
-- MetricTime: Displays 'Metric Time' for pranking friends on trips to countries that use the metric system. 🔶
-  - https://github.com/DeveloperACE/MetricTime
-- TrackMyTime 
-  - https://github.com/EvgenyKarkan/TrackMyTime
+- Kiwix: An offline reader for Wikipedia (& many other websites) [` App Store`](https://itunes.apple.com/app/id997079563) `Swift` 
+  <details><summary>https://github.com/kiwix/iOS</summary>
+  Added June  2, 2016<br>  License: `other`<br>  http://www.kiwix.org/wiki/Main_Page
+  </details>
+- PHPHub: iPhone/iPad app for PHPHub Forum [` App Store`](https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564) 🇨🇳🔥🔥🔥
+  <details><summary>https://github.com/Aufree/phphub-ios</summary>
+  Added December  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- ProMonster: Store [` App Store`](https://itunes.apple.com/app/promonster/id919649318) 🇵🇹
+  <details><summary>https://github.com/usemobile/promonster-ios</summary>
+  Added October 18, 2015<br>  License: `other`
+  </details>
+- QiitaCollection: Technical knowledge sharing and collaboration platform [` App Store`](https://itunes.apple.com/app/kitakore-for-qiita/id973532800) 🇯🇵
+  <details><summary>https://github.com/anzfactory/QiitaCollection</summary>
+  Added October 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ## Special 
  
 [back to top](#readme) 
  
 
+### 3D Touch 
+ 
+[back to top](#readme) 
+ 
+- ForceSketch: Sketching app using 3D Touch 
+  <details><summary>https://github.com/FlexMonkey/ForceSketch</summary>
+  Added October 28, 2015<br>  License: `other`
+  </details>
+- Plum-O-Meter: 3D Touch app for weighing plums (and other small fruit!) `Swift` 🔥🔥
+  <details><summary>https://github.com/FlexMonkey/Plum-O-Meter</summary>
+  Added October 27, 2015<br>  License: `other`
+  </details>
+
 ### Appcelerator 
  
 [back to top](#readme) 
  
-- Tracker 4 Compassion: Track your walk, run or ride 
-  - https://github.com/fokkezb/tracker
-  - https://itunes.apple.com/app/g.o.-tracker-4-compassion/id1100240821
+- Tracker 4 Compassion: Track your walk, run or ride [` App Store`](https://itunes.apple.com/app/g.o.-tracker-4-compassion/id1100240821) 
+  <details><summary>https://github.com/fokkezb/tracker</summary>
+  Added April 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ### Core Data 
  
 [back to top](#readme) 
  
 - DVD Collection Tracker 
-  - https://github.com/chrismiles/OrganisingCoreData
+  <details><summary>https://github.com/chrismiles/OrganisingCoreData</summary>
+  Added August  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Nested Lists 🔥
-  - https://github.com/objcio/issue-4-full-core-data-application
-- Tagger: Tagger helps you increase the number of Instagram or Flickr followers and likes on your pictures. 🔶
-  - https://github.com/vanyaland/Tagger
-- Tasks: Designed to quickly and easily add tasks to your iPhone 🔶
-  - https://github.com/mbcrump/TasksForSwiftWithPersistingData
-  - https://itunes.apple.com/app/task-application/id960435759
+  <details><summary>https://github.com/objcio/issue-4-full-core-data-application</summary>
+  Added August  7, 2015<br>  License: `other`
+  </details>
+- Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures `Swift` 
+  <details><summary>https://github.com/vanyaland/Tagger</summary>
+  Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Tasks: Designed to quickly and easily add tasks to your iPhone [` App Store`](https://itunes.apple.com/app/task-application/id960435759) `Swift` 
+  <details><summary>https://github.com/mbcrump/TasksForSwiftWithPersistingData</summary>
+  Added March  5, 2015<br>  License: `other`
+  </details>
 
 ### Firebase 
  
 [back to top](#readme) 
  
-- Chaty: Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching 🔥🔥
-  - https://github.com/LunarFlash/Chaty
-- Hacker News Client: Firebase API-Based iOS Reader (Firebase) 🔥🔥
-  - https://github.com/bonzoq/hniosreader
-  - https://itunes.apple.com/app/hacker-news-client/id939454231
-- HackerNews (Y): Built using pure Objective-C with official HN API (uses Firebase and Fabric) 
-  - https://github.com/vetri02/HackerNews
-  - https://itunes.apple.com/app/hacker-news-y/id1027140113
+- Californication: Discover only the best points of interest in the California `Swift` 
+  <details><summary>https://github.com/vanyaland/Californication</summary>
+  Added August  7, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Californication image 1](https://github.com/vanyaland/Californication/raw/master/screenshot.png)
+  </details>
+- Chaty: Anonymous messaging leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data sync 🔥🔥
+  <details><summary>https://github.com/LunarFlash/Chaty</summary>
+  Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Hacker News Client: Firebase API-Based iOS Reader (Firebase) [` App Store`](https://itunes.apple.com/app/hacker-news-client/id939454231) 🔥🔥
+  <details><summary>https://github.com/bonzoq/hniosreader</summary>
+  Added April 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- HackerNews (Y): Built using pure Objective-C with official HN API (uses Firebase and Fabric) [` App Store`](https://itunes.apple.com/app/hacker-news-y/id1027140113) 
+  <details><summary>https://github.com/vetri02/HackerNews</summary>
+  Added October 14, 2015<br>  License: `other`
+  </details>
 - how-much: Simple app to record how much things cost using Parse or Firebase 
-  - https://github.com/dkhamsing/how-much
-- Swift Off: Firebase powered to do app built in Swift, includes tutorial 🔶
-  - https://github.com/goprimer/swift-off-todo
+  <details><summary>https://github.com/dkhamsing/how-much</summary>
+  Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ### [Ionic](http://ionicframework.com/) 
  
 [back to top](#readme) 
  
-- Minds Mobile App: An encrypted social network. 🔥
-  - https://github.com/Minds/mobile
-  - https://www.minds.com/
-  - https://itunes.apple.com/app/id961771928
-- Vegan Lists UK: View and collect official/unofficial Vegan food lists 
-  - https://github.com/dsgriffin/vegan-lists-uk
-  - https://itunes.apple.com/app/vegan-lists-uk/id1083273301
+- Minds Mobile App: An encrypted social network [` App Store`](https://itunes.apple.com/app/id961771928) 🔥
+  <details><summary>https://github.com/Minds/mobile</summary>
+  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>  https://www.minds.com/
+  </details>
+- Vegan Lists UK: View and collect official/unofficial Vegan food lists [` App Store`](https://itunes.apple.com/app/vegan-lists-uk/id1083273301) 
+  <details><summary>https://github.com/dsgriffin/vegan-lists-uk</summary>
+  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ### Parse 
  
 [back to top](#readme) 
  
-- 2CITY: Find out the coolest things to do in your city 
-  - https://github.com/2city/2CITY-iOS
-  - https://itunes.apple.com/app/2city/id944632470
-- Anypic in Objective-C: Mobile and web app that lets users share photos similar to Instagram 🔥🔥🔥🔥
-  - https://github.com/ParsePlatform/Anypic
-  - https://itunes.apple.com/app/anypic/id539741538
-- Anypic in Swift 🔶
-  - https://github.com/kwkhaw/SwiftAnyPic
-- AnyWall: A fun geolocation app built with Parse 🔥🔥
-  - https://github.com/ParsePlatform/AnyWall
-  - https://itunes.apple.com/app/anywall/id520955490
+- 1Trackr: Log your community service hours to the cloud using Parse [` App Store`](https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630) 
+  <details><summary>https://github.com/JerryHDev/1Trackr</summary>
+  Added April 11, 2016<br>  License: `other`
+  </details>
+- 2CITY: Find out the coolest things to do in your city [` App Store`](https://itunes.apple.com/app/2city/id944632470) 
+  <details><summary>https://github.com/2city/2CITY-iOS</summary>
+  Added October 12, 2015<br>  License: `other`
+  </details>
+- Anypic in Objective-C: Mobile and web app that lets users share photos similar to Instagram [` App Store`](https://itunes.apple.com/app/anypic/id539741538) 🔥🔥🔥🔥
+  <details><summary>https://github.com/ParsePlatform/Anypic</summary>
+  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
+  </details>
+- Anypic in Swift `Swift` 
+  <details><summary>https://github.com/kwkhaw/SwiftAnyPic</summary>
+  Added November  2, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
+  </details>
+- AnyWall: A fun geolocation app built with Parse [` App Store`](https://itunes.apple.com/app/anywall/id520955490) 🔥🔥
+  <details><summary>https://github.com/ParsePlatform/AnyWall</summary>
+  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
+  </details>
 - how-much: Simple app to record how much things cost using Parse or Firebase 
-  - https://github.com/dkhamsing/how-much
-- iBeaconTasks: iBeacon TODO reminder app based on Parse 🔥
-  - https://github.com/TomekB/iBeaconTasks
-- Jim: Track your gym workouts 🔶
-  - https://github.com/kylejm/Jim
-- Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video 🔥
-  - https://github.com/TomekB/Parse-Challenge-App
-  - https://itunes.apple.com/app/lets-challenge-me/id944004497
-- ParseStore: Backend provider for selling physical goods using Parse 🔥
-  - https://github.com/ParsePlatform/ParseStore
-  - https://itunes.apple.com/app/parse-store/id613679907
-- Paws: Building an Instagram-Like App with Parse and Swift 🔶
-  - http://www.appcoda.com/instagram-app-parse-swift/
-- Wizard War: Cast spells in single or multiplayer wizard duels. 🔥🔥🔥
-  - https://github.com/seanhess/wizardwar
+  <details><summary>https://github.com/dkhamsing/how-much</summary>
+  Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- iBeaconTasks: iBeacon to-do reminder app using Parse 🔥
+  <details><summary>https://github.com/TomekB/iBeaconTasks</summary>
+  Added March  5, 2015<br>  License: `other`
+  </details>
+- Jim: Track your gym workouts `Swift` 
+  <details><summary>https://github.com/kylejm/Jim</summary>
+  Added January  4, 2016<br>  License: `other`
+  </details>
+- Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video [` App Store`](https://itunes.apple.com/app/lets-challenge-me/id944004497) 🔥
+  <details><summary>https://github.com/TomekB/Parse-Challenge-App</summary>
+  Added March  5, 2015<br>  License: `other`
+  </details>
+- ParseStore: Backend provider for selling physical goods using Parse [` App Store`](https://itunes.apple.com/app/parse-store/id613679907) 🔥
+  <details><summary>https://github.com/ParsePlatform/ParseStore</summary>
+  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
+  </details>
+- Paws: Building an Instagram-Like App with Parse `Swift` 
+  <details><summary>http://www.appcoda.com/instagram-app-parse-swift/</summary>
+  Added April 17, 2015<br>  License: `other`
+  </details>
+- RaceMe: Run tracking + ghosting `Swift` 🔥🔥
+  <details><summary>https://github.com/enochng1/RaceMe</summary>
+  Added July 20, 2016<br>  License: `other`
+  </details>
+- Wizard War: Cast spells in single or multiplayer wizard duels 🔥🔥🔥
+  <details><summary>https://github.com/seanhess/wizardwar</summary>
+  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
 ### [React Native](http://facebook.github.io/react-native/) 
  
 [back to top](#readme) 
  
 - 2048: App by Facebook 
-  - https://github.com/facebook/react-native/tree/master/Examples/2048
-- allyoop: NBA game scores app 🔥🔥🔥
-  - https://github.com/wwayne/react-native-nba-app
+  <details><summary>https://github.com/facebook/react-native/tree/master/Examples/2048</summary>
+  Added February  5, 2016<br>  License: `other`
+  </details>
+- allyoop: NBA game scores 🔥🔥🔥
+  <details><summary>https://github.com/wwayne/react-native-nba-app</summary>
+  Added January  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Around Me: Display Instagram photos around your location 
-  - https://github.com/bgryszko/react-native-example
+  <details><summary>https://github.com/bgryszko/react-native-example</summary>
+  Added October 13, 2015<br>  License: `other`
+  </details>
 - Assemblies: Developer-focused Meetup clone 🔥
-  - https://github.com/buildreactnative/assemblies
+  <details><summary>https://github.com/buildreactnative/assemblies</summary>
+  Added May  2, 2016<br>  License: `other`
+  </details>
 - Calculator: React Native calculator 🔥🔥🔥🔥🔥
-  - https://github.com/benoitvallon/react-native-nw-react-calculator
+  <details><summary>https://github.com/benoitvallon/react-native-nw-react-calculator</summary>
+  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Currency Converter 
-  - https://github.com/ashwinpreet/ReactNativeExamples
-  - https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter
+  <details><summary>https://github.com/ashwinpreet/ReactNativeExamples</summary>
+  Added May 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter
+  </details>
 - Den: View houses for sale in the Northwest 🔥🔥
-  - https://github.com/asamiller/den
+  <details><summary>https://github.com/asamiller/den</summary>
+  Added May 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Dribbble 🔥🔥🔥🔥
-  - https://github.com/catalinmiron/react-native-dribbble-app
+  <details><summary>https://github.com/catalinmiron/react-native-dribbble-app</summary>
+  Added June 13, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - F8 2016: Official F8 app 🔥🔥🔥🔥🔥
-  - https://github.com/fbsamples/f8app
+  <details><summary>https://github.com/fbsamples/f8app</summary>
+  Added April 14, 2016<br>  License: `other`<br>  ![F8 2016 image 1](https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png)
+  </details>
 - Facebook Login 🔥🔥
-  - https://github.com/brentvatne/react-native-login
+  <details><summary>https://github.com/brentvatne/react-native-login</summary>
+  Added April 14, 2015<br>  License: `other`
+  </details>
 - Finance: iOS's Stocks app written in React Native 🔥🔥🔥
-  - https://github.com/7kfpun/FinanceReactNative
+  <details><summary>https://github.com/7kfpun/FinanceReactNative</summary>
+  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Foreign Exchange 
-  - https://github.com/peralmq/ForeignExchangeApp
-- HackerNews-React-Native 🔥🔥🔥🔥🔥
-  - https://github.com/iSimar/HackerNews-React-Native
-  - https://itunes.apple.com/app/hacker-news-reader-react-native/id1067161633
+  <details><summary>https://github.com/peralmq/ForeignExchangeApp</summary>
+  Added July 24, 2015<br>  License: `other`
+  </details>
+- HackerNews-React-Native [` App Store`](https://itunes.apple.com/app/hacker-news-reader-react-native/id1067161633) 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/iSimar/HackerNews-React-Native</summary>
+  Added July 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Iceland Earthquakes 
-  - https://github.com/paranoida/IcelandEarthquakes
+  <details><summary>https://github.com/paranoida/IcelandEarthquakes</summary>
+  Added May  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - iTunes Catalog Search 
-  - https://github.com/alexissan/ReactNativeWorkshop
+  <details><summary>https://github.com/alexissan/ReactNativeWorkshop</summary>
+  Added June 13, 2015<br>  License: `other`
+  </details>
 - london-react 
-  - https://github.com/JoeStanton/london-react
+  <details><summary>https://github.com/JoeStanton/london-react</summary>
+  Added August  2, 2015<br>  License: `other`
+  </details>
 - Movies: App by Facebook 
-  - https://github.com/facebook/react-native/tree/master/Examples/Movies
+  <details><summary>https://github.com/facebook/react-native/tree/master/Examples/Movies</summary>
+  Added February  5, 2016<br>  License: `other`
+  </details>
 - NBAreact: NBA stats and standings 
-  - https://github.com/jbkuczma/NBAreact
+  <details><summary>https://github.com/jbkuczma/NBAreact</summary>
+  Added July 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - newswatch: News app using YouTube playlists 
-  - https://github.com/bradoyler/newswatch-react-native
-- NortalTechDay: Nortal TechDay 2015 app 🔥
-  - https://github.com/mikkoj/NortalTechDay
-- ParseDeveloperDay: Parse 2013 developer conference app 
-  - https://github.com/ParsePlatform/ParseDeveloperDay
+  <details><summary>https://github.com/bradoyler/newswatch-react-native</summary>
+  Added May 15, 2015<br>  License: `other`
+  </details>
+- Nortal TechDay 2015 🔥
+  <details><summary>https://github.com/mikkoj/NortalTechDay</summary>
+  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Parse 2013 Developer Day 
+  <details><summary>https://github.com/ParsePlatform/ParseDeveloperDay</summary>
+  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
+  </details>
 - PocketNode: Lightweight Node REPL 
-  - https://github.com/mzabriskie/PocketNode
+  <details><summary>https://github.com/mzabriskie/PocketNode</summary>
+  Added February  4, 2016<br>  License: `other`
+  </details>
 - Product Kitty: Product Hunt app 🔥
-  - https://github.com/rkho/product-kitty
+  <details><summary>https://github.com/rkho/product-kitty</summary>
+  Added September  2, 2015<br>  License: `other`
+  </details>
 - Property Finder 🔥🔥
-  - https://github.com/ColinEberhardt/ReactNative-PropertyFinder
+  <details><summary>https://github.com/ColinEberhardt/ReactNative-PropertyFinder</summary>
+  Added April 10, 2015<br>  License: `other`
+  </details>
 - ReactNativeHackerNews 🔥
-  - https://github.com/jsdf/ReactNativeHackerNews
+  <details><summary>https://github.com/jsdf/ReactNativeHackerNews</summary>
+  Added March 30, 2016<br>  License: `other`
+  </details>
 - RSS Reader 
-  - https://github.com/christopherdro/react-native-rss-reader
+  <details><summary>https://github.com/christopherdro/react-native-rss-reader</summary>
+  Added June 22, 2015<br>  License: `other`
+  </details>
 - Songkick 
-  - https://github.com/ArnaudRinquin/sk-react-native
+  <details><summary>https://github.com/ArnaudRinquin/sk-react-native</summary>
+  Added October 27, 2015<br>  License: `other`
+  </details>
 - Spacepics: A small app displaying NASA's Picture of the Day 
-  - https://github.com/campezzi/react-native-spacepics
+  <details><summary>https://github.com/campezzi/react-native-spacepics</summary>
+  Added May 26, 2015<br>  License: `other`
+  </details>
 - Sudoku 
-  - https://github.com/christopherdro/react-native-sudoku
+  <details><summary>https://github.com/christopherdro/react-native-sudoku</summary>
+  Added March 10, 2016<br>  License: `other`
+  </details>
 - TicTacToe: App by Facebook 
-  - https://github.com/facebook/react-native/tree/master/Examples/TicTacToe
+  <details><summary>https://github.com/facebook/react-native/tree/master/Examples/TicTacToe</summary>
+  Added February  5, 2016<br>  License: `other`
+  </details>
 - To Do List 
-  - https://github.com/joemaddalone/react-native-todo
-- To Do List (Redux): React Native Todo List app which uses Redux for managing app state 
-  - https://github.com/uiheros/react-native-redux-todo-list
+  <details><summary>https://github.com/joemaddalone/react-native-todo</summary>
+  Added June 20, 2016<br>  License: `other`
+  </details>
+- To Do List (Redux): React Native to-do List app which uses Redux for managing app state 
+  <details><summary>https://github.com/uiheros/react-native-redux-todo-list</summary>
+  Added June 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Twitch 
-  - https://github.com/IFours/react-native-twitch
+  <details><summary>https://github.com/IFours/react-native-twitch</summary>
+  Added February  4, 2016<br>  License: `other`
+  </details>
 - UIExplorer: App by Facebook 
-  - https://github.com/facebook/react-native/tree/master/Examples/UIExplorer
+  <details><summary>https://github.com/facebook/react-native/tree/master/Examples/UIExplorer</summary>
+  Added February  5, 2016<br>  License: `other`
+  </details>
 - Weather by JakeLin 
-  - https://github.com/JakeLin/ReactNativeWeather
+  <details><summary>https://github.com/JakeLin/ReactNativeWeather</summary>
+  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Weather by jsphkhan: Weather app using React Native 
-  - https://github.com/jsphkhan/ReactNativeExamples
-  - https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
-
-### Reactive Programming 
- 
-[back to top](#readme) 
- 
-- ReactiveKitten: It's about gifs and cats, example project for Interstellar 🔶
-  - https://github.com/JensRavens/ReactiveKitten
-
-### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 
- 
-[back to top](#readme) 
- 
-- BrewMobile: App for managing the beer brewing process 🔶🔥
-  - https://github.com/brewfactory/BrewMobile
-- C-41: Make developing film easier and more reliable by using this simple timer 🔥🔥🔥🔥
-  - https://github.com/ashfurrow/C-41
-  - https://itunes.apple.com/app/c-41/id789924103
-- GitBucket: GitHub client using MVVM & ReactiveCocoa 🔥🔥🔥🔥🔥
-  - https://github.com/leichunfeng/MVVMReactiveCocoa
-  - https://itunes.apple.com/app/id961330940
-- GroceryList: iPhone grocery list app, synchronized using GitHub 🔥🔥🔥
-  - https://github.com/jspahrsummers/GroceryList
-- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa 🔶
-  - https://github.com/nottombrown/HausClock
-- ReactiveHackerNews: Hacker News reader with Tinder style interface, written in ObjC, uses MVVM & ReactiveCocoa 
-  - https://github.com/syshen/ReactiveHackerNews
-  - https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368
-- ReactiveSwiftFlickrSearch: A Flickr-search app that uses MVVM & ReactiveCocoa 🔶🔥🔥
-  - https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch
-- SimpleAuth: Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more) 🔥🔥🔥🔥
-  - https://github.com/calebd/SimpleAuth
-- SwiftRACGoogleImages: Google image search using RAC 4.0 and Swift 2.1 🔶
-  - https://github.com/Adlai-Holler/SwiftRACGoogleImages
-- Tropos: A weather app using ReactiveCocoa and Forecast.io 🔥🔥🔥🔥
-  - https://github.com/thoughtbot/Tropos
-  - https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376
-- Wizard War: Cast spells in single or multiplayer wizard duels. 🔥🔥🔥
-  - https://github.com/seanhess/wizardwar
-
-### [RxSwift](https://github.com/ReactiveX/RxSwift) 
- 
-[back to top](#readme) 
- 
-- Count It: Never lose the count again. Dead simple App with Apple Watch integration that lets you count anything. 🔶
-  - https://github.com/PiXeL16/CountItApp
-  - https://itunes.apple.com/app/id1098893335
-- GitHub API Client: GitHub client using MVVM and RxSwift 🔶🔥
-  - https://github.com/tailec/boilerplate
-- Kiosk: The Artsy auction kiosk app, uses RxSwift 🔶🔥🔥🔥🔥
-  - https://github.com/artsy/eidolon
-- RxMarbles: Interactive diagrams of Rx Observables 🔶
-  - https://github.com/RxSwiftCommunity/RxMarbles
-  - https://itunes.apple.com/us/app/rxmarbles/id1087272442
-- Tweetometer: See who is tweeting in your timeline 🔶
-  - https://github.com/BalestraPatrick/Tweetometer
+  <details><summary>https://github.com/jsphkhan/ReactNativeExamples</summary>
+  Added May  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
+  </details>
 
 ### Realm 
  
 [back to top](#readme) 
  
-- Done: Data sharing between a WatchKit app and its main app using Realm 🔶
-  - https://github.com/FancyPixel/done-swift
-- Obědář: Shows daily menu of close restaurants to Czech Technical University 🔶
-  - https://github.com/syky27/lunch_guy-ios
-- RealmToDo: A small todo list with Realm integration 🔶
-  - https://github.com/pietbrauer/RealmToDo
+- Done: Data sharing using WatchKit and Realm `Swift` 
+  <details><summary>https://github.com/FancyPixel/done-swift</summary>
+  Added May  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Facemotion: Find a contact by face recognition using `OpenCV` 
+  <details><summary>https://github.com/remirobert/Facemotion</summary>
+  Added July 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Obědář: Shows daily menu of close restaurants to Czech Technical University `Swift` 
+  <details><summary>https://github.com/syky27/lunch_guy-ios</summary>
+  Added June 16, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- RaceMe: Run tracking + ghosting `Swift` 🔥🔥
+  <details><summary>https://github.com/enochng1/RaceMe</summary>
+  Added July 20, 2016<br>  License: `other`
+  </details>
+- RealmToDo: A small to-do list with Realm integration `Swift` 
+  <details><summary>https://github.com/pietbrauer/RealmToDo</summary>
+  Added July 31, 2015<br>  License: `other`
+  </details>
 
 ### [VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/) 
  
 [back to top](#readme) 
  
-- American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers 
-  - https://github.com/ryanipete/AmericanChronicle
-  - http://ryanipete.com/AmericanChronicle/
-  - https://itunes.apple.com/app/id1092988367
+- American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers, uses Viper [` App Store`](https://itunes.apple.com/app/id1092988367) 
+  <details><summary>https://github.com/ryanipete/AmericanChronicle</summary>
+  Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  http://ryanipete.com/AmericanChronicle/
+  </details>
 - Contacts 
-  - https://github.com/sebastianwr/VIPER-Persons
+  <details><summary>https://github.com/sebastianwr/VIPER-Persons</summary>
+  Added February  8, 2016<br>  License: `other`
+  </details>
 - Counter 🔥🔥
-  - https://github.com/mutualmobile/Counter
-- EMI Calculator for Home, Personal & Car Loan: Calculate your Equated Monthly instalment (EMI) for Home loan, Housing loan, Car loan & Personal loan 🔶
-  - https://github.com/tirupati17/loan-emi-calculator-clean-swift
-  - https://itunes.apple.com/app/id1105890730
+  <details><summary>https://github.com/mutualmobile/Counter</summary>
+  Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- EMI Calculator: Calculate your Equated Monthly installment (EMI) for home, car & personal loans, uses Viper [` App Store`](https://itunes.apple.com/app/id1105890730) `Swift` 
+  <details><summary>https://github.com/tirupati17/loan-emi-calculator-clean-swift</summary>
+  Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Rambler.Conferences 
-  - https://github.com/rambler-ios/RamblerConferences
-- To do: A to-do list application in viper. 🔥🔥🔥
-  - https://github.com/objcio/issue-13-viper
-  - https://www.objc.io/issues/13-architecture/viper/
+  <details><summary>https://github.com/rambler-ios/RamblerConferences</summary>
+  Added March  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Tip Calculator: Calculate tip & split the bill between any number of people, uses Viper [` App Store`](https://itunes.apple.com/app/id1139456857) 
+  <details><summary>https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c</summary>
+  Added August  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Tip Calculator image 1](https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png)
+  </details>
+- To do: A to-do list app using Viper 🔥🔥🔥
+  <details><summary>https://github.com/objcio/issue-13-viper</summary>
+  Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://www.objc.io/issues/13-architecture/viper/
+  </details>
 
 ### Xamarin 
  
 [back to top](#readme) 
  
-- Toggl Timer 🔥
-  - https://github.com/toggl/mobile
-  - https://itunes.apple.com/app/toggl-timer/id885767775
+- Toggl Timer [` App Store`](https://itunes.apple.com/app/toggl-timer/id885767775) 🔥
+  <details><summary>https://github.com/toggl/mobile</summary>
+  Added December  7, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
 
-## Bonus
+## Misc 
+ 
+[back to top](#readme) 
+ 
+- A Menjar: Food menu [` App Store`](https://itunes.apple.com/app/a-menjar!/id816473131) 🇪🇸
+  <details><summary>https://github.com/maurovc/aMenjar</summary>
+  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- bar: Cocktail menu `Swift` 
+  <details><summary>https://github.com/soffes/bar</summary>
+  Added January 26, 2015<br>  License: `other`
+  </details>
+- Be my eyes: Connect blind people with volunteer helpers via live video chat [` App Store`](https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575) 🔥🔥
+  <details><summary>https://github.com/bemyeyes/bemyeyes-ios</summary>
+  Added October 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- BlogQuest: Alternative Tumblr client 
+  <details><summary>https://github.com/irace/BlogQuest</summary>
+  Added March 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Borrowed Books UFGRS: Manage ufrgs.br library books using `Alamofire` `Swift` 🇵🇹
+  <details><summary>https://github.com/MatheusCavalca/RenovaLivrosUFRGS</summary>
+  Added March 20, 2016<br>  License: `other`
+  </details>
+- CardDecks: Configurable card decks 
+  <details><summary>https://github.com/aharren/CardDecks</summary>
+  Added April 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Colo: Color themes hunter 
+  <details><summary>https://github.com/wongzigii/Colo</summary>
+  Added March 16, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- DeckRocket: Turn your iPhone into a remote for Deckset presentations `Swift` 🔥🔥
+  <details><summary>https://github.com/jpsim/DeckRocket</summary>
+  Added March 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- FreeRDP: An implementation of the Remote Desktop Protocol (RDP) 🔥🔥🔥🔥
+  <details><summary>https://github.com/FreeRDP/FreeRDP</summary>
+  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  http://www.freerdp.com/
+  </details>
+- GammaThingy: Change screen gamma dynamically 🔥🔥🔥
+  <details><summary>https://github.com/thomasfinch/GammaThingy</summary>
+  Added November 21, 2015<br>  License: `other`
+  </details>
+- Good Living Guide: home snacks, gifts, beauty, shopping.. [` App Store`](https://itunes.apple.com/app/id1021442122) `Swift` 🇨🇳🔥
+  <details><summary>https://github.com/hrscy/DanTang</summary>
+  Added August  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- GoodNight: Change screen gamma dynamically 🔥🔥🔥
+  <details><summary>https://github.com/anthonya1999/GoodNight</summary>
+  Added December 23, 2015<br>  License: `other`
+  </details>
+- Hackfoldr: Hackfoldr is your hacking briefcase, share all your project documents with a url [` App Store`](https://itunes.apple.com/app/hackfoldr/id919010837) 
+  <details><summary>https://github.com/hackfoldr/hackfoldr-iOS</summary>
+  Added July 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://hackfoldr.org
+  </details>
+- Hidrate: Interacts with smart water bottle 
+  <details><summary>https://github.com/mjcuva/Hidrate</summary>
+  Added May  3, 2016<br>  License: `other`
+  </details>
+- iContactU: Reminds you to contact people you ought to [` App Store`](https://itunes.apple.com/app/icontactu/id920200100) `Swift` 🔥
+  <details><summary>https://github.com/rizal72/iContactU</summary>
+  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- iCopyPasta: Pasteboard feed `Swift` 
+  <details><summary>https://github.com/alltheflow/iCopyPasta</summary>
+  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- iGrades: Track your class grades [` App Store`](https://itunes.apple.com/app/id816987574) 
+  <details><summary>https://github.com/maurovc/iGrades</summary>
+  Added March 16, 2015<br>  License: `other`
+  </details>
+- Jupp: App with share extension for ADN [` App Store`](https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740) `Swift` 
+  <details><summary>https://github.com/dasdom/Jupp</summary>
+  Added February 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- LibreOffice Remote for Impress: Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely [` App Store`](https://itunes.apple.com/app/id806879890) 
+  <details><summary>https://cgit.freedesktop.org/libreoffice/impress_remote/</summary>
+  Added June  2, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  </details>
+- Mirror++: Minimalist mirror `Swift` 
+  <details><summary>https://github.com/nathunsmitty/MirrorPlusPlus</summary>
+  Added January  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- my41: HP-41C/CV/CX Microcode emulator [` App Store`](https://itunes.apple.com/app/my41cx/id979041950) 
+  <details><summary>https://github.com/mperovic/my41</summary>
+  Added February 19, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- openHAB: Vendor and technology agnostic home automation [` App Store`](https://itunes.apple.com/app/id492054521) 
+  <details><summary>https://github.com/openhab/openhab.ios</summary>
+  Added June  2, 2016<br>  License: [`epl-1.0`](http://choosealicense.com/licenses/epl-1.0/)<br>  http://www.openhab.org/
+  </details>
+- ownCloud: File browser and sync for ownCloud file hosting service [` App Store`](https://itunes.apple.com/app/owncloud/id543672169) 🔥🔥
+  <details><summary>https://github.com/owncloud/ios</summary>
+  Added May 18, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- Phonetic: Add phonetic keys for Chinese names 🔥🔥
+  <details><summary>https://github.com/iAugux/Phonetic</summary>
+  Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Runner-Stats: iPhone app to record running data [` App Store`](https://itunes.apple.com/app/runner-stats/id793443821) 
+  <details><summary>https://github.com/hukun01/Runner-Stats</summary>
+  Added October 12, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- Seafile Pro: App for Seafile (self-hosted file sharing) [` App Store`](https://itunes.apple.com/app/id639202512) 
+  <details><summary>https://github.com/haiwen/seafile-iOS</summary>
+  Added June  1, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  https://www.seafile.com/en/home/
+  </details>
+- Send To Me: Share content to your email with a single tap [` App Store`](https://itunes.apple.com/app/id1100027787) `Swift` 
+  <details><summary>https://github.com/PiXeL16/SendToMe</summary>
+  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Swiflytics: See your realtime Google Analytics data [` App Store`](https://itunes.apple.com/app/swiflytics/id1076165139) `Swift` 
+  <details><summary>https://github.com/aciidb0mb3r/Swiflytics</summary>
+  Added April 26, 2016<br>  License: `other`
+  </details>
+- Tether: Tethering for non-jailbroken iOS Devices over USB 🔥
+  <details><summary>https://github.com/chrisballinger/Tether-iOS</summary>
+  Added December 17, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- TheReservist: Check availability of iPhones `Swift` 
+  <details><summary>https://github.com/kimar/TheReservist</summary>
+  Added April  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- TrollDrop: AirDrop trollfaces to everyone 
+  <details><summary>https://github.com/a2/TrollDrop</summary>
+  Added May  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Vinylogue: Simple Last.fm app [` App Store`](https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119) 🔥
+  <details><summary>https://github.com/twocentstudios/vinylogue</summary>
+  Added January 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+- WaniKani: Learn kanji with https://www.wanikani.com/ [` App Store`](https://itunes.apple.com/app/wanikani/id1034355141) `Swift` 
+  <details><summary>https://github.com/haawa799/WaniKani-iOS</summary>
+  Added May  3, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+- YaleMobile: App for Yale University students [` App Store`](https://itunes.apple.com/app/yale-mobile/id497588523) 
+  <details><summary>https://github.com/kiokoo/YaleMobile</summary>
+  Added July 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Yorkie: Helps you take care of your dog [` App Store`](https://itunes.apple.com/app/Yorkie/id1000836606) 
+  <details><summary>https://github.com/carlbtrn/YorkieApp</summary>
+  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 
-See [archive](ARCHIVE.md), [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) and [android-apps](https://github.com/pcqpcq/open-source-android-apps).
+### Calculator 
+ 
+[back to top](#readme) 
+ 
+- Calculator: React Native calculator 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/benoitvallon/react-native-nw-react-calculator</summary>
+  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Free42: A re-implementation of the HP-42S Calculator and the HP-82240 printer [` App Store`](https://itunes.apple.com/app/id337692629) 
+  <details><summary>http://thomasokken.com/free42/download/free42.tgz</summary>
+  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  http://thomasokken.com/free42/
+  </details>
+- NumberPad: An experimental prototype calculator for iPad 
+  <details><summary>https://github.com/bridger/NumberPad</summary>
+  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- Round & Split: Tip Calculator [` App Store`](https://itunes.apple.com/app/round-split/id912288737) `Swift` 
+  <details><summary>https://github.com/lukhnos/roundandsplit</summary>
+  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- SIP Calculator: Calculate the future value of SIP (Systematic Investment Plan) payments [` App Store`](https://itunes.apple.com/app/id1092822415) `Swift` 
+  <details><summary>https://github.com/tirupati17/sip-calculator-swift</summary>
+  Added July 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+### Clock 
+ 
+[back to top](#readme) 
+ 
+- Fibonacc iClock: A clock based off the famous Fibonacci sequence 
+  <details><summary>https://github.com/scribblemaniac/Fibonacc-iClock</summary>
+  Added May 23, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa `Swift` 
+  <details><summary>https://github.com/nottombrown/HausClock</summary>
+  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Natural Language Clock: Display the time as you would speak it `Swift` 
+  <details><summary>https://github.com/chadkeck/Natural-Language-Clock</summary>
+  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Population Clock: Learn about geography and demographics [` App Store`](https://itunes.apple.com/app/population-clock-hd/id590689957) 
+  <details><summary>https://github.com/Netfilter-Com/PopulationClock</summary>
+  Added March  2, 2016<br>  License: `other`
+  </details>
+- SwiftTextClock: Inspired by the beautiful QlockTwo `Swift` 
+  <details><summary>https://github.com/MichMich/SwiftTextClock</summary>
+  Added June 18, 2016<br>  License: `other`
+  </details>
+
+### Scan 
+ 
+[back to top](#readme) 
+ 
+- QR Blank: No ads simple QR code URL scanner [` App Store`](https://itunes.apple.com/app/id1137064763) `Swift` 
+  <details><summary>https://github.com/kahopoon/QR-Blank</summary>
+  Added August 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://www.kahopoon.net<br>  ![QR Blank image 1](https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif)<br>  ![QR Blank image 2](https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg)<br>  ![QR Blank image 3](https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg)
+  </details>
+- ZBar Barcode Reader: A comprehensive barcode reader [` App Store`](https://itunes.apple.com/app/id344957305) 
+  <details><summary>https://sourceforge.net/projects/zbar/</summary>
+  Added June  1, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)<br>  http://zbar.sourceforge.net/
+  </details>
+
+### Timer 
+ 
+[back to top](#readme) 
+ 
+- Cherry: Mini Pomodoro Timer `Swift` 🔥🔥
+  <details><summary>https://github.com/kenshin03/Cherry</summary>
+  Added February 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Coffee Timer `Swift` 
+  <details><summary>https://github.com/ashfurrow/yourfirstswiftapp</summary>
+  Added April  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693) `Swift` 🔥🔥
+  <details><summary>https://github.com/dasdom/Tomate</summary>
+  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- TrackMyTime 
+  <details><summary>https://github.com/EvgenyKarkan/TrackMyTime</summary>
+  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+## Bonus 
+ 
+[back to top](#readme) 
+ 
+- awesome-macOS 🔥🔥🔥🔥🔥
+  - https://github.com/iCHAIT/awesome-macOS
+- open-source-android-apps 🔥🔥🔥🔥🔥
+  - https://github.com/pcqpcq/open-source-android-apps
+- open-source-ios-apps archive: Projects that are no longer maintained 
+  - https://github.com/dkhamsing/open-source-ios-apps/blob/master/ARCHIVE.md
 
 ## Thanks
 

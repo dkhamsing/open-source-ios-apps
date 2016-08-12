@@ -41,6 +41,10 @@ def output_apps(apps)
       stars = a['stars']
       lang = a['lang']
 
+      date_added = a['date_added']
+      screenshots = a['screenshots']
+      license = a['license']
+
       o << "- #{name}"
 
       if desc.nil?
@@ -49,8 +53,12 @@ def output_apps(apps)
         o << ": #{desc} " if desc.size>0
       end
 
+      unless itunes.nil?
+        o << "[` App Store`](#{itunes}) "
+      end
+
       unless tags.nil?
-        o << "🔶" if tags.include? 'swift'
+        o << '`Swift` ' if tags.include? 'swift'
       end
 
       unless lang.nil?
@@ -62,11 +70,53 @@ def output_apps(apps)
       end
 
       o << "\n"
-      o << "  - #{link}\n"
-      o << "  - #{homepage}\n" unless homepage.nil?
-      o << "  - #{itunes}\n" unless itunes.nil?
+
+      show_details = !homepage.nil? || !screenshots.nil? || !license.nil? || !date_added.nil?
+
+      if (!show_details)
+        o << "  - #{link}\n"
+      else
+        details = "  <details><summary>#{link}</summary>\n"
+
+        details_list = []
+        unless date_added.nil?
+          date = DateTime.parse(date_added)
+          formatted_date = date.strftime "%B %e, %Y"
+          details_list.push "Added #{formatted_date}"
+        end
+
+        unless license.nil?
+          license_display = license=='other'? "`#{license}`" : "[`#{license}`](http://choosealicense.com/licenses/#{license}/)"
+          details_list.push "License: #{license_display}"
+        end
+
+        unless homepage.nil?
+          details_list.push homepage
+        end
+
+        details << '  '
+        details << details_list[0]
+        details_list[1..-1].each { |x| details << "<br>  #{x}" }
+
+        unless screenshots.nil?
+          screenshots.each_with_index do |s, i|
+            details << "<br>  ![#{name} image #{i+1}](#{screenshots[i]})" unless screenshots.nil?
+          end
+        end
+
+        details << "\n  </details>\n"
+        o << details
+      end
   end
   o
+end
+
+def output_badges(count)
+  date = DateTime.now
+  date_display = date.strftime "%B %e, %Y"
+
+  b = "![](https://img.shields.io/badge/Projects-#{count}-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-#{date_display}-lightgrey.svg)"
+  b
 end
 
 def output_flag(lang)
@@ -80,7 +130,7 @@ def output_flag(lang)
   when 'nld'
     '🇳🇱'
   when 'por'
-    '🇧🇷'
+    '🇵🇹'
   when 'spa'
     '🇪🇸'
   when 'zho'
@@ -109,22 +159,20 @@ end
 
 def write_readme(j)
   t    = j['title']
+  subt = j['subtitle']
   desc = j['description']
   h    = j['header']
   f    = j['footer']
   cats = j['categories']
   apps = j['projects']
 
-  date = DateTime.now
-  date_display = date.strftime "%B %e, %Y"
-
   output = '# ' + t
   output << "\n\n"
   output << desc
-  output << "\n\nA collaborative list of **#{apps.count}** open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: "
-  output << "(last update *#{date_display}*)."
+  output << "\n\n#{subt}\n\n"
+  output << output_badges(apps.count)
 
-  output << "\n \nJump to \n \n"
+  output << "\n\nJump to\n\n"
 
   cats.each do |c|
     title = c['title']
@@ -134,7 +182,8 @@ def write_readme(j)
     output << temp
   end
 
-  output << "- [Bonus](#bonus) \n"
+  output << "- [Thanks](#thanks)\n"
+  output << "- [Contact](#contact)\n"
 
   output << "\n"
   output << h
