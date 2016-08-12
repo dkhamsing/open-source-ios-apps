@@ -1499,7 +1499,7 @@
     },
     {
       "title": "Conway's Game of Life",
-      "category": "spritekit",
+      "category": ["game", "spritekit"],
       "license": "mit",
       "source": "https://github.com/yonbergman/swift-gameoflife",
       "tags": [
@@ -4949,11 +4949,10 @@
       "suggested_by": "@yoshisuga"
     },
     {
-      "title": "Scary Flight",
+      "title": "FlappyBird clone - Scary Flight",
       "category": [
         "game"
       ],
-      "description": "Just another yet FlappyBird-style game",
       "license": "mit",
       "source": "https://github.com/EvgenyKarkan/ScaryFlight",
       "itunes": "https://itunes.apple.com/app/scary-flight/id824428528",
