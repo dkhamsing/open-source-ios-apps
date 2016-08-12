@@ -1371,7 +1371,7 @@
     {
       "title": "Bridges",
       "category": "game",
-      "description": "A puzzle game with bridges, houses, tolls, and subways",
+      "description": "A puzzle game with bridges, houses, tolls & subways",
       "source": "https://github.com/zgrossbart/bridges",
       "itunes": "https://itunes.apple.com/app/seven-bridges/id586598714",
       "stars": 155,
@@ -1406,7 +1406,7 @@
     {
       "title": "Chess",
       "category": "game",
-      "description": "Chess game to learn SpriteKit",
+      "description": "Uses SpriteKit",
       "source": "https://github.com/mjcuva/Chess",
       "tags": [
         "swift"
@@ -1473,7 +1473,7 @@
     {
       "title": "Five In A Row (五子棋)",
       "category": "game",
-      "description": "SpriteKit game",
+      "description": "Uses SpriteKit",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/WelkinXie/FiveInARow",
@@ -1510,7 +1510,7 @@
     },
     {
       "title": "GBA4iOS",
-      "category": "game",
+      "category": "emulator",
       "description": "Gameboy, Gameboy Color & Gameboy Advance emulator",
       "source": "https://bitbucket.org/rileytestut/gba4ios/",
       "license": "other",
@@ -1520,7 +1520,7 @@
     {
       "title": "Gorillas",
       "category": "game",
-      "description": "An iPhone (or iPod touch) port of the popular old QBasic game with spunk!",
+      "description": "An iPhone port of the popular old QBasic game with spunk",
       "source": "https://github.com/Lyndir/Gorillas",
       "homepage": "http://gorillas.lyndir.com/",
       "itunes": "https://itunes.apple.com/app/gorillas/id302275459",
@@ -1532,7 +1532,7 @@
     {
       "title": "GrubbyWorm",
       "category": "game",
-      "description": "A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2",
+      "description": "A simple digital worm game made with iOS 9, SpriteKit, GameplayKit & ReplayKit, written in Swift 2",
       "source": "https://github.com/gamechina/GrubbyWorm",
       "tags": [
         "swift"
@@ -1545,7 +1545,7 @@
     {
       "title": "littlego",
       "category": "game",
-      "description": "Play the game of Go on the iPhone or iPad",
+      "description": "Play the game of Go on iPhone/iPad",
       "license": "apache-2.0",
       "source": "https://github.com/herzbube/littlego",
       "stars": 57,
@@ -1576,7 +1576,7 @@
     {
       "title": "Orbit7",
       "category": "game",
-      "description": "Game created in SpriteKit",
+      "description": "Uses SpriteKit",
       "source": "https://github.com/Mav3r1ck/Orbit7",
       "tags": [
         "swift"
@@ -1589,7 +1589,7 @@
     {
       "title": "Sakura Fly",
       "category": "game",
-      "description": "Action game created in SpriteKit",
+      "description": "Action game, uses SpriteKit",
       "source": "https://github.com/l800891/Sakura-Fly",
       "itunes": "https://itunes.apple.com/app/sakura-fly/id1019023051",
       "stars": 19,
@@ -1623,7 +1623,7 @@
     {
       "title": "Stick-Hero-Swift",
       "category": "game",
-      "description": "iPhone/iPad iOS Game using SpriteKit",
+      "description": "iPhone/iPad game, uses SpriteKit",
       "license": "mit",
       "source": "https://github.com/phpmaple/Stick-Hero-Swift",
       "stars": 326,
@@ -5017,7 +5017,7 @@
     {
       "title": "Balloon Burst",
       "category": "game",
-      "description": "A simple game to use in learning Cocos2D",
+      "description": "Uses Cocos2D",
       "source": "https://github.com/jamiely/ios-balloon-burst",
       "license": "other",
       "stars": 10,
@@ -5302,7 +5302,7 @@
     {
       "title": "Pterodactyl Attack",
       "category": "game",
-      "description": "Blast your way through waves of pterodactyls (has a detailed writeup on how it's made)",
+      "description": "Blast your way through waves of pterodactyls, includes detailed writeup on how it's made",
       "source": "https://github.com/shaunlebron/PterodactylAttack",
       "homepage": "https://shaunlebron.github.io/pteroattack.com/",
       "itunes": "https://itunes.apple.com/app/pterodactyl-attack/id786862892",
@@ -5325,7 +5325,7 @@
     {
       "title": "Hostile Takeover",
       "category": "game",
-      "description": "A release of the Real Time Strategy game Warfare Incorporated",
+      "description": "A release of the real time strategy game Warfare Incorporated",
       "source": "https://github.com/spiffcode/hostile-takeover",
       "license": "bsd-2-clause",
       "stars": 76,
@@ -6219,7 +6219,7 @@
     {
       "title": "DropColour Game in Swift 2.2",
       "category": "game",
-      "description": "Arcade game in which you simply have to drag and drop one circle onto another of the same color",
+      "description": "Drag and drop one circle onto another of the same color",
       "source": "https://github.com/elpassion/DropColour-iOS",
       "itunes": "https://itunes.apple.com/app/dropcolour/id1046339763",
       "stars": 44,
