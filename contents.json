@@ -30,10 +30,6 @@
       "id": "conference"
     },
     {
-      "title": "Content Blocking",
-      "id": "content-blocking"
-    },
-    {
       "title": "Developer",
       "id": "developer"
     },
@@ -45,6 +41,11 @@
     {
       "title": "Extension",
       "id": "extension"
+    },
+    {
+      "title": "Content Blocking",
+      "id": "content-blocking",
+      "parent": "extension"
     },
     {
       "title": "Finance",
