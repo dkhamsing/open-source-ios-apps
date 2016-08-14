@@ -9,6 +9,8 @@
   <!-- TODO theme switching -->
   <!-- TODO search feature -->
   <!-- TODO filter feature -->
+  <!-- TODO add flags -->
+  <!-- TODO add loading bar to prevent freezing -->
   <title>Open Source iOS Apps</title>
   <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/ui-lightness/jquery-ui.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -17,7 +19,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/emojione/2.2.6/assets/css/emojione.min.css"/>
   <style type="text/css">
 body {
-	padding-top: 70px;
+ padding-top: 70px;
 }
 
 .toc-item {
@@ -25,23 +27,27 @@ body {
 }
 
 .toc-item-bullet {
-	padding-right: 4px;
+ padding-right: 4px;
 }
 
 .toc-item-content {
-	flex-grow: 1;
+ flex-grow: 1;
 }
 
 #main-content .list-group-item {
-	cursor: pointer;
+ cursor: pointer;
 }
 
 #main-content .title {
-	cursor: default;
+ cursor: default;
 }
 
 .details {
-	display: none;
+ display: none;
+}
+
+.category-wrapper {
+ padding-top: 25px;
 }
   </style>
   <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
@@ -51,6 +57,22 @@ body {
   <script type="text/javascript">
 function updateNavigationPadding() {
     $(document.body).css("padding-top", $("#main-nav").outerHeight() + 15);
+}
+
+function starString(starCount) {
+	if(starCount == null) return "";
+	
+	var starLimit = [100, 200, 500, 1000, 2000];
+	
+	var starResult = [""];
+	for(var i = 1; i <= starLimit.length; i++) {
+		starResult[i] = starResult[i-1] + ":star:";
+	}
+	
+	var i = 0;
+	while(starCount >= starLimit[i] && i < starLimit.length) i++;
+	
+ 	return starResult[i];
 }
 
 $(document).ready(function() {
@@ -72,6 +94,7 @@ $(document).ready(function() {
 			}
 			else {
 				$("#toc").append(categoryElements[currentCategory.id]);
+				$("#main-content").append($("<div class=\"category-wrapper\" id=\"category-" + currentCategory.id + "\"><div class=\"list-group-item title\"><h2 class=\"list-group-item-heading\">" + currentCategory.title + "</h2>" + (typeof currentCategory.description != "undefined" ? "<p class=\"list-group-item-text\">" + currentCategory.description + "</p>" : "") + "</div></div>"));
 			}
 		}
 
@@ -79,9 +102,29 @@ $(document).ready(function() {
 		$(".toc-item-bullet").addClass("glyphicon glyphicon-menu-right");
 
 		// Create and add apps
+		for(var i = 0; i < data.projects.length; i++) {
+			var currentProject = data.projects[i];
+			
+			if(currentProject.category.constructor !== Array) {
+				currentProject.category = [currentProject.category];
+			}
+			for(var j = 0; j < currentProject.category.length; j++) {
+				var licenseMap = { "mit": "https://opensource.org/licenses/MIT", "mpl-2.0": "https://opensource.org/licenses/MPL-2.0", "gpl-3.0": "https://opensource.org/licenses/BSD-3-Clause", "lgpl-3.0": "https://opensource.org/licenses/LGPL-3.0", "unlicense": "http://unlicense.org/", "bsd-2-clause": "https://opensource.org/licenses/BSD-2-Clause", "isc": "https://opensource.org/licenses/ISC", "lgpl-2.1": "https://opensource.org/licenses/LGPL-2.1", "gpl-2.0": "https://opensource.org/licenses/GPL-2.0", "apache-2.0": "https://opensource.org/licenses/Apache-2.0", "cc0-1.0": "https://creativecommons.org/publicdomain/zero/1.0/deed.en", "artistic-2.0": "https://opensource.org/licenses/Artistic-2.0", "bsd-3-clause": "https://opensource.org/licenses/BSD-3-Clause", "agpl-3.0": "https://opensource.org/licenses/AGPL-3.0", "epl-1.0": "https://opensource.org/licenses/EPL-1.0" };
+				
+				$("#category-" + currentProject.category[j]).append($("<div class=\"list-group-item\"><h4 class=\"list-group-item-heading\">" + currentProject.title + "</h4><p class=\"list-group-item-text\">" + (typeof currentProject.description != "undefined" ? currentProject.description + " " : "") + "<span class=\"stars\" title=\"" + currentProject.stars + " Stars\">" + starString(currentProject.stars) + "</span>" + (typeof currentProject.itunes != "undefined" ? "<span title=\"Available on the App Store\">&#128241;</span>" : "") + "</p><p class=\"list-group-item-text details\">" + (typeof currentProject.itunes == "undefined" ? "" : "iTunes: <a href=\"" + currentProject.itunes + "\">" + currentProject.itunes + "</a><br />") + "Source: <a href=\"" + currentProject.source + "\">" + currentProject.source + "</a><br />License: " + (licenseMap.hasOwnProperty(currentProject.license) ? "<a href=\"" + licenseMap[currentProject.license] + "\">" + currentProject.license + "</a>" : currentProject.license) + "<br />Suggested by <a href=\"https://github.com/" + currentProject.suggested_by + "\">" + currentProject.suggested_by + "</a> on <span class=\"text-info\">" + (new Date(currentProject.date_added)).toDateString() + "</span></p></div>"));
+				// Increment category badge
+				var badge = categoryElements[currentProject.category[j]].children("h4").children(".badge");
+				badge.html(Number(badge.html()) + 1);
+			}
+		}
 
 		// Convert shortcodes and unicode characters to nice looking emojis
 		$(document.body).html(emojione.toImage($(document.body).html()));
+		// Workaround for stars not being updated for some reason
+		$(".stars").each(function() {
+			$(this).html(emojione.toImage($(this).html()));
+		});
+		
 		// Workaround for when the file is being loaded offline
 		$(".emojione[src]").each(function() {
 			if($(this).attr("src").startsWith("//")) {
@@ -141,16 +184,7 @@ $(document).ready(function() {
    <h1>Table of Contents</h1>
   </div>
 
-  <div id="main-content" class="container list-group">
-   <div class="list-group-item title">
-    <h2 class="list-group-item-heading">Apple TV</h2>
-   </div>
-   <div class="list-group-item">
-    <h4 class="list-group-item-heading">Artsy Shows</h4>
-    <p class="list-group-item-text">Art shows on your TV :star::star:&#128241;</p>
-    <p class="list-group-item-text details">More information on Artsy Shows</p>
-   </div>
-  </div>
+  <div id="main-content" class="container list-group"></div>
 
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
  </body>
