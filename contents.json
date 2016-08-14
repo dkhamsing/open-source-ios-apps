@@ -5337,6 +5337,7 @@
       "homepage": "http://7b5labs.com/xpilotiphone",
       "itunes": "https://itunes.apple.com/app/id322114791",
       "license": "gpl-2.0",
+      "tags": ["archive"],
       "date_added": "Wed Jun 1 22:18:46 2016 -0600",
       "suggested_by": "@scribblemaniac"
     },
