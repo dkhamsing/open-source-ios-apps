@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- TODO add meta description -->
+  <!-- TODO add favicon -->
+  <!-- TODO theme switching -->
+  <!-- TODO search feature -->
+  <!-- TODO filter feature -->
+  <title>Open Source iOS Apps</title>
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/ui-lightness/jquery-ui.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/sandstone/bootstrap.min.css" rel="stylesheet" integrity="sha384-G3G7OsJCbOk1USkOY4RfeX1z27YaWrZ1YuaQ5tbuawed9IoreRDpWpTkZLXQfPm3" crossorigin="anonymous">
+  <link href="http://cdn.staticfile.org/emoji/0.2.2/emoji.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/emojione/2.2.6/assets/css/emojione.min.css"/>
+  <style type="text/css">
+body {
+	padding-top: 70px;
+}
+
+.toc-item {
+ display: flex;
+}
+
+.toc-item-bullet {
+	padding-right: 4px;
+}
+
+.toc-item-content {
+	flex-grow: 1;
+}
+
+#main-content .list-group-item {
+	cursor: pointer;
+}
+
+#main-content .title {
+	cursor: default;
+}
+
+.details {
+	display: none;
+}
+  </style>
+  <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js" integrity="sha256-eGE6blurk5sHj+rmkfsGYeKyZx3M4bG+ZlFyA7Kns7E=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/emojione/2.2.6/lib/js/emojione.min.js"></script>
+  <script src="https://use.fontawesome.com/f64017bd34.js"></script>
+  <script type="text/javascript">
+function updateNavigationPadding() {
+    $(document.body).css("padding-top", $("#main-nav").outerHeight() + 15);
+}
+
+$(document).ready(function() {
+	// Fetch latest contents.json file
+	$.get("https://raw.githubusercontent.com/dkhamsing/open-source-ios-apps/master/contents.json", function(data) {
+		// Set a global variable for easier debugging
+		d = data;
+
+		// Update app count
+		$("#app-count").text(data.projects.length);
+
+		// Create and add table of contents items
+		categoryElements = {};
+		for(var i = 0; i < data.categories.length; i++) {
+			var currentCategory = data.categories[i];
+			categoryElements[currentCategory.id] = $("<div class=\"toc-item\"><h4 class=\"toc-item-bullet\"></h4><div class=\"toc-item-content\"><h4><a href=\"#category-" + currentCategory.id + "\">" + currentCategory.title + "</a> <span class=\"badge\">0</span></h4>" + (typeof currentCategory.description != "undefined" ? "<p>" + currentCategory.description + "</p>" : "") + "</div></div>");
+			if(typeof currentCategory.parent != "undefined") {
+				categoryElements[currentCategory.parent].children(".toc-item-content").append(categoryElements[currentCategory.id]);
+			}
+			else {
+				$("#toc").append(categoryElements[currentCategory.id]);
+			}
+		}
+
+		// Add icons to toc-item-bullet classes
+		$(".toc-item-bullet").addClass("glyphicon glyphicon-menu-right");
+
+		// Create and add apps
+
+		// Convert shortcodes and unicode characters to nice looking emojis
+		$(document.body).html(emojione.toImage($(document.body).html()));
+		// Workaround for when the file is being loaded offline
+		$(".emojione[src]").each(function() {
+			if($(this).attr("src").startsWith("//")) {
+				$(this).attr("src", "https:" + $(this).attr("src"));
+			}
+		});
+
+		// Add app show more links
+		$("#main-content .list-group-item").click(function() {
+			$(this).children(".details").toggle("blind");
+		});
+	}, "json").fail(function() {
+		// TODO Handle error gracefully
+	});
+
+	// Register event to to top padding
+	$(window).resize(updateNavigationPadding);
+	// Check the nav size now
+	updateNavigationPadding();
+});
+  </script>
+ </head>
+ <body>
+  <nav class="navbar navbar-default navbar-fixed-top">
+   <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+     <span class="navbar-brand" href="#">Open Source iOS Apps</span>
+    </div>
+    <div id="main-nav" class="navbar-collapse collapse">
+     <ul class="nav navbar-nav">
+      <li><a href="#about">About</a></li>
+      <li><a href="#toc">Table of Contents</a></li>
+      <li><a href="#">Credit</a></li>
+     </ul>
+     <ul class="nav navbar-nav navbar-right">
+      <!-- TODO add icons -->
+      <li><a href="https://github.com/dkhamsing/open-source-ios-apps" target="_blank"><span class="fa fa-github" aria-hidden="true"></span> Github</a></li>
+      <li><a href="https://twitter.com/opensourceios" target="_blank"><span class="fa fa-twitter" aria-hidden="true"></span> Twitter</a></li>
+     </ul>
+    </div>
+   </div>
+  </nav>
+
+  <div id="about" class="container">
+   <div class="jumbotron">
+    <h1>Open Source iOS Apps</h1>
+    <p>A collaborative list of <span id="app-count" class="text-primary"></span> open-source <code>iOS</code>, <code>watchOS</code> and <code>tvOS</code> apps, your contribution is welcome :smile:</p>
+   </div>
+  </div>
+
+  <div id="toc" class="container">
+   <h1>Table of Contents</h1>
+  </div>
+
+  <div id="main-content" class="container list-group">
+   <div class="list-group-item title">
+    <h2 class="list-group-item-heading">Apple TV</h2>
+   </div>
+   <div class="list-group-item">
+    <h4 class="list-group-item-heading">Artsy Shows</h4>
+    <p class="list-group-item-text">Art shows on your TV :star::star:&#128241;</p>
+    <p class="list-group-item-text details">More information on Artsy Shows</p>
+   </div>
+  </div>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+ </body>
+</html>
