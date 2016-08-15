@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-536-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 15, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-537-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 15, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1789,6 +1789,10 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/Lax/iOS-Swift-Demos</summary>
   Added April 22, 2016<br>  License: `other`
   </details>
+- youtube-iOS: YouTube app template, uses Swift 3 `Swift` 🔥🔥
+  <details><summary>https://github.com/aslanyanhaik/youtube-iOS</summary>
+  Added August 15, 2016<br>  License: `other`<br>  ![youtube-iOS image 1](https://camo.githubusercontent.com/cfa19d4ba7d4b87e1a1d0a54c1d11d0761b69ae7/687474703a2f2f692e67697068792e636f6d2f687743616848414431744e48612e676966)
+  </details>
 
 ## Science 
  
@@ -1950,7 +1954,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/likumb/SimpleMemo</summary>
   Added August 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Simplenote: Easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices. Share notes with other users to collaborate on a project together or to access the same list. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962) 🔥
+- Simplenote: Easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices. Share notes with other users to collaborate on a project together or to access the same list. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962) 🔥🔥🔥
   <details><summary>https://github.com/automattic/simplenote-ios</summary>
   Added August 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://simplenote.com/<br>  ![Simplenote image 1](https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg)
   </details>
@@ -2157,7 +2161,7 @@ Image, video, audio, reading — [back to top](#readme)
   Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
   </details>
 - Anypic in Swift `Swift` 
-  <details><summary>https://github.com/kwkhaw/SwiftAnyPic</summary>
+  <details><summary>https://github.com/SwiftAnyPic/SwiftAnyPic</summary>
   Added November  2, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
   </details>
 - AnyWall: A fun geolocation app built with Parse [` App Store`](https://itunes.apple.com/app/anywall/id520955490) 🔥🔥
