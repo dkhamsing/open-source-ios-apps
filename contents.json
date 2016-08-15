@@ -1546,7 +1546,7 @@
     {
       "title": "littlego",
       "category": "game",
-      "description": "Play the game of Go on iPhone/iPad",
+      "description": "Game of Go on iPhone/iPad",
       "license": "apache-2.0",
       "source": "https://github.com/herzbube/littlego",
       "stars": 57,
