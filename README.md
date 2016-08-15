@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-536-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 12, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-536-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 15, 2016-lightgrey.svg)
 
 Jump to
 
@@ -758,6 +758,10 @@ Click ► to show more details
   <details><summary>https://github.com/geek5nan/FanFanSwift</summary>
   Added May 14, 2015<br>  License: `other`
   </details>
+- Conway's Game of Life `Swift` 
+  <details><summary>https://github.com/yonbergman/swift-gameoflife</summary>
+  Added March 31, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Conway's Game of Life in Objective-C (Vie) [` App Store`](https://itunes.apple.com/app/vie-conways-game-of-life/id989686123) 
   <details><summary>https://github.com/fabienwarniez/Vie</summary>
   Added July 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -785,6 +789,10 @@ Click ► to show more details
 - Dungeon Crawl: A game of dungeon exploration, combat and magic, involving characters of diverse skills 
   <details><summary>https://github.com/CliffsDover/crawl</summary>
   Added March 23, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://github.com/CliffsDover/crawl/tree/iOS_Release
+  </details>
+- FlappyBird clone - Scary Flight [` App Store`](https://itunes.apple.com/app/scary-flight/id824428528) 
+  <details><summary>https://github.com/EvgenyKarkan/ScaryFlight</summary>
+  Added May 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - FlappySwift: Swift implementation of Flappy Bird `Swift` 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/fullstackio/FlappySwift</summary>
@@ -850,10 +858,6 @@ Click ► to show more details
   <details><summary>https://github.com/JakeLin/SaveTheDot</summary>
   Added June 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Scary Flight: Just another yet FlappyBird-style game [` App Store`](https://itunes.apple.com/app/scary-flight/id824428528) 
-  <details><summary>https://github.com/EvgenyKarkan/ScaryFlight</summary>
-  Added May 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - SceneKitFrogger `Swift` 
   <details><summary>https://github.com/devindazzle/SceneKitFrogger</summary>
   Added August  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -881,10 +885,6 @@ Click ► to show more details
 - Wolfenstein 3D: Wolfenstein 3D for iOS [` App Store`](https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478) 🔥🔥
   <details><summary>https://github.com/id-Software/Wolf3D-iOS</summary>
   Added May 19, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  </details>
-- XPilot: An iPhone port of the classic XPilot game [` App Store`](https://itunes.apple.com/app/id322114791) 
-  <details><summary>http://7b5labs.com/xpilot.git/</summary>
-  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  http://7b5labs.com/xpilotiphone
   </details>
 
 ### SpriteKit 
