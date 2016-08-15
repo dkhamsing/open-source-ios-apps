@@ -13,8 +13,7 @@ c = {
         }
     }
 
-exit
-twitter_delete(c) do |o|
+DeleteMyTweets.twitter_delete(c) do |o|
   puts o
 end
 puts 'all done 🐤'
