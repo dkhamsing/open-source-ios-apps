@@ -1587,12 +1587,13 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Sakura Fly action game",
+      "title": "Sakura Fly",
       "category": "spritekit",
       "source": "https://github.com/l800891/Sakura-Fly",
       "itunes": "https://itunes.apple.com/app/sakura-fly/id1019023051",
       "stars": 19,
       "license": "mit",
+      "screenshots": ["https://cloud.githubusercontent.com/assets/6619146/13731560/965791fe-e942-11e5-9a11-f66f404fa18c.gif"],
       "date_added": "Mon Mar 14 09:58:27 2016 -0400",
       "suggested_by": "Chenglin"
     },
