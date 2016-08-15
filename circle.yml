@@ -23,3 +23,5 @@ deployment:
     commands:
       - ruby .github/osia_convert.rb
       - ./.github/deploy.sh
+      - gem install delete_my_tweets
+      - ruby .github/osia_tweet_clean.rb
