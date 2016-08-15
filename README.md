@@ -826,7 +826,7 @@ Click ► to show more details
   <details><summary>https://github.com/RolandasRazma/iLabyrinth</summary>
   Added June  1, 2016<br>  License: `other`
   </details>
-- littlego: Play the game of Go on iPhone/iPad 
+- littlego: Game of Go on iPhone/iPad 
   <details><summary>https://github.com/herzbube/littlego</summary>
   Added March  6, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -913,11 +913,11 @@ Click ► to show more details
   </details>
 - Orbit7 `Swift` 
   <details><summary>https://github.com/Mav3r1ck/Orbit7</summary>
-  Added April  2, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added April  2, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Orbit7 image 1](https://camo.githubusercontent.com/9c5aa602321121d160837fbe8c0af605196810b4/687474703a2f2f73382e706f7374696d672e6f72672f346c377575746f30352f4f72626974375f47616d652e676966)
   </details>
-- Sakura Fly action game [` App Store`](https://itunes.apple.com/app/sakura-fly/id1019023051) 
+- Sakura Fly [` App Store`](https://itunes.apple.com/app/sakura-fly/id1019023051) 
   <details><summary>https://github.com/l800891/Sakura-Fly</summary>
-  Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Sakura Fly image 1](https://cloud.githubusercontent.com/assets/6619146/13731560/965791fe-e942-11e5-9a11-f66f404fa18c.gif)
   </details>
 - Stick-Hero-Swift for iPhone/iPad `Swift` 🔥🔥
   <details><summary>https://github.com/phpmaple/Stick-Hero-Swift</summary>
