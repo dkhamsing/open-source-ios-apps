@@ -6647,6 +6647,18 @@
       "screenshots": ["https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg"],
       "date_added": "Aug 11 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "youtube-iOS",
+      "category": "sample",
+      "description": "YouTube app template, uses Swift 3",
+      "source": "https://github.com/aslanyanhaik/youtube-iOS",
+      "tags": ["swift"],
+      "license": "other",
+      "stars": 334,
+      "screenshots": ["https://camo.githubusercontent.com/cfa19d4ba7d4b87e1a1d0a54c1d11d0761b69ae7/687474703a2f2f692e67697068792e636f6d2f687743616848414431744e48612e676966"],
+      "date_added": "Aug 15 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
