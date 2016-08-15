@@ -3,9 +3,10 @@ rvm: 2.2
 before_script:
   - gem install awesome_bot
   - gem install danger
-script: ruby .github/osia_get_links.rb
-after_script:
+script:
+  - ruby .github/osia_get_links.rb
   - awesome_bot check-unique.txt -a 302 -w xbmc/xbmc
   - awesome_bot check-links.txt --allow-dupe -w wheelmap.org,sourceforge,radioparadise
+after_script:
   - awesome_bot check-info.txt -a 403
   - danger
