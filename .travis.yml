@@ -1,0 +1,5 @@
+language: ruby
+rvm: 2.2
+before_script: gem install awesome_bot
+script: ruby .github/osia_get_links.rb
+after_script: awesome_bot check-info.txt -a 403
