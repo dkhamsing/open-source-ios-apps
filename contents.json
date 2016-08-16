@@ -6671,6 +6671,17 @@
       "screenshots": ["https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif"],
       "date_added": "Aug 15 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "HeartControl",
+      "description": "Continuous heart rate measurement during workouts with watchOS 3",
+      "category": "apple-watch",
+      "source": "https://github.com/thomaspaulmann/HeartControl",
+      "tags": ["swift"],
+      "license": "other",
+      "stars": 24,
+      "date_added": "Aug 16 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
