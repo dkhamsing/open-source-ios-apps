@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-538-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 15, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-539-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 16, 2016-lightgrey.svg)
 
 Jump to
 
@@ -193,6 +193,10 @@ Click ► to show more details
 - Gulps: Track your daily water consumption [` App Store`](https://itunes.apple.com/app/gulps/id979057304) `Swift` 🔥🔥🔥
   <details><summary>https://github.com/FancyPixel/gulps</summary>
   Added April 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- HeartControl: Continuous heart rate measurement during workouts with watchOS 3 `Swift` 
+  <details><summary>https://github.com/thomaspaulmann/HeartControl</summary>
+  Added August 16, 2016<br>  License: `other`
   </details>
 - heartrate: Show streaming heartrate from the watch with `watchOS` 2 `Swift` 🔥🔥
   <details><summary>https://github.com/coolioxlr/watchOS-2-heartrate</summary>
