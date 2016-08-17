@@ -4715,7 +4715,8 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "RailsCasts Videos",
+      "title": "RailsCasts",
+      "description": "Ruby on Rails screencasts from http://railscasts.com/",
       "category": "apple-tv",
       "source": "https://github.com/spritlesoftware/railscasts-on-appletv",
       "stars": 1,
