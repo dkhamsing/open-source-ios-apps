@@ -296,6 +296,7 @@
       "category": "apple-tv",
       "description": "Dutch Public Broadcasting video on demand",
       "source": "https://github.com/jeffkreeftmeijer/UitzendingGemist",
+      "lang": "nld",
       "license": "mit",
       "tags": [
         "swift"
@@ -310,6 +311,7 @@
       "description": "Watch WWDC Videos",
       "source": "https://github.com/azzoor/WWDCTV",
       "stars": 413,
+      "screenshots": ["https://github.com/azzoor/WWDCTV/blob/master/WWDC/screen01.png?raw=true"],
       "license": "other",
       "date_added": "Thu Nov 19 07:47:53 2015 -0800",
       "suggested_by": "@dkhamsing"
@@ -403,6 +405,7 @@
       "license": "mit",
       "source": "https://github.com/kenshin03/Cherry",
       "stars": 346,
+      "screenshots": ["https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png"],
       "tags": [
         "swift"
       ],
@@ -498,7 +501,7 @@
     {
       "title": "heartrate",
       "category": "apple-watch",
-      "description": "Show streaming heartrate from the watch with `watchOS` 2",
+      "description": "Show streaming heart rate from the watch with watchOS 2",
       "source": "https://github.com/coolioxlr/watchOS-2-heartrate",
       "stars": 315,
       "tags": [
@@ -750,8 +753,9 @@
     {
       "title": "Brave",
       "category": "browser",
-      "description": "Firefox-based browser with ad & tracking pixel/cookie blocking built in",
+      "description": "Firefox-based browser with ad block & tracking pixel/cookie block built in",
       "license": "mpl-2.0",
+      "screenshots": ["http://a5.mzstatic.com/us/r30/Purple18/v4/ed/6c/07/ed6c07f4-c9cd-0daa-a331-a39a85ba1c08/screen696x696.jpeg"],
       "source": "https://github.com/brave/browser-ios",
       "itunes": "https://itunes.apple.com/app/brave-web-browser/id1052879175",
       "stars": 399,
@@ -5685,6 +5689,7 @@
       "homepage": "https://mike.tig.as/onionbrowser/",
       "itunes": "https://itunes.apple.com/app/id519296448",
       "license": "mit",
+      "screenshots": ["http://a4.mzstatic.com/us/r30/Purple42/v4/7c/3c/cc/7c3ccc4e-77c8-799a-9058-4b8672c71a08/screen696x696.jpeg"],
       "stars": 711,
       "date_added": "Thu Jun 2 00:42:49 2016 -0600",
       "suggested_by": "@scribblemaniac"
@@ -6315,11 +6320,13 @@
     },
     {
       "title": "Upcoming Movies",
+      "description": "Show upcoming movies, uses https://www.themoviedb.org/",
       "category": "apple-tv",
       "source": "https://github.com/vanyaland/UpcomingMovies",
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/vanyaland/UpcomingMovies/raw/master/Screenshots/movies.png"],
       "license": "mit",
       "date_added": "Sat Jul 16 15:31:49 2016 +1000",
       "suggested_by": "Ivan Magda",
