@@ -39,6 +39,10 @@
       "parent": "developer"
     },
     {
+      "title": "Emulator",
+      "id": "emulator"
+    },
+    {
       "title": "Extension",
       "id": "extension"
     },
@@ -61,8 +65,8 @@
       "id": "game"
     },
     {
-      "title": "Emulator",
-      "id": "emulator",
+      "title": "SpriteKit",
+      "id": "spritekit",
       "parent": "game"
     },
     {
@@ -1405,8 +1409,7 @@
     },
     {
       "title": "Chess",
-      "category": "game",
-      "description": "Uses SpriteKit",
+      "category": "spritekit",
       "source": "https://github.com/mjcuva/Chess",
       "tags": [
         "swift"
@@ -1472,8 +1475,7 @@
     },
     {
       "title": "Five In A Row (五子棋)",
-      "category": "game",
-      "description": "Uses SpriteKit",
+      "category": "spritekit",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/WelkinXie/FiveInARow",
@@ -1497,8 +1499,7 @@
     },
     {
       "title": "Conway's Game of Life",
-      "category": "game",
-      "description": "Uses SpriteKit",
+      "category": ["game", "spritekit"],
       "license": "mit",
       "source": "https://github.com/yonbergman/swift-gameoflife",
       "tags": [
@@ -1531,7 +1532,7 @@
     },
     {
       "title": "GrubbyWorm",
-      "category": "game",
+      "category": "spritekit",
       "description": "A simple digital worm game made with iOS 9, SpriteKit, GameplayKit & ReplayKit, written in Swift 2",
       "source": "https://github.com/gamechina/GrubbyWorm",
       "tags": [
@@ -1545,7 +1546,7 @@
     {
       "title": "littlego",
       "category": "game",
-      "description": "Play the game of Go on iPhone/iPad",
+      "description": "Game of Go on iPhone/iPad",
       "license": "apache-2.0",
       "source": "https://github.com/herzbube/littlego",
       "stars": 57,
@@ -1575,12 +1576,12 @@
     },
     {
       "title": "Orbit7",
-      "category": "game",
-      "description": "Uses SpriteKit",
+      "category": "spritekit",
       "source": "https://github.com/Mav3r1ck/Orbit7",
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://camo.githubusercontent.com/9c5aa602321121d160837fbe8c0af605196810b4/687474703a2f2f73382e706f7374696d672e6f72672f346c377575746f30352f4f72626974375f47616d652e676966"],
       "stars": 88,
       "license": "mit",
       "date_added": "Thu Apr 2 07:36:45 2015 -0700",
@@ -1588,12 +1589,12 @@
     },
     {
       "title": "Sakura Fly",
-      "category": "game",
-      "description": "Action game, uses SpriteKit",
+      "category": "spritekit",
       "source": "https://github.com/l800891/Sakura-Fly",
       "itunes": "https://itunes.apple.com/app/sakura-fly/id1019023051",
       "stars": 19,
       "license": "mit",
+      "screenshots": ["https://cloud.githubusercontent.com/assets/6619146/13731560/965791fe-e942-11e5-9a11-f66f404fa18c.gif"],
       "date_added": "Mon Mar 14 09:58:27 2016 -0400",
       "suggested_by": "Chenglin"
     },
@@ -1621,9 +1622,8 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Stick-Hero-Swift",
-      "category": "game",
-      "description": "iPhone/iPad game, uses SpriteKit",
+      "title": "Stick-Hero-Swift for iPhone/iPad",
+      "category": "spritekit",
       "license": "mit",
       "source": "https://github.com/phpmaple/Stick-Hero-Swift",
       "stars": 326,
@@ -4130,7 +4130,7 @@
     {
       "title": "Anypic in Swift",
       "category": "parse",
-      "source": "https://github.com/kwkhaw/SwiftAnyPic",
+      "source": "https://github.com/SwiftAnyPic/SwiftAnyPic",
       "tags": [
         "swift"
       ],
@@ -4951,11 +4951,10 @@
       "suggested_by": "@yoshisuga"
     },
     {
-      "title": "Scary Flight",
+      "title": "FlappyBird clone - Scary Flight",
       "category": [
         "game"
       ],
-      "description": "Just another yet FlappyBird-style game",
       "license": "mit",
       "source": "https://github.com/EvgenyKarkan/ScaryFlight",
       "itunes": "https://itunes.apple.com/app/scary-flight/id824428528",
@@ -5340,6 +5339,7 @@
       "homepage": "http://7b5labs.com/xpilotiphone",
       "itunes": "https://itunes.apple.com/app/id322114791",
       "license": "gpl-2.0",
+      "tags": ["archive"],
       "date_added": "Wed Jun 1 22:18:46 2016 -0600",
       "suggested_by": "@scribblemaniac"
     },
@@ -6115,7 +6115,7 @@
     },
     {
       "title": "2048 in Objective-C using `SpriteKit`",
-      "category": "game",
+      "category": ["game", "spritekit"],
       "license": "mit",
       "source": "https://github.com/danqing/2048",
       "stars": 812,
@@ -6645,9 +6645,42 @@
       "itunes": "https://itunes.apple.com/app/simplenote/id289429962",
       "homepage": "https://simplenote.com/",
       "license": "gpl-2.0",
-      "stars": 119,
+      "stars": 862,
       "screenshots": ["https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg"],
       "date_added": "Aug 11 2016",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "youtube-iOS",
+      "category": "sample",
+      "description": "YouTube app template, uses Swift 3",
+      "source": "https://github.com/aslanyanhaik/youtube-iOS",
+      "tags": ["swift"],
+      "license": "other",
+      "stars": 334,
+      "screenshots": ["https://camo.githubusercontent.com/cfa19d4ba7d4b87e1a1d0a54c1d11d0761b69ae7/687474703a2f2f692e67697068792e636f6d2f687743616848414431744e48612e676966"],
+      "date_added": "Aug 15 2016",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "30 days of React Native demos",
+      "category": ["sample", "react-native"],
+      "source": "https://github.com/fangwei716/30-days-of-react-native",
+      "license": "mit",
+      "stars": 982,
+      "screenshots": ["https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif"],
+      "date_added": "Aug 15 2016",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "HeartControl",
+      "description": "Continuous heart rate measurement during workouts with watchOS 3",
+      "category": "apple-watch",
+      "source": "https://github.com/thomaspaulmann/HeartControl",
+      "tags": ["swift"],
+      "license": "other",
+      "stars": 24,
+      "date_added": "Aug 16 2016",
       "suggested_by": "@dkhamsing"
     }
   ]
