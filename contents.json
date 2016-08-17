@@ -5113,10 +5113,13 @@
     },
     {
       "title": "iCook TV",
+      "description": "Taiwanese cuisine cooking videos",
       "category": "apple-tv",
       "license": "mit",
       "source": "https://github.com/polydice/iCook-tvOS",
       "stars": 40,
+      "language": "zho",
+      "screenshots": ["https://camo.githubusercontent.com/f84f375f11c006f9c0d6748d4ef298f5c730d355/68747470733a2f2f706f6c79646963652e6769746875622e696f2f69436f6f6b2d74764f532f696d616765732f53637265656e73686f742e706e67"],
       "date_added": "Wed May 25 13:43:48 2016 -0700",
       "suggested_by": "@dkhamsing"
     },
