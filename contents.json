@@ -6074,11 +6074,12 @@
     {
       "title": "Uncle Nagy's House",
       "category": "apple-tv",
-      "description": "`tvOS` / `TVML` app with Gulp tasks for building `Jade` & `CoffeeScript`",
+      "description": "TVML app for http://unclenagyshouse.com/, uses Gulp tasks to build Jade & CoffeeScript",
       "license": "mit",
       "source": "https://github.com/kenmickles/unh_tvos",
       "itunes": "https://itunes.apple.com/us/app/id1042172021",
       "stars": 2,
+      "screenshots": ["https://camo.githubusercontent.com/8d0df3c5da622d7bd153620e8e83fc544d11d48f/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f313539393832332f53637265656e73686f74253230323031352d30392d323125323032332e33392e30312e706e67"],
       "date_added": "Mon Jul 11 16:37:35 2016 -0400",
       "suggested_by": "@kenmickles"
     },
