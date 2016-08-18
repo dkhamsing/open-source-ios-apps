@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-539-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 16, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-539-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 18, 2016-lightgrey.svg)
 
 Jump to
 
@@ -93,15 +93,15 @@ Click ► to show more details
   <details><summary>https://github.com/IGRSoft/exTVPlayer</summary>
   Added February  9, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
   </details>
-- iCook TV 
+- iCook TV: Taiwanese cuisine cooking videos 🇨🇳
   <details><summary>https://github.com/polydice/iCook-tvOS</summary>
-  Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![iCook TV image 1](https://camo.githubusercontent.com/f84f375f11c006f9c0d6748d4ef298f5c730d355/68747470733a2f2f706f6c79646963652e6769746875622e696f2f69436f6f6b2d74764f532f696d616765732f53637265656e73686f742e706e67)
   </details>
 - Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/jasarien/Provenance</summary>
   Added April 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
-- RailsCasts Videos 
+- RailsCasts: Ruby on Rails screencasts from http://railscasts.com/ 
   <details><summary>https://github.com/spritlesoftware/railscasts-on-appletv</summary>
   Added May 12, 2016<br>  License: `other`
   </details>
@@ -113,21 +113,21 @@ Click ► to show more details
   <details><summary>https://github.com/4np/UitzendingGemist</summary>
   Added November 10, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
-- UitzendingGemist by jeffkreeftmeijer: Dutch Public Broadcasting video on demand `Swift` 
+- UitzendingGemist by jeffkreeftmeijer: Dutch Public Broadcasting video on demand `Swift` 🇳🇱
   <details><summary>https://github.com/jeffkreeftmeijer/UitzendingGemist</summary>
   Added November 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Uncle Nagy's House: `tvOS` / `TVML` app with Gulp tasks for building `Jade` & `CoffeeScript` [` App Store`](https://itunes.apple.com/us/app/id1042172021) 
+- Uncle Nagy's House: TVML app for http://unclenagyshouse.com/, uses Gulp tasks to build Jade & CoffeeScript [` App Store`](https://itunes.apple.com/us/app/id1042172021) 
   <details><summary>https://github.com/kenmickles/unh_tvos</summary>
-  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Uncle Nagy's House image 1](https://camo.githubusercontent.com/8d0df3c5da622d7bd153620e8e83fc544d11d48f/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f313539393832332f53637265656e73686f74253230323031352d30392d323125323032332e33392e30312e706e67)
   </details>
-- Upcoming Movies `Swift` 
+- Upcoming Movies: Show upcoming movies, uses https://www.themoviedb.org/ `Swift` 
   <details><summary>https://github.com/vanyaland/UpcomingMovies</summary>
-  Added July 16, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added July 16, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Upcoming Movies image 1](https://github.com/vanyaland/UpcomingMovies/raw/master/Screenshots/movies.png)
   </details>
 - WWDCTV: Watch WWDC Videos 🔥🔥
   <details><summary>https://github.com/azzoor/WWDCTV</summary>
-  Added November 19, 2015<br>  License: `other`
+  Added November 19, 2015<br>  License: `other`<br>  ![WWDCTV image 1](https://github.com/azzoor/WWDCTV/blob/master/WWDC/screen01.png?raw=true)
   </details>
 
 ## Apple Watch 
@@ -160,7 +160,7 @@ Click ► to show more details
   </details>
 - Cherry: Mini Pomodoro Timer `Swift` 🔥🔥
   <details><summary>https://github.com/kenshin03/Cherry</summary>
-  Added February 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added February 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Cherry image 1](https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png)
   </details>
 - Connectivity Demo 
   <details><summary>https://github.com/swilliams/watchkit-connectivity-demo</summary>
@@ -198,7 +198,7 @@ Click ► to show more details
   <details><summary>https://github.com/thomaspaulmann/HeartControl</summary>
   Added August 16, 2016<br>  License: `other`
   </details>
-- heartrate: Show streaming heartrate from the watch with `watchOS` 2 `Swift` 🔥🔥
+- heartrate: Show streaming heart rate from the watch with watchOS 2 `Swift` 🔥🔥
   <details><summary>https://github.com/coolioxlr/watchOS-2-heartrate</summary>
   Added July 29, 2015<br>  License: `other`
   </details>
@@ -283,9 +283,9 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- Brave: Firefox-based browser with ad & tracking pixel/cookie blocking built in [` App Store`](https://itunes.apple.com/app/brave-web-browser/id1052879175) `Swift` 🔥🔥
+- Brave: Firefox-based browser with ad block & tracking pixel/cookie block built in [` App Store`](https://itunes.apple.com/app/brave-web-browser/id1052879175) `Swift` 🔥🔥
   <details><summary>https://github.com/brave/browser-ios</summary>
-  Added May 24, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  Added May 24, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>  ![Brave image 1](http://a5.mzstatic.com/us/r30/Purple18/v4/ed/6c/07/ed6c07f4-c9cd-0daa-a331-a39a85ba1c08/screen696x696.jpeg)
   </details>
 - Endless Browser: Web browser built with privacy and security in mind [` App Store`](https://itunes.apple.com/app/endless-browser/id974745755) 
   <details><summary>https://github.com/jcs/endless</summary>
@@ -301,7 +301,7 @@ Click ► to show more details
   </details>
 - Onion Browser: A Tor-powered web browser that improves your privacy [` App Store`](https://itunes.apple.com/app/id519296448) 🔥🔥🔥
   <details><summary>https://github.com/mtigas/iOS-OnionBrowser</summary>
-  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://mike.tig.as/onionbrowser/
+  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://mike.tig.as/onionbrowser/<br>  ![Onion Browser image 1](http://a4.mzstatic.com/us/r30/Purple42/v4/7c/3c/cc/7c3ccc4e-77c8-799a-9058-4b8672c71a08/screen696x696.jpeg)
   </details>
 - Tob - Secure browser: A beautiful Tor browser to protect your anonymity [` App Store`](https://itunes.apple.com/app/id1063151782) 
   <details><summary>https://github.com/JRock007/Tob</summary>
@@ -597,6 +597,10 @@ Click ► to show more details
 - Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693) `Swift` 🔥🔥
   <details><summary>https://github.com/dasdom/Tomate</summary>
   Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Jupp: Post to https://app.net/, includes a Share extension [` App Store`](https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740) `Swift` 
+  <details><summary>https://github.com/dasdom/Jupp</summary>
+  Added February 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Jupp image 1](http://a3.mzstatic.com/eu/r30/Purple1/v4/01/df/ae/01dfaee3-3ea0-8fdc-cfb4-de38aa3cb2cd/screen696x696.jpeg)
   </details>
 - OpenIt: Today extension to launch other apps 
   <details><summary>https://github.com/BalestraPatrick/OpenIt</summary>
@@ -2501,10 +2505,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/maurovc/iGrades</summary>
   Added March 16, 2015<br>  License: `other`
   </details>
-- Jupp: App with share extension for ADN [` App Store`](https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740) `Swift` 
-  <details><summary>https://github.com/dasdom/Jupp</summary>
-  Added February 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - LibreOffice Remote for Impress: Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely [` App Store`](https://itunes.apple.com/app/id806879890) 
   <details><summary>https://cgit.freedesktop.org/libreoffice/impress_remote/</summary>
   Added June  2, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
@@ -2643,7 +2643,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 - Cherry: Mini Pomodoro Timer `Swift` 🔥🔥
   <details><summary>https://github.com/kenshin03/Cherry</summary>
-  Added February 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added February 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Cherry image 1](https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png)
   </details>
 - Coffee Timer `Swift` 
   <details><summary>https://github.com/ashfurrow/yourfirstswiftapp</summary>
