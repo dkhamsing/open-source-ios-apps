@@ -3663,13 +3663,14 @@
     },
     {
       "title": "Jupp",
-      "category": "misc",
-      "description": "App with share extension for ADN",
+      "category": "extension",
+      "description": "Post to ADN, includes a Share extension",
       "source": "https://github.com/dasdom/Jupp",
       "itunes": "https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740",
       "tags": [
         "swift"
       ],
+      "screenshots": ["http://a3.mzstatic.com/eu/r30/Purple1/v4/01/df/ae/01dfaee3-3ea0-8fdc-cfb4-de38aa3cb2cd/screen696x696.jpeg"],
       "stars": 16,
       "license": "mit",
       "date_added": "Sat Feb 28 09:29:54 2015 +0100",
