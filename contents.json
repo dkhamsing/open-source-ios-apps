@@ -3664,7 +3664,7 @@
     {
       "title": "Jupp",
       "category": "extension",
-      "description": "Post to ADN, includes a Share extension",
+      "description": "Post to https://app.net/, includes a Share extension",
       "source": "https://github.com/dasdom/Jupp",
       "itunes": "https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740",
       "tags": [
