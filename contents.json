@@ -1788,7 +1788,8 @@
       "title": "Speak",
       "category": "health",
       "description": "AAC & Speech Therapy",
-      "source": "https://github.com/raynesio/speakability",
+      "source": "https://github.com/opensourceios/speakability",
+      "tags": ["archive"],
       "itunes": "https://itunes.apple.com/app/speakability/id784509467",
       "stars": 20,
       "license": "mit",
@@ -3606,7 +3607,8 @@
       "source": "https://github.com/HackCancer/iOS",
       "itunes": "https://itunes.apple.com/app/hack-cancer/id1030806844",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "stars": 7,
       "license": "other",
