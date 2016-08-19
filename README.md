@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-539-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 18, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-539-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 19, 2016-lightgrey.svg)
 
 Jump to
 
@@ -418,10 +418,6 @@ Click ► to show more details
   <details><summary>https://github.com/icanzilb/EventBlankApp</summary>
   Added April 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Hack Cancer Hackathon [` App Store`](https://itunes.apple.com/app/hack-cancer/id1030806844) `Swift` 
-  <details><summary>https://github.com/HackCancer/iOS</summary>
-  Added August  7, 2015<br>  License: `other`
-  </details>
 - Nortal TechDay 2015 🔥
   <details><summary>https://github.com/mikkoj/NortalTechDay</summary>
   Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -590,7 +586,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- Celluloid: The best photo extension [` App Store`](https://itunes.apple.com/app/celluloid/id1124966798) 🇨🇳🔥🔥
+- Celluloid: The best Photo Editing extension [` App Store`](https://itunes.apple.com/app/celluloid/id1124966798) 🇨🇳🔥🔥
   <details><summary>https://github.com/100mango/Celluloid</summary>
   Added July 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -955,10 +951,6 @@ Click ► to show more details
 - HealthKit~Swift: Sample app for `HealthKit` `Swift` 
   <details><summary>https://github.com/Darktt/HealthKit-Swift</summary>
   Added October 27, 2015<br>  License: `other`
-  </details>
-- Speak: AAC & Speech Therapy [` App Store`](https://itunes.apple.com/app/speakability/id784509467) 
-  <details><summary>https://github.com/raynesio/speakability</summary>
-  Added April  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 ### Fitness 
