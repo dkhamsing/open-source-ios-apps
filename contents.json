@@ -6697,6 +6697,17 @@
       "stars": 24,
       "date_added": "Aug 16 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Tenere News Reader",
+      "category": "news",
+      "description": "Content Application for RSS",
+      "source": "https://github.com/yavuz/Tenere",
+      "itunes": "https://itunes.apple.com/tr/app/tenere-news-reader/id987277462",
+      "stars": 13,
+      "license": "mit",
+      "date_added": "Aug 20 2016",
+      "suggested_by": "@yavuz"
     }
   ]
 }
