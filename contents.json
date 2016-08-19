@@ -1818,6 +1818,15 @@
       "suggested_by": "@dkhamsing"
     },
     {
+      "title": "SwiftSnake",
+      "category": "spritekit",
+      "description": "'Snake' clone in Swift",
+      "source": "https://github.com/caleb0/SwiftSnake",
+      "screenshots": "https://camo.githubusercontent.com/370bc54e73743a854b195cbfc60f4bf2dc45a4d4/687474703a2f2f692e696d6775722e636f6d2f48437a4743746e2e706e6725323253637265656e73686f74253232",
+      "date_added": "Aug 19th 2016",
+      "suggested_by": "@caleb0"
+    }
+    {
       "title": "Hodor",
       "category": "keyboard",
       "description": "Fun Hodor keyboard",
