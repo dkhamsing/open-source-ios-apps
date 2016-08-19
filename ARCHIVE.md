@@ -9,11 +9,13 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Cheddar https://github.com/nothingmagical/cheddar-ios
 - Communiqué https://github.com/zadr/Communique
 - Everest https://github.com/EverestOpenSource/Everest-iOS
+- Hack Cancer Hackathon https://github.com/HackCancer/iOS
 - LastFM https://github.com/lastfm/lastfm-iphone
 - Mume https://github.com/opensourceios/Mume
 - Pancake https://github.com/Imaginea/pancake-ios
 - PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
 - Repo https://github.com/ricburton/Repo
+- Speak https://github.com/opensourceios/speakability
 - SudokuResolv https://github.com/Haoest/SudokuResolv
 - Swift Off https://github.com/opensourceios/swift-off-todo
 - Vim https://github.com/applidium/Vim
