@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-539-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 19, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-540-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 20, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1490,6 +1490,10 @@ Image, video, audio, reading — [back to top](#readme)
 - TabDump: TabDump news app 
   <details><summary>https://github.com/dkhamsing/TabDump</summary>
   Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Tenere News Reader: Content Application for RSS [` App Store`](https://itunes.apple.com/tr/app/tenere-news-reader/id987277462) 
+  <details><summary>https://github.com/yavuz/Tenere</summary>
+  Added August 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan [` App Store`](https://itunes.apple.com/app/oakland-post/id931152313) `Swift` 🔥🔥
   <details><summary>https://github.com/aclissold/the-oakland-post</summary>
