@@ -6708,7 +6708,7 @@
       "license": "mit",
       "date_added": "Aug 20 2016",
       "suggested_by": "@yavuz"
-    }
+    },
     {
             "title": "OpenStreetView",
             "category": "Location",
@@ -6720,6 +6720,6 @@
             "screenshots": ["http://a5.mzstatic.com/us/r30/Purple30/v4/b5/9f/0f/b59f0f32-eec9-7612-ad5f-4a545561c2cf/screen696x696.jpeg"],
             "date_added": "Aug 21 2016",
             "suggested_by": "@iliketurtlesbro"
-}
+    }
   ]
 }
