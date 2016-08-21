@@ -6711,7 +6711,7 @@
     },
     {
             "title": "OpenStreetView",
-            "category": "Location",
+            "category": "location",
             "description": "iOS app for collecting OpenStreetView data",
             "license": "gpl-3.0",
             "source": "https://github.com/openstreetview/ios",
