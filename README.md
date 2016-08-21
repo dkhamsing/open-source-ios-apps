@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-540-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 20, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-541-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 21, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1099,6 +1099,10 @@ Click ► to show more details
 - OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more [` App Store`](https://itunes.apple.com/app/onebusaway/id329380089) 🔥
   <details><summary>https://github.com/OneBusAway/onebusaway-iphone</summary>
   Added August 21, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+- OpenStreetView: iOS app for collecting OpenStreetView data 
+  <details><summary>https://github.com/openstreetview/ios</summary>
+  Added August 21, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  http://openstreetview.org<br>  ![OpenStreetView image 1](http://a5.mzstatic.com/us/r30/Purple30/v4/b5/9f/0f/b59f0f32-eec9-7612-ad5f-4a545561c2cf/screen696x696.jpeg)
   </details>
 - OsmAnd Maps: A map app with access to OpenStreetMaps [` App Store`](https://itunes.apple.com/app/id934850257) 🔥🔥🔥
   <details><summary>https://github.com/osmandapp/Osmand</summary>
