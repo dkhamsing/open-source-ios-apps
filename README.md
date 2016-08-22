@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-541-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 21, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-542-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 22, 2016-lightgrey.svg)
 
 Jump to
 
@@ -926,6 +926,10 @@ Click ► to show more details
 - Stick-Hero-Swift for iPhone/iPad `Swift` 🔥🔥
   <details><summary>https://github.com/phpmaple/Stick-Hero-Swift</summary>
   Added June 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- SwiftSnake: Snake clone `Swift` 
+  <details><summary>https://github.com/caleb0/SwiftSnake</summary>
+  Added August 19, 2016<br>  License: `other`<br>  ![SwiftSnake image 1](http://i.imgur.com/mBi9Jfj.png)
   </details>
 
 ## Health 
