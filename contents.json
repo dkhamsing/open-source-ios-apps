@@ -6725,10 +6725,11 @@
     {
             "title": "OpenStreetView",
             "category": "location",
-            "description": "iOS app for collecting OpenStreetView data",
+            "description": "Collect OpenStreetView data",
             "license": "gpl-3.0",
             "source": "https://github.com/openstreetview/ios",
             "homepage": "http://openstreetview.org",
+            "itunes": "https://itunes.apple.com/app/openstreetview/id1089548849",
             "stars": 7,
             "screenshots": ["http://a5.mzstatic.com/us/r30/Purple30/v4/b5/9f/0f/b59f0f32-eec9-7612-ad5f-4a545561c2cf/screen696x696.jpeg"],
             "date_added": "Aug 21 2016",
