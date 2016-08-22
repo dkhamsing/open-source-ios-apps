@@ -1820,9 +1820,13 @@
     {
       "title": "SwiftSnake",
       "category": "spritekit",
-      "description": "'Snake' clone in Swift",
+      "description": "Snake clone",
       "source": "https://github.com/caleb0/SwiftSnake",
-      "screenshots": "http://i.imgur.com/mBi9Jfj.png",
+      "screenshots": ["http://i.imgur.com/mBi9Jfj.png"],
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
       "date_added": "Aug 19th 2016",
       "suggested_by": "@caleb0"
     },
