@@ -1,0 +1,31 @@
+body {
+ padding-top: 70px;
+}
+
+.toc-item {
+ display: flex;
+}
+
+.toc-item-bullet {
+ padding-right: 4px;
+}
+
+.toc-item-content {
+ flex-grow: 1;
+}
+
+#main-content .list-group-item {
+ cursor: pointer;
+}
+
+#main-content .title {
+ cursor: default;
+}
+
+.details {
+ display: none;
+}
+
+.category-wrapper {
+ padding-top: 25px;
+}
