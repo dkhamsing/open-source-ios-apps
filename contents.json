@@ -52,6 +52,11 @@
       "parent": "extension"
     },
     {
+      "title": "Today",
+      "id": "today",
+      "parent": "extension"
+    },
+    {
       "title": "Finance",
       "id": "finance"
     },
@@ -1308,7 +1313,7 @@
     },
     {
       "title": "TodayStocks",
-      "category": ["finance", "extension"],
+      "category": ["finance", "today"],
       "description": "Show portfolio in a minimalist Today extension",
       "source": "https://github.com/premnirmal/TodayStocks",
       "itunes": "https://itunes.apple.com/app/todaystocks/id993467855",
@@ -3880,8 +3885,8 @@
     },
     {
       "title": "VPN On",
-      "category": "extension",
-      "description": "Today extension to turn on VPN",
+      "category": "today",
+      "description": "Extension to turn on VPN",
       "license": "mit",
       "source": "https://github.com/lexrus/VPNOn",
       "itunes": "https://itunes.apple.com/app/vpn-on/id951344279",
@@ -4025,7 +4030,7 @@
     },
     {
       "title": "SwiftNote",
-      "category": ["text", "extension"],
+      "category": ["text", "today"],
       "description": "Simple note taking with Today extension & iCloud sync",
       "license": "mit",
       "source": "https://github.com/mslathrop/SwiftNote",
@@ -4050,7 +4055,7 @@
     },
     {
       "title": "Fojusi",
-      "category": ["timer", "extension"],
+      "category": ["timer", "today"],
       "description": "Work timer with Today extension",
       "source": "https://github.com/dasdom/Tomate",
       "itunes": "https://itunes.apple.com/app/fojusi/id923044693",
@@ -5818,8 +5823,8 @@
     },
     {
       "title": "OpenIt",
-      "category": "extension",
-      "description": "Today extension to launch other apps",
+      "category": "today",
+      "description": "Extension to launch other apps",
       "source": "https://github.com/BalestraPatrick/OpenIt",
       "license": "other",
       "stars": 92,
