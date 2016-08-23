@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-542-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 23, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-543-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 23, 2016-lightgrey.svg)
 
 Jump to
 
@@ -811,6 +811,10 @@ Click ► to show more details
 - Frotz: Play hundreds of free works of Interactive Fiction (a.k.a. text adventure games) [` App Store`](https://itunes.apple.com/app/id287653015) 
   <details><summary>https://github.com/ifrotz/iosfrotz</summary>
   Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md
+  </details>
+- Google Feud for iOS | Guess My Search: The game Google Feud by Justin Hook written in Swift for iOS. [` App Store`](https://itunes.apple.com/us/app/guess-my-search/id1144264060) 
+  <details><summary>https://github.com/CTKRocks/Google-Feud-iOS</summary>
+  Added August 23, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  ![Google Feud for iOS | Guess My Search image 1](http://imgur.com/GXvfj9u.png)
   </details>
 - Gorillas: An iPhone port of the popular old QBasic game with spunk [` App Store`](https://itunes.apple.com/app/gorillas/id302275459) 🔥🔥
   <details><summary>https://github.com/Lyndir/Gorillas</summary>

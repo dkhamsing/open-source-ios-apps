@@ -4993,6 +4993,21 @@
       "suggested_by": "@dkhamsing"
     },
     {
+      "title": "Google Feud for iOS | Guess My Search",
+      "description": "The game Google Feud by Justin Hook written in Swift for iOS.",
+      "category": [
+      	"game"	
+      ],
+      "license": "apache-2.0",
+      "source": "https://github.com/CTKRocks/Google-Feud-iOS",
+      "itunes": "https://itunes.apple.com/us/app/guess-my-search/id1144264060",
+      "screenshots": [
+      	"http://imgur.com/GXvfj9u.png"	
+      ],
+      "date_added": "Aug 23 2016",
+      "suggested_by": "@CTKRocks"
+    },
+    {
       "title": "MiamiSunglasses",
       "category": [
         "media"
