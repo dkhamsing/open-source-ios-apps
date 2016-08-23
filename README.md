@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-542-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 22, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-542-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 23, 2016-lightgrey.svg)
 
 Jump to
 
@@ -21,6 +21,7 @@ Jump to
 - [Emulator](#emulator) 
 - [Extension](#extension) 
   - [Content Blocking](#content-blocking) 
+  - [Today](#today) 
 - [Finance](#finance) 
   - [Bitcoin](#bitcoin) 
 - [Game](#game) 
@@ -590,29 +591,9 @@ Click ► to show more details
   <details><summary>https://github.com/100mango/Celluloid</summary>
   Added July 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693) `Swift` 🔥🔥
-  <details><summary>https://github.com/dasdom/Tomate</summary>
-  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - Jupp: Post to https://app.net/, includes a Share extension [` App Store`](https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740) `Swift` 
   <details><summary>https://github.com/dasdom/Jupp</summary>
   Added February 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Jupp image 1](http://a3.mzstatic.com/eu/r30/Purple1/v4/01/df/ae/01dfaee3-3ea0-8fdc-cfb4-de38aa3cb2cd/screen696x696.jpeg)
-  </details>
-- OpenIt: Today extension to launch other apps 
-  <details><summary>https://github.com/BalestraPatrick/OpenIt</summary>
-  Added June  7, 2016<br>  License: `other`
-  </details>
-- SwiftNote: Simple note taking with Today extension & iCloud sync `Swift` 🔥
-  <details><summary>https://github.com/mslathrop/SwiftNote</summary>
-  Added March 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- TodayStocks: Show portfolio in a minimalist Today extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855) 
-  <details><summary>https://github.com/premnirmal/TodayStocks</summary>
-  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- VPN On: Today extension to turn on VPN [` App Store`](https://itunes.apple.com/app/vpn-on/id951344279) `Swift` 🔥🔥🔥🔥🔥
-  <details><summary>https://github.com/lexrus/VPNOn</summary>
-  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 ### Content Blocking 
@@ -638,6 +619,31 @@ Click ► to show more details
 - Swab: Creative, web & design culture ad blocking [` App Store`](https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002) `Swift` 
   <details><summary>https://github.com/pkamb/swab</summary>
   Added July 12, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>  http://swabthe.com/
+  </details>
+
+### Today 
+ 
+[back to top](#readme) 
+ 
+- Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693) `Swift` 🔥🔥
+  <details><summary>https://github.com/dasdom/Tomate</summary>
+  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- OpenIt: Extension to launch other apps 
+  <details><summary>https://github.com/BalestraPatrick/OpenIt</summary>
+  Added June  7, 2016<br>  License: `other`
+  </details>
+- SwiftNote: Simple note taking with Today extension & iCloud sync `Swift` 🔥
+  <details><summary>https://github.com/mslathrop/SwiftNote</summary>
+  Added March 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- TodayStocks: Show portfolio in a minimalist Today extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855) 
+  <details><summary>https://github.com/premnirmal/TodayStocks</summary>
+  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- VPN On: Extension to turn on VPN [` App Store`](https://itunes.apple.com/app/vpn-on/id951344279) `Swift` 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/lexrus/VPNOn</summary>
+  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 ## Finance 
@@ -1104,7 +1110,7 @@ Click ► to show more details
   <details><summary>https://github.com/OneBusAway/onebusaway-iphone</summary>
   Added August 21, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
-- OpenStreetView: iOS app for collecting OpenStreetView data 
+- OpenStreetView: Collect OpenStreetView data [` App Store`](https://itunes.apple.com/app/openstreetview/id1089548849) 
   <details><summary>https://github.com/openstreetview/ios</summary>
   Added August 21, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  http://openstreetview.org<br>  ![OpenStreetView image 1](http://a5.mzstatic.com/us/r30/Purple30/v4/b5/9f/0f/b59f0f32-eec9-7612-ad5f-4a545561c2cf/screen696x696.jpeg)
   </details>
