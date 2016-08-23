@@ -30,6 +30,10 @@
       "id": "conference"
     },
     {
+      "title": "Clone",
+      "id": "clone"
+    },
+    {
       "title": "Developer",
       "id": "developer"
     },
@@ -1348,7 +1352,7 @@
     },
     {
       "title": "2048 in Objective-C",
-      "category": "game",
+      "category": ["game", "clone"],
       "license": "mit",
       "source": "https://github.com/austinzheng/iOS-2048",
       "stars": 192,
@@ -1357,7 +1361,7 @@
     },
     {
       "title": "2048 in Swift",
-      "category": "game",
+      "category": ["game", "clone"],
       "license": "mit",
       "source": "https://github.com/austinzheng/swift-2048",
       "stars": 2202,
@@ -1494,7 +1498,7 @@
     },
     {
       "title": "FlappySwift",
-      "category": "game",
+      "category": ["game", "clone"],
       "description": "Swift implementation of Flappy Bird",
       "source": "https://github.com/fullstackio/FlappySwift",
       "stars": 7841,
@@ -1825,7 +1829,7 @@
     },
     {
       "title": "SwiftSnake",
-      "category": "spritekit",
+      "category": ["spritekit", "clone"],
       "description": "Snake clone",
       "source": "https://github.com/caleb0/SwiftSnake",
       "screenshots": ["http://i.imgur.com/mBi9Jfj.png"],
@@ -4355,7 +4359,7 @@
     },
     {
       "title": "Finance",
-      "category": "react-native",
+      "category": ["react-native", "clone"],
       "description": "iOS's Stocks app written in React Native",
       "license": "mit",
       "source": "https://github.com/7kfpun/FinanceReactNative",
@@ -5075,7 +5079,7 @@
     },
     {
       "title": "TSWeChat",
-      "category": "communication",
+      "category": ["communication", "clone"],
       "description": "A WeChat alternative",
       "license": "mit",
       "source": "https://github.com/hilen/TSWeChat",
@@ -6146,7 +6150,7 @@
     },
     {
       "title": "2048 in Objective-C using `SpriteKit`",
-      "category": ["game", "spritekit"],
+      "category": ["game", "spritekit", "clone"],
       "license": "mit",
       "source": "https://github.com/danqing/2048",
       "stars": 812,
@@ -6685,7 +6689,7 @@
     },
     {
       "title": "youtube-iOS",
-      "category": "sample",
+      "category": "clone",
       "description": "YouTube app template, uses Swift 3",
       "source": "https://github.com/aslanyanhaik/youtube-iOS",
       "tags": ["swift"],
