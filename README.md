@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-543-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 23, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-543-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 24, 2016-lightgrey.svg)
 
 Jump to
 
@@ -16,6 +16,7 @@ Jump to
 - [Calendar](#calendar) 
 - [Communication](#communication) 
 - [Conference](#conference) 
+- [Clone](#clone) 
 - [Developer](#developer) 
   - [GitHub](#github) 
 - [Emulator](#emulator) 
@@ -444,6 +445,43 @@ Click ► to show more details
   Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
+## Clone 
+ 
+[back to top](#readme) 
+ 
+- 2048 in Objective-C 🔥
+  <details><summary>https://github.com/austinzheng/iOS-2048</summary>
+  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- 2048 in Objective-C using `SpriteKit` 🔥🔥🔥
+  <details><summary>https://github.com/danqing/2048</summary>
+  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- 2048 in Swift `Swift` 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/austinzheng/swift-2048</summary>
+  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Finance: iOS's Stocks app written in React Native 🔥🔥🔥
+  <details><summary>https://github.com/7kfpun/FinanceReactNative</summary>
+  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- FlappySwift: Swift implementation of Flappy Bird `Swift` 🔥🔥🔥🔥🔥
+  <details><summary>https://github.com/fullstackio/FlappySwift</summary>
+  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![FlappySwift image 1](https://camo.githubusercontent.com/867dfad61329bd77258f00d586b16476c7bc405a/687474703a2f2f692e696d6775722e636f6d2f314e4c6f546f552e676966)
+  </details>
+- SwiftSnake: Snake clone `Swift` 
+  <details><summary>https://github.com/caleb0/SwiftSnake</summary>
+  Added August 19, 2016<br>  License: `other`<br>  ![SwiftSnake image 1](http://i.imgur.com/mBi9Jfj.png)
+  </details>
+- TSWeChat: A WeChat alternative `Swift` 🔥🔥🔥🔥
+  <details><summary>https://github.com/hilen/TSWeChat</summary>
+  Added May 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- youtube-iOS: YouTube app template, uses Swift 3 `Swift` 🔥🔥
+  <details><summary>https://github.com/aslanyanhaik/youtube-iOS</summary>
+  Added August 15, 2016<br>  License: `other`<br>  ![youtube-iOS image 1](https://camo.githubusercontent.com/cfa19d4ba7d4b87e1a1d0a54c1d11d0761b69ae7/687474703a2f2f692e67697068792e636f6d2f687743616848414431744e48612e676966)
+  </details>
+
 ## Developer 
  
 [back to top](#readme) 
@@ -812,9 +850,9 @@ Click ► to show more details
   <details><summary>https://github.com/ifrotz/iosfrotz</summary>
   Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md
   </details>
-- Google Feud for iOS | Guess My Search: The game Google Feud by Justin Hook written in Swift for iOS. [` App Store`](https://itunes.apple.com/us/app/guess-my-search/id1144264060) 
+- Google Feud: Guess My Search game by Justin Hook [` App Store`](https://itunes.apple.com/us/app/guess-my-search/id1144264060) `Swift` 
   <details><summary>https://github.com/CTKRocks/Google-Feud-iOS</summary>
-  Added August 23, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  ![Google Feud for iOS | Guess My Search image 1](http://imgur.com/GXvfj9u.png)
+  Added August 23, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  ![Google Feud image 1](http://imgur.com/GXvfj9u.png)
   </details>
 - Gorillas: An iPhone port of the popular old QBasic game with spunk [` App Store`](https://itunes.apple.com/app/gorillas/id302275459) 🔥🔥
   <details><summary>https://github.com/Lyndir/Gorillas</summary>
@@ -1517,7 +1555,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/aclissold/the-oakland-post</summary>
   Added March 18, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
-- v2ex: App for the technical and creative website http://v2ex.com/ [` App Store`](https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535) 🇨🇳🔥🔥🔥🔥
+- v2ex: Read https://www.v2ex.com/ [` App Store`](https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535) 🇨🇳🔥🔥🔥🔥
   <details><summary>https://github.com/singro/v2ex</summary>
   Added April 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1526,7 +1564,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Hacker News Client: Firebase API-Based iOS Reader (Firebase) [` App Store`](https://itunes.apple.com/app/hacker-news-client/id939454231) 🔥🔥
+- Hacker News Client: Uses the Firebase API [` App Store`](https://itunes.apple.com/app/hacker-news-client/id939454231) 🔥🔥
   <details><summary>https://github.com/bonzoq/hniosreader</summary>
   Added April 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1814,10 +1852,6 @@ Image, video, audio, reading — [back to top](#readme)
 - Swift-Demos `Swift` 🇨🇳🔥🔥🔥🔥
   <details><summary>https://github.com/Lax/iOS-Swift-Demos</summary>
   Added April 22, 2016<br>  License: `other`
-  </details>
-- youtube-iOS: YouTube app template, uses Swift 3 `Swift` 🔥🔥
-  <details><summary>https://github.com/aslanyanhaik/youtube-iOS</summary>
-  Added August 15, 2016<br>  License: `other`<br>  ![youtube-iOS image 1](https://camo.githubusercontent.com/cfa19d4ba7d4b87e1a1d0a54c1d11d0761b69ae7/687474703a2f2f692e67697068792e636f6d2f687743616848414431744e48612e676966)
   </details>
 
 ## Science 
@@ -2144,7 +2178,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/LunarFlash/Chaty</summary>
   Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Hacker News Client: Firebase API-Based iOS Reader (Firebase) [` App Store`](https://itunes.apple.com/app/hacker-news-client/id939454231) 🔥🔥
+- Hacker News Client: Uses the Firebase API [` App Store`](https://itunes.apple.com/app/hacker-news-client/id939454231) 🔥🔥
   <details><summary>https://github.com/bonzoq/hniosreader</summary>
   Added April 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
