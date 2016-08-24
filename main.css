@@ -29,3 +29,24 @@ body {
 .category-wrapper {
  padding-top: 25px;
 }
+
+#theme-container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.theme-item {
+ text-align: center;
+ width: 25%;
+ flex-grow: 1;
+ min-width: 100px;
+ cursor: pointer;
+}
+
+.theme-item img {
+ width: 100%;
+}
+
+.theme-item .panel-heading {
+ text-transform: none;
+}

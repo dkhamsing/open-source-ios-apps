@@ -1,5 +1,33 @@
+var themes = [{ name: "Cerulean", description: "A calm blue sky" }, { name: "Cosmo", description: "An ode to Metro" }, { name: "Cyborg", description: "Jet black and electric blue" }, { name: "Darkly", description: "Flatly in night mode" }, { name: "Flatly", description: "Flat and modern" }, { name: "Journal", description: "Crisp like a new sheet of paper" }, { name: "Lumen", description: "Light and shadow" }, { name: "Paper", description: "Material is the metaphor" }, { name: "Readable", description: "Optimized for legibility" }, { name: "Sandstone", description: "A touch of warmth" }, { name: "Simplex", description: "Mini and minimalist" }, { name: "Slate", description: "Shades of gunmetal gray" }, { name: "Spacelab", description: "Silvery and sleek" }, { name: "Superhero", description: "The brave and the blue" }, { name: "United", description: "Ubuntu orange and unique font" }, { name: "Yeti", description: "A friendly foundation" }];
+var currentTheme = 9;
+var previewTheme = null;
+
 function updateNavigationPadding() {
     $(document.body).css("padding-top", $("#main-nav").outerHeight() + 15);
+}
+
+function cancelSettings() {
+	// Hide modal dialog
+	$("#settings").modal("hide");
+	
+	// Remove the preview theme and restore the current theme
+	if(previewTheme != null) {
+		previewTheme = null;
+		$("#bootstrap-theme").attr("href", "https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/" + themes[currentTheme].name.toLowerCase() + "/bootstrap.min.css");
+		$(".theme-item.panel-primary").removeClass("panel-primary").addClass("panel-default");
+		$(".theme-item[data-index=" + currentTheme + "]").removeClass("panel-default").addClass("panel-primary");
+	}
+}
+
+function saveSettings() {
+	// Hide modal dialog
+	$("#settings").modal("hide");
+	
+	// Keep the preview theme (if there is one)
+	if(previewTheme != null) {
+		currentTheme = previewTheme;
+		previewTheme = null;
+	}
 }
 
 function starString(starCount) {
@@ -88,6 +116,29 @@ $(document).ready(function() {
 		$("#main-content .list-group-item").click(function() {
 			$(this).children(".details").toggle("blind");
 		});
+		
+		// Add themes to settings dialog
+		for(var i = 0; i < themes.length; i++) {
+			/*if(i % 4 == 0) {
+				table.append(row);
+			}*/
+			var cell = $("<div class=\"theme-item panel panel-" + (i == currentTheme ? "primary" : "default") + "\" data-index=\"" + i + "\"><div class=\"panel-heading\">" + themes[i].name + "</div><div class=\"panel-body\"><img src=\"https://bootswatch.com/" + themes[i].name.toLowerCase() + "/thumbnail.png\" /><p>" + themes[i].description + "</p></div></div>");
+			$("#theme-container").append(cell);
+		}
+		// Enable theme selection
+		$(".theme-item").click(function() {
+			$(".theme-item.panel-primary").removeClass("panel-primary").addClass("panel-default");
+			$(this).removeClass("panel-default").addClass("panel-primary");
+			previewTheme = Number($(this).attr("data-index"));
+			$("#bootstrap-theme").attr("href", "https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/" + themes[previewTheme].name.toLowerCase() + "/bootstrap.min.css");
+		});
+		
+		// Open settings dialog when the button is pressed
+		$("#setting-button").click(function() { $("#settings").modal("show"); });
+		// Register cancel settings
+		$(".cancel-settings").click(cancelSettings);
+		// Register save settings
+		$("#save-settings").click(saveSettings);
 	}, "json").fail(function() {
 		// TODO Handle error gracefully
 	});

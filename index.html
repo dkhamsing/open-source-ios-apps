@@ -8,8 +8,8 @@
   <meta name="robots" content="index,follow" />
   <title>Open Source iOS Apps</title>
   <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/ui-lightness/jquery-ui.css" />
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/sandstone/bootstrap.min.css" rel="stylesheet" integrity="sha384-G3G7OsJCbOk1USkOY4RfeX1z27YaWrZ1YuaQ5tbuawed9IoreRDpWpTkZLXQfPm3" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link id="bootstrap-theme" data-index="9" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/sandstone/bootstrap.min.css" rel="stylesheet">
   <link href="http://cdn.staticfile.org/emoji/0.2.2/emoji.css" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/emojione/2.2.6/assets/css/emojione.min.css" />
   <link rel="stylesheet" href="main.css" />
@@ -37,6 +37,7 @@
       <li><a href="#">Credit</a></li>
      </ul>
      <ul class="nav navbar-nav navbar-right">
+      <li><a href="#" id="setting-button"><span class="fa fa-cog"></span></a></li>
       <li><a href="https://github.com/dkhamsing/open-source-ios-apps" target="_blank"><span class="fa fa-github" aria-hidden="true"></span> Github</a></li>
       <li><a href="https://twitter.com/opensourceios" target="_blank"><span class="fa fa-twitter" aria-hidden="true"></span> Twitter</a></li>
      </ul>
@@ -56,6 +57,19 @@
   </div>
 
   <div id="main-content" class="container list-group"></div>
+  
+  <div class="modal fade" id="settings" tabindex="-1" role="dialog">
+   <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+     <div class="modal-header"><button type="button" class="close cancel-settings" aria-hidden="true">&times;</button><h2 class="modal-title">Settings</h2></div>
+     <div class="modal-body">
+      <h3>Themes</h3>
+      <div id="theme-container"></div>
+     </div>
+     <div class="modal-footer"><button type="button" class="btn btn-default cancel-settings">Close</button><button id="save-settings" type="button" class="btn btn-primary">Save Changes</button></div>
+    </div>
+   </div>
+  </div>
 
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
  </body>
