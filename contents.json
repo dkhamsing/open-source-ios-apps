@@ -5097,7 +5097,7 @@
     },
     {
       "title": "TSWeChat",
-      "category": ["communication", "clone"],
+      "category": ["communication"],
       "description": "A WeChat alternative",
       "license": "mit",
       "source": "https://github.com/hilen/TSWeChat",
