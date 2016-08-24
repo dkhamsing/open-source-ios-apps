@@ -5203,7 +5203,7 @@
         "apple-tv"
       ],
       "description": "Watch Public German Broadcast/TV company streams",
-      "lang": "ger",
+      "lang": "deu",
       "license": "gpl-2.0",
       "source": "https://github.com/omichde/Telemat-tvOS",
       "stars": 4,
