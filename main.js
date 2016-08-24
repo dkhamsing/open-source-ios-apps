@@ -9,13 +9,13 @@ function starString(starCount) {
 	
 	var starResult = [""];
 	for(var i = 1; i <= starLimit.length; i++) {
-		starResult[i] = starResult[i-1] + ":star:";
+		starResult[i] = starResult[i-1] + emojione.shortnameToImage(":star:");
 	}
 	
 	var i = 0;
 	while(starCount >= starLimit[i] && i < starLimit.length) i++;
 	
- 	return starResult[i];
+ 	return "<span title=\"" + starCount + " Stars\">" + starResult[i] + "</span>";
 }
 
 function langString(lang) {
@@ -67,7 +67,7 @@ $(document).ready(function() {
 			for(var j = 0; j < currentProject.category.length; j++) {
 				var licenseMap = { "mit": "https://opensource.org/licenses/MIT", "mpl-2.0": "https://opensource.org/licenses/MPL-2.0", "gpl-3.0": "https://opensource.org/licenses/BSD-3-Clause", "lgpl-3.0": "https://opensource.org/licenses/LGPL-3.0", "unlicense": "http://unlicense.org/", "bsd-2-clause": "https://opensource.org/licenses/BSD-2-Clause", "isc": "https://opensource.org/licenses/ISC", "lgpl-2.1": "https://opensource.org/licenses/LGPL-2.1", "gpl-2.0": "https://opensource.org/licenses/GPL-2.0", "apache-2.0": "https://opensource.org/licenses/Apache-2.0", "cc0-1.0": "https://creativecommons.org/publicdomain/zero/1.0/deed.en", "artistic-2.0": "https://opensource.org/licenses/Artistic-2.0", "bsd-3-clause": "https://opensource.org/licenses/BSD-3-Clause", "agpl-3.0": "https://opensource.org/licenses/AGPL-3.0", "epl-1.0": "https://opensource.org/licenses/EPL-1.0" };
 				
-				$("#category-" + currentProject.category[j]).append($("<div class=\"list-group-item\"><h4 class=\"list-group-item-heading\">" + currentProject.title + "</h4><p class=\"list-group-item-text\">" + (typeof currentProject.description != "undefined" ? currentProject.description + " " : "") + langString(currentProject.lang) + "<span class=\"stars\" title=\"" + currentProject.stars + " Stars\">" + starString(currentProject.stars) + "</span>" + (typeof currentProject.itunes != "undefined" ? "<span title=\"Available on the App Store\">" + emojione.unicodeToImage("📱") + "</span>" : "") + "</p><p class=\"list-group-item-text details\">" + (typeof currentProject.itunes == "undefined" ? "" : "iTunes: <a href=\"" + currentProject.itunes + "\">" + currentProject.itunes + "</a><br />") + "Source: <a href=\"" + currentProject.source + "\">" + currentProject.source + "</a><br />License: " + (licenseMap.hasOwnProperty(currentProject.license) ? "<a href=\"" + licenseMap[currentProject.license] + "\">" + currentProject.license + "</a>" : currentProject.license) + "<br />Suggested by <a href=\"https://github.com/" + currentProject.suggested_by + "\">" + currentProject.suggested_by + "</a> on <span class=\"text-info\">" + (new Date(currentProject.date_added)).toDateString() + "</span></p></div>"));
+				$("#category-" + currentProject.category[j]).append($("<div class=\"list-group-item\"><h4 class=\"list-group-item-heading\">" + currentProject.title + "</h4><p class=\"list-group-item-text\">" + (typeof currentProject.description != "undefined" ? currentProject.description + " " : "") + langString(currentProject.lang) + starString(currentProject.stars) + (typeof currentProject.itunes != "undefined" ? "<span title=\"Available on the App Store\">" + emojione.unicodeToImage("📱") + "</span>" : "") + "</p><p class=\"list-group-item-text details\">" + (typeof currentProject.itunes == "undefined" ? "" : "iTunes: <a href=\"" + currentProject.itunes + "\">" + currentProject.itunes + "</a><br />") + "Source: <a href=\"" + currentProject.source + "\">" + currentProject.source + "</a><br />License: " + (licenseMap.hasOwnProperty(currentProject.license) ? "<a href=\"" + licenseMap[currentProject.license] + "\">" + currentProject.license + "</a>" : currentProject.license) + "<br />Suggested by <a href=\"https://github.com/" + currentProject.suggested_by + "\">" + currentProject.suggested_by + "</a> on <span class=\"text-info\">" + (new Date(currentProject.date_added)).toDateString() + "</span></p></div>"));
 				// Increment category badge
 				var badge = categoryElements[currentProject.category[j]].children("h4").children(".badge");
 				badge.html(Number(badge.html()) + 1);
@@ -76,10 +76,6 @@ $(document).ready(function() {
 
 		// Convert shortcodes and unicode characters to nice looking emojis
 		$(document.body).html(emojione.toImage($(document.body).html()));
-		// Workaround for stars not being updated for some reason
-		$(".stars").each(function() {
-			$(this).html(emojione.toImage($(this).html()));
-		});
 		
 		// Workaround for when the file is being loaded offline
 		$(".emojione[src]").each(function() {
