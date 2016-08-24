@@ -6684,7 +6684,6 @@
       "category": ["scan"],
       "description": "No ads simple QR code URL scanner",
       "source": "https://github.com/kahopoon/QR-Blank",
-      "homepage": "https://www.kahopoon.net",
       "itunes": "https://itunes.apple.com/app/id1137064763",
       "license": "mit",
       "tags": ["swift"],
