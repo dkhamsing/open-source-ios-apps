@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-543-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 24, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-543-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 25, 2016-lightgrey.svg)
 
 Jump to
 
@@ -473,10 +473,6 @@ Click ► to show more details
   <details><summary>https://github.com/caleb0/SwiftSnake</summary>
   Added August 19, 2016<br>  License: `other`<br>  ![SwiftSnake image 1](http://i.imgur.com/mBi9Jfj.png)
   </details>
-- TSWeChat: A WeChat alternative `Swift` 🔥🔥🔥🔥
-  <details><summary>https://github.com/hilen/TSWeChat</summary>
-  Added May 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - youtube-iOS: YouTube app template, uses Swift 3 `Swift` 🔥🔥
   <details><summary>https://github.com/aslanyanhaik/youtube-iOS</summary>
   Added August 15, 2016<br>  License: `other`<br>  ![youtube-iOS image 1](https://camo.githubusercontent.com/cfa19d4ba7d4b87e1a1d0a54c1d11d0761b69ae7/687474703a2f2f692e67697068792e636f6d2f687743616848414431744e48612e676966)
@@ -625,7 +621,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- Celluloid: The best Photo Editing extension [` App Store`](https://itunes.apple.com/app/celluloid/id1124966798) 🇨🇳🔥🔥
+- Celluloid Photo Editing extension [` App Store`](https://itunes.apple.com/app/celluloid/id1124966798) 🇨🇳🔥🔥
   <details><summary>https://github.com/100mango/Celluloid</summary>
   Added July 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -654,7 +650,7 @@ Click ► to show more details
   <details><summary>https://github.com/mozilla/focus</summary>
   Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   </details>
-- Swab: Creative, web & design culture ad blocking [` App Store`](https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002) `Swift` 
+- Swab: Ad blocker for creative, web & design ads [` App Store`](https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002) `Swift` 
   <details><summary>https://github.com/pkamb/swab</summary>
   Added July 12, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>  http://swabthe.com/
   </details>
@@ -1345,10 +1341,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/ilTofa/rposx</summary>
   Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://www.iltofa.com/rphd/
   </details>
-- RealmVideo: Watch Realm videos & slides on your phone `Swift` 🔥🔥
-  <details><summary>https://github.com/BalestraPatrick/RealmVideo</summary>
-  Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - Revolved: 3D modelling app for iPad 🔥🔥🔥
   <details><summary>https://github.com/Ciechan/Revolved</summary>
   Added March  5, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
@@ -1461,6 +1453,10 @@ Image, video, audio, reading — [back to top](#readme)
 - ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
   <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
   Added May 11, 2016<br>  License: `other`
+  </details>
+- RealmVideo: Watch Realm videos & slides on your phone `Swift` 🔥🔥
+  <details><summary>https://github.com/BalestraPatrick/RealmVideo</summary>
+  Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - SoundCloudSwift: SoundCloud app `Swift` 🔥
   <details><summary>https://github.com/pepibumur/SoundCloudSwift</summary>
@@ -2678,7 +2674,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 - QR Blank: No ads simple QR code URL scanner [` App Store`](https://itunes.apple.com/app/id1137064763) `Swift` 
   <details><summary>https://github.com/kahopoon/QR-Blank</summary>
-  Added August 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://www.kahopoon.net<br>  ![QR Blank image 1](https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif)<br>  ![QR Blank image 2](https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg)<br>  ![QR Blank image 3](https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg)
+  Added August 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![QR Blank image 1](https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif)<br>  ![QR Blank image 2](https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg)<br>  ![QR Blank image 3](https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg)
   </details>
 - ZBar Barcode Reader: A comprehensive barcode reader [` App Store`](https://itunes.apple.com/app/id344957305) 
   <details><summary>https://sourceforge.net/projects/zbar/</summary>
