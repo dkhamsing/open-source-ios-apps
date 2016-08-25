@@ -16,7 +16,7 @@ end
 allowed_categories = osia_allowed_categories(c)
 
 apps.each do |a|
-  cat = a['category']
+  cat = a['category-ids']
 
   if cat.nil?
     puts "missing category for #{a}"
