@@ -17,7 +17,7 @@ To create a new category, please open an issue (see CONTRIBUTING) -->
 
 {
             "title": "Name of the app",
-            "category": "Category name",
+            "category-ids": ["Category id"],
             "description": "What this app does",
             "source": "Link to source, usually GitHub",
             "screenshots": ["http://something.com/image.png"],
