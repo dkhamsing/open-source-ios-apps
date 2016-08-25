@@ -65,10 +65,10 @@
 						"description": "The official title of the project.",
 						"type": "string"
 					},
-					"category": {
+					"category-ids": {
 						"title": "Project Category",
-						"description": "The category or list of categories that the project falls under. If it is a list, the categories should be ordered from most to least relevant/applicable to the project.",
-						"type": ["string", "array"],
+						"description": "The list of categories that the project falls under. If it is a list, the categories should be ordered from most to least relevant/applicable to the project.",
+						"type": ["array"],
 						"items": {
 							"type": "string"
 						}
@@ -157,7 +157,7 @@
 						"type": "array"
 					}
 				},
-				"required": ["title", "category", "source"],
+				"required": ["title", "category-ids", "source"],
 				"additionalProperties": false
 			}
 		}
