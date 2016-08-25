@@ -259,7 +259,9 @@
   "projects": [
     {
       "title": "Artsy Shows",
-      "category": "apple-tv",
+      "category-ids": [
+        "apple-tv"
+      ],
       "description": "Art shows on your TV",
       "license": "mit",
       "source": "https://github.com/artsy/Emergence",
@@ -276,7 +278,7 @@
     },
     {
       "title": "EX Player",
-      "category": [
+      "category-ids": [
         "apple-tv",
         "media"
       ],
@@ -289,7 +291,7 @@
     },
     {
       "title": "Provenance",
-      "category": [
+      "category-ids": [
         "apple-tv",
         "emulator"
       ],
@@ -302,7 +304,9 @@
     },
     {
       "title": "UitzendingGemist by jeffkreeftmeijer",
-      "category": "apple-tv",
+      "category-ids": [
+        "apple-tv"
+      ],
       "description": "Dutch Public Broadcasting video on demand",
       "source": "https://github.com/jeffkreeftmeijer/UitzendingGemist",
       "lang": "nld",
@@ -316,23 +320,31 @@
     },
     {
       "title": "WWDCTV",
-      "category": "apple-tv",
+      "category-ids": [
+        "apple-tv"
+      ],
       "description": "Watch WWDC Videos",
       "source": "https://github.com/azzoor/WWDCTV",
       "stars": 413,
-      "screenshots": ["https://github.com/azzoor/WWDCTV/blob/master/WWDC/screen01.png?raw=true"],
+      "screenshots": [
+        "https://github.com/azzoor/WWDCTV/blob/master/WWDC/screen01.png?raw=true"
+      ],
       "license": "other",
       "date_added": "Thu Nov 19 07:47:53 2015 -0800",
       "suggested_by": "@dkhamsing"
     },
     {
       "title": "BaiduFM",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Unofficial Baidu Music app",
       "source": "https://github.com/belm/BaiduFM-Swift",
       "stars": 530,
       "lang": "zho",
-      "screenshots": ["https://github.com/belm/BaiduFM-Swift/raw/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png?raw=true"],
+      "screenshots": [
+        "https://github.com/belm/BaiduFM-Swift/raw/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png?raw=true"
+      ],
       "tags": [
         "swift"
       ],
@@ -342,7 +354,7 @@
     },
     {
       "title": "Bither",
-      "category": [
+      "category-ids": [
         "apple-watch",
         "bitcoin"
       ],
@@ -356,7 +368,9 @@
     },
     {
       "title": "Brew",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Discover craft beer pubs nearby",
       "license": "mit",
       "source": "https://github.com/contentful/ContentfulWatchKitExample",
@@ -370,7 +384,9 @@
     },
     {
       "title": "Bus Today",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Track bus line on your wrist",
       "lang": "zho",
       "source": "https://github.com/JohnWong/bus-today",
@@ -382,7 +398,9 @@
     },
     {
       "title": "Calculator by noodlewerk",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "source": "https://github.com/noodlewerk/Apple_Watch_Calculator",
       "tags": [
         "swift"
@@ -394,7 +412,9 @@
     },
     {
       "title": "Calculator by mukeshthawani",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "source": "https://github.com/mukeshthawani/Calculator",
       "tags": [
         "swift"
@@ -406,7 +426,7 @@
     },
     {
       "title": "Cherry",
-      "category": [
+      "category-ids": [
         "apple-watch",
         "timer"
       ],
@@ -414,7 +434,9 @@
       "license": "mit",
       "source": "https://github.com/kenshin03/Cherry",
       "stars": 346,
-      "screenshots": ["https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png"],
+      "screenshots": [
+        "https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png"
+      ],
       "tags": [
         "swift"
       ],
@@ -423,7 +445,9 @@
     },
     {
       "title": "Connectivity Demo",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "license": "mit",
       "source": "https://github.com/swilliams/watchkit-connectivity-demo",
       "stars": 17,
@@ -432,7 +456,9 @@
     },
     {
       "title": "CoolSpot",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "The missing Spotify app",
       "license": "mit",
       "source": "https://github.com/neonichu/CoolSpot",
@@ -445,7 +471,9 @@
     },
     {
       "title": "Cortado",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Track your caffeine consumption habits",
       "license": "mit",
       "source": "https://github.com/lazerwalker/cortado",
@@ -456,7 +484,7 @@
     },
     {
       "title": "Done",
-      "category": [
+      "category-ids": [
         "apple-watch",
         "realm"
       ],
@@ -472,7 +500,9 @@
     },
     {
       "title": "FlickrWatch",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Apple Watch face using Flickr API",
       "license": "mit",
       "source": "https://github.com/jazzychad/FlickrWatch",
@@ -482,7 +512,9 @@
     },
     {
       "title": "GrandCentralBoard",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Hang a TV in your open space / team room to show everyone what's up and get them up to speed",
       "license": "gpl-3.0",
       "source": "https://github.com/macoscope/GrandCentralBoard",
@@ -495,7 +527,9 @@
     },
     {
       "title": "Gulps",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Track your daily water consumption",
       "source": "https://github.com/FancyPixel/gulps",
       "itunes": "https://itunes.apple.com/app/gulps/id979057304",
@@ -509,7 +543,9 @@
     },
     {
       "title": "heartrate",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Show streaming heart rate from the watch with watchOS 2",
       "source": "https://github.com/coolioxlr/watchOS-2-heartrate",
       "stars": 315,
@@ -522,7 +558,9 @@
     },
     {
       "title": "HighStreet",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Highstreet shopping app",
       "license": "mit",
       "source": "https://github.com/GetHighstreet/HighstreetWatchApp",
@@ -535,7 +573,7 @@
     },
     {
       "title": "HN Reader",
-      "category": [
+      "category-ids": [
         "apple-watch",
         "hacker-news"
       ],
@@ -552,7 +590,9 @@
     },
     {
       "title": "Impulse",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Real-time age ticker",
       "source": "https://github.com/Jasdev/Impulse",
       "tags": [
@@ -565,7 +605,9 @@
     },
     {
       "title": "KTPomodoro",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Mini Pomodoro Timer",
       "source": "https://github.com/kenshin03/KTPomodoro",
       "stars": 33,
@@ -575,7 +617,9 @@
     },
     {
       "title": "Lister",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "List app example by Apple",
       "source": "https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html",
       "tags": [
@@ -587,7 +631,7 @@
     },
     {
       "title": "Natural Language Clock",
-      "category": [
+      "category-ids": [
         "apple-watch",
         "clock"
       ],
@@ -603,7 +647,9 @@
     },
     {
       "title": "OnTime",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Access the SBB (Swiss railway) timetable",
       "license": "apache-2.0",
       "source": "https://github.com/D-32/OnTime",
@@ -613,7 +659,9 @@
     },
     {
       "title": "Parties for WWDC",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "source": "https://github.com/genadyo/WWDC",
       "license": "mit",
       "itunes": "https://itunes.apple.com/app/parties-for-wwdc/id879924066",
@@ -623,7 +671,9 @@
     },
     {
       "title": "PhoneBattery",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Your phone's battery, on your wrist",
       "source": "https://github.com/marcelvoss/PhoneBattery",
       "itunes": "https://itunes.apple.com/app/phonebattery-your-phones-battery/id1009278300",
@@ -634,7 +684,9 @@
     },
     {
       "title": "PhotoWatch",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Uses the SwiftyDropbox SDK",
       "license": "mit",
       "source": "https://github.com/dropbox/PhotoWatch",
@@ -647,7 +699,9 @@
     },
     {
       "title": "Soon",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Countdown app",
       "source": "https://github.com/sandofsky/soon",
       "tags": [
@@ -660,7 +714,9 @@
     },
     {
       "title": "WatchKit-Apps",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Tutorials app",
       "license": "mit",
       "source": "https://github.com/kostiakoval/WatchKit-Apps",
@@ -673,7 +729,9 @@
     },
     {
       "title": "Watchman",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "A WatchOS2 Hangman Game",
       "source": "https://github.com/DanToml/Watchman",
       "tags": [
@@ -686,7 +744,9 @@
     },
     {
       "title": "WatchNotes",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Notes on your wrist",
       "source": "https://github.com/azamsharp/WatchNotes",
       "tags": [
@@ -699,7 +759,9 @@
     },
     {
       "title": "watchOS-2-Sampler",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Code examples for new features of `watchOS` 2",
       "license": "mit",
       "source": "https://github.com/shu223/watchOS-2-Sampler",
@@ -712,7 +774,9 @@
     },
     {
       "title": "WatchPics",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Instagram app",
       "license": "apache-2.0",
       "source": "https://github.com/D-32/WatchPics",
@@ -722,7 +786,9 @@
     },
     {
       "title": "WatchSnake",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Snake game",
       "source": "https://github.com/davidcairns/-WatchSnake",
       "tags": [
@@ -735,7 +801,9 @@
     },
     {
       "title": "WatchStocks",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Track your stocks portfolio, also includes a watch face complication",
       "source": "https://github.com/G2Jose/WatchStocks",
       "tags": [
@@ -748,7 +816,9 @@
     },
     {
       "title": "Wunderschnell",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "description": "Order the right product with one tap on your wrist",
       "license": "mit",
       "source": "https://github.com/contentful-labs/Wunderschnell",
@@ -761,10 +831,14 @@
     },
     {
       "title": "Brave",
-      "category": "browser",
+      "category-ids": [
+        "browser"
+      ],
       "description": "Firefox-based browser with ad block & tracking pixel/cookie block built in",
       "license": "mpl-2.0",
-      "screenshots": ["http://a5.mzstatic.com/us/r30/Purple18/v4/ed/6c/07/ed6c07f4-c9cd-0daa-a331-a39a85ba1c08/screen696x696.jpeg"],
+      "screenshots": [
+        "http://a5.mzstatic.com/us/r30/Purple18/v4/ed/6c/07/ed6c07f4-c9cd-0daa-a331-a39a85ba1c08/screen696x696.jpeg"
+      ],
       "source": "https://github.com/brave/browser-ios",
       "itunes": "https://itunes.apple.com/app/brave-web-browser/id1052879175",
       "stars": 399,
@@ -776,7 +850,9 @@
     },
     {
       "title": "Endless Browser",
-      "category": "browser",
+      "category-ids": [
+        "browser"
+      ],
       "description": "Web browser built with privacy and security in mind",
       "source": "https://github.com/jcs/endless",
       "itunes": "https://itunes.apple.com/app/endless-browser/id974745755",
@@ -787,7 +863,7 @@
     },
     {
       "title": "Firefox",
-      "category": [
+      "category-ids": [
         "browser",
         "official"
       ],
@@ -801,11 +877,15 @@
       ],
       "date_added": "Mon Jan 26 19:08:04 2015 -0800",
       "suggested_by": "@dkhamsing",
-      "screenshots": ["http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg"]
+      "screenshots": [
+        "http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg"
+      ]
     },
     {
       "title": "Frameless",
-      "category": "browser",
+      "category-ids": [
+        "browser"
+      ],
       "description": "A full-screen web browser",
       "source": "https://github.com/stakes/Frameless",
       "itunes": "https://itunes.apple.com/app/id933580264",
@@ -819,7 +899,9 @@
     },
     {
       "title": "Actor",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "Cross-platform instant message app",
       "license": "agpl-3.0",
       "source": "https://github.com/actorapp/actor-platform",
@@ -830,7 +912,9 @@
     },
     {
       "title": "BLEMeshChat",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "Bluetooth LE app",
       "license": "mpl-2.0",
       "source": "https://github.com/chrisballinger/BLEMeshChat",
@@ -840,7 +924,9 @@
     },
     {
       "title": "Chats",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "source": "https://github.com/acani/Chats",
       "stars": 1943,
       "tags": [
@@ -852,7 +938,9 @@
     },
     {
       "title": "ChatSecure",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "Send messages with OTR encryption over XMPP",
       "license": "gpl-3.0",
       "source": "https://github.com/ChatSecure/ChatSecure-iOS",
@@ -863,7 +951,9 @@
     },
     {
       "title": "Colloquy",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "IRC client",
       "source": "https://github.com/colloquy/colloquy",
       "stars": 20,
@@ -873,7 +963,9 @@
     },
     {
       "title": "IRCCloud",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "IRC client/service",
       "source": "https://github.com/irccloud/ios",
       "itunes": "https://itunes.apple.com/app/irccloud/id672699103",
@@ -884,7 +976,9 @@
     },
     {
       "title": "M",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "Email with device-to-device encryption for messages sent between M users",
       "source": "https://github.com/Mynigma/M",
       "itunes": "https://itunes.apple.com/app/m-safe-email-made-simple/id818498595",
@@ -895,7 +989,9 @@
     },
     {
       "title": "Mumble",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "Gaming-focused social voice chat utility",
       "license": "bsd-3-clause",
       "source": "https://github.com/mumble-voip/mumble-iphoneos",
@@ -905,7 +1001,9 @@
     },
     {
       "title": "Rocket.Chat",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "Meteor chat platform app",
       "license": "mit",
       "source": "https://github.com/RocketChat/Rocket.Chat.iOS",
@@ -918,7 +1016,9 @@
     },
     {
       "title": "Signal",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "Free, world-wide, private messaging & phone calls for iPhone",
       "source": "https://github.com/WhisperSystems/Signal-iOS",
       "itunes": "https://itunes.apple.com/app/id874139669",
@@ -929,7 +1029,9 @@
     },
     {
       "title": "surespot",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "Secures all messages using end-to-end encryption",
       "source": "https://github.com/surespot/surespot-ios",
       "itunes": "https://itunes.apple.com/app/surespot/id790314865",
@@ -940,7 +1042,9 @@
     },
     {
       "title": "Telegram",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "Send messages with a focus on speed & security",
       "source": "https://github.com/peter-iakovlev/Telegram",
       "itunes": "https://itunes.apple.com/app/telegram-messenger/id686449807",
@@ -951,7 +1055,9 @@
     },
     {
       "title": "TextEthan",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "Allow anyone to message you",
       "license": "mit",
       "source": "https://github.com/thii/TextEthan",
@@ -964,7 +1070,9 @@
     },
     {
       "title": "EventBlankApp",
-      "category": "conference",
+      "category-ids": [
+        "conference"
+      ],
       "description": "Events / conferences",
       "license": "mit",
       "source": "https://github.com/icanzilb/EventBlankApp",
@@ -977,7 +1085,7 @@
     },
     {
       "title": "Nortal TechDay 2015",
-      "category": [
+      "category-ids": [
         "conference",
         "react-native"
       ],
@@ -989,7 +1097,7 @@
     },
     {
       "title": "Parse 2013 Developer Day",
-      "category": [
+      "category-ids": [
         "conference",
         "react-native"
       ],
@@ -1001,7 +1109,9 @@
     },
     {
       "title": "RWDevCon",
-      "category": "conference",
+      "category-ids": [
+        "conference"
+      ],
       "source": "https://github.com/raywenderlich/RWDevCon-App",
       "tags": [
         "swift"
@@ -1013,7 +1123,9 @@
     },
     {
       "title": "try! Swift",
-      "category": "conference",
+      "category-ids": [
+        "conference"
+      ],
       "source": "https://github.com/tryswift/trySwiftApp",
       "stars": 361,
       "tags": [
@@ -1025,7 +1137,9 @@
     },
     {
       "title": "Valio Con 2014 Schedule",
-      "category": "conference",
+      "category-ids": [
+        "conference"
+      ],
       "license": "mit",
       "source": "https://github.com/soffes/valio",
       "stars": 275,
@@ -1037,7 +1151,9 @@
     },
     {
       "title": "Adblock Fast",
-      "category": "content-blocking",
+      "category-ids": [
+        "content-blocking"
+      ],
       "source": "https://github.com/rocketshipapps/adblockfast",
       "itunes": "https://itunes.apple.com/app/adblock-fast/id1032930802",
       "stars": 370,
@@ -1047,7 +1163,9 @@
     },
     {
       "title": "Adblock Plus",
-      "category": "content-blocking",
+      "category-ids": [
+        "content-blocking"
+      ],
       "source": "https://github.com/adblockplus/adblockplussafariios",
       "itunes": "https://itunes.apple.com/app/adblock-plus-abp/id1028871868",
       "stars": 61,
@@ -1057,7 +1175,9 @@
     },
     {
       "title": "BlockParty",
-      "category": "content-blocking",
+      "category-ids": [
+        "content-blocking"
+      ],
       "license": "mit",
       "source": "https://github.com/krishkumar/BlockParty",
       "stars": 605,
@@ -1066,7 +1186,9 @@
     },
     {
       "title": "Focus by Firefox",
-      "category": "content-blocking",
+      "category-ids": [
+        "content-blocking"
+      ],
       "license": "mpl-2.0",
       "source": "https://github.com/mozilla/focus",
       "stars": 355,
@@ -1078,7 +1200,9 @@
     },
     {
       "title": "AppLove",
-      "category": "developer",
+      "category-ids": [
+        "developer"
+      ],
       "description": "View app reviews for all territories (countries)",
       "license": "mit",
       "source": "https://github.com/snowpunch/AppLove",
@@ -1092,7 +1216,9 @@
     },
     {
       "title": "Bequest",
-      "category": "developer",
+      "category-ids": [
+        "developer"
+      ],
       "description": "Create and replay HTTP/S requests",
       "source": "https://github.com/splinesoft/Bequest",
       "tags": [
@@ -1105,7 +1231,9 @@
     },
     {
       "title": "Codinator",
-      "category": "developer",
+      "category-ids": [
+        "developer"
+      ],
       "description": "iPhone/iPad code editor",
       "source": "https://github.com/DanilaVladi/codinator",
       "itunes": "https://itunes.apple.com/app/codinator/id1024671232",
@@ -1116,7 +1244,9 @@
     },
     {
       "title": "Charter",
-      "category": "developer",
+      "category-ids": [
+        "developer"
+      ],
       "description": "An iPhone/iPad mailing list app",
       "source": "https://github.com/matthewpalmer/Charter",
       "itunes": "https://itunes.apple.com/app/charter-mailing-list-client/id1082212697",
@@ -1130,7 +1260,9 @@
     },
     {
       "title": "CI2Go",
-      "category": "developer",
+      "category-ids": [
+        "developer"
+      ],
       "description": "Unofficial app for https://circleci.com/",
       "source": "https://github.com/ngs/ci2go",
       "itunes": "https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427",
@@ -1144,7 +1276,9 @@
     },
     {
       "title": "Review Time",
-      "category": "developer",
+      "category-ids": [
+        "developer"
+      ],
       "description": "Shows average review times for iOS and Mac apps",
       "license": "mit",
       "source": "https://github.com/nthegedus/ReviewTime",
@@ -1157,7 +1291,9 @@
     },
     {
       "title": "TLDR Man Page",
-      "category": "developer",
+      "category-ids": [
+        "developer"
+      ],
       "description": "Reference dictionary for computer manual commands, but in tl;dr (too long; didn't read) mode",
       "source": "https://github.com/freesuraj/TLDR",
       "itunes": "https://itunes.apple.com/app/tldr-man-page/id1073433250",
@@ -1171,7 +1307,9 @@
     },
     {
       "title": "wat",
-      "category": "developer",
+      "category-ids": [
+        "developer"
+      ],
       "description": "Very simple packet sniffer",
       "license": "mit",
       "source": "https://github.com/pj4533/wat",
@@ -1184,7 +1322,9 @@
     },
     {
       "title": "Github-Swift",
-      "category": "github",
+      "category-ids": [
+        "github"
+      ],
       "license": "mit",
       "source": "https://github.com/acmacalister/Github-Swift",
       "tags": [
@@ -1196,7 +1336,9 @@
     },
     {
       "title": "Monkey",
-      "category": "github",
+      "category-ids": [
+        "github"
+      ],
       "description": "GitHub app that shows the rank of coders and repositories",
       "source": "https://github.com/coderyi/Monkey",
       "itunes": "https://itunes.apple.com/app/monkey-for-github/id1003765407",
@@ -1207,7 +1349,9 @@
     },
     {
       "title": "MrCode",
-      "category": "github",
+      "category-ids": [
+        "github"
+      ],
       "description": "GitHub iPhone app that can cache Markdown content",
       "lang": "zho",
       "license": "mit",
@@ -1218,7 +1362,9 @@
     },
     {
       "title": "OctoPodium",
-      "category": "github",
+      "category-ids": [
+        "github"
+      ],
       "description": "List users ranked by GitHub repository star count",
       "source": "https://github.com/nunogoncalves/iOS-OctoPodium",
       "itunes": "https://itunes.apple.com/app/octopodium/id1077519133",
@@ -1232,7 +1378,9 @@
     },
     {
       "title": "BitStore",
-      "category": "bitcoin",
+      "category-ids": [
+        "bitcoin"
+      ],
       "description": "Bitcoin wallet",
       "license": "mit",
       "source": "https://github.com/BitStore/BitStore-iOS",
@@ -1243,7 +1391,9 @@
     },
     {
       "title": "breadwallet",
-      "category": "bitcoin",
+      "category-ids": [
+        "bitcoin"
+      ],
       "description": "Bitcoin wallet",
       "license": "mit",
       "source": "https://github.com/breadwallet/breadwallet",
@@ -1254,7 +1404,9 @@
     },
     {
       "title": "Buck Tracker",
-      "category": "finance",
+      "category-ids": [
+        "finance"
+      ],
       "description": "Expense tracker",
       "source": "https://github.com/hkalexling/Buck_Tracker",
       "itunes": "https://itunes.apple.com/app/ibudgeter/id1048395728",
@@ -1268,7 +1420,9 @@
     },
     {
       "title": "Coins",
-      "category": "bitcoin",
+      "category-ids": [
+        "bitcoin"
+      ],
       "description": "Bitcoin value tracker",
       "license": "mit",
       "source": "https://github.com/nothingmagical/coins",
@@ -1281,7 +1435,9 @@
     },
     {
       "title": "Concurrency",
-      "category": "finance",
+      "category-ids": [
+        "finance"
+      ],
       "description": "Beautiful, intuitive currency converter",
       "source": "https://github.com/nicklockwood/Concurrency",
       "itunes": "https://itunes.apple.com/app/concurrency/id738872892",
@@ -1292,7 +1448,9 @@
     },
     {
       "title": "doughwallet",
-      "category": "finance",
+      "category-ids": [
+        "finance"
+      ],
       "description": "Dogecoin wallet",
       "source": "https://github.com/peritus/doughwallet",
       "license": "mit",
@@ -1303,7 +1461,9 @@
     },
     {
       "title": "Savings Assistant",
-      "category": "finance",
+      "category-ids": [
+        "finance"
+      ],
       "description": "Expense tracker",
       "license": "gpl-2.0",
       "source": "https://github.com/chrisamanse/savings-assistant",
@@ -1317,7 +1477,10 @@
     },
     {
       "title": "TodayStocks",
-      "category": ["finance", "today"],
+      "category-ids": [
+        "finance",
+        "today"
+      ],
       "description": "Show portfolio in a minimalist Today extension",
       "source": "https://github.com/premnirmal/TodayStocks",
       "itunes": "https://itunes.apple.com/app/todaystocks/id993467855",
@@ -1328,7 +1491,9 @@
     },
     {
       "title": "ToThePenny",
-      "category": "finance",
+      "category-ids": [
+        "finance"
+      ],
       "description": "Budget tracker",
       "source": "https://github.com/vanyaland/ToThePenny",
       "itunes": "https://itunes.apple.com/app/tothepenny/id994476075",
@@ -1339,7 +1504,9 @@
     },
     {
       "title": "Concentration game (翻翻看)",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "lang": "zho",
       "source": "https://github.com/geek5nan/FanFanSwift",
       "stars": 192,
@@ -1352,7 +1519,10 @@
     },
     {
       "title": "2048 in Objective-C",
-      "category": ["game", "clone"],
+      "category-ids": [
+        "game",
+        "clone"
+      ],
       "license": "mit",
       "source": "https://github.com/austinzheng/iOS-2048",
       "stars": 192,
@@ -1361,7 +1531,10 @@
     },
     {
       "title": "2048 in Swift",
-      "category": ["game", "clone"],
+      "category-ids": [
+        "game",
+        "clone"
+      ],
       "license": "mit",
       "source": "https://github.com/austinzheng/swift-2048",
       "stars": 2202,
@@ -1373,7 +1546,9 @@
     },
     {
       "title": "Alienblast",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Cute and sweet shooting game developed with Cocos2D & SpriteBuilder",
       "source": "https://github.com/etamity/AlienBlast",
       "itunes": "https://itunes.apple.com/app/id1098323034",
@@ -1387,7 +1562,9 @@
     },
     {
       "title": "Bridges",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "A puzzle game with bridges, houses, tolls & subways",
       "source": "https://github.com/zgrossbart/bridges",
       "itunes": "https://itunes.apple.com/app/seven-bridges/id586598714",
@@ -1398,7 +1575,9 @@
     },
     {
       "title": "Canabalt",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Infinite runner",
       "source": "https://github.com/ericjohnson/canabalt-ios",
       "itunes": "https://itunes.apple.com/app/canabalt/id333180061",
@@ -1409,7 +1588,9 @@
     },
     {
       "title": "CardsAgainst",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Cards Against Humanity app",
       "license": "mit",
       "source": "https://github.com/jpsim/CardsAgainst",
@@ -1422,7 +1603,9 @@
     },
     {
       "title": "Chess",
-      "category": "spritekit",
+      "category-ids": [
+        "spritekit"
+      ],
       "source": "https://github.com/mjcuva/Chess",
       "tags": [
         "swift"
@@ -1434,7 +1617,9 @@
     },
     {
       "title": "CodeCombat",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Multiplayer programming game for learning how to code",
       "license": "mit",
       "source": "https://github.com/codecombat/codecombat-ios",
@@ -1444,7 +1629,9 @@
     },
     {
       "title": "Chuck",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Throw a ball and catch it, over and over and over",
       "source": "https://github.com/moowahaha/Chuck",
       "itunes": "https://itunes.apple.com/app/chuck/id1050453297",
@@ -1455,7 +1642,9 @@
     },
     {
       "title": "DOOM",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Doom Classic for iOS",
       "source": "https://github.com/id-Software/DOOM-iOS",
       "itunes": "https://itunes.apple.com/app/doom-classic/id336347946",
@@ -1466,7 +1655,9 @@
     },
     {
       "title": "DOOM-IOS2",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Doom Classic for iOS version 2",
       "source": "https://github.com/id-Software/DOOM-IOS2",
       "itunes": "https://itunes.apple.com/app/doom-ii-rpg/id354051766",
@@ -1477,7 +1668,9 @@
     },
     {
       "title": "Dungeon Crawl",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "A game of dungeon exploration, combat and magic, involving characters of diverse skills",
       "homepage": "https://github.com/CliffsDover/crawl/tree/iOS_Release",
       "source": "https://github.com/CliffsDover/crawl",
@@ -1488,7 +1681,9 @@
     },
     {
       "title": "Five In A Row (五子棋)",
-      "category": "spritekit",
+      "category-ids": [
+        "spritekit"
+      ],
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/WelkinXie/FiveInARow",
@@ -1498,7 +1693,10 @@
     },
     {
       "title": "FlappySwift",
-      "category": ["game", "clone"],
+      "category-ids": [
+        "game",
+        "clone"
+      ],
       "description": "Swift implementation of Flappy Bird",
       "source": "https://github.com/fullstackio/FlappySwift",
       "stars": 7841,
@@ -1508,11 +1706,16 @@
       "license": "mit",
       "date_added": "Wed Mar 18 11:05:17 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": ["https://camo.githubusercontent.com/867dfad61329bd77258f00d586b16476c7bc405a/687474703a2f2f692e696d6775722e636f6d2f314e4c6f546f552e676966"]
+      "screenshots": [
+        "https://camo.githubusercontent.com/867dfad61329bd77258f00d586b16476c7bc405a/687474703a2f2f692e696d6775722e636f6d2f314e4c6f546f552e676966"
+      ]
     },
     {
       "title": "Conway's Game of Life",
-      "category": ["game", "spritekit"],
+      "category-ids": [
+        "game",
+        "spritekit"
+      ],
       "license": "mit",
       "source": "https://github.com/yonbergman/swift-gameoflife",
       "tags": [
@@ -1524,7 +1727,9 @@
     },
     {
       "title": "GBA4iOS",
-      "category": "emulator",
+      "category-ids": [
+        "emulator"
+      ],
       "description": "Gameboy, Gameboy Color & Gameboy Advance emulator",
       "source": "https://bitbucket.org/rileytestut/gba4ios/",
       "license": "other",
@@ -1533,7 +1738,9 @@
     },
     {
       "title": "Gorillas",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "An iPhone port of the popular old QBasic game with spunk",
       "source": "https://github.com/Lyndir/Gorillas",
       "homepage": "http://gorillas.lyndir.com/",
@@ -1545,7 +1752,9 @@
     },
     {
       "title": "GrubbyWorm",
-      "category": "spritekit",
+      "category-ids": [
+        "spritekit"
+      ],
       "description": "A simple digital worm game made with iOS 9, SpriteKit, GameplayKit & ReplayKit, written in Swift 2",
       "source": "https://github.com/gamechina/GrubbyWorm",
       "tags": [
@@ -1558,7 +1767,9 @@
     },
     {
       "title": "littlego",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Game of Go on iPhone/iPad",
       "license": "apache-2.0",
       "source": "https://github.com/herzbube/littlego",
@@ -1568,7 +1779,9 @@
     },
     {
       "title": "MUDRammer",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "MUD app for iPhone/iPad",
       "license": "mit",
       "source": "https://github.com/splinesoft/MUDRammer",
@@ -1579,7 +1792,9 @@
     },
     {
       "title": "Mission999",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "license": "apache-2.0",
       "source": "https://github.com/whunmr/Mission999",
       "itunes": "https://itunes.apple.com/app/mission-999/id1036686316",
@@ -1589,12 +1804,16 @@
     },
     {
       "title": "Orbit7",
-      "category": "spritekit",
+      "category-ids": [
+        "spritekit"
+      ],
       "source": "https://github.com/Mav3r1ck/Orbit7",
       "tags": [
         "swift"
       ],
-      "screenshots": ["https://camo.githubusercontent.com/9c5aa602321121d160837fbe8c0af605196810b4/687474703a2f2f73382e706f7374696d672e6f72672f346c377575746f30352f4f72626974375f47616d652e676966"],
+      "screenshots": [
+        "https://camo.githubusercontent.com/9c5aa602321121d160837fbe8c0af605196810b4/687474703a2f2f73382e706f7374696d672e6f72672f346c377575746f30352f4f72626974375f47616d652e676966"
+      ],
       "stars": 88,
       "license": "mit",
       "date_added": "Thu Apr 2 07:36:45 2015 -0700",
@@ -1602,18 +1821,24 @@
     },
     {
       "title": "Sakura Fly",
-      "category": "spritekit",
+      "category-ids": [
+        "spritekit"
+      ],
       "source": "https://github.com/l800891/Sakura-Fly",
       "itunes": "https://itunes.apple.com/app/sakura-fly/id1019023051",
       "stars": 19,
       "license": "mit",
-      "screenshots": ["https://cloud.githubusercontent.com/assets/6619146/13731560/965791fe-e942-11e5-9a11-f66f404fa18c.gif"],
+      "screenshots": [
+        "https://cloud.githubusercontent.com/assets/6619146/13731560/965791fe-e942-11e5-9a11-f66f404fa18c.gif"
+      ],
       "date_added": "Mon Mar 14 09:58:27 2016 -0400",
       "suggested_by": "Chenglin"
     },
     {
       "title": "SceneKitFrogger",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "license": "mit",
       "source": "https://github.com/devindazzle/SceneKitFrogger",
       "tags": [
@@ -1625,7 +1850,9 @@
     },
     {
       "title": "Spare Parts",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Simple 2D point and line physics using Verlet integration",
       "source": "https://github.com/adamwulf/spare-parts-app",
       "itunes": "https://itunes.apple.com/app/spare-parts/id981297199",
@@ -1636,7 +1863,9 @@
     },
     {
       "title": "Stick-Hero-Swift for iPhone/iPad",
-      "category": "spritekit",
+      "category-ids": [
+        "spritekit"
+      ],
       "license": "mit",
       "source": "https://github.com/phpmaple/Stick-Hero-Swift",
       "stars": 326,
@@ -1648,7 +1877,9 @@
     },
     {
       "title": "Wolfenstein 3D",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Wolfenstein 3D for iOS",
       "source": "https://github.com/id-Software/Wolf3D-iOS",
       "itunes": "https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478",
@@ -1659,7 +1890,9 @@
     },
     {
       "title": "Arex",
-      "category": "health",
+      "category-ids": [
+        "health"
+      ],
       "description": "Reminders for taking your medications",
       "license": "mit",
       "source": "https://github.com/a2/arex-7",
@@ -1672,7 +1905,9 @@
     },
     {
       "title": "AsthmaHealth",
-      "category": "researchkit",
+      "category-ids": [
+        "researchkit"
+      ],
       "description": "ResearchKit app studying Asthma",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/AsthmaHealth",
@@ -1683,7 +1918,9 @@
     },
     {
       "title": "Depressed",
-      "category": "health",
+      "category-ids": [
+        "health"
+      ],
       "description": "Test if you are depressed",
       "license": "mit",
       "source": "https://github.com/DerLobi/Depressed",
@@ -1697,7 +1934,9 @@
     },
     {
       "title": "GlucoSuccess",
-      "category": "researchkit",
+      "category-ids": [
+        "researchkit"
+      ],
       "description": "ResearchKit app studying Diabetes",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/GlucoSuccess",
@@ -1708,7 +1947,9 @@
     },
     {
       "title": "HealthKit~Swift",
-      "category": "health",
+      "category-ids": [
+        "health"
+      ],
       "description": "Sample app for `HealthKit`",
       "source": "https://github.com/Darktt/HealthKit-Swift",
       "tags": [
@@ -1721,7 +1962,7 @@
     },
     {
       "title": "Jim",
-      "category": [
+      "category-ids": [
         "fitness",
         "parse"
       ],
@@ -1737,7 +1978,9 @@
     },
     {
       "title": "LogU",
-      "category": "fitness",
+      "category-ids": [
+        "fitness"
+      ],
       "description": "A Strength Logger is a simple logging app for strength athletes",
       "source": "https://github.com/brettalcox/logU-swift",
       "itunes": "https://itunes.apple.com/app/logu-a-strength-logger/id1084487510",
@@ -1751,7 +1994,9 @@
     },
     {
       "title": "mPower",
-      "category": "researchkit",
+      "category-ids": [
+        "researchkit"
+      ],
       "description": "ResearchKit app studying Parkinson's disease",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/mPower",
@@ -1762,7 +2007,9 @@
     },
     {
       "title": "MyHeartCounts",
-      "category": "researchkit",
+      "category-ids": [
+        "researchkit"
+      ],
       "description": "Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/MyHeartCounts",
@@ -1773,7 +2020,9 @@
     },
     {
       "title": "rTracker",
-      "category": "fitness",
+      "category-ids": [
+        "fitness"
+      ],
       "description": "A generic, customizable personal data tracker",
       "source": "https://github.com/rob-miller/rTracker",
       "itunes": "https://itunes.apple.com/app/rtracker-track-it-all-your-way/id486541371",
@@ -1784,7 +2033,9 @@
     },
     {
       "title": "Share The Journey",
-      "category": "researchkit",
+      "category-ids": [
+        "researchkit"
+      ],
       "description": "ResearchKit app studying Breast Cancer",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/ShareTheJourney",
@@ -1795,10 +2046,14 @@
     },
     {
       "title": "Speak",
-      "category": "health",
+      "category-ids": [
+        "health"
+      ],
       "description": "AAC & Speech Therapy",
       "source": "https://github.com/opensourceios/speakability",
-      "tags": ["archive"],
+      "tags": [
+        "archive"
+      ],
       "itunes": "https://itunes.apple.com/app/speakability/id784509467",
       "stars": 20,
       "license": "mit",
@@ -1807,7 +2062,9 @@
     },
     {
       "title": "AA-Keyboard",
-      "category": "keyboard",
+      "category-ids": [
+        "keyboard"
+      ],
       "description": "ASCII art keyboard",
       "source": "https://github.com/sonsongithub/AAKeyboard",
       "itunes": "https://itunes.apple.com/app/aa-keyboard/id964182815",
@@ -1818,7 +2075,9 @@
     },
     {
       "title": "ClickWheelKeyboard",
-      "category": "keyboard",
+      "category-ids": [
+        "keyboard"
+      ],
       "description": "Brings back the classic iPod click wheel as a keyboard for iOS 8",
       "source": "https://github.com/b3ll/ClickWheelKeyboard",
       "itunes": "https://itunes.apple.com/app/click-wheel-keyboard/id993111285",
@@ -1829,10 +2088,15 @@
     },
     {
       "title": "SwiftSnake",
-      "category": ["spritekit", "clone"],
+      "category-ids": [
+        "spritekit",
+        "clone"
+      ],
       "description": "Snake clone",
       "source": "https://github.com/caleb0/SwiftSnake",
-      "screenshots": ["http://i.imgur.com/mBi9Jfj.png"],
+      "screenshots": [
+        "http://i.imgur.com/mBi9Jfj.png"
+      ],
       "license": "other",
       "tags": [
         "swift"
@@ -1842,7 +2106,9 @@
     },
     {
       "title": "Hodor",
-      "category": "keyboard",
+      "category-ids": [
+        "keyboard"
+      ],
       "description": "Fun Hodor keyboard",
       "source": "https://github.com/jonomuller/Hodor-Keyboard",
       "tags": [
@@ -1855,7 +2121,9 @@
     },
     {
       "title": "NaughtyKeyboard",
-      "category": "keyboard",
+      "category-ids": [
+        "keyboard"
+      ],
       "description": "Keyboard that supports The Big List of Naughty Strings",
       "license": "mit",
       "source": "https://github.com/Palleas/NaughtyKeyboard",
@@ -1868,7 +2136,9 @@
     },
     {
       "title": "Slidden",
-      "category": "keyboard",
+      "category-ids": [
+        "keyboard"
+      ],
       "description": "An open source, customizable, iOS keyboard",
       "source": "https://github.com/Brimizer/Slidden",
       "stars": 483,
@@ -1878,7 +2148,7 @@
     },
     {
       "title": "Alarm",
-      "category": [
+      "category-ids": [
         "location",
         "travel"
       ],
@@ -1894,7 +2164,9 @@
     },
     {
       "title": "Doppio",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Finds the nearest Starbucks",
       "source": "https://github.com/chroman/Doppio",
       "stars": 543,
@@ -1904,7 +2176,9 @@
     },
     {
       "title": "DoctorNearby",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Helps you find doctors in your city",
       "source": "https://github.com/vincezzh/doctornearby-ios",
       "itunes": "https://itunes.apple.com/app/doctor-nearby/id1068715113",
@@ -1915,7 +2189,9 @@
     },
     {
       "title": "EatNow",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Get recommendations for restaurants nearby",
       "source": "https://github.com/callzhang/Eat-Now",
       "itunes": "https://itunes.apple.com/app/eat-now-instant-personalized/id946591471",
@@ -1926,7 +2202,9 @@
     },
     {
       "title": "GeoTappy",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Share your location",
       "license": "apache-2.0",
       "source": "https://github.com/GeoTappy/GeoTappy-iOS",
@@ -1936,7 +2214,9 @@
     },
     {
       "title": "HopperBus",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Timetable for the University of Nottingham Hopper Bus",
       "source": "https://github.com/TosinAF/HopperBus-iOS",
       "tags": [
@@ -1949,7 +2229,7 @@
     },
     {
       "title": "iBeaconTasks",
-      "category": [
+      "category-ids": [
         "location",
         "parse"
       ],
@@ -1962,7 +2242,9 @@
     },
     {
       "title": "Locative",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Helping you to get the best out of your automated home, geofencing, iBeacons",
       "source": "https://github.com/LocativeHQ/Locative-iOS",
       "itunes": "https://itunes.apple.com/app/locative/id725198453",
@@ -1973,7 +2255,9 @@
     },
     {
       "title": "Moves",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Visualize where you spend your time",
       "license": "mit",
       "source": "https://github.com/neonichu/Places",
@@ -1983,7 +2267,9 @@
     },
     {
       "title": "OneBusAway",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more",
       "license": "apache-2.0",
       "source": "https://github.com/OneBusAway/onebusaway-iphone",
@@ -1994,7 +2280,9 @@
     },
     {
       "title": "OwnTracks",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Keep track of your own location, you can build your private location diary or share it with your family and friends",
       "source": "https://github.com/owntracks/ios",
       "stars": 95,
@@ -2004,7 +2292,9 @@
     },
     {
       "title": "ParkenDD",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Check the status of several public parking lots in Germany and Switzerland",
       "license": "mit",
       "source": "https://github.com/kiliankoe/ParkenDD",
@@ -2018,7 +2308,9 @@
     },
     {
       "title": "pathlogger",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "GPS logging app",
       "source": "https://github.com/eugenpirogoff/pathlogger",
       "tags": [
@@ -2031,7 +2323,9 @@
     },
     {
       "title": "PebCiti",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Pebble app to show nearest CitiBike NYC dock",
       "source": "https://github.com/joemasilotti/PebCiti",
       "stars": 16,
@@ -2041,7 +2335,9 @@
     },
     {
       "title": "Startups - Mapped In Israel",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Discover new startups and locate co-working spaces",
       "license": "mit",
       "source": "https://github.com/sugarso/MappedInIsrael",
@@ -2051,7 +2347,9 @@
     },
     {
       "title": "Swift-Walk-Tracker",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Track your walks",
       "source": "https://github.com/kevinvanderlugt/Swift-Walk-Tracker",
       "tags": [
@@ -2064,7 +2362,9 @@
     },
     {
       "title": "Smart Traveller (UberGuide)",
-      "category": "travel",
+      "category-ids": [
+        "travel"
+      ],
       "description": "Simple and comfortable way to explore a city using Uber API",
       "license": "mit",
       "source": "https://github.com/hACKbUSTER/UberGuide-iOS",
@@ -2074,7 +2374,9 @@
     },
     {
       "title": "VisitBCN",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "City guide for Barcelona",
       "source": "https://github.com/maurovc/visitBCN",
       "itunes": "https://itunes.apple.com/app/visitbcn/id904676442",
@@ -2085,7 +2387,9 @@
     },
     {
       "title": "360 VR Player",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "iPhone/iPad 360 video player",
       "license": "mit",
       "source": "https://github.com/hanton/HTY360Player",
@@ -2096,7 +2400,9 @@
     },
     {
       "title": "Analog Synth X",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Analog Synthesizer Keyboard Music App, created with Swift 2 ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX))",
       "source": "http://matthewfecher.com/app-developement/swift-synth/",
       "tags": [
@@ -2108,7 +2414,9 @@
     },
     {
       "title": "Artsy",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "The Art World in Your Pocket",
       "license": "mit",
       "source": "https://github.com/artsy/eigen",
@@ -2119,7 +2427,9 @@
     },
     {
       "title": "Artsy Folio",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Artwork showcase",
       "license": "mit",
       "source": "https://github.com/artsy/energy",
@@ -2130,7 +2440,9 @@
     },
     {
       "title": "CollageMaker",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Import photos from an Instagram user and make a collage",
       "source": "https://github.com/Azoft/CollageMaker-iOS",
       "stars": 28,
@@ -2140,7 +2452,9 @@
     },
     {
       "title": "ColorBlur",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Add blur to your photos",
       "source": "https://github.com/maurovc/ColorBlur",
       "itunes": "https://itunes.apple.com/app/id928863510",
@@ -2151,7 +2465,9 @@
     },
     {
       "title": "ComicFlow",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Comic reader for iPad",
       "source": "https://github.com/swisspol/ComicFlow",
       "license": "gpl-3.0",
@@ -2162,7 +2478,9 @@
     },
     {
       "title": "DoubanFM",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "douban.fm app for iPhone, using `AFNetworking` and `MPMoviePlayer`",
       "lang": "zho",
       "license": "mit",
@@ -2173,7 +2491,9 @@
     },
     {
       "title": "Dunk",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "Dribbble client",
       "license": "mit",
       "source": "https://github.com/naoyashiga/Dunk",
@@ -2187,7 +2507,9 @@
     },
     {
       "title": "Eleven",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Simple powerful video player, uses ffmpeg",
       "source": "https://github.com/coderyi/Eleven",
       "itunes": "https://itunes.apple.com/app/elevenplayer/id1033773648",
@@ -2198,7 +2520,9 @@
     },
     {
       "title": "Filterpedia",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Core Image Filter explorer",
       "source": "https://github.com/FlexMonkey/Filterpedia",
       "stars": 1334,
@@ -2211,7 +2535,9 @@
     },
     {
       "title": "Flickr-Search",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "Simple app which consumes the Flickr Search API",
       "source": "https://github.com/alikaragoz/Flickr-Search",
       "stars": 18,
@@ -2221,7 +2547,9 @@
     },
     {
       "title": "FreeStreamer",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "A low-memory footprint streaming audio player",
       "source": "https://github.com/muhku/FreeStreamer",
       "stars": 1049,
@@ -2231,7 +2559,9 @@
     },
     {
       "title": "KonaBot",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "Unofficial app for http://konachan.net/",
       "source": "https://github.com/hkalexling/KonaBot-iOS",
       "itunes": "https://itunes.apple.com/app/konabot/id1055716649",
@@ -2245,7 +2575,9 @@
     },
     {
       "title": "Longboxed",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Track the releases of your favorite comics",
       "license": "mit",
       "source": "https://github.com/jayhickey/Longboxed-iOS",
@@ -2256,7 +2588,9 @@
     },
     {
       "title": "Megabite",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Turn a photo of your food into a face",
       "source": "https://github.com/AaronRandall/Megabite",
       "stars": 337,
@@ -2266,7 +2600,9 @@
     },
     {
       "title": "movies",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "Movie info app",
       "source": "https://github.com/KMindeguia/movies",
       "stars": 792,
@@ -2276,7 +2612,9 @@
     },
     {
       "title": "OCiney",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "Movie info app",
       "source": "https://github.com/florent37/OCiney-iOS",
       "itunes": "https://itunes.apple.com/app/id955480687",
@@ -2287,13 +2625,17 @@
     },
     {
       "title": "OpenPics",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "View historical images from multiple remote sources",
       "license": "gpl-3.0",
       "source": "https://github.com/pj4533/OpenPics",
       "itunes": "https://itunes.apple.com/app/openpics/id633423505",
       "stars": 61,
-      "screenshots": ["https://github.com/pj4533/OpenPics/raw/master/openpics.gif"],
+      "screenshots": [
+        "https://github.com/pj4533/OpenPics/raw/master/openpics.gif"
+      ],
       "tags": [
         "swift"
       ],
@@ -2302,7 +2644,9 @@
     },
     {
       "title": "Open Source Selfie Stick",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Sync two iOS devices and use one as a remote control for the other's camera!",
       "license": "mpl-2.0",
       "source": "https://github.com/RF-Nelson/open-source-selfie-stick",
@@ -2313,7 +2657,9 @@
     },
     {
       "title": "PhotoBrowser",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "A simple iOS Instagram photo browser",
       "source": "https://github.com/MoZhouqi/PhotoBrowser",
       "stars": 466,
@@ -2326,7 +2672,9 @@
     },
     {
       "title": "Poppins",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "House all your favorite GIFs and easily share them with your friends and family",
       "license": "mit",
       "source": "https://github.com/thoughtbot/poppins",
@@ -2340,7 +2688,9 @@
     },
     {
       "title": "PhishOD",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "Listen to any song from Phish.in and view concert ratings and reviews from phish.net",
       "source": "https://github.com/alecgorge/PhishOD-iOS",
       "itunes": "https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018",
@@ -2351,7 +2701,9 @@
     },
     {
       "title": "PopcornTime",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "PopcornTime movie app",
       "source": "https://github.com/danylokostyshyn/popcorntime-ios",
       "tags": [
@@ -2364,7 +2716,9 @@
     },
     {
       "title": "prankPro",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Record a 6 second video while playing prank sounds",
       "source": "https://github.com/huijimuhe/prankPro",
       "stars": 251,
@@ -2374,7 +2728,9 @@
     },
     {
       "title": "Pugs",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "Simple pug photo viewer",
       "source": "https://github.com/soffes/Pugs",
       "tags": [
@@ -2387,7 +2743,9 @@
     },
     {
       "title": "Revolved",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "3D modelling app for iPad",
       "license": "bsd-3-clause",
       "source": "https://github.com/Ciechan/Revolved",
@@ -2397,7 +2755,9 @@
     },
     {
       "title": "SoundCloudSwift",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "SoundCloud app",
       "license": "mit",
       "source": "https://github.com/pepibumur/SoundCloudSwift",
@@ -2410,7 +2770,9 @@
     },
     {
       "title": "ASCII Art Generator",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "source": "https://github.com/ijoshsmith/swift-ascii-art",
       "license": "mit",
       "stars": 141,
@@ -2422,7 +2784,9 @@
     },
     {
       "title": "Swifteroid",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Manual HDR exposure camera",
       "license": "mit",
       "source": "https://github.com/eugenpirogoff/swifteroid",
@@ -2435,7 +2799,9 @@
     },
     {
       "title": "SwiftFlickrApp",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "Flickr popular photo viewer",
       "license": "mit",
       "source": "https://github.com/synboo/SwiftFlickrApp",
@@ -2448,7 +2814,9 @@
     },
     {
       "title": "Swift Radio Pro",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Professional radio station app, created with Swift 2",
       "license": "mit",
       "source": "https://github.com/swiftcodex/Swift-Radio-Pro",
@@ -2461,7 +2829,9 @@
     },
     {
       "title": "SwiftSpace",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "CoreMotion Controlled Drawing in 3D Space",
       "source": "https://github.com/FlexMonkey/SwiftSpace",
       "tags": [
@@ -2474,7 +2844,9 @@
     },
     {
       "title": "TechTavta",
-      "category": "conference",
+      "category-ids": [
+        "conference"
+      ],
       "description": "Keep track of all events for Techtatva 2015",
       "source": "https://github.com/LUGM/TechTatva-15",
       "itunes": "https://itunes.apple.com/app/techtatva15/id922178880",
@@ -2485,7 +2857,9 @@
     },
     {
       "title": "That Movie With",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "Find common movies among actors",
       "source": "https://github.com/jayhickey/thatmoviewith",
       "itunes": "https://itunes.apple.com/app/that-movie-with/id892972135",
@@ -2496,7 +2870,9 @@
     },
     {
       "title": "Textbook",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "textbooks from People's Education Press in China",
       "lang": "zho",
       "source": "https://github.com/JohnWong/textbook",
@@ -2511,7 +2887,9 @@
     },
     {
       "title": "Upupu",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Simple camera app that can backup pictures on a WebDAV server or Dropbox",
       "license": "apache-2.0",
       "source": "https://github.com/xcoo/upupu",
@@ -2522,7 +2900,7 @@
     },
     {
       "title": "VLC",
-      "category": [
+      "category-ids": [
         "media",
         "official"
       ],
@@ -2537,7 +2915,9 @@
     },
     {
       "title": "VoiceMemos",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "iPhone/iPad audio recorder",
       "license": "mit",
       "source": "https://github.com/MoZhouqi/VoiceMemos",
@@ -2550,7 +2930,9 @@
     },
     {
       "title": "xkcd",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "iPhone app",
       "license": "mit",
       "source": "https://github.com/paulrehkugler/xkcd",
@@ -2561,7 +2943,9 @@
     },
     {
       "title": "xkcd Open Source",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "An xkcd comic reader",
       "source": "https://github.com/mamaral/xkcd-Open-Source",
       "itunes": "https://itunes.apple.com/app/xkcd-open-source/id995811425",
@@ -2572,7 +2956,9 @@
     },
     {
       "title": "Designer News App",
-      "category": "news",
+      "category-ids": [
+        "news"
+      ],
       "source": "https://github.com/MengTo/DesignerNewsApp",
       "itunes": "https://itunes.apple.com/app/designer-news-app/id879990495",
       "stars": 1750,
@@ -2585,7 +2971,9 @@
     },
     {
       "title": "Feeds4U",
-      "category": "news",
+      "category-ids": [
+        "news"
+      ],
       "description": "Well architected RSS reader",
       "license": "mit",
       "source": "https://github.com/EvgenyKarkan/Feeds4U",
@@ -2599,7 +2987,9 @@
     },
     {
       "title": "GrinnellEvents",
-      "category": "news",
+      "category-ids": [
+        "news"
+      ],
       "description": "Gather all events on Grinnell College campus",
       "license": "gpl-2.0",
       "source": "https://github.com/kvnbautista/Grinnell-Events-iOS",
@@ -2610,20 +3000,25 @@
     },
     {
       "title": "Keinex tech blog",
-      "category": "news",
+      "category-ids": [
+        "news"
+      ],
       "source": "https://github.com/AndreyBaranchikov/Keinex-iOS",
       "screenshots": [
-	"https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/1.jpg",
-	"https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/2.jpg"],
+        "https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/1.jpg",
+        "https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/2.jpg"
+      ],
       "tags": [
         "swift"
       ],
       "date_added": "Aug 8 2016",
-       "suggested_by": "@AndreyBaranchikov"
+      "suggested_by": "@AndreyBaranchikov"
     },
     {
       "title": "NirZhihuDaily2.0",
-      "category": "news",
+      "category-ids": [
+        "news"
+      ],
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/zpz1237/NirZhihuDaily2.0",
@@ -2633,7 +3028,9 @@
     },
     {
       "title": "Reddit",
-      "category": "news",
+      "category-ids": [
+        "news"
+      ],
       "license": "mit",
       "source": "https://github.com/amitburst/reddit-demo",
       "tags": [
@@ -2645,7 +3042,9 @@
     },
     {
       "title": "RSSRead",
-      "category": "news",
+      "category-ids": [
+        "news"
+      ],
       "description": "A RSS reader with offline feature",
       "lang": "zho",
       "source": "https://github.com/ming1016/RSSRead",
@@ -2657,7 +3056,9 @@
     },
     {
       "title": "TabDump",
-      "category": "news",
+      "category-ids": [
+        "news"
+      ],
       "description": "TabDump news app",
       "license": "mit",
       "source": "https://github.com/dkhamsing/TabDump",
@@ -2667,7 +3068,9 @@
     },
     {
       "title": "The Oakland Post",
-      "category": "news",
+      "category-ids": [
+        "news"
+      ],
       "description": "App for student-run newspaper at Oakland University in Rochester, Michigan",
       "license": "bsd-3-clause",
       "source": "https://github.com/aclissold/the-oakland-post",
@@ -2681,7 +3084,9 @@
     },
     {
       "title": "v2ex",
-      "category": "news",
+      "category-ids": [
+        "news"
+      ],
       "description": "Read https://www.v2ex.com/",
       "lang": "zho",
       "license": "mit",
@@ -2693,7 +3098,7 @@
     },
     {
       "title": "Hacker News Client",
-      "category": [
+      "category-ids": [
         "hacker-news",
         "firebase"
       ],
@@ -2707,7 +3112,7 @@
     },
     {
       "title": "HackerNews (Y)",
-      "category": [
+      "category-ids": [
         "hacker-news",
         "firebase"
       ],
@@ -2721,7 +3126,9 @@
     },
     {
       "title": "HackerNews",
-      "category": "hacker-news",
+      "category-ids": [
+        "hacker-news"
+      ],
       "license": "mit",
       "source": "https://github.com/amitburst/HackerNews",
       "stars": 939,
@@ -2733,7 +3140,9 @@
     },
     {
       "title": "Hackers",
-      "category": "hacker-news",
+      "category-ids": [
+        "hacker-news"
+      ],
       "source": "https://github.com/weiran/Hackers",
       "stars": 303,
       "tags": [
@@ -2745,7 +3154,9 @@
     },
     {
       "title": "HN-App",
-      "category": "hacker-news",
+      "category-ids": [
+        "hacker-news"
+      ],
       "source": "https://github.com/NikantVohra/HackerNewsClient-iOS",
       "itunes": "https://itunes.apple.com/app/hn-app/id983203003",
       "tags": [
@@ -2758,7 +3169,9 @@
     },
     {
       "title": "News/YC",
-      "category": "hacker-news",
+      "category-ids": [
+        "hacker-news"
+      ],
       "description": "Hacker News app with user management, commenting, submitting & themes",
       "license": "mit",
       "source": "https://github.com/bennyguitar/News-YC---iPhone",
@@ -2772,7 +3185,9 @@
     },
     {
       "title": "news",
-      "category": "hacker-news",
+      "category-ids": [
+        "hacker-news"
+      ],
       "description": "yc",
       "license": "bsd-3-clause",
       "source": "https://github.com/Xuzz/newsyc",
@@ -2783,7 +3198,9 @@
     },
     {
       "title": "Simple Reader",
-      "category": "hacker-news",
+      "category-ids": [
+        "hacker-news"
+      ],
       "source": "https://github.com/rnystrom/HackerNewsReader",
       "itunes": "https://itunes.apple.com/app/simple-reader-free-open-source/id1000995253",
       "stars": 195,
@@ -2793,7 +3210,9 @@
     },
     {
       "title": "Coding",
-      "category": "official",
+      "category-ids": [
+        "official"
+      ],
       "description": "Official Coding app",
       "source": "https://github.com/Coding/Coding-iOS",
       "itunes": "https://itunes.apple.com/app/coding/id923676989",
@@ -2804,7 +3223,9 @@
     },
     {
       "title": "DuckDuckGo",
-      "category": "official",
+      "category-ids": [
+        "official"
+      ],
       "description": "Official DuckDuckGo app",
       "source": "https://github.com/duckduckgo/ios",
       "itunes": "https://itunes.apple.com/app/duckduckgo-search-stories/id663592361",
@@ -2815,7 +3236,9 @@
     },
     {
       "title": "WhiteHouse",
-      "category": "official",
+      "category-ids": [
+        "official"
+      ],
       "description": "Official White House app",
       "source": "https://github.com/WhiteHouse/wh-app-ios",
       "itunes": "https://itunes.apple.com/app/the-white-house/id350190807",
@@ -2826,7 +3249,9 @@
     },
     {
       "title": "Wikipedia",
-      "category": "official",
+      "category-ids": [
+        "official"
+      ],
       "description": "Official Wikipedia app",
       "source": "https://github.com/wikimedia/wikipedia-ios",
       "itunes": "https://itunes.apple.com/app/wikipedia-mobile/id324715238",
@@ -2837,7 +3262,9 @@
     },
     {
       "title": "WordPress",
-      "category": "official",
+      "category-ids": [
+        "official"
+      ],
       "description": "Official WordPress app",
       "source": "https://github.com/wordpress-mobile/WordPress-iOS",
       "itunes": "https://itunes.apple.com/app/wordpress/id335703880",
@@ -2848,7 +3275,9 @@
     },
     {
       "title": "Cannonball",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "Fun way to create and share stories and poems using Fabric",
       "license": "apache-2.0",
       "source": "https://github.com/twitterdev/cannonball-ios",
@@ -2862,7 +3291,9 @@
     },
     {
       "title": "Apple Developer Library",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "source": "https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code",
       "license": "other",
       "date_added": "Tue, 24 Mar 2015 08:55:23 -0700",
@@ -2870,7 +3301,9 @@
     },
     {
       "title": "Apple WWDC 2015",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "Code samples from WWDC 2015",
       "source": "https://developer.apple.com/sample-code/wwdc/2015/",
       "license": "other",
@@ -2879,7 +3312,9 @@
     },
     {
       "title": "CloudKit in Objective-C",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "license": "mit",
       "source": "https://github.com/Yalantis/CloudKit-Demo.Objective-C",
       "stars": 104,
@@ -2888,7 +3323,9 @@
     },
     {
       "title": "CloudKit in Swift",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "license": "mit",
       "source": "https://github.com/Yalantis/CloudKit-Demo.Swift",
       "tags": [
@@ -2900,7 +3337,9 @@
     },
     {
       "title": "Federal Data SDK",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "source": "https://github.com/USDepartmentofLabor/Swift-Sample-App",
       "tags": [
         "swift"
@@ -2912,7 +3351,9 @@
     },
     {
       "title": "Furni",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "Furniture store demo app using Fabric",
       "license": "apache-2.0",
       "source": "https://github.com/twitterdev/furni-ios",
@@ -2925,7 +3366,9 @@
     },
     {
       "title": "HomeKit-Demo",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "source": "https://github.com/KhaosT/HomeKit-Demo",
       "stars": 266,
       "tags": [
@@ -2937,7 +3380,9 @@
     },
     {
       "title": "iOS 8 Sampler",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "Code examples for the new functions in iOS 8",
       "license": "mit",
       "source": "https://github.com/shu223/iOS8-Sampler",
@@ -2947,7 +3392,9 @@
     },
     {
       "title": "iOS 9 Sampler",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "Code examples for the new functions in iOS 9",
       "license": "mit",
       "source": "https://github.com/shu223/iOS-9-Sampler",
@@ -2960,7 +3407,9 @@
     },
     {
       "title": "Knock",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "Use Accelerometer and background mode to create a feature of knocking your phone",
       "source": "https://github.com/MatheusCavalca/Knock",
       "stars": 11,
@@ -2970,7 +3419,9 @@
     },
     {
       "title": "Layer-Parse",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "Sample app that integrates Layer and Atlas with Parse",
       "license": "apache-2.0",
       "source": "https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example",
@@ -2983,7 +3434,9 @@
     },
     {
       "title": "LayerPlayer",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "Explore the capabilities of Apple's Core Animation API",
       "license": "mit",
       "source": "https://github.com/scotteg/LayerPlayer",
@@ -2997,7 +3450,9 @@
     },
     {
       "title": "LVMC",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "Multicolumn ListView helper library for Titanium",
       "license": "mit",
       "source": "https://github.com/falkolab/LVMC-Demo-Alloy-App",
@@ -3007,7 +3462,9 @@
     },
     {
       "title": "OpenShop.io",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "Ecommerce shopping app",
       "license": "mit",
       "source": "https://github.com/openshopio/openshop.io-ios",
@@ -3018,7 +3475,9 @@
     },
     {
       "title": "Polls",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "App for Polls API by Apiary",
       "license": "mit",
       "source": "https://github.com/apiaryio/polls-app",
@@ -3031,7 +3490,9 @@
     },
     {
       "title": "Reusable Code",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "source": "https://github.com/carlbtrn/Swift",
       "stars": 2461,
       "tags": [
@@ -3043,7 +3504,9 @@
     },
     {
       "title": "RKGist",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "GitHub Gist app using RestKit",
       "license": "apache-2.0",
       "source": "https://github.com/RestKit/RKGist",
@@ -3053,7 +3516,9 @@
     },
     {
       "title": "SafariAutoLoginTest",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "Demo showing how to auto-login users in iOS 9 using Safari cookies",
       "source": "https://github.com/mackuba/SafariAutoLoginTest",
       "tags": [
@@ -3066,7 +3531,9 @@
     },
     {
       "title": "Starship",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "A generic API client app using Hyperdrive",
       "license": "bsd-2-clause",
       "source": "https://github.com/kylef/Starship",
@@ -3079,7 +3546,9 @@
     },
     {
       "title": "StateRestorationDemo",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "description": "State preservation and restoration APIs",
       "source": "https://github.com/shagedorn/StateRestorationDemo",
       "tags": [
@@ -3092,7 +3561,9 @@
     },
     {
       "title": "Swift-Demos",
-      "category": "sample",
+      "category-ids": [
+        "sample"
+      ],
       "lang": "zho",
       "source": "https://github.com/Lax/iOS-Swift-Demos",
       "stars": 1634,
@@ -3105,7 +3576,9 @@
     },
     {
       "title": "FreeOTP Authenticator",
-      "category": "security",
+      "category-ids": [
+        "security"
+      ],
       "description": "Two-Factor Authentication",
       "source": "https://fedorahosted.org/freeotp/browser/ios",
       "itunes": "https://itunes.apple.com/app/freeotp/id872559395",
@@ -3115,7 +3588,9 @@
     },
     {
       "title": "MasterPassword",
-      "category": "security",
+      "category-ids": [
+        "security"
+      ],
       "description": "Stateless password management solution",
       "license": "gpl-3.0",
       "source": "https://github.com/Lyndir/MasterPassword",
@@ -3126,7 +3601,9 @@
     },
     {
       "title": "MiniKeePass",
-      "category": "security",
+      "category-ids": [
+        "security"
+      ],
       "description": "Secure Password Manager",
       "source": "https://github.com/MiniKeePass/MiniKeePass",
       "itunes": "https://itunes.apple.com/app/id451661808",
@@ -3137,7 +3614,9 @@
     },
     {
       "title": "SkeletonKey",
-      "category": "security",
+      "category-ids": [
+        "security"
+      ],
       "description": "iPhone password manager with Dropbox",
       "source": "https://github.com/chrishulbert/SkeletonKey",
       "itunes": "https://itunes.apple.com/app/skeleton-key-password-manager/id513648119",
@@ -3148,7 +3627,9 @@
     },
     {
       "title": "ZeroStore",
-      "category": "security",
+      "category-ids": [
+        "security"
+      ],
       "description": "password storage without the storage",
       "license": "mit",
       "source": "https://github.com/kylebshr/zerostore-ios",
@@ -3158,7 +3639,9 @@
     },
     {
       "title": "Aozora",
-      "category": "social",
+      "category-ids": [
+        "social"
+      ],
       "description": "Discover and track anime",
       "source": "https://github.com/opensourceios/Aozora",
       "itunes": "https://itunes.apple.com/app/aozora-anime-community-track/id1017433045",
@@ -3172,7 +3655,9 @@
     },
     {
       "title": "Peggsite",
-      "category": "social",
+      "category-ids": [
+        "social"
+      ],
       "description": "App for sharing a social board",
       "source": "https://github.com/jenduf/GenericSocialApp",
       "itunes": "https://itunes.apple.com/app/peggsite/id938445951",
@@ -3183,7 +3668,9 @@
     },
     {
       "title": "StreetMusicMap",
-      "category": "social",
+      "category-ids": [
+        "social"
+      ],
       "description": "Is a collaborative global community that connects street musicians, fans and videomakers",
       "source": "https://github.com/henriquevelloso/StreetMusicMap",
       "itunes": "https://itunes.apple.com/app/street-music-map/id980068735",
@@ -3194,7 +3681,9 @@
     },
     {
       "title": "Yep",
-      "category": "social",
+      "category-ids": [
+        "social"
+      ],
       "description": "Discover talent and build something together",
       "license": "mit",
       "source": "https://github.com/CatchChat/Yep",
@@ -3208,7 +3697,7 @@
     },
     {
       "title": "1Trackr",
-      "category": [
+      "category-ids": [
         "tasks",
         "parse"
       ],
@@ -3222,7 +3711,9 @@
     },
     {
       "title": "CloudKit-To-Do-List",
-      "category": "tasks",
+      "category-ids": [
+        "tasks"
+      ],
       "description": "Store & retrieve tasks using `CloudKit`",
       "license": "mit",
       "source": "https://github.com/anthonygeranio/CloudKit-To-Do-List",
@@ -3235,7 +3726,9 @@
     },
     {
       "title": "MyAwesomeChecklist",
-      "category": "tasks",
+      "category-ids": [
+        "tasks"
+      ],
       "license": "mit",
       "source": "https://github.com/imod/MyAwesomeChecklist",
       "tags": [
@@ -3247,7 +3740,7 @@
     },
     {
       "title": "RealmToDo",
-      "category": [
+      "category-ids": [
         "tasks",
         "realm"
       ],
@@ -3263,7 +3756,7 @@
     },
     {
       "title": "Swift Off",
-      "category": [
+      "category-ids": [
         "tasks",
         "firebase"
       ],
@@ -3280,7 +3773,9 @@
     },
     {
       "title": "Todo",
-      "category": "tasks",
+      "category-ids": [
+        "tasks"
+      ],
       "source": "https://github.com/JakeLin/Todo",
       "stars": 205,
       "tags": [
@@ -3292,7 +3787,9 @@
     },
     {
       "title": "Todo.txt",
-      "category": "tasks",
+      "category-ids": [
+        "tasks"
+      ],
       "description": "If you have a file called todo.txt on your computer right now, you're in the right place",
       "source": "https://github.com/ginatrapani/todo.txt-ios",
       "itunes": "https://itunes.apple.com/app/todo.txt-touch/id491342186",
@@ -3303,7 +3800,9 @@
     },
     {
       "title": "Tinylog",
-      "category": "tasks",
+      "category-ids": [
+        "tasks"
+      ],
       "description": "A minimal iPhone/iPad to-do app",
       "license": "mit",
       "source": "https://github.com/binarylevel/Tinylog-iOS",
@@ -3317,7 +3816,9 @@
     },
     {
       "title": "Lucid Weather Clock",
-      "category": "weather",
+      "category-ids": [
+        "weather"
+      ],
       "description": "Precipitation clock, uses Forecast.io",
       "license": "mit",
       "source": "https://github.com/wrutkowski/Lucid-Weather-Clock",
@@ -3330,7 +3831,9 @@
     },
     {
       "title": "Pocket Forecast",
-      "category": "weather",
+      "category-ids": [
+        "weather"
+      ],
       "description": "Weather app for Typhoon",
       "license": "apache-2.0",
       "source": "https://github.com/appsquickly/Typhoon-Swift-Example",
@@ -3343,7 +3846,9 @@
     },
     {
       "title": "RainMan",
-      "category": "weather",
+      "category-ids": [
+        "weather"
+      ],
       "description": "Uses Forecast.io",
       "source": "https://github.com/Mav3r1ck/Project-RainMan",
       "stars": 632,
@@ -3356,7 +3861,9 @@
     },
     {
       "title": "Sol",
-      "category": "weather",
+      "category-ids": [
+        "weather"
+      ],
       "description": "Uses Weather Underground",
       "license": "mit",
       "source": "https://github.com/comyarzaheri/Sol",
@@ -3366,7 +3873,9 @@
     },
     {
       "title": "SmileWeather",
-      "category": "weather",
+      "category-ids": [
+        "weather"
+      ],
       "description": "Uses Weather Underground & OpenWeatherMap",
       "license": "mit",
       "source": "https://github.com/liu044100/SmileWeather",
@@ -3376,7 +3885,9 @@
     },
     {
       "title": "SwiftWeather",
-      "category": "weather",
+      "category-ids": [
+        "weather"
+      ],
       "license": "mit",
       "source": "https://github.com/JakeLin/SwiftWeather",
       "stars": 3968,
@@ -3388,7 +3899,7 @@
     },
     {
       "title": "Tropos",
-      "category": [
+      "category-ids": [
         "weather",
         "reactivecocoa"
       ],
@@ -3402,7 +3913,7 @@
     },
     {
       "title": "Weather by jsphkhan",
-      "category": [
+      "category-ids": [
         "weather",
         "react-native"
       ],
@@ -3416,7 +3927,9 @@
     },
     {
       "title": "WeatherMap",
-      "category": "weather",
+      "category-ids": [
+        "weather"
+      ],
       "description": "Weather around you in a glance, uses OpenWeatherMap",
       "source": "https://github.com/TakefiveInteractive/WeatherMap",
       "itunes": "https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529",
@@ -3430,7 +3943,9 @@
     },
     {
       "title": "YoCelsius",
-      "category": "weather",
+      "category-ids": [
+        "weather"
+      ],
       "source": "https://github.com/YouXianMing/YoCelsius",
       "itunes": "https://itunes.apple.com/app/yocelsius/id967721892",
       "stars": 1763,
@@ -3440,7 +3955,9 @@
     },
     {
       "title": "PHPHub",
-      "category": "web",
+      "category-ids": [
+        "web"
+      ],
       "description": "iPhone/iPad app for PHPHub Forum",
       "lang": "zho",
       "license": "mit",
@@ -3452,7 +3969,9 @@
     },
     {
       "title": "ProMonster",
-      "category": "web",
+      "category-ids": [
+        "web"
+      ],
       "description": "Store",
       "lang": "por",
       "source": "https://github.com/usemobile/promonster-ios",
@@ -3464,7 +3983,9 @@
     },
     {
       "title": "QiitaCollection",
-      "category": "web",
+      "category-ids": [
+        "web"
+      ],
       "description": "Technical knowledge sharing and collaboration platform",
       "lang": "jpn",
       "license": "mit",
@@ -3476,7 +3997,9 @@
     },
     {
       "title": "A Menjar",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Food menu",
       "lang": "spa",
       "license": "mit",
@@ -3488,7 +4011,9 @@
     },
     {
       "title": "bar",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Cocktail menu",
       "source": "https://github.com/soffes/bar",
       "tags": [
@@ -3501,7 +4026,9 @@
     },
     {
       "title": "Be my eyes",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Connect blind people with volunteer helpers via live video chat",
       "source": "https://github.com/bemyeyes/bemyeyes-ios",
       "itunes": "https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575",
@@ -3512,7 +4039,9 @@
     },
     {
       "title": "BlogQuest",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Alternative Tumblr client",
       "source": "https://github.com/irace/BlogQuest",
       "stars": 9,
@@ -3522,7 +4051,9 @@
     },
     {
       "title": "Borrowed Books UFGRS",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Manage ufrgs.br library books using `Alamofire`",
       "source": "https://github.com/MatheusCavalca/RenovaLivrosUFRGS",
       "tags": [
@@ -3536,7 +4067,9 @@
     },
     {
       "title": "CardDecks",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Configurable card decks",
       "source": "https://github.com/aharren/CardDecks",
       "stars": 30,
@@ -3546,7 +4079,9 @@
     },
     {
       "title": "ChineseZodiac",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "license": "mit",
       "source": "https://github.com/JakeLin/ChineseZodiac",
       "stars": 146,
@@ -3558,7 +4093,9 @@
     },
     {
       "title": "Colo",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Color themes hunter",
       "license": "apache-2.0",
       "source": "https://github.com/wongzigii/Colo",
@@ -3568,7 +4105,9 @@
     },
     {
       "title": "DeckRocket",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Turn your iPhone into a remote for Deckset presentations",
       "license": "mit",
       "source": "https://github.com/jpsim/DeckRocket",
@@ -3581,7 +4120,9 @@
     },
     {
       "title": "EmotionNote Diary",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Analyze choose or take a photo of your face and the app will tell you your emotion",
       "license": "mit",
       "source": "https://github.com/Yogayu/EmotionNote",
@@ -3594,7 +4135,9 @@
     },
     {
       "title": "GammaThingy",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Change screen gamma dynamically",
       "source": "https://github.com/thomasfinch/GammaThingy",
       "stars": 802,
@@ -3604,7 +4147,9 @@
     },
     {
       "title": "GoodNight",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Change screen gamma dynamically",
       "source": "https://github.com/anthonya1999/GoodNight",
       "stars": 544,
@@ -3614,7 +4159,9 @@
     },
     {
       "title": "GreatReader",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "\"Great\" PDF reader designed for both iPhone/iPad",
       "license": "mit",
       "source": "https://github.com/semweb/GreatReader",
@@ -3625,7 +4172,9 @@
     },
     {
       "title": "Hack Cancer Hackathon",
-      "category": "conference",
+      "category-ids": [
+        "conference"
+      ],
       "source": "https://github.com/HackCancer/iOS",
       "itunes": "https://itunes.apple.com/app/hack-cancer/id1030806844",
       "tags": [
@@ -3639,7 +4188,9 @@
     },
     {
       "title": "Hidrate",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Interacts with smart water bottle",
       "source": "https://github.com/mjcuva/Hidrate",
       "stars": 8,
@@ -3649,7 +4200,9 @@
     },
     {
       "title": "iCopyPasta",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Pasteboard feed",
       "license": "mit",
       "source": "https://github.com/alltheflow/iCopyPasta",
@@ -3662,7 +4215,9 @@
     },
     {
       "title": "iContactU",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Reminds you to contact people you ought to",
       "license": "mit",
       "source": "https://github.com/rizal72/iContactU",
@@ -3676,7 +4231,9 @@
     },
     {
       "title": "iGrades",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Track your class grades",
       "source": "https://github.com/maurovc/iGrades",
       "itunes": "https://itunes.apple.com/app/id816987574",
@@ -3687,14 +4244,18 @@
     },
     {
       "title": "Jupp",
-      "category": "extension",
+      "category-ids": [
+        "extension"
+      ],
       "description": "Post to https://app.net/, includes a Share extension",
       "source": "https://github.com/dasdom/Jupp",
       "itunes": "https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740",
       "tags": [
         "swift"
       ],
-      "screenshots": ["http://a3.mzstatic.com/eu/r30/Purple1/v4/01/df/ae/01dfaee3-3ea0-8fdc-cfb4-de38aa3cb2cd/screen696x696.jpeg"],
+      "screenshots": [
+        "http://a3.mzstatic.com/eu/r30/Purple1/v4/01/df/ae/01dfaee3-3ea0-8fdc-cfb4-de38aa3cb2cd/screen696x696.jpeg"
+      ],
       "stars": 16,
       "license": "mit",
       "date_added": "Sat Feb 28 09:29:54 2015 +0100",
@@ -3702,7 +4263,9 @@
     },
     {
       "title": "LidderbuchApp",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "Songbook for Luxembourgish Students",
       "lang": "ltz",
       "source": "https://github.com/AcelLuxembourg/LidderbuchApp",
@@ -3717,7 +4280,9 @@
     },
     {
       "title": "Mirror++",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Minimalist mirror",
       "license": "mit",
       "source": "https://github.com/nathunsmitty/MirrorPlusPlus",
@@ -3730,7 +4295,9 @@
     },
     {
       "title": "my41",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "HP-41C/CV/CX Microcode emulator",
       "source": "https://github.com/mperovic/my41",
       "itunes": "https://itunes.apple.com/app/my41cx/id979041950",
@@ -3741,7 +4308,9 @@
     },
     {
       "title": "OpenCB",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "Interactive chess book reader",
       "license": "gpl-2.0",
       "source": "https://github.com/student-t/OpenCB",
@@ -3751,7 +4320,7 @@
     },
     {
       "title": "Onions",
-      "category": [
+      "category-ids": [
         "text",
         "security"
       ],
@@ -3765,7 +4334,9 @@
     },
     {
       "title": "Open States",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "Browse state legislatures",
       "source": "https://github.com/sunlightlabs/openstates-ios",
       "stars": 55,
@@ -3775,7 +4346,9 @@
     },
     {
       "title": "ownCloud",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "File browser and sync for ownCloud file hosting service",
       "source": "https://github.com/owncloud/ios",
       "itunes": "https://itunes.apple.com/app/owncloud/id543672169",
@@ -3786,7 +4359,9 @@
     },
     {
       "title": "Phonetic",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Add phonetic keys for Chinese names",
       "license": "mit",
       "source": "https://github.com/iAugux/Phonetic",
@@ -3796,7 +4371,9 @@
     },
     {
       "title": "Population Clock",
-      "category": "clock",
+      "category-ids": [
+        "clock"
+      ],
       "description": "Learn about geography and demographics",
       "source": "https://github.com/Netfilter-Com/PopulationClock",
       "itunes": "https://itunes.apple.com/app/population-clock-hd/id590689957",
@@ -3807,7 +4384,9 @@
     },
     {
       "title": "Round & Split",
-      "category": "calculator",
+      "category-ids": [
+        "calculator"
+      ],
       "description": "Tip Calculator",
       "source": "https://github.com/lukhnos/roundandsplit",
       "itunes": "https://itunes.apple.com/app/round-split/id912288737",
@@ -3821,7 +4400,9 @@
     },
     {
       "title": "Runner-Stats",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "iPhone app to record running data",
       "license": "gpl-2.0",
       "source": "https://github.com/hukun01/Runner-Stats",
@@ -3832,7 +4413,9 @@
     },
     {
       "title": "Swiflytics",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "See your realtime Google Analytics data",
       "source": "https://github.com/aciidb0mb3r/Swiflytics",
       "itunes": "https://itunes.apple.com/app/swiflytics/id1076165139",
@@ -3846,7 +4429,9 @@
     },
     {
       "title": "Tether",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Tethering for non-jailbroken iOS Devices over USB",
       "license": "gpl-3.0",
       "source": "https://github.com/chrisballinger/Tether-iOS",
@@ -3856,7 +4441,9 @@
     },
     {
       "title": "Theseus",
-      "category": "fitness",
+      "category-ids": [
+        "fitness"
+      ],
       "description": "Personal analytics app",
       "license": "gpl-2.0",
       "source": "https://github.com/lazerwalker/Theseus",
@@ -3866,7 +4453,9 @@
     },
     {
       "title": "TheReservist",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Check availability of iPhones",
       "source": "https://github.com/kimar/TheReservist",
       "tags": [
@@ -3879,7 +4468,9 @@
     },
     {
       "title": "TrollDrop",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "AirDrop trollfaces to everyone",
       "license": "mit",
       "source": "https://github.com/a2/TrollDrop",
@@ -3889,7 +4480,9 @@
     },
     {
       "title": "VPN On",
-      "category": "today",
+      "category-ids": [
+        "today"
+      ],
       "description": "Extension to turn on VPN",
       "license": "mit",
       "source": "https://github.com/lexrus/VPNOn",
@@ -3903,7 +4496,9 @@
     },
     {
       "title": "Vinylogue",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Simple Last.fm app",
       "license": "bsd-3-clause",
       "source": "https://github.com/twocentstudios/vinylogue",
@@ -3914,7 +4509,9 @@
     },
     {
       "title": "WaniKani",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Learn kanji with https://www.wanikani.com/",
       "license": "gpl-3.0",
       "source": "https://github.com/haawa799/WaniKani-iOS",
@@ -3928,7 +4525,9 @@
     },
     {
       "title": "Words",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "Thesaurus app",
       "license": "mit",
       "source": "https://github.com/soffes/words",
@@ -3938,7 +4537,9 @@
     },
     {
       "title": "WWDC Students",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "description": "WWDC scholarship entries",
       "source": "https://github.com/wwdc",
       "stars": 100,
@@ -3951,7 +4552,9 @@
     },
     {
       "title": "Yorkie",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Helps you take care of your dog",
       "source": "https://github.com/carlbtrn/YorkieApp",
       "itunes": "https://itunes.apple.com/app/Yorkie/id1000836606",
@@ -3962,7 +4565,9 @@
     },
     {
       "title": "ForceSketch",
-      "category": "3d-touch",
+      "category-ids": [
+        "3d-touch"
+      ],
       "description": "Sketching app using 3D Touch",
       "source": "https://github.com/FlexMonkey/ForceSketch",
       "stars": 59,
@@ -3972,7 +4577,9 @@
     },
     {
       "title": "Plum-O-Meter",
-      "category": "3d-touch",
+      "category-ids": [
+        "3d-touch"
+      ],
       "description": "3D Touch app for weighing plums (and other small fruit!)",
       "source": "https://github.com/FlexMonkey/Plum-O-Meter",
       "stars": 441,
@@ -3985,7 +4592,9 @@
     },
     {
       "title": "Malendar",
-      "category": "calendar",
+      "category-ids": [
+        "calendar"
+      ],
       "description": "A redesigned calendar",
       "source": "https://github.com/croossin/Malendar",
       "tags": [
@@ -3998,7 +4607,9 @@
     },
     {
       "title": "Workdays",
-      "category": "calendar",
+      "category-ids": [
+        "calendar"
+      ],
       "description": "Simple iPhone calendar with operating schedule",
       "license": "mit",
       "source": "https://github.com/mpak/Workdays",
@@ -4009,7 +4620,9 @@
     },
     {
       "title": "Edhita",
-      "category": "text",
+      "category-ids": [
+        "text"
+      ],
       "description": "Text editor",
       "license": "mit",
       "source": "https://github.com/tnantoka/edhita",
@@ -4023,7 +4636,9 @@
     },
     {
       "title": "SimpleMemo",
-      "category": "text",
+      "category-ids": [
+        "text"
+      ],
       "description": "Sync notes to EverNote",
       "license": "mit",
       "source": "https://github.com/likumb/SimpleMemo",
@@ -4034,7 +4649,10 @@
     },
     {
       "title": "SwiftNote",
-      "category": ["text", "today"],
+      "category-ids": [
+        "text",
+        "today"
+      ],
       "description": "Simple note taking with Today extension & iCloud sync",
       "license": "mit",
       "source": "https://github.com/mslathrop/SwiftNote",
@@ -4047,7 +4665,9 @@
     },
     {
       "title": "Coffee Timer",
-      "category": "timer",
+      "category-ids": [
+        "timer"
+      ],
       "license": "mit",
       "source": "https://github.com/ashfurrow/yourfirstswiftapp",
       "tags": [
@@ -4059,7 +4679,10 @@
     },
     {
       "title": "Fojusi",
-      "category": ["timer", "today"],
+      "category-ids": [
+        "timer",
+        "today"
+      ],
       "description": "Work timer with Today extension",
       "source": "https://github.com/dasdom/Tomate",
       "itunes": "https://itunes.apple.com/app/fojusi/id923044693",
@@ -4073,7 +4696,9 @@
     },
     {
       "title": "TrackMyTime",
-      "category": "timer",
+      "category-ids": [
+        "timer"
+      ],
       "license": "mit",
       "source": "https://github.com/EvgenyKarkan/TrackMyTime",
       "stars": 17,
@@ -4082,7 +4707,9 @@
     },
     {
       "title": "Tracker 4 Compassion",
-      "category": "appcelerator",
+      "category-ids": [
+        "appcelerator"
+      ],
       "description": "Track your walk, run or ride",
       "license": "mit",
       "source": "https://github.com/fokkezb/tracker",
@@ -4093,7 +4720,9 @@
     },
     {
       "title": "DVD Collection Tracker",
-      "category": "core-data",
+      "category-ids": [
+        "core-data"
+      ],
       "license": "mit",
       "source": "https://github.com/chrismiles/OrganisingCoreData",
       "stars": 35,
@@ -4102,7 +4731,9 @@
     },
     {
       "title": "Nested Lists",
-      "category": "core-data",
+      "category-ids": [
+        "core-data"
+      ],
       "source": "https://github.com/objcio/issue-4-full-core-data-application",
       "stars": 157,
       "license": "other",
@@ -4111,7 +4742,9 @@
     },
     {
       "title": "Tasks",
-      "category": "core-data",
+      "category-ids": [
+        "core-data"
+      ],
       "description": "Designed to quickly and easily add tasks to your iPhone",
       "source": "https://github.com/mbcrump/TasksForSwiftWithPersistingData",
       "itunes": "https://itunes.apple.com/app/task-application/id960435759",
@@ -4125,7 +4758,9 @@
     },
     {
       "title": "Vegan Lists UK",
-      "category": "ionic",
+      "category-ids": [
+        "ionic"
+      ],
       "description": "View and collect official/unofficial Vegan food lists",
       "source": "https://github.com/dsgriffin/vegan-lists-uk",
       "itunes": "https://itunes.apple.com/app/vegan-lists-uk/id1083273301",
@@ -4136,7 +4771,9 @@
     },
     {
       "title": "2CITY",
-      "category": "parse",
+      "category-ids": [
+        "parse"
+      ],
       "description": "Find out the coolest things to do in your city",
       "source": "https://github.com/2city/2CITY-iOS",
       "itunes": "https://itunes.apple.com/app/2city/id944632470",
@@ -4147,7 +4784,9 @@
     },
     {
       "title": "Anypic in Objective-C",
-      "category": "parse",
+      "category-ids": [
+        "parse"
+      ],
       "description": "Mobile and web app that lets users share photos similar to Instagram",
       "source": "https://github.com/ParsePlatform/Anypic",
       "itunes": "https://itunes.apple.com/app/anypic/id539741538",
@@ -4158,7 +4797,9 @@
     },
     {
       "title": "Anypic in Swift",
-      "category": "parse",
+      "category-ids": [
+        "parse"
+      ],
       "source": "https://github.com/SwiftAnyPic/SwiftAnyPic",
       "tags": [
         "swift"
@@ -4170,7 +4811,9 @@
     },
     {
       "title": "AnyWall",
-      "category": "parse",
+      "category-ids": [
+        "parse"
+      ],
       "description": "A fun geolocation app built with Parse",
       "source": "https://github.com/ParsePlatform/AnyWall",
       "itunes": "https://itunes.apple.com/app/anywall/id520955490",
@@ -4181,7 +4824,7 @@
     },
     {
       "title": "how-much",
-      "category": [
+      "category-ids": [
         "parse",
         "firebase"
       ],
@@ -4194,7 +4837,9 @@
     },
     {
       "title": "Parse-Challenge-App",
-      "category": "parse",
+      "category-ids": [
+        "parse"
+      ],
       "description": "iPhone app built using Parse w/ likes, comments, posting images/video",
       "source": "https://github.com/TomekB/Parse-Challenge-App",
       "itunes": "https://itunes.apple.com/app/lets-challenge-me/id944004497",
@@ -4205,7 +4850,9 @@
     },
     {
       "title": "ParseStore",
-      "category": "parse",
+      "category-ids": [
+        "parse"
+      ],
       "description": "Backend provider for selling physical goods using Parse",
       "source": "https://github.com/ParsePlatform/ParseStore",
       "itunes": "https://itunes.apple.com/app/parse-store/id613679907",
@@ -4216,7 +4863,9 @@
     },
     {
       "title": "Paws",
-      "category": "parse",
+      "category-ids": [
+        "parse"
+      ],
       "description": "Building an Instagram-Like App with Parse",
       "source": "http://www.appcoda.com/instagram-app-parse-swift/",
       "tags": [
@@ -4228,7 +4877,9 @@
     },
     {
       "title": "allyoop",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "NBA game scores",
       "license": "mit",
       "source": "https://github.com/wwayne/react-native-nba-app",
@@ -4238,7 +4889,9 @@
     },
     {
       "title": "2048",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/2048",
       "license": "other",
@@ -4247,7 +4900,9 @@
     },
     {
       "title": "Movies",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/Movies",
       "license": "other",
@@ -4256,7 +4911,9 @@
     },
     {
       "title": "TicTacToe",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/TicTacToe",
       "license": "other",
@@ -4265,7 +4922,9 @@
     },
     {
       "title": "UIExplorer",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/UIExplorer",
       "license": "other",
@@ -4274,7 +4933,9 @@
     },
     {
       "title": "Around Me",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "Display Instagram photos around your location",
       "source": "https://github.com/bgryszko/react-native-example",
       "stars": 92,
@@ -4284,7 +4945,9 @@
     },
     {
       "title": "Assemblies",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "Developer-focused Meetup clone",
       "source": "https://github.com/buildreactnative/assemblies",
       "stars": 174,
@@ -4294,7 +4957,7 @@
     },
     {
       "title": "Calculator",
-      "category": [
+      "category-ids": [
         "react-native",
         "calculator"
       ],
@@ -4307,7 +4970,9 @@
     },
     {
       "title": "Currency Converter",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "homepage": "https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter",
       "source": "https://github.com/ashwinpreet/ReactNativeExamples",
       "license": "mit",
@@ -4317,7 +4982,9 @@
     },
     {
       "title": "Den",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "View houses for sale in the Northwest",
       "license": "mit",
       "source": "https://github.com/asamiller/den",
@@ -4327,7 +4994,9 @@
     },
     {
       "title": "Dribbble",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "license": "mit",
       "source": "https://github.com/catalinmiron/react-native-dribbble-app",
       "stars": 1222,
@@ -4336,7 +5005,9 @@
     },
     {
       "title": "F8 2016",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "Official F8 app",
       "source": "https://github.com/fbsamples/f8app",
       "stars": 6794,
@@ -4345,12 +5016,13 @@
         "https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png"
       ],
       "date_added": "Thu Apr 14 07:21:28 2016 -0700",
-      "suggested_by": "@dkhamsing",
-      "screenshots": ["https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png"]
+      "suggested_by": "@dkhamsing"
     },
     {
       "title": "Facebook Login",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "source": "https://github.com/brentvatne/react-native-login",
       "stars": 435,
       "license": "other",
@@ -4359,7 +5031,10 @@
     },
     {
       "title": "Finance",
-      "category": ["react-native", "clone"],
+      "category-ids": [
+        "react-native",
+        "clone"
+      ],
       "description": "iOS's Stocks app written in React Native",
       "license": "mit",
       "source": "https://github.com/7kfpun/FinanceReactNative",
@@ -4369,7 +5044,9 @@
     },
     {
       "title": "Foreign Exchange",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "source": "https://github.com/peralmq/ForeignExchangeApp",
       "stars": 11,
       "license": "other",
@@ -4378,7 +5055,9 @@
     },
     {
       "title": "HackerNews-React-Native",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "license": "mit",
       "source": "https://github.com/iSimar/HackerNews-React-Native",
       "itunes": "https://itunes.apple.com/app/hacker-news-reader-react-native/id1067161633",
@@ -4388,7 +5067,9 @@
     },
     {
       "title": "Iceland Earthquakes",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "license": "mit",
       "source": "https://github.com/paranoida/IcelandEarthquakes",
       "stars": 23,
@@ -4397,7 +5078,9 @@
     },
     {
       "title": "iTunes Catalog Search",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "source": "https://github.com/alexissan/ReactNativeWorkshop",
       "stars": 42,
       "license": "other",
@@ -4406,7 +5089,9 @@
     },
     {
       "title": "london-react",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "source": "https://github.com/JoeStanton/london-react",
       "stars": 41,
       "license": "other",
@@ -4415,7 +5100,9 @@
     },
     {
       "title": "newswatch",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "News app using YouTube playlists",
       "source": "https://github.com/bradoyler/newswatch-react-native",
       "stars": 91,
@@ -4425,7 +5112,9 @@
     },
     {
       "title": "PocketNode",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "Lightweight Node REPL",
       "source": "https://github.com/mzabriskie/PocketNode",
       "stars": 45,
@@ -4435,7 +5124,9 @@
     },
     {
       "title": "Product Kitty",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "Product Hunt app",
       "source": "https://github.com/rkho/product-kitty",
       "stars": 105,
@@ -4445,7 +5136,9 @@
     },
     {
       "title": "Property Finder",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "source": "https://github.com/ColinEberhardt/ReactNative-PropertyFinder",
       "stars": 251,
       "license": "other",
@@ -4454,7 +5147,9 @@
     },
     {
       "title": "ReactNativeHackerNews",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "source": "https://github.com/jsdf/ReactNativeHackerNews",
       "stars": 191,
       "license": "other",
@@ -4463,7 +5158,9 @@
     },
     {
       "title": "RSS Reader",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "source": "https://github.com/christopherdro/react-native-rss-reader",
       "stars": 82,
       "license": "other",
@@ -4472,7 +5169,9 @@
     },
     {
       "title": "Songkick",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "source": "https://github.com/ArnaudRinquin/sk-react-native",
       "stars": 92,
       "license": "other",
@@ -4481,7 +5180,9 @@
     },
     {
       "title": "Spacepics",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "A small app displaying NASA's Picture of the Day",
       "source": "https://github.com/campezzi/react-native-spacepics",
       "stars": 16,
@@ -4491,7 +5192,9 @@
     },
     {
       "title": "Sudoku",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "source": "https://github.com/christopherdro/react-native-sudoku",
       "stars": 41,
       "license": "other",
@@ -4500,7 +5203,9 @@
     },
     {
       "title": "To Do List",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "source": "https://github.com/joemaddalone/react-native-todo",
       "stars": 91,
       "license": "other",
@@ -4509,7 +5214,9 @@
     },
     {
       "title": "Twitch",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "source": "https://github.com/IFours/react-native-twitch",
       "stars": 72,
       "license": "other",
@@ -4518,7 +5225,9 @@
     },
     {
       "title": "Weather by JakeLin",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "license": "mit",
       "source": "https://github.com/JakeLin/ReactNativeWeather",
       "stars": 14,
@@ -4527,7 +5236,9 @@
     },
     {
       "title": "BrewMobile",
-      "category": "reactivecocoa",
+      "category-ids": [
+        "reactivecocoa"
+      ],
       "description": "App for managing the beer brewing process",
       "source": "https://github.com/brewfactory/BrewMobile",
       "stars": 171,
@@ -4540,7 +5251,9 @@
     },
     {
       "title": "C-41",
-      "category": "reactivecocoa",
+      "category-ids": [
+        "reactivecocoa"
+      ],
       "description": "Make developing film easier and more reliable by using this simple timer",
       "license": "mit",
       "source": "https://github.com/ashfurrow/C-41",
@@ -4551,7 +5264,7 @@
     },
     {
       "title": "GitBucket",
-      "category": [
+      "category-ids": [
         "reactivecocoa",
         "github"
       ],
@@ -4565,7 +5278,9 @@
     },
     {
       "title": "GroceryList",
-      "category": "reactivecocoa",
+      "category-ids": [
+        "reactivecocoa"
+      ],
       "description": "iPhone grocery list app, synchronized using GitHub",
       "source": "https://github.com/jspahrsummers/GroceryList",
       "stars": 767,
@@ -4575,7 +5290,7 @@
     },
     {
       "title": "HausClock",
-      "category": [
+      "category-ids": [
         "reactivecocoa",
         "clock"
       ],
@@ -4591,7 +5306,9 @@
     },
     {
       "title": "ReactiveHackerNews",
-      "category": "reactivecocoa",
+      "category-ids": [
+        "reactivecocoa"
+      ],
       "description": "Hacker News reader with Tinder style interface, written in ObjC, uses MVVM & ReactiveCocoa",
       "source": "https://github.com/syshen/ReactiveHackerNews",
       "itunes": "https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368",
@@ -4602,7 +5319,9 @@
     },
     {
       "title": "ReactiveSwiftFlickrSearch",
-      "category": "reactivecocoa",
+      "category-ids": [
+        "reactivecocoa"
+      ],
       "description": "A Flickr-search app that uses MVVM & ReactiveCocoa",
       "source": "https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch",
       "stars": 346,
@@ -4615,7 +5334,9 @@
     },
     {
       "title": "SimpleAuth",
-      "category": "reactivecocoa",
+      "category-ids": [
+        "reactivecocoa"
+      ],
       "description": "Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more)",
       "license": "mit",
       "source": "https://github.com/calebd/SimpleAuth",
@@ -4625,7 +5346,9 @@
     },
     {
       "title": "SwiftRACGoogleImages",
-      "category": "reactivecocoa",
+      "category-ids": [
+        "reactivecocoa"
+      ],
       "description": "Google image search using RAC 4.0 and Swift 2.1",
       "source": "https://github.com/Adlai-Holler/SwiftRACGoogleImages",
       "tags": [
@@ -4638,7 +5361,9 @@
     },
     {
       "title": "GitHub API Client",
-      "category": "rxswift",
+      "category-ids": [
+        "rxswift"
+      ],
       "description": "GitHub app using MVVM and RxSwift",
       "source": "https://github.com/tailec/boilerplate",
       "stars": 207,
@@ -4651,7 +5376,9 @@
     },
     {
       "title": "Kiosk",
-      "category": "rxswift",
+      "category-ids": [
+        "rxswift"
+      ],
       "description": "The Artsy auction kiosk app, uses RxSwift",
       "license": "mit",
       "source": "https://github.com/artsy/eidolon",
@@ -4664,7 +5391,9 @@
     },
     {
       "title": "Contacts",
-      "category": "viper",
+      "category-ids": [
+        "viper"
+      ],
       "source": "https://github.com/sebastianwr/VIPER-Persons",
       "stars": 31,
       "license": "other",
@@ -4673,7 +5402,9 @@
     },
     {
       "title": "Counter",
-      "category": "viper",
+      "category-ids": [
+        "viper"
+      ],
       "license": "mit",
       "source": "https://github.com/mutualmobile/Counter",
       "stars": 244,
@@ -4682,7 +5413,9 @@
     },
     {
       "title": "Rambler.Conferences",
-      "category": "viper",
+      "category-ids": [
+        "viper"
+      ],
       "source": "https://github.com/rambler-ios/RamblerConferences",
       "stars": 83,
       "license": "mit",
@@ -4691,7 +5424,9 @@
     },
     {
       "title": "To do",
-      "category": "viper",
+      "category-ids": [
+        "viper"
+      ],
       "description": "A to-do list app using Viper",
       "source": "https://github.com/objcio/issue-13-viper",
       "homepage": "https://www.objc.io/issues/13-architecture/viper/",
@@ -4702,7 +5437,9 @@
     },
     {
       "title": "Toggl Timer",
-      "category": "xamarin",
+      "category-ids": [
+        "xamarin"
+      ],
       "source": "https://github.com/toggl/mobile",
       "itunes": "https://itunes.apple.com/app/toggl-timer/id885767775",
       "stars": 190,
@@ -4712,7 +5449,7 @@
     },
     {
       "title": "RealmVideo",
-      "category": [
+      "category-ids": [
         "content",
         "developer"
       ],
@@ -4728,7 +5465,7 @@
     },
     {
       "title": "ReactiveKitten",
-      "category": [
+      "category-ids": [
         "reactive-programming",
         "content",
         "sample"
@@ -4746,7 +5483,9 @@
     {
       "title": "RailsCasts",
       "description": "Ruby on Rails screencasts from http://railscasts.com/",
-      "category": "apple-tv",
+      "category-ids": [
+        "apple-tv"
+      ],
       "source": "https://github.com/spritlesoftware/railscasts-on-appletv",
       "stars": 1,
       "license": "other",
@@ -4755,7 +5494,9 @@
     },
     {
       "title": "MetricTime",
-      "category": "travel",
+      "category-ids": [
+        "travel"
+      ],
       "description": "Displays 'Metric Time' for pranking friends on trips to countries that use the metric system",
       "source": "https://github.com/DeveloperACE/MetricTime",
       "tags": [
@@ -4768,7 +5509,9 @@
     },
     {
       "title": "AppSales-Mobile",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "source": "https://github.com/omz/AppSales-Mobile",
       "tags": [
         "archive"
@@ -4780,7 +5523,9 @@
     },
     {
       "title": "Bancha",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "source": "https://github.com/squallstar/bancha-ios-app",
       "tags": [
         "archive"
@@ -4792,7 +5537,9 @@
     },
     {
       "title": "Cheddar",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "license": "bsd-2-clause",
       "source": "https://github.com/nothingmagical/cheddar-ios",
       "tags": [
@@ -4804,7 +5551,9 @@
     },
     {
       "title": "Everest",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "license": "mit",
       "source": "https://github.com/EverestOpenSource/Everest-iOS",
       "tags": [
@@ -4816,7 +5565,9 @@
     },
     {
       "title": "iOctocat",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "source": "https://github.com/dennisreimann/ioctocat",
       "tags": [
         "archive"
@@ -4828,7 +5579,9 @@
     },
     {
       "title": "LastFM",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "source": "https://github.com/lastfm/lastfm-iphone",
       "tags": [
         "archive"
@@ -4840,7 +5593,9 @@
     },
     {
       "title": "Mume",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "source": "https://github.com/opensourceios/Mume",
       "tags": [
         "archive"
@@ -4852,7 +5607,9 @@
     },
     {
       "title": "Pancake",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "source": "https://github.com/Imaginea/pancake-ios",
       "tags": [
         "archive"
@@ -4864,7 +5621,9 @@
     },
     {
       "title": "PocketFlix",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "source": "https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki",
       "tags": [
         "archive"
@@ -4875,7 +5634,9 @@
     },
     {
       "title": "Repo",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "license": "mit",
       "source": "https://github.com/ricburton/Repo",
       "tags": [
@@ -4887,7 +5648,9 @@
     },
     {
       "title": "SudokuResolv",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "license": "apache-2.0",
       "source": "https://github.com/Haoest/SudokuResolv",
       "tags": [
@@ -4899,7 +5662,9 @@
     },
     {
       "title": "Vim",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "source": "https://github.com/applidium/Vim",
       "tags": [
         "archive"
@@ -4911,7 +5676,9 @@
     },
     {
       "title": "wikiHow",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "source": "https://github.com/tderouin/wikiHow-iPhone-Application",
       "tags": [
         "archive"
@@ -4922,7 +5689,7 @@
     },
     {
       "title": "ActiveGS",
-      "category": [
+      "category-ids": [
         "emulator"
       ],
       "description": "Apple II/IIGS Emulator with in-app game browser, mFi and iCade controller support",
@@ -4934,7 +5701,7 @@
     },
     {
       "title": "RetroArch",
-      "category": [
+      "category-ids": [
         "emulator"
       ],
       "description": "The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others",
@@ -4946,7 +5713,7 @@
     },
     {
       "title": "MAME4iOS",
-      "category": [
+      "category-ids": [
         "emulator"
       ],
       "description": "MAME frontend",
@@ -4958,7 +5725,7 @@
     },
     {
       "title": "DOSPad",
-      "category": [
+      "category-ids": [
         "emulator"
       ],
       "description": "DOSBox",
@@ -4970,7 +5737,7 @@
     },
     {
       "title": "PPSSPP",
-      "category": [
+      "category-ids": [
         "emulator"
       ],
       "description": "PSP emulator",
@@ -4982,7 +5749,7 @@
     },
     {
       "title": "FlappyBird clone - Scary Flight",
-      "category": [
+      "category-ids": [
         "game"
       ],
       "license": "mit",
@@ -4998,21 +5765,21 @@
       "tags": [
         "swift"
       ],
-      "category": [
-      	"game"
+      "category-ids": [
+        "game"
       ],
       "license": "apache-2.0",
       "source": "https://github.com/CTKRocks/Google-Feud-iOS",
       "itunes": "https://itunes.apple.com/us/app/guess-my-search/id1144264060",
       "screenshots": [
-      	"http://imgur.com/GXvfj9u.png"
+        "http://imgur.com/GXvfj9u.png"
       ],
       "date_added": "Aug 23 2016",
       "suggested_by": "@CTKRocks"
     },
     {
       "title": "MiamiSunglasses",
-      "category": [
+      "category-ids": [
         "media"
       ],
       "description": "Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH)",
@@ -5027,7 +5794,7 @@
     },
     {
       "title": "nds4ios",
-      "category": [
+      "category-ids": [
         "emulator"
       ],
       "description": "Nintendo DS emulator, port of DeSmuME",
@@ -5039,7 +5806,7 @@
     },
     {
       "title": "iUAE",
-      "category": [
+      "category-ids": [
         "emulator"
       ],
       "description": "Commodore Amiga emulator, based on UAE",
@@ -5051,7 +5818,7 @@
     },
     {
       "title": "SwiftHub",
-      "category": [
+      "category-ids": [
         "github"
       ],
       "description": "View Swift repositories on GitHub",
@@ -5063,7 +5830,9 @@
     },
     {
       "title": "Balloon Burst",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Uses Cocos2D",
       "source": "https://github.com/jamiely/ios-balloon-burst",
       "license": "other",
@@ -5074,7 +5843,9 @@
     {
       "title": "Closebox",
       "description": "Find the Closest Postbox",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "license": "mit",
       "source": "https://github.com/peteog/Closebox",
       "itunes": "https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813",
@@ -5084,7 +5855,9 @@
     },
     {
       "title": "Sentiments",
-      "category": "text",
+      "category-ids": [
+        "text"
+      ],
       "description": "Analyzes text for positive or negative sentiment",
       "license": "mit",
       "source": "https://github.com/kyleweiner/Sentiments",
@@ -5097,7 +5870,9 @@
     },
     {
       "title": "TSWeChat",
-      "category": ["communication"],
+      "category-ids": [
+        "communication"
+      ],
       "description": "A WeChat alternative",
       "license": "mit",
       "source": "https://github.com/hilen/TSWeChat",
@@ -5110,7 +5885,9 @@
     },
     {
       "title": "Colorblind",
-      "category": "researchkit",
+      "category-ids": [
+        "researchkit"
+      ],
       "description": "ResearchKit app that provides an easy test for colorblind people",
       "source": "https://github.com/boostcode/ResearchKit-ColorBlind",
       "itunes": "https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412",
@@ -5124,7 +5901,9 @@
     },
     {
       "title": "UitzendingGemist by 4np",
-      "category": "apple-tv",
+      "category-ids": [
+        "apple-tv"
+      ],
       "description": "Uitgebreide UitzendingGemist app voor Nederland",
       "lang": "nld",
       "license": "apache-2.0",
@@ -5138,7 +5917,9 @@
     },
     {
       "title": "Fibonacc iClock",
-      "category": "clock",
+      "category-ids": [
+        "clock"
+      ],
       "description": "A clock based off the famous Fibonacci sequence",
       "license": "gpl-2.0",
       "source": "https://github.com/scribblemaniac/Fibonacc-iClock",
@@ -5148,7 +5929,7 @@
     },
     {
       "title": "Chaty",
-      "category": [
+      "category-ids": [
         "firebase",
         "communication"
       ],
@@ -5162,18 +5943,24 @@
     {
       "title": "iCook TV",
       "description": "Taiwanese cuisine cooking videos",
-      "category": "apple-tv",
+      "category-ids": [
+        "apple-tv"
+      ],
       "license": "mit",
       "source": "https://github.com/polydice/iCook-tvOS",
       "stars": 40,
       "lang": "zho",
-      "screenshots": ["https://camo.githubusercontent.com/f84f375f11c006f9c0d6748d4ef298f5c730d355/68747470733a2f2f706f6c79646963652e6769746875622e696f2f69436f6f6b2d74764f532f696d616765732f53637265656e73686f742e706e67"],
+      "screenshots": [
+        "https://camo.githubusercontent.com/f84f375f11c006f9c0d6748d4ef298f5c730d355/68747470733a2f2f706f6c79646963652e6769746875622e696f2f69436f6f6b2d74764f532f696d616765732f53637265656e73686f742e706e67"
+      ],
       "date_added": "Wed May 25 13:43:48 2016 -0700",
       "suggested_by": "@dkhamsing"
     },
     {
       "title": "Tweetometer",
-      "category": "rxswift",
+      "category-ids": [
+        "rxswift"
+      ],
       "description": "See who is tweeting in your timeline",
       "license": "mit",
       "source": "https://github.com/BalestraPatrick/Tweetometer",
@@ -5186,7 +5973,7 @@
     },
     {
       "title": "Neverlate",
-      "category": [
+      "category-ids": [
         "finance",
         "location"
       ],
@@ -5199,7 +5986,7 @@
     },
     {
       "title": "Telemat-tvOS",
-      "category": [
+      "category-ids": [
         "apple-tv"
       ],
       "description": "Watch Public German Broadcast/TV company streams",
@@ -5212,7 +5999,7 @@
     },
     {
       "title": "NumberPad",
-      "category": [
+      "category-ids": [
         "calculator",
         "science"
       ],
@@ -5225,7 +6012,9 @@
     },
     {
       "title": "MAPS.ME",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Offline maps app with navigation using [OpenStreetMap](https://www.openstreetmap.org) data",
       "license": "apache-2.0",
       "source": "https://github.com/mapsme/omim",
@@ -5237,7 +6026,9 @@
     },
     {
       "title": "Linphone",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "Free audio/video calls & text messages",
       "source": "https://www.linphone.org/technical-corner/linphone/downloads",
       "homepage": "https://www.linphone.org/",
@@ -5248,7 +6039,9 @@
     },
     {
       "title": "Molecules",
-      "category": "science",
+      "category-ids": [
+        "science"
+      ],
       "description": "Visualize molecules in 3D",
       "source": "http://www.sunsetlakesoftware.com/molecules",
       "itunes": "https://itunes.apple.com/app/molecules/id284943090",
@@ -5258,7 +6051,9 @@
     },
     {
       "title": "Task Coach",
-      "category": "tasks",
+      "category-ids": [
+        "tasks"
+      ],
       "description": "A simple to-do manager designed for composite tasks",
       "source": "https://sourceforge.net/projects/taskcoach/",
       "homepage": "http://taskcoach.org/",
@@ -5269,7 +6064,9 @@
     },
     {
       "title": "Castle Hassle",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "A real-time physical game where you build your kingdom while crushing your opponents",
       "source": "https://github.com/bryceredd/CastleHassle",
       "itunes": "https://itunes.apple.com/app/castle-hassle/id524566068",
@@ -5280,7 +6077,9 @@
     },
     {
       "title": "Skeleton Key",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "A puzzle game where you must shift keys around a board to unlock treasure chests",
       "source": "https://github.com/insurgentgames/Skeleton-Key-iOS",
       "license": "mit",
@@ -5290,7 +6089,9 @@
     },
     {
       "title": "Cryptose",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Solve cryptograms as a Hacker, Detective, or Spy",
       "source": "https://github.com/insurgentgames/Cryptose",
       "license": "gpl-3.0",
@@ -5300,7 +6101,9 @@
     },
     {
       "title": "Aeropack",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "A steampunk retro 2d platformer",
       "source": "https://github.com/insurgentgames/Aeropack",
       "license": "gpl-3.0",
@@ -5310,7 +6113,9 @@
     },
     {
       "title": "teh internets",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter",
       "source": "https://github.com/insurgentgames/teh-internets",
       "license": "gpl-3.0",
@@ -5320,7 +6125,9 @@
     },
     {
       "title": "hoxChess",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Xiangqi (Chinese Chess) with single and multiplayer modes",
       "source": "https://github.com/huygithub/hoxChess",
       "itunes": "https://itunes.apple.com/app/hoxchess/id363513274",
@@ -5331,7 +6138,9 @@
     },
     {
       "title": "iLabyrinth",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Escape the labyrinth by following limited paths",
       "source": "https://github.com/RolandasRazma/iLabyrinth",
       "license": "other",
@@ -5341,7 +6150,9 @@
     },
     {
       "title": "Heredox",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Place tiles to form your allegiance's symbols",
       "source": "https://github.com/RolandasRazma/Heredox",
       "homepage": "http://www.heredox.com/",
@@ -5351,7 +6162,9 @@
     },
     {
       "title": "Pterodactyl Attack",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Blast your way through waves of pterodactyls, includes detailed writeup on how it's made",
       "source": "https://github.com/shaunlebron/PterodactylAttack",
       "homepage": "https://shaunlebron.github.io/pteroattack.com/",
@@ -5363,7 +6176,9 @@
     },
     {
       "title": "Neocom for EVE Online",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "The character management tool for EveOnline MMORG",
       "license": "lgpl-2.1",
       "source": "https://github.com/mrdepth/Neocom",
@@ -5374,7 +6189,9 @@
     },
     {
       "title": "Hostile Takeover",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "A release of the real time strategy game Warfare Incorporated",
       "source": "https://github.com/spiffcode/hostile-takeover",
       "license": "bsd-2-clause",
@@ -5384,19 +6201,25 @@
     },
     {
       "title": "XPilot",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "An iPhone port of the classic XPilot game",
       "source": "http://7b5labs.com/xpilot.git/",
       "homepage": "http://7b5labs.com/xpilotiphone",
       "itunes": "https://itunes.apple.com/app/id322114791",
       "license": "gpl-2.0",
-      "tags": ["archive"],
+      "tags": [
+        "archive"
+      ],
       "date_added": "Wed Jun 1 22:18:46 2016 -0600",
       "suggested_by": "@scribblemaniac"
     },
     {
       "title": "AppSlate",
-      "category": "developer",
+      "category-ids": [
+        "developer"
+      ],
       "description": "Make your own iOS apps",
       "source": "https://github.com/Taehan-Kim/AppSlate",
       "homepage": "https://www.facebook.com/AppSlate",
@@ -5408,7 +6231,9 @@
     },
     {
       "title": "Authenticator",
-      "category": "security",
+      "category-ids": [
+        "security"
+      ],
       "description": "A simple two-factor authentication app with a clean UI",
       "source": "https://github.com/mattrubin/authenticator",
       "homepage": "https://mattrubin.me/authenticator/",
@@ -5420,7 +6245,9 @@
     },
     {
       "title": "CodeHub",
-      "category": "github",
+      "category-ids": [
+        "github"
+      ],
       "description": "Browse and maintain GitHub repositories",
       "source": "https://github.com/thedillonb/CodeHub",
       "homepage": "http://codehub-app.com/",
@@ -5432,7 +6259,9 @@
     },
     {
       "title": "Dragon Shout App 2",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "A social journal for the Elder Scrolls® series",
       "source": "https://github.com/rblalock/dragon_shout_app_open_source",
       "itunes": "https://itunes.apple.com/app/id690208182",
@@ -5443,7 +6272,9 @@
     },
     {
       "title": "Frotz",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Play hundreds of free works of Interactive Fiction (a.k.a. text adventure games)",
       "source": "https://github.com/ifrotz/iosfrotz",
       "homepage": "https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md",
@@ -5455,7 +6286,9 @@
     },
     {
       "title": "Inkpad",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Vector illustration",
       "license": "mpl-2.0",
       "source": "https://github.com/sprang/Inkpad",
@@ -5465,7 +6298,7 @@
     },
     {
       "title": "Wizard War",
-      "category": [
+      "category-ids": [
         "game",
         "reactivecocoa",
         "parse"
@@ -5479,7 +6312,9 @@
     },
     {
       "title": "ZBar Barcode Reader",
-      "category": "scan",
+      "category-ids": [
+        "scan"
+      ],
       "description": "A comprehensive barcode reader",
       "source": "https://sourceforge.net/projects/zbar/",
       "homepage": "http://zbar.sourceforge.net/",
@@ -5490,7 +6325,7 @@
     },
     {
       "title": "Prey Anti Theft",
-      "category": [
+      "category-ids": [
         "location",
         "security"
       ],
@@ -5505,7 +6340,7 @@
     },
     {
       "title": "Prey",
-      "category": [
+      "category-ids": [
         "location",
         "security"
       ],
@@ -5522,7 +6357,7 @@
     },
     {
       "title": "Radio Paradise",
-      "category": [
+      "category-ids": [
         "media",
         "official"
       ],
@@ -5537,7 +6372,7 @@
     },
     {
       "title": "Kodi",
-      "category": [
+      "category-ids": [
         "media",
         "official"
       ],
@@ -5551,7 +6386,7 @@
     },
     {
       "title": "Kodi Remote",
-      "category": [
+      "category-ids": [
         "media",
         "official"
       ],
@@ -5566,7 +6401,9 @@
     },
     {
       "title": "Antidote",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "A client for https://tox.chat/",
       "source": "https://github.com/Antidote-for-Tox/Antidote",
       "license": "mit",
@@ -5577,7 +6414,9 @@
     },
     {
       "title": "Tutanota",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "End-to-end encrypted email",
       "source": "https://github.com/tutao/tutanota",
       "homepage": "https://tutanota.com/",
@@ -5589,7 +6428,7 @@
     },
     {
       "title": "Piwik Mobile 2",
-      "category": [
+      "category-ids": [
         "developer",
         "official"
       ],
@@ -5604,7 +6443,9 @@
     },
     {
       "title": "Seafile Pro",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "App for Seafile (self-hosted file sharing)",
       "source": "https://github.com/haiwen/seafile-iOS",
       "homepage": "https://www.seafile.com/en/home/",
@@ -5616,7 +6457,9 @@
     },
     {
       "title": "OsmAnd Maps",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "A map app with access to OpenStreetMaps",
       "license": "gpl-3.0",
       "source": "https://github.com/osmandapp/Osmand",
@@ -5628,7 +6471,9 @@
     },
     {
       "title": "Habitica",
-      "category": "tasks",
+      "category-ids": [
+        "tasks"
+      ],
       "description": "Habit building and productivity",
       "license": "gpl-3.0",
       "source": "https://github.com/HabitRPG/habitrpg-ios",
@@ -5640,7 +6485,9 @@
     },
     {
       "title": "MuPDF",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "A PDF, XPS/OpenXPS, CBZ and EPUB document viewer",
       "source": "http://git.ghostscript.com/?p=mupdf.git;a=summary",
       "homepage": "http://mupdf.com/",
@@ -5651,7 +6498,9 @@
     },
     {
       "title": "Kiwix",
-      "category": "web",
+      "category-ids": [
+        "web"
+      ],
       "description": "An offline reader for Wikipedia (& many other websites)",
       "source": "https://github.com/kiwix/iOS",
       "homepage": "http://www.kiwix.org/wiki/Main_Page",
@@ -5666,7 +6515,9 @@
     },
     {
       "title": "Hedgewars",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "A turn-based strategy game",
       "source": "http://hg.hedgewars.org/hedgewars/",
       "homepage": "http://www.hedgewars.org/",
@@ -5677,7 +6528,9 @@
     },
     {
       "title": "FreeRDP",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "An implementation of the Remote Desktop Protocol (RDP)",
       "license": "apache-2.0",
       "source": "https://github.com/FreeRDP/FreeRDP",
@@ -5688,7 +6541,7 @@
     },
     {
       "title": "Minds Mobile App",
-      "category": [
+      "category-ids": [
         "social",
         "ionic"
       ],
@@ -5703,7 +6556,9 @@
     },
     {
       "title": "Encryptr",
-      "category": "security",
+      "category-ids": [
+        "security"
+      ],
       "description": "A zero-knowledge, cloud-based e-wallet and password manager",
       "license": "gpl-3.0",
       "source": "https://github.com/SpiderOak/Encryptr",
@@ -5715,7 +6570,9 @@
     },
     {
       "title": "Spika",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "A secure business messenger",
       "source": "https://github.com/cloverstudio/Spika",
       "homepage": "https://spika.business/",
@@ -5726,20 +6583,26 @@
     },
     {
       "title": "Onion Browser",
-      "category": "browser",
+      "category-ids": [
+        "browser"
+      ],
       "description": "A Tor-powered web browser that improves your privacy",
       "source": "https://github.com/mtigas/iOS-OnionBrowser",
       "homepage": "https://mike.tig.as/onionbrowser/",
       "itunes": "https://itunes.apple.com/app/id519296448",
       "license": "mit",
-      "screenshots": ["http://a4.mzstatic.com/us/r30/Purple42/v4/7c/3c/cc/7c3ccc4e-77c8-799a-9058-4b8672c71a08/screen696x696.jpeg"],
+      "screenshots": [
+        "http://a4.mzstatic.com/us/r30/Purple42/v4/7c/3c/cc/7c3ccc4e-77c8-799a-9058-4b8672c71a08/screen696x696.jpeg"
+      ],
       "stars": 711,
       "date_added": "Thu Jun 2 00:42:49 2016 -0600",
       "suggested_by": "@scribblemaniac"
     },
     {
       "title": "projectM",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "An `OpenGL` based advanced music visualization program",
       "source": "https://sourceforge.net/projects/projectm/",
       "homepage": "http://projectm.sourceforge.net/",
@@ -5750,7 +6613,9 @@
     },
     {
       "title": "openHAB",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Vendor and technology agnostic home automation",
       "license": "epl-1.0",
       "source": "https://github.com/openhab/openhab.ios",
@@ -5762,7 +6627,9 @@
     },
     {
       "title": "LibreOffice Remote for Impress",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely",
       "source": "https://cgit.freedesktop.org/libreoffice/impress_remote/",
       "itunes": "https://itunes.apple.com/app/id806879890",
@@ -5772,7 +6639,9 @@
     },
     {
       "title": "Free42",
-      "category": "calculator",
+      "category-ids": [
+        "calculator"
+      ],
       "description": "A re-implementation of the HP-42S Calculator and the HP-82240 printer",
       "source": "http://thomasokken.com/free42/download/free42.tgz",
       "homepage": "http://thomasokken.com/free42/",
@@ -5783,7 +6652,9 @@
     },
     {
       "title": "Miataru",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "A location tracking app where data can be shared over public or private servers",
       "license": "bsd-2-clause",
       "source": "https://github.com/miataru/miataru-ios-client",
@@ -5795,7 +6666,9 @@
     },
     {
       "title": "Wheelmap",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Online map for locating wheelchair-accessible places",
       "source": "https://github.com/sozialhelden/wheelmap-iphone2",
       "homepage": "http://wheelmap.org",
@@ -5807,7 +6680,9 @@
     },
     {
       "title": "Ello",
-      "category": "social",
+      "category-ids": [
+        "social"
+      ],
       "description": "Ello is the Creators Network",
       "source": "https://github.com/ello/ello-ios",
       "itunes": "https://itunes.apple.com/app/ello/id953614327",
@@ -5821,7 +6696,9 @@
     },
     {
       "title": "CodeBucket",
-      "category": "developer",
+      "category-ids": [
+        "developer"
+      ],
       "description": "Browse and maintain your Bitbucket repositories",
       "source": "https://github.com/thedillonb/CodeBucket",
       "license": "other",
@@ -5831,7 +6708,9 @@
     },
     {
       "title": "Meme Maker",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Create and share memes!",
       "source": "https://github.com/MemeMaker/Meme-Maker-iOS",
       "itunes": "https://itunes.apple.com/app/id962121383",
@@ -5845,7 +6724,9 @@
     },
     {
       "title": "OpenIt",
-      "category": "today",
+      "category-ids": [
+        "today"
+      ],
       "description": "Extension to launch other apps",
       "source": "https://github.com/BalestraPatrick/OpenIt",
       "license": "other",
@@ -5855,7 +6736,10 @@
     },
     {
       "title": "Awesome Swift iOS App",
-      "category": ["official", "content"],
+      "category-ids": [
+        "official",
+        "content"
+      ],
       "description": "awesome-swift repository official app",
       "source": "https://github.com/matteocrippa/awesomeSwift-iOS-App",
       "itunes": "https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427",
@@ -5869,7 +6753,9 @@
     },
     {
       "title": "ABU",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Easily watch videos from YouKu, iQiyi, SohuTV, bilibili, AcFun & more",
       "lang": "zho",
       "source": "https://github.com/flexih/ABU",
@@ -5884,7 +6770,9 @@
     {
       "title": "Swift-Gif",
       "description": "Gif Search",
-      "category": "content",
+      "category-ids": [
+        "content"
+      ],
       "source": "https://github.com/pjchavarria/Swift-Gif",
       "license": "mit",
       "stars": 52,
@@ -5896,7 +6784,9 @@
     },
     {
       "title": "Pictograph",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Hide messages in images using steganography",
       "source": "https://github.com/MrAdamBoyd/Pictograph",
       "itunes": "https://itunes.apple.com/us/app/id1051879856",
@@ -5910,7 +6800,9 @@
     },
     {
       "title": "DownTube",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Download videos from YouTube for offline use",
       "source": "https://github.com/MrAdamBoyd/DownTube",
       "license": "mit",
@@ -5923,7 +6815,9 @@
     },
     {
       "title": "Obědář",
-      "category": "realm",
+      "category-ids": [
+        "realm"
+      ],
       "description": "Shows daily menu of close restaurants to Czech Technical University",
       "source": "https://github.com/syky27/lunch_guy-ios",
       "license": "mit",
@@ -5936,7 +6830,9 @@
     },
     {
       "title": "CaseAssistant",
-      "category": "health",
+      "category-ids": [
+        "health"
+      ],
       "description": "Cases recording, study, and sharing for ophthalmologist",
       "source": "https://github.com/herrkaefer/CaseAssistant",
       "itunes": "https://itunes.apple.com/app/id1003007080",
@@ -5952,7 +6848,9 @@
     },
     {
       "title": "SwiftTextClock",
-      "category": "clock",
+      "category-ids": [
+        "clock"
+      ],
       "description": "Inspired by the beautiful QlockTwo",
       "source": "https://github.com/MichMich/SwiftTextClock",
       "license": "other",
@@ -5965,7 +6863,9 @@
     },
     {
       "title": "To Do List (Redux)",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "React Native to-do List app which uses Redux for managing app state",
       "source": "https://github.com/uiheros/react-native-redux-todo-list",
       "license": "mit",
@@ -5975,7 +6875,9 @@
     },
     {
       "title": "SwiftBlog",
-      "category": "news",
+      "category-ids": [
+        "news"
+      ],
       "description": "Read the official Apple Swift Blog via RSS",
       "source": "https://github.com/BalestraPatrick/SwiftBlog",
       "license": "other",
@@ -5988,7 +6890,7 @@
     },
     {
       "title": "American Chronicle",
-      "category": [
+      "category-ids": [
         "news",
         "viper"
       ],
@@ -6003,7 +6905,9 @@
     },
     {
       "title": "SaveTheDot",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "`UIViewPropertyAnimator` experiment where you have to escape from the squares",
       "source": "https://github.com/JakeLin/SaveTheDot",
       "license": "mit",
@@ -6013,7 +6917,9 @@
     },
     {
       "title": "RxMarbles",
-      "category": "rxswift",
+      "category-ids": [
+        "rxswift"
+      ],
       "description": "Interactive diagrams of Rx Observables",
       "source": "https://github.com/RxSwiftCommunity/RxMarbles",
       "itunes": "https://itunes.apple.com/us/app/rxmarbles/id1087272442",
@@ -6027,7 +6933,9 @@
     },
     {
       "title": "Potatso",
-      "category": "security",
+      "category-ids": [
+        "security"
+      ],
       "description": "App that implements Shadowsocks proxy",
       "source": "https://github.com/shadowsocks/Potatso",
       "itunes": "https://itunes.apple.com/app/id1070901416",
@@ -6042,7 +6950,7 @@
     },
     {
       "title": "SIP Calculator",
-      "category": [
+      "category-ids": [
         "finance",
         "calculator"
       ],
@@ -6059,7 +6967,7 @@
     },
     {
       "title": "Tagger",
-      "category": [
+      "category-ids": [
         "media",
         "core-data"
       ],
@@ -6075,7 +6983,7 @@
     },
     {
       "title": "EMI Calculator",
-      "category": [
+      "category-ids": [
         "finance",
         "viper"
       ],
@@ -6092,7 +7000,7 @@
     },
     {
       "title": "My First Memory",
-      "category": [
+      "category-ids": [
         "media",
         "game"
       ],
@@ -6108,7 +7016,7 @@
     },
     {
       "title": "Mini vMac",
-      "category": [
+      "category-ids": [
         "emulator"
       ],
       "description": "Early 68K Macintosh emulator",
@@ -6121,19 +7029,25 @@
     },
     {
       "title": "Uncle Nagy's House",
-      "category": "apple-tv",
+      "category-ids": [
+        "apple-tv"
+      ],
       "description": "TVML app for http://unclenagyshouse.com/, uses Gulp tasks to build Jade & CoffeeScript",
       "license": "mit",
       "source": "https://github.com/kenmickles/unh_tvos",
       "itunes": "https://itunes.apple.com/us/app/id1042172021",
       "stars": 2,
-      "screenshots": ["https://camo.githubusercontent.com/8d0df3c5da622d7bd153620e8e83fc544d11d48f/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f313539393832332f53637265656e73686f74253230323031352d30392d323125323032332e33392e30312e706e67"],
+      "screenshots": [
+        "https://camo.githubusercontent.com/8d0df3c5da622d7bd153620e8e83fc544d11d48f/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f313539393832332f53637265656e73686f74253230323031352d30392d323125323032332e33392e30312e706e67"
+      ],
       "date_added": "Mon Jul 11 16:37:35 2016 -0400",
       "suggested_by": "@kenmickles"
     },
     {
       "title": "Abby's Cycle",
-      "category": "health",
+      "category-ids": [
+        "health"
+      ],
       "description": "A HealthKit powered menstrual cycle tracker",
       "license": "other",
       "tags": [
@@ -6146,7 +7060,9 @@
     },
     {
       "title": "Traccar Client",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Report device location to the server",
       "license": "apache-2.0",
       "source": "https://github.com/tananaev/traccar-client-ios",
@@ -6157,7 +7073,9 @@
     },
     {
       "title": "Traccar Manager",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Track GPS devices on map",
       "license": "apache-2.0",
       "source": "https://github.com/tananaev/traccar-manager-ios",
@@ -6168,7 +7086,11 @@
     },
     {
       "title": "2048 in Objective-C using `SpriteKit`",
-      "category": ["game", "spritekit", "clone"],
+      "category-ids": [
+        "game",
+        "spritekit",
+        "clone"
+      ],
       "license": "mit",
       "source": "https://github.com/danqing/2048",
       "stars": 812,
@@ -6177,7 +7099,7 @@
     },
     {
       "title": "Swab",
-      "category": [
+      "category-ids": [
         "content-blocking"
       ],
       "description": "Ad blocker for creative, web & design ads",
@@ -6194,7 +7116,9 @@
     },
     {
       "title": "SHMUP",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "3D multiplatform game written primarily in C",
       "license": "gpl-3.0",
       "homepage": "http://fabiensanglard.net/shmup/",
@@ -6206,7 +7130,9 @@
     },
     {
       "title": "Themoji",
-      "category": "travel",
+      "category-ids": [
+        "travel"
+      ],
       "license": "other",
       "description": "Use Emojis to communicate while traveling",
       "homepage": "https://themoji.me/",
@@ -6217,7 +7143,9 @@
     },
     {
       "title": "Blink",
-      "category": "developer",
+      "category-ids": [
+        "developer"
+      ],
       "license": "gpl-3.0",
       "description": "Mobile shell terminal based on Mosh",
       "source": "https://github.com/blinksh/blink",
@@ -6227,7 +7155,7 @@
     },
     {
       "title": "Count It",
-      "category": [
+      "category-ids": [
         "rxswift",
         "apple-watch"
       ],
@@ -6244,7 +7172,9 @@
     },
     {
       "title": "Send To Me",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Share content to your email with a single tap",
       "source": "https://github.com/PiXeL16/SendToMe",
       "itunes": "https://itunes.apple.com/app/id1100027787",
@@ -6258,7 +7188,7 @@
     },
     {
       "title": "Tob - Secure browser",
-      "category": [
+      "category-ids": [
         "browser"
       ],
       "description": "A beautiful Tor browser to protect your anonymity",
@@ -6271,7 +7201,9 @@
     },
     {
       "title": "DropColour Game in Swift 2.2",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "Drag and drop one circle onto another of the same color",
       "source": "https://github.com/elpassion/DropColour-iOS",
       "itunes": "https://itunes.apple.com/app/dropcolour/id1046339763",
@@ -6285,7 +7217,7 @@
     },
     {
       "title": "Scholars of WWDC",
-      "category": [
+      "category-ids": [
         "official"
       ],
       "description": "Official app of recipients for https://developer.apple.com/wwdc/scholarships/",
@@ -6302,7 +7234,9 @@
     },
     {
       "title": "YaleMobile",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "App for Yale University students",
       "license": "mit",
       "source": "https://github.com/kiokoo/YaleMobile",
@@ -6313,7 +7247,9 @@
     },
     {
       "title": "Find My Bus NJ",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Track NJ Transit bus times",
       "source": "https://github.com/findmybusnj/findmybusnj-swift",
       "tags": [
@@ -6326,7 +7262,9 @@
     },
     {
       "title": "NBAreact",
-      "category": "react-native",
+      "category-ids": [
+        "react-native"
+      ],
       "description": "NBA stats and standings",
       "license": "mit",
       "source": "https://github.com/jbkuczma/NBAreact",
@@ -6336,7 +7274,9 @@
     },
     {
       "title": "Dono",
-      "category": "security",
+      "category-ids": [
+        "security"
+      ],
       "description": "Password derivation tool",
       "homepage": "https://dono-app.github.io/",
       "itunes": "https://itunes.apple.com/app/id1092920229",
@@ -6350,7 +7290,9 @@
     },
     {
       "title": "Post Manager",
-      "category": "social",
+      "category-ids": [
+        "social"
+      ],
       "description": "Post/schedule Twitter posts like Buffer + node.js backend + share extension",
       "source": "https://github.com/TomekB/PostManager",
       "license": "other",
@@ -6364,12 +7306,16 @@
     {
       "title": "Upcoming Movies",
       "description": "Show upcoming movies, uses https://www.themoviedb.org/",
-      "category": "apple-tv",
+      "category-ids": [
+        "apple-tv"
+      ],
       "source": "https://github.com/vanyaland/UpcomingMovies",
       "tags": [
         "swift"
       ],
-      "screenshots": ["https://github.com/vanyaland/UpcomingMovies/raw/master/Screenshots/movies.png"],
+      "screenshots": [
+        "https://github.com/vanyaland/UpcomingMovies/raw/master/Screenshots/movies.png"
+      ],
       "license": "mit",
       "date_added": "Sat Jul 16 15:31:49 2016 +1000",
       "suggested_by": "Ivan Magda",
@@ -6377,7 +7323,9 @@
     },
     {
       "title": "Hackfoldr",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "description": "Hackfoldr is your hacking briefcase, share all your project documents with a url",
       "source": "https://github.com/hackfoldr/hackfoldr-iOS",
       "homepage": "https://hackfoldr.org",
@@ -6389,7 +7337,7 @@
     },
     {
       "title": "RaceMe",
-      "category": [
+      "category-ids": [
         "realm",
         "parse"
       ],
@@ -6405,7 +7353,9 @@
     },
     {
       "title": "LobsterApp",
-      "category": "news",
+      "category-ids": [
+        "news"
+      ],
       "description": "Browse the https://lobste.rs/ community news site",
       "source": "https://github.com/rpowelll/LobsterApp",
       "license": "other",
@@ -6415,7 +7365,9 @@
     },
     {
       "title": "Vector",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "Collaboration for teams, chat & share via http://matrix.org/",
       "source": "https://github.com/vector-im/vector-ios",
       "homepage": "https://vector.im/",
@@ -6427,7 +7379,9 @@
     },
     {
       "title": "Wire",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": "Modern, private communications: crystal clear voice, video, group chats. No advertising. Always encrypted.",
       "source": "https://github.com/wireapp/wire-ios",
       "itunes": "https://itunes.apple.com/app/wire/id930944768",
@@ -6441,7 +7395,9 @@
     },
     {
       "title": "Conway's Game of Life in Objective-C (Vie)",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "source": "https://github.com/fabienwarniez/Vie",
       "itunes": "https://itunes.apple.com/app/vie-conways-game-of-life/id989686123",
       "license": "mit",
@@ -6451,7 +7407,9 @@
     },
     {
       "title": "Celluloid Photo Editing extension",
-      "category": "extension",
+      "category-ids": [
+        "extension"
+      ],
       "source": "https://github.com/100mango/Celluloid",
       "license": "mit",
       "lang": "zho",
@@ -6462,7 +7420,9 @@
     },
     {
       "title": "Master",
-      "category": "game",
+      "category-ids": [
+        "game"
+      ],
       "description": "PokéMon-like game that uses your location",
       "license": "mit",
       "source": "https://github.com/Kjuly/iPokeMon",
@@ -6473,18 +7433,25 @@
     },
     {
       "title": "osia",
-      "category": ["official", "content"],
+      "category-ids": [
+        "official",
+        "content"
+      ],
       "description": "Super basic app to browse open-source-ios-apps",
       "license": "mit",
       "source": "https://github.com/dkhamsing/osia",
-      "screenshots": ["https://github.com/dkhamsing/osia/raw/master/Assets/0.2.png"],
+      "screenshots": [
+        "https://github.com/dkhamsing/osia/raw/master/Assets/0.2.png"
+      ],
       "date_added": "Mon Jul 25 11:17:52 2016 -0700",
       "suggested_by": "@dkhamsing",
       "stars": 3
     },
     {
       "title": "MovieDict",
-      "category": "travel",
+      "category-ids": [
+        "travel"
+      ],
       "description": "Offline dictionary for international movie titles",
       "source": "https://github.com/jlnr/MovieDict",
       "homepage": "https://moviedict.info",
@@ -6496,7 +7463,7 @@
     },
     {
       "title": "Siesta GitHub Browser",
-      "category": [
+      "category-ids": [
         "github",
         "reactive-programming",
         "sample"
@@ -6513,7 +7480,7 @@
     },
     {
       "title": "Facemotion",
-      "category": [
+      "category-ids": [
         "media",
         "realm"
       ],
@@ -6528,26 +7495,34 @@
       "title": "open-source-ios-apps archive",
       "description": "Projects that are no longer maintained",
       "source": "https://github.com/dkhamsing/open-source-ios-apps/blob/master/ARCHIVE.md",
-      "category": "bonus",
+      "category-ids": [
+        "bonus"
+      ],
       "suggested_by": "@dkhamsing"
     },
     {
       "title": "awesome-macOS",
       "source": "https://github.com/iCHAIT/awesome-macOS",
-      "category": "bonus",
+      "category-ids": [
+        "bonus"
+      ],
       "suggested_by": "@dkhamsing",
       "stars": 4662
     },
     {
       "title": "open-source-android-apps",
       "source": "https://github.com/pcqpcq/open-source-android-apps",
-      "category": "bonus",
+      "category-ids": [
+        "bonus"
+      ],
       "suggested_by": "@dkhamsing",
       "stars": 3514
     },
     {
       "title": "Munch",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "description": "Tinder-styled restaurant recommendations using the Yelp API",
       "source": "https://github.com/enochng1/Munch",
       "license": "other",
@@ -6560,7 +7535,9 @@
     },
     {
       "title": "screenshotter",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Organize & manage screenshots you take with your iPhone",
       "source": "https://github.com/LaunchKit/screenshotter",
       "itunes": "https://itunes.apple.com/app/screenshotter-organize-manage/id826596892",
@@ -6575,7 +7552,9 @@
     {
       "title": "S.I.T. (雕刻时光)",
       "description": "Unofficial app for Chinese cafe chain [Diaokeshiguang](https://www.sitcoffee.com/)",
-      "category": "location",
+      "category-ids": [
+        "location"
+      ],
       "source": "https://github.com/flexih/Cafe",
       "itunes": "https://itunes.apple.com/app/diao-ke-shi-guang/id440983941",
       "lang": "zho",
@@ -6589,7 +7568,9 @@
     },
     {
       "title": "PixPic",
-      "category": "media",
+      "category-ids": [
+        "media"
+      ],
       "description": "Photo editing",
       "source": "https://github.com/Yalantis/PixPic",
       "screenshots": [
@@ -6605,7 +7586,9 @@
     },
     {
       "title": "AlzPrevent",
-      "category": "researchkit",
+      "category-ids": [
+        "researchkit"
+      ],
       "description": "Clinical research platform for Alzheimer's disease",
       "source": "https://github.com/BBBInc/AlzPrevent-ios",
       "license": "bsd-3-clause",
@@ -6617,7 +7600,9 @@
     },
     {
       "title": "Good Living Guide: home snacks, gifts, beauty, shopping..",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "source": "https://github.com/hrscy/DanTang",
       "itunes": "https://itunes.apple.com/app/id1021442122",
       "license": "mit",
@@ -6631,7 +7616,9 @@
     },
     {
       "title": "Communiqué",
-      "category": "communication",
+      "category-ids": [
+        "communication"
+      ],
       "description": " Twitter app that only lets send & receive DM's",
       "source": "https://github.com/zadr/Communique",
       "license": "bsd-3-clause",
@@ -6643,7 +7630,9 @@
     },
     {
       "title": "Adler Planetarium Navigation & Tour",
-      "category": "misc",
+      "category-ids": [
+        "misc"
+      ],
       "source": "https://github.com/lucasqiu/Adler-Mobile-App",
       "tags": [
         "archive"
@@ -6653,20 +7642,25 @@
     },
     {
       "title": "Californication",
-      "category": ["travel", "firebase"],
+      "category-ids": [
+        "travel",
+        "firebase"
+      ],
       "description": "Discover only the best points of interest in the California",
       "source": "https://github.com/vanyaland/Californication",
       "license": "mit",
       "tags": [
         "swift"
       ],
-      "screenshots": ["https://github.com/vanyaland/Californication/raw/master/screenshot.png"],
+      "screenshots": [
+        "https://github.com/vanyaland/Californication/raw/master/screenshot.png"
+      ],
       "date_added": "Aug 7 2016",
       "suggested_by": "@vanyaland"
     },
     {
       "title": "Tip Calculator",
-      "category": [
+      "category-ids": [
         "finance",
         "viper"
       ],
@@ -6674,63 +7668,92 @@
       "source": "https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c",
       "itunes": "https://itunes.apple.com/app/id1139456857",
       "license": "mit",
-      "screenshots": ["https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png"],
+      "screenshots": [
+        "https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png"
+      ],
       "date_added": "Aug 8 2016",
       "suggested_by": "@tirupati17"
     },
     {
       "title": "QR Blank",
-      "category": ["scan"],
+      "category-ids": [
+        "scan"
+      ],
       "description": "No ads simple QR code URL scanner",
       "source": "https://github.com/kahopoon/QR-Blank",
       "itunes": "https://itunes.apple.com/app/id1137064763",
       "license": "mit",
-      "tags": ["swift"],
-      "screenshots": ["https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif", "https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg", "https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg"],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif",
+        "https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg",
+        "https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg"
+      ],
       "date_added": "Aug 10 2016",
       "suggested_by": "@kahopoon"
     },
     {
       "title": "Simplenote",
-      "category": "text",
+      "category-ids": [
+        "text"
+      ],
       "description": "Easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices. Share notes with other users to collaborate on a project together or to access the same list.",
       "source": "https://github.com/automattic/simplenote-ios",
       "itunes": "https://itunes.apple.com/app/simplenote/id289429962",
       "homepage": "https://simplenote.com/",
       "license": "gpl-2.0",
       "stars": 862,
-      "screenshots": ["https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg"],
+      "screenshots": [
+        "https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg"
+      ],
       "date_added": "Aug 11 2016",
       "suggested_by": "@dkhamsing"
     },
     {
       "title": "youtube-iOS",
-      "category": "clone",
+      "category-ids": [
+        "clone"
+      ],
       "description": "YouTube app template, uses Swift 3",
       "source": "https://github.com/aslanyanhaik/youtube-iOS",
-      "tags": ["swift"],
+      "tags": [
+        "swift"
+      ],
       "license": "other",
       "stars": 334,
-      "screenshots": ["https://camo.githubusercontent.com/cfa19d4ba7d4b87e1a1d0a54c1d11d0761b69ae7/687474703a2f2f692e67697068792e636f6d2f687743616848414431744e48612e676966"],
+      "screenshots": [
+        "https://camo.githubusercontent.com/cfa19d4ba7d4b87e1a1d0a54c1d11d0761b69ae7/687474703a2f2f692e67697068792e636f6d2f687743616848414431744e48612e676966"
+      ],
       "date_added": "Aug 15 2016",
       "suggested_by": "@dkhamsing"
     },
     {
       "title": "30 days of React Native demos",
-      "category": ["sample", "react-native"],
+      "category-ids": [
+        "sample",
+        "react-native"
+      ],
       "source": "https://github.com/fangwei716/30-days-of-react-native",
       "license": "mit",
       "stars": 982,
-      "screenshots": ["https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif"],
+      "screenshots": [
+        "https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif"
+      ],
       "date_added": "Aug 15 2016",
       "suggested_by": "@dkhamsing"
     },
     {
       "title": "HeartControl",
       "description": "Continuous heart rate measurement during workouts with watchOS 3",
-      "category": "apple-watch",
+      "category-ids": [
+        "apple-watch"
+      ],
       "source": "https://github.com/thomaspaulmann/HeartControl",
-      "tags": ["swift"],
+      "tags": [
+        "swift"
+      ],
       "license": "other",
       "stars": 24,
       "date_added": "Aug 16 2016",
@@ -6738,7 +7761,9 @@
     },
     {
       "title": "Tenere News Reader",
-      "category": "news",
+      "category-ids": [
+        "news"
+      ],
       "description": "Content Application for RSS",
       "source": "https://github.com/yavuz/Tenere",
       "itunes": "https://itunes.apple.com/tr/app/tenere-news-reader/id987277462",
@@ -6748,17 +7773,21 @@
       "suggested_by": "@yavuz"
     },
     {
-            "title": "OpenStreetView",
-            "category": "location",
-            "description": "Collect OpenStreetView data",
-            "license": "gpl-3.0",
-            "source": "https://github.com/openstreetview/ios",
-            "homepage": "http://openstreetview.org",
-            "itunes": "https://itunes.apple.com/app/openstreetview/id1089548849",
-            "stars": 7,
-            "screenshots": ["http://a5.mzstatic.com/us/r30/Purple30/v4/b5/9f/0f/b59f0f32-eec9-7612-ad5f-4a545561c2cf/screen696x696.jpeg"],
-            "date_added": "Aug 21 2016",
-            "suggested_by": "@iliketurtlesbro"
+      "title": "OpenStreetView",
+      "category-ids": [
+        "location"
+      ],
+      "description": "Collect OpenStreetView data",
+      "license": "gpl-3.0",
+      "source": "https://github.com/openstreetview/ios",
+      "homepage": "http://openstreetview.org",
+      "itunes": "https://itunes.apple.com/app/openstreetview/id1089548849",
+      "stars": 7,
+      "screenshots": [
+        "http://a5.mzstatic.com/us/r30/Purple30/v4/b5/9f/0f/b59f0f32-eec9-7612-ad5f-4a545561c2cf/screen696x696.jpeg"
+      ],
+      "date_added": "Aug 21 2016",
+      "suggested_by": "@iliketurtlesbro"
     }
   ]
 }

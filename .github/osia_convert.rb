@@ -23,7 +23,7 @@ def apps_for_cat(apps, id)
   end
 
   s = f.select do |a|
-    cat = a['category']
+    cat = a['category-ids']
     cat.class == Array ? cat.include?(id) : (cat == id)
   end
   s.sort_by { |k, v| k['title'].downcase }
