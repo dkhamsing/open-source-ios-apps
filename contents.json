@@ -4713,7 +4713,7 @@
     {
       "title": "RealmVideo",
       "category": [
-        "media",
+        "content",
         "developer"
       ],
       "description": "Watch Realm videos & slides on your phone",
@@ -6180,7 +6180,7 @@
       "category": [
         "content-blocking"
       ],
-      "description": "Creative, web & design culture ad blocking",
+      "description": "Ad blocker for creative, web & design ads",
       "license": "bsd-3-clause",
       "source": "https://github.com/pkamb/swab",
       "homepage": "http://swabthe.com/",
@@ -6450,9 +6450,8 @@
       "stars": 0
     },
     {
-      "title": "Celluloid",
+      "title": "Celluloid Photo Editing extension",
       "category": "extension",
-      "description": "The best Photo Editing extension",
       "source": "https://github.com/100mango/Celluloid",
       "license": "mit",
       "lang": "zho",
