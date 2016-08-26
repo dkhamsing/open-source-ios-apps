@@ -1679,7 +1679,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/brewfactory/BrewMobile</summary>
   Added September 10, 2015<br>  License: `other`
   </details>
-- C-41: Make developing film easier and more reliable by using this simple timer [` App Store`](https://itunes.apple.com/app/c-41/id789924103) 🔥🔥🔥🔥
+- C-41: Simple timer to make developing film easier & more reliable [` App Store`](https://itunes.apple.com/app/c-41/id789924103) 🔥🔥🔥🔥
   <details><summary>https://github.com/ashfurrow/C-41</summary>
   Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2685,6 +2685,10 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- C-41: Simple timer to make developing film easier & more reliable [` App Store`](https://itunes.apple.com/app/c-41/id789924103) 🔥🔥🔥🔥
+  <details><summary>https://github.com/ashfurrow/C-41</summary>
+  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - Cherry: Mini Pomodoro Timer `Swift` 🔥🔥
   <details><summary>https://github.com/kenshin03/Cherry</summary>
   Added February 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Cherry image 1](https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png)
