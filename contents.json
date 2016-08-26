@@ -5252,9 +5252,10 @@
     {
       "title": "C-41",
       "category-ids": [
-        "reactivecocoa"
+        "reactivecocoa",
+        "timer"
       ],
-      "description": "Make developing film easier and more reliable by using this simple timer",
+      "description": "Simple timer to make developing film easier & more reliable",
       "license": "mit",
       "source": "https://github.com/ashfurrow/C-41",
       "itunes": "https://itunes.apple.com/app/c-41/id789924103",
