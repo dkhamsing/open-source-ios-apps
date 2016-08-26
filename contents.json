@@ -488,7 +488,7 @@
         "apple-watch",
         "realm"
       ],
-      "description": "Data sharing using WatchKit and Realm",
+      "description": "Data sharing, uses WatchKit & Realm",
       "license": "mit",
       "source": "https://github.com/FancyPixel/done-swift",
       "tags": [
@@ -503,7 +503,7 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "Apple Watch face using Flickr API",
+      "description": "Apple Watch face, uses the Flickr API",
       "license": "mit",
       "source": "https://github.com/jazzychad/FlickrWatch",
       "stars": 5,
@@ -762,7 +762,7 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "Code examples for new features of `watchOS` 2",
+      "description": "Code examples for new features of watchOS 2",
       "license": "mit",
       "source": "https://github.com/shu223/watchOS-2-Sampler",
       "stars": 953,
@@ -1032,7 +1032,7 @@
       "category-ids": [
         "communication"
       ],
-      "description": "Secures all messages using end-to-end encryption",
+      "description": "Secures all messages, uses end-to-end encryption",
       "source": "https://github.com/surespot/surespot-ios",
       "itunes": "https://itunes.apple.com/app/surespot/id790314865",
       "stars": 48,
@@ -1853,7 +1853,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "Simple 2D point and line physics using Verlet integration",
+      "description": "Simple 2D point & line physics using Verlet integration",
       "source": "https://github.com/adamwulf/spare-parts-app",
       "itunes": "https://itunes.apple.com/app/spare-parts/id981297199",
       "stars": 15,
@@ -1950,7 +1950,7 @@
       "category-ids": [
         "health"
       ],
-      "description": "Sample app for `HealthKit`",
+      "description": "HealthKit sample app",
       "source": "https://github.com/Darktt/HealthKit-Swift",
       "tags": [
         "swift"
@@ -2233,7 +2233,7 @@
         "location",
         "parse"
       ],
-      "description": "iBeacon to-do reminder app using Parse",
+      "description": "iBeacon to-do reminders, uses Parse",
       "source": "https://github.com/TomekB/iBeaconTasks",
       "stars": 106,
       "license": "other",
@@ -2365,7 +2365,7 @@
       "category-ids": [
         "travel"
       ],
-      "description": "Simple and comfortable way to explore a city using Uber API",
+      "description": "Simple & comfortable way to explore a city, uses the Uber API",
       "license": "mit",
       "source": "https://github.com/hACKbUSTER/UberGuide-iOS",
       "stars": 233,
@@ -2481,7 +2481,7 @@
       "category-ids": [
         "media"
       ],
-      "description": "douban.fm app for iPhone, using `AFNetworking` and `MPMoviePlayer`",
+      "description": "https://douban.fm/ app for iPhone, uses AFNetworking & MPMoviePlayer",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/XVXVXXX/DoubanFM",
@@ -3116,7 +3116,7 @@
         "hacker-news",
         "firebase"
       ],
-      "description": "Built using pure Objective-C with official HN API (uses Firebase and Fabric)",
+      "description": "Uses the official HN API (Firebase) & Fabric",
       "source": "https://github.com/vetri02/HackerNews",
       "itunes": "https://itunes.apple.com/app/hacker-news-y/id1027140113",
       "stars": 20,
@@ -3278,7 +3278,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Fun way to create and share stories and poems using Fabric",
+      "description": "Fun way to create and share stories and poems, uses Fabric",
       "license": "apache-2.0",
       "source": "https://github.com/twitterdev/cannonball-ios",
       "itunes": "https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075",
@@ -3354,7 +3354,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Furniture store demo app using Fabric",
+      "description": "Furniture store demo app, uses Fabric",
       "license": "apache-2.0",
       "source": "https://github.com/twitterdev/furni-ios",
       "stars": 989,
@@ -3422,7 +3422,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Sample app that integrates Layer and Atlas with Parse",
+      "description": "Sample app that integrates Layer & Atlas with Parse",
       "license": "apache-2.0",
       "source": "https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example",
       "tags": [
@@ -3507,7 +3507,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "GitHub Gist app using RestKit",
+      "description": "GitHub Gists, uses RestKit",
       "license": "apache-2.0",
       "source": "https://github.com/RestKit/RKGist",
       "stars": 73,
@@ -3519,7 +3519,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Demo showing how to auto-login users in iOS 9 using Safari cookies",
+      "description": "Demo of how to auto-login users in iOS 9 using Safari cookies",
       "source": "https://github.com/mackuba/SafariAutoLoginTest",
       "tags": [
         "swift"
@@ -3701,7 +3701,7 @@
         "tasks",
         "parse"
       ],
-      "description": "Log your community service hours to the cloud using Parse",
+      "description": "Log your community service hours to the cloud, uses Parse",
       "source": "https://github.com/JerryHDev/1Trackr",
       "itunes": "https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630",
       "stars": 2,
@@ -3714,7 +3714,7 @@
       "category-ids": [
         "tasks"
       ],
-      "description": "Store & retrieve tasks using `CloudKit`",
+      "description": "Store & retrieve tasks, uses CloudKit",
       "license": "mit",
       "source": "https://github.com/anthonygeranio/CloudKit-To-Do-List",
       "tags": [
@@ -3819,7 +3819,7 @@
       "category-ids": [
         "weather"
       ],
-      "description": "Precipitation clock, uses Forecast.io",
+      "description": "Precipitation clock, uses http://forecast.io/",
       "license": "mit",
       "source": "https://github.com/wrutkowski/Lucid-Weather-Clock",
       "tags": [
@@ -3849,7 +3849,7 @@
       "category-ids": [
         "weather"
       ],
-      "description": "Uses Forecast.io",
+      "description": "Uses http://forecast.io/",
       "source": "https://github.com/Mav3r1ck/Project-RainMan",
       "stars": 632,
       "tags": [
@@ -3864,7 +3864,7 @@
       "category-ids": [
         "weather"
       ],
-      "description": "Uses Weather Underground",
+      "description": "Uses https://www.wunderground.com/",
       "license": "mit",
       "source": "https://github.com/comyarzaheri/Sol",
       "stars": 1208,
@@ -3876,7 +3876,7 @@
       "category-ids": [
         "weather"
       ],
-      "description": "Uses Weather Underground & OpenWeatherMap",
+      "description": "Uses https://www.wunderground.com/ & https://www.openstreetmap.org/",
       "license": "mit",
       "source": "https://github.com/liu044100/SmileWeather",
       "stars": 380,
@@ -3903,7 +3903,7 @@
         "weather",
         "reactivecocoa"
       ],
-      "description": "A weather app using ReactiveCocoa and Forecast.io",
+      "description": "A weather app, uses ReactiveCocoa & http://forecast.io/",
       "license": "mit",
       "source": "https://github.com/thoughtbot/Tropos",
       "itunes": "https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376",
@@ -3917,7 +3917,7 @@
         "weather",
         "react-native"
       ],
-      "description": "Weather app using React Native",
+      "description": "Weather app, uses React Native",
       "homepage": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp",
       "source": "https://github.com/jsphkhan/ReactNativeExamples",
       "license": "mit",
@@ -3930,7 +3930,7 @@
       "category-ids": [
         "weather"
       ],
-      "description": "Weather around you in a glance, uses OpenWeatherMap",
+      "description": "Weather around you in a glance, uses http://openweathermap.org/",
       "source": "https://github.com/TakefiveInteractive/WeatherMap",
       "itunes": "https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529",
       "stars": 266,
@@ -4054,7 +4054,7 @@
       "category-ids": [
         "misc"
       ],
-      "description": "Manage ufrgs.br library books using `Alamofire`",
+      "description": "Manage ufrgs.br library books, uses Alamofire",
       "source": "https://github.com/MatheusCavalca/RenovaLivrosUFRGS",
       "tags": [
         "swift"
@@ -4568,7 +4568,7 @@
       "category-ids": [
         "3d-touch"
       ],
-      "description": "Sketching app using 3D Touch",
+      "description": "Sketching app, uses 3D Touch",
       "source": "https://github.com/FlexMonkey/ForceSketch",
       "stars": 59,
       "license": "other",
@@ -4814,7 +4814,7 @@
       "category-ids": [
         "parse"
       ],
-      "description": "A fun geolocation app built with Parse",
+      "description": "A fun geolocation app, uses Parse",
       "source": "https://github.com/ParsePlatform/AnyWall",
       "itunes": "https://itunes.apple.com/app/anywall/id520955490",
       "stars": 417,
@@ -4829,7 +4829,7 @@
         "firebase"
       ],
       "license": "mit",
-      "description": "Simple app to record how much things cost using Parse or Firebase",
+      "description": "Simple app to record how much things cost, uses Parse or Firebase",
       "source": "https://github.com/dkhamsing/how-much",
       "stars": 5,
       "date_added": "Tue Oct 6 10:14:28 2015 -0700",
@@ -4840,7 +4840,7 @@
       "category-ids": [
         "parse"
       ],
-      "description": "iPhone app built using Parse w/ likes, comments, posting images/video",
+      "description": "iPhone app with likes, comments, posting images/videos — uses Parse",
       "source": "https://github.com/TomekB/Parse-Challenge-App",
       "itunes": "https://itunes.apple.com/app/lets-challenge-me/id944004497",
       "stars": 127,
@@ -4853,7 +4853,7 @@
       "category-ids": [
         "parse"
       ],
-      "description": "Backend provider for selling physical goods using Parse",
+      "description": "Backend provider for selling physical goods, uses Parse",
       "source": "https://github.com/ParsePlatform/ParseStore",
       "itunes": "https://itunes.apple.com/app/parse-store/id613679907",
       "stars": 182,
@@ -5103,7 +5103,7 @@
       "category-ids": [
         "react-native"
       ],
-      "description": "News app using YouTube playlists",
+      "description": "News app based on YouTube playlists",
       "source": "https://github.com/bradoyler/newswatch-react-native",
       "stars": 91,
       "license": "other",
@@ -5281,7 +5281,7 @@
       "category-ids": [
         "reactivecocoa"
       ],
-      "description": "iPhone grocery list app, synchronized using GitHub",
+      "description": "iPhone grocery list app, synchronized with GitHub",
       "source": "https://github.com/jspahrsummers/GroceryList",
       "stars": 767,
       "license": "mit",
@@ -5294,7 +5294,7 @@
         "reactivecocoa",
         "clock"
       ],
-      "description": "Minimal Chess Clock using MVVM and ReactiveCocoa",
+      "description": "Minimal Chess Clock, uses MVVM & ReactiveCocoa",
       "license": "mit",
       "source": "https://github.com/nottombrown/HausClock",
       "tags": [
@@ -5349,7 +5349,7 @@
       "category-ids": [
         "reactivecocoa"
       ],
-      "description": "Google image search using RAC 4.0 and Swift 2.1",
+      "description": "Google image search, uses RAC 4.0 & Swift 2.1",
       "source": "https://github.com/Adlai-Holler/SwiftRACGoogleImages",
       "tags": [
         "swift"
@@ -5364,7 +5364,7 @@
       "category-ids": [
         "rxswift"
       ],
-      "description": "GitHub app using MVVM and RxSwift",
+      "description": "GitHub app, uses MVVM & RxSwift",
       "source": "https://github.com/tailec/boilerplate",
       "stars": 207,
       "tags": [
@@ -5427,7 +5427,7 @@
       "category-ids": [
         "viper"
       ],
-      "description": "A to-do list app using Viper",
+      "description": "To-do list app, uses Viper",
       "source": "https://github.com/objcio/issue-13-viper",
       "homepage": "https://www.objc.io/issues/13-architecture/viper/",
       "license": "mit",
@@ -5977,7 +5977,7 @@
         "finance",
         "location"
       ],
-      "description": "Pay-if-U-R-late app using geofences and Venmo API",
+      "description": "Pay-if-U-R-late app, uses geofences & the Venmo API",
       "source": "https://github.com/ayunav/Neverlate",
       "license": "other",
       "stars": 15,
@@ -6015,7 +6015,7 @@
       "category-ids": [
         "location"
       ],
-      "description": "Offline maps app with navigation using [OpenStreetMap](https://www.openstreetmap.org) data",
+      "description": "Offline maps app with navigation, uses https://www.openstreetmap.org",
       "license": "apache-2.0",
       "source": "https://github.com/mapsme/omim",
       "homepage": "https://maps.me/en/home",
@@ -6603,7 +6603,7 @@
       "category-ids": [
         "media"
       ],
-      "description": "An `OpenGL` based advanced music visualization program",
+      "description": "OpenGL-based advanced music visualization app",
       "source": "https://sourceforge.net/projects/projectm/",
       "homepage": "http://projectm.sourceforge.net/",
       "itunes": "https://itunes.apple.com/app/id530922227",
@@ -6787,7 +6787,7 @@
       "category-ids": [
         "media"
       ],
-      "description": "Hide messages in images using steganography",
+      "description": "Hide messages in images with steganography",
       "source": "https://github.com/MrAdamBoyd/Pictograph",
       "itunes": "https://itunes.apple.com/us/app/id1051879856",
       "license": "mit",
@@ -6908,7 +6908,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "`UIViewPropertyAnimator` experiment where you have to escape from the squares",
+      "description": "UIViewPropertyAnimator experiment where you have to escape from the squares",
       "source": "https://github.com/JakeLin/SaveTheDot",
       "license": "mit",
       "stars": 523,
@@ -7085,7 +7085,7 @@
       "suggested_by": "Anton Tananaev"
     },
     {
-      "title": "2048 in Objective-C using `SpriteKit`",
+      "title": "2048 in Objective-C, uses SpriteKit",
       "category-ids": [
         "game",
         "spritekit",
@@ -7468,7 +7468,7 @@
         "reactive-programming",
         "sample"
       ],
-      "description": "Browse and star GitHub repositories using Siesta (REST) & related quasi-reactive techniques",
+      "description": "Browse & star GitHub repositories, uses Siesta (REST) & related quasi-reactive techniques",
       "source": "https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser",
       "stars": 660,
       "license": "mit",
@@ -7484,7 +7484,7 @@
         "media",
         "realm"
       ],
-      "description": "Find a contact by face recognition using `OpenCV`",
+      "description": "Find a contact by face recognition, uses OpenCV",
       "source": "https://github.com/remirobert/Facemotion",
       "stars": 45,
       "license": "mit",
@@ -7523,7 +7523,7 @@
       "category-ids": [
         "location"
       ],
-      "description": "Tinder-styled restaurant recommendations using the Yelp API",
+      "description": "Tinder-styled restaurant recommendations, uses the Yelp API",
       "source": "https://github.com/enochng1/Munch",
       "license": "other",
       "date_added": "Jul 28 2016",
