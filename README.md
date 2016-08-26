@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-543-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 25, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-543-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 26, 2016-lightgrey.svg)
 
 Jump to
 
@@ -180,11 +180,11 @@ Click ► to show more details
   <details><summary>https://github.com/PiXeL16/CountItApp</summary>
   Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Done: Data sharing using WatchKit and Realm `Swift` 
+- Done: Data sharing, uses WatchKit & Realm `Swift` 
   <details><summary>https://github.com/FancyPixel/done-swift</summary>
   Added May  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- FlickrWatch: Apple Watch face using Flickr API 
+- FlickrWatch: Apple Watch face, uses the Flickr API 
   <details><summary>https://github.com/jazzychad/FlickrWatch</summary>
   Added February 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -260,7 +260,7 @@ Click ► to show more details
   <details><summary>https://github.com/azamsharp/WatchNotes</summary>
   Added April 30, 2015<br>  License: `other`
   </details>
-- watchOS-2-Sampler: Code examples for new features of `watchOS` 2 `Swift` 🔥🔥🔥
+- watchOS-2-Sampler: Code examples for new features of watchOS 2 `Swift` 🔥🔥🔥
   <details><summary>https://github.com/shu223/watchOS-2-Sampler</summary>
   Added June 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -383,7 +383,7 @@ Click ► to show more details
   <details><summary>https://github.com/cloverstudio/Spika</summary>
   Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://spika.business/
   </details>
-- surespot: Secures all messages using end-to-end encryption [` App Store`](https://itunes.apple.com/app/surespot/id790314865) 
+- surespot: Secures all messages, uses end-to-end encryption [` App Store`](https://itunes.apple.com/app/surespot/id790314865) 
   <details><summary>https://github.com/surespot/surespot-ios</summary>
   Added March  3, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
@@ -453,7 +453,7 @@ Click ► to show more details
   <details><summary>https://github.com/austinzheng/iOS-2048</summary>
   Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- 2048 in Objective-C using `SpriteKit` 🔥🔥🔥
+- 2048 in Objective-C, uses SpriteKit 🔥🔥🔥
   <details><summary>https://github.com/danqing/2048</summary>
   Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -563,7 +563,7 @@ Click ► to show more details
   <details><summary>https://github.com/nunogoncalves/iOS-OctoPodium</summary>
   Added February 18, 2016<br>  License: `other`
   </details>
-- Siesta GitHub Browser: Browse and star GitHub repositories using Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
+- Siesta GitHub Browser: Browse & star GitHub repositories, uses Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
   <details><summary>https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser</summary>
   Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -700,7 +700,7 @@ Click ► to show more details
   <details><summary>https://github.com/tirupati17/loan-emi-calculator-clean-swift</summary>
   Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Neverlate: Pay-if-U-R-late app using geofences and Venmo API 
+- Neverlate: Pay-if-U-R-late app, uses geofences & the Venmo API 
   <details><summary>https://github.com/ayunav/Neverlate</summary>
   Added May 27, 2016<br>  License: `other`
   </details>
@@ -754,7 +754,7 @@ Click ► to show more details
   <details><summary>https://github.com/austinzheng/iOS-2048</summary>
   Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- 2048 in Objective-C using `SpriteKit` 🔥🔥🔥
+- 2048 in Objective-C, uses SpriteKit 🔥🔥🔥
   <details><summary>https://github.com/danqing/2048</summary>
   Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -902,7 +902,7 @@ Click ► to show more details
   <details><summary>https://github.com/shaunlebron/PterodactylAttack</summary>
   Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  https://shaunlebron.github.io/pteroattack.com/
   </details>
-- SaveTheDot: `UIViewPropertyAnimator` experiment where you have to escape from the squares 🔥🔥🔥
+- SaveTheDot: UIViewPropertyAnimator experiment where you have to escape from the squares 🔥🔥🔥
   <details><summary>https://github.com/JakeLin/SaveTheDot</summary>
   Added June 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -918,7 +918,7 @@ Click ► to show more details
   <details><summary>https://github.com/insurgentgames/Skeleton-Key-iOS</summary>
   Added May 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Spare Parts: Simple 2D point and line physics using Verlet integration [` App Store`](https://itunes.apple.com/app/spare-parts/id981297199) 
+- Spare Parts: Simple 2D point & line physics using Verlet integration [` App Store`](https://itunes.apple.com/app/spare-parts/id981297199) 
   <details><summary>https://github.com/adamwulf/spare-parts-app</summary>
   Added April  6, 2015<br>  License: `other`
   </details>
@@ -939,7 +939,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- 2048 in Objective-C using `SpriteKit` 🔥🔥🔥
+- 2048 in Objective-C, uses SpriteKit 🔥🔥🔥
   <details><summary>https://github.com/danqing/2048</summary>
   Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -996,7 +996,7 @@ Click ► to show more details
   <details><summary>https://github.com/DerLobi/Depressed</summary>
   Added January 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- HealthKit~Swift: Sample app for `HealthKit` `Swift` 
+- HealthKit~Swift: HealthKit sample app `Swift` 
   <details><summary>https://github.com/Darktt/HealthKit-Swift</summary>
   Added October 27, 2015<br>  License: `other`
   </details>
@@ -1116,7 +1116,7 @@ Click ► to show more details
   <details><summary>https://github.com/TosinAF/HopperBus-iOS</summary>
   Added January 22, 2016<br>  License: `other`
   </details>
-- iBeaconTasks: iBeacon to-do reminder app using Parse 🔥
+- iBeaconTasks: iBeacon to-do reminders, uses Parse 🔥
   <details><summary>https://github.com/TomekB/iBeaconTasks</summary>
   Added March  5, 2015<br>  License: `other`
   </details>
@@ -1124,7 +1124,7 @@ Click ► to show more details
   <details><summary>https://github.com/LocativeHQ/Locative-iOS</summary>
   Added December 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- MAPS.ME: Offline maps app with navigation using [OpenStreetMap](https://www.openstreetmap.org) data [` App Store`](https://itunes.apple.com/app/id510623322) 🔥🔥🔥🔥
+- MAPS.ME: Offline maps app with navigation, uses https://www.openstreetmap.org [` App Store`](https://itunes.apple.com/app/id510623322) 🔥🔥🔥🔥
   <details><summary>https://github.com/mapsme/omim</summary>
   Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  https://maps.me/en/home
   </details>
@@ -1136,11 +1136,11 @@ Click ► to show more details
   <details><summary>https://github.com/neonichu/Places</summary>
   Added July 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Munch: Tinder-styled restaurant recommendations using the Yelp API 
+- Munch: Tinder-styled restaurant recommendations, uses the Yelp API 
   <details><summary>https://github.com/enochng1/Munch</summary>
   Added July 28, 2016<br>  License: `other`<br>  ![Munch image 1](https://raw.githubusercontent.com/enochng1/Munch/master/poster-01.png)
   </details>
-- Neverlate: Pay-if-U-R-late app using geofences and Venmo API 
+- Neverlate: Pay-if-U-R-late app, uses geofences & the Venmo API 
   <details><summary>https://github.com/ayunav/Neverlate</summary>
   Added May 27, 2016<br>  License: `other`
   </details>
@@ -1241,7 +1241,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/swisspol/ComicFlow</summary>
   Added August 13, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
-- DoubanFM: douban.fm app for iPhone, using `AFNetworking` and `MPMoviePlayer` 🇨🇳🔥🔥
+- DoubanFM: https://douban.fm/ app for iPhone, uses AFNetworking & MPMoviePlayer 🇨🇳🔥🔥
   <details><summary>https://github.com/XVXVXXX/DoubanFM</summary>
   Added October  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1261,7 +1261,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/IGRSoft/exTVPlayer</summary>
   Added February  9, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
   </details>
-- Facemotion: Find a contact by face recognition using `OpenCV` 
+- Facemotion: Find a contact by face recognition, uses OpenCV 
   <details><summary>https://github.com/remirobert/Facemotion</summary>
   Added July 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1317,7 +1317,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/RF-Nelson/open-source-selfie-stick</summary>
   Added February 18, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   </details>
-- Pictograph: Hide messages in images using steganography [` App Store`](https://itunes.apple.com/us/app/id1051879856) `Swift` 
+- Pictograph: Hide messages in images with steganography [` App Store`](https://itunes.apple.com/us/app/id1051879856) `Swift` 
   <details><summary>https://github.com/MrAdamBoyd/Pictograph</summary>
   Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1333,7 +1333,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/huijimuhe/prankPro</summary>
   Added March 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- projectM: An `OpenGL` based advanced music visualization program [` App Store`](https://itunes.apple.com/app/id530922227) 
+- projectM: OpenGL-based advanced music visualization app [` App Store`](https://itunes.apple.com/app/id530922227) 
   <details><summary>https://sourceforge.net/projects/projectm/</summary>
   Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  http://projectm.sourceforge.net/
   </details>
@@ -1568,7 +1568,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/amitburst/HackerNews</summary>
   Added March 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- HackerNews (Y): Built using pure Objective-C with official HN API (uses Firebase and Fabric) [` App Store`](https://itunes.apple.com/app/hacker-news-y/id1027140113) 
+- HackerNews (Y): Uses the official HN API (Firebase) & Fabric [` App Store`](https://itunes.apple.com/app/hacker-news-y/id1027140113) 
   <details><summary>https://github.com/vetri02/HackerNews</summary>
   Added October 14, 2015<br>  License: `other`
   </details>
@@ -1666,7 +1666,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
   Added May 11, 2016<br>  License: `other`
   </details>
-- Siesta GitHub Browser: Browse and star GitHub repositories using Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
+- Siesta GitHub Browser: Browse & star GitHub repositories, uses Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
   <details><summary>https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser</summary>
   Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1687,11 +1687,11 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/leichunfeng/MVVMReactiveCocoa</summary>
   Added October 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- GroceryList: iPhone grocery list app, synchronized using GitHub 🔥🔥🔥
+- GroceryList: iPhone grocery list app, synchronized with GitHub 🔥🔥🔥
   <details><summary>https://github.com/jspahrsummers/GroceryList</summary>
   Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa `Swift` 
+- HausClock: Minimal Chess Clock, uses MVVM & ReactiveCocoa `Swift` 
   <details><summary>https://github.com/nottombrown/HausClock</summary>
   Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1707,11 +1707,11 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/calebd/SimpleAuth</summary>
   Added April 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- SwiftRACGoogleImages: Google image search using RAC 4.0 and Swift 2.1 `Swift` 
+- SwiftRACGoogleImages: Google image search, uses RAC 4.0 & Swift 2.1 `Swift` 
   <details><summary>https://github.com/Adlai-Holler/SwiftRACGoogleImages</summary>
   Added January 20, 2016<br>  License: `other`
   </details>
-- Tropos: A weather app using ReactiveCocoa and Forecast.io [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376) 🔥🔥🔥🔥
+- Tropos: A weather app, uses ReactiveCocoa & http://forecast.io/ [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376) 🔥🔥🔥🔥
   <details><summary>https://github.com/thoughtbot/Tropos</summary>
   Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1728,7 +1728,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/PiXeL16/CountItApp</summary>
   Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- GitHub API Client: GitHub app using MVVM and RxSwift `Swift` 🔥🔥
+- GitHub API Client: GitHub app, uses MVVM & RxSwift `Swift` 🔥🔥
   <details><summary>https://github.com/tailec/boilerplate</summary>
   Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1761,7 +1761,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://developer.apple.com/sample-code/wwdc/2015/</summary>
   Added July 16, 2015<br>  License: `other`
   </details>
-- Cannonball: Fun way to create and share stories and poems using Fabric [` App Store`](https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075) `Swift` 🔥🔥
+- Cannonball: Fun way to create and share stories and poems, uses Fabric [` App Store`](https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075) `Swift` 🔥🔥
   <details><summary>https://github.com/twitterdev/cannonball-ios</summary>
   Added March 24, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -1777,7 +1777,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/USDepartmentofLabor/Swift-Sample-App</summary>
   Added April 14, 2015<br>  License: `other`
   </details>
-- Furni: Furniture store demo app using Fabric `Swift` 🔥🔥🔥
+- Furni: Furniture store demo app, uses Fabric `Swift` 🔥🔥🔥
   <details><summary>https://github.com/twitterdev/furni-ios</summary>
   Added January 25, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -1797,7 +1797,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/MatheusCavalca/Knock</summary>
   Added March 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Layer-Parse: Sample app that integrates Layer and Atlas with Parse `Swift` 🔥
+- Layer-Parse: Sample app that integrates Layer & Atlas with Parse `Swift` 🔥
   <details><summary>https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example</summary>
   Added January 25, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -1825,15 +1825,15 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/carlbtrn/Swift</summary>
   Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- RKGist: GitHub Gist app using RestKit 
+- RKGist: GitHub Gists, uses RestKit 
   <details><summary>https://github.com/RestKit/RKGist</summary>
   Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
-- SafariAutoLoginTest: Demo showing how to auto-login users in iOS 9 using Safari cookies `Swift` 🔥🔥
+- SafariAutoLoginTest: Demo of how to auto-login users in iOS 9 using Safari cookies `Swift` 🔥🔥
   <details><summary>https://github.com/mackuba/SafariAutoLoginTest</summary>
   Added April 22, 2016<br>  License: `other`
   </details>
-- Siesta GitHub Browser: Browse and star GitHub repositories using Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
+- Siesta GitHub Browser: Browse & star GitHub repositories, uses Siesta (REST) & related quasi-reactive techniques `Swift` 🔥🔥🔥
   <details><summary>https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser</summary>
   Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1953,11 +1953,11 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- 1Trackr: Log your community service hours to the cloud using Parse [` App Store`](https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630) 
+- 1Trackr: Log your community service hours to the cloud, uses Parse [` App Store`](https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630) 
   <details><summary>https://github.com/JerryHDev/1Trackr</summary>
   Added April 11, 2016<br>  License: `other`
   </details>
-- CloudKit-To-Do-List: Store & retrieve tasks using `CloudKit` `Swift` 
+- CloudKit-To-Do-List: Store & retrieve tasks, uses CloudKit `Swift` 
   <details><summary>https://github.com/anthonygeranio/CloudKit-To-Do-List</summary>
   Added April  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2039,7 +2039,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/jlnr/MovieDict</summary>
   Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://moviedict.info
   </details>
-- Smart Traveller (UberGuide): Simple and comfortable way to explore a city using Uber API 🔥🔥
+- Smart Traveller (UberGuide): Simple & comfortable way to explore a city, uses the Uber API 🔥🔥
   <details><summary>https://github.com/hACKbUSTER/UberGuide-iOS</summary>
   Added January 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2052,7 +2052,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Lucid Weather Clock: Precipitation clock, uses Forecast.io `Swift` 
+- Lucid Weather Clock: Precipitation clock, uses http://forecast.io/ `Swift` 
   <details><summary>https://github.com/wrutkowski/Lucid-Weather-Clock</summary>
   Added January  5, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2060,15 +2060,15 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/appsquickly/Typhoon-Swift-Example</summary>
   Added March 24, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
-- RainMan: Uses Forecast.io `Swift` 🔥🔥🔥
+- RainMan: Uses http://forecast.io/ `Swift` 🔥🔥🔥
   <details><summary>https://github.com/Mav3r1ck/Project-RainMan</summary>
   Added April 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- SmileWeather: Uses Weather Underground & OpenWeatherMap 🔥🔥
+- SmileWeather: Uses https://www.wunderground.com/ & https://www.openstreetmap.org/ 🔥🔥
   <details><summary>https://github.com/liu044100/SmileWeather</summary>
   Added August 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Sol: Uses Weather Underground 🔥🔥🔥🔥
+- Sol: Uses https://www.wunderground.com/ 🔥🔥🔥🔥
   <details><summary>https://github.com/comyarzaheri/Sol</summary>
   Added June 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2076,15 +2076,15 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/JakeLin/SwiftWeather</summary>
   Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Tropos: A weather app using ReactiveCocoa and Forecast.io [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376) 🔥🔥🔥🔥
+- Tropos: A weather app, uses ReactiveCocoa & http://forecast.io/ [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376) 🔥🔥🔥🔥
   <details><summary>https://github.com/thoughtbot/Tropos</summary>
   Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Weather by jsphkhan: Weather app using React Native 
+- Weather by jsphkhan: Weather app, uses React Native 
   <details><summary>https://github.com/jsphkhan/ReactNativeExamples</summary>
   Added May  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
   </details>
-- WeatherMap: Weather around you in a glance, uses OpenWeatherMap [` App Store`](https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529) `Swift` 🔥🔥
+- WeatherMap: Weather around you in a glance, uses http://openweathermap.org/ [` App Store`](https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529) `Swift` 🔥🔥
   <details><summary>https://github.com/TakefiveInteractive/WeatherMap</summary>
   Added June 19, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -2123,7 +2123,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- ForceSketch: Sketching app using 3D Touch 
+- ForceSketch: Sketching app, uses 3D Touch 
   <details><summary>https://github.com/FlexMonkey/ForceSketch</summary>
   Added October 28, 2015<br>  License: `other`
   </details>
@@ -2178,11 +2178,11 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/bonzoq/hniosreader</summary>
   Added April 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- HackerNews (Y): Built using pure Objective-C with official HN API (uses Firebase and Fabric) [` App Store`](https://itunes.apple.com/app/hacker-news-y/id1027140113) 
+- HackerNews (Y): Uses the official HN API (Firebase) & Fabric [` App Store`](https://itunes.apple.com/app/hacker-news-y/id1027140113) 
   <details><summary>https://github.com/vetri02/HackerNews</summary>
   Added October 14, 2015<br>  License: `other`
   </details>
-- how-much: Simple app to record how much things cost using Parse or Firebase 
+- how-much: Simple app to record how much things cost, uses Parse or Firebase 
   <details><summary>https://github.com/dkhamsing/how-much</summary>
   Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2204,7 +2204,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- 1Trackr: Log your community service hours to the cloud using Parse [` App Store`](https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630) 
+- 1Trackr: Log your community service hours to the cloud, uses Parse [` App Store`](https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630) 
   <details><summary>https://github.com/JerryHDev/1Trackr</summary>
   Added April 11, 2016<br>  License: `other`
   </details>
@@ -2220,15 +2220,15 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/SwiftAnyPic/SwiftAnyPic</summary>
   Added November  2, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
   </details>
-- AnyWall: A fun geolocation app built with Parse [` App Store`](https://itunes.apple.com/app/anywall/id520955490) 🔥🔥
+- AnyWall: A fun geolocation app, uses Parse [` App Store`](https://itunes.apple.com/app/anywall/id520955490) 🔥🔥
   <details><summary>https://github.com/ParsePlatform/AnyWall</summary>
   Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
   </details>
-- how-much: Simple app to record how much things cost using Parse or Firebase 
+- how-much: Simple app to record how much things cost, uses Parse or Firebase 
   <details><summary>https://github.com/dkhamsing/how-much</summary>
   Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- iBeaconTasks: iBeacon to-do reminder app using Parse 🔥
+- iBeaconTasks: iBeacon to-do reminders, uses Parse 🔥
   <details><summary>https://github.com/TomekB/iBeaconTasks</summary>
   Added March  5, 2015<br>  License: `other`
   </details>
@@ -2236,11 +2236,11 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/kylejm/Jim</summary>
   Added January  4, 2016<br>  License: `other`
   </details>
-- Parse-Challenge-App: iPhone app built using Parse w/ likes, comments, posting images/video [` App Store`](https://itunes.apple.com/app/lets-challenge-me/id944004497) 🔥
+- Parse-Challenge-App: iPhone app with likes, comments, posting images/videos — uses Parse [` App Store`](https://itunes.apple.com/app/lets-challenge-me/id944004497) 🔥
   <details><summary>https://github.com/TomekB/Parse-Challenge-App</summary>
   Added March  5, 2015<br>  License: `other`
   </details>
-- ParseStore: Backend provider for selling physical goods using Parse [` App Store`](https://itunes.apple.com/app/parse-store/id613679907) 🔥
+- ParseStore: Backend provider for selling physical goods, uses Parse [` App Store`](https://itunes.apple.com/app/parse-store/id613679907) 🔥
   <details><summary>https://github.com/ParsePlatform/ParseStore</summary>
   Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
   </details>
@@ -2337,7 +2337,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/jbkuczma/NBAreact</summary>
   Added July 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- newswatch: News app using YouTube playlists 
+- newswatch: News app based on YouTube playlists 
   <details><summary>https://github.com/bradoyler/newswatch-react-native</summary>
   Added May 15, 2015<br>  License: `other`
   </details>
@@ -2405,7 +2405,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/JakeLin/ReactNativeWeather</summary>
   Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Weather by jsphkhan: Weather app using React Native 
+- Weather by jsphkhan: Weather app, uses React Native 
   <details><summary>https://github.com/jsphkhan/ReactNativeExamples</summary>
   Added May  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp
   </details>
@@ -2414,11 +2414,11 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Done: Data sharing using WatchKit and Realm `Swift` 
+- Done: Data sharing, uses WatchKit & Realm `Swift` 
   <details><summary>https://github.com/FancyPixel/done-swift</summary>
   Added May  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Facemotion: Find a contact by face recognition using `OpenCV` 
+- Facemotion: Find a contact by face recognition, uses OpenCV 
   <details><summary>https://github.com/remirobert/Facemotion</summary>
   Added July 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2463,7 +2463,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c</summary>
   Added August  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Tip Calculator image 1](https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png)
   </details>
-- To do: A to-do list app using Viper 🔥🔥🔥
+- To do: To-do list app, uses Viper 🔥🔥🔥
   <details><summary>https://github.com/objcio/issue-13-viper</summary>
   Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://www.objc.io/issues/13-architecture/viper/
   </details>
@@ -2497,7 +2497,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/irace/BlogQuest</summary>
   Added March 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Borrowed Books UFGRS: Manage ufrgs.br library books using `Alamofire` `Swift` 🇵🇹
+- Borrowed Books UFGRS: Manage ufrgs.br library books, uses Alamofire `Swift` 🇵🇹
   <details><summary>https://github.com/MatheusCavalca/RenovaLivrosUFRGS</summary>
   Added March 20, 2016<br>  License: `other`
   </details>
@@ -2651,7 +2651,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/scribblemaniac/Fibonacc-iClock</summary>
   Added May 23, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
-- HausClock: Minimal Chess Clock using MVVM and ReactiveCocoa `Swift` 
+- HausClock: Minimal Chess Clock, uses MVVM & ReactiveCocoa `Swift` 
   <details><summary>https://github.com/nottombrown/HausClock</summary>
   Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
