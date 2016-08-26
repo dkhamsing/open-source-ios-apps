@@ -3866,8 +3866,9 @@
       ],
       "description": "Uses https://www.wunderground.com/",
       "license": "mit",
-      "source": "https://github.com/comyarzaheri/Sol",
+      "source": "https://github.com/comyar/Sol",
       "stars": 1208,
+      "screenshots": ["https://github.com/comyar/Sol/raw/master/Screenshots/1.png", "https://github.com/comyar/Sol/raw/master/Screenshots/2.png"],
       "date_added": "Mon Jun 15 23:24:53 2015 +0100",
       "suggested_by": "Andrei Pop"
     },
