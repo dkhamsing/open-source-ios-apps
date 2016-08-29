@@ -7790,6 +7790,15 @@
       ],
       "date_added": "Aug 21 2016",
       "suggested_by": "@iliketurtlesbro"
-    }
+    },
+    {
+            "title": "Pi - A Student's dream",
+            "category-ids": ["science"],
+            "description": "An app made by a student for students. Study, solve problems, formula library, calculators & more!",
+            "source": "https://github.com/rigobertomolina/Pi",
+            "screenshots": ["http://a4.mzstatic.com/us/r30/Purple60/v4/44/b7/13/44b713c0-a307-b098-f835-33f2ec471436/screen696x696.jpeg"],
+            "date_added": "Aug 29 2016",
+            "suggested_by": "@rigobertomolina"
+}
   ]
 }
