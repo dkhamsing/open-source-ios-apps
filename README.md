@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-543-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 26, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-544-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 29, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1862,6 +1862,10 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/bridger/NumberPad</summary>
   Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
+- Pi: Study, solve problems, formula library, calculators & more! Made by a student for students. [` App Store`](https://itunes.apple.com/app/pi-a-students-dream/id1117743302) 
+  <details><summary>https://github.com/rigobertomolina/Pi</summary>
+  Added August 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Pi image 1](http://a4.mzstatic.com/us/r30/Purple60/v4/44/b7/13/44b713c0-a307-b098-f835-33f2ec471436/screen696x696.jpeg)
+  </details>
 
 ## Security 
  
@@ -2069,8 +2073,8 @@ Image, video, audio, reading — [back to top](#readme)
   Added August 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - Sol: Uses https://www.wunderground.com/ 🔥🔥🔥🔥
-  <details><summary>https://github.com/comyarzaheri/Sol</summary>
-  Added June 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <details><summary>https://github.com/comyar/Sol</summary>
+  Added June 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Sol image 1](https://github.com/comyar/Sol/raw/master/Screenshots/1.png)<br>  ![Sol image 2](https://github.com/comyar/Sol/raw/master/Screenshots/2.png)
   </details>
 - SwiftWeather `Swift` 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/JakeLin/SwiftWeather</summary>
