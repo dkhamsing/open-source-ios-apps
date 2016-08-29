@@ -7793,7 +7793,7 @@
     },
     {
             "title": "Pi",
-            "category-ids": ["science"],
+            "category-ids": ["science", "firebase"],
             "description": "Study, solve problems, formula library, calculators & more! Made by a student for students.",
             "source": "https://github.com/rigobertomolina/Pi",
             "itunes": "https://itunes.apple.com/app/pi-a-students-dream/id1117743302",
