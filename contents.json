@@ -286,6 +286,7 @@
       "license": "lgpl-2.1",
       "source": "https://github.com/IGRSoft/exTVPlayer",
       "stars": 9,
+      "screenshots": ["https://raw.githubusercontent.com/IGRSoft/exTVPlayer/master/Screenshots/4.png"],
       "date_added": "Tue Feb 9 14:02:53 2016 +0200",
       "suggested_by": "Vitalii Parovishnyk"
     },
@@ -298,6 +299,7 @@
       "description": "Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more",
       "source": "https://github.com/jasarien/Provenance",
       "stars": 2176,
+      "screenshots": ["http://jamesaddyman.com/provenance/screenshots/provenance1.png", "http://jamesaddyman.com/provenance/screenshots/provenance6.png"],
       "license": "bsd-3-clause",
       "date_added": "Mon Apr 27 13:06:49 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -518,6 +520,7 @@
       "description": "Hang a TV in your open space / team room to show everyone what's up and get them up to speed",
       "license": "gpl-3.0",
       "source": "https://github.com/macoscope/GrandCentralBoard",
+      "screenshots": ["http://cdn.macoscope.com/blog/wp-content/uploads/2016/03/zegar_anim_1.gif"],
       "stars": 182,
       "tags": [
         "swift"
