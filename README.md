@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-544-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 29, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-544-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 30, 2016-lightgrey.svg)
 
 Jump to
 
@@ -93,7 +93,7 @@ Click ► to show more details
   </details>
 - EX Player: Watch videos from EX.UA file sharing 
   <details><summary>https://github.com/IGRSoft/exTVPlayer</summary>
-  Added February  9, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
+  Added February  9, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)<br>  ![EX Player image 1](https://raw.githubusercontent.com/IGRSoft/exTVPlayer/master/Screenshots/4.png)
   </details>
 - iCook TV: Taiwanese cuisine cooking videos 🇨🇳
   <details><summary>https://github.com/polydice/iCook-tvOS</summary>
@@ -101,7 +101,7 @@ Click ► to show more details
   </details>
 - Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/jasarien/Provenance</summary>
-  Added April 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  Added April 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>  ![Provenance image 1](http://jamesaddyman.com/provenance/screenshots/provenance1.png)<br>  ![Provenance image 2](http://jamesaddyman.com/provenance/screenshots/provenance6.png)
   </details>
 - RailsCasts: Ruby on Rails screencasts from http://railscasts.com/ 
   <details><summary>https://github.com/spritlesoftware/railscasts-on-appletv</summary>
@@ -190,7 +190,7 @@ Click ► to show more details
   </details>
 - GrandCentralBoard: Hang a TV in your open space / team room to show everyone what's up and get them up to speed `Swift` 🔥
   <details><summary>https://github.com/macoscope/GrandCentralBoard</summary>
-  Added April 29, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  Added April 29, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  ![GrandCentralBoard image 1](http://cdn.macoscope.com/blog/wp-content/uploads/2016/03/zegar_anim_1.gif)
   </details>
 - Gulps: Track your daily water consumption [` App Store`](https://itunes.apple.com/app/gulps/id979057304) `Swift` 🔥🔥🔥
   <details><summary>https://github.com/FancyPixel/gulps</summary>
@@ -610,7 +610,7 @@ Click ► to show more details
   </details>
 - Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/jasarien/Provenance</summary>
-  Added April 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  Added April 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>  ![Provenance image 1](http://jamesaddyman.com/provenance/screenshots/provenance1.png)<br>  ![Provenance image 2](http://jamesaddyman.com/provenance/screenshots/provenance6.png)
   </details>
 - RetroArch: The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others 🔥🔥🔥🔥
   <details><summary>https://github.com/libretro/RetroArch</summary>
@@ -1259,7 +1259,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - EX Player: Watch videos from EX.UA file sharing 
   <details><summary>https://github.com/IGRSoft/exTVPlayer</summary>
-  Added February  9, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
+  Added February  9, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)<br>  ![EX Player image 1](https://raw.githubusercontent.com/IGRSoft/exTVPlayer/master/Screenshots/4.png)
   </details>
 - Facemotion: Find a contact by face recognition, uses OpenCV 
   <details><summary>https://github.com/remirobert/Facemotion</summary>
@@ -2189,6 +2189,10 @@ Image, video, audio, reading — [back to top](#readme)
 - how-much: Simple app to record how much things cost, uses Parse or Firebase 
   <details><summary>https://github.com/dkhamsing/how-much</summary>
   Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Pi: Study, solve problems, formula library, calculators & more! Made by a student for students. [` App Store`](https://itunes.apple.com/app/pi-a-students-dream/id1117743302) 
+  <details><summary>https://github.com/rigobertomolina/Pi</summary>
+  Added August 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Pi image 1](http://a4.mzstatic.com/us/r30/Purple60/v4/44/b7/13/44b713c0-a307-b098-f835-33f2ec471436/screen696x696.jpeg)
   </details>
 
 ### [Ionic](http://ionicframework.com/) 
