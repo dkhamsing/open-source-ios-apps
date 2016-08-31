@@ -9,7 +9,6 @@
   <title>Open Source iOS Apps</title>
   <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/ui-lightness/jquery-ui.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link id="bootstrap-theme" data-index="9" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/sandstone/bootstrap.min.css" rel="stylesheet">
   <link href="http://cdn.staticfile.org/emoji/0.2.2/emoji.css" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/emojione/2.2.6/assets/css/emojione.min.css" />
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet"> 
@@ -62,12 +61,12 @@
   <div class="modal fade" id="settings" tabindex="-1" role="dialog">
    <div class="modal-dialog modal-lg">
     <div class="modal-content">
-     <div class="modal-header"><button type="button" class="close cancel-settings" aria-hidden="true">&times;</button><h2 class="modal-title">Settings</h2></div>
+     <div class="modal-header"><button type="button" class="close" aria-hidden="true">&times;</button><h2 class="modal-title">Settings</h2></div>
      <div class="modal-body">
       <h3>Themes</h3>
       <div id="theme-container"></div>
      </div>
-     <div class="modal-footer"><button type="button" class="btn btn-default cancel-settings">Close</button><button id="save-settings" type="button" class="btn btn-primary">Save Changes</button></div>
+     <div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button><button id="save-settings" type="button" class="btn btn-primary">Save Changes</button></div>
     </div>
    </div>
   </div>

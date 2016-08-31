@@ -1,33 +1,75 @@
 var themes = [{ name: "Cerulean", description: "A calm blue sky" }, { name: "Cosmo", description: "An ode to Metro" }, { name: "Cyborg", description: "Jet black and electric blue" }, { name: "Darkly", description: "Flatly in night mode" }, { name: "Flatly", description: "Flat and modern" }, { name: "Journal", description: "Crisp like a new sheet of paper" }, { name: "Lumen", description: "Light and shadow" }, { name: "Paper", description: "Material is the metaphor" }, { name: "Readable", description: "Optimized for legibility" }, { name: "Sandstone", description: "A touch of warmth" }, { name: "Simplex", description: "Mini and minimalist" }, { name: "Slate", description: "Shades of gunmetal gray" }, { name: "Spacelab", description: "Silvery and sleek" }, { name: "Superhero", description: "The brave and the blue" }, { name: "United", description: "Ubuntu orange and unique font" }, { name: "Yeti", description: "A friendly foundation" }];
-var currentTheme = 9;
 var previewTheme = null;
+var _settings = {};
 
 function updateNavigationPadding() {
     $(document.body).css("padding-top", $("#main-nav").outerHeight() + 15);
 }
 
 function cancelSettings() {
-	// Hide modal dialog
-	$("#settings").modal("hide");
-	
+	console.log("cancel");
 	// Remove the preview theme and restore the current theme
 	if(previewTheme != null) {
 		previewTheme = null;
-		$("#bootstrap-theme").attr("href", "https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/" + themes[currentTheme].name.toLowerCase() + "/bootstrap.min.css");
+		var currentTheme = loadSetting("theme");
+		$("#bootstrap-theme").attr("href", "https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/" + currentTheme.toLowerCase() + "/bootstrap.min.css");
 		$(".theme-item.panel-primary").removeClass("panel-primary").addClass("panel-default");
-		$(".theme-item[data-index=" + currentTheme + "]").removeClass("panel-default").addClass("panel-primary");
+		$(".theme-item[name=" + currentTheme + "]").removeClass("panel-default").addClass("panel-primary");
+	}
+}
+
+function loadSetting(key) {
+	if(_settings.hasOwnProperty(key)) {
+		return _settings[key];
+	}
+	else {
+		// Try localstorage
+		if(window.localStorage && window.localStorage.hasOwnProperty(key)) {
+			return window.localStorage.getItem(key);
+		}
+		
+		// Try cookies
+		var cookieSplit = document.cookie.split(";");
+		var keyEqual = key + "=";
+		for(var i = 0; i < cookieSplit.length; i++) {
+			cookieSplit[i] = cookieSplit[i]
+			var j = 0;
+			while(j < cookieSplit.length && cookieSplit[j] == " ") j++;
+			if(cookieSplit[i].indexOf(keyEqual, j) == j) return cookieSplit[i].substring(j + keyEqual.length);
+		}
+		
+		// Fall back to default options
+		var defaultSettings = { theme: "Sandstone" };
+		if(defaultSettings.hasOwnProperty(key)) {
+			return defaultSettings[key];
+		}
+		
+		// Unknown setting (no default), return undefined
+		console.warn("Attempt to access unknown key '" + key + "'");
+		return undefined;
+	}
+}
+
+function saveSetting(key, value) {
+	if(window.localStorage) {
+		window.localStorage.setItem(key, value);
+	}
+	else {
+		var expiry = new Date();
+		expiry.setFullYear(expiry.getFullYear() + 1);
+		document.cookie = key + "=" + value + ";path='/';expires=" + expiry; 
 	}
 }
 
 function saveSettings() {
-	// Hide modal dialog
-	$("#settings").modal("hide");
-	
 	// Keep the preview theme (if there is one)
 	if(previewTheme != null) {
-		currentTheme = previewTheme;
+		saveSetting("theme", previewTheme);
 		previewTheme = null;
 	}
+	
+	// Hide modal dialog
+	$("#settings").modal("hide");
 }
 
 function starString(starCount) {
@@ -60,6 +102,9 @@ function langString(lang) {
 }
 
 $(document).ready(function() {
+	// Load boostrap theme
+	$(document.head).append("<link id=\"bootstrap-theme\" href=\"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/" + loadSetting("theme").toLowerCase() + "/bootstrap.min.css\" rel=\"stylesheet\">");
+	
 	// Fetch latest contents.json file
 	$.get("https://raw.githubusercontent.com/dkhamsing/open-source-ios-apps/master/contents.json", function(data) {
 		// Set a global variable for easier debugging
@@ -103,7 +148,7 @@ $(document).ready(function() {
 		// Convert shortcodes and unicode characters to nice looking emojis
 		$(document.body).html(emojione.toImage($(document.body).html()));
 		
-		// Workaround for when the file is being loaded offline
+		// Workaround for when the file is being loaded local
 		$(".emojione[src]").each(function() {
 			if($(this).attr("src").startsWith("//")) {
 				$(this).attr("src", "https:" + $(this).attr("src"));
@@ -122,18 +167,16 @@ $(document).ready(function() {
 		
 		// Add themes to settings dialog
 		for(var i = 0; i < themes.length; i++) {
-			/*if(i % 4 == 0) {
-				table.append(row);
-			}*/
-			var cell = $("<div class=\"theme-item panel panel-" + (i == currentTheme ? "primary" : "default") + "\" data-index=\"" + i + "\"><div class=\"panel-heading\">" + themes[i].name + "</div><div class=\"panel-body\"><img src=\"https://bootswatch.com/" + themes[i].name.toLowerCase() + "/thumbnail.png\" /><p>" + themes[i].description + "</p></div></div>");
+			var currentTheme = loadSetting("theme");
+			var cell = $("<div class=\"theme-item panel panel-" + (themes[i].name == currentTheme ? "primary" : "default") + "\" name=\"" + themes[i].name + "\"><div class=\"panel-heading\">" + themes[i].name + "</div><div class=\"panel-body\"><img src=\"https://bootswatch.com/" + themes[i].name.toLowerCase() + "/thumbnail.png\" /><p>" + themes[i].description + "</p></div></div>");
 			$("#theme-container").append(cell);
 		}
 		// Enable theme selection
 		$(".theme-item").click(function() {
 			$(".theme-item.panel-primary").removeClass("panel-primary").addClass("panel-default");
 			$(this).removeClass("panel-default").addClass("panel-primary");
-			previewTheme = Number($(this).attr("data-index"));
-			$("#bootstrap-theme").attr("href", "https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/" + themes[previewTheme].name.toLowerCase() + "/bootstrap.min.css");
+			previewTheme = $(this).attr("name");
+			$("#bootstrap-theme").attr("href", "https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/" + previewTheme.toLowerCase() + "/bootstrap.min.css");
 		});
 		
 		// Add tooltips
@@ -141,10 +184,10 @@ $(document).ready(function() {
 		
 		// Open settings dialog when the button is pressed
 		$("#setting-button").click(function() { $("#settings").modal("show"); });
-		// Register cancel settings
-		$(".cancel-settings").click(cancelSettings);
 		// Register save settings
 		$("#save-settings").click(saveSettings);
+		// Register modal close handler
+		$("#settings").on("hide.bs.modal", cancelSettings);
 	}, "json").fail(function() {
 		// TODO Handle error gracefully
 	});
