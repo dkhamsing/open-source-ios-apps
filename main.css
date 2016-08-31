@@ -50,3 +50,26 @@ body {
 .theme-item .panel-heading {
  text-transform: none;
 }
+
+.app-store-button {
+	border-radius: 5px;
+	background-color: black;
+	color: white;
+	font-family: 'Myriad Pro', 'Source Sans Pro', sans-serif;
+	display: inline-flex;
+	line-height: 2.6ex;
+	padding: 0 1ex;
+	vertical-align: middle;
+	border: .4ex outset gray;
+	align-items: center;
+}
+
+.app-store-button:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.app-store-button:active {
+	border: .4ex inset gray;
+	color: white;
+}

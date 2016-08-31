@@ -92,7 +92,7 @@ $(document).ready(function() {
 			for(var j = 0; j < currentProject["category-ids"].length; j++) {
 				var licenseMap = { "mit": "https://opensource.org/licenses/MIT", "mpl-2.0": "https://opensource.org/licenses/MPL-2.0", "gpl-3.0": "https://opensource.org/licenses/BSD-3-Clause", "lgpl-3.0": "https://opensource.org/licenses/LGPL-3.0", "unlicense": "http://unlicense.org/", "bsd-2-clause": "https://opensource.org/licenses/BSD-2-Clause", "isc": "https://opensource.org/licenses/ISC", "lgpl-2.1": "https://opensource.org/licenses/LGPL-2.1", "gpl-2.0": "https://opensource.org/licenses/GPL-2.0", "apache-2.0": "https://opensource.org/licenses/Apache-2.0", "cc0-1.0": "https://creativecommons.org/publicdomain/zero/1.0/deed.en", "artistic-2.0": "https://opensource.org/licenses/Artistic-2.0", "bsd-3-clause": "https://opensource.org/licenses/BSD-3-Clause", "agpl-3.0": "https://opensource.org/licenses/AGPL-3.0", "epl-1.0": "https://opensource.org/licenses/EPL-1.0" };
 				
-				$("#category-" + currentProject["category-ids"][j]).append($("<div class=\"list-group-item\"><h4 class=\"list-group-item-heading\">" + currentProject.title + "</h4><p class=\"list-group-item-text\">" + (typeof currentProject.description != "undefined" ? currentProject.description + " " : "") + langString(currentProject.lang) + starString(currentProject.stars) + (typeof currentProject.itunes != "undefined" ? "<span class=\"insert-tooltip\" title=\"Available on the App Store\">" + emojione.unicodeToImage("📱") + "</span>" : "") + "</p><p class=\"list-group-item-text details\">" + (typeof currentProject.itunes == "undefined" ? "" : "iTunes: <a href=\"" + currentProject.itunes + "\">" + currentProject.itunes + "</a><br />") + "Source: <a href=\"" + currentProject.source + "\">" + currentProject.source + "</a><br />License: " + (licenseMap.hasOwnProperty(currentProject.license) ? "<a href=\"" + licenseMap[currentProject.license] + "\">" + currentProject.license + "</a>" : currentProject.license) + "<br />Suggested by <a href=\"https://github.com/" + currentProject.suggested_by + "\">" + currentProject.suggested_by + "</a> on <span class=\"text-info\">" + (new Date(currentProject.date_added)).toDateString() + "</span></p></div>"));
+				$("#category-" + currentProject["category-ids"][j]).append($("<div class=\"list-group-item\"><h4 class=\"list-group-item-heading\">" + currentProject.title + "</h4><p class=\"list-group-item-text\">" + (typeof currentProject.description != "undefined" ? currentProject.description + " " : "") + langString(currentProject.lang) + starString(currentProject.stars) + (typeof currentProject.itunes != "undefined" ? "<a class=\"app-store-button\" href=\"" + currentProject.itunes + "\" target=\"_blank\"><span class=\"fa fa-apple\"></span><span class=\"hidden-s hidden-xs\">&nbsp;Available on the App Store</span></a>" : "") + "</p><p class=\"list-group-item-text details\">" + "Source: <a href=\"" + currentProject.source + "\" target=\"_blank\">" + currentProject.source + "</a><br />License: " + (licenseMap.hasOwnProperty(currentProject.license) ? "<a href=\"" + licenseMap[currentProject.license] + "\" target=\"_blank\">" + currentProject.license + "</a>" : currentProject.license) + "<br />Suggested by <a href=\"https://github.com/" + currentProject.suggested_by + "\" target=\"_blank\">" + currentProject.suggested_by + "</a> on <span class=\"text-info\">" + (new Date(currentProject.date_added)).toDateString() + "</span></p></div>"));
 				// Increment category badge
 				var badge = categoryElements[currentProject["category-ids"][j]].children("h4").children(".badge");
 				badge.html(Number(badge.html()) + 1);
@@ -112,6 +112,11 @@ $(document).ready(function() {
 		// Add app show more links
 		$("#main-content .list-group-item").click(function() {
 			$(this).children(".details").toggle("blind");
+		});
+		
+		// Prevent details from showing when clicking the app store link
+		$(".app-store-button").click(function(e) {
+			e.stopPropagation();
 		});
 		
 		// Add themes to settings dialog
