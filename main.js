@@ -70,6 +70,7 @@ $(document).ready(function() {
 
 		// Create and add table of contents items
 		categoryElements = {};
+		//var toc = $("<div id=\"toc\" class=\"container\"><h1>Table of Contents</h1></div>"); 
 		for(var i = 0; i < data.categories.length; i++) {
 			var currentCategory = data.categories[i];
 			categoryElements[currentCategory.id] = $("<div class=\"toc-item\"><h4 class=\"toc-item-bullet\"></h4><div class=\"toc-item-content\"><h4><a href=\"#category-" + currentCategory.id + "\">" + currentCategory.title + "</a> <span class=\"badge\">0</span></h4>" + (typeof currentCategory.description != "undefined" ? "<p>" + currentCategory.description + "</p>" : "") + "</div></div>");
@@ -94,7 +95,7 @@ $(document).ready(function() {
 				
 				$("#category-" + currentProject["category-ids"][j]).append($("<div class=\"list-group-item\"><h4 class=\"list-group-item-heading\">" + currentProject.title + "</h4><p class=\"list-group-item-text\">" + (typeof currentProject.description != "undefined" ? currentProject.description + " " : "") + langString(currentProject.lang) + starString(currentProject.stars) + (typeof currentProject.itunes != "undefined" ? "<a class=\"app-store-button\" href=\"" + currentProject.itunes + "\" target=\"_blank\"><span class=\"fa fa-apple\"></span><span class=\"hidden-s hidden-xs\">&nbsp;Available on the App Store</span></a>" : "") + "</p><p class=\"list-group-item-text details\">" + "Source: <a href=\"" + currentProject.source + "\" target=\"_blank\">" + currentProject.source + "</a><br />License: " + (licenseMap.hasOwnProperty(currentProject.license) ? "<a href=\"" + licenseMap[currentProject.license] + "\" target=\"_blank\">" + currentProject.license + "</a>" : currentProject.license) + "<br />Suggested by <a href=\"https://github.com/" + currentProject.suggested_by + "\" target=\"_blank\">" + currentProject.suggested_by + "</a> on <span class=\"text-info\">" + (new Date(currentProject.date_added)).toDateString() + "</span></p></div>"));
 				// Increment category badge
-				var badge = categoryElements[currentProject["category-ids"][j]].children("h4").children(".badge");
+				var badge = categoryElements[currentProject["category-ids"][j]].children(".toc-item-content").children("h4").children(".badge");
 				badge.html(Number(badge.html()) + 1);
 			}
 		}
