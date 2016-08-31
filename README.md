@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-544-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 30, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-544-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 31, 2016-lightgrey.svg)
 
 Jump to
 
@@ -196,7 +196,7 @@ Click ► to show more details
   <details><summary>https://github.com/FancyPixel/gulps</summary>
   Added April 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- HeartControl: Continuous heart rate measurement during workouts with watchOS 3 `Swift` 
+- HeartControl: Continuous heart rate measurement during workouts with watchOS 3 `Swift` 🔥
   <details><summary>https://github.com/thomaspaulmann/HeartControl</summary>
   Added August 16, 2016<br>  License: `other`
   </details>
@@ -375,7 +375,7 @@ Click ► to show more details
   <details><summary>https://github.com/RocketChat/Rocket.Chat.iOS</summary>
   Added January 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Signal: Free, world-wide, private messaging & phone calls for iPhone [` App Store`](https://itunes.apple.com/app/id874139669) 🔥🔥🔥🔥
+- Signal: Free, world-wide, private messaging & phone calls for iPhone [` App Store`](https://itunes.apple.com/app/id874139669) 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/WhisperSystems/Signal-iOS</summary>
   Added February 27, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
@@ -473,7 +473,7 @@ Click ► to show more details
   <details><summary>https://github.com/caleb0/SwiftSnake</summary>
   Added August 19, 2016<br>  License: `other`<br>  ![SwiftSnake image 1](http://i.imgur.com/mBi9Jfj.png)
   </details>
-- youtube-iOS: YouTube app template, uses Swift 3 `Swift` 🔥🔥
+- youtube-iOS: YouTube app template, uses Swift 3 `Swift` 🔥🔥🔥
   <details><summary>https://github.com/aslanyanhaik/youtube-iOS</summary>
   Added August 15, 2016<br>  License: `other`<br>  ![youtube-iOS image 1](https://camo.githubusercontent.com/cfa19d4ba7d4b87e1a1d0a54c1d11d0761b69ae7/687474703a2f2f692e67697068792e636f6d2f687743616848414431744e48612e676966)
   </details>
@@ -1321,7 +1321,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/MrAdamBoyd/Pictograph</summary>
   Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- PixPic: Photo editing `Swift` 🔥
+- PixPic: Photo editing `Swift` 🔥🔥
   <details><summary>https://github.com/Yalantis/PixPic</summary>
   Added July 29, 2016<br>  License: `other`<br>  ![PixPic image 1](http://i.imgur.com/c8ahfkv.png)
   </details>
@@ -1369,7 +1369,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/xcoo/upupu</summary>
   Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
-- VLC: Media Player [` App Store`](https://itunes.apple.com/app/vlc-for-ios/id650377962) 🔥🔥🔥🔥
+- VLC: Media Player [` App Store`](https://itunes.apple.com/app/vlc-for-ios/id650377962) 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/videolan/vlc</summary>
   Added March 22, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://www.videolan.org/
   </details>
@@ -1394,7 +1394,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/JakeLin/ChineseZodiac</summary>
   Added May 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Dunk: Dribbble client [` App Store`](https://itunes.apple.com/app/dunk-for-dribbble/id1003028105) `Swift` 🔥🔥
+- Dunk: Dribbble client [` App Store`](https://itunes.apple.com/app/dunk-for-dribbble/id1003028105) `Swift` 🔥🔥🔥
   <details><summary>https://github.com/naoyashiga/Dunk</summary>
   Added December 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1458,7 +1458,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/BalestraPatrick/RealmVideo</summary>
   Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- SoundCloudSwift: SoundCloud app `Swift` 🔥
+- SoundCloudSwift: SoundCloud app `Swift` 🔥🔥
   <details><summary>https://github.com/pepibumur/SoundCloudSwift</summary>
   Added May  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1641,7 +1641,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/WWDCScholars/WWDCScholars-iOS</summary>
   Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  http://wwdcscholars.com/
   </details>
-- VLC: Media Player [` App Store`](https://itunes.apple.com/app/vlc-for-ios/id650377962) 🔥🔥🔥🔥
+- VLC: Media Player [` App Store`](https://itunes.apple.com/app/vlc-for-ios/id650377962) 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/videolan/vlc</summary>
   Added March 22, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://www.videolan.org/
   </details>
@@ -1736,7 +1736,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/artsy/eidolon</summary>
   Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- RxMarbles: Interactive diagrams of Rx Observables [` App Store`](https://itunes.apple.com/us/app/rxmarbles/id1087272442) `Swift` 
+- RxMarbles: Interactive diagrams of Rx Observables [` App Store`](https://itunes.apple.com/us/app/rxmarbles/id1087272442) `Swift` 🔥
   <details><summary>https://github.com/RxSwiftCommunity/RxMarbles</summary>
   Added June 29, 2016<br>  License: `other`
   </details>
@@ -1749,7 +1749,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- 30 days of React Native demos 🔥🔥🔥
+- 30 days of React Native demos 🔥🔥🔥🔥
   <details><summary>https://github.com/fangwei716/30-days-of-react-native</summary>
   Added August 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![30 days of React Native demos image 1](https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif)
   </details>
@@ -1777,7 +1777,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/USDepartmentofLabor/Swift-Sample-App</summary>
   Added April 14, 2015<br>  License: `other`
   </details>
-- Furni: Furniture store demo app, uses Fabric `Swift` 🔥🔥🔥
+- Furni: Furniture store demo app, uses Fabric `Swift` 🔥🔥🔥🔥
   <details><summary>https://github.com/twitterdev/furni-ios</summary>
   Added January 25, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -1928,7 +1928,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/opensourceios/Aozora</summary>
   Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Ello: Ello is the Creators Network [` App Store`](https://itunes.apple.com/app/ello/id953614327) `Swift` 🔥🔥
+- Ello: Ello is the Creators Network [` App Store`](https://itunes.apple.com/app/ello/id953614327) `Swift` 🔥🔥🔥
   <details><summary>https://github.com/ello/ello-ios</summary>
   Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2014,7 +2014,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/likumb/SimpleMemo</summary>
   Added August 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Simplenote: Easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices. Share notes with other users to collaborate on a project together or to access the same list. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962) 🔥🔥🔥
+- Simplenote: Easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices. Share notes with other users to collaborate on a project together or to access the same list. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962) 🔥🔥🔥🔥
   <details><summary>https://github.com/automattic/simplenote-ios</summary>
   Added August 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  https://simplenote.com/<br>  ![Simplenote image 1](https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg)
   </details>
@@ -2273,7 +2273,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/facebook/react-native/tree/master/Examples/2048</summary>
   Added February  5, 2016<br>  License: `other`
   </details>
-- 30 days of React Native demos 🔥🔥🔥
+- 30 days of React Native demos 🔥🔥🔥🔥
   <details><summary>https://github.com/fangwei716/30-days-of-react-native</summary>
   Added August 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![30 days of React Native demos image 1](https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif)
   </details>
@@ -2281,7 +2281,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/wwayne/react-native-nba-app</summary>
   Added January  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Around Me: Display Instagram photos around your location 
+- Around Me: Display Instagram photos around your location 🔥
   <details><summary>https://github.com/bgryszko/react-native-example</summary>
   Added October 13, 2015<br>  License: `other`
   </details>
@@ -2529,7 +2529,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/thomasfinch/GammaThingy</summary>
   Added November 21, 2015<br>  License: `other`
   </details>
-- Good Living Guide: home snacks, gifts, beauty, shopping.. [` App Store`](https://itunes.apple.com/app/id1021442122) `Swift` 🇨🇳🔥
+- Good Living Guide: home snacks, gifts, beauty, shopping.. [` App Store`](https://itunes.apple.com/app/id1021442122) `Swift` 🇨🇳🔥🔥
   <details><summary>https://github.com/hrscy/DanTang</summary>
   Added August  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
