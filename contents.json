@@ -7832,6 +7832,22 @@
       "date_added": "Aug 29 2016",
       "suggested_by": "@rigobertomolina",
       "stars": 3
+    },
+    {
+      "title": "Giraffe",
+      "category-ids": [
+        "reactivecocoa",
+        "content"
+      ],
+      "description": "Giphy (http://giphy.com) client written in Swift with ReactiveCocoa",
+      "source": "https://github.com/evgeniyd/Giraffe",
+      "date_added": "Sep 1 2016",
+      "suggested_by": "@akaralar",
+      "screenshots": [
+        "https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png"
+      ],
+      "licence": "mit",
+      "tags": ["swift"]
     }
   ]
 }
