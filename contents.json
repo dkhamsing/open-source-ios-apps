@@ -111,6 +111,12 @@
       "parent": "media"
     },
     {
+      "title": "GIF",
+      "id": "gif",
+      "description": "Mostly using http://giphy.com/",
+      "parent": "media"
+    },
+    {
       "title": "News",
       "id": "news"
     },
@@ -5484,10 +5490,10 @@
       "title": "ReactiveKitten",
       "category-ids": [
         "reactive-programming",
-        "content",
+        "gif",
         "sample"
       ],
-      "description": "It's about gifs and cats, example project for Interstellar",
+      "description": "It's about GIFs & cats, uses Interstellar",
       "source": "https://github.com/JensRavens/ReactiveKitten",
       "tags": [
         "swift"
@@ -6789,9 +6795,9 @@
     },
     {
       "title": "Swift-Gif",
-      "description": "Gif Search",
+      "description": "GIF Search",
       "category-ids": [
-        "content"
+        "gif"
       ],
       "source": "https://github.com/pjchavarria/Swift-Gif",
       "license": "mit",
@@ -7839,7 +7845,7 @@
         "reactivecocoa",
         "content"
       ],
-      "description": "Giphy (http://giphy.com) client written in Swift with ReactiveCocoa",
+      "description": "Uses ReactiveCocoa",
       "source": "https://github.com/evgeniyd/Giraffe",
       "date_added": "Sep 1 2016",
       "suggested_by": "@akaralar",
