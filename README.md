@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-544-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August 31, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-545-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  1, 2016-lightgrey.svg)
 
 Jump to
 
@@ -34,6 +34,7 @@ Jump to
 - [Location](#location) 
 - [Media](#media) 
   - [Content](#content) 
+  - [GIF](#gif) 
 - [News](#news) 
   - [Hacker News](#hacker-news) 
 - [Official](#official) 
@@ -1402,6 +1403,10 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/alikaragoz/Flickr-Search</summary>
   Added February  4, 2015<br>  License: `other`
   </details>
+- Giraffe: Uses ReactiveCocoa `Swift` 
+  <details><summary>https://github.com/evgeniyd/Giraffe</summary>
+  Added September  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Giraffe image 1](https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png)
+  </details>
 - KonaBot: Unofficial app for http://konachan.net/ [` App Store`](https://itunes.apple.com/app/konabot/id1055716649) `Swift` 
   <details><summary>https://github.com/hkalexling/KonaBot-iOS</summary>
   Added December  3, 2015<br>  License: `other`
@@ -1450,10 +1455,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/soffes/Pugs</summary>
   Added January 25, 2016<br>  License: `other`
   </details>
-- ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
-  <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
-  Added May 11, 2016<br>  License: `other`
-  </details>
 - RealmVideo: Watch Realm videos & slides on your phone `Swift` 🔥🔥
   <details><summary>https://github.com/BalestraPatrick/RealmVideo</summary>
   Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1461,10 +1462,6 @@ Image, video, audio, reading — [back to top](#readme)
 - SoundCloudSwift: SoundCloud app `Swift` 🔥🔥
   <details><summary>https://github.com/pepibumur/SoundCloudSwift</summary>
   Added May  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- Swift-Gif: Gif Search `Swift` 
-  <details><summary>https://github.com/pjchavarria/Swift-Gif</summary>
-  Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - SwiftFlickrApp: Flickr popular photo viewer `Swift` 🔥🔥
   <details><summary>https://github.com/synboo/SwiftFlickrApp</summary>
@@ -1493,6 +1490,19 @@ Image, video, audio, reading — [back to top](#readme)
 - xkcd Open Source: An xkcd comic reader [` App Store`](https://itunes.apple.com/app/xkcd-open-source/id995811425) 🔥
   <details><summary>https://github.com/mamaral/xkcd-Open-Source</summary>
   Added June  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+### GIF 
+ 
+Mostly using http://giphy.com/ — [back to top](#readme) 
+ 
+- ReactiveKitten: It's about GIFs & cats, uses Interstellar `Swift` 
+  <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
+  Added May 11, 2016<br>  License: `other`
+  </details>
+- Swift-Gif: GIF Search `Swift` 
+  <details><summary>https://github.com/pjchavarria/Swift-Gif</summary>
+  Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 ## News 
@@ -1662,7 +1672,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
+- ReactiveKitten: It's about GIFs & cats, uses Interstellar `Swift` 
   <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
   Added May 11, 2016<br>  License: `other`
   </details>
@@ -1682,6 +1692,10 @@ Image, video, audio, reading — [back to top](#readme)
 - C-41: Simple timer to make developing film easier & more reliable [` App Store`](https://itunes.apple.com/app/c-41/id789924103) 🔥🔥🔥🔥
   <details><summary>https://github.com/ashfurrow/C-41</summary>
   Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- Giraffe: Uses ReactiveCocoa `Swift` 
+  <details><summary>https://github.com/evgeniyd/Giraffe</summary>
+  Added September  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Giraffe image 1](https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png)
   </details>
 - GitBucket: Uses MVVM & ReactiveCocoa [` App Store`](https://itunes.apple.com/app/id961330940) 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/leichunfeng/MVVMReactiveCocoa</summary>
@@ -1817,7 +1831,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/apiaryio/polls-app</summary>
   Added June 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- ReactiveKitten: It's about gifs and cats, example project for Interstellar `Swift` 
+- ReactiveKitten: It's about GIFs & cats, uses Interstellar `Swift` 
   <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
   Added May 11, 2016<br>  License: `other`
   </details>
