@@ -550,6 +550,7 @@
       "source": "https://github.com/FancyPixel/gulps",
       "itunes": "https://itunes.apple.com/app/gulps/id979057304",
       "stars": 665,
+      "screenshots": ["https://cdn-images-1.medium.com/max/800/1*5sA3rvpUw5bdecwbDx7cYA.png"],
       "tags": [
         "swift"
       ],
@@ -597,6 +598,7 @@
       "source": "https://github.com/Dimillian/SwiftHN",
       "itunes": "https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741",
       "stars": 1191,
+      "screenshots": ["https://cdn-images-1.medium.com/max/800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png"],
       "tags": [
         "swift"
       ],
@@ -1267,6 +1269,7 @@
       "source": "https://github.com/matthewpalmer/Charter",
       "itunes": "https://itunes.apple.com/app/charter-mailing-list-client/id1082212697",
       "stars": 300,
+      "screenshots": ["https://cdn-images-1.medium.com/max/800/1*3igvNkkU0qmS0lox6epnSQ.png"],
       "tags": [
         "swift"
       ],
@@ -1554,6 +1557,7 @@
       "license": "mit",
       "source": "https://github.com/austinzheng/swift-2048",
       "stars": 2268,
+      "screenshots": ["https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png"],
       "tags": [
         "swift"
       ],
@@ -2425,6 +2429,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://cdn-images-1.medium.com/max/800/1*hj0rxmPvapxpY1URdvw97A.png"],
       "license": "mit",
       "date_added": "Mon Feb 1 09:01:56 2016 -0800",
       "suggested_by": "@dkhamsing"
@@ -2516,6 +2521,7 @@
       "source": "https://github.com/naoyashiga/Dunk",
       "itunes": "https://itunes.apple.com/app/dunk-for-dribbble/id1003028105",
       "stars": 540,
+      "screenshots": ["https://cdn-images-1.medium.com/max/800/1*0TkH9-Guo_A_hdlI9UEnvQ.png"],
       "tags": [
         "swift"
       ],
@@ -2779,6 +2785,7 @@
       "license": "mit",
       "source": "https://github.com/pepibumur/SoundCloudSwift",
       "stars": 229,
+      "screenshots": ["https://cdn-images-1.medium.com/max/800/1*C0s-C27rJbQrIa0j5dBctQ.png"],
       "tags": [
         "swift"
       ],
@@ -2838,6 +2845,7 @@
       "license": "mit",
       "source": "https://github.com/swiftcodex/Swift-Radio-Pro",
       "stars": 1375,
+      "screenshots": ["https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png "],
       "tags": [
         "swift"
       ],
@@ -2982,6 +2990,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png"],
       "license": "other",
       "date_added": "Sun Mar 15 03:06:39 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -3287,6 +3296,7 @@
       "source": "https://github.com/wordpress-mobile/WordPress-iOS",
       "itunes": "https://itunes.apple.com/app/wordpress/id335703880",
       "stars": 1325,
+      "screenshots": ["https://cdn-images-1.medium.com/max/800/1*DC2_2VNsltlTH_16RKIvsw.png"],
       "license": "gpl-2.0",
       "date_added": "Tue Mar 17 11:03:45 2015 +0100",
       "suggested_by": "hatemalimam"
@@ -3376,6 +3386,7 @@
       "license": "apache-2.0",
       "source": "https://github.com/twitterdev/furni-ios",
       "stars": 1077,
+      "screenshots": ["https://cdn-images-1.medium.com/max/800/1*dBKMvOk9xGxVAw3e2D-MRg.png"],
       "tags": [
         "swift"
       ],
@@ -4510,6 +4521,7 @@
       "source": "https://github.com/lexrus/VPNOn",
       "itunes": "https://itunes.apple.com/app/vpn-on/id951344279",
       "stars": 2618,
+      "screenshots": ["https://cdn-images-1.medium.com/max/800/1*9qSbd77zijp5UPODaWM9CQ.png"],
       "tags": [
         "swift"
       ],
@@ -7417,6 +7429,7 @@
       ],
       "license": "gpl-3.0",
       "stars": 1352,
+      "screenshots": ["https://cdn-images-1.medium.com/max/800/1*CEtofzY1rIOKuGT7JO3VkA.png"],
       "date_added": "Fri Jul 22 07:35:15 2016 -0700",
       "suggested_by": "@dkhamsing"
     },
