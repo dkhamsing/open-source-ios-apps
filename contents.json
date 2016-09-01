@@ -7840,7 +7840,7 @@
         "content"
       ],
       "description": "iOS client for Giphy (http://giphy.com) written in Swift with ReactiveCocoa",
-      "source": "https://github.com/evgeniyd/Giraffe/blob/master/README.md",
+      "source": "https://github.com/evgeniyd/Giraffe",
       "date_added": "Sep 1 2016",
       "suggested_by": "@akaralar",
       "screenshots": [
