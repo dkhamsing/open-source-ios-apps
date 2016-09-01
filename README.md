@@ -1877,7 +1877,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 - Pi: Study, solve problems, formula library, calculators & more! Made by a student for students. [` App Store`](https://itunes.apple.com/app/pi-a-students-dream/id1117743302) 
-  <details><summary>https://github.com/rigobertomolina/Pi</summary>
+  <details><summary>https://github.com/thepiproject/Pi-iOS</summary>
   Added August 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Pi image 1](http://a4.mzstatic.com/us/r30/Purple60/v4/44/b7/13/44b713c0-a307-b098-f835-33f2ec471436/screen696x696.jpeg)
   </details>
 
@@ -2203,10 +2203,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - how-much: Simple app to record how much things cost, uses Parse or Firebase 
   <details><summary>https://github.com/dkhamsing/how-much</summary>
   Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-- Pi: Study, solve problems, formula library, calculators & more! Made by a student for students. [` App Store`](https://itunes.apple.com/app/pi-a-students-dream/id1117743302) 
-  <details><summary>https://github.com/rigobertomolina/Pi</summary>
-  Added August 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Pi image 1](http://a4.mzstatic.com/us/r30/Purple60/v4/44/b7/13/44b713c0-a307-b098-f835-33f2ec471436/screen696x696.jpeg)
   </details>
 
 ### [Ionic](http://ionicframework.com/) 
