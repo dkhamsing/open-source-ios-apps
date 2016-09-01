@@ -7825,11 +7825,10 @@
     {
       "title": "Pi",
       "category-ids": [
-        "science",
-        "firebase"
+        "science"
       ],
       "description": "Study, solve problems, formula library, calculators & more! Made by a student for students.",
-      "source": "https://github.com/rigobertomolina/Pi",
+      "source": "https://github.com/thepiproject/Pi-iOS",
       "itunes": "https://itunes.apple.com/app/pi-a-students-dream/id1117743302",
       "license": "mit",
       "screenshots": [
