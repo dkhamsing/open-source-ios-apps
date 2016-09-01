@@ -7823,15 +7823,15 @@
         "firebase"
       ],
       "description": "Study, solve problems, formula library, calculators & more! Made by a student for students.",
-      "source": "https://github.com/rigobertomolina/Pi",
+      "source": "https://github.com/thepiproject/Pi-iOS",
       "itunes": "https://itunes.apple.com/app/pi-a-students-dream/id1117743302",
       "license": "mit",
       "screenshots": [
         "http://a4.mzstatic.com/us/r30/Purple60/v4/44/b7/13/44b713c0-a307-b098-f835-33f2ec471436/screen696x696.jpeg"
       ],
-      "date_added": "Aug 29 2016",
+      "date_added": "Aug 31 2016",
       "suggested_by": "@rigobertomolina",
-      "stars": 3
+      "stars": 1
     }
   ]
 }
