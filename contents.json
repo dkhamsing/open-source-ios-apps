@@ -7867,6 +7867,18 @@
       ],
       "license": "mit",
       "tags": ["swift"]
+    },
+    {
+      "title": "iOS 10 Day by Day",
+      "description": "Code examples for the new functions in iOS 10",
+      "source": "https://github.com/ShinobiControls/iOS10-day-by-day",
+      "category-ids": ["sample"],
+      "license": "other",
+      "tags": ["swift"],
+      "stars": 100,
+      "screenshots": ["https://www.shinobicontrols.com/wp-content/uploads/2016/07/App_Demo.gif"],
+      "date_added": "Sep 2 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
