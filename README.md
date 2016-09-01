@@ -849,7 +849,7 @@ Click ► to show more details
   </details>
 - Google Feud: Guess My Search game by Justin Hook [` App Store`](https://itunes.apple.com/us/app/guess-my-search/id1144264060) `Swift` 
   <details><summary>https://github.com/CTKRocks/Google-Feud-iOS</summary>
-  Added August 23, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  ![Google Feud image 1](http://imgur.com/GXvfj9u.png)
+  Added August 23, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  ![Google Feud image 1](http://i.imgur.com/GXvfj9u.png)
   </details>
 - Gorillas: An iPhone port of the popular old QBasic game with spunk [` App Store`](https://itunes.apple.com/app/gorillas/id302275459) 🔥🔥
   <details><summary>https://github.com/Lyndir/Gorillas</summary>
@@ -1403,10 +1403,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/alikaragoz/Flickr-Search</summary>
   Added February  4, 2015<br>  License: `other`
   </details>
-- Giraffe: Uses ReactiveCocoa `Swift` 
-  <details><summary>https://github.com/evgeniyd/Giraffe</summary>
-  Added September  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Giraffe image 1](https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png)
-  </details>
 - KonaBot: Unofficial app for http://konachan.net/ [` App Store`](https://itunes.apple.com/app/konabot/id1055716649) `Swift` 
   <details><summary>https://github.com/hkalexling/KonaBot-iOS</summary>
   Added December  3, 2015<br>  License: `other`
@@ -1496,6 +1492,10 @@ Image, video, audio, reading — [back to top](#readme)
  
 Mostly using http://giphy.com/ — [back to top](#readme) 
  
+- Giraffe: Uses ReactiveCocoa `Swift` 
+  <details><summary>https://github.com/evgeniyd/Giraffe</summary>
+  Added September  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Giraffe image 1](https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png)
+  </details>
 - ReactiveKitten: It's about GIFs & cats, uses Interstellar `Swift` 
   <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
   Added May 11, 2016<br>  License: `other`
