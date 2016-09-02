@@ -31,8 +31,8 @@ body {
 }
 
 #theme-container {
-	display: flex;
-	flex-wrap: wrap;
+ display: flex;
+ flex-wrap: wrap;
 }
 
 .theme-item {
@@ -52,24 +52,51 @@ body {
 }
 
 .app-store-button {
-	border-radius: 5px;
-	background-color: black;
-	color: white;
-	font-family: 'Myriad Pro', 'Source Sans Pro', sans-serif;
-	display: inline-flex;
-	line-height: 2.6ex;
-	padding: 0 1ex;
-	vertical-align: middle;
-	border: .4ex outset gray;
-	align-items: center;
+ border-radius: 5px;
+ background-color: black;
+ color: white;
+ font-family: 'Myriad Pro', 'Source Sans Pro', sans-serif;
+ display: inline-flex;
+ line-height: 2.6ex;
+ padding: 0 1ex;
+ vertical-align: middle;
+ border: .4ex outset gray;
+ align-items: center;
 }
 
 .app-store-button:hover {
-	color: white;
-	text-decoration: none;
+ color: white;
+ text-decoration: none;
 }
 
 .app-store-button:active {
-	border: .4ex inset gray;
-	color: white;
+ border: .4ex inset gray;
+ color: white;
+}
+
+.screenshot-container {
+ white-space: nowrap;
+ overflow-x: auto;
+}
+
+.screenshot-container img {
+ height: 150px;
+ margin-right: 20px;
+}
+
+#screenshot .pagination {
+ float: left;
+ margin: 0;
+}
+
+#screenshot .modal-body > img {
+ max-width: 100%;
+}
+
+#screenshot .modal-body {
+ text-align: center;
+}
+
+.pagination .glyphicon {
+	top: 0;
 }

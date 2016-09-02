@@ -101,6 +101,17 @@ function langString(lang) {
 	}
 }
 
+function screenshotsString(screenshots) {
+	if(typeof screenshots == "undefined") return "";
+	
+	var output = "<br />Screenshots:<div class=\"screenshot-container\">";
+	for(var i = 0; i < screenshots.length; i++) {
+		output += "<a href=\"#\"><img src=\"" + screenshots[i] + "\"></a>";
+	}
+	output += "</div>";
+	return output;
+}
+
 $(document).ready(function() {
 	// Load boostrap theme
 	$(document.head).append("<link id=\"bootstrap-theme\" href=\"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/" + loadSetting("theme").toLowerCase() + "/bootstrap.min.css\" rel=\"stylesheet\">");
@@ -138,7 +149,7 @@ $(document).ready(function() {
 			for(var j = 0; j < currentProject["category-ids"].length; j++) {
 				var licenseMap = { "mit": "https://opensource.org/licenses/MIT", "mpl-2.0": "https://opensource.org/licenses/MPL-2.0", "gpl-3.0": "https://opensource.org/licenses/BSD-3-Clause", "lgpl-3.0": "https://opensource.org/licenses/LGPL-3.0", "unlicense": "http://unlicense.org/", "bsd-2-clause": "https://opensource.org/licenses/BSD-2-Clause", "isc": "https://opensource.org/licenses/ISC", "lgpl-2.1": "https://opensource.org/licenses/LGPL-2.1", "gpl-2.0": "https://opensource.org/licenses/GPL-2.0", "apache-2.0": "https://opensource.org/licenses/Apache-2.0", "cc0-1.0": "https://creativecommons.org/publicdomain/zero/1.0/deed.en", "artistic-2.0": "https://opensource.org/licenses/Artistic-2.0", "bsd-3-clause": "https://opensource.org/licenses/BSD-3-Clause", "agpl-3.0": "https://opensource.org/licenses/AGPL-3.0", "epl-1.0": "https://opensource.org/licenses/EPL-1.0" };
 				
-				$("#category-" + currentProject["category-ids"][j]).append($("<div class=\"list-group-item\"><h4 class=\"list-group-item-heading\">" + currentProject.title + "</h4><p class=\"list-group-item-text\">" + (typeof currentProject.description != "undefined" ? currentProject.description + " " : "") + langString(currentProject.lang) + starString(currentProject.stars) + (typeof currentProject.itunes != "undefined" ? "<a class=\"app-store-button\" href=\"" + currentProject.itunes + "\" target=\"_blank\"><span class=\"fa fa-apple\"></span><span class=\"hidden-s hidden-xs\">&nbsp;Available on the App Store</span></a>" : "") + "</p><p class=\"list-group-item-text details\">" + "Source: <a href=\"" + currentProject.source + "\" target=\"_blank\">" + currentProject.source + "</a><br />License: " + (licenseMap.hasOwnProperty(currentProject.license) ? "<a href=\"" + licenseMap[currentProject.license] + "\" target=\"_blank\">" + currentProject.license + "</a>" : currentProject.license) + "<br />Suggested by <a href=\"https://github.com/" + currentProject.suggested_by + "\" target=\"_blank\">" + currentProject.suggested_by + "</a> on <span class=\"text-info\">" + (new Date(currentProject.date_added)).toDateString() + "</span></p></div>"));
+				$("#category-" + currentProject["category-ids"][j]).append($("<div class=\"list-group-item\"><h4 class=\"list-group-item-heading\">" + currentProject.title + "</h4><div class=\"list-group-item-text\">" + (typeof currentProject.description != "undefined" ? currentProject.description + " " : "") + langString(currentProject.lang) + starString(currentProject.stars) + (typeof currentProject.itunes != "undefined" ? "<a class=\"app-store-button\" href=\"" + currentProject.itunes + "\" target=\"_blank\"><span class=\"fa fa-apple\"></span><span class=\"hidden-s hidden-xs\">&nbsp;Available on the App Store</span></a>" : "") + "</div><div class=\"list-group-item-text details\">" + "Source: <a href=\"" + currentProject.source + "\" target=\"_blank\">" + currentProject.source + "</a><br />License: " + (licenseMap.hasOwnProperty(currentProject.license) ? "<a href=\"" + licenseMap[currentProject.license] + "\" target=\"_blank\">" + currentProject.license + "</a>" : currentProject.license) + "<br />Suggested by <a href=\"https://github.com/" + currentProject.suggested_by + "\" target=\"_blank\">" + currentProject.suggested_by + "</a> on <span class=\"text-info\">" + (new Date(currentProject.date_added)).toDateString() + "</span>" + screenshotsString(currentProject.screenshots) + "</div></div>"));
 				// Increment category badge
 				var badge = categoryElements[currentProject["category-ids"][j]].children(".toc-item-content").children("h4").children(".badge");
 				badge.html(Number(badge.html()) + 1);
@@ -163,6 +174,93 @@ $(document).ready(function() {
 		// Prevent details from showing when clicking the app store link
 		$(".app-store-button").click(function(e) {
 			e.stopPropagation();
+		});
+		
+		$(".screenshot-container > a").click(function(e) {
+			e.stopPropagation();
+			e.preventDefault();
+			
+			var allImages = $(this).parent().find("img");
+			var index = $(this).index();
+			
+			// Title
+			$("#screenshot .modal-title").html($(this).closest(".list-group-item").children("h4").html() + " Screenshots");
+			
+			// Lower navigation
+			var paginationContent = "<li name=\"left\"" + (index == 0 ? " class=\"disabled\"" : "") + "><a class=\"glyphicon glyphicon-menu-left\" href=\"#\"></a></li>";
+			for(var i = 0; i < allImages.length; i++) {
+				paginationContent += "<li" + (index == i ? " class=\"active\"" : "") + "><a href=\"" + allImages[i].src + "\">" + (i + 1) + "</a></li>";
+			}
+			paginationContent += "<li name=\"right\"" + (index == allImages.length - 1 ? " class=\"disabled\"" : "") + "><a class=\"glyphicon glyphicon-menu-right\" href=\"#\"></a></li>";
+			$("#screenshot .pagination").html(paginationContent);
+			
+			function screenshotLeft(pagination) {
+				var activeIndex = pagination.children(".active").index();
+
+				if(activeIndex <= 1) return;
+				
+				// Update disable class on the arrow buttons
+				pagination.children("[name='right']").removeClass("disabled")
+				if(activeIndex == 2) {
+					pagination.children("[name='left']").addClass("disabled");
+				}
+				
+				$("#screenshot .modal-body").html("<img src=\"" + $($(pagination).children().removeClass("active")[activeIndex - 1]).addClass("active").children().attr("href") + "\">");
+			}
+			
+			function screenshotRight(pagination) {
+				var activeIndex = pagination.children(".active").index();
+
+				if(activeIndex >= pagination.children().length - 2) return;
+				
+				// Update disable class on the arrow buttons
+				pagination.children("[name='left']").removeClass("disabled")
+				if(activeIndex == pagination.children().length - 3) {
+					pagination.children("[name='right']").addClass("disabled");
+				}
+				
+				$("#screenshot .modal-body").html("<img src=\"" + $($(pagination).children().removeClass("active")[activeIndex + 1]).addClass("active").children().attr("href") + "\">");				
+			}
+			
+			$("#screenshot .pagination a").click(function(e) {
+				e.preventDefault();
+				
+				// Update active class
+				if($(this).parent().attr("name") == "left") {
+					screenshotLeft($(this).closest(".pagination"));
+				}
+				else if($(this).parent().attr("name") == "right") {
+					screenshotRight($(this).closest(".pagination"));
+				}
+				else {
+					$(this).parent().addClass("active").siblings().removeClass("active");
+					$("#screenshot .modal-body").html("<img src=\"" + ($(this).attr("href")) + "\">");
+					
+					// Update disable class on the arrow buttons
+					if($(this).parent().index() == 1) {
+						$(this).parent().siblings("[name='left']").addClass("disabled");
+					}
+					else {
+						$(this).parent().siblings("[name='left']").removeClass("disabled");
+					}
+					
+					if($(this).parent().index() == $(this).closest('.pagination').children().length - 2) {
+						$(this).parent().siblings("[name='right']").addClass("disabled");
+					}
+					else {
+						$(this).parent().siblings("[name='right']").removeClass("disabled");
+					}
+				}
+				
+				// Update image
+				//$("#screenshot .modal-body").html("<img src=\"" + () + "\">");
+			});
+			//$(document).keypress()
+			
+			// Image
+			$("#screenshot .modal-body").html("<img src=\"" + $(this).children()[0].src + "\">");
+			
+			$("#screenshot").modal("show");
 		});
 		
 		// Add themes to settings dialog
