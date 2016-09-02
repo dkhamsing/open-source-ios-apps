@@ -99,11 +99,11 @@ def output_apps(apps)
         details_list[1..-1].each { |x| details << "<br>  #{x}" }
 
         unless screenshots.nil?
-          details << '<div>'
+          details << "\n<div>"
           screenshots.each_with_index do |s, i|
             details << "<img height='300' alt='#{name} image #{i+1}' src='#{screenshots[i]}'> "
           end
-          details << '</div>'
+          details << "\n</div>"
         end
 
         details << "\n  </details>\n"
