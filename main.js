@@ -112,6 +112,11 @@ function screenshotsString(screenshots) {
 	return output;
 }
 
+// Currently only inline links are supported
+function handleLinks(str) {
+	return str.replace(/\[(.*?)\]\((.*?)\)/g, "<a href=\"$2\" target=\"blank\">$1</a>");
+}
+
 $(document).ready(function() {
 	// Load boostrap theme
 	$(document.head).append("<link id=\"bootstrap-theme\" href=\"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/" + loadSetting("theme").toLowerCase() + "/bootstrap.min.css\" rel=\"stylesheet\">");
@@ -129,7 +134,8 @@ $(document).ready(function() {
 		//var toc = $("<div id=\"toc\" class=\"container\"><h1>Table of Contents</h1></div>"); 
 		for(var i = 0; i < data.categories.length; i++) {
 			var currentCategory = data.categories[i];
-			categoryElements[currentCategory.id] = $("<div class=\"toc-item\"><h4 class=\"toc-item-bullet\"></h4><div class=\"toc-item-content\"><h4><a href=\"#category-" + currentCategory.id + "\">" + currentCategory.title + "</a> <span class=\"badge\">0</span></h4>" + (typeof currentCategory.description != "undefined" ? "<p>" + currentCategory.description + "</p>" : "") + "</div></div>");
+			var titleMatches = currentCategory.title.match(/\[(.*?)\]/);
+			categoryElements[currentCategory.id] = $("<div class=\"toc-item\"><h4 class=\"toc-item-bullet\"></h4><div class=\"toc-item-content\"><h4><a href=\"#category-" + currentCategory.id + "\">" + (titleMatches == null ? currentCategory.title : titleMatches[1]) + "</a> <span class=\"badge\">0</span></h4>" + (typeof currentCategory.description != "undefined" ? "<p>" + currentCategory.description + "</p>" : "") + "</div></div>");
 			if(typeof currentCategory.parent != "undefined") {
 				categoryElements[currentCategory.parent].children(".toc-item-content").append(categoryElements[currentCategory.id]);
 			}
@@ -155,9 +161,12 @@ $(document).ready(function() {
 				badge.html(Number(badge.html()) + 1);
 			}
 		}
-
+		
 		// Convert shortcodes and unicode characters to nice looking emojis
 		$(document.body).html(emojione.toImage($(document.body).html()));
+		
+		// Convert markdown links to html links
+		$(document.body).html(handleLinks($(document.body).html()));
 		
 		// Workaround for when the file is being loaded local
 		$(".emojione[src]").each(function() {
@@ -251,9 +260,6 @@ $(document).ready(function() {
 						$(this).parent().siblings("[name='right']").removeClass("disabled");
 					}
 				}
-				
-				// Update image
-				//$("#screenshot .modal-body").html("<img src=\"" + () + "\">");
 			});
 			//$(document).keypress()
 			
