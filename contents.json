@@ -398,9 +398,10 @@
     {
       "title": "Bus Today",
       "category-ids": [
-        "apple-watch"
+        "apple-watch",
+        "today"
       ],
-      "description": "Track bus line on your wrist",
+      "description": "Track bus line on your wrist, includes Today Extension",
       "lang": "zho",
       "source": "https://github.com/JohnWong/bus-today",
       "itunes": "https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341",
@@ -2696,7 +2697,7 @@
     {
       "title": "Poppins",
       "category-ids": [
-        "media"
+        "gif"
       ],
       "description": "House all your favorite GIFs and easily share them with your friends and family",
       "license": "mit",
@@ -4060,7 +4061,7 @@
     {
       "title": "Be my eyes",
       "category-ids": [
-        "misc"
+        "communication"
       ],
       "description": "Connect blind people with volunteer helpers via live video chat",
       "source": "https://github.com/bemyeyes/bemyeyes-ios",
