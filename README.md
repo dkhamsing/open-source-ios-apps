@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-545-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  1, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-546-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  2, 2016-lightgrey.svg)
 
 Jump to
 
@@ -149,7 +149,7 @@ Click ► to show more details
   <details><summary>https://github.com/contentful/ContentfulWatchKitExample</summary>
   Added April 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
-- Bus Today: Track bus line on your wrist [` App Store`](https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341) 🇨🇳
+- Bus Today: Track bus line on your wrist, includes Today Extension [` App Store`](https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341) 🇨🇳
   <details><summary>https://github.com/JohnWong/bus-today</summary>
   Added February 17, 2016<br>  License: `other`
   </details>
@@ -195,7 +195,7 @@ Click ► to show more details
   </details>
 - Gulps: Track your daily water consumption [` App Store`](https://itunes.apple.com/app/gulps/id979057304) `Swift` 🔥🔥🔥
   <details><summary>https://github.com/FancyPixel/gulps</summary>
-  Added April 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added April 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Gulps image 1](https://cdn-images-1.medium.com/max/800/1*5sA3rvpUw5bdecwbDx7cYA.png)
   </details>
 - HeartControl: Continuous heart rate measurement during workouts with watchOS 3 `Swift` 🔥
   <details><summary>https://github.com/thomaspaulmann/HeartControl</summary>
@@ -211,7 +211,7 @@ Click ► to show more details
   </details>
 - HN Reader: Hacker News Reader [` App Store`](https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741) `Swift` 🔥🔥🔥🔥
   <details><summary>https://github.com/Dimillian/SwiftHN</summary>
-  Added January 26, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  Added January 26, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  ![HN Reader image 1](https://cdn-images-1.medium.com/max/800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png)
   </details>
 - Impulse: Real-time age ticker `Swift` 
   <details><summary>https://github.com/Jasdev/Impulse</summary>
@@ -336,6 +336,10 @@ Click ► to show more details
   <details><summary>https://github.com/Antidote-for-Tox/Antidote</summary>
   Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  https://antidote.im/
   </details>
+- Be my eyes: Connect blind people with volunteer helpers via live video chat [` App Store`](https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575) 🔥🔥
+  <details><summary>https://github.com/bemyeyes/bemyeyes-ios</summary>
+  Added October 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - BLEMeshChat: Bluetooth LE app 🔥🔥
   <details><summary>https://github.com/chrisballinger/BLEMeshChat</summary>
   Added January 11, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
@@ -410,7 +414,7 @@ Click ► to show more details
   </details>
 - Wire: Modern, private communications: crystal clear voice, video, group chats. No advertising. Always encrypted. [` App Store`](https://itunes.apple.com/app/wire/id930944768) `Swift` 🔥🔥🔥🔥
   <details><summary>https://github.com/wireapp/wire-ios</summary>
-  Added July 22, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  Added July 22, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>  ![Wire image 1](https://cdn-images-1.medium.com/max/800/1*CEtofzY1rIOKuGT7JO3VkA.png)
   </details>
 
 ## Conference 
@@ -460,7 +464,7 @@ Click ► to show more details
   </details>
 - 2048 in Swift `Swift` 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/austinzheng/swift-2048</summary>
-  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![2048 in Swift image 1](https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png)
   </details>
 - Finance: iOS's Stocks app written in React Native 🔥🔥🔥
   <details><summary>https://github.com/7kfpun/FinanceReactNative</summary>
@@ -501,7 +505,7 @@ Click ► to show more details
   </details>
 - Charter: An iPhone/iPad mailing list app [` App Store`](https://itunes.apple.com/app/charter-mailing-list-client/id1082212697) `Swift` 🔥🔥
   <details><summary>https://github.com/matthewpalmer/Charter</summary>
-  Added February 22, 2016<br>  License: `other`
+  Added February 22, 2016<br>  License: `other`<br>  ![Charter image 1](https://cdn-images-1.medium.com/max/800/1*3igvNkkU0qmS0lox6epnSQ.png)
   </details>
 - CI2Go: Unofficial app for https://circleci.com/ [` App Store`](https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427) `Swift` 
   <details><summary>https://github.com/ngs/ci2go</summary>
@@ -660,6 +664,10 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- Bus Today: Track bus line on your wrist, includes Today Extension [` App Store`](https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341) 🇨🇳
+  <details><summary>https://github.com/JohnWong/bus-today</summary>
+  Added February 17, 2016<br>  License: `other`
+  </details>
 - Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693) `Swift` 🔥🔥
   <details><summary>https://github.com/dasdom/Tomate</summary>
   Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -678,7 +686,7 @@ Click ► to show more details
   </details>
 - VPN On: Extension to turn on VPN [` App Store`](https://itunes.apple.com/app/vpn-on/id951344279) `Swift` 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/lexrus/VPNOn</summary>
-  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![VPN On image 1](https://cdn-images-1.medium.com/max/800/1*9qSbd77zijp5UPODaWM9CQ.png)
   </details>
 
 ## Finance 
@@ -761,7 +769,7 @@ Click ► to show more details
   </details>
 - 2048 in Swift `Swift` 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/austinzheng/swift-2048</summary>
-  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![2048 in Swift image 1](https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png)
   </details>
 - Aeropack: A steampunk retro 2d platformer 
   <details><summary>https://github.com/insurgentgames/Aeropack</summary>
@@ -1220,7 +1228,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Analog Synth X: Analog Synthesizer Keyboard Music App, created with Swift 2 ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX)) `Swift` 
   <details><summary>http://matthewfecher.com/app-developement/swift-synth/</summary>
-  Added February  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added February  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Analog Synth X image 1](https://cdn-images-1.medium.com/max/800/1*hj0rxmPvapxpY1URdvw97A.png)
   </details>
 - Artsy Folio: Artwork showcase [` App Store`](https://itunes.apple.com/app/artsy-folio/id504862164) 🔥
   <details><summary>https://github.com/artsy/energy</summary>
@@ -1326,10 +1334,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary>https://github.com/Yalantis/PixPic</summary>
   Added July 29, 2016<br>  License: `other`<br>  ![PixPic image 1](http://i.imgur.com/c8ahfkv.png)
   </details>
-- Poppins: House all your favorite GIFs and easily share them with your friends and family [` App Store`](https://itunes.apple.com/app/poppins/id978854068) `Swift` 🔥
-  <details><summary>https://github.com/thoughtbot/poppins</summary>
-  Added July 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
 - prankPro: Record a 6 second video while playing prank sounds 🔥🔥
   <details><summary>https://github.com/huijimuhe/prankPro</summary>
   Added March 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1352,7 +1356,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Swift Radio Pro: Professional radio station app, created with Swift 2 `Swift` 🔥🔥🔥🔥
   <details><summary>https://github.com/swiftcodex/Swift-Radio-Pro</summary>
-  Added January 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added January 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Swift Radio Pro image 1](https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png )
   </details>
 - Swifteroid: Manual HDR exposure camera `Swift` 
   <details><summary>https://github.com/eugenpirogoff/swifteroid</summary>
@@ -1397,7 +1401,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - Dunk: Dribbble client [` App Store`](https://itunes.apple.com/app/dunk-for-dribbble/id1003028105) `Swift` 🔥🔥🔥
   <details><summary>https://github.com/naoyashiga/Dunk</summary>
-  Added December 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added December 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Dunk image 1](https://cdn-images-1.medium.com/max/800/1*0TkH9-Guo_A_hdlI9UEnvQ.png)
   </details>
 - Flickr-Search: Simple app which consumes the Flickr Search API 
   <details><summary>https://github.com/alikaragoz/Flickr-Search</summary>
@@ -1457,7 +1461,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 - SoundCloudSwift: SoundCloud app `Swift` 🔥🔥
   <details><summary>https://github.com/pepibumur/SoundCloudSwift</summary>
-  Added May  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  Added May  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![SoundCloudSwift image 1](https://cdn-images-1.medium.com/max/800/1*C0s-C27rJbQrIa0j5dBctQ.png)
   </details>
 - SwiftFlickrApp: Flickr popular photo viewer `Swift` 🔥🔥
   <details><summary>https://github.com/synboo/SwiftFlickrApp</summary>
@@ -1496,6 +1500,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   <details><summary>https://github.com/evgeniyd/Giraffe</summary>
   Added September  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>  ![Giraffe image 1](https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png)
   </details>
+- Poppins: House all your favorite GIFs and easily share them with your friends and family [` App Store`](https://itunes.apple.com/app/poppins/id978854068) `Swift` 🔥
+  <details><summary>https://github.com/thoughtbot/poppins</summary>
+  Added July 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
 - ReactiveKitten: It's about GIFs & cats, uses Interstellar `Swift` 
   <details><summary>https://github.com/JensRavens/ReactiveKitten</summary>
   Added May 11, 2016<br>  License: `other`
@@ -1515,7 +1523,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 - Designer News App [` App Store`](https://itunes.apple.com/app/designer-news-app/id879990495) `Swift` 🔥🔥🔥🔥
   <details><summary>https://github.com/MengTo/DesignerNewsApp</summary>
-  Added March 15, 2015<br>  License: `other`
+  Added March 15, 2015<br>  License: `other`<br>  ![Designer News App image 1](https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png)
   </details>
 - Feeds4U: Well architected RSS reader [` App Store`](https://itunes.apple.com/app/feeds4u/id1038456442) `Swift` 
   <details><summary>https://github.com/EvgenyKarkan/Feeds4U</summary>
@@ -1588,7 +1596,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 - HN Reader: Hacker News Reader [` App Store`](https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741) `Swift` 🔥🔥🔥🔥
   <details><summary>https://github.com/Dimillian/SwiftHN</summary>
-  Added January 26, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  Added January 26, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  ![HN Reader image 1](https://cdn-images-1.medium.com/max/800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png)
   </details>
 - HN-App [` App Store`](https://itunes.apple.com/app/hn-app/id983203003) `Swift` 
   <details><summary>https://github.com/NikantVohra/HackerNewsClient-iOS</summary>
@@ -1665,7 +1673,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 - WordPress: Official WordPress app [` App Store`](https://itunes.apple.com/app/wordpress/id335703880) 🔥🔥🔥🔥
   <details><summary>https://github.com/wordpress-mobile/WordPress-iOS</summary>
-  Added March 17, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  Added March 17, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>  ![WordPress image 1](https://cdn-images-1.medium.com/max/800/1*DC2_2VNsltlTH_16RKIvsw.png)
   </details>
 
 ## Reactive Programming 
@@ -1793,11 +1801,15 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 - Furni: Furniture store demo app, uses Fabric `Swift` 🔥🔥🔥🔥
   <details><summary>https://github.com/twitterdev/furni-ios</summary>
-  Added January 25, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  Added January 25, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>  ![Furni image 1](https://cdn-images-1.medium.com/max/800/1*dBKMvOk9xGxVAw3e2D-MRg.png)
   </details>
 - HomeKit-Demo `Swift` 🔥🔥
   <details><summary>https://github.com/KhaosT/HomeKit-Demo</summary>
   Added March 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+- iOS 10 Day by Day: Code examples for the new functions in iOS 10 `Swift` 🔥
+  <details><summary>https://github.com/ShinobiControls/iOS10-day-by-day</summary>
+  Added September  2, 2016<br>  License: `other`<br>  ![iOS 10 Day by Day image 1](https://www.shinobicontrols.com/wp-content/uploads/2016/07/App_Demo.gif)
   </details>
 - iOS 8 Sampler: Code examples for the new functions in iOS 8 🔥🔥🔥🔥🔥
   <details><summary>https://github.com/shu223/iOS8-Sampler</summary>
@@ -2506,10 +2518,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - bar: Cocktail menu `Swift` 
   <details><summary>https://github.com/soffes/bar</summary>
   Added January 26, 2015<br>  License: `other`
-  </details>
-- Be my eyes: Connect blind people with volunteer helpers via live video chat [` App Store`](https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575) 🔥🔥
-  <details><summary>https://github.com/bemyeyes/bemyeyes-ios</summary>
-  Added October 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 - BlogQuest: Alternative Tumblr client 
   <details><summary>https://github.com/irace/BlogQuest</summary>
