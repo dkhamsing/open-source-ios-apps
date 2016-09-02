@@ -273,7 +273,16 @@ $(document).ready(function() {
 					}
 				}
 			});
-			//$(document).keypress()
+			$(document).keypress(function(e) {
+				if($("#screenshot:visible").length > 0) {
+					if(e.keyCode == 37) {
+						screenshotLeft($("#screenshot .pagination"));
+					}
+					else if(e.keyCode == 39) {
+						screenshotRight($("#screenshot .pagination"));
+					}
+				}
+			});
 			
 			// Image
 			$("#screenshot .modal-body").html("<img src=\"" + $(this).children()[0].src + "\">");
