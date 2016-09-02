@@ -138,10 +138,22 @@ $(document).ready(function() {
 			categoryElements[currentCategory.id] = $("<div class=\"toc-item\"><h4 class=\"toc-item-bullet\"></h4><div class=\"toc-item-content\"><h4><a href=\"#category-" + currentCategory.id + "\">" + (titleMatches == null ? currentCategory.title : titleMatches[1]) + "</a> <span class=\"badge\">0</span></h4>" + (typeof currentCategory.description != "undefined" ? "<p>" + currentCategory.description + "</p>" : "") + "</div></div>");
 			if(typeof currentCategory.parent != "undefined") {
 				categoryElements[currentCategory.parent].children(".toc-item-content").append(categoryElements[currentCategory.id]);
+				var title = currentCategory.title;
+				var tempCategory = currentCategory;
+				while(typeof tempCategory.parent != "undefined") {
+					var newId = tempCategory.parent;
+					var j = 0;
+					do {
+						tempCategory = data.categories[j++];
+					} while(j < data.categories.length && tempCategory.id != newId);
+					if(tempCategory.id != newId) break;
+					title = tempCategory.title + " / " + title;
+				}
+				$("#category-" + currentCategory.parent).after("<div class=\"category-wrapper\" id=\"category-" + currentCategory.id + "\"><div class=\"list-group-item title\"><h2 class=\"list-group-item-heading\">" + title + "</h2>" + (typeof currentCategory.description != "undefined" ? "<p class=\"list-group-item-text\">" + currentCategory.description + "</p>" : "") + "</div></div>");
 			}
 			else {
 				$("#toc").append(categoryElements[currentCategory.id]);
-				$("#main-content").append($("<div class=\"category-wrapper\" id=\"category-" + currentCategory.id + "\"><div class=\"list-group-item title\"><h2 class=\"list-group-item-heading\">" + currentCategory.title + "</h2>" + (typeof currentCategory.description != "undefined" ? "<p class=\"list-group-item-text\">" + currentCategory.description + "</p>" : "") + "</div></div>"));
+				$("#main-content").append("<div class=\"category-wrapper\" id=\"category-" + currentCategory.id + "\"><div class=\"list-group-item title\"><h2 class=\"list-group-item-heading\">" + currentCategory.title + "</h2>" + (typeof currentCategory.description != "undefined" ? "<p class=\"list-group-item-text\">" + currentCategory.description + "</p>" : "") + "</div></div>");
 			}
 		}
 
