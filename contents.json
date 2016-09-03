@@ -756,7 +756,7 @@
         "apple-watch",
         "clone"
       ],
-      "description": "Hangman game",
+      "description": "Hangman game on your wrist",
       "source": "https://github.com/DanToml/Watchman",
       "tags": [
         "swift",
@@ -1801,7 +1801,7 @@
       "category-ids": [
         "spritekit"
       ],
-      "description": "A simple digital worm game",
+      "description": "Simple digital worm game",
       "source": "https://github.com/gamechina/GrubbyWorm",
       "tags": [
         "swift",
@@ -5691,11 +5691,12 @@
         "content",
         "developer"
       ],
-      "description": "Watch Realm videos & slides on your phone",
+      "description": "Watch Realm videos & slides",
       "source": "https://github.com/BalestraPatrick/RealmVideo",
       "stars": 271,
       "tags": [
-        "swift"
+        "swift",
+        "iphone"
       ],
       "license": "mit",
       "date_added": "Wed May 11 09:16:38 2016 -0700",
@@ -6479,6 +6480,10 @@
       "title": "AppSlate",
       "category-ids": [
         "developer"
+      ],
+      "tags": [
+        "iphone",
+        "ipad"
       ],
       "description": "Make your own iOS apps",
       "source": "https://github.com/Taehan-Kim/AppSlate",
