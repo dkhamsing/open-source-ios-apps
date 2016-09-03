@@ -22,16 +22,16 @@
       "id": "calendar"
     },
     {
+      "title": "Clone",
+      "id": "clone"
+    },
+    {
       "title": "Communication",
       "id": "communication"
     },
     {
       "title": "Conference",
       "id": "conference"
-    },
-    {
-      "title": "Clone",
-      "id": "clone"
     },
     {
       "title": "Developer",
@@ -174,10 +174,6 @@
     {
       "title": "Weather",
       "id": "weather"
-    },
-    {
-      "title": "Web",
-      "id": "web"
     },
     {
       "title": "Special",
@@ -502,11 +498,13 @@
         "apple-watch",
         "realm"
       ],
-      "description": "Data sharing, uses WatchKit & Realm",
+      "description": "To-do list data sharing between extension and main app",
       "license": "mit",
       "source": "https://github.com/FancyPixel/done-swift",
       "tags": [
-        "swift"
+        "swift",
+        "realm",
+        "watchkit"
       ],
       "stars": 93,
       "date_added": "Fri May 1 07:12:00 2015 -0700",
@@ -517,7 +515,10 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "Apple Watch face, uses the Flickr API",
+      "tags": [
+        "flickr api"
+      ],
+      "description": "Apple Watch face",
       "license": "mit",
       "source": "https://github.com/jazzychad/FlickrWatch",
       "stars": 5,
@@ -564,11 +565,12 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "Show streaming heart rate from the watch with watchOS 2",
+      "description": "Show streaming heart rate from the watch",
       "source": "https://github.com/coolioxlr/watchOS-2-heartrate",
       "stars": 317,
       "tags": [
-        "swift"
+        "swift",
+        "watchos2"
       ],
       "license": "other",
       "date_added": "Wed Jul 29 07:36:26 2015 -0700",
@@ -679,8 +681,10 @@
     {
       "title": "Parties for WWDC",
       "category-ids": [
-        "apple-watch"
+        "apple-watch",
+        "conference"
       ],
+      "tags": ["cloudkit"],
       "source": "https://github.com/genadyo/WWDC",
       "license": "mit",
       "itunes": "https://itunes.apple.com/app/parties-for-wwdc/id879924066",
@@ -749,12 +753,14 @@
     {
       "title": "Watchman",
       "category-ids": [
-        "apple-watch"
+        "apple-watch",
+        "clone"
       ],
-      "description": "A WatchOS2 Hangman Game",
+      "description": "Hangman game",
       "source": "https://github.com/DanToml/Watchman",
       "tags": [
-        "swift"
+        "swift",
+        "watchos2"
       ],
       "stars": 54,
       "license": "other",
@@ -781,12 +787,13 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "Code examples for new features of watchOS 2",
+      "description": "watchOS 2 new features example code",
       "license": "mit",
       "source": "https://github.com/shu223/watchOS-2-Sampler",
       "stars": 963,
       "tags": [
-        "swift"
+        "swift",
+        "watchos2"
       ],
       "date_added": "Tue Jun 23 08:06:56 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -823,7 +830,7 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "Track your stocks portfolio, also includes a watch face complication",
+      "description": "Track your stocks portfolio, includes a watch face complication",
       "source": "https://github.com/G2Jose/WatchStocks",
       "tags": [
         "swift"
@@ -1038,7 +1045,10 @@
       "category-ids": [
         "communication"
       ],
-      "description": "Free, world-wide, private messaging & phone calls for iPhone",
+      "tags": [
+        "iphone"
+      ],
+      "description": "Free, world-wide, private messaging & phone calls",
       "source": "https://github.com/WhisperSystems/Signal-iOS",
       "itunes": "https://itunes.apple.com/app/id874139669",
       "stars": 2031,
@@ -1092,12 +1102,13 @@
       "category-ids": [
         "conference"
       ],
-      "description": "Events / conferences",
+      "description": "Template event / conference app",
       "license": "mit",
       "source": "https://github.com/icanzilb/EventBlankApp",
       "stars": 254,
       "tags": [
-        "swift"
+        "swift",
+        "iphone"
       ],
       "date_added": "Wed Apr 13 07:02:12 2016 -0700",
       "suggested_by": "@dkhamsing"
@@ -1108,6 +1119,7 @@
         "conference",
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/mikkoj/NortalTechDay",
       "stars": 190,
       "license": "mit",
@@ -1117,8 +1129,7 @@
     {
       "title": "Parse 2013 Developer Day",
       "category-ids": [
-        "conference",
-        "react-native"
+        "conference"
       ],
       "source": "https://github.com/ParsePlatform/ParseDeveloperDay",
       "stars": 92,
@@ -1253,7 +1264,11 @@
       "category-ids": [
         "developer"
       ],
-      "description": "iPhone/iPad code editor",
+      "tags": [
+        "iphone",
+        "ipad"
+      ],
+      "description": "Code editor",
       "source": "https://github.com/DanilaVladi/codinator",
       "itunes": "https://itunes.apple.com/app/codinator/id1024671232",
       "stars": 16,
@@ -1266,13 +1281,15 @@
       "category-ids": [
         "developer"
       ],
-      "description": "An iPhone/iPad mailing list app",
+      "description": "Mailing list app",
       "source": "https://github.com/matthewpalmer/Charter",
       "itunes": "https://itunes.apple.com/app/charter-mailing-list-client/id1082212697",
       "stars": 300,
       "screenshots": ["https://cdn-images-1.medium.com/max/800/1*3igvNkkU0qmS0lox6epnSQ.png"],
       "tags": [
-        "swift"
+        "swift",
+        "iphone",
+        "ipad"
       ],
       "license": "other",
       "date_added": "Mon Feb 22 08:59:11 2016 -0800",
@@ -1359,7 +1376,7 @@
       "category-ids": [
         "github"
       ],
-      "description": "GitHub app that shows the rank of coders and repositories",
+      "description": "Browse top GitHub coders & repositories",
       "source": "https://github.com/coderyi/Monkey",
       "itunes": "https://itunes.apple.com/app/monkey-for-github/id1003765407",
       "stars": 1216,
@@ -1372,7 +1389,10 @@
       "category-ids": [
         "github"
       ],
-      "description": "GitHub iPhone app that can cache Markdown content",
+      "tags": [
+        "iphone"
+      ],
+      "description": "GitHub app that can cache Markdown content",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/haolloyin/MrCode",
@@ -1538,7 +1558,7 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "2048 in Objective-C",
+      "title": "2048",
       "category-ids": [
         "game",
         "clone"
@@ -1550,7 +1570,7 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "2048 in Swift",
+      "title": "2048",
       "category-ids": [
         "game",
         "clone"
@@ -1570,12 +1590,14 @@
       "category-ids": [
         "game"
       ],
-      "description": "Cute and sweet shooting game developed with Cocos2D & SpriteBuilder",
+      "description": "Cute and sweet shooting game",
       "source": "https://github.com/etamity/AlienBlast",
       "itunes": "https://itunes.apple.com/app/id1098323034",
       "license": "mit",
       "tags": [
-        "swift"
+        "swift",
+        "Cocos2D",
+        "SpriteBuilder"
       ],
       "date_added": "Mon Jul 18 15:35:21 2016 +0100",
       "suggested_by": "@etamity",
@@ -1762,7 +1784,10 @@
       "category-ids": [
         "game"
       ],
-      "description": "An iPhone port of the popular old QBasic game with spunk",
+      "tags": [
+        "iphone"
+      ],
+      "description": "Port of the popular old QBasic game with spunk",
       "source": "https://github.com/Lyndir/Gorillas",
       "homepage": "http://gorillas.lyndir.com/",
       "itunes": "https://itunes.apple.com/app/gorillas/id302275459",
@@ -1776,10 +1801,15 @@
       "category-ids": [
         "spritekit"
       ],
-      "description": "A simple digital worm game made with iOS 9, SpriteKit, GameplayKit & ReplayKit, written in Swift 2",
+      "description": "A simple digital worm game",
       "source": "https://github.com/gamechina/GrubbyWorm",
       "tags": [
-        "swift"
+        "swift",
+        "swift2",
+        "ios9",
+        "SpriteKit",
+        "GameplayKit",
+        "replaykit"
       ],
       "stars": 31,
       "license": "other",
@@ -1791,7 +1821,11 @@
       "category-ids": [
         "game"
       ],
-      "description": "Game of Go on iPhone/iPad",
+      "tags": [
+        "iphone",
+        "ipad"
+      ],
+      "description": "Game of Go",
       "license": "apache-2.0",
       "source": "https://github.com/herzbube/littlego",
       "stars": 58,
@@ -1803,7 +1837,12 @@
       "category-ids": [
         "game"
       ],
-      "description": "MUD app for iPhone/iPad",
+      "tags": [
+        "iphone",
+        "ipad"
+      ],
+
+      "description": "MUD app (Multi-User Dungeon)",
       "license": "mit",
       "source": "https://github.com/splinesoft/MUDRammer",
       "itunes": "https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072",
@@ -1883,7 +1922,7 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Stick-Hero-Swift for iPhone/iPad",
+      "title": "Stick-Hero-Swift",
       "category-ids": [
         "spritekit"
       ],
@@ -1891,7 +1930,9 @@
       "source": "https://github.com/phpmaple/Stick-Hero-Swift",
       "stars": 335,
       "tags": [
-        "swift"
+        "swift",
+        "iphone",
+        "ipad"
       ],
       "date_added": "Tue Jun 30 07:31:12 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -1929,7 +1970,7 @@
       "category-ids": [
         "researchkit"
       ],
-      "description": "ResearchKit app studying Asthma",
+      "description": "Asthma study",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/AsthmaHealth",
       "itunes": "https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668",
@@ -1958,7 +1999,7 @@
       "category-ids": [
         "researchkit"
       ],
-      "description": "ResearchKit app studying Diabetes",
+      "description": "Diabetes study",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/GlucoSuccess",
       "itunes": "https://itunes.apple.com/app/glucosuccess/id972143976",
@@ -1971,10 +2012,11 @@
       "category-ids": [
         "health"
       ],
-      "description": "HealthKit sample app",
+      "description": "Sample app",
       "source": "https://github.com/Darktt/HealthKit-Swift",
       "tags": [
-        "swift"
+        "swift",
+        "healthkit"
       ],
       "stars": 48,
       "license": "other",
@@ -1990,7 +2032,8 @@
       "description": "Track your gym workouts",
       "source": "https://github.com/kylejm/Jim",
       "tags": [
-        "swift"
+        "swift",
+        "parse"
       ],
       "stars": 39,
       "license": "other",
@@ -2002,7 +2045,7 @@
       "category-ids": [
         "fitness"
       ],
-      "description": "A Strength Logger is a simple logging app for strength athletes",
+      "description": "Simple logging app for strength athletes",
       "source": "https://github.com/brettalcox/logU-swift",
       "itunes": "https://itunes.apple.com/app/logu-a-strength-logger/id1084487510",
       "tags": [
@@ -2018,7 +2061,7 @@
       "category-ids": [
         "researchkit"
       ],
-      "description": "ResearchKit app studying Parkinson's disease",
+      "description": "Parkinson's disease study",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/mPower",
       "itunes": "https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200",
@@ -2057,7 +2100,7 @@
       "category-ids": [
         "researchkit"
       ],
-      "description": "ResearchKit app studying Breast Cancer",
+      "description": "Breast cancer study",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/ShareTheJourney",
       "itunes": "https://itunes.apple.com/app/share-the-journey/id972180604",
@@ -2161,7 +2204,7 @@
       "category-ids": [
         "keyboard"
       ],
-      "description": "An open source, customizable, iOS keyboard",
+      "description": "Customizable keyboard",
       "source": "https://github.com/Brimizer/Slidden",
       "stars": 484,
       "license": "mit",
@@ -2253,9 +2296,13 @@
       "title": "iBeaconTasks",
       "category-ids": [
         "location",
+        "parse",
+        "tasks"
+      ],
+      "tags": [
         "parse"
       ],
-      "description": "iBeacon to-do reminders, uses Parse",
+      "description": "iBeacon to-do reminders",
       "source": "https://github.com/TomekB/iBeaconTasks",
       "stars": 108,
       "license": "other",
@@ -2370,7 +2417,7 @@
     {
       "title": "Swift-Walk-Tracker",
       "category-ids": [
-        "location"
+        "fitness"
       ],
       "description": "Track your walks",
       "source": "https://github.com/kevinvanderlugt/Swift-Walk-Tracker",
@@ -2387,7 +2434,10 @@
       "category-ids": [
         "travel"
       ],
-      "description": "Simple & comfortable way to explore a city, uses the Uber API",
+      "tags": [
+        "uber api"
+      ],
+      "description": "Simple & comfortable way to explore a city",
       "license": "mit",
       "source": "https://github.com/hACKbUSTER/UberGuide-iOS",
       "stars": 242,
@@ -2412,7 +2462,11 @@
       "category-ids": [
         "media"
       ],
-      "description": "iPhone/iPad 360 video player",
+      "tags": [
+        "iphone",
+        "ipad"
+      ],
+      "description": "360 video player",
       "license": "mit",
       "source": "https://github.com/hanton/HTY360Player",
       "itunes": "https://itunes.apple.com/app/360-vr-player/id1061464612",
@@ -2425,10 +2479,12 @@
       "category-ids": [
         "media"
       ],
-      "description": "Analog Synthesizer Keyboard Music App, created with Swift 2 ([code](https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX))",
+      "description": "Analog synthesizer keyboard music app",
       "source": "http://matthewfecher.com/app-developement/swift-synth/",
+      "homepage": "https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX",
       "tags": [
-        "swift"
+        "swift",
+        "swift2"
       ],
       "screenshots": ["https://cdn-images-1.medium.com/max/800/1*hj0rxmPvapxpY1URdvw97A.png"],
       "license": "mit",
@@ -2466,7 +2522,8 @@
       "category-ids": [
         "media"
       ],
-      "description": "Import photos from an Instagram user and make a collage",
+      "tags": ["instagram api"],
+      "description": "Make photo collages",
       "source": "https://github.com/Azoft/CollageMaker-iOS",
       "stars": 30,
       "license": "mit",
@@ -2491,7 +2548,10 @@
       "category-ids": [
         "media"
       ],
-      "description": "Comic reader for iPad",
+      "tags": [
+        "ipad"
+      ],
+      "description": "Comic reader",
       "source": "https://github.com/swisspol/ComicFlow",
       "license": "gpl-3.0",
       "itunes": "https://itunes.apple.com/app/comicflow/id409290355",
@@ -2504,7 +2564,12 @@
       "category-ids": [
         "media"
       ],
-      "description": "https://douban.fm/ app for iPhone, uses AFNetworking & MPMoviePlayer",
+      "tags": [
+        "afnetworking",
+        "MPMoviePlayer",
+        "iphone"
+      ],
+      "description": "https://douban.fm/ app",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/XVXVXXX/DoubanFM",
@@ -2534,7 +2599,10 @@
       "category-ids": [
         "media"
       ],
-      "description": "Simple powerful video player, uses ffmpeg",
+      "tags": [
+        "ffmpeg"
+      ],
+      "description": "Simple powerful video player",
       "source": "https://github.com/coderyi/Eleven",
       "itunes": "https://itunes.apple.com/app/elevenplayer/id1033773648",
       "stars": 745,
@@ -2562,7 +2630,8 @@
       "category-ids": [
         "content"
       ],
-      "description": "Simple app which consumes the Flickr Search API",
+      "tags": ["flickr api"],
+      "description": "Photo search",
       "source": "https://github.com/alikaragoz/Flickr-Search",
       "stars": 18,
       "license": "other",
@@ -2684,11 +2753,12 @@
       "category-ids": [
         "content"
       ],
-      "description": "A simple iOS Instagram photo browser",
+      "description": "Simple Instagram photo browser",
       "source": "https://github.com/MoZhouqi/PhotoBrowser",
       "stars": 472,
       "tags": [
-        "swift"
+        "swift",
+        "instagram api"
       ],
       "license": "other",
       "date_added": "Tue Mar 31 06:55:38 2015 -0700",
@@ -2699,7 +2769,7 @@
       "category-ids": [
         "gif"
       ],
-      "description": "House all your favorite GIFs and easily share them with your friends and family",
+      "description": "House all your favorite GIFs and easily share them with your friends & family",
       "license": "mit",
       "source": "https://github.com/thoughtbot/poppins",
       "itunes": "https://itunes.apple.com/app/poppins/id978854068",
@@ -2715,7 +2785,7 @@
       "category-ids": [
         "content"
       ],
-      "description": "Listen to any song from Phish.in and view concert ratings and reviews from phish.net",
+      "description": "Listen to any song from phish.in and view concert ratings and reviews from phish.net",
       "source": "https://github.com/alecgorge/PhishOD-iOS",
       "itunes": "https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018",
       "stars": 34,
@@ -2770,7 +2840,10 @@
       "category-ids": [
         "media"
       ],
-      "description": "3D modelling app for iPad",
+      "tags": [
+        "ipad"
+      ],
+      "description": "3D modelling app",
       "license": "bsd-3-clause",
       "source": "https://github.com/Ciechan/Revolved",
       "stars": 581,
@@ -2827,12 +2900,13 @@
       "category-ids": [
         "content"
       ],
-      "description": "Flickr popular photo viewer",
+      "description": "Popular Flickr photos",
       "license": "mit",
       "source": "https://github.com/synboo/SwiftFlickrApp",
       "stars": 341,
       "tags": [
-        "swift"
+        "swift",
+        "flickr api"
       ],
       "date_added": "Tue May 5 07:33:10 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -2842,13 +2916,14 @@
       "category-ids": [
         "media"
       ],
-      "description": "Professional radio station app, created with Swift 2",
+      "description": "Professional radio station app",
       "license": "mit",
       "source": "https://github.com/swiftcodex/Swift-Radio-Pro",
       "stars": 1375,
       "screenshots": ["https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png "],
       "tags": [
-        "swift"
+        "swift",
+        "swift2"
       ],
       "date_added": "Sun Jan 24 17:39:00 2016 -0700",
       "suggested_by": "@swiftcodex"
@@ -2916,7 +2991,11 @@
       "category-ids": [
         "media"
       ],
-      "description": "Simple camera app that can backup pictures on a WebDAV server or Dropbox",
+      "tags": [
+        "webdav",
+        "dropbox"
+      ],
+      "description": "Simple camera app that can backup pictures",
       "license": "apache-2.0",
       "source": "https://github.com/xcoo/upupu",
       "itunes": "https://itunes.apple.com/app/upupu/id508401854",
@@ -2944,7 +3023,11 @@
       "category-ids": [
         "media"
       ],
-      "description": "iPhone/iPad audio recorder",
+      "tags": [
+        "iphone",
+        "ipad"
+      ],
+      "description": "Audio recorder",
       "license": "mit",
       "source": "https://github.com/MoZhouqi/VoiceMemos",
       "stars": 233,
@@ -2959,7 +3042,9 @@
       "category-ids": [
         "content"
       ],
-      "description": "iPhone app",
+      "tags": [
+        "iphone"
+      ],
       "license": "mit",
       "source": "https://github.com/paulrehkugler/xkcd",
       "itunes": "https://itunes.apple.com/app/xkcd/id303688284",
@@ -3130,7 +3215,9 @@
         "hacker-news",
         "firebase"
       ],
-      "description": "Uses the Firebase API",
+      "tags": [
+        "firebase"
+      ],
       "source": "https://github.com/bonzoq/hniosreader",
       "itunes": "https://itunes.apple.com/app/hacker-news-client/id939454231",
       "stars": 220,
@@ -3144,7 +3231,11 @@
         "hacker-news",
         "firebase"
       ],
-      "description": "Uses the official HN API (Firebase) & Fabric",
+      "tags": [
+        "hn api",
+        "firebase",
+        "fabric"
+      ],
       "source": "https://github.com/vetri02/HackerNews",
       "itunes": "https://itunes.apple.com/app/hacker-news-y/id1027140113",
       "stars": 22,
@@ -3307,7 +3398,10 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Fun way to create and share stories and poems, uses Fabric",
+      "tags": [
+        "fabric"
+      ],
+      "description": "Fun way to create and share stories and poems",
       "license": "apache-2.0",
       "source": "https://github.com/twitterdev/cannonball-ios",
       "itunes": "https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075",
@@ -3340,10 +3434,11 @@
       "suggested_by": "@jeffreyjackson"
     },
     {
-      "title": "CloudKit in Objective-C",
+      "title": "CloudKit",
       "category-ids": [
         "sample"
       ],
+      "tags": ["cloudkit"],
       "license": "mit",
       "source": "https://github.com/Yalantis/CloudKit-Demo.Objective-C",
       "stars": 103,
@@ -3351,14 +3446,15 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "CloudKit in Swift",
+      "title": "CloudKit",
       "category-ids": [
         "sample"
       ],
       "license": "mit",
       "source": "https://github.com/Yalantis/CloudKit-Demo.Swift",
       "tags": [
-        "swift"
+        "swift",
+        "cloudkit"
       ],
       "stars": 152,
       "date_added": "Sun, 17 May 2015 08:34:02 -0700",
@@ -3383,7 +3479,10 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Furniture store demo app, uses Fabric",
+      "tags": [
+        "fabric"
+      ],
+      "description": "Furniture store demo app",
       "license": "apache-2.0",
       "source": "https://github.com/twitterdev/furni-ios",
       "stars": 1077,
@@ -3452,11 +3551,12 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Sample app that integrates Layer & Atlas with Parse",
       "license": "apache-2.0",
       "source": "https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example",
       "tags": [
-        "swift"
+        "swift",
+        "parse",
+        "atlas"
       ],
       "stars": 116,
       "date_added": "Mon Jan 25 08:14:18 2016 -0800",
@@ -3535,9 +3635,13 @@
     {
       "title": "RKGist",
       "category-ids": [
-        "sample"
+        "sample",
+        "github"
       ],
-      "description": "GitHub Gists, uses RestKit",
+      "tags": [
+        "restkit"
+      ],
+      "description": "GitHub Gists",
       "license": "apache-2.0",
       "source": "https://github.com/RestKit/RKGist",
       "stars": 73,
@@ -3549,10 +3653,11 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Demo of how to auto-login users in iOS 9 using Safari cookies",
+      "description": "Demo of how to auto-login users using Safari cookies",
       "source": "https://github.com/mackuba/SafariAutoLoginTest",
       "tags": [
-        "swift"
+        "swift",
+        "ios9"
       ],
       "stars": 333,
       "license": "other",
@@ -3564,7 +3669,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "A generic API client app using Hyperdrive",
+      "description": "A generic Hyperdrive API client app",
       "license": "bsd-2-clause",
       "source": "https://github.com/kylef/Starship",
       "tags": [
@@ -3647,7 +3752,10 @@
       "category-ids": [
         "security"
       ],
-      "description": "iPhone password manager with Dropbox",
+      "tags": [
+        "iphone"
+      ],
+      "description": "Password manager with Dropbox",
       "source": "https://github.com/chrishulbert/SkeletonKey",
       "itunes": "https://itunes.apple.com/app/skeleton-key-password-manager/id513648119",
       "stars": 58,
@@ -3731,7 +3839,10 @@
         "tasks",
         "parse"
       ],
-      "description": "Log your community service hours to the cloud, uses Parse",
+      "description": "Log your community service hours to the cloud",
+      "tags": [
+        "parse"
+      ],
       "source": "https://github.com/JerryHDev/1Trackr",
       "itunes": "https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630",
       "stars": 3,
@@ -3744,7 +3855,10 @@
       "category-ids": [
         "tasks"
       ],
-      "description": "Store & retrieve tasks, uses CloudKit",
+      "tags": [
+        "cloudkit"
+      ],
+      "description": "Store & retrieve tasks",
       "license": "mit",
       "source": "https://github.com/anthonygeranio/CloudKit-To-Do-List",
       "tags": [
@@ -3833,12 +3947,14 @@
       "category-ids": [
         "tasks"
       ],
-      "description": "A minimal iPhone/iPad to-do app",
+      "description": "Minimal to-do app",
       "license": "mit",
       "source": "https://github.com/binarylevel/Tinylog-iOS",
       "itunes": "https://itunes.apple.com/app/tinylog/id799267191",
       "tags": [
-        "swift"
+        "swift",
+        "iphone",
+        "ipad"
       ],
       "stars": 21,
       "date_added": "Tue Jan 26 17:23:50 2016 +0200",
@@ -3849,11 +3965,12 @@
       "category-ids": [
         "weather"
       ],
-      "description": "Precipitation clock, uses http://forecast.io/",
+      "description": "Precipitation clock",
       "license": "mit",
       "source": "https://github.com/wrutkowski/Lucid-Weather-Clock",
       "tags": [
-        "swift"
+        "swift",
+        "forecast api"
       ],
       "stars": 40,
       "date_added": "Tue Jan 5 16:03:00 2016 +0000",
@@ -3864,12 +3981,12 @@
       "category-ids": [
         "weather"
       ],
-      "description": "Weather app for Typhoon",
       "license": "apache-2.0",
       "source": "https://github.com/appsquickly/Typhoon-Swift-Example",
       "stars": 332,
       "tags": [
-        "swift"
+        "swift",
+        "Typhoon"
       ],
       "date_added": "Tue Mar 24 10:16:48 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -3879,11 +3996,11 @@
       "category-ids": [
         "weather"
       ],
-      "description": "Uses http://forecast.io/",
       "source": "https://github.com/Mav3r1ck/Project-RainMan",
       "stars": 638,
       "tags": [
-        "swift"
+        "swift",
+        "forecast api"
       ],
       "license": "mit",
       "date_added": "Sun Apr 26 10:35:46 2015 +0800",
@@ -3894,7 +4011,9 @@
       "category-ids": [
         "weather"
       ],
-      "description": "Uses https://www.wunderground.com/",
+      "tags": [
+        "wunderground api"
+      ],
       "license": "mit",
       "source": "https://github.com/comyar/Sol",
       "stars": 1219,
@@ -3910,7 +4029,10 @@
       "category-ids": [
         "weather"
       ],
-      "description": "Uses https://www.wunderground.com/ & https://www.openstreetmap.org/",
+      "tags": [
+        "wunderground api",
+        "openweathermap api"
+      ],
       "license": "mit",
       "source": "https://github.com/liu044100/SmileWeather",
       "stars": 385,
@@ -3932,12 +4054,15 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Tropos",
+      "title": "Tropos Weather",
       "category-ids": [
         "weather",
         "reactivecocoa"
       ],
-      "description": "A weather app, uses ReactiveCocoa & http://forecast.io/",
+      "tags": [
+        "forecast api",
+        "reactivecocoa"
+      ],
       "license": "mit",
       "source": "https://github.com/thoughtbot/Tropos",
       "itunes": "https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376",
@@ -3948,10 +4073,9 @@
     {
       "title": "Weather by jsphkhan",
       "category-ids": [
-        "weather",
         "react-native"
       ],
-      "description": "Weather app, uses React Native",
+      "tags": ["reactnative"],
       "homepage": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp",
       "source": "https://github.com/jsphkhan/ReactNativeExamples",
       "license": "mit",
@@ -3964,12 +4088,13 @@
       "category-ids": [
         "weather"
       ],
-      "description": "Weather around you in a glance, uses http://openweathermap.org/",
+      "description": "Weather around you in a glance",
       "source": "https://github.com/TakefiveInteractive/WeatherMap",
       "itunes": "https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529",
       "stars": 268,
       "tags": [
-        "swift"
+        "swift",
+        "openweathermap api"
       ],
       "license": "apache-2.0",
       "date_added": "Fri Jun 19 11:11:35 2015 -0700",
@@ -3990,9 +4115,13 @@
     {
       "title": "PHPHub",
       "category-ids": [
-        "web"
+        "content"
       ],
-      "description": "iPhone/iPad app for PHPHub Forum",
+      "tags": [
+        "iphone",
+        "ipad"
+      ],
+      "description": "App https://phphub.org/",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/Aufree/phphub-ios",
@@ -4004,7 +4133,7 @@
     {
       "title": "ProMonster",
       "category-ids": [
-        "web"
+        "content"
       ],
       "description": "Store",
       "lang": "por",
@@ -4018,7 +4147,7 @@
     {
       "title": "QiitaCollection",
       "category-ids": [
-        "web"
+        "content"
       ],
       "description": "Technical knowledge sharing and collaboration platform",
       "lang": "jpn",
@@ -4088,10 +4217,11 @@
       "category-ids": [
         "misc"
       ],
-      "description": "Manage ufrgs.br library books, uses Alamofire",
+      "description": "Manage ufrgs.br library books",
       "source": "https://github.com/MatheusCavalca/RenovaLivrosUFRGS",
       "tags": [
-        "swift"
+        "swift",
+        "Alamofire"
       ],
       "lang": "por",
       "stars": 4,
@@ -4142,12 +4272,13 @@
       "category-ids": [
         "misc"
       ],
-      "description": "Turn your iPhone into a remote for Deckset presentations",
+      "description": "Remote app for Deckset presentations",
       "license": "mit",
       "source": "https://github.com/jpsim/DeckRocket",
       "stars": 306,
       "tags": [
-        "swift"
+        "swift",
+        "iphone"
       ],
       "date_added": "Thu Mar 26 08:48:53 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -4157,7 +4288,7 @@
       "category-ids": [
         "media"
       ],
-      "description": "Analyze choose or take a photo of your face and the app will tell you your emotion",
+      "description": "Choose or take a photo of your face and the app will tell you your emotion",
       "license": "mit",
       "source": "https://github.com/Yogayu/EmotionNote",
       "tags": [
@@ -4196,7 +4327,11 @@
       "category-ids": [
         "media"
       ],
-      "description": "\"Great\" PDF reader designed for both iPhone/iPad",
+      "tags": [
+        "iphone",
+        "ipad"
+      ],
+      "description": "\"Great\" PDF reader",
       "license": "mit",
       "source": "https://github.com/semweb/GreatReader",
       "itunes": "https://itunes.apple.com/app/greatreader/id903651112",
@@ -4435,9 +4570,12 @@
     {
       "title": "Runner-Stats",
       "category-ids": [
-        "misc"
+        "fitness"
       ],
-      "description": "iPhone app to record running data",
+      "tags": [
+        "iphone"
+      ],
+      "description": "Record running data",
       "license": "gpl-2.0",
       "source": "https://github.com/hukun01/Runner-Stats",
       "itunes": "https://itunes.apple.com/app/runner-stats/id793443821",
@@ -4503,7 +4641,7 @@
     {
       "title": "TrollDrop",
       "category-ids": [
-        "misc"
+        "communication"
       ],
       "description": "AirDrop trollfaces to everyone",
       "license": "mit",
@@ -4603,7 +4741,7 @@
       "category-ids": [
         "3d-touch"
       ],
-      "description": "Sketching app, uses 3D Touch",
+      "description": "Sketching app",
       "source": "https://github.com/FlexMonkey/ForceSketch",
       "stars": 61,
       "license": "other",
@@ -4615,7 +4753,7 @@
       "category-ids": [
         "3d-touch"
       ],
-      "description": "3D Touch app for weighing plums (and other small fruit!)",
+      "description": "Weigh plums (and other small fruit!)",
       "source": "https://github.com/FlexMonkey/Plum-O-Meter",
       "stars": 444,
       "tags": [
@@ -4645,7 +4783,10 @@
       "category-ids": [
         "calendar"
       ],
-      "description": "Simple iPhone calendar with operating schedule",
+      "tags": [
+        "iphone"
+      ],
+      "description": "Simple calendar with operating schedule",
       "license": "mit",
       "source": "https://github.com/mpak/Workdays",
       "itunes": "https://itunes.apple.com/app/workdays-calendar/id889712978",
@@ -4688,7 +4829,7 @@
         "text",
         "today"
       ],
-      "description": "Simple note taking with Today extension & iCloud sync",
+      "description": "Simple note taking with Today Extension & iCloud sync",
       "license": "mit",
       "source": "https://github.com/mslathrop/SwiftNote",
       "stars": 175,
@@ -4780,11 +4921,12 @@
       "category-ids": [
         "core-data"
       ],
-      "description": "Designed to quickly and easily add tasks to your iPhone",
+      "description": "Designed to quickly and easily add tasks",
       "source": "https://github.com/mbcrump/TasksForSwiftWithPersistingData",
       "itunes": "https://itunes.apple.com/app/task-application/id960435759",
       "tags": [
-        "swift"
+        "swift",
+        "iphone"
       ],
       "stars": 18,
       "license": "other",
@@ -4818,7 +4960,7 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Anypic in Objective-C",
+      "title": "Anypic",
       "category-ids": [
         "parse"
       ],
@@ -4831,7 +4973,7 @@
       "suggested_by": "@jeffreyjackson"
     },
     {
-      "title": "Anypic in Swift",
+      "title": "Anypic",
       "category-ids": [
         "parse"
       ],
@@ -4849,7 +4991,7 @@
       "category-ids": [
         "parse"
       ],
-      "description": "A fun geolocation app, uses Parse",
+      "description": "A fun geolocation app",
       "source": "https://github.com/ParsePlatform/AnyWall",
       "itunes": "https://itunes.apple.com/app/anywall/id520955490",
       "stars": 418,
@@ -4863,8 +5005,12 @@
         "parse",
         "firebase"
       ],
+      "tags": [
+        "parse",
+        "firebase"
+      ],
       "license": "mit",
-      "description": "Simple app to record how much things cost, uses Parse or Firebase",
+      "description": "Simple app to record how much things cost",
       "source": "https://github.com/dkhamsing/how-much",
       "stars": 5,
       "date_added": "Tue Oct 6 10:14:28 2015 -0700",
@@ -4875,7 +5021,10 @@
       "category-ids": [
         "parse"
       ],
-      "description": "iPhone app with likes, comments, posting images/videos — uses Parse",
+      "tags": [
+        "iphone"
+      ],
+      "description": "App with likes, comments, posting images/videos",
       "source": "https://github.com/TomekB/Parse-Challenge-App",
       "itunes": "https://itunes.apple.com/app/lets-challenge-me/id944004497",
       "stars": 126,
@@ -4888,7 +5037,7 @@
       "category-ids": [
         "parse"
       ],
-      "description": "Backend provider for selling physical goods, uses Parse",
+      "description": "Backend provider for selling physical goods",
       "source": "https://github.com/ParsePlatform/ParseStore",
       "itunes": "https://itunes.apple.com/app/parse-store/id613679907",
       "stars": 183,
@@ -4911,10 +5060,11 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "allyoop",
+      "title": "NBA allyoop",
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "NBA game scores",
       "license": "mit",
       "source": "https://github.com/wwayne/react-native-nba-app",
@@ -4927,6 +5077,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/2048",
       "license": "other",
@@ -4938,6 +5089,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/Movies",
       "license": "other",
@@ -4949,6 +5101,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/TicTacToe",
       "license": "other",
@@ -4960,7 +5113,9 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "App by Facebook",
+      "tags": ["reactnative"],
       "source": "https://github.com/facebook/react-native/tree/master/Examples/UIExplorer",
       "license": "other",
       "date_added": "Fri, 5 Feb 2016 07:55:10 -0800",
@@ -4971,6 +5126,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "Display Instagram photos around your location",
       "source": "https://github.com/bgryszko/react-native-example",
       "stars": 100,
@@ -4983,6 +5139,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "Developer-focused Meetup clone",
       "source": "https://github.com/buildreactnative/assemblies",
       "stars": 181,
@@ -4996,6 +5153,7 @@
         "react-native",
         "calculator"
       ],
+      "tags": ["reactnative"],
       "description": "React Native calculator",
       "license": "mit",
       "source": "https://github.com/benoitvallon/react-native-nw-react-calculator",
@@ -5008,6 +5166,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "homepage": "https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter",
       "source": "https://github.com/ashwinpreet/ReactNativeExamples",
       "license": "mit",
@@ -5020,6 +5179,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "View houses for sale in the Northwest",
       "license": "mit",
       "source": "https://github.com/asamiller/den",
@@ -5032,6 +5192,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "license": "mit",
       "source": "https://github.com/catalinmiron/react-native-dribbble-app",
       "stars": 1264,
@@ -5043,6 +5204,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "Official F8 app",
       "source": "https://github.com/fbsamples/f8app",
       "stars": 7139,
@@ -5058,6 +5220,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/brentvatne/react-native-login",
       "stars": 450,
       "license": "other",
@@ -5070,6 +5233,7 @@
         "react-native",
         "clone"
       ],
+      "tags": ["reactnative"],
       "description": "iOS's Stocks app written in React Native",
       "license": "mit",
       "source": "https://github.com/7kfpun/FinanceReactNative",
@@ -5082,6 +5246,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/peralmq/ForeignExchangeApp",
       "stars": 11,
       "license": "other",
@@ -5089,10 +5254,11 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "HackerNews-React-Native",
+      "title": "Hacker News app by iSimar",
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "license": "mit",
       "source": "https://github.com/iSimar/HackerNews-React-Native",
       "itunes": "https://itunes.apple.com/app/hacker-news-reader-react-native/id1067161633",
@@ -5105,6 +5271,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "license": "mit",
       "source": "https://github.com/paranoida/IcelandEarthquakes",
       "stars": 23,
@@ -5116,6 +5283,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/alexissan/ReactNativeWorkshop",
       "stars": 42,
       "license": "other",
@@ -5127,6 +5295,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/JoeStanton/london-react",
       "stars": 40,
       "license": "other",
@@ -5138,6 +5307,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "News app based on YouTube playlists",
       "source": "https://github.com/bradoyler/newswatch-react-native",
       "stars": 93,
@@ -5150,6 +5320,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "Lightweight Node REPL",
       "source": "https://github.com/mzabriskie/PocketNode",
       "stars": 47,
@@ -5162,6 +5333,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "Product Hunt app",
       "source": "https://github.com/rkho/product-kitty",
       "stars": 107,
@@ -5174,6 +5346,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/ColinEberhardt/ReactNative-PropertyFinder",
       "stars": 258,
       "license": "other",
@@ -5181,10 +5354,11 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "ReactNativeHackerNews",
+      "title": "Hacker News app by jsdf",
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/jsdf/ReactNativeHackerNews",
       "stars": 198,
       "license": "other",
@@ -5196,6 +5370,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/christopherdro/react-native-rss-reader",
       "stars": 84,
       "license": "other",
@@ -5207,6 +5382,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/ArnaudRinquin/sk-react-native",
       "stars": 92,
       "license": "other",
@@ -5218,6 +5394,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "A small app displaying NASA's Picture of the Day",
       "source": "https://github.com/campezzi/react-native-spacepics",
       "stars": 16,
@@ -5230,6 +5407,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/christopherdro/react-native-sudoku",
       "stars": 41,
       "license": "other",
@@ -5241,6 +5419,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/joemaddalone/react-native-todo",
       "stars": 95,
       "license": "other",
@@ -5252,6 +5431,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/IFours/react-native-twitch",
       "stars": 74,
       "license": "other",
@@ -5263,6 +5443,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "license": "mit",
       "source": "https://github.com/JakeLin/ReactNativeWeather",
       "stars": 16,
@@ -5304,7 +5485,12 @@
         "reactivecocoa",
         "github"
       ],
-      "description": "Uses MVVM & ReactiveCocoa",
+      "tags": [
+        "reactivecocoa",
+        "mvvm",
+        "mantle"
+      ],
+      "description": "GitHub app",
       "license": "mit",
       "source": "https://github.com/leichunfeng/MVVMReactiveCocoa",
       "itunes": "https://itunes.apple.com/app/id961330940",
@@ -5317,7 +5503,10 @@
       "category-ids": [
         "reactivecocoa"
       ],
-      "description": "iPhone grocery list app, synchronized with GitHub",
+      "tags": [
+        "iphone"
+      ],
+      "description": "Grocery list, synchronized with GitHub",
       "source": "https://github.com/jspahrsummers/GroceryList",
       "stars": 775,
       "license": "mit",
@@ -5330,7 +5519,11 @@
         "reactivecocoa",
         "clock"
       ],
-      "description": "Minimal Chess Clock, uses MVVM & ReactiveCocoa",
+      "tags": [
+        "reactivecocoa",
+        "mvvm"
+      ],
+      "description": "Minimal chess clock",
       "license": "mit",
       "source": "https://github.com/nottombrown/HausClock",
       "tags": [
@@ -5345,7 +5538,11 @@
       "category-ids": [
         "reactivecocoa"
       ],
-      "description": "Hacker News reader with Tinder style interface, written in ObjC, uses MVVM & ReactiveCocoa",
+      "tags": [
+        "reactivecocoa",
+        "mvvm"
+      ],
+      "description": "Hacker News reader with Tinder style interface",
       "source": "https://github.com/syshen/ReactiveHackerNews",
       "itunes": "https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368",
       "stars": 45,
@@ -5358,11 +5555,13 @@
       "category-ids": [
         "reactivecocoa"
       ],
-      "description": "A Flickr-search app that uses MVVM & ReactiveCocoa",
+      "description": "Photo search",
       "source": "https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch",
       "stars": 354,
       "tags": [
-        "swift"
+        "swift",
+        "mvvm",
+        "flickr api"
       ],
       "license": "other",
       "date_added": "Wed Feb 4 08:09:00 2015 -0800",
@@ -5385,10 +5584,12 @@
       "category-ids": [
         "reactivecocoa"
       ],
-      "description": "Google image search, uses RAC 4.0 & Swift 2.1",
+      "description": "Google image search",
       "source": "https://github.com/Adlai-Holler/SwiftRACGoogleImages",
       "tags": [
-        "swift"
+        "swift",
+        "swift2.1",
+        "rac4"
       ],
       "stars": 26,
       "license": "other",
@@ -5400,11 +5601,12 @@
       "category-ids": [
         "rxswift"
       ],
-      "description": "GitHub app, uses MVVM & RxSwift",
       "source": "https://github.com/tailec/boilerplate",
       "stars": 221,
       "tags": [
-        "swift"
+        "swift",
+        "mvvm",
+        "rxswift"
       ],
       "license": "mit",
       "date_added": "Mon Mar 14 22:08:01 2016 +0000",
@@ -5415,12 +5617,13 @@
       "category-ids": [
         "rxswift"
       ],
-      "description": "The Artsy auction kiosk app, uses RxSwift",
+      "description": "Artsy auction app",
       "license": "mit",
       "source": "https://github.com/artsy/eidolon",
       "stars": 1372,
       "tags": [
-        "swift"
+        "swift",
+        "rxswift"
       ],
       "date_added": "Tue Jan 27 07:26:50 2015 -0800",
       "suggested_by": "@dkhamsing"
@@ -5463,7 +5666,6 @@
       "category-ids": [
         "viper"
       ],
-      "description": "To-do list app, uses Viper",
       "source": "https://github.com/objcio/issue-13-viper",
       "homepage": "https://www.objc.io/issues/13-architecture/viper/",
       "license": "mit",
@@ -5506,10 +5708,12 @@
         "gif",
         "sample"
       ],
-      "description": "It's about GIFs & cats, uses Interstellar",
+      "description": "It's about GIFs & cats",
       "source": "https://github.com/JensRavens/ReactiveKitten",
       "tags": [
-        "swift"
+        "swift",
+        "giphy api",
+        "interstellar"
       ],
       "stars": 13,
       "license": "other",
@@ -5871,7 +6075,9 @@
       "category-ids": [
         "game"
       ],
-      "description": "Uses Cocos2D",
+      "tags": [
+        "Cocos2D"
+      ],
       "source": "https://github.com/jamiely/ios-balloon-burst",
       "license": "other",
       "stars": 10,
@@ -5926,7 +6132,7 @@
       "category-ids": [
         "researchkit"
       ],
-      "description": "ResearchKit app that provides an easy test for colorblind people",
+      "description": "Easy test for colorblind people",
       "source": "https://github.com/boostcode/ResearchKit-ColorBlind",
       "itunes": "https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412",
       "tags": [
@@ -5971,7 +6177,12 @@
         "firebase",
         "communication"
       ],
-      "description": "Anonymous messaging leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data sync",
+      "tags": [
+        "firebase",
+        "websocket",
+        "nosql"
+      ],
+      "description": "Anonymous messaging with real time data sync",
       "license": "mit",
       "source": "https://github.com/LunarFlash/Chaty",
       "stars": 259,
@@ -6015,7 +6226,10 @@
         "finance",
         "location"
       ],
-      "description": "Pay-if-U-R-late app, uses geofences & the Venmo API",
+      "tags": [
+        "venmo api"
+      ],
+      "description": "Pay-if-U-R-late app with geofences",
       "source": "https://github.com/ayunav/Neverlate",
       "license": "other",
       "stars": 17,
@@ -6041,7 +6255,10 @@
         "calculator",
         "science"
       ],
-      "description": "An experimental prototype calculator for iPad",
+      "tags": [
+        "ipad"
+      ],
+      "description": "An experimental prototype calculator",
       "source": "https://github.com/bridger/NumberPad",
       "license": "apache-2.0",
       "stars": 55,
@@ -6053,7 +6270,10 @@
       "category-ids": [
         "location"
       ],
-      "description": "Offline maps app with navigation, uses https://www.openstreetmap.org",
+      "tags": [
+        "openstreetmap api"
+      ],
+      "description": "Offline maps app with navigation",
       "license": "apache-2.0",
       "source": "https://github.com/mapsme/omim",
       "homepage": "https://maps.me/en/home",
@@ -6218,7 +6438,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "The character management tool for EveOnline MMORG",
+      "description": "EveOnline MMORG character management tool",
       "license": "lgpl-2.1",
       "source": "https://github.com/mrdepth/Neocom",
       "itunes": "https://itunes.apple.com/app/eveuniverse/id418895101",
@@ -6243,13 +6463,14 @@
       "category-ids": [
         "game"
       ],
-      "description": "An iPhone port of the classic XPilot game",
+      "description": "Port of the classic XPilot game",
       "source": "http://7b5labs.com/xpilot.git/",
       "homepage": "http://7b5labs.com/xpilotiphone",
       "itunes": "https://itunes.apple.com/app/id322114791",
       "license": "gpl-2.0",
       "tags": [
-        "archive"
+        "archive",
+        "iphone"
       ],
       "date_added": "Wed Jun 1 22:18:46 2016 -0600",
       "suggested_by": "@scribblemaniac"
@@ -6314,7 +6535,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "Play hundreds of free works of Interactive Fiction (a.k.a. text adventure games)",
+      "description": "Play hundreds of free works of Interactive Fiction (text adventure games)",
       "source": "https://github.com/ifrotz/iosfrotz",
       "homepage": "https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md",
       "itunes": "https://itunes.apple.com/app/id287653015",
@@ -6339,6 +6560,10 @@
       "title": "Wizard War",
       "category-ids": [
         "game",
+        "reactivecocoa",
+        "parse"
+      ],
+      "tags": [
         "reactivecocoa",
         "parse"
       ],
@@ -6538,7 +6763,7 @@
     {
       "title": "Kiwix",
       "category-ids": [
-        "web"
+        "content"
       ],
       "description": "An offline reader for Wikipedia (& many other websites)",
       "source": "https://github.com/kiwix/iOS",
@@ -6708,7 +6933,7 @@
       "category-ids": [
         "location"
       ],
-      "description": "Online map for locating wheelchair-accessible places",
+      "description": "Map to locate wheelchair-accessible places",
       "source": "https://github.com/sozialhelden/wheelmap-iphone2",
       "homepage": "http://wheelmap.org",
       "itunes": "https://itunes.apple.com/app/id399239476",
@@ -6750,7 +6975,7 @@
       "category-ids": [
         "media"
       ],
-      "description": "Create and share memes!",
+      "description": "Create and share memes",
       "source": "https://github.com/MemeMaker/Meme-Maker-iOS",
       "itunes": "https://itunes.apple.com/app/id962121383",
       "tags": [
@@ -6905,7 +7130,8 @@
       "category-ids": [
         "react-native"
       ],
-      "description": "React Native to-do List app which uses Redux for managing app state",
+      "tags": ["reactnative"],
+      "description": "Uses Redux for managing app state",
       "source": "https://github.com/uiheros/react-native-redux-todo-list",
       "license": "mit",
       "stars": 11,
@@ -6933,7 +7159,10 @@
         "news",
         "viper"
       ],
-      "description": "Search Chronicling America's collection of digitized U.S. newspapers, uses Viper",
+      "tags": [
+        "viper"
+      ],
+      "description": "Search Chronicling America's collection of digitized U.S. newspapers",
       "source": "https://github.com/ryanipete/AmericanChronicle",
       "homepage": "http://ryanipete.com/AmericanChronicle/",
       "itunes": "https://itunes.apple.com/app/id1092988367",
@@ -6947,7 +7176,8 @@
       "category-ids": [
         "game"
       ],
-      "description": "UIViewPropertyAnimator experiment where you have to escape from the squares",
+      "tags": ["UIViewPropertyAnimator"],
+      "description": "Escape from the squares",
       "source": "https://github.com/JakeLin/SaveTheDot",
       "license": "mit",
       "stars": 556,
@@ -7026,11 +7256,12 @@
         "finance",
         "viper"
       ],
-      "description": "Calculate your Equated Monthly installment (EMI) for home, car & personal loans, uses Viper",
+      "description": "Calculate your Equated Monthly installment (EMI) for home, car & personal loans",
       "source": "https://github.com/tirupati17/loan-emi-calculator-clean-swift",
       "itunes": "https://itunes.apple.com/app/id1105890730",
       "tags": [
-        "swift"
+        "swift",
+        "viper"
       ],
       "license": "mit",
       "date_added": "Sun, 3 Jul 2016 23:08:32 +0530",
@@ -7043,10 +7274,11 @@
         "media",
         "game"
       ],
-      "description": "Introduction to iOS & Swift / memory game implementation fetching images from Instagram",
+      "description": "Introduction to iOS & Swift / memory game implementation",
       "source": "https://github.com/Sajjon/SwiftIntro",
       "tags": [
-        "swift"
+        "swift",
+        "instagram api"
       ],
       "license": "gpl-3.0",
       "stars": 32,
@@ -7071,7 +7303,13 @@
       "category-ids": [
         "apple-tv"
       ],
-      "description": "TVML app for http://unclenagyshouse.com/, uses Gulp tasks to build Jade & CoffeeScript",
+      "tags": [
+        "tvml",
+        "gulp",
+        "jade",
+        "coffeescript"
+      ],
+      "description": "Watch http://unclenagyshouse.com/",
       "license": "mit",
       "source": "https://github.com/kenmickles/unh_tvos",
       "itunes": "https://itunes.apple.com/us/app/id1042172021",
@@ -7087,7 +7325,8 @@
       "category-ids": [
         "health"
       ],
-      "description": "A HealthKit powered menstrual cycle tracker",
+      "tags": ["healthkit"],
+      "description": "Menstrual cycle tracker",
       "license": "other",
       "tags": [
         "swift"
@@ -7115,7 +7354,7 @@
       "category-ids": [
         "location"
       ],
-      "description": "Track GPS devices on map",
+      "description": "Track GPS devices on a map",
       "license": "apache-2.0",
       "source": "https://github.com/tananaev/traccar-manager-ios",
       "itunes": "https://itunes.apple.com/us/app/traccar-manager/id1113966562",
@@ -7124,11 +7363,14 @@
       "suggested_by": "Anton Tananaev"
     },
     {
-      "title": "2048 in Objective-C, uses SpriteKit",
+      "title": "2048",
       "category-ids": [
         "game",
         "spritekit",
         "clone"
+      ],
+      "tags": [
+        "spritekit"
       ],
       "license": "mit",
       "source": "https://github.com/danqing/2048",
@@ -7239,7 +7481,7 @@
       "suggested_by": "@JRock007"
     },
     {
-      "title": "DropColour Game in Swift 2.2",
+      "title": "DropColour",
       "category-ids": [
         "game"
       ],
@@ -7249,7 +7491,8 @@
       "stars": 47,
       "license": "mit",
       "tags": [
-        "swift"
+        "swift",
+        "swift2.2"
       ],
       "date_added": "Tue Jul 12 18:20:38 2016 +0200",
       "suggested_by": "Mateusz Szklarek"
@@ -7304,6 +7547,7 @@
       "category-ids": [
         "react-native"
       ],
+      "tags": ["reactnative"],
       "description": "NBA stats and standings",
       "license": "mit",
       "source": "https://github.com/jbkuczma/NBAreact",
@@ -7331,9 +7575,10 @@
     {
       "title": "Post Manager",
       "category-ids": [
-        "social"
+        "social",
+        "extension"
       ],
-      "description": "Post/schedule Twitter posts like Buffer + node.js backend + share extension",
+      "description": "Post/schedule Twitter posts like Buffer with node.js backend & Share Extension",
       "source": "https://github.com/TomekB/PostManager",
       "license": "other",
       "tags": [
@@ -7345,13 +7590,13 @@
     },
     {
       "title": "Upcoming Movies",
-      "description": "Show upcoming movies, uses https://www.themoviedb.org/",
       "category-ids": [
         "apple-tv"
       ],
       "source": "https://github.com/vanyaland/UpcomingMovies",
       "tags": [
-        "swift"
+        "swift",
+        "themoviedb api"
       ],
       "screenshots": [
         "https://github.com/vanyaland/UpcomingMovies/raw/master/Screenshots/movies.png"
@@ -7381,7 +7626,7 @@
         "realm",
         "parse"
       ],
-      "description": "Run tracking + ghosting",
+      "description": "Run tracking & ghosting",
       "source": "https://github.com/enochng1/RaceMe",
       "tags": [
         "swift"
@@ -7420,7 +7665,8 @@
     {
       "title": "Wire",
       "category-ids": [
-        "communication"
+        "communication",
+        "official"
       ],
       "description": "Modern, private communications: crystal clear voice, video, group chats. No advertising. Always encrypted.",
       "source": "https://github.com/wireapp/wire-ios",
@@ -7435,7 +7681,7 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Conway's Game of Life in Objective-C (Vie)",
+      "title": "Conway's Game of Life (Vie)",
       "category-ids": [
         "game"
       ],
@@ -7509,12 +7755,13 @@
         "reactive-programming",
         "sample"
       ],
-      "description": "Browse & star GitHub repositories, uses Siesta (REST) & related quasi-reactive techniques",
+      "description": "Browse & star GitHub repositories",
       "source": "https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser",
       "stars": 660,
       "license": "mit",
       "tags": [
-        "swift"
+        "swift",
+        "rest"
       ],
       "date_added": "Tue Jul 26 10:50:27 2016 -0500",
       "suggested_by": "@pcantrell"
@@ -7525,7 +7772,10 @@
         "media",
         "realm"
       ],
-      "description": "Find a contact by face recognition, uses OpenCV",
+      "tags": [
+        "opencv"
+      ],
+      "description": "Find a contact by face recognition",
       "source": "https://github.com/remirobert/Facemotion",
       "stars": 52,
       "license": "mit",
@@ -7539,6 +7789,7 @@
       "category-ids": [
         "bonus"
       ],
+      "tags": ["other"],
       "suggested_by": "@dkhamsing"
     },
     {
@@ -7547,6 +7798,7 @@
       "category-ids": [
         "bonus"
       ],
+      "tags": ["other"],
       "suggested_by": "@dkhamsing",
       "stars": 4860
     },
@@ -7556,6 +7808,7 @@
       "category-ids": [
         "bonus"
       ],
+      "tags": ["other"],
       "suggested_by": "@dkhamsing",
       "stars": 3635
     },
@@ -7564,7 +7817,10 @@
       "category-ids": [
         "location"
       ],
-      "description": "Tinder-styled restaurant recommendations, uses the Yelp API",
+      "tags": [
+        "yelp api"
+      ],
+      "description": "Tinder-styled restaurant recommendations",
       "source": "https://github.com/enochng1/Munch",
       "license": "other",
       "date_added": "Jul 28 2016",
@@ -7579,7 +7835,10 @@
       "category-ids": [
         "media"
       ],
-      "description": "Organize & manage screenshots you take with your iPhone",
+      "tags": [
+        "iphone"
+      ],
+      "description": "Organize & manage screenshots",
       "source": "https://github.com/LaunchKit/screenshotter",
       "itunes": "https://itunes.apple.com/app/screenshotter-organize-manage/id826596892",
       "license": "apache-2.0",
@@ -7709,7 +7968,11 @@
         "finance",
         "viper"
       ],
-      "description": "Calculate tip & split the bill between any number of people, uses Viper",
+      "tags": [
+        "viper"
+      ],
+
+      "description": "Calculate tip & split the bill between any number of people",
       "source": "https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c",
       "itunes": "https://itunes.apple.com/app/id1139456857",
       "license": "mit",
@@ -7744,7 +8007,8 @@
     {
       "title": "Simplenote",
       "category-ids": [
-        "text"
+        "text",
+        "official"
       ],
       "description": "Easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices. Share notes with other users to collaborate on a project together or to access the same list.",
       "source": "https://github.com/automattic/simplenote-ios",
@@ -7763,10 +8027,11 @@
       "category-ids": [
         "clone"
       ],
-      "description": "YouTube app template, uses Swift 3",
+      "description": "YouTube app template",
       "source": "https://github.com/aslanyanhaik/youtube-iOS",
       "tags": [
-        "swift"
+        "swift",
+        "swift3"
       ],
       "license": "other",
       "stars": 539,
@@ -7782,6 +8047,7 @@
         "sample",
         "react-native"
       ],
+      "tags": ["reactnative"],
       "source": "https://github.com/fangwei716/30-days-of-react-native",
       "license": "mit",
       "stars": 1167,
@@ -7793,13 +8059,14 @@
     },
     {
       "title": "HeartControl",
-      "description": "Continuous heart rate measurement during workouts with watchOS 3",
+      "description": "Continuous heart rate measurement during workouts",
       "category-ids": [
         "apple-watch"
       ],
       "source": "https://github.com/thomaspaulmann/HeartControl",
       "tags": [
-        "swift"
+        "swift",
+        "watchos3"
       ],
       "license": "other",
       "stars": 110,
@@ -7811,7 +8078,7 @@
       "category-ids": [
         "news"
       ],
-      "description": "Content Application for RSS",
+      "description": "RSS app",
       "source": "https://github.com/yavuz/Tenere",
       "itunes": "https://itunes.apple.com/tr/app/tenere-news-reader/id987277462",
       "stars": 13,
@@ -7858,7 +8125,6 @@
         "reactivecocoa",
         "gif"
       ],
-      "description": "Uses ReactiveCocoa",
       "source": "https://github.com/evgeniyd/Giraffe",
       "date_added": "Sep 1 2016",
       "suggested_by": "@akaralar",
@@ -7866,7 +8132,7 @@
         "https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png"
       ],
       "license": "mit",
-      "tags": ["swift"]
+      "tags": ["swift", "reactivecocoa"]
     },
     {
       "title": "iOS 10 Day by Day",
