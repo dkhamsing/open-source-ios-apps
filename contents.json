@@ -8153,6 +8153,18 @@
       "screenshots": ["https://www.shinobicontrols.com/wp-content/uploads/2016/07/App_Demo.gif"],
       "date_added": "Sep 2 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "AppRTC",
+      "source": "https://github.com/ISBX/apprtc-ios",
+      "description": "A native video chat app",
+      "category-ids": ["communication"],
+      "tags": ["webrtc", "google"],
+      "screenshots": ["https://github.com/ISBX/apprtc-ios/raw/master/screenshots/screenshots.jpg"],
+      "license": "bsd-3-clause",
+      "stars": 389,
+      "date_added": "Sep 6 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
