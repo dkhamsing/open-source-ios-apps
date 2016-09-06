@@ -7745,12 +7745,15 @@
     {
       "title": "MovieDict",
       "category-ids": [
-        "travel"
+        "travel",
+        "content"
       ],
+      "tags": ["wikipedia"],
       "description": "Offline dictionary for international movie titles",
-      "source": "https://github.com/jlnr/MovieDict",
+      "source": "https://github.com/lurado/MovieDict",
       "homepage": "https://moviedict.info",
       "license": "mit",
+      "screenshots": ["https://camo.githubusercontent.com/09de19622e05913567e36c75911e2dd981295036/68747470733a2f2f6d6f766965646963742e696e666f2f6970686f6e652e706e67"],
       "itunes": "https://itunes.apple.com/app/movieglot-what-do-they-call-it/id710587066",
       "date_added": "Tue Jul 26 14:42:12 2016 +0200",
       "suggested_by": "@jlnr",
