@@ -347,7 +347,7 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "Unofficial Baidu Music app",
+      "description": "A Baidu Music app",
       "source": "https://github.com/belm/BaiduFM-Swift",
       "stars": 541,
       "lang": "zho",
@@ -1300,7 +1300,7 @@
       "category-ids": [
         "developer"
       ],
-      "description": "Unofficial app for https://circleci.com/",
+      "description": "An app for https://circleci.com/",
       "source": "https://github.com/ngs/ci2go",
       "itunes": "https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427",
       "tags": [
@@ -2655,7 +2655,7 @@
       "category-ids": [
         "content"
       ],
-      "description": "Unofficial app for http://konachan.net/",
+      "description": "An app for http://konachan.net/",
       "source": "https://github.com/hkalexling/KonaBot-iOS",
       "itunes": "https://itunes.apple.com/app/konabot/id1055716649",
       "tags": [
@@ -4938,7 +4938,7 @@
       "category-ids": [
         "ionic"
       ],
-      "description": "View and collect official/unofficial Vegan food lists",
+      "description": "View & collect vegan food lists",
       "source": "https://github.com/dsgriffin/vegan-lists-uk",
       "itunes": "https://itunes.apple.com/app/vegan-lists-uk/id1083273301",
       "stars": 3,
@@ -5202,7 +5202,8 @@
     {
       "title": "F8 2016",
       "category-ids": [
-        "react-native"
+        "react-native",
+        "official"
       ],
       "tags": ["reactnative"],
       "description": "Official F8 app",
@@ -6701,7 +6702,7 @@
         "developer",
         "official"
       ],
-      "description": "[Piwik](https://piwik.org/) analytics on the go",
+      "description": "Official Piwik analytics app",
       "license": "gpl-3.0",
       "source": "https://github.com/piwik/piwik-mobile-2",
       "homepage": "https://piwik.org/mobile/",
@@ -7009,7 +7010,7 @@
         "official",
         "content"
       ],
-      "description": "awesome-swift repository official app",
+      "description": "Official awesome-swift repository app",
       "source": "https://github.com/matteocrippa/awesomeSwift-iOS-App",
       "itunes": "https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427",
       "license": "mit",
@@ -7629,12 +7630,14 @@
       "title": "RaceMe",
       "category-ids": [
         "realm",
-        "parse"
+        "parse",
+        "fitness"
       ],
       "description": "Run tracking & ghosting",
       "source": "https://github.com/enochng1/RaceMe",
       "tags": [
-        "swift"
+        "swift",
+        "parse"
       ],
       "license": "other",
       "stars": 478,
@@ -7856,7 +7859,7 @@
     },
     {
       "title": "S.I.T. (雕刻时光)",
-      "description": "Unofficial app for Chinese cafe chain [Diaokeshiguang](https://www.sitcoffee.com/)",
+      "description": "An app for Chinese cafe chain [Diaokeshiguang](https://www.sitcoffee.com/)",
       "category-ids": [
         "location"
       ],
@@ -8015,7 +8018,7 @@
         "text",
         "official"
       ],
-      "description": "Easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices. Share notes with other users to collaborate on a project together or to access the same list.",
+      "description": "Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration.",
       "source": "https://github.com/automattic/simplenote-ios",
       "itunes": "https://itunes.apple.com/app/simplenote/id289429962",
       "homepage": "https://simplenote.com/",
