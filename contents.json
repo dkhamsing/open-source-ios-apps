@@ -43,6 +43,10 @@
       "parent": "developer"
     },
     {
+      "title": "Education",
+      "id": "education"
+    },
+    {
       "title": "Emulator",
       "id": "emulator"
     },
@@ -146,10 +150,6 @@
     {
       "title": "Sample",
       "id": "sample"
-    },
-    {
-      "title": "Science",
-      "id": "science"
     },
     {
       "title": "Security",
@@ -4401,7 +4401,7 @@
     {
       "title": "iGrades",
       "category-ids": [
-        "misc"
+        "education"
       ],
       "description": "Track your class grades",
       "source": "https://github.com/maurovc/iGrades",
@@ -4541,7 +4541,7 @@
     {
       "title": "Population Clock",
       "category-ids": [
-        "clock"
+        "education"
       ],
       "description": "Learn about geography and demographics",
       "source": "https://github.com/Netfilter-Com/PopulationClock",
@@ -4683,7 +4683,7 @@
     {
       "title": "WaniKani",
       "category-ids": [
-        "misc"
+        "education"
       ],
       "description": "Learn kanji with https://www.wanikani.com/",
       "license": "gpl-3.0",
@@ -6254,8 +6254,7 @@
     {
       "title": "NumberPad",
       "category-ids": [
-        "calculator",
-        "science"
+        "calculator"
       ],
       "tags": [
         "ipad"
@@ -6300,7 +6299,7 @@
     {
       "title": "Molecules",
       "category-ids": [
-        "science"
+        "misc"
       ],
       "description": "Visualize molecules in 3D",
       "source": "http://www.sunsetlakesoftware.com/molecules",
@@ -7277,7 +7276,7 @@
     {
       "title": "My First Memory",
       "category-ids": [
-        "media",
+        "education",
         "game"
       ],
       "description": "Introduction to iOS & Swift / memory game implementation",
@@ -8117,7 +8116,7 @@
     {
       "title": "Pi",
       "category-ids": [
-        "science"
+        "education"
       ],
       "description": "Study, solve problems, formula library, calculators & more! Made by a student for students.",
       "source": "https://github.com/thepiproject/Pi-iOS",
