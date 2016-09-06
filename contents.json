@@ -2736,11 +2736,11 @@
       "suggested_by": "@pj4533"
     },
     {
-      "title": "Open Source Selfie Stick",
+      "title": "Selfie Stick",
       "category-ids": [
         "media"
       ],
-      "description": "Sync two iOS devices and use one as a remote control for the other's camera!",
+      "description": "Sync 2 devices and use one as a remote control for the other's camera",
       "license": "mpl-2.0",
       "source": "https://github.com/RF-Nelson/open-source-selfie-stick",
       "itunes": "https://itunes.apple.com/app/id1084487132",
@@ -4161,7 +4161,7 @@
     {
       "title": "A Menjar",
       "category-ids": [
-        "misc"
+        "content"
       ],
       "description": "Food menu",
       "lang": "spa",
@@ -4175,7 +4175,7 @@
     {
       "title": "bar",
       "category-ids": [
-        "misc"
+        "content"
       ],
       "description": "Cocktail menu",
       "source": "https://github.com/soffes/bar",
@@ -4546,6 +4546,7 @@
       "description": "Learn about geography and demographics",
       "source": "https://github.com/Netfilter-Com/PopulationClock",
       "itunes": "https://itunes.apple.com/app/population-clock-hd/id590689957",
+      "screenshots": ["http://a2.mzstatic.com/us/r30/Purple2/v4/23/ff/89/23ff89c0-a1ac-f9aa-faae-1a2b9180d88a/screen520x924.jpeg"],
       "stars": 6,
       "license": "other",
       "date_added": "Wed Mar 2 15:56:28 2016 -0300",
@@ -6299,7 +6300,7 @@
     {
       "title": "Molecules",
       "category-ids": [
-        "misc"
+        "content"
       ],
       "description": "Visualize molecules in 3D",
       "source": "http://www.sunsetlakesoftware.com/molecules",
@@ -7459,7 +7460,7 @@
     {
       "title": "Send To Me",
       "category-ids": [
-        "misc"
+        "extension"
       ],
       "description": "Share content to your email with a single tap",
       "source": "https://github.com/PiXeL16/SendToMe",
@@ -7522,7 +7523,7 @@
     {
       "title": "YaleMobile",
       "category-ids": [
-        "misc"
+        "content"
       ],
       "description": "App for Yale University students",
       "license": "mit",
@@ -7912,7 +7913,7 @@
     {
       "title": "Good Living Guide: home snacks, gifts, beauty, shopping..",
       "category-ids": [
-        "misc"
+        "content"
       ],
       "source": "https://github.com/hrscy/DanTang",
       "itunes": "https://itunes.apple.com/app/id1021442122",
