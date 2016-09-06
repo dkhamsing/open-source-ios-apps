@@ -19,6 +19,7 @@ Jump to
 - [Conference](#conference) 
 - [Developer](#developer) 
   - [GitHub](#github) 
+- [Education](#education) 
 - [Emulator](#emulator) 
 - [Extension](#extension) 
   - [Content Blocking](#content-blocking) 
@@ -42,7 +43,6 @@ Jump to
   - [ReactiveCocoa](#reactivecocoa) 
   - [RxSwift](#rxswift) 
 - [Sample](#sample) 
-- [Science](#science) 
 - [Security](#security) 
 - [Social](#social) 
 - [Tasks](#tasks) 
@@ -637,6 +637,33 @@ Click ► to show more details
 </details> 
 - SwiftHub: View Swift repositories on GitHub  
 <details><summary>`objc` </summary>  https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub<br>  Added May 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+
+## Education 
+ 
+[back to top](#readme) 
+ 
+- iGrades: Track your class grades [` App Store`](https://itunes.apple.com/app/id816987574)  
+<details><summary>`objc` </summary>  https://github.com/maurovc/iGrades<br>  Added March 16, 2015<br>  License: `other`
+  </details>
+</details> 
+- My First Memory: Introduction to iOS & Swift / memory game implementation  
+<details><summary>`swift` `instagram api` </summary>  https://github.com/Sajjon/SwiftIntro<br>  Added July  6, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+</details> 
+- Pi: Study, solve problems, formula library, calculators & more! Made by a student for students. [` App Store`](https://itunes.apple.com/app/pi-a-students-dream/id1117743302)  
+<details><summary>`objc` </summary>  https://github.com/thepiproject/Pi-iOS<br>  Added August 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Pi image 1' src='http://a4.mzstatic.com/us/r30/Purple60/v4/44/b7/13/44b713c0-a307-b098-f835-33f2ec471436/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Population Clock: Learn about geography and demographics [` App Store`](https://itunes.apple.com/app/population-clock-hd/id590689957)  
+<details><summary>`objc` </summary>  https://github.com/Netfilter-Com/PopulationClock<br>  Added March  2, 2016<br>  License: `other`
+  </details>
+</details> 
+- WaniKani: Learn kanji with https://www.wanikani.com/ [` App Store`](https://itunes.apple.com/app/wanikani/id1034355141)  
+<details><summary>`swift` </summary>  https://github.com/haawa799/WaniKani-iOS<br>  Added May  3, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
 
@@ -1423,10 +1450,6 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`objc` </summary>  http://git.ghostscript.com/?p=mupdf.git;a=summary<br>  http://mupdf.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
   </details>
 </details> 
-- My First Memory: Introduction to iOS & Swift / memory game implementation  
-<details><summary>`swift` `instagram api` </summary>  https://github.com/Sajjon/SwiftIntro<br>  Added July  6, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  </details>
-</details> 
 - Open Source Selfie Stick: Sync two iOS devices and use one as a remote control for the other's camera! [` App Store`](https://itunes.apple.com/app/id1084487132)  
 <details><summary>`objc` </summary>  https://github.com/RF-Nelson/open-source-selfie-stick<br>  Added February 18, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   </details>
@@ -1530,6 +1553,12 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - LidderbuchApp: Songbook for Luxembourgish Students [` App Store`](https://itunes.apple.com/app/lidderbuch/id997143407)  
 <details><summary>`swift` 🇱🇺 </summary>  https://github.com/AcelLuxembourg/LidderbuchApp<br>  Added September 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- MovieDict: Offline dictionary for international movie titles [` App Store`](https://itunes.apple.com/app/movieglot-what-do-they-call-it/id710587066)  
+<details><summary>`wikipedia` </summary>  https://github.com/lurado/MovieDict<br>  https://moviedict.info<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='MovieDict image 1' src='https://camo.githubusercontent.com/09de19622e05913567e36c75911e2dd981295036/68747470733a2f2f6d6f766965646963742e696e666f2f6970686f6e652e706e67'> 
+</div>
   </details>
 </details> 
 - movies: Movie info app  
@@ -2051,25 +2080,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 
-## Science 
- 
-[back to top](#readme) 
- 
-- Molecules: Visualize molecules in 3D [` App Store`](https://itunes.apple.com/app/molecules/id284943090)  
-<details><summary>`objc` </summary>  http://www.sunsetlakesoftware.com/molecules<br>  Added May 31, 2016<br>  License: `other`
-  </details>
-</details> 
-- NumberPad: An experimental prototype calculator  
-<details><summary>`ipad` </summary>  https://github.com/bridger/NumberPad<br>  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  </details>
-</details> 
-- Pi: Study, solve problems, formula library, calculators & more! Made by a student for students. [` App Store`](https://itunes.apple.com/app/pi-a-students-dream/id1117743302)  
-<details><summary>`objc` </summary>  https://github.com/thepiproject/Pi-iOS<br>  Added August 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Pi image 1' src='http://a4.mzstatic.com/us/r30/Purple60/v4/44/b7/13/44b713c0-a307-b098-f835-33f2ec471436/screen696x696.jpeg'> 
-</div>
-  </details>
-</details> 
-
 ## Security 
  
 [back to top](#readme) 
@@ -2251,7 +2261,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - MovieDict: Offline dictionary for international movie titles [` App Store`](https://itunes.apple.com/app/movieglot-what-do-they-call-it/id710587066)  
-<details><summary>`objc` </summary>  https://github.com/jlnr/MovieDict<br>  https://moviedict.info<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`wikipedia` </summary>  https://github.com/lurado/MovieDict<br>  https://moviedict.info<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='MovieDict image 1' src='https://camo.githubusercontent.com/09de19622e05913567e36c75911e2dd981295036/68747470733a2f2f6d6f766965646963742e696e666f2f6970686f6e652e706e67'> 
+</div>
   </details>
 </details> 
 - Smart Traveller (UberGuide): Simple & comfortable way to explore a city  
@@ -2737,16 +2749,16 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` </summary>  https://github.com/alltheflow/iCopyPasta<br>  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- iGrades: Track your class grades [` App Store`](https://itunes.apple.com/app/id816987574)  
-<details><summary>`objc` </summary>  https://github.com/maurovc/iGrades<br>  Added March 16, 2015<br>  License: `other`
-  </details>
-</details> 
 - LibreOffice Remote for Impress: Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely [` App Store`](https://itunes.apple.com/app/id806879890)  
 <details><summary>`objc` </summary>  https://cgit.freedesktop.org/libreoffice/impress_remote/<br>  Added June  2, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   </details>
 </details> 
 - Mirror++: Minimalist mirror  
 <details><summary>`swift` </summary>  https://github.com/nathunsmitty/MirrorPlusPlus<br>  Added January  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Molecules: Visualize molecules in 3D [` App Store`](https://itunes.apple.com/app/molecules/id284943090)  
+<details><summary>`objc` </summary>  http://www.sunsetlakesoftware.com/molecules<br>  Added May 31, 2016<br>  License: `other`
   </details>
 </details> 
 - my41: HP-41C/CV/CX Microcode emulator [` App Store`](https://itunes.apple.com/app/my41cx/id979041950)  
@@ -2787,10 +2799,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Vinylogue: Simple Last.fm app [` App Store`](https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119)  
 <details><summary>`objc` 🔥</summary>  https://github.com/twocentstudios/vinylogue<br>  Added January 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-  </details>
-</details> 
-- WaniKani: Learn kanji with https://www.wanikani.com/ [` App Store`](https://itunes.apple.com/app/wanikani/id1034355141)  
-<details><summary>`swift` </summary>  https://github.com/haawa799/WaniKani-iOS<br>  Added May  3, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
 - YaleMobile: App for Yale University students [` App Store`](https://itunes.apple.com/app/yale-mobile/id497588523)  
@@ -2841,10 +2849,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Natural Language Clock: Display the time as you would speak it  
 <details><summary>`swift` </summary>  https://github.com/chadkeck/Natural-Language-Clock<br>  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- Population Clock: Learn about geography and demographics [` App Store`](https://itunes.apple.com/app/population-clock-hd/id590689957)  
-<details><summary>`objc` </summary>  https://github.com/Netfilter-Com/PopulationClock<br>  Added March  2, 2016<br>  License: `other`
   </details>
 </details> 
 - SwiftTextClock: Inspired by the beautiful QlockTwo  
