@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-546-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  3, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-547-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  6, 2016-lightgrey.svg)
 
 Jump to
 
@@ -127,7 +127,7 @@ Click ► to show more details
 <details><summary>`swift` 🇳🇱 </summary>  https://github.com/jeffkreeftmeijer/UitzendingGemist<br>  Added November 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Uncle Nagy's House: Watch http://unclenagyshouse.com/ [` App Store`](https://itunes.apple.com/us/app/id1042172021)  
+- Uncle Nagy's House: Watch episodes of the sitcom http://unclenagyshouse.com/ [` App Store`](https://itunes.apple.com/us/app/id1042172021)  
 <details><summary>`tvml` `gulp` `jade` `coffeescript` </summary>  https://github.com/kenmickles/unh_tvos<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Uncle Nagy's House image 1' src='https://camo.githubusercontent.com/8d0df3c5da622d7bd153620e8e83fc544d11d48f/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f313539393832332f53637265656e73686f74253230323031352d30392d323125323032332e33392e30312e706e67'> 
 </div>
@@ -150,7 +150,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- BaiduFM: Unofficial Baidu Music app  
+- BaiduFM: A Baidu Music app  
 <details><summary>`swift` 🇨🇳 🔥🔥🔥</summary>  https://github.com/belm/BaiduFM-Swift<br>  Added August  6, 2015<br>  License: `other`
 <div><img height='300' alt='BaiduFM image 1' src='https://github.com/belm/BaiduFM-Swift/raw/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png?raw=true'> 
 </div>
@@ -276,7 +276,7 @@ Click ► to show more details
 <details><summary>`swift` 🔥🔥🔥🔥</summary>  https://github.com/kostiakoval/WatchKit-Apps<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Watchman: Hangman game  
+- Watchman: Hangman game on your wrist  
 <details><summary>`swift` `watchos2` </summary>  https://github.com/DanToml/Watchman<br>  Added October  6, 2015<br>  License: `other`
   </details>
 </details> 
@@ -387,7 +387,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Watchman: Hangman game  
+- Watchman: Hangman game on your wrist  
 <details><summary>`swift` `watchos2` </summary>  https://github.com/DanToml/Watchman<br>  Added October  6, 2015<br>  License: `other`
   </details>
 </details> 
@@ -408,6 +408,12 @@ Click ► to show more details
 </details> 
 - Antidote: A client for https://tox.chat/  
 <details><summary>`objc` 🔥</summary>  https://github.com/Antidote-for-Tox/Antidote<br>  https://antidote.im/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- AppRTC: A native video chat app  
+<details><summary>`webrtc` `google` 🔥🔥</summary>  https://github.com/ISBX/apprtc-ios<br>  Added September  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+<div><img height='300' alt='AppRTC image 1' src='https://github.com/ISBX/apprtc-ios/raw/master/screenshots/screenshots.jpg'> 
+</div>
   </details>
 </details> 
 - Be my eyes: Connect blind people with volunteer helpers via live video chat [` App Store`](https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575)  
@@ -543,7 +549,7 @@ Click ► to show more details
   </details>
 </details> 
 - AppSlate: Make your own iOS apps [` App Store`](https://itunes.apple.com/app/id511327336)  
-<details><summary>`objc` 🔥</summary>  https://github.com/Taehan-Kim/AppSlate<br>  https://www.facebook.com/AppSlate<br>  Added June  1, 2016<br>  License: `other`
+<details><summary>`iphone` `ipad` 🔥</summary>  https://github.com/Taehan-Kim/AppSlate<br>  https://www.facebook.com/AppSlate<br>  Added June  1, 2016<br>  License: `other`
   </details>
 </details> 
 - Bequest: Create and replay HTTP/S requests  
@@ -560,7 +566,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- CI2Go: Unofficial app for https://circleci.com/ [` App Store`](https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427)  
+- CI2Go: An app for https://circleci.com/ [` App Store`](https://itunes.apple.com/app/ci2go-the-circleci-client/id940028427)  
 <details><summary>`swift` </summary>  https://github.com/ngs/ci2go<br>  Added March 21, 2016<br>  License: `other`
   </details>
 </details> 
@@ -572,12 +578,12 @@ Click ► to show more details
 <details><summary>`iphone` `ipad` </summary>  https://github.com/DanilaVladi/codinator<br>  Added April 11, 2016<br>  License: `other`
   </details>
 </details> 
-- Piwik Mobile 2: [Piwik](https://piwik.org/) analytics on the go [` App Store`](https://itunes.apple.com/app/id737216887)  
+- Piwik Mobile 2: Official Piwik analytics app [` App Store`](https://itunes.apple.com/app/id737216887)  
 <details><summary>`objc` </summary>  https://github.com/piwik/piwik-mobile-2<br>  https://piwik.org/mobile/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
-- RealmVideo: Watch Realm videos & slides on your phone  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/BalestraPatrick/RealmVideo<br>  Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+- RealmVideo: Watch Realm videos & slides  
+<details><summary>`swift` `iphone` 🔥🔥</summary>  https://github.com/BalestraPatrick/RealmVideo<br>  Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Review Time: Shows average review times for iOS and Mac apps  
@@ -1039,7 +1045,7 @@ Click ► to show more details
 <details><summary>`objc` 🇨🇳 </summary>  https://github.com/WelkinXie/FiveInARow<br>  Added May  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- GrubbyWorm: A simple digital worm game  
+- GrubbyWorm: Simple digital worm game  
 <details><summary>`swift` `swift2` `ios9` `spritekit` `gameplaykit` `replaykit` </summary>  https://github.com/gamechina/GrubbyWorm<br>  Added January 23, 2016<br>  License: `other`
   </details>
 </details> 
@@ -1101,6 +1107,10 @@ Click ► to show more details
 </details> 
 - LogU: Simple logging app for strength athletes [` App Store`](https://itunes.apple.com/app/logu-a-strength-logger/id1084487510)  
 <details><summary>`swift` </summary>  https://github.com/brettalcox/logU-swift<br>  Added April 11, 2016<br>  License: `other`
+  </details>
+</details> 
+- RaceMe: Run tracking & ghosting  
+<details><summary>`swift` `parse` 🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
   </details>
 </details> 
 - rTracker: A generic, customizable personal data tracker [` App Store`](https://itunes.apple.com/app/rtracker-track-it-all-your-way/id486541371)  
@@ -1282,7 +1292,7 @@ Click ► to show more details
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/prey/prey-ios-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
-- S.I.T. (雕刻时光): Unofficial app for Chinese cafe chain [Diaokeshiguang](https://www.sitcoffee.com/) [` App Store`](https://itunes.apple.com/app/diao-ke-shi-guang/id440983941)  
+- S.I.T. (雕刻时光): An app for Chinese cafe chain [Diaokeshiguang](https://www.sitcoffee.com/) [` App Store`](https://itunes.apple.com/app/diao-ke-shi-guang/id440983941)  
 <details><summary>`objc` 🇨🇳 </summary>  https://github.com/flexih/Cafe<br>  Added April 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='S.I.T. (雕刻时光) image 1' src='https://github.com/flexih/Cafe/raw/master/snapshot/1.png'> 
 </div>
@@ -1492,7 +1502,7 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/artsy/eigen<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Awesome Swift iOS App: awesome-swift repository official app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427)  
+- Awesome Swift iOS App: Official awesome-swift repository app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427)  
 <details><summary>`swift` </summary>  https://github.com/matteocrippa/awesomeSwift-iOS-App<br>  Added June 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -1514,7 +1524,7 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`swift` </summary>  https://github.com/kiwix/iOS<br>  http://www.kiwix.org/wiki/Main_Page<br>  Added June  2, 2016<br>  License: `other`
   </details>
 </details> 
-- KonaBot: Unofficial app for http://konachan.net/ [` App Store`](https://itunes.apple.com/app/konabot/id1055716649)  
+- KonaBot: An app for http://konachan.net/ [` App Store`](https://itunes.apple.com/app/konabot/id1055716649)  
 <details><summary>`swift` </summary>  https://github.com/hkalexling/KonaBot-iOS<br>  Added December  3, 2015<br>  License: `other`
   </details>
 </details> 
@@ -1578,8 +1588,8 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`objc` 🇯🇵 </summary>  https://github.com/anzfactory/QiitaCollection<br>  Added October 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- RealmVideo: Watch Realm videos & slides on your phone  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/BalestraPatrick/RealmVideo<br>  Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+- RealmVideo: Watch Realm videos & slides  
+<details><summary>`swift` `iphone` 🔥🔥</summary>  https://github.com/BalestraPatrick/RealmVideo<br>  Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - SoundCloudSwift: SoundCloud app  
@@ -1752,7 +1762,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Awesome Swift iOS App: awesome-swift repository official app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427)  
+- Awesome Swift iOS App: Official awesome-swift repository app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427)  
 <details><summary>`swift` </summary>  https://github.com/matteocrippa/awesomeSwift-iOS-App<br>  Added June 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -1762,6 +1772,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - DuckDuckGo: Official DuckDuckGo app [` App Store`](https://itunes.apple.com/app/duckduckgo-search-stories/id663592361)  
 <details><summary>`objc` 🔥</summary>  https://github.com/duckduckgo/ios<br>  Added March 17, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+</details> 
+- F8 2016: Official F8 app  
+<details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/fbsamples/f8app<br>  Added April 14, 2016<br>  License: `other`
+<div><img height='300' alt='F8 2016 image 1' src='https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png'> 
+</div>
   </details>
 </details> 
 - Firefox: Official Firefox app [` App Store`](https://itunes.apple.com/app/firefox-web-browser/id989804926)  
@@ -1784,7 +1800,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Piwik Mobile 2: [Piwik](https://piwik.org/) analytics on the go [` App Store`](https://itunes.apple.com/app/id737216887)  
+- Piwik Mobile 2: Official Piwik analytics app [` App Store`](https://itunes.apple.com/app/id737216887)  
 <details><summary>`objc` </summary>  https://github.com/piwik/piwik-mobile-2<br>  https://piwik.org/mobile/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
@@ -1796,7 +1812,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` </summary>  https://github.com/WWDCScholars/WWDCScholars-iOS<br>  http://wwdcscholars.com/<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Simplenote: Easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices. Share notes with other users to collaborate on a project together or to access the same list. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962)  
+- Simplenote: Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962)  
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/automattic/simplenote-ios<br>  https://simplenote.com/<br>  Added August 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <div><img height='300' alt='Simplenote image 1' src='https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg'> 
 </div>
@@ -2205,7 +2221,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/likumb/SimpleMemo<br>  Added August 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Simplenote: Easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices. Share notes with other users to collaborate on a project together or to access the same list. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962)  
+- Simplenote: Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962)  
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/automattic/simplenote-ios<br>  https://simplenote.com/<br>  Added August 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <div><img height='300' alt='Simplenote image 1' src='https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg'> 
 </div>
@@ -2373,7 +2389,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` 🔥</summary>  https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
   </details>
 </details> 
-- Vegan Lists UK: View and collect official/unofficial Vegan food lists [` App Store`](https://itunes.apple.com/app/vegan-lists-uk/id1083273301)  
+- Vegan Lists UK: View & collect vegan food lists [` App Store`](https://itunes.apple.com/app/vegan-lists-uk/id1083273301)  
 <details><summary>`objc` </summary>  https://github.com/dsgriffin/vegan-lists-uk<br>  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -2427,7 +2443,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - RaceMe: Run tracking & ghosting  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
+<details><summary>`swift` `parse` 🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
   </details>
 </details> 
 - Wizard War: Cast spells in single or multiplayer wizard duels  
@@ -2605,7 +2621,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - RaceMe: Run tracking & ghosting  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
+<details><summary>`swift` `parse` 🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
   </details>
 </details> 
 - RealmToDo: A small to-do list with Realm integration  
