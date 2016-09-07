@@ -6827,13 +6827,21 @@
     {
       "title": "Encryptr",
       "category-ids": [
-        "security"
+        "security",
+        "finance",
+        "special"
+      ],
+      "tags": [
+        "cordova",
+        "grunt",
+        "node"
       ],
       "description": "A zero-knowledge, cloud-based e-wallet and password manager",
       "license": "gpl-3.0",
       "source": "https://github.com/SpiderOak/Encryptr",
       "homepage": "https://spideroak.com/solutions/encryptr",
       "itunes": "https://itunes.apple.com/app/id1066041348",
+      "screenshots": ["http://a1.mzstatic.com/us/r30/Purple49/v4/cc/ab/0f/ccab0fca-197f-56c0-c265-4b73c99e4ef8/screen696x696.jpeg"],
       "stars": 1262,
       "date_added": "Thu Jun 2 00:33:10 2016 -0600",
       "suggested_by": "@scribblemaniac"
