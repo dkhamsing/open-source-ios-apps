@@ -6856,6 +6856,9 @@
       "category-ids": [
         "browser"
       ],
+      "tags": [
+        "tor"
+      ],
       "description": "A Tor-powered web browser that improves your privacy",
       "source": "https://github.com/mtigas/iOS-OnionBrowser",
       "homepage": "https://mike.tig.as/onionbrowser/",
