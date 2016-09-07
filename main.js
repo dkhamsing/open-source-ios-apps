@@ -1,21 +1,8 @@
 var themes = [{ name: "Cerulean", description: "A calm blue sky" }, { name: "Cosmo", description: "An ode to Metro" }, { name: "Cyborg", description: "Jet black and electric blue" }, { name: "Darkly", description: "Flatly in night mode" }, { name: "Flatly", description: "Flat and modern" }, { name: "Journal", description: "Crisp like a new sheet of paper" }, { name: "Lumen", description: "Light and shadow" }, { name: "Paper", description: "Material is the metaphor" }, { name: "Readable", description: "Optimized for legibility" }, { name: "Sandstone", description: "A touch of warmth" }, { name: "Simplex", description: "Mini and minimalist" }, { name: "Slate", description: "Shades of gunmetal gray" }, { name: "Spacelab", description: "Silvery and sleek" }, { name: "Superhero", description: "The brave and the blue" }, { name: "United", description: "Ubuntu orange and unique font" }, { name: "Yeti", description: "A friendly foundation" }];
-var previewTheme = null;
 var _settings = {};
 
 function updateNavigationPadding() {
     $(document.body).css("padding-top", $("#main-nav").outerHeight() + 15);
-}
-
-function cancelSettings() {
-	console.log("cancel");
-	// Remove the preview theme and restore the current theme
-	if(previewTheme != null) {
-		previewTheme = null;
-		var currentTheme = loadSetting("theme");
-		$("#bootstrap-theme").attr("href", "https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/" + currentTheme.toLowerCase() + "/bootstrap.min.css");
-		$(".theme-item.panel-primary").removeClass("panel-primary").addClass("panel-default");
-		$(".theme-item[name=" + currentTheme + "]").removeClass("panel-default").addClass("panel-primary");
-	}
 }
 
 function loadSetting(key) {
@@ -59,17 +46,6 @@ function saveSetting(key, value) {
 		expiry.setFullYear(expiry.getFullYear() + 1);
 		document.cookie = key + "=" + value + ";path='/';expires=" + expiry; 
 	}
-}
-
-function saveSettings() {
-	// Keep the preview theme (if there is one)
-	if(previewTheme != null) {
-		saveSetting("theme", previewTheme);
-		previewTheme = null;
-	}
-	
-	// Hide modal dialog
-	$("#settings").modal("hide");
 }
 
 function starString(starCount) {
@@ -300,8 +276,9 @@ $(document).ready(function() {
 		$(".theme-item").click(function() {
 			$(".theme-item.panel-primary").removeClass("panel-primary").addClass("panel-default");
 			$(this).removeClass("panel-default").addClass("panel-primary");
-			previewTheme = $(this).attr("name");
-			$("#bootstrap-theme").attr("href", "https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/" + previewTheme.toLowerCase() + "/bootstrap.min.css");
+			var newTheme = $(this).attr("name");
+			$("#bootstrap-theme").attr("href", "https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/" + newTheme.toLowerCase() + "/bootstrap.min.css");
+			saveSetting("theme", newTheme);
 		});
 		
 		// Add tooltips
@@ -309,10 +286,6 @@ $(document).ready(function() {
 		
 		// Open settings dialog when the button is pressed
 		$("#setting-button").click(function() { $("#settings").modal("show"); });
-		// Register save settings
-		$("#save-settings").click(saveSettings);
-		// Register modal close handler
-		$("#settings").on("hide.bs.modal", cancelSettings);
 	}, "json").fail(function() {
 		// TODO Handle error gracefully
 	});
