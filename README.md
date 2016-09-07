@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-547-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  6, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-548-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  7, 2016-lightgrey.svg)
 
 Jump to
 
@@ -330,7 +330,7 @@ Click ► to show more details
   </details>
 </details> 
 - Onion Browser: A Tor-powered web browser that improves your privacy [` App Store`](https://itunes.apple.com/app/id519296448)  
-<details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/mtigas/iOS-OnionBrowser<br>  https://mike.tig.as/onionbrowser/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`tor` 🔥🔥🔥</summary>  https://github.com/mtigas/iOS-OnionBrowser<br>  https://mike.tig.as/onionbrowser/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Onion Browser image 1' src='http://a4.mzstatic.com/us/r30/Purple42/v4/7c/3c/cc/7c3ccc4e-77c8-799a-9058-4b8672c71a08/screen696x696.jpeg'> 
 </div>
   </details>
@@ -660,6 +660,8 @@ Click ► to show more details
 </details> 
 - Population Clock: Learn about geography and demographics [` App Store`](https://itunes.apple.com/app/population-clock-hd/id590689957)  
 <details><summary>`objc` </summary>  https://github.com/Netfilter-Com/PopulationClock<br>  Added March  2, 2016<br>  License: `other`
+<div><img height='300' alt='Population Clock image 1' src='http://a2.mzstatic.com/us/r30/Purple2/v4/23/ff/89/23ff89c0-a1ac-f9aa-faae-1a2b9180d88a/screen520x924.jpeg'> 
+</div>
   </details>
 </details> 
 - WaniKani: Learn kanji with https://www.wanikani.com/ [` App Store`](https://itunes.apple.com/app/wanikani/id1034355141)  
@@ -730,6 +732,10 @@ Click ► to show more details
 </details> 
 - Post Manager: Post/schedule Twitter posts like Buffer with node.js backend & Share Extension  
 <details><summary>`swift` </summary>  https://github.com/TomekB/PostManager<br>  Added July 15, 2016<br>  License: `other`
+  </details>
+</details> 
+- Send To Me: Share content to your email with a single tap [` App Store`](https://itunes.apple.com/app/id1100027787)  
+<details><summary>`swift` </summary>  https://github.com/PiXeL16/SendToMe<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 
@@ -1450,10 +1456,6 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`objc` </summary>  http://git.ghostscript.com/?p=mupdf.git;a=summary<br>  http://mupdf.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
   </details>
 </details> 
-- Open Source Selfie Stick: Sync two iOS devices and use one as a remote control for the other's camera! [` App Store`](https://itunes.apple.com/app/id1084487132)  
-<details><summary>`objc` </summary>  https://github.com/RF-Nelson/open-source-selfie-stick<br>  Added February 18, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
-  </details>
-</details> 
 - Pictograph: Hide messages in images with steganography [` App Store`](https://itunes.apple.com/us/app/id1051879856)  
 <details><summary>`swift` </summary>  https://github.com/MrAdamBoyd/Pictograph<br>  Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1484,6 +1486,10 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`iphone` </summary>  https://github.com/LaunchKit/screenshotter<br>  Added July 28, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div><img height='300' alt='screenshotter image 1' src='https://camo.githubusercontent.com/ab02fd356e17f9d3de7ebdb367a08ef97f279c4c/687474703a2f2f73637265656e73686f747465722e6e65742f6c69622f696d616765732f6970686f6e652e706e67'> 
 </div>
+  </details>
+</details> 
+- Selfie Stick: Sync 2 devices and use one as a remote control for the other's camera [` App Store`](https://itunes.apple.com/app/id1084487132)  
+<details><summary>`objc` </summary>  https://github.com/RF-Nelson/open-source-selfie-stick<br>  Added February 18, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   </details>
 </details> 
 - Swift Radio Pro: Professional radio station app  
@@ -1521,12 +1527,20 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- A Menjar: Food menu [` App Store`](https://itunes.apple.com/app/a-menjar!/id816473131)  
+<details><summary>`objc` 🇪🇸 </summary>  https://github.com/maurovc/aMenjar<br>  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
 - Artsy: The Art World in Your Pocket [` App Store`](https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/artsy/eigen<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Awesome Swift iOS App: Official awesome-swift repository app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427)  
 <details><summary>`swift` </summary>  https://github.com/matteocrippa/awesomeSwift-iOS-App<br>  Added June 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- bar: Cocktail menu  
+<details><summary>`swift` </summary>  https://github.com/soffes/bar<br>  Added January 26, 2015<br>  License: `other`
   </details>
 </details> 
 - ChineseZodiac  
@@ -1543,6 +1557,10 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`flickr api` </summary>  https://github.com/alikaragoz/Flickr-Search<br>  Added February  4, 2015<br>  License: `other`
   </details>
 </details> 
+- Good Living Guide: home snacks, gifts, beauty, shopping.. [` App Store`](https://itunes.apple.com/app/id1021442122)  
+<details><summary>`swift` 🇨🇳 🔥🔥</summary>  https://github.com/hrscy/DanTang<br>  Added August  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
 - Kiwix: An offline reader for Wikipedia (& many other websites) [` App Store`](https://itunes.apple.com/app/id997079563)  
 <details><summary>`swift` </summary>  https://github.com/kiwix/iOS<br>  http://www.kiwix.org/wiki/Main_Page<br>  Added June  2, 2016<br>  License: `other`
   </details>
@@ -1553,6 +1571,10 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - LidderbuchApp: Songbook for Luxembourgish Students [` App Store`](https://itunes.apple.com/app/lidderbuch/id997143407)  
 <details><summary>`swift` 🇱🇺 </summary>  https://github.com/AcelLuxembourg/LidderbuchApp<br>  Added September 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Molecules: Visualize molecules in 3D [` App Store`](https://itunes.apple.com/app/molecules/id284943090)  
+<details><summary>`objc` </summary>  http://www.sunsetlakesoftware.com/molecules<br>  Added May 31, 2016<br>  License: `other`
   </details>
 </details> 
 - MovieDict: Offline dictionary for international movie titles [` App Store`](https://itunes.apple.com/app/movieglot-what-do-they-call-it/id710587066)  
@@ -1653,6 +1675,10 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - xkcd Open Source: An xkcd comic reader [` App Store`](https://itunes.apple.com/app/xkcd-open-source/id995811425)  
 <details><summary>`objc` 🔥</summary>  https://github.com/mamaral/xkcd-Open-Source<br>  Added June  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- YaleMobile: App for Yale University students [` App Store`](https://itunes.apple.com/app/yale-mobile/id497588523)  
+<details><summary>`objc` </summary>  https://github.com/kiokoo/YaleMobile<br>  Added July 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 
@@ -2098,6 +2124,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - FreeOTP Authenticator: Two-Factor Authentication [` App Store`](https://itunes.apple.com/app/freeotp/id872559395)  
 <details><summary>`objc` </summary>  https://fedorahosted.org/freeotp/browser/ios<br>  Added March 11, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+</details> 
+- iCepa: System-wide VPN based Tor client  
+<details><summary>`swift` `tor` 🔥</summary>  https://github.com/iCepa/iCepa<br>  Added September  7, 2016<br>  License: `other`
   </details>
 </details> 
 - MasterPassword: Stateless password management solution [` App Store`](https://itunes.apple.com/app/id510296984)  
@@ -2689,14 +2719,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- A Menjar: Food menu [` App Store`](https://itunes.apple.com/app/a-menjar!/id816473131)  
-<details><summary>`objc` 🇪🇸 </summary>  https://github.com/maurovc/aMenjar<br>  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- bar: Cocktail menu  
-<details><summary>`swift` </summary>  https://github.com/soffes/bar<br>  Added January 26, 2015<br>  License: `other`
-  </details>
-</details> 
 - BlogQuest: Alternative Tumblr client  
 <details><summary>`objc` </summary>  https://github.com/irace/BlogQuest<br>  Added March 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2723,10 +2745,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - GammaThingy: Change screen gamma dynamically  
 <details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/thomasfinch/GammaThingy<br>  Added November 21, 2015<br>  License: `other`
-  </details>
-</details> 
-- Good Living Guide: home snacks, gifts, beauty, shopping.. [` App Store`](https://itunes.apple.com/app/id1021442122)  
-<details><summary>`swift` 🇨🇳 🔥🔥</summary>  https://github.com/hrscy/DanTang<br>  Added August  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - GoodNight: Change screen gamma dynamically  
@@ -2757,10 +2775,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` </summary>  https://github.com/nathunsmitty/MirrorPlusPlus<br>  Added January  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Molecules: Visualize molecules in 3D [` App Store`](https://itunes.apple.com/app/molecules/id284943090)  
-<details><summary>`objc` </summary>  http://www.sunsetlakesoftware.com/molecules<br>  Added May 31, 2016<br>  License: `other`
-  </details>
-</details> 
 - my41: HP-41C/CV/CX Microcode emulator [` App Store`](https://itunes.apple.com/app/my41cx/id979041950)  
 <details><summary>`objc` </summary>  https://github.com/mperovic/my41<br>  Added February 19, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
@@ -2781,10 +2795,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` </summary>  https://github.com/haiwen/seafile-iOS<br>  https://www.seafile.com/en/home/<br>  Added June  1, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 </details> 
-- Send To Me: Share content to your email with a single tap [` App Store`](https://itunes.apple.com/app/id1100027787)  
-<details><summary>`swift` </summary>  https://github.com/PiXeL16/SendToMe<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
 - Swiflytics: See your realtime Google Analytics data [` App Store`](https://itunes.apple.com/app/swiflytics/id1076165139)  
 <details><summary>`swift` </summary>  https://github.com/aciidb0mb3r/Swiflytics<br>  Added April 26, 2016<br>  License: `other`
   </details>
@@ -2799,10 +2809,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Vinylogue: Simple Last.fm app [` App Store`](https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119)  
 <details><summary>`objc` 🔥</summary>  https://github.com/twocentstudios/vinylogue<br>  Added January 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-  </details>
-</details> 
-- YaleMobile: App for Yale University students [` App Store`](https://itunes.apple.com/app/yale-mobile/id497588523)  
-<details><summary>`objc` </summary>  https://github.com/kiokoo/YaleMobile<br>  Added July 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Yorkie: Helps you take care of your dog [` App Store`](https://itunes.apple.com/app/Yorkie/id1000836606)  
