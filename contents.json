@@ -8168,6 +8168,17 @@
       "stars": 389,
       "date_added": "Sep 6 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "iCepa",
+      "source": "https://github.com/iCepa/iCepa",
+      "tags": ["swift", "tor"],
+      "description": "System-wide VPN based Tor client",
+      "category-ids": ["security"],
+      "license": "other",
+      "stars": 174,
+      "date_added": "Sep 7 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
