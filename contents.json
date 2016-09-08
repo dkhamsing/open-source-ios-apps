@@ -8222,6 +8222,19 @@
       "stars": 174,
       "date_added": "Sep 7 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Protocol-Oriented MVVM Examples",
+      "category-ids": ["sample"],
+      "tags": ["swift"],
+      "date_added": "Sep 9 2016",
+      "source": "https://github.com/vanyaland/MVVM-Example",
+      "license": "mit",
+      "screenshots": [
+        "https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png",
+        "https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png",
+        "https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png"
+      ]
     }
   ]
 }
