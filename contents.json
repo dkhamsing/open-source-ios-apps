@@ -281,8 +281,7 @@
     {
       "title": "EX Player",
       "category-ids": [
-        "apple-tv",
-        "media"
+        "apple-tv"
       ],
       "description": "Watch videos from EX.UA file sharing",
       "license": "lgpl-2.1",
@@ -2494,9 +2493,11 @@
     {
       "title": "Artsy",
       "category-ids": [
-        "content"
+        "content",
+        "reactivecocoa"
       ],
-      "description": "The Art World in Your Pocket",
+      "tags": ["iphone", "ipad", "afnetworking", "mantle", "cocoapodskeys", "reactivecocoa"],
+      "description": "The art world in your pocket",
       "license": "mit",
       "source": "https://github.com/artsy/eigen",
       "itunes": "https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080",
@@ -2507,7 +2508,7 @@
     {
       "title": "Artsy Folio",
       "category-ids": [
-        "media"
+        "content"
       ],
       "description": "Artwork showcase",
       "license": "mit",
@@ -2619,7 +2620,8 @@
       "source": "https://github.com/FlexMonkey/Filterpedia",
       "stars": 1369,
       "tags": [
-        "swift"
+        "swift",
+        "coreimage"
       ],
       "license": "other",
       "date_added": "Thu Jan 7 06:59:10 2016 -0800",
@@ -2933,11 +2935,13 @@
       "category-ids": [
         "media"
       ],
-      "description": "CoreMotion Controlled Drawing in 3D Space",
+      "description": "Gyroscope driven drawing in 3D space",
       "source": "https://github.com/FlexMonkey/SwiftSpace",
       "tags": [
-        "swift"
+        "swift",
+        "coremotion"
       ],
+      "screenshots": ["http://i.imgur.com/6khfaX6.png"],
       "stars": 99,
       "license": "other",
       "date_added": "Tue Sep 1 06:16:11 2015 -0700",
@@ -7628,7 +7632,7 @@
       "category-ids": [
         "misc"
       ],
-      "description": "Hackfoldr is your hacking briefcase, share all your project documents with a url",
+      "description": "Share all your project documents with a link",
       "source": "https://github.com/hackfoldr/hackfoldr-iOS",
       "homepage": "https://hackfoldr.org",
       "itunes": "https://itunes.apple.com/app/hackfoldr/id919010837",
