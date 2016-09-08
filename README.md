@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-548-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  8, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-549-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  8, 2016-lightgrey.svg)
 
 Jump to
 
@@ -2089,6 +2089,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Polls: App for Polls API by Apiary  
 <details><summary>`swift` </summary>  https://github.com/apiaryio/polls-app<br>  Added June 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Protocol-Oriented MVVM Examples  
+<details><summary>`swift` </summary>  https://github.com/vanyaland/MVVM-Example<br>  Added September  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Protocol-Oriented MVVM Examples image 1' src='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png'> <img height='300' alt='Protocol-Oriented MVVM Examples image 2' src='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png'> <img height='300' alt='Protocol-Oriented MVVM Examples image 3' src='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png'> 
+</div>
   </details>
 </details> 
 - ReactiveKitten: It's about GIFs & cats  
