@@ -110,6 +110,11 @@
       "description": "Image, video, audio, reading"
     },
     {
+      "title": "Audio",
+      "id": "audio",
+      "parent": "media"
+    },
+    {
       "title": "Content",
       "id": "content",
       "parent": "media"
@@ -2476,7 +2481,7 @@
     {
       "title": "Analog Synth X",
       "category-ids": [
-        "media"
+        "audio"
       ],
       "description": "Analog synthesizer keyboard music app",
       "source": "http://matthewfecher.com/app-developement/swift-synth/",
@@ -2563,7 +2568,7 @@
     {
       "title": "DoubanFM",
       "category-ids": [
-        "media"
+        "audio"
       ],
       "tags": [
         "afnetworking",
@@ -2643,7 +2648,7 @@
     {
       "title": "FreeStreamer",
       "category-ids": [
-        "media"
+        "audio"
       ],
       "description": "A low-memory footprint streaming audio player",
       "source": "https://github.com/muhku/FreeStreamer",
@@ -2916,7 +2921,7 @@
     {
       "title": "Swift Radio Pro",
       "category-ids": [
-        "media"
+        "audio"
       ],
       "description": "Professional radio station app",
       "license": "mit",
@@ -3025,7 +3030,7 @@
     {
       "title": "VoiceMemos",
       "category-ids": [
-        "media"
+        "audio"
       ],
       "tags": [
         "iphone",
@@ -6029,9 +6034,9 @@
     {
       "title": "MiamiSunglasses",
       "category-ids": [
-        "media"
+        "audio"
       ],
-      "description": "Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH)",
+      "description": "Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation (YEAAAAAAAAAAHH)",
       "source": "https://github.com/DeveloperACE/MiamiSunglasses",
       "tags": [
         "swift"
@@ -6632,7 +6637,7 @@
     {
       "title": "Radio Paradise",
       "category-ids": [
-        "media",
+        "audio",
         "official"
       ],
       "description": "Official app for http://www.radioparadise.com/",
