@@ -190,11 +190,6 @@
       "id": "special"
     },
     {
-      "title": "3D Touch",
-      "id": "3d-touch",
-      "parent": "special"
-    },
-    {
       "title": "Appcelerator",
       "id": "appcelerator",
       "parent": "special"
@@ -242,6 +237,11 @@
     {
       "title": "Misc",
       "id": "misc"
+    },
+    {
+      "title": "3D Touch",
+      "id": "3d-touch",
+      "parent": "misc"
     },
     {
       "title": "Calculator",
@@ -507,7 +507,7 @@
         "apple-watch",
         "realm"
       ],
-      "description": "To-do list data sharing between extension and main app",
+      "description": "To-do list data sharing between extension & main app",
       "license": "mit",
       "source": "https://github.com/FancyPixel/done-swift",
       "tags": [
@@ -537,9 +537,10 @@
     {
       "title": "GrandCentralBoard",
       "category-ids": [
-        "apple-watch"
+        "apple-tv",
+        "rxswift"
       ],
-      "description": "Hang a TV in your open space / team room to show everyone what's up and get them up to speed",
+      "description": "Hang a TV in your open space / team room to show everyone what's up & get them up to speed",
       "license": "gpl-3.0",
       "source": "https://github.com/macoscope/GrandCentralBoard",
       "screenshots": [
@@ -547,7 +548,9 @@
       ],
       "stars": 185,
       "tags": [
-        "swift"
+        "swift",
+        "alamofire",
+        "rxswift"
       ],
       "date_added": "Fri Apr 29 07:55:20 2016 -0700",
       "suggested_by": "@dkhamsing"
@@ -888,7 +891,7 @@
       "category-ids": [
         "browser"
       ],
-      "description": "Web browser built with privacy and security in mind",
+      "description": "Web browser built with privacy & security in mind",
       "source": "https://github.com/jcs/endless",
       "itunes": "https://itunes.apple.com/app/endless-browser/id974745755",
       "stars": 72,
@@ -1070,7 +1073,7 @@
       "category-ids": [
         "communication"
       ],
-      "description": "Secures all messages, uses end-to-end encryption",
+      "description": "Secures all messages with end-to-end encryption",
       "source": "https://github.com/surespot/surespot-ios",
       "itunes": "https://itunes.apple.com/app/surespot/id790314865",
       "stars": 48,
@@ -1161,11 +1164,13 @@
       "suggested_by": "Ehsan Jahromi"
     },
     {
-      "title": "try! Swift",
+      "title": "try!",
       "category-ids": [
-        "conference"
+        "conference",
+        "apple-watch"
       ],
       "source": "https://github.com/tryswift/trySwiftApp",
+      "screenshots": ["http://a2.mzstatic.com/us/r30/Purple49/v4/18/81/9f/18819f2d-1bb8-feeb-bb22-89bbe85d6516/screen696x696.jpeg"],
       "stars": 368,
       "tags": [
         "swift"
@@ -1258,7 +1263,7 @@
       "category-ids": [
         "developer"
       ],
-      "description": "Create and replay HTTP/S requests",
+      "description": "Create & replay HTTP/S requests",
       "source": "https://github.com/splinesoft/Bequest",
       "tags": [
         "swift"
@@ -1325,7 +1330,7 @@
       "category-ids": [
         "developer"
       ],
-      "description": "Shows average review times for iOS and Mac apps",
+      "description": "Shows average review times for iOS & Mac apps",
       "license": "mit",
       "source": "https://github.com/nthegedus/ReviewTime",
       "stars": 127,
@@ -1599,7 +1604,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "Cute and sweet shooting game",
+      "description": "Cute & sweet shooting game",
       "source": "https://github.com/etamity/AlienBlast",
       "itunes": "https://itunes.apple.com/app/id1098323034",
       "license": "mit",
@@ -1723,7 +1728,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "A game of dungeon exploration, combat and magic, involving characters of diverse skills",
+      "description": "A game of dungeon exploration, combat & magic, involving characters of diverse skills",
       "homepage": "https://github.com/CliffsDover/crawl/tree/iOS_Release",
       "source": "https://github.com/CliffsDover/crawl",
       "license": "gpl-2.0",
@@ -2083,7 +2088,7 @@
       "category-ids": [
         "researchkit"
       ],
-      "description": "Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk",
+      "description": "Personalized tool that can help you measure daily activity, fitness, & cardiovascular risk",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/MyHeartCounts",
       "itunes": "https://itunes.apple.com/app/id972189947",
@@ -2151,7 +2156,8 @@
       "category-ids": [
         "keyboard"
       ],
-      "description": "Brings back the classic iPod click wheel as a keyboard for iOS 8",
+      "tags": ["ios8"],
+      "description": "Brings back the classic iPod click wheel as a keyboard",
       "source": "https://github.com/b3ll/ClickWheelKeyboard",
       "itunes": "https://itunes.apple.com/app/click-wheel-keyboard/id993111285",
       "stars": 24,
@@ -2348,7 +2354,7 @@
       "category-ids": [
         "location"
       ],
-      "description": "Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more",
+      "description": "Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, & more",
       "license": "apache-2.0",
       "source": "https://github.com/OneBusAway/onebusaway-iphone",
       "itunes": "https://itunes.apple.com/app/onebusaway/id329380089",
@@ -2361,7 +2367,7 @@
       "category-ids": [
         "location"
       ],
-      "description": "Keep track of your own location, you can build your private location diary or share it with your family and friends",
+      "description": "Keep track of your own location, you can build your private location diary or share it with your family & friends",
       "source": "https://github.com/owntracks/ios",
       "stars": 96,
       "license": "other",
@@ -2373,7 +2379,7 @@
       "category-ids": [
         "location"
       ],
-      "description": "Check the status of several public parking lots in Germany and Switzerland",
+      "description": "Check the status of several public parking lots in Germany & Switzerland",
       "license": "mit",
       "source": "https://github.com/kiliankoe/ParkenDD",
       "itunes": "https://itunes.apple.com/app/parkendd/id957165041",
@@ -2416,7 +2422,7 @@
       "category-ids": [
         "location"
       ],
-      "description": "Discover new startups and locate co-working spaces",
+      "description": "Discover new startups & locate co-working spaces",
       "license": "mit",
       "source": "https://github.com/sugarso/MappedInIsrael",
       "stars": 22,
@@ -2752,7 +2758,7 @@
       "category-ids": [
         "media"
       ],
-      "description": "Sync 2 devices and use one as a remote control for the other's camera",
+      "description": "Sync 2 devices & use one as a remote control for the other's camera",
       "license": "mpl-2.0",
       "source": "https://github.com/RF-Nelson/open-source-selfie-stick",
       "itunes": "https://itunes.apple.com/app/id1084487132",
@@ -2781,7 +2787,7 @@
       "category-ids": [
         "gif"
       ],
-      "description": "House all your favorite GIFs and easily share them with your friends & family",
+      "description": "House all your favorite GIFs, easily share them with your friends & family",
       "license": "mit",
       "source": "https://github.com/thoughtbot/poppins",
       "itunes": "https://itunes.apple.com/app/poppins/id978854068",
@@ -2797,7 +2803,7 @@
       "category-ids": [
         "content"
       ],
-      "description": "Listen to any song from phish.in and view concert ratings and reviews from phish.net",
+      "description": "Listen to any song from phish.in, view concert ratings & reviews from phish.net",
       "source": "https://github.com/alecgorge/PhishOD-iOS",
       "itunes": "https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018",
       "stars": 34,
@@ -2825,7 +2831,7 @@
       "category-ids": [
         "video"
       ],
-      "description": "Record a 6 second video while playing prank sounds",
+      "description": "Record a 6-second video while playing prank sounds",
       "source": "https://github.com/huijimuhe/prankPro",
       "stars": 254,
       "license": "mit",
@@ -3415,7 +3421,7 @@
       "tags": [
         "fabric"
       ],
-      "description": "Fun way to create and share stories and poems",
+      "description": "Fun way to create / share stories & poems",
       "license": "apache-2.0",
       "source": "https://github.com/twitterdev/cannonball-ios",
       "itunes": "https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075",
@@ -3553,7 +3559,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Use Accelerometer and background mode to create a feature of knocking your phone",
+      "description": "Use Accelerometer & background mode to create a feature of knocking your phone",
       "source": "https://github.com/MatheusCavalca/Knock",
       "stars": 12,
       "license": "mit",
@@ -3635,12 +3641,17 @@
     {
       "title": "Reusable Code",
       "category-ids": [
-        "sample"
+        "sample",
+        "core-data"
       ],
       "source": "https://github.com/carlbtrn/Swift",
       "stars": 2545,
       "tags": [
-        "swift"
+        "swift",
+        "airdrop",
+        "avfoundation",
+        "coreanimation",
+        "coreimage"
       ],
       "license": "mit",
       "date_added": "Fri Apr 22 11:01:36 2016 -0700",
@@ -3698,7 +3709,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "State preservation and restoration APIs",
+      "description": "State preservation & restoration APIs",
       "source": "https://github.com/shagedorn/StateRestorationDemo",
       "tags": [
         "swift"
@@ -3794,7 +3805,7 @@
       "category-ids": [
         "social"
       ],
-      "description": "Discover and track anime",
+      "description": "Discover & track anime",
       "source": "https://github.com/opensourceios/Aozora",
       "itunes": "https://itunes.apple.com/app/aozora-anime-community-track/id1017433045",
       "tags": [
@@ -3823,7 +3834,7 @@
       "category-ids": [
         "social"
       ],
-      "description": "Is a collaborative global community that connects street musicians, fans and videomakers",
+      "description": "Is a collaborative global community that connects street musicians, fans & videomakers",
       "source": "https://github.com/henriquevelloso/StreetMusicMap",
       "itunes": "https://itunes.apple.com/app/street-music-map/id980068735",
       "stars": 3,
@@ -3836,7 +3847,7 @@
       "category-ids": [
         "social"
       ],
-      "description": "Discover talent and build something together",
+      "description": "Discover talent & build something together",
       "license": "mit",
       "source": "https://github.com/CatchChat/Yep",
       "itunes": "https://itunes.apple.com/app/yep-meet-genius/id983891256",
@@ -4163,7 +4174,7 @@
       "category-ids": [
         "content"
       ],
-      "description": "Technical knowledge sharing and collaboration platform",
+      "description": "Technical knowledge sharing & collaboration platform",
       "lang": "jpn",
       "license": "mit",
       "source": "https://github.com/anzfactory/QiitaCollection",
@@ -4235,7 +4246,7 @@
       "source": "https://github.com/MatheusCavalca/RenovaLivrosUFRGS",
       "tags": [
         "swift",
-        "Alamofire"
+        "alamofire"
       ],
       "lang": "por",
       "stars": 4,
@@ -4302,7 +4313,7 @@
       "category-ids": [
         "media"
       ],
-      "description": "Choose or take a photo of your face and the app will tell you your emotion",
+      "description": "Choose or take a photo of your face & the app will tell you your emotion",
       "license": "mit",
       "source": "https://github.com/Yogayu/EmotionNote",
       "tags": [
@@ -4532,7 +4543,7 @@
       "category-ids": [
         "misc"
       ],
-      "description": "File browser and sync for ownCloud file hosting service",
+      "description": "File browser & sync for ownCloud file hosting service",
       "source": "https://github.com/owncloud/ios",
       "itunes": "https://itunes.apple.com/app/owncloud/id543672169",
       "stars": 283,
@@ -4557,7 +4568,7 @@
       "category-ids": [
         "education"
       ],
-      "description": "Learn about geography and demographics",
+      "description": "Learn about geography & demographics",
       "source": "https://github.com/Netfilter-Com/PopulationClock",
       "itunes": "https://itunes.apple.com/app/population-clock-hd/id590689957",
       "screenshots": ["http://a2.mzstatic.com/us/r30/Purple2/v4/23/ff/89/23ff89c0-a1ac-f9aa-faae-1a2b9180d88a/screen520x924.jpeg"],
@@ -4658,7 +4669,8 @@
       "category-ids": [
         "communication"
       ],
-      "description": "AirDrop trollfaces to everyone",
+      "tags": ["airdrop"],
+      "description": "Send trollfaces to everyone",
       "license": "mit",
       "source": "https://github.com/a2/TrollDrop",
       "stars": 24,
@@ -4936,7 +4948,7 @@
       "category-ids": [
         "core-data"
       ],
-      "description": "Designed to quickly and easily add tasks",
+      "description": "Designed to quickly & easily add tasks",
       "source": "https://github.com/mbcrump/TasksForSwiftWithPersistingData",
       "itunes": "https://itunes.apple.com/app/task-application/id960435759",
       "tags": [
@@ -4977,9 +4989,10 @@
     {
       "title": "Anypic",
       "category-ids": [
-        "parse"
+        "parse",
+        "clone"
       ],
-      "description": "Mobile and web app that lets users share photos similar to Instagram",
+      "description": "Mobile & web app that lets users share photos similar to Instagram",
       "source": "https://github.com/ParsePlatform/Anypic",
       "itunes": "https://itunes.apple.com/app/anypic/id539741538",
       "stars": 1501,
@@ -5063,9 +5076,10 @@
     {
       "title": "Paws",
       "category-ids": [
-        "parse"
+        "parse",
+        "clone"
       ],
-      "description": "Building an Instagram-Like App with Parse",
+      "description": "Instagram clone",
       "source": "http://www.appcoda.com/instagram-app-parse-swift/",
       "tags": [
         "swift"
@@ -5218,7 +5232,8 @@
       "title": "F8 2016",
       "category-ids": [
         "react-native",
-        "official"
+        "official",
+        "conference"
       ],
       "tags": ["reactnative"],
       "description": "Official F8 app",
@@ -5588,7 +5603,7 @@
       "category-ids": [
         "reactivecocoa"
       ],
-      "description": "Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more)",
+      "description": "Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)",
       "license": "mit",
       "source": "https://github.com/calebd/SimpleAuth",
       "stars": 1079,
@@ -5950,7 +5965,7 @@
       "category-ids": [
         "emulator"
       ],
-      "description": "Apple II/IIGS Emulator with in-app game browser, mFi and iCade controller support",
+      "description": "Apple II/IIGS Emulator with in-app game browser, MFi & iCade controller support",
       "source": "https://github.com/ogoguel/activegs-ios",
       "stars": 5,
       "license": "other",
@@ -5962,7 +5977,7 @@
       "category-ids": [
         "emulator"
       ],
-      "description": "The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others",
+      "description": "The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more",
       "source": "https://github.com/libretro/RetroArch",
       "stars": 1263,
       "license": "gpl-3.0",
@@ -6378,7 +6393,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "A steampunk retro 2d platformer",
+      "description": "Steampunk retro 2D platformer",
       "source": "https://github.com/insurgentgames/Aeropack",
       "license": "gpl-3.0",
       "stars": 75,
@@ -6390,7 +6405,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter",
+      "description": "Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers & more in this side-scrolling arcade shooter",
       "source": "https://github.com/insurgentgames/teh-internets",
       "license": "gpl-3.0",
       "stars": 60,
@@ -6402,7 +6417,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "Xiangqi (Chinese Chess) with single and multiplayer modes",
+      "description": "Xiangqi (Chinese Chess) with single & multiplayer modes",
       "source": "https://github.com/huygithub/hoxChess",
       "itunes": "https://itunes.apple.com/app/hoxchess/id363513274",
       "license": "gpl-3.0",
@@ -6528,7 +6543,7 @@
       "category-ids": [
         "github"
       ],
-      "description": "Browse and maintain GitHub repositories",
+      "description": "Browse & maintain GitHub repositories",
       "source": "https://github.com/thedillonb/CodeHub",
       "homepage": "http://codehub-app.com/",
       "itunes": "https://itunes.apple.com/app/id707173885",
@@ -6608,12 +6623,12 @@
       "suggested_by": "@scribblemaniac"
     },
     {
-      "title": "Prey Anti Theft",
+      "title": "Prey",
       "category-ids": [
         "location",
         "security"
       ],
-      "description": "Track lost or stolen devices and perform actions remotely",
+      "description": "Track lost or stolen devices & perform actions remotely",
       "license": "gpl-3.0",
       "source": "https://github.com/prey/prey-ios-client",
       "homepage": "https://preyproject.com/",
@@ -6628,7 +6643,7 @@
         "location",
         "security"
       ],
-      "description": "Track lost or stolen devices and perform actions remotely",
+      "description": "Track lost or stolen devices & perform actions remotely",
       "source": "https://github.com/prey/prey-swift-client",
       "homepage": "https://preyproject.com/",
       "tags": [
@@ -6660,7 +6675,7 @@
         "media",
         "official"
       ],
-      "description": "A popular media player and entertainment hub",
+      "description": "A popular media player & entertainment hub",
       "source": "https://github.com/xbmc/xbmc",
       "homepage": "http://kodi.wiki/view/IOS",
       "license": "gpl-2.0",
@@ -6730,7 +6745,7 @@
       "category-ids": [
         "misc"
       ],
-      "description": "App for Seafile (self-hosted file sharing)",
+      "description": "App for Seafile self-hosted file sharing",
       "source": "https://github.com/haiwen/seafile-iOS",
       "homepage": "https://www.seafile.com/en/home/",
       "itunes": "https://itunes.apple.com/app/id639202512",
@@ -6758,7 +6773,7 @@
       "category-ids": [
         "tasks"
       ],
-      "description": "Habit building and productivity",
+      "description": "Habit building & productivity",
       "license": "gpl-3.0",
       "source": "https://github.com/HabitRPG/habitrpg-ios",
       "homepage": "https://habitica.com/static/front",
@@ -6772,7 +6787,7 @@
       "category-ids": [
         "media"
       ],
-      "description": "A PDF, XPS/OpenXPS, CBZ and EPUB document viewer",
+      "description": "A PDF, XPS/OpenXPS, CBZ & EPUB document viewer",
       "source": "http://git.ghostscript.com/?p=mupdf.git;a=summary",
       "homepage": "http://mupdf.com/",
       "itunes": "https://itunes.apple.com/app/id482941798",
@@ -6850,7 +6865,7 @@
         "grunt",
         "node"
       ],
-      "description": "A zero-knowledge, cloud-based e-wallet and password manager",
+      "description": "A zero-knowledge, cloud-based e-wallet & password manager",
       "license": "gpl-3.0",
       "source": "https://github.com/SpiderOak/Encryptr",
       "homepage": "https://spideroak.com/solutions/encryptr",
@@ -6911,7 +6926,7 @@
       "category-ids": [
         "misc"
       ],
-      "description": "Vendor and technology agnostic home automation",
+      "description": "Vendor & technology agnostic home automation",
       "license": "epl-1.0",
       "source": "https://github.com/openhab/openhab.ios",
       "homepage": "http://www.openhab.org/",
@@ -6937,7 +6952,7 @@
       "category-ids": [
         "calculator"
       ],
-      "description": "A re-implementation of the HP-42S Calculator and the HP-82240 printer",
+      "description": "A re-implementation of the HP-42S Calculator & the HP-82240 printer",
       "source": "http://thomasokken.com/free42/download/free42.tgz",
       "homepage": "http://thomasokken.com/free42/",
       "itunes": "https://itunes.apple.com/app/id337692629",
@@ -6994,7 +7009,7 @@
       "category-ids": [
         "developer"
       ],
-      "description": "Browse and maintain your Bitbucket repositories",
+      "description": "Browse & maintain your Bitbucket repositories",
       "source": "https://github.com/thedillonb/CodeBucket",
       "license": "other",
       "stars": 132,
@@ -7006,7 +7021,7 @@
       "category-ids": [
         "media"
       ],
-      "description": "Create and share memes",
+      "description": "Create & share memes",
       "source": "https://github.com/MemeMaker/Meme-Maker-iOS",
       "itunes": "https://itunes.apple.com/app/id962121383",
       "tags": [
@@ -7022,7 +7037,8 @@
       "category-ids": [
         "today"
       ],
-      "description": "Extension to launch other apps",
+      "screenshots": ["https://github.com/BalestraPatrick/OpenIt/raw/master/OpenItDemo.gif"],
+      "description": "Launch other apps",
       "source": "https://github.com/BalestraPatrick/OpenIt",
       "license": "other",
       "stars": 94,
@@ -7128,7 +7144,7 @@
       "category-ids": [
         "health"
       ],
-      "description": "Cases recording, study, and sharing for ophthalmologist",
+      "description": "Cases recording, study, & sharing for ophthalmologist",
       "source": "https://github.com/herrkaefer/CaseAssistant",
       "itunes": "https://itunes.apple.com/app/id1003007080",
       "lang": "zho",
@@ -7187,12 +7203,13 @@
     {
       "title": "American Chronicle",
       "category-ids": [
-        "news",
+        "content",
         "viper"
       ],
       "tags": [
         "viper"
       ],
+      "screenshots": ["http://a5.mzstatic.com/us/r30/Purple60/v4/1e/82/3b/1e823b8a-d10c-2085-2063-1d18ba68ce2e/screen696x696.jpeg"],
       "description": "Search Chronicling America's collection of digitized U.S. newspapers",
       "source": "https://github.com/ryanipete/AmericanChronicle",
       "homepage": "http://ryanipete.com/AmericanChronicle/",
@@ -7305,7 +7322,7 @@
         "education",
         "game"
       ],
-      "description": "Introduction to iOS & Swift / memory game implementation",
+      "description": "Memory game, includes introduction to iOS & Swift",
       "source": "https://github.com/Sajjon/SwiftIntro",
       "tags": [
         "swift",
@@ -7499,7 +7516,7 @@
       "suggested_by": "Christopher Jimenez"
     },
     {
-      "title": "Tob - Secure browser",
+      "title": "Tob",
       "category-ids": [
         "browser"
       ],
@@ -7516,7 +7533,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "Drag and drop one circle onto another of the same color",
+      "description": "Drag & drop one circle onto another of the same color",
       "source": "https://github.com/elpassion/DropColour-iOS",
       "itunes": "https://itunes.apple.com/app/dropcolour/id1046339763",
       "stars": 47,
@@ -7579,7 +7596,7 @@
         "react-native"
       ],
       "tags": ["reactnative"],
-      "description": "NBA stats and standings",
+      "description": "NBA stats & standings",
       "license": "mit",
       "source": "https://github.com/jbkuczma/NBAreact",
       "date_added": "Thu Jul 14 09:03:38 2016 -0400",
@@ -7609,11 +7626,12 @@
         "social",
         "extension"
       ],
-      "description": "Post/schedule Twitter posts like Buffer with node.js backend & Share Extension",
+      "description": "Post/schedule Twitter posts like Buffer, includes a Share Extension",
       "source": "https://github.com/TomekB/PostManager",
       "license": "other",
       "tags": [
-        "swift"
+        "swift",
+        "node"
       ],
       "date_added": "Fri Jul 15 12:22:53 2016 +0200",
       "suggested_by": "@TomekB",
