@@ -1,5 +1,5 @@
 body {
- padding-top: 70px;
+ padding-top: 50px;
 }
 
 .toc-item {
@@ -27,7 +27,8 @@ body {
 }
 
 .category-wrapper {
- padding-top: 25px;
+ padding-top: 65px;
+ margin-top: -50px;
 }
 
 #theme-container {
@@ -99,4 +100,14 @@ body {
 
 .pagination .glyphicon {
 	top: 0;
+}
+
+#about {
+ margin-top: -50px;
+ padding-top: 65px;
+}
+
+#toc {
+ margin-top: -50px;
+ padding-top: 50px;
 }

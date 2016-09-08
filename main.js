@@ -2,7 +2,7 @@ var themes = [{ name: "Cerulean", description: "A calm blue sky" }, { name: "Cos
 var _settings = {};
 
 function updateNavigationPadding() {
-    $(document.body).css("padding-top", $("#main-nav").outerHeight() + 15);
+    $(document.body).css("padding-top", $("#main-nav").outerHeight());
 }
 
 function loadSetting(key) {
