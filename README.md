@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-548-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  7, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-548-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  8, 2016-lightgrey.svg)
 
 Jump to
 
@@ -34,8 +34,10 @@ Jump to
 - [Keyboard](#keyboard) 
 - [Location](#location) 
 - [Media](#media) 
+  - [Audio](#audio) 
   - [Content](#content) 
   - [GIF](#gif) 
+  - [Video](#video) 
 - [News](#news) 
   - [Hacker News](#hacker-news) 
 - [Official](#official) 
@@ -815,6 +817,12 @@ Click ► to show more details
 <details><summary>`swift` `viper` </summary>  https://github.com/tirupati17/loan-emi-calculator-clean-swift<br>  Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
+- Encryptr: A zero-knowledge, cloud-based e-wallet and password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
+<details><summary>`cordova` `grunt` `node` 🔥🔥🔥🔥</summary>  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/solutions/encryptr<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Encryptr image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/cc/ab/0f/ccab0fca-197f-56c0-c265-4b73c99e4ef8/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
 - Neverlate: Pay-if-U-R-late app with geofences  
 <details><summary>`venmo api` </summary>  https://github.com/ayunav/Neverlate<br>  Added May 27, 2016<br>  License: `other`
   </details>
@@ -1356,20 +1364,6 @@ Click ► to show more details
  
 Image, video, audio, reading — [back to top](#readme) 
  
-- 360 VR Player: 360 video player [` App Store`](https://itunes.apple.com/app/360-vr-player/id1061464612)  
-<details><summary>`iphone` `ipad` 🔥🔥🔥🔥</summary>  https://github.com/hanton/HTY360Player<br>  Added December  2, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- Analog Synth X: Analog synthesizer keyboard music app  
-<details><summary>`swift` `swift2` </summary>  http://matthewfecher.com/app-developement/swift-synth/<br>  https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX<br>  Added February  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Analog Synth X image 1' src='https://cdn-images-1.medium.com/max/800/1*hj0rxmPvapxpY1URdvw97A.png'> 
-</div>
-  </details>
-</details> 
-- Artsy Folio: Artwork showcase [` App Store`](https://itunes.apple.com/app/artsy-folio/id504862164)  
-<details><summary>`objc` 🔥</summary>  https://github.com/artsy/energy<br>  Added August 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
 - ASCII Art Generator  
 <details><summary>`swift` 🔥</summary>  https://github.com/ijoshsmith/swift-ascii-art<br>  Added May  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -1386,26 +1380,8 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`ipad` 🔥🔥</summary>  https://github.com/swisspol/ComicFlow<br>  Added August 13, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
-- DoubanFM: https://douban.fm/ app  
-<details><summary>`afnetworking` `mpmovieplayer` `iphone` 🇨🇳 🔥🔥</summary>  https://github.com/XVXVXXX/DoubanFM<br>  Added October  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- DownTube: Download videos from YouTube for offline use  
-<details><summary>`swift` </summary>  https://github.com/MrAdamBoyd/DownTube<br>  Added June 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- Eleven: Simple powerful video player [` App Store`](https://itunes.apple.com/app/elevenplayer/id1033773648)  
-<details><summary>`ffmpeg` 🔥🔥🔥</summary>  https://github.com/coderyi/Eleven<br>  Added October  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
 - EmotionNote Diary: Choose or take a photo of your face and the app will tell you your emotion  
 <details><summary>`swift` </summary>  https://github.com/Yogayu/EmotionNote<br>  Added April 19, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- EX Player: Watch videos from EX.UA file sharing  
-<details><summary>`objc` </summary>  https://github.com/IGRSoft/exTVPlayer<br>  Added February  9, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
-<div><img height='300' alt='EX Player image 1' src='https://raw.githubusercontent.com/IGRSoft/exTVPlayer/master/Screenshots/4.png'> 
-</div>
   </details>
 </details> 
 - Facemotion: Find a contact by face recognition  
@@ -1413,11 +1389,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - Filterpedia: Core Image Filter explorer  
-<details><summary>`swift` 🔥🔥🔥🔥</summary>  https://github.com/FlexMonkey/Filterpedia<br>  Added January  7, 2016<br>  License: `other`
-  </details>
-</details> 
-- FreeStreamer: A low-memory footprint streaming audio player  
-<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/muhku/FreeStreamer<br>  Added October 30, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+<details><summary>`swift` `coreimage` 🔥🔥🔥🔥</summary>  https://github.com/FlexMonkey/Filterpedia<br>  Added January  7, 2016<br>  License: `other`
   </details>
 </details> 
 - GreatReader: "Great" PDF reader [` App Store`](https://itunes.apple.com/app/greatreader/id903651112)  
@@ -1448,10 +1420,6 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`swift` </summary>  https://github.com/MemeMaker/Meme-Maker-iOS<br>  Added June  6, 2016<br>  License: `other`
   </details>
 </details> 
-- MiamiSunglasses: Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation. (YEAAAAAAAAAAHH)  
-<details><summary>`swift` </summary>  https://github.com/DeveloperACE/MiamiSunglasses<br>  Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  </details>
-</details> 
 - MuPDF: A PDF, XPS/OpenXPS, CBZ and EPUB document viewer [` App Store`](https://itunes.apple.com/app/id482941798)  
 <details><summary>`objc` </summary>  http://git.ghostscript.com/?p=mupdf.git;a=summary<br>  http://mupdf.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
   </details>
@@ -1466,16 +1434,8 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 </details> 
-- prankPro: Record a 6 second video while playing prank sounds  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/huijimuhe/prankPro<br>  Added March 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
 - projectM: OpenGL-based advanced music visualization app [` App Store`](https://itunes.apple.com/app/id530922227)  
 <details><summary>`objc` </summary>  https://sourceforge.net/projects/projectm/<br>  http://projectm.sourceforge.net/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  </details>
-</details> 
-- Radio Paradise: Official app for http://www.radioparadise.com/ [` App Store`](https://itunes.apple.com/app/id663334697)  
-<details><summary>`objc` </summary>  https://github.com/ilTofa/rposx<br>  https://www.iltofa.com/rphd/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Revolved: 3D modelling app  
@@ -1492,18 +1452,14 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`objc` </summary>  https://github.com/RF-Nelson/open-source-selfie-stick<br>  Added February 18, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   </details>
 </details> 
-- Swift Radio Pro: Professional radio station app  
-<details><summary>`swift` `swift2` 🔥🔥🔥🔥</summary>  https://github.com/swiftcodex/Swift-Radio-Pro<br>  Added January 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Swift Radio Pro image 1' src='https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png '> 
-</div>
-  </details>
-</details> 
 - Swifteroid: Manual HDR exposure camera  
 <details><summary>`swift` </summary>  https://github.com/eugenpirogoff/swifteroid<br>  Added June 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- SwiftSpace: CoreMotion Controlled Drawing in 3D Space  
-<details><summary>`swift` </summary>  https://github.com/FlexMonkey/SwiftSpace<br>  Added September  1, 2015<br>  License: `other`
+- SwiftSpace: Gyroscope driven drawing in 3D space  
+<details><summary>`swift` `coremotion` </summary>  https://github.com/FlexMonkey/SwiftSpace<br>  Added September  1, 2015<br>  License: `other`
+<div><img height='300' alt='SwiftSpace image 1' src='http://i.imgur.com/6khfaX6.png'> 
+</div>
   </details>
 </details> 
 - Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures  
@@ -1514,8 +1470,37 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`webdav` `dropbox` </summary>  https://github.com/xcoo/upupu<br>  Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 </details> 
-- VLC: Media Player [` App Store`](https://itunes.apple.com/app/vlc-for-ios/id650377962)  
-<details><summary>`objc` 🔥🔥🔥🔥🔥</summary>  https://github.com/videolan/vlc<br>  https://www.videolan.org/<br>  Added March 22, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+
+### Audio 
+ 
+[back to top](#readme) 
+ 
+- Analog Synth X: Analog synthesizer keyboard music app  
+<details><summary>`swift` `swift2` </summary>  http://matthewfecher.com/app-developement/swift-synth/<br>  https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX<br>  Added February  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Analog Synth X image 1' src='https://cdn-images-1.medium.com/max/800/1*hj0rxmPvapxpY1URdvw97A.png'> 
+</div>
+  </details>
+</details> 
+- DoubanFM: https://douban.fm/ app  
+<details><summary>`afnetworking` `mpmovieplayer` `iphone` 🇨🇳 🔥🔥</summary>  https://github.com/XVXVXXX/DoubanFM<br>  Added October  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- FreeStreamer: A low-memory footprint streaming audio player  
+<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/muhku/FreeStreamer<br>  Added October 30, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+</details> 
+- MiamiSunglasses: Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation (YEAAAAAAAAAAHH)  
+<details><summary>`swift` </summary>  https://github.com/DeveloperACE/MiamiSunglasses<br>  Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+</details> 
+- Radio Paradise: Official app for http://www.radioparadise.com/ [` App Store`](https://itunes.apple.com/app/id663334697)  
+<details><summary>`objc` </summary>  https://github.com/ilTofa/rposx<br>  https://www.iltofa.com/rphd/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Swift Radio Pro: Professional radio station app  
+<details><summary>`swift` `swift2` 🔥🔥🔥🔥</summary>  https://github.com/swiftcodex/Swift-Radio-Pro<br>  Added January 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Swift Radio Pro image 1' src='https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png '> 
+</div>
   </details>
 </details> 
 - VoiceMemos: Audio recorder  
@@ -1531,8 +1516,12 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`objc` 🇪🇸 </summary>  https://github.com/maurovc/aMenjar<br>  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Artsy: The Art World in Your Pocket [` App Store`](https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
-<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/artsy/eigen<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+- Artsy: The art world in your pocket [` App Store`](https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
+<details><summary>`iphone` `ipad` `afnetworking` `mantle` `cocoapodskeys` `reactivecocoa` 🔥🔥🔥🔥</summary>  https://github.com/artsy/eigen<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Artsy Folio: Artwork showcase [` App Store`](https://itunes.apple.com/app/artsy-folio/id504862164)  
+<details><summary>`objc` 🔥</summary>  https://github.com/artsy/energy<br>  Added August 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Awesome Swift iOS App: Official awesome-swift repository app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427)  
@@ -1702,6 +1691,31 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Swift-Gif: GIF Search  
 <details><summary>`swift` </summary>  https://github.com/pjchavarria/Swift-Gif<br>  Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+
+### Video 
+ 
+[back to top](#readme) 
+ 
+- 360 VR Player: 360 video player [` App Store`](https://itunes.apple.com/app/360-vr-player/id1061464612)  
+<details><summary>`iphone` `ipad` 🔥🔥🔥🔥</summary>  https://github.com/hanton/HTY360Player<br>  Added December  2, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- DownTube: Download videos from YouTube for offline use  
+<details><summary>`swift` </summary>  https://github.com/MrAdamBoyd/DownTube<br>  Added June 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Eleven: Simple powerful video player [` App Store`](https://itunes.apple.com/app/elevenplayer/id1033773648)  
+<details><summary>`ffmpeg` 🔥🔥🔥</summary>  https://github.com/coderyi/Eleven<br>  Added October  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- prankPro: Record a 6 second video while playing prank sounds  
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/huijimuhe/prankPro<br>  Added March 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- VLC: Media Player [` App Store`](https://itunes.apple.com/app/vlc-for-ios/id650377962)  
+<details><summary>`objc` 🔥🔥🔥🔥🔥</summary>  https://github.com/videolan/vlc<br>  https://www.videolan.org/<br>  Added March 22, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
 </details> 
 
@@ -1915,6 +1929,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Artsy: The art world in your pocket [` App Store`](https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
+<details><summary>`iphone` `ipad` `afnetworking` `mantle` `cocoapodskeys` `reactivecocoa` 🔥🔥🔥🔥</summary>  https://github.com/artsy/eigen<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
 - BrewMobile: App for managing the beer brewing process  
 <details><summary>`swift` 🔥</summary>  https://github.com/brewfactory/BrewMobile<br>  Added September 10, 2015<br>  License: `other`
   </details>
@@ -2119,7 +2137,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Encryptr: A zero-knowledge, cloud-based e-wallet and password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
-<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/solutions/encryptr<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`cordova` `grunt` `node` 🔥🔥🔥🔥</summary>  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/solutions/encryptr<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Encryptr image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/cc/ab/0f/ccab0fca-197f-56c0-c265-4b73c99e4ef8/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - FreeOTP Authenticator: Two-Factor Authentication [` App Store`](https://itunes.apple.com/app/freeotp/id872559395)  
@@ -2352,6 +2372,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Encryptr: A zero-knowledge, cloud-based e-wallet and password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
+<details><summary>`cordova` `grunt` `node` 🔥🔥🔥🔥</summary>  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/solutions/encryptr<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Encryptr image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/cc/ab/0f/ccab0fca-197f-56c0-c265-4b73c99e4ef8/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
 
 ### 3D Touch 
  
@@ -2751,7 +2777,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/anthonya1999/GoodNight<br>  Added December 23, 2015<br>  License: `other`
   </details>
 </details> 
-- Hackfoldr: Hackfoldr is your hacking briefcase, share all your project documents with a url [` App Store`](https://itunes.apple.com/app/hackfoldr/id919010837)  
+- Hackfoldr: Share all your project documents with a link [` App Store`](https://itunes.apple.com/app/hackfoldr/id919010837)  
 <details><summary>`objc` </summary>  https://github.com/hackfoldr/hackfoldr-iOS<br>  https://hackfoldr.org<br>  Added July 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
