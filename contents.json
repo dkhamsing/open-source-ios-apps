@@ -126,6 +126,11 @@
       "parent": "media"
     },
     {
+      "title": "Video",
+      "id": "video",
+      "parent": "media"
+    },
+    {
       "title": "News",
       "id": "news"
     },
@@ -2464,7 +2469,7 @@
     {
       "title": "360 VR Player",
       "category-ids": [
-        "media"
+        "video"
       ],
       "tags": [
         "iphone",
@@ -2603,7 +2608,7 @@
     {
       "title": "Eleven",
       "category-ids": [
-        "media"
+        "video"
       ],
       "tags": [
         "ffmpeg"
@@ -2818,7 +2823,7 @@
     {
       "title": "prankPro",
       "category-ids": [
-        "media"
+        "video"
       ],
       "description": "Record a 6 second video while playing prank sounds",
       "source": "https://github.com/huijimuhe/prankPro",
@@ -3015,7 +3020,7 @@
     {
       "title": "VLC",
       "category-ids": [
-        "media",
+        "video",
         "official"
       ],
       "description": "Media Player",
@@ -7091,7 +7096,7 @@
     {
       "title": "DownTube",
       "category-ids": [
-        "media"
+        "video"
       ],
       "description": "Download videos from YouTube for offline use",
       "source": "https://github.com/MrAdamBoyd/DownTube",
