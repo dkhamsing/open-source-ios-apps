@@ -6289,8 +6289,10 @@
       "tags": [
         "ipad"
       ],
+      "screenshots": ["http://i.imgur.com/5o7MaMll.png"],
       "description": "An experimental prototype calculator",
       "source": "https://github.com/bridger/NumberPad",
+      "homepage": "http://bridgermaxwell.com/blog/numberpad-notation/",
       "license": "apache-2.0",
       "stars": 55,
       "date_added": "Tue May 31 07:35:40 2016 -0700",
@@ -6802,7 +6804,7 @@
       ],
       "description": "An offline reader for Wikipedia (& many other websites)",
       "source": "https://github.com/kiwix/iOS",
-      "homepage": "http://www.kiwix.org/wiki/Main_Page",
+      "homepage": "http://wiki.kiwix.org/wiki/Main_Page",
       "itunes": "https://itunes.apple.com/app/id997079563",
       "tags": [
         "swift"
@@ -6952,6 +6954,7 @@
       "category-ids": [
         "calculator"
       ],
+      "screenshots": ["http://a1.mzstatic.com/us/r30/Purple3/v4/a4/bd/1e/a4bd1e5c-a158-7669-76c9-915c3b41ecec/screen568x568.jpeg"],
       "description": "A re-implementation of the HP-42S Calculator & the HP-82240 printer",
       "source": "http://thomasokken.com/free42/download/free42.tgz",
       "homepage": "http://thomasokken.com/free42/",
@@ -8244,7 +8247,7 @@
         "https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png",
         "https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png",
         "https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png"
-      ],      
+      ],
       "suggested_by": "@vanyaland"
     }
   ]
