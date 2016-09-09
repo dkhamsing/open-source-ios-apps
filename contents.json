@@ -8206,6 +8206,16 @@
       "suggested_by": "@dkhamsing"
     },
     {
+      "title": "Coffee Ratio",
+      "category-ids": ["calculator"],
+      "description": "Calculates grams of water needed given grams of coffee based off ratio chosen",
+      "source": "https://github.com/jmp9c/Coffee-Ratio",
+      "screenshots": ["http://i.imgur.com/rQxOsqO.png"],
+      "date_added": "Sep 9 2016",
+      "suggested_by": "@jmp9c",
+      "license": "MIT"
+    },
+    {
       "title": "Protocol-Oriented MVVM Examples",
       "category-ids": ["sample"],
       "tags": ["swift"],
