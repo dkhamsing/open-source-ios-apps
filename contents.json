@@ -8252,9 +8252,10 @@
     },
     {
       "title": "pokevision",
+      "description": "Display all the Pokémon around you",
       "source": "https://github.com/Morhaus/rn-pokevision",
       "category-ids": ["react-native"],
-      "tags": ["reactnative"],
+      "tags": ["reactnative", "GoRadar"],
       "screenshots": ["https://github.com/Morhaus/rn-pokevision/raw/master/screenshot.png"],
       "license": "other",
       "date_added": "Sep 9 2016",
