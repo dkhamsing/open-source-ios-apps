@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-549-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  8, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-550-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  9, 2016-lightgrey.svg)
 
 Jump to
 
@@ -52,7 +52,6 @@ Jump to
 - [Travel](#travel) 
 - [Weather](#weather) 
 - [Special](#special) 
-  - [3D Touch](#3d-touch) 
   - [Appcelerator](#appcelerator) 
   - [Core Data](#core-data) 
   - [Firebase](#firebase) 
@@ -63,6 +62,7 @@ Jump to
   - [VIPER](#viper) 
   - [Xamarin](#xamarin) 
 - [Misc](#misc) 
+  - [3D Touch](#3d-touch) 
   - [Calculator](#calculator) 
   - [Clock](#clock) 
   - [Scan](#scan) 
@@ -98,6 +98,12 @@ Click ► to show more details
 - EX Player: Watch videos from EX.UA file sharing  
 <details><summary>`objc` </summary>  https://github.com/IGRSoft/exTVPlayer<br>  Added February  9, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
 <div><img height='300' alt='EX Player image 1' src='https://raw.githubusercontent.com/IGRSoft/exTVPlayer/master/Screenshots/4.png'> 
+</div>
+  </details>
+</details> 
+- GrandCentralBoard: Hang a TV in your open space / team room to show everyone what's up & get them up to speed  
+<details><summary>`swift` `alamofire` `rxswift` 🔥</summary>  https://github.com/macoscope/GrandCentralBoard<br>  Added April 29, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='GrandCentralBoard image 1' src='http://cdn.macoscope.com/blog/wp-content/uploads/2016/03/zegar_anim_1.gif'> 
 </div>
   </details>
 </details> 
@@ -200,18 +206,12 @@ Click ► to show more details
 <details><summary>`swift` </summary>  https://github.com/PiXeL16/CountItApp<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Done: To-do list data sharing between extension and main app  
+- Done: To-do list data sharing between extension & main app  
 <details><summary>`swift` `realm` `watchkit` </summary>  https://github.com/FancyPixel/done-swift<br>  Added May  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - FlickrWatch: Apple Watch face  
 <details><summary>`flickr api` </summary>  https://github.com/jazzychad/FlickrWatch<br>  Added February 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- GrandCentralBoard: Hang a TV in your open space / team room to show everyone what's up and get them up to speed  
-<details><summary>`swift` 🔥</summary>  https://github.com/macoscope/GrandCentralBoard<br>  Added April 29, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<div><img height='300' alt='GrandCentralBoard image 1' src='http://cdn.macoscope.com/blog/wp-content/uploads/2016/03/zegar_anim_1.gif'> 
-</div>
   </details>
 </details> 
 - Gulps: Track your daily water consumption [` App Store`](https://itunes.apple.com/app/gulps/id979057304)  
@@ -274,6 +274,12 @@ Click ► to show more details
 <details><summary>`swift` </summary>  https://github.com/sandofsky/soon<br>  Added June  2, 2015<br>  License: `other`
   </details>
 </details> 
+- try!  
+<details><summary>`swift` 🔥🔥</summary>  https://github.com/tryswift/trySwiftApp<br>  Added February 16, 2016<br>  License: `other`
+<div><img height='300' alt='try! image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/18/81/9f/18819f2d-1bb8-feeb-bb22-89bbe85d6516/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
 - WatchKit-Apps: Tutorials app  
 <details><summary>`swift` 🔥🔥🔥🔥</summary>  https://github.com/kostiakoval/WatchKit-Apps<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -317,7 +323,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Endless Browser: Web browser built with privacy and security in mind [` App Store`](https://itunes.apple.com/app/endless-browser/id974745755)  
+- Endless Browser: Web browser built with privacy & security in mind [` App Store`](https://itunes.apple.com/app/endless-browser/id974745755)  
 <details><summary>`objc` </summary>  https://github.com/jcs/endless<br>  Added December 22, 2015<br>  License: `other`
   </details>
 </details> 
@@ -337,7 +343,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Tob - Secure browser: A beautiful Tor browser to protect your anonymity [` App Store`](https://itunes.apple.com/app/id1063151782)  
+- Tob: A beautiful Tor browser to protect your anonymity [` App Store`](https://itunes.apple.com/app/id1063151782)  
 <details><summary>`objc` </summary>  https://github.com/JRock007/Tob<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -373,6 +379,10 @@ Click ► to show more details
 <details><summary>`spritekit` 🔥🔥🔥</summary>  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
+- Anypic: Mobile & web app that lets users share photos similar to Instagram [` App Store`](https://itunes.apple.com/app/anypic/id539741538)  
+<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/ParsePlatform/Anypic<br>  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
+  </details>
+</details> 
 - Finance: iOS's Stocks app written in React Native  
 <details><summary>`reactnative` 🔥🔥🔥</summary>  https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -381,6 +391,10 @@ Click ► to show more details
 <details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/fullstackio/FlappySwift<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='FlappySwift image 1' src='https://camo.githubusercontent.com/867dfad61329bd77258f00d586b16476c7bc405a/687474703a2f2f692e696d6775722e636f6d2f314e4c6f546f552e676966'> 
 </div>
+  </details>
+</details> 
+- Paws: Instagram clone  
+<details><summary>`swift` </summary>  http://www.appcoda.com/instagram-app-parse-swift/<br>  Added April 17, 2015<br>  License: `other`
   </details>
 </details> 
 - SwiftSnake: Snake clone  
@@ -470,7 +484,7 @@ Click ► to show more details
 <details><summary>`objc` </summary>  https://github.com/cloverstudio/Spika<br>  https://spika.business/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- surespot: Secures all messages, uses end-to-end encryption [` App Store`](https://itunes.apple.com/app/surespot/id790314865)  
+- surespot: Secures all messages with end-to-end encryption [` App Store`](https://itunes.apple.com/app/surespot/id790314865)  
 <details><summary>`objc` </summary>  https://github.com/surespot/surespot-ios<br>  Added March  3, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
@@ -482,8 +496,8 @@ Click ► to show more details
 <details><summary>`swift` </summary>  https://github.com/thii/TextEthan<br>  Added April 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- TrollDrop: AirDrop trollfaces to everyone  
-<details><summary>`objc` </summary>  https://github.com/a2/TrollDrop<br>  Added May  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+- TrollDrop: Send trollfaces to everyone  
+<details><summary>`airdrop` </summary>  https://github.com/a2/TrollDrop<br>  Added May  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - TSWeChat: A WeChat alternative  
@@ -513,6 +527,12 @@ Click ► to show more details
 <details><summary>`swift` `iphone` 🔥🔥</summary>  https://github.com/icanzilb/EventBlankApp<br>  Added April 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
+- F8 2016: Official F8 app  
+<details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/fbsamples/f8app<br>  Added April 14, 2016<br>  License: `other`
+<div><img height='300' alt='F8 2016 image 1' src='https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png'> 
+</div>
+  </details>
+</details> 
 - Nortal TechDay 2015  
 <details><summary>`reactnative` 🔥</summary>  https://github.com/mikkoj/NortalTechDay<br>  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -533,8 +553,10 @@ Click ► to show more details
 <details><summary>`objc` </summary>  https://github.com/LUGM/TechTatva-15<br>  Added April 19, 2016<br>  License: `other`
   </details>
 </details> 
-- try! Swift  
+- try!  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/tryswift/trySwiftApp<br>  Added February 16, 2016<br>  License: `other`
+<div><img height='300' alt='try! image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/18/81/9f/18819f2d-1bb8-feeb-bb22-89bbe85d6516/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - Valio Con 2014 Schedule  
@@ -554,7 +576,7 @@ Click ► to show more details
 <details><summary>`iphone` `ipad` 🔥</summary>  https://github.com/Taehan-Kim/AppSlate<br>  https://www.facebook.com/AppSlate<br>  Added June  1, 2016<br>  License: `other`
   </details>
 </details> 
-- Bequest: Create and replay HTTP/S requests  
+- Bequest: Create & replay HTTP/S requests  
 <details><summary>`swift` </summary>  https://github.com/splinesoft/Bequest<br>  Added April  7, 2015<br>  License: `other`
   </details>
 </details> 
@@ -572,7 +594,7 @@ Click ► to show more details
 <details><summary>`swift` </summary>  https://github.com/ngs/ci2go<br>  Added March 21, 2016<br>  License: `other`
   </details>
 </details> 
-- CodeBucket: Browse and maintain your Bitbucket repositories  
+- CodeBucket: Browse & maintain your Bitbucket repositories  
 <details><summary>`objc` 🔥</summary>  https://github.com/thedillonb/CodeBucket<br>  Added June  3, 2016<br>  License: `other`
   </details>
 </details> 
@@ -588,7 +610,7 @@ Click ► to show more details
 <details><summary>`swift` `iphone` 🔥🔥</summary>  https://github.com/BalestraPatrick/RealmVideo<br>  Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Review Time: Shows average review times for iOS and Mac apps  
+- Review Time: Shows average review times for iOS & Mac apps  
 <details><summary>`swift` 🔥</summary>  https://github.com/nthegedus/ReviewTime<br>  Added October  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -605,7 +627,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- CodeHub: Browse and maintain GitHub repositories [` App Store`](https://itunes.apple.com/app/id707173885)  
+- CodeHub: Browse & maintain GitHub repositories [` App Store`](https://itunes.apple.com/app/id707173885)  
 <details><summary>`objc` 🔥🔥🔥🔥🔥</summary>  https://github.com/thedillonb/CodeHub<br>  http://codehub-app.com/<br>  Added June  1, 2016<br>  License: `other`
   </details>
 </details> 
@@ -650,7 +672,7 @@ Click ► to show more details
 <details><summary>`objc` </summary>  https://github.com/maurovc/iGrades<br>  Added March 16, 2015<br>  License: `other`
   </details>
 </details> 
-- My First Memory: Introduction to iOS & Swift / memory game implementation  
+- My First Memory: Memory game, includes introduction to iOS & Swift  
 <details><summary>`swift` `instagram api` </summary>  https://github.com/Sajjon/SwiftIntro<br>  Added July  6, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
@@ -660,7 +682,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Population Clock: Learn about geography and demographics [` App Store`](https://itunes.apple.com/app/population-clock-hd/id590689957)  
+- Population Clock: Learn about geography & demographics [` App Store`](https://itunes.apple.com/app/population-clock-hd/id590689957)  
 <details><summary>`objc` </summary>  https://github.com/Netfilter-Com/PopulationClock<br>  Added March  2, 2016<br>  License: `other`
 <div><img height='300' alt='Population Clock image 1' src='http://a2.mzstatic.com/us/r30/Purple2/v4/23/ff/89/23ff89c0-a1ac-f9aa-faae-1a2b9180d88a/screen520x924.jpeg'> 
 </div>
@@ -675,7 +697,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- ActiveGS: Apple II/IIGS Emulator with in-app game browser, mFi and iCade controller support  
+- ActiveGS: Apple II/IIGS Emulator with in-app game browser, MFi & iCade controller support  
 <details><summary>`objc` </summary>  https://github.com/ogoguel/activegs-ios<br>  Added May 13, 2016<br>  License: `other`
   </details>
 </details> 
@@ -713,7 +735,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- RetroArch: The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx and many others  
+- RetroArch: The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more  
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/libretro/RetroArch<br>  Added May 13, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
@@ -732,8 +754,8 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Post Manager: Post/schedule Twitter posts like Buffer with node.js backend & Share Extension  
-<details><summary>`swift` </summary>  https://github.com/TomekB/PostManager<br>  Added July 15, 2016<br>  License: `other`
+- Post Manager: Post/schedule Twitter posts like Buffer, includes a Share Extension  
+<details><summary>`swift` `node` </summary>  https://github.com/TomekB/PostManager<br>  Added July 15, 2016<br>  License: `other`
   </details>
 </details> 
 - Send To Me: Share content to your email with a single tap [` App Store`](https://itunes.apple.com/app/id1100027787)  
@@ -778,8 +800,10 @@ Click ► to show more details
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/dasdom/Tomate<br>  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- OpenIt: Extension to launch other apps  
+- OpenIt: Launch other apps  
 <details><summary>`objc` </summary>  https://github.com/BalestraPatrick/OpenIt<br>  Added June  7, 2016<br>  License: `other`
+<div><img height='300' alt='OpenIt image 1' src='https://github.com/BalestraPatrick/OpenIt/raw/master/OpenItDemo.gif'> 
+</div>
   </details>
 </details> 
 - SwiftNote: Simple note taking with Today Extension & iCloud sync  
@@ -817,7 +841,7 @@ Click ► to show more details
 <details><summary>`swift` `viper` </summary>  https://github.com/tirupati17/loan-emi-calculator-clean-swift<br>  Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Encryptr: A zero-knowledge, cloud-based e-wallet and password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
+- Encryptr: A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
 <details><summary>`cordova` `grunt` `node` 🔥🔥🔥🔥</summary>  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/solutions/encryptr<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Encryptr image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/cc/ab/0f/ccab0fca-197f-56c0-c265-4b73c99e4ef8/screen696x696.jpeg'> 
 </div>
@@ -889,11 +913,11 @@ Click ► to show more details
 <details><summary>`spritekit` 🔥🔥🔥</summary>  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Aeropack: A steampunk retro 2d platformer  
+- Aeropack: Steampunk retro 2D platformer  
 <details><summary>`objc` </summary>  https://github.com/insurgentgames/Aeropack<br>  Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
-- Alienblast: Cute and sweet shooting game [` App Store`](https://itunes.apple.com/app/id1098323034)  
+- Alienblast: Cute & sweet shooting game [` App Store`](https://itunes.apple.com/app/id1098323034)  
 <details><summary>`swift` `cocos2d` `spritebuilder` </summary>  https://github.com/etamity/AlienBlast<br>  Added July 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -953,11 +977,11 @@ Click ► to show more details
 <details><summary>`objc` </summary>  https://github.com/rblalock/dragon_shout_app_open_source<br>  Added June  1, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 </details> 
-- DropColour: Drag and drop one circle onto another of the same color [` App Store`](https://itunes.apple.com/app/dropcolour/id1046339763)  
+- DropColour: Drag & drop one circle onto another of the same color [` App Store`](https://itunes.apple.com/app/dropcolour/id1046339763)  
 <details><summary>`swift` `swift2.2` </summary>  https://github.com/elpassion/DropColour-iOS<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Dungeon Crawl: A game of dungeon exploration, combat and magic, involving characters of diverse skills  
+- Dungeon Crawl: A game of dungeon exploration, combat & magic, involving characters of diverse skills  
 <details><summary>`objc` </summary>  https://github.com/CliffsDover/crawl<br>  https://github.com/CliffsDover/crawl/tree/iOS_Release<br>  Added March 23, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
 </details> 
@@ -997,7 +1021,7 @@ Click ► to show more details
 <details><summary>`objc` </summary>  https://github.com/spiffcode/hostile-takeover<br>  Added June  1, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
   </details>
 </details> 
-- hoxChess: Xiangqi (Chinese Chess) with single and multiplayer modes [` App Store`](https://itunes.apple.com/app/hoxchess/id363513274)  
+- hoxChess: Xiangqi (Chinese Chess) with single & multiplayer modes [` App Store`](https://itunes.apple.com/app/hoxchess/id363513274)  
 <details><summary>`objc` </summary>  https://github.com/huygithub/hoxChess<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
@@ -1021,7 +1045,7 @@ Click ► to show more details
 <details><summary>`iphone` `ipad` </summary>  https://github.com/splinesoft/MUDRammer<br>  Added June 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- My First Memory: Introduction to iOS & Swift / memory game implementation  
+- My First Memory: Memory game, includes introduction to iOS & Swift  
 <details><summary>`swift` `instagram api` </summary>  https://github.com/Sajjon/SwiftIntro<br>  Added July  6, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
@@ -1053,7 +1077,7 @@ Click ► to show more details
 <details><summary>`objc` </summary>  https://github.com/adamwulf/spare-parts-app<br>  Added April  6, 2015<br>  License: `other`
   </details>
 </details> 
-- teh internets: Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers and more in this side-scrolling arcade shooter  
+- teh internets: Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers & more in this side-scrolling arcade shooter  
 <details><summary>`objc` </summary>  https://github.com/insurgentgames/teh-internets<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
@@ -1125,7 +1149,7 @@ Click ► to show more details
 <details><summary>`swift` </summary>  https://github.com/a2/arex-7<br>  Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- CaseAssistant: Cases recording, study, and sharing for ophthalmologist [` App Store`](https://itunes.apple.com/app/id1003007080)  
+- CaseAssistant: Cases recording, study, & sharing for ophthalmologist [` App Store`](https://itunes.apple.com/app/id1003007080)  
 <details><summary>`swift` `realm` 🇨🇳 🔥</summary>  https://github.com/herrkaefer/CaseAssistant<br>  Added June 17, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   </details>
 </details> 
@@ -1195,7 +1219,7 @@ Click ► to show more details
 <details><summary>`objc` </summary>  https://github.com/ResearchKit/mPower<br>  Added April 15, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
 </details> 
-- MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, and cardiovascular risk [` App Store`](https://itunes.apple.com/app/id972189947)  
+- MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, & cardiovascular risk [` App Store`](https://itunes.apple.com/app/id972189947)  
 <details><summary>`objc` </summary>  https://github.com/ResearchKit/MyHeartCounts<br>  Added October 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
 </details> 
@@ -1212,8 +1236,8 @@ Click ► to show more details
 <details><summary>`objc` </summary>  https://github.com/sonsongithub/AAKeyboard<br>  Added July  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard for iOS 8 [` App Store`](https://itunes.apple.com/app/click-wheel-keyboard/id993111285)  
-<details><summary>`objc` </summary>  https://github.com/b3ll/ClickWheelKeyboard<br>  Added May 23, 2015<br>  License: `other`
+- ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard [` App Store`](https://itunes.apple.com/app/click-wheel-keyboard/id993111285)  
+<details><summary>`ios8` </summary>  https://github.com/b3ll/ClickWheelKeyboard<br>  Added May 23, 2015<br>  License: `other`
   </details>
 </details> 
 - Hodor: Fun Hodor keyboard  
@@ -1295,7 +1319,7 @@ Click ► to show more details
 <details><summary>`venmo api` </summary>  https://github.com/ayunav/Neverlate<br>  Added May 27, 2016<br>  License: `other`
   </details>
 </details> 
-- OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, and more [` App Store`](https://itunes.apple.com/app/onebusaway/id329380089)  
+- OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, & more [` App Store`](https://itunes.apple.com/app/onebusaway/id329380089)  
 <details><summary>`objc` 🔥</summary>  https://github.com/OneBusAway/onebusaway-iphone<br>  Added August 21, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 </details> 
@@ -1309,11 +1333,11 @@ Click ► to show more details
 <details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/osmandapp/Osmand<br>  http://osmand.net/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
-- OwnTracks: Keep track of your own location, you can build your private location diary or share it with your family and friends  
+- OwnTracks: Keep track of your own location, you can build your private location diary or share it with your family & friends  
 <details><summary>`objc` </summary>  https://github.com/owntracks/ios<br>  Added April  3, 2016<br>  License: `other`
   </details>
 </details> 
-- ParkenDD: Check the status of several public parking lots in Germany and Switzerland [` App Store`](https://itunes.apple.com/app/parkendd/id957165041)  
+- ParkenDD: Check the status of several public parking lots in Germany & Switzerland [` App Store`](https://itunes.apple.com/app/parkendd/id957165041)  
 <details><summary>`swift` </summary>  https://github.com/kiliankoe/ParkenDD<br>  Added April 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -1325,12 +1349,12 @@ Click ► to show more details
 <details><summary>`objc` </summary>  https://github.com/joemasilotti/PebCiti<br>  Added May  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Prey: Track lost or stolen devices and perform actions remotely  
-<details><summary>`swift` </summary>  https://github.com/prey/prey-swift-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+- Prey: Track lost or stolen devices & perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037)  
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/prey/prey-ios-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
-- Prey Anti Theft: Track lost or stolen devices and perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037)  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/prey/prey-ios-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+- Prey: Track lost or stolen devices & perform actions remotely  
+<details><summary>`swift` </summary>  https://github.com/prey/prey-swift-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
 - S.I.T. (雕刻时光): An app for Chinese cafe chain [Diaokeshiguang](https://www.sitcoffee.com/) [` App Store`](https://itunes.apple.com/app/diao-ke-shi-guang/id440983941)  
@@ -1339,7 +1363,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Startups - Mapped In Israel: Discover new startups and locate co-working spaces  
+- Startups - Mapped In Israel: Discover new startups & locate co-working spaces  
 <details><summary>`objc` </summary>  https://github.com/sugarso/MappedInIsrael<br>  Added April  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -1380,7 +1404,7 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`ipad` 🔥🔥</summary>  https://github.com/swisspol/ComicFlow<br>  Added August 13, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
-- EmotionNote Diary: Choose or take a photo of your face and the app will tell you your emotion  
+- EmotionNote Diary: Choose or take a photo of your face & the app will tell you your emotion  
 <details><summary>`swift` </summary>  https://github.com/Yogayu/EmotionNote<br>  Added April 19, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -1400,7 +1424,7 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`objc` 🔥🔥🔥🔥🔥</summary>  https://github.com/sprang/Inkpad<br>  Added June  1, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   </details>
 </details> 
-- Kodi: A popular media player and entertainment hub  
+- Kodi: A popular media player & entertainment hub  
 <details><summary>`objc` 🔥🔥🔥🔥🔥</summary>  https://github.com/xbmc/xbmc<br>  http://kodi.wiki/view/IOS<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
 </details> 
@@ -1416,11 +1440,11 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/AaronRandall/Megabite<br>  Added February  2, 2016<br>  License: `other`
   </details>
 </details> 
-- Meme Maker: Create and share memes [` App Store`](https://itunes.apple.com/app/id962121383)  
+- Meme Maker: Create & share memes [` App Store`](https://itunes.apple.com/app/id962121383)  
 <details><summary>`swift` </summary>  https://github.com/MemeMaker/Meme-Maker-iOS<br>  Added June  6, 2016<br>  License: `other`
   </details>
 </details> 
-- MuPDF: A PDF, XPS/OpenXPS, CBZ and EPUB document viewer [` App Store`](https://itunes.apple.com/app/id482941798)  
+- MuPDF: A PDF, XPS/OpenXPS, CBZ & EPUB document viewer [` App Store`](https://itunes.apple.com/app/id482941798)  
 <details><summary>`objc` </summary>  http://git.ghostscript.com/?p=mupdf.git;a=summary<br>  http://mupdf.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
   </details>
 </details> 
@@ -1448,7 +1472,7 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Selfie Stick: Sync 2 devices and use one as a remote control for the other's camera [` App Store`](https://itunes.apple.com/app/id1084487132)  
+- Selfie Stick: Sync 2 devices & use one as a remote control for the other's camera [` App Store`](https://itunes.apple.com/app/id1084487132)  
 <details><summary>`objc` </summary>  https://github.com/RF-Nelson/open-source-selfie-stick<br>  Added February 18, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   </details>
 </details> 
@@ -1514,6 +1538,12 @@ Image, video, audio, reading — [back to top](#readme)
  
 - A Menjar: Food menu [` App Store`](https://itunes.apple.com/app/a-menjar!/id816473131)  
 <details><summary>`objc` 🇪🇸 </summary>  https://github.com/maurovc/aMenjar<br>  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://itunes.apple.com/app/id1092988367)  
+<details><summary>`viper` </summary>  https://github.com/ryanipete/AmericanChronicle<br>  http://ryanipete.com/AmericanChronicle/<br>  Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='American Chronicle image 1' src='http://a5.mzstatic.com/us/r30/Purple60/v4/1e/82/3b/1e823b8a-d10c-2085-2063-1d18ba68ce2e/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - Artsy: The art world in your pocket [` App Store`](https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
@@ -1600,7 +1630,7 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 </details> 
-- PhishOD: Listen to any song from phish.in and view concert ratings and reviews from phish.net [` App Store`](https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018)  
+- PhishOD: Listen to any song from phish.in, view concert ratings & reviews from phish.net [` App Store`](https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018)  
 <details><summary>`objc` </summary>  https://github.com/alecgorge/PhishOD-iOS<br>  Added June 26, 2015<br>  License: `other`
   </details>
 </details> 
@@ -1624,7 +1654,7 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`swift` </summary>  https://github.com/soffes/Pugs<br>  Added January 25, 2016<br>  License: `other`
   </details>
 </details> 
-- QiitaCollection: Technical knowledge sharing and collaboration platform [` App Store`](https://itunes.apple.com/app/kitakore-for-qiita/id973532800)  
+- QiitaCollection: Technical knowledge sharing & collaboration platform [` App Store`](https://itunes.apple.com/app/kitakore-for-qiita/id973532800)  
 <details><summary>`objc` 🇯🇵 </summary>  https://github.com/anzfactory/QiitaCollection<br>  Added October 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -1681,7 +1711,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Poppins: House all your favorite GIFs and easily share them with your friends & family [` App Store`](https://itunes.apple.com/app/poppins/id978854068)  
+- Poppins: House all your favorite GIFs, easily share them with your friends & family [` App Store`](https://itunes.apple.com/app/poppins/id978854068)  
 <details><summary>`swift` 🔥</summary>  https://github.com/thoughtbot/poppins<br>  Added July 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -1710,7 +1740,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`ffmpeg` 🔥🔥🔥</summary>  https://github.com/coderyi/Eleven<br>  Added October  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- prankPro: Record a 6 second video while playing prank sounds  
+- prankPro: Record a 6-second video while playing prank sounds  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/huijimuhe/prankPro<br>  Added March 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -1723,10 +1753,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://itunes.apple.com/app/id1092988367)  
-<details><summary>`viper` </summary>  https://github.com/ryanipete/AmericanChronicle<br>  http://ryanipete.com/AmericanChronicle/<br>  Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
 - Designer News App [` App Store`](https://itunes.apple.com/app/designer-news-app/id879990495)  
 <details><summary>`swift` 🔥🔥🔥🔥</summary>  https://github.com/MengTo/DesignerNewsApp<br>  Added March 15, 2015<br>  License: `other`
 <div><img height='300' alt='Designer News App image 1' src='https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png'> 
@@ -1855,7 +1881,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Kodi: A popular media player and entertainment hub  
+- Kodi: A popular media player & entertainment hub  
 <details><summary>`objc` 🔥🔥🔥🔥🔥</summary>  https://github.com/xbmc/xbmc<br>  http://kodi.wiki/view/IOS<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
 </details> 
@@ -1967,7 +1993,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` `mvvm` `flickr api` 🔥🔥</summary>  https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch<br>  Added February  4, 2015<br>  License: `other`
   </details>
 </details> 
-- SimpleAuth: Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr and more)  
+- SimpleAuth: Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)  
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/calebd/SimpleAuth<br>  Added April 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -1994,6 +2020,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - GitHub API Client  
 <details><summary>`swift` `mvvm` `rxswift` 🔥🔥</summary>  https://github.com/tailec/boilerplate<br>  Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- GrandCentralBoard: Hang a TV in your open space / team room to show everyone what's up & get them up to speed  
+<details><summary>`swift` `alamofire` `rxswift` 🔥</summary>  https://github.com/macoscope/GrandCentralBoard<br>  Added April 29, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='GrandCentralBoard image 1' src='http://cdn.macoscope.com/blog/wp-content/uploads/2016/03/zegar_anim_1.gif'> 
+</div>
   </details>
 </details> 
 - Kiosk: Artsy auction app  
@@ -2027,7 +2059,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` </summary>  https://developer.apple.com/sample-code/wwdc/2015/<br>  Added July 16, 2015<br>  License: `other`
   </details>
 </details> 
-- Cannonball: Fun way to create and share stories and poems [` App Store`](https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075)  
+- Cannonball: Fun way to create / share stories & poems [` App Store`](https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075)  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/twitterdev/cannonball-ios<br>  Added March 24, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 </details> 
@@ -2067,7 +2099,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/shu223/iOS-9-Sampler<br>  Added September 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Knock: Use Accelerometer and background mode to create a feature of knocking your phone  
+- Knock: Use Accelerometer & background mode to create a feature of knocking your phone  
 <details><summary>`objc` </summary>  https://github.com/MatheusCavalca/Knock<br>  Added March 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -2092,7 +2124,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Protocol-Oriented MVVM Examples  
-<details><summary>`swift` </summary>  https://github.com/vanyaland/MVVM-Example<br>  Added September  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `mvvm` </summary>  https://github.com/vanyaland/MVVM-Example<br>  Added September  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Protocol-Oriented MVVM Examples image 1' src='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png'> <img height='300' alt='Protocol-Oriented MVVM Examples image 2' src='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png'> <img height='300' alt='Protocol-Oriented MVVM Examples image 3' src='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png'> 
 </div>
   </details>
@@ -2102,7 +2134,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Reusable Code  
-<details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/carlbtrn/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/carlbtrn/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - RKGist: GitHub Gists  
@@ -2121,7 +2153,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` </summary>  https://github.com/kylef/Starship<br>  Added January 25, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
   </details>
 </details> 
-- StateRestorationDemo: State preservation and restoration APIs  
+- StateRestorationDemo: State preservation & restoration APIs  
 <details><summary>`swift` </summary>  https://github.com/shagedorn/StateRestorationDemo<br>  Added January 25, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
 </details> 
@@ -2142,7 +2174,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` </summary>  https://github.com/dono-app/dono-ios<br>  https://dono-app.github.io/<br>  Added July 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
-- Encryptr: A zero-knowledge, cloud-based e-wallet and password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
+- Encryptr: A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
 <details><summary>`cordova` `grunt` `node` 🔥🔥🔥🔥</summary>  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/solutions/encryptr<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Encryptr image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/cc/ab/0f/ccab0fca-197f-56c0-c265-4b73c99e4ef8/screen696x696.jpeg'> 
 </div>
@@ -2172,12 +2204,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` 🇨🇳 🔥🔥🔥🔥🔥</summary>  https://github.com/shadowsocks/Potatso<br>  Added June 30, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
-- Prey: Track lost or stolen devices and perform actions remotely  
-<details><summary>`swift` </summary>  https://github.com/prey/prey-swift-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+- Prey: Track lost or stolen devices & perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037)  
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/prey/prey-ios-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
-- Prey Anti Theft: Track lost or stolen devices and perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037)  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/prey/prey-ios-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+- Prey: Track lost or stolen devices & perform actions remotely  
+<details><summary>`swift` </summary>  https://github.com/prey/prey-swift-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
 - SkeletonKey: Password manager with Dropbox [` App Store`](https://itunes.apple.com/app/skeleton-key-password-manager/id513648119)  
@@ -2193,7 +2225,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Aozora: Discover and track anime [` App Store`](https://itunes.apple.com/app/aozora-anime-community-track/id1017433045)  
+- Aozora: Discover & track anime [` App Store`](https://itunes.apple.com/app/aozora-anime-community-track/id1017433045)  
 <details><summary>`swift` </summary>  https://github.com/opensourceios/Aozora<br>  Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -2209,15 +2241,15 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` </summary>  https://github.com/jenduf/GenericSocialApp<br>  Added March 17, 2015<br>  License: `other`
   </details>
 </details> 
-- Post Manager: Post/schedule Twitter posts like Buffer with node.js backend & Share Extension  
-<details><summary>`swift` </summary>  https://github.com/TomekB/PostManager<br>  Added July 15, 2016<br>  License: `other`
+- Post Manager: Post/schedule Twitter posts like Buffer, includes a Share Extension  
+<details><summary>`swift` `node` </summary>  https://github.com/TomekB/PostManager<br>  Added July 15, 2016<br>  License: `other`
   </details>
 </details> 
-- StreetMusicMap: Is a collaborative global community that connects street musicians, fans and videomakers [` App Store`](https://itunes.apple.com/app/street-music-map/id980068735)  
+- StreetMusicMap: Is a collaborative global community that connects street musicians, fans & videomakers [` App Store`](https://itunes.apple.com/app/street-music-map/id980068735)  
 <details><summary>`objc` </summary>  https://github.com/henriquevelloso/StreetMusicMap<br>  Added April 20, 2016<br>  License: `other`
   </details>
 </details> 
-- Yep: Discover talent and build something together [` App Store`](https://itunes.apple.com/app/yep-meet-genius/id983891256)  
+- Yep: Discover talent & build something together [` App Store`](https://itunes.apple.com/app/yep-meet-genius/id983891256)  
 <details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/CatchChat/Yep<br>  Added February  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -2234,7 +2266,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` </summary>  https://github.com/anthonygeranio/CloudKit-To-Do-List<br>  Added April  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Habitica: Habit building and productivity [` App Store`](https://itunes.apple.com/app/id994882113)  
+- Habitica: Habit building & productivity [` App Store`](https://itunes.apple.com/app/id994882113)  
 <details><summary>`objc` </summary>  https://github.com/HabitRPG/habitrpg-ios<br>  https://habitica.com/static/front<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
@@ -2378,23 +2410,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Encryptr: A zero-knowledge, cloud-based e-wallet and password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
+- Encryptr: A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
 <details><summary>`cordova` `grunt` `node` 🔥🔥🔥🔥</summary>  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/solutions/encryptr<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Encryptr image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/cc/ab/0f/ccab0fca-197f-56c0-c265-4b73c99e4ef8/screen696x696.jpeg'> 
 </div>
-  </details>
-</details> 
-
-### 3D Touch 
- 
-[back to top](#readme) 
- 
-- ForceSketch: Sketching app  
-<details><summary>`objc` </summary>  https://github.com/FlexMonkey/ForceSketch<br>  Added October 28, 2015<br>  License: `other`
-  </details>
-</details> 
-- Plum-O-Meter: Weigh plums (and other small fruit!)  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/FlexMonkey/Plum-O-Meter<br>  Added October 27, 2015<br>  License: `other`
   </details>
 </details> 
 
@@ -2419,11 +2438,15 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` 🔥</summary>  https://github.com/objcio/issue-4-full-core-data-application<br>  Added August  7, 2015<br>  License: `other`
   </details>
 </details> 
+- Reusable Code  
+<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/carlbtrn/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
 - Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures  
 <details><summary>`swift` </summary>  https://github.com/vanyaland/Tagger<br>  Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Tasks: Designed to quickly and easily add tasks [` App Store`](https://itunes.apple.com/app/task-application/id960435759)  
+- Tasks: Designed to quickly & easily add tasks [` App Store`](https://itunes.apple.com/app/task-application/id960435759)  
 <details><summary>`swift` `iphone` </summary>  https://github.com/mbcrump/TasksForSwiftWithPersistingData<br>  Added March  5, 2015<br>  License: `other`
   </details>
 </details> 
@@ -2480,7 +2503,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` </summary>  https://github.com/2city/2CITY-iOS<br>  Added October 12, 2015<br>  License: `other`
   </details>
 </details> 
-- Anypic: Mobile and web app that lets users share photos similar to Instagram [` App Store`](https://itunes.apple.com/app/anypic/id539741538)  
+- Anypic: Mobile & web app that lets users share photos similar to Instagram [` App Store`](https://itunes.apple.com/app/anypic/id539741538)  
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/ParsePlatform/Anypic<br>  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
   </details>
 </details> 
@@ -2512,7 +2535,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` 🔥</summary>  https://github.com/ParsePlatform/ParseStore<br>  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
   </details>
 </details> 
-- Paws: Building an Instagram-Like App with Parse  
+- Paws: Instagram clone  
 <details><summary>`swift` </summary>  http://www.appcoda.com/instagram-app-parse-swift/<br>  Added April 17, 2015<br>  License: `other`
   </details>
 </details> 
@@ -2609,7 +2632,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`reactnative` 🔥🔥🔥</summary>  https://github.com/wwayne/react-native-nba-app<br>  Added January  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- NBAreact: NBA stats and standings  
+- NBAreact: NBA stats & standings  
 <details><summary>`reactnative` </summary>  https://github.com/jbkuczma/NBAreact<br>  Added July 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -2682,7 +2705,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Done: To-do list data sharing between extension and main app  
+- Done: To-do list data sharing between extension & main app  
 <details><summary>`swift` `realm` `watchkit` </summary>  https://github.com/FancyPixel/done-swift<br>  Added May  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -2709,6 +2732,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 - American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://itunes.apple.com/app/id1092988367)  
 <details><summary>`viper` </summary>  https://github.com/ryanipete/AmericanChronicle<br>  http://ryanipete.com/AmericanChronicle/<br>  Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='American Chronicle image 1' src='http://a5.mzstatic.com/us/r30/Purple60/v4/1e/82/3b/1e823b8a-d10c-2085-2063-1d18ba68ce2e/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - Contacts  
@@ -2811,11 +2836,11 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` </summary>  https://github.com/mperovic/my41<br>  Added February 19, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
 </details> 
-- openHAB: Vendor and technology agnostic home automation [` App Store`](https://itunes.apple.com/app/id492054521)  
+- openHAB: Vendor & technology agnostic home automation [` App Store`](https://itunes.apple.com/app/id492054521)  
 <details><summary>`objc` </summary>  https://github.com/openhab/openhab.ios<br>  http://www.openhab.org/<br>  Added June  2, 2016<br>  License: [`epl-1.0`](http://choosealicense.com/licenses/epl-1.0/)
   </details>
 </details> 
-- ownCloud: File browser and sync for ownCloud file hosting service [` App Store`](https://itunes.apple.com/app/owncloud/id543672169)  
+- ownCloud: File browser & sync for ownCloud file hosting service [` App Store`](https://itunes.apple.com/app/owncloud/id543672169)  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/owncloud/ios<br>  Added May 18, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
@@ -2823,7 +2848,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/iAugux/Phonetic<br>  Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Seafile Pro: App for Seafile (self-hosted file sharing) [` App Store`](https://itunes.apple.com/app/id639202512)  
+- Seafile Pro: App for Seafile self-hosted file sharing [` App Store`](https://itunes.apple.com/app/id639202512)  
 <details><summary>`objc` </summary>  https://github.com/haiwen/seafile-iOS<br>  https://www.seafile.com/en/home/<br>  Added June  1, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 </details> 
@@ -2848,6 +2873,19 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 
+### 3D Touch 
+ 
+[back to top](#readme) 
+ 
+- ForceSketch: Sketching app  
+<details><summary>`objc` </summary>  https://github.com/FlexMonkey/ForceSketch<br>  Added October 28, 2015<br>  License: `other`
+  </details>
+</details> 
+- Plum-O-Meter: Weigh plums (and other small fruit!)  
+<details><summary>`swift` 🔥🔥</summary>  https://github.com/FlexMonkey/Plum-O-Meter<br>  Added October 27, 2015<br>  License: `other`
+  </details>
+</details> 
+
 ### Calculator 
  
 [back to top](#readme) 
@@ -2856,7 +2894,13 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/benoitvallon/react-native-nw-react-calculator<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Free42: A re-implementation of the HP-42S Calculator and the HP-82240 printer [` App Store`](https://itunes.apple.com/app/id337692629)  
+- Coffee Ratio: Calculates grams of water needed given grams of coffee based off ratio chosen  
+<details><summary>`objc` </summary>  https://github.com/jmp9c/Coffee-Ratio<br>  Added September  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Coffee Ratio image 1' src='http://i.imgur.com/rQxOsqO.png'> 
+</div>
+  </details>
+</details> 
+- Free42: A re-implementation of the HP-42S Calculator & the HP-82240 printer [` App Store`](https://itunes.apple.com/app/id337692629)  
 <details><summary>`objc` </summary>  http://thomasokken.com/free42/download/free42.tgz<br>  http://thomasokken.com/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
 </details> 
