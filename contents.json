@@ -8249,6 +8249,16 @@
         "https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png"
       ],
       "suggested_by": "@vanyaland"
+    },
+    {
+      "title": "pokevision",
+      "source": "https://github.com/Morhaus/rn-pokevision",
+      "category-ids": ["react-native"],
+      "tags": ["reactnative"],
+      "screenshots": ["https://github.com/Morhaus/rn-pokevision/raw/master/screenshot.png"],
+      "license": "other",
+      "date_added": "Sep 9 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
