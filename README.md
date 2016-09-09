@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-550-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  9, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-551-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  9, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1581,7 +1581,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - Kiwix: An offline reader for Wikipedia (& many other websites) [` App Store`](https://itunes.apple.com/app/id997079563)  
-<details><summary>`swift` </summary>  https://github.com/kiwix/iOS<br>  http://www.kiwix.org/wiki/Main_Page<br>  Added June  2, 2016<br>  License: `other`
+<details><summary>`swift` </summary>  https://github.com/kiwix/iOS<br>  http://wiki.kiwix.org/wiki/Main_Page<br>  Added June  2, 2016<br>  License: `other`
   </details>
 </details> 
 - KonaBot: An app for http://konachan.net/ [` App Store`](https://itunes.apple.com/app/konabot/id1055716649)  
@@ -2648,6 +2648,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`reactnative` </summary>  https://github.com/mzabriskie/PocketNode<br>  Added February  4, 2016<br>  License: `other`
   </details>
 </details> 
+- pokevision  
+<details><summary>`reactnative` </summary>  https://github.com/Morhaus/rn-pokevision<br>  Added September  9, 2016<br>  License: `other`
+<div><img height='300' alt='pokevision image 1' src='https://github.com/Morhaus/rn-pokevision/raw/master/screenshot.png'> 
+</div>
+  </details>
+</details> 
 - Product Kitty: Product Hunt app  
 <details><summary>`reactnative` 🔥</summary>  https://github.com/rkho/product-kitty<br>  Added September  2, 2015<br>  License: `other`
   </details>
@@ -2902,10 +2908,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Free42: A re-implementation of the HP-42S Calculator & the HP-82240 printer [` App Store`](https://itunes.apple.com/app/id337692629)  
 <details><summary>`objc` </summary>  http://thomasokken.com/free42/download/free42.tgz<br>  http://thomasokken.com/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='Free42 image 1' src='http://a1.mzstatic.com/us/r30/Purple3/v4/a4/bd/1e/a4bd1e5c-a158-7669-76c9-915c3b41ecec/screen568x568.jpeg'> 
+</div>
   </details>
 </details> 
 - NumberPad: An experimental prototype calculator  
-<details><summary>`ipad` </summary>  https://github.com/bridger/NumberPad<br>  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<details><summary>`ipad` </summary>  https://github.com/bridger/NumberPad<br>  http://bridgermaxwell.com/blog/numberpad-notation/<br>  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='NumberPad image 1' src='http://i.imgur.com/5o7MaMll.png'> 
+</div>
   </details>
 </details> 
 - Round & Split: Tip Calculator [` App Store`](https://itunes.apple.com/app/round-split/id912288737)  
