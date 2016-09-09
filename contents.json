@@ -8223,9 +8223,9 @@
             "category-ids": "Calculator",
             "description": "Calculates grams of water needed given grams of coffee based off ratio chosen",
             "source": "https://github.com/jmp9c/Coffee-Ratio",
-            "screenshots": ["http://imgur.com/rQxOsqO.png"],
+            "screenshots": ["http://i.imgur.com/rQxOsqO.png"],
             "date_added": "Sep 8 2016",
             "suggested_by": "@jmp9c"
-}
+    }
   ]
 }
