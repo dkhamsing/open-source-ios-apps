@@ -8217,6 +8217,15 @@
         "https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png",
         "https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png"
       ]
-    }
+    },
+    {
+            "title": "Coffee Ratio",
+            "category-ids": "Calculator",
+            "description": "Calculates grams of water needed given grams of coffee based off ratio chosen",
+            "source": "https://github.com/jmp9c/Coffee-Ratio",
+            "screenshots": ["http://imgur.com/rQxOsqO.png"],
+            "date_added": "Sep 8 2016",
+            "suggested_by": "@jmp9c"
+}
   ]
 }
