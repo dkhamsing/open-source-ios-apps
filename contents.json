@@ -8235,7 +8235,7 @@
       "date_added": "Sep 9 2016",
       "suggested_by": "@jmp9c",
       "license": "mit",
-      "tags": ["swift 3.0"]
+      "tags": ["swift", "swift3"]
     },
     {
       "title": "Protocol-Oriented MVVM Examples",
