@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-551-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September  9, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-552-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September 12, 2016-lightgrey.svg)
 
 Jump to
 
@@ -568,6 +568,12 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- AlcatrazTour: Shows Xcode plugins ranking  
+<details><summary>`swift` </summary>  https://github.com/haranicle/AlcatrazTour<br>  Added September  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='AlcatrazTour image 1' src='https://raw.githubusercontent.com/haranicle/AlcatrazTour/master/images/list_ss.png'> 
+</div>
+  </details>
+</details> 
 - AppLove: View app reviews for all territories (countries) [` App Store`](https://itunes.apple.com/app/app-love/id1099336831)  
 <details><summary>`swift` </summary>  https://github.com/snowpunch/AppLove<br>  Added May  7, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -674,12 +680,6 @@ Click ► to show more details
 </details> 
 - My First Memory: Memory game, includes introduction to iOS & Swift  
 <details><summary>`swift` `instagram api` </summary>  https://github.com/Sajjon/SwiftIntro<br>  Added July  6, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  </details>
-</details> 
-- Pi: Study, solve problems, formula library, calculators & more! Made by a student for students. [` App Store`](https://itunes.apple.com/app/pi-a-students-dream/id1117743302)  
-<details><summary>`objc` </summary>  https://github.com/thepiproject/Pi-iOS<br>  Added August 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Pi image 1' src='http://a4.mzstatic.com/us/r30/Purple60/v4/44/b7/13/44b713c0-a307-b098-f835-33f2ec471436/screen696x696.jpeg'> 
-</div>
   </details>
 </details> 
 - Population Clock: Learn about geography & demographics [` App Store`](https://itunes.apple.com/app/population-clock-hd/id590689957)  
@@ -1588,7 +1588,7 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`swift` </summary>  https://github.com/hkalexling/KonaBot-iOS<br>  Added December  3, 2015<br>  License: `other`
   </details>
 </details> 
-- LidderbuchApp: Songbook for Luxembourgish Students [` App Store`](https://itunes.apple.com/app/lidderbuch/id997143407)  
+- LidderbuchApp: Songbook for Luxembourgish students [` App Store`](https://itunes.apple.com/app/lidderbuch/id997143407)  
 <details><summary>`swift` 🇱🇺 </summary>  https://github.com/AcelLuxembourg/LidderbuchApp<br>  Added September 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -2648,8 +2648,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`reactnative` </summary>  https://github.com/mzabriskie/PocketNode<br>  Added February  4, 2016<br>  License: `other`
   </details>
 </details> 
-- pokevision  
-<details><summary>`reactnative` </summary>  https://github.com/Morhaus/rn-pokevision<br>  Added September  9, 2016<br>  License: `other`
+- pokevision: Display all the Pokémon around you  
+<details><summary>`reactnative` `goradar` </summary>  https://github.com/Morhaus/rn-pokevision<br>  Added September  9, 2016<br>  License: `other`
 <div><img height='300' alt='pokevision image 1' src='https://github.com/Morhaus/rn-pokevision/raw/master/screenshot.png'> 
 </div>
   </details>
@@ -2901,7 +2901,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Coffee Ratio: Calculates grams of water needed given grams of coffee based off ratio chosen  
-<details><summary>`objc` </summary>  https://github.com/jmp9c/Coffee-Ratio<br>  Added September  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `swift3` </summary>  https://github.com/jmp9c/Coffee-Ratio<br>  Added September  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Coffee Ratio image 1' src='http://i.imgur.com/rQxOsqO.png'> 
 </div>
   </details>
@@ -2913,7 +2913,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - NumberPad: An experimental prototype calculator  
-<details><summary>`ipad` </summary>  https://github.com/bridger/NumberPad<br>  http://bridgermaxwell.com/blog/numberpad-notation/<br>  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<details><summary>`swift` </summary>  https://github.com/bridger/NumberPad<br>  http://bridgermaxwell.com/blog/numberpad-notation/<br>  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div><img height='300' alt='NumberPad image 1' src='http://i.imgur.com/5o7MaMll.png'> 
 </div>
   </details>
