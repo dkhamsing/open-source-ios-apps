@@ -8261,6 +8261,17 @@
       "license": "other",
       "date_added": "Sep 9 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "AlcatrazTour",
+      "description": "Shows Xcode plugins ranking",
+      "category-ids": "developer",
+      "source": "https://github.com/haranicle/AlcatrazTour",
+      "screenshots": ["https://raw.githubusercontent.com/haranicle/AlcatrazTour/master/images/list_ss.png"],
+      "tags": ["swift"],
+      "license": "mit",
+      "date_added": "Sep 9 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
