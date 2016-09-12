@@ -8234,7 +8234,8 @@
       "screenshots": ["http://i.imgur.com/rQxOsqO.png"],
       "date_added": "Sep 9 2016",
       "suggested_by": "@jmp9c",
-      "license": "mit"
+      "license": "mit",
+      "tags": ["swift 3.0"]
     },
     {
       "title": "Protocol-Oriented MVVM Examples",
