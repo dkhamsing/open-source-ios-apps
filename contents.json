@@ -4146,7 +4146,7 @@
         "iphone",
         "ipad"
       ],
-      "description": "App https://phphub.org/",
+      "description": "App for http://phphub.laravel-china.org/",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/Aufree/phphub-ios",
@@ -8166,7 +8166,7 @@
         "education"
       ],
       "description": "Study, solve problems, formula library, calculators & more! Made by a student for students.",
-      "source": "https://github.com/thepiproject/Pi-iOS",
+      "source": "https://github.com/opensourceios/Pi",
       "itunes": "https://itunes.apple.com/app/pi-a-students-dream/id1117743302",
       "license": "mit",
       "screenshots": [
