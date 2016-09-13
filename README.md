@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-552-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September 12, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-553-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September 13, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1638,7 +1638,7 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`swift` `instagram api` 🔥🔥</summary>  https://github.com/MoZhouqi/PhotoBrowser<br>  Added March 31, 2015<br>  License: `other`
   </details>
 </details> 
-- PHPHub: App https://phphub.org/ [` App Store`](https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564)  
+- PHPHub: App for http://phphub.laravel-china.org/ [` App Store`](https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564)  
 <details><summary>`iphone` `ipad` 🇨🇳 🔥🔥🔥</summary>  https://github.com/Aufree/phphub-ios<br>  Added December  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -1660,6 +1660,12 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - RealmVideo: Watch Realm videos & slides  
 <details><summary>`swift` `iphone` 🔥🔥</summary>  https://github.com/BalestraPatrick/RealmVideo<br>  Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Rewatch: Get suggestions for your BetaSeries account on what episode to rewatch [` App Store`](https://itunes.apple.com/app/rewatch-get-suggestion-rewatch/id1054419288)  
+<details><summary>`swift` `carthage` </summary>  https://github.com/Palleas/Rewatch<br>  Added September 13, 2016
+<div><img height='300' alt='Rewatch image 1' src='http://a5.mzstatic.com/us/r30/Purple18/v4/f9/5c/67/f95c6741-8c28-958e-f532-1eb7ec8fe792/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - SoundCloudSwift: SoundCloud app  
