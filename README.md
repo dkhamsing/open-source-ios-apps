@@ -13,7 +13,9 @@ Jump to
 - [Apple TV](#apple-tv) 
 - [Apple Watch](#apple-watch) 
 - [Browser](#browser) 
+- [Calculator](#calculator) 
 - [Calendar](#calendar) 
+- [Clock](#clock) 
 - [Clone](#clone) 
 - [Communication](#communication) 
 - [Conference](#conference) 
@@ -45,13 +47,16 @@ Jump to
   - [ReactiveCocoa](#reactivecocoa) 
   - [RxSwift](#rxswift) 
 - [Sample](#sample) 
+- [Scan](#scan) 
 - [Security](#security) 
 - [Social](#social) 
 - [Tasks](#tasks) 
 - [Text](#text) 
+- [Timer](#timer) 
 - [Travel](#travel) 
 - [Weather](#weather) 
-- [Special](#special) 
+- [Misc](#misc) 
+  - [3D Touch](#3d-touch) 
   - [Appcelerator](#appcelerator) 
   - [Core Data](#core-data) 
   - [Firebase](#firebase) 
@@ -61,12 +66,6 @@ Jump to
   - [Realm](#realm) 
   - [VIPER](#viper) 
   - [Xamarin](#xamarin) 
-- [Misc](#misc) 
-  - [3D Touch](#3d-touch) 
-  - [Calculator](#calculator) 
-  - [Clock](#clock) 
-  - [Scan](#scan) 
-  - [Timer](#timer) 
 - [Bonus](#bonus) 
 - [Thanks](#thanks)
 - [Contact](#contact)
@@ -328,7 +327,7 @@ Click ► to show more details
   </details>
 </details> 
 - Firefox: Official Firefox app [` App Store`](https://itunes.apple.com/app/firefox-web-browser/id989804926)  
-<details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/mozilla/firefox-ios<br>  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+<details><summary>`swift` `carthage` `alamofire` `snapkit` `libphonenumber` 🔥🔥🔥🔥🔥</summary>  https://github.com/mozilla/firefox-ios<br>  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
 <div><img height='300' alt='Firefox image 1' src='http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg'> 
 </div>
   </details>
@@ -348,6 +347,41 @@ Click ► to show more details
   </details>
 </details> 
 
+## Calculator 
+ 
+[back to top](#readme) 
+ 
+- Calculator: React Native calculator  
+<details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/benoitvallon/react-native-nw-react-calculator<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Coffee Ratio: Calculates grams of water needed given grams of coffee based off ratio chosen  
+<details><summary>`swift` `swift3` </summary>  https://github.com/jmp9c/Coffee-Ratio<br>  Added September  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Coffee Ratio image 1' src='http://i.imgur.com/rQxOsqO.png'> 
+</div>
+  </details>
+</details> 
+- Free42: A re-implementation of the HP-42S Calculator & the HP-82240 printer [` App Store`](https://itunes.apple.com/app/id337692629)  
+<details><summary>`objc` </summary>  http://thomasokken.com/free42/download/free42.tgz<br>  http://thomasokken.com/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='Free42 image 1' src='http://a1.mzstatic.com/us/r30/Purple3/v4/a4/bd/1e/a4bd1e5c-a158-7669-76c9-915c3b41ecec/screen568x568.jpeg'> 
+</div>
+  </details>
+</details> 
+- NumberPad: An experimental prototype calculator  
+<details><summary>`swift` </summary>  https://github.com/bridger/NumberPad<br>  http://bridgermaxwell.com/blog/numberpad-notation/<br>  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='NumberPad image 1' src='http://i.imgur.com/5o7MaMll.png'> 
+</div>
+  </details>
+</details> 
+- Round & Split: Tip Calculator [` App Store`](https://itunes.apple.com/app/round-split/id912288737)  
+<details><summary>`swift` </summary>  https://github.com/lukhnos/roundandsplit<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- SIP Calculator: Calculate the future value of SIP (Systematic Investment Plan) payments [` App Store`](https://itunes.apple.com/app/id1092822415)  
+<details><summary>`swift` </summary>  https://github.com/tirupati17/sip-calculator-swift<br>  Added July 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+
 ## Calendar 
  
 [back to top](#readme) 
@@ -358,6 +392,27 @@ Click ► to show more details
 </details> 
 - Workdays: Simple calendar with operating schedule [` App Store`](https://itunes.apple.com/app/workdays-calendar/id889712978)  
 <details><summary>`iphone` </summary>  https://github.com/mpak/Workdays<br>  Added August 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+
+## Clock 
+ 
+[back to top](#readme) 
+ 
+- Fibonacc iClock: A clock based off the famous Fibonacci sequence  
+<details><summary>`objc` </summary>  https://github.com/scribblemaniac/Fibonacc-iClock<br>  Added May 23, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+</details> 
+- HausClock: Minimal chess clock  
+<details><summary>`swift` </summary>  https://github.com/nottombrown/HausClock<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Natural Language Clock: Display the time as you would speak it  
+<details><summary>`swift` </summary>  https://github.com/chadkeck/Natural-Language-Clock<br>  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- SwiftTextClock: Inspired by the beautiful QlockTwo  
+<details><summary>`swift` </summary>  https://github.com/MichMich/SwiftTextClock<br>  Added June 18, 2016<br>  License: `other`
   </details>
 </details> 
 
@@ -513,7 +568,7 @@ Click ► to show more details
   </details>
 </details> 
 - Wire: Modern, private communications: crystal clear voice, video, group chats. No advertising. Always encrypted. [` App Store`](https://itunes.apple.com/app/wire/id930944768)  
-<details><summary>`swift` 🔥🔥🔥🔥</summary>  https://github.com/wireapp/wire-ios<br>  Added July 22, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`swift` `carthage` `afnetworking` `purelayout` 🔥🔥🔥🔥</summary>  https://github.com/wireapp/wire-ios<br>  Added July 22, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Wire image 1' src='https://cdn-images-1.medium.com/max/800/1*CEtofzY1rIOKuGT7JO3VkA.png'> 
 </div>
   </details>
@@ -1663,7 +1718,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - Rewatch: Get suggestions for your BetaSeries account on what episode to rewatch [` App Store`](https://itunes.apple.com/app/rewatch-get-suggestion-rewatch/id1054419288)  
-<details><summary>`swift` `carthage` </summary>  https://github.com/Palleas/Rewatch<br>  Added September 13, 2016
+<details><summary>`swift` `carthage` 🇨🇳 </summary>  https://github.com/Palleas/Rewatch<br>  Added September 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Rewatch image 1' src='http://a5.mzstatic.com/us/r30/Purple18/v4/f9/5c/67/f95c6741-8c28-958e-f532-1eb7ec8fe792/screen696x696.jpeg'> 
 </div>
   </details>
@@ -1868,11 +1923,11 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Coding: Official Coding app [` App Store`](https://itunes.apple.com/app/coding/id923676989)  
-<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/Coding/Coding-iOS<br>  Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactivecocoa` `masonry` 🇨🇳 🔥🔥🔥🔥</summary>  https://github.com/Coding/Coding-iOS<br>  Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - DuckDuckGo: Official DuckDuckGo app [` App Store`](https://itunes.apple.com/app/duckduckgo-search-stories/id663592361)  
-<details><summary>`objc` 🔥</summary>  https://github.com/duckduckgo/ios<br>  Added March 17, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<details><summary>`afnetworking` 🔥</summary>  https://github.com/duckduckgo/ios<br>  Added March 17, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 </details> 
 - F8 2016: Official F8 app  
@@ -1882,7 +1937,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Firefox: Official Firefox app [` App Store`](https://itunes.apple.com/app/firefox-web-browser/id989804926)  
-<details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/mozilla/firefox-ios<br>  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+<details><summary>`swift` `carthage` `alamofire` `snapkit` `libphonenumber` 🔥🔥🔥🔥🔥</summary>  https://github.com/mozilla/firefox-ios<br>  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
 <div><img height='300' alt='Firefox image 1' src='http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg'> 
 </div>
   </details>
@@ -1914,7 +1969,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Simplenote: Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962)  
-<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/automattic/simplenote-ios<br>  https://simplenote.com/<br>  Added August 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<details><summary>`1password` `fabric` `crashlytics` 🔥🔥🔥🔥</summary>  https://github.com/automattic/simplenote-ios<br>  https://simplenote.com/<br>  Added August 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <div><img height='300' alt='Simplenote image 1' src='https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg'> 
 </div>
   </details>
@@ -1932,7 +1987,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Wire: Modern, private communications: crystal clear voice, video, group chats. No advertising. Always encrypted. [` App Store`](https://itunes.apple.com/app/wire/id930944768)  
-<details><summary>`swift` 🔥🔥🔥🔥</summary>  https://github.com/wireapp/wire-ios<br>  Added July 22, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`swift` `carthage` `afnetworking` `purelayout` 🔥🔥🔥🔥</summary>  https://github.com/wireapp/wire-ios<br>  Added July 22, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Wire image 1' src='https://cdn-images-1.medium.com/max/800/1*CEtofzY1rIOKuGT7JO3VkA.png'> 
 </div>
   </details>
@@ -1971,6 +2026,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - C-41: Simple timer to make developing film easier & more reliable [` App Store`](https://itunes.apple.com/app/c-41/id789924103)  
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/ashfurrow/C-41<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Coding: Official Coding app [` App Store`](https://itunes.apple.com/app/coding/id923676989)  
+<details><summary>`reactivecocoa` `masonry` 🇨🇳 🔥🔥🔥🔥</summary>  https://github.com/Coding/Coding-iOS<br>  Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Giraffe  
@@ -2168,6 +2227,21 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 
+## Scan 
+ 
+[back to top](#readme) 
+ 
+- QR Blank: No ads simple QR code URL scanner [` App Store`](https://itunes.apple.com/app/id1137064763)  
+<details><summary>`swift` </summary>  https://github.com/kahopoon/QR-Blank<br>  Added August 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='QR Blank image 1' src='https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif'> <img height='300' alt='QR Blank image 2' src='https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg'> <img height='300' alt='QR Blank image 3' src='https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg'> 
+</div>
+  </details>
+</details> 
+- ZBar Barcode Reader: A comprehensive barcode reader [` App Store`](https://itunes.apple.com/app/id344957305)  
+<details><summary>`objc` </summary>  https://sourceforge.net/projects/zbar/<br>  http://zbar.sourceforge.net/<br>  Added June  1, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
+  </details>
+</details> 
+
 ## Security 
  
 [back to top](#readme) 
@@ -2326,13 +2400,40 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Simplenote: Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962)  
-<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/automattic/simplenote-ios<br>  https://simplenote.com/<br>  Added August 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<details><summary>`1password` `fabric` `crashlytics` 🔥🔥🔥🔥</summary>  https://github.com/automattic/simplenote-ios<br>  https://simplenote.com/<br>  Added August 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <div><img height='300' alt='Simplenote image 1' src='https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg'> 
 </div>
   </details>
 </details> 
 - SwiftNote: Simple note taking with Today Extension & iCloud sync  
 <details><summary>`swift` 🔥</summary>  https://github.com/mslathrop/SwiftNote<br>  Added March 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+
+## Timer 
+ 
+[back to top](#readme) 
+ 
+- C-41: Simple timer to make developing film easier & more reliable [` App Store`](https://itunes.apple.com/app/c-41/id789924103)  
+<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/ashfurrow/C-41<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Cherry: Mini Pomodoro Timer  
+<details><summary>`swift` 🔥🔥</summary>  https://github.com/kenshin03/Cherry<br>  Added February 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Cherry image 1' src='https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png'> 
+</div>
+  </details>
+</details> 
+- Coffee Timer  
+<details><summary>`swift` </summary>  https://github.com/ashfurrow/yourfirstswiftapp<br>  Added April  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693)  
+<details><summary>`swift` 🔥🔥</summary>  https://github.com/dasdom/Tomate<br>  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- TrackMyTime  
+<details><summary>`objc` </summary>  https://github.com/EvgenyKarkan/TrackMyTime<br>  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 
@@ -2412,14 +2513,117 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 
-## Special 
+## Misc 
  
 [back to top](#readme) 
  
-- Encryptr: A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
-<details><summary>`cordova` `grunt` `node` 🔥🔥🔥🔥</summary>  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/solutions/encryptr<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<div><img height='300' alt='Encryptr image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/cc/ab/0f/ccab0fca-197f-56c0-c265-4b73c99e4ef8/screen696x696.jpeg'> 
-</div>
+- BlogQuest: Alternative Tumblr client  
+<details><summary>`objc` </summary>  https://github.com/irace/BlogQuest<br>  Added March 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Borrowed Books UFGRS: Manage ufrgs.br library books  
+<details><summary>`swift` `alamofire` 🇵🇹 </summary>  https://github.com/MatheusCavalca/RenovaLivrosUFRGS<br>  Added March 20, 2016<br>  License: `other`
+  </details>
+</details> 
+- CardDecks: Configurable card decks  
+<details><summary>`objc` </summary>  https://github.com/aharren/CardDecks<br>  Added April 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Colo: Color themes hunter  
+<details><summary>`objc` </summary>  https://github.com/wongzigii/Colo<br>  Added March 16, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+</details> 
+- DeckRocket: Remote app for Deckset presentations  
+<details><summary>`swift` `iphone` 🔥🔥</summary>  https://github.com/jpsim/DeckRocket<br>  Added March 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- FreeRDP: An implementation of the Remote Desktop Protocol (RDP)  
+<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/FreeRDP/FreeRDP<br>  http://www.freerdp.com/<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+</details> 
+- GammaThingy: Change screen gamma dynamically  
+<details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/thomasfinch/GammaThingy<br>  Added November 21, 2015<br>  License: `other`
+  </details>
+</details> 
+- GoodNight: Change screen gamma dynamically  
+<details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/anthonya1999/GoodNight<br>  Added December 23, 2015<br>  License: `other`
+  </details>
+</details> 
+- Hackfoldr: Share all your project documents with a link [` App Store`](https://itunes.apple.com/app/hackfoldr/id919010837)  
+<details><summary>`objc` </summary>  https://github.com/hackfoldr/hackfoldr-iOS<br>  https://hackfoldr.org<br>  Added July 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Hidrate: Interacts with smart water bottle  
+<details><summary>`objc` </summary>  https://github.com/mjcuva/Hidrate<br>  Added May  3, 2016<br>  License: `other`
+  </details>
+</details> 
+- iContactU: Reminds you to contact people you ought to [` App Store`](https://itunes.apple.com/app/icontactu/id920200100)  
+<details><summary>`swift` 🔥</summary>  https://github.com/rizal72/iContactU<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- iCopyPasta: Pasteboard feed  
+<details><summary>`swift` </summary>  https://github.com/alltheflow/iCopyPasta<br>  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- LibreOffice Remote for Impress: Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely [` App Store`](https://itunes.apple.com/app/id806879890)  
+<details><summary>`objc` </summary>  https://cgit.freedesktop.org/libreoffice/impress_remote/<br>  Added June  2, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  </details>
+</details> 
+- Mirror++: Minimalist mirror  
+<details><summary>`swift` </summary>  https://github.com/nathunsmitty/MirrorPlusPlus<br>  Added January  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- my41: HP-41C/CV/CX Microcode emulator [` App Store`](https://itunes.apple.com/app/my41cx/id979041950)  
+<details><summary>`objc` </summary>  https://github.com/mperovic/my41<br>  Added February 19, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+</details> 
+- openHAB: Vendor & technology agnostic home automation [` App Store`](https://itunes.apple.com/app/id492054521)  
+<details><summary>`objc` </summary>  https://github.com/openhab/openhab.ios<br>  http://www.openhab.org/<br>  Added June  2, 2016<br>  License: [`epl-1.0`](http://choosealicense.com/licenses/epl-1.0/)
+  </details>
+</details> 
+- ownCloud: File browser & sync for ownCloud file hosting service [` App Store`](https://itunes.apple.com/app/owncloud/id543672169)  
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/owncloud/ios<br>  Added May 18, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+</details> 
+- Phonetic: Add phonetic keys for Chinese names  
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/iAugux/Phonetic<br>  Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Seafile Pro: App for Seafile self-hosted file sharing [` App Store`](https://itunes.apple.com/app/id639202512)  
+<details><summary>`objc` </summary>  https://github.com/haiwen/seafile-iOS<br>  https://www.seafile.com/en/home/<br>  Added June  1, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+</details> 
+- Swiflytics: See your realtime Google Analytics data [` App Store`](https://itunes.apple.com/app/swiflytics/id1076165139)  
+<details><summary>`swift` </summary>  https://github.com/aciidb0mb3r/Swiflytics<br>  Added April 26, 2016<br>  License: `other`
+  </details>
+</details> 
+- Tether: Tethering for non-jailbroken iOS Devices over USB  
+<details><summary>`objc` 🔥</summary>  https://github.com/chrisballinger/Tether-iOS<br>  Added December 17, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+</details> 
+- TheReservist: Check availability of iPhones  
+<details><summary>`swift` </summary>  https://github.com/kimar/TheReservist<br>  Added April  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Vinylogue: Simple Last.fm app [` App Store`](https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119)  
+<details><summary>`objc` 🔥</summary>  https://github.com/twocentstudios/vinylogue<br>  Added January 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+</details> 
+- Yorkie: Helps you take care of your dog [` App Store`](https://itunes.apple.com/app/Yorkie/id1000836606)  
+<details><summary>`objc` </summary>  https://github.com/carlbtrn/YorkieApp<br>  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+
+### 3D Touch 
+ 
+[back to top](#readme) 
+ 
+- ForceSketch: Sketching app  
+<details><summary>`objc` </summary>  https://github.com/FlexMonkey/ForceSketch<br>  Added October 28, 2015<br>  License: `other`
+  </details>
+</details> 
+- Plum-O-Meter: Weigh plums (and other small fruit!)  
+<details><summary>`swift` 🔥🔥</summary>  https://github.com/FlexMonkey/Plum-O-Meter<br>  Added October 27, 2015<br>  License: `other`
   </details>
 </details> 
 
@@ -2781,218 +2985,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 - Toggl Timer [` App Store`](https://itunes.apple.com/app/toggl-timer/id885767775)  
 <details><summary>`objc` 🔥</summary>  https://github.com/toggl/mobile<br>  Added December  7, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-  </details>
-</details> 
-
-## Misc 
- 
-[back to top](#readme) 
- 
-- BlogQuest: Alternative Tumblr client  
-<details><summary>`objc` </summary>  https://github.com/irace/BlogQuest<br>  Added March 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- Borrowed Books UFGRS: Manage ufrgs.br library books  
-<details><summary>`swift` `alamofire` 🇵🇹 </summary>  https://github.com/MatheusCavalca/RenovaLivrosUFRGS<br>  Added March 20, 2016<br>  License: `other`
-  </details>
-</details> 
-- CardDecks: Configurable card decks  
-<details><summary>`objc` </summary>  https://github.com/aharren/CardDecks<br>  Added April 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- Colo: Color themes hunter  
-<details><summary>`objc` </summary>  https://github.com/wongzigii/Colo<br>  Added March 16, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  </details>
-</details> 
-- DeckRocket: Remote app for Deckset presentations  
-<details><summary>`swift` `iphone` 🔥🔥</summary>  https://github.com/jpsim/DeckRocket<br>  Added March 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- FreeRDP: An implementation of the Remote Desktop Protocol (RDP)  
-<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/FreeRDP/FreeRDP<br>  http://www.freerdp.com/<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  </details>
-</details> 
-- GammaThingy: Change screen gamma dynamically  
-<details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/thomasfinch/GammaThingy<br>  Added November 21, 2015<br>  License: `other`
-  </details>
-</details> 
-- GoodNight: Change screen gamma dynamically  
-<details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/anthonya1999/GoodNight<br>  Added December 23, 2015<br>  License: `other`
-  </details>
-</details> 
-- Hackfoldr: Share all your project documents with a link [` App Store`](https://itunes.apple.com/app/hackfoldr/id919010837)  
-<details><summary>`objc` </summary>  https://github.com/hackfoldr/hackfoldr-iOS<br>  https://hackfoldr.org<br>  Added July 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- Hidrate: Interacts with smart water bottle  
-<details><summary>`objc` </summary>  https://github.com/mjcuva/Hidrate<br>  Added May  3, 2016<br>  License: `other`
-  </details>
-</details> 
-- iContactU: Reminds you to contact people you ought to [` App Store`](https://itunes.apple.com/app/icontactu/id920200100)  
-<details><summary>`swift` 🔥</summary>  https://github.com/rizal72/iContactU<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- iCopyPasta: Pasteboard feed  
-<details><summary>`swift` </summary>  https://github.com/alltheflow/iCopyPasta<br>  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- LibreOffice Remote for Impress: Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely [` App Store`](https://itunes.apple.com/app/id806879890)  
-<details><summary>`objc` </summary>  https://cgit.freedesktop.org/libreoffice/impress_remote/<br>  Added June  2, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
-  </details>
-</details> 
-- Mirror++: Minimalist mirror  
-<details><summary>`swift` </summary>  https://github.com/nathunsmitty/MirrorPlusPlus<br>  Added January  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- my41: HP-41C/CV/CX Microcode emulator [` App Store`](https://itunes.apple.com/app/my41cx/id979041950)  
-<details><summary>`objc` </summary>  https://github.com/mperovic/my41<br>  Added February 19, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-  </details>
-</details> 
-- openHAB: Vendor & technology agnostic home automation [` App Store`](https://itunes.apple.com/app/id492054521)  
-<details><summary>`objc` </summary>  https://github.com/openhab/openhab.ios<br>  http://www.openhab.org/<br>  Added June  2, 2016<br>  License: [`epl-1.0`](http://choosealicense.com/licenses/epl-1.0/)
-  </details>
-</details> 
-- ownCloud: File browser & sync for ownCloud file hosting service [` App Store`](https://itunes.apple.com/app/owncloud/id543672169)  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/owncloud/ios<br>  Added May 18, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  </details>
-</details> 
-- Phonetic: Add phonetic keys for Chinese names  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/iAugux/Phonetic<br>  Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- Seafile Pro: App for Seafile self-hosted file sharing [` App Store`](https://itunes.apple.com/app/id639202512)  
-<details><summary>`objc` </summary>  https://github.com/haiwen/seafile-iOS<br>  https://www.seafile.com/en/home/<br>  Added June  1, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  </details>
-</details> 
-- Swiflytics: See your realtime Google Analytics data [` App Store`](https://itunes.apple.com/app/swiflytics/id1076165139)  
-<details><summary>`swift` </summary>  https://github.com/aciidb0mb3r/Swiflytics<br>  Added April 26, 2016<br>  License: `other`
-  </details>
-</details> 
-- Tether: Tethering for non-jailbroken iOS Devices over USB  
-<details><summary>`objc` 🔥</summary>  https://github.com/chrisballinger/Tether-iOS<br>  Added December 17, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  </details>
-</details> 
-- TheReservist: Check availability of iPhones  
-<details><summary>`swift` </summary>  https://github.com/kimar/TheReservist<br>  Added April  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- Vinylogue: Simple Last.fm app [` App Store`](https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119)  
-<details><summary>`objc` 🔥</summary>  https://github.com/twocentstudios/vinylogue<br>  Added January 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-  </details>
-</details> 
-- Yorkie: Helps you take care of your dog [` App Store`](https://itunes.apple.com/app/Yorkie/id1000836606)  
-<details><summary>`objc` </summary>  https://github.com/carlbtrn/YorkieApp<br>  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-
-### 3D Touch 
- 
-[back to top](#readme) 
- 
-- ForceSketch: Sketching app  
-<details><summary>`objc` </summary>  https://github.com/FlexMonkey/ForceSketch<br>  Added October 28, 2015<br>  License: `other`
-  </details>
-</details> 
-- Plum-O-Meter: Weigh plums (and other small fruit!)  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/FlexMonkey/Plum-O-Meter<br>  Added October 27, 2015<br>  License: `other`
-  </details>
-</details> 
-
-### Calculator 
- 
-[back to top](#readme) 
- 
-- Calculator: React Native calculator  
-<details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/benoitvallon/react-native-nw-react-calculator<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- Coffee Ratio: Calculates grams of water needed given grams of coffee based off ratio chosen  
-<details><summary>`swift` `swift3` </summary>  https://github.com/jmp9c/Coffee-Ratio<br>  Added September  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Coffee Ratio image 1' src='http://i.imgur.com/rQxOsqO.png'> 
-</div>
-  </details>
-</details> 
-- Free42: A re-implementation of the HP-42S Calculator & the HP-82240 printer [` App Store`](https://itunes.apple.com/app/id337692629)  
-<details><summary>`objc` </summary>  http://thomasokken.com/free42/download/free42.tgz<br>  http://thomasokken.com/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-<div><img height='300' alt='Free42 image 1' src='http://a1.mzstatic.com/us/r30/Purple3/v4/a4/bd/1e/a4bd1e5c-a158-7669-76c9-915c3b41ecec/screen568x568.jpeg'> 
-</div>
-  </details>
-</details> 
-- NumberPad: An experimental prototype calculator  
-<details><summary>`swift` </summary>  https://github.com/bridger/NumberPad<br>  http://bridgermaxwell.com/blog/numberpad-notation/<br>  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-<div><img height='300' alt='NumberPad image 1' src='http://i.imgur.com/5o7MaMll.png'> 
-</div>
-  </details>
-</details> 
-- Round & Split: Tip Calculator [` App Store`](https://itunes.apple.com/app/round-split/id912288737)  
-<details><summary>`swift` </summary>  https://github.com/lukhnos/roundandsplit<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- SIP Calculator: Calculate the future value of SIP (Systematic Investment Plan) payments [` App Store`](https://itunes.apple.com/app/id1092822415)  
-<details><summary>`swift` </summary>  https://github.com/tirupati17/sip-calculator-swift<br>  Added July 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-
-### Clock 
- 
-[back to top](#readme) 
- 
-- Fibonacc iClock: A clock based off the famous Fibonacci sequence  
-<details><summary>`objc` </summary>  https://github.com/scribblemaniac/Fibonacc-iClock<br>  Added May 23, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  </details>
-</details> 
-- HausClock: Minimal chess clock  
-<details><summary>`swift` </summary>  https://github.com/nottombrown/HausClock<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- Natural Language Clock: Display the time as you would speak it  
-<details><summary>`swift` </summary>  https://github.com/chadkeck/Natural-Language-Clock<br>  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- SwiftTextClock: Inspired by the beautiful QlockTwo  
-<details><summary>`swift` </summary>  https://github.com/MichMich/SwiftTextClock<br>  Added June 18, 2016<br>  License: `other`
-  </details>
-</details> 
-
-### Scan 
- 
-[back to top](#readme) 
- 
-- QR Blank: No ads simple QR code URL scanner [` App Store`](https://itunes.apple.com/app/id1137064763)  
-<details><summary>`swift` </summary>  https://github.com/kahopoon/QR-Blank<br>  Added August 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='QR Blank image 1' src='https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif'> <img height='300' alt='QR Blank image 2' src='https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg'> <img height='300' alt='QR Blank image 3' src='https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg'> 
-</div>
-  </details>
-</details> 
-- ZBar Barcode Reader: A comprehensive barcode reader [` App Store`](https://itunes.apple.com/app/id344957305)  
-<details><summary>`objc` </summary>  https://sourceforge.net/projects/zbar/<br>  http://zbar.sourceforge.net/<br>  Added June  1, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
-  </details>
-</details> 
-
-### Timer 
- 
-[back to top](#readme) 
- 
-- C-41: Simple timer to make developing film easier & more reliable [` App Store`](https://itunes.apple.com/app/c-41/id789924103)  
-<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/ashfurrow/C-41<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- Cherry: Mini Pomodoro Timer  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/kenshin03/Cherry<br>  Added February 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Cherry image 1' src='https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png'> 
-</div>
-  </details>
-</details> 
-- Coffee Timer  
-<details><summary>`swift` </summary>  https://github.com/ashfurrow/yourfirstswiftapp<br>  Added April  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693)  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/dasdom/Tomate<br>  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
-- TrackMyTime  
-<details><summary>`objc` </summary>  https://github.com/EvgenyKarkan/TrackMyTime<br>  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 
