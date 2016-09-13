@@ -13,7 +13,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - LastFM https://github.com/lastfm/lastfm-iphone
 - Mume https://github.com/opensourceios/Mume
 - Pancake https://github.com/Imaginea/pancake-ios
-- Pi https://github.com/thepiproject/Pi-iOS
+- Pi https://github.com/opensourceios/Pi
 - PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
 - Repo https://github.com/ricburton/Repo
 - Speak https://github.com/opensourceios/speakability
