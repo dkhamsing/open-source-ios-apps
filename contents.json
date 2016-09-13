@@ -209,7 +209,7 @@
       "title": "3D Touch",
       "id": "3d-touch",
       "parent": "misc"
-    },   
+    },
     {
       "title": "Appcelerator",
       "id": "appcelerator",
@@ -6863,8 +6863,7 @@
       "title": "Encryptr",
       "category-ids": [
         "security",
-        "finance",
-        "special"
+        "finance"
       ],
       "tags": [
         "cordova",
