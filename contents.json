@@ -911,7 +911,11 @@
       "itunes": "https://itunes.apple.com/app/firefox-web-browser/id989804926",
       "stars": 6047,
       "tags": [
-        "swift"
+        "swift",
+        "carthage",
+        "alamofire",
+        "snapkit",
+        "libPhoneNumber"
       ],
       "date_added": "Mon Jan 26 19:08:04 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -3350,8 +3354,11 @@
     {
       "title": "Coding",
       "category-ids": [
-        "official"
+        "official",
+        "reactivecocoa"
       ],
+      "tags": ["reactivecocoa", "masonry"],
+      "lang": "zho",
       "description": "Official Coding app",
       "source": "https://github.com/Coding/Coding-iOS",
       "itunes": "https://itunes.apple.com/app/coding/id923676989",
@@ -3365,6 +3372,7 @@
       "category-ids": [
         "official"
       ],
+      "tags": ["afnetworking"],
       "description": "Official DuckDuckGo app",
       "source": "https://github.com/duckduckgo/ios",
       "itunes": "https://itunes.apple.com/app/duckduckgo-search-stories/id663592361",
@@ -3500,7 +3508,11 @@
         "sample"
       ],
       "tags": [
-        "fabric"
+        "fabric",
+        "stripe",
+        "crashlytics",
+        "twitterkit",
+        "alamofire"        
       ],
       "description": "Furniture store demo app",
       "license": "apache-2.0",
@@ -7726,7 +7738,10 @@
       "source": "https://github.com/wireapp/wire-ios",
       "itunes": "https://itunes.apple.com/app/wire/id930944768",
       "tags": [
-        "swift"
+        "swift",
+        "carthage",
+        "afnetworking",
+        "PureLayout"
       ],
       "license": "gpl-3.0",
       "stars": 1352,
@@ -8067,6 +8082,7 @@
         "text",
         "official"
       ],
+      "tags": ["1password", "fabric", "crashlytics"],
       "description": "Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration.",
       "source": "https://github.com/automattic/simplenote-ios",
       "itunes": "https://itunes.apple.com/app/simplenote/id289429962",
