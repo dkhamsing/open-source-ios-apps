@@ -18,8 +18,16 @@
       "id": "browser"
     },
     {
+      "title": "Calculator",
+      "id": "calculator"
+    },
+    {
       "title": "Calendar",
       "id": "calendar"
+    },
+    {
+      "title": "Clock",
+      "id": "clock"
     },
     {
       "title": "Clone",
@@ -162,6 +170,10 @@
       "id": "sample"
     },
     {
+      "title": "Scan",
+      "id": "scan"
+    },
+    {
       "title": "Security",
       "id": "security"
     },
@@ -178,61 +190,16 @@
       "id": "text"
     },
     {
+      "title": "Timer",
+      "id": "timer"
+    },
+    {
       "title": "Travel",
       "id": "travel"
     },
     {
       "title": "Weather",
       "id": "weather"
-    },
-    {
-      "title": "Special",
-      "id": "special"
-    },
-    {
-      "title": "Appcelerator",
-      "id": "appcelerator",
-      "parent": "special"
-    },
-    {
-      "title": "Core Data",
-      "id": "core-data",
-      "parent": "special"
-    },
-    {
-      "title": "Firebase",
-      "id": "firebase",
-      "parent": "special"
-    },
-    {
-      "title": "[Ionic](http://ionicframework.com/)",
-      "id": "ionic",
-      "parent": "special"
-    },
-    {
-      "title": "Parse",
-      "id": "parse",
-      "parent": "special"
-    },
-    {
-      "title": "[React Native](http://facebook.github.io/react-native/)",
-      "id": "react-native",
-      "parent": "special"
-    },
-    {
-      "title": "Realm",
-      "id": "realm",
-      "parent": "special"
-    },
-    {
-      "title": "[VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)",
-      "id": "viper",
-      "parent": "special"
-    },
-    {
-      "title": "Xamarin",
-      "id": "xamarin",
-      "parent": "special"
     },
     {
       "title": "Misc",
@@ -242,25 +209,50 @@
       "title": "3D Touch",
       "id": "3d-touch",
       "parent": "misc"
-    },
+    },   
     {
-      "title": "Calculator",
-      "id": "calculator",
+      "title": "Appcelerator",
+      "id": "appcelerator",
       "parent": "misc"
     },
     {
-      "title": "Clock",
-      "id": "clock",
+      "title": "Core Data",
+      "id": "core-data",
       "parent": "misc"
     },
     {
-      "title": "Scan",
-      "id": "scan",
+      "title": "Firebase",
+      "id": "firebase",
       "parent": "misc"
     },
     {
-      "title": "Timer",
-      "id": "timer",
+      "title": "[Ionic](http://ionicframework.com/)",
+      "id": "ionic",
+      "parent": "misc"
+    },
+    {
+      "title": "Parse",
+      "id": "parse",
+      "parent": "misc"
+    },
+    {
+      "title": "[React Native](http://facebook.github.io/react-native/)",
+      "id": "react-native",
+      "parent": "misc"
+    },
+    {
+      "title": "Realm",
+      "id": "realm",
+      "parent": "misc"
+    },
+    {
+      "title": "[VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)",
+      "id": "viper",
+      "parent": "misc"
+    },
+    {
+      "title": "Xamarin",
+      "id": "xamarin",
       "parent": "misc"
     },
     {
@@ -3512,7 +3504,7 @@
         "stripe",
         "crashlytics",
         "twitterkit",
-        "alamofire"        
+        "alamofire"
       ],
       "description": "Furniture store demo app",
       "license": "apache-2.0",
