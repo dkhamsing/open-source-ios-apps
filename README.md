@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-553-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September 13, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-554-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September 14, 2016-lightgrey.svg)
 
 Jump to
 
@@ -2856,6 +2856,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - PocketNode: Lightweight Node REPL  
 <details><summary>`reactnative` </summary>  https://github.com/mzabriskie/PocketNode<br>  Added February  4, 2016<br>  License: `other`
+  </details>
+</details> 
+- pokemon-map: Locate Pokemon around you  
+<details><summary>`reactnative` </summary>  https://github.com/bakery/pokemon-map<br>  Added September 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='pokemon-map image 1' src='https://camo.githubusercontent.com/d53adba0e5f66819d73abcfce9b27d21042bfbc8/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f393232343332362f706b6d6e6d6170732e706e67'> 
+</div>
   </details>
 </details> 
 - pokevision: Display all the Pokémon around you  
