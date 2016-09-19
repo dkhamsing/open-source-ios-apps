@@ -89,7 +89,7 @@ Click ► to show more details
 [back to top](#readme) 
  
 - Artsy Shows: Art shows on your TV  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/artsy/Emergence<br>  Added November  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `cocoapodskeys` 🔥🔥</summary>  https://github.com/artsy/Emergence<br>  Added November  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Artsy Shows image 1' src='https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/featured.png'> <img height='300' alt='Artsy Shows image 2' src='https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/show.png'> 
 </div>
   </details>
@@ -165,6 +165,8 @@ Click ► to show more details
 </details> 
 - Bither: Simple & secure Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bither/id899478936)  
 <details><summary>`objc` </summary>  https://github.com/bither/bither-ios<br>  Added April  3, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='Bither image 1' src='http://a1.mzstatic.com/us/r30/Purple7/v4/f9/f8/d4/f9f8d401-2a9a-fb50-fe24-76a1158600b2/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - Brew: Discover craft beer pubs nearby [` App Store`](https://itunes.apple.com/app/id986830433)  
@@ -246,7 +248,7 @@ Click ► to show more details
   </details>
 </details> 
 - Lister: List app example by Apple  
-<details><summary>`swift` </summary>  https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html<br>  Added March 23, 2015<br>  License: `other`
+<details><summary>`swift` `swift2.2` `watchos2` </summary>  https://developer.apple.com/library/content/samplecode/Lister/Introduction/Intro.html<br>  Added March 23, 2015<br>  License: `other`
   </details>
 </details> 
 - Natural Language Clock: Display the time as you would speak it  
@@ -935,6 +937,8 @@ Click ► to show more details
  
 - Bither: Simple & secure Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bither/id899478936)  
 <details><summary>`objc` </summary>  https://github.com/bither/bither-ios<br>  Added April  3, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='Bither image 1' src='http://a1.mzstatic.com/us/r30/Purple7/v4/f9/f8/d4/f9f8d401-2a9a-fb50-fe24-76a1158600b2/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - BitStore: Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bitstore/id890668158)  
@@ -2123,7 +2127,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Apple Developer Library  
-<details><summary>`objc` </summary>  https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code<br>  Added March 24, 2015<br>  License: `other`
+<details><summary>`objc` </summary>  https://developer.apple.com/library/content/navigation/#section=Resource%20Types&topic=Sample%20Code<br>  Added March 24, 2015<br>  License: `other`
   </details>
 </details> 
 - Apple WWDC 2015: Code samples from WWDC 2015  
