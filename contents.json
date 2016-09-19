@@ -646,7 +646,7 @@
         "apple-watch"
       ],
       "description": "List app example by Apple",
-      "source": "http://developer.apple.com/library/content/samplecode/Lister/Introduction/Intro.html ",
+      "source": "https://developer.apple.com/library/content/samplecode/Lister/Introduction/Intro.html",
       "tags": [
         "swift",
         "swift2.2",
