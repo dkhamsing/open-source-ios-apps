@@ -8304,6 +8304,17 @@
       "license": "mit",
       "date_added": "Sep 14 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "RxTodo",
+      "source": "https://github.com/devxoul/RxTodo",
+      "screenshots": ["https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png"],
+      "tags": ["swift", "swift2.2", "rxswift", "mvvm"],
+      "category-ids": ["rxswift"],
+      "stars": 381,
+      "license": "other",
+      "date_added": "Sep 19 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
