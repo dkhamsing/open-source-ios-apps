@@ -271,7 +271,8 @@
       "source": "https://github.com/artsy/Emergence",
       "stars": 294,
       "tags": [
-        "swift"
+        "swift",
+        "cocoapodskeys"
       ],
       "date_added": "Fri Nov 6 06:19:26 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -372,6 +373,7 @@
       "license": "apache-2.0",
       "source": "https://github.com/bither/bither-ios",
       "itunes": "https://itunes.apple.com/app/bither/id899478936",
+      "screenshots": ["http://a1.mzstatic.com/us/r30/Purple7/v4/f9/f8/d4/f9f8d401-2a9a-fb50-fe24-76a1158600b2/screen696x696.jpeg"],
       "stars": 82,
       "date_added": "Fri Apr 3 17:59:14 2015 +0800",
       "suggested_by": "宋辰文"
