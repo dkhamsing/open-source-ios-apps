@@ -648,7 +648,9 @@
       "description": "List app example by Apple",
       "source": "http://developer.apple.com/library/content/samplecode/Lister/Introduction/Intro.html ",
       "tags": [
-        "swift"
+        "swift",
+        "swift2.2",
+        "watchos2"
       ],
       "license": "other",
       "date_added": "Mon Mar 23 13:39:28 2015 -0700",
