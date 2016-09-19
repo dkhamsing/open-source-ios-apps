@@ -646,7 +646,7 @@
         "apple-watch"
       ],
       "description": "List app example by Apple",
-      "source": "https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html",
+      "source": "http://developer.apple.com/library/content/samplecode/Lister/Introduction/Intro.html ",
       "tags": [
         "swift"
       ],
@@ -3437,7 +3437,7 @@
       "category-ids": [
         "sample"
       ],
-      "source": "https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code",
+      "source": "https://developer.apple.com/library/content/navigation/#section=Resource%20Types&topic=Sample%20Code",
       "license": "other",
       "date_added": "Tue, 24 Mar 2015 08:55:23 -0700",
       "suggested_by": "@dkhamsing"
