@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-555-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September 19, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-555-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September 26, 2016-lightgrey.svg)
 
 Jump to
 
@@ -2629,7 +2629,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - ForceSketch: Sketching app  
-<details><summary>`objc` </summary>  https://github.com/FlexMonkey/ForceSketch<br>  Added October 28, 2015<br>  License: `other`
+<details><summary>`swift` </summary>  https://github.com/FlexMonkey/ForceSketch<br>  Added October 28, 2015<br>  License: `other`
   </details>
 </details> 
 - Plum-O-Meter: Weigh plums (and other small fruit!)  
