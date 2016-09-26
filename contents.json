@@ -4779,6 +4779,9 @@
       "description": "Sketching app",
       "source": "https://github.com/FlexMonkey/ForceSketch",
       "stars": 61,
+      "tags": [
+        "swift"
+      ],
       "license": "other",
       "date_added": "Wed Oct 28 15:05:45 2015 -0700",
       "suggested_by": "@dkhamsing"
