@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-555-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September 26, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-556-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September 30, 2016-lightgrey.svg)
 
 Jump to
 
@@ -329,7 +329,7 @@ Click ► to show more details
   </details>
 </details> 
 - Firefox: Official Firefox app [` App Store`](https://itunes.apple.com/app/firefox-web-browser/id989804926)  
-<details><summary>`swift` `carthage` `alamofire` `snapkit` `libphonenumber` 🔥🔥🔥🔥🔥</summary>  https://github.com/mozilla/firefox-ios<br>  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+<details><summary>`swift` `carthage` `alamofire` `snapkit` `libphonenumber` 🔥🔥🔥🔥🔥</summary>  https://github.com/mozilla-mobile/firefox-ios<br>  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
 <div><img height='300' alt='Firefox image 1' src='http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg'> 
 </div>
   </details>
@@ -563,6 +563,10 @@ Click ► to show more details
 </details> 
 - Tutanota: End-to-end encrypted email [` App Store`](https://itunes.apple.com/app/id922429609)  
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/tutao/tutanota<br>  https://tutanota.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+</details> 
+- Vapor Chat: Basic realtime chat project using Vapor on the server  
+<details><summary>`swift` `starscream` </summary>  https://github.com/vapor/chat-ios-example<br>  Added September 30, 2016<br>  License: `other`
   </details>
 </details> 
 - Vector: Collaboration for teams, chat & share via http://matrix.org/ [` App Store`](https://itunes.apple.com/app/vector.im/id1083446067)  
@@ -837,7 +841,7 @@ Click ► to show more details
   </details>
 </details> 
 - Focus by Firefox  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/mozilla/focus<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+<details><summary>`swift` 🔥🔥</summary>  https://github.com/mozilla-mobile/focus<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   </details>
 </details> 
 - Swab: Ad blocker for creative, web & design ads [` App Store`](https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002)  
@@ -1941,7 +1945,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Firefox: Official Firefox app [` App Store`](https://itunes.apple.com/app/firefox-web-browser/id989804926)  
-<details><summary>`swift` `carthage` `alamofire` `snapkit` `libphonenumber` 🔥🔥🔥🔥🔥</summary>  https://github.com/mozilla/firefox-ios<br>  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+<details><summary>`swift` `carthage` `alamofire` `snapkit` `libphonenumber` 🔥🔥🔥🔥🔥</summary>  https://github.com/mozilla-mobile/firefox-ios<br>  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
 <div><img height='300' alt='Firefox image 1' src='http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg'> 
 </div>
   </details>
@@ -2209,7 +2213,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Reusable Code  
-<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/carlbtrn/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/carlosbtn/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - RKGist: GitHub Gists  
@@ -2406,7 +2410,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - SimpleMemo: Sync notes to EverNote [` App Store`](https://itunes.apple.com/app/yi-bian-qian/id1029807896)  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/likumb/SimpleMemo<br>  Added August 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/lijuncode/SimpleMemo<br>  Added August 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Simplenote: Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962)  
@@ -2619,10 +2623,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` 🔥</summary>  https://github.com/twocentstudios/vinylogue<br>  Added January 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
 </details> 
-- Yorkie: Helps you take care of your dog [` App Store`](https://itunes.apple.com/app/Yorkie/id1000836606)  
-<details><summary>`objc` </summary>  https://github.com/carlbtrn/YorkieApp<br>  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-</details> 
 
 ### 3D Touch 
  
@@ -2659,7 +2659,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Reusable Code  
-<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/carlbtrn/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/carlosbtn/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures  
