@@ -8323,6 +8323,16 @@
       "license": "other",
       "date_added": "Sep 19 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Vapor Chat",
+      "description": "Basic realtime chat project using Vapor on the server",
+      "source": "https://github.com/vapor/chat-ios-example",
+      "category-ids": ["communication"],
+      "tags": ["swift", "starscream"],
+      "license": "other",
+      "date_added": "Sep 30 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
