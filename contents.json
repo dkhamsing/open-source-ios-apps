@@ -903,7 +903,7 @@
       ],
       "description": "Official Firefox app",
       "license": "mpl-2.0",
-      "source": "https://github.com/mozilla/firefox-ios",
+      "source": "https://github.com/mozilla-mobile/firefox-ios",
       "itunes": "https://itunes.apple.com/app/firefox-web-browser/id989804926",
       "stars": 6047,
       "tags": [
@@ -1234,7 +1234,7 @@
         "content-blocking"
       ],
       "license": "mpl-2.0",
-      "source": "https://github.com/mozilla/focus",
+      "source": "https://github.com/mozilla-mobile/focus",
       "stars": 362,
       "tags": [
         "swift"
@@ -3652,7 +3652,7 @@
         "sample",
         "core-data"
       ],
-      "source": "https://github.com/carlbtrn/Swift",
+      "source": "https://github.com/carlosbtn/Swift",
       "stars": 2545,
       "tags": [
         "swift",
@@ -4855,7 +4855,7 @@
       ],
       "description": "Sync notes to EverNote",
       "license": "mit",
-      "source": "https://github.com/likumb/SimpleMemo",
+      "source": "https://github.com/lijuncode/SimpleMemo",
       "itunes": "https://itunes.apple.com/app/yi-bian-qian/id1029807896",
       "stars": 234,
       "date_added": "Thu Aug 27 07:22:13 2015 -0700",
