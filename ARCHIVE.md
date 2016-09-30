@@ -21,6 +21,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Swift Off https://github.com/opensourceios/swift-off-todo
 - Vim https://github.com/applidium/Vim
 - XPilot http://7b5labs.com/xpilot.git/
+- Yorkie https://github.com/opensourceios/YorkieApp
 - iOctocat https://github.com/dennisreimann/ioctocat
 - wikiHow https://github.com/tderouin/wikiHow-iPhone-Application
 
