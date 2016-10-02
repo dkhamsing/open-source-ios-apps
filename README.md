@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-556-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September 30, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-557-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October  2, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1455,6 +1455,12 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`swift` 🔥</summary>  https://github.com/ijoshsmith/swift-ascii-art<br>  Added May  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
+- Calvin and Hobbes Comic Viewer: Full text search, favorites, and original publish dates for Calvin and Hobbes  
+<details><summary>`swift` </summary>  https://github.com/docileninja/Calvin-and-Hobbes-Viewer<br>  Added October  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Calvin and Hobbes Comic Viewer image 1' src='https://github.com/docileninja/Calvin-and-Hobbes-Viewer/raw/master/comic-preview.jpg'> <img height='300' alt='Calvin and Hobbes Comic Viewer image 2' src='https://github.com/docileninja/Calvin-and-Hobbes-Viewer/raw/master/search-preview.jpg'> 
+</div>
+  </details>
+</details> 
 - CollageMaker: Make photo collages  
 <details><summary>`instagram api` </summary>  https://github.com/Azoft/CollageMaker-iOS<br>  Added January 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2264,7 +2270,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` 🔥</summary>  https://github.com/mattrubin/authenticator<br>  https://mattrubin.me/authenticator/<br>  Added March 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Dono: Password derivation tool [` App Store`](https://itunes.apple.com/app/id1092920229)  
+- Dono: Password derivation tool  
 <details><summary>`swift` </summary>  https://github.com/dono-app/dono-ios<br>  https://dono-app.github.io/<br>  Added July 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
