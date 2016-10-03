@@ -6789,9 +6789,10 @@
       ],
       "description": "Habit building & productivity",
       "license": "gpl-3.0",
-      "source": "https://github.com/HabitRPG/habitrpg-ios",
+      "source": "https://github.com/HabitRPG/habitica-ios",
       "homepage": "https://habitica.com/static/front",
       "itunes": "https://itunes.apple.com/app/id994882113",
+      "screenshots": ["http://a5.mzstatic.com/us/r30/Purple6/v4/a2/af/06/a2af06ac-0644-00b5-85f1-ae13e3ebf1cd/screen696x696.jpeg"],
       "stars": 85,
       "date_added": "Wed Jun 1 23:56:30 2016 -0600",
       "suggested_by": "@scribblemaniac"
