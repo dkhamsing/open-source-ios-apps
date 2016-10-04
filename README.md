@@ -423,7 +423,7 @@ Click ► to show more details
 [back to top](#readme) 
  
 - 2048  
-<details><summary>`objc` 🔥</summary>  https://github.com/austinzheng/iOS-2048<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/austinzheng/iOS-2048<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - 2048  
@@ -480,7 +480,7 @@ Click ► to show more details
   </details>
 </details> 
 - Antidote: A client for https://tox.chat/  
-<details><summary>`objc` 🔥</summary>  https://github.com/Antidote-for-Tox/Antidote<br>  https://antidote.im/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/Antidote-for-Tox/Antidote<br>  https://antidote.im/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - AppRTC: A native video chat app  
@@ -538,7 +538,7 @@ Click ► to show more details
   </details>
 </details> 
 - Spika: A secure business messenger  
-<details><summary>`objc` </summary>  https://github.com/cloverstudio/Spika<br>  https://spika.business/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`objc` 🔥</summary>  https://github.com/cloverstudio/Spika<br>  https://spika.business/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - surespot: Secures all messages with end-to-end encryption [` App Store`](https://itunes.apple.com/app/surespot/id790314865)  
@@ -648,7 +648,7 @@ Click ► to show more details
   </details>
 </details> 
 - Blink: Mobile shell terminal based on Mosh  
-<details><summary>`objc` </summary>  https://github.com/blinksh/blink<br>  Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`objc` 🔥</summary>  https://github.com/blinksh/blink<br>  Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
 - Charter: Mailing list app [` App Store`](https://itunes.apple.com/app/charter-mailing-list-client/id1082212697)  
@@ -963,7 +963,7 @@ Click ► to show more details
 [back to top](#readme) 
  
 - 2048  
-<details><summary>`objc` 🔥</summary>  https://github.com/austinzheng/iOS-2048<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/austinzheng/iOS-2048<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - 2048  
@@ -1304,7 +1304,7 @@ Click ► to show more details
   </details>
 </details> 
 - Hodor: Fun Hodor keyboard  
-<details><summary>`swift` </summary>  https://github.com/jonomuller/Hodor-Keyboard<br>  Added December 26, 2015<br>  License: `other`
+<details><summary>`swift` 🔥</summary>  https://github.com/jonomuller/Hodor-Keyboard<br>  Added December 26, 2015<br>  License: `other`
   </details>
 </details> 
 - NaughtyKeyboard: Keyboard that supports The Big List of Naughty Strings  
@@ -1516,7 +1516,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - PixPic: Photo editing  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/Yalantis/PixPic<br>  Added July 29, 2016<br>  License: `other`
+<details><summary>`swift` 🔥🔥🔥</summary>  https://github.com/Yalantis/PixPic<br>  Added July 29, 2016<br>  License: `other`
 <div><img height='300' alt='PixPic image 1' src='http://i.imgur.com/c8ahfkv.png'> 
 </div>
   </details>
@@ -1544,7 +1544,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - SwiftSpace: Gyroscope driven drawing in 3D space  
-<details><summary>`swift` `coremotion` </summary>  https://github.com/FlexMonkey/SwiftSpace<br>  Added September  1, 2015<br>  License: `other`
+<details><summary>`swift` `coremotion` 🔥</summary>  https://github.com/FlexMonkey/SwiftSpace<br>  Added September  1, 2015<br>  License: `other`
 <div><img height='300' alt='SwiftSpace image 1' src='http://i.imgur.com/6khfaX6.png'> 
 </div>
   </details>
@@ -1924,7 +1924,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Simple Reader [` App Store`](https://itunes.apple.com/app/simple-reader-free-open-source/id1000995253)  
-<details><summary>`objc` 🔥</summary>  https://github.com/rnystrom/HackerNewsReader<br>  Added October 21, 2015<br>  License: `other`
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/rnystrom/HackerNewsReader<br>  Added October 21, 2015<br>  License: `other`
   </details>
 </details> 
 
@@ -2171,7 +2171,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - iOS 10 Day by Day: Code examples for the new functions in iOS 10  
-<details><summary>`swift` 🔥</summary>  https://github.com/ShinobiControls/iOS10-day-by-day<br>  Added September  2, 2016<br>  License: `other`
+<details><summary>`swift` 🔥🔥</summary>  https://github.com/ShinobiControls/iOS10-day-by-day<br>  Added September  2, 2016<br>  License: `other`
 <div><img height='300' alt='iOS 10 Day by Day image 1' src='https://www.shinobicontrols.com/wp-content/uploads/2016/07/App_Demo.gif'> 
 </div>
   </details>
@@ -2367,7 +2367,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Habitica: Habit building & productivity [` App Store`](https://itunes.apple.com/app/id994882113)  
-<details><summary>`objc` </summary>  https://github.com/HabitRPG/habitrpg-ios<br>  https://habitica.com/static/front<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`objc` </summary>  https://github.com/HabitRPG/habitica-ios<br>  https://habitica.com/static/front<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Habitica image 1' src='http://a5.mzstatic.com/us/r30/Purple6/v4/a2/af/06/a2af06ac-0644-00b5-85f1-ae13e3ebf1cd/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - iBeaconTasks: iBeacon to-do reminders  
@@ -2835,7 +2837,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Hacker News app by jsdf  
-<details><summary>`reactnative` 🔥</summary>  https://github.com/jsdf/ReactNativeHackerNews<br>  Added March 30, 2016<br>  License: `other`
+<details><summary>`reactnative` 🔥🔥</summary>  https://github.com/jsdf/ReactNativeHackerNews<br>  Added March 30, 2016<br>  License: `other`
   </details>
 </details> 
 - Iceland Earthquakes  
@@ -2915,7 +2917,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - To Do List  
-<details><summary>`reactnative` </summary>  https://github.com/joemaddalone/react-native-todo<br>  Added June 20, 2016<br>  License: `other`
+<details><summary>`reactnative` 🔥</summary>  https://github.com/joemaddalone/react-native-todo<br>  Added June 20, 2016<br>  License: `other`
   </details>
 </details> 
 - To Do List (Redux): Uses Redux for managing app state  
@@ -2987,7 +2989,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Rambler.Conferences  
-<details><summary>`objc` </summary>  https://github.com/rambler-ios/RamblerConferences<br>  Added March  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`objc` 🔥</summary>  https://github.com/rambler-ios/RamblerConferences<br>  Added March  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Tip Calculator: Calculate tip & split the bill between any number of people [` App Store`](https://itunes.apple.com/app/id1139456857)  
@@ -3006,7 +3008,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - Toggl Timer [` App Store`](https://itunes.apple.com/app/toggl-timer/id885767775)  
-<details><summary>`objc` 🔥</summary>  https://github.com/toggl/mobile<br>  Added December  7, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/toggl/mobile<br>  Added December  7, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
 </details> 
 
