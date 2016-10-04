@@ -971,7 +971,6 @@
       ],
       "description": "A full-screen web browser",
       "source": "https://github.com/stakes/Frameless",
-      "itunes": "https://itunes.apple.com/app/id933580264",
       "stars": 600,
       "tags": [
         "swift"
@@ -1090,7 +1089,7 @@
       "date_added": "Mon Jan 26 19:03:54 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-
+        "http://a1.mzstatic.com/us/r30/Purple41/v4/39/79/63/39796337-2166-4778-9a89-1a1059b0c05a/screen800x500.jpeg"
       ]
     },
     {
@@ -1355,7 +1354,6 @@
       "description": "View app reviews for all territories (countries)",
       "license": "mit",
       "source": "https://github.com/snowpunch/AppLove",
-      "itunes": "https://itunes.apple.com/app/app-love/id1099336831",
       "tags": [
         "swift"
       ],
@@ -1471,7 +1469,6 @@
       ],
       "description": "Reference dictionary for computer manual commands, but in tl;dr (too long; didn't read) mode",
       "source": "https://github.com/freesuraj/TLDR",
-      "itunes": "https://itunes.apple.com/app/tldr-man-page/id1073433250",
       "tags": [
         "swift"
       ],
@@ -1618,7 +1615,6 @@
       ],
       "description": "Expense tracker",
       "source": "https://github.com/hkalexling/Buck_Tracker",
-      "itunes": "https://itunes.apple.com/app/ibudgeter/id1048395728",
       "tags": [
         "swift"
       ],
@@ -1826,7 +1822,6 @@
       ],
       "description": "A puzzle game with bridges, houses, tolls & subways",
       "source": "https://github.com/zgrossbart/bridges",
-      "itunes": "https://itunes.apple.com/app/seven-bridges/id586598714",
       "stars": 157,
       "license": "apache-2.0",
       "date_added": "Fri May 15 12:23:53 2015 -0400",
@@ -1947,7 +1942,7 @@
       "date_added": "Tue, 19 May 2015 07:30:30 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-
+        "http://a4.mzstatic.com/us/r30/Purple/v4/2a/60/50/2a6050d0-c040-3684-fb0f-1694fd1edde4/screen480x480.jpeg"
       ]
     },
     {
@@ -2182,7 +2177,7 @@
       "date_added": "Mon Apr 6 07:25:12 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-
+        "http://a2.mzstatic.com/us/r30/Purple5/v4/22/a4/44/22a444e1-7626-03ee-05e7-6bdf58ea577d/screen480x480.jpeg"
       ]
     },
     {
@@ -2418,7 +2413,6 @@
       "description": "Breast cancer study",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/ShareTheJourney",
-      "itunes": "https://itunes.apple.com/app/share-the-journey/id972180604",
       "stars": 68,
       "date_added": "Wed, 15 Apr 2015 06:59:02 -0700",
       "suggested_by": "@dkhamsing",
@@ -2436,7 +2430,6 @@
       "tags": [
         "archive"
       ],
-      "itunes": "https://itunes.apple.com/app/speakability/id784509467",
       "stars": 0,
       "license": "mit",
       "date_added": "Mon Apr 6 11:49:54 2015 -0700",
@@ -2965,7 +2958,7 @@
       "date_added": "Thu Aug 13 13:56:05 2015 -0400",
       "suggested_by": "Jay Hickey",
       "screenshots": [
-
+        "http://a5.mzstatic.com/us/r30/Purple/v4/d4/c0/91/d4c09117-c6df-beaa-db5f-0566be580645/screen480x480.jpeg"
       ]
     },
     {
@@ -3703,7 +3696,6 @@
       "description": "App for student-run newspaper at Oakland University in Rochester, Michigan",
       "license": "bsd-3-clause",
       "source": "https://github.com/aclissold/the-oakland-post",
-      "itunes": "https://itunes.apple.com/app/oakland-post/id931152313",
       "stars": 291,
       "tags": [
         "swift"
@@ -3812,7 +3804,6 @@
         "hacker-news"
       ],
       "source": "https://github.com/NikantVohra/HackerNewsClient-iOS",
-      "itunes": "https://itunes.apple.com/app/hn-app/id983203003",
       "tags": [
         "swift"
       ],
@@ -3852,7 +3843,6 @@
       "description": "yc",
       "license": "bsd-3-clause",
       "source": "https://github.com/Xuzz/newsyc",
-      "itunes": "https://itunes.apple.com/app/news-yc/id434787119",
       "stars": 1110,
       "date_added": "Thu Mar 19 07:22:04 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -4418,7 +4408,6 @@
       ],
       "description": "Discover & track anime",
       "source": "https://github.com/opensourceios/Aozora",
-      "itunes": "https://itunes.apple.com/app/aozora-anime-community-track/id1017433045",
       "tags": [
         "swift"
       ],
@@ -4437,7 +4426,6 @@
       ],
       "description": "App for sharing a social board",
       "source": "https://github.com/jenduf/GenericSocialApp",
-      "itunes": "https://itunes.apple.com/app/peggsite/id938445951",
       "stars": 27,
       "license": "other",
       "date_added": "Tue Mar 17 07:22:10 2015 -0700",
@@ -4614,7 +4602,6 @@
       "description": "Minimal to-do app",
       "license": "mit",
       "source": "https://github.com/binarylevel/Tinylog-iOS",
-      "itunes": "https://itunes.apple.com/app/tinylog/id799267191",
       "tags": [
         "swift",
         "iphone",
@@ -4809,7 +4796,6 @@
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/Aufree/phphub-ios",
-      "itunes": "https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564",
       "stars": 984,
       "date_added": "Fri Dec 4 08:01:50 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -4825,7 +4811,6 @@
       "description": "Store",
       "lang": "por",
       "source": "https://github.com/usemobile/promonster-ios",
-      "itunes": "https://itunes.apple.com/app/promonster/id919649318",
       "stars": 9,
       "license": "other",
       "date_added": "Sun Oct 18 05:41:11 2015 -0700",
@@ -5340,7 +5325,6 @@
       "description": "Record running data",
       "license": "gpl-2.0",
       "source": "https://github.com/hukun01/Runner-Stats",
-      "itunes": "https://itunes.apple.com/app/runner-stats/id793443821",
       "stars": 42,
       "date_added": "Mon Oct 12 09:06:52 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -5624,7 +5608,6 @@
       "description": "Sync notes to EverNote",
       "license": "mit",
       "source": "https://github.com/lijuncode/SimpleMemo",
-      "itunes": "https://itunes.apple.com/app/yi-bian-qian/id1029807896",
       "stars": 237,
       "date_added": "Thu Aug 27 07:22:13 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -5835,7 +5818,6 @@
       ],
       "description": "A fun geolocation app",
       "source": "https://github.com/ParsePlatform/AnyWall",
-      "itunes": "https://itunes.apple.com/app/anywall/id520955490",
       "stars": 418,
       "license": "cc0-1.0",
       "date_added": "Tue, 17 Mar 2015 14:51:44 -0400",
@@ -6395,7 +6377,6 @@
       "description": "Simple timer to make developing film easier & more reliable",
       "license": "mit",
       "source": "https://github.com/ashfurrow/C-41",
-      "itunes": "https://itunes.apple.com/app/c-41/id789924103",
       "stars": 1629,
       "date_added": "Mon Jan 26 15:48:19 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -7038,7 +7019,7 @@
       "date_added": "Fri May 13 18:38:28 2016 +0100",
       "suggested_by": "Pete O'Grady",
       "screenshots": [
-
+        "http://a2.mzstatic.com/eu/r30/Purple1/v4/5d/9b/8d/5d9b8d65-42b1-f847-d532-bb1cf37e19c7/screen696x696.jpeg"
       ]
     },
     {
@@ -7268,7 +7249,7 @@
       "date_added": "Tue May 31 22:58:38 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
-
+        "http://a1.mzstatic.com/us/r30/Purple/v4/2f/7c/cd/2f7ccdde-4478-b24b-7801-809b11b9e6f3/screen320x480.jpeg"
       ]
     },
     {
@@ -7298,7 +7279,6 @@
       ],
       "description": "A real-time physical game where you build your kingdom while crushing your opponents",
       "source": "https://github.com/bryceredd/CastleHassle",
-      "itunes": "https://itunes.apple.com/app/castle-hassle/id524566068",
       "license": "mit",
       "stars": 118,
       "date_added": "Tue May 31 23:42:32 2016 -0600",
@@ -7461,7 +7441,6 @@
       "description": "Port of the classic XPilot game",
       "source": "http://7b5labs.com/xpilot.git/",
       "homepage": "http://7b5labs.com/xpilotiphone",
-      "itunes": "https://itunes.apple.com/app/id322114791",
       "license": "gpl-2.0",
       "tags": [
         "archive",
@@ -7543,7 +7522,6 @@
       ],
       "description": "A social journal for the Elder Scrolls® series",
       "source": "https://github.com/rblalock/dragon_shout_app_open_source",
-      "itunes": "https://itunes.apple.com/app/id690208182",
       "license": "apache-2.0",
       "stars": 17,
       "date_added": "Wed Jun 1 22:36:19 2016 -0600",
@@ -7611,7 +7589,6 @@
       "description": "A comprehensive barcode reader",
       "source": "https://sourceforge.net/projects/zbar/",
       "homepage": "http://zbar.sourceforge.net/",
-      "itunes": "https://itunes.apple.com/app/id344957305",
       "license": "lgpl-2.1",
       "date_added": "Wed Jun 1 22:58:57 2016 -0600",
       "suggested_by": "@scribblemaniac",
@@ -7673,7 +7650,7 @@
       "date_added": "Wed Jun 1 23:14:19 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
-
+        "http://a5.mzstatic.com/us/r30/Purple30/v4/97/22/95/97229577-fbbd-2de8-3822-b906eadb6354/screen800x500.jpeg"
       ]
     },
     {
@@ -8633,7 +8610,7 @@
       "date_added": "Tue Jul 12 15:39:38 2016 +0100",
       "suggested_by": "Matthew Sanders",
       "screenshots": [
-
+        "http://a3.mzstatic.com/us/r30/Purple/v4/e2/ee/82/e2ee8263-7265-3376-ec94-604ab58e631a/screen320x480.jpeg"
       ]
     },
     {
@@ -8986,7 +8963,6 @@
       "description": "PokéMon-like game that uses your location",
       "license": "mit",
       "source": "https://github.com/Kjuly/iPokeMon",
-      "itunes": "https://itunes.apple.com/app/id601694902",
       "date_added": "Fri May 15 12:15:50 2015 -0400",
       "suggested_by": "Sanket",
       "stars": 405,
