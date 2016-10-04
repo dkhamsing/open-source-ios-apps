@@ -348,7 +348,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Frameless: A full-screen web browser [` App Store`](https://itunes.apple.com/app/id933580264)  
+- Frameless: A full-screen web browser  
 <details><summary>`swift` 🔥🔥🔥</summary>  https://github.com/stakes/Frameless<br>  Added July 31, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
 </div>
@@ -559,7 +559,7 @@ Click ► to show more details
 </details> 
 - M: Email with device-to-device encryption for messages sent between M users [` App Store`](https://itunes.apple.com/app/m-safe-email-made-simple/id818498595)  
 <details><summary>`objc` </summary>  https://github.com/Mynigma/M<br>  Added January 26, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<div>
+<div><img height='300' alt='M image 1' src='http://a1.mzstatic.com/us/r30/Purple41/v4/39/79/63/39796337-2166-4778-9a89-1a1059b0c05a/screen800x500.jpeg'> 
 </div>
   </details>
 </details> 
@@ -687,7 +687,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- AppLove: View app reviews for all territories (countries) [` App Store`](https://itunes.apple.com/app/app-love/id1099336831)  
+- AppLove: View app reviews for all territories (countries)  
 <details><summary>`swift` </summary>  https://github.com/snowpunch/AppLove<br>  Added May  7, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
 </div>
@@ -743,7 +743,7 @@ Click ► to show more details
 <details><summary>`swift` 🔥</summary>  https://github.com/nthegedus/ReviewTime<br>  Added October  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- TLDR Man Page: Reference dictionary for computer manual commands, but in tl;dr (too long; didn't read) mode [` App Store`](https://itunes.apple.com/app/tldr-man-page/id1073433250)  
+- TLDR Man Page: Reference dictionary for computer manual commands, but in tl;dr (too long; didn't read) mode  
 <details><summary>`swift` </summary>  https://github.com/freesuraj/TLDR<br>  Added May  3, 2016<br>  License: `other`
 <div>
 </div>
@@ -978,7 +978,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- Buck Tracker: Expense tracker [` App Store`](https://itunes.apple.com/app/ibudgeter/id1048395728)  
+- Buck Tracker: Expense tracker  
 <details><summary>`swift` </summary>  https://github.com/hkalexling/Buck_Tracker<br>  Added November 16, 2015<br>  License: `other`
 <div>
 </div>
@@ -1102,7 +1102,7 @@ Click ► to show more details
 <details><summary>`cocos2d` </summary>  https://github.com/jamiely/ios-balloon-burst<br>  Added May 16, 2016<br>  License: `other`
   </details>
 </details> 
-- Bridges: A puzzle game with bridges, houses, tolls & subways [` App Store`](https://itunes.apple.com/app/seven-bridges/id586598714)  
+- Bridges: A puzzle game with bridges, houses, tolls & subways  
 <details><summary>`objc` 🔥</summary>  https://github.com/zgrossbart/bridges<br>  Added May 15, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div>
 </div>
@@ -1118,7 +1118,7 @@ Click ► to show more details
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/jpsim/CardsAgainst<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Castle Hassle: A real-time physical game where you build your kingdom while crushing your opponents [` App Store`](https://itunes.apple.com/app/castle-hassle/id524566068)  
+- Castle Hassle: A real-time physical game where you build your kingdom while crushing your opponents  
 <details><summary>`objc` 🔥</summary>  https://github.com/bryceredd/CastleHassle<br>  Added May 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
 </div>
@@ -1160,11 +1160,11 @@ Click ► to show more details
 </details> 
 - DOOM-IOS2: Doom Classic for iOS version 2 [` App Store`](https://itunes.apple.com/app/doom-ii-rpg/id354051766)  
 <details><summary>`objc` 🔥</summary>  https://github.com/id-Software/DOOM-IOS2<br>  Added May 19, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-<div>
+<div><img height='300' alt='DOOM-IOS2 image 1' src='http://a4.mzstatic.com/us/r30/Purple/v4/2a/60/50/2a6050d0-c040-3684-fb0f-1694fd1edde4/screen480x480.jpeg'> 
 </div>
   </details>
 </details> 
-- Dragon Shout App 2: A social journal for the Elder Scrolls® series [` App Store`](https://itunes.apple.com/app/id690208182)  
+- Dragon Shout App 2: A social journal for the Elder Scrolls® series  
 <details><summary>`objc` </summary>  https://github.com/rblalock/dragon_shout_app_open_source<br>  Added June  1, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div>
 </div>
@@ -1238,7 +1238,7 @@ Click ► to show more details
 <details><summary>`iphone` `ipad` </summary>  https://github.com/herzbube/littlego<br>  Added March  6, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 </details> 
-- Master: PokéMon-like game that uses your location [` App Store`](https://itunes.apple.com/app/id601694902)  
+- Master: PokéMon-like game that uses your location  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/Kjuly/iPokeMon<br>  Added May 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
 </div>
@@ -1282,7 +1282,7 @@ Click ► to show more details
 </details> 
 - SHMUP: 3D multiplatform game written primarily in C [` App Store`](https://itunes.apple.com/app/shmup/id337663605)  
 <details><summary>`objc` 🔥</summary>  https://github.com/fabiensanglard/Shmup<br>  http://fabiensanglard.net/shmup/<br>  Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<div>
+<div><img height='300' alt='SHMUP image 1' src='http://a3.mzstatic.com/us/r30/Purple/v4/e2/ee/82/e2ee8263-7265-3376-ec94-604ab58e631a/screen320x480.jpeg'> 
 </div>
   </details>
 </details> 
@@ -1292,7 +1292,7 @@ Click ► to show more details
 </details> 
 - Spare Parts: Simple 2D point & line physics using Verlet integration [` App Store`](https://itunes.apple.com/app/spare-parts/id981297199)  
 <details><summary>`objc` </summary>  https://github.com/adamwulf/spare-parts-app<br>  Added April  6, 2015<br>  License: `other`
-<div>
+<div><img height='300' alt='Spare Parts image 1' src='http://a2.mzstatic.com/us/r30/Purple5/v4/22/a4/44/22a444e1-7626-03ee-05e7-6bdf58ea577d/screen480x480.jpeg'> 
 </div>
   </details>
 </details> 
@@ -1411,7 +1411,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Runner-Stats: Record running data [` App Store`](https://itunes.apple.com/app/runner-stats/id793443821)  
+- Runner-Stats: Record running data  
 <details><summary>`iphone` </summary>  https://github.com/hukun01/Runner-Stats<br>  Added October 12, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <div>
 </div>
@@ -1464,7 +1464,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Share The Journey: Breast cancer study [` App Store`](https://itunes.apple.com/app/share-the-journey/id972180604)  
+- Share The Journey: Breast cancer study  
 <details><summary>`objc` </summary>  https://github.com/ResearchKit/ShareTheJourney<br>  Added April 15, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
 <div>
 </div>
@@ -1510,7 +1510,7 @@ Click ► to show more details
 </details> 
 - Closebox: Find the Closest Postbox [` App Store`](https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813)  
 <details><summary>`objc` </summary>  https://github.com/peteog/Closebox<br>  Added May 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div>
+<div><img height='300' alt='Closebox image 1' src='http://a2.mzstatic.com/eu/r30/Purple1/v4/5d/9b/8d/5d9b8d65-42b1-f847-d532-bb1cf37e19c7/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -1679,7 +1679,7 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - ComicFlow: Comic reader [` App Store`](https://itunes.apple.com/app/comicflow/id409290355)  
 <details><summary>`ipad` 🔥🔥</summary>  https://github.com/swisspol/ComicFlow<br>  Added August 13, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<div>
+<div><img height='300' alt='ComicFlow image 1' src='http://a5.mzstatic.com/us/r30/Purple/v4/d4/c0/91/d4c09117-c6df-beaa-db5f-0566be580645/screen480x480.jpeg'> 
 </div>
   </details>
 </details> 
@@ -1816,7 +1816,7 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - Radio Paradise: Official app for http://www.radioparadise.com/ [` App Store`](https://itunes.apple.com/app/id663334697)  
 <details><summary>`objc` </summary>  https://github.com/ilTofa/rposx<br>  https://www.iltofa.com/rphd/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div>
+<div><img height='300' alt='Radio Paradise image 1' src='http://a5.mzstatic.com/us/r30/Purple30/v4/97/22/95/97229577-fbbd-2de8-3822-b906eadb6354/screen800x500.jpeg'> 
 </div>
   </details>
 </details> 
@@ -1915,7 +1915,7 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - Molecules: Visualize molecules in 3D [` App Store`](https://itunes.apple.com/app/molecules/id284943090)  
 <details><summary>`objc` </summary>  http://www.sunsetlakesoftware.com/molecules<br>  Added May 31, 2016<br>  License: `other`
-<div>
+<div><img height='300' alt='Molecules image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/2f/7c/cd/2f7ccdde-4478-b24b-7801-809b11b9e6f3/screen320x480.jpeg'> 
 </div>
   </details>
 </details> 
@@ -1965,7 +1965,7 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`swift` `instagram api` 🔥🔥</summary>  https://github.com/MoZhouqi/PhotoBrowser<br>  Added March 31, 2015<br>  License: `other`
   </details>
 </details> 
-- PHPHub: App for https://laravel-china.org/ [` App Store`](https://itunes.apple.com/app/phphub-ji-ji-xiang-shang-php/id1052966564)  
+- PHPHub: App for https://laravel-china.org/  
 <details><summary>`iphone` `ipad` 🇨🇳 🔥🔥🔥</summary>  https://github.com/Aufree/phphub-ios<br>  Added December  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
 </div>
@@ -1975,7 +1975,7 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`swift` 🔥</summary>  https://github.com/danylokostyshyn/popcorntime-ios<br>  Added May 20, 2015<br>  License: `other`
   </details>
 </details> 
-- ProMonster: Store [` App Store`](https://itunes.apple.com/app/promonster/id919649318)  
+- ProMonster: Store  
 <details><summary>`objc` 🇵🇹 </summary>  https://github.com/usemobile/promonster-ios<br>  Added October 18, 2015<br>  License: `other`
 <div>
 </div>
@@ -2166,7 +2166,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan [` App Store`](https://itunes.apple.com/app/oakland-post/id931152313)  
+- The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/aclissold/the-oakland-post<br>  Added March 18, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
 <div>
 </div>
@@ -2209,13 +2209,13 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- HN-App [` App Store`](https://itunes.apple.com/app/hn-app/id983203003)  
+- HN-App  
 <details><summary>`swift` </summary>  https://github.com/NikantVohra/HackerNewsClient-iOS<br>  Added January 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
 </div>
   </details>
 </details> 
-- news: yc [` App Store`](https://itunes.apple.com/app/news-yc/id434787119)  
+- news: yc  
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/Xuzz/newsyc<br>  Added March 19, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
 <div>
 </div>
@@ -2292,7 +2292,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Radio Paradise: Official app for http://www.radioparadise.com/ [` App Store`](https://itunes.apple.com/app/id663334697)  
 <details><summary>`objc` </summary>  https://github.com/ilTofa/rposx<br>  https://www.iltofa.com/rphd/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div>
+<div><img height='300' alt='Radio Paradise image 1' src='http://a5.mzstatic.com/us/r30/Purple30/v4/97/22/95/97229577-fbbd-2de8-3822-b906eadb6354/screen800x500.jpeg'> 
 </div>
   </details>
 </details> 
@@ -2366,7 +2366,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` 🔥</summary>  https://github.com/brewfactory/BrewMobile<br>  Added September 10, 2015<br>  License: `other`
   </details>
 </details> 
-- C-41: Simple timer to make developing film easier & more reliable [` App Store`](https://itunes.apple.com/app/c-41/id789924103)  
+- C-41: Simple timer to make developing film easier & more reliable  
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/ashfurrow/C-41<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
 </div>
@@ -2605,7 +2605,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- ZBar Barcode Reader: A comprehensive barcode reader [` App Store`](https://itunes.apple.com/app/id344957305)  
+- ZBar Barcode Reader: A comprehensive barcode reader  
 <details><summary>`objc` </summary>  https://sourceforge.net/projects/zbar/<br>  http://zbar.sourceforge.net/<br>  Added June  1, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
 <div>
 </div>
@@ -2691,7 +2691,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Aozora: Discover & track anime [` App Store`](https://itunes.apple.com/app/aozora-anime-community-track/id1017433045)  
+- Aozora: Discover & track anime  
 <details><summary>`swift` </summary>  https://github.com/opensourceios/Aozora<br>  Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
 </div>
@@ -2709,7 +2709,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Peggsite: App for sharing a social board [` App Store`](https://itunes.apple.com/app/peggsite/id938445951)  
+- Peggsite: App for sharing a social board  
 <details><summary>`objc` </summary>  https://github.com/jenduf/GenericSocialApp<br>  Added March 17, 2015<br>  License: `other`
 <div>
 </div>
@@ -2770,7 +2770,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Tinylog: Minimal to-do app [` App Store`](https://itunes.apple.com/app/tinylog/id799267191)  
+- Tinylog: Minimal to-do app  
 <details><summary>`swift` `iphone` `ipad` </summary>  https://github.com/binarylevel/Tinylog-iOS<br>  Added January 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
 </div>
@@ -2807,7 +2807,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` 🔥</summary>  https://github.com/kyleweiner/Sentiments<br>  Added May 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- SimpleMemo: Sync notes to EverNote [` App Store`](https://itunes.apple.com/app/yi-bian-qian/id1029807896)  
+- SimpleMemo: Sync notes to EverNote  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/lijuncode/SimpleMemo<br>  Added August 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
 </div>
@@ -2828,7 +2828,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- C-41: Simple timer to make developing film easier & more reliable [` App Store`](https://itunes.apple.com/app/c-41/id789924103)  
+- C-41: Simple timer to make developing film easier & more reliable  
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/ashfurrow/C-41<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
 </div>
@@ -3177,7 +3177,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` </summary>  https://github.com/SwiftAnyPic/SwiftAnyPic<br>  Added November  2, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
   </details>
 </details> 
-- AnyWall: A fun geolocation app [` App Store`](https://itunes.apple.com/app/anywall/id520955490)  
+- AnyWall: A fun geolocation app  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/ParsePlatform/AnyWall<br>  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
 <div>
 </div>
