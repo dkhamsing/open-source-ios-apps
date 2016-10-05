@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-557-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October  4, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-558-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October  5, 2016-lightgrey.svg)
 
 Jump to
 
@@ -132,6 +132,8 @@ Click ► to show more details
 </details> 
 - UitzendingGemist by jeffkreeftmeijer: Dutch Public Broadcasting video on demand  
 <details><summary>`swift` 🇳🇱 </summary>  https://github.com/jeffkreeftmeijer/UitzendingGemist<br>  Added November 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='UitzendingGemist by jeffkreeftmeijer image 1' src='https://raw.githubusercontent.com/jeffkreeftmeijer/UitzendingGemist/master/Screenshots/recent.png'> 
+</div>
   </details>
 </details> 
 - Uncle Nagy's House: Watch episodes of the sitcom http://unclenagyshouse.com/ [` App Store`](https://itunes.apple.com/us/app/id1042172021)  
@@ -787,6 +789,12 @@ Click ► to show more details
 - OctoPodium: List users ranked by GitHub repository star count [` App Store`](https://itunes.apple.com/app/octopodium/id1077519133)  
 <details><summary>`swift` 🔥</summary>  https://github.com/nunogoncalves/iOS-OctoPodium<br>  Added February 18, 2016<br>  License: `other`
 <div><img height='300' alt='OctoPodium image 1' src='http://a2.mzstatic.com/us/r30/Purple60/v4/1b/54/e0/1b54e0e9-fc86-b8ea-01dd-f13c63507bad/screen696x696.jpeg'> <img height='300' alt='OctoPodium image 2' src='http://a5.mzstatic.com/us/r30/Purple30/v4/11/43/09/114309a8-6399-011d-ee34-3e2b59d01d6a/screen696x696.jpeg'> <img height='300' alt='OctoPodium image 3' src='http://a3.mzstatic.com/us/r30/Purple30/v4/c2/31/70/c2317036-b9ed-3d18-35b7-beb733f8e074/screen696x696.jpeg'> <img height='300' alt='OctoPodium image 4' src='http://a2.mzstatic.com/us/r30/Purple60/v4/d3/a1/84/d3a18462-d036-304a-72af-d283e51fed39/screen696x696.jpeg'> <img height='300' alt='OctoPodium image 5' src='http://a3.mzstatic.com/us/r30/Purple20/v4/58/03/34/5803343a-be95-66c7-27ea-ebb648ca3436/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Pocket Trailer: Manage pull requests & issues for GitHub / GitHub Enterprise [` App Store`](https://itunes.apple.com/app/id806104975)  
+<details><summary>`swift` 🔥🔥</summary>  https://github.com/ptsochantaris/trailer<br>  Added October  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Pocket Trailer image 1' src='http://a5.mzstatic.com/us/r30/Purple60/v4/9a/a4/9a/9aa49a25-e999-4f3d-e059-89025713cf69/screen696x696.jpeg'> <img height='300' alt='Pocket Trailer image 2' src='http://a5.mzstatic.com/us/r30/Purple20/v4/13/59/b0/1359b0e6-22c4-09ab-6212-e8190f8c3894/screen696x696.jpeg'> <img height='300' alt='Pocket Trailer image 3' src='http://a4.mzstatic.com/us/r30/Purple30/v4/a8/42/13/a8421320-3def-b527-0b12-10a418ce0088/screen696x696.jpeg'> <img height='300' alt='Pocket Trailer image 4' src='http://a1.mzstatic.com/us/r30/Purple18/v4/32/df/45/32df45e3-9e47-1d30-0596-e1888ae6cd3b/screen696x696.jpeg'> <img height='300' alt='Pocket Trailer image 5' src='http://a1.mzstatic.com/us/r30/Purple20/v4/ff/7a/f0/ff7af006-4f67-d158-bda2-c7f461686d73/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
