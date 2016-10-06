@@ -432,6 +432,7 @@
         "apple-watch"
       ],
       "source": "https://github.com/noodlewerk/Apple_Watch_Calculator",
+      "homepage": "http://www.noodlewerk.com/blog/calculator-apple-watch-tutorial/",
       "screenshots": ["http://www.noodlewerk.com/images/watch_header.jpg"],
       "tags": [
         "swift"
@@ -653,7 +654,8 @@
     {
       "title": "Impulse",
       "category-ids": [
-        "apple-watch"
+        "apple-watch",
+        "today"
       ],
       "description": "Real-time age ticker",
       "source": "https://github.com/Jasdev/Impulse",
@@ -705,7 +707,8 @@
       "license": "mit",
       "source": "https://github.com/chadkeck/Natural-Language-Clock",
       "tags": [
-        "swift"
+        "swift",
+        "watchos2"
       ],
       "screenshots": ["https://github.com/chadkeck/Natural-Language-Clock/raw/master/assets/iPhone-and-Apple-Watch.png?raw=true"],
       "stars": 9,
@@ -720,7 +723,9 @@
       "description": "Access the SBB (Swiss railway) timetable",
       "license": "apache-2.0",
       "source": "https://github.com/D-32/OnTime",
+      "itunes": "https://itunes.apple.com/app/ontime-switzerland/id955289458",
       "screenshots": ["http://i.imgur.com/gazVTKg.jpg"],
+      "tags": ["watchkit"],
       "stars": 38,
       "date_added": "Wed May 13 07:16:25 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -1134,6 +1139,7 @@
       "description": "Meteor chat platform app",
       "license": "mit",
       "source": "https://github.com/RocketChat/Rocket.Chat.iOS",
+      "itunes": "https://itunes.apple.com/app/rocket.chat/id1028869439",
       "tags": [
         "swift"
       ],
