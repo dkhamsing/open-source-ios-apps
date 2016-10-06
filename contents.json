@@ -830,7 +830,7 @@
         "swift",
         "watchos2"
       ],
-      "screenshot": ["https://raw.githubusercontent.com/DanielTomlinson/Watchman/master/IMG_2196.jpg"],
+      "screenshots": ["https://raw.githubusercontent.com/DanielTomlinson/Watchman/master/IMG_2196.jpg"],
       "stars": 54,
       "license": "other",
       "date_added": "Tue Oct 6 10:15:34 2015 -0700",
