@@ -188,7 +188,9 @@ Click ► to show more details
   </details>
 </details> 
 - Calculator by noodlewerk  
-<details><summary>`swift` </summary>  https://github.com/noodlewerk/Apple_Watch_Calculator<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` </summary>  https://github.com/noodlewerk/Apple_Watch_Calculator<br>  http://www.noodlewerk.com/blog/calculator-apple-watch-tutorial/<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Calculator by noodlewerk image 1' src='http://www.noodlewerk.com/images/watch_header.jpg'> 
+</div>
   </details>
 </details> 
 - Cherry: Mini Pomodoro Timer  
@@ -203,6 +205,8 @@ Click ► to show more details
 </details> 
 - CoolSpot: The missing Spotify app  
 <details><summary>`swift` </summary>  https://github.com/neonichu/CoolSpot<br>  Added May 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='CoolSpot image 1' src='https://raw.githubusercontent.com/neonichu/CoolSpot/master/Screenshots/watch-playback.png'> <img height='300' alt='CoolSpot image 2' src='https://github.com/neonichu/CoolSpot/raw/master/Screenshots/watch-stop.png'> 
+</div>
   </details>
 </details> 
 - Cortado: Track your caffeine consumption habits [` App Store`](https://itunes.apple.com/app/cortado/id969899327)  
@@ -223,6 +227,8 @@ Click ► to show more details
 </details> 
 - FlickrWatch: Apple Watch face  
 <details><summary>`flickr api` </summary>  https://github.com/jazzychad/FlickrWatch<br>  Added February 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='FlickrWatch image 1' src='https://camo.githubusercontent.com/09d4726f3b100b9c6b313b2bbae038538a2cda3e/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43414b3762743455384141396b31532e706e67'> 
+</div>
   </details>
 </details> 
 - Gulps: Track your daily water consumption [` App Store`](https://itunes.apple.com/app/gulps/id979057304)  
@@ -241,6 +247,8 @@ Click ► to show more details
 </details> 
 - HighStreet: Highstreet shopping app  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/GetHighstreet/HighstreetWatchApp<br>  Added June  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='HighStreet image 1' src='https://github.com/GetHighstreet/HighstreetWatchApp/raw/master/Documentation/Assets/walkthrough.gif'> 
+</div>
   </details>
 </details> 
 - HN Reader: Hacker News Reader [` App Store`](https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741)  
@@ -251,10 +259,14 @@ Click ► to show more details
 </details> 
 - Impulse: Real-time age ticker  
 <details><summary>`swift` </summary>  https://github.com/Jasdev/Impulse<br>  Added August 12, 2015<br>  License: `other`
+<div><img height='300' alt='Impulse image 1' src='https://camo.githubusercontent.com/5b89b213947316f8a914e897db3033d41e824bd3/687474703a2f2f692e696d6775722e636f6d2f334359524e6a4c2e706e67'> 
+</div>
   </details>
 </details> 
 - KTPomodoro: Mini Pomodoro Timer  
 <details><summary>`objc` </summary>  https://github.com/kenshin03/KTPomodoro<br>  Added February 26, 2015<br>  License: `other`
+<div><img height='300' alt='KTPomodoro image 1' src='https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png'> 
+</div>
   </details>
 </details> 
 - Lister: List app example by Apple  
@@ -262,11 +274,15 @@ Click ► to show more details
   </details>
 </details> 
 - Natural Language Clock: Display the time as you would speak it  
-<details><summary>`swift` </summary>  https://github.com/chadkeck/Natural-Language-Clock<br>  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `watchos2` </summary>  https://github.com/chadkeck/Natural-Language-Clock<br>  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Natural Language Clock image 1' src='https://github.com/chadkeck/Natural-Language-Clock/raw/master/assets/iPhone-and-Apple-Watch.png?raw=true'> 
+</div>
   </details>
 </details> 
-- OnTime: Access the SBB (Swiss railway) timetable  
-<details><summary>`objc` </summary>  https://github.com/D-32/OnTime<br>  Added May 13, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+- OnTime: Access the SBB (Swiss railway) timetable [` App Store`](https://itunes.apple.com/app/ontime-switzerland/id955289458)  
+<details><summary>`watchkit` </summary>  https://github.com/D-32/OnTime<br>  Added May 13, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='OnTime image 1' src='http://i.imgur.com/gazVTKg.jpg'> 
+</div>
   </details>
 </details> 
 - Parties for WWDC [` App Store`](https://itunes.apple.com/app/parties-for-wwdc/id879924066)  
@@ -283,10 +299,14 @@ Click ► to show more details
 </details> 
 - PhotoWatch: Uses the SwiftyDropbox SDK  
 <details><summary>`swift` </summary>  https://github.com/dropbox/PhotoWatch<br>  Added February 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='PhotoWatch image 1' src='https://github.com/dropbox/PhotoWatch/raw/master/Screenshots/watch.png'> 
+</div>
   </details>
 </details> 
 - Soon: Countdown app  
 <details><summary>`swift` </summary>  https://github.com/sandofsky/soon<br>  Added June  2, 2015<br>  License: `other`
+<div><img height='300' alt='Soon image 1' src='https://github.com/sandofsky/soon/raw/master/screenshot.png'> 
+</div>
   </details>
 </details> 
 - try!  
@@ -301,10 +321,14 @@ Click ► to show more details
 </details> 
 - Watchman: Hangman game on your wrist  
 <details><summary>`swift` `watchos2` </summary>  https://github.com/DanToml/Watchman<br>  Added October  6, 2015<br>  License: `other`
+<div><img height='300' alt='Watchman image 1' src='https://raw.githubusercontent.com/DanielTomlinson/Watchman/master/IMG_2196.jpg'> 
+</div>
   </details>
 </details> 
 - WatchNotes: Notes on your wrist  
 <details><summary>`swift` </summary>  https://github.com/azamsharp/WatchNotes<br>  Added April 30, 2015<br>  License: `other`
+<div><img height='300' alt='WatchNotes image 1' src='https://camo.githubusercontent.com/689a09260a6427ede9580b298c141320132796df/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32303131363433342f57617463684e6f7465732e676966'> 
+</div>
   </details>
 </details> 
 - watchOS-2-Sampler: watchOS 2 new features example code  
@@ -313,6 +337,8 @@ Click ► to show more details
 </details> 
 - WatchPics: Instagram app  
 <details><summary>`objc` </summary>  https://github.com/D-32/WatchPics<br>  Added April 10, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='WatchPics image 1' src='https://camo.githubusercontent.com/544c66f439b1328155ca4463c2fa73e514f80800/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7761746368706963732e6a7067'> 
+</div>
   </details>
 </details> 
 - WatchSnake: Snake game  
@@ -321,6 +347,8 @@ Click ► to show more details
 </details> 
 - WatchStocks: Track your stocks portfolio, includes a watch face complication  
 <details><summary>`swift` </summary>  https://github.com/G2Jose/WatchStocks<br>  Added September 17, 2015<br>  License: `other`
+<div><img height='300' alt='WatchStocks image 1' src='https://raw.githubusercontent.com/willedflipper66/WatchStocks/master/Screenshots/IMG_0779.jpg'> 
+</div>
   </details>
 </details> 
 - Wunderschnell: Order the right product with one tap on your wrist  
@@ -436,7 +464,9 @@ Click ► to show more details
   </details>
 </details> 
 - Natural Language Clock: Display the time as you would speak it  
-<details><summary>`swift` </summary>  https://github.com/chadkeck/Natural-Language-Clock<br>  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `watchos2` </summary>  https://github.com/chadkeck/Natural-Language-Clock<br>  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Natural Language Clock image 1' src='https://github.com/chadkeck/Natural-Language-Clock/raw/master/assets/iPhone-and-Apple-Watch.png?raw=true'> 
+</div>
   </details>
 </details> 
 - SwiftTextClock: Inspired by the beautiful QlockTwo  
@@ -490,6 +520,8 @@ Click ► to show more details
 </details> 
 - Watchman: Hangman game on your wrist  
 <details><summary>`swift` `watchos2` </summary>  https://github.com/DanToml/Watchman<br>  Added October  6, 2015<br>  License: `other`
+<div><img height='300' alt='Watchman image 1' src='https://raw.githubusercontent.com/DanielTomlinson/Watchman/master/IMG_2196.jpg'> 
+</div>
   </details>
 </details> 
 - youtube-iOS: YouTube app template  
@@ -527,10 +559,14 @@ Click ► to show more details
 </details> 
 - BLEMeshChat: Bluetooth LE app  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/chrisballinger/BLEMeshChat<br>  Added January 11, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+<div><img height='300' alt='BLEMeshChat image 1' src='https://camo.githubusercontent.com/71c9718ca94505f7135024802d145148e90ae605/68747470733a2f2f692e696d6775722e636f6d2f7a386c4564504d6d2e706e67'> 
+</div>
   </details>
 </details> 
 - Chats  
 <details><summary>`swift` 🔥🔥🔥🔥</summary>  https://github.com/acani/Chats<br>  Added March 18, 2015<br>  License: [`unlicense`](http://choosealicense.com/licenses/unlicense/)
+<div><img height='300' alt='Chats image 1' src='https://github.com/acani/Chats/raw/master/Documents/iPhone-Client-Screenshots/iPhone-Client-Screenshots.gif'> 
+</div>
   </details>
 </details> 
 - ChatSecure: Send messages with OTR encryption over XMPP [` App Store`](https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063)  
@@ -565,12 +601,16 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Mumble: Gaming-focused social voice chat utility  
+- Mumble: Gaming-focused social voice chat utility [` App Store`](https://itunes.apple.com/app/mumble/id443472808)  
 <details><summary>`objc` 🔥</summary>  https://github.com/mumble-voip/mumble-iphoneos<br>  Added September 10, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+<div><img height='300' alt='Mumble image 1' src='http://a2.mzstatic.com/us/r30/Purple/v4/d9/1b/34/d91b34b2-cf48-a0ed-2ee8-63a067466732/screen696x696.jpeg'> <img height='300' alt='Mumble image 2' src='http://a2.mzstatic.com/us/r30/Purple/v4/ea/3e/c6/ea3ec6ff-3e85-50db-4d78-f7b19eb4c840/screen696x696.jpeg'> <img height='300' alt='Mumble image 3' src='http://a2.mzstatic.com/us/r30/Purple/v4/cf/70/56/cf70565a-ae4a-dc6b-b077-384e4a00f9d8/screen696x696.jpeg'> <img height='300' alt='Mumble image 4' src='http://a2.mzstatic.com/us/r30/Purple/v4/e4/4f/33/e44f3380-4935-9c6f-6ca8-f3a25321fb98/screen696x696.jpeg'> <img height='300' alt='Mumble image 5' src='http://a5.mzstatic.com/us/r30/Purple/v4/c7/de/f4/c7def48d-f14d-6337-f0a5-38d5918c284a/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
-- Rocket.Chat: Meteor chat platform app  
+- Rocket.Chat: Meteor chat platform app [` App Store`](https://itunes.apple.com/app/rocket.chat/id1028869439)  
 <details><summary>`swift` 🔥</summary>  https://github.com/RocketChat/Rocket.Chat.iOS<br>  Added January 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Rocket.Chat image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/6b/67/2d/6b672d4d-1d88-382c-aa02-db66dfc97421/screen696x696.jpeg'> <img height='300' alt='Rocket.Chat image 2' src='http://a5.mzstatic.com/us/r30/Purple49/v4/27/b5/b3/27b5b3e0-102e-605f-d086-def467181dcb/screen696x696.jpeg'> <img height='300' alt='Rocket.Chat image 3' src='http://a1.mzstatic.com/us/r30/Purple49/v4/71/f0/6f/71f06f5d-07af-96b9-016a-cd27f006d211/screen696x696.jpeg'> <img height='300' alt='Rocket.Chat image 4' src='http://a3.mzstatic.com/us/r30/Purple49/v4/ef/88/2b/ef882bb0-e6ca-882a-f355-b9b298c2412d/screen696x696.jpeg'> <img height='300' alt='Rocket.Chat image 5' src='http://a2.mzstatic.com/us/r30/Purple49/v4/88/f6/58/88f65868-21eb-d01a-61e9-20481d3852c1/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - Signal: Free, world-wide, private messaging & phone calls [` App Store`](https://itunes.apple.com/app/id874139669)  
@@ -968,6 +1008,12 @@ Click ► to show more details
 - Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693)  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/dasdom/Tomate<br>  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Fojusi image 1' src='http://a4.mzstatic.com/us/r30/Purple32/v4/cd/ac/98/cdac9892-c5e1-9389-6efe-ef31a90daaf4/screen696x696.jpeg'> <img height='300' alt='Fojusi image 2' src='http://a5.mzstatic.com/us/r30/Purple6/v4/6c/c1/1b/6cc11bb2-5f1e-693c-f05c-313034b0194a/screen696x696.jpeg'> <img height='300' alt='Fojusi image 3' src='http://a4.mzstatic.com/us/r30/Purple3/v4/05/67/17/05671722-b9e9-0698-7725-59ff117e377d/screen696x696.jpeg'> <img height='300' alt='Fojusi image 4' src='http://a4.mzstatic.com/us/r30/Purple3/v4/8c/2c/a0/8c2ca0be-628e-4daa-0911-bdf0b58318e1/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Impulse: Real-time age ticker  
+<details><summary>`swift` </summary>  https://github.com/Jasdev/Impulse<br>  Added August 12, 2015<br>  License: `other`
+<div><img height='300' alt='Impulse image 1' src='https://camo.githubusercontent.com/5b89b213947316f8a914e897db3033d41e824bd3/687474703a2f2f692e696d6775722e636f6d2f334359524e6a4c2e706e67'> 
 </div>
   </details>
 </details> 
