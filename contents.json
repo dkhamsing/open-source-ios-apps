@@ -9652,6 +9652,17 @@
       "date_added": "Oct 4 2016",
       "suggested_by": "@dkhamsing",
       "stars": 396
+    },
+    {
+      "title": "Contributions for GitHub",
+      "description": "Look at your GitHub contributions graph in a Today Extension",
+      "source": "https://github.com/JustinFincher/GitHubContributionsiOS",
+      "itunes": "https://itunes.apple.com/app/contributions-for-github/id1153432612",
+      "category-ids": ["github", "today"],
+      "screenshots": ["https://github.com/JustinFincher/GitHubContributionsiOS/raw/master/Sketch/GitHub-Contributions.jpg"],
+      "license": "other",
+      "date_added": "Oct 6 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
