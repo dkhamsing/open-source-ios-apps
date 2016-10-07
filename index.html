@@ -24,9 +24,15 @@
        <h4 class="modal-title">Loading...</h4>
       </div>
       <div class="modal-body">
-        <p>Loading scripts</p>
+       <span name="primary-progress-text">0% Complete</span>
        <div class="progress">
-        <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%">
+        <div name="primary-progress-bar" class="progress-bar progress-bar-striped" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%">
+         <span class="sr-only">0% Complete</span>
+        </div>
+       </div>
+       <span name="secondary-progress-text">Loading...</span>
+       <div class="progress">
+        <div name="secondary-progress-bar" class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%">
          <span class="sr-only">0% Complete</span>
         </div>
        </div>

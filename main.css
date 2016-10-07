@@ -120,3 +120,7 @@ body {
   display: flex;
   align-items: center;
 }
+
+.disable-width-transition {
+  transition: width 0s;
+}
