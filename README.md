@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-559-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October  6, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-559-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October  7, 2016-lightgrey.svg)
 
 Jump to
 
@@ -185,6 +185,8 @@ Click ► to show more details
 </details> 
 - Calculator by mukeshthawani  
 <details><summary>`swift` </summary>  https://github.com/mukeshthawani/Calculator<br>  Added December 18, 2015<br>  License: `other`
+<div><img height='300' alt='Calculator by mukeshthawani image 1' src='https://raw.githubusercontent.com/mukeshthawani/Calculator/master/graphics/scr1.png'> 
+</div>
   </details>
 </details> 
 - Calculator by noodlewerk  
@@ -743,6 +745,8 @@ Click ► to show more details
 </details> 
 - Bequest: Create & replay HTTP/S requests  
 <details><summary>`swift` </summary>  https://github.com/splinesoft/Bequest<br>  Added April  7, 2015<br>  License: `other`
+<div><img height='300' alt='Bequest image 1' src='https://github.com/splinesoft/Bequest/raw/master/bequest.gif'> 
+</div>
   </details>
 </details> 
 - Blink: Mobile shell terminal based on Mosh  
@@ -783,6 +787,8 @@ Click ► to show more details
 </details> 
 - Review Time: Shows average review times for iOS & Mac apps  
 <details><summary>`swift` 🔥</summary>  https://github.com/nthegedus/ReviewTime<br>  Added October  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Review Time image 1' src='https://github.com/nthegedus/ReviewTime/raw/master/Design/ReviewTime.png'> 
+</div>
   </details>
 </details> 
 - TLDR Man Page: Reference dictionary for computer manual commands, but in tl;dr (too long; didn't read) mode  
@@ -830,6 +836,8 @@ Click ► to show more details
 </details> 
 - MrCode: GitHub app that can cache Markdown content  
 <details><summary>`iphone` 🇨🇳 🔥🔥</summary>  https://github.com/haolloyin/MrCode<br>  Added November  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='MrCode image 1' src='https://raw.githubusercontent.com/haolloyin/MrCode/master/Screenshots/screenshots_1.jpg'> 
+</div>
   </details>
 </details> 
 - OctoPodium: List users ranked by GitHub repository star count [` App Store`](https://itunes.apple.com/app/octopodium/id1077519133)  
@@ -1202,10 +1210,14 @@ Click ► to show more details
 </details> 
 - Concentration game (翻翻看)  
 <details><summary>`swift` 🇨🇳 🔥</summary>  https://github.com/geek5nan/FanFanSwift<br>  Added May 14, 2015<br>  License: `other`
+<div><img height='300' alt='Concentration game (翻翻看) image 1' src='https://raw.githubusercontent.com/geek5nan/FanFanSwift/master/screenshot/2.png'> 
+</div>
   </details>
 </details> 
 - Conway's Game of Life  
 <details><summary>`swift` </summary>  https://github.com/yonbergman/swift-gameoflife<br>  Added March 31, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Conway's Game of Life image 1' src='https://raw.githubusercontent.com/yonbergman/swift-gameoflife/master/gameoflife.gif'> 
+</div>
   </details>
 </details> 
 - Conway's Game of Life (Vie) [` App Store`](https://itunes.apple.com/app/vie-conways-game-of-life/id989686123)  
@@ -1344,6 +1356,8 @@ Click ► to show more details
 </details> 
 - SceneKitFrogger  
 <details><summary>`swift` </summary>  https://github.com/devindazzle/SceneKitFrogger<br>  Added August  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='SceneKitFrogger image 1' src='https://github.com/devindazzle/SceneKitFrogger/raw/master/screenshot.png'> 
+</div>
   </details>
 </details> 
 - SHMUP: 3D multiplatform game written primarily in C [` App Store`](https://itunes.apple.com/app/shmup/id337663605)  
@@ -1391,6 +1405,8 @@ Click ► to show more details
 </details> 
 - Conway's Game of Life  
 <details><summary>`swift` </summary>  https://github.com/yonbergman/swift-gameoflife<br>  Added March 31, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Conway's Game of Life image 1' src='https://raw.githubusercontent.com/yonbergman/swift-gameoflife/master/gameoflife.gif'> 
+</div>
   </details>
 </details> 
 - Five In A Row (五子棋)  
@@ -1415,6 +1431,8 @@ Click ► to show more details
 </details> 
 - Stick-Hero-Swift  
 <details><summary>`swift` `iphone` `ipad` 🔥🔥</summary>  https://github.com/phpmaple/Stick-Hero-Swift<br>  Added June 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Stick-Hero-Swift image 1' src='https://camo.githubusercontent.com/8874bc6a45f7b4e63929f809fb08edbffd122ad6/687474703a2f2f73686172652e6b6f6f6672616e6b2e636f6d2f62672e706e67'> 
+</div>
   </details>
 </details> 
 - SwiftSnake: Snake clone  
@@ -1555,6 +1573,8 @@ Click ► to show more details
 </details> 
 - Hodor: Fun Hodor keyboard  
 <details><summary>`swift` 🔥</summary>  https://github.com/jonomuller/Hodor-Keyboard<br>  Added December 26, 2015<br>  License: `other`
+<div><img height='300' alt='Hodor image 1' src='https://raw.githubusercontent.com/jonomuller/Hodor-Keyboard/master/IMG_2168.PNG'> 
+</div>
   </details>
 </details> 
 - NaughtyKeyboard: Keyboard that supports The Big List of Naughty Strings  
