@@ -451,6 +451,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/mukeshthawani/Calculator/master/graphics/scr1.png"],
       "stars": 4,
       "license": "other",
       "date_added": "Fri, 18 Dec 2015 01:52:04 +0530",
@@ -1403,6 +1404,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/splinesoft/Bequest/raw/master/bequest.gif"],
       "stars": 57,
       "license": "other",
       "date_added": "Tue Apr 7 10:35:35 2015 -0700",
@@ -1488,6 +1490,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/nthegedus/ReviewTime/raw/master/Design/ReviewTime.png"],
       "date_added": "Thu Oct 8 10:37:30 2015 -0700",
       "suggested_by": "@dkhamsing"
     },
@@ -1566,6 +1569,7 @@
       "tags": [
         "iphone"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/haolloyin/MrCode/master/Screenshots/screenshots_1.jpg"],
       "description": "GitHub app that can cache Markdown content",
       "lang": "zho",
       "license": "mit",
@@ -1784,6 +1788,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/geek5nan/FanFanSwift/master/screenshot/2.png"],
       "license": "other",
       "date_added": "Thu May 14 07:22:10 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -2029,6 +2034,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/yonbergman/swift-gameoflife/master/gameoflife.gif"],
       "stars": 46,
       "date_added": "Tue Mar 31 14:34:02 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -2189,6 +2195,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/devindazzle/SceneKitFrogger/raw/master/screenshot.png"],
       "stars": 66,
       "date_added": "Sun Aug 9 09:03:56 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -2222,6 +2229,7 @@
         "iphone",
         "ipad"
       ],
+      "screenshots": ["https://camo.githubusercontent.com/8874bc6a45f7b4e63929f809fb08edbffd122ad6/687474703a2f2f73686172652e6b6f6f6672616e6b2e636f6d2f62672e706e67"],
       "date_added": "Tue Jun 30 07:31:12 2015 -0700",
       "suggested_by": "@dkhamsing"
     },
@@ -2533,6 +2541,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/jonomuller/Hodor-Keyboard/master/IMG_2168.PNG"],
       "stars": 101,
       "license": "other",
       "date_added": "Sat Dec 26 06:55:51 2015 -0800",
