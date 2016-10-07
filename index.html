@@ -7,81 +7,97 @@
   <meta name="description" content="A collaborative list of open-source iOS, watchOS and tvOS apps" />
   <meta name="robots" content="index,follow" />
   <title>Open Source iOS Apps</title>
-  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/ui-lightness/jquery-ui.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/emojione/2.2.6/assets/css/emojione.min.css" />
-  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet"> 
   <link rel="stylesheet" href="main.css" />
   <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
-  <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js" integrity="sha256-eGE6blurk5sHj+rmkfsGYeKyZx3M4bG+ZlFyA7Kns7E=" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/emojione/2.2.6/lib/js/emojione.min.js"></script>
-  <script src="https://use.fontawesome.com/f64017bd34.js"></script>
+  <!-- Stuff loaded dynamically
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+-->
   <script src="main.js"></script>
  </head>
  <body>
-  <nav class="navbar navbar-default navbar-fixed-top">
-   <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-     <span class="navbar-brand" href="#">Open Source iOS Apps</span>
-    </div>
-    <div id="main-nav" class="navbar-collapse collapse">
-     <ul class="nav navbar-nav">
-      <li><a href="#about">About</a></li>
-      <li><a href="#toc">Table of Contents</a></li>
-      <li><a href="#">Credit</a></li>
-     </ul>
-     <ul class="nav navbar-nav navbar-right">
-      <li><a href="#" id="setting-button"><span class="fa fa-cog"></span></a></li>
-      <li><a href="https://github.com/dkhamsing/open-source-ios-apps" target="_blank"><span class="fa fa-github" aria-hidden="true"></span> Github</a></li>
-      <li><a href="https://twitter.com/opensourceios" target="_blank"><span class="fa fa-twitter" aria-hidden="true"></span> Twitter</a></li>
-     </ul>
-    </div>
-   </div>
-  </nav>
-
-  <div id="about" class="container">
-   <div class="jumbotron">
-    <h1>Open Source iOS Apps</h1>
-    <p>A collaborative list of <span id="app-count" class="text-primary"></span> open-source <code>iOS</code>, <code>watchOS</code> and <code>tvOS</code> apps, your contribution is welcome :smile:</p>
-   </div>
-  </div>
-
-  <div id="toc" class="container">
-   <h1>Table of Contents</h1>
-  </div>
-
-  <div id="main-content" class="container list-group"></div>
-  
-  <div class="modal fade" id="settings" tabindex="-1" role="dialog">
-   <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-     <div class="modal-header"><button type="button" class="close" aria-hidden="true" data-dismiss="modal">&times;</button><h2 class="modal-title">Settings</h2></div>
-     <div class="modal-body">
-      <h3>Themes</h3>
-      <div id="theme-container"></div>
+  <div id="splash-page">
+   <div class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+     <div class="modal-content">
+      <div class="modal-header">
+       <h4 class="modal-title">Loading...</h4>
+      </div>
+      <div class="modal-body">
+        <p>Loading scripts</p>
+       <div class="progress">
+        <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%">
+         <span class="sr-only">0% Complete</span>
+        </div>
+       </div>
+      </div>
      </div>
     </div>
    </div>
   </div>
-  
-  <div class="modal fade" id="screenshot" tabindex="-1" role="dialog">
-   <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-     <div class="modal-header"><button type="button" class="close" aria-hidden="true" data-dismiss="modal">&times;</button><h2 class="modal-title"></h2></div>
-     <div class="modal-body"></div>
-     <div class="modal-footer">
-      <ul class="pagination"></ul>
-      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+  <div id="main-page">
+    <nav class="navbar navbar-default navbar-fixed-top">
+     <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+       <span class="navbar-brand" href="#">Open Source iOS Apps</span>
+      </div>
+      <div id="main-nav" class="navbar-collapse collapse">
+       <ul class="nav navbar-nav">
+        <li><a href="#about">About</a></li>
+        <li><a href="#toc">Table of Contents</a></li>
+        <li><a href="#">Credit</a></li>
+       </ul>
+       <ul class="nav navbar-nav navbar-right">
+        <li><a href="#" id="setting-button"><span class="fa fa-cog"></span></a></li>
+        <li><a href="https://github.com/dkhamsing/open-source-ios-apps" target="_blank"><span class="fa fa-github" aria-hidden="true"></span> Github</a></li>
+        <li><a href="https://twitter.com/opensourceios" target="_blank"><span class="fa fa-twitter" aria-hidden="true"></span> Twitter</a></li>
+       </ul>
+      </div>
+     </div>
+    </nav>
+
+    <div id="about" class="container">
+     <div class="jumbotron">
+      <h1>Open Source iOS Apps</h1>
+      <p>A collaborative list of <span id="app-count" class="text-primary"></span> open-source <code>iOS</code>, <code>watchOS</code> and <code>tvOS</code> apps, your contribution is welcome :smile:</p>
      </div>
     </div>
-   </div>
-  </div>
 
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <div id="toc" class="container">
+     <h1>Table of Contents</h1>
+    </div>
+
+    <div id="main-content" class="container list-group"></div>
+
+    <div class="modal fade" id="settings" tabindex="-1" role="dialog">
+     <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+       <div class="modal-header"><button type="button" class="close" aria-hidden="true" data-dismiss="modal">&times;</button><h2 class="modal-title">Settings</h2></div>
+       <div class="modal-body">
+        <h3>Themes</h3>
+        <div id="theme-container"></div>
+       </div>
+      </div>
+     </div>
+    </div>
+
+    <div class="modal fade" id="screenshot" tabindex="-1" role="dialog">
+     <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+       <div class="modal-header"><button type="button" class="close" aria-hidden="true" data-dismiss="modal">&times;</button><h2 class="modal-title"></h2></div>
+       <div class="modal-body"></div>
+       <div class="modal-footer">
+        <ul class="pagination"></ul>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+       </div>
+      </div>
+     </div>
+    </div>
+  </div>
  </body>
 </html>

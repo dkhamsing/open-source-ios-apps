@@ -111,3 +111,12 @@ body {
  margin-top: -50px;
  padding-top: 50px;
 }
+
+#main-page {
+  display: none;
+}
+
+#splash-page .modal {
+  display: flex;
+  align-items: center;
+}
