@@ -124,3 +124,7 @@ body {
 .disable-width-transition {
   transition: width 0s;
 }
+
+#splash-page .modal-title {
+  text-align: center;
+}
