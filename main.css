@@ -80,7 +80,7 @@ body {
  overflow-x: auto;
 }
 
-.screenshot-container img {
+.screenshot-thumbnail {
  height: 150px;
  margin-right: 20px;
 }

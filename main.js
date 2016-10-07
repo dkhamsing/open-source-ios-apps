@@ -82,7 +82,7 @@ function screenshotsString(screenshots) {
 
 	var output = "<br />Screenshots:<div class=\"screenshot-container\">";
 	for(var i = 0; i < screenshots.length; i++) {
-		//output += "<a href=\"#\"><img src=\"" + screenshots[i] + "\" style='display:none;'></a>";
+		output += "<a href=\"#\"><input name=\"screenshot-src\" type=\"hidden\" value=\"" + screenshots[i] + "\"></a>";
 	}
 	output += "</div>";
 	return output;
@@ -200,7 +200,16 @@ function endGenerateWebpage() {
 
   // Add app show more links
   $("#main-content .list-group-item").click(function() {
-    $(this).children(".details").toggle("blind");
+    var details = $(this).children(".details").toggle("blind");
+
+    // Load screenshots if necessary
+    var container = details.find(".screenshot-container");
+    if(container.length && !container.find(".screenshot-thumbnail").length) {
+      var srcs = details.find("input[name=screenshot-src]");
+      srcs.each(function() {
+        $(this).before("<img class=\"screenshot-thumbnail\" src=\"" + $(this).val() + "\">");
+      });
+    }
   });
 
   // Prevent details from showing when clicking the app store link
@@ -220,6 +229,7 @@ function endGenerateWebpage() {
 
     // Lower navigation
     var paginationContent = "<li name=\"left\"" + (index == 0 ? " class=\"disabled\"" : "") + "><a class=\"glyphicon glyphicon-menu-left\" href=\"#\"></a></li>";
+    console.log(allImages);
     for(var i = 0; i < allImages.length; i++) {
       paginationContent += "<li" + (index == i ? " class=\"active\"" : "") + "><a href=\"" + allImages[i].src + "\">" + (i + 1) + "</a></li>";
     }
