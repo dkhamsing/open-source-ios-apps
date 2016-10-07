@@ -341,6 +341,8 @@ $(document).ready(function() {
   for(var i = 0; i < stylesheets.length; i++) {
     $(document.head).append("<link rel=\"stylesheet\" href=\"" + stylesheets[i].url + "\" integrity=\"" + stylesheets[i].sri + "\" crossorigin=\"anonymous\">");
   }
+  // Load bootstrap theme
+  $(document.head).append("<link id=\"bootstrap-theme\" href=\"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/" + loadSetting("theme").toLowerCase() + "/bootstrap.min.css\" rel=\"stylesheet\">");
 
   var loadedResources = 0;
   // Subsresource integrity (SRI) is not used currently unfortunately
