@@ -9700,6 +9700,26 @@
       "license": "other",
       "date_added": "Oct 6 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "S.C.P-Asylum-Fail",
+      "description": "A game like ’Life Line’",
+      "source": "https://github.com/cpo007/S.C.P-Asylum-Fail",
+      "screenshots": [
+        "https://github.com/cpo007/S.C.P-Asylum-Fail/blob/master/Image/Launch.png",
+        "https://github.com/cpo007/S.C.P-Asylum-Fail/blob/master/Image/Home.png"
+      ],
+      "lang": "zho",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "other",
+      "date_added": "Oct 8 2016",
+      "suggested_by": "@cpo007",
+      "stars": 0
     }
   ]
 }
