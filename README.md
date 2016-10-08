@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-559-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October  7, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-560-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October  8, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1347,6 +1347,12 @@ Click ► to show more details
 - Pterodactyl Attack: Blast your way through waves of pterodactyls, includes detailed writeup on how it's made [` App Store`](https://itunes.apple.com/app/pterodactyl-attack/id786862892)  
 <details><summary>`objc` </summary>  https://github.com/shaunlebron/PterodactylAttack<br>  https://shaunlebron.github.io/pteroattack.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Pterodactyl Attack image 1' src='http://a5.mzstatic.com/us/r30/Purple7/v4/aa/33/d8/aa33d8aa-ccb6-293d-a213-f7bd5cdc55e1/screen696x696.jpeg'> <img height='300' alt='Pterodactyl Attack image 2' src='http://a4.mzstatic.com/us/r30/Purple1/v4/2a/fe/98/2afe98b7-d218-cd50-ec2e-706bb93bd9a3/screen696x696.jpeg'> <img height='300' alt='Pterodactyl Attack image 3' src='http://a4.mzstatic.com/us/r30/Purple5/v4/ea/29/3d/ea293d10-eb58-009d-9590-51b8c647568f/screen696x696.jpeg'> <img height='300' alt='Pterodactyl Attack image 4' src='http://a1.mzstatic.com/us/r30/Purple1/v4/3f/1d/0a/3f1d0a4e-da6c-b3dc-058a-44c8c562855e/screen696x696.jpeg'> <img height='300' alt='Pterodactyl Attack image 5' src='http://a4.mzstatic.com/us/r30/Purple5/v4/e0/3d/4f/e03d4f98-caed-0026-9072-0ffd5f6df2aa/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- S.C.P-Asylum-Fail: A game like ’Life Line’  
+<details><summary>`swift` 🇨🇳 </summary>  https://github.com/cpo007/S.C.P-Asylum-Fail<br>  Added October  8, 2016<br>  License: `other`
+<div><img height='300' alt='S.C.P-Asylum-Fail image 1' src='https://github.com/cpo007/S.C.P-Asylum-Fail/blob/master/Image/Launch.png'> <img height='300' alt='S.C.P-Asylum-Fail image 2' src='https://github.com/cpo007/S.C.P-Asylum-Fail/blob/master/Image/Home.png'> 
 </div>
   </details>
 </details> 
