@@ -1369,6 +1369,8 @@
       ],
       "license": "mpl-2.0",
       "source": "https://github.com/mozilla-mobile/focus",
+      "itunes": "https://itunes.apple.com/app/id1055677337",
+      "screenshots": ["http://a2.mzstatic.com/us/r30/Purple71/v4/32/81/20/328120a1-29c2-4dd8-fec8-8024eb5bb5ee/screen696x696.jpeg"],
       "stars": 369,
       "tags": [
         "swift"
