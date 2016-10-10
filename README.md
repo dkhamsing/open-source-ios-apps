@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-560-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October  8, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-560-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 10, 2016-lightgrey.svg)
 
 Jump to
 
@@ -984,10 +984,14 @@ Click ► to show more details
 </details> 
 - BlockParty  
 <details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/krishkumar/BlockParty<br>  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='BlockParty image 1' src='https://github.com/krishkumar/BlockParty/raw/master/Screenshot01.png'> <img height='300' alt='BlockParty image 2' src='https://github.com/krishkumar/BlockParty/raw/master/Screenshot02.png'> 
+</div>
   </details>
 </details> 
-- Focus by Firefox  
+- Focus by Firefox [` App Store`](https://itunes.apple.com/app/id1055677337)  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/mozilla-mobile/focus<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+<div><img height='300' alt='Focus by Firefox image 1' src='http://a2.mzstatic.com/us/r30/Purple71/v4/32/81/20/328120a1-29c2-4dd8-fec8-8024eb5bb5ee/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - Swab: Ad blocker for creative, web & design ads [` App Store`](https://itunes.apple.com/app/swab-content-blocker-creative/id1042086002)  
@@ -1509,6 +1513,8 @@ Click ► to show more details
 </details> 
 - Swift-Walk-Tracker: Track your walks  
 <details><summary>`swift` </summary>  https://github.com/kevinvanderlugt/Swift-Walk-Tracker<br>  Added June  7, 2015<br>  License: `other`
+<div><img height='300' alt='Swift-Walk-Tracker image 1' src='https://github.com/kevinvanderlugt/Swift-Walk-Tracker/raw/master/images/screenshot_map.PNG'> <img height='300' alt='Swift-Walk-Tracker image 2' src='https://github.com/kevinvanderlugt/Swift-Walk-Tracker/raw/master/images/screenshot_list.PNG'> 
+</div>
   </details>
 </details> 
 - Theseus: Personal analytics app  
@@ -1589,6 +1595,8 @@ Click ► to show more details
 </details> 
 - Slidden: Customizable keyboard  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/Brimizer/Slidden<br>  Added November 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Slidden image 1' src='https://github.com/Brimizer/Slidden/raw/master/assets/screenshot.png'> 
+</div>
   </details>
 </details> 
 
@@ -1614,6 +1622,8 @@ Click ► to show more details
 </details> 
 - Doppio: Finds the nearest Starbucks  
 <details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/chroman/Doppio<br>  Added March  5, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+<div><img height='300' alt='Doppio image 1' src='https://camo.githubusercontent.com/8af94eada922e898fb9a63615e431dcefcbc8d1c/687474703a2f2f6368726f6d616e2e6d652f77702d636f6e74656e742f75706c6f6164732f323031332f31322f312e706e67'> <img height='300' alt='Doppio image 2' src='https://camo.githubusercontent.com/0f3d12046e643ac129f8a78a357352988e6d8a3d/687474703a2f2f6368726f6d616e2e6d652f77702d636f6e74656e742f75706c6f6164732f323031332f31322f332e706e67'> 
+</div>
   </details>
 </details> 
 - EatNow: Get recommendations for restaurants nearby [` App Store`](https://itunes.apple.com/app/eat-now-instant-personalized/id946591471)  
@@ -1632,10 +1642,14 @@ Click ► to show more details
 </details> 
 - HopperBus: Timetable for the University of Nottingham Hopper Bus  
 <details><summary>`swift` </summary>  https://github.com/TosinAF/HopperBus-iOS<br>  Added January 22, 2016<br>  License: `other`
+<div><img height='300' alt='HopperBus image 1' src='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RouteView.png'> <img height='300' alt='HopperBus image 2' src='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RealTimeView.png'> <img height='300' alt='HopperBus image 3' src='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RouteTimesView.png'> <img height='300' alt='HopperBus image 4' src='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/MapView.png'> 
+</div>
   </details>
 </details> 
 - iBeaconTasks: iBeacon to-do reminders  
 <details><summary>`parse` 🔥</summary>  https://github.com/TomekB/iBeaconTasks<br>  Added March  5, 2015<br>  License: `other`
+<div><img height='300' alt='iBeaconTasks image 1' src='https://camo.githubusercontent.com/2b1e4a0a6f63695a85d966291e18c1522ac75bd3/687474703a2f2f7332352e706f7374696d672e6f72672f6e336e766e6976337a2f32303134303232313035353435395f6c6f676f2e706e67'> 
+</div>
   </details>
 </details> 
 - Locative: Helping you to get the best out of your automated home, geofencing, iBeacons [` App Store`](https://itunes.apple.com/app/locative/id725198453)  
@@ -1658,6 +1672,8 @@ Click ► to show more details
 </details> 
 - Moves: Visualize where you spend your time  
 <details><summary>`objc` </summary>  https://github.com/neonichu/Places<br>  Added July 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Moves image 1' src='https://github.com/neonichu/Places/raw/master/Screenshots/1.png'> 
+</div>
   </details>
 </details> 
 - Munch: Tinder-styled restaurant recommendations  
@@ -1688,8 +1704,10 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- OwnTracks: Keep track of your own location, you can build your private location diary or share it with your family & friends  
+- OwnTracks: Keep track of your own location, you can build your private location diary or share it with your family & friends [` App Store`](https://itunes.apple.com/app/mqttitude/id692424691)  
 <details><summary>`objc` </summary>  https://github.com/owntracks/ios<br>  Added April  3, 2016<br>  License: `other`
+<div><img height='300' alt='OwnTracks image 1' src='http://a4.mzstatic.com/us/r30/Purple69/v4/c1/6b/39/c16b39c0-da01-94b0-6a59-89d134a79d61/screen520x924.jpeg'> 
+</div>
   </details>
 </details> 
 - ParkenDD: Check the status of several public parking lots in Germany & Switzerland [` App Store`](https://itunes.apple.com/app/parkendd/id957165041)  
@@ -1698,12 +1716,16 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- pathlogger: GPS logging app  
+- pathlogger: GPS logging app [` App Store`](https://itunes.apple.com/app/pathlogger/id980068173)  
 <details><summary>`swift` </summary>  https://github.com/eugenpirogoff/pathlogger<br>  Added July 20, 2015<br>  License: `other`
+<div><img height='300' alt='pathlogger image 1' src='https://github.com/eugenpirogoff/PathLogger/raw/master/tmp/2_recording.png'> <img height='300' alt='pathlogger image 2' src='https://github.com/eugenpirogoff/PathLogger/raw/master/tmp/3_recordings.png'> 
+</div>
   </details>
 </details> 
 - PebCiti: Pebble app to show nearest CitiBike NYC dock  
 <details><summary>`objc` </summary>  https://github.com/joemasilotti/PebCiti<br>  Added May  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='PebCiti image 1' src='https://camo.githubusercontent.com/2654f9dd528e13175b126d14b17c3548cef0f131/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f656d6173696c6f7474692f506562436974692f6d61737465722f53637265656e73686f74732f694f532e706e67'> 
+</div>
   </details>
 </details> 
 - Prey: Track lost or stolen devices & perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037)  
@@ -1785,6 +1807,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - Filterpedia: Core Image Filter explorer  
 <details><summary>`swift` `coreimage` 🔥🔥🔥🔥</summary>  https://github.com/FlexMonkey/Filterpedia<br>  Added January  7, 2016<br>  License: `other`
+<div><img height='300' alt='Filterpedia image 1' src='https://github.com/FlexMonkey/Filterpedia/raw/master/Filterpedia/assets/screenshot.jpg'> 
+</div>
   </details>
 </details> 
 - GreatReader: "Great" PDF reader [` App Store`](https://itunes.apple.com/app/greatreader/id903651112)  
@@ -1896,6 +1920,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - DoubanFM: https://douban.fm/ app  
 <details><summary>`afnetworking` `mpmovieplayer` `iphone` 🇨🇳 🔥🔥</summary>  https://github.com/XVXVXXX/DoubanFM<br>  Added October  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='DoubanFM image 1' src='https://github.com/XVXVXXX/DoubanFM/raw/master/readmeImage/page0.png'> 
+</div>
   </details>
 </details> 
 - FreeStreamer: A low-memory footprint streaming audio player  
@@ -2846,6 +2872,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - iBeaconTasks: iBeacon to-do reminders  
 <details><summary>`parse` 🔥</summary>  https://github.com/TomekB/iBeaconTasks<br>  Added March  5, 2015<br>  License: `other`
+<div><img height='300' alt='iBeaconTasks image 1' src='https://camo.githubusercontent.com/2b1e4a0a6f63695a85d966291e18c1522ac75bd3/687474703a2f2f7332352e706f7374696d672e6f72672f6e336e766e6976337a2f32303134303232313035353435395f6c6f676f2e706e67'> 
+</div>
   </details>
 </details> 
 - MyAwesomeChecklist  
@@ -2973,6 +3001,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Smart Traveller (UberGuide): Simple & comfortable way to explore a city  
 <details><summary>`uber api` 🔥🔥</summary>  https://github.com/hACKbUSTER/UberGuide-iOS<br>  Added January 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Smart Traveller (UberGuide) image 1' src='https://raw.githubusercontent.com/hACKbUSTER/UberGuide-iOS/master/ScreenShots/IMG_0460.PNG'> 
+</div>
   </details>
 </details> 
 - Themoji: Use Emojis to communicate while traveling  
@@ -3281,6 +3311,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - iBeaconTasks: iBeacon to-do reminders  
 <details><summary>`parse` 🔥</summary>  https://github.com/TomekB/iBeaconTasks<br>  Added March  5, 2015<br>  License: `other`
+<div><img height='300' alt='iBeaconTasks image 1' src='https://camo.githubusercontent.com/2b1e4a0a6f63695a85d966291e18c1522ac75bd3/687474703a2f2f7332352e706f7374696d672e6f72672f6e336e766e6976337a2f32303134303232313035353435395f6c6f676f2e706e67'> 
+</div>
   </details>
 </details> 
 - Jim: Track your gym workouts  
