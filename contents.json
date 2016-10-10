@@ -1358,6 +1358,11 @@
       ],
       "license": "mit",
       "source": "https://github.com/krishkumar/BlockParty",
+      "screenshots": [
+        "https://github.com/krishkumar/BlockParty/raw/master/Screenshot01.png",
+        "https://github.com/krishkumar/BlockParty/raw/master/Screenshot02.png"
+
+      ],
       "stars": 610,
       "date_added": "Mon Jun 29 09:00:59 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -2571,6 +2576,7 @@
       ],
       "description": "Customizable keyboard",
       "source": "https://github.com/Brimizer/Slidden",
+      "screenshots": ["https://github.com/Brimizer/Slidden/raw/master/assets/screenshot.png"],
       "stars": 489,
       "license": "mit",
       "date_added": "Tue Nov 24 08:23:42 2015 -0800",
@@ -2599,6 +2605,10 @@
       ],
       "description": "Finds the nearest Starbucks",
       "source": "https://github.com/chroman/Doppio",
+      "screenshots": [
+        "https://camo.githubusercontent.com/8af94eada922e898fb9a63615e431dcefcbc8d1c/687474703a2f2f6368726f6d616e2e6d652f77702d636f6e74656e742f75706c6f6164732f323031332f31322f312e706e67",
+        "https://camo.githubusercontent.com/0f3d12046e643ac129f8a78a357352988e6d8a3d/687474703a2f2f6368726f6d616e2e6d652f77702d636f6e74656e742f75706c6f6164732f323031332f31322f332e706e67"
+      ],
       "stars": 545,
       "license": "bsd-2-clause",
       "date_added": "Sat Mar 5 01:12:45 2016 +0100",
@@ -2666,6 +2676,12 @@
       "tags": [
         "swift"
       ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RouteView.png",
+        "https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RealTimeView.png",
+        "https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RouteTimesView.png",
+        "https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/MapView.png"
+      ],
       "stars": 57,
       "license": "other",
       "date_added": "Fri Jan 22 07:07:32 2016 -0800",
@@ -2683,6 +2699,7 @@
       ],
       "description": "iBeacon to-do reminders",
       "source": "https://github.com/TomekB/iBeaconTasks",
+      "screenshots": ["https://camo.githubusercontent.com/2b1e4a0a6f63695a85d966291e18c1522ac75bd3/687474703a2f2f7332352e706f7374696d672e6f72672f6e336e766e6976337a2f32303134303232313035353435395f6c6f676f2e706e67"],
       "stars": 111,
       "license": "other",
       "date_added": "Thu Mar 5 07:45:57 2015 -0800",
@@ -2716,6 +2733,7 @@
       "description": "Visualize where you spend your time",
       "license": "mit",
       "source": "https://github.com/neonichu/Places",
+      "screenshots": ["https://github.com/neonichu/Places/raw/master/Screenshots/1.png"],
       "stars": 33,
       "date_added": "Wed Jul 13 06:47:19 2016 -0700",
       "suggested_by": "@dkhamsing"
@@ -2747,6 +2765,7 @@
       ],
       "description": "Keep track of your own location, you can build your private location diary or share it with your family & friends",
       "source": "https://github.com/owntracks/ios",
+      "screenshots": ["http://a4.mzstatic.com/us/r30/Purple69/v4/c1/6b/39/c16b39c0-da01-94b0-6a59-89d134a79d61/screen520x924.jpeg"],
       "stars": 98,
       "license": "other",
       "date_added": "Sun Apr 3 10:09:54 2016 -0700",
@@ -2779,6 +2798,10 @@
       ],
       "description": "GPS logging app",
       "source": "https://github.com/eugenpirogoff/pathlogger",
+      "screenshots": [
+        "https://github.com/eugenpirogoff/PathLogger/raw/master/tmp/2_recording.png",
+        "https://github.com/eugenpirogoff/PathLogger/raw/master/tmp/3_recordings.png"
+      ],
       "tags": [
         "swift"
       ],
@@ -2794,6 +2817,7 @@
       ],
       "description": "Pebble app to show nearest CitiBike NYC dock",
       "source": "https://github.com/joemasilotti/PebCiti",
+      "screenshots": ["https://camo.githubusercontent.com/2654f9dd528e13175b126d14b17c3548cef0f131/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f656d6173696c6f7474692f506562436974692f6d61737465722f53637265656e73686f74732f694f532e706e67"],
       "stars": 17,
       "license": "mit",
       "date_added": "Tue May 5 15:28:54 2015 -0700",
@@ -2818,6 +2842,10 @@
       ],
       "description": "Track your walks",
       "source": "https://github.com/kevinvanderlugt/Swift-Walk-Tracker",
+      "screenshots": [
+        "https://github.com/kevinvanderlugt/Swift-Walk-Tracker/raw/master/images/screenshot_map.PNG",
+        "https://github.com/kevinvanderlugt/Swift-Walk-Tracker/raw/master/images/screenshot_list.PNG"
+      ],
       "tags": [
         "swift"
       ],
@@ -2837,6 +2865,7 @@
       "description": "Simple & comfortable way to explore a city",
       "license": "mit",
       "source": "https://github.com/hACKbUSTER/UberGuide-iOS",
+      "screenshots": ["https://raw.githubusercontent.com/hACKbUSTER/UberGuide-iOS/master/ScreenShots/IMG_0460.PNG"],
       "stars": 244,
       "date_added": "Fri Jan 22 07:06:13 2016 -0800",
       "suggested_by": "@dkhamsing"
@@ -3015,6 +3044,7 @@
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/XVXVXXX/DoubanFM",
+      "screenshots": ["https://github.com/XVXVXXX/DoubanFM/raw/master/readmeImage/page0.png"],
       "stars": 436,
       "date_added": "Thu Oct 1 06:17:21 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -3068,6 +3098,7 @@
       ],
       "description": "Core Image Filter explorer",
       "source": "https://github.com/FlexMonkey/Filterpedia",
+      "screenshots": ["https://github.com/FlexMonkey/Filterpedia/raw/master/Filterpedia/assets/screenshot.jpg"],
       "stars": 1391,
       "tags": [
         "swift",
