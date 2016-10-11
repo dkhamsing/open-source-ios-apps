@@ -2268,7 +2268,7 @@
       "source": "https://github.com/a2/arex",
       "tags": [
         "swift",
-        "swift2.2"
+        "swift2.2",
         "carthage",
         "pistachio",
         "reactivecocoa"
