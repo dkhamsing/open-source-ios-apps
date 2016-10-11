@@ -4702,7 +4702,7 @@
       "source": "https://github.com/wrutkowski/Lucid-Weather-Clock",
       "tags": [
         "swift",
-        "forecast api"
+        "dark sky api (forecast api)"
       ],
       "stars": 40,
       "date_added": "Tue Jan 5 16:03:00 2016 +0000",
@@ -4732,7 +4732,7 @@
       "stars": 640,
       "tags": [
         "swift",
-        "forecast api"
+        "dark sky api (forecast api)"
       ],
       "license": "mit",
       "date_added": "Sun Apr 26 10:35:46 2015 +0800",
@@ -4792,7 +4792,7 @@
         "reactivecocoa"
       ],
       "tags": [
-        "forecast api",
+        "dark sky api (forecast api)",
         "reactivecocoa"
       ],
       "license": "mit",
