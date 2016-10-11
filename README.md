@@ -1467,7 +1467,7 @@ Click ► to show more details
   </details>
 </details> 
 - Arex: Reminders for taking your medications  
-<details><summary>`swift` </summary>  https://github.com/a2/arex-7<br>  Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `swift2.2` `carthage` `pistachio` `reactivecocoa` </summary>  https://github.com/a2/arex<br>  Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - CaseAssistant: Cases recording, study, & sharing for ophthalmologist [` App Store`](https://itunes.apple.com/app/id1003007080)  
@@ -2480,6 +2480,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Arex: Reminders for taking your medications  
+<details><summary>`swift` `swift2.2` `carthage` `pistachio` `reactivecocoa` </summary>  https://github.com/a2/arex<br>  Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
 - Artsy: The art world in your pocket [` App Store`](https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
 <details><summary>`iphone` `ipad` `afnetworking` `mantle` `cocoapodskeys` `reactivecocoa` 🔥🔥🔥🔥</summary>  https://github.com/artsy/eigen<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Artsy image 1' src='http://a1.mzstatic.com/us/r30/Purple30/v4/f9/fd/e3/f9fde323-7f53-12d9-99cc-94f435fc9a06/screen696x696.jpeg'> <img height='300' alt='Artsy image 2' src='http://a1.mzstatic.com/us/r30/Purple30/v4/dc/17/9a/dc179a52-4cda-f91e-c36a-5d6bce72ff3c/screen696x696.jpeg'> <img height='300' alt='Artsy image 3' src='http://a5.mzstatic.com/us/r30/Purple30/v4/52/65/c4/5265c4b3-5d0c-4fce-1520-f1a6da6835af/screen696x696.jpeg'> <img height='300' alt='Artsy image 4' src='http://a2.mzstatic.com/us/r30/Purple20/v4/9f/84/d6/9f84d61d-59d5-e10e-236a-fd8c9685c9c1/screen696x696.jpeg'> <img height='300' alt='Artsy image 5' src='http://a2.mzstatic.com/us/r30/Purple18/v4/75/09/05/75090520-f464-e0c4-8d9b-9b07c6bb8c15/screen696x696.jpeg'> 
@@ -2541,7 +2545,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Tropos Weather [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376)  
-<details><summary>`forecast api` `reactivecocoa` 🔥🔥🔥🔥</summary>  https://github.com/thoughtbot/Tropos<br>  Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`dark sky api (forecast api)` `reactivecocoa` 🔥🔥🔥🔥</summary>  https://github.com/thoughtbot/Tropos<br>  Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Tropos Weather image 1' src='http://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg'> <img height='300' alt='Tropos Weather image 2' src='http://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg'> 
 </div>
   </details>
@@ -3021,7 +3025,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - Lucid Weather Clock: Precipitation clock  
-<details><summary>`swift` `forecast api` </summary>  https://github.com/wrutkowski/Lucid-Weather-Clock<br>  Added January  5, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `dark sky api (forecast api)` </summary>  https://github.com/wrutkowski/Lucid-Weather-Clock<br>  Added January  5, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Pocket Forecast  
@@ -3029,7 +3033,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - RainMan  
-<details><summary>`swift` `forecast api` 🔥🔥🔥</summary>  https://github.com/Mav3r1ck/Project-RainMan<br>  Added April 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `dark sky api (forecast api)` 🔥🔥🔥</summary>  https://github.com/Mav3r1ck/Project-RainMan<br>  Added April 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - SmileWeather  
@@ -3047,7 +3051,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Tropos Weather [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376)  
-<details><summary>`forecast api` `reactivecocoa` 🔥🔥🔥🔥</summary>  https://github.com/thoughtbot/Tropos<br>  Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`dark sky api (forecast api)` `reactivecocoa` 🔥🔥🔥🔥</summary>  https://github.com/thoughtbot/Tropos<br>  Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Tropos Weather image 1' src='http://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg'> <img height='300' alt='Tropos Weather image 2' src='http://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg'> 
 </div>
   </details>
