@@ -9755,6 +9755,21 @@
       "date_added": "Oct 8 2016",
       "suggested_by": "@cpo007",
       "stars": 0
+    },
+    {
+      "title": "iOSAppsInfo",
+      "description": "List installed apps & URL schemes",
+      "category-ids": [
+        "developer"
+      ],
+      "source": "https://github.com/wujianguo/iOSAppsInfo",
+      "screenshots": [
+        "https://github.com/wujianguo/iOSAppsInfo/raw/master/SampleImages/1.PNG",
+        "https://github.com/wujianguo/iOSAppsInfo/raw/master/SampleImages/3.PNG"
+      ],
+      "license": "mit",
+      "date_added": "Oct 11 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
