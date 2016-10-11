@@ -2260,13 +2260,18 @@
     {
       "title": "Arex",
       "category-ids": [
-        "health"
+        "health",
+        "reactivecocoa"
       ],
       "description": "Reminders for taking your medications",
       "license": "mit",
-      "source": "https://github.com/a2/arex-7",
+      "source": "https://github.com/a2/arex",
       "tags": [
-        "swift"
+        "swift",
+        "swift2.2"
+        "carthage",
+        "pistachio",
+        "reactivecocoa"
       ],
       "stars": 91,
       "date_added": "Tue Jun 9 23:06:39 2015 -0700",
