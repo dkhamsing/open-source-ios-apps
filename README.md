@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-561-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 11, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-560-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 13, 2016-lightgrey.svg)
 
 Jump to
 
@@ -978,7 +978,7 @@ Click ► to show more details
  
 - Adblock Fast [` App Store`](https://itunes.apple.com/app/adblock-fast/id1032930802)  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/rocketshipapps/adblockfast<br>  Added September 25, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<div><img height='300' alt='Adblock Fast image 1' src='http://a5.mzstatic.com/us/r30/Purple71/v4/95/67/fb/9567fb02-2fe7-f4b1-ffd6-aa4892a82c65/screen696x696.jpeg'> <img height='300' alt='Adblock Fast image 2' src='http://a1.mzstatic.com/us/r30/Purple62/v4/d8/d0/99/d8d0998b-4b1d-87bb-82d3-174e89d3c14d/screen696x696.jpeg'> <img height='300' alt='Adblock Fast image 3' src='http://a1.mzstatic.com/us/r30/Purple71/v4/38/a8/18/38a818c9-7579-a57c-fe5b-506c4f0beff8/screen696x696.jpeg'> <img height='300' alt='Adblock Fast image 4' src='http://a2.mzstatic.com/us/r30/Purple62/v4/6f/aa/64/6faa64ec-021e-5f96-a4f4-2cb980b2920e/screen696x696.jpeg'> <img height='300' alt='Adblock Fast image 5' src='http://a2.mzstatic.com/us/r30/Purple62/v4/18/68/a5/1868a5d4-643c-f823-3e58-27f604fa165f/screen696x696.jpeg'> <img height='300' alt='Adblock Fast image 6' src='http://a3.mzstatic.com/us/r30/Purple62/v4/f9/cd/8d/f9cd8d60-d09f-0820-477f-b38aac8b6756/screen696x696.jpeg'> 
+<div><img height='300' alt='Adblock Fast image 1' src='http://a5.mzstatic.com/us/r30/Purple71/v4/95/67/fb/9567fb02-2fe7-f4b1-ffd6-aa4892a82c65/screen696x696.jpeg'> <img height='300' alt='Adblock Fast image 2' src='http://a1.mzstatic.com/us/r30/Purple62/v4/d8/d0/99/d8d0998b-4b1d-87bb-82d3-174e89d3c14d/screen696x696.jpeg'> <img height='300' alt='Adblock Fast image 3' src='http://a1.mzstatic.com/us/r30/Purple71/v4/38/a8/18/38a818c9-7579-a57c-fe5b-506c4f0beff8/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -1844,7 +1844,9 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - Megabite: Turn a photo of your food into a face  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/AaronRandall/Megabite<br>  Added February  2, 2016<br>  License: `other`
+<details><summary>`opencv` `pop` 🔥🔥</summary>  https://github.com/AaronRandall/Megabite<br>  Added February  2, 2016<br>  License: `other`
+<div><img height='300' alt='Megabite image 1' src='https://github.com/AaronRandall/Megabite/raw/master/Megabite/Assets.xcassets/Megabite.gif'> 
+</div>
   </details>
 </details> 
 - Meme Maker: Create & share memes [` App Store`](https://itunes.apple.com/app/id962121383)  
@@ -1928,10 +1930,6 @@ Image, video, audio, reading — [back to top](#readme)
 <details><summary>`afnetworking` `mpmovieplayer` `iphone` 🇨🇳 🔥🔥</summary>  https://github.com/XVXVXXX/DoubanFM<br>  Added October  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='DoubanFM image 1' src='https://github.com/XVXVXXX/DoubanFM/raw/master/readmeImage/page0.png'> 
 </div>
-  </details>
-</details> 
-- FreeStreamer: A low-memory footprint streaming audio player  
-<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/muhku/FreeStreamer<br>  Added October 30, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
 </details> 
 - MiamiSunglasses: Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation (YEAAAAAAAAAAHH)  
@@ -2087,6 +2085,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - PhotoBrowser: Simple Instagram photo browser  
 <details><summary>`swift` `instagram api` 🔥🔥</summary>  https://github.com/MoZhouqi/PhotoBrowser<br>  Added March 31, 2015<br>  License: `other`
+<div><img height='300' alt='PhotoBrowser image 1' src='https://raw.githubusercontent.com/MoZhouqi/PhotoBrowser/master/assets/login.png'> <img height='300' alt='PhotoBrowser image 2' src='https://raw.githubusercontent.com/MoZhouqi/PhotoBrowser/master/assets/gallary.png'> 
+</div>
   </details>
 </details> 
 - PHPHub: App for https://laravel-china.org/  
@@ -2097,6 +2097,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - PopcornTime: PopcornTime movie app  
 <details><summary>`swift` 🔥</summary>  https://github.com/danylokostyshyn/popcorntime-ios<br>  Added May 20, 2015<br>  License: `other`
+<div><img height='300' alt='PopcornTime image 1' src='https://camo.githubusercontent.com/c50d34929cbeaa6ca7c30773410fbd74de95470f/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f312e706e67'> <img height='300' alt='PopcornTime image 2' src='https://camo.githubusercontent.com/acbc97860741cc35d9b99f785dd00410c5006773/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f322e706e67'> <img height='300' alt='PopcornTime image 3' src='https://camo.githubusercontent.com/daa316738f69b74d328d5172fb0beae9fd8aebbb/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f332e706e67'> 
+</div>
   </details>
 </details> 
 - ProMonster: Store  
@@ -2107,6 +2109,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - Pugs: Simple pug photo viewer  
 <details><summary>`swift` </summary>  https://github.com/soffes/Pugs<br>  Added January 25, 2016<br>  License: `other`
+<div><img height='300' alt='Pugs image 1' src='https://github.com/soffes/Pugs/raw/master/Screenshot@2x.png'> 
+</div>
   </details>
 </details> 
 - QiitaCollection: Technical knowledge sharing & collaboration platform [` App Store`](https://itunes.apple.com/app/kitakore-for-qiita/id973532800)  
