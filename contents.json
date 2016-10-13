@@ -3131,18 +3131,6 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "FreeStreamer",
-      "category-ids": [
-        "audio"
-      ],
-      "description": "A low-memory footprint streaming audio player",
-      "source": "https://github.com/muhku/FreeStreamer",
-      "stars": 1112,
-      "license": "bsd-3-clause",
-      "date_added": "Fri Oct 30 07:16:14 2015 -0700",
-      "suggested_by": "@dkhamsing"
-    },
-    {
       "title": "KonaBot",
       "category-ids": [
         "content"
