@@ -1326,10 +1326,7 @@
       "screenshots": [
         "http://a5.mzstatic.com/us/r30/Purple71/v4/95/67/fb/9567fb02-2fe7-f4b1-ffd6-aa4892a82c65/screen696x696.jpeg",
         "http://a1.mzstatic.com/us/r30/Purple62/v4/d8/d0/99/d8d0998b-4b1d-87bb-82d3-174e89d3c14d/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple71/v4/38/a8/18/38a818c9-7579-a57c-fe5b-506c4f0beff8/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple62/v4/6f/aa/64/6faa64ec-021e-5f96-a4f4-2cb980b2920e/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple62/v4/18/68/a5/1868a5d4-643c-f823-3e58-27f604fa165f/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple62/v4/f9/cd/8d/f9cd8d60-d09f-0820-477f-b38aac8b6756/screen696x696.jpeg"
+        "http://a1.mzstatic.com/us/r30/Purple71/v4/38/a8/18/38a818c9-7579-a57c-fe5b-506c4f0beff8/screen696x696.jpeg"
       ]
     },
     {
@@ -3181,6 +3178,7 @@
       "description": "Turn a photo of your food into a face",
       "source": "https://github.com/AaronRandall/Megabite",
       "tags": ["opencv", "pop"],
+      "screenshots": ["https://github.com/AaronRandall/Megabite/raw/master/Megabite/Assets.xcassets/Megabite.gif"],
       "stars": 338,
       "license": "other",
       "date_added": "Tue Feb 2 07:31:57 2016 -0800",
@@ -3249,7 +3247,8 @@
       "suggested_by": "Richard Nelson",
       "screenshots": [
         "http://a1.mzstatic.com/us/r30/Purple69/v4/e2/df/a7/e2dfa79d-8c5b-1626-7743-bd5796626c4c/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple69/v4/e3/32/92/e332929e-ade9-7df5-539f-347a5ceec305/screen696x696.jpeg"      ]
+        "http://a2.mzstatic.com/us/r30/Purple69/v4/e3/32/92/e332929e-ade9-7df5-539f-347a5ceec305/screen696x696.jpeg"
+      ]
     },
     {
       "title": "PhotoBrowser",
@@ -3258,6 +3257,7 @@
       ],
       "description": "Simple Instagram photo browser",
       "source": "https://github.com/MoZhouqi/PhotoBrowser",
+      "screenshots": ["https://raw.githubusercontent.com/MoZhouqi/PhotoBrowser/master/assets/login.png", "https://raw.githubusercontent.com/MoZhouqi/PhotoBrowser/master/assets/gallary.png"],
       "stars": 476,
       "tags": [
         "swift",
@@ -3320,6 +3320,11 @@
       "tags": [
         "swift"
       ],
+      "screenshots": [
+        "https://camo.githubusercontent.com/c50d34929cbeaa6ca7c30773410fbd74de95470f/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f312e706e67",
+        "https://camo.githubusercontent.com/acbc97860741cc35d9b99f785dd00410c5006773/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f322e706e67",
+        "https://camo.githubusercontent.com/daa316738f69b74d328d5172fb0beae9fd8aebbb/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f332e706e67"
+      ],
       "stars": 161,
       "license": "other",
       "date_added": "Wed May 20 07:43:51 2015 -0700",
@@ -3347,6 +3352,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/soffes/Pugs/raw/master/Screenshot@2x.png"],
       "stars": 51,
       "license": "other",
       "date_added": "Mon Jan 25 14:34:13 2016 -0800",
