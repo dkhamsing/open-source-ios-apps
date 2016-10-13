@@ -3180,6 +3180,7 @@
       ],
       "description": "Turn a photo of your food into a face",
       "source": "https://github.com/AaronRandall/Megabite",
+      "tags": ["opencv", "pop"],
       "stars": 338,
       "license": "other",
       "date_added": "Tue Feb 2 07:31:57 2016 -0800",
