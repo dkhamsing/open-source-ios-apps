@@ -137,6 +137,8 @@ def output_flag(lang)
   case lang
   when 'deu'
     '🇩🇪'
+  when 'fra'
+    '🇫🇷'
   when 'jpn'
     '🇯🇵'
   when 'ltz'
