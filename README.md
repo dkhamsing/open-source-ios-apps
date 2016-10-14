@@ -1791,6 +1791,8 @@ Image, video, audio, reading — [back to top](#readme)
  
 - ASCII Art Generator  
 <details><summary>`swift` 🔥</summary>  https://github.com/ijoshsmith/swift-ascii-art<br>  Added May  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='ASCII Art Generator image 1' src='https://camo.githubusercontent.com/9ba7830d528cd45c20fc771b7347e8d2191a8cc6/68747470733a2f2f696a6f7368736d6974682e66696c65732e776f726470726573732e636f6d2f323031352f30342f61736369695f6b65726d69742e706e67'> 
+</div>
   </details>
 </details> 
 - CollageMaker: Make photo collages  
@@ -1887,6 +1889,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - Revolved: 3D modelling app  
 <details><summary>`ipad` 🔥🔥🔥</summary>  https://github.com/Ciechan/Revolved<br>  Added March  5, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+<div><img height='300' alt='Revolved image 1' src='https://raw.githubusercontent.com/Ciechan/Revolved/master/screenshot.jpg'> 
+</div>
   </details>
 </details> 
 - screenshotter: Organize & manage screenshots [` App Store`](https://itunes.apple.com/app/screenshotter-organize-manage/id826596892)  
@@ -1903,6 +1907,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - Swifteroid: Manual HDR exposure camera  
 <details><summary>`swift` </summary>  https://github.com/eugenpirogoff/swifteroid<br>  Added June 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Swifteroid image 1' src='https://raw.githubusercontent.com/eugenpirogoff/swifteroid/master/images/IMG_2457.jpg'> <img height='300' alt='Swifteroid image 2' src='https://raw.githubusercontent.com/eugenpirogoff/swifteroid/master/images/IMG_2458.jpg'> 
+</div>
   </details>
 </details> 
 - SwiftSpace: Gyroscope driven drawing in 3D space  
@@ -1956,6 +1962,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - VoiceMemos: Audio recorder  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/MoZhouqi/VoiceMemos<br>  Added April  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='VoiceMemos image 1' src='https://raw.githubusercontent.com/MoZhouqi/VoiceMemos/master/Screenshots/recording.png'> 
+</div>
   </details>
 </details> 
 
@@ -2274,6 +2282,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - NirZhihuDaily2.0  
 <details><summary>`objc` 🇨🇳 🔥🔥🔥🔥</summary>  https://github.com/zpz1237/NirZhihuDaily2.0<br>  Added November  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='NirZhihuDaily2.0 image 1' src='https://github.com/zpz1237/NirZhihuDaily2.0/raw/master/effect1.gif'> 
+</div>
   </details>
 </details> 
 - Reddit  
@@ -2291,7 +2301,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - TabDump: TabDump news app  
-<details><summary>`objc` </summary>  https://github.com/dkhamsing/TabDump<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`afnetworking` </summary>  https://github.com/dkhamsing/TabDump<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='TabDump image 1' src='https://github.com/dkhamsing/TabDump/raw/master/assets/screenshots/screenshot.png'> 
+</div>
   </details>
 </details> 
 - Tenere News Reader: RSS app [` App Store`](https://itunes.apple.com/tr/app/tenere-news-reader/id987277462)  
@@ -2335,6 +2347,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Hackers  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/weiran/Hackers<br>  Added December 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Hackers image 1' src='https://camo.githubusercontent.com/c8ae11c347f57bbb6641ca131dc165f927e3b8c1/687474703a2f2f692e696d6775722e636f6d2f61677a7565744e2e706e67'> 
+</div>
   </details>
 </details> 
 - HN Reader: Hacker News Reader [` App Store`](https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741)  
@@ -2682,6 +2696,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - LVMC: Multicolumn ListView helper library for Titanium  
 <details><summary>`objc` </summary>  https://github.com/falkolab/LVMC-Demo-Alloy-App<br>  Added April  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='LVMC image 1' src='https://github.com/falkolab/LVMC/raw/master/screenshot.png?raw=true'> 
+</div>
   </details>
 </details> 
 - OpenShop.io: Ecommerce shopping app [` App Store`](https://itunes.apple.com/app/id1088689646)  
@@ -2692,6 +2708,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Polls: App for Polls API by Apiary  
 <details><summary>`swift` </summary>  https://github.com/apiaryio/polls-app<br>  Added June 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Polls image 1' src='https://github.com/apiaryio/polls-app/raw/master/Screenshot.png'> 
+</div>
   </details>
 </details> 
 - Protocol-Oriented MVVM Examples  
@@ -2722,6 +2740,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Starship: A generic Hyperdrive API client app  
 <details><summary>`swift` </summary>  https://github.com/kylef/Starship<br>  Added January 25, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+<div><img height='300' alt='Starship image 1' src='https://github.com/kylef/Starship/raw/master/Media/Screenshot.png'> 
+</div>
   </details>
 </details> 
 - StateRestorationDemo: State preservation & restoration APIs  
@@ -2820,8 +2840,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- ZeroStore: password storage without the storage  
+- ZeroStore: password storage without the storage [` App Store`](https://itunes.apple.com/app/zerostore-password-storage/id1037141587)  
 <details><summary>`objc` </summary>  https://github.com/kylebshr/zerostore-ios<br>  Added September  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='ZeroStore image 1' src='http://a4.mzstatic.com/us/r30/Purple69/v4/96/fb/0a/96fb0a2f-de8c-41a1-07e3-5be00ba1f2f8/screen696x696.jpeg'> <img height='300' alt='ZeroStore image 2' src='http://a2.mzstatic.com/us/r30/Purple3/v4/17/dc/16/17dc1676-f485-4fe9-e38a-7a095916393c/screen696x696.jpeg'> <img height='300' alt='ZeroStore image 3' src='http://a4.mzstatic.com/us/r30/Purple3/v4/21/8e/8c/218e8cb3-5fe4-f909-9761-ab2f1367b0a8/screen696x696.jpeg'> <img height='300' alt='ZeroStore image 4' src='http://a1.mzstatic.com/us/r30/Purple3/v4/0f/1d/02/0f1d0261-6f35-5e34-45e7-7603a7f2d098/screen696x696.jpeg'> <img height='300' alt='ZeroStore image 5' src='http://a5.mzstatic.com/us/r30/Purple6/v4/fd/8c/47/fd8c47fa-13ec-1cdb-65f5-8c936dfa7a12/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 
