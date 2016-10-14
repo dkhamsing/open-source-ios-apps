@@ -4486,6 +4486,14 @@
       "description": "password storage without the storage",
       "license": "mit",
       "source": "https://github.com/kylebshr/zerostore-ios",
+      "itunes": "https://itunes.apple.com/app/zerostore-password-storage/id1037141587",
+      "screenshots": [
+            "http://a4.mzstatic.com/us/r30/Purple69/v4/96/fb/0a/96fb0a2f-de8c-41a1-07e3-5be00ba1f2f8/screen696x696.jpeg",
+            "http://a2.mzstatic.com/us/r30/Purple3/v4/17/dc/16/17dc1676-f485-4fe9-e38a-7a095916393c/screen696x696.jpeg",
+            "http://a4.mzstatic.com/us/r30/Purple3/v4/21/8e/8c/218e8cb3-5fe4-f909-9761-ab2f1367b0a8/screen696x696.jpeg",
+            "http://a1.mzstatic.com/us/r30/Purple3/v4/0f/1d/02/0f1d0261-6f35-5e34-45e7-7603a7f2d098/screen696x696.jpeg",
+            "http://a5.mzstatic.com/us/r30/Purple6/v4/fd/8c/47/fd8c47fa-13ec-1cdb-65f5-8c936dfa7a12/screen696x696.jpeg"
+      ],
       "stars": 7,
       "date_added": "Tue Sep 8 20:45:01 2015 -0400",
       "suggested_by": "Kyle Bashour"
