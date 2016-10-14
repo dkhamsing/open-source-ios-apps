@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-560-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 13, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-561-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 14, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1752,6 +1752,12 @@ Click ► to show more details
 </details> 
 - Startups - Mapped In Israel: Discover new startups & locate co-working spaces  
 <details><summary>`objc` </summary>  https://github.com/sugarso/MappedInIsrael<br>  Added April  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- tpg offline: Navigate the Geneva public transport [` App Store`](https://itunes.apple.com/app/tpg-offline/id1001560047)  
+<details><summary>`swift` `carthage` `alamofire` `swiftyjson` `locationmanager` `swiftybeaver` `fontawesomekid` `permissionscope` 🇫🇷 </summary>  https://github.com/RemyDCF/tpg-offline<br>  Added October 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='tpg offline image 1' src='http://a1.mzstatic.com/us/r30/Purple18/v4/53/d9/61/53d961c4-8ee4-03ef-a297-4b81c1aa1a53/screen696x696.jpeg'> <img height='300' alt='tpg offline image 2' src='http://a1.mzstatic.com/us/r30/Purple60/v4/c5/16/fc/c516fc33-f75d-06eb-69fc-24354006a893/screen696x696.jpeg'> <img height='300' alt='tpg offline image 3' src='http://a2.mzstatic.com/us/r30/Purple18/v4/3f/b5/77/3fb57762-723d-fe11-b6c7-8b99a07fe021/screen696x696.jpeg'> <img height='300' alt='tpg offline image 4' src='http://a5.mzstatic.com/us/r30/Purple30/v4/73/9e/96/739e962c-5ef3-86e0-a445-454303da709f/screen696x696.jpeg'> <img height='300' alt='tpg offline image 5' src='http://a2.mzstatic.com/us/r30/Purple30/v4/7f/1e/e5/7f1ee5dc-0640-7b76-4969-f135894dc9d8/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - Traccar Client: Report device location to the server [` App Store`](https://itunes.apple.com/us/app/traccar-client/id843156974)  
