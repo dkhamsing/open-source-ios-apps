@@ -3754,6 +3754,9 @@
       "category-ids": [
         "news"
       ],
+      "tags": [
+        "afnetworking"
+      ],
       "description": "TabDump news app",
       "license": "mit",
       "source": "https://github.com/dkhamsing/TabDump",
