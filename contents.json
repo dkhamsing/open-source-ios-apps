@@ -3366,6 +3366,7 @@
       "tags": [
         "ipad"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/Ciechan/Revolved/master/screenshot.jpg"],
       "description": "3D modelling app",
       "license": "bsd-3-clause",
       "source": "https://github.com/Ciechan/Revolved",
@@ -3402,6 +3403,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://camo.githubusercontent.com/9ba7830d528cd45c20fc771b7347e8d2191a8cc6/68747470733a2f2f696a6f7368736d6974682e66696c65732e776f726470726573732e636f6d2f323031352f30342f61736369695f6b65726d69742e706e67"],
       "date_added": "Wed May 6 07:30:15 2015 -0700",
       "suggested_by": "@dkhamsing"
     },
@@ -3415,6 +3417,10 @@
       "source": "https://github.com/eugenpirogoff/swifteroid",
       "tags": [
         "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/eugenpirogoff/swifteroid/master/images/IMG_2457.jpg",
+        "https://raw.githubusercontent.com/eugenpirogoff/swifteroid/master/images/IMG_2458.jpg"
       ],
       "stars": 14,
       "date_added": "Wed Jun 10 21:26:38 2015 +0200",
@@ -3584,6 +3590,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/MoZhouqi/VoiceMemos/master/Screenshots/recording.png"],
       "description": "Audio recorder",
       "license": "mit",
       "source": "https://github.com/MoZhouqi/VoiceMemos",
@@ -3707,6 +3714,7 @@
       "category-ids": [
         "news"
       ],
+      "screenshots": ["https://github.com/zpz1237/NirZhihuDaily2.0/raw/master/effect1.gif"],
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/zpz1237/NirZhihuDaily2.0",
@@ -3754,6 +3762,7 @@
       "category-ids": [
         "news"
       ],
+      "screenshots": ["https://github.com/dkhamsing/TabDump/raw/master/assets/screenshots/screenshot.png"],
       "tags": [
         "afnetworking"
       ],
@@ -3870,6 +3879,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://camo.githubusercontent.com/c8ae11c347f57bbb6641ca131dc165f927e3b8c1/687474703a2f2f692e696d6775722e636f6d2f61677a7565744e2e706e67"],
       "license": "mit",
       "date_added": "Tue Dec 15 07:58:17 2015 -0800",
       "suggested_by": "@dkhamsing"
@@ -4249,6 +4259,7 @@
       "category-ids": [
         "sample"
       ],
+      "screenshots": ["https://github.com/falkolab/LVMC/raw/master/screenshot.png?raw=true"],
       "description": "Multicolumn ListView helper library for Titanium",
       "license": "mit",
       "source": "https://github.com/falkolab/LVMC-Demo-Alloy-App",
@@ -4287,6 +4298,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/apiaryio/polls-app/raw/master/Screenshot.png"],
       "stars": 20,
       "date_added": "Wed Jun 17 07:59:00 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -4353,6 +4365,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/kylef/Starship/raw/master/Media/Screenshot.png"],
       "stars": 22,
       "date_added": "Mon Jan 25 08:15:14 2016 -0800",
       "suggested_by": "@dkhamsing"
