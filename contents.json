@@ -4723,6 +4723,7 @@
         "swift",
         "dark sky api (forecast api)"
       ],
+      "screenshots": ["https://camo.githubusercontent.com/b961f69ba4ef05bbd2ec444277aa67f031d40d1e/687474703a2f2f692e67697068792e636f6d2f6d636d727333417277617745302e676966"],
       "stars": 40,
       "date_added": "Tue Jan 5 16:03:00 2016 +0000",
       "suggested_by": "Wojciech Rutkowski"
@@ -4739,6 +4740,7 @@
         "swift",
         "Typhoon"
       ],
+      "screenshots": ["https://camo.githubusercontent.com/c77785b3e9e4c5fe174593951c661d151b4727b1/687474703a2f2f747970686f6f6e6672616d65776f726b2e6f72672f696d616765732f706f7274666f6c696f2f506f636b6574466f726563617374332e676966"],
       "date_added": "Tue Mar 24 10:16:48 2015 -0700",
       "suggested_by": "@dkhamsing"
     },
@@ -4753,6 +4755,7 @@
         "swift",
         "dark sky api (forecast api)"
       ],
+      "screenshots": ["https://camo.githubusercontent.com/7ebcddf23366d36c0283af08a7032fc0f1cf5a6f/687474703a2f2f7331302e706f7374696d672e6f72672f7978793033336136682f50726f6a6563745f52616e5f4d61696e5f4261636b67726f756e642e706e67"],
       "license": "mit",
       "date_added": "Sun Apr 26 10:35:46 2015 +0800",
       "suggested_by": "Joker"
@@ -4784,6 +4787,7 @@
         "wunderground api",
         "openweathermap api"
       ],
+      "screenshots": ["https://github.com/liu044100/SmileWeather/raw/master/SmileWeather-Example/demo_gif/new_pro.jpg"],
       "license": "mit",
       "source": "https://github.com/liu044100/SmileWeather",
       "stars": 390,
@@ -4831,6 +4835,11 @@
       ],
       "tags": [
         "reactnative"
+      ],
+      "screenshots": [
+        "https://camo.githubusercontent.com/d8d6748920497b1f6da276dbe7af715fa8df8a6a/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e312e706e67",
+        "https://camo.githubusercontent.com/dd8f80345ddd2a2f17663d07e3f38259a8f36982/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e322e706e67",
+        "https://camo.githubusercontent.com/da5efecec43f93228bb766d70ff7a33ad09d2d17/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e332e706e67"
       ],
       "homepage": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp",
       "source": "https://github.com/jsphkhan/ReactNativeExamples",
@@ -4994,6 +5003,7 @@
       "category-ids": [
         "misc"
       ],
+      "screenshots": ["https://camo.githubusercontent.com/1e2b57cde873201b31fc2d7c051a4737e4041260/68747470733a2f2f35362e6d656469612e74756d626c722e636f6d2f63656566333361666136373866623132643664323537633735633163613136362f74756d626c725f6e35646431344f697948317162316c32756f315f3534302e6a7067"],
       "description": "Alternative Tumblr client",
       "source": "https://github.com/irace/BlogQuest",
       "stars": 9,
@@ -5011,6 +5021,10 @@
       "tags": [
         "swift",
         "alamofire"
+      ],
+      "screenshots": [
+        "https://github.com/MatheusCavalca/RenovaLivrosUFRGS/raw/master/RenovaLivrosUFRGS/Images.xcassets/login_scren.imageset/login_scren.png",
+        "https://github.com/MatheusCavalca/RenovaLivrosUFRGS/raw/master/RenovaLivrosUFRGS/Images.xcassets/book_list_screen.imageset/book_list_screen.png"
       ],
       "lang": "por",
       "stars": 3,
@@ -6444,6 +6458,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/JakeLin/ReactNativeWeather/master/screenshots/screenshot-iOS.png"],
       "license": "mit",
       "source": "https://github.com/JakeLin/ReactNativeWeather",
       "stars": 16,
