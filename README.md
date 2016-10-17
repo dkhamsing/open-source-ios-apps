@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-561-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 14, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-562-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 17, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1646,6 +1646,12 @@ Click ► to show more details
 <details><summary>`objc` </summary>  https://github.com/GeoTappy/GeoTappy-iOS<br>  Added April 14, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 </details> 
+- Grove: Crowd-sourced hammock locations  
+<details><summary>`swift` `alamofire` `realm` `swiftybeaver` `kingfisher` `asyncswift` </summary>  https://github.com/kylebshr/grove-ios<br>  Added October 17, 2016<br>  License: `other`
+<div><img height='300' alt='Grove image 1' src='https://github.com/kylebshr/grove-ios/blob/master/External%20Assets/Original%20Screenshots/Screenshot%201.png?raw=true'> 
+</div>
+  </details>
+</details> 
 - HopperBus: Timetable for the University of Nottingham Hopper Bus  
 <details><summary>`swift` </summary>  https://github.com/TosinAF/HopperBus-iOS<br>  Added January 22, 2016<br>  License: `other`
 <div><img height='300' alt='HopperBus image 1' src='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RouteView.png'> <img height='300' alt='HopperBus image 2' src='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RealTimeView.png'> <img height='300' alt='HopperBus image 3' src='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RouteTimesView.png'> <img height='300' alt='HopperBus image 4' src='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/MapView.png'> 
@@ -3058,18 +3064,26 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 - Lucid Weather Clock: Precipitation clock  
 <details><summary>`swift` `dark sky api (forecast api)` </summary>  https://github.com/wrutkowski/Lucid-Weather-Clock<br>  Added January  5, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Lucid Weather Clock image 1' src='https://camo.githubusercontent.com/b961f69ba4ef05bbd2ec444277aa67f031d40d1e/687474703a2f2f692e67697068792e636f6d2f6d636d727333417277617745302e676966'> 
+</div>
   </details>
 </details> 
 - Pocket Forecast  
 <details><summary>`swift` `typhoon` 🔥🔥</summary>  https://github.com/appsquickly/Typhoon-Swift-Example<br>  Added March 24, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='Pocket Forecast image 1' src='https://camo.githubusercontent.com/c77785b3e9e4c5fe174593951c661d151b4727b1/687474703a2f2f747970686f6f6e6672616d65776f726b2e6f72672f696d616765732f706f7274666f6c696f2f506f636b6574466f726563617374332e676966'> 
+</div>
   </details>
 </details> 
 - RainMan  
 <details><summary>`swift` `dark sky api (forecast api)` 🔥🔥🔥</summary>  https://github.com/Mav3r1ck/Project-RainMan<br>  Added April 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='RainMan image 1' src='https://camo.githubusercontent.com/7ebcddf23366d36c0283af08a7032fc0f1cf5a6f/687474703a2f2f7331302e706f7374696d672e6f72672f7978793033336136682f50726f6a6563745f52616e5f4d61696e5f4261636b67726f756e642e706e67'> 
+</div>
   </details>
 </details> 
 - SmileWeather  
 <details><summary>`wunderground api` `openweathermap api` 🔥🔥</summary>  https://github.com/liu044100/SmileWeather<br>  Added August 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='SmileWeather image 1' src='https://github.com/liu044100/SmileWeather/raw/master/SmileWeather-Example/demo_gif/new_pro.jpg'> 
+</div>
   </details>
 </details> 
 - Sol  
@@ -3107,10 +3121,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 - BlogQuest: Alternative Tumblr client  
 <details><summary>`objc` </summary>  https://github.com/irace/BlogQuest<br>  Added March 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='BlogQuest image 1' src='https://camo.githubusercontent.com/1e2b57cde873201b31fc2d7c051a4737e4041260/68747470733a2f2f35362e6d656469612e74756d626c722e636f6d2f63656566333361666136373866623132643664323537633735633163613136362f74756d626c725f6e35646431344f697948317162316c32756f315f3534302e6a7067'> 
+</div>
   </details>
 </details> 
 - Borrowed Books UFGRS: Manage ufrgs.br library books  
 <details><summary>`swift` `alamofire` 🇵🇹 </summary>  https://github.com/MatheusCavalca/RenovaLivrosUFRGS<br>  Added March 20, 2016<br>  License: `other`
+<div><img height='300' alt='Borrowed Books UFGRS image 1' src='https://github.com/MatheusCavalca/RenovaLivrosUFRGS/raw/master/RenovaLivrosUFRGS/Images.xcassets/login_scren.imageset/login_scren.png'> <img height='300' alt='Borrowed Books UFGRS image 2' src='https://github.com/MatheusCavalca/RenovaLivrosUFRGS/raw/master/RenovaLivrosUFRGS/Images.xcassets/book_list_screen.imageset/book_list_screen.png'> 
+</div>
   </details>
 </details> 
 - CardDecks: Configurable card decks  
@@ -3546,10 +3564,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Weather by JakeLin  
 <details><summary>`reactnative` </summary>  https://github.com/JakeLin/ReactNativeWeather<br>  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Weather by JakeLin image 1' src='https://raw.githubusercontent.com/JakeLin/ReactNativeWeather/master/screenshots/screenshot-iOS.png'> 
+</div>
   </details>
 </details> 
 - Weather by jsphkhan  
 <details><summary>`reactnative` </summary>  https://github.com/jsphkhan/ReactNativeExamples<br>  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp<br>  Added May  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Weather by jsphkhan image 1' src='https://camo.githubusercontent.com/d8d6748920497b1f6da276dbe7af715fa8df8a6a/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e312e706e67'> <img height='300' alt='Weather by jsphkhan image 2' src='https://camo.githubusercontent.com/dd8f80345ddd2a2f17663d07e3f38259a8f36982/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e322e706e67'> <img height='300' alt='Weather by jsphkhan image 3' src='https://camo.githubusercontent.com/da5efecec43f93228bb766d70ff7a33ad09d2d17/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e332e706e67'> 
+</div>
   </details>
 </details> 
 
