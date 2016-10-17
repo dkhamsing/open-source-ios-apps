@@ -9825,6 +9825,17 @@
       "license": "mit",
       "date_added": "Oct 14 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Grove",
+      "description": "Crowd-sourced hammock locations",
+      "category-ids": ["location"],
+      "source": "https://github.com/kylebshr/grove-ios",
+      "tags": ["swift", "alamofire", "realm", "swiftybeaver", "kingfisher", "asyncswift"],
+      "screenshots": ["https://github.com/kylebshr/grove-ios/blob/master/External%20Assets/Original%20Screenshots/Screenshot%201.png?raw=true"],
+      "license": "other",
+      "date_added": "Oct 17 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
