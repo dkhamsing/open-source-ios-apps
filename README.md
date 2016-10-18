@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-562-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 17, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-562-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 18, 2016-lightgrey.svg)
 
 Jump to
 
@@ -444,6 +444,8 @@ Click ► to show more details
  
 - Malendar: A redesigned calendar  
 <details><summary>`swift` 🔥</summary>  https://github.com/croossin/Malendar<br>  Added October 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Malendar image 1' src='https://github.com/croossin/Malendar/raw/master/Images/MalendarStockPhoto.png'> 
+</div>
   </details>
 </details> 
 - Workdays: Simple calendar with operating schedule [` App Store`](https://itunes.apple.com/app/workdays-calendar/id889712978)  
@@ -1525,6 +1527,8 @@ Click ► to show more details
 </details> 
 - Theseus: Personal analytics app  
 <details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/lazerwalker/Theseus<br>  Added April  1, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='Theseus image 1' src='https://camo.githubusercontent.com/2ef42bc612a20f63b00bc15c05ef69bd74223cc8/68747470733a2f2f7261772e6769746875622e636f6d2f6c617a657277616c6b65722f546865736575732f6d61737465722f526561646d65496d616765732f74726970747963682e706e67'> 
+</div>
   </details>
 </details> 
 
@@ -1819,6 +1823,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - EmotionNote Diary: Choose or take a photo of your face & the app will tell you your emotion  
 <details><summary>`swift` </summary>  https://github.com/Yogayu/EmotionNote<br>  Added April 19, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='EmotionNote Diary image 1' src='https://github.com/Yogayu/EmotionNote/raw/master/imgs/Desktop%20HD.png'> 
+</div>
   </details>
 </details> 
 - Facemotion: Find a contact by face recognition  
@@ -2019,6 +2025,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - ChineseZodiac  
 <details><summary>`swift` 🔥</summary>  https://github.com/JakeLin/ChineseZodiac<br>  Added May 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='ChineseZodiac image 1' src='https://raw.githubusercontent.com/JakeLin/ChineseZodiac/master/Screenshots/ChineseZodiac-horse-33.png'> 
+</div>
   </details>
 </details> 
 - Dunk: Dribbble client [` App Store`](https://itunes.apple.com/app/dunk-for-dribbble/id1003028105)  
@@ -2083,6 +2091,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - OpenCB: Interactive chess book reader  
 <details><summary>`objc` </summary>  https://github.com/student-t/OpenCB<br>  Added May  8, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='OpenCB image 1' src='https://camo.githubusercontent.com/0b163a92148e0b6a2e1bcf1154291b86cd716773/687474703a2f2f61312e6d7a7374617469632e636f6d2f75732f7233302f507572706c65352f76342f32662f32642f35342f32663264353464622d396161652d646462612d363037612d6136653261613235363762372f73637265656e333232783537322e6a706567'> 
+</div>
   </details>
 </details> 
 - OpenPics: View historical images from multiple remote sources [` App Store`](https://itunes.apple.com/app/openpics/id633423505)  
@@ -3137,10 +3147,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Colo: Color themes hunter  
 <details><summary>`objc` </summary>  https://github.com/wongzigii/Colo<br>  Added March 16, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='Colo image 1' src='https://github.com/wongzigii/Colo/raw/master/Assets/screenshot1.png'> 
+</div>
   </details>
 </details> 
 - DeckRocket: Remote app for Deckset presentations  
 <details><summary>`swift` `iphone` 🔥🔥</summary>  https://github.com/jpsim/DeckRocket<br>  Added March 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='DeckRocket image 1' src='https://github.com/jpsim/DeckRocket/raw/master/demo.gif'> 
+</div>
   </details>
 </details> 
 - FreeRDP: An implementation of the Remote Desktop Protocol (RDP)  
@@ -3205,6 +3219,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Phonetic: Add phonetic keys for Chinese names  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/iAugux/Phonetic<br>  Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Phonetic image 1' src='https://raw.githubusercontent.com/iAugux/ProjectScreenshots/master/Phonetic/nickname.gif'> 
+</div>
   </details>
 </details> 
 - Seafile Pro: App for Seafile self-hosted file sharing [` App Store`](https://itunes.apple.com/app/id639202512)  
@@ -3225,6 +3241,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - TheReservist: Check availability of iPhones  
 <details><summary>`swift` </summary>  https://github.com/kimar/TheReservist<br>  Added April  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='TheReservist image 1' src='https://github.com/kimar/TheReservist/raw/master/Assets/marketing1.png'> <img height='300' alt='TheReservist image 2' src='https://github.com/kimar/TheReservist/raw/master/Assets/marketing2.png'> 
+</div>
   </details>
 </details> 
 - Vinylogue: Simple Last.fm app [` App Store`](https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119)  
