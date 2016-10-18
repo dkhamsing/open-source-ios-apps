@@ -5055,6 +5055,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/JakeLin/ChineseZodiac/master/Screenshots/ChineseZodiac-horse-33.png"],
       "date_added": "Mon May 11 07:18:33 2015 -0700",
       "suggested_by": "@dkhamsing"
     },
@@ -5066,6 +5067,7 @@
       "description": "Color themes hunter",
       "license": "apache-2.0",
       "source": "https://github.com/wongzigii/Colo",
+      "screenshots": ["https://github.com/wongzigii/Colo/raw/master/Assets/screenshot1.png"],
       "stars": 19,
       "date_added": "Mon Mar 16 07:28:42 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -5083,6 +5085,7 @@
         "swift",
         "iphone"
       ],
+      "screenshots": ["https://github.com/jpsim/DeckRocket/raw/master/demo.gif"],
       "date_added": "Thu Mar 26 08:48:53 2015 -0700",
       "suggested_by": "@dkhamsing"
     },
@@ -5097,6 +5100,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/Yogayu/EmotionNote/raw/master/imgs/Desktop%20HD.png"],
       "stars": 12,
       "date_added": "Tue Apr 19 07:51:53 2016 -0700",
       "suggested_by": "@dkhamsing"
@@ -5319,6 +5323,7 @@
       "description": "Interactive chess book reader",
       "license": "gpl-2.0",
       "source": "https://github.com/student-t/OpenCB",
+      "screenshots": ["https://camo.githubusercontent.com/0b163a92148e0b6a2e1bcf1154291b86cd716773/687474703a2f2f61312e6d7a7374617469632e636f6d2f75732f7233302f507572706c65352f76342f32662f32642f35342f32663264353464622d396161652d646462612d363037612d6136653261613235363762372f73637265656e333232783537322e6a706567"],
       "stars": 5,
       "date_added": "Fri May 8 07:16:21 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -5383,6 +5388,7 @@
       "description": "Add phonetic keys for Chinese names",
       "license": "mit",
       "source": "https://github.com/iAugux/Phonetic",
+      "screenshots": ["https://raw.githubusercontent.com/iAugux/ProjectScreenshots/master/Phonetic/nickname.gif"],
       "stars": 475,
       "date_added": "Sat Feb 27 06:13:06 2016 -0800",
       "suggested_by": "@dkhamsing"
@@ -5484,6 +5490,7 @@
       "description": "Personal analytics app",
       "license": "gpl-2.0",
       "source": "https://github.com/lazerwalker/Theseus",
+      "screenshots": ["https://camo.githubusercontent.com/2ef42bc612a20f63b00bc15c05ef69bd74223cc8/68747470733a2f2f7261772e6769746875622e636f6d2f6c617a657277616c6b65722f546865736575732f6d61737465722f526561646d65496d616765732f74726970747963682e706e67"],
       "stars": 686,
       "date_added": "Wed, 1 Apr 2015 09:30:22 -0400",
       "suggested_by": "@jeffreyjackson"
@@ -5497,6 +5504,10 @@
       "source": "https://github.com/kimar/TheReservist",
       "tags": [
         "swift"
+      ],
+      "screenshots": [
+        "https://github.com/kimar/TheReservist/raw/master/Assets/marketing1.png",
+        "https://github.com/kimar/TheReservist/raw/master/Assets/marketing2.png"
       ],
       "stars": 4,
       "license": "mit",
@@ -5665,6 +5676,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/croossin/Malendar/raw/master/Images/MalendarStockPhoto.png"],
       "stars": 121,
       "license": "mit",
       "date_added": "Fri Oct 30 09:40:56 2015 -0500",
