@@ -2524,13 +2524,16 @@
     {
       "title": "Link Keyboard : My Links Everywhere",
       "category-ids": [
-        "keyboard",
-        "extension"
+        "keyboard"
       ],
-      "description": "App to put all your links in one place and make them accessible via a keyboard.",
+      "tags": [
+        "swift"
+      ],
+      "description": "Put all your links in one place and make them accessible via a keyboard.",
       "source": "https://github.com/ayushgoel/LinkKeyboard",
-      "itunes": "https://itunes.apple.com/in/app/link-keyboard-my-links-everywhere/id1098798450",
-      "license": "MIT",
+      "itunes": "https://itunes.apple.com/app/link-keyboard-my-links-everywhere/id1098798450",
+      "license": "mit",
+      "date_added": "Thursday, 20 October 2016",
       "suggested_by": "@ayushgoel"
     },
     {
