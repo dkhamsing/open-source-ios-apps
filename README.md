@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-562-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 18, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-563-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 20, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1597,6 +1597,10 @@ Click ► to show more details
 <details><summary>`swift` 🔥</summary>  https://github.com/jonomuller/Hodor-Keyboard<br>  Added December 26, 2015<br>  License: `other`
 <div><img height='300' alt='Hodor image 1' src='https://raw.githubusercontent.com/jonomuller/Hodor-Keyboard/master/IMG_2168.PNG'> 
 </div>
+  </details>
+</details> 
+- Link Keyboard : My Links Everywhere: Put all your links in one place and make them accessible via a keyboard. [` App Store`](https://itunes.apple.com/app/link-keyboard-my-links-everywhere/id1098798450)  
+<details><summary>`swift` </summary>  https://github.com/ayushgoel/LinkKeyboard<br>  Added October 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - NaughtyKeyboard: Keyboard that supports The Big List of Naughty Strings  
