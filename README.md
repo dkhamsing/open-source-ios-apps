@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-563-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 20, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-563-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 21, 2016-lightgrey.svg)
 
 Jump to
 
@@ -120,6 +120,8 @@ Click ► to show more details
 </details> 
 - RailsCasts: Ruby on Rails screencasts from http://railscasts.com/  
 <details><summary>`objc` </summary>  https://github.com/spritlesoftware/railscasts-on-appletv<br>  Added May 12, 2016<br>  License: `other`
+<div><img height='300' alt='RailsCasts image 1' src='https://raw.githubusercontent.com/spritlesoftware/railscasts-on-appletv/master/TVOSExample/image/apple-tv-railscast.png'> 
+</div>
   </details>
 </details> 
 - Telemat-tvOS: Watch Public German Broadcast/TV company streams  
@@ -465,6 +467,8 @@ Click ► to show more details
 </details> 
 - HausClock: Minimal chess clock  
 <details><summary>`swift` </summary>  https://github.com/nottombrown/HausClock<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='HausClock image 1' src='https://camo.githubusercontent.com/825961b385ec6545c9544c6e8d30870d7f86ebf9/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f32363035312f73637265656e73686f74732f313633333939382f6d6f636b75702e706e67'> 
+</div>
   </details>
 </details> 
 - Natural Language Clock: Display the time as you would speak it  
@@ -514,6 +518,8 @@ Click ► to show more details
 </details> 
 - Paws: Instagram clone  
 <details><summary>`swift` </summary>  http://www.appcoda.com/instagram-app-parse-swift/<br>  Added April 17, 2015<br>  License: `other`
+<div><img height='300' alt='Paws image 1' src='http://www.appcoda.com/wp-content/uploads/2015/04/paws-demo-animation.png'> 
+</div>
   </details>
 </details> 
 - SwiftSnake: Snake clone  
@@ -581,6 +587,8 @@ Click ► to show more details
 </details> 
 - Chaty: Anonymous messaging with real time data sync  
 <details><summary>`firebase` `websocket` `nosql` 🔥🔥</summary>  https://github.com/LunarFlash/Chaty<br>  Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Chaty image 1' src='https://github.com/LunarFlash/Chaty/raw/master/ChatChat/screen1.png'> 
+</div>
   </details>
 </details> 
 - Colloquy: IRC client  
@@ -791,6 +799,8 @@ Click ► to show more details
 </details> 
 - RealmVideo: Watch Realm videos & slides  
 <details><summary>`swift` `iphone` 🔥🔥</summary>  https://github.com/BalestraPatrick/RealmVideo<br>  Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='RealmVideo image 1' src='https://github.com/BalestraPatrick/RealmVideo/raw/master/Resources/demo.gif'> 
+</div>
   </details>
 </details> 
 - Review Time: Shows average review times for iOS & Mac apps  
@@ -1370,6 +1380,8 @@ Click ► to show more details
 </details> 
 - SaveTheDot: Escape from the squares  
 <details><summary>`uiviewpropertyanimator` 🔥🔥🔥</summary>  https://github.com/JakeLin/SaveTheDot<br>  Added June 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='SaveTheDot image 1' src='https://cloud.githubusercontent.com/assets/573856/16248754/90150c2a-3854-11e6-9ee1-c2e4f228a9b6.gif'> 
+</div>
   </details>
 </details> 
 - SceneKitFrogger  
@@ -1505,6 +1517,8 @@ Click ► to show more details
 </details> 
 - RaceMe: Run tracking & ghosting  
 <details><summary>`swift` `parse` 🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
+<div><img height='300' alt='RaceMe image 1' src='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'> 
+</div>
   </details>
 </details> 
 - rTracker: A generic, customizable personal data tracker [` App Store`](https://itunes.apple.com/app/rtracker-track-it-all-your-way/id486541371)  
@@ -1601,6 +1615,8 @@ Click ► to show more details
 </details> 
 - Link Keyboard : My Links Everywhere: Put all your links in one place and make them accessible via a keyboard. [` App Store`](https://itunes.apple.com/app/link-keyboard-my-links-everywhere/id1098798450)  
 <details><summary>`swift` </summary>  https://github.com/ayushgoel/LinkKeyboard<br>  Added October 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Link Keyboard : My Links Everywhere image 1' src='http://a2.mzstatic.com/us/r30/Purple60/v4/d3/4a/5d/d34a5d0e-45f0-6605-aca6-0b86c169f6a8/screen696x696.jpeg'> <img height='300' alt='Link Keyboard : My Links Everywhere image 2' src='http://a3.mzstatic.com/us/r30/Purple30/v4/56/d8/5d/56d85d95-eafa-f347-31b5-0c4b0a17bcc9/screen696x696.jpeg'> <img height='300' alt='Link Keyboard : My Links Everywhere image 3' src='http://a5.mzstatic.com/us/r30/Purple30/v4/70/59/11/705911ee-338a-4154-6074-62c8ba5998ac/screen696x696.jpeg'> <img height='300' alt='Link Keyboard : My Links Everywhere image 4' src='http://a3.mzstatic.com/us/r30/Purple20/v4/23/d1/bb/23d1bb47-6aac-a6e5-4575-e8639d188af7/screen696x696.jpeg'> <img height='300' alt='Link Keyboard : My Links Everywhere image 5' src='http://a5.mzstatic.com/us/r30/Purple30/v4/e3/b3/98/e3b398e1-da5e-404a-067e-613a625abe1a/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - NaughtyKeyboard: Keyboard that supports The Big List of Naughty Strings  
@@ -2155,6 +2171,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - RealmVideo: Watch Realm videos & slides  
 <details><summary>`swift` `iphone` 🔥🔥</summary>  https://github.com/BalestraPatrick/RealmVideo<br>  Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='RealmVideo image 1' src='https://github.com/BalestraPatrick/RealmVideo/raw/master/Resources/demo.gif'> 
+</div>
   </details>
 </details> 
 - Rewatch: Get suggestions for your BetaSeries account on what episode to rewatch [` App Store`](https://itunes.apple.com/app/rewatch-get-suggestion-rewatch/id1054419288)  
@@ -2318,6 +2336,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - SwiftBlog: Read the official Apple Swift Blog via RSS  
 <details><summary>`swift` </summary>  https://github.com/BalestraPatrick/SwiftBlog<br>  Added June 21, 2016<br>  License: `other`
+<div><img height='300' alt='SwiftBlog image 1' src='https://github.com/BalestraPatrick/SwiftBlog/raw/master/Screenshot.png'> 
+</div>
   </details>
 </details> 
 - TabDump: TabDump news app  
@@ -2536,6 +2556,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - BrewMobile: App for managing the beer brewing process  
 <details><summary>`swift` 🔥</summary>  https://github.com/brewfactory/BrewMobile<br>  Added September 10, 2015<br>  License: `other`
+<div><img height='300' alt='BrewMobile image 1' src='https://camo.githubusercontent.com/edffaf12ff2fcc5e3e2b85539c6ab372fdfd41a7/687474703a2f2f62726577666163746f72792e6f72672f427265774d6f62696c652f696d672f395f736d616c6c2e706e67'> 
+</div>
   </details>
 </details> 
 - C-41: Simple timer to make developing film easier & more reliable  
@@ -2568,6 +2590,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - HausClock: Minimal chess clock  
 <details><summary>`swift` </summary>  https://github.com/nottombrown/HausClock<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='HausClock image 1' src='https://camo.githubusercontent.com/825961b385ec6545c9544c6e8d30870d7f86ebf9/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f32363035312f73637265656e73686f74732f313633333939382f6d6f636b75702e706e67'> 
+</div>
   </details>
 </details> 
 - ReactiveHackerNews: Hacker News reader with Tinder style interface [` App Store`](https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368)  
@@ -2621,6 +2645,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Kiosk: Artsy auction app  
 <details><summary>`swift` `rxswift` 🔥🔥🔥🔥</summary>  https://github.com/artsy/eidolon<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Kiosk image 1' src='http://artsy.github.io/images/2014-11-12-eidolon-retrospective/listings.png'> 
+</div>
   </details>
 </details> 
 - RxMarbles: Interactive diagrams of Rx Observables [` App Store`](https://itunes.apple.com/us/app/rxmarbles/id1087272442)  
@@ -3032,8 +3058,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- TrackMyTime  
+- TrackMyTime [` App Store`](https://itunes.apple.com/app/trackmyday/id789386884)  
 <details><summary>`objc` </summary>  https://github.com/EvgenyKarkan/TrackMyTime<br>  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='TrackMyTime image 1' src='http://a4.mzstatic.com/us/r30/Purple6/v4/f9/75/47/f9754726-07fd-1f7b-cda9-6f7135c45695/screen696x696.jpeg'> <img height='300' alt='TrackMyTime image 2' src='http://a1.mzstatic.com/us/r30/Purple4/v4/e5/5c/48/e55c4806-441f-a36e-75d6-0537445b380d/screen696x696.jpeg'> <img height='300' alt='TrackMyTime image 3' src='http://a5.mzstatic.com/us/r30/Purple/v4/bd/b6/a9/bdb6a9f5-fb3d-2a79-7cf4-9959267684b9/screen696x696.jpeg'> <img height='300' alt='TrackMyTime image 4' src='http://a5.mzstatic.com/us/r30/Purple6/v4/6f/48/03/6f4803c4-b260-474f-38f6-5d2f9c9cf344/screen696x696.jpeg'> <img height='300' alt='TrackMyTime image 5' src='http://a2.mzstatic.com/us/r30/Purple6/v4/46/0e/fb/460efb66-a2bc-dc45-832c-1429fa12ed91/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 
@@ -3069,6 +3097,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Themoji: Use Emojis to communicate while traveling  
 <details><summary>`objc` </summary>  https://github.com/themoji/ios<br>  https://themoji.me/<br>  Added July 12, 2016<br>  License: `other`
+<div><img height='300' alt='Themoji image 1' src='https://themoji.me/ThemojiIdea.jpg'> <img height='300' alt='Themoji image 2' src='http://media.148apps.com/screenshots/1086378368/us-ipad-1-themoji-express-yourself-with-emojis.jpeg'> <img height='300' alt='Themoji image 3' src='http://media.148apps.com/screenshots/1086378368/us-iphone-3-themoji-express-yourself-with-emojis.jpeg'> 
+</div>
   </details>
 </details> 
 
@@ -3319,6 +3349,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Chaty: Anonymous messaging with real time data sync  
 <details><summary>`firebase` `websocket` `nosql` 🔥🔥</summary>  https://github.com/LunarFlash/Chaty<br>  Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Chaty image 1' src='https://github.com/LunarFlash/Chaty/raw/master/ChatChat/screen1.png'> 
+</div>
   </details>
 </details> 
 - Hacker News Client [` App Store`](https://itunes.apple.com/app/hacker-news-client/id939454231)  
@@ -3335,6 +3367,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - how-much: Simple app to record how much things cost  
 <details><summary>`parse` `firebase` </summary>  https://github.com/dkhamsing/how-much<br>  Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='how-much image 1' src='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'> 
+</div>
   </details>
 </details> 
 
@@ -3389,6 +3423,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - how-much: Simple app to record how much things cost  
 <details><summary>`parse` `firebase` </summary>  https://github.com/dkhamsing/how-much<br>  Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='how-much image 1' src='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'> 
+</div>
   </details>
 </details> 
 - iBeaconTasks: iBeacon to-do reminders  
@@ -3415,10 +3451,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Paws: Instagram clone  
 <details><summary>`swift` </summary>  http://www.appcoda.com/instagram-app-parse-swift/<br>  Added April 17, 2015<br>  License: `other`
+<div><img height='300' alt='Paws image 1' src='http://www.appcoda.com/wp-content/uploads/2015/04/paws-demo-animation.png'> 
+</div>
   </details>
 </details> 
 - RaceMe: Run tracking & ghosting  
 <details><summary>`swift` `parse` 🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
+<div><img height='300' alt='RaceMe image 1' src='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'> 
+</div>
   </details>
 </details> 
 - Wizard War: Cast spells in single or multiplayer wizard duels  
@@ -3458,10 +3498,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Den: View houses for sale in the Northwest  
 <details><summary>`reactnative` 🔥🔥</summary>  https://github.com/asamiller/den<br>  Added May 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Den image 1' src='https://cloud.githubusercontent.com/assets/5133623/7338978/01976cce-ec13-11e4-9b79-f2e2e47503b6.jpg'> 
+</div>
   </details>
 </details> 
 - Dribbble  
 <details><summary>`reactnative` 🔥🔥🔥🔥</summary>  https://github.com/catalinmiron/react-native-dribbble-app<br>  Added June 13, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Dribbble image 1' src='https://cloud.githubusercontent.com/assets/2805320/8113463/db61b072-1076-11e5-8aa2-52417f019ea0.jpg'> 
+</div>
   </details>
 </details> 
 - F8 2016: Official F8 app  
@@ -3480,6 +3524,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Foreign Exchange  
 <details><summary>`reactnative` </summary>  https://github.com/peralmq/ForeignExchangeApp<br>  Added July 24, 2015<br>  License: `other`
+<div><img height='300' alt='Foreign Exchange image 1' src='https://cloud.githubusercontent.com/assets/238536/7063949/469613cc-deab-11e4-9d67-c727bcc0171b.png'> 
+</div>
   </details>
 </details> 
 - Hacker News app by iSimar [` App Store`](https://itunes.apple.com/app/hacker-news-reader-react-native/id1067161633)  
@@ -3494,6 +3540,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Iceland Earthquakes  
 <details><summary>`reactnative` </summary>  https://github.com/paranoida/IcelandEarthquakes<br>  Added May  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Iceland Earthquakes image 1' src='https://raw.githubusercontent.com/paranoida/IcelandEarthquakes/master/preview.png'> 
+</div>
   </details>
 </details> 
 - iTunes Catalog Search  
@@ -3510,6 +3558,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - NBA allyoop: NBA game scores  
 <details><summary>`reactnative` 🔥🔥🔥</summary>  https://github.com/wwayne/react-native-nba-app<br>  Added January  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='NBA allyoop image 1' src='https://cloud.githubusercontent.com/assets/5305874/12059257/dacf1ad0-af92-11e5-920c-ba4818d8dc1d.png'> 
+</div>
   </details>
 </details> 
 - NBAreact: NBA stats & standings  
@@ -3518,6 +3568,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - newswatch: News app based on YouTube playlists  
 <details><summary>`reactnative` </summary>  https://github.com/bradoyler/newswatch-react-native<br>  Added May 15, 2015<br>  License: `other`
+<div><img height='300' alt='newswatch image 1' src='https://cloud.githubusercontent.com/assets/425966/7039857/2f122810-dd95-11e4-99c4-db636d4c66a9.gif'> 
+</div>
   </details>
 </details> 
 - Nortal TechDay 2015  
@@ -3526,6 +3578,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - PocketNode: Lightweight Node REPL  
 <details><summary>`reactnative` </summary>  https://github.com/mzabriskie/PocketNode<br>  Added February  4, 2016<br>  License: `other`
+<div><img height='300' alt='PocketNode image 1' src='https://cloud.githubusercontent.com/assets/199035/10439739/49d80e60-70f9-11e5-94b1-16e06eeb3a8f.png'> 
+</div>
   </details>
 </details> 
 - pokemon-map: Locate Pokemon around you  
@@ -3554,6 +3608,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Songkick  
 <details><summary>`reactnative` </summary>  https://github.com/ArnaudRinquin/sk-react-native<br>  Added October 27, 2015<br>  License: `other`
+<div><img height='300' alt='Songkick image 1' src='https://github.com/ArnaudRinquin/sk-react-native/raw/master/screenshots.png'> 
+</div>
   </details>
 </details> 
 - Spacepics: A small app displaying NASA's Picture of the Day  
@@ -3615,6 +3671,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - RaceMe: Run tracking & ghosting  
 <details><summary>`swift` `parse` 🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
+<div><img height='300' alt='RaceMe image 1' src='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'> 
+</div>
   </details>
 </details> 
 - RealmToDo: A small to-do list with Realm integration  
