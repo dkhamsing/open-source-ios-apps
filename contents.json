@@ -2532,6 +2532,13 @@
       "description": "Put all your links in one place and make them accessible via a keyboard.",
       "source": "https://github.com/ayushgoel/LinkKeyboard",
       "itunes": "https://itunes.apple.com/app/link-keyboard-my-links-everywhere/id1098798450",
+      "screenshots": [
+         "http://a2.mzstatic.com/us/r30/Purple60/v4/d3/4a/5d/d34a5d0e-45f0-6605-aca6-0b86c169f6a8/screen696x696.jpeg",
+         "http://a3.mzstatic.com/us/r30/Purple30/v4/56/d8/5d/56d85d95-eafa-f347-31b5-0c4b0a17bcc9/screen696x696.jpeg",
+         "http://a5.mzstatic.com/us/r30/Purple30/v4/70/59/11/705911ee-338a-4154-6074-62c8ba5998ac/screen696x696.jpeg",
+         "http://a3.mzstatic.com/us/r30/Purple20/v4/23/d1/bb/23d1bb47-6aac-a6e5-4575-e8639d188af7/screen696x696.jpeg",
+         "http://a5.mzstatic.com/us/r30/Purple30/v4/e3/b3/98/e3b398e1-da5e-404a-067e-613a625abe1a/screen696x696.jpeg"
+      ],
       "license": "mit",
       "date_added": "Thursday, 20 October 2016",
       "suggested_by": "@ayushgoel"
@@ -5813,6 +5820,13 @@
       ],
       "license": "mit",
       "source": "https://github.com/EvgenyKarkan/TrackMyTime",
+      "screenshots": [
+        "http://a4.mzstatic.com/us/r30/Purple6/v4/f9/75/47/f9754726-07fd-1f7b-cda9-6f7135c45695/screen696x696.jpeg",
+        "http://a1.mzstatic.com/us/r30/Purple4/v4/e5/5c/48/e55c4806-441f-a36e-75d6-0537445b380d/screen696x696.jpeg",
+        "http://a5.mzstatic.com/us/r30/Purple/v4/bd/b6/a9/bdb6a9f5-fb3d-2a79-7cf4-9959267684b9/screen696x696.jpeg",
+        "http://a5.mzstatic.com/us/r30/Purple6/v4/6f/48/03/6f4803c4-b260-474f-38f6-5d2f9c9cf344/screen696x696.jpeg",
+        "http://a2.mzstatic.com/us/r30/Purple6/v4/46/0e/fb/460efb66-a2bc-dc45-832c-1429fa12ed91/screen696x696.jpeg"
+      ],
       "stars": 17,
       "date_added": "Tue May 3 06:41:28 2016 -0700",
       "suggested_by": "@dkhamsing"
@@ -5977,6 +5991,7 @@
       "license": "mit",
       "description": "Simple app to record how much things cost",
       "source": "https://github.com/dkhamsing/how-much",
+      "screenshots": ["https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png"],
       "stars": 8,
       "date_added": "Tue Oct 6 10:14:28 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -6028,6 +6043,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["http://www.appcoda.com/wp-content/uploads/2015/04/paws-demo-animation.png"],
       "license": "other",
       "date_added": "Fri Apr 17 08:44:37 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -6040,6 +6056,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["https://cloud.githubusercontent.com/assets/5305874/12059257/dacf1ad0-af92-11e5-920c-ba4818d8dc1d.png"],
       "description": "NBA game scores",
       "license": "mit",
       "source": "https://github.com/wwayne/react-native-nba-app",
@@ -6175,6 +6192,7 @@
       "description": "View houses for sale in the Northwest",
       "license": "mit",
       "source": "https://github.com/asamiller/den",
+      "screenshots": ["https://cloud.githubusercontent.com/assets/5133623/7338978/01976cce-ec13-11e4-9b79-f2e2e47503b6.jpg"],
       "stars": 275,
       "date_added": "Fri May 29 07:38:01 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -6189,6 +6207,7 @@
       ],
       "license": "mit",
       "source": "https://github.com/catalinmiron/react-native-dribbble-app",
+      "screenshots": ["https://cloud.githubusercontent.com/assets/2805320/8113463/db61b072-1076-11e5-8aa2-52417f019ea0.jpg"],
       "stars": 1305,
       "date_added": "Sat Jun 13 07:33:39 2015 -0700",
       "suggested_by": "@xu6148152"
@@ -6252,6 +6271,7 @@
         "reactnative"
       ],
       "source": "https://github.com/peralmq/ForeignExchangeApp",
+      "screenshots": ["https://cloud.githubusercontent.com/assets/238536/7063949/469613cc-deab-11e4-9d67-c727bcc0171b.png"],
       "stars": 11,
       "license": "other",
       "date_added": "Fri Jul 24 07:24:09 2015 -0700",
@@ -6287,6 +6307,7 @@
       ],
       "license": "mit",
       "source": "https://github.com/paranoida/IcelandEarthquakes",
+      "screenshots": ["https://raw.githubusercontent.com/paranoida/IcelandEarthquakes/master/preview.png"],
       "stars": 23,
       "date_added": "Thu May 7 07:22:47 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -6329,6 +6350,7 @@
       ],
       "description": "News app based on YouTube playlists",
       "source": "https://github.com/bradoyler/newswatch-react-native",
+      "screenshots": ["https://cloud.githubusercontent.com/assets/425966/7039857/2f122810-dd95-11e4-99c4-db636d4c66a9.gif"],
       "stars": 96,
       "license": "other",
       "date_added": "Fri May 15 07:34:03 2015 -0700",
@@ -6344,6 +6366,7 @@
       ],
       "description": "Lightweight Node REPL",
       "source": "https://github.com/mzabriskie/PocketNode",
+      "screenshots": ["https://cloud.githubusercontent.com/assets/199035/10439739/49d80e60-70f9-11e5-94b1-16e06eeb3a8f.png"],
       "stars": 49,
       "license": "other",
       "date_added": "Thu Feb 4 11:49:30 2016 -0800",
@@ -6415,6 +6438,7 @@
         "reactnative"
       ],
       "source": "https://github.com/ArnaudRinquin/sk-react-native",
+      "screenshots": ["https://github.com/ArnaudRinquin/sk-react-native/raw/master/screenshots.png"],
       "stars": 94,
       "license": "other",
       "date_added": "Tue Oct 27 14:57:49 2015 -0700",
@@ -6499,6 +6523,7 @@
       ],
       "description": "App for managing the beer brewing process",
       "source": "https://github.com/brewfactory/BrewMobile",
+      "screenshots": ["https://camo.githubusercontent.com/edffaf12ff2fcc5e3e2b85539c6ab372fdfd41a7/687474703a2f2f62726577666163746f72792e6f72672f427265774d6f62696c652f696d672f395f736d616c6c2e706e67"],
       "stars": 175,
       "tags": [
         "swift"
@@ -6576,6 +6601,7 @@
       "description": "Minimal chess clock",
       "license": "mit",
       "source": "https://github.com/nottombrown/HausClock",
+      "screenshots": ["https://camo.githubusercontent.com/825961b385ec6545c9544c6e8d30870d7f86ebf9/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f32363035312f73637265656e73686f74732f313633333939382f6d6f636b75702e706e67"],
       "stars": 40,
       "date_added": "Tue Jan 27 07:39:43 2015 -0800",
       "suggested_by": "@dkhamsing"
@@ -6677,6 +6703,7 @@
         "swift",
         "rxswift"
       ],
+      "screenshots": ["http://artsy.github.io/images/2014-11-12-eidolon-retrospective/listings.png"],
       "date_added": "Tue Jan 27 07:26:50 2015 -0800",
       "suggested_by": "@dkhamsing"
     },
@@ -6748,6 +6775,7 @@
       ],
       "description": "Watch Realm videos & slides",
       "source": "https://github.com/BalestraPatrick/RealmVideo",
+      "screenshots": ["https://github.com/BalestraPatrick/RealmVideo/raw/master/Resources/demo.gif"],
       "stars": 274,
       "tags": [
         "swift",
@@ -6783,6 +6811,7 @@
         "apple-tv"
       ],
       "source": "https://github.com/spritlesoftware/railscasts-on-appletv",
+      "screenshots": ["https://raw.githubusercontent.com/spritlesoftware/railscasts-on-appletv/master/TVOSExample/image/apple-tv-railscast.png"],
       "stars": 2,
       "license": "other",
       "date_added": "Thu May 12 12:04:04 2016 +0530",
@@ -7253,6 +7282,7 @@
       "description": "Anonymous messaging with real time data sync",
       "license": "mit",
       "source": "https://github.com/LunarFlash/Chaty",
+      "screenshots": ["https://github.com/LunarFlash/Chaty/raw/master/ChatChat/screen1.png"],
       "stars": 266,
       "date_added": "Wed May 25 07:43:52 2016 -0700",
       "suggested_by": "@lfarah"
@@ -8457,6 +8487,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/BalestraPatrick/SwiftBlog/raw/master/Screenshot.png"],
       "stars": 9,
       "date_added": "Tue Jun 21 06:02:18 2016 -0700",
       "suggested_by": "@dkhamsing"
@@ -8492,6 +8523,7 @@
       ],
       "description": "Escape from the squares",
       "source": "https://github.com/JakeLin/SaveTheDot",
+      "screenshots": ["https://cloud.githubusercontent.com/assets/573856/16248754/90150c2a-3854-11e6-9ee1-c2e4f228a9b6.gif"],
       "license": "mit",
       "stars": 580,
       "date_added": "Thu Jun 23 21:51:00 2016 -0300",
@@ -8761,6 +8793,11 @@
       "description": "Use Emojis to communicate while traveling",
       "homepage": "https://themoji.me/",
       "source": "https://github.com/themoji/ios",
+      "screenshots": [
+        "https://themoji.me/ThemojiIdea.jpg",
+        "http://media.148apps.com/screenshots/1086378368/us-ipad-1-themoji-express-yourself-with-emojis.jpeg",
+        "http://media.148apps.com/screenshots/1086378368/us-iphone-3-themoji-express-yourself-with-emojis.jpeg"
+      ],
       "date_added": "Tue Jul 12 07:47:44 2016 -0700",
       "suggested_by": "@dkhamsing",
       "stars": 25
@@ -9005,6 +9042,7 @@
       ],
       "description": "Run tracking & ghosting",
       "source": "https://github.com/enochng1/RaceMe",
+      "screenshots": ["https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png"],
       "tags": [
         "swift",
         "parse"
