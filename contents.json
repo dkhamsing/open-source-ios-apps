@@ -9921,7 +9921,7 @@
     {
       "title": "Currency Converter - Free and Quick Converter",
       "category-ids": [
-        "finance",
+        "calculator",
         "viper"
       ],
       "description": "Calculates money quick and easy way to see live foreign exchange rates",
@@ -9931,6 +9931,7 @@
         "viper"
       ],
       "license": "mit",
+      "itunes": "https://itunes.apple.com/us/app/currency-converter-free-quick/id1163490933?ls=1&mt=8",
       "date_added": "Oct 23 2016",
       "suggested_by": "@tirupati17",
       "screenshots": ["https://raw.githubusercontent.com/tirupati17/currency-converter-swift3.0-viper/master/CurrencyConverter/Resources/iphone_5s.png"]
