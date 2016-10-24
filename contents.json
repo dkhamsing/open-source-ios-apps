@@ -8100,6 +8100,10 @@
       "homepage": "https://spika.business/",
       "license": "mit",
       "stars": 102,
+      "tags": [
+        "afnetworking",
+        "sdwebimage"
+      ],
       "screenshots": ["https://github.com/cloverstudio/Spika/raw/master/spika_demo_new.gif"],
       "date_added": "Thu Jun 2 00:39:25 2016 -0600",
       "suggested_by": "@scribblemaniac"
