@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-563-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 21, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-564-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 24, 2016-lightgrey.svg)
 
 Jump to
 
@@ -415,6 +415,12 @@ Click ► to show more details
 </div>
   </details>
 </details> 
+- Currency Converter: Live foreign exchange rates & currency calculator [` App Store`](https://itunes.apple.com/app/currency-converter-free-quick/id1163490933)  
+<details><summary>`swift` `viper` </summary>  https://github.com/tirupati17/currency-converter-swift3.0-viper<br>  Added October 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Currency Converter image 1' src='https://raw.githubusercontent.com/tirupati17/currency-converter-swift3.0-viper/master/CurrencyConverter/Resources/iphone_5s.png'> 
+</div>
+  </details>
+</details> 
 - Free42: A re-implementation of the HP-42S Calculator & the HP-82240 printer [` App Store`](https://itunes.apple.com/app/id337692629)  
 <details><summary>`objc` </summary>  http://thomasokken.com/free42/download/free42.tgz<br>  http://thomasokken.com/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <div><img height='300' alt='Free42 image 1' src='http://a1.mzstatic.com/us/r30/Purple3/v4/a4/bd/1e/a4bd1e5c-a158-7669-76c9-915c3b41ecec/screen568x568.jpeg'> 
@@ -479,6 +485,8 @@ Click ► to show more details
 </details> 
 - SwiftTextClock: Inspired by the beautiful QlockTwo  
 <details><summary>`swift` </summary>  https://github.com/MichMich/SwiftTextClock<br>  Added June 18, 2016<br>  License: `other`
+<div><img height='300' alt='SwiftTextClock image 1' src='https://github.com/MichMich/SwiftTextClock/raw/master/example.jpg'> 
+</div>
   </details>
 </details> 
 
@@ -631,8 +639,10 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Spika: A secure business messenger  
-<details><summary>`objc` 🔥</summary>  https://github.com/cloverstudio/Spika<br>  https://spika.business/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+- Spika: Cross-platform messenger module  
+<details><summary>`afnetworking` `sdwebimage` 🔥</summary>  https://github.com/cloverstudio/Spika<br>  https://spika.business/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Spika image 1' src='https://github.com/cloverstudio/Spika/raw/master/spika_demo_new.gif'> 
+</div>
   </details>
 </details> 
 - surespot: Secures all messages with end-to-end encryption [` App Store`](https://itunes.apple.com/app/surespot/id790314865)  
@@ -975,6 +985,8 @@ Click ► to show more details
 </details> 
 - Post Manager: Post/schedule Twitter posts like Buffer, includes a Share Extension  
 <details><summary>`swift` `node` </summary>  https://github.com/TomekB/PostManager<br>  Added July 15, 2016<br>  License: `other`
+<div><img height='300' alt='Post Manager image 1' src='https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.18.png?raw=true'> <img height='300' alt='Post Manager image 2' src='https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.54.png?raw=true'> <img height='300' alt='Post Manager image 3' src='https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.54.47.png?raw=true'> 
+</div>
   </details>
 </details> 
 - Send To Me: Share content to your email with a single tap [` App Store`](https://itunes.apple.com/app/id1100027787)  
@@ -1849,6 +1861,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - Facemotion: Find a contact by face recognition  
 <details><summary>`opencv` </summary>  https://github.com/remirobert/Facemotion<br>  Added July 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Facemotion image 1' src='https://cloud.githubusercontent.com/assets/3276768/16144253/4e96344e-34a4-11e6-9257-06f5bcdf06ef.gif'> 
+</div>
   </details>
 </details> 
 - Filterpedia: Core Image Filter explorer  
@@ -1951,6 +1965,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures  
 <details><summary>`swift` </summary>  https://github.com/vanyaland/Tagger<br>  Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Tagger image 1' src='https://github.com/vanyaland/Tagger/raw/master/Screenshots/main.png'> 
+</div>
   </details>
 </details> 
 - Upupu: Simple camera app that can backup pictures [` App Store`](https://itunes.apple.com/app/upupu/id508401854)  
@@ -2267,6 +2283,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - DownTube: Download videos from YouTube for offline use  
 <details><summary>`swift` </summary>  https://github.com/MrAdamBoyd/DownTube<br>  Added June 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='DownTube image 1' src='https://raw.githubusercontent.com/MrAdamBoyd/DownTube/master/Screenshots/screenshot1.png'> <img height='300' alt='DownTube image 2' src='https://raw.githubusercontent.com/MrAdamBoyd/DownTube/master/Screenshots/screenshot2.png'> 
+</div>
   </details>
 </details> 
 - Eleven: Simple powerful video player [` App Store`](https://itunes.apple.com/app/elevenplayer/id1033773648)  
@@ -2923,6 +2941,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Post Manager: Post/schedule Twitter posts like Buffer, includes a Share Extension  
 <details><summary>`swift` `node` </summary>  https://github.com/TomekB/PostManager<br>  Added July 15, 2016<br>  License: `other`
+<div><img height='300' alt='Post Manager image 1' src='https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.18.png?raw=true'> <img height='300' alt='Post Manager image 2' src='https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.54.png?raw=true'> <img height='300' alt='Post Manager image 3' src='https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.54.47.png?raw=true'> 
+</div>
   </details>
 </details> 
 - StreetMusicMap: Is a collaborative global community that connects street musicians, fans & videomakers [` App Store`](https://itunes.apple.com/app/street-music-map/id980068735)  
@@ -3328,6 +3348,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures  
 <details><summary>`swift` </summary>  https://github.com/vanyaland/Tagger<br>  Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Tagger image 1' src='https://github.com/vanyaland/Tagger/raw/master/Screenshots/main.png'> 
+</div>
   </details>
 </details> 
 - Tasks: Designed to quickly & easily add tasks [` App Store`](https://itunes.apple.com/app/task-application/id960435759)  
@@ -3663,10 +3685,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Facemotion: Find a contact by face recognition  
 <details><summary>`opencv` </summary>  https://github.com/remirobert/Facemotion<br>  Added July 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Facemotion image 1' src='https://cloud.githubusercontent.com/assets/3276768/16144253/4e96344e-34a4-11e6-9257-06f5bcdf06ef.gif'> 
+</div>
   </details>
 </details> 
 - Obědář: Shows daily menu of close restaurants to Czech Technical University  
 <details><summary>`swift` </summary>  https://github.com/syky27/lunch_guy-ios<br>  Added June 16, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Obědář image 1' src='https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/2.png'> <img height='300' alt='Obědář image 2' src='https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/1.png'> 
+</div>
   </details>
 </details> 
 - RaceMe: Run tracking & ghosting  
@@ -3696,6 +3722,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Counter  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/mutualmobile/Counter<br>  Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Currency Converter: Live foreign exchange rates & currency calculator [` App Store`](https://itunes.apple.com/app/currency-converter-free-quick/id1163490933)  
+<details><summary>`swift` `viper` </summary>  https://github.com/tirupati17/currency-converter-swift3.0-viper<br>  Added October 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Currency Converter image 1' src='https://raw.githubusercontent.com/tirupati17/currency-converter-swift3.0-viper/master/CurrencyConverter/Resources/iphone_5s.png'> 
+</div>
   </details>
 </details> 
 - EMI Calculator: Calculate your Equated Monthly installment (EMI) for home, car & personal loans [` App Store`](https://itunes.apple.com/app/id1105890730)  
