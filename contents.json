@@ -8095,11 +8095,12 @@
       "category-ids": [
         "communication"
       ],
-      "description": "A secure business messenger",
+      "description": "Cross-platform messenger module",
       "source": "https://github.com/cloverstudio/Spika",
       "homepage": "https://spika.business/",
       "license": "mit",
       "stars": 102,
+      "screenshots": ["https://github.com/cloverstudio/Spika/raw/master/spika_demo_new.gif"],
       "date_added": "Thu Jun 2 00:39:25 2016 -0600",
       "suggested_by": "@scribblemaniac"
     },
@@ -8402,6 +8403,10 @@
       "tags": [
         "swift"
       ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/MrAdamBoyd/DownTube/master/Screenshots/screenshot1.png",
+        "https://raw.githubusercontent.com/MrAdamBoyd/DownTube/master/Screenshots/screenshot2.png"
+      ],
       "stars": 21,
       "date_added": "Wed Jun 15 05:14:07 2016 -0700",
       "suggested_by": "Adam Boyd"
@@ -8416,6 +8421,10 @@
       "license": "mit",
       "tags": [
         "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/2.png",
+        "https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/1.png"
       ],
       "stars": 3,
       "date_added": "Thu Jun 16 00:06:05 2016 +0200",
@@ -8458,6 +8467,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/MichMich/SwiftTextClock/raw/master/example.jpg"],
       "stars": 25,
       "date_added": "Sat Jun 18 06:41:16 2016 -0700",
       "suggested_by": "@dkhamsing"
@@ -8604,6 +8614,7 @@
       ],
       "description": "Increase the number of Instagram or Flickr followers & likes on your pictures",
       "source": "https://github.com/vanyaland/Tagger",
+      "screenshots": ["https://github.com/vanyaland/Tagger/raw/master/Screenshots/main.png"],
       "stars": 4,
       "license": "mit",
       "tags": [
@@ -8993,6 +9004,11 @@
         "swift",
         "node"
       ],
+      "screenshots": [
+        "https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.18.png?raw=true",
+        "https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.54.png?raw=true"
+        "https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.54.47.png?raw=true"
+      ],
       "date_added": "Fri Jul 15 12:22:53 2016 +0200",
       "suggested_by": "@TomekB",
       "stars": 25
@@ -9214,6 +9230,7 @@
       ],
       "description": "Find a contact by face recognition",
       "source": "https://github.com/remirobert/Facemotion",
+      "screenshots": ["https://cloud.githubusercontent.com/assets/3276768/16144253/4e96344e-34a4-11e6-9257-06f5bcdf06ef.gif"],
       "stars": 55,
       "license": "mit",
       "date_added": "Wed Jul 27 07:05:30 2016 -0700",
