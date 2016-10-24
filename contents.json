@@ -9919,19 +9919,19 @@
       "suggested_by": "@dkhamsing"
     },
     {
-	      "title": "Currency Converter - Free and Quick Converter",
+	      "title": "Currency Converter",
 	      "category-ids": [
       		"calculator",
           "viper"
 	      ],
-	      "description": "Calculates money quick and easy way to see live foreign exchange rates",
+	      "description": "Live foreign exchange rates & currency calculator",
 	      "source": "https://github.com/tirupati17/currency-converter-swift3.0-viper",
 	      "tags": [
 	        "swift",
 	        "viper"
 	      ],
 	      "license": "mit",
-	      "itunes": "https://itunes.apple.com/us/app/currency-converter-free-quick/id1163490933?ls=1&mt=8",
+	      "itunes": "https://itunes.apple.com/app/currency-converter-free-quick/id1163490933",
 	      "date_added": "Oct 24 2016",
 	      "suggested_by": "@tirupati17",
 	      "screenshots": [
