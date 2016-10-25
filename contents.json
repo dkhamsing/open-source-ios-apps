@@ -9958,6 +9958,21 @@
 	      "screenshots": [
 	        "https://raw.githubusercontent.com/tirupati17/currency-converter-swift3.0-viper/master/CurrencyConverter/Resources/iphone_5s.png"
 	      ]
-	   }
+	   },
+     {
+       "title": "Knuff",
+       "source": "https://github.com/KnuffApp/Knuff-iOS",
+       "itunes": "https://itunes.apple.com/app/knuff-the-apns-debug-tool/id993435856",
+       "category-ids": ["developer"],
+       "description": "The debug application for Apple Push Notification Service (APNs)",
+       "tags": [
+         "swift",
+         "pop"
+       ],
+       "screenshots": ["http://a4.mzstatic.com/us/r30/Purple49/v4/f9/21/14/f9211459-6b65-ed7c-ec75-c58c4de7f497/screen696x696.jpeg"],
+       "license": "mit",
+       "date_added": "Oct 25 2016",
+       "suggested_by": "@dkhamsing"
+     }
   ]
 }
