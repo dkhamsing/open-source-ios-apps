@@ -7761,6 +7761,7 @@
       ],
       "description": "Cast spells in single or multiplayer wizard duels",
       "source": "https://github.com/seanhess/wizardwar",
+      "itunes": "https://itunes.apple.com/app/wizard-war/id702839715",
       "license": "mit",
       "stars": 564,
       "date_added": "Wed Jun 1 22:55:28 2016 -0600",
