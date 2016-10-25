@@ -1031,7 +1031,7 @@
       "category-ids": [
         "communication"
       ],
-      "description": "Bluetooth LE app",
+      "description": "Chat using Bluetooth 4.0 Low Energy API (Bluetooth LE)",
       "license": "mpl-2.0",
       "source": "https://github.com/chrisballinger/BLEMeshChat",
       "screenshots": ["https://camo.githubusercontent.com/71c9718ca94505f7135024802d145148e90ae605/68747470733a2f2f692e696d6775722e636f6d2f7a386c4564504d6d2e706e67"],
