@@ -9973,6 +9973,27 @@
        "license": "mit",
        "date_added": "Oct 25 2016",
        "suggested_by": "@dkhamsing"
+     },
+     {
+       "title": "Lunchify",
+       "description": "Find restaurants offering 10€ lunch buffets in Finland",
+       "category-ids": ["location"],
+       "source": "https://github.com/sallar/lunchify-swift",
+       "itunes": "https://itunes.apple.com/app/lunchify/id1099214692",
+       "tags": [
+         "swift",
+         "swiftyjson",
+         "alamofire",
+         "DZNEmptyDataSet"
+       ],
+       "screenshots": [
+     "http://a2.mzstatic.com/us/r30/Purple49/v4/6a/24/b7/6a24b73c-dc99-d96f-93e8-268f9bb74268/screen696x696.jpeg",
+     "http://a5.mzstatic.com/us/r30/Purple49/v4/ad/59/63/ad59636f-7605-60dd-17ac-319075222468/screen696x696.jpeg",
+     "http://a3.mzstatic.com/us/r30/Purple49/v4/e5/62/50/e56250a9-07b0-ca33-58e4-33124aff6fab/screen696x696.jpeg"
+         ],
+      "license": "mit",
+      "date_added": "Oct 25 2016",
+      "suggested_by": "@dkhamsing"
      }
   ]
 }
