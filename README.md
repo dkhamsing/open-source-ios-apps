@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-564-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 24, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-565-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 25, 2016-lightgrey.svg)
 
 Jump to
 
@@ -798,6 +798,12 @@ Click ► to show more details
 - iOSAppsInfo: List installed apps & URL schemes  
 <details><summary>`objc` </summary>  https://github.com/wujianguo/iOSAppsInfo<br>  Added October 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='iOSAppsInfo image 1' src='https://github.com/wujianguo/iOSAppsInfo/raw/master/SampleImages/1.PNG'> <img height='300' alt='iOSAppsInfo image 2' src='https://github.com/wujianguo/iOSAppsInfo/raw/master/SampleImages/3.PNG'> 
+</div>
+  </details>
+</details> 
+- Knuff: The debug application for Apple Push Notification Service (APNs) [` App Store`](https://itunes.apple.com/app/knuff-the-apns-debug-tool/id993435856)  
+<details><summary>`swift` `pop` </summary>  https://github.com/KnuffApp/Knuff-iOS<br>  Added October 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Knuff image 1' src='http://a4.mzstatic.com/us/r30/Purple49/v4/f9/21/14/f9211459-6b65-ed7c-ec75-c58c4de7f497/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
