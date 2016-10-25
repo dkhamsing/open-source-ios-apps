@@ -7265,6 +7265,7 @@
       "description": "A clock based off the famous Fibonacci sequence",
       "license": "gpl-2.0",
       "source": "https://github.com/scribblemaniac/Fibonacc-iClock",
+      "screenshots": ["https://raw.githubusercontent.com/scribblemaniac/Fibonnac-iClock/master/Screenshot.png"],
       "stars": 0,
       "date_added": "Mon May 23 18:03:11 2016 -0600",
       "suggested_by": "@scribblemaniac"
@@ -7726,6 +7727,13 @@
       "category-ids": [
         "media"
       ],
+      "screenshots": [
+        "https://github.com/sprang/Inkpad/blob/develop/Screenshots/Gradient.png?raw=true",
+        "https://github.com/sprang/Inkpad/blob/develop/Screenshots/Hue.png?raw=true",
+        "https://github.com/sprang/Inkpad/blob/develop/Screenshots/Layers.png?raw=true",
+        "https://github.com/sprang/Inkpad/blob/develop/Screenshots/Selection.png?raw=true",
+        "https://github.com/sprang/Inkpad/blob/develop/Screenshots/Swatches.png?raw=true"
+      ],
       "description": "Vector illustration",
       "license": "mpl-2.0",
       "source": "https://github.com/sprang/Inkpad",
@@ -7743,6 +7751,13 @@
       "tags": [
         "reactivecocoa",
         "parse"
+      ],
+      "screenshots": [
+         "http://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg",
+         "http://a5.mzstatic.com/us/r30/Purple6/v4/61/e1/45/61e14599-9ddb-b299-9339-7bf09a85fd55/screen696x696.jpeg",
+         "http://a2.mzstatic.com/us/r30/Purple/v4/59/b5/e0/59b5e0e1-3b1b-b29e-1093-fbe3273157ff/screen696x696.jpeg",
+         "http://a1.mzstatic.com/us/r30/Purple4/v4/52/87/67/52876746-f548-1e4b-2f6c-6fedd5beef7e/screen696x696.jpeg",
+         "http://a3.mzstatic.com/us/r30/Purple4/v4/d6/25/c8/d625c8ef-42a8-7868-ac72-16430d62adb3/screen696x696.jpeg"
       ],
       "description": "Cast spells in single or multiplayer wizard duels",
       "source": "https://github.com/seanhess/wizardwar",
@@ -7869,6 +7884,7 @@
       "license": "mit",
       "homepage": "https://antidote.im/",
       "stars": 206,
+      "screenshots": ["https://tox.chat/theme/img/client/antidote_1.png"],
       "date_added": "Wed Jun 1 23:31:57 2016 -0600",
       "suggested_by": "@scribblemaniac"
     },
