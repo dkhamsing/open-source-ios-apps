@@ -10011,6 +10011,20 @@
       "license": "mit",
       "date_added": "Oct 25 2016",
       "suggested_by": "@dkhamsing"
-     }
+    },
+    {
+      "title": "ESCapey",
+      "description": "macOS server & iOS client app pair that allow you to turn any iOS device into the escape key you've come to know and love",
+      "category-ids": ["developer"],
+      "source": "https://github.com/brianmichel/ESCapey",
+      "tags": ["swift"],
+      "screenshots": [
+        "https://github.com/brianmichel/ESCapey/raw/master/images/ios-screenshot-2.png",
+        "https://github.com/brianmichel/ESCapey/raw/master/images/ios-screenshot-1.png"
+      ],
+      "license": "mit",
+      "date_added": "Oct 26 2016",
+      "suggested_by": "@dkhamsing"
+    }
   ]
 }
