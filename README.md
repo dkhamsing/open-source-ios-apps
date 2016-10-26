@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-566-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 25, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-567-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 26, 2016-lightgrey.svg)
 
 Jump to
 
@@ -469,6 +469,8 @@ Click ► to show more details
  
 - Fibonacc iClock: A clock based off the famous Fibonacci sequence  
 <details><summary>`objc` </summary>  https://github.com/scribblemaniac/Fibonacc-iClock<br>  Added May 23, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='Fibonacc iClock image 1' src='https://raw.githubusercontent.com/scribblemaniac/Fibonnac-iClock/master/Screenshot.png'> 
+</div>
   </details>
 </details> 
 - HausClock: Minimal chess clock  
@@ -561,6 +563,8 @@ Click ► to show more details
 </details> 
 - Antidote: A client for https://tox.chat/  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/Antidote-for-Tox/Antidote<br>  https://antidote.im/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Antidote image 1' src='https://tox.chat/theme/img/client/antidote_1.png'> 
+</div>
   </details>
 </details> 
 - AppRTC: A native video chat app  
@@ -575,7 +579,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- BLEMeshChat: Bluetooth LE app  
+- BLEMeshChat: Chat using Bluetooth 4.0 Low Energy API (Bluetooth LE)  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/chrisballinger/BLEMeshChat<br>  Added January 11, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
 <div><img height='300' alt='BLEMeshChat image 1' src='https://camo.githubusercontent.com/71c9718ca94505f7135024802d145148e90ae605/68747470733a2f2f692e696d6775722e636f6d2f7a386c4564504d6d2e706e67'> 
 </div>
@@ -792,6 +796,12 @@ Click ► to show more details
 - Codinator: Code editor [` App Store`](https://itunes.apple.com/app/codinator/id1024671232)  
 <details><summary>`iphone` `ipad` </summary>  https://github.com/DanilaVladi/codinator<br>  Added April 11, 2016<br>  License: `other`
 <div><img height='300' alt='Codinator image 1' src='http://a1.mzstatic.com/us/r30/Purple20/v4/a6/14/16/a61416a0-e5cb-1166-0358-c680f2f2f42e/screen696x696.jpeg'> <img height='300' alt='Codinator image 2' src='http://a2.mzstatic.com/us/r30/Purple60/v4/bc/e1/11/bce111fb-5d80-a414-fc6d-6117ecc6bc5d/screen696x696.jpeg'> <img height='300' alt='Codinator image 3' src='http://a5.mzstatic.com/us/r30/Purple60/v4/c0/b8/6a/c0b86aa4-1d6e-1e86-6871-c975daa505da/screen696x696.jpeg'> <img height='300' alt='Codinator image 4' src='http://a5.mzstatic.com/us/r30/Purple18/v4/24/5f/b2/245fb21c-e2e1-7c71-4d62-7cfa8134b7ea/screen696x696.jpeg'> <img height='300' alt='Codinator image 5' src='http://a4.mzstatic.com/us/r30/Purple60/v4/b2/86/1a/b2861a3d-ec5d-5888-7331-c73d5c5c2859/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- ESCapey: macOS server & iOS client app pair that allow you to turn any iOS device into the escape key you've come to know and love  
+<details><summary>`swift` </summary>  https://github.com/brianmichel/ESCapey<br>  Added October 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='ESCapey image 1' src='https://github.com/brianmichel/ESCapey/raw/master/images/ios-screenshot-2.png'> <img height='300' alt='ESCapey image 2' src='https://github.com/brianmichel/ESCapey/raw/master/images/ios-screenshot-1.png'> 
 </div>
   </details>
 </details> 
@@ -1428,8 +1438,10 @@ Click ► to show more details
 <details><summary>`objc` </summary>  https://github.com/insurgentgames/teh-internets<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
-- Wizard War: Cast spells in single or multiplayer wizard duels  
+- Wizard War: Cast spells in single or multiplayer wizard duels [` App Store`](https://itunes.apple.com/app/wizard-war/id702839715)  
 <details><summary>`reactivecocoa` `parse` 🔥🔥🔥</summary>  https://github.com/seanhess/wizardwar<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Wizard War image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg'> <img height='300' alt='Wizard War image 2' src='http://a5.mzstatic.com/us/r30/Purple6/v4/61/e1/45/61e14599-9ddb-b299-9339-7bf09a85fd55/screen696x696.jpeg'> <img height='300' alt='Wizard War image 3' src='http://a2.mzstatic.com/us/r30/Purple/v4/59/b5/e0/59b5e0e1-3b1b-b29e-1093-fbe3273157ff/screen696x696.jpeg'> <img height='300' alt='Wizard War image 4' src='http://a1.mzstatic.com/us/r30/Purple4/v4/52/87/67/52876746-f548-1e4b-2f6c-6fedd5beef7e/screen696x696.jpeg'> <img height='300' alt='Wizard War image 5' src='http://a3.mzstatic.com/us/r30/Purple4/v4/d6/25/c8/d625c8ef-42a8-7868-ac72-16430d62adb3/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - Wolfenstein 3D: Wolfenstein 3D for iOS [` App Store`](https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478)  
@@ -1891,6 +1903,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - Inkpad: Vector illustration  
 <details><summary>`objc` 🔥🔥🔥🔥🔥</summary>  https://github.com/sprang/Inkpad<br>  Added June  1, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+<div><img height='300' alt='Inkpad image 1' src='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Gradient.png?raw=true'> <img height='300' alt='Inkpad image 2' src='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Hue.png?raw=true'> <img height='300' alt='Inkpad image 3' src='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Layers.png?raw=true'> <img height='300' alt='Inkpad image 4' src='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Selection.png?raw=true'> <img height='300' alt='Inkpad image 5' src='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Swatches.png?raw=true'> 
+</div>
   </details>
 </details> 
 - Kodi: A popular media player & entertainment hub  
@@ -2648,8 +2662,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Wizard War: Cast spells in single or multiplayer wizard duels  
+- Wizard War: Cast spells in single or multiplayer wizard duels [` App Store`](https://itunes.apple.com/app/wizard-war/id702839715)  
 <details><summary>`reactivecocoa` `parse` 🔥🔥🔥</summary>  https://github.com/seanhess/wizardwar<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Wizard War image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg'> <img height='300' alt='Wizard War image 2' src='http://a5.mzstatic.com/us/r30/Purple6/v4/61/e1/45/61e14599-9ddb-b299-9339-7bf09a85fd55/screen696x696.jpeg'> <img height='300' alt='Wizard War image 3' src='http://a2.mzstatic.com/us/r30/Purple/v4/59/b5/e0/59b5e0e1-3b1b-b29e-1093-fbe3273157ff/screen696x696.jpeg'> <img height='300' alt='Wizard War image 4' src='http://a1.mzstatic.com/us/r30/Purple4/v4/52/87/67/52876746-f548-1e4b-2f6c-6fedd5beef7e/screen696x696.jpeg'> <img height='300' alt='Wizard War image 5' src='http://a3.mzstatic.com/us/r30/Purple4/v4/d6/25/c8/d625c8ef-42a8-7868-ac72-16430d62adb3/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 
@@ -3495,8 +3511,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Wizard War: Cast spells in single or multiplayer wizard duels  
+- Wizard War: Cast spells in single or multiplayer wizard duels [` App Store`](https://itunes.apple.com/app/wizard-war/id702839715)  
 <details><summary>`reactivecocoa` `parse` 🔥🔥🔥</summary>  https://github.com/seanhess/wizardwar<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Wizard War image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg'> <img height='300' alt='Wizard War image 2' src='http://a5.mzstatic.com/us/r30/Purple6/v4/61/e1/45/61e14599-9ddb-b299-9339-7bf09a85fd55/screen696x696.jpeg'> <img height='300' alt='Wizard War image 3' src='http://a2.mzstatic.com/us/r30/Purple/v4/59/b5/e0/59b5e0e1-3b1b-b29e-1093-fbe3273157ff/screen696x696.jpeg'> <img height='300' alt='Wizard War image 4' src='http://a1.mzstatic.com/us/r30/Purple4/v4/52/87/67/52876746-f548-1e4b-2f6c-6fedd5beef7e/screen696x696.jpeg'> <img height='300' alt='Wizard War image 5' src='http://a3.mzstatic.com/us/r30/Purple4/v4/d6/25/c8/d625c8ef-42a8-7868-ac72-16430d62adb3/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 
