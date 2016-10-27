@@ -10093,6 +10093,16 @@
       "license": "other",
       "date_added": "Oct 27 2016",
       "suggested_by": "@dkhamsing"
-    }
+    },
+    {
+      "title": "FinalFighter",
+      "category-ids": ["game"],
+      "source": "https://github.com/sebcode/FinalFighter-iphone",
+      "description": "Tank-battle game",
+      "tags": ["Cocos2D", "archive"],
+      "license": "mit",
+      "date_added": "Oct 27 2016",
+      "suggested_by": "@dkhamsing"
+    },
   ]
 }
