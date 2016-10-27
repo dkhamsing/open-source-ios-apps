@@ -10053,6 +10053,19 @@
       "license": "mit",
       "date_added": "Oct 26 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Retriver",
+      "source": "https://github.com/cyanzhong/Retriver",
+      "description": "Get InfoPlist without jailbreak",
+      "category-ids": ["developer"],
+      "screenshots": [
+        "https://github.com/cyanzhong/retriver/raw/master/Screenshots/1.PNG",
+        "https://github.com/cyanzhong/retriver/raw/master/Screenshots/2.PNG"
+      ],
+      "license": "other",
+      "date_added": "Oct 27 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
