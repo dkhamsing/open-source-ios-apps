@@ -10114,6 +10114,24 @@
       "license": "other",
       "date_added": "Oct 27 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Green Mahjong",
+      "category-ids": ["game"],
+      "source": "https://github.com/danbeck/green-mahjong",
+      "itunes": "https://itunes.apple.com/app/id933634500",
+      "tags": ["netbeans"],
+      "screenshots": [
+     "http://a1.mzstatic.com/us/r30/Purple3/v4/0e/08/99/0e0899aa-4685-d52e-1bea-1586e7531ac4/screen696x696.jpeg",
+     "http://a2.mzstatic.com/us/r30/Purple3/v4/58/d2/aa/58d2aab2-e9f9-919d-6856-a94ddb296bdb/screen696x696.jpeg",
+     "http://a2.mzstatic.com/us/r30/Purple1/v4/0e/94/aa/0e94aaa8-43fb-8e0b-0238-5acf559da6c0/screen696x696.jpeg",
+     "http://a3.mzstatic.com/us/r30/Purple1/v4/7d/9e/b2/7d9eb29e-a89d-04f6-a323-8d17839e11df/screen696x696.jpeg",
+     "http://a3.mzstatic.com/us/r30/Purple3/v4/4e/dc/41/4edc41ac-ccd3-ce53-2318-a984ee69b3b6/screen696x696.jpeg"
+      ],
+      "description": "Solitaire mahjong",
+      "license": "other",
+      "date_added": "Oct 27 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
