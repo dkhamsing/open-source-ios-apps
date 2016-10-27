@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-567-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 26, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-568-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 27, 2016-lightgrey.svg)
 
 Jump to
 
@@ -671,6 +671,8 @@ Click ► to show more details
 </details> 
 - TSWeChat: A WeChat alternative  
 <details><summary>`swift` 🔥🔥🔥🔥</summary>  https://github.com/hilen/TSWeChat<br>  Added May 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='TSWeChat image 1' src='https://github.com/hilen/TSWeChat/raw/master/images/preview1.gif'> 
+</div>
   </details>
 </details> 
 - Tutanota: End-to-end encrypted email [` App Store`](https://itunes.apple.com/app/id922429609)  
@@ -829,6 +831,12 @@ Click ► to show more details
 </div>
   </details>
 </details> 
+- Retriver: Get InfoPlist without jailbreak  
+<details><summary>`objc` </summary>  https://github.com/cyanzhong/Retriver<br>  Added October 27, 2016<br>  License: `other`
+<div><img height='300' alt='Retriver image 1' src='https://github.com/cyanzhong/retriver/raw/master/Screenshots/1.PNG'> <img height='300' alt='Retriver image 2' src='https://github.com/cyanzhong/retriver/raw/master/Screenshots/2.PNG'> 
+</div>
+  </details>
+</details> 
 - Review Time: Shows average review times for iOS & Mac apps  
 <details><summary>`swift` 🔥</summary>  https://github.com/nthegedus/ReviewTime<br>  Added October  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Review Time image 1' src='https://github.com/nthegedus/ReviewTime/raw/master/Design/ReviewTime.png'> 
@@ -952,7 +960,7 @@ Click ► to show more details
 <details><summary>`objc` </summary>  https://bitbucket.org/rileytestut/gba4ios/<br>  Added November 21, 2015<br>  License: `other`
   </details>
 </details> 
-- iUAE: Commodore Amiga emulator, based on UAE  
+- iAmiga: Commodore Amiga emulator, based on UAE  
 <details><summary>`objc` </summary>  https://github.com/emufreak/iAmiga<br>  Added May 14, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
 </details> 
@@ -1134,6 +1142,8 @@ Click ► to show more details
 </details> 
 - Neverlate: Pay-if-U-R-late app with geofences  
 <details><summary>`venmo api` </summary>  https://github.com/ayunav/Neverlate<br>  Added May 27, 2016<br>  License: `other`
+<div><img height='300' alt='Neverlate image 1' src='https://github.com/ayunav/Neverlate/raw/master/NeverlateDemo.gif'> 
+</div>
   </details>
 </details> 
 - Savings Assistant: Expense tracker [` App Store`](https://itunes.apple.com/app/savings-assistant/id1022760996)  
@@ -1224,6 +1234,8 @@ Click ► to show more details
 </details> 
 - Balloon Burst  
 <details><summary>`cocos2d` </summary>  https://github.com/jamiely/ios-balloon-burst<br>  Added May 16, 2016<br>  License: `other`
+<div><img height='300' alt='Balloon Burst image 1' src='http://i.imgur.com/z9rNl4a.png'> 
+</div>
   </details>
 </details> 
 - Bridges: A puzzle game with bridges, houses, tolls & subways  
@@ -1345,7 +1357,9 @@ Click ► to show more details
   </details>
 </details> 
 - Heredox: Place tiles to form your allegiance's symbols  
-<details><summary>`objc` </summary>  https://github.com/RolandasRazma/Heredox<br>  http://www.heredox.com/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`cocos2d` </summary>  https://github.com/RolandasRazma/Heredox<br>  http://www.heredox.com/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Heredox image 1' src='https://camo.githubusercontent.com/01689deda05edf62331dbe93fa2aff94ad692e37/687474703a2f2f613838322e70686f626f732e6170706c652e636f6d2f75732f72313030302f3130322f507572706c652f76342f33632f31622f38372f33633162383732622d363032302d616365392d366637302d3731636536303731353331372f6d7a6c2e72657065756876742e333230783438302d37352e6a7067'> <img height='300' alt='Heredox image 2' src='https://camo.githubusercontent.com/dd7fd312f4f4670b02ecfd0da7fce74567618a62/687474703a2f2f613630362e70686f626f732e6170706c652e636f6d2f75732f72313030302f3037342f507572706c652f76342f33372f35302f61382f33373530613866312d623765652d393839372d323334362d3936643662643930663362342f6d7a6c2e796d6f696a696c782e333230783438302d37352e6a7067'> 
+</div>
   </details>
 </details> 
 - Hostile Takeover: A release of the real time strategy game Warfare Incorporated  
@@ -1356,10 +1370,6 @@ Click ► to show more details
 <details><summary>`objc` </summary>  https://github.com/huygithub/hoxChess<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='hoxChess image 1' src='http://a5.mzstatic.com/us/r30/Purple4/v4/3a/ac/87/3aac87ca-d5cc-9bea-3899-807cf211da85/screen696x696.jpeg'> <img height='300' alt='hoxChess image 2' src='http://a5.mzstatic.com/us/r30/Purple3/v4/d8/75/0d/d8750d68-3619-b760-99c5-ec4eac12ae35/screen696x696.jpeg'> <img height='300' alt='hoxChess image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/41/9c/d3/419cd344-da8a-f046-3bcf-757f6f10768d/screen696x696.jpeg'> <img height='300' alt='hoxChess image 4' src='http://a4.mzstatic.com/us/r30/Purple5/v4/11/28/6e/11286e79-b0b0-1057-7315-3e122a15a62c/screen696x696.jpeg'> <img height='300' alt='hoxChess image 5' src='http://a5.mzstatic.com/us/r30/Purple4/v4/ca/99/1e/ca991e9e-1fe3-8764-b7f9-5c38b4c6e565/screen696x696.jpeg'> 
 </div>
-  </details>
-</details> 
-- iLabyrinth: Escape the labyrinth by following limited paths  
-<details><summary>`objc` 🔥</summary>  https://github.com/RolandasRazma/iLabyrinth<br>  Added June  1, 2016<br>  License: `other`
   </details>
 </details> 
 - littlego: Game of Go  
@@ -1756,6 +1766,8 @@ Click ► to show more details
 </details> 
 - Neverlate: Pay-if-U-R-late app with geofences  
 <details><summary>`venmo api` </summary>  https://github.com/ayunav/Neverlate<br>  Added May 27, 2016<br>  License: `other`
+<div><img height='300' alt='Neverlate image 1' src='https://github.com/ayunav/Neverlate/raw/master/NeverlateDemo.gif'> 
+</div>
   </details>
 </details> 
 - OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, & more [` App Store`](https://itunes.apple.com/app/onebusaway/id329380089)  
@@ -2148,7 +2160,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - Open States: Browse state legislatures  
-<details><summary>`objc` </summary>  https://github.com/sunlightlabs/openstates-ios<br>  Added April  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+<details><summary>`objc` </summary>  https://github.com/openstates/openstates-ios<br>  Added April  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
 </details> 
 - OpenCB: Interactive chess book reader  
@@ -3766,8 +3778,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Rambler.Conferences  
-<details><summary>`objc` 🔥</summary>  https://github.com/rambler-ios/RamblerConferences<br>  Added March  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+- Rambler&IT: Portfolio of mobile application architectures used at Rambler&Co [` App Store`](https://itunes.apple.com/app/rambler-it/id1145829115)  
+<details><summary>`magicalrecord` `typhoon` `afnetworking` `purelayout` `sdwebimage` 🇷🇺 🔥</summary>  https://github.com/rambler-digital-solutions/rambler-it-ios<br>  Added March  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Rambler&IT image 1' src='http://a1.mzstatic.com/us/r30/Purple71/v4/e9/c4/29/e9c429aa-8e88-7b40-f37f-036d1795fbda/screen696x696.jpeg'> <img height='300' alt='Rambler&IT image 2' src='http://a4.mzstatic.com/us/r30/Purple71/v4/03/47/78/034778fc-3dd4-ded5-3423-85a372409f67/screen696x696.jpeg'> <img height='300' alt='Rambler&IT image 3' src='http://a3.mzstatic.com/us/r30/Purple71/v4/64/66/d3/6466d349-2ccf-399c-1956-c98a619d0736/screen696x696.jpeg'> <img height='300' alt='Rambler&IT image 4' src='http://a2.mzstatic.com/us/r30/Purple71/v4/25/48/98/254898a9-7c27-a115-d792-fcfcd63ff6df/screen696x696.jpeg'> <img height='300' alt='Rambler&IT image 5' src='http://a5.mzstatic.com/us/r30/Purple71/v4/c8/8e/00/c88e00ee-da4d-6df7-900a-f08549ddb59c/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - Tip Calculator: Calculate tip & split the bill between any number of people [` App Store`](https://itunes.apple.com/app/id1139456857)  
