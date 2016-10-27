@@ -10103,7 +10103,7 @@
       "license": "mit",
       "date_added": "Oct 27 2016",
       "suggested_by": "@dkhamsing"
-    },    
+    },
     {
       "title": "Frogatto & Friends",
       "category-ids": ["game"],
@@ -10146,7 +10146,7 @@
       "title": "Lumio",
       "category-ids": ["game"],
       "tags": ["Cocos2D"],
-      "screenshot": ["https://github.com/joannecdyer/lumio/raw/master/Lumio/Resources/Screenshots/ScreenShot1.png"],
+      "screenshots": ["https://github.com/joannecdyer/lumio/raw/master/Lumio/Resources/Screenshots/ScreenShot1.png"],
       "source": "https://github.com/joannecdyer/lumio",
       "description": "Puzzle game",
       "license": "other",
