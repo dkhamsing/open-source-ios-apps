@@ -10103,6 +10103,17 @@
       "license": "mit",
       "date_added": "Oct 27 2016",
       "suggested_by": "@dkhamsing"
-    },
+    },    
+    {
+      "title": "Frogatto & Friends",
+      "category-ids": ["game"],
+      "screenshots": ["https://i.imgur.com/vMp5j2Y.gif"],
+      "source": "https://github.com/frogatto/frogatto",
+      "homepage": "https://frogatto.com/",
+      "description": "Action-adventure game, starring a certain quixotic frog",
+      "license": "other",
+      "date_added": "Oct 27 2016",
+      "suggested_by": "@dkhamsing"
+    }
   ]
 }
