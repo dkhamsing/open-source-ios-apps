@@ -10132,6 +10132,15 @@
       "license": "other",
       "date_added": "Oct 27 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Light-Jockey",
+      "category-ids": ["game"],
+      "source": "https://github.com/jmfieldman/Light-Jockey",
+      "tags": ["archive"],
+      "license": "other",
+      "date_added": "Oct 27 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
