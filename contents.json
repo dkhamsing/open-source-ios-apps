@@ -6743,6 +6743,14 @@
         "purelayout",
         "sdwebimage"
       ],
+      "screenshots":
+      [
+           "http://a1.mzstatic.com/us/r30/Purple71/v4/e9/c4/29/e9c429aa-8e88-7b40-f37f-036d1795fbda/screen696x696.jpeg",
+           "http://a4.mzstatic.com/us/r30/Purple71/v4/03/47/78/034778fc-3dd4-ded5-3423-85a372409f67/screen696x696.jpeg",
+           "http://a3.mzstatic.com/us/r30/Purple71/v4/64/66/d3/6466d349-2ccf-399c-1956-c98a619d0736/screen696x696.jpeg",
+           "http://a2.mzstatic.com/us/r30/Purple71/v4/25/48/98/254898a9-7c27-a115-d792-fcfcd63ff6df/screen696x696.jpeg",
+           "http://a5.mzstatic.com/us/r30/Purple71/v4/c8/8e/00/c88e00ee-da4d-6df7-900a-f08549ddb59c/screen696x696.jpeg"
+      ],
       "lang": "rus",
       "source": "https://github.com/rambler-digital-solutions/rambler-it-ios",
       "itunes": "https://itunes.apple.com/app/rambler-it/id1145829115",
@@ -7179,6 +7187,7 @@
       "tags": [
         "Cocos2D"
       ],
+      "screenshots": ["http://i.imgur.com/z9rNl4a.png"],
       "source": "https://github.com/jamiely/ios-balloon-burst",
       "license": "other",
       "stars": 11,
@@ -7224,6 +7233,7 @@
       "description": "A WeChat alternative",
       "license": "mit",
       "source": "https://github.com/hilen/TSWeChat",
+      "screenshots": ["https://github.com/hilen/TSWeChat/raw/master/images/preview1.gif"],
       "tags": [
         "swift"
       ],
@@ -7341,6 +7351,7 @@
       ],
       "description": "Pay-if-U-R-late app with geofences",
       "source": "https://github.com/ayunav/Neverlate",
+      "screenshots": ["https://github.com/ayunav/Neverlate/raw/master/NeverlateDemo.gif"],
       "license": "other",
       "stars": 17,
       "date_added": "Fri May 27 07:59:58 2016 -0700",
@@ -7544,6 +7555,7 @@
       "description": "Escape the labyrinth by following limited paths",
       "source": "https://github.com/RolandasRazma/iLabyrinth",
       "tags": ["archive", "Cocos2D"],
+      "screenshots": ["https://camo.githubusercontent.com/47e8768f3186834060e7533fe154ec949233c0b6/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f72313030302f3037352f507572706c652f34302f61372f36382f6d7a6c2e62646c79617466752e333230783438302d37352e6a7067"],
       "license": "other",
       "stars": 188,
       "date_added": "Wed Jun 1 00:52:33 2016 -0600",
@@ -7557,6 +7569,10 @@
       "description": "Place tiles to form your allegiance's symbols",
       "source": "https://github.com/RolandasRazma/Heredox",
       "homepage": "http://www.heredox.com/",
+      "screenshots": [
+        "https://camo.githubusercontent.com/01689deda05edf62331dbe93fa2aff94ad692e37/687474703a2f2f613838322e70686f626f732e6170706c652e636f6d2f75732f72313030302f3130322f507572706c652f76342f33632f31622f38372f33633162383732622d363032302d616365392d366637302d3731636536303731353331372f6d7a6c2e72657065756876742e333230783438302d37352e6a7067",
+        "https://camo.githubusercontent.com/dd7fd312f4f4670b02ecfd0da7fce74567618a62/687474703a2f2f613630362e70686f626f732e6170706c652e636f6d2f75732f72313030302f3037342f507572706c652f76342f33372f35302f61382f33373530613866312d623765652d393839372d323334362d3936643662643930663362342f6d7a6c2e796d6f696a696c782e333230783438302d37352e6a7067"
+      ],
       "tags": ["Cocos2D"],
       "license": "mit",
       "date_added": "Wed Jun 1 00:56:23 2016 -0600",
