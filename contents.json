@@ -10083,6 +10083,16 @@
       "license": "other",
       "date_added": "Oct 27 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "DrugsNRock",
+      "category-ids": ["game"],
+      "tags": ["archive"],
+      "source": "https://github.com/biou/DrugsNRock",
+      "description": "Simple multiplayer rhythm game",
+      "license": "other",
+      "date_added": "Oct 27 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
