@@ -10066,6 +10066,23 @@
       "license": "other",
       "date_added": "Oct 27 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Bat Loves Bugs",
+      "category-ids": ["game"],
+      "source": "https://github.com/xyclos/BatLovesBugs",
+      "itunes": "https://itunes.apple.com/app/bat-loves-bugs/id969817533",
+      "screenshots": [
+             "http://a5.mzstatic.com/us/r30/Purple1/v4/9a/1a/f9/9a1af9cc-7db1-7985-a14f-b5ccdfcc985b/screen696x696.jpeg",
+             "http://a3.mzstatic.com/us/r30/Purple3/v4/da/43/ec/da43ecba-523c-02b4-1391-1b9104e8f5cc/screen696x696.jpeg",
+             "http://a1.mzstatic.com/us/r30/Purple3/v4/c1/78/f6/c178f6ab-6803-430d-5028-a764015d240d/screen696x696.jpeg",
+             "http://a1.mzstatic.com/us/r30/Purple1/v4/27/44/51/2744512c-9a1a-0e68-2cd1-7aa8392a7ddd/screen696x696.jpeg",
+             "http://a3.mzstatic.com/us/r30/Purple5/v4/88/f1/33/88f13350-94f9-7248-2fb7-9bed86ff3179/screen696x696.jpeg"
+      ],
+      "description": "Eat as many bugs as you can catch",
+      "license": "other",
+      "date_added": "Oct 27 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
