@@ -149,6 +149,8 @@ def output_flag(lang)
     '🇵🇹'
   when 'spa'
     '🇪🇸'
+  when 'rus'
+    '🇷🇺'
   when 'zho'
     '🇨🇳'
   else
