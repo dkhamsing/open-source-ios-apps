@@ -5376,7 +5376,7 @@
         "content"
       ],
       "description": "Browse state legislatures",
-      "source": "https://github.com/sunlightlabs/openstates-ios",
+      "source": "https://github.com/openstates/openstates-ios",
       "stars": 55,
       "license": "bsd-3-clause",
       "date_added": "Wed Apr 6 07:03:48 2016 -0700",
@@ -6731,11 +6731,21 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Rambler.Conferences",
+      "title": "Rambler&IT",
+      "description": "Portfolio of mobile application architectures used at Rambler&Co",
       "category-ids": [
         "viper"
       ],
-      "source": "https://github.com/rambler-ios/RamblerConferences",
+      "tags": [
+        "magicalrecord",
+        "typhoon",
+        "afnetworking",
+        "purelayout",
+        "sdwebimage"
+      ],
+      "lang": "rus",
+      "source": "https://github.com/rambler-digital-solutions/rambler-it-ios",
+      "itunes": "https://itunes.apple.com/app/rambler-it/id1145829115",
       "stars": 108,
       "license": "mit",
       "date_added": "Tue Mar 8 07:15:10 2016 -0800",
@@ -7138,7 +7148,7 @@
       "suggested_by": "yoshisuga"
     },
     {
-      "title": "iUAE",
+      "title": "iAmiga",
       "category-ids": [
         "emulator"
       ],
@@ -7533,6 +7543,7 @@
       ],
       "description": "Escape the labyrinth by following limited paths",
       "source": "https://github.com/RolandasRazma/iLabyrinth",
+      "tags": ["archive", "Cocos2D"],
       "license": "other",
       "stars": 188,
       "date_added": "Wed Jun 1 00:52:33 2016 -0600",
@@ -7546,6 +7557,7 @@
       "description": "Place tiles to form your allegiance's symbols",
       "source": "https://github.com/RolandasRazma/Heredox",
       "homepage": "http://www.heredox.com/",
+      "tags": ["Cocos2D"],
       "license": "mit",
       "date_added": "Wed Jun 1 00:56:23 2016 -0600",
       "suggested_by": "@scribblemaniac",
