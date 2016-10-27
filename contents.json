@@ -9935,11 +9935,11 @@
       "itunes": "https://itunes.apple.com/app/tpg-offline/id1001560047",
       "screenshots":
       [
-           "https://github.com/RemyDCF/tpg-offline/blob/master/Screenshot/Stops.png",
-           "https://github.com/RemyDCF/tpg-offline/blob/master/Screenshot/Departures.png",
-           "https://github.com/RemyDCF/tpg-offline/blob/master/Screenshot/Incidents.png",
-           "https://github.com/RemyDCF/tpg-offline/blob/master/Screenshot/Routes.png",
-           "https://github.com/RemyDCF/tpg-offline/blob/master/Screenshot/Settings.png"
+           "https://raw.githubusercontent.com/RemyDCF/tpg-offline/master/Screenshot/Stops.png",
+           "https://raw.githubusercontent.com/RemyDCF/tpg-offline/master/Screenshot/Departures.png",
+           "https://raw.githubusercontent.com/RemyDCF/tpg-offline/master/Screenshot/Incidents.png",
+           "https://raw.githubusercontent.com/RemyDCF/tpg-offline/master/Screenshot/Routes.png",
+           "https://raw.githubusercontent.com/RemyDCF/tpg-offline/master/Screenshot/Settings.png"
       ],
       "license": "mit",
       "date_added": "Oct 14 2016",
