@@ -8,9 +8,12 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Bancha https://github.com/squallstar/bancha-ios-app
 - Cheddar https://github.com/nothingmagical/cheddar-ios
 - Communiqué https://github.com/zadr/Communique
+- DrugsNRock https://github.com/biou/DrugsNRock
 - Everest https://github.com/EverestOpenSource/Everest-iOS
+- FinalFighter https://github.com/sebcode/FinalFighter-iphone
 - Hack Cancer Hackathon https://github.com/HackCancer/iOS
 - LastFM https://github.com/lastfm/lastfm-iphone
+- Light-Jockey https://github.com/jmfieldman/Light-Jockey
 - Mume https://github.com/opensourceios/Mume
 - Pancake https://github.com/Imaginea/pancake-ios
 - Pi https://github.com/opensourceios/Pi
