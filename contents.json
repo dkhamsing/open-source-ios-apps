@@ -10056,7 +10056,7 @@
     },
     {
       "title": "Retriever",
-      "source": "https://github.com/cyanzhong/Retreiver",
+      "source": "https://github.com/cyanzhong/Retriever",
       "description": "Get InfoPlist without jailbreak",
       "category-ids": ["developer"],
       "screenshots": [
