@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-568-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 27, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-575-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 28, 2016-lightgrey.svg)
 
 Jump to
 
@@ -831,9 +831,9 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Retriver: Get InfoPlist without jailbreak  
-<details><summary>`objc` </summary>  https://github.com/cyanzhong/Retriver<br>  Added October 27, 2016<br>  License: `other`
-<div><img height='300' alt='Retriver image 1' src='https://github.com/cyanzhong/retriver/raw/master/Screenshots/1.PNG'> <img height='300' alt='Retriver image 2' src='https://github.com/cyanzhong/retriver/raw/master/Screenshots/2.PNG'> 
+- Retriever: Get InfoPlist without jailbreak  
+<details><summary>`objc` </summary>  https://github.com/cyanzhong/Retriever<br>  Added October 27, 2016<br>  License: `other`
+<div><img height='300' alt='Retriever image 1' src='https://github.com/cyanzhong/retriever/raw/master/Screenshots/1.PNG'> <img height='300' alt='Retriever image 2' src='https://github.com/cyanzhong/retriever/raw/master/Screenshots/2.PNG'> 
 </div>
   </details>
 </details> 
@@ -1238,6 +1238,12 @@ Click ► to show more details
 </div>
   </details>
 </details> 
+- Bat Loves Bugs: Eat as many bugs as you can catch [` App Store`](https://itunes.apple.com/app/bat-loves-bugs/id969817533)  
+<details><summary>`objc` </summary>  https://github.com/xyclos/BatLovesBugs<br>  Added October 27, 2016<br>  License: `other`
+<div><img height='300' alt='Bat Loves Bugs image 1' src='http://a5.mzstatic.com/us/r30/Purple1/v4/9a/1a/f9/9a1af9cc-7db1-7985-a14f-b5ccdfcc985b/screen696x696.jpeg'> <img height='300' alt='Bat Loves Bugs image 2' src='http://a3.mzstatic.com/us/r30/Purple3/v4/da/43/ec/da43ecba-523c-02b4-1391-1b9104e8f5cc/screen696x696.jpeg'> <img height='300' alt='Bat Loves Bugs image 3' src='http://a1.mzstatic.com/us/r30/Purple3/v4/c1/78/f6/c178f6ab-6803-430d-5028-a764015d240d/screen696x696.jpeg'> <img height='300' alt='Bat Loves Bugs image 4' src='http://a1.mzstatic.com/us/r30/Purple1/v4/27/44/51/2744512c-9a1a-0e68-2cd1-7aa8392a7ddd/screen696x696.jpeg'> <img height='300' alt='Bat Loves Bugs image 5' src='http://a3.mzstatic.com/us/r30/Purple5/v4/88/f1/33/88f13350-94f9-7248-2fb7-9bed86ff3179/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
 - Bridges: A puzzle game with bridges, houses, tolls & subways  
 <details><summary>`objc` 🔥</summary>  https://github.com/zgrossbart/bridges<br>  Added May 15, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div>
@@ -1332,6 +1338,12 @@ Click ► to show more details
 </div>
   </details>
 </details> 
+- Frogatto & Friends: Action-adventure game, starring a certain quixotic frog  
+<details><summary>`objc` </summary>  https://github.com/frogatto/frogatto<br>  https://frogatto.com/<br>  Added October 27, 2016<br>  License: `other`
+<div><img height='300' alt='Frogatto & Friends image 1' src='https://i.imgur.com/vMp5j2Y.gif'> 
+</div>
+  </details>
+</details> 
 - Frotz: Play hundreds of free works of Interactive Fiction (text adventure games) [` App Store`](https://itunes.apple.com/app/id287653015)  
 <details><summary>`objc` </summary>  https://github.com/ifrotz/iosfrotz<br>  https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <div><img height='300' alt='Frotz image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/c9/c1/a2/c9c1a21b-bf4a-6f4e-058f-5578e10013a3/screen696x696.jpeg'> <img height='300' alt='Frotz image 2' src='http://a3.mzstatic.com/us/r30/Purple71/v4/3a/52/47/3a524725-42b9-54e6-d81e-8f81790d977f/screen696x696.jpeg'> <img height='300' alt='Frotz image 3' src='http://a2.mzstatic.com/us/r30/Purple71/v4/76/75/fe/7675fe03-875c-6ea3-a3fb-2bc5b8c43aec/screen696x696.jpeg'> <img height='300' alt='Frotz image 4' src='http://a5.mzstatic.com/us/r30/Purple62/v4/09/f1/1b/09f11b70-c3ef-a97f-73f3-9be6b32eed3b/screen696x696.jpeg'> <img height='300' alt='Frotz image 5' src='http://a3.mzstatic.com/us/r30/Purple71/v4/9b/b0/40/9bb04057-975f-1519-1490-b7b53fd6c576/screen696x696.jpeg'> 
@@ -1347,6 +1359,12 @@ Click ► to show more details
 - Gorillas: Port of the popular old QBasic game with spunk [` App Store`](https://itunes.apple.com/app/gorillas/id302275459)  
 <details><summary>`iphone` 🔥🔥</summary>  https://github.com/Lyndir/Gorillas<br>  http://gorillas.lyndir.com/<br>  Added March  5, 2016<br>  License: `other`
 <div><img height='300' alt='Gorillas image 1' src='http://a5.mzstatic.com/us/r30/Purple/v4/d6/b0/0b/d6b00be6-a152-e345-d897-311826fb8c7a/screen696x696.jpeg'> <img height='300' alt='Gorillas image 2' src='http://a1.mzstatic.com/us/r30/Purple4/v4/b2/ae/fd/b2aefdfc-0404-10c3-01f7-7c68b187d4ca/screen696x696.jpeg'> <img height='300' alt='Gorillas image 3' src='http://a5.mzstatic.com/us/r30/Purple6/v4/ee/f0/48/eef048df-adcb-a352-cdb5-adfe31e2079e/screen696x696.jpeg'> <img height='300' alt='Gorillas image 4' src='http://a2.mzstatic.com/us/r30/Purple6/v4/2b/7b/4f/2b7b4f5b-082f-6973-c55e-a732c01c3a19/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Green Mahjong: Solitaire mahjong [` App Store`](https://itunes.apple.com/app/id933634500)  
+<details><summary>`netbeans` </summary>  https://github.com/danbeck/green-mahjong<br>  Added October 27, 2016<br>  License: `other`
+<div><img height='300' alt='Green Mahjong image 1' src='http://a1.mzstatic.com/us/r30/Purple3/v4/0e/08/99/0e0899aa-4685-d52e-1bea-1586e7531ac4/screen696x696.jpeg'> <img height='300' alt='Green Mahjong image 2' src='http://a2.mzstatic.com/us/r30/Purple3/v4/58/d2/aa/58d2aab2-e9f9-919d-6856-a94ddb296bdb/screen696x696.jpeg'> <img height='300' alt='Green Mahjong image 3' src='http://a2.mzstatic.com/us/r30/Purple1/v4/0e/94/aa/0e94aaa8-43fb-8e0b-0238-5acf559da6c0/screen696x696.jpeg'> <img height='300' alt='Green Mahjong image 4' src='http://a3.mzstatic.com/us/r30/Purple1/v4/7d/9e/b2/7d9eb29e-a89d-04f6-a323-8d17839e11df/screen696x696.jpeg'> <img height='300' alt='Green Mahjong image 5' src='http://a3.mzstatic.com/us/r30/Purple3/v4/4e/dc/41/4edc41ac-ccd3-ce53-2318-a984ee69b3b6/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -1374,6 +1392,12 @@ Click ► to show more details
 </details> 
 - littlego: Game of Go  
 <details><summary>`iphone` `ipad` </summary>  https://github.com/herzbube/littlego<br>  Added March  6, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+</details> 
+- Lumio: Puzzle game  
+<details><summary>`cocos2d` </summary>  https://github.com/joannecdyer/lumio<br>  Added October 27, 2016<br>  License: `other`
+<div><img height='300' alt='Lumio image 1' src='https://github.com/joannecdyer/lumio/raw/master/Lumio/Resources/Screenshots/ScreenShot1.png'> 
+</div>
   </details>
 </details> 
 - Master: PokéMon-like game that uses your location  
