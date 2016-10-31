@@ -6764,6 +6764,7 @@
       "category-ids": [
         "viper"
       ],
+      "screenshots": ["http://i.imgur.com/UhJOVuw.png"],
       "source": "https://github.com/objcio/issue-13-viper",
       "homepage": "https://www.objc.io/issues/13-architecture/viper/",
       "license": "mit",
@@ -7172,6 +7173,9 @@
       "category-ids": [
         "github"
       ],
+      "screenshots": [
+        "http://i.imgur.com/NjqYq02.png"
+      ],
       "description": "View Swift repositories on GitHub",
       "license": "mit",
       "source": "https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub",
@@ -7221,6 +7225,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif"],
       "stars": 140,
       "date_added": "Tue May 17 03:49:28 2016 -0700",
       "suggested_by": "@lfarah"
@@ -7273,6 +7278,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://cloud.githubusercontent.com/assets/1049693/18724167/ba26d9ba-803b-11e6-9c76-2f44c47d2dee.png"],
       "stars": 14,
       "date_added": "Tue Nov 10 07:41:07 2015 -0800",
       "suggested_by": "@dkhamsing"
@@ -7336,6 +7342,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/BalestraPatrick/Tweetometer/raw/master/Screenshots/image1.png"],
       "stars": 32,
       "date_added": "Thu May 26 08:48:30 2016 -0700",
       "suggested_by": "@dkhamsing"
@@ -8084,10 +8091,17 @@
       "category-ids": [
         "misc"
       ],
+      "screenshots": [
+      "http://a1.mzstatic.com/us/r30/Purple2/v4/e3/12/7a/e3127ad7-99e8-c4f7-225a-dc99edf760d9/screen696x696.jpeg",
+      "http://a1.mzstatic.com/us/r30/Purple/v4/d9/c9/4b/d9c94b66-389b-0b57-cd54-794a2aa18d7f/screen696x696.jpeg",
+      "http://a3.mzstatic.com/us/r30/Purple2/v4/aa/59/90/aa59909a-ddfb-2c80-1814-dba25350d4d4/screen696x696.jpeg",
+      "http://a2.mzstatic.com/us/r30/Purple/v4/ff/c2/c3/ffc2c3cc-23da-490e-13a3-f827a61dac70/screen696x696.jpeg"
+      ],
       "description": "An implementation of the Remote Desktop Protocol (RDP)",
       "license": "apache-2.0",
       "source": "https://github.com/FreeRDP/FreeRDP",
       "homepage": "http://www.freerdp.com/",
+      "itunes": "https://itunes.apple.com/app/ifreerdp/id604813768",
       "stars": 1465,
       "date_added": "Thu Jun 2 00:11:21 2016 -0600",
       "suggested_by": "@scribblemaniac"
@@ -8319,6 +8333,13 @@
       "category-ids": [
         "developer"
       ],
+      "screenshots": [
+      "https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/RepositoryView.png",
+      "https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/Slideout.png",
+      "https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/Repositories.png",
+      "https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/ChangeSets.png",
+      "https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/Issues.png "
+    ],
       "description": "Browse & maintain your Bitbucket repositories",
       "source": "https://github.com/thedillonb/CodeBucket",
       "license": "other",
@@ -8418,6 +8439,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/pjchavarria/Swift-Gif/blob/master/Swift-Gif/demo.gif"],
       "date_added": "Tue Jun 14 08:57:25 2016 -0700",
       "suggested_by": "@dkhamsing"
     },
@@ -8529,6 +8551,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["https://github.com/uiheros/react-native-redux-todo-list/raw/master/todolist.gif"],
       "description": "Uses Redux for managing app state",
       "source": "https://github.com/uiheros/react-native-redux-todo-list",
       "license": "mit",
@@ -9004,6 +9027,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/findmybusnj/findmybusnj-swift/raw/master/README_banner.png"],
       "license": "gpl-3.0",
       "date_added": "Wed, 13 Jul 2016 13:36:49 -0700",
       "suggested_by": "@Aghassi",
@@ -9017,6 +9041,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["https://github.com/jbkuczma/NBAreact/raw/master/NBAreact_iOS.gif"],
       "description": "NBA stats & standings",
       "license": "mit",
       "source": "https://github.com/jbkuczma/NBAreact",
@@ -9035,6 +9060,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/dono-app/ux/raw/master/gifs/ios-demo.mov.gif"],
       "license": "gpl-3.0",
       "date_added": "Thu Jul 14 22:10:05 2016 +0200",
       "suggested_by": "Panos Sakkos",
@@ -9403,6 +9429,14 @@
       "license": "bsd-3-clause",
       "tags": [
         "swift"
+      ],
+      "screenshots":
+      [
+           "http://a1.mzstatic.com/us/r30/Purple49/v4/a3/ae/9e/a3ae9e2a-6586-5f76-2ff7-6373a7a40d9f/screen696x696.jpeg",
+           "http://a3.mzstatic.com/us/r30/Purple69/v4/52/2b/46/522b460b-ac91-ee2e-de45-a17d2947f00b/screen696x696.jpeg",
+           "http://a1.mzstatic.com/us/r30/Purple49/v4/1f/5e/0a/1f5e0a2a-5b04-7ffc-9dca-e373ba2deb4b/screen696x696.jpeg",
+           "http://a3.mzstatic.com/us/r30/Purple49/v4/7c/f8/36/7cf8369a-56a5-b59c-3a65-763cd468740b/screen696x696.jpeg",
+           "http://a1.mzstatic.com/us/r30/Purple69/v4/19/70/ee/1970eed8-6dea-c646-a99a-bb4752ab2339/screen696x696.jpeg"
       ],
       "date_added": "Aug 2 2016",
       "suggested_by": "@dkhamsing",
