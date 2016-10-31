@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-575-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 28, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-576-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 31, 2016-lightgrey.svg)
 
 Jump to
 
@@ -130,6 +130,8 @@ Click ► to show more details
 </details> 
 - UitzendingGemist by 4np: Uitgebreide UitzendingGemist app voor Nederland  
 <details><summary>`swift` 🇳🇱 </summary>  https://github.com/4np/UitzendingGemist<br>  Added November 10, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='UitzendingGemist by 4np image 1' src='https://cloud.githubusercontent.com/assets/1049693/18724167/ba26d9ba-803b-11e6-9c76-2f44c47d2dee.png'> 
+</div>
   </details>
 </details> 
 - UitzendingGemist by jeffkreeftmeijer: Dutch Public Broadcasting video on demand  
@@ -450,6 +452,12 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- LunarCore: Small lunar calendar with Today extension [` App Store`](https://itunes.apple.com/app/id1031088612)  
+<details><summary>`objc` 🇨🇳 🔥🔥</summary>  https://github.com/cyanzhong/LunarCore<br>  Added October 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='LunarCore image 1' src='https://github.com/cyanzhong/LunarCore/raw/master/iOS.png'> 
+</div>
+  </details>
+</details> 
 - Malendar: A redesigned calendar  
 <details><summary>`swift` 🔥</summary>  https://github.com/croossin/Malendar<br>  Added October 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Malendar image 1' src='https://github.com/croossin/Malendar/raw/master/Images/MalendarStockPhoto.png'> 
@@ -793,6 +801,8 @@ Click ► to show more details
 </details> 
 - CodeBucket: Browse & maintain your Bitbucket repositories  
 <details><summary>`objc` 🔥</summary>  https://github.com/thedillonb/CodeBucket<br>  Added June  3, 2016<br>  License: `other`
+<div><img height='300' alt='CodeBucket image 1' src='https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/RepositoryView.png'> <img height='300' alt='CodeBucket image 2' src='https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/Slideout.png'> <img height='300' alt='CodeBucket image 3' src='https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/Repositories.png'> <img height='300' alt='CodeBucket image 4' src='https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/ChangeSets.png'> <img height='300' alt='CodeBucket image 5' src='https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/Issues.png '> 
+</div>
   </details>
 </details> 
 - Codinator: Code editor [` App Store`](https://itunes.apple.com/app/codinator/id1024671232)  
@@ -914,6 +924,8 @@ Click ► to show more details
 </details> 
 - SwiftHub: View Swift repositories on GitHub  
 <details><summary>`objc` </summary>  https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub<br>  Added May 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='SwiftHub image 1' src='http://i.imgur.com/NjqYq02.png'> 
+</div>
   </details>
 </details> 
 
@@ -1080,6 +1092,12 @@ Click ► to show more details
 - Impulse: Real-time age ticker  
 <details><summary>`swift` </summary>  https://github.com/Jasdev/Impulse<br>  Added August 12, 2015<br>  License: `other`
 <div><img height='300' alt='Impulse image 1' src='https://camo.githubusercontent.com/5b89b213947316f8a914e897db3033d41e824bd3/687474703a2f2f692e696d6775722e636f6d2f334359524e6a4c2e706e67'> 
+</div>
+  </details>
+</details> 
+- LunarCore: Small lunar calendar with Today extension [` App Store`](https://itunes.apple.com/app/id1031088612)  
+<details><summary>`objc` 🇨🇳 🔥🔥</summary>  https://github.com/cyanzhong/LunarCore<br>  Added October 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='LunarCore image 1' src='https://github.com/cyanzhong/LunarCore/raw/master/iOS.png'> 
 </div>
   </details>
 </details> 
@@ -1614,8 +1632,10 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- AlzPrevent: Clinical research platform for Alzheimer's disease  
+- AlzPrevent: Clinical research platform for Alzheimer's disease [` App Store`](https://itunes.apple.com/app/alzprevent/id1065403320)  
 <details><summary>`swift` </summary>  https://github.com/BBBInc/AlzPrevent-ios<br>  Added August  2, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+<div><img height='300' alt='AlzPrevent image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/a3/ae/9e/a3ae9e2a-6586-5f76-2ff7-6373a7a40d9f/screen696x696.jpeg'> <img height='300' alt='AlzPrevent image 2' src='http://a3.mzstatic.com/us/r30/Purple69/v4/52/2b/46/522b460b-ac91-ee2e-de45-a17d2947f00b/screen696x696.jpeg'> <img height='300' alt='AlzPrevent image 3' src='http://a1.mzstatic.com/us/r30/Purple49/v4/1f/5e/0a/1f5e0a2a-5b04-7ffc-9dca-e373ba2deb4b/screen696x696.jpeg'> <img height='300' alt='AlzPrevent image 4' src='http://a3.mzstatic.com/us/r30/Purple49/v4/7c/f8/36/7cf8369a-56a5-b59c-3a65-763cd468740b/screen696x696.jpeg'> <img height='300' alt='AlzPrevent image 5' src='http://a1.mzstatic.com/us/r30/Purple69/v4/19/70/ee/1970eed8-6dea-c646-a99a-bb4752ab2339/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - AsthmaHealth: Asthma study [` App Store`](https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668)  
@@ -1728,6 +1748,8 @@ Click ► to show more details
 </details> 
 - Find My Bus NJ: Track NJ Transit bus times  
 <details><summary>`swift` </summary>  https://github.com/findmybusnj/findmybusnj-swift<br>  Added July 13, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Find My Bus NJ image 1' src='https://github.com/findmybusnj/findmybusnj-swift/raw/master/README_banner.png'> 
+</div>
   </details>
 </details> 
 - GeoTappy: Share your location  
@@ -2330,6 +2352,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Swift-Gif: GIF Search  
 <details><summary>`swift` </summary>  https://github.com/pjchavarria/Swift-Gif<br>  Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Swift-Gif image 1' src='https://github.com/pjchavarria/Swift-Gif/blob/master/Swift-Gif/demo.gif'> 
+</div>
   </details>
 </details> 
 
@@ -2745,6 +2769,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Tweetometer: See who is tweeting in your timeline  
 <details><summary>`swift` </summary>  https://github.com/BalestraPatrick/Tweetometer<br>  Added May 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Tweetometer image 1' src='https://github.com/BalestraPatrick/Tweetometer/raw/master/Screenshots/image1.png'> 
+</div>
   </details>
 </details> 
 
@@ -2910,6 +2936,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Dono: Password derivation tool  
 <details><summary>`swift` </summary>  https://github.com/dono-app/dono-ios<br>  https://dono-app.github.io/<br>  Added July 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Dono image 1' src='https://github.com/dono-app/ux/raw/master/gifs/ios-demo.mov.gif'> 
+</div>
   </details>
 </details> 
 - Encryptr: A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
@@ -3097,6 +3125,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Sentiments: Analyzes text for positive or negative sentiment  
 <details><summary>`swift` 🔥</summary>  https://github.com/kyleweiner/Sentiments<br>  Added May 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Sentiments image 1' src='https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif'> 
+</div>
   </details>
 </details> 
 - SimpleMemo: Sync notes to EverNote  
@@ -3275,8 +3305,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- FreeRDP: An implementation of the Remote Desktop Protocol (RDP)  
+- FreeRDP: An implementation of the Remote Desktop Protocol (RDP) [` App Store`](https://itunes.apple.com/app/ifreerdp/id604813768)  
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/FreeRDP/FreeRDP<br>  http://www.freerdp.com/<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='FreeRDP image 1' src='http://a1.mzstatic.com/us/r30/Purple2/v4/e3/12/7a/e3127ad7-99e8-c4f7-225a-dc99edf760d9/screen696x696.jpeg'> <img height='300' alt='FreeRDP image 2' src='http://a1.mzstatic.com/us/r30/Purple/v4/d9/c9/4b/d9c94b66-389b-0b57-cd54-794a2aa18d7f/screen696x696.jpeg'> <img height='300' alt='FreeRDP image 3' src='http://a3.mzstatic.com/us/r30/Purple2/v4/aa/59/90/aa59909a-ddfb-2c80-1814-dba25350d4d4/screen696x696.jpeg'> <img height='300' alt='FreeRDP image 4' src='http://a2.mzstatic.com/us/r30/Purple/v4/ff/c2/c3/ffc2c3cc-23da-490e-13a3-f827a61dac70/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - GammaThingy: Change screen gamma dynamically  
@@ -3652,6 +3684,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - NBAreact: NBA stats & standings  
 <details><summary>`reactnative` </summary>  https://github.com/jbkuczma/NBAreact<br>  Added July 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='NBAreact image 1' src='https://github.com/jbkuczma/NBAreact/raw/master/NBAreact_iOS.gif'> 
+</div>
   </details>
 </details> 
 - newswatch: News app based on YouTube playlists  
@@ -3718,6 +3752,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - To Do List (Redux): Uses Redux for managing app state  
 <details><summary>`reactnative` </summary>  https://github.com/uiheros/react-native-redux-todo-list<br>  Added June 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='To Do List (Redux) image 1' src='https://github.com/uiheros/react-native-redux-todo-list/raw/master/todolist.gif'> 
+</div>
   </details>
 </details> 
 - Twitch  
@@ -3816,6 +3852,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - To do  
 <details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/objcio/issue-13-viper<br>  https://www.objc.io/issues/13-architecture/viper/<br>  Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='To do image 1' src='http://i.imgur.com/UhJOVuw.png'> 
+</div>
   </details>
 </details> 
 
