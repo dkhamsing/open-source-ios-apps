@@ -8334,11 +8334,11 @@
         "developer"
       ],
       "screenshots": [
-      "https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/RepositoryView.png",
-      "https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/Slideout.png",
-      "https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/Repositories.png",
-      "https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/ChangeSets.png",
-      "https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/Issues.png "
+      "https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/RepositoryView.png",
+      "https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Slideout.png",
+      "https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Repositories.png",
+      "https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/ChangeSets.png",
+      "https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Issues.png "
     ],
       "description": "Browse & maintain your Bitbucket repositories",
       "source": "https://github.com/thedillonb/CodeBucket",
@@ -9060,7 +9060,7 @@
       "tags": [
         "swift"
       ],
-      "screenshots": ["https://github.com/dono-app/ux/raw/master/gifs/ios-demo.mov.gif"],
+      "screenshots": ["https://github.com/dono-app/dono-ux/raw/master/gifs/ios-demo.mov.gif "],
       "license": "gpl-3.0",
       "date_added": "Thu Jul 14 22:10:05 2016 +0200",
       "suggested_by": "Panos Sakkos",
