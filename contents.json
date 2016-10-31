@@ -9426,6 +9426,7 @@
       ],
       "description": "Clinical research platform for Alzheimer's disease",
       "source": "https://github.com/BBBInc/AlzPrevent-ios",
+      "itunes": "https://itunes.apple.com/app/alzprevent/id1065403320",
       "license": "bsd-3-clause",
       "tags": [
         "swift"
