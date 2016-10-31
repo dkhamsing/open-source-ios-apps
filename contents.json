@@ -10187,6 +10187,19 @@
       "license": "other",
       "date_added": "Oct 27 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "LunarCore",
+      "description": "Small lunar calendar with Today extension",
+      "source": "https://github.com/cyanzhong/LunarCore",
+      "itunes": "https://itunes.apple.com/app/id1031088612",
+      "screenshots": ["https://github.com/cyanzhong/LunarCore/raw/master/iOS.png"],
+      "category-ids": ["today", "calendar"],
+      "stars": 460,
+      "lang": "zho",
+      "license": "mit",
+      "date_added": "Oct 31 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
