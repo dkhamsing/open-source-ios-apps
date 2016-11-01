@@ -10200,6 +10200,19 @@
       "license": "mit",
       "date_added": "Oct 31 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "News application with 66 providers",
+      "description": "Discover and read news on a range of news sources and blogs",
+      "category-ids": ["news"],
+      "license": "mit",
+      "source": "https://github.com/vanyaland/News",
+      "screenshots": [
+	      "https://github.com/vanyaland/News/blob/master/res/sources.png",
+	      "https://github.com/vanyaland/News/blob/master/res/articles.png",
+	      "https://github.com/vanyaland/News/blob/master/res/article.png"
+      ],
+      "suggested_by": "@vanyaland"
     }
   ]
 }
