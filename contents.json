@@ -10208,9 +10208,9 @@
       "license": "mit",
       "source": "https://github.com/vanyaland/News",
       "screenshots": [
-	      "https://github.com/vanyaland/News/blob/master/res/sources.png",
-	      "https://github.com/vanyaland/News/blob/master/res/articles.png",
-	      "https://github.com/vanyaland/News/blob/master/res/article.png"
+        "https://raw.githubusercontent.com/vanyaland/News/master/res/sources.png",
+        "https://raw.githubusercontent.com/vanyaland/News/master/res/articles.png",
+        "https://raw.githubusercontent.com/vanyaland/News/master/res/article.png"
       ],
       "suggested_by": "@vanyaland"
     }
