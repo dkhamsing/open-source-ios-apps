@@ -6496,6 +6496,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["https://github.com/IFours/react-native-twitch/raw/rn0.15/assets/twitch.gif"],
       "source": "https://github.com/IFours/react-native-twitch",
       "stars": 74,
       "license": "other",
@@ -6642,6 +6643,7 @@
         "mvvm",
         "flickr api"
       ],
+      "screenshots": ["https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch/raw/master/FinishedApp.png"],
       "license": "other",
       "date_added": "Wed Feb 4 08:09:00 2015 -0800",
       "suggested_by": "@dkhamsing"
