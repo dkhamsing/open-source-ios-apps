@@ -1899,7 +1899,7 @@
       "license": "mit",
       "tags": [
         "swift",
-        "Cocos2D",
+        "cocos2d",
         "SpriteBuilder"
       ],
       "date_added": "Mon Jul 18 15:35:21 2016 +0100",
@@ -7402,7 +7402,7 @@
         "game"
       ],
       "tags": [
-        "Cocos2D"
+        "cocos2d"
       ],
       "screenshots": [
         "http://i.imgur.com/z9rNl4a.png"
@@ -7794,7 +7794,7 @@
       "source": "https://github.com/RolandasRazma/iLabyrinth",
       "tags": [
         "archive",
-        "Cocos2D"
+        "cocos2d"
       ],
       "screenshots": [
         "https://camo.githubusercontent.com/47e8768f3186834060e7533fe154ec949233c0b6/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f72313030302f3037352f507572706c652f34302f61372f36382f6d7a6c2e62646c79617466752e333230783438302d37352e6a7067"
@@ -7817,7 +7817,7 @@
         "https://camo.githubusercontent.com/dd7fd312f4f4670b02ecfd0da7fce74567618a62/687474703a2f2f613630362e70686f626f732e6170706c652e636f6d2f75732f72313030302f3037342f507572706c652f76342f33372f35302f61382f33373530613866312d623765652d393839372d323334362d3936643662643930663362342f6d7a6c2e796d6f696a696c782e333230783438302d37352e6a7067"
       ],
       "tags": [
-        "Cocos2D"
+        "cocos2d"
       ],
       "license": "mit",
       "date_added": "Wed Jun 1 00:56:23 2016 -0600",
@@ -10473,7 +10473,7 @@
       "source": "https://github.com/sebcode/FinalFighter-iphone",
       "description": "Tank-battle game",
       "tags": [
-        "Cocos2D",
+        "cocos2d",
         "archive"
       ],
       "license": "mit",
@@ -10540,7 +10540,7 @@
         "game"
       ],
       "tags": [
-        "Cocos2D"
+        "cocos2d"
       ],
       "screenshots": [
         "https://github.com/joannecdyer/lumio/raw/master/Lumio/Resources/Screenshots/ScreenShot1.png"
