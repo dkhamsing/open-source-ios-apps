@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-576-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October 31, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-577-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  1, 2016-lightgrey.svg)
 
 Jump to
 
@@ -801,7 +801,7 @@ Click ► to show more details
 </details> 
 - CodeBucket: Browse & maintain your Bitbucket repositories  
 <details><summary>`objc` 🔥</summary>  https://github.com/thedillonb/CodeBucket<br>  Added June  3, 2016<br>  License: `other`
-<div><img height='300' alt='CodeBucket image 1' src='https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/RepositoryView.png'> <img height='300' alt='CodeBucket image 2' src='https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/Slideout.png'> <img height='300' alt='CodeBucket image 3' src='https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/Repositories.png'> <img height='300' alt='CodeBucket image 4' src='https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/ChangeSets.png'> <img height='300' alt='CodeBucket image 5' src='https://raw.github.com/thedillonb/CodeBucket/master/Screenshots/Issues.png '> 
+<div><img height='300' alt='CodeBucket image 1' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/RepositoryView.png'> <img height='300' alt='CodeBucket image 2' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Slideout.png'> <img height='300' alt='CodeBucket image 3' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Repositories.png'> <img height='300' alt='CodeBucket image 4' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/ChangeSets.png'> <img height='300' alt='CodeBucket image 5' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Issues.png '> 
 </div>
   </details>
 </details> 
@@ -2422,6 +2422,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` </summary>  https://github.com/rpowelll/LobsterApp<br>  Added July 21, 2016<br>  License: `other`
   </details>
 </details> 
+- News: Discover and read news on a range of news sources and blogs (66 providers)  
+<details><summary>`news api` </summary>  https://github.com/vanyaland/News<br>  Added November  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='News image 1' src='https://raw.githubusercontent.com/vanyaland/News/master/res/sources.png'> <img height='300' alt='News image 2' src='https://raw.githubusercontent.com/vanyaland/News/master/res/articles.png'> <img height='300' alt='News image 3' src='https://raw.githubusercontent.com/vanyaland/News/master/res/article.png'> 
+</div>
+  </details>
+</details> 
 - NirZhihuDaily2.0  
 <details><summary>`objc` 🇨🇳 🔥🔥🔥🔥</summary>  https://github.com/zpz1237/NirZhihuDaily2.0<br>  Added November  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='NirZhihuDaily2.0 image 1' src='https://github.com/zpz1237/NirZhihuDaily2.0/raw/master/effect1.gif'> 
@@ -2706,6 +2712,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - ReactiveSwiftFlickrSearch: Photo search  
 <details><summary>`swift` `mvvm` `flickr api` 🔥🔥</summary>  https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch<br>  Added February  4, 2015<br>  License: `other`
+<div><img height='300' alt='ReactiveSwiftFlickrSearch image 1' src='https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch/raw/master/FinishedApp.png'> 
+</div>
   </details>
 </details> 
 - SimpleAuth: Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)  
@@ -2936,7 +2944,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Dono: Password derivation tool  
 <details><summary>`swift` </summary>  https://github.com/dono-app/dono-ios<br>  https://dono-app.github.io/<br>  Added July 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<div><img height='300' alt='Dono image 1' src='https://github.com/dono-app/ux/raw/master/gifs/ios-demo.mov.gif'> 
+<div><img height='300' alt='Dono image 1' src='https://github.com/dono-app/dono-ux/raw/master/gifs/ios-demo.mov.gif '> 
 </div>
   </details>
 </details> 
@@ -3758,6 +3766,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Twitch  
 <details><summary>`reactnative` </summary>  https://github.com/IFours/react-native-twitch<br>  Added February  4, 2016<br>  License: `other`
+<div><img height='300' alt='Twitch image 1' src='https://github.com/IFours/react-native-twitch/raw/rn0.15/assets/twitch.gif'> 
+</div>
   </details>
 </details> 
 - UIExplorer: App by Facebook  
@@ -3808,7 +3818,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 
-### [VIPER](https://mutualmobile.github.io/blog/2013/12/04/viper-introduction/) 
+### [VIPER](https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture-framework) 
  
 [back to top](#readme) 
  
