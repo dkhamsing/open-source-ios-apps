@@ -10202,9 +10202,10 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "News application with 66 providers",
-      "description": "Discover and read news on a range of news sources and blogs",
+      "title": "News",
+      "description": "Discover and read news on a range of news sources and blogs (66 providers)",
       "category-ids": ["news"],
+      "tags": ["news api"],
       "license": "mit",
       "source": "https://github.com/vanyaland/News",
       "screenshots": [
@@ -10212,7 +10213,8 @@
         "https://raw.githubusercontent.com/vanyaland/News/master/res/articles.png",
         "https://raw.githubusercontent.com/vanyaland/News/master/res/article.png"
       ],
-      "suggested_by": "@vanyaland"
+      "suggested_by": "@vanyaland",
+      "date_added": "Nov 1 2016"
     }
   ]
 }
