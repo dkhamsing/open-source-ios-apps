@@ -9349,7 +9349,6 @@
         "security"
       ],
       "description": "Password derivation tool",
-      "homepage": "https://dono-app.github.io/",
       "source": "https://github.com/dono-app/dono-ios",
       "tags": [
         "swift"
