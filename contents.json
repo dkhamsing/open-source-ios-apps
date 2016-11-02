@@ -10597,7 +10597,18 @@
       "tags": ["archive"],
       "license": "other",
       "date_added": "Nov 2 2016",
-      "suggested_by": "@dkhamsing"      
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "VIPER-SWIFT",
+      "description": "Todo list",
+      "source": "https://github.com/mutualmobile/VIPER-SWIFT",
+      "category-ids": ["viper", "tasks"],
+      "screenshots": ["http://i.imgur.com/BlZtGZR.png"],
+      "tags": ["swift"],
+      "license": "mit",
+      "date_added": "Nov 2 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
