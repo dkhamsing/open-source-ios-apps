@@ -9157,6 +9157,7 @@
       "license": "gpl-3.0",
       "description": "Mobile shell terminal based on Mosh",
       "source": "https://github.com/blinksh/blink",
+      "itunes": "https://itunes.apple.com/app/id1156707581",
       "date_added": "Tue Jul 12 07:56:22 2016 -0700",
       "suggested_by": "@dkhamsing",
       "stars": 133
