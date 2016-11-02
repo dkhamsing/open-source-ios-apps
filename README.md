@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-577-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  1, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-579-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  2, 2016-lightgrey.svg)
 
 Jump to
 
@@ -506,6 +506,8 @@ Click ► to show more details
  
 - 2048  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/austinzheng/iOS-2048<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='2048 image 1' src='https://github.com/austinzheng/iOS-2048/raw/master/screenshots/ss1.png?raw=true'> 
+</div>
   </details>
 </details> 
 - 2048  
@@ -783,8 +785,10 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Blink: Mobile shell terminal based on Mosh  
+- Blink: Mobile shell terminal based on Mosh [` App Store`](https://itunes.apple.com/app/id1156707581)  
 <details><summary>`objc` 🔥</summary>  https://github.com/blinksh/blink<br>  Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Blink image 1' src='http://a3.mzstatic.com/us/r30/Purple71/v4/a4/c1/40/a4c1408f-f463-823e-7bb3-fd21b8ccc770/screen696x696.jpeg'> <img height='300' alt='Blink image 2' src='http://a5.mzstatic.com/us/r30/Purple71/v4/32/7f/26/327f2687-8f48-cad8-f1d6-bddb50e64353/screen696x696.jpeg'> <img height='300' alt='Blink image 3' src='http://a3.mzstatic.com/us/r30/Purple62/v4/c0/d2/d8/c0d2d869-6136-2969-8310-d72781769b39/screen696x696.jpeg'> <img height='300' alt='Blink image 4' src='http://a5.mzstatic.com/us/r30/Purple62/v4/b3/7d/9b/b37d9b69-7242-44fb-2059-8fb1e42663e8/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - Charter: Mailing list app [` App Store`](https://itunes.apple.com/app/charter-mailing-list-client/id1082212697)  
@@ -812,7 +816,7 @@ Click ► to show more details
   </details>
 </details> 
 - ESCapey: macOS server & iOS client app pair that allow you to turn any iOS device into the escape key you've come to know and love  
-<details><summary>`swift` </summary>  https://github.com/brianmichel/ESCapey<br>  Added October 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` 🔥</summary>  https://github.com/brianmichel/ESCapey<br>  Added October 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='ESCapey image 1' src='https://github.com/brianmichel/ESCapey/raw/master/images/ios-screenshot-2.png'> <img height='300' alt='ESCapey image 2' src='https://github.com/brianmichel/ESCapey/raw/master/images/ios-screenshot-1.png'> 
 </div>
   </details>
@@ -842,7 +846,7 @@ Click ► to show more details
   </details>
 </details> 
 - Retriever: Get InfoPlist without jailbreak  
-<details><summary>`objc` </summary>  https://github.com/cyanzhong/Retriever<br>  Added October 27, 2016<br>  License: `other`
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/cyanzhong/Retriever<br>  Added October 27, 2016<br>  License: `other`
 <div><img height='300' alt='Retriever image 1' src='https://github.com/cyanzhong/retriever/raw/master/Screenshots/1.PNG'> <img height='300' alt='Retriever image 2' src='https://github.com/cyanzhong/retriever/raw/master/Screenshots/2.PNG'> 
 </div>
   </details>
@@ -1228,6 +1232,8 @@ Click ► to show more details
  
 - 2048  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/austinzheng/iOS-2048<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='2048 image 1' src='https://github.com/austinzheng/iOS-2048/raw/master/screenshots/ss1.png?raw=true'> 
+</div>
   </details>
 </details> 
 - 2048  
@@ -1357,7 +1363,7 @@ Click ► to show more details
   </details>
 </details> 
 - Frogatto & Friends: Action-adventure game, starring a certain quixotic frog  
-<details><summary>`objc` </summary>  https://github.com/frogatto/frogatto<br>  https://frogatto.com/<br>  Added October 27, 2016<br>  License: `other`
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/frogatto/frogatto<br>  https://frogatto.com/<br>  Added October 27, 2016<br>  License: `other`
 <div><img height='300' alt='Frogatto & Friends image 1' src='https://i.imgur.com/vMp5j2Y.gif'> 
 </div>
   </details>
@@ -1413,7 +1419,7 @@ Click ► to show more details
   </details>
 </details> 
 - Lumio: Puzzle game  
-<details><summary>`cocos2d` </summary>  https://github.com/joannecdyer/lumio<br>  Added October 27, 2016<br>  License: `other`
+<details><summary>`cocos2d` 🔥</summary>  https://github.com/joannecdyer/lumio<br>  Added October 27, 2016<br>  License: `other`
 <div><img height='300' alt='Lumio image 1' src='https://github.com/joannecdyer/lumio/raw/master/Lumio/Resources/Screenshots/ScreenShot1.png'> 
 </div>
   </details>
@@ -1598,7 +1604,7 @@ Click ► to show more details
   </details>
 </details> 
 - RaceMe: Run tracking & ghosting  
-<details><summary>`swift` `parse` 🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
+<details><summary>`swift` `parse` 🔥🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
 <div><img height='300' alt='RaceMe image 1' src='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'> 
 </div>
   </details>
@@ -1787,7 +1793,7 @@ Click ► to show more details
   </details>
 </details> 
 - MAPS.ME: Offline maps app with navigation [` App Store`](https://itunes.apple.com/app/id510623322)  
-<details><summary>`openstreetmap api` 🔥🔥🔥🔥</summary>  https://github.com/mapsme/omim<br>  https://maps.me/en/home<br>  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<details><summary>`openstreetmap api` 🔥🔥🔥🔥🔥</summary>  https://github.com/mapsme/omim<br>  https://maps.me/en/home<br>  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div><img height='300' alt='MAPS.ME image 1' src='http://a3.mzstatic.com/us/r30/Purple71/v4/0b/78/17/0b7817dc-d0d4-d3fe-1a41-a3813f0598eb/screen696x696.jpeg'> <img height='300' alt='MAPS.ME image 2' src='http://a1.mzstatic.com/us/r30/Purple71/v4/31/a1/a8/31a1a87f-2148-223e-369d-00ef3625ae35/screen696x696.jpeg'> <img height='300' alt='MAPS.ME image 3' src='http://a3.mzstatic.com/us/r30/Purple62/v4/ea/4f/7f/ea4f7f30-1268-1437-177e-5bf303e987ab/screen696x696.jpeg'> <img height='300' alt='MAPS.ME image 4' src='http://a5.mzstatic.com/us/r30/Purple62/v4/9c/f7/9a/9cf79aa0-e3a0-b607-88e0-9fa14bc2d609/screen696x696.jpeg'> <img height='300' alt='MAPS.ME image 5' src='http://a3.mzstatic.com/us/r30/Purple71/v4/0b/a9/52/0ba95283-dcac-de78-05d7-7578a5b1760e/screen696x696.jpeg'> 
 </div>
   </details>
@@ -1835,7 +1841,7 @@ Click ► to show more details
   </details>
 </details> 
 - OwnTracks: Keep track of your own location, you can build your private location diary or share it with your family & friends [` App Store`](https://itunes.apple.com/app/mqttitude/id692424691)  
-<details><summary>`objc` </summary>  https://github.com/owntracks/ios<br>  Added April  3, 2016<br>  License: `other`
+<details><summary>`objc` 🔥</summary>  https://github.com/owntracks/ios<br>  Added April  3, 2016<br>  License: `other`
 <div><img height='300' alt='OwnTracks image 1' src='http://a4.mzstatic.com/us/r30/Purple69/v4/c1/6b/39/c16b39c0-da01-94b0-6a59-89d134a79d61/screen520x924.jpeg'> 
 </div>
   </details>
@@ -2240,7 +2246,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - PHPHub: App for https://laravel-china.org/  
-<details><summary>`iphone` `ipad` 🇨🇳 🔥🔥🔥</summary>  https://github.com/Aufree/phphub-ios<br>  Added December  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`iphone` `ipad` 🇨🇳 🔥🔥🔥🔥</summary>  https://github.com/Aufree/phphub-ios<br>  Added December  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
 </div>
   </details>
@@ -2395,7 +2401,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - Designer News App [` App Store`](https://itunes.apple.com/app/designer-news-app/id879990495)  
-<details><summary>`swift` 🔥🔥🔥🔥</summary>  https://github.com/MengTo/DesignerNewsApp<br>  Added March 15, 2015<br>  License: `other`
+<details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/MengTo/DesignerNewsApp<br>  Added March 15, 2015<br>  License: `other`
 <div><img height='300' alt='Designer News App image 1' src='https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png'> 
 </div>
   </details>
@@ -2487,6 +2493,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - HackerNews  
 <details><summary>`swift` 🔥🔥🔥</summary>  https://github.com/amitburst/HackerNews<br>  Added March 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='HackerNews image 1' src='https://github.com/amitburst/HackerNews/raw/master/Resources/screenshot1.png'> 
+</div>
   </details>
 </details> 
 - HackerNews (Y) [` App Store`](https://itunes.apple.com/app/hacker-news-y/id1027140113)  
@@ -2848,6 +2856,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Layer-Parse  
 <details><summary>`swift` `parse` `atlas` 🔥</summary>  https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example<br>  Added January 25, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='Layer-Parse image 1' src='https://github.com/layerhq/Layer-Parse-iOS-Example/raw/master/Assets/Atlas-Layer-Parse-messenger-github.gif'> 
+</div>
   </details>
 </details> 
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API [` App Store`](https://itunes.apple.com/app/layer-player/id949768742)  
@@ -3111,6 +3121,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place [` App Store`](https://itunes.apple.com/app/todo.txt-touch/id491342186)  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/ginatrapani/todo.txt-ios<br>  Added November 30, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Todo.txt image 1' src='http://a4.mzstatic.com/us/r30/Purple6/v4/41/c8/da/41c8dafa-79ab-3405-f45c-faf12256d62e/screen696x696.jpeg'> <img height='300' alt='Todo.txt image 2' src='http://a4.mzstatic.com/us/r30/Purple6/v4/0d/90/54/0d9054bf-a38b-9c6d-44a9-8dccf72a7917/screen696x696.jpeg'> <img height='300' alt='Todo.txt image 3' src='http://a2.mzstatic.com/us/r30/Purple/v4/df/95/0a/df950a0e-dd3a-786a-0ebe-8936062b03be/screen696x696.jpeg'> <img height='300' alt='Todo.txt image 4' src='http://a3.mzstatic.com/us/r30/Purple/v4/aa/4c/3a/aa4c3acf-4b93-ceae-2315-fd25837d2241/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- VIPER-SWIFT: Todo list  
+<details><summary>`swift` </summary>  https://github.com/mutualmobile/VIPER-SWIFT<br>  Added November  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='VIPER-SWIFT image 1' src='http://i.imgur.com/BlZtGZR.png'> 
 </div>
   </details>
 </details> 
@@ -3420,6 +3436,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Plum-O-Meter: Weigh plums (and other small fruit!)  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/FlexMonkey/Plum-O-Meter<br>  Added October 27, 2015<br>  License: `other`
+<div><img height='300' alt='Plum-O-Meter image 1' src='http://i.imgur.com/V3kaLaC.png'> 
+</div>
   </details>
 </details> 
 
@@ -3582,7 +3600,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - RaceMe: Run tracking & ghosting  
-<details><summary>`swift` `parse` 🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
+<details><summary>`swift` `parse` 🔥🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
 <div><img height='300' alt='RaceMe image 1' src='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'> 
 </div>
   </details>
@@ -3610,10 +3628,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Around Me: Display Instagram photos around your location  
 <details><summary>`reactnative` 🔥</summary>  https://github.com/bgryszko/react-native-example<br>  Added October 13, 2015<br>  License: `other`
+<div><img height='300' alt='Around Me image 1' src='https://camo.githubusercontent.com/1f889f2b9c10a575083eff28c875ad57063a9db1/68747470733a2f2f63646e2e7261776769742e636f6d2f62677279737a6b6f2f72656163742d6e61746976652d6578616d706c652f6d61737465722f707265766965772e676966'> 
+</div>
   </details>
 </details> 
 - Assemblies: Developer-focused Meetup clone  
 <details><summary>`reactnative` 🔥</summary>  https://github.com/buildreactnative/assemblies<br>  Added May  2, 2016<br>  License: `other`
+<div><img height='300' alt='Assemblies image 1' src='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-a.png'> <img height='300' alt='Assemblies image 2' src='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-b.png'> <img height='300' alt='Assemblies image 3' src='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-c.png'> 
+</div>
   </details>
 </details> 
 - Calculator: React Native calculator  
@@ -3664,6 +3686,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Hacker News app by jsdf  
 <details><summary>`reactnative` 🔥🔥</summary>  https://github.com/jsdf/ReactNativeHackerNews<br>  Added March 30, 2016<br>  License: `other`
+<div><img height='300' alt='Hacker News app by jsdf image 1' src='https://camo.githubusercontent.com/f4cd843dea61e9f9c10319fea6ecafb6f2b937d7/687474703a2f2f692e696d6775722e636f6d2f67566d727844652e706e67'> <img height='300' alt='Hacker News app by jsdf image 2' src='https://camo.githubusercontent.com/40c061e190af77493771d432dfc75ba1b8332deb/687474703a2f2f692e696d6775722e636f6d2f46594f674259632e706e67'> 
+</div>
   </details>
 </details> 
 - Iceland Earthquakes  
@@ -3685,7 +3709,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - NBA allyoop: NBA game scores  
-<details><summary>`reactnative` 🔥🔥🔥</summary>  https://github.com/wwayne/react-native-nba-app<br>  Added January  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥🔥🔥</summary>  https://github.com/wwayne/react-native-nba-app<br>  Added January  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='NBA allyoop image 1' src='https://cloud.githubusercontent.com/assets/5305874/12059257/dacf1ad0-af92-11e5-920c-ba4818d8dc1d.png'> 
 </div>
   </details>
@@ -3734,6 +3758,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - RSS Reader  
 <details><summary>`reactnative` </summary>  https://github.com/christopherdro/react-native-rss-reader<br>  Added June 22, 2015<br>  License: `other`
+<div><img height='300' alt='RSS Reader image 1' src='https://github.com/christopherdro/react-native-rss-reader/raw/master/RssReaderDemo.gif'> 
+</div>
   </details>
 </details> 
 - Songkick  
@@ -3808,7 +3834,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - RaceMe: Run tracking & ghosting  
-<details><summary>`swift` `parse` 🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
+<details><summary>`swift` `parse` 🔥🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
 <div><img height='300' alt='RaceMe image 1' src='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'> 
 </div>
   </details>
@@ -3863,6 +3889,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - To do  
 <details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/objcio/issue-13-viper<br>  https://www.objc.io/issues/13-architecture/viper/<br>  Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='To do image 1' src='http://i.imgur.com/UhJOVuw.png'> 
+</div>
+  </details>
+</details> 
+- VIPER-SWIFT: Todo list  
+<details><summary>`swift` </summary>  https://github.com/mutualmobile/VIPER-SWIFT<br>  Added November  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='VIPER-SWIFT image 1' src='http://i.imgur.com/BlZtGZR.png'> 
 </div>
   </details>
 </details> 
