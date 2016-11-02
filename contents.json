@@ -1866,6 +1866,7 @@
       ],
       "license": "mit",
       "source": "https://github.com/austinzheng/iOS-2048",
+      "screenshots": ["https://github.com/austinzheng/iOS-2048/raw/master/screenshots/ss1.png?raw=true"],
       "stars": 207,
       "date_added": "Tue Mar 24 07:03:55 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -4009,6 +4010,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/amitburst/HackerNews/raw/master/Resources/screenshot1.png"],
       "date_added": "Thu Mar 19 07:56:27 2015 +0100",
       "suggested_by": "Joacim Löwgren"
     },
@@ -4369,6 +4371,7 @@
       ],
       "license": "apache-2.0",
       "source": "https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example",
+      "screenshots": ["https://github.com/layerhq/Layer-Parse-iOS-Example/raw/master/Assets/Atlas-Layer-Parse-messenger-github.gif"],
       "tags": [
         "swift",
         "parse",
@@ -5847,6 +5850,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["http://i.imgur.com/V3kaLaC.png"],
       "license": "other",
       "date_added": "Tue Oct 27 07:36:05 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -6306,6 +6310,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["https://camo.githubusercontent.com/1f889f2b9c10a575083eff28c875ad57063a9db1/68747470733a2f2f63646e2e7261776769742e636f6d2f62677279737a6b6f2f72656163742d6e61746976652d6578616d706c652f6d61737465722f707265766965772e676966"],
       "description": "Display Instagram photos around your location",
       "source": "https://github.com/bgryszko/react-native-example",
       "stars": 112,
@@ -6320,6 +6325,11 @@
       ],
       "tags": [
         "reactnative"
+      ],
+      "screenshots": [
+        "https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-a.png",
+        "https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-b.png",
+        "https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-c.png"
       ],
       "description": "Developer-focused Meetup clone",
       "source": "https://github.com/buildreactnative/assemblies",
@@ -6600,6 +6610,10 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": [
+        "https://camo.githubusercontent.com/f4cd843dea61e9f9c10319fea6ecafb6f2b937d7/687474703a2f2f692e696d6775722e636f6d2f67566d727844652e706e67",
+        "https://camo.githubusercontent.com/40c061e190af77493771d432dfc75ba1b8332deb/687474703a2f2f692e696d6775722e636f6d2f46594f674259632e706e67"
+      ],
       "source": "https://github.com/jsdf/ReactNativeHackerNews",
       "stars": 204,
       "license": "other",
@@ -6614,6 +6628,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["https://github.com/christopherdro/react-native-rss-reader/raw/master/RssReaderDemo.gif"],
       "source": "https://github.com/christopherdro/react-native-rss-reader",
       "stars": 90,
       "license": "other",
@@ -9158,6 +9173,12 @@
       "description": "Mobile shell terminal based on Mosh",
       "source": "https://github.com/blinksh/blink",
       "itunes": "https://itunes.apple.com/app/id1156707581",
+      "screenshots": [
+     "http://a3.mzstatic.com/us/r30/Purple71/v4/a4/c1/40/a4c1408f-f463-823e-7bb3-fd21b8ccc770/screen696x696.jpeg",
+     "http://a5.mzstatic.com/us/r30/Purple71/v4/32/7f/26/327f2687-8f48-cad8-f1d6-bddb50e64353/screen696x696.jpeg",
+     "http://a3.mzstatic.com/us/r30/Purple62/v4/c0/d2/d8/c0d2d869-6136-2969-8310-d72781769b39/screen696x696.jpeg",
+     "http://a5.mzstatic.com/us/r30/Purple62/v4/b3/7d/9b/b37d9b69-7242-44fb-2059-8fb1e42663e8/screen696x696.jpeg"
+      ],
       "date_added": "Tue Jul 12 07:56:22 2016 -0700",
       "suggested_by": "@dkhamsing",
       "stars": 133
