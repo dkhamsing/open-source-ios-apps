@@ -10630,6 +10630,18 @@
       "license": "mit",
       "date_added": "Nov 2 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Space Zero",
+      "description": "Merchant ships have been stranded in space! Rescue as many as you can, but watch out for enemies!",
+      "source": "https://github.com/xyclos/space_squared",
+      "itunes": "https://itunes.apple.com/app/space-zero/id1141164238",
+      "category-ids": ["game"],
+      "tags": ["swift"],
+      "screenshots": ["https://camo.githubusercontent.com/96fea476cea61ca52742b94833591e40048f6007/687474703a2f2f61332e6d7a7374617469632e636f6d2f75732f7233302f507572706c6534322f76342f34332f36312f64352f34333631643538382d386536352d363431302d303530342d6464303937366265616466392f73637265656e363936783639362e6a706567"],
+      "license": "mit",
+      "date_added": "Nov 2 2016",
+      "suggested_by": "@xyclos"
     }
   ]
 }
