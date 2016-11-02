@@ -10589,6 +10589,15 @@
       "suggested_by": "@vanyaland",
       "date_added": "Nov 1 2016",
       "stars": 0
+    },
+    {
+      "title": "Alphabet-Blocks",
+      "source": "https://github.com/insurgentgames/Alphabet-Blocks",
+      "category-ids": ["game"],
+      "tags": ["archive"],
+      "license": "other",
+      "date_added": "Nov 2 2016",
+      "suggested_by": "@dkhamsing"      
     }
   ]
 }
