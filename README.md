@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-579-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  2, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-580-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  2, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1486,6 +1486,12 @@ Click ► to show more details
 <details><summary>`objc` 🔥</summary>  https://github.com/insurgentgames/Skeleton-Key-iOS<br>  Added May 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
+- Space Zero: Merchant ships have been stranded in space! Rescue as many as you can, but watch out for enemies! [` App Store`](https://itunes.apple.com/app/space-zero/id1141164238)  
+<details><summary>`swift` </summary>  https://github.com/xyclos/space_squared<br>  Added November  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Space Zero image 1' src='https://camo.githubusercontent.com/96fea476cea61ca52742b94833591e40048f6007/687474703a2f2f61332e6d7a7374617469632e636f6d2f75732f7233302f507572706c6534322f76342f34332f36312f64352f34333631643538382d386536352d363431302d303530342d6464303937366265616466392f73637265656e363936783639362e6a706567'> 
+</div>
+  </details>
+</details> 
 - Spare Parts: Simple 2D point & line physics using Verlet integration [` App Store`](https://itunes.apple.com/app/spare-parts/id981297199)  
 <details><summary>`objc` </summary>  https://github.com/adamwulf/spare-parts-app<br>  Added April  6, 2015<br>  License: `other`
 <div><img height='300' alt='Spare Parts image 1' src='http://a2.mzstatic.com/us/r30/Purple5/v4/22/a4/44/22a444e1-7626-03ee-05e7-6bdf58ea577d/screen480x480.jpeg'> 
@@ -2953,7 +2959,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Dono: Password derivation tool  
-<details><summary>`swift` </summary>  https://github.com/dono-app/dono-ios<br>  https://dono-app.github.io/<br>  Added July 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`swift` </summary>  https://github.com/dono-app/dono-ios<br>  Added July 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Dono image 1' src='https://github.com/dono-app/dono-ux/raw/master/gifs/ios-demo.mov.gif '> 
 </div>
   </details>
