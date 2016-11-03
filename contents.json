@@ -2191,6 +2191,7 @@
       "description": "Game of Go",
       "license": "apache-2.0",
       "source": "https://github.com/herzbube/littlego",
+      "itunes": "https://itunes.apple.com/app/little-go/id490753989",
       "stars": 59,
       "date_added": "Sun Mar 6 17:56:52 2016 +0100",
       "suggested_by": "Xabier Gorostidi"
