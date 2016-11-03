@@ -10667,6 +10667,18 @@
       "license": "mit",
       "date_added": "Nov 2 2016",
       "suggested_by": "@xyclos"
+    },
+    {
+      "title": "Articles",
+      "description": "Fetch and display a list of articles",
+      "source": "https://github.com/pedrohperalta/Articles-iOS-VIPER",
+      "homepage": "https://www.ckl.io/blog/ios-project-architecture-using-viper/",
+      "category-ids": ["viper"],
+      "tags": ["swift", "rest"],
+      "screenshots": ["http://i.imgur.com/fEPFBzr.png"],
+      "license": "mit",
+      "date_added": "Nov 3 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
