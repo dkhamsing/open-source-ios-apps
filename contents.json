@@ -957,6 +957,10 @@
       "tags": [
         "swift"
       ],
+      "screenshots": [
+        "https://github.com/contentful-labs/Wunderschnell/raw/master/Screenshots/initial_screen.png",
+        "https://github.com/contentful-labs/Wunderschnell/raw/master/Screenshots/order_successful.png"
+      ],
       "stars": 9,
       "date_added": "Mon May 18 08:52:02 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -1361,6 +1365,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://camo.githubusercontent.com/6c7feaa3d942ee77f00814c71fd1f0c087f4fb23/687474703a2f2f736f66662e6d652f567673482f694f5325323053696d756c61746f7225323053637265656e25323053686f742532304a756e253230362c253230323031342c25323031312e35322e3537253230414d2e706e67"],
       "date_added": "Mon, 26 Jan 2015 19:02:55 -0800",
       "suggested_by": "@dkhamsing"
     },
@@ -1734,6 +1739,11 @@
       "tags": [
         "swift"
       ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/nothingmagical/getcoinsapp.com/master/assets/images/screenshot01.png",
+        "https://raw.githubusercontent.com/nothingmagical/getcoinsapp.com/master/assets/images/screenshot02.png",
+        "https://raw.githubusercontent.com/nothingmagical/getcoinsapp.com/master/assets/images/screenshot03.png"
+      ],
       "date_added": "Mon Jan 26 15:52:27 2015 -0800",
       "suggested_by": "@dkhamsing"
     },
@@ -2063,6 +2073,7 @@
       "category-ids": [
         "spritekit"
       ],
+      "screenshots": ["http://i.imgur.com/anzIXHK.png"],
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/WelkinXie/FiveInARow",
@@ -2169,6 +2180,13 @@
       "tags": [
         "iphone",
         "ipad"
+      ],
+      "screenshots": [
+     "http://a1.mzstatic.com/us/r30/Purple71/v4/ad/36/59/ad3659ad-8c68-5f2f-36ca-fa27d5042e58/screen696x696.jpeg",
+     "http://a2.mzstatic.com/us/r30/Purple62/v4/ba/9e/b6/ba9eb6ca-7c61-2277-4406-3ba863bed714/screen696x696.jpeg",
+     "http://a2.mzstatic.com/us/r30/Purple62/v4/e3/96/b4/e396b4a4-5cd7-847a-a7c4-66f714470699/screen696x696.jpeg",
+     "http://a5.mzstatic.com/us/r30/Purple62/v4/98/48/ab/9848ab1c-831a-c76a-4ad3-c1512b54ef5c/screen696x696.jpeg",
+     "http://a4.mzstatic.com/us/r30/Purple71/v4/9b/52/85/9b528510-9276-04aa-2500-11248a7aca01/screen696x696.jpeg"
       ],
       "description": "Game of Go",
       "license": "apache-2.0",
@@ -2664,6 +2682,7 @@
       "tags": [
         "swift"
       ],
+      "screenshot": ["https://github.com/Palleas/NaughtyKeyboard/raw/master/Images/twitter-keyboard.gif"],
       "date_added": "Mon Nov 16 09:50:37 2015 -0800",
       "suggested_by": "@dkhamsing"
     },
@@ -2758,6 +2777,10 @@
       "title": "GeoTappy",
       "category-ids": [
         "location"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/FWj32S0.png",
+        "http://i.imgur.com/IyfFdCc.png"
       ],
       "description": "Share your location",
       "license": "apache-2.0",
@@ -4970,6 +4993,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["http://i.imgur.com/9Ofn3QC.jpg"],
       "date_added": "Wed Mar 18 11:07:46 2015 -0700",
       "suggested_by": "@dkhamsing"
     },
