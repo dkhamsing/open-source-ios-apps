@@ -1120,6 +1120,13 @@
       "category-ids": [
         "communication"
       ],
+      "screenshots": [
+     "http://a2.mzstatic.com/us/r30/Purple3/v4/1c/6b/1f/1c6b1f4b-d464-9faf-47ba-aab606d62dff/screen696x696.jpeg",
+     "http://a5.mzstatic.com/us/r30/Purple3/v4/af/54/c7/af54c763-96f6-7d4f-0813-1a19d06fb3dc/screen696x696.jpeg",
+     "http://a2.mzstatic.com/us/r30/Purple3/v4/29/12/80/291280a9-87f0-41ad-121d-54ee39ec45df/screen696x696.jpeg",
+     "http://a2.mzstatic.com/us/r30/Purple5/v4/7c/ef/78/7cef78fb-56e1-52e2-d5b4-6fbc833ca32b/screen696x696.jpeg",
+     "http://a3.mzstatic.com/us/r30/Purple5/v4/18/55/21/185521ba-035e-6b2d-362f-0e50b767f5b7/screen696x696.jpeg"
+      ],
       "description": "IRC client",
       "source": "https://github.com/colloquy/colloquy",
       "itunes": "https://itunes.apple.com/app/colloquy-irc-client/id302000478",
@@ -1294,6 +1301,7 @@
         "swift",
         "iphone"
       ],
+      "screenshots": ["http://i.imgur.com/FfNizrW.png"],
       "date_added": "Wed Apr 13 07:02:12 2016 -0700",
       "suggested_by": "@dkhamsing"
     },
@@ -1306,6 +1314,10 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": [
+        "http://res.cloudinary.com/mikkoj/image/upload/v1467119333/nortal-techday-1.mov_triupn.gif",
+        "http://res.cloudinary.com/mikkoj/image/upload/v1467119489/nortal-techday-2.mov_lcvqqx.gif"
+      ],
       "source": "https://github.com/mikkoj/NortalTechDay",
       "stars": 194,
       "license": "mit",
@@ -1317,6 +1329,7 @@
       "category-ids": [
         "conference"
       ],
+      "screenshots": ["http://i.imgur.com/CarzInm.png"],
       "source": "https://github.com/ParsePlatform/ParseDeveloperDay",
       "stars": 92,
       "license": "cc0-1.0",
@@ -1973,6 +1986,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://www.objc.io/images/issue-18/dedicated-9942fc7b.gif"],
       "date_added": "Mon Jan 26 20:19:42 2015 -0800",
       "suggested_by": "JP Simard"
     },
@@ -2061,6 +2075,7 @@
       "category-ids": [
         "game"
       ],
+      "screenshots": ["http://i.imgur.com/MZZeHCf.png"],
       "description": "A game of dungeon exploration, combat & magic, involving characters of diverse skills",
       "homepage": "https://github.com/CliffsDover/crawl/tree/iOS_Release",
       "source": "https://github.com/CliffsDover/crawl",
@@ -2124,6 +2139,7 @@
       "category-ids": [
         "emulator"
       ],
+      "screenshots": ["http://gba4iosapp.com/images/download/gba4ios2_devices.png"],
       "description": "Gameboy, Gameboy Color & Gameboy Advance emulator",
       "source": "https://bitbucket.org/rileytestut/gba4ios/",
       "license": "other",
@@ -3334,6 +3350,7 @@
       "category-ids": [
         "content"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/KMindeguia/movies/master/Gif%20Demo/demo.gif"],
       "description": "Movie info app",
       "source": "https://github.com/KMindeguia/movies",
       "stars": 805,
