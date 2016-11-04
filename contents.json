@@ -546,6 +546,7 @@
         "realm",
         "watchkit"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif"],
       "stars": 95,
       "date_added": "Fri May 1 07:12:00 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -841,6 +842,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/kostiakoval/WatchKit-Apps/master/images/AppsInWatck/Counter.gif"],
       "date_added": "Mon Mar 23 14:21:16 2015 -0700",
       "suggested_by": "@dkhamsing"
     },
@@ -895,6 +897,7 @@
         "swift",
         "watchos2"
       ],
+      "screenshots": ["https://github.com/shu223/watchOS-2-Sampler/raw/master/ResourcesForREADME/animation.gif"],
       "date_added": "Tue Jun 23 08:06:56 2015 -0700",
       "suggested_by": "@dkhamsing"
     },
@@ -2139,7 +2142,7 @@
       "category-ids": [
         "emulator"
       ],
-      "screenshots": ["http://gba4iosapp.com/images/download/gba4ios2_devices.png"],
+      "screenshots": ["http://www.gba4iosapp.com/images/download/gba4ios2_devices.png"],
       "description": "Gameboy, Gameboy Color & Gameboy Advance emulator",
       "source": "https://bitbucket.org/rileytestut/gba4ios/",
       "license": "other",
@@ -3276,6 +3279,7 @@
       "tags": [
         "flickr api"
       ],
+      "screenshots": ["https://github.com/alikaragoz/Flickr-Search/raw/master/github-assets/flickr-screenshot.png"],
       "description": "Photo search",
       "source": "https://github.com/alikaragoz/Flickr-Search",
       "stars": 18,
@@ -3611,6 +3615,7 @@
         "swift",
         "flickr api"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/synboo/SwiftFlickrApp/master/Video.gif"],
       "date_added": "Tue May 5 07:33:10 2015 -0700",
       "suggested_by": "@dkhamsing"
     },
@@ -4372,6 +4377,7 @@
       "category-ids": [
         "sample"
       ],
+      "screenshots": ["http://f.cl.ly/items/2m0W310X0f0J2Z0b0o2r/top.jpg"],
       "description": "Code examples for the new functions in iOS 8",
       "license": "mit",
       "source": "https://github.com/shu223/iOS8-Sampler",
@@ -4391,6 +4397,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/shu223/iOS-9-Sampler/master/ResourcesForREADME/map.gif"],
       "date_added": "Sat Sep 19 18:29:15 2015 +0700",
       "suggested_by": "Vinh Nguyen"
     },
@@ -4578,6 +4585,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/shagedorn/StateRestorationDemo/master/Presentation/app_screenshot.png"],
       "stars": 26,
       "license": "bsd-3-clause",
       "date_added": "Mon Jan 25 08:16:01 2016 -0800",
@@ -4866,6 +4874,10 @@
       "stars": 226,
       "tags": [
         "swift"
+      ],
+      "screenshots": [
+        "https://github.com/JakeLin/Todo/raw/master/Screenshots/1.png",
+        "https://github.com/JakeLin/Todo/raw/master/Screenshots/2.png"
       ],
       "license": "other",
       "date_added": "Mon Nov 30 07:46:58 2015 -0800",
@@ -5251,6 +5263,7 @@
       "category-ids": [
         "misc"
       ],
+      "screenshots": ["http://i.imgur.com/h2ybAgQ.png"],
       "description": "Configurable card decks",
       "source": "https://github.com/aharren/CardDecks",
       "stars": 32,
@@ -5878,6 +5891,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://github.com/FlexMonkey/ForceSketch/raw/master/ForceSketch/ForceSketch.gif"],
       "license": "other",
       "date_added": "Wed Oct 28 15:05:45 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -6390,6 +6404,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["http://i.imgur.com/8OKDHjU.png"],
       "description": "React Native calculator",
       "license": "mit",
       "source": "https://github.com/benoitvallon/react-native-nw-react-calculator",
@@ -6475,6 +6490,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["https://github.com/brentvatne/facebook-login/raw/master/demo!!!.gif"],
       "source": "https://github.com/brentvatne/react-native-login",
       "stars": 475,
       "license": "other",
@@ -6490,6 +6506,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true"],
       "description": "iOS's Stocks app written in React Native",
       "license": "mit",
       "source": "https://github.com/7kfpun/FinanceReactNative",
@@ -6560,6 +6577,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["https://github.com/alexissan/ReactNativeWorkshop/raw/master/Screenshots/scsh1.png?raw=true"],
       "source": "https://github.com/alexissan/ReactNativeWorkshop",
       "stars": 43,
       "license": "other",
@@ -6639,6 +6657,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["https://koenig-media.raywenderlich.com/uploads/2015/03/PropertyFinder.png"],
       "source": "https://github.com/ColinEberhardt/ReactNative-PropertyFinder",
       "stars": 258,
       "license": "other",
@@ -6718,6 +6737,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["https://github.com/christopherdro/react-native-sudoku/raw/master/demo.gif"],
       "source": "https://github.com/christopherdro/react-native-sudoku",
       "stars": 42,
       "license": "other",
@@ -6945,6 +6965,7 @@
       ],
       "source": "https://github.com/tailec/boilerplate",
       "stars": 241,
+      "screenshots": ["http://i.imgur.com/611wefH.png"],
       "tags": [
         "swift",
         "mvvm",
@@ -7309,6 +7330,7 @@
       "category-ids": [
         "emulator"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/ogoguel/activegs-ios/master/README.images/screen5.png"],
       "description": "Apple II/IIGS Emulator with in-app game browser, MFi & iCade controller support",
       "source": "https://github.com/ogoguel/activegs-ios",
       "stars": 6,
@@ -7356,6 +7378,11 @@
       "title": "PPSSPP",
       "category-ids": [
         "emulator"
+      ],
+      "screenshots": [
+        "http://www.ppsspp.org/img/screens/small/finalfantasycrisiscore.jpg",
+        "http://www.ppsspp.org/img/screens/small/burnoutdominator.jpg",
+        "http://www.ppsspp.org/img/screens/small/littlebigplanet.jpg"
       ],
       "description": "PSP emulator",
       "source": "https://github.com/hrydgard/ppsspp",
@@ -7657,6 +7684,7 @@
       "category-ids": [
         "apple-tv"
       ],
+      "screenshots": ["https://github.com/omichde/Telemat-tvOS/raw/master/telemat.jpg"],
       "description": "Watch Public German Broadcast/TV company streams",
       "lang": "deu",
       "license": "gpl-2.0",
@@ -8148,6 +8176,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["https://preyproject.com/img/home/report-simple-2.png"],
       "license": "gpl-3.0",
       "stars": 7,
       "date_added": "Wed Jun 1 23:03:39 2016 -0600",
@@ -8177,6 +8206,7 @@
         "media",
         "official"
       ],
+      "screenshots": ["http://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg"],
       "description": "A popular media player & entertainment hub",
       "source": "https://github.com/xbmc/xbmc",
       "homepage": "http://kodi.wiki/view/IOS",
@@ -9058,6 +9088,7 @@
       "category-ids": [
         "emulator"
       ],
+      "screenshots": ["https://namedfork.net/images/minivmac4ios/keyboard.png"],
       "description": "Early 68K Macintosh emulator",
       "source": "https://github.com/zydeco/minivmac4ios",
       "homepage": "https://namedfork.net/minivmac/",
@@ -9146,6 +9177,7 @@
       "tags": [
         "spritekit"
       ],
+      "screenshots": ["https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567"],
       "license": "mit",
       "source": "https://github.com/danqing/2048",
       "stars": 856,
@@ -10406,6 +10438,10 @@
         "swift",
         "viper"
       ],
+      "screenshots": [
+        "http://ashwinpreet.github.io/react-native/CurrencyConverterApp/ScreenShots/screen1.png",
+        "http://ashwinpreet.github.io/react-native/CurrencyConverterApp/ScreenShots/screen2.png"
+      ],
       "license": "mit",
       "itunes": "https://itunes.apple.com/app/currency-converter-free-quick/id1163490933",
       "date_added": "Oct 24 2016",
@@ -10706,7 +10742,7 @@
       "tags": ["swift", "afnetworking"],
       "screenshots": [
         "https://raw.githubusercontent.com/filipealva/Cepp/res/searchi5.png",
-        "https://raw.github.com/filipealva/Cepp/res/detailsi5.png"
+        "https://raw.githubusercontent.com/filipealva/Cepp/res/detailsi5.png"
       ],
       "lang": "por",
       "license": "other",
