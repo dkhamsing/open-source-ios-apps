@@ -10679,6 +10679,21 @@
       "license": "mit",
       "date_added": "Nov 3 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Cepp",
+      "description": "Find information on addresses",
+      "source": "https://github.com/filipealva/Cepp",
+      "category-ids": ["location"],
+      "tags": ["swift", "afnetworking"],
+      "screenshots": [
+        "https://raw.githubusercontent.com/filipealva/Cepp/res/searchi5.png",
+        "https://raw.github.com/filipealva/Cepp/res/detailsi5.png"
+      ],
+      "lang": "por",
+      "license": "other",
+      "date_added": "Nov 4 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
