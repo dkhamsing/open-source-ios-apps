@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-581-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  3, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-582-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  4, 2016-lightgrey.svg)
 
 Jump to
 
@@ -615,8 +615,10 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Colloquy: IRC client  
+- Colloquy: IRC client [` App Store`](https://itunes.apple.com/app/colloquy-irc-client/id302000478)  
 <details><summary>`objc` </summary>  https://github.com/colloquy/colloquy<br>  Added January 27, 2016<br>  License: `other`
+<div><img height='300' alt='Colloquy image 1' src='http://a2.mzstatic.com/us/r30/Purple3/v4/1c/6b/1f/1c6b1f4b-d464-9faf-47ba-aab606d62dff/screen696x696.jpeg'> <img height='300' alt='Colloquy image 2' src='http://a5.mzstatic.com/us/r30/Purple3/v4/af/54/c7/af54c763-96f6-7d4f-0813-1a19d06fb3dc/screen696x696.jpeg'> <img height='300' alt='Colloquy image 3' src='http://a2.mzstatic.com/us/r30/Purple3/v4/29/12/80/291280a9-87f0-41ad-121d-54ee39ec45df/screen696x696.jpeg'> <img height='300' alt='Colloquy image 4' src='http://a2.mzstatic.com/us/r30/Purple5/v4/7c/ef/78/7cef78fb-56e1-52e2-d5b4-6fbc833ca32b/screen696x696.jpeg'> <img height='300' alt='Colloquy image 5' src='http://a3.mzstatic.com/us/r30/Purple5/v4/18/55/21/185521ba-035e-6b2d-362f-0e50b767f5b7/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - IRCCloud: IRC client/service [` App Store`](https://itunes.apple.com/app/irccloud/id672699103)  
@@ -716,6 +718,8 @@ Click ► to show more details
  
 - EventBlankApp: Template event / conference app  
 <details><summary>`swift` `iphone` 🔥🔥</summary>  https://github.com/icanzilb/EventBlankApp<br>  Added April 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='EventBlankApp image 1' src='http://i.imgur.com/FfNizrW.png'> 
+</div>
   </details>
 </details> 
 - F8 2016: Official F8 app  
@@ -726,10 +730,14 @@ Click ► to show more details
 </details> 
 - Nortal TechDay 2015  
 <details><summary>`reactnative` 🔥</summary>  https://github.com/mikkoj/NortalTechDay<br>  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Nortal TechDay 2015 image 1' src='http://res.cloudinary.com/mikkoj/image/upload/v1467119333/nortal-techday-1.mov_triupn.gif'> <img height='300' alt='Nortal TechDay 2015 image 2' src='http://res.cloudinary.com/mikkoj/image/upload/v1467119489/nortal-techday-2.mov_lcvqqx.gif'> 
+</div>
   </details>
 </details> 
 - Parse 2013 Developer Day  
 <details><summary>`objc` </summary>  https://github.com/ParsePlatform/ParseDeveloperDay<br>  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
+<div><img height='300' alt='Parse 2013 Developer Day image 1' src='http://i.imgur.com/CarzInm.png'> 
+</div>
   </details>
 </details> 
 - Parties for WWDC [` App Store`](https://itunes.apple.com/app/parties-for-wwdc/id879924066)  
@@ -978,6 +986,8 @@ Click ► to show more details
 </details> 
 - GBA4iOS: Gameboy, Gameboy Color & Gameboy Advance emulator  
 <details><summary>`objc` </summary>  https://bitbucket.org/rileytestut/gba4ios/<br>  Added November 21, 2015<br>  License: `other`
+<div><img height='300' alt='GBA4iOS image 1' src='http://gba4iosapp.com/images/download/gba4ios2_devices.png'> 
+</div>
   </details>
 </details> 
 - iAmiga: Commodore Amiga emulator, based on UAE  
@@ -1288,6 +1298,8 @@ Click ► to show more details
 </details> 
 - CardsAgainst: Cards Against Humanity app  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/jpsim/CardsAgainst<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='CardsAgainst image 1' src='https://www.objc.io/images/issue-18/dedicated-9942fc7b.gif'> 
+</div>
   </details>
 </details> 
 - Castle Hassle: A real-time physical game where you build your kingdom while crushing your opponents  
@@ -1354,6 +1366,8 @@ Click ► to show more details
 </details> 
 - Dungeon Crawl: A game of dungeon exploration, combat & magic, involving characters of diverse skills  
 <details><summary>`objc` </summary>  https://github.com/CliffsDover/crawl<br>  https://github.com/CliffsDover/crawl/tree/iOS_Release<br>  Added March 23, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='Dungeon Crawl image 1' src='http://i.imgur.com/MZZeHCf.png'> 
+</div>
   </details>
 </details> 
 - FlappyBird clone - Scary Flight [` App Store`](https://itunes.apple.com/app/scary-flight/id824428528)  
@@ -1406,7 +1420,7 @@ Click ► to show more details
 </details> 
 - Heredox: Place tiles to form your allegiance's symbols  
 <details><summary>`cocos2d` </summary>  https://github.com/RolandasRazma/Heredox<br>  http://www.heredox.com/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Heredox image 1' src='https://camo.githubusercontent.com/01689deda05edf62331dbe93fa2aff94ad692e37/687474703a2f2f613838322e70686f626f732e6170706c652e636f6d2f75732f72313030302f3130322f507572706c652f76342f33632f31622f38372f33633162383732622d363032302d616365392d366637302d3731636536303731353331372f6d7a6c2e72657065756876742e333230783438302d37352e6a7067'> <img height='300' alt='Heredox image 2' src='https://camo.githubusercontent.com/dd7fd312f4f4670b02ecfd0da7fce74567618a62/687474703a2f2f613630362e70686f626f732e6170706c652e636f6d2f75732f72313030302f3037342f507572706c652f76342f33372f35302f61382f33373530613866312d623765652d393839372d323334362d3936643662643930663362342f6d7a6c2e796d6f696a696c782e333230783438302d37352e6a7067'> 
+<div><img height='300' alt='Heredox image 1' src='http://i.imgur.com/Wg6TIR7.jpg'> <img height='300' alt='Heredox image 2' src='https://camo.githubusercontent.com/dd7fd312f4f4670b02ecfd0da7fce74567618a62/687474703a2f2f613630362e70686f626f732e6170706c652e636f6d2f75732f72313030302f3037342f507572706c652f76342f33372f35302f61382f33373530613866312d623765652d393839372d323334362d3936643662643930663362342f6d7a6c2e796d6f696a696c782e333230783438302d37352e6a7067'> 
 </div>
   </details>
 </details> 
@@ -1744,6 +1758,12 @@ Click ► to show more details
  
 - Alarm: Geolocation based alarm app for travelers  
 <details><summary>`swift` 🔥</summary>  https://github.com/ChrisChares/swift-alarm<br>  Added March 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- Cepp: Find information on addresses  
+<details><summary>`swift` `afnetworking` 🇵🇹 </summary>  https://github.com/filipealva/Cepp<br>  Added November  4, 2016<br>  License: `other`
+<div><img height='300' alt='Cepp image 1' src='https://raw.githubusercontent.com/filipealva/Cepp/res/searchi5.png'> <img height='300' alt='Cepp image 2' src='https://raw.github.com/filipealva/Cepp/res/detailsi5.png'> 
+</div>
   </details>
 </details> 
 - Closebox: Find the Closest Postbox [` App Store`](https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813)  
@@ -2223,6 +2243,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - movies: Movie info app  
 <details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/KMindeguia/movies<br>  Added February 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='movies image 1' src='https://raw.githubusercontent.com/KMindeguia/movies/master/Gif%20Demo/demo.gif'> 
+</div>
   </details>
 </details> 
 - OCiney: Movie info app [` App Store`](https://itunes.apple.com/app/id955480687)  
@@ -3750,6 +3772,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Nortal TechDay 2015  
 <details><summary>`reactnative` 🔥</summary>  https://github.com/mikkoj/NortalTechDay<br>  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Nortal TechDay 2015 image 1' src='http://res.cloudinary.com/mikkoj/image/upload/v1467119333/nortal-techday-1.mov_triupn.gif'> <img height='300' alt='Nortal TechDay 2015 image 2' src='http://res.cloudinary.com/mikkoj/image/upload/v1467119489/nortal-techday-2.mov_lcvqqx.gif'> 
+</div>
   </details>
 </details> 
 - PocketNode: Lightweight Node REPL  
