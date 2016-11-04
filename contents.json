@@ -1122,6 +1122,7 @@
       ],
       "description": "IRC client",
       "source": "https://github.com/colloquy/colloquy",
+      "itunes": "https://itunes.apple.com/app/colloquy-irc-client/id302000478",
       "stars": 27,
       "license": "other",
       "date_added": "Wed Jan 27 07:15:24 2016 -0800",
