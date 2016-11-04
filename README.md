@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-580-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  2, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-581-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  3, 2016-lightgrey.svg)
 
 Jump to
 
@@ -359,6 +359,8 @@ Click ► to show more details
 </details> 
 - Wunderschnell: Order the right product with one tap on your wrist  
 <details><summary>`swift` </summary>  https://github.com/contentful-labs/Wunderschnell<br>  Added May 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Wunderschnell image 1' src='https://github.com/contentful-labs/Wunderschnell/raw/master/Screenshots/initial_screen.png'> <img height='300' alt='Wunderschnell image 2' src='https://github.com/contentful-labs/Wunderschnell/raw/master/Screenshots/order_successful.png'> 
+</div>
   </details>
 </details> 
 
@@ -754,6 +756,8 @@ Click ► to show more details
 </details> 
 - Valio Con 2014 Schedule  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/soffes/valio<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Valio Con 2014 Schedule image 1' src='https://camo.githubusercontent.com/6c7feaa3d942ee77f00814c71fd1f0c087f4fb23/687474703a2f2f736f66662e6d652f567673482f694f5325323053696d756c61746f7225323053637265656e25323053686f742532304a756e253230362c253230323031342c25323031312e35322e3537253230414d2e706e67'> 
+</div>
   </details>
 </details> 
 
@@ -1223,6 +1227,8 @@ Click ► to show more details
 </details> 
 - Coins: Bitcoin value tracker  
 <details><summary>`swift` 🔥</summary>  https://github.com/nothingmagical/coins<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Coins image 1' src='https://raw.githubusercontent.com/nothingmagical/getcoinsapp.com/master/assets/images/screenshot01.png'> <img height='300' alt='Coins image 2' src='https://raw.githubusercontent.com/nothingmagical/getcoinsapp.com/master/assets/images/screenshot02.png'> <img height='300' alt='Coins image 3' src='https://raw.githubusercontent.com/nothingmagical/getcoinsapp.com/master/assets/images/screenshot03.png'> 
+</div>
   </details>
 </details> 
 
@@ -1414,8 +1420,10 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- littlego: Game of Go  
+- littlego: Game of Go [` App Store`](https://itunes.apple.com/app/little-go/id490753989)  
 <details><summary>`iphone` `ipad` </summary>  https://github.com/herzbube/littlego<br>  Added March  6, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='littlego image 1' src='http://a1.mzstatic.com/us/r30/Purple71/v4/ad/36/59/ad3659ad-8c68-5f2f-36ca-fa27d5042e58/screen696x696.jpeg'> <img height='300' alt='littlego image 2' src='http://a2.mzstatic.com/us/r30/Purple62/v4/ba/9e/b6/ba9eb6ca-7c61-2277-4406-3ba863bed714/screen696x696.jpeg'> <img height='300' alt='littlego image 3' src='http://a2.mzstatic.com/us/r30/Purple62/v4/e3/96/b4/e396b4a4-5cd7-847a-a7c4-66f714470699/screen696x696.jpeg'> <img height='300' alt='littlego image 4' src='http://a5.mzstatic.com/us/r30/Purple62/v4/98/48/ab/9848ab1c-831a-c76a-4ad3-c1512b54ef5c/screen696x696.jpeg'> <img height='300' alt='littlego image 5' src='http://a4.mzstatic.com/us/r30/Purple71/v4/9b/52/85/9b528510-9276-04aa-2500-11248a7aca01/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - Lumio: Puzzle game  
@@ -1488,7 +1496,7 @@ Click ► to show more details
 </details> 
 - Space Zero: Merchant ships have been stranded in space! Rescue as many as you can, but watch out for enemies! [` App Store`](https://itunes.apple.com/app/space-zero/id1141164238)  
 <details><summary>`swift` </summary>  https://github.com/xyclos/space_squared<br>  Added November  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Space Zero image 1' src='https://camo.githubusercontent.com/96fea476cea61ca52742b94833591e40048f6007/687474703a2f2f61332e6d7a7374617469632e636f6d2f75732f7233302f507572706c6534322f76342f34332f36312f64352f34333631643538382d386536352d363431302d303530342d6464303937366265616466392f73637265656e363936783639362e6a706567'> 
+<div><img height='300' alt='Space Zero image 1' src='http://a1.mzstatic.com/us/r30/Purple62/v4/9a/a7/5b/9aa75b3a-0dec-0834-7475-dbd611e0ba5d/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -1535,6 +1543,8 @@ Click ► to show more details
 </details> 
 - Five In A Row (五子棋)  
 <details><summary>`objc` 🇨🇳 </summary>  https://github.com/WelkinXie/FiveInARow<br>  Added May  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Five In A Row (五子棋) image 1' src='http://i.imgur.com/anzIXHK.png'> 
+</div>
   </details>
 </details> 
 - GrubbyWorm: Simple digital worm game  
@@ -1717,6 +1727,8 @@ Click ► to show more details
 </details> 
 - NaughtyKeyboard: Keyboard that supports The Big List of Naughty Strings  
 <details><summary>`swift` 🔥🔥🔥</summary>  https://github.com/Palleas/NaughtyKeyboard<br>  Added November 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='NaughtyKeyboard image 1' src='https://github.com/Palleas/NaughtyKeyboard/raw/master/Images/twitter-keyboard.gif'> 
+</div>
   </details>
 </details> 
 - Slidden: Customizable keyboard  
@@ -1766,6 +1778,8 @@ Click ► to show more details
 </details> 
 - GeoTappy: Share your location  
 <details><summary>`objc` </summary>  https://github.com/GeoTappy/GeoTappy-iOS<br>  Added April 14, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='GeoTappy image 1' src='http://i.imgur.com/FWj32S0.png'> <img height='300' alt='GeoTappy image 2' src='http://i.imgur.com/IyfFdCc.png'> 
+</div>
   </details>
 </details> 
 - Grove: Crowd-sourced hammock locations  
@@ -3282,6 +3296,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - SwiftWeather  
 <details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/JakeLin/SwiftWeather<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='SwiftWeather image 1' src='http://i.imgur.com/9Ofn3QC.jpg'> 
+</div>
   </details>
 </details> 
 - Tropos Weather [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376)  
@@ -3857,6 +3873,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://itunes.apple.com/app/id1092988367)  
 <details><summary>`viper` </summary>  https://github.com/ryanipete/AmericanChronicle<br>  http://ryanipete.com/AmericanChronicle/<br>  Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='American Chronicle image 1' src='http://a5.mzstatic.com/us/r30/Purple60/v4/1e/82/3b/1e823b8a-d10c-2085-2063-1d18ba68ce2e/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Articles: Fetch and display a list of articles  
+<details><summary>`swift` `rest` </summary>  https://github.com/pedrohperalta/Articles-iOS-VIPER<br>  https://www.ckl.io/blog/ios-project-architecture-using-viper/<br>  Added November  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Articles image 1' src='http://i.imgur.com/fEPFBzr.png'> 
 </div>
   </details>
 </details> 
