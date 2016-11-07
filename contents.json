@@ -10748,6 +10748,26 @@
       "license": "other",
       "date_added": "Nov 4 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Monal",
+      "description": "Connect to your chat server without having to give a third party access to your password or messages",
+      "category-ids": [
+        "communication"
+      ],
+      "tags": ["xmpp"],
+      "screenshots": [
+     "http://a3.mzstatic.com/us/r30/Purple69/v4/ca/27/98/ca279896-a860-e33f-ef2c-cfdc1c62dbdc/screen696x696.jpeg",
+     "http://a5.mzstatic.com/us/r30/Purple49/v4/24/53/b6/2453b64c-0c67-1e71-86f8-d96482ae992a/screen696x696.jpeg",
+     "http://a2.mzstatic.com/us/r30/Purple69/v4/b2/e8/b2/b2e8b2f2-160e-19d2-1e38-94c9ab629b78/screen696x696.jpeg",
+     "http://a4.mzstatic.com/us/r30/Purple69/v4/68/4c/ec/684cecd3-4d00-b658-9395-57ea1dafef47/screen696x696.jpeg",
+     "http://a3.mzstatic.com/us/r30/Purple69/v4/c4/58/60/c458604e-d368-eb11-c315-7631bece7485/screen696x696.jpeg"
+      ],
+      "source": "https://github.com/anurodhp/Monal",
+      "itunes": "https://itunes.apple.com/app/monal-free-xmpp-chat/id317711500",
+      "license": "other",
+      "date_added": "Nov 7 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
