@@ -4955,7 +4955,7 @@
         "Typhoon"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/c77785b3e9e4c5fe174593951c661d151b4727b1/687474703a2f2f747970686f6f6e6672616d65776f726b2e6f72672f696d616765732f706f7274666f6c696f2f506f636b6574466f726563617374332e676966"
+        "http://typhoonframework.org/images/portfolio/PocketForecast3.gif"
       ],
       "date_added": "Tue Mar 24 10:16:48 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -6491,7 +6491,7 @@
       "tags": [
         "reactnative"
       ],
-      "screenshots": ["https://github.com/brentvatne/react-native-login/raw/master/demo!!!.gif "],
+      "screenshots": ["https://github.com/brentvatne/react-native-login/raw/master/demo!!!.gif"],
       "source": "https://github.com/brentvatne/react-native-login",
       "stars": 475,
       "license": "other",
@@ -7181,7 +7181,7 @@
       ],
       "license": "bsd-2-clause",
       "source": "https://github.com/nothingmagical/cheddar-ios",
-      "itunes": "https://itunes.apple.com/app/cheddar-plus/id919567005",      
+      "itunes": "https://itunes.apple.com/app/cheddar-plus/id919567005",
       "tags": [
         "archive"
       ],
@@ -9439,7 +9439,7 @@
         "swift"
       ],
       "screenshots": [
-        "https://github.com/dono-app/dono-ux/raw/master/gifs/ios-demo.mov.gif "
+        "https://github.com/dono-app/dono-ux/raw/master/gifs/ios-demo.mov.gif"
       ],
       "license": "gpl-3.0",
       "date_added": "Thu Jul 14 22:10:05 2016 +0200",
