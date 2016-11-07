@@ -1104,7 +1104,8 @@
       "category-ids": [
         "communication"
       ],
-      "description": "Send messages with OTR encryption over XMPP",
+      "tags": ["xmpp"],
+      "description": "Send messages with OTR encryption",
       "license": "gpl-3.0",
       "source": "https://github.com/ChatSecure/ChatSecure-iOS",
       "itunes": "https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063",
