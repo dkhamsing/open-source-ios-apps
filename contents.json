@@ -6491,7 +6491,7 @@
       "tags": [
         "reactnative"
       ],
-      "screenshots": ["https://github.com/brentvatne/facebook-login/raw/master/demo!!!.gif"],
+      "screenshots": ["https://github.com/brentvatne/react-native-login/raw/master/demo!!!.gif "],
       "source": "https://github.com/brentvatne/react-native-login",
       "stars": 475,
       "license": "other",
@@ -7154,6 +7154,7 @@
       "tags": [
         "archive"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/omz/AppSales-Mobile/51aa7b090567f8ca4d7e9bdf5221d16c65cef7f3/Screenshot.png"],
       "stars": 1931,
       "license": "bsd-2-clause",
       "date_added": "Mon Oct 26 07:38:58 2015 -0700",
@@ -7182,6 +7183,13 @@
       "source": "https://github.com/nothingmagical/cheddar-ios",
       "tags": [
         "archive"
+      ],
+      "screenshots": [
+     "http://a4.mzstatic.com/us/r30/Purple1/v4/9a/62/aa/9a62aacf-1164-b8bd-6930-dc255845dd9f/screen696x696.jpeg",
+     "http://a4.mzstatic.com/us/r30/Purple3/v4/a1/8d/59/a18d5943-4879-4185-a788-022db7580328/screen696x696.jpeg",
+     "http://a3.mzstatic.com/us/r30/Purple3/v4/f1/cd/35/f1cd3508-e061-a706-91e0-46cb423d1be0/screen696x696.jpeg",
+     "http://a4.mzstatic.com/us/r30/Purple4/v4/ff/da/47/ffda478b-be96-75c3-e6cf-2fae62df7592/screen696x696.jpeg",
+     "http://a2.mzstatic.com/us/r30/Purple4/v4/d9/23/46/d9234681-13ea-a11c-de7c-bd2cb05ae11a/screen696x696.jpeg"
       ],
       "stars": 3109,
       "date_added": "Mon Jan 26 19:23:07 2015 -0800",
