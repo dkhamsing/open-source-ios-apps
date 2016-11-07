@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-582-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  4, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-582-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  7, 2016-lightgrey.svg)
 
 Jump to
 
@@ -126,6 +126,8 @@ Click ► to show more details
 </details> 
 - Telemat-tvOS: Watch Public German Broadcast/TV company streams  
 <details><summary>`objc` 🇩🇪 </summary>  https://github.com/omichde/Telemat-tvOS<br>  Added May 31, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='Telemat-tvOS image 1' src='https://github.com/omichde/Telemat-tvOS/raw/master/telemat.jpg'> 
+</div>
   </details>
 </details> 
 - UitzendingGemist by 4np: Uitgebreide UitzendingGemist app voor Nederland  
@@ -229,6 +231,8 @@ Click ► to show more details
 </details> 
 - Done: To-do list data sharing between extension & main app  
 <details><summary>`swift` `realm` `watchkit` </summary>  https://github.com/FancyPixel/done-swift<br>  Added May  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Done image 1' src='https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif'> 
+</div>
   </details>
 </details> 
 - FlickrWatch: Apple Watch face  
@@ -323,6 +327,8 @@ Click ► to show more details
 </details> 
 - WatchKit-Apps: Tutorials app  
 <details><summary>`swift` 🔥🔥🔥🔥</summary>  https://github.com/kostiakoval/WatchKit-Apps<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='WatchKit-Apps image 1' src='https://raw.githubusercontent.com/kostiakoval/WatchKit-Apps/master/images/AppsInWatck/Counter.gif'> 
+</div>
   </details>
 </details> 
 - Watchman: Hangman game on your wrist  
@@ -339,6 +345,8 @@ Click ► to show more details
 </details> 
 - watchOS-2-Sampler: watchOS 2 new features example code  
 <details><summary>`swift` `watchos2` 🔥🔥🔥</summary>  https://github.com/shu223/watchOS-2-Sampler<br>  Added June 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='watchOS-2-Sampler image 1' src='https://github.com/shu223/watchOS-2-Sampler/raw/master/ResourcesForREADME/animation.gif'> 
+</div>
   </details>
 </details> 
 - WatchPics: Instagram app  
@@ -411,6 +419,8 @@ Click ► to show more details
  
 - Calculator: React Native calculator  
 <details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/benoitvallon/react-native-nw-react-calculator<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Calculator image 1' src='http://i.imgur.com/8OKDHjU.png'> 
+</div>
   </details>
 </details> 
 - Coffee Ratio: Calculates grams of water needed given grams of coffee based off ratio chosen  
@@ -520,6 +530,8 @@ Click ► to show more details
 </details> 
 - 2048  
 <details><summary>`spritekit` 🔥🔥🔥</summary>  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
+</div>
   </details>
 </details> 
 - Anypic: Mobile & web app that lets users share photos similar to Instagram [` App Store`](https://itunes.apple.com/app/anypic/id539741538)  
@@ -530,6 +542,8 @@ Click ► to show more details
 </details> 
 - Finance: iOS's Stocks app written in React Native  
 <details><summary>`reactnative` 🔥🔥🔥</summary>  https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Finance image 1' src='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'> 
+</div>
   </details>
 </details> 
 - FlappySwift: Swift implementation of Flappy Bird  
@@ -902,7 +916,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Github-Swift  
+- GitHub-Swift  
 <details><summary>`swift` </summary>  https://github.com/acmacalister/Github-Swift<br>  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
@@ -978,6 +992,8 @@ Click ► to show more details
  
 - ActiveGS: Apple II/IIGS Emulator with in-app game browser, MFi & iCade controller support  
 <details><summary>`objc` </summary>  https://github.com/ogoguel/activegs-ios<br>  Added May 13, 2016<br>  License: `other`
+<div><img height='300' alt='ActiveGS image 1' src='https://raw.githubusercontent.com/ogoguel/activegs-ios/master/README.images/screen5.png'> 
+</div>
   </details>
 </details> 
 - DOSPad: DOSBox  
@@ -986,7 +1002,7 @@ Click ► to show more details
 </details> 
 - GBA4iOS: Gameboy, Gameboy Color & Gameboy Advance emulator  
 <details><summary>`objc` </summary>  https://bitbucket.org/rileytestut/gba4ios/<br>  Added November 21, 2015<br>  License: `other`
-<div><img height='300' alt='GBA4iOS image 1' src='http://gba4iosapp.com/images/download/gba4ios2_devices.png'> 
+<div><img height='300' alt='GBA4iOS image 1' src='http://www.gba4iosapp.com/images/download/gba4ios2_devices.png'> 
 </div>
   </details>
 </details> 
@@ -1000,6 +1016,8 @@ Click ► to show more details
 </details> 
 - Mini vMac: Early 68K Macintosh emulator  
 <details><summary>`objc` </summary>  https://github.com/zydeco/minivmac4ios<br>  https://namedfork.net/minivmac/<br>  Added July 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='Mini vMac image 1' src='https://namedfork.net/images/minivmac4ios/keyboard.png'> 
+</div>
   </details>
 </details> 
 - nds4ios: Nintendo DS emulator, port of DeSmuME  
@@ -1008,6 +1026,8 @@ Click ► to show more details
 </details> 
 - PPSSPP: PSP emulator  
 <details><summary>`objc` 🔥🔥🔥🔥🔥</summary>  https://github.com/hrydgard/ppsspp<br>  Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='PPSSPP image 1' src='http://www.ppsspp.org/img/screens/small/finalfantasycrisiscore.jpg'> <img height='300' alt='PPSSPP image 2' src='http://www.ppsspp.org/img/screens/small/burnoutdominator.jpg'> <img height='300' alt='PPSSPP image 3' src='http://www.ppsspp.org/img/screens/small/littlebigplanet.jpg'> 
+</div>
   </details>
 </details> 
 - Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more  
@@ -1260,6 +1280,8 @@ Click ► to show more details
 </details> 
 - 2048  
 <details><summary>`spritekit` 🔥🔥🔥</summary>  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
+</div>
   </details>
 </details> 
 - Aeropack: Steampunk retro 2D platformer  
@@ -1543,6 +1565,8 @@ Click ► to show more details
  
 - 2048  
 <details><summary>`spritekit` 🔥🔥🔥</summary>  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
+</div>
   </details>
 </details> 
 - Chess  
@@ -1762,7 +1786,7 @@ Click ► to show more details
 </details> 
 - Cepp: Find information on addresses  
 <details><summary>`swift` `afnetworking` 🇵🇹 </summary>  https://github.com/filipealva/Cepp<br>  Added November  4, 2016<br>  License: `other`
-<div><img height='300' alt='Cepp image 1' src='https://raw.githubusercontent.com/filipealva/Cepp/res/searchi5.png'> <img height='300' alt='Cepp image 2' src='https://raw.github.com/filipealva/Cepp/res/detailsi5.png'> 
+<div><img height='300' alt='Cepp image 1' src='https://raw.githubusercontent.com/filipealva/Cepp/res/searchi5.png'> <img height='300' alt='Cepp image 2' src='https://raw.githubusercontent.com/filipealva/Cepp/res/detailsi5.png'> 
 </div>
   </details>
 </details> 
@@ -1912,6 +1936,8 @@ Click ► to show more details
 </details> 
 - Prey: Track lost or stolen devices & perform actions remotely  
 <details><summary>`swift` </summary>  https://github.com/prey/prey-swift-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Prey image 1' src='https://preyproject.com/img/home/report-simple-2.png'> 
+</div>
   </details>
 </details> 
 - S.I.T. (雕刻时光): An app for Chinese cafe chain [Diaokeshiguang](https://www.sitcoffee.com/) [` App Store`](https://itunes.apple.com/app/diao-ke-shi-guang/id440983941)  
@@ -2013,6 +2039,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - Kodi: A popular media player & entertainment hub  
 <details><summary>`objc` 🔥🔥🔥🔥🔥</summary>  https://github.com/xbmc/xbmc<br>  http://kodi.wiki/view/IOS<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='Kodi image 1' src='http://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg'> 
+</div>
   </details>
 </details> 
 - Kodi Remote: A full-featured remote control for Kodi Media Center [` App Store`](https://itunes.apple.com/app/id520480364)  
@@ -2203,6 +2231,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - Flickr-Search: Photo search  
 <details><summary>`flickr api` </summary>  https://github.com/alikaragoz/Flickr-Search<br>  Added February  4, 2015<br>  License: `other`
+<div><img height='300' alt='Flickr-Search image 1' src='https://github.com/alikaragoz/Flickr-Search/raw/master/github-assets/flickr-screenshot.png'> 
+</div>
   </details>
 </details> 
 - Good Living Guide: home snacks, gifts, beauty, shopping.. [` App Store`](https://itunes.apple.com/app/id1021442122)  
@@ -2337,6 +2367,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - SwiftFlickrApp: Popular Flickr photos  
 <details><summary>`swift` `flickr api` 🔥🔥</summary>  https://github.com/synboo/SwiftFlickrApp<br>  Added May  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='SwiftFlickrApp image 1' src='https://raw.githubusercontent.com/synboo/SwiftFlickrApp/master/Video.gif'> 
+</div>
   </details>
 </details> 
 - Textbook: textbooks from People's Education Press in China [` App Store`](https://itunes.apple.com/app/ke-ben/id993244460)  
@@ -2618,6 +2650,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Kodi: A popular media player & entertainment hub  
 <details><summary>`objc` 🔥🔥🔥🔥🔥</summary>  https://github.com/xbmc/xbmc<br>  http://kodi.wiki/view/IOS<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='Kodi image 1' src='http://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg'> 
+</div>
   </details>
 </details> 
 - Kodi Remote: A full-featured remote control for Kodi Media Center [` App Store`](https://itunes.apple.com/app/id520480364)  
@@ -2799,6 +2833,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - GitHub API Client  
 <details><summary>`swift` `mvvm` `rxswift` 🔥🔥</summary>  https://github.com/tailec/boilerplate<br>  Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='GitHub API Client image 1' src='http://i.imgur.com/611wefH.png'> 
+</div>
   </details>
 </details> 
 - GrandCentralBoard: Hang a TV in your open space / team room to show everyone what's up & get them up to speed  
@@ -2886,10 +2922,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - iOS 8 Sampler: Code examples for the new functions in iOS 8  
 <details><summary>`objc` 🔥🔥🔥🔥🔥</summary>  https://github.com/shu223/iOS8-Sampler<br>  Added April 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='iOS 8 Sampler image 1' src='http://f.cl.ly/items/2m0W310X0f0J2Z0b0o2r/top.jpg'> 
+</div>
   </details>
 </details> 
 - iOS 9 Sampler: Code examples for the new functions in iOS 9  
 <details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/shu223/iOS-9-Sampler<br>  Added September 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='iOS 9 Sampler image 1' src='https://raw.githubusercontent.com/shu223/iOS-9-Sampler/master/ResourcesForREADME/map.gif'> 
+</div>
   </details>
 </details> 
 - Knock: Use Accelerometer & background mode to create a feature of knocking your phone  
@@ -2960,6 +3000,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - StateRestorationDemo: State preservation & restoration APIs  
 <details><summary>`swift` </summary>  https://github.com/shagedorn/StateRestorationDemo<br>  Added January 25, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+<div><img height='300' alt='StateRestorationDemo image 1' src='https://raw.githubusercontent.com/shagedorn/StateRestorationDemo/master/Presentation/app_screenshot.png'> 
+</div>
   </details>
 </details> 
 - Swift-Demos  
@@ -3048,6 +3090,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Prey: Track lost or stolen devices & perform actions remotely  
 <details><summary>`swift` </summary>  https://github.com/prey/prey-swift-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Prey image 1' src='https://preyproject.com/img/home/report-simple-2.png'> 
+</div>
   </details>
 </details> 
 - SkeletonKey: Password manager with Dropbox [` App Store`](https://itunes.apple.com/app/skeleton-key-password-manager/id513648119)  
@@ -3158,6 +3202,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Todo  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/JakeLin/Todo<br>  Added November 30, 2015<br>  License: `other`
+<div><img height='300' alt='Todo image 1' src='https://github.com/JakeLin/Todo/raw/master/Screenshots/1.png'> <img height='300' alt='Todo image 2' src='https://github.com/JakeLin/Todo/raw/master/Screenshots/2.png'> 
+</div>
   </details>
 </details> 
 - Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place [` App Store`](https://itunes.apple.com/app/todo.txt-touch/id491342186)  
@@ -3359,6 +3405,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - CardDecks: Configurable card decks  
 <details><summary>`objc` </summary>  https://github.com/aharren/CardDecks<br>  Added April 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='CardDecks image 1' src='http://i.imgur.com/h2ybAgQ.png'> 
+</div>
   </details>
 </details> 
 - Colo: Color themes hunter  
@@ -3476,6 +3524,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 - ForceSketch: Sketching app  
 <details><summary>`swift` </summary>  https://github.com/FlexMonkey/ForceSketch<br>  Added October 28, 2015<br>  License: `other`
+<div><img height='300' alt='ForceSketch image 1' src='https://github.com/FlexMonkey/ForceSketch/raw/master/ForceSketch/ForceSketch.gif'> 
+</div>
   </details>
 </details> 
 - Plum-O-Meter: Weigh plums (and other small fruit!)  
@@ -3684,6 +3734,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Calculator: React Native calculator  
 <details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/benoitvallon/react-native-nw-react-calculator<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Calculator image 1' src='http://i.imgur.com/8OKDHjU.png'> 
+</div>
   </details>
 </details> 
 - Currency Converter  
@@ -3710,10 +3762,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Facebook Login  
 <details><summary>`reactnative` 🔥🔥</summary>  https://github.com/brentvatne/react-native-login<br>  Added April 14, 2015<br>  License: `other`
+<div><img height='300' alt='Facebook Login image 1' src='https://github.com/brentvatne/facebook-login/raw/master/demo!!!.gif'> 
+</div>
   </details>
 </details> 
 - Finance: iOS's Stocks app written in React Native  
 <details><summary>`reactnative` 🔥🔥🔥</summary>  https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Finance image 1' src='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'> 
+</div>
   </details>
 </details> 
 - Foreign Exchange  
@@ -3742,6 +3798,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - iTunes Catalog Search  
 <details><summary>`reactnative` </summary>  https://github.com/alexissan/ReactNativeWorkshop<br>  Added June 13, 2015<br>  License: `other`
+<div><img height='300' alt='iTunes Catalog Search image 1' src='https://github.com/alexissan/ReactNativeWorkshop/raw/master/Screenshots/scsh1.png?raw=true'> 
+</div>
   </details>
 </details> 
 - london-react  
@@ -3800,6 +3858,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Property Finder  
 <details><summary>`reactnative` 🔥🔥</summary>  https://github.com/ColinEberhardt/ReactNative-PropertyFinder<br>  Added April 10, 2015<br>  License: `other`
+<div><img height='300' alt='Property Finder image 1' src='https://koenig-media.raywenderlich.com/uploads/2015/03/PropertyFinder.png'> 
+</div>
   </details>
 </details> 
 - RSS Reader  
@@ -3820,6 +3880,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Sudoku  
 <details><summary>`reactnative` </summary>  https://github.com/christopherdro/react-native-sudoku<br>  Added March 10, 2016<br>  License: `other`
+<div><img height='300' alt='Sudoku image 1' src='https://github.com/christopherdro/react-native-sudoku/raw/master/demo.gif'> 
+</div>
   </details>
 </details> 
 - TicTacToe: App by Facebook  
@@ -3865,6 +3927,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 - Done: To-do list data sharing between extension & main app  
 <details><summary>`swift` `realm` `watchkit` </summary>  https://github.com/FancyPixel/done-swift<br>  Added May  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Done image 1' src='https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif'> 
+</div>
   </details>
 </details> 
 - Facemotion: Find a contact by face recognition  
