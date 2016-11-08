@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-583-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  7, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-584-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  8, 2016-lightgrey.svg)
 
 Jump to
 
@@ -3044,7 +3044,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Dono: Password derivation tool  
 <details><summary>`swift` </summary>  https://github.com/dono-app/dono-ios<br>  Added July 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<div><img height='300' alt='Dono image 1' src='https://github.com/dono-app/dono-ux/raw/master/gifs/ios-demo.mov.gif '> 
+<div><img height='300' alt='Dono image 1' src='https://github.com/dono-app/dono-ux/raw/master/gifs/ios-demo.mov.gif'> 
 </div>
   </details>
 </details> 
@@ -3079,6 +3079,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Onions: Cloud encrypted notes [` App Store`](https://itunes.apple.com/app/onions/id687296481)  
 <details><summary>`objc` </summary>  https://github.com/onionsapp/Onions-iOS<br>  Added January 27, 2015<br>  License: `other`
 <div><img height='300' alt='Onions image 1' src='http://a2.mzstatic.com/us/r30/Purple/v4/d0/08/29/d00829d7-e34f-69e7-d21b-bfd3f48ae8fc/screen696x696.jpeg'> <img height='300' alt='Onions image 2' src='http://a3.mzstatic.com/us/r30/Purple4/v4/9d/18/f7/9d18f743-51ef-adfa-5720-ce52057f2232/screen696x696.jpeg'> <img height='300' alt='Onions image 3' src='http://a2.mzstatic.com/us/r30/Purple2/v4/85/63/c3/8563c3ce-2e2a-0a6f-472d-68b60a274841/screen696x696.jpeg'> <img height='300' alt='Onions image 4' src='http://a4.mzstatic.com/us/r30/Purple/v4/e2/43/a1/e243a12f-6391-f347-c684-22e5236f0d79/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- pass: password-store app  
+<details><summary>`objc++` `touchid` </summary>  https://github.com/davidjb/pass-ios<br>  https://www.passwordstore.org/<br>  Added November  8, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='pass image 1' src='https://github.com/davidjb/pass-ios/raw/master/screenshots/1_main_screen.png?raw=true'> <img height='300' alt='pass image 2' src='https://github.com/davidjb/pass-ios/raw/master/screenshots/3_entry.png?raw=true'> 
 </div>
   </details>
 </details> 
@@ -3346,7 +3352,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Pocket Forecast  
 <details><summary>`swift` `typhoon` 🔥🔥</summary>  https://github.com/appsquickly/Typhoon-Swift-Example<br>  Added March 24, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-<div><img height='300' alt='Pocket Forecast image 1' src='https://camo.githubusercontent.com/c77785b3e9e4c5fe174593951c661d151b4727b1/687474703a2f2f747970686f6f6e6672616d65776f726b2e6f72672f696d616765732f706f7274666f6c696f2f506f636b6574466f726563617374332e676966'> 
+<div><img height='300' alt='Pocket Forecast image 1' src='http://typhoonframework.org/images/portfolio/PocketForecast3.gif'> 
 </div>
   </details>
 </details> 
@@ -3768,7 +3774,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Facebook Login  
 <details><summary>`reactnative` 🔥🔥</summary>  https://github.com/brentvatne/react-native-login<br>  Added April 14, 2015<br>  License: `other`
-<div><img height='300' alt='Facebook Login image 1' src='https://github.com/brentvatne/react-native-login/raw/master/demo!!!.gif '> 
+<div><img height='300' alt='Facebook Login image 1' src='https://github.com/brentvatne/react-native-login/raw/master/demo!!!.gif'> 
 </div>
   </details>
 </details> 
