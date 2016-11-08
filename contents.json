@@ -10778,6 +10778,21 @@
       "license": "other",
       "date_added": "Nov 7 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "pass",
+      "description": "password-store app",
+      "category-ids": ["security"],
+      "source": "https://github.com/davidjb/pass-ios",
+      "homepage": "https://www.passwordstore.org/",
+      "screenshots": [
+        "https://github.com/davidjb/pass-ios/raw/master/screenshots/1_main_screen.png?raw=true",
+        "https://github.com/davidjb/pass-ios/raw/master/screenshots/3_entry.png?raw=true"
+      ],
+      "tags": ["objc++", "touchid"],
+      "license": "apache-2.0",
+      "date_added": "Nov 8 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
