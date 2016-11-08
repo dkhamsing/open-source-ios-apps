@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-582-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  7, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-583-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  7, 2016-lightgrey.svg)
 
 Jump to
 
@@ -617,8 +617,8 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- ChatSecure: Send messages with OTR encryption over XMPP [` App Store`](https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063)  
-<details><summary>`objc` 🔥🔥🔥🔥🔥</summary>  https://github.com/ChatSecure/ChatSecure-iOS<br>  Added March 26, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+- ChatSecure: Send messages with OTR encryption [` App Store`](https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063)  
+<details><summary>`xmpp` 🔥🔥🔥🔥🔥</summary>  https://github.com/ChatSecure/ChatSecure-iOS<br>  Added March 26, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='ChatSecure image 1' src='http://a4.mzstatic.com/us/r30/Purple5/v4/bf/67/25/bf672587-f1ff-3ea8-6ba2-d2b51007cfd7/screen696x696.jpeg'> <img height='300' alt='ChatSecure image 2' src='http://a3.mzstatic.com/us/r30/Purple7/v4/9c/45/6e/9c456e12-a029-b900-3f74-a84e313932bd/screen696x696.jpeg'> <img height='300' alt='ChatSecure image 3' src='http://a4.mzstatic.com/us/r30/Purple7/v4/2f/ea/0e/2fea0ee9-ea64-a2eb-6546-5f0fd0a2f577/screen696x696.jpeg'> <img height='300' alt='ChatSecure image 4' src='http://a4.mzstatic.com/us/r30/Purple7/v4/4e/d7/91/4ed791e3-0915-64a3-6aea-64f4319019ab/screen696x696.jpeg'> 
 </div>
   </details>
@@ -650,6 +650,12 @@ Click ► to show more details
 - M: Email with device-to-device encryption for messages sent between M users [` App Store`](https://itunes.apple.com/app/m-safe-email-made-simple/id818498595)  
 <details><summary>`objc` </summary>  https://github.com/Mynigma/M<br>  Added January 26, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='M image 1' src='http://a1.mzstatic.com/us/r30/Purple41/v4/39/79/63/39796337-2166-4778-9a89-1a1059b0c05a/screen800x500.jpeg'> 
+</div>
+  </details>
+</details> 
+- Monal: Connect to your chat server without having to give a third party access to your password or messages [` App Store`](https://itunes.apple.com/app/monal-free-xmpp-chat/id317711500)  
+<details><summary>`xmpp` </summary>  https://github.com/anurodhp/Monal<br>  Added November  7, 2016<br>  License: `other`
+<div><img height='300' alt='Monal image 1' src='http://a3.mzstatic.com/us/r30/Purple69/v4/ca/27/98/ca279896-a860-e33f-ef2c-cfdc1c62dbdc/screen696x696.jpeg'> <img height='300' alt='Monal image 2' src='http://a5.mzstatic.com/us/r30/Purple49/v4/24/53/b6/2453b64c-0c67-1e71-86f8-d96482ae992a/screen696x696.jpeg'> <img height='300' alt='Monal image 3' src='http://a2.mzstatic.com/us/r30/Purple69/v4/b2/e8/b2/b2e8b2f2-160e-19d2-1e38-94c9ab629b78/screen696x696.jpeg'> <img height='300' alt='Monal image 4' src='http://a4.mzstatic.com/us/r30/Purple69/v4/68/4c/ec/684cecd3-4d00-b658-9395-57ea1dafef47/screen696x696.jpeg'> <img height='300' alt='Monal image 5' src='http://a3.mzstatic.com/us/r30/Purple69/v4/c4/58/60/c458604e-d368-eb11-c315-7631bece7485/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -3762,7 +3768,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Facebook Login  
 <details><summary>`reactnative` 🔥🔥</summary>  https://github.com/brentvatne/react-native-login<br>  Added April 14, 2015<br>  License: `other`
-<div><img height='300' alt='Facebook Login image 1' src='https://github.com/brentvatne/facebook-login/raw/master/demo!!!.gif'> 
+<div><img height='300' alt='Facebook Login image 1' src='https://github.com/brentvatne/react-native-login/raw/master/demo!!!.gif '> 
 </div>
   </details>
 </details> 
