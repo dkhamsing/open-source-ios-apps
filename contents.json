@@ -10798,6 +10798,22 @@
       "license": "apache-2.0",
       "date_added": "Nov 8 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "try! NYC",
+      "source": "https://github.com/tryswift/trySwiftNYC",
+      "category-ids": [
+        "conference",
+        "apple-watch"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/xyu7t89.png",
+        "http://i.imgur.com/Jes7vLF.png"
+      ],
+      "tags": ["swift", "toucan", "realm"],
+      "license": "other",
+      "date_added": "Nov 8 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
