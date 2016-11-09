@@ -7835,6 +7835,7 @@
       "category-ids": [
         "game"
       ],
+      "screenshots": ["http://i.imgur.com/g3UpGMH.png"],
       "description": "Solve cryptograms as a Hacker, Detective, or Spy",
       "source": "https://github.com/insurgentgames/Cryptose",
       "license": "gpl-3.0",
@@ -9092,6 +9093,10 @@
       "tags": [
         "swift",
         "instagram api"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/8u73w5u.png",
+        "http://i.imgur.com/MShIfCe.png"
       ],
       "license": "gpl-3.0",
       "stars": 37,
