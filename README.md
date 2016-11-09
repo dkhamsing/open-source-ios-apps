@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-585-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  9, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-586-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  9, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1493,6 +1493,12 @@ Click ► to show more details
 - Master: PokéMon-like game that uses your location  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/Kjuly/iPokeMon<br>  Added May 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
+</div>
+  </details>
+</details> 
+- Mergel: Shape matching puzzle game written in Swift  
+<details><summary>`objc` </summary>  https://github.com/snazzware/Mergel<br>  Added November  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Mergel image 1' src='http://i.imgur.com/978TVq5.png'> 
 </div>
   </details>
 </details> 
