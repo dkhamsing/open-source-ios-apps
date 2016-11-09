@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-584-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  8, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-585-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  9, 2016-lightgrey.svg)
 
 Jump to
 
@@ -322,6 +322,12 @@ Click ► to show more details
 - try!  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/tryswift/trySwiftApp<br>  Added February 16, 2016<br>  License: `other`
 <div><img height='300' alt='try! image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/18/81/9f/18819f2d-1bb8-feeb-bb22-89bbe85d6516/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- try! NYC  
+<details><summary>`swift` `toucan` `realm` </summary>  https://github.com/tryswift/trySwiftNYC<br>  Added November  8, 2016<br>  License: `other`
+<div><img height='300' alt='try! NYC image 1' src='http://i.imgur.com/xyu7t89.png'> <img height='300' alt='try! NYC image 2' src='http://i.imgur.com/Jes7vLF.png'> 
 </div>
   </details>
 </details> 
@@ -782,6 +788,12 @@ Click ► to show more details
 </div>
   </details>
 </details> 
+- try! NYC  
+<details><summary>`swift` `toucan` `realm` </summary>  https://github.com/tryswift/trySwiftNYC<br>  Added November  8, 2016<br>  License: `other`
+<div><img height='300' alt='try! NYC image 1' src='http://i.imgur.com/xyu7t89.png'> <img height='300' alt='try! NYC image 2' src='http://i.imgur.com/Jes7vLF.png'> 
+</div>
+  </details>
+</details> 
 - Valio Con 2014 Schedule  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/soffes/valio<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Valio Con 2014 Schedule image 1' src='https://camo.githubusercontent.com/6c7feaa3d942ee77f00814c71fd1f0c087f4fb23/687474703a2f2f736f66662e6d652f567673482f694f5325323053696d756c61746f7225323053637265656e25323053686f742532304a756e253230362c253230323031342c25323031312e35322e3537253230414d2e706e67'> 
@@ -977,6 +989,8 @@ Click ► to show more details
 </details> 
 - My First Memory: Memory game, includes introduction to iOS & Swift  
 <details><summary>`swift` `instagram api` </summary>  https://github.com/Sajjon/SwiftIntro<br>  Added July  6, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='My First Memory image 1' src='http://i.imgur.com/8u73w5u.png'> <img height='300' alt='My First Memory image 2' src='http://i.imgur.com/MShIfCe.png'> 
+</div>
   </details>
 </details> 
 - Population Clock: Learn about geography & demographics [` App Store`](https://itunes.apple.com/app/population-clock-hd/id590689957)  
@@ -1366,6 +1380,8 @@ Click ► to show more details
 </details> 
 - Cryptose: Solve cryptograms as a Hacker, Detective, or Spy  
 <details><summary>`objc` </summary>  https://github.com/insurgentgames/Cryptose<br>  Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Cryptose image 1' src='http://i.imgur.com/g3UpGMH.png'> 
+</div>
   </details>
 </details> 
 - DOOM: Doom Classic for iOS [` App Store`](https://itunes.apple.com/app/doom-classic/id336347946)  
@@ -1494,6 +1510,8 @@ Click ► to show more details
 </details> 
 - My First Memory: Memory game, includes introduction to iOS & Swift  
 <details><summary>`swift` `instagram api` </summary>  https://github.com/Sajjon/SwiftIntro<br>  Added July  6, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='My First Memory image 1' src='http://i.imgur.com/8u73w5u.png'> <img height='300' alt='My First Memory image 2' src='http://i.imgur.com/MShIfCe.png'> 
+</div>
   </details>
 </details> 
 - Neocom for EVE Online: EveOnline MMORG character management tool [` App Store`](https://itunes.apple.com/app/eveuniverse/id418895101)  
