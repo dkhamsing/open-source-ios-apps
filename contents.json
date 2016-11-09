@@ -10822,8 +10822,9 @@
     },
     {
       "title": "Mergel",
-      "category-ids": ["game"],
-      "description": "Shape matching puzzle game written in Swift",
+      "category-ids": ["spritekit"],
+      "tags": ["swift"],
+      "description": "Shape matching puzzle",
       "source": "https://github.com/snazzware/Mergel",
       "screenshots": ["http://i.imgur.com/978TVq5.png"],
       "license": "mit",
