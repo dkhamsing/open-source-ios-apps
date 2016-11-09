@@ -10819,6 +10819,16 @@
       "license": "other",
       "date_added": "Nov 8 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Mergel",
+      "category-ids": ["game"],
+      "description": "Shape matching puzzle game written in Swift",
+      "source": "https://github.com/snazzware/Mergel",
+      "screenshots": ["https://www.dropbox.com/s/ib0uygycs7yrf4h/Screenshot%202016-11-09%2010.39.20.png?dl=1"],
+      "license": "mit",
+      "date_added": "Nov 9 2016",
+      "suggested_by": "@JoshMcKeePNW"
     }
   ]
 }
