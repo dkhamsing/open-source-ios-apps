@@ -1350,6 +1350,13 @@
       "tags": [
         "swift"
       ],
+      "screenshots": [
+  "http://a5.mzstatic.com/us/r30/Purple49/v4/6b/d2/d0/6bd2d030-51a6-c61f-4529-ab7993fb8f11/screen696x696.jpeg",
+  "http://a1.mzstatic.com/us/r30/Purple49/v4/7a/80/6b/7a806b7a-d456-7f45-7ccf-dcca3ef0e834/screen696x696.jpeg",
+  "http://a1.mzstatic.com/us/r30/Purple49/v4/a3/58/9a/a3589ae2-9a46-8310-d6d3-85847005cfd8/screen696x696.jpeg",
+  "http://a2.mzstatic.com/us/r30/Purple49/v4/76/4a/fa/764afab7-1f22-d358-169b-6f7e16db0420/screen696x696.jpeg",
+  "http://a5.mzstatic.com/us/r30/Purple49/v4/18/67/8d/18678d85-125a-8686-4b6f-8b6661b56a96/screen696x696.jpeg"
+      ],
       "stars": 12,
       "license": "other",
       "date_added": "Sun Mar 13 14:52:59 2016 -0700",
@@ -2014,6 +2021,7 @@
       "category-ids": [
         "game"
       ],
+      "screenshots": ["http://a1.mzstatic.com/us/r30/Purple1/v4/a6/e5/e4/a6e5e42e-cfb4-159c-8fe6-819e0db0d09c/screen480x480.jpeg"],
       "description": "Multiplayer programming game for learning how to code",
       "license": "mit",
       "source": "https://github.com/codecombat/codecombat-ios",
@@ -6595,6 +6603,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["http://i.imgur.com/zcyhbtv.png"],
       "source": "https://github.com/JoeStanton/london-react",
       "stars": 42,
       "license": "other",
@@ -6645,6 +6654,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["https://ph-files.imgix.net/8f617c17-4ec6-482d-866d-a65d5387c0ad?auto=format&codec=mozjpeg&cs=strip"],
       "description": "Product Hunt app",
       "source": "https://github.com/rkho/product-kitty",
       "stars": 111,
@@ -6725,6 +6735,7 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": ["https://react.rocks/images/converted/react-native-spacepics.jpg"],
       "description": "A small app displaying NASA's Picture of the Day",
       "source": "https://github.com/campezzi/react-native-spacepics",
       "stars": 16,
@@ -7360,6 +7371,7 @@
       "category-ids": [
         "emulator"
       ],
+      "screenshots": ["http://i.imgur.com/MUNX0Mq.jpg"],
       "description": "The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more",
       "source": "https://github.com/libretro/RetroArch",
       "stars": 1334,
@@ -7372,6 +7384,7 @@
       "category-ids": [
         "emulator"
       ],
+      "screenshots": ["https://i.ytimg.com/vi/Gj5LQN5iing/hqdefault.jpg"],
       "description": "MAME frontend",
       "source": "https://github.com/yoshisuga/MAME4iOS",
       "stars": 21,
@@ -7384,6 +7397,7 @@
       "category-ids": [
         "emulator"
       ],
+      "screenshots": ["https://github.com/litchie/dospad/blob/master/screenshots/portrait.png?raw=true"],
       "description": "DOSBox",
       "license": "gpl-2.0",
       "source": "https://github.com/litchie/dospad",
@@ -7464,6 +7478,7 @@
       "category-ids": [
         "emulator"
       ],
+      "screenshots": ["http://cdn.redmondpie.com/wp-content/uploads/2015/11/ROM-List_.jpg"],
       "description": "Nintendo DS emulator, port of DeSmuME",
       "source": "https://github.com/raaxis/nds4ios",
       "stars": 68,
@@ -7475,6 +7490,10 @@
       "title": "iAmiga (iUAE)",
       "category-ids": [
         "emulator"
+      ],
+      "screenshots": [
+        "http://moreinfo.thebigboss.org/moreinfo/iuae1.jpg",
+        "http://moreinfo.thebigboss.org/moreinfo/iuae4.jpg"
       ],
       "description": "Commodore Amiga emulator, based on UAE",
       "source": "https://github.com/emufreak/iAmiga",
@@ -7850,6 +7869,7 @@
       "category-ids": [
         "game"
       ],
+      "screenshots": ["http://a2.mzstatic.com/us/r1000/109/Purple/77/b5/80/mzl.gqmqsjda.640x960-75.jpg"],
       "description": "Steampunk retro 2D platformer",
       "source": "https://github.com/insurgentgames/Aeropack",
       "license": "gpl-3.0",
@@ -7862,6 +7882,7 @@
       "category-ids": [
         "game"
       ],
+      "screenshots": ["http://cdn.iphoneincanada.ca/wp-content/uploads/2009/11/IMG_0520.PNG"],
       "description": "Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers & more in this side-scrolling arcade shooter",
       "source": "https://github.com/insurgentgames/teh-internets",
       "license": "gpl-3.0",
@@ -7974,6 +7995,7 @@
       "category-ids": [
         "game"
       ],
+      "screenshots": ["https://maniacdev.com/wp-content/uploads/2014/08/screen480x480.jpeg"],
       "description": "A release of the real time strategy game Warfare Incorporated",
       "source": "https://github.com/spiffcode/hostile-takeover",
       "license": "bsd-2-clause",
