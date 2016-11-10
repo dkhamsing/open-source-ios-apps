@@ -7673,7 +7673,7 @@
       "stars": 41,
       "lang": "zho",
       "screenshots": [
-        "https://camo.githubusercontent.com/f84f375f11c006f9c0d6748d4ef298f5c730d355/68747470733a2f2f706f6c79646963652e6769746875622e696f2f69436f6f6b2d74764f532f696d616765732f53637265656e73686f742e706e67"
+        "http://polydice.com/iCook-tvOS/images/Screenshot.png"
       ],
       "date_added": "Wed May 25 13:43:48 2016 -0700",
       "suggested_by": "@dkhamsing"
@@ -9565,6 +9565,7 @@
       "category-ids": [
         "news"
       ],
+      "screenshots": ["http://i.imgur.com/WF6eY71.png"],
       "description": "Browse the https://lobste.rs/ community news site",
       "source": "https://github.com/rpowelll/LobsterApp",
       "license": "other",
@@ -10316,6 +10317,7 @@
         "swift",
         "starscream"
       ],
+      "screenshots": ["http://i.imgur.com/DuQSjpY.png"],
       "license": "other",
       "date_added": "Sep 30 2016",
       "suggested_by": "@dkhamsing",
