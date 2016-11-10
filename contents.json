@@ -2016,6 +2016,7 @@
       "description": "Multiplayer programming game for learning how to code",
       "license": "mit",
       "source": "https://github.com/codecombat/codecombat-ios",
+      "itunes": "https://itunes.apple.com/ca/app/codecombat/id936523909",
       "stars": 45,
       "date_added": "Sat Jan 23 06:46:13 2016 -0800",
       "suggested_by": "@dkhamsing"
