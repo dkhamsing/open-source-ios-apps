@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-586-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November  9, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-587-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 10, 2016-lightgrey.svg)
 
 Jump to
 
@@ -772,8 +772,10 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- RWDevCon  
+- RWDevCon [` App Store`](https://itunes.apple.com/app/rwdevcon-tutorial-conference/id958625272)  
 <details><summary>`swift` </summary>  https://github.com/raywenderlich/RWDevCon-App<br>  Added March 13, 2016<br>  License: `other`
+<div><img height='300' alt='RWDevCon image 1' src='http://a5.mzstatic.com/us/r30/Purple49/v4/6b/d2/d0/6bd2d030-51a6-c61f-4529-ab7993fb8f11/screen696x696.jpeg'> <img height='300' alt='RWDevCon image 2' src='http://a1.mzstatic.com/us/r30/Purple49/v4/7a/80/6b/7a806b7a-d456-7f45-7ccf-dcca3ef0e834/screen696x696.jpeg'> <img height='300' alt='RWDevCon image 3' src='http://a1.mzstatic.com/us/r30/Purple49/v4/a3/58/9a/a3589ae2-9a46-8310-d6d3-85847005cfd8/screen696x696.jpeg'> <img height='300' alt='RWDevCon image 4' src='http://a2.mzstatic.com/us/r30/Purple49/v4/76/4a/fa/764afab7-1f22-d358-169b-6f7e16db0420/screen696x696.jpeg'> <img height='300' alt='RWDevCon image 5' src='http://a5.mzstatic.com/us/r30/Purple49/v4/18/67/8d/18678d85-125a-8686-4b6f-8b6661b56a96/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - TechTavta: Keep track of all events for Techtatva 2015 [` App Store`](https://itunes.apple.com/app/techtatva15/id922178880)  
@@ -868,6 +870,12 @@ Click ► to show more details
 - iOSAppsInfo: List installed apps & URL schemes  
 <details><summary>`objc` </summary>  https://github.com/wujianguo/iOSAppsInfo<br>  Added October 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='iOSAppsInfo image 1' src='https://github.com/wujianguo/iOSAppsInfo/raw/master/SampleImages/1.PNG'> <img height='300' alt='iOSAppsInfo image 2' src='https://github.com/wujianguo/iOSAppsInfo/raw/master/SampleImages/3.PNG'> 
+</div>
+  </details>
+</details> 
+- Jasonette: Create a native iOS app with nothing but JSON  
+<details><summary>`json` `javascript` </summary>  https://github.com/Jasonette/JASONETTE-iOS<br>  http://jasonette.com/<br>  Added November 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Jasonette image 1' src='https://github.com/Jasonette/Instagram-UI-example/raw/master/images/instagram.gif'> 
 </div>
   </details>
 </details> 
@@ -1018,6 +1026,8 @@ Click ► to show more details
 </details> 
 - DOSPad: DOSBox  
 <details><summary>`objc` </summary>  https://github.com/litchie/dospad<br>  Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='DOSPad image 1' src='https://github.com/litchie/dospad/blob/master/screenshots/portrait.png?raw=true'> 
+</div>
   </details>
 </details> 
 - GBA4iOS: Gameboy, Gameboy Color & Gameboy Advance emulator  
@@ -1026,12 +1036,16 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- iAmiga: Commodore Amiga emulator, based on UAE  
+- iAmiga (iUAE): Commodore Amiga emulator, based on UAE  
 <details><summary>`objc` </summary>  https://github.com/emufreak/iAmiga<br>  Added May 14, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='iAmiga (iUAE) image 1' src='http://moreinfo.thebigboss.org/moreinfo/iuae1.jpg'> <img height='300' alt='iAmiga (iUAE) image 2' src='http://moreinfo.thebigboss.org/moreinfo/iuae4.jpg'> 
+</div>
   </details>
 </details> 
 - MAME4iOS: MAME frontend  
 <details><summary>`objc` </summary>  https://github.com/yoshisuga/MAME4iOS<br>  Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='MAME4iOS image 1' src='https://i.ytimg.com/vi/Gj5LQN5iing/hqdefault.jpg'> 
+</div>
   </details>
 </details> 
 - Mini vMac: Early 68K Macintosh emulator  
@@ -1042,6 +1056,8 @@ Click ► to show more details
 </details> 
 - nds4ios: Nintendo DS emulator, port of DeSmuME  
 <details><summary>`objc` </summary>  https://github.com/raaxis/nds4ios<br>  Added May 14, 2016<br>  License: `other`
+<div><img height='300' alt='nds4ios image 1' src='http://cdn.redmondpie.com/wp-content/uploads/2015/11/ROM-List_.jpg'> 
+</div>
   </details>
 </details> 
 - PPSSPP: PSP emulator  
@@ -1058,6 +1074,8 @@ Click ► to show more details
 </details> 
 - RetroArch: The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more  
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/libretro/RetroArch<br>  Added May 13, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='RetroArch image 1' src='http://i.imgur.com/MUNX0Mq.jpg'> 
+</div>
   </details>
 </details> 
 
@@ -1306,6 +1324,8 @@ Click ► to show more details
 </details> 
 - Aeropack: Steampunk retro 2D platformer  
 <details><summary>`objc` </summary>  https://github.com/insurgentgames/Aeropack<br>  Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Aeropack image 1' src='http://a2.mzstatic.com/us/r1000/109/Purple/77/b5/80/mzl.gqmqsjda.640x960-75.jpg'> 
+</div>
   </details>
 </details> 
 - Alienblast: Cute & sweet shooting game [` App Store`](https://itunes.apple.com/app/id1098323034)  
@@ -1356,8 +1376,10 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- CodeCombat: Multiplayer programming game for learning how to code  
+- CodeCombat: Multiplayer programming game for learning how to code [` App Store`](https://itunes.apple.com/ca/app/codecombat/id936523909)  
 <details><summary>`objc` </summary>  https://github.com/codecombat/codecombat-ios<br>  Added January 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='CodeCombat image 1' src='http://a1.mzstatic.com/us/r30/Purple1/v4/a6/e5/e4/a6e5e42e-cfb4-159c-8fe6-819e0db0d09c/screen480x480.jpeg'> 
+</div>
   </details>
 </details> 
 - Concentration game (翻翻看)  
@@ -1470,6 +1492,8 @@ Click ► to show more details
 </details> 
 - Hostile Takeover: A release of the real time strategy game Warfare Incorporated  
 <details><summary>`objc` </summary>  https://github.com/spiffcode/hostile-takeover<br>  Added June  1, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+<div><img height='300' alt='Hostile Takeover image 1' src='https://maniacdev.com/wp-content/uploads/2014/08/screen480x480.jpeg'> 
+</div>
   </details>
 </details> 
 - hoxChess: Xiangqi (Chinese Chess) with single & multiplayer modes [` App Store`](https://itunes.apple.com/app/hoxchess/id363513274)  
@@ -1493,12 +1517,6 @@ Click ► to show more details
 - Master: PokéMon-like game that uses your location  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/Kjuly/iPokeMon<br>  Added May 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
-</div>
-  </details>
-</details> 
-- Mergel: Shape matching puzzle game written in Swift  
-<details><summary>`objc` </summary>  https://github.com/snazzware/Mergel<br>  Added November  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Mergel image 1' src='http://i.imgur.com/978TVq5.png'> 
 </div>
   </details>
 </details> 
@@ -1574,6 +1592,8 @@ Click ► to show more details
 </details> 
 - teh internets: Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers & more in this side-scrolling arcade shooter  
 <details><summary>`objc` </summary>  https://github.com/insurgentgames/teh-internets<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='teh internets image 1' src='http://cdn.iphoneincanada.ca/wp-content/uploads/2009/11/IMG_0520.PNG'> 
+</div>
   </details>
 </details> 
 - Wizard War: Cast spells in single or multiplayer wizard duels [` App Store`](https://itunes.apple.com/app/wizard-war/id702839715)  
@@ -1617,6 +1637,12 @@ Click ► to show more details
 </details> 
 - GrubbyWorm: Simple digital worm game  
 <details><summary>`swift` `swift2` `ios9` `spritekit` `gameplaykit` `replaykit` </summary>  https://github.com/gamechina/GrubbyWorm<br>  Added January 23, 2016<br>  License: `other`
+  </details>
+</details> 
+- Mergel: Shape matching puzzle  
+<details><summary>`swift` </summary>  https://github.com/snazzware/Mergel<br>  Added November  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Mergel image 1' src='http://i.imgur.com/978TVq5.png'> 
+</div>
   </details>
 </details> 
 - Orbit7  
@@ -3840,6 +3866,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - london-react  
 <details><summary>`reactnative` </summary>  https://github.com/JoeStanton/london-react<br>  Added August  2, 2015<br>  License: `other`
+<div><img height='300' alt='london-react image 1' src='http://i.imgur.com/zcyhbtv.png'> 
+</div>
   </details>
 </details> 
 - Movies: App by Facebook  
@@ -3890,6 +3918,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Product Kitty: Product Hunt app  
 <details><summary>`reactnative` 🔥</summary>  https://github.com/rkho/product-kitty<br>  Added September  2, 2015<br>  License: `other`
+<div><img height='300' alt='Product Kitty image 1' src='https://ph-files.imgix.net/8f617c17-4ec6-482d-866d-a65d5387c0ad?auto=format&codec=mozjpeg&cs=strip'> 
+</div>
   </details>
 </details> 
 - Property Finder  
@@ -3912,6 +3942,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Spacepics: A small app displaying NASA's Picture of the Day  
 <details><summary>`reactnative` </summary>  https://github.com/campezzi/react-native-spacepics<br>  Added May 26, 2015<br>  License: `other`
+<div><img height='300' alt='Spacepics image 1' src='https://react.rocks/images/converted/react-native-spacepics.jpg'> 
+</div>
   </details>
 </details> 
 - Sudoku  
