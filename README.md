@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-587-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 10, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-588-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 11, 2016-lightgrey.svg)
 
 Jump to
 
@@ -108,7 +108,7 @@ Click ► to show more details
 </details> 
 - iCook TV: Taiwanese cuisine cooking videos  
 <details><summary>`objc` 🇨🇳 </summary>  https://github.com/polydice/iCook-tvOS<br>  Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='iCook TV image 1' src='https://camo.githubusercontent.com/f84f375f11c006f9c0d6748d4ef298f5c730d355/68747470733a2f2f706f6c79646963652e6769746875622e696f2f69436f6f6b2d74764f532f696d616765732f53637265656e73686f742e706e67'> 
+<div><img height='300' alt='iCook TV image 1' src='http://polydice.com/iCook-tvOS/images/Screenshot.png'> 
 </div>
   </details>
 </details> 
@@ -671,6 +671,12 @@ Click ► to show more details
 </div>
   </details>
 </details> 
+- Real-time Chat  
+<details><summary>`firebase` </summary>  https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2<br>  Added November 11, 2016<br>  License: `other`
+<div><img height='300' alt='Real-time Chat image 1' src='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'> 
+</div>
+  </details>
+</details> 
 - Rocket.Chat: Meteor chat platform app [` App Store`](https://itunes.apple.com/app/rocket.chat/id1028869439)  
 <details><summary>`swift` 🔥</summary>  https://github.com/RocketChat/Rocket.Chat.iOS<br>  Added January 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Rocket.Chat image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/6b/67/2d/6b672d4d-1d88-382c-aa02-db66dfc97421/screen696x696.jpeg'> <img height='300' alt='Rocket.Chat image 2' src='http://a5.mzstatic.com/us/r30/Purple49/v4/27/b5/b3/27b5b3e0-102e-605f-d086-def467181dcb/screen696x696.jpeg'> <img height='300' alt='Rocket.Chat image 3' src='http://a1.mzstatic.com/us/r30/Purple49/v4/71/f0/6f/71f06f5d-07af-96b9-016a-cd27f006d211/screen696x696.jpeg'> <img height='300' alt='Rocket.Chat image 4' src='http://a3.mzstatic.com/us/r30/Purple49/v4/ef/88/2b/ef882bb0-e6ca-882a-f355-b9b298c2412d/screen696x696.jpeg'> <img height='300' alt='Rocket.Chat image 5' src='http://a2.mzstatic.com/us/r30/Purple49/v4/88/f6/58/88f65868-21eb-d01a-61e9-20481d3852c1/screen696x696.jpeg'> 
@@ -723,6 +729,8 @@ Click ► to show more details
 </details> 
 - Vapor Chat: Basic realtime chat project using Vapor on the server  
 <details><summary>`swift` `starscream` </summary>  https://github.com/vapor/chat-ios-example<br>  Added September 30, 2016<br>  License: `other`
+<div><img height='300' alt='Vapor Chat image 1' src='http://i.imgur.com/DuQSjpY.png'> 
+</div>
   </details>
 </details> 
 - Vector: Collaboration for teams, chat & share via http://matrix.org/ [` App Store`](https://itunes.apple.com/app/vector.im/id1083446067)  
@@ -2556,6 +2564,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - LobsterApp: Browse the https://lobste.rs/ community news site  
 <details><summary>`objc` </summary>  https://github.com/rpowelll/LobsterApp<br>  Added July 21, 2016<br>  License: `other`
+<div><img height='300' alt='LobsterApp image 1' src='http://i.imgur.com/WF6eY71.png'> 
+</div>
   </details>
 </details> 
 - News: Discover and read news on a range of news sources and blogs (66 providers)  
@@ -3668,6 +3678,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - how-much: Simple app to record how much things cost  
 <details><summary>`parse` `firebase` </summary>  https://github.com/dkhamsing/how-much<br>  Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='how-much image 1' src='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'> 
+</div>
+  </details>
+</details> 
+- Real-time Chat  
+<details><summary>`firebase` </summary>  https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2<br>  Added November 11, 2016<br>  License: `other`
+<div><img height='300' alt='Real-time Chat image 1' src='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'> 
 </div>
   </details>
 </details> 
