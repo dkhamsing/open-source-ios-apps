@@ -2757,8 +2757,8 @@
       "description": "Finds the nearest Starbucks",
       "source": "https://github.com/chroman/Doppio",
       "screenshots": [
-        "https://camo.githubusercontent.com/8af94eada922e898fb9a63615e431dcefcbc8d1c/687474703a2f2f6368726f6d616e2e6d652f77702d636f6e74656e742f75706c6f6164732f323031332f31322f312e706e67",
-        "https://camo.githubusercontent.com/0f3d12046e643ac129f8a78a357352988e6d8a3d/687474703a2f2f6368726f6d616e2e6d652f77702d636f6e74656e742f75706c6f6164732f323031332f31322f332e706e67"
+        "http://chroman.me/wp-content/uploads/2013/12/1.png",
+        "http://chroman.me/wp-content/uploads/2013/12/3.png"
       ],
       "stars": 546,
       "license": "bsd-2-clause",
