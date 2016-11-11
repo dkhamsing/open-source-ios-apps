@@ -10868,6 +10868,16 @@
       "license": "mit",
       "date_added": "Nov 10 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Real-time Chat",
+      "category-ids": ["firebase", "communication"],
+      "tags": ["firebase"],
+      "screenshots": ["https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg"],
+      "source": "https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2",
+      "license": "other",
+      "date_added": "Nov 11 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
