@@ -10878,6 +10878,16 @@
       "license": "other",
       "date_added": "Nov 11 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "iperf",
+      "description": "Run an iperf3 client, including reverse mode & multiple streams selection",
+      "source": "https://github.com/ndfred/iperf-ios",
+      "category-ids": ["developer"],
+      "screenshots": ["https://github.com/ndfred/iperf-ios/raw/master/Screenshot.png"],
+      "license": "other",
+      "date_added": "Nov 14 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
