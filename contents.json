@@ -3156,6 +3156,7 @@
       "tags": [
         "instagram api"
       ],
+      "screenshots": ["http://i.imgur.com/bOySdOv.png"],
       "description": "Make photo collages",
       "source": "https://github.com/Azoft/CollageMaker-iOS",
       "stars": 31,
@@ -6024,6 +6025,10 @@
       "source": "https://github.com/ashfurrow/yourfirstswiftapp",
       "tags": [
         "swift"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/p2r8TmY.png",
+        "http://i.imgur.com/zEHz6j8.png"
       ],
       "stars": 65,
       "date_added": "Tue Apr 7 07:43:15 2015 -0700",
