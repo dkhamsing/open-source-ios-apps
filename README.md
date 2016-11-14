@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-589-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 14, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-590-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 14, 2016-lightgrey.svg)
 
 Jump to
 
@@ -866,6 +866,12 @@ Click ► to show more details
 - Codinator: Code editor [` App Store`](https://itunes.apple.com/app/codinator/id1024671232)  
 <details><summary>`iphone` `ipad` </summary>  https://github.com/DanilaVladi/codinator<br>  Added April 11, 2016<br>  License: `other`
 <div><img height='300' alt='Codinator image 1' src='http://a1.mzstatic.com/us/r30/Purple20/v4/a6/14/16/a61416a0-e5cb-1166-0358-c680f2f2f42e/screen696x696.jpeg'> <img height='300' alt='Codinator image 2' src='http://a2.mzstatic.com/us/r30/Purple60/v4/bc/e1/11/bce111fb-5d80-a414-fc6d-6117ecc6bc5d/screen696x696.jpeg'> <img height='300' alt='Codinator image 3' src='http://a5.mzstatic.com/us/r30/Purple60/v4/c0/b8/6a/c0b86aa4-1d6e-1e86-6871-c975daa505da/screen696x696.jpeg'> <img height='300' alt='Codinator image 4' src='http://a5.mzstatic.com/us/r30/Purple18/v4/24/5f/b2/245fb21c-e2e1-7c71-4d62-7cfa8134b7ea/screen696x696.jpeg'> <img height='300' alt='Codinator image 5' src='http://a4.mzstatic.com/us/r30/Purple60/v4/b2/86/1a/b2861a3d-ec5d-5888-7331-c73d5c5c2859/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Dash: Instant offline access to 150+ API documentation sets  
+<details><summary>`iphone` `ipad` `kissxml` `dznemptydataset` `dtbonjour` `samkeychain` 🔥</summary>  https://github.com/Kapeli/Dash-iOS<br>  https://kapeli.com/dash_ios<br>  Added November 14, 2016<br>  License: `other`
+<div><img height='300' alt='Dash image 1' src='https://kapeli.com/img/dash_ios-s1-thumb.png'> <img height='300' alt='Dash image 2' src='https://kapeli.com/img/dash_ios-s2-thumb.png'> 
 </div>
   </details>
 </details> 
@@ -3424,7 +3430,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - RainMan  
 <details><summary>`swift` `dark sky api (forecast api)` 🔥🔥🔥</summary>  https://github.com/Mav3r1ck/Project-RainMan<br>  Added April 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='RainMan image 1' src='https://camo.githubusercontent.com/7ebcddf23366d36c0283af08a7032fc0f1cf5a6f/687474703a2f2f7331302e706f7374696d672e6f72672f7978793033336136682f50726f6a6563745f52616e5f4d61696e5f4261636b67726f756e642e706e67'> 
+<div><img height='300' alt='RainMan image 1' src='http://s10.postimg.org/yxy033a6h/Project_Ran_Main_Background.png'> 
 </div>
   </details>
 </details> 
