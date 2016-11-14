@@ -8,6 +8,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - AppSales-Mobile https://github.com/omz/AppSales-Mobile
 - Bancha https://github.com/squallstar/bancha-ios-app
 - Cheddar https://github.com/nothingmagical/cheddar-ios
+- Chess https://github.com/mjcuva/Chess
 - Communiqué https://github.com/zadr/Communique
 - DrugsNRock https://github.com/biou/DrugsNRock
 - Everest https://github.com/EverestOpenSource/Everest-iOS
