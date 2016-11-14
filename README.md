@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-588-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 11, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-589-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 14, 2016-lightgrey.svg)
 
 Jump to
 
@@ -881,6 +881,12 @@ Click ► to show more details
 </div>
   </details>
 </details> 
+- iperf: Run an iperf3 client, including reverse mode & multiple streams selection  
+<details><summary>`objc` </summary>  https://github.com/ndfred/iperf-ios<br>  Added November 14, 2016<br>  License: `other`
+<div><img height='300' alt='iperf image 1' src='https://github.com/ndfred/iperf-ios/raw/master/Screenshot.png'> 
+</div>
+  </details>
+</details> 
 - Jasonette: Create a native iOS app with nothing but JSON  
 <details><summary>`json` `javascript` </summary>  https://github.com/Jasonette/JASONETTE-iOS<br>  http://jasonette.com/<br>  Added November 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Jasonette image 1' src='https://github.com/Jasonette/Instagram-UI-example/raw/master/images/instagram.gif'> 
@@ -1627,10 +1633,6 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Chess  
-<details><summary>`swift` </summary>  https://github.com/mjcuva/Chess<br>  Added July 15, 2015<br>  License: `other`
-  </details>
-</details> 
 - Conway's Game of Life  
 <details><summary>`swift` </summary>  https://github.com/yonbergman/swift-gameoflife<br>  Added March 31, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Conway's Game of Life image 1' src='https://raw.githubusercontent.com/yonbergman/swift-gameoflife/master/gameoflife.gif'> 
@@ -1868,7 +1870,7 @@ Click ► to show more details
 </details> 
 - Doppio: Finds the nearest Starbucks  
 <details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/chroman/Doppio<br>  Added March  5, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
-<div><img height='300' alt='Doppio image 1' src='https://camo.githubusercontent.com/8af94eada922e898fb9a63615e431dcefcbc8d1c/687474703a2f2f6368726f6d616e2e6d652f77702d636f6e74656e742f75706c6f6164732f323031332f31322f312e706e67'> <img height='300' alt='Doppio image 2' src='https://camo.githubusercontent.com/0f3d12046e643ac129f8a78a357352988e6d8a3d/687474703a2f2f6368726f6d616e2e6d652f77702d636f6e74656e742f75706c6f6164732f323031332f31322f332e706e67'> 
+<div><img height='300' alt='Doppio image 1' src='http://chroman.me/wp-content/uploads/2013/12/1.png'> <img height='300' alt='Doppio image 2' src='http://chroman.me/wp-content/uploads/2013/12/3.png'> 
 </div>
   </details>
 </details> 
@@ -2057,6 +2059,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - CollageMaker: Make photo collages  
 <details><summary>`instagram api` </summary>  https://github.com/Azoft/CollageMaker-iOS<br>  Added January 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='CollageMaker image 1' src='http://i.imgur.com/bOySdOv.png'> 
+</div>
   </details>
 </details> 
 - ColorBlur: Add blur to your photos [` App Store`](https://itunes.apple.com/app/id928863510)  
@@ -3348,6 +3352,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Coffee Timer  
 <details><summary>`swift` </summary>  https://github.com/ashfurrow/yourfirstswiftapp<br>  Added April  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Coffee Timer image 1' src='http://i.imgur.com/p2r8TmY.png'> <img height='300' alt='Coffee Timer image 2' src='http://i.imgur.com/zEHz6j8.png'> 
+</div>
   </details>
 </details> 
 - Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693)  
