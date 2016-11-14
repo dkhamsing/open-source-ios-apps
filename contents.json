@@ -10894,6 +10894,22 @@
       "license": "other",
       "date_added": "Nov 14 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Dash",
+      "description": "Instant offline access to 150+ API documentation sets",
+      "source": "https://github.com/Kapeli/Dash-iOS",
+      "homepage": "https://kapeli.com/dash_ios",
+      "category-ids": ["developer"],
+      "tags": ["iphone", "ipad", "kissxml", "DZNEmptyDataSet", "dtbonjour", "samkeychain"],
+      "screenshots": [
+        "https://kapeli.com/img/dash_ios-s1-thumb.png",
+        "https://kapeli.com/img/dash_ios-s2-thumb.png"
+      ],
+      "stars": 151,
+      "license": "other",
+      "date_added": "Nov 14 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
