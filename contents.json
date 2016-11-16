@@ -10903,11 +10903,11 @@
       "category-ids": ["developer"],
       "tags": ["iphone", "ipad", "kissxml", "DZNEmptyDataSet", "dtbonjour", "samkeychain"],
       "screenshots": [
-        "https://kapeli.com/img/dash_ios-s1-thumb.png",
-        "https://kapeli.com/img/dash_ios-s2-thumb.png"
+        "https://kapeli.com/img/dash_ios-s1.png",
+        "https://kapeli.com/img/dash_ios-s2.png"
       ],
       "stars": 151,
-      "license": "other",
+      "license": "gpl-3.0",
       "date_added": "Nov 14 2016",
       "suggested_by": "@dkhamsing"
     }
