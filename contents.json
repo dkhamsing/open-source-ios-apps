@@ -10916,6 +10916,18 @@
       "license": "gpl-3.0",
       "date_added": "Nov 14 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Fetch",
+      "source": "https://github.com/steve228uk/Fetch",
+      "homepage": "http://getfetchapp.com/",
+      "description": "The best way to watch Put.io",
+      "category-ids": ["video"],
+      "screenshots": ["http://getfetchapp.com/img/product.png"],
+      "tags": ["iphone", "ipad", "alamofire", "swiftyjson", "keychainaccess", "realm", "1password"],
+      "license": "gpl-3.0",
+      "date_added": "Nov 16 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
