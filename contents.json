@@ -459,7 +459,7 @@
         "https://raw.githubusercontent.com/mukeshthawani/Calculator/master/graphics/scr1.png"
       ],
       "stars": 4,
-      "license": "other",
+      "license": "mit",
       "date_added": "Fri, 18 Dec 2015 01:52:04 +0530",
       "suggested_by": "@mukeshthawani"
     },
@@ -3280,7 +3280,7 @@
         "swift",
         "coreimage"
       ],
-      "license": "other",
+      "license": "gpl-3.0",
       "date_added": "Thu Jan 7 06:59:10 2016 -0800",
       "suggested_by": "@dkhamsing"
     },
@@ -3905,7 +3905,8 @@
       ],
       "date_added": "Aug 8 2016",
       "suggested_by": "@AndreyBaranchikov",
-      "stars": 7
+      "stars": 7,
+      "license": "mit"
     },
     {
       "title": "NirZhihuDaily2.0",
@@ -4135,7 +4136,7 @@
         "hacker-news"
       ],
       "description": "yc",
-      "license": "bsd-3-clause",
+      "license": "bsd-2-clause",
       "source": "https://github.com/Xuzz/newsyc",
       "stars": 1111,
       "date_added": "Thu Mar 19 07:22:04 2015 -0700",
@@ -8290,7 +8291,7 @@
       ],
       "description": "A client for https://tox.chat/",
       "source": "https://github.com/Antidote-for-Tox/Antidote",
-      "license": "mit",
+      "license": "mpl-2.0",
       "homepage": "https://antidote.im/",
       "stars": 214,
       "screenshots": [
@@ -8805,7 +8806,8 @@
       "suggested_by": "Xinghua Fan",
       "screenshots": [
         "http://a5.mzstatic.com/us/r30/Purple60/v4/4a/73/de/4a73decc-8bd5-3f57-9a75-fe59403e2030/screen696x696.jpeg"
-      ]
+      ],
+      "license": "other"
     },
     {
       "title": "Swift-Gif",
@@ -9749,7 +9751,8 @@
       "tags": [
         "other"
       ],
-      "suggested_by": "@dkhamsing"
+      "suggested_by": "@dkhamsing",
+      "license": "other"
     },
     {
       "title": "awesome-macOS",
@@ -9761,7 +9764,8 @@
         "other"
       ],
       "suggested_by": "@dkhamsing",
-      "stars": 5100
+      "stars": 5100,
+      "license": "other"
     },
     {
       "title": "open-source-android-apps",
@@ -9773,7 +9777,8 @@
         "other"
       ],
       "suggested_by": "@dkhamsing",
-      "stars": 4234
+      "stars": 4234,
+      "license": "other"
     },
     {
       "title": "Munch",
@@ -9915,7 +9920,8 @@
       ],
       "date_added": "Aug 5 2016",
       "suggested_by": "@dkhamsing",
-      "stars": 5
+      "stars": 5,
+      "license": "other"
     },
     {
       "title": "Californication",
