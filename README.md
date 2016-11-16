@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-590-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 14, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-590-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 16, 2016-lightgrey.svg)
 
 Jump to
 
@@ -190,7 +190,7 @@ Click ► to show more details
   </details>
 </details> 
 - Calculator by mukeshthawani  
-<details><summary>`swift` </summary>  https://github.com/mukeshthawani/Calculator<br>  Added December 18, 2015<br>  License: `other`
+<details><summary>`swift` </summary>  https://github.com/mukeshthawani/Calculator<br>  Added December 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Calculator by mukeshthawani image 1' src='https://raw.githubusercontent.com/mukeshthawani/Calculator/master/graphics/scr1.png'> 
 </div>
   </details>
@@ -594,7 +594,7 @@ Click ► to show more details
   </details>
 </details> 
 - Antidote: A client for https://tox.chat/  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/Antidote-for-Tox/Antidote<br>  https://antidote.im/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/Antidote-for-Tox/Antidote<br>  https://antidote.im/<br>  Added June  1, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
 <div><img height='300' alt='Antidote image 1' src='https://tox.chat/theme/img/client/antidote_1.png'> 
 </div>
   </details>
@@ -870,8 +870,8 @@ Click ► to show more details
   </details>
 </details> 
 - Dash: Instant offline access to 150+ API documentation sets  
-<details><summary>`iphone` `ipad` `kissxml` `dznemptydataset` `dtbonjour` `samkeychain` 🔥</summary>  https://github.com/Kapeli/Dash-iOS<br>  https://kapeli.com/dash_ios<br>  Added November 14, 2016<br>  License: `other`
-<div><img height='300' alt='Dash image 1' src='https://kapeli.com/img/dash_ios-s1-thumb.png'> <img height='300' alt='Dash image 2' src='https://kapeli.com/img/dash_ios-s2-thumb.png'> 
+<details><summary>`iphone` `ipad` `kissxml` `dznemptydataset` `dtbonjour` `samkeychain` 🔥</summary>  https://github.com/Kapeli/Dash-iOS<br>  https://kapeli.com/dash_ios<br>  Added November 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Dash image 1' src='https://kapeli.com/img/dash_ios-s1.png'> <img height='300' alt='Dash image 2' src='https://kapeli.com/img/dash_ios-s2.png'> 
 </div>
   </details>
 </details> 
@@ -933,10 +933,6 @@ Click ► to show more details
 <details><summary>`swift` </summary>  https://github.com/freesuraj/TLDR<br>  Added May  3, 2016<br>  License: `other`
 <div>
 </div>
-  </details>
-</details> 
-- wat: Very simple packet sniffer  
-<details><summary>`swift` </summary>  https://github.com/pj4533/wat<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 
@@ -2094,7 +2090,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - Filterpedia: Core Image Filter explorer  
-<details><summary>`swift` `coreimage` 🔥🔥🔥🔥</summary>  https://github.com/FlexMonkey/Filterpedia<br>  Added January  7, 2016<br>  License: `other`
+<details><summary>`swift` `coreimage` 🔥🔥🔥🔥</summary>  https://github.com/FlexMonkey/Filterpedia<br>  Added January  7, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Filterpedia image 1' src='https://github.com/FlexMonkey/Filterpedia/raw/master/Filterpedia/assets/screenshot.jpg'> 
 </div>
   </details>
@@ -2533,6 +2529,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
+- Fetch: The best way to watch Put.io  
+<details><summary>`iphone` `ipad` `alamofire` `swiftyjson` `keychainaccess` `realm` `1password` </summary>  https://github.com/steve228uk/Fetch<br>  http://getfetchapp.com/<br>  Added November 16, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Fetch image 1' src='http://getfetchapp.com/img/product.png'> 
+</div>
+  </details>
+</details> 
 - prankPro: Record a 6-second video while playing prank sounds  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/huijimuhe/prankPro<br>  Added March 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2567,7 +2569,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Keinex tech blog  
-<details><summary>`swift` </summary>  https://github.com/AndreyBaranchikov/Keinex-iOS<br>  Added August  8, 2016
+<details><summary>`swift` </summary>  https://github.com/AndreyBaranchikov/Keinex-iOS<br>  Added August  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Keinex tech blog image 1' src='https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/1.jpg'> <img height='300' alt='Keinex tech blog image 2' src='https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/2.jpg'> 
 </div>
   </details>
@@ -2672,7 +2674,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - news: yc  
-<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/Xuzz/newsyc<br>  Added March 19, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/Xuzz/newsyc<br>  Added March 19, 2015<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
 <div>
 </div>
   </details>
@@ -4127,15 +4129,15 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - awesome-macOS  
-<details><summary>`other` 🔥🔥🔥🔥🔥</summary>  https://github.com/iCHAIT/awesome-macOS
+<details><summary>`other` 🔥🔥🔥🔥🔥</summary>  https://github.com/iCHAIT/awesome-macOS<br>  License: `other`
   </details>
 </details> 
 - open-source-android-apps  
-<details><summary>`other` 🔥🔥🔥🔥🔥</summary>  https://github.com/pcqpcq/open-source-android-apps
+<details><summary>`other` 🔥🔥🔥🔥🔥</summary>  https://github.com/pcqpcq/open-source-android-apps<br>  License: `other`
   </details>
 </details> 
 - open-source-ios-apps archive: Projects that are no longer maintained  
-<details><summary>`other` </summary>  https://github.com/dkhamsing/open-source-ios-apps/blob/master/ARCHIVE.md
+<details><summary>`other` </summary>  https://github.com/dkhamsing/open-source-ios-apps/blob/master/ARCHIVE.md<br>  License: `other`
   </details>
 </details> 
 
