@@ -1603,22 +1603,7 @@
       "screenshots": [
 
       ]
-    },
-    {
-      "title": "wat",
-      "category-ids": [
-        "developer"
-      ],
-      "description": "Very simple packet sniffer",
-      "license": "mit",
-      "source": "https://github.com/pj4533/wat",
-      "tags": [
-        "swift"
-      ],
-      "stars": 14,
-      "date_added": "Mon Mar 23 13:42:50 2015 -0700",
-      "suggested_by": "@dkhamsing"
-    },
+    },     
     {
       "title": "GitHub-Swift",
       "category-ids": [
