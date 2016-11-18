@@ -1447,9 +1447,11 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Focus by Firefox",
+      "title": "Firefox Focus",
+      "description": "Browse the web privately",
       "category-ids": [
-        "content-blocking"
+        "content-blocking",
+        "browser"
       ],
       "license": "mpl-2.0",
       "source": "https://github.com/mozilla-mobile/focus",
