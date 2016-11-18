@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-590-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 16, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-591-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 18, 2016-lightgrey.svg)
 
 Jump to
 
@@ -1508,7 +1508,7 @@ Click ► to show more details
 </details> 
 - Hostile Takeover: A release of the real time strategy game Warfare Incorporated  
 <details><summary>`objc` </summary>  https://github.com/spiffcode/hostile-takeover<br>  Added June  1, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
-<div><img height='300' alt='Hostile Takeover image 1' src='https://maniacdev.com/wp-content/uploads/2014/08/screen480x480.jpeg'> 
+<div><img height='300' alt='Hostile Takeover image 1' src='http://i.imgur.com/PQ1QX2u.jpg'> 
 </div>
   </details>
 </details> 
@@ -1848,6 +1848,12 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- AirCheck: Check air pollution on a map  
+<details><summary>`swift` `mapbox` `pop` `swiftyjson` `alamofire` 🇪🇸 </summary>  https://github.com/lojals/AirCheck<br>  Added November 18, 2016<br>  License: `other`
+<div><img height='300' alt='AirCheck image 1' src='https://media.giphy.com/media/uSyooIBl2qBHi/giphy.gif'> 
+</div>
+  </details>
+</details> 
 - Alarm: Geolocation based alarm app for travelers  
 <details><summary>`swift` 🔥</summary>  https://github.com/ChrisChares/swift-alarm<br>  Added March 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -4129,15 +4135,15 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - awesome-macOS  
-<details><summary>`other` 🔥🔥🔥🔥🔥</summary>  https://github.com/iCHAIT/awesome-macOS<br>  License: `other`
+<details><summary>`list` 🔥🔥🔥🔥🔥</summary>  https://github.com/iCHAIT/awesome-macOS<br>  License: `other`
   </details>
 </details> 
 - open-source-android-apps  
-<details><summary>`other` 🔥🔥🔥🔥🔥</summary>  https://github.com/pcqpcq/open-source-android-apps<br>  License: `other`
+<details><summary>`list` 🔥🔥🔥🔥🔥</summary>  https://github.com/pcqpcq/open-source-android-apps<br>  License: `other`
   </details>
 </details> 
 - open-source-ios-apps archive: Projects that are no longer maintained  
-<details><summary>`other` </summary>  https://github.com/dkhamsing/open-source-ios-apps/blob/master/ARCHIVE.md<br>  License: `other`
+<details><summary>`list` </summary>  https://github.com/dkhamsing/open-source-ios-apps/blob/master/ARCHIVE.md<br>  License: `other`
   </details>
 </details> 
 
