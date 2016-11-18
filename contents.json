@@ -10913,6 +10913,18 @@
       "license": "gpl-3.0",
       "date_added": "Nov 16 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "AirCheck",
+      "description": "Check air pollution on a map",
+      "category-ids": ["location"],
+      "source": "https://github.com/lojals/AirCheck",
+      "tags": ["swift", "mapbox", "pop", "swiftyjson", "alamofire"],
+      "screenshots": ["https://media.giphy.com/media/uSyooIBl2qBHi/giphy.gif"],
+      "lang": "spa",
+      "license": "other",
+      "date_added": "Nov 18 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
