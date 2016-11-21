@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-591-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 18, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-591-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 21, 2016-lightgrey.svg)
 
 Jump to
 
@@ -397,6 +397,12 @@ Click ► to show more details
 - Firefox: Official Firefox app [` App Store`](https://itunes.apple.com/app/firefox-web-browser/id989804926)  
 <details><summary>`swift` `carthage` `alamofire` `snapkit` `libphonenumber` 🔥🔥🔥🔥🔥</summary>  https://github.com/mozilla-mobile/firefox-ios<br>  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
 <div><img height='300' alt='Firefox image 1' src='http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg'> 
+</div>
+  </details>
+</details> 
+- Firefox Focus: Browse the web privately [` App Store`](https://itunes.apple.com/app/id1055677337)  
+<details><summary>`swift` 🔥🔥</summary>  https://github.com/mozilla-mobile/focus<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+<div><img height='300' alt='Firefox Focus image 1' src='http://a2.mzstatic.com/us/r30/Purple71/v4/32/81/20/328120a1-29c2-4dd8-fec8-8024eb5bb5ee/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -870,7 +876,7 @@ Click ► to show more details
   </details>
 </details> 
 - Dash: Instant offline access to 150+ API documentation sets  
-<details><summary>`iphone` `ipad` `kissxml` `dznemptydataset` `dtbonjour` `samkeychain` 🔥</summary>  https://github.com/Kapeli/Dash-iOS<br>  https://kapeli.com/dash_ios<br>  Added November 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`iphone` `ipad` `kissxml` `dznemptydataset` `dtbonjour` `samkeychain` 🔥🔥🔥🔥🔥</summary>  https://github.com/Kapeli/Dash-iOS<br>  https://kapeli.com/dash_ios<br>  Added November 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Dash image 1' src='https://kapeli.com/img/dash_ios-s1.png'> <img height='300' alt='Dash image 2' src='https://kapeli.com/img/dash_ios-s2.png'> 
 </div>
   </details>
@@ -1146,9 +1152,9 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Focus by Firefox [` App Store`](https://itunes.apple.com/app/id1055677337)  
+- Firefox Focus: Browse the web privately [` App Store`](https://itunes.apple.com/app/id1055677337)  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/mozilla-mobile/focus<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
-<div><img height='300' alt='Focus by Firefox image 1' src='http://a2.mzstatic.com/us/r30/Purple71/v4/32/81/20/328120a1-29c2-4dd8-fec8-8024eb5bb5ee/screen696x696.jpeg'> 
+<div><img height='300' alt='Firefox Focus image 1' src='http://a2.mzstatic.com/us/r30/Purple71/v4/32/81/20/328120a1-29c2-4dd8-fec8-8024eb5bb5ee/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
