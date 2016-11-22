@@ -487,6 +487,7 @@
       "category-ids": [
         "apple-watch"
       ],
+      "tags": ["swift"],
       "license": "mit",
       "source": "https://github.com/swilliams/watchkit-connectivity-demo",
       "stars": 20,
@@ -4513,7 +4514,7 @@
         "sample",
         "core-data"
       ],
-      "source": "https://github.com/carlosbtn/Swift",
+      "source": "https://github.com/cbutron/Swift",
       "stars": 2704,
       "tags": [
         "swift",
@@ -4549,6 +4550,7 @@
       ],
       "description": "Demo of how to auto-login users using Safari cookies",
       "source": "https://github.com/mackuba/SafariAutoLoginTest",
+      "homepage": "https://vimeo.com/136968596",
       "tags": [
         "swift",
         "ios9"
@@ -4594,6 +4596,7 @@
     },
     {
       "title": "Swift-Demos",
+      "description": "Mirror of Apple example code",
       "category-ids": [
         "sample"
       ],
@@ -6863,7 +6866,8 @@
     {
       "title": "GroceryList",
       "category-ids": [
-        "reactivecocoa"
+        "reactivecocoa",
+        "github"
       ],
       "tags": [
         "iphone"
