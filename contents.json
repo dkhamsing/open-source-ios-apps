@@ -484,6 +484,7 @@
     },
     {
       "title": "Connectivity Demo",
+      "screenshots": ["http://i.imgur.com/KZc3Hjg.png"],
       "category-ids": [
         "apple-watch"
       ],
@@ -2746,8 +2747,8 @@
       "description": "Finds the nearest Starbucks",
       "source": "https://github.com/chroman/Doppio",
       "screenshots": [
-        "http://chroman.me/wp-content/uploads/2013/12/1.png",
-        "http://chroman.me/wp-content/uploads/2013/12/3.png"
+        "http://i.imgur.com/onvvnOb.jpg",
+        "http://i.imgur.com/onvvnOb.jpg"
       ],
       "stars": 546,
       "license": "bsd-2-clause",
@@ -4408,6 +4409,7 @@
       "category-ids": [
         "sample"
       ],
+      "screenshots": ["http://i.imgur.com/PfuYfjU.png"],
       "description": "Use Accelerometer & background mode to create a feature of knocking your phone",
       "source": "https://github.com/MatheusCavalca/Knock",
       "stars": 10,
@@ -4548,6 +4550,7 @@
       "category-ids": [
         "sample"
       ],
+      "screenshots": ["http://i.imgur.com/vaGCfA0.png"],
       "description": "Demo of how to auto-login users using Safari cookies",
       "source": "https://github.com/mackuba/SafariAutoLoginTest",
       "homepage": "https://vimeo.com/136968596",
@@ -4814,6 +4817,10 @@
       ],
       "tags": [
         "swift"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/HBFZhdm.png",
+        "http://i.imgur.com/RKo9RXC.png"
       ],
       "description": "Store & retrieve tasks",
       "license": "mit",
@@ -5596,6 +5603,7 @@
       "category-ids": [
         "content"
       ],
+      "screenshots": ["https://s3.mzstatic.com/r30/Purple6/v4/d3/db/1a/d3db1a57-d85c-b2b1-3b15-5c14bb455229/screen1136x1136.jpeg"],
       "description": "Browse state legislatures",
       "source": "https://github.com/openstates/openstates-ios",
       "stars": 55,
@@ -5770,6 +5778,7 @@
       "tags": [
         "airdrop"
       ],
+      "screenshots": ["http://i.imgur.com/gb1G8di.png"],
       "description": "Send trollfaces to everyone",
       "license": "mit",
       "source": "https://github.com/a2/TrollDrop",
@@ -5843,6 +5852,7 @@
       "category-ids": [
         "content"
       ],
+      "screenshots": ["http://i.imgur.com/84QPJ8v.png"],
       "description": "Thesaurus app",
       "license": "mit",
       "source": "https://github.com/soffes/words",
@@ -5854,6 +5864,10 @@
       "title": "WWDC Students",
       "category-ids": [
         "content"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/EsK2V67.png",
+        "http://i.imgur.com/vmrzCDz.png"
       ],
       "description": "WWDC scholarship entries",
       "source": "https://github.com/wwdc",
@@ -6946,6 +6960,7 @@
       "category-ids": [
         "reactivecocoa"
       ],
+      "screenshots": ["http://i.imgur.com/OxImInV.png"],
       "description": "Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)",
       "license": "mit",
       "source": "https://github.com/calebd/SimpleAuth",
@@ -9169,6 +9184,10 @@
       ],
       "tags": [
         "swift"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/r45bo2R.png",
+        "http://i.imgur.com/fFDR1Fl.png"
       ],
       "description": "Menstrual cycle tracker",
       "license": "other",
