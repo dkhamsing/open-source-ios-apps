@@ -10954,10 +10954,10 @@
     {
       "title": "CodeSprint",
       "category-ids": [
-        "tasks",
+        "developer",
         "firebase"
       ],
-      "description": "Real-time SCRUM management tool for teams.",
+      "description": "Real-time SCRUM management tool for teams",
       "license": "mit",
       "source": "https://github.com/chauvincent/CodeSprint-iOS",
       "itunes": "https://itunes.apple.com/app/codesprint/id1148072754",
@@ -10966,7 +10966,7 @@
          "http://a1.mzstatic.com/us/r30/Purple71/v4/3e/95/f0/3e95f062-ed08-1a9f-b64a-f7cc05930e42/screen696x696.jpeg",
          "http://a4.mzstatic.com/us/r30/Purple62/v4/88/94/25/88942500-f5ea-c03f-41d6-81477f9b78f9/screen696x696.jpeg",
          "http://a3.mzstatic.com/us/r30/Purple62/v4/36/1c/42/361c4270-a061-f7fc-19fa-91e4321aecc4/screen696x696.jpeg",
-         "http://a5.mzstatic.com/us/r30/Purple62/v4/5a/47/90/5a47904c-a86c-336d-c105-9dd20dac1872/screen696x696.jpeg"      
+         "http://a5.mzstatic.com/us/r30/Purple62/v4/5a/47/90/5a47904c-a86c-336d-c105-9dd20dac1872/screen696x696.jpeg"
       ],
       "date_added": "Nov 23 2016",
       "suggested_by": "@chauvincent"
