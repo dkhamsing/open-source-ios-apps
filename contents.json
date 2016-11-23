@@ -10927,6 +10927,22 @@
       "license": "other",
       "date_added": "Nov 18 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "CodeSprint",
+      "category-ids": [
+        "tasks",
+        "firebase"
+      ],
+      "description": "Real-time SCRUM management tool for teams.",
+      "license": "mit",
+      "source": "https://github.com/chauvincent/CodeSprint-iOS",
+      "itunes": "https://itunes.apple.com/app/codesprint/id1148072754",
+      "screenshots": [
+      
+      ],
+      "date_added": "Nov 23 2016",
+      "suggested_by": "@chauvincent"
     }
   ]
 }
