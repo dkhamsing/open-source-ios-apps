@@ -10927,6 +10927,19 @@
       "license": "other",
       "date_added": "Nov 18 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Even",
+      "category-ids": [
+        "ionic"
+      ],
+      "description": "Keeps track of debts between 2 people",
+      "source": "https://github.com/alsk23/even",
+      "itunes": "https://itunes.apple.com/us/app/id888322156",
+      "stars": 0,
+      "license": "CC0",
+      "date_added": "Fri Sep 16 2016 21:47:59 GMT+0200 (CEST)",
+      "suggested_by": "@alsk23"
     }
   ]
 }
