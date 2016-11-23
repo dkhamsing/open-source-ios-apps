@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-591-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 21, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-592-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 23, 2016-lightgrey.svg)
 
 Jump to
 
@@ -208,7 +208,9 @@ Click ► to show more details
   </details>
 </details> 
 - Connectivity Demo  
-<details><summary>`objc` </summary>  https://github.com/swilliams/watchkit-connectivity-demo<br>  Added July 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` </summary>  https://github.com/swilliams/watchkit-connectivity-demo<br>  Added July 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Connectivity Demo image 1' src='http://i.imgur.com/KZc3Hjg.png'> 
+</div>
   </details>
 </details> 
 - CoolSpot: The missing Spotify app  
@@ -719,6 +721,8 @@ Click ► to show more details
 </details> 
 - TrollDrop: Send trollfaces to everyone  
 <details><summary>`airdrop` </summary>  https://github.com/a2/TrollDrop<br>  Added May  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='TrollDrop image 1' src='http://i.imgur.com/gb1G8di.png'> 
+</div>
   </details>
 </details> 
 - TSWeChat: A WeChat alternative  
@@ -966,6 +970,10 @@ Click ► to show more details
 </details> 
 - GitHub-Swift  
 <details><summary>`swift` </summary>  https://github.com/acmacalister/Github-Swift<br>  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+</details> 
+- GroceryList: Grocery list, synchronized with GitHub  
+<details><summary>`iphone` 🔥🔥🔥</summary>  https://github.com/jspahrsummers/GroceryList<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Monkey: Browse top GitHub coders & repositories [` App Store`](https://itunes.apple.com/app/monkey-for-github/id1003765407)  
@@ -1694,6 +1702,8 @@ Click ► to show more details
  
 - Abby's Cycle: Menstrual cycle tracker  
 <details><summary>`swift` </summary>  https://github.com/jc4p/abby-healthkit<br>  Added July 11, 2016<br>  License: `other`
+<div><img height='300' alt='Abby's Cycle image 1' src='http://i.imgur.com/r45bo2R.png'> <img height='300' alt='Abby's Cycle image 2' src='http://i.imgur.com/fFDR1Fl.png'> 
+</div>
   </details>
 </details> 
 - Arex: Reminders for taking your medications  
@@ -1884,7 +1894,7 @@ Click ► to show more details
 </details> 
 - Doppio: Finds the nearest Starbucks  
 <details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/chroman/Doppio<br>  Added March  5, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
-<div><img height='300' alt='Doppio image 1' src='http://chroman.me/wp-content/uploads/2013/12/1.png'> <img height='300' alt='Doppio image 2' src='http://chroman.me/wp-content/uploads/2013/12/3.png'> 
+<div><img height='300' alt='Doppio image 1' src='http://i.imgur.com/onvvnOb.jpg'> <img height='300' alt='Doppio image 2' src='http://i.imgur.com/onvvnOb.jpg'> 
 </div>
   </details>
 </details> 
@@ -2367,6 +2377,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - Open States: Browse state legislatures  
 <details><summary>`objc` </summary>  https://github.com/openstates/openstates-ios<br>  Added April  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+<div><img height='300' alt='Open States image 1' src='https://s3.mzstatic.com/r30/Purple6/v4/d3/db/1a/d3db1a57-d85c-b2b1-3b15-5c14bb455229/screen1136x1136.jpeg'> 
+</div>
   </details>
 </details> 
 - OpenCB: Interactive chess book reader  
@@ -2467,10 +2479,14 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - Words: Thesaurus app  
 <details><summary>`objc` </summary>  https://github.com/soffes/words<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Words image 1' src='http://i.imgur.com/84QPJ8v.png'> 
+</div>
   </details>
 </details> 
 - WWDC Students: WWDC scholarship entries  
 <details><summary>`swift` 🔥</summary>  https://github.com/wwdc<br>  Added March 21, 2016<br>  License: `other`
+<div><img height='300' alt='WWDC Students image 1' src='http://i.imgur.com/EsK2V67.png'> <img height='300' alt='WWDC Students image 2' src='http://i.imgur.com/vmrzCDz.png'> 
+</div>
   </details>
 </details> 
 - xkcd [` App Store`](https://itunes.apple.com/app/xkcd/id303688284)  
@@ -2892,6 +2908,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - SimpleAuth: Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)  
 <details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/calebd/SimpleAuth<br>  Added April 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='SimpleAuth image 1' src='http://i.imgur.com/OxImInV.png'> 
+</div>
   </details>
 </details> 
 - SwiftRACGoogleImages: Google image search  
@@ -3024,6 +3042,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Knock: Use Accelerometer & background mode to create a feature of knocking your phone  
 <details><summary>`objc` </summary>  https://github.com/MatheusCavalca/Knock<br>  Added March 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Knock image 1' src='http://i.imgur.com/PfuYfjU.png'> 
+</div>
   </details>
 </details> 
 - Layer-Parse  
@@ -3067,7 +3087,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Reusable Code  
-<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/carlosbtn/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/cbutron/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - RKGist: GitHub Gists  
@@ -3075,7 +3095,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - SafariAutoLoginTest: Demo of how to auto-login users using Safari cookies  
-<details><summary>`swift` `ios9` 🔥🔥</summary>  https://github.com/mackuba/SafariAutoLoginTest<br>  Added April 22, 2016<br>  License: `other`
+<details><summary>`swift` `ios9` 🔥🔥</summary>  https://github.com/mackuba/SafariAutoLoginTest<br>  https://vimeo.com/136968596<br>  Added April 22, 2016<br>  License: `other`
+<div><img height='300' alt='SafariAutoLoginTest image 1' src='http://i.imgur.com/vaGCfA0.png'> 
+</div>
   </details>
 </details> 
 - Siesta GitHub Browser: Browse & star GitHub repositories  
@@ -3094,7 +3116,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Swift-Demos  
+- Swift-Demos: Mirror of Apple example code  
 <details><summary>`swift` 🇨🇳 🔥🔥🔥🔥</summary>  https://github.com/Lax/iOS-Swift-Demos<br>  Added April 22, 2016<br>  License: `other`
   </details>
 </details> 
@@ -3262,6 +3284,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - CloudKit-To-Do-List: Store & retrieve tasks  
 <details><summary>`swift` </summary>  https://github.com/anthonygeranio/CloudKit-To-Do-List<br>  Added April  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='CloudKit-To-Do-List image 1' src='http://i.imgur.com/HBFZhdm.png'> <img height='300' alt='CloudKit-To-Do-List image 2' src='http://i.imgur.com/RKo9RXC.png'> 
+</div>
+  </details>
+</details> 
+- CodeSprint: Real-time SCRUM management tool for teams. [` App Store`](https://itunes.apple.com/app/codesprint/id1148072754)  
+<details><summary>`objc` </summary>  https://github.com/chauvincent/CodeSprint-iOS<br>  Added November 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='CodeSprint image 1' src='http://a1.mzstatic.com/us/r30/Purple62/v4/95/15/ad/9515add9-5322-a96e-5ab6-bbd258d524d5/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 2' src='http://a1.mzstatic.com/us/r30/Purple71/v4/3e/95/f0/3e95f062-ed08-1a9f-b64a-f7cc05930e42/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 3' src='http://a4.mzstatic.com/us/r30/Purple62/v4/88/94/25/88942500-f5ea-c03f-41d6-81477f9b78f9/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 4' src='http://a3.mzstatic.com/us/r30/Purple62/v4/36/1c/42/361c4270-a061-f7fc-19fa-91e4321aecc4/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 5' src='http://a5.mzstatic.com/us/r30/Purple62/v4/5a/47/90/5a47904c-a86c-336d-c105-9dd20dac1872/screen696x696.jpeg'> 
+</div>
   </details>
 </details> 
 - Habitica: Habit building & productivity [` App Store`](https://itunes.apple.com/app/id994882113)  
@@ -3657,7 +3687,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Reusable Code  
-<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/carlosbtn/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/cbutron/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures  
@@ -3686,6 +3716,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Chaty: Anonymous messaging with real time data sync  
 <details><summary>`firebase` `websocket` `nosql` 🔥🔥</summary>  https://github.com/LunarFlash/Chaty<br>  Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Chaty image 1' src='https://github.com/LunarFlash/Chaty/raw/master/ChatChat/screen1.png'> 
+</div>
+  </details>
+</details> 
+- CodeSprint: Real-time SCRUM management tool for teams. [` App Store`](https://itunes.apple.com/app/codesprint/id1148072754)  
+<details><summary>`objc` </summary>  https://github.com/chauvincent/CodeSprint-iOS<br>  Added November 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='CodeSprint image 1' src='http://a1.mzstatic.com/us/r30/Purple62/v4/95/15/ad/9515add9-5322-a96e-5ab6-bbd258d524d5/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 2' src='http://a1.mzstatic.com/us/r30/Purple71/v4/3e/95/f0/3e95f062-ed08-1a9f-b64a-f7cc05930e42/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 3' src='http://a4.mzstatic.com/us/r30/Purple62/v4/88/94/25/88942500-f5ea-c03f-41d6-81477f9b78f9/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 4' src='http://a3.mzstatic.com/us/r30/Purple62/v4/36/1c/42/361c4270-a061-f7fc-19fa-91e4321aecc4/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 5' src='http://a5.mzstatic.com/us/r30/Purple62/v4/5a/47/90/5a47904c-a86c-336d-c105-9dd20dac1872/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
