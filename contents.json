@@ -2971,7 +2971,7 @@
       "description": "Pebble app to show nearest CitiBike NYC dock",
       "source": "https://github.com/joemasilotti/PebCiti",
       "screenshots": [
-        "https://camo.githubusercontent.com/2654f9dd528e13175b126d14b17c3548cef0f131/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f656d6173696c6f7474692f506562436974692f6d61737465722f53637265656e73686f74732f694f532e706e67"
+        "https://raw.github.com/joemasilotti/PebCiti/master/Screenshots/iOS.png"
       ],
       "stars": 18,
       "license": "mit",
@@ -7951,7 +7951,7 @@
       "homepage": "http://www.heredox.com/",
       "screenshots": [
         "http://i.imgur.com/Wg6TIR7.jpg",
-        "https://camo.githubusercontent.com/dd7fd312f4f4670b02ecfd0da7fce74567618a62/687474703a2f2f613630362e70686f626f732e6170706c652e636f6d2f75732f72313030302f3037342f507572706c652f76342f33372f35302f61382f33373530613866312d623765652d393839372d323334362d3936643662643930663362342f6d7a6c2e796d6f696a696c782e333230783438302d37352e6a7067"
+        "http://i.imgur.com/PatEcU8.jpg"
       ],
       "tags": [
         "cocos2d"
