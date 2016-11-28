@@ -1186,11 +1186,10 @@
       "source": "https://github.com/mumble-voip/mumble-iphoneos",
       "itunes": "https://itunes.apple.com/app/mumble/id443472808",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple/v4/d9/1b/34/d91b34b2-cf48-a0ed-2ee8-63a067466732/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple/v4/ea/3e/c6/ea3ec6ff-3e85-50db-4d78-f7b19eb4c840/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple/v4/cf/70/56/cf70565a-ae4a-dc6b-b077-384e4a00f9d8/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple/v4/e4/4f/33/e44f3380-4935-9c6f-6ca8-f3a25321fb98/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple/v4/c7/de/f4/c7def48d-f14d-6337-f0a5-38d5918c284a/screen696x696.jpeg"
+         "http://a3.mzstatic.com/us/r30/Purple19/v4/cd/72/30/cd723067-64a5-ba1c-bacf-7d3ac967fcf6/screen696x696.jpeg",
+         "http://a1.mzstatic.com/us/r30/Purple71/v4/85/8f/07/858f0765-90e5-7924-a856-c69debad6822/screen696x696.jpeg",
+         "http://a1.mzstatic.com/us/r30/Purple19/v4/ac/a7/5c/aca75cef-caa0-417e-9542-6e819ad02c2b/screen696x696.jpeg",
+         "http://a4.mzstatic.com/us/r30/Purple71/v4/41/1a/5b/411a5be1-031f-ff95-b981-f93da80c0f9c/screen696x696.jpeg"
       ],
       "stars": 136,
       "date_added": "Thu Sep 10 13:23:03 2015 -0700",
