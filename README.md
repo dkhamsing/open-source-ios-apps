@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-593-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 27, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-593-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 28, 2016-lightgrey.svg)
 
 Jump to
 
@@ -870,6 +870,12 @@ Click ► to show more details
 - CodeBucket: Browse & maintain your Bitbucket repositories  
 <details><summary>`objc` 🔥</summary>  https://github.com/thedillonb/CodeBucket<br>  Added June  3, 2016<br>  License: `other`
 <div><img height='300' alt='CodeBucket image 1' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/RepositoryView.png'> <img height='300' alt='CodeBucket image 2' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Slideout.png'> <img height='300' alt='CodeBucket image 3' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Repositories.png'> <img height='300' alt='CodeBucket image 4' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/ChangeSets.png'> <img height='300' alt='CodeBucket image 5' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Issues.png '> 
+</div>
+  </details>
+</details> 
+- CodeSprint: Real-time SCRUM management tool for teams [` App Store`](https://itunes.apple.com/app/codesprint/id1148072754)  
+<details><summary>`objc` </summary>  https://github.com/chauvincent/CodeSprint-iOS<br>  Added November 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='CodeSprint image 1' src='http://a1.mzstatic.com/us/r30/Purple62/v4/95/15/ad/9515add9-5322-a96e-5ab6-bbd258d524d5/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 2' src='http://a1.mzstatic.com/us/r30/Purple71/v4/3e/95/f0/3e95f062-ed08-1a9f-b64a-f7cc05930e42/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 3' src='http://a4.mzstatic.com/us/r30/Purple62/v4/88/94/25/88942500-f5ea-c03f-41d6-81477f9b78f9/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 4' src='http://a3.mzstatic.com/us/r30/Purple62/v4/36/1c/42/361c4270-a061-f7fc-19fa-91e4321aecc4/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 5' src='http://a5.mzstatic.com/us/r30/Purple62/v4/5a/47/90/5a47904c-a86c-336d-c105-9dd20dac1872/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -3294,12 +3300,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- CodeSprint: Real-time SCRUM management tool for teams. [` App Store`](https://itunes.apple.com/app/codesprint/id1148072754)  
-<details><summary>`objc` </summary>  https://github.com/chauvincent/CodeSprint-iOS<br>  Added November 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='CodeSprint image 1' src='http://a1.mzstatic.com/us/r30/Purple62/v4/95/15/ad/9515add9-5322-a96e-5ab6-bbd258d524d5/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 2' src='http://a1.mzstatic.com/us/r30/Purple71/v4/3e/95/f0/3e95f062-ed08-1a9f-b64a-f7cc05930e42/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 3' src='http://a4.mzstatic.com/us/r30/Purple62/v4/88/94/25/88942500-f5ea-c03f-41d6-81477f9b78f9/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 4' src='http://a3.mzstatic.com/us/r30/Purple62/v4/36/1c/42/361c4270-a061-f7fc-19fa-91e4321aecc4/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 5' src='http://a5.mzstatic.com/us/r30/Purple62/v4/5a/47/90/5a47904c-a86c-336d-c105-9dd20dac1872/screen696x696.jpeg'> 
-</div>
-  </details>
-</details> 
 - Habitica: Habit building & productivity [` App Store`](https://itunes.apple.com/app/id994882113)  
 <details><summary>`objc` </summary>  https://github.com/HabitRPG/habitica-ios<br>  https://habitica.com/static/front<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Habitica image 1' src='http://a5.mzstatic.com/us/r30/Purple6/v4/a2/af/06/a2af06ac-0644-00b5-85f1-ae13e3ebf1cd/screen696x696.jpeg'> 
@@ -3731,7 +3731,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- CodeSprint: Real-time SCRUM management tool for teams. [` App Store`](https://itunes.apple.com/app/codesprint/id1148072754)  
+- CodeSprint: Real-time SCRUM management tool for teams [` App Store`](https://itunes.apple.com/app/codesprint/id1148072754)  
 <details><summary>`objc` </summary>  https://github.com/chauvincent/CodeSprint-iOS<br>  Added November 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='CodeSprint image 1' src='http://a1.mzstatic.com/us/r30/Purple62/v4/95/15/ad/9515add9-5322-a96e-5ab6-bbd258d524d5/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 2' src='http://a1.mzstatic.com/us/r30/Purple71/v4/3e/95/f0/3e95f062-ed08-1a9f-b64a-f7cc05930e42/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 3' src='http://a4.mzstatic.com/us/r30/Purple62/v4/88/94/25/88942500-f5ea-c03f-41d6-81477f9b78f9/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 4' src='http://a3.mzstatic.com/us/r30/Purple62/v4/36/1c/42/361c4270-a061-f7fc-19fa-91e4321aecc4/screen696x696.jpeg'> <img height='300' alt='CodeSprint image 5' src='http://a5.mzstatic.com/us/r30/Purple62/v4/5a/47/90/5a47904c-a86c-336d-c105-9dd20dac1872/screen696x696.jpeg'> 
 </div>
