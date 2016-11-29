@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-594-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 28, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-595-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 29, 2016-lightgrey.svg)
 
 Jump to
 
@@ -915,14 +915,14 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Knuff: The debug application for Apple Push Notification Service (APNs) [` App Store`](https://itunes.apple.com/app/knuff-the-apns-debug-tool/id993435856)  
-<details><summary>`swift` `pop` </summary>  https://github.com/KnuffApp/Knuff-iOS<br>  Added October 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+- Knuff: The debug application for Apple Push Notification service [` App Store`](https://itunes.apple.com/app/knuff-the-apns-debug-tool/id993435856)  
+<details><summary>`swift` `pop` `apns` </summary>  https://github.com/KnuffApp/Knuff-iOS<br>  Added October 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Knuff image 1' src='http://a4.mzstatic.com/us/r30/Purple49/v4/f9/21/14/f9211459-6b65-ed7c-ec75-c58c4de7f497/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
-- NWPusher: Play with the Apple Push Notification service (APNs)  
-<details><summary>`objc` 🔥🔥🔥🔥🔥</summary>  https://github.com/noodlewerk/NWPusher<br>  Added November 18, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+- NWPusher: Play with the Apple Push Notification service  
+<details><summary>`apns` 🔥🔥🔥🔥🔥</summary>  https://github.com/noodlewerk/NWPusher<br>  Added November 28, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
 <div><img height='300' alt='NWPusher image 1' src='https://github.com/noodlewerk/NWPusher/raw/master/Docs/osx2.png'> <img height='300' alt='NWPusher image 2' src='https://github.com/noodlewerk/NWPusher/raw/master/Docs/ios.png'> 
 </div>
   </details>
@@ -1528,7 +1528,7 @@ Click ► to show more details
 </details> 
 - Heredox: Place tiles to form your allegiance's symbols  
 <details><summary>`cocos2d` </summary>  https://github.com/RolandasRazma/Heredox<br>  http://www.heredox.com/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Heredox image 1' src='http://i.imgur.com/Wg6TIR7.jpg'> <img height='300' alt='Heredox image 2' src='https://camo.githubusercontent.com/dd7fd312f4f4670b02ecfd0da7fce74567618a62/687474703a2f2f613630362e70686f626f732e6170706c652e636f6d2f75732f72313030302f3037342f507572706c652f76342f33372f35302f61382f33373530613866312d623765652d393839372d323334362d3936643662643930663362342f6d7a6c2e796d6f696a696c782e333230783438302d37352e6a7067'> 
+<div><img height='300' alt='Heredox image 1' src='http://i.imgur.com/Wg6TIR7.jpg'> <img height='300' alt='Heredox image 2' src='http://i.imgur.com/PatEcU8.jpg'> 
 </div>
   </details>
 </details> 
@@ -2026,7 +2026,7 @@ Click ► to show more details
 </details> 
 - PebCiti: Pebble app to show nearest CitiBike NYC dock  
 <details><summary>`objc` </summary>  https://github.com/joemasilotti/PebCiti<br>  Added May  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='PebCiti image 1' src='https://camo.githubusercontent.com/2654f9dd528e13175b126d14b17c3548cef0f131/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f656d6173696c6f7474692f506562436974692f6d61737465722f53637265656e73686f74732f694f532e706e67'> 
+<div><img height='300' alt='PebCiti image 1' src='https://raw.github.com/joemasilotti/PebCiti/master/Screenshots/iOS.png'> 
 </div>
   </details>
 </details> 
@@ -2372,6 +2372,12 @@ Image, video, audio, reading — [back to top](#readme)
 - Molecules: Visualize molecules in 3D [` App Store`](https://itunes.apple.com/app/molecules/id284943090)  
 <details><summary>`objc` </summary>  http://www.sunsetlakesoftware.com/molecules<br>  Added May 31, 2016<br>  License: `other`
 <div><img height='300' alt='Molecules image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/2f/7c/cd/2f7ccdde-4478-b24b-7801-809b11b9e6f3/screen320x480.jpeg'> 
+</div>
+  </details>
+</details> 
+- movieapp: Discover movies & tv shows  
+<details><summary>`reactnative` 🔥</summary>  https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='movieapp image 1' src='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'> 
 </div>
   </details>
 </details> 
@@ -3105,7 +3111,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Reusable Code  
-<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/cbutron/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/carlosencoding/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - RKGist: GitHub Gists  
@@ -3699,7 +3705,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Reusable Code  
-<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/cbutron/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/carlosencoding/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures  
@@ -3957,6 +3963,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - london-react  
 <details><summary>`reactnative` </summary>  https://github.com/JoeStanton/london-react<br>  Added August  2, 2015<br>  License: `other`
 <div><img height='300' alt='london-react image 1' src='http://i.imgur.com/zcyhbtv.png'> 
+</div>
+  </details>
+</details> 
+- movieapp: Discover movies & tv shows  
+<details><summary>`reactnative` 🔥</summary>  https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='movieapp image 1' src='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'> 
 </div>
   </details>
 </details> 
