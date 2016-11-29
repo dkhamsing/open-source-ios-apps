@@ -10525,10 +10525,11 @@
       "category-ids": [
         "developer"
       ],
-      "description": "The debug application for Apple Push Notification Service (APNs)",
+      "description": "The debug application for Apple Push Notification service",
       "tags": [
         "swift",
-        "pop"
+        "pop",
+        "apns"
       ],
       "screenshots": [
         "http://a4.mzstatic.com/us/r30/Purple49/v4/f9/21/14/f9211459-6b65-ed7c-ec75-c58c4de7f497/screen696x696.jpeg"
@@ -10993,16 +10994,17 @@
     },
     {
       "title": "NWPusher",
-      "description": "Play with the Apple Push Notification service (APNs)",
+      "description": "Play with the Apple Push Notification service",
       "category-ids": ["developer"],
       "screenshots": [
         "https://github.com/noodlewerk/NWPusher/raw/master/Docs/osx2.png",
         "https://github.com/noodlewerk/NWPusher/raw/master/Docs/ios.png"
       ],
+      "tags": ["apns"],
       "source": "https://github.com/noodlewerk/NWPusher",
       "stars": 2293,
       "license": "bsd-2-clause",
-      "date_added": "Nov 18 2016",
+      "date_added": "Nov 28 2016",
       "suggested_by": "@dkhamsing"
     }
   ]
