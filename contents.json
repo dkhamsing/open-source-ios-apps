@@ -623,6 +623,9 @@
         "swift",
         "watchos2"
       ],
+      "screenshots": [
+        "http://i.imgur.com/hOfxCBx.png"
+      ],
       "license": "other",
       "date_added": "Wed Jul 29 07:36:26 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -2746,8 +2749,8 @@
       "description": "Finds the nearest Starbucks",
       "source": "https://github.com/chroman/Doppio",
       "screenshots": [
-        "http://i.imgur.com/onvvnOb.jpg",
-        "http://i.imgur.com/onvvnOb.jpg"
+        "http://i.imgur.com/2ZG08AX.png",
+        "http://i.imgur.com/PDUUWTj.png"
       ],
       "stars": 546,
       "license": "bsd-2-clause",
@@ -2971,7 +2974,7 @@
       "description": "Pebble app to show nearest CitiBike NYC dock",
       "source": "https://github.com/joemasilotti/PebCiti",
       "screenshots": [
-        "https://raw.github.com/joemasilotti/PebCiti/master/Screenshots/iOS.png"
+        "https://raw.githubusercontent.com/joemasilotti/PebCiti/master/Screenshots/iOS.png"
       ],
       "stars": 18,
       "license": "mit",
@@ -10029,7 +10032,7 @@
       "license": "other",
       "stars": 833,
       "screenshots": [
-        "https://camo.githubusercontent.com/cfa19d4ba7d4b87e1a1d0a54c1d11d0761b69ae7/687474703a2f2f692e67697068792e636f6d2f687743616848414431744e48612e676966"
+        "http://i.giphy.com/hwCahHAD1tNHa.gif"
       ],
       "date_added": "Aug 15 2016",
       "suggested_by": "@dkhamsing"
