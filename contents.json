@@ -11006,6 +11006,23 @@
       "license": "bsd-2-clause",
       "date_added": "Nov 28 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "movieapp",
+      "description": "Discover movies & tv shows",
+      "source": "https://github.com/JuneDomingo/movieapp",
+      "category-ids": [
+        "content",
+        "react-native"
+      ],
+      "tags": [
+        "reactnative"
+      ],
+      "screenshots": ["https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png"],
+      "stars": 121,
+      "license": "mit",
+      "date_added": "Nov 28 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
