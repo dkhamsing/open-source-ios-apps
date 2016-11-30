@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-595-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 29, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-595-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November 30, 2016-lightgrey.svg)
 
 Jump to
 
@@ -254,7 +254,9 @@ Click ► to show more details
   </details>
 </details> 
 - heartrate: Show streaming heart rate from the watch  
-<details><summary>`swift` `watchos2` 🔥🔥</summary>  https://github.com/coolioxlr/watchOS-2-heartrate<br>  Added July 29, 2015<br>  License: `other`
+<details><summary>`swift` `watchos2` 🔥🔥</summary>  https://github.com/coolioxlr/watchOS-2-heartrate<br>  http://imgur.com/a/xVqqj<br>  Added July 29, 2015<br>  License: `other`
+<div><img height='300' alt='heartrate image 1' src='http://i.imgur.com/hOfxCBx.png'> 
+</div>
   </details>
 </details> 
 - HighStreet: Highstreet shopping app  
@@ -586,7 +588,7 @@ Click ► to show more details
 </details> 
 - youtube-iOS: YouTube app template  
 <details><summary>`swift` `swift3` 🔥🔥🔥</summary>  https://github.com/aslanyanhaik/youtube-iOS<br>  Added August 15, 2016<br>  License: `other`
-<div><img height='300' alt='youtube-iOS image 1' src='https://camo.githubusercontent.com/cfa19d4ba7d4b87e1a1d0a54c1d11d0761b69ae7/687474703a2f2f692e67697068792e636f6d2f687743616848414431744e48612e676966'> 
+<div><img height='300' alt='youtube-iOS image 1' src='http://i.giphy.com/hwCahHAD1tNHa.gif'> 
 </div>
   </details>
 </details> 
@@ -1905,8 +1907,8 @@ Click ► to show more details
   </details>
 </details> 
 - Doppio: Finds the nearest Starbucks  
-<details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/chroman/Doppio<br>  Added March  5, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
-<div><img height='300' alt='Doppio image 1' src='http://i.imgur.com/onvvnOb.jpg'> <img height='300' alt='Doppio image 2' src='http://i.imgur.com/onvvnOb.jpg'> 
+<details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/chroman/Doppio<br>  http://imgur.com/a/ges5M<br>  Added March  5, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+<div><img height='300' alt='Doppio image 1' src='http://i.imgur.com/2ZG08AX.png'> <img height='300' alt='Doppio image 2' src='http://i.imgur.com/PDUUWTj.png'> 
 </div>
   </details>
 </details> 
@@ -2026,7 +2028,7 @@ Click ► to show more details
 </details> 
 - PebCiti: Pebble app to show nearest CitiBike NYC dock  
 <details><summary>`objc` </summary>  https://github.com/joemasilotti/PebCiti<br>  Added May  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='PebCiti image 1' src='https://raw.github.com/joemasilotti/PebCiti/master/Screenshots/iOS.png'> 
+<div><img height='300' alt='PebCiti image 1' src='https://raw.githubusercontent.com/joemasilotti/PebCiti/master/Screenshots/iOS.png'> 
 </div>
   </details>
 </details> 
