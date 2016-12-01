@@ -11028,6 +11028,42 @@
       "license": "mit",
       "date_added": "Nov 28 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "apnagent-ios",
+      "source": "https://github.com/logicalparadox/apnagent-ios",
+      "category-ids": ["developer"],
+      "tags": ["archive"],
+      "license": "other",
+      "date_added": "Dec 1 2016",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "OpenClien",
+      "source": "https://github.com/kewlbear/OpenClien",
+      "category-ids": ["content"],
+      "tags": ["archive"],
+      "license": "apache-2.0",
+      "date_added": "Dec 1 2016",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "TaskPaper",
+      "source": "https://github.com/jessegrosjean/NOTTaskPaperForIOS",
+      "category-ids": ["tasks"],
+      "tags": ["archive"],
+      "license": "unlicense",
+      "date_added": "Dec 1 2016",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Letters",
+      "source": "https://github.com/jessegrosjean/letters.iphone",
+      "category-ids": ["game"],
+      "tags": ["archive"],
+      "license": "other",
+      "date_added": "Dec 1 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
