@@ -4312,6 +4312,7 @@
       "tags": [
         "cloudkit"
       ],
+      "screenshots": ["http://i.imgur.com/anNR2DT.png"],
       "license": "mit",
       "source": "https://github.com/Yalantis/CloudKit-Demo.Objective-C",
       "stars": 104,
@@ -4329,6 +4330,7 @@
         "swift",
         "cloudkit"
       ],
+      "screenshots": ["http://i.imgur.com/dS9aFJL.png"],
       "stars": 162,
       "date_added": "Sun, 17 May 2015 08:34:02 -0700",
       "suggested_by": "@dkhamsing"
@@ -5372,6 +5374,7 @@
       "category-ids": [
         "misc"
       ],
+      "screenshots": ["http://i.imgur.com/QEAE4B3.jpg"],
       "description": "Change screen gamma dynamically",
       "source": "https://github.com/anthonya1999/GoodNight",
       "stars": 544,
@@ -6216,6 +6219,7 @@
       "tags": [
         "swift"
       ],
+      "screenshots": ["http://i.imgur.com/hkcrHaH.jpg"],
       "stars": 85,
       "license": "cc0-1.0",
       "date_added": "Mon Nov 2 14:05:46 2015 -0800",
@@ -7041,6 +7045,7 @@
       "category-ids": [
         "viper"
       ],
+      "screenshots": ["http://i.imgur.com/vgZbwrp.png"],
       "license": "mit",
       "source": "https://github.com/mutualmobile/Counter",
       "stars": 266,
