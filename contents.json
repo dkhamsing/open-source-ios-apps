@@ -9752,9 +9752,9 @@
         "communication"
       ],
       "description": "Collaboration for teams, chat & share via http://matrix.org/",
-      "source": "https://github.com/vector-im/vector-ios",
+      "source": "https://github.com/vector-im/riot-ios",
       "homepage": "https://vector.im/",
-      "itunes": "https://itunes.apple.com/app/vector.im/id1083446067",
+      "itunes": "https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067",
       "license": "apache-2.0",
       "stars": 102,
       "date_added": "Thu Jul 21 22:53:48 2016 -0700",
