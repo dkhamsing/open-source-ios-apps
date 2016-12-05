@@ -11349,6 +11349,21 @@
       "date_added": "Dec 1 2016",
       "suggested_by": "@dkhamsing",
       "stars": 31
+    },
+    {
+      "title": "PropertyCross",
+      "description": "Search UK property listings",
+      "category-ids": ["xamarin"],
+      "source": "https://github.com/tastejs/PropertyCross/tree/master/xamarin",
+      "screenshots": [
+        "http://propertycross.com/frameworks/xamarin/ios/PropertyCross.thumbnail.png",
+        "http://propertycross.com/frameworks/xamarin/ios/SearchResults.thumbnail.png"
+      ],
+      "tags": "csharp",
+      "license": "other",
+      "date_added": "Dec 5 2016",
+      "suggested_by": "@dkhamsing",
+      "stars": 516
     }
   ]
 }
