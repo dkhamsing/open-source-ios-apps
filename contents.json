@@ -8712,7 +8712,7 @@
         "tor"
       ],
       "description": "A Tor-powered web browser that improves your privacy",
-      "source": "https://github.com/mtigas/iOS-OnionBrowser",
+      "source": "https://github.com/mtigas/OnionBrowser",
       "homepage": "https://mike.tig.as/onionbrowser/",
       "itunes": "https://itunes.apple.com/app/id519296448",
       "license": "mit",
@@ -11168,7 +11168,7 @@
     },
     {
       "title": "Fetch",
-      "source": "https://github.com/steve228uk/Fetch",
+      "source": "https://github.com/TryFetch/Fetch",
       "homepage": "http://getfetchapp.com/",
       "description": "The best way to watch Put.io",
       "category-ids": [
