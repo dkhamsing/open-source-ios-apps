@@ -7204,7 +7204,7 @@
       "category-ids": [
         "xamarin"
       ],
-      "tags": "csharp",
+      "tags": ["csharp"],
       "source": "https://github.com/toggl/mobile",
       "itunes": "https://itunes.apple.com/app/toggl-timer/id885767775",
       "stars": 210,
@@ -11360,7 +11360,7 @@
         "http://propertycross.com/frameworks/xamarin/ios/PropertyCross.thumbnail.png",
         "http://propertycross.com/frameworks/xamarin/ios/SearchResults.thumbnail.png"
       ],
-      "tags": "csharp",
+      "tags": ["csharp"],
       "license": "other",
       "date_added": "Dec 5 2016",
       "suggested_by": "@dkhamsing",
