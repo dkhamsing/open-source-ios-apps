@@ -4,6 +4,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 
 - ABU https://github.com/flexih/ABU
 - Adler Planetarium Navigation & Tour https://github.com/lucasqiu/Adler-Mobile-App
+- Alien Blue https://github.com/alienblue/AlienBlue
 - Alphabet-Blocks https://github.com/insurgentgames/Alphabet-Blocks
 - AppSales-Mobile https://github.com/omz/AppSales-Mobile
 - Bancha https://github.com/squallstar/bancha-ios-app
@@ -33,6 +34,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - apnagent-ios https://github.com/logicalparadox/apnagent-ios
 - iLabyrinth https://github.com/RolandasRazma/iLabyrinth
 - iOctocat https://github.com/dennisreimann/ioctocat
+- theNews https://github.com/TosinAF/thenews-objc
 - wikiHow https://github.com/tderouin/wikiHow-iPhone-Application
 
 ## Contact
