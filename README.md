@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-600-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December  5, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-602-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December  6, 2016-lightgrey.svg)
 
 Jump to
 
@@ -417,7 +417,7 @@ Click ► to show more details
   </details>
 </details> 
 - Onion Browser: A Tor-powered web browser that improves your privacy [` App Store`](https://itunes.apple.com/app/id519296448)  
-<details><summary>`tor` 🔥🔥🔥</summary>  https://github.com/mtigas/iOS-OnionBrowser<br>  https://mike.tig.as/onionbrowser/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`tor` 🔥🔥🔥</summary>  https://github.com/mtigas/OnionBrowser<br>  https://mike.tig.as/onionbrowser/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Onion Browser image 1' src='http://a4.mzstatic.com/us/r30/Purple42/v4/7c/3c/cc/7c3ccc4e-77c8-799a-9058-4b8672c71a08/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2584,7 +2584,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Fetch: The best way to watch Put.io  
-<details><summary>`iphone` `ipad` `alamofire` `swiftyjson` `keychainaccess` `realm` `1password` </summary>  https://github.com/steve228uk/Fetch<br>  http://getfetchapp.com/<br>  Added November 16, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`iphone` `ipad` `alamofire` `swiftyjson` `keychainaccess` `realm` `1password` </summary>  https://github.com/TryFetch/Fetch<br>  http://getfetchapp.com/<br>  Added November 16, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Fetch image 1' src='http://getfetchapp.com/img/product.png'> 
 </div>
   </details>
