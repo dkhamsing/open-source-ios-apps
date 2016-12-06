@@ -11365,6 +11365,32 @@
       "date_added": "Dec 5 2016",
       "suggested_by": "@dkhamsing",
       "stars": 516
+    },
+    {
+      "title" :"Alien Blue",
+      "source": "https://github.com/alienblue/AlienBlue",
+      "tags": [
+        "archive"
+      ],
+      "category-ids": [
+        "content"
+      ],
+      "license": "other",
+      "date_added": "Dec 6 2016",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "theNews",
+      "source": "https://github.com/TosinAF/thenews-objc",
+      "tags": [
+        "archive"
+      ],
+      "category-ids": [
+        "content"
+      ],      
+      "license": "other",
+      "date_added": "Dec 6 2016",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
