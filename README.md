@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-602-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December  6, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-602-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December  7, 2016-lightgrey.svg)
 
 Jump to
 
@@ -751,7 +751,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Wire: Modern, private communications: crystal clear voice, video, group chats. No advertising. Always encrypted. [` App Store`](https://itunes.apple.com/app/wire/id930944768)  
+- Wire: Modern, private communications with crystal clear voice, video, group chats. Always encrypted. [` App Store`](https://itunes.apple.com/app/wire/id930944768)  
 <details><summary>`swift` `carthage` `afnetworking` `purelayout` 🔥🔥🔥🔥</summary>  https://github.com/wireapp/wire-ios<br>  Added July 22, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Wire image 1' src='https://cdn-images-1.medium.com/max/800/1*CEtofzY1rIOKuGT7JO3VkA.png'> 
 </div>
@@ -2840,7 +2840,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Wire: Modern, private communications: crystal clear voice, video, group chats. No advertising. Always encrypted. [` App Store`](https://itunes.apple.com/app/wire/id930944768)  
+- Wire: Modern, private communications with crystal clear voice, video, group chats. Always encrypted. [` App Store`](https://itunes.apple.com/app/wire/id930944768)  
 <details><summary>`swift` `carthage` `afnetworking` `purelayout` 🔥🔥🔥🔥</summary>  https://github.com/wireapp/wire-ios<br>  Added July 22, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Wire image 1' src='https://cdn-images-1.medium.com/max/800/1*CEtofzY1rIOKuGT7JO3VkA.png'> 
 </div>
