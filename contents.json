@@ -9770,7 +9770,7 @@
         "communication",
         "official"
       ],
-      "description": "Modern, private communications: crystal clear voice, video, group chats. No advertising. Always encrypted.",
+      "description": "Modern, private communications with crystal clear voice, video, group chats. Always encrypted.",
       "source": "https://github.com/wireapp/wire-ios",
       "itunes": "https://itunes.apple.com/app/wire/id930944768",
       "tags": [
@@ -11387,7 +11387,7 @@
       ],
       "category-ids": [
         "content"
-      ],      
+      ],
       "license": "other",
       "date_added": "Dec 6 2016",
       "suggested_by": "@dkhamsing"
