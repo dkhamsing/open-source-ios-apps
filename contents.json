@@ -7426,6 +7426,10 @@
       "tags": [
         "archive"
       ],
+      "screenshots": [
+        "http://www.stwing.upenn.edu/~cyrusn/blog/pictures/PocketFlix/1.0/IMG_0002.png",
+        "http://www.stwing.upenn.edu/~cyrusn/blog/pictures/PocketFlix/1.0/IMG_0001.png"
+      ],
       "license": "gpl-2.0",
       "date_added": "Fri May 15 12:23:53 2015 -0400",
       "suggested_by": "Sanket"
@@ -10083,6 +10087,10 @@
       "source": "https://github.com/lucasqiu/Adler-Mobile-App",
       "tags": [
         "archive"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/lMvDaEw.png",
+        "http://i.imgur.com/y3o7uAK.png"
       ],
       "date_added": "Aug 5 2016",
       "suggested_by": "@dkhamsing",
