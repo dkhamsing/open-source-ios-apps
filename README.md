@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-602-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December  7, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-603-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December 14, 2016-lightgrey.svg)
 
 Jump to
 
@@ -2777,6 +2777,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Firefox: Official Firefox app [` App Store`](https://itunes.apple.com/app/firefox-web-browser/id989804926)  
 <details><summary>`swift` `carthage` `alamofire` `snapkit` `libphonenumber` 🔥🔥🔥🔥🔥</summary>  https://github.com/mozilla-mobile/firefox-ios<br>  Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
 <div><img height='300' alt='Firefox image 1' src='http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg'> 
+</div>
+  </details>
+</details> 
+- Kickstarter: Where independent creators & passionate backers come together to bring new ideas to life [` App Store`](https://itunes.apple.com/app/kickstarter/id596961532)  
+<details><summary>`swift` </summary>  https://github.com/kickstarter/ios-oss<br>  Added December 14, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='Kickstarter image 1' src='http://a1.mzstatic.com/us/r30/Purple71/v4/80/e2/06/80e206db-711c-ba1d-dfd1-cf02de5336d7/screen696x696.jpeg'> <img height='300' alt='Kickstarter image 2' src='http://a3.mzstatic.com/us/r30/Purple71/v4/80/e7/17/80e717dd-3ff1-7159-6e0a-5a357b197184/screen696x696.jpeg'> <img height='300' alt='Kickstarter image 3' src='http://a4.mzstatic.com/us/r30/Purple71/v4/25/fb/c7/25fbc7b3-ac7c-6019-9a15-c86491121989/screen696x696.jpeg'> <img height='300' alt='Kickstarter image 4' src='http://a4.mzstatic.com/us/r30/Purple71/v4/e9/73/49/e97349df-f83d-5970-8937-fffb38fb544c/screen696x696.jpeg'> <img height='300' alt='Kickstarter image 5' src='http://a2.mzstatic.com/us/r30/Purple71/v4/ad/c0/93/adc0936c-22d3-d2c1-cb7b-c53cd1f79b9c/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
