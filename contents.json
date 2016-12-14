@@ -11406,7 +11406,7 @@
       "title": "Kickstarter",
       "description": "Where independent creators & passionate backers come together to bring new ideas to life",
       "source": "https://github.com/kickstarter/ios-oss",
-      "tags": ["swift"],
+      "tags": ["swift", "1password", "alamorefire", "stripe", "ios-snapshot-test-case"],
       "category-ids": ["official"],
       "itunes": "https://itunes.apple.com/app/kickstarter/id596961532",
       "screenshots": [
@@ -11416,6 +11416,7 @@
         "http://a4.mzstatic.com/us/r30/Purple71/v4/e9/73/49/e97349df-f83d-5970-8937-fffb38fb544c/screen696x696.jpeg",
         "http://a2.mzstatic.com/us/r30/Purple71/v4/ad/c0/93/adc0936c-22d3-d2c1-cb7b-c53cd1f79b9c/screen696x696.jpeg"
       ],
+      "stars": 2991,
       "license": "apache-2.0",
       "date_added": "Dec 14 2016",
       "suggested_by": "@jafework"
