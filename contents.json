@@ -11401,6 +11401,24 @@
       "license": "other",
       "date_added": "Dec 6 2016",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Kickstarter",
+      "description": "Where independent creators & passionate backers come together to bring new ideas to life",
+      "source": "https://github.com/kickstarter/ios-oss",
+      "tags": ["swift"],
+      "category-ids": ["official"],
+      "itunes": "https://itunes.apple.com/app/kickstarter/id596961532",
+      "screenshots": [
+        "http://a1.mzstatic.com/us/r30/Purple71/v4/80/e2/06/80e206db-711c-ba1d-dfd1-cf02de5336d7/screen696x696.jpeg",
+        "http://a3.mzstatic.com/us/r30/Purple71/v4/80/e7/17/80e717dd-3ff1-7159-6e0a-5a357b197184/screen696x696.jpeg",
+        "http://a4.mzstatic.com/us/r30/Purple71/v4/25/fb/c7/25fbc7b3-ac7c-6019-9a15-c86491121989/screen696x696.jpeg",
+        "http://a4.mzstatic.com/us/r30/Purple71/v4/e9/73/49/e97349df-f83d-5970-8937-fffb38fb544c/screen696x696.jpeg",
+        "http://a2.mzstatic.com/us/r30/Purple71/v4/ad/c0/93/adc0936c-22d3-d2c1-cb7b-c53cd1f79b9c/screen696x696.jpeg"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Dec 14 2016",
+      "suggested_by": "@jafework"
     }
   ]
 }
