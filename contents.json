@@ -11420,6 +11420,19 @@
       "license": "apache-2.0",
       "date_added": "Dec 14 2016",
       "suggested_by": "@jafework"
+    },
+    {
+      "title": "monotone delay",
+      "category-ids": ["audio"],
+      "description": "A simple iOS synthesiser powered by Pure Data. Based on the Korg Monotron Delay.",
+      "source": "https://github.com/jkandzi/Monotone-Delay",
+      "screenshots": ["http://a4.mzstatic.com/us/r30/Purple5/v4/7d/be/82/7dbe82a0-26a2-ec64-2804-47de55caa190/screen520x924.jpeg"],
+      "date_added": "Dec 21 2016",
+      "suggested_by": "@jkandzi",
+      "license": "mit",
+      "homepage": "http://monotone.justuskandzi.com",
+      "itunes": "https://itunes.apple.com/app/monotone-delay/id737483162",
+      "stars": 6
     }
   ]
 }
