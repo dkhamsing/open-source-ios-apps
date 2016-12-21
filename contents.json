@@ -11433,6 +11433,24 @@
       "homepage": "http://monotone.justuskandzi.com",
       "itunes": "https://itunes.apple.com/app/monotone-delay/id737483162",
       "stars": 6
+    },
+    {
+      "title": "Vesper",
+      "description": "Note-taking app",
+      "source": "https://github.com/brentsimmons/Vesper",
+      "itunes": "https://itunes.apple.com/app/vesper/id655895325",
+      "category-ids": ["text"],
+      "screenshots": [
+          "http://a4.mzstatic.com/us/r30/Purple1/v4/ff/44/1f/ff441f09-8a8f-b839-b9be-e80d614318c9/screen696x696.jpeg",
+          "http://a5.mzstatic.com/us/r30/Purple1/v4/13/fe/a1/13fea138-ceff-8ff1-a768-6840ce787ddd/screen696x696.jpeg",
+          "http://a1.mzstatic.com/us/r30/Purple5/v4/f3/b0/79/f3b07907-a0f8-21e1-cceb-b623cf786020/screen696x696.jpeg",
+          "http://a4.mzstatic.com/us/r30/Purple1/v4/4d/30/a9/4d30a9a7-b8bc-eb8b-a038-1db045a18524/screen696x696.jpeg",
+          "http://a5.mzstatic.com/us/r30/Purple3/v4/de/2b/09/de2b09a8-b6f6-9558-28bb-ce2ce90c471c/screen696x696.jpeg"
+      ],
+      "license": "mit",
+      "date_added": "Dec 21 2016",
+      "suggested_by": "@dkhamsing",
+      "stars": 49
     }
   ]
 }
