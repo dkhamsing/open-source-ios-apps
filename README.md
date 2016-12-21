@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-603-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December 19, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-604-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December 21, 2016-lightgrey.svg)
 
 Jump to
 
@@ -2258,6 +2258,12 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - MiamiSunglasses: Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation (YEAAAAAAAAAAHH)  
 <details><summary>`swift` </summary>  https://github.com/DeveloperACE/MiamiSunglasses<br>  Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+</details> 
+- monotone delay: A simple iOS synthesiser powered by Pure Data. Based on the Korg Monotron Delay. [` App Store`](https://itunes.apple.com/app/monotone-delay/id737483162)  
+<details><summary>`objc` </summary>  https://github.com/jkandzi/Monotone-Delay<br>  http://monotone.justuskandzi.com<br>  Added December 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='monotone delay image 1' src='http://a4.mzstatic.com/us/r30/Purple5/v4/7d/be/82/7dbe82a0-26a2-ec64-2804-47de55caa190/screen520x924.jpeg'> 
+</div>
   </details>
 </details> 
 - Radio Paradise: Official app for http://www.radioparadise.com/ [` App Store`](https://itunes.apple.com/app/id663334697)  
