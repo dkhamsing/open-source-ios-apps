@@ -11422,9 +11422,9 @@
       "suggested_by": "@jafework"
     },
     {
-      "title": "monotone delay",
+      "title": "Monotone Delay",
       "category-ids": ["audio"],
-      "description": "A simple iOS synthesiser powered by Pure Data. Based on the Korg Monotron Delay.",
+      "description": "A simple synthesiser, based on the Korg Monotron Delay",
       "source": "https://github.com/jkandzi/Monotone-Delay",
       "screenshots": ["http://a4.mzstatic.com/us/r30/Purple5/v4/7d/be/82/7dbe82a0-26a2-ec64-2804-47de55caa190/screen520x924.jpeg"],
       "date_added": "Dec 21 2016",
