@@ -4576,7 +4576,7 @@
         "sample",
         "core-data"
       ],
-      "source": "https://github.com/carlosencoding/Swift",
+      "source": "https://github.com/cybercarlos/Swift",
       "stars": 2863,
       "tags": [
         "swift",
@@ -7845,7 +7845,7 @@
         "swift"
       ],
       "screenshots": [
-        "https://github.com/BalestraPatrick/Tweetometer/raw/master/Screenshots/image1.png"
+        "https://github.com/BalestraPatrick/Tweetometer/raw/master/header.png"
       ],
       "stars": 68,
       "date_added": "Thu May 26 08:48:30 2016 -0700",
@@ -9322,7 +9322,7 @@
         "jade",
         "coffeescript"
       ],
-      "description": "Watch episodes of the sitcom http://unclenagyshouse.com/",
+      "description": "Watch episodes of the sitcom",
       "license": "mit",
       "source": "https://github.com/kenmickles/unh_tvos",
       "itunes": "https://itunes.apple.com/us/app/id1042172021",
