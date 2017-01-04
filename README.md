@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-605-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December 22, 2016-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-605-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January  4, 2017-lightgrey.svg)
 
 Jump to
 
@@ -387,7 +387,7 @@ Click ► to show more details
 [back to top](#readme) 
  
 - Brave: Firefox-based browser with ad block & tracking pixel/cookie block built in [` App Store`](https://itunes.apple.com/app/brave-web-browser/id1052879175)  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/brave/browser-ios<br>  Added May 24, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+<details><summary>`swift` 🔥🔥🔥</summary>  https://github.com/brave/browser-ios<br>  Added May 24, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
 <div><img height='300' alt='Brave image 1' src='http://a5.mzstatic.com/us/r30/Purple18/v4/ed/6c/07/ed6c07f4-c9cd-0daa-a331-a39a85ba1c08/screen696x696.jpeg'> 
 </div>
   </details>
@@ -405,7 +405,7 @@ Click ► to show more details
   </details>
 </details> 
 - Firefox Focus: Browse the web privately [` App Store`](https://itunes.apple.com/app/id1055677337)  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/mozilla-mobile/focus<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+<details><summary>`swift` 🔥🔥🔥</summary>  https://github.com/mozilla-mobile/focus<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
 <div><img height='300' alt='Firefox Focus image 1' src='http://a2.mzstatic.com/us/r30/Purple71/v4/32/81/20/328120a1-29c2-4dd8-fec8-8024eb5bb5ee/screen696x696.jpeg'> 
 </div>
   </details>
@@ -465,13 +465,13 @@ Click ► to show more details
 </details> 
 - Round & Split: Tip Calculator [` App Store`](https://itunes.apple.com/app/round-split/id912288737)  
 <details><summary>`swift` </summary>  https://github.com/lukhnos/roundandsplit<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Round & Split image 1' src='http://a4.mzstatic.com/us/r30/Purple6/v4/ca/1a/e0/ca1ae046-90b1-09de-f81f-0ba4f14416f3/screen696x696.jpeg'> <img height='300' alt='Round & Split image 2' src='http://a4.mzstatic.com/us/r30/Purple6/v4/f6/71/6c/f6716c77-ee81-a841-7193-871d64878e4d/screen696x696.jpeg'> <img height='300' alt='Round & Split image 3' src='http://a5.mzstatic.com/us/r30/Purple22/v4/f1/a9/2e/f1a92e42-0507-06a1-d5c0-fd41f26e144b/screen696x696.jpeg'> <img height='300' alt='Round & Split image 4' src='http://a4.mzstatic.com/us/r30/Purple42/v4/60/ae/41/60ae411b-62ed-25b0-3136-80f64250aa60/screen696x696.jpeg'> 
+<div><img height='300' alt='Round & Split image 1' src='http://a5.mzstatic.com/us/r30/Purple22/v4/f1/a9/2e/f1a92e42-0507-06a1-d5c0-fd41f26e144b/screen696x696.jpeg'> <img height='300' alt='Round & Split image 2' src='http://a4.mzstatic.com/us/r30/Purple42/v4/60/ae/41/60ae411b-62ed-25b0-3136-80f64250aa60/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
 - SIP Calculator: Calculate the future value of SIP (Systematic Investment Plan) payments [` App Store`](https://itunes.apple.com/app/id1092822415)  
 <details><summary>`swift` </summary>  https://github.com/tirupati17/sip-calculator-swift<br>  Added July 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='SIP Calculator image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/a5/73/e2/a573e23b-d0ef-5c65-cf46-8c36e0980e97/screen696x696.jpeg'> <img height='300' alt='SIP Calculator image 2' src='http://a5.mzstatic.com/us/r30/Purple69/v4/dc/cc/2c/dccc2c04-f147-30b4-0a9e-9bff2a857476/screen696x696.jpeg'> <img height='300' alt='SIP Calculator image 3' src='http://a1.mzstatic.com/us/r30/Purple49/v4/6e/6a/c4/6e6ac413-2fd5-225a-5e69-8e78493df59a/screen696x696.jpeg'> 
+<div><img height='300' alt='SIP Calculator image 1' src='http://a5.mzstatic.com/us/r30/Purple69/v4/dc/cc/2c/dccc2c04-f147-30b4-0a9e-9bff2a857476/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -494,7 +494,7 @@ Click ► to show more details
 </details> 
 - Workdays: Simple calendar with operating schedule [` App Store`](https://itunes.apple.com/app/workdays-calendar/id889712978)  
 <details><summary>`iphone` </summary>  https://github.com/mpak/Workdays<br>  Added August 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Workdays image 1' src='http://a5.mzstatic.com/us/r30/Purple5/v4/02/fa/8e/02fa8ec3-2586-48f8-a759-42695f62dde9/screen696x696.jpeg'> <img height='300' alt='Workdays image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/49/47/2c/49472c02-7607-80a8-6f0f-4b42aa0420aa/screen696x696.jpeg'> <img height='300' alt='Workdays image 3' src='http://a1.mzstatic.com/us/r30/Purple3/v4/de/8d/fa/de8dfade-d74b-b663-671c-c919f1ba6f10/screen696x696.jpeg'> <img height='300' alt='Workdays image 4' src='http://a2.mzstatic.com/us/r30/Purple5/v4/b0/56/f8/b056f84e-8983-0bf0-eaf7-7e1edb9a82c1/screen696x696.jpeg'> 
+<div><img height='300' alt='Workdays image 1' src='http://a5.mzstatic.com/us/r30/Purple5/v4/02/fa/8e/02fa8ec3-2586-48f8-a759-42695f62dde9/screen696x696.jpeg'> <img height='300' alt='Workdays image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/49/47/2c/49472c02-7607-80a8-6f0f-4b42aa0420aa/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -587,7 +587,7 @@ Click ► to show more details
   </details>
 </details> 
 - youtube-iOS: YouTube app template  
-<details><summary>`swift` `swift3` 🔥🔥🔥</summary>  https://github.com/aslanyanhaik/youtube-iOS<br>  Added August 15, 2016<br>  License: `other`
+<details><summary>`swift` `swift3` 🔥🔥🔥🔥</summary>  https://github.com/aslanyanhaik/youtube-iOS<br>  Added August 15, 2016<br>  License: `other`
 <div><img height='300' alt='youtube-iOS image 1' src='http://i.giphy.com/hwCahHAD1tNHa.gif'> 
 </div>
   </details>
@@ -610,7 +610,7 @@ Click ► to show more details
   </details>
 </details> 
 - AppRTC: A native video chat app  
-<details><summary>`webrtc` `google` 🔥🔥</summary>  https://github.com/ISBX/apprtc-ios<br>  Added September  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+<details><summary>`webrtc` `google` 🔥🔥🔥</summary>  https://github.com/ISBX/apprtc-ios<br>  Added September  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
 <div><img height='300' alt='AppRTC image 1' src='https://github.com/ISBX/apprtc-ios/raw/master/screenshots/screenshots.jpg'> 
 </div>
   </details>
@@ -1175,7 +1175,7 @@ Click ► to show more details
   </details>
 </details> 
 - Firefox Focus: Browse the web privately [` App Store`](https://itunes.apple.com/app/id1055677337)  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/mozilla-mobile/focus<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+<details><summary>`swift` 🔥🔥🔥</summary>  https://github.com/mozilla-mobile/focus<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
 <div><img height='300' alt='Firefox Focus image 1' src='http://a2.mzstatic.com/us/r30/Purple71/v4/32/81/20/328120a1-29c2-4dd8-fec8-8024eb5bb5ee/screen696x696.jpeg'> 
 </div>
   </details>
@@ -1292,7 +1292,7 @@ Click ► to show more details
 </details> 
 - SIP Calculator: Calculate the future value of SIP (Systematic Investment Plan) payments [` App Store`](https://itunes.apple.com/app/id1092822415)  
 <details><summary>`swift` </summary>  https://github.com/tirupati17/sip-calculator-swift<br>  Added July 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='SIP Calculator image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/a5/73/e2/a573e23b-d0ef-5c65-cf46-8c36e0980e97/screen696x696.jpeg'> <img height='300' alt='SIP Calculator image 2' src='http://a5.mzstatic.com/us/r30/Purple69/v4/dc/cc/2c/dccc2c04-f147-30b4-0a9e-9bff2a857476/screen696x696.jpeg'> <img height='300' alt='SIP Calculator image 3' src='http://a1.mzstatic.com/us/r30/Purple49/v4/6e/6a/c4/6e6ac413-2fd5-225a-5e69-8e78493df59a/screen696x696.jpeg'> 
+<div><img height='300' alt='SIP Calculator image 1' src='http://a5.mzstatic.com/us/r30/Purple69/v4/dc/cc/2c/dccc2c04-f147-30b4-0a9e-9bff2a857476/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -1868,7 +1868,7 @@ Click ► to show more details
   </details>
 </details> 
 - Slidden: Customizable keyboard  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/Brimizer/Slidden<br>  Added November 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/Brimizer/Slidden<br>  Added November 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Slidden image 1' src='https://github.com/Brimizer/Slidden/raw/master/assets/screenshot.png'> 
 </div>
   </details>
@@ -2384,7 +2384,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - movieapp: Discover movies & tv shows  
-<details><summary>`reactnative` 🔥</summary>  https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥</summary>  https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='movieapp image 1' src='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'> 
 </div>
   </details>
@@ -3002,7 +3002,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - RxTodo  
-<details><summary>`swift` `swift2.2` `rxswift` `mvvm` 🔥🔥</summary>  https://github.com/devxoul/RxTodo<br>  Added September 19, 2016<br>  License: `other`
+<details><summary>`swift` `swift2.2` `rxswift` `mvvm` 🔥🔥🔥</summary>  https://github.com/devxoul/RxTodo<br>  Added September 19, 2016<br>  License: `other`
 <div><img height='300' alt='RxTodo image 1' src='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'> 
 </div>
   </details>
@@ -3019,7 +3019,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - 30 days of React Native demos  
-<details><summary>`reactnative` 🔥🔥🔥🔥</summary>  https://github.com/fangwei716/30-days-of-react-native<br>  Added August 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/fangwei716/30-days-of-react-native<br>  Added August 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='30 days of React Native demos image 1' src='https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif'> 
 </div>
   </details>
@@ -3420,7 +3420,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Vesper: Note-taking app [` App Store`](https://itunes.apple.com/app/vesper/id655895325)  
-<details><summary>`objc` 🔥</summary>  https://github.com/brentsimmons/Vesper<br>  Added December 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/brentsimmons/Vesper<br>  Added December 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Vesper image 1' src='http://a4.mzstatic.com/us/r30/Purple1/v4/ff/44/1f/ff441f09-8a8f-b839-b9be-e80d614318c9/screen696x696.jpeg'> <img height='300' alt='Vesper image 2' src='http://a5.mzstatic.com/us/r30/Purple1/v4/13/fe/a1/13fea138-ceff-8ff1-a768-6840ce787ddd/screen696x696.jpeg'> <img height='300' alt='Vesper image 3' src='http://a1.mzstatic.com/us/r30/Purple5/v4/f3/b0/79/f3b07907-a0f8-21e1-cceb-b623cf786020/screen696x696.jpeg'> <img height='300' alt='Vesper image 4' src='http://a4.mzstatic.com/us/r30/Purple1/v4/4d/30/a9/4d30a9a7-b8bc-eb8b-a038-1db045a18524/screen696x696.jpeg'> <img height='300' alt='Vesper image 5' src='http://a5.mzstatic.com/us/r30/Purple3/v4/de/2b/09/de2b09a8-b6f6-9558-28bb-ce2ce90c471c/screen696x696.jpeg'> 
 </div>
   </details>
@@ -3901,7 +3901,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - 30 days of React Native demos  
-<details><summary>`reactnative` 🔥🔥🔥🔥</summary>  https://github.com/fangwei716/30-days-of-react-native<br>  Added August 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/fangwei716/30-days-of-react-native<br>  Added August 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='30 days of React Native demos image 1' src='https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif'> 
 </div>
   </details>
@@ -3947,7 +3947,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Facebook Login  
-<details><summary>`reactnative` 🔥🔥</summary>  https://github.com/brentvatne/react-native-login<br>  Added April 14, 2015<br>  License: `other`
+<details><summary>`reactnative` 🔥🔥🔥</summary>  https://github.com/brentvatne/react-native-login<br>  Added April 14, 2015<br>  License: `other`
 <div><img height='300' alt='Facebook Login image 1' src='https://github.com/brentvatne/react-native-login/raw/master/demo!!!.gif'> 
 </div>
   </details>
@@ -3995,7 +3995,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - movieapp: Discover movies & tv shows  
-<details><summary>`reactnative` 🔥</summary>  https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥</summary>  https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='movieapp image 1' src='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'> 
 </div>
   </details>
