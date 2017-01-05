@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-605-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January  4, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-605-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January  5, 2017-lightgrey.svg)
 
 Jump to
 
@@ -142,7 +142,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Uncle Nagy's House: Watch episodes of the sitcom http://unclenagyshouse.com/ [` App Store`](https://itunes.apple.com/us/app/id1042172021)  
+- Uncle Nagy's House: Watch episodes of the sitcom [` App Store`](https://itunes.apple.com/us/app/id1042172021)  
 <details><summary>`tvml` `gulp` `jade` `coffeescript` </summary>  https://github.com/kenmickles/unh_tvos<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Uncle Nagy's House image 1' src='https://camo.githubusercontent.com/8d0df3c5da622d7bd153620e8e83fc544d11d48f/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f313539393832332f53637265656e73686f74253230323031352d30392d323125323032332e33392e30312e706e67'> 
 </div>
@@ -179,7 +179,7 @@ Click ► to show more details
 </details> 
 - Brew: Discover craft beer pubs nearby [` App Store`](https://itunes.apple.com/app/id986830433)  
 <details><summary>`swift` </summary>  https://github.com/contentful/ContentfulWatchKitExample<br>  Added April 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Brew image 1' src='http://a1.mzstatic.com/us/r30/Purple5/v4/d8/0b/60/d80b6021-c445-60b3-718e-6aa9b767dd67/screen696x696.jpeg'> <img height='300' alt='Brew image 2' src='http://a2.mzstatic.com/us/r30/Purple5/v4/a7/a9/83/a7a983cb-7a25-f622-2bed-225c2e77ca15/screen696x696.jpeg'> <img height='300' alt='Brew image 3' src='http://a5.mzstatic.com/us/r30/Purple7/v4/67/4c/62/674c628c-ab5a-3aa1-e480-40b0afbce87e/screen696x696.jpeg'> <img height='300' alt='Brew image 4' src='http://a2.mzstatic.com/us/r30/Purple7/v4/71/02/90/71029036-8b58-c2fd-5a31-5033c1f10695/screen696x696.jpeg'> <img height='300' alt='Brew image 5' src='http://a3.mzstatic.com/us/r30/Purple7/v4/c3/ef/57/c3ef5772-d344-ff29-9227-7ee369ad4b36/screen696x696.jpeg'> 
+<div><img height='300' alt='Brew image 1' src='http://a1.mzstatic.com/us/r30/Purple5/v4/d8/0b/60/d80b6021-c445-60b3-718e-6aa9b767dd67/screen696x696.jpeg'> <img height='300' alt='Brew image 2' src='http://a2.mzstatic.com/us/r30/Purple5/v4/a7/a9/83/a7a983cb-7a25-f622-2bed-225c2e77ca15/screen696x696.jpeg'> <img height='300' alt='Brew image 3' src='http://a5.mzstatic.com/us/r30/Purple7/v4/67/4c/62/674c628c-ab5a-3aa1-e480-40b0afbce87e/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -3009,7 +3009,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Tweetometer: See who is tweeting in your timeline  
 <details><summary>`swift` </summary>  https://github.com/BalestraPatrick/Tweetometer<br>  Added May 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Tweetometer image 1' src='https://github.com/BalestraPatrick/Tweetometer/raw/master/Screenshots/image1.png'> 
+<div><img height='300' alt='Tweetometer image 1' src='https://github.com/BalestraPatrick/Tweetometer/raw/master/header.png'> 
 </div>
   </details>
 </details> 
@@ -3129,7 +3129,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Reusable Code  
-<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/carlosencoding/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/cybercarlos/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - RKGist: GitHub Gists  
@@ -3731,7 +3731,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Reusable Code  
-<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/carlosencoding/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/cybercarlos/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures  
