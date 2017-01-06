@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-605-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January  5, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-606-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January  6, 2017-lightgrey.svg)
 
 Jump to
 
@@ -678,6 +678,12 @@ Click ► to show more details
 - Mumble: Gaming-focused social voice chat utility [` App Store`](https://itunes.apple.com/app/mumble/id443472808)  
 <details><summary>`objc` 🔥</summary>  https://github.com/mumble-voip/mumble-iphoneos<br>  Added September 10, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
 <div><img height='300' alt='Mumble image 1' src='http://a3.mzstatic.com/us/r30/Purple19/v4/cd/72/30/cd723067-64a5-ba1c-bacf-7d3ac967fcf6/screen696x696.jpeg'> <img height='300' alt='Mumble image 2' src='http://a1.mzstatic.com/us/r30/Purple71/v4/85/8f/07/858f0765-90e5-7924-a856-c69debad6822/screen696x696.jpeg'> <img height='300' alt='Mumble image 3' src='http://a1.mzstatic.com/us/r30/Purple19/v4/ac/a7/5c/aca75cef-caa0-417e-9542-6e819ad02c2b/screen696x696.jpeg'> <img height='300' alt='Mumble image 4' src='http://a4.mzstatic.com/us/r30/Purple71/v4/41/1a/5b/411a5be1-031f-ff95-b981-f93da80c0f9c/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Quick Chat: Real time chat app  
+<details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  4, 2017
+<div><img height='300' alt='Quick Chat image 1' src='https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif'> 
 </div>
   </details>
 </details> 
@@ -3784,6 +3790,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - how-much: Simple app to record how much things cost  
 <details><summary>`parse` `firebase` </summary>  https://github.com/dkhamsing/how-much<br>  Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='how-much image 1' src='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'> 
+</div>
+  </details>
+</details> 
+- Quick Chat: Real time chat app  
+<details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  4, 2017
+<div><img height='300' alt='Quick Chat image 1' src='https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif'> 
 </div>
   </details>
 </details> 
