@@ -1097,6 +1097,15 @@
       "suggested_by": "@dkhamsing"
     },
     {
+            "title": "Quick Chat",
+            "category-ids": ["communication"],
+            "description": "Real time chat app written in Swift 3 using Firebase",
+            "source": "https://github.com/aslanyanhaik/Quick-Chat",
+            "screenshots": ["https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif"],
+            "date_added": "Wed Jan 04 14:30:00 2017 -0700",
+            "suggested_by": "@aslanyanhaik"
+    },
+    {
       "title": "Chats",
       "category-ids": [
         "communication"
