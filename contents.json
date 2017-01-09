@@ -11490,7 +11490,7 @@
       "title": "Marvel Comics",
       "source": "https://github.com/thiagolioy/marvelapp",
       "category-ids": ["media"],
-      "tags" : ["swift", "moya", "rxswift"],
+      "tags" : ["swift", "moya", "rxswift", "dollar", "kingfisher", "quick", "nimble"],
       "screenshots": ["https://github.com/thiagolioy/marvelapp/blob/master/assets/marvel_screens.png?raw=true"],
       "license": "mit",
       "date_added": "Jan 9 2017",
