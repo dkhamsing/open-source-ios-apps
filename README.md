@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-606-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January  6, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-607-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January  9, 2017-lightgrey.svg)
 
 Jump to
 
@@ -682,7 +682,7 @@ Click ► to show more details
   </details>
 </details> 
 - Quick Chat: Real time chat app  
-<details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  4, 2017
+<details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  6, 2017
 <div><img height='300' alt='Quick Chat image 1' src='https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif'> 
 </div>
   </details>
@@ -2003,7 +2003,7 @@ Click ► to show more details
   </details>
 </details> 
 - OpenStreetView: Collect OpenStreetView data [` App Store`](https://itunes.apple.com/app/openstreetview/id1089548849)  
-<details><summary>`objc` </summary>  https://github.com/openstreetview/ios<br>  http://openstreetview.org<br>  Added August 21, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`objc` </summary>  https://github.com/openstreetcam/ios<br>  http://openstreetview.org<br>  Added August 21, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='OpenStreetView image 1' src='http://a5.mzstatic.com/us/r30/Purple30/v4/b5/9f/0f/b59f0f32-eec9-7612-ad5f-4a545561c2cf/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2164,6 +2164,12 @@ Image, video, audio, reading — [back to top](#readme)
 - Longboxed: Track the releases of your favorite comics [` App Store`](https://itunes.apple.com/app/longboxed-comic-tracker/id965045339)  
 <details><summary>`objc` </summary>  https://github.com/jayhickey/Longboxed-iOS<br>  Added June 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Longboxed image 1' src='http://a2.mzstatic.com/us/r30/Purple5/v4/63/78/76/637876d8-da2f-a781-3989-3676566703bb/screen696x696.jpeg'> <img height='300' alt='Longboxed image 2' src='http://a2.mzstatic.com/us/r30/Purple3/v4/d8/55/ba/d855bade-a829-f3c3-44a0-6e0bbc015355/screen696x696.jpeg'> <img height='300' alt='Longboxed image 3' src='http://a2.mzstatic.com/us/r30/Purple1/v4/5d/1b/b3/5d1bb332-047f-3767-b9ec-52e80311a303/screen696x696.jpeg'> <img height='300' alt='Longboxed image 4' src='http://a3.mzstatic.com/us/r30/Purple5/v4/7c/cb/ab/7ccbab7b-104d-a08e-6a13-a384d8758558/screen696x696.jpeg'> <img height='300' alt='Longboxed image 5' src='http://a1.mzstatic.com/us/r30/Purple5/v4/63/54/a7/6354a7f6-891f-da89-b21b-1b4ab81f59cb/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Marvel Comics  
+<details><summary>`swift` `moya` `rxswift` </summary>  https://github.com/thiagolioy/marvelapp<br>  Added January  9, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Marvel Comics image 1' src='https://github.com/thiagolioy/marvelapp/blob/master/assets/marvel_screens.png?raw=true'> 
 </div>
   </details>
 </details> 
@@ -2360,8 +2366,8 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - Homepok: Catalog of Ukrainian vehicle plates [` App Store`](https://itunes.apple.com/app/id1105827929)  
-<details><summary>`swift` 🇷🇺 </summary>  https://github.com/iAlexander/Homepok<br>  Added November 27, 2016
-<div><img height='300' alt='Homepok image 1' src='http://a5.mzstatic.com/us/r30/Purple71/v4/d8/44/33/d844330e-cd1a-6612-f60a-36996fdcf4ce/screen696x696.jpeg'> <img height='300' alt='Homepok image 2' src='http://a2.mzstatic.com/us/r30/Purple71/v4/e6/80/41/e6804103-994c-26fd-9a57-af98e6dc4f16/screen696x696.jpeg'> <img height='300' alt='Homepok image 3' src='http://a1.mzstatic.com/us/r30/Purple71/v4/43/78/4c/43784ca8-f287-4666-38e6-5d33cc724695/screen696x696.jpeg'> <img height='300' alt='Homepok image 4' src='http://a2.mzstatic.com/us/r30/Purple71/v4/93/bb/5b/93bb5bdd-f09e-4d3f-c5d3-5eab08b7775e/screen696x696.jpeg'> 
+<details><summary>`swift` 🇷🇺 </summary>  https://github.com/iAlexander/Homepok<br>  Added November 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Homepok image 1' src='https://raw.githubusercontent.com/iAlexander/Homepok/master/Screenshots.jpg'> 
 </div>
   </details>
 </details> 
@@ -2829,7 +2835,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Scholars of WWDC: Official app of recipients for https://developer.apple.com/wwdc/scholarships/ [` App Store`](https://itunes.apple.com/app/scholars-of-wwdc/id999731893)  
-<details><summary>`swift` </summary>  https://github.com/WWDCScholars/WWDCScholars-iOS<br>  http://wwdcscholars.com/<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` </summary>  https://github.com/WWDCScholars/WWDCScholars-iOS<br>  https://wwdcscholars.com/<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Scholars of WWDC image 1' src='http://a1.mzstatic.com/us/r30/Purple60/v4/ab/92/bb/ab92bbe9-6540-ff6b-836d-9fd737221466/screen696x696.jpeg'> 
 </div>
   </details>
@@ -3794,7 +3800,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Quick Chat: Real time chat app  
-<details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  4, 2017
+<details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  6, 2017
 <div><img height='300' alt='Quick Chat image 1' src='https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif'> 
 </div>
   </details>
