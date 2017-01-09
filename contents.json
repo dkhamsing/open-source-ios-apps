@@ -7377,6 +7377,11 @@
       "tags": [
         "archive"
       ],
+      "screenshots": [
+        "http://a4.mzstatic.com/us/r1000/098/Purple/v4/f2/ce/23/f2ce23f1-c0f5-f589-6cf6-8afcc6f374bf/mzl.taaxblls.1136x1136-75.jpg",
+        "http://a1808.phobos.apple.com/us/r1000/070/Purple/v4/c8/df/c2/c8dfc22a-9ef2-abc1-c8a6-55faab448440/mzl.qlhvmpoi.png",
+        "http://a2.mzstatic.com/us/r1000/103/Purple2/v4/48/4c/e4/484ce4d9-7e47-b6d9-261b-d1270cd31c4d/mzl.jnoizpbg.1136x1136-75.jpg"
+      ],
       "stars": 1699,
       "license": "other",
       "date_added": "Fri Mar 11 07:54:46 2016 -0800",
@@ -7391,6 +7396,7 @@
       "tags": [
         "archive"
       ],
+      "screenshots": ["https://cdn.last.fm/flatness/hardware/ios.png"],
       "stars": 162,
       "license": "other",
       "date_added": "Mon Mar 2 07:55:35 2015 -0800",
