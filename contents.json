@@ -11485,6 +11485,16 @@
       "date_added": "Dec 21 2016",
       "suggested_by": "@dkhamsing",
       "stars": 277
+    },
+    {
+      "title": "Marvel Comics",
+      "source": "https://github.com/thiagolioy/marvelapp",
+      "category-ids": ["media"],
+      "tags" : ["swift", "moya", "rxswift"],
+      "screenshots": ["https://github.com/thiagolioy/marvelapp/blob/master/assets/marvel_screens.png?raw=true"],
+      "license": "mit",
+      "date_added": "Jan 9 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
