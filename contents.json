@@ -10274,7 +10274,7 @@
       ],
       "description": "Collect OpenStreetView data",
       "license": "gpl-3.0",
-      "source": " https://github.com/openstreetcam/ios",
+      "source": "https://github.com/openstreetcam/ios",
       "homepage": "http://openstreetview.org",
       "itunes": "https://itunes.apple.com/app/openstreetview/id1089548849",
       "stars": 25,
