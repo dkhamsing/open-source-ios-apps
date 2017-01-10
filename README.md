@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-607-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January  9, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-608-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 10, 2017-lightgrey.svg)
 
 Jump to
 
@@ -2168,7 +2168,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - Marvel Comics  
-<details><summary>`swift` `moya` `rxswift` </summary>  https://github.com/thiagolioy/marvelapp<br>  Added January  9, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `moya` `rxswift` `dollar` `kingfisher` `quick` `nimble` </summary>  https://github.com/thiagolioy/marvelapp<br>  Added January  9, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Marvel Comics image 1' src='https://github.com/thiagolioy/marvelapp/blob/master/assets/marvel_screens.png?raw=true'> 
 </div>
   </details>
@@ -2458,6 +2458,12 @@ Image, video, audio, reading — [back to top](#readme)
 - PHPHub: App for https://laravel-china.org/  
 <details><summary>`iphone` `ipad` 🇨🇳 🔥🔥🔥🔥</summary>  https://github.com/Aufree/phphub-ios<br>  Added December  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div>
+</div>
+  </details>
+</details> 
+- Pickery: Works with AWS SDK to store your pictures & videos  
+<details><summary>`swift` `realm` </summary>  https://github.com/Performador/Pickery<br>  Added January 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Pickery image 1' src='http://www.okanarikan.com/assets/Apps/Pickery/Screen1.jpg'> <img height='300' alt='Pickery image 2' src='http://www.okanarikan.com/assets/Apps/Pickery/Screen2.jpg'> <img height='300' alt='Pickery image 3' src='http://www.okanarikan.com/assets/Apps/Pickery/Screen3.jpg'> 
 </div>
   </details>
 </details> 
