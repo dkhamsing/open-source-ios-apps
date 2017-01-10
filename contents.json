@@ -11495,6 +11495,21 @@
       "license": "mit",
       "date_added": "Jan 9 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Pickery",
+      "description": "Works with AWS SDK to store your pictures & videos",
+      "source": "https://github.com/Performador/Pickery",
+      "category-ids": ["content"],
+      "tags": ["swift", "realm"],
+      "screenshots": [
+        "http://www.okanarikan.com/assets/Apps/Pickery/Screen1.jpg",
+        "http://www.okanarikan.com/assets/Apps/Pickery/Screen2.jpg",
+        "http://www.okanarikan.com/assets/Apps/Pickery/Screen3.jpg"
+      ],
+      "license": "mit",
+      "date_added": "Jan 10 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
