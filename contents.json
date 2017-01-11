@@ -11500,6 +11500,7 @@
       "title": "Pickery",
       "description": "Works with AWS SDK to store your pictures & videos",
       "source": "https://github.com/Performador/Pickery",
+      "itunes": "https://itunes.apple.com/app/pickery/id1164219958",
       "category-ids": ["content"],
       "tags": ["swift", "realm"],
       "screenshots": [
