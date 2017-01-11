@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-608-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 11, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-609-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 11, 2017-lightgrey.svg)
 
 Jump to
 
@@ -2167,6 +2167,12 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 </details> 
+- Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures, and take notes with Apple Pencil [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
+<details><summary>`objc` </summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: `other`
+<div><img height='300' alt='Loose Leaf image 1' src='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'> 
+</div>
+  </details>
+</details> 
 - Marvel Comics  
 <details><summary>`swift` `moya` `rxswift` `dollar` `kingfisher` `quick` `nimble` </summary>  https://github.com/thiagolioy/marvelapp<br>  Added January  9, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Marvel Comics image 1' src='https://github.com/thiagolioy/marvelapp/blob/master/assets/marvel_screens.png?raw=true'> 
@@ -3406,6 +3412,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Edhita: Text editor [` App Store`](https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655)  
 <details><summary>`swift` 🔥🔥🔥</summary>  https://github.com/tnantoka/edhita<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Edhita image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/92/84/ea/9284ea12-6151-28ba-7ca5-c7a20a485794/screen696x696.jpeg'> <img height='300' alt='Edhita image 2' src='http://a1.mzstatic.com/us/r30/Purple62/v4/4f/a3/d0/4fa3d02f-03e0-c774-3a11-e8cd2ed524e2/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures, and take notes with Apple Pencil [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
+<details><summary>`objc` </summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: `other`
+<div><img height='300' alt='Loose Leaf image 1' src='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'> 
 </div>
   </details>
 </details> 
