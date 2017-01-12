@@ -11518,8 +11518,9 @@
       "source": "https://github.com/adamwulf/loose-leaf",
       "itunes": "https://itunes.apple.com/app/loose-leaf/id625659452",
       "category-ids": ["text", "media"],
+      "tags": ["ipad"],
       "screenshots": ["https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true"],
-      "license": "other",
+      "license": "mit",
       "date_added": "Jan 11 2017",
       "suggested_by": "@dkhamsing"
     }
