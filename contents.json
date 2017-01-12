@@ -11171,6 +11171,7 @@
       "title": "Dash",
       "description": "Instant offline access to 150+ API documentation sets",
       "source": "https://github.com/Kapeli/Dash-iOS",
+      "itunes": "https://itunes.apple.com/app/dash-kapeli-free/id1176522123",
       "homepage": "https://kapeli.com/dash_ios",
       "category-ids": [
         "developer"
