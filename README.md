@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-609-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 11, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-609-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 12, 2017-lightgrey.svg)
 
 Jump to
 
@@ -893,7 +893,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Dash: Instant offline access to 150+ API documentation sets  
+- Dash: Instant offline access to 150+ API documentation sets [` App Store`](https://itunes.apple.com/app/dash-kapeli-free/id1176522123)  
 <details><summary>`iphone` `ipad` `kissxml` `dznemptydataset` `dtbonjour` `samkeychain` 🔥🔥🔥🔥🔥</summary>  https://github.com/Kapeli/Dash-iOS<br>  https://kapeli.com/dash_ios<br>  Added November 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Dash image 1' src='https://kapeli.com/img/dash_ios-s1.png'> <img height='300' alt='Dash image 2' src='https://kapeli.com/img/dash_ios-s2.png'> 
 </div>
@@ -2168,7 +2168,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures, and take notes with Apple Pencil [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
-<details><summary>`objc` </summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: `other`
+<details><summary>`ipad` </summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Loose Leaf image 1' src='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'> 
 </div>
   </details>
@@ -3416,7 +3416,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures, and take notes with Apple Pencil [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
-<details><summary>`objc` </summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: `other`
+<details><summary>`ipad` </summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Loose Leaf image 1' src='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'> 
 </div>
   </details>
