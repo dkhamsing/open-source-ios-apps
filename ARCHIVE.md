@@ -14,6 +14,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - DrugsNRock https://github.com/biou/DrugsNRock
 - Everest https://github.com/EverestOpenSource/Everest-iOS
 - FinalFighter https://github.com/sebcode/FinalFighter-iphone
+- Google Feud https://github.com/opensourceios/Google-Feud-iOS
 - Hack Cancer Hackathon https://github.com/HackCancer/iOS
 - LastFM https://github.com/lastfm/lastfm-iphone
 - Letters https://github.com/jessegrosjean/letters.iphone
