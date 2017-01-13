@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-609-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 12, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-609-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 13, 2017-lightgrey.svg)
 
 Jump to
 
@@ -1507,12 +1507,6 @@ Click ► to show more details
 - Frotz: Play hundreds of free works of Interactive Fiction (text adventure games) [` App Store`](https://itunes.apple.com/app/id287653015)  
 <details><summary>`objc` </summary>  https://github.com/ifrotz/iosfrotz<br>  https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <div><img height='300' alt='Frotz image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/c9/c1/a2/c9c1a21b-bf4a-6f4e-058f-5578e10013a3/screen696x696.jpeg'> <img height='300' alt='Frotz image 2' src='http://a3.mzstatic.com/us/r30/Purple71/v4/3a/52/47/3a524725-42b9-54e6-d81e-8f81790d977f/screen696x696.jpeg'> <img height='300' alt='Frotz image 3' src='http://a2.mzstatic.com/us/r30/Purple71/v4/76/75/fe/7675fe03-875c-6ea3-a3fb-2bc5b8c43aec/screen696x696.jpeg'> <img height='300' alt='Frotz image 4' src='http://a5.mzstatic.com/us/r30/Purple62/v4/09/f1/1b/09f11b70-c3ef-a97f-73f3-9be6b32eed3b/screen696x696.jpeg'> <img height='300' alt='Frotz image 5' src='http://a3.mzstatic.com/us/r30/Purple71/v4/9b/b0/40/9bb04057-975f-1519-1490-b7b53fd6c576/screen696x696.jpeg'> 
-</div>
-  </details>
-</details> 
-- Google Feud: Guess My Search game by Justin Hook [` App Store`](https://itunes.apple.com/us/app/guess-my-search/id1144264060)  
-<details><summary>`swift` </summary>  https://github.com/CTKRocks/Google-Feud-iOS<br>  Added August 23, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-<div><img height='300' alt='Google Feud image 1' src='http://i.imgur.com/GXvfj9u.png'> 
 </div>
   </details>
 </details> 
