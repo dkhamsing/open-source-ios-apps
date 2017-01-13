@@ -7614,14 +7614,14 @@
       "title": "Google Feud",
       "description": "Guess My Search game by Justin Hook",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "category-ids": [
         "game"
       ],
       "license": "apache-2.0",
-      "source": "https://github.com/CTKRocks/Google-Feud-iOS",
-      "itunes": "https://itunes.apple.com/us/app/guess-my-search/id1144264060",
+      "source": "https://github.com/opensourceios/Google-Feud-iOS",
       "screenshots": [
         "http://i.imgur.com/GXvfj9u.png"
       ],
