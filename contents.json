@@ -1111,6 +1111,20 @@
             "suggested_by": "@aslanyanhaik"
     },
     {
+            "title": "Potter Pics",
+            "category-ids": ["social", "firebase"],
+            "tags": [
+              "swift",
+              "swift3",
+              "firebase"
+            ],
+            "description": "Harry Potter themed social network similar to Instagram.",
+            "source": "https://github.com/surayashivji/PotterPics",
+            "screenshots": ["https://github.com/surayashivji/PotterPics/blob/master/README.md"],
+            "date_added": "Sun Jan 15 2017",
+            "suggested_by": "@surayashivji"
+    },
+    {
       "title": "Chats",
       "category-ids": [
         "communication"
