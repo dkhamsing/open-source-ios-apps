@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-610-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 16, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-610-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 17, 2017-lightgrey.svg)
 
 Jump to
 
@@ -3321,7 +3321,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Potter Pics: Harry Potter themed social network similar to Instagram.  
 <details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/surayashivji/PotterPics<br>  Added January 15, 2017
-<div><img height='300' alt='Potter Pics image 1' src='https://github.com/surayashivji/PotterPics/blob/master/README.md'> 
+<div><img height='300' alt='Potter Pics image 1' src='https://github.com/surayashivji/PotterPics/blob/master/Overview.gif'> 
 </div>
   </details>
 </details> 
@@ -3819,7 +3819,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Potter Pics: Harry Potter themed social network similar to Instagram.  
 <details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/surayashivji/PotterPics<br>  Added January 15, 2017
-<div><img height='300' alt='Potter Pics image 1' src='https://github.com/surayashivji/PotterPics/blob/master/README.md'> 
+<div><img height='300' alt='Potter Pics image 1' src='https://github.com/surayashivji/PotterPics/blob/master/Overview.gif'> 
 </div>
   </details>
 </details> 
