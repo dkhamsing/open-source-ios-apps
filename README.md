@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-610-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 17, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-611-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 18, 2017-lightgrey.svg)
 
 Jump to
 
@@ -3147,7 +3147,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Reusable Code  
-<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/cybercarlos/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/SwiftCarlos/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - RKGist: GitHub Gists  
@@ -3442,6 +3442,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Simplenote: Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962)  
 <details><summary>`1password` `fabric` `crashlytics` 🔥🔥🔥🔥</summary>  https://github.com/automattic/simplenote-ios<br>  https://simplenote.com/<br>  Added August 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <div><img height='300' alt='Simplenote image 1' src='https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg'> 
+</div>
+  </details>
+</details> 
+- Standard Notes: Standard notes app with an un-standard focus on longevity, portability & privacy [` App Store`](https://itunes.apple.com/app/standard-notes/id1191215138)  
+<details><summary>`swift` `alamofire` `swiftyjson` </summary>  https://github.com/standardnotes/iOS<br>  Added January 18, 2017<br>  License: `other`
+<div><img height='300' alt='Standard Notes image 1' src='http://a3.mzstatic.com/us/r30/Purple122/v4/ca/3d/84/ca3d84d6-201b-578b-8dc1-d0f9cf4495a0/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 2' src='http://a2.mzstatic.com/us/r30/Purple122/v4/b5/91/d1/b591d15d-5b3a-70a0-b8d3-e12e681e4113/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 3' src='http://a5.mzstatic.com/us/r30/Purple122/v4/8d/c0/44/8dc0445c-773b-22a5-afca-0695d29ec10c/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 4' src='http://a3.mzstatic.com/us/r30/Purple122/v4/8e/9e/2e/8e9e2e10-0184-e600-03a2-aaf24d84195b/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -3761,7 +3767,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Reusable Code  
-<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/cybercarlos/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/SwiftCarlos/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures  
