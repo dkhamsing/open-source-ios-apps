@@ -11538,6 +11538,24 @@
       "license": "mit",
       "date_added": "Jan 11 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Standard Notes",
+      "description": "Standard notes app with an un-standard focus on longevity, portability & privacy",
+      "source": "https://github.com/standardnotes/iOS",
+      "itunes": "https://itunes.apple.com/app/standard-notes/id1191215138",
+      "category-ids": ["text"],
+      "tags": ["swift", "alamofire", "swiftyjson"],
+      "screenshots": [
+        "http://a3.mzstatic.com/us/r30/Purple122/v4/ca/3d/84/ca3d84d6-201b-578b-8dc1-d0f9cf4495a0/screen696x696.jpeg",
+        "http://a2.mzstatic.com/us/r30/Purple122/v4/b5/91/d1/b591d15d-5b3a-70a0-b8d3-e12e681e4113/screen696x696.jpeg",
+        "http://a5.mzstatic.com/us/r30/Purple122/v4/8d/c0/44/8dc0445c-773b-22a5-afca-0695d29ec10c/screen696x696.jpeg",
+        "http://a3.mzstatic.com/us/r30/Purple122/v4/8e/9e/2e/8e9e2e10-0184-e600-03a2-aaf24d84195b/screen696x696.jpeg"
+      ],
+      "license": "other",
+      "date_added": "Jan 18 2017",
+      "suggested_by": "@dkhamsing",
+      "stars": 39
     }
   ]
 }
