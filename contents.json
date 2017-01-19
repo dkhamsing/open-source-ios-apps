@@ -11556,6 +11556,25 @@
       "date_added": "Jan 18 2017",
       "suggested_by": "@dkhamsing",
       "stars": 39
+    },
+    {
+       "title": "Popular Movies",
+       "category-ids": [
+         "content", "realm"
+       ],
+       "tags": [
+         "swift", "realm", "alamofire"
+       ],
+       "screenshots": [
+         "https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movie-detail.png",
+         "https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movies-list.png"
+       ],
+       "description": "Cross-platform app for discovering recent and popular movies",
+       "source": "https://github.com/vanyaland/Popular-Movies",
+       "stars": 0,
+       "license": "mit",
+       "date_added": "Jan 19 2017",
+       "suggested_by": "@vanyaland"
     }
   ]
 }
