@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-611-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 18, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-612-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 19, 2017-lightgrey.svg)
 
 Jump to
 
@@ -2473,6 +2473,12 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 </details> 
+- Popular Movies: Cross-platform app for discovering recent and popular movies  
+<details><summary>`swift` `realm` `alamofire` </summary>  https://github.com/vanyaland/Popular-Movies<br>  Added January 19, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Popular Movies image 1' src='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movie-detail.png'> <img height='300' alt='Popular Movies image 2' src='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movies-list.png'> 
+</div>
+  </details>
+</details> 
 - ProMonster: Store  
 <details><summary>`objc` 🇵🇹 </summary>  https://github.com/usemobile/promonster-ios<br>  Added October 18, 2015<br>  License: `other`
 <div>
@@ -4186,6 +4192,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Obědář: Shows daily menu of close restaurants to Czech Technical University  
 <details><summary>`swift` </summary>  https://github.com/syky27/lunch_guy-ios<br>  Added June 16, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Obědář image 1' src='https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/2.png'> <img height='300' alt='Obědář image 2' src='https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/1.png'> 
+</div>
+  </details>
+</details> 
+- Popular Movies: Cross-platform app for discovering recent and popular movies  
+<details><summary>`swift` `realm` `alamofire` </summary>  https://github.com/vanyaland/Popular-Movies<br>  Added January 19, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Popular Movies image 1' src='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movie-detail.png'> <img height='300' alt='Popular Movies image 2' src='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movies-list.png'> 
 </div>
   </details>
 </details> 
