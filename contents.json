@@ -11562,7 +11562,9 @@
        "category-ids": [
          "content", "realm"
        ],
-       "tags": ["swift", "realm", "alamofire"]
+       "tags": [
+         "swift", "realm", "alamofire"
+       ],
        "screenshots": [
          "https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movie-detail.png",
          "https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movies-list.png"
