@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-612-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 19, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-613-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 20, 2017-lightgrey.svg)
 
 Jump to
 
@@ -777,6 +777,12 @@ Click ► to show more details
 - F8 2016: Official F8 app  
 <details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/fbsamples/f8app<br>  Added April 14, 2016<br>  License: `other`
 <div><img height='300' alt='F8 2016 image 1' src='https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png'> 
+</div>
+  </details>
+</details> 
+- MeetupOrganizer: Extends the Meetup app's functionality  
+<details><summary>`swift` `alamofire` `oauthswift` </summary>  https://github.com/ayunav/MeetupOrganizer<br>  Added January 20, 2017<br>  License: `other`
+<div><img height='300' alt='MeetupOrganizer image 1' src='https://github.com/ayunav/MeetupOrganizer/blob/master/MeetupOrganizerAppDemo.gif'> 
 </div>
   </details>
 </details> 
