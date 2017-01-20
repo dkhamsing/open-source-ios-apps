@@ -11575,6 +11575,19 @@
        "license": "mit",
        "date_added": "Jan 19 2017",
        "suggested_by": "@vanyaland"
+    },
+    {
+      "title": "MeetupOrganizer",
+      "source": "https://github.com/ayunav/MeetupOrganizer",
+      "description": "Extends the Meetup app's functionality",
+      "category-ids": ["conference"],
+      "tags": [
+        "swift", "alamofire", "oauthswift"
+      ],
+      "screenshots": ["https://github.com/ayunav/MeetupOrganizer/blob/master/MeetupOrganizerAppDemo.gif"],
+      "license": "other",
+      "date_added": "Jan 20 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
