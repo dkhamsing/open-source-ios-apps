@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-613-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 20, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-613-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 23, 2017-lightgrey.svg)
 
 Jump to
 
@@ -682,7 +682,7 @@ Click ► to show more details
   </details>
 </details> 
 - Quick Chat: Real time chat app  
-<details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  6, 2017
+<details><summary>`swift` `swift3` `firebase` 🔥🔥</summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  6, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Quick Chat image 1' src='https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif'> 
 </div>
   </details>
@@ -3842,7 +3842,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Quick Chat: Real time chat app  
-<details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  6, 2017
+<details><summary>`swift` `swift3` `firebase` 🔥🔥</summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  6, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Quick Chat image 1' src='https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif'> 
 </div>
   </details>
