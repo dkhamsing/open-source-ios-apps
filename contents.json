@@ -1108,7 +1108,9 @@
             "source": "https://github.com/aslanyanhaik/Quick-Chat",
             "screenshots": ["https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif"],
             "date_added": "Wed Jan 06 2017",
-            "suggested_by": "@aslanyanhaik"
+            "suggested_by": "@aslanyanhaik",
+            "stars": 399,
+            "license": "mit"
     },
     {
             "title": "Potter Pics",
