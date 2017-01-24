@@ -3427,6 +3427,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/KMindeguia/movies/master/Gif%20Demo/demo.gif"
       ],
+      "tags": ["afnetworking", "sdwebimage", "tmdb"],
       "description": "Movie info app",
       "source": "https://github.com/KMindeguia/movies",
       "stars": 815,
@@ -3439,6 +3440,8 @@
       "category-ids": [
         "content"
       ],
+      "tags": ["afnetworking", "sdwebimage", "gpuimage"],
+      "lang": "fra",
       "description": "Movie info app",
       "source": "https://github.com/florent37/OCiney-iOS",
       "itunes": "https://itunes.apple.com/app/id955480687",
@@ -3756,6 +3759,7 @@
       "category-ids": [
         "content"
       ],
+      "tags": ["shimmer", "nslogger", "cocoalumberjack", "tmdb"],
       "description": "Find common movies among actors",
       "source": "https://github.com/jayhickey/thatmoviewith",
       "itunes": "https://itunes.apple.com/app/that-movie-with/id892972135",
@@ -11326,7 +11330,8 @@
         "react-native"
       ],
       "tags": [
-        "reactnative"
+        "reactnative",
+        "tmdb"
       ],
       "screenshots": [
         "https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png"
