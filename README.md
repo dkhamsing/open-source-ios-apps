@@ -2402,7 +2402,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - movieapp: Discover movies & tv shows  
-<details><summary>`reactnative` 🔥🔥</summary>  https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` `tmdb` 🔥🔥</summary>  https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='movieapp image 1' src='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'> 
 </div>
   </details>
@@ -2414,13 +2414,13 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - movies: Movie info app  
-<details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/KMindeguia/movies<br>  Added February 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`afnetworking` `sdwebimage` `tmdb` 🔥🔥🔥</summary>  https://github.com/KMindeguia/movies<br>  Added February 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='movies image 1' src='https://raw.githubusercontent.com/KMindeguia/movies/master/Gif%20Demo/demo.gif'> 
 </div>
   </details>
 </details> 
 - OCiney: Movie info app [` App Store`](https://itunes.apple.com/app/id955480687)  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/florent37/OCiney-iOS<br>  Added March  3, 2015<br>  License: `other`
+<details><summary>`afnetworking` `sdwebimage` `gpuimage` 🇫🇷 🔥🔥</summary>  https://github.com/florent37/OCiney-iOS<br>  Added March  3, 2015<br>  License: `other`
 <div><img height='300' alt='OCiney image 1' src='http://a1.mzstatic.com/us/r30/Purple1/v4/7d/dc/67/7ddc6778-b5f2-acea-e384-cc5225334fca/screen696x696.jpeg'> <img height='300' alt='OCiney image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/0a/c0/0a/0ac00a3c-90e5-26c6-a007-a2b8acfe5c96/screen696x696.jpeg'> <img height='300' alt='OCiney image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/08/ed/f3/08edf3e4-f963-1ef9-fef4-749a5df5c543/screen696x696.jpeg'> <img height='300' alt='OCiney image 4' src='http://a2.mzstatic.com/us/r30/Purple3/v4/ce/c2/8b/cec28bd9-b317-71c1-cf14-e5a985543991/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2534,7 +2534,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - That Movie With: Find common movies among actors [` App Store`](https://itunes.apple.com/app/that-movie-with/id892972135)  
-<details><summary>`objc` </summary>  https://github.com/jayhickey/thatmoviewith<br>  Added June 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`shimmer` `nslogger` `cocoalumberjack` `tmdb` </summary>  https://github.com/jayhickey/thatmoviewith<br>  Added June 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='That Movie With image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/ff/00/78/ff007811-7989-9a06-d917-ae2f7532177a/screen696x696.jpeg'> <img height='300' alt='That Movie With image 2' src='http://a4.mzstatic.com/us/r30/Purple4/v4/67/7b/d9/677bd916-def9-74c9-a628-fb35197f7d66/screen696x696.jpeg'> <img height='300' alt='That Movie With image 3' src='http://a5.mzstatic.com/us/r30/Purple/v4/e8/9c/42/e89c421c-2188-aaf4-bf1d-8decb208eda0/screen696x696.jpeg'> <img height='300' alt='That Movie With image 4' src='http://a3.mzstatic.com/us/r30/Purple4/v4/a7/cd/22/a7cd228b-f17d-7e64-6f0b-2ae55dd6be6c/screen696x696.jpeg'> 
 </div>
   </details>
@@ -4055,7 +4055,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - movieapp: Discover movies & tv shows  
-<details><summary>`reactnative` 🔥🔥</summary>  https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` `tmdb` 🔥🔥</summary>  https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='movieapp image 1' src='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'> 
 </div>
   </details>
