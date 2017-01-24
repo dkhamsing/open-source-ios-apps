@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-613-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 23, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-613-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 24, 2017-lightgrey.svg)
 
 Jump to
 
@@ -2167,8 +2167,8 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures, and take notes with Apple Pencil [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
-<details><summary>`ipad` </summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+- Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
+<details><summary>`ipad` `pdf` `apple pencil` </summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Loose Leaf image 1' src='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'> 
 </div>
   </details>
@@ -2479,8 +2479,8 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Popular Movies: Cross-platform app for discovering recent and popular movies  
-<details><summary>`swift` `realm` `alamofire` </summary>  https://github.com/vanyaland/Popular-Movies<br>  Added January 19, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+- Popular Movies: Cross-platform app for discovering recent & popular movies  
+<details><summary>`swift` `realm` `alamofire` `tmdb` </summary>  https://github.com/vanyaland/Popular-Movies<br>  Added January 19, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Popular Movies image 1' src='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movie-detail.png'> <img height='300' alt='Popular Movies image 2' src='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movies-list.png'> 
 </div>
   </details>
@@ -3427,8 +3427,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures, and take notes with Apple Pencil [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
-<details><summary>`ipad` </summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+- Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
+<details><summary>`ipad` `pdf` `apple pencil` </summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Loose Leaf image 1' src='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'> 
 </div>
   </details>
@@ -3458,7 +3458,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Standard Notes: Standard notes app with an un-standard focus on longevity, portability & privacy [` App Store`](https://itunes.apple.com/app/standard-notes/id1191215138)  
-<details><summary>`swift` `alamofire` `swiftyjson` </summary>  https://github.com/standardnotes/iOS<br>  Added January 18, 2017<br>  License: `other`
+<details><summary>`swift` `alamofire` `swiftyjson` 🔥</summary>  https://github.com/standardnotes/iOS<br>  Added January 18, 2017<br>  License: `other`
 <div><img height='300' alt='Standard Notes image 1' src='http://a3.mzstatic.com/us/r30/Purple122/v4/ca/3d/84/ca3d84d6-201b-578b-8dc1-d0f9cf4495a0/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 2' src='http://a2.mzstatic.com/us/r30/Purple122/v4/b5/91/d1/b591d15d-5b3a-70a0-b8d3-e12e681e4113/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 3' src='http://a5.mzstatic.com/us/r30/Purple122/v4/8d/c0/44/8dc0445c-773b-22a5-afca-0695d29ec10c/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 4' src='http://a3.mzstatic.com/us/r30/Purple122/v4/8e/9e/2e/8e9e2e10-0184-e600-03a2-aaf24d84195b/screen696x696.jpeg'> 
 </div>
   </details>
@@ -4201,8 +4201,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Popular Movies: Cross-platform app for discovering recent and popular movies  
-<details><summary>`swift` `realm` `alamofire` </summary>  https://github.com/vanyaland/Popular-Movies<br>  Added January 19, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+- Popular Movies: Cross-platform app for discovering recent & popular movies  
+<details><summary>`swift` `realm` `alamofire` `tmdb` </summary>  https://github.com/vanyaland/Popular-Movies<br>  Added January 19, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Popular Movies image 1' src='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movie-detail.png'> <img height='300' alt='Popular Movies image 2' src='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movies-list.png'> 
 </div>
   </details>
