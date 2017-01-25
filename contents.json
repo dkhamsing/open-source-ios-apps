@@ -10929,9 +10929,9 @@
         "cocos2d"
       ],
       "screenshots": [
-        "https://github.com/joannecdyer/lumio/raw/master/Lumio/Resources/Screenshots/ScreenShot1.png"
+        "https://raw.githubusercontent.com/sephine/lumio/master/Lumio/Resources/Screenshots/ScreenShot1.png"
       ],
-      "source": "https://github.com/joannecdyer/lumio",
+      "source": "https://github.com/sephine/lumio",
       "description": "Puzzle game",
       "license": "other",
       "date_added": "Oct 27 2016",
