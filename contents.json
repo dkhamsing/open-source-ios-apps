@@ -11595,6 +11595,17 @@
       "license": "other",
       "date_added": "Jan 20 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Steps",
+      "source": "https://github.com/gizmosachin/Steps",
+      "category-ids": ["fitness"],
+      "tags": [
+        "swift", "archive"
+      ],
+      "license": "mit",
+      "date_added": "Jan 25 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
