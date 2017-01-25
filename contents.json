@@ -886,10 +886,7 @@
       "description": "Notes on your wrist",
       "source": "https://github.com/azamsharp/WatchNotes",
       "tags": [
-        "swift"
-      ],
-      "screenshots": [
-        "https://camo.githubusercontent.com/689a09260a6427ede9580b298c141320132796df/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32303131363433342f57617463684e6f7465732e676966"
+        "swift", "archive"
       ],
       "stars": 78,
       "license": "other",
