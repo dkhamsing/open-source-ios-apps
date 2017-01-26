@@ -148,6 +148,11 @@
       "parent": "news"
     },
     {
+      "title": "News API",
+      "id": "news-api",
+      "parent": "news"
+    },
+    {
       "title": "Official",
       "id": "official"
     },
@@ -10957,10 +10962,7 @@
       "title": "News",
       "description": "Discover and read news on a range of news sources and blogs (66 providers)",
       "category-ids": [
-        "news"
-      ],
-      "tags": [
-        "news api"
+        "news-api"
       ],
       "license": "mit",
       "source": "https://github.com/vanyaland/News",
@@ -11624,8 +11626,7 @@
     {
       "title": "DailyFeed",
       "source": "https://github.com/paulsumit1993/DailyFeed",
-      "description": "iOS Client for NewsAPI.org",
-      "category-ids": ["news", "news api"],
+      "category-ids": ["news api"],
       "tags": ["swift"],
       "screenshots": ["https://raw.githubusercontent.com/paulsumit1993/DailyFeed/master/assets/screenshot.jpg"],
       "license": "mit",
