@@ -5009,6 +5009,22 @@
         "http://a3.mzstatic.com/us/r30/Purple/v4/aa/4c/3a/aa4c3acf-4b93-ceae-2315-fd25837d2241/screen696x696.jpeg"
       ]
     },
+    
+    {
+      "title": "eCortex",
+      "category-ids": [
+        "tasks"
+      ],
+      "description": "Manage and organize thoughts and ideas into custom categories.",      
+      "source": "https://github.com/myeramareddy/cortex",
+      "itunes": "https://geo.itunes.apple.com/us/app/ecortex/id1105026832?mt=8",   
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Wed Jan 25 05:49:30 2017 -0700",
+      "suggested_by": "@myeramareddy"
+    },
+    
     {
       "title": "Tinylog",
       "category-ids": [
