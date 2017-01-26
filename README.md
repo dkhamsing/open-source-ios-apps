@@ -347,12 +347,6 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- WatchNotes: Notes on your wrist  
-<details><summary>`swift` </summary>  https://github.com/azamsharp/WatchNotes<br>  Added April 30, 2015<br>  License: `other`
-<div><img height='300' alt='WatchNotes image 1' src='https://camo.githubusercontent.com/689a09260a6427ede9580b298c141320132796df/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32303131363433342f57617463684e6f7465732e676966'> 
-</div>
-  </details>
-</details> 
 - watchOS-2-Sampler: watchOS 2 new features example code  
 <details><summary>`swift` `watchos2` 🔥🔥🔥</summary>  https://github.com/shu223/watchOS-2-Sampler<br>  Added June 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='watchOS-2-Sampler image 1' src='https://github.com/shu223/watchOS-2-Sampler/raw/master/ResourcesForREADME/animation.gif'> 
@@ -1559,8 +1553,8 @@ Click ► to show more details
   </details>
 </details> 
 - Lumio: Puzzle game  
-<details><summary>`cocos2d` 🔥</summary>  https://github.com/joannecdyer/lumio<br>  Added October 27, 2016<br>  License: `other`
-<div><img height='300' alt='Lumio image 1' src='https://github.com/joannecdyer/lumio/raw/master/Lumio/Resources/Screenshots/ScreenShot1.png'> 
+<details><summary>`cocos2d` 🔥</summary>  https://github.com/sephine/lumio<br>  Added October 27, 2016<br>  License: `other`
+<div><img height='300' alt='Lumio image 1' src='https://raw.githubusercontent.com/sephine/lumio/master/Lumio/Resources/Screenshots/ScreenShot1.png'> 
 </div>
   </details>
 </details> 
