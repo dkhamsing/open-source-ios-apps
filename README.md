@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-614-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 25, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-615-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 26, 2017-lightgrey.svg)
 
 Jump to
 
@@ -3363,6 +3363,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - CloudKit-To-Do-List: Store & retrieve tasks  
 <details><summary>`swift` </summary>  https://github.com/anthonygeranio/CloudKit-To-Do-List<br>  Added April  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='CloudKit-To-Do-List image 1' src='http://i.imgur.com/HBFZhdm.png'> <img height='300' alt='CloudKit-To-Do-List image 2' src='http://i.imgur.com/RKo9RXC.png'> 
+</div>
+  </details>
+</details> 
+- eCortex: Manage and organize thoughts and ideas into custom categories. [` App Store`](https://itunes.apple.com/app/ecortex/id1105026832)  
+<details><summary>`swift` </summary>  https://github.com/myeramareddy/cortex<br>  Added January 25, 2017
+<div><img height='300' alt='eCortex image 1' src='http://a5.mzstatic.com/us/r30/Purple60/v4/03/9e/a9/039ea9b6-6427-ac1b-9bf9-773c91e5b8c9/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
