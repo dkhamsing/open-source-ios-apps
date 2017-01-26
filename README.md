@@ -3366,7 +3366,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- eCortex: Manage and organize thoughts and ideas into custom categories. [` App Store`](https://itunes.apple.com/app/ecortex/id1105026832)  
+- eCortex: Manage / organize thoughts & ideas into custom categories [` App Store`](https://itunes.apple.com/app/ecortex/id1105026832)  
 <details><summary>`swift` </summary>  https://github.com/myeramareddy/cortex<br>  Added January 25, 2017
 <div><img height='300' alt='eCortex image 1' src='http://a5.mzstatic.com/us/r30/Purple60/v4/03/9e/a9/039ea9b6-6427-ac1b-9bf9-773c91e5b8c9/screen696x696.jpeg'> 
 </div>
