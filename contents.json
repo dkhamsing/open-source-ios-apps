@@ -11623,6 +11623,17 @@
       "license": "mit",
       "date_added": "Jan 25 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "DailyFeed",
+      "source": "https://github.com/paulsumit1993/DailyFeedr",
+      "description": "iOS Client for NewsAPI.org",
+      "category-ids": ["news"],
+      "tags": ["swift"],
+      "screenshots": ["https://github.com/paulsumit1993/DailyFeed/blob/master/assets/screenshot.jpg"],
+      "license": "mit",
+      "date_added": "Jan 26 2017",
+      "suggested_by": "@paulsumit1993"
     }
   ]
 }
