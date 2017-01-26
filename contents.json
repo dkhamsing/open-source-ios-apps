@@ -153,6 +153,11 @@
       "parent": "news"
     },
     {
+      "title": "RSS",
+      "id": "rss",
+      "parent": "news"
+    },
+    {
       "title": "Official",
       "id": "official"
     },
@@ -3921,7 +3926,7 @@
     {
       "title": "Feeds4U",
       "category-ids": [
-        "news"
+        "rss"
       ],
       "description": "Well architected RSS reader",
       "license": "mit",
@@ -4008,9 +4013,9 @@
     {
       "title": "RSSRead",
       "category-ids": [
-        "news"
+        "rss"
       ],
-      "description": "A RSS reader with offline feature",
+      "description": "RSS reader with offline feature",
       "lang": "zho",
       "source": "https://github.com/ming1016/RSSRead",
       "itunes": "https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364",
@@ -9171,7 +9176,7 @@
     {
       "title": "SwiftBlog",
       "category-ids": [
-        "news"
+        "rss"
       ],
       "description": "Read the official Apple Swift Blog via RSS",
       "source": "https://github.com/BalestraPatrick/SwiftBlog",
@@ -10294,9 +10299,8 @@
     {
       "title": "Tenere News Reader",
       "category-ids": [
-        "news"
+        "rss"
       ],
-      "description": "RSS app",
       "source": "https://github.com/yavuz/Tenere",
       "itunes": "https://itunes.apple.com/tr/app/tenere-news-reader/id987277462",
       "stars": 15,
