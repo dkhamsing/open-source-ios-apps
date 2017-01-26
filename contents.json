@@ -3900,7 +3900,8 @@
       ]
     },
     {
-      "title": "Designer News App",
+      "title": "Designer News",
+      "description": "https://www.designernews.co/",
       "category-ids": [
         "news"
       ],
