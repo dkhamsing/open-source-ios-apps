@@ -5016,7 +5016,7 @@
         "tasks"
       ],
       "description": "Manage and organize thoughts and ideas into custom categories.",      
-      "source": "https://github.com/myeramareddy/cortex,
+      "source": "https://github.com/myeramareddy/cortex",
       "itunes": "https://geo.itunes.apple.com/us/app/ecortex/id1105026832?mt=8",   
       "tags": [
         "swift"
