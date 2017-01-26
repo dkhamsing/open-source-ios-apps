@@ -11626,7 +11626,7 @@
     {
       "title": "DailyFeed",
       "source": "https://github.com/paulsumit1993/DailyFeed",
-      "category-ids": ["news api"],
+      "category-ids": ["news-api"],
       "tags": ["swift"],
       "screenshots": ["https://raw.githubusercontent.com/paulsumit1993/DailyFeed/master/assets/screenshot.jpg"],
       "license": "mit",
