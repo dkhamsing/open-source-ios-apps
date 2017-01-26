@@ -31,6 +31,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Swift Off https://github.com/opensourceios/swift-off-todo
 - TaskPaper https://github.com/jessegrosjean/NOTTaskPaperForIOS
 - Vim https://github.com/applidium/Vim
+- WatchNotes https://github.com/azamsharp/WatchNotes
 - XPilot http://7b5labs.com/xpilot.git/
 - Yorkie https://github.com/opensourceios/YorkieApp
 - apnagent-ios https://github.com/logicalparadox/apnagent-ios
