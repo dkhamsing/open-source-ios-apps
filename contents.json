@@ -6322,12 +6322,12 @@
       "title": "Anypic",
       "category-ids": [
         "parse",
-        "clone"
+        "clone",
+        "archive"
       ],
       "description": "Mobile & web app that lets users share photos similar to Instagram",
-      "source": "https://github.com/ParsePlatform/Anypic",
+      "source": "https://github.com/opensourceios/Anypic",
       "itunes": "https://itunes.apple.com/app/anypic/id539741538",
-      "stars": 1540,
       "license": "cc0-1.0",
       "date_added": "Tue, 17 Mar 2015 14:51:44 -0400",
       "suggested_by": "@jeffreyjackson",
@@ -6357,11 +6357,11 @@
     {
       "title": "AnyWall",
       "category-ids": [
-        "parse"
+        "parse",
+        "archive"
       ],
       "description": "A fun geolocation app",
-      "source": "https://github.com/ParsePlatform/AnyWall",
-      "stars": 422,
+      "source": "https://github.com/opensourceios/AnyWall",
       "license": "cc0-1.0",
       "date_added": "Tue, 17 Mar 2015 14:51:44 -0400",
       "suggested_by": "@jeffreyjackson",
@@ -6413,12 +6413,12 @@
     {
       "title": "ParseStore",
       "category-ids": [
-        "parse"
+        "parse",
+        "archive"
       ],
       "description": "Backend provider for selling physical goods",
-      "source": "https://github.com/ParsePlatform/ParseStore",
+      "source": "https://github.com/opensourceios/ParseStore",
       "itunes": "https://itunes.apple.com/app/parse-store/id613679907",
-      "stars": 194,
       "license": "cc0-1.0",
       "date_added": "Tue, 17 Mar 2015 14:51:44 -0400",
       "suggested_by": "@jeffreyjackson",
