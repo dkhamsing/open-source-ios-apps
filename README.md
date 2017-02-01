@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-616-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 26, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-617-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  1, 2017-lightgrey.svg)
 
 Jump to
 
@@ -43,6 +43,7 @@ Jump to
 - [News](#news) 
   - [Hacker News](#hacker-news) 
   - [News API](#news-api) 
+  - [RSS](#rss) 
 - [Official](#official) 
 - [Reactive Programming](#reactive-programming) 
   - [ReactiveCocoa](#reactivecocoa) 
@@ -384,6 +385,12 @@ Click ► to show more details
 - Brave: Firefox-based browser with ad block & tracking pixel/cookie block built in [` App Store`](https://itunes.apple.com/app/brave-web-browser/id1052879175)  
 <details><summary>`swift` 🔥🔥🔥</summary>  https://github.com/brave/browser-ios<br>  Added May 24, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
 <div><img height='300' alt='Brave image 1' src='http://a5.mzstatic.com/us/r30/Purple18/v4/ed/6c/07/ed6c07f4-c9cd-0daa-a331-a39a85ba1c08/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Chrome  
+<details><summary>`objective-c++` </summary>  https://chromium.googlesource.com/chromium/src.git/+/master/ios/<br>  https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html<br>  Added February  1, 2017<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+<div><img height='300' alt='Chrome image 1' src='http://a5.mzstatic.com/us/r30/Purple71/v4/4b/d8/9a/4bd89a0d-d1f8-ea48-492a-2cec600c453c/screen696x696.jpeg'> <img height='300' alt='Chrome image 2' src='http://a3.mzstatic.com/us/r30/Purple62/v4/20/f2/6e/20f26eb0-e862-358f-8252-0e299bc89d94/screen696x696.jpeg'> <img height='300' alt='Chrome image 3' src='http://a3.mzstatic.com/us/r30/Purple71/v4/53/5b/b4/535bb49d-d1ec-7edc-4195-ba0359de2779/screen696x696.jpeg'> <img height='300' alt='Chrome image 4' src='http://a5.mzstatic.com/us/r30/Purple62/v4/56/ee/b0/56eeb0f0-0e39-cb27-d389-511e2d9964c4/screen696x696.jpeg'> <img height='300' alt='Chrome image 5' src='http://a5.mzstatic.com/us/r30/Purple62/v4/e8/a1/ab/e8a1ab12-b616-f9d0-7f1b-2e1764b0e872/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -2635,15 +2642,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Designer News App [` App Store`](https://itunes.apple.com/app/designer-news-app/id879990495)  
+- Designer News: https://www.designernews.co/ [` App Store`](https://itunes.apple.com/app/designer-news-app/id879990495)  
 <details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/MengTo/DesignerNewsApp<br>  Added March 15, 2015<br>  License: `other`
-<div><img height='300' alt='Designer News App image 1' src='https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png'> 
-</div>
-  </details>
-</details> 
-- Feeds4U: Well architected RSS reader [` App Store`](https://itunes.apple.com/app/feeds4u/id1038456442)  
-<details><summary>`swift` </summary>  https://github.com/EvgenyKarkan/Feeds4U<br>  Added October 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Feeds4U image 1' src='http://a3.mzstatic.com/us/r30/Purple41/v4/a1/97/59/a19759d4-a458-cb91-72fd-5ea8b43330e8/screen696x696.jpeg'> <img height='300' alt='Feeds4U image 2' src='http://a1.mzstatic.com/us/r30/Purple3/v4/55/f1/1e/55f11e69-eaa3-3d69-da83-07925223e3c4/screen696x696.jpeg'> <img height='300' alt='Feeds4U image 3' src='http://a2.mzstatic.com/us/r30/Purple69/v4/14/69/32/146932c6-52e1-f6f6-5259-5a7846c24055/screen696x696.jpeg'> <img height='300' alt='Feeds4U image 4' src='http://a5.mzstatic.com/us/r30/Purple69/v4/6e/25/7b/6e257bdc-f103-30ef-f676-acf5018e5ec3/screen696x696.jpeg'> 
+<div><img height='300' alt='Designer News image 1' src='https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png'> 
 </div>
   </details>
 </details> 
@@ -2675,27 +2676,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` </summary>  https://github.com/amitburst/reddit-demo<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- RSSRead: A RSS reader with offline feature [` App Store`](https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364)  
-<details><summary>`objc` 🇨🇳 🔥🔥🔥</summary>  https://github.com/ming1016/RSSRead<br>  Added April 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='RSSRead image 1' src='http://a2.mzstatic.com/us/r30/Purple3/v4/15/a3/26/15a3262c-4dd0-e9c3-9215-3f30cffae17b/screen696x696.jpeg'> <img height='300' alt='RSSRead image 2' src='http://a3.mzstatic.com/us/r30/Purple1/v4/1d/6a/c9/1d6ac957-8507-39bd-a74b-c185399b2ec6/screen696x696.jpeg'> <img height='300' alt='RSSRead image 3' src='http://a1.mzstatic.com/us/r30/Purple5/v4/78/2a/fa/782afab4-c37e-f882-cc1b-52af95d00447/screen696x696.jpeg'> <img height='300' alt='RSSRead image 4' src='http://a5.mzstatic.com/us/r30/Purple5/v4/77/15/8a/77158a0d-e8bd-3fd5-6b23-5e6cde61b9df/screen696x696.jpeg'> <img height='300' alt='RSSRead image 5' src='http://a4.mzstatic.com/us/r30/Purple5/v4/6a/2b/e7/6a2be7dc-361d-e815-e35c-5ce9f47cd1c3/screen696x696.jpeg'> 
-</div>
-  </details>
-</details> 
-- SwiftBlog: Read the official Apple Swift Blog via RSS  
-<details><summary>`swift` </summary>  https://github.com/BalestraPatrick/SwiftBlog<br>  Added June 21, 2016<br>  License: `other`
-<div><img height='300' alt='SwiftBlog image 1' src='https://github.com/BalestraPatrick/SwiftBlog/raw/master/Screenshot.png'> 
-</div>
-  </details>
-</details> 
 - TabDump: TabDump news app  
 <details><summary>`afnetworking` </summary>  https://github.com/dkhamsing/TabDump<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='TabDump image 1' src='https://github.com/dkhamsing/TabDump/raw/master/assets/screenshots/screenshot.png'> 
-</div>
-  </details>
-</details> 
-- Tenere News Reader: RSS app [` App Store`](https://itunes.apple.com/tr/app/tenere-news-reader/id987277462)  
-<details><summary>`objc` </summary>  https://github.com/yavuz/Tenere<br>  Added August 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Tenere News Reader image 1' src='http://a1.mzstatic.com/us/r30/Purple1/v4/75/87/99/75879937-4c0d-a6df-ac99-e1f9b30b8e66/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -2788,6 +2771,35 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 
+### RSS 
+ 
+[back to top](#readme) 
+ 
+- Feeds4U: Well architected RSS reader [` App Store`](https://itunes.apple.com/app/feeds4u/id1038456442)  
+<details><summary>`swift` </summary>  https://github.com/EvgenyKarkan/Feeds4U<br>  Added October 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Feeds4U image 1' src='http://a3.mzstatic.com/us/r30/Purple41/v4/a1/97/59/a19759d4-a458-cb91-72fd-5ea8b43330e8/screen696x696.jpeg'> <img height='300' alt='Feeds4U image 2' src='http://a1.mzstatic.com/us/r30/Purple3/v4/55/f1/1e/55f11e69-eaa3-3d69-da83-07925223e3c4/screen696x696.jpeg'> <img height='300' alt='Feeds4U image 3' src='http://a2.mzstatic.com/us/r30/Purple69/v4/14/69/32/146932c6-52e1-f6f6-5259-5a7846c24055/screen696x696.jpeg'> <img height='300' alt='Feeds4U image 4' src='http://a5.mzstatic.com/us/r30/Purple69/v4/6e/25/7b/6e257bdc-f103-30ef-f676-acf5018e5ec3/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- RSSRead: RSS reader with offline feature [` App Store`](https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364)  
+<details><summary>`objc` 🇨🇳 🔥🔥🔥</summary>  https://github.com/ming1016/RSSRead<br>  Added April 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='RSSRead image 1' src='http://a2.mzstatic.com/us/r30/Purple3/v4/15/a3/26/15a3262c-4dd0-e9c3-9215-3f30cffae17b/screen696x696.jpeg'> <img height='300' alt='RSSRead image 2' src='http://a3.mzstatic.com/us/r30/Purple1/v4/1d/6a/c9/1d6ac957-8507-39bd-a74b-c185399b2ec6/screen696x696.jpeg'> <img height='300' alt='RSSRead image 3' src='http://a1.mzstatic.com/us/r30/Purple5/v4/78/2a/fa/782afab4-c37e-f882-cc1b-52af95d00447/screen696x696.jpeg'> <img height='300' alt='RSSRead image 4' src='http://a5.mzstatic.com/us/r30/Purple5/v4/77/15/8a/77158a0d-e8bd-3fd5-6b23-5e6cde61b9df/screen696x696.jpeg'> <img height='300' alt='RSSRead image 5' src='http://a4.mzstatic.com/us/r30/Purple5/v4/6a/2b/e7/6a2be7dc-361d-e815-e35c-5ce9f47cd1c3/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- SwiftBlog: Read the official Apple Swift Blog via RSS  
+<details><summary>`swift` </summary>  https://github.com/BalestraPatrick/SwiftBlog<br>  Added June 21, 2016<br>  License: `other`
+<div><img height='300' alt='SwiftBlog image 1' src='https://github.com/BalestraPatrick/SwiftBlog/raw/master/Screenshot.png'> 
+</div>
+  </details>
+</details> 
+- Tenere News Reader [` App Store`](https://itunes.apple.com/tr/app/tenere-news-reader/id987277462)  
+<details><summary>`objc` </summary>  https://github.com/yavuz/Tenere<br>  Added August 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Tenere News Reader image 1' src='http://a1.mzstatic.com/us/r30/Purple1/v4/75/87/99/75879937-4c0d-a6df-ac99-e1f9b30b8e66/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+
 ## Official 
  
 [back to top](#readme) 
@@ -2795,6 +2807,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Awesome Swift iOS App: Official awesome-swift repository app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427)  
 <details><summary>`swift` </summary>  https://github.com/matteocrippa/awesomeSwift-iOS-App<br>  Added June 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Awesome Swift iOS App image 1' src='http://a3.mzstatic.com/us/r30/Purple1/v4/95/16/1a/95161a0b-1f38-d1e3-d535-bab4fdc95cb8/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 2' src='http://a4.mzstatic.com/us/r30/Purple1/v4/de/40/91/de4091f4-de82-f018-03b1-67224139f3df/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 3' src='http://a2.mzstatic.com/us/r30/Purple1/v4/f3/26/ae/f326aee3-af48-fc10-746e-898072b7d931/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 4' src='http://a2.mzstatic.com/us/r30/Purple4/v4/65/33/cf/6533cfdf-3c11-91ad-86c3-707dfdd42e5b/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 5' src='http://a5.mzstatic.com/us/r30/Purple49/v4/54/3b/9e/543b9e97-0797-8058-5cbb-e430d6dc605b/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Chrome  
+<details><summary>`objective-c++` </summary>  https://chromium.googlesource.com/chromium/src.git/+/master/ios/<br>  https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html<br>  Added February  1, 2017<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+<div><img height='300' alt='Chrome image 1' src='http://a5.mzstatic.com/us/r30/Purple71/v4/4b/d8/9a/4bd89a0d-d1f8-ea48-492a-2cec600c453c/screen696x696.jpeg'> <img height='300' alt='Chrome image 2' src='http://a3.mzstatic.com/us/r30/Purple62/v4/20/f2/6e/20f26eb0-e862-358f-8252-0e299bc89d94/screen696x696.jpeg'> <img height='300' alt='Chrome image 3' src='http://a3.mzstatic.com/us/r30/Purple71/v4/53/5b/b4/535bb49d-d1ec-7edc-4195-ba0359de2779/screen696x696.jpeg'> <img height='300' alt='Chrome image 4' src='http://a5.mzstatic.com/us/r30/Purple62/v4/56/ee/b0/56eeb0f0-0e39-cb27-d389-511e2d9964c4/screen696x696.jpeg'> <img height='300' alt='Chrome image 5' src='http://a5.mzstatic.com/us/r30/Purple62/v4/e8/a1/ab/e8a1ab12-b616-f9d0-7f1b-2e1764b0e872/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -3038,7 +3056,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - RxTodo  
-<details><summary>`swift` `swift2.2` `rxswift` `mvvm` 🔥🔥🔥</summary>  https://github.com/devxoul/RxTodo<br>  Added September 19, 2016<br>  License: `other`
+<details><summary>`swift` `swift3` `rxswift` `mvvm` 🔥🔥🔥</summary>  https://github.com/devxoul/RxTodo<br>  Added September 19, 2016<br>  License: `other`
 <div><img height='300' alt='RxTodo image 1' src='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'> 
 </div>
   </details>
