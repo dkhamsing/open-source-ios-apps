@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-615-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 26, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-616-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 26, 2017-lightgrey.svg)
 
 Jump to
 
@@ -42,6 +42,7 @@ Jump to
   - [Video](#video) 
 - [News](#news) 
   - [Hacker News](#hacker-news) 
+  - [News API](#news-api) 
 - [Official](#official) 
 - [Reactive Programming](#reactive-programming) 
   - [ReactiveCocoa](#reactivecocoa) 
@@ -2664,12 +2665,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- News: Discover and read news on a range of news sources and blogs (66 providers)  
-<details><summary>`news api` </summary>  https://github.com/vanyaland/News<br>  Added November  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='News image 1' src='https://raw.githubusercontent.com/vanyaland/News/master/res/sources.png'> <img height='300' alt='News image 2' src='https://raw.githubusercontent.com/vanyaland/News/master/res/articles.png'> <img height='300' alt='News image 3' src='https://raw.githubusercontent.com/vanyaland/News/master/res/article.png'> 
-</div>
-  </details>
-</details> 
 - NirZhihuDaily2.0  
 <details><summary>`objc` 🇨🇳 🔥🔥🔥🔥</summary>  https://github.com/zpz1237/NirZhihuDaily2.0<br>  Added November  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='NirZhihuDaily2.0 image 1' src='https://github.com/zpz1237/NirZhihuDaily2.0/raw/master/effect1.gif'> 
@@ -2772,6 +2767,23 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Simple Reader [` App Store`](https://itunes.apple.com/app/simple-reader-free-open-source/id1000995253)  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/rnystrom/HackerNewsReader<br>  Added October 21, 2015<br>  License: `other`
 <div><img height='300' alt='Simple Reader image 1' src='http://a5.mzstatic.com/us/r30/Purple7/v4/f6/ad/cf/f6adcf2a-ede3-ef34-aa6b-97632b2b0ad7/screen696x696.jpeg'> <img height='300' alt='Simple Reader image 2' src='http://a1.mzstatic.com/us/r30/Purple7/v4/6c/cc/9b/6ccc9bab-f69f-e697-e854-785a87fc25ee/screen696x696.jpeg'> <img height='300' alt='Simple Reader image 3' src='http://a4.mzstatic.com/us/r30/Purple5/v4/40/7a/3d/407a3d55-692a-7975-170a-414c2df0e0fe/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+
+### News API 
+ 
+[back to top](#readme) 
+ 
+- DailyFeed  
+<details><summary>`swift` </summary>  https://github.com/paulsumit1993/DailyFeed<br>  Added January 26, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='DailyFeed image 1' src='https://raw.githubusercontent.com/paulsumit1993/DailyFeed/master/assets/screenshot.jpg'> 
+</div>
+  </details>
+</details> 
+- News: Discover and read news on a range of news sources and blogs (66 providers)  
+<details><summary>`objc` </summary>  https://github.com/vanyaland/News<br>  Added November  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='News image 1' src='https://raw.githubusercontent.com/vanyaland/News/master/res/sources.png'> <img height='300' alt='News image 2' src='https://raw.githubusercontent.com/vanyaland/News/master/res/articles.png'> <img height='300' alt='News image 3' src='https://raw.githubusercontent.com/vanyaland/News/master/res/article.png'> 
 </div>
   </details>
 </details> 
