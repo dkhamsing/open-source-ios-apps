@@ -11644,7 +11644,7 @@
       "homepage": "https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html",
       "category-ids": ["official", "browser"],
       "tags": ["objective-c++"],
-      "screenshot": [
+      "screenshots": [
         "http://a5.mzstatic.com/us/r30/Purple71/v4/4b/d8/9a/4bd89a0d-d1f8-ea48-492a-2cec600c453c/screen696x696.jpeg",
         "http://a3.mzstatic.com/us/r30/Purple62/v4/20/f2/6e/20f26eb0-e862-358f-8252-0e299bc89d94/screen696x696.jpeg",
         "http://a3.mzstatic.com/us/r30/Purple71/v4/53/5b/b4/535bb49d-d1ec-7edc-4195-ba0359de2779/screen696x696.jpeg",
