@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-617-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  1, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-618-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  2, 2017-lightgrey.svg)
 
 Jump to
 
@@ -395,7 +395,7 @@ Click ► to show more details
   </details>
 </details> 
 - Endless Browser: Web browser built with privacy & security in mind [` App Store`](https://itunes.apple.com/app/endless-browser/id974745755)  
-<details><summary>`objc` </summary>  https://github.com/jcs/endless<br>  Added December 22, 2015<br>  License: `other`
+<details><summary>`objc` 🔥</summary>  https://github.com/jcs/endless<br>  Added December 22, 2015<br>  License: `other`
 <div><img height='300' alt='Endless Browser image 1' src='http://a3.mzstatic.com/us/r30/Purple7/v4/4a/22/70/4a22706f-6fe0-0e71-ad4c-178a83a062ad/screen696x696.jpeg'> <img height='300' alt='Endless Browser image 2' src='http://a4.mzstatic.com/us/r30/Purple7/v4/cb/d1/06/cbd1063b-c086-9e3b-caff-34e938b6433c/screen696x696.jpeg'> <img height='300' alt='Endless Browser image 3' src='http://a3.mzstatic.com/us/r30/Purple5/v4/e3/b4/ae/e3b4ae59-3f2e-2784-93aa-fae83a3aa6f1/screen696x696.jpeg'> 
 </div>
   </details>
@@ -483,7 +483,7 @@ Click ► to show more details
 [back to top](#readme) 
  
 - LunarCore: Small lunar calendar with Today extension [` App Store`](https://itunes.apple.com/app/id1031088612)  
-<details><summary>`objc` 🇨🇳 🔥🔥</summary>  https://github.com/cyanzhong/LunarCore<br>  Added October 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`objc` 🇨🇳 🔥🔥🔥</summary>  https://github.com/cyanzhong/LunarCore<br>  Added October 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='LunarCore image 1' src='https://github.com/cyanzhong/LunarCore/raw/master/iOS.png'> 
 </div>
   </details>
@@ -549,12 +549,6 @@ Click ► to show more details
 - 2048  
 <details><summary>`spritekit` 🔥🔥🔥</summary>  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
-</div>
-  </details>
-</details> 
-- Anypic: Mobile & web app that lets users share photos similar to Instagram [` App Store`](https://itunes.apple.com/app/anypic/id539741538)  
-<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/ParsePlatform/Anypic<br>  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
-<div><img height='300' alt='Anypic image 1' src='http://a1.mzstatic.com/us/r30/Purple5/v4/7d/32/6b/7d326b7f-0913-9ffe-1b1d-f25c4672bb5e/screen696x696.jpeg'> <img height='300' alt='Anypic image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/fe/f4/40/fef440e3-2a36-d849-282a-3ac6eb44c6ec/screen696x696.jpeg'> <img height='300' alt='Anypic image 3' src='http://a5.mzstatic.com/us/r30/Purple1/v4/4c/4b/26/4c4b26b2-71d1-1fdd-b574-afe0f217e7ed/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -630,7 +624,7 @@ Click ► to show more details
   </details>
 </details> 
 - Chats  
-<details><summary>`swift` 🔥🔥🔥🔥</summary>  https://github.com/acani/Chats<br>  Added March 18, 2015<br>  License: [`unlicense`](http://choosealicense.com/licenses/unlicense/)
+<details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/acani/Chats<br>  Added March 18, 2015<br>  License: [`unlicense`](http://choosealicense.com/licenses/unlicense/)
 <div><img height='300' alt='Chats image 1' src='https://github.com/acani/Chats/raw/master/Documents/iPhone-Client-Screenshots/iPhone-Client-Screenshots.gif'> 
 </div>
   </details>
@@ -726,7 +720,7 @@ Click ► to show more details
   </details>
 </details> 
 - Telegram: Send messages with a focus on speed & security [` App Store`](https://itunes.apple.com/app/telegram-messenger/id686449807)  
-<details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/peter-iakovlev/Telegram<br>  Added April  6, 2015<br>  License: `other`
+<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/peter-iakovlev/Telegram<br>  Added April  6, 2015<br>  License: `other`
 <div><img height='300' alt='Telegram image 1' src='http://a5.mzstatic.com/us/r30/Purple62/v4/d1/90/fd/d190fd61-005a-a5b7-0bf4-91b5c588b970/screen696x696.jpeg'> <img height='300' alt='Telegram image 2' src='http://a2.mzstatic.com/us/r30/Purple71/v4/95/f3/2e/95f32efb-5e42-841e-f142-b25b14f62f25/screen696x696.jpeg'> <img height='300' alt='Telegram image 3' src='http://a3.mzstatic.com/us/r30/Purple71/v4/ad/4c/76/ad4c768a-31c3-8fb2-daf4-effd9914e46c/screen696x696.jpeg'> <img height='300' alt='Telegram image 4' src='http://a2.mzstatic.com/us/r30/Purple71/v4/92/80/a3/9280a32a-66b6-15b9-b8fb-866ea1e13bfa/screen696x696.jpeg'> <img height='300' alt='Telegram image 5' src='http://a2.mzstatic.com/us/r30/Purple62/v4/be/00/19/be00193f-ee7e-9886-09d5-86ca9dfa2faf/screen696x696.jpeg'> 
 </div>
   </details>
@@ -1083,7 +1077,7 @@ Click ► to show more details
   </details>
 </details> 
 - DOSPad: DOSBox  
-<details><summary>`objc` </summary>  https://github.com/litchie/dospad<br>  Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<details><summary>`objc` 🔥</summary>  https://github.com/litchie/dospad<br>  Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <div><img height='300' alt='DOSPad image 1' src='https://github.com/litchie/dospad/blob/master/screenshots/portrait.png?raw=true'> 
 </div>
   </details>
@@ -1230,7 +1224,7 @@ Click ► to show more details
   </details>
 </details> 
 - LunarCore: Small lunar calendar with Today extension [` App Store`](https://itunes.apple.com/app/id1031088612)  
-<details><summary>`objc` 🇨🇳 🔥🔥</summary>  https://github.com/cyanzhong/LunarCore<br>  Added October 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`objc` 🇨🇳 🔥🔥🔥</summary>  https://github.com/cyanzhong/LunarCore<br>  Added October 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='LunarCore image 1' src='https://github.com/cyanzhong/LunarCore/raw/master/iOS.png'> 
 </div>
   </details>
@@ -2170,7 +2164,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
-<details><summary>`ipad` `pdf` `apple pencil` </summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`ipad` `pdf` `apple pencil` 🔥🔥</summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Loose Leaf image 1' src='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'> 
 </div>
   </details>
@@ -2823,7 +2817,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - DuckDuckGo: Official DuckDuckGo app [` App Store`](https://itunes.apple.com/app/duckduckgo-search-stories/id663592361)  
-<details><summary>`afnetworking` 🔥</summary>  https://github.com/duckduckgo/ios<br>  Added March 17, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<details><summary>`afnetworking` </summary>  https://github.com/duckduckgo/ios<br>  Added March 17, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div><img height='300' alt='DuckDuckGo image 1' src='http://a4.mzstatic.com/us/r30/Purple22/v4/09/83/3f/09833f7a-445e-0324-7d0e-6b75d9a3a7c3/screen696x696.jpeg'> <img height='300' alt='DuckDuckGo image 2' src='http://a3.mzstatic.com/us/r30/Purple41/v4/54/30/1f/54301f79-bded-4986-157f-4daf3012a244/screen696x696.jpeg'> <img height='300' alt='DuckDuckGo image 3' src='http://a3.mzstatic.com/us/r30/Purple62/v4/8e/16/b1/8e16b1e7-eefb-4b60-5525-d7cece5debb9/screen696x696.jpeg'> <img height='300' alt='DuckDuckGo image 4' src='http://a4.mzstatic.com/us/r30/Purple41/v4/a4/38/86/a43886a3-5ece-21bd-33ef-68b21be66d0c/screen696x696.jpeg'> <img height='300' alt='DuckDuckGo image 5' src='http://a1.mzstatic.com/us/r30/Purple19/v4/2b/42/1c/2b421c88-688e-9213-b647-c6a22bf41d66/screen696x696.jpeg'> 
 </div>
   </details>
@@ -3144,7 +3138,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Layer-Parse  
 <details><summary>`swift` `parse` `atlas` 🔥</summary>  https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example<br>  Added January 25, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-<div><img height='300' alt='Layer-Parse image 1' src='https://github.com/layerhq/Layer-Parse-iOS-Example/raw/master/Assets/Atlas-Layer-Parse-messenger-github.gif'> 
+<div><img height='300' alt='Layer-Parse image 1' src='https://raw.githubusercontent.com/kwkhaw/Layer-Parse-iOS-Swift-Example/master/Assets/Atlas-Layer-Parse-github.png'> 
 </div>
   </details>
 </details> 
@@ -3273,7 +3267,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - MiniKeePass: Secure Password Manager [` App Store`](https://itunes.apple.com/app/id451661808)  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/MiniKeePass/MiniKeePass<br>  Added February  7, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/MiniKeePass/MiniKeePass<br>  Added February  7, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='MiniKeePass image 1' src='http://a4.mzstatic.com/us/r30/Purple7/v4/d8/41/81/d84181ef-d7fe-2283-5b54-7cfb63f8fb01/screen696x696.jpeg'> <img height='300' alt='MiniKeePass image 2' src='http://a2.mzstatic.com/us/r30/Purple5/v4/16/d4/46/16d446eb-11ab-4f22-48bc-da22b75df89a/screen696x696.jpeg'> <img height='300' alt='MiniKeePass image 3' src='http://a4.mzstatic.com/us/r30/Purple1/v4/5f/01/13/5f0113bc-577d-ebb9-cd12-58674f9ac989/screen696x696.jpeg'> <img height='300' alt='MiniKeePass image 4' src='http://a1.mzstatic.com/us/r30/Purple5/v4/38/1d/e7/381de7b6-9414-99bf-d02c-de4ffc12d21d/screen696x696.jpeg'> <img height='300' alt='MiniKeePass image 5' src='http://a3.mzstatic.com/us/r30/Purple1/v4/1f/dd/eb/1fddeb0e-e562-10f2-8a79-e7ea385117cf/screen696x696.jpeg'> 
 </div>
   </details>
@@ -3412,6 +3406,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` </summary>  https://github.com/imod/MyAwesomeChecklist<br>  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
+- RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
+<details><summary>`swift` `realm` `reactnative` 🔥🔥</summary>  https://github.com/realm/RealmTasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+</details> 
 - RealmToDo: A small to-do list with Realm integration  
 <details><summary>`swift` </summary>  https://github.com/pietbrauer/RealmToDo<br>  Added July 31, 2015<br>  License: `other`
   </details>
@@ -3458,7 +3456,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
-<details><summary>`ipad` `pdf` `apple pencil` </summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`ipad` `pdf` `apple pencil` 🔥🔥</summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Loose Leaf image 1' src='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'> 
 </div>
   </details>
@@ -3917,21 +3915,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Anypic: Mobile & web app that lets users share photos similar to Instagram [` App Store`](https://itunes.apple.com/app/anypic/id539741538)  
-<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/ParsePlatform/Anypic<br>  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
-<div><img height='300' alt='Anypic image 1' src='http://a1.mzstatic.com/us/r30/Purple5/v4/7d/32/6b/7d326b7f-0913-9ffe-1b1d-f25c4672bb5e/screen696x696.jpeg'> <img height='300' alt='Anypic image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/fe/f4/40/fef440e3-2a36-d849-282a-3ac6eb44c6ec/screen696x696.jpeg'> <img height='300' alt='Anypic image 3' src='http://a5.mzstatic.com/us/r30/Purple1/v4/4c/4b/26/4c4b26b2-71d1-1fdd-b574-afe0f217e7ed/screen696x696.jpeg'> 
-</div>
-  </details>
-</details> 
 - Anypic  
 <details><summary>`swift` </summary>  https://github.com/SwiftAnyPic/SwiftAnyPic<br>  Added November  2, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
 <div><img height='300' alt='Anypic image 1' src='http://i.imgur.com/hkcrHaH.jpg'> 
-</div>
-  </details>
-</details> 
-- AnyWall: A fun geolocation app  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/ParsePlatform/AnyWall<br>  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
-<div>
 </div>
   </details>
 </details> 
@@ -3954,12 +3940,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Parse-Challenge-App: App with likes, comments, posting images/videos [` App Store`](https://itunes.apple.com/app/lets-challenge-me/id944004497)  
 <details><summary>`iphone` 🔥</summary>  https://github.com/TomekB/Parse-Challenge-App<br>  Added March  5, 2015<br>  License: `other`
 <div><img height='300' alt='Parse-Challenge-App image 1' src='http://a1.mzstatic.com/us/r30/Purple5/v4/2b/7a/76/2b7a76d2-3622-dc56-fc51-38b28f5e5739/screen696x696.jpeg'> <img height='300' alt='Parse-Challenge-App image 2' src='http://a5.mzstatic.com/us/r30/Purple1/v4/95/ea/a2/95eaa213-a27b-a3c2-1060-48a003e349fc/screen696x696.jpeg'> <img height='300' alt='Parse-Challenge-App image 3' src='http://a5.mzstatic.com/us/r30/Purple5/v4/fb/76/54/fb76545d-9a8b-16b2-b94d-9f8f166af6bb/screen696x696.jpeg'> 
-</div>
-  </details>
-</details> 
-- ParseStore: Backend provider for selling physical goods [` App Store`](https://itunes.apple.com/app/parse-store/id613679907)  
-<details><summary>`objc` 🔥</summary>  https://github.com/ParsePlatform/ParseStore<br>  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
-<div>
 </div>
   </details>
 </details> 
@@ -4148,6 +4128,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
+- RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
+<details><summary>`swift` `realm` `reactnative` 🔥🔥</summary>  https://github.com/realm/RealmTasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+</details> 
 - RSS Reader  
 <details><summary>`reactnative` </summary>  https://github.com/christopherdro/react-native-rss-reader<br>  Added June 22, 2015<br>  License: `other`
 <div><img height='300' alt='RSS Reader image 1' src='https://github.com/christopherdro/react-native-rss-reader/raw/master/RssReaderDemo.gif'> 
@@ -4241,6 +4225,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` `parse` 🔥🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
 <div><img height='300' alt='RaceMe image 1' src='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'> 
 </div>
+  </details>
+</details> 
+- RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
+<details><summary>`swift` `realm` `reactnative` 🔥🔥</summary>  https://github.com/realm/RealmTasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 </details> 
 - RealmToDo: A small to-do list with Realm integration  
