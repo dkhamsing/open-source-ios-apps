@@ -6,6 +6,8 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Adler Planetarium Navigation & Tour https://github.com/lucasqiu/Adler-Mobile-App
 - Alien Blue https://github.com/alienblue/AlienBlue
 - Alphabet-Blocks https://github.com/insurgentgames/Alphabet-Blocks
+- AnyWall https://github.com/opensourceios/AnyWall
+- Anypic https://github.com/opensourceios/Anypic
 - AppSales-Mobile https://github.com/omz/AppSales-Mobile
 - Bancha https://github.com/squallstar/bancha-ios-app
 - Cheddar https://github.com/nothingmagical/cheddar-ios
@@ -22,6 +24,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Mume https://github.com/opensourceios/Mume
 - OpenClien https://github.com/kewlbear/OpenClien
 - Pancake https://github.com/Imaginea/pancake-ios
+- ParseStore https://github.com/opensourceios/ParseStore
 - Pi https://github.com/opensourceios/Pi
 - PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
 - Repo https://github.com/ricburton/Repo
