@@ -11747,6 +11747,17 @@
       "license": "bsd-2-clause",
       "date_added": "Feb 1 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "RealmTasks",
+      "source": "https://github.com/realm/RealmTasks",
+      "description": "To Do app built with Realm, inspired by Clear for iOS",
+      "tags": ["swift", "realm", "reactnative"],
+      "category-ids": ["tasks", "realm", "react-native"],
+      "license": "apache-2.0",
+      "date_added": "Feb 2 2017",
+      "suggested_by": "@dkhamsing",
+      "stars": 219
     }
   ]
 }
