@@ -6348,9 +6348,9 @@
       "title": "Anypic",
       "category-ids": [
         "parse",
-        "clone",
-        "archive"
+        "clone"
       ],
+      "tags": ["archive"],
       "description": "Mobile & web app that lets users share photos similar to Instagram",
       "source": "https://github.com/opensourceios/Anypic",
       "itunes": "https://itunes.apple.com/app/anypic/id539741538",
@@ -6384,9 +6384,9 @@
     {
       "title": "AnyWall",
       "category-ids": [
-        "parse",
-        "archive"
+        "parse"
       ],
+      "tags": ["archive"],
       "description": "A fun geolocation app",
       "source": "https://github.com/opensourceios/AnyWall",
       "license": "cc0-1.0",
@@ -6441,9 +6441,9 @@
     {
       "title": "ParseStore",
       "category-ids": [
-        "parse",
-        "archive"
+        "parse"
       ],
+      "tags": ["archive"],
       "description": "Backend provider for selling physical goods",
       "source": "https://github.com/opensourceios/ParseStore",
       "itunes": "https://itunes.apple.com/app/parse-store/id613679907",
