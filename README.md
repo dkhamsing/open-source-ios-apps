@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-618-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  2, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-620-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  3, 2017-lightgrey.svg)
 
 Jump to
 
@@ -3561,6 +3561,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
+- prox: Decide what to do next, based on your current location  
+<details><summary>`swift` `afnetworking` `firebase` </summary>  https://github.com/mozilla-mobile/prox<br>  https://wiki.mozilla.org/New_Mobile_Experience<br>  Added February  3, 2017<br>  License: `other`
+<div><img height='300' alt='prox image 1' src='https://cdn-images-1.medium.com/max/800/1*vwHKVE8rpcMyqr5Ec7MSxQ.png'> 
+</div>
+  </details>
+</details> 
 - Smart Traveller (UberGuide): Simple & comfortable way to explore a city  
 <details><summary>`uber api` 🔥🔥</summary>  https://github.com/hACKbUSTER/UberGuide-iOS<br>  Added January 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Smart Traveller (UberGuide) image 1' src='https://raw.githubusercontent.com/hACKbUSTER/UberGuide-iOS/master/ScreenShots/IMG_0460.PNG'> 
@@ -3802,6 +3808,10 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` </summary>  https://github.com/chrismiles/OrganisingCoreData<br>  Added August  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
+- Listr: Wish list  
+<details><summary>`swift` </summary>  https://github.com/etchsaleh/Listr<br>  Added February  3, 2017<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+</details> 
 - Nested Lists  
 <details><summary>`objc` 🔥</summary>  https://github.com/objcio/issue-4-full-core-data-application<br>  Added August  7, 2015<br>  License: `other`
   </details>
@@ -3866,6 +3876,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Potter Pics: Harry Potter themed social network similar to Instagram.  
 <details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/surayashivji/PotterPics<br>  Added January 15, 2017
 <div><img height='300' alt='Potter Pics image 1' src='https://github.com/surayashivji/PotterPics/blob/master/Overview.gif'> 
+</div>
+  </details>
+</details> 
+- prox: Decide what to do next, based on your current location  
+<details><summary>`swift` `afnetworking` `firebase` </summary>  https://github.com/mozilla-mobile/prox<br>  https://wiki.mozilla.org/New_Mobile_Experience<br>  Added February  3, 2017<br>  License: `other`
+<div><img height='300' alt='prox image 1' src='https://cdn-images-1.medium.com/max/800/1*vwHKVE8rpcMyqr5Ec7MSxQ.png'> 
 </div>
   </details>
 </details> 
