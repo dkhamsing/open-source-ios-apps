@@ -11770,6 +11770,20 @@
       "license": "gpl-2.0",
       "date_added": "Feb 3 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "prox",
+      "description": "Decide what to do next, based on your current location",
+      "source": "https://github.com/mozilla-mobile/prox",
+      "homepage": "https://wiki.mozilla.org/New_Mobile_Experience",
+      "category-ids": ["travel", "firebase"],
+      "tags": [
+        "swift", "afnetworking", "firebase"
+      ],
+      "screenshots": ["https://cdn-images-1.medium.com/max/800/1*vwHKVE8rpcMyqr5Ec7MSxQ.png"],
+      "license": "other",
+      "date_added": "Feb 3 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
