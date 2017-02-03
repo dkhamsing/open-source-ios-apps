@@ -11767,6 +11767,10 @@
       "tags": [
         "swift"
       ],
+      "screenshots": [
+        "http://i.imgur.com/CJsIdOS.png",
+        "http://i.imgur.com/rLX3Fsf.png"
+      ],
       "license": "gpl-2.0",
       "date_added": "Feb 3 2017",
       "suggested_by": "@dkhamsing"
