@@ -11758,6 +11758,18 @@
       "date_added": "Feb 2 2017",
       "suggested_by": "@dkhamsing",
       "stars": 219
+    },
+    {
+      "title": "Listr",
+      "description": "Wish list",
+      "source": "https://github.com/etchsaleh/Listr",
+      "category-ids": ["core-data"],
+      "tags": [
+        "swift"
+      ],
+      "license": "gpl-2.0",
+      "date_added": "Feb 3 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
