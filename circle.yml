@@ -1,0 +1,17 @@
+machine:
+  ruby:
+    version: 2.2.0
+test:
+  pre:
+    - sudo pip install json-spec
+  override:
+    - json validate --schema-file=.github/schema.json --document-file=contents.json
+    - ruby .github/osia_validate_categories.rb
+deployment:
+  master:
+    branch: master
+    commands:
+      - ruby .github/osia_convert.rb
+      - ./.github/deploy.sh
+      - gem install delete_my_tweets
+      - ruby .github/osia_tweet_clean.rb

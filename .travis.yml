@@ -1,7 +1,12 @@
 language: ruby
-rvm:
-  - 2.2
+rvm: 2.2
 before_script:
   - gem install awesome_bot
+  - gem install danger
 script:
-  - awesome_bot README.md
+  - ruby .github/osia_get_links.rb
+  - awesome_bot check-unique.txt --allow-ssl -a 302 -w xbmc/xbmc,Cherry/master,preyproject
+  - awesome_bot check-links.txt  --allow-ssl -a 403 --allow-dupe -w wheelmap.org,sourceforge,radioparadise,iltofa,douban,preyproject
+after_script:
+  - awesome_bot check-info.txt -a 403
+  - danger
