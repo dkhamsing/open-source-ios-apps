@@ -11792,6 +11792,17 @@
       "license": "other",
       "date_added": "Feb 3 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "MobileTerminal",
+      "description": "Proof-of-concept for sandboxed Terminal environment",
+      "source": "https://github.com/steventroughtonsmith/MobileTerminal",
+      "category-ids": ["developer"],
+      "tags": ["c", "dlopen"],
+      "screenshots": ["http://hccdata.s3.amazonaws.com/gh_mobileterm_1.jpg)](http://hccdata.s3.amazonaws.com/gh_mobileterm_1.jpg"],
+      "license": "other",
+      "date_added": "Feb 6 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
