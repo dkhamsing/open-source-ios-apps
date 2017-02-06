@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-620-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  3, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-621-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  6, 2017-lightgrey.svg)
 
 Jump to
 
@@ -928,6 +928,12 @@ Click ► to show more details
 - Knuff: The debug application for Apple Push Notification service [` App Store`](https://itunes.apple.com/app/knuff-the-apns-debug-tool/id993435856)  
 <details><summary>`swift` `pop` `apns` </summary>  https://github.com/KnuffApp/Knuff-iOS<br>  Added October 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Knuff image 1' src='http://a4.mzstatic.com/us/r30/Purple49/v4/f9/21/14/f9211459-6b65-ed7c-ec75-c58c4de7f497/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- MobileTerminal: Proof-of-concept for sandboxed Terminal environment  
+<details><summary>`c` `dlopen` </summary>  https://github.com/steventroughtonsmith/MobileTerminal<br>  Added February  6, 2017<br>  License: `other`
+<div><img height='300' alt='MobileTerminal image 1' src='http://hccdata.s3.amazonaws.com/gh_mobileterm_1.jpg)](http://hccdata.s3.amazonaws.com/gh_mobileterm_1.jpg'> 
 </div>
   </details>
 </details> 
@@ -3407,7 +3413,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
-<details><summary>`swift` `realm` `reactnative` 🔥🔥</summary>  https://github.com/realm/RealmTasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<details><summary>`swift` `realm` `reactnative` `cartography` `swiftlint` 🔥🔥</summary>  https://github.com/realm/RealmTasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='http://i.imgur.com/Y9ZG7Of.png'> 
+</div>
   </details>
 </details> 
 - RealmToDo: A small to-do list with Realm integration  
@@ -3810,6 +3818,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Listr: Wish list  
 <details><summary>`swift` </summary>  https://github.com/etchsaleh/Listr<br>  Added February  3, 2017<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+<div><img height='300' alt='Listr image 1' src='http://i.imgur.com/CJsIdOS.png'> <img height='300' alt='Listr image 2' src='http://i.imgur.com/rLX3Fsf.png'> 
+</div>
   </details>
 </details> 
 - Nested Lists  
@@ -4145,7 +4155,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
-<details><summary>`swift` `realm` `reactnative` 🔥🔥</summary>  https://github.com/realm/RealmTasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<details><summary>`swift` `realm` `reactnative` `cartography` `swiftlint` 🔥🔥</summary>  https://github.com/realm/RealmTasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='http://i.imgur.com/Y9ZG7Of.png'> 
+</div>
   </details>
 </details> 
 - RSS Reader  
@@ -4244,7 +4256,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
-<details><summary>`swift` `realm` `reactnative` 🔥🔥</summary>  https://github.com/realm/RealmTasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<details><summary>`swift` `realm` `reactnative` `cartography` `swiftlint` 🔥🔥</summary>  https://github.com/realm/RealmTasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='http://i.imgur.com/Y9ZG7Of.png'> 
+</div>
   </details>
 </details> 
 - RealmToDo: A small to-do list with Realm integration  
