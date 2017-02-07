@@ -11803,6 +11803,17 @@
       "license": "other",
       "date_added": "Feb 6 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Artist",
+      "source": "https://github.com/orta/Relay-Artist-Example",
+      "description": "Example React Native app using Relay to access the Artsy GraphQL API",
+      "category-ids": ["react-native"],
+      "tags": ["reactnative", "graphql"],
+      "screenshots": ["https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true"],
+      "license": "mit",
+      "date_added": "Feb 7 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
