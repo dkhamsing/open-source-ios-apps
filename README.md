@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-621-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  6, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-622-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  7, 2017-lightgrey.svg)
 
 Jump to
 
@@ -4005,6 +4005,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Around Me: Display Instagram photos around your location  
 <details><summary>`reactnative` 🔥</summary>  https://github.com/bgryszko/react-native-example<br>  Added October 13, 2015<br>  License: `other`
 <div><img height='300' alt='Around Me image 1' src='https://camo.githubusercontent.com/1f889f2b9c10a575083eff28c875ad57063a9db1/68747470733a2f2f63646e2e7261776769742e636f6d2f62677279737a6b6f2f72656163742d6e61746976652d6578616d706c652f6d61737465722f707265766965772e676966'> 
+</div>
+  </details>
+</details> 
+- Artist: Example React Native app using Relay to access the Artsy GraphQL API  
+<details><summary>`reactnative` `graphql` </summary>  https://github.com/orta/Relay-Artist-Example<br>  Added February  7, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Artist image 1' src='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'> 
 </div>
   </details>
 </details> 
