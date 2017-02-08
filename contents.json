@@ -11825,6 +11825,16 @@
       "license": "mit",
       "date_added": "Feb 7 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "OMDB",
+      "description": "Movie information",
+      "source": "https://github.com/gnithin/appceleratorOMDB",
+      "category-ids": ["appcelerator"],
+      "tags": ["titanium", "javascript"],
+      "license": "apache-2.0",
+      "date_added": "Feb 8 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
