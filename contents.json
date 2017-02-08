@@ -4224,7 +4224,7 @@
       "category-ids": [
         "hacker-news"
       ],
-      "description": "Hacker News app with user management, commenting, submitting & themes",
+      "description": "Includes user management, commenting, submitting & themes",
       "license": "mit",
       "source": "https://github.com/bennyguitar/News-YC---iPhone",
       "itunes": "https://itunes.apple.com/app/news-yc/id592893508",
