@@ -4595,12 +4595,13 @@
     {
       "title": "LVMC",
       "category-ids": [
-        "sample"
+        "appcelerator"
       ],
       "screenshots": [
         "https://github.com/falkolab/LVMC/raw/master/screenshot.png?raw=true"
       ],
-      "description": "Multicolumn ListView helper library for Titanium",
+      "description": "Multicolumn ListView helper library",
+      "tags": ["titanium", "javascript"],
       "license": "mit",
       "source": "https://github.com/falkolab/LVMC-Demo-Alloy-App",
       "stars": 3,
@@ -6257,6 +6258,7 @@
       "category-ids": [
         "appcelerator"
       ],
+      "tags": ["titanium", "javascript"],
       "description": "Track your walk, run or ride",
       "license": "mit",
       "source": "https://github.com/fokkezb/tracker",
