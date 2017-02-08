@@ -188,6 +188,11 @@
       "id": "security"
     },
     {
+      "title": "Password",
+      "id": "password",
+      "parent": "security"
+    },
+    {
       "title": "Social",
       "id": "social"
     },
@@ -4745,7 +4750,7 @@
     {
       "title": "FreeOTP Authenticator",
       "category-ids": [
-        "security"
+        "password"
       ],
       "description": "Two-Factor Authentication",
       "source": "https://fedorahosted.org/freeotp/browser/ios",
@@ -4760,7 +4765,7 @@
     {
       "title": "MasterPassword",
       "category-ids": [
-        "security"
+        "password"
       ],
       "description": "Stateless password management solution",
       "license": "gpl-3.0",
@@ -4780,7 +4785,7 @@
     {
       "title": "MiniKeePass",
       "category-ids": [
-        "security"
+        "password"
       ],
       "description": "Secure Password Manager",
       "source": "https://github.com/MiniKeePass/MiniKeePass",
@@ -4800,7 +4805,7 @@
     {
       "title": "SkeletonKey",
       "category-ids": [
-        "security"
+        "password"
       ],
       "tags": [
         "iphone"
@@ -4823,7 +4828,7 @@
     {
       "title": "ZeroStore",
       "category-ids": [
-        "security"
+        "password"
       ],
       "description": "password storage without the storage",
       "license": "mit",
@@ -8308,7 +8313,7 @@
     {
       "title": "Authenticator",
       "category-ids": [
-        "security"
+        "password"
       ],
       "description": "A simple two-factor authentication app with a clean UI",
       "source": "https://github.com/mattrubin/authenticator",
@@ -8763,7 +8768,7 @@
     {
       "title": "Encryptr",
       "category-ids": [
-        "security",
+        "password",
         "finance"
       ],
       "tags": [
@@ -9735,7 +9740,7 @@
     {
       "title": "Dono",
       "category-ids": [
-        "security"
+        "password"
       ],
       "description": "Password derivation tool",
       "source": "https://github.com/dono-app/dono-ios",
@@ -11131,7 +11136,7 @@
       "title": "pass",
       "description": "password-store app",
       "category-ids": [
-        "security"
+        "password"
       ],
       "source": "https://github.com/davidjb/pass-ios",
       "homepage": "https://www.passwordstore.org/",
