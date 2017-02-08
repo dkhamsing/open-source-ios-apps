@@ -4600,7 +4600,7 @@
       "screenshots": [
         "https://github.com/falkolab/LVMC/raw/master/screenshot.png?raw=true"
       ],
-      "description": "Multicolumn ListView helper library",
+      "description": "Multicolumn ListView example",
       "tags": ["titanium", "javascript"],
       "license": "mit",
       "source": "https://github.com/falkolab/LVMC-Demo-Alloy-App",
