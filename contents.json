@@ -6323,6 +6323,7 @@
       "category-ids": [
         "ionic"
       ],
+      "tags": ["typescript"],
       "description": "View & collect vegan food lists",
       "source": "https://github.com/dsgriffin/vegan-lists-uk",
       "itunes": "https://itunes.apple.com/app/vegan-lists-uk/id1083273301",
@@ -8758,6 +8759,7 @@
         "social",
         "ionic"
       ],
+      "tags": ["angular", "cordova"],
       "description": "An encrypted social network",
       "source": "https://github.com/Minds/mobile",
       "homepage": "https://www.minds.com/",
