@@ -205,6 +205,11 @@
       "id": "text"
     },
     {
+      "title": "Notes",
+      "id": "notes",
+      "parent": "text"
+    },
+    {
       "title": "Timer",
       "id": "timer"
     },
@@ -5740,7 +5745,7 @@
     {
       "title": "Onions",
       "category-ids": [
-        "text",
+        "notes",
         "security"
       ],
       "description": "Cloud encrypted notes",
@@ -6158,7 +6163,7 @@
     {
       "title": "SimpleMemo",
       "category-ids": [
-        "text"
+        "notes"
       ],
       "description": "Sync notes to EverNote",
       "license": "mit",
@@ -6173,7 +6178,7 @@
     {
       "title": "SwiftNote",
       "category-ids": [
-        "text",
+        "notes",
         "today"
       ],
       "description": "Simple note taking with Today Extension & iCloud sync",
@@ -10259,7 +10264,7 @@
     {
       "title": "Simplenote",
       "category-ids": [
-        "text",
+        "notes",
         "official"
       ],
       "tags": [
@@ -11551,7 +11556,7 @@
       "source": "https://github.com/brentsimmons/Vesper",
       "itunes": "https://itunes.apple.com/app/vesper/id655895325",
       "category-ids": [
-        "text"
+        "notes"
       ],
       "screenshots": [
         "http://a4.mzstatic.com/us/r30/Purple1/v4/ff/44/1f/ff441f09-8a8f-b839-b9be-e80d614318c9/screen696x696.jpeg",
@@ -11616,7 +11621,7 @@
       "source": "https://github.com/adamwulf/loose-leaf",
       "itunes": "https://itunes.apple.com/app/loose-leaf/id625659452",
       "category-ids": [
-        "text",
+        "notes",
         "media"
       ],
       "tags": [
@@ -11638,7 +11643,7 @@
       "source": "https://github.com/standardnotes/iOS",
       "itunes": "https://itunes.apple.com/app/standard-notes/id1191215138",
       "category-ids": [
-        "text"
+        "notes"
       ],
       "tags": [
         "swift",
