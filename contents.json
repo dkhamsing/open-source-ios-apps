@@ -3985,7 +3985,7 @@
       "category-ids": [
         "news"
       ],
-      "description": "Gather all events on Grinnell College campus",
+      "description": "Grinnell College campus events",
       "license": "gpl-2.0",
       "source": "https://github.com/kvnbautista/Grinnell-Events-iOS",
       "itunes": "https://itunes.apple.com/app/grinnell-events/id924312300",
