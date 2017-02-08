@@ -11006,7 +11006,7 @@
     },
     {
       "title": "News",
-      "description": "Discover and read news on a range of news sources and blogs (66 providers)",
+      "description": "Discover & read news on a range of news sources/blogs",
       "category-ids": [
         "news-api"
       ],
