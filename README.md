@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-622-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  8, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-623-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  8, 2017-lightgrey.svg)
 
 Jump to
 
@@ -537,12 +537,6 @@ Click ► to show more details
 [back to top](#readme) 
  
 - 2048  
-<details><summary>`spritekit` 🔥🔥🔥</summary>  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
-</div>
-  </details>
-</details> 
-- 2048  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/austinzheng/iOS-2048<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='2048 image 1' src='https://github.com/austinzheng/iOS-2048/raw/master/screenshots/ss1.png?raw=true'> 
 </div>
@@ -551,6 +545,12 @@ Click ► to show more details
 - 2048  
 <details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/austinzheng/swift-2048<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='2048 image 1' src='https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'> 
+</div>
+  </details>
+</details> 
+- 2048  
+<details><summary>`spritekit` 🔥🔥🔥</summary>  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
 </div>
   </details>
 </details> 
@@ -1365,12 +1365,6 @@ Click ► to show more details
 [back to top](#readme) 
  
 - 2048  
-<details><summary>`spritekit` 🔥🔥🔥</summary>  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
-</div>
-  </details>
-</details> 
-- 2048  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/austinzheng/iOS-2048<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='2048 image 1' src='https://github.com/austinzheng/iOS-2048/raw/master/screenshots/ss1.png?raw=true'> 
 </div>
@@ -1379,6 +1373,12 @@ Click ► to show more details
 - 2048  
 <details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/austinzheng/swift-2048<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='2048 image 1' src='https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'> 
+</div>
+  </details>
+</details> 
+- 2048  
+<details><summary>`spritekit` 🔥🔥🔥</summary>  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
 </div>
   </details>
 </details> 
@@ -2042,15 +2042,15 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Prey: Track lost or stolen devices & perform actions remotely  
-<details><summary>`swift` </summary>  https://github.com/prey/prey-swift-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<div><img height='300' alt='Prey image 1' src='https://preyproject.com/img/home/report-simple-2.png'> 
-</div>
-  </details>
-</details> 
 - Prey: Track lost or stolen devices & perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037)  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/prey/prey-ios-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Prey image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/43/f7/91/43f791d0-319a-2e3f-449a-2471e240b068/screen696x696.jpeg'> <img height='300' alt='Prey image 2' src='http://a5.mzstatic.com/us/r30/Purple62/v4/c3/f9/ba/c3f9ba54-b8df-10bc-e2e0-ea6b1a736d91/screen696x696.jpeg'> <img height='300' alt='Prey image 3' src='http://a2.mzstatic.com/us/r30/Purple62/v4/e3/96/3e/e3963e31-b683-16c2-cc94-4768fe16020a/screen696x696.jpeg'> <img height='300' alt='Prey image 4' src='http://a4.mzstatic.com/us/r30/Purple71/v4/d6/af/c3/d6afc340-1972-af85-053b-8e52ed5a4588/screen696x696.jpeg'> <img height='300' alt='Prey image 5' src='http://a1.mzstatic.com/us/r30/Purple62/v4/f3/50/71/f35071d7-9fa9-1bf9-fa91-2641458bcd1e/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Prey: Track lost or stolen devices & perform actions remotely  
+<details><summary>`swift` </summary>  https://github.com/prey/prey-swift-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Prey image 1' src='https://preyproject.com/img/home/report-simple-2.png'> 
 </div>
   </details>
 </details> 
@@ -2249,7 +2249,7 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures  
+- Tagger: Help tag your photos on Instagram or Flickr  
 <details><summary>`swift` </summary>  https://github.com/vanyaland/Tagger<br>  Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Tagger image 1' src='https://github.com/vanyaland/Tagger/raw/master/Screenshots/main.png'> 
 </div>
@@ -2644,13 +2644,13 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Designer News: https://www.designernews.co/ [` App Store`](https://itunes.apple.com/app/designer-news-app/id879990495)  
+- Designer News: Browse the https://www.designernews.co/ design and technology site [` App Store`](https://itunes.apple.com/app/designer-news-app/id879990495)  
 <details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/MengTo/DesignerNewsApp<br>  Added March 15, 2015<br>  License: `other`
 <div><img height='300' alt='Designer News image 1' src='https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png'> 
 </div>
   </details>
 </details> 
-- GrinnellEvents: Gather all events on Grinnell College campus [` App Store`](https://itunes.apple.com/app/grinnell-events/id924312300)  
+- GrinnellEvents: Grinnell College campus events [` App Store`](https://itunes.apple.com/app/grinnell-events/id924312300)  
 <details><summary>`objc` </summary>  https://github.com/kvnbautista/Grinnell-Events-iOS<br>  Added October 16, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <div><img height='300' alt='GrinnellEvents image 1' src='http://a3.mzstatic.com/us/r30/Purple1/v4/6e/46/d1/6e46d11f-87e0-0015-cc26-d19bf960a9a9/screen696x696.jpeg'> <img height='300' alt='GrinnellEvents image 2' src='http://a4.mzstatic.com/us/r30/Purple5/v4/e0/29/8c/e0298c8d-bbea-170f-83b8-6939787fc024/screen696x696.jpeg'> <img height='300' alt='GrinnellEvents image 3' src='http://a5.mzstatic.com/us/r30/Purple3/v4/db/93/8a/db938a1c-e143-546b-c453-3b0864599163/screen696x696.jpeg'> 
 </div>
@@ -2684,13 +2684,13 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- The Oakland Post: App for student-run newspaper at Oakland University in Rochester, Michigan  
+- The Oakland Post: Oakland University student-run newspaper in Rochester, Michigan  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/aclissold/the-oakland-post<br>  Added March 18, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
 <div>
 </div>
   </details>
 </details> 
-- v2ex: Read https://www.v2ex.com/ [` App Store`](https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535)  
+- v2ex: Browse the https://www.v2ex.com/ startup, designer & developer site [` App Store`](https://itunes.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535)  
 <details><summary>`objc` 🇨🇳 🔥🔥🔥🔥</summary>  https://github.com/singro/v2ex<br>  Added April 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='v2ex image 1' src='http://a4.mzstatic.com/us/r30/Purple18/v4/cd/7e/af/cd7eafe2-9672-c37a-9c95-bad1651e23b9/screen696x696.jpeg'> <img height='300' alt='v2ex image 2' src='http://a1.mzstatic.com/us/r30/Purple18/v4/d5/a3/18/d5a31896-d70d-9d06-ba50-004df03d3735/screen696x696.jpeg'> <img height='300' alt='v2ex image 3' src='http://a2.mzstatic.com/us/r30/Purple20/v4/af/75/88/af7588a9-8481-5d75-f3fd-8b1aa0a35bd6/screen696x696.jpeg'> <img height='300' alt='v2ex image 4' src='http://a5.mzstatic.com/us/r30/Purple60/v4/3a/cb/a3/3acba32e-10c3-4916-1136-ebb922c33a2a/screen696x696.jpeg'> <img height='300' alt='v2ex image 5' src='http://a4.mzstatic.com/us/r30/Purple30/v4/ac/80/bb/ac80bbc1-1f81-1faf-26a0-c141e515082c/screen696x696.jpeg'> 
 </div>
@@ -2743,7 +2743,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- News/YC: Hacker News app with user management, commenting, submitting & themes [` App Store`](https://itunes.apple.com/app/news-yc/id592893508)  
+- News/YC: Includes user management, commenting, submitting & themes [` App Store`](https://itunes.apple.com/app/news-yc/id592893508)  
 <details><summary>`swift` 🔥🔥🔥</summary>  https://github.com/bennyguitar/News-YC---iPhone<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='News/YC image 1' src='http://a3.mzstatic.com/us/r30/Purple1/v4/05/9a/e1/059ae1f3-83ef-e2f5-d8c6-f93e6a53dcad/screen696x696.jpeg'> <img height='300' alt='News/YC image 2' src='http://a1.mzstatic.com/us/r30/Purple1/v4/8a/13/c0/8a13c09e-5c41-d2c9-df03-38da1596fbd7/screen696x696.jpeg'> <img height='300' alt='News/YC image 3' src='http://a3.mzstatic.com/us/r30/Purple5/v4/a7/12/c7/a712c7d8-dbbf-d4c3-c85a-2c93c74f039d/screen696x696.jpeg'> 
 </div>
@@ -2766,7 +2766,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- News: Discover and read news on a range of news sources and blogs (66 providers)  
+- News: Discover & read news on a range of news sources/blogs  
 <details><summary>`objc` </summary>  https://github.com/vanyaland/News<br>  Added November  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='News image 1' src='https://raw.githubusercontent.com/vanyaland/News/master/res/sources.png'> <img height='300' alt='News image 2' src='https://raw.githubusercontent.com/vanyaland/News/master/res/articles.png'> <img height='300' alt='News image 3' src='https://raw.githubusercontent.com/vanyaland/News/master/res/article.png'> 
 </div>
@@ -2783,7 +2783,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- RSSRead: RSS reader with offline feature [` App Store`](https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364)  
+- RSSRead: Includes offline mode [` App Store`](https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364)  
 <details><summary>`objc` 🇨🇳 🔥🔥🔥</summary>  https://github.com/ming1016/RSSRead<br>  Added April 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='RSSRead image 1' src='http://a2.mzstatic.com/us/r30/Purple3/v4/15/a3/26/15a3262c-4dd0-e9c3-9215-3f30cffae17b/screen696x696.jpeg'> <img height='300' alt='RSSRead image 2' src='http://a3.mzstatic.com/us/r30/Purple1/v4/1d/6a/c9/1d6ac957-8507-39bd-a74b-c185399b2ec6/screen696x696.jpeg'> <img height='300' alt='RSSRead image 3' src='http://a1.mzstatic.com/us/r30/Purple5/v4/78/2a/fa/782afab4-c37e-f882-cc1b-52af95d00447/screen696x696.jpeg'> <img height='300' alt='RSSRead image 4' src='http://a5.mzstatic.com/us/r30/Purple5/v4/77/15/8a/77158a0d-e8bd-3fd5-6b23-5e6cde61b9df/screen696x696.jpeg'> <img height='300' alt='RSSRead image 5' src='http://a4.mzstatic.com/us/r30/Purple5/v4/6a/2b/e7/6a2be7dc-361d-e815-e35c-5ce9f47cd1c3/screen696x696.jpeg'> 
 </div>
@@ -3162,12 +3162,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- LVMC: Multicolumn ListView helper library for Titanium  
-<details><summary>`objc` </summary>  https://github.com/falkolab/LVMC-Demo-Alloy-App<br>  Added April  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='LVMC image 1' src='https://github.com/falkolab/LVMC/raw/master/screenshot.png?raw=true'> 
-</div>
-  </details>
-</details> 
 - OpenShop.io: Ecommerce shopping app [` App Store`](https://itunes.apple.com/app/id1088689646)  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/openshopio/openshop.io-ios<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='OpenShop.io image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/f1/5e/74/f15e74dd-2999-3c26-5399-746cda25c1df/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 2' src='http://a3.mzstatic.com/us/r30/Purple49/v4/fd/f3/e7/fdf3e7e2-fb8f-4583-d6c2-74acd5c0bf1a/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 3' src='http://a3.mzstatic.com/us/r30/Purple49/v4/40/fd/44/40fd44f8-68c0-9e0f-948a-f17e3f06840a/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 4' src='http://a4.mzstatic.com/us/r30/Purple49/v4/e5/19/74/e51974db-b60c-a715-c77b-8c9efa677821/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 5' src='http://a2.mzstatic.com/us/r30/Purple49/v4/b7/6f/95/b76f95d1-5c40-b766-d399-d02d9963a56b/screen696x696.jpeg'> 
@@ -3351,7 +3345,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Minds Mobile App: An encrypted social network [` App Store`](https://itunes.apple.com/app/id961771928)  
-<details><summary>`objc` 🔥</summary>  https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
+<details><summary>`angular` `cordova` 🔥</summary>  https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
 <div><img height='300' alt='Minds Mobile App image 1' src='http://a2.mzstatic.com/us/r30/Purple69/v4/88/d6/7e/88d67efd-b235-e4ac-fe33-0f9c6a48717d/screen696x696.jpeg'> <img height='300' alt='Minds Mobile App image 2' src='http://a4.mzstatic.com/us/r30/Purple7/v4/cd/91/fb/cd91fbc1-927a-68dc-0d06-6abd52627ff0/screen696x696.jpeg'> <img height='300' alt='Minds Mobile App image 3' src='http://a3.mzstatic.com/us/r30/Purple2/v4/55/27/2c/55272c66-e389-5b0c-ceab-9165d3b4a9ec/screen696x696.jpeg'> <img height='300' alt='Minds Mobile App image 4' src='http://a1.mzstatic.com/us/r30/Purple49/v4/ce/78/dc/ce78dc5a-2c47-0c12-309c-a821bbb8e4f3/screen696x696.jpeg'> 
 </div>
   </details>
@@ -3511,7 +3505,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Standard Notes: Standard notes app with an un-standard focus on longevity, portability & privacy [` App Store`](https://itunes.apple.com/app/standard-notes/id1191215138)  
+- Standard Notes: Notes app with focus on longevity, portability & privacy [` App Store`](https://itunes.apple.com/app/standard-notes/id1191215138)  
 <details><summary>`swift` `alamofire` `swiftyjson` 🔥</summary>  https://github.com/standardnotes/iOS<br>  Added January 18, 2017<br>  License: `other`
 <div><img height='300' alt='Standard Notes image 1' src='http://a3.mzstatic.com/us/r30/Purple122/v4/ca/3d/84/ca3d84d6-201b-578b-8dc1-d0f9cf4495a0/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 2' src='http://a2.mzstatic.com/us/r30/Purple122/v4/b5/91/d1/b591d15d-5b3a-70a0-b8d3-e12e681e4113/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 3' src='http://a5.mzstatic.com/us/r30/Purple122/v4/8d/c0/44/8dc0445c-773b-22a5-afca-0695d29ec10c/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 4' src='http://a3.mzstatic.com/us/r30/Purple122/v4/8e/9e/2e/8e9e2e10-0184-e600-03a2-aaf24d84195b/screen696x696.jpeg'> 
 </div>
@@ -3675,9 +3669,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Borrowed Books UFGRS: Manage ufrgs.br library books  
+- Borrowed Books: Manage ufrgs.br library books  
 <details><summary>`swift` `alamofire` 🇵🇹 </summary>  https://github.com/MatheusCavalca/RenovaLivrosUFRGS<br>  Added March 20, 2016<br>  License: `other`
-<div><img height='300' alt='Borrowed Books UFGRS image 1' src='https://github.com/MatheusCavalca/RenovaLivrosUFRGS/raw/master/RenovaLivrosUFRGS/Images.xcassets/login_scren.imageset/login_scren.png'> <img height='300' alt='Borrowed Books UFGRS image 2' src='https://github.com/MatheusCavalca/RenovaLivrosUFRGS/raw/master/RenovaLivrosUFRGS/Images.xcassets/book_list_screen.imageset/book_list_screen.png'> 
+<div><img height='300' alt='Borrowed Books image 1' src='https://github.com/MatheusCavalca/RenovaLivrosUFRGS/raw/master/RenovaLivrosUFRGS/Images.xcassets/login_scren.imageset/login_scren.png'> <img height='300' alt='Borrowed Books image 2' src='https://github.com/MatheusCavalca/RenovaLivrosUFRGS/raw/master/RenovaLivrosUFRGS/Images.xcassets/book_list_screen.imageset/book_list_screen.png'> 
 </div>
   </details>
 </details> 
@@ -3781,8 +3775,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Tether: Tethering for non-jailbroken iOS Devices over USB  
-<details><summary>`objc` 🔥</summary>  https://github.com/chrisballinger/Tether-iOS<br>  Added December 17, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+- Tether: Tethering without jailbreaking  
+<details><summary>`usb` 🔥</summary>  https://github.com/chrisballinger/Tether-iOS<br>  Added December 17, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
 - TheReservist: Check availability of iPhones  
@@ -3791,7 +3785,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Vinylogue: Simple Last.fm app [` App Store`](https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119)  
+- Vinylogue: Last.fm app [` App Store`](https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119)  
 <details><summary>`objc` 🔥</summary>  https://github.com/twocentstudios/vinylogue<br>  Added January 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
 <div><img height='300' alt='Vinylogue image 1' src='http://a5.mzstatic.com/us/r30/Purple3/v4/a7/4f/eb/a74feb66-e0ff-97be-8998-5e1dedabe6d4/screen696x696.jpeg'> <img height='300' alt='Vinylogue image 2' src='http://a3.mzstatic.com/us/r30/Purple3/v4/84/32/4d/84324d90-b033-ecb1-6cca-9d4ac426d5ad/screen696x696.jpeg'> <img height='300' alt='Vinylogue image 3' src='http://a2.mzstatic.com/us/r30/Purple5/v4/8f/4d/83/8f4d83a3-844a-e491-00ec-797055b99ba8/screen696x696.jpeg'> <img height='300' alt='Vinylogue image 4' src='http://a2.mzstatic.com/us/r30/Purple3/v4/87/9f/31/879f3147-e2e2-f25a-550f-8cac23dfd829/screen696x696.jpeg'> 
 </div>
@@ -3819,8 +3813,18 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
+- LVMC: Multicolumn ListView helper library  
+<details><summary>`titanium` `javascript` </summary>  https://github.com/falkolab/LVMC-Demo-Alloy-App<br>  Added April  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='LVMC image 1' src='https://github.com/falkolab/LVMC/raw/master/screenshot.png?raw=true'> 
+</div>
+  </details>
+</details> 
+- OMDB: Movie information  
+<details><summary>`titanium` `javascript` </summary>  https://github.com/gnithin/appceleratorOMDB<br>  Added February  8, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+</details> 
 - Tracker 4 Compassion: Track your walk, run or ride [` App Store`](https://itunes.apple.com/app/g.o.-tracker-4-compassion/id1100240821)  
-<details><summary>`objc` </summary>  https://github.com/fokkezb/tracker<br>  Added April 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`titanium` `javascript` </summary>  https://github.com/fokkezb/tracker<br>  Added April 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Tracker 4 Compassion image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/f5/f4/07/f5f4071e-ba12-9c92-a931-599dcabffa71/screen696x696.jpeg'> <img height='300' alt='Tracker 4 Compassion image 2' src='http://a5.mzstatic.com/us/r30/Purple49/v4/29/de/d0/29ded0fb-2754-ea0d-d0d7-ed66f26e5838/screen696x696.jpeg'> <img height='300' alt='Tracker 4 Compassion image 3' src='http://a5.mzstatic.com/us/r30/Purple49/v4/aa/24/c7/aa24c7ba-6fc1-5c13-ec7c-0a8509296c95/screen696x696.jpeg'> <img height='300' alt='Tracker 4 Compassion image 4' src='http://a3.mzstatic.com/us/r30/Purple49/v4/8a/d4/97/8ad49780-e8f9-a122-fbba-a0a62a08506c/screen696x696.jpeg'> 
 </div>
   </details>
@@ -3848,7 +3852,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/SwiftCarlos/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures  
+- Tagger: Help tag your photos on Instagram or Flickr  
 <details><summary>`swift` </summary>  https://github.com/vanyaland/Tagger<br>  Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Tagger image 1' src='https://github.com/vanyaland/Tagger/raw/master/Screenshots/main.png'> 
 </div>
@@ -3931,13 +3935,13 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - Minds Mobile App: An encrypted social network [` App Store`](https://itunes.apple.com/app/id961771928)  
-<details><summary>`objc` 🔥</summary>  https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
+<details><summary>`angular` `cordova` 🔥</summary>  https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
 <div><img height='300' alt='Minds Mobile App image 1' src='http://a2.mzstatic.com/us/r30/Purple69/v4/88/d6/7e/88d67efd-b235-e4ac-fe33-0f9c6a48717d/screen696x696.jpeg'> <img height='300' alt='Minds Mobile App image 2' src='http://a4.mzstatic.com/us/r30/Purple7/v4/cd/91/fb/cd91fbc1-927a-68dc-0d06-6abd52627ff0/screen696x696.jpeg'> <img height='300' alt='Minds Mobile App image 3' src='http://a3.mzstatic.com/us/r30/Purple2/v4/55/27/2c/55272c66-e389-5b0c-ceab-9165d3b4a9ec/screen696x696.jpeg'> <img height='300' alt='Minds Mobile App image 4' src='http://a1.mzstatic.com/us/r30/Purple49/v4/ce/78/dc/ce78dc5a-2c47-0c12-309c-a821bbb8e4f3/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
 - Vegan Lists UK: View & collect vegan food lists [` App Store`](https://itunes.apple.com/app/vegan-lists-uk/id1083273301)  
-<details><summary>`objc` </summary>  https://github.com/dsgriffin/vegan-lists-uk<br>  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`typescript` </summary>  https://github.com/dsgriffin/vegan-lists-uk<br>  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Vegan Lists UK image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/4d/55/87/4d558798-7ba1-51fd-cfaf-f43073621bd2/screen696x696.jpeg'> <img height='300' alt='Vegan Lists UK image 2' src='http://a5.mzstatic.com/us/r30/Purple69/v4/09/43/96/09439616-213a-1355-1cbd-d65626cf2bb6/screen696x696.jpeg'> <img height='300' alt='Vegan Lists UK image 3' src='http://a4.mzstatic.com/us/r30/Purple69/v4/cd/09/c1/cd09c198-bb31-5b74-1aca-6973eeade7ae/screen696x696.jpeg'> <img height='300' alt='Vegan Lists UK image 4' src='http://a5.mzstatic.com/us/r30/Purple49/v4/ee/cc/c0/eeccc040-d840-4c30-0dd0-037dce7ec3dd/screen696x696.jpeg'> <img height='300' alt='Vegan Lists UK image 5' src='http://a3.mzstatic.com/us/r30/Purple69/v4/0e/36/32/0e36329c-71a0-a6af-fa2a-643a91167c05/screen696x696.jpeg'> 
 </div>
   </details>
