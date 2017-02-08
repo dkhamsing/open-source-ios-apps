@@ -9128,7 +9128,7 @@
       "category-ids": [
         "realm"
       ],
-      "description": "Shows daily menu of close restaurants to Czech Technical University",
+      "description": "Daily menu of restaurants near Czech Technical University",
       "source": "https://github.com/syky27/lunch_guy-ios",
       "license": "mit",
       "tags": [
