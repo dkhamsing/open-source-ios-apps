@@ -4089,7 +4089,7 @@
       "category-ids": [
         "news"
       ],
-      "description": "App for student-run newspaper at Oakland University in Rochester, Michigan",
+      "description": "Oakland University student-run newspaper in Rochester, Michigan",
       "license": "bsd-3-clause",
       "source": "https://github.com/aclissold/the-oakland-post",
       "stars": 293,
