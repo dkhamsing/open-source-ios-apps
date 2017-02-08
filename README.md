@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-622-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  7, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-622-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  8, 2017-lightgrey.svg)
 
 Jump to
 
@@ -51,9 +51,11 @@ Jump to
 - [Sample](#sample) 
 - [Scan](#scan) 
 - [Security](#security) 
+  - [Password](#password) 
 - [Social](#social) 
 - [Tasks](#tasks) 
 - [Text](#text) 
+  - [Notes](#notes) 
 - [Timer](#timer) 
 - [Travel](#travel) 
 - [Weather](#weather) 
@@ -535,6 +537,12 @@ Click ► to show more details
 [back to top](#readme) 
  
 - 2048  
+<details><summary>`spritekit` 🔥🔥🔥</summary>  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
+</div>
+  </details>
+</details> 
+- 2048  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/austinzheng/iOS-2048<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='2048 image 1' src='https://github.com/austinzheng/iOS-2048/raw/master/screenshots/ss1.png?raw=true'> 
 </div>
@@ -543,12 +551,6 @@ Click ► to show more details
 - 2048  
 <details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/austinzheng/swift-2048<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='2048 image 1' src='https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'> 
-</div>
-  </details>
-</details> 
-- 2048  
-<details><summary>`spritekit` 🔥🔥🔥</summary>  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
 </div>
   </details>
 </details> 
@@ -1363,6 +1365,12 @@ Click ► to show more details
 [back to top](#readme) 
  
 - 2048  
+<details><summary>`spritekit` 🔥🔥🔥</summary>  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
+</div>
+  </details>
+</details> 
+- 2048  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/austinzheng/iOS-2048<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='2048 image 1' src='https://github.com/austinzheng/iOS-2048/raw/master/screenshots/ss1.png?raw=true'> 
 </div>
@@ -1371,12 +1379,6 @@ Click ► to show more details
 - 2048  
 <details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/austinzheng/swift-2048<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='2048 image 1' src='https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'> 
-</div>
-  </details>
-</details> 
-- 2048  
-<details><summary>`spritekit` 🔥🔥🔥</summary>  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
 </div>
   </details>
 </details> 
@@ -2040,15 +2042,15 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Prey: Track lost or stolen devices & perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037)  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/prey/prey-ios-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<div><img height='300' alt='Prey image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/43/f7/91/43f791d0-319a-2e3f-449a-2471e240b068/screen696x696.jpeg'> <img height='300' alt='Prey image 2' src='http://a5.mzstatic.com/us/r30/Purple62/v4/c3/f9/ba/c3f9ba54-b8df-10bc-e2e0-ea6b1a736d91/screen696x696.jpeg'> <img height='300' alt='Prey image 3' src='http://a2.mzstatic.com/us/r30/Purple62/v4/e3/96/3e/e3963e31-b683-16c2-cc94-4768fe16020a/screen696x696.jpeg'> <img height='300' alt='Prey image 4' src='http://a4.mzstatic.com/us/r30/Purple71/v4/d6/af/c3/d6afc340-1972-af85-053b-8e52ed5a4588/screen696x696.jpeg'> <img height='300' alt='Prey image 5' src='http://a1.mzstatic.com/us/r30/Purple62/v4/f3/50/71/f35071d7-9fa9-1bf9-fa91-2641458bcd1e/screen696x696.jpeg'> 
-</div>
-  </details>
-</details> 
 - Prey: Track lost or stolen devices & perform actions remotely  
 <details><summary>`swift` </summary>  https://github.com/prey/prey-swift-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Prey image 1' src='https://preyproject.com/img/home/report-simple-2.png'> 
+</div>
+  </details>
+</details> 
+- Prey: Track lost or stolen devices & perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037)  
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/prey/prey-ios-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Prey image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/43/f7/91/43f791d0-319a-2e3f-449a-2471e240b068/screen696x696.jpeg'> <img height='300' alt='Prey image 2' src='http://a5.mzstatic.com/us/r30/Purple62/v4/c3/f9/ba/c3f9ba54-b8df-10bc-e2e0-ea6b1a736d91/screen696x696.jpeg'> <img height='300' alt='Prey image 3' src='http://a2.mzstatic.com/us/r30/Purple62/v4/e3/96/3e/e3963e31-b683-16c2-cc94-4768fe16020a/screen696x696.jpeg'> <img height='300' alt='Prey image 4' src='http://a4.mzstatic.com/us/r30/Purple71/v4/d6/af/c3/d6afc340-1972-af85-053b-8e52ed5a4588/screen696x696.jpeg'> <img height='300' alt='Prey image 5' src='http://a1.mzstatic.com/us/r30/Purple62/v4/f3/50/71/f35071d7-9fa9-1bf9-fa91-2641458bcd1e/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -3086,6 +3088,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <details><summary>`objc` </summary>  https://developer.apple.com/sample-code/wwdc/2015/<br>  Added July 16, 2015<br>  License: `other`
   </details>
 </details> 
+- Artist: Use Relay to access the Artsy GraphQL API  
+<details><summary>`reactnative` `graphql` </summary>  https://github.com/orta/Relay-Artist-Example<br>  Added February  7, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Artist image 1' src='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'> 
+</div>
+  </details>
+</details> 
 - Cannonball: Fun way to create / share stories & poems [` App Store`](https://itunes.apple.com/app/cannonball-magnetic-poetry/id929750075)  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/crashlytics/cannonball-ios<br>  Added March 24, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div><img height='300' alt='Cannonball image 1' src='http://a4.mzstatic.com/us/r30/Purple7/v4/e6/7b/37/e67b37c8-46a3-eff4-e8e4-85070f1604b9/screen696x696.jpeg'> <img height='300' alt='Cannonball image 2' src='http://a5.mzstatic.com/us/r30/Purple5/v4/7a/09/1c/7a091c85-509a-2d34-ba92-d6361a700fed/screen696x696.jpeg'> <img height='300' alt='Cannonball image 3' src='http://a2.mzstatic.com/us/r30/Purple5/v4/3e/65/ce/3e65ce5f-554c-1dcc-4b7c-078ada30284d/screen696x696.jpeg'> <img height='300' alt='Cannonball image 4' src='http://a1.mzstatic.com/us/r30/Purple7/v4/17/67/a9/1767a993-71ca-6e9d-9712-6d858747ea0d/screen696x696.jpeg'> <img height='300' alt='Cannonball image 5' src='http://a5.mzstatic.com/us/r30/Purple7/v4/99/87/f0/9987f0a1-1b59-8ee1-24d1-243d443e253e/screen696x696.jpeg'> 
@@ -3238,6 +3246,39 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
+- iCepa: System-wide VPN based Tor client  
+<details><summary>`swift` `tor` 🔥🔥</summary>  https://github.com/iCepa/iCepa<br>  Added September  7, 2016<br>  License: `other`
+  </details>
+</details> 
+- Onions: Cloud encrypted notes [` App Store`](https://itunes.apple.com/app/onions/id687296481)  
+<details><summary>`objc` </summary>  https://github.com/onionsapp/Onions-iOS<br>  Added January 27, 2015<br>  License: `other`
+<div><img height='300' alt='Onions image 1' src='http://a2.mzstatic.com/us/r30/Purple/v4/d0/08/29/d00829d7-e34f-69e7-d21b-bfd3f48ae8fc/screen696x696.jpeg'> <img height='300' alt='Onions image 2' src='http://a3.mzstatic.com/us/r30/Purple4/v4/9d/18/f7/9d18f743-51ef-adfa-5720-ce52057f2232/screen696x696.jpeg'> <img height='300' alt='Onions image 3' src='http://a2.mzstatic.com/us/r30/Purple2/v4/85/63/c3/8563c3ce-2e2a-0a6f-472d-68b60a274841/screen696x696.jpeg'> <img height='300' alt='Onions image 4' src='http://a4.mzstatic.com/us/r30/Purple/v4/e2/43/a1/e243a12f-6391-f347-c684-22e5236f0d79/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Potatso: App that implements Shadowsocks proxy [` App Store`](https://itunes.apple.com/app/id1070901416)  
+<details><summary>`swift` 🇨🇳 🔥🔥🔥🔥🔥</summary>  https://github.com/shadowsocks/Potatso<br>  Added June 30, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Potatso image 1' src='http://a1.mzstatic.com/us/r30/Purple20/v4/2c/b0/76/2cb07652-ae2c-d915-2795-32d1862b5f11/screen696x696.jpeg'> <img height='300' alt='Potatso image 2' src='http://a5.mzstatic.com/us/r30/Purple18/v4/4a/1f/c4/4a1fc48b-8d25-4626-9a3d-82fa2b3cbee9/screen696x696.jpeg'> <img height='300' alt='Potatso image 3' src='http://a5.mzstatic.com/us/r30/Purple18/v4/68/8e/96/688e9627-19b1-8366-297d-278960065bda/screen696x696.jpeg'> <img height='300' alt='Potatso image 4' src='http://a4.mzstatic.com/us/r30/Purple30/v4/23/04/99/2304999f-cdf5-882b-8ed3-11bbd82329b5/screen696x696.jpeg'> <img height='300' alt='Potatso image 5' src='http://a2.mzstatic.com/us/r30/Purple18/v4/4a/5f/9d/4a5f9de7-92c3-a411-9ebd-c7a3a146f4a0/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Prey: Track lost or stolen devices & perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037)  
+<details><summary>`objc` 🔥🔥</summary>  https://github.com/prey/prey-ios-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Prey image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/43/f7/91/43f791d0-319a-2e3f-449a-2471e240b068/screen696x696.jpeg'> <img height='300' alt='Prey image 2' src='http://a5.mzstatic.com/us/r30/Purple62/v4/c3/f9/ba/c3f9ba54-b8df-10bc-e2e0-ea6b1a736d91/screen696x696.jpeg'> <img height='300' alt='Prey image 3' src='http://a2.mzstatic.com/us/r30/Purple62/v4/e3/96/3e/e3963e31-b683-16c2-cc94-4768fe16020a/screen696x696.jpeg'> <img height='300' alt='Prey image 4' src='http://a4.mzstatic.com/us/r30/Purple71/v4/d6/af/c3/d6afc340-1972-af85-053b-8e52ed5a4588/screen696x696.jpeg'> <img height='300' alt='Prey image 5' src='http://a1.mzstatic.com/us/r30/Purple62/v4/f3/50/71/f35071d7-9fa9-1bf9-fa91-2641458bcd1e/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Prey: Track lost or stolen devices & perform actions remotely  
+<details><summary>`swift` </summary>  https://github.com/prey/prey-swift-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Prey image 1' src='https://preyproject.com/img/home/report-simple-2.png'> 
+</div>
+  </details>
+</details> 
+
+### Password 
+ 
+[back to top](#readme) 
+ 
 - Authenticator: A simple two-factor authentication app with a clean UI [` App Store`](https://itunes.apple.com/app/id766157276)  
 <details><summary>`objc` 🔥</summary>  https://github.com/mattrubin/authenticator<br>  https://mattrubin.me/authenticator/<br>  Added March 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Authenticator image 1' src='http://a3.mzstatic.com/us/r30/Purple4/v4/d0/6f/3d/d06f3d75-b4f9-d2c0-1f24-01ec8f84d3d2/screen696x696.jpeg'> <img height='300' alt='Authenticator image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/ba/b8/ee/bab8eeb5-de24-7319-9401-c90cf2e95212/screen696x696.jpeg'> <img height='300' alt='Authenticator image 3' src='http://a3.mzstatic.com/us/r30/Purple5/v4/aa/8f/5e/aa8f5eff-74da-db7c-a647-cfb18a54cfaf/screen696x696.jpeg'> 
@@ -3262,10 +3303,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- iCepa: System-wide VPN based Tor client  
-<details><summary>`swift` `tor` 🔥🔥</summary>  https://github.com/iCepa/iCepa<br>  Added September  7, 2016<br>  License: `other`
-  </details>
-</details> 
 - MasterPassword: Stateless password management solution [` App Store`](https://itunes.apple.com/app/id510296984)  
 <details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/Lyndir/MasterPassword<br>  Added May 15, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='MasterPassword image 1' src='http://a3.mzstatic.com/us/r30/Purple1/v4/2d/a3/e2/2da3e280-a7b2-2919-0a62-b4d9063102bd/screen696x696.jpeg'> <img height='300' alt='MasterPassword image 2' src='http://a4.mzstatic.com/us/r30/Purple5/v4/54/31/3c/54313ca9-4faa-3a44-703b-42deadbdb3d5/screen696x696.jpeg'> <img height='300' alt='MasterPassword image 3' src='http://a1.mzstatic.com/us/r30/Purple5/v4/9c/8d/8b/9c8d8bee-69ee-7c98-9415-e7237b4e5b17/screen696x696.jpeg'> <img height='300' alt='MasterPassword image 4' src='http://a4.mzstatic.com/us/r30/Purple5/v4/f3/8f/e0/f38fe060-897e-20f9-00d5-cc99b9061673/screen696x696.jpeg'> <img height='300' alt='MasterPassword image 5' src='http://a5.mzstatic.com/us/r30/Purple3/v4/2a/7c/fd/2a7cfd81-8764-4394-6396-4bfc8b41f53c/screen696x696.jpeg'> 
@@ -3278,33 +3315,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Onions: Cloud encrypted notes [` App Store`](https://itunes.apple.com/app/onions/id687296481)  
-<details><summary>`objc` </summary>  https://github.com/onionsapp/Onions-iOS<br>  Added January 27, 2015<br>  License: `other`
-<div><img height='300' alt='Onions image 1' src='http://a2.mzstatic.com/us/r30/Purple/v4/d0/08/29/d00829d7-e34f-69e7-d21b-bfd3f48ae8fc/screen696x696.jpeg'> <img height='300' alt='Onions image 2' src='http://a3.mzstatic.com/us/r30/Purple4/v4/9d/18/f7/9d18f743-51ef-adfa-5720-ce52057f2232/screen696x696.jpeg'> <img height='300' alt='Onions image 3' src='http://a2.mzstatic.com/us/r30/Purple2/v4/85/63/c3/8563c3ce-2e2a-0a6f-472d-68b60a274841/screen696x696.jpeg'> <img height='300' alt='Onions image 4' src='http://a4.mzstatic.com/us/r30/Purple/v4/e2/43/a1/e243a12f-6391-f347-c684-22e5236f0d79/screen696x696.jpeg'> 
-</div>
-  </details>
-</details> 
 - pass: password-store app  
 <details><summary>`objc++` `touchid` </summary>  https://github.com/davidjb/pass-ios<br>  https://www.passwordstore.org/<br>  Added November  8, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div><img height='300' alt='pass image 1' src='https://github.com/davidjb/pass-ios/raw/master/screenshots/1_main_screen.png?raw=true'> <img height='300' alt='pass image 2' src='https://github.com/davidjb/pass-ios/raw/master/screenshots/3_entry.png?raw=true'> 
-</div>
-  </details>
-</details> 
-- Potatso: App that implements Shadowsocks proxy [` App Store`](https://itunes.apple.com/app/id1070901416)  
-<details><summary>`swift` 🇨🇳 🔥🔥🔥🔥🔥</summary>  https://github.com/shadowsocks/Potatso<br>  Added June 30, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<div><img height='300' alt='Potatso image 1' src='http://a1.mzstatic.com/us/r30/Purple20/v4/2c/b0/76/2cb07652-ae2c-d915-2795-32d1862b5f11/screen696x696.jpeg'> <img height='300' alt='Potatso image 2' src='http://a5.mzstatic.com/us/r30/Purple18/v4/4a/1f/c4/4a1fc48b-8d25-4626-9a3d-82fa2b3cbee9/screen696x696.jpeg'> <img height='300' alt='Potatso image 3' src='http://a5.mzstatic.com/us/r30/Purple18/v4/68/8e/96/688e9627-19b1-8366-297d-278960065bda/screen696x696.jpeg'> <img height='300' alt='Potatso image 4' src='http://a4.mzstatic.com/us/r30/Purple30/v4/23/04/99/2304999f-cdf5-882b-8ed3-11bbd82329b5/screen696x696.jpeg'> <img height='300' alt='Potatso image 5' src='http://a2.mzstatic.com/us/r30/Purple18/v4/4a/5f/9d/4a5f9de7-92c3-a411-9ebd-c7a3a146f4a0/screen696x696.jpeg'> 
-</div>
-  </details>
-</details> 
-- Prey: Track lost or stolen devices & perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037)  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/prey/prey-ios-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<div><img height='300' alt='Prey image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/43/f7/91/43f791d0-319a-2e3f-449a-2471e240b068/screen696x696.jpeg'> <img height='300' alt='Prey image 2' src='http://a5.mzstatic.com/us/r30/Purple62/v4/c3/f9/ba/c3f9ba54-b8df-10bc-e2e0-ea6b1a736d91/screen696x696.jpeg'> <img height='300' alt='Prey image 3' src='http://a2.mzstatic.com/us/r30/Purple62/v4/e3/96/3e/e3963e31-b683-16c2-cc94-4768fe16020a/screen696x696.jpeg'> <img height='300' alt='Prey image 4' src='http://a4.mzstatic.com/us/r30/Purple71/v4/d6/af/c3/d6afc340-1972-af85-053b-8e52ed5a4588/screen696x696.jpeg'> <img height='300' alt='Prey image 5' src='http://a1.mzstatic.com/us/r30/Purple62/v4/f3/50/71/f35071d7-9fa9-1bf9-fa91-2641458bcd1e/screen696x696.jpeg'> 
-</div>
-  </details>
-</details> 
-- Prey: Track lost or stolen devices & perform actions remotely  
-<details><summary>`swift` </summary>  https://github.com/prey/prey-swift-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<div><img height='300' alt='Prey image 1' src='https://preyproject.com/img/home/report-simple-2.png'> 
 </div>
   </details>
 </details> 
@@ -3463,6 +3476,17 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
+- Sentiments: Analyzes text for positive or negative sentiment  
+<details><summary>`swift` 🔥</summary>  https://github.com/kyleweiner/Sentiments<br>  Added May 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Sentiments image 1' src='https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif'> 
+</div>
+  </details>
+</details> 
+
+### Notes 
+ 
+[back to top](#readme) 
+ 
 - Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
 <details><summary>`ipad` `pdf` `apple pencil` 🔥🔥</summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Loose Leaf image 1' src='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'> 
@@ -3472,12 +3496,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Onions: Cloud encrypted notes [` App Store`](https://itunes.apple.com/app/onions/id687296481)  
 <details><summary>`objc` </summary>  https://github.com/onionsapp/Onions-iOS<br>  Added January 27, 2015<br>  License: `other`
 <div><img height='300' alt='Onions image 1' src='http://a2.mzstatic.com/us/r30/Purple/v4/d0/08/29/d00829d7-e34f-69e7-d21b-bfd3f48ae8fc/screen696x696.jpeg'> <img height='300' alt='Onions image 2' src='http://a3.mzstatic.com/us/r30/Purple4/v4/9d/18/f7/9d18f743-51ef-adfa-5720-ce52057f2232/screen696x696.jpeg'> <img height='300' alt='Onions image 3' src='http://a2.mzstatic.com/us/r30/Purple2/v4/85/63/c3/8563c3ce-2e2a-0a6f-472d-68b60a274841/screen696x696.jpeg'> <img height='300' alt='Onions image 4' src='http://a4.mzstatic.com/us/r30/Purple/v4/e2/43/a1/e243a12f-6391-f347-c684-22e5236f0d79/screen696x696.jpeg'> 
-</div>
-  </details>
-</details> 
-- Sentiments: Analyzes text for positive or negative sentiment  
-<details><summary>`swift` 🔥</summary>  https://github.com/kyleweiner/Sentiments<br>  Added May 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Sentiments image 1' src='https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif'> 
 </div>
   </details>
 </details> 
@@ -4008,7 +4026,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Artist: Example React Native app using Relay to access the Artsy GraphQL API  
+- Artist: Use Relay to access the Artsy GraphQL API  
 <details><summary>`reactnative` `graphql` </summary>  https://github.com/orta/Relay-Artist-Example<br>  Added February  7, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Artist image 1' src='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'> 
 </div>
@@ -4243,7 +4261,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Obědář: Shows daily menu of close restaurants to Czech Technical University  
+- Obědář: Daily menu of restaurants near Czech Technical University  
 <details><summary>`swift` </summary>  https://github.com/syky27/lunch_guy-ios<br>  Added June 16, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Obědář image 1' src='https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/2.png'> <img height='300' alt='Obědář image 2' src='https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/1.png'> 
 </div>
