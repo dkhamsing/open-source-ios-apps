@@ -4050,7 +4050,7 @@
       "category-ids": [
         "rss"
       ],
-      "description": "RSS reader with offline feature",
+      "description": "Includes offline mode",
       "lang": "zho",
       "source": "https://github.com/ming1016/RSSRead",
       "itunes": "https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364",
