@@ -5977,7 +5977,7 @@
       "category-ids": [
         "misc"
       ],
-      "description": "Simple Last.fm app",
+      "description": "Last.fm app",
       "license": "bsd-3-clause",
       "source": "https://github.com/twocentstudios/vinylogue",
       "itunes": "https://itunes.apple.com/app/vinylogue-for-last.fm/id617471119",
