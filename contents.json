@@ -286,7 +286,7 @@
       "category-ids": [
         "apple-tv"
       ],
-      "description": "Art shows on your TV",
+      "description": "Art shows on",
       "license": "mit",
       "source": "https://github.com/artsy/Emergence",
       "stars": 311,
@@ -322,6 +322,7 @@
         "apple-tv",
         "emulator"
       ],
+      "tags": ["realm"],
       "description": "Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more",
       "source": "https://github.com/jasarien/Provenance",
       "stars": 2613,
@@ -1084,6 +1085,7 @@
       "category-ids": [
         "communication"
       ],
+      "tags": ["swift", "yyimage"],
       "description": "Cross-platform instant message app",
       "license": "agpl-3.0",
       "source": "https://github.com/actorapp/actor-platform",
@@ -1104,6 +1106,7 @@
       "category-ids": [
         "communication"
       ],
+      "tags": ["yapdatabase", "purelayout", "mantle"],
       "description": "Chat using Bluetooth 4.0 Low Energy API (Bluetooth LE)",
       "license": "mpl-2.0",
       "source": "https://github.com/chrisballinger/BLEMeshChat",
@@ -1219,6 +1222,7 @@
       "category-ids": [
         "communication"
       ],
+      "tags": ["fastlane"],
       "description": "IRC client/service",
       "source": "https://github.com/irccloud/ios",
       "itunes": "https://itunes.apple.com/app/irccloud/id672699103",
@@ -1254,6 +1258,7 @@
       "category-ids": [
         "communication"
       ],
+      "tags": ["fmdb"],
       "description": "Gaming-focused social voice chat utility",
       "license": "bsd-3-clause",
       "source": "https://github.com/mumble-voip/mumble-iphoneos",
@@ -1297,7 +1302,11 @@
         "communication"
       ],
       "tags": [
-        "iphone"
+        "iphone",
+        "carthage",
+        "socketrocket",
+        "purelayout",
+        "openssl"
       ],
       "description": "Free, world-wide, private messaging & phone calls",
       "source": "https://github.com/WhisperSystems/Signal-iOS",
@@ -3005,6 +3014,7 @@
       "category-ids": [
         "location"
       ],
+      "tags": ["cocoaLumberjack"],
       "description": "Keep track of your own location, you can build your private location diary or share it with your family & friends",
       "source": "https://github.com/owntracks/ios",
       "itunes": "https://itunes.apple.com/app/mqttitude/id692424691",
@@ -5379,6 +5389,7 @@
       "category-ids": [
         "communication"
       ],
+      "tags": ["afnetworking", "masonry", "sdwebimage"],
       "description": "Connect blind people with volunteer helpers via live video chat",
       "source": "https://github.com/bemyeyes/bemyeyes-ios",
       "itunes": "https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575",
@@ -7629,6 +7640,7 @@
       "screenshots": [
         "http://i.imgur.com/MUNX0Mq.jpg"
       ],
+      "tags": ["c"],
       "description": "The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more",
       "source": "https://github.com/libretro/RetroArch",
       "stars": 1488,
@@ -7671,6 +7683,7 @@
       "category-ids": [
         "emulator"
       ],
+      "tags": ["c++"],
       "screenshots": [
         "http://www.ppsspp.org/img/screens/small/finalfantasycrisiscore.jpg",
         "http://www.ppsspp.org/img/screens/small/burnoutdominator.jpg",
@@ -7986,7 +7999,7 @@
       "screenshots": [
         "https://github.com/omichde/Telemat-tvOS/raw/master/telemat.jpg"
       ],
-      "description": "Watch Public German Broadcast/TV company streams",
+      "description": "Stream the German Public Broadcast TV",
       "lang": "deu",
       "license": "gpl-2.0",
       "source": "https://github.com/omichde/Telemat-tvOS",
@@ -8559,8 +8572,10 @@
       "category-ids": [
         "communication"
       ],
+      "tags": ["swift", "iphone", "ipad"],
       "description": "A client for https://tox.chat/",
       "source": "https://github.com/Antidote-for-Tox/Antidote",
+      "itunes": "https://itunes.apple.com/app/apple-store/id933117605",
       "license": "mpl-2.0",
       "homepage": "https://antidote.im/",
       "stars": 258,
@@ -8573,8 +8588,10 @@
     {
       "title": "Tutanota",
       "category-ids": [
-        "communication"
+        "communication",
+        "security"
       ],
+      "tags": ["javascript", "cordova", "iphone", "ipad"],
       "description": "End-to-end encrypted email",
       "source": "https://github.com/tutao/tutanota",
       "homepage": "https://tutanota.com/",
@@ -9573,6 +9590,7 @@
       "category-ids": [
         "developer"
       ],
+      "tags": ["uickeychainstore", "passcodelock"],
       "license": "gpl-3.0",
       "description": "Mobile shell terminal based on Mosh",
       "source": "https://github.com/blinksh/blink",
@@ -9637,6 +9655,7 @@
       "category-ids": [
         "browser"
       ],
+      "tags": ["tor"],
       "description": "A beautiful Tor browser to protect your anonymity",
       "source": "https://github.com/JRock007/Tob",
       "itunes": "https://itunes.apple.com/app/id1063151782",
@@ -9863,8 +9882,10 @@
     {
       "title": "Riot",
       "category-ids": [
-        "communication"
+        "communication",
+        "realm"
       ],
+      "tags": ["webrtc", "realm"],
       "description": "Collaboration for teams, chat & share via http://matrix.org/",
       "source": "https://github.com/vector-im/riot-ios",
       "homepage": "https://vector.im/",
@@ -9920,6 +9941,7 @@
       "category-ids": [
         "extension"
       ],
+      "tags": ["swift", "snapkit"],
       "source": "https://github.com/100mango/Celluloid",
       "license": "mit",
       "lang": "zho",
