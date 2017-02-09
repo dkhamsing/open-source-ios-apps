@@ -11839,6 +11839,16 @@
       "license": "apache-2.0",
       "date_added": "Feb 8 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Keybase",
+      "source": "https://github.com/keybase/client",
+      "category-ids": ["security", "react-native"],
+      "tags": ["reactnative"],
+      "stars": 1236,
+      "license": "bsd-3-clause",
+      "date_added": "Feb 9 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
