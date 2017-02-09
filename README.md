@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-623-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  8, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-623-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  9, 2017-lightgrey.svg)
 
 Jump to
 
@@ -935,7 +935,7 @@ Click ► to show more details
 </details> 
 - MobileTerminal: Proof-of-concept for sandboxed Terminal environment  
 <details><summary>`c` `dlopen` </summary>  https://github.com/steventroughtonsmith/MobileTerminal<br>  Added February  6, 2017<br>  License: `other`
-<div><img height='300' alt='MobileTerminal image 1' src='http://hccdata.s3.amazonaws.com/gh_mobileterm_1.jpg)](http://hccdata.s3.amazonaws.com/gh_mobileterm_1.jpg'> 
+<div><img height='300' alt='MobileTerminal image 1' src='http://hccdata.s3.amazonaws.com/gh_mobileterm_1.jpg'> 
 </div>
   </details>
 </details> 
@@ -2644,7 +2644,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Designer News: Browse the https://www.designernews.co/ design and technology site [` App Store`](https://itunes.apple.com/app/designer-news-app/id879990495)  
+- Designer News: Browse the https://www.designernews.co/ design & technology site [` App Store`](https://itunes.apple.com/app/designer-news-app/id879990495)  
 <details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/MengTo/DesignerNewsApp<br>  Added March 15, 2015<br>  License: `other`
 <div><img height='300' alt='Designer News image 1' src='https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png'> 
 </div>
@@ -3813,7 +3813,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- LVMC: Multicolumn ListView helper library  
+- LVMC: Multicolumn ListView example  
 <details><summary>`titanium` `javascript` </summary>  https://github.com/falkolab/LVMC-Demo-Alloy-App<br>  Added April  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='LVMC image 1' src='https://github.com/falkolab/LVMC/raw/master/screenshot.png?raw=true'> 
 </div>
