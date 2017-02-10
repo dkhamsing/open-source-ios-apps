@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-623-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February  9, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-624-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 10, 2017-lightgrey.svg)
 
 Jump to
 
@@ -507,6 +507,12 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- 4clock: Multiplayer chess clock [` App Store`](https://itunes.apple.com/app/4clock-chronometre-jeu-multijoueur/id1163604465)  
+<details><summary>`javascript` `cordova` 🇫🇷 </summary>  https://github.com/nicolapps/4clock<br>  Added February  9, 2017
+<div><img height='300' alt='4clock image 1' src='https://cdn-images-1.medium.com/max/600/1*wGpCIUaprr1viJ8JIJe9Hw.png'> 
+</div>
+  </details>
+</details> 
 - Fibonacc iClock: A clock based off the famous Fibonacci sequence  
 <details><summary>`objc` </summary>  https://github.com/scribblemaniac/Fibonacc-iClock<br>  Added May 23, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <div><img height='300' alt='Fibonacc iClock image 1' src='https://raw.githubusercontent.com/scribblemaniac/Fibonnac-iClock/master/Screenshot.png'> 
