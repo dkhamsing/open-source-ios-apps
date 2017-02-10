@@ -5906,7 +5906,7 @@
         "misc"
       ],
       "tags": ["usb"],
-      "description": "Tethering without jailbreaking",
+      "description": "Share your device internet connection without jailbreaking",
       "license": "gpl-3.0",
       "source": "https://github.com/chrisballinger/Tether-iOS",
       "stars": 119,
@@ -11892,7 +11892,7 @@
     },
     {
       "title": "5 Calls",
-      "description": "Spend 5 minutes, make 5 calls: calling is the most effective way to influence your representative",
+      "description": "Spend 5 minutes, make 5 calls — Calling is the most effective way to influence your representative",
       "category-ids": ["misc"],
       "source": "https://github.com/5calls/ios",
       "itunes": "https://itunes.apple.com/app/5-calls/id1202558609",
