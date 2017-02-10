@@ -11843,14 +11843,14 @@
     {
       "title": "4clock",
       "category-ids": ["clock"],
-      "description": "Multiplayer Chess Clock for iOS",
+      "description": "Multiplayer chess clock",
       "source": "https://github.com/nicolapps/4clock",
       "screenshots": ["https://cdn-images-1.medium.com/max/600/1*wGpCIUaprr1viJ8JIJe9Hw.png"],
       "date_added": "Feb 9 2017",
       "suggested_by": "@RemyDCF",
-      "tags": ["chess", "clock", "cordova"],
+      "tags": ["javascript", "cordova"],
       "lang": "fra",
-      "itunes": "https://itunes.apple.com/app/4clock-chronometre-jeu-multijoueur/id1163604465?mt=8"
+      "itunes": "https://itunes.apple.com/app/4clock-chronometre-jeu-multijoueur/id1163604465"
     }
   ]
 }
