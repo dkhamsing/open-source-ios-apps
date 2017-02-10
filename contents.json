@@ -11871,6 +11871,24 @@
       "license": "bsd-3-clause",
       "date_added": "Feb 9 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "ooniprobe",
+      "description": "Detect internet censorship & test your network's speed",
+      "category-ids": ["misc"],
+      "tags": ["toast"],
+      "source": "https://github.com/TheTorProject/ooniprobe-ios",
+      "itunes": "https://itunes.apple.com/app/id1199566366",
+      "screenshots": [
+  "http://a5.mzstatic.com/us/r30/Purple122/v4/58/f4/3a/58f43a5b-cc09-413a-c0b5-fc0f1c9c660b/screen696x696.jpeg",
+  "http://a4.mzstatic.com/us/r30/Purple122/v4/26/21/b8/2621b82f-f8e8-02ef-7ea7-411d5168247a/screen696x696.jpeg",
+  "http://a1.mzstatic.com/us/r30/Purple122/v4/72/59/e7/7259e715-c87b-5fd4-daa7-98daccd3892d/screen696x696.jpeg",
+  "http://a4.mzstatic.com/us/r30/Purple111/v4/93/ed/00/93ed005d-36f9-5e8d-7b9f-0a4e2a8def60/screen696x696.jpeg",
+  "http://a4.mzstatic.com/us/r30/Purple111/v4/53/bb/0d/53bb0dae-168b-126b-f8a3-fdb0f9d43111/screen696x696.jpeg"
+      ],
+      "license": "bsd-2-clause",
+      "date_added": "Feb 10 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
