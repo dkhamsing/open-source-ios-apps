@@ -11889,6 +11889,24 @@
       "license": "bsd-2-clause",
       "date_added": "Feb 10 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "5 Calls",
+      "description": "Spend 5 minutes, make 5 calls: calling is the most effective way to influence your representative",
+      "category-ids": ["misc"],
+      "source": "https://github.com/5calls/ios",
+      "itunes": "https://itunes.apple.com/app/5-calls/id1202558609",
+      "tags": ["swift", "pantry"],
+      "screenshots": [
+        "http://a4.mzstatic.com/us/r30/Purple111/v4/d1/ae/b8/d1aeb811-24f2-2c1c-9a5f-1d2060157dd7/screen696x696.jpeg",
+        "http://a1.mzstatic.com/us/r30/Purple91/v4/ef/98/fc/ef98fc2c-2d69-8c9c-12da-920c6b7c3ffc/screen696x696.jpeg",
+        "http://a5.mzstatic.com/us/r30/Purple122/v4/e4/1a/a6/e41aa661-3a3f-eef0-4ea6-5bd5e608a53b/screen696x696.jpeg",
+        "http://a1.mzstatic.com/us/r30/Purple111/v4/2d/d7/9e/2dd79e9f-50f4-8ba9-7c9b-c6f5e9cc5dc9/screen696x696.jpeg",
+        "http://a1.mzstatic.com/us/r30/Purple111/v4/a1/46/fe/a146fed8-56a2-5bfc-0bf8-db3c6a4a54ac/screen696x696.jpeg"
+      ],
+      "license": "mit",
+      "date_added": "Feb 10 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
