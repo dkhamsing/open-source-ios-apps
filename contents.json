@@ -11907,6 +11907,18 @@
       "license": "mit",
       "date_added": "Feb 10 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "4clock",
+      "category-ids": ["clock"],
+      "description": "Multiplayer chess clock",
+      "source": "https://github.com/nicolapps/4clock",
+      "screenshots": ["https://cdn-images-1.medium.com/max/600/1*wGpCIUaprr1viJ8JIJe9Hw.png"],
+      "date_added": "Feb 9 2017",
+      "suggested_by": "@RemyDCF",
+      "tags": ["javascript", "cordova"],
+      "lang": "fra",
+      "itunes": "https://itunes.apple.com/app/4clock-chronometre-jeu-multijoueur/id1163604465"
     }
   ]
 }
