@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-627-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 10, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-627-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 13, 2017-lightgrey.svg)
 
 Jump to
 
@@ -3679,7 +3679,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- 5 Calls: Spend 5 minutes, make 5 calls: calling is the most effective way to influence your representative [` App Store`](https://itunes.apple.com/app/5-calls/id1202558609)  
+- 5 Calls: Spend 5 minutes, make 5 calls — Calling is the most effective way to influence your representative [` App Store`](https://itunes.apple.com/app/5-calls/id1202558609)  
 <details><summary>`swift` `pantry` </summary>  https://github.com/5calls/ios<br>  Added February 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='5 Calls image 1' src='http://a4.mzstatic.com/us/r30/Purple111/v4/d1/ae/b8/d1aeb811-24f2-2c1c-9a5f-1d2060157dd7/screen696x696.jpeg'> <img height='300' alt='5 Calls image 2' src='http://a1.mzstatic.com/us/r30/Purple91/v4/ef/98/fc/ef98fc2c-2d69-8c9c-12da-920c6b7c3ffc/screen696x696.jpeg'> <img height='300' alt='5 Calls image 3' src='http://a5.mzstatic.com/us/r30/Purple122/v4/e4/1a/a6/e41aa661-3a3f-eef0-4ea6-5bd5e608a53b/screen696x696.jpeg'> <img height='300' alt='5 Calls image 4' src='http://a1.mzstatic.com/us/r30/Purple111/v4/2d/d7/9e/2dd79e9f-50f4-8ba9-7c9b-c6f5e9cc5dc9/screen696x696.jpeg'> <img height='300' alt='5 Calls image 5' src='http://a1.mzstatic.com/us/r30/Purple111/v4/a1/46/fe/a146fed8-56a2-5bfc-0bf8-db3c6a4a54ac/screen696x696.jpeg'> 
 </div>
@@ -3803,7 +3803,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Tether: Tethering without jailbreaking  
+- Tether: Share your device internet connection without jailbreaking  
 <details><summary>`usb` 🔥</summary>  https://github.com/chrisballinger/Tether-iOS<br>  Added December 17, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 </details> 
