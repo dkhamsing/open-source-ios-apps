@@ -11919,6 +11919,17 @@
       "tags": ["javascript", "cordova"],
       "lang": "fra",
       "itunes": "https://itunes.apple.com/app/4clock-chronometre-jeu-multijoueur/id1163604465"
+    },
+    {
+        "title": "RxCurrency",
+        "source": "https://github.com/inkyfox/RxCurrency_iOS",
+        "description": "Currency converter for ReactiveX",
+        "tags": ["swift", "swift3"],
+        "category-ids": ["rxswift"],
+        "screenshots": ["https://raw.githubusercontent.com/inkyfox/RxCurrency_iOS/master/RxCurrency.gif"],
+        "license": "mit",
+        "date_added": "Feb 16 2017",
+        "suggested_by": "@dkhamsing"
     }
   ]
 }
