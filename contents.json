@@ -5746,10 +5746,11 @@
       ],
       "description": "Interactive chess book reader",
       "license": "gpl-2.0",
-      "source": "https://github.com/student-t/OpenCB",
+      "source": "https://github.com/opensourceios/OpenCB",
       "screenshots": [
         "https://camo.githubusercontent.com/0b163a92148e0b6a2e1bcf1154291b86cd716773/687474703a2f2f61312e6d7a7374617469632e636f6d2f75732f7233302f507572706c65352f76342f32662f32642f35342f32663264353464622d396161652d646462612d363037612d6136653261613235363762372f73637265656e333232783537322e6a706567"
       ],
+      "tags": ["archive"],
       "stars": 5,
       "date_added": "Fri May 8 07:16:21 2015 -0700",
       "suggested_by": "@dkhamsing"
