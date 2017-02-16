@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-627-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 13, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-628-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 16, 2017-lightgrey.svg)
 
 Jump to
 
@@ -3054,6 +3054,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Kiosk: Artsy auction app  
 <details><summary>`swift` `rxswift` 🔥🔥🔥🔥</summary>  https://github.com/artsy/eidolon<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Kiosk image 1' src='http://artsy.github.io/images/2014-11-12-eidolon-retrospective/listings.png'> 
+</div>
+  </details>
+</details> 
+- RxCurrency: Currency converter for ReactiveX  
+<details><summary>`swift` `swift3` </summary>  https://github.com/inkyfox/RxCurrency_iOS<br>  Added February 16, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='RxCurrency image 1' src='https://raw.githubusercontent.com/inkyfox/RxCurrency_iOS/master/RxCurrency.gif'> 
 </div>
   </details>
 </details> 
