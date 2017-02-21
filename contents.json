@@ -5831,6 +5831,7 @@
       "category-ids": [
         "misc"
       ],
+      "tags": ["swift"],
       "description": "Add phonetic keys for Chinese names",
       "license": "mit",
       "source": "https://github.com/iAugux/Phonetic",
