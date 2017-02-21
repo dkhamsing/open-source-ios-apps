@@ -1988,13 +1988,12 @@
     {
       "title": "The Spin Zone",
       "category-ids": [
-        "game",
         "spritekit"
       ],
       "description": "Try to escape The Spin Zone",
       "source": "https://github.com/Nicholas714/Spin-Zone",
       "itunes": "https://itunes.apple.com/app/id1200316153",
-      "tags": ["swift3", "spritekit"],
+      "tags": ["swift3", "swift"],
       "screenshots": [
         "http://i.imgur.com/FRp0LLQ.jpg",
         "http://i.imgur.com/fllPKj9.jpg"
