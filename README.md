@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-629-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 21, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-630-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 21, 2017-lightgrey.svg)
 
 Jump to
 
@@ -978,6 +978,12 @@ Click ► to show more details
 - TLDR Man Page: Reference dictionary for computer manual commands, but in tl;dr (too long; didn't read) mode  
 <details><summary>`swift` </summary>  https://github.com/freesuraj/TLDR<br>  Added May  3, 2016<br>  License: `other`
 <div>
+</div>
+  </details>
+</details> 
+- WWDC Family: Easily connect with fellow developers during WWDC  
+<details><summary>`swift` </summary>  https://github.com/wwdc-family/ios<br>  Added February 21, 2017<br>  License: `other`
+<div><img height='300' alt='WWDC Family image 1' src='https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png'> 
 </div>
   </details>
 </details> 
@@ -2103,6 +2109,12 @@ Click ► to show more details
 - Wheelmap: Map to locate wheelchair-accessible places [` App Store`](https://itunes.apple.com/app/id399239476)  
 <details><summary>`objc` </summary>  https://github.com/sozialhelden/wheelmap-iphone2<br>  http://wheelmap.org<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div><img height='300' alt='Wheelmap image 1' src='http://a2.mzstatic.com/us/r30/Purple71/v4/31/98/51/31985171-13ac-746f-b7f6-6caafa79b31b/screen696x696.jpeg'> <img height='300' alt='Wheelmap image 2' src='http://a1.mzstatic.com/us/r30/Purple71/v4/9e/eb/19/9eeb1915-0499-24b3-9ca3-12a755c55b21/screen696x696.jpeg'> <img height='300' alt='Wheelmap image 3' src='http://a5.mzstatic.com/us/r30/Purple71/v4/d2/d8/1d/d2d81d12-bd4e-4068-0eca-f14b02e05c73/screen696x696.jpeg'> <img height='300' alt='Wheelmap image 4' src='http://a4.mzstatic.com/us/r30/Purple41/v4/9b/df/9b/9bdf9b42-5744-b8c1-70cf-5b68af6ad5b2/screen696x696.jpeg'> <img height='300' alt='Wheelmap image 5' src='http://a2.mzstatic.com/us/r30/Purple22/v4/7f/c7/fb/7fc7fbbc-c443-d17a-43e7-679586f80bb6/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- WWDC Family: Easily connect with fellow developers during WWDC  
+<details><summary>`swift` </summary>  https://github.com/wwdc-family/ios<br>  Added February 21, 2017<br>  License: `other`
+<div><img height='300' alt='WWDC Family image 1' src='https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png'> 
 </div>
   </details>
 </details> 
