@@ -9337,8 +9337,7 @@
         "security"
       ],
       "description": "App that implements Shadowsocks proxy",
-      "source": "https://github.com/shadowsocks/Potatso",
-      "itunes": "https://itunes.apple.com/app/id1070901416",
+      "source": "https://github.com/opensourceios/Potatso",
       "license": "gpl-3.0",
       "tags": [
         "swift"
