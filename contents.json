@@ -9341,7 +9341,8 @@
       "source": "https://github.com/opensourceios/Potatso",
       "license": "gpl-3.0",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "lang": "zho",
       "stars": 3260,
@@ -10104,7 +10105,8 @@
         "location"
       ],
       "tags": [
-        "yelp api"
+        "yelp api",
+        "archive"
       ],
       "description": "Tinder-styled restaurant recommendations",
       "source": "https://github.com/opensourceios/Munch",
