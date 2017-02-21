@@ -1986,6 +1986,23 @@
       "suggested_by": "@dkhamsing"
     },
     {
+      "title": "The Spin Zone",
+      "category-ids": [
+        "game",
+        "spritekit"
+      ],
+      "description": "Try to escape The Spin Zone",
+      "source": "https://github.com/Nicholas714/Spin-Zone",
+      "itunes": "https://itunes.apple.com/app/id1200316153",
+      "tags": ["swift3", "spritekit"],
+      "screenshots": [
+        "http://i.imgur.com/FRp0LLQ.jpg",
+        "http://i.imgur.com/fllPKj9.jpg"
+      ],
+      "date_added": "Feb 17 2017",
+      "suggested_by": "Nicholas714"
+    },
+    {
       "title": "2048",
       "category-ids": [
         "game",
