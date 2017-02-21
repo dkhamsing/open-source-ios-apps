@@ -1295,7 +1295,7 @@ Click ► to show more details
   </details>
 </details> 
 - Encryptr: A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
-<details><summary>`cordova` `grunt` `node` 🔥🔥🔥🔥</summary>  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/solutions/encryptr<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`cordova` `grunt` `node` 🔥🔥🔥🔥</summary>  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/personal/encryptr<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Encryptr image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/cc/ab/0f/ccab0fca-197f-56c0-c265-4b73c99e4ef8/screen696x696.jpeg'> 
 </div>
   </details>
@@ -1656,12 +1656,6 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- The Spin Zone: Try to escape The Spin Zone [` App Store`](https://itunes.apple.com/app/id1200316153)  
-<details><summary>`swift3` `spritekit` </summary>  https://github.com/Nicholas714/Spin-Zone<br>  Added February 17, 2017
-<div><img height='300' alt='The Spin Zone image 1' src='http://i.imgur.com/FRp0LLQ.jpg'> <img height='300' alt='The Spin Zone image 2' src='http://i.imgur.com/fllPKj9.jpg'> 
-</div>
-  </details>
-</details> 
 - Wizard War: Cast spells in single or multiplayer wizard duels [` App Store`](https://itunes.apple.com/app/wizard-war/id702839715)  
 <details><summary>`reactivecocoa` `parse` 🔥🔥🔥</summary>  https://github.com/seanhess/wizardwar<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Wizard War image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg'> <img height='300' alt='Wizard War image 2' src='http://a5.mzstatic.com/us/r30/Purple6/v4/61/e1/45/61e14599-9ddb-b299-9339-7bf09a85fd55/screen696x696.jpeg'> <img height='300' alt='Wizard War image 3' src='http://a2.mzstatic.com/us/r30/Purple/v4/59/b5/e0/59b5e0e1-3b1b-b29e-1093-fbe3273157ff/screen696x696.jpeg'> <img height='300' alt='Wizard War image 4' src='http://a1.mzstatic.com/us/r30/Purple4/v4/52/87/67/52876746-f548-1e4b-2f6c-6fedd5beef7e/screen696x696.jpeg'> <img height='300' alt='Wizard War image 5' src='http://a3.mzstatic.com/us/r30/Purple4/v4/d6/25/c8/d625c8ef-42a8-7868-ac72-16430d62adb3/screen696x696.jpeg'> 
@@ -1732,7 +1726,7 @@ Click ► to show more details
   </details>
 </details> 
 - The Spin Zone: Try to escape The Spin Zone [` App Store`](https://itunes.apple.com/app/id1200316153)  
-<details><summary>`swift3` `spritekit` </summary>  https://github.com/Nicholas714/Spin-Zone<br>  Added February 17, 2017
+<details><summary>`swift` `swift3` </summary>  https://github.com/Nicholas714/Spin-Zone<br>  Added February 17, 2017
 <div><img height='300' alt='The Spin Zone image 1' src='http://i.imgur.com/FRp0LLQ.jpg'> <img height='300' alt='The Spin Zone image 2' src='http://i.imgur.com/fllPKj9.jpg'> 
 </div>
   </details>
@@ -2007,8 +2001,8 @@ Click ► to show more details
   </details>
 </details> 
 - Munch: Tinder-styled restaurant recommendations  
-<details><summary>`yelp api` </summary>  https://github.com/enochng1/Munch<br>  Added July 28, 2016<br>  License: `other`
-<div><img height='300' alt='Munch image 1' src='https://raw.githubusercontent.com/enochng1/Munch/master/poster-01.png'> 
+<details><summary>`yelp api` </summary>  https://github.com/opensourceios/Munch<br>  Added July 28, 2016<br>  License: `other`
+<div><img height='300' alt='Munch image 1' src='https://raw.githubusercontent.com/opensourceios/Munch/master/poster-01.png'> 
 </div>
   </details>
 </details> 
@@ -2450,12 +2444,6 @@ Image, video, audio, reading — [back to top](#readme)
 - Open States: Browse state legislatures  
 <details><summary>`objc` </summary>  https://github.com/openstates/openstates-ios<br>  Added April  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
 <div><img height='300' alt='Open States image 1' src='https://s3.mzstatic.com/r30/Purple6/v4/d3/db/1a/d3db1a57-d85c-b2b1-3b15-5c14bb455229/screen1136x1136.jpeg'> 
-</div>
-  </details>
-</details> 
-- OpenCB: Interactive chess book reader  
-<details><summary>`objc` </summary>  https://github.com/student-t/OpenCB<br>  Added May  8, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-<div><img height='300' alt='OpenCB image 1' src='https://camo.githubusercontent.com/0b163a92148e0b6a2e1bcf1154291b86cd716773/687474703a2f2f61312e6d7a7374617469632e636f6d2f75732f7233302f507572706c65352f76342f32662f32642f35342f32663264353464622d396161652d646462612d363037612d6136653261613235363762372f73637265656e333232783537322e6a706567'> 
 </div>
   </details>
 </details> 
@@ -3278,8 +3266,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Potatso: App that implements Shadowsocks proxy [` App Store`](https://itunes.apple.com/app/id1070901416)  
-<details><summary>`swift` 🇨🇳 🔥🔥🔥🔥🔥</summary>  https://github.com/shadowsocks/Potatso<br>  Added June 30, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+- Potatso: App that implements Shadowsocks proxy  
+<details><summary>`swift` 🇨🇳 🔥🔥🔥🔥🔥</summary>  https://github.com/opensourceios/Potatso<br>  Added June 30, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Potatso image 1' src='http://a1.mzstatic.com/us/r30/Purple20/v4/2c/b0/76/2cb07652-ae2c-d915-2795-32d1862b5f11/screen696x696.jpeg'> <img height='300' alt='Potatso image 2' src='http://a5.mzstatic.com/us/r30/Purple18/v4/4a/1f/c4/4a1fc48b-8d25-4626-9a3d-82fa2b3cbee9/screen696x696.jpeg'> <img height='300' alt='Potatso image 3' src='http://a5.mzstatic.com/us/r30/Purple18/v4/68/8e/96/688e9627-19b1-8366-297d-278960065bda/screen696x696.jpeg'> <img height='300' alt='Potatso image 4' src='http://a4.mzstatic.com/us/r30/Purple30/v4/23/04/99/2304999f-cdf5-882b-8ed3-11bbd82329b5/screen696x696.jpeg'> <img height='300' alt='Potatso image 5' src='http://a2.mzstatic.com/us/r30/Purple18/v4/4a/5f/9d/4a5f9de7-92c3-a411-9ebd-c7a3a146f4a0/screen696x696.jpeg'> 
 </div>
   </details>
@@ -3320,7 +3308,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Encryptr: A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
-<details><summary>`cordova` `grunt` `node` 🔥🔥🔥🔥</summary>  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/solutions/encryptr<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`cordova` `grunt` `node` 🔥🔥🔥🔥</summary>  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/personal/encryptr<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Encryptr image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/cc/ab/0f/ccab0fca-197f-56c0-c265-4b73c99e4ef8/screen696x696.jpeg'> 
 </div>
   </details>
@@ -3804,7 +3792,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Phonetic: Add phonetic keys for Chinese names  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/iAugux/Phonetic<br>  Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` 🔥🔥</summary>  https://github.com/iAugux/Phonetic<br>  Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Phonetic image 1' src='https://raw.githubusercontent.com/iAugux/ProjectScreenshots/master/Phonetic/nickname.gif'> 
 </div>
   </details>
