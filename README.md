@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-627-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 13, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-629-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 21, 2017-lightgrey.svg)
 
 Jump to
 
@@ -1656,6 +1656,12 @@ Click ► to show more details
 </div>
   </details>
 </details> 
+- The Spin Zone: Try to escape The Spin Zone [` App Store`](https://itunes.apple.com/app/id1200316153)  
+<details><summary>`swift3` `spritekit` </summary>  https://github.com/Nicholas714/Spin-Zone<br>  Added February 17, 2017
+<div><img height='300' alt='The Spin Zone image 1' src='http://i.imgur.com/FRp0LLQ.jpg'> <img height='300' alt='The Spin Zone image 2' src='http://i.imgur.com/fllPKj9.jpg'> 
+</div>
+  </details>
+</details> 
 - Wizard War: Cast spells in single or multiplayer wizard duels [` App Store`](https://itunes.apple.com/app/wizard-war/id702839715)  
 <details><summary>`reactivecocoa` `parse` 🔥🔥🔥</summary>  https://github.com/seanhess/wizardwar<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Wizard War image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg'> <img height='300' alt='Wizard War image 2' src='http://a5.mzstatic.com/us/r30/Purple6/v4/61/e1/45/61e14599-9ddb-b299-9339-7bf09a85fd55/screen696x696.jpeg'> <img height='300' alt='Wizard War image 3' src='http://a2.mzstatic.com/us/r30/Purple/v4/59/b5/e0/59b5e0e1-3b1b-b29e-1093-fbe3273157ff/screen696x696.jpeg'> <img height='300' alt='Wizard War image 4' src='http://a1.mzstatic.com/us/r30/Purple4/v4/52/87/67/52876746-f548-1e4b-2f6c-6fedd5beef7e/screen696x696.jpeg'> <img height='300' alt='Wizard War image 5' src='http://a3.mzstatic.com/us/r30/Purple4/v4/d6/25/c8/d625c8ef-42a8-7868-ac72-16430d62adb3/screen696x696.jpeg'> 
@@ -1722,6 +1728,12 @@ Click ► to show more details
 - SwiftSnake: Snake clone  
 <details><summary>`swift` </summary>  https://github.com/caleb0/SwiftSnake<br>  Added August 19, 2016<br>  License: `other`
 <div><img height='300' alt='SwiftSnake image 1' src='http://i.imgur.com/mBi9Jfj.png'> 
+</div>
+  </details>
+</details> 
+- The Spin Zone: Try to escape The Spin Zone [` App Store`](https://itunes.apple.com/app/id1200316153)  
+<details><summary>`swift3` `spritekit` </summary>  https://github.com/Nicholas714/Spin-Zone<br>  Added February 17, 2017
+<div><img height='300' alt='The Spin Zone image 1' src='http://i.imgur.com/FRp0LLQ.jpg'> <img height='300' alt='The Spin Zone image 2' src='http://i.imgur.com/fllPKj9.jpg'> 
 </div>
   </details>
 </details> 
@@ -3054,6 +3066,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Kiosk: Artsy auction app  
 <details><summary>`swift` `rxswift` 🔥🔥🔥🔥</summary>  https://github.com/artsy/eidolon<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Kiosk image 1' src='http://artsy.github.io/images/2014-11-12-eidolon-retrospective/listings.png'> 
+</div>
+  </details>
+</details> 
+- RxCurrency: Currency converter for ReactiveX  
+<details><summary>`swift` `swift3` </summary>  https://github.com/inkyfox/RxCurrency_iOS<br>  Added February 16, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='RxCurrency image 1' src='https://raw.githubusercontent.com/inkyfox/RxCurrency_iOS/master/RxCurrency.gif'> 
 </div>
   </details>
 </details> 
