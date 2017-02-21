@@ -10106,12 +10106,12 @@
         "yelp api"
       ],
       "description": "Tinder-styled restaurant recommendations",
-      "source": "https://github.com/enochng1/Munch",
+      "source": "https://github.com/opensourceios/Munch",
       "license": "other",
       "date_added": "Jul 28 2016",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "https://raw.githubusercontent.com/enochng1/Munch/master/poster-01.png"
+        "https://raw.githubusercontent.com/opensourceios/Munch/master/poster-01.png"
       ],
       "stars": 10
     },
