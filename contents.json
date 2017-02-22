@@ -11209,7 +11209,8 @@
       "source": "https://github.com/tryswift/trySwiftNYC",
       "category-ids": [
         "conference",
-        "apple-watch"
+        "apple-watch",
+        "realm"
       ],
       "screenshots": [
         "http://i.imgur.com/xyu7t89.png",
@@ -11954,7 +11955,7 @@
       "title": "try! Swift Tokyo",
       "source": "https://github.com/tryswift/trySwiftAppFinal",
       "tags": ["swift", "timepiece", "realm", "kingfisher", "acknowlist"],
-      "category-ids": ["conference"],
+      "category-ids": ["conference", "realm"],
       "screenshots": [
         "https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png",
         "https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png"
