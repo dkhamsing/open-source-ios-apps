@@ -22,12 +22,14 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Letters https://github.com/jessegrosjean/letters.iphone
 - Light-Jockey https://github.com/jmfieldman/Light-Jockey
 - Mume https://github.com/opensourceios/Mume
+- Munch https://github.com/opensourceios/Munch
 - OpenCB https://github.com/opensourceios/OpenCB
 - OpenClien https://github.com/kewlbear/OpenClien
 - Pancake https://github.com/Imaginea/pancake-ios
 - ParseStore https://github.com/opensourceios/ParseStore
 - Pi https://github.com/opensourceios/Pi
 - PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
+- Potatso https://github.com/opensourceios/Potatso
 - Repo https://github.com/ricburton/Repo
 - Speak https://github.com/opensourceios/speakability
 - Steps https://github.com/gizmosachin/Steps
