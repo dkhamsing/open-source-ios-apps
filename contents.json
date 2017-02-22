@@ -11962,6 +11962,19 @@
       "license": "other",
       "date_added": "Feb 22 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "WWDC Family",
+      "source": "https://github.com/wwdc-family/ios",
+      "screenshots": [
+        "https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png"
+      ],
+      "category-ids": ["location", "developer"],
+      "description": "Easily connect with fellow developers during WWDC",
+      "tags": ["swift"],
+      "license": "other",
+      "date_added": "Feb 21 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }

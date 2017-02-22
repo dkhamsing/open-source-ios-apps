@@ -22,6 +22,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Letters https://github.com/jessegrosjean/letters.iphone
 - Light-Jockey https://github.com/jmfieldman/Light-Jockey
 - Mume https://github.com/opensourceios/Mume
+- OpenCB https://github.com/opensourceios/OpenCB
 - OpenClien https://github.com/kewlbear/OpenClien
 - Pancake https://github.com/Imaginea/pancake-ios
 - ParseStore https://github.com/opensourceios/ParseStore
