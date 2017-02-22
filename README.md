@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-630-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 21, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-631-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 22, 2017-lightgrey.svg)
 
 Jump to
 
@@ -327,15 +327,15 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- try!  
+- try! Swift  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/tryswift/trySwiftApp<br>  Added February 16, 2016<br>  License: `other`
-<div><img height='300' alt='try! image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/18/81/9f/18819f2d-1bb8-feeb-bb22-89bbe85d6516/screen696x696.jpeg'> 
+<div><img height='300' alt='try! Swift image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/18/81/9f/18819f2d-1bb8-feeb-bb22-89bbe85d6516/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
-- try! NYC  
+- try! Swift NYC  
 <details><summary>`swift` `toucan` `realm` 🔥</summary>  https://github.com/tryswift/trySwiftNYC<br>  Added November  8, 2016<br>  License: `other`
-<div><img height='300' alt='try! NYC image 1' src='http://i.imgur.com/xyu7t89.png'> <img height='300' alt='try! NYC image 2' src='http://i.imgur.com/Jes7vLF.png'> 
+<div><img height='300' alt='try! Swift NYC image 1' src='http://i.imgur.com/xyu7t89.png'> <img height='300' alt='try! Swift NYC image 2' src='http://i.imgur.com/Jes7vLF.png'> 
 </div>
   </details>
 </details> 
@@ -820,15 +820,21 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- try!  
+- try! Swift  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/tryswift/trySwiftApp<br>  Added February 16, 2016<br>  License: `other`
-<div><img height='300' alt='try! image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/18/81/9f/18819f2d-1bb8-feeb-bb22-89bbe85d6516/screen696x696.jpeg'> 
+<div><img height='300' alt='try! Swift image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/18/81/9f/18819f2d-1bb8-feeb-bb22-89bbe85d6516/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
-- try! NYC  
+- try! Swift NYC  
 <details><summary>`swift` `toucan` `realm` 🔥</summary>  https://github.com/tryswift/trySwiftNYC<br>  Added November  8, 2016<br>  License: `other`
-<div><img height='300' alt='try! NYC image 1' src='http://i.imgur.com/xyu7t89.png'> <img height='300' alt='try! NYC image 2' src='http://i.imgur.com/Jes7vLF.png'> 
+<div><img height='300' alt='try! Swift NYC image 1' src='http://i.imgur.com/xyu7t89.png'> <img height='300' alt='try! Swift NYC image 2' src='http://i.imgur.com/Jes7vLF.png'> 
+</div>
+  </details>
+</details> 
+- try! Swift Tokyo  
+<details><summary>`swift` `timepiece` `realm` `kingfisher` `acknowlist` </summary>  https://github.com/tryswift/trySwiftAppFinal<br>  Added February 22, 2017<br>  License: `other`
+<div><img height='300' alt='try! Swift Tokyo image 1' src='https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png'> <img height='300' alt='try! Swift Tokyo image 2' src='https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png'> 
 </div>
   </details>
 </details> 
@@ -2003,12 +2009,6 @@ Click ► to show more details
 - Moves: Visualize where you spend your time  
 <details><summary>`objc` </summary>  https://github.com/neonichu/Places<br>  Added July 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Moves image 1' src='https://github.com/neonichu/Places/raw/master/Screenshots/1.png'> 
-</div>
-  </details>
-</details> 
-- Munch: Tinder-styled restaurant recommendations  
-<details><summary>`yelp api` </summary>  https://github.com/opensourceios/Munch<br>  Added July 28, 2016<br>  License: `other`
-<div><img height='300' alt='Munch image 1' src='https://raw.githubusercontent.com/opensourceios/Munch/master/poster-01.png'> 
 </div>
   </details>
 </details> 
@@ -3275,12 +3275,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Onions: Cloud encrypted notes [` App Store`](https://itunes.apple.com/app/onions/id687296481)  
 <details><summary>`objc` </summary>  https://github.com/onionsapp/Onions-iOS<br>  Added January 27, 2015<br>  License: `other`
 <div><img height='300' alt='Onions image 1' src='http://a2.mzstatic.com/us/r30/Purple/v4/d0/08/29/d00829d7-e34f-69e7-d21b-bfd3f48ae8fc/screen696x696.jpeg'> <img height='300' alt='Onions image 2' src='http://a3.mzstatic.com/us/r30/Purple4/v4/9d/18/f7/9d18f743-51ef-adfa-5720-ce52057f2232/screen696x696.jpeg'> <img height='300' alt='Onions image 3' src='http://a2.mzstatic.com/us/r30/Purple2/v4/85/63/c3/8563c3ce-2e2a-0a6f-472d-68b60a274841/screen696x696.jpeg'> <img height='300' alt='Onions image 4' src='http://a4.mzstatic.com/us/r30/Purple/v4/e2/43/a1/e243a12f-6391-f347-c684-22e5236f0d79/screen696x696.jpeg'> 
-</div>
-  </details>
-</details> 
-- Potatso: App that implements Shadowsocks proxy  
-<details><summary>`swift` 🇨🇳 🔥🔥🔥🔥🔥</summary>  https://github.com/opensourceios/Potatso<br>  Added June 30, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<div><img height='300' alt='Potatso image 1' src='http://a1.mzstatic.com/us/r30/Purple20/v4/2c/b0/76/2cb07652-ae2c-d915-2795-32d1862b5f11/screen696x696.jpeg'> <img height='300' alt='Potatso image 2' src='http://a5.mzstatic.com/us/r30/Purple18/v4/4a/1f/c4/4a1fc48b-8d25-4626-9a3d-82fa2b3cbee9/screen696x696.jpeg'> <img height='300' alt='Potatso image 3' src='http://a5.mzstatic.com/us/r30/Purple18/v4/68/8e/96/688e9627-19b1-8366-297d-278960065bda/screen696x696.jpeg'> <img height='300' alt='Potatso image 4' src='http://a4.mzstatic.com/us/r30/Purple30/v4/23/04/99/2304999f-cdf5-882b-8ed3-11bbd82329b5/screen696x696.jpeg'> <img height='300' alt='Potatso image 5' src='http://a2.mzstatic.com/us/r30/Purple18/v4/4a/5f/9d/4a5f9de7-92c3-a411-9ebd-c7a3a146f4a0/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
