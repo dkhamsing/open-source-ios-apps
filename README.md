@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-631-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 22, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-632-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 23, 2017-lightgrey.svg)
 
 Jump to
 
@@ -978,6 +978,12 @@ Click ► to show more details
 - Review Time: Shows average review times for iOS & Mac apps  
 <details><summary>`swift` 🔥</summary>  https://github.com/nthegedus/ReviewTime<br>  Added October  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Review Time image 1' src='https://github.com/nthegedus/ReviewTime/raw/master/Design/ReviewTime.png'> 
+</div>
+  </details>
+</details> 
+- Terrarium: UI prototyping for coders [` App Store`](https://itunes.apple.com/app/terrarium/id891232736)  
+<details><summary>`c++` 🔥</summary>  https://github.com/penk/terrarium-app<br>  Added February 23, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Terrarium image 1' src='http://a1.mzstatic.com/us/r30/Purple3/v4/80/7a/9f/807a9f8a-3ec4-087d-e50e-050eb813747a/screen696x696.jpeg'> <img height='300' alt='Terrarium image 2' src='http://a4.mzstatic.com/us/r30/Purple1/v4/6c/42/12/6c4212ff-1e96-e68c-d3bc-cb4c4d0bd281/screen696x696.jpeg'> <img height='300' alt='Terrarium image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/cf/1e/7a/cf1e7a68-e703-45fc-5e24-8f01f2a5b6c9/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -4340,6 +4346,18 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Riot: Collaboration for teams, chat & share via http://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
 <details><summary>`webrtc` `realm` 🔥</summary>  https://github.com/vector-im/riot-ios<br>  https://vector.im/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div><img height='300' alt='Riot image 1' src='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- try! Swift NYC  
+<details><summary>`swift` `toucan` `realm` 🔥</summary>  https://github.com/tryswift/trySwiftNYC<br>  Added November  8, 2016<br>  License: `other`
+<div><img height='300' alt='try! Swift NYC image 1' src='http://i.imgur.com/xyu7t89.png'> <img height='300' alt='try! Swift NYC image 2' src='http://i.imgur.com/Jes7vLF.png'> 
+</div>
+  </details>
+</details> 
+- try! Swift Tokyo  
+<details><summary>`swift` `timepiece` `realm` `kingfisher` `acknowlist` </summary>  https://github.com/tryswift/trySwiftAppFinal<br>  Added February 22, 2017<br>  License: `other`
+<div><img height='300' alt='try! Swift Tokyo image 1' src='https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png'> <img height='300' alt='try! Swift Tokyo image 2' src='https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png'> 
 </div>
   </details>
 </details> 
