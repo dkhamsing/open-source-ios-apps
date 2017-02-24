@@ -11993,6 +11993,23 @@
       "date_added": "Feb 23 2017",
       "suggested_by": "@dkhamsing",
       "stars": 157
+    },
+    {
+      "title": "Blear",
+      "description": "Transform your photos into stunning blurry wallpapers for your device",
+      "source": "https://github.com/sindresorhus/blear",
+      "itunes": "https://itunes.apple.com/app/blear-create-blurry-wallpapers/id994182280",
+      "category-ids": ["media"],
+      "screenshots": [
+        "http://a2.mzstatic.com/us/r30/Purple111/v4/25/5b/c7/255bc7ab-95e2-1660-3bba-717b0ae21f1d/screen696x696.jpeg",
+        "http://a3.mzstatic.com/us/r30/Purple111/v4/34/7a/42/347a42bd-3a7b-1f86-c2b8-3e043ea5e0e7/screen696x696.jpeg",
+        "http://a4.mzstatic.com/us/r30/Purple122/v4/37/6b/27/376b278d-d698-981f-c931-d0e5b01c6733/screen696x696.jpeg",
+        "http://a2.mzstatic.com/us/r30/Purple111/v4/ed/9a/9b/ed9a9b30-72f6-fc12-662f-0d1493a3d136/screen696x696.jpeg",
+        "http://a2.mzstatic.com/us/r30/Purple122/v4/d0/8e/fa/d08efa30-4057-323e-15ee-9f2fe1e5aaff/screen696x696.jpeg"
+      ],
+      "license": "other",
+      "date_added": "Feb 24 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
