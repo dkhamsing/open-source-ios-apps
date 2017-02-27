@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-633-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 24, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-634-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 27, 2017-lightgrey.svg)
 
 Jump to
 
@@ -2136,7 +2136,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - Blear: Transform your photos into stunning blurry wallpapers for your device [` App Store`](https://itunes.apple.com/app/blear-create-blurry-wallpapers/id994182280)  
-<details><summary>`objc` </summary>  https://github.com/sindresorhus/blear<br>  Added February 24, 2017<br>  License: `other`
+<details><summary>`objc` </summary>  https://github.com/sindresorhus/blear<br>  Added February 24, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Blear image 1' src='http://a2.mzstatic.com/us/r30/Purple111/v4/25/5b/c7/255bc7ab-95e2-1660-3bba-717b0ae21f1d/screen696x696.jpeg'> <img height='300' alt='Blear image 2' src='http://a3.mzstatic.com/us/r30/Purple111/v4/34/7a/42/347a42bd-3a7b-1f86-c2b8-3e043ea5e0e7/screen696x696.jpeg'> <img height='300' alt='Blear image 3' src='http://a4.mzstatic.com/us/r30/Purple122/v4/37/6b/27/376b278d-d698-981f-c931-d0e5b01c6733/screen696x696.jpeg'> <img height='300' alt='Blear image 4' src='http://a2.mzstatic.com/us/r30/Purple111/v4/ed/9a/9b/ed9a9b30-72f6-fc12-662f-0d1493a3d136/screen696x696.jpeg'> <img height='300' alt='Blear image 5' src='http://a2.mzstatic.com/us/r30/Purple122/v4/d0/8e/fa/d08efa30-4057-323e-15ee-9f2fe1e5aaff/screen696x696.jpeg'> 
 </div>
   </details>
@@ -4091,6 +4091,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Assemblies: Developer-focused Meetup clone  
 <details><summary>`reactnative` 🔥🔥</summary>  https://github.com/buildreactnative/assemblies<br>  Added May  2, 2016<br>  License: `other`
 <div><img height='300' alt='Assemblies image 1' src='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-a.png'> <img height='300' alt='Assemblies image 2' src='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-b.png'> <img height='300' alt='Assemblies image 3' src='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-c.png'> 
+</div>
+  </details>
+</details> 
+- Bíóhúsið: See what movies are playing in Iceland, includes showtimes [` App Store`](https://itunes.apple.com/app/biohusi/id1112946298)  
+<details><summary>`reactnative` </summary>  https://github.com/birkir/kvikmyndr-app/<br>  Added February 27, 2017<br>  License: `other`
+<div><img height='300' alt='Bíóhúsið image 1' src='http://a3.mzstatic.com/us/r30/Purple122/v4/47/60/af/4760af23-821d-fe64-bef0-609676699d5d/screen696x696.jpeg'> <img height='300' alt='Bíóhúsið image 2' src='http://a3.mzstatic.com/us/r30/Purple111/v4/c2/c2/36/c2c236d9-7144-0a00-54d3-8caffd554174/screen696x696.jpeg'> <img height='300' alt='Bíóhúsið image 3' src='http://a3.mzstatic.com/us/r30/Purple111/v4/9b/15/d4/9b15d4d7-6ca3-1b33-d78c-cd098e35e4af/screen696x696.jpeg'> <img height='300' alt='Bíóhúsið image 4' src='http://a2.mzstatic.com/us/r30/Purple111/v4/c0/e1/83/c0e18311-891e-724b-8d32-e77a9aa3e4a5/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
