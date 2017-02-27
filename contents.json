@@ -12010,6 +12010,27 @@
       "license": "mit",
       "date_added": "Feb 24 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Bíóhúsið",
+      "source": "https://github.com/birkir/kvikmyndr-app/",
+      "itunes": "https://itunes.apple.com/app/biohusi/id1112946298",
+      "description": "See what movies are playing in Iceland, includes showtimes",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "reactnative"
+      ],
+      "screenshots": [
+        "http://a3.mzstatic.com/us/r30/Purple122/v4/47/60/af/4760af23-821d-fe64-bef0-609676699d5d/screen696x696.jpeg",
+        "http://a3.mzstatic.com/us/r30/Purple111/v4/c2/c2/36/c2c236d9-7144-0a00-54d3-8caffd554174/screen696x696.jpeg",
+        "http://a3.mzstatic.com/us/r30/Purple111/v4/9b/15/d4/9b15d4d7-6ca3-1b33-d78c-cd098e35e4af/screen696x696.jpeg",
+        "http://a2.mzstatic.com/us/r30/Purple111/v4/c0/e1/83/c0e18311-891e-724b-8d32-e77a9aa3e4a5/screen696x696.jpeg"
+      ],
+      "license": "other",
+      "date_added": "Feb 27 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
