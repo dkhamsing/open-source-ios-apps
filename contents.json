@@ -1918,7 +1918,7 @@
         "finance",
         "today"
       ],
-      "description": "Show portfolio in a minimalist Today extension",
+      "description": "Show portfolio in a minimalist Today Extension",
       "source": "https://github.com/premnirmal/TodayStocks",
       "itunes": "https://itunes.apple.com/app/todaystocks/id993467855",
       "stars": 32,
@@ -6246,7 +6246,7 @@
         "timer",
         "today"
       ],
-      "description": "Work timer with Today extension",
+      "description": "Work timer with Today Extension",
       "source": "https://github.com/dasdom/Tomate",
       "itunes": "https://itunes.apple.com/app/fojusi/id923044693",
       "stars": 430,
@@ -11034,7 +11034,7 @@
     },
     {
       "title": "LunarCore",
-      "description": "Small lunar calendar with Today extension",
+      "description": "Small lunar calendar with Today Extension",
       "source": "https://github.com/cyanzhong/LunarCore",
       "itunes": "https://itunes.apple.com/app/id1031088612",
       "screenshots": [
