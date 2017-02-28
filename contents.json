@@ -12031,6 +12031,28 @@
       "license": "other",
       "date_added": "Feb 27 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "TodayMind",
+      "description": "Manage Reminders directly in a Today Extension",
+      "category-ids": ["today"],
+      "source": "https://github.com/cyanzhong/TodayMind",
+      "itunes": "https://itunes.apple.com/app/id1207158665",
+      "screenshots":
+        [
+          "http://a1.mzstatic.com/us/r30/Purple122/v4/09/1e/87/091e87a0-cf27-3546-b8ab-f18e300f028e/screen696x696.jpeg",
+          "http://a1.mzstatic.com/us/r30/Purple111/v4/ca/1d/37/ca1d3780-fb6f-e350-43fa-cae7997598a4/screen696x696.jpeg",
+          "http://a1.mzstatic.com/us/r30/Purple111/v4/da/ce/55/dace5554-786a-71c5-e943-ee413d64ec71/screen696x696.jpeg",
+          "http://a2.mzstatic.com/us/r30/Purple122/v4/7b/84/c8/7b84c8b5-1304-ea84-1dc7-92c5a3867034/screen696x696.jpeg",
+          "http://a1.mzstatic.com/us/r30/Purple111/v4/65/89/cc/6589cce3-df56-7e9a-7f7b-23945bd1724a/screen696x696.jpeg"
+        ],
+        "license": "gpl-3.0",
+        "stars": 442,
+        "tags": [
+          "swift"
+        ],
+        "date_added": "Feb 28 2017",
+        "suggested_by": "@dkhamsing"
     }
   ]
 }
