@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-635-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 28, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-635-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March  1, 2017-lightgrey.svg)
 
 Jump to
 
@@ -236,7 +236,7 @@ Click ► to show more details
   </details>
 </details> 
 - Done: To-do list data sharing between extension & main app  
-<details><summary>`swift` `realm` `watchkit` </summary>  https://github.com/FancyPixel/done-swift<br>  Added May  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `realm` `watchkit` 🔥</summary>  https://github.com/FancyPixel/done-swift<br>  Added May  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Done image 1' src='https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif'> 
 </div>
   </details>
@@ -686,7 +686,7 @@ Click ► to show more details
   </details>
 </details> 
 - Quick Chat: Real time chat app  
-<details><summary>`swift` `swift3` `firebase` 🔥🔥</summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  6, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `swift3` `firebase` 🔥🔥🔥</summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  6, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Quick Chat image 1' src='https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif'> 
 </div>
   </details>
@@ -716,7 +716,7 @@ Click ► to show more details
   </details>
 </details> 
 - Spika: Cross-platform messenger module  
-<details><summary>`afnetworking` `sdwebimage` 🔥</summary>  https://github.com/cloverstudio/Spika<br>  https://spika.business/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`afnetworking` `sdwebimage` 🔥🔥</summary>  https://github.com/cloverstudio/Spika<br>  https://spika.business/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Spika image 1' src='https://github.com/cloverstudio/Spika/raw/master/spika_demo_new.gif'> 
 </div>
   </details>
@@ -744,7 +744,7 @@ Click ► to show more details
   </details>
 </details> 
 - TSWeChat: A WeChat alternative  
-<details><summary>`swift` 🔥🔥🔥🔥</summary>  https://github.com/hilen/TSWeChat<br>  Added May 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/hilen/TSWeChat<br>  Added May 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='TSWeChat image 1' src='https://github.com/hilen/TSWeChat/raw/master/images/preview1.gif'> 
 </div>
   </details>
@@ -791,7 +791,7 @@ Click ► to show more details
   </details>
 </details> 
 - Nortal TechDay 2015  
-<details><summary>`reactnative` 🔥</summary>  https://github.com/mikkoj/NortalTechDay<br>  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥</summary>  https://github.com/mikkoj/NortalTechDay<br>  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Nortal TechDay 2015 image 1' src='http://res.cloudinary.com/mikkoj/image/upload/v1467119333/nortal-techday-1.mov_triupn.gif'> <img height='300' alt='Nortal TechDay 2015 image 2' src='http://res.cloudinary.com/mikkoj/image/upload/v1467119489/nortal-techday-2.mov_lcvqqx.gif'> 
 </div>
   </details>
@@ -1272,7 +1272,7 @@ Click ► to show more details
   </details>
 </details> 
 - TodayMind: Manage Reminders directly in a Today Extension [` App Store`](https://itunes.apple.com/app/id1207158665)  
-<details><summary>`swift` 🔥🔥</summary>  https://github.com/cyanzhong/TodayMind<br>  Added February 28, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`swift` 🇨🇳 🔥🔥🔥</summary>  https://github.com/cyanzhong/TodayMind<br>  Added February 28, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='TodayMind image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/09/1e/87/091e87a0-cf27-3546-b8ab-f18e300f028e/screen696x696.jpeg'> <img height='300' alt='TodayMind image 2' src='http://a1.mzstatic.com/us/r30/Purple111/v4/ca/1d/37/ca1d3780-fb6f-e350-43fa-cae7997598a4/screen696x696.jpeg'> <img height='300' alt='TodayMind image 3' src='http://a1.mzstatic.com/us/r30/Purple111/v4/da/ce/55/dace5554-786a-71c5-e943-ee413d64ec71/screen696x696.jpeg'> <img height='300' alt='TodayMind image 4' src='http://a2.mzstatic.com/us/r30/Purple122/v4/7b/84/c8/7b84c8b5-1304-ea84-1dc7-92c5a3867034/screen696x696.jpeg'> <img height='300' alt='TodayMind image 5' src='http://a1.mzstatic.com/us/r30/Purple111/v4/65/89/cc/6589cce3-df56-7e9a-7f7b-23945bd1724a/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2043,7 +2043,7 @@ Click ► to show more details
   </details>
 </details> 
 - OsmAnd Maps: A map app with access to OpenStreetMaps [` App Store`](https://itunes.apple.com/app/id934850257)  
-<details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/osmandapp/Osmand<br>  http://osmand.net/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`objc` 🔥🔥🔥🔥</summary>  https://github.com/osmandapp/Osmand<br>  http://osmand.net/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='OsmAnd Maps image 1' src='http://a4.mzstatic.com/us/r30/Purple62/v4/6e/66/38/6e66384e-1493-1fef-bf4a-b46a32ce6add/screen696x696.jpeg'> <img height='300' alt='OsmAnd Maps image 2' src='http://a2.mzstatic.com/us/r30/Purple71/v4/10/4c/29/104c294c-1adc-93c3-bde8-ca50ce97eb04/screen696x696.jpeg'> <img height='300' alt='OsmAnd Maps image 3' src='http://a3.mzstatic.com/us/r30/Purple71/v4/c2/63/b5/c263b598-22ea-ee5e-5b0a-c2a6bf6b3215/screen696x696.jpeg'> <img height='300' alt='OsmAnd Maps image 4' src='http://a3.mzstatic.com/us/r30/Purple62/v4/d0/91/4b/d0914b8b-1908-fc6a-e7b5-59955a41c482/screen696x696.jpeg'> <img height='300' alt='OsmAnd Maps image 5' src='http://a2.mzstatic.com/us/r30/Purple71/v4/e5/7e/dc/e57edc40-d4b6-6f2c-3205-8dac724e325a/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2142,7 +2142,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - Blear: Transform your photos into stunning blurry wallpapers for your device [` App Store`](https://itunes.apple.com/app/blear-create-blurry-wallpapers/id994182280)  
-<details><summary>`objc` </summary>  https://github.com/sindresorhus/blear<br>  Added February 24, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`objc` 🔥</summary>  https://github.com/sindresorhus/blear<br>  Added February 24, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Blear image 1' src='http://a2.mzstatic.com/us/r30/Purple111/v4/25/5b/c7/255bc7ab-95e2-1660-3bba-717b0ae21f1d/screen696x696.jpeg'> <img height='300' alt='Blear image 2' src='http://a3.mzstatic.com/us/r30/Purple111/v4/34/7a/42/347a42bd-3a7b-1f86-c2b8-3e043ea5e0e7/screen696x696.jpeg'> <img height='300' alt='Blear image 3' src='http://a4.mzstatic.com/us/r30/Purple122/v4/37/6b/27/376b278d-d698-981f-c931-d0e5b01c6733/screen696x696.jpeg'> <img height='300' alt='Blear image 4' src='http://a2.mzstatic.com/us/r30/Purple111/v4/ed/9a/9b/ed9a9b30-72f6-fc12-662f-0d1493a3d136/screen696x696.jpeg'> <img height='300' alt='Blear image 5' src='http://a2.mzstatic.com/us/r30/Purple122/v4/d0/8e/fa/d08efa30-4057-323e-15ee-9f2fe1e5aaff/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2744,7 +2744,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - HackerNews  
-<details><summary>`swift` 🔥🔥🔥</summary>  https://github.com/amitburst/HackerNews<br>  Added March 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` 🔥🔥🔥🔥</summary>  https://github.com/amitburst/HackerNews<br>  Added March 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='HackerNews image 1' src='https://github.com/amitburst/HackerNews/raw/master/Resources/screenshot1.png'> 
 </div>
   </details>
@@ -3822,7 +3822,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Seafile Pro: App for Seafile self-hosted file sharing [` App Store`](https://itunes.apple.com/app/id639202512)  
-<details><summary>`objc` </summary>  https://github.com/haiwen/seafile-iOS<br>  https://www.seafile.com/en/home/<br>  Added June  1, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<details><summary>`objc` 🔥</summary>  https://github.com/haiwen/seafile-iOS<br>  https://www.seafile.com/en/home/<br>  Added June  1, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div><img height='300' alt='Seafile Pro image 1' src='http://a5.mzstatic.com/us/r30/Purple69/v4/ed/0e/97/ed0e97b6-a234-0cf4-be3f-26cad9e8af54/screen696x696.jpeg'> <img height='300' alt='Seafile Pro image 2' src='http://a3.mzstatic.com/us/r30/Purple49/v4/a8/f7/90/a8f79012-1000-bd3b-a35c-bdd1a6c67006/screen696x696.jpeg'> <img height='300' alt='Seafile Pro image 3' src='http://a4.mzstatic.com/us/r30/Purple49/v4/c5/ad/b2/c5adb208-d27d-35ff-ef4d-91a031155986/screen696x696.jpeg'> <img height='300' alt='Seafile Pro image 4' src='http://a4.mzstatic.com/us/r30/Purple49/v4/50/03/6a/50036a6e-861b-dd04-56e8-1590d539c5fe/screen696x696.jpeg'> <img height='300' alt='Seafile Pro image 5' src='http://a5.mzstatic.com/us/r30/Purple49/v4/a1/a5/c5/a1a5c524-5a8c-6a68-5bca-30bdb3989b3d/screen696x696.jpeg'> 
 </div>
   </details>
@@ -3976,7 +3976,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Quick Chat: Real time chat app  
-<details><summary>`swift` `swift3` `firebase` 🔥🔥</summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  6, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `swift3` `firebase` 🔥🔥🔥</summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  6, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Quick Chat image 1' src='https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif'> 
 </div>
   </details>
@@ -4215,7 +4215,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Nortal TechDay 2015  
-<details><summary>`reactnative` 🔥</summary>  https://github.com/mikkoj/NortalTechDay<br>  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` 🔥🔥</summary>  https://github.com/mikkoj/NortalTechDay<br>  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Nortal TechDay 2015 image 1' src='http://res.cloudinary.com/mikkoj/image/upload/v1467119333/nortal-techday-1.mov_triupn.gif'> <img height='300' alt='Nortal TechDay 2015 image 2' src='http://res.cloudinary.com/mikkoj/image/upload/v1467119489/nortal-techday-2.mov_lcvqqx.gif'> 
 </div>
   </details>
@@ -4257,7 +4257,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - RSS Reader  
-<details><summary>`reactnative` </summary>  https://github.com/christopherdro/react-native-rss-reader<br>  Added June 22, 2015<br>  License: `other`
+<details><summary>`reactnative` 🔥</summary>  https://github.com/christopherdro/react-native-rss-reader<br>  Added June 22, 2015<br>  License: `other`
 <div><img height='300' alt='RSS Reader image 1' src='https://github.com/christopherdro/react-native-rss-reader/raw/master/RssReaderDemo.gif'> 
 </div>
   </details>
@@ -4270,7 +4270,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Spacepics: A small app displaying NASA's Picture of the Day  
 <details><summary>`reactnative` </summary>  https://github.com/campezzi/react-native-spacepics<br>  Added May 26, 2015<br>  License: `other`
-<div><img height='300' alt='Spacepics image 1' src='https://react.rocks/images/converted/react-native-spacepics.jpg'> 
+<div><img height='300' alt='Spacepics image 1' src='http://i.imgur.com/YENtnhd.png'> 
 </div>
   </details>
 </details> 
@@ -4322,7 +4322,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - Done: To-do list data sharing between extension & main app  
-<details><summary>`swift` `realm` `watchkit` </summary>  https://github.com/FancyPixel/done-swift<br>  Added May  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `realm` `watchkit` 🔥</summary>  https://github.com/FancyPixel/done-swift<br>  Added May  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Done image 1' src='https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif'> 
 </div>
   </details>
