@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-634-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 27, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-635-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February 28, 2017-lightgrey.svg)
 
 Jump to
 
@@ -484,7 +484,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- LunarCore: Small lunar calendar with Today extension [` App Store`](https://itunes.apple.com/app/id1031088612)  
+- LunarCore: Small lunar calendar with Today Extension [` App Store`](https://itunes.apple.com/app/id1031088612)  
 <details><summary>`objc` 🇨🇳 🔥🔥🔥</summary>  https://github.com/cyanzhong/LunarCore<br>  Added October 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='LunarCore image 1' src='https://github.com/cyanzhong/LunarCore/raw/master/iOS.png'> 
 </div>
@@ -1243,7 +1243,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693)  
+- Fojusi: Work timer with Today Extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693)  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/dasdom/Tomate<br>  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Fojusi image 1' src='http://a4.mzstatic.com/us/r30/Purple32/v4/cd/ac/98/cdac9892-c5e1-9389-6efe-ef31a90daaf4/screen696x696.jpeg'> <img height='300' alt='Fojusi image 2' src='http://a5.mzstatic.com/us/r30/Purple6/v4/6c/c1/1b/6cc11bb2-5f1e-693c-f05c-313034b0194a/screen696x696.jpeg'> <img height='300' alt='Fojusi image 3' src='http://a4.mzstatic.com/us/r30/Purple3/v4/05/67/17/05671722-b9e9-0698-7725-59ff117e377d/screen696x696.jpeg'> <img height='300' alt='Fojusi image 4' src='http://a4.mzstatic.com/us/r30/Purple3/v4/8c/2c/a0/8c2ca0be-628e-4daa-0911-bdf0b58318e1/screen696x696.jpeg'> 
 </div>
@@ -1255,7 +1255,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- LunarCore: Small lunar calendar with Today extension [` App Store`](https://itunes.apple.com/app/id1031088612)  
+- LunarCore: Small lunar calendar with Today Extension [` App Store`](https://itunes.apple.com/app/id1031088612)  
 <details><summary>`objc` 🇨🇳 🔥🔥🔥</summary>  https://github.com/cyanzhong/LunarCore<br>  Added October 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='LunarCore image 1' src='https://github.com/cyanzhong/LunarCore/raw/master/iOS.png'> 
 </div>
@@ -1271,7 +1271,13 @@ Click ► to show more details
 <details><summary>`swift` 🔥</summary>  https://github.com/mslathrop/SwiftNote<br>  Added March 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
-- TodayStocks: Show portfolio in a minimalist Today extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855)  
+- TodayMind: Manage Reminders directly in a Today Extension [` App Store`](https://itunes.apple.com/app/id1207158665)  
+<details><summary>`swift` 🔥🔥</summary>  https://github.com/cyanzhong/TodayMind<br>  Added February 28, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='TodayMind image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/09/1e/87/091e87a0-cf27-3546-b8ab-f18e300f028e/screen696x696.jpeg'> <img height='300' alt='TodayMind image 2' src='http://a1.mzstatic.com/us/r30/Purple111/v4/ca/1d/37/ca1d3780-fb6f-e350-43fa-cae7997598a4/screen696x696.jpeg'> <img height='300' alt='TodayMind image 3' src='http://a1.mzstatic.com/us/r30/Purple111/v4/da/ce/55/dace5554-786a-71c5-e943-ee413d64ec71/screen696x696.jpeg'> <img height='300' alt='TodayMind image 4' src='http://a2.mzstatic.com/us/r30/Purple122/v4/7b/84/c8/7b84c8b5-1304-ea84-1dc7-92c5a3867034/screen696x696.jpeg'> <img height='300' alt='TodayMind image 5' src='http://a1.mzstatic.com/us/r30/Purple111/v4/65/89/cc/6589cce3-df56-7e9a-7f7b-23945bd1724a/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- TodayStocks: Show portfolio in a minimalist Today Extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855)  
 <details><summary>`objc` </summary>  https://github.com/premnirmal/TodayStocks<br>  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='TodayStocks image 1' src='http://a4.mzstatic.com/us/r30/Purple1/v4/81/de/d6/81ded63c-8a48-dff9-062f-92ac2c5299ee/screen696x696.jpeg'> <img height='300' alt='TodayStocks image 2' src='http://a4.mzstatic.com/us/r30/Purple5/v4/d2/ca/dd/d2cadd24-5d85-f613-aba2-9931cb785b65/screen696x696.jpeg'> <img height='300' alt='TodayStocks image 3' src='http://a1.mzstatic.com/us/r30/Purple1/v4/82/5a/ff/825affaf-cc4a-6d24-99e0-f3197f769f58/screen696x696.jpeg'> <img height='300' alt='TodayStocks image 4' src='http://a2.mzstatic.com/us/r30/Purple7/v4/6e/03/d6/6e03d609-2cb7-4095-cc24-a63b1c8e8d12/screen696x696.jpeg'> 
 </div>
@@ -1342,7 +1348,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- TodayStocks: Show portfolio in a minimalist Today extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855)  
+- TodayStocks: Show portfolio in a minimalist Today Extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855)  
 <details><summary>`objc` </summary>  https://github.com/premnirmal/TodayStocks<br>  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='TodayStocks image 1' src='http://a4.mzstatic.com/us/r30/Purple1/v4/81/de/d6/81ded63c-8a48-dff9-062f-92ac2c5299ee/screen696x696.jpeg'> <img height='300' alt='TodayStocks image 2' src='http://a4.mzstatic.com/us/r30/Purple5/v4/d2/ca/dd/d2cadd24-5d85-f613-aba2-9931cb785b65/screen696x696.jpeg'> <img height='300' alt='TodayStocks image 3' src='http://a1.mzstatic.com/us/r30/Purple1/v4/82/5a/ff/825affaf-cc4a-6d24-99e0-f3197f769f58/screen696x696.jpeg'> <img height='300' alt='TodayStocks image 4' src='http://a2.mzstatic.com/us/r30/Purple7/v4/6e/03/d6/6e03d609-2cb7-4095-cc24-a63b1c8e8d12/screen696x696.jpeg'> 
 </div>
@@ -3584,7 +3590,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
-- Fojusi: Work timer with Today extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693)  
+- Fojusi: Work timer with Today Extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693)  
 <details><summary>`swift` 🔥🔥</summary>  https://github.com/dasdom/Tomate<br>  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Fojusi image 1' src='http://a4.mzstatic.com/us/r30/Purple32/v4/cd/ac/98/cdac9892-c5e1-9389-6efe-ef31a90daaf4/screen696x696.jpeg'> <img height='300' alt='Fojusi image 2' src='http://a5.mzstatic.com/us/r30/Purple6/v4/6c/c1/1b/6cc11bb2-5f1e-693c-f05c-313034b0194a/screen696x696.jpeg'> <img height='300' alt='Fojusi image 3' src='http://a4.mzstatic.com/us/r30/Purple3/v4/05/67/17/05671722-b9e9-0698-7725-59ff117e377d/screen696x696.jpeg'> <img height='300' alt='Fojusi image 4' src='http://a4.mzstatic.com/us/r30/Purple3/v4/8c/2c/a0/8c2ca0be-628e-4daa-0911-bdf0b58318e1/screen696x696.jpeg'> 
 </div>
