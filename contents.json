@@ -5433,12 +5433,13 @@
         "sdwebimage"
       ],
       "description": "Connect blind people with volunteer helpers via live video chat",
-      "source": "https://github.com/bemyeyes/bemyeyes-ios",
+      "source": "https://github.com/opensourceios/bemyeyes-ios",
       "itunes": "https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575",
       "stars": 497,
       "license": "mit",
       "date_added": "Mon Oct 12 12:04:57 2015 -0700",
       "suggested_by": "@dkhamsing",
+      "tags": ["archive", "afnetworking"],
       "screenshots": [
         "http://a2.mzstatic.com/us/r30/Purple49/v4/91/f6/9c/91f69c78-b178-439c-22e1-badfc60ae90e/screen696x696.jpeg",
         "http://a2.mzstatic.com/us/r30/Purple69/v4/88/3d/64/883d643a-287a-452c-c45d-5c71427c31e8/screen696x696.jpeg",
