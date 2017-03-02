@@ -6613,6 +6613,9 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": [
+        "http://i.giphy.com/3oKIPyok1FHmdX4FuE.gif"
+      ],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/TicTacToe",
       "license": "other",
