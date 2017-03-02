@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-635-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March  1, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-635-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March  2, 2017-lightgrey.svg)
 
 Jump to
 
@@ -616,12 +616,6 @@ Click ► to show more details
 - AppRTC: A native video chat app  
 <details><summary>`webrtc` `google` 🔥🔥🔥</summary>  https://github.com/ISBX/apprtc-ios<br>  Added September  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
 <div><img height='300' alt='AppRTC image 1' src='https://github.com/ISBX/apprtc-ios/raw/master/screenshots/screenshots.jpg'> 
-</div>
-  </details>
-</details> 
-- Be my eyes: Connect blind people with volunteer helpers via live video chat [` App Store`](https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575)  
-<details><summary>`afnetworking` `masonry` `sdwebimage` 🔥🔥</summary>  https://github.com/bemyeyes/bemyeyes-ios<br>  Added October 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Be my eyes image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/91/f6/9c/91f69c78-b178-439c-22e1-badfc60ae90e/screen696x696.jpeg'> <img height='300' alt='Be my eyes image 2' src='http://a2.mzstatic.com/us/r30/Purple69/v4/88/3d/64/883d643a-287a-452c-c45d-5c71427c31e8/screen696x696.jpeg'> <img height='300' alt='Be my eyes image 3' src='http://a2.mzstatic.com/us/r30/Purple49/v4/35/b2/7b/35b27b0a-996c-12f1-f3a7-075791074129/screen696x696.jpeg'> <img height='300' alt='Be my eyes image 4' src='http://a5.mzstatic.com/us/r30/Purple49/v4/e7/d1/a0/e7d1a097-bbcc-f171-c6ef-3124901da147/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -4282,6 +4276,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - TicTacToe: App by Facebook  
 <details><summary>`reactnative` </summary>  https://github.com/facebook/react-native/tree/master/Examples/TicTacToe<br>  Added February  5, 2016<br>  License: `other`
+<div><img height='300' alt='TicTacToe image 1' src='http://i.giphy.com/3oKIPyok1FHmdX4FuE.gif'> 
+</div>
   </details>
 </details> 
 - To Do List  
