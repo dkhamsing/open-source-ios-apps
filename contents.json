@@ -12228,6 +12228,19 @@
       ],
       "date_added": "Feb 28 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "花灰",
+      "description": "How to prounounce programming terms in English",
+      "source": "https://github.com/lexrus/Huahui",
+      "homepage": "https://twitter.com/lexrus/status/836928202912063491",
+      "screenshots": ["https://media.giphy.com/media/3oKIPvvaugnP88DdOE/source.gif"],
+      "tags": ["swift"],
+      "category-ids": ["developer"],
+      "lang": "zho",
+      "license": "other",
+      "date_added": "Mar 2 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
