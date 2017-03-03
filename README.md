@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-635-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March  2, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-635-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March  3, 2017-lightgrey.svg)
 
 Jump to
 
@@ -4068,6 +4068,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 - 2048: App by Facebook  
 <details><summary>`reactnative` </summary>  https://github.com/facebook/react-native/tree/master/Examples/2048<br>  Added February  5, 2016<br>  License: `other`
+<div><img height='300' alt='2048 image 1' src='http://i.imgur.com/JbJSIw4.png'> <img height='300' alt='2048 image 2' src='http://i.imgur.com/B2sBFv7.png'> <img height='300' alt='2048 image 3' src='http://i.imgur.com/d0SYXOl.png'> <img height='300' alt='2048 image 4' src='http://i.imgur.com/5lxxOlk.png'> 
+</div>
   </details>
 </details> 
 - 30 days of React Native demos  
@@ -4298,6 +4300,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - UIExplorer: App by Facebook  
 <details><summary>`reactnative` </summary>  https://github.com/facebook/react-native/tree/master/Examples/UIExplorer<br>  Added February  5, 2016<br>  License: `other`
+<div><img height='300' alt='UIExplorer image 1' src='http://i.imgur.com/DYqIgci.png'> <img height='300' alt='UIExplorer image 2' src='http://i.imgur.com/0AO67Ft.png'> <img height='300' alt='UIExplorer image 3' src='http://i.imgur.com/PDwLOQk.png'> <img height='300' alt='UIExplorer image 4' src='http://i.imgur.com/s7gWFoy.png'> 
+</div>
   </details>
 </details> 
 - Weather by JakeLin  
