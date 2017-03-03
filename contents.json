@@ -4734,6 +4734,10 @@
       "tags": [
         "restkit"
       ],
+      "screenshots": [
+        "http://i.imgur.com/3yKeZP7.png",
+        "http://i.imgur.com/cPwvXZa.png",
+      ],
       "description": "GitHub Gists",
       "license": "apache-2.0",
       "source": "https://github.com/RestKit/RKGist",
