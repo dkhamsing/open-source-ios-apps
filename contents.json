@@ -6631,6 +6631,12 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": [
+        "http://i.imgur.com/DYqIgci.png",
+        "http://i.imgur.com/0AO67Ft.png",
+        "http://i.imgur.com/PDwLOQk.png",
+        "http://i.imgur.com/s7gWFoy.png"
+      ],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/UIExplorer",
       "license": "other",
