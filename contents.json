@@ -2589,6 +2589,12 @@
         "swift",
         "healthkit"
       ],
+      "screenshots": [
+        "http://i.imgur.com/0pIsqGe.png",
+        "http://i.imgur.com/DbSH2qC.png",
+        "http://i.imgur.com/VIexU8t.png",
+        "http://i.imgur.com/iuiwmyY.png"
+      ],
       "stars": 58,
       "license": "other",
       "date_added": "Tue Oct 27 19:50:28 2015 +0200",
