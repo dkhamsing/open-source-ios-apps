@@ -3680,6 +3680,11 @@
       "category-ids": [
         "video"
       ],
+      "screenshots": [
+        "http://i.imgur.com/geiofMw.png",
+        "http://i.imgur.com/fdYYztR.png",
+        "http://i.imgur.com/sh4pL25.png"
+      ],
       "description": "Record a 6-second video while playing prank sounds",
       "source": "https://github.com/huijimuhe/prankPro",
       "stars": 263,
