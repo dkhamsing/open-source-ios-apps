@@ -1384,6 +1384,12 @@
       "tags": [
         "swift"
       ],
+      "screenshots": [
+        "http://i.imgur.com/6V3danC.png",
+        "http://i.imgur.com/7yuwMkO.png",
+        "http://i.imgur.com/PbpxreZ.png",
+        "http://i.imgur.com/UgkwKoB.png"
+      ],
       "stars": 46,
       "date_added": "Thu Apr 21 08:01:37 2016 -0700",
       "suggested_by": "@dkhamsing"
@@ -2589,6 +2595,12 @@
         "swift",
         "healthkit"
       ],
+      "screenshots": [
+        "http://i.imgur.com/0pIsqGe.png",
+        "http://i.imgur.com/DbSH2qC.png",
+        "http://i.imgur.com/VIexU8t.png",
+        "http://i.imgur.com/iuiwmyY.png"
+      ],
       "stars": 58,
       "license": "other",
       "date_added": "Tue Oct 27 19:50:28 2015 +0200",
@@ -3121,6 +3133,12 @@
       "title": "Startups - Mapped In Israel",
       "category-ids": [
         "location"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/vSyWHSA.png",
+        "http://i.imgur.com/WJbZSB6.png",
+        "http://i.imgur.com/fTlosLW.png",
+        "http://i.imgur.com/eTnGn5F.png",
       ],
       "description": "Discover new startups & locate co-working spaces",
       "license": "mit",
@@ -3661,6 +3679,11 @@
       "title": "prankPro",
       "category-ids": [
         "video"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/geiofMw.png",
+        "http://i.imgur.com/fdYYztR.png",
+        "http://i.imgur.com/sh4pL25.png"
       ],
       "description": "Record a 6-second video while playing prank sounds",
       "source": "https://github.com/huijimuhe/prankPro",
@@ -4722,6 +4745,10 @@
       "tags": [
         "restkit"
       ],
+      "screenshots": [
+        "http://i.imgur.com/3yKeZP7.png",
+        "http://i.imgur.com/cPwvXZa.png",
+      ],
       "description": "GitHub Gists",
       "license": "apache-2.0",
       "source": "https://github.com/RestKit/RKGist",
@@ -5416,6 +5443,12 @@
       "source": "https://github.com/soffes/bar",
       "tags": [
         "swift"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/PTUo4e7.png",
+        "http://i.imgur.com/bXZH0LB.png",
+        "http://i.imgur.com/tIFW8bu.png",
+        "http://i.imgur.com/D095xih.png"
       ],
       "stars": 56,
       "license": "other",
@@ -6586,6 +6619,12 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": [
+        "http://i.imgur.com/JbJSIw4.png",
+        "http://i.imgur.com/B2sBFv7.png",
+        "http://i.imgur.com/d0SYXOl.png",
+        "http://i.imgur.com/5lxxOlk.png"
+      ],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/2048",
       "license": "other",
@@ -6630,6 +6669,12 @@
       ],
       "tags": [
         "reactnative"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/DYqIgci.png",
+        "http://i.imgur.com/0AO67Ft.png",
+        "http://i.imgur.com/PDwLOQk.png",
+        "http://i.imgur.com/s7gWFoy.png"
       ],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/UIExplorer",
@@ -7810,6 +7855,9 @@
       "source": "https://github.com/DeveloperACE/MiamiSunglasses",
       "tags": [
         "swift"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/DYoZw6Q.png"
       ],
       "license": "apache-2.0",
       "stars": 0,
