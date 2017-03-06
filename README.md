@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-635-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March  3, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-636-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March  6, 2017-lightgrey.svg)
 
 Jump to
 
@@ -729,6 +729,8 @@ Click ► to show more details
 </details> 
 - TextEthan: Allow anyone to message you  
 <details><summary>`swift` </summary>  https://github.com/thii/TextEthan<br>  Added April 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='TextEthan image 1' src='http://i.imgur.com/6V3danC.png'> <img height='300' alt='TextEthan image 2' src='http://i.imgur.com/7yuwMkO.png'> <img height='300' alt='TextEthan image 3' src='http://i.imgur.com/PbpxreZ.png'> <img height='300' alt='TextEthan image 4' src='http://i.imgur.com/UgkwKoB.png'> 
+</div>
   </details>
 </details> 
 - TrollDrop: Send trollfaces to everyone  
@@ -993,6 +995,12 @@ Click ► to show more details
 </div>
   </details>
 </details> 
+- 花灰: How to prounounce programming terms in English  
+<details><summary>`swift` 🇨🇳 </summary>  https://github.com/lexrus/Huahui<br>  https://twitter.com/lexrus/status/836928202912063491<br>  Added March  2, 2017<br>  License: `other`
+<div><img height='300' alt='花灰 image 1' src='https://media.giphy.com/media/3oKIPvvaugnP88DdOE/source.gif'> 
+</div>
+  </details>
+</details> 
 
 ### GitHub 
  
@@ -1050,6 +1058,8 @@ Click ► to show more details
 </details> 
 - RKGist: GitHub Gists  
 <details><summary>`restkit` </summary>  https://github.com/RestKit/RKGist<br>  Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='RKGist image 1' src='http://i.imgur.com/3yKeZP7.png'> <img height='300' alt='RKGist image 2' src='http://i.imgur.com/cPwvXZa.png'> 
+</div>
   </details>
 </details> 
 - Siesta GitHub Browser: Browse & star GitHub repositories  
@@ -1778,6 +1788,8 @@ Click ► to show more details
 </details> 
 - HealthKit~Swift: Sample app  
 <details><summary>`swift` `healthkit` </summary>  https://github.com/Darktt/HealthKit-Swift<br>  Added October 27, 2015<br>  License: `other`
+<div><img height='300' alt='HealthKit~Swift image 1' src='http://i.imgur.com/0pIsqGe.png'> <img height='300' alt='HealthKit~Swift image 2' src='http://i.imgur.com/DbSH2qC.png'> <img height='300' alt='HealthKit~Swift image 3' src='http://i.imgur.com/VIexU8t.png'> <img height='300' alt='HealthKit~Swift image 4' src='http://i.imgur.com/iuiwmyY.png'> 
+</div>
   </details>
 </details> 
 
@@ -2086,6 +2098,8 @@ Click ► to show more details
 </details> 
 - Startups - Mapped In Israel: Discover new startups & locate co-working spaces  
 <details><summary>`objc` </summary>  https://github.com/sugarso/MappedInIsrael<br>  Added April  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Startups - Mapped In Israel image 1' src='http://i.imgur.com/vSyWHSA.png'> <img height='300' alt='Startups - Mapped In Israel image 2' src='http://i.imgur.com/WJbZSB6.png'> <img height='300' alt='Startups - Mapped In Israel image 3' src='http://i.imgur.com/fTlosLW.png'> <img height='300' alt='Startups - Mapped In Israel image 4' src='http://i.imgur.com/eTnGn5F.png'> 
+</div>
   </details>
 </details> 
 - tpg offline: Navigate the Geneva public transport [` App Store`](https://itunes.apple.com/app/tpg-offline/id1001560047)  
@@ -2316,6 +2330,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - MiamiSunglasses: Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation (YEAAAAAAAAAAHH)  
 <details><summary>`swift` </summary>  https://github.com/DeveloperACE/MiamiSunglasses<br>  Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='MiamiSunglasses image 1' src='http://i.imgur.com/DYoZw6Q.png'> 
+</div>
   </details>
 </details> 
 - Monotone Delay: A simple synthesiser, based on the Korg Monotron Delay [` App Store`](https://itunes.apple.com/app/monotone-delay/id737483162)  
@@ -2379,6 +2395,8 @@ Image, video, audio, reading — [back to top](#readme)
 </details> 
 - bar: Cocktail menu  
 <details><summary>`swift` </summary>  https://github.com/soffes/bar<br>  Added January 26, 2015<br>  License: `other`
+<div><img height='300' alt='bar image 1' src='http://i.imgur.com/PTUo4e7.png'> <img height='300' alt='bar image 2' src='http://i.imgur.com/bXZH0LB.png'> <img height='300' alt='bar image 3' src='http://i.imgur.com/tIFW8bu.png'> <img height='300' alt='bar image 4' src='http://i.imgur.com/D095xih.png'> 
+</div>
   </details>
 </details> 
 - Calvin and Hobbes Comic Viewer: Full text search, favorites, and original publish dates for Calvin and Hobbes  
@@ -2661,6 +2679,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - prankPro: Record a 6-second video while playing prank sounds  
 <details><summary>`objc` 🔥🔥</summary>  https://github.com/huijimuhe/prankPro<br>  Added March 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='prankPro image 1' src='http://i.imgur.com/geiofMw.png'> <img height='300' alt='prankPro image 2' src='http://i.imgur.com/fdYYztR.png'> <img height='300' alt='prankPro image 3' src='http://i.imgur.com/sh4pL25.png'> 
+</div>
   </details>
 </details> 
 - VLC: Media Player [` App Store`](https://itunes.apple.com/app/vlc-for-ios/id650377962)  
@@ -3226,6 +3246,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - RKGist: GitHub Gists  
 <details><summary>`restkit` </summary>  https://github.com/RestKit/RKGist<br>  Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='RKGist image 1' src='http://i.imgur.com/3yKeZP7.png'> <img height='300' alt='RKGist image 2' src='http://i.imgur.com/cPwvXZa.png'> 
+</div>
   </details>
 </details> 
 - SafariAutoLoginTest: Demo of how to auto-login users using Safari cookies  
