@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-636-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March  6, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-637-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March  7, 2017-lightgrey.svg)
 
 Jump to
 
@@ -1638,6 +1638,12 @@ Click ► to show more details
 </div>
   </details>
 </details> 
+- RealmPop: Platform / multiplayer game where players pair up to clear a level of bubbles  
+<details><summary>`swift` `realm` </summary>  https://github.com/realm/RealmPop<br>  Added March  7, 2017<br>  License: `other`
+<div><img height='300' alt='RealmPop image 1' src='http://i.imgur.com/pTxoTPX.png'> <img height='300' alt='RealmPop image 2' src='http://i.imgur.com/Zrvfypq.png'> 
+</div>
+  </details>
+</details> 
 - S.C.P-Asylum-Fail: A game like ’Life Line’  
 <details><summary>`swift` 🇨🇳 </summary>  https://github.com/cpo007/S.C.P-Asylum-Fail<br>  Added October  8, 2016<br>  License: `other`
 <div><img height='300' alt='S.C.P-Asylum-Fail image 1' src='https://github.com/cpo007/S.C.P-Asylum-Fail/blob/master/Image/Launch.png'> <img height='300' alt='S.C.P-Asylum-Fail image 2' src='https://github.com/cpo007/S.C.P-Asylum-Fail/blob/master/Image/Home.png'> 
@@ -1743,7 +1749,7 @@ Click ► to show more details
 </details> 
 - Stick-Hero-Swift  
 <details><summary>`swift` `iphone` `ipad` 🔥🔥</summary>  https://github.com/phpmaple/Stick-Hero-Swift<br>  Added June 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Stick-Hero-Swift image 1' src='https://camo.githubusercontent.com/8874bc6a45f7b4e63929f809fb08edbffd122ad6/687474703a2f2f73686172652e6b6f6f6672616e6b2e636f6d2f62672e706e67'> 
+<div><img height='300' alt='Stick-Hero-Swift image 1' src='https://raw.githubusercontent.com/phpmaple/Stick-Hero-Swift/master/Assets/Images/stick_background.jpg'> 
 </div>
   </details>
 </details> 
@@ -4370,6 +4376,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - RaceMe: Run tracking & ghosting  
 <details><summary>`swift` `parse` 🔥🔥🔥</summary>  https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
 <div><img height='300' alt='RaceMe image 1' src='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'> 
+</div>
+  </details>
+</details> 
+- RealmPop: Platform / multiplayer game where players pair up to clear a level of bubbles  
+<details><summary>`swift` `realm` </summary>  https://github.com/realm/RealmPop<br>  Added March  7, 2017<br>  License: `other`
+<div><img height='300' alt='RealmPop image 1' src='http://i.imgur.com/pTxoTPX.png'> <img height='300' alt='RealmPop image 2' src='http://i.imgur.com/Zrvfypq.png'> 
 </div>
   </details>
 </details> 
