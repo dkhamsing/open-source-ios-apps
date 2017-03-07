@@ -12289,6 +12289,17 @@
       "license": "other",
       "date_added": "Mar 2 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "RealmPop",
+      "description": "Platform / multiplayer game where players pair up to clear a level of bubbles",
+      "source": "https://github.com/realm/RealmPop",
+      "category-ids": ["game", "realm"],
+      "screenshots": ["http://i.imgur.com/pTxoTPX.png", "http://i.imgur.com/Zrvfypq.png"],
+      "tags": ["swift", "realm"],
+      "license": "other",
+      "date_added": "Mar 7 2017",
+      "suggested_by": "@dkhamsing"      
     }
   ]
 }
