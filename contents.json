@@ -12299,7 +12299,18 @@
       "tags": ["swift", "realm"],
       "license": "other",
       "date_added": "Mar 7 2017",
-      "suggested_by": "@dkhamsing"      
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "graygram",
+      "source": "https://github.com/devxoul/graygram-ios",
+      "description": "Instagram clone",
+      "category-ids": ["clone"],
+      "tags": ["swift", "alamofire", "kingfisher"],
+      "screenshots": ["https://cloud.githubusercontent.com/assets/931655/23171892/4d3fd606-f897-11e6-87e0-7230d3010c7b.png"],
+      "license": "mit",
+      "date_added": "Mar 10 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
