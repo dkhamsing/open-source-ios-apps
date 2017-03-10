@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-637-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March  7, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-638-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March 10, 2017-lightgrey.svg)
 
 Jump to
 
@@ -569,6 +569,12 @@ Click ► to show more details
 - FlappySwift: Swift implementation of Flappy Bird  
 <details><summary>`swift` 🔥🔥🔥🔥🔥</summary>  https://github.com/fullstackio/FlappySwift<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='FlappySwift image 1' src='https://camo.githubusercontent.com/867dfad61329bd77258f00d586b16476c7bc405a/687474703a2f2f692e696d6775722e636f6d2f314e4c6f546f552e676966'> 
+</div>
+  </details>
+</details> 
+- graygram: Instagram clone  
+<details><summary>`swift` `alamofire` `kingfisher` </summary>  https://github.com/devxoul/graygram-ios<br>  Added March 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='graygram image 1' src='https://cloud.githubusercontent.com/assets/931655/23171892/4d3fd606-f897-11e6-87e0-7230d3010c7b.png'> 
 </div>
   </details>
 </details> 
