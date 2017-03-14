@@ -6403,7 +6403,11 @@
       "stars": 162,
       "license": "other",
       "date_added": "Fri, 7 Aug 2015 07:29:07 -0700",
-      "suggested_by": "@dkhamsing"
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "http://i.imgur.com/z8Xw0qC.png",
+        "http://i.imgur.com/M5pwaAf.png"
+      ]
     },
     {
       "title": "Tasks",
