@@ -5692,6 +5692,12 @@
       "description": "Interacts with smart water bottle",
       "source": "https://github.com/mjcuva/Hidrate",
       "stars": 9,
+      "screenshots": [
+        "http://i.imgur.com/nOAhewe.png",
+        "http://i.imgur.com/DmfcHr6.png",
+        "http://i.imgur.com/5xlFNzo.png",
+        "http://i.imgur.com/mCDJdlD.png"
+      ],
       "license": "other",
       "date_added": "Tue May 3 08:55:42 2016 -0700",
       "suggested_by": "@dkhamsing"
