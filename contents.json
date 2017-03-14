@@ -6660,6 +6660,10 @@
       "tags": [
         "reactnative"
       ],
+      "screenshots": [
+        "http://i.imgur.com/MvmDyMw.png",
+        "http://i.imgur.com/q0McH8K.png"
+      ],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/Movies",
       "license": "other",
