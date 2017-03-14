@@ -7527,6 +7527,11 @@
       "tags": [
         "swift"
       ],
+      "screenshots": [
+        "http://i.imgur.com/N2QeLpm.png",
+        "http://i.imgur.com/f33KAQY.png",
+        "http://i.imgur.com/EDZFKpP.png"
+      ],
       "stars": 1,
       "license": "apache-2.0",
       "date_added": "Fri May 13 07:32:42 2016 -0700",
