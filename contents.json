@@ -10547,6 +10547,11 @@
         "swift",
         "watchos3"
       ],
+      "screenshots": [
+        "http://i.imgur.com/AggsuxA.png",
+        "http://i.imgur.com/r8El1FE.png",
+        "http://i.imgur.com/zCkknWc.png"
+      ],
       "license": "other",
       "stars": 124,
       "date_added": "Aug 16 2016",
