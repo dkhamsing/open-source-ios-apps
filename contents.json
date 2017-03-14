@@ -5995,6 +5995,9 @@
       "tags": [
         "usb"
       ],
+      "screenshots": [
+        "http://i.imgur.com/xVPBuW9.png"
+      ],
       "description": "Share your device internet connection without jailbreaking",
       "license": "gpl-3.0",
       "source": "https://github.com/chrisballinger/Tether-iOS",
