@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-638-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March 10, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-638-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March 16, 2017-lightgrey.svg)
 
 Jump to
 
@@ -575,12 +575,6 @@ Click ► to show more details
 - graygram: Instagram clone  
 <details><summary>`swift` `alamofire` `kingfisher` </summary>  https://github.com/devxoul/graygram-ios<br>  Added March 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='graygram image 1' src='https://cloud.githubusercontent.com/assets/931655/23171892/4d3fd606-f897-11e6-87e0-7230d3010c7b.png'> 
-</div>
-  </details>
-</details> 
-- Paws: Instagram clone  
-<details><summary>`swift` </summary>  http://www.appcoda.com/instagram-app-parse-swift/<br>  Added April 17, 2015<br>  License: `other`
-<div><img height='300' alt='Paws image 1' src='http://www.appcoda.com/wp-content/uploads/2015/04/paws-demo-animation.png'> 
 </div>
   </details>
 </details> 
@@ -4074,12 +4068,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Parse-Challenge-App: App with likes, comments, posting images/videos [` App Store`](https://itunes.apple.com/app/lets-challenge-me/id944004497)  
 <details><summary>`iphone` 🔥</summary>  https://github.com/TomekB/Parse-Challenge-App<br>  Added March  5, 2015<br>  License: `other`
 <div><img height='300' alt='Parse-Challenge-App image 1' src='http://a1.mzstatic.com/us/r30/Purple5/v4/2b/7a/76/2b7a76d2-3622-dc56-fc51-38b28f5e5739/screen696x696.jpeg'> <img height='300' alt='Parse-Challenge-App image 2' src='http://a5.mzstatic.com/us/r30/Purple1/v4/95/ea/a2/95eaa213-a27b-a3c2-1060-48a003e349fc/screen696x696.jpeg'> <img height='300' alt='Parse-Challenge-App image 3' src='http://a5.mzstatic.com/us/r30/Purple5/v4/fb/76/54/fb76545d-9a8b-16b2-b94d-9f8f166af6bb/screen696x696.jpeg'> 
-</div>
-  </details>
-</details> 
-- Paws: Instagram clone  
-<details><summary>`swift` </summary>  http://www.appcoda.com/instagram-app-parse-swift/<br>  Added April 17, 2015<br>  License: `other`
-<div><img height='300' alt='Paws image 1' src='http://www.appcoda.com/wp-content/uploads/2015/04/paws-demo-animation.png'> 
 </div>
   </details>
 </details> 
