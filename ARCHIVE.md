@@ -28,6 +28,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - OpenClien https://github.com/kewlbear/OpenClien
 - Pancake https://github.com/Imaginea/pancake-ios
 - ParseStore https://github.com/opensourceios/ParseStore
+- Paws http://www.appcoda.com/instagram-app-parse-swift/
 - Pi https://github.com/opensourceios/Pi
 - PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
 - Potatso https://github.com/opensourceios/Potatso
