@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-639-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March 20, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-640-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March 20, 2017-lightgrey.svg)
 
 Jump to
 
@@ -244,6 +244,12 @@ Click ► to show more details
 - FlickrWatch: Apple Watch face  
 <details><summary>`flickr api` </summary>  https://github.com/jazzychad/FlickrWatch<br>  Added February 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='FlickrWatch image 1' src='https://camo.githubusercontent.com/09d4726f3b100b9c6b313b2bbae038538a2cda3e/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43414b3762743455384141396b31532e706e67'> 
+</div>
+  </details>
+</details> 
+- Giovanni: Gameboy emulator for the Apple Watch  
+<details><summary>`swift` </summary>  https://github.com/gabrieloc/GIOVANNI<br>  Added March 20, 2017<br>  License: `other`
+<div><img height='300' alt='Giovanni image 1' src='https://github.com/gabrieloc/GIOVANNI/blob/master/gameplay.gif?raw=true'> 
 </div>
   </details>
 </details> 
@@ -1298,9 +1304,9 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- BoardBank - Money Manager for Board Games: Keeps track of the accounts of up to 6 players so you can enjoy the game without having to worry about counting money anymore. [` App Store`](https://itunes.apple.com/app/boardbank-money-manager-for/id1191367526)  
+- BoardBank: Money manager for board games [` App Store`](https://itunes.apple.com/app/boardbank-money-manager-for/id1191367526)  
 <details><summary>`swift` </summary>  https://github.com/richardxyx/BoardBank<br>  http://www.richardneitzke.com<br>  Added March 20, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='BoardBank - Money Manager for Board Games image 1' src='http://i.imgur.com/fXB42iY.png'> <img height='300' alt='BoardBank - Money Manager for Board Games image 2' src='http://i.imgur.com/EMGOw0g.png'> 
+<div><img height='300' alt='BoardBank image 1' src='http://i.imgur.com/fXB42iY.png'> <img height='300' alt='BoardBank image 2' src='http://i.imgur.com/EMGOw0g.png'> 
 </div>
   </details>
 </details> 
@@ -3746,12 +3752,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - BlogQuest: Alternative Tumblr client  
 <details><summary>`objc` </summary>  https://github.com/irace/BlogQuest<br>  Added March 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='BlogQuest image 1' src='https://camo.githubusercontent.com/1e2b57cde873201b31fc2d7c051a4737e4041260/68747470733a2f2f35362e6d656469612e74756d626c722e636f6d2f63656566333361666136373866623132643664323537633735633163613136362f74756d626c725f6e35646431344f697948317162316c32756f315f3534302e6a7067'> 
-</div>
-  </details>
-</details> 
-- BoardBank - Money Manager for Board Games: Keeps track of the accounts of up to 6 players so you can enjoy the game without having to worry about counting money anymore. [` App Store`](https://itunes.apple.com/app/boardbank-money-manager-for/id1191367526)  
-<details><summary>`swift` </summary>  https://github.com/richardxyx/BoardBank<br>  http://www.richardneitzke.com<br>  Added March 20, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='BoardBank - Money Manager for Board Games image 1' src='http://i.imgur.com/fXB42iY.png'> <img height='300' alt='BoardBank - Money Manager for Board Games image 2' src='http://i.imgur.com/EMGOw0g.png'> 
 </div>
   </details>
 </details> 
