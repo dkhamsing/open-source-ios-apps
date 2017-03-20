@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-638-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March 16, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-639-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March 20, 2017-lightgrey.svg)
 
 Jump to
 
@@ -1298,6 +1298,12 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- BoardBank - Money Manager for Board Games: Keeps track of the accounts of up to 6 players so you can enjoy the game without having to worry about counting money anymore. [` App Store`](https://itunes.apple.com/app/boardbank-money-manager-for/id1191367526)  
+<details><summary>`swift` </summary>  https://github.com/richardxyx/BoardBank<br>  http://www.richardneitzke.com<br>  Added March 20, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='BoardBank - Money Manager for Board Games image 1' src='http://i.imgur.com/fXB42iY.png'> <img height='300' alt='BoardBank - Money Manager for Board Games image 2' src='http://i.imgur.com/EMGOw0g.png'> 
+</div>
+  </details>
+</details> 
 - Buck Tracker: Expense tracker  
 <details><summary>`swift` </summary>  https://github.com/hkalexling/Buck_Tracker<br>  Added November 16, 2015<br>  License: `other`
 <div>
@@ -3360,7 +3366,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - FreeOTP Authenticator: Two-Factor Authentication [` App Store`](https://itunes.apple.com/app/freeotp/id872559395)  
-<details><summary>`objc` </summary>  https://fedorahosted.org/freeotp/browser/ios<br>  Added March 11, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<details><summary>`swift` `moa` </summary>  https://github.com/freeotp/freeotp-ios<br>  Added March 11, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div><img height='300' alt='FreeOTP Authenticator image 1' src='http://a4.mzstatic.com/us/r30/Purple5/v4/66/8b/9c/668b9cf1-3502-3683-7787-ef450ef90019/screen696x696.jpeg'> 
 </div>
   </details>
@@ -3488,7 +3494,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
-<details><summary>`swift` `realm` `reactnative` `cartography` `swiftlint` 🔥🔥</summary>  https://github.com/realm/RealmTasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<details><summary>`swift` `realm` `reactnative` `cartography` `swiftlint` 🔥🔥</summary>  https://github.com/realm-demos/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='http://i.imgur.com/Y9ZG7Of.png'> 
 </div>
   </details>
@@ -3740,6 +3746,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - BlogQuest: Alternative Tumblr client  
 <details><summary>`objc` </summary>  https://github.com/irace/BlogQuest<br>  Added March 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='BlogQuest image 1' src='https://camo.githubusercontent.com/1e2b57cde873201b31fc2d7c051a4737e4041260/68747470733a2f2f35362e6d656469612e74756d626c722e636f6d2f63656566333361666136373866623132643664323537633735633163613136362f74756d626c725f6e35646431344f697948317162316c32756f315f3534302e6a7067'> 
+</div>
+  </details>
+</details> 
+- BoardBank - Money Manager for Board Games: Keeps track of the accounts of up to 6 players so you can enjoy the game without having to worry about counting money anymore. [` App Store`](https://itunes.apple.com/app/boardbank-money-manager-for/id1191367526)  
+<details><summary>`swift` </summary>  https://github.com/richardxyx/BoardBank<br>  http://www.richardneitzke.com<br>  Added March 20, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='BoardBank - Money Manager for Board Games image 1' src='http://i.imgur.com/fXB42iY.png'> <img height='300' alt='BoardBank - Money Manager for Board Games image 2' src='http://i.imgur.com/EMGOw0g.png'> 
 </div>
   </details>
 </details> 
@@ -4246,7 +4258,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - pokemon-map: Locate Pokemon around you  
 <details><summary>`reactnative` </summary>  https://github.com/bakery/pokemon-map<br>  Added September 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='pokemon-map image 1' src='https://camo.githubusercontent.com/d53adba0e5f66819d73abcfce9b27d21042bfbc8/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f393232343332362f706b6d6e6d6170732e706e67'> 
+<div>
 </div>
   </details>
 </details> 
@@ -4269,7 +4281,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
-<details><summary>`swift` `realm` `reactnative` `cartography` `swiftlint` 🔥🔥</summary>  https://github.com/realm/RealmTasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<details><summary>`swift` `realm` `reactnative` `cartography` `swiftlint` 🔥🔥</summary>  https://github.com/realm-demos/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='http://i.imgur.com/Y9ZG7Of.png'> 
 </div>
   </details>
@@ -4380,7 +4392,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
-<details><summary>`swift` `realm` `reactnative` `cartography` `swiftlint` 🔥🔥</summary>  https://github.com/realm/RealmTasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<details><summary>`swift` `realm` `reactnative` `cartography` `swiftlint` 🔥🔥</summary>  https://github.com/realm-demos/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='http://i.imgur.com/Y9ZG7Of.png'> 
 </div>
   </details>
@@ -4478,12 +4490,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - PropertyCross: Search UK property listings  
 <details><summary>`csharp` 🔥🔥🔥</summary>  https://github.com/tastejs/PropertyCross/tree/master/xamarin<br>  Added December  5, 2016<br>  License: `other`
 <div><img height='300' alt='PropertyCross image 1' src='http://propertycross.com/frameworks/xamarin/ios/PropertyCross.thumbnail.png'> <img height='300' alt='PropertyCross image 2' src='http://propertycross.com/frameworks/xamarin/ios/SearchResults.thumbnail.png'> 
-</div>
-  </details>
-</details> 
-- Toggl Timer [` App Store`](https://itunes.apple.com/app/toggl-timer/id885767775)  
-<details><summary>`csharp` 🔥🔥</summary>  https://github.com/toggl/mobile<br>  Added December  7, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-<div><img height='300' alt='Toggl Timer image 1' src='http://a3.mzstatic.com/us/r30/Purple60/v4/59/b4/ef/59b4efea-2cfb-c615-a13f-e39956b00a0b/screen696x696.jpeg'> <img height='300' alt='Toggl Timer image 2' src='http://a5.mzstatic.com/us/r30/Purple18/v4/11/f9/f5/11f9f584-027d-3947-e1f6-d60e084f9ea5/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
