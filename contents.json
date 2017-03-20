@@ -12327,6 +12327,16 @@
       "screenshots": ["http://i.imgur.com/fXB42iY.png", "http://i.imgur.com/EMGOw0g.png"],
       "date_added": "Mar 20 2017",
       "suggested_by": "@richardxyx"
+    },
+    {
+      "title": "Giovanni",
+      "description": "Gameboy emulator for the Apple Watch",
+      "source": "https://github.com/gabrieloc/GIOVANNI",
+      "screenshots": ["https://github.com/gabrieloc/GIOVANNI/blob/master/gameplay.gif?raw=true"],
+      "tags": ["swift"],
+      "license": "other",
+      "date_added": "Mar 20 2017",
+      "suggested_by": "@dkhamsing"      
     }
   ]
 }
