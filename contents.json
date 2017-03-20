@@ -12313,6 +12313,20 @@
       "license": "mit",
       "date_added": "Mar 10 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "BoardBank - Money Manager for Board Games",
+      "category-ids": ["finance", "misc"],
+      "description": "Keeps track of the accounts of up to 6 players so you can enjoy the game without having to worry about counting money anymore.",
+      "source": "https://github.com/richardxyx/BoardBank",
+      "homepage": "http://www.richardneitzke.com",
+      "itunes": "https://itunes.apple.com/app/boardbank-money-manager-for/id1191367526",		
+      "license": "mit",
+      "stars": 45,     
+      "tags": ["swift"],
+      "screenshots": ["http://i.imgur.com/fXB42iY.png", "http://i.imgur.com/EMGOw0g.png"],
+      "date_added": "Mar 20 2017",
+      "suggested_by": "@richardxyx"
     }
   ]
 }
