@@ -38,6 +38,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - SudokuResolv https://github.com/Haoest/SudokuResolv
 - Swift Off https://github.com/opensourceios/swift-off-todo
 - TaskPaper https://github.com/jessegrosjean/NOTTaskPaperForIOS
+- Toggl Timer https://github.com/opensourceios/toggle-mobile
 - Vim https://github.com/applidium/Vim
 - WatchNotes https://github.com/azamsharp/WatchNotes
 - XPilot http://7b5labs.com/xpilot.git/
