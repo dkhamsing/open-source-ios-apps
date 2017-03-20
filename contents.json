@@ -4834,14 +4834,15 @@
         "password"
       ],
       "description": "Two-Factor Authentication",
-      "source": "https://fedorahosted.org/freeotp/browser/ios",
+      "source": "https://github.com/freeotp/freeotp-ios",
       "itunes": "https://itunes.apple.com/app/freeotp/id872559395",
       "license": "apache-2.0",
       "date_added": "Fri Mar 11 08:00:19 2016 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
         "http://a4.mzstatic.com/us/r30/Purple5/v4/66/8b/9c/668b9cf1-3502-3683-7787-ef450ef90019/screen696x696.jpeg"
-      ]
+      ],
+      "tags": ["swift", "moa"]
     },
     {
       "title": "MasterPassword",
