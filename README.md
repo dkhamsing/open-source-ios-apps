@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-640-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March 20, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-640-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2021,%202017-lightgrey.svg)
 
 Jump to
 
@@ -92,7 +92,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- Artsy Shows: Art shows on  
+- Artsy Shows: Art shows on your tv   [` App Store`](https://itunes.apple.com/by/app/artsy-shows/id1044690553)  
 <details><summary>`swift` `cocoapodskeys` 🔥🔥</summary>  https://github.com/artsy/Emergence<br>  Added November  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Artsy Shows image 1' src='https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/featured.png'> <img height='300' alt='Artsy Shows image 2' src='https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/show.png'> 
 </div>
@@ -1180,12 +1180,6 @@ Click ► to show more details
 - Celluloid Photo Editing extension [` App Store`](https://itunes.apple.com/app/celluloid/id1124966798)  
 <details><summary>`swift` `snapkit` 🇨🇳 🔥🔥</summary>  https://github.com/100mango/Celluloid<br>  Added July 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Celluloid Photo Editing extension image 1' src='http://a3.mzstatic.com/us/r30/Purple60/v4/81/ee/c1/81eec17b-96c0-6b5c-de9b-da1515ffc3f9/screen696x696.jpeg'> 
-</div>
-  </details>
-</details> 
-- Jupp: Post to https://app.net/, includes a Share extension [` App Store`](https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740)  
-<details><summary>`swift` </summary>  https://github.com/dasdom/Jupp<br>  Added February 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<div><img height='300' alt='Jupp image 1' src='http://a3.mzstatic.com/eu/r30/Purple1/v4/01/df/ae/01dfaee3-3ea0-8fdc-cfb4-de38aa3cb2cd/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
