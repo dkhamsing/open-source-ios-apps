@@ -286,9 +286,10 @@
       "category-ids": [
         "apple-tv"
       ],
-      "description": "Art shows on",
+      "description": "Art shows on your tv  ",
       "license": "mit",
       "source": "https://github.com/artsy/Emergence",
+      "itunes": "https://itunes.apple.com/by/app/artsy-shows/id1044690553",
       "stars": 320,
       "tags": [
         "swift",
