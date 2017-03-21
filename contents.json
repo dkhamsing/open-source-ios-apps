@@ -962,6 +962,11 @@
       "tags": [
         "swift"
       ],
+      "screenshots": [
+        "http://i.imgur.com/POfmbkq.png",
+        "http://i.imgur.com/EKAyXnw.png",
+        "http://i.imgur.com/vrdomSG.png"
+      ],
       "stars": 32,
       "license": "other",
       "date_added": "Tue May 5 15:30:32 2015 -0700",
@@ -4110,6 +4115,10 @@
       "tags": [
         "swift"
       ],
+      "screenshots": [
+        "http://i.imgur.com/DR8TQz0.png",
+        "http://i.imgur.com/OaIzWfI.png"
+      ],
       "stars": 17,
       "date_added": "Tue Mar 24 07:06:14 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -5056,6 +5065,11 @@
       "tags": [
         "swift"
       ],
+      "screenshots": [
+        "http://i.imgur.com/GI6mmKy.png",
+        "http://i.imgur.com/MWJhn3c.png",
+        "http://i.imgur.com/qDxI9gg.png"
+      ],
       "stars": 14,
       "date_added": "Wed Apr 20 05:49:30 2016 -0700",
       "suggested_by": "@dkhamsing"
@@ -5680,6 +5694,12 @@
       "description": "Interacts with smart water bottle",
       "source": "https://github.com/mjcuva/Hidrate",
       "stars": 9,
+      "screenshots": [
+        "http://i.imgur.com/nOAhewe.png",
+        "http://i.imgur.com/DmfcHr6.png",
+        "http://i.imgur.com/5xlFNzo.png",
+        "http://i.imgur.com/mCDJdlD.png"
+      ],
       "license": "other",
       "date_added": "Tue May 3 08:55:42 2016 -0700",
       "suggested_by": "@dkhamsing"
@@ -5695,6 +5715,10 @@
       "stars": 21,
       "tags": [
         "swift"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/6Tw24I2.png",
+        "http://i.imgur.com/akwJw0D.png"
       ],
       "date_added": "Sun Feb 28 06:03:05 2016 -0800",
       "suggested_by": "@dkhamsing"
@@ -5794,6 +5818,9 @@
       "source": "https://github.com/nathunsmitty/MirrorPlusPlus",
       "tags": [
         "swift"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/i2nVDNQ.png"
       ],
       "stars": 5,
       "date_added": "Mon Jan 4 20:30:07 2016 -0800",
@@ -5992,6 +6019,9 @@
       ],
       "tags": [
         "usb"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/xVPBuW9.png"
       ],
       "description": "Share your device internet connection without jailbreaking",
       "license": "gpl-3.0",
@@ -6382,6 +6412,12 @@
       "license": "mit",
       "source": "https://github.com/chrismiles/OrganisingCoreData",
       "stars": 35,
+      "screenshots": [
+        "http://i.imgur.com/MuViFyc.png",
+        "http://i.imgur.com/pn2qSEg.png",
+        "http://i.imgur.com/yTD7r0K.png",
+        "http://i.imgur.com/MxFiCpn.png"
+      ],
       "date_added": "Fri, 7 Aug 2015 07:29:07 -0700",
       "suggested_by": "@dkhamsing"
     },
@@ -6394,7 +6430,11 @@
       "stars": 162,
       "license": "other",
       "date_added": "Fri, 7 Aug 2015 07:29:07 -0700",
-      "suggested_by": "@dkhamsing"
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "http://i.imgur.com/z8Xw0qC.png",
+        "http://i.imgur.com/M5pwaAf.png"
+      ]
     },
     {
       "title": "Tasks",
@@ -6642,6 +6682,10 @@
       ],
       "tags": [
         "reactnative"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/MvmDyMw.png",
+        "http://i.imgur.com/q0McH8K.png"
       ],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/master/Examples/Movies",
@@ -7503,6 +7547,11 @@
       "source": "https://github.com/DeveloperACE/MetricTime",
       "tags": [
         "swift"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/N2QeLpm.png",
+        "http://i.imgur.com/f33KAQY.png",
+        "http://i.imgur.com/EDZFKpP.png"
       ],
       "stars": 1,
       "license": "apache-2.0",
@@ -10165,6 +10214,10 @@
         "swift",
         "rest"
       ],
+      "screenshots": [
+        "http://i.imgur.com/OBGvFKw.png",
+        "http://i.imgur.com/50eCbeX.png"
+      ],
       "date_added": "Tue Jul 26 10:50:27 2016 -0500",
       "suggested_by": "@pcantrell"
     },
@@ -10504,6 +10557,11 @@
       "tags": [
         "swift",
         "watchos3"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/AggsuxA.png",
+        "http://i.imgur.com/r8El1FE.png",
+        "http://i.imgur.com/zCkknWc.png"
       ],
       "license": "other",
       "stars": 124,
