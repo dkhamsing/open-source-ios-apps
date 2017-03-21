@@ -19,6 +19,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - FinalFighter https://github.com/sebcode/FinalFighter-iphone
 - Google Feud https://github.com/opensourceios/Google-Feud-iOS
 - Hack Cancer Hackathon https://github.com/HackCancer/iOS
+- Jupp https://github.com/dasdom/Jupp
 - LastFM https://github.com/lastfm/lastfm-iphone
 - Letters https://github.com/jessegrosjean/letters.iphone
 - Light-Jockey https://github.com/jmfieldman/Light-Jockey
