@@ -261,6 +261,8 @@ Click ► to show more details
 </details> 
 - HeartControl: Continuous heart rate measurement during workouts  
 <details><summary>`swift` `watchos3` 🔥</summary>  https://github.com/thomaspaulmann/HeartControl<br>  Added August 16, 2016<br>  License: `other`
+<div><img height='300' alt='HeartControl image 1' src='http://i.imgur.com/AggsuxA.png'> <img height='300' alt='HeartControl image 2' src='http://i.imgur.com/r8El1FE.png'> <img height='300' alt='HeartControl image 3' src='http://i.imgur.com/zCkknWc.png'> 
+</div>
   </details>
 </details> 
 - heartrate: Show streaming heart rate from the watch  
@@ -371,6 +373,8 @@ Click ► to show more details
 </details> 
 - WatchSnake: Snake game  
 <details><summary>`swift` </summary>  https://github.com/davidcairns/-WatchSnake<br>  Added May  5, 2015<br>  License: `other`
+<div><img height='300' alt='WatchSnake image 1' src='http://i.imgur.com/POfmbkq.png'> <img height='300' alt='WatchSnake image 2' src='http://i.imgur.com/EKAyXnw.png'> <img height='300' alt='WatchSnake image 3' src='http://i.imgur.com/vrdomSG.png'> 
+</div>
   </details>
 </details> 
 - WatchStocks: Track your stocks portfolio, includes a watch face complication  
@@ -1070,6 +1074,8 @@ Click ► to show more details
 </details> 
 - Siesta GitHub Browser: Browse & star GitHub repositories  
 <details><summary>`swift` `rest` 🔥🔥🔥</summary>  https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Siesta GitHub Browser image 1' src='http://i.imgur.com/OBGvFKw.png'> <img height='300' alt='Siesta GitHub Browser image 2' src='http://i.imgur.com/50eCbeX.png'> 
+</div>
   </details>
 </details> 
 - SwiftHub: View Swift repositories on GitHub  
@@ -2738,6 +2744,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Reddit  
 <details><summary>`swift` </summary>  https://github.com/amitburst/reddit-demo<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Reddit image 1' src='http://i.imgur.com/DR8TQz0.png'> <img height='300' alt='Reddit image 2' src='http://i.imgur.com/OaIzWfI.png'> 
+</div>
   </details>
 </details> 
 - TabDump: TabDump news app  
@@ -2993,6 +3001,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Siesta GitHub Browser: Browse & star GitHub repositories  
 <details><summary>`swift` `rest` 🔥🔥🔥</summary>  https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Siesta GitHub Browser image 1' src='http://i.imgur.com/OBGvFKw.png'> <img height='300' alt='Siesta GitHub Browser image 2' src='http://i.imgur.com/50eCbeX.png'> 
+</div>
   </details>
 </details> 
 
@@ -3270,6 +3280,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Siesta GitHub Browser: Browse & star GitHub repositories  
 <details><summary>`swift` `rest` 🔥🔥🔥</summary>  https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Siesta GitHub Browser image 1' src='http://i.imgur.com/OBGvFKw.png'> <img height='300' alt='Siesta GitHub Browser image 2' src='http://i.imgur.com/50eCbeX.png'> 
+</div>
   </details>
 </details> 
 - Starship: A generic Hyperdrive API client app  
@@ -3491,6 +3503,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - MyAwesomeChecklist  
 <details><summary>`swift` </summary>  https://github.com/imod/MyAwesomeChecklist<br>  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='MyAwesomeChecklist image 1' src='http://i.imgur.com/GI6mmKy.png'> <img height='300' alt='MyAwesomeChecklist image 2' src='http://i.imgur.com/MWJhn3c.png'> <img height='300' alt='MyAwesomeChecklist image 3' src='http://i.imgur.com/qDxI9gg.png'> 
+</div>
   </details>
 </details> 
 - RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
@@ -3647,6 +3661,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - MetricTime: Displays 'Metric Time' for pranking friends on trips to countries that use the metric system  
 <details><summary>`swift` </summary>  https://github.com/DeveloperACE/MetricTime<br>  Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<div><img height='300' alt='MetricTime image 1' src='http://i.imgur.com/N2QeLpm.png'> <img height='300' alt='MetricTime image 2' src='http://i.imgur.com/f33KAQY.png'> <img height='300' alt='MetricTime image 3' src='http://i.imgur.com/EDZFKpP.png'> 
+</div>
   </details>
 </details> 
 - MovieDict: Offline dictionary for international movie titles [` App Store`](https://itunes.apple.com/app/movieglot-what-do-they-call-it/id710587066)  
@@ -3797,6 +3813,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Hidrate: Interacts with smart water bottle  
 <details><summary>`objc` </summary>  https://github.com/mjcuva/Hidrate<br>  Added May  3, 2016<br>  License: `other`
+<div><img height='300' alt='Hidrate image 1' src='http://i.imgur.com/nOAhewe.png'> <img height='300' alt='Hidrate image 2' src='http://i.imgur.com/DmfcHr6.png'> <img height='300' alt='Hidrate image 3' src='http://i.imgur.com/5xlFNzo.png'> <img height='300' alt='Hidrate image 4' src='http://i.imgur.com/mCDJdlD.png'> 
+</div>
   </details>
 </details> 
 - iContactU: Reminds you to contact people you ought to [` App Store`](https://itunes.apple.com/app/icontactu/id920200100)  
@@ -3807,6 +3825,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - iCopyPasta: Pasteboard feed  
 <details><summary>`swift` </summary>  https://github.com/alltheflow/iCopyPasta<br>  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='iCopyPasta image 1' src='http://i.imgur.com/6Tw24I2.png'> <img height='300' alt='iCopyPasta image 2' src='http://i.imgur.com/akwJw0D.png'> 
+</div>
   </details>
 </details> 
 - LibreOffice Remote for Impress: Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely [` App Store`](https://itunes.apple.com/app/id806879890)  
@@ -3817,6 +3837,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Mirror++: Minimalist mirror  
 <details><summary>`swift` </summary>  https://github.com/nathunsmitty/MirrorPlusPlus<br>  Added January  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Mirror++ image 1' src='http://i.imgur.com/i2nVDNQ.png'> 
+</div>
   </details>
 </details> 
 - my41: HP-41C/CV/CX Microcode emulator [` App Store`](https://itunes.apple.com/app/my41cx/id979041950)  
@@ -3863,6 +3885,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Tether: Share your device internet connection without jailbreaking  
 <details><summary>`usb` 🔥</summary>  https://github.com/chrisballinger/Tether-iOS<br>  Added December 17, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<div><img height='300' alt='Tether image 1' src='http://i.imgur.com/xVPBuW9.png'> 
+</div>
   </details>
 </details> 
 - TheReservist: Check availability of iPhones  
@@ -3922,6 +3946,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 - DVD Collection Tracker  
 <details><summary>`objc` </summary>  https://github.com/chrismiles/OrganisingCoreData<br>  Added August  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='DVD Collection Tracker image 1' src='http://i.imgur.com/MuViFyc.png'> <img height='300' alt='DVD Collection Tracker image 2' src='http://i.imgur.com/pn2qSEg.png'> <img height='300' alt='DVD Collection Tracker image 3' src='http://i.imgur.com/yTD7r0K.png'> <img height='300' alt='DVD Collection Tracker image 4' src='http://i.imgur.com/MxFiCpn.png'> 
+</div>
   </details>
 </details> 
 - Listr: Wish list  
@@ -3932,6 +3958,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Nested Lists  
 <details><summary>`objc` 🔥</summary>  https://github.com/objcio/issue-4-full-core-data-application<br>  Added August  7, 2015<br>  License: `other`
+<div><img height='300' alt='Nested Lists image 1' src='http://i.imgur.com/z8Xw0qC.png'> <img height='300' alt='Nested Lists image 2' src='http://i.imgur.com/M5pwaAf.png'> 
+</div>
   </details>
 </details> 
 - Reusable Code  
@@ -4218,6 +4246,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </details> 
 - Movies: App by Facebook  
 <details><summary>`reactnative` </summary>  https://github.com/facebook/react-native/tree/master/Examples/Movies<br>  Added February  5, 2016<br>  License: `other`
+<div><img height='300' alt='Movies image 1' src='http://i.imgur.com/MvmDyMw.png'> <img height='300' alt='Movies image 2' src='http://i.imgur.com/q0McH8K.png'> 
+</div>
   </details>
 </details> 
 - NBA allyoop: NBA game scores  
