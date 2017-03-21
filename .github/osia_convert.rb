@@ -128,6 +128,7 @@ end
 def output_badges(count)
   date = DateTime.now
   date_display = date.strftime "%B %e, %Y"
+  date_display = date_display.gsub ' ', '%20'
 
   b = "![](https://img.shields.io/badge/Projects-#{count}-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-#{date_display}-lightgrey.svg)"
   b
