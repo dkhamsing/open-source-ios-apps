@@ -286,7 +286,7 @@
       "category-ids": [
         "apple-tv"
       ],
-      "description": "Art shows on your tv  ",
+      "description": "Art shows",
       "license": "mit",
       "source": "https://github.com/artsy/Emergence",
       "itunes": "https://itunes.apple.com/by/app/artsy-shows/id1044690553",
@@ -2179,11 +2179,10 @@
       ]
     },
     {
-      "title": "DOOM",
+      "title": "Doom Classic",
       "category-ids": [
         "game"
       ],
-      "description": "Doom Classic for iOS",
       "source": "https://github.com/id-Software/DOOM-iOS",
       "itunes": "https://itunes.apple.com/app/doom-classic/id336347946",
       "stars": 460,
@@ -2197,11 +2196,10 @@
       ]
     },
     {
-      "title": "DOOM-IOS2",
+      "title": "DOOM Classic 2",
       "category-ids": [
         "game"
       ],
-      "description": "Doom Classic for iOS version 2",
       "source": "https://github.com/id-Software/DOOM-IOS2",
       "itunes": "https://itunes.apple.com/app/doom-ii-rpg/id354051766",
       "stars": 169,
