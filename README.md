@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-640-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2021,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-640-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2022,%202017-lightgrey.svg)
 
 Jump to
 
@@ -92,7 +92,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- Artsy Shows: Art shows on your tv   [` App Store`](https://itunes.apple.com/by/app/artsy-shows/id1044690553)  
+- Artsy Shows: Art shows [` App Store`](https://itunes.apple.com/by/app/artsy-shows/id1044690553)  
   <details><summary><code>swift</code> <code>cocoapodskeys</code> 🔥🔥</summary>
 
   https://github.com/artsy/Emergence<br>  Added November  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1958,19 +1958,19 @@ Click ► to show more details
 </div>
   </details>
 
-- DOOM: Doom Classic for iOS [` App Store`](https://itunes.apple.com/app/doom-classic/id336347946)  
+- Doom Classic [` App Store`](https://itunes.apple.com/app/doom-classic/id336347946)  
   <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/id-Software/DOOM-iOS<br>  Added May 19, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  <div><img height='300' alt='DOOM image 1' src='http://a1.mzstatic.com/us/r30/Purple6/v4/87/bf/74/87bf7496-9c18-61df-272e-2803844f0747/screen696x696.jpeg'> <img height='300' alt='DOOM image 2' src='http://a2.mzstatic.com/us/r30/Purple/v4/88/95/dd/8895ddc3-f46c-4da3-058a-3c9b76016ee3/screen696x696.jpeg'> <img height='300' alt='DOOM image 3' src='http://a1.mzstatic.com/us/r30/Purple/v4/4a/17/2e/4a172e70-08c6-ed51-51c9-317e836a4cca/screen696x696.jpeg'> 
+  <div><img height='300' alt='Doom Classic image 1' src='http://a1.mzstatic.com/us/r30/Purple6/v4/87/bf/74/87bf7496-9c18-61df-272e-2803844f0747/screen696x696.jpeg'> <img height='300' alt='Doom Classic image 2' src='http://a2.mzstatic.com/us/r30/Purple/v4/88/95/dd/8895ddc3-f46c-4da3-058a-3c9b76016ee3/screen696x696.jpeg'> <img height='300' alt='Doom Classic image 3' src='http://a1.mzstatic.com/us/r30/Purple/v4/4a/17/2e/4a172e70-08c6-ed51-51c9-317e836a4cca/screen696x696.jpeg'> 
 </div>
   </details>
 
-- DOOM-IOS2: Doom Classic for iOS version 2 [` App Store`](https://itunes.apple.com/app/doom-ii-rpg/id354051766)  
+- DOOM Classic 2 [` App Store`](https://itunes.apple.com/app/doom-ii-rpg/id354051766)  
   <details><summary><code>objc</code> 🔥</summary>
 
   https://github.com/id-Software/DOOM-IOS2<br>  Added May 19, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  <div><img height='300' alt='DOOM-IOS2 image 1' src='http://a4.mzstatic.com/us/r30/Purple/v4/2a/60/50/2a6050d0-c040-3684-fb0f-1694fd1edde4/screen480x480.jpeg'> 
+  <div><img height='300' alt='DOOM Classic 2 image 1' src='http://a4.mzstatic.com/us/r30/Purple/v4/2a/60/50/2a6050d0-c040-3684-fb0f-1694fd1edde4/screen480x480.jpeg'> 
 </div>
   </details>
 
