@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-640-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2022,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-641-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2023,%202017-lightgrey.svg)
 
 Jump to
 
@@ -590,6 +590,14 @@ Click ► to show more details
 
   http://thomasokken.com/free42/download/free42.tgz<br>  http://thomasokken.com/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='Free42 image 1' src='http://a1.mzstatic.com/us/r30/Purple3/v4/a4/bd/1e/a4bd1e5c-a158-7669-76c9-915c3b41ecec/screen568x568.jpeg'> 
+</div>
+  </details>
+
+- IBCalculator  
+  <details><summary><code>swift</code> <code>ibinspectable</code> <code>ibdesignable</code> </summary>
+
+  https://github.com/JakeLin/IBCalculator<br>  Added March 23, 2017<br>  License: `other`
+  <div><img height='300' alt='IBCalculator image 1' src='https://raw.githubusercontent.com/JakeLin/IBCalculator/master/screenshots/IBCalcalator-iPhone.png'> 
 </div>
   </details>
 
