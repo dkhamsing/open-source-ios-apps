@@ -12396,6 +12396,16 @@
       "license": "other",
       "date_added": "Mar 20 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "IBCalculator",
+      "source": "https://github.com/JakeLin/IBCalculator",
+      "category-ids": ["calculator"],
+      "screenshots": ["https://raw.githubusercontent.com/JakeLin/IBCalculator/master/screenshots/IBCalcalator-iPhone.png"],
+      "tags": ["swift", "ibinspectable", "ibdesignable"],
+      "license": "other",
+      "date_added": "Mar 23 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
