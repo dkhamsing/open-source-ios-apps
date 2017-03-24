@@ -45,6 +45,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - XPilot http://7b5labs.com/xpilot.git/
 - Yorkie https://github.com/opensourceios/YorkieApp
 - apnagent-ios https://github.com/logicalparadox/apnagent-ios
+- github-issues https://github.com/chriseidhof/github-issues
 - iLabyrinth https://github.com/RolandasRazma/iLabyrinth
 - iOctocat https://github.com/dennisreimann/ioctocat
 - theNews https://github.com/TosinAF/thenews-objc
