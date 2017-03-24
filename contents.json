@@ -12406,6 +12406,20 @@
       "license": "other",
       "date_added": "Mar 23 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "github-issues",
+      "source": "https://github.com/chriseidhof/github-issues",
+      "category-ids": ["github"],
+      "tags": ["swift", "archive"],
+      "screenshots": [
+        "http://i.imgur.com/KOUAgX6.png",
+        "http://i.imgur.com/MeDP8s0.png",
+        "http://i.imgur.com/cUI0IFm.png"
+      ],
+      "license": "other",
+      "date_added": "Mar 24 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
