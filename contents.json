@@ -12420,6 +12420,15 @@
       "license": "other",
       "date_added": "Mar 24 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Calculator by BalestraPatrick",
+      "source": "https://github.com/BalestraPatrick/AppleWatchCalculator",
+      "category-ids": ["apple-watch"],
+      "screenshots": ["https://github.com/BalestraPatrick/AppleWatchCalculator/blob/master/Screenshot1.png?raw=true"],
+      "license": "other",
+      "date_added": "Mar 24 2017",
+      "suggested_by": "@dkhamsing"       
     }
   ]
 }
