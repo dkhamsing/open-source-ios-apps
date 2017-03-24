@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-641-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2023,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-643-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2024,%202017-lightgrey.svg)
 
 Jump to
 
@@ -222,6 +222,14 @@ Click ► to show more details
 
   https://github.com/JohnWong/bus-today<br>  Added February 17, 2016<br>  License: `other`
   <div><img height='300' alt='Bus Today image 1' src='http://a4.mzstatic.com/us/r30/Purple69/v4/94/5e/05/945e0506-9e18-749a-1ed9-e018949bfbad/screen696x696.jpeg'> <img height='300' alt='Bus Today image 2' src='http://a1.mzstatic.com/us/r30/Purple69/v4/8f/6c/74/8f6c7422-fdc8-89e4-3514-0ea044e7fd50/screen696x696.jpeg'> <img height='300' alt='Bus Today image 3' src='http://a4.mzstatic.com/us/r30/Purple69/v4/39/03/e1/3903e1cf-d614-5d26-e3b1-3f9180aa162e/screen696x696.jpeg'> <img height='300' alt='Bus Today image 4' src='http://a5.mzstatic.com/us/r30/Purple69/v4/7b/9a/d2/7b9ad2f6-0438-c850-f8e0-268b712873a0/screen696x696.jpeg'> <img height='300' alt='Bus Today image 5' src='http://a2.mzstatic.com/us/r30/Purple69/v4/ce/6f/fc/ce6ffc7a-7f95-0c08-f05b-77f15612d0c7/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Calculator by BalestraPatrick  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/BalestraPatrick/AppleWatchCalculator<br>  Added March 24, 2017<br>  License: `other`
+  <div><img height='300' alt='Calculator by BalestraPatrick image 1' src='https://github.com/BalestraPatrick/AppleWatchCalculator/blob/master/Screenshot1.png?raw=true'> 
 </div>
   </details>
 
