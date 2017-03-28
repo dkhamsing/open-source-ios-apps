@@ -6884,7 +6884,8 @@
         "clone"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true"
