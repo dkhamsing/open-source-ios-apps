@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-643-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2024,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-644-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2028,%202017-lightgrey.svg)
 
 Jump to
 
@@ -29,6 +29,7 @@ Jump to
 - [Finance](#finance) 
   - [Bitcoin](#bitcoin) 
 - [Game](#game) 
+  - [Cocos2d](#cocos2d) 
   - [SpriteKit](#spritekit) 
 - [Health](#health) 
   - [Fitness](#fitness) 
@@ -455,6 +456,14 @@ Click ► to show more details
 </div>
   </details>
 
+- WatchNote: Control your Keynote using Apple Watch  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/ezefranca/WatchNote<br>  Added March 28, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='WatchNote image 1' src='https://github.com/ezefranca/WatchNote/blob/master/print.png?raw=true'> 
+</div>
+  </details>
+
 - watchOS-2-Sampler: watchOS 2 new features example code  
   <details><summary><code>swift</code> <code>watchos2</code> 🔥🔥🔥</summary>
 
@@ -570,7 +579,7 @@ Click ► to show more details
 [back to top](#readme) 
  
 - Calculator: React Native calculator  
-  <details><summary><code>reactnative</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/benoitvallon/react-native-nw-react-calculator<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Calculator image 1' src='http://i.imgur.com/8OKDHjU.png'> 
@@ -737,9 +746,9 @@ Click ► to show more details
   </details>
 
 - Finance: iOS's Stocks app written in React Native  
-  <details><summary><code>reactnative</code> 🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥</summary>
 
-  https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/7kfpun/Financereact native<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Finance image 1' src='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'> 
 </div>
   </details>
@@ -1019,7 +1028,7 @@ Click ► to show more details
   </details>
 
 - F8 2016: Official F8 app  
-  <details><summary><code>reactnative</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/fbsamples/f8app<br>  Added April 14, 2016<br>  License: `other`
   <div><img height='300' alt='F8 2016 image 1' src='https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png'> 
@@ -1035,7 +1044,7 @@ Click ► to show more details
   </details>
 
 - Nortal TechDay 2015  
-  <details><summary><code>reactnative</code> 🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥</summary>
 
   https://github.com/mikkoj/NortalTechDay<br>  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Nortal TechDay 2015 image 1' src='http://res.cloudinary.com/mikkoj/image/upload/v1467119333/nortal-techday-1.mov_triupn.gif'> <img height='300' alt='Nortal TechDay 2015 image 2' src='http://res.cloudinary.com/mikkoj/image/upload/v1467119489/nortal-techday-2.mov_lcvqqx.gif'> 
@@ -1870,22 +1879,6 @@ Click ► to show more details
 </div>
   </details>
 
-- Alienblast: Cute & sweet shooting game [` App Store`](https://itunes.apple.com/app/id1098323034)  
-  <details><summary><code>swift</code> <code>cocos2d</code> <code>spritebuilder</code> </summary>
-
-  https://github.com/etamity/AlienBlast<br>  Added July 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Alienblast image 1' src='http://a3.mzstatic.com/us/r30/Purple49/v4/fd/71/de/fd71deb3-7e75-2d3d-5de1-e859712af0ef/screen696x696.jpeg'> <img height='300' alt='Alienblast image 2' src='http://a4.mzstatic.com/us/r30/Purple49/v4/ba/35/35/ba35350b-2507-990a-4ee0-b1b4fa822413/screen696x696.jpeg'> <img height='300' alt='Alienblast image 3' src='http://a4.mzstatic.com/us/r30/Purple49/v4/c2/e1/d3/c2e1d311-7d49-2d4b-5948-e13bd7066536/screen696x696.jpeg'> <img height='300' alt='Alienblast image 4' src='http://a1.mzstatic.com/us/r30/Purple49/v4/26/32/be/2632be98-bce4-6a61-2eac-c8417e4b8b1d/screen696x696.jpeg'> <img height='300' alt='Alienblast image 5' src='http://a4.mzstatic.com/us/r30/Purple49/v4/e9/4b/50/e94b50db-71b8-13c8-603f-8cee86236b60/screen696x696.jpeg'> <img height='300' alt='Alienblast image 6' src='http://a4.mzstatic.com/us/r30/Purple49/v4/70/a4/7c/70a47c33-d67c-1563-3bc9-7a238f83d65b/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Balloon Burst  
-  <details><summary><code>cocos2d</code> </summary>
-
-  https://github.com/jamiely/ios-balloon-burst<br>  Added May 16, 2016<br>  License: `other`
-  <div><img height='300' alt='Balloon Burst image 1' src='http://i.imgur.com/z9rNl4a.png'> 
-</div>
-  </details>
-
 - Bat Loves Bugs: Eat as many bugs as you can catch [` App Store`](https://itunes.apple.com/app/bat-loves-bugs/id969817533)  
   <details><summary><code>objc</code> </summary>
 
@@ -2070,14 +2063,6 @@ Click ► to show more details
 </div>
   </details>
 
-- Heredox: Place tiles to form your allegiance's symbols  
-  <details><summary><code>cocos2d</code> </summary>
-
-  https://github.com/RolandasRazma/Heredox<br>  http://www.heredox.com/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Heredox image 1' src='http://i.imgur.com/Wg6TIR7.jpg'> <img height='300' alt='Heredox image 2' src='http://i.imgur.com/PatEcU8.jpg'> 
-</div>
-  </details>
-
 - Hostile Takeover: A release of the real time strategy game Warfare Incorporated  
   <details><summary><code>objc</code> </summary>
 
@@ -2099,14 +2084,6 @@ Click ► to show more details
 
   https://github.com/herzbube/littlego<br>  Added March  6, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='littlego image 1' src='http://a1.mzstatic.com/us/r30/Purple71/v4/ad/36/59/ad3659ad-8c68-5f2f-36ca-fa27d5042e58/screen696x696.jpeg'> <img height='300' alt='littlego image 2' src='http://a2.mzstatic.com/us/r30/Purple62/v4/ba/9e/b6/ba9eb6ca-7c61-2277-4406-3ba863bed714/screen696x696.jpeg'> <img height='300' alt='littlego image 3' src='http://a2.mzstatic.com/us/r30/Purple62/v4/e3/96/b4/e396b4a4-5cd7-847a-a7c4-66f714470699/screen696x696.jpeg'> <img height='300' alt='littlego image 4' src='http://a5.mzstatic.com/us/r30/Purple62/v4/98/48/ab/9848ab1c-831a-c76a-4ad3-c1512b54ef5c/screen696x696.jpeg'> <img height='300' alt='littlego image 5' src='http://a4.mzstatic.com/us/r30/Purple71/v4/9b/52/85/9b528510-9276-04aa-2500-11248a7aca01/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Lumio: Puzzle game  
-  <details><summary><code>cocos2d</code> 🔥</summary>
-
-  https://github.com/sephine/lumio<br>  Added October 27, 2016<br>  License: `other`
-  <div><img height='300' alt='Lumio image 1' src='https://raw.githubusercontent.com/sephine/lumio/master/Lumio/Resources/Screenshots/ScreenShot1.png'> 
 </div>
   </details>
 
@@ -2241,6 +2218,43 @@ Click ► to show more details
 
   https://github.com/id-Software/Wolf3D-iOS<br>  Added May 19, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='Wolfenstein 3D image 1' src='http://a2.mzstatic.com/us/r30/Purple5/v4/7e/e4/82/7ee482ac-e8e2-edef-1187-d27110ed80d3/screen696x696.jpeg'> <img height='300' alt='Wolfenstein 3D image 2' src='http://a1.mzstatic.com/us/r30/Purple1/v4/08/71/7b/08717b85-2044-bc08-0b7e-db345d80ff1d/screen696x696.jpeg'> 
+</div>
+  </details>
+
+
+### Cocos2d 
+ 
+[back to top](#readme) 
+ 
+- Alienblast: Cute & sweet shooting game [` App Store`](https://itunes.apple.com/app/id1098323034)  
+  <details><summary><code>swift</code> <code>spritebuilder</code> </summary>
+
+  https://github.com/etamity/AlienBlast<br>  Added July 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Alienblast image 1' src='http://a3.mzstatic.com/us/r30/Purple49/v4/fd/71/de/fd71deb3-7e75-2d3d-5de1-e859712af0ef/screen696x696.jpeg'> <img height='300' alt='Alienblast image 2' src='http://a4.mzstatic.com/us/r30/Purple49/v4/ba/35/35/ba35350b-2507-990a-4ee0-b1b4fa822413/screen696x696.jpeg'> <img height='300' alt='Alienblast image 3' src='http://a4.mzstatic.com/us/r30/Purple49/v4/c2/e1/d3/c2e1d311-7d49-2d4b-5948-e13bd7066536/screen696x696.jpeg'> <img height='300' alt='Alienblast image 4' src='http://a1.mzstatic.com/us/r30/Purple49/v4/26/32/be/2632be98-bce4-6a61-2eac-c8417e4b8b1d/screen696x696.jpeg'> <img height='300' alt='Alienblast image 5' src='http://a4.mzstatic.com/us/r30/Purple49/v4/e9/4b/50/e94b50db-71b8-13c8-603f-8cee86236b60/screen696x696.jpeg'> <img height='300' alt='Alienblast image 6' src='http://a4.mzstatic.com/us/r30/Purple49/v4/70/a4/7c/70a47c33-d67c-1563-3bc9-7a238f83d65b/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Balloon Burst  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/jamiely/ios-balloon-burst<br>  Added May 16, 2016<br>  License: `other`
+  <div><img height='300' alt='Balloon Burst image 1' src='http://i.imgur.com/z9rNl4a.png'> 
+</div>
+  </details>
+
+- Heredox: Place tiles to form your allegiance's symbols  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/RolandasRazma/Heredox<br>  http://www.heredox.com/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Heredox image 1' src='http://i.imgur.com/Wg6TIR7.jpg'> <img height='300' alt='Heredox image 2' src='http://i.imgur.com/PatEcU8.jpg'> 
+</div>
+  </details>
+
+- Lumio: Puzzle game  
+  <details><summary><code>objc</code> 🔥</summary>
+
+  https://github.com/sephine/lumio<br>  Added October 27, 2016<br>  License: `other`
+  <div><img height='300' alt='Lumio image 1' src='https://raw.githubusercontent.com/sephine/lumio/master/Lumio/Resources/Screenshots/ScreenShot1.png'> 
 </div>
   </details>
 
@@ -3250,7 +3264,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - movieapp: Discover movies & tv shows  
-  <details><summary><code>reactnative</code> <code>tmdb</code> 🔥🔥</summary>
+  <details><summary><code>react native</code> <code>tmdb</code> 🔥🔥</summary>
 
   https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='movieapp image 1' src='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'> 
@@ -3803,7 +3817,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - F8 2016: Official F8 app  
-  <details><summary><code>reactnative</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/fbsamples/f8app<br>  Added April 14, 2016<br>  License: `other`
   <div><img height='300' alt='F8 2016 image 1' src='https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png'> 
@@ -4135,7 +4149,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - 30 days of React Native demos  
-  <details><summary><code>reactnative</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/fangwei716/30-days-of-react-native<br>  Added August 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='30 days of React Native demos image 1' src='https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif'> 
@@ -4155,7 +4169,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Artist: Use Relay to access the Artsy GraphQL API  
-  <details><summary><code>reactnative</code> <code>graphql</code> </summary>
+  <details><summary><code>react native</code> <code>graphql</code> </summary>
 
   https://github.com/orta/Relay-Artist-Example<br>  Added February  7, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Artist image 1' src='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'> 
@@ -4369,7 +4383,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Keybase  
-  <details><summary><code>reactnative</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/keybase/client<br>  Added February  9, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
@@ -4606,7 +4620,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
-  <details><summary><code>swift</code> <code>realm</code> <code>reactnative</code> <code>cartography</code> <code>swiftlint</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> <code>realm</code> <code>react native</code> <code>cartography</code> <code>swiftlint</code> 🔥🔥</summary>
 
   https://github.com/realm-demos/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='http://i.imgur.com/Y9ZG7Of.png'> 
@@ -5409,7 +5423,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - 2048: App by Facebook  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/facebook/react-native/tree/master/Examples/2048<br>  Added February  5, 2016<br>  License: `other`
   <div><img height='300' alt='2048 image 1' src='http://i.imgur.com/JbJSIw4.png'> <img height='300' alt='2048 image 2' src='http://i.imgur.com/B2sBFv7.png'> <img height='300' alt='2048 image 3' src='http://i.imgur.com/d0SYXOl.png'> <img height='300' alt='2048 image 4' src='http://i.imgur.com/5lxxOlk.png'> 
@@ -5417,7 +5431,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - 30 days of React Native demos  
-  <details><summary><code>reactnative</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/fangwei716/30-days-of-react-native<br>  Added August 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='30 days of React Native demos image 1' src='https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif'> 
@@ -5425,7 +5439,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Around Me: Display Instagram photos around your location  
-  <details><summary><code>reactnative</code> 🔥</summary>
+  <details><summary><code>react native</code> 🔥</summary>
 
   https://github.com/bgryszko/react-native-example<br>  Added October 13, 2015<br>  License: `other`
   <div><img height='300' alt='Around Me image 1' src='https://camo.githubusercontent.com/1f889f2b9c10a575083eff28c875ad57063a9db1/68747470733a2f2f63646e2e7261776769742e636f6d2f62677279737a6b6f2f72656163742d6e61746976652d6578616d706c652f6d61737465722f707265766965772e676966'> 
@@ -5433,7 +5447,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Artist: Use Relay to access the Artsy GraphQL API  
-  <details><summary><code>reactnative</code> <code>graphql</code> </summary>
+  <details><summary><code>react native</code> <code>graphql</code> </summary>
 
   https://github.com/orta/Relay-Artist-Example<br>  Added February  7, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Artist image 1' src='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'> 
@@ -5441,7 +5455,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Assemblies: Developer-focused Meetup clone  
-  <details><summary><code>reactnative</code> 🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥</summary>
 
   https://github.com/buildreactnative/assemblies<br>  Added May  2, 2016<br>  License: `other`
   <div><img height='300' alt='Assemblies image 1' src='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-a.png'> <img height='300' alt='Assemblies image 2' src='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-b.png'> <img height='300' alt='Assemblies image 3' src='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-c.png'> 
@@ -5449,7 +5463,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Bíóhúsið: See what movies are playing in Iceland, includes showtimes [` App Store`](https://itunes.apple.com/app/biohusi/id1112946298)  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/birkir/kvikmyndr-app/<br>  Added February 27, 2017<br>  License: `other`
   <div><img height='300' alt='Bíóhúsið image 1' src='http://a3.mzstatic.com/us/r30/Purple122/v4/47/60/af/4760af23-821d-fe64-bef0-609676699d5d/screen696x696.jpeg'> <img height='300' alt='Bíóhúsið image 2' src='http://a3.mzstatic.com/us/r30/Purple111/v4/c2/c2/36/c2c236d9-7144-0a00-54d3-8caffd554174/screen696x696.jpeg'> <img height='300' alt='Bíóhúsið image 3' src='http://a3.mzstatic.com/us/r30/Purple111/v4/9b/15/d4/9b15d4d7-6ca3-1b33-d78c-cd098e35e4af/screen696x696.jpeg'> <img height='300' alt='Bíóhúsið image 4' src='http://a2.mzstatic.com/us/r30/Purple111/v4/c0/e1/83/c0e18311-891e-724b-8d32-e77a9aa3e4a5/screen696x696.jpeg'> 
@@ -5457,7 +5471,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Calculator: React Native calculator  
-  <details><summary><code>reactnative</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/benoitvallon/react-native-nw-react-calculator<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Calculator image 1' src='http://i.imgur.com/8OKDHjU.png'> 
@@ -5465,13 +5479,13 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Currency Converter  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/ashwinpreet/ReactNativeExamples<br>  https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter<br>  Added May 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - Den: View houses for sale in the Northwest  
-  <details><summary><code>reactnative</code> 🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥</summary>
 
   https://github.com/asamiller/den<br>  Added May 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Den image 1' src='https://cloud.githubusercontent.com/assets/5133623/7338978/01976cce-ec13-11e4-9b79-f2e2e47503b6.jpg'> 
@@ -5479,7 +5493,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Dribbble  
-  <details><summary><code>reactnative</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/catalinmiron/react-native-dribbble-app<br>  Added June 13, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Dribbble image 1' src='https://cloud.githubusercontent.com/assets/2805320/8113463/db61b072-1076-11e5-8aa2-52417f019ea0.jpg'> 
@@ -5487,7 +5501,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - F8 2016: Official F8 app  
-  <details><summary><code>reactnative</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/fbsamples/f8app<br>  Added April 14, 2016<br>  License: `other`
   <div><img height='300' alt='F8 2016 image 1' src='https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png'> 
@@ -5495,7 +5509,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Facebook Login  
-  <details><summary><code>reactnative</code> 🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥</summary>
 
   https://github.com/brentvatne/react-native-login<br>  Added April 14, 2015<br>  License: `other`
   <div><img height='300' alt='Facebook Login image 1' src='https://github.com/brentvatne/react-native-login/raw/master/demo!!!.gif'> 
@@ -5503,15 +5517,15 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Finance: iOS's Stocks app written in React Native  
-  <details><summary><code>reactnative</code> 🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥</summary>
 
-  https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/7kfpun/Financereact native<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Finance image 1' src='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'> 
 </div>
   </details>
 
 - Foreign Exchange  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/peralmq/ForeignExchangeApp<br>  Added July 24, 2015<br>  License: `other`
   <div><img height='300' alt='Foreign Exchange image 1' src='https://cloud.githubusercontent.com/assets/238536/7063949/469613cc-deab-11e4-9d67-c727bcc0171b.png'> 
@@ -5519,7 +5533,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Hacker News app by iSimar [` App Store`](https://itunes.apple.com/app/hacker-news-reader-react-native/id1067161633)  
-  <details><summary><code>reactnative</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/iSimar/HackerNews-React-Native<br>  Added July 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Hacker News app by iSimar image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/ca/eb/26/caeb26d6-1bb4-8342-3e84-09dae06966ff/screen696x696.jpeg'> <img height='300' alt='Hacker News app by iSimar image 2' src='http://a1.mzstatic.com/us/r30/Purple69/v4/86/8a/f9/868af914-0fce-cc79-872a-63b96f8f5e53/screen696x696.jpeg'> <img height='300' alt='Hacker News app by iSimar image 3' src='http://a2.mzstatic.com/us/r30/Purple49/v4/ea/57/e6/ea57e6f5-4f1c-01e2-9175-d64833de659e/screen696x696.jpeg'> <img height='300' alt='Hacker News app by iSimar image 4' src='http://a5.mzstatic.com/us/r30/Purple49/v4/3c/b8/87/3cb8878d-44c2-6776-c9a2-6db9964f0ac1/screen696x696.jpeg'> 
@@ -5527,7 +5541,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Hacker News app by jsdf  
-  <details><summary><code>reactnative</code> 🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥</summary>
 
   https://github.com/jsdf/ReactNativeHackerNews<br>  Added March 30, 2016<br>  License: `other`
   <div><img height='300' alt='Hacker News app by jsdf image 1' src='https://camo.githubusercontent.com/f4cd843dea61e9f9c10319fea6ecafb6f2b937d7/687474703a2f2f692e696d6775722e636f6d2f67566d727844652e706e67'> <img height='300' alt='Hacker News app by jsdf image 2' src='https://camo.githubusercontent.com/40c061e190af77493771d432dfc75ba1b8332deb/687474703a2f2f692e696d6775722e636f6d2f46594f674259632e706e67'> 
@@ -5535,7 +5549,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Iceland Earthquakes  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/paranoida/IcelandEarthquakes<br>  Added May  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Iceland Earthquakes image 1' src='https://raw.githubusercontent.com/paranoida/IcelandEarthquakes/master/preview.png'> 
@@ -5543,7 +5557,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - iTunes Catalog Search  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/alexissan/ReactNativeWorkshop<br>  Added June 13, 2015<br>  License: `other`
   <div><img height='300' alt='iTunes Catalog Search image 1' src='https://github.com/alexissan/ReactNativeWorkshop/raw/master/Screenshots/scsh1.png?raw=true'> 
@@ -5551,13 +5565,13 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Keybase  
-  <details><summary><code>reactnative</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/keybase/client<br>  Added February  9, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
 
 - london-react  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/JoeStanton/london-react<br>  Added August  2, 2015<br>  License: `other`
   <div><img height='300' alt='london-react image 1' src='http://i.imgur.com/zcyhbtv.png'> 
@@ -5565,7 +5579,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - movieapp: Discover movies & tv shows  
-  <details><summary><code>reactnative</code> <code>tmdb</code> 🔥🔥</summary>
+  <details><summary><code>react native</code> <code>tmdb</code> 🔥🔥</summary>
 
   https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='movieapp image 1' src='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'> 
@@ -5573,7 +5587,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Movies: App by Facebook  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/facebook/react-native/tree/master/Examples/Movies<br>  Added February  5, 2016<br>  License: `other`
   <div><img height='300' alt='Movies image 1' src='http://i.imgur.com/MvmDyMw.png'> <img height='300' alt='Movies image 2' src='http://i.imgur.com/q0McH8K.png'> 
@@ -5581,7 +5595,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - NBA allyoop: NBA game scores  
-  <details><summary><code>reactnative</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/wwayne/react-native-nba-app<br>  Added January  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='NBA allyoop image 1' src='https://cloud.githubusercontent.com/assets/5305874/12059257/dacf1ad0-af92-11e5-920c-ba4818d8dc1d.png'> 
@@ -5589,7 +5603,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - NBAreact: NBA stats & standings  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/jbkuczma/NBAreact<br>  Added July 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='NBAreact image 1' src='https://github.com/jbkuczma/NBAreact/raw/master/NBAreact_iOS.gif'> 
@@ -5597,7 +5611,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - newswatch: News app based on YouTube playlists  
-  <details><summary><code>reactnative</code> 🔥</summary>
+  <details><summary><code>react native</code> 🔥</summary>
 
   https://github.com/bradoyler/newswatch-react-native<br>  Added May 15, 2015<br>  License: `other`
   <div><img height='300' alt='newswatch image 1' src='https://cloud.githubusercontent.com/assets/425966/7039857/2f122810-dd95-11e4-99c4-db636d4c66a9.gif'> 
@@ -5605,7 +5619,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Nortal TechDay 2015  
-  <details><summary><code>reactnative</code> 🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥</summary>
 
   https://github.com/mikkoj/NortalTechDay<br>  Added May  3, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Nortal TechDay 2015 image 1' src='http://res.cloudinary.com/mikkoj/image/upload/v1467119333/nortal-techday-1.mov_triupn.gif'> <img height='300' alt='Nortal TechDay 2015 image 2' src='http://res.cloudinary.com/mikkoj/image/upload/v1467119489/nortal-techday-2.mov_lcvqqx.gif'> 
@@ -5613,7 +5627,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - PocketNode: Lightweight Node REPL  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/mzabriskie/PocketNode<br>  Added February  4, 2016<br>  License: `other`
   <div><img height='300' alt='PocketNode image 1' src='https://cloud.githubusercontent.com/assets/199035/10439739/49d80e60-70f9-11e5-94b1-16e06eeb3a8f.png'> 
@@ -5621,7 +5635,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - pokemon-map: Locate Pokemon around you  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/bakery/pokemon-map<br>  Added September 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div>
@@ -5629,7 +5643,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - pokevision: Display all the Pokémon around you  
-  <details><summary><code>reactnative</code> <code>goradar</code> </summary>
+  <details><summary><code>react native</code> <code>goradar</code> </summary>
 
   https://github.com/Morhaus/rn-pokevision<br>  Added September  9, 2016<br>  License: `other`
   <div><img height='300' alt='pokevision image 1' src='https://github.com/Morhaus/rn-pokevision/raw/master/screenshot.png'> 
@@ -5637,7 +5651,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Product Kitty: Product Hunt app  
-  <details><summary><code>reactnative</code> 🔥</summary>
+  <details><summary><code>react native</code> 🔥</summary>
 
   https://github.com/rkho/product-kitty<br>  Added September  2, 2015<br>  License: `other`
   <div><img height='300' alt='Product Kitty image 1' src='https://ph-files.imgix.net/8f617c17-4ec6-482d-866d-a65d5387c0ad?auto=format&codec=mozjpeg&cs=strip'> 
@@ -5645,7 +5659,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Property Finder  
-  <details><summary><code>reactnative</code> 🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥</summary>
 
   https://github.com/ColinEberhardt/ReactNative-PropertyFinder<br>  Added April 10, 2015<br>  License: `other`
   <div><img height='300' alt='Property Finder image 1' src='https://koenig-media.raywenderlich.com/uploads/2015/03/PropertyFinder.png'> 
@@ -5653,7 +5667,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
-  <details><summary><code>swift</code> <code>realm</code> <code>reactnative</code> <code>cartography</code> <code>swiftlint</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> <code>realm</code> <code>react native</code> <code>cartography</code> <code>swiftlint</code> 🔥🔥</summary>
 
   https://github.com/realm-demos/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='http://i.imgur.com/Y9ZG7Of.png'> 
@@ -5661,7 +5675,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - RSS Reader  
-  <details><summary><code>reactnative</code> 🔥</summary>
+  <details><summary><code>react native</code> 🔥</summary>
 
   https://github.com/christopherdro/react-native-rss-reader<br>  Added June 22, 2015<br>  License: `other`
   <div><img height='300' alt='RSS Reader image 1' src='https://github.com/christopherdro/react-native-rss-reader/raw/master/RssReaderDemo.gif'> 
@@ -5669,7 +5683,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Songkick  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/ArnaudRinquin/sk-react-native<br>  Added October 27, 2015<br>  License: `other`
   <div><img height='300' alt='Songkick image 1' src='https://github.com/ArnaudRinquin/sk-react-native/raw/master/screenshots.png'> 
@@ -5677,7 +5691,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Spacepics: A small app displaying NASA's Picture of the Day  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/campezzi/react-native-spacepics<br>  Added May 26, 2015<br>  License: `other`
   <div><img height='300' alt='Spacepics image 1' src='http://i.imgur.com/YENtnhd.png'> 
@@ -5685,7 +5699,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Sudoku  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/christopherdro/react-native-sudoku<br>  Added March 10, 2016<br>  License: `other`
   <div><img height='300' alt='Sudoku image 1' src='https://github.com/christopherdro/react-native-sudoku/raw/master/demo.gif'> 
@@ -5693,7 +5707,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - TicTacToe: App by Facebook  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/facebook/react-native/tree/master/Examples/TicTacToe<br>  Added February  5, 2016<br>  License: `other`
   <div><img height='300' alt='TicTacToe image 1' src='http://i.giphy.com/3oKIPyok1FHmdX4FuE.gif'> 
@@ -5701,13 +5715,13 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - To Do List  
-  <details><summary><code>reactnative</code> 🔥</summary>
+  <details><summary><code>react native</code> 🔥</summary>
 
   https://github.com/joemaddalone/react-native-todo<br>  Added June 20, 2016<br>  License: `other`
   </details>
 
 - To Do List (Redux): Uses Redux for managing app state  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/uiheros/react-native-redux-todo-list<br>  Added June 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='To Do List (Redux) image 1' src='https://github.com/uiheros/react-native-redux-todo-list/raw/master/todolist.gif'> 
@@ -5715,7 +5729,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Twitch  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/IFours/react-native-twitch<br>  Added February  4, 2016<br>  License: `other`
   <div><img height='300' alt='Twitch image 1' src='https://github.com/IFours/react-native-twitch/raw/rn0.15/assets/twitch.gif'> 
@@ -5723,7 +5737,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - UIExplorer: App by Facebook  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/facebook/react-native/tree/master/Examples/UIExplorer<br>  Added February  5, 2016<br>  License: `other`
   <div><img height='300' alt='UIExplorer image 1' src='http://i.imgur.com/DYqIgci.png'> <img height='300' alt='UIExplorer image 2' src='http://i.imgur.com/0AO67Ft.png'> <img height='300' alt='UIExplorer image 3' src='http://i.imgur.com/PDwLOQk.png'> <img height='300' alt='UIExplorer image 4' src='http://i.imgur.com/s7gWFoy.png'> 
@@ -5731,7 +5745,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Weather by JakeLin  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/JakeLin/ReactNativeWeather<br>  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Weather by JakeLin image 1' src='https://raw.githubusercontent.com/JakeLin/ReactNativeWeather/master/screenshots/screenshot-iOS.png'> 
@@ -5739,7 +5753,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Weather by jsphkhan  
-  <details><summary><code>reactnative</code> </summary>
+  <details><summary><code>react native</code> </summary>
 
   https://github.com/jsphkhan/ReactNativeExamples<br>  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp<br>  Added May  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Weather by jsphkhan image 1' src='https://camo.githubusercontent.com/d8d6748920497b1f6da276dbe7af715fa8df8a6a/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e312e706e67'> <img height='300' alt='Weather by jsphkhan image 2' src='https://camo.githubusercontent.com/dd8f80345ddd2a2f17663d07e3f38259a8f36982/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e322e706e67'> <img height='300' alt='Weather by jsphkhan image 3' src='https://camo.githubusercontent.com/da5efecec43f93228bb766d70ff7a33ad09d2d17/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e332e706e67'> 
@@ -5800,7 +5814,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
-  <details><summary><code>swift</code> <code>realm</code> <code>reactnative</code> <code>cartography</code> <code>swiftlint</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> <code>realm</code> <code>react native</code> <code>cartography</code> <code>swiftlint</code> 🔥🔥</summary>
 
   https://github.com/realm-demos/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='http://i.imgur.com/Y9ZG7Of.png'> 
