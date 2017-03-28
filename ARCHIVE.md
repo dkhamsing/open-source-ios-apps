@@ -6,8 +6,9 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Adler Planetarium Navigation & Tour https://github.com/lucasqiu/Adler-Mobile-App
 - Alien Blue https://github.com/alienblue/AlienBlue
 - Alphabet-Blocks https://github.com/insurgentgames/Alphabet-Blocks
-- AnyWall https://github.com/opensourceios/AnyWall
 - Anypic https://github.com/opensourceios/Anypic
+- AnyWall https://github.com/opensourceios/AnyWall
+- apnagent-ios https://github.com/logicalparadox/apnagent-ios
 - AppSales-Mobile https://github.com/omz/AppSales-Mobile
 - Bancha https://github.com/squallstar/bancha-ios-app
 - Be my eyes https://github.com/opensourceios/bemyeyes-ios
@@ -17,8 +18,11 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - DrugsNRock https://github.com/biou/DrugsNRock
 - Everest https://github.com/EverestOpenSource/Everest-iOS
 - FinalFighter https://github.com/sebcode/FinalFighter-iphone
+- github-issues https://github.com/chriseidhof/github-issues
 - Google Feud https://github.com/opensourceios/Google-Feud-iOS
 - Hack Cancer Hackathon https://github.com/HackCancer/iOS
+- iLabyrinth https://github.com/RolandasRazma/iLabyrinth
+- iOctocat https://github.com/dennisreimann/ioctocat
 - Jupp https://github.com/dasdom/Jupp
 - LastFM https://github.com/lastfm/lastfm-iphone
 - Letters https://github.com/jessegrosjean/letters.iphone
@@ -39,17 +43,13 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - SudokuResolv https://github.com/Haoest/SudokuResolv
 - Swift Off https://github.com/opensourceios/swift-off-todo
 - TaskPaper https://github.com/jessegrosjean/NOTTaskPaperForIOS
+- theNews https://github.com/TosinAF/thenews-objc
 - Toggl Timer https://github.com/opensourceios/toggle-mobile
 - Vim https://github.com/applidium/Vim
 - WatchNotes https://github.com/azamsharp/WatchNotes
+- wikiHow https://github.com/tderouin/wikiHow-iPhone-Application
 - XPilot http://7b5labs.com/xpilot.git/
 - Yorkie https://github.com/opensourceios/YorkieApp
-- apnagent-ios https://github.com/logicalparadox/apnagent-ios
-- github-issues https://github.com/chriseidhof/github-issues
-- iLabyrinth https://github.com/RolandasRazma/iLabyrinth
-- iOctocat https://github.com/dennisreimann/ioctocat
-- theNews https://github.com/TosinAF/thenews-objc
-- wikiHow https://github.com/tderouin/wikiHow-iPhone-Application
 
 ## Contact
 
