@@ -12478,6 +12478,17 @@
       "license": "other",
       "date_added": "Mar 24 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "WatchNote",
+      "description": "Control your Keynote using Apple Watch",
+      "source": "https://github.com/ezefranca/WatchNote",
+      "category-ids": ["apple-watch"],
+      "screenshots": ["https://github.com/ezefranca/WatchNote/blob/master/print.png?raw=true"],
+      "tags": ["swift"],
+      "license": "apache-2.0",
+      "date_added": "Mar 28 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
