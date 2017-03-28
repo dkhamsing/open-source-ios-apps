@@ -8,7 +8,7 @@ ARCHIVE_TAG = 'archive'
 
 def apps_archived(apps)
   a = apps.select {|a| a['tags'] != nil }.select {|b| b['tags'].include?ARCHIVE_TAG}
-  a.sort_by { |k, v| k['title'] }
+  a.sort_by { |k, v| k['title'].downcase }
 end
 
 def apps_for_cat(apps, id)
