@@ -1062,7 +1062,7 @@
         "carthage",
         "alamofire",
         "snapkit",
-        "libPhoneNumber"
+        "libphonenumber"
       ],
       "date_added": "Mon Jan 26 19:08:04 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -2060,7 +2060,7 @@
       "tags": [
         "swift",
         "cocos2d",
-        "SpriteBuilder"
+        "spritebuilder"
       ],
       "date_added": "Mon Jul 18 15:35:21 2016 +0100",
       "suggested_by": "@etamity",
@@ -2326,8 +2326,8 @@
         "swift",
         "swift2",
         "ios9",
-        "SpriteKit",
-        "GameplayKit",
+        "spritekit",
+        "gameplaykit",
         "replaykit"
       ],
       "stars": 37,
@@ -3064,7 +3064,7 @@
         "location"
       ],
       "tags": [
-        "cocoaLumberjack"
+        "cocoalumberjack"
       ],
       "description": "Keep track of your own location, you can build your private location diary or share it with your family & friends",
       "source": "https://github.com/owntracks/ios",
@@ -3360,7 +3360,7 @@
       ],
       "tags": [
         "afnetworking",
-        "MPMoviePlayer",
+        "mpmovieplayer",
         "iphone"
       ],
       "description": "https://douban.fm/ app",
@@ -4850,7 +4850,10 @@
       "screenshots": [
         "http://a4.mzstatic.com/us/r30/Purple5/v4/66/8b/9c/668b9cf1-3502-3683-7787-ef450ef90019/screen696x696.jpeg"
       ],
-      "tags": ["swift", "moa"]
+      "tags": [
+        "swift",
+        "moa"
+      ]
     },
     {
       "title": "MasterPassword",
@@ -5209,7 +5212,7 @@
       "stars": 340,
       "tags": [
         "swift",
-        "Typhoon"
+        "typhoon"
       ],
       "screenshots": [
         "http://typhoonframework.org/images/portfolio/PocketForecast3.gif"
@@ -5475,9 +5478,8 @@
         "communication"
       ],
       "tags": [
-        "afnetworking",
-        "masonry",
-        "sdwebimage"
+        "archive",
+        "afnetworking"
       ],
       "description": "Connect blind people with volunteer helpers via live video chat",
       "source": "https://github.com/opensourceios/bemyeyes-ios",
@@ -5486,7 +5488,6 @@
       "license": "mit",
       "date_added": "Mon Oct 12 12:04:57 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "tags": ["archive", "afnetworking"],
       "screenshots": [
         "http://a2.mzstatic.com/us/r30/Purple49/v4/91/f6/9c/91f69c78-b178-439c-22e1-badfc60ae90e/screen696x696.jpeg",
         "http://a2.mzstatic.com/us/r30/Purple69/v4/88/3d/64/883d643a-287a-452c-c45d-5c71427c31e8/screen696x696.jpeg",
@@ -9462,7 +9463,7 @@
         "game"
       ],
       "tags": [
-        "UIViewPropertyAnimator"
+        "uiviewpropertyanimator"
       ],
       "description": "Escape from the squares",
       "source": "https://github.com/JakeLin/SaveTheDot",
@@ -10100,7 +10101,7 @@
         "swift",
         "carthage",
         "afnetworking",
-        "PureLayout"
+        "purelayout"
       ],
       "license": "gpl-3.0",
       "stars": 1789,
@@ -10737,7 +10738,7 @@
       ],
       "tags": [
         "react native",
-        "GoRadar"
+        "goradar"
       ],
       "screenshots": [
         "https://github.com/Morhaus/rn-pokevision/raw/master/screenshot.png"
@@ -10797,6 +10798,7 @@
         "react native"
       ],
       "screenshots": [
+
       ],
       "license": "mit",
       "date_added": "Sep 14 2016",
@@ -11045,7 +11047,7 @@
         "swift",
         "swiftyjson",
         "alamofire",
-        "DZNEmptyDataSet"
+        "dznemptydataset"
       ],
       "screenshots": [
         "http://a2.mzstatic.com/us/r30/Purple49/v4/6a/24/b7/6a24b73c-dc99-d96f-93e8-268f9bb74268/screen696x696.jpeg",
@@ -11491,7 +11493,7 @@
         "iphone",
         "ipad",
         "kissxml",
-        "DZNEmptyDataSet",
+        "dznemptydataset",
         "dtbonjour",
         "samkeychain"
       ],
@@ -12342,9 +12344,15 @@
       "description": "How to prounounce programming terms in English",
       "source": "https://github.com/lexrus/Huahui",
       "homepage": "https://twitter.com/lexrus/status/836928202912063491",
-      "screenshots": ["https://media.giphy.com/media/3oKIPvvaugnP88DdOE/source.gif"],
-      "tags": ["swift"],
-      "category-ids": ["developer"],
+      "screenshots": [
+        "https://media.giphy.com/media/3oKIPvvaugnP88DdOE/source.gif"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "category-ids": [
+        "developer"
+      ],
       "lang": "zho",
       "license": "other",
       "date_added": "Mar 2 2017",
@@ -12354,9 +12362,18 @@
       "title": "RealmPop",
       "description": "Platform / multiplayer game where players pair up to clear a level of bubbles",
       "source": "https://github.com/realm/RealmPop",
-      "category-ids": ["game", "realm"],
-      "screenshots": ["http://i.imgur.com/pTxoTPX.png", "http://i.imgur.com/Zrvfypq.png"],
-      "tags": ["swift", "realm"],
+      "category-ids": [
+        "game",
+        "realm"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/pTxoTPX.png",
+        "http://i.imgur.com/Zrvfypq.png"
+      ],
+      "tags": [
+        "swift",
+        "realm"
+      ],
       "license": "other",
       "date_added": "Mar 7 2017",
       "suggested_by": "@dkhamsing"
@@ -12365,24 +12382,39 @@
       "title": "graygram",
       "source": "https://github.com/devxoul/graygram-ios",
       "description": "Instagram clone",
-      "category-ids": ["clone"],
-      "tags": ["swift", "alamofire", "kingfisher"],
-      "screenshots": ["https://cloud.githubusercontent.com/assets/931655/23171892/4d3fd606-f897-11e6-87e0-7230d3010c7b.png"],
+      "category-ids": [
+        "clone"
+      ],
+      "tags": [
+        "swift",
+        "alamofire",
+        "kingfisher"
+      ],
+      "screenshots": [
+        "https://cloud.githubusercontent.com/assets/931655/23171892/4d3fd606-f897-11e6-87e0-7230d3010c7b.png"
+      ],
       "license": "mit",
       "date_added": "Mar 10 2017",
       "suggested_by": "@dkhamsing"
     },
     {
       "title": "BoardBank",
-      "category-ids": ["finance"],
+      "category-ids": [
+        "finance"
+      ],
       "description": "Money manager for board games",
       "source": "https://github.com/richardxyx/BoardBank",
       "homepage": "http://www.richardneitzke.com",
       "itunes": "https://itunes.apple.com/app/boardbank-money-manager-for/id1191367526",
       "license": "mit",
       "stars": 45,
-      "tags": ["swift"],
-      "screenshots": ["http://i.imgur.com/fXB42iY.png", "http://i.imgur.com/EMGOw0g.png"],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/fXB42iY.png",
+        "http://i.imgur.com/EMGOw0g.png"
+      ],
       "date_added": "Mar 20 2017",
       "suggested_by": "@richardxyx"
     },
@@ -12390,9 +12422,15 @@
       "title": "Giovanni",
       "description": "Gameboy emulator for the Apple Watch",
       "source": "https://github.com/gabrieloc/GIOVANNI",
-      "category-ids": ["apple-watch"],
-      "screenshots": ["https://github.com/gabrieloc/GIOVANNI/blob/master/gameplay.gif?raw=true"],
-      "tags": ["swift"],
+      "category-ids": [
+        "apple-watch"
+      ],
+      "screenshots": [
+        "https://github.com/gabrieloc/GIOVANNI/blob/master/gameplay.gif?raw=true"
+      ],
+      "tags": [
+        "swift"
+      ],
       "license": "other",
       "date_added": "Mar 20 2017",
       "suggested_by": "@dkhamsing"
@@ -12400,9 +12438,17 @@
     {
       "title": "IBCalculator",
       "source": "https://github.com/JakeLin/IBCalculator",
-      "category-ids": ["calculator"],
-      "screenshots": ["https://raw.githubusercontent.com/JakeLin/IBCalculator/master/screenshots/IBCalcalator-iPhone.png"],
-      "tags": ["swift", "ibinspectable", "ibdesignable"],
+      "category-ids": [
+        "calculator"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/JakeLin/IBCalculator/master/screenshots/IBCalcalator-iPhone.png"
+      ],
+      "tags": [
+        "swift",
+        "ibinspectable",
+        "ibdesignable"
+      ],
       "license": "other",
       "date_added": "Mar 23 2017",
       "suggested_by": "@dkhamsing"
@@ -12410,8 +12456,13 @@
     {
       "title": "github-issues",
       "source": "https://github.com/chriseidhof/github-issues",
-      "category-ids": ["github"],
-      "tags": ["swift", "archive"],
+      "category-ids": [
+        "github"
+      ],
+      "tags": [
+        "swift",
+        "archive"
+      ],
       "screenshots": [
         "http://i.imgur.com/KOUAgX6.png",
         "http://i.imgur.com/MeDP8s0.png",
@@ -12424,8 +12475,12 @@
     {
       "title": "Calculator by BalestraPatrick",
       "source": "https://github.com/BalestraPatrick/AppleWatchCalculator",
-      "category-ids": ["apple-watch"],
-      "screenshots": ["https://github.com/BalestraPatrick/AppleWatchCalculator/blob/master/Screenshot1.png?raw=true"],
+      "category-ids": [
+        "apple-watch"
+      ],
+      "screenshots": [
+        "https://github.com/BalestraPatrick/AppleWatchCalculator/blob/master/Screenshot1.png?raw=true"
+      ],
       "license": "other",
       "date_added": "Mar 24 2017",
       "suggested_by": "@dkhamsing"
