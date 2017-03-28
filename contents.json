@@ -86,6 +86,11 @@
       "id": "game"
     },
     {
+      "title": "Cocos2d",
+      "id": "cocos2d",
+      "parent": "game"
+    },
+    {
       "title": "SpriteKit",
       "id": "spritekit",
       "parent": "game"
@@ -2051,7 +2056,7 @@
     {
       "title": "Alienblast",
       "category-ids": [
-        "game"
+        "cocos2d"
       ],
       "description": "Cute & sweet shooting game",
       "source": "https://github.com/etamity/AlienBlast",
@@ -2059,7 +2064,6 @@
       "license": "mit",
       "tags": [
         "swift",
-        "cocos2d",
         "spritebuilder"
       ],
       "date_added": "Mon Jul 18 15:35:21 2016 +0100",
@@ -7966,9 +7970,6 @@
     {
       "title": "Balloon Burst",
       "category-ids": [
-        "game"
-      ],
-      "tags": [
         "cocos2d"
       ],
       "screenshots": [
@@ -8367,13 +8368,12 @@
     {
       "title": "iLabyrinth",
       "category-ids": [
-        "game"
+        "cocos2d"
       ],
       "description": "Escape the labyrinth by following limited paths",
       "source": "https://github.com/RolandasRazma/iLabyrinth",
       "tags": [
-        "archive",
-        "cocos2d"
+        "archive"
       ],
       "screenshots": [
         "https://camo.githubusercontent.com/47e8768f3186834060e7533fe154ec949233c0b6/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f72313030302f3037352f507572706c652f34302f61372f36382f6d7a6c2e62646c79617466752e333230783438302d37352e6a7067"
@@ -8386,7 +8386,7 @@
     {
       "title": "Heredox",
       "category-ids": [
-        "game"
+        "cocos2d"
       ],
       "description": "Place tiles to form your allegiance's symbols",
       "source": "https://github.com/RolandasRazma/Heredox",
@@ -8394,9 +8394,6 @@
       "screenshots": [
         "http://i.imgur.com/Wg6TIR7.jpg",
         "http://i.imgur.com/PatEcU8.jpg"
-      ],
-      "tags": [
-        "cocos2d"
       ],
       "license": "mit",
       "date_added": "Wed Jun 1 00:56:23 2016 -0600",
@@ -11132,7 +11129,7 @@
     {
       "title": "FinalFighter",
       "category-ids": [
-        "game"
+        "cocos2d"
       ],
       "source": "https://github.com/sebcode/FinalFighter-iphone",
       "description": "Tank-battle game",
@@ -11201,9 +11198,6 @@
     {
       "title": "Lumio",
       "category-ids": [
-        "game"
-      ],
-      "tags": [
         "cocos2d"
       ],
       "screenshots": [
