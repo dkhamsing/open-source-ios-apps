@@ -6664,7 +6664,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "screenshots": [
         "http://i.imgur.com/JbJSIw4.png",
@@ -6673,7 +6674,7 @@
         "http://i.imgur.com/5lxxOlk.png"
       ],
       "description": "App by Facebook",
-      "source": "https://github.com/facebook/react-native/tree/master/Examples/2048",
+      "source": "https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/2048",
       "license": "other",
       "date_added": "Fri, 5 Feb 2016 07:55:10 -0800",
       "suggested_by": "@dkhamsing"
@@ -6684,14 +6685,15 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "screenshots": [
         "http://i.imgur.com/MvmDyMw.png",
         "http://i.imgur.com/q0McH8K.png"
       ],
       "description": "App by Facebook",
-      "source": "https://github.com/facebook/react-native/tree/master/Examples/Movies",
+      "source": "https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/Movies",
       "license": "other",
       "date_added": "Fri, 5 Feb 2016 07:55:10 -0800",
       "suggested_by": "@dkhamsing"
@@ -6702,13 +6704,14 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "screenshots": [
         "http://i.giphy.com/3oKIPyok1FHmdX4FuE.gif"
       ],
       "description": "App by Facebook",
-      "source": "https://github.com/facebook/react-native/tree/master/Examples/TicTacToe",
+      "source": "https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/TicTacToe",
       "license": "other",
       "date_added": "Fri, 5 Feb 2016 07:55:10 -0800",
       "suggested_by": "@dkhamsing"
