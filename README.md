@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-644-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2028,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-644-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2029,%202017-lightgrey.svg)
 
 Jump to
 
@@ -742,14 +742,6 @@ Click ► to show more details
 
   https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
-</div>
-  </details>
-
-- Finance: iOS's Stocks app written in React Native  
-  <details><summary><code>react native</code> 🔥🔥🔥</summary>
-
-  https://github.com/7kfpun/Financereact native<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Finance image 1' src='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'> 
 </div>
   </details>
 
@@ -5422,14 +5414,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- 2048: App by Facebook  
-  <details><summary><code>react native</code> </summary>
-
-  https://github.com/facebook/react-native/tree/master/Examples/2048<br>  Added February  5, 2016<br>  License: `other`
-  <div><img height='300' alt='2048 image 1' src='http://i.imgur.com/JbJSIw4.png'> <img height='300' alt='2048 image 2' src='http://i.imgur.com/B2sBFv7.png'> <img height='300' alt='2048 image 3' src='http://i.imgur.com/d0SYXOl.png'> <img height='300' alt='2048 image 4' src='http://i.imgur.com/5lxxOlk.png'> 
-</div>
-  </details>
-
 - 30 days of React Native demos  
   <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
@@ -5516,14 +5500,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 
-- Finance: iOS's Stocks app written in React Native  
-  <details><summary><code>react native</code> 🔥🔥🔥</summary>
-
-  https://github.com/7kfpun/Financereact native<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Finance image 1' src='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'> 
-</div>
-  </details>
-
 - Foreign Exchange  
   <details><summary><code>react native</code> </summary>
 
@@ -5583,14 +5559,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='movieapp image 1' src='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'> 
-</div>
-  </details>
-
-- Movies: App by Facebook  
-  <details><summary><code>react native</code> </summary>
-
-  https://github.com/facebook/react-native/tree/master/Examples/Movies<br>  Added February  5, 2016<br>  License: `other`
-  <div><img height='300' alt='Movies image 1' src='http://i.imgur.com/MvmDyMw.png'> <img height='300' alt='Movies image 2' src='http://i.imgur.com/q0McH8K.png'> 
 </div>
   </details>
 
@@ -5703,14 +5671,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/christopherdro/react-native-sudoku<br>  Added March 10, 2016<br>  License: `other`
   <div><img height='300' alt='Sudoku image 1' src='https://github.com/christopherdro/react-native-sudoku/raw/master/demo.gif'> 
-</div>
-  </details>
-
-- TicTacToe: App by Facebook  
-  <details><summary><code>react native</code> </summary>
-
-  https://github.com/facebook/react-native/tree/master/Examples/TicTacToe<br>  Added February  5, 2016<br>  License: `other`
-  <div><img height='300' alt='TicTacToe image 1' src='http://i.giphy.com/3oKIPyok1FHmdX4FuE.gif'> 
 </div>
   </details>
 
