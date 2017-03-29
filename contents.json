@@ -139,6 +139,11 @@
       "parent": "media"
     },
     {
+      "title": "Photo",
+      "id": "photo",
+      "parent": "media"
+    },
+    {
       "title": "Video",
       "id": "video",
       "parent": "media"
@@ -3304,7 +3309,7 @@
     {
       "title": "CollageMaker",
       "category-ids": [
-        "media"
+        "photo"
       ],
       "tags": [
         "instagram api"
@@ -3322,7 +3327,7 @@
     {
       "title": "ColorBlur",
       "category-ids": [
-        "media"
+        "photo"
       ],
       "description": "Add blur to your photos",
       "source": "https://github.com/maurovc/ColorBlur",
@@ -3503,7 +3508,7 @@
     {
       "title": "Megabite",
       "category-ids": [
-        "media"
+        "photo"
       ],
       "description": "Turn a photo of your food into a face",
       "source": "https://github.com/AaronRandall/Megabite",
@@ -5604,7 +5609,7 @@
     {
       "title": "EmotionNote Diary",
       "category-ids": [
-        "media"
+        "photo"
       ],
       "description": "Choose or take a photo of your face & the app will tell you your emotion",
       "license": "mit",
@@ -10336,7 +10341,7 @@
     {
       "title": "PixPic",
       "category-ids": [
-        "media"
+        "photo"
       ],
       "description": "Photo editing",
       "source": "https://github.com/Yalantis/PixPic",
