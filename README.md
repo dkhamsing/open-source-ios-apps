@@ -745,6 +745,14 @@ Click ► to show more details
 </div>
   </details>
 
+- Finance: iOS's Stocks app written in React Native  
+  <details><summary><code>react native</code> 🔥🔥🔥</summary>
+
+  https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Finance image 1' src='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'> 
+</div>
+  </details>
+
 - FlappySwift: Swift implementation of Flappy Bird  
   <details><summary><code>swift</code> 🔥🔥🔥🔥🔥</summary>
 
@@ -5497,6 +5505,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/brentvatne/react-native-login<br>  Added April 14, 2015<br>  License: `other`
   <div><img height='300' alt='Facebook Login image 1' src='https://github.com/brentvatne/react-native-login/raw/master/demo!!!.gif'> 
+</div>
+  </details>
+
+- Finance: iOS's Stocks app written in React Native  
+  <details><summary><code>react native</code> 🔥🔥🔥</summary>
+
+  https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Finance image 1' src='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'> 
 </div>
   </details>
 
