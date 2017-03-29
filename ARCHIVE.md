@@ -19,7 +19,6 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - DrugsNRock https://github.com/biou/DrugsNRock
 - Everest https://github.com/EverestOpenSource/Everest-iOS
 - FinalFighter https://github.com/sebcode/FinalFighter-iphone
-- Finance https://github.com/7kfpun/Financereact native
 - github-issues https://github.com/chriseidhof/github-issues
 - Google Feud https://github.com/opensourceios/Google-Feud-iOS
 - Hack Cancer Hackathon https://github.com/HackCancer/iOS
