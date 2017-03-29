@@ -2,6 +2,7 @@
 
 This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.
 
+- 2048 https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/2048
 - ABU https://github.com/flexih/ABU
 - Adler Planetarium Navigation & Tour https://github.com/lucasqiu/Adler-Mobile-App
 - Alien Blue https://github.com/alienblue/AlienBlue
@@ -18,6 +19,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - DrugsNRock https://github.com/biou/DrugsNRock
 - Everest https://github.com/EverestOpenSource/Everest-iOS
 - FinalFighter https://github.com/sebcode/FinalFighter-iphone
+- Finance https://github.com/7kfpun/Financereact native
 - github-issues https://github.com/chriseidhof/github-issues
 - Google Feud https://github.com/opensourceios/Google-Feud-iOS
 - Hack Cancer Hackathon https://github.com/HackCancer/iOS
@@ -27,6 +29,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - LastFM https://github.com/lastfm/lastfm-iphone
 - Letters https://github.com/jessegrosjean/letters.iphone
 - Light-Jockey https://github.com/jmfieldman/Light-Jockey
+- Movies https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/Movies
 - Mume https://github.com/opensourceios/Mume
 - Munch https://github.com/opensourceios/Munch
 - OpenCB https://github.com/opensourceios/OpenCB
@@ -44,6 +47,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Swift Off https://github.com/opensourceios/swift-off-todo
 - TaskPaper https://github.com/jessegrosjean/NOTTaskPaperForIOS
 - theNews https://github.com/TosinAF/thenews-objc
+- TicTacToe https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/TicTacToe
 - Toggl Timer https://github.com/opensourceios/toggle-mobile
 - Vim https://github.com/applidium/Vim
 - WatchNotes https://github.com/azamsharp/WatchNotes
