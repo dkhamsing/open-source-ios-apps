@@ -688,6 +688,22 @@
       "suggested_by": "@dkhamsing"
     },
     {
+      "title": "React Native Hacker News",
+      "category-ids": [
+        "hacker-news",
+        "react-native"
+      ],
+      "description": "A simple, clean HackerNews client written in React-Native",
+      "source": "https://github.com/G2Jose/ReactNative-HackerNews",
+      "screenshots": [
+        "https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines.png",
+        "https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/story.png",
+        "https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines_loading.png"
+      ],
+      "date_added": "Mar 30 2017",
+      "suggested_by": "@g2jose"
+    },
+    {
       "title": "HN Reader",
       "category-ids": [
         "apple-watch",
