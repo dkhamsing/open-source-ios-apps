@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-644-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2029,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-644-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2030,%202017-lightgrey.svg)
 
 Jump to
 
@@ -40,6 +40,7 @@ Jump to
   - [Audio](#audio) 
   - [Content](#content) 
   - [GIF](#gif) 
+  - [Photo](#photo) 
   - [Video](#video) 
 - [News](#news) 
   - [Hacker News](#hacker-news) 
@@ -165,7 +166,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Uncle Nagy's House: Watch episodes of the sitcom [` App Store`](https://itunes.apple.com/us/app/id1042172021)  
+- Uncle Nagy's House: Watch episodes of the sitcom  
   <details><summary><code>tvml</code> <code>gulp</code> <code>jade</code> <code>coffeescript</code> </summary>
 
   https://github.com/kenmickles/unh_tvos<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -2861,35 +2862,11 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- CollageMaker: Make photo collages  
-  <details><summary><code>instagram api</code> </summary>
-
-  https://github.com/Azoft/CollageMaker-iOS<br>  Added January 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='CollageMaker image 1' src='http://i.imgur.com/bOySdOv.png'> 
-</div>
-  </details>
-
-- ColorBlur: Add blur to your photos [` App Store`](https://itunes.apple.com/app/id928863510)  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/maurovc/ColorBlur<br>  Added March 16, 2015<br>  License: `other`
-  <div><img height='300' alt='ColorBlur image 1' src='http://a5.mzstatic.com/us/r30/Purple3/v4/68/3f/1b/683f1b36-f274-e2f0-64a6-ae00aadca2ab/screen696x696.jpeg'> <img height='300' alt='ColorBlur image 2' src='http://a4.mzstatic.com/us/r30/Purple1/v4/bb/b9/f5/bbb9f50a-4358-a5d0-604f-29e29ed7677f/screen696x696.jpeg'> <img height='300' alt='ColorBlur image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/f9/8c/11/f98c116a-a49a-598e-e5d7-be0684c35bc5/screen696x696.jpeg'> <img height='300' alt='ColorBlur image 4' src='http://a5.mzstatic.com/us/r30/Purple1/v4/ff/6b/2c/ff6b2c22-68be-1f50-868a-e23ff8add3aa/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - ComicFlow: Comic reader [` App Store`](https://itunes.apple.com/app/comicflow/id409290355)  
   <details><summary><code>ipad</code> 🔥🔥</summary>
 
   https://github.com/swisspol/ComicFlow<br>  Added August 13, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='ComicFlow image 1' src='http://a5.mzstatic.com/us/r30/Purple/v4/d4/c0/91/d4c09117-c6df-beaa-db5f-0566be580645/screen480x480.jpeg'> 
-</div>
-  </details>
-
-- EmotionNote Diary: Choose or take a photo of your face & the app will tell you your emotion  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/Yogayu/EmotionNote<br>  Added April 19, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='EmotionNote Diary image 1' src='https://github.com/Yogayu/EmotionNote/raw/master/imgs/Desktop%20HD.png'> 
 </div>
   </details>
 
@@ -2965,14 +2942,6 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- Megabite: Turn a photo of your food into a face  
-  <details><summary><code>opencv</code> <code>pop</code> 🔥🔥</summary>
-
-  https://github.com/AaronRandall/Megabite<br>  Added February  2, 2016<br>  License: `other`
-  <div><img height='300' alt='Megabite image 1' src='https://github.com/AaronRandall/Megabite/raw/master/Megabite/Assets.xcassets/Megabite.gif'> 
-</div>
-  </details>
-
 - Meme Maker: Create & share memes [` App Store`](https://itunes.apple.com/app/id962121383)  
   <details><summary><code>swift</code> </summary>
 
@@ -2994,14 +2963,6 @@ Image, video, audio, reading — [back to top](#readme)
 
   https://github.com/MrAdamBoyd/Pictograph<br>  Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Pictograph image 1' src='http://a3.mzstatic.com/us/r30/Purple69/v4/ce/65/eb/ce65eb78-616b-b274-0f3d-52c73818cd4c/screen696x696.jpeg'> <img height='300' alt='Pictograph image 2' src='http://a4.mzstatic.com/us/r30/Purple69/v4/3c/ac/c3/3cacc3cd-dcc9-98da-26ea-6ec44691ebcd/screen696x696.jpeg'> <img height='300' alt='Pictograph image 3' src='http://a5.mzstatic.com/us/r30/Purple7/v4/0b/4a/a3/0b4aa3eb-cdec-8563-c3de-5fbb80de6b04/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- PixPic: Photo editing  
-  <details><summary><code>swift</code> 🔥🔥🔥</summary>
-
-  https://github.com/Yalantis/PixPic<br>  Added July 29, 2016<br>  License: `other`
-  <div><img height='300' alt='PixPic image 1' src='http://i.imgur.com/c8ahfkv.png'> 
 </div>
   </details>
 
@@ -3511,6 +3472,51 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/pjchavarria/Swift-Gif<br>  Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Swift-Gif image 1' src='https://github.com/pjchavarria/Swift-Gif/blob/master/Swift-Gif/demo.gif'> 
+</div>
+  </details>
+
+
+### Photo 
+ 
+[back to top](#readme) 
+ 
+- CollageMaker: Make photo collages  
+  <details><summary><code>instagram api</code> </summary>
+
+  https://github.com/Azoft/CollageMaker-iOS<br>  Added January 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='CollageMaker image 1' src='http://i.imgur.com/bOySdOv.png'> 
+</div>
+  </details>
+
+- ColorBlur: Add blur to your photos [` App Store`](https://itunes.apple.com/app/id928863510)  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/maurovc/ColorBlur<br>  Added March 16, 2015<br>  License: `other`
+  <div><img height='300' alt='ColorBlur image 1' src='http://a5.mzstatic.com/us/r30/Purple3/v4/68/3f/1b/683f1b36-f274-e2f0-64a6-ae00aadca2ab/screen696x696.jpeg'> <img height='300' alt='ColorBlur image 2' src='http://a4.mzstatic.com/us/r30/Purple1/v4/bb/b9/f5/bbb9f50a-4358-a5d0-604f-29e29ed7677f/screen696x696.jpeg'> <img height='300' alt='ColorBlur image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/f9/8c/11/f98c116a-a49a-598e-e5d7-be0684c35bc5/screen696x696.jpeg'> <img height='300' alt='ColorBlur image 4' src='http://a5.mzstatic.com/us/r30/Purple1/v4/ff/6b/2c/ff6b2c22-68be-1f50-868a-e23ff8add3aa/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- EmotionNote Diary: Choose or take a photo of your face & the app will tell you your emotion  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/Yogayu/EmotionNote<br>  Added April 19, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='EmotionNote Diary image 1' src='https://github.com/Yogayu/EmotionNote/raw/master/imgs/Desktop%20HD.png'> 
+</div>
+  </details>
+
+- Megabite: Turn a photo of your food into a face  
+  <details><summary><code>opencv</code> <code>pop</code> 🔥🔥</summary>
+
+  https://github.com/AaronRandall/Megabite<br>  Added February  2, 2016<br>  License: `other`
+  <div><img height='300' alt='Megabite image 1' src='https://github.com/AaronRandall/Megabite/raw/master/Megabite/Assets.xcassets/Megabite.gif'> 
+</div>
+  </details>
+
+- PixPic: Photo editing  
+  <details><summary><code>swift</code> 🔥🔥🔥</summary>
+
+  https://github.com/Yalantis/PixPic<br>  Added July 29, 2016<br>  License: `other`
+  <div><img height='300' alt='PixPic image 1' src='http://i.imgur.com/c8ahfkv.png'> 
 </div>
   </details>
 
