@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-644-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2030,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-645-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2030,%202017-lightgrey.svg)
 
 Jump to
 
@@ -3719,6 +3719,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 
+- React Native Hacker News: A simple, clean HackerNews client written in React-Native  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/G2Jose/ReactNative-HackerNews<br>  Added March 30, 2017
+  <div><img height='300' alt='React Native Hacker News image 1' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines.png'> <img height='300' alt='React Native Hacker News image 2' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/story.png'> <img height='300' alt='React Native Hacker News image 3' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines_loading.png'> 
+</div>
+  </details>
+
 - Simple Reader [` App Store`](https://itunes.apple.com/app/simple-reader-free-open-source/id1000995253)  
   <details><summary><code>objc</code> 🔥🔥</summary>
 
@@ -5653,6 +5661,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/ColinEberhardt/ReactNative-PropertyFinder<br>  Added April 10, 2015<br>  License: `other`
   <div><img height='300' alt='Property Finder image 1' src='https://koenig-media.raywenderlich.com/uploads/2015/03/PropertyFinder.png'> 
+</div>
+  </details>
+
+- React Native Hacker News: A simple, clean HackerNews client written in React-Native  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/G2Jose/ReactNative-HackerNews<br>  Added March 30, 2017
+  <div><img height='300' alt='React Native Hacker News image 1' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines.png'> <img height='300' alt='React Native Hacker News image 2' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/story.png'> <img height='300' alt='React Native Hacker News image 3' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines_loading.png'> 
 </div>
   </details>
 
