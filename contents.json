@@ -693,13 +693,16 @@
         "hacker-news",
         "react-native"
       ],
+      "tags": ["react-native"],
       "description": "A simple, clean HackerNews client written in React-Native",
       "source": "https://github.com/G2Jose/ReactNative-HackerNews",
+      "itunes": "https://itunes.apple.com/app/react-native-hacker-news/id1220272464",
       "screenshots": [
         "https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines.png",
         "https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/story.png",
         "https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines_loading.png"
       ],
+      "license": "mit",
       "date_added": "Mar 30 2017",
       "suggested_by": "@g2jose"
     },
