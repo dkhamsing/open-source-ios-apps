@@ -770,7 +770,8 @@
       "tags": [
         "swift",
         "swift2.2",
-        "watchos2"
+        "watchos2",
+        "archive"
       ],
       "license": "other",
       "date_added": "Mon Mar 23 13:39:28 2015 -0700",
