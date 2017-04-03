@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-645-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2031,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-645-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%203,%202017-lightgrey.svg)
 
 Jump to
 
@@ -228,7 +228,7 @@ Click ► to show more details
   </details>
 
 - Calculator by BalestraPatrick  
-  <details><summary><code>objc</code> </summary>
+  <details><summary><code>objc</code> 🔥</summary>
 
   https://github.com/BalestraPatrick/AppleWatchCalculator<br>  Added March 24, 2017<br>  License: `other`
   <div><img height='300' alt='Calculator by BalestraPatrick image 1' src='https://github.com/BalestraPatrick/AppleWatchCalculator/blob/master/Screenshot1.png?raw=true'> 
@@ -308,7 +308,7 @@ Click ► to show more details
   </details>
 
 - Giovanni: Gameboy emulator for the Apple Watch  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
   https://github.com/gabrieloc/GIOVANNI<br>  Added March 20, 2017<br>  License: `other`
   <div><img height='300' alt='Giovanni image 1' src='https://github.com/gabrieloc/GIOVANNI/blob/master/gameplay.gif?raw=true'> 
@@ -369,12 +369,6 @@ Click ► to show more details
   https://github.com/kenshin03/KTPomodoro<br>  Added February 26, 2015<br>  License: `other`
   <div><img height='300' alt='KTPomodoro image 1' src='https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png'> 
 </div>
-  </details>
-
-- Lister: List app example by Apple  
-  <details><summary><code>swift</code> <code>swift2.2</code> <code>watchos2</code> </summary>
-
-  https://developer.apple.com/library/content/samplecode/Lister/Introduction/Intro.html<br>  Added March 23, 2015<br>  License: `other`
   </details>
 
 - Natural Language Clock: Display the time as you would speak it  
@@ -747,7 +741,7 @@ Click ► to show more details
   </details>
 
 - Finance: iOS's Stocks app written in React Native  
-  <details><summary><code>react native</code> 🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Finance image 1' src='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'> 
@@ -928,7 +922,7 @@ Click ► to show more details
   </details>
 
 - Rocket.Chat: Meteor chat platform app [` App Store`](https://itunes.apple.com/app/rocket.chat/id1028869439)  
-  <details><summary><code>swift</code> 🔥</summary>
+  <details><summary><code>swift</code> 🔥🔥</summary>
 
   https://github.com/RocketChat/Rocket.Chat.iOS<br>  Added January 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Rocket.Chat image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/6b/67/2d/6b672d4d-1d88-382c-aa02-db66dfc97421/screen696x696.jpeg'> <img height='300' alt='Rocket.Chat image 2' src='http://a5.mzstatic.com/us/r30/Purple49/v4/27/b5/b3/27b5b3e0-102e-605f-d086-def467181dcb/screen696x696.jpeg'> <img height='300' alt='Rocket.Chat image 3' src='http://a1.mzstatic.com/us/r30/Purple49/v4/71/f0/6f/71f06f5d-07af-96b9-016a-cd27f006d211/screen696x696.jpeg'> <img height='300' alt='Rocket.Chat image 4' src='http://a3.mzstatic.com/us/r30/Purple49/v4/ef/88/2b/ef882bb0-e6ca-882a-f355-b9b298c2412d/screen696x696.jpeg'> <img height='300' alt='Rocket.Chat image 5' src='http://a2.mzstatic.com/us/r30/Purple49/v4/88/f6/58/88f65868-21eb-d01a-61e9-20481d3852c1/screen696x696.jpeg'> 
@@ -1322,7 +1316,7 @@ Click ► to show more details
   </details>
 
 - 花灰: How to prounounce programming terms in English  
-  <details><summary><code>swift</code> 🇨🇳 </summary>
+  <details><summary><code>swift</code> 🇨🇳 🔥</summary>
 
   https://github.com/lexrus/Huahui<br>  https://twitter.com/lexrus/status/836928202912063491<br>  Added March  2, 2017<br>  License: `other`
   <div><img height='300' alt='花灰 image 1' src='https://media.giphy.com/media/3oKIPvvaugnP88DdOE/source.gif'> 
@@ -1554,7 +1548,7 @@ Click ► to show more details
 [back to top](#readme) 
  
 - Celluloid Photo Editing extension [` App Store`](https://itunes.apple.com/app/celluloid/id1124966798)  
-  <details><summary><code>swift</code> <code>snapkit</code> 🇨🇳 🔥🔥</summary>
+  <details><summary><code>swift</code> <code>snapkit</code> 🇨🇳 🔥🔥🔥</summary>
 
   https://github.com/100mango/Celluloid<br>  Added July 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Celluloid Photo Editing extension image 1' src='http://a3.mzstatic.com/us/r30/Purple60/v4/81/ee/c1/81eec17b-96c0-6b5c-de9b-da1515ffc3f9/screen696x696.jpeg'> 
@@ -1711,7 +1705,7 @@ Click ► to show more details
 [back to top](#readme) 
  
 - BoardBank: Money manager for board games [` App Store`](https://itunes.apple.com/app/boardbank-money-manager-for/id1191367526)  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> 🔥</summary>
 
   https://github.com/richardxyx/BoardBank<br>  http://www.richardneitzke.com<br>  Added March 20, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='BoardBank image 1' src='http://i.imgur.com/fXB42iY.png'> <img height='300' alt='BoardBank image 2' src='http://i.imgur.com/EMGOw0g.png'> 
@@ -2887,7 +2881,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - GreatReader: "Great" PDF reader [` App Store`](https://itunes.apple.com/app/greatreader/id903651112)  
-  <details><summary><code>iphone</code> <code>ipad</code> 🔥🔥</summary>
+  <details><summary><code>iphone</code> <code>ipad</code> 🔥🔥🔥</summary>
 
   https://github.com/semweb/GreatReader<br>  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='GreatReader image 1' src='http://a2.mzstatic.com/us/r30/Purple4/v4/7c/02/41/7c024189-7030-2183-08fd-a7ae4f0dbb7f/screen696x696.jpeg'> <img height='300' alt='GreatReader image 2' src='http://a1.mzstatic.com/us/r30/Purple4/v4/a4/cb/0d/a4cb0dba-039e-4f8e-1b44-95a946a3638f/screen696x696.jpeg'> <img height='300' alt='GreatReader image 3' src='http://a1.mzstatic.com/us/r30/Purple3/v4/4b/2f/2a/4b2f2ade-d9dc-cd4a-cf2b-357938ba0df0/screen696x696.jpeg'> <img height='300' alt='GreatReader image 4' src='http://a5.mzstatic.com/us/r30/Purple3/v4/d7/8a/2f/d78a2f7a-862b-c836-60c8-271d62679184/screen696x696.jpeg'> <img height='300' alt='GreatReader image 5' src='http://a1.mzstatic.com/us/r30/Purple4/v4/72/bf/92/72bf92cd-73c6-6046-2a9a-1fb081f30fab/screen696x696.jpeg'> 
@@ -3927,7 +3921,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Wikipedia: Official Wikipedia app [` App Store`](https://itunes.apple.com/app/wikipedia-mobile/id324715238)  
-  <details><summary><code>objc</code> 🔥🔥🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/wikimedia/wikipedia-ios<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Wikipedia image 1' src='http://a3.mzstatic.com/us/r30/Purple71/v4/a4/f7/b2/a4f7b2e5-12d4-d242-90b1-deb18c9e678e/screen696x696.jpeg'> <img height='300' alt='Wikipedia image 2' src='http://a3.mzstatic.com/us/r30/Purple71/v4/0e/db/08/0edb082a-8c49-82cd-be7f-5ce5af9dbb6a/screen696x696.jpeg'> <img height='300' alt='Wikipedia image 3' src='http://a2.mzstatic.com/us/r30/Purple71/v4/b4/41/78/b441780c-9042-3048-a9f2-1c4fa9a729bf/screen696x696.jpeg'> <img height='300' alt='Wikipedia image 4' src='http://a5.mzstatic.com/us/r30/Purple71/v4/62/5b/fe/625bfe5a-67d7-794e-2098-e9fb6a7f2716/screen696x696.jpeg'> <img height='300' alt='Wikipedia image 5' src='http://a2.mzstatic.com/us/r30/Purple71/v4/c3/8f/6e/c38f6e06-ae1a-32b6-7a01-5f28ddf19629/screen696x696.jpeg'> 
@@ -4594,7 +4588,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - CloudKit-To-Do-List: Store & retrieve tasks  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> 🔥</summary>
 
   https://github.com/anthonygeranio/CloudKit-To-Do-List<br>  Added April  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='CloudKit-To-Do-List image 1' src='http://i.imgur.com/HBFZhdm.png'> <img height='300' alt='CloudKit-To-Do-List image 2' src='http://i.imgur.com/RKo9RXC.png'> 
@@ -5104,7 +5098,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Phonetic: Add phonetic keys for Chinese names  
-  <details><summary><code>swift</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
   https://github.com/iAugux/Phonetic<br>  Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Phonetic image 1' src='https://raw.githubusercontent.com/iAugux/ProjectScreenshots/master/Phonetic/nickname.gif'> 
@@ -5523,7 +5517,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - Finance: iOS's Stocks app written in React Native  
-  <details><summary><code>react native</code> 🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Finance image 1' src='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'> 
