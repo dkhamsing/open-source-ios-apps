@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-646-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%204,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-647-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%204,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1449,7 +1449,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Prayer in English: Simple app to help understanding the spoken text in islamic prayers. [` App Store`](https://itunes.apple.com/app/prayer-in-english/id1217136884)  
+- Prayer in English: Help understanding the spoken text in islamic prayers [` App Store`](https://itunes.apple.com/app/prayer-in-english/id1217136884)  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/Flinesoft/Prayer<br>  https://community.flinesoft.com/c/prayer-app<br>  Added April  3, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
@@ -2841,6 +2841,12 @@ Click ► to show more details
   https://github.com/wwdc-family/ios<br>  Added February 21, 2017<br>  License: `other`
   <div><img height='300' alt='WWDC Family image 1' src='https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png'> 
 </div>
+  </details>
+
+- WWDC Family React Native: Easily connect with fellow developers during WWDC  
+  <details><summary><code>react-native</code> </summary>
+
+  https://github.com/wwdc-family/ReactNative<br>  Added April  3, 2017<br>  License: `other`
   </details>
 
 
@@ -5758,6 +5764,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   https://github.com/jsphkhan/ReactNativeExamples<br>  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp<br>  Added May  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Weather by jsphkhan image 1' src='https://camo.githubusercontent.com/d8d6748920497b1f6da276dbe7af715fa8df8a6a/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e312e706e67'> <img height='300' alt='Weather by jsphkhan image 2' src='https://camo.githubusercontent.com/dd8f80345ddd2a2f17663d07e3f38259a8f36982/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e322e706e67'> <img height='300' alt='Weather by jsphkhan image 3' src='https://camo.githubusercontent.com/da5efecec43f93228bb766d70ff7a33ad09d2d17/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e332e706e67'> 
 </div>
+  </details>
+
+- WWDC Family React Native: Easily connect with fellow developers during WWDC  
+  <details><summary><code>react-native</code> </summary>
+
+  https://github.com/wwdc-family/ReactNative<br>  Added April  3, 2017<br>  License: `other`
   </details>
 
 
