@@ -12551,6 +12551,21 @@
       "license": "gpl-3.0",
       "date_added": "Apr 3 2017",
       "suggested_by": "@Dschee"
-    }
+    },
+    {
+      "title": "WWDC Family React Native",
+      "source": "https://github.com/wwdc-family/ReactNative",
+      "category-ids": [
+        "location",
+        "react-native"
+      ],
+      "description": "Easily connect with fellow developers during WWDC",
+      "tags": [
+        "react-native"
+      ],
+      "license": "other",
+      "date_added": "Apr 3 2017",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
