@@ -12534,6 +12534,23 @@
       "date_added": "Mar 28 2017",
       "suggested_by": "@dkhamsing",
       "stars": 91
+    },
+    {
+      "title": "Prayer in English",
+      "category-ids": ["education"],
+      "description": "Simple app to help understanding the spoken text in islamic prayers.",
+      "homepage": "https://community.flinesoft.com/c/prayer-app",
+      "source": "https://github.com/Flinesoft/Prayer",
+      "itunes": "https://itunes.apple.com/app/prayer-in-english/id1217136884",
+      "tags": ["swift"],
+      "screenshots": [
+        "http://a2.mzstatic.com/us/r30/Purple122/v4/f0/3d/8e/f03d8e27-3e94-a07a-255c-2c56afdf9256/screen696x696.jpeg",
+        "http://a5.mzstatic.com/us/r30/Purple111/v4/fd/17/ca/fd17cab3-a3e2-165c-2b0e-d8ff8faeed13/screen696x696.jpeg",
+        "http://a1.mzstatic.com/us/r30/Purple111/v4/d1/d2/98/d1d29891-952b-88ad-e865-759ac918ec1f/screen696x696.jpeg"
+      ],
+      "license": "gpl-3.0",
+      "date_added": "Apr 3 2017",
+      "suggested_by": "@Dschee"
     }
   ]
 }
