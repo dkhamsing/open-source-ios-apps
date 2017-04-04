@@ -12538,7 +12538,7 @@
     {
       "title": "Prayer in English",
       "category-ids": ["education"],
-      "description": "Help understanding the spoken text in islamic prayers",
+      "description": "Help understand the spoken text in Islamic prayers",
       "homepage": "https://community.flinesoft.com/c/prayer-app",
       "source": "https://github.com/Flinesoft/Prayer",
       "itunes": "https://itunes.apple.com/app/prayer-in-english/id1217136884",
@@ -12566,6 +12566,6 @@
       "license": "other",
       "date_added": "Apr 3 2017",
       "suggested_by": "@dkhamsing"
-    }    
+    }
   ]
 }
