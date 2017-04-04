@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-645-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%203,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-646-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%204,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1446,6 +1446,14 @@ Click ► to show more details
 
   https://github.com/Netfilter-Com/PopulationClock<br>  Added March  2, 2016<br>  License: `other`
   <div><img height='300' alt='Population Clock image 1' src='http://a2.mzstatic.com/us/r30/Purple2/v4/23/ff/89/23ff89c0-a1ac-f9aa-faae-1a2b9180d88a/screen520x924.jpeg'> 
+</div>
+  </details>
+
+- Prayer in English: Simple app to help understanding the spoken text in islamic prayers. [` App Store`](https://itunes.apple.com/app/prayer-in-english/id1217136884)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/Flinesoft/Prayer<br>  https://community.flinesoft.com/c/prayer-app<br>  Added April  3, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='Prayer in English image 1' src='http://a2.mzstatic.com/us/r30/Purple122/v4/f0/3d/8e/f03d8e27-3e94-a07a-255c-2c56afdf9256/screen696x696.jpeg'> <img height='300' alt='Prayer in English image 2' src='http://a5.mzstatic.com/us/r30/Purple111/v4/fd/17/ca/fd17cab3-a3e2-165c-2b0e-d8ff8faeed13/screen696x696.jpeg'> <img height='300' alt='Prayer in English image 3' src='http://a1.mzstatic.com/us/r30/Purple111/v4/d1/d2/98/d1d29891-952b-88ad-e865-759ac918ec1f/screen696x696.jpeg'> 
 </div>
   </details>
 
