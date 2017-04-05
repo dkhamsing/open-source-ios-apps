@@ -12566,6 +12566,15 @@
       "license": "other",
       "date_added": "Apr 3 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Canvas",
+      "source": "https://github.com/usecanvas/ios-v1",
+      "category-ids": ["notes"],
+      "tags": ["swift", "archive"],
+      "license": "apache-2.0",
+      "date_added": "Apr 5 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
