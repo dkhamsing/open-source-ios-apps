@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-647-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%204,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-648-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%205,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1449,7 +1449,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Prayer in English: Help understanding the spoken text in islamic prayers [` App Store`](https://itunes.apple.com/app/prayer-in-english/id1217136884)  
+- Prayer in English: Help understand the spoken text in Islamic prayers [` App Store`](https://itunes.apple.com/app/prayer-in-english/id1217136884)  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/Flinesoft/Prayer<br>  https://community.flinesoft.com/c/prayer-app<br>  Added April  3, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
@@ -2655,7 +2655,7 @@ Click ► to show more details
   <details><summary><code>parse</code> 🔥</summary>
 
   https://github.com/TomekB/iBeaconTasks<br>  Added March  5, 2015<br>  License: `other`
-  <div><img height='300' alt='iBeaconTasks image 1' src='https://camo.githubusercontent.com/2b1e4a0a6f63695a85d966291e18c1522ac75bd3/687474703a2f2f7332352e706f7374696d672e6f72672f6e336e766e6976337a2f32303134303232313035353435395f6c6f676f2e706e67'> 
+  <div><img height='300' alt='iBeaconTasks image 1' src='http://s25.postimg.org/4y6bvq67z/20140221051029-screen1.png'> 
 </div>
   </details>
 
@@ -4629,7 +4629,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   <details><summary><code>parse</code> 🔥</summary>
 
   https://github.com/TomekB/iBeaconTasks<br>  Added March  5, 2015<br>  License: `other`
-  <div><img height='300' alt='iBeaconTasks image 1' src='https://camo.githubusercontent.com/2b1e4a0a6f63695a85d966291e18c1522ac75bd3/687474703a2f2f7332352e706f7374696d672e6f72672f6e336e766e6976337a2f32303134303232313035353435395f6c6f676f2e706e67'> 
+  <div><img height='300' alt='iBeaconTasks image 1' src='http://s25.postimg.org/4y6bvq67z/20140221051029-screen1.png'> 
 </div>
   </details>
 
@@ -5405,7 +5405,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   <details><summary><code>parse</code> 🔥</summary>
 
   https://github.com/TomekB/iBeaconTasks<br>  Added March  5, 2015<br>  License: `other`
-  <div><img height='300' alt='iBeaconTasks image 1' src='https://camo.githubusercontent.com/2b1e4a0a6f63695a85d966291e18c1522ac75bd3/687474703a2f2f7332352e706f7374696d672e6f72672f6e336e766e6976337a2f32303134303232313035353435395f6c6f676f2e706e67'> 
+  <div><img height='300' alt='iBeaconTasks image 1' src='http://s25.postimg.org/4y6bvq67z/20140221051029-screen1.png'> 
 </div>
   </details>
 
