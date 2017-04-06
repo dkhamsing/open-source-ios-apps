@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-648-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%205,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-649-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%206,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1310,7 +1310,7 @@ Click ► to show more details
 - WWDC Family: Easily connect with fellow developers during WWDC  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/wwdc-family/ios<br>  Added February 21, 2017<br>  License: `other`
+  https://github.com/3lvis/ios<br>  Added February 21, 2017<br>  License: `other`
   <div><img height='300' alt='WWDC Family image 1' src='https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png'> 
 </div>
   </details>
@@ -2838,7 +2838,7 @@ Click ► to show more details
 - WWDC Family: Easily connect with fellow developers during WWDC  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/wwdc-family/ios<br>  Added February 21, 2017<br>  License: `other`
+  https://github.com/3lvis/ios<br>  Added February 21, 2017<br>  License: `other`
   <div><img height='300' alt='WWDC Family image 1' src='https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png'> 
 </div>
   </details>
@@ -3461,6 +3461,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 
+- LivelyGIFs: An app show your Live Photo and export as GIF.  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/KrisYu/LivelyGIFs<br>  Added April  6, 2017
+  <div><img height='300' alt='LivelyGIFs image 1' src='https://github.com/KrisYu/LivelyGIFs/blob/master/demo.gif?raw=true'> 
+</div>
+  </details>
+
 - Poppins: House all your favorite GIFs, easily share them with your friends & family [` App Store`](https://itunes.apple.com/app/poppins/id978854068)  
   <details><summary><code>swift</code> 🔥</summary>
 
@@ -3546,14 +3554,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/MrAdamBoyd/DownTube<br>  Added June 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='DownTube image 1' src='https://raw.githubusercontent.com/MrAdamBoyd/DownTube/master/Screenshots/screenshot1.png'> <img height='300' alt='DownTube image 2' src='https://raw.githubusercontent.com/MrAdamBoyd/DownTube/master/Screenshots/screenshot2.png'> 
-</div>
-  </details>
-
-- Eleven: Simple powerful video player [` App Store`](https://itunes.apple.com/app/elevenplayer/id1033773648)  
-  <details><summary><code>ffmpeg</code> 🔥🔥🔥</summary>
-
-  https://github.com/coderyi/Eleven<br>  Added October  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Eleven image 1' src='http://a2.mzstatic.com/us/r30/Purple4/v4/5b/f9/c5/5bf9c5df-5d4b-8a6d-ddab-cc1763aaf7bf/screen696x696.jpeg'> <img height='300' alt='Eleven image 2' src='http://a4.mzstatic.com/us/r30/Purple4/v4/f5/3b/46/f53b4695-1188-05b2-39a1-8838697940e2/screen696x696.jpeg'> <img height='300' alt='Eleven image 3' src='http://a2.mzstatic.com/us/r30/Purple18/v4/92/f8/1d/92f81dca-2b49-db74-de6f-aa5fc072b13f/screen696x696.jpeg'> <img height='300' alt='Eleven image 4' src='http://a4.mzstatic.com/us/r30/Purple69/v4/aa/4d/48/aa4d48e5-c8e3-c178-d55e-ae12a80964f2/screen696x696.jpeg'> <img height='300' alt='Eleven image 5' src='http://a1.mzstatic.com/us/r30/Purple60/v4/d3/01/8b/d3018b08-f3f7-ae1d-3a40-4f10ac4dfd30/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -4323,7 +4323,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Reusable Code  
   <details><summary><code>swift</code> <code>airdrop</code> <code>avfoundation</code> <code>coreanimation</code> <code>coreimage</code> 🔥🔥🔥🔥🔥</summary>
 
-  https://github.com/SwiftCarlos/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/CarlosEngr/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - RKGist: GitHub Gists  
@@ -5239,7 +5239,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Reusable Code  
   <details><summary><code>swift</code> <code>airdrop</code> <code>avfoundation</code> <code>coreanimation</code> <code>coreimage</code> 🔥🔥🔥🔥🔥</summary>
 
-  https://github.com/SwiftCarlos/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/CarlosEngr/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - Tagger: Help tag your photos on Instagram or Flickr  
