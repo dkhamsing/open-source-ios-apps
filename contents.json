@@ -4763,7 +4763,7 @@
         "sample",
         "core-data"
       ],
-      "source": "https://github.com/SwiftCarlos/Swift",
+      "source": "https://github.com/CarlosEngr/Swift",
       "stars": 3166,
       "tags": [
         "swift",
@@ -12261,7 +12261,7 @@
     },
     {
       "title": "WWDC Family",
-      "source": "https://github.com/wwdc-family/ios",
+      "source": "https://github.com/3lvis/ios",
       "screenshots": [
         "https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png"
       ],
