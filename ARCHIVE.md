@@ -18,6 +18,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Chess https://github.com/mjcuva/Chess
 - Communiqué https://github.com/zadr/Communique
 - DrugsNRock https://github.com/biou/DrugsNRock
+- Eleven https://github.com/coderyi/Eleven
 - Everest https://github.com/EverestOpenSource/Everest-iOS
 - FinalFighter https://github.com/sebcode/FinalFighter-iphone
 - github-issues https://github.com/chriseidhof/github-issues
