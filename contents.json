@@ -3431,7 +3431,8 @@
         "video"
       ],
       "tags": [
-        "ffmpeg"
+        "ffmpeg",
+        "archive"
       ],
       "description": "Simple powerful video player",
       "source": "https://github.com/coderyi/Eleven",
