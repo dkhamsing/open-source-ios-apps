@@ -12575,6 +12575,16 @@
       "license": "apache-2.0",
       "date_added": "Apr 5 2017",
       "suggested_by": "@dkhamsing"
+    },
+    
+    {
+     "title": "LivelyGIFs",
+     "category-ids": ["gif"],
+     "description": "An app show your Live Photo and export as GIF.",
+     "source": "https://github.com/KrisYu/LivelyGIFs",
+     "screenshots": ["https://github.com/KrisYu/LivelyGIFs/blob/master/demo.gif?raw=true"],
+     "date_added": "Apr 6 2017",
+     "suggested_by": "@krisyu"
     }
   ]
 }
