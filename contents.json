@@ -12579,7 +12579,7 @@
     
     {
      "title": "LivelyGIFs",
-     "category-ids": ["gif","photos"],
+     "category-ids": ["gif"],
      "description": "An app show your Live Photo and export as GIF.",
      "source": "https://github.com/KrisYu/LivelyGIFs",
      "screenshots": ["https://github.com/KrisYu/LivelyGIFs/blob/master/demo.gif?raw=true"],
