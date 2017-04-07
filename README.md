@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-649-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%206,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-650-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%207,%202017-lightgrey.svg)
 
 Jump to
 
@@ -2592,6 +2592,14 @@ Click ► to show more details
 
   https://github.com/peteog/Closebox<br>  Added May 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Closebox image 1' src='http://a2.mzstatic.com/eu/r30/Purple1/v4/5d/9b/8d/5d9b8d65-42b1-f847-d532-bb1cf37e19c7/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- CrimeMapper: A data visualisation tool that adds publicly available crime data from UK police forces to an interactive map. You can look at crime data for your local area, or show data for specific regions. You can also create pie-charts, bar graphs and line graphs to show the different categories of crime being committed in an area, and chart changes over time. The data in this app is available for England and Wales and is released under an Open Government license. [` App Store`](https://itunes.apple.com/app/crimemapper/id1212133404)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/swwol/CrimeMapper<br>  https://samwoolf.net<br>  Added April  6, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='CrimeMapper image 1' src='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper1a-1.jpg'> <img height='300' alt='CrimeMapper image 2' src='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper2a.jpg'> <img height='300' alt='CrimeMapper image 3' src='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper3a.jpg'> <img height='300' alt='CrimeMapper image 4' src='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper4a.jpg'> <img height='300' alt='CrimeMapper image 5' src='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper5a.jpg'> 
 </div>
   </details>
 
