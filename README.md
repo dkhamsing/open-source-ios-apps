@@ -2595,7 +2595,7 @@ Click ► to show more details
 </div>
   </details>
 
-- CrimeMapper: A data visualisation tool that adds publicly available crime data from UK police forces to an interactive map. You can look at crime data for your local area, or show data for specific regions. You can also create pie-charts, bar graphs and line graphs to show the different categories of crime being committed in an area, and chart changes over time. The data in this app is available for England and Wales and is released under an Open Government license. [` App Store`](https://itunes.apple.com/app/crimemapper/id1212133404)  
+- CrimeMapper: Look at crime data in the UK [` App Store`](https://itunes.apple.com/app/crimemapper/id1212133404)  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/swwol/CrimeMapper<br>  https://samwoolf.net<br>  Added April  6, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3469,7 +3469,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 
-- LivelyGIFs: An app show your Live Photo and export as GIF.  
+- LivelyGIFs: Show your Live Photos & export as GIF  
   <details><summary><code>objc</code> </summary>
 
   https://github.com/KrisYu/LivelyGIFs<br>  Added April  6, 2017
