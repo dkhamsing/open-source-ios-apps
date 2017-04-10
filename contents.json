@@ -12606,7 +12606,7 @@
         "description": "An app for https://mastodon.social",
         "category-ids": ["social"],
         "source": "https://github.com/jeroensmeets/mastodon-app",
-        "tags": "fuse-tools",
+        "tags": ["fuse-tools"],
         "screenshots": ["https://raw.githubusercontent.com/jeroensmeets/mastodon-app/master/assets/images/store/resized/screenshot_notifications.png?raw=true"],
         "license": "mit",
         "date_added": "Apr 10 2017",
