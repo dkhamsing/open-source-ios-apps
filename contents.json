@@ -12261,7 +12261,7 @@
       "stars": 90
     },
     {
-      "title": "WWDC Family",
+      "title": "WWDC Family iOS",
       "source": "https://github.com/3lvis/ios",
       "screenshots": [
         "https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png"
@@ -12555,11 +12555,12 @@
     },
     {
       "title": "WWDC Family React Native",
-      "source": "https://github.com/wwdc-family/ReactNative",
+      "source": "https://github.com/wwdc-family/app",
       "category-ids": [
         "location",
         "react-native"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/wwdc-family/app/master/design/Screenshot1.png"],
       "description": "Easily connect with fellow developers during WWDC",
       "tags": [
         "react-native"
