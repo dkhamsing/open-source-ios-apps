@@ -207,6 +207,12 @@
       "id": "social"
     },
     {
+      "title": "Mastodon",
+      "id": "mastodon",
+      "parent": "social",
+      "description": "https://mastodon.social"
+    },
+    {
       "title": "Tasks",
       "id": "tasks"
     },
@@ -12604,13 +12610,22 @@
       },
       {
         "title": "11t",
-        "description": "An app for https://mastodon.social",
-        "category-ids": ["social"],
+        "category-ids": ["mastodon"],
         "source": "https://github.com/jeroensmeets/mastodon-app",
         "tags": ["fuse-tools"],
         "screenshots": ["https://raw.githubusercontent.com/jeroensmeets/mastodon-app/master/assets/images/store/resized/screenshot_notifications.png?raw=true"],
         "license": "mit",
         "date_added": "Apr 10 2017",
+        "suggested_by": "@dkhamsing"
+      },
+      {
+        "title": "tootbot",
+        "source": "https://github.com/tootbot/tootbot",
+        "category-ids": ["mastodon"],
+        "tags": ["swift"],
+        "screenshots": [""],
+        "license": "agpl-3.0",
+        "date_added": "Apr 11 2017",
         "suggested_by": "@dkhamsing"
       }
   ]
