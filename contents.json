@@ -12623,7 +12623,6 @@
         "source": "https://github.com/tootbot/tootbot",
         "category-ids": ["mastodon"],
         "tags": ["swift"],
-        "screenshots": [""],
         "license": "agpl-3.0",
         "date_added": "Apr 11 2017",
         "suggested_by": "@dkhamsing"
