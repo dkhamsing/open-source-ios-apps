@@ -4616,8 +4616,6 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/tootbot/tootbot<br>  Added April 11, 2017<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
-  <div><img height='300' alt='tootbot image 1' src=''> 
-</div>
   </details>
 
 
