@@ -9078,7 +9078,8 @@
       "category-ids": [
         "media"
       ],
-      "description": "OpenGL-based advanced music visualization app",
+      "tags": ["opengl"],
+      "description": "Advanced music visualization",
       "source": "https://sourceforge.net/projects/projectm/",
       "homepage": "http://projectm.sourceforge.net/",
       "itunes": "https://itunes.apple.com/app/id530922227",
