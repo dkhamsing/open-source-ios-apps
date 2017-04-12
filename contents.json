@@ -12630,8 +12630,8 @@
       {
         "title": "420! Alarm",
         "source": "https://github.com/efremidze/Alarm",
-        "itunes": "https://itunes.apple.com/us/app/420/id1194325430?ls=1&mt=8",
-        "category-ids": ["misc", "apple-watch"],
+        "itunes": "https://itunes.apple.com/app/420/id1194325430",
+        "category-ids": ["apple-watch"],
         "tags": ["swift"],
         "screenshots": ["https://raw.githubusercontent.com/efremidze/Alarm/master/screenshots/en-US/iPhone7-0-d41d8cd98f00b204e9800998ecf8427e.png"],
         "license": "apache-2.0",
