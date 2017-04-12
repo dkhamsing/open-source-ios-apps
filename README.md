@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-652-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2011,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-653-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2012,%202017-lightgrey.svg)
 
 Jump to
 
@@ -196,6 +196,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- 420! Alarm [` App Store`](https://itunes.apple.com/app/420/id1194325430)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/efremidze/Alarm<br>  Added April 11, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='420! Alarm image 1' src='https://raw.githubusercontent.com/efremidze/Alarm/master/screenshots/en-US/iPhone7-0-d41d8cd98f00b204e9800998ecf8427e.png'> 
+</div>
+  </details>
+
 - BaiduFM: A Baidu Music app  
   <details><summary><code>swift</code> 🇨🇳 🔥🔥🔥</summary>
 
@@ -2228,7 +2236,7 @@ Click ► to show more details
 
 ### Cocos2d 
  
-[back to top](#readme) 
+http://cocos2d.org/ — [back to top](#readme) 
  
 - Alienblast: Cute & sweet shooting game [` App Store`](https://itunes.apple.com/app/id1098323034)  
   <details><summary><code>swift</code> <code>spritebuilder</code> </summary>
@@ -2265,7 +2273,7 @@ Click ► to show more details
 
 ### SpriteKit 
  
-[back to top](#readme) 
+https://developer.apple.com/reference/spritekit — [back to top](#readme) 
  
 - 2048  
   <details><summary><code>spritekit</code> 🔥🔥🔥</summary>
@@ -2450,7 +2458,7 @@ Click ► to show more details
 
 ### ResearchKit 
  
-[back to top](#readme) 
+https://www.apple.com/researchkit/ — [back to top](#readme) 
  
 - AlzPrevent: Clinical research platform for Alzheimer's disease [` App Store`](https://itunes.apple.com/app/alzprevent/id1065403320)  
   <details><summary><code>swift</code> </summary>
@@ -2985,8 +2993,8 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- projectM: OpenGL-based advanced music visualization app [` App Store`](https://itunes.apple.com/app/id530922227)  
-  <details><summary><code>objc</code> </summary>
+- projectM: Advanced music visualization [` App Store`](https://itunes.apple.com/app/id530922227)  
+  <details><summary><code>opengl</code> </summary>
 
   https://sourceforge.net/projects/projectm/<br>  http://projectm.sourceforge.net/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='projectM image 1' src='http://a2.mzstatic.com/us/r30/Purple7/v4/44/17/41/44174112-c9f9-1719-8967-c43cb42bbf26/screen696x696.jpeg'> <img height='300' alt='projectM image 2' src='http://a4.mzstatic.com/us/r30/Purple7/v4/80/05/55/8005556a-437c-2d6a-d41d-044fc4e6740a/screen696x696.jpeg'> <img height='300' alt='projectM image 3' src='http://a4.mzstatic.com/us/r30/Purple5/v4/1a/6e/8e/1a6e8ef0-998f-34e4-7c92-f41de9227c73/screen696x696.jpeg'> <img height='300' alt='projectM image 4' src='http://a5.mzstatic.com/us/r30/Purple2/v4/35/c4/e2/35c4e23b-7eae-f138-a333-66e92b4c63dc/screen696x696.jpeg'> <img height='300' alt='projectM image 5' src='http://a1.mzstatic.com/us/r30/Purple1/v4/f3/8a/2b/f38a2bcd-e5d9-22b8-61cd-0b9e4cc159ae/screen696x696.jpeg'> 
@@ -3672,7 +3680,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 ### Hacker News 
  
-[back to top](#readme) 
+https://news.ycombinator.com/ — [back to top](#readme) 
  
 - Hacker News Client [` App Store`](https://itunes.apple.com/app/hacker-news-client/id939454231)  
   <details><summary><code>firebase</code> 🔥🔥</summary>
@@ -3757,7 +3765,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 ### News API 
  
-[back to top](#readme) 
+https://newsapi.org/ — [back to top](#readme) 
  
 - DailyFeed  
   <details><summary><code>swift</code> </summary>
@@ -3989,9 +3997,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 
-### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 
+### ReactiveCocoa 
  
-[back to top](#readme) 
+https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme) 
  
 - Arex: Reminders for taking your medications  
   <details><summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> </summary>
@@ -4108,9 +4116,9 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 
-### [RxSwift](https://github.com/ReactiveX/RxSwift) 
+### RxSwift 
  
-[back to top](#readme) 
+https://github.com/ReactiveX/RxSwift — [back to top](#readme) 
  
 - Count It: Dead simple way to you count anything [` App Store`](https://itunes.apple.com/app/id1098893335)  
   <details><summary><code>swift</code> </summary>
@@ -5291,7 +5299,7 @@ https://mastodon.social — [back to top](#readme)
 
 ### Firebase 
  
-[back to top](#readme) 
+https://firebase.google.com/ — [back to top](#readme) 
  
 - Californication: Discover only the best points of interest in the California  
   <details><summary><code>swift</code> </summary>
@@ -5374,9 +5382,9 @@ https://mastodon.social — [back to top](#readme)
   </details>
 
 
-### [Ionic](http://ionicframework.com/) 
+### Ionic 
  
-[back to top](#readme) 
+http://ionicframework.com/ — [back to top](#readme) 
  
 - Minds: An encrypted social network [` App Store`](https://itunes.apple.com/app/id961771928)  
   <details><summary><code>angular</code> <code>cordova</code> 🔥</summary>
@@ -5397,7 +5405,7 @@ https://mastodon.social — [back to top](#readme)
 
 ### Parse 
  
-[back to top](#readme) 
+https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme) 
  
 - 1Trackr: Log your community service hours to the cloud [` App Store`](https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630)  
   <details><summary><code>parse</code> </summary>
@@ -5470,9 +5478,9 @@ https://mastodon.social — [back to top](#readme)
   </details>
 
 
-### [React Native](http://facebook.github.io/react-native/) 
+### React Native 
  
-[back to top](#readme) 
+http://facebook.github.io/react-native/ — [back to top](#readme) 
  
 - 30 days of React Native demos  
   <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
@@ -5807,7 +5815,7 @@ https://mastodon.social — [back to top](#readme)
 
 ### Realm 
  
-[back to top](#readme) 
+https://realm.io/ — [back to top](#readme) 
  
 - Done: To-do list data sharing between extension & main app  
   <details><summary><code>swift</code> <code>realm</code> <code>watchkit</code> 🔥</summary>
@@ -5896,9 +5904,9 @@ https://mastodon.social — [back to top](#readme)
   </details>
 
 
-### [VIPER](https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture-framework) 
+### VIPER 
  
-[back to top](#readme) 
+https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture-framework — [back to top](#readme) 
  
 - American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://itunes.apple.com/app/id1092988367)  
   <details><summary><code>viper</code> </summary>
@@ -5981,7 +5989,7 @@ https://mastodon.social — [back to top](#readme)
 
 ### Xamarin 
  
-[back to top](#readme) 
+https://www.xamarin.com/ — [back to top](#readme) 
  
 - PropertyCross: Search UK property listings  
   <details><summary><code>csharp</code> 🔥🔥🔥</summary>
