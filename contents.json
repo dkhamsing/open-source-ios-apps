@@ -88,12 +88,14 @@
     {
       "title": "Cocos2d",
       "id": "cocos2d",
-      "parent": "game"
+      "parent": "game",
+      "description": "http://cocos2d.org/"
     },
     {
       "title": "SpriteKit",
       "id": "spritekit",
-      "parent": "game"
+      "parent": "game",
+      "description": "https://developer.apple.com/reference/spritekit"
     },
     {
       "title": "Health",
@@ -107,7 +109,8 @@
     {
       "title": "ResearchKit",
       "id": "researchkit",
-      "parent": "health"
+      "parent": "health",
+      "description": "https://www.apple.com/researchkit/"
     },
     {
       "title": "Keyboard",
@@ -155,12 +158,14 @@
     {
       "title": "Hacker News",
       "id": "hacker-news",
-      "parent": "news"
+      "parent": "news",
+      "description": "https://news.ycombinator.com/"
     },
     {
       "title": "News API",
       "id": "news-api",
-      "parent": "news"
+      "parent": "news",
+      "description": "https://newsapi.org/"
     },
     {
       "title": "RSS",
@@ -176,14 +181,16 @@
       "id": "reactive-programming"
     },
     {
-      "title": "[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)",
+      "title": "ReactiveCocoa",
       "id": "reactivecocoa",
-      "parent": "reactive-programming"
+      "parent": "reactive-programming",
+      "description": "https://github.com/ReactiveCocoa/ReactiveCocoa"
     },
     {
-      "title": "[RxSwift](https://github.com/ReactiveX/RxSwift)",
+      "title": "RxSwift",
       "id": "rxswift",
-      "parent": "reactive-programming"
+      "parent": "reactive-programming",
+      "description": "https://github.com/ReactiveX/RxSwift"
     },
     {
       "title": "Sample",
@@ -259,37 +266,44 @@
     {
       "title": "Firebase",
       "id": "firebase",
-      "parent": "misc"
+      "parent": "misc",
+      "description": "https://firebase.google.com/"
     },
     {
-      "title": "[Ionic](http://ionicframework.com/)",
+      "title": "Ionic",
       "id": "ionic",
-      "parent": "misc"
+      "parent": "misc",
+      "description": "http://ionicframework.com/"
     },
     {
       "title": "Parse",
       "id": "parse",
-      "parent": "misc"
+      "parent": "misc",
+      "description": "https://en.wikipedia.org/wiki/Parse_(company)"
     },
     {
-      "title": "[React Native](http://facebook.github.io/react-native/)",
+      "title": "React Native",
       "id": "react-native",
-      "parent": "misc"
+      "parent": "misc",
+      "description": "http://facebook.github.io/react-native/"
     },
     {
       "title": "Realm",
       "id": "realm",
-      "parent": "misc"
+      "parent": "misc",
+      "description": "https://realm.io/"
     },
     {
-      "title": "[VIPER](https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture-framework)",
+      "title": "VIPER",
       "id": "viper",
-      "parent": "misc"
+      "parent": "misc",
+      "description": "https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture-framework"
     },
     {
       "title": "Xamarin",
       "id": "xamarin",
-      "parent": "misc"
+      "parent": "misc",
+      "description": "https://www.xamarin.com/"
     },
     {
       "title": "Bonus",
