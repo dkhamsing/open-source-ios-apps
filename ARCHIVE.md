@@ -49,6 +49,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Swift Off https://github.com/opensourceios/swift-off-todo
 - TaskPaper https://github.com/jessegrosjean/NOTTaskPaperForIOS
 - theNews https://github.com/TosinAF/thenews-objc
+- Tic-tac-toe https://github.com/ijoshsmith/swift-tic-tac-toe
 - TicTacToe https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/TicTacToe
 - Toggl Timer https://github.com/opensourceios/toggle-mobile
 - Vim https://github.com/applidium/Vim
