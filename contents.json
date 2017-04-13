@@ -12652,6 +12652,15 @@
         "license": "apache-2.0",
         "date_added": "Apr 11 2017",
         "suggested_by": "@efremidze"
+      },
+      {
+        "title": "Tic-tac-toe",
+        "source": "https://github.com/ijoshsmith/swift-tic-tac-toe",
+        "category-ids": ["games"],
+        "tags": ["swift", "swift2", "archive"],
+        "license": "mit",
+        "date_added": "Apr 13 2017",
+        "suggested_by": "@dkhamsing"
       }
   ]
 }
