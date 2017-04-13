@@ -12656,7 +12656,7 @@
       {
         "title": "Tic-tac-toe",
         "source": "https://github.com/ijoshsmith/swift-tic-tac-toe",
-        "category-ids": ["games"],
+        "category-ids": ["game"],
         "tags": ["swift", "swift2", "archive"],
         "license": "mit",
         "date_added": "Apr 13 2017",
