@@ -2299,7 +2299,7 @@
         "game",
         "clone"
       ],
-      "description": "Swift implementation of Flappy Bird",
+      "description": "Flappy Bird clone",
       "source": "https://github.com/fullstackio/FlappySwift",
       "stars": 8301,
       "tags": [
@@ -6942,7 +6942,7 @@
       "screenshots": [
         "https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true"
       ],
-      "description": "iOS's Stocks app written in React Native",
+      "description": "The system Stocks app written in React Native",
       "license": "mit",
       "source": "https://github.com/7kfpun/FinanceReactNative",
       "stars": 1054,
