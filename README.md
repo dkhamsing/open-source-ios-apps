@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-655-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2013,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-655-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2017,%202017-lightgrey.svg)
 
 Jump to
 
@@ -757,7 +757,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Finance: iOS's Stocks app written in React Native  
+- Finance: The system Stocks app written in React Native  
   <details><summary><code>react native</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -765,7 +765,7 @@ Click ► to show more details
 </div>
   </details>
 
-- FlappySwift: Swift implementation of Flappy Bird  
+- FlappySwift: Flappy Bird clone  
   <details><summary><code>swift</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/fullstackio/FlappySwift<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -2035,7 +2035,7 @@ Click ► to show more details
 </div>
   </details>
 
-- FlappySwift: Swift implementation of Flappy Bird  
+- FlappySwift: Flappy Bird clone  
   <details><summary><code>swift</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/fullstackio/FlappySwift<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -5576,7 +5576,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
-- Finance: iOS's Stocks app written in React Native  
+- Finance: The system Stocks app written in React Native  
   <details><summary><code>react native</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
