@@ -12692,6 +12692,17 @@
         "license": "mit",
         "date_added": "Apr 20 2017",
         "suggested_by": "@dkhamsing"
+      },
+      {
+        "title": "GitHub Contributions",
+        "description": "Track your GitHub contributions",
+        "source": "https://github.com/remirobert/Github-contributions",
+        "tags": ["swift"],
+        "screenshots": ["https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png"],
+        "category-ids": ["apple-watch"],
+        "license": "gpl-3",
+        "date_added": "Apr 20 2017",
+        "suggested_by": "@dkhamsing"
       }
   ]
 }
