@@ -12671,6 +12671,17 @@
         "license": "other",
         "date_added": "Apr 13 2017",
         "suggested_by": "@dkhamsing"
+      },
+      {
+        "title": "Morse",
+        "source": "https://github.com/ijoshsmith/swift-morse-code",
+        "description": "Convert text to Morse code & plays it out loud",
+        "category-ids": ["misc"],
+        "tags": ["swift", "swift2", "archive"],
+        "screenshots": ["https://github.com/ijoshsmith/swift-morse-code/blob/master/screenshot.png?raw=true"],
+        "license": "mit",
+        "date_added": "Apr 20 2017",
+        "suggested_by": "@dkhamsing"
       }
   ]
 }
