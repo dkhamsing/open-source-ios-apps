@@ -21,6 +21,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Eleven https://github.com/coderyi/Eleven
 - Everest https://github.com/EverestOpenSource/Everest-iOS
 - FinalFighter https://github.com/sebcode/FinalFighter-iphone
+- Forecast https://github.com/richardxyx/Forecast
 - github-issues https://github.com/chriseidhof/github-issues
 - Google Feud https://github.com/opensourceios/Google-Feud-iOS
 - Hack Cancer Hackathon https://github.com/HackCancer/iOS
@@ -31,6 +32,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Letters https://github.com/jessegrosjean/letters.iphone
 - Light-Jockey https://github.com/jmfieldman/Light-Jockey
 - Lister https://developer.apple.com/library/content/samplecode/Lister/Introduction/Intro.html
+- Morse https://github.com/ijoshsmith/swift-morse-code
 - Movies https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/Movies
 - Mume https://github.com/opensourceios/Mume
 - Munch https://github.com/opensourceios/Munch
