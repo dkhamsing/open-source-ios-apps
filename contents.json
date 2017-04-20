@@ -12682,6 +12682,16 @@
         "license": "mit",
         "date_added": "Apr 20 2017",
         "suggested_by": "@dkhamsing"
+      },
+      {
+        "title": "Forecast",
+        "source": "https://github.com/richardxyx/Forecast",
+        "tags": ["swift", "archive"],
+        "screenshots": ["http://fat.gfycat.com/MajesticAntiqueKagu.gif"],
+        "category-ids": ["weather"],
+        "license": "mit",
+        "date_added": "Apr 20 2017",
+        "suggested_by": "@dkhamsing"
       }
   ]
 }
