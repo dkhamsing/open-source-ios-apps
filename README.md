@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-655-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2017,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-658-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2020,%202017-lightgrey.svg)
 
 Jump to
 
@@ -329,6 +329,14 @@ Click ► to show more details
 
   https://github.com/gabrieloc/GIOVANNI<br>  Added March 20, 2017<br>  License: `other`
   <div><img height='300' alt='Giovanni image 1' src='https://github.com/gabrieloc/GIOVANNI/blob/master/gameplay.gif?raw=true'> 
+</div>
+  </details>
+
+- GitHub Contributions: Track your GitHub contributions  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/remirobert/Github-contributions<br>  Added April 20, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='GitHub Contributions image 1' src='https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png'> 
 </div>
   </details>
 
