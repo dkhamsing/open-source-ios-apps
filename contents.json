@@ -12712,6 +12712,18 @@
         "license": "other",
         "date_added": "Apr 21 2017",
         "suggested_by": "@dkhamsing"
+      },
+      {
+        "title": "Token",
+        "description": "Private & secure messaging, Ethereum wallet and browser",
+        "source": "https://github.com/tokenbrowser/token-ios-client",
+        "itunes": "https://itunes.apple.com/app/token-wallet/id1200463445",
+        "tags" : ["swift"],
+        "screenshots": ["http://a1.mzstatic.com/us/r30/Purple122/v4/45/e5/da/45e5daf2-6dd5-ae2c-da9f-35f60f9cdaca/screen696x696.jpeg"],
+        "category-ids": ["finance", "communication"],
+        "license": "gpl-3.0",
+        "date_added": "Apr 21 2017",
+        "suggested_by": "@dkhamsing"
       }
   ]
 }
