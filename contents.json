@@ -12703,6 +12703,15 @@
         "license": "gpl-3.0",
         "date_added": "Apr 20 2017",
         "suggested_by": "@dkhamsing"
+      },
+      {
+        "title": "Stopwatch",
+        "source": "https://github.com/toggl/stopwatch",
+        "tags": ["swift"],
+        "category-ids": ["timer"],
+        "license": "other",
+        "date_added": "Apr 21 2017",
+        "suggested_by": "@dkhamsing"
       }
   ]
 }
