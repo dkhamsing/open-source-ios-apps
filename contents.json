@@ -11354,7 +11354,7 @@
       "title": "Articles",
       "description": "Fetch and display a list of articles",
       "source": "https://github.com/pedrohperalta/Articles-iOS-VIPER",
-      "homepage": "https://www.ckl.io/blog/ios-project-architecture-using-viper/",
+      "homepage": "https://cheesecakelabs.com/blog/ios-project-architecture-using-viper/",
       "category-ids": [
         "viper"
       ],
