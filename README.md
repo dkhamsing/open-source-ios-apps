@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-658-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2020,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-660-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2021,%202017-lightgrey.svg)
 
 Jump to
 
@@ -994,6 +994,14 @@ Click ► to show more details
 </div>
   </details>
 
+- Token: Private & secure messaging, Ethereum wallet and browser [` App Store`](https://itunes.apple.com/app/token-wallet/id1200463445)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/tokenbrowser/token-ios-client<br>  Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='Token image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/45/e5/da/45e5daf2-6dd5-ae2c-da9f-35f60f9cdaca/screen696x696.jpeg'> 
+</div>
+  </details>
+
 - TrollDrop: Send trollfaces to everyone  
   <details><summary><code>airdrop</code> </summary>
 
@@ -1822,6 +1830,14 @@ Click ► to show more details
 
   https://github.com/premnirmal/TodayStocks<br>  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='TodayStocks image 1' src='http://a4.mzstatic.com/us/r30/Purple1/v4/81/de/d6/81ded63c-8a48-dff9-062f-92ac2c5299ee/screen696x696.jpeg'> <img height='300' alt='TodayStocks image 2' src='http://a4.mzstatic.com/us/r30/Purple5/v4/d2/ca/dd/d2cadd24-5d85-f613-aba2-9931cb785b65/screen696x696.jpeg'> <img height='300' alt='TodayStocks image 3' src='http://a1.mzstatic.com/us/r30/Purple1/v4/82/5a/ff/825affaf-cc4a-6d24-99e0-f3197f769f58/screen696x696.jpeg'> <img height='300' alt='TodayStocks image 4' src='http://a2.mzstatic.com/us/r30/Purple7/v4/6e/03/d6/6e03d609-2cb7-4095-cc24-a63b1c8e8d12/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Token: Private & secure messaging, Ethereum wallet and browser [` App Store`](https://itunes.apple.com/app/token-wallet/id1200463445)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/tokenbrowser/token-ios-client<br>  Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='Token image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/45/e5/da/45e5daf2-6dd5-ae2c-da9f-35f60f9cdaca/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -4866,6 +4882,12 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
+- Stopwatch  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/toggl/stopwatch<br>  Added April 21, 2017<br>  License: `other`
+  </details>
+
 - TrackMyTime [` App Store`](https://itunes.apple.com/app/trackmyday/id789386884)  
   <details><summary><code>objc</code> </summary>
 
@@ -5935,7 +5957,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
 - Articles: Fetch and display a list of articles  
   <details><summary><code>swift</code> <code>rest</code> </summary>
 
-  https://github.com/pedrohperalta/Articles-iOS-VIPER<br>  https://www.ckl.io/blog/ios-project-architecture-using-viper/<br>  Added November  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/pedrohperalta/Articles-iOS-VIPER<br>  https://cheesecakelabs.com/blog/ios-project-architecture-using-viper/<br>  Added November  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Articles image 1' src='http://i.imgur.com/fEPFBzr.png'> 
 </div>
   </details>
