@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-660-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2021,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-661-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2025,%202017-lightgrey.svg)
 
 Jump to
 
@@ -938,7 +938,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Riot: Collaboration for teams, chat & share via http://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
+- Riot: Collaboration for teams, chat & share with http://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details><summary><code>webrtc</code> <code>realm</code> 🔥</summary>
 
   https://github.com/vector-im/riot-ios<br>  https://vector.im/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
@@ -2577,7 +2577,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- Link Keyboard : My Links Everywhere: Put all your links in one place and make them accessible via a keyboard. [` App Store`](https://itunes.apple.com/app/link-keyboard-my-links-everywhere/id1098798450)  
+- Link Keyboard : My Links Everywhere: Put all your links in one place & make them accessible with a keyboard. [` App Store`](https://itunes.apple.com/app/link-keyboard-my-links-everywhere/id1098798450)  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/ayushgoel/LinkKeyboard<br>  Added October 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3836,7 +3836,7 @@ https://newsapi.org/ — [back to top](#readme)
 </div>
   </details>
 
-- SwiftBlog: Read the official Apple Swift Blog via RSS  
+- SwiftBlog: Read the official Apple Swift Blog with RSS  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/BalestraPatrick/SwiftBlog<br>  Added June 21, 2016<br>  License: `other`
@@ -5917,7 +5917,7 @@ https://realm.io/ — [back to top](#readme)
   https://github.com/pietbrauer/RealmToDo<br>  Added July 31, 2015<br>  License: `other`
   </details>
 
-- Riot: Collaboration for teams, chat & share via http://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
+- Riot: Collaboration for teams, chat & share with http://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details><summary><code>webrtc</code> <code>realm</code> 🔥</summary>
 
   https://github.com/vector-im/riot-ios<br>  https://vector.im/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
