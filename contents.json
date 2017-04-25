@@ -12724,6 +12724,16 @@
         "license": "gpl-3.0",
         "date_added": "Apr 21 2017",
         "suggested_by": "@dkhamsing"
+      },
+      {
+        "title": "AppleWatchProductHunt",
+        "source": "https://github.com/BalestraPatrick/AppleWatchProductHunt",
+        "category-ids": ["apple-watch"],
+        "tags": ["swift", "archive"],
+        "screenshots": ["https://github.com/BalestraPatrick/AppleWatchProductHunt/raw/master/screenshot1.png"],
+        "license": "other",
+        "date_added": "Apr 25 2017",
+        "suggested_by": "@dkhamsing"        
       }
   ]
 }
