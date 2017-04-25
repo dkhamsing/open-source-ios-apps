@@ -6614,12 +6614,13 @@
     {
       "title": "how-much",
       "category-ids": [
-        "parse",
+        "realm",
         "firebase"
       ],
       "tags": [
         "parse",
-        "firebase"
+        "firebase",
+        "realm"
       ],
       "license": "mit",
       "description": "Simple app to record how much things cost",
