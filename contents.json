@@ -2840,7 +2840,7 @@
       "tags": [
         "swift"
       ],
-      "description": "Put all your links in one place and make them accessible via a keyboard.",
+      "description": "Put all your links in one place & make them accessible with a keyboard.",
       "source": "https://github.com/ayushgoel/LinkKeyboard",
       "itunes": "https://itunes.apple.com/app/link-keyboard-my-links-everywhere/id1098798450",
       "screenshots": [
@@ -5535,7 +5535,7 @@
         "archive",
         "afnetworking"
       ],
-      "description": "Connect blind people with volunteer helpers via live video chat",
+      "description": "Connect blind people with volunteers using live video chat",
       "source": "https://github.com/opensourceios/bemyeyes-ios",
       "itunes": "https://itunes.apple.com/app/be-my-eyes-helping-blind-see/id905177575",
       "stars": 0,
@@ -9474,7 +9474,7 @@
       "category-ids": [
         "rss"
       ],
-      "description": "Read the official Apple Swift Blog via RSS",
+      "description": "Read the official Apple Swift Blog with RSS",
       "source": "https://github.com/BalestraPatrick/SwiftBlog",
       "license": "other",
       "tags": [
@@ -10126,7 +10126,7 @@
         "webrtc",
         "realm"
       ],
-      "description": "Collaboration for teams, chat & share via http://matrix.org/",
+      "description": "Collaboration for teams, chat & share with http://matrix.org/",
       "source": "https://github.com/vector-im/riot-ios",
       "homepage": "https://vector.im/",
       "itunes": "https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067",
