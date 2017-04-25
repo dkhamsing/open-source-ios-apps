@@ -10,6 +10,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Anypic https://github.com/opensourceios/Anypic
 - AnyWall https://github.com/opensourceios/AnyWall
 - apnagent-ios https://github.com/logicalparadox/apnagent-ios
+- AppleWatchProductHunt https://github.com/BalestraPatrick/AppleWatchProductHunt
 - AppSales-Mobile https://github.com/omz/AppSales-Mobile
 - Bancha https://github.com/squallstar/bancha-ios-app
 - Be my eyes https://github.com/opensourceios/bemyeyes-ios
