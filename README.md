@@ -5380,7 +5380,7 @@ https://firebase.google.com/ — [back to top](#readme)
   </details>
 
 - how-much: Simple app to record how much things cost  
-  <details><summary><code>parse</code> <code>firebase</code> </summary>
+  <details><summary><code>parse</code> <code>firebase</code> <code>realm</code> </summary>
 
   https://github.com/dkhamsing/how-much<br>  Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='how-much image 1' src='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'> 
@@ -5466,14 +5466,6 @@ https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme)
 
   https://github.com/SwiftAnyPic/SwiftAnyPic<br>  Added November  2, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
   <div><img height='300' alt='Anypic image 1' src='http://i.imgur.com/hkcrHaH.jpg'> 
-</div>
-  </details>
-
-- how-much: Simple app to record how much things cost  
-  <details><summary><code>parse</code> <code>firebase</code> </summary>
-
-  https://github.com/dkhamsing/how-much<br>  Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='how-much image 1' src='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'> 
 </div>
   </details>
 
@@ -5868,6 +5860,14 @@ https://realm.io/ — [back to top](#readme)
 
   https://github.com/remirobert/Facemotion<br>  Added July 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Facemotion image 1' src='https://cloud.githubusercontent.com/assets/3276768/16144253/4e96344e-34a4-11e6-9257-06f5bcdf06ef.gif'> 
+</div>
+  </details>
+
+- how-much: Simple app to record how much things cost  
+  <details><summary><code>parse</code> <code>firebase</code> <code>realm</code> </summary>
+
+  https://github.com/dkhamsing/how-much<br>  Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='how-much image 1' src='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'> 
 </div>
   </details>
 
