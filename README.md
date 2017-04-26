@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-661-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2025,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-661-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2026,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1029,7 +1029,7 @@ Click ► to show more details
 - Vapor Chat: Basic realtime chat project using Vapor on the server  
   <details><summary><code>swift</code> <code>starscream</code> </summary>
 
-  https://github.com/vapor/chat-ios-example<br>  Added September 30, 2016<br>  License: `other`
+  https://github.com/vapor-community/chat-ios-example<br>  Added September 30, 2016<br>  License: `other`
   <div><img height='300' alt='Vapor Chat image 1' src='http://i.imgur.com/DuQSjpY.png'> 
 </div>
   </details>
