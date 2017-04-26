@@ -10879,7 +10879,7 @@
     {
       "title": "Vapor Chat",
       "description": "Basic realtime chat project using Vapor on the server",
-      "source": "https://github.com/vapor/chat-ios-example",
+      "source": "https://github.com/vapor-community/chat-ios-example",
       "category-ids": [
         "communication"
       ],
@@ -12734,7 +12734,7 @@
         "screenshots": ["https://github.com/BalestraPatrick/AppleWatchProductHunt/raw/master/screenshot1.png"],
         "license": "other",
         "date_added": "Apr 25 2017",
-        "suggested_by": "@dkhamsing"        
+        "suggested_by": "@dkhamsing"
       }
   ]
 }
