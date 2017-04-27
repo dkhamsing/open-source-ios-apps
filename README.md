@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-661-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2026,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-663-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2027,%202017-lightgrey.svg)
 
 Jump to
 
@@ -3110,6 +3110,14 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
+- Helio Workstation: Lightweight music creation playground [` App Store`](https://itunes.apple.com/app/id943796588)  
+  <details><summary><code>ipad</code> <code>c++</code> </summary>
+
+  https://github.com/peterrudenko/helio-workstation<br>  Added April 27, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='Helio Workstation image 1' src='http://a1.mzstatic.com/us/r30/Purple111/v4/ec/90/d9/ec90d9a0-0eac-cc83-0781-16cc3eebd783/sc552x414.jpeg'> <img height='300' alt='Helio Workstation image 2' src='http://a4.mzstatic.com/us/r30/Purple122/v4/72/a1/be/72a1bedb-055b-2fc5-b8e6-bcfb8f396b61/sc552x414.jpeg'> 
+</div>
+  </details>
+
 - MiamiSunglasses: Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation (YEAAAAAAAAAAHH)  
   <details><summary><code>swift</code> </summary>
 
@@ -5753,6 +5761,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
   https://github.com/realm-demos/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='http://i.imgur.com/Y9ZG7Of.png'> 
+</div>
+  </details>
+
+- Reviewery: Rate songs in Spotify playlists  
+  <details><summary><code>react-native</code> </summary>
+
+  https://github.com/vadymmarkov/reviewery-mobile<br>  Added April 27, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Reviewery image 1' src='https://github.com/vadymmarkov/reviewery-mobile/raw/master/reviewery.gif'> 
 </div>
   </details>
 
