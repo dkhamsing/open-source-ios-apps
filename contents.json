@@ -12747,6 +12747,17 @@
         "license": "gpl-3.0",
         "date_added": "Apr 27 2017",
         "suggested_by": "@dkhamsing"
-      }      
+      },
+      {
+        "title": "Reviewery",
+        "description": "Rate songs in Spotify playlists",
+        "source": "https://github.com/vadymmarkov/reviewery-mobile",
+        "category-ids": ["react-native"],
+        "tags": ["react-native"],
+        "screenshots": ["https://github.com/vadymmarkov/reviewery-mobile/raw/master/reviewery.gif"],
+        "license": "mit",
+        "date_added": "Apr 27 2017",
+        "suggested_by": "@dkhamsing"
+      }
   ]
 }
