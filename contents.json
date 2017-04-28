@@ -12764,6 +12764,7 @@
         "description": "Developer tool for creating experiences with interactive gestures & graphics",
         "source": "https://github.com/expo/expo",
         "itunes": "https://itunes.apple.com/app/expo-client/id982107779",
+        "homepage": "https://expo.io/",
         "tags": ["react-native", "javascript"],
         "screenshots": ["http://a4.mzstatic.com/us/r30/Purple111/v4/42/1e/6e/421e6e4d-2524-5e1a-93aa-b8159d48a8fa/screen696x696.jpeg"],
         "category-ids": ["developer"],
