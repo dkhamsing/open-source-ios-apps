@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-663-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2027,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-664-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2028,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1241,6 +1241,14 @@ Click ► to show more details
 
   https://github.com/brianmichel/ESCapey<br>  Added October 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='ESCapey image 1' src='https://github.com/brianmichel/ESCapey/raw/master/images/ios-screenshot-2.png'> <img height='300' alt='ESCapey image 2' src='https://github.com/brianmichel/ESCapey/raw/master/images/ios-screenshot-1.png'> 
+</div>
+  </details>
+
+- Expo Client: Developer tool for creating experiences with interactive gestures & graphics [` App Store`](https://itunes.apple.com/app/expo-client/id982107779)  
+  <details><summary><code>react-native</code> <code>javascript</code> </summary>
+
+  https://github.com/expo/expo<br>  Added April 28, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  <div><img height='300' alt='Expo Client image 1' src='http://a4.mzstatic.com/us/r30/Purple111/v4/42/1e/6e/421e6e4d-2524-5e1a-93aa-b8159d48a8fa/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -3012,7 +3020,7 @@ Image, video, audio, reading — [back to top](#readme)
 - MuPDF: A PDF, XPS/OpenXPS, CBZ & EPUB document viewer [` App Store`](https://itunes.apple.com/app/id482941798)  
   <details><summary><code>objc</code> </summary>
 
-  http://git.ghostscript.com/?p=mupdf.git;a=summary<br>  http://mupdf.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
+  http://git.ghostscript.com/?p=mupdf.git;a=summary<br>  https://mupdf.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
   <div><img height='300' alt='MuPDF image 1' src='http://a5.mzstatic.com/us/r30/Purple3/v4/da/1b/05/da1b0583-54d6-d116-1ebb-4d4d9a4737ac/screen696x696.jpeg'> <img height='300' alt='MuPDF image 2' src='http://a4.mzstatic.com/us/r30/Purple1/v4/ac/50/ef/ac50ef39-e1af-2dd1-87a3-d0b2931d089b/screen696x696.jpeg'> <img height='300' alt='MuPDF image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/44/9d/26/449d26a2-756c-d034-f734-0f6924b9937d/screen696x696.jpeg'> 
 </div>
   </details>
