@@ -8925,7 +8925,7 @@
       ],
       "description": "A PDF, XPS/OpenXPS, CBZ & EPUB document viewer",
       "source": "http://git.ghostscript.com/?p=mupdf.git;a=summary",
-      "homepage": "http://mupdf.com/",
+      "homepage": "https://mupdf.com/",
       "itunes": "https://itunes.apple.com/app/id482941798",
       "license": "agpl-3.0",
       "date_added": "Thu Jun 2 00:00:00 2016 -0600",
