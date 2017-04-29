@@ -12770,6 +12770,15 @@
         "license": "bsd-3-clause",
         "date_added": "Apr 28 2017",
         "suggested_by": "@dkhamsing"
+      },
+      {
+        "title": "boilerplate",
+        "source": "https://github.com/tailec/boilerplate",
+        "tags": ["swift", "archive"],
+        "category-ids": ["sample"],
+        "license": "other",
+        "date_added": "Apr 28 2017",
+        "suggested_by": "@dkhamsing"
       }
   ]
 }
