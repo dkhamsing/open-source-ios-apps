@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-665-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2029,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-665-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%201,%202017-lightgrey.svg)
 
 Jump to
 
@@ -477,7 +477,7 @@ Click ► to show more details
   </details>
 
 - WatchNote: Control your Keynote using Apple Watch  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> 🔥</summary>
 
   https://github.com/ezefranca/WatchNote<br>  Added March 28, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='WatchNote image 1' src='https://github.com/ezefranca/WatchNote/blob/master/print.png?raw=true'> 
@@ -485,7 +485,7 @@ Click ► to show more details
   </details>
 
 - watchOS-2-Sampler: watchOS 2 new features example code  
-  <details><summary><code>swift</code> <code>watchos2</code> 🔥🔥🔥</summary>
+  <details><summary><code>swift</code> <code>watchos2</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/shu223/watchOS-2-Sampler<br>  Added June 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='watchOS-2-Sampler image 1' src='https://github.com/shu223/watchOS-2-Sampler/raw/master/ResourcesForREADME/animation.gif'> 
@@ -1245,9 +1245,9 @@ Click ► to show more details
   </details>
 
 - Expo Client: Developer tool for creating experiences with interactive gestures & graphics [` App Store`](https://itunes.apple.com/app/expo-client/id982107779)  
-  <details><summary><code>react-native</code> <code>javascript</code> </summary>
+  <details><summary><code>react-native</code> <code>javascript</code> 🔥🔥🔥</summary>
 
-  https://github.com/expo/expo<br>  Added April 28, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  https://github.com/expo/expo<br>  https://expo.io/<br>  Added April 28, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   <div><img height='300' alt='Expo Client image 1' src='http://a4.mzstatic.com/us/r30/Purple111/v4/42/1e/6e/421e6e4d-2524-5e1a-93aa-b8159d48a8fa/screen696x696.jpeg'> 
 </div>
   </details>
@@ -1285,7 +1285,7 @@ Click ► to show more details
   </details>
 
 - MobileTerminal: Proof-of-concept for sandboxed Terminal environment  
-  <details><summary><code>c</code> <code>dlopen</code> </summary>
+  <details><summary><code>c</code> <code>dlopen</code> 🔥</summary>
 
   https://github.com/steventroughtonsmith/MobileTerminal<br>  Added February  6, 2017<br>  License: `other`
   <div><img height='300' alt='MobileTerminal image 1' src='http://hccdata.s3.amazonaws.com/gh_mobileterm_1.jpg'> 
@@ -2914,7 +2914,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 Image, video, audio, reading — [back to top](#readme) 
  
 - ASCII Art Generator  
-  <details><summary><code>swift</code> 🔥</summary>
+  <details><summary><code>swift</code> 🔥🔥</summary>
 
   https://github.com/ijoshsmith/swift-ascii-art<br>  Added May  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='ASCII Art Generator image 1' src='https://camo.githubusercontent.com/9ba7830d528cd45c20fc771b7347e8d2191a8cc6/68747470733a2f2f696a6f7368736d6974682e66696c65732e776f726470726573732e636f6d2f323031352f30342f61736369695f6b65726d69742e706e67'> 
@@ -3119,7 +3119,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - Helio Workstation: Lightweight music creation playground [` App Store`](https://itunes.apple.com/app/id943796588)  
-  <details><summary><code>ipad</code> <code>c++</code> </summary>
+  <details><summary><code>ipad</code> <code>c++</code> 🔥🔥🔥</summary>
 
   https://github.com/peterrudenko/helio-workstation<br>  Added April 27, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Helio Workstation image 1' src='http://a1.mzstatic.com/us/r30/Purple111/v4/ec/90/d9/ec90d9a0-0eac-cc83-0781-16cc3eebd783/sc552x414.jpeg'> <img height='300' alt='Helio Workstation image 2' src='http://a4.mzstatic.com/us/r30/Purple122/v4/72/a1/be/72a1bedb-055b-2fc5-b8e6-bcfb8f396b61/sc552x414.jpeg'> 
@@ -3364,7 +3364,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - PhotoBrowser: Simple Instagram photo browser  
-  <details><summary><code>swift</code> <code>instagram api</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> <code>instagram api</code> 🔥🔥🔥</summary>
 
   https://github.com/MoZhouqi/PhotoBrowser<br>  Added March 31, 2015<br>  License: `other`
   <div><img height='300' alt='PhotoBrowser image 1' src='https://raw.githubusercontent.com/MoZhouqi/PhotoBrowser/master/assets/login.png'> <img height='300' alt='PhotoBrowser image 2' src='https://raw.githubusercontent.com/MoZhouqi/PhotoBrowser/master/assets/gallary.png'> 
