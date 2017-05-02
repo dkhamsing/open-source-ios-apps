@@ -12918,6 +12918,18 @@
       "date_added": "Apr 28 2017",
       "suggested_by": "@dkhamsing",
       "stars": 285
+    },
+    {
+      "title": "Kryptonite",
+      "source": "https://github.com/KryptCo/kryptonite-ios",
+      "itunes": "https://itunes.apple.com/app/kryptonite-protect-your-ssh-private-key/id1161494806",
+      "description": "Generate & store an SSH key on your phone",
+      "tags": ["swift"],
+      "category-ids": ["security"],
+      "screenshots": ["http://a2.mzstatic.com/us/r30/Purple122/v4/a1/44/1f/a1441fb4-a4de-c877-fe07-335c75724c03/screen696x696.jpeg"],
+      "license": "other",
+      "date_added": "May 2 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
