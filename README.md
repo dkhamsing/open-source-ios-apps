@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-665-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%201,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-666-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%202,%202017-lightgrey.svg)
 
 Jump to
 
@@ -4475,6 +4475,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details><summary><code>react native</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/keybase/client<br>  Added February  9, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+
+- Kryptonite: Generate & store an SSH key on your phone [` App Store`](https://itunes.apple.com/app/kryptonite-protect-your-ssh-private-key/id1161494806)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/KryptCo/kryptonite-ios<br>  Added May  2, 2017<br>  License: `other`
+  <div><img height='300' alt='Kryptonite image 1' src='http://a2.mzstatic.com/us/r30/Purple122/v4/a1/44/1f/a1441fb4-a4de-c877-fe07-335c75724c03/screen696x696.jpeg'> 
+</div>
   </details>
 
 - Onions: Cloud encrypted notes [` App Store`](https://itunes.apple.com/app/onions/id687296481)  
