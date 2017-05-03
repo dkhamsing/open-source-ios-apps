@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-667-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%202,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-668-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%203,%202017-lightgrey.svg)
 
 Jump to
 
@@ -3142,6 +3142,14 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
+- Prodigal Music Player [` App Store`](https://itunes.apple.com/app/kuansun/id1231296263)  
+  <details><summary><code>swift</code> <code>snapkit</code> <code>haneke</code> <code>koloda</code> </summary>
+
+  https://github.com/SpongeBobSun/Prodigal-iOS<br>  Added May  3, 2017<br>  License: `other`
+  <div><img height='300' alt='Prodigal Music Player image 1' src='https://github.com/SpongeBobSun/Prodigal-iOS/raw/master/artworks/home.png'> 
+</div>
+  </details>
+
 - Radio Paradise: Official app for http://www.radioparadise.com/ [` App Store`](https://itunes.apple.com/app/id663334697)  
   <details><summary><code>objc</code> </summary>
 
@@ -4177,9 +4185,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - Drrrible: Unofficial Dribbble app [` App Store`](https://itunes.apple.com/app/drrrible/id1229592223)  
-  <details><summary><code>swift</code> <code>reactorkit</code> <code>moya</code> <code>kingfisher</code> </summary>
+  <details><summary><code>swift</code> <code>reactorkit</code> <code>moya</code> <code>kingfisher</code> 🔥</summary>
 
-  https://github.com/devxoul/Drrrible<br>  Added May  3, 2017
+  https://github.com/devxoul/Drrrible<br>  Added May  3, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Drrrible image 1' src='http://a3.mzstatic.com/us/r30/Purple111/v4/32/20/62/32206236-57e6-dd41-ccc6-9d9870a6e1ac/screen696x696.jpeg'> <img height='300' alt='Drrrible image 2' src='http://a4.mzstatic.com/us/r30/Purple111/v4/6f/1f/77/6f1f771f-c9a8-5d60-6556-1bcb3993d568/screen696x696.jpeg'> <img height='300' alt='Drrrible image 3' src='http://a1.mzstatic.com/us/r30/Purple122/v4/81/bc/39/81bc3933-4d0a-97da-88ab-265b679a2801/screen696x696.jpeg'> 
 </div>
   </details>
