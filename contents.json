@@ -12941,6 +12941,17 @@
       "screenshots": ["http://a3.mzstatic.com/us/r30/Purple111/v4/32/20/62/32206236-57e6-dd41-ccc6-9d9870a6e1ac/screen696x696.jpeg", "http://a4.mzstatic.com/us/r30/Purple111/v4/6f/1f/77/6f1f771f-c9a8-5d60-6556-1bcb3993d568/screen696x696.jpeg", "http://a1.mzstatic.com/us/r30/Purple122/v4/81/bc/39/81bc3933-4d0a-97da-88ab-265b679a2801/screen696x696.jpeg"],
       "date_added": "May 3 2017",
       "suggested_by": "@devxoul"
+    },
+    {
+      "title": "Prodigal Music Player",
+      "source": "https://github.com/SpongeBobSun/Prodigal-iOS",
+      "itunes": "https://itunes.apple.com/app/kuansun/id1231296263",
+      "category-ids": ["audio"],
+      "tags": ["swift", "snapkit", "haneke", "koloda"],
+      "screenshots": ["https://github.com/SpongeBobSun/Prodigal-iOS/raw/master/artworks/home.png"],
+      "license": "other",
+      "date_added": "May 3 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
