@@ -12960,7 +12960,7 @@
       "source": "https://github.com/keitaito/NCCBF-iOS",
       "itunes": "https://itunes.apple.com/app/northern-california-cherry-blossom-festival/id981016442",
       "homepage": "https://sfcherryblossom.org/",
-      "category-ids": ["official"],
+      "category-ids": ["official", "event"],
       "tags": ["swift"],
       "screenshots": [
         "http://a5.mzstatic.com/us/r30/Purple122/v4/85/60/0d/85600dea-3b85-bb34-07c0-a66db27d11e3/screen696x696.jpeg",
