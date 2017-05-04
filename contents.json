@@ -38,10 +38,6 @@
       "id": "communication"
     },
     {
-      "title": "Conference",
-      "id": "conference"
-    },
-    {
       "title": "Developer",
       "id": "developer"
     },
@@ -57,6 +53,10 @@
     {
       "title": "Emulator",
       "id": "emulator"
+    },
+    {
+      "title": "Event",
+      "id": "event"
     },
     {
       "title": "Extension",
@@ -843,7 +843,7 @@
       "title": "Parties for WWDC",
       "category-ids": [
         "apple-watch",
-        "conference"
+        "event"
       ],
       "tags": [
         "cloudkit"
@@ -1456,7 +1456,7 @@
     {
       "title": "EventBlankApp",
       "category-ids": [
-        "conference"
+        "event"
       ],
       "description": "Template event / conference app",
       "license": "mit",
@@ -1475,7 +1475,7 @@
     {
       "title": "Nortal TechDay 2015",
       "category-ids": [
-        "conference",
+        "event",
         "react-native"
       ],
       "tags": [
@@ -1494,7 +1494,7 @@
     {
       "title": "Parse 2013 Developer Day",
       "category-ids": [
-        "conference"
+        "event"
       ],
       "screenshots": [
         "http://i.imgur.com/CarzInm.png"
@@ -1508,7 +1508,7 @@
     {
       "title": "RWDevCon",
       "category-ids": [
-        "conference"
+        "event"
       ],
       "source": "https://github.com/raywenderlich/RWDevCon-App",
       "itunes": "https://itunes.apple.com/app/rwdevcon-tutorial-conference/id958625272",
@@ -1530,7 +1530,7 @@
     {
       "title": "try! Swift",
       "category-ids": [
-        "conference",
+        "event",
         "apple-watch"
       ],
       "source": "https://github.com/tryswift/trySwiftApp",
@@ -1548,7 +1548,7 @@
     {
       "title": "Valio Con 2014 Schedule",
       "category-ids": [
-        "conference"
+        "event"
       ],
       "license": "mit",
       "source": "https://github.com/soffes/valio",
@@ -3899,7 +3899,7 @@
     {
       "title": "TechTavta",
       "category-ids": [
-        "conference"
+        "event"
       ],
       "description": "Keep track of all events for Techtatva 2015",
       "source": "https://github.com/LUGM/TechTatva-15",
@@ -5723,7 +5723,7 @@
     {
       "title": "Hack Cancer Hackathon",
       "category-ids": [
-        "conference"
+        "event"
       ],
       "source": "https://github.com/HackCancer/iOS",
       "itunes": "https://itunes.apple.com/app/hack-cancer/id1030806844",
@@ -6900,7 +6900,7 @@
       "category-ids": [
         "react-native",
         "official",
-        "conference"
+        "event"
       ],
       "tags": [
         "react native"
@@ -11443,7 +11443,7 @@
       "title": "try! Swift NYC",
       "source": "https://github.com/tryswift/trySwiftNYC",
       "category-ids": [
-        "conference",
+        "event",
         "apple-watch",
         "realm"
       ],
@@ -11971,7 +11971,7 @@
       "source": "https://github.com/ayunav/MeetupOrganizer",
       "description": "Extends the Meetup app's functionality",
       "category-ids": [
-        "conference"
+        "event"
       ],
       "tags": [
         "swift",
@@ -12273,7 +12273,7 @@
         "acknowlist"
       ],
       "category-ids": [
-        "conference",
+        "event",
         "realm"
       ],
       "screenshots": [
