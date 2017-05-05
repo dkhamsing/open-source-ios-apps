@@ -12971,6 +12971,17 @@
       "license": "other",
       "date_added": "May 4 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "fudge",
+      "description": "An early stage app.net iPhone app",
+      "source": "https://github.com/FredericJacobs/fudge",
+      "tags": ["archive"],
+      "category-ids": ["social"],
+      "screenshots": ["http://f.cl.ly/items/0w3y0r1F2x1P0j3f1Z2z/fdasfsadfas800.png"],
+      "license": "other",
+      "date_added": "May 5 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
