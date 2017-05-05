@@ -5824,7 +5824,7 @@
       "category-ids": [
         "extension"
       ],
-      "description": "Post to app.net (shut down), includes a Share extension",
+      "description": "Post to app.net, includes a Share extension",
       "source": "https://github.com/dasdom/Jupp",
       "itunes": "https://itunes.apple.com/app/jupp-share-extension-for-app.net/id909926740",
       "tags": [
