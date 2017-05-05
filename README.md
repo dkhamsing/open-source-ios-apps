@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-669-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%204,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-670-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%205,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1532,14 +1532,6 @@ Click ► to show more details
 
   https://github.com/keitaito/NCCBF-iOS<br>  https://sfcherryblossom.org/<br>  Added May  4, 2017<br>  License: `other`
   <div><img height='300' alt='Northern California Cherry Blossom Festival image 1' src='http://a5.mzstatic.com/us/r30/Purple122/v4/85/60/0d/85600dea-3b85-bb34-07c0-a66db27d11e3/screen696x696.jpeg'> <img height='300' alt='Northern California Cherry Blossom Festival image 2' src='http://a5.mzstatic.com/us/r30/Purple111/v4/5d/00/d6/5d00d698-9537-6216-575f-b9dd327d3219/screen696x696.jpeg'> <img height='300' alt='Northern California Cherry Blossom Festival image 3' src='http://a3.mzstatic.com/us/r30/Purple111/v4/e5/97/e2/e597e2e9-2d30-f341-72b9-fe1a1227b8c4/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Parse 2013 Developer Day  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/ParsePlatform/ParseDeveloperDay<br>  Added March 17, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
-  <div><img height='300' alt='Parse 2013 Developer Day image 1' src='http://i.imgur.com/CarzInm.png'> 
 </div>
   </details>
 
