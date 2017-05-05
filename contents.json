@@ -2070,11 +2070,12 @@
         "spritekit"
       ],
       "description": "Try to escape The Spin Zone",
-      "source": "https://github.com/Nicholas714/Spin-Zone",
+      "source": "https://github.com/opensourceios/Spin-Zone",
       "itunes": "https://itunes.apple.com/app/id1200316153",
       "tags": [
         "swift3",
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "http://i.imgur.com/FRp0LLQ.jpg",
