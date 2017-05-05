@@ -1499,6 +1499,7 @@
       "screenshots": [
         "http://i.imgur.com/CarzInm.png"
       ],
+      "tags": ["archive"],
       "source": "https://github.com/ParsePlatform/ParseDeveloperDay",
       "stars": 92,
       "license": "cc0-1.0",
