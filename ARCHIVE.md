@@ -24,6 +24,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Everest https://github.com/EverestOpenSource/Everest-iOS
 - FinalFighter https://github.com/sebcode/FinalFighter-iphone
 - Forecast https://github.com/richardxyx/Forecast
+- fudge https://github.com/FredericJacobs/fudge
 - github-issues https://github.com/chriseidhof/github-issues
 - Google Feud https://github.com/opensourceios/Google-Feud-iOS
 - Hack Cancer Hackathon https://github.com/HackCancer/iOS
@@ -41,6 +42,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - OpenCB https://github.com/opensourceios/OpenCB
 - OpenClien https://github.com/kewlbear/OpenClien
 - Pancake https://github.com/Imaginea/pancake-ios
+- Parse 2013 Developer Day https://github.com/ParsePlatform/ParseDeveloperDay
 - ParseStore https://github.com/opensourceios/ParseStore
 - Paws http://www.appcoda.com/instagram-app-parse-swift/
 - Pi https://github.com/opensourceios/Pi
