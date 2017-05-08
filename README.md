@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-670-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%205,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-671-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%208,%202017-lightgrey.svg)
 
 Jump to
 
@@ -2382,14 +2382,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
   https://github.com/caleb0/SwiftSnake<br>  Added August 19, 2016<br>  License: `other`
   <div><img height='300' alt='SwiftSnake image 1' src='http://i.imgur.com/mBi9Jfj.png'> 
-</div>
-  </details>
-
-- The Spin Zone: Try to escape The Spin Zone [` App Store`](https://itunes.apple.com/app/id1200316153)  
-  <details><summary><code>swift</code> <code>swift3</code> </summary>
-
-  https://github.com/Nicholas714/Spin-Zone<br>  Added February 17, 2017
-  <div><img height='300' alt='The Spin Zone image 1' src='http://i.imgur.com/FRp0LLQ.jpg'> <img height='300' alt='The Spin Zone image 2' src='http://i.imgur.com/fllPKj9.jpg'> 
 </div>
   </details>
 
@@ -6091,6 +6083,12 @@ https://www.xamarin.com/ — [back to top](#readme)
   https://github.com/tastejs/PropertyCross/tree/master/xamarin<br>  Added December  5, 2016<br>  License: `other`
   <div><img height='300' alt='PropertyCross image 1' src='http://propertycross.com/frameworks/xamarin/ios/PropertyCross.thumbnail.png'> <img height='300' alt='PropertyCross image 2' src='http://propertycross.com/frameworks/xamarin/ios/SearchResults.thumbnail.png'> 
 </div>
+  </details>
+
+- Toggl Timer: Timesheet tracker  
+  <details><summary><code>csharp</code> </summary>
+
+  https://github.com/toggl/mobileapp<br>  Added May  8, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
 
 
