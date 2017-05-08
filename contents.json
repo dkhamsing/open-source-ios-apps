@@ -12983,6 +12983,16 @@
       "license": "other",
       "date_added": "May 5 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Toggl Timer",
+      "description": "Timesheet tracker",
+      "source": "https://github.com/toggl/mobileapp",
+      "tags": ["csharp"],
+      "category-ids": ["xamarin"],
+      "license": "bsd-3-clause",
+      "date_added": "May 8 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
