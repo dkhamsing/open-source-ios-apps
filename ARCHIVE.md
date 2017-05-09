@@ -48,6 +48,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Pi https://github.com/opensourceios/Pi
 - PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
 - Potatso https://github.com/opensourceios/Potatso
+- Product Catalogue https://github.com/contentful/product-catalogue-swift
 - Repo https://github.com/ricburton/Repo
 - Speak https://github.com/opensourceios/speakability
 - Steps https://github.com/gizmosachin/Steps
