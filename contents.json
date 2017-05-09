@@ -12993,6 +12993,15 @@
       "license": "bsd-3-clause",
       "date_added": "May 8 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Product Catalogue",
+      "source": "https://github.com/contentful/product-catalogue-swift",
+      "tags": ["swift", "archive"],
+      "category-ids": ["sample"],
+      "license": "mit",
+      "date_added": "May 9 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
