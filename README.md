@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-672-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%209,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-672-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2010,%202017-lightgrey.svg)
 
 Jump to
 
@@ -5804,6 +5804,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
+- RNTester: Showcases React Native views & modules  
+  <details><summary><code>react native</code> </summary>
+
+  https://github.com/facebook/react-native/tree/master/RNTester<br>  Added February  5, 2016<br>  License: `other`
+  <div><img height='300' alt='RNTester image 1' src='http://i.imgur.com/DYqIgci.png'> 
+</div>
+  </details>
+
 - RSS Reader  
   <details><summary><code>react native</code> 🔥</summary>
 
@@ -5855,14 +5863,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
   https://github.com/IFours/react-native-twitch<br>  Added February  4, 2016<br>  License: `other`
   <div><img height='300' alt='Twitch image 1' src='https://github.com/IFours/react-native-twitch/raw/rn0.15/assets/twitch.gif'> 
-</div>
-  </details>
-
-- UIExplorer: App by Facebook  
-  <details><summary><code>react native</code> </summary>
-
-  https://github.com/facebook/react-native/tree/master/Examples/UIExplorer<br>  Added February  5, 2016<br>  License: `other`
-  <div><img height='300' alt='UIExplorer image 1' src='http://i.imgur.com/DYqIgci.png'> <img height='300' alt='UIExplorer image 2' src='http://i.imgur.com/0AO67Ft.png'> <img height='300' alt='UIExplorer image 3' src='http://i.imgur.com/PDwLOQk.png'> <img height='300' alt='UIExplorer image 4' src='http://i.imgur.com/s7gWFoy.png'> 
 </div>
   </details>
 
