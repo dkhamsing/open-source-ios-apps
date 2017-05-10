@@ -6770,7 +6770,7 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "UIExplorer",
+      "title": "RNTester",
       "category-ids": [
         "react-native"
       ],
@@ -6778,13 +6778,10 @@
         "react native"
       ],
       "screenshots": [
-        "http://i.imgur.com/DYqIgci.png",
-        "http://i.imgur.com/0AO67Ft.png",
-        "http://i.imgur.com/PDwLOQk.png",
-        "http://i.imgur.com/s7gWFoy.png"
+        "http://i.imgur.com/DYqIgci.png"
       ],
-      "description": "App by Facebook",
-      "source": "https://github.com/facebook/react-native/tree/master/Examples/UIExplorer",
+      "description": "Showcases React Native views & modules",
+      "source": "https://github.com/facebook/react-native/tree/master/RNTester",
       "license": "other",
       "date_added": "Fri, 5 Feb 2016 07:55:10 -0800",
       "suggested_by": "@dkhamsing"
