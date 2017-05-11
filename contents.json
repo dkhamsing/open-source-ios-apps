@@ -12163,6 +12163,7 @@
     {
       "title": "Keybase",
       "source": "https://github.com/keybase/client",
+      "itunes": "https://itunes.apple.com/app/keybase-crypto-for-everyone/id1044461770",
       "category-ids": [
         "security",
         "react-native"
