@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-672-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2010,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-673-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2011,%202017-lightgrey.svg)
 
 Jump to
 
@@ -786,6 +786,14 @@ Click ► to show more details
 
   https://github.com/devxoul/graygram-ios<br>  Added March 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='graygram image 1' src='https://cloud.githubusercontent.com/assets/931655/23171892/4d3fd606-f897-11e6-87e0-7230d3010c7b.png'> 
+</div>
+  </details>
+
+- Pinterest  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/ivsall2012/AHPinterest<br>  Added May 11, 2017<br>  License: `other`
+  <div><img height='300' alt='Pinterest image 1' src='https://github.com/ivsall2012/AHPinterest/blob/master/AHPinterset.png?raw=true'> 
 </div>
   </details>
 
