@@ -12999,6 +12999,16 @@
       "license": "mit",
       "date_added": "May 9 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Pinterest",
+      "source": "https://github.com/ivsall2012/AHPinterest",
+      "screenshots": ["https://github.com/ivsall2012/AHPinterest/blob/master/AHPinterset.png?raw=true"],
+      "tags": ["swift"],
+      "category-ids": ["clone"],
+      "license": "other",
+      "date_added": "May 11 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
