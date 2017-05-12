@@ -13014,12 +13014,12 @@
     {
       "title": "Compass",
       "category-ids": ["location"],
-      "description": "A Minimal Compass App",
+      "description": "Minimal compass",
       "source": "https://github.com/zntfdr/Compass",
-      "itunes": "https://itunes.apple.com/app/compass-a-minimal-compass-app/id1231545538",		
-      "license": "mit",       
+      "itunes": "https://itunes.apple.com/app/compass-a-minimal-compass-app/id1231545538",
+      "license": "mit",
       "tags": ["swift"],
-      "screenshots": ["https://github.com/zntfdr/Compass/raw/master/logo.png"],
+      "screenshots": ["http://a5.mzstatic.com/us/r30/Purple122/v4/ea/60/8e/ea608e2a-a471-11d8-1801-e621ad8ed651/screen696x696.jpeg"],
       "date_added": "May 12 2017",
       "suggested_by": "@zntfdr"
     }
