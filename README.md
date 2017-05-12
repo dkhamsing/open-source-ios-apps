@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-673-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2011,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-674-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2012,%202017-lightgrey.svg)
 
 Jump to
 
@@ -2644,6 +2644,14 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
+- Compass: Minimal compass [` App Store`](https://itunes.apple.com/app/compass-a-minimal-compass-app/id1231545538)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/zntfdr/Compass<br>  Added May 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Compass image 1' src='http://a5.mzstatic.com/us/r30/Purple122/v4/ea/60/8e/ea608e2a-a471-11d8-1801-e621ad8ed651/screen696x696.jpeg'> 
+</div>
+  </details>
+
 - CrimeMapper: Look at crime data in the UK [` App Store`](https://itunes.apple.com/app/crimemapper/id1212133404)  
   <details><summary><code>swift</code> </summary>
 
@@ -3988,7 +3996,7 @@ https://newsapi.org/ — [back to top](#readme)
 - Scholars of WWDC: Official app of recipients for https://developer.apple.com/wwdc/scholarships/ [` App Store`](https://itunes.apple.com/app/scholars-of-wwdc/id999731893)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/WWDCScholars/WWDCScholars-iOS<br>  https://wwdcscholars.com/<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/WWDCScholars/iOS-app<br>  https://wwdcscholars.com/<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Scholars of WWDC image 1' src='http://a1.mzstatic.com/us/r30/Purple60/v4/ab/92/bb/ab92bbe9-6540-ff6b-836d-9fd737221466/screen696x696.jpeg'> 
 </div>
   </details>
@@ -4495,7 +4503,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   https://github.com/iCepa/iCepa<br>  Added September  7, 2016<br>  License: `other`
   </details>
 
-- Keybase  
+- Keybase [` App Store`](https://itunes.apple.com/app/keybase-crypto-for-everyone/id1044461770)  
   <details><summary><code>react native</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/keybase/client<br>  Added February  9, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
@@ -5694,7 +5702,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
-- Keybase  
+- Keybase [` App Store`](https://itunes.apple.com/app/keybase-crypto-for-everyone/id1044461770)  
   <details><summary><code>react native</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/keybase/client<br>  Added February  9, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
