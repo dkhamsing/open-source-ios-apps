@@ -13010,6 +13010,18 @@
       "license": "other",
       "date_added": "May 11 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Compass",
+      "category-ids": ["location"],
+      "description": "A Minimal Compass App",
+      "source": "https://github.com/zntfdr/Compass",
+      "itunes": "https://itunes.apple.com/app/compass-a-minimal-compass-app/id1231545538",		
+      "license": "mit",       
+      "tags": ["swift"],
+      "screenshots": ["https://github.com/zntfdr/Compass/raw/master/logo.png"],
+      "date_added": "May 12 2017",
+      "suggested_by": "@zntfdr"
     }
   ]
 }
