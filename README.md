@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-674-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2012,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-675-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2016,%202017-lightgrey.svg)
 
 Jump to
 
@@ -2849,6 +2849,14 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
   https://github.com/flexih/Cafe<br>  Added April 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='S.I.T. (雕刻时光) image 1' src='https://github.com/flexih/Cafe/raw/master/snapshot/1.png'> 
+</div>
+  </details>
+
+- Santa Tracker  
+  <details><summary><code>swift</code> <code>realm</code> </summary>
+
+  https://github.com/keitaito/RealmSantaTracker<br>  Added May 16, 2017<br>  License: `other`
+  <div><img height='300' alt='Santa Tracker image 1' src='http://images.contentful.com/emmiduwd41v7/1TmcZsJy7Si4qCYm24aAse/158d511e7e58461d64cf902fb5a26d32/santa-app-final.png'> 
 </div>
   </details>
 
@@ -5986,6 +5994,14 @@ https://realm.io/ — [back to top](#readme)
 
   https://github.com/vector-im/riot-ios<br>  https://vector.im/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Riot image 1' src='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Santa Tracker  
+  <details><summary><code>swift</code> <code>realm</code> </summary>
+
+  https://github.com/keitaito/RealmSantaTracker<br>  Added May 16, 2017<br>  License: `other`
+  <div><img height='300' alt='Santa Tracker image 1' src='http://images.contentful.com/emmiduwd41v7/1TmcZsJy7Si4qCYm24aAse/158d511e7e58461d64cf902fb5a26d32/santa-app-final.png'> 
 </div>
   </details>
 
