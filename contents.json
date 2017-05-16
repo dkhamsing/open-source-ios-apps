@@ -13022,6 +13022,16 @@
       "screenshots": ["http://a5.mzstatic.com/us/r30/Purple122/v4/ea/60/8e/ea608e2a-a471-11d8-1801-e621ad8ed651/screen696x696.jpeg"],
       "date_added": "May 12 2017",
       "suggested_by": "@zntfdr"
+    },
+    {
+      "title": "Santa Tracker",
+      "source": "https://github.com/keitaito/RealmSantaTracker",
+      "category-ids": ["location", "realm"],
+      "license": "other",
+      "tags": ["swift", "realm"],
+      "screenshots": ["http://images.contentful.com/emmiduwd41v7/1TmcZsJy7Si4qCYm24aAse/158d511e7e58461d64cf902fb5a26d32/santa-app-final.png"],
+      "date_added": "May 16 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
