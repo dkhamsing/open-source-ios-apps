@@ -1135,7 +1135,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Dash: Instant offline access to 150+ API documentation sets [` App Store`](https://itunes.apple.com/app/dash-kapeli-free/id1176522123)  
+- Dash: Instant offline access to 150+ API documentation sets  
   <details><summary><code>iphone</code> <code>ipad</code> <code>kissxml</code> <code>dznemptydataset</code> <code>dtbonjour</code> <code>samkeychain</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/Kapeli/Dash-iOS<br>  https://kapeli.com/dash_ios<br>  Added November 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
@@ -4712,7 +4712,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>fuse-tools</code> </summary>
 
   https://github.com/jeroensmeets/mastodon-app<br>  Added April 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='11t image 1' src='https://raw.githubusercontent.com/jeroensmeets/mastodon-app/master/assets/images/store/resized/screenshot_notifications.png?raw=true'> 
+  <div><img height='300' alt='11t image 1' src='https://raw.githubusercontent.com/jeroensmeets/mastodon-app/master/assets/images/store/app%20store/screenshot_timeline.png'> 
 </div>
   </details>
 
