@@ -13032,6 +13032,15 @@
       "screenshots": ["http://images.contentful.com/emmiduwd41v7/1TmcZsJy7Si4qCYm24aAse/158d511e7e58461d64cf902fb5a26d32/santa-app-final.png"],
       "date_added": "May 16 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Quickstart Samples",
+      "source": "https://github.com/firebase/quickstart-ios",
+      "category-ids": ["firebase"],
+      "license": "apache-2.0",
+      "stars": 640,
+      "date_added": "May 17 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
