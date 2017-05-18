@@ -8,7 +8,7 @@ ARCHIVE_TAG = 'archive'
 
 def apps_archived(apps)
   a = apps.select {|a| a['tags'] != nil }.select {|b| b['tags'].include?ARCHIVE_TAG}
-  a.sort_by { |k, v| k['title'] }
+  a.sort_by { |k, v| k['title'].downcase }
 end
 
 def apps_for_cat(apps, id)
@@ -58,19 +58,19 @@ def output_apps(apps)
     end
     o << "- #{t} \n"
 
-    o <<  "<details><summary>"
+    o <<  "  <details><summary>"
 
     details = if tags.nil?
-      '`objc` '
+      '<code>objc</code> '
     else
       ''
     end
 
     unless tags.nil?
-      details << '`swift` ' if tags.include? 'swift'
+      details << '<code>swift</code> ' if tags.include? 'swift'
 
       tags.each do |t|
-        details << "`#{t.downcase}` " if t.downcase!='swift'
+        details << "<code>#{t.downcase}</code> " if t.downcase!='swift'
       end
     end
 
@@ -105,22 +105,20 @@ def output_apps(apps)
       details_list.push "License: #{license_display}"
     end
 
-    details = '  '
+    details = "\n\n  "
     details << details_list[0]
     details_list[1..-1].each { |x| details << "<br>  #{x}" }
 
     unless screenshots.nil?
-      details << "\n<div>"
+      details << "\n  <div>"
       screenshots.each_with_index do |s, i|
         details << "<img height='300' alt='#{name} image #{i+1}' src='#{screenshots[i]}'> "
       end
       details << "\n</div>"
     end
 
-    details << "\n  </details>\n"
+    details << "\n  </details>\n\n"
     o << details
-
-    o << "</details> \n"
   end
   o
 end
@@ -128,6 +126,7 @@ end
 def output_badges(count)
   date = DateTime.now
   date_display = date.strftime "%B %e, %Y"
+  date_display = date_display.gsub ' ', '%20'
 
   b = "![](https://img.shields.io/badge/Projects-#{count}-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-#{date_display}-lightgrey.svg)"
   b
