@@ -13046,10 +13046,10 @@
     	"category-ids": ["timer"],
     	"description": "Helps you to take care of your pet's routines & schedules",
     	"source": "https://github.com/feliborgez/4pets",
-    	"date-added": "May 18 2017",
+    	"date_added": "May 18 2017",
     	"suggested_by": "@feliborgez",
     	"screenshots": ["https://raw.githubusercontent.com/feliborgez/4pets/master/img/screenshots.png"],
-    	"license": "gpl-3",
+    	"license": "gpl-3.0",
     	"tags": ["swift"]
     }
   ]
