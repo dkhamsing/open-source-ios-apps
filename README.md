@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-676-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2017,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-677-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2018,%202017-lightgrey.svg)
 
 Jump to
 
@@ -4712,7 +4712,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>fuse-tools</code> </summary>
 
   https://github.com/jeroensmeets/mastodon-app<br>  Added April 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='11t image 1' src='https://raw.githubusercontent.com/jeroensmeets/mastodon-app/master/assets/images/store/app%20store/screenshot_timeline.png'> 
+  <div><img height='300' alt='11t image 1' src='https://github.com/jeroensmeets/mastodon-app/blob/master/Assets/images/store/appstore/screenshot_timeline.png?raw=true'> 
 </div>
   </details>
 
@@ -4914,6 +4914,14 @@ https://mastodon.social — [back to top](#readme)
  
 [back to top](#readme) 
  
+- 4Pets: Helps you to take care of your pet's routines & schedules  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/feliborgez/4pets<br>  Added May 18, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='4Pets image 1' src='https://raw.githubusercontent.com/feliborgez/4pets/master/img/screenshots.png'> 
+</div>
+  </details>
+
 - C-41: Simple timer to make developing film easier & more reliable  
   <details><summary><code>objc</code> 🔥🔥🔥🔥</summary>
 
