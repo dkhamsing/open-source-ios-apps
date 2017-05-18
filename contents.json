@@ -13044,13 +13044,13 @@
     {
     	"title": "4Pets",
     	"category-ids": ["timer"],
-    	"description": "Helps you to take care of your pet's routines and schedules.",
+    	"description": "Helps you to take care of your pet's routines & schedules",
     	"source": "https://github.com/feliborgez/4pets",
     	"date-added": "May 18 2017",
     	"suggested_by": "@feliborgez",
-    	"screenshots": ["https://github.com/feliborgez/4pets/blob/master/img/screenshots.png"],
+    	"screenshots": ["https://raw.githubusercontent.com/feliborgez/4pets/master/img/screenshots.png"],
     	"license": "gpl-3",
-    	"tags": ["pet", "swift", "animal", "routine"]
+    	"tags": ["swift"]
     }
   ]
 }
