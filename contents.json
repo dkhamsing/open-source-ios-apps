@@ -13051,6 +13051,18 @@
     	"screenshots": ["https://raw.githubusercontent.com/feliborgez/4pets/master/img/screenshots.png"],
     	"license": "gpl-3.0",
     	"tags": ["swift"]
+    },
+    {
+    	"title": "Triggy",
+    	"category-ids": ["photo", "timer"],
+    	"description": "Intervalometer for WiFi-enabled Canon DSLRs",
+    	"source": "https://github.com/jnordberg/triggy",
+      "itunes": "https://itunes.apple.com/app/triggy/id1193570460",
+    	"date_added": "May 18 2017",
+    	"suggested_by": "@jnordberg",
+    	"screenshots": ["https://raw.githubusercontent.com/jnordberg/triggy/master/triggy.jpg"],
+    	"license": "gpl-3.0",
+    	"tags": ["swift"]
     }
   ]
 }
