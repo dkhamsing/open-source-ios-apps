@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-677-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2018,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-678-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2019,%202017-lightgrey.svg)
 
 Jump to
 
@@ -3627,6 +3627,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 
+- Triggy: Intervalometer for WiFi-enabled Canon DSLRs [` App Store`](https://itunes.apple.com/app/triggy/id1193570460)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/jnordberg/triggy<br>  Added May 18, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='Triggy image 1' src='https://raw.githubusercontent.com/jnordberg/triggy/master/triggy.jpg'> 
+</div>
+  </details>
+
 
 ### Video 
  
@@ -4965,6 +4973,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/EvgenyKarkan/TrackMyTime<br>  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='TrackMyTime image 1' src='http://a4.mzstatic.com/us/r30/Purple6/v4/f9/75/47/f9754726-07fd-1f7b-cda9-6f7135c45695/screen696x696.jpeg'> <img height='300' alt='TrackMyTime image 2' src='http://a1.mzstatic.com/us/r30/Purple4/v4/e5/5c/48/e55c4806-441f-a36e-75d6-0537445b380d/screen696x696.jpeg'> <img height='300' alt='TrackMyTime image 3' src='http://a5.mzstatic.com/us/r30/Purple/v4/bd/b6/a9/bdb6a9f5-fb3d-2a79-7cf4-9959267684b9/screen696x696.jpeg'> <img height='300' alt='TrackMyTime image 4' src='http://a5.mzstatic.com/us/r30/Purple6/v4/6f/48/03/6f4803c4-b260-474f-38f6-5d2f9c9cf344/screen696x696.jpeg'> <img height='300' alt='TrackMyTime image 5' src='http://a2.mzstatic.com/us/r30/Purple6/v4/46/0e/fb/460efb66-a2bc-dc45-832c-1429fa12ed91/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Triggy: Intervalometer for WiFi-enabled Canon DSLRs [` App Store`](https://itunes.apple.com/app/triggy/id1193570460)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/jnordberg/triggy<br>  Added May 18, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='Triggy image 1' src='https://raw.githubusercontent.com/jnordberg/triggy/master/triggy.jpg'> 
 </div>
   </details>
 
