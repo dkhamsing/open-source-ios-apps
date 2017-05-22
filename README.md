@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-678-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2019,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-679-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2022,%202017-lightgrey.svg)
 
 Jump to
 
@@ -2152,6 +2152,14 @@ Click ► to show more details
 
   https://github.com/Kjuly/iPokeMon<br>  Added May 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div>
+</div>
+  </details>
+
+- MechaHamster: Roll through customizable environments that you can share with friends  
+  <details><summary><code>unity3d</code> <code>csharp</code> <code>firebase</code> </summary>
+
+  https://github.com/google/mechahamster<br>  Added May 19, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='MechaHamster image 1' src='https://google.github.io/mechahamster/gameplay1.png'> 
 </div>
   </details>
 
@@ -4922,7 +4930,7 @@ https://mastodon.social — [back to top](#readme)
  
 [back to top](#readme) 
  
-- 4Pets: Helps you to take care of your pet's routines & schedules  
+- 4Pets: Helps you take care of your pet's routines & schedules  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/feliborgez/4pets<br>  Added May 18, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
