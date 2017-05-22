@@ -13063,6 +13063,17 @@
     	"screenshots": ["https://raw.githubusercontent.com/jnordberg/triggy/master/triggy.jpg"],
     	"license": "gpl-3.0",
     	"tags": ["swift"]
+    },
+    {
+      "title": "MechaHamster",
+      "source": "https://github.com/google/mechahamster",
+      "description": "Roll through customizable environments that you can share with friends",
+      "category-ids": ["game"],
+      "tags": ["unity3d", "csharp", "firebase"],
+      "screenshots": ["https://google.github.io/mechahamster/gameplay1.png"],
+      "license": "apache-2.0",
+      "date_added": "May 19 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
