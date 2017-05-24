@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-679-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2022,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-679-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2024,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1135,7 +1135,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Dash: Instant offline access to 150+ API documentation sets  
+- Dash: Instant offline access to 150+ API documentation sets [` App Store`](https://itunes.apple.com/app/dash-offline-api-docs/id1239167694)  
   <details><summary><code>iphone</code> <code>ipad</code> <code>kissxml</code> <code>dznemptydataset</code> <code>dtbonjour</code> <code>samkeychain</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/Kapeli/Dash-iOS<br>  https://kapeli.com/dash_ios<br>  Added November 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
@@ -4446,7 +4446,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - Reusable Code  
   <details><summary><code>swift</code> <code>airdrop</code> <code>avfoundation</code> <code>coreanimation</code> <code>coreimage</code> 🔥🔥🔥🔥🔥</summary>
 
-  https://github.com/CarlosEngr/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/claney/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - RKGist: GitHub Gists  
@@ -5411,7 +5411,7 @@ https://mastodon.social — [back to top](#readme)
 - Reusable Code  
   <details><summary><code>swift</code> <code>airdrop</code> <code>avfoundation</code> <code>coreanimation</code> <code>coreimage</code> 🔥🔥🔥🔥🔥</summary>
 
-  https://github.com/CarlosEngr/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/claney/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - Tagger: Help tag your photos on Instagram or Flickr  
