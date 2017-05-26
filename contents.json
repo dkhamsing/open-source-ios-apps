@@ -13075,6 +13075,128 @@
       "license": "apache-2.0",
       "date_added": "May 19 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Whatsapp clone",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "source": "https://github.com/VctrySam/whatsapp",
+      "stars": 602,
+      "license": "other",
+      "date_added": "Mon Aug 14 08:18:58 2016 -0800",
+      "screenshots": ["http://i.imgur.com/T6Hwv3b.png"],
+      "suggested_by": "@vitorebatista"
+    },
+    {
+      "title": "Snapchat clone",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": ["http://i.imgur.com/6HfPmrT.png"],
+      "source": "https://github.com/VctrySam/SnapChat",
+      "stars": 190,
+      "license": "other",
+      "date_added": "Mon Aug 14 08:19:58 2016 -0800",
+      "suggested_by": "@vitorebatista"
+    },
+    {
+      "title": "Pokemon Go clone",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": ["http://i.imgur.com/PrMRwmY.png"],
+      "source": "https://github.com/VctrySam/Pokemon",
+      "stars": 91,
+      "license": "other",
+      "date_added": "Mon Aug 14 08:06:58 2016 -0800",
+      "suggested_by": "@vitorebatista"
+    },
+    {
+      "title": "Tinder clone",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": ["http://i.imgur.com/I7d06Pq.png"],
+      "source": "https://github.com/VctrySam/Tinder",
+      "stars": 91,
+      "license": "other",
+      "date_added": "Mon Aug 14 08:06:58 2016 -0800",
+      "suggested_by": "@vitorebatista"
+    },
+    {
+      "title": "Twitter clone",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": ["http://i.imgur.com/0kzQBEJ.png"],
+      "source": "https://github.com/VctrySam/Twitter",
+      "stars": 34,
+      "license": "other",
+      "date_added": "Mon Aug 14 08:06:58 2016 -0800",
+      "suggested_by": "@vitorebatista"
+    },
+    {
+      "title": "AirBnb clone",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": ["http://i.imgur.com/vMgWK6m.png"],
+      "source": "https://github.com/VctrySam/AirBnb",
+      "stars": 62,
+      "license": "other",
+      "date_added": "Mon Aug 14 08:06:58 2016 -0800",
+      "suggested_by": "@vitorebatista"
+    },
+    {
+      "title": "FC Barcelona clone",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": ["http://i.imgur.com/6Xogt5Y.png"],
+      "source": "https://github.com/VctrySam/FCBarca",
+      "stars": 2,
+      "license": "other",
+      "date_added": "Mon Aug 14 08:06:58 2016 -0800",
+      "suggested_by": "@vitorebatista"
+    },
+    {
+      "title": "PokeDB",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": ["http://a1.mzstatic.com/us/r30/Purple71/v4/78/63/2e/78632e47-b8cf-5068-19be-e8e848581dbf/screen696x696.jpeg"],
+      "description":"Clean and simple Pokédex app for Pokémon GO",
+      "source": "https://github.com/satya164/PocketGear",
+      "itunes": "https://itunes.apple.com/app/pokedb/id1143037838",
+      "stars": 5,
+      "license": "other",
+      "date_added": "Mon Sep 14 11:13:58 2016 -0800",
+      "suggested_by": "@vitorebatista"
     }
   ]
 }
