@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-679-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2024,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-687-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2026,%202017-lightgrey.svg)
 
 Jump to
 
@@ -5622,6 +5622,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
+- AirBnb clone  
+  <details><summary><code>react-native</code> </summary>
+
+  https://github.com/VctrySam/AirBnb<br>  Added August 14, 2016<br>  License: `other`
+  <div><img height='300' alt='AirBnb clone image 1' src='http://i.imgur.com/vMgWK6m.png'> 
+</div>
+  </details>
+
 - Around Me: Display Instagram photos around your location  
   <details><summary><code>react native</code> 🔥</summary>
 
@@ -5697,6 +5705,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
   https://github.com/brentvatne/react-native-login<br>  Added April 14, 2015<br>  License: `other`
   <div><img height='300' alt='Facebook Login image 1' src='https://github.com/brentvatne/react-native-login/raw/master/demo!!!.gif'> 
+</div>
+  </details>
+
+- FC Barcelona clone  
+  <details><summary><code>react-native</code> </summary>
+
+  https://github.com/VctrySam/FCBarca<br>  Added August 14, 2016<br>  License: `other`
+  <div><img height='300' alt='FC Barcelona clone image 1' src='http://i.imgur.com/6Xogt5Y.png'> 
 </div>
   </details>
 
@@ -5810,6 +5826,22 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
+- PokeDB: Clean and simple Pokédex app for Pokémon GO [` App Store`](https://itunes.apple.com/app/pokedb/id1143037838)  
+  <details><summary><code>react-native</code> </summary>
+
+  https://github.com/satya164/PocketGear<br>  Added September 14, 2016<br>  License: `other`
+  <div><img height='300' alt='PokeDB image 1' src='http://a1.mzstatic.com/us/r30/Purple71/v4/78/63/2e/78632e47-b8cf-5068-19be-e8e848581dbf/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Pokemon Go clone  
+  <details><summary><code>react-native</code> </summary>
+
+  https://github.com/VctrySam/Pokemon<br>  Added August 14, 2016<br>  License: `other`
+  <div><img height='300' alt='Pokemon Go clone image 1' src='http://i.imgur.com/PrMRwmY.png'> 
+</div>
+  </details>
+
 - pokemon-map: Locate Pokemon around you  
   <details><summary><code>react native</code> </summary>
 
@@ -5882,6 +5914,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
+- Snapchat clone  
+  <details><summary><code>react-native</code> 🔥</summary>
+
+  https://github.com/VctrySam/SnapChat<br>  Added August 14, 2016<br>  License: `other`
+  <div><img height='300' alt='Snapchat clone image 1' src='http://i.imgur.com/6HfPmrT.png'> 
+</div>
+  </details>
+
 - Songkick  
   <details><summary><code>react native</code> </summary>
 
@@ -5903,6 +5943,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
   https://github.com/christopherdro/react-native-sudoku<br>  Added March 10, 2016<br>  License: `other`
   <div><img height='300' alt='Sudoku image 1' src='https://github.com/christopherdro/react-native-sudoku/raw/master/demo.gif'> 
+</div>
+  </details>
+
+- Tinder clone  
+  <details><summary><code>react-native</code> </summary>
+
+  https://github.com/VctrySam/Tinder<br>  Added August 14, 2016<br>  License: `other`
+  <div><img height='300' alt='Tinder clone image 1' src='http://i.imgur.com/I7d06Pq.png'> 
 </div>
   </details>
 
@@ -5928,6 +5976,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
+- Twitter clone  
+  <details><summary><code>react-native</code> </summary>
+
+  https://github.com/VctrySam/Twitter<br>  Added August 14, 2016<br>  License: `other`
+  <div><img height='300' alt='Twitter clone image 1' src='http://i.imgur.com/0kzQBEJ.png'> 
+</div>
+  </details>
+
 - Weather by JakeLin  
   <details><summary><code>react native</code> </summary>
 
@@ -5941,6 +5997,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
   https://github.com/jsphkhan/ReactNativeExamples<br>  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp<br>  Added May  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Weather by jsphkhan image 1' src='https://camo.githubusercontent.com/d8d6748920497b1f6da276dbe7af715fa8df8a6a/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e312e706e67'> <img height='300' alt='Weather by jsphkhan image 2' src='https://camo.githubusercontent.com/dd8f80345ddd2a2f17663d07e3f38259a8f36982/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e322e706e67'> <img height='300' alt='Weather by jsphkhan image 3' src='https://camo.githubusercontent.com/da5efecec43f93228bb766d70ff7a33ad09d2d17/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e332e706e67'> 
+</div>
+  </details>
+
+- Whatsapp clone  
+  <details><summary><code>react-native</code> 🔥🔥🔥</summary>
+
+  https://github.com/VctrySam/whatsapp<br>  Added August 14, 2016<br>  License: `other`
+  <div><img height='300' alt='Whatsapp clone image 1' src='http://i.imgur.com/T6Hwv3b.png'> 
 </div>
   </details>
 
