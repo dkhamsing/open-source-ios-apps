@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-687-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2026,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-688-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2030,%202017-lightgrey.svg)
 
 Jump to
 
@@ -112,7 +112,7 @@ Click ► to show more details
   </details>
 
 - GrandCentralBoard: Hang a TV in your open space / team room to show everyone what's up & get them up to speed  
-  <details><summary><code>swift</code> <code>alamofire</code> <code>rxswift</code> 🔥</summary>
+  <details><summary><code>swift</code> <code>alamofire</code> <code>rxswift</code> 🔥🔥</summary>
 
   https://github.com/macoscope/GrandCentralBoard<br>  Added April 29, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='GrandCentralBoard image 1' src='http://cdn.macoscope.com/blog/wp-content/uploads/2016/03/zegar_anim_1.gif'> 
@@ -221,7 +221,7 @@ Click ► to show more details
   </details>
 
 - Bither: Simple & secure Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bither/id899478936)  
-  <details><summary><code>objc</code> </summary>
+  <details><summary><code>objc</code> 🔥</summary>
 
   https://github.com/bither/bither-ios<br>  Added April  3, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Bither image 1' src='http://a1.mzstatic.com/us/r30/Purple7/v4/f9/f8/d4/f9f8d401-2a9a-fb50-fe24-76a1158600b2/screen696x696.jpeg'> 
@@ -1152,7 +1152,7 @@ Click ► to show more details
   </details>
 
 - Expo Client: Developer tool for creating experiences with interactive gestures & graphics [` App Store`](https://itunes.apple.com/app/expo-client/id982107779)  
-  <details><summary><code>react-native</code> <code>javascript</code> 🔥🔥🔥</summary>
+  <details><summary><code>react-native</code> <code>javascript</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/expo/expo<br>  https://expo.io/<br>  Added April 28, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   <div><img height='300' alt='Expo Client image 1' src='http://a4.mzstatic.com/us/r30/Purple111/v4/42/1e/6e/421e6e4d-2524-5e1a-93aa-b8159d48a8fa/screen696x696.jpeg'> 
@@ -1183,7 +1183,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Knuff: The debug application for Apple Push Notification service [` App Store`](https://itunes.apple.com/app/knuff-the-apns-debug-tool/id993435856)  
+- Knuff: The debug app for Apple Push Notification service [` App Store`](https://itunes.apple.com/app/knuff-the-apns-debug-tool/id993435856)  
   <details><summary><code>swift</code> <code>pop</code> <code>apns</code> </summary>
 
   https://github.com/KnuffApp/Knuff-iOS<br>  Added October 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1584,7 +1584,7 @@ Click ► to show more details
   </details>
 
 - try! Swift Tokyo  
-  <details><summary><code>swift</code> <code>timepiece</code> <code>realm</code> <code>kingfisher</code> <code>acknowlist</code> </summary>
+  <details><summary><code>swift</code> <code>timepiece</code> <code>realm</code> <code>kingfisher</code> <code>acknowlist</code> 🔥</summary>
 
   https://github.com/tryswift/trySwiftAppFinal<br>  Added February 22, 2017<br>  License: `other`
   <div><img height='300' alt='try! Swift Tokyo image 1' src='https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png'> <img height='300' alt='try! Swift Tokyo image 2' src='https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png'> 
@@ -1871,7 +1871,7 @@ Click ► to show more details
 [back to top](#readme) 
  
 - Bither: Simple & secure Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bither/id899478936)  
-  <details><summary><code>objc</code> </summary>
+  <details><summary><code>objc</code> 🔥</summary>
 
   https://github.com/bither/bither-ios<br>  Added April  3, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Bither image 1' src='http://a1.mzstatic.com/us/r30/Purple7/v4/f9/f8/d4/f9f8d401-2a9a-fb50-fe24-76a1158600b2/screen696x696.jpeg'> 
@@ -2925,7 +2925,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   </details>
 
 - WWDC Family React Native: Easily connect with fellow developers during WWDC  
-  <details><summary><code>react-native</code> </summary>
+  <details><summary><code>react-native</code> 🔥</summary>
 
   https://github.com/wwdc-family/app<br>  Added April  3, 2017<br>  License: `other`
   <div><img height='300' alt='WWDC Family React Native image 1' src='https://raw.githubusercontent.com/wwdc-family/app/master/design/Screenshot1.png'> 
@@ -3143,7 +3143,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - Helio Workstation: Lightweight music creation playground [` App Store`](https://itunes.apple.com/app/id943796588)  
-  <details><summary><code>ipad</code> <code>c++</code> 🔥🔥🔥</summary>
+  <details><summary><code>ipad</code> <code>c++</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/peterrudenko/helio-workstation<br>  Added April 27, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Helio Workstation image 1' src='http://a1.mzstatic.com/us/r30/Purple111/v4/ec/90/d9/ec90d9a0-0eac-cc83-0781-16cc3eebd783/sc552x414.jpeg'> <img height='300' alt='Helio Workstation image 2' src='http://a4.mzstatic.com/us/r30/Purple122/v4/72/a1/be/72a1bedb-055b-2fc5-b8e6-bcfb8f396b61/sc552x414.jpeg'> 
@@ -3220,7 +3220,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - Artsy: The art world in your pocket [` App Store`](https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
-  <details><summary><code>iphone</code> <code>ipad</code> <code>afnetworking</code> <code>mantle</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>iphone</code> <code>ipad</code> <code>afnetworking</code> <code>mantle</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/artsy/eigen<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Artsy image 1' src='http://a1.mzstatic.com/us/r30/Purple30/v4/f9/fd/e3/f9fde323-7f53-12d9-99cc-94f435fc9a06/screen696x696.jpeg'> <img height='300' alt='Artsy image 2' src='http://a1.mzstatic.com/us/r30/Purple30/v4/dc/17/9a/dc179a52-4cda-f91e-c36a-5d6bce72ff3c/screen696x696.jpeg'> <img height='300' alt='Artsy image 3' src='http://a5.mzstatic.com/us/r30/Purple30/v4/52/65/c4/5265c4b3-5d0c-4fce-1520-f1a6da6835af/screen696x696.jpeg'> <img height='300' alt='Artsy image 4' src='http://a2.mzstatic.com/us/r30/Purple20/v4/9f/84/d6/9f84d61d-59d5-e10e-236a-fd8c9685c9c1/screen696x696.jpeg'> <img height='300' alt='Artsy image 5' src='http://a2.mzstatic.com/us/r30/Purple18/v4/75/09/05/75090520-f464-e0c4-8d9b-9b07c6bb8c15/screen696x696.jpeg'> 
@@ -3834,7 +3834,7 @@ https://news.ycombinator.com/ — [back to top](#readme)
 </div>
   </details>
 
-- React Native Hacker News: A simple, clean HackerNews client written in React-Native [` App Store`](https://itunes.apple.com/app/react-native-hacker-news/id1220272464)  
+- React Native Hacker News [` App Store`](https://itunes.apple.com/app/react-native-hacker-news/id1220272464)  
   <details><summary><code>react-native</code> </summary>
 
   https://github.com/G2Jose/ReactNative-HackerNews<br>  Added March 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -4104,7 +4104,7 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
   </details>
 
 - Artsy: The art world in your pocket [` App Store`](https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
-  <details><summary><code>iphone</code> <code>ipad</code> <code>afnetworking</code> <code>mantle</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>iphone</code> <code>ipad</code> <code>afnetworking</code> <code>mantle</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/artsy/eigen<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Artsy image 1' src='http://a1.mzstatic.com/us/r30/Purple30/v4/f9/fd/e3/f9fde323-7f53-12d9-99cc-94f435fc9a06/screen696x696.jpeg'> <img height='300' alt='Artsy image 2' src='http://a1.mzstatic.com/us/r30/Purple30/v4/dc/17/9a/dc179a52-4cda-f91e-c36a-5d6bce72ff3c/screen696x696.jpeg'> <img height='300' alt='Artsy image 3' src='http://a5.mzstatic.com/us/r30/Purple30/v4/52/65/c4/5265c4b3-5d0c-4fce-1520-f1a6da6835af/screen696x696.jpeg'> <img height='300' alt='Artsy image 4' src='http://a2.mzstatic.com/us/r30/Purple20/v4/9f/84/d6/9f84d61d-59d5-e10e-236a-fd8c9685c9c1/screen696x696.jpeg'> <img height='300' alt='Artsy image 5' src='http://a2.mzstatic.com/us/r30/Purple18/v4/75/09/05/75090520-f464-e0c4-8d9b-9b07c6bb8c15/screen696x696.jpeg'> 
@@ -4241,7 +4241,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - GrandCentralBoard: Hang a TV in your open space / team room to show everyone what's up & get them up to speed  
-  <details><summary><code>swift</code> <code>alamofire</code> <code>rxswift</code> 🔥</summary>
+  <details><summary><code>swift</code> <code>alamofire</code> <code>rxswift</code> 🔥🔥</summary>
 
   https://github.com/macoscope/GrandCentralBoard<br>  Added April 29, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='GrandCentralBoard image 1' src='http://cdn.macoscope.com/blog/wp-content/uploads/2016/03/zegar_anim_1.gif'> 
@@ -4534,7 +4534,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - Kryptonite: Generate & store an SSH key on your phone [` App Store`](https://itunes.apple.com/app/kryptonite-protect-your-ssh-private-key/id1161494806)  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> 🔥</summary>
 
   https://github.com/KryptCo/kryptonite-ios<br>  Added May  2, 2017<br>  License: `other`
   <div><img height='300' alt='Kryptonite image 1' src='http://a2.mzstatic.com/us/r30/Purple122/v4/a1/44/1f/a1441fb4-a4de-c877-fe07-335c75724c03/screen696x696.jpeg'> 
@@ -4546,6 +4546,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/onionsapp/Onions-iOS<br>  Added January 27, 2015<br>  License: `other`
   <div><img height='300' alt='Onions image 1' src='http://a2.mzstatic.com/us/r30/Purple/v4/d0/08/29/d00829d7-e34f-69e7-d21b-bfd3f48ae8fc/screen696x696.jpeg'> <img height='300' alt='Onions image 2' src='http://a3.mzstatic.com/us/r30/Purple4/v4/9d/18/f7/9d18f743-51ef-adfa-5720-ce52057f2232/screen696x696.jpeg'> <img height='300' alt='Onions image 3' src='http://a2.mzstatic.com/us/r30/Purple2/v4/85/63/c3/8563c3ce-2e2a-0a6f-472d-68b60a274841/screen696x696.jpeg'> <img height='300' alt='Onions image 4' src='http://a4.mzstatic.com/us/r30/Purple/v4/e2/43/a1/e243a12f-6391-f347-c684-22e5236f0d79/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Pass: Client for the Pass command line app http://www.passwordstore.org/  
+  <details><summary><code>swift</code> <code>carthage</code> <code>keychainaccess</code> <code>onetimepassword</code> 🔥</summary>
+
+  https://github.com/mssun/passforios<br>  Added May 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Pass image 1' src='https://github.com/mssun/passforios/raw/master/screenshot/preview.gif'> 
 </div>
   </details>
 
@@ -5623,7 +5631,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   </details>
 
 - AirBnb clone  
-  <details><summary><code>react-native</code> </summary>
+  <details><summary><code>react-native</code> 🔥🔥</summary>
 
   https://github.com/VctrySam/AirBnb<br>  Added August 14, 2016<br>  License: `other`
   <div><img height='300' alt='AirBnb clone image 1' src='http://i.imgur.com/vMgWK6m.png'> 
@@ -5835,7 +5843,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   </details>
 
 - Pokemon Go clone  
-  <details><summary><code>react-native</code> </summary>
+  <details><summary><code>react-native</code> 🔥</summary>
 
   https://github.com/VctrySam/Pokemon<br>  Added August 14, 2016<br>  License: `other`
   <div><img height='300' alt='Pokemon Go clone image 1' src='http://i.imgur.com/PrMRwmY.png'> 
@@ -5874,7 +5882,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
-- React Native Hacker News: A simple, clean HackerNews client written in React-Native [` App Store`](https://itunes.apple.com/app/react-native-hacker-news/id1220272464)  
+- React Native Hacker News [` App Store`](https://itunes.apple.com/app/react-native-hacker-news/id1220272464)  
   <details><summary><code>react-native</code> </summary>
 
   https://github.com/G2Jose/ReactNative-HackerNews<br>  Added March 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -5915,7 +5923,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   </details>
 
 - Snapchat clone  
-  <details><summary><code>react-native</code> 🔥</summary>
+  <details><summary><code>react-native</code> 🔥🔥</summary>
 
   https://github.com/VctrySam/SnapChat<br>  Added August 14, 2016<br>  License: `other`
   <div><img height='300' alt='Snapchat clone image 1' src='http://i.imgur.com/6HfPmrT.png'> 
@@ -5947,7 +5955,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   </details>
 
 - Tinder clone  
-  <details><summary><code>react-native</code> </summary>
+  <details><summary><code>react-native</code> 🔥🔥</summary>
 
   https://github.com/VctrySam/Tinder<br>  Added August 14, 2016<br>  License: `other`
   <div><img height='300' alt='Tinder clone image 1' src='http://i.imgur.com/I7d06Pq.png'> 
@@ -6009,7 +6017,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   </details>
 
 - WWDC Family React Native: Easily connect with fellow developers during WWDC  
-  <details><summary><code>react-native</code> </summary>
+  <details><summary><code>react-native</code> 🔥</summary>
 
   https://github.com/wwdc-family/app<br>  Added April  3, 2017<br>  License: `other`
   <div><img height='300' alt='WWDC Family React Native image 1' src='https://raw.githubusercontent.com/wwdc-family/app/master/design/Screenshot1.png'> 
@@ -6116,7 +6124,7 @@ https://realm.io/ — [back to top](#readme)
   </details>
 
 - try! Swift Tokyo  
-  <details><summary><code>swift</code> <code>timepiece</code> <code>realm</code> <code>kingfisher</code> <code>acknowlist</code> </summary>
+  <details><summary><code>swift</code> <code>timepiece</code> <code>realm</code> <code>kingfisher</code> <code>acknowlist</code> 🔥</summary>
 
   https://github.com/tryswift/trySwiftAppFinal<br>  Added February 22, 2017<br>  License: `other`
   <div><img height='300' alt='try! Swift Tokyo image 1' src='https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png'> <img height='300' alt='try! Swift Tokyo image 2' src='https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png'> 
@@ -6174,7 +6182,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
 </div>
   </details>
 
-- Rambler&IT: Portfolio of mobile application architectures used at Rambler&Co [` App Store`](https://itunes.apple.com/app/rambler-it/id1145829115)  
+- Rambler&IT: Portfolio of mobile architectures used at Rambler&Co [` App Store`](https://itunes.apple.com/app/rambler-it/id1145829115)  
   <details><summary><code>magicalrecord</code> <code>typhoon</code> <code>afnetworking</code> <code>purelayout</code> <code>sdwebimage</code> 🇷🇺 🔥</summary>
 
   https://github.com/rambler-digital-solutions/rambler-it-ios<br>  Added March  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
