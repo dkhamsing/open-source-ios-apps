@@ -13320,7 +13320,7 @@
     {
       "title": "Pass",
       "source": "https://github.com/mssun/passforios",
-      "description": "Client for the Pass command line app http://www.passwordstore.org/",
+      "description": "Client for the Pass command line app https://www.passwordstore.org/",
       "category-ids": ["security"],
       "tags": ["swift", "carthage", "keychainaccess", "onetimepassword"],
       "screenshots": ["https://github.com/mssun/passforios/raw/master/screenshot/preview.gif"],
