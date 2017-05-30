@@ -13316,6 +13316,18 @@
       "license": "other",
       "date_added": "Mon Sep 14 11:13:58 2016 -0800",
       "suggested_by": "@vitorebatista"
+    },
+    {
+      "title": "Pass",
+      "source": "https://github.com/mssun/passforios",
+      "description": "Client for the Pass command line app http://www.passwordstore.org/",
+      "category-ids": ["security"],
+      "tags": ["swift", "carthage", "keychainaccess", "onetimepassword"],
+      "screenshots": ["https://github.com/mssun/passforios/raw/master/screenshot/preview.gif"],
+      "stars": 109,
+      "license": "mit",
+      "date_added": "May 30 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
