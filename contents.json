@@ -7481,7 +7481,7 @@
     },
     {
       "title": "Rambler&IT",
-      "description": "Portfolio of mobile application architectures used at Rambler&Co",
+      "description": "Portfolio of mobile architectures used at Rambler&Co",
       "category-ids": [
         "viper"
       ],
@@ -11075,7 +11075,7 @@
       "category-ids": [
         "developer"
       ],
-      "description": "The debug application for Apple Push Notification service",
+      "description": "The debug app for Apple Push Notification service",
       "tags": [
         "swift",
         "pop",
