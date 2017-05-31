@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-688-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2030,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-689-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2031,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1188,6 +1188,14 @@ Click ► to show more details
 
   https://github.com/KnuffApp/Knuff-iOS<br>  Added October 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Knuff image 1' src='http://a4.mzstatic.com/us/r30/Purple49/v4/f9/21/14/f9211459-6b65-ed7c-ec75-c58c4de7f497/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Major Input: Read WWDC session transcripts synced with the video  
+  <details><summary><code>swift</code> <code>ipad</code> <code>haneke</code> <code>quick</code> <code>nimble</code> <code>carthage</code> <code>swiftyjson</code> </summary>
+
+  https://github.com/rlwimi/major-input<br>  Added May 31, 2017<br>  License: `other`
+  <div><img height='300' alt='Major Input image 1' src='https://github.com/rlwimi/major-input/raw/master/Resources/screenshots/tour.gif'> 
 </div>
   </details>
 
@@ -4549,7 +4557,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 </div>
   </details>
 
-- Pass: Client for the Pass command line app http://www.passwordstore.org/  
+- Pass: Client for the Pass command line app https://www.passwordstore.org/  
   <details><summary><code>swift</code> <code>carthage</code> <code>keychainaccess</code> <code>onetimepassword</code> 🔥</summary>
 
   https://github.com/mssun/passforios<br>  Added May 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
