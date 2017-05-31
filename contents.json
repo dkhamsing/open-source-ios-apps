@@ -13328,6 +13328,17 @@
       "license": "mit",
       "date_added": "May 30 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Major Input",
+      "source": "https://github.com/rlwimi/major-input",
+      "description": "Read WWDC session transcripts synced with the video",
+      "category-ids": ["developer"],
+      "tags": ["swift", "ipad", "haneke", "quick", "nimble", "carthage", "swiftyjson"],
+      "screenshots": ["https://github.com/rlwimi/major-input/raw/master/Resources/screenshots/tour.gif"],
+      "license": "other",
+      "date_added": "May 31 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
