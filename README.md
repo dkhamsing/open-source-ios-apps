@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-689-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2031,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-690-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%201,%202017-lightgrey.svg)
 
 Jump to
 
@@ -742,6 +742,14 @@ Click ► to show more details
 [back to top](#readme) 
  
 - 2048  
+  <details><summary><code>spritekit</code> 🔥🔥🔥</summary>
+
+  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
+</div>
+  </details>
+
+- 2048  
   <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/austinzheng/iOS-2048<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -754,14 +762,6 @@ Click ► to show more details
 
   https://github.com/austinzheng/swift-2048<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='2048 image 1' src='https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'> 
-</div>
-  </details>
-
-- 2048  
-  <details><summary><code>spritekit</code> 🔥🔥🔥</summary>
-
-  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
 </div>
   </details>
 
@@ -1916,6 +1916,14 @@ Click ► to show more details
 [back to top](#readme) 
  
 - 2048  
+  <details><summary><code>spritekit</code> 🔥🔥🔥</summary>
+
+  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
+</div>
+  </details>
+
+- 2048  
   <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/austinzheng/iOS-2048<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1928,14 +1936,6 @@ Click ► to show more details
 
   https://github.com/austinzheng/swift-2048<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='2048 image 1' src='https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'> 
-</div>
-  </details>
-
-- 2048  
-  <details><summary><code>spritekit</code> 🔥🔥🔥</summary>
-
-  https://github.com/danqing/2048<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='2048 image 1' src='https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567'> 
 </div>
   </details>
 
@@ -2507,7 +2507,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   <details><summary><code>objc</code> 🔥🔥🔥</summary>
 
   https://github.com/lazerwalker/Theseus<br>  Added April  1, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  <div><img height='300' alt='Theseus image 1' src='https://camo.githubusercontent.com/2ef42bc612a20f63b00bc15c05ef69bd74223cc8/68747470733a2f2f7261772e6769746875622e636f6d2f6c617a657277616c6b65722f546865736575732f6d61737465722f526561646d65496d616765732f74726970747963682e706e67'> 
+  <div><img height='300' alt='Theseus image 1' src='https://raw.githubusercontent.com/lazerwalker/Theseus/master/ReadmeImages/triptych.png'> 
 </div>
   </details>
 
@@ -2844,19 +2844,19 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- Prey: Track lost or stolen devices & perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037)  
-  <details><summary><code>objc</code> 🔥🔥</summary>
-
-  https://github.com/prey/prey-ios-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='Prey image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/43/f7/91/43f791d0-319a-2e3f-449a-2471e240b068/screen696x696.jpeg'> <img height='300' alt='Prey image 2' src='http://a5.mzstatic.com/us/r30/Purple62/v4/c3/f9/ba/c3f9ba54-b8df-10bc-e2e0-ea6b1a736d91/screen696x696.jpeg'> <img height='300' alt='Prey image 3' src='http://a2.mzstatic.com/us/r30/Purple62/v4/e3/96/3e/e3963e31-b683-16c2-cc94-4768fe16020a/screen696x696.jpeg'> <img height='300' alt='Prey image 4' src='http://a4.mzstatic.com/us/r30/Purple71/v4/d6/af/c3/d6afc340-1972-af85-053b-8e52ed5a4588/screen696x696.jpeg'> <img height='300' alt='Prey image 5' src='http://a1.mzstatic.com/us/r30/Purple62/v4/f3/50/71/f35071d7-9fa9-1bf9-fa91-2641458bcd1e/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Prey: Track lost or stolen devices & perform actions remotely  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/prey/prey-swift-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Prey image 1' src='https://preyproject.com/img/home/report-simple-2.png'> 
+</div>
+  </details>
+
+- Prey: Track lost or stolen devices & perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037)  
+  <details><summary><code>objc</code> 🔥🔥</summary>
+
+  https://github.com/prey/prey-ios-client<br>  https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='Prey image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/43/f7/91/43f791d0-319a-2e3f-449a-2471e240b068/screen696x696.jpeg'> <img height='300' alt='Prey image 2' src='http://a5.mzstatic.com/us/r30/Purple62/v4/c3/f9/ba/c3f9ba54-b8df-10bc-e2e0-ea6b1a736d91/screen696x696.jpeg'> <img height='300' alt='Prey image 3' src='http://a2.mzstatic.com/us/r30/Purple62/v4/e3/96/3e/e3963e31-b683-16c2-cc94-4768fe16020a/screen696x696.jpeg'> <img height='300' alt='Prey image 4' src='http://a4.mzstatic.com/us/r30/Purple71/v4/d6/af/c3/d6afc340-1972-af85-053b-8e52ed5a4588/screen696x696.jpeg'> <img height='300' alt='Prey image 5' src='http://a1.mzstatic.com/us/r30/Purple62/v4/f3/50/71/f35071d7-9fa9-1bf9-fa91-2641458bcd1e/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -4529,6 +4529,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Easy Diceware: Passphrase generator  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/cfdrake/easy-diceware<br>  Added June  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Easy Diceware image 1' src='https://raw.githubusercontent.com/cfdrake/easy-diceware/master/.github/screenshot.png'> 
+</div>
+  </details>
+
 - iCepa: System-wide VPN based Tor client  
   <details><summary><code>swift</code> <code>tor</code> 🔥🔥</summary>
 

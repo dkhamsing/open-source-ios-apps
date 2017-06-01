@@ -13339,6 +13339,17 @@
       "license": "other",
       "date_added": "May 31 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Easy Diceware",
+      "source": "https://github.com/cfdrake/easy-diceware",
+      "description": "Passphrase generator",
+      "category-ids": ["security"],
+      "tags": ["swift"],
+      "screenshots": ["https://raw.githubusercontent.com/cfdrake/easy-diceware/master/.github/screenshot.png"],
+      "license": "mit",
+      "date_added": "Jun 1 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
