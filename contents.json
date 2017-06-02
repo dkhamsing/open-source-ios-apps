@@ -13366,6 +13366,19 @@
       "license": "gpl-3.0",
       "date_added": "Jun 2 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "CoinTracker",
+      "category-ids": [
+        "bitcoin"
+      ],
+      "tags": [
+        "archive"
+      ],
+      "source": "https://github.com/gregheo/CoinTracker",
+      "license": "other",
+      "date_added": "Jun 2 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
