@@ -2878,6 +2878,16 @@
       "stars": 6
     },
     {
+      "title": "Pickery",
+      "category-ids": ["content"],
+      "description": "Open source photos to AWS",
+      "source": "https://github.com/Performador/Pickery",
+      "screenshots": ["http://www.okanarikan.com/assets/Apps/Pickery/Screen1.jpg", "http://www.okanarikan.com/assets/Apps/Pickery/Screen2.jpg", "http://www.okanarikan.com/assets/Apps/Pickery/Screen3.jpg"],
+      "itunes": "https://itunes.apple.com/us/app/pickery/id1164219958",
+      "date_added": "Feb 4 2017",
+      "suggested_by": "@Performador"
+    },
+    {
       "title": "Hodor",
       "category-ids": [
         "keyboard"
