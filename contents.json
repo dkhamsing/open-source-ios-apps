@@ -26,6 +26,10 @@
       "id": "calendar"
     },
     {
+      "title": "Color",
+      "id": "color"
+    },
+    {
       "title": "Clock",
       "id": "clock"
     },
@@ -5623,7 +5627,7 @@
     {
       "title": "Colo",
       "category-ids": [
-        "misc"
+        "color"
       ],
       "description": "Color themes hunter",
       "license": "apache-2.0",
@@ -5675,7 +5679,7 @@
     {
       "title": "GammaThingy",
       "category-ids": [
-        "misc"
+        "color"
       ],
       "description": "Change screen gamma dynamically",
       "source": "https://github.com/thomasfinch/GammaThingy",
@@ -5687,7 +5691,7 @@
     {
       "title": "GoodNight",
       "category-ids": [
-        "misc"
+        "color"
       ],
       "screenshots": [
         "http://i.imgur.com/QEAE4B3.jpg"
@@ -9688,7 +9692,7 @@
       "description": "Watch episodes of the sitcom",
       "license": "mit",
       "source": "https://github.com/kenmickles/unh_tvos",
-      "stars": 2,     
+      "stars": 2,
       "date_added": "Mon Jul 11 16:37:35 2016 -0400",
       "suggested_by": "@kenmickles"
     },
