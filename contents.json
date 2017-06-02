@@ -12352,7 +12352,7 @@
       "title": "Bíóhúsið",
       "source": "https://github.com/birkir/kvikmyndr-app/",
       "itunes": "https://itunes.apple.com/app/biohusi/id1112946298",
-      "description": "See what movies are playing in Iceland, includes showtimes",
+      "description": "See movie showtimes in Iceland",
       "category-ids": [
         "react-native"
       ],
