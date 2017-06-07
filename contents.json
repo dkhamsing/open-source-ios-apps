@@ -4384,7 +4384,7 @@
       ],
       "description": "yc",
       "license": "bsd-2-clause",
-      "source": "https://github.com/Xuzz/newsyc",
+      "source": "https://github.com/grp/newsyc",
       "stars": 1118,
       "date_added": "Thu Mar 19 07:22:04 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -4792,7 +4792,7 @@
         "sample",
         "core-data"
       ],
-      "source": "https://github.com/claney/Swift",
+      "source": "https://github.com/carlosengr/Swift",
       "stars": 3336,
       "tags": [
         "swift",
@@ -13386,7 +13386,7 @@
       "description": "Search for articles published by Germanys 'Zeit' newspaper.",
       "category-ids": ["news"],
       "tags": ["swift", "iphone"],
-      "screenshots": ["https://goo.gl/XghCR4"],
+      "screenshots": ["https://bodo-schoenfeld.de/wp-content/uploads/2016/07/ZeitSuche-Screenshot.png"],
       "license": "mit",
       "date_added": "June 7 2017",
       "suggested_by": "@niftycode"
