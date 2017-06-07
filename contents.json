@@ -13379,6 +13379,17 @@
       "license": "other",
       "date_added": "Jun 2 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "ZeitSuche_iOS",
+      "source": "https://github.com/niftycode/ZeitSuche_iOS",
+      "description": "Search for articles published by Germanys 'Zeit' newspaper.",
+      "category-ids": ["news"],
+      "tags": ["swift", "iphone"],
+      "screenshots": ["https://goo.gl/XghCR4"],
+      "license": "mit",
+      "date_added": "June 7 2017",
+      "suggested_by": "@niftycode"
     }
   ]
 }
