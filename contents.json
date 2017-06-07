@@ -13381,9 +13381,9 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "ZeitSuche_iOS",
+      "title": "ZeitSuche",
       "source": "https://github.com/niftycode/ZeitSuche_iOS",
-      "description": "Search for articles published by Germanys 'Zeit' newspaper.",
+      "description": "Search for articles published by Germany's 'Zeit' newspaper.",
       "category-ids": ["news"],
       "tags": ["swift", "iphone"],
       "screenshots": ["https://bodo-schoenfeld.de/wp-content/uploads/2016/07/ZeitSuche-Screenshot.png"],
