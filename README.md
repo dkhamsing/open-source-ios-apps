@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-691-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%202,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-693-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%207,%202017-lightgrey.svg)
 
 Jump to
 
@@ -15,6 +15,7 @@ Jump to
 - [Browser](#browser) 
 - [Calculator](#calculator) 
 - [Calendar](#calendar) 
+- [Color](#color) 
 - [Clock](#clock) 
 - [Clone](#clone) 
 - [Communication](#communication) 
@@ -179,7 +180,7 @@ Click ► to show more details
   <details><summary><code>tvml</code> <code>gulp</code> <code>jade</code> <code>coffeescript</code> </summary>
 
   https://github.com/kenmickles/unh_tvos<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Uncle Nagy's House image 1' src='https://camo.githubusercontent.com/8d0df3c5da622d7bd153620e8e83fc544d11d48f/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f313539393832332f53637265656e73686f74253230323031352d30392d323125323032332e33392e30312e706e67'> 
+  <div><img height='300' alt='Uncle Nagy's House image 1' src='http://i.imgur.com/1O8v7RY.jpg'> 
 </div>
   </details>
 
@@ -692,6 +693,33 @@ Click ► to show more details
   </details>
 
 
+## Color 
+ 
+[back to top](#readme) 
+ 
+- Colo: Color themes hunter  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/wongzigii/Colo<br>  Added March 16, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='Colo image 1' src='https://github.com/wongzigii/Colo/raw/master/Assets/screenshot1.png'> 
+</div>
+  </details>
+
+- GammaThingy: Change screen gamma dynamically  
+  <details><summary><code>objc</code> 🔥🔥🔥</summary>
+
+  https://github.com/thomasfinch/GammaThingy<br>  Added November 21, 2015<br>  License: `other`
+  </details>
+
+- GoodNight: Change screen gamma dynamically  
+  <details><summary><code>objc</code> 🔥🔥🔥</summary>
+
+  https://github.com/anthonya1999/GoodNight<br>  Added December 23, 2015<br>  License: `other`
+  <div><img height='300' alt='GoodNight image 1' src='http://i.imgur.com/QEAE4B3.jpg'> 
+</div>
+  </details>
+
+
 ## Clock 
  
 [back to top](#readme) 
@@ -851,7 +879,7 @@ Click ► to show more details
   </details>
 
 - BLEMeshChat: Chat using Bluetooth 4.0 Low Energy API (Bluetooth LE)  
-  <details><summary><code>yapdatabase</code> <code>purelayout</code> <code>mantle</code> 🔥🔥</summary>
+  <details><summary><code>yapdatabase</code> <code>purelayout</code> <code>mantle</code> <code>bluetooth</code> 🔥🔥</summary>
 
   https://github.com/chrisballinger/BLEMeshChat<br>  Added January 11, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   <div><img height='300' alt='BLEMeshChat image 1' src='https://camo.githubusercontent.com/71c9718ca94505f7135024802d145148e90ae605/68747470733a2f2f692e696d6775722e636f6d2f7a386c4564504d6d2e706e67'> 
@@ -3773,6 +3801,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 
+- ZeitSuche_iOS: Search for articles published by Germanys 'Zeit' newspaper.  
+  <details><summary><code>swift</code> <code>iphone</code> </summary>
+
+  https://github.com/niftycode/ZeitSuche_iOS<br>  Added June  7, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='ZeitSuche_iOS image 1' src='https://bodo-schoenfeld.de/wp-content/uploads/2016/07/ZeitSuche-Screenshot.png'> 
+</div>
+  </details>
+
 
 ### Hacker News 
  
@@ -3829,7 +3865,7 @@ https://news.ycombinator.com/ — [back to top](#readme)
 - news: yc  
   <details><summary><code>objc</code> 🔥🔥🔥🔥</summary>
 
-  https://github.com/Xuzz/newsyc<br>  Added March 19, 2015<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+  https://github.com/grp/newsyc<br>  Added March 19, 2015<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
   <div>
 </div>
   </details>
@@ -4454,7 +4490,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - Reusable Code  
   <details><summary><code>swift</code> <code>airdrop</code> <code>avfoundation</code> <code>coreanimation</code> <code>coreimage</code> 🔥🔥🔥🔥🔥</summary>
 
-  https://github.com/claney/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/carlosengr/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - RKGist: GitHub Gists  
@@ -5189,14 +5225,6 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- Colo: Color themes hunter  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/wongzigii/Colo<br>  Added March 16, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='Colo image 1' src='https://github.com/wongzigii/Colo/raw/master/Assets/screenshot1.png'> 
-</div>
-  </details>
-
 - DeckRocket: Remote app for Deckset presentations  
   <details><summary><code>swift</code> <code>iphone</code> 🔥🔥</summary>
 
@@ -5210,20 +5238,6 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/FreeRDP/FreeRDP<br>  http://www.freerdp.com/<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='FreeRDP image 1' src='http://a1.mzstatic.com/us/r30/Purple2/v4/e3/12/7a/e3127ad7-99e8-c4f7-225a-dc99edf760d9/screen696x696.jpeg'> <img height='300' alt='FreeRDP image 2' src='http://a1.mzstatic.com/us/r30/Purple/v4/d9/c9/4b/d9c94b66-389b-0b57-cd54-794a2aa18d7f/screen696x696.jpeg'> <img height='300' alt='FreeRDP image 3' src='http://a3.mzstatic.com/us/r30/Purple2/v4/aa/59/90/aa59909a-ddfb-2c80-1814-dba25350d4d4/screen696x696.jpeg'> <img height='300' alt='FreeRDP image 4' src='http://a2.mzstatic.com/us/r30/Purple/v4/ff/c2/c3/ffc2c3cc-23da-490e-13a3-f827a61dac70/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- GammaThingy: Change screen gamma dynamically  
-  <details><summary><code>objc</code> 🔥🔥🔥</summary>
-
-  https://github.com/thomasfinch/GammaThingy<br>  Added November 21, 2015<br>  License: `other`
-  </details>
-
-- GoodNight: Change screen gamma dynamically  
-  <details><summary><code>objc</code> 🔥🔥🔥</summary>
-
-  https://github.com/anthonya1999/GoodNight<br>  Added December 23, 2015<br>  License: `other`
-  <div><img height='300' alt='GoodNight image 1' src='http://i.imgur.com/QEAE4B3.jpg'> 
 </div>
   </details>
 
@@ -5347,10 +5361,10 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- TKeyboard: Use the Mac keyboard to enter content into your iPhone [` App Store`](https://itunes.apple.com/app/tkeyboard/id1168383839)  
+- TKeyboard: Enter content into your device with a Mac keyboard, clipboard/image sync & more [` App Store`](https://itunes.apple.com/app/tkeyboard/id1168383839)  
   <details><summary><code>bluetooth</code> 🔥🔥🔥</summary>
 
-  https://github.com/music4kid/TKeyboard<br>  Added June  1, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://github.com/music4kid/TKeyboard<br>  Added June  2, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='TKeyboard image 1' src='http://a2.mzstatic.com/us/r30/Purple122/v4/e0/19/ea/e019ea9f-124c-4476-2683-e49f4e568d43/screen696x696.jpeg'> 
 </div>
   </details>
@@ -5443,7 +5457,7 @@ https://mastodon.social — [back to top](#readme)
 - Reusable Code  
   <details><summary><code>swift</code> <code>airdrop</code> <code>avfoundation</code> <code>coreanimation</code> <code>coreimage</code> 🔥🔥🔥🔥🔥</summary>
 
-  https://github.com/claney/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/carlosengr/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - Tagger: Help tag your photos on Instagram or Flickr  
@@ -5686,7 +5700,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
-- Bíóhúsið: See what movies are playing in Iceland, includes showtimes [` App Store`](https://itunes.apple.com/app/biohusi/id1112946298)  
+- Bíóhúsið: See movie showtimes in Iceland [` App Store`](https://itunes.apple.com/app/biohusi/id1112946298)  
   <details><summary><code>react native</code> </summary>
 
   https://github.com/birkir/kvikmyndr-app/<br>  Added February 27, 2017<br>  License: `other`
