@@ -18,6 +18,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Canvas https://github.com/usecanvas/ios-v1
 - Cheddar https://github.com/nothingmagical/cheddar-ios
 - Chess https://github.com/mjcuva/Chess
+- CoinTracker https://github.com/gregheo/CoinTracker
 - Communiqué https://github.com/zadr/Communique
 - DrugsNRock https://github.com/biou/DrugsNRock
 - Eleven https://github.com/coderyi/Eleven
