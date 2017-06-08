@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-693-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%207,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-693-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%208,%202017-lightgrey.svg)
 
 Jump to
 
@@ -3053,7 +3053,7 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
+- Loose Leaf: Take notes, import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
   <details><summary><code>ipad</code> <code>pdf</code> <code>apple pencil</code> 🔥🔥</summary>
 
   https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3801,11 +3801,11 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 
-- ZeitSuche_iOS: Search for articles published by Germanys 'Zeit' newspaper.  
+- ZeitSuche: Search for articles published by Germany's 'Zeit' newspaper.  
   <details><summary><code>swift</code> <code>iphone</code> </summary>
 
   https://github.com/niftycode/ZeitSuche_iOS<br>  Added June  7, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='ZeitSuche_iOS image 1' src='https://bodo-schoenfeld.de/wp-content/uploads/2016/07/ZeitSuche-Screenshot.png'> 
+  <div><img height='300' alt='ZeitSuche image 1' src='https://bodo-schoenfeld.de/wp-content/uploads/2016/07/ZeitSuche-Screenshot.png'> 
 </div>
   </details>
 
@@ -4931,7 +4931,7 @@ https://mastodon.social — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
+- Loose Leaf: Take notes, import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
   <details><summary><code>ipad</code> <code>pdf</code> <code>apple pencil</code> 🔥🔥</summary>
 
   https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
