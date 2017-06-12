@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-693-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%208,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-694-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2012,%202017-lightgrey.svg)
 
 Jump to
 
@@ -394,6 +394,14 @@ Click ► to show more details
 
   https://github.com/kenshin03/KTPomodoro<br>  Added February 26, 2015<br>  License: `other`
   <div><img height='300' alt='KTPomodoro image 1' src='https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png'> 
+</div>
+  </details>
+
+- MyWeight History: Body mass tracker with easy data input & access to history [` App Store`](https://itunes.apple.com/app/myweight-history/id1098061879)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/diogot/MyWeight<br>  Added June 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='MyWeight History image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/2d/28/8c/2d288c05-33f0-1f18-b06a-4e3a24e1d608/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -2480,6 +2488,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 </div>
   </details>
 
+- MyWeight History: Body mass tracker with easy data input & access to history [` App Store`](https://itunes.apple.com/app/myweight-history/id1098061879)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/diogot/MyWeight<br>  Added June 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='MyWeight History image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/2d/28/8c/2d288c05-33f0-1f18-b06a-4e3a24e1d608/screen696x696.jpeg'> 
+</div>
+  </details>
+
 
 ### Fitness 
  
@@ -4514,14 +4530,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Siesta GitHub Browser image 1' src='http://i.imgur.com/OBGvFKw.png'> <img height='300' alt='Siesta GitHub Browser image 2' src='http://i.imgur.com/50eCbeX.png'> 
-</div>
-  </details>
-
-- Starship: A generic Hyperdrive API client app  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/kylef/Starship<br>  Added January 25, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
-  <div><img height='300' alt='Starship image 1' src='https://github.com/kylef/Starship/raw/master/Media/Screenshot.png'> 
 </div>
   </details>
 
