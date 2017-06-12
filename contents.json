@@ -13391,6 +13391,18 @@
       "license": "mit",
       "date_added": "June 7 2017",
       "suggested_by": "@niftycode"
+    },
+    {
+      "title": "MyWeight History",
+      "source": "https://github.com/diogot/MyWeight",
+      "itunes": "https://itunes.apple.com/app/myweight-history/id1098061879",
+      "description": "Body mass tracker with easy data input & access to history",
+      "category-ids": ["apple-watch", "health"],
+      "tags": ["swift"],
+      "screenshots": ["http://a1.mzstatic.com/us/r30/Purple122/v4/2d/28/8c/2d288c05-33f0-1f18-b06a-4e3a24e1d608/screen696x696.jpeg"],
+      "license": "mit",
+      "date_added": "June 12 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
