@@ -4852,12 +4852,13 @@
       ],
       "description": "A generic Hyperdrive API client app",
       "license": "bsd-2-clause",
-      "source": "https://github.com/kylef/Starship",
+      "source": "https://github.com/kylef-archive/Starship",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
-        "https://github.com/kylef/Starship/raw/master/Media/Screenshot.png"
+        "https://github.com/kylef-archive/Starship/raw/master/Media/Screenshot.png"
       ],
       "stars": 25,
       "date_added": "Mon Jan 25 08:15:14 2016 -0800",
