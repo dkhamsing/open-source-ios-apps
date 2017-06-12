@@ -52,6 +52,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Product Catalogue https://github.com/contentful/product-catalogue-swift
 - Repo https://github.com/ricburton/Repo
 - Speak https://github.com/opensourceios/speakability
+- Starship https://github.com/kylef-archive/Starship
 - Steps https://github.com/gizmosachin/Steps
 - SudokuResolv https://github.com/Haoest/SudokuResolv
 - Swift Off https://github.com/opensourceios/swift-off-todo
