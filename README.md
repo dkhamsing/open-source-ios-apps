@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-694-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2012,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-695-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2013,%202017-lightgrey.svg)
 
 Jump to
 
@@ -3774,6 +3774,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/rpowelll/LobsterApp<br>  Added July 21, 2016<br>  License: `other`
   <div><img height='300' alt='LobsterApp image 1' src='http://i.imgur.com/WF6eY71.png'> 
+</div>
+  </details>
+
+- lobsters-reader  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/cfdrake/lobsters-reader<br>  Added June 13, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='lobsters-reader image 1' src='https://raw.githubusercontent.com/cfdrake/lobsters-reader/master/Assets/screenshot.png'> 
 </div>
   </details>
 
