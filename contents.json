@@ -13403,6 +13403,16 @@
       "license": "mit",
       "date_added": "June 12 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "lobsters-reader",
+      "source": "https://github.com/cfdrake/lobsters-reader",
+      "category-ids": ["news"],
+      "tags": ["swift"],
+      "screenshots": ["https://raw.githubusercontent.com/cfdrake/lobsters-reader/master/Assets/screenshot.png"],
+      "license": "mit",
+      "date_added": "June 13 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
