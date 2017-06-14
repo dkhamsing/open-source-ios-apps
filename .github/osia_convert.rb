@@ -6,6 +6,8 @@ README = 'README.md'
 ARCHIVE = 'ARCHIVE.md'
 ARCHIVE_TAG = 'archive'
 
+APPSTORE = 'APPSTORE.md'
+
 def apps_archived(apps)
   a = apps.select {|a| a['tags'] != nil }.select {|b| b['tags'].include?ARCHIVE_TAG}
   a.sort_by { |k, v| k['title'].downcase }
@@ -29,7 +31,7 @@ def apps_for_cat(apps, id)
   s.sort_by { |k, v| k['title'].downcase }
 end
 
-def output_apps(apps)
+def output_apps(apps, appstoreonly)
   o = ''
   apps.each do |a|
     name = a['title']
@@ -56,6 +58,11 @@ def output_apps(apps)
     unless itunes.nil?
       t << "[` App Store`](#{itunes}) "
     end
+
+    if appstoreonly
+      next if itunes.nil?
+    end
+
     o << "- #{t} \n"
 
     o <<  "  <details><summary>"
@@ -174,7 +181,7 @@ def output_stars(number)
   end
 end
 
-def write_readme(j)
+def write_readme(j, file, appstoreonly = false)
   t    = j['title']
   subt = j['subtitle']
   desc = j['description']
@@ -185,9 +192,14 @@ def write_readme(j)
 
   output = '# ' + t
   output << "\n\n"
-  output << desc
-  output << "\n\n#{subt}\n\n"
-  output << output_badges(apps.count)
+
+  if appstoreonly == false
+    output << desc
+    output << "\n\n#{subt}\n\n"
+    output << output_badges(apps.count)
+  else
+    output << 'List of open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))'
+  end
 
   output << "\n\nJump to\n\n"
 
@@ -216,14 +228,14 @@ def write_readme(j)
     output << temp
 
     cat_apps = apps_for_cat(apps, c['id'])
-    output << output_apps(cat_apps)
+    output << output_apps(cat_apps, appstoreonly)
   end
 
   output << "\n"
   output << f
 
-  File.open(README, 'w') { |f| f.write output }
-  puts "wrote #{README} ✨"
+  File.open(file, 'w') { |f| f.write output }
+  puts "wrote #{file} ✨"
 end
 
 def write_archive(j)
@@ -252,5 +264,6 @@ end
 
 j = get_json
 
-write_readme(j)
+write_readme(j, README)
 write_archive(j)
+write_readme(j, APPSTORE, true)
