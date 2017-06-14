@@ -46,10 +46,12 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Parse 2013 Developer Day https://github.com/ParsePlatform/ParseDeveloperDay
 - ParseStore https://github.com/opensourceios/ParseStore
 - Paws http://www.appcoda.com/instagram-app-parse-swift/
+- PhoneBattery https://github.com/opensourceios/PhoneBattery
 - Pi https://github.com/opensourceios/Pi
 - PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
 - Potatso https://github.com/opensourceios/Potatso
 - Product Catalogue https://github.com/contentful/product-catalogue-swift
+- ProMonster https://github.com/usemobile/promonster-ios
 - Repo https://github.com/ricburton/Repo
 - Speak https://github.com/opensourceios/speakability
 - Starship https://github.com/kylef-archive/Starship
