@@ -181,7 +181,7 @@ def output_stars(number)
   end
 end
 
-def write_readme(j, file, appstoreonly = false)
+def write_list(j, file, appstoreonly = false)
   t    = j['title']
   subt = j['subtitle']
   desc = j['description']
@@ -264,6 +264,6 @@ end
 
 j = get_json
 
-write_readme(j, README)
+write_list(j, README)
 write_archive(j)
-write_readme(j, APPSTORE, true)
+write_list(j, APPSTORE, true)
