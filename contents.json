@@ -13426,6 +13426,20 @@
       "license": "other",
       "date_added": "June 14 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "open-source-ios-apps app store",
+      "description": "Only listing projects that are on the App Store",
+      "source": "https://github.com/dkhamsing/open-source-ios-apps/blob/master/APPSTORE.md",
+      "category-ids": [
+        "bonus"
+      ],
+      "tags": [
+        "list"
+      ],
+      "date_added": "June 14 2017",
+      "suggested_by": "@dkhamsing",
+      "license": "other"
     }
   ]
 }
