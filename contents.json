@@ -871,7 +871,7 @@
         "apple-watch"
       ],
       "description": "Your phone's battery, on your wrist",
-      "source": "https://github.com/marcelvoss/PhoneBattery",
+      "source": "https://github.com/opensourceios/PhoneBattery",
       "itunes": "https://itunes.apple.com/app/phonebattery-your-phones-battery/id1009278300",
       "stars": 32,
       "license": "mit",
@@ -882,7 +882,8 @@
         "http://a2.mzstatic.com/us/r30/Purple1/v4/dc/a1/a5/dca1a575-79a5-a5d0-8e7a-2cc4a5127675/screen696x696.jpeg",
         "http://a2.mzstatic.com/us/r30/Purple1/v4/5c/d2/f5/5cd2f541-dfc4-a75e-f32e-11028c16ad5b/screen696x696.jpeg",
         "http://a3.mzstatic.com/us/r30/Purple5/v4/fd/d0/34/fdd0347a-8486-03ad-0e6b-b53a8e3e701a/screen696x696.jpeg"
-      ]
+      ],
+      "tags": ["archive"]
     },
     {
       "title": "PhotoWatch",
@@ -5469,8 +5470,8 @@
       "license": "other",
       "date_added": "Sun Oct 18 05:41:11 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
+      "tags": [
+        "archive"
       ]
     },
     {
