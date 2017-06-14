@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-695-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2013,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-696-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2014,%202017-lightgrey.svg)
 
 Jump to
 
@@ -117,6 +117,14 @@ Click ► to show more details
 
   https://github.com/macoscope/GrandCentralBoard<br>  Added April 29, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='GrandCentralBoard image 1' src='http://cdn.macoscope.com/blog/wp-content/uploads/2016/03/zegar_anim_1.gif'> 
+</div>
+  </details>
+
+- hexclock: Minimal hexadecimal clock [` App Store`](https://itunes.apple.com/app/hex-color-clock/id1207660670)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/cfdrake/hexclock<br>  Added June 14, 2017<br>  License: `other`
+  <div><img height='300' alt='hexclock image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/7b/e9/dd/7be9dd53-fe6b-00f7-57e6-a19e27b103de/sc720x405.jpeg'> 
 </div>
   </details>
 
@@ -426,14 +434,6 @@ Click ► to show more details
 
   https://github.com/genadyo/WWDC<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Parties for WWDC image 1' src='http://a3.mzstatic.com/us/r30/Purple20/v4/5f/9e/6a/5f9e6a9a-db21-1e8a-c45a-aef6ba65956b/screen696x696.jpeg'> <img height='300' alt='Parties for WWDC image 2' src='http://a3.mzstatic.com/us/r30/Purple30/v4/7e/6f/12/7e6f12a7-8d4b-0416-4d7a-f4745a2d7538/screen696x696.jpeg'> <img height='300' alt='Parties for WWDC image 3' src='http://a3.mzstatic.com/us/r30/Purple60/v4/4c/0f/cf/4c0fcf21-8713-0d61-c0df-0dafdbe525e8/screen696x696.jpeg'> <img height='300' alt='Parties for WWDC image 4' src='http://a5.mzstatic.com/us/r30/Purple30/v4/c0/21/e4/c021e48b-fa87-a873-1c8b-95e58aba71e7/screen696x696.jpeg'> <img height='300' alt='Parties for WWDC image 5' src='http://a3.mzstatic.com/us/r30/Purple18/v4/e0/69/9c/e0699c09-6cb4-c1a5-4fa1-9cd7117eaa86/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- PhoneBattery: Your phone's battery, on your wrist [` App Store`](https://itunes.apple.com/app/phonebattery-your-phones-battery/id1009278300)  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/marcelvoss/PhoneBattery<br>  Added July  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='PhoneBattery image 1' src='http://a5.mzstatic.com/us/r30/Purple7/v4/21/00/59/210059e1-5da5-d2c4-60f0-1298fa1b063d/screen696x696.jpeg'> <img height='300' alt='PhoneBattery image 2' src='http://a2.mzstatic.com/us/r30/Purple1/v4/dc/a1/a5/dca1a575-79a5-a5d0-8e7a-2cc4a5127675/screen696x696.jpeg'> <img height='300' alt='PhoneBattery image 3' src='http://a2.mzstatic.com/us/r30/Purple1/v4/5c/d2/f5/5cd2f541-dfc4-a75e-f32e-11028c16ad5b/screen696x696.jpeg'> <img height='300' alt='PhoneBattery image 4' src='http://a3.mzstatic.com/us/r30/Purple5/v4/fd/d0/34/fdd0347a-8486-03ad-0e6b-b53a8e3e701a/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -3290,7 +3290,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Awesome Swift iOS App: Official awesome-swift repository app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/matteocrippa/awesomeSwift-iOS-App<br>  Added June 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/matteocrippa/awesome-swift-ios<br>  Added June 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Awesome Swift iOS App image 1' src='http://a3.mzstatic.com/us/r30/Purple1/v4/95/16/1a/95161a0b-1f38-d1e3-d535-bab4fdc95cb8/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 2' src='http://a4.mzstatic.com/us/r30/Purple1/v4/de/40/91/de4091f4-de82-f018-03b1-67224139f3df/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 3' src='http://a2.mzstatic.com/us/r30/Purple1/v4/f3/26/ae/f326aee3-af48-fc10-746e-898072b7d931/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 4' src='http://a2.mzstatic.com/us/r30/Purple4/v4/65/33/cf/6533cfdf-3c11-91ad-86c3-707dfdd42e5b/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 5' src='http://a5.mzstatic.com/us/r30/Purple49/v4/54/3b/9e/543b9e97-0797-8058-5cbb-e430d6dc605b/screen696x696.jpeg'> 
 </div>
   </details>
@@ -3484,14 +3484,6 @@ Image, video, audio, reading — [back to top](#readme)
 
   https://github.com/vanyaland/Popular-Movies<br>  Added January 19, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Popular Movies image 1' src='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movie-detail.png'> <img height='300' alt='Popular Movies image 2' src='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movies-list.png'> 
-</div>
-  </details>
-
-- ProMonster: Store  
-  <details><summary><code>objc</code> 🇵🇹 </summary>
-
-  https://github.com/usemobile/promonster-ios<br>  Added October 18, 2015<br>  License: `other`
-  <div>
 </div>
   </details>
 
@@ -3984,7 +3976,7 @@ https://newsapi.org/ — [back to top](#readme)
 - Awesome Swift iOS App: Official awesome-swift repository app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/matteocrippa/awesomeSwift-iOS-App<br>  Added June 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/matteocrippa/awesome-swift-ios<br>  Added June 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Awesome Swift iOS App image 1' src='http://a3.mzstatic.com/us/r30/Purple1/v4/95/16/1a/95161a0b-1f38-d1e3-d535-bab4fdc95cb8/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 2' src='http://a4.mzstatic.com/us/r30/Purple1/v4/de/40/91/de4091f4-de82-f018-03b1-67224139f3df/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 3' src='http://a2.mzstatic.com/us/r30/Purple1/v4/f3/26/ae/f326aee3-af48-fc10-746e-898072b7d931/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 4' src='http://a2.mzstatic.com/us/r30/Purple4/v4/65/33/cf/6533cfdf-3c11-91ad-86c3-707dfdd42e5b/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 5' src='http://a5.mzstatic.com/us/r30/Purple49/v4/54/3b/9e/543b9e97-0797-8058-5cbb-e430d6dc605b/screen696x696.jpeg'> 
 </div>
   </details>
