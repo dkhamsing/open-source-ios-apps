@@ -13414,6 +13414,18 @@
       "license": "mit",
       "date_added": "June 13 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "hexclock",
+      "description": "Minimal hexadecimal clock",
+      "source": "https://github.com/cfdrake/hexclock",
+      "itunes": "https://itunes.apple.com/app/hex-color-clock/id1207660670",
+      "category-ids": ["apple-tv"],
+      "tags": ["swift"],
+      "screenshots": ["http://a1.mzstatic.com/us/r30/Purple122/v4/7b/e9/dd/7be9dd53-fe6b-00f7-57e6-a19e27b103de/sc720x405.jpeg"],
+      "license": "other",
+      "date_added": "June 14 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
