@@ -184,7 +184,13 @@ end
 def write_list(j, file, appstoreonly = false)
   t    = j['title']
   subt = j['subtitle']
-  desc = j['description']
+
+  desc = if appstoreonly
+    'List of open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))'
+  else
+    j['description']
+  end
+  
   h    = j['header']
   f    = j['footer']
   cats = j['categories']
@@ -192,13 +198,11 @@ def write_list(j, file, appstoreonly = false)
 
   output = '# ' + t
   output << "\n\n"
+  output << desc
 
   if appstoreonly == false
-    output << desc
     output << "\n\n#{subt}\n\n"
     output << output_badges(apps.count)
-  else
-    output << 'List of open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))'
   end
 
   output << "\n\nJump to\n\n"
