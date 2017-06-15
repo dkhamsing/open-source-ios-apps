@@ -5752,7 +5752,7 @@
     {
       "title": "Hidrate",
       "category-ids": [
-        "misc"
+        "health"
       ],
       "description": "Interacts with smart water bottle",
       "source": "https://github.com/mjcuva/Hidrate",
