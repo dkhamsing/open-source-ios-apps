@@ -31,6 +31,27 @@ def apps_for_cat(apps, id)
   s.sort_by { |k, v| k['title'].downcase }
 end
 
+def app_store_total(j)
+  apps = j['projects']
+  s = apps.select { |x| x['itunes'].nil? }
+
+  count = 1
+  tags = x['tags']
+  s.each do |x|
+    if tags.nil?
+      t = "#{count} "
+      count = count + 1
+    else
+      unless tags.include? 'archive'
+        t = "#{count} #{tags}"
+        count = count + 1
+      end
+    end
+  end
+
+  count
+end
+
 def output_apps(apps, appstoreonly)
   o = ''
   apps.each do |a|
@@ -186,7 +207,7 @@ def write_list(j, file, appstoreonly = false)
   subt = j['subtitle']
 
   desc = if appstoreonly
-    'List of open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))'
+    "List of **#{app_store_total j}** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))"
   else
     j['description']
   end
