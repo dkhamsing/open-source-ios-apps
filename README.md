@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-696-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2014,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-697-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2015,%202017-lightgrey.svg)
 
 Jump to
 
@@ -6294,6 +6294,12 @@ https://www.xamarin.com/ — [back to top](#readme)
   <details><summary><code>list</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/pcqpcq/open-source-android-apps<br>  License: `other`
+  </details>
+
+- open-source-ios-apps app store: Only listing projects that are on the App Store  
+  <details><summary><code>list</code> </summary>
+
+  https://github.com/dkhamsing/open-source-ios-apps/blob/master/APPSTORE.md<br>  Added June 14, 2017<br>  License: `other`
   </details>
 
 - open-source-ios-apps archive: Projects that are no longer maintained  
