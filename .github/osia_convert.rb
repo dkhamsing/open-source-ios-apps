@@ -35,9 +35,9 @@ def app_store_total(j)
   apps = j['projects']
   s = apps.select { |x| x['itunes'].nil? }
 
-  count = 1
-  tags = x['tags']
+  count = 1  
   s.each do |x|
+    tags = x['tags']
     if tags.nil?
       t = "#{count} "
       count = count + 1
@@ -211,7 +211,7 @@ def write_list(j, file, appstoreonly = false)
   else
     j['description']
   end
-  
+
   h    = j['header']
   f    = j['footer']
   cats = j['categories']
