@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-697-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2015,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-697-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2016,%202017-lightgrey.svg)
 
 Jump to
 
@@ -85,9 +85,10 @@ Jump to
 1000+ Stars: 🔥🔥🔥🔥
 2000+ Stars: 🔥🔥🔥🔥🔥
 
-Most projects are in English, exceptions have a flag
+Projects are in English unless indicated by flags 
 🇨🇳 Project is in Chinese
-🇪🇸 Project is in Spanish, etc
+🇪🇸 Project is in Spanish
+... 
 
 Click ► to show more details
 ```
@@ -2485,6 +2486,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
   https://github.com/Darktt/HealthKit-Swift<br>  Added October 27, 2015<br>  License: `other`
   <div><img height='300' alt='HealthKit~Swift image 1' src='http://i.imgur.com/0pIsqGe.png'> <img height='300' alt='HealthKit~Swift image 2' src='http://i.imgur.com/DbSH2qC.png'> <img height='300' alt='HealthKit~Swift image 3' src='http://i.imgur.com/VIexU8t.png'> <img height='300' alt='HealthKit~Swift image 4' src='http://i.imgur.com/iuiwmyY.png'> 
+</div>
+  </details>
+
+- Hidrate: Interacts with smart water bottle  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/mjcuva/Hidrate<br>  Added May  3, 2016<br>  License: `other`
+  <div><img height='300' alt='Hidrate image 1' src='http://i.imgur.com/nOAhewe.png'> <img height='300' alt='Hidrate image 2' src='http://i.imgur.com/DmfcHr6.png'> <img height='300' alt='Hidrate image 3' src='http://i.imgur.com/5xlFNzo.png'> <img height='300' alt='Hidrate image 4' src='http://i.imgur.com/mCDJdlD.png'> 
 </div>
   </details>
 
@@ -5254,14 +5263,6 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/hackfoldr/hackfoldr-iOS<br>  https://hackfoldr.org<br>  Added July 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Hackfoldr image 1' src='http://a3.mzstatic.com/us/r30/Purple69/v4/bb/ee/2f/bbee2f6f-68b0-48b8-5949-e5b4bc49cc8c/screen696x696.jpeg'> <img height='300' alt='Hackfoldr image 2' src='http://a4.mzstatic.com/us/r30/Purple49/v4/b6/7a/49/b67a496a-c81c-d9b9-81e0-cae43136b41b/screen696x696.jpeg'> <img height='300' alt='Hackfoldr image 3' src='http://a5.mzstatic.com/us/r30/Purple60/v4/49/56/85/4956850f-d8e7-bcb3-26f5-f778b80f8540/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Hidrate: Interacts with smart water bottle  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/mjcuva/Hidrate<br>  Added May  3, 2016<br>  License: `other`
-  <div><img height='300' alt='Hidrate image 1' src='http://i.imgur.com/nOAhewe.png'> <img height='300' alt='Hidrate image 2' src='http://i.imgur.com/DmfcHr6.png'> <img height='300' alt='Hidrate image 3' src='http://i.imgur.com/5xlFNzo.png'> <img height='300' alt='Hidrate image 4' src='http://i.imgur.com/mCDJdlD.png'> 
 </div>
   </details>
 
