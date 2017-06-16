@@ -541,7 +541,7 @@
     {
       "title": "Connectivity Demo",
       "screenshots": [
-        "http://i.imgur.com/KZc3Hjg.png"
+        "https://i.imgur.com/KZc3Hjg.png"
       ],
       "category-ids": [
         "apple-watch"
@@ -687,7 +687,7 @@
         "watchos2"
       ],
       "screenshots": [
-        "http://i.imgur.com/hOfxCBx.png"
+        "https://i.imgur.com/hOfxCBx.png"
       ],
       "license": "other",
       "date_added": "Wed Jul 29 07:36:26 2015 -0700",
@@ -833,7 +833,7 @@
       "source": "https://github.com/D-32/OnTime",
       "itunes": "https://itunes.apple.com/app/ontime-switzerland/id955289458",
       "screenshots": [
-        "http://i.imgur.com/gazVTKg.jpg"
+        "https://i.imgur.com/gazVTKg.jpg"
       ],
       "tags": [
         "watchkit"
@@ -1020,9 +1020,9 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/POfmbkq.png",
-        "http://i.imgur.com/EKAyXnw.png",
-        "http://i.imgur.com/vrdomSG.png"
+        "https://i.imgur.com/POfmbkq.png",
+        "https://i.imgur.com/EKAyXnw.png",
+        "https://i.imgur.com/vrdomSG.png"
       ],
       "stars": 32,
       "license": "other",
@@ -1449,10 +1449,10 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/6V3danC.png",
-        "http://i.imgur.com/7yuwMkO.png",
-        "http://i.imgur.com/PbpxreZ.png",
-        "http://i.imgur.com/UgkwKoB.png"
+        "https://i.imgur.com/6V3danC.png",
+        "https://i.imgur.com/7yuwMkO.png",
+        "https://i.imgur.com/PbpxreZ.png",
+        "https://i.imgur.com/UgkwKoB.png"
       ],
       "stars": 46,
       "date_added": "Thu Apr 21 08:01:37 2016 -0700",
@@ -1472,7 +1472,7 @@
         "iphone"
       ],
       "screenshots": [
-        "http://i.imgur.com/FfNizrW.png"
+        "https://i.imgur.com/FfNizrW.png"
       ],
       "date_added": "Wed Apr 13 07:02:12 2016 -0700",
       "suggested_by": "@dkhamsing"
@@ -1502,7 +1502,7 @@
         "event"
       ],
       "screenshots": [
-        "http://i.imgur.com/CarzInm.png"
+        "https://i.imgur.com/CarzInm.png"
       ],
       "tags": [
         "archive"
@@ -2085,8 +2085,8 @@
         "archive"
       ],
       "screenshots": [
-        "http://i.imgur.com/FRp0LLQ.jpg",
-        "http://i.imgur.com/fllPKj9.jpg"
+        "https://i.imgur.com/FRp0LLQ.jpg",
+        "https://i.imgur.com/fllPKj9.jpg"
       ],
       "date_added": "Feb 17 2017",
       "suggested_by": "Nicholas714",
@@ -2277,7 +2277,7 @@
         "game"
       ],
       "screenshots": [
-        "http://i.imgur.com/MZZeHCf.png"
+        "https://i.imgur.com/MZZeHCf.png"
       ],
       "description": "A game of dungeon exploration, combat & magic, involving characters of diverse skills",
       "homepage": "https://github.com/CliffsDover/crawl/tree/iOS_Release",
@@ -2293,7 +2293,7 @@
         "spritekit"
       ],
       "screenshots": [
-        "http://i.imgur.com/anzIXHK.png"
+        "https://i.imgur.com/anzIXHK.png"
       ],
       "lang": "zho",
       "license": "mit",
@@ -2661,10 +2661,10 @@
         "healthkit"
       ],
       "screenshots": [
-        "http://i.imgur.com/0pIsqGe.png",
-        "http://i.imgur.com/DbSH2qC.png",
-        "http://i.imgur.com/VIexU8t.png",
-        "http://i.imgur.com/iuiwmyY.png"
+        "https://i.imgur.com/0pIsqGe.png",
+        "https://i.imgur.com/DbSH2qC.png",
+        "https://i.imgur.com/VIexU8t.png",
+        "https://i.imgur.com/iuiwmyY.png"
       ],
       "stars": 61,
       "license": "other",
@@ -2873,7 +2873,7 @@
       "description": "Snake clone",
       "source": "https://github.com/caleb0/SwiftSnake",
       "screenshots": [
-        "http://i.imgur.com/mBi9Jfj.png"
+        "https://i.imgur.com/mBi9Jfj.png"
       ],
       "license": "other",
       "tags": [
@@ -2959,8 +2959,8 @@
       "source": "https://github.com/chroman/Doppio",
       "homepage": "http://imgur.com/a/ges5M",
       "screenshots": [
-        "http://i.imgur.com/2ZG08AX.png",
-        "http://i.imgur.com/PDUUWTj.png"
+        "https://i.imgur.com/2ZG08AX.png",
+        "https://i.imgur.com/PDUUWTj.png"
       ],
       "stars": 561,
       "license": "bsd-2-clause",
@@ -3013,8 +3013,8 @@
         "location"
       ],
       "screenshots": [
-        "http://i.imgur.com/FWj32S0.png",
-        "http://i.imgur.com/IyfFdCc.png"
+        "https://i.imgur.com/FWj32S0.png",
+        "https://i.imgur.com/IyfFdCc.png"
       ],
       "description": "Share your location",
       "license": "apache-2.0",
@@ -3200,10 +3200,10 @@
         "location"
       ],
       "screenshots": [
-        "http://i.imgur.com/vSyWHSA.png",
-        "http://i.imgur.com/WJbZSB6.png",
-        "http://i.imgur.com/fTlosLW.png",
-        "http://i.imgur.com/eTnGn5F.png"
+        "https://i.imgur.com/vSyWHSA.png",
+        "https://i.imgur.com/WJbZSB6.png",
+        "https://i.imgur.com/fTlosLW.png",
+        "https://i.imgur.com/eTnGn5F.png"
       ],
       "description": "Discover new startups & locate co-working spaces",
       "license": "mit",
@@ -3367,7 +3367,7 @@
         "instagram api"
       ],
       "screenshots": [
-        "http://i.imgur.com/bOySdOv.png"
+        "https://i.imgur.com/bOySdOv.png"
       ],
       "description": "Make photo collages",
       "source": "https://github.com/Azoft/CollageMaker-iOS",
@@ -3747,9 +3747,9 @@
         "video"
       ],
       "screenshots": [
-        "http://i.imgur.com/geiofMw.png",
-        "http://i.imgur.com/fdYYztR.png",
-        "http://i.imgur.com/sh4pL25.png"
+        "https://i.imgur.com/geiofMw.png",
+        "https://i.imgur.com/fdYYztR.png",
+        "https://i.imgur.com/sh4pL25.png"
       ],
       "description": "Record a 6-second video while playing prank sounds",
       "source": "https://github.com/huijimuhe/prankPro",
@@ -3898,7 +3898,7 @@
         "coremotion"
       ],
       "screenshots": [
-        "http://i.imgur.com/6khfaX6.png"
+        "https://i.imgur.com/6khfaX6.png"
       ],
       "stars": 120,
       "license": "other",
@@ -4176,8 +4176,8 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/DR8TQz0.png",
-        "http://i.imgur.com/OaIzWfI.png"
+        "https://i.imgur.com/DR8TQz0.png",
+        "https://i.imgur.com/OaIzWfI.png"
       ],
       "stars": 17,
       "date_added": "Tue Mar 24 07:06:14 2015 -0700",
@@ -4568,7 +4568,7 @@
         "cloudkit"
       ],
       "screenshots": [
-        "http://i.imgur.com/anNR2DT.png"
+        "https://i.imgur.com/anNR2DT.png"
       ],
       "license": "mit",
       "source": "https://github.com/Yalantis/CloudKit-Demo.Objective-C",
@@ -4588,7 +4588,7 @@
         "cloudkit"
       ],
       "screenshots": [
-        "http://i.imgur.com/dS9aFJL.png"
+        "https://i.imgur.com/dS9aFJL.png"
       ],
       "stars": 187,
       "date_added": "Sun, 17 May 2015 08:34:02 -0700",
@@ -4679,7 +4679,7 @@
         "sample"
       ],
       "screenshots": [
-        "http://i.imgur.com/PfuYfjU.png"
+        "https://i.imgur.com/PfuYfjU.png"
       ],
       "description": "Use Accelerometer & background mode to create a feature of knocking your phone",
       "source": "https://github.com/MatheusCavalca/Knock",
@@ -4816,8 +4816,8 @@
         "restkit"
       ],
       "screenshots": [
-        "http://i.imgur.com/3yKeZP7.png",
-        "http://i.imgur.com/cPwvXZa.png"
+        "https://i.imgur.com/3yKeZP7.png",
+        "https://i.imgur.com/cPwvXZa.png"
       ],
       "description": "GitHub Gists",
       "license": "apache-2.0",
@@ -4832,7 +4832,7 @@
         "sample"
       ],
       "screenshots": [
-        "http://i.imgur.com/vaGCfA0.png"
+        "https://i.imgur.com/vaGCfA0.png"
       ],
       "description": "Demo of how to auto-login users using Safari cookies",
       "source": "https://github.com/mackuba/SafariAutoLoginTest",
@@ -5110,8 +5110,8 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/HBFZhdm.png",
-        "http://i.imgur.com/RKo9RXC.png"
+        "https://i.imgur.com/HBFZhdm.png",
+        "https://i.imgur.com/RKo9RXC.png"
       ],
       "description": "Store & retrieve tasks",
       "license": "mit",
@@ -5131,9 +5131,9 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/GI6mmKy.png",
-        "http://i.imgur.com/MWJhn3c.png",
-        "http://i.imgur.com/qDxI9gg.png"
+        "https://i.imgur.com/GI6mmKy.png",
+        "https://i.imgur.com/MWJhn3c.png",
+        "https://i.imgur.com/qDxI9gg.png"
       ],
       "stars": 13,
       "date_added": "Wed Apr 20 05:49:30 2016 -0700",
@@ -5350,7 +5350,7 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/9Ofn3QC.jpg"
+        "https://i.imgur.com/9Ofn3QC.jpg"
       ],
       "date_added": "Wed Mar 18 11:07:46 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -5526,10 +5526,10 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/PTUo4e7.png",
-        "http://i.imgur.com/bXZH0LB.png",
-        "http://i.imgur.com/tIFW8bu.png",
-        "http://i.imgur.com/D095xih.png"
+        "https://i.imgur.com/PTUo4e7.png",
+        "https://i.imgur.com/bXZH0LB.png",
+        "https://i.imgur.com/tIFW8bu.png",
+        "https://i.imgur.com/D095xih.png"
       ],
       "stars": 56,
       "license": "other",
@@ -5601,7 +5601,7 @@
         "misc"
       ],
       "screenshots": [
-        "http://i.imgur.com/h2ybAgQ.png"
+        "https://i.imgur.com/h2ybAgQ.png"
       ],
       "description": "Configurable card decks",
       "source": "https://github.com/aharren/CardDecks",
@@ -5697,7 +5697,7 @@
         "color"
       ],
       "screenshots": [
-        "http://i.imgur.com/QEAE4B3.jpg"
+        "https://i.imgur.com/QEAE4B3.jpg"
       ],
       "description": "Change screen gamma dynamically",
       "source": "https://github.com/anthonya1999/GoodNight",
@@ -5758,10 +5758,10 @@
       "source": "https://github.com/mjcuva/Hidrate",
       "stars": 9,
       "screenshots": [
-        "http://i.imgur.com/nOAhewe.png",
-        "http://i.imgur.com/DmfcHr6.png",
-        "http://i.imgur.com/5xlFNzo.png",
-        "http://i.imgur.com/mCDJdlD.png"
+        "https://i.imgur.com/nOAhewe.png",
+        "https://i.imgur.com/DmfcHr6.png",
+        "https://i.imgur.com/5xlFNzo.png",
+        "https://i.imgur.com/mCDJdlD.png"
       ],
       "license": "other",
       "date_added": "Tue May 3 08:55:42 2016 -0700",
@@ -5780,8 +5780,8 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/6Tw24I2.png",
-        "http://i.imgur.com/akwJw0D.png"
+        "https://i.imgur.com/6Tw24I2.png",
+        "https://i.imgur.com/akwJw0D.png"
       ],
       "date_added": "Sun Feb 28 06:03:05 2016 -0800",
       "suggested_by": "@dkhamsing"
@@ -5883,7 +5883,7 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/i2nVDNQ.png"
+        "https://i.imgur.com/i2nVDNQ.png"
       ],
       "stars": 7,
       "date_added": "Mon Jan 4 20:30:07 2016 -0800",
@@ -6084,7 +6084,7 @@
         "usb"
       ],
       "screenshots": [
-        "http://i.imgur.com/xVPBuW9.png"
+        "https://i.imgur.com/xVPBuW9.png"
       ],
       "description": "Share your device internet connection without jailbreaking",
       "license": "gpl-3.0",
@@ -6136,7 +6136,7 @@
         "airdrop"
       ],
       "screenshots": [
-        "http://i.imgur.com/gb1G8di.png"
+        "https://i.imgur.com/gb1G8di.png"
       ],
       "description": "Send trollfaces to everyone",
       "license": "mit",
@@ -6212,7 +6212,7 @@
         "content"
       ],
       "screenshots": [
-        "http://i.imgur.com/84QPJ8v.png"
+        "https://i.imgur.com/84QPJ8v.png"
       ],
       "description": "Thesaurus app",
       "license": "mit",
@@ -6227,8 +6227,8 @@
         "content"
       ],
       "screenshots": [
-        "http://i.imgur.com/EsK2V67.png",
-        "http://i.imgur.com/vmrzCDz.png"
+        "https://i.imgur.com/EsK2V67.png",
+        "https://i.imgur.com/vmrzCDz.png"
       ],
       "description": "WWDC scholarship entries",
       "source": "https://github.com/wwdc",
@@ -6289,7 +6289,7 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/V3kaLaC.png"
+        "https://i.imgur.com/V3kaLaC.png"
       ],
       "license": "other",
       "date_added": "Tue Oct 27 07:36:05 2015 -0700",
@@ -6395,8 +6395,8 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/p2r8TmY.png",
-        "http://i.imgur.com/zEHz6j8.png"
+        "https://i.imgur.com/p2r8TmY.png",
+        "https://i.imgur.com/zEHz6j8.png"
       ],
       "stars": 64,
       "date_added": "Tue Apr 7 07:43:15 2015 -0700",
@@ -6476,10 +6476,10 @@
       "source": "https://github.com/chrismiles/OrganisingCoreData",
       "stars": 34,
       "screenshots": [
-        "http://i.imgur.com/MuViFyc.png",
-        "http://i.imgur.com/pn2qSEg.png",
-        "http://i.imgur.com/yTD7r0K.png",
-        "http://i.imgur.com/MxFiCpn.png"
+        "https://i.imgur.com/MuViFyc.png",
+        "https://i.imgur.com/pn2qSEg.png",
+        "https://i.imgur.com/yTD7r0K.png",
+        "https://i.imgur.com/MxFiCpn.png"
       ],
       "date_added": "Fri, 7 Aug 2015 07:29:07 -0700",
       "suggested_by": "@dkhamsing"
@@ -6495,8 +6495,8 @@
       "date_added": "Fri, 7 Aug 2015 07:29:07 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://i.imgur.com/z8Xw0qC.png",
-        "http://i.imgur.com/M5pwaAf.png"
+        "https://i.imgur.com/z8Xw0qC.png",
+        "https://i.imgur.com/M5pwaAf.png"
       ]
     },
     {
@@ -6596,7 +6596,7 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/hkcrHaH.jpg"
+        "https://i.imgur.com/hkcrHaH.jpg"
       ],
       "stars": 86,
       "license": "cc0-1.0",
@@ -6729,10 +6729,10 @@
         "archive"
       ],
       "screenshots": [
-        "http://i.imgur.com/JbJSIw4.png",
-        "http://i.imgur.com/B2sBFv7.png",
-        "http://i.imgur.com/d0SYXOl.png",
-        "http://i.imgur.com/5lxxOlk.png"
+        "https://i.imgur.com/JbJSIw4.png",
+        "https://i.imgur.com/B2sBFv7.png",
+        "https://i.imgur.com/d0SYXOl.png",
+        "https://i.imgur.com/5lxxOlk.png"
       ],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/2048",
@@ -6750,8 +6750,8 @@
         "archive"
       ],
       "screenshots": [
-        "http://i.imgur.com/MvmDyMw.png",
-        "http://i.imgur.com/q0McH8K.png"
+        "https://i.imgur.com/MvmDyMw.png",
+        "https://i.imgur.com/q0McH8K.png"
       ],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/Movies",
@@ -6769,7 +6769,7 @@
         "archive"
       ],
       "screenshots": [
-        "http://i.giphy.com/3oKIPyok1FHmdX4FuE.gif"
+        "https://i.giphy.com/3oKIPyok1FHmdX4FuE.gif"
       ],
       "description": "App by Facebook",
       "source": "https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/TicTacToe",
@@ -6786,7 +6786,7 @@
         "react native"
       ],
       "screenshots": [
-        "http://i.imgur.com/DYqIgci.png"
+        "https://i.imgur.com/DYqIgci.png"
       ],
       "description": "Showcases React Native views & modules",
       "source": "https://github.com/facebook/react-native/tree/master/RNTester",
@@ -6842,7 +6842,7 @@
         "react native"
       ],
       "screenshots": [
-        "http://i.imgur.com/8OKDHjU.png"
+        "https://i.imgur.com/8OKDHjU.png"
       ],
       "description": "React Native calculator",
       "license": "mit",
@@ -7039,7 +7039,7 @@
         "react native"
       ],
       "screenshots": [
-        "http://i.imgur.com/zcyhbtv.png"
+        "https://i.imgur.com/zcyhbtv.png"
       ],
       "source": "https://github.com/JoeStanton/london-react",
       "stars": 45,
@@ -7179,7 +7179,7 @@
         "react native"
       ],
       "screenshots": [
-        "http://i.imgur.com/YENtnhd.png"
+        "https://i.imgur.com/YENtnhd.png"
       ],
       "description": "A small app displaying NASA's Picture of the Day",
       "source": "https://github.com/campezzi/react-native-spacepics",
@@ -7397,7 +7397,7 @@
         "reactivecocoa"
       ],
       "screenshots": [
-        "http://i.imgur.com/OxImInV.png"
+        "https://i.imgur.com/OxImInV.png"
       ],
       "description": "Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)",
       "license": "mit",
@@ -7431,7 +7431,7 @@
       "source": "https://github.com/tailec/boilerplate",
       "stars": 289,
       "screenshots": [
-        "http://i.imgur.com/611wefH.png"
+        "https://i.imgur.com/611wefH.png"
       ],
       "tags": [
         "swift",
@@ -7478,7 +7478,7 @@
         "viper"
       ],
       "screenshots": [
-        "http://i.imgur.com/vgZbwrp.png"
+        "https://i.imgur.com/vgZbwrp.png"
       ],
       "license": "mit",
       "source": "https://github.com/mutualmobile/Counter",
@@ -7520,7 +7520,7 @@
         "viper"
       ],
       "screenshots": [
-        "http://i.imgur.com/UhJOVuw.png"
+        "https://i.imgur.com/UhJOVuw.png"
       ],
       "source": "https://github.com/objcio/issue-13-viper",
       "homepage": "https://www.objc.io/issues/13-architecture/viper/",
@@ -7614,9 +7614,9 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/N2QeLpm.png",
-        "http://i.imgur.com/f33KAQY.png",
-        "http://i.imgur.com/EDZFKpP.png"
+        "https://i.imgur.com/N2QeLpm.png",
+        "https://i.imgur.com/f33KAQY.png",
+        "https://i.imgur.com/EDZFKpP.png"
       ],
       "stars": 1,
       "license": "apache-2.0",
@@ -7646,7 +7646,7 @@
         "misc"
       ],
       "screenshots": [
-        "http://i.imgur.com/vY9TKcp.png"
+        "https://i.imgur.com/vY9TKcp.png"
       ],
       "source": "https://github.com/squallstar/bancha-ios-app",
       "tags": [
@@ -7690,7 +7690,7 @@
         "archive"
       ],
       "screenshots": [
-        "http://i.imgur.com/Q3c9VJ0.png"
+        "https://i.imgur.com/Q3c9VJ0.png"
       ],
       "stars": 83,
       "date_added": "Mon Jan 26 19:07:03 2015 -0800",
@@ -7867,7 +7867,7 @@
         "emulator"
       ],
       "screenshots": [
-        "http://i.imgur.com/MUNX0Mq.jpg"
+        "https://i.imgur.com/MUNX0Mq.jpg"
       ],
       "tags": [
         "c"
@@ -7959,7 +7959,7 @@
       "license": "apache-2.0",
       "source": "https://github.com/opensourceios/Google-Feud-iOS",
       "screenshots": [
-        "http://i.imgur.com/GXvfj9u.png"
+        "https://i.imgur.com/GXvfj9u.png"
       ],
       "date_added": "Aug 23 2016",
       "suggested_by": "@CTKRocks",
@@ -7976,7 +7976,7 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/DYoZw6Q.png"
+        "https://i.imgur.com/DYoZw6Q.png"
       ],
       "license": "apache-2.0",
       "stars": 0,
@@ -8020,7 +8020,7 @@
         "github"
       ],
       "screenshots": [
-        "http://i.imgur.com/NjqYq02.png"
+        "https://i.imgur.com/NjqYq02.png"
       ],
       "description": "View Swift repositories on GitHub",
       "license": "mit",
@@ -8035,7 +8035,7 @@
         "cocos2d"
       ],
       "screenshots": [
-        "http://i.imgur.com/z9rNl4a.png"
+        "https://i.imgur.com/z9rNl4a.png"
       ],
       "source": "https://github.com/jamiely/ios-balloon-burst",
       "license": "other",
@@ -8249,7 +8249,7 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/5o7MaMll.png"
+        "https://i.imgur.com/5o7MaMll.png"
       ],
       "description": "An experimental prototype calculator",
       "source": "https://github.com/bridger/NumberPad",
@@ -8368,7 +8368,7 @@
         "game"
       ],
       "screenshots": [
-        "http://i.imgur.com/g3UpGMH.png"
+        "https://i.imgur.com/g3UpGMH.png"
       ],
       "description": "Solve cryptograms as a Hacker, Detective, or Spy",
       "source": "https://github.com/insurgentgames/Cryptose",
@@ -8454,8 +8454,8 @@
       "source": "https://github.com/RolandasRazma/Heredox",
       "homepage": "http://www.heredox.com/",
       "screenshots": [
-        "http://i.imgur.com/Wg6TIR7.jpg",
-        "http://i.imgur.com/PatEcU8.jpg"
+        "https://i.imgur.com/Wg6TIR7.jpg",
+        "https://i.imgur.com/PatEcU8.jpg"
       ],
       "license": "mit",
       "date_added": "Wed Jun 1 00:56:23 2016 -0600",
@@ -8509,7 +8509,7 @@
         "game"
       ],
       "screenshots": [
-        "http://i.imgur.com/PQ1QX2u.jpg"
+        "https://i.imgur.com/PQ1QX2u.jpg"
       ],
       "description": "A release of the real time strategy game Warfare Incorporated",
       "source": "https://github.com/spiffcode/hostile-takeover",
@@ -9657,8 +9657,8 @@
         "instagram api"
       ],
       "screenshots": [
-        "http://i.imgur.com/8u73w5u.png",
-        "http://i.imgur.com/MShIfCe.png"
+        "https://i.imgur.com/8u73w5u.png",
+        "https://i.imgur.com/MShIfCe.png"
       ],
       "license": "gpl-3.0",
       "stars": 47,
@@ -9696,7 +9696,7 @@
       "license": "mit",
       "source": "https://github.com/kenmickles/unh_tvos",
       "stars": 2,
-      "screenshots": ["http://i.imgur.com/1O8v7RY.jpg"],
+      "screenshots": ["https://i.imgur.com/1O8v7RY.jpg"],
       "date_added": "Mon Jul 11 16:37:35 2016 -0400",
       "suggested_by": "@kenmickles"
     },
@@ -9709,8 +9709,8 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/r45bo2R.png",
-        "http://i.imgur.com/fFDR1Fl.png"
+        "https://i.imgur.com/r45bo2R.png",
+        "https://i.imgur.com/fFDR1Fl.png"
       ],
       "description": "Menstrual cycle tracker",
       "license": "other",
@@ -10116,7 +10116,7 @@
         "news"
       ],
       "screenshots": [
-        "http://i.imgur.com/WF6eY71.png"
+        "https://i.imgur.com/WF6eY71.png"
       ],
       "description": "Browse the https://lobste.rs/ community news site",
       "source": "https://github.com/rpowelll/LobsterApp",
@@ -10273,8 +10273,8 @@
         "rest"
       ],
       "screenshots": [
-        "http://i.imgur.com/OBGvFKw.png",
-        "http://i.imgur.com/50eCbeX.png"
+        "https://i.imgur.com/OBGvFKw.png",
+        "https://i.imgur.com/50eCbeX.png"
       ],
       "date_added": "Tue Jul 26 10:50:27 2016 -0500",
       "suggested_by": "@pcantrell"
@@ -10400,7 +10400,7 @@
       "description": "Photo editing",
       "source": "https://github.com/Yalantis/PixPic",
       "screenshots": [
-        "http://i.imgur.com/c8ahfkv.png"
+        "https://i.imgur.com/c8ahfkv.png"
       ],
       "license": "other",
       "tags": [
@@ -10477,8 +10477,8 @@
         "archive"
       ],
       "screenshots": [
-        "http://i.imgur.com/lMvDaEw.png",
-        "http://i.imgur.com/y3o7uAK.png"
+        "https://i.imgur.com/lMvDaEw.png",
+        "https://i.imgur.com/y3o7uAK.png"
       ],
       "date_added": "Aug 5 2016",
       "suggested_by": "@dkhamsing",
@@ -10582,7 +10582,7 @@
       "license": "other",
       "stars": 1306,
       "screenshots": [
-        "http://i.giphy.com/hwCahHAD1tNHa.gif"
+        "https://i.giphy.com/hwCahHAD1tNHa.gif"
       ],
       "date_added": "Aug 15 2016",
       "suggested_by": "@dkhamsing"
@@ -10617,9 +10617,9 @@
         "watchos3"
       ],
       "screenshots": [
-        "http://i.imgur.com/AggsuxA.png",
-        "http://i.imgur.com/r8El1FE.png",
-        "http://i.imgur.com/zCkknWc.png"
+        "https://i.imgur.com/AggsuxA.png",
+        "https://i.imgur.com/r8El1FE.png",
+        "https://i.imgur.com/zCkknWc.png"
       ],
       "license": "other",
       "stars": 129,
@@ -10757,7 +10757,7 @@
       "description": "Calculates grams of water needed given grams of coffee based off ratio chosen",
       "source": "https://github.com/jmp9c/Coffee-Ratio",
       "screenshots": [
-        "http://i.imgur.com/rQxOsqO.png"
+        "https://i.imgur.com/rQxOsqO.png"
       ],
       "date_added": "Sep 9 2016",
       "suggested_by": "@jmp9c",
@@ -10896,7 +10896,7 @@
         "starscream"
       ],
       "screenshots": [
-        "http://i.imgur.com/DuQSjpY.png"
+        "https://i.imgur.com/DuQSjpY.png"
       ],
       "license": "other",
       "date_added": "Sep 30 2016",
@@ -11330,7 +11330,7 @@
         "tasks"
       ],
       "screenshots": [
-        "http://i.imgur.com/BlZtGZR.png"
+        "https://i.imgur.com/BlZtGZR.png"
       ],
       "tags": [
         "swift"
@@ -11372,7 +11372,7 @@
         "rest"
       ],
       "screenshots": [
-        "http://i.imgur.com/fEPFBzr.png"
+        "https://i.imgur.com/fEPFBzr.png"
       ],
       "license": "mit",
       "date_added": "Nov 3 2016",
@@ -11453,8 +11453,8 @@
         "realm"
       ],
       "screenshots": [
-        "http://i.imgur.com/xyu7t89.png",
-        "http://i.imgur.com/Jes7vLF.png"
+        "https://i.imgur.com/xyu7t89.png",
+        "https://i.imgur.com/Jes7vLF.png"
       ],
       "tags": [
         "swift",
@@ -11477,7 +11477,7 @@
       "description": "Shape matching puzzle",
       "source": "https://github.com/snazzware/Mergel",
       "screenshots": [
-        "http://i.imgur.com/978TVq5.png"
+        "https://i.imgur.com/978TVq5.png"
       ],
       "license": "mit",
       "date_added": "Nov 9 2016",
@@ -12058,7 +12058,7 @@
       ],
       "screenshots": [
         "https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png",
-        "http://i.imgur.com/Y9ZG7Of.png"
+        "https://i.imgur.com/Y9ZG7Of.png"
       ],
       "category-ids": [
         "tasks",
@@ -12081,8 +12081,8 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/CJsIdOS.png",
-        "http://i.imgur.com/rLX3Fsf.png"
+        "https://i.imgur.com/CJsIdOS.png",
+        "https://i.imgur.com/rLX3Fsf.png"
       ],
       "license": "gpl-2.0",
       "date_added": "Feb 3 2017",
@@ -12425,8 +12425,8 @@
         "realm"
       ],
       "screenshots": [
-        "http://i.imgur.com/pTxoTPX.png",
-        "http://i.imgur.com/Zrvfypq.png"
+        "https://i.imgur.com/pTxoTPX.png",
+        "https://i.imgur.com/Zrvfypq.png"
       ],
       "tags": [
         "swift",
@@ -12472,8 +12472,8 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/fXB42iY.png",
-        "http://i.imgur.com/EMGOw0g.png"
+        "https://i.imgur.com/fXB42iY.png",
+        "https://i.imgur.com/EMGOw0g.png"
       ],
       "date_added": "Mar 20 2017",
       "suggested_by": "@richardxyx"
@@ -12526,9 +12526,9 @@
         "archive"
       ],
       "screenshots": [
-        "http://i.imgur.com/KOUAgX6.png",
-        "http://i.imgur.com/MeDP8s0.png",
-        "http://i.imgur.com/cUI0IFm.png"
+        "https://i.imgur.com/KOUAgX6.png",
+        "https://i.imgur.com/MeDP8s0.png",
+        "https://i.imgur.com/cUI0IFm.png"
       ],
       "license": "other",
       "date_added": "Mar 24 2017",
@@ -13197,7 +13197,7 @@
       "license": "other",
       "date_added": "Mon Aug 14 08:18:58 2016 -0800",
       "screenshots": [
-        "http://i.imgur.com/T6Hwv3b.png"
+        "https://i.imgur.com/T6Hwv3b.png"
       ],
       "suggested_by": "@vitorebatista"
     },
@@ -13210,7 +13210,7 @@
         "react-native"
       ],
       "screenshots": [
-        "http://i.imgur.com/6HfPmrT.png"
+        "https://i.imgur.com/6HfPmrT.png"
       ],
       "source": "https://github.com/VctrySam/SnapChat",
       "stars": 402,
@@ -13227,7 +13227,7 @@
         "react-native"
       ],
       "screenshots": [
-        "http://i.imgur.com/PrMRwmY.png"
+        "https://i.imgur.com/PrMRwmY.png"
       ],
       "source": "https://github.com/VctrySam/Pokemon",
       "stars": 163,
@@ -13244,7 +13244,7 @@
         "react-native"
       ],
       "screenshots": [
-        "http://i.imgur.com/I7d06Pq.png"
+        "https://i.imgur.com/I7d06Pq.png"
       ],
       "source": "https://github.com/VctrySam/Tinder",
       "stars": 344,
@@ -13261,7 +13261,7 @@
         "react-native"
       ],
       "screenshots": [
-        "http://i.imgur.com/0kzQBEJ.png"
+        "https://i.imgur.com/0kzQBEJ.png"
       ],
       "source": "https://github.com/VctrySam/Twitter",
       "stars": 84,
@@ -13278,7 +13278,7 @@
         "react-native"
       ],
       "screenshots": [
-        "http://i.imgur.com/vMgWK6m.png"
+        "https://i.imgur.com/vMgWK6m.png"
       ],
       "source": "https://github.com/VctrySam/AirBnb",
       "stars": 217,
@@ -13295,7 +13295,7 @@
         "react-native"
       ],
       "screenshots": [
-        "http://i.imgur.com/6Xogt5Y.png"
+        "https://i.imgur.com/6Xogt5Y.png"
       ],
       "source": "https://github.com/VctrySam/FCBarca",
       "stars": 32,
