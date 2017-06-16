@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **365** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -79,9 +79,10 @@ Jump to
 1000+ Stars: 🔥🔥🔥🔥
 2000+ Stars: 🔥🔥🔥🔥🔥
 
-Most projects are in English, exceptions have a flag
+Projects are in English unless indicated by flags 
 🇨🇳 Project is in Chinese
-🇪🇸 Project is in Spanish, etc
+🇪🇸 Project is in Spanish
+... 
 
 Click ► to show more details
 ```
