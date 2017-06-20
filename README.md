@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-697-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2016,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-698-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2020,%202017-lightgrey.svg)
 
 Jump to
 
@@ -189,7 +189,7 @@ Click ► to show more details
   <details><summary><code>tvml</code> <code>gulp</code> <code>jade</code> <code>coffeescript</code> </summary>
 
   https://github.com/kenmickles/unh_tvos<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Uncle Nagy's House image 1' src='http://i.imgur.com/1O8v7RY.jpg'> 
+  <div><img height='300' alt='Uncle Nagy's House image 1' src='https://i.imgur.com/1O8v7RY.jpg'> 
 </div>
   </details>
 
@@ -290,7 +290,7 @@ Click ► to show more details
   <details><summary><code>swift</code> </summary>
 
   https://github.com/swilliams/watchkit-connectivity-demo<br>  Added July 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Connectivity Demo image 1' src='http://i.imgur.com/KZc3Hjg.png'> 
+  <div><img height='300' alt='Connectivity Demo image 1' src='https://i.imgur.com/KZc3Hjg.png'> 
 </div>
   </details>
 
@@ -362,7 +362,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>watchos3</code> 🔥</summary>
 
   https://github.com/thomaspaulmann/HeartControl<br>  Added August 16, 2016<br>  License: `other`
-  <div><img height='300' alt='HeartControl image 1' src='http://i.imgur.com/AggsuxA.png'> <img height='300' alt='HeartControl image 2' src='http://i.imgur.com/r8El1FE.png'> <img height='300' alt='HeartControl image 3' src='http://i.imgur.com/zCkknWc.png'> 
+  <div><img height='300' alt='HeartControl image 1' src='https://i.imgur.com/AggsuxA.png'> <img height='300' alt='HeartControl image 2' src='https://i.imgur.com/r8El1FE.png'> <img height='300' alt='HeartControl image 3' src='https://i.imgur.com/zCkknWc.png'> 
 </div>
   </details>
 
@@ -370,7 +370,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>watchos2</code> 🔥🔥</summary>
 
   https://github.com/coolioxlr/watchOS-2-heartrate<br>  http://imgur.com/a/xVqqj<br>  Added July 29, 2015<br>  License: `other`
-  <div><img height='300' alt='heartrate image 1' src='http://i.imgur.com/hOfxCBx.png'> 
+  <div><img height='300' alt='heartrate image 1' src='https://i.imgur.com/hOfxCBx.png'> 
 </div>
   </details>
 
@@ -426,7 +426,7 @@ Click ► to show more details
   <details><summary><code>watchkit</code> </summary>
 
   https://github.com/D-32/OnTime<br>  Added May 13, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='OnTime image 1' src='http://i.imgur.com/gazVTKg.jpg'> 
+  <div><img height='300' alt='OnTime image 1' src='https://i.imgur.com/gazVTKg.jpg'> 
 </div>
   </details>
 
@@ -466,7 +466,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>toucan</code> <code>realm</code> 🔥</summary>
 
   https://github.com/tryswift/trySwiftNYC<br>  Added November  8, 2016<br>  License: `other`
-  <div><img height='300' alt='try! Swift NYC image 1' src='http://i.imgur.com/xyu7t89.png'> <img height='300' alt='try! Swift NYC image 2' src='http://i.imgur.com/Jes7vLF.png'> 
+  <div><img height='300' alt='try! Swift NYC image 1' src='https://i.imgur.com/xyu7t89.png'> <img height='300' alt='try! Swift NYC image 2' src='https://i.imgur.com/Jes7vLF.png'> 
 </div>
   </details>
 
@@ -514,7 +514,7 @@ Click ► to show more details
   <details><summary><code>swift</code> </summary>
 
   https://github.com/davidcairns/-WatchSnake<br>  Added May  5, 2015<br>  License: `other`
-  <div><img height='300' alt='WatchSnake image 1' src='http://i.imgur.com/POfmbkq.png'> <img height='300' alt='WatchSnake image 2' src='http://i.imgur.com/EKAyXnw.png'> <img height='300' alt='WatchSnake image 3' src='http://i.imgur.com/vrdomSG.png'> 
+  <div><img height='300' alt='WatchSnake image 1' src='https://i.imgur.com/POfmbkq.png'> <img height='300' alt='WatchSnake image 2' src='https://i.imgur.com/EKAyXnw.png'> <img height='300' alt='WatchSnake image 3' src='https://i.imgur.com/vrdomSG.png'> 
 </div>
   </details>
 
@@ -612,7 +612,7 @@ Click ► to show more details
   <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/benoitvallon/react-native-nw-react-calculator<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Calculator image 1' src='http://i.imgur.com/8OKDHjU.png'> 
+  <div><img height='300' alt='Calculator image 1' src='https://i.imgur.com/8OKDHjU.png'> 
 </div>
   </details>
 
@@ -620,7 +620,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>swift3</code> </summary>
 
   https://github.com/jmp9c/Coffee-Ratio<br>  Added September  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Coffee Ratio image 1' src='http://i.imgur.com/rQxOsqO.png'> 
+  <div><img height='300' alt='Coffee Ratio image 1' src='https://i.imgur.com/rQxOsqO.png'> 
 </div>
   </details>
 
@@ -652,7 +652,7 @@ Click ► to show more details
   <details><summary><code>swift</code> </summary>
 
   https://github.com/bridger/NumberPad<br>  http://bridgermaxwell.com/blog/numberpad-notation/<br>  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='NumberPad image 1' src='http://i.imgur.com/5o7MaMll.png'> 
+  <div><img height='300' alt='NumberPad image 1' src='https://i.imgur.com/5o7MaMll.png'> 
 </div>
   </details>
 
@@ -724,7 +724,7 @@ Click ► to show more details
   <details><summary><code>objc</code> 🔥🔥🔥</summary>
 
   https://github.com/anthonya1999/GoodNight<br>  Added December 23, 2015<br>  License: `other`
-  <div><img height='300' alt='GoodNight image 1' src='http://i.imgur.com/QEAE4B3.jpg'> 
+  <div><img height='300' alt='GoodNight image 1' src='https://i.imgur.com/QEAE4B3.jpg'> 
 </div>
   </details>
 
@@ -838,7 +838,7 @@ Click ► to show more details
   <details><summary><code>swift</code> </summary>
 
   https://github.com/caleb0/SwiftSnake<br>  Added August 19, 2016<br>  License: `other`
-  <div><img height='300' alt='SwiftSnake image 1' src='http://i.imgur.com/mBi9Jfj.png'> 
+  <div><img height='300' alt='SwiftSnake image 1' src='https://i.imgur.com/mBi9Jfj.png'> 
 </div>
   </details>
 
@@ -854,7 +854,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>swift3</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/aslanyanhaik/youtube-iOS<br>  Added August 15, 2016<br>  License: `other`
-  <div><img height='300' alt='youtube-iOS image 1' src='http://i.giphy.com/hwCahHAD1tNHa.gif'> 
+  <div><img height='300' alt='youtube-iOS image 1' src='https://i.giphy.com/hwCahHAD1tNHa.gif'> 
 </div>
   </details>
 
@@ -1035,7 +1035,7 @@ Click ► to show more details
   <details><summary><code>swift</code> </summary>
 
   https://github.com/thii/TextEthan<br>  Added April 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='TextEthan image 1' src='http://i.imgur.com/6V3danC.png'> <img height='300' alt='TextEthan image 2' src='http://i.imgur.com/7yuwMkO.png'> <img height='300' alt='TextEthan image 3' src='http://i.imgur.com/PbpxreZ.png'> <img height='300' alt='TextEthan image 4' src='http://i.imgur.com/UgkwKoB.png'> 
+  <div><img height='300' alt='TextEthan image 1' src='https://i.imgur.com/6V3danC.png'> <img height='300' alt='TextEthan image 2' src='https://i.imgur.com/7yuwMkO.png'> <img height='300' alt='TextEthan image 3' src='https://i.imgur.com/PbpxreZ.png'> <img height='300' alt='TextEthan image 4' src='https://i.imgur.com/UgkwKoB.png'> 
 </div>
   </details>
 
@@ -1051,7 +1051,7 @@ Click ► to show more details
   <details><summary><code>airdrop</code> </summary>
 
   https://github.com/a2/TrollDrop<br>  Added May  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='TrollDrop image 1' src='http://i.imgur.com/gb1G8di.png'> 
+  <div><img height='300' alt='TrollDrop image 1' src='https://i.imgur.com/gb1G8di.png'> 
 </div>
   </details>
 
@@ -1075,7 +1075,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>starscream</code> </summary>
 
   https://github.com/vapor-community/chat-ios-example<br>  Added September 30, 2016<br>  License: `other`
-  <div><img height='300' alt='Vapor Chat image 1' src='http://i.imgur.com/DuQSjpY.png'> 
+  <div><img height='300' alt='Vapor Chat image 1' src='https://i.imgur.com/DuQSjpY.png'> 
 </div>
   </details>
 
@@ -1393,7 +1393,7 @@ Click ► to show more details
   <details><summary><code>restkit</code> </summary>
 
   https://github.com/RestKit/RKGist<br>  Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='RKGist image 1' src='http://i.imgur.com/3yKeZP7.png'> <img height='300' alt='RKGist image 2' src='http://i.imgur.com/cPwvXZa.png'> 
+  <div><img height='300' alt='RKGist image 1' src='https://i.imgur.com/3yKeZP7.png'> <img height='300' alt='RKGist image 2' src='https://i.imgur.com/cPwvXZa.png'> 
 </div>
   </details>
 
@@ -1401,7 +1401,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>rest</code> 🔥🔥🔥</summary>
 
   https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Siesta GitHub Browser image 1' src='http://i.imgur.com/OBGvFKw.png'> <img height='300' alt='Siesta GitHub Browser image 2' src='http://i.imgur.com/50eCbeX.png'> 
+  <div><img height='300' alt='Siesta GitHub Browser image 1' src='https://i.imgur.com/OBGvFKw.png'> <img height='300' alt='Siesta GitHub Browser image 2' src='https://i.imgur.com/50eCbeX.png'> 
 </div>
   </details>
 
@@ -1409,7 +1409,7 @@ Click ► to show more details
   <details><summary><code>objc</code> </summary>
 
   https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub<br>  Added May 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='SwiftHub image 1' src='http://i.imgur.com/NjqYq02.png'> 
+  <div><img height='300' alt='SwiftHub image 1' src='https://i.imgur.com/NjqYq02.png'> 
 </div>
   </details>
 
@@ -1430,7 +1430,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>instagram api</code> </summary>
 
   https://github.com/Sajjon/SwiftIntro<br>  Added July  6, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='My First Memory image 1' src='http://i.imgur.com/8u73w5u.png'> <img height='300' alt='My First Memory image 2' src='http://i.imgur.com/MShIfCe.png'> 
+  <div><img height='300' alt='My First Memory image 1' src='https://i.imgur.com/8u73w5u.png'> <img height='300' alt='My First Memory image 2' src='https://i.imgur.com/MShIfCe.png'> 
 </div>
   </details>
 
@@ -1539,7 +1539,7 @@ Click ► to show more details
   <details><summary><code>c</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/libretro/RetroArch<br>  Added May 13, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='RetroArch image 1' src='http://i.imgur.com/MUNX0Mq.jpg'> 
+  <div><img height='300' alt='RetroArch image 1' src='https://i.imgur.com/MUNX0Mq.jpg'> 
 </div>
   </details>
 
@@ -1552,7 +1552,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>iphone</code> 🔥🔥</summary>
 
   https://github.com/icanzilb/EventBlankApp<br>  Added April 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='EventBlankApp image 1' src='http://i.imgur.com/FfNizrW.png'> 
+  <div><img height='300' alt='EventBlankApp image 1' src='https://i.imgur.com/FfNizrW.png'> 
 </div>
   </details>
 
@@ -1624,7 +1624,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>toucan</code> <code>realm</code> 🔥</summary>
 
   https://github.com/tryswift/trySwiftNYC<br>  Added November  8, 2016<br>  License: `other`
-  <div><img height='300' alt='try! Swift NYC image 1' src='http://i.imgur.com/xyu7t89.png'> <img height='300' alt='try! Swift NYC image 2' src='http://i.imgur.com/Jes7vLF.png'> 
+  <div><img height='300' alt='try! Swift NYC image 1' src='https://i.imgur.com/xyu7t89.png'> <img height='300' alt='try! Swift NYC image 2' src='https://i.imgur.com/Jes7vLF.png'> 
 </div>
   </details>
 
@@ -1810,7 +1810,7 @@ Click ► to show more details
   <details><summary><code>swift</code> 🔥</summary>
 
   https://github.com/richardxyx/BoardBank<br>  http://www.richardneitzke.com<br>  Added March 20, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='BoardBank image 1' src='http://i.imgur.com/fXB42iY.png'> <img height='300' alt='BoardBank image 2' src='http://i.imgur.com/EMGOw0g.png'> 
+  <div><img height='300' alt='BoardBank image 1' src='https://i.imgur.com/fXB42iY.png'> <img height='300' alt='BoardBank image 2' src='https://i.imgur.com/EMGOw0g.png'> 
 </div>
   </details>
 
@@ -2068,7 +2068,7 @@ Click ► to show more details
   <details><summary><code>objc</code> </summary>
 
   https://github.com/insurgentgames/Cryptose<br>  Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='Cryptose image 1' src='http://i.imgur.com/g3UpGMH.png'> 
+  <div><img height='300' alt='Cryptose image 1' src='https://i.imgur.com/g3UpGMH.png'> 
 </div>
   </details>
 
@@ -2108,7 +2108,7 @@ Click ► to show more details
   <details><summary><code>objc</code> </summary>
 
   https://github.com/CliffsDover/crawl<br>  https://github.com/CliffsDover/crawl/tree/iOS_Release<br>  Added March 23, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  <div><img height='300' alt='Dungeon Crawl image 1' src='http://i.imgur.com/MZZeHCf.png'> 
+  <div><img height='300' alt='Dungeon Crawl image 1' src='https://i.imgur.com/MZZeHCf.png'> 
 </div>
   </details>
 
@@ -2172,7 +2172,7 @@ Click ► to show more details
   <details><summary><code>objc</code> </summary>
 
   https://github.com/spiffcode/hostile-takeover<br>  Added June  1, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
-  <div><img height='300' alt='Hostile Takeover image 1' src='http://i.imgur.com/PQ1QX2u.jpg'> 
+  <div><img height='300' alt='Hostile Takeover image 1' src='https://i.imgur.com/PQ1QX2u.jpg'> 
 </div>
   </details>
 
@@ -2228,7 +2228,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>instagram api</code> </summary>
 
   https://github.com/Sajjon/SwiftIntro<br>  Added July  6, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='My First Memory image 1' src='http://i.imgur.com/8u73w5u.png'> <img height='300' alt='My First Memory image 2' src='http://i.imgur.com/MShIfCe.png'> 
+  <div><img height='300' alt='My First Memory image 1' src='https://i.imgur.com/8u73w5u.png'> <img height='300' alt='My First Memory image 2' src='https://i.imgur.com/MShIfCe.png'> 
 </div>
   </details>
 
@@ -2252,7 +2252,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>realm</code> </summary>
 
   https://github.com/realm/RealmPop<br>  Added March  7, 2017<br>  License: `other`
-  <div><img height='300' alt='RealmPop image 1' src='http://i.imgur.com/pTxoTPX.png'> <img height='300' alt='RealmPop image 2' src='http://i.imgur.com/Zrvfypq.png'> 
+  <div><img height='300' alt='RealmPop image 1' src='https://i.imgur.com/pTxoTPX.png'> <img height='300' alt='RealmPop image 2' src='https://i.imgur.com/Zrvfypq.png'> 
 </div>
   </details>
 
@@ -2351,7 +2351,7 @@ http://cocos2d.org/ — [back to top](#readme)
   <details><summary><code>objc</code> </summary>
 
   https://github.com/jamiely/ios-balloon-burst<br>  Added May 16, 2016<br>  License: `other`
-  <div><img height='300' alt='Balloon Burst image 1' src='http://i.imgur.com/z9rNl4a.png'> 
+  <div><img height='300' alt='Balloon Burst image 1' src='https://i.imgur.com/z9rNl4a.png'> 
 </div>
   </details>
 
@@ -2359,7 +2359,7 @@ http://cocos2d.org/ — [back to top](#readme)
   <details><summary><code>objc</code> </summary>
 
   https://github.com/RolandasRazma/Heredox<br>  http://www.heredox.com/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Heredox image 1' src='http://i.imgur.com/Wg6TIR7.jpg'> <img height='300' alt='Heredox image 2' src='http://i.imgur.com/PatEcU8.jpg'> 
+  <div><img height='300' alt='Heredox image 1' src='https://i.imgur.com/Wg6TIR7.jpg'> <img height='300' alt='Heredox image 2' src='https://i.imgur.com/PatEcU8.jpg'> 
 </div>
   </details>
 
@@ -2396,7 +2396,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   <details><summary><code>objc</code> 🇨🇳 </summary>
 
   https://github.com/WelkinXie/FiveInARow<br>  Added May  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Five In A Row (五子棋) image 1' src='http://i.imgur.com/anzIXHK.png'> 
+  <div><img height='300' alt='Five In A Row (五子棋) image 1' src='https://i.imgur.com/anzIXHK.png'> 
 </div>
   </details>
 
@@ -2410,7 +2410,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/snazzware/Mergel<br>  Added November  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Mergel image 1' src='http://i.imgur.com/978TVq5.png'> 
+  <div><img height='300' alt='Mergel image 1' src='https://i.imgur.com/978TVq5.png'> 
 </div>
   </details>
 
@@ -2442,7 +2442,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/caleb0/SwiftSnake<br>  Added August 19, 2016<br>  License: `other`
-  <div><img height='300' alt='SwiftSnake image 1' src='http://i.imgur.com/mBi9Jfj.png'> 
+  <div><img height='300' alt='SwiftSnake image 1' src='https://i.imgur.com/mBi9Jfj.png'> 
 </div>
   </details>
 
@@ -2455,7 +2455,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/jc4p/abby-healthkit<br>  Added July 11, 2016<br>  License: `other`
-  <div><img height='300' alt='Abby's Cycle image 1' src='http://i.imgur.com/r45bo2R.png'> <img height='300' alt='Abby's Cycle image 2' src='http://i.imgur.com/fFDR1Fl.png'> 
+  <div><img height='300' alt='Abby's Cycle image 1' src='https://i.imgur.com/r45bo2R.png'> <img height='300' alt='Abby's Cycle image 2' src='https://i.imgur.com/fFDR1Fl.png'> 
 </div>
   </details>
 
@@ -2485,7 +2485,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   <details><summary><code>swift</code> <code>healthkit</code> </summary>
 
   https://github.com/Darktt/HealthKit-Swift<br>  Added October 27, 2015<br>  License: `other`
-  <div><img height='300' alt='HealthKit~Swift image 1' src='http://i.imgur.com/0pIsqGe.png'> <img height='300' alt='HealthKit~Swift image 2' src='http://i.imgur.com/DbSH2qC.png'> <img height='300' alt='HealthKit~Swift image 3' src='http://i.imgur.com/VIexU8t.png'> <img height='300' alt='HealthKit~Swift image 4' src='http://i.imgur.com/iuiwmyY.png'> 
+  <div><img height='300' alt='HealthKit~Swift image 1' src='https://i.imgur.com/0pIsqGe.png'> <img height='300' alt='HealthKit~Swift image 2' src='https://i.imgur.com/DbSH2qC.png'> <img height='300' alt='HealthKit~Swift image 3' src='https://i.imgur.com/VIexU8t.png'> <img height='300' alt='HealthKit~Swift image 4' src='https://i.imgur.com/iuiwmyY.png'> 
 </div>
   </details>
 
@@ -2493,7 +2493,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   <details><summary><code>objc</code> </summary>
 
   https://github.com/mjcuva/Hidrate<br>  Added May  3, 2016<br>  License: `other`
-  <div><img height='300' alt='Hidrate image 1' src='http://i.imgur.com/nOAhewe.png'> <img height='300' alt='Hidrate image 2' src='http://i.imgur.com/DmfcHr6.png'> <img height='300' alt='Hidrate image 3' src='http://i.imgur.com/5xlFNzo.png'> <img height='300' alt='Hidrate image 4' src='http://i.imgur.com/mCDJdlD.png'> 
+  <div><img height='300' alt='Hidrate image 1' src='https://i.imgur.com/nOAhewe.png'> <img height='300' alt='Hidrate image 2' src='https://i.imgur.com/DmfcHr6.png'> <img height='300' alt='Hidrate image 3' src='https://i.imgur.com/5xlFNzo.png'> <img height='300' alt='Hidrate image 4' src='https://i.imgur.com/mCDJdlD.png'> 
 </div>
   </details>
 
@@ -2741,7 +2741,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   <details><summary><code>objc</code> 🔥🔥🔥</summary>
 
   https://github.com/chroman/Doppio<br>  http://imgur.com/a/ges5M<br>  Added March  5, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
-  <div><img height='300' alt='Doppio image 1' src='http://i.imgur.com/2ZG08AX.png'> <img height='300' alt='Doppio image 2' src='http://i.imgur.com/PDUUWTj.png'> 
+  <div><img height='300' alt='Doppio image 1' src='https://i.imgur.com/2ZG08AX.png'> <img height='300' alt='Doppio image 2' src='https://i.imgur.com/PDUUWTj.png'> 
 </div>
   </details>
 
@@ -2765,7 +2765,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   <details><summary><code>objc</code> </summary>
 
   https://github.com/GeoTappy/GeoTappy-iOS<br>  Added April 14, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='GeoTappy image 1' src='http://i.imgur.com/FWj32S0.png'> <img height='300' alt='GeoTappy image 2' src='http://i.imgur.com/IyfFdCc.png'> 
+  <div><img height='300' alt='GeoTappy image 1' src='https://i.imgur.com/FWj32S0.png'> <img height='300' alt='GeoTappy image 2' src='https://i.imgur.com/IyfFdCc.png'> 
 </div>
   </details>
 
@@ -2933,7 +2933,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   <details><summary><code>objc</code> </summary>
 
   https://github.com/sugarso/MappedInIsrael<br>  Added April  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Startups - Mapped In Israel image 1' src='http://i.imgur.com/vSyWHSA.png'> <img height='300' alt='Startups - Mapped In Israel image 2' src='http://i.imgur.com/WJbZSB6.png'> <img height='300' alt='Startups - Mapped In Israel image 3' src='http://i.imgur.com/fTlosLW.png'> <img height='300' alt='Startups - Mapped In Israel image 4' src='http://i.imgur.com/eTnGn5F.png'> 
+  <div><img height='300' alt='Startups - Mapped In Israel image 1' src='https://i.imgur.com/vSyWHSA.png'> <img height='300' alt='Startups - Mapped In Israel image 2' src='https://i.imgur.com/WJbZSB6.png'> <img height='300' alt='Startups - Mapped In Israel image 3' src='https://i.imgur.com/fTlosLW.png'> <img height='300' alt='Startups - Mapped In Israel image 4' src='https://i.imgur.com/eTnGn5F.png'> 
 </div>
   </details>
 
@@ -3162,7 +3162,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary><code>swift</code> <code>coremotion</code> 🔥</summary>
 
   https://github.com/FlexMonkey/SwiftSpace<br>  Added September  1, 2015<br>  License: `other`
-  <div><img height='300' alt='SwiftSpace image 1' src='http://i.imgur.com/6khfaX6.png'> 
+  <div><img height='300' alt='SwiftSpace image 1' src='https://i.imgur.com/6khfaX6.png'> 
 </div>
   </details>
 
@@ -3215,7 +3215,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/DeveloperACE/MiamiSunglasses<br>  Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='MiamiSunglasses image 1' src='http://i.imgur.com/DYoZw6Q.png'> 
+  <div><img height='300' alt='MiamiSunglasses image 1' src='https://i.imgur.com/DYoZw6Q.png'> 
 </div>
   </details>
 
@@ -3308,7 +3308,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/soffes/bar<br>  Added January 26, 2015<br>  License: `other`
-  <div><img height='300' alt='bar image 1' src='http://i.imgur.com/PTUo4e7.png'> <img height='300' alt='bar image 2' src='http://i.imgur.com/bXZH0LB.png'> <img height='300' alt='bar image 3' src='http://i.imgur.com/tIFW8bu.png'> <img height='300' alt='bar image 4' src='http://i.imgur.com/D095xih.png'> 
+  <div><img height='300' alt='bar image 1' src='https://i.imgur.com/PTUo4e7.png'> <img height='300' alt='bar image 2' src='https://i.imgur.com/bXZH0LB.png'> <img height='300' alt='bar image 3' src='https://i.imgur.com/tIFW8bu.png'> <img height='300' alt='bar image 4' src='https://i.imgur.com/D095xih.png'> 
 </div>
   </details>
 
@@ -3564,7 +3564,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary><code>objc</code> </summary>
 
   https://github.com/soffes/words<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Words image 1' src='http://i.imgur.com/84QPJ8v.png'> 
+  <div><img height='300' alt='Words image 1' src='https://i.imgur.com/84QPJ8v.png'> 
 </div>
   </details>
 
@@ -3572,7 +3572,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary><code>swift</code> 🔥</summary>
 
   https://github.com/wwdc<br>  Added March 21, 2016<br>  License: `other`
-  <div><img height='300' alt='WWDC Students image 1' src='http://i.imgur.com/EsK2V67.png'> <img height='300' alt='WWDC Students image 2' src='http://i.imgur.com/vmrzCDz.png'> 
+  <div><img height='300' alt='WWDC Students image 1' src='https://i.imgur.com/EsK2V67.png'> <img height='300' alt='WWDC Students image 2' src='https://i.imgur.com/vmrzCDz.png'> 
 </div>
   </details>
 
@@ -3652,7 +3652,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   <details><summary><code>instagram api</code> </summary>
 
   https://github.com/Azoft/CollageMaker-iOS<br>  Added January 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='CollageMaker image 1' src='http://i.imgur.com/bOySdOv.png'> 
+  <div><img height='300' alt='CollageMaker image 1' src='https://i.imgur.com/bOySdOv.png'> 
 </div>
   </details>
 
@@ -3684,7 +3684,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
   https://github.com/Yalantis/PixPic<br>  Added July 29, 2016<br>  License: `other`
-  <div><img height='300' alt='PixPic image 1' src='http://i.imgur.com/c8ahfkv.png'> 
+  <div><img height='300' alt='PixPic image 1' src='https://i.imgur.com/c8ahfkv.png'> 
 </div>
   </details>
 
@@ -3729,7 +3729,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/huijimuhe/prankPro<br>  Added March 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='prankPro image 1' src='http://i.imgur.com/geiofMw.png'> <img height='300' alt='prankPro image 2' src='http://i.imgur.com/fdYYztR.png'> <img height='300' alt='prankPro image 3' src='http://i.imgur.com/sh4pL25.png'> 
+  <div><img height='300' alt='prankPro image 1' src='https://i.imgur.com/geiofMw.png'> <img height='300' alt='prankPro image 2' src='https://i.imgur.com/fdYYztR.png'> <img height='300' alt='prankPro image 3' src='https://i.imgur.com/sh4pL25.png'> 
 </div>
   </details>
 
@@ -3774,7 +3774,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   <details><summary><code>objc</code> </summary>
 
   https://github.com/rpowelll/LobsterApp<br>  Added July 21, 2016<br>  License: `other`
-  <div><img height='300' alt='LobsterApp image 1' src='http://i.imgur.com/WF6eY71.png'> 
+  <div><img height='300' alt='LobsterApp image 1' src='https://i.imgur.com/WF6eY71.png'> 
 </div>
   </details>
 
@@ -3798,7 +3798,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/amitburst/reddit-demo<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Reddit image 1' src='http://i.imgur.com/DR8TQz0.png'> <img height='300' alt='Reddit image 2' src='http://i.imgur.com/OaIzWfI.png'> 
+  <div><img height='300' alt='Reddit image 1' src='https://i.imgur.com/DR8TQz0.png'> <img height='300' alt='Reddit image 2' src='https://i.imgur.com/OaIzWfI.png'> 
 </div>
   </details>
 
@@ -4157,7 +4157,7 @@ https://newsapi.org/ — [back to top](#readme)
   <details><summary><code>swift</code> <code>rest</code> 🔥🔥🔥</summary>
 
   https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Siesta GitHub Browser image 1' src='http://i.imgur.com/OBGvFKw.png'> <img height='300' alt='Siesta GitHub Browser image 2' src='http://i.imgur.com/50eCbeX.png'> 
+  <div><img height='300' alt='Siesta GitHub Browser image 1' src='https://i.imgur.com/OBGvFKw.png'> <img height='300' alt='Siesta GitHub Browser image 2' src='https://i.imgur.com/50eCbeX.png'> 
 </div>
   </details>
 
@@ -4254,7 +4254,7 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
   <details><summary><code>objc</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/calebd/SimpleAuth<br>  Added April 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='SimpleAuth image 1' src='http://i.imgur.com/OxImInV.png'> 
+  <div><img height='300' alt='SimpleAuth image 1' src='https://i.imgur.com/OxImInV.png'> 
 </div>
   </details>
 
@@ -4305,7 +4305,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details><summary><code>swift</code> <code>mvvm</code> <code>rxswift</code> 🔥🔥</summary>
 
   https://github.com/tailec/boilerplate<br>  Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='GitHub API Client image 1' src='http://i.imgur.com/611wefH.png'> 
+  <div><img height='300' alt='GitHub API Client image 1' src='https://i.imgur.com/611wefH.png'> 
 </div>
   </details>
 
@@ -4402,7 +4402,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details><summary><code>cloudkit</code> 🔥</summary>
 
   https://github.com/Yalantis/CloudKit-Demo.Objective-C<br>  Added May 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='CloudKit image 1' src='http://i.imgur.com/anNR2DT.png'> 
+  <div><img height='300' alt='CloudKit image 1' src='https://i.imgur.com/anNR2DT.png'> 
 </div>
   </details>
 
@@ -4410,7 +4410,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details><summary><code>swift</code> <code>cloudkit</code> 🔥</summary>
 
   https://github.com/Yalantis/CloudKit-Demo.Swift<br>  Added May 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='CloudKit image 1' src='http://i.imgur.com/dS9aFJL.png'> 
+  <div><img height='300' alt='CloudKit image 1' src='https://i.imgur.com/dS9aFJL.png'> 
 </div>
   </details>
 
@@ -4462,7 +4462,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details><summary><code>objc</code> </summary>
 
   https://github.com/MatheusCavalca/Knock<br>  Added March 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Knock image 1' src='http://i.imgur.com/PfuYfjU.png'> 
+  <div><img height='300' alt='Knock image 1' src='https://i.imgur.com/PfuYfjU.png'> 
 </div>
   </details>
 
@@ -4522,7 +4522,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details><summary><code>restkit</code> </summary>
 
   https://github.com/RestKit/RKGist<br>  Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='RKGist image 1' src='http://i.imgur.com/3yKeZP7.png'> <img height='300' alt='RKGist image 2' src='http://i.imgur.com/cPwvXZa.png'> 
+  <div><img height='300' alt='RKGist image 1' src='https://i.imgur.com/3yKeZP7.png'> <img height='300' alt='RKGist image 2' src='https://i.imgur.com/cPwvXZa.png'> 
 </div>
   </details>
 
@@ -4530,7 +4530,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details><summary><code>swift</code> <code>ios9</code> 🔥🔥</summary>
 
   https://github.com/mackuba/SafariAutoLoginTest<br>  https://vimeo.com/136968596<br>  Added April 22, 2016<br>  License: `other`
-  <div><img height='300' alt='SafariAutoLoginTest image 1' src='http://i.imgur.com/vaGCfA0.png'> 
+  <div><img height='300' alt='SafariAutoLoginTest image 1' src='https://i.imgur.com/vaGCfA0.png'> 
 </div>
   </details>
 
@@ -4538,7 +4538,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details><summary><code>swift</code> <code>rest</code> 🔥🔥🔥</summary>
 
   https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Siesta GitHub Browser image 1' src='http://i.imgur.com/OBGvFKw.png'> <img height='300' alt='Siesta GitHub Browser image 2' src='http://i.imgur.com/50eCbeX.png'> 
+  <div><img height='300' alt='Siesta GitHub Browser image 1' src='https://i.imgur.com/OBGvFKw.png'> <img height='300' alt='Siesta GitHub Browser image 2' src='https://i.imgur.com/50eCbeX.png'> 
 </div>
   </details>
 
@@ -4832,7 +4832,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> 🔥</summary>
 
   https://github.com/anthonygeranio/CloudKit-To-Do-List<br>  Added April  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='CloudKit-To-Do-List image 1' src='http://i.imgur.com/HBFZhdm.png'> <img height='300' alt='CloudKit-To-Do-List image 2' src='http://i.imgur.com/RKo9RXC.png'> 
+  <div><img height='300' alt='CloudKit-To-Do-List image 1' src='https://i.imgur.com/HBFZhdm.png'> <img height='300' alt='CloudKit-To-Do-List image 2' src='https://i.imgur.com/RKo9RXC.png'> 
 </div>
   </details>
 
@@ -4864,7 +4864,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/imod/MyAwesomeChecklist<br>  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='MyAwesomeChecklist image 1' src='http://i.imgur.com/GI6mmKy.png'> <img height='300' alt='MyAwesomeChecklist image 2' src='http://i.imgur.com/MWJhn3c.png'> <img height='300' alt='MyAwesomeChecklist image 3' src='http://i.imgur.com/qDxI9gg.png'> 
+  <div><img height='300' alt='MyAwesomeChecklist image 1' src='https://i.imgur.com/GI6mmKy.png'> <img height='300' alt='MyAwesomeChecklist image 2' src='https://i.imgur.com/MWJhn3c.png'> <img height='300' alt='MyAwesomeChecklist image 3' src='https://i.imgur.com/qDxI9gg.png'> 
 </div>
   </details>
 
@@ -4872,7 +4872,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> <code>realm</code> <code>react native</code> <code>cartography</code> <code>swiftlint</code> 🔥🔥</summary>
 
   https://github.com/realm-demos/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='http://i.imgur.com/Y9ZG7Of.png'> 
+  <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='https://i.imgur.com/Y9ZG7Of.png'> 
 </div>
   </details>
 
@@ -4918,7 +4918,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> 🔥🔥</summary>
 
   https://github.com/mutualmobile/VIPER-SWIFT<br>  Added November  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='VIPER-SWIFT image 1' src='http://i.imgur.com/BlZtGZR.png'> 
+  <div><img height='300' alt='VIPER-SWIFT image 1' src='https://i.imgur.com/BlZtGZR.png'> 
 </div>
   </details>
 
@@ -4994,6 +4994,14 @@ https://mastodon.social — [back to top](#readme)
   https://github.com/mslathrop/SwiftNote<br>  Added March 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
+- Thoughtless: Quickly jot down thoughts, supports Markdown  
+  <details><summary><code>swift</code> <code>swifthexcolors</code> <code>cfalertviewcontroller</code> </summary>
+
+  https://github.com/yoha/Thoughtless<br>  Added June 20, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Thoughtless image 1' src='http://i.imgur.com/263faeN.png'> 
+</div>
+  </details>
+
 - Vesper: Note-taking app [` App Store`](https://itunes.apple.com/app/vesper/id655895325)  
   <details><summary><code>objc</code> 🔥🔥</summary>
 
@@ -5035,7 +5043,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/ashfurrow/yourfirstswiftapp<br>  Added April  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Coffee Timer image 1' src='http://i.imgur.com/p2r8TmY.png'> <img height='300' alt='Coffee Timer image 2' src='http://i.imgur.com/zEHz6j8.png'> 
+  <div><img height='300' alt='Coffee Timer image 1' src='https://i.imgur.com/p2r8TmY.png'> <img height='300' alt='Coffee Timer image 2' src='https://i.imgur.com/zEHz6j8.png'> 
 </div>
   </details>
 
@@ -5092,7 +5100,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/DeveloperACE/MetricTime<br>  Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='MetricTime image 1' src='http://i.imgur.com/N2QeLpm.png'> <img height='300' alt='MetricTime image 2' src='http://i.imgur.com/f33KAQY.png'> <img height='300' alt='MetricTime image 3' src='http://i.imgur.com/EDZFKpP.png'> 
+  <div><img height='300' alt='MetricTime image 1' src='https://i.imgur.com/N2QeLpm.png'> <img height='300' alt='MetricTime image 2' src='https://i.imgur.com/f33KAQY.png'> <img height='300' alt='MetricTime image 3' src='https://i.imgur.com/EDZFKpP.png'> 
 </div>
   </details>
 
@@ -5177,7 +5185,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/JakeLin/SwiftWeather<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='SwiftWeather image 1' src='http://i.imgur.com/9Ofn3QC.jpg'> 
+  <div><img height='300' alt='SwiftWeather image 1' src='https://i.imgur.com/9Ofn3QC.jpg'> 
 </div>
   </details>
 
@@ -5238,7 +5246,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>objc</code> </summary>
 
   https://github.com/aharren/CardDecks<br>  Added April 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='CardDecks image 1' src='http://i.imgur.com/h2ybAgQ.png'> 
+  <div><img height='300' alt='CardDecks image 1' src='https://i.imgur.com/h2ybAgQ.png'> 
 </div>
   </details>
 
@@ -5278,7 +5286,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/alltheflow/iCopyPasta<br>  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='iCopyPasta image 1' src='http://i.imgur.com/6Tw24I2.png'> <img height='300' alt='iCopyPasta image 2' src='http://i.imgur.com/akwJw0D.png'> 
+  <div><img height='300' alt='iCopyPasta image 1' src='https://i.imgur.com/6Tw24I2.png'> <img height='300' alt='iCopyPasta image 2' src='https://i.imgur.com/akwJw0D.png'> 
 </div>
   </details>
 
@@ -5294,7 +5302,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/nathunsmitty/MirrorPlusPlus<br>  Added January  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Mirror++ image 1' src='http://i.imgur.com/i2nVDNQ.png'> 
+  <div><img height='300' alt='Mirror++ image 1' src='https://i.imgur.com/i2nVDNQ.png'> 
 </div>
   </details>
 
@@ -5358,7 +5366,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>usb</code> 🔥</summary>
 
   https://github.com/chrisballinger/Tether-iOS<br>  Added December 17, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='Tether image 1' src='http://i.imgur.com/xVPBuW9.png'> 
+  <div><img height='300' alt='Tether image 1' src='https://i.imgur.com/xVPBuW9.png'> 
 </div>
   </details>
 
@@ -5403,7 +5411,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> 🔥🔥</summary>
 
   https://github.com/FlexMonkey/Plum-O-Meter<br>  Added October 27, 2015<br>  License: `other`
-  <div><img height='300' alt='Plum-O-Meter image 1' src='http://i.imgur.com/V3kaLaC.png'> 
+  <div><img height='300' alt='Plum-O-Meter image 1' src='https://i.imgur.com/V3kaLaC.png'> 
 </div>
   </details>
 
@@ -5443,7 +5451,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>objc</code> </summary>
 
   https://github.com/chrismiles/OrganisingCoreData<br>  Added August  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='DVD Collection Tracker image 1' src='http://i.imgur.com/MuViFyc.png'> <img height='300' alt='DVD Collection Tracker image 2' src='http://i.imgur.com/pn2qSEg.png'> <img height='300' alt='DVD Collection Tracker image 3' src='http://i.imgur.com/yTD7r0K.png'> <img height='300' alt='DVD Collection Tracker image 4' src='http://i.imgur.com/MxFiCpn.png'> 
+  <div><img height='300' alt='DVD Collection Tracker image 1' src='https://i.imgur.com/MuViFyc.png'> <img height='300' alt='DVD Collection Tracker image 2' src='https://i.imgur.com/pn2qSEg.png'> <img height='300' alt='DVD Collection Tracker image 3' src='https://i.imgur.com/yTD7r0K.png'> <img height='300' alt='DVD Collection Tracker image 4' src='https://i.imgur.com/MxFiCpn.png'> 
 </div>
   </details>
 
@@ -5451,7 +5459,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/etchsaleh/Listr<br>  Added February  3, 2017<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  <div><img height='300' alt='Listr image 1' src='http://i.imgur.com/CJsIdOS.png'> <img height='300' alt='Listr image 2' src='http://i.imgur.com/rLX3Fsf.png'> 
+  <div><img height='300' alt='Listr image 1' src='https://i.imgur.com/CJsIdOS.png'> <img height='300' alt='Listr image 2' src='https://i.imgur.com/rLX3Fsf.png'> 
 </div>
   </details>
 
@@ -5459,7 +5467,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>objc</code> 🔥</summary>
 
   https://github.com/objcio/issue-4-full-core-data-application<br>  Added August  7, 2015<br>  License: `other`
-  <div><img height='300' alt='Nested Lists image 1' src='http://i.imgur.com/z8Xw0qC.png'> <img height='300' alt='Nested Lists image 2' src='http://i.imgur.com/M5pwaAf.png'> 
+  <div><img height='300' alt='Nested Lists image 1' src='https://i.imgur.com/z8Xw0qC.png'> <img height='300' alt='Nested Lists image 2' src='https://i.imgur.com/M5pwaAf.png'> 
 </div>
   </details>
 
@@ -5622,7 +5630,7 @@ https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/SwiftAnyPic/SwiftAnyPic<br>  Added November  2, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
-  <div><img height='300' alt='Anypic image 1' src='http://i.imgur.com/hkcrHaH.jpg'> 
+  <div><img height='300' alt='Anypic image 1' src='https://i.imgur.com/hkcrHaH.jpg'> 
 </div>
   </details>
 
@@ -5681,7 +5689,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react-native</code> 🔥🔥</summary>
 
   https://github.com/VctrySam/AirBnb<br>  Added August 14, 2016<br>  License: `other`
-  <div><img height='300' alt='AirBnb clone image 1' src='http://i.imgur.com/vMgWK6m.png'> 
+  <div><img height='300' alt='AirBnb clone image 1' src='https://i.imgur.com/vMgWK6m.png'> 
 </div>
   </details>
 
@@ -5721,7 +5729,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/benoitvallon/react-native-nw-react-calculator<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Calculator image 1' src='http://i.imgur.com/8OKDHjU.png'> 
+  <div><img height='300' alt='Calculator image 1' src='https://i.imgur.com/8OKDHjU.png'> 
 </div>
   </details>
 
@@ -5767,7 +5775,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react-native</code> </summary>
 
   https://github.com/VctrySam/FCBarca<br>  Added August 14, 2016<br>  License: `other`
-  <div><img height='300' alt='FC Barcelona clone image 1' src='http://i.imgur.com/6Xogt5Y.png'> 
+  <div><img height='300' alt='FC Barcelona clone image 1' src='https://i.imgur.com/6Xogt5Y.png'> 
 </div>
   </details>
 
@@ -5829,7 +5837,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react native</code> </summary>
 
   https://github.com/JoeStanton/london-react<br>  Added August  2, 2015<br>  License: `other`
-  <div><img height='300' alt='london-react image 1' src='http://i.imgur.com/zcyhbtv.png'> 
+  <div><img height='300' alt='london-react image 1' src='https://i.imgur.com/zcyhbtv.png'> 
 </div>
   </details>
 
@@ -5893,7 +5901,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react-native</code> 🔥</summary>
 
   https://github.com/VctrySam/Pokemon<br>  Added August 14, 2016<br>  License: `other`
-  <div><img height='300' alt='Pokemon Go clone image 1' src='http://i.imgur.com/PrMRwmY.png'> 
+  <div><img height='300' alt='Pokemon Go clone image 1' src='https://i.imgur.com/PrMRwmY.png'> 
 </div>
   </details>
 
@@ -5941,7 +5949,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>swift</code> <code>realm</code> <code>react native</code> <code>cartography</code> <code>swiftlint</code> 🔥🔥</summary>
 
   https://github.com/realm-demos/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='http://i.imgur.com/Y9ZG7Of.png'> 
+  <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='https://i.imgur.com/Y9ZG7Of.png'> 
 </div>
   </details>
 
@@ -5957,7 +5965,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react native</code> </summary>
 
   https://github.com/facebook/react-native/tree/master/RNTester<br>  Added February  5, 2016<br>  License: `other`
-  <div><img height='300' alt='RNTester image 1' src='http://i.imgur.com/DYqIgci.png'> 
+  <div><img height='300' alt='RNTester image 1' src='https://i.imgur.com/DYqIgci.png'> 
 </div>
   </details>
 
@@ -5973,7 +5981,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react-native</code> 🔥🔥</summary>
 
   https://github.com/VctrySam/SnapChat<br>  Added August 14, 2016<br>  License: `other`
-  <div><img height='300' alt='Snapchat clone image 1' src='http://i.imgur.com/6HfPmrT.png'> 
+  <div><img height='300' alt='Snapchat clone image 1' src='https://i.imgur.com/6HfPmrT.png'> 
 </div>
   </details>
 
@@ -5989,7 +5997,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react native</code> </summary>
 
   https://github.com/campezzi/react-native-spacepics<br>  Added May 26, 2015<br>  License: `other`
-  <div><img height='300' alt='Spacepics image 1' src='http://i.imgur.com/YENtnhd.png'> 
+  <div><img height='300' alt='Spacepics image 1' src='https://i.imgur.com/YENtnhd.png'> 
 </div>
   </details>
 
@@ -6005,7 +6013,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react-native</code> 🔥🔥</summary>
 
   https://github.com/VctrySam/Tinder<br>  Added August 14, 2016<br>  License: `other`
-  <div><img height='300' alt='Tinder clone image 1' src='http://i.imgur.com/I7d06Pq.png'> 
+  <div><img height='300' alt='Tinder clone image 1' src='https://i.imgur.com/I7d06Pq.png'> 
 </div>
   </details>
 
@@ -6035,7 +6043,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react-native</code> </summary>
 
   https://github.com/VctrySam/Twitter<br>  Added August 14, 2016<br>  License: `other`
-  <div><img height='300' alt='Twitter clone image 1' src='http://i.imgur.com/0kzQBEJ.png'> 
+  <div><img height='300' alt='Twitter clone image 1' src='https://i.imgur.com/0kzQBEJ.png'> 
 </div>
   </details>
 
@@ -6059,7 +6067,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react-native</code> 🔥🔥🔥</summary>
 
   https://github.com/VctrySam/whatsapp<br>  Added August 14, 2016<br>  License: `other`
-  <div><img height='300' alt='Whatsapp clone image 1' src='http://i.imgur.com/T6Hwv3b.png'> 
+  <div><img height='300' alt='Whatsapp clone image 1' src='https://i.imgur.com/T6Hwv3b.png'> 
 </div>
   </details>
 
@@ -6128,7 +6136,7 @@ https://realm.io/ — [back to top](#readme)
   <details><summary><code>swift</code> <code>realm</code> </summary>
 
   https://github.com/realm/RealmPop<br>  Added March  7, 2017<br>  License: `other`
-  <div><img height='300' alt='RealmPop image 1' src='http://i.imgur.com/pTxoTPX.png'> <img height='300' alt='RealmPop image 2' src='http://i.imgur.com/Zrvfypq.png'> 
+  <div><img height='300' alt='RealmPop image 1' src='https://i.imgur.com/pTxoTPX.png'> <img height='300' alt='RealmPop image 2' src='https://i.imgur.com/Zrvfypq.png'> 
 </div>
   </details>
 
@@ -6136,7 +6144,7 @@ https://realm.io/ — [back to top](#readme)
   <details><summary><code>swift</code> <code>realm</code> <code>react native</code> <code>cartography</code> <code>swiftlint</code> 🔥🔥</summary>
 
   https://github.com/realm-demos/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='http://i.imgur.com/Y9ZG7Of.png'> 
+  <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='https://i.imgur.com/Y9ZG7Of.png'> 
 </div>
   </details>
 
@@ -6166,7 +6174,7 @@ https://realm.io/ — [back to top](#readme)
   <details><summary><code>swift</code> <code>toucan</code> <code>realm</code> 🔥</summary>
 
   https://github.com/tryswift/trySwiftNYC<br>  Added November  8, 2016<br>  License: `other`
-  <div><img height='300' alt='try! Swift NYC image 1' src='http://i.imgur.com/xyu7t89.png'> <img height='300' alt='try! Swift NYC image 2' src='http://i.imgur.com/Jes7vLF.png'> 
+  <div><img height='300' alt='try! Swift NYC image 1' src='https://i.imgur.com/xyu7t89.png'> <img height='300' alt='try! Swift NYC image 2' src='https://i.imgur.com/Jes7vLF.png'> 
 </div>
   </details>
 
@@ -6195,7 +6203,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
   <details><summary><code>swift</code> <code>rest</code> </summary>
 
   https://github.com/pedrohperalta/Articles-iOS-VIPER<br>  https://cheesecakelabs.com/blog/ios-project-architecture-using-viper/<br>  Added November  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Articles image 1' src='http://i.imgur.com/fEPFBzr.png'> 
+  <div><img height='300' alt='Articles image 1' src='https://i.imgur.com/fEPFBzr.png'> 
 </div>
   </details>
 
@@ -6209,7 +6217,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
   <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/mutualmobile/Counter<br>  Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Counter image 1' src='http://i.imgur.com/vgZbwrp.png'> 
+  <div><img height='300' alt='Counter image 1' src='https://i.imgur.com/vgZbwrp.png'> 
 </div>
   </details>
 
@@ -6249,7 +6257,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
   <details><summary><code>objc</code> 🔥🔥🔥</summary>
 
   https://github.com/objcio/issue-13-viper<br>  https://www.objc.io/issues/13-architecture/viper/<br>  Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='To do image 1' src='http://i.imgur.com/UhJOVuw.png'> 
+  <div><img height='300' alt='To do image 1' src='https://i.imgur.com/UhJOVuw.png'> 
 </div>
   </details>
 
@@ -6257,7 +6265,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
   <details><summary><code>swift</code> 🔥🔥</summary>
 
   https://github.com/mutualmobile/VIPER-SWIFT<br>  Added November  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='VIPER-SWIFT image 1' src='http://i.imgur.com/BlZtGZR.png'> 
+  <div><img height='300' alt='VIPER-SWIFT image 1' src='https://i.imgur.com/BlZtGZR.png'> 
 </div>
   </details>
 
