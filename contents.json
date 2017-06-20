@@ -13440,6 +13440,17 @@
       "date_added": "June 14 2017",
       "suggested_by": "@dkhamsing",
       "license": "other"
+    },
+    {
+      "title": "Thoughtless",
+      "source": "https://github.com/yoha/Thoughtless",
+      "description": "Quickly jot down thoughts, supports Markdown",
+      "category-ids": ["notes"],
+      "screenshots": ["http://i.imgur.com/263faeN.png"],
+      "tags": ["swift", "swifthexcolors", "cfalertviewcontroller"],
+      "license": "mit",
+      "date_added": "June 20 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
