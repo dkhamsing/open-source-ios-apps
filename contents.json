@@ -13451,6 +13451,17 @@
       "license": "mit",
       "date_added": "June 20 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "AssociationBot",
+      "source": "https://github.com/alexsosn/AssociationBot",
+      "description": "Game chatbot with word association & image recognition",
+      "category-ids": ["misc"],
+      "tags": ["ai", "machine-learning", "natural-language-processing", "neural-network", "word2vec"],
+      "screenshots": ["https://raw.githubusercontent.com/alexsosn/AssociationBot/master/Screenshots/Screen%20Shot%201.png", "https://raw.githubusercontent.com/alexsosn/AssociationBot/master/Screenshots/Screen%20Shot%202.png"],
+      "license": "apache-2.0",
+      "date_added": "June 21 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
