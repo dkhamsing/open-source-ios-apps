@@ -33,9 +33,9 @@ end
 
 def app_store_total(j)
   apps = j['projects']
-  s = apps.select { |x| x['itunes'].nil? }
+  s = apps.reject { |x| x['itunes'].nil? }
 
-  count = 1  
+  count = 1
   s.each do |x|
     tags = x['tags']
     if tags.nil?
