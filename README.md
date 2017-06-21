@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-698-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2020,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-699-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2021,%202017-lightgrey.svg)
 
 Jump to
 
@@ -5223,6 +5223,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/5calls/ios<br>  Added February 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='5 Calls image 1' src='http://a4.mzstatic.com/us/r30/Purple111/v4/d1/ae/b8/d1aeb811-24f2-2c1c-9a5f-1d2060157dd7/screen696x696.jpeg'> <img height='300' alt='5 Calls image 2' src='http://a1.mzstatic.com/us/r30/Purple91/v4/ef/98/fc/ef98fc2c-2d69-8c9c-12da-920c6b7c3ffc/screen696x696.jpeg'> <img height='300' alt='5 Calls image 3' src='http://a5.mzstatic.com/us/r30/Purple122/v4/e4/1a/a6/e41aa661-3a3f-eef0-4ea6-5bd5e608a53b/screen696x696.jpeg'> <img height='300' alt='5 Calls image 4' src='http://a1.mzstatic.com/us/r30/Purple111/v4/2d/d7/9e/2dd79e9f-50f4-8ba9-7c9b-c6f5e9cc5dc9/screen696x696.jpeg'> <img height='300' alt='5 Calls image 5' src='http://a1.mzstatic.com/us/r30/Purple111/v4/a1/46/fe/a146fed8-56a2-5bfc-0bf8-db3c6a4a54ac/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- AssociationBot: Game chatbot with word association & image recognition  
+  <details><summary><code>ai</code> <code>machine-learning</code> <code>natural-language-processing</code> <code>neural-network</code> <code>word2vec</code> </summary>
+
+  https://github.com/alexsosn/AssociationBot<br>  Added June 21, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='AssociationBot image 1' src='https://raw.githubusercontent.com/alexsosn/AssociationBot/master/Screenshots/Screen%20Shot%201.png'> <img height='300' alt='AssociationBot image 2' src='https://raw.githubusercontent.com/alexsosn/AssociationBot/master/Screenshots/Screen%20Shot%202.png'> 
 </div>
   </details>
 
