@@ -13462,6 +13462,17 @@
       "license": "apache-2.0",
       "date_added": "June 21 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": “EconoApp”,
+      "category-ids": ["Finance"],
+      "description": “Keep track of economic information",
+      "source": "https://github.com/viniciusvieir/EconoApp",
+      "itunes": "https://itunes.apple.com/app/econoapp/id1252140352",
+      "screenshots": ["https://raw.githubusercontent.com/viniciusvieir/EconoApp/1da96afc7317c1096a6c9a45c7a06f9d72f431fb/Screenshot%20EN%201.jpg”,"https://raw.githubusercontent.com/viniciusvieir/EconoApp/3520001bbbc88e6e2f15d6fc0ca7e6bcb0819364/Screenshot%20EN%202.jpg","https://raw.githubusercontent.com/viniciusvieir/EconoApp/2afa3886d92de25f87a272f18fd5725f875ed108/Screenshot%20EN%203.jpg"],
+      "date_added": “Jun 26 2017”,
+      "suggested_by": “@viniciusvieir”,
+      "tags": ["swift"]
     }
   ]
 }
