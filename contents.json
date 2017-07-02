@@ -13462,6 +13462,18 @@
       "license": "apache-2.0",
       "date_added": "June 21 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "notGIF",
+      "source": "https://github.com/atuooo/notGIF",
+      "itunes": "https://itunes.apple.com/cn/app/id1069688631",
+      "description": "Play - Tag - Share your GIFs in Photos",
+      "category-ids": ["gif"],
+      "tags": ["swift", "gif", "tag", "share"],
+      "screenshots": ["https://raw.githubusercontent.com/atuooo/notGIF/master/images/screenshots.png"],
+      "license": "mit",
+      "date_added": "Jul 1 2017",
+      "suggested_by": "@atuooo"
     }
   ]
 }
