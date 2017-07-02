@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-699-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2021,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-700-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%202,%202017-lightgrey.svg)
 
 Jump to
 
@@ -3618,6 +3618,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/KrisYu/LivelyGIFs<br>  Added April  6, 2017
   <div><img height='300' alt='LivelyGIFs image 1' src='https://github.com/KrisYu/LivelyGIFs/blob/master/demo.gif?raw=true'> 
+</div>
+  </details>
+
+- notGIF: Play - Tag - Share your GIFs in Photos [` App Store`](https://itunes.apple.com/cn/app/id1069688631)  
+  <details><summary><code>swift</code> <code>gif</code> <code>tag</code> <code>share</code> </summary>
+
+  https://github.com/atuooo/notGIF<br>  Added July  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='notGIF image 1' src='https://raw.githubusercontent.com/atuooo/notGIF/master/images/screenshots.png'> 
 </div>
   </details>
 
