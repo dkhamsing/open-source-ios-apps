@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **267** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **268** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1825,6 +1825,14 @@ Image, video, audio, reading — [back to top](#readme)
  
 Mostly using http://giphy.com/ — [back to top](#readme) 
  
+- notGIF: Play - Tag - Share your GIFs in Photos [` App Store`](https://itunes.apple.com/cn/app/id1069688631)  
+  <details><summary><code>swift</code> <code>gif</code> <code>tag</code> <code>share</code> </summary>
+
+  https://github.com/atuooo/notGIF<br>  Added July  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='notGIF image 1' src='https://raw.githubusercontent.com/atuooo/notGIF/master/images/screenshots.png'> 
+</div>
+  </details>
+
 - Poppins: House all your favorite GIFs, easily share them with your friends & family [` App Store`](https://itunes.apple.com/app/poppins/id978854068)  
   <details><summary><code>swift</code> 🔥</summary>
 
