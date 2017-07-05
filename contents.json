@@ -4614,11 +4614,12 @@
         "sample"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "description": "Furniture store demo app",
       "license": "apache-2.0",
-      "source": "https://github.com/twitterdev/furni-ios",
+      "source": "https://github.com/opensourceios/furni-ios",
       "stars": 1403,
       "screenshots": [
         "https://cdn-images-1.medium.com/max/800/1*dBKMvOk9xGxVAw3e2D-MRg.png"
