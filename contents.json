@@ -13474,7 +13474,7 @@
       "license": "mit",
       "date_added": "Jul 1 2017",
       "suggested_by": "@atuooo"
-      },{
+    },{
       "title": "EconoApp",
       "category-ids": ["finance"],
       "description": "Keep track of economic information",
@@ -13484,6 +13484,17 @@
       "date_added": "Jun 26 2017",
       "suggested_by": "@viniciusvieir",
       "tags": ["swift"]
+    },
+    {
+      "title": "Game of War clone",
+      "source": "https://github.com/shankqr/4xMobileGame",
+      "screenshots": ["https://user-images.githubusercontent.com/3216424/27571005-10f73774-5b35-11e7-9a84-c0b720280fc1.jpeg"],
+      "description": "4x strategy game",
+      "category-ids": ["game"],
+      "tags": ["helpshift", "ssziparchive"],
+      "license": "other",
+      "date_added": "Jul 5 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
