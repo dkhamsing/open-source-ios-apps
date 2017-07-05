@@ -13496,6 +13496,20 @@
       "license": "other",
       "date_added": "Jul 5 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Freetime",
+      "source": "https://github.com/rnystrom/Freetime",
+      "category-ids": ["github"],
+      "description": "GitHub project manager",
+      "screenshots": [
+        "http://i.imgur.com/XwW4MI2.png",
+        "http://i.imgur.com/sFgTFJX.png"
+      ],
+      "tags": ["swift", "iglistkit", "snapkit", "alamofire"],
+      "license": "other",
+      "date_added": "Jul 5 2017",
+      "suggested_by": "@dkhamsing"      
     }
   ]
 }
