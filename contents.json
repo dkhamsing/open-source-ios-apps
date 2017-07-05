@@ -13465,7 +13465,7 @@
     },
     {
       "title": "EconoApp",
-      "category-ids": ["Finance"],
+      "category-ids": ["finance"],
       "description": "Keep track of economic information",
       "source": "https://github.com/viniciusvieir/EconoApp",
       "itunes": "https://itunes.apple.com/app/econoapp/id1252140352",
