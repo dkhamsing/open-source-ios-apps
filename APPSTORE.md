@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **268** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **269** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -845,6 +845,14 @@ Click ► to show more details
 
   https://github.com/peritus/doughwallet<br>  Added July  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='doughwallet image 1' src='http://a3.mzstatic.com/us/r30/Purple1/v4/f7/97/46/f7974641-835a-3c11-fa55-0d08f429308c/screen696x696.jpeg'> <img height='300' alt='doughwallet image 2' src='http://a1.mzstatic.com/us/r30/Purple3/v4/ba/3d/89/ba3d89f9-98e5-2844-3de3-b4fd23b3fab0/screen696x696.jpeg'> <img height='300' alt='doughwallet image 3' src='http://a1.mzstatic.com/us/r30/Purple5/v4/8d/20/50/8d2050d0-751a-17fa-1e25-a77abaa68de8/screen696x696.jpeg'> <img height='300' alt='doughwallet image 4' src='http://a5.mzstatic.com/us/r30/Purple1/v4/a5/35/20/a53520fa-de31-3635-f319-c08956a5951c/screen696x696.jpeg'> <img height='300' alt='doughwallet image 5' src='http://a1.mzstatic.com/us/r30/Purple3/v4/ca/4f/9e/ca4f9e88-4e1e-e87e-42a0-26bfa586d8b3/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- EconoApp: Keep track of economic information [` App Store`](https://itunes.apple.com/app/econoapp/id1252140352)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/viniciusvieir/EconoApp<br>  Added June 26, 2017
+  <div><img height='300' alt='EconoApp image 1' src='https://raw.githubusercontent.com/viniciusvieir/EconoApp/1da96afc7317c1096a6c9a45c7a06f9d72f431fb/Screenshot%20EN%201.jpg'> <img height='300' alt='EconoApp image 2' src='https://raw.githubusercontent.com/viniciusvieir/EconoApp/3520001bbbc88e6e2f15d6fc0ca7e6bcb0819364/Screenshot%20EN%202.jpg'> <img height='300' alt='EconoApp image 3' src='https://raw.githubusercontent.com/viniciusvieir/EconoApp/2afa3886d92de25f87a272f18fd5725f875ed108/Screenshot%20EN%203.jpg'> 
 </div>
   </details>
 
@@ -1825,7 +1833,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 Mostly using http://giphy.com/ — [back to top](#readme) 
  
-- notGIF: Play - Tag - Share your GIFs in Photos [` App Store`](https://itunes.apple.com/cn/app/id1069688631)  
+- notGIF: Play - Tag - Share your GIFs in Photos [` App Store`](https://itunes.apple.com/app/id1069688631)  
   <details><summary><code>swift</code> <code>gif</code> <code>tag</code> <code>share</code> </summary>
 
   https://github.com/atuooo/notGIF<br>  Added July  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
