@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-700-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%202,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-701-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%205,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1838,6 +1838,14 @@ Click ► to show more details
 </div>
   </details>
 
+- EconoApp: Keep track of economic information [` App Store`](https://itunes.apple.com/app/econoapp/id1252140352)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/viniciusvieir/EconoApp<br>  Added June 26, 2017
+  <div><img height='300' alt='EconoApp image 1' src='https://raw.githubusercontent.com/viniciusvieir/EconoApp/1da96afc7317c1096a6c9a45c7a06f9d72f431fb/Screenshot%20EN%201.jpg'> <img height='300' alt='EconoApp image 2' src='https://raw.githubusercontent.com/viniciusvieir/EconoApp/3520001bbbc88e6e2f15d6fc0ca7e6bcb0819364/Screenshot%20EN%202.jpg'> <img height='300' alt='EconoApp image 3' src='https://raw.githubusercontent.com/viniciusvieir/EconoApp/2afa3886d92de25f87a272f18fd5725f875ed108/Screenshot%20EN%203.jpg'> 
+</div>
+  </details>
+
 - EMI Calculator: Calculate your Equated Monthly installment (EMI) for home, car & personal loans [` App Store`](https://itunes.apple.com/app/id1105890730)  
   <details><summary><code>swift</code> <code>viper</code> </summary>
 
@@ -3621,7 +3629,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 
-- notGIF: Play - Tag - Share your GIFs in Photos [` App Store`](https://itunes.apple.com/cn/app/id1069688631)  
+- notGIF: Play - Tag - Share your GIFs in Photos [` App Store`](https://itunes.apple.com/app/id1069688631)  
   <details><summary><code>swift</code> <code>gif</code> <code>tag</code> <code>share</code> </summary>
 
   https://github.com/atuooo/notGIF<br>  Added July  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
