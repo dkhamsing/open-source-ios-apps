@@ -232,7 +232,7 @@ Click ► to show more details
 - Firefox Focus: Browse the web privately [` App Store`](https://itunes.apple.com/app/id1055677337)  
   <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
-  https://github.com/mozilla-mobile/focus<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  https://github.com/mozilla-mobile/focus-ios<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   <div><img height='300' alt='Firefox Focus image 1' src='http://a2.mzstatic.com/us/r30/Purple71/v4/32/81/20/328120a1-29c2-4dd8-fec8-8024eb5bb5ee/screen696x696.jpeg'> 
 </div>
   </details>
@@ -745,7 +745,7 @@ Click ► to show more details
 - Firefox Focus: Browse the web privately [` App Store`](https://itunes.apple.com/app/id1055677337)  
   <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
-  https://github.com/mozilla-mobile/focus<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  https://github.com/mozilla-mobile/focus-ios<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   <div><img height='300' alt='Firefox Focus image 1' src='http://a2.mzstatic.com/us/r30/Purple71/v4/32/81/20/328120a1-29c2-4dd8-fec8-8024eb5bb5ee/screen696x696.jpeg'> 
 </div>
   </details>
