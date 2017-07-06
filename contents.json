@@ -1562,10 +1562,8 @@
       "source": "https://github.com/soffes/valio",
       "stars": 278,
       "tags": [
-        "swift"
-      ],
-      "screenshots": [
-        "https://camo.githubusercontent.com/6c7feaa3d942ee77f00814c71fd1f0c087f4fb23/687474703a2f2f736f66662e6d652f567673482f694f5325323053696d756c61746f7225323053637265656e25323053686f742532304a756e253230362c253230323031342c25323031312e35322e3537253230414d2e706e67"
+        "swift",
+        "archive"
       ],
       "date_added": "Mon, 26 Jan 2015 19:02:55 -0800",
       "suggested_by": "@dkhamsing"
