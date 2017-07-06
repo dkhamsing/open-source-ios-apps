@@ -12815,9 +12815,9 @@
       "stars": 7
     },
     {
-      "title": "Token",
+      "title": "Toshi",
       "description": "Private & secure messaging, Ethereum wallet and browser",
-      "source": "https://github.com/tokenbrowser/token-ios-client",
+      "source": "https://github.com/toshiapp/toshi-ios-client",
       "itunes": "https://itunes.apple.com/app/token-wallet/id1200463445",
       "tags": [
         "swift"
@@ -13509,7 +13509,7 @@
       "tags": ["swift", "iglistkit", "snapkit", "alamofire"],
       "license": "other",
       "date_added": "Jul 5 2017",
-      "suggested_by": "@dkhamsing"      
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
