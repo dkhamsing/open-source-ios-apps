@@ -13510,6 +13510,17 @@
       "license": "other",
       "date_added": "Jul 5 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "PassDrop",
+      "source": "https://github.com/chadaustin/passdrop",
+      "description": "Keepass password manager",
+      "screenshots": ["http://a3.mzstatic.com/us/r30/Purple111/v4/d3/29/9c/d3299cfd-8dbc-f3b4-3031-8d7d478e744d/screen696x696.jpeg"],
+      "tags": ["openssl"],
+      "category-ids": ["password"],
+      "license": "gpl-3.0",
+      "date_added": "Jul 6 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
