@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-701-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%205,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-703-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%205,%202017-lightgrey.svg)
 
 Jump to
 
@@ -574,7 +574,7 @@ Click ► to show more details
 - Firefox Focus: Browse the web privately [` App Store`](https://itunes.apple.com/app/id1055677337)  
   <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
-  https://github.com/mozilla-mobile/focus<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  https://github.com/mozilla-mobile/focus-ios<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   <div><img height='300' alt='Firefox Focus image 1' src='http://a2.mzstatic.com/us/r30/Purple71/v4/32/81/20/328120a1-29c2-4dd8-fec8-8024eb5bb5ee/screen696x696.jpeg'> 
 </div>
   </details>
@@ -1337,6 +1337,14 @@ Click ► to show more details
 </div>
   </details>
 
+- Freetime: GitHub project manager  
+  <details><summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> </summary>
+
+  https://github.com/rnystrom/Freetime<br>  Added July  5, 2017<br>  License: `other`
+  <div><img height='300' alt='Freetime image 1' src='http://i.imgur.com/XwW4MI2.png'> <img height='300' alt='Freetime image 2' src='http://i.imgur.com/sFgTFJX.png'> 
+</div>
+  </details>
+
 - GitBucket: GitHub app [` App Store`](https://itunes.apple.com/app/id961330940)  
   <details><summary><code>reactivecocoa</code> <code>mvvm</code> <code>mantle</code> 🔥🔥🔥🔥🔥</summary>
 
@@ -1705,7 +1713,7 @@ Click ► to show more details
 - Firefox Focus: Browse the web privately [` App Store`](https://itunes.apple.com/app/id1055677337)  
   <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
-  https://github.com/mozilla-mobile/focus<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
+  https://github.com/mozilla-mobile/focus-ios<br>  Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   <div><img height='300' alt='Firefox Focus image 1' src='http://a2.mzstatic.com/us/r30/Purple71/v4/32/81/20/328120a1-29c2-4dd8-fec8-8024eb5bb5ee/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2149,6 +2157,14 @@ Click ► to show more details
 
   https://github.com/ifrotz/iosfrotz<br>  https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='Frotz image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/c9/c1/a2/c9c1a21b-bf4a-6f4e-058f-5578e10013a3/screen696x696.jpeg'> <img height='300' alt='Frotz image 2' src='http://a3.mzstatic.com/us/r30/Purple71/v4/3a/52/47/3a524725-42b9-54e6-d81e-8f81790d977f/screen696x696.jpeg'> <img height='300' alt='Frotz image 3' src='http://a2.mzstatic.com/us/r30/Purple71/v4/76/75/fe/7675fe03-875c-6ea3-a3fb-2bc5b8c43aec/screen696x696.jpeg'> <img height='300' alt='Frotz image 4' src='http://a5.mzstatic.com/us/r30/Purple62/v4/09/f1/1b/09f11b70-c3ef-a97f-73f3-9be6b32eed3b/screen696x696.jpeg'> <img height='300' alt='Frotz image 5' src='http://a3.mzstatic.com/us/r30/Purple71/v4/9b/b0/40/9bb04057-975f-1519-1490-b7b53fd6c576/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Game of War clone: 4x strategy game  
+  <details><summary><code>helpshift</code> <code>ssziparchive</code> </summary>
+
+  https://github.com/shankqr/4xMobileGame<br>  Added July  5, 2017<br>  License: `other`
+  <div><img height='300' alt='Game of War clone image 1' src='https://user-images.githubusercontent.com/3216424/27571005-10f73774-5b35-11e7-9a84-c0b720280fc1.jpeg'> 
 </div>
   </details>
 
@@ -4434,14 +4450,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/USDepartmentofLabor/Swift-Sample-App<br>  Added April 14, 2015<br>  License: `other`
-  </details>
-
-- Furni: Furniture store demo app  
-  <details><summary><code>swift</code> 🔥🔥🔥🔥</summary>
-
-  https://github.com/twitterdev/furni-ios<br>  Added January 25, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='Furni image 1' src='https://cdn-images-1.medium.com/max/800/1*dBKMvOk9xGxVAw3e2D-MRg.png'> 
-</div>
   </details>
 
 - HomeKit-Demo  
