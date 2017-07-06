@@ -451,11 +451,11 @@ Click ► to show more details
 </div>
   </details>
 
-- Token: Private & secure messaging, Ethereum wallet and browser [` App Store`](https://itunes.apple.com/app/token-wallet/id1200463445)  
+- Toshi: Private & secure messaging, Ethereum wallet and browser [` App Store`](https://itunes.apple.com/app/token-wallet/id1200463445)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/tokenbrowser/token-ios-client<br>  Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='Token image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/45/e5/da/45e5daf2-6dd5-ae2c-da9f-35f60f9cdaca/screen696x696.jpeg'> 
+  https://github.com/toshiapp/toshi-ios-client<br>  Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='Toshi image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/45/e5/da/45e5daf2-6dd5-ae2c-da9f-35f60f9cdaca/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -904,11 +904,11 @@ Click ► to show more details
 </div>
   </details>
 
-- Token: Private & secure messaging, Ethereum wallet and browser [` App Store`](https://itunes.apple.com/app/token-wallet/id1200463445)  
+- Toshi: Private & secure messaging, Ethereum wallet and browser [` App Store`](https://itunes.apple.com/app/token-wallet/id1200463445)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/tokenbrowser/token-ios-client<br>  Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='Token image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/45/e5/da/45e5daf2-6dd5-ae2c-da9f-35f60f9cdaca/screen696x696.jpeg'> 
+  https://github.com/toshiapp/toshi-ios-client<br>  Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='Toshi image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/45/e5/da/45e5daf2-6dd5-ae2c-da9f-35f60f9cdaca/screen696x696.jpeg'> 
 </div>
   </details>
 
