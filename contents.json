@@ -13520,6 +13520,16 @@
       "license": "gpl-3.0",
       "date_added": "Jul 6 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SimpleWeather",
+      "source": "https://github.com/rnystrom/SimpleWeather",
+      "category-ids": ["weather"],
+      "tags": ["swift", "iglistkit", "openweathermap"],
+      "screenshots": ["https://koenig-media.raywenderlich.com/uploads/2013/11/weather3.gif"],
+      "license": "other",
+      "date_added": "Jul 7 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
