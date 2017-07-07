@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **269** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **270** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -2354,6 +2354,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/MiniKeePass/MiniKeePass<br>  Added February  7, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='MiniKeePass image 1' src='http://a4.mzstatic.com/us/r30/Purple7/v4/d8/41/81/d84181ef-d7fe-2283-5b54-7cfb63f8fb01/screen696x696.jpeg'> <img height='300' alt='MiniKeePass image 2' src='http://a2.mzstatic.com/us/r30/Purple5/v4/16/d4/46/16d446eb-11ab-4f22-48bc-da22b75df89a/screen696x696.jpeg'> <img height='300' alt='MiniKeePass image 3' src='http://a4.mzstatic.com/us/r30/Purple1/v4/5f/01/13/5f0113bc-577d-ebb9-cd12-58674f9ac989/screen696x696.jpeg'> <img height='300' alt='MiniKeePass image 4' src='http://a1.mzstatic.com/us/r30/Purple5/v4/38/1d/e7/381de7b6-9414-99bf-d02c-de4ffc12d21d/screen696x696.jpeg'> <img height='300' alt='MiniKeePass image 5' src='http://a3.mzstatic.com/us/r30/Purple1/v4/1f/dd/eb/1fddeb0e-e562-10f2-8a79-e7ea385117cf/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- PassDrop: Keepass password manager [` App Store`](https://itunes.apple.com/app/passdrop-2/id1206056096)  
+  <details><summary><code>openssl</code> </summary>
+
+  https://github.com/chadaustin/passdrop<br>  Added July  6, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='PassDrop image 1' src='http://a3.mzstatic.com/us/r30/Purple111/v4/d3/29/9c/d3299cfd-8dbc-f3b4-3031-8d7d478e744d/screen696x696.jpeg'> 
 </div>
   </details>
 
