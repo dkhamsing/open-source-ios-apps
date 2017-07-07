@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-704-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%206,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-704-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%207,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1641,14 +1641,6 @@ Click ► to show more details
 
   https://github.com/tryswift/trySwiftAppFinal<br>  Added February 22, 2017<br>  License: `other`
   <div><img height='300' alt='try! Swift Tokyo image 1' src='https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png'> <img height='300' alt='try! Swift Tokyo image 2' src='https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png'> 
-</div>
-  </details>
-
-- Valio Con 2014 Schedule  
-  <details><summary><code>swift</code> 🔥🔥</summary>
-
-  https://github.com/soffes/valio<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Valio Con 2014 Schedule image 1' src='https://camo.githubusercontent.com/6c7feaa3d942ee77f00814c71fd1f0c087f4fb23/687474703a2f2f736f66662e6d652f567673482f694f5325323053696d756c61746f7225323053637265656e25323053686f742532304a756e253230362c253230323031342c25323031312e35322e3537253230414d2e706e67'> 
 </div>
   </details>
 
@@ -4735,7 +4727,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 </div>
   </details>
 
-- PassDrop: Keepass password manager  
+- PassDrop: Keepass password manager [` App Store`](https://itunes.apple.com/app/passdrop-2/id1206056096)  
   <details><summary><code>openssl</code> </summary>
 
   https://github.com/chadaustin/passdrop<br>  Added July  6, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
