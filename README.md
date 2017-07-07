@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-704-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%207,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-705-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%207,%202017-lightgrey.svg)
 
 Jump to
 
@@ -5186,6 +5186,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/Aaron-A/Project-RainMan<br>  Added April 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='RainMan image 1' src='http://s10.postimg.org/yxy033a6h/Project_Ran_Main_Background.png'> 
+</div>
+  </details>
+
+- SimpleWeather  
+  <details><summary><code>swift</code> <code>iglistkit</code> <code>openweathermap</code> </summary>
+
+  https://github.com/rnystrom/SimpleWeather<br>  Added July  7, 2017<br>  License: `other`
+  <div><img height='300' alt='SimpleWeather image 1' src='https://koenig-media.raywenderlich.com/uploads/2013/11/weather3.gif'> 
 </div>
   </details>
 
