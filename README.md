@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-705-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%207,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-706-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%208,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1357,6 +1357,14 @@ Click ► to show more details
   <details><summary><code>swift</code> </summary>
 
   https://github.com/acmacalister/Github-Swift<br>  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- Gitify: Brings your GitHub notifications in your pocket [` App Store`](https://itunes.apple.com/app/gitify/id1123311036)  
+  <details><summary><code>react-native</code> </summary>
+
+  https://github.com/manosim/gitify-mobile<br>  Added July  8, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Gitify image 1' src='http://a1.mzstatic.com/us/r30/Purple18/v4/88/b6/8a/88b68a7f-d3d8-e51b-9918-cb886b7a4a24/screen696x696.jpeg'> 
+</div>
   </details>
 
 - GroceryList: Grocery list, synchronized with GitHub  
@@ -5832,6 +5840,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
   https://github.com/peralmq/ForeignExchangeApp<br>  Added July 24, 2015<br>  License: `other`
   <div><img height='300' alt='Foreign Exchange image 1' src='https://cloud.githubusercontent.com/assets/238536/7063949/469613cc-deab-11e4-9d67-c727bcc0171b.png'> 
+</div>
+  </details>
+
+- Gitify: Brings your GitHub notifications in your pocket [` App Store`](https://itunes.apple.com/app/gitify/id1123311036)  
+  <details><summary><code>react-native</code> </summary>
+
+  https://github.com/manosim/gitify-mobile<br>  Added July  8, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Gitify image 1' src='http://a1.mzstatic.com/us/r30/Purple18/v4/88/b6/8a/88b68a7f-d3d8-e51b-9918-cb886b7a4a24/screen696x696.jpeg'> 
 </div>
   </details>
 
