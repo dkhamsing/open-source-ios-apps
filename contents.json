@@ -13542,6 +13542,16 @@
       "license": "mit",
       "date_added": "Jul 8 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "CastVideos",
+      "source": "https://github.com/googlecast/CastVideos-ios",
+      "category-ids": ["sample"],
+      "description": "Sender app to be used as the starting for Google Cast",
+      "tags": ["swift"],
+      "license": "apache-2.0",
+      "date_added": "Jul 10 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
