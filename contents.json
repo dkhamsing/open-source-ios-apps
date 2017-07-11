@@ -13552,6 +13552,14 @@
       "license": "apache-2.0",
       "date_added": "Jul 10 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "CamShift",
+      "source": "https://github.com/shihongzhi/CamShift-on-iOS",
+      "tags": ["archive"],
+      "license": "other",
+      "date_added": "Jul 11 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
