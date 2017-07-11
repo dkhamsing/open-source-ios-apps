@@ -9943,7 +9943,6 @@
       "description": "Official app of recipients for https://developer.apple.com/wwdc/scholarships/",
       "license": "mit",
       "source": "https://github.com/WWDCScholars/iOS-app",
-      "homepage": "https://wwdcscholars.com/",
       "itunes": "https://itunes.apple.com/app/scholars-of-wwdc/id999731893",
       "tags": [
         "swift"
