@@ -13557,6 +13557,7 @@
       "title": "CamShift",
       "source": "https://github.com/shihongzhi/CamShift-on-iOS",
       "tags": ["archive"],
+      "category-ids": ["photo"],
       "license": "other",
       "date_added": "Jul 11 2017",
       "suggested_by": "@dkhamsing"
