@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-708-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2011,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-709-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2014,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1365,6 +1365,12 @@ Click ► to show more details
   https://github.com/manosim/gitify-mobile<br>  Added July  8, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Gitify image 1' src='http://a1.mzstatic.com/us/r30/Purple18/v4/88/b6/8a/88b68a7f-d3d8-e51b-9918-cb886b7a4a24/screen696x696.jpeg'> 
 </div>
+  </details>
+
+- GitPoint: GitHub app with a minimal & beautiful UI  
+  <details><summary><code>react-native</code> </summary>
+
+  https://github.com/gitpoint/git-point<br>  Added July 14, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - GroceryList: Grocery list, synchronized with GitHub  
@@ -4121,7 +4127,7 @@ https://newsapi.org/ — [back to top](#readme)
 - Scholars of WWDC: Official app of recipients for https://developer.apple.com/wwdc/scholarships/ [` App Store`](https://itunes.apple.com/app/scholars-of-wwdc/id999731893)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/WWDCScholars/iOS-app<br>  https://wwdcscholars.com/<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/WWDCScholars/iOS-app<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Scholars of WWDC image 1' src='http://a1.mzstatic.com/us/r30/Purple60/v4/ab/92/bb/ab92bbe9-6540-ff6b-836d-9fd737221466/screen696x696.jpeg'> 
 </div>
   </details>
@@ -5855,6 +5861,12 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   https://github.com/manosim/gitify-mobile<br>  Added July  8, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Gitify image 1' src='http://a1.mzstatic.com/us/r30/Purple18/v4/88/b6/8a/88b68a7f-d3d8-e51b-9918-cb886b7a4a24/screen696x696.jpeg'> 
 </div>
+  </details>
+
+- GitPoint: GitHub app with a minimal & beautiful UI  
+  <details><summary><code>react-native</code> </summary>
+
+  https://github.com/gitpoint/git-point<br>  Added July 14, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - Hacker News app by iSimar [` App Store`](https://itunes.apple.com/app/hacker-news-reader-react-native/id1067161633)  
