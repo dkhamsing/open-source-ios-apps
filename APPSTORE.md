@@ -2095,7 +2095,7 @@ https://newsapi.org/ — [back to top](#readme)
 - Scholars of WWDC: Official app of recipients for https://developer.apple.com/wwdc/scholarships/ [` App Store`](https://itunes.apple.com/app/scholars-of-wwdc/id999731893)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/WWDCScholars/iOS-app<br>  https://wwdcscholars.com/<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/WWDCScholars/iOS-app<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Scholars of WWDC image 1' src='http://a1.mzstatic.com/us/r30/Purple60/v4/ab/92/bb/ab92bbe9-6540-ff6b-836d-9fd737221466/screen696x696.jpeg'> 
 </div>
   </details>
