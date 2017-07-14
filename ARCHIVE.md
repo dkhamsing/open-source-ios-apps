@@ -15,6 +15,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Bancha https://github.com/squallstar/bancha-ios-app
 - Be my eyes https://github.com/opensourceios/bemyeyes-ios
 - boilerplate https://github.com/tailec/boilerplate
+- CamShift https://github.com/shihongzhi/CamShift-on-iOS
 - Canvas https://github.com/usecanvas/ios-v1
 - Cheddar https://github.com/nothingmagical/cheddar-ios
 - Chess https://github.com/mjcuva/Chess
