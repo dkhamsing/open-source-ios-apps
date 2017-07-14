@@ -13560,6 +13560,16 @@
       "license": "other",
       "date_added": "Jul 11 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "GitPoint",
+      "source": "https://github.com/gitpoint/git-point",
+      "category-ids": ["github", "react-native"],
+      "description": "GitHub app with a minimal & beautiful UI",
+      "tags": ["react-native"],
+      "license": "mit",
+      "date_added": "Jul 14 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
