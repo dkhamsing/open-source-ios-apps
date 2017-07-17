@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-709-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2014,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-710-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2017,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1367,10 +1367,12 @@ Click ► to show more details
 </div>
   </details>
 
-- GitPoint: GitHub app with a minimal & beautiful UI  
+- GitPoint: GitHub app with a minimal & beautiful UI [` App Store`](https://itunes.apple.com/app/gitpoint/id1251245162)  
   <details><summary><code>react-native</code> </summary>
 
   https://github.com/gitpoint/git-point<br>  Added July 14, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='GitPoint image 1' src='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'> <img height='300' alt='GitPoint image 2' src='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'> 
+</div>
   </details>
 
 - GroceryList: Grocery list, synchronized with GitHub  
@@ -5863,10 +5865,12 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
-- GitPoint: GitHub app with a minimal & beautiful UI  
+- GitPoint: GitHub app with a minimal & beautiful UI [` App Store`](https://itunes.apple.com/app/gitpoint/id1251245162)  
   <details><summary><code>react-native</code> </summary>
 
   https://github.com/gitpoint/git-point<br>  Added July 14, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='GitPoint image 1' src='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'> <img height='300' alt='GitPoint image 2' src='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'> 
+</div>
   </details>
 
 - Hacker News app by iSimar [` App Store`](https://itunes.apple.com/app/hacker-news-reader-react-native/id1067161633)  
