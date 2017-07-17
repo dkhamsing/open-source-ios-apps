@@ -48,6 +48,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Parse 2013 Developer Day https://github.com/ParsePlatform/ParseDeveloperDay
 - ParseStore https://github.com/opensourceios/ParseStore
 - Paws http://www.appcoda.com/instagram-app-parse-swift/
+- PencilAnnotator https://github.com/kevinzhangftw/PencilAnnotator
 - PhoneBattery https://github.com/opensourceios/PhoneBattery
 - Pi https://github.com/opensourceios/Pi
 - PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
