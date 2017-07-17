@@ -13575,6 +13575,16 @@
       "license": "mit",
       "date_added": "Jul 14 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "PencilAnnotator",
+      "description": "Annotate on an iPad Pro",
+      "source": "https://github.com/kevinzhangftw/PencilAnnotator",
+      "category-ids": ["media"],
+      "tags": ["swift", "archive", "apple pencil"],
+      "license": "other",
+      "date_added": "Jul 17 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
