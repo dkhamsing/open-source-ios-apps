@@ -13585,6 +13585,20 @@
       "license": "other",
       "date_added": "Jul 17 2017",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Messenger",
+      "description": "Audio/video calls, realtime chat & full offline support",
+      "source": "https://github.com/relatedcode/Messenger",
+      "category-ids": ["communication", "firebase"],
+      "tags": ["firebase", "onesignal", "realm"],
+      "screenshots": [
+        "http://relatedcode.com/screen/chat01.png",
+        "http://relatedcode.com/screen/call1.png"
+      ],
+      "license": "other",
+      "date_added": "Jul 19 2017",
+      "suggested_by": "@relatedcode"
     }
   ]
 }
