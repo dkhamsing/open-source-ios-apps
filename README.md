@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-710-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2017,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-711-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2019,%202017-lightgrey.svg)
 
 Jump to
 
@@ -948,6 +948,14 @@ Click ► to show more details
 
   https://github.com/Mynigma/M<br>  Added January 26, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='M image 1' src='http://a1.mzstatic.com/us/r30/Purple41/v4/39/79/63/39796337-2166-4778-9a89-1a1059b0c05a/screen800x500.jpeg'> 
+</div>
+  </details>
+
+- Messenger: Audio/video calls, realtime chat & full offline support  
+  <details><summary><code>firebase</code> <code>onesignal</code> <code>realm</code> </summary>
+
+  https://github.com/relatedcode/Messenger<br>  Added July 19, 2017<br>  License: `other`
+  <div><img height='300' alt='Messenger image 1' src='http://relatedcode.com/screen/chat01.png'> <img height='300' alt='Messenger image 2' src='http://relatedcode.com/screen/call1.png'> 
 </div>
   </details>
 
@@ -5605,6 +5613,14 @@ https://firebase.google.com/ — [back to top](#readme)
 
   https://github.com/dkhamsing/how-much<br>  Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='how-much image 1' src='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'> 
+</div>
+  </details>
+
+- Messenger: Audio/video calls, realtime chat & full offline support  
+  <details><summary><code>firebase</code> <code>onesignal</code> <code>realm</code> </summary>
+
+  https://github.com/relatedcode/Messenger<br>  Added July 19, 2017<br>  License: `other`
+  <div><img height='300' alt='Messenger image 1' src='http://relatedcode.com/screen/chat01.png'> <img height='300' alt='Messenger image 2' src='http://relatedcode.com/screen/call1.png'> 
 </div>
   </details>
 
