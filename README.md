@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-711-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2019,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-712-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2021,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1830,6 +1830,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- Argent: Payments app  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/argent-os/argent-ios<br>  Added July 21, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Argent image 1' src='https://raw.githubusercontent.com/argent-os/argent-ios/master/demo.png'> 
+</div>
+  </details>
+
 - BoardBank: Money manager for board games [` App Store`](https://itunes.apple.com/app/boardbank-money-manager-for/id1191367526)  
   <details><summary><code>swift</code> 🔥</summary>
 
