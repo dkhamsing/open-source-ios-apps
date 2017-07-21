@@ -2021,6 +2021,9 @@
       "category-ids": [
         "finance"
       ],
+      "tags": [
+        "swift"
+      ],
       "description": "Payments app",
       "source": "https://github.com/argent-os/argent-ios",
       "stars": 0,
