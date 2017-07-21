@@ -2017,6 +2017,22 @@
       ]
     },
     {
+      "title": "Argent",
+      "category-ids": [
+        "finance"
+      ],
+      "description": "Payments app",
+      "source": "https://github.com/argent-os/argent-ios",
+      "itunes": "https://itunes.apple.com/us/app/argent/id1110084542?mt=8",
+      "stars": 0,
+      "license": "mit",
+      "date_added": "Wed Jul 21 09:30:00 2017 +0900",
+      "suggested_by": "Sinan Ulkuatam",
+      "screenshots": [
+        "https://raw.githubusercontent.com/argent-os/argent-ios/master/demo.png"
+      ]
+    },
+    {
       "title": "ToThePenny",
       "category-ids": [
         "finance"
