@@ -1,4 +1,4 @@
-{
+a{
   "title": "Open-Source iOS Apps",
   "subtitle": "A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:",
   "description": "<!-- \n⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ \n https://github.com/dkhamsing/open-source-ios-apps -->",
@@ -2023,7 +2023,6 @@
       ],
       "description": "Payments app",
       "source": "https://github.com/argent-os/argent-ios",
-      "itunes": "https://itunes.apple.com/us/app/argent/id1110084542?mt=8",
       "stars": 0,
       "license": "mit",
       "date_added": "Wed Jul 21 09:30:00 2017 +0900",
