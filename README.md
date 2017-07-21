@@ -1831,7 +1831,7 @@ Click ► to show more details
 [back to top](#readme) 
  
 - Argent: Payments app  
-  <details><summary><code>objc</code> </summary>
+  <details><summary><code>swift</code> </summary>
 
   https://github.com/argent-os/argent-ios<br>  Added July 21, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Argent image 1' src='https://raw.githubusercontent.com/argent-os/argent-ios/master/demo.png'> 
