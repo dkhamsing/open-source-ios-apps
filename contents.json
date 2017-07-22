@@ -13617,6 +13617,23 @@
       "license": "other",
       "date_added": "Jul 19 2017",
       "suggested_by": "@relatedcode"
+    },
+    {
+      "title": "Reading List",
+      "category-ids": ["content"],
+      "tags": ["iPhone", "iPad", "swift", "swift3", "rxswift"],
+      "description": "Track personal reading lists",
+      "source": "https://github.com/AndrewBennet/readinglist",
+      "itunes": "https://itunes.apple.com/gb/app/reading-list-a-book-tracking-log/id1217139955?mt=8",
+      "screenshots": [
+        "https://raw.githubusercontent.com/AndrewBennet/readinglist/master/media/screenshots/en-US/iPhoneSE-0_ToReadList_framed.png",
+        "https://raw.githubusercontent.com/AndrewBennet/readinglist/master/media/screenshots/en-US/iPhoneSE-1_ScanBarcode_framed.png",
+        "https://raw.githubusercontent.com/AndrewBennet/readinglist/master/media/screenshots/en-US/iPhoneSE-2_BookDetails_framed.png",
+        "https://raw.githubusercontent.com/AndrewBennet/readinglist/master/media/screenshots/en-US/iPhoneSE-3_SearchFinished_framed.png"
+      ],
+      "license": "mit",
+      "date_added": "Jul 21 2017",
+      "suggested_by": "@AndrewBennet"
     }
   ]
 }
