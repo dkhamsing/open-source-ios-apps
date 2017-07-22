@@ -13621,10 +13621,10 @@
     {
       "title": "Reading List",
       "category-ids": ["content"],
-      "tags": ["iPhone", "iPad", "swift", "swift3", "rxswift"],
+      "tags": ["iphone", "ipad", "swift", "swift3", "rxswift"],
       "description": "Track personal reading lists",
       "source": "https://github.com/AndrewBennet/readinglist",
-      "itunes": "https://itunes.apple.com/gb/app/reading-list-a-book-tracking-log/id1217139955?mt=8",
+      "itunes": "https://itunes.apple.com/app/reading-list-a-book-tracking-log/id1217139955",
       "screenshots": [
         "https://raw.githubusercontent.com/AndrewBennet/readinglist/master/media/screenshots/en-US/iPhoneSE-0_ToReadList_framed.png",
         "https://raw.githubusercontent.com/AndrewBennet/readinglist/master/media/screenshots/en-US/iPhoneSE-1_ScanBarcode_framed.png",
