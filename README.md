@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-713-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2022,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-714-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2024,%202017-lightgrey.svg)
 
 Jump to
 
@@ -5349,6 +5349,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/FreeRDP/FreeRDP<br>  http://www.freerdp.com/<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='FreeRDP image 1' src='http://a1.mzstatic.com/us/r30/Purple2/v4/e3/12/7a/e3127ad7-99e8-c4f7-225a-dc99edf760d9/screen696x696.jpeg'> <img height='300' alt='FreeRDP image 2' src='http://a1.mzstatic.com/us/r30/Purple/v4/d9/c9/4b/d9c94b66-389b-0b57-cd54-794a2aa18d7f/screen696x696.jpeg'> <img height='300' alt='FreeRDP image 3' src='http://a3.mzstatic.com/us/r30/Purple2/v4/aa/59/90/aa59909a-ddfb-2c80-1814-dba25350d4d4/screen696x696.jpeg'> <img height='300' alt='FreeRDP image 4' src='http://a2.mzstatic.com/us/r30/Purple/v4/ff/c2/c3/ffc2c3cc-23da-490e-13a3-f827a61dac70/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- FuseCloud: Music player that connects with SoundCloud [` App Store`](https://itunes.apple.com/app/fusecloud/id1173516856)  
+  <details><summary><code>fuse</code> <code>javascript</code> </summary>
+
+  https://github.com/fusetools/FuseCloud<br>  Added July 24, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='FuseCloud image 1' src='http://a1.mzstatic.com/us/r30/Purple71/v4/98/3a/e2/983ae222-5541-f601-0c9f-4b83bc2d12d1/screen696x696.jpeg'> <img height='300' alt='FuseCloud image 2' src='http://a2.mzstatic.com/us/r30/Purple71/v4/25/a9/d6/25a9d622-1764-f0d4-eb74-bb0662a3c375/screen696x696.jpeg'> 
 </div>
   </details>
 
