@@ -13634,6 +13634,21 @@
       "license": "mit",
       "date_added": "Jul 21 2017",
       "suggested_by": "@AndrewBennet"
+    },
+    {
+      "title": "FuseCloud",
+      "description": "Music player that connects with SoundCloud",
+      "tags": ["fuse", "javascript"],
+      "category-ids": ["misc"],
+      "source": "https://github.com/fusetools/FuseCloud",
+      "itunes": "https://itunes.apple.com/app/fusecloud/id1173516856",
+      "screenshots": [
+        "http://a1.mzstatic.com/us/r30/Purple71/v4/98/3a/e2/983ae222-5541-f601-0c9f-4b83bc2d12d1/screen696x696.jpeg",
+        "http://a2.mzstatic.com/us/r30/Purple71/v4/25/a9/d6/25a9d622-1764-f0d4-eb74-bb0662a3c375/screen696x696.jpeg"
+      ],
+      "license": "mit",
+      "date_added": "Jul 24 2017",
+      "suggested_by": "@dkhamsing"      
     }
   ]
 }
