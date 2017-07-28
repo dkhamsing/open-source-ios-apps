@@ -13648,7 +13648,18 @@
       ],
       "license": "mit",
       "date_added": "Jul 24 2017",
-      "suggested_by": "@dkhamsing"      
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "iStockcheck",
+      "source": "https://github.com/AndrewBennet/iStockcheck",
+      "screenshots": ["https://github.com/AndrewBennet/stockcheck/raw/master/media/iphone_lockscreen.PNG"],
+      "tags": ["swift", "archive"],
+      "description": "Get push notification when iPhone 7 is in in stock",
+      "category-ids": ["misc"],
+      "license": "mit",
+      "date_added": "Jul 28 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
