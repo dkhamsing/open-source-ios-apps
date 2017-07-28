@@ -33,6 +33,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Hack Cancer Hackathon https://github.com/HackCancer/iOS
 - iLabyrinth https://github.com/RolandasRazma/iLabyrinth
 - iOctocat https://github.com/dennisreimann/ioctocat
+- iStockcheck https://github.com/AndrewBennet/iStockcheck
 - Jupp https://github.com/dasdom/Jupp
 - LastFM https://github.com/lastfm/lastfm-iphone
 - Letters https://github.com/jessegrosjean/letters.iphone
