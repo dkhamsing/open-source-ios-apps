@@ -22,7 +22,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - CoinTracker https://github.com/gregheo/CoinTracker
 - Communiqué https://github.com/zadr/Communique
 - DrugsNRock https://github.com/biou/DrugsNRock
-- Eleven https://github.com/coderyi/Eleven
+- Eleven https://github.com/opensourceios/Eleven
 - Everest https://github.com/EverestOpenSource/Everest-iOS
 - FinalFighter https://github.com/sebcode/FinalFighter-iphone
 - Forecast https://github.com/richardxyx/Forecast
