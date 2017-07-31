@@ -259,7 +259,7 @@ Click ► to show more details
 [back to top](#readme) 
  
 - Currency Converter: Live foreign exchange rates & currency calculator [` App Store`](https://itunes.apple.com/app/currency-converter-free-quick/id1163490933)  
-  <details><summary><code>swift</code> <code>viper</code> </summary>
+  <details><summary><code>swift</code> <code>viper</code> 🔥</summary>
 
   https://github.com/tirupati17/currency-converter-swift3.0-viper<br>  Added October 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Currency Converter image 1' src='https://raw.githubusercontent.com/tirupati17/currency-converter-swift3.0-viper/master/CurrencyConverter/Resources/iphone_5s.png'> 
@@ -468,7 +468,7 @@ Click ► to show more details
   </details>
 
 - Wire: Modern, private communications with crystal clear voice, video, group chats. Always encrypted. [` App Store`](https://itunes.apple.com/app/wire/id930944768)  
-  <details><summary><code>swift</code> <code>carthage</code> <code>afnetworking</code> <code>purelayout</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>swift</code> <code>carthage</code> <code>afnetworking</code> <code>purelayout</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/wireapp/wire-ios<br>  Added July 22, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Wire image 1' src='https://cdn-images-1.medium.com/max/800/1*CEtofzY1rIOKuGT7JO3VkA.png'> 
@@ -489,7 +489,7 @@ Click ► to show more details
   </details>
 
 - Blink: Mobile shell terminal based on Mosh [` App Store`](https://itunes.apple.com/app/id1156707581)  
-  <details><summary><code>uickeychainstore</code> <code>passcodelock</code> 🔥🔥🔥</summary>
+  <details><summary><code>uickeychainstore</code> <code>passcodelock</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/blinksh/blink<br>  Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Blink image 1' src='http://a3.mzstatic.com/us/r30/Purple71/v4/a4/c1/40/a4c1408f-f463-823e-7bb3-fd21b8ccc770/screen696x696.jpeg'> <img height='300' alt='Blink image 2' src='http://a5.mzstatic.com/us/r30/Purple71/v4/32/7f/26/327f2687-8f48-cad8-f1d6-bddb50e64353/screen696x696.jpeg'> <img height='300' alt='Blink image 3' src='http://a3.mzstatic.com/us/r30/Purple62/v4/c0/d2/d8/c0d2d869-6136-2969-8310-d72781769b39/screen696x696.jpeg'> <img height='300' alt='Blink image 4' src='http://a5.mzstatic.com/us/r30/Purple62/v4/b3/7d/9b/b37d9b69-7242-44fb-2059-8fb1e42663e8/screen696x696.jpeg'> 
@@ -606,7 +606,7 @@ Click ► to show more details
   </details>
 
 - GitPoint: GitHub app with a minimal & beautiful UI [` App Store`](https://itunes.apple.com/app/gitpoint/id1251245162)  
-  <details><summary><code>react-native</code> </summary>
+  <details><summary><code>react-native</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/gitpoint/git-point<br>  Added July 14, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='GitPoint image 1' src='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'> <img height='300' alt='GitPoint image 2' src='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'> 
@@ -2149,7 +2149,7 @@ https://newsapi.org/ — [back to top](#readme)
   </details>
 
 - Wire: Modern, private communications with crystal clear voice, video, group chats. Always encrypted. [` App Store`](https://itunes.apple.com/app/wire/id930944768)  
-  <details><summary><code>swift</code> <code>carthage</code> <code>afnetworking</code> <code>purelayout</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>swift</code> <code>carthage</code> <code>afnetworking</code> <code>purelayout</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/wireapp/wire-ios<br>  Added July 22, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Wire image 1' src='https://cdn-images-1.medium.com/max/800/1*CEtofzY1rIOKuGT7JO3VkA.png'> 
@@ -2244,7 +2244,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - RxMarbles: Interactive diagrams of Rx Observables [` App Store`](https://itunes.apple.com/us/app/rxmarbles/id1087272442)  
-  <details><summary><code>swift</code> 🔥</summary>
+  <details><summary><code>swift</code> 🔥🔥</summary>
 
   https://github.com/RxSwiftCommunity/RxMarbles<br>  Added June 29, 2016<br>  License: `other`
   <div><img height='300' alt='RxMarbles image 1' src='http://a3.mzstatic.com/us/r30/Purple49/v4/87/c5/e3/87c5e346-4f01-ce50-b03f-a50d7fa02740/screen696x696.jpeg'> <img height='300' alt='RxMarbles image 2' src='http://a4.mzstatic.com/us/r30/Purple69/v4/1b/db/f3/1bdbf390-575d-e759-2ea3-7e734f1d088a/screen696x696.jpeg'> <img height='300' alt='RxMarbles image 3' src='http://a2.mzstatic.com/us/r30/Purple69/v4/71/00/9b/71009b0c-6e10-1d12-e182-a2a88b1e077d/screen696x696.jpeg'> 
@@ -2299,7 +2299,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 [back to top](#readme) 
  
 - Keybase [` App Store`](https://itunes.apple.com/app/keybase-crypto-for-everyone/id1044461770)  
-  <details><summary><code>react native</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/keybase/client<br>  Added February  9, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
@@ -2342,7 +2342,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 [back to top](#readme) 
  
 - Authenticator: A simple two-factor authentication app with a clean UI [` App Store`](https://itunes.apple.com/app/id766157276)  
-  <details><summary><code>objc</code> 🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/mattrubin/authenticator<br>  https://mattrubin.me/authenticator/<br>  Added March 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Authenticator image 1' src='http://a3.mzstatic.com/us/r30/Purple4/v4/d0/6f/3d/d06f3d75-b4f9-d2c0-1f24-01ec8f84d3d2/screen696x696.jpeg'> <img height='300' alt='Authenticator image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/ba/b8/ee/bab8eeb5-de24-7319-9401-c90cf2e95212/screen696x696.jpeg'> <img height='300' alt='Authenticator image 3' src='http://a3.mzstatic.com/us/r30/Purple5/v4/aa/8f/5e/aa8f5eff-74da-db7c-a647-cfb18a54cfaf/screen696x696.jpeg'> 
@@ -2878,7 +2878,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   </details>
 
 - GitPoint: GitHub app with a minimal & beautiful UI [` App Store`](https://itunes.apple.com/app/gitpoint/id1251245162)  
-  <details><summary><code>react-native</code> </summary>
+  <details><summary><code>react-native</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/gitpoint/git-point<br>  Added July 14, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='GitPoint image 1' src='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'> <img height='300' alt='GitPoint image 2' src='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'> 
@@ -2894,7 +2894,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   </details>
 
 - Keybase [` App Store`](https://itunes.apple.com/app/keybase-crypto-for-everyone/id1044461770)  
-  <details><summary><code>react native</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/keybase/client<br>  Added February  9, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
@@ -2942,7 +2942,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
   </details>
 
 - Currency Converter: Live foreign exchange rates & currency calculator [` App Store`](https://itunes.apple.com/app/currency-converter-free-quick/id1163490933)  
-  <details><summary><code>swift</code> <code>viper</code> </summary>
+  <details><summary><code>swift</code> <code>viper</code> 🔥</summary>
 
   https://github.com/tirupati17/currency-converter-swift3.0-viper<br>  Added October 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Currency Converter image 1' src='https://raw.githubusercontent.com/tirupati17/currency-converter-swift3.0-viper/master/CurrencyConverter/Resources/iphone_5s.png'> 
@@ -2958,7 +2958,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
   </details>
 
 - Rambler&IT: Portfolio of mobile architectures used at Rambler&Co [` App Store`](https://itunes.apple.com/app/rambler-it/id1145829115)  
-  <details><summary><code>magicalrecord</code> <code>typhoon</code> <code>afnetworking</code> <code>purelayout</code> <code>sdwebimage</code> 🇷🇺 🔥</summary>
+  <details><summary><code>magicalrecord</code> <code>typhoon</code> <code>afnetworking</code> <code>purelayout</code> <code>sdwebimage</code> 🇷🇺 🔥🔥</summary>
 
   https://github.com/rambler-digital-solutions/rambler-it-ios<br>  Added March  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Rambler&IT image 1' src='http://a1.mzstatic.com/us/r30/Purple71/v4/e9/c4/29/e9c429aa-8e88-7b40-f37f-036d1795fbda/screen696x696.jpeg'> <img height='300' alt='Rambler&IT image 2' src='http://a4.mzstatic.com/us/r30/Purple71/v4/03/47/78/034778fc-3dd4-ded5-3423-85a372409f67/screen696x696.jpeg'> <img height='300' alt='Rambler&IT image 3' src='http://a3.mzstatic.com/us/r30/Purple71/v4/64/66/d3/6466d349-2ccf-399c-1956-c98a619d0736/screen696x696.jpeg'> <img height='300' alt='Rambler&IT image 4' src='http://a2.mzstatic.com/us/r30/Purple71/v4/25/48/98/254898a9-7c27-a115-d792-fcfcd63ff6df/screen696x696.jpeg'> <img height='300' alt='Rambler&IT image 5' src='http://a5.mzstatic.com/us/r30/Purple71/v4/c8/8e/00/c88e00ee-da4d-6df7-900a-f08549ddb59c/screen696x696.jpeg'> 
