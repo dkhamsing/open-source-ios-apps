@@ -3482,8 +3482,7 @@
         "archive"
       ],
       "description": "Simple powerful video player",
-      "source": "https://github.com/coderyi/Eleven",
-      "itunes": "https://itunes.apple.com/app/elevenplayer/id1033773648",
+      "source": "https://github.com/opensourceios/Eleven",
       "stars": 854,
       "license": "mit",
       "date_added": "Thu Oct 1 06:12:38 2015 -0700",
