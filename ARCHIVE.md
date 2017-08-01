@@ -53,6 +53,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - PhoneBattery https://github.com/opensourceios/PhoneBattery
 - Pi https://github.com/opensourceios/Pi
 - PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
+- Pokedex https://github.com/yoha/Pokedex
 - Potatso https://github.com/opensourceios/Potatso
 - Product Catalogue https://github.com/contentful/product-catalogue-swift
 - ProMonster https://github.com/usemobile/promonster-ios
