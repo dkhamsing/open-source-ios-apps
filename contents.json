@@ -13865,6 +13865,18 @@
       "date_added": "Jul 28 2017",
       "suggested_by": "@dkhamsing",
       "stars": 4
+    },
+    {
+      "title": "Pokedex",
+      "source": "https://github.com/yoha/Pokedex",
+      "tags": ["swift","archive"],
+      "category-ids": [
+        "misc"
+      ],
+      "license": "mit",
+      "date_added": "Jul 28 2017",
+      "suggested_by": "@dkhamsing",
+      "description": "List Pokemon characters"
     }
   ]
 }
