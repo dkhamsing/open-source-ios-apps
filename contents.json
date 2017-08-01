@@ -10376,7 +10376,7 @@
       "stars": 0
     },
     {
-      "title": "screenshotter",
+      "title": "Screenshotter",
       "category-ids": [
         "media"
       ],
@@ -10384,13 +10384,13 @@
         "iphone"
       ],
       "description": "Organize & manage screenshots",
-      "source": "https://github.com/LaunchKit/screenshotter",
+      "source": "https://github.com/rsattar/screenshotter",
       "itunes": "https://itunes.apple.com/app/screenshotter-organize-manage/id826596892",
       "license": "apache-2.0",
       "date_added": "Jul 28 2016",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "https://camo.githubusercontent.com/ab02fd356e17f9d3de7ebdb367a08ef97f279c4c/687474703a2f2f73637265656e73686f747465722e6e65742f6c69622f696d616765732f6970686f6e652e706e67"
+        "http://a1.mzstatic.com/us/r30/Purple111/v4/be/d3/72/bed372f2-d1fb-511b-8e76-d55a7805fc64/screen696x696.jpeg"
       ],
       "stars": 67
     },
