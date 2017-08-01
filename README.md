@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-715-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2031,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-716-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%20%201,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1348,7 +1348,7 @@ Click ► to show more details
 - Freetime: GitHub project manager  
   <details><summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> 🔥</summary>
 
-  https://github.com/rnystrom/Freetime<br>  Added July  5, 2017<br>  License: `other`
+  https://github.com/rnystrom/Freetime<br>  http://freetime-app.com/<br>  Added July  5, 2017<br>  License: `other`
   <div><img height='300' alt='Freetime image 1' src='http://i.imgur.com/XwW4MI2.png'> <img height='300' alt='Freetime image 2' src='http://i.imgur.com/sFgTFJX.png'> 
 </div>
   </details>
