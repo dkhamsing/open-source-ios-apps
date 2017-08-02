@@ -1586,11 +1586,11 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- screenshotter: Organize & manage screenshots [` App Store`](https://itunes.apple.com/app/screenshotter-organize-manage/id826596892)  
+- Screenshotter: Organize & manage screenshots [` App Store`](https://itunes.apple.com/app/screenshotter-organize-manage/id826596892)  
   <details><summary><code>iphone</code> </summary>
 
-  https://github.com/LaunchKit/screenshotter<br>  Added July 28, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='screenshotter image 1' src='https://camo.githubusercontent.com/ab02fd356e17f9d3de7ebdb367a08ef97f279c4c/687474703a2f2f73637265656e73686f747465722e6e65742f6c69622f696d616765732f6970686f6e652e706e67'> 
+  https://github.com/rsattar/screenshotter<br>  Added July 28, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='Screenshotter image 1' src='http://a1.mzstatic.com/us/r30/Purple111/v4/be/d3/72/bed372f2-d1fb-511b-8e76-d55a7805fc64/screen696x696.jpeg'> 
 </div>
   </details>
 
