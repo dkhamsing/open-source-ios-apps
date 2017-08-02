@@ -14106,6 +14106,18 @@
     	"license": "other",
       	"date_added": "Aug 2 2017",
       	"suggested_by": "@dkhamsing"    	    	
+    },
+    {
+    	"title": "pwSafe",
+    	"description": "Password Safe compatible Password Manager",
+    	"source": "https://github.com/pwsafe/pwsafe",
+    	"itunes": "https://itunes.apple.com/app/pwsafe-2-password-safe-compatible/id938922963",
+    	"category-ids": ["password"],
+    	"screenshots": ["http://a2.mzstatic.com/us/r30/Purple71/v4/0d/30/91/0d30915a-42bf-61a0-9ad3-bac649331e2d/screen696x696.jpeg"],
+    	"tags": ["c++"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"       	
     }                                                                                         
   ]
 }
