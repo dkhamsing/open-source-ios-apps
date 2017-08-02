@@ -13877,6 +13877,233 @@
       "date_added": "Jul 28 2017",
       "suggested_by": "@dkhamsing",
       "description": "List Pokemon characters"
-    }
+    },
+    {
+    	"title": "ZXing",
+    	"description": "Barcode scanner",
+    	"category-ids": ["misc"],
+    	"source": "https://github.com/zxing/zxing",
+    	"tags": ["archive"],
+    	"license": "apache-2.0",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	
+    },
+    {
+    	"title": "Battle for Wesnoth",
+    	"source": "https://github.com/dailin/wesnoth_ios",
+    	"itunes": "https://itunes.apple.com/app/iwesnoth/id575239775",
+    	"category-ids": ["game"],
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	
+    },
+    {
+    	"title": "audiograph",
+    	"source": "https://github.com/tkzic/audiograph",
+    	"category-ids": ["audio"],
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	
+    },
+    {
+    	"title": "AntiMap",
+    	"source": "https://github.com/trentbrooks/AntiMap",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	
+    },
+    {
+    	"title": "ColorCipher",
+    	"source": "https://github.com/obviousjim/ColorCipher",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	
+    },
+    {
+    	"title": "climbers",
+    	"source": "https://github.com/haqu/climbers",
+    	"category-ids": ["game"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	
+    },
+    {
+    	"title": "CamLingual",
+    	"source": "https://github.com/yoshiokatsuneo/camlingual_iphone",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+    {
+    	"title": "Fresh-Food-Finder",
+    	"source": "https://github.com/triceam/Fresh-Food-Finder",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+    {
+    	"title": "Dragon Shout",
+    	"source": "https://github.com/rblalock/dragon_shout_app_open_source",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+    {
+    	"title": "Dollar Bets",
+    	"source": "https://github.com/Rich86man/Dollar-Bets",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+    {
+    	"title": "Dicershaker",
+    	"source": "https://github.com/millenomi/diceshaker",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+    {
+    	"title": "DWA Mobile",
+    	"source": "https://github.com/DesktopWebAnalytics/DWA_Mobile",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+	{
+    	"title": "gbible",
+    	"source": "https://github.com/photokandyStudios/gbible",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+	{
+    	"title": "MapBox Earth",
+    	"source": "https://github.com/mapbox/mapbox-earth",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+	{
+    	"title": "Mugician",
+    	"source": "https://github.com/rfielding/Mugician",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+	{
+    	"title": "NatsuLion",
+    	"source": "https://github.com/takuma104/ntlniph",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+	{
+    	"title": "packlog",
+    	"source": "https://github.com/jdg/packlog",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+	{
+    	"title": "PlainNote",
+    	"source": "https://github.com/vkoser/PlainNote",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+	{
+    	"title": "Shuttle-Tracker",
+    	"source": "https://github.com/AbstractedSheep/Shuttle-Tracker",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+	{
+    	"title": "SparkleShare",
+    	"source": "https://github.com/darvin/SparkleShare-iOS",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+	{
+    	"title": "tweedie",
+    	"source": "https://github.com/aanon4/tweedie",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+	{
+    	"title": "tweejump",
+    	"source": "https://github.com/haqu/tweejump",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+	{
+    	"title": "warpedAR",
+    	"source": "https://github.com/Trevorrwarduk/warpedAR-Open-Source",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+	{
+    	"title": "fosdem",
+    	"source": "https://github.com/leonhandreke/fosdem",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    },
+	{
+    	"title": "Scratch",
+    	"source": "https://github.com/johnmci/Scratch.app.for.iOS",
+    	"category-ids": ["misc"],    	 
+    	"tags": ["archive"],
+    	"license": "other",
+      	"date_added": "Aug 2 2017",
+      	"suggested_by": "@dkhamsing"    	    	
+    }                                                                                         
   ]
 }
