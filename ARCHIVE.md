@@ -7,27 +7,42 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Adler Planetarium Navigation & Tour https://github.com/lucasqiu/Adler-Mobile-App
 - Alien Blue https://github.com/alienblue/AlienBlue
 - Alphabet-Blocks https://github.com/insurgentgames/Alphabet-Blocks
+- AntiMap https://github.com/trentbrooks/AntiMap
 - Anypic https://github.com/opensourceios/Anypic
 - AnyWall https://github.com/opensourceios/AnyWall
 - apnagent-ios https://github.com/logicalparadox/apnagent-ios
 - AppleWatchProductHunt https://github.com/BalestraPatrick/AppleWatchProductHunt
 - AppSales-Mobile https://github.com/omz/AppSales-Mobile
+- audiograph https://github.com/tkzic/audiograph
 - Bancha https://github.com/squallstar/bancha-ios-app
+- Battle for Wesnoth https://github.com/dailin/wesnoth_ios
 - Be my eyes https://github.com/opensourceios/bemyeyes-ios
 - boilerplate https://github.com/tailec/boilerplate
+- Bridges https://github.com/zgrossbart/bridges
+- CamLingual https://github.com/yoshiokatsuneo/camlingual_iphone
 - CamShift https://github.com/shihongzhi/CamShift-on-iOS
 - Canvas https://github.com/usecanvas/ios-v1
 - Cheddar https://github.com/nothingmagical/cheddar-ios
 - Chess https://github.com/mjcuva/Chess
+- climbers https://github.com/haqu/climbers
 - CoinTracker https://github.com/gregheo/CoinTracker
+- ColorCipher https://github.com/obviousjim/ColorCipher
 - Communiqué https://github.com/zadr/Communique
+- Cryptose https://github.com/insurgentgames/Cryptose
+- Dicershaker https://github.com/millenomi/diceshaker
+- Dollar Bets https://github.com/Rich86man/Dollar-Bets
+- Dragon Shout https://github.com/rblalock/dragon_shout_app_open_source
 - DrugsNRock https://github.com/biou/DrugsNRock
+- DWA Mobile https://github.com/DesktopWebAnalytics/DWA_Mobile
 - Eleven https://github.com/opensourceios/Eleven
 - Everest https://github.com/EverestOpenSource/Everest-iOS
 - FinalFighter https://github.com/sebcode/FinalFighter-iphone
 - Forecast https://github.com/richardxyx/Forecast
+- fosdem https://github.com/leonhandreke/fosdem
+- Fresh-Food-Finder https://github.com/triceam/Fresh-Food-Finder
 - fudge https://github.com/FredericJacobs/fudge
 - Furni https://github.com/opensourceios/furni-ios
+- gbible https://github.com/photokandyStudios/gbible
 - github-issues https://github.com/chriseidhof/github-issues
 - Google Feud https://github.com/opensourceios/Google-Feud-iOS
 - Hack Cancer Hackathon https://github.com/HackCancer/iOS
@@ -39,12 +54,16 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Letters https://github.com/jessegrosjean/letters.iphone
 - Light-Jockey https://github.com/jmfieldman/Light-Jockey
 - Lister https://developer.apple.com/library/content/samplecode/Lister/Introduction/Intro.html
+- MapBox Earth https://github.com/mapbox/mapbox-earth
 - Morse https://github.com/ijoshsmith/swift-morse-code
 - Movies https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/Movies
+- Mugician https://github.com/rfielding/Mugician
 - Mume https://github.com/opensourceios/Mume
 - Munch https://github.com/opensourceios/Munch
+- NatsuLion https://github.com/takuma104/ntlniph
 - OpenCB https://github.com/opensourceios/OpenCB
 - OpenClien https://github.com/kewlbear/OpenClien
+- packlog https://github.com/jdg/packlog
 - Pancake https://github.com/Imaginea/pancake-ios
 - Parse 2013 Developer Day https://github.com/ParsePlatform/ParseDeveloperDay
 - ParseStore https://github.com/opensourceios/ParseStore
@@ -52,12 +71,17 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - PencilAnnotator https://github.com/kevinzhangftw/PencilAnnotator
 - PhoneBattery https://github.com/opensourceios/PhoneBattery
 - Pi https://github.com/opensourceios/Pi
+- PlainNote https://github.com/vkoser/PlainNote
 - PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
 - Pokedex https://github.com/yoha/Pokedex
 - Potatso https://github.com/opensourceios/Potatso
 - Product Catalogue https://github.com/contentful/product-catalogue-swift
 - ProMonster https://github.com/usemobile/promonster-ios
 - Repo https://github.com/ricburton/Repo
+- Revolved https://github.com/Ciechan/Revolved
+- Scratch https://github.com/johnmci/Scratch.app.for.iOS
+- Shuttle-Tracker https://github.com/AbstractedSheep/Shuttle-Tracker
+- SparkleShare https://github.com/darvin/SparkleShare-iOS
 - Speak https://github.com/opensourceios/speakability
 - Starship https://github.com/kylef-archive/Starship
 - Steps https://github.com/gizmosachin/Steps
@@ -69,12 +93,16 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Tic-tac-toe https://github.com/ijoshsmith/swift-tic-tac-toe
 - TicTacToe https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/TicTacToe
 - Toggl Timer https://github.com/opensourceios/toggle-mobile
+- tweedie https://github.com/aanon4/tweedie
+- tweejump https://github.com/haqu/tweejump
 - Valio Con 2014 Schedule https://github.com/soffes/valio
 - Vim https://github.com/applidium/Vim
+- warpedAR https://github.com/Trevorrwarduk/warpedAR-Open-Source
 - WatchNotes https://github.com/azamsharp/WatchNotes
 - wikiHow https://github.com/tderouin/wikiHow-iPhone-Application
 - XPilot http://7b5labs.com/xpilot.git/
 - Yorkie https://github.com/opensourceios/YorkieApp
+- ZXing https://github.com/zxing/zxing
 
 ## Contact
 
