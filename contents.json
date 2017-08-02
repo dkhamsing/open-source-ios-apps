@@ -2158,6 +2158,7 @@
       "category-ids": [
         "game"
       ],
+      "tags": ["archive"],
       "description": "A puzzle game with bridges, houses, tolls & subways",
       "source": "https://github.com/zgrossbart/bridges",
       "stars": 159,
@@ -3799,7 +3800,7 @@
         "media"
       ],
       "tags": [
-        "ipad"
+        "ipad", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/Ciechan/Revolved/master/screenshot.jpg"
@@ -8388,6 +8389,7 @@
       "screenshots": [
         "https://i.imgur.com/g3UpGMH.png"
       ],
+      "tags": ["archive"],
       "description": "Solve cryptograms as a Hacker, Detective, or Spy",
       "source": "https://github.com/insurgentgames/Cryptose",
       "license": "gpl-3.0",
