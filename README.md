@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-716-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%20%202,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-742-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%20%202,%202017-lightgrey.svg)
 
 Jump to
 
@@ -2032,14 +2032,6 @@ Click ► to show more details
 </div>
   </details>
 
-- Bridges: A puzzle game with bridges, houses, tolls & subways  
-  <details><summary><code>objc</code> 🔥</summary>
-
-  https://github.com/zgrossbart/bridges<br>  Added May 15, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div>
-</div>
-  </details>
-
 - Canabalt: Infinite runner [` App Store`](https://itunes.apple.com/app/canabalt/id333180061)  
   <details><summary><code>objc</code> 🔥🔥🔥🔥</summary>
 
@@ -2101,14 +2093,6 @@ Click ► to show more details
 
   https://github.com/fabienwarniez/Vie<br>  Added July 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Conway's Game of Life (Vie) image 1' src='http://a2.mzstatic.com/us/r30/Purple20/v4/3f/36/56/3f3656f4-30d9-df8b-6a58-e1260a72dee9/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Cryptose: Solve cryptograms as a Hacker, Detective, or Spy  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/insurgentgames/Cryptose<br>  Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='Cryptose image 1' src='https://i.imgur.com/g3UpGMH.png'> 
 </div>
   </details>
 
@@ -3171,14 +3155,6 @@ Image, video, audio, reading — [back to top](#readme)
 
   https://sourceforge.net/projects/projectm/<br>  http://projectm.sourceforge.net/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='projectM image 1' src='http://a2.mzstatic.com/us/r30/Purple7/v4/44/17/41/44174112-c9f9-1719-8967-c43cb42bbf26/screen696x696.jpeg'> <img height='300' alt='projectM image 2' src='http://a4.mzstatic.com/us/r30/Purple7/v4/80/05/55/8005556a-437c-2d6a-d41d-044fc4e6740a/screen696x696.jpeg'> <img height='300' alt='projectM image 3' src='http://a4.mzstatic.com/us/r30/Purple5/v4/1a/6e/8e/1a6e8ef0-998f-34e4-7c92-f41de9227c73/screen696x696.jpeg'> <img height='300' alt='projectM image 4' src='http://a5.mzstatic.com/us/r30/Purple2/v4/35/c4/e2/35c4e23b-7eae-f138-a333-66e92b4c63dc/screen696x696.jpeg'> <img height='300' alt='projectM image 5' src='http://a1.mzstatic.com/us/r30/Purple1/v4/f3/8a/2b/f38a2bcd-e5d9-22b8-61cd-0b9e4cc159ae/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Revolved: 3D modelling app  
-  <details><summary><code>ipad</code> 🔥🔥🔥</summary>
-
-  https://github.com/Ciechan/Revolved<br>  Added March  5, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-  <div><img height='300' alt='Revolved image 1' src='https://raw.githubusercontent.com/Ciechan/Revolved/master/screenshot.jpg'> 
 </div>
   </details>
 
@@ -4778,6 +4754,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/chadaustin/passdrop<br>  Added July  6, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='PassDrop image 1' src='http://a3.mzstatic.com/us/r30/Purple111/v4/d3/29/9c/d3299cfd-8dbc-f3b4-3031-8d7d478e744d/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- pwSafe: Password Safe compatible Password Manager [` App Store`](https://itunes.apple.com/app/pwsafe-2-password-safe-compatible/id938922963)  
+  <details><summary><code>c++</code> </summary>
+
+  https://github.com/pwsafe/pwsafe<br>  Added August  2, 2017<br>  License: `other`
+  <div><img height='300' alt='pwSafe image 1' src='http://a2.mzstatic.com/us/r30/Purple71/v4/0d/30/91/0d30915a-42bf-61a0-9ad3-bac649331e2d/screen696x696.jpeg'> 
 </div>
   </details>
 
