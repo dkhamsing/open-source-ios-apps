@@ -14118,6 +14118,21 @@
     	"license": "other",
       	"date_added": "Aug 2 2017",
       	"suggested_by": "@dkhamsing"       	
-    }                                                                                         
+    },
+    {
+      "title": "keyacid",
+      "source": "https://github.com/keyacid/keyacid-iOS",
+      "itunes": "https://itunes.apple.com/app/keyacid/id1252296698",
+      "description": "Secure and easy crypto for everyone",
+      "category-ids": ["security"],
+      "screenshots": [
+        "http://a1.mzstatic.com/us/r30/Purple117/v4/49/ba/f3/49baf3cf-a821-ec84-21f4-ac7f466c72b4/screen696x696.jpeg",
+        "http://a5.mzstatic.com/us/r30/Purple117/v4/36/fe/e2/36fee29b-22fc-d047-396a-3d2b043e9d53/screen696x696.jpeg"
+      ],
+      "tags": ["swift", "carthage", "libsodium"],
+      "license": "bsd-3-clause",
+      "date_added": "Aug 3 2017",
+      "suggested_by": "@dkhamsing"        
+    }
   ]
 }
