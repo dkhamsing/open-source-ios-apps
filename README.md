@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-742-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%20%202,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-743-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%20%203,%202017-lightgrey.svg)
 
 Jump to
 
@@ -4634,6 +4634,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   https://github.com/iCepa/iCepa<br>  Added September  7, 2016<br>  License: `other`
   </details>
 
+- keyacid: Secure and easy crypto for everyone [` App Store`](https://itunes.apple.com/app/keyacid/id1252296698)  
+  <details><summary><code>swift</code> <code>carthage</code> <code>libsodium</code> </summary>
+
+  https://github.com/keyacid/keyacid-iOS<br>  Added August  3, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  <div><img height='300' alt='keyacid image 1' src='http://a1.mzstatic.com/us/r30/Purple117/v4/49/ba/f3/49baf3cf-a821-ec84-21f4-ac7f466c72b4/screen696x696.jpeg'> <img height='300' alt='keyacid image 2' src='http://a5.mzstatic.com/us/r30/Purple117/v4/36/fe/e2/36fee29b-22fc-d047-396a-3d2b043e9d53/screen696x696.jpeg'> 
+</div>
+  </details>
+
 - Keybase [` App Store`](https://itunes.apple.com/app/keybase-crypto-for-everyone/id1044461770)  
   <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
@@ -4685,6 +4693,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/tutao/tutanota<br>  https://tutanota.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Tutanota image 1' src='http://a2.mzstatic.com/us/r30/Purple71/v4/7e/80/e2/7e80e291-ee1e-ffb4-9449-c0431136832c/screen696x696.jpeg'> <img height='300' alt='Tutanota image 2' src='http://a1.mzstatic.com/us/r30/Purple62/v4/d3/37/fd/d337fd23-a7e0-a903-3249-6b793974df2d/screen696x696.jpeg'> <img height='300' alt='Tutanota image 3' src='http://a2.mzstatic.com/us/r30/Purple71/v4/7b/09/a2/7b09a205-22f4-addf-6641-c1462c1d0c98/screen696x696.jpeg'> <img height='300' alt='Tutanota image 4' src='http://a5.mzstatic.com/us/r30/Purple22/v4/9e/c9/8f/9ec98f0b-b5a8-1aa4-98ba-b3c748ed8e18/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- VPN On: Extension to turn on VPN [` App Store`](https://itunes.apple.com/app/vpn-on/id951344279)  
+  <details><summary><code>swift</code> 🔥🔥🔥🔥🔥</summary>
+
+  https://github.com/lexrus/VPNOn<br>  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='VPN On image 1' src='https://cdn-images-1.medium.com/max/800/1*9qSbd77zijp5UPODaWM9CQ.png'> 
 </div>
   </details>
 
