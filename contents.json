@@ -6167,7 +6167,7 @@
     {
       "title": "VPN On",
       "category-ids": [
-        "today"
+        "today", "security"
       ],
       "description": "Extension to turn on VPN",
       "license": "mit",
