@@ -411,7 +411,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Riot: Collaboration for teams, chat & share with http://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
+- Riot: Collaboration for teams, chat & share with https://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details><summary><code>webrtc</code> <code>realm</code> 🔥</summary>
 
   https://github.com/vector-im/riot-ios<br>  https://vector.im/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
@@ -2944,7 +2944,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
  
 https://realm.io/ — [back to top](#readme) 
  
-- Riot: Collaboration for teams, chat & share with http://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
+- Riot: Collaboration for teams, chat & share with https://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details><summary><code>webrtc</code> <code>realm</code> 🔥</summary>
 
   https://github.com/vector-im/riot-ios<br>  https://vector.im/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
