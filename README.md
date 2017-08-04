@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-743-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%20%203,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-743-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%20%204,%202017-lightgrey.svg)
 
 Jump to
 
@@ -991,7 +991,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Riot: Collaboration for teams, chat & share with http://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
+- Riot: Collaboration for teams, chat & share with https://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details><summary><code>webrtc</code> <code>realm</code> 🔥</summary>
 
   https://github.com/vector-im/riot-ios<br>  https://vector.im/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
@@ -6272,7 +6272,7 @@ https://realm.io/ — [back to top](#readme)
   https://github.com/pietbrauer/RealmToDo<br>  Added July 31, 2015<br>  License: `other`
   </details>
 
-- Riot: Collaboration for teams, chat & share with http://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
+- Riot: Collaboration for teams, chat & share with https://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details><summary><code>webrtc</code> <code>realm</code> 🔥</summary>
 
   https://github.com/vector-im/riot-ios<br>  https://vector.im/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
