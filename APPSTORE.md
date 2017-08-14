@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **276** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **275** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -883,7 +883,7 @@ Click ► to show more details
 - Encryptr: A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
   <details><summary><code>cordova</code> <code>grunt</code> <code>node</code> 🔥🔥🔥🔥</summary>
 
-  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/personal/encryptr<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/encryptr/<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Encryptr image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/cc/ab/0f/ccab0fca-197f-56c0-c265-4b73c99e4ef8/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2368,7 +2368,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - Encryptr: A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
   <details><summary><code>cordova</code> <code>grunt</code> <code>node</code> 🔥🔥🔥🔥</summary>
 
-  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/personal/encryptr<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://github.com/SpiderOak/Encryptr<br>  https://spideroak.com/encryptr/<br>  Added June  2, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Encryptr image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/cc/ab/0f/ccab0fca-197f-56c0-c265-4b73c99e4ef8/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2402,14 +2402,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/chadaustin/passdrop<br>  Added July  6, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='PassDrop image 1' src='http://a3.mzstatic.com/us/r30/Purple111/v4/d3/29/9c/d3299cfd-8dbc-f3b4-3031-8d7d478e744d/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- pwSafe: Password Safe compatible Password Manager [` App Store`](https://itunes.apple.com/app/pwsafe-2-password-safe-compatible/id938922963)  
-  <details><summary><code>c++</code> </summary>
-
-  https://github.com/pwsafe/pwsafe<br>  Added August  2, 2017<br>  License: `other`
-  <div><img height='300' alt='pwSafe image 1' src='http://a2.mzstatic.com/us/r30/Purple71/v4/0d/30/91/0d30915a-42bf-61a0-9ad3-bac649331e2d/screen696x696.jpeg'> 
 </div>
   </details>
 
