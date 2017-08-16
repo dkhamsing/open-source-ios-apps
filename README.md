@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-742-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2014,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-742-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2016,%202017-lightgrey.svg)
 
 Jump to
 
@@ -130,7 +130,7 @@ Click ► to show more details
   </details>
 
 - iCook TV: Taiwanese cuisine cooking videos  
-  <details><summary><code>objc</code> 🇨🇳 </summary>
+  <details><summary><code>swift</code> 🇨🇳 </summary>
 
   https://github.com/polydice/iCook-tvOS<br>  Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='iCook TV image 1' src='http://polydice.com/iCook-tvOS/images/Screenshot.png'> 
