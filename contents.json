@@ -8196,6 +8196,7 @@
       "category-ids": [
         "apple-tv"
       ],
+      "tags": ["swift"],
       "license": "mit",
       "source": "https://github.com/polydice/iCook-tvOS",
       "stars": 48,
