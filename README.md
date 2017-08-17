@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-742-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2016,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-743-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2017,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1345,19 +1345,19 @@ Click ► to show more details
 </div>
   </details>
 
-- Freetime: GitHub project manager  
-  <details><summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> 🔥</summary>
-
-  https://github.com/rnystrom/Freetime<br>  http://freetime-app.com/<br>  Added July  5, 2017<br>  License: `other`
-  <div><img height='300' alt='Freetime image 1' src='http://i.imgur.com/XwW4MI2.png'> <img height='300' alt='Freetime image 2' src='http://i.imgur.com/sFgTFJX.png'> 
-</div>
-  </details>
-
 - GitBucket: GitHub app [` App Store`](https://itunes.apple.com/app/id961330940)  
   <details><summary><code>reactivecocoa</code> <code>mvvm</code> <code>mantle</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/leichunfeng/MVVMReactiveCocoa<br>  Added October 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='GitBucket image 1' src='http://a4.mzstatic.com/us/r30/Purple20/v4/ba/37/a3/ba37a3d1-622f-866f-f9eb-e2d21173cc93/screen696x696.jpeg'> <img height='300' alt='GitBucket image 2' src='http://a5.mzstatic.com/us/r30/Purple20/v4/8e/06/d7/8e06d79a-ede3-284c-df34-9702c835a382/screen696x696.jpeg'> <img height='300' alt='GitBucket image 3' src='http://a5.mzstatic.com/us/r30/Purple60/v4/24/11/37/2411374d-175b-7290-1f36-8190f4ee7740/screen696x696.jpeg'> <img height='300' alt='GitBucket image 4' src='http://a3.mzstatic.com/us/r30/Purple20/v4/cb/ab/b6/cbabb6b4-854f-9b86-ddaa-d9455dc272cc/screen696x696.jpeg'> <img height='300' alt='GitBucket image 5' src='http://a5.mzstatic.com/us/r30/Purple60/v4/a2/64/07/a2640705-ccef-163c-56e5-87a7874d9483/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- GitHawk: GitHub project manager [` App Store`](https://itunes.apple.com/app/githawk-for-github/id1252320249)  
+  <details><summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> 🔥</summary>
+
+  https://github.com/rnystrom/GitHawk<br>  Added July  5, 2017<br>  License: `other`
+  <div><img height='300' alt='GitHawk image 1' src='http://i.imgur.com/XwW4MI2.png'> <img height='300' alt='GitHawk image 2' src='http://i.imgur.com/sFgTFJX.png'> 
 </div>
   </details>
 
@@ -6403,6 +6403,12 @@ https://www.xamarin.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
+- awesome-arkit  
+  <details><summary><code>list</code> </summary>
+
+  https://github.com/olucurious/awesome-arkit<br>  Added August 17, 2017<br>  License: `other`
+  </details>
+
 - awesome-macOS  
   <details><summary><code>list</code> 🔥🔥🔥🔥🔥</summary>
 
