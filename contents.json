@@ -13634,9 +13634,9 @@
       "stars": 20
     },
     {
-      "title": "Freetime",
-      "source": "https://github.com/rnystrom/Freetime",
-      "homepage": "http://freetime-app.com/",
+      "title": "GitHawk",
+      "source": "https://github.com/rnystrom/GitHawk",
+      "itunes": "https://itunes.apple.com/app/githawk-for-github/id1252320249",
       "category-ids": [
         "github"
       ],
