@@ -14119,6 +14119,19 @@
       "license": "bsd-3-clause",
       "date_added": "Aug 3 2017",
       "suggested_by": "@dkhamsing"        
-    }
+    },
+	{
+	"title": "awesome-arkit",
+	"source": "https://github.com/olucurious/awesome-arkit",
+	 "category-ids": [
+        "bonus"
+      ],
+      "tags": [
+        "list"
+      ],
+      "suggested_by": "@dkhamsing",
+      "license": "other",
+	"date_added": "Aug 17 2017"
+	}
   ]
 }
