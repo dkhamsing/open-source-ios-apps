@@ -5266,6 +5266,15 @@
 
       ]
     },
+	  {
+            "title": "Planc",
+            "category-ids": ["tasks"],
+            "description": "Minimalistic to-do list",
+            "source": "https://github.com/aerlinn13/planc",
+            "screenshots": [""],
+            "date_added": "Aug 20 2017",
+            "suggested_by": "@aerlinn13"
+},
     {
       "title": "Lucid Weather Clock",
       "category-ids": [
