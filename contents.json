@@ -5270,6 +5270,7 @@
             "title": "Planc",
             "category-ids": ["tasks"],
             "description": "Minimalistic to-do list",
+            "tags": ["swift"],
             "source": "https://github.com/aerlinn13/planc",
             "screenshots": ["https://github.com/aerlinn13/Planc/blob/master/screenshots/1.png?raw=true"],
             "date_added": "Aug 20 2017",
