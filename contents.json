@@ -5215,7 +5215,7 @@
         "tasks"
       ],
       "description": "If you have a file called todo.txt on your computer right now, you're in the right place",
-      "source": "https://github.com/ginatrapani/todo.txt-ios",
+      "source": "https://github.com/todotxt/todo.txt-ios", 
       "itunes": "https://itunes.apple.com/app/todo.txt-touch/id491342186",
       "stars": 367,
       "license": "gpl-3.0",
