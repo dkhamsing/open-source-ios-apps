@@ -851,7 +851,7 @@ Click ► to show more details
 - BoardBank: Money manager for board games [` App Store`](https://itunes.apple.com/app/boardbank-money-manager-for/id1191367526)  
   <details><summary><code>swift</code> 🔥</summary>
 
-  https://github.com/richardxyx/BoardBank<br>  http://www.richardneitzke.com<br>  Added March 20, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/richardxyx/BoardBank<br>  https://www.richardneitzke.com<br>  Added March 20, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='BoardBank image 1' src='https://i.imgur.com/fXB42iY.png'> <img height='300' alt='BoardBank image 2' src='https://i.imgur.com/EMGOw0g.png'> 
 </div>
   </details>
