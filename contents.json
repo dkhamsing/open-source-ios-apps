@@ -5271,8 +5271,9 @@
             "category-ids": ["tasks"],
             "description": "Minimalistic to-do list",
             "source": "https://github.com/aerlinn13/planc",
-            "screenshots": [""],
+            "screenshots": ["https://github.com/aerlinn13/Planc/blob/master/screenshots/1.png?raw=true"],
             "date_added": "Aug 20 2017",
+	    "license": "other",
             "suggested_by": "@aerlinn13"
 },
     {
