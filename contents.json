@@ -14130,7 +14130,7 @@
       "license": "bsd-3-clause",
       "date_added": "Aug 3 2017",
       "suggested_by": "@dkhamsing"        
-    },
+    },	  
 	{
 	"title": "awesome-arkit",
 	"source": "https://github.com/olucurious/awesome-arkit",
@@ -14143,6 +14143,15 @@
       "suggested_by": "@dkhamsing",
       "license": "other",
 	"date_added": "Aug 17 2017"
-	}
+	}, 
+    {
+	"title": "Crosses-n-Ous",
+	"category-ids": ["SpriteKit"],
+	"description": "Class Tic Tac Toe reincarnation with AI and state machines. The app is ready-made, using Sprite and Gameplay Kits.",
+	"source": "https://github.com/jVirus/Crosses-n-Ous",
+	"screenshots": ["https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif"],
+	"date_added": "Jul 2 2017",
+	"suggested_by": "@jVirus"
+    }
   ]
 }
