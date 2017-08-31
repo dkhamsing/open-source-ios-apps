@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-744-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2022,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-746-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2031,%202017-lightgrey.svg)
 
 Jump to
 
@@ -831,6 +831,14 @@ Click ► to show more details
 
   https://github.com/ivsall2012/AHPinterest<br>  Added May 11, 2017<br>  License: `other`
   <div><img height='300' alt='Pinterest image 1' src='https://github.com/ivsall2012/AHPinterest/blob/master/AHPinterset.png?raw=true'> 
+</div>
+  </details>
+
+- Snake Classic: A snake engine for all Apple devices  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/PiXeL16/SnakeClassic<br>  Added August 31, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Snake Classic image 1' src='https://raw.githubusercontent.com/PiXeL16/SnakeClassic/master/Art/SnakeWatch.png'> 
 </div>
   </details>
 
@@ -2424,6 +2432,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 </div>
   </details>
 
+- Crosses-n-Ous: Class Tic Tac Toe reincarnation with AI and state machines  
+  <details><summary><code>swift</code> <code>gameplaykit</code> </summary>
+
+  https://github.com/jVirus/Crosses-n-Ous<br>  Added July  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='Crosses-n-Ous image 1' src='https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif'> 
+</div>
+  </details>
+
 - Five In A Row (五子棋)  
   <details><summary><code>objc</code> 🇨🇳 </summary>
 
@@ -2459,6 +2475,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
   https://github.com/l800891/Sakura-Fly<br>  Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Sakura Fly image 1' src='https://cloud.githubusercontent.com/assets/6619146/13731560/965791fe-e942-11e5-9a11-f66f404fa18c.gif'> 
+</div>
+  </details>
+
+- Snake Classic: A snake engine for all Apple devices  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/PiXeL16/SnakeClassic<br>  Added August 31, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Snake Classic image 1' src='https://raw.githubusercontent.com/PiXeL16/SnakeClassic/master/Art/SnakeWatch.png'> 
 </div>
   </details>
 
