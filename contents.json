@@ -2903,6 +2903,27 @@
       "stars": 10
     },
     {
+      "title": "Snake Classic",
+      "category-ids": [
+        "spritekit",
+        "clone",
+        "apple-watch",
+        "apple-tv"
+      ],
+      "description": "A snake engine written in SpriteKit for all Apple devices.",
+      "source": "https://github.com/PiXeL16/SnakeClassic",
+      "screenshots": [
+        "https://github.com/PiXeL16/SnakeClassic/blob/master/Art/SnakeWatch.png"
+      ],
+      "license": "MIT",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "August 31th 2017",
+      "suggested_by": "@pixel16",
+      "stars": 0
+    },
+    {
       "title": "Hodor",
       "category-ids": [
         "keyboard"
