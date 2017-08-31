@@ -2906,16 +2906,14 @@
       "title": "Snake Classic",
       "category-ids": [
         "spritekit",
-        "clone",
-        "apple-watch",
-        "apple-tv"
+        "clone"
       ],
-      "description": "A snake engine written in SpriteKit for all Apple devices.",
+      "description": "A snake engine for all Apple devices",
       "source": "https://github.com/PiXeL16/SnakeClassic",
       "screenshots": [
-        "https://github.com/PiXeL16/SnakeClassic/blob/master/Art/SnakeWatch.png"
-      ],
-      "license": "MIT",
+      	"https://raw.githubusercontent.com/PiXeL16/SnakeClassic/master/Art/SnakeWatch.png"
+	],
+      "license": "mit",
       "tags": [
         "swift"
       ],
@@ -14167,10 +14165,12 @@
 	}, 
     {
 	"title": "Crosses-n-Ous",
-	"category-ids": ["SpriteKit"],
-	"description": "Class Tic Tac Toe reincarnation with AI and state machines. The app is ready-made, using Sprite and Gameplay Kits.",
+	"tags": ["swift", "gameplaykit"], 
+	"category-ids": ["spritekit"],
+	"description": "Class Tic Tac Toe reincarnation with AI and state machines",
 	"source": "https://github.com/jVirus/Crosses-n-Ous",
 	"screenshots": ["https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif"],
+	"license": "apache-2.0",	
 	"date_added": "Jul 2 2017",
 	"suggested_by": "@jVirus"
     }
