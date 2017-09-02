@@ -598,7 +598,7 @@ Click ► to show more details
   </details>
 
 - GitHawk: GitHub project manager [` App Store`](https://itunes.apple.com/app/githawk-for-github/id1252320249)  
-  <details><summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> 🔥</summary>
+  <details><summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> 🔥🔥</summary>
 
   https://github.com/rnystrom/GitHawk<br>  Added July  5, 2017<br>  License: `other`
   <div><img height='300' alt='GitHawk image 1' src='http://i.imgur.com/XwW4MI2.png'> <img height='300' alt='GitHawk image 2' src='http://i.imgur.com/sFgTFJX.png'> 
@@ -614,7 +614,7 @@ Click ► to show more details
   </details>
 
 - GitPoint: GitHub app with a minimal & beautiful UI [` App Store`](https://itunes.apple.com/app/gitpoint/id1251245162)  
-  <details><summary><code>react-native</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>react-native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/gitpoint/git-point<br>  Added July 14, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='GitPoint image 1' src='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'> <img height='300' alt='GitPoint image 2' src='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'> 
@@ -2165,7 +2165,7 @@ https://newsapi.org/ — [back to top](#readme)
   </details>
 
 - WordPress: Official WordPress app [` App Store`](https://itunes.apple.com/app/wordpress/id335703880)  
-  <details><summary><code>objc</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/wordpress-mobile/WordPress-iOS<br>  Added March 17, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='WordPress image 1' src='https://cdn-images-1.medium.com/max/800/1*DC2_2VNsltlTH_16RKIvsw.png'> 
@@ -2244,7 +2244,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - Drrrible [` App Store`](https://itunes.apple.com/app/drrrible/id1229592223)  
-  <details><summary><code>swift</code> <code>dribbble</code> <code>reactorkit</code> <code>moya</code> <code>kingfisher</code> 🔥</summary>
+  <details><summary><code>swift</code> <code>dribbble</code> <code>reactorkit</code> <code>moya</code> <code>kingfisher</code> 🔥🔥</summary>
 
   https://github.com/devxoul/Drrrible<br>  Added May  3, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Drrrible image 1' src='http://a3.mzstatic.com/us/r30/Purple111/v4/32/20/62/32206236-57e6-dd41-ccc6-9d9870a6e1ac/screen696x696.jpeg'> <img height='300' alt='Drrrible image 2' src='http://a4.mzstatic.com/us/r30/Purple111/v4/6f/1f/77/6f1f771f-c9a8-5d60-6556-1bcb3993d568/screen696x696.jpeg'> <img height='300' alt='Drrrible image 3' src='http://a1.mzstatic.com/us/r30/Purple122/v4/81/bc/39/81bc3933-4d0a-97da-88ab-265b679a2801/screen696x696.jpeg'> 
@@ -2902,7 +2902,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   </details>
 
 - GitPoint: GitHub app with a minimal & beautiful UI [` App Store`](https://itunes.apple.com/app/gitpoint/id1251245162)  
-  <details><summary><code>react-native</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>react-native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/gitpoint/git-point<br>  Added July 14, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='GitPoint image 1' src='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'> <img height='300' alt='GitPoint image 2' src='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'> 
