@@ -574,7 +574,7 @@ Click ► to show more details
 [back to top](#readme) 
  
 - CodeHub: Browse & maintain GitHub repositories [` App Store`](https://itunes.apple.com/app/id707173885)  
-  <details><summary><code>objc</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>csharp</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/CodeHubApp/CodeHub<br>  http://codehub-app.com/<br>  Added June  1, 2016<br>  License: `other`
   <div><img height='300' alt='CodeHub image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/34/47/f7/3447f73d-7c25-0ace-719c-d8a286521ed7/screen696x696.jpeg'> <img height='300' alt='CodeHub image 2' src='http://a4.mzstatic.com/us/r30/Purple69/v4/4c/e1/5b/4ce15b73-3010-47c4-2c94-569b1898aebb/screen696x696.jpeg'> <img height='300' alt='CodeHub image 3' src='http://a1.mzstatic.com/us/r30/Purple49/v4/28/8b/0d/288b0d9b-d596-4128-de57-d51310d63cff/screen696x696.jpeg'> <img height='300' alt='CodeHub image 4' src='http://a4.mzstatic.com/us/r30/Purple49/v4/e7/eb/f0/e7ebf020-0ad7-f61a-e702-e6507e8c1925/screen696x696.jpeg'> <img height='300' alt='CodeHub image 5' src='http://a4.mzstatic.com/us/r30/Purple49/v4/fc/94/aa/fc94aaa7-bddf-5c48-9727-09ee45595194/screen696x696.jpeg'> 
@@ -3002,6 +3002,14 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
  
 https://www.xamarin.com/ — [back to top](#readme) 
  
+- CodeHub: Browse & maintain GitHub repositories [` App Store`](https://itunes.apple.com/app/id707173885)  
+  <details><summary><code>csharp</code> 🔥🔥🔥🔥🔥</summary>
+
+  https://github.com/CodeHubApp/CodeHub<br>  http://codehub-app.com/<br>  Added June  1, 2016<br>  License: `other`
+  <div><img height='300' alt='CodeHub image 1' src='http://a1.mzstatic.com/us/r30/Purple49/v4/34/47/f7/3447f73d-7c25-0ace-719c-d8a286521ed7/screen696x696.jpeg'> <img height='300' alt='CodeHub image 2' src='http://a4.mzstatic.com/us/r30/Purple69/v4/4c/e1/5b/4ce15b73-3010-47c4-2c94-569b1898aebb/screen696x696.jpeg'> <img height='300' alt='CodeHub image 3' src='http://a1.mzstatic.com/us/r30/Purple49/v4/28/8b/0d/288b0d9b-d596-4128-de57-d51310d63cff/screen696x696.jpeg'> <img height='300' alt='CodeHub image 4' src='http://a4.mzstatic.com/us/r30/Purple49/v4/e7/eb/f0/e7ebf020-0ad7-f61a-e702-e6507e8c1925/screen696x696.jpeg'> <img height='300' alt='CodeHub image 5' src='http://a4.mzstatic.com/us/r30/Purple49/v4/fc/94/aa/fc94aaa7-bddf-5c48-9727-09ee45595194/screen696x696.jpeg'> 
+</div>
+  </details>
+
 
 ## Bonus 
  
