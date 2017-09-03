@@ -100,6 +100,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - warpedAR https://github.com/Trevorrwarduk/warpedAR-Open-Source
 - WatchNotes https://github.com/azamsharp/WatchNotes
 - wikiHow https://github.com/tderouin/wikiHow-iPhone-Application
+- Wunderschnell https://github.com/contentful-graveyard/Wunderschnell
 - XPilot http://7b5labs.com/xpilot.git/
 - Yorkie https://github.com/opensourceios/YorkieApp
 - ZXing https://github.com/zxing/zxing
