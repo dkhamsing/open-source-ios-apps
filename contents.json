@@ -1056,7 +1056,7 @@
       ],
       "description": "Order the right product with one tap on your wrist",
       "license": "mit",
-      "source": "https://github.com/contentful-graveyard/Wunderschnell"
+      "source": "https://github.com/contentful-graveyard/Wunderschnell",
       "tags": [
         "swift", "archive"
       ],
@@ -9016,7 +9016,7 @@
         "content"
       ],
       "description": "An offline reader for Wikipedia (& many other websites)",
-      "source": "https://github.com/kiwix/apple"
+      "source": "https://github.com/kiwix/apple",
       "homepage": "http://wiki.kiwix.org/wiki/Main_Page",
       "itunes": "https://itunes.apple.com/app/id997079563",
       "tags": [
