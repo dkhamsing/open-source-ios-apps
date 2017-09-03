@@ -8649,8 +8649,10 @@
     {
       "title": "CodeHub",
       "category-ids": [
-        "github"
+        "github",
+        "xamarin"
       ],
+      "tags": ["csharp"],
       "description": "Browse & maintain GitHub repositories",
       "source": "https://github.com/CodeHubApp/CodeHub",
       "homepage": "http://codehub-app.com/",
