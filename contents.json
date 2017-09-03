@@ -1056,9 +1056,9 @@
       ],
       "description": "Order the right product with one tap on your wrist",
       "license": "mit",
-      "source": "https://github.com/contentful-labs/Wunderschnell",
+      "source": "https://github.com/contentful-graveyard/Wunderschnell"
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/contentful-labs/Wunderschnell/raw/master/Screenshots/initial_screen.png",
