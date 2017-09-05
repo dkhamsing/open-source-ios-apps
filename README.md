@@ -5823,7 +5823,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react native</code> 🔥</summary>
 
   https://github.com/bgryszko/react-native-example<br>  Added October 13, 2015<br>  License: `other`
-  <div><img height='300' alt='Around Me image 1' src='https://camo.githubusercontent.com/1f889f2b9c10a575083eff28c875ad57063a9db1/68747470733a2f2f63646e2e7261776769742e636f6d2f62677279737a6b6f2f72656163742d6e61746976652d6578616d706c652f6d61737465722f707265766965772e676966'> 
+  <div><img height='300' alt='Around Me image 1' src='https://raw.githubusercontent.com/bgryszko/react-native-example/master/preview.gif'> 
 </div>
   </details>
 
