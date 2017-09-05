@@ -6863,7 +6863,7 @@
         "react native"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/1f889f2b9c10a575083eff28c875ad57063a9db1/68747470733a2f2f63646e2e7261776769742e636f6d2f62677279737a6b6f2f72656163742d6e61746976652d6578616d706c652f6d61737465722f707265766965772e676966"
+        "https://raw.githubusercontent.com/bgryszko/react-native-example/master/preview.gif"
       ],
       "description": "Display Instagram photos around your location",
       "source": "https://github.com/bgryszko/react-native-example",
