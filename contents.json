@@ -14335,6 +14335,18 @@
       "date_added": "Jul 2 2017",
       "suggested_by": "@jVirus",
       "stars": 1
-    }
+    },
+{
+"title": "SeeFood",
+"description": "Detect various dishes using the camera",
+"source": "https://github.com/kingreza/SeeFood",
+"tags": ["swift", "coreml"],
+"category-ids": ["media"],
+"screenshots": ["https://github.com/kingreza/SeeFood/raw/master/seefood1.gif"],
+"license": "gpl-3.0",
+ "date_added": "Sep 5 2017",
+      "suggested_by": "@dkhamsing"
+
+}
   ]
 }
