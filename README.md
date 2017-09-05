@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-746-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%203,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-747-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%205,%202017-lightgrey.svg)
 
 Jump to
 
@@ -2427,7 +2427,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - Crosses-n-Ous: Class Tic Tac Toe reincarnation with AI and state machines  
   <details><summary><code>swift</code> <code>gameplaykit</code> </summary>
 
-  https://github.com/jVirus/Crosses-n-Ous<br>  Added July  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/jVirus/Crosses-n-Ous<br>  Added August 27, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Crosses-n-Ous image 1' src='https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif'> 
 </div>
   </details>
@@ -3179,6 +3179,14 @@ Image, video, audio, reading — [back to top](#readme)
 
   https://github.com/rsattar/screenshotter<br>  Added July 28, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Screenshotter image 1' src='http://a1.mzstatic.com/us/r30/Purple111/v4/be/d3/72/bed372f2-d1fb-511b-8e76-d55a7805fc64/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- SeeFood: Detect various dishes using the camera  
+  <details><summary><code>swift</code> <code>coreml</code> </summary>
+
+  https://github.com/kingreza/SeeFood<br>  Added September  5, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='SeeFood image 1' src='https://github.com/kingreza/SeeFood/raw/master/seefood1.gif'> 
 </div>
   </details>
 
