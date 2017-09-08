@@ -14347,6 +14347,24 @@
  "date_added": "Sep 5 2017",
       "suggested_by": "@dkhamsing"
 
-}
+},
+    {
+      "title": "iOS 11 by Examples",
+      "description": "👨🏻‍💻 Examples of new iOS 11 APIs",
+      "source": "https://github.com/artemnovichkov/iOS-11-by-Examples",
+      "category-ids": [
+        "sample"
+      ],
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "stars": 2373,
+      "screenshots": [
+        "https://github.com/artemnovichkov/iOS-11-by-Examples/blob/master/resources/vision-landmarks-example.jpeg"
+      ],
+      "date_added": "Sep 7 2017",
+      "suggested_by": "@artemnovichkov"
+    }
   ]
 }
