@@ -14350,14 +14350,14 @@
 },
     {
       "title": "iOS 11 by Examples",
-      "description": "👨🏻‍💻 Examples of new iOS 11 APIs",
+      "description": "New iOS 11 APIs",
       "source": "https://github.com/artemnovichkov/iOS-11-by-Examples",
       "category-ids": [
         "sample"
       ],
       "license": "mit",
       "tags": [
-        "swift"
+        "swift", "coreml", "vision", "arkit", "drag-and-drop", "core-nfc", "mapkit", "identity-lookup", "devicecheck", "spritekit"
       ],
       "stars": 2373,
       "screenshots": [
