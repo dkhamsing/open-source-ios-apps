@@ -1213,6 +1213,30 @@
       "stars": 1049,
       "license": "mit"
     },
+      {
+      "title": "WhatsUp",
+      "category-ids": [
+        "communication",
+        "firebase"
+      ],
+      "tags": [
+        "swift",
+        "swift3",
+        "firebase",
+        "Contacts",
+        "Mobile Authentication",
+        "OTP"
+      ],
+      "description": "Chat app that uses Conacts Framework and Firebase",
+      "source": "https://github.com/satishbabariya/WhatsUp",
+      "screenshots": [
+        "https://github.com/satishbabariya/WhatsUp/blob/master/screenshot2.jpg"
+      ],
+      "date_added": "Wed Sep 12 2017",
+      "suggested_by": "@satishbabariya",
+      "stars": 2,
+      "license": "mit"
+    },
     {
       "title": "Potter Pics",
       "category-ids": [
