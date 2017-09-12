@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-747-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%205,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-749-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%2012,%202017-lightgrey.svg)
 
 Jump to
 
@@ -3492,7 +3492,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary><code>objc</code> </summary>
 
   https://github.com/dkhamsing/osia<br>  Added July 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='osia image 1' src='https://github.com/dkhamsing/osia/raw/master/Assets/0.2.png'> 
+  <div><img height='300' alt='osia image 1' src='https://github.com/dkhamsing/osia/raw/master/Assets/0.1.png'> 
 </div>
   </details>
 
@@ -4130,7 +4130,7 @@ https://newsapi.org/ — [back to top](#readme)
   <details><summary><code>objc</code> </summary>
 
   https://github.com/dkhamsing/osia<br>  Added July 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='osia image 1' src='https://github.com/dkhamsing/osia/raw/master/Assets/0.2.png'> 
+  <div><img height='300' alt='osia image 1' src='https://github.com/dkhamsing/osia/raw/master/Assets/0.1.png'> 
 </div>
   </details>
 
@@ -4501,6 +4501,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/ShinobiControls/iOS10-day-by-day<br>  Added September  2, 2016<br>  License: `other`
   <div><img height='300' alt='iOS 10 Day by Day image 1' src='https://www.shinobicontrols.com/wp-content/uploads/2016/07/App_Demo.gif'> 
+</div>
+  </details>
+
+- iOS 11 by Examples: New iOS 11 APIs  
+  <details><summary><code>swift</code> <code>coreml</code> <code>vision</code> <code>arkit</code> <code>drag-and-drop</code> <code>core-nfc</code> <code>mapkit</code> <code>identity-lookup</code> <code>devicecheck</code> <code>spritekit</code> 🔥🔥🔥🔥🔥</summary>
+
+  https://github.com/artemnovichkov/iOS-11-by-Examples<br>  Added September  7, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='iOS 11 by Examples image 1' src='https://github.com/artemnovichkov/iOS-11-by-Examples/blob/master/resources/vision-landmarks-example.jpeg'> 
 </div>
   </details>
 
@@ -5707,6 +5715,14 @@ https://firebase.google.com/ — [back to top](#readme)
 
   https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2<br>  Added November 11, 2016<br>  License: `other`
   <div><img height='300' alt='Real-time Chat image 1' src='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'> 
+</div>
+  </details>
+
+- WhatsUp: Chat app  
+  <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> <code>contacts</code> <code>otp</code> </summary>
+
+  https://github.com/satishbabariya/WhatsUp<br>  Added September 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='WhatsUp image 1' src='https://raw.githubusercontent.com/satishbabariya/WhatsUp/master/screenshot2.jpg'> 
 </div>
   </details>
 

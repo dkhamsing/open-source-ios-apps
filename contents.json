@@ -1213,6 +1213,28 @@
       "stars": 1049,
       "license": "mit"
     },
+      {
+      "title": "WhatsUp",
+      "category-ids": [
+        "firebase"
+      ],
+      "tags": [
+        "swift",
+        "swift3",
+        "firebase",
+        "contacts",
+        "otp"
+      ],
+      "description": "Chat app",
+      "source": "https://github.com/satishbabariya/WhatsUp",
+      "screenshots": [
+        "https://raw.githubusercontent.com/satishbabariya/WhatsUp/master/screenshot2.jpg"
+      ],
+      "date_added": "Wed Sep 12 2017",
+      "suggested_by": "@satishbabariya",
+      "stars": 2,
+      "license": "mit"
+    },
     {
       "title": "Potter Pics",
       "category-ids": [
