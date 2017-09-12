@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-748-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%208,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-749-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%2012,%202017-lightgrey.svg)
 
 Jump to
 
@@ -5715,6 +5715,14 @@ https://firebase.google.com/ — [back to top](#readme)
 
   https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2<br>  Added November 11, 2016<br>  License: `other`
   <div><img height='300' alt='Real-time Chat image 1' src='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'> 
+</div>
+  </details>
+
+- WhatsUp: Chat app  
+  <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> <code>contacts</code> <code>otp</code> </summary>
+
+  https://github.com/satishbabariya/WhatsUp<br>  Added September 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='WhatsUp image 1' src='https://raw.githubusercontent.com/satishbabariya/WhatsUp/master/screenshot2.jpg'> 
 </div>
   </details>
 
