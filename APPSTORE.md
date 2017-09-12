@@ -1392,7 +1392,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 - MAPS.ME: Offline maps app with navigation [` App Store`](https://itunes.apple.com/app/id510623322)  
   <details><summary><code>openstreetmap api</code> 🔥🔥🔥🔥🔥</summary>
 
-  https://github.com/mapsme/omim<br>  https://maps.me/en/home<br>  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/mapsme/omim<br>  https://maps.me/<br>  Added May 31, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='MAPS.ME image 1' src='http://a3.mzstatic.com/us/r30/Purple71/v4/0b/78/17/0b7817dc-d0d4-d3fe-1a41-a3813f0598eb/screen696x696.jpeg'> <img height='300' alt='MAPS.ME image 2' src='http://a1.mzstatic.com/us/r30/Purple71/v4/31/a1/a8/31a1a87f-2148-223e-369d-00ef3625ae35/screen696x696.jpeg'> <img height='300' alt='MAPS.ME image 3' src='http://a3.mzstatic.com/us/r30/Purple62/v4/ea/4f/7f/ea4f7f30-1268-1437-177e-5bf303e987ab/screen696x696.jpeg'> <img height='300' alt='MAPS.ME image 4' src='http://a5.mzstatic.com/us/r30/Purple62/v4/9c/f7/9a/9cf79aa0-e3a0-b607-88e0-9fa14bc2d609/screen696x696.jpeg'> <img height='300' alt='MAPS.ME image 5' src='http://a3.mzstatic.com/us/r30/Purple71/v4/0b/a9/52/0ba95283-dcac-de78-05d7-7578a5b1760e/screen696x696.jpeg'> 
 </div>
   </details>
