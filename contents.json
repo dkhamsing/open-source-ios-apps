@@ -14387,6 +14387,18 @@
       ],
       "date_added": "Sep 7 2017",
       "suggested_by": "@artemnovichkov"
-    }
+    },
+{
+            "title": "MADBike",
+            "category-ids": ["3d-touch", "clone", "core-data", "firebase", "fitness", "github", "hacker-news", "location", "news", "weather"],
+            "description": "Can you imagine if the BiciMAD app had its own style, was easy and intuitive, and had an awesome design? That’s exactly what we do.",
+            "source": "https://github.com/alexruperez/MADBike",
+            "homepage": "https://www.madbikeapp.com",
+            "itunes": "https://itunes.apple.com/us/app/madbike/id1067596651",
+            "license": "gpl-3.0",
+            "screenshots": ["https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/8b/9e/71/8b9e71a4-38e6-44b5-fa82-0b7a0ce3bacd/pr_source.png/0x0ss.jpg", "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/10/6d/cc/106dcc94-1daf-c1f8-12ce-0cb234657f7e/pr_source.png/0x0ss.jpg", "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/85/a5/a7/85a5a7c0-ebc9-27d4-5f81-6d7c6f7b4c02/pr_source.png/0x0ss.jpg", "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/b6/91/dd/b691dda9-6f80-4942-3182-0c848ac0477a/pr_source.jpg/0x0ss.jpg"],
+            "date_added": "Sep 25 2017",
+            "suggested_by": "@alexruperez"
+}
   ]
 }
