@@ -2465,7 +2465,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - Sakura Fly [` App Store`](https://itunes.apple.com/app/sakura-fly/id1019023051)  
   <details><summary><code>objc</code> </summary>
 
-  https://github.com/l800891/Sakura-Fly<br>  Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/cl7/Sakura-Fly<br>  Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Sakura Fly image 1' src='https://cloud.githubusercontent.com/assets/6619146/13731560/965791fe-e942-11e5-9a11-f66f404fa18c.gif'> 
 </div>
   </details>
@@ -4749,14 +4749,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 </div>
   </details>
 
-- Dono: Password derivation tool  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/dono-app/dono-ios<br>  Added July 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='Dono image 1' src='https://github.com/dono-app/dono-ux/raw/master/gifs/ios-demo.mov.gif'> 
-</div>
-  </details>
-
 - Encryptr: A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
   <details><summary><code>cordova</code> <code>grunt</code> <code>node</code> 🔥🔥🔥🔥</summary>
 
@@ -4933,7 +4925,7 @@ https://mastodon.social — [back to top](#readme)
 - eCortex: Manage / organize thoughts & ideas into custom categories [` App Store`](https://itunes.apple.com/app/ecortex/id1105026832)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/myeramareddy/cortex<br>  Added January 25, 2017
+  https://github.com/atmaniwhy/cortex<br>  Added January 25, 2017
   <div><img height='300' alt='eCortex image 1' src='http://a5.mzstatic.com/us/r30/Purple60/v4/03/9e/a9/039ea9b6-6427-ac1b-9bf9-773c91e5b8c9/screen696x696.jpeg'> 
 </div>
   </details>
@@ -5424,7 +5416,7 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- MADBike: Can you imagine if the BiciMAD app had its own style, was easy and intuitive, and had an awesome design? That’s exactly what we do. [` App Store`](https://itunes.apple.com/us/app/madbike/id1067596651)  
+- MADBike: Can you imagine if the BiciMAD app had its own style, was easy and intuitive, and had an awesome design? That’s exactly what we do. [` App Store`](https://itunes.apple.com/app/madbike/id1067596651)  
   <details><summary><code>3d-touch</code> <code>clone</code> <code>core-data</code> <code>firebase</code> <code>fitness</code> <code>location</code> <code>news</code> <code>weather</code> </summary>
 
   https://github.com/alexruperez/MADBike<br>  https://www.madbikeapp.com<br>  Added September 25, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
