@@ -10109,9 +10109,9 @@
         "password"
       ],
       "description": "Password derivation tool",
-      "source": "https://github.com/dono-app/dono-ios",
+      "source": "https://github.com/opensourceios/dono-ios",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/dono-app/dono-ux/raw/master/gifs/ios-demo.mov.gif"
