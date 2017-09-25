@@ -14390,7 +14390,8 @@
     },
 {
             "title": "MADBike",
-            "category-ids": ["3d-touch", "clone", "core-data", "firebase", "fitness", "github", "hacker-news", "location", "news", "weather"],
+"category-ids": ["misc"],
+            "tags": ["3d-touch", "clone", "core-data", "firebase", "fitness", "location", "news", "weather"],
             "description": "Can you imagine if the BiciMAD app had its own style, was easy and intuitive, and had an awesome design? That’s exactly what we do.",
             "source": "https://github.com/alexruperez/MADBike",
             "homepage": "https://www.madbikeapp.com",
