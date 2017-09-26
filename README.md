@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-750-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%2025,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-750-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%2026,%202017-lightgrey.svg)
 
 Jump to
 
@@ -369,7 +369,7 @@ Click ► to show more details
 - heartrate: Show streaming heart rate from the watch  
   <details><summary><code>swift</code> <code>watchos2</code> 🔥🔥</summary>
 
-  https://github.com/coolioxlr/watchOS-2-heartrate<br>  http://imgur.com/a/xVqqj<br>  Added July 29, 2015<br>  License: `other`
+  https://github.com/coolioxlr/watchOS-2-heartrate<br>  https://imgur.com/a/xVqqj<br>  Added July 29, 2015<br>  License: `other`
   <div><img height='300' alt='heartrate image 1' src='https://i.imgur.com/hOfxCBx.png'> 
 </div>
   </details>
@@ -2788,7 +2788,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 - Doppio: Finds the nearest Starbucks  
   <details><summary><code>objc</code> 🔥🔥🔥</summary>
 
-  https://github.com/chroman/Doppio<br>  http://imgur.com/a/ges5M<br>  Added March  5, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+  https://github.com/chroman/Doppio<br>  https://imgur.com/a/ges5M<br>  Added March  5, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
   <div><img height='300' alt='Doppio image 1' src='https://i.imgur.com/2ZG08AX.png'> <img height='300' alt='Doppio image 2' src='https://i.imgur.com/PDUUWTj.png'> 
 </div>
   </details>
@@ -3992,7 +3992,7 @@ https://newsapi.org/ — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/paulsumit1993/DailyFeed<br>  Added January 26, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='DailyFeed image 1' src='https://raw.githubusercontent.com/paulsumit1993/DailyFeed/master/assets/screenshot.jpg'> 
+  <div><img height='300' alt='DailyFeed image 1' src='https://raw.githubusercontent.com/paulsumit1993/DailyFeed/master/assets/iphone_dailyfeed.jpg'> 
 </div>
   </details>
 
