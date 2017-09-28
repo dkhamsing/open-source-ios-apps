@@ -1906,7 +1906,7 @@
       ],
       "description": "Bitcoin wallet",
       "license": "mit",
-      "source": "https://github.com/breadwallet/breadwallet",
+      "source": "https://github.com/breadwallet/breadwallet-legacy",
       "itunes": "https://itunes.apple.com/app/breadwallet/id885251393",
       "stars": 46,
       "date_added": "Wed Jul 8 06:45:27 2015 -0700",
