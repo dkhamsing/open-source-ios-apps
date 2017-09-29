@@ -12107,7 +12107,7 @@
         "swift"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/paulsumit1993/DailyFeed/master/assets/iphone_dailyfeed.jpg" 
+        "https://raw.githubusercontent.com/paulsumit1993/DailyFeed/master/assets/iphone_dailyfeed.jpg"
       ],
       "license": "mit",
       "date_added": "Jan 26 2017",
@@ -12898,6 +12898,10 @@
       ],
       "category-ids": [
         "timer"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/oHKTHVJ.png",
+        "https://i.imgur.com/N4JJBB0.png"
       ],
       "license": "other",
       "date_added": "Apr 21 2017",
