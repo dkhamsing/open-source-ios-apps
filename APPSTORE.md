@@ -419,7 +419,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Rocket.Chat: Meteor chat platform app [` App Store`](https://itunes.apple.com/app/rocket.chat/id1028869439)  
+- Rocket.Chat: Meteor chat platform app [` App Store`](https://itunes.apple.com/app/rocket-chat/id1148741252)  
   <details><summary><code>swift</code> 🔥🔥</summary>
 
   https://github.com/RocketChat/Rocket.Chat.iOS<br>  Added January 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -968,7 +968,7 @@ Click ► to show more details
 - breadwallet: Bitcoin wallet [` App Store`](https://itunes.apple.com/app/breadwallet/id885251393)  
   <details><summary><code>objc</code> </summary>
 
-  https://github.com/breadwallet/breadwallet<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/breadwallet/breadwallet-legacy<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='breadwallet image 1' src='http://a5.mzstatic.com/us/r30/Purple60/v4/d6/40/7a/d6407a6a-4c1d-69bc-f1a6-02c859b302ae/screen696x696.jpeg'> <img height='300' alt='breadwallet image 2' src='http://a2.mzstatic.com/us/r30/Purple20/v4/dc/b9/83/dcb983d3-37fe-06c0-0b24-723ac1de427e/screen696x696.jpeg'> <img height='300' alt='breadwallet image 3' src='http://a1.mzstatic.com/us/r30/Purple20/v4/71/fa/fe/71fafecc-25ef-c1bd-35e1-33e6bb062614/screen696x696.jpeg'> <img height='300' alt='breadwallet image 4' src='http://a5.mzstatic.com/us/r30/Purple60/v4/d6/53/12/d65312e1-a9f5-cbe0-b2d6-5e31efd57717/screen696x696.jpeg'> <img height='300' alt='breadwallet image 5' src='http://a2.mzstatic.com/us/r30/Purple20/v4/bc/15/d1/bc15d175-4fe2-4fbc-bfce-c276e128f02d/screen696x696.jpeg'> 
 </div>
   </details>
