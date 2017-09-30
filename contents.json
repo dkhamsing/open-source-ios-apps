@@ -14407,6 +14407,7 @@
             "itunes": "https://itunes.apple.com/us/app/radium-web-browser/id1274491203",
             "screenshots": ["https://camo.githubusercontent.com/1b9c730305d6004b9abba19bf743527794f2c664/687474703a2f2f692e696d6775722e636f6d2f624d51757741452e706e67", "https://camo.githubusercontent.com/41dd4dcd8b7fdbf5a8dcef923fcd4716bbd0c2e6/687474703a2f2f692e696d6775722e636f6d2f576a726f3336412e706e67"],
             "date_added": "Sep 27 2017",
+            "license": "other",
             "suggested_by": "@SlayterDev"
     }
   ]
