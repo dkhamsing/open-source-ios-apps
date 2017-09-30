@@ -1900,23 +1900,20 @@
       ]
     },
     {
-      "title": "breadwallet",
+      "title": "Bread",
       "category-ids": [
         "bitcoin"
       ],
+      "tags": ["swift"],
       "description": "Bitcoin wallet",
       "license": "mit",
-      "source": "https://github.com/breadwallet/breadwallet-legacy",
+      "source": "https://github.com/breadwallet/breadwallet-ios",
       "itunes": "https://itunes.apple.com/app/breadwallet/id885251393",
       "stars": 46,
       "date_added": "Wed Jul 8 06:45:27 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple60/v4/d6/40/7a/d6407a6a-4c1d-69bc-f1a6-02c859b302ae/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple20/v4/dc/b9/83/dcb983d3-37fe-06c0-0b24-723ac1de427e/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple20/v4/71/fa/fe/71fafecc-25ef-c1bd-35e1-33e6bb062614/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple60/v4/d6/53/12/d65312e1-a9f5-cbe0-b2d6-5e31efd57717/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple20/v4/bc/15/d1/bc15d175-4fe2-4fbc-bfce-c276e128f02d/screen696x696.jpeg"
+        "http://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg"
       ]
     },
     {
@@ -12107,7 +12104,7 @@
         "swift"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/paulsumit1993/DailyFeed/master/assets/iphone_dailyfeed.jpg" 
+        "https://raw.githubusercontent.com/paulsumit1993/DailyFeed/master/assets/iphone_dailyfeed.jpg"
       ],
       "license": "mit",
       "date_added": "Jan 26 2017",
