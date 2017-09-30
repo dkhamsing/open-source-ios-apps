@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **277** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **278** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -242,6 +242,14 @@ Click ► to show more details
 
   https://github.com/mtigas/OnionBrowser<br>  https://mike.tig.as/onionbrowser/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Onion Browser image 1' src='http://a4.mzstatic.com/us/r30/Purple42/v4/7c/3c/cc/7c3ccc4e-77c8-799a-9058-4b8672c71a08/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Radium Web Browser: Tabbed web browser extendible using JavaScript extensions. [` App Store`](https://itunes.apple.com/us/app/radium-web-browser/id1274491203)  
+  <details><summary><code>swift</code> <code>browser</code> <code>extensible</code> <code>webkit</code> </summary>
+
+  https://github.com/SlayterDev/RadiumBrowser<br>  Added September 27, 2017
+  <div><img height='300' alt='Radium Web Browser image 1' src='https://camo.githubusercontent.com/1b9c730305d6004b9abba19bf743527794f2c664/687474703a2f2f692e696d6775722e636f6d2f624d51757741452e706e67'> <img height='300' alt='Radium Web Browser image 2' src='https://camo.githubusercontent.com/41dd4dcd8b7fdbf5a8dcef923fcd4716bbd0c2e6/687474703a2f2f692e696d6775722e636f6d2f576a726f3336412e706e67'> 
 </div>
   </details>
 
@@ -965,11 +973,11 @@ Click ► to show more details
 </div>
   </details>
 
-- breadwallet: Bitcoin wallet [` App Store`](https://itunes.apple.com/app/breadwallet/id885251393)  
-  <details><summary><code>objc</code> </summary>
+- Bread: Bitcoin wallet [` App Store`](https://itunes.apple.com/app/breadwallet/id885251393)  
+  <details><summary><code>swift</code> </summary>
 
-  https://github.com/breadwallet/breadwallet-legacy<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='breadwallet image 1' src='http://a5.mzstatic.com/us/r30/Purple60/v4/d6/40/7a/d6407a6a-4c1d-69bc-f1a6-02c859b302ae/screen696x696.jpeg'> <img height='300' alt='breadwallet image 2' src='http://a2.mzstatic.com/us/r30/Purple20/v4/dc/b9/83/dcb983d3-37fe-06c0-0b24-723ac1de427e/screen696x696.jpeg'> <img height='300' alt='breadwallet image 3' src='http://a1.mzstatic.com/us/r30/Purple20/v4/71/fa/fe/71fafecc-25ef-c1bd-35e1-33e6bb062614/screen696x696.jpeg'> <img height='300' alt='breadwallet image 4' src='http://a5.mzstatic.com/us/r30/Purple60/v4/d6/53/12/d65312e1-a9f5-cbe0-b2d6-5e31efd57717/screen696x696.jpeg'> <img height='300' alt='breadwallet image 5' src='http://a2.mzstatic.com/us/r30/Purple20/v4/bc/15/d1/bc15d175-4fe2-4fbc-bfce-c276e128f02d/screen696x696.jpeg'> 
+  https://github.com/breadwallet/breadwallet-ios<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Bread image 1' src='http://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg'> 
 </div>
   </details>
 
