@@ -14397,6 +14397,17 @@
             "screenshots": ["https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/8b/9e/71/8b9e71a4-38e6-44b5-fa82-0b7a0ce3bacd/pr_source.png/0x0ss.jpg", "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/10/6d/cc/106dcc94-1daf-c1f8-12ce-0cb234657f7e/pr_source.png/0x0ss.jpg", "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/85/a5/a7/85a5a7c0-ebc9-27d4-5f81-6d7c6f7b4c02/pr_source.png/0x0ss.jpg", "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/b6/91/dd/b691dda9-6f80-4942-3182-0c848ac0477a/pr_source.jpg/0x0ss.jpg"],
             "date_added": "Sep 25 2017",
             "suggested_by": "@alexruperez"
-}
+},
+    {
+            "title": "Radium Web Browser",
+            "category-ids": ["browser"],
+            "tags": ["swift", "browser", "extensible", "webkit"],
+            "description": "Tabbed web browser extendible using JavaScript extensions.",
+            "source": "https://github.com/SlayterDev/RadiumBrowser",
+            "itunes": "https://itunes.apple.com/us/app/radium-web-browser/id1274491203",
+            "screenshots": ["https://camo.githubusercontent.com/1b9c730305d6004b9abba19bf743527794f2c664/687474703a2f2f692e696d6775722e636f6d2f624d51757741452e706e67", "https://camo.githubusercontent.com/41dd4dcd8b7fdbf5a8dcef923fcd4716bbd0c2e6/687474703a2f2f692e696d6775722e636f6d2f576a726f3336412e706e67"],
+            "date_added": "Sep 27 2017",
+            "suggested_by": "@SlayterDev"
+    }
   ]
 }
