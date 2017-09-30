@@ -3143,7 +3143,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - Marvel Comics  
-  <details><summary><code>swift</code> <code>moya</code> <code>rxswift</code> <code>dollar</code> <code>kingfisher</code> <code>quick</code> <code>nimble</code> </summary>
+  <details><summary><code>swift</code> <code>moya</code> <code>rxswift</code> <code>dollar</code> <code>kingfisher</code> <code>quick</code> <code>nimble</code> 🔥</summary>
 
   https://github.com/thiagolioy/marvelapp<br>  Added January  9, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Marvel Comics image 1' src='https://github.com/thiagolioy/marvelapp/blob/master/assets/marvel_screens.png?raw=true'> 
@@ -3191,7 +3191,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - SeeFood: Detect various dishes using the camera  
-  <details><summary><code>swift</code> <code>coreml</code> </summary>
+  <details><summary><code>swift</code> <code>coreml</code> 🔥🔥</summary>
 
   https://github.com/kingreza/SeeFood<br>  Added September  5, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='SeeFood image 1' src='https://github.com/kingreza/SeeFood/raw/master/seefood1.gif'> 
@@ -6058,7 +6058,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   </details>
 
 - PokeDB: Clean and simple Pokédex app for Pokémon GO [` App Store`](https://itunes.apple.com/app/pokedb/id1143037838)  
-  <details><summary><code>react-native</code> </summary>
+  <details><summary><code>react-native</code> 🔥</summary>
 
   https://github.com/satya164/PocketGear<br>  Added September 14, 2016<br>  License: `other`
   <div><img height='300' alt='PokeDB image 1' src='http://a1.mzstatic.com/us/r30/Purple71/v4/78/63/2e/78632e47-b8cf-5068-19be-e8e848581dbf/screen696x696.jpeg'> 
@@ -6208,7 +6208,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   </details>
 
 - Twitter clone  
-  <details><summary><code>react-native</code> </summary>
+  <details><summary><code>react-native</code> 🔥</summary>
 
   https://github.com/VctrySam/Twitter<br>  Added August 14, 2016<br>  License: `other`
   <div><img height='300' alt='Twitter clone image 1' src='https://i.imgur.com/0kzQBEJ.png'> 
@@ -6470,7 +6470,7 @@ https://www.xamarin.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 - awesome-arkit  
-  <details><summary><code>list</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>list</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/olucurious/awesome-arkit<br>  Added August 17, 2017<br>  License: `other`
   </details>
