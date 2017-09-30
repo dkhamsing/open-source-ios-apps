@@ -587,10 +587,10 @@ Click ► to show more details
 </div>
   </details>
 
-- Radium Web Browser: Tabbed web browser extendible using JavaScript extensions. [` App Store`](https://itunes.apple.com/us/app/radium-web-browser/id1274491203)  
+- Radium Web Browser: Tabbed web browser extendible using JavaScript extensions. [` App Store`](https://itunes.apple.com/app/radium-web-browser/id1274491203)  
   <details><summary><code>swift</code> <code>browser</code> <code>extensible</code> <code>webkit</code> </summary>
 
-  https://github.com/SlayterDev/RadiumBrowser<br>  Added September 27, 2017
+  https://github.com/SlayterDev/RadiumBrowser<br>  Added September 27, 2017<br>  License: `other`
   <div><img height='300' alt='Radium Web Browser image 1' src='https://camo.githubusercontent.com/1b9c730305d6004b9abba19bf743527794f2c664/687474703a2f2f692e696d6775722e636f6d2f624d51757741452e706e67'> <img height='300' alt='Radium Web Browser image 2' src='https://camo.githubusercontent.com/41dd4dcd8b7fdbf5a8dcef923fcd4716bbd0c2e6/687474703a2f2f692e696d6775722e636f6d2f576a726f3336412e706e67'> 
 </div>
   </details>
@@ -5161,6 +5161,8 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> </summary>
 
   https://github.com/toggl/stopwatch<br>  Added April 21, 2017<br>  License: `other`
+  <div><img height='300' alt='Stopwatch image 1' src='https://i.imgur.com/oHKTHVJ.png'> <img height='300' alt='Stopwatch image 2' src='https://i.imgur.com/N4JJBB0.png'> 
+</div>
   </details>
 
 - TrackMyTime [` App Store`](https://itunes.apple.com/app/trackmyday/id789386884)  
