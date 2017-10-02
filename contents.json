@@ -14466,25 +14466,23 @@
       "stars": 8
     },
     {
-            "title": "Parse Dashboard for iOS",
-            "category-ids": [
-              "parse",
-              "swift",
-              "core-data"
-            ],
-            "description": "A beautiful moile client for managing your Parse apps while you are on the go! Now you can easily view and modify your data in the same way you would on the offical desktop client.",
-            "source": "https://github.com/nathantannar4/Parse-Dashboard-for-iOS",
-            "screenshots": [
-              "https://github.com/nathantannar4/Parse-Dashboard-for-iOS/blob/master/Screenshots/Server.png&raw=true",
-              "https://github.com/nathantannar4/Parse-Dashboard-for-iOS/blob/master/Screenshots/Schemas.png&raw=true",
-              "https://github.com/nathantannar4/Parse-Dashboard-for-iOS/blob/master/Screenshots/Class.png&raw=true",
-              "https://github.com/nathantannar4/Parse-Dashboard-for-iOS/blob/master/Screenshots/Query.png&raw=true",
-              "https://github.com/nathantannar4/Parse-Dashboard-for-iOS/blob/master/Screenshots/Object.png&raw=true"              
-            ],
-            "date_added": "Oct 1 2017",
-            "license": "MIT",
-            "itunes": "https://itunes.apple.com/us/app/parse-dashboard/id1212141622?ls=1&mt=8",
-            "suggested_by": "@nathantannar4"
+      "title": "Parse Dashboard for iOS",
+      "category-ids": [
+        "parse"
+      ],
+      "description": "A beautiful moile client for managing your Parse apps while you are on the go! Now you can easily view and modify your data in the same way you would on the offical desktop client.",
+      "source": "https://github.com/nathantannar4/Parse-Dashboard-for-iOS",
+      "screenshots": [
+        "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Server.png",
+        "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Schemas.png",
+        "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Class.png",
+        "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Query.png",
+        "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Object.png"              
+      ],
+      "date_added": "Oct 1 2017",
+      "license": "min",
+      "itunes": "https://itunes.apple.com/us/app/parse-dashboard/id1212141622?ls=1&mt=8",
+      "suggested_by": "@nathantannar4"
     }
   ]
 }
