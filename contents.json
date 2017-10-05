@@ -14473,11 +14473,12 @@
       "stars": 8
     },
     {
-      "title": "Parse Dashboard for iOS",
+      "title": "Parse Dashboard",
       "category-ids": [
         "parse"
       ],
-      "description": "A beautiful moile client for managing your Parse apps while you are on the go! Now you can easily view and modify your data in the same way you would on the offical desktop client.",
+      "tags": ["swift", "swiftyjson"],
+      "description": "A beautiful moile client for managing your Parse apps while you are on the go.",
       "source": "https://github.com/nathantannar4/Parse-Dashboard-for-iOS",
       "screenshots": [
         "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Server.png",
@@ -14487,8 +14488,8 @@
         "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Object.png"              
       ],
       "date_added": "Oct 1 2017",
-      "license": "min",
-      "itunes": "https://itunes.apple.com/us/app/parse-dashboard/id1212141622?ls=1&mt=8",
+      "license": "mit",
+      "itunes": "https://itunes.apple.com/app/parse-dashboard/id1212141622",
       "suggested_by": "@nathantannar4"
     }
   ]
