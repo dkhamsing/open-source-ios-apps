@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **278** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **279** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -2877,6 +2877,14 @@ https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme)
 
   https://github.com/2city/2CITY-iOS<br>  Added October 12, 2015<br>  License: `other`
   <div><img height='300' alt='2CITY image 1' src='http://a3.mzstatic.com/us/r30/Purple3/v4/97/56/ac/9756acae-6315-37b3-3e0c-f53d7317a056/screen696x696.jpeg'> <img height='300' alt='2CITY image 2' src='http://a1.mzstatic.com/us/r30/Purple5/v4/b9/03/90/b90390ca-787a-b0aa-f5b3-82d1ba233bd1/screen696x696.jpeg'> <img height='300' alt='2CITY image 3' src='http://a2.mzstatic.com/us/r30/Purple3/v4/97/98/5d/97985d61-9604-7eaa-8087-027f97beb1e8/screen696x696.jpeg'> <img height='300' alt='2CITY image 4' src='http://a4.mzstatic.com/us/r30/Purple3/v4/f2/22/22/f22222e3-e3cd-aa5e-9a1f-e58506c8b94e/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Parse Dashboard: A beautiful moile client for managing your Parse apps while you are on the go. [` App Store`](https://itunes.apple.com/app/parse-dashboard/id1212141622)  
+  <details><summary><code>swift</code> <code>swiftyjson</code> </summary>
+
+  https://github.com/nathantannar4/Parse-Dashboard-for-iOS<br>  Added October  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Parse Dashboard image 1' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Server.png'> <img height='300' alt='Parse Dashboard image 2' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Schemas.png'> <img height='300' alt='Parse Dashboard image 3' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Class.png'> <img height='300' alt='Parse Dashboard image 4' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Query.png'> <img height='300' alt='Parse Dashboard image 5' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Object.png'> 
 </div>
   </details>
 
