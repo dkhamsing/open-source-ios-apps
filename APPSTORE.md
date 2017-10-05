@@ -2904,7 +2904,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 - Bíóhúsið: See movie showtimes in Iceland [` App Store`](https://itunes.apple.com/app/biohusi/id1112946298)  
   <details><summary><code>react native</code> </summary>
 
-  https://github.com/birkir/kvikmyndr-app/<br>  Added February 27, 2017<br>  License: `other`
+  https://github.com/birkir/kvikmyndr-app<br>  Added February 27, 2017<br>  License: `other`
   <div><img height='300' alt='Bíóhúsið image 1' src='http://a3.mzstatic.com/us/r30/Purple122/v4/47/60/af/4760af23-821d-fe64-bef0-609676699d5d/screen696x696.jpeg'> <img height='300' alt='Bíóhúsið image 2' src='http://a3.mzstatic.com/us/r30/Purple111/v4/c2/c2/36/c2c236d9-7144-0a00-54d3-8caffd554174/screen696x696.jpeg'> <img height='300' alt='Bíóhúsið image 3' src='http://a3.mzstatic.com/us/r30/Purple111/v4/9b/15/d4/9b15d4d7-6ca3-1b33-d78c-cd098e35e4af/screen696x696.jpeg'> <img height='300' alt='Bíóhúsið image 4' src='http://a2.mzstatic.com/us/r30/Purple111/v4/c0/e1/83/c0e18311-891e-724b-8d32-e77a9aa3e4a5/screen696x696.jpeg'> 
 </div>
   </details>
