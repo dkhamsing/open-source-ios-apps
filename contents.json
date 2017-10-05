@@ -14460,7 +14460,7 @@
         "extensible",
         "webkit"
       ],
-      "description": "Tabbed web browser extendible using JavaScript extensions.",
+      "description": "Tabbed web browser extendible using JavaScript extensions",
       "source": "https://github.com/SlayterDev/RadiumBrowser",
       "itunes": "https://itunes.apple.com/app/radium-web-browser/id1274491203",
       "screenshots": [
@@ -14478,10 +14478,9 @@
         "parse"
       ],
       "tags": ["swift", "swiftyjson"],
-      "description": "A beautiful moile client for managing your Parse apps while you are on the go.",
+      "description": "Manage your Parse apps while you are on the go",
       "source": "https://github.com/nathantannar4/Parse-Dashboard-for-iOS",
       "screenshots": [
-        "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Server.png",
         "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Schemas.png",
         "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Class.png",
         "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Query.png",
