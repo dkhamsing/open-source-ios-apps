@@ -587,7 +587,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Radium Web Browser: Tabbed web browser extendible using JavaScript extensions. [` App Store`](https://itunes.apple.com/app/radium-web-browser/id1274491203)  
+- Radium Web Browser: Tabbed web browser extendible using JavaScript extensions [` App Store`](https://itunes.apple.com/app/radium-web-browser/id1274491203)  
   <details><summary><code>swift</code> <code>browser</code> <code>extensible</code> <code>webkit</code> </summary>
 
   https://github.com/SlayterDev/RadiumBrowser<br>  Added September 27, 2017<br>  License: `other`
@@ -5800,11 +5800,11 @@ https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme)
   https://github.com/kylejm/Jim<br>  Added January  4, 2016<br>  License: `other`
   </details>
 
-- Parse Dashboard: A beautiful moile client for managing your Parse apps while you are on the go. [` App Store`](https://itunes.apple.com/app/parse-dashboard/id1212141622)  
+- Parse Dashboard: Manage your Parse apps while you are on the go [` App Store`](https://itunes.apple.com/app/parse-dashboard/id1212141622)  
   <details><summary><code>swift</code> <code>swiftyjson</code> </summary>
 
   https://github.com/nathantannar4/Parse-Dashboard-for-iOS<br>  Added October  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Parse Dashboard image 1' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Server.png'> <img height='300' alt='Parse Dashboard image 2' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Schemas.png'> <img height='300' alt='Parse Dashboard image 3' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Class.png'> <img height='300' alt='Parse Dashboard image 4' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Query.png'> <img height='300' alt='Parse Dashboard image 5' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Object.png'> 
+  <div><img height='300' alt='Parse Dashboard image 1' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Schemas.png'> <img height='300' alt='Parse Dashboard image 2' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Class.png'> <img height='300' alt='Parse Dashboard image 3' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Query.png'> <img height='300' alt='Parse Dashboard image 4' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Object.png'> 
 </div>
   </details>
 
