@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-751-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October%20%205,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-752-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October%20%205,%202017-lightgrey.svg)
 
 Jump to
 
@@ -5798,6 +5798,14 @@ https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme)
   <details><summary><code>swift</code> <code>parse</code> </summary>
 
   https://github.com/kylejm/Jim<br>  Added January  4, 2016<br>  License: `other`
+  </details>
+
+- Parse Dashboard: A beautiful moile client for managing your Parse apps while you are on the go. [` App Store`](https://itunes.apple.com/app/parse-dashboard/id1212141622)  
+  <details><summary><code>swift</code> <code>swiftyjson</code> </summary>
+
+  https://github.com/nathantannar4/Parse-Dashboard-for-iOS<br>  Added October  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Parse Dashboard image 1' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Server.png'> <img height='300' alt='Parse Dashboard image 2' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Schemas.png'> <img height='300' alt='Parse Dashboard image 3' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Class.png'> <img height='300' alt='Parse Dashboard image 4' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Query.png'> <img height='300' alt='Parse Dashboard image 5' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Object.png'> 
+</div>
   </details>
 
 - Parse-Challenge-App: App with likes, comments, posting images/videos [` App Store`](https://itunes.apple.com/app/lets-challenge-me/id944004497)  
