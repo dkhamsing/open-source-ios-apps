@@ -7620,6 +7620,10 @@
         "csharp",
         "archive"
       ],
+      "screenshots": [
+        "http://is3.mzstatic.com/image/thumb/Purple62/v4/00/48/23/004823ee-7d4b-4a2d-8c5f-facace553fae/source/392x696bb.jpg",
+        "http://is1.mzstatic.com/image/thumb/Purple22/v4/66/d8/78/66d878e0-18c4-b7e1-0185-9ccc229867cb/source/392x696bb.jpg"
+      ],
       "source": "https://github.com/opensourceios/toggle-mobile",
       "itunes": "https://itunes.apple.com/app/toggl-timer/id885767775",
       "stars": 0,
