@@ -12932,6 +12932,7 @@
         "http://is3.mzstatic.com/image/thumb/Purple128/v4/77/2c/1a/772c1ad8-a491-8688-5747-b5f8c2dfc3e9/source/392x696bb.jpg",
         "http://is2.mzstatic.com/image/thumb/Purple118/v4/ed/52/fe/ed52fead-02f5-dbea-ae3b-e1a8c902f0f0/source/392x696bb.jpg"
       ],
+      "license": "bsd-3-clause",
       "date_added": "Oct 10 2017",
       "suggested_by": "@vpeschenkov"
     },
