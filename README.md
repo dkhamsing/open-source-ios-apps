@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-752-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October%20%208,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-753-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October%2012,%202017-lightgrey.svg)
 
 Jump to
 
@@ -5157,11 +5157,19 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- Stopwatch  
+- Stopwatch: Best simple stopwatch app with great UI/UX for tracking time [` App Store`](https://itunes.apple.com/app/stopwatch-timer-time-logger/id1126783712)  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/toggl/stopwatch<br>  Added April 21, 2017<br>  License: `other`
-  <div><img height='300' alt='Stopwatch image 1' src='https://i.imgur.com/oHKTHVJ.png'> <img height='300' alt='Stopwatch image 2' src='https://i.imgur.com/N4JJBB0.png'> 
+  <div><img height='300' alt='Stopwatch image 1' src='http://is2.mzstatic.com/image/thumb/Purple71/v4/b8/28/80/b82880a1-b833-6fdf-e381-996d9b5efbe9/source/392x696bb.jpg'> <img height='300' alt='Stopwatch image 2' src='http://is4.mzstatic.com/image/thumb/Purple62/v4/b1/93/93/b19393b8-4f40-da6f-5782-9dc064a00b7a/source/392x696bb.jpg'> <img height='300' alt='Stopwatch image 3' src='http://is1.mzstatic.com/image/thumb/Purple62/v4/f0/97/48/f0974881-d371-ed70-ee40-d813d5253a81/source/392x696bb.jpg'> <img height='300' alt='Stopwatch image 4' src='http://is3.mzstatic.com/image/thumb/Purple71/v4/17/6b/c3/176bc37e-da3d-7b14-3983-7fe1e255dc3d/source/392x696bb.jpg'> 
+</div>
+  </details>
+
+- Superday: Superday tracks your activities automatically and helps you to find balance between life and work [` App Store`](https://itunes.apple.com/app/superday-automatic-productivity/id1169609181)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/toggl/superday<br>  Added October 10, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  <div><img height='300' alt='Superday image 1' src='http://is5.mzstatic.com/image/thumb/Purple118/v4/d6/97/b8/d697b84a-e5e4-9a30-f349-64e46c960310/source/392x696bb.jpg'> <img height='300' alt='Superday image 2' src='http://is3.mzstatic.com/image/thumb/Purple128/v4/77/2c/1a/772c1ad8-a491-8688-5747-b5f8c2dfc3e9/source/392x696bb.jpg'> <img height='300' alt='Superday image 3' src='http://is2.mzstatic.com/image/thumb/Purple118/v4/ed/52/fe/ed52fead-02f5-dbea-ae3b-e1a8c902f0f0/source/392x696bb.jpg'> 
 </div>
   </details>
 
