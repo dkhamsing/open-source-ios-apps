@@ -12921,6 +12921,26 @@
       "stars": 9
     },
     {
+      "title": "Superday",
+      "description": "Superday tracks your activities automatically and helps you to find balance between life and work",
+      "itunes": "https://itunes.apple.com/app/superday-automatic-productivity/id1169609181",
+      "tags": [
+        "swift"
+      ],
+      "category-ids": [
+        "timer"
+      ],
+      "source": "https://github.com/toggl/superday",
+      "screenshots": [
+        "http://is5.mzstatic.com/image/thumb/Purple118/v4/d6/97/b8/d697b84a-e5e4-9a30-f349-64e46c960310/source/392x696bb.jpg",
+        "http://is3.mzstatic.com/image/thumb/Purple128/v4/77/2c/1a/772c1ad8-a491-8688-5747-b5f8c2dfc3e9/source/392x696bb.jpg",
+        "http://is2.mzstatic.com/image/thumb/Purple118/v4/ed/52/fe/ed52fead-02f5-dbea-ae3b-e1a8c902f0f0/source/392x696bb.jpg"
+      ],
+      "license": "bsd-3-clause",
+      "date_added": "Oct 10 2017",
+      "suggested_by": "@vpeschenkov"
+    },
+    {
       "title": "Toshi",
       "description": "Private & secure messaging, Ethereum wallet and browser",
       "source": "https://github.com/toshiapp/toshi-ios-client",
