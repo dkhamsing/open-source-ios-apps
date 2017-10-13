@@ -14539,11 +14539,11 @@
       "screenshots": [
         "https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-landing.png",
         "https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-clips.png",
-        "https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-add.png",             
+        "https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-add.png"
       ],
       "date_added": "Oct 12 2017",
       "license": "mit",
-      "itunes": "https://itunes.apple.com/us/app/crystal-clipboard/id1287332321",
+      "itunes": "https://itunes.apple.com/app/crystal-clipboard/id1287332321",
       "suggested_by": "@jzzocc"
     }
   ]
