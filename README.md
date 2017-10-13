@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-753-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October%2012,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-754-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October%2013,%202017-lightgrey.svg)
 
 Jump to
 
@@ -4273,6 +4273,14 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
 
   https://github.com/Coding/Coding-iOS<br>  Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Coding image 1' src='http://a4.mzstatic.com/us/r30/Purple69/v4/d9/af/b7/d9afb7d3-1d4c-2e44-1501-371f2a32a0da/screen696x696.jpeg'> <img height='300' alt='Coding image 2' src='http://a5.mzstatic.com/us/r30/Purple69/v4/ed/8c/2f/ed8c2f53-0d0f-e44f-40a8-f55f87dfd517/screen696x696.jpeg'> <img height='300' alt='Coding image 3' src='http://a4.mzstatic.com/us/r30/Purple49/v4/43/09/21/430921eb-aa5a-c68a-9c02-8372dba3a241/screen696x696.jpeg'> <img height='300' alt='Coding image 4' src='http://a5.mzstatic.com/us/r30/Purple69/v4/43/f2/27/43f227be-e0ec-f5de-ef7c-5a786719899a/screen696x696.jpeg'> <img height='300' alt='Coding image 5' src='http://a4.mzstatic.com/us/r30/Purple69/v4/42/98/19/429819d8-b91b-d248-3fc1-1a6f127d82de/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Crystal Clipboard: Copy and paste between devices [` App Store`](https://itunes.apple.com/app/crystal-clipboard/id1287332321)  
+  <details><summary><code>swift</code> <code>swift4</code> <code>core-data</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> <code>moya</code> <code>starscream</code> <code>mvvm</code> </summary>
+
+  https://github.com/jzzocc/crystal-clipboard-ios<br>  Added October 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Crystal Clipboard image 1' src='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-landing.png'> <img height='300' alt='Crystal Clipboard image 2' src='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-clips.png'> <img height='300' alt='Crystal Clipboard image 3' src='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-add.png'> 
 </div>
   </details>
 
