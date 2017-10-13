@@ -14518,6 +14518,33 @@
       "license": "mit",
       "itunes": "https://itunes.apple.com/app/parse-dashboard/id1212141622",
       "suggested_by": "@nathantannar4"
+    },
+    {
+      "title": "Crystal Clipboard",
+      "category-ids": [
+        "reactivecocoa"
+      ],
+      "tags": [
+        "swift",
+        "swift4",
+        "core-data",
+        "cocoapodskeys",
+        "reactivecocoa",
+        "moya",
+        "starscream",
+        "mvvm"
+      ],
+      "description": "Copy and paste between devices",
+      "source": "https://github.com/jzzocc/crystal-clipboard-ios",
+      "screenshots": [
+        "https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-landing.png",
+        "https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-clips.png",
+        "https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-add.png"
+      ],
+      "date_added": "Oct 12 2017",
+      "license": "mit",
+      "itunes": "https://itunes.apple.com/app/crystal-clipboard/id1287332321",
+      "suggested_by": "@jzzocc"
     }
   ]
 }
