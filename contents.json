@@ -14522,12 +14522,12 @@
     {
       "title": "Crystal Clipboard",
       "category-ids": [
-        "reactivecocoa"
+        "reactivecocoa",
+        "core-data"        
       ],
       "tags": [
         "swift",
         "swift4",
-        "core-data",
         "cocoapodskeys",
         "reactivecocoa",
         "moya",
