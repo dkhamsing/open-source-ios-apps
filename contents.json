@@ -9501,10 +9501,12 @@
         "realm"
       ],
       "description": "Daily menu of restaurants near Czech Technical University",
-      "source": "https://github.com/syky27/lunch_guy-ios",
+      "source": "https://github.com/syky27/LunchGuy",
       "license": "mit",
       "tags": [
-        "swift"
+        "swift",        
+        "alamofire",
+        "swiftyjson"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/2.png",
