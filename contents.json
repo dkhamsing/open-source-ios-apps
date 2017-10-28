@@ -1962,8 +1962,9 @@
       "category-ids": [
         "finance"
       ],
+      "tags": ["archive"],
       "description": "Beautiful, intuitive currency converter",
-      "source": "https://github.com/nicklockwood/Concurrency",
+      "source": "https://github.com/opensourceios/Concurrency",
       "itunes": "https://itunes.apple.com/app/concurrency/id738872892",
       "stars": 330,
       "license": "other",
