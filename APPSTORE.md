@@ -677,7 +677,7 @@ Click ► to show more details
 - Prayer in English: Help understand the spoken text in Islamic prayers [` App Store`](https://itunes.apple.com/app/prayer-in-english/id1217136884)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/Flinesoft/Prayer<br>  https://community.flinesoft.com/c/prayer-app<br>  Added April  3, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://github.com/Flinesoft/Prayer<br>  Added April  3, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Prayer in English image 1' src='http://a2.mzstatic.com/us/r30/Purple122/v4/f0/3d/8e/f03d8e27-3e94-a07a-255c-2c56afdf9256/screen696x696.jpeg'> <img height='300' alt='Prayer in English image 2' src='http://a5.mzstatic.com/us/r30/Purple111/v4/fd/17/ca/fd17cab3-a3e2-165c-2b0e-d8ff8faeed13/screen696x696.jpeg'> <img height='300' alt='Prayer in English image 3' src='http://a1.mzstatic.com/us/r30/Purple111/v4/d1/d2/98/d1d29891-952b-88ad-e865-759ac918ec1f/screen696x696.jpeg'> 
 </div>
   </details>
@@ -861,14 +861,6 @@ Click ► to show more details
 
   https://github.com/richardxyx/BoardBank<br>  https://www.richardneitzke.com<br>  Added March 20, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='BoardBank image 1' src='https://i.imgur.com/fXB42iY.png'> <img height='300' alt='BoardBank image 2' src='https://i.imgur.com/EMGOw0g.png'> 
-</div>
-  </details>
-
-- Concurrency: Beautiful, intuitive currency converter [` App Store`](https://itunes.apple.com/app/concurrency/id738872892)  
-  <details><summary><code>objc</code> 🔥🔥</summary>
-
-  https://github.com/nicklockwood/Concurrency<br>  Added January 28, 2015<br>  License: `other`
-  <div><img height='300' alt='Concurrency image 1' src='http://a3.mzstatic.com/us/r30/Purple/v4/13/3d/ed/133deda0-a56e-7375-0988-77d2c10e26c5/screen696x696.jpeg'> <img height='300' alt='Concurrency image 2' src='http://a3.mzstatic.com/us/r30/Purple4/v4/3a/f5/ff/3af5ff73-a799-2f4e-be15-6e52358a20bd/screen696x696.jpeg'> <img height='300' alt='Concurrency image 3' src='http://a2.mzstatic.com/us/r30/Purple/v4/49/c0/23/49c02389-d6a9-5ab1-c753-2d6b190a3580/screen696x696.jpeg'> <img height='300' alt='Concurrency image 4' src='http://a1.mzstatic.com/us/r30/Purple/v4/f0/f7/8f/f0f78f2d-96a4-32a5-275a-282fa583cb20/screen696x696.jpeg'> <img height='300' alt='Concurrency image 5' src='http://a5.mzstatic.com/us/r30/Purple4/v4/af/09/6a/af096a8e-dc97-d4ea-bf92-253a49f08a27/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -1873,6 +1865,14 @@ Image, video, audio, reading — [back to top](#readme)
  
 Mostly using http://giphy.com/ — [back to top](#readme) 
  
+- AlohaGIF: Create GIFs easily with speech detection. Just record a short video or pick one from your Photos. [` App Store`](https://itunes.apple.com/app/aloha-gifs-with-dynamic-subtitles/id1231254189)  
+  <details><summary><code>swift</code> <code>avfoundation</code> <code>sfspeechrecognizer</code> </summary>
+
+  https://github.com/michaello/Aloha<br>  http://www.alohagif.com/<br>  Added October 28, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='AlohaGIF image 1' src='http://is1.mzstatic.com/image/thumb/Purple82/v4/44/60/72/446072a3-cc4f-3fc8-ece5-14568643dc15/source/392x696bb.jpg'> <img height='300' alt='AlohaGIF image 2' src='http://is4.mzstatic.com/image/thumb/Purple91/v4/90/58/e3/9058e3be-4676-5668-8301-2488df8322d3/source/392x696bb.jpg'> 
+</div>
+  </details>
+
 - notGIF: Play - Tag - Share your GIFs in Photos [` App Store`](https://itunes.apple.com/app/id1069688631)  
   <details><summary><code>swift</code> <code>gif</code> <code>tag</code> <code>share</code> </summary>
 
@@ -2207,7 +2207,7 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
   </details>
 
 - Crystal Clipboard: Copy and paste between devices [` App Store`](https://itunes.apple.com/app/crystal-clipboard/id1287332321)  
-  <details><summary><code>swift</code> <code>swift4</code> <code>core-data</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> <code>moya</code> <code>starscream</code> <code>mvvm</code> </summary>
+  <details><summary><code>swift</code> <code>swift4</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> <code>moya</code> <code>starscream</code> <code>mvvm</code> </summary>
 
   https://github.com/jzzocc/crystal-clipboard-ios<br>  Added October 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Crystal Clipboard image 1' src='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-landing.png'> <img height='300' alt='Crystal Clipboard image 2' src='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-clips.png'> <img height='300' alt='Crystal Clipboard image 3' src='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-add.png'> 
@@ -2574,11 +2574,11 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- Standard Notes: Notes app with focus on longevity, portability & privacy [` App Store`](https://itunes.apple.com/app/standard-notes/id1191215138)  
-  <details><summary><code>swift</code> <code>alamofire</code> <code>swiftyjson</code> 🔥</summary>
+- Standard Notes: Notes app with focus on longevity, portability & privacy [` App Store`](https://itunes.apple.com/app/standard-notes/id1285392450)  
+  <details><summary><code>react-native</code> </summary>
 
-  https://github.com/standardnotes/iOS<br>  Added January 18, 2017<br>  License: `other`
-  <div><img height='300' alt='Standard Notes image 1' src='http://a3.mzstatic.com/us/r30/Purple122/v4/ca/3d/84/ca3d84d6-201b-578b-8dc1-d0f9cf4495a0/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 2' src='http://a2.mzstatic.com/us/r30/Purple122/v4/b5/91/d1/b591d15d-5b3a-70a0-b8d3-e12e681e4113/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 3' src='http://a5.mzstatic.com/us/r30/Purple122/v4/8d/c0/44/8dc0445c-773b-22a5-afca-0695d29ec10c/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 4' src='http://a3.mzstatic.com/us/r30/Purple122/v4/8e/9e/2e/8e9e2e10-0184-e600-03a2-aaf24d84195b/screen696x696.jpeg'> 
+  https://github.com/standardnotes/mobile<br>  Added January 18, 2017<br>  License: `other`
+  <div><img height='300' alt='Standard Notes image 1' src='http://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg'> 
 </div>
   </details>
 
@@ -2825,6 +2825,14 @@ https://mastodon.social — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Crystal Clipboard: Copy and paste between devices [` App Store`](https://itunes.apple.com/app/crystal-clipboard/id1287332321)  
+  <details><summary><code>swift</code> <code>swift4</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> <code>moya</code> <code>starscream</code> <code>mvvm</code> </summary>
+
+  https://github.com/jzzocc/crystal-clipboard-ios<br>  Added October 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Crystal Clipboard image 1' src='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-landing.png'> <img height='300' alt='Crystal Clipboard image 2' src='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-clips.png'> <img height='300' alt='Crystal Clipboard image 3' src='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-add.png'> 
+</div>
+  </details>
+
 - Tasks: Designed to quickly & easily add tasks [` App Store`](https://itunes.apple.com/app/task-application/id960435759)  
   <details><summary><code>swift</code> <code>iphone</code> </summary>
 
