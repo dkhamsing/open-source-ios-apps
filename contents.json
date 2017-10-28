@@ -14547,6 +14547,27 @@
       "license": "mit",
       "itunes": "https://itunes.apple.com/app/crystal-clipboard/id1287332321",
       "suggested_by": "@jzzocc"
+    },
+    {
+      "title": "AlohaGIF",
+      "category-ids": ["video", "social", "media", "gif"],
+      "description": "Create GIFs easily with speech detection. Just record a short video or pick one from your Photos.",
+      "source": "https://github.com/michaello/Aloha",
+      "homepage": "http://www.alohagif.com/",
+      "itunes": "https://itunes.apple.com/app/aloha-gifs-with-dynamic-subtitles/id1231254189",		
+      "license": "mit",
+      "stars": 20,     
+      "tags": [
+        "swift",
+        "avfoundation",
+        "sfspeechrecognizer"
+      ],
+      "screenshots": [
+      	"http://is1.mzstatic.com/image/thumb/Purple82/v4/44/60/72/446072a3-cc4f-3fc8-ece5-14568643dc15/source/392x696bb.jpg", 
+	    "http://is4.mzstatic.com/image/thumb/Purple91/v4/90/58/e3/9058e3be-4676-5668-8301-2488df8322d3/source/392x696bb.jpg"
+      ],
+      "date_added": "Oct 28 2017",
+      "suggested_by": "@michaello"
     }
   ]
 }
