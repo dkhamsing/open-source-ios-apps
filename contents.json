@@ -9504,7 +9504,7 @@
       "source": "https://github.com/syky27/LunchGuy",
       "license": "mit",
       "tags": [
-        "swift",        
+        "swift",
         "alamofire",
         "swiftyjson"
       ],
@@ -12027,26 +12027,21 @@
     {
       "title": "Standard Notes",
       "description": "Notes app with focus on longevity, portability & privacy",
-      "source": "https://github.com/standardnotes/iOS",
-      "itunes": "https://itunes.apple.com/app/standard-notes/id1191215138",
+      "source": "https://github.com/standardnotes/mobile",
+      "itunes": "https://itunes.apple.com/app/standard-notes/id1285392450",
       "category-ids": [
         "notes"
       ],
       "tags": [
-        "swift",
-        "alamofire",
-        "swiftyjson"
+        "react-native"
       ],
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple122/v4/ca/3d/84/ca3d84d6-201b-578b-8dc1-d0f9cf4495a0/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple122/v4/b5/91/d1/b591d15d-5b3a-70a0-b8d3-e12e681e4113/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple122/v4/8d/c0/44/8dc0445c-773b-22a5-afca-0695d29ec10c/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple122/v4/8e/9e/2e/8e9e2e10-0184-e600-03a2-aaf24d84195b/screen696x696.jpeg"
+        "http://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg"
       ],
       "license": "other",
       "date_added": "Jan 18 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 169
+      "stars": 27
     },
     {
       "title": "Popular Movies",
@@ -14514,7 +14509,7 @@
         "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Schemas.png",
         "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Class.png",
         "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Query.png",
-        "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Object.png"              
+        "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Object.png"
       ],
       "date_added": "Oct 1 2017",
       "license": "mit",
@@ -14525,7 +14520,7 @@
       "title": "Crystal Clipboard",
       "category-ids": [
         "reactivecocoa",
-        "core-data"        
+        "core-data"
       ],
       "tags": [
         "swift",
@@ -14550,20 +14545,20 @@
     },
     {
       "title": "AlohaGIF",
-      "category-ids": ["video", "social", "media", "gif"],
+      "category-ids": ["gif"],
       "description": "Create GIFs easily with speech detection. Just record a short video or pick one from your Photos.",
       "source": "https://github.com/michaello/Aloha",
       "homepage": "http://www.alohagif.com/",
-      "itunes": "https://itunes.apple.com/app/aloha-gifs-with-dynamic-subtitles/id1231254189",		
+      "itunes": "https://itunes.apple.com/app/aloha-gifs-with-dynamic-subtitles/id1231254189",
       "license": "mit",
-      "stars": 20,     
+      "stars": 20,
       "tags": [
         "swift",
         "avfoundation",
         "sfspeechrecognizer"
       ],
       "screenshots": [
-      	"http://is1.mzstatic.com/image/thumb/Purple82/v4/44/60/72/446072a3-cc4f-3fc8-ece5-14568643dc15/source/392x696bb.jpg", 
+      	"http://is1.mzstatic.com/image/thumb/Purple82/v4/44/60/72/446072a3-cc4f-3fc8-ece5-14568643dc15/source/392x696bb.jpg",
 	    "http://is4.mzstatic.com/image/thumb/Purple91/v4/90/58/e3/9058e3be-4676-5668-8301-2488df8322d3/source/392x696bb.jpg"
       ],
       "date_added": "Oct 28 2017",
