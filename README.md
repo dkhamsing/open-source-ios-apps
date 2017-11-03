@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-755-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%20%203,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-756-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%20%203,%202017-lightgrey.svg)
 
 Jump to
 
@@ -3344,6 +3344,14 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
+- Awesome Mobile Conference: Collaborative list of Mobile Conferences [` App Store`](https://itunes.apple.com/app/awesome-mobile-conferences/id1289255473)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/amobconf/awesome-mobile-conferences-ios<br>  Added November  3, 2017<br>  License: `other`
+  <div><img height='300' alt='Awesome Mobile Conference image 1' src='http://is2.mzstatic.com/image/thumb/Purple128/v4/92/6b/9d/926b9de9-9f22-39e3-073b-f409ed8e7439/source/392x696bb.jpg'> <img height='300' alt='Awesome Mobile Conference image 2' src='http://is5.mzstatic.com/image/thumb/Purple128/v4/83/90/53/839053c8-d824-2188-7053-d21a92f24618/source/392x696bb.jpg'> 
+</div>
+  </details>
+
 - Awesome Swift iOS App: Official awesome-swift repository app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427)  
   <details><summary><code>swift</code> </summary>
 
@@ -3357,14 +3365,6 @@ Image, video, audio, reading — [back to top](#readme)
 
   https://github.com/soffes/bar<br>  Added January 26, 2015<br>  License: `other`
   <div><img height='300' alt='bar image 1' src='https://i.imgur.com/PTUo4e7.png'> <img height='300' alt='bar image 2' src='https://i.imgur.com/bXZH0LB.png'> <img height='300' alt='bar image 3' src='https://i.imgur.com/tIFW8bu.png'> <img height='300' alt='bar image 4' src='https://i.imgur.com/D095xih.png'> 
-</div>
-  </details>
-
-- Calvin and Hobbes Comic Viewer: Full text search, favorites, and original publish dates for Calvin and Hobbes  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/docileninja/Calvin-and-Hobbes-Viewer<br>  Added October  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Calvin and Hobbes Comic Viewer image 1' src='https://github.com/docileninja/Calvin-and-Hobbes-Viewer/raw/master/comic-preview.jpg'> <img height='300' alt='Calvin and Hobbes Comic Viewer image 2' src='https://github.com/docileninja/Calvin-and-Hobbes-Viewer/raw/master/search-preview.jpg'> 
 </div>
   </details>
 
