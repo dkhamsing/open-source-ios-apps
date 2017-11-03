@@ -14570,6 +14570,21 @@
       ],
       "date_added": "Oct 28 2017",
       "suggested_by": "@michaello"
+    },
+    {
+      "title": "Awesome Mobile Conference",
+      "source": "https://github.com/amobconf/awesome-mobile-conferences-ios",
+      "category-ids": ["content"],
+      "description": "Collaborative list of Mobile Conferences",
+      "itunes": "https://itunes.apple.com/app/awesome-mobile-conferences/id1289255473",
+      "screenshots": [
+        "http://is2.mzstatic.com/image/thumb/Purple128/v4/92/6b/9d/926b9de9-9f22-39e3-073b-f409ed8e7439/source/392x696bb.jpg",
+        "http://is5.mzstatic.com/image/thumb/Purple128/v4/83/90/53/839053c8-d824-2188-7053-d21a92f24618/source/392x696bb.jpg"
+      ],
+      "tags": ["swift"],
+      "date_added": "Nov 3 2017",
+      "license": "other",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
