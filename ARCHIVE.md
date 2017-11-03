@@ -19,6 +19,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Be my eyes https://github.com/opensourceios/bemyeyes-ios
 - boilerplate https://github.com/tailec/boilerplate
 - Bridges https://github.com/zgrossbart/bridges
+- Calvin and Hobbes Comic Viewer https://github.com/sciencemanx/Calvin-and-Hobbes-Viewer
 - CamLingual https://github.com/yoshiokatsuneo/camlingual_iphone
 - CamShift https://github.com/shihongzhi/CamShift-on-iOS
 - Canvas https://github.com/usecanvas/ios-v1
