@@ -11005,7 +11005,7 @@
     {
       "title": "Calvin and Hobbes Comic Viewer",
       "description": "Full text search, favorites, and original publish dates for Calvin and Hobbes",
-      "source": "https://github.com/docileninja/Calvin-and-Hobbes-Viewer",
+      "source": "https://github.com/sciencemanx/Calvin-and-Hobbes-Viewer",
       "screenshots": [
         "https://github.com/docileninja/Calvin-and-Hobbes-Viewer/raw/master/comic-preview.jpg",
         "https://github.com/docileninja/Calvin-and-Hobbes-Viewer/raw/master/search-preview.jpg"
@@ -11014,7 +11014,8 @@
         "content"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "license": "mit",
       "date_added": "Oct 2 2016",
