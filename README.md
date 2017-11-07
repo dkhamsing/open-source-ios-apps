@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-756-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%20%203,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-757-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%20%207,%202017-lightgrey.svg)
 
 Jump to
 
@@ -3802,6 +3802,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/huijimuhe/prankPro<br>  Added March 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='prankPro image 1' src='https://i.imgur.com/geiofMw.png'> <img height='300' alt='prankPro image 2' src='https://i.imgur.com/fdYYztR.png'> <img height='300' alt='prankPro image 3' src='https://i.imgur.com/sh4pL25.png'> 
+</div>
+  </details>
+
+- SBSAnimoji: Animoji app using Apple's private framework AvatarKit  
+  <details><summary><code>swift</code> <code>iphonex</code> 🔥🔥</summary>
+
+  https://github.com/simonbs/SBSAnimoji<br>  Added November  7, 2017<br>  License: `other`
+  <div><img height='300' alt='SBSAnimoji image 1' src='https://github.com/simonbs/SBSAnimoji/raw/master/screenshot.png'> 
 </div>
   </details>
 
