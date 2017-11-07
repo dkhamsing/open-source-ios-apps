@@ -14585,6 +14585,18 @@
       "date_added": "Nov 3 2017",
       "license": "other",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SBSAnimoji",
+      "source": "https://github.com/simonbs/SBSAnimoji",
+      "description": "Animoji app using Apple's private framework AvatarKit",
+      "category-ids": ["video"],
+      "tags": ["swift", "iphonex"],
+      "screenshots": ["https://github.com/simonbs/SBSAnimoji/raw/master/screenshot.png"],
+      "stars": 209,
+      "date_added": "Nov 7 2017",
+      "license": "other",
+      "suggested_by": "@dkhamsing"   
     }
   ]
 }
