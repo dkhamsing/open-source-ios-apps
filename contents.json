@@ -14597,6 +14597,26 @@
       "date_added": "Nov 7 2017",
       "license": "other",
       "suggested_by": "@dkhamsing"   
+    },
+    {
+      "title": "SharedImages",
+      "category-ids": [
+        "social", "photo"
+      ],
+      "description": "Save your images in your own cloud storage (e.g., Google Drive), and safely share those images with others.",
+      "source": "https://github.com/crspybits/SharedImages",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "Google Drive API",
+        "Facebook API",
+        "SyncServerII client"
+      ],
+      "screenshots": [
+        "https://github.com/crspybits/SharedImages/raw/master/Screenshots/screenshot1.png"
+      ],
+      "date_added": "Nov 18 2017",
+      "suggested_by": "@crspybits"
     }
   ]
 }
