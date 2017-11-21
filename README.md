@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-757-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%20%207,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-758-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%2021,%202017-lightgrey.svg)
 
 Jump to
 
@@ -3760,6 +3760,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 
+- SharedImages: Save your images in your own cloud storage (e.g., Google Drive), and safely share those images with others  
+  <details><summary><code>swift</code> <code>google drive api</code> <code>facebook api</code> <code>syncserverii client</code> </summary>
+
+  https://github.com/crspybits/SharedImages<br>  Added November 18, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='SharedImages image 1' src='https://github.com/crspybits/SharedImages/raw/master/Screenshots/screenshot1.png'> 
+</div>
+  </details>
+
 - Triggy: Intervalometer for WiFi-enabled Canon DSLRs [` App Store`](https://itunes.apple.com/app/triggy/id1193570460)  
   <details><summary><code>swift</code> </summary>
 
@@ -3987,7 +3995,7 @@ https://news.ycombinator.com/ — [back to top](#readme)
   <details><summary><code>react-native</code> </summary>
 
   https://github.com/G2Jose/ReactNative-HackerNews<br>  Added March 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='React Native Hacker News image 1' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines.png'> <img height='300' alt='React Native Hacker News image 2' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/story.png'> <img height='300' alt='React Native Hacker News image 3' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines_loading.png'> 
+  <div><img height='300' alt='React Native Hacker News image 1' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/refactor/redux/screenshots/iOS/show.png'> 
 </div>
   </details>
 
@@ -4989,7 +4997,7 @@ https://mastodon.social — [back to top](#readme)
 - RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
   <details><summary><code>swift</code> <code>realm</code> <code>react native</code> <code>cartography</code> <code>swiftlint</code> 🔥🔥</summary>
 
-  https://github.com/realm-demos/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/realm/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='https://i.imgur.com/Y9ZG7Of.png'> 
 </div>
   </details>
@@ -6149,14 +6157,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react-native</code> </summary>
 
   https://github.com/G2Jose/ReactNative-HackerNews<br>  Added March 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='React Native Hacker News image 1' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines.png'> <img height='300' alt='React Native Hacker News image 2' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/story.png'> <img height='300' alt='React Native Hacker News image 3' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines_loading.png'> 
+  <div><img height='300' alt='React Native Hacker News image 1' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/refactor/redux/screenshots/iOS/show.png'> 
 </div>
   </details>
 
 - RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
   <details><summary><code>swift</code> <code>realm</code> <code>react native</code> <code>cartography</code> <code>swiftlint</code> 🔥🔥</summary>
 
-  https://github.com/realm-demos/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/realm/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='https://i.imgur.com/Y9ZG7Of.png'> 
 </div>
   </details>
@@ -6351,7 +6359,7 @@ https://realm.io/ — [back to top](#readme)
 - RealmTasks: To Do app built with Realm, inspired by Clear for iOS  
   <details><summary><code>swift</code> <code>realm</code> <code>react native</code> <code>cartography</code> <code>swiftlint</code> 🔥🔥</summary>
 
-  https://github.com/realm-demos/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/realm/realm-tasks<br>  Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='RealmTasks image 1' src='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'> <img height='300' alt='RealmTasks image 2' src='https://i.imgur.com/Y9ZG7Of.png'> 
 </div>
   </details>
