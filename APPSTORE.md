@@ -2009,7 +2009,7 @@ https://news.ycombinator.com/ — [back to top](#readme)
   <details><summary><code>react-native</code> </summary>
 
   https://github.com/G2Jose/ReactNative-HackerNews<br>  Added March 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='React Native Hacker News image 1' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines.png'> <img height='300' alt='React Native Hacker News image 2' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/story.png'> <img height='300' alt='React Native Hacker News image 3' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines_loading.png'> 
+  <div><img height='300' alt='React Native Hacker News image 1' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/refactor/redux/screenshots/iOS/show.png'> 
 </div>
   </details>
 
@@ -2999,7 +2999,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react-native</code> </summary>
 
   https://github.com/G2Jose/ReactNative-HackerNews<br>  Added March 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='React Native Hacker News image 1' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines.png'> <img height='300' alt='React Native Hacker News image 2' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/story.png'> <img height='300' alt='React Native Hacker News image 3' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/headlines_loading.png'> 
+  <div><img height='300' alt='React Native Hacker News image 1' src='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/refactor/redux/screenshots/iOS/show.png'> 
 </div>
   </details>
 
