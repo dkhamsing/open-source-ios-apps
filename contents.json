@@ -14601,16 +14601,16 @@
     {
       "title": "SharedImages",
       "category-ids": [
-        "social", "photo"
+        "photo"
       ],
-      "description": "Save your images in your own cloud storage (e.g., Google Drive), and safely share those images with others.",
+      "description": "Save your images in your own cloud storage (e.g., Google Drive), and safely share those images with others",
       "source": "https://github.com/crspybits/SharedImages",
       "license": "mit",
       "tags": [
         "swift",
-        "Google Drive API",
-        "Facebook API",
-        "SyncServerII client"
+        "google drive api",
+        "facebook api",
+        "syncserverii client"
       ],
       "screenshots": [
         "https://github.com/crspybits/SharedImages/raw/master/Screenshots/screenshot1.png"
