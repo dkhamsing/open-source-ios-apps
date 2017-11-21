@@ -12142,7 +12142,7 @@
     },
     {
       "title": "RealmTasks",
-      "source": "https://github.com/realm-demos/realm-tasks",
+      "source": "https://github.com/realm/realm-tasks",
       "description": "To Do app built with Realm, inspired by Clear for iOS",
       "tags": [
         "swift",
