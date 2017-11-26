@@ -14629,7 +14629,18 @@
       "tags": ["swift", "iphonex"],
       "date_added": "Nov 26 2017",
       "license": "mit",
-      "suggested_by": "@dkhamsing"      
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Animoji Studio",
+      "description": "Make Animoji videos with unlimited duration and share anywhere",
+      "source": "https://github.com/insidegui/AnimojiStudio",
+      "category-ids": ["animoji"],
+      "tags": ["objc", "iphonex"],
+      "date_added": "Nov 26 2017",
+      "license": "bsd-2-clause",
+      "stars": 668,
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
