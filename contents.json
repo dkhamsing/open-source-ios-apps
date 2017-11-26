@@ -130,6 +130,11 @@
       "description": "Image, video, audio, reading"
     },
     {
+      "title": "Animoji",
+      "id": "animoji",
+      "parent": "media"
+    },
+    {
       "title": "Audio",
       "id": "audio",
       "parent": "media"
@@ -14587,14 +14592,14 @@
     {
       "title": "SBSAnimoji",
       "source": "https://github.com/simonbs/SBSAnimoji",
-      "description": "Animoji app using Apple's private framework AvatarKit",
-      "category-ids": ["video"],
+      "description": "Uses Apple's private framework AvatarKit",
+      "category-ids": ["animoji"],
       "tags": ["swift", "iphonex"],
       "screenshots": ["https://github.com/simonbs/SBSAnimoji/raw/master/screenshot.png"],
       "stars": 209,
       "date_added": "Nov 7 2017",
       "license": "other",
-      "suggested_by": "@dkhamsing"   
+      "suggested_by": "@dkhamsing"
     },
     {
       "title": "SharedImages",
