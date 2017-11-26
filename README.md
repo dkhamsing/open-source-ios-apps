@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-758-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%2021,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-760-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%2026,%202017-lightgrey.svg)
 
 Jump to
 
@@ -38,6 +38,7 @@ Jump to
 - [Keyboard](#keyboard) 
 - [Location](#location) 
 - [Media](#media) 
+  - [Animoji](#animoji) 
   - [Audio](#audio) 
   - [Content](#content) 
   - [GIF](#gif) 
@@ -3231,6 +3232,31 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 
+### Animoji 
+ 
+[back to top](#readme) 
+ 
+- Animoji Studio: Make Animoji videos with unlimited duration and share anywhere  
+  <details><summary><code>objc</code> <code>iphonex</code> 🔥🔥🔥</summary>
+
+  https://github.com/insidegui/AnimojiStudio<br>  Added November 26, 2017<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+  </details>
+
+- Animoke: Karaoke for your iPhone X  
+  <details><summary><code>swift</code> <code>iphonex</code> </summary>
+
+  https://github.com/BalestraPatrick/Animoke<br>  Added November 26, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- SBSAnimoji: Uses Apple's private framework AvatarKit  
+  <details><summary><code>swift</code> <code>iphonex</code> 🔥🔥</summary>
+
+  https://github.com/simonbs/SBSAnimoji<br>  Added November  7, 2017<br>  License: `other`
+  <div><img height='300' alt='SBSAnimoji image 1' src='https://github.com/simonbs/SBSAnimoji/raw/master/screenshot.png'> 
+</div>
+  </details>
+
+
 ### Audio 
  
 [back to top](#readme) 
@@ -3810,14 +3836,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/huijimuhe/prankPro<br>  Added March 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='prankPro image 1' src='https://i.imgur.com/geiofMw.png'> <img height='300' alt='prankPro image 2' src='https://i.imgur.com/fdYYztR.png'> <img height='300' alt='prankPro image 3' src='https://i.imgur.com/sh4pL25.png'> 
-</div>
-  </details>
-
-- SBSAnimoji: Animoji app using Apple's private framework AvatarKit  
-  <details><summary><code>swift</code> <code>iphonex</code> 🔥🔥</summary>
-
-  https://github.com/simonbs/SBSAnimoji<br>  Added November  7, 2017<br>  License: `other`
-  <div><img height='300' alt='SBSAnimoji image 1' src='https://github.com/simonbs/SBSAnimoji/raw/master/screenshot.png'> 
 </div>
   </details>
 
