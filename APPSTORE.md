@@ -32,6 +32,7 @@ Jump to
 - [Keyboard](#keyboard) 
 - [Location](#location) 
 - [Media](#media) 
+  - [Animoji](#animoji) 
   - [Audio](#audio) 
   - [Content](#content) 
   - [GIF](#gif) 
@@ -1618,6 +1619,11 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
+
+### Animoji 
+ 
+[back to top](#readme) 
+ 
 
 ### Audio 
  
