@@ -14508,10 +14508,8 @@
       "description": "Manage your Parse apps while you are on the go",
       "source": "https://github.com/nathantannar4/Parse-Dashboard-for-iOS",
       "screenshots": [
-        "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Schemas.png",
-        "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Class.png",
-        "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Query.png",
-        "https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Object.png"
+        "https://github.com/nathantannar4/Parse-Dashboard-for-iOS/raw/master/Screenshots/D.png?raw=true",
+        "https://github.com/nathantannar4/Parse-Dashboard-for-iOS/raw/master/Screenshots/E.png?raw=true"
       ],
       "date_added": "Oct 1 2017",
       "license": "mit",
