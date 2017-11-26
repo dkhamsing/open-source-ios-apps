@@ -1462,7 +1462,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- S.I.T. (雕刻时光): An app for Chinese cafe chain [Diaokeshiguang](https://www.sitcoffee.com/) [` App Store`](https://itunes.apple.com/app/diao-ke-shi-guang/id440983941)  
+- S.I.T. (雕刻时光): An app for Chinese cafe chain Diaokeshiguang (Sit Coffee) [` App Store`](https://itunes.apple.com/app/diao-ke-shi-guang/id440983941)  
   <details><summary><code>objc</code> 🇨🇳 </summary>
 
   https://github.com/flexih/Cafe<br>  Added April 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1474,7 +1474,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   <details><summary><code>swift</code> <code>carthage</code> <code>alamofire</code> <code>swiftyjson</code> <code>locationmanager</code> <code>swiftybeaver</code> <code>fontawesomekid</code> <code>permissionscope</code> 🇫🇷 </summary>
 
   https://github.com/RemyDCF/tpg-offline<br>  Added October 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='tpg offline image 1' src='https://raw.githubusercontent.com/RemyDCF/tpg-offline/master/Screenshot/Stops.png'> <img height='300' alt='tpg offline image 2' src='https://raw.githubusercontent.com/RemyDCF/tpg-offline/master/Screenshot/Departures.png'> <img height='300' alt='tpg offline image 3' src='https://raw.githubusercontent.com/RemyDCF/tpg-offline/master/Screenshot/Incidents.png'> <img height='300' alt='tpg offline image 4' src='https://raw.githubusercontent.com/RemyDCF/tpg-offline/master/Screenshot/Routes.png'> <img height='300' alt='tpg offline image 5' src='https://raw.githubusercontent.com/RemyDCF/tpg-offline/master/Screenshot/Settings.png'> 
+  <div><img height='300' alt='tpg offline image 1' src='http://is5.mzstatic.com/image/thumb/Purple118/v4/89/93/38/8993388e-d712-f774-f418-a3662a60aef1/source/392x696bb.jpg'> 
 </div>
   </details>
 
@@ -2930,7 +2930,7 @@ https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme)
   <details><summary><code>swift</code> <code>swiftyjson</code> </summary>
 
   https://github.com/nathantannar4/Parse-Dashboard-for-iOS<br>  Added October  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Parse Dashboard image 1' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Schemas.png'> <img height='300' alt='Parse Dashboard image 2' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Class.png'> <img height='300' alt='Parse Dashboard image 3' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Query.png'> <img height='300' alt='Parse Dashboard image 4' src='https://raw.githubusercontent.com/nathantannar4/Parse-Dashboard-for-iOS/master/Screenshots/Object.png'> 
+  <div><img height='300' alt='Parse Dashboard image 1' src='https://github.com/nathantannar4/Parse-Dashboard-for-iOS/raw/master/Screenshots/D.png?raw=true'> <img height='300' alt='Parse Dashboard image 2' src='https://github.com/nathantannar4/Parse-Dashboard-for-iOS/raw/master/Screenshots/E.png?raw=true'> 
 </div>
   </details>
 
