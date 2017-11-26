@@ -14637,6 +14637,7 @@
       "source": "https://github.com/insidegui/AnimojiStudio",
       "category-ids": ["animoji"],
       "tags": ["objc", "iphonex"],
+      "screenshots": ["https://raw.githubusercontent.com/insidegui/AnimojiStudio/master/screenshots/AnimojiStudio_Screens2.png"],
       "date_added": "Nov 26 2017",
       "license": "bsd-2-clause",
       "stars": 668,
