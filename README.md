@@ -507,7 +507,7 @@ Click ► to show more details
   <details><summary><code>objc</code> </summary>
 
   https://github.com/D-32/WatchPics<br>  Added April 10, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='WatchPics image 1' src='https://camo.githubusercontent.com/544c66f439b1328155ca4463c2fa73e514f80800/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7761746368706963732e6a7067'> 
+  <div><img height='300' alt='WatchPics image 1' src='https://i.imgur.com/pEIRuzr.jpg'> 
 </div>
   </details>
 
