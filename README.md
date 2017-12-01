@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-760-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%2026,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-760-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%20%201,%202017-lightgrey.svg)
 
 Jump to
 
@@ -969,7 +969,7 @@ Click ► to show more details
   </details>
 
 - Monal: Connect to your chat server without having to give a third party access to your password or messages [` App Store`](https://itunes.apple.com/app/monal-free-xmpp-chat/id317711500)  
-  <details><summary><code>xmpp</code> </summary>
+  <details><summary><code>xmpp</code> 🔥</summary>
 
   https://github.com/anurodhp/Monal<br>  Added November  7, 2016<br>  License: `other`
   <div><img height='300' alt='Monal image 1' src='http://a3.mzstatic.com/us/r30/Purple69/v4/ca/27/98/ca279896-a860-e33f-ef2c-cfdc1c62dbdc/screen696x696.jpeg'> <img height='300' alt='Monal image 2' src='http://a5.mzstatic.com/us/r30/Purple49/v4/24/53/b6/2453b64c-0c67-1e71-86f8-d96482ae992a/screen696x696.jpeg'> <img height='300' alt='Monal image 3' src='http://a2.mzstatic.com/us/r30/Purple69/v4/b2/e8/b2/b2e8b2f2-160e-19d2-1e38-94c9ab629b78/screen696x696.jpeg'> <img height='300' alt='Monal image 4' src='http://a4.mzstatic.com/us/r30/Purple69/v4/68/4c/ec/684cecd3-4d00-b658-9395-57ea1dafef47/screen696x696.jpeg'> <img height='300' alt='Monal image 5' src='http://a3.mzstatic.com/us/r30/Purple69/v4/c4/58/60/c458604e-d368-eb11-c315-7631bece7485/screen696x696.jpeg'> 
@@ -1206,7 +1206,7 @@ Click ► to show more details
   </details>
 
 - Expo Client: Developer tool for creating experiences with interactive gestures & graphics [` App Store`](https://itunes.apple.com/app/expo-client/id982107779)  
-  <details><summary><code>react-native</code> <code>javascript</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>react-native</code> <code>javascript</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/expo/expo<br>  https://expo.io/<br>  Added April 28, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   <div><img height='300' alt='Expo Client image 1' src='http://a4.mzstatic.com/us/r30/Purple111/v4/42/1e/6e/421e6e4d-2524-5e1a-93aa-b8159d48a8fa/screen696x696.jpeg'> 
@@ -1363,7 +1363,7 @@ Click ► to show more details
   </details>
 
 - GitHawk: GitHub project manager [` App Store`](https://itunes.apple.com/app/githawk-for-github/id1252320249)  
-  <details><summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> 🔥🔥🔥</summary>
 
   https://github.com/rnystrom/GitHawk<br>  Added July  5, 2017<br>  License: `other`
   <div><img height='300' alt='GitHawk image 1' src='http://i.imgur.com/XwW4MI2.png'> <img height='300' alt='GitHawk image 2' src='http://i.imgur.com/sFgTFJX.png'> 
@@ -2202,7 +2202,7 @@ Click ► to show more details
   </details>
 
 - Hostile Takeover: A release of the real time strategy game Warfare Incorporated  
-  <details><summary><code>objc</code> </summary>
+  <details><summary><code>objc</code> 🔥</summary>
 
   https://github.com/spiffcode/hostile-takeover<br>  Added June  1, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
   <div><img height='300' alt='Hostile Takeover image 1' src='https://i.imgur.com/PQ1QX2u.jpg'> 
@@ -2680,7 +2680,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 [back to top](#readme) 
  
 - AA-Keyboard: ASCII art keyboard [` App Store`](https://itunes.apple.com/app/aa-keyboard/id964182815)  
-  <details><summary><code>objc</code> </summary>
+  <details><summary><code>objc</code> 🔥</summary>
 
   https://github.com/sonsongithub/AAKeyboard<br>  Added July  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='AA-Keyboard image 1' src='http://a5.mzstatic.com/us/r30/Purple6/v4/28/59/25/285925a7-b4c8-0042-d59c-5ac9ae854189/screen696x696.jpeg'> <img height='300' alt='AA-Keyboard image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/9f/aa/14/9faa14df-83e2-1503-67e1-d482539dca69/screen696x696.jpeg'> 
@@ -2843,7 +2843,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   </details>
 
 - Locative: Helping you to get the best out of your automated home, geofencing, iBeacons [` App Store`](https://itunes.apple.com/app/locative/id725198453)  
-  <details><summary><code>objc</code> 🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/LocativeHQ/Locative-iOS<br>  Added December 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Locative image 1' src='http://a4.mzstatic.com/us/r30/Purple22/v4/21/c1/5b/21c15b39-59ac-cb25-0aea-857ada781327/screen696x696.jpeg'> <img height='300' alt='Locative image 2' src='http://a3.mzstatic.com/us/r30/Purple41/v4/e9/2c/30/e92c3020-50f6-3ec9-0f05-93af09dfc536/screen696x696.jpeg'> <img height='300' alt='Locative image 3' src='http://a1.mzstatic.com/us/r30/Purple41/v4/9f/63/01/9f630162-1043-5aec-83f7-38c0a056da9c/screen696x696.jpeg'> <img height='300' alt='Locative image 4' src='http://a1.mzstatic.com/us/r30/Purple71/v4/38/51/6b/38516bb5-8934-1fb6-876a-9b24b3549cb4/screen696x696.jpeg'> <img height='300' alt='Locative image 5' src='http://a3.mzstatic.com/us/r30/Purple62/v4/bc/20/18/bc201818-03fe-d866-a9e0-2fd72085b93a/screen696x696.jpeg'> 
@@ -3251,7 +3251,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - SBSAnimoji: Uses Apple's private framework AvatarKit  
-  <details><summary><code>swift</code> <code>iphonex</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> <code>iphonex</code> 🔥🔥🔥</summary>
 
   https://github.com/simonbs/SBSAnimoji<br>  Added November  7, 2017<br>  License: `other`
   <div><img height='300' alt='SBSAnimoji image 1' src='https://github.com/simonbs/SBSAnimoji/raw/master/screenshot.png'> 
@@ -3421,7 +3421,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - Good Living Guide: home snacks, gifts, beauty, shopping.. [` App Store`](https://itunes.apple.com/app/id1021442122)  
-  <details><summary><code>swift</code> 🇨🇳 🔥🔥</summary>
+  <details><summary><code>swift</code> 🇨🇳 🔥🔥🔥</summary>
 
   https://github.com/hrscy/DanTang<br>  Added August  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Good Living Guide: home snacks, gifts, beauty, shopping.. image 1' src='http://a4.mzstatic.com/us/r30/Purple1/v4/7a/5f/b7/7a5fb7a2-e038-2b81-63b6-8b76872b86fe/screen696x696.jpeg'> 
@@ -4635,7 +4635,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - Reusable Code  
-  <details><summary><code>swift</code> <code>airdrop</code> <code>avfoundation</code> <code>coreanimation</code> <code>coreimage</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>swift</code> <code>airdrop</code> <code>avfoundation</code> <code>coreanimation</code> <code>coreimage</code> </summary>
 
   https://github.com/carlosengr/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -4911,7 +4911,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - Potter Pics: Harry Potter themed social network similar to Instagram.  
-  <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> </summary>
+  <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> 🔥</summary>
 
   https://github.com/surayashivji/PotterPics<br>  Added January 15, 2017
   <div><img height='300' alt='Potter Pics image 1' src='https://github.com/surayashivji/PotterPics/blob/master/Overview.gif'> 
@@ -5127,7 +5127,7 @@ https://mastodon.social — [back to top](#readme)
   </details>
 
 - Standard Notes: Notes app with focus on longevity, portability & privacy [` App Store`](https://itunes.apple.com/app/standard-notes/id1285392450)  
-  <details><summary><code>react-native</code> </summary>
+  <details><summary><code>react-native</code> 🔥</summary>
 
   https://github.com/standardnotes/mobile<br>  Added January 18, 2017<br>  License: `other`
   <div><img height='300' alt='Standard Notes image 1' src='http://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg'> 
@@ -5431,7 +5431,7 @@ https://mastodon.social — [back to top](#readme)
   </details>
 
 - FreeRDP: An implementation of the Remote Desktop Protocol (RDP) [` App Store`](https://itunes.apple.com/app/ifreerdp/id604813768)  
-  <details><summary><code>objc</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/FreeRDP/FreeRDP<br>  http://www.freerdp.com/<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='FreeRDP image 1' src='http://a1.mzstatic.com/us/r30/Purple2/v4/e3/12/7a/e3127ad7-99e8-c4f7-225a-dc99edf760d9/screen696x696.jpeg'> <img height='300' alt='FreeRDP image 2' src='http://a1.mzstatic.com/us/r30/Purple/v4/d9/c9/4b/d9c94b66-389b-0b57-cd54-794a2aa18d7f/screen696x696.jpeg'> <img height='300' alt='FreeRDP image 3' src='http://a3.mzstatic.com/us/r30/Purple2/v4/aa/59/90/aa59909a-ddfb-2c80-1814-dba25350d4d4/screen696x696.jpeg'> <img height='300' alt='FreeRDP image 4' src='http://a2.mzstatic.com/us/r30/Purple/v4/ff/c2/c3/ffc2c3cc-23da-490e-13a3-f827a61dac70/screen696x696.jpeg'> 
@@ -5668,7 +5668,7 @@ https://mastodon.social — [back to top](#readme)
   </details>
 
 - Reusable Code  
-  <details><summary><code>swift</code> <code>airdrop</code> <code>avfoundation</code> <code>coreanimation</code> <code>coreimage</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>swift</code> <code>airdrop</code> <code>avfoundation</code> <code>coreanimation</code> <code>coreimage</code> </summary>
 
   https://github.com/carlosengr/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -5751,7 +5751,7 @@ https://firebase.google.com/ — [back to top](#readme)
   </details>
 
 - Potter Pics: Harry Potter themed social network similar to Instagram.  
-  <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> </summary>
+  <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> 🔥</summary>
 
   https://github.com/surayashivji/PotterPics<br>  Added January 15, 2017
   <div><img height='300' alt='Potter Pics image 1' src='https://github.com/surayashivji/PotterPics/blob/master/Overview.gif'> 
