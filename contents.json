@@ -4860,12 +4860,12 @@
       "title": "Reusable Code",
       "category-ids": [
         "sample",
-        "core-data",
-        "archive"
+        "core-data"
       ],
-      "source": "https://github.com/opensourceios/Swift",
+      "source": "https://github.com/opensourceios/Swift-Reusable-Code",
       "stars": 0,
       "tags": [
+        "archive",
         "swift",
         "airdrop",
         "avfoundation",
