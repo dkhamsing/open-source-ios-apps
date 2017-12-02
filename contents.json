@@ -5427,12 +5427,12 @@
       "suggested_by": "metasmile"
     },
     {
-      "title": "SwiftWeather",
+      "title": "SwiftLanguageWeather",
       "category-ids": [
         "weather"
       ],
       "license": "mit",
-      "source": "https://github.com/JakeLin/SwiftWeather",
+      "source": "https://github.com/JakeLin/SwiftLanguageWeather",
       "stars": 4586,
       "tags": [
         "swift"
