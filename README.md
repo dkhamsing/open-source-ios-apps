@@ -5339,11 +5339,11 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- SwiftWeather  
+- SwiftLanguageWeather  
   <details><summary><code>swift</code> 🔥🔥🔥🔥🔥</summary>
 
-  https://github.com/JakeLin/SwiftWeather<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='SwiftWeather image 1' src='https://i.imgur.com/9Ofn3QC.jpg'> 
+  https://github.com/JakeLin/SwiftLanguageWeather<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='SwiftLanguageWeather image 1' src='https://i.imgur.com/9Ofn3QC.jpg'> 
 </div>
   </details>
 
