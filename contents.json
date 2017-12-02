@@ -4860,9 +4860,10 @@
       "title": "Reusable Code",
       "category-ids": [
         "sample",
-        "core-data"
+        "core-data",
+        "archive"
       ],
-      "source": "https://github.com/carlosengr/Swift",
+      "source": "https://github.com/opensourceios/Swift",
       "stars": 0,
       "tags": [
         "swift",
