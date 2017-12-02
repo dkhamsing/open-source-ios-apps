@@ -81,6 +81,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Product Catalogue https://github.com/contentful/product-catalogue-swift
 - ProMonster https://github.com/usemobile/promonster-ios
 - Repo https://github.com/ricburton/Repo
+- Reusable Code https://github.com/opensourceios/Swift-Reusable-Code
 - Revolved https://github.com/Ciechan/Revolved
 - Scratch https://github.com/johnmci/Scratch.app.for.iOS
 - Shuttle-Tracker https://github.com/AbstractedSheep/Shuttle-Tracker
