@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-760-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%20%201,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-760-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%20%202,%202017-lightgrey.svg)
 
 Jump to
 
@@ -4634,12 +4634,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   https://github.com/JensRavens/ReactiveKitten<br>  Added May 11, 2016<br>  License: `other`
   </details>
 
-- Reusable Code  
-  <details><summary><code>swift</code> <code>airdrop</code> <code>avfoundation</code> <code>coreanimation</code> <code>coreimage</code> </summary>
-
-  https://github.com/carlosengr/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
 - RKGist: GitHub Gists  
   <details><summary><code>restkit</code> </summary>
 
@@ -5665,12 +5659,6 @@ https://mastodon.social — [back to top](#readme)
   https://github.com/objcio/issue-4-full-core-data-application<br>  Added August  7, 2015<br>  License: `other`
   <div><img height='300' alt='Nested Lists image 1' src='https://i.imgur.com/z8Xw0qC.png'> <img height='300' alt='Nested Lists image 2' src='https://i.imgur.com/M5pwaAf.png'> 
 </div>
-  </details>
-
-- Reusable Code  
-  <details><summary><code>swift</code> <code>airdrop</code> <code>avfoundation</code> <code>coreanimation</code> <code>coreimage</code> </summary>
-
-  https://github.com/carlosengr/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - Tagger: Help tag your photos on Instagram or Flickr  
