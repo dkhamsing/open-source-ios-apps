@@ -14663,6 +14663,17 @@
       "license": "bsd-2-clause",
       "stars": 688,
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "mosaix",
+      "description": "Create photo mosaic",
+      "source": "https://github.com/shelly/mosaix",
+      "tags": ["swift", "metal"],
+      "screenshots": ["https://hunt.blob.core.windows.net/web-images/parallel/gates.jpg"],
+      "category-ids": ["photo"],
+      "date_added": "Dec 10 2017",
+      "license": "other",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
