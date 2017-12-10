@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-760-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%20%202,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-761-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%2010,%202017-lightgrey.svg)
 
 Jump to
 
@@ -3777,6 +3777,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/AaronRandall/Megabite<br>  Added February  2, 2016<br>  License: `other`
   <div><img height='300' alt='Megabite image 1' src='https://github.com/AaronRandall/Megabite/raw/master/Megabite/Assets.xcassets/Megabite.gif'> 
+</div>
+  </details>
+
+- mosaix: Create photo mosaic  
+  <details><summary><code>swift</code> <code>metal</code> </summary>
+
+  https://github.com/shelly/mosaix<br>  Added December 10, 2017<br>  License: `other`
+  <div><img height='300' alt='mosaix image 1' src='https://hunt.blob.core.windows.net/web-images/parallel/gates.jpg'> 
 </div>
   </details>
 
