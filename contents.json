@@ -3383,18 +3383,20 @@
       "category-ids": [
         "audio"
       ],
-      "description": "Make Your Own Sample Music Instrument App",
+      "description": "Make your own sample music instrument",
       "source": "https://github.com/AudioKit/ROMPlayer",
-      "itunes": "https://itunes.apple.com/us/app/fm-player-classic-dx-synths/id1307785646?ls=1&mt=8",
+      "itunes": "https://itunes.apple.com/app/fm-player-classic-dx-synths/id1307785646",
       "homepage": "https://audiokitpro.com/rom-player-code/",
       "tags": [
-        "swift4"
+        "swift4",
+        "swift",
+        "ipad"
       ],
       "screenshots": [
         "https://audiokitpro.com/wp-content/uploads/2017/11/romplayer.png"
       ],
       "license": "mit",
-      "stars": 100,
+      "stars": 128,
       "date_added": "Tue Dec 12 09:01:56 2017 -0800",
       "suggested_by": "@swiftcodex"
     },
