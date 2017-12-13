@@ -3364,8 +3364,8 @@
       "category-ids": [
         "audio"
       ],
-      "description": "Analog synthesizer keyboard music app",
-      "source": "http://matthewfecher.com/app-developement/swift-synth/",
+      "description": "Simple analog synthesizer keyboard music app example",
+      "source": "http://audiokit.io/examples/AnalogSynthX/",
       "homepage": "https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX",
       "tags": [
         "swift",
@@ -3377,6 +3377,26 @@
       "license": "mit",
       "date_added": "Mon Feb 1 09:01:56 2016 -0800",
       "suggested_by": "@dkhamsing"
+    },
+      {
+      "title": "AudioKit ROM Player",
+      "category-ids": [
+        "audio"
+      ],
+      "description": "Make Your Own Sample Music Instrument App",
+      "source": "https://github.com/AudioKit/ROMPlayer",
+      "itunes": "https://itunes.apple.com/us/app/fm-player-classic-dx-synths/id1307785646?ls=1&mt=8",
+      "homepage": "https://audiokitpro.com/rom-player-code/",
+      "tags": [
+        "swift4"
+      ],
+      "screenshots": [
+        "https://audiokitpro.com/wp-content/uploads/2017/11/romplayer.png"
+      ],
+      "license": "mit",
+      "stars": 100,
+      "date_added": "Tue Dec 12 09:01:56 2017 -0800",
+      "suggested_by": "@swiftcodex"
     },
     {
       "title": "Artsy",
