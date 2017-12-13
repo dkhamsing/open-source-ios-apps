@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-761-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%2010,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-762-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%2013,%202017-lightgrey.svg)
 
 Jump to
 
@@ -3263,11 +3263,19 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Analog Synth X: Analog synthesizer keyboard music app  
+- Analog Synth X: Simple analog synthesizer keyboard music app example  
   <details><summary><code>swift</code> <code>swift2</code> </summary>
 
-  http://matthewfecher.com/app-developement/swift-synth/<br>  https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX<br>  Added February  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  http://audiokit.io/examples/AnalogSynthX/<br>  https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX<br>  Added February  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Analog Synth X image 1' src='https://cdn-images-1.medium.com/max/800/1*hj0rxmPvapxpY1URdvw97A.png'> 
+</div>
+  </details>
+
+- AudioKit ROM Player: Make your own sample music instrument [` App Store`](https://itunes.apple.com/app/fm-player-classic-dx-synths/id1307785646)  
+  <details><summary><code>swift</code> <code>swift4</code> <code>ipad</code> 🔥</summary>
+
+  https://github.com/AudioKit/ROMPlayer<br>  https://audiokitpro.com/rom-player-code/<br>  Added December 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='AudioKit ROM Player image 1' src='https://audiokitpro.com/wp-content/uploads/2017/11/romplayer.png'> 
 </div>
   </details>
 
