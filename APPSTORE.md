@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **283** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **284** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1629,6 +1629,14 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- AudioKit ROM Player: Make your own sample music instrument [` App Store`](https://itunes.apple.com/app/fm-player-classic-dx-synths/id1307785646)  
+  <details><summary><code>swift</code> <code>swift4</code> <code>ipad</code> 🔥</summary>
+
+  https://github.com/AudioKit/ROMPlayer<br>  https://audiokitpro.com/rom-player-code/<br>  Added December 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='AudioKit ROM Player image 1' src='https://audiokitpro.com/wp-content/uploads/2017/11/romplayer.png'> 
+</div>
+  </details>
+
 - Helio Workstation: Lightweight music creation playground [` App Store`](https://itunes.apple.com/app/id943796588)  
   <details><summary><code>ipad</code> <code>c++</code> 🔥🔥🔥🔥</summary>
 
