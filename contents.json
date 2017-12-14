@@ -6352,25 +6352,6 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Yorkie",
-      "category-ids": [
-        "misc"
-      ],
-      "description": "Helps you take care of your dog",
-      "source": "https://github.com/opensourceios/YorkieApp",
-      "itunes": "https://itunes.apple.com/app/Yorkie/id1000836606",
-      "tags": [
-        "archive"
-      ],
-      "stars": 0,
-      "license": "mit",
-      "date_added": "Sun Feb 28 18:45:12 2016 +0100",
-      "suggested_by": "Carlos Butron",
-      "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple7/v4/cd/be/78/cdbe78cd-bcd6-5e05-1034-0557b115989f/screen696x696.jpeg"
-      ]
-    },
-    {
       "title": "ForceSketch",
       "category-ids": [
         "3d-touch"
