@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-762-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%2013,%202017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-763-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%2021,%202017-lightgrey.svg)
 
 Jump to
 
@@ -1895,6 +1895,14 @@ Click ► to show more details
 </div>
   </details>
 
+- Exchanger: Exchange currencies from multiply wallets on ECB exchange rates  
+  <details><summary><code>viper</code> <code>objc</code> <code>core-data</code> </summary>
+
+  https://github.com/vkaltyrin/exchanger<br>  Added December 21, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Exchanger image 1' src='https://github.com/vkaltyrin/exchanger/blob/master/screenshot.png?raw=true'> 
+</div>
+  </details>
+
 - Neverlate: Pay-if-U-R-late app with geofences  
   <details><summary><code>venmo api</code> </summary>
 
@@ -2751,14 +2759,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
   https://github.com/filipealva/Cepp<br>  Added November  4, 2016<br>  License: `other`
   <div><img height='300' alt='Cepp image 1' src='https://raw.githubusercontent.com/filipealva/Cepp/res/searchi5.png'> <img height='300' alt='Cepp image 2' src='https://raw.githubusercontent.com/filipealva/Cepp/res/detailsi5.png'> 
-</div>
-  </details>
-
-- Closebox: Find the Closest Postbox [` App Store`](https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813)  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/peteog/Closebox<br>  Added May 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Closebox image 1' src='http://a2.mzstatic.com/eu/r30/Purple1/v4/5d/9b/8d/5d9b8d65-42b1-f847-d532-bb1cf37e19c7/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -6474,6 +6474,14 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
 
   https://github.com/tirupati17/loan-emi-calculator-clean-swift<br>  Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='EMI Calculator image 1' src='http://a2.mzstatic.com/us/r30/Purple20/v4/20/94/8a/20948a2b-3d8d-e65b-2831-a582d912ed13/screen696x696.jpeg'> <img height='300' alt='EMI Calculator image 2' src='http://a3.mzstatic.com/us/r30/Purple49/v4/aa/6a/2f/aa6a2f8a-d067-725a-e1f4-83caeaac8e75/screen696x696.jpeg'> <img height='300' alt='EMI Calculator image 3' src='http://a3.mzstatic.com/us/r30/Purple30/v4/e6/87/fb/e687fb83-cd3d-6b40-2d3b-94f6fd1e82a5/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Exchanger: Exchange currencies from multiply wallets on ECB exchange rates  
+  <details><summary><code>viper</code> <code>objc</code> <code>core-data</code> </summary>
+
+  https://github.com/vkaltyrin/exchanger<br>  Added December 21, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Exchanger image 1' src='https://github.com/vkaltyrin/exchanger/blob/master/screenshot.png?raw=true'> 
 </div>
   </details>
 
