@@ -8160,8 +8160,9 @@
       "category-ids": [
         "location"
       ],
+      "tags": ["archive"],
       "license": "mit",
-      "source": "https://github.com/peteog/Closebox",
+      "source": "https://github.com/opensourceios/Closebox",
       "itunes": "https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813",
       "stars": 4,
       "date_added": "Fri May 13 18:38:28 2016 +0100",
