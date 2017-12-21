@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **284** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **283** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1334,14 +1334,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Closebox: Find the Closest Postbox [` App Store`](https://itunes.apple.com/gb/app/closebox-find-closest-postbox/id556364813)  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/peteog/Closebox<br>  Added May 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Closebox image 1' src='http://a2.mzstatic.com/eu/r30/Purple1/v4/5d/9b/8d/5d9b8d65-42b1-f847-d532-bb1cf37e19c7/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Compass: Minimal compass [` App Store`](https://itunes.apple.com/app/compass-a-minimal-compass-app/id1231545538)  
   <details><summary><code>swift</code> </summary>
 
