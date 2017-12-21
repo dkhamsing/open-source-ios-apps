@@ -26,6 +26,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Cheddar https://github.com/nothingmagical/cheddar-ios
 - Chess https://github.com/mjcuva/Chess
 - climbers https://github.com/haqu/climbers
+- Closebox https://github.com/opensourceios/Closebox
 - CoinTracker https://github.com/gregheo/CoinTracker
 - ColorCipher https://github.com/obviousjim/ColorCipher
 - Communiqué https://github.com/zadr/Communique
