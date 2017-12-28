@@ -14722,6 +14722,7 @@
     {
       "title": "ReviewMonitor",
       "category-ids": ["developer"],
+      "tags": ["swift],
       "description": "iTunes Connect app which is actually useful",
       "source": "https://github.com/RishabhTayal/ReviewMonitor",
       "screenshots": ["https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot1.png?raw=true", "https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot2.png?raw=true"],
