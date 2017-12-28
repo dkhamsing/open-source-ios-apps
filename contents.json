@@ -14718,6 +14718,15 @@
       "date_added": "Dec 21 2017",
       "suggested_by": "@vkaltyrin",
       "stars": 0
+    },
+    {
+      "title": "ReviewMonitor",
+      "category-ids": ["developer"],
+      "description": "iTunes Connect app which is actually useful",
+      "source": "https://github.com/RishabhTayal/ReviewMonitor",
+      "screenshots": ["https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot1.png?raw=true", "https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot2.png?raw=true"],
+      "date_added": "Dec 27 2017",
+      "suggested_by": "@RishabhTayal"
     }
   ]
 }
