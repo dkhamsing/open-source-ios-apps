@@ -495,9 +495,9 @@
         "apple-watch"
       ],
       "source": "https://github.com/noodlewerk/Apple_Watch_Calculator",
-      "homepage": "http://www.noodlewerk.com/blog/calculator-apple-watch-tutorial/",
+      "homepage": "http://noodlewerk.com/blog/calculator-apple-watch-tutorial/",
       "screenshots": [
-        "http://www.noodlewerk.com/images/watch_header.jpg"
+        "http://noodlewerk.com/images/watch_header.jpg"
       ],
       "tags": [
         "swift"
@@ -14722,7 +14722,7 @@
     {
       "title": "ReviewMonitor",
       "category-ids": ["developer"],
-      "tags": ["swift],
+      "tags": ["swift"],
       "description": "iTunes Connect app which is actually useful",
       "source": "https://github.com/RishabhTayal/ReviewMonitor",
       "screenshots": ["https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot1.png?raw=true", "https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot2.png?raw=true"],
