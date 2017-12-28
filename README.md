@@ -274,8 +274,8 @@ Click ► to show more details
 - Calculator by noodlewerk  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/noodlewerk/Apple_Watch_Calculator<br>  http://www.noodlewerk.com/blog/calculator-apple-watch-tutorial/<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Calculator by noodlewerk image 1' src='http://www.noodlewerk.com/images/watch_header.jpg'> 
+  https://github.com/noodlewerk/Apple_Watch_Calculator<br>  http://noodlewerk.com/blog/calculator-apple-watch-tutorial/<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Calculator by noodlewerk image 1' src='http://noodlewerk.com/images/watch_header.jpg'> 
 </div>
   </details>
 
@@ -1302,7 +1302,7 @@ Click ► to show more details
   </details>
 
 - ReviewMonitor: iTunes Connect app which is actually useful  
-  <details><summary><code>objc</code> </summary>
+  <details><summary><code>swift</code> </summary>
 
   https://github.com/RishabhTayal/ReviewMonitor<br>  Added December 27, 2017
   <div><img height='300' alt='ReviewMonitor image 1' src='https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot1.png?raw=true'> <img height='300' alt='ReviewMonitor image 2' src='https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot2.png?raw=true'> 
