@@ -421,7 +421,7 @@ Click ► to show more details
   </details>
 
 - Riot: Collaboration for teams, chat & share with https://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
-  <details><summary><code>webrtc</code> <code>realm</code> 🔥</summary>
+  <details><summary><code>webrtc</code> <code>realm</code> 🔥🔥</summary>
 
   https://github.com/vector-im/riot-ios<br>  https://vector.im/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Riot image 1' src='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'> 
@@ -1622,7 +1622,7 @@ Image, video, audio, reading — [back to top](#readme)
 [back to top](#readme) 
  
 - AudioKit ROM Player: Make your own sample music instrument [` App Store`](https://itunes.apple.com/app/fm-player-classic-dx-synths/id1307785646)  
-  <details><summary><code>swift</code> <code>swift4</code> <code>ipad</code> 🔥</summary>
+  <details><summary><code>swift</code> <code>swift4</code> <code>ipad</code> 🔥🔥</summary>
 
   https://github.com/AudioKit/ROMPlayer<br>  https://audiokitpro.com/rom-player-code/<br>  Added December 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='AudioKit ROM Player image 1' src='https://audiokitpro.com/wp-content/uploads/2017/11/romplayer.png'> 
@@ -3015,7 +3015,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 https://realm.io/ — [back to top](#readme) 
  
 - Riot: Collaboration for teams, chat & share with https://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
-  <details><summary><code>webrtc</code> <code>realm</code> 🔥</summary>
+  <details><summary><code>webrtc</code> <code>realm</code> 🔥🔥</summary>
 
   https://github.com/vector-im/riot-ios<br>  https://vector.im/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Riot image 1' src='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'> 
