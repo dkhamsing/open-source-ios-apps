@@ -495,9 +495,9 @@
         "apple-watch"
       ],
       "source": "https://github.com/noodlewerk/Apple_Watch_Calculator",
-      "homepage": "http://noodlewerk.com/blog/calculator-apple-watch-tutorial/",
+      "homepage": "https://noodlewerk.com/blog/calculator-apple-watch-tutorial/",
       "screenshots": [
-        "http://noodlewerk.com/images/watch_header.jpg"
+        "https://noodlewerk.com/images/watch_header.jpg"
       ],
       "tags": [
         "swift"
@@ -3964,7 +3964,7 @@
       ],
       "description": "Professional radio station app",
       "license": "mit",
-      "source": "https://github.com/swiftcodex/Swift-Radio-Pro",
+      "source": "https://github.com/analogcode/Swift-Radio-Pro",
       "stars": 1873,
       "screenshots": [
         "https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png "
