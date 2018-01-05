@@ -274,8 +274,8 @@ Click ► to show more details
 - Calculator by noodlewerk  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/noodlewerk/Apple_Watch_Calculator<br>  http://noodlewerk.com/blog/calculator-apple-watch-tutorial/<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Calculator by noodlewerk image 1' src='http://noodlewerk.com/images/watch_header.jpg'> 
+  https://github.com/noodlewerk/Apple_Watch_Calculator<br>  https://noodlewerk.com/blog/calculator-apple-watch-tutorial/<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Calculator by noodlewerk image 1' src='https://noodlewerk.com/images/watch_header.jpg'> 
 </div>
   </details>
 
@@ -3338,7 +3338,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Swift Radio Pro: Professional radio station app  
   <details><summary><code>swift</code> <code>swift2</code> 🔥🔥🔥🔥</summary>
 
-  https://github.com/swiftcodex/Swift-Radio-Pro<br>  Added January 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/analogcode/Swift-Radio-Pro<br>  Added January 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Swift Radio Pro image 1' src='https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png '> 
 </div>
   </details>
