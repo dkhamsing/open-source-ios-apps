@@ -14746,6 +14746,30 @@
       "date_added": "Dec 27 2017",
       "suggested_by": "@RishabhTayal",
       "stars": 82
+    },
+    {
+      "title": "iOSDesignPatternSamples",
+      "category-ids": [
+        "sample"
+      ],
+      "license": "mit",
+      "tags": [
+        "swift",
+        "mvc",
+        "mvp",
+        "mvvm",
+        "flux",
+        "design-patterns"
+      ],
+      "description": "Github user search demo app which made by many variety of design patterns.",
+      "source": "https://github.com/marty-suzuki/iOSDesignPatternSamples",
+      "screenshots": [
+        "https://github.com/marty-suzuki/iOSDesignPatternSamples/blob/master/Images/app.gif?raw=true",
+        "https://github.com/marty-suzuki/iOSDesignPatternSamples/blob/master/Images/diff.png?raw=true"
+      ],
+      "date_added": "Jan 5 2018",
+      "suggested_by": "@marty-suzuki",
+      "stars": 288
     }
   ]
 }
