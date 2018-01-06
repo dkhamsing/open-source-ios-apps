@@ -13,6 +13,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - apnagent-ios https://github.com/logicalparadox/apnagent-ios
 - AppleWatchProductHunt https://github.com/BalestraPatrick/AppleWatchProductHunt
 - AppSales-Mobile https://github.com/omz/AppSales-Mobile
+- AppSlate https://github.com/Taehan-Kim/AppSlate
 - audiograph https://github.com/tkzic/audiograph
 - Bancha https://github.com/squallstar/bancha-ios-app
 - Battle for Wesnoth https://github.com/dailin/wesnoth_ios
@@ -27,6 +28,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Chess https://github.com/mjcuva/Chess
 - climbers https://github.com/haqu/climbers
 - Closebox https://github.com/opensourceios/Closebox
+- Coins https://github.com/nothingmagical/coins
 - CoinTracker https://github.com/gregheo/CoinTracker
 - ColorCipher https://github.com/obviousjim/ColorCipher
 - Communiqué https://github.com/zadr/Communique
@@ -49,7 +51,12 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - gbible https://github.com/photokandyStudios/gbible
 - github-issues https://github.com/chriseidhof/github-issues
 - Google Feud https://github.com/opensourceios/Google-Feud-iOS
+- Gorillas https://github.com/Lyndir/Gorillas
 - Hack Cancer Hackathon https://github.com/HackCancer/iOS
+- HausClock https://github.com/nottombrown/HausClock
+- Hodor https://github.com/jonomuller/Hodor-Keyboard
+- iBeaconTasks https://github.com/TomekB/iBeaconTasks
+- iContactU https://github.com/rizal72/iContactU
 - iLabyrinth https://github.com/RolandasRazma/iLabyrinth
 - iOctocat https://github.com/dennisreimann/ioctocat
 - iStockcheck https://github.com/AndrewBennet/iStockcheck
@@ -64,6 +71,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Mugician https://github.com/rfielding/Mugician
 - Mume https://github.com/opensourceios/Mume
 - Munch https://github.com/opensourceios/Munch
+- MyAwesomeChecklist https://github.com/imod/MyAwesomeChecklist
 - NatsuLion https://github.com/takuma104/ntlniph
 - OpenCB https://github.com/opensourceios/OpenCB
 - OpenClien https://github.com/kewlbear/OpenClien
@@ -81,6 +89,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Potatso https://github.com/opensourceios/Potatso
 - Product Catalogue https://github.com/contentful/product-catalogue-swift
 - ProMonster https://github.com/usemobile/promonster-ios
+- Reddit https://github.com/amitburst/reddit-demo
 - Repo https://github.com/ricburton/Repo
 - Reusable Code https://github.com/opensourceios/Swift-Reusable-Code
 - Revolved https://github.com/Ciechan/Revolved
@@ -93,8 +102,11 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - SudokuResolv https://github.com/Haoest/SudokuResolv
 - Swift Off https://github.com/opensourceios/swift-off-todo
 - TaskPaper https://github.com/jessegrosjean/NOTTaskPaperForIOS
+- Tether https://github.com/chrisballinger/Tether-iOS
+- TextEthan https://github.com/thii/TextEthan
 - The Spin Zone https://github.com/opensourceios/Spin-Zone
 - theNews https://github.com/TosinAF/thenews-objc
+- TheReservist https://github.com/kimar/TheReservist
 - Tic-tac-toe https://github.com/ijoshsmith/swift-tic-tac-toe
 - TicTacToe https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/TicTacToe
 - Toggl Timer https://github.com/opensourceios/toggle-mobile
