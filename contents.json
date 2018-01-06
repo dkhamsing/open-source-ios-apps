@@ -456,7 +456,8 @@
       "source": "https://github.com/contentful/ContentfulWatchKitExample",
       "itunes": "https://itunes.apple.com/app/id986830433",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "stars": 73,
       "date_added": "Wed Apr 29 16:01:24 2015 +0200",
@@ -500,7 +501,8 @@
         "https://noodlewerk.com/images/watch_header.jpg"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "stars": 12,
       "license": "mit",
@@ -538,7 +540,8 @@
         "https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "date_added": "Thu Feb 26 13:08:29 2015 -0800",
       "suggested_by": "@dkhamsing"
@@ -552,7 +555,8 @@
         "apple-watch"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "license": "mit",
       "source": "https://github.com/swilliams/watchkit-connectivity-demo",
@@ -569,7 +573,8 @@
       "license": "mit",
       "source": "https://github.com/neonichu/CoolSpot",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/neonichu/CoolSpot/master/Screenshots/watch-playback.png",
@@ -626,7 +631,8 @@
         "apple-watch"
       ],
       "tags": [
-        "flickr api"
+        "flickr api",
+        "archive"
       ],
       "screenshots": [
         "https://camo.githubusercontent.com/09d4726f3b100b9c6b313b2bbae038538a2cda3e/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43414b3762743455384141396b31532e706e67"
@@ -708,7 +714,8 @@
       "source": "https://github.com/GetHighstreet/HighstreetWatchApp",
       "stars": 352,
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/GetHighstreet/HighstreetWatchApp/raw/master/Documentation/Assets/walkthrough.gif"
@@ -764,7 +771,8 @@
       "description": "Real-time age ticker",
       "source": "https://github.com/Jasdev/Impulse",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://camo.githubusercontent.com/5b89b213947316f8a914e897db3033d41e824bd3/687474703a2f2f692e696d6775722e636f6d2f334359524e6a4c2e706e67"
@@ -839,7 +847,8 @@
         "https://i.imgur.com/gazVTKg.jpg"
       ],
       "tags": [
-        "watchkit"
+        "watchkit",
+        "archive"
       ],
       "stars": 41,
       "date_added": "Wed May 13 07:16:25 2015 -0700",
@@ -916,7 +925,8 @@
       "description": "Countdown app",
       "source": "https://github.com/sandofsky/soon",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/sandofsky/soon/raw/master/screenshot.png"
@@ -954,7 +964,8 @@
       "source": "https://github.com/DanToml/Watchman",
       "tags": [
         "swift",
-        "watchos2"
+        "watchos2",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/DanielTomlinson/Watchman/master/IMG_2196.jpg"
@@ -1022,7 +1033,8 @@
       "description": "Snake game",
       "source": "https://github.com/davidcairns/-WatchSnake",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/POfmbkq.png",
@@ -1042,7 +1054,8 @@
       "description": "Track your stocks portfolio, includes a watch face complication",
       "source": "https://github.com/G2Jose/WatchStocks",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/willedflipper66/WatchStocks/master/Screenshots/IMG_0779.jpg"
@@ -1694,7 +1707,8 @@
       "description": "Create & replay HTTP/S requests",
       "source": "https://github.com/splinesoft/Bequest",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/splinesoft/Bequest/raw/master/bequest.gif"
@@ -2381,7 +2395,8 @@
       "license": "mit",
       "source": "https://github.com/yonbergman/swift-gameoflife",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/yonbergman/swift-gameoflife/master/gameoflife.gif"
@@ -2441,7 +2456,8 @@
         "ios9",
         "spritekit",
         "gameplaykit",
-        "replaykit"
+        "replaykit",
+        "archive"
       ],
       "stars": 43,
       "license": "other",
@@ -2556,7 +2572,8 @@
       "license": "mit",
       "source": "https://github.com/devindazzle/SceneKitFrogger",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/devindazzle/SceneKitFrogger/raw/master/screenshot.png"
@@ -2878,7 +2895,8 @@
         "keyboard"
       ],
       "tags": [
-        "ios8"
+        "ios8",
+        "archive"
       ],
       "description": "Brings back the classic iPod click wheel as a keyboard",
       "source": "https://github.com/b3ll/ClickWheelKeyboard",
@@ -2983,7 +3001,8 @@
       "source": "https://github.com/Palleas/NaughtyKeyboard",
       "stars": 584,
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/Palleas/NaughtyKeyboard/raw/master/Images/twitter-keyboard.gif"
@@ -3245,7 +3264,8 @@
         "https://github.com/eugenpirogoff/PathLogger/raw/master/tmp/3_recordings.png"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "stars": 60,
       "license": "other",
@@ -3459,7 +3479,8 @@
         "photo"
       ],
       "tags": [
-        "instagram api"
+        "instagram api",
+        "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/bOySdOv.png"
@@ -3597,7 +3618,8 @@
         "content"
       ],
       "tags": [
-        "flickr api"
+        "flickr api",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/alikaragoz/Flickr-Search/raw/master/github-assets/flickr-screenshot.png"
@@ -3699,7 +3721,8 @@
       "tags": [
         "afnetworking",
         "sdwebimage",
-        "gpuimage"
+        "gpuimage",
+        "archive"
       ],
       "lang": "fra",
       "description": "Movie info app",
@@ -3782,7 +3805,8 @@
       "source": "https://github.com/thoughtbot/poppins",
       "itunes": "https://itunes.apple.com/app/poppins/id978854068",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "stars": 113,
       "date_added": "Wed Jul 22 07:21:42 2015 -0700",
@@ -3860,7 +3884,8 @@
       "description": "Simple pug photo viewer",
       "source": "https://github.com/soffes/Pugs",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/soffes/Pugs/raw/master/Screenshot@2x.png"
@@ -3933,7 +3958,8 @@
       "license": "mit",
       "source": "https://github.com/eugenpirogoff/swifteroid",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/eugenpirogoff/swifteroid/master/images/IMG_2457.jpg",
@@ -3954,7 +3980,8 @@
       "stars": 354,
       "tags": [
         "swift",
-        "flickr api"
+        "flickr api",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/synboo/SwiftFlickrApp/master/Video.gif"
@@ -4029,7 +4056,8 @@
         "shimmer",
         "nslogger",
         "cocoalumberjack",
-        "tmdb"
+        "tmdb",
+        "archive"
       ],
       "description": "Find common movies among actors",
       "source": "https://github.com/jayhickey/thatmoviewith",
@@ -4388,7 +4416,8 @@
       "tags": [
         "hn api",
         "firebase",
-        "fabric"
+        "fabric",
+        "archive"
       ],
       "source": "https://github.com/vetri02/HackerNews",
       "itunes": "https://itunes.apple.com/app/hacker-news-y/id1027140113",
@@ -4443,7 +4472,8 @@
       ],
       "source": "https://github.com/NikantVohra/HackerNewsClient-iOS",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "stars": 79,
       "license": "mit",
@@ -4464,7 +4494,8 @@
       "itunes": "https://itunes.apple.com/app/news-yc/id592893508",
       "stars": 832,
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "date_added": "Tue Jan 27 07:15:41 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -4697,7 +4728,8 @@
       ],
       "source": "https://github.com/USDepartmentofLabor/Swift-Sample-App",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "stars": 12,
       "license": "other",
@@ -4731,7 +4763,8 @@
       "source": "https://github.com/KhaosT/HomeKit-Demo",
       "stars": 291,
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "license": "mit",
       "date_added": "Mon Mar 30 07:18:14 2015 -0700",
@@ -5205,7 +5238,8 @@
         "tasks"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/HBFZhdm.png",
@@ -5524,7 +5558,8 @@
       "stars": 283,
       "tags": [
         "swift",
-        "openweathermap api"
+        "openweathermap api",
+        "archive"
       ],
       "license": "apache-2.0",
       "date_added": "Fri Jun 19 11:11:35 2015 -0700",
@@ -5736,7 +5771,8 @@
       "source": "https://github.com/JakeLin/ChineseZodiac",
       "stars": 152,
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/JakeLin/ChineseZodiac/master/Screenshots/ChineseZodiac-horse-33.png"
@@ -6159,7 +6195,8 @@
         "fitness"
       ],
       "tags": [
-        "iphone"
+        "iphone",
+        "archive"
       ],
       "description": "Record running data",
       "license": "gpl-2.0",
@@ -6440,7 +6477,8 @@
         "calendar"
       ],
       "tags": [
-        "iphone"
+        "iphone",
+        "archive"
       ],
       "description": "Simple calendar with operating schedule",
       "license": "mit",
@@ -6500,7 +6538,8 @@
       "source": "https://github.com/mslathrop/SwiftNote",
       "stars": 195,
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "date_added": "Sun Mar 29 07:44:35 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -6769,7 +6808,8 @@
         "parse"
       ],
       "tags": [
-        "iphone"
+        "iphone",
+        "archive"
       ],
       "description": "App with likes, comments, posting images/videos",
       "source": "https://github.com/TomekB/Parse-Challenge-App",
@@ -6921,7 +6961,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/bgryszko/react-native-example/master/preview.gif"
@@ -6978,7 +7019,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "homepage": "https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter",
       "source": "https://github.com/ashwinpreet/ReactNativeExamples",
@@ -7049,7 +7091,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/brentvatne/react-native-login/raw/master/demo!!!.gif"
@@ -7085,7 +7128,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "source": "https://github.com/peralmq/ForeignExchangeApp",
       "screenshots": [
@@ -7123,7 +7167,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "license": "mit",
       "source": "https://github.com/paranoida/IcelandEarthquakes",
@@ -7157,7 +7202,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/zcyhbtv.png"
@@ -7192,7 +7238,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "description": "Lightweight Node REPL",
       "source": "https://github.com/mzabriskie/PocketNode",
@@ -7210,7 +7257,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "screenshots": [
         "https://ph-files.imgix.net/8f617c17-4ec6-482d-866d-a65d5387c0ad?auto=format&codec=mozjpeg&cs=strip"
@@ -7245,7 +7293,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "screenshots": [
         "https://camo.githubusercontent.com/f4cd843dea61e9f9c10319fea6ecafb6f2b937d7/687474703a2f2f692e696d6775722e636f6d2f67566d727844652e706e67",
@@ -7280,7 +7329,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "source": "https://github.com/ArnaudRinquin/sk-react-native",
       "screenshots": [
@@ -7297,7 +7347,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/YENtnhd.png"
@@ -7315,7 +7366,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/christopherdro/react-native-sudoku/raw/master/demo.gif"
@@ -7441,7 +7493,8 @@
         "github"
       ],
       "tags": [
-        "iphone"
+        "iphone",
+        "archive"
       ],
       "description": "Grocery list, synchronized with GitHub",
       "source": "https://github.com/jspahrsummers/GroceryList",
@@ -7477,7 +7530,8 @@
       ],
       "tags": [
         "reactivecocoa",
-        "mvvm"
+        "mvvm",
+        "archive"
       ],
       "description": "Hacker News reader with Tinder style interface",
       "source": "https://github.com/syshen/ReactiveHackerNews",
@@ -7538,7 +7592,8 @@
       "tags": [
         "swift",
         "swift2.1",
-        "rac4"
+        "rac4",
+        "archive"
       ],
       "stars": 26,
       "license": "other",
@@ -7703,7 +7758,8 @@
       "tags": [
         "swift",
         "giphy api",
-        "interstellar"
+        "interstellar",
+        "archive"
       ],
       "stars": 19,
       "license": "other",
@@ -8801,7 +8857,8 @@
       ],
       "tags": [
         "reactivecocoa",
-        "parse"
+        "parse",
+        "archive"
       ],
       "screenshots": [
         "http://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg",
@@ -9487,7 +9544,8 @@
       "license": "mit",
       "stars": 57,
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/pjchavarria/Swift-Gif/blob/master/Swift-Gif/demo.gif"
@@ -9591,7 +9649,8 @@
       "source": "https://github.com/MichMich/SwiftTextClock",
       "license": "other",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/MichMich/SwiftTextClock/raw/master/example.jpg"
@@ -9828,7 +9887,8 @@
         "tvml",
         "gulp",
         "jade",
-        "coffeescript"
+        "coffeescript",
+        "archive"
       ],
       "description": "Watch episodes of the sitcom",
       "license": "mit",
@@ -9846,7 +9906,8 @@
         "health"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/r45bo2R.png",
@@ -10958,7 +11019,8 @@
         "https://raw.githubusercontent.com/haranicle/AlcatrazTour/master/images/list_ss.png"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "license": "mit",
       "date_added": "Sep 9 2016",
