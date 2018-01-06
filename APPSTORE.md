@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **283** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **280** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -489,14 +489,6 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- AppSlate: Make your own iOS apps [` App Store`](https://itunes.apple.com/app/id511327336)  
-  <details><summary><code>iphone</code> <code>ipad</code> 🔥</summary>
-
-  https://github.com/Taehan-Kim/AppSlate<br>  https://www.facebook.com/AppSlate<br>  Added June  1, 2016<br>  License: `other`
-  <div><img height='300' alt='AppSlate image 1' src='http://a5.mzstatic.com/us/r30/Purple4/v4/57/8c/17/578c175d-2dc8-ca29-104f-a83c67ce463c/screen696x696.jpeg'> <img height='300' alt='AppSlate image 2' src='http://a2.mzstatic.com/us/r30/Purple/v4/d5/25/5e/d5255e9c-4dad-3259-4da8-34bf76ab0d1a/screen696x696.jpeg'> <img height='300' alt='AppSlate image 3' src='http://a2.mzstatic.com/us/r30/Purple4/v4/fa/d0/be/fad0be86-d28d-7ddb-00b3-8ee90015f3d2/screen696x696.jpeg'> <img height='300' alt='AppSlate image 4' src='http://a1.mzstatic.com/us/r30/Purple4/v4/39/b3/a2/39b3a289-16ac-a3c9-0cc2-ce99934a5002/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Blink: Mobile shell terminal based on Mosh [` App Store`](https://itunes.apple.com/app/id1156707581)  
   <details><summary><code>uickeychainstore</code> <code>passcodelock</code> 🔥🔥🔥🔥</summary>
 
@@ -1056,14 +1048,6 @@ Click ► to show more details
 
   https://github.com/ifrotz/iosfrotz<br>  https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='Frotz image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/c9/c1/a2/c9c1a21b-bf4a-6f4e-058f-5578e10013a3/screen696x696.jpeg'> <img height='300' alt='Frotz image 2' src='http://a3.mzstatic.com/us/r30/Purple71/v4/3a/52/47/3a524725-42b9-54e6-d81e-8f81790d977f/screen696x696.jpeg'> <img height='300' alt='Frotz image 3' src='http://a2.mzstatic.com/us/r30/Purple71/v4/76/75/fe/7675fe03-875c-6ea3-a3fb-2bc5b8c43aec/screen696x696.jpeg'> <img height='300' alt='Frotz image 4' src='http://a5.mzstatic.com/us/r30/Purple62/v4/09/f1/1b/09f11b70-c3ef-a97f-73f3-9be6b32eed3b/screen696x696.jpeg'> <img height='300' alt='Frotz image 5' src='http://a3.mzstatic.com/us/r30/Purple71/v4/9b/b0/40/9bb04057-975f-1519-1490-b7b53fd6c576/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Gorillas: Port of the popular old QBasic game with spunk [` App Store`](https://itunes.apple.com/app/gorillas/id302275459)  
-  <details><summary><code>iphone</code> 🔥🔥</summary>
-
-  https://github.com/Lyndir/Gorillas<br>  http://gorillas.lyndir.com/<br>  Added March  5, 2016<br>  License: `other`
-  <div><img height='300' alt='Gorillas image 1' src='http://a5.mzstatic.com/us/r30/Purple/v4/d6/b0/0b/d6b00be6-a152-e345-d897-311826fb8c7a/screen696x696.jpeg'> <img height='300' alt='Gorillas image 2' src='http://a1.mzstatic.com/us/r30/Purple4/v4/b2/ae/fd/b2aefdfc-0404-10c3-01f7-7c68b187d4ca/screen696x696.jpeg'> <img height='300' alt='Gorillas image 3' src='http://a5.mzstatic.com/us/r30/Purple6/v4/ee/f0/48/eef048df-adcb-a352-cdb5-adfe31e2079e/screen696x696.jpeg'> <img height='300' alt='Gorillas image 4' src='http://a2.mzstatic.com/us/r30/Purple6/v4/2b/7b/4f/2b7b4f5b-082f-6973-c55e-a732c01c3a19/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -2725,14 +2709,6 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/hackfoldr/hackfoldr-iOS<br>  https://hackfoldr.org<br>  Added July 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Hackfoldr image 1' src='http://a3.mzstatic.com/us/r30/Purple69/v4/bb/ee/2f/bbee2f6f-68b0-48b8-5949-e5b4bc49cc8c/screen696x696.jpeg'> <img height='300' alt='Hackfoldr image 2' src='http://a4.mzstatic.com/us/r30/Purple49/v4/b6/7a/49/b67a496a-c81c-d9b9-81e0-cae43136b41b/screen696x696.jpeg'> <img height='300' alt='Hackfoldr image 3' src='http://a5.mzstatic.com/us/r30/Purple60/v4/49/56/85/4956850f-d8e7-bcb3-26f5-f778b80f8540/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- iContactU: Reminds you to contact people you ought to [` App Store`](https://itunes.apple.com/app/icontactu/id920200100)  
-  <details><summary><code>swift</code> 🔥</summary>
-
-  https://github.com/rizal72/iContactU<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='iContactU image 1' src='http://a3.mzstatic.com/us/r30/Purple5/v4/8e/b7/65/8eb765cc-9f41-3350-d2e5-b140b483ba22/screen696x696.jpeg'> <img height='300' alt='iContactU image 2' src='http://a2.mzstatic.com/us/r30/Purple3/v4/a7/56/6f/a7566fb2-8957-7aee-1f03-94c1eebf1c80/screen696x696.jpeg'> <img height='300' alt='iContactU image 3' src='http://a2.mzstatic.com/us/r30/Purple3/v4/80/cd/d2/80cdd204-4b1f-f7d0-48e7-8fa75c5f6384/screen696x696.jpeg'> <img height='300' alt='iContactU image 4' src='http://a1.mzstatic.com/us/r30/Purple5/v4/92/5f/77/925f776e-9252-18a9-f627-420f82c16373/screen696x696.jpeg'> 
 </div>
   </details>
 
