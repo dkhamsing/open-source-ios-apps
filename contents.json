@@ -1474,7 +1474,8 @@
       "license": "mit",
       "source": "https://github.com/thii/TextEthan",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/6V3danC.png",
@@ -1950,7 +1951,8 @@
       "source": "https://github.com/nothingmagical/coins",
       "stars": 173,
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/nothingmagical/getcoinsapp.com/master/assets/images/screenshot01.png",
@@ -2408,7 +2410,8 @@
         "game"
       ],
       "tags": [
-        "iphone"
+        "iphone",
+        "archive"
       ],
       "description": "Port of the popular old QBasic game with spunk",
       "source": "https://github.com/Lyndir/Gorillas",
@@ -2959,7 +2962,8 @@
       "description": "Fun Hodor keyboard",
       "source": "https://github.com/jonomuller/Hodor-Keyboard",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/jonomuller/Hodor-Keyboard/master/IMG_2168.PNG"
@@ -3120,7 +3124,8 @@
         "tasks"
       ],
       "tags": [
-        "parse"
+        "parse",
+        "archive"
       ],
       "description": "iBeacon to-do reminders",
       "source": "https://github.com/TomekB/iBeaconTasks",
@@ -4263,7 +4268,8 @@
       "license": "mit",
       "source": "https://github.com/amitburst/reddit-demo",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/DR8TQz0.png",
@@ -5220,7 +5226,8 @@
       "license": "mit",
       "source": "https://github.com/imod/MyAwesomeChecklist",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/GI6mmKy.png",
@@ -5907,7 +5914,8 @@
       "itunes": "https://itunes.apple.com/app/icontactu/id920200100",
       "stars": 139,
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "date_added": "Tue Jan 27 07:40:30 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -6191,7 +6199,8 @@
         "misc"
       ],
       "tags": [
-        "usb"
+        "usb",
+        "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/xVPBuW9.png"
@@ -6226,7 +6235,8 @@
       "description": "Check availability of iPhones",
       "source": "https://github.com/kimar/TheReservist",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/kimar/TheReservist/raw/master/Assets/marketing1.png",
@@ -7447,7 +7457,8 @@
         "clock"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "description": "Minimal chess clock",
       "license": "mit",
@@ -8664,7 +8675,8 @@
       ],
       "tags": [
         "iphone",
-        "ipad"
+        "ipad",
+        "archive"
       ],
       "description": "Make your own iOS apps",
       "source": "https://github.com/Taehan-Kim/AppSlate",
