@@ -186,14 +186,6 @@ Click ► to show more details
 </div>
   </details>
 
-- Uncle Nagy's House: Watch episodes of the sitcom  
-  <details><summary><code>tvml</code> <code>gulp</code> <code>jade</code> <code>coffeescript</code> </summary>
-
-  https://github.com/kenmickles/unh_tvos<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Uncle Nagy's House image 1' src='https://i.imgur.com/1O8v7RY.jpg'> 
-</div>
-  </details>
-
 - Upcoming Movies  
   <details><summary><code>swift</code> <code>themoviedb api</code> </summary>
 
@@ -239,14 +231,6 @@ Click ► to show more details
 </div>
   </details>
 
-- Brew: Discover craft beer pubs nearby [` App Store`](https://itunes.apple.com/app/id986830433)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/contentful/ContentfulWatchKitExample<br>  Added April 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Brew image 1' src='http://a1.mzstatic.com/us/r30/Purple5/v4/d8/0b/60/d80b6021-c445-60b3-718e-6aa9b767dd67/screen696x696.jpeg'> <img height='300' alt='Brew image 2' src='http://a2.mzstatic.com/us/r30/Purple5/v4/a7/a9/83/a7a983cb-7a25-f622-2bed-225c2e77ca15/screen696x696.jpeg'> <img height='300' alt='Brew image 3' src='http://a5.mzstatic.com/us/r30/Purple7/v4/67/4c/62/674c628c-ab5a-3aa1-e480-40b0afbce87e/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Bus Today: Track bus line on your wrist, includes Today Extension [` App Store`](https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341)  
   <details><summary><code>objc</code> 🇨🇳 </summary>
 
@@ -271,38 +255,6 @@ Click ► to show more details
 </div>
   </details>
 
-- Calculator by noodlewerk  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/noodlewerk/Apple_Watch_Calculator<br>  https://noodlewerk.com/blog/calculator-apple-watch-tutorial/<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Calculator by noodlewerk image 1' src='https://noodlewerk.com/images/watch_header.jpg'> 
-</div>
-  </details>
-
-- Cherry: Mini Pomodoro Timer  
-  <details><summary><code>swift</code> 🔥🔥</summary>
-
-  https://github.com/kenshin03/Cherry<br>  Added February 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Cherry image 1' src='https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png'> 
-</div>
-  </details>
-
-- Connectivity Demo  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/swilliams/watchkit-connectivity-demo<br>  Added July 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Connectivity Demo image 1' src='https://i.imgur.com/KZc3Hjg.png'> 
-</div>
-  </details>
-
-- CoolSpot: The missing Spotify app  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/neonichu/CoolSpot<br>  Added May 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='CoolSpot image 1' src='https://raw.githubusercontent.com/neonichu/CoolSpot/master/Screenshots/watch-playback.png'> <img height='300' alt='CoolSpot image 2' src='https://github.com/neonichu/CoolSpot/raw/master/Screenshots/watch-stop.png'> 
-</div>
-  </details>
-
 - Cortado: Track your caffeine consumption habits [` App Store`](https://itunes.apple.com/app/cortado/id969899327)  
   <details><summary><code>objc</code> 🔥</summary>
 
@@ -324,14 +276,6 @@ Click ► to show more details
 
   https://github.com/FancyPixel/done-swift<br>  Added May  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Done image 1' src='https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif'> 
-</div>
-  </details>
-
-- FlickrWatch: Apple Watch face  
-  <details><summary><code>flickr api</code> </summary>
-
-  https://github.com/jazzychad/FlickrWatch<br>  Added February 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='FlickrWatch image 1' src='https://camo.githubusercontent.com/09d4726f3b100b9c6b313b2bbae038538a2cda3e/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43414b3762743455384141396b31532e706e67'> 
 </div>
   </details>
 
@@ -375,27 +319,11 @@ Click ► to show more details
 </div>
   </details>
 
-- HighStreet: Highstreet shopping app  
-  <details><summary><code>swift</code> 🔥🔥</summary>
-
-  https://github.com/GetHighstreet/HighstreetWatchApp<br>  Added June  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='HighStreet image 1' src='https://github.com/GetHighstreet/HighstreetWatchApp/raw/master/Documentation/Assets/walkthrough.gif'> 
-</div>
-  </details>
-
 - HN Reader: Hacker News Reader [` App Store`](https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741)  
   <details><summary><code>swift</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/Dimillian/SwiftHN<br>  Added January 26, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='HN Reader image 1' src='https://cdn-images-1.medium.com/max/800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'> 
-</div>
-  </details>
-
-- Impulse: Real-time age ticker  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/Jasdev/Impulse<br>  Added August 12, 2015<br>  License: `other`
-  <div><img height='300' alt='Impulse image 1' src='https://camo.githubusercontent.com/5b89b213947316f8a914e897db3033d41e824bd3/687474703a2f2f692e696d6775722e636f6d2f334359524e6a4c2e706e67'> 
 </div>
   </details>
 
@@ -423,14 +351,6 @@ Click ► to show more details
 </div>
   </details>
 
-- OnTime: Access the SBB (Swiss railway) timetable [` App Store`](https://itunes.apple.com/app/ontime-switzerland/id955289458)  
-  <details><summary><code>watchkit</code> </summary>
-
-  https://github.com/D-32/OnTime<br>  Added May 13, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='OnTime image 1' src='https://i.imgur.com/gazVTKg.jpg'> 
-</div>
-  </details>
-
 - Parties for WWDC [` App Store`](https://itunes.apple.com/app/parties-for-wwdc/id879924066)  
   <details><summary><code>cloudkit</code> 🔥🔥</summary>
 
@@ -444,14 +364,6 @@ Click ► to show more details
 
   https://github.com/dropbox/PhotoWatch<br>  Added February 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='PhotoWatch image 1' src='https://github.com/dropbox/PhotoWatch/raw/master/Screenshots/watch.png'> 
-</div>
-  </details>
-
-- Soon: Countdown app  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/sandofsky/soon<br>  Added June  2, 2015<br>  License: `other`
-  <div><img height='300' alt='Soon image 1' src='https://github.com/sandofsky/soon/raw/master/screenshot.png'> 
 </div>
   </details>
 
@@ -479,14 +391,6 @@ Click ► to show more details
 </div>
   </details>
 
-- Watchman: Hangman game on your wrist  
-  <details><summary><code>swift</code> <code>watchos2</code> </summary>
-
-  https://github.com/DanToml/Watchman<br>  Added October  6, 2015<br>  License: `other`
-  <div><img height='300' alt='Watchman image 1' src='https://raw.githubusercontent.com/DanielTomlinson/Watchman/master/IMG_2196.jpg'> 
-</div>
-  </details>
-
 - WatchNote: Control your Keynote using Apple Watch  
   <details><summary><code>swift</code> 🔥</summary>
 
@@ -508,22 +412,6 @@ Click ► to show more details
 
   https://github.com/D-32/WatchPics<br>  Added April 10, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='WatchPics image 1' src='https://i.imgur.com/pEIRuzr.jpg'> 
-</div>
-  </details>
-
-- WatchSnake: Snake game  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/davidcairns/-WatchSnake<br>  Added May  5, 2015<br>  License: `other`
-  <div><img height='300' alt='WatchSnake image 1' src='https://i.imgur.com/POfmbkq.png'> <img height='300' alt='WatchSnake image 2' src='https://i.imgur.com/EKAyXnw.png'> <img height='300' alt='WatchSnake image 3' src='https://i.imgur.com/vrdomSG.png'> 
-</div>
-  </details>
-
-- WatchStocks: Track your stocks portfolio, includes a watch face complication  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/G2Jose/WatchStocks<br>  Added September 17, 2015<br>  License: `other`
-  <div><img height='300' alt='WatchStocks image 1' src='https://raw.githubusercontent.com/willedflipper66/WatchStocks/master/Screenshots/IMG_0779.jpg'> 
 </div>
   </details>
 
@@ -694,14 +582,6 @@ Click ► to show more details
 </div>
   </details>
 
-- Workdays: Simple calendar with operating schedule [` App Store`](https://itunes.apple.com/app/workdays-calendar/id889712978)  
-  <details><summary><code>iphone</code> </summary>
-
-  https://github.com/mpak/Workdays<br>  Added August 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Workdays image 1' src='http://a5.mzstatic.com/us/r30/Purple5/v4/02/fa/8e/02fa8ec3-2586-48f8-a759-42695f62dde9/screen696x696.jpeg'> <img height='300' alt='Workdays image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/49/47/2c/49472c02-7607-80a8-6f0f-4b42aa0420aa/screen696x696.jpeg'> 
-</div>
-  </details>
-
 
 ## Color 
  
@@ -755,14 +635,6 @@ Click ► to show more details
 
   https://github.com/chadkeck/Natural-Language-Clock<br>  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Natural Language Clock image 1' src='https://github.com/chadkeck/Natural-Language-Clock/raw/master/assets/iPhone-and-Apple-Watch.png?raw=true'> 
-</div>
-  </details>
-
-- SwiftTextClock: Inspired by the beautiful QlockTwo  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/MichMich/SwiftTextClock<br>  Added June 18, 2016<br>  License: `other`
-  <div><img height='300' alt='SwiftTextClock image 1' src='https://github.com/MichMich/SwiftTextClock/raw/master/example.jpg'> 
 </div>
   </details>
 
@@ -840,14 +712,6 @@ Click ► to show more details
 
   https://github.com/caleb0/SwiftSnake<br>  Added August 19, 2016<br>  License: `other`
   <div><img height='300' alt='SwiftSnake image 1' src='https://i.imgur.com/mBi9Jfj.png'> 
-</div>
-  </details>
-
-- Watchman: Hangman game on your wrist  
-  <details><summary><code>swift</code> <code>watchos2</code> </summary>
-
-  https://github.com/DanToml/Watchman<br>  Added October  6, 2015<br>  License: `other`
-  <div><img height='300' alt='Watchman image 1' src='https://raw.githubusercontent.com/DanielTomlinson/Watchman/master/IMG_2196.jpg'> 
 </div>
   </details>
 
@@ -1093,27 +957,11 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- AlcatrazTour: Shows Xcode plugins ranking  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/haranicle/AlcatrazTour<br>  Added September  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='AlcatrazTour image 1' src='https://raw.githubusercontent.com/haranicle/AlcatrazTour/master/images/list_ss.png'> 
-</div>
-  </details>
-
 - AppLove: View app reviews for all territories (countries)  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/snowpunch/AppLove<br>  Added May  7, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div>
-</div>
-  </details>
-
-- Bequest: Create & replay HTTP/S requests  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/splinesoft/Bequest<br>  Added April  7, 2015<br>  License: `other`
-  <div><img height='300' alt='Bequest image 1' src='https://github.com/splinesoft/Bequest/raw/master/bequest.gif'> 
 </div>
   </details>
 
@@ -1374,12 +1222,6 @@ Click ► to show more details
   https://github.com/gitpoint/git-point<br>  Added July 14, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='GitPoint image 1' src='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'> <img height='300' alt='GitPoint image 2' src='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'> 
 </div>
-  </details>
-
-- GroceryList: Grocery list, synchronized with GitHub  
-  <details><summary><code>iphone</code> 🔥🔥🔥</summary>
-
-  https://github.com/jspahrsummers/GroceryList<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - Monkey: Browse top GitHub coders & repositories [` App Store`](https://itunes.apple.com/app/monkey-for-github/id1003765407)  
@@ -1764,14 +1606,6 @@ Click ► to show more details
 </div>
   </details>
 
-- Impulse: Real-time age ticker  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/Jasdev/Impulse<br>  Added August 12, 2015<br>  License: `other`
-  <div><img height='300' alt='Impulse image 1' src='https://camo.githubusercontent.com/5b89b213947316f8a914e897db3033d41e824bd3/687474703a2f2f692e696d6775722e636f6d2f334359524e6a4c2e706e67'> 
-</div>
-  </details>
-
 - LunarCore: Small lunar calendar with Today Extension [` App Store`](https://itunes.apple.com/app/id1031088612)  
   <details><summary><code>objc</code> 🇨🇳 🔥🔥🔥</summary>
 
@@ -1786,12 +1620,6 @@ Click ► to show more details
   https://github.com/BalestraPatrick/OpenIt<br>  Added June  7, 2016<br>  License: `other`
   <div><img height='300' alt='OpenIt image 1' src='https://github.com/BalestraPatrick/OpenIt/raw/master/OpenItDemo.gif'> 
 </div>
-  </details>
-
-- SwiftNote: Simple note taking with Today Extension & iCloud sync  
-  <details><summary><code>swift</code> 🔥</summary>
-
-  https://github.com/mslathrop/SwiftNote<br>  Added March 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - TodayMind: Manage Reminders directly in a Today Extension [` App Store`](https://itunes.apple.com/app/id1207158665)  
@@ -2065,14 +1893,6 @@ Click ► to show more details
 </div>
   </details>
 
-- Conway's Game of Life  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/yonbergman/swift-gameoflife<br>  Added March 31, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Conway's Game of Life image 1' src='https://raw.githubusercontent.com/yonbergman/swift-gameoflife/master/gameoflife.gif'> 
-</div>
-  </details>
-
 - Conway's Game of Life (Vie) [` App Store`](https://itunes.apple.com/app/vie-conways-game-of-life/id989686123)  
   <details><summary><code>objc</code> </summary>
 
@@ -2281,14 +2101,6 @@ Click ► to show more details
 </div>
   </details>
 
-- SceneKitFrogger  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/devindazzle/SceneKitFrogger<br>  Added August  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='SceneKitFrogger image 1' src='https://github.com/devindazzle/SceneKitFrogger/raw/master/screenshot.png'> 
-</div>
-  </details>
-
 - SHMUP: 3D multiplatform game written primarily in C [` App Store`](https://itunes.apple.com/app/shmup/id337663605)  
   <details><summary><code>objc</code> 🔥</summary>
 
@@ -2324,14 +2136,6 @@ Click ► to show more details
 
   https://github.com/insurgentgames/teh-internets<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='teh internets image 1' src='http://cdn.iphoneincanada.ca/wp-content/uploads/2009/11/IMG_0520.PNG'> 
-</div>
-  </details>
-
-- Wizard War: Cast spells in single or multiplayer wizard duels [` App Store`](https://itunes.apple.com/app/wizard-war/id702839715)  
-  <details><summary><code>reactivecocoa</code> <code>parse</code> 🔥🔥🔥</summary>
-
-  https://github.com/seanhess/wizardwar<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Wizard War image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg'> <img height='300' alt='Wizard War image 2' src='http://a5.mzstatic.com/us/r30/Purple6/v4/61/e1/45/61e14599-9ddb-b299-9339-7bf09a85fd55/screen696x696.jpeg'> <img height='300' alt='Wizard War image 3' src='http://a2.mzstatic.com/us/r30/Purple/v4/59/b5/e0/59b5e0e1-3b1b-b29e-1093-fbe3273157ff/screen696x696.jpeg'> <img height='300' alt='Wizard War image 4' src='http://a1.mzstatic.com/us/r30/Purple4/v4/52/87/67/52876746-f548-1e4b-2f6c-6fedd5beef7e/screen696x696.jpeg'> <img height='300' alt='Wizard War image 5' src='http://a3.mzstatic.com/us/r30/Purple4/v4/d6/25/c8/d625c8ef-42a8-7868-ac72-16430d62adb3/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -2393,14 +2197,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 </div>
   </details>
 
-- Conway's Game of Life  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/yonbergman/swift-gameoflife<br>  Added March 31, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Conway's Game of Life image 1' src='https://raw.githubusercontent.com/yonbergman/swift-gameoflife/master/gameoflife.gif'> 
-</div>
-  </details>
-
 - Crosses-n-Ous: Class Tic Tac Toe reincarnation with AI and state machines  
   <details><summary><code>swift</code> <code>gameplaykit</code> </summary>
 
@@ -2415,12 +2211,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   https://github.com/WelkinXie/FiveInARow<br>  Added May  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Five In A Row (五子棋) image 1' src='https://i.imgur.com/anzIXHK.png'> 
 </div>
-  </details>
-
-- GrubbyWorm: Simple digital worm game  
-  <details><summary><code>swift</code> <code>swift2</code> <code>ios9</code> <code>spritekit</code> <code>gameplaykit</code> <code>replaykit</code> </summary>
-
-  https://github.com/gamechina/GrubbyWorm<br>  Added January 23, 2016<br>  License: `other`
   </details>
 
 - Mergel: Shape matching puzzle  
@@ -2476,14 +2266,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Abby's Cycle: Menstrual cycle tracker  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/jc4p/abby-healthkit<br>  Added July 11, 2016<br>  License: `other`
-  <div><img height='300' alt='Abby's Cycle image 1' src='https://i.imgur.com/r45bo2R.png'> <img height='300' alt='Abby's Cycle image 2' src='https://i.imgur.com/fFDR1Fl.png'> 
-</div>
-  </details>
-
 - Arex: Reminders for taking your medications  
   <details><summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> </summary>
 
@@ -2562,14 +2344,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
   https://github.com/rob-miller/rTracker<br>  Added April 19, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='rTracker image 1' src='http://a1.mzstatic.com/us/r30/Purple3/v4/00/c2/36/00c236fe-5e93-7c98-33d6-f228d4d86f47/screen696x696.jpeg'> <img height='300' alt='rTracker image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/61/a4/7a/61a47a57-36e3-8c79-6d5e-4664d83734b7/screen696x696.jpeg'> <img height='300' alt='rTracker image 3' src='http://a1.mzstatic.com/us/r30/Purple3/v4/32/9c/a7/329ca79e-eaba-f25f-cd5c-43ab865834e6/screen696x696.jpeg'> <img height='300' alt='rTracker image 4' src='http://a5.mzstatic.com/us/r30/Purple5/v4/be/b1/56/beb15613-dc36-6ded-9aa5-148667b866f8/screen696x696.jpeg'> <img height='300' alt='rTracker image 5' src='http://a4.mzstatic.com/us/r30/Purple5/v4/74/ff/c8/74ffc84a-8d27-62bd-7f23-c9eb9e60944c/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Runner-Stats: Record running data  
-  <details><summary><code>iphone</code> </summary>
-
-  https://github.com/hukun01/Runner-Stats<br>  Added October 12, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  <div>
 </div>
   </details>
 
@@ -2663,27 +2437,11 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard [` App Store`](https://itunes.apple.com/app/click-wheel-keyboard/id993111285)  
-  <details><summary><code>ios8</code> </summary>
-
-  https://github.com/b3ll/ClickWheelKeyboard<br>  Added May 23, 2015<br>  License: `other`
-  <div><img height='300' alt='ClickWheelKeyboard image 1' src='http://a1.mzstatic.com/us/r30/Purple7/v4/72/05/4f/72054f5a-b311-f8b4-a336-050e593cfdb1/screen696x696.jpeg'> <img height='300' alt='ClickWheelKeyboard image 2' src='http://a1.mzstatic.com/us/r30/Purple1/v4/1e/1c/61/1e1c6189-48d7-e952-986a-8aff9739531b/screen696x696.jpeg'> <img height='300' alt='ClickWheelKeyboard image 3' src='http://a5.mzstatic.com/us/r30/Purple5/v4/ee/a7/f6/eea7f69e-cb3f-eb12-7232-d5cd07c32c8c/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Link Keyboard : My Links Everywhere: Put all your links in one place & make them accessible with a keyboard. [` App Store`](https://itunes.apple.com/app/link-keyboard-my-links-everywhere/id1098798450)  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/ayushgoel/LinkKeyboard<br>  Added October 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Link Keyboard : My Links Everywhere image 1' src='http://a2.mzstatic.com/us/r30/Purple60/v4/d3/4a/5d/d34a5d0e-45f0-6605-aca6-0b86c169f6a8/screen696x696.jpeg'> <img height='300' alt='Link Keyboard : My Links Everywhere image 2' src='http://a3.mzstatic.com/us/r30/Purple30/v4/56/d8/5d/56d85d95-eafa-f347-31b5-0c4b0a17bcc9/screen696x696.jpeg'> <img height='300' alt='Link Keyboard : My Links Everywhere image 3' src='http://a5.mzstatic.com/us/r30/Purple30/v4/70/59/11/705911ee-338a-4154-6074-62c8ba5998ac/screen696x696.jpeg'> <img height='300' alt='Link Keyboard : My Links Everywhere image 4' src='http://a3.mzstatic.com/us/r30/Purple20/v4/23/d1/bb/23d1bb47-6aac-a6e5-4575-e8639d188af7/screen696x696.jpeg'> <img height='300' alt='Link Keyboard : My Links Everywhere image 5' src='http://a5.mzstatic.com/us/r30/Purple30/v4/e3/b3/98/e3b398e1-da5e-404a-067e-613a625abe1a/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- NaughtyKeyboard: Keyboard that supports The Big List of Naughty Strings  
-  <details><summary><code>swift</code> 🔥🔥🔥</summary>
-
-  https://github.com/Palleas/NaughtyKeyboard<br>  Added November 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='NaughtyKeyboard image 1' src='https://github.com/Palleas/NaughtyKeyboard/raw/master/Images/twitter-keyboard.gif'> 
 </div>
   </details>
 
@@ -2879,14 +2637,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
   https://github.com/kiliankoe/ParkenDD<br>  Added April 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='ParkenDD image 1' src='http://a5.mzstatic.com/us/r30/Purple42/v4/2d/d5/6e/2dd56eb7-9c19-0d14-371b-08a6f6bcba9f/screen696x696.jpeg'> <img height='300' alt='ParkenDD image 2' src='http://a5.mzstatic.com/us/r30/Purple41/v4/2a/78/f9/2a78f92a-111f-24e9-e8a7-9acef35007db/screen696x696.jpeg'> <img height='300' alt='ParkenDD image 3' src='http://a3.mzstatic.com/us/r30/Purple19/v4/74/7d/12/747d12d0-1e24-2156-1cb0-6a9296556440/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- pathlogger: GPS logging app [` App Store`](https://itunes.apple.com/app/pathlogger/id980068173)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/eugenpirogoff/pathlogger<br>  Added July 20, 2015<br>  License: `other`
-  <div><img height='300' alt='pathlogger image 1' src='https://github.com/eugenpirogoff/PathLogger/raw/master/tmp/2_recording.png'> <img height='300' alt='pathlogger image 2' src='https://github.com/eugenpirogoff/PathLogger/raw/master/tmp/3_recordings.png'> 
 </div>
   </details>
 
@@ -3151,14 +2901,6 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- Swifteroid: Manual HDR exposure camera  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/eugenpirogoff/swifteroid<br>  Added June 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Swifteroid image 1' src='https://raw.githubusercontent.com/eugenpirogoff/swifteroid/master/images/IMG_2457.jpg'> <img height='300' alt='Swifteroid image 2' src='https://raw.githubusercontent.com/eugenpirogoff/swifteroid/master/images/IMG_2458.jpg'> 
-</div>
-  </details>
-
 - SwiftSpace: Gyroscope driven drawing in 3D space  
   <details><summary><code>swift</code> <code>coremotion</code> 🔥</summary>
 
@@ -3356,27 +3098,11 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- ChineseZodiac  
-  <details><summary><code>swift</code> 🔥</summary>
-
-  https://github.com/JakeLin/ChineseZodiac<br>  Added May 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='ChineseZodiac image 1' src='https://raw.githubusercontent.com/JakeLin/ChineseZodiac/master/Screenshots/ChineseZodiac-horse-33.png'> 
-</div>
-  </details>
-
 - Dunk [` App Store`](https://itunes.apple.com/app/dunk-for-dribbble/id1003028105)  
   <details><summary><code>swift</code> <code>dribbble</code> 🔥🔥🔥</summary>
 
   https://github.com/naoyashiga/Dunk<br>  Added December 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Dunk image 1' src='https://cdn-images-1.medium.com/max/800/1*0TkH9-Guo_A_hdlI9UEnvQ.png'> 
-</div>
-  </details>
-
-- Flickr-Search: Photo search  
-  <details><summary><code>flickr api</code> </summary>
-
-  https://github.com/alikaragoz/Flickr-Search<br>  Added February  4, 2015<br>  License: `other`
-  <div><img height='300' alt='Flickr-Search image 1' src='https://github.com/alikaragoz/Flickr-Search/raw/master/github-assets/flickr-screenshot.png'> 
 </div>
   </details>
 
@@ -3452,14 +3178,6 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- OCiney: Movie info app [` App Store`](https://itunes.apple.com/app/id955480687)  
-  <details><summary><code>afnetworking</code> <code>sdwebimage</code> <code>gpuimage</code> 🇫🇷 🔥🔥</summary>
-
-  https://github.com/florent37/OCiney-iOS<br>  Added March  3, 2015<br>  License: `other`
-  <div><img height='300' alt='OCiney image 1' src='http://a1.mzstatic.com/us/r30/Purple1/v4/7d/dc/67/7ddc6778-b5f2-acea-e384-cc5225334fca/screen696x696.jpeg'> <img height='300' alt='OCiney image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/0a/c0/0a/0ac00a3c-90e5-26c6-a007-a2b8acfe5c96/screen696x696.jpeg'> <img height='300' alt='OCiney image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/08/ed/f3/08edf3e4-f963-1ef9-fef4-749a5df5c543/screen696x696.jpeg'> <img height='300' alt='OCiney image 4' src='http://a2.mzstatic.com/us/r30/Purple3/v4/ce/c2/8b/cec28bd9-b317-71c1-cf14-e5a985543991/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Open States: Browse state legislatures  
   <details><summary><code>objc</code> </summary>
 
@@ -3532,14 +3250,6 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- Pugs: Simple pug photo viewer  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/soffes/Pugs<br>  Added January 25, 2016<br>  License: `other`
-  <div><img height='300' alt='Pugs image 1' src='https://github.com/soffes/Pugs/raw/master/Screenshot@2x.png'> 
-</div>
-  </details>
-
 - QiitaCollection: Technical knowledge sharing & collaboration platform [` App Store`](https://itunes.apple.com/app/kitakore-for-qiita/id973532800)  
   <details><summary><code>objc</code> 🇯🇵 </summary>
 
@@ -3580,27 +3290,11 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- SwiftFlickrApp: Popular Flickr photos  
-  <details><summary><code>swift</code> <code>flickr api</code> 🔥🔥</summary>
-
-  https://github.com/synboo/SwiftFlickrApp<br>  Added May  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='SwiftFlickrApp image 1' src='https://raw.githubusercontent.com/synboo/SwiftFlickrApp/master/Video.gif'> 
-</div>
-  </details>
-
 - Textbook: textbooks from People's Education Press in China [` App Store`](https://itunes.apple.com/app/ke-ben/id993244460)  
   <details><summary><code>swift</code> 🇨🇳 </summary>
 
   https://github.com/JohnWong/textbook<br>  Added February 17, 2016<br>  License: `other`
   <div><img height='300' alt='Textbook image 1' src='http://a4.mzstatic.com/us/r30/Purple7/v4/53/a8/65/53a8655a-f9bc-61c5-260e-2ef534d8b950/screen696x696.jpeg'> <img height='300' alt='Textbook image 2' src='http://a3.mzstatic.com/us/r30/Purple1/v4/a4/1e/6d/a41e6d5b-54cd-a1e7-eafd-eb49278b26c8/screen696x696.jpeg'> <img height='300' alt='Textbook image 3' src='http://a3.mzstatic.com/us/r30/Purple5/v4/2f/84/19/2f8419f7-bb15-c1d2-28eb-674e780ba533/screen696x696.jpeg'> <img height='300' alt='Textbook image 4' src='http://a4.mzstatic.com/us/r30/Purple7/v4/52/20/0c/52200c71-07d2-a6c6-d3da-2bacf03ac0d1/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- That Movie With: Find common movies among actors [` App Store`](https://itunes.apple.com/app/that-movie-with/id892972135)  
-  <details><summary><code>shimmer</code> <code>nslogger</code> <code>cocoalumberjack</code> <code>tmdb</code> </summary>
-
-  https://github.com/jayhickey/thatmoviewith<br>  Added June 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='That Movie With image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/ff/00/78/ff007811-7989-9a06-d917-ae2f7532177a/screen696x696.jpeg'> <img height='300' alt='That Movie With image 2' src='http://a4.mzstatic.com/us/r30/Purple4/v4/67/7b/d9/677bd916-def9-74c9-a628-fb35197f7d66/screen696x696.jpeg'> <img height='300' alt='That Movie With image 3' src='http://a5.mzstatic.com/us/r30/Purple/v4/e8/9c/42/e89c421c-2188-aaf4-bf1d-8decb208eda0/screen696x696.jpeg'> <img height='300' alt='That Movie With image 4' src='http://a3.mzstatic.com/us/r30/Purple4/v4/a7/cd/22/a7cd228b-f17d-7e64-6f0b-2ae55dd6be6c/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -3681,41 +3375,11 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 
-- Poppins: House all your favorite GIFs, easily share them with your friends & family [` App Store`](https://itunes.apple.com/app/poppins/id978854068)  
-  <details><summary><code>swift</code> 🔥</summary>
-
-  https://github.com/thoughtbot/poppins<br>  Added July 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Poppins image 1' src='http://a5.mzstatic.com/us/r30/Purple1/v4/cb/a5/c3/cba5c34b-9fc3-305d-8b45-0049b7f15067/screen696x696.jpeg'> <img height='300' alt='Poppins image 2' src='http://a1.mzstatic.com/us/r30/Purple1/v4/c1/8f/75/c18f7559-ca52-6e65-7a66-caf7bfd9d1d3/screen696x696.jpeg'> <img height='300' alt='Poppins image 3' src='http://a1.mzstatic.com/us/r30/Purple7/v4/0c/43/99/0c43994d-b629-5527-ea40-793d4fee149c/screen696x696.jpeg'> <img height='300' alt='Poppins image 4' src='http://a5.mzstatic.com/us/r30/Purple7/v4/86/7f/bc/867fbc27-4d90-2e91-2809-48c4393f3275/screen696x696.jpeg'> <img height='300' alt='Poppins image 5' src='http://a5.mzstatic.com/us/r30/Purple7/v4/29/b1/31/29b13102-333b-4d80-8e12-2f8b207a05d3/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- ReactiveKitten: It's about GIFs & cats  
-  <details><summary><code>swift</code> <code>giphy api</code> <code>interstellar</code> </summary>
-
-  https://github.com/JensRavens/ReactiveKitten<br>  Added May 11, 2016<br>  License: `other`
-  </details>
-
-- Swift-Gif: GIF Search  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/pjchavarria/Swift-Gif<br>  Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Swift-Gif image 1' src='https://github.com/pjchavarria/Swift-Gif/blob/master/Swift-Gif/demo.gif'> 
-</div>
-  </details>
-
 
 ### Photo 
  
 [back to top](#readme) 
  
-- CollageMaker: Make photo collages  
-  <details><summary><code>instagram api</code> </summary>
-
-  https://github.com/Azoft/CollageMaker-iOS<br>  Added January 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='CollageMaker image 1' src='https://i.imgur.com/bOySdOv.png'> 
-</div>
-  </details>
-
 - ColorBlur: Add blur to your photos [` App Store`](https://itunes.apple.com/app/id928863510)  
   <details><summary><code>objc</code> </summary>
 
@@ -3923,14 +3587,6 @@ https://news.ycombinator.com/ — [back to top](#readme)
 </div>
   </details>
 
-- HackerNews (Y) [` App Store`](https://itunes.apple.com/app/hacker-news-y/id1027140113)  
-  <details><summary><code>hn api</code> <code>firebase</code> <code>fabric</code> </summary>
-
-  https://github.com/vetri02/HackerNews<br>  Added October 14, 2015<br>  License: `other`
-  <div><img height='300' alt='HackerNews (Y) image 1' src='http://a1.mzstatic.com/us/r30/Purple1/v4/28/41/0c/28410cfe-5506-ebf8-1634-fec74bf240fc/screen696x696.jpeg'> <img height='300' alt='HackerNews (Y) image 2' src='http://a2.mzstatic.com/us/r30/Purple7/v4/5c/f2/a6/5cf2a68f-cd7d-c69d-47b0-32b28986b505/screen696x696.jpeg'> <img height='300' alt='HackerNews (Y) image 3' src='http://a3.mzstatic.com/us/r30/Purple69/v4/1a/dc/4e/1adc4edf-5b2d-eb44-0ac4-e8c03cf3ff75/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Hackers  
   <details><summary><code>swift</code> 🔥🔥</summary>
 
@@ -3947,27 +3603,11 @@ https://news.ycombinator.com/ — [back to top](#readme)
 </div>
   </details>
 
-- HN-App  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/NikantVohra/HackerNewsClient-iOS<br>  Added January 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div>
-</div>
-  </details>
-
 - news: yc  
   <details><summary><code>objc</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/grp/newsyc<br>  Added March 19, 2015<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
   <div>
-</div>
-  </details>
-
-- News/YC: Includes user management, commenting, submitting & themes [` App Store`](https://itunes.apple.com/app/news-yc/id592893508)  
-  <details><summary><code>swift</code> 🔥🔥🔥</summary>
-
-  https://github.com/bennyguitar/News-YC---iPhone<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='News/YC image 1' src='http://a3.mzstatic.com/us/r30/Purple1/v4/05/9a/e1/059ae1f3-83ef-e2f5-d8c6-f93e6a53dcad/screen696x696.jpeg'> <img height='300' alt='News/YC image 2' src='http://a1.mzstatic.com/us/r30/Purple1/v4/8a/13/c0/8a13c09e-5c41-d2c9-df03-38da1596fbd7/screen696x696.jpeg'> <img height='300' alt='News/YC image 3' src='http://a3.mzstatic.com/us/r30/Purple5/v4/a7/12/c7/a712c7d8-dbbf-d4c3-c85a-2c93c74f039d/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -4215,12 +3855,6 @@ https://newsapi.org/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- ReactiveKitten: It's about GIFs & cats  
-  <details><summary><code>swift</code> <code>giphy api</code> <code>interstellar</code> </summary>
-
-  https://github.com/JensRavens/ReactiveKitten<br>  Added May 11, 2016<br>  License: `other`
-  </details>
-
 - Siesta GitHub Browser: Browse & star GitHub repositories  
   <details><summary><code>swift</code> <code>rest</code> 🔥🔥🔥</summary>
 
@@ -4296,20 +3930,6 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
 </div>
   </details>
 
-- GroceryList: Grocery list, synchronized with GitHub  
-  <details><summary><code>iphone</code> 🔥🔥🔥</summary>
-
-  https://github.com/jspahrsummers/GroceryList<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
-- ReactiveHackerNews: Hacker News reader with Tinder style interface [` App Store`](https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368)  
-  <details><summary><code>reactivecocoa</code> <code>mvvm</code> </summary>
-
-  https://github.com/syshen/ReactiveHackerNews<br>  Added August 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='ReactiveHackerNews image 1' src='http://a5.mzstatic.com/us/r30/Purple5/v4/b9/12/55/b912554c-5eda-4866-b57a-f528ad26a6aa/screen696x696.jpeg'> <img height='300' alt='ReactiveHackerNews image 2' src='http://a2.mzstatic.com/us/r30/Purple6/v4/43/ff/b3/43ffb350-62e4-3c21-cb99-20cdb99544be/screen696x696.jpeg'> <img height='300' alt='ReactiveHackerNews image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/8f/61/04/8f610400-1f87-1811-31a3-3a8b4994f141/screen696x696.jpeg'> <img height='300' alt='ReactiveHackerNews image 4' src='http://a2.mzstatic.com/us/r30/Purple3/v4/51/b1/27/51b1277d-e738-a4c9-6955-af828790a123/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - ReactiveSwiftFlickrSearch: Photo search  
   <details><summary><code>swift</code> <code>mvvm</code> <code>flickr api</code> 🔥🔥</summary>
 
@@ -4326,25 +3946,11 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
 </div>
   </details>
 
-- SwiftRACGoogleImages: Google image search  
-  <details><summary><code>swift</code> <code>swift2.1</code> <code>rac4</code> </summary>
-
-  https://github.com/Adlai-Holler/SwiftRACGoogleImages<br>  Added January 20, 2016<br>  License: `other`
-  </details>
-
 - Tropos Weather [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376)  
   <details><summary><code>dark sky api (forecast api)</code> <code>reactivecocoa</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/thoughtbot/Tropos<br>  Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Tropos Weather image 1' src='http://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg'> <img height='300' alt='Tropos Weather image 2' src='http://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Wizard War: Cast spells in single or multiplayer wizard duels [` App Store`](https://itunes.apple.com/app/wizard-war/id702839715)  
-  <details><summary><code>reactivecocoa</code> <code>parse</code> 🔥🔥🔥</summary>
-
-  https://github.com/seanhess/wizardwar<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Wizard War image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg'> <img height='300' alt='Wizard War image 2' src='http://a5.mzstatic.com/us/r30/Purple6/v4/61/e1/45/61e14599-9ddb-b299-9339-7bf09a85fd55/screen696x696.jpeg'> <img height='300' alt='Wizard War image 3' src='http://a2.mzstatic.com/us/r30/Purple/v4/59/b5/e0/59b5e0e1-3b1b-b29e-1093-fbe3273157ff/screen696x696.jpeg'> <img height='300' alt='Wizard War image 4' src='http://a1.mzstatic.com/us/r30/Purple4/v4/52/87/67/52876746-f548-1e4b-2f6c-6fedd5beef7e/screen696x696.jpeg'> <img height='300' alt='Wizard War image 5' src='http://a3.mzstatic.com/us/r30/Purple4/v4/d6/25/c8/d625c8ef-42a8-7868-ac72-16430d62adb3/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -4488,18 +4094,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 </div>
   </details>
 
-- Federal Data SDK  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/USDepartmentofLabor/Swift-Sample-App<br>  Added April 14, 2015<br>  License: `other`
-  </details>
-
-- HomeKit-Demo  
-  <details><summary><code>swift</code> 🔥🔥</summary>
-
-  https://github.com/KhaosT/HomeKit-Demo<br>  Added March 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
 - iOS 10 Day by Day: Code examples for the new functions in iOS 10  
   <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
@@ -4586,12 +4180,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   https://github.com/vanyaland/MVVM-Example<br>  Added September  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Protocol-Oriented MVVM Examples image 1' src='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png'> <img height='300' alt='Protocol-Oriented MVVM Examples image 2' src='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png'> <img height='300' alt='Protocol-Oriented MVVM Examples image 3' src='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png'> 
 </div>
-  </details>
-
-- ReactiveKitten: It's about GIFs & cats  
-  <details><summary><code>swift</code> <code>giphy api</code> <code>interstellar</code> </summary>
-
-  https://github.com/JensRavens/ReactiveKitten<br>  Added May 11, 2016<br>  License: `other`
   </details>
 
 - RKGist: GitHub Gists  
@@ -4920,14 +4508,6 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- CloudKit-To-Do-List: Store & retrieve tasks  
-  <details><summary><code>swift</code> 🔥</summary>
-
-  https://github.com/anthonygeranio/CloudKit-To-Do-List<br>  Added April  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='CloudKit-To-Do-List image 1' src='https://i.imgur.com/HBFZhdm.png'> <img height='300' alt='CloudKit-To-Do-List image 2' src='https://i.imgur.com/RKo9RXC.png'> 
-</div>
-  </details>
-
 - eCortex: Manage / organize thoughts & ideas into custom categories [` App Store`](https://itunes.apple.com/app/ecortex/id1105026832)  
   <details><summary><code>swift</code> </summary>
 
@@ -5072,12 +4652,6 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- SwiftNote: Simple note taking with Today Extension & iCloud sync  
-  <details><summary><code>swift</code> 🔥</summary>
-
-  https://github.com/mslathrop/SwiftNote<br>  Added March 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
 - Thoughtless: Quickly jot down thoughts, supports Markdown  
   <details><summary><code>swift</code> <code>swifthexcolors</code> <code>cfalertviewcontroller</code> </summary>
 
@@ -5112,14 +4686,6 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/ashfurrow/C-41<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div>
-</div>
-  </details>
-
-- Cherry: Mini Pomodoro Timer  
-  <details><summary><code>swift</code> 🔥🔥</summary>
-
-  https://github.com/kenshin03/Cherry<br>  Added February 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Cherry image 1' src='https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png'> 
 </div>
   </details>
 
@@ -5296,14 +4862,6 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/thoughtbot/Tropos<br>  Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Tropos Weather image 1' src='http://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg'> <img height='300' alt='Tropos Weather image 2' src='http://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- WeatherMap: Weather around you in a glance [` App Store`](https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529)  
-  <details><summary><code>swift</code> <code>openweathermap api</code> 🔥🔥</summary>
-
-  https://github.com/TakefiveInteractive/WeatherMap<br>  Added June 19, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='WeatherMap image 1' src='http://a2.mzstatic.com/us/r30/Purple7/v4/fa/17/28/fa17286e-ee25-52ea-ae4a-e75d5331ccb7/screen696x696.jpeg'> <img height='300' alt='WeatherMap image 2' src='http://a5.mzstatic.com/us/r30/Purple7/v4/21/85/b7/2185b753-ca28-b2bc-5055-cf50196d891b/screen696x696.jpeg'> <img height='300' alt='WeatherMap image 3' src='http://a1.mzstatic.com/us/r30/Purple1/v4/ac/c6/74/acc67412-b02c-f077-290d-9b5fc259340c/screen696x696.jpeg'> <img height='300' alt='WeatherMap image 4' src='http://a2.mzstatic.com/us/r30/Purple1/v4/7a/78/01/7a7801d7-9c20-4e63-ab97-6fd147020bbf/screen696x696.jpeg'> <img height='300' alt='WeatherMap image 5' src='http://a3.mzstatic.com/us/r30/Purple5/v4/95/a9/82/95a9820d-a7e6-aa74-77f3-cebc26d6c146/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -5634,14 +5192,6 @@ https://firebase.google.com/ — [back to top](#readme)
 </div>
   </details>
 
-- HackerNews (Y) [` App Store`](https://itunes.apple.com/app/hacker-news-y/id1027140113)  
-  <details><summary><code>hn api</code> <code>firebase</code> <code>fabric</code> </summary>
-
-  https://github.com/vetri02/HackerNews<br>  Added October 14, 2015<br>  License: `other`
-  <div><img height='300' alt='HackerNews (Y) image 1' src='http://a1.mzstatic.com/us/r30/Purple1/v4/28/41/0c/28410cfe-5506-ebf8-1634-fec74bf240fc/screen696x696.jpeg'> <img height='300' alt='HackerNews (Y) image 2' src='http://a2.mzstatic.com/us/r30/Purple7/v4/5c/f2/a6/5cf2a68f-cd7d-c69d-47b0-32b28986b505/screen696x696.jpeg'> <img height='300' alt='HackerNews (Y) image 3' src='http://a3.mzstatic.com/us/r30/Purple69/v4/1a/dc/4e/1adc4edf-5b2d-eb44-0ac4-e8c03cf3ff75/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - how-much: Simple app to record how much things cost  
   <details><summary><code>parse</code> <code>firebase</code> <code>realm</code> </summary>
 
@@ -5768,27 +5318,11 @@ https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme)
 </div>
   </details>
 
-- Parse-Challenge-App: App with likes, comments, posting images/videos [` App Store`](https://itunes.apple.com/app/lets-challenge-me/id944004497)  
-  <details><summary><code>iphone</code> 🔥</summary>
-
-  https://github.com/TomekB/Parse-Challenge-App<br>  Added March  5, 2015<br>  License: `other`
-  <div><img height='300' alt='Parse-Challenge-App image 1' src='http://a1.mzstatic.com/us/r30/Purple5/v4/2b/7a/76/2b7a76d2-3622-dc56-fc51-38b28f5e5739/screen696x696.jpeg'> <img height='300' alt='Parse-Challenge-App image 2' src='http://a5.mzstatic.com/us/r30/Purple1/v4/95/ea/a2/95eaa213-a27b-a3c2-1060-48a003e349fc/screen696x696.jpeg'> <img height='300' alt='Parse-Challenge-App image 3' src='http://a5.mzstatic.com/us/r30/Purple5/v4/fb/76/54/fb76545d-9a8b-16b2-b94d-9f8f166af6bb/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - RaceMe: Run tracking & ghosting  
   <details><summary><code>swift</code> <code>parse</code> 🔥🔥🔥</summary>
 
   https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
   <div><img height='300' alt='RaceMe image 1' src='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'> 
-</div>
-  </details>
-
-- Wizard War: Cast spells in single or multiplayer wizard duels [` App Store`](https://itunes.apple.com/app/wizard-war/id702839715)  
-  <details><summary><code>reactivecocoa</code> <code>parse</code> 🔥🔥🔥</summary>
-
-  https://github.com/seanhess/wizardwar<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Wizard War image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg'> <img height='300' alt='Wizard War image 2' src='http://a5.mzstatic.com/us/r30/Purple6/v4/61/e1/45/61e14599-9ddb-b299-9339-7bf09a85fd55/screen696x696.jpeg'> <img height='300' alt='Wizard War image 3' src='http://a2.mzstatic.com/us/r30/Purple/v4/59/b5/e0/59b5e0e1-3b1b-b29e-1093-fbe3273157ff/screen696x696.jpeg'> <img height='300' alt='Wizard War image 4' src='http://a1.mzstatic.com/us/r30/Purple4/v4/52/87/67/52876746-f548-1e4b-2f6c-6fedd5beef7e/screen696x696.jpeg'> <img height='300' alt='Wizard War image 5' src='http://a3.mzstatic.com/us/r30/Purple4/v4/d6/25/c8/d625c8ef-42a8-7868-ac72-16430d62adb3/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -5810,14 +5344,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
   https://github.com/VctrySam/AirBnb<br>  Added August 14, 2016<br>  License: `other`
   <div><img height='300' alt='AirBnb clone image 1' src='https://i.imgur.com/vMgWK6m.png'> 
-</div>
-  </details>
-
-- Around Me: Display Instagram photos around your location  
-  <details><summary><code>react native</code> 🔥</summary>
-
-  https://github.com/bgryszko/react-native-example<br>  Added October 13, 2015<br>  License: `other`
-  <div><img height='300' alt='Around Me image 1' src='https://raw.githubusercontent.com/bgryszko/react-native-example/master/preview.gif'> 
 </div>
   </details>
 
@@ -5853,12 +5379,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
-- Currency Converter  
-  <details><summary><code>react native</code> </summary>
-
-  https://github.com/ashwinpreet/ReactNativeExamples<br>  https://github.com/ashwinpreet/ReactNativeExamples/tree/master/ios/CurrencyConverter<br>  Added May 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
 - Den: View houses for sale in the Northwest  
   <details><summary><code>react native</code> 🔥🔥</summary>
 
@@ -5883,14 +5403,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
-- Facebook Login  
-  <details><summary><code>react native</code> 🔥🔥🔥</summary>
-
-  https://github.com/brentvatne/react-native-login<br>  Added April 14, 2015<br>  License: `other`
-  <div><img height='300' alt='Facebook Login image 1' src='https://github.com/brentvatne/react-native-login/raw/master/demo!!!.gif'> 
-</div>
-  </details>
-
 - FC Barcelona clone  
   <details><summary><code>react-native</code> </summary>
 
@@ -5904,14 +5416,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
   https://github.com/7kfpun/FinanceReactNative<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Finance image 1' src='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'> 
-</div>
-  </details>
-
-- Foreign Exchange  
-  <details><summary><code>react native</code> </summary>
-
-  https://github.com/peralmq/ForeignExchangeApp<br>  Added July 24, 2015<br>  License: `other`
-  <div><img height='300' alt='Foreign Exchange image 1' src='https://cloud.githubusercontent.com/assets/238536/7063949/469613cc-deab-11e4-9d67-c727bcc0171b.png'> 
 </div>
   </details>
 
@@ -5939,22 +5443,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
-- Hacker News app by jsdf  
-  <details><summary><code>react native</code> 🔥🔥</summary>
-
-  https://github.com/jsdf/ReactNativeHackerNews<br>  Added March 30, 2016<br>  License: `other`
-  <div><img height='300' alt='Hacker News app by jsdf image 1' src='https://camo.githubusercontent.com/f4cd843dea61e9f9c10319fea6ecafb6f2b937d7/687474703a2f2f692e696d6775722e636f6d2f67566d727844652e706e67'> <img height='300' alt='Hacker News app by jsdf image 2' src='https://camo.githubusercontent.com/40c061e190af77493771d432dfc75ba1b8332deb/687474703a2f2f692e696d6775722e636f6d2f46594f674259632e706e67'> 
-</div>
-  </details>
-
-- Iceland Earthquakes  
-  <details><summary><code>react native</code> </summary>
-
-  https://github.com/paranoida/IcelandEarthquakes<br>  Added May  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Iceland Earthquakes image 1' src='https://raw.githubusercontent.com/paranoida/IcelandEarthquakes/master/preview.png'> 
-</div>
-  </details>
-
 - iTunes Catalog Search  
   <details><summary><code>react native</code> </summary>
 
@@ -5967,14 +5455,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react native</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/keybase/client<br>  Added February  9, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-  </details>
-
-- london-react  
-  <details><summary><code>react native</code> </summary>
-
-  https://github.com/JoeStanton/london-react<br>  Added August  2, 2015<br>  License: `other`
-  <div><img height='300' alt='london-react image 1' src='https://i.imgur.com/zcyhbtv.png'> 
-</div>
   </details>
 
 - movieapp: Discover movies & tv shows  
@@ -6017,14 +5497,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
-- PocketNode: Lightweight Node REPL  
-  <details><summary><code>react native</code> </summary>
-
-  https://github.com/mzabriskie/PocketNode<br>  Added February  4, 2016<br>  License: `other`
-  <div><img height='300' alt='PocketNode image 1' src='https://cloud.githubusercontent.com/assets/199035/10439739/49d80e60-70f9-11e5-94b1-16e06eeb3a8f.png'> 
-</div>
-  </details>
-
 - PokeDB: Clean and simple Pokédex app for Pokémon GO [` App Store`](https://itunes.apple.com/app/pokedb/id1143037838)  
   <details><summary><code>react-native</code> 🔥</summary>
 
@@ -6054,14 +5526,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
   https://github.com/Morhaus/rn-pokevision<br>  Added September  9, 2016<br>  License: `other`
   <div><img height='300' alt='pokevision image 1' src='https://github.com/Morhaus/rn-pokevision/raw/master/screenshot.png'> 
-</div>
-  </details>
-
-- Product Kitty: Product Hunt app  
-  <details><summary><code>react native</code> 🔥</summary>
-
-  https://github.com/rkho/product-kitty<br>  Added September  2, 2015<br>  License: `other`
-  <div><img height='300' alt='Product Kitty image 1' src='https://ph-files.imgix.net/8f617c17-4ec6-482d-866d-a65d5387c0ad?auto=format&codec=mozjpeg&cs=strip'> 
 </div>
   </details>
 
@@ -6118,30 +5582,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
   https://github.com/VctrySam/SnapChat<br>  Added August 14, 2016<br>  License: `other`
   <div><img height='300' alt='Snapchat clone image 1' src='https://i.imgur.com/6HfPmrT.png'> 
-</div>
-  </details>
-
-- Songkick  
-  <details><summary><code>react native</code> 🔥</summary>
-
-  https://github.com/ArnaudRinquin/sk-react-native<br>  Added October 27, 2015<br>  License: `other`
-  <div><img height='300' alt='Songkick image 1' src='https://github.com/ArnaudRinquin/sk-react-native/raw/master/screenshots.png'> 
-</div>
-  </details>
-
-- Spacepics: A small app displaying NASA's Picture of the Day  
-  <details><summary><code>react native</code> </summary>
-
-  https://github.com/campezzi/react-native-spacepics<br>  Added May 26, 2015<br>  License: `other`
-  <div><img height='300' alt='Spacepics image 1' src='https://i.imgur.com/YENtnhd.png'> 
-</div>
-  </details>
-
-- Sudoku  
-  <details><summary><code>react native</code> </summary>
-
-  https://github.com/christopherdro/react-native-sudoku<br>  Added March 10, 2016<br>  License: `other`
-  <div><img height='300' alt='Sudoku image 1' src='https://github.com/christopherdro/react-native-sudoku/raw/master/demo.gif'> 
 </div>
   </details>
 
