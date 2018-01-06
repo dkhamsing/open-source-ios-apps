@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **280** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **266** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -129,14 +129,6 @@ Click ► to show more details
 </div>
   </details>
 
-- Brew: Discover craft beer pubs nearby [` App Store`](https://itunes.apple.com/app/id986830433)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/contentful/ContentfulWatchKitExample<br>  Added April 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Brew image 1' src='http://a1.mzstatic.com/us/r30/Purple5/v4/d8/0b/60/d80b6021-c445-60b3-718e-6aa9b767dd67/screen696x696.jpeg'> <img height='300' alt='Brew image 2' src='http://a2.mzstatic.com/us/r30/Purple5/v4/a7/a9/83/a7a983cb-7a25-f622-2bed-225c2e77ca15/screen696x696.jpeg'> <img height='300' alt='Brew image 3' src='http://a5.mzstatic.com/us/r30/Purple7/v4/67/4c/62/674c628c-ab5a-3aa1-e480-40b0afbce87e/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Bus Today: Track bus line on your wrist, includes Today Extension [` App Store`](https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341)  
   <details><summary><code>objc</code> 🇨🇳 </summary>
 
@@ -182,14 +174,6 @@ Click ► to show more details
 
   https://github.com/diogot/MyWeight<br>  Added June 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='MyWeight History image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/2d/28/8c/2d288c05-33f0-1f18-b06a-4e3a24e1d608/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- OnTime: Access the SBB (Swiss railway) timetable [` App Store`](https://itunes.apple.com/app/ontime-switzerland/id955289458)  
-  <details><summary><code>watchkit</code> </summary>
-
-  https://github.com/D-32/OnTime<br>  Added May 13, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='OnTime image 1' src='https://i.imgur.com/gazVTKg.jpg'> 
 </div>
   </details>
 
@@ -309,14 +293,6 @@ Click ► to show more details
 
   https://github.com/cyanzhong/LunarCore<br>  Added October 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='LunarCore image 1' src='https://github.com/cyanzhong/LunarCore/raw/master/iOS.png'> 
-</div>
-  </details>
-
-- Workdays: Simple calendar with operating schedule [` App Store`](https://itunes.apple.com/app/workdays-calendar/id889712978)  
-  <details><summary><code>iphone</code> </summary>
-
-  https://github.com/mpak/Workdays<br>  Added August 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Workdays image 1' src='http://a5.mzstatic.com/us/r30/Purple5/v4/02/fa/8e/02fa8ec3-2586-48f8-a759-42695f62dde9/screen696x696.jpeg'> <img height='300' alt='Workdays image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/49/47/2c/49472c02-7607-80a8-6f0f-4b42aa0420aa/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -1139,14 +1115,6 @@ Click ► to show more details
 </div>
   </details>
 
-- Wizard War: Cast spells in single or multiplayer wizard duels [` App Store`](https://itunes.apple.com/app/wizard-war/id702839715)  
-  <details><summary><code>reactivecocoa</code> <code>parse</code> 🔥🔥🔥</summary>
-
-  https://github.com/seanhess/wizardwar<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Wizard War image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg'> <img height='300' alt='Wizard War image 2' src='http://a5.mzstatic.com/us/r30/Purple6/v4/61/e1/45/61e14599-9ddb-b299-9339-7bf09a85fd55/screen696x696.jpeg'> <img height='300' alt='Wizard War image 3' src='http://a2.mzstatic.com/us/r30/Purple/v4/59/b5/e0/59b5e0e1-3b1b-b29e-1093-fbe3273157ff/screen696x696.jpeg'> <img height='300' alt='Wizard War image 4' src='http://a1.mzstatic.com/us/r30/Purple4/v4/52/87/67/52876746-f548-1e4b-2f6c-6fedd5beef7e/screen696x696.jpeg'> <img height='300' alt='Wizard War image 5' src='http://a3.mzstatic.com/us/r30/Purple4/v4/d6/25/c8/d625c8ef-42a8-7868-ac72-16430d62adb3/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Wolfenstein 3D: Wolfenstein 3D for iOS [` App Store`](https://itunes.apple.com/app/wolfenstein-3d-classic-platinum/id309470478)  
   <details><summary><code>objc</code> 🔥🔥</summary>
 
@@ -1297,14 +1265,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- ClickWheelKeyboard: Brings back the classic iPod click wheel as a keyboard [` App Store`](https://itunes.apple.com/app/click-wheel-keyboard/id993111285)  
-  <details><summary><code>ios8</code> </summary>
-
-  https://github.com/b3ll/ClickWheelKeyboard<br>  Added May 23, 2015<br>  License: `other`
-  <div><img height='300' alt='ClickWheelKeyboard image 1' src='http://a1.mzstatic.com/us/r30/Purple7/v4/72/05/4f/72054f5a-b311-f8b4-a336-050e593cfdb1/screen696x696.jpeg'> <img height='300' alt='ClickWheelKeyboard image 2' src='http://a1.mzstatic.com/us/r30/Purple1/v4/1e/1c/61/1e1c6189-48d7-e952-986a-8aff9739531b/screen696x696.jpeg'> <img height='300' alt='ClickWheelKeyboard image 3' src='http://a5.mzstatic.com/us/r30/Purple5/v4/ee/a7/f6/eea7f69e-cb3f-eb12-7232-d5cd07c32c8c/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Link Keyboard : My Links Everywhere: Put all your links in one place & make them accessible with a keyboard. [` App Store`](https://itunes.apple.com/app/link-keyboard-my-links-everywhere/id1098798450)  
   <details><summary><code>swift</code> </summary>
 
@@ -1419,14 +1379,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
   https://github.com/kiliankoe/ParkenDD<br>  Added April 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='ParkenDD image 1' src='http://a5.mzstatic.com/us/r30/Purple42/v4/2d/d5/6e/2dd56eb7-9c19-0d14-371b-08a6f6bcba9f/screen696x696.jpeg'> <img height='300' alt='ParkenDD image 2' src='http://a5.mzstatic.com/us/r30/Purple41/v4/2a/78/f9/2a78f92a-111f-24e9-e8a7-9acef35007db/screen696x696.jpeg'> <img height='300' alt='ParkenDD image 3' src='http://a3.mzstatic.com/us/r30/Purple19/v4/74/7d/12/747d12d0-1e24-2156-1cb0-6a9296556440/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- pathlogger: GPS logging app [` App Store`](https://itunes.apple.com/app/pathlogger/id980068173)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/eugenpirogoff/pathlogger<br>  Added July 20, 2015<br>  License: `other`
-  <div><img height='300' alt='pathlogger image 1' src='https://github.com/eugenpirogoff/PathLogger/raw/master/tmp/2_recording.png'> <img height='300' alt='pathlogger image 2' src='https://github.com/eugenpirogoff/PathLogger/raw/master/tmp/3_recordings.png'> 
 </div>
   </details>
 
@@ -1762,14 +1714,6 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- OCiney: Movie info app [` App Store`](https://itunes.apple.com/app/id955480687)  
-  <details><summary><code>afnetworking</code> <code>sdwebimage</code> <code>gpuimage</code> 🇫🇷 🔥🔥</summary>
-
-  https://github.com/florent37/OCiney-iOS<br>  Added March  3, 2015<br>  License: `other`
-  <div><img height='300' alt='OCiney image 1' src='http://a1.mzstatic.com/us/r30/Purple1/v4/7d/dc/67/7ddc6778-b5f2-acea-e384-cc5225334fca/screen696x696.jpeg'> <img height='300' alt='OCiney image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/0a/c0/0a/0ac00a3c-90e5-26c6-a007-a2b8acfe5c96/screen696x696.jpeg'> <img height='300' alt='OCiney image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/08/ed/f3/08edf3e4-f963-1ef9-fef4-749a5df5c543/screen696x696.jpeg'> <img height='300' alt='OCiney image 4' src='http://a2.mzstatic.com/us/r30/Purple3/v4/ce/c2/8b/cec28bd9-b317-71c1-cf14-e5a985543991/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - OpenPics: View historical images from multiple remote sources [` App Store`](https://itunes.apple.com/app/openpics/id633423505)  
   <details><summary><code>swift</code> </summary>
 
@@ -1826,14 +1770,6 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- That Movie With: Find common movies among actors [` App Store`](https://itunes.apple.com/app/that-movie-with/id892972135)  
-  <details><summary><code>shimmer</code> <code>nslogger</code> <code>cocoalumberjack</code> <code>tmdb</code> </summary>
-
-  https://github.com/jayhickey/thatmoviewith<br>  Added June 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='That Movie With image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/ff/00/78/ff007811-7989-9a06-d917-ae2f7532177a/screen696x696.jpeg'> <img height='300' alt='That Movie With image 2' src='http://a4.mzstatic.com/us/r30/Purple4/v4/67/7b/d9/677bd916-def9-74c9-a628-fb35197f7d66/screen696x696.jpeg'> <img height='300' alt='That Movie With image 3' src='http://a5.mzstatic.com/us/r30/Purple/v4/e8/9c/42/e89c421c-2188-aaf4-bf1d-8decb208eda0/screen696x696.jpeg'> <img height='300' alt='That Movie With image 4' src='http://a3.mzstatic.com/us/r30/Purple4/v4/a7/cd/22/a7cd228b-f17d-7e64-6f0b-2ae55dd6be6c/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - xkcd [` App Store`](https://itunes.apple.com/app/xkcd/id303688284)  
   <details><summary><code>iphone</code> </summary>
 
@@ -1876,14 +1812,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/atuooo/notGIF<br>  Added July  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='notGIF image 1' src='https://raw.githubusercontent.com/atuooo/notGIF/master/images/screenshots.png'> 
-</div>
-  </details>
-
-- Poppins: House all your favorite GIFs, easily share them with your friends & family [` App Store`](https://itunes.apple.com/app/poppins/id978854068)  
-  <details><summary><code>swift</code> 🔥</summary>
-
-  https://github.com/thoughtbot/poppins<br>  Added July 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Poppins image 1' src='http://a5.mzstatic.com/us/r30/Purple1/v4/cb/a5/c3/cba5c34b-9fc3-305d-8b45-0049b7f15067/screen696x696.jpeg'> <img height='300' alt='Poppins image 2' src='http://a1.mzstatic.com/us/r30/Purple1/v4/c1/8f/75/c18f7559-ca52-6e65-7a66-caf7bfd9d1d3/screen696x696.jpeg'> <img height='300' alt='Poppins image 3' src='http://a1.mzstatic.com/us/r30/Purple7/v4/0c/43/99/0c43994d-b629-5527-ea40-793d4fee149c/screen696x696.jpeg'> <img height='300' alt='Poppins image 4' src='http://a5.mzstatic.com/us/r30/Purple7/v4/86/7f/bc/867fbc27-4d90-2e91-2809-48c4393f3275/screen696x696.jpeg'> <img height='300' alt='Poppins image 5' src='http://a5.mzstatic.com/us/r30/Purple7/v4/29/b1/31/29b13102-333b-4d80-8e12-2f8b207a05d3/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -1971,27 +1899,11 @@ https://news.ycombinator.com/ — [back to top](#readme)
 </div>
   </details>
 
-- HackerNews (Y) [` App Store`](https://itunes.apple.com/app/hacker-news-y/id1027140113)  
-  <details><summary><code>hn api</code> <code>firebase</code> <code>fabric</code> </summary>
-
-  https://github.com/vetri02/HackerNews<br>  Added October 14, 2015<br>  License: `other`
-  <div><img height='300' alt='HackerNews (Y) image 1' src='http://a1.mzstatic.com/us/r30/Purple1/v4/28/41/0c/28410cfe-5506-ebf8-1634-fec74bf240fc/screen696x696.jpeg'> <img height='300' alt='HackerNews (Y) image 2' src='http://a2.mzstatic.com/us/r30/Purple7/v4/5c/f2/a6/5cf2a68f-cd7d-c69d-47b0-32b28986b505/screen696x696.jpeg'> <img height='300' alt='HackerNews (Y) image 3' src='http://a3.mzstatic.com/us/r30/Purple69/v4/1a/dc/4e/1adc4edf-5b2d-eb44-0ac4-e8c03cf3ff75/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - HN Reader: Hacker News Reader [` App Store`](https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741)  
   <details><summary><code>swift</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/Dimillian/SwiftHN<br>  Added January 26, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='HN Reader image 1' src='https://cdn-images-1.medium.com/max/800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'> 
-</div>
-  </details>
-
-- News/YC: Includes user management, commenting, submitting & themes [` App Store`](https://itunes.apple.com/app/news-yc/id592893508)  
-  <details><summary><code>swift</code> 🔥🔥🔥</summary>
-
-  https://github.com/bennyguitar/News-YC---iPhone<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='News/YC image 1' src='http://a3.mzstatic.com/us/r30/Purple1/v4/05/9a/e1/059ae1f3-83ef-e2f5-d8c6-f93e6a53dcad/screen696x696.jpeg'> <img height='300' alt='News/YC image 2' src='http://a1.mzstatic.com/us/r30/Purple1/v4/8a/13/c0/8a13c09e-5c41-d2c9-df03-38da1596fbd7/screen696x696.jpeg'> <img height='300' alt='News/YC image 3' src='http://a3.mzstatic.com/us/r30/Purple5/v4/a7/12/c7/a712c7d8-dbbf-d4c3-c85a-2c93c74f039d/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -2220,27 +2132,11 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
 </div>
   </details>
 
-- ReactiveHackerNews: Hacker News reader with Tinder style interface [` App Store`](https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368)  
-  <details><summary><code>reactivecocoa</code> <code>mvvm</code> </summary>
-
-  https://github.com/syshen/ReactiveHackerNews<br>  Added August 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='ReactiveHackerNews image 1' src='http://a5.mzstatic.com/us/r30/Purple5/v4/b9/12/55/b912554c-5eda-4866-b57a-f528ad26a6aa/screen696x696.jpeg'> <img height='300' alt='ReactiveHackerNews image 2' src='http://a2.mzstatic.com/us/r30/Purple6/v4/43/ff/b3/43ffb350-62e4-3c21-cb99-20cdb99544be/screen696x696.jpeg'> <img height='300' alt='ReactiveHackerNews image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/8f/61/04/8f610400-1f87-1811-31a3-3a8b4994f141/screen696x696.jpeg'> <img height='300' alt='ReactiveHackerNews image 4' src='http://a2.mzstatic.com/us/r30/Purple3/v4/51/b1/27/51b1277d-e738-a4c9-6955-af828790a123/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Tropos Weather [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376)  
   <details><summary><code>dark sky api (forecast api)</code> <code>reactivecocoa</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/thoughtbot/Tropos<br>  Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Tropos Weather image 1' src='http://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg'> <img height='300' alt='Tropos Weather image 2' src='http://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Wizard War: Cast spells in single or multiplayer wizard duels [` App Store`](https://itunes.apple.com/app/wizard-war/id702839715)  
-  <details><summary><code>reactivecocoa</code> <code>parse</code> 🔥🔥🔥</summary>
-
-  https://github.com/seanhess/wizardwar<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Wizard War image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg'> <img height='300' alt='Wizard War image 2' src='http://a5.mzstatic.com/us/r30/Purple6/v4/61/e1/45/61e14599-9ddb-b299-9339-7bf09a85fd55/screen696x696.jpeg'> <img height='300' alt='Wizard War image 3' src='http://a2.mzstatic.com/us/r30/Purple/v4/59/b5/e0/59b5e0e1-3b1b-b29e-1093-fbe3273157ff/screen696x696.jpeg'> <img height='300' alt='Wizard War image 4' src='http://a1.mzstatic.com/us/r30/Purple4/v4/52/87/67/52876746-f548-1e4b-2f6c-6fedd5beef7e/screen696x696.jpeg'> <img height='300' alt='Wizard War image 5' src='http://a3.mzstatic.com/us/r30/Purple4/v4/d6/25/c8/d625c8ef-42a8-7868-ac72-16430d62adb3/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -2659,14 +2555,6 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- WeatherMap: Weather around you in a glance [` App Store`](https://itunes.apple.com/app/weather-map-take-five-interactive/id990141529)  
-  <details><summary><code>swift</code> <code>openweathermap api</code> 🔥🔥</summary>
-
-  https://github.com/TakefiveInteractive/WeatherMap<br>  Added June 19, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='WeatherMap image 1' src='http://a2.mzstatic.com/us/r30/Purple7/v4/fa/17/28/fa17286e-ee25-52ea-ae4a-e75d5331ccb7/screen696x696.jpeg'> <img height='300' alt='WeatherMap image 2' src='http://a5.mzstatic.com/us/r30/Purple7/v4/21/85/b7/2185b753-ca28-b2bc-5055-cf50196d891b/screen696x696.jpeg'> <img height='300' alt='WeatherMap image 3' src='http://a1.mzstatic.com/us/r30/Purple1/v4/ac/c6/74/acc67412-b02c-f077-290d-9b5fc259340c/screen696x696.jpeg'> <img height='300' alt='WeatherMap image 4' src='http://a2.mzstatic.com/us/r30/Purple1/v4/7a/78/01/7a7801d7-9c20-4e63-ab97-6fd147020bbf/screen696x696.jpeg'> <img height='300' alt='WeatherMap image 5' src='http://a3.mzstatic.com/us/r30/Purple5/v4/95/a9/82/95a9820d-a7e6-aa74-77f3-cebc26d6c146/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - YoCelsius [` App Store`](https://itunes.apple.com/app/yocelsius/id967721892)  
   <details><summary><code>objc</code> 🔥🔥🔥🔥🔥</summary>
 
@@ -2852,14 +2740,6 @@ https://firebase.google.com/ — [back to top](#readme)
 </div>
   </details>
 
-- HackerNews (Y) [` App Store`](https://itunes.apple.com/app/hacker-news-y/id1027140113)  
-  <details><summary><code>hn api</code> <code>firebase</code> <code>fabric</code> </summary>
-
-  https://github.com/vetri02/HackerNews<br>  Added October 14, 2015<br>  License: `other`
-  <div><img height='300' alt='HackerNews (Y) image 1' src='http://a1.mzstatic.com/us/r30/Purple1/v4/28/41/0c/28410cfe-5506-ebf8-1634-fec74bf240fc/screen696x696.jpeg'> <img height='300' alt='HackerNews (Y) image 2' src='http://a2.mzstatic.com/us/r30/Purple7/v4/5c/f2/a6/5cf2a68f-cd7d-c69d-47b0-32b28986b505/screen696x696.jpeg'> <img height='300' alt='HackerNews (Y) image 3' src='http://a3.mzstatic.com/us/r30/Purple69/v4/1a/dc/4e/1adc4edf-5b2d-eb44-0ac4-e8c03cf3ff75/screen696x696.jpeg'> 
-</div>
-  </details>
-
 
 ### Ionic 
  
@@ -2907,22 +2787,6 @@ https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme)
 
   https://github.com/nathantannar4/Parse-Dashboard-for-iOS<br>  Added October  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Parse Dashboard image 1' src='https://github.com/nathantannar4/Parse-Dashboard-for-iOS/raw/master/Screenshots/D.png?raw=true'> <img height='300' alt='Parse Dashboard image 2' src='https://github.com/nathantannar4/Parse-Dashboard-for-iOS/raw/master/Screenshots/E.png?raw=true'> 
-</div>
-  </details>
-
-- Parse-Challenge-App: App with likes, comments, posting images/videos [` App Store`](https://itunes.apple.com/app/lets-challenge-me/id944004497)  
-  <details><summary><code>iphone</code> 🔥</summary>
-
-  https://github.com/TomekB/Parse-Challenge-App<br>  Added March  5, 2015<br>  License: `other`
-  <div><img height='300' alt='Parse-Challenge-App image 1' src='http://a1.mzstatic.com/us/r30/Purple5/v4/2b/7a/76/2b7a76d2-3622-dc56-fc51-38b28f5e5739/screen696x696.jpeg'> <img height='300' alt='Parse-Challenge-App image 2' src='http://a5.mzstatic.com/us/r30/Purple1/v4/95/ea/a2/95eaa213-a27b-a3c2-1060-48a003e349fc/screen696x696.jpeg'> <img height='300' alt='Parse-Challenge-App image 3' src='http://a5.mzstatic.com/us/r30/Purple5/v4/fb/76/54/fb76545d-9a8b-16b2-b94d-9f8f166af6bb/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Wizard War: Cast spells in single or multiplayer wizard duels [` App Store`](https://itunes.apple.com/app/wizard-war/id702839715)  
-  <details><summary><code>reactivecocoa</code> <code>parse</code> 🔥🔥🔥</summary>
-
-  https://github.com/seanhess/wizardwar<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Wizard War image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg'> <img height='300' alt='Wizard War image 2' src='http://a5.mzstatic.com/us/r30/Purple6/v4/61/e1/45/61e14599-9ddb-b299-9339-7bf09a85fd55/screen696x696.jpeg'> <img height='300' alt='Wizard War image 3' src='http://a2.mzstatic.com/us/r30/Purple/v4/59/b5/e0/59b5e0e1-3b1b-b29e-1093-fbe3273157ff/screen696x696.jpeg'> <img height='300' alt='Wizard War image 4' src='http://a1.mzstatic.com/us/r30/Purple4/v4/52/87/67/52876746-f548-1e4b-2f6c-6fedd5beef7e/screen696x696.jpeg'> <img height='300' alt='Wizard War image 5' src='http://a3.mzstatic.com/us/r30/Purple4/v4/d6/25/c8/d625c8ef-42a8-7868-ac72-16430d62adb3/screen696x696.jpeg'> 
 </div>
   </details>
 
