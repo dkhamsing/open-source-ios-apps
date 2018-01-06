@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-765-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%20%205,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-765-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%20%206,%202018-lightgrey.svg)
 
 Jump to
 
@@ -750,14 +750,6 @@ Click ► to show more details
 </div>
   </details>
 
-- HausClock: Minimal chess clock  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/nottombrown/HausClock<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='HausClock image 1' src='https://camo.githubusercontent.com/825961b385ec6545c9544c6e8d30870d7f86ebf9/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f32363035312f73637265656e73686f74732f313633333939382f6d6f636b75702e706e67'> 
-</div>
-  </details>
-
 - Natural Language Clock: Display the time as you would speak it  
   <details><summary><code>swift</code> <code>watchos2</code> </summary>
 
@@ -1048,14 +1040,6 @@ Click ► to show more details
 </div>
   </details>
 
-- TextEthan: Allow anyone to message you  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/thii/TextEthan<br>  Added April 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='TextEthan image 1' src='https://i.imgur.com/6V3danC.png'> <img height='300' alt='TextEthan image 2' src='https://i.imgur.com/7yuwMkO.png'> <img height='300' alt='TextEthan image 3' src='https://i.imgur.com/PbpxreZ.png'> <img height='300' alt='TextEthan image 4' src='https://i.imgur.com/UgkwKoB.png'> 
-</div>
-  </details>
-
 - Toshi: Private & secure messaging, Ethereum wallet and browser [` App Store`](https://itunes.apple.com/app/token-wallet/id1200463445)  
   <details><summary><code>swift</code> </summary>
 
@@ -1122,14 +1106,6 @@ Click ► to show more details
 
   https://github.com/snowpunch/AppLove<br>  Added May  7, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div>
-</div>
-  </details>
-
-- AppSlate: Make your own iOS apps [` App Store`](https://itunes.apple.com/app/id511327336)  
-  <details><summary><code>iphone</code> <code>ipad</code> 🔥</summary>
-
-  https://github.com/Taehan-Kim/AppSlate<br>  https://www.facebook.com/AppSlate<br>  Added June  1, 2016<br>  License: `other`
-  <div><img height='300' alt='AppSlate image 1' src='http://a5.mzstatic.com/us/r30/Purple4/v4/57/8c/17/578c175d-2dc8-ca29-104f-a83c67ce463c/screen696x696.jpeg'> <img height='300' alt='AppSlate image 2' src='http://a2.mzstatic.com/us/r30/Purple/v4/d5/25/5e/d5255e9c-4dad-3259-4da8-34bf76ab0d1a/screen696x696.jpeg'> <img height='300' alt='AppSlate image 3' src='http://a2.mzstatic.com/us/r30/Purple4/v4/fa/d0/be/fad0be86-d28d-7ddb-00b3-8ee90015f3d2/screen696x696.jpeg'> <img height='300' alt='AppSlate image 4' src='http://a1.mzstatic.com/us/r30/Purple4/v4/39/b3/a2/39b3a289-16ac-a3c9-0cc2-ce99934a5002/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -1996,14 +1972,6 @@ Click ► to show more details
 </div>
   </details>
 
-- Coins: Bitcoin value tracker  
-  <details><summary><code>swift</code> 🔥</summary>
-
-  https://github.com/nothingmagical/coins<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Coins image 1' src='https://raw.githubusercontent.com/nothingmagical/getcoinsapp.com/master/assets/images/screenshot01.png'> <img height='300' alt='Coins image 2' src='https://raw.githubusercontent.com/nothingmagical/getcoinsapp.com/master/assets/images/screenshot02.png'> <img height='300' alt='Coins image 3' src='https://raw.githubusercontent.com/nothingmagical/getcoinsapp.com/master/assets/images/screenshot03.png'> 
-</div>
-  </details>
-
 
 ## Game 
  
@@ -2190,14 +2158,6 @@ Click ► to show more details
 
   https://github.com/shankqr/4xMobileGame<br>  Added July  5, 2017<br>  License: `other`
   <div><img height='300' alt='Game of War clone image 1' src='https://user-images.githubusercontent.com/3216424/27571005-10f73774-5b35-11e7-9a84-c0b720280fc1.jpeg'> 
-</div>
-  </details>
-
-- Gorillas: Port of the popular old QBasic game with spunk [` App Store`](https://itunes.apple.com/app/gorillas/id302275459)  
-  <details><summary><code>iphone</code> 🔥🔥</summary>
-
-  https://github.com/Lyndir/Gorillas<br>  http://gorillas.lyndir.com/<br>  Added March  5, 2016<br>  License: `other`
-  <div><img height='300' alt='Gorillas image 1' src='http://a5.mzstatic.com/us/r30/Purple/v4/d6/b0/0b/d6b00be6-a152-e345-d897-311826fb8c7a/screen696x696.jpeg'> <img height='300' alt='Gorillas image 2' src='http://a1.mzstatic.com/us/r30/Purple4/v4/b2/ae/fd/b2aefdfc-0404-10c3-01f7-7c68b187d4ca/screen696x696.jpeg'> <img height='300' alt='Gorillas image 3' src='http://a5.mzstatic.com/us/r30/Purple6/v4/ee/f0/48/eef048df-adcb-a352-cdb5-adfe31e2079e/screen696x696.jpeg'> <img height='300' alt='Gorillas image 4' src='http://a2.mzstatic.com/us/r30/Purple6/v4/2b/7b/4f/2b7b4f5b-082f-6973-c55e-a732c01c3a19/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -2711,14 +2671,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- Hodor: Fun Hodor keyboard  
-  <details><summary><code>swift</code> 🔥</summary>
-
-  https://github.com/jonomuller/Hodor-Keyboard<br>  Added December 26, 2015<br>  License: `other`
-  <div><img height='300' alt='Hodor image 1' src='https://raw.githubusercontent.com/jonomuller/Hodor-Keyboard/master/IMG_2168.PNG'> 
-</div>
-  </details>
-
 - Link Keyboard : My Links Everywhere: Put all your links in one place & make them accessible with a keyboard. [` App Store`](https://itunes.apple.com/app/link-keyboard-my-links-everywhere/id1098798450)  
   <details><summary><code>swift</code> </summary>
 
@@ -2839,14 +2791,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
   https://github.com/TosinAF/HopperBus-iOS<br>  Added January 22, 2016<br>  License: `other`
   <div><img height='300' alt='HopperBus image 1' src='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RouteView.png'> <img height='300' alt='HopperBus image 2' src='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RealTimeView.png'> <img height='300' alt='HopperBus image 3' src='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RouteTimesView.png'> <img height='300' alt='HopperBus image 4' src='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/MapView.png'> 
-</div>
-  </details>
-
-- iBeaconTasks: iBeacon to-do reminders  
-  <details><summary><code>parse</code> 🔥</summary>
-
-  https://github.com/TomekB/iBeaconTasks<br>  Added March  5, 2015<br>  License: `other`
-  <div><img height='300' alt='iBeaconTasks image 1' src='http://s25.postimg.org/4y6bvq67z/20140221051029-screen1.png'> 
 </div>
   </details>
 
@@ -3926,14 +3870,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 
-- Reddit  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/amitburst/reddit-demo<br>  Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Reddit image 1' src='https://i.imgur.com/DR8TQz0.png'> <img height='300' alt='Reddit image 2' src='https://i.imgur.com/OaIzWfI.png'> 
-</div>
-  </details>
-
 - TabDump: TabDump news app  
   <details><summary><code>afnetworking</code> </summary>
 
@@ -4364,14 +4300,6 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
   <details><summary><code>iphone</code> 🔥🔥🔥</summary>
 
   https://github.com/jspahrsummers/GroceryList<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
-- HausClock: Minimal chess clock  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/nottombrown/HausClock<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='HausClock image 1' src='https://camo.githubusercontent.com/825961b385ec6545c9544c6e8d30870d7f86ebf9/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f32363035312f73637265656e73686f74732f313633333939382f6d6f636b75702e706e67'> 
-</div>
   </details>
 
 - ReactiveHackerNews: Hacker News reader with Tinder style interface [` App Store`](https://itunes.apple.com/app/reactive-hacker-news-stay/id969422368)  
@@ -5016,22 +4944,6 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- iBeaconTasks: iBeacon to-do reminders  
-  <details><summary><code>parse</code> 🔥</summary>
-
-  https://github.com/TomekB/iBeaconTasks<br>  Added March  5, 2015<br>  License: `other`
-  <div><img height='300' alt='iBeaconTasks image 1' src='http://s25.postimg.org/4y6bvq67z/20140221051029-screen1.png'> 
-</div>
-  </details>
-
-- MyAwesomeChecklist  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/imod/MyAwesomeChecklist<br>  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='MyAwesomeChecklist image 1' src='https://i.imgur.com/GI6mmKy.png'> <img height='300' alt='MyAwesomeChecklist image 2' src='https://i.imgur.com/MWJhn3c.png'> <img height='300' alt='MyAwesomeChecklist image 3' src='https://i.imgur.com/qDxI9gg.png'> 
-</div>
-  </details>
-
 - Planc: Minimalistic to-do list  
   <details><summary><code>swift</code> </summary>
 
@@ -5480,14 +5392,6 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- iContactU: Reminds you to contact people you ought to [` App Store`](https://itunes.apple.com/app/icontactu/id920200100)  
-  <details><summary><code>swift</code> 🔥</summary>
-
-  https://github.com/rizal72/iContactU<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='iContactU image 1' src='http://a3.mzstatic.com/us/r30/Purple5/v4/8e/b7/65/8eb765cc-9f41-3350-d2e5-b140b483ba22/screen696x696.jpeg'> <img height='300' alt='iContactU image 2' src='http://a2.mzstatic.com/us/r30/Purple3/v4/a7/56/6f/a7566fb2-8957-7aee-1f03-94c1eebf1c80/screen696x696.jpeg'> <img height='300' alt='iContactU image 3' src='http://a2.mzstatic.com/us/r30/Purple3/v4/80/cd/d2/80cdd204-4b1f-f7d0-48e7-8fa75c5f6384/screen696x696.jpeg'> <img height='300' alt='iContactU image 4' src='http://a1.mzstatic.com/us/r30/Purple5/v4/92/5f/77/925f776e-9252-18a9-f627-420f82c16373/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - iCopyPasta: Pasteboard feed  
   <details><summary><code>swift</code> </summary>
 
@@ -5573,22 +5477,6 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/aciidb0mb3r/Swiflytics<br>  Added April 26, 2016<br>  License: `other`
   <div><img height='300' alt='Swiflytics image 1' src='http://a3.mzstatic.com/us/r30/Purple69/v4/86/ab/68/86ab68a5-88d7-b086-da5d-1fc67b01053a/screen696x696.jpeg'> <img height='300' alt='Swiflytics image 2' src='http://a4.mzstatic.com/us/r30/Purple49/v4/59/06/4d/59064d82-a209-b76f-11d9-60cc244a3280/screen696x696.jpeg'> <img height='300' alt='Swiflytics image 3' src='http://a1.mzstatic.com/us/r30/Purple49/v4/8d/19/c8/8d19c833-2cb8-49d0-3ae3-a646d9a9a1ee/screen696x696.jpeg'> <img height='300' alt='Swiflytics image 4' src='http://a2.mzstatic.com/us/r30/Purple69/v4/02/b0/7c/02b07c1a-40ad-417a-a875-fa6b3bfbe12d/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Tether: Share your device internet connection without jailbreaking  
-  <details><summary><code>usb</code> 🔥</summary>
-
-  https://github.com/chrisballinger/Tether-iOS<br>  Added December 17, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='Tether image 1' src='https://i.imgur.com/xVPBuW9.png'> 
-</div>
-  </details>
-
-- TheReservist: Check availability of iPhones  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/kimar/TheReservist<br>  Added April  7, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='TheReservist image 1' src='https://github.com/kimar/TheReservist/raw/master/Assets/marketing1.png'> <img height='300' alt='TheReservist image 2' src='https://github.com/kimar/TheReservist/raw/master/Assets/marketing2.png'> 
 </div>
   </details>
 
@@ -5863,14 +5751,6 @@ https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme)
 
   https://github.com/SwiftAnyPic/SwiftAnyPic<br>  Added November  2, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)
   <div><img height='300' alt='Anypic image 1' src='https://i.imgur.com/hkcrHaH.jpg'> 
-</div>
-  </details>
-
-- iBeaconTasks: iBeacon to-do reminders  
-  <details><summary><code>parse</code> 🔥</summary>
-
-  https://github.com/TomekB/iBeaconTasks<br>  Added March  5, 2015<br>  License: `other`
-  <div><img height='300' alt='iBeaconTasks image 1' src='http://s25.postimg.org/4y6bvq67z/20140221051029-screen1.png'> 
 </div>
   </details>
 
