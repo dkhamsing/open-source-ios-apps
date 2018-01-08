@@ -1358,7 +1358,7 @@ Click ► to show more details
   <details><summary><code>objc</code> </summary>
 
   https://bitbucket.org/rileytestut/gba4ios/<br>  Added November 21, 2015<br>  License: `other`
-  <div><img height='300' alt='GBA4iOS image 1' src='http://www.gba4iosapp.com/images/download/gba4ios2_devices.png'> 
+  <div><img height='300' alt='GBA4iOS image 1' src='http://www.wtfgamersonly.com/wp-content/uploads/2014/08/gba4ios.jpg'> 
 </div>
   </details>
 
