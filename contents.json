@@ -14844,6 +14844,19 @@
       "date_added": "Jan 5 2018",
       "suggested_by": "@marty-suzuki",
       "stars": 288
-    }
+    },
+     {
+        "title": "terminal",
+        "source": "https://github.com/louisdh/terminal",
+        "itunes": "https://itunes.apple.com/app/terminal/id1323205755",
+        "description": "Sandboxed command line interface",
+        "screenshots": ["http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg"],
+        "date_added": "Jan 8 2018",
+        "suggested_by": "@dkhamsing",
+        "license": "mit",
+        "tags": ["swift", "panelkit"],
+        "category-ids": ["developer"],
+        "stars": 275
+      } 
   ]
 }
