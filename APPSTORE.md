@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **266** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **267** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -534,6 +534,14 @@ Click ► to show more details
 
   https://github.com/piwik/piwik-mobile-2<br>  https://piwik.org/mobile/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Piwik Mobile 2 image 1' src='http://a5.mzstatic.com/us/r30/Purple5/v4/04/76/42/04764246-03ec-4c04-0b2b-710805357b74/screen696x696.jpeg'> <img height='300' alt='Piwik Mobile 2 image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/6e/bf/79/6ebf7979-44a1-2d00-6b5c-eb7c9c723955/screen696x696.jpeg'> <img height='300' alt='Piwik Mobile 2 image 3' src='http://a4.mzstatic.com/us/r30/Purple3/v4/db/b1/e7/dbb1e7d3-6e59-3e98-8be9-197b25e99c86/screen696x696.jpeg'> <img height='300' alt='Piwik Mobile 2 image 4' src='http://a2.mzstatic.com/us/r30/Purple3/v4/62/10/b0/6210b03c-5d0c-45fd-c23d-f85f5de25b4b/screen696x696.jpeg'> <img height='300' alt='Piwik Mobile 2 image 5' src='http://a4.mzstatic.com/us/r30/Purple3/v4/d1/14/5f/d1145fb7-5cf2-f5b9-e53c-4ad68f748190/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- terminal: Sandboxed command line interface [` App Store`](https://itunes.apple.com/app/terminal/id1323205755)  
+  <details><summary><code>swift</code> <code>panelkit</code> 🔥🔥</summary>
+
+  https://github.com/louisdh/terminal<br>  Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='terminal image 1' src='http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg'> 
 </div>
   </details>
 
