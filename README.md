@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-765-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%20%206,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-766-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%20%208,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1130,6 +1130,14 @@ Click ► to show more details
 
   https://github.com/RishabhTayal/ReviewMonitor<br>  Added December 27, 2017
   <div><img height='300' alt='ReviewMonitor image 1' src='https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot1.png?raw=true'> <img height='300' alt='ReviewMonitor image 2' src='https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot2.png?raw=true'> 
+</div>
+  </details>
+
+- terminal: Sandboxed command line interface [` App Store`](https://itunes.apple.com/app/terminal/id1323205755)  
+  <details><summary><code>swift</code> <code>panelkit</code> 🔥🔥</summary>
+
+  https://github.com/louisdh/terminal<br>  Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='terminal image 1' src='http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg'> 
 </div>
   </details>
 
