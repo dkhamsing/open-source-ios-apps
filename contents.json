@@ -9052,7 +9052,8 @@
       "homepage": "https://pisth.github.io",
       "date_added": "Jan 12 2018",
       "suggested_by": "@ColdGrub1384",
-      "itunes":" https://itunes.apple.com/us/app/pisth/id1331070425?ls=1&mt=8"
+      "license": "apache-2.0",
+      "itunes":"https://itunes.apple.com/app/pisth/id1331070425"
     },
     {
       "title": "Piwik Mobile 2",
