@@ -14874,6 +14874,24 @@
         "tags": ["swift", "panelkit"],
         "category-ids": ["developer"],
         "stars": 275
-      } 
+      },
+    {
+      "title": "Glucosio",
+      "category-ids": [
+        "health"
+      ],
+      "license": "gpl-3.0",
+      "tags": [
+        "swift",
+        "objc",
+        "healthkit",
+        "realm"
+      ],
+      "description": "Glucosio for iOS, a user centered free and open source app for Diabetes management and research. Dual licensed gpl-3.0 or mpl-2.0",
+      "source": "https://github.com/Glucosio/glucosio-ios",
+      "date_added": "Jan 13 2018",
+      "suggested_by": "@chwalters",
+      "stars": 35
+    }
   ]
 }
