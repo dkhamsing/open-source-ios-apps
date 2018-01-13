@@ -9039,6 +9039,22 @@
       ]
     },
     {
+    "title": "Pisth",
+    "category-ids": ["developer"],
+    "description": "SSH and SFTP client",
+    "source": "https://github.com/ColdGrub1384/Pisth",
+    "screenshots": ["https://pisth.github.io/screenshots/1.PNG",
+                     "https://pisth.github.io/screenshots/2.PNG",
+                     "https://pisth.github.io/screenshots/3.jpeg",
+                     "https://pisth.github.io/screenshots/4.PNG",
+                     "https://pisth.github.io/screenshots/5.PNG"
+                    ],
+      "homepage": "https://pisth.github.io",
+      "date_added": "Jan 12 2018",
+      "suggested_by": "@ColdGrub1384",
+      "itunes":" https://itunes.apple.com/us/app/pisth/id1331070425?ls=1&mt=8"
+    },
+    {
       "title": "Piwik Mobile 2",
       "category-ids": [
         "developer",
