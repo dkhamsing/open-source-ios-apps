@@ -14909,6 +14909,24 @@
       "license": "mit",
       "date_added": "Jan 13 2018",
       "suggested_by": "vpeschenkov"
+    },
+    {
+      "title": "Buglife",
+      "description": "Bug reporting SDK & web platform for iOS apps",
+      "source": "https://github.com/Buglife/Buglife-iOS",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "objc"
+      ],
+      "screenshots": [
+        "https://camo.githubusercontent.com/55591e6221b916eb92a96395a03ccd1f81c5b36a/68747470733a2f2f692e696d6775722e636f6d2f6d647767447a642e706e67"
+      ],
+      "stars": 370,
+      "license": "apache-2.0",
+      "date_added": "Jan 13 2018",
+      "suggested_by": "vpeschenkov"
     }
   ]
 }
