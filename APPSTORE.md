@@ -529,19 +529,19 @@ Click ► to show more details
 </div>
   </details>
 
+- Matomo: Access analytics on the go (formerly Piwik) [` App Store`](https://itunes.apple.com/app/id737216887)  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/matomo-org/matomo-mobile-2<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='Matomo image 1' src='http://a5.mzstatic.com/us/r30/Purple5/v4/04/76/42/04764246-03ec-4c04-0b2b-710805357b74/screen696x696.jpeg'> <img height='300' alt='Matomo image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/6e/bf/79/6ebf7979-44a1-2d00-6b5c-eb7c9c723955/screen696x696.jpeg'> <img height='300' alt='Matomo image 3' src='http://a4.mzstatic.com/us/r30/Purple3/v4/db/b1/e7/dbb1e7d3-6e59-3e98-8be9-197b25e99c86/screen696x696.jpeg'> <img height='300' alt='Matomo image 4' src='http://a2.mzstatic.com/us/r30/Purple3/v4/62/10/b0/6210b03c-5d0c-45fd-c23d-f85f5de25b4b/screen696x696.jpeg'> <img height='300' alt='Matomo image 5' src='http://a4.mzstatic.com/us/r30/Purple3/v4/d1/14/5f/d1145fb7-5cf2-f5b9-e53c-4ad68f748190/screen696x696.jpeg'> 
+</div>
+  </details>
+
 - Pisth: SSH and SFTP client [` App Store`](https://itunes.apple.com/app/pisth/id1331070425)  
   <details><summary><code>objc</code> </summary>
 
   https://github.com/ColdGrub1384/Pisth<br>  https://pisth.github.io<br>  Added January 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Pisth image 1' src='https://pisth.github.io/screenshots/1.PNG'> <img height='300' alt='Pisth image 2' src='https://pisth.github.io/screenshots/2.PNG'> <img height='300' alt='Pisth image 3' src='https://pisth.github.io/screenshots/3.jpeg'> <img height='300' alt='Pisth image 4' src='https://pisth.github.io/screenshots/4.PNG'> <img height='300' alt='Pisth image 5' src='https://pisth.github.io/screenshots/5.PNG'> 
-</div>
-  </details>
-
-- Piwik Mobile 2: Official Piwik analytics app [` App Store`](https://itunes.apple.com/app/id737216887)  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/piwik/piwik-mobile-2<br>  https://piwik.org/mobile/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='Piwik Mobile 2 image 1' src='http://a5.mzstatic.com/us/r30/Purple5/v4/04/76/42/04764246-03ec-4c04-0b2b-710805357b74/screen696x696.jpeg'> <img height='300' alt='Piwik Mobile 2 image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/6e/bf/79/6ebf7979-44a1-2d00-6b5c-eb7c9c723955/screen696x696.jpeg'> <img height='300' alt='Piwik Mobile 2 image 3' src='http://a4.mzstatic.com/us/r30/Purple3/v4/db/b1/e7/dbb1e7d3-6e59-3e98-8be9-197b25e99c86/screen696x696.jpeg'> <img height='300' alt='Piwik Mobile 2 image 4' src='http://a2.mzstatic.com/us/r30/Purple3/v4/62/10/b0/6210b03c-5d0c-45fd-c23d-f85f5de25b4b/screen696x696.jpeg'> <img height='300' alt='Piwik Mobile 2 image 5' src='http://a4.mzstatic.com/us/r30/Purple3/v4/d1/14/5f/d1145fb7-5cf2-f5b9-e53c-4ad68f748190/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -2034,14 +2034,6 @@ https://newsapi.org/ — [back to top](#readme)
 </div>
   </details>
 
-- Piwik Mobile 2: Official Piwik analytics app [` App Store`](https://itunes.apple.com/app/id737216887)  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/piwik/piwik-mobile-2<br>  https://piwik.org/mobile/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='Piwik Mobile 2 image 1' src='http://a5.mzstatic.com/us/r30/Purple5/v4/04/76/42/04764246-03ec-4c04-0b2b-710805357b74/screen696x696.jpeg'> <img height='300' alt='Piwik Mobile 2 image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/6e/bf/79/6ebf7979-44a1-2d00-6b5c-eb7c9c723955/screen696x696.jpeg'> <img height='300' alt='Piwik Mobile 2 image 3' src='http://a4.mzstatic.com/us/r30/Purple3/v4/db/b1/e7/dbb1e7d3-6e59-3e98-8be9-197b25e99c86/screen696x696.jpeg'> <img height='300' alt='Piwik Mobile 2 image 4' src='http://a2.mzstatic.com/us/r30/Purple3/v4/62/10/b0/6210b03c-5d0c-45fd-c23d-f85f5de25b4b/screen696x696.jpeg'> <img height='300' alt='Piwik Mobile 2 image 5' src='http://a4.mzstatic.com/us/r30/Purple3/v4/d1/14/5f/d1145fb7-5cf2-f5b9-e53c-4ad68f748190/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Radio Paradise: Official app for http://www.radioparadise.com/ [` App Store`](https://itunes.apple.com/app/id663334697)  
   <details><summary><code>objc</code> </summary>
 
@@ -2246,11 +2238,11 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   https://github.com/keybase/client<br>  Added February  9, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
 
-- Kryptonite: Generate & store an SSH key on your phone [` App Store`](https://itunes.apple.com/app/kryptonite-protect-your-ssh-private-key/id1161494806)  
+- Krypton: Generate & store an SSH key on your phone [` App Store`](https://itunes.apple.com/app/krypton-by-krypt-co/id1161494806)  
   <details><summary><code>swift</code> 🔥</summary>
 
-  https://github.com/KryptCo/kryptonite-ios<br>  Added May  2, 2017<br>  License: `other`
-  <div><img height='300' alt='Kryptonite image 1' src='http://a2.mzstatic.com/us/r30/Purple122/v4/a1/44/1f/a1441fb4-a4de-c877-fe07-335c75724c03/screen696x696.jpeg'> 
+  https://github.com/kryptco/krypton-ios<br>  Added May  2, 2017<br>  License: `other`
+  <div><img height='300' alt='Krypton image 1' src='http://a2.mzstatic.com/us/r30/Purple122/v4/a1/44/1f/a1441fb4-a4de-c877-fe07-335c75724c03/screen696x696.jpeg'> 
 </div>
   </details>
 
