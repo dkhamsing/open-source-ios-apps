@@ -14890,6 +14890,25 @@
       "date_added": "Jan 13 2018",
       "suggested_by": "@chwalters",
       "stars": 35
+    },
+    {
+      "title": "Shadertweak",
+      "description": "An iPad app that allows you to rapidly prototype fragment shaders in the Metal shading language",
+      "source": "https://github.com/warrenm/Shadertweak",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "objc",
+        "metal"
+      ],
+      "screenshots": [
+        "https://github.com/warrenm/Shadertweak/blob/master/screenshot.png?raw=true"
+      ],
+      "stars": 218,
+      "license": "mit",
+      "date_added": "Jan 13 2018",
+      "suggested_by": "vpeschenkov"
     }
   ]
 }
