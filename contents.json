@@ -9056,15 +9056,13 @@
       "itunes":"https://itunes.apple.com/app/pisth/id1331070425"
     },
     {
-      "title": "Piwik Mobile 2",
+      "title": "Matomo",
       "category-ids": [
-        "developer",
-        "official"
+        "developer"
       ],
-      "description": "Official Piwik analytics app",
+      "description": "Access analytics on the go (formerly Piwik)",
       "license": "gpl-3.0",
-      "source": "https://github.com/piwik/piwik-mobile-2",
-      "homepage": "https://piwik.org/mobile/",
+      "source": "https://github.com/matomo-org/matomo-mobile-2",
       "itunes": "https://itunes.apple.com/app/id737216887",
       "stars": 72,
       "date_added": "Wed Jun 1 23:41:44 2016 -0600",
