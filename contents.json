@@ -13167,9 +13167,9 @@
       "stars": 334
     },
     {
-      "title": "Kryptonite",
-      "source": "https://github.com/KryptCo/kryptonite-ios",
-      "itunes": "https://itunes.apple.com/app/kryptonite-protect-your-ssh-private-key/id1161494806",
+      "title": "Krypton",
+      "source": "https://github.com/kryptco/krypton-ios",
+      "itunes": "https://itunes.apple.com/app/krypton-by-krypt-co/id1161494806",
       "description": "Generate & store an SSH key on your phone",
       "tags": [
         "swift"
