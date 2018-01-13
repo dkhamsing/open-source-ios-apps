@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-768-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2013,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-770-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2013,%202018-lightgrey.svg)
 
 Jump to
 
@@ -973,6 +973,14 @@ Click ► to show more details
 </div>
   </details>
 
+- Buglife: Bug reporting SDK & web platform for iOS apps  
+  <details><summary><code>objc</code> 🔥🔥</summary>
+
+  https://github.com/Buglife/Buglife-iOS<br>  Added January 13, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='Buglife image 1' src='https://camo.githubusercontent.com/55591e6221b916eb92a96395a03ccd1f81c5b36a/68747470733a2f2f692e696d6775722e636f6d2f6d647767447a642e706e67'> 
+</div>
+  </details>
+
 - Charter: Mailing list app [` App Store`](https://itunes.apple.com/app/charter-mailing-list-client/id1082212697)  
   <details><summary><code>swift</code> <code>iphone</code> <code>ipad</code> 🔥🔥</summary>
 
@@ -1138,6 +1146,14 @@ Click ► to show more details
 
   https://github.com/RishabhTayal/ReviewMonitor<br>  Added December 27, 2017
   <div><img height='300' alt='ReviewMonitor image 1' src='https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot1.png?raw=true'> <img height='300' alt='ReviewMonitor image 2' src='https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot2.png?raw=true'> 
+</div>
+  </details>
+
+- Shadertweak: An iPad app that allows you to rapidly prototype fragment shaders in the Metal shading language  
+  <details><summary><code>objc</code> <code>metal</code> 🔥🔥</summary>
+
+  https://github.com/warrenm/Shadertweak<br>  Added January 13, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Shadertweak image 1' src='https://github.com/warrenm/Shadertweak/blob/master/screenshot.png?raw=true'> 
 </div>
   </details>
 
