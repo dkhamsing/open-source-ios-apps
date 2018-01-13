@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **267** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **268** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -526,6 +526,14 @@ Click ► to show more details
 
   https://github.com/KnuffApp/Knuff-iOS<br>  Added October 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Knuff image 1' src='http://a4.mzstatic.com/us/r30/Purple49/v4/f9/21/14/f9211459-6b65-ed7c-ec75-c58c4de7f497/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Pisth: SSH and SFTP client [` App Store`](https://itunes.apple.com/app/pisth/id1331070425)  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/ColdGrub1384/Pisth<br>  https://pisth.github.io<br>  Added January 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='Pisth image 1' src='https://pisth.github.io/screenshots/1.PNG'> <img height='300' alt='Pisth image 2' src='https://pisth.github.io/screenshots/2.PNG'> <img height='300' alt='Pisth image 3' src='https://pisth.github.io/screenshots/3.jpeg'> <img height='300' alt='Pisth image 4' src='https://pisth.github.io/screenshots/4.PNG'> <img height='300' alt='Pisth image 5' src='https://pisth.github.io/screenshots/5.PNG'> 
 </div>
   </details>
 
