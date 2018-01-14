@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **268** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **269** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1323,6 +1323,14 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
   https://github.com/callzhang/Eat-Now<br>  Added October 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='EatNow image 1' src='http://a1.mzstatic.com/us/r30/Purple7/v4/e0/65/ca/e065caa7-e2be-1e25-f78a-ccb19a7cf1b0/screen696x696.jpeg'> <img height='300' alt='EatNow image 2' src='http://a4.mzstatic.com/us/r30/Purple7/v4/d4/bf/20/d4bf20c6-8dc8-0739-9977-1a8c3f2f7052/screen696x696.jpeg'> <img height='300' alt='EatNow image 3' src='http://a4.mzstatic.com/us/r30/Purple1/v4/15/60/8d/15608d60-d7c0-2dfb-e89a-97c49573fd75/screen696x696.jpeg'> <img height='300' alt='EatNow image 4' src='http://a5.mzstatic.com/us/r30/Purple1/v4/b2/36/fb/b236fba1-3e84-c6a4-c186-8b73abca6109/screen696x696.jpeg'> <img height='300' alt='EatNow image 5' src='http://a5.mzstatic.com/us/r30/Purple2/v4/1c/d0/2d/1cd02d13-9d9c-d115-1605-3fb4dae72831/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- iPokeGo: A native iOS client to map the Pokemon around you!  [` App Store`](https://itunes.apple.com/app/ipokego-for-pokemon-go/id1138277066)  
+  <details><summary><code>objc</code> 🔥🔥🔥</summary>
+
+  https://github.com/istornz/iPokeGo<br>  Added January 14, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='iPokeGo image 1' src='https://camo.githubusercontent.com/6181f3576f7c5ffa609bb37883b7a9e584fb27dc/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f372e6a7067'> <img height='300' alt='iPokeGo image 2' src='https://camo.githubusercontent.com/43c1514a43761a6ef920bd66fba83f74c029292f/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f382e6a7067'> <img height='300' alt='iPokeGo image 3' src='https://camo.githubusercontent.com/175de42215cd8fa04bd5b597a2dfd5f6b8cb0b1b/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f332e6a7067'> 
 </div>
   </details>
 
