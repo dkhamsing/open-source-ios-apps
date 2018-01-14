@@ -14927,6 +14927,27 @@
       "license": "apache-2.0",
       "date_added": "Jan 13 2018",
       "suggested_by": "vpeschenkov"
+    },
+    {
+      "title": "iPokeGo",
+      "description": "A native iOS client to map the Pokemon around you! ",
+      "source": "https://github.com/istornz/iPokeGo",
+      "itunes": "https://itunes.apple.com/app/ipokego-for-pokemon-go/id1138277066",
+      "category-ids": [
+        "location"
+      ],
+      "tags": [
+        "objc"
+      ],
+      "screenshots": [
+        "https://camo.githubusercontent.com/6181f3576f7c5ffa609bb37883b7a9e584fb27dc/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f372e6a7067",
+        "https://camo.githubusercontent.com/43c1514a43761a6ef920bd66fba83f74c029292f/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f382e6a7067",
+        "https://camo.githubusercontent.com/175de42215cd8fa04bd5b597a2dfd5f6b8cb0b1b/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f332e6a7067"
+      ],
+      "stars": 655,
+      "license": "mit",
+      "date_added": "Jan 14 2018",
+      "suggested_by": "vpeschenkov"
     }
   ]
 }
