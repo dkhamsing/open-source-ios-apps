@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-771-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2014,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-771-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2015,%202018-lightgrey.svg)
 
 Jump to
 
@@ -2590,7 +2590,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- iPokeGo: A native iOS client to map the Pokemon around you!  [` App Store`](https://itunes.apple.com/app/ipokego-for-pokemon-go/id1138277066)  
+- iPokeGo: Map Pokemon around you!  [` App Store`](https://itunes.apple.com/app/ipokego-for-pokemon-go/id1138277066)  
   <details><summary><code>objc</code> 🔥🔥🔥</summary>
 
   https://github.com/istornz/iPokeGo<br>  Added January 14, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
