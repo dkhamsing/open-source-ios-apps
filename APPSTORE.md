@@ -1326,7 +1326,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- iPokeGo: A native iOS client to map the Pokemon around you!  [` App Store`](https://itunes.apple.com/app/ipokego-for-pokemon-go/id1138277066)  
+- iPokeGo: Map Pokemon around you!  [` App Store`](https://itunes.apple.com/app/ipokego-for-pokemon-go/id1138277066)  
   <details><summary><code>objc</code> 🔥🔥🔥</summary>
 
   https://github.com/istornz/iPokeGo<br>  Added January 14, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
