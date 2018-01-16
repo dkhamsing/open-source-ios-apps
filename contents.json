@@ -14744,22 +14744,6 @@
       "stars": 1
     },
     {
-      "title": "Animoke",
-      "source": "https://github.com/BalestraPatrick/Animoke",
-      "description": "Karaoke for your iPhone X",
-      "category-ids": [
-        "animoji"
-      ],
-      "tags": [
-        "swift",
-        "iphonex"
-      ],
-      "date_added": "Nov 26 2017",
-      "license": "mit",
-      "suggested_by": "@dkhamsing",
-      "stars": 7
-    },
-    {
       "title": "Animoji Studio",
       "description": "Make Animoji videos with unlimited duration and share anywhere",
       "source": "https://github.com/insidegui/AnimojiStudio",
