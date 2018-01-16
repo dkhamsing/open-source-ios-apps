@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-771-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2015,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-770-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2016,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1001,7 +1001,7 @@ Click ► to show more details
   <details><summary><code>objc</code> 🔥</summary>
 
   https://github.com/thedillonb/CodeBucket<br>  Added June  3, 2016<br>  License: `other`
-  <div><img height='300' alt='CodeBucket image 1' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/RepositoryView.png'> <img height='300' alt='CodeBucket image 2' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Slideout.png'> <img height='300' alt='CodeBucket image 3' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Repositories.png'> <img height='300' alt='CodeBucket image 4' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/ChangeSets.png'> <img height='300' alt='CodeBucket image 5' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Issues.png '> 
+  <div><img height='300' alt='CodeBucket image 1' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/RepositoryView.png'> <img height='300' alt='CodeBucket image 2' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Slideout.png'> <img height='300' alt='CodeBucket image 3' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Repositories.png'> <img height='300' alt='CodeBucket image 4' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/ChangeSets.png'> <img height='300' alt='CodeBucket image 5' src='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Issues.png'> 
 </div>
   </details>
 
@@ -2590,7 +2590,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- iPokeGo: Map Pokemon around you!  [` App Store`](https://itunes.apple.com/app/ipokego-for-pokemon-go/id1138277066)  
+- iPokeGo: Map Pokemon around you! [` App Store`](https://itunes.apple.com/app/ipokego-for-pokemon-go/id1138277066)  
   <details><summary><code>objc</code> 🔥🔥🔥</summary>
 
   https://github.com/istornz/iPokeGo<br>  Added January 14, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -2984,12 +2984,6 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- Animoke: Karaoke for your iPhone X  
-  <details><summary><code>swift</code> <code>iphonex</code> </summary>
-
-  https://github.com/BalestraPatrick/Animoke<br>  Added November 26, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
 - SBSAnimoji: Uses Apple's private framework AvatarKit  
   <details><summary><code>swift</code> <code>iphonex</code> 🔥🔥🔥</summary>
 
@@ -3071,7 +3065,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary><code>swift</code> <code>swift2</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/analogcode/Swift-Radio-Pro<br>  Added January 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Swift Radio Pro image 1' src='https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png '> 
+  <div><img height='300' alt='Swift Radio Pro image 1' src='https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png'> 
 </div>
   </details>
 
