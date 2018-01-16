@@ -3999,7 +3999,7 @@
       "source": "https://github.com/analogcode/Swift-Radio-Pro",
       "stars": 1873,
       "screenshots": [
-        "https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png "
+        "https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png"
       ],
       "tags": [
         "swift",
@@ -9458,7 +9458,7 @@
         "https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Slideout.png",
         "https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Repositories.png",
         "https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/ChangeSets.png",
-        "https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Issues.png "
+        "https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Issues.png"
       ],
       "description": "Browse & maintain your Bitbucket repositories",
       "source": "https://github.com/thedillonb/CodeBucket",
@@ -10673,7 +10673,7 @@
       "category-ids": [
         "communication"
       ],
-      "description": " Twitter app that only lets send & receive DM's",
+      "description": "Twitter app that only lets send & receive DM's",
       "source": "https://github.com/zadr/Communique",
       "license": "bsd-3-clause",
       "tags": [
@@ -14930,7 +14930,7 @@
     },
     {
       "title": "iPokeGo",
-      "description": "Map Pokemon around you! ",
+      "description": "Map Pokemon around you!",
       "source": "https://github.com/istornz/iPokeGo",
       "itunes": "https://itunes.apple.com/app/ipokego-for-pokemon-go/id1138277066",
       "category-ids": [
