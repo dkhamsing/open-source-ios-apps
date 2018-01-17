@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-770-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2016,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-770-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2017,%202018-lightgrey.svg)
 
 Jump to
 
@@ -2735,7 +2735,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   </details>
 
 - tpg offline: Navigate the Geneva public transport [` App Store`](https://itunes.apple.com/app/tpg-offline/id1001560047)  
-  <details><summary><code>swift</code> <code>carthage</code> <code>alamofire</code> <code>swiftyjson</code> <code>locationmanager</code> <code>swiftybeaver</code> <code>fontawesomekid</code> <code>permissionscope</code> 🇫🇷 </summary>
+  <details><summary><code>swift</code> <code>carthage</code> <code>alamofire</code> <code>locationmanager</code> 🇫🇷 </summary>
 
   https://github.com/RemyDCF/tpg-offline<br>  Added October 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='tpg offline image 1' src='http://is5.mzstatic.com/image/thumb/Purple118/v4/89/93/38/8993388e-d712-f774-f418-a3662a60aef1/source/392x696bb.jpg'> 
