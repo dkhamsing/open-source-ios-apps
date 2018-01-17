@@ -11226,11 +11226,7 @@
         "swift",
         "carthage",
         "alamofire",
-        "swiftyjson",
-        "locationmanager",
-        "swiftybeaver",
-        "fontawesomekid",
-        "permissionscope"
+        "locationmanager"
       ],
       "lang": "fra",
       "source": "https://github.com/RemyDCF/tpg-offline",
