@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-770-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2017,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-771-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2025,%202018-lightgrey.svg)
 
 Jump to
 
@@ -4123,6 +4123,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/Yalantis/CloudKit-Demo.Swift<br>  Added May 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='CloudKit image 1' src='https://i.imgur.com/dS9aFJL.png'> 
+</div>
+  </details>
+
+- Face Landmarks Detection: Find facial features such as face contour, eyes, mouth and nose in an image  
+  <details><summary><code>swift</code> <code>vision</code> </summary>
+
+  https://github.com/mattlawer/FaceLandmarksDetection<br>  Added January 25, 2018<br>  License: `other`
+  <div><img height='300' alt='Face Landmarks Detection image 1' src='https://camo.githubusercontent.com/e00a575cd16831a1b76c6a329ea1d353bf00ae4e/687474703a2f2f6936332e74696e797069632e636f6d2f6a31306b37622e676966'> 
 </div>
   </details>
 
