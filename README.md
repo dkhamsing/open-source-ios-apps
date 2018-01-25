@@ -875,7 +875,7 @@ Click ► to show more details
 - Signal: Free, world-wide, private messaging & phone calls [` App Store`](https://itunes.apple.com/app/id874139669)  
   <details><summary><code>iphone</code> <code>carthage</code> <code>socketrocket</code> <code>purelayout</code> <code>openssl</code> 🔥🔥🔥🔥🔥</summary>
 
-  https://github.com/WhisperSystems/Signal-iOS<br>  Added February 27, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://github.com/signalapp/Signal-iOS<br>  Added February 27, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Signal image 1' src='http://a1.mzstatic.com/us/r30/Purple30/v4/54/bb/ac/54bbacd8-9a2d-4317-0cdf-ed35aff86770/screen696x696.jpeg'> <img height='300' alt='Signal image 2' src='http://a5.mzstatic.com/us/r30/Purple30/v4/77/21/be/7721be1e-3df8-15cd-ee6e-9549a24106c5/screen696x696.jpeg'> <img height='300' alt='Signal image 3' src='http://a3.mzstatic.com/us/r30/Purple18/v4/89/9a/c9/899ac960-f241-d65b-0041-9351f6eabda3/screen696x696.jpeg'> <img height='300' alt='Signal image 4' src='http://a2.mzstatic.com/us/r30/Purple20/v4/ee/bc/c0/eebcc086-5ddf-8073-af83-ac2709cb6b3d/screen696x696.jpeg'> 
 </div>
   </details>
@@ -1109,6 +1109,14 @@ Click ► to show more details
 </div>
   </details>
 
+- OpenTerm: Sandboxed command line interface [` App Store`](https://itunes.apple.com/app/terminal/id1323205755)  
+  <details><summary><code>swift</code> <code>panelkit</code> 🔥🔥🔥</summary>
+
+  https://github.com/louisdh/terminal<br>  Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='OpenTerm image 1' src='http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg'> 
+</div>
+  </details>
+
 - Pisth: SSH and SFTP client [` App Store`](https://itunes.apple.com/app/pisth/id1331070425)  
   <details><summary><code>objc</code> </summary>
 
@@ -1154,14 +1162,6 @@ Click ► to show more details
 
   https://github.com/warrenm/Shadertweak<br>  Added January 13, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Shadertweak image 1' src='https://github.com/warrenm/Shadertweak/blob/master/screenshot.png?raw=true'> 
-</div>
-  </details>
-
-- terminal: Sandboxed command line interface [` App Store`](https://itunes.apple.com/app/terminal/id1323205755)  
-  <details><summary><code>swift</code> <code>panelkit</code> 🔥🔥</summary>
-
-  https://github.com/louisdh/terminal<br>  Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='terminal image 1' src='http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg'> 
 </div>
   </details>
 
@@ -3117,7 +3117,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Awesome Mobile Conference: Collaborative list of Mobile Conferences [` App Store`](https://itunes.apple.com/app/awesome-mobile-conferences/id1289255473)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/amobconf/awesome-mobile-conferences-ios<br>  Added November  3, 2017<br>  License: `other`
+  https://github.com/aweconf/awesome-conferences-ios<br>  Added November  3, 2017<br>  License: `other`
   <div><img height='300' alt='Awesome Mobile Conference image 1' src='http://is2.mzstatic.com/image/thumb/Purple128/v4/92/6b/9d/926b9de9-9f22-39e3-073b-f409ed8e7439/source/392x696bb.jpg'> <img height='300' alt='Awesome Mobile Conference image 2' src='http://is5.mzstatic.com/image/thumb/Purple128/v4/83/90/53/839053c8-d824-2188-7053-d21a92f24618/source/392x696bb.jpg'> 
 </div>
   </details>
