@@ -14928,6 +14928,25 @@
       "license": "mit",
       "date_added": "Jan 14 2018",
       "suggested_by": "vpeschenkov"
+    },
+    {
+      "title": "Face Landmarks Detection",
+      "description": "Find facial features such as face contour, eyes, mouth and nose in an image",
+      "source": "https://github.com/mattlawer/FaceLandmarksDetection",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "vision",
+        "swift"
+      ],
+      "screenshots": [
+        "https://camo.githubusercontent.com/e00a575cd16831a1b76c6a329ea1d353bf00ae4e/687474703a2f2f6936332e74696e797069632e636f6d2f6a31306b37622e676966"
+      ],
+      "stars": 49,
+      "license": "other",
+      "date_added": "Jan 25 2018",
+      "suggested_by": "vpeschenkov"
     }
   ]
 }
