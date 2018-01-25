@@ -14841,7 +14841,7 @@
       "stars": 288
     },
      {
-        "title": "terminal",
+        "title": "OpenTerm",
         "source": "https://github.com/louisdh/terminal",
         "itunes": "https://itunes.apple.com/app/terminal/id1323205755",
         "description": "Sandboxed command line interface",
@@ -14851,7 +14851,7 @@
         "license": "mit",
         "tags": ["swift", "panelkit"],
         "category-ids": ["developer"],
-        "stars": 275
+        "stars": 595
       },
     {
       "title": "Glucosio",
