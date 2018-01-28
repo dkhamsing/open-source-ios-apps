@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-771-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2025,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-772-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2028,%202018-lightgrey.svg)
 
 Jump to
 
@@ -4657,6 +4657,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Loose Leaf image 1' src='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'> 
+</div>
+  </details>
+
+- MajorKey: The fastest iOS app to add a note to your email inbox  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/KrauseFx/MajorKey<br>  Added January 28, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='MajorKey image 1' src='https://github.com/KrauseFx/MajorKey/blob/master/screenshot.png'> 
 </div>
   </details>
 
