@@ -14947,6 +14947,24 @@
       "license": "other",
       "date_added": "Jan 25 2018",
       "suggested_by": "vpeschenkov"
+    },
+    {
+      "title": "MajorKey",
+      "description": "The fastest iOS app to add a note to your email inbox",
+      "source": "https://github.com/KrauseFx/MajorKey",
+      "category-ids": [
+        "notes"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/KrauseFx/MajorKey/blob/master/screenshot.png"
+      ],
+      "stars": 69,
+      "license": "mit",
+      "date_added": "Jan 28 2018",
+      "suggested_by": "vpeschenkov"
     }
   ]
 }
