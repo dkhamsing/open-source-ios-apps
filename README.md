@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-772-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2029,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-773-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2029,%202018-lightgrey.svg)
 
 Jump to
 
@@ -364,6 +364,14 @@ Click ► to show more details
 
   https://github.com/dropbox/PhotoWatch<br>  Added February 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='PhotoWatch image 1' src='https://github.com/dropbox/PhotoWatch/raw/master/Screenshots/watch.png'> 
+</div>
+  </details>
+
+- RedditWatch: A feature-packed Reddit client for the Apple Watch  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/WillBishop/RedditWatch<br>  Added January 29, 2018
+  <div><img height='300' alt='RedditWatch image 1' src='https://i.imgur.com/1uQFYwh.png'> <img height='300' alt='RedditWatch image 2' src='https://i.imgur.com/beQhpmF.png'> <img height='300' alt='RedditWatch image 3' src='https://i.imgur.com/HqUk3sg.png'> 
 </div>
   </details>
 
