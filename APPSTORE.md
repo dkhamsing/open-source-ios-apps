@@ -951,7 +951,7 @@ Click ► to show more details
   </details>
 
 - Bread: Bitcoin wallet [` App Store`](https://itunes.apple.com/app/breadwallet/id885251393)  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> 🔥</summary>
 
   https://github.com/breadwallet/breadwallet-ios<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Bread image 1' src='http://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg'> 
@@ -1468,7 +1468,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 Image, video, audio, reading — [back to top](#readme) 
  
 - Blear: Transform your photos into stunning blurry wallpapers for your device [` App Store`](https://itunes.apple.com/app/blear-create-blurry-wallpapers/id994182280)  
-  <details><summary><code>objc</code> 🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/sindresorhus/blear<br>  Added February 24, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Blear image 1' src='http://a2.mzstatic.com/us/r30/Purple111/v4/25/5b/c7/255bc7ab-95e2-1660-3bba-717b0ae21f1d/screen696x696.jpeg'> <img height='300' alt='Blear image 2' src='http://a3.mzstatic.com/us/r30/Purple111/v4/34/7a/42/347a42bd-3a7b-1f86-c2b8-3e043ea5e0e7/screen696x696.jpeg'> <img height='300' alt='Blear image 3' src='http://a4.mzstatic.com/us/r30/Purple122/v4/37/6b/27/376b278d-d698-981f-c931-d0e5b01c6733/screen696x696.jpeg'> <img height='300' alt='Blear image 4' src='http://a2.mzstatic.com/us/r30/Purple111/v4/ed/9a/9b/ed9a9b30-72f6-fc12-662f-0d1493a3d136/screen696x696.jpeg'> <img height='300' alt='Blear image 5' src='http://a2.mzstatic.com/us/r30/Purple122/v4/d0/8e/fa/d08efa30-4057-323e-15ee-9f2fe1e5aaff/screen696x696.jpeg'> 
@@ -2003,7 +2003,7 @@ https://newsapi.org/ — [back to top](#readme)
   </details>
 
 - DuckDuckGo: Official DuckDuckGo app [` App Store`](https://itunes.apple.com/app/duckduckgo-search-stories/id663592361)  
-  <details><summary><code>afnetworking</code> </summary>
+  <details><summary><code>afnetworking</code> 🔥🔥</summary>
 
   https://github.com/duckduckgo/ios<br>  Added March 17, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='DuckDuckGo image 1' src='http://a4.mzstatic.com/us/r30/Purple22/v4/09/83/3f/09833f7a-445e-0324-7d0e-6b75d9a3a7c3/screen696x696.jpeg'> <img height='300' alt='DuckDuckGo image 2' src='http://a3.mzstatic.com/us/r30/Purple41/v4/54/30/1f/54301f79-bded-4986-157f-4daf3012a244/screen696x696.jpeg'> <img height='300' alt='DuckDuckGo image 3' src='http://a3.mzstatic.com/us/r30/Purple62/v4/8e/16/b1/8e16b1e7-eefb-4b60-5525-d7cece5debb9/screen696x696.jpeg'> <img height='300' alt='DuckDuckGo image 4' src='http://a4.mzstatic.com/us/r30/Purple41/v4/a4/38/86/a43886a3-5ece-21bd-33ef-68b21be66d0c/screen696x696.jpeg'> <img height='300' alt='DuckDuckGo image 5' src='http://a1.mzstatic.com/us/r30/Purple19/v4/2b/42/1c/2b421c88-688e-9213-b647-c6a22bf41d66/screen696x696.jpeg'> 
@@ -2316,7 +2316,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - MasterPassword: Stateless password management solution [` App Store`](https://itunes.apple.com/app/id510296984)  
-  <details><summary><code>objc</code> 🔥🔥🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/Lyndir/MasterPassword<br>  Added May 15, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='MasterPassword image 1' src='http://a3.mzstatic.com/us/r30/Purple1/v4/2d/a3/e2/2da3e280-a7b2-2919-0a62-b4d9063102bd/screen696x696.jpeg'> <img height='300' alt='MasterPassword image 2' src='http://a4.mzstatic.com/us/r30/Purple5/v4/54/31/3c/54313ca9-4faa-3a44-703b-42deadbdb3d5/screen696x696.jpeg'> <img height='300' alt='MasterPassword image 3' src='http://a1.mzstatic.com/us/r30/Purple5/v4/9c/8d/8b/9c8d8bee-69ee-7c98-9415-e7237b4e5b17/screen696x696.jpeg'> <img height='300' alt='MasterPassword image 4' src='http://a4.mzstatic.com/us/r30/Purple5/v4/f3/8f/e0/f38fe060-897e-20f9-00d5-cc99b9061673/screen696x696.jpeg'> <img height='300' alt='MasterPassword image 5' src='http://a5.mzstatic.com/us/r30/Purple3/v4/2a/7c/fd/2a7cfd81-8764-4394-6396-4bfc8b41f53c/screen696x696.jpeg'> 
@@ -2657,7 +2657,7 @@ https://mastodon.social — [back to top](#readme)
   </details>
 
 - ownCloud: File browser & sync for ownCloud file hosting service [` App Store`](https://itunes.apple.com/app/owncloud/id543672169)  
-  <details><summary><code>objc</code> 🔥🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥🔥</summary>
 
   https://github.com/owncloud/ios<br>  Added May 18, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='ownCloud image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/fd/37/a1/fd37a1e0-d1dd-4830-6eb3-0e6825d4ba75/screen696x696.jpeg'> <img height='300' alt='ownCloud image 2' src='http://a2.mzstatic.com/us/r30/Purple22/v4/04/ca/6e/04ca6e9b-24b9-7a91-a72b-020153721110/screen696x696.jpeg'> <img height='300' alt='ownCloud image 3' src='http://a3.mzstatic.com/us/r30/Purple71/v4/71/66/6d/71666db7-0256-3742-4ba7-543ab499c24b/screen696x696.jpeg'> <img height='300' alt='ownCloud image 4' src='http://a2.mzstatic.com/us/r30/Purple71/v4/ce/0a/6f/ce0a6ffa-1da8-d2ad-dab0-9e2e04752fcc/screen696x696.jpeg'> <img height='300' alt='ownCloud image 5' src='http://a1.mzstatic.com/us/r30/Purple71/v4/ad/d5/7f/add57f6a-f4c6-55e0-4b99-6548e32ae37f/screen696x696.jpeg'> 
