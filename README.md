@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-773-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%201,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-774-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%203,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1779,6 +1779,14 @@ Click ► to show more details
 </div>
   </details>
 
+- Stocks-iOS: A simple finance app showing price information, historical prices and news.  
+  <details><summary><code>finance</code> <code>objective-c</code> </summary>
+
+  https://github.com/MauriceArikoglu/stocks-ios<br>  Added February  3, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Stocks-iOS image 1' src='https://raw.githubusercontent.com/MauriceArikoglu/stocks-ios/master/Stocks/Screenshot.png'> 
+</div>
+  </details>
+
 - Tip Calculator: Calculate tip & split the bill between any number of people [` App Store`](https://itunes.apple.com/app/id1139456857)  
   <details><summary><code>viper</code> </summary>
 
@@ -2862,8 +2870,8 @@ Image, video, audio, reading — [back to top](#readme)
 - Kodi: A popular media player & entertainment hub  
   <details><summary><code>objc</code> 🔥🔥🔥🔥🔥</summary>
 
-  https://github.com/xbmc/xbmc<br>  http://kodi.wiki/view/IOS<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  <div><img height='300' alt='Kodi image 1' src='http://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg'> 
+  https://github.com/xbmc/xbmc<br>  https://kodi.wiki/view/IOS<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  <div><img height='300' alt='Kodi image 1' src='https://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg'> 
 </div>
   </details>
 
@@ -3797,8 +3805,8 @@ https://newsapi.org/ — [back to top](#readme)
 - Kodi: A popular media player & entertainment hub  
   <details><summary><code>objc</code> 🔥🔥🔥🔥🔥</summary>
 
-  https://github.com/xbmc/xbmc<br>  http://kodi.wiki/view/IOS<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-  <div><img height='300' alt='Kodi image 1' src='http://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg'> 
+  https://github.com/xbmc/xbmc<br>  https://kodi.wiki/view/IOS<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  <div><img height='300' alt='Kodi image 1' src='https://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg'> 
 </div>
   </details>
 
