@@ -435,14 +435,14 @@
         "apple-watch"
       ],
       "description": "A feature-packed Reddit client for the Apple Watch",
-      "source": "https://github.com/WillBishop/RedditWatch",
+      "source": "https://github.com/opensourceios/RedditWatch",
       "screenshots": [
         "https://i.imgur.com/1uQFYwh.png",
         "https://i.imgur.com/beQhpmF.png",
         "https://i.imgur.com/HqUk3sg.png"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "date_added": "Jan 29 2018",
       "suggested_by": "@WillBishop",
