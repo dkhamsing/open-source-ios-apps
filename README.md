@@ -3133,7 +3133,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Awesome Mobile Conference: Collaborative list of Mobile Conferences [` App Store`](https://itunes.apple.com/app/awesome-mobile-conferences/id1289255473)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/aweconf/awesome-conferences-ios<br>  Added November  3, 2017<br>  License: `other`
+  https://github.com/aweconf/iOS<br>  Added November  3, 2017<br>  License: `other`
   <div><img height='300' alt='Awesome Mobile Conference image 1' src='http://is2.mzstatic.com/image/thumb/Purple128/v4/92/6b/9d/926b9de9-9f22-39e3-073b-f409ed8e7439/source/392x696bb.jpg'> <img height='300' alt='Awesome Mobile Conference image 2' src='http://is5.mzstatic.com/image/thumb/Purple128/v4/83/90/53/839053c8-d824-2188-7053-d21a92f24618/source/392x696bb.jpg'> 
 </div>
   </details>
