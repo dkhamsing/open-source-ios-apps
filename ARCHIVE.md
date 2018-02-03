@@ -132,6 +132,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - ReactiveHackerNews https://github.com/syshen/ReactiveHackerNews
 - ReactiveKitten https://github.com/JensRavens/ReactiveKitten
 - Reddit https://github.com/amitburst/reddit-demo
+- RedditWatch https://github.com/opensourceios/RedditWatch
 - Repo https://github.com/ricburton/Repo
 - Reusable Code https://github.com/opensourceios/Swift-Reusable-Code
 - Revolved https://github.com/Ciechan/Revolved
