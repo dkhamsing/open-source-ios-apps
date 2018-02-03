@@ -14995,6 +14995,26 @@
       "license": "mit",
       "date_added": "Jan 28 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Stocks-iOS",
+      "description": "A simple finance app showing price information, historical prices and news.",
+      "source": "https://github.com/MauriceArikoglu/stocks-ios",
+      "category-ids": [
+        "finance",
+        "Finance"
+      ],
+      "tags": [
+        "finance",
+        "objective-c"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/MauriceArikoglu/stocks-ios/master/Stocks/Screenshot.png"
+      ],
+      "stars": 4,
+      "license": "mit",
+      "date_added": "Feb 3 2018",
+      "suggested_by": "@MauriceArikoglu"
     }
   ]
 }
