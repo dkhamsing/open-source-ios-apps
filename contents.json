@@ -457,7 +457,6 @@
       "description": "Simple & secure Bitcoin wallet",
       "license": "apache-2.0",
       "source": "https://github.com/bither/bither-ios",
-      "itunes": "https://itunes.apple.com/app/bither/id899478936",
       "screenshots": [
         "http://a1.mzstatic.com/us/r30/Purple7/v4/f9/f8/d4/f9f8d401-2a9a-fb50-fe24-76a1158600b2/screen696x696.jpeg"
       ],
@@ -884,7 +883,6 @@
       ],
       "source": "https://github.com/genadyo/WWDC",
       "license": "mit",
-      "itunes": "https://itunes.apple.com/app/parties-for-wwdc/id879924066",
       "stars": 334,
       "date_added": "Mon Jan 26 15:41:33 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -1195,7 +1193,6 @@
       "description": "Cross-platform instant message app",
       "license": "agpl-3.0",
       "source": "https://github.com/actorapp/actor-platform",
-      "itunes": "https://itunes.apple.com/app/actor-messenger/id1025501036",
       "stars": 3208,
       "date_added": "Mon Apr 11 07:56:04 2016 -0700",
       "suggested_by": "@dkhamsing",
@@ -1748,7 +1745,6 @@
       ],
       "description": "Code editor",
       "source": "https://github.com/DanilaVladi/codinator",
-      "itunes": "https://itunes.apple.com/app/codinator/id1024671232",
       "stars": 25,
       "license": "other",
       "date_added": "Mon Apr 11 20:05:16 2016 -0500",
@@ -1768,7 +1764,6 @@
       ],
       "description": "Mailing list app",
       "source": "https://github.com/matthewpalmer/Charter",
-      "itunes": "https://itunes.apple.com/app/charter-mailing-list-client/id1082212697",
       "stars": 493,
       "screenshots": [
         "https://cdn-images-1.medium.com/max/800/1*3igvNkkU0qmS0lox6epnSQ.png"
@@ -1925,7 +1920,6 @@
       "description": "Bitcoin wallet",
       "license": "mit",
       "source": "https://github.com/BitStore/BitStore-iOS",
-      "itunes": "https://itunes.apple.com/app/bitstore/id890668158",
       "stars": 88,
       "date_added": "Sat Apr 11 06:07:19 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -2069,7 +2063,6 @@
       ],
       "description": "Show portfolio in a minimalist Today Extension",
       "source": "https://github.com/premnirmal/TodayStocks",
-      "itunes": "https://itunes.apple.com/app/todaystocks/id993467855",
       "stars": 36,
       "license": "mit",
       "date_added": "Mon Jun 29 11:48:38 2015 +0800",
@@ -2106,7 +2099,6 @@
       ],
       "description": "Budget tracker",
       "source": "https://github.com/vanyaland/ToThePenny",
-      "itunes": "https://itunes.apple.com/app/tothepenny/id994476075",
       "stars": 59,
       "license": "mit",
       "date_added": "Wed Apr 27 15:43:33 2016 +0900",
@@ -2298,7 +2290,6 @@
       "description": "Multiplayer programming game for learning how to code",
       "license": "mit",
       "source": "https://github.com/codecombat/codecombat-ios",
-      "itunes": "https://itunes.apple.com/ca/app/codecombat/id936523909",
       "stars": 44,
       "date_added": "Sat Jan 23 06:46:13 2016 -0800",
       "suggested_by": "@dkhamsing"
@@ -2310,7 +2301,6 @@
       ],
       "description": "Throw a ball and catch it, over and over and over",
       "source": "https://github.com/moowahaha/Chuck",
-      "itunes": "https://itunes.apple.com/app/chuck/id1050453297",
       "stars": 3,
       "license": "mit",
       "date_added": "Sun Oct 25 11:26:51 2015 +0100",
@@ -2539,7 +2529,6 @@
       ],
       "license": "apache-2.0",
       "source": "https://github.com/whunmr/Mission999",
-      "itunes": "https://itunes.apple.com/app/mission-999/id1036686316",
       "stars": 6,
       "date_added": "Wed Feb 17 13:25:59 2016 +0800",
       "suggested_by": "@whunmr",
@@ -2681,7 +2670,6 @@
       "description": "Asthma study",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/AsthmaHealth",
-      "itunes": "https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668",
       "stars": 88,
       "date_added": "Tue Apr 14 11:14:52 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -2724,7 +2712,6 @@
       "description": "Diabetes study",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/GlucoSuccess",
-      "itunes": "https://itunes.apple.com/app/glucosuccess/id972143976",
       "stars": 88,
       "date_added": "Wed, 15 Apr 2015 06:59:02 -0700",
       "suggested_by": "@dkhamsing",
@@ -3084,7 +3071,6 @@
       ],
       "description": "Helps you find doctors in your city",
       "source": "https://github.com/vincezzh/doctornearby-ios",
-      "itunes": "https://itunes.apple.com/app/doctor-nearby/id1068715113",
       "stars": 6,
       "license": "other",
       "date_added": "Thu Jul 14 06:04:39 2016 -0700",
@@ -3393,7 +3379,6 @@
       "description": "360 video player",
       "license": "mit",
       "source": "https://github.com/hanton/HTY360Player",
-      "itunes": "https://itunes.apple.com/app/360-vr-player/id1061464612",
       "stars": 1719,
       "date_added": "Wed Dec 2 22:17:02 2015 +0800",
       "suggested_by": "@Hanton",
@@ -3577,7 +3562,6 @@
       ],
       "license": "mit",
       "source": "https://github.com/naoyashiga/Dunk",
-      "itunes": "https://itunes.apple.com/app/dunk-for-dribbble/id1003028105",
       "stars": 850,
       "screenshots": [
         "https://cdn-images-1.medium.com/max/800/1*0TkH9-Guo_A_hdlI9UEnvQ.png"
@@ -3681,7 +3665,6 @@
       "description": "Track the releases of your favorite comics",
       "license": "mit",
       "source": "https://github.com/jayhickey/Longboxed-iOS",
-      "itunes": "https://itunes.apple.com/app/longboxed-comic-tracker/id965045339",
       "stars": 26,
       "date_added": "Sat Jun 20 10:39:00 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -4100,7 +4083,6 @@
       "description": "textbooks from People's Education Press in China",
       "lang": "zho",
       "source": "https://github.com/JohnWong/textbook",
-      "itunes": "https://itunes.apple.com/app/ke-ben/id993244460",
       "tags": [
         "swift"
       ],
@@ -4222,7 +4204,6 @@
         "news"
       ],
       "source": "https://github.com/MengTo/DesignerNewsApp",
-      "itunes": "https://itunes.apple.com/app/designer-news-app/id879990495",
       "stars": 2317,
       "tags": [
         "swift"
@@ -4264,7 +4245,6 @@
       "description": "Grinnell College campus events",
       "license": "gpl-2.0",
       "source": "https://github.com/kvnbautista/Grinnell-Events-iOS",
-      "itunes": "https://itunes.apple.com/app/grinnell-events/id924312300",
       "stars": 3,
       "date_added": "Fri Oct 16 11:19:36 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -4334,7 +4314,6 @@
       "description": "Includes offline mode",
       "lang": "zho",
       "source": "https://github.com/ming1016/RSSRead",
-      "itunes": "https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364",
       "stars": 835,
       "license": "mit",
       "date_added": "Sun Apr 19 11:53:57 2015 +0800",
@@ -4612,7 +4591,6 @@
       ],
       "description": "Official White House app",
       "source": "https://github.com/WhiteHouse/wh-app-ios",
-      "itunes": "https://itunes.apple.com/app/the-white-house/id350190807",
       "stars": 682,
       "license": "mit",
       "date_added": "Fri May 15 12:23:53 2015 -0400",
@@ -5119,7 +5097,6 @@
       ],
       "description": "Password manager with Dropbox",
       "source": "https://github.com/chrishulbert/SkeletonKey",
-      "itunes": "https://itunes.apple.com/app/skeleton-key-password-manager/id513648119",
       "stars": 56,
       "license": "other",
       "date_added": "Thu Mar 31 07:29:14 2016 -0700",
@@ -5192,7 +5169,6 @@
       ],
       "description": "Is a collaborative global community that connects street musicians, fans & videomakers",
       "source": "https://github.com/henriquevelloso/StreetMusicMap",
-      "itunes": "https://itunes.apple.com/app/street-music-map/id980068735",
       "stars": 6,
       "license": "other",
       "date_added": "Wed Apr 20 18:18:37 2016 -0500",
@@ -5212,7 +5188,6 @@
       "description": "Discover talent & build something together",
       "license": "mit",
       "source": "https://github.com/CatchChat/Yep",
-      "itunes": "https://itunes.apple.com/app/yep-meet-genius/id983891256",
       "stars": 5603,
       "tags": [
         "swift"
@@ -5238,7 +5213,6 @@
         "parse"
       ],
       "source": "https://github.com/JerryHDev/1Trackr",
-      "itunes": "https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630",
       "stars": 3,
       "license": "other",
       "date_added": "Mon Apr 11 17:58:29 2016 -0500",
@@ -5349,7 +5323,6 @@
       ],
       "description": "If you have a file called todo.txt on your computer right now, you're in the right place",
       "source": "https://github.com/todotxt/todo.txt-ios",
-      "itunes": "https://itunes.apple.com/app/todo.txt-touch/id491342186",
       "stars": 371,
       "license": "gpl-3.0",
       "date_added": "Mon Nov 30 07:46:58 2015 -0800",
@@ -5597,7 +5570,6 @@
         "weather"
       ],
       "source": "https://github.com/YouXianMing/YoCelsius",
-      "itunes": "https://itunes.apple.com/app/yocelsius/id967721892",
       "stars": 2583,
       "license": "other",
       "date_added": "Wed Jun 3 06:05:45 2015 -0700",
@@ -5654,7 +5626,6 @@
       "lang": "jpn",
       "license": "mit",
       "source": "https://github.com/anzfactory/QiitaCollection",
-      "itunes": "https://itunes.apple.com/app/kitakore-for-qiita/id973532800",
       "stars": 7,
       "date_added": "Sat Oct 17 06:52:17 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -6107,7 +6078,6 @@
       ],
       "description": "Cloud encrypted notes",
       "source": "https://github.com/onionsapp/Onions-iOS",
-      "itunes": "https://itunes.apple.com/app/onions/id687296481",
       "stars": 50,
       "license": "other",
       "date_added": "Tue Jan 27 07:15:41 2015 -0800",
@@ -6234,7 +6204,6 @@
       ],
       "description": "See your realtime Google Analytics data",
       "source": "https://github.com/aciidb0mb3r/Swiflytics",
-      "itunes": "https://itunes.apple.com/app/swiflytics/id1076165139",
       "tags": [
         "swift"
       ],
@@ -6711,7 +6680,6 @@
       ],
       "description": "View & collect vegan food lists",
       "source": "https://github.com/dsgriffin/vegan-lists-uk",
-      "itunes": "https://itunes.apple.com/app/vegan-lists-uk/id1083273301",
       "stars": 4,
       "license": "mit",
       "date_added": "Sun Feb 28 16:04:01 2016 +0000",
@@ -6731,7 +6699,6 @@
       ],
       "description": "Find out the coolest things to do in your city",
       "source": "https://github.com/2city/2CITY-iOS",
-      "itunes": "https://itunes.apple.com/app/2city/id944632470",
       "stars": 13,
       "license": "other",
       "date_added": "Mon Oct 12 08:03:06 2015 -0700",
@@ -8133,7 +8100,6 @@
       ],
       "license": "mit",
       "source": "https://github.com/EvgenyKarkan/ScaryFlight",
-      "itunes": "https://itunes.apple.com/app/scary-flight/id824428528",
       "stars": 21,
       "date_added": "Fri May 13 12:09:40 2016 -0700",
       "suggested_by": "@dkhamsing",
@@ -8302,7 +8268,6 @@
       ],
       "description": "Easy test for colorblind people",
       "source": "https://github.com/boostcode/ResearchKit-ColorBlind",
-      "itunes": "https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412",
       "tags": [
         "swift"
       ],
@@ -8620,7 +8585,6 @@
       ],
       "description": "Xiangqi (Chinese Chess) with single & multiplayer modes",
       "source": "https://github.com/huygithub/hoxChess",
-      "itunes": "https://itunes.apple.com/app/hoxchess/id363513274",
       "license": "gpl-3.0",
       "stars": 31,
       "date_added": "Wed Jun 1 00:32:12 2016 -0600",
@@ -8676,7 +8640,6 @@
       "description": "Blast your way through waves of pterodactyls, includes detailed writeup on how it's made",
       "source": "https://github.com/shaunlebron/PterodactylAttack",
       "homepage": "https://shaunlebron.github.io/pteroattack.com/",
-      "itunes": "https://itunes.apple.com/app/pterodactyl-attack/id786862892",
       "license": "gpl-3.0",
       "stars": 29,
       "date_added": "Wed Jun 1 01:24:56 2016 -0600",
@@ -10096,7 +10059,6 @@
       ],
       "description": "Dead simple way to you count anything",
       "source": "https://github.com/PiXeL16/CountItApp",
-      "itunes": "https://itunes.apple.com/app/id1098893335",
       "stars": 45,
       "license": "mit",
       "tags": [
@@ -10118,7 +10080,6 @@
       ],
       "description": "Share content to your email with a single tap",
       "source": "https://github.com/PiXeL16/SendToMe",
-      "itunes": "https://itunes.apple.com/app/id1100027787",
       "stars": 13,
       "license": "mit",
       "tags": [
@@ -10202,7 +10163,6 @@
       "description": "App for Yale University students",
       "license": "mit",
       "source": "https://github.com/kiokoo/YaleMobile",
-      "itunes": "https://itunes.apple.com/app/yale-mobile/id497588523",
       "date_added": "Wed Jul 13 06:21:27 2016 -0700",
       "suggested_by": "@dkhamsing",
       "stars": 12,
@@ -10678,7 +10638,6 @@
         "content"
       ],
       "source": "https://github.com/hrscy/DanTang",
-      "itunes": "https://itunes.apple.com/app/id1021442122",
       "license": "mit",
       "tags": [
         "swift"
@@ -11334,7 +11293,6 @@
         "location"
       ],
       "source": "https://github.com/sallar/lunchify-swift",
-      "itunes": "https://itunes.apple.com/app/lunchify/id1099214692",
       "tags": [
         "swift",
         "swiftyjson",
@@ -11392,7 +11350,6 @@
         "game"
       ],
       "source": "https://github.com/xyclos/BatLovesBugs",
-      "itunes": "https://itunes.apple.com/app/bat-loves-bugs/id969817533",
       "screenshots": [
         "http://a5.mzstatic.com/us/r30/Purple1/v4/9a/1a/f9/9a1af9cc-7db1-7985-a14f-b5ccdfcc985b/screen696x696.jpeg",
         "http://a3.mzstatic.com/us/r30/Purple3/v4/da/43/ec/da43ecba-523c-02b4-1391-1b9104e8f5cc/screen696x696.jpeg",
@@ -11577,7 +11534,6 @@
       "title": "Space Zero",
       "description": "Merchant ships have been stranded in space! Rescue as many as you can, but watch out for enemies!",
       "source": "https://github.com/xyclos/space_squared",
-      "itunes": "https://itunes.apple.com/app/space-zero/id1141164238",
       "category-ids": [
         "game"
       ],
@@ -11852,7 +11808,6 @@
       "description": "Real-time SCRUM management tool for teams",
       "license": "mit",
       "source": "https://github.com/chauvincent/CodeSprint-iOS",
-      "itunes": "https://itunes.apple.com/app/codesprint/id1148072754",
       "screenshots": [
         "http://a1.mzstatic.com/us/r30/Purple62/v4/95/15/ad/9515add9-5322-a96e-5ab6-bbd258d524d5/screen696x696.jpeg",
         "http://a1.mzstatic.com/us/r30/Purple71/v4/3e/95/f0/3e95f062-ed08-1a9f-b64a-f7cc05930e42/screen696x696.jpeg",
@@ -12542,7 +12497,6 @@
       "title": "Terrarium",
       "description": "UI prototyping for coders",
       "source": "https://github.com/penk/terrarium-app",
-      "itunes": "https://itunes.apple.com/app/terrarium/id891232736",
       "category-ids": [
         "developer"
       ],
@@ -13074,7 +13028,6 @@
       "title": "Toshi",
       "description": "Private & secure messaging, Ethereum wallet and browser",
       "source": "https://github.com/toshiapp/toshi-ios-client",
-      "itunes": "https://itunes.apple.com/app/token-wallet/id1200463445",
       "tags": [
         "swift"
       ],
@@ -13573,7 +13526,6 @@
       ],
       "description": "Clean and simple Pokédex app for Pokémon GO",
       "source": "https://github.com/satya164/PocketGear",
-      "itunes": "https://itunes.apple.com/app/pokedb/id1143037838",
       "stars": 126,
       "license": "other",
       "date_added": "Mon Sep 14 11:13:58 2016 -0800",
@@ -14074,7 +14026,6 @@
         "misc"
       ],
       "source": "https://github.com/fusetools/FuseCloud",
-      "itunes": "https://itunes.apple.com/app/fusecloud/id1173516856",
       "screenshots": [
         "http://a1.mzstatic.com/us/r30/Purple71/v4/98/3a/e2/983ae222-5541-f601-0c9f-4b83bc2d12d1/screen696x696.jpeg",
         "http://a2.mzstatic.com/us/r30/Purple71/v4/25/a9/d6/25a9d622-1764-f0d4-eb74-bb0662a3c375/screen696x696.jpeg"
@@ -14479,7 +14430,6 @@
     {
       "title": "keyacid",
       "source": "https://github.com/keyacid/keyacid-iOS",
-      "itunes": "https://itunes.apple.com/app/keyacid/id1252296698",
       "description": "Secure and easy crypto for everyone",
       "category-ids": [
         "security"
