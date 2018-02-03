@@ -367,14 +367,6 @@ Click ► to show more details
 </div>
   </details>
 
-- RedditWatch: A feature-packed Reddit client for the Apple Watch  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/WillBishop/RedditWatch<br>  Added January 29, 2018
-  <div><img height='300' alt='RedditWatch image 1' src='https://i.imgur.com/1uQFYwh.png'> <img height='300' alt='RedditWatch image 2' src='https://i.imgur.com/beQhpmF.png'> <img height='300' alt='RedditWatch image 3' src='https://i.imgur.com/HqUk3sg.png'> 
-</div>
-  </details>
-
 - try! Swift  
   <details><summary><code>swift</code> 🔥🔥</summary>
 
