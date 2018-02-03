@@ -8976,11 +8976,11 @@
         "official"
       ],
       "screenshots": [
-        "http://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg"
+        "https://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg"
       ],
       "description": "A popular media player & entertainment hub",
       "source": "https://github.com/xbmc/xbmc",
-      "homepage": "http://kodi.wiki/view/IOS",
+      "homepage": "https://kodi.wiki/view/IOS",
       "license": "gpl-2.0",
       "stars": 6703,
       "date_added": "Wed Jun 1 23:25:53 2016 -0600",
