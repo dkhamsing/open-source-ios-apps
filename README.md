@@ -223,7 +223,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Bither: Simple & secure Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bither/id899478936)  
+- Bither: Simple & secure Bitcoin wallet  
   <details><summary>🔥</summary>
 
   https://github.com/bither/bither-ios<br>  Added April  3, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
@@ -263,7 +263,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Count It: Dead simple way to you count anything [` App Store`](https://itunes.apple.com/app/id1098893335)  
+- Count It: Dead simple way to you count anything  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/PiXeL16/CountItApp<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -351,7 +351,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Parties for WWDC [` App Store`](https://itunes.apple.com/app/parties-for-wwdc/id879924066)  
+- Parties for WWDC  
   <details><summary><code>cloudkit</code> 🔥🔥</summary>
 
   https://github.com/genadyo/WWDC<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -728,7 +728,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- Actor: Cross-platform instant message app [` App Store`](https://itunes.apple.com/app/actor-messenger/id1025501036)  
+- Actor: Cross-platform instant message app  
   <details><summary><code>swift</code> <code>yyimage</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/actorapp/actor-platform<br>  Added April 11, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
@@ -904,7 +904,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Toshi: Private & secure messaging, Ethereum wallet and browser [` App Store`](https://itunes.apple.com/app/token-wallet/id1200463445)  
+- Toshi: Private & secure messaging, Ethereum wallet and browser  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/toshiapp/toshi-ios-client<br>  Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
@@ -981,7 +981,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Charter: Mailing list app [` App Store`](https://itunes.apple.com/app/charter-mailing-list-client/id1082212697)  
+- Charter: Mailing list app  
   <details><summary><code>swift</code> <code>iphone</code> <code>ipad</code> 🔥🔥</summary>
 
   https://github.com/matthewpalmer/Charter<br>  Added February 22, 2016<br>  License: `other`
@@ -1005,7 +1005,7 @@ Click ► to show more details
 </div>
   </details>
 
-- CodeSprint: Real-time SCRUM management tool for teams [` App Store`](https://itunes.apple.com/app/codesprint/id1148072754)  
+- CodeSprint: Real-time SCRUM management tool for teams  
   <details><summary></summary>
 
   https://github.com/chauvincent/CodeSprint-iOS<br>  Added November 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1013,7 +1013,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Codinator: Code editor [` App Store`](https://itunes.apple.com/app/codinator/id1024671232)  
+- Codinator: Code editor  
   <details><summary><code>iphone</code> <code>ipad</code> </summary>
 
   https://github.com/DanilaVladi/codinator<br>  Added April 11, 2016<br>  License: `other`
@@ -1165,7 +1165,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Terrarium: UI prototyping for coders [` App Store`](https://itunes.apple.com/app/terrarium/id891232736)  
+- Terrarium: UI prototyping for coders  
   <details><summary><code>c++</code> 🔥</summary>
 
   https://github.com/penk/terrarium-app<br>  Added February 23, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1487,7 +1487,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Parties for WWDC [` App Store`](https://itunes.apple.com/app/parties-for-wwdc/id879924066)  
+- Parties for WWDC  
   <details><summary><code>cloudkit</code> 🔥🔥</summary>
 
   https://github.com/genadyo/WWDC<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1556,7 +1556,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Send To Me: Share content to your email with a single tap [` App Store`](https://itunes.apple.com/app/id1100027787)  
+- Send To Me: Share content to your email with a single tap  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/PiXeL16/SendToMe<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1662,7 +1662,7 @@ Click ► to show more details
 </div>
   </details>
 
-- TodayStocks: Show portfolio in a minimalist Today Extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855)  
+- TodayStocks: Show portfolio in a minimalist Today Extension  
   <details><summary></summary>
 
   https://github.com/premnirmal/TodayStocks<br>  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1787,7 +1787,7 @@ Click ► to show more details
 </div>
   </details>
 
-- TodayStocks: Show portfolio in a minimalist Today Extension [` App Store`](https://itunes.apple.com/app/todaystocks/id993467855)  
+- TodayStocks: Show portfolio in a minimalist Today Extension  
   <details><summary></summary>
 
   https://github.com/premnirmal/TodayStocks<br>  Added June 29, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1795,7 +1795,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Toshi: Private & secure messaging, Ethereum wallet and browser [` App Store`](https://itunes.apple.com/app/token-wallet/id1200463445)  
+- Toshi: Private & secure messaging, Ethereum wallet and browser  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/toshiapp/toshi-ios-client<br>  Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
@@ -1803,7 +1803,7 @@ Click ► to show more details
 </div>
   </details>
 
-- ToThePenny: Budget tracker [` App Store`](https://itunes.apple.com/app/tothepenny/id994476075)  
+- ToThePenny: Budget tracker  
   <details><summary></summary>
 
   https://github.com/vanyaland/ToThePenny<br>  Added April 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1816,7 +1816,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- Bither: Simple & secure Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bither/id899478936)  
+- Bither: Simple & secure Bitcoin wallet  
   <details><summary>🔥</summary>
 
   https://github.com/bither/bither-ios<br>  Added April  3, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
@@ -1824,7 +1824,7 @@ Click ► to show more details
 </div>
   </details>
 
-- BitStore: Bitcoin wallet [` App Store`](https://itunes.apple.com/app/bitstore/id890668158)  
+- BitStore: Bitcoin wallet  
   <details><summary></summary>
 
   https://github.com/BitStore/BitStore-iOS<br>  Added April 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1877,7 +1877,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Bat Loves Bugs: Eat as many bugs as you can catch [` App Store`](https://itunes.apple.com/app/bat-loves-bugs/id969817533)  
+- Bat Loves Bugs: Eat as many bugs as you can catch  
   <details><summary></summary>
 
   https://github.com/xyclos/BatLovesBugs<br>  Added October 27, 2016<br>  License: `other`
@@ -1909,7 +1909,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Chuck: Throw a ball and catch it, over and over and over [` App Store`](https://itunes.apple.com/app/chuck/id1050453297)  
+- Chuck: Throw a ball and catch it, over and over and over  
   <details><summary></summary>
 
   https://github.com/moowahaha/Chuck<br>  Added October 25, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1917,7 +1917,7 @@ Click ► to show more details
 </div>
   </details>
 
-- CodeCombat: Multiplayer programming game for learning how to code [` App Store`](https://itunes.apple.com/ca/app/codecombat/id936523909)  
+- CodeCombat: Multiplayer programming game for learning how to code  
   <details><summary></summary>
 
   https://github.com/codecombat/codecombat-ios<br>  Added January 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1981,7 +1981,7 @@ Click ► to show more details
 </div>
   </details>
 
-- FlappyBird clone - Scary Flight [` App Store`](https://itunes.apple.com/app/scary-flight/id824428528)  
+- FlappyBird clone - Scary Flight  
   <details><summary></summary>
 
   https://github.com/EvgenyKarkan/ScaryFlight<br>  Added May 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -2045,7 +2045,7 @@ Click ► to show more details
 </div>
   </details>
 
-- hoxChess: Xiangqi (Chinese Chess) with single & multiplayer modes [` App Store`](https://itunes.apple.com/app/hoxchess/id363513274)  
+- hoxChess: Xiangqi (Chinese Chess) with single & multiplayer modes  
   <details><summary></summary>
 
   https://github.com/huygithub/hoxChess<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
@@ -2077,7 +2077,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Mission999 [` App Store`](https://itunes.apple.com/app/mission-999/id1036686316)  
+- Mission999  
   <details><summary></summary>
 
   https://github.com/whunmr/Mission999<br>  Added February 17, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
@@ -2109,7 +2109,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Pterodactyl Attack: Blast your way through waves of pterodactyls, includes detailed writeup on how it's made [` App Store`](https://itunes.apple.com/app/pterodactyl-attack/id786862892)  
+- Pterodactyl Attack: Blast your way through waves of pterodactyls, includes detailed writeup on how it's made  
   <details><summary></summary>
 
   https://github.com/shaunlebron/PterodactylAttack<br>  https://shaunlebron.github.io/pteroattack.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
@@ -2155,7 +2155,7 @@ Click ► to show more details
   https://github.com/insurgentgames/Skeleton-Key-iOS<br>  Added May 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- Space Zero: Merchant ships have been stranded in space! Rescue as many as you can, but watch out for enemies! [` App Store`](https://itunes.apple.com/app/space-zero/id1141164238)  
+- Space Zero: Merchant ships have been stranded in space! Rescue as many as you can, but watch out for enemies!  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/xyclos/space_squared<br>  Added November  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -2422,7 +2422,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- AsthmaHealth: Asthma study [` App Store`](https://itunes.apple.com/app/asthma-health-by-mount-sinai/id972625668)  
+- AsthmaHealth: Asthma study  
   <details><summary></summary>
 
   https://github.com/ResearchKit/AsthmaHealth<br>  Added April 14, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
@@ -2430,7 +2430,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- Colorblind: Easy test for colorblind people [` App Store`](https://itunes.apple.com/app/colorblind-app-color-blindness/id1098387412)  
+- Colorblind: Easy test for colorblind people  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/boostcode/ResearchKit-ColorBlind<br>  Added May 18, 2016<br>  License: `other`
@@ -2438,7 +2438,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- GlucoSuccess: Diabetes study [` App Store`](https://itunes.apple.com/app/glucosuccess/id972143976)  
+- GlucoSuccess: Diabetes study  
   <details><summary></summary>
 
   https://github.com/ResearchKit/GlucoSuccess<br>  Added April 15, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
@@ -2542,7 +2542,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- DoctorNearby: Helps you find doctors in your city [` App Store`](https://itunes.apple.com/app/doctor-nearby/id1068715113)  
+- DoctorNearby: Helps you find doctors in your city  
   <details><summary></summary>
 
   https://github.com/vincezzh/doctornearby-ios<br>  Added July 14, 2016<br>  License: `other`
@@ -2614,7 +2614,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- Lunchify: Find restaurants offering 10€ lunch buffets in Finland [` App Store`](https://itunes.apple.com/app/lunchify/id1099214692)  
+- Lunchify: Find restaurants offering 10€ lunch buffets in Finland  
   <details><summary><code>swift</code> <code>swiftyjson</code> <code>alamofire</code> <code>dznemptydataset</code> </summary>
 
   https://github.com/sallar/lunchify-swift<br>  Added October 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -2875,7 +2875,7 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- Longboxed: Track the releases of your favorite comics [` App Store`](https://itunes.apple.com/app/longboxed-comic-tracker/id965045339)  
+- Longboxed: Track the releases of your favorite comics  
   <details><summary></summary>
 
   https://github.com/jayhickey/Longboxed-iOS<br>  Added June 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3146,7 +3146,7 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- Dunk [` App Store`](https://itunes.apple.com/app/dunk-for-dribbble/id1003028105)  
+- Dunk  
   <details><summary><code>swift</code> <code>dribbble</code> 🔥🔥🔥</summary>
 
   https://github.com/naoyashiga/Dunk<br>  Added December 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3154,7 +3154,7 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- Good Living Guide: home snacks, gifts, beauty, shopping.. [` App Store`](https://itunes.apple.com/app/id1021442122)  
+- Good Living Guide: home snacks, gifts, beauty, shopping..  
   <details><summary><code>swift</code> 🇨🇳 🔥🔥🔥</summary>
 
   https://github.com/hrscy/DanTang<br>  Added August  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3298,7 +3298,7 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- QiitaCollection: Technical knowledge sharing & collaboration platform [` App Store`](https://itunes.apple.com/app/kitakore-for-qiita/id973532800)  
+- QiitaCollection: Technical knowledge sharing & collaboration platform  
   <details><summary>🇯🇵 </summary>
 
   https://github.com/anzfactory/QiitaCollection<br>  Added October 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3338,7 +3338,7 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- Textbook: textbooks from People's Education Press in China [` App Store`](https://itunes.apple.com/app/ke-ben/id993244460)  
+- Textbook: textbooks from People's Education Press in China  
   <details><summary><code>swift</code> 🇨🇳 </summary>
 
   https://github.com/JohnWong/textbook<br>  Added February 17, 2016<br>  License: `other`
@@ -3378,7 +3378,7 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- YaleMobile: App for Yale University students [` App Store`](https://itunes.apple.com/app/yale-mobile/id497588523)  
+- YaleMobile: App for Yale University students  
   <details><summary></summary>
 
   https://github.com/kiokoo/YaleMobile<br>  Added July 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3489,7 +3489,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- 360 VR Player: 360 video player [` App Store`](https://itunes.apple.com/app/360-vr-player/id1061464612)  
+- 360 VR Player: 360 video player  
   <details><summary><code>iphone</code> <code>ipad</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/hanton/HTY360Player<br>  Added December  2, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3534,7 +3534,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Designer News: Browse the https://www.designernews.co/ design & technology site [` App Store`](https://itunes.apple.com/app/designer-news-app/id879990495)  
+- Designer News: Browse the https://www.designernews.co/ design & technology site  
   <details><summary><code>swift</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/MengTo/DesignerNewsApp<br>  Added March 15, 2015<br>  License: `other`
@@ -3542,7 +3542,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 
-- GrinnellEvents: Grinnell College campus events [` App Store`](https://itunes.apple.com/app/grinnell-events/id924312300)  
+- GrinnellEvents: Grinnell College campus events  
   <details><summary></summary>
 
   https://github.com/kvnbautista/Grinnell-Events-iOS<br>  Added October 16, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
@@ -3709,7 +3709,7 @@ https://newsapi.org/ — [back to top](#readme)
 </div>
   </details>
 
-- RSSRead: Includes offline mode [` App Store`](https://itunes.apple.com/app/yi-yue-rss-li-xian-xin-wen-yue-du/id850246364)  
+- RSSRead: Includes offline mode  
   <details><summary>🇨🇳 🔥🔥🔥</summary>
 
   https://github.com/ming1016/RSSRead<br>  Added April 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3858,7 +3858,7 @@ https://newsapi.org/ — [back to top](#readme)
 </div>
   </details>
 
-- WhiteHouse: Official White House app [` App Store`](https://itunes.apple.com/app/the-white-house/id350190807)  
+- WhiteHouse: Official White House app  
   <details><summary>🔥🔥🔥</summary>
 
   https://github.com/WhiteHouse/wh-app-ios<br>  Added May 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3999,7 +3999,7 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
  
 https://github.com/ReactiveX/RxSwift — [back to top](#readme) 
  
-- Count It: Dead simple way to you count anything [` App Store`](https://itunes.apple.com/app/id1098893335)  
+- Count It: Dead simple way to you count anything  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/PiXeL16/CountItApp<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -4308,7 +4308,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   https://github.com/iCepa/iCepa<br>  Added September  7, 2016<br>  License: `other`
   </details>
 
-- keyacid: Secure and easy crypto for everyone [` App Store`](https://itunes.apple.com/app/keyacid/id1252296698)  
+- keyacid: Secure and easy crypto for everyone  
   <details><summary><code>swift</code> <code>carthage</code> <code>libsodium</code> </summary>
 
   https://github.com/keyacid/keyacid-iOS<br>  Added August  3, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
@@ -4330,7 +4330,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 </div>
   </details>
 
-- Onions: Cloud encrypted notes [` App Store`](https://itunes.apple.com/app/onions/id687296481)  
+- Onions: Cloud encrypted notes  
   <details><summary></summary>
 
   https://github.com/onionsapp/Onions-iOS<br>  Added January 27, 2015<br>  License: `other`
@@ -4439,7 +4439,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 </div>
   </details>
 
-- SkeletonKey: Password manager with Dropbox [` App Store`](https://itunes.apple.com/app/skeleton-key-password-manager/id513648119)  
+- SkeletonKey: Password manager with Dropbox  
   <details><summary><code>iphone</code> </summary>
 
   https://github.com/chrishulbert/SkeletonKey<br>  Added March 31, 2016<br>  License: `other`
@@ -4508,7 +4508,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 </div>
   </details>
 
-- StreetMusicMap: Is a collaborative global community that connects street musicians, fans & videomakers [` App Store`](https://itunes.apple.com/app/street-music-map/id980068735)  
+- StreetMusicMap: Is a collaborative global community that connects street musicians, fans & videomakers  
   <details><summary></summary>
 
   https://github.com/henriquevelloso/StreetMusicMap<br>  Added April 20, 2016<br>  License: `other`
@@ -4516,7 +4516,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 </div>
   </details>
 
-- Yep: Discover talent & build something together [` App Store`](https://itunes.apple.com/app/yep-meet-genius/id983891256)  
+- Yep: Discover talent & build something together  
   <details><summary><code>swift</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/CatchChat/Yep<br>  Added February  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -4548,7 +4548,7 @@ https://mastodon.social — [back to top](#readme)
  
 [back to top](#readme) 
  
-- 1Trackr: Log your community service hours to the cloud [` App Store`](https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630)  
+- 1Trackr: Log your community service hours to the cloud  
   <details><summary><code>parse</code> </summary>
 
   https://github.com/JerryHDev/1Trackr<br>  Added April 11, 2016<br>  License: `other`
@@ -4618,7 +4618,7 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place [` App Store`](https://itunes.apple.com/app/todo.txt-touch/id491342186)  
+- Todo.txt: If you have a file called todo.txt on your computer right now, you're in the right place  
   <details><summary>🔥🔥</summary>
 
   https://github.com/todotxt/todo.txt-ios<br>  Added November 30, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
@@ -4676,7 +4676,7 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- Onions: Cloud encrypted notes [` App Store`](https://itunes.apple.com/app/onions/id687296481)  
+- Onions: Cloud encrypted notes  
   <details><summary></summary>
 
   https://github.com/onionsapp/Onions-iOS<br>  Added January 27, 2015<br>  License: `other`
@@ -4921,7 +4921,7 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- YoCelsius [` App Store`](https://itunes.apple.com/app/yocelsius/id967721892)  
+- YoCelsius  
   <details><summary>🔥🔥🔥🔥🔥</summary>
 
   https://github.com/YouXianMing/YoCelsius<br>  Added June  3, 2015<br>  License: `other`
@@ -4990,7 +4990,7 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- FuseCloud: Music player that connects with SoundCloud [` App Store`](https://itunes.apple.com/app/fusecloud/id1173516856)  
+- FuseCloud: Music player that connects with SoundCloud  
   <details><summary><code>fuse</code> <code>javascript</code> </summary>
 
   https://github.com/fusetools/FuseCloud<br>  Added July 24, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -5086,7 +5086,7 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- Swiflytics: See your realtime Google Analytics data [` App Store`](https://itunes.apple.com/app/swiflytics/id1076165139)  
+- Swiflytics: See your realtime Google Analytics data  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/aciidb0mb3r/Swiflytics<br>  Added April 26, 2016<br>  License: `other`
@@ -5232,7 +5232,7 @@ https://firebase.google.com/ — [back to top](#readme)
 </div>
   </details>
 
-- CodeSprint: Real-time SCRUM management tool for teams [` App Store`](https://itunes.apple.com/app/codesprint/id1148072754)  
+- CodeSprint: Real-time SCRUM management tool for teams  
   <details><summary></summary>
 
   https://github.com/chauvincent/CodeSprint-iOS<br>  Added November 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -5323,7 +5323,7 @@ http://ionicframework.com/ — [back to top](#readme)
 </div>
   </details>
 
-- Vegan Lists UK: View & collect vegan food lists [` App Store`](https://itunes.apple.com/app/vegan-lists-uk/id1083273301)  
+- Vegan Lists UK: View & collect vegan food lists  
   <details><summary><code>typescript</code> </summary>
 
   https://github.com/dsgriffin/vegan-lists-uk<br>  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -5336,7 +5336,7 @@ http://ionicframework.com/ — [back to top](#readme)
  
 https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme) 
  
-- 1Trackr: Log your community service hours to the cloud [` App Store`](https://itunes.apple.com/app/1trackr-service-hour-tracking/id1072273630)  
+- 1Trackr: Log your community service hours to the cloud  
   <details><summary><code>parse</code> </summary>
 
   https://github.com/JerryHDev/1Trackr<br>  Added April 11, 2016<br>  License: `other`
@@ -5344,7 +5344,7 @@ https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme)
 </div>
   </details>
 
-- 2CITY: Find out the coolest things to do in your city [` App Store`](https://itunes.apple.com/app/2city/id944632470)  
+- 2CITY: Find out the coolest things to do in your city  
   <details><summary></summary>
 
   https://github.com/2city/2CITY-iOS<br>  Added October 12, 2015<br>  License: `other`
@@ -5553,7 +5553,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
-- PokeDB: Clean and simple Pokédex app for Pokémon GO [` App Store`](https://itunes.apple.com/app/pokedb/id1143037838)  
+- PokeDB: Clean and simple Pokédex app for Pokémon GO  
   <details><summary><code>react-native</code> 🔥</summary>
 
   https://github.com/satya164/PocketGear<br>  Added September 14, 2016<br>  License: `other`
