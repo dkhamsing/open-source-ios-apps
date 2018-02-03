@@ -11293,7 +11293,6 @@
         "location"
       ],
       "source": "https://github.com/sallar/lunchify-swift",
-      "itunes": "https://itunes.apple.com/app/lunchify/id1099214692",
       "tags": [
         "swift",
         "swiftyjson",
@@ -11351,7 +11350,6 @@
         "game"
       ],
       "source": "https://github.com/xyclos/BatLovesBugs",
-      "itunes": "https://itunes.apple.com/app/bat-loves-bugs/id969817533",
       "screenshots": [
         "http://a5.mzstatic.com/us/r30/Purple1/v4/9a/1a/f9/9a1af9cc-7db1-7985-a14f-b5ccdfcc985b/screen696x696.jpeg",
         "http://a3.mzstatic.com/us/r30/Purple3/v4/da/43/ec/da43ecba-523c-02b4-1391-1b9104e8f5cc/screen696x696.jpeg",
@@ -11536,7 +11534,6 @@
       "title": "Space Zero",
       "description": "Merchant ships have been stranded in space! Rescue as many as you can, but watch out for enemies!",
       "source": "https://github.com/xyclos/space_squared",
-      "itunes": "https://itunes.apple.com/app/space-zero/id1141164238",
       "category-ids": [
         "game"
       ],
@@ -11811,7 +11808,6 @@
       "description": "Real-time SCRUM management tool for teams",
       "license": "mit",
       "source": "https://github.com/chauvincent/CodeSprint-iOS",
-      "itunes": "https://itunes.apple.com/app/codesprint/id1148072754",
       "screenshots": [
         "http://a1.mzstatic.com/us/r30/Purple62/v4/95/15/ad/9515add9-5322-a96e-5ab6-bbd258d524d5/screen696x696.jpeg",
         "http://a1.mzstatic.com/us/r30/Purple71/v4/3e/95/f0/3e95f062-ed08-1a9f-b64a-f7cc05930e42/screen696x696.jpeg",
@@ -12501,7 +12497,6 @@
       "title": "Terrarium",
       "description": "UI prototyping for coders",
       "source": "https://github.com/penk/terrarium-app",
-      "itunes": "https://itunes.apple.com/app/terrarium/id891232736",
       "category-ids": [
         "developer"
       ],
@@ -13033,7 +13028,6 @@
       "title": "Toshi",
       "description": "Private & secure messaging, Ethereum wallet and browser",
       "source": "https://github.com/toshiapp/toshi-ios-client",
-      "itunes": "https://itunes.apple.com/app/token-wallet/id1200463445",
       "tags": [
         "swift"
       ],
@@ -14032,7 +14026,6 @@
         "misc"
       ],
       "source": "https://github.com/fusetools/FuseCloud",
-      "itunes": "https://itunes.apple.com/app/fusecloud/id1173516856",
       "screenshots": [
         "http://a1.mzstatic.com/us/r30/Purple71/v4/98/3a/e2/983ae222-5541-f601-0c9f-4b83bc2d12d1/screen696x696.jpeg",
         "http://a2.mzstatic.com/us/r30/Purple71/v4/25/a9/d6/25a9d622-1764-f0d4-eb74-bb0662a3c375/screen696x696.jpeg"
