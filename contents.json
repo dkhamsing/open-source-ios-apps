@@ -15001,8 +15001,7 @@
       "description": "A simple finance app showing price information, historical prices and news.",
       "source": "https://github.com/MauriceArikoglu/stocks-ios",
       "category-ids": [
-        "finance",
-        "Finance"
+        "finance"
       ],
       "tags": [
         "finance",
