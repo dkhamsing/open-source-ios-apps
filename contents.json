@@ -458,8 +458,7 @@
       "title": "Bither",
       "category-ids": [
         "apple-watch",
-        "bitcoin",
-        "objc"
+        "bitcoin"
       ],
       "description": "Simple & secure Bitcoin wallet",
       "license": "apache-2.0",
@@ -618,8 +617,7 @@
     {
       "title": "Cortado",
       "category-ids": [
-        "apple-watch",
-        "objc"
+        "apple-watch"
       ],
       "tags": [
         "objc"
@@ -820,8 +818,7 @@
     {
       "title": "KTPomodoro",
       "category-ids": [
-        "apple-watch",
-        "objc"
+        "apple-watch"
       ],
       "tags": [
         "objc"
@@ -13269,8 +13266,7 @@
       "title": "Calculator by BalestraPatrick",
       "source": "https://github.com/BalestraPatrick/AppleWatchCalculator",
       "category-ids": [
-        "apple-watch",
-        "objc"
+        "apple-watch"
       ],
       "tags": [
         "objc"
