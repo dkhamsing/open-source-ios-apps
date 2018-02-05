@@ -15517,6 +15517,26 @@
       "license": "mit",
       "date_added": "Feb 3 2018",
       "suggested_by": "@MauriceArikoglu"
+    },
+    {
+      "title": "wallabag",
+      "description": "A self-hosted read-it-later app.",
+      "source": "https://github.com/wallabag/ios-app",
+      "itunes": "https://itunes.apple.com/app/wallabag-2-official/id1170800946",
+      "category-ids": [
+        "media"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/wallabag/ios-app/blob/master/fastlane/framed/iPhone6Plus-01Home-d41d8cd98f00b204e9800998ecf8427e_framed.png?raw=true",
+        "https://github.com/wallabag/ios-app/blob/master/fastlane/framed/iPhone6Plus-02Article-d41d8cd98f00b204e9800998ecf8427e_framed.png?raw=true"
+      ],
+      "stars": 49,
+      "license": "mit",
+      "date_added": "Feb 5 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
