@@ -2240,7 +2240,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - Crosses-n-Ous: Class Tic Tac Toe reincarnation with AI and state machines  
   <details><summary><code>swift</code> <code>gameplaykit</code> </summary>
 
-  https://github.com/jVirus/Crosses-n-Ous<br>  Added August 27, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/ChickenHeart/Crosses-n-Ous<br>  Added August 27, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Crosses-n-Ous image 1' src='https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif'> 
 </div>
   </details>
