@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **219** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **220** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1320,6 +1320,14 @@ Image, video, audio, reading — [back to top](#readme)
 
   https://github.com/xcoo/upupu<br>  Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Upupu image 1' src='http://a1.mzstatic.com/us/r30/Purple62/v4/c3/82/0a/c3820aba-84fb-fc93-2cd6-092d52360128/screen696x696.jpeg'> <img height='300' alt='Upupu image 2' src='http://a3.mzstatic.com/us/r30/Purple71/v4/40/7a/69/407a69d2-7f9e-2c01-0548-e96ba9f862f5/screen696x696.jpeg'> <img height='300' alt='Upupu image 3' src='http://a5.mzstatic.com/us/r30/Purple62/v4/4d/ea/cf/4deacf02-1071-6dda-e7fe-730858a0515e/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- wallabag: A self-hosted read-it-later app. [` App Store`](https://itunes.apple.com/app/wallabag-2-official/id1170800946)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/wallabag/ios-app<br>  Added February  5, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='wallabag image 1' src='https://github.com/wallabag/ios-app/blob/master/fastlane/framed/iPhone6Plus-01Home-d41d8cd98f00b204e9800998ecf8427e_framed.png?raw=true'> <img height='300' alt='wallabag image 2' src='https://github.com/wallabag/ios-app/blob/master/fastlane/framed/iPhone6Plus-02Article-d41d8cd98f00b204e9800998ecf8427e_framed.png?raw=true'> 
 </div>
   </details>
 
