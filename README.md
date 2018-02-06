@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-775-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%205,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-775-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%206,%202018-lightgrey.svg)
 
 Jump to
 
@@ -973,7 +973,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Buglife: Bug reporting SDK & web platform for iOS apps  
+- Buglife: Awesome bug reporting SDK & web platform  
   <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/Buglife/Buglife-iOS<br>  Added January 13, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
@@ -1061,7 +1061,7 @@ Click ► to show more details
 </div>
   </details>
 
-- Jasonette: Create a native iOS app with nothing but JSON  
+- Jasonette: Create a native app over HTTP  
   <details><summary><code>json</code> <code>javascript</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/Jasonette/JASONETTE-iOS<br>  http://jasonette.com/<br>  Added November 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
