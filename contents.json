@@ -12204,7 +12204,7 @@
     },
     {
       "title": "Jasonette",
-      "description": "Create a native iOS app with nothing but JSON",
+      "description": "Create a native app over HTTP",
       "category-ids": [
         "developer"
       ],
@@ -15425,7 +15425,7 @@
     },
     {
       "title": "Buglife",
-      "description": "Bug reporting SDK & web platform for iOS apps",
+      "description": "Awesome bug reporting SDK & web platform",
       "source": "https://github.com/Buglife/Buglife-iOS",
       "category-ids": [
         "developer"
