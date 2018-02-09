@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-778-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%209,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-779-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%209,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1548,7 +1548,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- Celluloid Photo Editing extension [` App Store`](https://itunes.apple.com/app/celluloid/id1124966798)  
+- Celluloid Photo Editing extension  
   <details><summary><code>swift</code> <code>snapkit</code> 🇨🇳 🔥🔥🔥</summary>
 
   https://github.com/100mango/Celluloid<br>  Added July 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3585,7 +3585,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - LobsterApp: Browse the https://lobste.rs/ community news site  
   <details><summary><code>objc</code> </summary>
 
-  https://github.com/rpowelll/LobsterApp<br>  Added July 21, 2016<br>  License: `other`
+  https://github.com/rhysforyou/LobsterApp<br>  Added July 21, 2016<br>  License: `other`
   <div><img height='300' alt='LobsterApp image 1' src='https://i.imgur.com/WF6eY71.png'> 
 </div>
   </details>
@@ -4283,6 +4283,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Siesta GitHub Browser image 1' src='https://i.imgur.com/OBGvFKw.png'> <img height='300' alt='Siesta GitHub Browser image 2' src='https://i.imgur.com/50eCbeX.png'> 
+</div>
+  </details>
+
+- Snowflake: A React-Native Starter App/BoilerPlate/Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku  
+  <details><summary><code>react-native</code> 🔥🔥🔥🔥🔥</summary>
+
+  https://github.com/bartonhammond/snowflake<br>  Added February 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Snowflake image 1' src='https://cloud.githubusercontent.com/assets/1282364/11598478/b2b1b5e6-9a87-11e5-8be9-37cbfa478a71.gif'> 
 </div>
   </details>
 
@@ -5670,6 +5678,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
   https://github.com/VctrySam/SnapChat<br>  Added August 14, 2016<br>  License: `other`
   <div><img height='300' alt='Snapchat clone image 1' src='https://i.imgur.com/6HfPmrT.png'> 
+</div>
+  </details>
+
+- Snowflake: A React-Native Starter App/BoilerPlate/Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku  
+  <details><summary><code>react-native</code> 🔥🔥🔥🔥🔥</summary>
+
+  https://github.com/bartonhammond/snowflake<br>  Added February 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Snowflake image 1' src='https://cloud.githubusercontent.com/assets/1282364/11598478/b2b1b5e6-9a87-11e5-8be9-37cbfa478a71.gif'> 
 </div>
   </details>
 
