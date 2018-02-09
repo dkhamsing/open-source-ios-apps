@@ -15537,15 +15537,20 @@
       "license": "mit",
       "date_added": "Feb 5 2018",
       "suggested_by": "@vpeschenkov"
-    },{
-      "title": "BitPrice - Bitcoin Rate",
-      "category-ids": ["bitcoin"],
+    },
+    {
+      "title": "BitPrice",
+      "category-ids": [
+        "bitcoin"
+      ],
       "description": "Display and monitor the current Bitcoint rate.",
       "source": "https://github.com/Bruno-Furtado/bitprice-ios",
       "itunes": "https://itunes.apple.com/app/id1343270451",
       "license": "mit",
-      "stars": 0,
-      "tags": ["swift"],
+      "stars": 3,
+      "tags": [
+        "swift"
+      ],
       "screenshots": [
         "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/07/30/e3/0730e3d1-dd14-e27f-b982-734f3f8dda6d/source/230x0w.jpg",
         "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/da/2a/10/da2a1060-8e6c-4a9d-41ef-3839a493cf92/source/230x0w.jpg"
