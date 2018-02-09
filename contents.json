@@ -15557,6 +15557,26 @@
       ],
       "date_added": "Feb 6 2018",
       "suggested_by": "@Bruno-Furtado"
+    },
+    {
+      "title": "iOSSwiftMetalCamera",
+      "category-ids": [
+        "sample"
+      ],
+      "description": "An example app showing how to use AVCaptureSession with Metal in Swift",
+      "source": "https://github.com/bradley/iOSSwiftMetalCamera",
+      "license": "other",
+      "stars": 68,
+      "tags": [
+        "swift",
+        "metal"
+      ],
+      "screenshots": [
+        "https://github.com/bradley/iOSSwiftMetalCamera/blob/master/no_shader.png?raw=true",
+        "https://github.com/bradley/iOSSwiftMetalCamera/blob/master/shader.png?raw=true"
+      ],
+      "date_added": "Feb 9 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
