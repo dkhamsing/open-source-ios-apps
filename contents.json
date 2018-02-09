@@ -10805,7 +10805,7 @@
         "https://i.imgur.com/WF6eY71.png"
       ],
       "description": "Browse the https://lobste.rs/ community news site",
-      "source": "https://github.com/rpowelll/LobsterApp",
+      "source": "https://github.com/rhysforyou/LobsterApp",
       "license": "other",
       "date_added": "Thu Jul 21 07:33:15 2016 -0700",
       "suggested_by": "@dkhamsing",
@@ -10886,7 +10886,6 @@
       "source": "https://github.com/100mango/Celluloid",
       "license": "mit",
       "lang": "zho",
-      "itunes": "https://itunes.apple.com/app/celluloid/id1124966798",
       "date_added": "Sun Jul 24 18:02:47 2016 -0300",
       "suggested_by": "@lfarah",
       "stars": 537,
