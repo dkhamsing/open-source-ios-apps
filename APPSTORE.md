@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **221** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **222** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -613,6 +613,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- ChainReactApp: The official Chain React Conf App [` App Store`](https://itunes.apple.com/app/chain-react-conf/id1239112816)  
+  <details><summary><code>react-native</code> 🔥🔥</summary>
+
+  https://github.com/infinitered/ChainReactApp<br>  Added February  9, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='ChainReactApp image 1' src='https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/aa/31/79/aa3179bb-94de-501b-3a54-a4ce1a5742c2/pr_source.png/230x0w.jpg'> <img height='300' alt='ChainReactApp image 2' src='https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/8d/a4/98/8da49880-bfe1-021b-7ae4-8922ca17f723/pr_source.png/230x0w.jpg'> <img height='300' alt='ChainReactApp image 3' src='https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/b4/a9/5f/b4a95ff1-0f47-1a32-c6c8-0bf5a3cc2435/pr_source.png/230x0w.jpg'> 
+</div>
+  </details>
+
 - Northern California Cherry Blossom Festival [` App Store`](https://itunes.apple.com/app/northern-california-cherry-blossom-festival/id981016442)  
   <details><summary><code>swift</code> </summary>
 
@@ -814,11 +822,11 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- BitPrice - Bitcoin Rate: Display and monitor the current Bitcoint rate. [` App Store`](https://itunes.apple.com/app/id1343270451)  
+- BitPrice: Display and monitor the current Bitcoint rate. [` App Store`](https://itunes.apple.com/app/id1343270451)  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/Bruno-Furtado/bitprice-ios<br>  Added February  6, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='BitPrice - Bitcoin Rate image 1' src='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/07/30/e3/0730e3d1-dd14-e27f-b982-734f3f8dda6d/source/230x0w.jpg'> <img height='300' alt='BitPrice - Bitcoin Rate image 2' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/da/2a/10/da2a1060-8e6c-4a9d-41ef-3839a493cf92/source/230x0w.jpg'> 
+  <div><img height='300' alt='BitPrice image 1' src='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/07/30/e3/0730e3d1-dd14-e27f-b982-734f3f8dda6d/source/230x0w.jpg'> <img height='300' alt='BitPrice image 2' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/da/2a/10/da2a1060-8e6c-4a9d-41ef-3839a493cf92/source/230x0w.jpg'> 
 </div>
   </details>
 
