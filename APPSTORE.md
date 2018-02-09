@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **222** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **221** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -650,14 +650,6 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- Celluloid Photo Editing extension [` App Store`](https://itunes.apple.com/app/celluloid/id1124966798)  
-  <details><summary><code>swift</code> <code>snapkit</code> 🇨🇳 🔥🔥🔥</summary>
-
-  https://github.com/100mango/Celluloid<br>  Added July 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Celluloid Photo Editing extension image 1' src='http://a3.mzstatic.com/us/r30/Purple60/v4/81/ee/c1/81eec17b-96c0-6b5c-de9b-da1515ffc3f9/screen696x696.jpeg'> 
-</div>
-  </details>
-
 
 ### Content Blocking 
  
