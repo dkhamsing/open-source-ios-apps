@@ -15597,6 +15597,25 @@
       ],
       "date_added": "Feb 9 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Snowflake",
+      "category-ids": [
+        "sample",
+        "react-native"
+      ],
+      "description": "A React-Native Starter App/BoilerPlate/Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku",
+      "source": "https://github.com/bartonhammond/snowflake",
+      "license": "mit",
+      "stars": 3952,
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": [
+        "https://cloud.githubusercontent.com/assets/1282364/11598478/b2b1b5e6-9a87-11e5-8be9-37cbfa478a71.gif"
+      ],
+      "date_added": "Feb 10 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
