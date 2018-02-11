@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-781-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2011,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-782-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2011,%202018-lightgrey.svg)
 
 Jump to
 
@@ -5035,6 +5035,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/aharren/CardDecks<br>  Added April 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='CardDecks image 1' src='https://i.imgur.com/h2ybAgQ.png'> 
+</div>
+  </details>
+
+- CutTheNotch: This app helps your create an illusion that you can hide the notch  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/Naituw/CutTheNotch<br>  Added February 12, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='CutTheNotch image 1' src='https://github.com/Naituw/CutTheNotch/blob/master/demo.gif?raw=true'> 
 </div>
   </details>
 
