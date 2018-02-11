@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-780-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2011,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-781-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2011,%202018-lightgrey.svg)
 
 Jump to
 
@@ -4267,6 +4267,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/vanyaland/MVVM-Example<br>  Added September  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Protocol-Oriented MVVM Examples image 1' src='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png'> <img height='300' alt='Protocol-Oriented MVVM Examples image 2' src='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png'> <img height='300' alt='Protocol-Oriented MVVM Examples image 3' src='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png'> 
+</div>
+  </details>
+
+- Reminders: An application to demonstrate how to implement a Clean Architecture  
+  <details><summary><code>swift</code> 🔥🔥</summary>
+
+  https://github.com/tiagomartinho/Reminders<br>  Added February 11, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Reminders image 1' src='https://i.imgur.com/NYupyuB.png'> <img height='300' alt='Reminders image 2' src='https://i.imgur.com/NInDwlx.png'> 
 </div>
   </details>
 
