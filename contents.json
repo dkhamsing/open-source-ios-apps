@@ -15656,6 +15656,24 @@
       ],
       "date_added": "Feb 11 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "CutTheNotch",
+      "category-ids": [
+        "misc"
+      ],
+      "description": "This app helps your create an illusion that you can hide the notch",
+      "source": "https://github.com/Naituw/CutTheNotch",
+      "license": "mit",
+      "stars": 80,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/Naituw/CutTheNotch/blob/master/demo.gif?raw=true"
+      ],
+      "date_added": "Feb 12 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
