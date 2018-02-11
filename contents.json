@@ -15637,6 +15637,25 @@
       ],
       "date_added": "Feb 11 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Reminders",
+      "category-ids": [
+        "sample"
+      ],
+      "description": "An application to demonstrate how to implement a Clean Architecture",
+      "source": "https://github.com/tiagomartinho/Reminders",
+      "license": "mit",
+      "stars": 210,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/NYupyuB.png",
+        "https://i.imgur.com/NInDwlx.png"
+      ],
+      "date_added": "Feb 11 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
