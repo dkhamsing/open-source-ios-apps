@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **221** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **222** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -454,6 +454,14 @@ Click ► to show more details
 
   https://github.com/expo/expo<br>  https://expo.io/<br>  Added April 28, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   <div><img height='300' alt='Expo Client image 1' src='http://a4.mzstatic.com/us/r30/Purple111/v4/42/1e/6e/421e6e4d-2524-5e1a-93aa-b8159d48a8fa/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- iVim: A vim port [` App Store`](https://itunes.apple.com/app/ivim/id1266544660)  
+  <details><summary><code>c</code> <code>vim-script</code> </summary>
+
+  https://github.com/terrychou/iVim<br>  Added February 11, 2018<br>  License: `other`
+  <div><img height='300' alt='iVim image 1' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'> 
 </div>
   </details>
 
@@ -2076,6 +2084,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/tnantoka/edhita<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Edhita image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/92/84/ea/9284ea12-6151-28ba-7ca5-c7a20a485794/screen696x696.jpeg'> <img height='300' alt='Edhita image 2' src='http://a1.mzstatic.com/us/r30/Purple62/v4/4f/a3/d0/4fa3d02f-03e0-c774-3a11-e8cd2ed524e2/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- iVim: A vim port [` App Store`](https://itunes.apple.com/app/ivim/id1266544660)  
+  <details><summary><code>c</code> <code>vim-script</code> </summary>
+
+  https://github.com/terrychou/iVim<br>  Added February 11, 2018<br>  License: `other`
+  <div><img height='300' alt='iVim image 1' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'> 
 </div>
   </details>
 
