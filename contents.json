@@ -15616,6 +15616,27 @@
       ],
       "date_added": "Feb 10 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "iVim",
+      "category-ids": [
+        "develop",
+        "text"
+      ],
+      "description": "A vim port",
+      "source": "https://github.com/terrychou/iVim",
+      "itunes": "https://itunes.apple.com/app/ivim/id1266544660",
+      "license": "other",
+      "stars": 65,
+      "tags": [
+        "c",
+        "vim-script"
+      ],
+      "screenshots": [
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg"
+      ],
+      "date_added": "Feb 11 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
