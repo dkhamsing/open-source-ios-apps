@@ -15620,7 +15620,7 @@
     {
       "title": "iVim",
       "category-ids": [
-        "develop",
+        "developer",
         "text"
       ],
       "description": "A vim port",
