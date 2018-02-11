@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-779-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%209,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-780-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2011,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1058,6 +1058,14 @@ Click ► to show more details
 
   https://github.com/ndfred/iperf-ios<br>  Added November 14, 2016<br>  License: `other`
   <div><img height='300' alt='iperf image 1' src='https://github.com/ndfred/iperf-ios/raw/master/Screenshot.png'> 
+</div>
+  </details>
+
+- iVim: A vim port [` App Store`](https://itunes.apple.com/app/ivim/id1266544660)  
+  <details><summary><code>c</code> <code>vim-script</code> </summary>
+
+  https://github.com/terrychou/iVim<br>  Added February 11, 2018<br>  License: `other`
+  <div><img height='300' alt='iVim image 1' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'> 
 </div>
   </details>
 
@@ -4684,6 +4692,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/tnantoka/edhita<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Edhita image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/92/84/ea/9284ea12-6151-28ba-7ca5-c7a20a485794/screen696x696.jpeg'> <img height='300' alt='Edhita image 2' src='http://a1.mzstatic.com/us/r30/Purple62/v4/4f/a3/d0/4fa3d02f-03e0-c774-3a11-e8cd2ed524e2/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- iVim: A vim port [` App Store`](https://itunes.apple.com/app/ivim/id1266544660)  
+  <details><summary><code>c</code> <code>vim-script</code> </summary>
+
+  https://github.com/terrychou/iVim<br>  Added February 11, 2018<br>  License: `other`
+  <div><img height='300' alt='iVim image 1' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'> 
 </div>
   </details>
 
