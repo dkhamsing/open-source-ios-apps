@@ -1201,7 +1201,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 - tpg offline: Navigate the Geneva public transport [` App Store`](https://itunes.apple.com/app/tpg-offline/id1001560047)  
   <details><summary><code>swift</code> <code>carthage</code> <code>alamofire</code> <code>locationmanager</code> 🇫🇷 </summary>
 
-  https://github.com/RemyDCF/tpg-offline<br>  Added October 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/tpgoffline/tpg-offline-iOS<br>  Added October 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='tpg offline image 1' src='http://is5.mzstatic.com/image/thumb/Purple118/v4/89/93/38/8993388e-d712-f774-f418-a3662a60aef1/source/392x696bb.jpg'> 
 </div>
   </details>
