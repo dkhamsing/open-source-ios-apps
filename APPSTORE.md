@@ -1562,7 +1562,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - AlohaGIF: Create GIFs easily with speech detection. Just record a short video or pick one from your Photos. [` App Store`](https://itunes.apple.com/app/aloha-gifs-with-dynamic-subtitles/id1231254189)  
   <details><summary><code>swift</code> <code>avfoundation</code> <code>sfspeechrecognizer</code> </summary>
 
-  https://github.com/michaello/Aloha<br>  http://www.alohagif.com/<br>  Added October 28, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/michaello/Aloha<br>  Added October 28, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='AlohaGIF image 1' src='http://is1.mzstatic.com/image/thumb/Purple82/v4/44/60/72/446072a3-cc4f-3fc8-ece5-14568643dc15/source/392x696bb.jpg'> <img height='300' alt='AlohaGIF image 2' src='http://is4.mzstatic.com/image/thumb/Purple91/v4/90/58/e3/9058e3be-4676-5668-8301-2488df8322d3/source/392x696bb.jpg'> 
 </div>
   </details>
