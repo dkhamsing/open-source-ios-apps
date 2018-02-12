@@ -15188,7 +15188,6 @@
       ],
       "description": "Create GIFs easily with speech detection. Just record a short video or pick one from your Photos.",
       "source": "https://github.com/michaello/Aloha",
-      "homepage": "http://www.alohagif.com/",
       "itunes": "https://itunes.apple.com/app/aloha-gifs-with-dynamic-subtitles/id1231254189",
       "license": "mit",
       "stars": 38,
