@@ -809,7 +809,7 @@ Click ► to show more details
 </div>
   </details>
 
-- M: Email with device-to-device encryption for messages sent between M users [` App Store`](https://itunes.apple.com/app/m-safe-email-made-simple/id818498595)  
+- M: Email with device-to-device encryption for messages sent between M users  
   <details><summary><code>objc</code> </summary>
 
   https://github.com/Mynigma/M<br>  Added January 26, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
@@ -4538,7 +4538,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 </div>
   </details>
 
-- Minds: An encrypted social network [` App Store`](https://itunes.apple.com/app/id961771928)  
+- Minds: An encrypted social network  
   <details><summary><code>angular</code> <code>cordova</code> 🔥</summary>
 
   https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
@@ -5393,7 +5393,7 @@ https://firebase.google.com/ — [back to top](#readme)
  
 http://ionicframework.com/ — [back to top](#readme) 
  
-- Minds: An encrypted social network [` App Store`](https://itunes.apple.com/app/id961771928)  
+- Minds: An encrypted social network  
   <details><summary><code>angular</code> <code>cordova</code> 🔥</summary>
 
   https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
