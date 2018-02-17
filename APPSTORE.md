@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **222** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **220** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -338,14 +338,6 @@ Click ► to show more details
 
   https://www.linphone.org/technical-corner/linphone/downloads<br>  https://www.linphone.org/<br>  Added May 31, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='Linphone image 1' src='http://a3.mzstatic.com/us/r30/Purple49/v4/77/1d/68/771d68c6-cd00-ee32-ffe7-33a6bdcd26d6/screen696x696.jpeg'> <img height='300' alt='Linphone image 2' src='http://a4.mzstatic.com/us/r30/Purple49/v4/0c/0c/ad/0c0cad7f-7fec-a217-7d31-af50dfecdb8b/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- M: Email with device-to-device encryption for messages sent between M users [` App Store`](https://itunes.apple.com/app/m-safe-email-made-simple/id818498595)  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/Mynigma/M<br>  Added January 26, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='M image 1' src='http://a1.mzstatic.com/us/r30/Purple41/v4/39/79/63/39796337-2166-4778-9a89-1a1059b0c05a/screen800x500.jpeg'> 
 </div>
   </details>
 
@@ -2038,14 +2030,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 </div>
   </details>
 
-- Minds: An encrypted social network [` App Store`](https://itunes.apple.com/app/id961771928)  
-  <details><summary><code>angular</code> <code>cordova</code> 🔥</summary>
-
-  https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
-  <div><img height='300' alt='Minds image 1' src='http://a2.mzstatic.com/us/r30/Purple69/v4/88/d6/7e/88d67efd-b235-e4ac-fe33-0f9c6a48717d/screen696x696.jpeg'> <img height='300' alt='Minds image 2' src='http://a4.mzstatic.com/us/r30/Purple7/v4/cd/91/fb/cd91fbc1-927a-68dc-0d06-6abd52627ff0/screen696x696.jpeg'> <img height='300' alt='Minds image 3' src='http://a3.mzstatic.com/us/r30/Purple2/v4/55/27/2c/55272c66-e389-5b0c-ceab-9165d3b4a9ec/screen696x696.jpeg'> <img height='300' alt='Minds image 4' src='http://a1.mzstatic.com/us/r30/Purple49/v4/ce/78/dc/ce78dc5a-2c47-0c12-309c-a821bbb8e4f3/screen696x696.jpeg'> 
-</div>
-  </details>
-
 
 ### Mastodon 
  
@@ -2367,14 +2351,6 @@ https://firebase.google.com/ — [back to top](#readme)
  
 http://ionicframework.com/ — [back to top](#readme) 
  
-- Minds: An encrypted social network [` App Store`](https://itunes.apple.com/app/id961771928)  
-  <details><summary><code>angular</code> <code>cordova</code> 🔥</summary>
-
-  https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
-  <div><img height='300' alt='Minds image 1' src='http://a2.mzstatic.com/us/r30/Purple69/v4/88/d6/7e/88d67efd-b235-e4ac-fe33-0f9c6a48717d/screen696x696.jpeg'> <img height='300' alt='Minds image 2' src='http://a4.mzstatic.com/us/r30/Purple7/v4/cd/91/fb/cd91fbc1-927a-68dc-0d06-6abd52627ff0/screen696x696.jpeg'> <img height='300' alt='Minds image 3' src='http://a3.mzstatic.com/us/r30/Purple2/v4/55/27/2c/55272c66-e389-5b0c-ceab-9165d3b4a9ec/screen696x696.jpeg'> <img height='300' alt='Minds image 4' src='http://a1.mzstatic.com/us/r30/Purple49/v4/ce/78/dc/ce78dc5a-2c47-0c12-309c-a821bbb8e4f3/screen696x696.jpeg'> 
-</div>
-  </details>
-
 
 ### Parse 
  
