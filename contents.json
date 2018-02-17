@@ -206,6 +206,10 @@
       "id": "sample"
     },
     {
+      "title": "Shopping",
+      "id": "shopping"
+    },
+    {
       "title": "Scan",
       "id": "scan"
     },
@@ -5098,7 +5102,7 @@
     {
       "title": "OpenShop.io",
       "category-ids": [
-        "sample"
+        "shopping"
       ],
       "tags": [
         "objc"
@@ -11133,7 +11137,7 @@
     {
       "title": "Good Living Guide: home snacks, gifts, beauty, shopping..",
       "category-ids": [
-        "content"
+        "shopping"
       ],
       "source": "https://github.com/hrscy/DanTang",
       "license": "mit",
