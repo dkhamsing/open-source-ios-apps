@@ -206,10 +206,6 @@
       "id": "sample"
     },
     {
-      "title": "Shopping",
-      "id": "shopping"
-    },
-    {
       "title": "Scan",
       "id": "scan"
     },
@@ -221,6 +217,10 @@
       "title": "Password",
       "id": "password",
       "parent": "security"
+    },
+    {
+      "title": "Shopping",
+      "id": "shopping"
     },
     {
       "title": "Social",
