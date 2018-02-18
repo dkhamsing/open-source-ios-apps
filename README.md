@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-782-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2012,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-783-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2018,%202018-lightgrey.svg)
 
 Jump to
 
@@ -56,6 +56,7 @@ Jump to
 - [Scan](#scan) 
 - [Security](#security) 
   - [Password](#password) 
+- [Shopping](#shopping) 
 - [Social](#social) 
   - [Mastodon](#mastodon) 
 - [Tasks](#tasks) 
@@ -471,7 +472,7 @@ Click ► to show more details
 - Onion Browser: A Tor-powered web browser that improves your privacy [` App Store`](https://itunes.apple.com/app/id519296448)  
   <details><summary><code>tor</code> 🔥🔥🔥</summary>
 
-  https://github.com/mtigas/OnionBrowser<br>  https://mike.tig.as/onionbrowser/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/mtigas/OnionBrowser<br>  https://onionbrowser.com<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Onion Browser image 1' src='http://a4.mzstatic.com/us/r30/Purple42/v4/7c/3c/cc/7c3ccc4e-77c8-799a-9058-4b8672c71a08/screen696x696.jpeg'> 
 </div>
   </details>
@@ -808,7 +809,7 @@ Click ► to show more details
 </div>
   </details>
 
-- M: Email with device-to-device encryption for messages sent between M users [` App Store`](https://itunes.apple.com/app/m-safe-email-made-simple/id818498595)  
+- M: Email with device-to-device encryption for messages sent between M users  
   <details><summary><code>objc</code> </summary>
 
   https://github.com/Mynigma/M<br>  Added January 26, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
@@ -1325,6 +1326,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- Go Flashcards: Go Flashcards allows users to create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch. All stacks and stack progress sync over CloudKit. Includes Core Spotlight support for searching for Stacks and Cards via Spotlight.  
+  <details><summary><code>swift</code> <code>realm</code> <code>watchos</code> <code>cloudkit</code> <code>spotlight</code> </summary>
+
+  https://github.com/roymckenzie/Go-Flashcards<br>  Added February 18, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  <div><img height='300' alt='Go Flashcards image 1' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-progress.jpg'> <img height='300' alt='Go Flashcards image 2' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-add-images.jpg'> <img height='300' alt='Go Flashcards image 3' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcard-memorized.jpg'> <img height='300' alt='Go Flashcards image 4' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-reorder.jpg'> <img height='300' alt='Go Flashcards image 5' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-study-reminder.jpg'> 
+</div>
+  </details>
+
 - iGrades: Track your class grades [` App Store`](https://itunes.apple.com/app/id816987574)  
   <details><summary><code>objc</code> </summary>
 
@@ -3186,14 +3195,6 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- Good Living Guide: home snacks, gifts, beauty, shopping..  
-  <details><summary><code>swift</code> 🇨🇳 🔥🔥🔥</summary>
-
-  https://github.com/hrscy/DanTang<br>  Added August  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Good Living Guide: home snacks, gifts, beauty, shopping.. image 1' src='http://a4.mzstatic.com/us/r30/Purple1/v4/7a/5f/b7/7a5fb7a2-e038-2b81-63b6-8b76872b86fe/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Homepok: Catalog of Ukrainian vehicle plates [` App Store`](https://itunes.apple.com/app/id1105827929)  
   <details><summary><code>swift</code> 🇷🇺 </summary>
 
@@ -4246,14 +4247,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 </div>
   </details>
 
-- OpenShop.io: Ecommerce shopping app [` App Store`](https://itunes.apple.com/app/id1088689646)  
-  <details><summary><code>objc</code> 🔥🔥</summary>
-
-  https://github.com/openshopio/openshop.io-ios<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='OpenShop.io image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/f1/5e/74/f15e74dd-2999-3c26-5399-746cda25c1df/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 2' src='http://a3.mzstatic.com/us/r30/Purple49/v4/fd/f3/e7/fdf3e7e2-fb8f-4583-d6c2-74acd5c0bf1a/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 3' src='http://a3.mzstatic.com/us/r30/Purple49/v4/40/fd/44/40fd44f8-68c0-9e0f-948a-f17e3f06840a/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 4' src='http://a4.mzstatic.com/us/r30/Purple49/v4/e5/19/74/e51974db-b60c-a715-c77b-8c9efa677821/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 5' src='http://a2.mzstatic.com/us/r30/Purple49/v4/b7/6f/95/b76f95d1-5c40-b766-d399-d02d9963a56b/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Polls: App for Polls API by Apiary  
   <details><summary><code>swift</code> </summary>
 
@@ -4512,6 +4505,27 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 
+## Shopping 
+ 
+[back to top](#readme) 
+ 
+- Good Living Guide: home snacks, gifts, beauty, shopping..  
+  <details><summary><code>swift</code> 🇨🇳 🔥🔥🔥</summary>
+
+  https://github.com/hrscy/DanTang<br>  Added August  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Good Living Guide: home snacks, gifts, beauty, shopping.. image 1' src='http://a4.mzstatic.com/us/r30/Purple1/v4/7a/5f/b7/7a5fb7a2-e038-2b81-63b6-8b76872b86fe/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- OpenShop.io: Ecommerce shopping app [` App Store`](https://itunes.apple.com/app/id1088689646)  
+  <details><summary><code>objc</code> 🔥🔥</summary>
+
+  https://github.com/openshopio/openshop.io-ios<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='OpenShop.io image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/f1/5e/74/f15e74dd-2999-3c26-5399-746cda25c1df/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 2' src='http://a3.mzstatic.com/us/r30/Purple49/v4/fd/f3/e7/fdf3e7e2-fb8f-4583-d6c2-74acd5c0bf1a/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 3' src='http://a3.mzstatic.com/us/r30/Purple49/v4/40/fd/44/40fd44f8-68c0-9e0f-948a-f17e3f06840a/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 4' src='http://a4.mzstatic.com/us/r30/Purple49/v4/e5/19/74/e51974db-b60c-a715-c77b-8c9efa677821/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 5' src='http://a2.mzstatic.com/us/r30/Purple49/v4/b7/6f/95/b76f95d1-5c40-b766-d399-d02d9963a56b/screen696x696.jpeg'> 
+</div>
+  </details>
+
+
 ## Social 
  
 [back to top](#readme) 
@@ -4532,7 +4546,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 </div>
   </details>
 
-- Minds: An encrypted social network [` App Store`](https://itunes.apple.com/app/id961771928)  
+- Minds: An encrypted social network  
   <details><summary><code>angular</code> <code>cordova</code> 🔥</summary>
 
   https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
@@ -5387,7 +5401,7 @@ https://firebase.google.com/ — [back to top](#readme)
  
 http://ionicframework.com/ — [back to top](#readme) 
  
-- Minds: An encrypted social network [` App Store`](https://itunes.apple.com/app/id961771928)  
+- Minds: An encrypted social network  
   <details><summary><code>angular</code> <code>cordova</code> 🔥</summary>
 
   https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)

@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **222** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **220** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -50,6 +50,7 @@ Jump to
 - [Scan](#scan) 
 - [Security](#security) 
   - [Password](#password) 
+- [Shopping](#shopping) 
 - [Social](#social) 
   - [Mastodon](#mastodon) 
 - [Tasks](#tasks) 
@@ -201,7 +202,7 @@ Click ► to show more details
 - Onion Browser: A Tor-powered web browser that improves your privacy [` App Store`](https://itunes.apple.com/app/id519296448)  
   <details><summary><code>tor</code> 🔥🔥🔥</summary>
 
-  https://github.com/mtigas/OnionBrowser<br>  https://mike.tig.as/onionbrowser/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/mtigas/OnionBrowser<br>  https://onionbrowser.com<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Onion Browser image 1' src='http://a4.mzstatic.com/us/r30/Purple42/v4/7c/3c/cc/7c3ccc4e-77c8-799a-9058-4b8672c71a08/screen696x696.jpeg'> 
 </div>
   </details>
@@ -337,14 +338,6 @@ Click ► to show more details
 
   https://www.linphone.org/technical-corner/linphone/downloads<br>  https://www.linphone.org/<br>  Added May 31, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='Linphone image 1' src='http://a3.mzstatic.com/us/r30/Purple49/v4/77/1d/68/771d68c6-cd00-ee32-ffe7-33a6bdcd26d6/screen696x696.jpeg'> <img height='300' alt='Linphone image 2' src='http://a4.mzstatic.com/us/r30/Purple49/v4/0c/0c/ad/0c0cad7f-7fec-a217-7d31-af50dfecdb8b/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- M: Email with device-to-device encryption for messages sent between M users [` App Store`](https://itunes.apple.com/app/m-safe-email-made-simple/id818498595)  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/Mynigma/M<br>  Added January 26, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='M image 1' src='http://a1.mzstatic.com/us/r30/Purple41/v4/39/79/63/39796337-2166-4778-9a89-1a1059b0c05a/screen800x500.jpeg'> 
 </div>
   </details>
 
@@ -1894,14 +1887,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 </div>
   </details>
 
-- OpenShop.io: Ecommerce shopping app [` App Store`](https://itunes.apple.com/app/id1088689646)  
-  <details><summary><code>objc</code> 🔥🔥</summary>
-
-  https://github.com/openshopio/openshop.io-ios<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='OpenShop.io image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/f1/5e/74/f15e74dd-2999-3c26-5399-746cda25c1df/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 2' src='http://a3.mzstatic.com/us/r30/Purple49/v4/fd/f3/e7/fdf3e7e2-fb8f-4583-d6c2-74acd5c0bf1a/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 3' src='http://a3.mzstatic.com/us/r30/Purple49/v4/40/fd/44/40fd44f8-68c0-9e0f-948a-f17e3f06840a/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 4' src='http://a4.mzstatic.com/us/r30/Purple49/v4/e5/19/74/e51974db-b60c-a715-c77b-8c9efa677821/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 5' src='http://a2.mzstatic.com/us/r30/Purple49/v4/b7/6f/95/b76f95d1-5c40-b766-d399-d02d9963a56b/screen696x696.jpeg'> 
-</div>
-  </details>
-
 
 ## Scan 
  
@@ -2020,6 +2005,19 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 
+## Shopping 
+ 
+[back to top](#readme) 
+ 
+- OpenShop.io: Ecommerce shopping app [` App Store`](https://itunes.apple.com/app/id1088689646)  
+  <details><summary><code>objc</code> 🔥🔥</summary>
+
+  https://github.com/openshopio/openshop.io-ios<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='OpenShop.io image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/f1/5e/74/f15e74dd-2999-3c26-5399-746cda25c1df/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 2' src='http://a3.mzstatic.com/us/r30/Purple49/v4/fd/f3/e7/fdf3e7e2-fb8f-4583-d6c2-74acd5c0bf1a/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 3' src='http://a3.mzstatic.com/us/r30/Purple49/v4/40/fd/44/40fd44f8-68c0-9e0f-948a-f17e3f06840a/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 4' src='http://a4.mzstatic.com/us/r30/Purple49/v4/e5/19/74/e51974db-b60c-a715-c77b-8c9efa677821/screen696x696.jpeg'> <img height='300' alt='OpenShop.io image 5' src='http://a2.mzstatic.com/us/r30/Purple49/v4/b7/6f/95/b76f95d1-5c40-b766-d399-d02d9963a56b/screen696x696.jpeg'> 
+</div>
+  </details>
+
+
 ## Social 
  
 [back to top](#readme) 
@@ -2029,14 +2027,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/ello/ello-ios<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Ello image 1' src='http://a5.mzstatic.com/us/r30/Purple62/v4/d3/f7/04/d3f7045e-84bc-b237-09f0-6f28c1c6774a/screen696x696.jpeg'> <img height='300' alt='Ello image 2' src='http://a2.mzstatic.com/us/r30/Purple71/v4/c7/3e/c9/c73ec9fb-0284-2bd7-15dd-7378555af681/screen696x696.jpeg'> <img height='300' alt='Ello image 3' src='http://a3.mzstatic.com/us/r30/Purple71/v4/a8/8d/fb/a88dfbcb-6b8e-bb3d-5e0d-f581b686c708/screen696x696.jpeg'> <img height='300' alt='Ello image 4' src='http://a4.mzstatic.com/us/r30/Purple71/v4/78/33/45/783345e2-4cfd-b57a-00fc-55b87d91eb51/screen696x696.jpeg'> <img height='300' alt='Ello image 5' src='http://a1.mzstatic.com/us/r30/Purple62/v4/83/95/e3/8395e3e4-23f9-b0cd-0ef7-8734f58506ba/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Minds: An encrypted social network [` App Store`](https://itunes.apple.com/app/id961771928)  
-  <details><summary><code>angular</code> <code>cordova</code> 🔥</summary>
-
-  https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
-  <div><img height='300' alt='Minds image 1' src='http://a2.mzstatic.com/us/r30/Purple69/v4/88/d6/7e/88d67efd-b235-e4ac-fe33-0f9c6a48717d/screen696x696.jpeg'> <img height='300' alt='Minds image 2' src='http://a4.mzstatic.com/us/r30/Purple7/v4/cd/91/fb/cd91fbc1-927a-68dc-0d06-6abd52627ff0/screen696x696.jpeg'> <img height='300' alt='Minds image 3' src='http://a3.mzstatic.com/us/r30/Purple2/v4/55/27/2c/55272c66-e389-5b0c-ceab-9165d3b4a9ec/screen696x696.jpeg'> <img height='300' alt='Minds image 4' src='http://a1.mzstatic.com/us/r30/Purple49/v4/ce/78/dc/ce78dc5a-2c47-0c12-309c-a821bbb8e4f3/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -2361,14 +2351,6 @@ https://firebase.google.com/ — [back to top](#readme)
  
 http://ionicframework.com/ — [back to top](#readme) 
  
-- Minds: An encrypted social network [` App Store`](https://itunes.apple.com/app/id961771928)  
-  <details><summary><code>angular</code> <code>cordova</code> 🔥</summary>
-
-  https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
-  <div><img height='300' alt='Minds image 1' src='http://a2.mzstatic.com/us/r30/Purple69/v4/88/d6/7e/88d67efd-b235-e4ac-fe33-0f9c6a48717d/screen696x696.jpeg'> <img height='300' alt='Minds image 2' src='http://a4.mzstatic.com/us/r30/Purple7/v4/cd/91/fb/cd91fbc1-927a-68dc-0d06-6abd52627ff0/screen696x696.jpeg'> <img height='300' alt='Minds image 3' src='http://a3.mzstatic.com/us/r30/Purple2/v4/55/27/2c/55272c66-e389-5b0c-ceab-9165d3b4a9ec/screen696x696.jpeg'> <img height='300' alt='Minds image 4' src='http://a1.mzstatic.com/us/r30/Purple49/v4/ce/78/dc/ce78dc5a-2c47-0c12-309c-a821bbb8e4f3/screen696x696.jpeg'> 
-</div>
-  </details>
-
 
 ### Parse 
  
