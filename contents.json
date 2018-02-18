@@ -15677,14 +15677,46 @@
       "suggested_by": "@vpeschenkov"
     },
     {
+<<<<<<< HEAD
+=======
+      "title": "The Wave - A Jeep Marketplace",
+      "category-ids": [
+        "shopping"
+      ],
+      "description": "A place for Jeep owners to buy and sell Jeep parts.",
+      "source": "https://github.com/xYello/ThePost",
+      "itunes": "https://itunes.apple.com/us/app/the-wave-a-jeep-marketplace/id1260803629",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "jeep",
+        "jeep-parts",
+        "wave",
+        "marketplace"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-PLP.jpg",
+        "https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Post.jpg",
+        "https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Profile.jpg",
+        "https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Reviews.jpg",
+        "https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Social.jpg"
+      ],
+      "date_added": "Feb 18 2018",
+      "suggested_by": "@SirArkimedes"
+    },
+    {
+>>>>>>> master
       "title": "Go Flashcards",
       "category-ids": [
         "education"
       ],
       "description": "Go Flashcards allows users to create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch. All stacks and stack progress sync over CloudKit. Includes Core Spotlight support for searching for Stacks and Cards via Spotlight.",
       "source": "https://github.com/roymckenzie/Go-Flashcards",
+<<<<<<< HEAD
       "itunes": "https://itunes.apple.com/app/go-flashcards/id991657053",
       "homepage": "https://roymckenzie.me/go-flashcards",
+=======
+>>>>>>> master
       "license": "gpl-2.0",
       "stars": 0,
       "tags": [
