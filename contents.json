@@ -15709,6 +15709,8 @@
       ],
       "description": "Go Flashcards allows users to create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch. All stacks and stack progress sync over CloudKit. Includes Core Spotlight support for searching for Stacks and Cards via Spotlight.",
       "source": "https://github.com/roymckenzie/Go-Flashcards",
+      "itunes": "https://itunes.apple.com/app/go-flashcards/id991657053",
+      "homepage": "https://roymckenzie.me/go-flashcards",
       "license": "gpl-2.0",
       "stars": 0,
       "tags": [
