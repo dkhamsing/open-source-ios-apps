@@ -1326,10 +1326,10 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- Go Flashcards: Go Flashcards allows users to create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch. All stacks and stack progress sync over CloudKit. Includes Core Spotlight support for searching for Stacks and Cards via Spotlight.  
+- Go Flashcards: Go Flashcards allows users to create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch. All stacks and stack progress sync over CloudKit. Includes Core Spotlight support for searching for Stacks and Cards via Spotlight. [` App Store`](https://itunes.apple.com/app/go-flashcards/id991657053)  
   <details><summary><code>swift</code> <code>realm</code> <code>watchos</code> <code>cloudkit</code> <code>spotlight</code> </summary>
 
-  https://github.com/roymckenzie/Go-Flashcards<br>  Added February 18, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  https://github.com/roymckenzie/Go-Flashcards<br>  https://roymckenzie.me/go-flashcards/<br>  Added February 18, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='Go Flashcards image 1' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-progress.jpg'> <img height='300' alt='Go Flashcards image 2' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-add-images.jpg'> <img height='300' alt='Go Flashcards image 3' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcard-memorized.jpg'> <img height='300' alt='Go Flashcards image 4' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-reorder.jpg'> <img height='300' alt='Go Flashcards image 5' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-study-reminder.jpg'> 
 </div>
   </details>
@@ -4525,7 +4525,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 </div>
   </details>
 
-- The Wave - A Jeep Marketplace: A place for Jeep owners to buy and sell Jeep parts. [` App Store`](https://itunes.apple.com/us/app/the-wave-a-jeep-marketplace/id1260803629)  
+- The Wave - A Jeep Marketplace: A place for Jeep owners to buy and sell Jeep parts. [` App Store`](https://itunes.apple.com/app/the-wave-a-jeep-marketplace/id1260803629)  
   <details><summary><code>swift</code> <code>jeep</code> <code>jeep-parts</code> <code>wave</code> <code>marketplace</code> </summary>
 
   https://github.com/xYello/ThePost<br>  Added February 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
