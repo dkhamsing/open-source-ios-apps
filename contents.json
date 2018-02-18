@@ -15677,6 +15677,32 @@
       "suggested_by": "@vpeschenkov"
     },
     {
+      "title": "The Wave - A Jeep Marketplace",
+      "category-ids": [
+        "shopping"
+      ],
+      "description": "A place for Jeep owners to buy and sell Jeep parts.",
+      "source": "https://github.com/xYello/ThePost",
+      "itunes": "https://itunes.apple.com/us/app/the-wave-a-jeep-marketplace/id1260803629",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "jeep",
+        "jeep-parts",
+        "wave",
+        "marketplace"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-PLP.jpg",
+        "https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Post.jpg",
+        "https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Profile.jpg",
+        "https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Reviews.jpg",
+        "https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Social.jpg"
+      ],
+      "date_added": "Feb 18 2018",
+      "suggested_by": "@SirArkimedes"
+    },
+    {
       "title": "Go Flashcards",
       "category-ids": [
         "education"
