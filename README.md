@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-782-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2017,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-783-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2018,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1326,6 +1326,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- Go Flashcards: Go Flashcards allows users to create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch. All stacks and stack progress sync over CloudKit. Includes Core Spotlight support for searching for Stacks and Cards via Spotlight.  
+  <details><summary><code>swift</code> <code>realm</code> <code>watchos</code> <code>cloudkit</code> <code>spotlight</code> </summary>
+
+  https://github.com/roymckenzie/Go-Flashcards<br>  Added February 18, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  <div><img height='300' alt='Go Flashcards image 1' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-progress.jpg'> <img height='300' alt='Go Flashcards image 2' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-add-images.jpg'> <img height='300' alt='Go Flashcards image 3' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcard-memorized.jpg'> <img height='300' alt='Go Flashcards image 4' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-reorder.jpg'> <img height='300' alt='Go Flashcards image 5' src='https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-study-reminder.jpg'> 
+</div>
+  </details>
+
 - iGrades: Track your class grades [` App Store`](https://itunes.apple.com/app/id816987574)  
   <details><summary><code>objc</code> </summary>
 
