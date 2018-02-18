@@ -15675,6 +15675,32 @@
       ],
       "date_added": "Feb 12 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Go Flashcards",
+      "category-ids": [
+        "education"
+      ],
+      "description": "Go Flashcards allows users to create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch. All stacks and stack progress sync over CloudKit. Includes Core Spotlight support for searching for Stacks and Cards via Spotlight.",
+      "source": "https://github.com/roymckenzie/Go-Flashcards",
+      "license": "gpl-2.0",
+      "stars": 0,
+      "tags": [
+        "swift",
+        "realm",
+        "watchos",
+        "cloudkit",
+        "spotlight"
+      ],
+      "screenshots": [
+        "https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-progress.jpg",
+        "https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-add-images.jpg",
+        "https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcard-memorized.jpg",
+        "https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-reorder.jpg",
+        "https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-study-reminder.jpg"
+      ],
+      "date_added": "Feb 18 2018",
+      "suggested_by": "@roymckenzie"
     }
   ]
 }
