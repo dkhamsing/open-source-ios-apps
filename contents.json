@@ -15686,7 +15686,10 @@
       "license": "gpl-2.0",
       "stars": 0,
       "tags": [
-        "swift"
+        "swift",
+        "realm",
+        "watchos",
+        "cloudkit"
       ],
       "screenshots": [
         "https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-progress.jpg",
