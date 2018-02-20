@@ -130,6 +130,11 @@
       "description": "Image, video, audio, reading"
     },
     {
+      "title": "Synchronization",
+      "id": "synchronization",
+      "description": "File synchronization"
+    },
+    {
       "title": "Animoji",
       "id": "animoji",
       "parent": "media"
@@ -15729,6 +15734,24 @@
       ],
       "date_added": "Feb 18 2018",
       "suggested_by": "@roymckenzie"
+    },
+    {
+      "title": "Cozy Drive",
+      "category-ids": [
+        "synchronization"
+      ],
+      "description": "Store, manage, share all your files, photos and documents, and even get your bills safe with Cozy Drive, and enjoy free 5GB storage.",
+      "source": "https://github.com/cozy/cozy-drive",
+      "itunes": "https://itunes.apple.com/us/app/cozy-drive/id1224102389?mt=8",
+      "homepage": "https://cozy.io/en/",
+      "license": "agpl",
+      "stars": 3,
+      "screenshots": [
+        "https://framapic.org/Y7E29n2S5q2C/rtC5JJgN8QuX.jpg",
+        "https://framapic.org/o1m3BsuiAoRg/wWC6eAl3isa5.jpg"
+      ],
+      "date_added": "Feb 20 2018",
+      "suggested_by": "@roipoussiere"
     }
   ]
 }
