@@ -110,8 +110,8 @@
       "id": "files"
     },
     {
-      "title": "Fitness",
       "id": "fitness",
+      "title": "Fitness",
       "parent": "health"
     },
     {
@@ -15739,11 +15739,12 @@
       "category-ids": [
         "files"
       ],
-      "description": "Store, manage, share all your files, photos and documents, and even get your bills safe with Cozy Drive, and enjoy free 5GB storage.",
+      "tags": ["javascript"],
+      "description": "Store, manage, share all your files, photos and documents securely in the cloud (5GB free storage)",
       "source": "https://github.com/cozy/cozy-drive",
-      "itunes": "https://itunes.apple.com/us/app/cozy-drive/id1224102389?mt=8",
+      "itunes": "https://itunes.apple.com/app/cozy-drive/id1224102389",
       "homepage": "https://cozy.io/en/",
-      "license": "agpl",
+      "license": "agpl-3.0",
       "stars": 3,
       "screenshots": [
         "https://framapic.org/Y7E29n2S5q2C/rtC5JJgN8QuX.jpg",
