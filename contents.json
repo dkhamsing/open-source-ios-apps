@@ -15739,7 +15739,7 @@
       "category-ids": [
         "files"
       ],
-      "tags": ["javascript"],
+      "tags": ["javascript", "cordova"],
       "description": "Store, manage, share all your files, photos and documents securely in the cloud (5GB free storage)",
       "source": "https://github.com/cozy/cozy-drive",
       "itunes": "https://itunes.apple.com/app/cozy-drive/id1224102389",
