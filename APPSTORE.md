@@ -21,13 +21,13 @@ Jump to
 - [Extension](#extension) 
   - [Content Blocking](#content-blocking) 
   - [Today](#today) 
+- [Files](#files) 
 - [Finance](#finance) 
   - [Bitcoin](#bitcoin) 
 - [Game](#game) 
   - [Cocos2d](#cocos2d) 
   - [SpriteKit](#spritekit) 
 - [Health](#health) 
-- [Files](#files) 
   - [Fitness](#fitness) 
   - [ResearchKit](#researchkit) 
 - [Keyboard](#keyboard) 
@@ -751,6 +751,35 @@ Click ► to show more details
   </details>
 
 
+## Files 
+ 
+[back to top](#readme) 
+ 
+- Cozy Drive: Store, manage, share all your files, photos and documents securely in the cloud (5GB free storage) [` App Store`](https://itunes.apple.com/app/cozy-drive/id1224102389)  
+  <details><summary><code>javascript</code> <code>cordova</code> </summary>
+
+  https://github.com/cozy/cozy-drive<br>  https://cozy.io/en/<br>  Added February 20, 2018<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
+  <div><img height='300' alt='Cozy Drive image 1' src='https://framapic.org/Y7E29n2S5q2C/rtC5JJgN8QuX.jpg'> <img height='300' alt='Cozy Drive image 2' src='https://framapic.org/o1m3BsuiAoRg/wWC6eAl3isa5.jpg'> 
+</div>
+  </details>
+
+- ownCloud: File browser & sync for ownCloud file hosting service [` App Store`](https://itunes.apple.com/app/owncloud/id543672169)  
+  <details><summary><code>objc</code> 🔥🔥🔥</summary>
+
+  https://github.com/owncloud/ios<br>  Added May 18, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='ownCloud image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/fd/37/a1/fd37a1e0-d1dd-4830-6eb3-0e6825d4ba75/screen696x696.jpeg'> <img height='300' alt='ownCloud image 2' src='http://a2.mzstatic.com/us/r30/Purple22/v4/04/ca/6e/04ca6e9b-24b9-7a91-a72b-020153721110/screen696x696.jpeg'> <img height='300' alt='ownCloud image 3' src='http://a3.mzstatic.com/us/r30/Purple71/v4/71/66/6d/71666db7-0256-3742-4ba7-543ab499c24b/screen696x696.jpeg'> <img height='300' alt='ownCloud image 4' src='http://a2.mzstatic.com/us/r30/Purple71/v4/ce/0a/6f/ce0a6ffa-1da8-d2ad-dab0-9e2e04752fcc/screen696x696.jpeg'> <img height='300' alt='ownCloud image 5' src='http://a1.mzstatic.com/us/r30/Purple71/v4/ad/d5/7f/add57f6a-f4c6-55e0-4b99-6548e32ae37f/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Seafile Pro: App for Seafile self-hosted file sharing [` App Store`](https://itunes.apple.com/app/id639202512)  
+  <details><summary><code>objc</code> 🔥</summary>
+
+  https://github.com/haiwen/seafile-iOS<br>  https://www.seafile.com/en/home/<br>  Added June  1, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='Seafile Pro image 1' src='http://a5.mzstatic.com/us/r30/Purple69/v4/ed/0e/97/ed0e97b6-a234-0cf4-be3f-26cad9e8af54/screen696x696.jpeg'> <img height='300' alt='Seafile Pro image 2' src='http://a3.mzstatic.com/us/r30/Purple49/v4/a8/f7/90/a8f79012-1000-bd3b-a35c-bdd1a6c67006/screen696x696.jpeg'> <img height='300' alt='Seafile Pro image 3' src='http://a4.mzstatic.com/us/r30/Purple49/v4/c5/ad/b2/c5adb208-d27d-35ff-ef4d-91a031155986/screen696x696.jpeg'> <img height='300' alt='Seafile Pro image 4' src='http://a4.mzstatic.com/us/r30/Purple49/v4/50/03/6a/50036a6e-861b-dd04-56e8-1590d539c5fe/screen696x696.jpeg'> <img height='300' alt='Seafile Pro image 5' src='http://a5.mzstatic.com/us/r30/Purple49/v4/a1/a5/c5/a1a5c524-5a8c-6a68-5bca-30bdb3989b3d/screen696x696.jpeg'> 
+</div>
+  </details>
+
+
 ## Finance 
  
 [back to top](#readme) 
@@ -1009,35 +1038,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
   https://github.com/diogot/MyWeight<br>  Added June 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='MyWeight History image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/2d/28/8c/2d288c05-33f0-1f18-b06a-4e3a24e1d608/screen696x696.jpeg'> 
-</div>
-  </details>
-
-
-## Files 
- 
-[back to top](#readme) 
- 
-- Cozy Drive: Store, manage, share all your files, photos and documents securely in the cloud (5GB free storage) [` App Store`](https://itunes.apple.com/app/cozy-drive/id1224102389)  
-  <details><summary><code>javascript</code> </summary>
-
-  https://github.com/cozy/cozy-drive<br>  https://cozy.io/en/<br>  Added February 20, 2018<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
-  <div><img height='300' alt='Cozy Drive image 1' src='https://framapic.org/Y7E29n2S5q2C/rtC5JJgN8QuX.jpg'> <img height='300' alt='Cozy Drive image 2' src='https://framapic.org/o1m3BsuiAoRg/wWC6eAl3isa5.jpg'> 
-</div>
-  </details>
-
-- ownCloud: File browser & sync for ownCloud file hosting service [` App Store`](https://itunes.apple.com/app/owncloud/id543672169)  
-  <details><summary><code>objc</code> 🔥🔥🔥</summary>
-
-  https://github.com/owncloud/ios<br>  Added May 18, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='ownCloud image 1' src='http://a3.mzstatic.com/us/r30/Purple62/v4/fd/37/a1/fd37a1e0-d1dd-4830-6eb3-0e6825d4ba75/screen696x696.jpeg'> <img height='300' alt='ownCloud image 2' src='http://a2.mzstatic.com/us/r30/Purple22/v4/04/ca/6e/04ca6e9b-24b9-7a91-a72b-020153721110/screen696x696.jpeg'> <img height='300' alt='ownCloud image 3' src='http://a3.mzstatic.com/us/r30/Purple71/v4/71/66/6d/71666db7-0256-3742-4ba7-543ab499c24b/screen696x696.jpeg'> <img height='300' alt='ownCloud image 4' src='http://a2.mzstatic.com/us/r30/Purple71/v4/ce/0a/6f/ce0a6ffa-1da8-d2ad-dab0-9e2e04752fcc/screen696x696.jpeg'> <img height='300' alt='ownCloud image 5' src='http://a1.mzstatic.com/us/r30/Purple71/v4/ad/d5/7f/add57f6a-f4c6-55e0-4b99-6548e32ae37f/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Seafile Pro: App for Seafile self-hosted file sharing [` App Store`](https://itunes.apple.com/app/id639202512)  
-  <details><summary><code>objc</code> 🔥</summary>
-
-  https://github.com/haiwen/seafile-iOS<br>  https://www.seafile.com/en/home/<br>  Added June  1, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='Seafile Pro image 1' src='http://a5.mzstatic.com/us/r30/Purple69/v4/ed/0e/97/ed0e97b6-a234-0cf4-be3f-26cad9e8af54/screen696x696.jpeg'> <img height='300' alt='Seafile Pro image 2' src='http://a3.mzstatic.com/us/r30/Purple49/v4/a8/f7/90/a8f79012-1000-bd3b-a35c-bdd1a6c67006/screen696x696.jpeg'> <img height='300' alt='Seafile Pro image 3' src='http://a4.mzstatic.com/us/r30/Purple49/v4/c5/ad/b2/c5adb208-d27d-35ff-ef4d-91a031155986/screen696x696.jpeg'> <img height='300' alt='Seafile Pro image 4' src='http://a4.mzstatic.com/us/r30/Purple49/v4/50/03/6a/50036a6e-861b-dd04-56e8-1590d539c5fe/screen696x696.jpeg'> <img height='300' alt='Seafile Pro image 5' src='http://a5.mzstatic.com/us/r30/Purple49/v4/a1/a5/c5/a1a5c524-5a8c-6a68-5bca-30bdb3989b3d/screen696x696.jpeg'> 
 </div>
   </details>
 
