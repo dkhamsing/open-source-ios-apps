@@ -463,6 +463,16 @@
       "stars": 4
     },
     {
+       "title": "Nano",
+       "category-ids": ["apple-watch", "reddit"],
+       "description": "A wrist-based Reddit client for the Apple Watch",
+       "source": "https://github.com/WillBishop/Nano",
+       "screenshots": ["https://i.imgur.com/1uQFYwh.png", "https://i.imgur.com/beQhpmF.png", "https://i.imgur.com/HqUk3sg.png"],
+       "date_added": "Feb 22 2018",
+       "suggested_by": "@WillBishop",
+       "tags": ["swift", "reddit"]
+    },
+    {
       "title": "Bither",
       "category-ids": [
         "apple-watch",
