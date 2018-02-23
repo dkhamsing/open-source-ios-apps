@@ -484,10 +484,10 @@ Click ► to show more details
   </details>
 
 - Pisth: SSH and SFTP client [` App Store`](https://itunes.apple.com/app/pisth/id1331070425)  
-  <details><summary><code>objc</code> </summary>
+  <details><summary><code>swift</code> <code>javascript</code> <code>html</code> </summary>
 
   https://github.com/ColdGrub1384/Pisth<br>  https://pisth.github.io<br>  Added January 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='Pisth image 1' src='https://pisth.github.io/screenshots/1.PNG'> <img height='300' alt='Pisth image 2' src='https://pisth.github.io/screenshots/2.PNG'> <img height='300' alt='Pisth image 3' src='https://pisth.github.io/screenshots/3.jpeg'> <img height='300' alt='Pisth image 4' src='https://pisth.github.io/screenshots/4.PNG'> <img height='300' alt='Pisth image 5' src='https://pisth.github.io/screenshots/5.PNG'> 
+  <div><img height='300' alt='Pisth image 1' src='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/1.png'> <img height='300' alt='Pisth image 2' src='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/2.png'> <img height='300' alt='Pisth image 3' src='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/3.png'> <img height='300' alt='Pisth image 4' src='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/4.png'> 
 </div>
   </details>
 
