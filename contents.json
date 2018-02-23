@@ -9453,16 +9453,17 @@
         "developer"
       ],
       "tags": [
-        "objc"
+        "swift",
+        "javascript",
+        "html"
       ],
       "description": "SSH and SFTP client",
       "source": "https://github.com/ColdGrub1384/Pisth",
       "screenshots": [
-        "https://pisth.github.io/screenshots/1.PNG",
-        "https://pisth.github.io/screenshots/2.PNG",
-        "https://pisth.github.io/screenshots/3.jpeg",
-        "https://pisth.github.io/screenshots/4.PNG",
-        "https://pisth.github.io/screenshots/5.PNG"
+        "https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/1.png",
+        "https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/2.png",
+        "https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/3.png",
+        "https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/4.png"
       ],
       "homepage": "https://pisth.github.io",
       "date_added": "Jan 12 2018",
