@@ -2303,7 +2303,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - Crosses-n-Ous: Class Tic Tac Toe reincarnation with AI and state machines  
   <details><summary><code>swift</code> <code>gameplaykit</code> </summary>
 
-  https://github.com/ChickenHeart/Crosses-n-Ous<br>  Added August 27, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/jVirus/crosses-and-zeros-ios-game<br>  Added August 27, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Crosses-n-Ous image 1' src='https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif'> 
 </div>
   </details>
@@ -4885,14 +4885,6 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- Superday: Superday tracks your activities automatically and helps you to find balance between life and work [` App Store`](https://itunes.apple.com/app/superday-automatic-productivity/id1169609181)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/toggl/superday<br>  Added October 10, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-  <div><img height='300' alt='Superday image 1' src='http://is5.mzstatic.com/image/thumb/Purple118/v4/d6/97/b8/d697b84a-e5e4-9a30-f349-64e46c960310/source/392x696bb.jpg'> <img height='300' alt='Superday image 2' src='http://is3.mzstatic.com/image/thumb/Purple128/v4/77/2c/1a/772c1ad8-a491-8688-5747-b5f8c2dfc3e9/source/392x696bb.jpg'> <img height='300' alt='Superday image 3' src='http://is2.mzstatic.com/image/thumb/Purple118/v4/ed/52/fe/ed52fead-02f5-dbea-ae3b-e1a8c902f0f0/source/392x696bb.jpg'> 
-</div>
-  </details>
-
 - TrackMyTime [` App Store`](https://itunes.apple.com/app/trackmyday/id789386884)  
   <details><summary><code>objc</code> </summary>
 
@@ -4985,8 +4977,6 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> <code>typhoon</code> 🔥🔥</summary>
 
   https://github.com/appsquickly/Typhoon-Swift-Example<br>  Added March 24, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='Pocket Forecast image 1' src='http://typhoonframework.org/images/portfolio/PocketForecast3.gif'> 
-</div>
   </details>
 
 - RainMan  
