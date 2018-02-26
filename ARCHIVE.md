@@ -149,6 +149,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Steps https://github.com/gizmosachin/Steps
 - Sudoku https://github.com/christopherdro/react-native-sudoku
 - SudokuResolv https://github.com/Haoest/SudokuResolv
+- Superday https://github.com/opensourceios/superday
 - Swift Off https://github.com/opensourceios/swift-off-todo
 - Swift-Gif https://github.com/pjchavarria/Swift-Gif
 - Swifteroid https://github.com/eugenpirogoff/swifteroid
