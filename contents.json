@@ -1951,7 +1951,6 @@
       ],
       "description": "List users ranked by GitHub repository star count",
       "source": "https://github.com/nunogoncalves/iOS-OctoPodium",
-      "itunes": "https://itunes.apple.com/app/octopodium/id1077519133",
       "tags": [
         "swift"
       ],
@@ -2882,7 +2881,6 @@
       ],
       "description": "Simple logging app for strength athletes",
       "source": "https://github.com/brettalcox/logU-swift",
-      "itunes": "https://itunes.apple.com/app/logu-a-strength-logger/id1084487510",
       "tags": [
         "swift"
       ],
