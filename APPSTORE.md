@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **223** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **221** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -552,14 +552,6 @@ Click ► to show more details
 </div>
   </details>
 
-- OctoPodium: List users ranked by GitHub repository star count [` App Store`](https://itunes.apple.com/app/octopodium/id1077519133)  
-  <details><summary><code>swift</code> 🔥</summary>
-
-  https://github.com/nunogoncalves/iOS-OctoPodium<br>  Added February 18, 2016<br>  License: `other`
-  <div><img height='300' alt='OctoPodium image 1' src='http://a2.mzstatic.com/us/r30/Purple60/v4/1b/54/e0/1b54e0e9-fc86-b8ea-01dd-f13c63507bad/screen696x696.jpeg'> <img height='300' alt='OctoPodium image 2' src='http://a5.mzstatic.com/us/r30/Purple30/v4/11/43/09/114309a8-6399-011d-ee34-3e2b59d01d6a/screen696x696.jpeg'> <img height='300' alt='OctoPodium image 3' src='http://a3.mzstatic.com/us/r30/Purple30/v4/c2/31/70/c2317036-b9ed-3d18-35b7-beb733f8e074/screen696x696.jpeg'> <img height='300' alt='OctoPodium image 4' src='http://a2.mzstatic.com/us/r30/Purple60/v4/d3/a1/84/d3a18462-d036-304a-72af-d283e51fed39/screen696x696.jpeg'> <img height='300' alt='OctoPodium image 5' src='http://a3.mzstatic.com/us/r30/Purple20/v4/58/03/34/5803343a-be95-66c7-27ea-ebb648ca3436/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - Pocket Trailer: Manage pull requests & issues for GitHub / GitHub Enterprise [` App Store`](https://itunes.apple.com/app/id806104975)  
   <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
@@ -1046,14 +1038,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 [back to top](#readme) 
  
-- LogU: Simple logging app for strength athletes [` App Store`](https://itunes.apple.com/app/logu-a-strength-logger/id1084487510)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/brettalcox/logU-swift<br>  Added April 11, 2016<br>  License: `other`
-  <div><img height='300' alt='LogU image 1' src='http://a3.mzstatic.com/us/r30/Purple69/v4/3b/93/e1/3b93e16c-298e-0f9d-2339-e81e8ec73d8a/screen696x696.jpeg'> <img height='300' alt='LogU image 2' src='http://a4.mzstatic.com/us/r30/Purple69/v4/a5/0a/d9/a50ad971-6053-f4c4-2dc1-23efc843a207/screen696x696.jpeg'> <img height='300' alt='LogU image 3' src='http://a3.mzstatic.com/us/r30/Purple49/v4/2f/21/50/2f21504e-ebc3-5ea9-77c9-b6d940fc7d6d/screen696x696.jpeg'> <img height='300' alt='LogU image 4' src='http://a2.mzstatic.com/us/r30/Purple69/v4/4e/8c/a1/4e8ca167-df01-5d8f-ca5e-f0458099e0dc/screen696x696.jpeg'> <img height='300' alt='LogU image 5' src='http://a5.mzstatic.com/us/r30/Purple69/v4/c9/53/9b/c9539bcd-3064-bdab-0192-6d82a785a458/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - rTracker: A generic, customizable personal data tracker [` App Store`](https://itunes.apple.com/app/rtracker-track-it-all-your-way/id486541371)  
   <details><summary><code>objc</code> </summary>
 
