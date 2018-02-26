@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-785-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2023,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-785-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2026,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1282,7 +1282,7 @@ Click ► to show more details
 </div>
   </details>
 
-- OctoPodium: List users ranked by GitHub repository star count [` App Store`](https://itunes.apple.com/app/octopodium/id1077519133)  
+- OctoPodium: List users ranked by GitHub repository star count  
   <details><summary><code>swift</code> 🔥</summary>
 
   https://github.com/nunogoncalves/iOS-OctoPodium<br>  Added February 18, 2016<br>  License: `other`
@@ -2432,7 +2432,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   https://github.com/kylejm/Jim<br>  Added January  4, 2016<br>  License: `other`
   </details>
 
-- LogU: Simple logging app for strength athletes [` App Store`](https://itunes.apple.com/app/logu-a-strength-logger/id1084487510)  
+- LogU: Simple logging app for strength athletes  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/brettalcox/logU-swift<br>  Added April 11, 2016<br>  License: `other`
