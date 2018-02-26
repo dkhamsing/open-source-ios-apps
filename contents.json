@@ -79,7 +79,7 @@
     {
       "title": "Files",
       "id": "files"
-    },    
+    },
     {
       "title": "Finance",
       "id": "finance"
@@ -5665,9 +5665,6 @@
       "tags": [
         "swift",
         "typhoon"
-      ],
-      "screenshots": [
-        "http://typhoonframework.org/images/portfolio/PocketForecast3.gif"
       ],
       "date_added": "Tue Mar 24 10:16:48 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -13562,12 +13559,13 @@
       "description": "Superday tracks your activities automatically and helps you to find balance between life and work",
       "itunes": "https://itunes.apple.com/app/superday-automatic-productivity/id1169609181",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "category-ids": [
         "timer"
       ],
-      "source": "https://github.com/toggl/superday",
+      "source": "https://github.com/opensourceios/superday",
       "screenshots": [
         "http://is5.mzstatic.com/image/thumb/Purple118/v4/d6/97/b8/d697b84a-e5e4-9a30-f349-64e46c960310/source/392x696bb.jpg",
         "http://is3.mzstatic.com/image/thumb/Purple128/v4/77/2c/1a/772c1ad8-a491-8688-5747-b5f8c2dfc3e9/source/392x696bb.jpg",
@@ -15029,7 +15027,7 @@
         "spritekit"
       ],
       "description": "Class Tic Tac Toe reincarnation with AI and state machines",
-      "source": "https://github.com/ChickenHeart/Crosses-n-Ous",
+      "source": "https://github.com/jVirus/crosses-and-zeros-ios-game",
       "screenshots": [
         "https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif"
       ],
