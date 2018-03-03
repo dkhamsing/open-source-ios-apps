@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-785-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2026,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-785-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%20%203,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1160,7 +1160,7 @@ Click ► to show more details
   </details>
 
 - ReviewMonitor: iTunes Connect app which is actually useful  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> 🔥</summary>
 
   https://github.com/RishabhTayal/ReviewMonitor<br>  Added December 27, 2017
   <div><img height='300' alt='ReviewMonitor image 1' src='https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot1.png?raw=true'> <img height='300' alt='ReviewMonitor image 2' src='https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot2.png?raw=true'> 
@@ -1604,7 +1604,7 @@ Click ► to show more details
   </details>
 
 - Adblock Plus [` App Store`](https://itunes.apple.com/app/adblock-plus-abp/id1028871868)  
-  <details><summary><code>objc</code> </summary>
+  <details><summary><code>objc</code> 🔥</summary>
 
   https://github.com/adblockplus/adblockplussafariios<br>  Added December 14, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Adblock Plus image 1' src='http://a4.mzstatic.com/us/r30/Purple69/v4/dd/f6/8d/ddf68dbd-400f-91c1-75a0-ba0140db96ae/screen696x696.jpeg'> <img height='300' alt='Adblock Plus image 2' src='http://a3.mzstatic.com/us/r30/Purple20/v4/4b/80/3f/4b803f04-4a47-c851-8d80-03db7a35ac20/screen696x696.jpeg'> <img height='300' alt='Adblock Plus image 3' src='http://a2.mzstatic.com/us/r30/Purple3/v4/77/77/85/7777857c-fe75-6919-69cb-52d1af3b8422/screen696x696.jpeg'> <img height='300' alt='Adblock Plus image 4' src='http://a3.mzstatic.com/us/r30/Purple3/v4/d7/4d/fd/d74dfd93-8898-b4a6-8ac4-aa5c2d3436e6/screen696x696.jpeg'> <img height='300' alt='Adblock Plus image 5' src='http://a3.mzstatic.com/us/r30/Purple3/v4/1e/74/81/1e748193-bd49-1837-3bab-3a8f80fa516b/screen696x696.jpeg'> 
@@ -3434,7 +3434,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - xkcd Open Source: An xkcd comic reader [` App Store`](https://itunes.apple.com/app/xkcd-open-source/id995811425)  
-  <details><summary><code>objc</code> 🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/mamaral/xkcd-Open-Source<br>  Added June  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='xkcd Open Source image 1' src='http://a1.mzstatic.com/us/r30/Purple71/v4/d0/27/26/d0272612-eb38-f31b-c9d4-3eac2869af32/screen696x696.jpeg'> <img height='300' alt='xkcd Open Source image 2' src='http://a1.mzstatic.com/us/r30/Purple71/v4/41/19/3b/41193bd3-c509-4ca5-705c-02a76eea1563/screen696x696.jpeg'> <img height='300' alt='xkcd Open Source image 3' src='http://a4.mzstatic.com/us/r30/Purple62/v4/7a/72/23/7a7223c4-3af8-45cc-70ce-2bf736105be2/screen696x696.jpeg'> <img height='300' alt='xkcd Open Source image 4' src='http://a2.mzstatic.com/us/r30/Purple71/v4/22/b9/07/22b907ab-074c-c3c9-533d-3ab6a3788aaa/screen696x696.jpeg'> 
@@ -5660,7 +5660,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   </details>
 
 - Pokemon Go clone  
-  <details><summary><code>react-native</code> 🔥</summary>
+  <details><summary><code>react-native</code> 🔥🔥</summary>
 
   https://github.com/VctrySam/Pokemon<br>  Added August 14, 2016<br>  License: `other`
   <div><img height='300' alt='Pokemon Go clone image 1' src='https://i.imgur.com/PrMRwmY.png'> 
