@@ -167,6 +167,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Tic-tac-toe https://github.com/ijoshsmith/swift-tic-tac-toe
 - TicTacToe https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/TicTacToe
 - Toggl Timer https://github.com/opensourceios/toggle-mobile
+- try! Swift https://github.com/opensourceios/trySwiftApp
 - tweedie https://github.com/aanon4/tweedie
 - tweejump https://github.com/haqu/tweejump
 - Uncle Nagy's House https://github.com/kenmickles/unh_tvos
