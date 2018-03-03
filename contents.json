@@ -1643,13 +1643,14 @@
         "event",
         "apple-watch"
       ],
-      "source": "https://github.com/tryswift/trySwiftApp",
+      "source": "https://github.com/opensourceios/trySwiftApp",
       "screenshots": [
         "http://a2.mzstatic.com/us/r30/Purple49/v4/18/81/9f/18819f2d-1bb8-feeb-bb22-89bbe85d6516/screen696x696.jpeg"
       ],
       "stars": 423,
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "license": "other",
       "date_added": "Tue Feb 16 07:17:24 2016 -0800",
