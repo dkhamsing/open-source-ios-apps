@@ -369,14 +369,6 @@ Click ► to show more details
 </div>
   </details>
 
-- try! Swift  
-  <details><summary><code>swift</code> 🔥🔥</summary>
-
-  https://github.com/tryswift/trySwiftApp<br>  Added February 16, 2016<br>  License: `other`
-  <div><img height='300' alt='try! Swift image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/18/81/9f/18819f2d-1bb8-feeb-bb22-89bbe85d6516/screen696x696.jpeg'> 
-</div>
-  </details>
-
 - try! Swift NYC  
   <details><summary><code>swift</code> <code>toucan</code> <code>realm</code> 🔥</summary>
 
@@ -1534,14 +1526,6 @@ Click ► to show more details
 
   https://github.com/LUGM/TechTatva-15<br>  Added April 19, 2016<br>  License: `other`
   <div><img height='300' alt='TechTavta image 1' src='http://a3.mzstatic.com/us/r30/Purple3/v4/b8/c5/a4/b8c5a466-4466-404a-0c8d-2b82d4b633f3/screen696x696.jpeg'> <img height='300' alt='TechTavta image 2' src='http://a3.mzstatic.com/us/r30/Purple3/v4/79/d7/52/79d7520a-4d52-c801-0c6d-9f2a35644608/screen696x696.jpeg'> <img height='300' alt='TechTavta image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/2b/6b/5d/2b6b5d04-aa10-6532-05ef-d189d5d28626/screen696x696.jpeg'> <img height='300' alt='TechTavta image 4' src='http://a4.mzstatic.com/us/r30/Purple3/v4/43/be/fd/43befdba-e3f2-d0d4-9d0b-8acacf57b8c2/screen696x696.jpeg'> <img height='300' alt='TechTavta image 5' src='http://a4.mzstatic.com/us/r30/Purple62/v4/e4/6b/03/e46b0382-cd97-607e-de99-2800694d927f/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- try! Swift  
-  <details><summary><code>swift</code> 🔥🔥</summary>
-
-  https://github.com/tryswift/trySwiftApp<br>  Added February 16, 2016<br>  License: `other`
-  <div><img height='300' alt='try! Swift image 1' src='http://a2.mzstatic.com/us/r30/Purple49/v4/18/81/9f/18819f2d-1bb8-feeb-bb22-89bbe85d6516/screen696x696.jpeg'> 
 </div>
   </details>
 
