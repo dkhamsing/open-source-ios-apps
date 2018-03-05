@@ -5184,7 +5184,7 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- TKeyboard: Enter content into your device with a Mac keyboard, clipboard/image sync & more [` App Store`](https://itunes.apple.com/app/tkeyboard/id1168383839)  
+- TKeyboard: Enter content into your device with a Mac keyboard, clipboard/image sync & more  
   <details><summary><code>bluetooth</code> 🔥🔥🔥</summary>
 
   https://github.com/music4kid/TKeyboard<br>  Added June  2, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
