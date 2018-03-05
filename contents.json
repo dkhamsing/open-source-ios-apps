@@ -15755,6 +15755,27 @@
       ],
       "date_added": "Feb 20 2018",
       "suggested_by": "@roipoussiere"
+    },
+    {
+      "title": "SUSI AI",
+      "category-ids": [
+        "misc"
+      ],
+      "description": "Your Artificial Intelligence for Personal Assistants, Robots, Help Desks and Chatbots.",
+      "source": "https://github.com/fossasia/susi_iOS",
+      "homepage": "https://chat.susi.ai/overview",
+      "license": "apache-2.0",
+      "stars": 492,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen1.png",
+        "https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen2.png",
+        "https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen5.png"
+      ],
+      "date_added": "Mar 5 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
