@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-785-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%20%203,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-786-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%20%205,%202018-lightgrey.svg)
 
 Jump to
 
@@ -5165,6 +5165,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/iAugux/Phonetic<br>  Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Phonetic image 1' src='https://raw.githubusercontent.com/iAugux/ProjectScreenshots/master/Phonetic/nickname.gif'> 
+</div>
+  </details>
+
+- SUSI AI: Your Artificial Intelligence for Personal Assistants, Robots, Help Desks and Chatbots.  
+  <details><summary><code>swift</code> 🔥🔥</summary>
+
+  https://github.com/fossasia/susi_iOS<br>  https://chat.susi.ai/overview<br>  Added March  5, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='SUSI AI image 1' src='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen1.png'> <img height='300' alt='SUSI AI image 2' src='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen2.png'> <img height='300' alt='SUSI AI image 3' src='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen5.png'> 
 </div>
   </details>
 
