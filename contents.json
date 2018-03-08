@@ -15775,6 +15775,25 @@
       ],
       "date_added": "Mar 5 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Bitrise",
+      "category-ids": [
+        "misc"
+      ],
+      "description": "Client app for bitrise.io.",
+      "source": "https://github.com/toshi0383/Bitrise-iOS",
+      "homepage": "https://www.bitrise.io",
+      "license": "mit",
+      "stars": 65,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/toshi0383/assets/master/Bitrise-iOS/screen-shots.png"
+      ],
+      "date_added": "Mar 8 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
