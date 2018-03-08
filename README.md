@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-786-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%20%205,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-787-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%20%208,%202018-lightgrey.svg)
 
 Jump to
 
@@ -5037,6 +5037,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/alexsosn/AssociationBot<br>  Added June 21, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='AssociationBot image 1' src='https://raw.githubusercontent.com/alexsosn/AssociationBot/master/Screenshots/Screen%20Shot%201.png'> <img height='300' alt='AssociationBot image 2' src='https://raw.githubusercontent.com/alexsosn/AssociationBot/master/Screenshots/Screen%20Shot%202.png'> 
+</div>
+  </details>
+
+- Bitrise: Client app for bitrise.io.  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/toshi0383/Bitrise-iOS<br>  https://www.bitrise.io<br>  Added March  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Bitrise image 1' src='https://raw.githubusercontent.com/toshi0383/assets/master/Bitrise-iOS/screen-shots.png'> 
 </div>
   </details>
 
