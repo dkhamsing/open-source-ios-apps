@@ -6799,6 +6799,26 @@
       ]
     },
     {
+      "title": "Textor",
+      "category-ids": [
+        "text"
+      ],
+      "description": "Plain text editor",
+      "license": "mit",
+      "source": "https://github.com/louisdh/textor",
+      "homepage": "https://silverfox.be/articles/2018-03-11-textor.html",
+      "itunes": "https://itunes.apple.com/app/textor/id1330406995?mt=8",
+      "stars": 209,
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Tue Mar 13 18:10:00 2018 +0200",
+      "suggested_by": "@fassko",
+      "screenshots": [
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/4d/fe/2e4dfec4-02b8-eb6f-d104-cfd8f041f7f0/pr_source.png/230x0w.jpg"
+      ]
+    },
+    {
       "title": "SimpleMemo",
       "category-ids": [
         "notes"
