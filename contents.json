@@ -10705,9 +10705,6 @@
       "tags": [
         "react native"
       ],
-      "screenshots": [
-        "https://github.com/jbkuczma/NBAreact/raw/master/NBAreact_iOS.gif"
-      ],
       "description": "NBA stats & standings",
       "license": "mit",
       "source": "https://github.com/jbkuczma/NBAreact",
@@ -13778,7 +13775,7 @@
       "title": "Northern California Cherry Blossom Festival",
       "source": "https://github.com/keitaito/NCCBF-iOS",
       "itunes": "https://itunes.apple.com/app/northern-california-cherry-blossom-festival/id981016442",
-      "homepage": "https://sfcherryblossom.org/",
+      "homepage": "https://sfcherryblossom.org",
       "category-ids": [
         "official",
         "event"
@@ -14398,7 +14395,7 @@
     },
     {
       "title": "GitHawk",
-      "source": "https://github.com/rnystrom/GitHawk",
+      "source": "https://github.com/GitHawkApp/GitHawk",
       "itunes": "https://itunes.apple.com/app/githawk-for-github/id1252320249",
       "category-ids": [
         "github"
