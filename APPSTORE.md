@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **220** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **221** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -2112,6 +2112,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/terrychou/iVim<br>  Added February 11, 2018<br>  License: `other`
   <div><img height='300' alt='iVim image 1' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'> 
+</div>
+  </details>
+
+- Textor: Plain text editor [` App Store`](https://itunes.apple.com/app/textor/id1330406995)  
+  <details><summary><code>swift</code> 🔥🔥</summary>
+
+  https://github.com/louisdh/textor<br>  https://silverfox.be/articles/2018-03-11-textor.html<br>  Added March 13, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Textor image 1' src='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/4d/fe/2e4dfec4-02b8-eb6f-d104-cfd8f041f7f0/pr_source.png/230x0w.jpg'> 
 </div>
   </details>
 
