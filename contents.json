@@ -14554,17 +14554,16 @@
         "content"
       ],
       "tags": [
+        "swift",
         "iphone",
         "ipad",
-        "swift",
-        "swift3",
-        "rxswift"
+        "core-data"
       ],
       "description": "Track personal reading lists",
       "source": "https://github.com/AndrewBennet/readinglist",
       "itunes": "https://itunes.apple.com/app/reading-list-a-book-tracking-log/id1217139955",
       "screenshots": [
-        "https://raw.githubusercontent.com/AndrewBennet/readinglist/master/site/assets/iPhone7-ToReadList_framed.png"
+        "https://raw.githubusercontent.com/AndrewBennet/readinglist/master/site/assets/iPhone%20X-0_ToReadList_framed.png"
       ],
       "license": "mit",
       "date_added": "Jul 21 2017",
