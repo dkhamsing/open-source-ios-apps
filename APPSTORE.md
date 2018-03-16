@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **219** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **220** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -2281,6 +2281,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/openhab/openhab.ios<br>  http://www.openhab.org/<br>  Added June  2, 2016<br>  License: [`epl-1.0`](http://choosealicense.com/licenses/epl-1.0/)
   <div><img height='300' alt='openHAB image 1' src='http://a5.mzstatic.com/us/r30/Purple1/v4/ce/c8/32/cec832bd-868f-30be-ed46-37c8323659d5/screen696x696.jpeg'> <img height='300' alt='openHAB image 2' src='http://a3.mzstatic.com/us/r30/Purple5/v4/ff/54/8e/ff548e6a-7163-1d55-2f22-7fa0cd91475b/screen696x696.jpeg'> <img height='300' alt='openHAB image 3' src='http://a1.mzstatic.com/us/r30/Purple5/v4/fb/69/1b/fb691b81-40db-5acd-6003-dc5709f04791/screen696x696.jpeg'> <img height='300' alt='openHAB image 4' src='http://a2.mzstatic.com/us/r30/Purple3/v4/0c/38/5b/0c385b22-15b0-4ab4-b032-f186a1da5f11/screen696x696.jpeg'> <img height='300' alt='openHAB image 5' src='http://a5.mzstatic.com/us/r30/Purple3/v4/ef/f2/91/eff2918a-0b62-2d0e-68b4-912ee8b989e1/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- OpenStack Foundation Summit: The official app for the OpenStack Foundation Summit. [` App Store`](https://itunes.apple.com/app/openstack-foundation-summit/id1071261846)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/OpenStack-mobile/summit-app-ios<br>  Added March 16, 2018
+  <div><img height='300' alt='OpenStack Foundation Summit image 1' src='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7d/ff/a9/7dffa970-0332-eb92-b625-601e1130da99/pr_source.png/460x0w.png'> 
 </div>
   </details>
 
