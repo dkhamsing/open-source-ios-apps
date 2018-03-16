@@ -1242,7 +1242,7 @@ Click ► to show more details
   https://github.com/acmacalister/Github-Swift<br>  Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- Gitify: Brings your GitHub notifications in your pocket [` App Store`](https://itunes.apple.com/app/gitify/id1123311036)  
+- Gitify: Brings your GitHub notifications in your pocket  
   <details><summary><code>react-native</code> </summary>
 
   https://github.com/manosim/gitify-mobile<br>  Added July  8, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -2581,7 +2581,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 </div>
   </details>
 
-- CrimeMapper: Look at crime data in the UK [` App Store`](https://itunes.apple.com/app/crimemapper/id1212133404)  
+- CrimeMapper: Look at crime data in the UK  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/swwol/CrimeMapper<br>  https://samwoolf.net<br>  Added April  6, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -5589,7 +5589,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 </div>
   </details>
 
-- Gitify: Brings your GitHub notifications in your pocket [` App Store`](https://itunes.apple.com/app/gitify/id1123311036)  
+- Gitify: Brings your GitHub notifications in your pocket  
   <details><summary><code>react-native</code> </summary>
 
   https://github.com/manosim/gitify-mobile<br>  Added July  8, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
