@@ -13396,7 +13396,6 @@
       ],
       "description": "Look at crime data in the UK",
       "homepage": "https://samwoolf.net",
-      "itunes": "https://itunes.apple.com/app/crimemapper/id1212133404",
       "source": "https://github.com/swwol/CrimeMapper",
       "license": "mit",
       "tags": [
@@ -14459,7 +14458,6 @@
     {
       "title": "Gitify",
       "source": "https://github.com/manosim/gitify-mobile",
-      "itunes": "https://itunes.apple.com/app/gitify/id1123311036",
       "screenshots": [
         "http://a1.mzstatic.com/us/r30/Purple18/v4/88/b6/8a/88b68a7f-d3d8-e51b-9918-cb886b7a4a24/screen696x696.jpeg"
       ],
