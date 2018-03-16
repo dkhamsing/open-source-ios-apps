@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-788-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2016,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-789-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2016,%202018-lightgrey.svg)
 
 Jump to
 
@@ -4752,6 +4752,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/kyleweiner/Sentiments<br>  Added May 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Sentiments image 1' src='https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif'> 
+</div>
+  </details>
+
+- Textor: Plain text editor [` App Store`](https://itunes.apple.com/app/textor/id1330406995)  
+  <details><summary><code>swift</code> 🔥🔥</summary>
+
+  https://github.com/louisdh/textor<br>  https://silverfox.be/articles/2018-03-11-textor.html<br>  Added March 13, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Textor image 1' src='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/4d/fe/2e4dfec4-02b8-eb6f-d104-cfd8f041f7f0/pr_source.png/230x0w.jpg'> 
 </div>
   </details>
 
