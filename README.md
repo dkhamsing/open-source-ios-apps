@@ -1231,7 +1231,7 @@ Click ► to show more details
 - GitHawk: GitHub project manager [` App Store`](https://itunes.apple.com/app/githawk-for-github/id1252320249)  
   <details><summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> 🔥🔥🔥</summary>
 
-  https://github.com/rnystrom/GitHawk<br>  Added July  5, 2017<br>  License: `other`
+  https://github.com/GitHawkApp/GitHawk<br>  Added July  5, 2017<br>  License: `other`
   <div><img height='300' alt='GitHawk image 1' src='http://i.imgur.com/XwW4MI2.png'> <img height='300' alt='GitHawk image 2' src='http://i.imgur.com/sFgTFJX.png'> 
 </div>
   </details>
@@ -1500,7 +1500,7 @@ Click ► to show more details
 - Northern California Cherry Blossom Festival [` App Store`](https://itunes.apple.com/app/northern-california-cherry-blossom-festival/id981016442)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/keitaito/NCCBF-iOS<br>  https://sfcherryblossom.org/<br>  Added May  4, 2017<br>  License: `other`
+  https://github.com/keitaito/NCCBF-iOS<br>  https://sfcherryblossom.org<br>  Added May  4, 2017<br>  License: `other`
   <div><img height='300' alt='Northern California Cherry Blossom Festival image 1' src='http://a5.mzstatic.com/us/r30/Purple122/v4/85/60/0d/85600dea-3b85-bb34-07c0-a66db27d11e3/screen696x696.jpeg'> <img height='300' alt='Northern California Cherry Blossom Festival image 2' src='http://a5.mzstatic.com/us/r30/Purple111/v4/5d/00/d6/5d00d698-9537-6216-575f-b9dd327d3219/screen696x696.jpeg'> <img height='300' alt='Northern California Cherry Blossom Festival image 3' src='http://a3.mzstatic.com/us/r30/Purple111/v4/e5/97/e2/e597e2e9-2d30-f341-72b9-fe1a1227b8c4/screen696x696.jpeg'> 
 </div>
   </details>
@@ -3860,7 +3860,7 @@ https://newsapi.org/ — [back to top](#readme)
 - Northern California Cherry Blossom Festival [` App Store`](https://itunes.apple.com/app/northern-california-cherry-blossom-festival/id981016442)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/keitaito/NCCBF-iOS<br>  https://sfcherryblossom.org/<br>  Added May  4, 2017<br>  License: `other`
+  https://github.com/keitaito/NCCBF-iOS<br>  https://sfcherryblossom.org<br>  Added May  4, 2017<br>  License: `other`
   <div><img height='300' alt='Northern California Cherry Blossom Festival image 1' src='http://a5.mzstatic.com/us/r30/Purple122/v4/85/60/0d/85600dea-3b85-bb34-07c0-a66db27d11e3/screen696x696.jpeg'> <img height='300' alt='Northern California Cherry Blossom Festival image 2' src='http://a5.mzstatic.com/us/r30/Purple111/v4/5d/00/d6/5d00d698-9537-6216-575f-b9dd327d3219/screen696x696.jpeg'> <img height='300' alt='Northern California Cherry Blossom Festival image 3' src='http://a3.mzstatic.com/us/r30/Purple111/v4/e5/97/e2/e597e2e9-2d30-f341-72b9-fe1a1227b8c4/screen696x696.jpeg'> 
 </div>
   </details>
@@ -5647,8 +5647,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react native</code> </summary>
 
   https://github.com/jbkuczma/NBAreact<br>  Added July 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='NBAreact image 1' src='https://github.com/jbkuczma/NBAreact/raw/master/NBAreact_iOS.gif'> 
-</div>
   </details>
 
 - newswatch: News app based on YouTube playlists  
