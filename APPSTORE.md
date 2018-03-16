@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **221** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **219** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -525,14 +525,6 @@ Click ► to show more details
 
   https://github.com/GitHawkApp/GitHawk<br>  Added July  5, 2017<br>  License: `other`
   <div><img height='300' alt='GitHawk image 1' src='http://i.imgur.com/XwW4MI2.png'> <img height='300' alt='GitHawk image 2' src='http://i.imgur.com/sFgTFJX.png'> 
-</div>
-  </details>
-
-- Gitify: Brings your GitHub notifications in your pocket [` App Store`](https://itunes.apple.com/app/gitify/id1123311036)  
-  <details><summary><code>react-native</code> </summary>
-
-  https://github.com/manosim/gitify-mobile<br>  Added July  8, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Gitify image 1' src='http://a1.mzstatic.com/us/r30/Purple18/v4/88/b6/8a/88b68a7f-d3d8-e51b-9918-cb886b7a4a24/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -1106,14 +1098,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
   https://github.com/zntfdr/Compass<br>  Added May 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Compass image 1' src='http://a5.mzstatic.com/us/r30/Purple122/v4/ea/60/8e/ea608e2a-a471-11d8-1801-e621ad8ed651/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- CrimeMapper: Look at crime data in the UK [` App Store`](https://itunes.apple.com/app/crimemapper/id1212133404)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/swwol/CrimeMapper<br>  https://samwoolf.net<br>  Added April  6, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='CrimeMapper image 1' src='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper1a-1.jpg'> <img height='300' alt='CrimeMapper image 2' src='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper2a.jpg'> <img height='300' alt='CrimeMapper image 3' src='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper3a.jpg'> <img height='300' alt='CrimeMapper image 4' src='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper4a.jpg'> <img height='300' alt='CrimeMapper image 5' src='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper5a.jpg'> 
 </div>
   </details>
 
@@ -2388,14 +2372,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
   https://github.com/birkir/kvikmyndr-app<br>  Added February 27, 2017<br>  License: `other`
   <div><img height='300' alt='Bíóhúsið image 1' src='http://a3.mzstatic.com/us/r30/Purple122/v4/47/60/af/4760af23-821d-fe64-bef0-609676699d5d/screen696x696.jpeg'> <img height='300' alt='Bíóhúsið image 2' src='http://a3.mzstatic.com/us/r30/Purple111/v4/c2/c2/36/c2c236d9-7144-0a00-54d3-8caffd554174/screen696x696.jpeg'> <img height='300' alt='Bíóhúsið image 3' src='http://a3.mzstatic.com/us/r30/Purple111/v4/9b/15/d4/9b15d4d7-6ca3-1b33-d78c-cd098e35e4af/screen696x696.jpeg'> <img height='300' alt='Bíóhúsið image 4' src='http://a2.mzstatic.com/us/r30/Purple111/v4/c0/e1/83/c0e18311-891e-724b-8d32-e77a9aa3e4a5/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Gitify: Brings your GitHub notifications in your pocket [` App Store`](https://itunes.apple.com/app/gitify/id1123311036)  
-  <details><summary><code>react-native</code> </summary>
-
-  https://github.com/manosim/gitify-mobile<br>  Added July  8, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Gitify image 1' src='http://a1.mzstatic.com/us/r30/Purple18/v4/88/b6/8a/88b68a7f-d3d8-e51b-9918-cb886b7a4a24/screen696x696.jpeg'> 
 </div>
   </details>
 
