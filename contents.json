@@ -15793,6 +15793,17 @@
       ],
       "date_added": "Mar 8 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "OpenStack Foundation Summit",
+      "category-ids": ["misc"],
+      "description": "The official app for the OpenStack Foundation Summit.",
+      "source": "https://github.com/OpenStack-mobile/summit-app-ios",
+      "itunes": "https://itunes.apple.com/app/openstack-foundation-summit/id1071261846",
+      "screenshots": ["https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7d/ff/a9/7dffa970-0332-eb92-b625-601e1130da99/pr_source.png/460x0w.png"],
+      "date_added": "Mar 16 2018",
+      "suggested_by": "@colemancda",
+      "tags": ["swift"]
     }
   ]
 }
