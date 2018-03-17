@@ -90,6 +90,11 @@
       "parent": "finance"
     },
     {
+      "title": "Ethereum",
+      "id": "ethereum",
+      "parent": "finance"
+    },
+    {
       "title": "Game",
       "id": "game"
     },
@@ -15819,6 +15824,20 @@
       "date_added": "Mar 16 2018",
       "suggested_by": "@colemancda",
       "tags": ["swift"]
+    },
+    {
+      "title": "Trust",
+      "category-ids": ["ethereum"],
+      "description": "Ethereum Wallet and Web3 DApp Browser for iOS",
+      "source": "https://github.com/TrustWallet/trust-wallet-ios",
+      "homepage": "https://trustwalletapp.com",
+      "itunes": "https://itunes.apple.com/app/trust-ethereum-wallet/id1288339409",
+      "license": "gpl-3.0",
+      "stars": 400,
+      "tags": ["swift"],
+      "screenshots": ["https://uploads-ssl.webflow.com/5a88babea6e0f90001b39b0d/5aa0e8bcefcfd2000161d6eb_Main_Image-p-500.png"],
+      "date_added": "Mar 17 2018",
+      "suggested_by": "@alejandro-isaza"
     }
   ]
 }
