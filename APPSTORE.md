@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **219** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **220** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -23,7 +23,7 @@ Jump to
   - [Today](#today) 
 - [Files](#files) 
 - [Finance](#finance) 
-  - [Bitcoin](#bitcoin) 
+  - [Cryptocurrency](#cryptocurrency) 
 - [Game](#game) 
   - [Cocos2d](#cocos2d) 
   - [SpriteKit](#spritekit) 
@@ -833,7 +833,7 @@ Click ► to show more details
   </details>
 
 
-### Bitcoin 
+### Cryptocurrency 
  
 [back to top](#readme) 
  
@@ -850,6 +850,14 @@ Click ► to show more details
 
   https://github.com/breadwallet/breadwallet-ios<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Bread image 1' src='http://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg'> 
+</div>
+  </details>
+
+- Trust: Ethereum Wallet and Web3 DApp Browser [` App Store`](https://itunes.apple.com/app/trust-ethereum-wallet/id1288339409)  
+  <details><summary><code>swift</code> 🔥🔥</summary>
+
+  https://github.com/TrustWallet/trust-wallet-ios<br>  https://trustwalletapp.com<br>  Added March 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='Trust image 1' src='https://uploads-ssl.webflow.com/5a88babea6e0f90001b39b0d/5aa0e8bcefcfd2000161d6eb_Main_Image-p-500.png'> 
 </div>
   </details>
 
