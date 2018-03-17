@@ -85,13 +85,8 @@
       "id": "finance"
     },
     {
-      "title": "Bitcoin",
-      "id": "bitcoin",
-      "parent": "finance"
-    },
-    {
-      "title": "Ethereum",
-      "id": "ethereum",
+      "title": "Cryptocurrency",
+      "id": "cryptocurrency",
       "parent": "finance"
     },
     {
@@ -472,7 +467,7 @@
       "title": "Bither",
       "category-ids": [
         "apple-watch",
-        "bitcoin"
+        "cryptocurrency"
       ],
       "description": "Simple & secure Bitcoin wallet",
       "license": "apache-2.0",
@@ -1976,7 +1971,7 @@
     {
       "title": "BitStore",
       "category-ids": [
-        "bitcoin"
+        "cryptocurrency"
       ],
       "tags": [
         "objc"
@@ -1998,7 +1993,7 @@
     {
       "title": "Bread",
       "category-ids": [
-        "bitcoin"
+        "cryptocurrency"
       ],
       "tags": [
         "swift"
@@ -2035,7 +2030,7 @@
     {
       "title": "Coins",
       "category-ids": [
-        "bitcoin"
+        "cryptocurrency"
       ],
       "description": "Bitcoin value tracker",
       "license": "mit",
@@ -14193,7 +14188,7 @@
     {
       "title": "CoinTracker",
       "category-ids": [
-        "bitcoin"
+        "cryptocurrency"
       ],
       "tags": [
         "archive"
@@ -15562,7 +15557,7 @@
     {
       "title": "BitPrice",
       "category-ids": [
-        "bitcoin"
+        "cryptocurrency"
       ],
       "description": "Display and monitor the current Bitcoint rate.",
       "source": "https://github.com/Bruno-Furtado/bitprice-ios",
@@ -15827,8 +15822,8 @@
     },
     {
       "title": "Trust",
-      "category-ids": ["ethereum"],
-      "description": "Ethereum Wallet and Web3 DApp Browser for iOS",
+      "category-ids": ["cryptocurrency"],
+      "description": "Ethereum Wallet and Web3 DApp Browser",
       "source": "https://github.com/TrustWallet/trust-wallet-ios",
       "homepage": "https://trustwalletapp.com",
       "itunes": "https://itunes.apple.com/app/trust-ethereum-wallet/id1288339409",
