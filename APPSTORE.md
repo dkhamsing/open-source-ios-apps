@@ -358,10 +358,10 @@ Click ► to show more details
 </div>
   </details>
 
-- Riot: Collaboration for teams, chat & share with https://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
+- Riot: Collaboration for teams, chat & share with https://matrix.org/blog/home/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details><summary><code>webrtc</code> <code>realm</code> 🔥🔥</summary>
 
-  https://github.com/vector-im/riot-ios<br>  https://vector.im/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/vector-im/riot-ios<br>  https://matrix.org/blog/home/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Riot image 1' src='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2410,10 +2410,10 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
  
 https://realm.io/ — [back to top](#readme) 
  
-- Riot: Collaboration for teams, chat & share with https://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
+- Riot: Collaboration for teams, chat & share with https://matrix.org/blog/home/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details><summary><code>webrtc</code> <code>realm</code> 🔥🔥</summary>
 
-  https://github.com/vector-im/riot-ios<br>  https://vector.im/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/vector-im/riot-ios<br>  https://matrix.org/blog/home/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Riot image 1' src='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'> 
 </div>
   </details>
