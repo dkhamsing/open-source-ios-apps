@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-789-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2016,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-789-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2017,%202018-lightgrey.svg)
 
 Jump to
 
@@ -850,10 +850,10 @@ Click ► to show more details
 </div>
   </details>
 
-- Riot: Collaboration for teams, chat & share with https://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
+- Riot: Collaboration for teams, chat & share with https://matrix.org/blog/home/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details><summary><code>webrtc</code> <code>realm</code> 🔥🔥</summary>
 
-  https://github.com/vector-im/riot-ios<br>  https://vector.im/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/vector-im/riot-ios<br>  https://matrix.org/blog/home/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Riot image 1' src='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'> 
 </div>
   </details>
@@ -5906,10 +5906,10 @@ https://realm.io/ — [back to top](#readme)
   https://github.com/pietbrauer/RealmToDo<br>  Added July 31, 2015<br>  License: `other`
   </details>
 
-- Riot: Collaboration for teams, chat & share with https://matrix.org/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
+- Riot: Collaboration for teams, chat & share with https://matrix.org/blog/home/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details><summary><code>webrtc</code> <code>realm</code> 🔥🔥</summary>
 
-  https://github.com/vector-im/riot-ios<br>  https://vector.im/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/vector-im/riot-ios<br>  https://matrix.org/blog/home/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Riot image 1' src='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'> 
 </div>
   </details>
