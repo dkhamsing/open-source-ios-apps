@@ -14460,9 +14460,9 @@
       "category-ids": [
         "weather"
       ],
-      "description": "current weather for nearby stations with list and map view",
+      "description": "Current weather for nearby stations with list, map and detail view",
       "source": "https://github.com/erikmartens/NearbyWeather",
-      "itunes": "https://itunes.apple.com/de/app/nearbyweather/id1227313069",
+      "itunes": "https://itunes.apple.com/app/nearbyweather/id1227313069",
       "tags": [
         "swift",
         "javascript",
@@ -14470,9 +14470,9 @@
         "openweathermap"
       ],
       "screenshots": [
-        "https://imgur.com/Fba7ppE",
-        "https://imgur.com/fgPbJVx",
-        "https://imgur.com/MdQJiLj"
+        "https://i.imgur.com/Fba7ppE.png",
+        "https://i.imgur.com/fgPbJVx.png",
+        "https://i.imgur.com/MdQJiLj.png"
       ],
       "license": "mit",
       "date_added": "2018-03-18T15:16:43+01:00",
