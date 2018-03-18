@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-790-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2017,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-791-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2018,%202018-lightgrey.svg)
 
 Jump to
 
@@ -4970,6 +4970,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/wrutkowski/Lucid-Weather-Clock<br>  Added January  5, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Lucid Weather Clock image 1' src='https://camo.githubusercontent.com/b961f69ba4ef05bbd2ec444277aa67f031d40d1e/687474703a2f2f692e67697068792e636f6d2f6d636d727333417277617745302e676966'> 
+</div>
+  </details>
+
+- NearbyWeather: current weather for nearby stations with list and map view [` App Store`](https://itunes.apple.com/de/app/nearbyweather/id1227313069)  
+  <details><summary><code>swift</code> <code>javascript</code> <code>sqlite</code> <code>openweathermap</code> </summary>
+
+  https://github.com/erikmartens/NearbyWeather<br>  Added March 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='NearbyWeather image 1' src='https://imgur.com/Fba7ppE'> <img height='300' alt='NearbyWeather image 2' src='https://imgur.com/fgPbJVx'> <img height='300' alt='NearbyWeather image 3' src='https://imgur.com/MdQJiLj'> 
 </div>
   </details>
 
