@@ -14456,6 +14456,30 @@
       "stars": 70
     },
     {
+      "title": "NearbyWeather",
+      "category-ids": [
+        "weather"
+      ],
+      "description": "current weather for nearby stations with list and map view",
+      "source": "https://github.com/erikmartens/NearbyWeather",
+      "itunes": "https://itunes.apple.com/de/app/nearbyweather/id1227313069",
+      "tags": [
+        "swift",
+        "javascript",
+        "sqlite",
+        "openweathermap"
+      ],
+      "screenshots": [
+        "https://imgur.com/Fba7ppE",
+        "https://imgur.com/fgPbJVx",
+        "https://imgur.com/MdQJiLj"
+      ],
+      "license": "mit",
+      "date_added": "2018-03-18T15:16:43+01:00",
+      "suggested_by": "@erikmartens",
+      "stars": 1
+    },
+    {
       "title": "Gitify",
       "source": "https://github.com/manosim/gitify-mobile",
       "screenshots": [
