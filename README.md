@@ -4973,11 +4973,11 @@ https://mastodon.social — [back to top](#readme)
 </div>
   </details>
 
-- NearbyWeather: current weather for nearby stations with list and map view [` App Store`](https://itunes.apple.com/de/app/nearbyweather/id1227313069)  
+- NearbyWeather: Current weather for nearby stations with list, map and detail view [` App Store`](https://itunes.apple.com/app/nearbyweather/id1227313069)  
   <details><summary><code>swift</code> <code>javascript</code> <code>sqlite</code> <code>openweathermap</code> </summary>
 
   https://github.com/erikmartens/NearbyWeather<br>  Added March 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='NearbyWeather image 1' src='https://imgur.com/Fba7ppE'> <img height='300' alt='NearbyWeather image 2' src='https://imgur.com/fgPbJVx'> <img height='300' alt='NearbyWeather image 3' src='https://imgur.com/MdQJiLj'> 
+  <div><img height='300' alt='NearbyWeather image 1' src='https://i.imgur.com/Fba7ppE.png'> <img height='300' alt='NearbyWeather image 2' src='https://i.imgur.com/fgPbJVx.png'> <img height='300' alt='NearbyWeather image 3' src='https://i.imgur.com/MdQJiLj.png'> 
 </div>
   </details>
 
