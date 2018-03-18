@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **220** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **221** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -2207,6 +2207,14 @@ https://mastodon.social — [back to top](#readme)
  
 [back to top](#readme) 
  
+- NearbyWeather: current weather for nearby stations with list and map view [` App Store`](https://itunes.apple.com/de/app/nearbyweather/id1227313069)  
+  <details><summary><code>swift</code> <code>javascript</code> <code>sqlite</code> <code>openweathermap</code> </summary>
+
+  https://github.com/erikmartens/NearbyWeather<br>  Added March 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='NearbyWeather image 1' src='https://imgur.com/Fba7ppE'> <img height='300' alt='NearbyWeather image 2' src='https://imgur.com/fgPbJVx'> <img height='300' alt='NearbyWeather image 3' src='https://imgur.com/MdQJiLj'> 
+</div>
+  </details>
+
 - Tropos Weather [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376)  
   <details><summary><code>dark sky api (forecast api)</code> <code>reactivecocoa</code> 🔥🔥🔥🔥</summary>
 
