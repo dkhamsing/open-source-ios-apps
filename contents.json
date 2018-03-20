@@ -14601,9 +14601,6 @@
       "description": "Track personal reading lists",
       "source": "https://github.com/AndrewBennet/readinglist",
       "itunes": "https://itunes.apple.com/app/reading-list-a-book-tracking-log/id1217139955",
-      "screenshots": [
-        "https://raw.githubusercontent.com/AndrewBennet/readinglist/master/site/assets/iPhone%20X-0_ToReadList_framed.png"
-      ],
       "license": "mit",
       "date_added": "Jul 21 2017",
       "suggested_by": "@AndrewBennet",
@@ -15857,6 +15854,25 @@
       "screenshots": ["https://uploads-ssl.webflow.com/5a88babea6e0f90001b39b0d/5aa0e8bcefcfd2000161d6eb_Main_Image-p-500.png"],
       "date_added": "Mar 17 2018",
       "suggested_by": "@alejandro-isaza"
+    },
+    {
+      "title": "Oh My Plane",
+      "category-ids": [
+        "game",
+        "spritekit"
+      ],
+      "description": "A game like flappy bird",
+      "source": "https://github.com/softdevstory/OhMyPlane",
+      "tags": [
+        "swift",
+        "spritekit",
+        "gameplaykit"
+      ],
+      "license": "mit",           
+      "itunes": "https://itunes.apple.com/app/oh-my-plane/id1100985506",
+      "screenshots": ["https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg", "https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg"],
+      "date_added": "April 19 2016",
+      "suggested_by": "@softdevstory"
     }
   ]
 }
