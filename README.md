@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-791-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2018,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-792-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2020,%202018-lightgrey.svg)
 
 Jump to
 
@@ -2164,6 +2164,14 @@ Click ► to show more details
 </div>
   </details>
 
+- Oh My Plane: A game like flappy bird [` App Store`](https://itunes.apple.com/app/oh-my-plane/id1100985506)  
+  <details><summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> </summary>
+
+  https://github.com/softdevstory/OhMyPlane<br>  Added April 19, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Oh My Plane image 1' src='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'> <img height='300' alt='Oh My Plane image 2' src='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'> 
+</div>
+  </details>
+
 - Pterodactyl Attack: Blast your way through waves of pterodactyls, includes detailed writeup on how it's made  
   <details><summary><code>objc</code> </summary>
 
@@ -2313,6 +2321,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
   https://github.com/snazzware/Mergel<br>  Added November  9, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Mergel image 1' src='https://i.imgur.com/978TVq5.png'> 
+</div>
+  </details>
+
+- Oh My Plane: A game like flappy bird [` App Store`](https://itunes.apple.com/app/oh-my-plane/id1100985506)  
+  <details><summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> </summary>
+
+  https://github.com/softdevstory/OhMyPlane<br>  Added April 19, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Oh My Plane image 1' src='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'> <img height='300' alt='Oh My Plane image 2' src='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'> 
 </div>
   </details>
 
@@ -3365,8 +3381,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary><code>swift</code> <code>iphone</code> <code>ipad</code> <code>core-data</code> </summary>
 
   https://github.com/AndrewBennet/readinglist<br>  Added July 21, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Reading List image 1' src='https://raw.githubusercontent.com/AndrewBennet/readinglist/master/site/assets/iPhone%20X-0_ToReadList_framed.png'> 
-</div>
   </details>
 
 - RealmVideo: Watch Realm videos & slides  
