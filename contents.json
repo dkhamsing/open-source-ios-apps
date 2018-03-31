@@ -377,11 +377,11 @@
         "realm"
       ],
       "description": "Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more",
-      "source": "https://github.com/jasarien/Provenance",
+      "source": "https://github.com/Provenance-Emu/Provenance",
       "stars": 3242,
       "screenshots": [
-        "http://jamesaddyman.com/provenance/screenshots/provenance1.png",
-        "http://jamesaddyman.com/provenance/screenshots/provenance6.png"
+        "https://jamesaddyman.com/provenance/screenshots/provenance1.png",
+        "https://jamesaddyman.com/provenance/screenshots/provenance6.png"
       ],
       "license": "bsd-3-clause",
       "date_added": "Mon Apr 27 13:06:49 2015 -0700",
@@ -10420,7 +10420,7 @@
       ],
       "description": "Report device location to the server",
       "license": "apache-2.0",
-      "source": "https://github.com/tananaev/traccar-client-ios",
+      "source": "https://github.com/traccar/traccar-client-ios",
       "itunes": "https://itunes.apple.com/us/app/traccar-client/id843156974",
       "stars": 92,
       "date_added": "Tue Jul 12 11:26:10 2016 +1200",
@@ -10439,7 +10439,7 @@
       ],
       "description": "Track GPS devices on a map",
       "license": "apache-2.0",
-      "source": "https://github.com/tananaev/traccar-manager-ios",
+      "source": "https://github.com/traccar/traccar-manager-ios",
       "itunes": "https://itunes.apple.com/us/app/traccar-manager/id1113966562",
       "stars": 21,
       "date_added": "Tue Jul 12 11:26:10 2016 +1200",
