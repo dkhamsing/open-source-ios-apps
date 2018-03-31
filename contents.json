@@ -334,7 +334,7 @@
         "apple-tv"
       ],
       "description": "Art shows",
-      "": "mit",
+      "license": "mit",
       "source": "https://github.com/artsy/Emergence",
       "itunes": "https://itunes.apple.com/by/app/artsy-shows/id1044690553",
       "stars": 351,
@@ -358,7 +358,7 @@
         "objc"
       ],
       "description": "Watch videos from EX.UA file sharing",
-      "": "lgpl-2.1",
+      "license": "lgpl-2.1",
       "source": "https://github.com/IGRSoft/exTVPlayer",
       "stars": 17,
       "screenshots": [
@@ -383,7 +383,7 @@
         "http://jamesaddyman.com/provenance/screenshots/provenance1.png",
         "http://jamesaddyman.com/provenance/screenshots/provenance6.png"
       ],
-      "": "bsd-3-clause",
+      "license": "bsd-3-clause",
       "date_added": "Mon Apr 27 13:06:49 2015 -0700",
       "suggested_by": "@dkhamsing"
     },
@@ -395,7 +395,7 @@
       "description": "Dutch Public Broadcasting video on demand",
       "source": "https://github.com/jeffkreeftmeijer/UitzendingGemist",
       "lang": "nld",
-      "": "mit",
+      "license": "mit",
       "tags": [
         "swift"
       ],
@@ -420,7 +420,7 @@
       "screenshots": [
         "https://github.com/azzoor/WWDCTV/blob/master/WWDC/screen01.png?raw=true"
       ],
-      "": "other",
+      "license": "other",
       "date_added": "Thu Nov 19 07:47:53 2015 -0800",
       "suggested_by": "@dkhamsing"
     },
@@ -439,7 +439,7 @@
       "tags": [
         "swift"
       ],
-      "": "other",
+      "license": "other",
       "date_added": "Thu Aug 6 15:40:46 2015 +0800",
       "suggested_by": "@xubinggui"
     },
@@ -470,7 +470,7 @@
         "cryptocurrency"
       ],
       "description": "Simple & secure Bitcoin wallet",
-      "": "apache-2.0",
+      "license": "apache-2.0",
       "source": "https://github.com/bither/bither-ios",
       "tags": [
         "objc"
@@ -488,7 +488,7 @@
         "apple-watch"
       ],
       "description": "Discover craft beer pubs nearby",
-      "": "mit",
+      "license": "mit",
       "source": "https://github.com/contentful/ContentfulWatchKitExample",
       "itunes": "https://itunes.apple.com/app/id986830433",
       "tags": [
@@ -518,7 +518,7 @@
       "source": "https://github.com/JohnWong/bus-today",
       "itunes": "https://itunes.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341",
       "stars": 47,
-      "": "other",
+      "license": "other",
       "date_added": "Wed Feb 17 10:44:11 2016 +0800",
       "suggested_by": "@John Wong",
       "screenshots": [
@@ -544,7 +544,7 @@
         "archive"
       ],
       "stars": 14,
-      "": "mit",
+      "license": "mit",
       "date_added": "Mon Mar 23 13:37:57 2015 -0700",
       "suggested_by": "@dkhamsing"
     },
