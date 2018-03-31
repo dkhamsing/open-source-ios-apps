@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-793-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2022,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-795-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2031,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1335,6 +1335,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- Conjugar: Learn and Practice All the Spanish Verb Tenses [` App Store`](https://itunes.apple.com/us/app/conjugar/id1236500467)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/vermont42/Conjugar<br>  Added March 31, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Conjugar image 1' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'> <img height='300' alt='Conjugar image 2' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'> <img height='300' alt='Conjugar image 3' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'> <img height='300' alt='Conjugar image 4' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'> <img height='300' alt='Conjugar image 5' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'> 
+</div>
+  </details>
+
 - Go Flashcards: Go Flashcards allows users to create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch. All stacks and stack progress sync over CloudKit. Includes Core Spotlight support for searching for Stacks and Cards via Spotlight. [` App Store`](https://itunes.apple.com/app/go-flashcards/id991657053)  
   <details><summary><code>swift</code> <code>realm</code> <code>watchos</code> <code>cloudkit</code> <code>spotlight</code> </summary>
 
@@ -2469,6 +2477,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
   https://github.com/enochng1/RaceMe<br>  Added July 20, 2016<br>  License: `other`
   <div><img height='300' alt='RaceMe image 1' src='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'> 
+</div>
+  </details>
+
+- RaceRunner: A Run-Tracking App for Runners Who Race [` App Store`](https://itunes.apple.com/us/app/racerunner-run-tracking-app/id1065017082)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/vermont42/RaceRunner<br>  Added March 31, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='RaceRunner image 1' src='https://raw.githubusercontent.com/vermont42/RaceRunner/master/RaceRunner/RaceRunner1.png?raw=true'> <img height='300' alt='RaceRunner image 2' src='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner2.png?raw=true'> <img height='300' alt='RaceRunner image 3' src='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner2-1.png?raw=true'> <img height='300' alt='RaceRunner image 4' src='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner8.png?raw=true'> <img height='300' alt='RaceRunner image 5' src='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner3.png?raw=true'> <img height='300' alt='RaceRunner image 6' src='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner4.png?raw=true'> 
 </div>
   </details>
 
@@ -4947,6 +4963,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/vanyaland/Californication<br>  Added August  7, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Californication image 1' src='https://github.com/vanyaland/Californication/raw/master/screenshot.png'> 
+</div>
+  </details>
+
+- Conjugar: Learn and Practice All the Spanish Verb Tenses [` App Store`](https://itunes.apple.com/us/app/conjugar/id1236500467)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/vermont42/Conjugar<br>  Added March 31, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Conjugar image 1' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'> <img height='300' alt='Conjugar image 2' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'> <img height='300' alt='Conjugar image 3' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'> <img height='300' alt='Conjugar image 4' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'> <img height='300' alt='Conjugar image 5' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'> 
 </div>
   </details>
 
