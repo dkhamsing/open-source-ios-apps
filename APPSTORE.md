@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **223** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **225** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -573,6 +573,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- Conjugar: Learn and Practice All the Spanish Verb Tenses [` App Store`](https://itunes.apple.com/us/app/conjugar/id1236500467)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/vermont42/Conjugar<br>  Added March 31, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Conjugar image 1' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'> <img height='300' alt='Conjugar image 2' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'> <img height='300' alt='Conjugar image 3' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'> <img height='300' alt='Conjugar image 4' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'> <img height='300' alt='Conjugar image 5' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'> 
+</div>
+  </details>
+
 - Go Flashcards: Go Flashcards allows users to create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch. All stacks and stack progress sync over CloudKit. Includes Core Spotlight support for searching for Stacks and Cards via Spotlight. [` App Store`](https://itunes.apple.com/app/go-flashcards/id991657053)  
   <details><summary><code>swift</code> <code>realm</code> <code>watchos</code> <code>cloudkit</code> <code>spotlight</code> </summary>
 
@@ -1070,6 +1078,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 [back to top](#readme) 
  
+- RaceRunner: A Run-Tracking App for Runners Who Race [` App Store`](https://itunes.apple.com/us/app/racerunner-run-tracking-app/id1065017082)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/vermont42/RaceRunner<br>  Added March 31, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='RaceRunner image 1' src='https://raw.githubusercontent.com/vermont42/RaceRunner/master/RaceRunner/RaceRunner1.png?raw=true'> <img height='300' alt='RaceRunner image 2' src='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner2.png?raw=true'> <img height='300' alt='RaceRunner image 3' src='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner2-1.png?raw=true'> <img height='300' alt='RaceRunner image 4' src='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner8.png?raw=true'> <img height='300' alt='RaceRunner image 5' src='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner3.png?raw=true'> <img height='300' alt='RaceRunner image 6' src='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner4.png?raw=true'> 
+</div>
+  </details>
+
 - rTracker: A generic, customizable personal data tracker [` App Store`](https://itunes.apple.com/app/rtracker-track-it-all-your-way/id486541371)  
   <details><summary><code>objc</code> </summary>
 
@@ -2224,6 +2240,14 @@ https://mastodon.social — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Conjugar: Learn and Practice All the Spanish Verb Tenses [` App Store`](https://itunes.apple.com/us/app/conjugar/id1236500467)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/vermont42/Conjugar<br>  Added March 31, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Conjugar image 1' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'> <img height='300' alt='Conjugar image 2' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'> <img height='300' alt='Conjugar image 3' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'> <img height='300' alt='Conjugar image 4' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'> <img height='300' alt='Conjugar image 5' src='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'> 
+</div>
+  </details>
+
 - MovieDict: Offline dictionary for international movie titles [` App Store`](https://itunes.apple.com/app/movieglot-what-do-they-call-it/id710587066)  
   <details><summary><code>wikipedia</code> </summary>
 
