@@ -143,8 +143,8 @@ Click ► to show more details
 - Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more  
   <details><summary><code>realm</code> 🔥🔥🔥🔥🔥</summary>
 
-  https://github.com/jasarien/Provenance<br>  Added April 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-  <div><img height='300' alt='Provenance image 1' src='http://jamesaddyman.com/provenance/screenshots/provenance1.png'> <img height='300' alt='Provenance image 2' src='http://jamesaddyman.com/provenance/screenshots/provenance6.png'> 
+  https://github.com/Provenance-Emu/Provenance<br>  Added April 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  <div><img height='300' alt='Provenance image 1' src='https://jamesaddyman.com/provenance/screenshots/provenance1.png'> <img height='300' alt='Provenance image 2' src='https://jamesaddyman.com/provenance/screenshots/provenance6.png'> 
 </div>
   </details>
 
@@ -1463,8 +1463,8 @@ Click ► to show more details
 - Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more  
   <details><summary><code>realm</code> 🔥🔥🔥🔥🔥</summary>
 
-  https://github.com/jasarien/Provenance<br>  Added April 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-  <div><img height='300' alt='Provenance image 1' src='http://jamesaddyman.com/provenance/screenshots/provenance1.png'> <img height='300' alt='Provenance image 2' src='http://jamesaddyman.com/provenance/screenshots/provenance6.png'> 
+  https://github.com/Provenance-Emu/Provenance<br>  Added April 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  <div><img height='300' alt='Provenance image 1' src='https://jamesaddyman.com/provenance/screenshots/provenance1.png'> <img height='300' alt='Provenance image 2' src='https://jamesaddyman.com/provenance/screenshots/provenance6.png'> 
 </div>
   </details>
 
@@ -2856,7 +2856,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 - Traccar Client: Report device location to the server [` App Store`](https://itunes.apple.com/us/app/traccar-client/id843156974)  
   <details><summary><code>objc</code> </summary>
 
-  https://github.com/tananaev/traccar-client-ios<br>  Added July 12, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/traccar/traccar-client-ios<br>  Added July 12, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Traccar Client image 1' src='http://a5.mzstatic.com/us/r30/Purple3/v4/6c/6b/d6/6c6bd694-0715-d363-9a3b-ed27dbdaa0b9/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2864,7 +2864,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 - Traccar Manager: Track GPS devices on a map [` App Store`](https://itunes.apple.com/us/app/traccar-manager/id1113966562)  
   <details><summary><code>objc</code> </summary>
 
-  https://github.com/tananaev/traccar-manager-ios<br>  Added July 12, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/traccar/traccar-manager-ios<br>  Added July 12, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Traccar Manager image 1' src='http://a5.mzstatic.com/us/r30/Purple30/v4/26/e7/f5/26e7f5cc-f421-146b-0d05-a81733e58807/screen696x696.jpeg'> <img height='300' alt='Traccar Manager image 2' src='http://a5.mzstatic.com/us/r30/Purple60/v4/62/5a/c4/625ac44e-2bb5-6f2b-044c-592e818054d3/screen696x696.jpeg'> 
 </div>
   </details>
