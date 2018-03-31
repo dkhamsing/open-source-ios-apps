@@ -15868,7 +15868,7 @@
         "spritekit",
         "gameplaykit"
       ],
-      "license": "mit",           
+      "license": "mit",
       "itunes": "https://itunes.apple.com/app/oh-my-plane/id1100985506",
       "screenshots": ["https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg", "https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg"],
       "date_added": "April 19 2016",
@@ -15887,11 +15887,59 @@
         "swift-evolution"
       ],
       "license": "mit",
-      "stars": 122,        
+      "stars": 122,
       "itunes": "https://itunes.apple.com/app/evolution-app/id1210898168",
       "screenshots": ["https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/91/90/1d919067-8c46-3f04-f710-ecfed6494539/pr_source.png/900x0w.png", "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/84/cc/ee84cc99-5ff3-5c1c-4408-60c8f24f754d/pr_source.png/900x0w.png", "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/28/86/e9/2886e929-b5a9-09ed-47e7-0ed45806f463/pr_source.png/900x0w.png", "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/7a/2a/68/7a2a68f4-5575-5d70-be87-d4df54ebb12f/pr_source.png/900x0w.png", "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/e6/ed/ec/e6edecdb-78ce-6cfe-4fde-470c7cee306a/pr_source.png/900x0w.png"],
       "date_added": "Apr 11, 2017",
       "suggested_by": "@unnamedd"
+    },
+    {
+      "title": "RaceRunner",
+      "category-ids": [
+        "fitness"
+      ],
+      "description": "A Run-Tracking App for Runners Who Race",
+      "source": "https://github.com/vermont42/RaceRunner",
+      "tags": [
+        "swift"
+      ],
+      "license": "mit",
+      "stars": 22,
+      "itunes": "https://itunes.apple.com/us/app/racerunner-run-tracking-app/id1065017082",
+      "screenshots": [
+        "https://raw.githubusercontent.com/vermont42/RaceRunner/master/RaceRunner/RaceRunner1.png?raw=true",
+        "https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner2.png?raw=true",
+        "https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner2-1.png?raw=true",
+        "https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner8.png?raw=true",
+        "https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner3.png?raw=true",
+        "https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner4.png?raw=true"
+      ],
+      "date_added": "Mar 31 2018",
+      "suggested_by": "@vermont42"
+    },
+    {
+      "title": "Conjugar",
+      "category-ids": [
+        "education",
+        "travel"
+      ],
+      "description": "Learn and Practice All the Spanish Verb Tenses",
+      "source": "https://github.com/vermont42/Conjugar",
+      "tags": [
+        "swift"
+      ],
+      "license": "mit",
+      "stars": 4,
+      "itunes": "https://itunes.apple.com/us/app/conjugar/id1236500467",
+      "screenshots": [
+        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true",
+        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true",
+        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true",
+        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true",
+        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true"
+      ],
+      "date_added": "Mar 31 2018",
+      "suggested_by": "@vermont42"
     }
   ]
 }
