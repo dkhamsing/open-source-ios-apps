@@ -391,7 +391,7 @@ Click ► to show more details
   </details>
 
 - Telegram: Send messages with a focus on speed & security [` App Store`](https://itunes.apple.com/app/telegram-messenger/id686449807)  
-  <details><summary><code>objc</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/peter-iakovlev/Telegram<br>  Added April  6, 2015<br>  License: `other`
   <div><img height='300' alt='Telegram image 1' src='http://a5.mzstatic.com/us/r30/Purple62/v4/d1/90/fd/d190fd61-005a-a5b7-0bf4-91b5c588b970/screen696x696.jpeg'> <img height='300' alt='Telegram image 2' src='http://a2.mzstatic.com/us/r30/Purple71/v4/95/f3/2e/95f32efb-5e42-841e-f142-b25b14f62f25/screen696x696.jpeg'> <img height='300' alt='Telegram image 3' src='http://a3.mzstatic.com/us/r30/Purple71/v4/ad/4c/76/ad4c768a-31c3-8fb2-daf4-effd9914e46c/screen696x696.jpeg'> <img height='300' alt='Telegram image 4' src='http://a2.mzstatic.com/us/r30/Purple71/v4/92/80/a3/9280a32a-66b6-15b9-b8fb-866ea1e13bfa/screen696x696.jpeg'> <img height='300' alt='Telegram image 5' src='http://a2.mzstatic.com/us/r30/Purple62/v4/be/00/19/be00193f-ee7e-9886-09d5-86ca9dfa2faf/screen696x696.jpeg'> 
@@ -923,7 +923,7 @@ Click ► to show more details
   </details>
 
 - DropColour: Drag & drop one circle onto another of the same color [` App Store`](https://itunes.apple.com/app/dropcolour/id1046339763)  
-  <details><summary><code>swift</code> <code>swift2.2</code> </summary>
+  <details><summary><code>swift</code> <code>swift2.2</code> 🔥</summary>
 
   https://github.com/elpassion/DropColour-iOS<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='DropColour image 1' src='http://a2.mzstatic.com/us/r30/Purple60/v4/7f/50/5a/7f505ad9-b065-e8e3-6fe2-6d8610c13fa7/screen696x696.jpeg'> 
@@ -1940,7 +1940,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API [` App Store`](https://itunes.apple.com/app/layer-player/id949768742)  
-  <details><summary><code>swift</code> 🔥🔥🔥</summary>
+  <details><summary><code>swift</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/scotteg/LayerPlayer<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='LayerPlayer image 1' src='http://a2.mzstatic.com/us/r30/Purple6/v4/07/32/b6/0732b62f-2f8d-6f35-0126-40c32cb5d86f/screen696x696.jpeg'> <img height='300' alt='LayerPlayer image 2' src='http://a5.mzstatic.com/us/r30/Purple69/v4/bf/ca/f9/bfcaf936-e812-ca87-9e46-374c9e6a32f0/screen696x696.jpeg'> <img height='300' alt='LayerPlayer image 3' src='http://a3.mzstatic.com/us/r30/Purple6/v4/a9/aa/5b/a9aa5bc4-0587-c433-055c-2b98786185a5/screen696x696.jpeg'> <img height='300' alt='LayerPlayer image 4' src='http://a1.mzstatic.com/us/r30/Purple22/v4/f7/aa/7d/f7aa7d2b-8ad1-9d85-8592-c82c51309655/screen696x696.jpeg'> <img height='300' alt='LayerPlayer image 5' src='http://a3.mzstatic.com/us/r30/Purple69/v4/6e/c1/a5/6ec1a500-8d0b-ea2e-ee71-9647ba736685/screen696x696.jpeg'> 
