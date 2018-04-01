@@ -10489,6 +10489,25 @@
         "http://a3.mzstatic.com/us/r30/Purple3/v4/be/ea/39/beea3978-efb6-07ef-aefb-3d01e09531d9/screen696x696.jpeg"
       ]
     },
+        {
+      "title": "Blahker",
+      "category-ids": [
+        "content-blocking"
+      ],
+      "description": "Safari content blocker for interstitial ads, mainly for websites in Taiwan",
+      "license": "mit",
+      "source": "https://github.com/ethanhuang13/blahker",
+      "itunes": "https://itunes.apple.com/app/blahker-ba-la-ke-gai-ban-guang/id1182699267",
+      "date_added": "Apr 2 2018 +0800",
+      "suggested_by": "@ethanhuang13",
+      "stars": 70,
+      "lang": "zho",
+      "screenshots": [
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/ca/75/fd/ca75fdfe-3952-e440-bca6-3fe9ce0d6d09/pr_source.png/316x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/f9/23/44/f9234464-ba35-362f-a75f-e79ada4aa93e/pr_source.png/316x0w.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/c1/04/11/c1041198-8aed-e23c-61fa-04ff8b7b38ae/pr_source.png/316x0w.png"
+      ]
+    },
     {
       "title": "SHMUP",
       "category-ids": [
