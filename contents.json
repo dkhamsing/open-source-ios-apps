@@ -10847,7 +10847,7 @@
       "screenshots": [
         "https://i.imgur.com/WF6eY71.png"
       ],
-      "description": "Browse the https://lobste.rs/ community news site",
+      "description": "Browse the https://lobste.rs/index.php community news site",
       "source": "https://github.com/rhysforyou/LobsterApp",
       "license": "other",
       "date_added": "Thu Jul 21 07:33:15 2016 -0700",
