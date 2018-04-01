@@ -1620,7 +1620,7 @@ Click ► to show more details
   </details>
 
 - Blahker: Safari content blocker for interstitial ads, mainly for websites in Taiwan [` App Store`](https://itunes.apple.com/app/blahker-ba-la-ke-gai-ban-guang/id1182699267)  
-  <details><summary>🇨🇳 </summary>
+  <details><summary><code>swift</code> 🇨🇳 </summary>
 
   https://github.com/ethanhuang13/blahker<br>  Added April  2, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Blahker image 1' src='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/ca/75/fd/ca75fdfe-3952-e440-bca6-3fe9ce0d6d09/pr_source.png/316x0w.png'> <img height='300' alt='Blahker image 2' src='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/f9/23/44/f9234464-ba35-362f-a75f-e79ada4aa93e/pr_source.png/316x0w.png'> <img height='300' alt='Blahker image 3' src='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/c1/04/11/c1041198-8aed-e23c-61fa-04ff8b7b38ae/pr_source.png/316x0w.png'> 
@@ -3667,7 +3667,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 
-- LobsterApp: Browse the https://lobste.rs/ community news site  
+- LobsterApp: Browse the https://lobste.rs/index.php community news site  
   <details><summary><code>objc</code> </summary>
 
   https://github.com/rhysforyou/LobsterApp<br>  Added July 21, 2016<br>  License: `other`
