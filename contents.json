@@ -10497,10 +10497,11 @@
       "description": "Safari content blocker for interstitial ads, mainly for websites in Taiwan",
       "license": "mit",
       "source": "https://github.com/ethanhuang13/blahker",
-      "itunes": "https://itunes.apple.com/tw/app/blahker-ba-la-ke-gai-ban-guang/id1182699267",
+      "itunes": "https://itunes.apple.com/app/blahker-ba-la-ke-gai-ban-guang/id1182699267",
       "date_added": "Apr 2 2018 +0800",
       "suggested_by": "@ethanhuang13",
-      "stars": 4.9,
+      "stars": 70,
+      "lang": "zho",
       "screenshots": [
         "https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/ca/75/fd/ca75fdfe-3952-e440-bca6-3fe9ce0d6d09/pr_source.png/316x0w.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/f9/23/44/f9234464-ba35-362f-a75f-e79ada4aa93e/pr_source.png/316x0w.png",
