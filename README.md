@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-795-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2031,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-795-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%201,%202018-lightgrey.svg)
 
 Jump to
 
@@ -891,7 +891,7 @@ Click ► to show more details
   </details>
 
 - Telegram: Send messages with a focus on speed & security [` App Store`](https://itunes.apple.com/app/telegram-messenger/id686449807)  
-  <details><summary><code>objc</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/peter-iakovlev/Telegram<br>  Added April  6, 2015<br>  License: `other`
   <div><img height='300' alt='Telegram image 1' src='http://a5.mzstatic.com/us/r30/Purple62/v4/d1/90/fd/d190fd61-005a-a5b7-0bf4-91b5c588b970/screen696x696.jpeg'> <img height='300' alt='Telegram image 2' src='http://a2.mzstatic.com/us/r30/Purple71/v4/95/f3/2e/95f32efb-5e42-841e-f142-b25b14f62f25/screen696x696.jpeg'> <img height='300' alt='Telegram image 3' src='http://a3.mzstatic.com/us/r30/Purple71/v4/ad/4c/76/ad4c768a-31c3-8fb2-daf4-effd9914e46c/screen696x696.jpeg'> <img height='300' alt='Telegram image 4' src='http://a2.mzstatic.com/us/r30/Purple71/v4/92/80/a3/9280a32a-66b6-15b9-b8fb-866ea1e13bfa/screen696x696.jpeg'> <img height='300' alt='Telegram image 5' src='http://a2.mzstatic.com/us/r30/Purple62/v4/be/00/19/be00193f-ee7e-9886-09d5-86ca9dfa2faf/screen696x696.jpeg'> 
@@ -899,7 +899,7 @@ Click ► to show more details
   </details>
 
 - Toshi: Private & secure messaging, Ethereum wallet and browser  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> 🔥</summary>
 
   https://github.com/toshiapp/toshi-ios-client<br>  Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Toshi image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/45/e5/da/45e5daf2-6dd5-ae2c-da9f-35f60f9cdaca/screen696x696.jpeg'> 
@@ -976,7 +976,7 @@ Click ► to show more details
   </details>
 
 - Charter: Mailing list app  
-  <details><summary><code>swift</code> <code>iphone</code> <code>ipad</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> <code>iphone</code> <code>ipad</code> 🔥🔥🔥</summary>
 
   https://github.com/matthewpalmer/Charter<br>  Added February 22, 2016<br>  License: `other`
   <div><img height='300' alt='Charter image 1' src='https://cdn-images-1.medium.com/max/800/1*3igvNkkU0qmS0lox6epnSQ.png'> 
@@ -1859,7 +1859,7 @@ Click ► to show more details
   </details>
 
 - Toshi: Private & secure messaging, Ethereum wallet and browser  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> 🔥</summary>
 
   https://github.com/toshiapp/toshi-ios-client<br>  Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Toshi image 1' src='http://a1.mzstatic.com/us/r30/Purple122/v4/45/e5/da/45e5daf2-6dd5-ae2c-da9f-35f60f9cdaca/screen696x696.jpeg'> 
@@ -2045,7 +2045,7 @@ Click ► to show more details
   </details>
 
 - DropColour: Drag & drop one circle onto another of the same color [` App Store`](https://itunes.apple.com/app/dropcolour/id1046339763)  
-  <details><summary><code>swift</code> <code>swift2.2</code> </summary>
+  <details><summary><code>swift</code> <code>swift2.2</code> 🔥</summary>
 
   https://github.com/elpassion/DropColour-iOS<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='DropColour image 1' src='http://a2.mzstatic.com/us/r30/Purple60/v4/7f/50/5a/7f505ad9-b065-e8e3-6fe2-6d8610c13fa7/screen696x696.jpeg'> 
@@ -2402,7 +2402,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 [back to top](#readme) 
  
 - Arex: Reminders for taking your medications  
-  <details><summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> </summary>
+  <details><summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> 🔥</summary>
 
   https://github.com/a2/arex<br>  Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -3562,7 +3562,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 
 - PixPic: Photo editing  
-  <details><summary><code>swift</code> 🔥🔥🔥</summary>
+  <details><summary><code>swift</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/Yalantis/PixPic<br>  Added July 29, 2016<br>  License: `other`
   <div><img height='300' alt='PixPic image 1' src='https://i.imgur.com/c8ahfkv.png'> 
@@ -4010,7 +4010,7 @@ https://newsapi.org/ — [back to top](#readme)
 https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme) 
  
 - Arex: Reminders for taking your medications  
-  <details><summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> </summary>
+  <details><summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> 🔥</summary>
 
   https://github.com/a2/arex<br>  Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -4308,7 +4308,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API [` App Store`](https://itunes.apple.com/app/layer-player/id949768742)  
-  <details><summary><code>swift</code> 🔥🔥🔥</summary>
+  <details><summary><code>swift</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/scotteg/LayerPlayer<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='LayerPlayer image 1' src='http://a2.mzstatic.com/us/r30/Purple6/v4/07/32/b6/0732b62f-2f8d-6f35-0126-40c32cb5d86f/screen696x696.jpeg'> <img height='300' alt='LayerPlayer image 2' src='http://a5.mzstatic.com/us/r30/Purple69/v4/bf/ca/f9/bfcaf936-e812-ca87-9e46-374c9e6a32f0/screen696x696.jpeg'> <img height='300' alt='LayerPlayer image 3' src='http://a3.mzstatic.com/us/r30/Purple6/v4/a9/aa/5b/a9aa5bc4-0587-c433-055c-2b98786185a5/screen696x696.jpeg'> <img height='300' alt='LayerPlayer image 4' src='http://a1.mzstatic.com/us/r30/Purple22/v4/f7/aa/7d/f7aa7d2b-8ad1-9d85-8592-c82c51309655/screen696x696.jpeg'> <img height='300' alt='LayerPlayer image 5' src='http://a3.mzstatic.com/us/r30/Purple69/v4/6e/c1/a5/6ec1a500-8d0b-ea2e-ee71-9647ba736685/screen696x696.jpeg'> 
@@ -4623,7 +4623,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - Minds: An encrypted social network  
-  <details><summary><code>angular</code> <code>cordova</code> 🔥</summary>
+  <details><summary><code>angular</code> <code>cordova</code> 🔥🔥</summary>
 
   https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
   <div><img height='300' alt='Minds image 1' src='http://a2.mzstatic.com/us/r30/Purple69/v4/88/d6/7e/88d67efd-b235-e4ac-fe33-0f9c6a48717d/screen696x696.jpeg'> <img height='300' alt='Minds image 2' src='http://a4.mzstatic.com/us/r30/Purple7/v4/cd/91/fb/cd91fbc1-927a-68dc-0d06-6abd52627ff0/screen696x696.jpeg'> <img height='300' alt='Minds image 3' src='http://a3.mzstatic.com/us/r30/Purple2/v4/55/27/2c/55272c66-e389-5b0c-ceab-9165d3b4a9ec/screen696x696.jpeg'> <img height='300' alt='Minds image 4' src='http://a1.mzstatic.com/us/r30/Purple49/v4/ce/78/dc/ce78dc5a-2c47-0c12-309c-a821bbb8e4f3/screen696x696.jpeg'> 
@@ -5263,7 +5263,7 @@ https://mastodon.social — [back to top](#readme)
   </details>
 
 - SUSI AI: Your Artificial Intelligence for Personal Assistants, Robots, Help Desks and Chatbots.  
-  <details><summary><code>swift</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
   https://github.com/fossasia/susi_iOS<br>  https://chat.susi.ai/overview<br>  Added March  5, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='SUSI AI image 1' src='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen1.png'> <img height='300' alt='SUSI AI image 2' src='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen2.png'> <img height='300' alt='SUSI AI image 3' src='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen5.png'> 
@@ -5473,7 +5473,7 @@ https://firebase.google.com/ — [back to top](#readme)
   </details>
 
 - Quickstart Samples  
-  <details><summary><code>objc</code> 🔥🔥🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/firebase/quickstart-ios<br>  Added May 17, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -5500,7 +5500,7 @@ https://firebase.google.com/ — [back to top](#readme)
 http://ionicframework.com/ — [back to top](#readme) 
  
 - Minds: An encrypted social network  
-  <details><summary><code>angular</code> <code>cordova</code> 🔥</summary>
+  <details><summary><code>angular</code> <code>cordova</code> 🔥🔥</summary>
 
   https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
   <div><img height='300' alt='Minds image 1' src='http://a2.mzstatic.com/us/r30/Purple69/v4/88/d6/7e/88d67efd-b235-e4ac-fe33-0f9c6a48717d/screen696x696.jpeg'> <img height='300' alt='Minds image 2' src='http://a4.mzstatic.com/us/r30/Purple7/v4/cd/91/fb/cd91fbc1-927a-68dc-0d06-6abd52627ff0/screen696x696.jpeg'> <img height='300' alt='Minds image 3' src='http://a3.mzstatic.com/us/r30/Purple2/v4/55/27/2c/55272c66-e389-5b0c-ceab-9165d3b4a9ec/screen696x696.jpeg'> <img height='300' alt='Minds image 4' src='http://a1.mzstatic.com/us/r30/Purple49/v4/ce/78/dc/ce78dc5a-2c47-0c12-309c-a821bbb8e4f3/screen696x696.jpeg'> 
@@ -5832,7 +5832,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   </details>
 
 - Tinder clone  
-  <details><summary><code>react-native</code> 🔥🔥</summary>
+  <details><summary><code>react-native</code> 🔥🔥🔥</summary>
 
   https://github.com/VctrySam/Tinder<br>  Added August 14, 2016<br>  License: `other`
   <div><img height='300' alt='Tinder clone image 1' src='https://i.imgur.com/I7d06Pq.png'> 
