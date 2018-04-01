@@ -15985,6 +15985,30 @@
       ],
       "date_added": "Mar 31 2018",
       "suggested_by": "@vermont42"
+    },
+    {
+      "title": "Nextcloud",
+      "category-ids": [
+        "files",
+        "official"
+      ],
+      "description": "A safe home for all your data",
+      "homepage": "https://nextcloud.com",
+      "itunes": "https://itunes.apple.com/app/nextcloud/id1125420102",
+      "source": "https://github.com/nextcloud/ios",
+      "license": "gpl-3.0",
+      "stars": 222,
+      "tags": [
+        "objective-c"
+      ],
+      "screenshots": [
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/f9/87/cb/f987cbdd-1382-b745-1eff-85cf980e673f/pr_source.jpg/460x0w.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/a2/44/89/a2448912-df4f-ac28-a30d-82a9699a9fe4/mzl.bdctkilq.jpg/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/ba/7c/25ba7cc2-f9b4-518c-e201-c03bcceffbe1/mzl.fxvipxna.jpg/460x0w.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/8a/dc/14/8adc144f-e5bc-512e-6f1b-5583dd7bb014/mzl.uymqtwli.jpg/460x0w.jpg"
+      ],
+      "date_added": "Apr 2 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
