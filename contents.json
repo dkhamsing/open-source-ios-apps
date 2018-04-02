@@ -13077,13 +13077,13 @@
       "stars": 36
     },
     {
-      "title": “Awesome ML”,
-      "category-ids": [“developer"],
+      "title": "Awesome ML",
+      "category-ids": ["developer"],
       "description": "Discover, download, compile & launch different image processing CoreML models on iOS.",
       "source": "https://github.com/eugenebokhan/Awesome-ML",
       "screenshots": ["https://github.com/eugenebokhan/Awesome-ML/raw/master/Media/App-Demo-Transparent-Background.gif"],
-      "date_added": “April 2 2018”,
-      "suggested_by": “@eugenebokhan”
+      "date_added": "April 2 2018",
+      "suggested_by": "@eugenebokhan"
       "stars": 2
 },
     {
