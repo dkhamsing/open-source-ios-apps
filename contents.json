@@ -13077,6 +13077,18 @@
       "stars": 36
     },
     {
+      "title": "Awesome ML",
+      "category-ids": ["developer"],
+      "description": "Discover, download, compile & launch different image processing CoreML models",
+      "source": "https://github.com/eugenebokhan/Awesome-ML",
+      "license": "bsd-3-clause",
+      "tags": ["swift"],
+      "screenshots": ["https://github.com/eugenebokhan/Awesome-ML/raw/master/Media/App-Demo-Transparent-Background.gif"],
+      "date_added": "Apr 2 2018",
+      "suggested_by": "@eugenebokhan",
+      "stars": 3
+    },
+    {
       "title": "Terrarium",
       "description": "UI prototyping for coders",
       "source": "https://github.com/penk/terrarium-app",
