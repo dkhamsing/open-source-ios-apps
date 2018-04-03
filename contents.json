@@ -10624,7 +10624,8 @@
         "browser"
       ],
       "tags": [
-        "tor"
+        "tor",
+        "objc"
       ],
       "description": "A beautiful Tor browser to protect your anonymity",
       "source": "https://github.com/JRock007/Tob",
