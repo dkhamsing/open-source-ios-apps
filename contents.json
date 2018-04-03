@@ -16045,6 +16045,32 @@
       ],
       "date_added": "Apr 2 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Padlock",
+      "category-ids": [
+        "password"
+      ],
+      "description": "A minimalist open source password manager",
+      "homepage": "https://padlock.io/",
+      "itunes": "https://itunes.apple.com/app/id871710139",
+      "source": "https://github.com/MaKleSoft/padlock",
+      "license": "gpl-3.0",
+      "stars": 625,
+      "tags": [
+        "javascript",
+        "cordova",
+        "iphone",
+        "ipad"
+      ],
+      "screenshots": [
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/af/bd/5d/afbd5d00-6c4d-8edf-ff9b-552df523d573/mzl.fszireix.png/460x0w.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/6d/82/e2/6d82e289-2522-38f2-9473-65f41700ba12/mzl.xvlxfqzn.png/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c4/f8/9c/c4f89c59-827f-3b1f-c426-3964c52ab4ac/mzl.pdmecikv.png/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/5a/9e/18/5a9e1873-9ac8-80d7-0fc9-64d3ad8784e8/mzl.zwomnhtr.png/460x0w.jpg"
+      ],
+      "date_added": "Apr 4 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
