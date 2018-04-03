@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-798-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%202,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-799-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%203,%202018-lightgrey.svg)
 
 Jump to
 
@@ -956,6 +956,14 @@ Click ► to show more details
 
   https://github.com/snowpunch/AppLove<br>  Added May  7, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div>
+</div>
+  </details>
+
+- Awesome ML: Discover, download, compile & launch different image processing CoreML models  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/eugenebokhan/Awesome-ML<br>  Added April  2, 2018<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  <div><img height='300' alt='Awesome ML image 1' src='https://github.com/eugenebokhan/Awesome-ML/raw/master/Media/App-Demo-Transparent-Background.gif'> 
 </div>
   </details>
 
