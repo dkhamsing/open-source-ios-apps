@@ -8880,7 +8880,7 @@
       ],
       "description": "A simple to-do manager designed for composite tasks",
       "source": "https://sourceforge.net/projects/taskcoach/",
-      "homepage": "http://taskcoach.org/",
+      "homepage": "http://www.taskcoach.org/",
       "itunes": "https://itunes.apple.com/app/task-coach/id311403563",
       "license": "gpl-3.0",
       "date_added": "Tue May 31 23:13:24 2016 -0600",
@@ -10848,7 +10848,7 @@
       "screenshots": [
         "https://i.imgur.com/WF6eY71.png"
       ],
-      "description": "Browse the https://lobste.rs/index.php community news site",
+      "description": "Browse the https://lobste.rs community news site",
       "source": "https://github.com/rhysforyou/LobsterApp",
       "license": "other",
       "date_added": "Thu Jul 21 07:33:15 2016 -0700",
