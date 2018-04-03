@@ -2159,7 +2159,7 @@ https://mastodon.social — [back to top](#readme)
 - Task Coach: A simple to-do manager designed for composite tasks [` App Store`](https://itunes.apple.com/app/task-coach/id311403563)  
   <details><summary><code>objc</code> </summary>
 
-  https://sourceforge.net/projects/taskcoach/<br>  http://taskcoach.org/<br>  Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://sourceforge.net/projects/taskcoach/<br>  http://www.taskcoach.org/<br>  Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Task Coach image 1' src='http://a4.mzstatic.com/us/r30/Purple6/v4/91/19/de/9119debe-4936-ac90-6fa0-6cd9bd92fd1e/screen696x696.jpeg'> <img height='300' alt='Task Coach image 2' src='http://a4.mzstatic.com/us/r30/Purple4/v4/52/9b/45/529b453d-1cae-0720-1d9e-ef336c760f4f/screen696x696.jpeg'> <img height='300' alt='Task Coach image 3' src='http://a4.mzstatic.com/us/r30/Purple6/v4/d5/f0/a8/d5f0a87a-3772-0e79-2709-6d5ecdf6d5d2/screen696x696.jpeg'> <img height='300' alt='Task Coach image 4' src='http://a3.mzstatic.com/us/r30/Purple/v4/8c/8d/7b/8c8d7b2c-5739-cf8f-a3ab-d7b2c5a492b1/screen696x696.jpeg'> <img height='300' alt='Task Coach image 5' src='http://a2.mzstatic.com/us/r30/Purple6/v4/fe/9b/1e/fe9b1e76-6717-7223-6944-c5587c834b18/screen696x696.jpeg'> 
 </div>
   </details>
