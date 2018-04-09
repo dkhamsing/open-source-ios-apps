@@ -16084,6 +16084,26 @@
       "screenshots": ["https://camo.githubusercontent.com/121a7a6f92afdb73e4b7cc203147fe667b4b119c/68747470733a2f2f692e696d6775722e636f6d2f644a67323154462e706e67"],
       "date_added": "Apr 8 2018",
       "suggested_by": "@Aecasorg"
+    },
+    {
+      "title": "Ciao",
+      "category-ids": [
+        "misc"
+      ],
+      "description": "A game to learn new languages for people who respond well to repetition. Including Italian, French, Chinese, German, Polish, Portuguese, Russian & Spanish",
+      "source": "https://github.com/clintonwoo/ciao",
+      "license": "apache-2.0",
+      "stars": 4,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/clintonwoo/ciao/master/images/Menu_App_Preview_640x1096.png",
+        "https://raw.githubusercontent.com/clintonwoo/ciao/master/images/App_Preview_640x1096.png",
+        "https://raw.githubusercontent.com/clintonwoo/ciao/master/images/Language_App_Preview_640x1096.png"
+      ],
+      "date_added": "Apr 9 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
