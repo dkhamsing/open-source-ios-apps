@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-801-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%208,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-802-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%209,%202018-lightgrey.svg)
 
 Jump to
 
@@ -5203,6 +5203,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/aharren/CardDecks<br>  Added April 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='CardDecks image 1' src='https://i.imgur.com/h2ybAgQ.png'> 
+</div>
+  </details>
+
+- Ciao: A game to learn new languages for people who respond well to repetition. Including Italian, French, Chinese, German, Polish, Portuguese, Russian & Spanish  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/clintonwoo/ciao<br>  Added April  9, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='Ciao image 1' src='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/Menu_App_Preview_640x1096.png'> <img height='300' alt='Ciao image 2' src='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/App_Preview_640x1096.png'> <img height='300' alt='Ciao image 3' src='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/Language_App_Preview_640x1096.png'> 
 </div>
   </details>
 
