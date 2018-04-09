@@ -354,7 +354,7 @@ Click ► to show more details
   </details>
 
 - Parties for WWDC  
-  <details><summary><code>cloudkit</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> <code>cloudkit</code> 🔥🔥</summary>
 
   https://github.com/genadyo/WWDC<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Parties for WWDC image 1' src='http://a3.mzstatic.com/us/r30/Purple20/v4/5f/9e/6a/5f9e6a9a-db21-1e8a-c45a-aef6ba65956b/screen696x696.jpeg'> <img height='300' alt='Parties for WWDC image 2' src='http://a3.mzstatic.com/us/r30/Purple30/v4/7e/6f/12/7e6f12a7-8d4b-0416-4d7a-f4745a2d7538/screen696x696.jpeg'> <img height='300' alt='Parties for WWDC image 3' src='http://a3.mzstatic.com/us/r30/Purple60/v4/4c/0f/cf/4c0fcf21-8713-0d61-c0df-0dafdbe525e8/screen696x696.jpeg'> <img height='300' alt='Parties for WWDC image 4' src='http://a5.mzstatic.com/us/r30/Purple30/v4/c0/21/e4/c021e48b-fa87-a873-1c8b-95e58aba71e7/screen696x696.jpeg'> <img height='300' alt='Parties for WWDC image 5' src='http://a3.mzstatic.com/us/r30/Purple18/v4/e0/69/9c/e0699c09-6cb4-c1a5-4fa1-9cd7117eaa86/screen696x696.jpeg'> 
@@ -463,7 +463,7 @@ Click ► to show more details
   </details>
 
 - Onion Browser: A Tor-powered web browser that improves your privacy [` App Store`](https://itunes.apple.com/app/id519296448)  
-  <details><summary><code>tor</code> 🔥🔥🔥</summary>
+  <details><summary><code>objc</code> <code>tor</code> 🔥🔥🔥</summary>
 
   https://github.com/mtigas/OnionBrowser<br>  https://onionbrowser.com<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Onion Browser image 1' src='http://a4.mzstatic.com/us/r30/Purple42/v4/7c/3c/cc/7c3ccc4e-77c8-799a-9058-4b8672c71a08/screen696x696.jpeg'> 
@@ -479,7 +479,7 @@ Click ► to show more details
   </details>
 
 - Tob: A beautiful Tor browser to protect your anonymity [` App Store`](https://itunes.apple.com/app/id1063151782)  
-  <details><summary><code>tor</code> <code>objc</code> </summary>
+  <details><summary><code>objc</code> <code>tor</code> </summary>
 
   https://github.com/JRock007/Tob<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Tob image 1' src='http://a3.mzstatic.com/us/r30/Purple20/v4/cb/fa/27/cbfa272c-7787-ed8a-3fc4-dc6926f3932e/screen696x696.jpeg'> <img height='300' alt='Tob image 2' src='http://a5.mzstatic.com/us/r30/Purple60/v4/36/1c/99/361c9989-1abe-90e1-c1b6-b6cfebaeda56/screen696x696.jpeg'> <img height='300' alt='Tob image 3' src='http://a3.mzstatic.com/us/r30/Purple30/v4/9c/c6/87/9cc68726-80a3-1289-0848-de0b745a31aa/screen696x696.jpeg'> <img height='300' alt='Tob image 4' src='http://a1.mzstatic.com/us/r30/Purple20/v4/b5/22/48/b52248a7-2d0b-7f68-3985-cbac5d7bcd3e/screen696x696.jpeg'> 
@@ -739,7 +739,7 @@ Click ► to show more details
   </details>
 
 - AppRTC: A native video chat app  
-  <details><summary><code>webrtc</code> <code>google</code> 🔥🔥🔥</summary>
+  <details><summary><code>objc</code> <code>webrtc</code> <code>google</code> 🔥🔥🔥</summary>
 
   https://github.com/ISBX/apprtc-ios<br>  Added September  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   <div><img height='300' alt='AppRTC image 1' src='https://github.com/ISBX/apprtc-ios/raw/master/screenshots/screenshots.jpg'> 
@@ -747,7 +747,7 @@ Click ► to show more details
   </details>
 
 - BLEMeshChat: Chat using Bluetooth 4.0 Low Energy API (Bluetooth LE)  
-  <details><summary><code>yapdatabase</code> <code>purelayout</code> <code>mantle</code> <code>bluetooth</code> 🔥🔥</summary>
+  <details><summary><code>objc</code> <code>yapdatabase</code> <code>purelayout</code> <code>mantle</code> <code>bluetooth</code> 🔥🔥</summary>
 
   https://github.com/chrisballinger/BLEMeshChat<br>  Added January 11, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   <div><img height='300' alt='BLEMeshChat image 1' src='https://camo.githubusercontent.com/71c9718ca94505f7135024802d145148e90ae605/68747470733a2f2f692e696d6775722e636f6d2f7a386c4564504d6d2e706e67'> 
@@ -763,7 +763,7 @@ Click ► to show more details
   </details>
 
 - ChatSecure: Send messages with OTR encryption [` App Store`](https://itunes.apple.com/app/chatsecure-encrypted-messenger/id464200063)  
-  <details><summary><code>xmpp</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>objc</code> <code>xmpp</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/ChatSecure/ChatSecure-iOS<br>  Added March 26, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='ChatSecure image 1' src='http://a4.mzstatic.com/us/r30/Purple5/v4/bf/67/25/bf672587-f1ff-3ea8-6ba2-d2b51007cfd7/screen696x696.jpeg'> <img height='300' alt='ChatSecure image 2' src='http://a3.mzstatic.com/us/r30/Purple7/v4/9c/45/6e/9c456e12-a029-b900-3f74-a84e313932bd/screen696x696.jpeg'> <img height='300' alt='ChatSecure image 3' src='http://a4.mzstatic.com/us/r30/Purple7/v4/2f/ea/0e/2fea0ee9-ea64-a2eb-6546-5f0fd0a2f577/screen696x696.jpeg'> <img height='300' alt='ChatSecure image 4' src='http://a4.mzstatic.com/us/r30/Purple7/v4/4e/d7/91/4ed791e3-0915-64a3-6aea-64f4319019ab/screen696x696.jpeg'> 
@@ -771,7 +771,7 @@ Click ► to show more details
   </details>
 
 - Chaty: Anonymous messaging with real time data sync  
-  <details><summary><code>firebase</code> <code>websocket</code> <code>nosql</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> <code>firebase</code> <code>websocket</code> <code>nosql</code> 🔥🔥</summary>
 
   https://github.com/LunarFlash/Chaty<br>  Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Chaty image 1' src='https://github.com/LunarFlash/Chaty/raw/master/ChatChat/screen1.png'> 
@@ -787,7 +787,7 @@ Click ► to show more details
   </details>
 
 - IRCCloud: IRC client/service [` App Store`](https://itunes.apple.com/app/irccloud/id672699103)  
-  <details><summary><code>fastlane</code> 🔥🔥</summary>
+  <details><summary><code>objc</code> <code>fastlane</code> 🔥🔥</summary>
 
   https://github.com/irccloud/ios<br>  Added January 29, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='IRCCloud image 1' src='http://a2.mzstatic.com/us/r30/Purple20/v4/f5/c3/f3/f5c3f37e-17b6-e613-aff3-7d66b31a34b0/screen696x696.jpeg'> <img height='300' alt='IRCCloud image 2' src='http://a2.mzstatic.com/us/r30/Purple60/v4/87/49/ae/8749ae35-924b-5354-12f7-698113ad3fe4/screen696x696.jpeg'> <img height='300' alt='IRCCloud image 3' src='http://a2.mzstatic.com/us/r30/Purple30/v4/83/3a/02/833a024e-5d9e-4802-2c33-212662d4600c/screen696x696.jpeg'> <img height='300' alt='IRCCloud image 4' src='http://a3.mzstatic.com/us/r30/Purple18/v4/11/d2/0b/11d20b28-5f21-5718-298f-61a2af7b97e8/screen696x696.jpeg'> 
@@ -811,7 +811,7 @@ Click ► to show more details
   </details>
 
 - Messenger: Audio/video calls, realtime chat & full offline support  
-  <details><summary><code>firebase</code> <code>onesignal</code> <code>realm</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>objc</code> <code>firebase</code> <code>onesignal</code> <code>realm</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/relatedcode/Messenger<br>  Added July 19, 2017<br>  License: `other`
   <div><img height='300' alt='Messenger image 1' src='http://relatedcode.com/screen/chat01.png'> <img height='300' alt='Messenger image 2' src='http://relatedcode.com/screen/call1.png'> 
@@ -819,7 +819,7 @@ Click ► to show more details
   </details>
 
 - Monal: Connect to your chat server without having to give a third party access to your password or messages [` App Store`](https://itunes.apple.com/app/monal-free-xmpp-chat/id317711500)  
-  <details><summary><code>xmpp</code> 🔥</summary>
+  <details><summary><code>objc</code> <code>xmpp</code> 🔥</summary>
 
   https://github.com/anurodhp/Monal<br>  Added November  7, 2016<br>  License: `other`
   <div><img height='300' alt='Monal image 1' src='http://a3.mzstatic.com/us/r30/Purple69/v4/ca/27/98/ca279896-a860-e33f-ef2c-cfdc1c62dbdc/screen696x696.jpeg'> <img height='300' alt='Monal image 2' src='http://a5.mzstatic.com/us/r30/Purple49/v4/24/53/b6/2453b64c-0c67-1e71-86f8-d96482ae992a/screen696x696.jpeg'> <img height='300' alt='Monal image 3' src='http://a2.mzstatic.com/us/r30/Purple69/v4/b2/e8/b2/b2e8b2f2-160e-19d2-1e38-94c9ab629b78/screen696x696.jpeg'> <img height='300' alt='Monal image 4' src='http://a4.mzstatic.com/us/r30/Purple69/v4/68/4c/ec/684cecd3-4d00-b658-9395-57ea1dafef47/screen696x696.jpeg'> <img height='300' alt='Monal image 5' src='http://a3.mzstatic.com/us/r30/Purple69/v4/c4/58/60/c458604e-d368-eb11-c315-7631bece7485/screen696x696.jpeg'> 
@@ -827,7 +827,7 @@ Click ► to show more details
   </details>
 
 - Mumble: Gaming-focused social voice chat utility [` App Store`](https://itunes.apple.com/app/mumble/id443472808)  
-  <details><summary><code>fmdb</code> 🔥</summary>
+  <details><summary><code>objc</code> <code>fmdb</code> 🔥</summary>
 
   https://github.com/mumble-voip/mumble-iphoneos<br>  Added September 10, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   <div><img height='300' alt='Mumble image 1' src='http://a3.mzstatic.com/us/r30/Purple19/v4/cd/72/30/cd723067-64a5-ba1c-bacf-7d3ac967fcf6/screen696x696.jpeg'> <img height='300' alt='Mumble image 2' src='http://a1.mzstatic.com/us/r30/Purple71/v4/85/8f/07/858f0765-90e5-7924-a856-c69debad6822/screen696x696.jpeg'> <img height='300' alt='Mumble image 3' src='http://a1.mzstatic.com/us/r30/Purple19/v4/ac/a7/5c/aca75cef-caa0-417e-9542-6e819ad02c2b/screen696x696.jpeg'> <img height='300' alt='Mumble image 4' src='http://a4.mzstatic.com/us/r30/Purple71/v4/41/1a/5b/411a5be1-031f-ff95-b981-f93da80c0f9c/screen696x696.jpeg'> 
@@ -851,7 +851,7 @@ Click ► to show more details
   </details>
 
 - Riot: Collaboration for teams, chat & share with https://matrix.org/blog/home/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
-  <details><summary><code>webrtc</code> <code>realm</code> 🔥🔥</summary>
+  <details><summary><code>objc</code> <code>webrtc</code> <code>realm</code> 🔥🔥</summary>
 
   https://github.com/vector-im/riot-ios<br>  https://matrix.org/blog/home/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Riot image 1' src='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'> 
@@ -867,7 +867,7 @@ Click ► to show more details
   </details>
 
 - Signal: Free, world-wide, private messaging & phone calls [` App Store`](https://itunes.apple.com/app/id874139669)  
-  <details><summary><code>iphone</code> <code>carthage</code> <code>socketrocket</code> <code>purelayout</code> <code>openssl</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>objc</code> <code>iphone</code> <code>carthage</code> <code>socketrocket</code> <code>purelayout</code> <code>openssl</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/signalapp/Signal-iOS<br>  Added February 27, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Signal image 1' src='http://a1.mzstatic.com/us/r30/Purple30/v4/54/bb/ac/54bbacd8-9a2d-4317-0cdf-ed35aff86770/screen696x696.jpeg'> <img height='300' alt='Signal image 2' src='http://a5.mzstatic.com/us/r30/Purple30/v4/77/21/be/7721be1e-3df8-15cd-ee6e-9549a24106c5/screen696x696.jpeg'> <img height='300' alt='Signal image 3' src='http://a3.mzstatic.com/us/r30/Purple18/v4/89/9a/c9/899ac960-f241-d65b-0041-9351f6eabda3/screen696x696.jpeg'> <img height='300' alt='Signal image 4' src='http://a2.mzstatic.com/us/r30/Purple20/v4/ee/bc/c0/eebcc086-5ddf-8073-af83-ac2709cb6b3d/screen696x696.jpeg'> 
@@ -907,7 +907,7 @@ Click ► to show more details
   </details>
 
 - TrollDrop: Send trollfaces to everyone  
-  <details><summary><code>airdrop</code> </summary>
+  <details><summary><code>objc</code> <code>airdrop</code> </summary>
 
   https://github.com/a2/TrollDrop<br>  Added May  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='TrollDrop image 1' src='https://i.imgur.com/gb1G8di.png'> 
@@ -968,7 +968,7 @@ Click ► to show more details
   </details>
 
 - Blink: Mobile shell terminal based on Mosh [` App Store`](https://itunes.apple.com/app/id1156707581)  
-  <details><summary><code>uickeychainstore</code> <code>passcodelock</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>objc</code> <code>uickeychainstore</code> <code>passcodelock</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/blinksh/blink<br>  Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Blink image 1' src='http://a3.mzstatic.com/us/r30/Purple71/v4/a4/c1/40/a4c1408f-f463-823e-7bb3-fd21b8ccc770/screen696x696.jpeg'> <img height='300' alt='Blink image 2' src='http://a5.mzstatic.com/us/r30/Purple71/v4/32/7f/26/327f2687-8f48-cad8-f1d6-bddb50e64353/screen696x696.jpeg'> <img height='300' alt='Blink image 3' src='http://a3.mzstatic.com/us/r30/Purple62/v4/c0/d2/d8/c0d2d869-6136-2969-8310-d72781769b39/screen696x696.jpeg'> <img height='300' alt='Blink image 4' src='http://a5.mzstatic.com/us/r30/Purple62/v4/b3/7d/9b/b37d9b69-7242-44fb-2059-8fb1e42663e8/screen696x696.jpeg'> 
@@ -1016,7 +1016,7 @@ Click ► to show more details
   </details>
 
 - Codinator: Code editor  
-  <details><summary><code>iphone</code> <code>ipad</code> </summary>
+  <details><summary><code>objc</code> <code>iphone</code> <code>ipad</code> </summary>
 
   https://github.com/DanilaVladi/codinator<br>  Added April 11, 2016<br>  License: `other`
   <div><img height='300' alt='Codinator image 1' src='http://a1.mzstatic.com/us/r30/Purple20/v4/a6/14/16/a61416a0-e5cb-1166-0358-c680f2f2f42e/screen696x696.jpeg'> <img height='300' alt='Codinator image 2' src='http://a2.mzstatic.com/us/r30/Purple60/v4/bc/e1/11/bce111fb-5d80-a414-fc6d-6117ecc6bc5d/screen696x696.jpeg'> <img height='300' alt='Codinator image 3' src='http://a5.mzstatic.com/us/r30/Purple60/v4/c0/b8/6a/c0b86aa4-1d6e-1e86-6871-c975daa505da/screen696x696.jpeg'> <img height='300' alt='Codinator image 4' src='http://a5.mzstatic.com/us/r30/Purple18/v4/24/5f/b2/245fb21c-e2e1-7c71-4d62-7cfa8134b7ea/screen696x696.jpeg'> <img height='300' alt='Codinator image 5' src='http://a4.mzstatic.com/us/r30/Purple60/v4/b2/86/1a/b2861a3d-ec5d-5888-7331-c73d5c5c2859/screen696x696.jpeg'> 
@@ -1024,7 +1024,7 @@ Click ► to show more details
   </details>
 
 - Dash: Instant offline access to 150+ API documentation sets [` App Store`](https://itunes.apple.com/app/dash-offline-api-docs/id1239167694)  
-  <details><summary><code>iphone</code> <code>ipad</code> <code>kissxml</code> <code>dznemptydataset</code> <code>dtbonjour</code> <code>samkeychain</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>objc</code> <code>iphone</code> <code>ipad</code> <code>kissxml</code> <code>dznemptydataset</code> <code>dtbonjour</code> <code>samkeychain</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/Kapeli/Dash-iOS<br>  https://kapeli.com/dash_ios<br>  Added November 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Dash image 1' src='https://kapeli.com/img/dash_ios-s1.png'> <img height='300' alt='Dash image 2' src='https://kapeli.com/img/dash_ios-s2.png'> 
@@ -1120,7 +1120,7 @@ Click ► to show more details
   </details>
 
 - NWPusher: Play with the Apple Push Notification service  
-  <details><summary><code>apns</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>objc</code> <code>apns</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/noodlewerk/NWPusher<br>  Added November 28, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
   <div><img height='300' alt='NWPusher image 1' src='https://github.com/noodlewerk/NWPusher/raw/master/Docs/osx2.png'> <img height='300' alt='NWPusher image 2' src='https://github.com/noodlewerk/NWPusher/raw/master/Docs/ios.png'> 
@@ -1299,7 +1299,7 @@ Click ► to show more details
   </details>
 
 - MrCode: GitHub app that can cache Markdown content  
-  <details><summary><code>iphone</code> 🇨🇳 🔥🔥</summary>
+  <details><summary><code>objc</code> <code>iphone</code> 🇨🇳 🔥🔥</summary>
 
   https://github.com/haolloyin/MrCode<br>  Added November  5, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='MrCode image 1' src='https://raw.githubusercontent.com/haolloyin/MrCode/master/Screenshots/screenshots_1.jpg'> 
@@ -1323,7 +1323,7 @@ Click ► to show more details
   </details>
 
 - RKGist: GitHub Gists  
-  <details><summary><code>restkit</code> </summary>
+  <details><summary><code>objc</code> <code>restkit</code> </summary>
 
   https://github.com/RestKit/RKGist<br>  Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='RKGist image 1' src='https://i.imgur.com/3yKeZP7.png'> <img height='300' alt='RKGist image 2' src='https://i.imgur.com/cPwvXZa.png'> 
@@ -1546,7 +1546,7 @@ Click ► to show more details
   </details>
 
 - Parties for WWDC  
-  <details><summary><code>cloudkit</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> <code>cloudkit</code> 🔥🔥</summary>
 
   https://github.com/genadyo/WWDC<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Parties for WWDC image 1' src='http://a3.mzstatic.com/us/r30/Purple20/v4/5f/9e/6a/5f9e6a9a-db21-1e8a-c45a-aef6ba65956b/screen696x696.jpeg'> <img height='300' alt='Parties for WWDC image 2' src='http://a3.mzstatic.com/us/r30/Purple30/v4/7e/6f/12/7e6f12a7-8d4b-0416-4d7a-f4745a2d7538/screen696x696.jpeg'> <img height='300' alt='Parties for WWDC image 3' src='http://a3.mzstatic.com/us/r30/Purple60/v4/4c/0f/cf/4c0fcf21-8713-0d61-c0df-0dafdbe525e8/screen696x696.jpeg'> <img height='300' alt='Parties for WWDC image 4' src='http://a5.mzstatic.com/us/r30/Purple30/v4/c0/21/e4/c021e48b-fa87-a873-1c8b-95e58aba71e7/screen696x696.jpeg'> <img height='300' alt='Parties for WWDC image 5' src='http://a3.mzstatic.com/us/r30/Purple18/v4/e0/69/9c/e0699c09-6cb4-c1a5-4fa1-9cd7117eaa86/screen696x696.jpeg'> 
@@ -1705,7 +1705,7 @@ Click ► to show more details
   </details>
 
 - OpenIt: Launch other apps  
-  <details><summary>🔥</summary>
+  <details><summary><code>objc</code> 🔥</summary>
 
   https://github.com/BalestraPatrick/OpenIt<br>  Added June  7, 2016<br>  License: `other`
   <div><img height='300' alt='OpenIt image 1' src='https://github.com/BalestraPatrick/OpenIt/raw/master/OpenItDemo.gif'> 
@@ -1843,7 +1843,7 @@ Click ► to show more details
   </details>
 
 - Neverlate: Pay-if-U-R-late app with geofences  
-  <details><summary><code>venmo api</code> </summary>
+  <details><summary><code>objc</code> <code>venmo api</code> </summary>
 
   https://github.com/ayunav/Neverlate<br>  Added May 27, 2016<br>  License: `other`
   <div><img height='300' alt='Neverlate image 1' src='https://github.com/ayunav/Neverlate/raw/master/NeverlateDemo.gif'> 
@@ -2125,7 +2125,7 @@ Click ► to show more details
   </details>
 
 - Game of War clone: 4x strategy game  
-  <details><summary><code>helpshift</code> <code>ssziparchive</code> </summary>
+  <details><summary><code>objc</code> <code>helpshift</code> <code>ssziparchive</code> </summary>
 
   https://github.com/shankqr/4xMobileGame<br>  Added July  5, 2017<br>  License: `other`
   <div><img height='300' alt='Game of War clone image 1' src='https://user-images.githubusercontent.com/3216424/27571005-10f73774-5b35-11e7-9a84-c0b720280fc1.jpeg'> 
@@ -2133,7 +2133,7 @@ Click ► to show more details
   </details>
 
 - Green Mahjong: Solitaire mahjong [` App Store`](https://itunes.apple.com/app/id933634500)  
-  <details><summary><code>netbeans</code> </summary>
+  <details><summary><code>javascript</code> <code>netbeans</code> </summary>
 
   https://github.com/danbeck/green-mahjong<br>  Added October 27, 2016<br>  License: `other`
   <div><img height='300' alt='Green Mahjong image 1' src='http://a1.mzstatic.com/us/r30/Purple3/v4/0e/08/99/0e0899aa-4685-d52e-1bea-1586e7531ac4/screen696x696.jpeg'> <img height='300' alt='Green Mahjong image 2' src='http://a2.mzstatic.com/us/r30/Purple3/v4/58/d2/aa/58d2aab2-e9f9-919d-6856-a94ddb296bdb/screen696x696.jpeg'> <img height='300' alt='Green Mahjong image 3' src='http://a2.mzstatic.com/us/r30/Purple1/v4/0e/94/aa/0e94aaa8-43fb-8e0b-0238-5acf559da6c0/screen696x696.jpeg'> <img height='300' alt='Green Mahjong image 4' src='http://a3.mzstatic.com/us/r30/Purple1/v4/7d/9e/b2/7d9eb29e-a89d-04f6-a323-8d17839e11df/screen696x696.jpeg'> <img height='300' alt='Green Mahjong image 5' src='http://a3.mzstatic.com/us/r30/Purple3/v4/4e/dc/41/4edc41ac-ccd3-ce53-2318-a984ee69b3b6/screen696x696.jpeg'> 
@@ -2197,7 +2197,7 @@ Click ► to show more details
   </details>
 
 - MUDRammer: MUD app (Multi-User Dungeon) [` App Store`](https://itunes.apple.com/app/mudrammer-a-modern-mud-client/id597157072)  
-  <details><summary><code>iphone</code> <code>ipad</code> </summary>
+  <details><summary><code>objc</code> <code>iphone</code> <code>ipad</code> </summary>
 
   https://github.com/splinesoft/MUDRammer<br>  Added June 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='MUDRammer image 1' src='http://a2.mzstatic.com/us/r30/Purple4/v4/88/e8/ec/88e8ec63-a6a8-9dfe-ade2-d4e9666ee9e9/screen696x696.jpeg'> <img height='300' alt='MUDRammer image 2' src='http://a4.mzstatic.com/us/r30/Purple1/v4/44/b7/ca/44b7ca02-aab1-314e-4fd8-01f588ef6b85/screen696x696.jpeg'> <img height='300' alt='MUDRammer image 3' src='http://a1.mzstatic.com/us/r30/Purple4/v4/27/22/46/2722468d-705c-dc8c-08dc-79d801e492f1/screen696x696.jpeg'> <img height='300' alt='MUDRammer image 4' src='http://a5.mzstatic.com/us/r30/Purple4/v4/29/fc/5f/29fc5f66-2e80-f455-61d7-08c5acd56046/screen696x696.jpeg'> <img height='300' alt='MUDRammer image 5' src='http://a1.mzstatic.com/us/r30/Purple1/v4/aa/94/19/aa9419d0-2742-e741-e3af-215aaa567aaa/screen696x696.jpeg'> <img height='300' alt='MUDRammer image 6' src='http://a4.mzstatic.com/us/r30/Purple1/v4/c6/bc/0d/c6bc0d7c-a61d-e2cd-7274-b7b94ff38cee/screen696x696.jpeg'> 
@@ -2253,7 +2253,7 @@ Click ► to show more details
   </details>
 
 - SaveTheDot: Escape from the squares  
-  <details><summary><code>uiviewpropertyanimator</code> 🔥🔥🔥</summary>
+  <details><summary><code>swift</code> <code>uiviewpropertyanimator</code> 🔥🔥🔥</summary>
 
   https://github.com/JakeLin/SaveTheDot<br>  Added June 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='SaveTheDot image 1' src='https://cloud.githubusercontent.com/assets/573856/16248754/90150c2a-3854-11e6-9ee1-c2e4f228a9b6.gif'> 
@@ -2782,7 +2782,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   </details>
 
 - Neverlate: Pay-if-U-R-late app with geofences  
-  <details><summary><code>venmo api</code> </summary>
+  <details><summary><code>objc</code> <code>venmo api</code> </summary>
 
   https://github.com/ayunav/Neverlate<br>  Added May 27, 2016<br>  License: `other`
   <div><img height='300' alt='Neverlate image 1' src='https://github.com/ayunav/Neverlate/raw/master/NeverlateDemo.gif'> 
@@ -3242,7 +3242,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://itunes.apple.com/app/id1092988367)  
-  <details><summary><code>viper</code> </summary>
+  <details><summary><code>swift</code> <code>viper</code> </summary>
 
   https://github.com/ryanipete/AmericanChronicle<br>  http://ryanipete.com/AmericanChronicle/<br>  Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='American Chronicle image 1' src='http://a5.mzstatic.com/us/r30/Purple60/v4/1e/82/3b/1e823b8a-d10c-2085-2063-1d18ba68ce2e/screen696x696.jpeg'> 
@@ -4388,7 +4388,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - RKGist: GitHub Gists  
-  <details><summary><code>restkit</code> </summary>
+  <details><summary><code>objc</code> <code>restkit</code> </summary>
 
   https://github.com/RestKit/RKGist<br>  Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='RKGist image 1' src='https://i.imgur.com/3yKeZP7.png'> <img height='300' alt='RKGist image 2' src='https://i.imgur.com/cPwvXZa.png'> 
@@ -5473,7 +5473,7 @@ https://firebase.google.com/ — [back to top](#readme)
   </details>
 
 - Chaty: Anonymous messaging with real time data sync  
-  <details><summary><code>firebase</code> <code>websocket</code> <code>nosql</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> <code>firebase</code> <code>websocket</code> <code>nosql</code> 🔥🔥</summary>
 
   https://github.com/LunarFlash/Chaty<br>  Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Chaty image 1' src='https://github.com/LunarFlash/Chaty/raw/master/ChatChat/screen1.png'> 
@@ -5505,7 +5505,7 @@ https://firebase.google.com/ — [back to top](#readme)
   </details>
 
 - Messenger: Audio/video calls, realtime chat & full offline support  
-  <details><summary><code>firebase</code> <code>onesignal</code> <code>realm</code> 🔥🔥🔥🔥🔥</summary>
+  <details><summary><code>objc</code> <code>firebase</code> <code>onesignal</code> <code>realm</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/relatedcode/Messenger<br>  Added July 19, 2017<br>  License: `other`
   <div><img height='300' alt='Messenger image 1' src='http://relatedcode.com/screen/chat01.png'> <img height='300' alt='Messenger image 2' src='http://relatedcode.com/screen/call1.png'> 
@@ -6041,7 +6041,7 @@ https://realm.io/ — [back to top](#readme)
   </details>
 
 - Riot: Collaboration for teams, chat & share with https://matrix.org/blog/home/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
-  <details><summary><code>webrtc</code> <code>realm</code> 🔥🔥</summary>
+  <details><summary><code>objc</code> <code>webrtc</code> <code>realm</code> 🔥🔥</summary>
 
   https://github.com/vector-im/riot-ios<br>  https://matrix.org/blog/home/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Riot image 1' src='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'> 
@@ -6078,7 +6078,7 @@ https://realm.io/ — [back to top](#readme)
 https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture-framework — [back to top](#readme) 
  
 - American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://itunes.apple.com/app/id1092988367)  
-  <details><summary><code>viper</code> </summary>
+  <details><summary><code>swift</code> <code>viper</code> </summary>
 
   https://github.com/ryanipete/AmericanChronicle<br>  http://ryanipete.com/AmericanChronicle/<br>  Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='American Chronicle image 1' src='http://a5.mzstatic.com/us/r30/Purple60/v4/1e/82/3b/1e823b8a-d10c-2085-2063-1d18ba68ce2e/screen696x696.jpeg'> 
