@@ -906,6 +906,7 @@
         "event"
       ],
       "tags": [
+        "swift",
         "cloudkit"
       ],
       "source": "https://github.com/genadyo/WWDC",
@@ -1243,6 +1244,7 @@
         "communication"
       ],
       "tags": [
+        "objc",
         "yapdatabase",
         "purelayout",
         "mantle",
@@ -1344,6 +1346,7 @@
         "communication"
       ],
       "tags": [
+        "objc",
         "xmpp"
       ],
       "description": "Send messages with OTR encryption",
@@ -1389,6 +1392,7 @@
         "communication"
       ],
       "tags": [
+        "objc",
         "fastlane"
       ],
       "description": "IRC client/service",
@@ -1429,6 +1433,7 @@
         "communication"
       ],
       "tags": [
+        "objc",
         "fmdb"
       ],
       "description": "Gaming-focused social voice chat utility",
@@ -1474,6 +1479,7 @@
         "communication"
       ],
       "tags": [
+        "objc",
         "iphone",
         "carthage",
         "socketrocket",
@@ -1794,6 +1800,7 @@
         "developer"
       ],
       "tags": [
+        "objc",
         "iphone",
         "ipad"
       ],
@@ -1933,6 +1940,7 @@
         "github"
       ],
       "tags": [
+        "objc",
         "iphone"
       ],
       "screenshots": [
@@ -2598,6 +2606,7 @@
         "game"
       ],
       "tags": [
+        "objc",
         "iphone",
         "ipad"
       ],
@@ -5170,6 +5179,7 @@
         "github"
       ],
       "tags": [
+        "objc",
         "restkit"
       ],
       "screenshots": [
@@ -6570,6 +6580,7 @@
         "communication"
       ],
       "tags": [
+        "objc",
         "airdrop"
       ],
       "screenshots": [
@@ -8700,6 +8711,7 @@
         "communication"
       ],
       "tags": [
+        "swift",
         "firebase",
         "websocket",
         "nosql"
@@ -8758,6 +8770,7 @@
         "location"
       ],
       "tags": [
+        "objc",
         "venmo api"
       ],
       "description": "Pay-if-U-R-late app with geofences",
@@ -9744,6 +9757,7 @@
         "browser"
       ],
       "tags": [
+        "objc",
         "tor"
       ],
       "description": "A Tor-powered web browser that improves your privacy",
@@ -9972,6 +9986,9 @@
       ],
       "description": "Launch other apps",
       "source": "https://github.com/BalestraPatrick/OpenIt",
+      "tags": [
+        "objc"
+      ],
       "license": "other",
       "stars": 109,
       "date_added": "Tue Jun 7 06:27:31 2016 -0700",
@@ -10189,6 +10206,7 @@
         "viper"
       ],
       "tags": [
+        "swift",
         "viper"
       ],
       "screenshots": [
@@ -10209,6 +10227,7 @@
         "game"
       ],
       "tags": [
+        "swift",
         "uiviewpropertyanimator"
       ],
       "description": "Escape from the squares",
@@ -10558,6 +10577,7 @@
         "developer"
       ],
       "tags": [
+        "objc",
         "uickeychainstore",
         "passcodelock"
       ],
@@ -10624,8 +10644,8 @@
         "browser"
       ],
       "tags": [
-        "tor",
-        "objc"
+        "objc",
+        "tor"
       ],
       "description": "A beautiful Tor browser to protect your anonymity",
       "source": "https://github.com/JRock007/Tob",
@@ -10862,6 +10882,7 @@
         "realm"
       ],
       "tags": [
+        "objc",
         "webrtc",
         "realm"
       ],
@@ -11468,6 +11489,7 @@
         "communication"
       ],
       "tags": [
+        "objc",
         "webrtc",
         "google"
       ],
@@ -11981,6 +12003,7 @@
       "source": "https://github.com/danbeck/green-mahjong",
       "itunes": "https://itunes.apple.com/app/id933634500",
       "tags": [
+        "javascript",
         "netbeans"
       ],
       "screenshots": [
@@ -12168,6 +12191,7 @@
         "communication"
       ],
       "tags": [
+        "objc",
         "xmpp"
       ],
       "screenshots": [
@@ -12310,6 +12334,7 @@
         "developer"
       ],
       "tags": [
+        "objc",
         "iphone",
         "ipad",
         "kissxml",
@@ -12428,6 +12453,7 @@
         "https://github.com/noodlewerk/NWPusher/raw/master/Docs/ios.png"
       ],
       "tags": [
+        "objc",
         "apns"
       ],
       "source": "https://github.com/noodlewerk/NWPusher",
@@ -14419,6 +14445,7 @@
         "game"
       ],
       "tags": [
+        "objc",
         "helpshift",
         "ssziparchive"
       ],
@@ -14609,6 +14636,7 @@
         "firebase"
       ],
       "tags": [
+        "objc",
         "firebase",
         "onesignal",
         "realm"
