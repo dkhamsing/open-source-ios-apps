@@ -139,6 +139,7 @@
 						"title": "Project Tags",
 						"description": "A place to put any metadata for a project. The items can be any type.",
 						"type": "array",
+						"minItems": 1,
 						"default": []
 					},
 					"suggested_by": {

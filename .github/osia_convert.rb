@@ -88,11 +88,7 @@ def output_apps(apps, appstoreonly)
 
     o <<  "  <details><summary>"
 
-    details = if tags.nil?
-      '<code>objc</code> '
-    else
-      ''
-    end
+    details = ''
 
     unless tags.nil?
       details << '<code>swift</code> ' if tags.include? 'swift'
