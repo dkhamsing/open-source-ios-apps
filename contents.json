@@ -14016,9 +14016,9 @@
         "rxswift", 
         "social"
       ],
-      "description": "An Unsplash app for iOS.",
+      "description": "An unofficial client for https://unsplash.com",
       "source": "https://github.com/jdisho/Papr",
-      "license": "Apache",
+      "license": "apache-2.0",
       "stars": 226,     
       "tags": ["swift"],
       "screenshots": [
