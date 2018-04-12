@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-802-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%209,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-803-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2012,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1132,6 +1132,14 @@ Click ► to show more details
 
   https://github.com/louisdh/terminal<br>  Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='OpenTerm image 1' src='http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg'> 
+</div>
+  </details>
+
+- Papr: An unofficial client for https://unsplash.com  
+  <details><summary><code>swift</code> 🔥🔥</summary>
+
+  https://github.com/jdisho/Papr<br>  Added April 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='Papr image 1' src='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'> <img height='300' alt='Papr image 2' src='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'> 
 </div>
   </details>
 
@@ -4044,6 +4052,14 @@ https://newsapi.org/ — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Papr: An unofficial client for https://unsplash.com  
+  <details><summary><code>swift</code> 🔥🔥</summary>
+
+  https://github.com/jdisho/Papr<br>  Added April 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='Papr image 1' src='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'> <img height='300' alt='Papr image 2' src='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'> 
+</div>
+  </details>
+
 - Siesta GitHub Browser: Browse & star GitHub repositories  
   <details><summary><code>swift</code> <code>rest</code> 🔥🔥🔥</summary>
 
@@ -4185,6 +4201,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/artsy/eidolon<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Kiosk image 1' src='http://artsy.github.io/images/2014-11-12-eidolon-retrospective/listings.png'> 
+</div>
+  </details>
+
+- Papr: An unofficial client for https://unsplash.com  
+  <details><summary><code>swift</code> 🔥🔥</summary>
+
+  https://github.com/jdisho/Papr<br>  Added April 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='Papr image 1' src='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'> <img height='300' alt='Papr image 2' src='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'> 
 </div>
   </details>
 
@@ -4683,6 +4707,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/Minds/mobile<br>  https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
   <div><img height='300' alt='Minds image 1' src='http://a2.mzstatic.com/us/r30/Purple69/v4/88/d6/7e/88d67efd-b235-e4ac-fe33-0f9c6a48717d/screen696x696.jpeg'> <img height='300' alt='Minds image 2' src='http://a4.mzstatic.com/us/r30/Purple7/v4/cd/91/fb/cd91fbc1-927a-68dc-0d06-6abd52627ff0/screen696x696.jpeg'> <img height='300' alt='Minds image 3' src='http://a3.mzstatic.com/us/r30/Purple2/v4/55/27/2c/55272c66-e389-5b0c-ceab-9165d3b4a9ec/screen696x696.jpeg'> <img height='300' alt='Minds image 4' src='http://a1.mzstatic.com/us/r30/Purple49/v4/ce/78/dc/ce78dc5a-2c47-0c12-309c-a821bbb8e4f3/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Papr: An unofficial client for https://unsplash.com  
+  <details><summary><code>swift</code> 🔥🔥</summary>
+
+  https://github.com/jdisho/Papr<br>  Added April 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='Papr image 1' src='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'> <img height='300' alt='Papr image 2' src='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'> 
 </div>
   </details>
 
