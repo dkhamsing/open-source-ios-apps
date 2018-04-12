@@ -14009,6 +14009,26 @@
       "stars": 9
     },
     {
+      "title": "Papr",
+      "category-ids": [
+        "developer", 
+        "reactive-programming", 
+        "rxswift", 
+        "social"
+      ],
+      "description": "An unofficial client for https://unsplash.com",
+      "source": "https://github.com/jdisho/Papr",
+      "license": "apache-2.0",
+      "stars": 226,     
+      "tags": ["swift"],
+      "screenshots": [
+        "https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png",
+        "https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png"
+       ],
+      "date_added": "April 12 2018",
+      "suggested_by": "@jdisho"
+    },
+    {
       "title": "MechaHamster",
       "source": "https://github.com/google/mechahamster",
       "description": "Roll through customizable environments that you can share with friends",
