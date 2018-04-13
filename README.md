@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-803-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2012,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-803-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2013,%202018-lightgrey.svg)
 
 Jump to
 
@@ -518,7 +518,7 @@ Click ► to show more details
 - Free42: A re-implementation of the HP-42S Calculator & the HP-82240 printer [` App Store`](https://itunes.apple.com/app/id337692629)  
   <details><summary><code>objc</code> </summary>
 
-  http://thomasokken.com/free42/download/free42.tgz<br>  http://thomasokken.com/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  http://thomasokken.nl/free42/download/free42.tgz<br>  http://thomasokken.nl/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='Free42 image 1' src='http://a1.mzstatic.com/us/r30/Purple3/v4/a4/bd/1e/a4bd1e5c-a158-7669-76c9-915c3b41ecec/screen568x568.jpeg'> 
 </div>
   </details>
@@ -2873,7 +2873,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   <details><summary><code>swift</code> <code>realm</code> </summary>
 
   https://github.com/keitaito/RealmSantaTracker<br>  Added May 16, 2017<br>  License: `other`
-  <div><img height='300' alt='Santa Tracker image 1' src='http://images.contentful.com/emmiduwd41v7/1TmcZsJy7Si4qCYm24aAse/158d511e7e58461d64cf902fb5a26d32/santa-app-final.png'> 
+  <div><img height='300' alt='Santa Tracker image 1' src='https://images.ctfassets.net/emmiduwd41v7/1TmcZsJy7Si4qCYm24aAse/158d511e7e58461d64cf902fb5a26d32/santa-app-final.png'> 
 </div>
   </details>
 
@@ -5133,7 +5133,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> <code>dark sky api (forecast api)</code> 🔥🔥🔥</summary>
 
   https://github.com/Aaron-A/Project-RainMan<br>  Added April 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='RainMan image 1' src='http://s10.postimg.org/yxy033a6h/Project_Ran_Main_Background.png'> 
+  <div><img height='300' alt='RainMan image 1' src='https://camo.githubusercontent.com/7ebcddf23366d36c0283af08a7032fc0f1cf5a6f/687474703a2f2f7331302e706f7374696d672e6f72672f7978793033336136682f50726f6a6563745f52616e5f4d61696e5f4261636b67726f756e642e706e67'> 
 </div>
   </details>
 
@@ -6084,7 +6084,7 @@ https://realm.io/ — [back to top](#readme)
   <details><summary><code>swift</code> <code>realm</code> </summary>
 
   https://github.com/keitaito/RealmSantaTracker<br>  Added May 16, 2017<br>  License: `other`
-  <div><img height='300' alt='Santa Tracker image 1' src='http://images.contentful.com/emmiduwd41v7/1TmcZsJy7Si4qCYm24aAse/158d511e7e58461d64cf902fb5a26d32/santa-app-final.png'> 
+  <div><img height='300' alt='Santa Tracker image 1' src='https://images.ctfassets.net/emmiduwd41v7/1TmcZsJy7Si4qCYm24aAse/158d511e7e58461d64cf902fb5a26d32/santa-app-final.png'> 
 </div>
   </details>
 
