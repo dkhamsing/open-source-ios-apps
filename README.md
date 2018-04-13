@@ -3305,7 +3305,7 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- Homepok: Catalog of Ukrainian vehicle plates [` App Store`](https://itunes.apple.com/app/id1105827929)  
+- Homepok: Catalog of Ukrainian vehicle plates  
   <details><summary><code>swift</code> 🇷🇺 </summary>
 
   https://github.com/iAlexander/Homepok<br>  Added November 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
