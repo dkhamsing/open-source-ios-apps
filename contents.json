@@ -5693,7 +5693,7 @@
         "dark sky api (forecast api)"
       ],
       "screenshots": [
-        "http://s10.postimg.org/yxy033a6h/Project_Ran_Main_Background.png"
+        "https://camo.githubusercontent.com/7ebcddf23366d36c0283af08a7032fc0f1cf5a6f/687474703a2f2f7331302e706f7374696d672e6f72672f7978793033336136682f50726f6a6563745f52616e5f4d61696e5f4261636b67726f756e642e706e67"
       ],
       "license": "mit",
       "date_added": "Sun Apr 26 10:35:46 2015 +0800",
@@ -9853,8 +9853,8 @@
         "http://a1.mzstatic.com/us/r30/Purple3/v4/a4/bd/1e/a4bd1e5c-a158-7669-76c9-915c3b41ecec/screen568x568.jpeg"
       ],
       "description": "A re-implementation of the HP-42S Calculator & the HP-82240 printer",
-      "source": "http://thomasokken.com/free42/download/free42.tgz",
-      "homepage": "http://thomasokken.com/free42/",
+      "source": "http://thomasokken.nl/free42/download/free42.tgz",
+      "homepage": "http://thomasokken.nl/free42/",
       "itunes": "https://itunes.apple.com/app/id337692629",
       "license": "gpl-2.0",
       "date_added": "Thu Jun 2 01:07:19 2016 -0600",
@@ -13950,7 +13950,7 @@
         "realm"
       ],
       "screenshots": [
-        "http://images.contentful.com/emmiduwd41v7/1TmcZsJy7Si4qCYm24aAse/158d511e7e58461d64cf902fb5a26d32/santa-app-final.png"
+        "https://images.ctfassets.net/emmiduwd41v7/1TmcZsJy7Si4qCYm24aAse/158d511e7e58461d64cf902fb5a26d32/santa-app-final.png"
       ],
       "date_added": "May 16 2017",
       "suggested_by": "@dkhamsing",
@@ -14011,15 +14011,15 @@
     {
       "title": "Papr",
       "category-ids": [
-        "developer", 
-        "reactive-programming", 
-        "rxswift", 
+        "developer",
+        "reactive-programming",
+        "rxswift",
         "social"
       ],
       "description": "An unofficial client for https://unsplash.com",
       "source": "https://github.com/jdisho/Papr",
       "license": "apache-2.0",
-      "stars": 226,     
+      "stars": 226,
       "tags": ["swift"],
       "screenshots": [
         "https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png",
