@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **229** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1526,14 +1526,6 @@ Image, video, audio, reading — [back to top](#readme)
 
   https://github.com/matteocrippa/awesome-swift-ios<br>  Added June 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Awesome Swift iOS App image 1' src='http://a3.mzstatic.com/us/r30/Purple1/v4/95/16/1a/95161a0b-1f38-d1e3-d535-bab4fdc95cb8/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 2' src='http://a4.mzstatic.com/us/r30/Purple1/v4/de/40/91/de4091f4-de82-f018-03b1-67224139f3df/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 3' src='http://a2.mzstatic.com/us/r30/Purple1/v4/f3/26/ae/f326aee3-af48-fc10-746e-898072b7d931/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 4' src='http://a2.mzstatic.com/us/r30/Purple4/v4/65/33/cf/6533cfdf-3c11-91ad-86c3-707dfdd42e5b/screen696x696.jpeg'> <img height='300' alt='Awesome Swift iOS App image 5' src='http://a5.mzstatic.com/us/r30/Purple49/v4/54/3b/9e/543b9e97-0797-8058-5cbb-e430d6dc605b/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Homepok: Catalog of Ukrainian vehicle plates [` App Store`](https://itunes.apple.com/app/id1105827929)  
-  <details><summary><code>swift</code> 🇷🇺 </summary>
-
-  https://github.com/iAlexander/Homepok<br>  Added November 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Homepok image 1' src='https://raw.githubusercontent.com/iAlexander/Homepok/master/Screenshots.jpg'> 
 </div>
   </details>
 
