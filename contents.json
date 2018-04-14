@@ -16173,6 +16173,22 @@
       ],
       "date_added": "Apr 14 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Local Storage",
+      "category-ids": [
+        "files"
+      ],
+      "description": "Save files on your device, visualize storage use, unzip, hash",
+      "source": "https://github.com/geberl/swift-localstorage",
+      "itunes": "https://itunes.apple.com/app/id1339306324",
+      "screenshots": ["https://i.imgur.com/t0okveQ.png"],
+      "license": "gpl-3.0",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Apr 14 2018",
+      "suggested_by": "@geberl"
     }
   ]
 }
