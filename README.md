@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-805-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2014,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-805-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2015,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1960,7 +1960,7 @@ Click ► to show more details
   </details>
 
 - Trust: Ethereum Wallet and Web3 DApp Browser [` App Store`](https://itunes.apple.com/app/trust-ethereum-wallet/id1288339409)  
-  <details><summary><code>swift</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
   https://github.com/TrustWallet/trust-wallet-ios<br>  https://trustwalletapp.com<br>  Added March 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Trust image 1' src='https://uploads-ssl.webflow.com/5a88babea6e0f90001b39b0d/5aa0e8bcefcfd2000161d6eb_Main_Image-p-500.png'> 
@@ -2077,7 +2077,7 @@ Click ► to show more details
   </details>
 
 - DOOM Classic 2 [` App Store`](https://itunes.apple.com/app/doom-ii-rpg/id354051766)  
-  <details><summary><code>objc</code> 🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/id-Software/DOOM-IOS2<br>  Added May 19, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='DOOM Classic 2 image 1' src='http://a4.mzstatic.com/us/r30/Purple/v4/2a/60/50/2a6050d0-c040-3684-fb0f-1694fd1edde4/screen480x480.jpeg'> 
@@ -2277,7 +2277,7 @@ Click ► to show more details
   </details>
 
 - SHMUP: 3D multiplatform game written primarily in C [` App Store`](https://itunes.apple.com/app/shmup/id337663605)  
-  <details><summary><code>objc</code> 🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/fabiensanglard/Shmup<br>  http://fabiensanglard.net/shmup/<br>  Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='SHMUP image 1' src='http://a3.mzstatic.com/us/r30/Purple/v4/e2/ee/82/e2ee8263-7265-3376-ec94-604ab58e631a/screen320x480.jpeg'> 
@@ -4597,7 +4597,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - FreeOTP Authenticator: Two-Factor Authentication [` App Store`](https://itunes.apple.com/app/freeotp/id872559395)  
-  <details><summary><code>swift</code> <code>moa</code> </summary>
+  <details><summary><code>swift</code> <code>moa</code> 🔥</summary>
 
   https://github.com/freeotp/freeotp-ios<br>  Added March 11, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='FreeOTP Authenticator image 1' src='http://a4.mzstatic.com/us/r30/Purple5/v4/66/8b/9c/668b9cf1-3502-3683-7787-ef450ef90019/screen696x696.jpeg'> 
