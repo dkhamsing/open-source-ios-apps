@@ -16209,7 +16209,11 @@
     },
     {
       "title": "Queue'd Music",
-      "category-ids": ["audio"],
+      "category-ids": [
+        "media",
+        "audio",
+        "social"
+      ],
       "tags": ["swift"],
       "description": "A real-time, votable, democratized music queue on iPad and iPhone using Spotify",
       "license":"apache-2.0",
