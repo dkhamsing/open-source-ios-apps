@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-805-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2015,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-806-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2017,%202018-lightgrey.svg)
 
 Jump to
 
@@ -3082,6 +3082,14 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
+- Queue'd Music: A real-time, votable, democratized music queue on iPad and iPhone using Spotify  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/rldaulton/queued-music<br>  https://www.queuedapp.com<br>  Added April 17, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='Queue'd Music image 1' src='https://www.queuedapp.com/img/image-3.png'> <img height='300' alt='Queue'd Music image 2' src='https://www.queuedapp.com/img/image-2.png'> <img height='300' alt='Queue'd Music image 3' src='https://www.queuedapp.com/img/powerful.png'> 
+</div>
+  </details>
+
 - Screenshotter: Organize & manage screenshots [` App Store`](https://itunes.apple.com/app/screenshotter-organize-manage/id826596892)  
   <details><summary><code>iphone</code> </summary>
 
@@ -3217,6 +3225,14 @@ Image, video, audio, reading — [back to top](#readme)
 
   https://github.com/SpongeBobSun/Prodigal-iOS<br>  Added May  3, 2017<br>  License: `other`
   <div><img height='300' alt='Prodigal Music Player image 1' src='https://github.com/SpongeBobSun/Prodigal-iOS/raw/master/artworks/home.png'> 
+</div>
+  </details>
+
+- Queue'd Music: A real-time, votable, democratized music queue on iPad and iPhone using Spotify  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/rldaulton/queued-music<br>  https://www.queuedapp.com<br>  Added April 17, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='Queue'd Music image 1' src='https://www.queuedapp.com/img/image-3.png'> <img height='300' alt='Queue'd Music image 2' src='https://www.queuedapp.com/img/image-2.png'> <img height='300' alt='Queue'd Music image 3' src='https://www.queuedapp.com/img/powerful.png'> 
 </div>
   </details>
 
@@ -4747,6 +4763,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/surayashivji/PotterPics<br>  Added January 15, 2017
   <div><img height='300' alt='Potter Pics image 1' src='https://github.com/surayashivji/PotterPics/blob/master/Overview.gif'> 
+</div>
+  </details>
+
+- Queue'd Music: A real-time, votable, democratized music queue on iPad and iPhone using Spotify  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/rldaulton/queued-music<br>  https://www.queuedapp.com<br>  Added April 17, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  <div><img height='300' alt='Queue'd Music image 1' src='https://www.queuedapp.com/img/image-3.png'> <img height='300' alt='Queue'd Music image 2' src='https://www.queuedapp.com/img/image-2.png'> <img height='300' alt='Queue'd Music image 3' src='https://www.queuedapp.com/img/powerful.png'> 
 </div>
   </details>
 
