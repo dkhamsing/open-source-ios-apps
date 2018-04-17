@@ -16206,6 +16206,26 @@
       "date_added": "Apr 14 2018",
       "suggested_by": "@geberl",
       "stars": 1
+    },
+    {
+      "title": "Queue'd Music",
+      "category-ids": [
+        "media",
+        "audio",
+        "social"
+      ],
+      "tags": ["swift"],
+      "description": "A real-time, votable, democratized music queue on iPad and iPhone using Spotify",
+      "license":"apache-2.0",
+      "source": "https://github.com/rldaulton/queued-music",
+      "homepage": "https://www.queuedapp.com",
+      "screenshots": [
+        "https://www.queuedapp.com/img/image-3.png",
+        "https://www.queuedapp.com/img/image-2.png",
+        "https://www.queuedapp.com/img/powerful.png"
+      ],
+      "date_added": "Apr 17 2018",
+      "suggested_by": "@rldaulton"
     }
   ]
 }
