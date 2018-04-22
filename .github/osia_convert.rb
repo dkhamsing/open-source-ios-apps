@@ -213,6 +213,8 @@ def write_list(j, file, appstoreonly = false)
   cats = j['categories']
   apps = j['projects']
 
+  sponsor = j['sponsor']
+
   output = '# ' + t
   output << "\n\n"
   output << desc
@@ -220,6 +222,13 @@ def write_list(j, file, appstoreonly = false)
   if appstoreonly == false
     output << "\n\n#{subt}\n\n"
     output << output_badges(apps.count)
+
+    unless sponsor.length == 0
+      output << "\n\n"
+      output << sponsor
+      output << "\n"
+    end
+
   end
 
   output << "\n\nJump to\n\n"

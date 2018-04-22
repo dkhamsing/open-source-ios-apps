@@ -15,6 +15,9 @@
 		"header": {
 			"type": "string"
 		},
+		"sponsor": {
+			"type": "string"
+		},
 		"footer": {
 			"type": "string"
 		},
