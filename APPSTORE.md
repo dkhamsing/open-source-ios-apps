@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **231** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **232** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -504,6 +504,14 @@ Click ► to show more details
 
   https://github.com/ColdGrub1384/Pisth<br>  https://pisth.github.io<br>  Added January 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Pisth image 1' src='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/1.png'> <img height='300' alt='Pisth image 2' src='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/2.png'> <img height='300' alt='Pisth image 3' src='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/3.png'> <img height='300' alt='Pisth image 4' src='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/4.png'> 
+</div>
+  </details>
+
+- TLS Inspector: Free WiFi, Workplace Internet, and Computer Viruses can put your personal information at risk. With TLS Inspector you can verify the secure connection information of any website and ensure that your information is private. [` App Store`](https://itunes.apple.com/app/apple-store/id1100539810)  
+  <details><summary><code>c</code> <code>objc</code> <code>c++</code> 🔥🔥🔥🔥🔥</summary>
+
+  https://github.com/certificate-helper/tls-inspector<br>  Added May  5, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='TLS Inspector image 1' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/eb/03/2e/eb032e7d-9b04-0cea-89af-41478761d5b0/pr_source.png/316x0w.jpg'> <img height='300' alt='TLS Inspector image 2' src='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/de/e0/70/dee07035-182f-b5e1-9e48-38c5660dd760/pr_source.png/316x0w.jpg'> <img height='300' alt='TLS Inspector image 3' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/fe/8d/03/fe8d03fd-bdc7-dca5-ddd1-57de854e716e/pr_source.png/316x0w.jpg'> 
 </div>
   </details>
 
