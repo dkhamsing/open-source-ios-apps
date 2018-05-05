@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-806-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2022,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-807-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%205,%202018-lightgrey.svg)
 
 ## Supported with :heart: by [Instabug](https://try.instabug.com/ios/?utm_source=opensourceios&utm_medium=spon&utm_content=header) 
 [![react-native](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/ios/?utm_source=opensourceios&utm_medium=spon&utm_content=banner) 
@@ -1219,6 +1219,14 @@ Click ► to show more details
 
   https://github.com/freesuraj/TLDR<br>  Added May  3, 2016<br>  License: `other`
   <div>
+</div>
+  </details>
+
+- TLS Inspector: Free WiFi, Workplace Internet, and Computer Viruses can put your personal information at risk. With TLS Inspector you can verify the secure connection information of any website and ensure that your information is private. [` App Store`](https://itunes.apple.com/app/apple-store/id1100539810)  
+  <details><summary><code>c</code> <code>objc</code> <code>c++</code> 🔥🔥🔥🔥🔥</summary>
+
+  https://github.com/certificate-helper/tls-inspector<br>  Added May  5, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='TLS Inspector image 1' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/eb/03/2e/eb032e7d-9b04-0cea-89af-41478761d5b0/pr_source.png/316x0w.jpg'> <img height='300' alt='TLS Inspector image 2' src='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/de/e0/70/dee07035-182f-b5e1-9e48-38c5660dd760/pr_source.png/316x0w.jpg'> <img height='300' alt='TLS Inspector image 3' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/fe/8d/03/fe8d03fd-bdc7-dca5-ddd1-57de854e716e/pr_source.png/316x0w.jpg'> 
 </div>
   </details>
 
