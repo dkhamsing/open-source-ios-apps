@@ -6644,7 +6644,6 @@
       "description": "Learn kanji with https://www.wanikani.com/",
       "license": "gpl-3.0",
       "source": "https://github.com/haawa799/WaniKani-iOS",
-      "itunes": "https://itunes.apple.com/app/wanikani/id1034355141",
       "tags": [
         "swift"
       ],
@@ -14449,7 +14448,6 @@
       ],
       "description": "Keep track of economic information",
       "source": "https://github.com/viniciusvieir/EconoApp",
-      "itunes": "https://itunes.apple.com/app/econoapp/id1252140352",
       "screenshots": [
         "https://raw.githubusercontent.com/viniciusvieir/EconoApp/1da96afc7317c1096a6c9a45c7a06f9d72f431fb/Screenshot%20EN%201.jpg",
         "https://raw.githubusercontent.com/viniciusvieir/EconoApp/3520001bbbc88e6e2f15d6fc0ca7e6bcb0819364/Screenshot%20EN%202.jpg",
