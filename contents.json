@@ -16252,6 +16252,28 @@
       ]
     },
     {
+      "title": "Beam",
+      "category-ids": [
+        "social"
+      ],
+      "description": "Reddit client that's built to browse. It lets you enjoy all of Reddit's content in a unique and beautiful package.",
+      "license": "gpl-2.0",
+      "source": "https://github.com/awkward/beam",
+      "itunes": "https://itunes.apple.com/app/beam-for-reddit/id937987469",
+      "stars": 75,
+      "tags": [
+        "swift",
+        "objc"
+      ],
+      "date_added": "May 6 2018",
+      "suggested_by": "@murin-matus",
+      "screenshots": [
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/ab/1c/34/ab1c34ca-9913-ef85-ae35-10c2c7d3b7a6/mzl.gkpfevya.png/316x0w.jpg",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/79/57/eb795798-bba3-21d5-6070-d8f508af1be0/mzl.lbvrfpjf.png/316x0w.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/13/5d/53/135d536b-5ec2-a567-d72a-c5e6fb12f804/mzl.rzeufpyk.png/316x0w.jpg"
+      ]
+    },
+    {
       "title": "Adguard",
       "category-ids": [
         "content-blocking"
@@ -16270,7 +16292,7 @@
       "screenshots": [
         "https://user-images.githubusercontent.com/28860202/37027267-e9cf7534-2141-11e8-89fd-3fc99c3f2c86.png",
         "https://user-images.githubusercontent.com/28860202/37027271-ec5f5972-2141-11e8-884b-038d73fb68ae.png"
-      ] 
+      ]
     }
   ]
 }
