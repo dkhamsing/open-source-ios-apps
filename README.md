@@ -1137,7 +1137,7 @@ Click ► to show more details
 - OpenTerm: Sandboxed command line interface [` App Store`](https://itunes.apple.com/app/terminal/id1323205755)  
   <details><summary><code>swift</code> <code>panelkit</code> 🔥🔥🔥</summary>
 
-  https://github.com/louisdh/terminal<br>  Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/louisdh/openterm<br>  Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='OpenTerm image 1' src='http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg'> 
 </div>
   </details>
@@ -1422,7 +1422,7 @@ Click ► to show more details
 </div>
   </details>
 
-- WaniKani: Learn kanji with https://www.wanikani.com/ [` App Store`](https://itunes.apple.com/app/wanikani/id1034355141)  
+- WaniKani: Learn kanji with https://www.wanikani.com/  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/haawa799/WaniKani-iOS<br>  Added May  3, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
@@ -1849,7 +1849,7 @@ Click ► to show more details
 </div>
   </details>
 
-- EconoApp: Keep track of economic information [` App Store`](https://itunes.apple.com/app/econoapp/id1252140352)  
+- EconoApp: Keep track of economic information  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/viniciusvieir/EconoApp<br>  Added June 26, 2017
