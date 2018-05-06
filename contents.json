@@ -16250,6 +16250,27 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/de/e0/70/dee07035-182f-b5e1-9e48-38c5660dd760/pr_source.png/316x0w.jpg",
         "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/fe/8d/03/fe8d03fd-bdc7-dca5-ddd1-57de854e716e/pr_source.png/316x0w.jpg"
       ]
+    },
+    {
+      "title": "Adguard",
+      "category-ids": [
+        "content-blocking"
+      ],
+      "description": "Content blocker for Safari browser.",
+      "license": "gpl-3.0",
+      "source": "https://github.com/AdguardTeam/AdguardForiOS",
+      "itunes": "https://itunes.apple.com/app/adguard-adblock-privacy/id1047223162",
+      "stars": 236,
+      "tags": [
+        "objc",
+        "javascript"
+      ],
+      "date_added": "May 6 2018",
+      "suggested_by": "@murin-matus",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/28860202/37027267-e9cf7534-2141-11e8-89fd-3fc99c3f2c86.png",
+        "https://user-images.githubusercontent.com/28860202/37027271-ec5f5972-2141-11e8-884b-038d73fb68ae.png"
+      ] 
     }
   ]
 }
