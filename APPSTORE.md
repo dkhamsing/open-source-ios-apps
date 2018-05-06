@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **233** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **234** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -2154,6 +2154,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Beam: Reddit client that's built to browse. It lets you enjoy all of Reddit's content in a unique and beautiful package. [` App Store`](https://itunes.apple.com/app/beam-for-reddit/id937987469)  
+  <details><summary><code>swift</code> <code>objc</code> </summary>
+
+  https://github.com/awkward/beam<br>  Added May  6, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  <div><img height='300' alt='Beam image 1' src='https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/ab/1c/34/ab1c34ca-9913-ef85-ae35-10c2c7d3b7a6/mzl.gkpfevya.png/316x0w.jpg'> <img height='300' alt='Beam image 2' src='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/79/57/eb795798-bba3-21d5-6070-d8f508af1be0/mzl.lbvrfpjf.png/316x0w.jpg'> <img height='300' alt='Beam image 3' src='https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/13/5d/53/135d536b-5ec2-a567-d72a-c5e6fb12f804/mzl.rzeufpyk.png/316x0w.jpg'> 
+</div>
+  </details>
+
 - Ello: Ello is the Creators Network [` App Store`](https://itunes.apple.com/app/ello/id953614327)  
   <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
