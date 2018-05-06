@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **234** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **232** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -486,7 +486,7 @@ Click ► to show more details
 - OpenTerm: Sandboxed command line interface [` App Store`](https://itunes.apple.com/app/terminal/id1323205755)  
   <details><summary><code>swift</code> <code>panelkit</code> 🔥🔥🔥</summary>
 
-  https://github.com/louisdh/terminal<br>  Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/louisdh/openterm<br>  Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='OpenTerm image 1' src='http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg'> 
 </div>
   </details>
@@ -626,14 +626,6 @@ Click ► to show more details
 
   https://github.com/Flinesoft/Prayer<br>  Added April  3, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Prayer in English image 1' src='http://a2.mzstatic.com/us/r30/Purple122/v4/f0/3d/8e/f03d8e27-3e94-a07a-255c-2c56afdf9256/screen696x696.jpeg'> <img height='300' alt='Prayer in English image 2' src='http://a5.mzstatic.com/us/r30/Purple111/v4/fd/17/ca/fd17cab3-a3e2-165c-2b0e-d8ff8faeed13/screen696x696.jpeg'> <img height='300' alt='Prayer in English image 3' src='http://a1.mzstatic.com/us/r30/Purple111/v4/d1/d2/98/d1d29891-952b-88ad-e865-759ac918ec1f/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- WaniKani: Learn kanji with https://www.wanikani.com/ [` App Store`](https://itunes.apple.com/app/wanikani/id1034355141)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/haawa799/WaniKani-iOS<br>  Added May  3, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='WaniKani image 1' src='http://a3.mzstatic.com/us/r30/Purple49/v4/da/d8/8e/dad88eec-4269-1521-fb4e-78286ef6d949/screen696x696.jpeg'> <img height='300' alt='WaniKani image 2' src='http://a1.mzstatic.com/us/r30/Purple49/v4/e3/70/13/e37013b8-d618-1cfb-c84b-7a19bebabba6/screen696x696.jpeg'> <img height='300' alt='WaniKani image 3' src='http://a5.mzstatic.com/us/r30/Purple69/v4/63/55/69/63556904-f2dc-0c4a-8b7e-8feef7baf592/screen696x696.jpeg'> <img height='300' alt='WaniKani image 4' src='http://a1.mzstatic.com/us/r30/Purple49/v4/77/1d/b3/771db3a9-91d8-26fd-99fb-a86f61bc6b54/screen696x696.jpeg'> <img height='300' alt='WaniKani image 5' src='http://a2.mzstatic.com/us/r30/Purple49/v4/eb/ad/97/ebad97c8-c4d8-c0b3-0cde-c462f8a9441b/screen696x696.jpeg'> 
 </div>
   </details>
 
@@ -853,14 +845,6 @@ Click ► to show more details
 
   https://github.com/peritus/doughwallet<br>  Added July  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='doughwallet image 1' src='http://a3.mzstatic.com/us/r30/Purple1/v4/f7/97/46/f7974641-835a-3c11-fa55-0d08f429308c/screen696x696.jpeg'> <img height='300' alt='doughwallet image 2' src='http://a1.mzstatic.com/us/r30/Purple3/v4/ba/3d/89/ba3d89f9-98e5-2844-3de3-b4fd23b3fab0/screen696x696.jpeg'> <img height='300' alt='doughwallet image 3' src='http://a1.mzstatic.com/us/r30/Purple5/v4/8d/20/50/8d2050d0-751a-17fa-1e25-a77abaa68de8/screen696x696.jpeg'> <img height='300' alt='doughwallet image 4' src='http://a5.mzstatic.com/us/r30/Purple1/v4/a5/35/20/a53520fa-de31-3635-f319-c08956a5951c/screen696x696.jpeg'> <img height='300' alt='doughwallet image 5' src='http://a1.mzstatic.com/us/r30/Purple3/v4/ca/4f/9e/ca4f9e88-4e1e-e87e-42a0-26bfa586d8b3/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- EconoApp: Keep track of economic information [` App Store`](https://itunes.apple.com/app/econoapp/id1252140352)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/viniciusvieir/EconoApp<br>  Added June 26, 2017
-  <div><img height='300' alt='EconoApp image 1' src='https://raw.githubusercontent.com/viniciusvieir/EconoApp/1da96afc7317c1096a6c9a45c7a06f9d72f431fb/Screenshot%20EN%201.jpg'> <img height='300' alt='EconoApp image 2' src='https://raw.githubusercontent.com/viniciusvieir/EconoApp/3520001bbbc88e6e2f15d6fc0ca7e6bcb0819364/Screenshot%20EN%202.jpg'> <img height='300' alt='EconoApp image 3' src='https://raw.githubusercontent.com/viniciusvieir/EconoApp/2afa3886d92de25f87a272f18fd5725f875ed108/Screenshot%20EN%203.jpg'> 
 </div>
   </details>
 
