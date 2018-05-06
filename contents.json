@@ -15494,7 +15494,7 @@
     },
     {
       "title": "OpenTerm",
-      "source": "https://github.com/louisdh/terminal",
+      "source": "https://github.com/louisdh/openterm",
       "itunes": "https://itunes.apple.com/app/terminal/id1323205755",
       "description": "Sandboxed command line interface",
       "screenshots": [
