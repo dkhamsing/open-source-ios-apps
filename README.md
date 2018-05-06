@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-808-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%206,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-809-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%206,%202018-lightgrey.svg)
 
 ## Supported with :heart: by [Instabug](https://try.instabug.com/ios/?utm_source=opensourceios&utm_medium=spon&utm_content=header) 
 [![react-native](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/ios/?utm_source=opensourceios&utm_medium=spon&utm_content=banner) 
@@ -4738,6 +4738,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/opensourceios/Aozora<br>  Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div>
+</div>
+  </details>
+
+- Beam: Reddit client that's built to browse. It lets you enjoy all of Reddit's content in a unique and beautiful package. [` App Store`](https://itunes.apple.com/app/beam-for-reddit/id937987469)  
+  <details><summary><code>swift</code> <code>objc</code> </summary>
+
+  https://github.com/awkward/beam<br>  Added May  6, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  <div><img height='300' alt='Beam image 1' src='https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/ab/1c/34/ab1c34ca-9913-ef85-ae35-10c2c7d3b7a6/mzl.gkpfevya.png/316x0w.jpg'> <img height='300' alt='Beam image 2' src='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/79/57/eb795798-bba3-21d5-6070-d8f508af1be0/mzl.lbvrfpjf.png/316x0w.jpg'> <img height='300' alt='Beam image 3' src='https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/13/5d/53/135d536b-5ec2-a567-d72a-c5e6fb12f804/mzl.rzeufpyk.png/316x0w.jpg'> 
 </div>
   </details>
 
