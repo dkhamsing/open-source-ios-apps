@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **232** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **233** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1662,6 +1662,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/maurovc/ColorBlur<br>  Added March 16, 2015<br>  License: `other`
   <div><img height='300' alt='ColorBlur image 1' src='http://a5.mzstatic.com/us/r30/Purple3/v4/68/3f/1b/683f1b36-f274-e2f0-64a6-ae00aadca2ab/screen696x696.jpeg'> <img height='300' alt='ColorBlur image 2' src='http://a4.mzstatic.com/us/r30/Purple1/v4/bb/b9/f5/bbb9f50a-4358-a5d0-604f-29e29ed7677f/screen696x696.jpeg'> <img height='300' alt='ColorBlur image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/f9/8c/11/f98c116a-a49a-598e-e5d7-be0684c35bc5/screen696x696.jpeg'> <img height='300' alt='ColorBlur image 4' src='http://a5.mzstatic.com/us/r30/Purple1/v4/ff/6b/2c/ff6b2c22-68be-1f50-868a-e23ff8add3aa/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- MetaX: Check, edit and delete metadata of photos. [` App Store`](https://itunes.apple.com/app/metax/id1376589355)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/Ckitakishi/MetaX<br>  Added May  7, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='MetaX image 1' src='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPhone_en.png'> <img height='300' alt='MetaX image 2' src='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPad_en.png'> 
 </div>
   </details>
 
