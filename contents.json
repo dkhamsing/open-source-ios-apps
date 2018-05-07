@@ -16304,8 +16304,8 @@
       "source": "https://github.com/Ckitakishi/MetaX",
       "itunes": "https://itunes.apple.com/app/metax/id1376589355",
       "screenshots": [
-        "https://github.com/Ckitakishi/MetaX/blob/master/Screenshots/iPhone_en.png",
-        "https://github.com/Ckitakishi/MetaX/blob/master/Screenshots/iPad_en.png"
+        "https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPhone_en.png",
+        "https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPad_en.png"
       ],
       "license": "mit",
       "tags": [
