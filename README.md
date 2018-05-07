@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-809-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%206,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-810-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%207,%202018-lightgrey.svg)
 
 ## Supported with :heart: by [Instabug](https://try.instabug.com/ios/?utm_source=opensourceios&utm_medium=spon&utm_content=header) 
 [![react-native](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/ios/?utm_source=opensourceios&utm_medium=spon&utm_content=banner) 
@@ -3637,6 +3637,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/AaronRandall/Megabite<br>  Added February  2, 2016<br>  License: `other`
   <div><img height='300' alt='Megabite image 1' src='https://github.com/AaronRandall/Megabite/raw/master/Megabite/Assets.xcassets/Megabite.gif'> 
+</div>
+  </details>
+
+- MetaX: Check, edit and delete metadata of photos. [` App Store`](https://itunes.apple.com/app/metax/id1376589355)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/Ckitakishi/MetaX<br>  Added May  7, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='MetaX image 1' src='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPhone_en.png'> <img height='300' alt='MetaX image 2' src='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPad_en.png'> 
 </div>
   </details>
 
