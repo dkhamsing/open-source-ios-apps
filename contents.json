@@ -16294,6 +16294,25 @@
         "https://user-images.githubusercontent.com/28860202/37027267-e9cf7534-2141-11e8-89fd-3fc99c3f2c86.png",
         "https://user-images.githubusercontent.com/28860202/37027271-ec5f5972-2141-11e8-884b-038d73fb68ae.png"
       ]
+    },
+    {
+      "title": "MetaX",
+      "category-ids": [
+        "photo"
+      ],
+      "description": "Check, edit and delete metadata of photos.",
+      "source": "https://github.com/Ckitakishi/MetaX",
+      "itunes": "https://itunes.apple.com/app/metax/id1376589355",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPhone_en.png",
+        "https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPad_en.png"
+      ],
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "May 7 2018",
+      "suggested_by": "@Ckitakishi"
     }
   ]
 }
