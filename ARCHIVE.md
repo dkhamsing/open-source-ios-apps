@@ -109,6 +109,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - OnTime https://github.com/D-32/OnTime
 - OpenCB https://github.com/opensourceios/OpenCB
 - OpenClien https://github.com/kewlbear/OpenClien
+- Orbit7 https://github.com/Aaron-A/Orbit7
 - packlog https://github.com/jdg/packlog
 - Pancake https://github.com/Imaginea/pancake-ios
 - Parse 2013 Developer Day https://github.com/ParsePlatform/ParseDeveloperDay
@@ -129,6 +130,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Product Kitty https://github.com/rkho/product-kitty
 - ProMonster https://github.com/usemobile/promonster-ios
 - Pugs https://github.com/soffes/Pugs
+- RainMan https://github.com/Aaron-A/Project-RainMan
 - ReactiveHackerNews https://github.com/syshen/ReactiveHackerNews
 - ReactiveKitten https://github.com/JensRavens/ReactiveKitten
 - Reddit https://github.com/amitburst/reddit-demo
