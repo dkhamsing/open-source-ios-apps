@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-810-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%207,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-810-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%208,%202018-lightgrey.svg)
 
 ## Supported with :heart: by [Instabug](https://try.instabug.com/ios/?utm_source=opensourceios&utm_medium=spon&utm_content=header) 
 [![react-native](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/ios/?utm_source=opensourceios&utm_medium=spon&utm_content=banner) 
@@ -2424,14 +2424,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
   https://github.com/softdevstory/OhMyPlane<br>  Added April 19, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Oh My Plane image 1' src='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'> <img height='300' alt='Oh My Plane image 2' src='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'> 
-</div>
-  </details>
-
-- Orbit7  
-  <details><summary><code>swift</code> 🔥</summary>
-
-  https://github.com/Aaron-A/Orbit7<br>  Added April  2, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Orbit7 image 1' src='https://camo.githubusercontent.com/9c5aa602321121d160837fbe8c0af605196810b4/687474703a2f2f73382e706f7374696d672e6f72672f346c377575746f30352f4f72626974375f47616d652e676966'> 
 </div>
   </details>
 
@@ -4864,7 +4856,7 @@ https://mastodon.social — [back to top](#readme)
 - eCortex: Manage / organize thoughts & ideas into custom categories [` App Store`](https://itunes.apple.com/app/ecortex/id1105026832)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/atmaniwhy/cortex<br>  Added January 25, 2017
+  https://github.com/whymani005/cortex<br>  Added January 25, 2017
   <div><img height='300' alt='eCortex image 1' src='http://a5.mzstatic.com/us/r30/Purple60/v4/03/9e/a9/039ea9b6-6427-ac1b-9bf9-773c91e5b8c9/screen696x696.jpeg'> 
 </div>
   </details>
@@ -5198,14 +5190,6 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> <code>typhoon</code> 🔥🔥</summary>
 
   https://github.com/appsquickly/Typhoon-Swift-Example<br>  Added March 24, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  </details>
-
-- RainMan  
-  <details><summary><code>swift</code> <code>dark sky api (forecast api)</code> 🔥🔥🔥</summary>
-
-  https://github.com/Aaron-A/Project-RainMan<br>  Added April 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='RainMan image 1' src='https://camo.githubusercontent.com/7ebcddf23366d36c0283af08a7032fc0f1cf5a6f/687474703a2f2f7331302e706f7374696d672e6f72672f7978793033336136682f50726f6a6563745f52616e5f4d61696e5f4261636b67726f756e642e706e67'> 
-</div>
   </details>
 
 - SimpleWeather  
