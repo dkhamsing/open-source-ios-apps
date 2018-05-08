@@ -2655,10 +2655,11 @@
       ],
       "source": "https://github.com/Aaron-A/Orbit7",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/9c5aa602321121d160837fbe8c0af605196810b4/687474703a2f2f73382e706f7374696d672e6f72672f346c377575746f30352f4f72626974375f47616d652e676966"
+        "https://i.imgur.com/xXFVU87.gif"
       ],
       "stars": 110,
       "license": "mit",
@@ -5598,7 +5599,7 @@
         "tasks"
       ],
       "description": "Manage / organize thoughts & ideas into custom categories",
-      "source": "https://github.com/atmaniwhy/cortex",
+      "source": "https://github.com/whymani005/cortex",
       "itunes": "https://itunes.apple.com/app/ecortex/id1105026832",
       "screenshots": [
         "http://a5.mzstatic.com/us/r30/Purple60/v4/03/9e/a9/039ea9b6-6427-ac1b-9bf9-773c91e5b8c9/screen696x696.jpeg"
@@ -5691,10 +5692,11 @@
       "stars": 687,
       "tags": [
         "swift",
-        "dark sky api (forecast api)"
+        "dark sky api (forecast api)",
+        "archive"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/7ebcddf23366d36c0283af08a7032fc0f1cf5a6f/687474703a2f2f7331302e706f7374696d672e6f72672f7978793033336136682f50726f6a6563745f52616e5f4d61696e5f4261636b67726f756e642e706e67"
+        "https://i.imgur.com/OsgKOw2.png"
       ],
       "license": "mit",
       "date_added": "Sun Apr 26 10:35:46 2015 +0800",
