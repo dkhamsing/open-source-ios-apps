@@ -16315,6 +16315,28 @@
       ],
       "date_added": "May 7 2018",
       "suggested_by": "@Ckitakishi"
+    },
+    {
+      "title": "FSNotes",
+      "category-ids": [
+        "notes"
+      ],
+      "description": "Notes manager.",
+      "source": "https://github.com/glushchenko/fsnotes",
+      "itunes": "https://itunes.apple.com/app/fsnotes-manager/id1346501102",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f9/72/00/f972005b-5a6b-fc54-b68e-f6a704f82f1f/mzl.kxlcltgy.png/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/fd/a8/eefda80f-f32b-94e4-27f3-e4a3fa8b1079/pr_source.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/a0/73/95a0739c-7e40-2e7d-787b-52e59b3d8581/mzl.srqiktcn.png/460x0w.jpg",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/b1/61/0eb1619e-2e6a-234f-06a6-eefafcad478c/mzl.ihcrhigp.png/460x0w.jpg",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/60/09/11/60091180-1755-60ca-b390-3223f4ac8b34/mzl.vbvqksns.png/460x0w.jpg"
+      ],
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "May 11 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
