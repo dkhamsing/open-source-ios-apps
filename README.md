@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-811-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2011,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-811-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2017,%202018-lightgrey.svg)
 
 ## Supported with :heart: by [Instabug](https://try.instabug.com/ios/?utm_source=opensourceios&utm_medium=spon&utm_content=header) 
 [![react-native](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/ios/?utm_source=opensourceios&utm_medium=spon&utm_content=banner) 
@@ -1902,14 +1902,6 @@ Click ► to show more details
 
   https://github.com/tirupati17/sip-calculator-swift<br>  Added July 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='SIP Calculator image 1' src='http://a5.mzstatic.com/us/r30/Purple69/v4/dc/cc/2c/dccc2c04-f147-30b4-0a9e-9bff2a857476/screen696x696.jpeg'> 
-</div>
-  </details>
-
-- Stocks-iOS: A simple finance app showing price information, historical prices and news.  
-  <details><summary><code>finance</code> <code>objc</code> </summary>
-
-  https://github.com/MauriceArikoglu/stocks-ios<br>  Added February  3, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Stocks-iOS image 1' src='https://raw.githubusercontent.com/MauriceArikoglu/stocks-ios/master/Stocks/Screenshot.png'> 
 </div>
   </details>
 
