@@ -149,6 +149,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Speak https://github.com/opensourceios/speakability
 - Starship https://github.com/kylef-archive/Starship
 - Steps https://github.com/gizmosachin/Steps
+- Stocks-iOS https://github.com/MauriceArikoglu/stocks-ios
 - Sudoku https://github.com/christopherdro/react-native-sudoku
 - SudokuResolv https://github.com/Haoest/SudokuResolv
 - Superday https://github.com/opensourceios/superday
