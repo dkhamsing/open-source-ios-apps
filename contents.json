@@ -16338,6 +16338,30 @@
       ],
       "date_added": "May 11 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "SmartWallet",
+      "category-ids": ["finance"],
+      "description": "Smart Wallet: Managing money and budget",
+      "source": "https://github.com/novinfard/SmartWallet",
+      "homepage": "https://www.novinfard.com",
+      "itunes": "https://itunes.apple.com/app/smart-wallet/id1378013954",    
+      "license": "mit",
+      "stars": 0,     
+      "tags": ["swift"],
+      "screenshots": [
+        "http://www.novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%201.png",
+        "http://www.novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%202.png",
+        "http://www.novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%203.png",
+        "http://www.novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%204.png",
+        "http://www.novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%205.png",
+        "http://www.novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%206.png",
+        "http://www.novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%207.png",
+        "http://www.novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%208.png",
+        "http://www.novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%209.png"
+      ],
+      "date_added": "May 18 2018",
+      "suggested_by": "@novinfard"
     }
   ]
 }
