@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **235** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **236** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -213,6 +213,14 @@ Click ► to show more details
 
   https://github.com/SlayterDev/RadiumBrowser<br>  Added September 27, 2017<br>  License: `other`
   <div><img height='300' alt='Radium Web Browser image 1' src='https://camo.githubusercontent.com/1b9c730305d6004b9abba19bf743527794f2c664/687474703a2f2f692e696d6775722e636f6d2f624d51757741452e706e67'> <img height='300' alt='Radium Web Browser image 2' src='https://camo.githubusercontent.com/41dd4dcd8b7fdbf5a8dcef923fcd4716bbd0c2e6/687474703a2f2f692e696d6775722e636f6d2f576a726f3336412e706e67'> 
+</div>
+  </details>
+
+- SnowHaze: A Powerful Private Browser Developed to Truly Protect your Data [` App Store`](https://itunes.apple.com/app/snowhaze/id1121026941)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/snowhaze/SnowHaze-iOS<br>  Added May 19, 2018<br>  License: `other`
+  <div><img height='300' alt='SnowHaze image 1' src='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/a0/fc/6f/a0fc6f11-2a83-7f80-f9f6-3caf7d73e1b0/pr_source.png/460x0w.jpg'> <img height='300' alt='SnowHaze image 2' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/02/65/bf/0265bffc-4b48-f52c-a698-c50ddbe22d53/pr_source.png/460x0w.jpg'> <img height='300' alt='SnowHaze image 3' src='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/a2/a4/a2/a2a4a22f-0f48-3c86-c672-482e190ef21f/pr_source.png/460x0w.jpg'> <img height='300' alt='SnowHaze image 4' src='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/fc/79/2f/fc792faf-eef5-8ee6-78bb-2aa396c7dbf4/pr_source.png/628x0w.jpg'> 
 </div>
   </details>
 
