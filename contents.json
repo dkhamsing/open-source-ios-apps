@@ -16340,6 +16340,26 @@
       "suggested_by": "@vpeschenkov"
     },
     {
+      "title": "Smart Wallet",
+      "category-ids": ["finance"],
+      "description": "Managing money and budget",
+      "source": "https://github.com/novinfard/SmartWallet",
+      "homepage": "https://novinfard.com",
+      "itunes": "https://itunes.apple.com/app/smart-wallet/id1378013954",    
+      "license": "mit",
+      "stars": 0,     
+      "tags": ["swift"],
+      "screenshots": [
+        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%201.png",
+        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%202.png",
+        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%203.png",
+        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%204.png",
+        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%205.png"
+      ],
+      "date_added": "May 18 2018",
+      "suggested_by": "@novinfard"
+    },
+    {
       "title": "Boostnote",
       "category-ids": [
           "notes"
