@@ -16340,9 +16340,9 @@
       "suggested_by": "@vpeschenkov"
     },
     {
-      "title": "SmartWallet",
+      "title": "Smart Wallet",
       "category-ids": ["finance"],
-      "description": "Smart Wallet: Managing money and budget",
+      "description": "Managing money and budget",
       "source": "https://github.com/novinfard/SmartWallet",
       "homepage": "https://novinfard.com",
       "itunes": "https://itunes.apple.com/app/smart-wallet/id1378013954",    
@@ -16354,11 +16354,7 @@
         "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%202.png",
         "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%203.png",
         "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%204.png",
-        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%205.png",
-        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%206.png",
-        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%207.png",
-        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%208.png",
-        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%209.png"
+        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%205.png"
       ],
       "date_added": "May 18 2018",
       "suggested_by": "@novinfard"
