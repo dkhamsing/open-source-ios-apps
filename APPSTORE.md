@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **236** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **237** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -885,6 +885,14 @@ Click ► to show more details
 
   https://github.com/tirupati17/sip-calculator-swift<br>  Added July 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='SIP Calculator image 1' src='http://a5.mzstatic.com/us/r30/Purple69/v4/dc/cc/2c/dccc2c04-f147-30b4-0a9e-9bff2a857476/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Smart Wallet: Managing money and budget [` App Store`](https://itunes.apple.com/app/smart-wallet/id1378013954)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/novinfard/SmartWallet<br>  https://novinfard.com<br>  Added May 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Smart Wallet image 1' src='http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%201.png'> <img height='300' alt='Smart Wallet image 2' src='http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%202.png'> <img height='300' alt='Smart Wallet image 3' src='http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%203.png'> <img height='300' alt='Smart Wallet image 4' src='http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%204.png'> <img height='300' alt='Smart Wallet image 5' src='http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%205.png'> 
 </div>
   </details>
 
