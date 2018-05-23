@@ -6,14 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-814-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2020,%202018-lightgrey.svg)
-
-## Supported with :heart: by [Instabug](https://try.instabug.com/ios/?utm_source=opensourceios&utm_medium=spon&utm_content=header) 
-[![react-native](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/ios/?utm_source=opensourceios&utm_medium=spon&utm_content=banner) 
-> We highly recommend using Instabug’s SDK while betatesting to receive detailed bug and crash reports from early adopters. 
-The SDK removes the hassle of debugging by automatically attaching screen recordings, device details, network logs, and repro-steps with each report to help you speed up the development process. [**Learn more.**](https://try.instabug.com/ios/?utm_source=opensourceios&utm_medium=spon&utm_content=learnmore) 🚀 
-[![](https://instabug-ga.appspot.com/UA-41982088-6/github/opensourceios?pixel)](https://instabug.com)
-
+![](https://img.shields.io/badge/Projects-814-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2023,%202018-lightgrey.svg)
 
 Jump to
 
