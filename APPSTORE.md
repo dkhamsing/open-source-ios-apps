@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **237** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -216,6 +216,14 @@ Click ► to show more details
 </div>
   </details>
 
+- SnowHaze: A Powerful Private Browser Developed to Truly Protect your Data [` App Store`](https://itunes.apple.com/app/snowhaze/id1121026941)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/snowhaze/SnowHaze-iOS<br>  Added May 19, 2018<br>  License: `other`
+  <div><img height='300' alt='SnowHaze image 1' src='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/a0/fc/6f/a0fc6f11-2a83-7f80-f9f6-3caf7d73e1b0/pr_source.png/460x0w.jpg'> <img height='300' alt='SnowHaze image 2' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/02/65/bf/0265bffc-4b48-f52c-a698-c50ddbe22d53/pr_source.png/460x0w.jpg'> <img height='300' alt='SnowHaze image 3' src='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/a2/a4/a2/a2a4a22f-0f48-3c86-c672-482e190ef21f/pr_source.png/460x0w.jpg'> <img height='300' alt='SnowHaze image 4' src='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/fc/79/2f/fc792faf-eef5-8ee6-78bb-2aa396c7dbf4/pr_source.png/628x0w.jpg'> 
+</div>
+  </details>
+
 - Tob: A beautiful Tor browser to protect your anonymity [` App Store`](https://itunes.apple.com/app/id1063151782)  
   <details><summary><code>objc</code> <code>tor</code> </summary>
 
@@ -240,7 +248,7 @@ Click ► to show more details
 - Free42: A re-implementation of the HP-42S Calculator & the HP-82240 printer [` App Store`](https://itunes.apple.com/app/id337692629)  
   <details><summary><code>objc</code> </summary>
 
-  http://thomasokken.com/free42/download/free42.tgz<br>  http://thomasokken.com/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  http://thomasokken.nl/free42/download/free42.tgz<br>  http://thomasokken.nl/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='Free42 image 1' src='http://a1.mzstatic.com/us/r30/Purple3/v4/a4/bd/1e/a4bd1e5c-a158-7669-76c9-915c3b41ecec/screen568x568.jpeg'> 
 </div>
   </details>
@@ -486,7 +494,7 @@ Click ► to show more details
 - OpenTerm: Sandboxed command line interface [` App Store`](https://itunes.apple.com/app/terminal/id1323205755)  
   <details><summary><code>swift</code> <code>panelkit</code> 🔥🔥🔥</summary>
 
-  https://github.com/louisdh/terminal<br>  Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/louisdh/openterm<br>  Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='OpenTerm image 1' src='http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg'> 
 </div>
   </details>
@@ -504,6 +512,14 @@ Click ► to show more details
 
   https://github.com/ColdGrub1384/Pisth<br>  https://pisth.github.io<br>  Added January 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Pisth image 1' src='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/1.png'> <img height='300' alt='Pisth image 2' src='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/2.png'> <img height='300' alt='Pisth image 3' src='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/3.png'> <img height='300' alt='Pisth image 4' src='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/4.png'> 
+</div>
+  </details>
+
+- TLS Inspector: Free WiFi, Workplace Internet, and Computer Viruses can put your personal information at risk. With TLS Inspector you can verify the secure connection information of any website and ensure that your information is private. [` App Store`](https://itunes.apple.com/app/apple-store/id1100539810)  
+  <details><summary><code>c</code> <code>objc</code> <code>c++</code> </summary>
+
+  https://github.com/certificate-helper/tls-inspector<br>  Added May  5, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='TLS Inspector image 1' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/eb/03/2e/eb032e7d-9b04-0cea-89af-41478761d5b0/pr_source.png/316x0w.jpg'> <img height='300' alt='TLS Inspector image 2' src='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/de/e0/70/dee07035-182f-b5e1-9e48-38c5660dd760/pr_source.png/316x0w.jpg'> <img height='300' alt='TLS Inspector image 3' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/fe/8d/03/fe8d03fd-bdc7-dca5-ddd1-57de854e716e/pr_source.png/316x0w.jpg'> 
 </div>
   </details>
 
@@ -621,14 +637,6 @@ Click ► to show more details
 </div>
   </details>
 
-- WaniKani: Learn kanji with https://www.wanikani.com/ [` App Store`](https://itunes.apple.com/app/wanikani/id1034355141)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/haawa799/WaniKani-iOS<br>  Added May  3, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  <div><img height='300' alt='WaniKani image 1' src='http://a3.mzstatic.com/us/r30/Purple49/v4/da/d8/8e/dad88eec-4269-1521-fb4e-78286ef6d949/screen696x696.jpeg'> <img height='300' alt='WaniKani image 2' src='http://a1.mzstatic.com/us/r30/Purple49/v4/e3/70/13/e37013b8-d618-1cfb-c84b-7a19bebabba6/screen696x696.jpeg'> <img height='300' alt='WaniKani image 3' src='http://a5.mzstatic.com/us/r30/Purple69/v4/63/55/69/63556904-f2dc-0c4a-8b7e-8feef7baf592/screen696x696.jpeg'> <img height='300' alt='WaniKani image 4' src='http://a1.mzstatic.com/us/r30/Purple49/v4/77/1d/b3/771db3a9-91d8-26fd-99fb-a86f61bc6b54/screen696x696.jpeg'> <img height='300' alt='WaniKani image 5' src='http://a2.mzstatic.com/us/r30/Purple49/v4/eb/ad/97/ebad97c8-c4d8-c0b3-0cde-c462f8a9441b/screen696x696.jpeg'> 
-</div>
-  </details>
-
 
 ## Emulator 
  
@@ -694,6 +702,14 @@ Click ► to show more details
 
   https://github.com/adblockplus/adblockplussafariios<br>  Added December 14, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Adblock Plus image 1' src='http://a4.mzstatic.com/us/r30/Purple69/v4/dd/f6/8d/ddf68dbd-400f-91c1-75a0-ba0140db96ae/screen696x696.jpeg'> <img height='300' alt='Adblock Plus image 2' src='http://a3.mzstatic.com/us/r30/Purple20/v4/4b/80/3f/4b803f04-4a47-c851-8d80-03db7a35ac20/screen696x696.jpeg'> <img height='300' alt='Adblock Plus image 3' src='http://a2.mzstatic.com/us/r30/Purple3/v4/77/77/85/7777857c-fe75-6919-69cb-52d1af3b8422/screen696x696.jpeg'> <img height='300' alt='Adblock Plus image 4' src='http://a3.mzstatic.com/us/r30/Purple3/v4/d7/4d/fd/d74dfd93-8898-b4a6-8ac4-aa5c2d3436e6/screen696x696.jpeg'> <img height='300' alt='Adblock Plus image 5' src='http://a3.mzstatic.com/us/r30/Purple3/v4/1e/74/81/1e748193-bd49-1837-3bab-3a8f80fa516b/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Adguard: Content blocker for Safari browser. [` App Store`](https://itunes.apple.com/app/adguard-adblock-privacy/id1047223162)  
+  <details><summary><code>objc</code> <code>javascript</code> 🔥🔥</summary>
+
+  https://github.com/AdguardTeam/AdguardForiOS<br>  Added May  6, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='Adguard image 1' src='https://user-images.githubusercontent.com/28860202/37027267-e9cf7534-2141-11e8-89fd-3fc99c3f2c86.png'> <img height='300' alt='Adguard image 2' src='https://user-images.githubusercontent.com/28860202/37027271-ec5f5972-2141-11e8-884b-038d73fb68ae.png'> 
 </div>
   </details>
 
@@ -787,6 +803,14 @@ Click ► to show more details
 </div>
   </details>
 
+- Local Storage: Save files on your device, visualize storage use, unzip, hash [` App Store`](https://itunes.apple.com/app/id1339306324)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/geberl/swift-localstorage<br>  Added April 14, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  <div><img height='300' alt='Local Storage image 1' src='https://i.imgur.com/t0okveQ.png'> 
+</div>
+  </details>
+
 - Nextcloud: A safe home for all your data [` App Store`](https://itunes.apple.com/app/nextcloud/id1125420102)  
   <details><summary><code>objc</code> 🔥🔥</summary>
 
@@ -832,14 +856,6 @@ Click ► to show more details
 </div>
   </details>
 
-- EconoApp: Keep track of economic information [` App Store`](https://itunes.apple.com/app/econoapp/id1252140352)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/viniciusvieir/EconoApp<br>  Added June 26, 2017
-  <div><img height='300' alt='EconoApp image 1' src='https://raw.githubusercontent.com/viniciusvieir/EconoApp/1da96afc7317c1096a6c9a45c7a06f9d72f431fb/Screenshot%20EN%201.jpg'> <img height='300' alt='EconoApp image 2' src='https://raw.githubusercontent.com/viniciusvieir/EconoApp/3520001bbbc88e6e2f15d6fc0ca7e6bcb0819364/Screenshot%20EN%202.jpg'> <img height='300' alt='EconoApp image 3' src='https://raw.githubusercontent.com/viniciusvieir/EconoApp/2afa3886d92de25f87a272f18fd5725f875ed108/Screenshot%20EN%203.jpg'> 
-</div>
-  </details>
-
 - EMI Calculator: Calculate your Equated Monthly installment (EMI) for home, car & personal loans [` App Store`](https://itunes.apple.com/app/id1105890730)  
   <details><summary><code>swift</code> <code>viper</code> </summary>
 
@@ -869,6 +885,14 @@ Click ► to show more details
 
   https://github.com/tirupati17/sip-calculator-swift<br>  Added July 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='SIP Calculator image 1' src='http://a5.mzstatic.com/us/r30/Purple69/v4/dc/cc/2c/dccc2c04-f147-30b4-0a9e-9bff2a857476/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Smart Wallet: Managing money and budget [` App Store`](https://itunes.apple.com/app/smart-wallet/id1378013954)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/novinfard/SmartWallet<br>  https://novinfard.com<br>  Added May 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Smart Wallet image 1' src='http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%201.png'> <img height='300' alt='Smart Wallet image 2' src='http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%202.png'> <img height='300' alt='Smart Wallet image 3' src='http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%203.png'> <img height='300' alt='Smart Wallet image 4' src='http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%204.png'> <img height='300' alt='Smart Wallet image 5' src='http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%205.png'> 
 </div>
   </details>
 
@@ -902,7 +926,7 @@ Click ► to show more details
   </details>
 
 - Trust: Ethereum Wallet and Web3 DApp Browser [` App Store`](https://itunes.apple.com/app/trust-ethereum-wallet/id1288339409)  
-  <details><summary><code>swift</code> 🔥🔥</summary>
+  <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
   https://github.com/TrustWallet/trust-wallet-ios<br>  https://trustwalletapp.com<br>  Added March 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Trust image 1' src='https://uploads-ssl.webflow.com/5a88babea6e0f90001b39b0d/5aa0e8bcefcfd2000161d6eb_Main_Image-p-500.png'> 
@@ -931,7 +955,7 @@ Click ► to show more details
   </details>
 
 - Doom Classic [` App Store`](https://itunes.apple.com/app/doom-classic/id336347946)  
-  <details><summary><code>objc</code> 🔥🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥🔥</summary>
 
   https://github.com/id-Software/DOOM-iOS<br>  Added May 19, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='Doom Classic image 1' src='http://a1.mzstatic.com/us/r30/Purple6/v4/87/bf/74/87bf7496-9c18-61df-272e-2803844f0747/screen696x696.jpeg'> <img height='300' alt='Doom Classic image 2' src='http://a2.mzstatic.com/us/r30/Purple/v4/88/95/dd/8895ddc3-f46c-4da3-058a-3c9b76016ee3/screen696x696.jpeg'> <img height='300' alt='Doom Classic image 3' src='http://a1.mzstatic.com/us/r30/Purple/v4/4a/17/2e/4a172e70-08c6-ed51-51c9-317e836a4cca/screen696x696.jpeg'> 
@@ -939,7 +963,7 @@ Click ► to show more details
   </details>
 
 - DOOM Classic 2 [` App Store`](https://itunes.apple.com/app/doom-ii-rpg/id354051766)  
-  <details><summary><code>objc</code> 🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/id-Software/DOOM-IOS2<br>  Added May 19, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   <div><img height='300' alt='DOOM Classic 2 image 1' src='http://a4.mzstatic.com/us/r30/Purple/v4/2a/60/50/2a6050d0-c040-3684-fb0f-1694fd1edde4/screen480x480.jpeg'> 
@@ -1011,7 +1035,7 @@ Click ► to show more details
   </details>
 
 - SHMUP: 3D multiplatform game written primarily in C [` App Store`](https://itunes.apple.com/app/shmup/id337663605)  
-  <details><summary><code>objc</code> 🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/fabiensanglard/Shmup<br>  http://fabiensanglard.net/shmup/<br>  Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='SHMUP image 1' src='http://a3.mzstatic.com/us/r30/Purple/v4/e2/ee/82/e2ee8263-7265-3376-ec94-604ab58e631a/screen320x480.jpeg'> 
@@ -1529,14 +1553,6 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 
-- Homepok: Catalog of Ukrainian vehicle plates [` App Store`](https://itunes.apple.com/app/id1105827929)  
-  <details><summary><code>swift</code> 🇷🇺 </summary>
-
-  https://github.com/iAlexander/Homepok<br>  Added November 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Homepok image 1' src='https://raw.githubusercontent.com/iAlexander/Homepok/master/Screenshots.jpg'> 
-</div>
-  </details>
-
 - Kiwix: An offline reader for Wikipedia (& many other websites) [` App Store`](https://itunes.apple.com/app/id997079563)  
   <details><summary><code>swift</code> </summary>
 
@@ -1662,6 +1678,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/maurovc/ColorBlur<br>  Added March 16, 2015<br>  License: `other`
   <div><img height='300' alt='ColorBlur image 1' src='http://a5.mzstatic.com/us/r30/Purple3/v4/68/3f/1b/683f1b36-f274-e2f0-64a6-ae00aadca2ab/screen696x696.jpeg'> <img height='300' alt='ColorBlur image 2' src='http://a4.mzstatic.com/us/r30/Purple1/v4/bb/b9/f5/bbb9f50a-4358-a5d0-604f-29e29ed7677f/screen696x696.jpeg'> <img height='300' alt='ColorBlur image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/f9/8c/11/f98c116a-a49a-598e-e5d7-be0684c35bc5/screen696x696.jpeg'> <img height='300' alt='ColorBlur image 4' src='http://a5.mzstatic.com/us/r30/Purple1/v4/ff/6b/2c/ff6b2c22-68be-1f50-868a-e23ff8add3aa/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- MetaX: Check, edit and delete metadata of photos. [` App Store`](https://itunes.apple.com/app/metax/id1376589355)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/Ckitakishi/MetaX<br>  Added May  7, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='MetaX image 1' src='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPhone_en.png'> <img height='300' alt='MetaX image 2' src='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPad_en.png'> 
 </div>
   </details>
 
@@ -2065,7 +2089,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - FreeOTP Authenticator: Two-Factor Authentication [` App Store`](https://itunes.apple.com/app/freeotp/id872559395)  
-  <details><summary><code>swift</code> <code>moa</code> </summary>
+  <details><summary><code>swift</code> <code>moa</code> 🔥</summary>
 
   https://github.com/freeotp/freeotp-ios<br>  Added March 11, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='FreeOTP Authenticator image 1' src='http://a4.mzstatic.com/us/r30/Purple5/v4/66/8b/9c/668b9cf1-3502-3683-7787-ef450ef90019/screen696x696.jpeg'> 
@@ -2138,6 +2162,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Beam: Reddit client that's built to browse. It lets you enjoy all of Reddit's content in a unique and beautiful package. [` App Store`](https://itunes.apple.com/app/beam-for-reddit/id937987469)  
+  <details><summary><code>swift</code> <code>objc</code> </summary>
+
+  https://github.com/awkward/beam<br>  Added May  6, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  <div><img height='300' alt='Beam image 1' src='https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/ab/1c/34/ab1c34ca-9913-ef85-ae35-10c2c7d3b7a6/mzl.gkpfevya.png/316x0w.jpg'> <img height='300' alt='Beam image 2' src='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/79/57/eb795798-bba3-21d5-6070-d8f508af1be0/mzl.lbvrfpjf.png/316x0w.jpg'> <img height='300' alt='Beam image 3' src='https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/13/5d/53/135d536b-5ec2-a567-d72a-c5e6fb12f804/mzl.rzeufpyk.png/316x0w.jpg'> 
+</div>
+  </details>
+
 - Ello: Ello is the Creators Network [` App Store`](https://itunes.apple.com/app/ello/id953614327)  
   <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
@@ -2159,7 +2191,7 @@ https://mastodon.social — [back to top](#readme)
 - eCortex: Manage / organize thoughts & ideas into custom categories [` App Store`](https://itunes.apple.com/app/ecortex/id1105026832)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/atmaniwhy/cortex<br>  Added January 25, 2017
+  https://github.com/whymani005/cortex<br>  Added January 25, 2017
   <div><img height='300' alt='eCortex image 1' src='http://a5.mzstatic.com/us/r30/Purple60/v4/03/9e/a9/039ea9b6-6427-ac1b-9bf9-773c91e5b8c9/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2214,6 +2246,22 @@ https://mastodon.social — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Boostnote: Markdown text editor, offline or synced via Dropbox [` App Store`](https://itunes.apple.com/app/boostnote/id1273066636)  
+  <details><summary><code>react-native</code> 🔥🔥</summary>
+
+  https://github.com/BoostIO/boostnote-mobile<br>  Added May 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Boostnote image 1' src='https://boostnote.io/assets/img/top2.png'> 
+</div>
+  </details>
+
+- FSNotes: Notes manager. [` App Store`](https://itunes.apple.com/app/fsnotes-manager/id1346501102)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/glushchenko/fsnotes<br>  Added May 11, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='FSNotes image 1' src='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f9/72/00/f972005b-5a6b-fc54-b68e-f6a704f82f1f/mzl.kxlcltgy.png/460x0w.jpg'> <img height='300' alt='FSNotes image 2' src='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/fd/a8/eefda80f-f32b-94e4-27f3-e4a3fa8b1079/pr_source.png/460x0w.png'> <img height='300' alt='FSNotes image 3' src='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/a0/73/95a0739c-7e40-2e7d-787b-52e59b3d8581/mzl.srqiktcn.png/460x0w.jpg'> <img height='300' alt='FSNotes image 4' src='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/b1/61/0eb1619e-2e6a-234f-06a6-eefafcad478c/mzl.ihcrhigp.png/460x0w.jpg'> <img height='300' alt='FSNotes image 5' src='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/60/09/11/60091180-1755-60ca-b390-3223f4ac8b34/mzl.vbvqksns.png/460x0w.jpg'> 
+</div>
+  </details>
+
 - Loose Leaf: Take notes, import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
   <details><summary><code>ipad</code> <code>pdf</code> <code>apple pencil</code> 🔥🔥</summary>
 
@@ -2359,6 +2407,14 @@ https://mastodon.social — [back to top](#readme)
 
   https://cgit.freedesktop.org/libreoffice/impress_remote/<br>  Added June  2, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
   <div><img height='300' alt='LibreOffice Remote for Impress image 1' src='http://a2.mzstatic.com/us/r30/Purple4/v4/1c/51/bc/1c51bc28-3304-2397-bdf1-9914c0174941/screen696x696.jpeg'> <img height='300' alt='LibreOffice Remote for Impress image 2' src='http://a1.mzstatic.com/us/r30/Purple6/v4/0d/0c/ac/0d0cac78-443e-2843-93b4-420a51ff087e/screen696x696.jpeg'> <img height='300' alt='LibreOffice Remote for Impress image 3' src='http://a5.mzstatic.com/us/r30/Purple/v4/b1/9f/c3/b19fc322-91e7-e917-8701-52c88fd91b0d/screen696x696.jpeg'> <img height='300' alt='LibreOffice Remote for Impress image 4' src='http://a2.mzstatic.com/us/r30/Purple/v4/6d/67/a2/6d67a262-409a-8156-aaee-86e14bebfc6d/screen696x696.jpeg'> <img height='300' alt='LibreOffice Remote for Impress image 5' src='http://a5.mzstatic.com/us/r30/Purple/v4/2c/56/d7/2c56d7d8-f310-0a4f-9db6-38d7508939b9/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Locations for LOST: A movie scenes finder [` App Store`](https://itunes.apple.com/app/locations-for-lost/id1286799669)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/AdrienVillez/LOST-Location<br>  Added April 14, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Locations for LOST image 1' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d9/96/1d/d9961d27-0750-2d77-9b3d-1d327d349b73/pr_source.png/460x0w.png'> <img height='300' alt='Locations for LOST image 2' src='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/2c/8c/48/2c8c480c-86e1-40db-dd0a-fb2aebe1f698/pr_source.png/460x0w.png'> <img height='300' alt='Locations for LOST image 3' src='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/db/36/9b/db369b6e-407f-3a50-46eb-a066b26bfb80/pr_source.png/460x0w.png'> <img height='300' alt='Locations for LOST image 4' src='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/fa/9d/c2/fa9dc286-019b-9698-c1ef-f9b3a8b2f4ae/pr_source.png/460x0w.png'> 
 </div>
   </details>
 
