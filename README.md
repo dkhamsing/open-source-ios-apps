@@ -2407,7 +2407,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - Crosses-n-Ous: Class Tic Tac Toe reincarnation with AI and state machines  
   <details><summary><code>swift</code> <code>gameplaykit</code> </summary>
 
-  https://github.com/jVirus/crosses-and-zeros-ios-game<br>  Added August 27, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/jVirus/ios-spritekit-tic-tac-toe<br>  Added August 27, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   <div><img height='300' alt='Crosses-n-Ous image 1' src='https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif'> 
 </div>
   </details>
@@ -3187,8 +3187,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary><code>objc</code> <code>iphonex</code> 🔥🔥🔥</summary>
 
   https://github.com/insidegui/AnimojiStudio<br>  Added November 26, 2017<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
-  <div><img height='300' alt='Animoji Studio image 1' src='https://raw.githubusercontent.com/insidegui/AnimojiStudio/master/screenshots/AnimojiStudio_Screens2.png'> 
-</div>
   </details>
 
 - SBSAnimoji: Uses Apple's private framework AvatarKit  
@@ -4679,7 +4677,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - Padlock: A minimalist open source password manager [` App Store`](https://itunes.apple.com/app/id871710139)  
   <details><summary><code>javascript</code> <code>cordova</code> <code>iphone</code> <code>ipad</code> 🔥🔥🔥</summary>
 
-  https://github.com/MaKleSoft/padlock<br>  https://padlock.io/<br>  Added April  4, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://github.com/padlock/padlock<br>  https://padlock.io/<br>  Added April  4, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Padlock image 1' src='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/af/bd/5d/afbd5d00-6c4d-8edf-ff9b-552df523d573/mzl.fszireix.png/460x0w.jpg'> <img height='300' alt='Padlock image 2' src='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/6d/82/e2/6d82e289-2522-38f2-9473-65f41700ba12/mzl.xvlxfqzn.png/460x0w.jpg'> <img height='300' alt='Padlock image 3' src='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c4/f8/9c/c4f89c59-827f-3b1f-c426-3964c52ab4ac/mzl.pdmecikv.png/460x0w.jpg'> <img height='300' alt='Padlock image 4' src='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/5a/9e/18/5a9e1873-9ac8-80d7-0fc9-64d3ad8784e8/mzl.zwomnhtr.png/460x0w.jpg'> 
 </div>
   </details>
