@@ -15154,7 +15154,7 @@
         "spritekit"
       ],
       "description": "Class Tic Tac Toe reincarnation with AI and state machines",
-      "source": "https://github.com/jVirus/crosses-and-zeros-ios-game",
+      "source": "https://github.com/jVirus/ios-spritekit-tic-tac-toe",
       "screenshots": [
         "https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif"
       ],
@@ -15403,9 +15403,6 @@
       "tags": [
         "objc",
         "iphonex"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/insidegui/AnimojiStudio/master/screenshots/AnimojiStudio_Screens2.png"
       ],
       "date_added": "Nov 26 2017",
       "license": "bsd-2-clause",
@@ -16111,7 +16108,7 @@
       "description": "A minimalist open source password manager",
       "homepage": "https://padlock.io/",
       "itunes": "https://itunes.apple.com/app/id871710139",
-      "source": "https://github.com/MaKleSoft/padlock",
+      "source": "https://github.com/padlock/padlock",
       "license": "gpl-3.0",
       "stars": 642,
       "tags": [
@@ -16345,9 +16342,9 @@
       "description": "Managing money and budget",
       "source": "https://github.com/novinfard/SmartWallet",
       "homepage": "https://novinfard.com",
-      "itunes": "https://itunes.apple.com/app/smart-wallet/id1378013954",    
+      "itunes": "https://itunes.apple.com/app/smart-wallet/id1378013954",
       "license": "mit",
-      "stars": 0,     
+      "stars": 0,
       "tags": ["swift"],
       "screenshots": [
         "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%201.png",
@@ -16406,9 +16403,9 @@
       "description": "Player for assisting in transcription",
       "source": "https://github.com/novinfard/TranscriptionHelper",
       "homepage": "https://novinfard.com",
-      "itunes": "https://itunes.apple.com/app/transcription-helper/id1157585714",    
+      "itunes": "https://itunes.apple.com/app/transcription-helper/id1157585714",
       "license": "mit",
-      "stars": 0,     
+      "stars": 0,
       "tags": ["objc"],
       "screenshots": [
         "https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/df/ca/54/dfca5417-f1d7-3c7f-675a-9bd3e7c1b082/source/460x0w.png",
