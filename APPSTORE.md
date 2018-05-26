@@ -212,7 +212,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>browser</code> <code>extensible</code> <code>webkit</code> </summary>
 
   https://github.com/SlayterDev/RadiumBrowser<br>  Added September 27, 2017<br>  License: `other`
-  <div><img height='300' alt='Radium Web Browser image 1' src='https://camo.githubusercontent.com/1b9c730305d6004b9abba19bf743527794f2c664/687474703a2f2f692e696d6775722e636f6d2f624d51757741452e706e67'> <img height='300' alt='Radium Web Browser image 2' src='https://camo.githubusercontent.com/41dd4dcd8b7fdbf5a8dcef923fcd4716bbd0c2e6/687474703a2f2f692e696d6775722e636f6d2f576a726f3336412e706e67'> 
+  <div><img height='300' alt='Radium Web Browser image 1' src='http://i.imgur.com/bMQuwAE.png'> <img height='300' alt='Radium Web Browser image 2' src='http://i.imgur.com/Wjro36A.png'> 
 </div>
   </details>
 
@@ -1605,7 +1605,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary><code>wikipedia</code> </summary>
 
   https://github.com/lurado/MovieDict<br>  https://moviedict.info<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='MovieDict image 1' src='https://camo.githubusercontent.com/09de19622e05913567e36c75911e2dd981295036/68747470733a2f2f6d6f766965646963742e696e666f2f6970686f6e652e706e67'> 
+  <div><img height='300' alt='MovieDict image 1' src='https://moviedict.info/iphone.png'> 
 </div>
   </details>
 
@@ -2364,7 +2364,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>wikipedia</code> </summary>
 
   https://github.com/lurado/MovieDict<br>  https://moviedict.info<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='MovieDict image 1' src='https://camo.githubusercontent.com/09de19622e05913567e36c75911e2dd981295036/68747470733a2f2f6d6f766965646963742e696e666f2f6970686f6e652e706e67'> 
+  <div><img height='300' alt='MovieDict image 1' src='https://moviedict.info/iphone.png'> 
 </div>
   </details>
 
