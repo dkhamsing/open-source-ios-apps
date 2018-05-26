@@ -5976,7 +5976,7 @@
         "objc"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/1e2b57cde873201b31fc2d7c051a4737e4041260/68747470733a2f2f35362e6d656469612e74756d626c722e636f6d2f63656566333361666136373866623132643664323537633735633163613136362f74756d626c725f6e35646431344f697948317162316c32756f315f3534302e6a7067"
+        "https://56.media.tumblr.com/ceef33afa678fb12d6d257c75c1ca166/tumblr_n5dd14OiyH1qb1l2uo1_540.jpg"
       ],
       "description": "Alternative Tumblr client",
       "source": "https://github.com/irace/BlogQuest",
@@ -6351,7 +6351,8 @@
       "license": "gpl-2.0",
       "source": "https://github.com/opensourceios/OpenCB",
       "screenshots": [
-        "https://camo.githubusercontent.com/0b163a92148e0b6a2e1bcf1154291b86cd716773/687474703a2f2f61312e6d7a7374617469632e636f6d2f75732f7233302f507572706c65352f76342f32662f32642f35342f32663264353464622d396161652d646462612d363037612d6136653261613235363762372f73637265656e333232783537322e6a706567"
+        "http://a1.mzstatic.com/us/r30/Purple5/v4/2f/2d/54/2f2d54db-9aae-ddba-607a-a6e2aa2567b7/screen322x572.jpeg",
+        "http://a2.mzstatic.com/us/r30/Purple5/v4/0a/7f/6a/0a7f6a07-858c-de9e-f192-3210e982baf1/screen322x572.jpeg"
       ],
       "tags": [
         "archive"
@@ -7629,8 +7630,8 @@
         "archive"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/f4cd843dea61e9f9c10319fea6ecafb6f2b937d7/687474703a2f2f692e696d6775722e636f6d2f67566d727844652e706e67",
-        "https://camo.githubusercontent.com/40c061e190af77493771d432dfc75ba1b8332deb/687474703a2f2f692e696d6775722e636f6d2f46594f674259632e706e67"
+        "http://i.imgur.com/gVmrxDe.png",
+        "http://i.imgur.com/FYOgBYc.png"
       ],
       "source": "https://github.com/jsdf/ReactNativeHackerNews",
       "stars": 240,
@@ -7766,7 +7767,8 @@
       "description": "App for managing the beer brewing process",
       "source": "https://github.com/brewfactory/BrewMobile",
       "screenshots": [
-        "https://camo.githubusercontent.com/edffaf12ff2fcc5e3e2b85539c6ab372fdfd41a7/687474703a2f2f62726577666163746f72792e6f72672f427265774d6f62696c652f696d672f395f736d616c6c2e706e67"
+        "http://brewfactory.org/BrewMobile/img/9_small.png",
+        "http://brewfactory.org/BrewMobile/img/8_small.png"
       ],
       "stars": 189,
       "tags": [
@@ -7851,9 +7853,6 @@
       "description": "Minimal chess clock",
       "license": "mit",
       "source": "https://github.com/nottombrown/HausClock",
-      "screenshots": [
-        "https://camo.githubusercontent.com/825961b385ec6545c9544c6e8d30870d7f86ebf9/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f32363035312f73637265656e73686f74732f313633333939382f6d6f636b75702e706e67"
-      ],
       "stars": 46,
       "date_added": "Tue Jan 27 07:39:43 2015 -0800",
       "suggested_by": "@dkhamsing"
@@ -9026,9 +9025,6 @@
       "source": "https://github.com/RolandasRazma/iLabyrinth",
       "tags": [
         "archive"
-      ],
-      "screenshots": [
-        "https://camo.githubusercontent.com/47e8768f3186834060e7533fe154ec949233c0b6/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f72313030302f3037352f507572706c652f34302f61372f36382f6d7a6c2e62646c79617466752e333230783438302d37352e6a7067"
       ],
       "license": "other",
       "stars": 185,
@@ -10482,7 +10478,7 @@
         "objc"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/ff3c4e76617a7af782d9670f1438801c7603c700/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c65342f76342f61342f66382f61662f61346638616631642d333837382d303831372d383539642d6465373662616531363963372f73637265656e353638783536382e6a706567"
+        "http://a4.mzstatic.com/us/r30/Purple4/v4/a4/f8/af/a4f8af1d-3878-0817-859d-de76bae169c7/screen568x568.jpeg"
       ],
       "license": "mit",
       "source": "https://github.com/danqing/2048",
@@ -11011,7 +11007,7 @@
       "homepage": "https://moviedict.info",
       "license": "mit",
       "screenshots": [
-        "https://camo.githubusercontent.com/09de19622e05913567e36c75911e2dd981295036/68747470733a2f2f6d6f766965646963742e696e666f2f6970686f6e652e706e67"
+        "https://moviedict.info/iphone.png"
       ],
       "itunes": "https://itunes.apple.com/app/movieglot-what-do-they-call-it/id710587066",
       "date_added": "Tue Jul 26 14:42:12 2016 +0200",
@@ -15254,8 +15250,8 @@
       "source": "https://github.com/SlayterDev/RadiumBrowser",
       "itunes": "https://itunes.apple.com/app/radium-web-browser/id1274491203",
       "screenshots": [
-        "https://camo.githubusercontent.com/1b9c730305d6004b9abba19bf743527794f2c664/687474703a2f2f692e696d6775722e636f6d2f624d51757741452e706e67",
-        "https://camo.githubusercontent.com/41dd4dcd8b7fdbf5a8dcef923fcd4716bbd0c2e6/687474703a2f2f692e696d6775722e636f6d2f576a726f3336412e706e67"
+        "http://i.imgur.com/bMQuwAE.png",
+        "http://i.imgur.com/Wjro36A.png"
       ],
       "date_added": "Sep 27 2017",
       "license": "other",
