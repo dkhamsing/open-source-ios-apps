@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **238** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **239** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -634,6 +634,14 @@ Click ► to show more details
 
   https://github.com/Flinesoft/Prayer<br>  Added April  3, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   <div><img height='300' alt='Prayer in English image 1' src='http://a2.mzstatic.com/us/r30/Purple122/v4/f0/3d/8e/f03d8e27-3e94-a07a-255c-2c56afdf9256/screen696x696.jpeg'> <img height='300' alt='Prayer in English image 2' src='http://a5.mzstatic.com/us/r30/Purple111/v4/fd/17/ca/fd17cab3-a3e2-165c-2b0e-d8ff8faeed13/screen696x696.jpeg'> <img height='300' alt='Prayer in English image 3' src='http://a1.mzstatic.com/us/r30/Purple111/v4/d1/d2/98/d1d29891-952b-88ad-e865-759ac918ec1f/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Recast: A podcast client that seeks to transform the way you listen to, interact with, and share and discover podcast content. [` App Store`](https://itunes.apple.com/app/recast-find-share-podcasts/id1182878908)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/cuappdev/podcast-ios<br>  Added May 26, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Recast image 1' src='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0b/b5/f6/0bb5f665-9207-58d7-effd-23879f680a01/mzl.jtdasfzc.png/460x0w.jpg'> <img height='300' alt='Recast image 2' src='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/b0/85/4c/b0854c05-6930-b70a-28bc-ea65aefe123f/mzl.udtmgexa.png/460x0w.jpg'> <img height='300' alt='Recast image 3' src='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/5c/7b/955c7b98-b7b6-6680-4024-3f756fef12ac/pr_source.png/460x0w.png'> <img height='300' alt='Recast image 4' src='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/57/d1/bc/57d1bc1d-c8ef-50d4-dda0-fadcd7cc9282/pr_source.png/460x0w.png'> 
 </div>
   </details>
 
