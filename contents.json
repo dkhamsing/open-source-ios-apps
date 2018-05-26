@@ -5976,7 +5976,7 @@
         "objc"
       ],
       "screenshots": [
-        "https://56.media.tumblr.com/ceef33afa678fb12d6d257c75c1ca166/tumblr_n5dd14OiyH1qb1l2uo1_540.jpg"
+        "https://78.media.tumblr.com/ceef33afa678fb12d6d257c75c1ca166/tumblr_n5dd14OiyH1qb1l2uo1_540.jpg"
       ],
       "description": "Alternative Tumblr client",
       "source": "https://github.com/irace/BlogQuest",
@@ -9804,7 +9804,7 @@
       "description": "Vendor & technology agnostic home automation",
       "license": "epl-1.0",
       "source": "https://github.com/openhab/openhab.ios",
-      "homepage": "http://www.openhab.org/",
+      "homepage": "https://www.openhab.org/",
       "itunes": "https://itunes.apple.com/app/id492054521",
       "stars": 74,
       "date_added": "Thu Jun 2 00:57:16 2016 -0600",
