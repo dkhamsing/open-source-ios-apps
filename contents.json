@@ -16411,6 +16411,28 @@
       ],
       "date_added": "May 24 2018",
       "suggested_by": "@novinfard"
+    },
+    {
+      "title": "Recast",
+      "description": "A podcast client that seeks to transform the way you listen to, interact with, and share and discover podcast content.",
+      "category-ids": [
+        "education"
+      ],
+      "source": "https://github.com/cuappdev/podcast-ios",
+      "itunes": "https://itunes.apple.com/app/recast-find-share-podcasts/id1182878908",
+      "license": "mit",
+      "stars": 49,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0b/b5/f6/0bb5f665-9207-58d7-effd-23879f680a01/mzl.jtdasfzc.png/460x0w.jpg",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/b0/85/4c/b0854c05-6930-b70a-28bc-ea65aefe123f/mzl.udtmgexa.png/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/5c/7b/955c7b98-b7b6-6680-4024-3f756fef12ac/pr_source.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/57/d1/bc/57d1bc1d-c8ef-50d4-dda0-fadcd7cc9282/pr_source.png/460x0w.png"
+      ],
+      "date_added": "May 26 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
