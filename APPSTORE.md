@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **239** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **240** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -503,7 +503,7 @@ Click ► to show more details
   <details><summary><code>swift</code> </summary>
 
   https://github.com/jonluca/PasteBinApp<br>  Added April  8, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='Pastebin Mobile image 1' src='https://camo.githubusercontent.com/121a7a6f92afdb73e4b7cc203147fe667b4b119c/68747470733a2f2f692e696d6775722e636f6d2f644a67323154462e706e67'> 
+  <div><img height='300' alt='Pastebin Mobile image 1' src='https://i.imgur.com/dJg21TF.png'> 
 </div>
   </details>
 
@@ -1233,7 +1233,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   <details><summary><code>objc</code> 🔥🔥🔥</summary>
 
   https://github.com/istornz/iPokeGo<br>  Added January 14, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='iPokeGo image 1' src='https://camo.githubusercontent.com/6181f3576f7c5ffa609bb37883b7a9e584fb27dc/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f372e6a7067'> <img height='300' alt='iPokeGo image 2' src='https://camo.githubusercontent.com/43c1514a43761a6ef920bd66fba83f74c029292f/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f382e6a7067'> <img height='300' alt='iPokeGo image 3' src='https://camo.githubusercontent.com/175de42215cd8fa04bd5b597a2dfd5f6b8cb0b1b/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f332e6a7067'> 
+  <div><img height='300' alt='iPokeGo image 1' src='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo7.jpg'> <img height='300' alt='iPokeGo image 2' src='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo8.jpg'> <img height='300' alt='iPokeGo image 3' src='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo3.jpg'> 
 </div>
   </details>
 
@@ -1757,6 +1757,14 @@ https://news.ycombinator.com/ — [back to top](#readme)
 
   https://github.com/bonzoq/hniosreader<br>  Added April 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   <div><img height='300' alt='Hacker News Client image 1' src='http://a5.mzstatic.com/us/r30/Purple1/v4/46/69/84/46698435-8f5f-dd7f-ac16-367147207a19/screen696x696.jpeg'> <img height='300' alt='Hacker News Client image 2' src='http://a4.mzstatic.com/us/r30/Purple1/v4/e2/ed/6b/e2ed6bb7-0c9f-f508-b05b-f466adedbf2e/screen696x696.jpeg'> <img height='300' alt='Hacker News Client image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/af/7a/39/af7a39ec-9064-7d8b-5167-4ba6ef58c46d/screen696x696.jpeg'> <img height='300' alt='Hacker News Client image 4' src='http://a4.mzstatic.com/us/r30/Purple1/v4/86/90/fc/8690fc26-a667-d618-be3d-c84cb55cdb84/screen696x696.jpeg'> 
+</div>
+  </details>
+
+- Hackers [` App Store`](https://itunes.apple.com/app/hackers-hacker-news-reading/id603503901)  
+  <details><summary><code>swift</code> 🔥🔥</summary>
+
+  https://github.com/weiran/Hackers<br>  Added December 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='Hackers image 1' src='https://github.com/weiran/Hackers/raw/master/Screenshots/iPhoneX_Ultimate_framed.png'> 
 </div>
   </details>
 
