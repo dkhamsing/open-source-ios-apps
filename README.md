@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-816-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2026,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-816-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2027,%202018-lightgrey.svg)
 
 Jump to
 
@@ -681,7 +681,7 @@ Click ► to show more details
   <details><summary><code>swift</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/fullstackio/FlappySwift<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='FlappySwift image 1' src='https://camo.githubusercontent.com/867dfad61329bd77258f00d586b16476c7bc405a/687474703a2f2f692e696d6775722e636f6d2f314e4c6f546f552e676966'> 
+  <div><img height='300' alt='FlappySwift image 1' src='http://i.imgur.com/1NLoToU.gif'> 
 </div>
   </details>
 
@@ -758,7 +758,7 @@ Click ► to show more details
   <details><summary><code>objc</code> <code>yapdatabase</code> <code>purelayout</code> <code>mantle</code> <code>bluetooth</code> 🔥🔥</summary>
 
   https://github.com/chrisballinger/BLEMeshChat<br>  Added January 11, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
-  <div><img height='300' alt='BLEMeshChat image 1' src='https://camo.githubusercontent.com/71c9718ca94505f7135024802d145148e90ae605/68747470733a2f2f692e696d6775722e636f6d2f7a386c4564504d6d2e706e67'> 
+  <div><img height='300' alt='BLEMeshChat image 1' src='https://i.imgur.com/z8lEdPMm.png'> <img height='300' alt='BLEMeshChat image 2' src='https://i.imgur.com/z8lEdPM.png'> 
 </div>
   </details>
 
@@ -987,7 +987,7 @@ Click ► to show more details
   <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/Buglife/Buglife-iOS<br>  Added January 13, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='Buglife image 1' src='https://camo.githubusercontent.com/55591e6221b916eb92a96395a03ccd1f81c5b36a/68747470733a2f2f692e696d6775722e636f6d2f6d647767447a642e706e67'> 
+  <div><img height='300' alt='Buglife image 1' src='https://i.imgur.com/mdwgDzd.png'> 
 </div>
   </details>
 
@@ -1155,7 +1155,7 @@ Click ► to show more details
   <details><summary><code>swift</code> </summary>
 
   https://github.com/jonluca/PasteBinApp<br>  Added April  8, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  <div><img height='300' alt='Pastebin Mobile image 1' src='https://camo.githubusercontent.com/121a7a6f92afdb73e4b7cc203147fe667b4b119c/68747470733a2f2f692e696d6775722e636f6d2f644a67323154462e706e67'> 
+  <div><img height='300' alt='Pastebin Mobile image 1' src='https://i.imgur.com/dJg21TF.png'> 
 </div>
   </details>
 
@@ -2160,7 +2160,7 @@ Click ► to show more details
   <details><summary><code>swift</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/fullstackio/FlappySwift<br>  Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='FlappySwift image 1' src='https://camo.githubusercontent.com/867dfad61329bd77258f00d586b16476c7bc405a/687474703a2f2f692e696d6775722e636f6d2f314e4c6f546f552e676966'> 
+  <div><img height='300' alt='FlappySwift image 1' src='http://i.imgur.com/1NLoToU.gif'> 
 </div>
   </details>
 
@@ -2785,7 +2785,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   <details><summary><code>objc</code> 🔥🔥🔥</summary>
 
   https://github.com/istornz/iPokeGo<br>  Added January 14, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='iPokeGo image 1' src='https://camo.githubusercontent.com/6181f3576f7c5ffa609bb37883b7a9e584fb27dc/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f372e6a7067'> <img height='300' alt='iPokeGo image 2' src='https://camo.githubusercontent.com/43c1514a43761a6ef920bd66fba83f74c029292f/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f382e6a7067'> <img height='300' alt='iPokeGo image 3' src='https://camo.githubusercontent.com/175de42215cd8fa04bd5b597a2dfd5f6b8cb0b1b/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f332e6a7067'> 
+  <div><img height='300' alt='iPokeGo image 1' src='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo7.jpg'> <img height='300' alt='iPokeGo image 2' src='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo8.jpg'> <img height='300' alt='iPokeGo image 3' src='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo3.jpg'> 
 </div>
   </details>
 
@@ -2990,7 +2990,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary><code>swift</code> 🔥🔥</summary>
 
   https://github.com/ijoshsmith/swift-ascii-art<br>  Added May  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='ASCII Art Generator image 1' src='https://camo.githubusercontent.com/9ba7830d528cd45c20fc771b7347e8d2191a8cc6/68747470733a2f2f696a6f7368736d6974682e66696c65732e776f726470726573732e636f6d2f323031352f30342f61736369695f6b65726d69742e706e67'> 
+  <div><img height='300' alt='ASCII Art Generator image 1' src='https://ijoshsmith.files.wordpress.com/2015/04/ascii_kermit.png'> 
 </div>
   </details>
 
@@ -3491,7 +3491,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary><code>swift</code> 🔥</summary>
 
   https://github.com/danylokostyshyn/popcorntime-ios<br>  Added May 20, 2015<br>  License: `other`
-  <div><img height='300' alt='PopcornTime image 1' src='https://camo.githubusercontent.com/c50d34929cbeaa6ca7c30773410fbd74de95470f/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f312e706e67'> <img height='300' alt='PopcornTime image 2' src='https://camo.githubusercontent.com/acbc97860741cc35d9b99f785dd00410c5006773/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f322e706e67'> <img height='300' alt='PopcornTime image 3' src='https://camo.githubusercontent.com/daa316738f69b74d328d5172fb0beae9fd8aebbb/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f332e706e67'> 
+  <div><img height='300' alt='PopcornTime image 1' src='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/1.png'> <img height='300' alt='PopcornTime image 2' src='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/2.png'> <img height='300' alt='PopcornTime image 3' src='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/3.png'> 
 </div>
   </details>
 
@@ -3846,11 +3846,11 @@ https://news.ycombinator.com/ — [back to top](#readme)
 </div>
   </details>
 
-- Hackers  
+- Hackers [` App Store`](https://itunes.apple.com/app/hackers-hacker-news-reading/id603503901)  
   <details><summary><code>swift</code> 🔥🔥</summary>
 
   https://github.com/weiran/Hackers<br>  Added December 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Hackers image 1' src='https://camo.githubusercontent.com/c8ae11c347f57bbb6641ca131dc165f927e3b8c1/687474703a2f2f692e696d6775722e636f6d2f61677a7565744e2e706e67'> 
+  <div><img height='300' alt='Hackers image 1' src='https://github.com/weiran/Hackers/raw/master/Screenshots/iPhoneX_Ultimate_framed.png'> 
 </div>
   </details>
 
@@ -4381,7 +4381,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details><summary><code>swift</code> <code>vision</code> </summary>
 
   https://github.com/mattlawer/FaceLandmarksDetection<br>  Added January 25, 2018<br>  License: `other`
-  <div><img height='300' alt='Face Landmarks Detection image 1' src='https://camo.githubusercontent.com/e00a575cd16831a1b76c6a329ea1d353bf00ae4e/687474703a2f2f6936332e74696e797069632e636f6d2f6a31306b37622e676966'> 
+  <div><img height='300' alt='Face Landmarks Detection image 1' src='http://i63.tinypic.com/j10k7b.gif'> 
 </div>
   </details>
 
@@ -5213,7 +5213,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> <code>dark sky api (forecast api)</code> </summary>
 
   https://github.com/wrutkowski/Lucid-Weather-Clock<br>  Added January  5, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Lucid Weather Clock image 1' src='https://camo.githubusercontent.com/b961f69ba4ef05bbd2ec444277aa67f031d40d1e/687474703a2f2f692e67697068792e636f6d2f6d636d727333417277617745302e676966'> 
+  <div><img height='300' alt='Lucid Weather Clock image 1' src='http://i.giphy.com/mcmrs3ArwawE0.gif'> 
 </div>
   </details>
 
@@ -6079,7 +6079,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   <details><summary><code>react native</code> </summary>
 
   https://github.com/jsphkhan/ReactNativeExamples<br>  https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp<br>  Added May  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='Weather by jsphkhan image 1' src='https://camo.githubusercontent.com/d8d6748920497b1f6da276dbe7af715fa8df8a6a/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e312e706e67'> <img height='300' alt='Weather by jsphkhan image 2' src='https://camo.githubusercontent.com/dd8f80345ddd2a2f17663d07e3f38259a8f36982/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e322e706e67'> <img height='300' alt='Weather by jsphkhan image 3' src='https://camo.githubusercontent.com/da5efecec43f93228bb766d70ff7a33ad09d2d17/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e332e706e67'> 
+  <div><img height='300' alt='Weather by jsphkhan image 1' src='http://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen1.png'> <img height='300' alt='Weather by jsphkhan image 2' src='http://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen2.png'> <img height='300' alt='Weather by jsphkhan image 3' src='http://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen3.png'> 
 </div>
   </details>
 
