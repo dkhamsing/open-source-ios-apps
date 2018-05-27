@@ -678,7 +678,9 @@
         "archive"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/09d4726f3b100b9c6b313b2bbae038538a2cda3e/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43414b3762743455384141396b31532e706e67"
+        "https://pbs.twimg.com/media/CAK7bt4U8AA9k1S.png",
+        "https://pbs.twimg.com/media/CAK7bueUcAAEm9n.png",
+        "https://pbs.twimg.com/media/CAKtkTdUkAAAq1W.png"
       ],
       "description": "Apple Watch face",
       "license": "mit",
@@ -818,7 +820,9 @@
         "archive"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/5b89b213947316f8a914e897db3033d41e824bd3/687474703a2f2f692e696d6775722e636f6d2f334359524e6a4c2e706e67"
+        "http://i.imgur.com/4ja8xZF.png",
+        "http://i.imgur.com/3CYRNjL.png",
+        "http://i.imgur.com/HcRCkTB.png"
       ],
       "stars": 22,
       "license": "other",
@@ -1255,7 +1259,8 @@
       "license": "mpl-2.0",
       "source": "https://github.com/chrisballinger/BLEMeshChat",
       "screenshots": [
-        "https://camo.githubusercontent.com/71c9718ca94505f7135024802d145148e90ae605/68747470733a2f2f692e696d6775722e636f6d2f7a386c4564504d6d2e706e67"
+        "https://i.imgur.com/z8lEdPMm.png",
+        "https://i.imgur.com/z8lEdPM.png"
       ],
       "stars": 378,
       "date_added": "Mon Jan 11 09:02:54 2016 -0800",
@@ -2493,7 +2498,7 @@
       "date_added": "Wed Mar 18 11:05:17 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "https://camo.githubusercontent.com/867dfad61329bd77258f00d586b16476c7bc405a/687474703a2f2f692e696d6775722e636f6d2f314e4c6f546f552e676966"
+        "http://i.imgur.com/1NLoToU.gif"
       ]
     },
     {
@@ -4038,9 +4043,9 @@
         "swift"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/c50d34929cbeaa6ca7c30773410fbd74de95470f/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f312e706e67",
-        "https://camo.githubusercontent.com/acbc97860741cc35d9b99f785dd00410c5006773/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f322e706e67",
-        "https://camo.githubusercontent.com/daa316738f69b74d328d5172fb0beae9fd8aebbb/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f332e706e67"
+        "https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/1.png",
+        "https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/2.png",
+        "https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/3.png"
       ],
       "stars": 187,
       "license": "other",
@@ -4135,7 +4140,7 @@
         "swift"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/9ba7830d528cd45c20fc771b7347e8d2191a8cc6/68747470733a2f2f696a6f7368736d6974682e66696c65732e776f726470726573732e636f6d2f323031352f30342f61736369695f6b65726d69742e706e67"
+        "https://ijoshsmith.files.wordpress.com/2015/04/ascii_kermit.png"
       ],
       "date_added": "Wed May 6 07:30:15 2015 -0700",
       "suggested_by": "@dkhamsing"
@@ -4662,12 +4667,13 @@
         "hacker-news"
       ],
       "source": "https://github.com/weiran/Hackers",
+      "itunes": "https://itunes.apple.com/app/hackers-hacker-news-reading/id603503901",
       "stars": 328,
       "tags": [
         "swift"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/c8ae11c347f57bbb6641ca131dc165f927e3b8c1/687474703a2f2f692e696d6775722e636f6d2f61677a7565744e2e706e67"
+        "https://github.com/weiran/Hackers/raw/master/Screenshots/iPhoneX_Ultimate_framed.png"
       ],
       "license": "mit",
       "date_added": "Tue Dec 15 07:58:17 2015 -0800",
@@ -5662,7 +5668,7 @@
         "dark sky api (forecast api)"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/b961f69ba4ef05bbd2ec444277aa67f031d40d1e/687474703a2f2f692e67697068792e636f6d2f6d636d727333417277617745302e676966"
+        "http://i.giphy.com/mcmrs3ArwawE0.gif"
       ],
       "stars": 53,
       "date_added": "Tue Jan 5 16:03:00 2016 +0000",
@@ -5785,9 +5791,9 @@
         "react native"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/d8d6748920497b1f6da276dbe7af715fa8df8a6a/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e312e706e67",
-        "https://camo.githubusercontent.com/dd8f80345ddd2a2f17663d07e3f38259a8f36982/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e322e706e67",
-        "https://camo.githubusercontent.com/da5efecec43f93228bb766d70ff7a33ad09d2d17/687474703a2f2f6a7370686b68616e2e6769746875622e696f2f52656163744e6174697665576561746865724170702f6173736574732f73637265656e73686f74732f73637265656e332e706e67"
+        "http://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen1.png",
+        "http://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen2.png",
+        "http://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen3.png"
       ],
       "homepage": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp",
       "source": "https://github.com/jsphkhan/ReactNativeExamples",
@@ -15555,7 +15561,7 @@
         "objc"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/55591e6221b916eb92a96395a03ccd1f81c5b36a/68747470733a2f2f692e696d6775722e636f6d2f6d647767447a642e706e67"
+        "https://i.imgur.com/mdwgDzd.png"
       ],
       "stars": 425,
       "license": "apache-2.0",
@@ -15574,9 +15580,9 @@
         "objc"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/6181f3576f7c5ffa609bb37883b7a9e584fb27dc/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f372e6a7067",
-        "https://camo.githubusercontent.com/43c1514a43761a6ef920bd66fba83f74c029292f/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f382e6a7067",
-        "https://camo.githubusercontent.com/175de42215cd8fa04bd5b597a2dfd5f6b8cb0b1b/687474703a2f2f64696d697472696465737375732e66722f696d672f69506f6b65476f2f73637265656e73686f74732f69506f6b65476f332e6a7067"
+        "http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo7.jpg",
+        "http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo8.jpg",
+        "http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo3.jpg"
       ],
       "stars": 656,
       "license": "mit",
@@ -15595,7 +15601,7 @@
         "swift"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/e00a575cd16831a1b76c6a329ea1d353bf00ae4e/687474703a2f2f6936332e74696e797069632e636f6d2f6a31306b37622e676966"
+        "http://i63.tinypic.com/j10k7b.gif"
       ],
       "stars": 66,
       "license": "other",
@@ -16136,7 +16142,7 @@
       "license": "apache-2.0",
       "stars": 8,
       "screenshots": [
-        "https://camo.githubusercontent.com/121a7a6f92afdb73e4b7cc203147fe667b4b119c/68747470733a2f2f692e696d6775722e636f6d2f644a67323154462e706e67"
+        "https://i.imgur.com/dJg21TF.png"
       ],
       "date_added": "Apr 8 2018",
       "suggested_by": "@Aecasorg"
