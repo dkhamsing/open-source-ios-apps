@@ -98,10 +98,11 @@ def output_apps(apps, appstoreonly)
       end
     end
 
-    unless lang.nil?
-      details << output_flag(lang)
-      details << ' '
-    end
+    # flags are removed for now https://github.com/dkhamsing/open-source-ios-apps/issues/585  
+    # unless lang.nil?
+    #   details << output_flag(lang)
+    #   details << ' '
+    # end
 
     unless stars.nil?
       details << output_stars(stars)
