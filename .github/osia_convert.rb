@@ -134,9 +134,9 @@ def output_apps(apps, appstoreonly)
 
     unless screenshots.nil?
       details << "\n  <div>"
-      screenshots.each_with_index do |s, i|
-        details << "<img height='300' alt='#{name} image #{i+1}' src='#{screenshots[i]}'> "
-      end
+      # screenshots.each_with_index do |s, i|
+      details << "<img height='300' alt='#{name} image' src='#{screenshots[0]}'> "
+      # end
       details << "\n</div>"
     end
 
