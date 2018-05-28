@@ -16441,14 +16441,14 @@
       "suggested_by": "@vpeschenkov"
     },
     {
-      "title": "FityIt - The shapes game",
-      "description": "FityIt is a challenging game of skill and reflexes. Not only does this game test your reaction time, is super fun and addictive. How long can you survive in FityIt?",
+      "title": "FityIt",
+      "description": "FityIt - The shapes game - is a challenging game of skill and reflexes. Not only does this game test your reaction time, is super fun and addictive. How long can you survive in FityIt?",
       "category-ids": [
          "game",
          "spritekit"
       ],
       "source": "https://github.com/txaiwieser/FityIt",
-      "itunes": "https://itunes.apple.com/us/app/fityit-the-shapes-game/id991444581",
+      "itunes": "https://itunes.apple.com/app/fityit-the-shapes-game/id991444581",
       "license": "mit",
       "stars": 20,
       "tags": [
