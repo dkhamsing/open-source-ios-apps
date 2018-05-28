@@ -133,11 +133,10 @@ def output_apps(apps, appstoreonly)
     details_list[1..-1].each { |x| details << "<br>  #{x}" }
 
     unless screenshots.nil?
-      details << "\n  <div>"
-      # screenshots.each_with_index do |s, i|
-      details << "<img height='300' alt='#{name} image' src='#{screenshots[0]}'> "
-      # end
-      details << "\n</div>"
+      details << "\n <br>"
+      screenshots.each_with_index do |s, i|
+        details << "<a href='#{screenshots[i]}'><code>Screenshot #{i+1}</code></a> "
+      end
     end
 
     details << "\n  </details>\n\n"
