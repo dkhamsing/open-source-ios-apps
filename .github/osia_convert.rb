@@ -8,6 +8,8 @@ ARCHIVE_TAG = 'archive'
 
 APPSTORE = 'APPSTORE.md'
 
+NOT_ENGLISH = '🌐'
+
 def apps_archived(apps)
   a = apps.select {|a| a['tags'] != nil }.select {|b| b['tags'].include?ARCHIVE_TAG}
   a.sort_by { |k, v| k['title'].downcase }
@@ -98,11 +100,7 @@ def output_apps(apps, appstoreonly)
       end
     end
 
-    # flags are removed for now https://github.com/dkhamsing/open-source-ios-apps/issues/585  
-    # unless lang.nil?
-    #   details << output_flag(lang)
-    #   details << ' '
-    # end
+    details << "#{NOT_ENGLISH} " unless lang.nil?
 
     unless stars.nil?
       details << output_stars(stars)
@@ -155,31 +153,6 @@ def output_badges(count)
 
   b = "![](https://img.shields.io/badge/Projects-#{count}-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-#{date_display}-lightgrey.svg)"
   b
-end
-
-def output_flag(lang)
-  case lang
-  when 'deu'
-    '🇩🇪'
-  when 'fra'
-    '🇫🇷'
-  when 'jpn'
-    '🇯🇵'
-  when 'ltz'
-    '🇱🇺'
-  when 'nld'
-    '🇳🇱'
-  when 'por'
-    '🇵🇹'
-  when 'spa'
-    '🇪🇸'
-  when 'rus'
-    '🇷🇺'
-  when 'zho'
-    '🇨🇳'
-  else
-    ''
-  end
 end
 
 def output_stars(number)
