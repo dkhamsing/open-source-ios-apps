@@ -16439,6 +16439,33 @@
       ],
       "date_added": "May 26 2018",
       "suggested_by": "@vpeschenkov"
-    }
-  ]
+    },
+    {
+      "title": "FityIt",
+      "description": "FityIt - The shapes game - is a challenging game of skill and reflexes. Not only does this game test your reaction time, is super fun and addictive. How long can you survive in FityIt?",
+      "category-ids": [
+         "game",
+         "spritekit"
+      ],
+      "source": "https://github.com/txaiwieser/FityIt",
+      "itunes": "https://itunes.apple.com/app/fityit-the-shapes-game/id991444581",
+      "license": "mit",
+      "stars": 20,
+      "tags": [
+         "swift",
+         "spritekit",
+         "game",
+         "animation"
+      ],
+      "screenshots": [
+         "https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-1-GameScreen.png",
+         "https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-2-GameScreen.png",
+         "https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-3-GameScreen.png",
+         "https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-4-GameScreen.png",
+         "https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-5-GameScreen.png"
+      ],
+      "date_added": "May 28 2018",
+      "suggested_by": "@txaiwieser"
+   }
+   ]
 }
