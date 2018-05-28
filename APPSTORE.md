@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **240** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **241** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -989,6 +989,14 @@ Click ► to show more details
 </div>
   </details>
 
+- FityIt: FityIt - The shapes game - is a challenging game of skill and reflexes. Not only does this game test your reaction time, is super fun and addictive. How long can you survive in FityIt? [` App Store`](https://itunes.apple.com/app/fityit-the-shapes-game/id991444581)  
+  <details><summary><code>swift</code> <code>spritekit</code> <code>game</code> <code>animation</code> </summary>
+
+  https://github.com/txaiwieser/FityIt<br>  Added May 28, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='FityIt image 1' src='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-1-GameScreen.png'> <img height='300' alt='FityIt image 2' src='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-2-GameScreen.png'> <img height='300' alt='FityIt image 3' src='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-3-GameScreen.png'> <img height='300' alt='FityIt image 4' src='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-4-GameScreen.png'> <img height='300' alt='FityIt image 5' src='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-5-GameScreen.png'> 
+</div>
+  </details>
+
 - Frotz: Play hundreds of free works of Interactive Fiction (text adventure games) [` App Store`](https://itunes.apple.com/app/id287653015)  
   <details><summary><code>objc</code> </summary>
 
@@ -1087,6 +1095,14 @@ http://cocos2d.org/ — [back to top](#readme)
  
 https://developer.apple.com/reference/spritekit — [back to top](#readme) 
  
+- FityIt: FityIt - The shapes game - is a challenging game of skill and reflexes. Not only does this game test your reaction time, is super fun and addictive. How long can you survive in FityIt? [` App Store`](https://itunes.apple.com/app/fityit-the-shapes-game/id991444581)  
+  <details><summary><code>swift</code> <code>spritekit</code> <code>game</code> <code>animation</code> </summary>
+
+  https://github.com/txaiwieser/FityIt<br>  Added May 28, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  <div><img height='300' alt='FityIt image 1' src='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-1-GameScreen.png'> <img height='300' alt='FityIt image 2' src='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-2-GameScreen.png'> <img height='300' alt='FityIt image 3' src='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-3-GameScreen.png'> <img height='300' alt='FityIt image 4' src='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-4-GameScreen.png'> <img height='300' alt='FityIt image 5' src='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-5-GameScreen.png'> 
+</div>
+  </details>
+
 - Oh My Plane: A game like flappy bird [` App Store`](https://itunes.apple.com/app/oh-my-plane/id1100985506)  
   <details><summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> </summary>
 
