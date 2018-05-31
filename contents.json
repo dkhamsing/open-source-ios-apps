@@ -9765,7 +9765,7 @@
         "tor"
       ],
       "description": "A Tor-powered web browser that improves your privacy",
-      "source": "https://github.com/mtigas/OnionBrowser",
+      "source": "https://github.com/OnionBrowser/OnionBrowser",
       "homepage": "https://onionbrowser.com",
       "itunes": "https://itunes.apple.com/app/id519296448",
       "license": "mit",
