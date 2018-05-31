@@ -16466,6 +16466,26 @@
       ],
       "date_added": "May 28 2018",
       "suggested_by": "@txaiwieser"
-   }
-   ]
+     },
+     {
+       "title": "Mojilist",
+       "description": "🛍 Create shopping lists with emojis!",
+       "category-ids": [
+          "shopping"
+       ],
+       "source": "https://github.com/thiagoricieri/Mojilist",
+       "license": "apache-2.0",
+       "stars": 41,
+       "tags": [
+          "swift",
+          "alamofire",
+          "realm"
+       ],
+       "screenshots": [
+          "https://thiago.ricieri.com/assets/posts/2018/mojilist-screens.jpg"
+       ],
+       "date_added": "May 31 2018",
+       "suggested_by": "@vpeschenkov"
+    }
+  ]
 }
