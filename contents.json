@@ -16486,6 +16486,25 @@
        ],
        "date_added": "May 31 2018",
        "suggested_by": "@vpeschenkov"
-    }
-  ]
+    },
+    {
+      "title": "Wei Wallet",
+      "description": "Ethereum wallet",
+      "category-ids": [
+        "cryptocurrency"
+      ],
+      "source": "https://github.com/popshootjapan/WeiWallet-iOS",
+      "itunes": "https://itunes.apple.com/app/wei-wallet/id1376979142",
+      "license": "apache-2.0",
+      "stars": 53,
+      "tags": [
+        "swift",
+        "swinject"
+      ],
+      "lang": "jpn",
+      "screenshots": [
+        "https://raw.githubusercontent.com/popshootjapan/WeiWallet-iOS/master/resources/cover_img.png"
+     ]
+   }
+ ]
 }
