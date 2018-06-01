@@ -4215,7 +4215,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  <br><a href='http://a4.mzstatic.com/us/r30/Purple1/v4/7a/5f/b7/7a5fb7a2-e038-2b81-63b6-8b76872b86fe/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- Mojilist: 🛍 Create shopping lists with emojis!  
+- Mojilist: Create shopping lists with emojis!  
   <details><summary><code>swift</code> <code>alamofire</code> <code>realm</code> </summary>
 
   https://github.com/thiagoricieri/Mojilist<br>  Added May 31, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
