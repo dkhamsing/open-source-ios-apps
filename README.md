@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-819-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2031,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-819-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%201,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1010,7 +1010,7 @@ Click ► to show more details
   </details>
 
 - OpenTerm: Sandboxed command line interface [` App Store`](https://itunes.apple.com/app/terminal/id1323205755)  
-  <details><summary><code>swift</code> <code>panelkit</code> 🔥🔥🔥</summary>
+  <details><summary><code>swift</code> <code>panelkit</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/louisdh/openterm<br>  Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg'><code>Screenshot 1</code></a> 
@@ -1073,7 +1073,7 @@ Click ► to show more details
   </details>
 
 - Terrarium: UI prototyping for coders  
-  <details><summary><code>c++</code> 🔥</summary>
+  <details><summary><code>c++</code> 🔥🔥</summary>
 
   https://github.com/penk/terrarium-app<br>  Added February 23, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a1.mzstatic.com/us/r30/Purple3/v4/80/7a/9f/807a9f8a-3ec4-087d-e50e-050eb813747a/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/6c/42/12/6c4212ff-1e96-e68c-d3bc-cb4c4d0bd281/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple3/v4/cf/1e/7a/cf1e7a68-e703-45fc-5e24-8f01f2a5b6c9/screen696x696.jpeg'><code>Screenshot 3</code></a> 
@@ -1141,7 +1141,7 @@ Click ► to show more details
   </details>
 
 - GitHawk: GitHub project manager [` App Store`](https://itunes.apple.com/app/githawk-for-github/id1252320249)  
-  <details><summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> 🔥🔥🔥</summary>
+  <details><summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> 🔥🔥🔥🔥</summary>
 
   https://github.com/GitHawkApp/GitHawk<br>  Added July  5, 2017<br>  License: `other`
  <br><a href='http://i.imgur.com/XwW4MI2.png'><code>Screenshot 1</code></a> <a href='http://i.imgur.com/sFgTFJX.png'><code>Screenshot 2</code></a> 
@@ -1182,7 +1182,7 @@ Click ► to show more details
   </details>
 
 - OctoPodium: List users ranked by GitHub repository star count  
-  <details><summary><code>swift</code> 🔥</summary>
+  <details><summary><code>swift</code> 🔥🔥</summary>
 
   https://github.com/nunogoncalves/iOS-OctoPodium<br>  Added February 18, 2016<br>  License: `other`
  <br><a href='http://a2.mzstatic.com/us/r30/Purple60/v4/1b/54/e0/1b54e0e9-fc86-b8ea-01dd-f13c63507bad/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple30/v4/11/43/09/114309a8-6399-011d-ee34-3e2b59d01d6a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple30/v4/c2/31/70/c2317036-b9ed-3d18-35b7-beb733f8e074/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple60/v4/d3/a1/84/d3a18462-d036-304a-72af-d283e51fed39/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple20/v4/58/03/34/5803343a-be95-66c7-27ea-ebb648ca3436/screen696x696.jpeg'><code>Screenshot 5</code></a> 
@@ -1264,7 +1264,7 @@ Click ► to show more details
   </details>
 
 - Recast: A podcast client that seeks to transform the way you listen to, interact with, and share and discover podcast content. [` App Store`](https://itunes.apple.com/app/recast-find-share-podcasts/id1182878908)  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> 🔥</summary>
 
   https://github.com/cuappdev/podcast-ios<br>  Added May 26, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0b/b5/f6/0bb5f665-9207-58d7-effd-23879f680a01/mzl.jtdasfzc.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/b0/85/4c/b0854c05-6930-b70a-28bc-ea65aefe123f/mzl.udtmgexa.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/5c/7b/955c7b98-b7b6-6680-4024-3f756fef12ac/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/57/d1/bc/57d1bc1d-c8ef-50d4-dda0-fadcd7cc9282/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
@@ -2219,7 +2219,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 [back to top](#readme) 
  
 - Arex: Reminders for taking your medications  
-  <details><summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> 🔥</summary>
+  <details><summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> </summary>
 
   https://github.com/a2/arex<br>  Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2928,7 +2928,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - Swift Radio Pro: Professional radio station app  
-  <details><summary><code>swift</code> <code>swift2</code> 🔥🔥🔥🔥</summary>
+  <details><summary><code>swift</code> <code>swift2</code> 🔥🔥🔥🔥🔥</summary>
 
   https://github.com/analogcode/Swift-Radio-Pro<br>  Added January 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png'><code>Screenshot 1</code></a> 
@@ -2968,7 +2968,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - Artsy Folio: Artwork showcase [` App Store`](https://itunes.apple.com/app/artsy-folio/id504862164)  
-  <details><summary><code>objc</code> 🔥</summary>
+  <details><summary><code>objc</code> 🔥🔥</summary>
 
   https://github.com/artsy/energy<br>  Added August 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a5.mzstatic.com/us/r30/Purple71/v4/23/c4/ea/23c4eaee-0df9-1ef2-c179-944e4a0ef83d/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple62/v4/94/c0/c2/94c0c26d-f357-ae4f-c428-97d6b030e36d/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple62/v4/fe/2b/67/fe2b6779-8a73-2924-8aa3-45cc42cb1127/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/6e/78/13/6e781329-db0f-81ca-1783-428f85b4f76c/screen696x696.jpeg'><code>Screenshot 4</code></a> 
@@ -3689,7 +3689,7 @@ https://newsapi.org/ — [back to top](#readme)
 https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme) 
  
 - Arex: Reminders for taking your medications  
-  <details><summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> 🔥</summary>
+  <details><summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> </summary>
 
   https://github.com/a2/arex<br>  Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -4080,7 +4080,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - Krypton: Generate & store an SSH key on your phone [` App Store`](https://itunes.apple.com/app/krypton-by-krypt-co/id1161494806)  
-  <details><summary><code>swift</code> 🔥</summary>
+  <details><summary><code>swift</code> 🔥🔥</summary>
 
   https://github.com/kryptco/krypton-ios<br>  Added May  2, 2017<br>  License: `other`
  <br><a href='http://a2.mzstatic.com/us/r30/Purple122/v4/a1/44/1f/a1441fb4-a4de-c877-fe07-335c75724c03/screen696x696.jpeg'><code>Screenshot 1</code></a> 
@@ -4456,14 +4456,14 @@ https://mastodon.social — [back to top](#readme)
 [back to top](#readme) 
  
 - Boostnote: Markdown text editor, offline or synced via Dropbox [` App Store`](https://itunes.apple.com/app/boostnote/id1273066636)  
-  <details><summary><code>react-native</code> 🔥🔥</summary>
+  <details><summary><code>react-native</code> 🔥🔥🔥</summary>
 
   https://github.com/BoostIO/boostnote-mobile<br>  Added May 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://boostnote.io/assets/img/top2.png'><code>Screenshot 1</code></a> 
   </details>
 
 - FSNotes: Notes manager. [` App Store`](https://itunes.apple.com/app/fsnotes-manager/id1346501102)  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> 🔥🔥🔥</summary>
 
   https://github.com/glushchenko/fsnotes<br>  Added May 11, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f9/72/00/f972005b-5a6b-fc54-b68e-f6a704f82f1f/mzl.kxlcltgy.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/fd/a8/eefda80f-f32b-94e4-27f3-e4a3fa8b1079/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/a0/73/95a0739c-7e40-2e7d-787b-52e59b3d8581/mzl.srqiktcn.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/b1/61/0eb1619e-2e6a-234f-06a6-eefafcad478c/mzl.ihcrhigp.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/60/09/11/60091180-1755-60ca-b390-3223f4ac8b34/mzl.vbvqksns.png/460x0w.jpg'><code>Screenshot 5</code></a> 
@@ -4505,7 +4505,7 @@ https://mastodon.social — [back to top](#readme)
   </details>
 
 - Standard Notes: Notes app with focus on longevity, portability & privacy [` App Store`](https://itunes.apple.com/app/standard-notes/id1285392450)  
-  <details><summary><code>react-native</code> 🔥</summary>
+  <details><summary><code>react-native</code> 🔥🔥</summary>
 
   https://github.com/standardnotes/mobile<br>  Added January 18, 2017<br>  License: `other`
  <br><a href='http://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg'><code>Screenshot 1</code></a> 
