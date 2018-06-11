@@ -13094,8 +13094,7 @@
         "https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png"
       ],
       "category-ids": [
-        "location",
-        "developer"
+        "event"        
       ],
       "description": "Easily connect with fellow developers during WWDC",
       "tags": [
@@ -13412,7 +13411,7 @@
       "title": "WWDC Family React Native",
       "source": "https://github.com/wwdc-family/app",
       "category-ids": [
-        "location",
+        "event",
         "react-native"
       ],
       "screenshots": [
