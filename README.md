@@ -5632,6 +5632,7 @@ https://www.xamarin.com/ — [back to top](#readme)
   <details><summary><code>csharp</code> </summary>
 
   https://github.com/toggl/mobileapp<br>  Added May  8, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+ <br><a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c2/92/12/c292124b-cd47-f2c0-8c53-683b66da71f6/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/70/36/be/7036be07-d26c-5832-a4d4-2dea5affc50f/mzl.hvggawxa.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f5/11/7f/f5117f7f-f369-98ce-8ad6-d23366450347/mzl.ambiyxmf.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/08/6d/2b/086d2b84-e722-c367-9135-bbec9c5b849a/mzl.gobyvnpu.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 
