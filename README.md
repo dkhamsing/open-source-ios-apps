@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-819-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%201,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-819-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2011,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1093,13 +1093,6 @@ Click ► to show more details
  <br><a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/eb/03/2e/eb032e7d-9b04-0cea-89af-41478761d5b0/pr_source.png/316x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/de/e0/70/dee07035-182f-b5e1-9e48-38c5660dd760/pr_source.png/316x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/fe/8d/03/fe8d03fd-bdc7-dca5-ddd1-57de854e716e/pr_source.png/316x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- WWDC Family iOS: Easily connect with fellow developers during WWDC  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/3lvis/ios<br>  Added February 21, 2017<br>  License: `other`
- <br><a href='https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - 花灰: How to prounounce programming terms in English  
   <details><summary><code>swift</code> 🌐 🔥</summary>
 
@@ -1439,6 +1432,20 @@ Click ► to show more details
 
   https://github.com/tryswift/trySwiftAppFinal<br>  Added February 22, 2017<br>  License: `other`
  <br><a href='https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png'><code>Screenshot 1</code></a> <a href='https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- WWDC Family iOS: Easily connect with fellow developers during WWDC  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/3lvis/ios<br>  Added February 21, 2017<br>  License: `other`
+ <br><a href='https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- WWDC Family React Native: Easily connect with fellow developers during WWDC  
+  <details><summary><code>react-native</code> 🔥</summary>
+
+  https://github.com/wwdc-family/app<br>  Added April  3, 2017<br>  License: `other`
+ <br><a href='https://raw.githubusercontent.com/wwdc-family/app/master/design/Screenshot1.png'><code>Screenshot 1</code></a> 
   </details>
 
 
@@ -2645,20 +2652,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
   https://github.com/sozialhelden/wheelmap-iphone2<br>  http://wheelmap.org<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
  <br><a href='http://a2.mzstatic.com/us/r30/Purple71/v4/31/98/51/31985171-13ac-746f-b7f6-6caafa79b31b/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple71/v4/9e/eb/19/9eeb1915-0499-24b3-9ca3-12a755c55b21/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple71/v4/d2/d8/1d/d2d81d12-bd4e-4068-0eca-f14b02e05c73/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple41/v4/9b/df/9b/9bdf9b42-5744-b8c1-70cf-5b68af6ad5b2/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple22/v4/7f/c7/fb/7fc7fbbc-c443-d17a-43e7-679586f80bb6/screen696x696.jpeg'><code>Screenshot 5</code></a> 
-  </details>
-
-- WWDC Family iOS: Easily connect with fellow developers during WWDC  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/3lvis/ios<br>  Added February 21, 2017<br>  License: `other`
- <br><a href='https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- WWDC Family React Native: Easily connect with fellow developers during WWDC  
-  <details><summary><code>react-native</code> 🔥</summary>
-
-  https://github.com/wwdc-family/app<br>  Added April  3, 2017<br>  License: `other`
- <br><a href='https://raw.githubusercontent.com/wwdc-family/app/master/design/Screenshot1.png'><code>Screenshot 1</code></a> 
   </details>
 
 
