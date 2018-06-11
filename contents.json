@@ -16515,6 +16515,26 @@
       "screenshots": [
         "https://raw.githubusercontent.com/popshootjapan/WeiWallet-iOS/master/resources/cover_img.png"
       ]
+    },
+    {
+      "title": "Bitwarden",
+      "category-ids": [
+        "password"
+      ],
+      "description": "An easy way for individuals, teams, and business organizations to store, share, and sync sensitive data.",
+      "source": "https://github.com/bitwarden/mobile",
+      "homepage": "https://bitwarden.com",
+      "itunes": "https://itunes.apple.com/app/bitwarden-free-password-manager/id1137397744",
+      "license": "gpl-3.0",
+      "tags": [
+        "csharp"
+      ],
+      "stars": 426,
+      "screenshots": [
+        "https://i.imgur.com/3BO1Wcg.png"
+      ],
+      "date_added": "June 10 2018",
+      "suggested_by": "@rm-rf-home"
     }
   ]
 }
