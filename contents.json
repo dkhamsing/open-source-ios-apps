@@ -16520,7 +16520,8 @@
     {
       "title": "Bitwarden",
       "category-ids": [
-        "password"
+        "password",
+        "csharp"
       ],
       "description": "An easy way for individuals, teams, and business organizations to store, share, and sync sensitive data.",
       "source": "https://github.com/bitwarden/mobile",
@@ -16529,7 +16530,7 @@
       "license": "gpl-3.0",
       "stars": 426,
       "screenshots": [
-        "https://camo.githubusercontent.com/b2dff900f45c86c85e1c65a8576356a87971fa9e/68747470733a2f2f692e696d6775722e636f6d2f52374832746b512e706e67","https://camo.githubusercontent.com/3d2118c643c885c7c9c12fee554ece577af36c7b/68747470733a2f2f692e696d6775722e636f6d2f33424f315763672e706e67"
+        "https://i.imgur.com/3BO1Wcg.png"
       ],
       "date_added": "June 10 2018",
       "suggested_by": "@rm-rf-home"
