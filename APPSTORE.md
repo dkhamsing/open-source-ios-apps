@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **242** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **243** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1906,6 +1906,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/mattrubin/authenticator<br>  https://mattrubin.me/authenticator/<br>  Added March 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a3.mzstatic.com/us/r30/Purple4/v4/d0/6f/3d/d06f3d75-b4f9-d2c0-1f24-01ec8f84d3d2/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/ba/b8/ee/bab8eeb5-de24-7319-9401-c90cf2e95212/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/aa/8f/5e/aa8f5eff-74da-db7c-a647-cfb18a54cfaf/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+  </details>
+
+- Bitwarden: An easy way for individuals, teams, and business organizations to store, share, and sync sensitive data. [` App Store`](https://itunes.apple.com/app/bitwarden-free-password-manager/id1137397744)  
+  <details><summary><code>csharp</code> 🔥🔥</summary>
+
+  https://github.com/bitwarden/mobile<br>  https://bitwarden.com<br>  Added June 10, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+ <br><a href='https://i.imgur.com/3BO1Wcg.png'><code>Screenshot 1</code></a> 
   </details>
 
 - Encryptr: A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
