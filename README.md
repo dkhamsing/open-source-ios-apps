@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-820-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2011,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-821-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2013,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1093,6 +1093,13 @@ Click ► to show more details
  <br><a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/eb/03/2e/eb032e7d-9b04-0cea-89af-41478761d5b0/pr_source.png/316x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/de/e0/70/dee07035-182f-b5e1-9e48-38c5660dd760/pr_source.png/316x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/fe/8d/03/fe8d03fd-bdc7-dca5-ddd1-57de854e716e/pr_source.png/316x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
+- WWDCast: The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast  
+  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> </summary>
+
+  https://github.com/sgl0v/WWDCast<br>  Added June 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen3.png'><code>Screenshot 3</code></a> 
+  </details>
+
 - 花灰: How to prounounce programming terms in English  
   <details><summary><code>swift</code> 🌐 🔥</summary>
 
@@ -1275,6 +1282,13 @@ Click ► to show more details
 
   https://github.com/haawa799/WaniKani-iOS<br>  Added May  3, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='http://a3.mzstatic.com/us/r30/Purple49/v4/da/d8/8e/dad88eec-4269-1521-fb4e-78286ef6d949/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple49/v4/e3/70/13/e37013b8-d618-1cfb-c84b-7a19bebabba6/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/63/55/69/63556904-f2dc-0c4a-8b7e-8feef7baf592/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple49/v4/77/1d/b3/771db3a9-91d8-26fd-99fb-a86f61bc6b54/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple49/v4/eb/ad/97/ebad97c8-c4d8-c0b3-0cde-c462f8a9441b/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+  </details>
+
+- WWDCast: The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast  
+  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> </summary>
+
+  https://github.com/sgl0v/WWDCast<br>  Added June 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen3.png'><code>Screenshot 3</code></a> 
   </details>
 
 
@@ -3830,6 +3844,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/BalestraPatrick/Tweetometer<br>  Added May 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://github.com/BalestraPatrick/Tweetometer/raw/master/header.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- WWDCast: The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast  
+  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> </summary>
+
+  https://github.com/sgl0v/WWDCast<br>  Added June 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen3.png'><code>Screenshot 3</code></a> 
   </details>
 
 
