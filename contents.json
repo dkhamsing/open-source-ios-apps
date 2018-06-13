@@ -13106,6 +13106,30 @@
       "stars": 36
     },
     {
+      "title": "WWDCast",
+      "source": "https://github.com/sgl0v/WWDCast",
+      "screenshots": [
+        "https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen1.png",
+        "https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen2.png",
+        "https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen3.png"
+      ],
+      "category-ids": [
+        "education",
+        "developer",
+        "rxswift"
+      ],
+      "description": "The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast",
+      "tags": [
+        "swift",
+        "rxswift",
+        "mvvm"
+      ],
+      "license": "mit",
+      "date_added": "June 10 2018",
+      "suggested_by": "@sgl0v",
+      "stars": 1
+    },
+    {
       "title": "Awesome ML",
       "category-ids": [
         "developer"
