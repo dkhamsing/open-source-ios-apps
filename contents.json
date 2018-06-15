@@ -4901,7 +4901,7 @@
       "tags": [
         "objc"
       ],
-      "source": "https://developer.apple.com/library/content/navigation/#section=Resource%20Types&topic=Sample%20Code",
+      "source": "https://developer.apple.com/library/archive/navigation/",
       "license": "other",
       "date_added": "Tue, 24 Mar 2015 08:55:23 -0700",
       "suggested_by": "@dkhamsing"
@@ -5130,7 +5130,7 @@
       "description": "Ecommerce shopping app",
       "license": "mit",
       "source": "https://github.com/openshopio/openshop.io-ios",
-      "itunes": "https://itunes.apple.com/app/id1088689646",
+      "itunes": "https://itunes.apple.com/app/openshop-io/id1250327932",
       "stars": 330,
       "date_added": "Fri Apr 22 16:33:06 2016 +0200",
       "suggested_by": "@Petr Skornok",
@@ -9857,8 +9857,8 @@
         "http://a1.mzstatic.com/us/r30/Purple3/v4/a4/bd/1e/a4bd1e5c-a158-7669-76c9-915c3b41ecec/screen568x568.jpeg"
       ],
       "description": "A re-implementation of the HP-42S Calculator & the HP-82240 printer",
-      "source": "http://thomasokken.nl/free42/download/free42.tgz",
-      "homepage": "http://thomasokken.nl/free42/",
+      "source": "http://thomasokken.com/free42/download/free42.tgz",
+      "homepage": "http://thomasokken.com/free42/",
       "itunes": "https://itunes.apple.com/app/id337692629",
       "license": "gpl-2.0",
       "date_added": "Thu Jun 2 01:07:19 2016 -0600",
@@ -14411,7 +14411,7 @@
     },
     {
       "title": "Thoughtless",
-      "source": "https://github.com/yoha/Thoughtless",
+      "source": "https://github.com/macgeekpro/Thoughtless",
       "description": "Quickly jot down thoughts, supports Markdown",
       "category-ids": [
         "notes"
