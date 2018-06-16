@@ -1065,13 +1065,6 @@ Click ► to show more details
  <br><a href='https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot2.png?raw=true'><code>Screenshot 2</code></a> 
   </details>
 
-- Shadertweak: An iPad app that allows you to rapidly prototype fragment shaders in the Metal shading language  
-  <details><summary><code>objc</code> <code>metal</code> ⭐⭐</summary>
-
-  https://github.com/warrenm/Shadertweak<br>  Added January 13, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
- <br><a href='https://github.com/warrenm/Shadertweak/blob/master/screenshot.png?raw=true'><code>Screenshot 1</code></a> 
-  </details>
-
 - Terrarium: UI prototyping for coders  
   <details><summary><code>c++</code> ⭐⭐</summary>
 
