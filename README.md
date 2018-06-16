@@ -472,7 +472,7 @@ Click ► to show more details
 - Free42: A re-implementation of the HP-42S Calculator & the HP-82240 printer [` App Store`](https://itunes.apple.com/app/id337692629)  
   <details><summary><code>objc</code> </summary>
 
-  http://thomasokken.nl/free42/download/free42.tgz<br>  http://thomasokken.nl/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  http://thomasokken.com/free42/download/free42.tgz<br>  http://thomasokken.com/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
  <br><a href='http://a1.mzstatic.com/us/r30/Purple3/v4/a4/bd/1e/a4bd1e5c-a158-7669-76c9-915c3b41ecec/screen568x568.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
@@ -3861,7 +3861,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - Apple Developer Library  
   <details><summary><code>objc</code> </summary>
 
-  https://developer.apple.com/library/content/navigation/#section=Resource%20Types&topic=Sample%20Code<br>  Added March 24, 2015<br>  License: `other`
+  https://developer.apple.com/library/archive/navigation/<br>  Added March 24, 2015<br>  License: `other`
   </details>
 
 - Apple WWDC 2015: Code samples from WWDC 2015  
@@ -4236,7 +4236,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  <br><a href='https://thiago.ricieri.com/assets/posts/2018/mojilist-screens.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- OpenShop.io: Ecommerce shopping app [` App Store`](https://itunes.apple.com/app/id1088689646)  
+- OpenShop.io: Ecommerce shopping app [` App Store`](https://itunes.apple.com/app/openshop-io/id1250327932)  
   <details><summary><code>objc</code> ⭐⭐</summary>
 
   https://github.com/openshopio/openshop.io-ios<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -4528,7 +4528,7 @@ https://mastodon.social — [back to top](#readme)
 - Thoughtless: Quickly jot down thoughts, supports Markdown  
   <details><summary><code>swift</code> <code>swifthexcolors</code> <code>cfalertviewcontroller</code> </summary>
 
-  https://github.com/yoha/Thoughtless<br>  Added June 20, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/macgeekpro/Thoughtless<br>  Added June 20, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://i.imgur.com/263faeN.png'><code>Screenshot 1</code></a> 
   </details>
 
