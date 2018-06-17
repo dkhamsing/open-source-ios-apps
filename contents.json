@@ -16566,6 +16566,30 @@
       ],
       "date_added": "June 10 2018",
       "suggested_by": "@rm-rf-home"
+    },
+    {
+      "title": "Nightguard",
+      "category-ids": [
+        "apple-watch",
+        "health"
+      ],
+      "description": "An application to display blood glucose values stored at your nightscout server",
+      "source": "https://github.com/nightscout/nightguard",
+      "homepage": "http://www.nightscout.info/",
+      "license": "gpl-3.0",
+      "tags": [
+        "swift",
+        "apple-watch"
+      ],
+      "stars": 29,
+      "screenshots": [
+        "https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen1.jpg",
+        "https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen2.jpg",
+        "https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen3.jpg",
+        "https://raw.githubusercontent.com/nightscout/nightguard/master/images/nightguardOnWatch.gif"
+      ],
+      "date_added": "June 17 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
