@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-821-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2016,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-822-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2017,%202018-lightgrey.svg)
 
 Jump to
 
@@ -317,6 +317,13 @@ Click ► to show more details
 
   https://github.com/chadkeck/Natural-Language-Clock<br>  Added April 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://github.com/chadkeck/Natural-Language-Clock/raw/master/assets/iPhone-and-Apple-Watch.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- Nightguard: An application to display blood glucose values stored at your nightscout server  
+  <details><summary><code>swift</code> <code>apple-watch</code> </summary>
+
+  https://github.com/nightscout/nightguard<br>  http://www.nightscout.info/<br>  Added June 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+ <br><a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen1.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen2.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen3.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/nightguardOnWatch.gif'><code>Screenshot 4</code></a> 
   </details>
 
 - Parties for WWDC  
@@ -2279,6 +2286,13 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  <br><a href='http://a1.mzstatic.com/us/r30/Purple122/v4/2d/28/8c/2d288c05-33f0-1f18-b06a-4e3a24e1d608/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
+- Nightguard: An application to display blood glucose values stored at your nightscout server  
+  <details><summary><code>swift</code> <code>apple-watch</code> </summary>
+
+  https://github.com/nightscout/nightguard<br>  http://www.nightscout.info/<br>  Added June 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+ <br><a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen1.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen2.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen3.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/nightguardOnWatch.gif'><code>Screenshot 4</code></a> 
+  </details>
+
 
 ### Fitness 
  
@@ -3353,8 +3367,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Keinex tech blog  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/AndreyBaranchikov/Keinex-iOS<br>  Added August  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
- <br><a href='https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/1.jpg'><code>Screenshot 1</code></a> <a href='https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/2.jpg'><code>Screenshot 2</code></a> 
+  https://github.com/Keinex/Keinex-iOS<br>  Added August  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='https://github.com/Keinex/Keinex-iOS/blob/master/1.jpg'><code>Screenshot 1</code></a> <a href='https://github.com/Keinex/Keinex-iOS/blob/master/2.jpg'><code>Screenshot 2</code></a> 
   </details>
 
 - LobsterApp: Browse the https://lobste.rs community news site  
