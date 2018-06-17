@@ -4465,10 +4465,10 @@
       "category-ids": [
         "news"
       ],
-      "source": "https://github.com/AndreyBaranchikov/Keinex-iOS",
+      "source": "https://github.com/Keinex/Keinex-iOS",
       "screenshots": [
-        "https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/1.jpg",
-        "https://github.com/AndreyBaranchikov/Keinex-iOS/blob/master/2.jpg"
+        "https://github.com/Keinex/Keinex-iOS/blob/master/1.jpg",
+        "https://github.com/Keinex/Keinex-iOS/blob/master/2.jpg"
       ],
       "tags": [
         "swift"
