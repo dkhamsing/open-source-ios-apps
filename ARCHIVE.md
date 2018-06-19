@@ -141,6 +141,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Runner-Stats https://github.com/hukun01/Runner-Stats
 - SceneKitFrogger https://github.com/devindazzle/SceneKitFrogger
 - Scratch https://github.com/johnmci/Scratch.app.for.iOS
+- Shadertweak https://github.com/opensourceios/Shadertweak
 - Shuttle-Tracker https://github.com/AbstractedSheep/Shuttle-Tracker
 - Songkick https://github.com/ArnaudRinquin/sk-react-native
 - Soon https://github.com/sandofsky/soon

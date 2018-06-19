@@ -8,6 +8,8 @@ ARCHIVE_TAG = 'archive'
 
 APPSTORE = 'APPSTORE.md'
 
+NOT_ENGLISH = '🌐'
+
 def apps_archived(apps)
   a = apps.select {|a| a['tags'] != nil }.select {|b| b['tags'].include?ARCHIVE_TAG}
   a.sort_by { |k, v| k['title'].downcase }
@@ -98,10 +100,7 @@ def output_apps(apps, appstoreonly)
       end
     end
 
-    unless lang.nil?
-      details << output_flag(lang)
-      details << ' '
-    end
+    details << "#{NOT_ENGLISH} " unless lang.nil?
 
     unless stars.nil?
       details << output_stars(stars)
@@ -134,11 +133,10 @@ def output_apps(apps, appstoreonly)
     details_list[1..-1].each { |x| details << "<br>  #{x}" }
 
     unless screenshots.nil?
-      details << "\n  <div>"
+      details << "\n <br>"
       screenshots.each_with_index do |s, i|
-        details << "<img height='300' alt='#{name} image #{i+1}' src='#{screenshots[i]}'> "
+        details << "<a href='#{screenshots[i]}'><code>Screenshot #{i+1}</code></a> "
       end
-      details << "\n</div>"
     end
 
     details << "\n  </details>\n\n"
@@ -156,43 +154,18 @@ def output_badges(count)
   b
 end
 
-def output_flag(lang)
-  case lang
-  when 'deu'
-    '🇩🇪'
-  when 'fra'
-    '🇫🇷'
-  when 'jpn'
-    '🇯🇵'
-  when 'ltz'
-    '🇱🇺'
-  when 'nld'
-    '🇳🇱'
-  when 'por'
-    '🇵🇹'
-  when 'spa'
-    '🇪🇸'
-  when 'rus'
-    '🇷🇺'
-  when 'zho'
-    '🇨🇳'
-  else
-    ''
-  end
-end
-
 def output_stars(number)
   case number
   when 100...200
-    '🔥'
+    '⭐'
   when 200...500
-    '🔥🔥'
+    '⭐⭐'
   when 500...1000
-    '🔥🔥🔥'
+    '⭐⭐⭐'
   when 1000...2000
-    '🔥🔥🔥🔥'
+    '⭐⭐⭐⭐'
   when 2000...100000
-    '🔥🔥🔥🔥🔥'
+    '⭐⭐⭐⭐⭐'
   else
     ''
   end
