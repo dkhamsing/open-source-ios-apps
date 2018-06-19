@@ -16590,6 +16590,24 @@
       ],
       "date_added": "June 17 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Falcon Messenger",
+      "category-ids": ["communication", "firebase"],
+      "description": "Fast and beautiful cloud-based messaging app",
+      "source": "https://github.com/RMizin/FalconMessenger",
+      "itunes": "https://itunes.apple.com/app/id1313765714",		
+      "license": "gpl-3.0",
+      "stars": 22,     
+      "tags": ["swift, firebase"],
+      "screenshots": ["https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkWelcome.png", 
+                      "https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkContacts.png",
+                      "https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkChats.png",
+                      "https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkGroupChat.png",
+                      "https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkSettings.png"
+      ],
+      "date_added": "June 19 2018",
+      "suggested_by": "@RMizin"
     }
   ]
 }
