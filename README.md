@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-822-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2017,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-823-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2019,%202018-lightgrey.svg)
 
 Jump to
 
@@ -715,6 +715,13 @@ Click ► to show more details
 
   https://github.com/colloquy/colloquy<br>  Added January 27, 2016<br>  License: `other`
  <br><a href='http://a2.mzstatic.com/us/r30/Purple3/v4/1c/6b/1f/1c6b1f4b-d464-9faf-47ba-aab606d62dff/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/af/54/c7/af54c763-96f6-7d4f-0813-1a19d06fb3dc/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple3/v4/29/12/80/291280a9-87f0-41ad-121d-54ee39ec45df/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple5/v4/7c/ef/78/7cef78fb-56e1-52e2-d5b4-6fbc833ca32b/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/18/55/21/185521ba-035e-6b2d-362f-0e50b767f5b7/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+  </details>
+
+- Falcon Messenger: Fast and beautiful cloud-based messaging app [` App Store`](https://itunes.apple.com/app/id1313765714)  
+  <details><summary><code>swift, firebase</code> </summary>
+
+  https://github.com/RMizin/FalconMessenger<br>  Added June 19, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+ <br><a href='https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkWelcome.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkContacts.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkChats.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkGroupChat.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkSettings.png'><code>Screenshot 5</code></a> 
   </details>
 
 - IRCCloud: IRC client/service [` App Store`](https://itunes.apple.com/app/irccloud/id672699103)  
@@ -5036,6 +5043,13 @@ https://firebase.google.com/ — [back to top](#readme)
 
   https://github.com/chauvincent/CodeSprint-iOS<br>  Added November 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a1.mzstatic.com/us/r30/Purple62/v4/95/15/ad/9515add9-5322-a96e-5ab6-bbd258d524d5/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple71/v4/3e/95/f0/3e95f062-ed08-1a9f-b64a-f7cc05930e42/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple62/v4/88/94/25/88942500-f5ea-c03f-41d6-81477f9b78f9/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple62/v4/36/1c/42/361c4270-a061-f7fc-19fa-91e4321aecc4/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple62/v4/5a/47/90/5a47904c-a86c-336d-c105-9dd20dac1872/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+  </details>
+
+- Falcon Messenger: Fast and beautiful cloud-based messaging app [` App Store`](https://itunes.apple.com/app/id1313765714)  
+  <details><summary><code>swift, firebase</code> </summary>
+
+  https://github.com/RMizin/FalconMessenger<br>  Added June 19, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+ <br><a href='https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkWelcome.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkContacts.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkChats.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkGroupChat.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/RMizin/FalconMessenger/master/Screenshots/5.8DarkSettings.png'><code>Screenshot 5</code></a> 
   </details>
 
 - Hacker News Client [` App Store`](https://itunes.apple.com/app/hacker-news-client/id939454231)  
