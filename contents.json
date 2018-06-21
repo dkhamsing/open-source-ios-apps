@@ -1309,6 +1309,33 @@
       "stars": 28,
       "license": "mit"
     },
+     {
+      "title": "MeetPoint App",
+      "category-ids": [
+        "social",
+        "firebase"
+      ],
+      "tags": [
+        "swift",
+        "swift3",
+        "firebase"
+      ],
+      "description": "MeetPoint is a social media application that you can share spontaneous activities.",
+      "source": "https://github.com/MeetPoint-App/meetpoint-ios",
+      "itunes": "https://itunes.apple.com/app/meetpoint-app/id1363547170",
+      "screenshots": [
+        "http://meetpointapp.co/assets/images/screenshot/01.jpg",
+        "http://meetpointapp.co/assets/images/screenshot/02.jpg",
+        "http://meetpointapp.co/assets/images/screenshot/03.jpg",
+        "http://meetpointapp.co/assets/images/screenshot/04.jpg",
+        "http://meetpointapp.co/assets/images/screenshot/05.jpg",
+        "http://meetpointapp.co/assets/images/screenshot/06.jpg"
+      ],
+      "date_added": "Thu June 21 2018",
+      "suggested_by": "@yusufkildan",
+      "stars": 3,
+      "license": "apache-2.0"
+    },
     {
       "title": "Potter Pics",
       "category-ids": [
