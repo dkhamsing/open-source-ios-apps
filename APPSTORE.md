@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **244** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **245** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -2009,6 +2009,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  <br><a href='http://a5.mzstatic.com/us/r30/Purple62/v4/d3/f7/04/d3f7045e-84bc-b237-09f0-6f28c1c6774a/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/c7/3e/c9/c73ec9fb-0284-2bd7-15dd-7378555af681/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/a8/8d/fb/a88dfbcb-6b8e-bb3d-5e0d-f581b686c708/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple71/v4/78/33/45/783345e2-4cfd-b57a-00fc-55b87d91eb51/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple62/v4/83/95/e3/8395e3e4-23f9-b0cd-0ef7-8734f58506ba/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
+- MeetPoint App: MeetPoint is a social media application that you can share spontaneous activities. [` App Store`](https://itunes.apple.com/app/meetpoint-app/id1363547170)  
+  <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> </summary>
+
+  https://github.com/MeetPoint-App/meetpoint-ios<br>  Added June 21, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+ <br><a href='http://meetpointapp.co/assets/images/screenshot/01.jpg'><code>Screenshot 1</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/02.jpg'><code>Screenshot 2</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/03.jpg'><code>Screenshot 3</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/04.jpg'><code>Screenshot 4</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/05.jpg'><code>Screenshot 5</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/06.jpg'><code>Screenshot 6</code></a> 
+  </details>
+
 
 ### Mastodon 
  
@@ -2319,6 +2326,13 @@ https://firebase.google.com/ — [back to top](#readme)
 
   https://github.com/bonzoq/hniosreader<br>  Added April 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a5.mzstatic.com/us/r30/Purple1/v4/46/69/84/46698435-8f5f-dd7f-ac16-367147207a19/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/e2/ed/6b/e2ed6bb7-0c9f-f508-b05b-f466adedbf2e/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple3/v4/af/7a/39/af7a39ec-9064-7d8b-5167-4ba6ef58c46d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/86/90/fc/8690fc26-a667-d618-be3d-c84cb55cdb84/screen696x696.jpeg'><code>Screenshot 4</code></a> 
+  </details>
+
+- MeetPoint App: MeetPoint is a social media application that you can share spontaneous activities. [` App Store`](https://itunes.apple.com/app/meetpoint-app/id1363547170)  
+  <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> </summary>
+
+  https://github.com/MeetPoint-App/meetpoint-ios<br>  Added June 21, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+ <br><a href='http://meetpointapp.co/assets/images/screenshot/01.jpg'><code>Screenshot 1</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/02.jpg'><code>Screenshot 2</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/03.jpg'><code>Screenshot 3</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/04.jpg'><code>Screenshot 4</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/05.jpg'><code>Screenshot 5</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/06.jpg'><code>Screenshot 6</code></a> 
   </details>
 
 
