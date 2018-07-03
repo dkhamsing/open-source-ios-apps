@@ -431,7 +431,7 @@ Click ► to show more details
   </details>
 
 - iVim: A vim port [` App Store`](https://itunes.apple.com/app/ivim/id1266544660)  
-  <details><summary><code>c</code> <code>vim-script</code> </summary>
+  <details><summary><code>c</code> <code>vim-script</code> ⭐</summary>
 
   https://github.com/terrychou/iVim<br>  Added February 11, 2018<br>  License: `other`
  <br><a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
@@ -859,7 +859,7 @@ Click ► to show more details
   </details>
 
 - Wei Wallet: Ethereum wallet [` App Store`](https://itunes.apple.com/app/wei-wallet/id1376979142)  
-  <details><summary><code>swift</code> <code>swinject</code> 🌐 </summary>
+  <details><summary><code>swift</code> <code>swinject</code> 🌐 ⭐</summary>
 
   https://github.com/popshootjapan/WeiWallet-iOS<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
  <br><a href='https://raw.githubusercontent.com/popshootjapan/WeiWallet-iOS/master/resources/cover_img.png'><code>Screenshot 1</code></a> 
@@ -2060,7 +2060,7 @@ https://mastodon.social — [back to top](#readme)
   </details>
 
 - iVim: A vim port [` App Store`](https://itunes.apple.com/app/ivim/id1266544660)  
-  <details><summary><code>c</code> <code>vim-script</code> </summary>
+  <details><summary><code>c</code> <code>vim-script</code> ⭐</summary>
 
   https://github.com/terrychou/iVim<br>  Added February 11, 2018<br>  License: `other`
  <br><a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
