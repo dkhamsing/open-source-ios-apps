@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **245** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **246** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1251,6 +1251,13 @@ Image, video, audio, reading — [back to top](#readme)
 
   https://github.com/sindresorhus/blear<br>  Added February 24, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a2.mzstatic.com/us/r30/Purple111/v4/25/5b/c7/255bc7ab-95e2-1660-3bba-717b0ae21f1d/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple111/v4/34/7a/42/347a42bd-3a7b-1f86-c2b8-3e043ea5e0e7/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple122/v4/37/6b/27/376b278d-d698-981f-c931-d0e5b01c6733/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple111/v4/ed/9a/9b/ed9a9b30-72f6-fc12-662f-0d1493a3d136/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple122/v4/d0/8e/fa/d08efa30-4057-323e-15ee-9f2fe1e5aaff/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+  </details>
+
+- BookPlayer: Player for your DRM-free audiobooks [` App Store`](https://itunes.apple.com/app/bookplayer-audio-book-player/id1138219998)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/TortugaPower/BookPlayer<br>  Added July  6, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+ <br><a href='https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'><code>Screenshot 3</code></a> 
   </details>
 
 - ComicFlow: Comic reader [` App Store`](https://itunes.apple.com/app/comicflow/id409290355)  
