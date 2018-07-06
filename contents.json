@@ -16641,6 +16641,27 @@
       ],
       "date_added": "June 19 2018",
       "suggested_by": "@RMizin"
+    },
+    {
+      "title": "BookPlayer",
+      "category-ids": [
+        "media"
+      ],
+      "description": "Player for your DRM-free audiobooks",
+      "source": "https://github.com/TortugaPower/BookPlayer",
+      "itunes": "https://itunes.apple.com/app/bookplayer-audio-book-player/id1138219998",
+      "license": "gpl-3.0",
+      "stars": 62,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG",
+        "https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG",
+        "https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG"
+      ],
+      "date_added": "July 6 2018",
+      "suggested_by": "@GianniCarlo"
     }
   ]
 }
