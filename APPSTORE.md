@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **244** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **246** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -431,7 +431,7 @@ Click ► to show more details
   </details>
 
 - iVim: A vim port [` App Store`](https://itunes.apple.com/app/ivim/id1266544660)  
-  <details><summary><code>c</code> <code>vim-script</code> </summary>
+  <details><summary><code>c</code> <code>vim-script</code> ⭐</summary>
 
   https://github.com/terrychou/iVim<br>  Added February 11, 2018<br>  License: `other`
  <br><a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
@@ -859,7 +859,7 @@ Click ► to show more details
   </details>
 
 - Wei Wallet: Ethereum wallet [` App Store`](https://itunes.apple.com/app/wei-wallet/id1376979142)  
-  <details><summary><code>swift</code> <code>swinject</code> 🌐 </summary>
+  <details><summary><code>swift</code> <code>swinject</code> 🌐 ⭐</summary>
 
   https://github.com/popshootjapan/WeiWallet-iOS<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
  <br><a href='https://raw.githubusercontent.com/popshootjapan/WeiWallet-iOS/master/resources/cover_img.png'><code>Screenshot 1</code></a> 
@@ -1251,6 +1251,13 @@ Image, video, audio, reading — [back to top](#readme)
 
   https://github.com/sindresorhus/blear<br>  Added February 24, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a2.mzstatic.com/us/r30/Purple111/v4/25/5b/c7/255bc7ab-95e2-1660-3bba-717b0ae21f1d/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple111/v4/34/7a/42/347a42bd-3a7b-1f86-c2b8-3e043ea5e0e7/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple122/v4/37/6b/27/376b278d-d698-981f-c931-d0e5b01c6733/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple111/v4/ed/9a/9b/ed9a9b30-72f6-fc12-662f-0d1493a3d136/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple122/v4/d0/8e/fa/d08efa30-4057-323e-15ee-9f2fe1e5aaff/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+  </details>
+
+- BookPlayer: Player for your DRM-free audiobooks [` App Store`](https://itunes.apple.com/app/bookplayer-audio-book-player/id1138219998)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/TortugaPower/BookPlayer<br>  Added July  6, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+ <br><a href='https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'><code>Screenshot 3</code></a> 
   </details>
 
 - ComicFlow: Comic reader [` App Store`](https://itunes.apple.com/app/comicflow/id409290355)  
@@ -2009,6 +2016,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  <br><a href='http://a5.mzstatic.com/us/r30/Purple62/v4/d3/f7/04/d3f7045e-84bc-b237-09f0-6f28c1c6774a/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/c7/3e/c9/c73ec9fb-0284-2bd7-15dd-7378555af681/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/a8/8d/fb/a88dfbcb-6b8e-bb3d-5e0d-f581b686c708/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple71/v4/78/33/45/783345e2-4cfd-b57a-00fc-55b87d91eb51/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple62/v4/83/95/e3/8395e3e4-23f9-b0cd-0ef7-8734f58506ba/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
+- MeetPoint App: MeetPoint is a social media application that you can share spontaneous activities. [` App Store`](https://itunes.apple.com/app/meetpoint-app/id1363547170)  
+  <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> </summary>
+
+  https://github.com/MeetPoint-App/meetpoint-ios<br>  Added June 21, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+ <br><a href='http://meetpointapp.co/assets/images/screenshot/01.jpg'><code>Screenshot 1</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/02.jpg'><code>Screenshot 2</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/03.jpg'><code>Screenshot 3</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/04.jpg'><code>Screenshot 4</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/05.jpg'><code>Screenshot 5</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/06.jpg'><code>Screenshot 6</code></a> 
+  </details>
+
 
 ### Mastodon 
  
@@ -2053,7 +2067,7 @@ https://mastodon.social — [back to top](#readme)
   </details>
 
 - iVim: A vim port [` App Store`](https://itunes.apple.com/app/ivim/id1266544660)  
-  <details><summary><code>c</code> <code>vim-script</code> </summary>
+  <details><summary><code>c</code> <code>vim-script</code> ⭐</summary>
 
   https://github.com/terrychou/iVim<br>  Added February 11, 2018<br>  License: `other`
  <br><a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
@@ -2319,6 +2333,13 @@ https://firebase.google.com/ — [back to top](#readme)
 
   https://github.com/bonzoq/hniosreader<br>  Added April 30, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a5.mzstatic.com/us/r30/Purple1/v4/46/69/84/46698435-8f5f-dd7f-ac16-367147207a19/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/e2/ed/6b/e2ed6bb7-0c9f-f508-b05b-f466adedbf2e/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple3/v4/af/7a/39/af7a39ec-9064-7d8b-5167-4ba6ef58c46d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/86/90/fc/8690fc26-a667-d618-be3d-c84cb55cdb84/screen696x696.jpeg'><code>Screenshot 4</code></a> 
+  </details>
+
+- MeetPoint App: MeetPoint is a social media application that you can share spontaneous activities. [` App Store`](https://itunes.apple.com/app/meetpoint-app/id1363547170)  
+  <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> </summary>
+
+  https://github.com/MeetPoint-App/meetpoint-ios<br>  Added June 21, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+ <br><a href='http://meetpointapp.co/assets/images/screenshot/01.jpg'><code>Screenshot 1</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/02.jpg'><code>Screenshot 2</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/03.jpg'><code>Screenshot 3</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/04.jpg'><code>Screenshot 4</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/05.jpg'><code>Screenshot 5</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/06.jpg'><code>Screenshot 6</code></a> 
   </details>
 
 
