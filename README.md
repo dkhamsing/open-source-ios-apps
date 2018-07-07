@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-825-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%206,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-825-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%207,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1174,7 +1174,7 @@ Click ► to show more details
  <br><a href='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'><code>Screenshot 2</code></a> 
   </details>
 
-- Monkey: Browse top GitHub coders & repositories [` App Store`](https://itunes.apple.com/app/monkey-for-github/id1003765407)  
+- Monkey: Browse top GitHub coders & repositories  
   <details><summary><code>objc</code> ⭐⭐⭐⭐</summary>
 
   https://github.com/coderyi/Monkey<br>  Added August 28, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1434,7 +1434,7 @@ Click ► to show more details
  <br><a href='http://a5.mzstatic.com/us/r30/Purple49/v4/6b/d2/d0/6bd2d030-51a6-c61f-4529-ab7993fb8f11/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple49/v4/7a/80/6b/7a806b7a-d456-7f45-7ccf-dcca3ef0e834/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple49/v4/a3/58/9a/a3589ae2-9a46-8310-d6d3-85847005cfd8/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple49/v4/76/4a/fa/764afab7-1f22-d358-169b-6f7e16db0420/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple49/v4/18/67/8d/18678d85-125a-8686-4b6f-8b6661b56a96/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- TechTavta: Keep track of all events for Techtatva 2015 [` App Store`](https://itunes.apple.com/app/techtatva15/id922178880)  
+- TechTavta: Keep track of all events for Techtatva 2015  
   <details><summary><code>objc</code> </summary>
 
   https://github.com/LUGM/TechTatva-15<br>  Added April 19, 2016<br>  License: `other`
@@ -2729,7 +2729,7 @@ Image, video, audio, reading — [back to top](#readme)
  <br><a href='https://github.com/FlexMonkey/Filterpedia/raw/master/Filterpedia/assets/screenshot.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- GreatReader: "Great" PDF reader [` App Store`](https://itunes.apple.com/app/greatreader/id903651112)  
+- GreatReader: "Great" PDF reader  
   <details><summary><code>iphone</code> <code>ipad</code> ⭐⭐⭐</summary>
 
   https://github.com/semweb/GreatReader<br>  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -2895,7 +2895,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Analog Synth X: Simple analog synthesizer keyboard music app example  
   <details><summary><code>swift</code> <code>swift2</code> </summary>
 
-  http://audiokit.io/examples/AnalogSynthX/<br>  https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX<br>  Added February  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://audiokit.io/examples/AnalogSynthX/<br>  https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX<br>  Added February  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://cdn-images-1.medium.com/max/800/1*hj0rxmPvapxpY1URdvw97A.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -3251,7 +3251,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  <br><a href='https://github.com/KrisYu/LivelyGIFs/blob/master/demo.gif?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- notGIF: Play - Tag - Share your GIFs in Photos [` App Store`](https://itunes.apple.com/app/id1069688631)  
+- notGIF: Play - Tag - Share your GIFs in Photos  
   <details><summary><code>swift</code> <code>gif</code> <code>tag</code> <code>share</code> </summary>
 
   https://github.com/atuooo/notGIF<br>  Added July  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -4582,7 +4582,7 @@ https://mastodon.social — [back to top](#readme)
 - 4Pets: Helps you take care of your pet's routines & schedules  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/feliborgez/4pets<br>  Added May 18, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://github.com/stborges/4pets<br>  Added May 18, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='https://raw.githubusercontent.com/feliborgez/4pets/master/img/screenshots.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -4889,7 +4889,7 @@ https://mastodon.social — [back to top](#readme)
 - ooniprobe: Detect internet censorship & test your network's speed [` App Store`](https://itunes.apple.com/app/id1199566366)  
   <details><summary><code>toast</code> </summary>
 
-  https://github.com/TheTorProject/ooniprobe-ios<br>  Added February 10, 2017<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+  https://github.com/ooni/probe-ios<br>  Added February 10, 2017<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
  <br><a href='http://a5.mzstatic.com/us/r30/Purple122/v4/58/f4/3a/58f43a5b-cc09-413a-c0b5-fc0f1c9c660b/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple122/v4/26/21/b8/2621b82f-f8e8-02ef-7ea7-411d5168247a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple122/v4/72/59/e7/7259e715-c87b-5fd4-daa7-98daccd3892d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple111/v4/93/ed/00/93ed005d-36f9-5e8d-7b9f-0a4e2a8def60/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple111/v4/53/bb/0d/53bb0dae-168b-126b-f8a3-fdb0f9d43111/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
