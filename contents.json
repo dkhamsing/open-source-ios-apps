@@ -6862,6 +6862,26 @@
         "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/4d/fe/2e4dfec4-02b8-eb6f-d104-cfd8f041f7f0/pr_source.png/230x0w.jpg"
       ]
     },
+        {
+      "title": "RichTexture",
+      "category-ids": [
+        "text"
+      ],
+      "description": "Rich text editor (fork of Textor but for rich text)",
+      "license": "mit",
+      "source": "https://github.com/stevemoser/richtexture",
+      "homepage": "https://stevemoser.org/posts/apple-dev/richtexture.html",
+      "itunes": "https://itunes.apple.com/app/richtexture/id1376116077",
+      "stars": 20,
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Tue Jun 28 18:10:00 2018 +0200",
+      "suggested_by": "@stevemoser",
+      "screenshots": [
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/4d/3b/dc/4d3bdc1a-2bb9-589d-a574-873167dd7fb8/pr_source.png/230x0w.jpg"
+      ]
+    },
     {
       "title": "SimpleMemo",
       "category-ids": [
