@@ -6870,7 +6870,7 @@
       "description": "Rich text editor (fork of Textor but for rich text)",
       "license": "mit",
       "source": "https://github.com/stevemoser/richtexture",
-      "homepage": "https://stevemoser.org/posts/apple-dev/richtexture.html",
+      "homepage": "https://www.stevemoser.org/posts/apple-dev/richtexture.html",
       "itunes": "https://itunes.apple.com/app/richtexture/id1376116077",
       "stars": 20,
       "tags": [
