@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-825-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%207,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-826-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2010,%202018-lightgrey.svg)
 
 Jump to
 
@@ -4483,6 +4483,13 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/terrychou/iVim<br>  Added February 11, 2018<br>  License: `other`
  <br><a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- RichTexture: Rich text editor (fork of Textor but for rich text) [` App Store`](https://itunes.apple.com/app/richtexture/id1376116077)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/stevemoser/richtexture<br>  https://www.stevemoser.org/posts/apple-dev/richtexture.html<br>  Added June 28, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/4d/3b/dc/4d3bdc1a-2bb9-589d-a574-873167dd7fb8/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - Sentiments: Analyzes text for positive or negative sentiment  
