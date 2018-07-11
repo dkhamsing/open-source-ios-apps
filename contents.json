@@ -1954,7 +1954,6 @@
       ],
       "description": "Browse top GitHub coders & repositories",
       "source": "https://github.com/coderyi/Monkey",
-      "itunes": "https://itunes.apple.com/app/monkey-for-github/id1003765407",
       "stars": 1607,
       "license": "mit",
       "date_added": "Fri Aug 28 14:25:44 2015 +0800",
@@ -3597,7 +3596,7 @@
         "audio"
       ],
       "description": "Simple analog synthesizer keyboard music app example",
-      "source": "http://audiokit.io/examples/AnalogSynthX/",
+      "source": "https://audiokit.io/examples/AnalogSynthX/",
       "homepage": "https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX",
       "tags": [
         "swift",
@@ -4260,7 +4259,6 @@
       ],
       "description": "Keep track of all events for Techtatva 2015",
       "source": "https://github.com/LUGM/TechTatva-15",
-      "itunes": "https://itunes.apple.com/app/techtatva15/id922178880",
       "stars": 6,
       "license": "other",
       "date_added": "Tue Apr 19 10:01:56 2016 -0700",
@@ -6175,7 +6173,6 @@
       "description": "\"Great\" PDF reader",
       "license": "mit",
       "source": "https://github.com/semweb/GreatReader",
-      "itunes": "https://itunes.apple.com/app/greatreader/id903651112",
       "stars": 577,
       "date_added": "Mon Mar 16 09:42:21 2015 +0700",
       "suggested_by": "@vinhnx",
@@ -6863,6 +6860,26 @@
       "suggested_by": "@fassko",
       "screenshots": [
         "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/4d/fe/2e4dfec4-02b8-eb6f-d104-cfd8f041f7f0/pr_source.png/230x0w.jpg"
+      ]
+    },
+        {
+      "title": "RichTexture",
+      "category-ids": [
+        "text"
+      ],
+      "description": "Rich text editor (fork of Textor but for rich text)",
+      "license": "mit",
+      "source": "https://github.com/stevemoser/richtexture",
+      "homepage": "https://www.stevemoser.org/posts/apple-dev/richtexture.html",
+      "itunes": "https://itunes.apple.com/app/richtexture/id1376116077",
+      "stars": 20,
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Tue Jun 28 18:10:00 2018 +0200",
+      "suggested_by": "@stevemoser",
+      "screenshots": [
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/4d/3b/dc/4d3bdc1a-2bb9-589d-a574-873167dd7fb8/pr_source.png/230x0w.jpg"
       ]
     },
     {
@@ -13014,7 +13031,7 @@
       "tags": [
         "toast"
       ],
-      "source": "https://github.com/TheTorProject/ooniprobe-ios",
+      "source": "https://github.com/ooni/probe-ios",
       "itunes": "https://itunes.apple.com/app/id1199566366",
       "screenshots": [
         "http://a5.mzstatic.com/us/r30/Purple122/v4/58/f4/3a/58f43a5b-cc09-413a-c0b5-fc0f1c9c660b/screen696x696.jpeg",
@@ -14041,7 +14058,7 @@
         "timer"
       ],
       "description": "Helps you take care of your pet's routines & schedules",
-      "source": "https://github.com/feliborgez/4pets",
+      "source": "https://github.com/stborges/4pets",
       "date_added": "May 18 2017",
       "suggested_by": "@feliborgez",
       "screenshots": [
@@ -14482,7 +14499,6 @@
     {
       "title": "notGIF",
       "source": "https://github.com/atuooo/notGIF",
-      "itunes": "https://itunes.apple.com/app/id1069688631",
       "description": "Play - Tag - Share your GIFs in Photos",
       "category-ids": [
         "gif"
