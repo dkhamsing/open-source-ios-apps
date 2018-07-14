@@ -1835,7 +1835,8 @@
       "tags": [
         "objc",
         "iphone",
-        "ipad"
+        "ipad",
+        "archive"
       ],
       "description": "Code editor",
       "source": "https://github.com/DanilaVladi/codinator",
