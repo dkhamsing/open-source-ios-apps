@@ -705,7 +705,8 @@
       "tags": [
         "swift",
         "alamofire",
-        "rxswift"
+        "rxswift",
+        "archive"
       ],
       "date_added": "Fri Apr 29 07:55:20 2016 -0700",
       "suggested_by": "@dkhamsing"
