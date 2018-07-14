@@ -111,13 +111,6 @@ Click ► to show more details
  <br><a href='https://raw.githubusercontent.com/IGRSoft/exTVPlayer/master/Screenshots/4.png'><code>Screenshot 1</code></a> 
   </details>
 
-- GrandCentralBoard: Hang a TV in your open space / team room to show everyone what's up & get them up to speed  
-  <details><summary><code>swift</code> <code>alamofire</code> <code>rxswift</code> ⭐⭐</summary>
-
-  https://github.com/macoscope/GrandCentralBoard<br>  Added April 29, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
- <br><a href='http://cdn.macoscope.com/blog/wp-content/uploads/2016/03/zegar_anim_1.gif'><code>Screenshot 1</code></a> 
-  </details>
-
 - hexclock: Minimal hexadecimal clock [` App Store`](https://itunes.apple.com/app/hex-color-clock/id1207660670)  
   <details><summary><code>swift</code> </summary>
 
@@ -923,13 +916,6 @@ Click ► to show more details
 
   https://github.com/chauvincent/CodeSprint-iOS<br>  Added November 23, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a1.mzstatic.com/us/r30/Purple62/v4/95/15/ad/9515add9-5322-a96e-5ab6-bbd258d524d5/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple71/v4/3e/95/f0/3e95f062-ed08-1a9f-b64a-f7cc05930e42/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple62/v4/88/94/25/88942500-f5ea-c03f-41d6-81477f9b78f9/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple62/v4/36/1c/42/361c4270-a061-f7fc-19fa-91e4321aecc4/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple62/v4/5a/47/90/5a47904c-a86c-336d-c105-9dd20dac1872/screen696x696.jpeg'><code>Screenshot 5</code></a> 
-  </details>
-
-- Codinator: Code editor  
-  <details><summary><code>objc</code> <code>iphone</code> <code>ipad</code> </summary>
-
-  https://github.com/DanilaVladi/codinator<br>  Added April 11, 2016<br>  License: `other`
- <br><a href='http://a1.mzstatic.com/us/r30/Purple20/v4/a6/14/16/a61416a0-e5cb-1166-0358-c680f2f2f42e/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple60/v4/bc/e1/11/bce111fb-5d80-a414-fc6d-6117ecc6bc5d/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/c0/b8/6a/c0b86aa4-1d6e-1e86-6871-c975daa505da/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple18/v4/24/5f/b2/245fb21c-e2e1-7c71-4d62-7cfa8134b7ea/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple60/v4/b2/86/1a/b2861a3d-ec5d-5888-7331-c73d5c5c2859/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
 - Dash: Instant offline access to 150+ API documentation sets [` App Store`](https://itunes.apple.com/app/dash-offline-api-docs/id1239167694)  
@@ -2412,7 +2398,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- AA-Keyboard: ASCII art keyboard [` App Store`](https://itunes.apple.com/app/aa-keyboard/id964182815)  
+- AA-Keyboard: ASCII art keyboard  
   <details><summary><code>objc</code> ⭐</summary>
 
   https://github.com/sonsongithub/AAKeyboard<br>  Added July  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3816,13 +3802,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/tailec/boilerplate<br>  Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://i.imgur.com/611wefH.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- GrandCentralBoard: Hang a TV in your open space / team room to show everyone what's up & get them up to speed  
-  <details><summary><code>swift</code> <code>alamofire</code> <code>rxswift</code> ⭐⭐</summary>
-
-  https://github.com/macoscope/GrandCentralBoard<br>  Added April 29, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
- <br><a href='http://cdn.macoscope.com/blog/wp-content/uploads/2016/03/zegar_anim_1.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - Kiosk: Artsy auction app  
