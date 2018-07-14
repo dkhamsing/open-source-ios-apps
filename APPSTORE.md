@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **243** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **242** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1082,13 +1082,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- AA-Keyboard: ASCII art keyboard [` App Store`](https://itunes.apple.com/app/aa-keyboard/id964182815)  
-  <details><summary><code>objc</code> ⭐</summary>
-
-  https://github.com/sonsongithub/AAKeyboard<br>  Added July  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
- <br><a href='http://a5.mzstatic.com/us/r30/Purple6/v4/28/59/25/285925a7-b4c8-0042-d59c-5ac9ae854189/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/9f/aa/14/9faa14df-83e2-1503-67e1-d482539dca69/screen696x696.jpeg'><code>Screenshot 2</code></a> 
-  </details>
-
 - Link Keyboard : My Links Everywhere: Put all your links in one place & make them accessible with a keyboard. [` App Store`](https://itunes.apple.com/app/link-keyboard-my-links-everywhere/id1098798450)  
   <details><summary><code>swift</code> </summary>
 
