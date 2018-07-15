@@ -705,7 +705,8 @@
       "tags": [
         "swift",
         "alamofire",
-        "rxswift"
+        "rxswift",
+        "archive"
       ],
       "date_added": "Fri Apr 29 07:55:20 2016 -0700",
       "suggested_by": "@dkhamsing"
@@ -1835,7 +1836,8 @@
       "tags": [
         "objc",
         "iphone",
-        "ipad"
+        "ipad",
+        "archive"
       ],
       "description": "Code editor",
       "source": "https://github.com/DanilaVladi/codinator",
@@ -3054,7 +3056,6 @@
       ],
       "description": "ASCII art keyboard",
       "source": "https://github.com/sonsongithub/AAKeyboard",
-      "itunes": "https://itunes.apple.com/app/aa-keyboard/id964182815",
       "stars": 102,
       "license": "mit",
       "date_added": "Wed Jul 1 09:19:12 2015 -0700",
