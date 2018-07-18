@@ -16679,6 +16679,28 @@
       ],
       "date_added": "July 6 2018",
       "suggested_by": "@GianniCarlo"
+    },
+    {
+      "title": "Ladybug",
+      "category-ids": [
+        "developer",
+        "misc"
+      ],
+      "description": "Handle rdar:// links gracefully",
+      "source": "https://github.com/ethanhuang13/ladybug",
+      "itunes": "https://itunes.apple.com/app/ladybug-handles-radar-links/id1402968134",
+      "license": "mit",
+      "stars": 39,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png"
+      ],
+      "date_added": "July 18 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
