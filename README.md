@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-826-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2014,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-827-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2018,%202018-lightgrey.svg)
 
 Jump to
 
@@ -979,6 +979,13 @@ Click ► to show more details
 
   https://github.com/KnuffApp/Knuff-iOS<br>  Added October 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a4.mzstatic.com/us/r30/Purple49/v4/f9/21/14/f9211459-6b65-ed7c-ec75-c58c4de7f497/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+  </details>
+
+- Ladybug: Handle rdar:// links gracefully [` App Store`](https://itunes.apple.com/app/ladybug-handles-radar-links/id1402968134)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/ethanhuang13/ladybug<br>  Added July 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
 - Major Input: Read WWDC session transcripts synced with the video  
@@ -4568,7 +4575,7 @@ https://mastodon.social — [back to top](#readme)
 - 4Pets: Helps you take care of your pet's routines & schedules  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/stborges/4pets<br>  Added May 18, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://github.com/feliborgez/4pets<br>  Added May 18, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='https://raw.githubusercontent.com/feliborgez/4pets/master/img/screenshots.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -4835,6 +4842,13 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/alltheflow/iCopyPasta<br>  Added February 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://i.imgur.com/6Tw24I2.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/akwJw0D.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- Ladybug: Handle rdar:// links gracefully [` App Store`](https://itunes.apple.com/app/ladybug-handles-radar-links/id1402968134)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/ethanhuang13/ladybug<br>  Added July 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
 - LibreOffice Remote for Impress: Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely [` App Store`](https://itunes.apple.com/app/id806879890)  
