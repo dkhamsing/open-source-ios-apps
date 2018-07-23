@@ -11231,7 +11231,8 @@
       "itunes": "https://itunes.apple.com/app/alzprevent/id1065403320",
       "license": "bsd-3-clause",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "http://a1.mzstatic.com/us/r30/Purple49/v4/a3/ae/9e/a3ae9e2a-6586-5f76-2ff7-6373a7a40d9f/screen696x696.jpeg",
@@ -16211,7 +16212,6 @@
         "swift"
       ],
       "description": "Quickly and easily uploads text or code to https://pastebin.com",
-      "itunes": "https://itunes.apple.com/app/pastebin-mobile/id1246981062",
       "source": "https://github.com/jonluca/PasteBinApp",
       "license": "apache-2.0",
       "stars": 9,
@@ -16445,7 +16445,6 @@
       ],
       "description": "Markdown text editor, offline or synced via Dropbox",
       "source": "https://github.com/BoostIO/boostnote-mobile",
-      "itunes": "https://itunes.apple.com/app/boostnote/id1273066636",
       "screenshots": [
         "https://boostnote.io/assets/img/top2.png"
       ],
