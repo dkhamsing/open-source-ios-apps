@@ -16718,6 +16718,32 @@
       ],
       "date_added": "July 23 2018",
       "suggested_by": "@matiasvillaverde"
+    },
+    {
+      "title": "Flappy Fly-Bird",
+      "category-ids": [
+        "clone",
+        "game",
+        "spritekit"
+      ],
+      "description": "A clone of Flappy Bird written by using SpriteKit and GameplayKit",
+      "source": "https://github.com/jVirus/flappy-fly-bird",
+      "license": "bsd-3-clause",
+      "stars": 6,
+      "tags": [
+        "swift",
+        "spritekit",
+        "gameplaykit"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG",
+        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG",
+        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG",
+        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG",
+        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG"
+      ],
+      "date_added": "July 23 2018",
+      "suggested_by": "@jVirus"
     }
   ]
 }
