@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **243** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **240** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -463,13 +463,6 @@ Click ► to show more details
 
   https://github.com/louisdh/openterm<br>  Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
-- Pastebin Mobile: Quickly and easily uploads text or code to https://pastebin.com [` App Store`](https://itunes.apple.com/app/pastebin-mobile/id1246981062)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/jonluca/PasteBinApp<br>  Added April  8, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
- <br><a href='https://i.imgur.com/dJg21TF.png'><code>Screenshot 1</code></a> 
   </details>
 
 - Pisth: SSH and SFTP client [` App Store`](https://itunes.apple.com/app/pisth/id1331070425)  
@@ -1063,13 +1056,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 https://www.apple.com/researchkit/ — [back to top](#readme) 
  
-- AlzPrevent: Clinical research platform for Alzheimer's disease [` App Store`](https://itunes.apple.com/app/alzprevent/id1065403320)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/BBBInc/AlzPrevent-ios<br>  Added August  2, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
- <br><a href='http://a1.mzstatic.com/us/r30/Purple49/v4/a3/ae/9e/a3ae9e2a-6586-5f76-2ff7-6373a7a40d9f/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple69/v4/52/2b/46/522b460b-ac91-ee2e-de45-a17d2947f00b/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple49/v4/1f/5e/0a/1f5e0a2a-5b04-7ffc-9dca-e373ba2deb4b/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/7c/f8/36/7cf8369a-56a5-b59c-3a65-763cd468740b/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple69/v4/19/70/ee/1970eed8-6dea-c646-a99a-bb4752ab2339/screen696x696.jpeg'><code>Screenshot 5</code></a> 
-  </details>
-
 - mPower: Parkinson's disease study [` App Store`](https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200)  
   <details><summary><code>objc</code> </summary>
 
@@ -2064,13 +2050,6 @@ https://mastodon.social — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Boostnote: Markdown text editor, offline or synced via Dropbox [` App Store`](https://itunes.apple.com/app/boostnote/id1273066636)  
-  <details><summary><code>react-native</code> ⭐⭐⭐</summary>
-
-  https://github.com/BoostIO/boostnote-mobile<br>  Added May 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
- <br><a href='https://boostnote.io/assets/img/top2.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - FSNotes: Notes manager. [` App Store`](https://itunes.apple.com/app/fsnotes-manager/id1346501102)  
   <details><summary><code>swift</code> ⭐⭐⭐</summary>
 
