@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-828-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2023,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-829-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2023,%202018-lightgrey.svg)
 
 Jump to
 
@@ -607,6 +607,13 @@ Click ► to show more details
  <br><a href='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
+- Flappy Fly-Bird: A clone of Flappy Bird written by using SpriteKit and GameplayKit  
+  <details><summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> </summary>
+
+  https://github.com/jVirus/flappy-fly-bird<br>  Added July 23, 2018<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+ <br><a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG'><code>Screenshot 5</code></a> 
+  </details>
+
 - FlappySwift: Flappy Bird clone  
   <details><summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -1030,7 +1037,7 @@ Click ► to show more details
  <br><a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'><code>Screenshot 2</code></a> 
   </details>
 
-- Pastebin Mobile: Quickly and easily uploads text or code to https://pastebin.com [` App Store`](https://itunes.apple.com/app/pastebin-mobile/id1246981062)  
+- Pastebin Mobile: Quickly and easily uploads text or code to https://pastebin.com  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/jonluca/PasteBinApp<br>  Added April  8, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
@@ -1938,6 +1945,13 @@ Click ► to show more details
  <br><a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-1-GameScreen.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-2-GameScreen.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-3-GameScreen.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-4-GameScreen.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-5-GameScreen.png'><code>Screenshot 5</code></a> 
   </details>
 
+- Flappy Fly-Bird: A clone of Flappy Bird written by using SpriteKit and GameplayKit  
+  <details><summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> </summary>
+
+  https://github.com/jVirus/flappy-fly-bird<br>  Added July 23, 2018<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+ <br><a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG'><code>Screenshot 5</code></a> 
+  </details>
+
 - FlappyBird clone - Scary Flight  
   <details><summary><code>objc</code> </summary>
 
@@ -2025,7 +2039,7 @@ Click ► to show more details
 - Memory Game: Memory game using VIPER Architecture with robust Unit Tests and Fastlane.  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/matiasvillaverde/mobile-ios-vipergame<br>  Added July 23, 2018
+  https://github.com/matiasvillaverde/mobile-ios-vipergame<br>  Added July 23, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://matiasvillaverde.com/mobile-ios-vipergame/header.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -2199,6 +2213,13 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  <br><a href='https://i.imgur.com/anzIXHK.png'><code>Screenshot 1</code></a> 
   </details>
 
+- Flappy Fly-Bird: A clone of Flappy Bird written by using SpriteKit and GameplayKit  
+  <details><summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> </summary>
+
+  https://github.com/jVirus/flappy-fly-bird<br>  Added July 23, 2018<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+ <br><a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG'><code>Screenshot 5</code></a> 
+  </details>
+
 - Mergel: Shape matching puzzle  
   <details><summary><code>swift</code> </summary>
 
@@ -2358,13 +2379,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 https://www.apple.com/researchkit/ — [back to top](#readme) 
  
-- AlzPrevent: Clinical research platform for Alzheimer's disease [` App Store`](https://itunes.apple.com/app/alzprevent/id1065403320)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/BBBInc/AlzPrevent-ios<br>  Added August  2, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
- <br><a href='http://a1.mzstatic.com/us/r30/Purple49/v4/a3/ae/9e/a3ae9e2a-6586-5f76-2ff7-6373a7a40d9f/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple69/v4/52/2b/46/522b460b-ac91-ee2e-de45-a17d2947f00b/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple49/v4/1f/5e/0a/1f5e0a2a-5b04-7ffc-9dca-e373ba2deb4b/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/7c/f8/36/7cf8369a-56a5-b59c-3a65-763cd468740b/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple69/v4/19/70/ee/1970eed8-6dea-c646-a99a-bb4752ab2339/screen696x696.jpeg'><code>Screenshot 5</code></a> 
-  </details>
-
 - AsthmaHealth: Asthma study  
   <details><summary><code>objc</code> </summary>
 
@@ -4504,7 +4518,7 @@ https://mastodon.social — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Boostnote: Markdown text editor, offline or synced via Dropbox [` App Store`](https://itunes.apple.com/app/boostnote/id1273066636)  
+- Boostnote: Markdown text editor, offline or synced via Dropbox  
   <details><summary><code>react-native</code> ⭐⭐⭐</summary>
 
   https://github.com/BoostIO/boostnote-mobile<br>  Added May 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -5654,7 +5668,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
 - Memory Game: Memory game using VIPER Architecture with robust Unit Tests and Fastlane.  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/matiasvillaverde/mobile-ios-vipergame<br>  Added July 23, 2018
+  https://github.com/matiasvillaverde/mobile-ios-vipergame<br>  Added July 23, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://matiasvillaverde.com/mobile-ios-vipergame/header.png'><code>Screenshot 1</code></a> 
   </details>
 
