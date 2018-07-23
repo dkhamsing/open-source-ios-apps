@@ -16701,6 +16701,16 @@
       ],
       "date_added": "July 18 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Memory Game",
+      "category-ids": ["game", "viper"],
+      "tags": ["swift"],
+      "description": "Memory game using VIPER Architecture with robust Unit Tests and Fastlane.",
+      "source": "https://github.com/matiasvillaverde/mobile-ios-vipergame",
+      "screenshots": ["http://matiasvillaverde.com/mobile-ios-vipergame/header.png"],
+      "date_added": "July 23 2018",
+      "suggested_by": "@matiasvillaverde"
     }
   ]
 }
