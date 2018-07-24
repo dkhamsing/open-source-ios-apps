@@ -16744,6 +16744,27 @@
       ],
       "date_added": "July 23 2018",
       "suggested_by": "@jVirus"
+    },
+    {
+      "title": "AudioKitSynthOne",
+      "category-ids": [
+        "audio"
+      ],
+      "description": "Free synthesizer https://audiokitpro.com/synth/",
+      "source": "https://github.com/AudioKit/AudioKitSynthOne",
+      "homepage": "https://audiokitpro.com/synth/",
+      "itunes": "https://itunes.apple.com/app/audiokit-synth-one-synthesizer/id1371050497",
+      "license": "mit",
+      "stars": 355,
+      "tags": [
+        "objc",
+        "swift"
+      ],
+      "screenshots": [
+        "http://audiokitpro.com/images/ak2.gif"
+      ],
+      "date_added": "July 24 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
