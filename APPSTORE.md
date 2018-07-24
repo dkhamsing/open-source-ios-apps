@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **240** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **241** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1331,6 +1331,13 @@ Image, video, audio, reading — [back to top](#readme)
 
   https://github.com/AudioKit/ROMPlayer<br>  https://audiokitpro.com/rom-player-code/<br>  Added December 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://audiokitpro.com/wp-content/uploads/2017/11/romplayer.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- AudioKitSynthOne: Free synthesizer https://audiokitpro.com/synth/ [` App Store`](https://itunes.apple.com/app/audiokit-synth-one-synthesizer/id1371050497)  
+  <details><summary><code>swift</code> <code>objc</code> ⭐⭐</summary>
+
+  https://github.com/AudioKit/AudioKitSynthOne<br>  https://audiokitpro.com/synth/<br>  Added July 24, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='http://audiokitpro.com/images/ak2.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - Helio Workstation: Lightweight music creation playground [` App Store`](https://itunes.apple.com/app/id943796588)  
