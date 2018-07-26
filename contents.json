@@ -11231,7 +11231,8 @@
       "itunes": "https://itunes.apple.com/app/alzprevent/id1065403320",
       "license": "bsd-3-clause",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "http://a1.mzstatic.com/us/r30/Purple49/v4/a3/ae/9e/a3ae9e2a-6586-5f76-2ff7-6373a7a40d9f/screen696x696.jpeg",
@@ -16211,7 +16212,6 @@
         "swift"
       ],
       "description": "Quickly and easily uploads text or code to https://pastebin.com",
-      "itunes": "https://itunes.apple.com/app/pastebin-mobile/id1246981062",
       "source": "https://github.com/jonluca/PasteBinApp",
       "license": "apache-2.0",
       "stars": 9,
@@ -16445,7 +16445,6 @@
       ],
       "description": "Markdown text editor, offline or synced via Dropbox",
       "source": "https://github.com/BoostIO/boostnote-mobile",
-      "itunes": "https://itunes.apple.com/app/boostnote/id1273066636",
       "screenshots": [
         "https://boostnote.io/assets/img/top2.png"
       ],
@@ -16700,6 +16699,71 @@
         "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png"
       ],
       "date_added": "July 18 2018",
+      "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Memory Game",
+      "category-ids": [
+        "game",
+        "viper"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Memory game using VIPER Architecture with robust Unit Tests and Fastlane.",
+      "source": "https://github.com/matiasvillaverde/mobile-ios-vipergame",
+      "license": "mit",
+      "screenshots": [
+        "http://matiasvillaverde.com/mobile-ios-vipergame/header.png"
+      ],
+      "date_added": "July 23 2018",
+      "suggested_by": "@matiasvillaverde"
+    },
+    {
+      "title": "Flappy Fly-Bird",
+      "category-ids": [
+        "clone",
+        "game",
+        "spritekit"
+      ],
+      "description": "A clone of Flappy Bird written by using SpriteKit and GameplayKit",
+      "source": "https://github.com/jVirus/flappy-fly-bird",
+      "license": "bsd-3-clause",
+      "stars": 6,
+      "tags": [
+        "swift",
+        "spritekit",
+        "gameplaykit"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG",
+        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG",
+        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG",
+        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG",
+        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG"
+      ],
+      "date_added": "July 23 2018",
+      "suggested_by": "@jVirus"
+    },
+    {
+      "title": "AudioKitSynthOne",
+      "category-ids": [
+        "audio"
+      ],
+      "description": "Free synthesizer https://audiokitpro.com/synth/",
+      "source": "https://github.com/AudioKit/AudioKitSynthOne",
+      "homepage": "https://audiokitpro.com/synth/",
+      "itunes": "https://itunes.apple.com/app/audiokit-synth-one-synthesizer/id1371050497",
+      "license": "mit",
+      "stars": 355,
+      "tags": [
+        "objc",
+        "swift"
+      ],
+      "screenshots": [
+        "http://audiokitpro.com/images/ak2.gif"
+      ],
+      "date_added": "July 24 2018",
       "suggested_by": "@vpeschenkov"
     }
   ]
