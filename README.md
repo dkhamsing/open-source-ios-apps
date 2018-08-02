@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-830-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2024,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-830-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%20%202,%202018-lightgrey.svg)
 
 Jump to
 
@@ -788,7 +788,7 @@ Click ► to show more details
   </details>
 
 - Rocket.Chat: Meteor chat platform app [` App Store`](https://itunes.apple.com/app/rocket-chat/id1148741252)  
-  <details><summary><code>swift</code> ⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐</summary>
 
   https://github.com/RocketChat/Rocket.Chat.iOS<br>  Added January 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a2.mzstatic.com/us/r30/Purple49/v4/6b/67/2d/6b672d4d-1d88-382c-aa02-db66dfc97421/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple49/v4/27/b5/b3/27b5b3e0-102e-605f-d086-def467181dcb/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple49/v4/71/f0/6f/71f06f5d-07af-96b9-016a-cd27f006d211/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/ef/88/2b/ef882bb0-e6ca-882a-f355-b9b298c2412d/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple49/v4/88/f6/58/88f65868-21eb-d01a-61e9-20481d3852c1/screen696x696.jpeg'><code>Screenshot 5</code></a> 
@@ -802,7 +802,7 @@ Click ► to show more details
   </details>
 
 - Spika: Cross-platform messenger module  
-  <details><summary><code>afnetworking</code> <code>sdwebimage</code> ⭐⭐</summary>
+  <details><summary><code>afnetworking</code> <code>sdwebimage</code> ⭐⭐⭐</summary>
 
   https://github.com/cloverstudio/Spika<br>  https://spika.business/<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://github.com/cloverstudio/Spika/raw/master/spika_demo_new.gif'><code>Screenshot 1</code></a> 
@@ -989,7 +989,7 @@ Click ► to show more details
   </details>
 
 - Ladybug: Handle rdar:// links gracefully [` App Store`](https://itunes.apple.com/app/ladybug-handles-radar-links/id1402968134)  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> ⭐</summary>
 
   https://github.com/ethanhuang13/ladybug<br>  Added July 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
@@ -1794,7 +1794,7 @@ Click ► to show more details
   </details>
 
 - Bread: Bitcoin wallet [` App Store`](https://itunes.apple.com/app/breadwallet/id885251393)  
-  <details><summary><code>swift</code> ⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐</summary>
 
   https://github.com/breadwallet/breadwallet-ios<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg'><code>Screenshot 1</code></a> 
@@ -2669,7 +2669,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   </details>
 
 - Traccar Client: Report device location to the server [` App Store`](https://itunes.apple.com/us/app/traccar-client/id843156974)  
-  <details><summary><code>objc</code> </summary>
+  <details><summary><code>objc</code> ⭐</summary>
 
   https://github.com/traccar/traccar-client-ios<br>  Added July 12, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
  <br><a href='http://a5.mzstatic.com/us/r30/Purple3/v4/6c/6b/d6/6c6bd694-0715-d363-9a3b-ed27dbdaa0b9/screen696x696.jpeg'><code>Screenshot 1</code></a> 
@@ -2716,7 +2716,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - BookPlayer: Player for your DRM-free audiobooks [` App Store`](https://itunes.apple.com/app/bookplayer-audio-book-player/id1138219998)  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> ⭐</summary>
 
   https://github.com/TortugaPower/BookPlayer<br>  Added July  6, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'><code>Screenshot 3</code></a> 
@@ -3198,7 +3198,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 
 - SoundCloudSwift: SoundCloud app  
-  <details><summary><code>swift</code> ⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐</summary>
 
   https://github.com/pepibumur/SoundCloudSwift<br>  Added May  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://cdn-images-1.medium.com/max/800/1*C0s-C27rJbQrIa0j5dBctQ.png'><code>Screenshot 1</code></a> 
@@ -4873,7 +4873,7 @@ https://mastodon.social — [back to top](#readme)
   </details>
 
 - Ladybug: Handle rdar:// links gracefully [` App Store`](https://itunes.apple.com/app/ladybug-handles-radar-links/id1402968134)  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> ⭐</summary>
 
   https://github.com/ethanhuang13/ladybug<br>  Added July 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
