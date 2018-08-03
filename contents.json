@@ -8187,7 +8187,7 @@
         "travel"
       ],
       "description": "Displays 'Metric Time' for pranking friends on trips to countries that use the metric system",
-      "source": "https://github.com/DeveloperACE/MetricTime",
+      "source": "https://github.com/MoralCode/MetricTime",
       "tags": [
         "swift"
       ],
@@ -8560,7 +8560,7 @@
         "audio"
       ],
       "description": "Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation (YEAAAAAAAAAAHH)",
-      "source": "https://github.com/DeveloperACE/MiamiSunglasses",
+      "source": "https://github.com/MoralCode/MiamiSunglasses",
       "tags": [
         "swift"
       ],
@@ -12351,7 +12351,7 @@
       "screenshots": [
         "https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg"
       ],
-      "source": "https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2",
+      "source": "https://www.raywenderlich.com/194091/firebase-tutorial-real-time-chat-3",
       "license": "other",
       "date_added": "Nov 11 2016",
       "suggested_by": "@dkhamsing"
@@ -14142,7 +14142,7 @@
       "tags": [
         "react-native"
       ],
-      "source": "https://github.com/VctrySam/whatsapp",
+      "source": "https://github.com/merciyah/whatsapp",
       "stars": 1218,
       "license": "other",
       "date_added": "Mon Aug 14 08:18:58 2016 -0800",
@@ -14162,7 +14162,7 @@
       "screenshots": [
         "https://i.imgur.com/6HfPmrT.png"
       ],
-      "source": "https://github.com/VctrySam/SnapChat",
+      "source": "https://github.com/merciyah/SnapChat",
       "stars": 555,
       "license": "other",
       "date_added": "Mon Aug 14 08:19:58 2016 -0800",
@@ -14179,7 +14179,7 @@
       "screenshots": [
         "https://i.imgur.com/PrMRwmY.png"
       ],
-      "source": "https://github.com/VctrySam/Pokemon",
+      "source": "https://github.com/merciyah/Pokemon",
       "stars": 214,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
@@ -14196,7 +14196,7 @@
       "screenshots": [
         "https://i.imgur.com/I7d06Pq.png"
       ],
-      "source": "https://github.com/VctrySam/Tinder",
+      "source": "https://github.com/merciyah/Tinder",
       "stars": 579,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
@@ -14213,7 +14213,7 @@
       "screenshots": [
         "https://i.imgur.com/0kzQBEJ.png"
       ],
-      "source": "https://github.com/VctrySam/Twitter",
+      "source": "https://github.com/merciyah/Twitter",
       "stars": 133,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
@@ -14230,7 +14230,7 @@
       "screenshots": [
         "https://i.imgur.com/vMgWK6m.png"
       ],
-      "source": "https://github.com/VctrySam/AirBnb",
+      "source": "https://github.com/merciyah/AirBnb",
       "stars": 396,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
@@ -14247,7 +14247,7 @@
       "screenshots": [
         "https://i.imgur.com/6Xogt5Y.png"
       ],
-      "source": "https://github.com/VctrySam/FCBarca",
+      "source": "https://github.com/merciyah/FCBarca",
       "stars": 58,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
