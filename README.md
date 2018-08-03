@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-830-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%20%202,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-830-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%20%203,%202018-lightgrey.svg)
 
 Jump to
 
@@ -776,7 +776,7 @@ Click ► to show more details
 - Real-time Chat  
   <details><summary><code>firebase</code> </summary>
 
-  https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2<br>  Added November 11, 2016<br>  License: `other`
+  https://www.raywenderlich.com/194091/firebase-tutorial-real-time-chat-3<br>  Added November 11, 2016<br>  License: `other`
  <br><a href='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'><code>Screenshot 1</code></a> 
   </details>
 
@@ -2944,7 +2944,7 @@ Image, video, audio, reading — [back to top](#readme)
 - MiamiSunglasses: Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation (YEAAAAAAAAAAHH)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/DeveloperACE/MiamiSunglasses<br>  Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/MoralCode/MiamiSunglasses<br>  Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
  <br><a href='https://i.imgur.com/DYoZw6Q.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -4677,7 +4677,7 @@ https://mastodon.social — [back to top](#readme)
 - MetricTime: Displays 'Metric Time' for pranking friends on trips to countries that use the metric system  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/DeveloperACE/MetricTime<br>  Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/MoralCode/MetricTime<br>  Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
  <br><a href='https://i.imgur.com/N2QeLpm.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/f33KAQY.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/EDZFKpP.png'><code>Screenshot 3</code></a> 
   </details>
 
@@ -5152,7 +5152,7 @@ https://firebase.google.com/ — [back to top](#readme)
 - Real-time Chat  
   <details><summary><code>firebase</code> </summary>
 
-  https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2<br>  Added November 11, 2016<br>  License: `other`
+  https://www.raywenderlich.com/194091/firebase-tutorial-real-time-chat-3<br>  Added November 11, 2016<br>  License: `other`
  <br><a href='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'><code>Screenshot 1</code></a> 
   </details>
 
@@ -5243,7 +5243,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 - AirBnb clone  
   <details><summary><code>react-native</code> ⭐⭐</summary>
 
-  https://github.com/VctrySam/AirBnb<br>  Added August 14, 2016<br>  License: `other`
+  https://github.com/merciyah/AirBnb<br>  Added August 14, 2016<br>  License: `other`
  <br><a href='https://i.imgur.com/vMgWK6m.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -5299,7 +5299,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 - FC Barcelona clone  
   <details><summary><code>react-native</code> </summary>
 
-  https://github.com/VctrySam/FCBarca<br>  Added August 14, 2016<br>  License: `other`
+  https://github.com/merciyah/FCBarca<br>  Added August 14, 2016<br>  License: `other`
  <br><a href='https://i.imgur.com/6Xogt5Y.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -5388,7 +5388,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 - Pokemon Go clone  
   <details><summary><code>react-native</code> ⭐⭐</summary>
 
-  https://github.com/VctrySam/Pokemon<br>  Added August 14, 2016<br>  License: `other`
+  https://github.com/merciyah/Pokemon<br>  Added August 14, 2016<br>  License: `other`
  <br><a href='https://i.imgur.com/PrMRwmY.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -5451,7 +5451,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 - Snapchat clone  
   <details><summary><code>react-native</code> ⭐⭐⭐</summary>
 
-  https://github.com/VctrySam/SnapChat<br>  Added August 14, 2016<br>  License: `other`
+  https://github.com/merciyah/SnapChat<br>  Added August 14, 2016<br>  License: `other`
  <br><a href='https://i.imgur.com/6HfPmrT.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -5465,7 +5465,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 - Tinder clone  
   <details><summary><code>react-native</code> ⭐⭐⭐</summary>
 
-  https://github.com/VctrySam/Tinder<br>  Added August 14, 2016<br>  License: `other`
+  https://github.com/merciyah/Tinder<br>  Added August 14, 2016<br>  License: `other`
  <br><a href='https://i.imgur.com/I7d06Pq.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -5492,7 +5492,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 - Twitter clone  
   <details><summary><code>react-native</code> ⭐</summary>
 
-  https://github.com/VctrySam/Twitter<br>  Added August 14, 2016<br>  License: `other`
+  https://github.com/merciyah/Twitter<br>  Added August 14, 2016<br>  License: `other`
  <br><a href='https://i.imgur.com/0kzQBEJ.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -5513,7 +5513,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 - Whatsapp clone  
   <details><summary><code>react-native</code> ⭐⭐⭐⭐</summary>
 
-  https://github.com/VctrySam/whatsapp<br>  Added August 14, 2016<br>  License: `other`
+  https://github.com/merciyah/whatsapp<br>  Added August 14, 2016<br>  License: `other`
  <br><a href='https://i.imgur.com/T6Hwv3b.png'><code>Screenshot 1</code></a> 
   </details>
 
