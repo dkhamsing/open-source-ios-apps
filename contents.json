@@ -16766,6 +16766,16 @@
       ],
       "date_added": "July 24 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Knil",
+      "category-ids": ["developer"],
+      "description": "Universal Links testing made easy",
+      "source": "https://github.com/ethanhuang13/knil",
+      "itunes": "https://itunes.apple.com/app/knil-universal-link-testing/id1195310358",
+      "screenshots": ["https://github.com/ethanhuang13/knil/raw/master/demo.gif"],
+      "date_added": "Aug 11 2018",
+      "suggested_by": "@ethanhuang13"
     }
   ]
 }
