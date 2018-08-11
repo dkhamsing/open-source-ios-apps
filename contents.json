@@ -16766,6 +16766,28 @@
       ],
       "date_added": "July 24 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Unwrap",
+      "category-ids": [
+        "developer"
+      ],
+      "description": "Learn Swift interactively on your iPhone https://www.hackingwithswift.com",
+      "source": "https://github.com/twostraws/Unwrap",
+      "homepage": "https://www.hackingwithswift.com/",
+      "license": "other",
+      "stars": 371,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/BgTX6bU.png",
+        "https://i.imgur.com/cKXcVJQ.png",
+        "https://i.imgur.com/1eO1hgP.png",
+        "https://i.imgur.com/bs0fVFr.png"
+      ],
+      "date_added": "Aug 11 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
