@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **241** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **242** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -435,6 +435,13 @@ Click ► to show more details
 
   https://github.com/terrychou/iVim<br>  Added February 11, 2018<br>  License: `other`
  <br><a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- Knil: Universal Links testing made easy [` App Store`](https://itunes.apple.com/app/knil-universal-link-testing/id1195310358)  
+  <details><summary></summary>
+
+  https://github.com/ethanhuang13/knil<br>  Added August 11, 2018
+ <br><a href='https://i.imgur.com/FkkMn0M.gifv'><code>Screenshot 1</code></a> 
   </details>
 
 - Knuff: The debug app for Apple Push Notification service [` App Store`](https://itunes.apple.com/app/knuff-the-apns-debug-tool/id993435856)  
