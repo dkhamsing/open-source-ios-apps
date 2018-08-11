@@ -776,7 +776,7 @@ Click ► to show more details
 - Real-time Chat  
   <details><summary><code>firebase</code> </summary>
 
-  https://www.raywenderlich.com/redirect?uri=rw://koenig/post/194091<br>  Added November 11, 2016<br>  License: `other`
+  https://www.raywenderlich.com/5359-firebase-tutorial-real-time-chat<br>  Added November 11, 2016<br>  License: `other`
  <br><a href='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'><code>Screenshot 1</code></a> 
   </details>
 
@@ -5152,7 +5152,7 @@ https://firebase.google.com/ — [back to top](#readme)
 - Real-time Chat  
   <details><summary><code>firebase</code> </summary>
 
-  https://www.raywenderlich.com/redirect?uri=rw://koenig/post/194091<br>  Added November 11, 2016<br>  License: `other`
+  https://www.raywenderlich.com/5359-firebase-tutorial-real-time-chat<br>  Added November 11, 2016<br>  License: `other`
  <br><a href='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'><code>Screenshot 1</code></a> 
   </details>
 
