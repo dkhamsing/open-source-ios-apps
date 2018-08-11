@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-830-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2011,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-831-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2011,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1098,6 +1098,13 @@ Click ► to show more details
 
   https://github.com/certificate-helper/tls-inspector<br>  Added May  5, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/eb/03/2e/eb032e7d-9b04-0cea-89af-41478761d5b0/pr_source.png/316x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/de/e0/70/dee07035-182f-b5e1-9e48-38c5660dd760/pr_source.png/316x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/fe/8d/03/fe8d03fd-bdc7-dca5-ddd1-57de854e716e/pr_source.png/316x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
+- Unwrap: Learn Swift interactively on your iPhone https://www.hackingwithswift.com  
+  <details><summary><code>swift</code> ⭐⭐</summary>
+
+  https://github.com/twostraws/Unwrap<br>  https://www.hackingwithswift.com/<br>  Added August 11, 2018<br>  License: `other`
+ <br><a href='https://i.imgur.com/BgTX6bU.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/cKXcVJQ.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/1eO1hgP.png'><code>Screenshot 3</code></a> <a href='https://i.imgur.com/bs0fVFr.png'><code>Screenshot 4</code></a> 
   </details>
 
 - WWDCast: The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast  
