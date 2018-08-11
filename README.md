@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-831-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2011,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-832-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2011,%202018-lightgrey.svg)
 
 Jump to
 
@@ -979,6 +979,13 @@ Click ► to show more details
 
   https://github.com/Jasonette/JASONETTE-iOS<br>  http://jasonette.com/<br>  Added November 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://github.com/Jasonette/Instagram-UI-example/raw/master/images/instagram.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- Knil: Universal Links testing made easy [` App Store`](https://itunes.apple.com/app/knil-universal-link-testing/id1195310358)  
+  <details><summary></summary>
+
+  https://github.com/ethanhuang13/knil<br>  Added August 11, 2018
+ <br><a href='https://i.imgur.com/FkkMn0M.gifv'><code>Screenshot 1</code></a> 
   </details>
 
 - Knuff: The debug app for Apple Push Notification service [` App Store`](https://itunes.apple.com/app/knuff-the-apns-debug-tool/id993435856)  
