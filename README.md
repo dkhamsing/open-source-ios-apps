@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-830-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%20%203,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-830-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2011,%202018-lightgrey.svg)
 
 Jump to
 
@@ -776,7 +776,7 @@ Click ► to show more details
 - Real-time Chat  
   <details><summary><code>firebase</code> </summary>
 
-  https://www.raywenderlich.com/194091/firebase-tutorial-real-time-chat-3<br>  Added November 11, 2016<br>  License: `other`
+  https://www.raywenderlich.com/redirect?uri=rw://koenig/post/194091<br>  Added November 11, 2016<br>  License: `other`
  <br><a href='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'><code>Screenshot 1</code></a> 
   </details>
 
@@ -5152,7 +5152,7 @@ https://firebase.google.com/ — [back to top](#readme)
 - Real-time Chat  
   <details><summary><code>firebase</code> </summary>
 
-  https://www.raywenderlich.com/194091/firebase-tutorial-real-time-chat-3<br>  Added November 11, 2016<br>  License: `other`
+  https://www.raywenderlich.com/redirect?uri=rw://koenig/post/194091<br>  Added November 11, 2016<br>  License: `other`
  <br><a href='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'><code>Screenshot 1</code></a> 
   </details>
 
