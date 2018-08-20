@@ -9609,7 +9609,7 @@
       "description": "A map app with access to OpenStreetMaps",
       "license": "gpl-3.0",
       "source": "https://github.com/osmandapp/Osmand",
-      "homepage": "http://osmand.net/",
+      "homepage": "https://osmand.net/",
       "itunes": "https://itunes.apple.com/app/id934850257",
       "stars": 1529,
       "date_added": "Wed Jun 1 23:52:25 2016 -0600",
@@ -9854,7 +9854,7 @@
       ],
       "description": "Vendor & technology agnostic home automation",
       "license": "epl-1.0",
-      "source": "https://github.com/openhab/openhab.ios",
+      "source": "https://github.com/openhab/openhab-ios",
       "homepage": "https://www.openhab.org/",
       "itunes": "https://itunes.apple.com/app/id492054521",
       "stars": 76,
@@ -10830,16 +10830,16 @@
         "extension"
       ],
       "description": "Post/schedule Twitter posts like Buffer, includes a Share Extension",
-      "source": "https://github.com/TomekB/PostManager",
+      "source": "https://github.com/tombaranowicz/PostManager",
       "license": "other",
       "tags": [
         "swift",
         "node"
       ],
       "screenshots": [
-        "https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.18.png?raw=true",
-        "https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.54.png?raw=true",
-        "https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.54.47.png?raw=true"
+        "https://github.com/tombaranowicz/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.18.png?raw=true",
+        "https://github.com/tombaranowicz/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.54.png?raw=true",
+        "https://github.com/tombaranowicz/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.54.47.png?raw=true"
       ],
       "date_added": "Fri Jul 15 12:22:53 2016 +0200",
       "suggested_by": "@TomekB",
@@ -11609,7 +11609,7 @@
     {
       "title": "pokevision",
       "description": "Display all the Pokémon around you",
-      "source": "https://github.com/Morhaus/rn-pokevision",
+      "source": "https://github.com/alexkirsz/rn-pokevision",
       "category-ids": [
         "react-native"
       ],
@@ -11618,7 +11618,7 @@
         "goradar"
       ],
       "screenshots": [
-        "https://github.com/Morhaus/rn-pokevision/raw/master/screenshot.png"
+        "https://github.com/alexkirsz/rn-pokevision/raw/master/screenshot.png"
       ],
       "license": "other",
       "date_added": "Sep 9 2016",
@@ -13736,7 +13736,7 @@
     {
       "title": "Toshi",
       "description": "Private & secure messaging, Ethereum wallet and browser",
-      "source": "https://github.com/toshiapp/toshi-ios-client",
+      "source": "https://github.com/CoinbaseWallet/toshi-ios-client",
       "tags": [
         "swift"
       ],
@@ -15950,8 +15950,7 @@
       "license": "agpl-3.0",
       "stars": 25,
       "screenshots": [
-        "https://framapic.org/Y7E29n2S5q2C/rtC5JJgN8QuX.jpg",
-        "https://framapic.org/o1m3BsuiAoRg/wWC6eAl3isa5.jpg"
+        "https://framapic.org/screenshot.png"
       ],
       "date_added": "Feb 20 2018",
       "suggested_by": "@roipoussiere"
