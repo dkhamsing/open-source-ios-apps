@@ -16797,6 +16797,27 @@
       ],
       "date_added": "Aug 11 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Kotoba",
+      "category-ids": [
+        "education"
+      ],
+      "description": "Quickly search the built-in dictionary to see definitions of words. Collect the words you want to remember",
+      "source": "https://github.com/willhains/Kotoba",
+      "license": "mit",
+      "stars": 323,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/yNc3GOl.png",
+        "https://i.imgur.com/aF4JedS.png",
+        "https://i.imgur.com/pw0M2yi.png",
+        "https://i.imgur.com/zv3RKrZ.png"
+      ],
+      "date_added": "Aug 21 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
