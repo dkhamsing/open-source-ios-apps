@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-832-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2011,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-833-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2020,%202018-lightgrey.svg)
 
 Jump to
 
@@ -825,7 +825,7 @@ Click ► to show more details
 - Toshi: Private & secure messaging, Ethereum wallet and browser  
   <details><summary><code>swift</code> ⭐</summary>
 
-  https://github.com/toshiapp/toshi-ios-client<br>  Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://github.com/CoinbaseWallet/toshi-ios-client<br>  Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='http://a1.mzstatic.com/us/r30/Purple122/v4/45/e5/da/45e5daf2-6dd5-ae2c-da9f-35f60f9cdaca/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
@@ -1263,6 +1263,13 @@ Click ► to show more details
  <br><a href='http://a3.mzstatic.com/us/r30/Purple3/v4/8d/22/e0/8d22e0df-5cea-5fa5-c18e-779b335099ec/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/8c/be/5f/8cbe5f3c-4a89-726b-eb30-037944e756be/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/c8/77/fd/c877fd32-1c98-0268-5164-0cb95b48ce27/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/ce/5f/28/ce5f2856-901f-d130-1173-9c4f869c9fc3/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple5/v4/2a/df/94/2adf9489-96da-4974-db83-5f119d58b11b/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
+- Kotoba: Quickly search the built-in dictionary to see definitions of words. Collect the words you want to remember  
+  <details><summary><code>swift</code> ⭐⭐</summary>
+
+  https://github.com/willhains/Kotoba<br>  Added August 21, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='https://i.imgur.com/yNc3GOl.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/aF4JedS.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/pw0M2yi.png'><code>Screenshot 3</code></a> <a href='https://i.imgur.com/zv3RKrZ.png'><code>Screenshot 4</code></a> 
+  </details>
+
 - My First Memory: Memory game, includes introduction to iOS & Swift  
   <details><summary><code>swift</code> <code>instagram api</code> </summary>
 
@@ -1498,8 +1505,8 @@ Click ► to show more details
 - Post Manager: Post/schedule Twitter posts like Buffer, includes a Share Extension  
   <details><summary><code>swift</code> <code>node</code> </summary>
 
-  https://github.com/TomekB/PostManager<br>  Added July 15, 2016<br>  License: `other`
- <br><a href='https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.18.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.54.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.54.47.png?raw=true'><code>Screenshot 3</code></a> 
+  https://github.com/tombaranowicz/PostManager<br>  Added July 15, 2016<br>  License: `other`
+ <br><a href='https://github.com/tombaranowicz/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.18.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/tombaranowicz/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.54.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/tombaranowicz/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.54.47.png?raw=true'><code>Screenshot 3</code></a> 
   </details>
 
 - Send To Me: Share content to your email with a single tap  
@@ -1633,7 +1640,7 @@ Click ► to show more details
   <details><summary><code>javascript</code> <code>cordova</code> </summary>
 
   https://github.com/cozy/cozy-drive<br>  https://cozy.io/en/<br>  Added February 20, 2018<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
- <br><a href='https://framapic.org/Y7E29n2S5q2C/rtC5JJgN8QuX.jpg'><code>Screenshot 1</code></a> <a href='https://framapic.org/o1m3BsuiAoRg/wWC6eAl3isa5.jpg'><code>Screenshot 2</code></a> 
+ <br><a href='https://framapic.org/screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
 - Local Storage: Save files on your device, visualize storage use, unzip, hash [` App Store`](https://itunes.apple.com/app/id1339306324)  
@@ -1770,7 +1777,7 @@ Click ► to show more details
 - Toshi: Private & secure messaging, Ethereum wallet and browser  
   <details><summary><code>swift</code> ⭐</summary>
 
-  https://github.com/toshiapp/toshi-ios-client<br>  Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://github.com/CoinbaseWallet/toshi-ios-client<br>  Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='http://a1.mzstatic.com/us/r30/Purple122/v4/45/e5/da/45e5daf2-6dd5-ae2c-da9f-35f60f9cdaca/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
@@ -2615,7 +2622,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 - OsmAnd Maps: A map app with access to OpenStreetMaps [` App Store`](https://itunes.apple.com/app/id934850257)  
   <details><summary><code>objc</code> ⭐⭐⭐⭐</summary>
 
-  https://github.com/osmandapp/Osmand<br>  http://osmand.net/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://github.com/osmandapp/Osmand<br>  https://osmand.net/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='http://a4.mzstatic.com/us/r30/Purple62/v4/6e/66/38/6e66384e-1493-1fef-bf4a-b46a32ce6add/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/10/4c/29/104c294c-1adc-93c3-bde8-ca50ce97eb04/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/c2/63/b5/c263b598-22ea-ee5e-5b0a-c2a6bf6b3215/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple62/v4/d0/91/4b/d0914b8b-1908-fc6a-e7b5-59955a41c482/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/e5/7e/dc/e57edc40-d4b6-6f2c-3205-8dac724e325a/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
@@ -4363,8 +4370,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - Post Manager: Post/schedule Twitter posts like Buffer, includes a Share Extension  
   <details><summary><code>swift</code> <code>node</code> </summary>
 
-  https://github.com/TomekB/PostManager<br>  Added July 15, 2016<br>  License: `other`
- <br><a href='https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.18.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.54.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/TomekB/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.54.47.png?raw=true'><code>Screenshot 3</code></a> 
+  https://github.com/tombaranowicz/PostManager<br>  Added July 15, 2016<br>  License: `other`
+ <br><a href='https://github.com/tombaranowicz/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.18.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/tombaranowicz/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.54.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/tombaranowicz/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.54.47.png?raw=true'><code>Screenshot 3</code></a> 
   </details>
 
 - Potter Pics: Harry Potter themed social network similar to Instagram.  
@@ -4938,7 +4945,7 @@ https://mastodon.social — [back to top](#readme)
 - openHAB: Vendor & technology agnostic home automation [` App Store`](https://itunes.apple.com/app/id492054521)  
   <details><summary><code>objc</code> </summary>
 
-  https://github.com/openhab/openhab.ios<br>  https://www.openhab.org/<br>  Added June  2, 2016<br>  License: [`epl-1.0`](http://choosealicense.com/licenses/epl-1.0/)
+  https://github.com/openhab/openhab-ios<br>  https://www.openhab.org/<br>  Added June  2, 2016<br>  License: [`epl-1.0`](http://choosealicense.com/licenses/epl-1.0/)
  <br><a href='http://a5.mzstatic.com/us/r30/Purple1/v4/ce/c8/32/cec832bd-868f-30be-ed46-37c8323659d5/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/ff/54/8e/ff548e6a-7163-1d55-2f22-7fa0cd91475b/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple5/v4/fb/69/1b/fb691b81-40db-5acd-6003-dc5709f04791/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple3/v4/0c/38/5b/0c385b22-15b0-4ab4-b032-f186a1da5f11/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/ef/f2/91/eff2918a-0b62-2d0e-68b4-912ee8b989e1/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
@@ -5416,8 +5423,8 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 - pokevision: Display all the Pokémon around you  
   <details><summary><code>react native</code> <code>goradar</code> </summary>
 
-  https://github.com/Morhaus/rn-pokevision<br>  Added September  9, 2016<br>  License: `other`
- <br><a href='https://github.com/Morhaus/rn-pokevision/raw/master/screenshot.png'><code>Screenshot 1</code></a> 
+  https://github.com/alexkirsz/rn-pokevision<br>  Added September  9, 2016<br>  License: `other`
+ <br><a href='https://github.com/alexkirsz/rn-pokevision/raw/master/screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
 - Property Finder  

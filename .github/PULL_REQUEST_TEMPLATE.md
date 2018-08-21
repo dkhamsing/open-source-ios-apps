@@ -9,9 +9,10 @@ To create a new category, please open an issue (see CONTRIBUTING) -->
 1. [ ] Project URL:
 2. [ ] Update contents.json instead of README 
 3. [ ] One project per pull request
-4. [ ] Avoid iOS or open-source in description as it is assumed
-5. [ ] Use this commit title format if applicable: Add app-name by @github-username
-6. [ ] Use approved format for your entry
+4. [ ] Screenshot included 
+5. [ ] Avoid iOS or open-source in description as it is assumed
+6. [ ] Use this commit title format if applicable: Add app-name by @github-username
+7. [ ] Use approved format for your entry
 
 <!-- Approved Format
 
