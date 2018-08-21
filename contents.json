@@ -16840,6 +16840,24 @@
       ],
       "date_added": "Aug 22 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "live-news-viper",
+      "category-ids": [
+        "viper"
+      ],
+      "description": "A simple project to demonstrate VIPER design pattern.",
+      "source": "https://github.com/smalam119/live-news-viper",
+      "license": "apache-2.0",
+      "stars": 34,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/COrDl6n.png"
+      ],
+      "date_added": "Aug 22 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
