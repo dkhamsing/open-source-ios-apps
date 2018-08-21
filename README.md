@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-834-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2021,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-835-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2021,%202018-lightgrey.svg)
 
 Jump to
 
@@ -5698,6 +5698,13 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
 
   https://github.com/vkaltyrin/exchanger<br>  Added December 21, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://github.com/vkaltyrin/exchanger/blob/master/screenshot.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- live-news-viper: A simple project to demonstrate VIPER design pattern.  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/smalam119/live-news-viper<br>  Added August 22, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+ <br><a href='https://i.imgur.com/COrDl6n.png'><code>Screenshot 1</code></a> 
   </details>
 
 - Memory Game: Memory game using VIPER Architecture with robust Unit Tests and Fastlane.  
