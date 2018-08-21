@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-833-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2020,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-834-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2021,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1084,6 +1084,13 @@ Click ► to show more details
 
   https://github.com/RishabhTayal/ReviewMonitor<br>  Added December 27, 2017
  <br><a href='https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot2.png?raw=true'><code>Screenshot 2</code></a> 
+  </details>
+
+- Savanna: IDE for writing Cub scripts. [` App Store`](https://itunes.apple.com/app/savanna/id1350247486)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/louisdh/savanna<br>  Added August 22, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+ <br><a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/45/ae/f6/45aef69e-09b9-f90f-8258-cf2f9553e06d/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/a4/2d/63/a42d63c9-b5e2-1319-0c52-72840c95cab5/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/d9/c0/51/d9c05147-ddce-c0af-aa20-9935e8487dc4/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/5e/91/c85e914d-a9c3-b84a-7a62-c32eaa4e751e/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
 - Terrarium: UI prototyping for coders  
