@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-836-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2022,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-837-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2022,%202018-lightgrey.svg)
 
 Jump to
 
@@ -5790,6 +5790,12 @@ https://www.xamarin.com/ — [back to top](#readme)
   <details><summary><code>list</code> ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/iCHAIT/awesome-macOS<br>  License: `other`
+  </details>
+
+- example-ios-apps: A curated list of example projects  
+  <details><summary><code>list</code> </summary>
+
+  https://github.com/imjog/example-ios-apps<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - open-source-android-apps  
