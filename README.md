@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-837-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2022,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-838-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2022,%202018-lightgrey.svg)
 
 Jump to
 
@@ -2246,6 +2246,13 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
   https://github.com/jVirus/flappy-fly-bird<br>  Added July 23, 2018<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
  <br><a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG'><code>Screenshot 5</code></a> 
+  </details>
+
+- GameJam: Contains all the games that made at the game jam.  
+  <details><summary><code>swift</code> <code>spritekit</code> </summary>
+
+  https://github.com/TheSwiftAlps/GameJam<br>  Added August 22, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='https://i.imgur.com/zTZyj8e.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/4aFlJUv.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/t4NdOM7.png'><code>Screenshot 3</code></a> <a href='https://i.imgur.com/6ltFesP.png'><code>Screenshot 4</code></a> 
   </details>
 
 - Mergel: Shape matching puzzle  
