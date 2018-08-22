@@ -16893,6 +16893,28 @@
       ],
       "date_added": "Aug 22 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "GameJam",
+      "category-ids": [
+        "spritekit"
+      ],
+      "description": "Contains all the games that made at the game jam.",
+      "source": "https://github.com/TheSwiftAlps/GameJam",
+      "license": "mit",
+      "stars": 64,
+      "tags": [
+        "swift",
+        "spritekit"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/zTZyj8e.png",
+        "https://i.imgur.com/4aFlJUv.png",
+        "https://i.imgur.com/t4NdOM7.png",
+        "https://i.imgur.com/6ltFesP.png"
+      ],
+      "date_added": "Aug 22 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
