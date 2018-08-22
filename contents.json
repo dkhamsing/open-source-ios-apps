@@ -8898,26 +8898,6 @@
       ]
     },
     {
-      "title": "Linphone",
-      "category-ids": [
-        "communication"
-      ],
-      "tags": [
-        "objc"
-      ],
-      "description": "Free audio/video calls & text messages",
-      "source": "https://www.linphone.org/technical-corner/linphone/downloads",
-      "homepage": "https://www.linphone.org/",
-      "itunes": "https://itunes.apple.com/app/linphone/id360065638",
-      "license": "gpl-2.0",
-      "date_added": "Tue May 31 22:34:41 2016 -0600",
-      "suggested_by": "@scribblemaniac",
-      "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple49/v4/77/1d/68/771d68c6-cd00-ee32-ffe7-33a6bdcd26d6/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple49/v4/0c/0c/ad/0c0cad7f-7fec-a217-7d31-af50dfecdb8b/screen696x696.jpeg"
-      ]
-    },
-    {
       "title": "Molecules",
       "category-ids": [
         "content"
@@ -16876,6 +16856,29 @@
         "https://cloud.githubusercontent.com/assets/1646564/16943754/e1d036ee-4dcf-11e6-8994-cc2cf1709bb8.png"
       ],
       "date_added": "Aug 23 2018",
+      "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Linphone",
+      "category-ids": [
+        "communication"
+      ],
+      "description": "An app offering free audio/video calls and text messaging. With Linphone, you can be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection.",
+      "source": "https://gitlab.linphone.org/BC/public/linphone-iphone",
+      "homepage": "http://www.linphone.org/technical-corner/linphone/downloads",
+      "itunes": "https://itunes.apple.com/app/linphone/id360065638",
+      "license": "gpl-2.0",
+      "stars": 0,
+      "tags": [
+        "objc"
+      ],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/48/5f/07/485f073c-1bd4-acdb-127f-0bd5d266d359/mzl.gqlurkmf.png/460x0w.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/cc/b4/b8/ccb4b8a4-f912-b4a7-d69f-1f9fda24f368/mzl.whsepbnn.png/460x0w.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/93/7c/fc/937cfca3-14fd-0a4e-0690-ab02d07452ee/mzl.wkqxfgho.jpg/460x0w.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/49/12/40/4912400a-b408-3bf2-cf8a-8ecdefb858c0/pr_source.jpg/460x0w.jpg"
+      ],
+      "date_added": "Aug 22 2018",
       "suggested_by": "@vpeschenkov"
     }
   ]
