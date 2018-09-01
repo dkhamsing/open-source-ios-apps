@@ -16921,6 +16921,28 @@
       ],
       "date_added": "Aug 22 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "SwiftHub",
+      "category-ids": [
+        "github",
+		"rxswift"
+      ],
+      "description": "Github iOS client written in RxSwift and MVVM architecture.",
+      "source": "https://github.com/khoren93/SwiftHub",
+      "license": "mit",
+      "stars": 0,
+      "tags": [
+        "swift",
+        "rxswift",
+		"mvvm"
+      ],
+      "screenshots": [
+        "https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png",
+        "https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_dark.png"
+      ],
+      "date_added": "Sep 1 2018",
+      "suggested_by": "@khoren93"
     }
   ]
 }
