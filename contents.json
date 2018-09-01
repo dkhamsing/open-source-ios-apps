@@ -16928,7 +16928,7 @@
         "github",
 		"rxswift"
       ],
-      "description": "Github iOS client written in RxSwift and MVVM architecture.",
+      "description": "GitHub app using RxSwift and MVVM architecture.",
       "source": "https://github.com/khoren93/SwiftHub",
       "license": "mit",
       "stars": 0,
