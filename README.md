@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-838-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2022,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-839-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%201,%202018-lightgrey.svg)
 
 Jump to
 
@@ -264,7 +264,7 @@ Click ► to show more details
   </details>
 
 - Gulps: Track your daily water consumption [` App Store`](https://itunes.apple.com/app/gulps/id979057304)  
-  <details><summary><code>swift</code> ⭐⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
   https://github.com/FancyPixel/gulps<br>  Added April 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://cdn-images-1.medium.com/max/800/1*5sA3rvpUw5bdecwbDx7cYA.png'><code>Screenshot 1</code></a> 
@@ -416,7 +416,7 @@ Click ► to show more details
   </details>
 
 - Onion Browser: A Tor-powered web browser that improves your privacy [` App Store`](https://itunes.apple.com/app/id519296448)  
-  <details><summary><code>objc</code> <code>tor</code> ⭐⭐⭐</summary>
+  <details><summary><code>objc</code> <code>tor</code> ⭐⭐⭐⭐</summary>
 
   https://github.com/OnionBrowser/OnionBrowser<br>  https://onionbrowser.com<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a4.mzstatic.com/us/r30/Purple42/v4/7c/3c/cc/7c3ccc4e-77c8-799a-9058-4b8672c71a08/screen696x696.jpeg'><code>Screenshot 1</code></a> 
@@ -676,7 +676,7 @@ Click ► to show more details
   </details>
 
 - AppRTC: A native video chat app  
-  <details><summary><code>objc</code> <code>webrtc</code> <code>google</code> ⭐⭐⭐</summary>
+  <details><summary><code>objc</code> <code>webrtc</code> <code>google</code> ⭐⭐⭐⭐</summary>
 
   https://github.com/ISBX/apprtc-ios<br>  Added September  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
  <br><a href='https://github.com/ISBX/apprtc-ios/raw/master/screenshots/screenshots.jpg'><code>Screenshot 1</code></a> 
@@ -844,7 +844,7 @@ Click ► to show more details
   </details>
 
 - Tutanota: End-to-end encrypted email [` App Store`](https://itunes.apple.com/app/id922429609)  
-  <details><summary><code>javascript</code> <code>cordova</code> <code>iphone</code> <code>ipad</code> ⭐⭐⭐⭐</summary>
+  <details><summary><code>javascript</code> <code>cordova</code> <code>iphone</code> <code>ipad</code> ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/tutao/tutanota<br>  https://tutanota.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='http://a2.mzstatic.com/us/r30/Purple71/v4/7e/80/e2/7e80e291-ee1e-ffb4-9449-c0431136832c/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple62/v4/d3/37/fd/d337fd23-a7e0-a903-3249-6b793974df2d/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/7b/09/a2/7b09a205-22f4-addf-6641-c1462c1d0c98/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple22/v4/9e/c9/8f/9ec98f0b-b5a8-1aa4-98ba-b3c748ed8e18/screen696x696.jpeg'><code>Screenshot 4</code></a> 
@@ -982,7 +982,7 @@ Click ► to show more details
   </details>
 
 - Knil: Universal Links testing made easy [` App Store`](https://itunes.apple.com/app/knil-universal-link-testing/id1195310358)  
-  <details><summary></summary>
+  <details><summary>⭐⭐⭐</summary>
 
   https://github.com/ethanhuang13/knil<br>  Added August 11, 2018
  <br><a href='https://i.imgur.com/FkkMn0M.gifv'><code>Screenshot 1</code></a> 
@@ -1115,7 +1115,7 @@ Click ► to show more details
   </details>
 
 - Unwrap: Learn Swift interactively on your iPhone https://www.hackingwithswift.com  
-  <details><summary><code>swift</code> ⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐</summary>
 
   https://github.com/twostraws/Unwrap<br>  https://www.hackingwithswift.com/<br>  Added August 11, 2018<br>  License: `other`
  <br><a href='https://i.imgur.com/BgTX6bU.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/cKXcVJQ.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/1eO1hgP.png'><code>Screenshot 3</code></a> <a href='https://i.imgur.com/bs0fVFr.png'><code>Screenshot 4</code></a> 
@@ -1242,6 +1242,13 @@ Click ► to show more details
 
   https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub<br>  Added May 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://i.imgur.com/NjqYq02.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- SwiftHub: Github iOS client written in RxSwift and MVVM architecture.  
+  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> </summary>
+
+  https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_dark.png'><code>Screenshot 2</code></a> 
   </details>
 
 
@@ -1477,7 +1484,7 @@ Click ► to show more details
   </details>
 
 - try! Swift Tokyo  
-  <details><summary><code>swift</code> <code>timepiece</code> <code>realm</code> <code>kingfisher</code> <code>acknowlist</code> ⭐</summary>
+  <details><summary><code>swift</code> <code>timepiece</code> <code>realm</code> <code>kingfisher</code> <code>acknowlist</code> ⭐⭐</summary>
 
   https://github.com/tryswift/trySwiftAppFinal<br>  Added February 22, 2017<br>  License: `other`
  <br><a href='https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png'><code>Screenshot 1</code></a> <a href='https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png'><code>Screenshot 2</code></a> 
@@ -1836,7 +1843,7 @@ Click ► to show more details
   </details>
 
 - Wei Wallet: Ethereum wallet [` App Store`](https://itunes.apple.com/app/wei-wallet/id1376979142)  
-  <details><summary><code>swift</code> <code>swinject</code> 🌐 ⭐</summary>
+  <details><summary><code>swift</code> <code>swinject</code> 🌐 ⭐⭐</summary>
 
   https://github.com/popshootjapan/WeiWallet-iOS<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
  <br><a href='https://raw.githubusercontent.com/popshootjapan/WeiWallet-iOS/master/resources/cover_img.png'><code>Screenshot 1</code></a> 
@@ -3909,6 +3916,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  <br><a href='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'><code>Screenshot 1</code></a> 
   </details>
 
+- SwiftHub: Github iOS client written in RxSwift and MVVM architecture.  
+  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> </summary>
+
+  https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_dark.png'><code>Screenshot 2</code></a> 
+  </details>
+
 - Tweetometer: See who is tweeting in your timeline  
   <details><summary><code>swift</code> </summary>
 
@@ -4206,7 +4220,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - Tutanota: End-to-end encrypted email [` App Store`](https://itunes.apple.com/app/id922429609)  
-  <details><summary><code>javascript</code> <code>cordova</code> <code>iphone</code> <code>ipad</code> ⭐⭐⭐⭐</summary>
+  <details><summary><code>javascript</code> <code>cordova</code> <code>iphone</code> <code>ipad</code> ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/tutao/tutanota<br>  https://tutanota.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='http://a2.mzstatic.com/us/r30/Purple71/v4/7e/80/e2/7e80e291-ee1e-ffb4-9449-c0431136832c/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple62/v4/d3/37/fd/d337fd23-a7e0-a903-3249-6b793974df2d/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/7b/09/a2/7b09a205-22f4-addf-6641-c1462c1d0c98/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple22/v4/9e/c9/8f/9ec98f0b-b5a8-1aa4-98ba-b3c748ed8e18/screen696x696.jpeg'><code>Screenshot 4</code></a> 
@@ -4232,7 +4246,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - Bitwarden: An easy way for individuals, teams, and business organizations to store, share, and sync sensitive data. [` App Store`](https://itunes.apple.com/app/bitwarden-free-password-manager/id1137397744)  
-  <details><summary><code>csharp</code> ⭐⭐</summary>
+  <details><summary><code>csharp</code> ⭐⭐⭐</summary>
 
   https://github.com/bitwarden/mobile<br>  https://bitwarden.com<br>  Added June 10, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='https://i.imgur.com/3BO1Wcg.png'><code>Screenshot 1</code></a> 
@@ -4347,7 +4361,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - Beam: Reddit client that's built to browse. It lets you enjoy all of Reddit's content in a unique and beautiful package. [` App Store`](https://itunes.apple.com/app/beam-for-reddit/id937987469)  
-  <details><summary><code>swift</code> <code>objc</code> </summary>
+  <details><summary><code>swift</code> <code>objc</code> ⭐</summary>
 
   https://github.com/awkward/beam<br>  Added May  6, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
  <br><a href='https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/ab/1c/34/ab1c34ca-9913-ef85-ae35-10c2c7d3b7a6/mzl.gkpfevya.png/316x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/79/57/eb795798-bba3-21d5-6070-d8f508af1be0/mzl.lbvrfpjf.png/316x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/13/5d/53/135d536b-5ec2-a567-d72a-c5e6fb12f804/mzl.rzeufpyk.png/316x0w.jpg'><code>Screenshot 3</code></a> 
@@ -5655,7 +5669,7 @@ https://realm.io/ — [back to top](#readme)
   </details>
 
 - try! Swift Tokyo  
-  <details><summary><code>swift</code> <code>timepiece</code> <code>realm</code> <code>kingfisher</code> <code>acknowlist</code> ⭐</summary>
+  <details><summary><code>swift</code> <code>timepiece</code> <code>realm</code> <code>kingfisher</code> <code>acknowlist</code> ⭐⭐</summary>
 
   https://github.com/tryswift/trySwiftAppFinal<br>  Added February 22, 2017<br>  License: `other`
  <br><a href='https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png'><code>Screenshot 1</code></a> <a href='https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png'><code>Screenshot 2</code></a> 
