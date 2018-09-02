@@ -17021,6 +17021,24 @@
       ],
       "date_added": "Sep 2 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Summon",
+      "category-ids": [
+        "apple-watch"
+      ],
+      "description": "An Apple-watch app that let's a person summon another person to an exact location within a building.",
+      "source": "https://github.com/eonist/summon",
+      "license": "other",
+      "stars": 159,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/stylekit/img/master/summon_deck_dark_5.png"
+      ],
+      "date_added": "Sep 3 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
