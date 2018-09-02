@@ -3361,13 +3361,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  <br><a href='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPhone_en.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPad_en.png'><code>Screenshot 2</code></a> 
   </details>
 
-- mosaix: Create photo mosaic  
-  <details><summary><code>swift</code> <code>metal</code> </summary>
-
-  https://github.com/shelly/mosaix<br>  Added December 10, 2017<br>  License: `other`
- <br><a href='https://hunt.blob.core.windows.net/web-images/parallel/gates.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
 - PixPic: Photo editing  
   <details><summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
