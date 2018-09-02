@@ -51,6 +51,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - CoolSpot https://github.com/neonichu/CoolSpot
 - Cryptose https://github.com/insurgentgames/Cryptose
 - Currency Converter https://github.com/ashwinpreet/ReactNativeExamples
+- DesireKeyboard https://github.com/noppefoxwolf/DesireKeyboard
 - Dicershaker https://github.com/millenomi/diceshaker
 - Dollar Bets https://github.com/Rich86man/Dollar-Bets
 - Dono https://github.com/opensourceios/dono-ios
