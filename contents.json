@@ -15485,7 +15485,8 @@
       "source": "https://github.com/shelly/mosaix",
       "tags": [
         "swift",
-        "metal"
+        "metal",
+        "archive"
       ],
       "screenshots": [
         "https://hunt.blob.core.windows.net/web-images/parallel/gates.jpg"
