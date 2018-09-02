@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-843-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%202,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-844-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%202,%202018-lightgrey.svg)
 
 Jump to
 
@@ -331,6 +331,13 @@ Click ► to show more details
 
   https://github.com/dropbox/PhotoWatch<br>  Added February 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://github.com/dropbox/PhotoWatch/raw/master/Screenshots/watch.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- Summon: An Apple-watch app that let's a person summon another person to an exact location within a building.  
+  <details><summary><code>swift</code> ⭐</summary>
+
+  https://github.com/eonist/summon<br>  Added September  3, 2018<br>  License: `other`
+ <br><a href='https://raw.githubusercontent.com/stylekit/img/master/summon_deck_dark_5.png'><code>Screenshot 1</code></a> 
   </details>
 
 - try! Swift NYC  
