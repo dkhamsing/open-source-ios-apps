@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-839-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%201,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-840-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%202,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1244,7 +1244,7 @@ Click ► to show more details
  <br><a href='https://i.imgur.com/NjqYq02.png'><code>Screenshot 1</code></a> 
   </details>
 
-- SwiftHub: Github iOS client written in RxSwift and MVVM architecture.  
+- SwiftHub: GitHub app using RxSwift and MVVM architecture.  
   <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> </summary>
 
   https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1418,6 +1418,13 @@ Click ► to show more details
 
   https://github.com/infinitered/ChainReactApp<br>  Added February  9, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/aa/31/79/aa3179bb-94de-501b-3a54-a4ce1a5742c2/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/8d/a4/98/8da49880-bfe1-021b-7ae4-8922ca17f723/pr_source.png/230x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/b4/a9/5f/b4a95ff1-0f47-1a32-c6c8-0bf5a3cc2435/pr_source.png/230x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
+- ConfFriends: An easy way to connect with fellow developers during WWDC, Layers & AltConf. [` App Store`](https://itunes.apple.com/app/id1386399019)  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/ay8s/ConfFriends<br>  Added September  2, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/ef/8b/c2/ef8bc243-adfd-7a19-cdc0-70706eb7a536/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/fe/4e/1f/fe4e1f0d-23dc-b8df-6a7c-3f55996466b7/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/86/ef/b0/86efb0c9-c2d2-b6a1-a0be-7ecf3f336b7c/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
 - EventBlankApp: Template event / conference app  
@@ -3916,7 +3923,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  <br><a href='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'><code>Screenshot 1</code></a> 
   </details>
 
-- SwiftHub: Github iOS client written in RxSwift and MVVM architecture.  
+- SwiftHub: GitHub app using RxSwift and MVVM architecture.  
   <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> </summary>
 
   https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
