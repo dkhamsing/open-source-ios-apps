@@ -16983,6 +16983,25 @@
       ],
       "date_added": "Sep 2 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "DesireKeyboard",
+      "category-ids": [
+        "keyboard"
+      ],
+      "description": "A keyboard for tvOS.",
+      "source": "https://github.com/noppefoxwolf/DesireKeyboard",
+      "license": "other",
+      "stars": 17,
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/noppefoxwolf/DesireKeyboard/master/sample.gif"
+      ],
+      "date_added": "Sep 2 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
