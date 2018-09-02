@@ -16926,7 +16926,7 @@
       "title": "SwiftHub",
       "category-ids": [
         "github",
-		"rxswift"
+        "rxswift"
       ],
       "description": "GitHub app using RxSwift and MVVM architecture.",
       "source": "https://github.com/khoren93/SwiftHub",
@@ -16935,7 +16935,7 @@
       "tags": [
         "swift",
         "rxswift",
-		"mvvm"
+        "mvvm"
       ],
       "screenshots": [
         "https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png",
@@ -16943,6 +16943,27 @@
       ],
       "date_added": "Sep 1 2018",
       "suggested_by": "@khoren93"
+    },
+    {
+      "title": "ConfFriends",
+      "category-ids": [
+        "event"
+      ],
+      "description": "An easy way to connect with fellow developers during WWDC, Layers & AltConf.",
+      "source": "https://github.com/ay8s/ConfFriends",
+      "itunes": "https://itunes.apple.com/app/id1386399019",
+      "license": "mit",
+      "stars": 0,
+      "tags": [
+        "objc"
+      ],
+      "screenshots": [
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/ef/8b/c2/ef8bc243-adfd-7a19-cdc0-70706eb7a536/pr_source.png/460x0w.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/fe/4e/1f/fe4e1f0d-23dc-b8df-6a7c-3f55996466b7/pr_source.png/460x0w.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/86/ef/b0/86efb0c9-c2d2-b6a1-a0be-7ecf3f336b7c/pr_source.png/460x0w.png"
+      ],
+      "date_added": "Sep 2 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
