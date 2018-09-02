@@ -17002,6 +17002,25 @@
       ],
       "date_added": "Sep 2 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "KeyCo",
+      "category-ids": [
+        "keyboard"
+      ],
+      "description": "A beautiful custom keyboard for developers.",
+      "source": "https://github.com/KeyCoApp/KeyCo",
+      "license": "gpl-2.0",
+      "stars": 9,
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "screenshots": [
+        "http://i.imgur.com/UCWQQPOl.png"
+      ],
+      "date_added": "Sep 2 2018",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
