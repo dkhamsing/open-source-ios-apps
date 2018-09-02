@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-840-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%202,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-841-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%202,%202018-lightgrey.svg)
 
 Jump to
 
@@ -2354,6 +2354,13 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
   https://github.com/mjcuva/Hidrate<br>  Added May  3, 2016<br>  License: `other`
  <br><a href='https://i.imgur.com/nOAhewe.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/DmfcHr6.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/5xlFNzo.png'><code>Screenshot 3</code></a> <a href='https://i.imgur.com/mCDJdlD.png'><code>Screenshot 4</code></a> 
+  </details>
+
+- MedKeeper: Efficiently keeping track of medications and when to take them.  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/jonrobinsdev/MedKeeper<br>  Added September  2, 2018<br>  License: `other`
+ <br><a href='http://i.imgur.com/5SWRa9K.png'><code>Screenshot 1</code></a> 
   </details>
 
 - MyWeight History: Body mass tracker with easy data input & access to history [` App Store`](https://itunes.apple.com/app/myweight-history/id1098061879)  
