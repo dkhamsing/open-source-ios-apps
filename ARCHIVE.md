@@ -100,6 +100,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - london-react https://github.com/JoeStanton/london-react
 - MapBox Earth https://github.com/mapbox/mapbox-earth
 - Morse https://github.com/ijoshsmith/swift-morse-code
+- mosaix https://github.com/shelly/mosaix
 - Movies https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/Movies
 - Mugician https://github.com/rfielding/Mugician
 - Mume https://github.com/opensourceios/Mume
