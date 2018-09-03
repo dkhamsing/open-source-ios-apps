@@ -16704,7 +16704,7 @@
       "tags": [
         "swift"
       ],
-      "description": "Memory game using VIPER Architecture with robust Unit Tests and Fastlane.",
+      "description": "Memory game using VIPER with robust Unit Tests and Fastlane",
       "source": "https://github.com/matiasvillaverde/mobile-ios-vipergame",
       "license": "mit",
       "screenshots": [
@@ -16721,7 +16721,7 @@
         "game",
         "spritekit"
       ],
-      "description": "A clone of Flappy Bird written by using SpriteKit and GameplayKit",
+      "description": "A clone of Flappy Bird using SpriteKit and GameplayKit",
       "source": "https://github.com/jVirus/flappy-fly-bird",
       "license": "bsd-3-clause",
       "stars": 7,
@@ -16846,7 +16846,7 @@
       "category-ids": [
         "viper"
       ],
-      "description": "A simple project to demonstrate VIPER design pattern.",
+      "description": "News app using VIPER",
       "source": "https://github.com/smalam119/live-news-viper",
       "license": "apache-2.0",
       "stars": 36,
@@ -16864,7 +16864,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Demonstrates how to build a live broadcast app.",
+      "description": "Live broadcasting.",
       "source": "https://github.com/ltebean/Live",
       "license": "other",
       "stars": 2161,
@@ -16883,7 +16883,7 @@
       "category-ids": [
         "communication"
       ],
-      "description": "An app offering free audio/video calls and text messaging. With Linphone, you can be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection.",
+      "description": "An app offering free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection).",
       "source": "https://gitlab.linphone.org/BC/public/linphone-iphone",
       "homepage": "http://www.linphone.org/technical-corner/linphone/downloads",
       "itunes": "https://itunes.apple.com/app/linphone/id360065638",
@@ -16906,7 +16906,7 @@
       "category-ids": [
         "spritekit"
       ],
-      "description": "Contains all the games that made at the game jam.",
+      "description": "Contains all the games that were made at the Game Jam",
       "source": "https://github.com/TheSwiftAlps/GameJam",
       "license": "mit",
       "stars": 66,
@@ -16929,7 +16929,7 @@
         "github",
         "rxswift"
       ],
-      "description": "GitHub app using RxSwift and MVVM architecture.",
+      "description": "GitHub app using RxSwift and MVVM",
       "source": "https://github.com/khoren93/SwiftHub",
       "license": "mit",
       "stars": 0,
@@ -16950,7 +16950,7 @@
       "category-ids": [
         "event"
       ],
-      "description": "An easy way to connect with fellow developers during WWDC, Layers & AltConf.",
+      "description": "An easy way to connect with fellow developers during WWDC, Layers & AltConf",
       "source": "https://github.com/ay8s/ConfFriends",
       "itunes": "https://itunes.apple.com/app/id1386399019",
       "license": "mit",
@@ -16971,7 +16971,7 @@
       "category-ids": [
         "health"
       ],
-      "description": "Efficiently keeping track of medications and when to take them.",
+      "description": "Efficiently keeping track of medications and when to take them",
       "source": "https://github.com/jonrobinsdev/MedKeeper",
       "license": "other",
       "stars": 1,
@@ -16989,7 +16989,7 @@
       "category-ids": [
         "keyboard"
       ],
-      "description": "A keyboard for tvOS.",
+      "description": "A keyboard for tvOS",
       "source": "https://github.com/noppefoxwolf/DesireKeyboard",
       "license": "other",
       "stars": 17,
@@ -17008,7 +17008,7 @@
       "category-ids": [
         "keyboard"
       ],
-      "description": "A beautiful custom keyboard for developers.",
+      "description": "A beautiful custom keyboard for developers",
       "source": "https://github.com/KeyCoApp/KeyCo",
       "license": "gpl-2.0",
       "stars": 9,
@@ -17027,7 +17027,7 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "An Apple-watch app that let's a person summon another person to an exact location within a building.",
+      "description": "Summon another person to an exact location within a building with an Apple Watch",
       "source": "https://github.com/eonist/summon",
       "license": "other",
       "stars": 159,
