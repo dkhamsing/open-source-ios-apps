@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **244** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **245** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -320,7 +320,7 @@ Click ► to show more details
  <br><a href='http://a2.mzstatic.com/us/r30/Purple20/v4/f5/c3/f3/f5c3f37e-17b6-e613-aff3-7d66b31a34b0/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple60/v4/87/49/ae/8749ae35-924b-5354-12f7-698113ad3fe4/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple30/v4/83/3a/02/833a024e-5d9e-4802-2c33-212662d4600c/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple18/v4/11/d2/0b/11d20b28-5f21-5718-298f-61a2af7b97e8/screen696x696.jpeg'><code>Screenshot 4</code></a> 
   </details>
 
-- Linphone: An app offering free audio/video calls and text messaging. With Linphone, you can be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection. [` App Store`](https://itunes.apple.com/app/linphone/id360065638)  
+- Linphone: An app offering free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection). [` App Store`](https://itunes.apple.com/app/linphone/id360065638)  
   <details><summary><code>objc</code> </summary>
 
   https://gitlab.linphone.org/BC/public/linphone-iphone<br>  http://www.linphone.org/technical-corner/linphone/downloads<br>  Added August 22, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
@@ -618,7 +618,7 @@ Click ► to show more details
  <br><a href='https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/aa/31/79/aa3179bb-94de-501b-3a54-a4ce1a5742c2/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/8d/a4/98/8da49880-bfe1-021b-7ae4-8922ca17f723/pr_source.png/230x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/b4/a9/5f/b4a95ff1-0f47-1a32-c6c8-0bf5a3cc2435/pr_source.png/230x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- ConfFriends: An easy way to connect with fellow developers during WWDC, Layers & AltConf. [` App Store`](https://itunes.apple.com/app/id1386399019)  
+- ConfFriends: An easy way to connect with fellow developers during WWDC, Layers & AltConf [` App Store`](https://itunes.apple.com/app/id1386399019)  
   <details><summary><code>objc</code> </summary>
 
   https://github.com/ay8s/ConfFriends<br>  Added September  2, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1044,6 +1044,13 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
   https://github.com/DerLobi/Depressed<br>  Added January 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a2.mzstatic.com/us/r30/Purple69/v4/9f/82/17/9f8217e4-00da-b516-1853-23fbc6ecbdaf/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple49/v4/c9/cd/e2/c9cde204-5712-97c4-c952-7f0884490153/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/28/fd/66/28fd66a4-d756-34ce-98f0-aa5dae26ff7d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/7e/80/b9/7e80b966-2e41-a36a-a1a3-b02c70ec0961/screen696x696.jpeg'><code>Screenshot 4</code></a> 
+  </details>
+
+- Good Spirits: A drink tracker with weekly limits, Untappd support, and HealthKit sync [` App Store`](https://itunes.apple.com/app/good-spirits/id1434237439)  
+  <details><summary><code>swift</code> <code>healthkit</code> </summary>
+
+  https://github.com/archagon/good-spirits<br>  Added September  3, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+ <br><a href='https://github.com/archagon/good-spirits/raw/master/screen1.png'><code>Screenshot 1</code></a> <a href='https://github.com/archagon/good-spirits/raw/master/screen2.png'><code>Screenshot 2</code></a> <a href='https://github.com/archagon/good-spirits/raw/master/screen3.png'><code>Screenshot 3</code></a> 
   </details>
 
 - MyWeight History: Body mass tracker with easy data input & access to history [` App Store`](https://itunes.apple.com/app/myweight-history/id1098061879)  
