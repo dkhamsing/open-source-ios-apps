@@ -17039,6 +17039,26 @@
       ],
       "date_added": "Sep 3 2018",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Good Spirits",
+      "category-ids": [
+        "health"
+      ],
+      "description": "A drink tracker with weekly limits, Untappd support, and HealthKit sync",
+      "source": "https://github.com/archagon/good-spirits",
+      "license": "gpl-3.0",
+      "itunes": "https://itunes.apple.com/app/good-spirits/id1434237439",
+      "screenshots": [
+        "https://github.com/archagon/good-spirits/raw/master/screen1.png",
+        "https://github.com/archagon/good-spirits/raw/master/screen2.png",
+        "https://github.com/archagon/good-spirits/raw/master/screen3.png"
+      ],
+      "tags": [
+        "healthkit", "swift"
+      ],
+      "date_added": "Sep 3 2018",
+      "suggested_by": "@archagon"
     }
   ]
 }
