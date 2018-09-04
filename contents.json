@@ -17065,12 +17065,15 @@
       "category-ids": ["game"],
       "description": "A simple game application for the practice of beginners in Swift-programming",
       "source": "https://github.com/riley-usagi/SwiftAdvance",
-      "itunes": "",
       "lang": "rus",
       "license": "mit",
       "stars": 3,
       "tags": ["swift"],
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/1.png",
+        "https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/2.png",
+        "https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/3.png"
+      ],
       "date_added": "Sep 4 2018",
       "suggested_by": "@riley-usagi"
     }
