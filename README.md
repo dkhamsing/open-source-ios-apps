@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-844-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%202,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-845-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%204,%202018-lightgrey.svg)
 
 Jump to
 
@@ -333,7 +333,7 @@ Click ► to show more details
  <br><a href='https://github.com/dropbox/PhotoWatch/raw/master/Screenshots/watch.png'><code>Screenshot 1</code></a> 
   </details>
 
-- Summon: An Apple-watch app that let's a person summon another person to an exact location within a building.  
+- Summon: Summon another person to an exact location within a building with an Apple Watch  
   <details><summary><code>swift</code> ⭐</summary>
 
   https://github.com/eonist/summon<br>  Added September  3, 2018<br>  License: `other`
@@ -614,7 +614,7 @@ Click ► to show more details
  <br><a href='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- Flappy Fly-Bird: A clone of Flappy Bird written by using SpriteKit and GameplayKit  
+- Flappy Fly-Bird: A clone of Flappy Bird using SpriteKit and GameplayKit  
   <details><summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> </summary>
 
   https://github.com/jVirus/flappy-fly-bird<br>  Added July 23, 2018<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
@@ -738,7 +738,7 @@ Click ► to show more details
  <br><a href='http://a2.mzstatic.com/us/r30/Purple20/v4/f5/c3/f3/f5c3f37e-17b6-e613-aff3-7d66b31a34b0/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple60/v4/87/49/ae/8749ae35-924b-5354-12f7-698113ad3fe4/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple30/v4/83/3a/02/833a024e-5d9e-4802-2c33-212662d4600c/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple18/v4/11/d2/0b/11d20b28-5f21-5718-298f-61a2af7b97e8/screen696x696.jpeg'><code>Screenshot 4</code></a> 
   </details>
 
-- Linphone: An app offering free audio/video calls and text messaging. With Linphone, you can be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection. [` App Store`](https://itunes.apple.com/app/linphone/id360065638)  
+- Linphone: An app offering free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection). [` App Store`](https://itunes.apple.com/app/linphone/id360065638)  
   <details><summary><code>objc</code> </summary>
 
   https://gitlab.linphone.org/BC/public/linphone-iphone<br>  http://www.linphone.org/technical-corner/linphone/downloads<br>  Added August 22, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
@@ -1251,7 +1251,7 @@ Click ► to show more details
  <br><a href='https://i.imgur.com/NjqYq02.png'><code>Screenshot 1</code></a> 
   </details>
 
-- SwiftHub: GitHub app using RxSwift and MVVM architecture.  
+- SwiftHub: GitHub app using RxSwift and MVVM  
   <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> </summary>
 
   https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1427,7 +1427,7 @@ Click ► to show more details
  <br><a href='https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/aa/31/79/aa3179bb-94de-501b-3a54-a4ce1a5742c2/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/8d/a4/98/8da49880-bfe1-021b-7ae4-8922ca17f723/pr_source.png/230x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/b4/a9/5f/b4a95ff1-0f47-1a32-c6c8-0bf5a3cc2435/pr_source.png/230x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- ConfFriends: An easy way to connect with fellow developers during WWDC, Layers & AltConf. [` App Store`](https://itunes.apple.com/app/id1386399019)  
+- ConfFriends: An easy way to connect with fellow developers during WWDC, Layers & AltConf [` App Store`](https://itunes.apple.com/app/id1386399019)  
   <details><summary><code>objc</code> </summary>
 
   https://github.com/ay8s/ConfFriends<br>  Added September  2, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1994,7 +1994,7 @@ Click ► to show more details
  <br><a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-1-GameScreen.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-2-GameScreen.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-3-GameScreen.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-4-GameScreen.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-5-GameScreen.png'><code>Screenshot 5</code></a> 
   </details>
 
-- Flappy Fly-Bird: A clone of Flappy Bird written by using SpriteKit and GameplayKit  
+- Flappy Fly-Bird: A clone of Flappy Bird using SpriteKit and GameplayKit  
   <details><summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> </summary>
 
   https://github.com/jVirus/flappy-fly-bird<br>  Added July 23, 2018<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
@@ -2085,7 +2085,7 @@ Click ► to show more details
  <br><a href='https://google.github.io/mechahamster/gameplay1.png'><code>Screenshot 1</code></a> 
   </details>
 
-- Memory Game: Memory game using VIPER Architecture with robust Unit Tests and Fastlane.  
+- Memory Game: Memory game using VIPER with robust Unit Tests and Fastlane  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/matiasvillaverde/mobile-ios-vipergame<br>  Added July 23, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -2262,14 +2262,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  <br><a href='https://i.imgur.com/anzIXHK.png'><code>Screenshot 1</code></a> 
   </details>
 
-- Flappy Fly-Bird: A clone of Flappy Bird written by using SpriteKit and GameplayKit  
+- Flappy Fly-Bird: A clone of Flappy Bird using SpriteKit and GameplayKit  
   <details><summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> </summary>
 
   https://github.com/jVirus/flappy-fly-bird<br>  Added July 23, 2018<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
  <br><a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG'><code>Screenshot 5</code></a> 
   </details>
 
-- GameJam: Contains all the games that made at the game jam.  
+- GameJam: Contains all the games that were made at the Game Jam  
   <details><summary><code>swift</code> <code>spritekit</code> </summary>
 
   https://github.com/TheSwiftAlps/GameJam<br>  Added August 22, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -2349,6 +2349,13 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   https://github.com/Glucosio/glucosio-ios<br>  Added January 13, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 
+- Good Spirits: A drink tracker with weekly limits, Untappd support, and HealthKit sync [` App Store`](https://itunes.apple.com/app/good-spirits/id1434237439)  
+  <details><summary><code>swift</code> <code>healthkit</code> </summary>
+
+  https://github.com/archagon/good-spirits<br>  Added September  3, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+ <br><a href='https://github.com/archagon/good-spirits/raw/master/screen1.png'><code>Screenshot 1</code></a> <a href='https://github.com/archagon/good-spirits/raw/master/screen2.png'><code>Screenshot 2</code></a> <a href='https://github.com/archagon/good-spirits/raw/master/screen3.png'><code>Screenshot 3</code></a> 
+  </details>
+
 - HealthKit~Swift: Sample app  
   <details><summary><code>swift</code> <code>healthkit</code> </summary>
 
@@ -2363,7 +2370,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  <br><a href='https://i.imgur.com/nOAhewe.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/DmfcHr6.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/5xlFNzo.png'><code>Screenshot 3</code></a> <a href='https://i.imgur.com/mCDJdlD.png'><code>Screenshot 4</code></a> 
   </details>
 
-- MedKeeper: Efficiently keeping track of medications and when to take them.  
+- MedKeeper: Efficiently keeping track of medications and when to take them  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/jonrobinsdev/MedKeeper<br>  Added September  2, 2018<br>  License: `other`
@@ -3930,7 +3937,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  <br><a href='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'><code>Screenshot 1</code></a> 
   </details>
 
-- SwiftHub: GitHub app using RxSwift and MVVM architecture.  
+- SwiftHub: GitHub app using RxSwift and MVVM  
   <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> </summary>
 
   https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -4079,7 +4086,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  <br><a href='http://a2.mzstatic.com/us/r30/Purple6/v4/07/32/b6/0732b62f-2f8d-6f35-0126-40c32cb5d86f/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/bf/ca/f9/bfcaf936-e812-ca87-9e46-374c9e6a32f0/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple6/v4/a9/aa/5b/a9aa5bc4-0587-c433-055c-2b98786185a5/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple22/v4/f7/aa/7d/f7aa7d2b-8ad1-9d85-8592-c82c51309655/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple69/v4/6e/c1/a5/6ec1a500-8d0b-ea2e-ee71-9647ba736685/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- Live: Demonstrates how to build a live broadcast app.  
+- Live: Live broadcasting.  
   <details><summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/ltebean/Live<br>  Added August 23, 2018<br>  License: `other`
@@ -5742,14 +5749,14 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
  <br><a href='https://github.com/vkaltyrin/exchanger/blob/master/screenshot.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- live-news-viper: A simple project to demonstrate VIPER design pattern.  
+- live-news-viper: News app using VIPER  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/smalam119/live-news-viper<br>  Added August 22, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
  <br><a href='https://i.imgur.com/COrDl6n.png'><code>Screenshot 1</code></a> 
   </details>
 
-- Memory Game: Memory game using VIPER Architecture with robust Unit Tests and Fastlane.  
+- Memory Game: Memory game using VIPER with robust Unit Tests and Fastlane  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/matiasvillaverde/mobile-ios-vipergame<br>  Added July 23, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
