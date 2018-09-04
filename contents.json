@@ -17059,6 +17059,20 @@
       ],
       "date_added": "Sep 3 2018",
       "suggested_by": "@archagon"
+    },
+    {
+      "title": "Ragnarok",
+      "category-ids": ["game"],
+      "description": "A simple game application for the practice of beginners in Swift-programming",
+      "source": "https://github.com/riley-usagi/SwiftAdvance",
+      "itunes": "",
+      "lang": "rus",
+      "license": "mit",
+      "stars": 3,
+      "tags": ["swift"],
+      "screenshots": [],
+      "date_added": "Sep 4 2018",
+      "suggested_by": "@riley-usagi"
     }
   ]
 }
