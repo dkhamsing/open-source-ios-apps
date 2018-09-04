@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-845-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%204,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-846-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%204,%202018-lightgrey.svg)
 
 Jump to
 
@@ -2132,6 +2132,13 @@ Click ► to show more details
 
   https://github.com/shaunlebron/PterodactylAttack<br>  https://shaunlebron.github.io/pteroattack.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='http://a5.mzstatic.com/us/r30/Purple7/v4/aa/33/d8/aa33d8aa-ccb6-293d-a213-f7bd5cdc55e1/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/2a/fe/98/2afe98b7-d218-cd50-ec2e-706bb93bd9a3/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/ea/29/3d/ea293d10-eb58-009d-9590-51b8c647568f/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/3f/1d/0a/3f1d0a4e-da6c-b3dc-058a-44c8c562855e/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/e0/3d/4f/e03d4f98-caed-0026-9072-0ffd5f6df2aa/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+  </details>
+
+- Ragnarok: A simple game application for the practice of beginners in Swift-programming  
+  <details><summary><code>swift</code> 🌐 </summary>
+
+  https://github.com/riley-usagi/SwiftAdvance<br>  Added September  4, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/3.png'><code>Screenshot 3</code></a> 
   </details>
 
 - RealmPop: Platform / multiplayer game where players pair up to clear a level of bubbles  
