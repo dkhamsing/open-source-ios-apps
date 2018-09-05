@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **242** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **245** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -132,7 +132,7 @@ Click ► to show more details
   </details>
 
 - Gulps: Track your daily water consumption [` App Store`](https://itunes.apple.com/app/gulps/id979057304)  
-  <details><summary><code>swift</code> ⭐⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
   https://github.com/FancyPixel/gulps<br>  Added April 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://cdn-images-1.medium.com/max/800/1*5sA3rvpUw5bdecwbDx7cYA.png'><code>Screenshot 1</code></a> 
@@ -186,7 +186,7 @@ Click ► to show more details
   </details>
 
 - Onion Browser: A Tor-powered web browser that improves your privacy [` App Store`](https://itunes.apple.com/app/id519296448)  
-  <details><summary><code>objc</code> <code>tor</code> ⭐⭐⭐</summary>
+  <details><summary><code>objc</code> <code>tor</code> ⭐⭐⭐⭐</summary>
 
   https://github.com/OnionBrowser/OnionBrowser<br>  https://onionbrowser.com<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a4.mzstatic.com/us/r30/Purple42/v4/7c/3c/cc/7c3ccc4e-77c8-799a-9058-4b8672c71a08/screen696x696.jpeg'><code>Screenshot 1</code></a> 
@@ -320,11 +320,11 @@ Click ► to show more details
  <br><a href='http://a2.mzstatic.com/us/r30/Purple20/v4/f5/c3/f3/f5c3f37e-17b6-e613-aff3-7d66b31a34b0/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple60/v4/87/49/ae/8749ae35-924b-5354-12f7-698113ad3fe4/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple30/v4/83/3a/02/833a024e-5d9e-4802-2c33-212662d4600c/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple18/v4/11/d2/0b/11d20b28-5f21-5718-298f-61a2af7b97e8/screen696x696.jpeg'><code>Screenshot 4</code></a> 
   </details>
 
-- Linphone: Free audio/video calls & text messages [` App Store`](https://itunes.apple.com/app/linphone/id360065638)  
+- Linphone: An app offering free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection). [` App Store`](https://itunes.apple.com/app/linphone/id360065638)  
   <details><summary><code>objc</code> </summary>
 
-  https://www.linphone.org/technical-corner/linphone/downloads<br>  https://www.linphone.org/<br>  Added May 31, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
- <br><a href='http://a3.mzstatic.com/us/r30/Purple49/v4/77/1d/68/771d68c6-cd00-ee32-ffe7-33a6bdcd26d6/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple49/v4/0c/0c/ad/0c0cad7f-7fec-a217-7d31-af50dfecdb8b/screen696x696.jpeg'><code>Screenshot 2</code></a> 
+  https://gitlab.linphone.org/BC/public/linphone-iphone<br>  http://www.linphone.org/technical-corner/linphone/downloads<br>  Added August 22, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+ <br><a href='https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/48/5f/07/485f073c-1bd4-acdb-127f-0bd5d266d359/mzl.gqlurkmf.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/cc/b4/b8/ccb4b8a4-f912-b4a7-d69f-1f9fda24f368/mzl.whsepbnn.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/93/7c/fc/937cfca3-14fd-0a4e-0690-ab02d07452ee/mzl.wkqxfgho.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/49/12/40/4912400a-b408-3bf2-cf8a-8ecdefb858c0/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - Monal: Connect to your chat server without having to give a third party access to your password or messages [` App Store`](https://itunes.apple.com/app/monal-free-xmpp-chat/id317711500)  
@@ -377,7 +377,7 @@ Click ► to show more details
   </details>
 
 - Tutanota: End-to-end encrypted email [` App Store`](https://itunes.apple.com/app/id922429609)  
-  <details><summary><code>javascript</code> <code>cordova</code> <code>iphone</code> <code>ipad</code> ⭐⭐⭐⭐</summary>
+  <details><summary><code>javascript</code> <code>cordova</code> <code>iphone</code> <code>ipad</code> ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/tutao/tutanota<br>  https://tutanota.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='http://a2.mzstatic.com/us/r30/Purple71/v4/7e/80/e2/7e80e291-ee1e-ffb4-9449-c0431136832c/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple62/v4/d3/37/fd/d337fd23-a7e0-a903-3249-6b793974df2d/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/7b/09/a2/7b09a205-22f4-addf-6641-c1462c1d0c98/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple22/v4/9e/c9/8f/9ec98f0b-b5a8-1aa4-98ba-b3c748ed8e18/screen696x696.jpeg'><code>Screenshot 4</code></a> 
@@ -438,7 +438,7 @@ Click ► to show more details
   </details>
 
 - Knil: Universal Links testing made easy [` App Store`](https://itunes.apple.com/app/knil-universal-link-testing/id1195310358)  
-  <details><summary></summary>
+  <details><summary>⭐⭐⭐</summary>
 
   https://github.com/ethanhuang13/knil<br>  Added August 11, 2018
  <br><a href='https://i.imgur.com/FkkMn0M.gifv'><code>Screenshot 1</code></a> 
@@ -477,6 +477,13 @@ Click ► to show more details
 
   https://github.com/ColdGrub1384/Pisth<br>  https://pisth.github.io<br>  Added January 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
  <br><a href='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/1.png'><code>Screenshot 1</code></a> <a href='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/2.png'><code>Screenshot 2</code></a> <a href='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/3.png'><code>Screenshot 3</code></a> <a href='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/4.png'><code>Screenshot 4</code></a> 
+  </details>
+
+- Savanna: IDE for writing Cub scripts. [` App Store`](https://itunes.apple.com/app/savanna/id1350247486)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/louisdh/savanna<br>  Added August 22, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+ <br><a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/45/ae/f6/45aef69e-09b9-f90f-8258-cf2f9553e06d/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/a4/2d/63/a42d63c9-b5e2-1319-0c52-72840c95cab5/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/d9/c0/51/d9c05147-ddce-c0af-aa20-9935e8487dc4/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/5e/91/c85e914d-a9c3-b84a-7a62-c32eaa4e751e/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
 - TLS Inspector: Free WiFi, Workplace Internet, and Computer Viruses can put your personal information at risk. With TLS Inspector you can verify the secure connection information of any website and ensure that your information is private. [` App Store`](https://itunes.apple.com/app/apple-store/id1100539810)  
@@ -609,6 +616,13 @@ Click ► to show more details
 
   https://github.com/infinitered/ChainReactApp<br>  Added February  9, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/aa/31/79/aa3179bb-94de-501b-3a54-a4ce1a5742c2/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/8d/a4/98/8da49880-bfe1-021b-7ae4-8922ca17f723/pr_source.png/230x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/b4/a9/5f/b4a95ff1-0f47-1a32-c6c8-0bf5a3cc2435/pr_source.png/230x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
+- ConfFriends: An easy way to connect with fellow developers during WWDC, Layers & AltConf [` App Store`](https://itunes.apple.com/app/id1386399019)  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/ay8s/ConfFriends<br>  Added September  2, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+ <br><a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/ef/8b/c2/ef8bc243-adfd-7a19-cdc0-70706eb7a536/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/fe/4e/1f/fe4e1f0d-23dc-b8df-6a7c-3f55996466b7/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/86/ef/b0/86efb0c9-c2d2-b6a1-a0be-7ecf3f336b7c/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
 - Northern California Cherry Blossom Festival [` App Store`](https://itunes.apple.com/app/northern-california-cherry-blossom-festival/id981016442)  
@@ -852,7 +866,7 @@ Click ► to show more details
   </details>
 
 - Wei Wallet: Ethereum wallet [` App Store`](https://itunes.apple.com/app/wei-wallet/id1376979142)  
-  <details><summary><code>swift</code> <code>swinject</code> 🌐 ⭐</summary>
+  <details><summary><code>swift</code> <code>swinject</code> 🌐 ⭐⭐</summary>
 
   https://github.com/popshootjapan/WeiWallet-iOS<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
  <br><a href='https://raw.githubusercontent.com/popshootjapan/WeiWallet-iOS/master/resources/cover_img.png'><code>Screenshot 1</code></a> 
@@ -1030,6 +1044,13 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
   https://github.com/DerLobi/Depressed<br>  Added January 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
  <br><a href='http://a2.mzstatic.com/us/r30/Purple69/v4/9f/82/17/9f8217e4-00da-b516-1853-23fbc6ecbdaf/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple49/v4/c9/cd/e2/c9cde204-5712-97c4-c952-7f0884490153/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/28/fd/66/28fd66a4-d756-34ce-98f0-aa5dae26ff7d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/7e/80/b9/7e80b966-2e41-a36a-a1a3-b02c70ec0961/screen696x696.jpeg'><code>Screenshot 4</code></a> 
+  </details>
+
+- Good Spirits: A drink tracker with weekly limits, Untappd support, and HealthKit sync [` App Store`](https://itunes.apple.com/app/good-spirits/id1434237439)  
+  <details><summary><code>swift</code> <code>healthkit</code> </summary>
+
+  https://github.com/archagon/good-spirits<br>  Added September  3, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+ <br><a href='https://github.com/archagon/good-spirits/raw/master/screen1.png'><code>Screenshot 1</code></a> <a href='https://github.com/archagon/good-spirits/raw/master/screen2.png'><code>Screenshot 2</code></a> <a href='https://github.com/archagon/good-spirits/raw/master/screen3.png'><code>Screenshot 3</code></a> 
   </details>
 
 - MyWeight History: Body mass tracker with easy data input & access to history [` App Store`](https://itunes.apple.com/app/myweight-history/id1098061879)  
@@ -1869,7 +1890,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - Tutanota: End-to-end encrypted email [` App Store`](https://itunes.apple.com/app/id922429609)  
-  <details><summary><code>javascript</code> <code>cordova</code> <code>iphone</code> <code>ipad</code> ⭐⭐⭐⭐</summary>
+  <details><summary><code>javascript</code> <code>cordova</code> <code>iphone</code> <code>ipad</code> ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/tutao/tutanota<br>  https://tutanota.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='http://a2.mzstatic.com/us/r30/Purple71/v4/7e/80/e2/7e80e291-ee1e-ffb4-9449-c0431136832c/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple62/v4/d3/37/fd/d337fd23-a7e0-a903-3249-6b793974df2d/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/7b/09/a2/7b09a205-22f4-addf-6641-c1462c1d0c98/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple22/v4/9e/c9/8f/9ec98f0b-b5a8-1aa4-98ba-b3c748ed8e18/screen696x696.jpeg'><code>Screenshot 4</code></a> 
@@ -1895,7 +1916,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   </details>
 
 - Bitwarden: An easy way for individuals, teams, and business organizations to store, share, and sync sensitive data. [` App Store`](https://itunes.apple.com/app/bitwarden-free-password-manager/id1137397744)  
-  <details><summary><code>csharp</code> ⭐⭐</summary>
+  <details><summary><code>csharp</code> ⭐⭐⭐</summary>
 
   https://github.com/bitwarden/mobile<br>  https://bitwarden.com<br>  Added June 10, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
  <br><a href='https://i.imgur.com/3BO1Wcg.png'><code>Screenshot 1</code></a> 
@@ -1975,7 +1996,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 [back to top](#readme) 
  
 - Beam: Reddit client that's built to browse. It lets you enjoy all of Reddit's content in a unique and beautiful package. [` App Store`](https://itunes.apple.com/app/beam-for-reddit/id937987469)  
-  <details><summary><code>swift</code> <code>objc</code> </summary>
+  <details><summary><code>swift</code> <code>objc</code> ⭐</summary>
 
   https://github.com/awkward/beam<br>  Added May  6, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
  <br><a href='https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/ab/1c/34/ab1c34ca-9913-ef85-ae35-10c2c7d3b7a6/mzl.gkpfevya.png/316x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/79/57/eb795798-bba3-21d5-6070-d8f508af1be0/mzl.lbvrfpjf.png/316x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/13/5d/53/135d536b-5ec2-a567-d72a-c5e6fb12f804/mzl.rzeufpyk.png/316x0w.jpg'><code>Screenshot 3</code></a> 

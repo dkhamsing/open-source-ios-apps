@@ -51,6 +51,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - CoolSpot https://github.com/neonichu/CoolSpot
 - Cryptose https://github.com/insurgentgames/Cryptose
 - Currency Converter https://github.com/ashwinpreet/ReactNativeExamples
+- DesireKeyboard https://github.com/noppefoxwolf/DesireKeyboard
 - Dicershaker https://github.com/millenomi/diceshaker
 - Dollar Bets https://github.com/Rich86man/Dollar-Bets
 - Dono https://github.com/opensourceios/dono-ios
@@ -93,6 +94,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - iOctocat https://github.com/dennisreimann/ioctocat
 - iStockcheck https://github.com/AndrewBennet/iStockcheck
 - Jupp https://github.com/dasdom/Jupp
+- KeyCo https://github.com/KeyCoApp/KeyCo
 - LastFM https://github.com/lastfm/lastfm-iphone
 - Letters https://github.com/jessegrosjean/letters.iphone
 - Light-Jockey https://github.com/jmfieldman/Light-Jockey
@@ -100,6 +102,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - london-react https://github.com/JoeStanton/london-react
 - MapBox Earth https://github.com/mapbox/mapbox-earth
 - Morse https://github.com/ijoshsmith/swift-morse-code
+- mosaix https://github.com/shelly/mosaix
 - Movies https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/Movies
 - Mugician https://github.com/rfielding/Mugician
 - Mume https://github.com/opensourceios/Mume
