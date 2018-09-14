@@ -132,14 +132,15 @@ def output_apps(apps, appstoreonly)
     details << details_list[0]
     details_list[1..-1].each { |x| details << "<br>  #{x}" }
 
-    unless screenshots.nil?
-      details << "\n <br>"
+    unless screenshots.nil? || screenshots.empty?
+      details << "\n"
       screenshots.each_with_index do |s, i|
         details << "<a href='#{screenshots[i]}'><code>Screenshot #{i+1}</code></a> "
       end
     end
 
-    details << "\n  </details>\n\n"
+    details << "<br>"
+    details << "</details>\n\n"
     o << details
   end
   o
