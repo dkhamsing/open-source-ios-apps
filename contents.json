@@ -17078,7 +17078,6 @@
         "category-ids": ["photo"],
         "description": "A collection of code examples for Depth APIs",
         "source": "https://github.com/shu223/iOS-Depth-Sampler",
-        "lang": "swift",
         "license": "mit",
         "stars": 1,
         "tags": ["swift"],
