@@ -635,7 +635,6 @@
       "description": "Track your caffeine consumption habits",
       "license": "mit",
       "source": "https://github.com/lazerwalker/cortado",
-      "itunes": "https://itunes.apple.com/app/cortado/id969899327",
       "stars": 161,
       "date_added": "Thu Jun 25 13:30:08 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -1414,7 +1413,6 @@
       ],
       "description": "IRC client",
       "source": "https://github.com/colloquy/colloquy",
-      "itunes": "https://itunes.apple.com/app/colloquy-irc-client/id302000478",
       "stars": 53,
       "license": "other",
       "date_added": "Wed Jan 27 07:15:24 2016 -0800",
@@ -2953,7 +2951,6 @@
       "description": "Parkinson's disease study",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/mPower",
-      "itunes": "https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200",
       "stars": 79,
       "date_added": "Wed, 15 Apr 2015 06:59:02 -0700",
       "suggested_by": "@dkhamsing",
@@ -7049,7 +7046,6 @@
       ],
       "description": "Designed to quickly & easily add tasks",
       "source": "https://github.com/mbcrump/TasksForSwiftWithPersistingData",
-      "itunes": "https://itunes.apple.com/app/task-application/id960435759",
       "tags": [
         "swift",
         "iphone"
@@ -11102,7 +11098,7 @@
     {
       "title": "example-ios-apps",
       "description": "A curated list of example projects",
-      "source": "https://github.com/imjog/example-ios-apps",
+      "source": "https://github.com/jogendra/example-ios-apps",
       "category-ids": [
         "bonus"
       ],
@@ -14054,7 +14050,7 @@
         "timer"
       ],
       "description": "Helps you take care of your pet's routines & schedules",
-      "source": "https://github.com/feliborgez/4pets",
+      "source": "https://github.com/fborges/4pets",
       "date_added": "May 18 2017",
       "suggested_by": "@feliborgez",
       "screenshots": [
