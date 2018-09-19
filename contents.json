@@ -17076,6 +17076,24 @@
       ],
       "date_added": "Sep 4 2018",
       "suggested_by": "@riley-usagi"
+    },
+    {
+        "title": "iOS-Depth-Sampler",
+        "category-ids": ["photo"],
+        "description": "A collection of code examples for Depth APIs",
+        "source": "https://github.com/shu223/iOS-Depth-Sampler",
+        "lang": "swift",
+        "license": "mit",
+        "stars": 1,
+        "tags": ["swift"],
+        "screenshots": [
+            "https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/3d.gif?raw=true",
+            "https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/portraitmatte.gif?raw=true",
+            "https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/arkit-depth.gif?raw=true",
+            "https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/depth_1.gif?raw=true"
+        ],
+        "date_added": "Sep 19 2018",
+        "suggested_by": "@shu223"
     }
   ]
 }
