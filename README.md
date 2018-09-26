@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-846-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%2014,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-847-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%2019,%202018-lightgrey.svg)
 
 Jump to
 
@@ -210,7 +210,7 @@ Click ► to show more details
   https://github.com/mukeshthawani/Calculator<br>  Added December 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://raw.githubusercontent.com/mukeshthawani/Calculator/master/graphics/scr1.png'><code>Screenshot 1</code></a> <br></details>
 
-- Cortado: Track your caffeine consumption habits [` App Store`](https://itunes.apple.com/app/cortado/id969899327)  
+- Cortado: Track your caffeine consumption habits  
   <details><summary><code>objc</code> ⭐</summary>
 
   https://github.com/lazerwalker/cortado<br>  Added June 25, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -633,7 +633,7 @@ Click ► to show more details
   https://github.com/LunarFlash/Chaty<br>  Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/LunarFlash/Chaty/raw/master/ChatChat/screen1.png'><code>Screenshot 1</code></a> <br></details>
 
-- Colloquy: IRC client [` App Store`](https://itunes.apple.com/app/colloquy-irc-client/id302000478)  
+- Colloquy: IRC client  
   <details><summary><code>objc</code> </summary>
 
   https://github.com/colloquy/colloquy<br>  Added January 27, 2016<br>  License: `other`
@@ -2147,7 +2147,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   https://github.com/ResearchKit/GlucoSuccess<br>  Added April 15, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
 <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/01/45/a4/0145a41a-cad3-58b3-6db9-20d72bc2b595/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple5/v4/9e/40/f3/9e40f3d1-90dd-ba6a-c680-9543544b4e41/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple3/v4/bb/e2/e1/bbe2e151-2884-fdf6-ba9d-5aaa76baf876/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/61/8f/72/618f7292-b0e1-48b7-040f-05b91420d745/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/e2/d8/c2/e2d8c2e8-f8f3-dec5-03c9-e662d10b4d69/screen696x696.jpeg'><code>Screenshot 5</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/e7/4b/80/e74b80fd-e9db-3a24-83af-753964ab8288/screen696x696.jpeg'><code>Screenshot 6</code></a> <br></details>
 
-- mPower: Parkinson's disease study [` App Store`](https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200)  
+- mPower: Parkinson's disease study  
   <details><summary><code>objc</code> </summary>
 
   https://github.com/ResearchKit/mPower<br>  Added April 15, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
@@ -2919,6 +2919,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/Yogayu/EmotionNote<br>  Added April 19, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/Yogayu/EmotionNote/raw/master/imgs/Desktop%20HD.png'><code>Screenshot 1</code></a> <br></details>
+
+- iOS-Depth-Sampler: A collection of code examples for Depth APIs  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/shu223/iOS-Depth-Sampler<br>  Added September 19, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/3d.gif?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/portraitmatte.gif?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/arkit-depth.gif?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/depth_1.gif?raw=true'><code>Screenshot 4</code></a> <br></details>
 
 - Megabite: Turn a photo of your food into a face  
   <details><summary><code>opencv</code> <code>pop</code> ⭐⭐</summary>
@@ -4050,7 +4056,7 @@ https://mastodon.social — [back to top](#readme)
 - 4Pets: Helps you take care of your pet's routines & schedules  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/feliborgez/4pets<br>  Added May 18, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://github.com/fborges/4pets<br>  Added May 18, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='https://raw.githubusercontent.com/feliborgez/4pets/master/img/screenshots.png'><code>Screenshot 1</code></a> <br></details>
 
 - C-41: Simple timer to make developing film easier & more reliable  
@@ -4439,7 +4445,7 @@ https://mastodon.social — [back to top](#readme)
   https://github.com/vanyaland/Tagger<br>  Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/vanyaland/Tagger/raw/master/Screenshots/main.png'><code>Screenshot 1</code></a> <br></details>
 
-- Tasks: Designed to quickly & easily add tasks [` App Store`](https://itunes.apple.com/app/task-application/id960435759)  
+- Tasks: Designed to quickly & easily add tasks  
   <details><summary><code>swift</code> <code>iphone</code> </summary>
 
   https://github.com/mbcrump/TasksForSwiftWithPersistingData<br>  Added March  5, 2015<br>  License: `other`
@@ -5048,7 +5054,7 @@ https://www.xamarin.com/ — [back to top](#readme)
 - example-ios-apps: A curated list of example projects  
   <details><summary><code>list</code> </summary>
 
-  https://github.com/imjog/example-ios-apps<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br></details>
+  https://github.com/jogendra/example-ios-apps<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br></details>
 
 - open-source-android-apps  
   <details><summary><code>list</code> ⭐⭐⭐⭐⭐</summary>

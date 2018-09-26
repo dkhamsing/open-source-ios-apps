@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **245** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **241** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -119,12 +119,6 @@ Click ► to show more details
 
   https://github.com/JohnWong/bus-today<br>  Added February 17, 2016<br>  License: `other`
 <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/94/5e/05/945e0506-9e18-749a-1ed9-e018949bfbad/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple69/v4/8f/6c/74/8f6c7422-fdc8-89e4-3514-0ea044e7fd50/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/39/03/e1/3903e1cf-d614-5d26-e3b1-3f9180aa162e/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/7b/9a/d2/7b9ad2f6-0438-c850-f8e0-268b712873a0/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple69/v4/ce/6f/fc/ce6ffc7a-7f95-0c08-f05b-77f15612d0c7/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
-
-- Cortado: Track your caffeine consumption habits [` App Store`](https://itunes.apple.com/app/cortado/id969899327)  
-  <details><summary><code>objc</code> ⭐</summary>
-
-  https://github.com/lazerwalker/cortado<br>  Added June 25, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a3.mzstatic.com/us/r30/Purple7/v4/a8/8e/ef/a88eef8f-dedc-6877-cd28-ae88f461129f/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple5/v4/e7/0c/f3/e70cf340-a630-2d04-b6a3-84cc127e3eee/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple7/v4/16/df/d1/16dfd184-5bea-1fef-d15a-227cd8e4503d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple7/v4/e4/b7/ae/e4b7ae1c-9d36-dfa9-b27f-679676b4366f/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple7/v4/e1/77/52/e17752e3-03e8-f340-abb9-ed6c9bd04a65/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
 - Gulps: Track your daily water consumption [` App Store`](https://itunes.apple.com/app/gulps/id979057304)  
   <details><summary><code>swift</code> ⭐⭐⭐⭐</summary>
@@ -274,12 +268,6 @@ Click ► to show more details
 
   https://github.com/ChatSecure/ChatSecure-iOS<br>  Added March 26, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/bf/67/25/bf672587-f1ff-3ea8-6ba2-d2b51007cfd7/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple7/v4/9c/45/6e/9c456e12-a029-b900-3f74-a84e313932bd/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple7/v4/2f/ea/0e/2fea0ee9-ea64-a2eb-6546-5f0fd0a2f577/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple7/v4/4e/d7/91/4ed791e3-0915-64a3-6aea-64f4319019ab/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
-
-- Colloquy: IRC client [` App Store`](https://itunes.apple.com/app/colloquy-irc-client/id302000478)  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/colloquy/colloquy<br>  Added January 27, 2016<br>  License: `other`
-<a href='http://a2.mzstatic.com/us/r30/Purple3/v4/1c/6b/1f/1c6b1f4b-d464-9faf-47ba-aab606d62dff/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/af/54/c7/af54c763-96f6-7d4f-0813-1a19d06fb3dc/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple3/v4/29/12/80/291280a9-87f0-41ad-121d-54ee39ec45df/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple5/v4/7c/ef/78/7cef78fb-56e1-52e2-d5b4-6fbc833ca32b/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/18/55/21/185521ba-035e-6b2d-362f-0e50b767f5b7/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
 - Falcon Messenger: Fast and beautiful cloud-based messaging app [` App Store`](https://itunes.apple.com/app/id1313765714)  
   <details><summary><code>swift, firebase</code> </summary>
@@ -960,12 +948,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 https://www.apple.com/researchkit/ — [back to top](#readme) 
  
-- mPower: Parkinson's disease study [` App Store`](https://itunes.apple.com/app/parkinson-mpower-study-app/id972191200)  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/ResearchKit/mPower<br>  Added April 15, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-<a href='http://a4.mzstatic.com/us/r30/Purple69/v4/29/a9/f8/29a9f8e0-8c4e-2e07-46c7-2f0034ee9eb3/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple49/v4/ea/1f/46/ea1f46f8-f539-0bcb-348f-66721384daa7/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple49/v4/a9/91/c5/a991c55e-a298-217d-c8c6-e420409f00cb/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/00/a5/3e/00a53e69-ae5b-130c-941f-618474ca0911/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple49/v4/83/1c/ce/831cce21-8d46-cb68-6d00-76570ed44a1e/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
-
 - MyHeartCounts: Personalized tool that can help you measure daily activity, fitness, & cardiovascular risk [` App Store`](https://itunes.apple.com/app/id972189947)  
   <details><summary><code>objc</code> </summary>
 
@@ -2033,12 +2015,6 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/jzzocc/crystal-clipboard-ios<br>  Added October 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-landing.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-clips.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-add.png'><code>Screenshot 3</code></a> <br></details>
-
-- Tasks: Designed to quickly & easily add tasks [` App Store`](https://itunes.apple.com/app/task-application/id960435759)  
-  <details><summary><code>swift</code> <code>iphone</code> </summary>
-
-  https://github.com/mbcrump/TasksForSwiftWithPersistingData<br>  Added March  5, 2015<br>  License: `other`
-<a href='http://a3.mzstatic.com/us/r30/Purple3/v4/9f/b9/e8/9fb9e869-e097-7fa2-ca0c-0b013e1c7d06/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple1/v4/d1/ba/40/d1ba40d5-760c-141b-06ec-4379d21d6316/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/70/5f/f2/705ff244-02ac-c7a4-eef0-9971f0c89ed1/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple3/v4/04/52/da/0452daf2-5d76-62f7-1f98-86de67e257dc/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
 
 
 ### Firebase 
