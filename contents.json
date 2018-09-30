@@ -11096,20 +11096,6 @@
       "license": "other"
     },
     {
-      "title": "example-ios-apps",
-      "description": "A curated list of example projects",
-      "source": "https://github.com/jogendra/example-ios-apps",
-      "category-ids": [
-        "bonus"
-      ],
-      "tags": [
-        "list"
-      ],
-      "suggested_by": "@vpeschenkov",
-      "license": "mit",
-      "stars": 63
-    },
-    {
       "title": "awesome-macOS",
       "source": "https://github.com/iCHAIT/awesome-macOS",
       "category-ids": [
