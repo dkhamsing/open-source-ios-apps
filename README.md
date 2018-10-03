@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-846-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%2030,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-846-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October%20%203,%202018-lightgrey.svg)
 
 Jump to
 
@@ -301,7 +301,7 @@ Click ► to show more details
 <a href='https://github.com/dropbox/PhotoWatch/raw/master/Screenshots/watch.png'><code>Screenshot 1</code></a> <br></details>
 
 - Summon: Summon another person to an exact location within a building with an Apple Watch  
-  <details><summary><code>swift</code> ⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐</summary>
 
   https://github.com/eonist/summon<br>  Added September  3, 2018<br>  License: `other`
 <a href='https://raw.githubusercontent.com/stylekit/img/master/summon_deck_dark_5.png'><code>Screenshot 1</code></a> <br></details>
@@ -1091,7 +1091,7 @@ Click ► to show more details
 <a href='https://i.imgur.com/NjqYq02.png'><code>Screenshot 1</code></a> <br></details>
 
 - SwiftHub: GitHub app using RxSwift and MVVM  
-  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> </summary>
+  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> ⭐</summary>
 
   https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_dark.png'><code>Screenshot 2</code></a> <br></details>
@@ -1144,7 +1144,7 @@ Click ► to show more details
 <a href='http://a2.mzstatic.com/us/r30/Purple122/v4/f0/3d/8e/f03d8e27-3e94-a07a-255c-2c56afdf9256/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple111/v4/fd/17/ca/fd17cab3-a3e2-165c-2b0e-d8ff8faeed13/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple111/v4/d1/d2/98/d1d29891-952b-88ad-e865-759ac918ec1f/screen696x696.jpeg'><code>Screenshot 3</code></a> <br></details>
 
 - Recast: A podcast client that seeks to transform the way you listen to, interact with, and share and discover podcast content. [` App Store`](https://itunes.apple.com/app/recast-find-share-podcasts/id1182878908)  
-  <details><summary><code>swift</code> ⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐</summary>
 
   https://github.com/cuappdev/podcast-ios<br>  Added May 26, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0b/b5/f6/0bb5f665-9207-58d7-effd-23879f680a01/mzl.jtdasfzc.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/b0/85/4c/b0854c05-6930-b70a-28bc-ea65aefe123f/mzl.udtmgexa.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/5c/7b/955c7b98-b7b6-6680-4024-3f756fef12ac/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/57/d1/bc/57d1bc1d-c8ef-50d4-dda0-fadcd7cc9282/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> <br></details>
@@ -1803,7 +1803,7 @@ Click ► to show more details
   https://github.com/Kjuly/iPokeMon<br>  Added May 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br></details>
 
 - MechaHamster: Roll through customizable environments that you can share with friends  
-  <details><summary><code>unity3d</code> <code>csharp</code> <code>firebase</code> </summary>
+  <details><summary><code>unity3d</code> <code>csharp</code> <code>firebase</code> ⭐</summary>
 
   https://github.com/google/mechahamster<br>  Added May 19, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <a href='https://google.github.io/mechahamster/gameplay1.png'><code>Screenshot 1</code></a> <br></details>
@@ -2043,7 +2043,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   https://github.com/Glucosio/glucosio-ios<br>  Added January 13, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br></details>
 
 - Good Spirits: A drink tracker with weekly limits, Untappd support, and HealthKit sync [` App Store`](https://itunes.apple.com/app/good-spirits/id1434237439)  
-  <details><summary><code>swift</code> <code>healthkit</code> </summary>
+  <details><summary><code>swift</code> <code>healthkit</code> ⭐</summary>
 
   https://github.com/archagon/good-spirits<br>  Added September  3, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='https://github.com/archagon/good-spirits/raw/master/screen1.png'><code>Screenshot 1</code></a> <a href='https://github.com/archagon/good-spirits/raw/master/screen2.png'><code>Screenshot 2</code></a> <a href='https://github.com/archagon/good-spirits/raw/master/screen3.png'><code>Screenshot 3</code></a> <br></details>
@@ -2306,7 +2306,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 <a href='https://github.com/ayunav/Neverlate/raw/master/NeverlateDemo.gif'><code>Screenshot 1</code></a> <br></details>
 
 - OneBusAway: Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, & more [` App Store`](https://itunes.apple.com/app/onebusaway/id329380089)  
-  <details><summary><code>objc</code> ⭐</summary>
+  <details><summary><code>objc</code> ⭐⭐</summary>
 
   https://github.com/OneBusAway/onebusaway-iphone<br>  Added August 21, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <a href='http://a1.mzstatic.com/us/r30/Purple71/v4/6a/58/76/6a587632-97c9-1633-a5f1-c2dd09171bd8/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple71/v4/5c/74/ce/5c74ce0a-a6ef-8aab-5f00-9e6e69abeec2/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple71/v4/b4/d2/2e/b4d22e1e-13b7-1bbc-740d-82efc6d5e938/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple62/v4/0f/83/1c/0f831cde-e597-8ea4-372c-9ee43c0e7330/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/6a/e9/c9/6ae9c98a-366e-084a-b674-b4003e3d44e9/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
@@ -2921,7 +2921,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <a href='https://github.com/Yogayu/EmotionNote/raw/master/imgs/Desktop%20HD.png'><code>Screenshot 1</code></a> <br></details>
 
 - iOS-Depth-Sampler: A collection of code examples for Depth APIs  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> ⭐⭐</summary>
 
   https://github.com/shu223/iOS-Depth-Sampler<br>  Added September 19, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/3d.gif?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/portraitmatte.gif?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/arkit-depth.gif?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/depth_1.gif?raw=true'><code>Screenshot 4</code></a> <br></details>
@@ -3033,7 +3033,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <a href='https://github.com/zpz1237/NirZhihuDaily2.0/raw/master/effect1.gif'><code>Screenshot 1</code></a> <br></details>
 
 - TabDump: TabDump news app  
-  <details><summary><code>afnetworking</code> </summary>
+  <details><summary><code>afnetworking</code> ⭐</summary>
 
   https://github.com/dkhamsing/TabDump<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/dkhamsing/TabDump/raw/master/assets/screenshots/screenshot.png'><code>Screenshot 1</code></a> <br></details>
@@ -3418,7 +3418,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 <a href='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'><code>Screenshot 1</code></a> <br></details>
 
 - SwiftHub: GitHub app using RxSwift and MVVM  
-  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> </summary>
+  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> ⭐</summary>
 
   https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_dark.png'><code>Screenshot 2</code></a> <br></details>
@@ -3660,7 +3660,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 <a href='http://a2.mzstatic.com/us/r30/Purple/v4/d0/08/29/d00829d7-e34f-69e7-d21b-bfd3f48ae8fc/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple4/v4/9d/18/f7/9d18f743-51ef-adfa-5720-ce52057f2232/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple2/v4/85/63/c3/8563c3ce-2e2a-0a6f-472d-68b60a274841/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple/v4/e2/43/a1/e243a12f-6391-f347-c684-22e5236f0d79/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
 
 - Pass: Client for the Pass command line app https://www.passwordstore.org/  
-  <details><summary><code>swift</code> <code>carthage</code> <code>keychainaccess</code> <code>onetimepassword</code> ⭐⭐</summary>
+  <details><summary><code>swift</code> <code>carthage</code> <code>keychainaccess</code> <code>onetimepassword</code> ⭐⭐⭐</summary>
 
   https://github.com/mssun/passforios<br>  Added May 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/mssun/passforios/raw/master/screenshot/preview.gif'><code>Screenshot 1</code></a> <br></details>
@@ -4703,7 +4703,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 <a href='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'><code>Screenshot 1</code></a> <br></details>
 
 - NBA allyoop: NBA game scores  
-  <details><summary><code>react native</code> ⭐⭐⭐⭐</summary>
+  <details><summary><code>react native</code> ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/wwayne/react-native-nba-app<br>  Added January  6, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://cloud.githubusercontent.com/assets/5305874/12059257/dacf1ad0-af92-11e5-920c-ba4818d8dc1d.png'><code>Screenshot 1</code></a> <br></details>
