@@ -17085,6 +17085,29 @@
       ],
       "date_added": "Sep 19 2018",
       "suggested_by": "@shu223"
+    },
+    {
+      "title": "VK Photos",
+      "category-ids": [
+        "photo"
+      ],
+      "description": "Image gallery for social network VK.com",
+      "source": "https://github.com/Stmol/vkphotos",
+      "itunes": "https://itunes.apple.com/app/id1435811369",
+      "license": "gpl-3.0",
+      "stars": 0,
+      "tags": [
+        "swift",
+        "flux",
+        "rxswift"
+      ],
+      "screenshots": [
+        "https://github.com/Stmol/vkphotos/blob/master/.readme/screen1.jpg?raw=true",
+        "https://github.com/Stmol/vkphotos/blob/master/.readme/screen2.jpg?raw=true",
+        "https://github.com/Stmol/vkphotos/blob/master/.readme/screen3.jpg?raw=true"
+      ],
+      "date_added": "Oct 10 2018",
+      "suggested_by": "@stmol"
     }
   ]
 }
