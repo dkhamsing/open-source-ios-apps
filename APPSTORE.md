@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **241** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **242** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1358,6 +1358,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/jnordberg/triggy<br>  Added May 18, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='https://raw.githubusercontent.com/jnordberg/triggy/master/triggy.jpg'><code>Screenshot 1</code></a> <br></details>
+
+- VK Photos: Image gallery for social network VK.com [` App Store`](https://itunes.apple.com/app/id1435811369)  
+  <details><summary><code>swift</code> <code>flux</code> <code>rxswift</code> </summary>
+
+  https://github.com/Stmol/vkphotos<br>  Added October 10, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen1.jpg?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen2.jpg?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen3.jpg?raw=true'><code>Screenshot 3</code></a> <br></details>
 
 
 ### Video 
