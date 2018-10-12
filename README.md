@@ -15,7 +15,7 @@ Jump to
 - [Browser](#browser) 
 - [Calculator](#calculator) 
 - [Calendar](#calendar) 
-- [Cocoa Touch Framework](#Cocoa-Touch-Framework)
+- [Cocoa Touch Framework](#Cocoa_Touch_Framework)
 - [Color](#color) 
 - [Clock](#clock) 
 - [Clone](#clone) 
@@ -472,7 +472,7 @@ Click ► to show more details
 <a href='https://github.com/croossin/Malendar/raw/master/Images/MalendarStockPhoto.png'><code>Screenshot 1</code></a> <br></details>
 
 
-## Cocoa-Touch-Framework
+## Cocoa_Touch_Framework
 
 [back to top](#readme) 
 
