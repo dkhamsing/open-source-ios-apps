@@ -472,7 +472,7 @@ Click ► to show more details
 <a href='https://github.com/croossin/Malendar/raw/master/Images/MalendarStockPhoto.png'><code>Screenshot 1</code></a> <br></details>
 
 
-## cocoaTouchFramework
+## Cocoa Touch Framework
 
 [back to top](#readme) 
 
