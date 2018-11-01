@@ -347,7 +347,7 @@ Click ► to show more details
 [back to top](#readme) 
  
 - Blink: Mobile shell terminal based on Mosh [` App Store`](https://itunes.apple.com/app/id1156707581)  
-  <details><summary><code>objc</code> <code>uickeychainstore</code> <code>passcodelock</code> ⭐⭐⭐⭐</summary>
+  <details><summary><code>objc</code> <code>uickeychainstore</code> <code>passcodelock</code> ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/blinksh/blink<br>  Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/a4/c1/40/a4c1408f-f463-823e-7bb3-fd21b8ccc770/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple71/v4/32/7f/26/327f2687-8f48-cad8-f1d6-bddb50e64353/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple62/v4/c0/d2/d8/c0d2d869-6136-2969-8310-d72781769b39/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple62/v4/b3/7d/9b/b37d9b69-7242-44fb-2059-8fb1e42663e8/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
@@ -751,7 +751,7 @@ Click ► to show more details
 <a href='http://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg'><code>Screenshot 1</code></a> <br></details>
 
 - Trust: Ethereum Wallet and Web3 DApp Browser [` App Store`](https://itunes.apple.com/app/trust-ethereum-wallet/id1288339409)  
-  <details><summary><code>swift</code> ⭐⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
   https://github.com/TrustWallet/trust-wallet-ios<br>  https://trustwalletapp.com<br>  Added March 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='https://uploads-ssl.webflow.com/5a88babea6e0f90001b39b0d/5aa0e8bcefcfd2000161d6eb_Main_Image-p-500.png'><code>Screenshot 1</code></a> <br></details>
@@ -1348,7 +1348,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/68/3f/1b/683f1b36-f274-e2f0-64a6-ae00aadca2ab/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/bb/b9/f5/bbb9f50a-4358-a5d0-604f-29e29ed7677f/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple3/v4/f9/8c/11/f98c116a-a49a-598e-e5d7-be0684c35bc5/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple1/v4/ff/6b/2c/ff6b2c22-68be-1f50-868a-e23ff8add3aa/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
 
 - MetaX: Check, edit and delete metadata of photos. [` App Store`](https://itunes.apple.com/app/metax/id1376589355)  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> ⭐</summary>
 
   https://github.com/Ckitakishi/MetaX<br>  Added May  7, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPhone_en.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPad_en.png'><code>Screenshot 2</code></a> <br></details>
