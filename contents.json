@@ -1320,7 +1320,7 @@
         "swift3",
         "firebase"
       ],
-      "description": "MeetPoint is a social media application that you can share spontaneous activities.",
+      "description": "MeetPoint is a social media application that you can share spontaneous activities",
       "source": "https://github.com/MeetPoint-App/meetpoint-ios",
       "itunes": "https://itunes.apple.com/app/meetpoint-app/id1363547170",
       "screenshots": [
@@ -1347,7 +1347,7 @@
         "swift3",
         "firebase"
       ],
-      "description": "Harry Potter themed social network similar to Instagram.",
+      "description": "Harry Potter themed social network similar to Instagram",
       "source": "https://github.com/surayashivji/PotterPics",
       "screenshots": [
         "https://github.com/surayashivji/PotterPics/blob/master/Overview.gif"
@@ -3092,7 +3092,7 @@
       "tags": [
         "swift"
       ],
-      "description": "Put all your links in one place & make them accessible with a keyboard.",
+      "description": "Put all your links in one place & make them accessible with a keyboard",
       "source": "https://github.com/ayushgoel/LinkKeyboard",
       "itunes": "https://itunes.apple.com/app/link-keyboard-my-links-everywhere/id1098798450",
       "screenshots": [
@@ -10929,7 +10929,7 @@
         "communication",
         "official"
       ],
-      "description": "Modern, private communications with crystal clear voice, video, group chats. Always encrypted.",
+      "description": "Modern, private communications with crystal clear voice, video, group chats - always encrypted",
       "source": "https://github.com/wireapp/wire-ios",
       "itunes": "https://itunes.apple.com/app/wire/id930944768",
       "tags": [
@@ -11343,7 +11343,7 @@
         "fabric",
         "crashlytics"
       ],
-      "description": "Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration.",
+      "description": "Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration",
       "source": "https://github.com/automattic/simplenote-ios",
       "itunes": "https://itunes.apple.com/app/simplenote/id289429962",
       "homepage": "https://simplenote.com/",
@@ -11456,7 +11456,7 @@
       "category-ids": [
         "education"
       ],
-      "description": "Study, solve problems, formula library, calculators & more! Made by a student for students.",
+      "description": "Study, solve problems, formula library, calculators & more! Made by a student for students",
       "source": "https://github.com/opensourceios/Pi",
       "itunes": "https://itunes.apple.com/app/pi-a-students-dream/id1117743302",
       "license": "mit",
@@ -14071,10 +14071,8 @@
     {
       "title": "Papr",
       "category-ids": [
-        "developer",
-        "reactive-programming",
         "rxswift",
-        "social"
+        "media"
       ],
       "description": "An unofficial client for https://unsplash.com",
       "source": "https://github.com/jdisho/Papr",
@@ -14345,7 +14343,7 @@
     {
       "title": "ZeitSuche",
       "source": "https://github.com/niftycode/ZeitSuche_iOS",
-      "description": "Search for articles published by Germany's 'Zeit' newspaper.",
+      "description": "Search for articles published by Germany's 'Zeit' newspaper",
       "category-ids": [
         "news"
       ],
@@ -15276,7 +15274,7 @@
         "news",
         "weather"
       ],
-      "description": "Can you imagine if the BiciMAD app had its own style, was easy and intuitive, and had an awesome design? That’s exactly what we do.",
+      "description": "BiciMAD app with its own style and design",
       "source": "https://github.com/alexruperez/MADBike",
       "homepage": "https://www.madbikeapp.com",
       "itunes": "https://itunes.apple.com/app/madbike/id1067596651",
@@ -15368,7 +15366,7 @@
       "category-ids": [
         "gif"
       ],
-      "description": "Create GIFs easily with speech detection. Just record a short video or pick one from your Photos.",
+      "description": "Create GIFs easily with speech detection",
       "source": "https://github.com/michaello/Aloha",
       "itunes": "https://itunes.apple.com/app/aloha-gifs-with-dynamic-subtitles/id1231254189",
       "license": "mit",
@@ -15534,7 +15532,7 @@
         "flux",
         "design-patterns"
       ],
-      "description": "Github user search demo app which made by many variety of design patterns.",
+      "description": "GitHub user search app with variety of design patterns",
       "source": "https://github.com/marty-suzuki/iOSDesignPatternSamples",
       "screenshots": [
         "https://github.com/marty-suzuki/iOSDesignPatternSamples/blob/master/Images/app.gif?raw=true",
@@ -15680,7 +15678,7 @@
     },
     {
       "title": "Stocks-iOS",
-      "description": "A simple finance app showing price information, historical prices and news.",
+      "description": "A simple finance app showing price information, historical prices and news",
       "source": "https://github.com/MauriceArikoglu/stocks-ios",
       "category-ids": [
         "finance"
@@ -15700,7 +15698,7 @@
     },
     {
       "title": "wallabag",
-      "description": "A self-hosted read-it-later app.",
+      "description": "A self-hosted read-it-later app",
       "source": "https://github.com/wallabag/ios-app",
       "itunes": "https://itunes.apple.com/app/wallabag-2-official/id1170800946",
       "category-ids": [
@@ -15723,7 +15721,7 @@
       "category-ids": [
         "cryptocurrency"
       ],
-      "description": "Display and monitor the current Bitcoint rate.",
+      "description": "Display and monitor the current Bitcoint rate",
       "source": "https://github.com/Bruno-Furtado/bitprice-ios",
       "itunes": "https://itunes.apple.com/app/id1343270451",
       "license": "mit",
@@ -15861,7 +15859,7 @@
       "category-ids": [
         "shopping"
       ],
-      "description": "A place for Jeep owners to buy and sell Jeep parts.",
+      "description": "A place for Jeep owners to buy and sell Jeep parts",
       "source": "https://github.com/xYello/ThePost",
       "itunes": "https://itunes.apple.com/app/the-wave-a-jeep-marketplace/id1260803629",
       "license": "mit",
@@ -15888,7 +15886,7 @@
       "category-ids": [
         "education"
       ],
-      "description": "Go Flashcards allows users to create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch. All stacks and stack progress sync over CloudKit. Includes Core Spotlight support for searching for Stacks and Cards via Spotlight.",
+      "description": "Create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch",
       "source": "https://github.com/roymckenzie/Go-Flashcards",
       "itunes": "https://itunes.apple.com/app/go-flashcards/id991657053",
       "homepage": "https://roymckenzie.me/go-flashcards/",
@@ -15937,7 +15935,7 @@
       "category-ids": [
         "misc"
       ],
-      "description": "Your Artificial Intelligence for Personal Assistants, Robots, Help Desks and Chatbots.",
+      "description": "Your Artificial Intelligence for Personal Assistants, Robots, Help Desks and Chatbots",
       "source": "https://github.com/fossasia/susi_iOS",
       "homepage": "https://chat.susi.ai/overview",
       "license": "apache-2.0",
@@ -15958,7 +15956,7 @@
       "category-ids": [
         "misc"
       ],
-      "description": "Client app for bitrise.io.",
+      "description": "Client app for bitrise.io",
       "source": "https://github.com/toshi0383/Bitrise-iOS",
       "homepage": "https://www.bitrise.io",
       "license": "mit",
@@ -15977,7 +15975,7 @@
       "category-ids": [
         "misc"
       ],
-      "description": "The official app for the OpenStack Foundation Summit.",
+      "description": "The official app for the OpenStack Foundation Summit",
       "source": "https://github.com/OpenStack-mobile/summit-app-ios",
       "itunes": "https://itunes.apple.com/app/openstack-foundation-summit/id1071261846",
       "screenshots": [
@@ -16309,7 +16307,7 @@
       "category-ids": [
         "social"
       ],
-      "description": "Reddit client that's built to browse. It lets you enjoy all of Reddit's content in a unique and beautiful package.",
+      "description": "Enjoy all of Reddit's content in a unique and beautiful package",
       "license": "gpl-2.0",
       "source": "https://github.com/awkward/beam",
       "itunes": "https://itunes.apple.com/app/beam-for-reddit/id937987469",
@@ -16331,7 +16329,7 @@
       "category-ids": [
         "content-blocking"
       ],
-      "description": "Content blocker for Safari browser.",
+      "description": "Content blocker for Safari browser",
       "license": "gpl-3.0",
       "source": "https://github.com/AdguardTeam/AdguardForiOS",
       "itunes": "https://itunes.apple.com/app/adguard-adblock-privacy/id1047223162",
@@ -16352,7 +16350,7 @@
       "category-ids": [
         "photo"
       ],
-      "description": "Check, edit and delete metadata of photos.",
+      "description": "Check, edit and delete metadata of photos",
       "source": "https://github.com/Ckitakishi/MetaX",
       "itunes": "https://itunes.apple.com/app/metax/id1376589355",
       "screenshots": [
@@ -16372,7 +16370,7 @@
       "category-ids": [
         "notes"
       ],
-      "description": "Notes manager.",
+      "description": "Notes manager",
       "source": "https://github.com/glushchenko/fsnotes",
       "itunes": "https://itunes.apple.com/app/fsnotes-manager/id1346501102",
       "screenshots": [
@@ -16480,7 +16478,7 @@
     },
     {
       "title": "Recast",
-      "description": "A podcast client that seeks to transform the way you listen to, interact with, and share and discover podcast content.",
+      "description": "A podcast client that seeks to transform the way you listen to, interact with, and share and discover podcasts",
       "category-ids": [
         "education"
       ],
@@ -16571,7 +16569,7 @@
       "category-ids": [
         "password"
       ],
-      "description": "An easy way for individuals, teams, and business organizations to store, share, and sync sensitive data.",
+      "description": "An easy way for individuals, teams, and business organizations to store, share, and sync sensitive data",
       "source": "https://github.com/bitwarden/mobile",
       "homepage": "https://bitwarden.com",
       "itunes": "https://itunes.apple.com/app/bitwarden-free-password-manager/id1137397744",
@@ -16806,7 +16804,7 @@
       "category-ids": [
         "developer"
       ],
-      "description": "IDE for writing Cub scripts.",
+      "description": "IDE for writing Cub scripts",
       "source": "https://github.com/louisdh/savanna",
       "itunes": "https://itunes.apple.com/app/savanna/id1350247486",
       "license": "gpl-2.0",
@@ -16846,7 +16844,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Live broadcasting.",
+      "description": "Live broadcasting",
       "source": "https://github.com/ltebean/Live",
       "license": "other",
       "stars": 2189,
@@ -16865,7 +16863,7 @@
       "category-ids": [
         "communication"
       ],
-      "description": "An app offering free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection).",
+      "description": "Free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection)",
       "source": "https://gitlab.linphone.org/BC/public/linphone-iphone",
       "homepage": "http://www.linphone.org/technical-corner/linphone/downloads",
       "itunes": "https://itunes.apple.com/app/linphone/id360065638",
