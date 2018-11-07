@@ -145,6 +145,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Reusable Code https://github.com/opensourceios/Swift-Reusable-Code
 - Revolved https://github.com/Ciechan/Revolved
 - Runner-Stats https://github.com/hukun01/Runner-Stats
+- Savings Assistant https://github.com/chrisamanse/savings-assistant
 - SceneKitFrogger https://github.com/devindazzle/SceneKitFrogger
 - Scratch https://github.com/johnmci/Scratch.app.for.iOS
 - Shadertweak https://github.com/opensourceios/Shadertweak
