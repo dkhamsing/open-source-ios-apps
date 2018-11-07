@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-847-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%20%203,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-847-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%20%207,%202018-lightgrey.svg)
 
 Jump to
 
@@ -907,7 +907,7 @@ Click ► to show more details
   https://github.com/noodlewerk/NWPusher<br>  Added November 28, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
 <a href='https://github.com/noodlewerk/NWPusher/raw/master/Docs/osx2.png'><code>Screenshot 1</code></a> <a href='https://github.com/noodlewerk/NWPusher/raw/master/Docs/ios.png'><code>Screenshot 2</code></a> <br></details>
 
-- OpenTerm: Sandboxed command line interface [` App Store`](https://itunes.apple.com/app/terminal/id1323205755)  
+- OpenTerm: Sandboxed command line interface  
   <details><summary><code>swift</code> <code>panelkit</code> ⭐⭐⭐⭐</summary>
 
   https://github.com/louisdh/openterm<br>  Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -923,7 +923,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>javascript</code> <code>html</code> </summary>
 
   https://github.com/ColdGrub1384/Pisth<br>  https://pisth.github.io<br>  Added January 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-<a href='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/1.png'><code>Screenshot 1</code></a> <a href='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/2.png'><code>Screenshot 2</code></a> <a href='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/3.png'><code>Screenshot 3</code></a> <a href='https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/4.png'><code>Screenshot 4</code></a> <br></details>
+<a href='https://pisth.github.io/apt/screenshots.png'><code>Screenshot 1</code></a> <br></details>
 
 - RealmVideo: Watch Realm videos & slides  
   <details><summary><code>swift</code> <code>iphone</code> ⭐⭐</summary>
@@ -949,7 +949,7 @@ Click ► to show more details
   https://github.com/RishabhTayal/ReviewMonitor<br>  Added December 27, 2017
 <a href='https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot2.png?raw=true'><code>Screenshot 2</code></a> <br></details>
 
-- Savanna: IDE for writing Cub scripts [` App Store`](https://itunes.apple.com/app/savanna/id1350247486)  
+- Savanna: IDE for writing Cub scripts  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/louisdh/savanna<br>  Added August 22, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
@@ -1137,7 +1137,7 @@ Click ► to show more details
   https://github.com/Flinesoft/Prayer<br>  Added April  3, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='http://a2.mzstatic.com/us/r30/Purple122/v4/f0/3d/8e/f03d8e27-3e94-a07a-255c-2c56afdf9256/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple111/v4/fd/17/ca/fd17cab3-a3e2-165c-2b0e-d8ff8faeed13/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple111/v4/d1/d2/98/d1d29891-952b-88ad-e865-759ac918ec1f/screen696x696.jpeg'><code>Screenshot 3</code></a> <br></details>
 
-- Recast: A podcast client that seeks to transform the way you listen to, interact with, and share and discover podcasts [` App Store`](https://itunes.apple.com/app/recast-find-share-podcasts/id1182878908)  
+- Recast: A podcast client that seeks to transform the way you listen to, interact with, and share and discover podcasts  
   <details><summary><code>swift</code> ⭐⭐</summary>
 
   https://github.com/cuappdev/podcast-ios<br>  Added May 26, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -1306,7 +1306,7 @@ Click ► to show more details
 - WWDC Family iOS: Easily connect with fellow developers during WWDC  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/3lvis/ios<br>  Added February 21, 2017<br>  License: `other`
+  https://github.com/Foreverland/ios<br>  Added February 21, 2017<br>  License: `other`
 <a href='https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png'><code>Screenshot 1</code></a> <br></details>
 
 - WWDC Family React Native: Easily connect with fellow developers during WWDC  
@@ -1447,7 +1447,7 @@ Click ► to show more details
   <details><summary><code>javascript</code> <code>cordova</code> </summary>
 
   https://github.com/cozy/cozy-drive<br>  https://cozy.io/en/<br>  Added February 20, 2018<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)
-<a href='https://framapic.org/screenshot.png'><code>Screenshot 1</code></a> <br></details>
+<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/b0/cc/e8/b0cce897-0e91-db42-fb0d-a3e7f1b8c91a/mzl.kfmaddan.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/73/00/4c/73004c98-1b29-5dd2-4e61-1f83a309ded6/mzl.tsjggnvf.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/3d/a3/a4/3da3a42f-9ebf-a80f-4930-dee1dc0f24ef/mzl.zejyzppj.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/86/98/fc/8698fcbe-6761-7bf8-a86f-053ebe1848db/mzl.yqxbksxf.png/460x0w.jpg'><code>Screenshot 4</code></a> <br></details>
 
 - Local Storage: Save files on your device, visualize storage use, unzip, hash [` App Store`](https://itunes.apple.com/app/id1339306324)  
   <details><summary><code>swift</code> </summary>
@@ -1531,12 +1531,6 @@ Click ► to show more details
   https://github.com/ayunav/Neverlate<br>  Added May 27, 2016<br>  License: `other`
 <a href='https://github.com/ayunav/Neverlate/raw/master/NeverlateDemo.gif'><code>Screenshot 1</code></a> <br></details>
 
-- Savings Assistant: Expense tracker [` App Store`](https://itunes.apple.com/app/savings-assistant/id1022760996)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/chrisamanse/savings-assistant<br>  Added September  5, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
-<a href='http://a5.mzstatic.com/us/r30/Purple69/v4/74/bb/6d/74bb6dc2-2177-fe4b-17d3-2caa07a9cd59/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple49/v4/72/08/f6/7208f671-6648-9cb6-8ae2-2cfcbaaacaf5/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple7/v4/94/bf/a9/94bfa97b-3d91-2c54-1df7-bc738949a73d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple18/v4/7b/ef/6f/7bef6f61-5ea6-9525-b4ee-77948bc7d3ab/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple7/v4/ef/12/d6/ef12d62a-80f1-b719-8d2b-b51e69317b7f/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
-
 - SIP Calculator: Calculate the future value of SIP (Systematic Investment Plan) payments [` App Store`](https://itunes.apple.com/app/id1092822415)  
   <details><summary><code>swift</code> </summary>
 
@@ -1605,7 +1599,7 @@ Click ► to show more details
 - Trust: Ethereum Wallet and Web3 DApp Browser [` App Store`](https://itunes.apple.com/app/trust-ethereum-wallet/id1288339409)  
   <details><summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
-  https://github.com/TrustWallet/trust-wallet-ios<br>  https://trustwalletapp.com<br>  Added March 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://github.com/TrustWallet/trust-wallet-ios<br>  https://trustwallet.com/<br>  Added March 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='https://uploads-ssl.webflow.com/5a88babea6e0f90001b39b0d/5aa0e8bcefcfd2000161d6eb_Main_Image-p-500.png'><code>Screenshot 1</code></a> <br></details>
 
 - Wei Wallet: Ethereum wallet [` App Store`](https://itunes.apple.com/app/wei-wallet/id1376979142)  
@@ -3328,7 +3322,7 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
   https://github.com/Coding/Coding-iOS<br>  Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/d9/af/b7/d9afb7d3-1d4c-2e44-1501-371f2a32a0da/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/ed/8c/2f/ed8c2f53-0d0f-e44f-40a8-f55f87dfd517/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple49/v4/43/09/21/430921eb-aa5a-c68a-9c02-8372dba3a241/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/43/f2/27/43f227be-e0ec-f5de-ef7c-5a786719899a/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/42/98/19/429819d8-b91b-d248-3fc1-1a6f127d82de/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
-- Crystal Clipboard: Copy and paste between devices [` App Store`](https://itunes.apple.com/app/crystal-clipboard/id1287332321)  
+- Crystal Clipboard: Copy and paste between devices  
   <details><summary><code>swift</code> <code>swift4</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> <code>moya</code> <code>starscream</code> <code>mvvm</code> </summary>
 
   https://github.com/jzzocc/crystal-clipboard-ios<br>  Added October 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3972,7 +3966,7 @@ https://mastodon.social — [back to top](#readme)
   https://github.com/kyleweiner/Sentiments<br>  Added May 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif'><code>Screenshot 1</code></a> <br></details>
 
-- Textor: Plain text editor [` App Store`](https://itunes.apple.com/app/textor/id1330406995)  
+- Textor: Plain text editor  
   <details><summary><code>swift</code> ⭐⭐</summary>
 
   https://github.com/louisdh/textor<br>  https://silverfox.be/articles/2018-03-11-textor.html<br>  Added March 13, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -4323,7 +4317,7 @@ https://mastodon.social — [back to top](#readme)
   https://github.com/ooni/probe-ios<br>  Added February 10, 2017<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
 <a href='http://a5.mzstatic.com/us/r30/Purple122/v4/58/f4/3a/58f43a5b-cc09-413a-c0b5-fc0f1c9c660b/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple122/v4/26/21/b8/2621b82f-f8e8-02ef-7ea7-411d5168247a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple122/v4/72/59/e7/7259e715-c87b-5fd4-daa7-98daccd3892d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple111/v4/93/ed/00/93ed005d-36f9-5e8d-7b9f-0a4e2a8def60/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple111/v4/53/bb/0d/53bb0dae-168b-126b-f8a3-fdb0f9d43111/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
-- openHAB: Vendor & technology agnostic home automation [` App Store`](https://itunes.apple.com/app/id492054521)  
+- openHAB: Vendor & technology agnostic home automation [` App Store`](https://itunes.apple.com/app/openhab/id492054521)  
   <details><summary><code>objc</code> </summary>
 
   https://github.com/openhab/openhab-ios<br>  https://www.openhab.org/<br>  Added June  2, 2016<br>  License: [`epl-1.0`](http://choosealicense.com/licenses/epl-1.0/)
@@ -4409,7 +4403,7 @@ https://mastodon.social — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Crystal Clipboard: Copy and paste between devices [` App Store`](https://itunes.apple.com/app/crystal-clipboard/id1287332321)  
+- Crystal Clipboard: Copy and paste between devices  
   <details><summary><code>swift</code> <code>swift4</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> <code>moya</code> <code>starscream</code> <code>mvvm</code> </summary>
 
   https://github.com/jzzocc/crystal-clipboard-ios<br>  Added October 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
