@@ -2144,6 +2144,7 @@
       "source": "https://github.com/chrisamanse/savings-assistant",
       "itunes": "https://itunes.apple.com/app/savings-assistant/id1022760996",
       "tags": [
+        "archive",
         "swift"
       ],
       "stars": 14,
@@ -6849,7 +6850,6 @@
       "license": "mit",
       "source": "https://github.com/louisdh/textor",
       "homepage": "https://silverfox.be/articles/2018-03-11-textor.html",
-      "itunes": "https://itunes.apple.com/app/textor/id1330406995",
       "stars": 471,
       "tags": [
         "swift"
@@ -9515,10 +9515,7 @@
       "description": "SSH and SFTP client",
       "source": "https://github.com/ColdGrub1384/Pisth",
       "screenshots": [
-        "https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/1.png",
-        "https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/2.png",
-        "https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/3.png",
-        "https://pisth.github.io/meta/Screenshots/iPhone%20-%205.8%22/4.png"
+        "https://pisth.github.io/apt/screenshots.png"
       ],
       "homepage": "https://pisth.github.io",
       "date_added": "Jan 12 2018",
@@ -9832,7 +9829,7 @@
       "license": "epl-1.0",
       "source": "https://github.com/openhab/openhab-ios",
       "homepage": "https://www.openhab.org/",
-      "itunes": "https://itunes.apple.com/app/id492054521",
+      "itunes": "https://itunes.apple.com/app/openhab/id492054521",
       "stars": 82,
       "date_added": "Thu Jun 2 00:57:16 2016 -0600",
       "suggested_by": "@scribblemaniac",
@@ -13111,7 +13108,7 @@
     },
     {
       "title": "WWDC Family iOS",
-      "source": "https://github.com/3lvis/ios",
+      "source": "https://github.com/Foreverland/ios",
       "screenshots": [
         "https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png"
       ],
@@ -15357,7 +15354,6 @@
       ],
       "date_added": "Oct 12 2017",
       "license": "mit",
-      "itunes": "https://itunes.apple.com/app/crystal-clipboard/id1287332321",
       "suggested_by": "@jzzocc",
       "stars": 11
     },
@@ -15545,7 +15541,6 @@
     {
       "title": "OpenTerm",
       "source": "https://github.com/louisdh/openterm",
-      "itunes": "https://itunes.apple.com/app/terminal/id1323205755",
       "description": "Sandboxed command line interface",
       "screenshots": [
         "http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg"
@@ -15925,7 +15920,10 @@
       "license": "agpl-3.0",
       "stars": 33,
       "screenshots": [
-        "https://framapic.org/screenshot.png"
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/b0/cc/e8/b0cce897-0e91-db42-fb0d-a3e7f1b8c91a/mzl.kfmaddan.png/460x0w.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/73/00/4c/73004c98-1b29-5dd2-4e61-1f83a309ded6/mzl.tsjggnvf.png/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/3d/a3/a4/3da3a42f-9ebf-a80f-4930-dee1dc0f24ef/mzl.zejyzppj.png/460x0w.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/86/98/fc/8698fcbe-6761-7bf8-a86f-053ebe1848db/mzl.yqxbksxf.png/460x0w.jpg"
       ],
       "date_added": "Feb 20 2018",
       "suggested_by": "@roipoussiere"
@@ -15995,7 +15993,7 @@
       ],
       "description": "Ethereum Wallet and Web3 DApp Browser",
       "source": "https://github.com/TrustWallet/trust-wallet-ios",
-      "homepage": "https://trustwalletapp.com",
+      "homepage": "https://trustwallet.com/",
       "itunes": "https://itunes.apple.com/app/trust-ethereum-wallet/id1288339409",
       "license": "gpl-3.0",
       "stars": 1008,
@@ -16483,7 +16481,6 @@
         "education"
       ],
       "source": "https://github.com/cuappdev/podcast-ios",
-      "itunes": "https://itunes.apple.com/app/recast-find-share-podcasts/id1182878908",
       "license": "mit",
       "stars": 205,
       "tags": [
@@ -16806,7 +16803,6 @@
       ],
       "description": "IDE for writing Cub scripts",
       "source": "https://github.com/louisdh/savanna",
-      "itunes": "https://itunes.apple.com/app/savanna/id1350247486",
       "license": "gpl-2.0",
       "stars": 55,
       "tags": [
