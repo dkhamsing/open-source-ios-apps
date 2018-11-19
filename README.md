@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-847-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%20%207,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-850-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%2019,%202018-lightgrey.svg)
 
 Jump to
 
@@ -300,6 +300,12 @@ Click ► to show more details
   https://github.com/dropbox/PhotoWatch<br>  Added February 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/dropbox/PhotoWatch/raw/master/Screenshots/watch.png'><code>Screenshot 1</code></a> <br></details>
 
+- SpriteKitWatchFace: SpriteKit-based faux analog watch face example for watchOS  
+  <details><summary><code>objc</code> <code>spritekit</code> ⭐⭐⭐</summary>
+
+  https://github.com/steventroughtonsmith/SpriteKitWatchFace<br>  Added November 18, 2018<br>  License: `other`
+<a href='https://hccdata.s3.amazonaws.com/gh_spritekitwatchface.jpg'><code>Screenshot 1</code></a> <br></details>
+
 - Summon: Summon another person to an exact location within a building with an Apple Watch  
   <details><summary><code>swift</code> ⭐⭐</summary>
 
@@ -579,6 +585,11 @@ Click ► to show more details
 
   https://github.com/caleb0/SwiftSnake<br>  Added August 19, 2016<br>  License: `other`
 <a href='https://i.imgur.com/mBi9Jfj.png'><code>Screenshot 1</code></a> <br></details>
+
+- YouTube Clone: Clone of YouTuben but the main intention is to show how to write clean code, using proper MVC patterns and re-usable coding methodologie  
+  <details><summary><code>swift</code> ⭐</summary>
+
+  https://github.com/VamshiIITBHU14/YouTubeClone<br>  Added November 18, 2018<br>  License: `other`<br></details>
 
 - youtube-iOS: YouTube app template  
   <details><summary><code>swift</code> <code>swift3</code> ⭐⭐⭐⭐</summary>
@@ -3544,6 +3555,11 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/ltebean/Live<br>  Added August 23, 2018<br>  License: `other`
 <a href='https://cloud.githubusercontent.com/assets/1646564/16943747/de7a0c36-4dcf-11e6-913f-103301ef8fda.png'><code>Screenshot 1</code></a> <a href='https://cloud.githubusercontent.com/assets/1646564/16943754/e1d036ee-4dcf-11e6-8994-cc2cf1709bb8.png'><code>Screenshot 2</code></a> <br></details>
+
+- MVCTodo: Very simple To Do app to illustrate the principles from my A Better MVC talk  
+  <details><summary><code>swift</code> ⭐⭐</summary>
+
+  https://github.com/davedelong/MVCTodo<br>  Added November 18, 2018<br>  License: `other`<br></details>
 
 - Polls: App for Polls API by Apiary  
   <details><summary><code>swift</code> </summary>
