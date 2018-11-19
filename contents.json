@@ -17102,6 +17102,21 @@
       ],
       "date_added": "Oct 10 2018",
       "suggested_by": "@stmol"
+    },
+    {
+      "title": "YouTube Clone",
+      "category-ids": [
+        "clone"
+      ],
+      "description": "Clone of YouTuben but the main intention is to show how to write clean code, using proper MVC patterns and re-usable coding methodologie",
+      "source": "https://github.com/VamshiIITBHU14/YouTubeClone",
+      "license": "other",
+      "stars": 129,
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Nov 18 2018",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
