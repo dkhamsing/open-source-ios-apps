@@ -17132,6 +17132,23 @@
       ],
       "date_added": "Nov 18 2018",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SpriteKitWatchFace",
+      "category-ids": [
+        "apple-watch"
+      ],
+      "description": "SpriteKit-based faux analog watch face example for watchOS",
+      "source": "https://github.com/steventroughtonsmith/SpriteKitWatchFace",
+      "license": "other",
+      "stars": 756,
+      "tags": [
+        "objc",
+        "spritekit"
+      ],
+      "screenshots": ["https://hccdata.s3.amazonaws.com/gh_spritekitwatchface.jpg"],
+      "date_added": "Nov 18 2018",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
