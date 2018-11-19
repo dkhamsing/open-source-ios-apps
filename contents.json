@@ -17117,6 +17117,21 @@
       ],
       "date_added": "Nov 18 2018",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "MVCTodo",
+      "category-ids": [
+        "sample"
+      ],
+      "description": "Very simple To Do app to illustrate the principles from my A Better MVC talk",
+      "source": "https://github.com/davedelong/MVCTodo",
+      "license": "other",
+      "stars": 359,
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Nov 18 2018",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
