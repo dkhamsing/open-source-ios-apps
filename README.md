@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-850-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%2019,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-850-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%20%202,%202018-lightgrey.svg)
 
 Jump to
 
@@ -592,7 +592,7 @@ Click ► to show more details
   https://github.com/VamshiIITBHU14/YouTubeClone<br>  Added November 18, 2018<br>  License: `other`<br></details>
 
 - youtube-iOS: YouTube app template  
-  <details><summary><code>swift</code> <code>swift3</code> ⭐⭐⭐⭐</summary>
+  <details><summary><code>swift</code> <code>swift3</code> ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/aslanyanhaik/youtube-iOS<br>  Added August 15, 2016<br>  License: `other`
 <a href='https://i.giphy.com/hwCahHAD1tNHa.gif'><code>Screenshot 1</code></a> <br></details>
@@ -853,7 +853,7 @@ Click ► to show more details
 <a href='http://a4.mzstatic.com/us/r30/Purple111/v4/42/1e/6e/421e6e4d-2524-5e1a-93aa-b8159d48a8fa/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 - iOSAppsInfo: List installed apps & URL schemes  
-  <details><summary><code>objc</code> ⭐</summary>
+  <details><summary><code>objc</code> ⭐⭐</summary>
 
   https://github.com/wujianguo/iOSAppsInfo<br>  Added October 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/wujianguo/iOSAppsInfo/raw/master/SampleImages/1.PNG'><code>Screenshot 1</code></a> <a href='https://github.com/wujianguo/iOSAppsInfo/raw/master/SampleImages/3.PNG'><code>Screenshot 2</code></a> <br></details>
@@ -1208,7 +1208,7 @@ Click ► to show more details
 <a href='https://i.ytimg.com/vi/Gj5LQN5iing/hqdefault.jpg'><code>Screenshot 1</code></a> <br></details>
 
 - Mini vMac: Early 68K Macintosh emulator  
-  <details><summary><code>objc</code> ⭐</summary>
+  <details><summary><code>objc</code> ⭐⭐</summary>
 
   https://github.com/zydeco/minivmac4ios<br>  https://namedfork.net/minivmac/<br>  Added July 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <a href='https://namedfork.net/images/minivmac4ios/keyboard.png'><code>Screenshot 1</code></a> <br></details>
@@ -2418,7 +2418,7 @@ Image, video, audio, reading — [back to top](#readme)
 <a href='http://a2.mzstatic.com/us/r30/Purple111/v4/25/5b/c7/255bc7ab-95e2-1660-3bba-717b0ae21f1d/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple111/v4/34/7a/42/347a42bd-3a7b-1f86-c2b8-3e043ea5e0e7/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple122/v4/37/6b/27/376b278d-d698-981f-c931-d0e5b01c6733/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple111/v4/ed/9a/9b/ed9a9b30-72f6-fc12-662f-0d1493a3d136/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple122/v4/d0/8e/fa/d08efa30-4057-323e-15ee-9f2fe1e5aaff/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
 - BookPlayer: Player for your DRM-free audiobooks [` App Store`](https://itunes.apple.com/app/bookplayer-audio-book-player/id1138219998)  
-  <details><summary><code>swift</code> ⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐</summary>
 
   https://github.com/TortugaPower/BookPlayer<br>  Added July  6, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'><code>Screenshot 3</code></a> <br></details>
@@ -3417,7 +3417,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/87/c5/e3/87c5e346-4f01-ce50-b03f-a50d7fa02740/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/1b/db/f3/1bdbf390-575d-e759-2ea3-7e734f1d088a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple69/v4/71/00/9b/71009b0c-6e10-1d12-e182-a2a88b1e077d/screen696x696.jpeg'><code>Screenshot 3</code></a> <br></details>
 
 - RxTodo  
-  <details><summary><code>swift</code> <code>swift3</code> <code>rxswift</code> <code>mvvm</code> ⭐⭐⭐</summary>
+  <details><summary><code>swift</code> <code>swift3</code> <code>rxswift</code> <code>mvvm</code> ⭐⭐⭐⭐</summary>
 
   https://github.com/devxoul/RxTodo<br>  Added September 19, 2016<br>  License: `other`
 <a href='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'><code>Screenshot 1</code></a> <br></details>
@@ -3959,7 +3959,7 @@ https://mastodon.social — [back to top](#readme)
 [back to top](#readme) 
  
 - Edhita: Text editor [` App Store`](https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655)  
-  <details><summary><code>swift</code> ⭐⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
   https://github.com/tnantoka/edhita<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a3.mzstatic.com/us/r30/Purple62/v4/92/84/ea/9284ea12-6151-28ba-7ca5-c7a20a485794/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple62/v4/4f/a3/d0/4fa3d02f-03e0-c774-3a11-e8cd2ed524e2/screen696x696.jpeg'><code>Screenshot 2</code></a> <br></details>
@@ -4012,7 +4012,7 @@ https://mastodon.social — [back to top](#readme)
 <a href='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'><code>Screenshot 1</code></a> <br></details>
 
 - MajorKey: The fastest way to add a note to your email inbox  
-  <details><summary><code>swift</code> </summary>
+  <details><summary><code>swift</code> ⭐</summary>
 
   https://github.com/KrauseFx/MajorKey<br>  Added January 28, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/KrauseFx/MajorKey/blob/master/screenshot.png'><code>Screenshot 1</code></a> <br></details>
@@ -4352,7 +4352,7 @@ https://mastodon.social — [back to top](#readme)
 <a href='https://raw.githubusercontent.com/iAugux/ProjectScreenshots/master/Phonetic/nickname.gif'><code>Screenshot 1</code></a> <br></details>
 
 - SUSI AI: Your Artificial Intelligence for Personal Assistants, Robots, Help Desks and Chatbots  
-  <details><summary><code>swift</code> ⭐⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
   https://github.com/fossasia/susi_iOS<br>  https://chat.susi.ai/overview<br>  Added March  5, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen5.png'><code>Screenshot 3</code></a> <br></details>
@@ -4387,7 +4387,7 @@ https://mastodon.social — [back to top](#readme)
 <a href='https://github.com/FlexMonkey/ForceSketch/raw/master/ForceSketch/ForceSketch.gif'><code>Screenshot 1</code></a> <br></details>
 
 - Plum-O-Meter: Weigh plums (and other small fruit!)  
-  <details><summary><code>swift</code> ⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐</summary>
 
   https://github.com/FlexMonkey/Plum-O-Meter<br>  Added October 27, 2015<br>  License: `other`
 <a href='https://i.imgur.com/V3kaLaC.png'><code>Screenshot 1</code></a> <br></details>
@@ -4947,7 +4947,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
 <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/1e/82/3b/1e823b8a-d10c-2085-2063-1d18ba68ce2e/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 - Articles: Fetch and display a list of articles  
-  <details><summary><code>swift</code> <code>rest</code> ⭐</summary>
+  <details><summary><code>swift</code> <code>rest</code> ⭐⭐</summary>
 
   https://github.com/pedrohperalta/Articles-iOS-VIPER<br>  https://cheesecakelabs.com/blog/ios-project-architecture-using-viper/<br>  Added November  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://i.imgur.com/fEPFBzr.png'><code>Screenshot 1</code></a> <br></details>
