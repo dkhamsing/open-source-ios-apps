@@ -17154,7 +17154,9 @@
     },
     {
       "title": "WeAre",
-      "category-ids": ["photo"],
+      "category-ids": [
+        "photo"
+      ],
       "description": "photo album of AR",
       "source": "https://github.com/SherlockQi/HeavenMemoirs",
       "homepage": "https://github.com/SherlockQi",
@@ -17165,7 +17167,6 @@
         "swift",
         "arkit"
        ],
-      "screenshots": ["https://github.com/SherlockQi/HKNote/blob/master/image/WeAre.gif"],
       "date_added": "Dec 5 2018",
       "suggested_by": "@github_heikki"
 }
