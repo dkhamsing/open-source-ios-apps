@@ -17151,6 +17151,23 @@
       ],
       "date_added": "Nov 18 2018",
       "suggested_by": "@dkhamsing"
-    }
+    },
+    {
+      "title": "WeAre",
+      "category-ids": ["photo"],
+      "description": "photo album of AR",
+      "source": "https://github.com/SherlockQi/HeavenMemoirs",
+      "homepage": "https://github.com/SherlockQi",
+      "itunes": "https://itunes.apple.com/app/id1234567890",		
+      "lang": "zho",     
+      "stars": 427,     
+      "tags": [
+        "swift",
+        "arkit"
+       ],
+      "screenshots": ["https://github.com/SherlockQi/HKNote/blob/master/image/WeAre.gif"],
+      "date_added": "Dec 5 2018",
+      "suggested_by": "@github_heikki"
+}
   ]
 }
