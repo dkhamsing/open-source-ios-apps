@@ -17157,18 +17157,22 @@
       "category-ids": [
         "photo"
       ],
-      "description": "photo album of AR",
+      "description": "Augmented Reality Album",
       "source": "https://github.com/SherlockQi/HeavenMemoirs",
-      "homepage": "https://github.com/SherlockQi",
-      "itunes": "https://itunes.apple.com/app/id1234567890",		
-      "lang": "zho",     
-      "stars": 427,     
+      "itunes": "https://itunes.apple.com/cn/app/weare/id1304227680?mt=8",
+      "lang": "zho",
+      "stars": 427,
       "tags": [
         "swift",
         "arkit"
-       ],
-      "date_added": "Dec 5 2018",
-      "suggested_by": "@github_heikki"
-}
+      ],
+      "screenshots": [
+        "https://github.com/SherlockQi/HeavenMemoirs/blob/master/IMG_1487.PNG",
+        "https://github.com/SherlockQi/HeavenMemoirs/blob/master/IMG_1488.PNG",
+        "https://github.com/SherlockQi/HeavenMemoirs/blob/master/IMG_1491.PNG"
+      ],
+      "date_added": "Dec 6 2018",
+      "suggested_by": "@HeiKki"
+     }
   ]
 }
