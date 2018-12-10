@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **235** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **236** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1206,6 +1206,12 @@ Image, video, audio, reading — [back to top](#readme)
   https://github.com/ryanipete/AmericanChronicle<br>  http://ryanipete.com/AmericanChronicle/<br>  Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/1e/82/3b/1e823b8a-d10c-2085-2063-1d18ba68ce2e/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
+- ArtShredder: Banksy Shredder [` App Store`](https://itunes.apple.com/app/id1439126672)  
+  <details><summary><code>swift</code> <code>arkit</code> <code>banksy</code> 🌐 </summary>
+
+  https://github.com/marty-suzuki/ArtShredder<br>  https://marty-suzuki.github.io/ArtShredder/<br>  Added December 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://raw.githubusercontent.com/marty-suzuki/ArtShredder/master/Images/anim.gif'><code>Screenshot 1</code></a> <a href='https://camo.qiitausercontent.com/fc07258a6de07cd230de6ea740043046eab57d92/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f36303332352f34363832663864312d323366352d386365322d376132332d6435303933613439643664322e676966'><code>Screenshot 2</code></a> <br></details>
+
 - Artsy: The art world in your pocket [` App Store`](https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
   <details><summary><code>iphone</code> <code>ipad</code> <code>afnetworking</code> <code>mantle</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -1305,6 +1311,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
+- ArtShredder: Banksy Shredder [` App Store`](https://itunes.apple.com/app/id1439126672)  
+  <details><summary><code>swift</code> <code>arkit</code> <code>banksy</code> 🌐 </summary>
+
+  https://github.com/marty-suzuki/ArtShredder<br>  https://marty-suzuki.github.io/ArtShredder/<br>  Added December 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://raw.githubusercontent.com/marty-suzuki/ArtShredder/master/Images/anim.gif'><code>Screenshot 1</code></a> <a href='https://camo.qiitausercontent.com/fc07258a6de07cd230de6ea740043046eab57d92/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f36303332352f34363832663864312d323366352d386365322d376132332d6435303933613439643664322e676966'><code>Screenshot 2</code></a> <br></details>
+
 - ColorBlur: Add blur to your photos [` App Store`](https://itunes.apple.com/app/id928863510)  
   <details><summary><code>objc</code> </summary>
 
