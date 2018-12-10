@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **237** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **235** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1218,18 +1218,6 @@ Image, video, audio, reading — [back to top](#readme)
   https://github.com/artsy/energy<br>  Added August 11, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a5.mzstatic.com/us/r30/Purple71/v4/23/c4/ea/23c4eaee-0df9-1ef2-c179-944e4a0ef83d/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple62/v4/94/c0/c2/94c0c26d-f357-ae4f-c428-97d6b030e36d/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple62/v4/fe/2b/67/fe2b6779-8a73-2924-8aa3-45cc42cb1127/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/6e/78/13/6e781329-db0f-81ca-1783-428f85b4f76c/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
 
-- Awesome Mobile Conference: Collaborative list of Mobile Conferences [` App Store`](https://itunes.apple.com/app/awesome-mobile-conferences/id1289255473)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/aweconf/iOS<br>  Added November  3, 2017<br>  License: `other`
-<a href='http://is2.mzstatic.com/image/thumb/Purple128/v4/92/6b/9d/926b9de9-9f22-39e3-073b-f409ed8e7439/source/392x696bb.jpg'><code>Screenshot 1</code></a> <a href='http://is5.mzstatic.com/image/thumb/Purple128/v4/83/90/53/839053c8-d824-2188-7053-d21a92f24618/source/392x696bb.jpg'><code>Screenshot 2</code></a> <br></details>
-
-- Awesome Swift iOS App: Official awesome-swift repository app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/matteocrippa/awesome-swift-ios<br>  Added June 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a3.mzstatic.com/us/r30/Purple1/v4/95/16/1a/95161a0b-1f38-d1e3-d535-bab4fdc95cb8/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/de/40/91/de4091f4-de82-f018-03b1-67224139f3df/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple1/v4/f3/26/ae/f326aee3-af48-fc10-746e-898072b7d931/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple4/v4/65/33/cf/6533cfdf-3c11-91ad-86c3-707dfdd42e5b/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple49/v4/54/3b/9e/543b9e97-0797-8058-5cbb-e430d6dc605b/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
-
 - Kiwix: An offline reader for Wikipedia (& many other websites) [` App Store`](https://itunes.apple.com/app/id997079563)  
   <details><summary><code>swift</code> </summary>
 
@@ -1431,12 +1419,6 @@ https://newsapi.org/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Awesome Swift iOS App: Official awesome-swift repository app [` App Store`](https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/matteocrippa/awesome-swift-ios<br>  Added June 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a3.mzstatic.com/us/r30/Purple1/v4/95/16/1a/95161a0b-1f38-d1e3-d535-bab4fdc95cb8/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/de/40/91/de4091f4-de82-f018-03b1-67224139f3df/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple1/v4/f3/26/ae/f326aee3-af48-fc10-746e-898072b7d931/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple4/v4/65/33/cf/6533cfdf-3c11-91ad-86c3-707dfdd42e5b/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple49/v4/54/3b/9e/543b9e97-0797-8058-5cbb-e430d6dc605b/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
-
 - Coding: Official Coding app [` App Store`](https://itunes.apple.com/app/coding/id923676989)  
   <details><summary><code>reactivecocoa</code> <code>masonry</code> 🌐 ⭐⭐⭐⭐⭐</summary>
 
@@ -1764,7 +1746,7 @@ https://mastodon.social — [back to top](#readme)
 - Task Coach: A simple to-do manager designed for composite tasks [` App Store`](https://itunes.apple.com/app/task-coach/id311403563)  
   <details><summary><code>objc</code> </summary>
 
-  https://sourceforge.net/projects/taskcoach/<br>  http://www.taskcoach.org/<br>  Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  https://sourceforge.net/projects/taskcoach/<br>  https://www.taskcoach.org/<br>  Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='http://a4.mzstatic.com/us/r30/Purple6/v4/91/19/de/9119debe-4936-ac90-6fa0-6cd9bd92fd1e/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple4/v4/52/9b/45/529b453d-1cae-0720-1d9e-ef336c760f4f/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple6/v4/d5/f0/a8/d5f0a87a-3772-0e79-2709-6d5ecdf6d5d2/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple/v4/8c/8d/7b/8c8d7b2c-5739-cf8f-a3ab-d7b2c5a492b1/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple6/v4/fe/9b/1e/fe9b1e76-6717-7223-6944-c5587c834b18/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
 
