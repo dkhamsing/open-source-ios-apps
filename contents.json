@@ -17175,6 +17175,31 @@
       ],
       "date_added": "Dec 6 2018",
       "suggested_by": "@HeiKki"
+     },
+     {
+      "title": "ArtShredder",
+      "category-ids": [
+        "photo",
+        "content"
+      ],
+      "description": "Banksy Shredder",
+      "source": "https://github.com/marty-suzuki/ArtShredder",
+      "homepage": "https://marty-suzuki.github.io/ArtShredder/",
+      "itunes": "https://itunes.apple.com/app/id1439126672",
+      "license": "mit",
+      "lang": "zho",
+      "stars": 0,
+      "tags": [
+        "swift",
+        "arkit",
+        "banksy"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/marty-suzuki/ArtShredder/master/Images/anim.gif",
+        "https://camo.qiitausercontent.com/fc07258a6de07cd230de6ea740043046eab57d92/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f36303332352f34363832663864312d323366352d386365322d376132332d6435303933613439643664322e676966"
+      ],
+      "date_added": "Dec 10 2018",
+      "suggested_by": "@marty-suzuki"
      }
   ]
 }
