@@ -19,6 +19,8 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - AppSlate https://github.com/Taehan-Kim/AppSlate
 - Around Me https://github.com/bgryszko/react-native-example
 - audiograph https://github.com/tkzic/audiograph
+- Awesome Mobile Conference https://github.com/aweconf/iOS
+- Awesome Swift iOS App https://github.com/matteocrippa/awesome-swift-ios
 - Bancha https://github.com/squallstar/bancha-ios-app
 - Battle for Wesnoth https://github.com/dailin/wesnoth_ios
 - Be my eyes https://github.com/opensourceios/bemyeyes-ios
