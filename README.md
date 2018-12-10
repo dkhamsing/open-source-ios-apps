@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-850-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%20%202,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-851-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%2010,%202018-lightgrey.svg)
 
 Jump to
 
@@ -2966,6 +2966,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/Stmol/vkphotos<br>  Added October 10, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen1.jpg?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen2.jpg?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen3.jpg?raw=true'><code>Screenshot 3</code></a> <br></details>
+
+- WeAre: Augmented Reality Album [` App Store`](https://itunes.apple.com/app/weare/id1304227680)  
+  <details><summary><code>swift</code> <code>arkit</code> 🌐 ⭐⭐</summary>
+
+  https://github.com/SherlockQi/HeavenMemoirs<br>  Added December  6, 2018
+<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/39/ae/1a/39ae1aa9-e91a-3cac-15b1-c19ee9c55001/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/08/ed/70/08ed70e4-49fe-bf83-ca97-c118a8148fb8/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/cc/89/c0/cc89c006-3110-42a5-5eab-a9c04176e774/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/66/83/e2/6683e207-07ca-7d2c-290f-11c1f1d55d71/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <br></details>
 
 
 ### Video 
