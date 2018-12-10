@@ -15884,7 +15884,6 @@
       "description": "Create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch",
       "source": "https://github.com/roymckenzie/Go-Flashcards",
       "itunes": "https://itunes.apple.com/app/go-flashcards/id991657053",
-      "homepage": "https://roymckenzie.me/go-flashcards/",
       "license": "gpl-2.0",
       "stars": 20,
       "tags": [
@@ -15895,11 +15894,11 @@
         "spotlight"
       ],
       "screenshots": [
-        "https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-progress.jpg",
-        "https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-add-images.jpg",
-        "https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcard-memorized.jpg",
-        "https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-reorder.jpg",
-        "https://roymckenzie.me/wp-content/uploads/2017/11/go-flashcards-study-reminder.jpg"
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple82/v4/c7/52/24/c7522479-fb2a-3667-7d62-5351dc064423/mzl.swmmmbqv.png/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2e/ce/1c/2ece1c19-0322-4855-495f-bf6d330e85d5/mzl.vusqxtss.png/460x0w.jpg",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c9/15/e2/c915e243-0276-f089-195d-f9bb0647025e/mzl.rvnqhird.png/460x0w.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/dd/2d/bb/dd2dbb29-2c60-e6cd-9a4d-e90781d04382/mzl.hrjdrozv.png/460x0w.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/58/c6/e0/58c6e0ed-5be7-6320-ce72-084232f6a29f/pr_source.png/460x0w.jpg"
       ],
       "date_added": "Feb 18 2018",
       "suggested_by": "@roymckenzie"
