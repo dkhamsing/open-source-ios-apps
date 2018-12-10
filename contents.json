@@ -8921,7 +8921,7 @@
       ],
       "description": "A simple to-do manager designed for composite tasks",
       "source": "https://sourceforge.net/projects/taskcoach/",
-      "homepage": "http://www.taskcoach.org/",
+      "homepage": "https://www.taskcoach.org/",
       "itunes": "https://itunes.apple.com/app/task-coach/id311403563",
       "license": "gpl-3.0",
       "date_added": "Tue May 31 23:13:24 2016 -0600",
@@ -10027,7 +10027,8 @@
       "itunes": "https://itunes.apple.com/app/awesome-for-swift-cheatsheet/id1078115427",
       "license": "mit",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "stars": 36,
       "date_added": "Sat, 11 Jun 2016 20:43:53 +0200",
@@ -15392,7 +15393,8 @@
         "http://is5.mzstatic.com/image/thumb/Purple128/v4/83/90/53/839053c8-d824-2188-7053-d21a92f24618/source/392x696bb.jpg"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "date_added": "Nov 3 2017",
       "license": "other",
@@ -16684,7 +16686,7 @@
       "source": "https://github.com/matiasvillaverde/mobile-ios-vipergame",
       "license": "mit",
       "screenshots": [
-        "http://matiasvillaverde.com/mobile-ios-vipergame/header.png"
+        "https://raw.githubusercontent.com/matiasvillaverde/mobile-ios-vipergame/master/header.png"
       ],
       "date_added": "July 23 2018",
       "suggested_by": "@matiasvillaverde",
