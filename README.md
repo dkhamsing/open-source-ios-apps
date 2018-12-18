@@ -180,6 +180,12 @@ Click ► to show more details
   https://github.com/efremidze/Alarm<br>  Added April 11, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <a href='https://raw.githubusercontent.com/efremidze/Alarm/master/screenshots/en-US/iPhone7-0-d41d8cd98f00b204e9800998ecf8427e.png'><code>Screenshot 1</code></a> <br></details>
 
+- AppleWatchFaces: Apple Watch Face Editor iOS and watchOS apps
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/orff/AppleWatchFaces<br>  Added Dec 17, 2018<br>  License: [`GPL-3`](https://choosealicense.com/licenses/gpl-3.0/)
+<a href='https://github.com/orff/AppleWatchFaces/raw/master/AppleWatchFacesQuickDemo.gif'><code>Gif 1</code></a> <br></details>
+
 - BaiduFM: A Baidu Music app  
   <details><summary><code>swift</code> 🌐 ⭐⭐⭐</summary>
 
