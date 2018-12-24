@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-852-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%2010,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-853-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%2024,%202018-lightgrey.svg)
 
 Jump to
 
@@ -2918,6 +2918,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/maurovc/ColorBlur<br>  Added March 16, 2015<br>  License: `other`
 <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/68/3f/1b/683f1b36-f274-e2f0-64a6-ae00aadca2ab/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/bb/b9/f5/bbb9f50a-4358-a5d0-604f-29e29ed7677f/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple3/v4/f9/8c/11/f98c116a-a49a-598e-e5d7-be0684c35bc5/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple1/v4/ff/6b/2c/ff6b2c22-68be-1f50-868a-e23ff8add3aa/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
+
+- Danbooru Lite: Danbooru Lite allows you to connect to a various photo hosting services and browse images. Download any image to your device's storage, or set it as your new wallpaper. Share images with friends via your favorite messaging app [` App Store`](https://itunes.apple.com/app/danbooru-lite/id1338782992)  
+  <details><summary></summary>
+
+  https://github.com/satishbabariya/Danbooru-Lite<br>  Added December 23, 2018
+<a href='https://raw.githubusercontent.com/satishbabariya/Danbooru-Lite/master/Assets/01.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/satishbabariya/Danbooru-Lite/master/Assets/03.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/satishbabariya/Danbooru-Lite/master/Assets/02.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/satishbabariya/Danbooru-Lite/master/Assets/04.jpg'><code>Screenshot 4</code></a> <br></details>
 
 - EmotionNote Diary: Choose or take a photo of your face & the app will tell you your emotion  
   <details><summary><code>swift</code> </summary>
