@@ -17200,6 +17200,21 @@
       ],
       "date_added": "Dec 10 2018",
       "suggested_by": "@marty-suzuki"
-     }
+     },
+     {
+        "title": "Danbooru Lite",
+        "category-ids": ["photo"],
+        "description": "Danbooru Lite allows you to connect to a various photo hosting services and browse images. Download any image to your device's storage, or set it as your new wallpaper. Share images with friends via your favorite messaging app",
+        "source": "https://github.com/satishbabariya/Danbooru-Lite",
+        "itunes": "https://itunes.apple.com/app/danbooru-lite/id1338782992",
+        "screenshots": [
+            "https://raw.githubusercontent.com/satishbabariya/Danbooru-Lite/master/Assets/01.jpg",
+            "https://raw.githubusercontent.com/satishbabariya/Danbooru-Lite/master/Assets/03.jpg",
+            "https://raw.githubusercontent.com/satishbabariya/Danbooru-Lite/master/Assets/02.jpg",
+            "https://raw.githubusercontent.com/satishbabariya/Danbooru-Lite/master/Assets/04.jpg"
+        ],
+        "date_added": "Dec 23 2018",
+        "suggested_by": "@satishbabariya"
+    }
   ]
 }
