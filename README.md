@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-853-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%2024,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-853-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%2026,%202018-lightgrey.svg)
 
 Jump to
 
@@ -1099,7 +1099,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> ⭐</summary>
 
   https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_dark.png'><code>Screenshot 2</code></a> <br></details>
+<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png'><code>Screenshot 1</code></a> <br></details>
 
 
 ## Education 
@@ -1505,12 +1505,6 @@ Click ► to show more details
   <details><summary><code>swift</code> </summary>
 
   https://github.com/hkalexling/Buck_Tracker<br>  Added November 16, 2015<br>  License: `other`<br></details>
-
-- doughwallet: Dogecoin wallet [` App Store`](https://itunes.apple.com/app/doughwallet/id951731776)  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/peritus/doughwallet<br>  Added July  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a3.mzstatic.com/us/r30/Purple1/v4/f7/97/46/f7974641-835a-3c11-fa55-0d08f429308c/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple3/v4/ba/3d/89/ba3d89f9-98e5-2844-3de3-b4fd23b3fab0/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple5/v4/8d/20/50/8d2050d0-751a-17fa-1e25-a77abaa68de8/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple1/v4/a5/35/20/a53520fa-de31-3635-f319-c08956a5951c/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple3/v4/ca/4f/9e/ca4f9e88-4e1e-e87e-42a0-26bfa586d8b3/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
 - EconoApp: Keep track of economic information  
   <details><summary><code>swift</code> </summary>
@@ -2716,7 +2710,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Kiwix: An offline reader for Wikipedia (& many other websites) [` App Store`](https://itunes.apple.com/app/id997079563)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/kiwix/apple<br>  http://wiki.kiwix.org/wiki/Main_Page<br>  Added June  2, 2016<br>  License: `other`
+  https://github.com/kiwix/apple<br>  https://wiki.kiwix.org/wiki/Main_Page<br>  Added June  2, 2016<br>  License: `other`
 <a href='http://a5.mzstatic.com/us/r30/Purple30/v4/d7/75/7d/d7757dca-fbd0-2ad8-5cb5-eedd8a440664/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple60/v4/0a/a6/50/0aa650de-c849-a135-528b-9eaf30da9207/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple60/v4/a4/1c/db/a41cdb64-d122-80f4-fc3c-fc8ebf430f22/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple60/v4/ec/8e/6a/ec8e6a20-8dae-4619-d352-24f076c86550/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple18/v4/da/23/5c/da235cde-a1e6-2cab-3bdb-7d42d81e98e1/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
 - KonaBot: An app for http://konachan.net/ [` App Store`](https://itunes.apple.com/app/konabot/id1055716649)  
@@ -2758,7 +2752,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Open States: Browse state legislatures  
   <details><summary><code>objc</code> </summary>
 
-  https://github.com/openstates/openstates-ios<br>  Added April  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  https://github.com/openstates/legacy-openstates-ios<br>  Added April  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
 <a href='https://s3.mzstatic.com/r30/Purple6/v4/d3/db/1a/d3db1a57-d85c-b2b1-3b15-5c14bb455229/screen1136x1136.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 - OpenPics: View historical images from multiple remote sources [` App Store`](https://itunes.apple.com/app/openpics/id633423505)  
@@ -2824,12 +2818,6 @@ Image, video, audio, reading — [back to top](#readme)
 
   https://github.com/BalestraPatrick/RealmVideo<br>  Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/BalestraPatrick/RealmVideo/raw/master/Resources/demo.gif'><code>Screenshot 1</code></a> <br></details>
-
-- Rewatch: Get suggestions for your BetaSeries account on what episode to rewatch [` App Store`](https://itunes.apple.com/app/rewatch-get-suggestion-rewatch/id1054419288)  
-  <details><summary><code>swift</code> <code>carthage</code> 🌐 </summary>
-
-  https://github.com/Palleas/Rewatch<br>  Added September 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a5.mzstatic.com/us/r30/Purple18/v4/f9/5c/67/f95c6741-8c28-958e-f532-1eb7ec8fe792/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 - SoundCloudSwift: SoundCloud app  
   <details><summary><code>swift</code> ⭐⭐⭐</summary>
@@ -3432,7 +3420,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> ⭐</summary>
 
   https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_dark.png'><code>Screenshot 2</code></a> <br></details>
+<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png'><code>Screenshot 1</code></a> <br></details>
 
 - Tweetometer: See who is tweeting in your timeline  
   <details><summary><code>swift</code> </summary>
