@@ -2117,6 +2117,7 @@
         "finance"
       ],
       "tags": [
+        "archive",
         "objc"
       ],
       "description": "Dogecoin wallet",
@@ -6424,7 +6425,7 @@
         "https://s3.mzstatic.com/r30/Purple6/v4/d3/db/1a/d3db1a57-d85c-b2b1-3b15-5c14bb455229/screen1136x1136.jpeg"
       ],
       "description": "Browse state legislatures",
-      "source": "https://github.com/openstates/openstates-ios",
+      "source": "https://github.com/openstates/legacy-openstates-ios",
       "stars": 52,
       "license": "bsd-3-clause",
       "date_added": "Wed Apr 6 07:03:48 2016 -0700",
@@ -9643,7 +9644,7 @@
       ],
       "description": "An offline reader for Wikipedia (& many other websites)",
       "source": "https://github.com/kiwix/apple",
-      "homepage": "http://wiki.kiwix.org/wiki/Main_Page",
+      "homepage": "https://wiki.kiwix.org/wiki/Main_Page",
       "itunes": "https://itunes.apple.com/app/id997079563",
       "tags": [
         "swift"
@@ -11628,7 +11629,8 @@
       "itunes": "https://itunes.apple.com/app/rewatch-get-suggestion-rewatch/id1054419288",
       "tags": [
         "swift",
-        "carthage"
+        "carthage",
+        "archive"
       ],
       "screenshots": [
         "http://a5.mzstatic.com/us/r30/Purple18/v4/f9/5c/67/f95c6741-8c28-958e-f532-1eb7ec8fe792/screen696x696.jpeg"
@@ -16916,8 +16918,7 @@
         "mvvm"
       ],
       "screenshots": [
-        "https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png",
-        "https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_dark.png"
+        "https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png"
       ],
       "date_added": "Sep 1 2018",
       "suggested_by": "@khoren93"
