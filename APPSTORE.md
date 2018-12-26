@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **237** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **235** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -673,12 +673,6 @@ Click ► to show more details
   https://github.com/richardxyx/BoardBank<br>  https://www.richardneitzke.com<br>  Added March 20, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://i.imgur.com/fXB42iY.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/EMGOw0g.png'><code>Screenshot 2</code></a> <br></details>
 
-- doughwallet: Dogecoin wallet [` App Store`](https://itunes.apple.com/app/doughwallet/id951731776)  
-  <details><summary><code>objc</code> </summary>
-
-  https://github.com/peritus/doughwallet<br>  Added July  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a3.mzstatic.com/us/r30/Purple1/v4/f7/97/46/f7974641-835a-3c11-fa55-0d08f429308c/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple3/v4/ba/3d/89/ba3d89f9-98e5-2844-3de3-b4fd23b3fab0/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple5/v4/8d/20/50/8d2050d0-751a-17fa-1e25-a77abaa68de8/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple1/v4/a5/35/20/a53520fa-de31-3635-f319-c08956a5951c/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple3/v4/ca/4f/9e/ca4f9e88-4e1e-e87e-42a0-26bfa586d8b3/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
-
 - EMI Calculator: Calculate your Equated Monthly installment (EMI) for home, car & personal loans [` App Store`](https://itunes.apple.com/app/id1105890730)  
   <details><summary><code>swift</code> <code>viper</code> </summary>
 
@@ -1227,7 +1221,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Kiwix: An offline reader for Wikipedia (& many other websites) [` App Store`](https://itunes.apple.com/app/id997079563)  
   <details><summary><code>swift</code> </summary>
 
-  https://github.com/kiwix/apple<br>  http://wiki.kiwix.org/wiki/Main_Page<br>  Added June  2, 2016<br>  License: `other`
+  https://github.com/kiwix/apple<br>  https://wiki.kiwix.org/wiki/Main_Page<br>  Added June  2, 2016<br>  License: `other`
 <a href='http://a5.mzstatic.com/us/r30/Purple30/v4/d7/75/7d/d7757dca-fbd0-2ad8-5cb5-eedd8a440664/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple60/v4/0a/a6/50/0aa650de-c849-a135-528b-9eaf30da9207/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple60/v4/a4/1c/db/a41cdb64-d122-80f4-fc3c-fc8ebf430f22/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple60/v4/ec/8e/6a/ec8e6a20-8dae-4619-d352-24f076c86550/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple18/v4/da/23/5c/da235cde-a1e6-2cab-3bdb-7d42d81e98e1/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
 - KonaBot: An app for http://konachan.net/ [` App Store`](https://itunes.apple.com/app/konabot/id1055716649)  
@@ -1276,12 +1270,6 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary><code>swift</code> <code>iphone</code> <code>ipad</code> <code>core-data</code> </summary>
 
   https://github.com/AndrewBennet/readinglist<br>  Added July 21, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br></details>
-
-- Rewatch: Get suggestions for your BetaSeries account on what episode to rewatch [` App Store`](https://itunes.apple.com/app/rewatch-get-suggestion-rewatch/id1054419288)  
-  <details><summary><code>swift</code> <code>carthage</code> 🌐 </summary>
-
-  https://github.com/Palleas/Rewatch<br>  Added September 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a5.mzstatic.com/us/r30/Purple18/v4/f9/5c/67/f95c6741-8c28-958e-f532-1eb7ec8fe792/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 - xkcd [` App Store`](https://itunes.apple.com/app/xkcd/id303688284)  
   <details><summary><code>iphone</code> </summary>
