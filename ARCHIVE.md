@@ -57,6 +57,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Dicershaker https://github.com/millenomi/diceshaker
 - Dollar Bets https://github.com/Rich86man/Dollar-Bets
 - Dono https://github.com/opensourceios/dono-ios
+- doughwallet https://github.com/peritus/doughwallet
 - Dragon Shout https://github.com/rblalock/dragon_shout_app_open_source
 - DrugsNRock https://github.com/biou/DrugsNRock
 - DWA Mobile https://github.com/DesktopWebAnalytics/DWA_Mobile
@@ -146,6 +147,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Repo https://github.com/ricburton/Repo
 - Reusable Code https://github.com/opensourceios/Swift-Reusable-Code
 - Revolved https://github.com/Ciechan/Revolved
+- Rewatch https://github.com/Palleas/Rewatch
 - Runner-Stats https://github.com/hukun01/Runner-Stats
 - Savings Assistant https://github.com/chrisamanse/savings-assistant
 - SceneKitFrogger https://github.com/devindazzle/SceneKitFrogger
