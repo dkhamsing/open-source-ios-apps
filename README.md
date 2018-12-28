@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-853-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%2026,%202018-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-854-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%2028,%202018-lightgrey.svg)
 
 Jump to
 
@@ -4534,7 +4534,7 @@ https://firebase.google.com/ — [back to top](#readme)
 - WhatsUp: Chat app  
   <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> <code>contacts</code> <code>otp</code> </summary>
 
-  https://github.com/satishbabariya/WhatsUp<br>  Added September 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/fnzeta/WhatsUp<br>  Added September 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://raw.githubusercontent.com/satishbabariya/WhatsUp/master/screenshot2.jpg'><code>Screenshot 1</code></a> <br></details>
 
 
@@ -4869,6 +4869,12 @@ https://realm.io/ — [back to top](#readme)
 
   https://github.com/dkhamsing/how-much<br>  Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'><code>Screenshot 1</code></a> <br></details>
+
+- Model2App Test App: Model2App Test App is a very simple CRM app built using Model2App library that lets you quickly generate a CRUD iOS app based on just a data model defined in Swift. (CRUD - Create Read Update Delete). Model2App is built on top of Realm.  
+  <details><summary><code>swift</code> <code>realm</code> </summary>
+
+  https://github.com/Q-Mobile/Model2App<br>  Added December 27, 2018
+<a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/AppMenu.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_People.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Companies.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Products.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Activities.png'><code>Screenshot 5</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Deals.png'><code>Screenshot 6</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/NewObjectView_Person.png'><code>Screenshot 7</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Company.png'><code>Screenshot 8</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Person.png'><code>Screenshot 9</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Product.png'><code>Screenshot 10</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Activity_CreateNewRelatedObject.png'><code>Screenshot 11</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Company_CreateNewRelatedObject.png'><code>Screenshot 12</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Person_DateEdit.png'><code>Screenshot 13</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_PersonPhotoEdit.png'><code>Screenshot 14</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Deal_PriceEdit.png'><code>Screenshot 15</code></a> <br></details>
 
 - Obědář: Daily menu of restaurants near Czech Technical University  
   <details><summary><code>swift</code> <code>alamofire</code> <code>swiftyjson</code> </summary>
