@@ -17216,6 +17216,37 @@
         ],
         "date_added": "Dec 23 2018",
         "suggested_by": "@satishbabariya"
+    },
+    {
+      "title": "Model2App Test App",
+      "category-ids": [
+        "realm"
+      ],
+      "description": "Model2App Test App is a very simple CRM app built using Model2App library that lets you quickly generate a CRUD iOS app based on just a data model defined in Swift. (CRUD - Create Read Update Delete). Model2App is built on top of Realm.",
+      "source": "https://github.com/Q-Mobile/Model2App",
+      "tags": [
+        "swift",
+        "realm"
+      ],
+      "screenshots": [
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/AppMenu.png",
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_People.png",
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Companies.png",
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Products.png",
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Activities.png",
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Deals.png",
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/NewObjectView_Person.png",
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Company.png",
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Person.png",
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Product.png",
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Activity_CreateNewRelatedObject.png",
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Company_CreateNewRelatedObject.png",
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Person_DateEdit.png",
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_PersonPhotoEdit.png",
+          "https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Deal_PriceEdit.png"
+      ],
+      "date_added": "Dec 27 2018",
+      "suggested_by": "@karolkulesza"
     }
   ]
 }
