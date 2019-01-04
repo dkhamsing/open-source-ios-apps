@@ -1260,12 +1260,6 @@ Image, video, audio, reading — [back to top](#readme)
   https://github.com/alecgorge/PhishOD-iOS<br>  Added June 26, 2015<br>  License: `other`
 <a href='http://a2.mzstatic.com/us/r30/Purple5/v4/9d/27/83/9d27832d-3c16-a64e-f3a2-7e3fbd5cc2b5/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple5/v4/ec/74/2a/ec742a14-e875-2070-178b-948def533d2e/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/9d/c4/58/9dc45823-97bd-296d-0126-fc9e86879d87/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/9f/aa/5f/9faa5ff9-d299-9859-8c8c-00d680d26dd6/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple5/v4/80/1f/f7/801ff748-97f6-9092-0b7d-dda68070de3d/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
-- Pickery: Works with AWS SDK to store your pictures & videos [` App Store`](https://itunes.apple.com/app/pickery/id1164219958)  
-  <details><summary><code>swift</code> <code>realm</code> </summary>
-
-  https://github.com/Performador/Pickery<br>  Added January 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://www.okanarikan.com/assets/Apps/Pickery/Screen1.jpg'><code>Screenshot 1</code></a> <a href='http://www.okanarikan.com/assets/Apps/Pickery/Screen2.jpg'><code>Screenshot 2</code></a> <a href='http://www.okanarikan.com/assets/Apps/Pickery/Screen3.jpg'><code>Screenshot 3</code></a> <br></details>
-
 - Reading List: Track personal reading lists [` App Store`](https://itunes.apple.com/app/reading-list-a-book-tracking-log/id1217139955)  
   <details><summary><code>swift</code> <code>iphone</code> <code>ipad</code> <code>core-data</code> </summary>
 
@@ -1788,6 +1782,12 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/glushchenko/fsnotes<br>  Added May 11, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f9/72/00/f972005b-5a6b-fc54-b68e-f6a704f82f1f/mzl.kxlcltgy.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/fd/a8/eefda80f-f32b-94e4-27f3-e4a3fa8b1079/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/a0/73/95a0739c-7e40-2e7d-787b-52e59b3d8581/mzl.srqiktcn.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/b1/61/0eb1619e-2e6a-234f-06a6-eefafcad478c/mzl.ihcrhigp.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/60/09/11/60091180-1755-60ca-b390-3223f4ac8b34/mzl.vbvqksns.png/460x0w.jpg'><code>Screenshot 5</code></a> <br></details>
+
+- Joplin: Joplin is a free note taking and to-do application with synchronisation capabilities, which can handle a large number of notes organised into notebooks. [` App Store`](https://itunes.apple.com/app/joplin/id1315599797)  
+  <details><summary><code>react-native</code> ⭐⭐⭐⭐⭐</summary>
+
+  https://github.com/laurent22/joplin<br>  https://joplin.cozic.net/<br>  Added January  4, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/db/aa/50/dbaa50be-e23a-d283-da53-f8cd9528c169/pr_source.jpg/300x0w.jpg'><code>Screenshot 1</code></a> <br></details>
 
 - Loose Leaf: Take notes, import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
   <details><summary><code>ipad</code> <code>pdf</code> <code>apple pencil</code> ⭐⭐</summary>
