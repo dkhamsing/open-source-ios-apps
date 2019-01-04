@@ -17247,6 +17247,26 @@
       ],
       "date_added": "Dec 27 2018",
       "suggested_by": "@karolkulesza"
+    },
+    {
+      "title": "Joplin",
+      "category-ids": [
+        "notes"
+      ],
+      "description": "Joplin is a free note taking and to-do application with synchronisation capabilities, which can handle a large number of notes organised into notebooks.",
+      "source": "https://github.com/laurent22/joplin",
+      "homepage": "https://joplin.cozic.net/",
+      "itunes": "https://itunes.apple.com/app/joplin/id1315599797",
+      "license": "mit",
+      "stars": 6088,
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": [
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/db/aa/50/dbaa50be-e23a-d283-da53-f8cd9528c169/pr_source.jpg/300x0w.jpg"
+      ],
+      "date_added": "Jan 4 2019",
+      "suggested_by": "@exprez135"
     }
   ]
 }
