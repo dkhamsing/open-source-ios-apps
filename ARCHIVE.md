@@ -129,6 +129,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - PencilAnnotator https://github.com/kevinzhangftw/PencilAnnotator
 - PhoneBattery https://github.com/opensourceios/PhoneBattery
 - Pi https://github.com/opensourceios/Pi
+- Pickery https://github.com/Performador/Pickery
 - PlainNote https://github.com/vkoser/PlainNote
 - PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
 - PocketNode https://github.com/mzabriskie/PocketNode
