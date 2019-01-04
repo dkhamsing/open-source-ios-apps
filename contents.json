@@ -17253,7 +17253,7 @@
       "category-ids": [
         "notes"
       ],
-      "description": "Joplin is a free note taking and to-do application, which can handle a large number of notes organised into notebooks with synchronisation capabilities.",
+      "description": "Joplin is a free note taking and to-do application with synchronisation capabilities, which can handle a large number of notes organised into notebooks.",
       "source": "https://github.com/laurent22/joplin",
       "homepage": "https://joplin.cozic.net/",
       "itunes": "https://itunes.apple.com/us/app/joplin/id1315599797",
