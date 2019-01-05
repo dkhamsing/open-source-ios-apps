@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-855-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%20%204,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-855-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%20%205,%202019-lightgrey.svg)
 
 Jump to
 
@@ -360,7 +360,7 @@ Click ► to show more details
 <a href='http://a5.mzstatic.com/us/r30/Purple71/v4/4b/d8/9a/4bd89a0d-d1f8-ea48-492a-2cec600c453c/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple62/v4/20/f2/6e/20f26eb0-e862-358f-8252-0e299bc89d94/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/53/5b/b4/535bb49d-d1ec-7edc-4195-ba0359de2779/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple62/v4/56/ee/b0/56eeb0f0-0e39-cb27-d389-511e2d9964c4/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple62/v4/e8/a1/ab/e8a1ab12-b616-f9d0-7f1b-2e1764b0e872/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
 - Endless Browser: Web browser built with privacy & security in mind [` App Store`](https://itunes.apple.com/app/endless-browser/id974745755)  
-  <details><summary><code>objc</code> ⭐</summary>
+  <details><summary><code>objc</code> ⭐⭐</summary>
 
   https://github.com/jcs/endless<br>  Added December 22, 2015<br>  License: `other`
 <a href='http://a3.mzstatic.com/us/r30/Purple7/v4/4a/22/70/4a22706f-6fe0-0e71-ad4c-178a83a062ad/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple7/v4/cb/d1/06/cbd1063b-c086-9e3b-caff-34e938b6433c/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/e3/b4/ae/e3b4ae59-3f2e-2784-93aa-fae83a3aa6f1/screen696x696.jpeg'><code>Screenshot 3</code></a> <br></details>
@@ -1096,7 +1096,7 @@ Click ► to show more details
 <a href='https://i.imgur.com/NjqYq02.png'><code>Screenshot 1</code></a> <br></details>
 
 - SwiftHub: GitHub app using RxSwift and MVVM  
-  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> ⭐</summary>
+  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> ⭐⭐⭐</summary>
 
   https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png'><code>Screenshot 1</code></a> <br></details>
@@ -2595,7 +2595,7 @@ Image, video, audio, reading — [back to top](#readme)
 <a href='https://audiokitpro.com/wp-content/uploads/2017/11/romplayer.png'><code>Screenshot 1</code></a> <br></details>
 
 - AudioKitSynthOne: Free synthesizer https://audiokitpro.com/synth/ [` App Store`](https://itunes.apple.com/app/audiokit-synth-one-synthesizer/id1371050497)  
-  <details><summary><code>swift</code> <code>objc</code> ⭐⭐</summary>
+  <details><summary><code>swift</code> <code>objc</code> ⭐⭐⭐</summary>
 
   https://github.com/AudioKit/AudioKitSynthOne<br>  https://audiokitpro.com/synth/<br>  Added July 24, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://audiokitpro.com/images/ak2.gif'><code>Screenshot 1</code></a> <br></details>
@@ -3311,7 +3311,7 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
 <a href='http://brewfactory.org/BrewMobile/img/9_small.png'><code>Screenshot 1</code></a> <a href='http://brewfactory.org/BrewMobile/img/8_small.png'><code>Screenshot 2</code></a> <br></details>
 
 - C-41: Simple timer to make developing film easier & more reliable  
-  <details><summary><code>objc</code> ⭐⭐⭐⭐</summary>
+  <details><summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/ashfurrow/C-41<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br></details>
 
@@ -3411,7 +3411,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 <a href='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'><code>Screenshot 1</code></a> <br></details>
 
 - SwiftHub: GitHub app using RxSwift and MVVM  
-  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> ⭐</summary>
+  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> ⭐⭐⭐</summary>
 
   https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png'><code>Screenshot 1</code></a> <br></details>
@@ -3890,7 +3890,7 @@ https://mastodon.social — [back to top](#readme)
 <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/03/9e/a9/039ea9b6-6427-ac1b-9bf9-773c91e5b8c9/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 - Habitica: Habit building & productivity [` App Store`](https://itunes.apple.com/app/id994882113)  
-  <details><summary><code>objc</code> ⭐</summary>
+  <details><summary><code>objc</code> ⭐⭐</summary>
 
   https://github.com/HabitRPG/habitica-ios<br>  https://habitica.com/static/front<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='http://a5.mzstatic.com/us/r30/Purple6/v4/a2/af/06/a2af06ac-0644-00b5-85f1-ae13e3ebf1cd/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
@@ -3988,7 +3988,7 @@ https://mastodon.social — [back to top](#readme)
 <a href='https://boostnote.io/assets/img/top2.png'><code>Screenshot 1</code></a> <br></details>
 
 - FSNotes: Notes manager [` App Store`](https://itunes.apple.com/app/fsnotes-manager/id1346501102)  
-  <details><summary><code>swift</code> ⭐⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
   https://github.com/glushchenko/fsnotes<br>  Added May 11, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f9/72/00/f972005b-5a6b-fc54-b68e-f6a704f82f1f/mzl.kxlcltgy.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/fd/a8/eefda80f-f32b-94e4-27f3-e4a3fa8b1079/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/a0/73/95a0739c-7e40-2e7d-787b-52e59b3d8581/mzl.srqiktcn.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/b1/61/0eb1619e-2e6a-234f-06a6-eefafcad478c/mzl.ihcrhigp.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/60/09/11/60091180-1755-60ca-b390-3223f4ac8b34/mzl.vbvqksns.png/460x0w.jpg'><code>Screenshot 5</code></a> <br></details>
@@ -4058,7 +4058,7 @@ https://mastodon.social — [back to top](#readme)
 <a href='https://raw.githubusercontent.com/feliborgez/4pets/master/img/screenshots.png'><code>Screenshot 1</code></a> <br></details>
 
 - C-41: Simple timer to make developing film easier & more reliable  
-  <details><summary><code>objc</code> ⭐⭐⭐⭐</summary>
+  <details><summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/ashfurrow/C-41<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br></details>
 
@@ -4381,7 +4381,7 @@ https://mastodon.social — [back to top](#readme)
 <a href='https://github.com/FlexMonkey/ForceSketch/raw/master/ForceSketch/ForceSketch.gif'><code>Screenshot 1</code></a> <br></details>
 
 - Plum-O-Meter: Weigh plums (and other small fruit!)  
-  <details><summary><code>swift</code> ⭐⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐</summary>
 
   https://github.com/FlexMonkey/Plum-O-Meter<br>  Added October 27, 2015<br>  License: `other`
 <a href='https://i.imgur.com/V3kaLaC.png'><code>Screenshot 1</code></a> <br></details>
@@ -5035,7 +5035,7 @@ https://www.xamarin.com/ — [back to top](#readme)
 <a href='http://propertycross.com/frameworks/xamarin/ios/PropertyCross.thumbnail.png'><code>Screenshot 1</code></a> <a href='http://propertycross.com/frameworks/xamarin/ios/SearchResults.thumbnail.png'><code>Screenshot 2</code></a> <br></details>
 
 - Toggl Timer: Timesheet tracker  
-  <details><summary><code>csharp</code> </summary>
+  <details><summary><code>csharp</code> ⭐</summary>
 
   https://github.com/toggl/mobileapp<br>  Added May  8, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
 <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c2/92/12/c292124b-cd47-f2c0-8c53-683b66da71f6/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/70/36/be/7036be07-d26c-5832-a4d4-2dea5affc50f/mzl.hvggawxa.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f5/11/7f/f5117f7f-f369-98ce-8ad6-d23366450347/mzl.ambiyxmf.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/08/6d/2b/086d2b84-e722-c367-9135-bbec9c5b849a/mzl.gobyvnpu.png/460x0w.jpg'><code>Screenshot 4</code></a> <br></details>
