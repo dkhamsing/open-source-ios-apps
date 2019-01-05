@@ -150,7 +150,7 @@ Click ► to show more details
 <a href='http://a5.mzstatic.com/us/r30/Purple18/v4/ed/6c/07/ed6c07f4-c9cd-0daa-a331-a39a85ba1c08/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 - Endless Browser: Web browser built with privacy & security in mind [` App Store`](https://itunes.apple.com/app/endless-browser/id974745755)  
-  <details><summary><code>objc</code> ⭐</summary>
+  <details><summary><code>objc</code> ⭐⭐</summary>
 
   https://github.com/jcs/endless<br>  Added December 22, 2015<br>  License: `other`
 <a href='http://a3.mzstatic.com/us/r30/Purple7/v4/4a/22/70/4a22706f-6fe0-0e71-ad4c-178a83a062ad/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple7/v4/cb/d1/06/cbd1063b-c086-9e3b-caff-34e938b6433c/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/e3/b4/ae/e3b4ae59-3f2e-2784-93aa-fae83a3aa6f1/screen696x696.jpeg'><code>Screenshot 3</code></a> <br></details>
@@ -1154,7 +1154,7 @@ Image, video, audio, reading — [back to top](#readme)
 <a href='https://audiokitpro.com/wp-content/uploads/2017/11/romplayer.png'><code>Screenshot 1</code></a> <br></details>
 
 - AudioKitSynthOne: Free synthesizer https://audiokitpro.com/synth/ [` App Store`](https://itunes.apple.com/app/audiokit-synth-one-synthesizer/id1371050497)  
-  <details><summary><code>swift</code> <code>objc</code> ⭐⭐</summary>
+  <details><summary><code>swift</code> <code>objc</code> ⭐⭐⭐</summary>
 
   https://github.com/AudioKit/AudioKitSynthOne<br>  https://audiokitpro.com/synth/<br>  Added July 24, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://audiokitpro.com/images/ak2.gif'><code>Screenshot 1</code></a> <br></details>
@@ -1738,7 +1738,7 @@ https://mastodon.social — [back to top](#readme)
 <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/03/9e/a9/039ea9b6-6427-ac1b-9bf9-773c91e5b8c9/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 - Habitica: Habit building & productivity [` App Store`](https://itunes.apple.com/app/id994882113)  
-  <details><summary><code>objc</code> ⭐</summary>
+  <details><summary><code>objc</code> ⭐⭐</summary>
 
   https://github.com/HabitRPG/habitica-ios<br>  https://habitica.com/static/front<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='http://a5.mzstatic.com/us/r30/Purple6/v4/a2/af/06/a2af06ac-0644-00b5-85f1-ae13e3ebf1cd/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
@@ -1778,7 +1778,7 @@ https://mastodon.social — [back to top](#readme)
 [back to top](#readme) 
  
 - FSNotes: Notes manager [` App Store`](https://itunes.apple.com/app/fsnotes-manager/id1346501102)  
-  <details><summary><code>swift</code> ⭐⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
   https://github.com/glushchenko/fsnotes<br>  Added May 11, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f9/72/00/f972005b-5a6b-fc54-b68e-f6a704f82f1f/mzl.kxlcltgy.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/fd/a8/eefda80f-f32b-94e4-27f3-e4a3fa8b1079/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/a0/73/95a0739c-7e40-2e7d-787b-52e59b3d8581/mzl.srqiktcn.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/b1/61/0eb1619e-2e6a-234f-06a6-eefafcad478c/mzl.ihcrhigp.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/60/09/11/60091180-1755-60ca-b390-3223f4ac8b34/mzl.vbvqksns.png/460x0w.jpg'><code>Screenshot 5</code></a> <br></details>
