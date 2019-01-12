@@ -2223,7 +2223,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 - Doppio: Finds the nearest Starbucks  
   <details><summary><code>objc</code> ⭐⭐⭐</summary>
 
-  https://github.com/chroman/Doppio<br>  https://imgur.com/a/ges5M<br>  Added March  5, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
+  https://github.com/christianroman/Doppio<br>  https://imgur.com/a/ges5M<br>  Added March  5, 2016<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
 <a href='https://i.imgur.com/2ZG08AX.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/PDUUWTj.png'><code>Screenshot 2</code></a> <br></details>
 
 - EatNow: Get recommendations for restaurants nearby [` App Store`](https://itunes.apple.com/app/eat-now-instant-personalized/id946591471)  
