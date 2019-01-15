@@ -17275,6 +17275,26 @@
       ],
       "date_added": "Jan 4 2019",
       "suggested_by": "@exprez135"
+    },
+    {
+      "title": "Gleam",
+      "category-ids": [
+        "health",
+        "viper"
+      ],
+      "tags": [
+        "swift",
+        "coreml",
+        "avkit",
+        "viper"
+      ],
+      "description": "Gleam is mobile application (based on machine learning algorithm) that will help make an early diagnosis of melanoma and get the necessary treatment on time",
+      "source": "https://github.com/akarataev/gleam-ios",
+      "license": "mit",
+      "screenshots": ["https://raw.githubusercontent.com/akarataev/gleam-ios/master/Docs/Mockup-small.png"],
+      "date_added": "Jan 15 2019",
+      "suggested_by": "@akarataev",
+      "stars": 3
     }
   ]
 }
