@@ -17200,6 +17200,25 @@
       ],
       "date_added": "Dec 10 2018",
       "suggested_by": "@marty-suzuki"
-     }
+     },
+     {
+      "title": "AppleWatchFaces",
+      "category-ids": [
+        "apple-watch"
+      ],
+      "description": "Apple Watch Face Editor iOS and watchOS apps",
+      "source": "https://github.com/orff/AppleWatchFaces",
+      "license": "gpl-3.0",
+      "stars": 8,
+      "tags": [
+        "swift",
+        "spritekit"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/orff/AppleWatchFaces/master/AppleWatchFaceIndicators.gif"
+      ],
+      "date_added": "Jan 15 2019",
+      "suggested_by": "@orffy"
+    },
   ]
 }
