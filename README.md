@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-855-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2012,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-856-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2015,%202019-lightgrey.svg)
 
 Jump to
 
@@ -2029,6 +2029,12 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
   https://github.com/DerLobi/Depressed<br>  Added January 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a2.mzstatic.com/us/r30/Purple69/v4/9f/82/17/9f8217e4-00da-b516-1853-23fbc6ecbdaf/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple49/v4/c9/cd/e2/c9cde204-5712-97c4-c952-7f0884490153/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/28/fd/66/28fd66a4-d756-34ce-98f0-aa5dae26ff7d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/7e/80/b9/7e80b966-2e41-a36a-a1a3-b02c70ec0961/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
+
+- Gleam: Gleam is mobile application (based on machine learning algorithm) that will help make an early diagnosis of melanoma and get the necessary treatment on time  
+  <details><summary><code>swift</code> <code>coreml</code> <code>avkit</code> <code>viper</code> </summary>
+
+  https://github.com/akarataev/gleam-ios<br>  Added January 15, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://raw.githubusercontent.com/akarataev/gleam-ios/master/Docs/Mockup-small.png'><code>Screenshot 1</code></a> <br></details>
 
 - Glucosio: Diabetes management and research  
   <details><summary><code>swift</code> <code>objc</code> <code>healthkit</code> <code>realm</code> </summary>
@@ -4980,6 +4986,12 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
 
   https://github.com/vkaltyrin/exchanger<br>  Added December 21, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/vkaltyrin/exchanger/blob/master/screenshot.png?raw=true'><code>Screenshot 1</code></a> <br></details>
+
+- Gleam: Gleam is mobile application (based on machine learning algorithm) that will help make an early diagnosis of melanoma and get the necessary treatment on time  
+  <details><summary><code>swift</code> <code>coreml</code> <code>avkit</code> <code>viper</code> </summary>
+
+  https://github.com/akarataev/gleam-ios<br>  Added January 15, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://raw.githubusercontent.com/akarataev/gleam-ios/master/Docs/Mockup-small.png'><code>Screenshot 1</code></a> <br></details>
 
 - live-news-viper: News app using VIPER  
   <details><summary><code>swift</code> </summary>
