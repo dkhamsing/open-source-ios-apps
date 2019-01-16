@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-856-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2015,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-857-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2016,%202019-lightgrey.svg)
 
 Jump to
 
@@ -2989,6 +2989,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/TryFetch/Fetch<br>  http://getfetchapp.com/<br>  Added November 16, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='http://getfetchapp.com/img/product.png'><code>Screenshot 1</code></a> <br></details>
+
+- Playerly: Play videos from the Files app in a better and darker interface which avoids losing your playback position.  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/justjs/Playerly<br>  Added January 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://raw.githubusercontent.com/justJS/Playerly/master/Playerly/Other/Screenshot.png'><code>Screenshot 1</code></a> <br></details>
 
 - prankPro: Record a 6-second video while playing prank sounds  
   <details><summary><code>objc</code> ⭐⭐</summary>
