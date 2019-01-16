@@ -17295,6 +17295,24 @@
       "date_added": "Jan 15 2019",
       "suggested_by": "@akarataev",
       "stars": 3
+    },
+    {
+      "title": "Playerly",
+      "category-ids": [
+        "video"
+      ],
+      "description": "Play videos from the Files app in a better and darker interface which avoids losing your playback position.",
+      "source": "https://github.com/justjs/Playerly",
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/justJS/Playerly/master/Playerly/Other/Screenshot.png"
+      ],
+      "stars": 3,
+      "date_added": "Jan 16 2019",
+      "suggested_by": "@justjs"
     }
   ]
 }
