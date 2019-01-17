@@ -17313,6 +17313,25 @@
       "stars": 3,
       "date_added": "Jan 16 2019",
       "suggested_by": "@justjs"
+    },
+    {
+      "title": "AppleWatchFaces",
+      "category-ids": [
+        "apple-watch"
+      ],
+      "description": "Create your own faces for watchOS.  Customize the watch hands, layout, colors, and images.  Edit faces on your phone and switch them on the watch.",
+      "source": "https://github.com/orff/AppleWatchFaces",
+      "license": "gpl-3.0",
+      "stars": 11,
+      "tags": [
+        "swift",
+        "spritekit"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/orff/AppleWatchFaces/master/AppleWatchFaceIndicators.gif"
+      ],
+      "date_added": "Jan 16 2019",
+      "suggested_by": "@orff"
     }
   ]
 }
