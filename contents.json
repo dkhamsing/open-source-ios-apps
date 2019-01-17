@@ -17206,7 +17206,7 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "Apple Watch Face Editor iOS and watchOS apps",
+      "description": "Create your own faces for watchOS.  Customize the watch hands, layout, colors, and images.  Edit faces on your phone and switch them on the watch.",
       "source": "https://github.com/orff/AppleWatchFaces",
       "license": "gpl-3.0",
       "stars": 8,
