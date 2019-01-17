@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-857-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2016,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-858-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2017,%202019-lightgrey.svg)
 
 Jump to
 
@@ -179,6 +179,12 @@ Click ► to show more details
 
   https://github.com/efremidze/Alarm<br>  Added April 11, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <a href='https://raw.githubusercontent.com/efremidze/Alarm/master/screenshots/en-US/iPhone7-0-d41d8cd98f00b204e9800998ecf8427e.png'><code>Screenshot 1</code></a> <br></details>
+
+- AppleWatchFaces: Create your own faces for watchOS.  Customize the watch hands, layout, colors, and images.  Edit faces on your phone and switch them on the watch.  
+  <details><summary><code>swift</code> <code>spritekit</code> </summary>
+
+  https://github.com/orff/AppleWatchFaces<br>  Added January 16, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<a href='https://raw.githubusercontent.com/orff/AppleWatchFaces/master/AppleWatchFaceIndicators.gif'><code>Screenshot 1</code></a> <br></details>
 
 - BaiduFM: A Baidu Music app  
   <details><summary><code>swift</code> 🌐 ⭐⭐⭐</summary>
