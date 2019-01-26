@@ -17339,6 +17339,24 @@
       ],
       "date_added": "Jan 16 2019",
       "suggested_by": "@orff"
+    },
+    {
+      "title": "FileExplorer",
+      "category-ids": [
+        "files"
+      ],
+      "description": "A powerful file browser that allows its users to choose and remove files and/or directories",
+      "source": "https://github.com/Augustyniak/FileExplorer",
+      "license": "mit",
+      "stars": 610,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/Augustyniak/FileExplorer/master/Resources/General.gif"
+      ],
+      "date_added": "Jan 26 2019",
+      "suggested_by": "@vpeschenkov"
     }
   ]
 }
