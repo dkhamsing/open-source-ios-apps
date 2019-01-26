@@ -3,6 +3,7 @@
 This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.
 
 - 2048 https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/2048
+- A Menjar https://github.com/maurovc/aMenjar
 - Abby's Cycle https://github.com/jc4p/abby-healthkit
 - ABU https://github.com/flexih/ABU
 - Adler Planetarium Navigation & Tour https://github.com/lucasqiu/Adler-Mobile-App
@@ -53,6 +54,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - CoolSpot https://github.com/neonichu/CoolSpot
 - Cryptose https://github.com/insurgentgames/Cryptose
 - Currency Converter https://github.com/ashwinpreet/ReactNativeExamples
+- Danbooru Lite https://github.com/satishbabariya/Danbooru-Lite
 - DesireKeyboard https://github.com/noppefoxwolf/DesireKeyboard
 - Dicershaker https://github.com/millenomi/diceshaker
 - Dollar Bets https://github.com/Rich86man/Dollar-Bets
@@ -75,6 +77,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - fudge https://github.com/FredericJacobs/fudge
 - Furni https://github.com/opensourceios/furni-ios
 - gbible https://github.com/photokandyStudios/gbible
+- GitBucket https://github.com/leichunfeng/MVVMReactiveCocoa
 - github-issues https://github.com/chriseidhof/github-issues
 - Google Feud https://github.com/opensourceios/Google-Feud-iOS
 - Gorillas https://github.com/Lyndir/Gorillas
@@ -85,6 +88,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Hacker News app by jsdf https://github.com/jsdf/ReactNativeHackerNews
 - HackerNews (Y) https://github.com/vetri02/HackerNews
 - HausClock https://github.com/nottombrown/HausClock
+- Helio Workstation https://github.com/helio-fm/helio-workstation
 - HighStreet https://github.com/GetHighstreet/HighstreetWatchApp
 - HN-App https://github.com/NikantVohra/HackerNewsClient-iOS
 - Hodor https://github.com/jonomuller/Hodor-Keyboard
@@ -122,6 +126,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - packlog https://github.com/jdg/packlog
 - Pancake https://github.com/Imaginea/pancake-ios
 - Parse 2013 Developer Day https://github.com/ParsePlatform/ParseDeveloperDay
+- Parse Dashboard https://github.com/nathantannar4/Parse-Dashboard-for-iOS
 - Parse-Challenge-App https://github.com/TomekB/Parse-Challenge-App
 - ParseStore https://github.com/opensourceios/ParseStore
 - pathlogger https://github.com/eugenpirogoff/pathlogger
@@ -173,6 +178,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - SwiftNote https://github.com/mslathrop/SwiftNote
 - SwiftRACGoogleImages https://github.com/Adlai-Holler/SwiftRACGoogleImages
 - SwiftTextClock https://github.com/MichMich/SwiftTextClock
+- Task Coach https://sourceforge.net/projects/taskcoach/
 - TaskPaper https://github.com/jessegrosjean/NOTTaskPaperForIOS
 - Tether https://github.com/chrisballinger/Tether-iOS
 - TextEthan https://github.com/thii/TextEthan
@@ -188,6 +194,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - tweejump https://github.com/haqu/tweejump
 - Uncle Nagy's House https://github.com/kenmickles/unh_tvos
 - Valio Con 2014 Schedule https://github.com/soffes/valio
+- Vesper https://github.com/brentsimmons/Vesper
 - Vim https://github.com/applidium/Vim
 - warpedAR https://github.com/Trevorrwarduk/warpedAR-Open-Source
 - Watchman https://github.com/DanToml/Watchman
