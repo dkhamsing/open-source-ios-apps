@@ -5937,7 +5937,8 @@
         "content"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "description": "Food menu",
       "lang": "spa",
@@ -7854,7 +7855,8 @@
       "tags": [
         "reactivecocoa",
         "mvvm",
-        "mantle"
+        "mantle",
+        "archive"
       ],
       "description": "GitHub app",
       "license": "mit",
@@ -8918,7 +8920,8 @@
         "tasks"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "description": "A simple to-do manager designed for composite tasks",
       "source": "https://sourceforge.net/projects/taskcoach/",
@@ -12666,7 +12669,8 @@
         "notes"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "screenshots": [
         "http://a4.mzstatic.com/us/r30/Purple1/v4/ff/44/1f/ff441f09-8a8f-b839-b9be-e80d614318c9/screen696x696.jpeg",
@@ -13753,7 +13757,8 @@
       "source": "https://github.com/helio-fm/helio-workstation",
       "tags": [
         "ipad",
-        "c++"
+        "c++",
+        "archive"
       ],
       "itunes": "https://itunes.apple.com/app/id943796588",
       "screenshots": [
@@ -15320,7 +15325,8 @@
       ],
       "tags": [
         "swift",
-        "swiftyjson"
+        "swiftyjson",
+        "archive"
       ],
       "description": "Manage your Parse apps while you are on the go",
       "source": "https://github.com/nathantannar4/Parse-Dashboard-for-iOS",
@@ -17209,7 +17215,8 @@
         "photo"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "description": "Danbooru Lite allows you to connect to a various photo hosting services and browse images. Download any image to your device's storage, or set it as your new wallpaper. Share images with friends via your favorite messaging app",
       "source": "https://github.com/satishbabariya/Danbooru-Lite",
