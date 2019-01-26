@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **235** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **228** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -440,12 +440,6 @@ Click ► to show more details
 
   https://github.com/Evolution-App/iOS<br>  Added April 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/91/90/1d919067-8c46-3f04-f710-ecfed6494539/pr_source.png/900x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/84/cc/ee84cc99-5ff3-5c1c-4408-60c8f24f754d/pr_source.png/900x0w.png'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/28/86/e9/2886e929-b5a9-09ed-47e7-0ed45806f463/pr_source.png/900x0w.png'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/7a/2a/68/7a2a68f4-5575-5d70-be87-d4df54ebb12f/pr_source.png/900x0w.png'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/e6/ed/ec/e6edecdb-78ce-6cfe-4fde-470c7cee306a/pr_source.png/900x0w.png'><code>Screenshot 5</code></a> <br></details>
-
-- GitBucket: GitHub app [` App Store`](https://itunes.apple.com/app/id961330940)  
-  <details><summary><code>reactivecocoa</code> <code>mvvm</code> <code>mantle</code> ⭐⭐⭐⭐⭐</summary>
-
-  https://github.com/leichunfeng/MVVMReactiveCocoa<br>  Added October 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a4.mzstatic.com/us/r30/Purple20/v4/ba/37/a3/ba37a3d1-622f-866f-f9eb-e2d21173cc93/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple20/v4/8e/06/d7/8e06d79a-ede3-284c-df34-9702c835a382/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/24/11/37/2411374d-175b-7290-1f36-8190f4ee7740/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple20/v4/cb/ab/b6/cbabb6b4-854f-9b86-ddaa-d9455dc272cc/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/a2/64/07/a2640705-ccef-163c-56e5-87a7874d9483/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
 - GitHawk: GitHub project manager [` App Store`](https://itunes.apple.com/app/githawk-for-github/id1252320249)  
   <details><summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> ⭐⭐⭐⭐</summary>
@@ -1159,12 +1153,6 @@ Image, video, audio, reading — [back to top](#readme)
   https://github.com/AudioKit/AudioKitSynthOne<br>  https://audiokitpro.com/synth/<br>  Added July 24, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://audiokitpro.com/images/ak2.gif'><code>Screenshot 1</code></a> <br></details>
 
-- Helio Workstation: Lightweight music creation playground [` App Store`](https://itunes.apple.com/app/id943796588)  
-  <details><summary><code>ipad</code> <code>c++</code> ⭐⭐⭐⭐</summary>
-
-  https://github.com/helio-fm/helio-workstation<br>  Added April 27, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<a href='http://a1.mzstatic.com/us/r30/Purple111/v4/ec/90/d9/ec90d9a0-0eac-cc83-0781-16cc3eebd783/sc552x414.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple122/v4/72/a1/be/72a1bedb-055b-2fc5-b8e6-bcfb8f396b61/sc552x414.jpeg'><code>Screenshot 2</code></a> <br></details>
-
 - Monotone Delay: A simple synthesiser, based on the Korg Monotron Delay [` App Store`](https://itunes.apple.com/app/monotone-delay/id737483162)  
   <details><summary><code>objc</code> </summary>
 
@@ -1188,12 +1176,6 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- A Menjar: Food menu [` App Store`](https://itunes.apple.com/app/a-menjar!/id816473131)  
-  <details><summary><code>objc</code> 🌐 </summary>
-
-  https://github.com/maurovc/aMenjar<br>  Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a5.mzstatic.com/us/r30/Purple4/v4/52/51/78/525178dc-a5c4-ccc3-b2bb-fb1afe4915b5/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple4/v4/f1/1f/ee/f11fee6f-f21d-af5f-3921-04f8adfecb6b/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple4/v4/ad/c0/e1/adc0e18d-ade4-d0a2-e272-ed34500e63b2/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/c7/e4/22/c7e4228e-9e7e-a42b-24bd-48663cb2ed6d/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
-
 - American Chronicle: Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://itunes.apple.com/app/id1092988367)  
   <details><summary><code>swift</code> <code>viper</code> </summary>
 
@@ -1304,12 +1286,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
   https://github.com/maurovc/ColorBlur<br>  Added March 16, 2015<br>  License: `other`
 <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/68/3f/1b/683f1b36-f274-e2f0-64a6-ae00aadca2ab/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/bb/b9/f5/bbb9f50a-4358-a5d0-604f-29e29ed7677f/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple3/v4/f9/8c/11/f98c116a-a49a-598e-e5d7-be0684c35bc5/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple1/v4/ff/6b/2c/ff6b2c22-68be-1f50-868a-e23ff8add3aa/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
-
-- Danbooru Lite: Danbooru Lite allows you to connect to a various photo hosting services and browse images. Download any image to your device's storage, or set it as your new wallpaper. Share images with friends via your favorite messaging app [` App Store`](https://itunes.apple.com/app/danbooru-lite/id1338782992)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/satishbabariya/Danbooru-Lite<br>  Added December 23, 2018
-<a href='https://raw.githubusercontent.com/satishbabariya/Danbooru-Lite/master/Assets/01.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/satishbabariya/Danbooru-Lite/master/Assets/03.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/satishbabariya/Danbooru-Lite/master/Assets/02.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/satishbabariya/Danbooru-Lite/master/Assets/04.jpg'><code>Screenshot 4</code></a> <br></details>
 
 - MetaX: Check, edit and delete metadata of photos [` App Store`](https://itunes.apple.com/app/metax/id1376589355)  
   <details><summary><code>swift</code> ⭐</summary>
@@ -1531,12 +1507,6 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
   https://github.com/Coding/Coding-iOS<br>  Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/d9/af/b7/d9afb7d3-1d4c-2e44-1501-371f2a32a0da/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/ed/8c/2f/ed8c2f53-0d0f-e44f-40a8-f55f87dfd517/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple49/v4/43/09/21/430921eb-aa5a-c68a-9c02-8372dba3a241/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/43/f2/27/43f227be-e0ec-f5de-ef7c-5a786719899a/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/42/98/19/429819d8-b91b-d248-3fc1-1a6f127d82de/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
-- GitBucket: GitHub app [` App Store`](https://itunes.apple.com/app/id961330940)  
-  <details><summary><code>reactivecocoa</code> <code>mvvm</code> <code>mantle</code> ⭐⭐⭐⭐⭐</summary>
-
-  https://github.com/leichunfeng/MVVMReactiveCocoa<br>  Added October 12, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a4.mzstatic.com/us/r30/Purple20/v4/ba/37/a3/ba37a3d1-622f-866f-f9eb-e2d21173cc93/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple20/v4/8e/06/d7/8e06d79a-ede3-284c-df34-9702c835a382/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/24/11/37/2411374d-175b-7290-1f36-8190f4ee7740/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple20/v4/cb/ab/b6/cbabb6b4-854f-9b86-ddaa-d9455dc272cc/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/a2/64/07/a2640705-ccef-163c-56e5-87a7874d9483/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
-
 - Tropos Weather [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376)  
   <details><summary><code>dark sky api (forecast api)</code> <code>reactivecocoa</code> ⭐⭐⭐⭐</summary>
 
@@ -1743,12 +1713,6 @@ https://mastodon.social — [back to top](#readme)
   https://github.com/HabitRPG/habitica-ios<br>  https://habitica.com/static/front<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='http://a5.mzstatic.com/us/r30/Purple6/v4/a2/af/06/a2af06ac-0644-00b5-85f1-ae13e3ebf1cd/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
-- Task Coach: A simple to-do manager designed for composite tasks [` App Store`](https://itunes.apple.com/app/task-coach/id311403563)  
-  <details><summary><code>objc</code> </summary>
-
-  https://sourceforge.net/projects/taskcoach/<br>  https://www.taskcoach.org/<br>  Added May 31, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<a href='http://a4.mzstatic.com/us/r30/Purple6/v4/91/19/de/9119debe-4936-ac90-6fa0-6cd9bd92fd1e/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple4/v4/52/9b/45/529b453d-1cae-0720-1d9e-ef336c760f4f/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple6/v4/d5/f0/a8/d5f0a87a-3772-0e79-2709-6d5ecdf6d5d2/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple/v4/8c/8d/7b/8c8d7b2c-5739-cf8f-a3ab-d7b2c5a492b1/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple6/v4/fe/9b/1e/fe9b1e76-6717-7223-6944-c5587c834b18/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
-
 
 ## Text 
  
@@ -1806,12 +1770,6 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/standardnotes/mobile<br>  Added January 18, 2017<br>  License: `other`
 <a href='http://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg'><code>Screenshot 1</code></a> <br></details>
-
-- Vesper: Note-taking app [` App Store`](https://itunes.apple.com/app/vesper/id655895325)  
-  <details><summary><code>objc</code> ⭐⭐</summary>
-
-  https://github.com/brentsimmons/Vesper<br>  Added December 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a4.mzstatic.com/us/r30/Purple1/v4/ff/44/1f/ff441f09-8a8f-b839-b9be-e80d614318c9/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple1/v4/13/fe/a1/13fea138-ceff-8ff1-a768-6840ce787ddd/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple5/v4/f3/b0/79/f3b07907-a0f8-21e1-cceb-b623cf786020/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/4d/30/a9/4d30a9a7-b8bc-eb8b-a038-1db045a18524/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/de/2b/09/de2b09a8-b6f6-9558-28bb-ce2ce90c471c/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
 
 ## Timer 
@@ -2007,12 +1965,6 @@ http://ionicframework.com/ — [back to top](#readme)
  
 https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme) 
  
-- Parse Dashboard: Manage your Parse apps while you are on the go [` App Store`](https://itunes.apple.com/app/parse-dashboard/id1212141622)  
-  <details><summary><code>swift</code> <code>swiftyjson</code> </summary>
-
-  https://github.com/nathantannar4/Parse-Dashboard-for-iOS<br>  Added October  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='https://github.com/nathantannar4/Parse-Dashboard-for-iOS/raw/master/Screenshots/D.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/nathantannar4/Parse-Dashboard-for-iOS/raw/master/Screenshots/E.png?raw=true'><code>Screenshot 2</code></a> <br></details>
-
 
 ### React Native 
  
