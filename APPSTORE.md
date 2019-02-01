@@ -598,7 +598,7 @@ Click ► to show more details
 <a href='https://github.com/JustinFincher/GitHubContributionsiOS/raw/master/Sketch/GitHub-Contributions.jpg'><code>Screenshot 1</code></a> <br></details>
 
 - Fojusi: Work timer with Today Extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693)  
-  <details><summary><code>swift</code> ⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐</summary>
 
   https://github.com/dasdom/Tomate<br>  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a4.mzstatic.com/us/r30/Purple32/v4/cd/ac/98/cdac9892-c5e1-9389-6efe-ef31a90daaf4/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple6/v4/6c/c1/1b/6cc11bb2-5f1e-693c-f05c-313034b0194a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/05/67/17/05671722-b9e9-0698-7725-59ff117e377d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/8c/2c/a0/8c2ca0be-628e-4daa-0911-bdf0b58318e1/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
@@ -1777,7 +1777,7 @@ https://mastodon.social — [back to top](#readme)
 [back to top](#readme) 
  
 - Fojusi: Work timer with Today Extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693)  
-  <details><summary><code>swift</code> ⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐</summary>
 
   https://github.com/dasdom/Tomate<br>  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a4.mzstatic.com/us/r30/Purple32/v4/cd/ac/98/cdac9892-c5e1-9389-6efe-ef31a90daaf4/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple6/v4/6c/c1/1b/6cc11bb2-5f1e-693c-f05c-313034b0194a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/05/67/17/05671722-b9e9-0698-7725-59ff117e377d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/8c/2c/a0/8c2ca0be-628e-4daa-0911-bdf0b58318e1/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
