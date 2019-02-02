@@ -13422,12 +13422,12 @@
     {
       "title": "WatchNote",
       "description": "Control your Keynote using Apple Watch",
-      "source": "https://github.com/ezefranca/WatchNote",
+      "source": "https://github.com/ezefranca/watchpresenter",
       "category-ids": [
         "apple-watch"
       ],
       "screenshots": [
-        "https://github.com/ezefranca/WatchNote/blob/master/print.png?raw=true"
+        "https://github.com/ezefranca/watchpresenter/blob/master/print.png?raw=true"
       ],
       "tags": [
         "swift"
