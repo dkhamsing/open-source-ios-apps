@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-859-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%201,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-859-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%202,%202019-lightgrey.svg)
 
 Jump to
 
@@ -333,8 +333,8 @@ Click ► to show more details
 - WatchNote: Control your Keynote using Apple Watch  
   <details><summary><code>swift</code> ⭐</summary>
 
-  https://github.com/ezefranca/WatchNote<br>  Added March 28, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-<a href='https://github.com/ezefranca/WatchNote/blob/master/print.png?raw=true'><code>Screenshot 1</code></a> <br></details>
+  https://github.com/ezefranca/watchpresenter<br>  Added March 28, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<a href='https://github.com/ezefranca/watchpresenter/blob/master/print.png?raw=true'><code>Screenshot 1</code></a> <br></details>
 
 - watchOS-2-Sampler: watchOS 2 new features example code  
   <details><summary><code>swift</code> <code>watchos2</code> ⭐⭐⭐⭐</summary>
