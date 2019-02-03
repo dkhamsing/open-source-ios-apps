@@ -13420,9 +13420,10 @@
       "stars": 136
     },
     {
-      "title": "WatchNote",
+      "title": "Watch Clicker Presentation",
       "description": "Control your Keynote using Apple Watch",
       "source": "https://github.com/ezefranca/watchpresenter",
+      "itunes": "https://itunes.apple.com/app/watchnotes/id1213397019",
       "category-ids": [
         "apple-watch"
       ],
