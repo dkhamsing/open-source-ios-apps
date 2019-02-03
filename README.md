@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-859-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%202,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-859-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%203,%202019-lightgrey.svg)
 
 Jump to
 
@@ -324,17 +324,17 @@ Click ► to show more details
   https://github.com/tryswift/trySwiftNYC<br>  Added November  8, 2016<br>  License: `other`
 <a href='https://i.imgur.com/xyu7t89.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/Jes7vLF.png'><code>Screenshot 2</code></a> <br></details>
 
+- Watch Clicker Presentation: Control your Keynote using Apple Watch [` App Store`](https://itunes.apple.com/app/watchnotes/id1213397019)  
+  <details><summary><code>swift</code> ⭐</summary>
+
+  https://github.com/ezefranca/watchpresenter<br>  Added March 28, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<a href='https://github.com/ezefranca/watchpresenter/blob/master/print.png?raw=true'><code>Screenshot 1</code></a> <br></details>
+
 - WatchKit-Apps: Tutorials app  
   <details><summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
   https://github.com/kostiakoval/WatchKit-Apps<br>  Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://raw.githubusercontent.com/kostiakoval/WatchKit-Apps/master/images/AppsInWatck/Counter.gif'><code>Screenshot 1</code></a> <br></details>
-
-- WatchNote: Control your Keynote using Apple Watch  
-  <details><summary><code>swift</code> ⭐</summary>
-
-  https://github.com/ezefranca/watchpresenter<br>  Added March 28, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-<a href='https://github.com/ezefranca/watchpresenter/blob/master/print.png?raw=true'><code>Screenshot 1</code></a> <br></details>
 
 - watchOS-2-Sampler: watchOS 2 new features example code  
   <details><summary><code>swift</code> <code>watchos2</code> ⭐⭐⭐⭐</summary>
