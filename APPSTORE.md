@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **228** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **229** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -137,6 +137,12 @@ Click ► to show more details
 
   https://github.com/diogot/MyWeight<br>  Added June 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a1.mzstatic.com/us/r30/Purple122/v4/2d/28/8c/2d288c05-33f0-1f18-b06a-4e3a24e1d608/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
+
+- Watch Clicker Presentation: Control your Keynote using Apple Watch [` App Store`](https://itunes.apple.com/app/watchnotes/id1213397019)  
+  <details><summary><code>swift</code> ⭐</summary>
+
+  https://github.com/ezefranca/watchpresenter<br>  Added March 28, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+<a href='https://github.com/ezefranca/watchpresenter/blob/master/print.png?raw=true'><code>Screenshot 1</code></a> <br></details>
 
 
 ## Browser 
