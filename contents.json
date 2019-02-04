@@ -16573,6 +16573,28 @@
       ]
     },
     {
+      "title": "Pass for iOS",
+      "category-ids": [
+        "password"
+      ],
+      "description": "Pass for iOS - an iOS client compatible with Pass command line application,
+      "source": "https://github.com/mssun/passforios",
+      "homepage": "https://mssun.github.io/passforios/",
+      "itunes": "https://itunes.apple.com/us/app/pass-password-store/id1205820573",
+      "license": "gpl-3.0",
+      "tags": [
+        "swift"
+      ],
+      "stars": 568,
+      "screenshots": [
+        "https://mssun.github.io/passforios/screenshot/screenshot1.png",
+        "https://mssun.github.io/passforios/screenshot/screenshot2.png",
+        "https://mssun.github.io/passforios/screenshot/screenshot3.png"
+      ],
+      "date_added": "February 04 2019",
+      "suggested_by": "@beli3ver"
+    },
+    {
       "title": "Bitwarden",
       "category-ids": [
         "password"
