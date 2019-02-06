@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-859-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%203,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-860-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%206,%202019-lightgrey.svg)
 
 Jump to
 
@@ -3601,6 +3601,12 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 [back to top](#readme) 
  
+- Betcalsa: Betcalsa is a easy to use document scanner app. Automatically detect your document and enhance the scans with black-and-white filter.  
+  <details><summary><code>swift</code> <code>wescan</code> </summary>
+
+  https://github.com/emredurukn/betcalsa<br>  Added February  6, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/1.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/2.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/3.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/4.jpg'><code>Screenshot 4</code></a> <br></details>
+
 - QR Blank: No ads simple QR code URL scanner [` App Store`](https://itunes.apple.com/app/id1137064763)  
   <details><summary><code>swift</code> </summary>
 
