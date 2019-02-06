@@ -17360,6 +17360,27 @@
       ],
       "date_added": "Jan 26 2019",
       "suggested_by": "@vpeschenkov"
+    },
+    {
+      "title": "Betcalsa",
+      "category-ids": [
+        "scan"
+      ],
+      "description": "Betcalsa is a easy to use document scanner app. Automatically detect your document and enhance the scans with black-and-white filter.",
+      "source": "https://github.com/emredurukn/betcalsa",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "wescan"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/1.jpg",
+        "https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/2.jpg",
+        "https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/3.jpg",
+        "https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/4.jpg"
+      ],
+      "date_added": "Feb 6 2019",
+      "suggested_by": "@emredurukn"
     }
   ]
 }
