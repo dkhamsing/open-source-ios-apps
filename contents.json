@@ -4630,7 +4630,8 @@
         "firebase"
       ],
       "tags": [
-        "firebase"
+        "firebase",
+        "archive"
       ],
       "source": "https://github.com/bonzoq/hniosreader",
       "itunes": "https://itunes.apple.com/app/hacker-news-client/id939454231",
@@ -11444,7 +11445,7 @@
       "description": "Collect OpenStreetView data",
       "license": "gpl-3.0",
       "source": "https://github.com/openstreetcam/ios",
-      "homepage": "http://openstreetview.org",
+      "homepage": "https://openstreetcam.org/",
       "itunes": "https://itunes.apple.com/app/openstreetview/id1089548849",
       "stars": 31,
       "screenshots": [
@@ -17338,7 +17339,7 @@
         "spritekit"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/orff/AppleWatchFaces/master/AppleWatchFaceIndicators.gif"
+        "https://raw.githubusercontent.com/orff/AppleWatchFaces/master/docs/AppleWatchFacesQuickDemo.gif"
       ],
       "date_added": "Jan 16 2019",
       "suggested_by": "@orff"
