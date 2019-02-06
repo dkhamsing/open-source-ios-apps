@@ -86,6 +86,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - GrubbyWorm https://github.com/gamechina/GrubbyWorm
 - Hack Cancer Hackathon https://github.com/HackCancer/iOS
 - Hacker News app by jsdf https://github.com/jsdf/ReactNativeHackerNews
+- Hacker News Client https://github.com/bonzoq/hniosreader
 - HackerNews (Y) https://github.com/vetri02/HackerNews
 - HausClock https://github.com/nottombrown/HausClock
 - Helio Workstation https://github.com/helio-fm/helio-workstation
