@@ -16917,7 +16917,7 @@
         "github",
         "rxswift"
       ],
-      "description": "Github iOS client written in RxSwift and MVVM clean architecture",
+      "description": "GitHub iOS client written in RxSwift and MVVM clean architecture",
       "source": "https://github.com/khoren93/SwiftHub",
       "itunes": "https://itunes.apple.com/app/swifthub-git-client/id1448628710",
       "license": "mit",
