@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-860-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%206,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-860-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2011,%202019-lightgrey.svg)
 
 Jump to
 
@@ -1095,11 +1095,11 @@ Click ► to show more details
   https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub<br>  Added May 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://i.imgur.com/NjqYq02.png'><code>Screenshot 1</code></a> <br></details>
 
-- SwiftHub: GitHub app using RxSwift and MVVM  
-  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> ⭐⭐⭐</summary>
+- SwiftHub: GitHub client written in RxSwift and MVVM clean architecture [` App Store`](https://itunes.apple.com/app/swifthub-git-client/id1448628710)  
+  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐</summary>
 
   https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png'><code>Screenshot 1</code></a> <br></details>
+<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'><code>Screenshot 3</code></a> <br></details>
 
 
 ## Education 
@@ -3398,11 +3398,11 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   https://github.com/devxoul/RxTodo<br>  Added September 19, 2016<br>  License: `other`
 <a href='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'><code>Screenshot 1</code></a> <br></details>
 
-- SwiftHub: GitHub app using RxSwift and MVVM  
-  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> ⭐⭐⭐</summary>
+- SwiftHub: GitHub client written in RxSwift and MVVM clean architecture [` App Store`](https://itunes.apple.com/app/swifthub-git-client/id1448628710)  
+  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐</summary>
 
   https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen_light.png'><code>Screenshot 1</code></a> <br></details>
+<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'><code>Screenshot 3</code></a> <br></details>
 
 - Tweetometer: See who is tweeting in your timeline  
   <details><summary><code>swift</code> </summary>
