@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **228** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **229** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -464,6 +464,12 @@ Click ► to show more details
 
   https://github.com/ptsochantaris/trailer<br>  Added October  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/9a/a4/9a/9aa49a25-e999-4f3d-e059-89025713cf69/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple20/v4/13/59/b0/1359b0e6-22c4-09ab-6212-e8190f8c3894/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple30/v4/a8/42/13/a8421320-3def-b527-0b12-10a418ce0088/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple18/v4/32/df/45/32df45e3-9e47-1d30-0596-e1888ae6cd3b/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple20/v4/ff/7a/f0/ff7af006-4f67-d158-bda2-c7f461686d73/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
+
+- SwiftHub: GitHub client written in RxSwift and MVVM clean architecture [` App Store`](https://itunes.apple.com/app/swifthub-git-client/id1448628710)  
+  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐</summary>
+
+  https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'><code>Screenshot 3</code></a> <br></details>
 
 
 ## Education 
@@ -1529,6 +1535,12 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/RxSwiftCommunity/RxMarbles<br>  Added June 29, 2016<br>  License: `other`
 <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/87/c5/e3/87c5e346-4f01-ce50-b03f-a50d7fa02740/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/1b/db/f3/1bdbf390-575d-e759-2ea3-7e734f1d088a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple69/v4/71/00/9b/71009b0c-6e10-1d12-e182-a2a88b1e077d/screen696x696.jpeg'><code>Screenshot 3</code></a> <br></details>
+
+- SwiftHub: GitHub client written in RxSwift and MVVM clean architecture [` App Store`](https://itunes.apple.com/app/swifthub-git-client/id1448628710)  
+  <details><summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐</summary>
+
+  https://github.com/khoren93/SwiftHub<br>  Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'><code>Screenshot 3</code></a> <br></details>
 
 
 ## Sample 
