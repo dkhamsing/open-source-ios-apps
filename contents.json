@@ -16917,7 +16917,7 @@
         "github",
         "rxswift"
       ],
-      "description": "GitHub iOS client written in RxSwift and MVVM clean architecture",
+      "description": "GitHub client written in RxSwift and MVVM clean architecture",
       "source": "https://github.com/khoren93/SwiftHub",
       "itunes": "https://itunes.apple.com/app/swifthub-git-client/id1448628710",
       "license": "mit",
@@ -16930,9 +16930,9 @@
         "fastlane"
       ],
       "screenshots": [
-        "https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png",
-        "https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png",
-        "https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png"
+        "https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true",
+        "https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true",
+        "https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true"
       ],
       "date_added": "Sep 1 2018",
       "suggested_by": "@khoren93"
