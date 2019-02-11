@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **229** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1585,6 +1585,12 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/kryptco/krypton-ios<br>  Added May  2, 2017<br>  License: `other`
 <a href='http://a2.mzstatic.com/us/r30/Purple122/v4/a1/44/1f/a1441fb4-a4de-c877-fe07-335c75724c03/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
+
+- Pass: Client for the Pass command line app https://www.passwordstore.org/ [` App Store`](https://itunes.apple.com/app/pass-password-store/id1205820573)  
+  <details><summary><code>swift</code> <code>carthage</code> <code>keychainaccess</code> <code>onetimepassword</code> ⭐⭐⭐</summary>
+
+  https://github.com/mssun/passforios<br>  https://mssun.github.io/passforios/<br>  Added May 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://github.com/mssun/passforios/raw/master/screenshot/preview.gif'><code>Screenshot 1</code></a> <br></details>
 
 - Prey: Track lost or stolen devices & perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037)  
   <details><summary><code>objc</code> ⭐⭐</summary>
