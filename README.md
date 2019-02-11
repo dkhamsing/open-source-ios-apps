@@ -3651,10 +3651,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   https://github.com/onionsapp/Onions-iOS<br>  Added January 27, 2015<br>  License: `other`
 <a href='http://a2.mzstatic.com/us/r30/Purple/v4/d0/08/29/d00829d7-e34f-69e7-d21b-bfd3f48ae8fc/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple4/v4/9d/18/f7/9d18f743-51ef-adfa-5720-ce52057f2232/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple2/v4/85/63/c3/8563c3ce-2e2a-0a6f-472d-68b60a274841/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple/v4/e2/43/a1/e243a12f-6391-f347-c684-22e5236f0d79/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
 
-- Pass: Client for the Pass command line app https://www.passwordstore.org/  
+- Pass: Client for the Pass command line app https://www.passwordstore.org/ [` App Store`](https://itunes.apple.com/app/pass-password-store/id1205820573)  
   <details><summary><code>swift</code> <code>carthage</code> <code>keychainaccess</code> <code>onetimepassword</code> ⭐⭐⭐</summary>
 
-  https://github.com/mssun/passforios<br>  Added May 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/mssun/passforios<br>  https://mssun.github.io/passforios/<br>  Added May 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/mssun/passforios/raw/master/screenshot/preview.gif'><code>Screenshot 1</code></a> <br></details>
 
 - Prey: Track lost or stolen devices & perform actions remotely [` App Store`](https://itunes.apple.com/app/id456755037)  
