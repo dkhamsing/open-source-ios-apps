@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-860-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2011,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-861-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2023,%202019-lightgrey.svg)
 
 Jump to
 
@@ -3963,6 +3963,12 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/louisdh/textor<br>  https://silverfox.be/articles/2018-03-11-textor.html<br>  Added March 13, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/4d/fe/2e4dfec4-02b8-eb6f-d104-cfd8f041f7f0/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> <br></details>
+
+- TypeStyle: TypeStyle is a funky app for iPhone and iPad that stylizes your text and adds decorations! [` App Store`](https://itunes.apple.com/app/typestyle/id1441019779)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/ebelinski/typestyle-ios<br>  https://typestyle.app<br>  Added February 22, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<a href='https://raw.githubusercontent.com/ebelinski/typestyle-ios/master/media/iphone-x-screenshots.png'><code>Screenshot 1</code></a> <br></details>
 
 
 ### Notes 
