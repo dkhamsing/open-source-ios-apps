@@ -17388,6 +17388,25 @@
       ],
       "date_added": "Feb 6 2019",
       "suggested_by": "@emredurukn"
+    },
+    {
+      "title": "TypeStyle",
+      "category-ids": [
+        "text"
+      ],
+      "description": "TypeStyle is a funky app for iPhone and iPad that stylizes your text and adds decorations!",
+      "source": "https://github.com/ebelinski/typestyle-ios",
+      "homepage": "https://typestyle.app",
+      "itunes": "https://itunes.apple.com/app/typestyle/id1441019779",
+      "license": "gpl-3.0",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/ebelinski/typestyle-ios/master/media/iphone-x-screenshots.png"
+      ],
+      "date_added": "Feb 22 2019",
+      "suggested_by": "@ebelinski"
     }
   ]
 }
