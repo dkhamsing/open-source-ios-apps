@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **231** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1753,6 +1753,12 @@ https://mastodon.social — [back to top](#readme)
 
   https://github.com/stevemoser/richtexture<br>  https://www.stevemoser.org/posts/apple-dev/richtexture.html<br>  Added June 28, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/4d/3b/dc/4d3bdc1a-2bb9-589d-a574-873167dd7fb8/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> <br></details>
+
+- TypeStyle: TypeStyle is a funky app for iPhone and iPad that stylizes your text and adds decorations! [` App Store`](https://itunes.apple.com/app/typestyle/id1441019779)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/ebelinski/typestyle-ios<br>  https://typestyle.app<br>  Added February 22, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<a href='https://raw.githubusercontent.com/ebelinski/typestyle-ios/master/media/iphone-x-screenshots.png'><code>Screenshot 1</code></a> <br></details>
 
 
 ### Notes 
