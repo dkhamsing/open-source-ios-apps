@@ -6591,6 +6591,15 @@
       "suggested_by": "@jeffreyjackson"
     },
     {
+            "title": "fitPlant",
+            "category-ids": ["fitness"],
+            "description": "Workout tracker where you can grow artificial plants",
+            "source": "https://github.com/KrisKodira/fitPlant",
+            "screenshots": ["https://raw.githubusercontent.com/KrisKodira/fitPlant/master/design/ios-app/main-view.png"],
+            "date_added": "Feb 26 2019",
+            "suggested_by": "@KrisKodira"
+    },
+    {
       "title": "TheReservist",
       "category-ids": [
         "misc"
