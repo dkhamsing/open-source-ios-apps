@@ -6997,7 +6997,8 @@
       ],
       "tags": [
         "titanium",
-        "javascript"
+        "javascript",
+        "archive"
       ],
       "description": "Track your walk, run or ride",
       "license": "mit",
@@ -14005,7 +14006,8 @@
       "itunes": "https://itunes.apple.com/app/compass-a-minimal-compass-app/id1231545538",
       "license": "mit",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "http://a5.mzstatic.com/us/r30/Purple122/v4/ea/60/8e/ea608e2a-a471-11d8-1801-e621ad8ed651/screen696x696.jpeg"
