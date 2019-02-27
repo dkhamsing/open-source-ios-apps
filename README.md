@@ -292,7 +292,7 @@ Click ► to show more details
   <details><summary><code>swift</code> <code>apple-watch</code> </summary>
 
   https://github.com/nightscout/nightguard<br>  http://www.nightscout.info/<br>  Added June 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen1.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen2.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen3.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/nightguardOnWatch.gif'><code>Screenshot 4</code></a> <br></details>
+<a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-1.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-2.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-3.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-4.jpg'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-5.jpg'><code>Screenshot 5</code></a> <br></details>
 
 - Parties for WWDC  
   <details><summary><code>swift</code> <code>cloudkit</code> ⭐⭐</summary>
@@ -2081,7 +2081,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   <details><summary><code>swift</code> <code>apple-watch</code> </summary>
 
   https://github.com/nightscout/nightguard<br>  http://www.nightscout.info/<br>  Added June 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-<a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen1.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen2.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/screen3.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/nightguardOnWatch.gif'><code>Screenshot 4</code></a> <br></details>
+<a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-1.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-2.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-3.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-4.jpg'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-5.jpg'><code>Screenshot 5</code></a> <br></details>
 
 
 ### Fitness 
@@ -2219,12 +2219,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
   https://github.com/filipealva/Cepp<br>  Added November  4, 2016<br>  License: `other`
 <a href='https://raw.githubusercontent.com/filipealva/Cepp/res/searchi5.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/filipealva/Cepp/res/detailsi5.png'><code>Screenshot 2</code></a> <br></details>
-
-- Compass: Minimal compass [` App Store`](https://itunes.apple.com/app/compass-a-minimal-compass-app/id1231545538)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/zntfdr/Compass<br>  Added May 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a5.mzstatic.com/us/r30/Purple122/v4/ea/60/8e/ea608e2a-a471-11d8-1801-e621ad8ed651/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 - CrimeMapper: Look at crime data in the UK  
   <details><summary><code>swift</code> </summary>
@@ -4395,12 +4389,6 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>titanium</code> <code>javascript</code> </summary>
 
   https://github.com/gnithin/appceleratorOMDB<br>  Added February  8, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br></details>
-
-- Tracker 4 Compassion: Track your walk, run or ride [` App Store`](https://itunes.apple.com/app/g.o.-tracker-4-compassion/id1100240821)  
-  <details><summary><code>titanium</code> <code>javascript</code> </summary>
-
-  https://github.com/fokkezb/tracker<br>  Added April 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a1.mzstatic.com/us/r30/Purple49/v4/f5/f4/07/f5f4071e-ba12-9c92-a931-599dcabffa71/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple49/v4/29/de/d0/29ded0fb-2754-ea0d-d0d7-ed66f26e5838/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple49/v4/aa/24/c7/aa24c7ba-6fc1-5c13-ec7c-0a8509296c95/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/8a/d4/97/8ad49780-e8f9-a122-fbba-a0a62a08506c/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
 
 
 ### Core Data 
