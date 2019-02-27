@@ -48,6 +48,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - CollageMaker https://github.com/Azoft/CollageMaker-iOS
 - ColorCipher https://github.com/obviousjim/ColorCipher
 - Communiqué https://github.com/zadr/Communique
+- Compass https://github.com/zntfdr/Compass
 - Concurrency https://github.com/opensourceios/Concurrency
 - Connectivity Demo https://github.com/swilliams/watchkit-connectivity-demo
 - Conway's Game of Life https://github.com/yonbergman/swift-gameoflife
@@ -190,6 +191,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Tic-tac-toe https://github.com/ijoshsmith/swift-tic-tac-toe
 - TicTacToe https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/TicTacToe
 - Toggl Timer https://github.com/opensourceios/toggle-mobile
+- Tracker 4 Compassion https://github.com/fokkezb/tracker
 - try! Swift https://github.com/opensourceios/trySwiftApp
 - tweedie https://github.com/aanon4/tweedie
 - tweejump https://github.com/haqu/tweejump
