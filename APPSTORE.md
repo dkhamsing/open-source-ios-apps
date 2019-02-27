@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **231** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **229** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -946,12 +946,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Compass: Minimal compass [` App Store`](https://itunes.apple.com/app/compass-a-minimal-compass-app/id1231545538)  
-  <details><summary><code>swift</code> </summary>
-
-  https://github.com/zntfdr/Compass<br>  Added May 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a5.mzstatic.com/us/r30/Purple122/v4/ea/60/8e/ea608e2a-a471-11d8-1801-e621ad8ed651/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
-
 - EatNow: Get recommendations for restaurants nearby [` App Store`](https://itunes.apple.com/app/eat-now-instant-personalized/id946591471)  
   <details><summary><code>objc</code> </summary>
 
@@ -1945,12 +1939,6 @@ https://mastodon.social — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Tracker 4 Compassion: Track your walk, run or ride [` App Store`](https://itunes.apple.com/app/g.o.-tracker-4-compassion/id1100240821)  
-  <details><summary><code>titanium</code> <code>javascript</code> </summary>
-
-  https://github.com/fokkezb/tracker<br>  Added April 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a1.mzstatic.com/us/r30/Purple49/v4/f5/f4/07/f5f4071e-ba12-9c92-a931-599dcabffa71/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple49/v4/29/de/d0/29ded0fb-2754-ea0d-d0d7-ed66f26e5838/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple49/v4/aa/24/c7/aa24c7ba-6fc1-5c13-ec7c-0a8509296c95/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/8a/d4/97/8ad49780-e8f9-a122-fbba-a0a62a08506c/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
-
 
 ### Core Data 
  
