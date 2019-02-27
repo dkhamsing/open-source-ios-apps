@@ -1951,7 +1951,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - Crosses-n-Ous: Class Tic Tac Toe reincarnation with AI and state machines  
   <details><summary><code>swift</code> <code>gameplaykit</code> </summary>
 
-  https://github.com/jVirus/ios-spritekit-tic-tac-toe<br>  Added August 27, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  https://github.com/jVirus/tic-tac-toe<br>  Added August 27, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <a href='https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif'><code>Screenshot 1</code></a> <br></details>
 
 - FityIt: FityIt - The shapes game - is a challenging game of skill and reflexes. Not only does this game test your reaction time, is super fun and addictive. How long can you survive in FityIt? [` App Store`](https://itunes.apple.com/app/fityit-the-shapes-game/id991444581)  
@@ -4522,7 +4522,7 @@ https://firebase.google.com/ — [back to top](#readme)
 - WhatsUp: Chat app  
   <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> <code>contacts</code> <code>otp</code> </summary>
 
-  https://github.com/fnzeta/WhatsUp<br>  Added September 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/satishbabariya/WhatsUp<br>  Added September 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://raw.githubusercontent.com/satishbabariya/WhatsUp/master/screenshot2.jpg'><code>Screenshot 1</code></a> <br></details>
 
 
