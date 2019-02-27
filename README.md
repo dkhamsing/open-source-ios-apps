@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-861-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2023,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-862-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2027,%202019-lightgrey.svg)
 
 Jump to
 
@@ -2088,6 +2088,12 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 [back to top](#readme) 
  
+- fitPlant: Workout tracker where you can grow artificial plants  
+  <details><summary></summary>
+
+  https://github.com/KrisKodira/fitPlant<br>  Added February 26, 2019
+<a href='https://raw.githubusercontent.com/KrisKodira/fitPlant/master/design/ios-app/main-view.png'><code>Screenshot 1</code></a> <br></details>
+
 - Jim: Track your gym workouts  
   <details><summary><code>swift</code> <code>parse</code> </summary>
 
