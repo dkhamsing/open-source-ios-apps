@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-862-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%20%201,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-863-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%20%206,%202019-lightgrey.svg)
 
 Jump to
 
@@ -2249,6 +2249,12 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
   https://github.com/findmybusnj/findmybusnj-swift<br>  Added July 13, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='https://github.com/findmybusnj/findmybusnj-swift/raw/master/README_banner.png'><code>Screenshot 1</code></a> <br></details>
+
+- GeoLicious: Location Tracking made easy... GeoLicious is a long term project I've maintained from 2013 to 2017 and made public in May 2017. [` App Store`](https://itunes.apple.com/app/geolicious/id637366170)  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/da3x/GeoLicious<br>  Added March  1, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/08/18/250818d7-a6b1-0af4-0efb-cb977f7c5c93/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/ce/5f/bcce5fcd-b809-72d6-63f8-aff380326149/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/60/da/8c/60da8cfc-c0c4-56d2-aedb-e97cfe1be461/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/13/f0/80/13f08044-d8bc-03cd-341e-aed485137a8f/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <br></details>
 
 - GeoTappy: Share your location  
   <details><summary><code>objc</code> </summary>
