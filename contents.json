@@ -3293,13 +3293,15 @@
         "objc"
       ],
       "screenshots": [
-        "https://camo.githubusercontent.com/7ac84e87a006d126f5d800002b08da4e3f4e95f5/687474703a2f2f61342e6d7a7374617469632e636f6d2f75732f7233302f507572706c6534322f76342f64632f36352f30642f64633635306463382d323732642d646134612d386563642d3730383236303630363035622f73637265656e363936783639362e6a706567",
-        "https://camo.githubusercontent.com/8cb98bf5ad326ee48ec0a6e50670714e2a411232/687474703a2f2f61352e6d7a7374617469632e636f6d2f75732f7233302f507572706c6536322f76342f66612f30372f33302f66613037333036332d343464392d613733632d313436372d3664613961353464373738662f73637265656e363936783639362e6a706567"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/08/18/250818d7-a6b1-0af4-0efb-cb977f7c5c93/pr_source.png/460x0w.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/ce/5f/bcce5fcd-b809-72d6-63f8-aff380326149/pr_source.png/460x0w.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/60/da/8c/60da8cfc-c0c4-56d2-aedb-e97cfe1be461/pr_source.png/460x0w.jpg",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/13/f0/80/13f08044-d8bc-03cd-341e-aed485137a8f/pr_source.png/460x0w.jpg"
       ],
-      "description": "Location Tracking made easy... GeoLicious is a long term iOS project I've maintained from 2013 to 2017 and made public in May 2017.",
+      "description": "Location Tracking made easy... GeoLicious is a long term project I've maintained from 2013 to 2017 and made public in May 2017.",
       "license": "mit",
       "source": "https://github.com/da3x/GeoLicious",
-      "itunes": "https://itunes.apple.com/us/app/geolicious/id637366170?&mt=8",
+      "itunes": "https://itunes.apple.com/app/geolicious/id637366170",
       "stars": 6,
       "date_added": "Tue Mar 01 08:47:46 2019 +0100",
       "suggested_by": "@da3x"
