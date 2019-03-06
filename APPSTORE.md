@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **229** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -951,6 +951,12 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
   https://github.com/callzhang/Eat-Now<br>  Added October 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a1.mzstatic.com/us/r30/Purple7/v4/e0/65/ca/e065caa7-e2be-1e25-f78a-ccb19a7cf1b0/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple7/v4/d4/bf/20/d4bf20c6-8dc8-0739-9977-1a8c3f2f7052/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/15/60/8d/15608d60-d7c0-2dfb-e89a-97c49573fd75/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple1/v4/b2/36/fb/b236fba1-3e84-c6a4-c186-8b73abca6109/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple2/v4/1c/d0/2d/1cd02d13-9d9c-d115-1605-3fb4dae72831/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
+
+- GeoLicious: Location Tracking made easy... GeoLicious is a long term project I've maintained from 2013 to 2017 and made public in May 2017. [` App Store`](https://itunes.apple.com/app/geolicious/id637366170)  
+  <details><summary><code>objc</code> </summary>
+
+  https://github.com/da3x/GeoLicious<br>  Added March  1, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/08/18/250818d7-a6b1-0af4-0efb-cb977f7c5c93/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/ce/5f/bcce5fcd-b809-72d6-63f8-aff380326149/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/60/da/8c/60da8cfc-c0c4-56d2-aedb-e97cfe1be461/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/13/f0/80/13f08044-d8bc-03cd-341e-aed485137a8f/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <br></details>
 
 - iPokeGo: Map Pokemon around you! [` App Store`](https://itunes.apple.com/app/ipokego-for-pokemon-go/id1138277066)  
   <details><summary><code>objc</code> ⭐⭐⭐</summary>
