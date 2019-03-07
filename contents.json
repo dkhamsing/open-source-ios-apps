@@ -17448,6 +17448,22 @@
       "date_added": "Feb 22 2019",
       "suggested_by": "@ebelinski",
       "stars": 2
+    },
+    {
+      "title": "Pocket Code",
+      "category-ids": [
+        "education"
+      ],
+      "description": "Pocket Code allows you to create your own games, animations, interactive music videos, and many kind of other apps, directly on your phone or tablet.",
+      "source": "https://github.com/catrobat/catty",
+      "homepage": "https://www.catrobat.org",
+      "itunes": "https://itunes.apple.com/app/pocket-code/id1117935892",
+      "license": "other",
+      "tags": [
+        "objc", "swift"
+      ],
+      "date_added": "Mar 06 2019",
+      "suggested_by": "@painhapp"
     }
   ]
 }
