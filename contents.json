@@ -17464,6 +17464,28 @@
       ],
       "date_added": "Mar 06 2019",
       "suggested_by": "@painhapp"
+    },
+    {
+      "title": "Showio",
+      "category-ids": [
+        "content"
+      ],
+      "description": "A simple TV show tracker",
+      "source": "https://github.com/madyanov/showio-app",
+      "homepage": "https://madyanov.com/showio",
+      "itunes": "https://itunes.apple.com/app/id1445035408",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "tmdb"
+      ],
+      "screenshots": [
+        "https://github.com/madyanov/showio-app/blob/master/assets/screen-1.png?raw=true",
+        "https://github.com/madyanov/showio-app/blob/master/assets/screen-2.png?raw=true",
+        "https://github.com/madyanov/showio-app/blob/master/assets/screen-3.png?raw=true"
+      ],
+      "date_added": "Mar 17 2019",
+      "suggested_by": "@madyanov"
     }
   ]
 }
