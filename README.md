@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-864-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%20%207,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-865-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2018,%202019-lightgrey.svg)
 
 Jump to
 
@@ -2823,6 +2823,12 @@ Image, video, audio, reading — [back to top](#readme)
 
   https://github.com/BalestraPatrick/RealmVideo<br>  Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/BalestraPatrick/RealmVideo/raw/master/Resources/demo.gif'><code>Screenshot 1</code></a> <br></details>
+
+- Showio: A simple TV show tracker [` App Store`](https://itunes.apple.com/app/id1445035408)  
+  <details><summary><code>swift</code> <code>tmdb</code> </summary>
+
+  https://github.com/madyanov/showio-app<br>  https://madyanov.com/showio<br>  Added March 17, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-2.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-3.png?raw=true'><code>Screenshot 3</code></a> <br></details>
 
 - SoundCloudSwift: SoundCloud app  
   <details><summary><code>swift</code> ⭐⭐⭐</summary>
