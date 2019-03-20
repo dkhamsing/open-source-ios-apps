@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **232** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -155,12 +155,6 @@ Click ► to show more details
   https://github.com/brave/browser-ios<br>  Added May 24, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)
 <a href='http://a5.mzstatic.com/us/r30/Purple18/v4/ed/6c/07/ed6c07f4-c9cd-0daa-a331-a39a85ba1c08/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
-- Endless Browser: Web browser built with privacy & security in mind [` App Store`](https://itunes.apple.com/app/endless-browser/id974745755)  
-  <details><summary><code>objc</code> ⭐⭐</summary>
-
-  https://github.com/jcs/endless<br>  Added December 22, 2015<br>  License: `other`
-<a href='http://a3.mzstatic.com/us/r30/Purple7/v4/4a/22/70/4a22706f-6fe0-0e71-ad4c-178a83a062ad/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple7/v4/cb/d1/06/cbd1063b-c086-9e3b-caff-34e938b6433c/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/e3/b4/ae/e3b4ae59-3f2e-2784-93aa-fae83a3aa6f1/screen696x696.jpeg'><code>Screenshot 3</code></a> <br></details>
-
 - Firefox: Official Firefox app [` App Store`](https://itunes.apple.com/app/firefox-web-browser/id989804926)  
   <details><summary><code>swift</code> <code>carthage</code> <code>alamofire</code> <code>snapkit</code> <code>libphonenumber</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -190,12 +184,6 @@ Click ► to show more details
 
   https://github.com/snowhaze/SnowHaze-iOS<br>  Added May 19, 2018<br>  License: `other`
 <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/a0/fc/6f/a0fc6f11-2a83-7f80-f9f6-3caf7d73e1b0/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/02/65/bf/0265bffc-4b48-f52c-a698-c50ddbe22d53/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/a2/a4/a2/a2a4a22f-0f48-3c86-c672-482e190ef21f/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/fc/79/2f/fc792faf-eef5-8ee6-78bb-2aa396c7dbf4/pr_source.png/628x0w.jpg'><code>Screenshot 4</code></a> <br></details>
-
-- Tob: A beautiful Tor browser to protect your anonymity [` App Store`](https://itunes.apple.com/app/id1063151782)  
-  <details><summary><code>objc</code> <code>tor</code> </summary>
-
-  https://github.com/JRock007/Tob<br>  Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a3.mzstatic.com/us/r30/Purple20/v4/cb/fa/27/cbfa272c-7787-ed8a-3fc4-dc6926f3932e/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/36/1c/99/361c9989-1abe-90e1-c1b6-b6cfebaeda56/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple30/v4/9c/c6/87/9cc68726-80a3-1289-0848-de0b745a31aa/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple20/v4/b5/22/48/b52248a7-2d0b-7f68-3985-cbac5d7bcd3e/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
 
 
 ## Calculator 
@@ -290,7 +278,7 @@ Click ► to show more details
 - Linphone: Free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection) [` App Store`](https://itunes.apple.com/app/linphone/id360065638)  
   <details><summary><code>objc</code> </summary>
 
-  https://gitlab.linphone.org/BC/public/linphone-iphone<br>  http://www.linphone.org/technical-corner/linphone/downloads<br>  Added August 22, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  https://gitlab.linphone.org/BC/public/linphone-iphone<br>  Added August 22, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/48/5f/07/485f073c-1bd4-acdb-127f-0bd5d266d359/mzl.gqlurkmf.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/cc/b4/b8/ccb4b8a4-f912-b4a7-d69f-1f9fda24f368/mzl.whsepbnn.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/93/7c/fc/937cfca3-14fd-0a4e-0690-ab02d07452ee/mzl.wkqxfgho.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/49/12/40/4912400a-b408-3bf2-cf8a-8ecdefb858c0/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <br></details>
 
 - Monal: Connect to your chat server without having to give a third party access to your password or messages [` App Store`](https://itunes.apple.com/app/monal-free-xmpp-chat/id317711500)  
@@ -1180,7 +1168,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details><summary><code>swift</code> <code>snapkit</code> <code>haneke</code> <code>koloda</code> </summary>
 
   https://github.com/SpongeBobSun/Prodigal-iOS<br>  Added May  3, 2017<br>  License: `other`
-<a href='https://github.com/SpongeBobSun/Prodigal-iOS/raw/master/artworks/home.png'><code>Screenshot 1</code></a> <br></details>
+<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/b5/d4/72/b5d472cf-ca00-aba0-da09-776dc597595a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/6d/85/02/6d850217-73a8-3379-5110-54ca812d6ae0/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/85/79/6d/85796d78-6c7f-6dc6-327f-f3dfcc4c72a3/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/05/e3/da/05e3da31-0d41-dc1d-8111-6bceed1b8095/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <br></details>
 
 - Radio Paradise: Official app for http://www.radioparadise.com/ [` App Store`](https://itunes.apple.com/app/id663334697)  
   <details><summary><code>objc</code> </summary>
@@ -1267,7 +1255,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Showio: A simple TV show tracker [` App Store`](https://itunes.apple.com/app/id1445035408)  
   <details><summary><code>swift</code> <code>tmdb</code> </summary>
 
-  https://github.com/madyanov/showio-app<br>  https://madyanov.com/showio<br>  Added March 17, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/madyanov/showio-app<br>  http://madyanov.com/showio/<br>  Added March 17, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-2.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-3.png?raw=true'><code>Screenshot 3</code></a> <br></details>
 
 - xkcd [` App Store`](https://itunes.apple.com/app/xkcd/id303688284)  
@@ -1466,7 +1454,7 @@ https://newsapi.org/ — [back to top](#readme)
   https://github.com/ilTofa/rposx<br>  https://www.iltofa.com/rphd/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a5.mzstatic.com/us/r30/Purple30/v4/97/22/95/97229577-fbbd-2de8-3822-b906eadb6354/screen800x500.jpeg'><code>Screenshot 1</code></a> <br></details>
 
-- Scholars of WWDC: Official app of recipients for https://developer.apple.com/wwdc/scholarships/ [` App Store`](https://itunes.apple.com/app/scholars-of-wwdc/id999731893)  
+- Scholars of WWDC: Official app of recipients for https://developer.apple.com/wwdc19/scholarships/ [` App Store`](https://itunes.apple.com/app/scholars-of-wwdc/id999731893)  
   <details><summary><code>swift</code> </summary>
 
   https://github.com/WWDCScholars/iOS-app<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
