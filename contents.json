@@ -1163,6 +1163,7 @@
         "browser"
       ],
       "tags": [
+        "archive",
         "objc"
       ],
       "description": "Web browser built with privacy & security in mind",
@@ -10709,6 +10710,7 @@
         "browser"
       ],
       "tags": [
+        "archive",
         "objc",
         "tor"
       ],
@@ -10751,7 +10753,7 @@
       "category-ids": [
         "official"
       ],
-      "description": "Official app of recipients for https://developer.apple.com/wwdc/scholarships/",
+      "description": "Official app of recipients for https://developer.apple.com/wwdc19/scholarships/",
       "license": "mit",
       "source": "https://github.com/WWDCScholars/iOS-app",
       "itunes": "https://itunes.apple.com/app/scholars-of-wwdc/id999731893",
@@ -11589,7 +11591,7 @@
         "calculator"
       ],
       "description": "Calculates grams of water needed given grams of coffee based off ratio chosen",
-      "source": "https://github.com/jmp9c/Coffee-Ratio",
+      "source": "https://github.com/johnmahlon/Coffee-Ratio",
       "screenshots": [
         "https://i.imgur.com/rQxOsqO.png"
       ],
@@ -13923,7 +13925,10 @@
         "koloda"
       ],
       "screenshots": [
-        "https://github.com/SpongeBobSun/Prodigal-iOS/raw/master/artworks/home.png"
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/b5/d4/72/b5d472cf-ca00-aba0-da09-776dc597595a/pr_source.png/460x0w.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/6d/85/02/6d850217-73a8-3379-5110-54ca812d6ae0/pr_source.png/460x0w.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/85/79/6d/85796d78-6c7f-6dc6-327f-f3dfcc4c72a3/pr_source.png/460x0w.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/05/e3/da/05e3da31-0d41-dc1d-8111-6bceed1b8095/pr_source.png/460x0w.jpg"
       ],
       "license": "other",
       "date_added": "May 3 2017",
@@ -15558,10 +15563,10 @@
         "swift"
       ],
       "description": "iTunes Connect app which is actually useful",
-      "source": "https://github.com/RishabhTayal/ReviewMonitor",
+      "source": "https://github.com/RishabhTayal/Unofficial-iTC",
       "screenshots": [
-        "https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot1.png?raw=true",
-        "https://github.com/RishabhTayal/ReviewMonitor/blob/master/public-screenshots/screenshot2.png?raw=true"
+        "https://github.com/RishabhTayal/Unofficial-iTC/blob/master/public-screenshots/screenshot1.png?raw=true",
+        "https://github.com/RishabhTayal/Unofficial-iTC/blob/master/public-screenshots/screenshot2.png?raw=true"
       ],
       "date_added": "Dec 27 2017",
       "suggested_by": "@RishabhTayal",
@@ -16913,7 +16918,6 @@
       ],
       "description": "Free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection)",
       "source": "https://gitlab.linphone.org/BC/public/linphone-iphone",
-      "homepage": "http://www.linphone.org/technical-corner/linphone/downloads",
       "itunes": "https://itunes.apple.com/app/linphone/id360065638",
       "license": "gpl-2.0",
       "stars": 0,
@@ -17472,7 +17476,7 @@
       ],
       "description": "A simple TV show tracker",
       "source": "https://github.com/madyanov/showio-app",
-      "homepage": "https://madyanov.com/showio",
+      "homepage": "http://madyanov.com/showio/",
       "itunes": "https://itunes.apple.com/app/id1445035408",
       "license": "mit",
       "tags": [
