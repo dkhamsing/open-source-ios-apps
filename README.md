@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-865-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2020,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-866-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2022,%202019-lightgrey.svg)
 
 Jump to
 
@@ -858,6 +858,12 @@ Click ► to show more details
   https://github.com/ndfred/iperf-ios<br>  Added November 14, 2016<br>  License: `other`
 <a href='https://github.com/ndfred/iperf-ios/raw/master/Screenshot.png'><code>Screenshot 1</code></a> <br></details>
 
+- iSH: The Linux shell on iOS  
+  <details><summary><code>c</code> <code>obj-c</code> </summary>
+
+  https://github.com/tbodt/ish<br>  https://ish.app<br>  Added March 21, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg'><code>Screenshot 2</code></a> <br></details>
+
 - iVim: A vim port [` App Store`](https://itunes.apple.com/app/ivim/id1266544660)  
   <details><summary><code>c</code> <code>vim-script</code> ⭐</summary>
 
@@ -1193,6 +1199,12 @@ Click ► to show more details
 
   https://github.com/emufreak/iAmiga<br>  Added May 14, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <a href='http://moreinfo.thebigboss.org/moreinfo/iuae1.jpg'><code>Screenshot 1</code></a> <a href='http://moreinfo.thebigboss.org/moreinfo/iuae4.jpg'><code>Screenshot 2</code></a> <br></details>
+
+- iSH: The Linux shell on iOS  
+  <details><summary><code>c</code> <code>obj-c</code> </summary>
+
+  https://github.com/tbodt/ish<br>  https://ish.app<br>  Added March 21, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg'><code>Screenshot 2</code></a> <br></details>
 
 - MAME4iOS: MAME frontend  
   <details><summary><code>objc</code> </summary>
