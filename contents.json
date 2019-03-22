@@ -17436,10 +17436,10 @@
         "wescan"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/1.jpg",
-        "https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/2.jpg",
-        "https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/3.jpg",
-        "https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/4.jpg"
+        "https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/1.jpg",
+        "https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/2.jpg",
+        "https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/4.jpg",
+        "https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/5.jpeg"
       ],
       "date_added": "Feb 6 2019",
       "suggested_by": "@emredurukn",
@@ -17488,7 +17488,7 @@
       ],
       "description": "A simple TV show tracker",
       "source": "https://github.com/madyanov/showio-app",
-      "homepage": "http://madyanov.com/showio/",
+      "homepage": "https://madyanov.com/showio/en/",
       "itunes": "https://itunes.apple.com/app/id1445035408",
       "license": "mit",
       "tags": [
