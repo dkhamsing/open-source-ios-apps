@@ -329,6 +329,18 @@
     }
   ],
   "projects": [
+        {
+                "title": "iSH",
+                "category-ids": ["developer", "emulator"],
+                "tags": ["c", "obj-c"],
+                "description": "The Linux shell on iOS",
+                "source": "https://github.com/tbodt/ish",
+                "homepage": "https://ish.app",
+                "screenshots": ["https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg", "https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg"],
+                "date_added": "Mar 21, 2019",
+                "license": "gpl-3.0",
+                "suggested_by": "@PseudonymPatel"
+    },
     {
       "title": "Artsy Shows",
       "category-ids": [
