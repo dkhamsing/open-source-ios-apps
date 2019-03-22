@@ -1255,7 +1255,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Showio: A simple TV show tracker [` App Store`](https://itunes.apple.com/app/id1445035408)  
   <details><summary><code>swift</code> <code>tmdb</code> </summary>
 
-  https://github.com/madyanov/showio-app<br>  http://madyanov.com/showio/<br>  Added March 17, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/madyanov/showio-app<br>  https://madyanov.com/showio/en/<br>  Added March 17, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-2.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-3.png?raw=true'><code>Screenshot 3</code></a> <br></details>
 
 - xkcd [` App Store`](https://itunes.apple.com/app/xkcd/id303688284)  
