@@ -2827,7 +2827,7 @@ Image, video, audio, reading — [back to top](#readme)
 - Showio: A simple TV show tracker [` App Store`](https://itunes.apple.com/app/id1445035408)  
   <details><summary><code>swift</code> <code>tmdb</code> </summary>
 
-  https://github.com/madyanov/showio-app<br>  http://madyanov.com/showio/<br>  Added March 17, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  https://github.com/madyanov/showio-app<br>  https://madyanov.com/showio/en/<br>  Added March 17, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-2.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-3.png?raw=true'><code>Screenshot 3</code></a> <br></details>
 
 - SoundCloudSwift: SoundCloud app  
@@ -3616,7 +3616,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details><summary><code>swift</code> <code>wescan</code> </summary>
 
   https://github.com/emredurukn/betcalsa<br>  Added February  6, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/1.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/2.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/3.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Screenshots/4.jpg'><code>Screenshot 4</code></a> <br></details>
+<a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/1.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/2.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/4.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/5.jpeg'><code>Screenshot 4</code></a> <br></details>
 
 - QR Blank: No ads simple QR code URL scanner [` App Store`](https://itunes.apple.com/app/id1137064763)  
   <details><summary><code>swift</code> </summary>
