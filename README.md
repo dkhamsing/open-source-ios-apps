@@ -4350,7 +4350,7 @@ https://mastodon.social — [back to top](#readme)
   https://github.com/iAugux/Phonetic<br>  Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://raw.githubusercontent.com/iAugux/ProjectScreenshots/master/Phonetic/nickname.gif'><code>Screenshot 1</code></a> <br></details>
 
-- Science Journal: Gather data around you  
+- Science Journal: Use the sensors in your mobile devices to perform science experiments  
   <details><summary><code>swift</code> <code>protobuf</code> </summary>
 
   https://github.com/google/science-journal-ios<br>  Added March 29, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
