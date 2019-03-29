@@ -17502,6 +17502,25 @@
       ],
       "date_added": "Mar 17 2019",
       "suggested_by": "@madyanov"
-    }
+    },
+    {
+    	"title": "Science Journal",
+    	"category-ids": [
+    		"misc"
+    	],
+    	"description": "Gather data around you",
+    	"source": "https://github.com/google/science-journal-ios",
+    	"license": "apache-2.0",
+    	"tags": [
+    		"swift",
+    		"protobuf"
+    	],
+    	"screenshots": [
+    		"https://raw.githubusercontent.com/google/science-journal-ios/master/assets/image1.png",
+    		"https://raw.githubusercontent.com/google/science-journal-ios/master/assets/image2.png"
+    	],
+    	"date_added": "Mar 29 2019",
+    	"suggested_by": "@dkhamsing"      
+    }    
   ]
 }
