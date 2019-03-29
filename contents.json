@@ -17508,7 +17508,7 @@
     	"category-ids": [
     		"misc"
     	],
-    	"description": "Gather data around you",
+    	"description": "Use the sensors in your mobile devices to perform science experiments",
     	"source": "https://github.com/google/science-journal-ios",
     	"license": "apache-2.0",
     	"tags": [
