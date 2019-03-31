@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-867-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2029,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-867-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2031,%202019-lightgrey.svg)
 
 Jump to
 
@@ -3174,7 +3174,7 @@ https://newsapi.org/ — [back to top](#readme)
   https://chromium.googlesource.com/chromium/src.git/+/master/ios/<br>  https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html<br>  Added February  1, 2017<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
 <a href='http://a5.mzstatic.com/us/r30/Purple71/v4/4b/d8/9a/4bd89a0d-d1f8-ea48-492a-2cec600c453c/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple62/v4/20/f2/6e/20f26eb0-e862-358f-8252-0e299bc89d94/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/53/5b/b4/535bb49d-d1ec-7edc-4195-ba0359de2779/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple62/v4/56/ee/b0/56eeb0f0-0e39-cb27-d389-511e2d9964c4/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple62/v4/e8/a1/ab/e8a1ab12-b616-f9d0-7f1b-2e1764b0e872/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
-- Coding: Official Coding app [` App Store`](https://itunes.apple.com/app/coding/id923676989)  
+- Coding: Official Coding app  
   <details><summary><code>reactivecocoa</code> <code>masonry</code> 🌐 ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/Coding/Coding-iOS<br>  Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3326,7 +3326,7 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
 
   https://github.com/ashfurrow/C-41<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br></details>
 
-- Coding: Official Coding app [` App Store`](https://itunes.apple.com/app/coding/id923676989)  
+- Coding: Official Coding app  
   <details><summary><code>reactivecocoa</code> <code>masonry</code> 🌐 ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/Coding/Coding-iOS<br>  Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
@@ -3389,7 +3389,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details><summary><code>swift</code> <code>rxswift</code> ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/artsy/eidolon<br>  Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://artsy.github.io/images/2014-11-12-eidolon-retrospective/listings.png'><code>Screenshot 1</code></a> <br></details>
+<a href='https://artsy.github.io/images/2014-11-12-eidolon-retrospective/listings.png'><code>Screenshot 1</code></a> <br></details>
 
 - Papr: An unofficial client for https://unsplash.com  
   <details><summary><code>swift</code> ⭐⭐⭐</summary>
@@ -3452,7 +3452,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - Apple WWDC 2015: Code samples from WWDC 2015  
   <details><summary><code>objc</code> </summary>
 
-  https://developer.apple.com/sample-code/wwdc/2015/<br>  Added July 16, 2015<br>  License: `other`<br></details>
+  https://developer.apple.com/videos/2015/<br>  Added July 16, 2015<br>  License: `other`<br></details>
 
 - Artist: Use Relay to access the Artsy GraphQL API  
   <details><summary><code>react native</code> <code>graphql</code> </summary>
@@ -3819,12 +3819,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/ello/ello-ios<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a5.mzstatic.com/us/r30/Purple62/v4/d3/f7/04/d3f7045e-84bc-b237-09f0-6f28c1c6774a/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/c7/3e/c9/c73ec9fb-0284-2bd7-15dd-7378555af681/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/a8/8d/fb/a88dfbcb-6b8e-bb3d-5e0d-f581b686c708/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple71/v4/78/33/45/783345e2-4cfd-b57a-00fc-55b87d91eb51/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple62/v4/83/95/e3/8395e3e4-23f9-b0cd-0ef7-8734f58506ba/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
-
-- MeetPoint App: MeetPoint is a social media application that you can share spontaneous activities [` App Store`](https://itunes.apple.com/app/meetpoint-app/id1363547170)  
-  <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> </summary>
-
-  https://github.com/MeetPoint-App/meetpoint-ios<br>  Added June 21, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-<a href='http://meetpointapp.co/assets/images/screenshot/01.jpg'><code>Screenshot 1</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/02.jpg'><code>Screenshot 2</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/03.jpg'><code>Screenshot 3</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/04.jpg'><code>Screenshot 4</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/05.jpg'><code>Screenshot 5</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/06.jpg'><code>Screenshot 6</code></a> <br></details>
 
 - Minds: An encrypted social network  
   <details><summary><code>angular</code> <code>cordova</code> ⭐</summary>
@@ -4488,12 +4482,6 @@ https://firebase.google.com/ — [back to top](#readme)
 
   https://github.com/dkhamsing/how-much<br>  Added October  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'><code>Screenshot 1</code></a> <br></details>
-
-- MeetPoint App: MeetPoint is a social media application that you can share spontaneous activities [` App Store`](https://itunes.apple.com/app/meetpoint-app/id1363547170)  
-  <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> </summary>
-
-  https://github.com/MeetPoint-App/meetpoint-ios<br>  Added June 21, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-<a href='http://meetpointapp.co/assets/images/screenshot/01.jpg'><code>Screenshot 1</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/02.jpg'><code>Screenshot 2</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/03.jpg'><code>Screenshot 3</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/04.jpg'><code>Screenshot 4</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/05.jpg'><code>Screenshot 5</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/06.jpg'><code>Screenshot 6</code></a> <br></details>
 
 - Messenger: Audio/video calls, realtime chat & full offline support  
   <details><summary><code>objc</code> <code>firebase</code> <code>onesignal</code> <code>realm</code> ⭐⭐⭐⭐⭐</summary>
