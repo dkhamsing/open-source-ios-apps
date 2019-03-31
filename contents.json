@@ -1331,7 +1331,8 @@
       "tags": [
         "swift",
         "swift3",
-        "firebase"
+        "firebase",
+        "archive"
       ],
       "description": "MeetPoint is a social media application that you can share spontaneous activities",
       "source": "https://github.com/MeetPoint-App/meetpoint-ios",
@@ -4831,7 +4832,6 @@
       "lang": "zho",
       "description": "Official Coding app",
       "source": "https://github.com/Coding/Coding-iOS",
-      "itunes": "https://itunes.apple.com/app/coding/id923676989",
       "stars": 3485,
       "license": "mit",
       "date_added": "Sat Sep 26 01:10:56 2015 +0800",
@@ -4976,7 +4976,7 @@
         "objc"
       ],
       "description": "Code samples from WWDC 2015",
-      "source": "https://developer.apple.com/sample-code/wwdc/2015/",
+      "source": "https://developer.apple.com/videos/2015/",
       "license": "other",
       "date_added": "Thu, 16 Jul 2015 07:25:59 -0700",
       "suggested_by": "@jeffreyjackson"
@@ -8071,7 +8071,7 @@
         "rxswift"
       ],
       "screenshots": [
-        "http://artsy.github.io/images/2014-11-12-eidolon-retrospective/listings.png"
+        "https://artsy.github.io/images/2014-11-12-eidolon-retrospective/listings.png"
       ],
       "date_added": "Tue Jan 27 07:26:50 2015 -0800",
       "suggested_by": "@dkhamsing"
