@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **228** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -1400,12 +1400,6 @@ https://newsapi.org/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- Coding: Official Coding app [` App Store`](https://itunes.apple.com/app/coding/id923676989)  
-  <details><summary><code>reactivecocoa</code> <code>masonry</code> 🌐 ⭐⭐⭐⭐⭐</summary>
-
-  https://github.com/Coding/Coding-iOS<br>  Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a4.mzstatic.com/us/r30/Purple69/v4/d9/af/b7/d9afb7d3-1d4c-2e44-1501-371f2a32a0da/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/ed/8c/2f/ed8c2f53-0d0f-e44f-40a8-f55f87dfd517/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple49/v4/43/09/21/430921eb-aa5a-c68a-9c02-8372dba3a241/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/43/f2/27/43f227be-e0ec-f5de-ef7c-5a786719899a/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/42/98/19/429819d8-b91b-d248-3fc1-1a6f127d82de/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
-
 - DuckDuckGo: Official DuckDuckGo app [` App Store`](https://itunes.apple.com/app/duckduckgo-search-stories/id663592361)  
   <details><summary><code>afnetworking</code> ⭐⭐⭐</summary>
 
@@ -1505,12 +1499,6 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
 
   https://github.com/artsy/eigen<br>  Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a1.mzstatic.com/us/r30/Purple30/v4/f9/fd/e3/f9fde323-7f53-12d9-99cc-94f435fc9a06/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple30/v4/dc/17/9a/dc179a52-4cda-f91e-c36a-5d6bce72ff3c/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple30/v4/52/65/c4/5265c4b3-5d0c-4fce-1520-f1a6da6835af/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple20/v4/9f/84/d6/9f84d61d-59d5-e10e-236a-fd8c9685c9c1/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple18/v4/75/09/05/75090520-f464-e0c4-8d9b-9b07c6bb8c15/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
-
-- Coding: Official Coding app [` App Store`](https://itunes.apple.com/app/coding/id923676989)  
-  <details><summary><code>reactivecocoa</code> <code>masonry</code> 🌐 ⭐⭐⭐⭐⭐</summary>
-
-  https://github.com/Coding/Coding-iOS<br>  Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-<a href='http://a4.mzstatic.com/us/r30/Purple69/v4/d9/af/b7/d9afb7d3-1d4c-2e44-1501-371f2a32a0da/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/ed/8c/2f/ed8c2f53-0d0f-e44f-40a8-f55f87dfd517/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple49/v4/43/09/21/430921eb-aa5a-c68a-9c02-8372dba3a241/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/43/f2/27/43f227be-e0ec-f5de-ef7c-5a786719899a/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/42/98/19/429819d8-b91b-d248-3fc1-1a6f127d82de/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
 - Tropos Weather [` App Store`](https://itunes.apple.com/app/tropos-weather-forecasts-for/id955209376)  
   <details><summary><code>dark sky api (forecast api)</code> <code>reactivecocoa</code> ⭐⭐⭐⭐</summary>
@@ -1701,12 +1689,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/ello/ello-ios<br>  Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a5.mzstatic.com/us/r30/Purple62/v4/d3/f7/04/d3f7045e-84bc-b237-09f0-6f28c1c6774a/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/c7/3e/c9/c73ec9fb-0284-2bd7-15dd-7378555af681/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/a8/8d/fb/a88dfbcb-6b8e-bb3d-5e0d-f581b686c708/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple71/v4/78/33/45/783345e2-4cfd-b57a-00fc-55b87d91eb51/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple62/v4/83/95/e3/8395e3e4-23f9-b0cd-0ef7-8734f58506ba/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
-
-- MeetPoint App: MeetPoint is a social media application that you can share spontaneous activities [` App Store`](https://itunes.apple.com/app/meetpoint-app/id1363547170)  
-  <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> </summary>
-
-  https://github.com/MeetPoint-App/meetpoint-ios<br>  Added June 21, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-<a href='http://meetpointapp.co/assets/images/screenshot/01.jpg'><code>Screenshot 1</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/02.jpg'><code>Screenshot 2</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/03.jpg'><code>Screenshot 3</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/04.jpg'><code>Screenshot 4</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/05.jpg'><code>Screenshot 5</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/06.jpg'><code>Screenshot 6</code></a> <br></details>
 
 
 ### Mastodon 
@@ -1959,12 +1941,6 @@ https://firebase.google.com/ — [back to top](#readme)
 
   https://github.com/RMizin/FalconMessenger<br>  Added June 19, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/48/53/6c/48536cdf-5ca1-8285-c0ed-6eca4da33d1a/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/dd/eb/55/ddeb5549-ef4c-faa2-8b98-71bd796a499f/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/35/11/a5/3511a58d-ef7b-38e8-0365-05629c143489/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/4d/f8/124df875-c3cf-30a5-6506-83b5a80f9252/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <br></details>
-
-- MeetPoint App: MeetPoint is a social media application that you can share spontaneous activities [` App Store`](https://itunes.apple.com/app/meetpoint-app/id1363547170)  
-  <details><summary><code>swift</code> <code>swift3</code> <code>firebase</code> </summary>
-
-  https://github.com/MeetPoint-App/meetpoint-ios<br>  Added June 21, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-<a href='http://meetpointapp.co/assets/images/screenshot/01.jpg'><code>Screenshot 1</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/02.jpg'><code>Screenshot 2</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/03.jpg'><code>Screenshot 3</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/04.jpg'><code>Screenshot 4</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/05.jpg'><code>Screenshot 5</code></a> <a href='http://meetpointapp.co/assets/images/screenshot/06.jpg'><code>Screenshot 6</code></a> <br></details>
 
 
 ### Ionic 
