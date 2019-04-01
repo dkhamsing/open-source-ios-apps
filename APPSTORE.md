@@ -436,7 +436,7 @@ Click ► to show more details
 <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/91/90/1d919067-8c46-3f04-f710-ecfed6494539/pr_source.png/900x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/84/cc/ee84cc99-5ff3-5c1c-4408-60c8f24f754d/pr_source.png/900x0w.png'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/28/86/e9/2886e929-b5a9-09ed-47e7-0ed45806f463/pr_source.png/900x0w.png'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/7a/2a/68/7a2a68f4-5575-5d70-be87-d4df54ebb12f/pr_source.png/900x0w.png'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/e6/ed/ec/e6edecdb-78ce-6cfe-4fde-470c7cee306a/pr_source.png/900x0w.png'><code>Screenshot 5</code></a> <br></details>
 
 - GitHawk: GitHub project manager [` App Store`](https://itunes.apple.com/app/githawk-for-github/id1252320249)  
-  <details><summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> ⭐⭐⭐⭐</summary>
+  <details><summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> ⭐⭐⭐⭐⭐</summary>
 
   https://github.com/GitHawkApp/GitHawk<br>  Added July  5, 2017<br>  License: `other`
 <a href='http://i.imgur.com/XwW4MI2.png'><code>Screenshot 1</code></a> <a href='http://i.imgur.com/sFgTFJX.png'><code>Screenshot 2</code></a> <br></details>
@@ -603,7 +603,7 @@ Click ► to show more details
 <a href='https://github.com/JustinFincher/GitHubContributionsiOS/raw/master/Sketch/GitHub-Contributions.jpg'><code>Screenshot 1</code></a> <br></details>
 
 - Fojusi: Work timer with Today Extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693)  
-  <details><summary><code>swift</code> ⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐</summary>
 
   https://github.com/dasdom/Tomate<br>  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a4.mzstatic.com/us/r30/Purple32/v4/cd/ac/98/cdac9892-c5e1-9389-6efe-ef31a90daaf4/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple6/v4/6c/c1/1b/6cc11bb2-5f1e-693c-f05c-313034b0194a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/05/67/17/05671722-b9e9-0698-7725-59ff117e377d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/8c/2c/a0/8c2ca0be-628e-4daa-0911-bdf0b58318e1/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
@@ -1248,7 +1248,7 @@ Image, video, audio, reading — [back to top](#readme)
 <a href='http://a2.mzstatic.com/us/r30/Purple5/v4/9d/27/83/9d27832d-3c16-a64e-f3a2-7e3fbd5cc2b5/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple5/v4/ec/74/2a/ec742a14-e875-2070-178b-948def533d2e/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/9d/c4/58/9dc45823-97bd-296d-0126-fc9e86879d87/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/9f/aa/5f/9faa5ff9-d299-9859-8c8c-00d680d26dd6/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple5/v4/80/1f/f7/801ff748-97f6-9092-0b7d-dda68070de3d/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
 
 - Reading List: Track personal reading lists [` App Store`](https://itunes.apple.com/app/reading-list-a-book-tracking-log/id1217139955)  
-  <details><summary><code>swift</code> <code>iphone</code> <code>ipad</code> <code>core-data</code> </summary>
+  <details><summary><code>swift</code> <code>iphone</code> <code>ipad</code> <code>core-data</code> ⭐</summary>
 
   https://github.com/AndrewBennet/readinglist<br>  Added July 21, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br></details>
 
@@ -1782,7 +1782,7 @@ https://mastodon.social — [back to top](#readme)
 [back to top](#readme) 
  
 - Fojusi: Work timer with Today Extension [` App Store`](https://itunes.apple.com/app/fojusi/id923044693)  
-  <details><summary><code>swift</code> ⭐⭐</summary>
+  <details><summary><code>swift</code> ⭐⭐⭐</summary>
 
   https://github.com/dasdom/Tomate<br>  Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a4.mzstatic.com/us/r30/Purple32/v4/cd/ac/98/cdac9892-c5e1-9389-6efe-ef31a90daaf4/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple6/v4/6c/c1/1b/6cc11bb2-5f1e-693c-f05c-313034b0194a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/05/67/17/05671722-b9e9-0698-7725-59ff117e377d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/8c/2c/a0/8c2ca0be-628e-4daa-0911-bdf0b58318e1/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
