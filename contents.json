@@ -2055,6 +2055,25 @@
       ]
     },
     {
+      "title": "Essentia",
+      "category-ids": [
+        "cryptocurrency"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Multi wallet, All in one Blockchain solution",
+      "license": "gpl-3.0",
+      "source": "https://github.com/essentiaone/Essentia-iOS",
+      "itunes": "https://itunes.apple.com/app/essentia/id1438535734",
+      "screenshots": [
+        "https://clogos.essdev.info/ios/iOS_code_Essentia.png"
+      ],
+      "stars": 5,
+      "date_added": "Sat Mar 30 00:39:19 2019 +0200",
+      "suggested_by": "@impul"
+    },
+    {
       "title": "Bread",
       "category-ids": [
         "cryptocurrency"
