@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-867-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%201,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-868-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%202,%202019-lightgrey.svg)
 
 Jump to
 
@@ -1611,6 +1611,12 @@ Click ► to show more details
 
   https://github.com/breadwallet/breadwallet-ios<br>  Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg'><code>Screenshot 1</code></a> <br></details>
+
+- Essentia: Multi wallet, All in one Blockchain solution [` App Store`](https://itunes.apple.com/app/essentia/id1438535734)  
+  <details><summary><code>swift</code> </summary>
+
+  https://github.com/essentiaone/Essentia-iOS<br>  Added March 30, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<a href='https://clogos.essdev.info/ios/iOS_code_Essentia.png'><code>Screenshot 1</code></a> <br></details>
 
 - Trust: Ethereum Wallet and Web3 DApp Browser [` App Store`](https://itunes.apple.com/app/trust-ethereum-wallet/id1288339409)  
   <details><summary><code>swift</code> ⭐⭐⭐⭐</summary>
