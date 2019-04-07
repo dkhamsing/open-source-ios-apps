@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-868-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%202,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-869-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%207,%202019-lightgrey.svg)
 
 Jump to
 
@@ -567,6 +567,12 @@ Click ► to show more details
 
   https://github.com/ivsall2012/AHPinterest<br>  Added May 11, 2017<br>  License: `other`
 <a href='https://github.com/ivsall2012/AHPinterest/blob/master/AHPinterset.png?raw=true'><code>Screenshot 1</code></a> <br></details>
+
+- Podcasts: A clone of Apple's Podcasts  
+  <details><summary><code>swift</code> <code>rxswift</code> </summary>
+
+  https://github.com/Karambirov/Podcasts<br>  Added April  7, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'><code>Screenshot 4</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'><code>Screenshot 5</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'><code>Screenshot 6</code></a> <br></details>
 
 - Snake Classic: A snake engine for all Apple devices  
   <details><summary><code>swift</code> </summary>
@@ -2647,6 +2653,12 @@ Image, video, audio, reading — [back to top](#readme)
   https://github.com/jkandzi/Monotone-Delay<br>  http://monotone.justuskandzi.com<br>  Added December 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/7d/be/82/7dbe82a0-26a2-ec64-2804-47de55caa190/screen520x924.jpeg'><code>Screenshot 1</code></a> <br></details>
 
+- Podcasts: A clone of Apple's Podcasts  
+  <details><summary><code>swift</code> <code>rxswift</code> </summary>
+
+  https://github.com/Karambirov/Podcasts<br>  Added April  7, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'><code>Screenshot 4</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'><code>Screenshot 5</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'><code>Screenshot 6</code></a> <br></details>
+
 - Prodigal Music Player [` App Store`](https://itunes.apple.com/app/kuansun/id1231296263)  
   <details><summary><code>swift</code> <code>snapkit</code> <code>haneke</code> <code>koloda</code> </summary>
 
@@ -3402,6 +3414,12 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/jdisho/Papr<br>  Added April 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
 <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'><code>Screenshot 2</code></a> <br></details>
+
+- Podcasts: A clone of Apple's Podcasts  
+  <details><summary><code>swift</code> <code>rxswift</code> </summary>
+
+  https://github.com/Karambirov/Podcasts<br>  Added April  7, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'><code>Screenshot 4</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'><code>Screenshot 5</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'><code>Screenshot 6</code></a> <br></details>
 
 - RxCurrency: Currency converter for ReactiveX  
   <details><summary><code>swift</code> <code>swift3</code> </summary>
