@@ -17554,6 +17554,32 @@
       "date_added": "Mar 29 2019",
       "suggested_by": "@dkhamsing",
       "stars": 287
+    },
+    {
+      "title": "Podcasts",
+      "category-ids": [
+        "audio", 
+        "clone", 
+        "rxswift"
+      ],
+      "description": "A clone of Apple's Podcasts",
+      "source": "https://github.com/Karambirov/Podcasts",
+      "license": "mit",
+      "tags": [
+        "swift", 
+        "rxswift"
+      ],
+      "screenshots": [
+        "https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png",
+        "https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png",
+        "https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png",
+        "https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png",
+        "https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png",
+        "https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png"
+      ],
+      "date_added": "Apr 7 2019",
+      "suggested_by": "@Karambirov",
+      "stars": 7
     }
   ]
 }
