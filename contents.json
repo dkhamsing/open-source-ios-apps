@@ -17559,13 +17559,18 @@
     {
       "title": "Podcasts",
       "category-ids": [
-        "audio", "clone", "media", "rxswift"
+        "audio", 
+        "clone", 
+        "media", 
+        "rxswift"
       ],
       "description": "A clone of Apple's Podcasts",
       "source": "https://github.com/Karambirov/Podcasts",
       "license": "mit",
       "tags": [
-        "swift", "rxswift", "itunes"
+        "swift", 
+        "rxswift", 
+        "itunes"
       ],
       "screenshots": [
         "https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png",
