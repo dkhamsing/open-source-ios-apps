@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-869-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%207,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-870-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%208,%202019-lightgrey.svg)
 
 Jump to
 
@@ -561,6 +561,12 @@ Click ► to show more details
 
   https://github.com/devxoul/graygram-ios<br>  Added March 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <a href='https://cloud.githubusercontent.com/assets/931655/23171892/4d3fd606-f897-11e6-87e0-7230d3010c7b.png'><code>Screenshot 1</code></a> <br></details>
+
+- Legend-Wings: A clone of EverWing game. Survive as much you can, earn gold, and upgrade/purchase new characters  
+  <details><summary><code>swift</code> <code>spritekit</code> ⭐⭐</summary>
+
+  https://github.com/woguan/Legend-Wings<br>  Added April  8, 2019<br>  License: `other`
+<a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-1.gif?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-2.gif?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-3.gif?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-4.gif?raw=true'><code>Screenshot 4</code></a> <br></details>
 
 - Pinterest  
   <details><summary><code>swift</code> </summary>
@@ -1806,6 +1812,12 @@ Click ► to show more details
 
   https://github.com/huygithub/hoxChess<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='http://a5.mzstatic.com/us/r30/Purple4/v4/3a/ac/87/3aac87ca-d5cc-9bea-3899-807cf211da85/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/d8/75/0d/d8750d68-3619-b760-99c5-ec4eac12ae35/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple3/v4/41/9c/d3/419cd344-da8a-f046-3bcf-757f6f10768d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/11/28/6e/11286e79-b0b0-1057-7315-3e122a15a62c/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple4/v4/ca/99/1e/ca991e9e-1fe3-8764-b7f9-5c38b4c6e565/screen696x696.jpeg'><code>Screenshot 5</code></a> <br></details>
+
+- Legend-Wings: A clone of EverWing game. Survive as much you can, earn gold, and upgrade/purchase new characters  
+  <details><summary><code>swift</code> <code>spritekit</code> ⭐⭐</summary>
+
+  https://github.com/woguan/Legend-Wings<br>  Added April  8, 2019<br>  License: `other`
+<a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-1.gif?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-2.gif?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-3.gif?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-4.gif?raw=true'><code>Screenshot 4</code></a> <br></details>
 
 - littlego: Game of Go [` App Store`](https://itunes.apple.com/app/little-go/id490753989)  
   <details><summary><code>iphone</code> <code>ipad</code> </summary>
