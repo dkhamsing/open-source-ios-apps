@@ -17580,6 +17580,29 @@
       "date_added": "Apr 7 2019",
       "suggested_by": "@Karambirov",
       "stars": 7
+    },
+    {
+      "title": "Legend-Wings",
+      "category-ids": [
+        "game",
+        "clone"
+      ],
+      "description": "A clone of EverWing game. Survive as much you can, earn gold, and upgrade/purchase new characters",
+      "source": "https://github.com/woguan/Legend-Wings",
+      "license": "other",
+      "tags": [
+        "swift",
+        "spritekit"
+      ],
+      "screenshots": [
+          "https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-1.gif?raw=true",
+          "https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-2.gif?raw=true",
+          "https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-3.gif?raw=true",
+          "https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-4.gif?raw=true"
+      ],
+      "date_added": "Apr 8 2019",
+      "suggested_by": "@vpeschenkov",
+      "stars": 404
     }
   ]
 }
