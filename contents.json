@@ -17603,6 +17603,24 @@
       "date_added": "Apr 8 2019",
       "suggested_by": "@vpeschenkov",
       "stars": 404
+    },
+    {
+      "title": "TermiWatch",
+      "category-ids": [
+          "apple-watch"
+      ],
+      "description": "A terminal face for Apple Watch",
+      "source": "https://github.com/kuglee/TermiWatch",
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+          "https://raw.githubusercontent.com/kuglee/TermiWatch/master/Screenshots/44mm.png"
+      ],
+      "date_added": "Apr 8 2019",
+      "suggested_by": "@vpeschenkov",
+      "stars": 203
     }
   ]
 }
