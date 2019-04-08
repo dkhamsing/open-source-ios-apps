@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-870-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%208,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-871-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%208,%202019-lightgrey.svg)
 
 Jump to
 
@@ -317,6 +317,12 @@ Click ► to show more details
 
   https://github.com/eonist/summon<br>  Added September  3, 2018<br>  License: `other`
 <a href='https://raw.githubusercontent.com/stylekit/img/master/summon_deck_dark_5.png'><code>Screenshot 1</code></a> <br></details>
+
+- TermiWatch: A terminal face for Apple Watch  
+  <details><summary><code>swift</code> ⭐⭐</summary>
+
+  https://github.com/kuglee/TermiWatch<br>  Added April  8, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://raw.githubusercontent.com/kuglee/TermiWatch/master/Screenshots/44mm.png'><code>Screenshot 1</code></a> <br></details>
 
 - try! Swift NYC  
   <details><summary><code>swift</code> <code>toucan</code> <code>realm</code> ⭐</summary>
