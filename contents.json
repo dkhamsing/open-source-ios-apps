@@ -14345,7 +14345,7 @@
       "itunes": "https://itunes.apple.com/app/pass-password-store/id1205820573",
       "description": "Client for the Pass command line app https://www.passwordstore.org/",
       "category-ids": [
-        "security"
+        "password"
       ],
       "tags": [
         "swift",
