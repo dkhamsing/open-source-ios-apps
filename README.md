@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-871-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%208,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-871-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2013,%202019-lightgrey.svg)
 
 Jump to
 
@@ -3786,12 +3786,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
   https://github.com/padlock/padlock<br>  https://padlock.io/<br>  Added April  4, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/af/bd/5d/afbd5d00-6c4d-8edf-ff9b-552df523d573/mzl.fszireix.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/6d/82/e2/6d82e289-2522-38f2-9473-65f41700ba12/mzl.xvlxfqzn.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c4/f8/9c/c4f89c59-827f-3b1f-c426-3964c52ab4ac/mzl.pdmecikv.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/5a/9e/18/5a9e1873-9ac8-80d7-0fc9-64d3ad8784e8/mzl.zwomnhtr.png/460x0w.jpg'><code>Screenshot 4</code></a> <br></details>
-
-- pass: password-store app  
-  <details><summary><code>objc++</code> <code>touchid</code> </summary>
-
-  https://github.com/davidjb/pass-ios<br>  https://www.passwordstore.org/<br>  Added November  8, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-<a href='https://github.com/davidjb/pass-ios/raw/master/screenshots/1_main_screen.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/davidjb/pass-ios/raw/master/screenshots/3_entry.png?raw=true'><code>Screenshot 2</code></a> <br></details>
 
 - PassDrop: Keepass password manager [` App Store`](https://itunes.apple.com/app/passdrop-2/id1206056096)  
   <details><summary><code>openssl</code> </summary>
