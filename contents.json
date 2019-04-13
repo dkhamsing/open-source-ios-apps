@@ -12340,6 +12340,30 @@
       "stars": 66
     },
     {
+      "title": "Pass for iOS",
+      "description": "Client compatible with the Pass command line application",
+      "category-ids": [
+        "password"
+      ],
+      "source": "https://github.com/mssun/passforios",
+      "itunes": "https://itunes.apple.com/app/pass-password-store/id1205820573",
+      "homepage": "https://mssun.github.io/passforios",
+      "screenshots": [
+        "https://github.com/mssun/passforios/raw/master/screenshot/screenshot1.png?raw=true",
+        "https://github.com/mssun/passforios/raw/master/screenshot/screenshot2.png?raw=true",
+        "https://github.com/mssun/passforios/raw/master/screenshot/screenshot3.png?raw=true"
+      ],
+      "tags": [
+        "swift",
+        "objective-git",
+        "ObjectivePGP"
+      ],
+      "license": "mit",
+      "date_added": "Apr 13 2019",
+      "suggested_by": "@SimplyDanny",
+      "stars": 607
+    },
+    {
       "title": "try! Swift NYC",
       "source": "https://github.com/tryswift/trySwiftNYC",
       "category-ids": [
