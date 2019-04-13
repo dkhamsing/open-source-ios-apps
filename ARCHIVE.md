@@ -133,6 +133,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Parse Dashboard https://github.com/nathantannar4/Parse-Dashboard-for-iOS
 - Parse-Challenge-App https://github.com/TomekB/Parse-Challenge-App
 - ParseStore https://github.com/opensourceios/ParseStore
+- pass https://github.com/davidjb/pass-ios
 - pathlogger https://github.com/eugenpirogoff/pathlogger
 - Paws http://www.appcoda.com/instagram-app-parse-swift/
 - PencilAnnotator https://github.com/kevinzhangftw/PencilAnnotator
