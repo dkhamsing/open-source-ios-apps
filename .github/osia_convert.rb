@@ -2,16 +2,14 @@ require_relative 'osia_helper'
 require 'date'
 
 README = 'README.md'
-
 ARCHIVE = 'ARCHIVE.md'
-ARCHIVE_TAG = 'archive'
-
 APPSTORE = 'APPSTORE.md'
 
 NOT_ENGLISH = '🌐'
+ARCHIVE_TAG = 'archive'
 
 def apps_archived(apps)
-  a = apps.select {|a| a['tags'] != nil }.select {|b| b['tags'].include?ARCHIVE_TAG}
+  a = apps.select { |a| a['tags'] != nil }.select { |b| b['tags'].include?(ARCHIVE_TAG) }
   a.sort_by { |k, v| k['title'].downcase }
 end
 
@@ -22,7 +20,7 @@ def apps_for_cat(apps, id)
     if tags.nil?
       true
     else
-      !(tags.include? ARCHIVE_TAG)
+      !(tags.include?(ARCHIVE_TAG))
     end
   end
 
@@ -44,7 +42,7 @@ def app_store_total(j)
       t = "#{count} "
       count = count + 1
     else
-      unless tags.include? 'archive'
+      unless tags.include?(ARCHIVE_TAG)
         t = "#{count} #{tags}"
         count = count + 1
       end
@@ -87,16 +85,14 @@ def output_apps(apps, appstoreonly)
     end
 
     o << "- #{t} \n"
-
     o <<  "  <details><summary>"
 
-    details = ''
+    details = ""
 
     unless tags.nil?
       details << '<code>swift</code> ' if tags.include? 'swift'
-
       tags.each do |t|
-        details << "<code>#{t.downcase}</code> " if t.downcase!='swift'
+        details << "<code>#{t.downcase}</code> " if t.downcase != 'swift'
       end
     end
 
@@ -124,7 +120,7 @@ def output_apps(apps, appstoreonly)
     end
 
     unless license.nil?
-      license_display = license=='other'? "`#{license}`" : "[`#{license}`](http://choosealicense.com/licenses/#{license}/)"
+      license_display = license == 'other' ? "`#{license}`" : "[`#{license}`](http://choosealicense.com/licenses/#{license}/)"
       details_list.push "License: #{license_display}"
     end
 
@@ -133,6 +129,7 @@ def output_apps(apps, appstoreonly)
     details_list[1..-1].each { |x| details << "<br>  #{x}" }
 
     unless screenshots.nil? || screenshots.empty?
+      details << "<br>"
       details << "\n"
       screenshots.each_with_index do |s, i|
         details << "<a href='#{screenshots[i]}'><code>Screenshot #{i+1}</code></a> "
@@ -211,7 +208,7 @@ def write_list(j, file, appstoreonly = false)
     title = c['title']
     m = title.match /\[.*?\]/
     title = m[0].sub('[', '').sub(']', '') unless m.nil?
-    temp = "#{'  ' unless c['parent']==nil }- [#{title}](\##{c['id']}) \n"
+    temp = "#{'  ' unless c['parent'] == nil }- [#{title}](\##{c['id']}) \n"
     output << temp
   end
 
