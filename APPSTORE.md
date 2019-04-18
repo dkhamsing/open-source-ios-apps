@@ -199,7 +199,7 @@ Click ► to show more details
 - Free42: A re-implementation of the HP-42S Calculator & the HP-82240 printer [` App Store`](https://itunes.apple.com/app/id337692629)  
   <details><summary><code>objc</code> </summary>
 
-  http://thomasokken.com/free42/download/free42.tgz<br>  http://thomasokken.com/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
+  https://thomasokken.com/free42/download/free42.tgz<br>  https://thomasokken.com/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 <a href='http://a1.mzstatic.com/us/r30/Purple3/v4/a4/bd/1e/a4bd1e5c-a158-7669-76c9-915c3b41ecec/screen568x568.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 - Round & Split: Tip Calculator [` App Store`](https://itunes.apple.com/app/round-split/id912288737)  
@@ -293,10 +293,10 @@ Click ► to show more details
   https://github.com/mumble-voip/mumble-iphoneos<br>  Added September 10, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
 <a href='http://a3.mzstatic.com/us/r30/Purple19/v4/cd/72/30/cd723067-64a5-ba1c-bacf-7d3ac967fcf6/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple71/v4/85/8f/07/858f0765-90e5-7924-a856-c69debad6822/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple19/v4/ac/a7/5c/aca75cef-caa0-417e-9542-6e819ad02c2b/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple71/v4/41/1a/5b/411a5be1-031f-ff95-b981-f93da80c0f9c/screen696x696.jpeg'><code>Screenshot 4</code></a> <br></details>
 
-- Riot: Collaboration for teams, chat & share with https://matrix.org/blog/home/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
+- Riot: Collaboration for teams, chat & share with https://matrix.org/blog/index [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details><summary><code>objc</code> <code>webrtc</code> <code>realm</code> ⭐⭐</summary>
 
-  https://github.com/vector-im/riot-ios<br>  https://matrix.org/blog/home/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+  https://github.com/vector-im/riot-ios<br>  https://matrix.org/blog/index<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 <a href='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 - Rocket.Chat: Meteor chat platform app [` App Store`](https://itunes.apple.com/app/rocket-chat/id1148741252)  
@@ -1761,7 +1761,7 @@ https://mastodon.social — [back to top](#readme)
 - Joplin: Joplin is a free note taking and to-do application with synchronisation capabilities, which can handle a large number of notes organised into notebooks. [` App Store`](https://itunes.apple.com/app/joplin/id1315599797)  
   <details><summary><code>react-native</code> ⭐⭐⭐⭐⭐</summary>
 
-  https://github.com/laurent22/joplin<br>  https://joplin.cozic.net/<br>  Added January  4, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+  https://github.com/laurent22/joplin<br>  https://joplinapp.org/<br>  Added January  4, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/db/aa/50/dbaa50be-e23a-d283-da53-f8cd9528c169/pr_source.jpg/300x0w.jpg'><code>Screenshot 1</code></a> <br></details>
 
 - Loose Leaf: Take notes, import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
@@ -1997,10 +1997,10 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
  
 https://realm.io/ — [back to top](#readme) 
  
-- Riot: Collaboration for teams, chat & share with https://matrix.org/blog/home/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
+- Riot: Collaboration for teams, chat & share with https://matrix.org/blog/index [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details><summary><code>objc</code> <code>webrtc</code> <code>realm</code> ⭐⭐</summary>
 
-  https://github.com/vector-im/riot-ios<br>  https://matrix.org/blog/home/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+  https://github.com/vector-im/riot-ios<br>  https://matrix.org/blog/index<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 <a href='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 
