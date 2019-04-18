@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-871-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2017,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-871-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2018,%202019-lightgrey.svg)
 
 Jump to
 
@@ -432,7 +432,7 @@ Click ► to show more details
 - Free42: A re-implementation of the HP-42S Calculator & the HP-82240 printer [` App Store`](https://itunes.apple.com/app/id337692629)  
   <details><summary><code>objc</code> </summary>
 
-  http://thomasokken.com/free42/download/free42.tgz<br>  http://thomasokken.com/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
+  https://thomasokken.com/free42/download/free42.tgz<br>  https://thomasokken.com/free42/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 <a href='http://a1.mzstatic.com/us/r30/Purple3/v4/a4/bd/1e/a4bd1e5c-a158-7669-76c9-915c3b41ecec/screen568x568.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 - IBCalculator  
@@ -716,10 +716,10 @@ Click ► to show more details
   https://www.raywenderlich.com/5359-firebase-tutorial-real-time-chat<br>  Added November 11, 2016<br>  License: `other`<br>
 <a href='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'><code>Screenshot 1</code></a> <br></details>
 
-- Riot: Collaboration for teams, chat & share with https://matrix.org/blog/home/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
+- Riot: Collaboration for teams, chat & share with https://matrix.org/blog/index [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details><summary><code>objc</code> <code>webrtc</code> <code>realm</code> ⭐⭐</summary>
 
-  https://github.com/vector-im/riot-ios<br>  https://matrix.org/blog/home/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+  https://github.com/vector-im/riot-ios<br>  https://matrix.org/blog/index<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 <a href='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 - Rocket.Chat: Meteor chat platform app [` App Store`](https://itunes.apple.com/app/rocket-chat/id1148741252)  
@@ -4037,7 +4037,7 @@ https://mastodon.social — [back to top](#readme)
 - Joplin: Joplin is a free note taking and to-do application with synchronisation capabilities, which can handle a large number of notes organised into notebooks. [` App Store`](https://itunes.apple.com/app/joplin/id1315599797)  
   <details><summary><code>react-native</code> ⭐⭐⭐⭐⭐</summary>
 
-  https://github.com/laurent22/joplin<br>  https://joplin.cozic.net/<br>  Added January  4, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+  https://github.com/laurent22/joplin<br>  https://joplinapp.org/<br>  Added January  4, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/db/aa/50/dbaa50be-e23a-d283-da53-f8cd9528c169/pr_source.jpg/300x0w.jpg'><code>Screenshot 1</code></a> <br></details>
 
 - Loose Leaf: Take notes, import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
@@ -4384,7 +4384,7 @@ https://mastodon.social — [back to top](#readme)
   <details><summary><code>swift</code> <code>protobuf</code> ⭐⭐</summary>
 
   https://github.com/google/science-journal-ios<br>  Added March 29, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-<a href='https://raw.githubusercontent.com/google/science-journal-ios/master/assets/image1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/google/science-journal-ios/master/assets/image2.png'><code>Screenshot 2</code></a> <br></details>
+<a href='https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image3.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image4.png'><code>Screenshot 4</code></a> <br></details>
 
 - SUSI AI: Your Artificial Intelligence for Personal Assistants, Robots, Help Desks and Chatbots  
   <details><summary><code>swift</code> ⭐⭐⭐⭐</summary>
@@ -4928,10 +4928,10 @@ https://realm.io/ — [back to top](#readme)
 
   https://github.com/pietbrauer/RealmToDo<br>  Added July 31, 2015<br>  License: `other`<br></details>
 
-- Riot: Collaboration for teams, chat & share with https://matrix.org/blog/home/ [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
+- Riot: Collaboration for teams, chat & share with https://matrix.org/blog/index [` App Store`](https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details><summary><code>objc</code> <code>webrtc</code> <code>realm</code> ⭐⭐</summary>
 
-  https://github.com/vector-im/riot-ios<br>  https://matrix.org/blog/home/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+  https://github.com/vector-im/riot-ios<br>  https://matrix.org/blog/index<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 <a href='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'><code>Screenshot 1</code></a> <br></details>
 
 - Santa Tracker  
