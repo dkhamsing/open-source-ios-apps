@@ -17549,8 +17549,10 @@
         "protobuf"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/google/science-journal-ios/master/assets/image1.png",
-        "https://raw.githubusercontent.com/google/science-journal-ios/master/assets/image2.png"
+        "https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image1.png",
+        "https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image2.png",
+	"https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image3.png",
+	"https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image4.png"
       ],
       "date_added": "Mar 29 2019",
       "suggested_by": "@dkhamsing",
