@@ -10994,9 +10994,9 @@
         "webrtc",
         "realm"
       ],
-      "description": "Collaboration for teams, chat & share with http://matrix.org/blog/index",
+      "description": "Collaboration for teams, chat & share with https://matrix.org/blog/index",
       "source": "https://github.com/vector-im/riot-ios",
-      "homepage": "http://matrix.org/blog/index",
+      "homepage": "https://matrix.org/blog/index",
       "itunes": "https://itunes.apple.com/us/app/vector-open-source-collaboration/id1083446067",
       "license": "apache-2.0",
       "stars": 345,
