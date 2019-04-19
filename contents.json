@@ -2065,7 +2065,7 @@
       "description": "Multi wallet, All in one Blockchain solution",
       "license": "gpl-3.0",
       "source": "https://github.com/essentiaone/Essentia-iOS",
-      "itunes": "https://itunes.apple.com/app/essentia/id1438535734",
+      "itunes": "https://itunes.apple.com/ua/app/essentia/id1438535734",
       "screenshots": [
         "https://clogos.essdev.info/ios/iOS_code_Essentia.png"
       ],
@@ -15985,7 +15985,6 @@
       ],
       "description": "Create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch",
       "source": "https://github.com/roymckenzie/Go-Flashcards",
-      "itunes": "https://itunes.apple.com/app/go-flashcards/id991657053",
       "license": "gpl-2.0",
       "stars": 22,
       "tags": [
@@ -17288,7 +17287,6 @@
       "description": "Banksy Shredder",
       "source": "https://github.com/marty-suzuki/ArtShredder",
       "homepage": "https://marty-suzuki.github.io/ArtShredder/",
-      "itunes": "https://itunes.apple.com/app/id1439126672",
       "license": "mit",
       "lang": "zho",
       "stars": 27,
