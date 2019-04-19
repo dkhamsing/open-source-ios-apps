@@ -3257,7 +3257,8 @@
       "source": "https://github.com/ChrisChares/swift-alarm",
       "stars": 193,
       "tags": [
-        "swift"
+        "swift",
+	"archive"
       ],
       "date_added": "Fri Mar 27 07:13:00 2015 -0700",
       "suggested_by": "@dkhamsing"
