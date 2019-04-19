@@ -601,14 +601,6 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [Colo](https://github.com/wongzigii/Colo): Color themes hunter  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	Added March 16, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://github.com/wongzigii/Colo/raw/master/Assets/screenshot1.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [GammaThingy](https://github.com/thomasfinch/GammaThingy): Change screen gamma dynamically  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐</summary>
@@ -1450,7 +1442,7 @@ Click ► to show more details
 	<a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'><code>Screenshot 4</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'><code>Screenshot 5</code></a> 
   </details>
 
-- [Go Flashcards](https://github.com/roymckenzie/Go-Flashcards): Create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch [` App Store`](https://itunes.apple.com/app/go-flashcards/id991657053)  
+- [Go Flashcards](https://github.com/roymckenzie/Go-Flashcards): Create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch  
   <details>
 	<summary><code>swift</code> <code>realm</code> <code>watchos</code> <code>cloudkit</code> <code>spotlight</code> </summary>
 
@@ -2112,7 +2104,7 @@ Click ► to show more details
 	<a href='http://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Essentia](https://github.com/essentiaone/Essentia-iOS): Multi wallet, All in one Blockchain solution [` App Store`](https://itunes.apple.com/app/essentia/id1438535734)  
+- [Essentia](https://github.com/essentiaone/Essentia-iOS): Multi wallet, All in one Blockchain solution [` App Store`](https://itunes.apple.com/ua/app/essentia/id1438535734)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -2920,13 +2912,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://media.giphy.com/media/uSyooIBl2qBHi/giphy.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers  
-  <details>
-	<summary><code>swift</code> ⭐</summary>
-
-	Added March 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
 - [Cepp](https://github.com/filipealva/Cepp): Find information on addresses  
   <details>
 	<summary><code>swift</code> <code>afnetworking</code> 🌐 </summary>
@@ -3546,7 +3531,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='http://a5.mzstatic.com/us/r30/Purple60/v4/1e/82/3b/1e823b8a-d10c-2085-2063-1d18ba68ce2e/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [ArtShredder](https://github.com/marty-suzuki/ArtShredder): Banksy Shredder [` App Store`](https://itunes.apple.com/app/id1439126672)  
+- [ArtShredder](https://github.com/marty-suzuki/ArtShredder): Banksy Shredder  
   <details>
 	<summary><code>swift</code> <code>arkit</code> <code>banksy</code> 🌐 </summary>
 
@@ -3842,7 +3827,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [ArtShredder](https://github.com/marty-suzuki/ArtShredder): Banksy Shredder [` App Store`](https://itunes.apple.com/app/id1439126672)  
+- [ArtShredder](https://github.com/marty-suzuki/ArtShredder): Banksy Shredder  
   <details>
 	<summary><code>swift</code> <code>arkit</code> <code>banksy</code> 🌐 </summary>
 
@@ -5400,13 +5385,6 @@ https://mastodon.social — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Alarm](https://github.com/ChrisChares/swift-alarm): Geolocation based alarm app for travelers  
-  <details>
-	<summary><code>swift</code> ⭐</summary>
-
-	Added March 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
 - [Californication](https://github.com/vanyaland/Californication): Discover only the best points of interest in the California  
   <details>
 	<summary><code>swift</code> </summary>
