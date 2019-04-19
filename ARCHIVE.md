@@ -2,220 +2,221 @@
 
 This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.
 
-- 2048 https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/2048
-- A Menjar https://github.com/maurovc/aMenjar
-- Abby's Cycle https://github.com/jc4p/abby-healthkit
-- ABU https://github.com/flexih/ABU
-- Adler Planetarium Navigation & Tour https://github.com/lucasqiu/Adler-Mobile-App
-- AlcatrazTour https://github.com/haranicle/AlcatrazTour
-- Alien Blue https://github.com/alienblue/AlienBlue
-- Alphabet-Blocks https://github.com/insurgentgames/Alphabet-Blocks
-- AlzPrevent https://github.com/BBBInc/AlzPrevent-ios
-- AntiMap https://github.com/trentbrooks/AntiMap
-- Anypic https://github.com/opensourceios/Anypic
-- AnyWall https://github.com/opensourceios/AnyWall
-- apnagent-ios https://github.com/logicalparadox/apnagent-ios
-- AppleWatchProductHunt https://github.com/BalestraPatrick/AppleWatchProductHunt
-- AppSales-Mobile https://github.com/omz/AppSales-Mobile
-- AppSlate https://github.com/Taehan-Kim/AppSlate
-- Around Me https://github.com/bgryszko/react-native-example
-- audiograph https://github.com/tkzic/audiograph
-- Awesome Mobile Conference https://github.com/aweconf/iOS
-- Awesome Swift iOS App https://github.com/matteocrippa/awesome-swift-ios
-- Bancha https://github.com/squallstar/bancha-ios-app
-- Battle for Wesnoth https://github.com/dailin/wesnoth_ios
-- Be my eyes https://github.com/opensourceios/bemyeyes-ios
-- Bequest https://github.com/splinesoft/Bequest
-- boilerplate https://github.com/tailec/boilerplate
-- Brew https://github.com/contentful/ContentfulWatchKitExample
-- Bridges https://github.com/zgrossbart/bridges
-- Calculator by noodlewerk https://github.com/noodlewerk/Apple_Watch_Calculator
-- Calvin and Hobbes Comic Viewer https://github.com/sciencemanx/Calvin-and-Hobbes-Viewer
-- CamLingual https://github.com/yoshiokatsuneo/camlingual_iphone
-- CamShift https://github.com/shihongzhi/CamShift-on-iOS
-- Canvas https://github.com/usecanvas/ios-v1
-- Cheddar https://github.com/nothingmagical/cheddar-ios
-- Cherry https://github.com/kenshin03/Cherry
-- Chess https://github.com/mjcuva/Chess
-- ChineseZodiac https://github.com/JakeLin/ChineseZodiac
-- ClickWheelKeyboard https://github.com/b3ll/ClickWheelKeyboard
-- climbers https://github.com/haqu/climbers
-- Closebox https://github.com/opensourceios/Closebox
-- CloudKit-To-Do-List https://github.com/anthonygeranio/CloudKit-To-Do-List
-- Codinator https://github.com/DanilaVladi/codinator
-- Coins https://github.com/nothingmagical/coins
-- CoinTracker https://github.com/gregheo/CoinTracker
-- CollageMaker https://github.com/Azoft/CollageMaker-iOS
-- ColorCipher https://github.com/obviousjim/ColorCipher
-- Communiqué https://github.com/zadr/Communique
-- Compass https://github.com/zntfdr/Compass
-- Concurrency https://github.com/opensourceios/Concurrency
-- Connectivity Demo https://github.com/swilliams/watchkit-connectivity-demo
-- Conway's Game of Life https://github.com/yonbergman/swift-gameoflife
-- CoolSpot https://github.com/neonichu/CoolSpot
-- Cryptose https://github.com/insurgentgames/Cryptose
-- Currency Converter https://github.com/ashwinpreet/ReactNativeExamples
-- Danbooru Lite https://github.com/satishbabariya/Danbooru-Lite
-- DesireKeyboard https://github.com/noppefoxwolf/DesireKeyboard
-- Dicershaker https://github.com/millenomi/diceshaker
-- Dollar Bets https://github.com/Rich86man/Dollar-Bets
-- Dono https://github.com/opensourceios/dono-ios
-- doughwallet https://github.com/peritus/doughwallet
-- Dragon Shout https://github.com/rblalock/dragon_shout_app_open_source
-- DrugsNRock https://github.com/biou/DrugsNRock
-- DWA Mobile https://github.com/DesktopWebAnalytics/DWA_Mobile
-- Eleven https://github.com/opensourceios/Eleven
-- Endless Browser https://github.com/jcs/endless
-- Everest https://github.com/EverestOpenSource/Everest-iOS
-- Facebook Login https://github.com/brentvatne/react-native-login
-- Federal Data SDK https://github.com/USDepartmentofLabor/Swift-Sample-App
-- FinalFighter https://github.com/sebcode/FinalFighter-iphone
-- Flickr-Search https://github.com/alikaragoz/Flickr-Search
-- FlickrWatch https://github.com/jazzychad/FlickrWatch
-- Forecast https://github.com/richardxyx/Forecast
-- Foreign Exchange https://github.com/peralmq/ForeignExchangeApp
-- fosdem https://github.com/leonhandreke/fosdem
-- Fresh-Food-Finder https://github.com/triceam/Fresh-Food-Finder
-- fudge https://github.com/FredericJacobs/fudge
-- Furni https://github.com/opensourceios/furni-ios
-- gbible https://github.com/photokandyStudios/gbible
-- GitBucket https://github.com/leichunfeng/MVVMReactiveCocoa
-- github-issues https://github.com/chriseidhof/github-issues
-- Google Feud https://github.com/opensourceios/Google-Feud-iOS
-- Gorillas https://github.com/Lyndir/Gorillas
-- GrandCentralBoard https://github.com/macoscope/GrandCentralBoard
-- GroceryList https://github.com/jspahrsummers/GroceryList
-- GrubbyWorm https://github.com/gamechina/GrubbyWorm
-- Hack Cancer Hackathon https://github.com/HackCancer/iOS
-- Hacker News app by jsdf https://github.com/jsdf/ReactNativeHackerNews
-- Hacker News Client https://github.com/bonzoq/hniosreader
-- HackerNews (Y) https://github.com/vetri02/HackerNews
-- HausClock https://github.com/nottombrown/HausClock
-- Helio Workstation https://github.com/helio-fm/helio-workstation
-- HighStreet https://github.com/GetHighstreet/HighstreetWatchApp
-- HN-App https://github.com/NikantVohra/HackerNewsClient-iOS
-- Hodor https://github.com/jonomuller/Hodor-Keyboard
-- HomeKit-Demo https://github.com/KhaosT/HomeKit-Demo
-- iBeaconTasks https://github.com/TomekB/iBeaconTasks
-- Iceland Earthquakes https://github.com/paranoida/IcelandEarthquakes
-- iContactU https://github.com/rizal72/iContactU
-- iLabyrinth https://github.com/RolandasRazma/iLabyrinth
-- Impulse https://github.com/Jasdev/Impulse
-- iOctocat https://github.com/dennisreimann/ioctocat
-- iStockcheck https://github.com/AndrewBennet/iStockcheck
-- Jupp https://github.com/dasdom/Jupp
-- KeyCo https://github.com/KeyCoApp/KeyCo
-- LastFM https://github.com/lastfm/lastfm-iphone
-- Letters https://github.com/jessegrosjean/letters.iphone
-- Light-Jockey https://github.com/jmfieldman/Light-Jockey
-- Lister https://developer.apple.com/library/content/samplecode/Lister/Introduction/Intro.html
-- london-react https://github.com/JoeStanton/london-react
-- MapBox Earth https://github.com/mapbox/mapbox-earth
-- MeetPoint App https://github.com/MeetPoint-App/meetpoint-ios
-- Morse https://github.com/ijoshsmith/swift-morse-code
-- mosaix https://github.com/shelly/mosaix
-- Movies https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/Movies
-- Mugician https://github.com/rfielding/Mugician
-- Mume https://github.com/opensourceios/Mume
-- Munch https://github.com/opensourceios/Munch
-- MyAwesomeChecklist https://github.com/imod/MyAwesomeChecklist
-- NatsuLion https://github.com/takuma104/ntlniph
-- NaughtyKeyboard https://github.com/Palleas/NaughtyKeyboard
-- News/YC https://github.com/bennyguitar/News-YC---iPhone
-- OCiney https://github.com/florent37/OCiney-iOS
-- OnTime https://github.com/D-32/OnTime
-- OpenCB https://github.com/opensourceios/OpenCB
-- OpenClien https://github.com/kewlbear/OpenClien
-- Orbit7 https://github.com/Aaron-A/Orbit7
-- packlog https://github.com/jdg/packlog
-- Pancake https://github.com/Imaginea/pancake-ios
-- Parse 2013 Developer Day https://github.com/ParsePlatform/ParseDeveloperDay
-- Parse Dashboard https://github.com/nathantannar4/Parse-Dashboard-for-iOS
-- Parse-Challenge-App https://github.com/TomekB/Parse-Challenge-App
-- ParseStore https://github.com/opensourceios/ParseStore
-- pass https://github.com/davidjb/pass-ios
-- pathlogger https://github.com/eugenpirogoff/pathlogger
-- Paws http://www.appcoda.com/instagram-app-parse-swift/
-- PencilAnnotator https://github.com/kevinzhangftw/PencilAnnotator
-- PhoneBattery https://github.com/opensourceios/PhoneBattery
-- Pi https://github.com/opensourceios/Pi
-- Pickery https://github.com/Performador/Pickery
-- PlainNote https://github.com/vkoser/PlainNote
-- PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
-- PocketNode https://github.com/mzabriskie/PocketNode
-- Pokedex https://github.com/yoha/Pokedex
-- Poppins https://github.com/thoughtbot/poppins
-- Potatso https://github.com/opensourceios/Potatso
-- Product Catalogue https://github.com/contentful/product-catalogue-swift
-- Product Kitty https://github.com/rkho/product-kitty
-- ProMonster https://github.com/usemobile/promonster-ios
-- Pugs https://github.com/soffes/Pugs
-- RainMan https://github.com/Aaron-A/Project-RainMan
-- ReactiveHackerNews https://github.com/syshen/ReactiveHackerNews
-- ReactiveKitten https://github.com/JensRavens/ReactiveKitten
-- Reddit https://github.com/amitburst/reddit-demo
-- RedditWatch https://github.com/opensourceios/RedditWatch
-- Repo https://github.com/ricburton/Repo
-- Reusable Code https://github.com/opensourceios/Swift-Reusable-Code
-- Revolved https://github.com/Ciechan/Revolved
-- Rewatch https://github.com/Palleas/Rewatch
-- Runner-Stats https://github.com/hukun01/Runner-Stats
-- Savings Assistant https://github.com/chrisamanse/savings-assistant
-- SceneKitFrogger https://github.com/devindazzle/SceneKitFrogger
-- Scratch https://github.com/johnmci/Scratch.app.for.iOS
-- Shadertweak https://github.com/opensourceios/Shadertweak
-- Shuttle-Tracker https://github.com/AbstractedSheep/Shuttle-Tracker
-- Songkick https://github.com/ArnaudRinquin/sk-react-native
-- Soon https://github.com/sandofsky/soon
-- Spacepics https://github.com/campezzi/react-native-spacepics
-- SparkleShare https://github.com/darvin/SparkleShare-iOS
-- Speak https://github.com/opensourceios/speakability
-- Starship https://github.com/kylef-archive/Starship
-- Steps https://github.com/gizmosachin/Steps
-- Stocks-iOS https://github.com/MauriceArikoglu/stocks-ios
-- Sudoku https://github.com/christopherdro/react-native-sudoku
-- SudokuResolv https://github.com/Haoest/SudokuResolv
-- Superday https://github.com/opensourceios/superday
-- Swift Off https://github.com/opensourceios/swift-off-todo
-- Swift-Gif https://github.com/pjchavarria/Swift-Gif
-- Swifteroid https://github.com/eugenpirogoff/swifteroid
-- SwiftFlickrApp https://github.com/synboo/SwiftFlickrApp
-- SwiftNote https://github.com/mslathrop/SwiftNote
-- SwiftRACGoogleImages https://github.com/Adlai-Holler/SwiftRACGoogleImages
-- SwiftTextClock https://github.com/MichMich/SwiftTextClock
-- Task Coach https://sourceforge.net/projects/taskcoach/
-- TaskPaper https://github.com/jessegrosjean/NOTTaskPaperForIOS
-- Tether https://github.com/chrisballinger/Tether-iOS
-- TextEthan https://github.com/thii/TextEthan
-- That Movie With https://github.com/jayhickey/thatmoviewith
-- The Spin Zone https://github.com/opensourceios/Spin-Zone
-- theNews https://github.com/TosinAF/thenews-objc
-- TheReservist https://github.com/kimar/TheReservist
-- Tic-tac-toe https://github.com/ijoshsmith/swift-tic-tac-toe
-- TicTacToe https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/TicTacToe
-- Tob https://github.com/JRock007/Tob
-- Toggl Timer https://github.com/opensourceios/toggle-mobile
-- Tracker 4 Compassion https://github.com/fokkezb/tracker
-- try! Swift https://github.com/opensourceios/trySwiftApp
-- tweedie https://github.com/aanon4/tweedie
-- tweejump https://github.com/haqu/tweejump
-- Uncle Nagy's House https://github.com/kenmickles/unh_tvos
-- Valio Con 2014 Schedule https://github.com/soffes/valio
-- Vesper https://github.com/brentsimmons/Vesper
-- Vim https://github.com/applidium/Vim
-- warpedAR https://github.com/Trevorrwarduk/warpedAR-Open-Source
-- Watchman https://github.com/DanToml/Watchman
-- WatchNotes https://github.com/azamsharp/WatchNotes
-- WatchSnake https://github.com/davidcairns/-WatchSnake
-- WatchStocks https://github.com/G2Jose/WatchStocks
-- WeatherMap https://github.com/TakefiveInteractive/WeatherMap
-- wikiHow https://github.com/tderouin/wikiHow-iPhone-Application
-- Wizard War https://github.com/seanhess/wizardwar
-- Workdays https://github.com/mpak/Workdays
-- Wunderschnell https://github.com/contentful-graveyard/Wunderschnell
-- XPilot http://7b5labs.com/xpilot.git/
-- Yorkie https://github.com/opensourceios/YorkieApp
-- ZXing https://github.com/zxing/zxing
+![](https://img.shields.io/badge/Projects-214-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2019,%202019-lightgrey.svg)
+- [2048](https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/2048)
+- [A Menjar](https://github.com/maurovc/aMenjar)
+- [Abby's Cycle](https://github.com/jc4p/abby-healthkit)
+- [ABU](https://github.com/flexih/ABU)
+- [Adler Planetarium Navigation & Tour](https://github.com/lucasqiu/Adler-Mobile-App)
+- [AlcatrazTour](https://github.com/haranicle/AlcatrazTour)
+- [Alien Blue](https://github.com/alienblue/AlienBlue)
+- [Alphabet-Blocks](https://github.com/insurgentgames/Alphabet-Blocks)
+- [AlzPrevent](https://github.com/BBBInc/AlzPrevent-ios)
+- [AntiMap](https://github.com/trentbrooks/AntiMap)
+- [Anypic](https://github.com/opensourceios/Anypic)
+- [AnyWall](https://github.com/opensourceios/AnyWall)
+- [apnagent-ios](https://github.com/logicalparadox/apnagent-ios)
+- [AppleWatchProductHunt](https://github.com/BalestraPatrick/AppleWatchProductHunt)
+- [AppSales-Mobile](https://github.com/omz/AppSales-Mobile)
+- [AppSlate](https://github.com/Taehan-Kim/AppSlate)
+- [Around Me](https://github.com/bgryszko/react-native-example)
+- [audiograph](https://github.com/tkzic/audiograph)
+- [Awesome Mobile Conference](https://github.com/aweconf/iOS)
+- [Awesome Swift iOS App](https://github.com/matteocrippa/awesome-swift-ios)
+- [Bancha](https://github.com/squallstar/bancha-ios-app)
+- [Battle for Wesnoth](https://github.com/dailin/wesnoth_ios)
+- [Be my eyes](https://github.com/opensourceios/bemyeyes-ios)
+- [Bequest](https://github.com/splinesoft/Bequest)
+- [boilerplate](https://github.com/tailec/boilerplate)
+- [Brew](https://github.com/contentful/ContentfulWatchKitExample)
+- [Bridges](https://github.com/zgrossbart/bridges)
+- [Calculator by noodlewerk](https://github.com/noodlewerk/Apple_Watch_Calculator)
+- [Calvin and Hobbes Comic Viewer](https://github.com/sciencemanx/Calvin-and-Hobbes-Viewer)
+- [CamLingual](https://github.com/yoshiokatsuneo/camlingual_iphone)
+- [CamShift](https://github.com/shihongzhi/CamShift-on-iOS)
+- [Canvas](https://github.com/usecanvas/ios-v1)
+- [Cheddar](https://github.com/nothingmagical/cheddar-ios)
+- [Cherry](https://github.com/kenshin03/Cherry)
+- [Chess](https://github.com/mjcuva/Chess)
+- [ChineseZodiac](https://github.com/JakeLin/ChineseZodiac)
+- [ClickWheelKeyboard](https://github.com/b3ll/ClickWheelKeyboard)
+- [climbers](https://github.com/haqu/climbers)
+- [Closebox](https://github.com/opensourceios/Closebox)
+- [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List)
+- [Codinator](https://github.com/DanilaVladi/codinator)
+- [Coins](https://github.com/nothingmagical/coins)
+- [CoinTracker](https://github.com/gregheo/CoinTracker)
+- [CollageMaker](https://github.com/Azoft/CollageMaker-iOS)
+- [ColorCipher](https://github.com/obviousjim/ColorCipher)
+- [Communiqué](https://github.com/zadr/Communique)
+- [Compass](https://github.com/zntfdr/Compass)
+- [Concurrency](https://github.com/opensourceios/Concurrency)
+- [Connectivity Demo](https://github.com/swilliams/watchkit-connectivity-demo)
+- [Conway's Game of Life](https://github.com/yonbergman/swift-gameoflife)
+- [CoolSpot](https://github.com/neonichu/CoolSpot)
+- [Cryptose](https://github.com/insurgentgames/Cryptose)
+- [Currency Converter](https://github.com/ashwinpreet/ReactNativeExamples)
+- [Danbooru Lite](https://github.com/satishbabariya/Danbooru-Lite)
+- [DesireKeyboard](https://github.com/noppefoxwolf/DesireKeyboard)
+- [Dicershaker](https://github.com/millenomi/diceshaker)
+- [Dollar Bets](https://github.com/Rich86man/Dollar-Bets)
+- [Dono](https://github.com/opensourceios/dono-ios)
+- [doughwallet](https://github.com/peritus/doughwallet)
+- [Dragon Shout](https://github.com/rblalock/dragon_shout_app_open_source)
+- [DrugsNRock](https://github.com/biou/DrugsNRock)
+- [DWA Mobile](https://github.com/DesktopWebAnalytics/DWA_Mobile)
+- [Eleven](https://github.com/opensourceios/Eleven)
+- [Endless Browser](https://github.com/jcs/endless)
+- [Everest](https://github.com/EverestOpenSource/Everest-iOS)
+- [Facebook Login](https://github.com/brentvatne/react-native-login)
+- [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App)
+- [FinalFighter](https://github.com/sebcode/FinalFighter-iphone)
+- [Flickr-Search](https://github.com/alikaragoz/Flickr-Search)
+- [FlickrWatch](https://github.com/jazzychad/FlickrWatch)
+- [Forecast](https://github.com/richardxyx/Forecast)
+- [Foreign Exchange](https://github.com/peralmq/ForeignExchangeApp)
+- [fosdem](https://github.com/leonhandreke/fosdem)
+- [Fresh-Food-Finder](https://github.com/triceam/Fresh-Food-Finder)
+- [fudge](https://github.com/FredericJacobs/fudge)
+- [Furni](https://github.com/opensourceios/furni-ios)
+- [gbible](https://github.com/photokandyStudios/gbible)
+- [GitBucket](https://github.com/leichunfeng/MVVMReactiveCocoa)
+- [github-issues](https://github.com/chriseidhof/github-issues)
+- [Google Feud](https://github.com/opensourceios/Google-Feud-iOS)
+- [Gorillas](https://github.com/Lyndir/Gorillas)
+- [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard)
+- [GroceryList](https://github.com/jspahrsummers/GroceryList)
+- [GrubbyWorm](https://github.com/gamechina/GrubbyWorm)
+- [Hack Cancer Hackathon](https://github.com/HackCancer/iOS)
+- [Hacker News app by jsdf](https://github.com/jsdf/ReactNativeHackerNews)
+- [Hacker News Client](https://github.com/bonzoq/hniosreader)
+- [HackerNews (Y)](https://github.com/vetri02/HackerNews)
+- [HausClock](https://github.com/nottombrown/HausClock)
+- [Helio Workstation](https://github.com/helio-fm/helio-workstation)
+- [HighStreet](https://github.com/GetHighstreet/HighstreetWatchApp)
+- [HN-App](https://github.com/NikantVohra/HackerNewsClient-iOS)
+- [Hodor](https://github.com/jonomuller/Hodor-Keyboard)
+- [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo)
+- [iBeaconTasks](https://github.com/TomekB/iBeaconTasks)
+- [Iceland Earthquakes](https://github.com/paranoida/IcelandEarthquakes)
+- [iContactU](https://github.com/rizal72/iContactU)
+- [iLabyrinth](https://github.com/RolandasRazma/iLabyrinth)
+- [Impulse](https://github.com/Jasdev/Impulse)
+- [iOctocat](https://github.com/dennisreimann/ioctocat)
+- [iStockcheck](https://github.com/AndrewBennet/iStockcheck)
+- [Jupp](https://github.com/dasdom/Jupp)
+- [KeyCo](https://github.com/KeyCoApp/KeyCo)
+- [LastFM](https://github.com/lastfm/lastfm-iphone)
+- [Letters](https://github.com/jessegrosjean/letters.iphone)
+- [Light-Jockey](https://github.com/jmfieldman/Light-Jockey)
+- [Lister](https://developer.apple.com/library/content/samplecode/Lister/Introduction/Intro.html)
+- [london-react](https://github.com/JoeStanton/london-react)
+- [MapBox Earth](https://github.com/mapbox/mapbox-earth)
+- [MeetPoint App](https://github.com/MeetPoint-App/meetpoint-ios)
+- [Morse](https://github.com/ijoshsmith/swift-morse-code)
+- [mosaix](https://github.com/shelly/mosaix)
+- [Movies](https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/Movies)
+- [Mugician](https://github.com/rfielding/Mugician)
+- [Mume](https://github.com/opensourceios/Mume)
+- [Munch](https://github.com/opensourceios/Munch)
+- [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist)
+- [NatsuLion](https://github.com/takuma104/ntlniph)
+- [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
+- [News/YC](https://github.com/bennyguitar/News-YC---iPhone)
+- [OCiney](https://github.com/florent37/OCiney-iOS)
+- [OnTime](https://github.com/D-32/OnTime)
+- [OpenCB](https://github.com/opensourceios/OpenCB)
+- [OpenClien](https://github.com/kewlbear/OpenClien)
+- [Orbit7](https://github.com/Aaron-A/Orbit7)
+- [packlog](https://github.com/jdg/packlog)
+- [Pancake](https://github.com/Imaginea/pancake-ios)
+- [Parse 2013 Developer Day](https://github.com/ParsePlatform/ParseDeveloperDay)
+- [Parse Dashboard](https://github.com/nathantannar4/Parse-Dashboard-for-iOS)
+- [Parse-Challenge-App](https://github.com/TomekB/Parse-Challenge-App)
+- [ParseStore](https://github.com/opensourceios/ParseStore)
+- [pass](https://github.com/davidjb/pass-ios)
+- [pathlogger](https://github.com/eugenpirogoff/pathlogger)
+- [Paws](http://www.appcoda.com/instagram-app-parse-swift/)
+- [PencilAnnotator](https://github.com/kevinzhangftw/PencilAnnotator)
+- [PhoneBattery](https://github.com/opensourceios/PhoneBattery)
+- [Pi](https://github.com/opensourceios/Pi)
+- [Pickery](https://github.com/Performador/Pickery)
+- [PlainNote](https://github.com/vkoser/PlainNote)
+- [PocketFlix](https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki)
+- [PocketNode](https://github.com/mzabriskie/PocketNode)
+- [Pokedex](https://github.com/yoha/Pokedex)
+- [Poppins](https://github.com/thoughtbot/poppins)
+- [Potatso](https://github.com/opensourceios/Potatso)
+- [Product Catalogue](https://github.com/contentful/product-catalogue-swift)
+- [Product Kitty](https://github.com/rkho/product-kitty)
+- [ProMonster](https://github.com/usemobile/promonster-ios)
+- [Pugs](https://github.com/soffes/Pugs)
+- [RainMan](https://github.com/Aaron-A/Project-RainMan)
+- [ReactiveHackerNews](https://github.com/syshen/ReactiveHackerNews)
+- [ReactiveKitten](https://github.com/JensRavens/ReactiveKitten)
+- [Reddit](https://github.com/amitburst/reddit-demo)
+- [RedditWatch](https://github.com/opensourceios/RedditWatch)
+- [Repo](https://github.com/ricburton/Repo)
+- [Reusable Code](https://github.com/opensourceios/Swift-Reusable-Code)
+- [Revolved](https://github.com/Ciechan/Revolved)
+- [Rewatch](https://github.com/Palleas/Rewatch)
+- [Runner-Stats](https://github.com/hukun01/Runner-Stats)
+- [Savings Assistant](https://github.com/chrisamanse/savings-assistant)
+- [SceneKitFrogger](https://github.com/devindazzle/SceneKitFrogger)
+- [Scratch](https://github.com/johnmci/Scratch.app.for.iOS)
+- [Shadertweak](https://github.com/opensourceios/Shadertweak)
+- [Shuttle-Tracker](https://github.com/AbstractedSheep/Shuttle-Tracker)
+- [Songkick](https://github.com/ArnaudRinquin/sk-react-native)
+- [Soon](https://github.com/sandofsky/soon)
+- [Spacepics](https://github.com/campezzi/react-native-spacepics)
+- [SparkleShare](https://github.com/darvin/SparkleShare-iOS)
+- [Speak](https://github.com/opensourceios/speakability)
+- [Starship](https://github.com/kylef-archive/Starship)
+- [Steps](https://github.com/gizmosachin/Steps)
+- [Stocks-iOS](https://github.com/MauriceArikoglu/stocks-ios)
+- [Sudoku](https://github.com/christopherdro/react-native-sudoku)
+- [SudokuResolv](https://github.com/Haoest/SudokuResolv)
+- [Superday](https://github.com/opensourceios/superday)
+- [Swift Off](https://github.com/opensourceios/swift-off-todo)
+- [Swift-Gif](https://github.com/pjchavarria/Swift-Gif)
+- [Swifteroid](https://github.com/eugenpirogoff/swifteroid)
+- [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp)
+- [SwiftNote](https://github.com/mslathrop/SwiftNote)
+- [SwiftRACGoogleImages](https://github.com/Adlai-Holler/SwiftRACGoogleImages)
+- [SwiftTextClock](https://github.com/MichMich/SwiftTextClock)
+- [Task Coach](https://sourceforge.net/projects/taskcoach/)
+- [TaskPaper](https://github.com/jessegrosjean/NOTTaskPaperForIOS)
+- [Tether](https://github.com/chrisballinger/Tether-iOS)
+- [TextEthan](https://github.com/thii/TextEthan)
+- [That Movie With](https://github.com/jayhickey/thatmoviewith)
+- [The Spin Zone](https://github.com/opensourceios/Spin-Zone)
+- [theNews](https://github.com/TosinAF/thenews-objc)
+- [TheReservist](https://github.com/kimar/TheReservist)
+- [Tic-tac-toe](https://github.com/ijoshsmith/swift-tic-tac-toe)
+- [TicTacToe](https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/TicTacToe)
+- [Tob](https://github.com/JRock007/Tob)
+- [Toggl Timer](https://github.com/opensourceios/toggle-mobile)
+- [Tracker 4 Compassion](https://github.com/fokkezb/tracker)
+- [try! Swift](https://github.com/opensourceios/trySwiftApp)
+- [tweedie](https://github.com/aanon4/tweedie)
+- [tweejump](https://github.com/haqu/tweejump)
+- [Uncle Nagy's House](https://github.com/kenmickles/unh_tvos)
+- [Valio Con 2014 Schedule](https://github.com/soffes/valio)
+- [Vesper](https://github.com/brentsimmons/Vesper)
+- [Vim](https://github.com/applidium/Vim)
+- [warpedAR](https://github.com/Trevorrwarduk/warpedAR-Open-Source)
+- [Watchman](https://github.com/DanToml/Watchman)
+- [WatchNotes](https://github.com/azamsharp/WatchNotes)
+- [WatchSnake](https://github.com/davidcairns/-WatchSnake)
+- [WatchStocks](https://github.com/G2Jose/WatchStocks)
+- [WeatherMap](https://github.com/TakefiveInteractive/WeatherMap)
+- [wikiHow](https://github.com/tderouin/wikiHow-iPhone-Application)
+- [Wizard War](https://github.com/seanhess/wizardwar)
+- [Workdays](https://github.com/mpak/Workdays)
+- [Wunderschnell](https://github.com/contentful-graveyard/Wunderschnell)
+- [XPilot](http://7b5labs.com/xpilot.git/)
+- [Yorkie](https://github.com/opensourceios/YorkieApp)
+- [ZXing](https://github.com/zxing/zxing)
 
 ## Contact
 
