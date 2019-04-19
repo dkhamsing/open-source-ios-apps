@@ -68,7 +68,7 @@ def output_apps(apps, appstoreonly)
     screenshots = a['screenshots']
     license = a['license']
 
-    t = "#{name}"
+    t = "[#{name}](#{link})"
 
     if desc.nil?
       t << ' '
@@ -85,7 +85,7 @@ def output_apps(apps, appstoreonly)
     end
 
     o << "- #{t} \n"
-    o <<  "  <details><summary>"
+    o <<  "  <details>\n\t<summary>"
 
     details = ""
 
@@ -106,9 +106,6 @@ def output_apps(apps, appstoreonly)
     o << "</summary>"
 
     details_list = []
-
-    details_list.push link
-
     unless homepage.nil?
       details_list.push homepage
     end
@@ -124,19 +121,19 @@ def output_apps(apps, appstoreonly)
       details_list.push "License: #{license_display}"
     end
 
-    details = "\n\n  "
+    details = "\n\n\t"
     details << details_list[0]
     details_list[1..-1].each { |x| details << "<br>  #{x}" }
 
     unless screenshots.nil? || screenshots.empty?
       details << "<br>"
-      details << "\n"
+      details << "\n\t"
       screenshots.each_with_index do |s, i|
         details << "<a href='#{screenshots[i]}'><code>Screenshot #{i+1}</code></a> "
       end
     end
 
-    details << "<br>"
+    details << "\n  "
     details << "</details>\n\n"
     o << details
   end
@@ -149,7 +146,6 @@ def output_badges(count)
   date_display = date_display.gsub ' ', '%20'
 
   b = "![](https://img.shields.io/badge/Projects-#{count}-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-#{date_display}-lightgrey.svg)"
-  b
 end
 
 def output_stars(number)
@@ -170,7 +166,7 @@ def output_stars(number)
 end
 
 def write_list(j, file, appstoreonly = false)
-  t    = j['title']
+  t = j['title']
   subt = j['subtitle']
 
   desc = if appstoreonly
@@ -179,8 +175,8 @@ def write_list(j, file, appstoreonly = false)
     j['description']
   end
 
-  h    = j['header']
-  f    = j['footer']
+  h = j['header']
+  f = j['footer']
   cats = j['categories']
   apps = j['projects']
 
@@ -240,19 +236,21 @@ def write_list(j, file, appstoreonly = false)
 end
 
 def write_archive(j)
-  t    = j['title']
+  t = j['title']
   desc = "This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.\n\n"
-  f    = "## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n"
+  f = "## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n"
   apps = j['projects']
   archived = apps_archived apps
 
   output = "\# #{t} Archive\n\n"
   output << desc
+  output << output_badges(archived.count)
+  output << "\n"
 
   archived.each do |a|
     t = a['title']
     s = a['source']
-    output << "- #{t} #{s}\n"
+    output << "- [#{t}](#{s})\n"
   end
 
   output << "\n"
