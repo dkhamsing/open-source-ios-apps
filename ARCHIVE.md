@@ -2,12 +2,13 @@
 
 This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.
 
-![](https://img.shields.io/badge/Projects-214-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2019,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-216-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2019,%202019-lightgrey.svg)
 - [2048](https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/2048)
 - [A Menjar](https://github.com/maurovc/aMenjar)
 - [Abby's Cycle](https://github.com/jc4p/abby-healthkit)
 - [ABU](https://github.com/flexih/ABU)
 - [Adler Planetarium Navigation & Tour](https://github.com/lucasqiu/Adler-Mobile-App)
+- [Alarm](https://github.com/ChrisChares/swift-alarm)
 - [AlcatrazTour](https://github.com/haranicle/AlcatrazTour)
 - [Alien Blue](https://github.com/alienblue/AlienBlue)
 - [Alphabet-Blocks](https://github.com/insurgentgames/Alphabet-Blocks)
@@ -47,6 +48,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Coins](https://github.com/nothingmagical/coins)
 - [CoinTracker](https://github.com/gregheo/CoinTracker)
 - [CollageMaker](https://github.com/Azoft/CollageMaker-iOS)
+- [Colo](https://github.com/wongzigii/Colo)
 - [ColorCipher](https://github.com/obviousjim/ColorCipher)
 - [Communiqué](https://github.com/zadr/Communique)
 - [Compass](https://github.com/zntfdr/Compass)
