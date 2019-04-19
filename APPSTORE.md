@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **229** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **227** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -578,14 +578,6 @@ Click ► to show more details
 	<a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'><code>Screenshot 4</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'><code>Screenshot 5</code></a> 
   </details>
 
-- [Go Flashcards](https://github.com/roymckenzie/Go-Flashcards): Create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch [` App Store`](https://itunes.apple.com/app/go-flashcards/id991657053)  
-  <details>
-	<summary><code>swift</code> <code>realm</code> <code>watchos</code> <code>cloudkit</code> <code>spotlight</code> </summary>
-
-	Added February 18, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
-	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple82/v4/c7/52/24/c7522479-fb2a-3667-7d62-5351dc064423/mzl.swmmmbqv.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2e/ce/1c/2ece1c19-0322-4855-495f-bf6d330e85d5/mzl.vusqxtss.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c9/15/e2/c915e243-0276-f089-195d-f9bb0647025e/mzl.rvnqhird.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/dd/2d/bb/dd2dbb29-2c60-e6cd-9a4d-e90781d04382/mzl.hrjdrozv.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/58/c6/e0/58c6e0ed-5be7-6320-ce72-084232f6a29f/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
-  </details>
-
 - [iGrades](https://github.com/maurovc/iGrades): Track your class grades [` App Store`](https://itunes.apple.com/app/id816987574)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -897,7 +889,7 @@ Click ► to show more details
 	<a href='http://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Essentia](https://github.com/essentiaone/Essentia-iOS): Multi wallet, All in one Blockchain solution [` App Store`](https://itunes.apple.com/app/essentia/id1438535734)  
+- [Essentia](https://github.com/essentiaone/Essentia-iOS): Multi wallet, All in one Blockchain solution [` App Store`](https://itunes.apple.com/ua/app/essentia/id1438535734)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -1509,14 +1501,6 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='http://a5.mzstatic.com/us/r30/Purple60/v4/1e/82/3b/1e823b8a-d10c-2085-2063-1d18ba68ce2e/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [ArtShredder](https://github.com/marty-suzuki/ArtShredder): Banksy Shredder [` App Store`](https://itunes.apple.com/app/id1439126672)  
-  <details>
-	<summary><code>swift</code> <code>arkit</code> <code>banksy</code> 🌐 </summary>
-
-	https://marty-suzuki.github.io/ArtShredder/<br>  Added December 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/marty-suzuki/ArtShredder/master/Images/anim.gif'><code>Screenshot 1</code></a> <a href='https://camo.qiitausercontent.com/fc07258a6de07cd230de6ea740043046eab57d92/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f36303332352f34363832663864312d323366352d386365322d376132332d6435303933613439643664322e676966'><code>Screenshot 2</code></a> 
-  </details>
-
 - [Artsy](https://github.com/artsy/eigen): The art world in your pocket [` App Store`](https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
   <details>
 	<summary><code>iphone</code> <code>ipad</code> <code>afnetworking</code> <code>mantle</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> ⭐⭐⭐⭐⭐</summary>
@@ -1638,14 +1622,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [ArtShredder](https://github.com/marty-suzuki/ArtShredder): Banksy Shredder [` App Store`](https://itunes.apple.com/app/id1439126672)  
-  <details>
-	<summary><code>swift</code> <code>arkit</code> <code>banksy</code> 🌐 </summary>
-
-	https://marty-suzuki.github.io/ArtShredder/<br>  Added December 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/marty-suzuki/ArtShredder/master/Images/anim.gif'><code>Screenshot 1</code></a> <a href='https://camo.qiitausercontent.com/fc07258a6de07cd230de6ea740043046eab57d92/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f36303332352f34363832663864312d323366352d386365322d376132332d6435303933613439643664322e676966'><code>Screenshot 2</code></a> 
-  </details>
-
 - [ColorBlur](https://github.com/maurovc/ColorBlur): Add blur to your photos [` App Store`](https://itunes.apple.com/app/id928863510)  
   <details>
 	<summary><code>objc</code> </summary>
