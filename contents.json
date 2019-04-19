@@ -6145,7 +6145,8 @@
         "color"
       ],
       "tags": [
-        "objc"
+        "objc",
+	"archive"
       ],
       "description": "Color themes hunter",
       "license": "apache-2.0",
