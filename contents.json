@@ -17624,6 +17624,24 @@
       "date_added": "Apr 8 2019",
       "suggested_by": "@vpeschenkov",
       "stars": 203
+    },
+    {
+      "title": "GitHubSearch",
+      "category-ids": [
+        "github"
+      ],
+      "description": "GitHub client written using MVVM architecture with Router and Realm (without Rx and Interface Builder)",
+      "source": "https://github.com/Karambirov/GitHubSearch",
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://user-images.githubusercontent.com/6949755/52898872-71a60e00-31f4-11e9-853a-d7993aae4eed.png"
+      ],
+      "date_added": "Apr 19 2019",
+      "suggested_by": "@Karambirov",
+      "stars": 1
     }
   ]
 }
