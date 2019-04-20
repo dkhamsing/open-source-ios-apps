@@ -17628,11 +17628,9 @@
     {
       "title": "GitHubSearch",
       "category-ids": [
-        "github", 
-        "realm", 
-        "developer"
+        "github"
       ],
-      "description": "GitHub client written using MVVM architecture with Router (without Rx and Interface Builder)",
+      "description": "GitHub client written using MVVM architecture with Router and Realm (without Rx and Interface Builder)",
       "source": "https://github.com/Karambirov/GitHubSearch",
       "license": "mit",
       "tags": [
