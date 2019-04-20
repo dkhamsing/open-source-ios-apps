@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-871-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2019,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-872-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2020,%202019-lightgrey.svg)
 
 Jump to
 
@@ -1347,6 +1347,14 @@ Click ► to show more details
 	<summary><code>swift</code> </summary>
 
 	Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [GitHubSearch](https://github.com/Karambirov/GitHubSearch): GitHub client written using MVVM architecture with Router and Realm (without Rx and Interface Builder)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 19, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://user-images.githubusercontent.com/6949755/52898872-71a60e00-31f4-11e9-853a-d7993aae4eed.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Gitify](https://github.com/manosim/gitify-mobile): Brings your GitHub notifications in your pocket  
