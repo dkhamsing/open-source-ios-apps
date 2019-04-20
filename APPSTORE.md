@@ -1698,7 +1698,7 @@ https://news.ycombinator.com/ — [back to top](#readme)
 	<summary><code>swift</code> ⭐⭐</summary>
 
 	Added December 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/weiran/Hackers/raw/master/Screenshots/iPhoneX_Ultimate_framed.png'><code>Screenshot 1</code></a> 
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/14/98/59/149859fe-f4e3-0a12-d7fb-2d3383efdf45/mzl.ebnguksi.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [HN Reader](https://github.com/Dimillian/SwiftHN): Hacker News Reader [` App Store`](https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741)  
