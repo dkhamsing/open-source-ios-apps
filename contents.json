@@ -17632,7 +17632,7 @@
         "realm", 
         "developer"
       ],
-      "description": "GitHub client written using MVVM architecture with Router (without Rx and Interface Builder).",
+      "description": "GitHub client written using MVVM architecture with Router (without Rx and Interface Builder)",
       "source": "https://github.com/Karambirov/GitHubSearch",
       "license": "mit",
       "tags": [
