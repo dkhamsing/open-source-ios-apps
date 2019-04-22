@@ -14204,57 +14204,6 @@
       "stars": 142
     },
     {
-      "title": "Snapchat clone",
-      "category-ids": [
-        "react-native"
-      ],
-      "tags": [
-        "react-native"
-      ],
-      "screenshots": [
-        "https://i.imgur.com/6HfPmrT.png"
-      ],
-      "source": "https://github.com/merciyah/SnapChat",
-      "stars": 583,
-      "license": "other",
-      "date_added": "Mon Aug 14 08:19:58 2016 -0800",
-      "suggested_by": "@vitorebatista"
-    },
-    {
-      "title": "Tinder clone",
-      "category-ids": [
-        "react-native"
-      ],
-      "tags": [
-        "react-native"
-      ],
-      "screenshots": [
-        "https://i.imgur.com/I7d06Pq.png"
-      ],
-      "source": "https://github.com/merciyah/Tinder",
-      "stars": 636,
-      "license": "other",
-      "date_added": "Mon Aug 14 08:06:58 2016 -0800",
-      "suggested_by": "@vitorebatista"
-    },
-    {
-      "title": "FC Barcelona clone",
-      "category-ids": [
-        "react-native"
-      ],
-      "tags": [
-        "react-native"
-      ],
-      "screenshots": [
-        "https://i.imgur.com/6Xogt5Y.png"
-      ],
-      "source": "https://github.com/merciyah/FCBarca",
-      "stars": 63,
-      "license": "other",
-      "date_added": "Mon Aug 14 08:06:58 2016 -0800",
-      "suggested_by": "@vitorebatista"
-    },
-    {
       "title": "PokeDB",
       "category-ids": [
         "react-native"
