@@ -14204,23 +14204,6 @@
       "stars": 142
     },
     {
-      "title": "Whatsapp clone",
-      "category-ids": [
-        "react-native"
-      ],
-      "tags": [
-        "react-native"
-      ],
-      "source": "https://github.com/merciyah/whatsapp",
-      "stars": 1277,
-      "license": "other",
-      "date_added": "Mon Aug 14 08:18:58 2016 -0800",
-      "screenshots": [
-        "https://i.imgur.com/T6Hwv3b.png"
-      ],
-      "suggested_by": "@vitorebatista"
-    },
-    {
       "title": "Snapchat clone",
       "category-ids": [
         "react-native"
@@ -14238,23 +14221,6 @@
       "suggested_by": "@vitorebatista"
     },
     {
-      "title": "Pokemon Go clone",
-      "category-ids": [
-        "react-native"
-      ],
-      "tags": [
-        "react-native"
-      ],
-      "screenshots": [
-        "https://i.imgur.com/PrMRwmY.png"
-      ],
-      "source": "https://github.com/merciyah/Pokemon",
-      "stars": 229,
-      "license": "other",
-      "date_added": "Mon Aug 14 08:06:58 2016 -0800",
-      "suggested_by": "@vitorebatista"
-    },
-    {
       "title": "Tinder clone",
       "category-ids": [
         "react-native"
@@ -14267,40 +14233,6 @@
       ],
       "source": "https://github.com/merciyah/Tinder",
       "stars": 636,
-      "license": "other",
-      "date_added": "Mon Aug 14 08:06:58 2016 -0800",
-      "suggested_by": "@vitorebatista"
-    },
-    {
-      "title": "Twitter clone",
-      "category-ids": [
-        "react-native"
-      ],
-      "tags": [
-        "react-native"
-      ],
-      "screenshots": [
-        "https://i.imgur.com/0kzQBEJ.png"
-      ],
-      "source": "https://github.com/merciyah/Twitter",
-      "stars": 141,
-      "license": "other",
-      "date_added": "Mon Aug 14 08:06:58 2016 -0800",
-      "suggested_by": "@vitorebatista"
-    },
-    {
-      "title": "AirBnb clone",
-      "category-ids": [
-        "react-native"
-      ],
-      "tags": [
-        "react-native"
-      ],
-      "screenshots": [
-        "https://i.imgur.com/vMgWK6m.png"
-      ],
-      "source": "https://github.com/merciyah/AirBnb",
-      "stars": 435,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
       "suggested_by": "@vitorebatista"
