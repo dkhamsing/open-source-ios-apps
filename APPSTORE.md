@@ -205,7 +205,7 @@ Click ► to show more details
 	<a href='http://i.imgur.com/bMQuwAE.png'><code>Screenshot 1</code></a> <a href='http://i.imgur.com/Wjro36A.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [SnowHaze](https://github.com/snowhaze/SnowHaze-iOS): A Powerful Private Browser Developed to Truly Protect your Data [` App Store`](https://itunes.apple.com/app/snowhaze/id1121026941)  
+- [SnowHaze](https://github.com/snowhaze/SnowHaze-iOS): Powerful private browser developed to protect your data [` App Store`](https://itunes.apple.com/app/snowhaze/id1121026941)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -496,7 +496,7 @@ Click ► to show more details
 	<a href='https://pisth.github.io/apt/screenshots.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [TLS Inspector](https://github.com/certificate-helper/tls-inspector): Free WiFi, Workplace Internet, and Computer Viruses can put your personal information at risk. With TLS Inspector you can verify the secure connection information of any website and ensure that your information is private. [` App Store`](https://itunes.apple.com/app/apple-store/id1100539810)  
+- [TLS Inspector](https://github.com/certificate-helper/tls-inspector): Verify the secure connection information of any website and ensure that your information is private [` App Store`](https://itunes.apple.com/app/apple-store/id1100539810)  
   <details>
 	<summary><code>c</code> <code>objc</code> <code>c++</code> </summary>
 
@@ -586,7 +586,7 @@ Click ► to show more details
 	<a href='http://a3.mzstatic.com/us/r30/Purple3/v4/8d/22/e0/8d22e0df-5cea-5fa5-c18e-779b335099ec/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/8c/be/5f/8cbe5f3c-4a89-726b-eb30-037944e756be/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/c8/77/fd/c877fd32-1c98-0268-5164-0cb95b48ce27/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/ce/5f/28/ce5f2856-901f-d130-1173-9c4f869c9fc3/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple5/v4/2a/df/94/2adf9489-96da-4974-db83-5f119d58b11b/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Pocket Code](https://github.com/catrobat/catty): Pocket Code allows you to create your own games, animations, interactive music videos, and many kind of other apps, directly on your phone or tablet. [` App Store`](https://itunes.apple.com/app/pocket-code/id1117935892)  
+- [Pocket Code](https://github.com/catrobat/catty): Allows you to create your own games, animations, interactive music videos, and many kind of other apps, directly on device [` App Store`](https://itunes.apple.com/app/pocket-code/id1117935892)  
   <details>
 	<summary><code>swift</code> <code>objc</code> </summary>
 
@@ -958,7 +958,7 @@ Click ► to show more details
 	<a href='http://a2.mzstatic.com/us/r30/Purple60/v4/7f/50/5a/7f505ad9-b065-e8e3-6fe2-6d8610c13fa7/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [FityIt](https://github.com/txaiwieser/FityIt): FityIt - The shapes game - is a challenging game of skill and reflexes. Not only does this game test your reaction time, is super fun and addictive. How long can you survive in FityIt? [` App Store`](https://itunes.apple.com/app/fityit-the-shapes-game/id991444581)  
+- [FityIt](https://github.com/txaiwieser/FityIt): Challenging shapes game of skill and reflexes [` App Store`](https://itunes.apple.com/app/fityit-the-shapes-game/id991444581)  
   <details>
 	<summary><code>swift</code> <code>spritekit</code> <code>game</code> <code>animation</code> </summary>
 
@@ -1064,7 +1064,7 @@ http://cocos2d.org/ — [back to top](#readme)
  
 https://developer.apple.com/reference/spritekit — [back to top](#readme) 
  
-- [FityIt](https://github.com/txaiwieser/FityIt): FityIt - The shapes game - is a challenging game of skill and reflexes. Not only does this game test your reaction time, is super fun and addictive. How long can you survive in FityIt? [` App Store`](https://itunes.apple.com/app/fityit-the-shapes-game/id991444581)  
+- [FityIt](https://github.com/txaiwieser/FityIt): Challenging shapes game of skill and reflexes [` App Store`](https://itunes.apple.com/app/fityit-the-shapes-game/id991444581)  
   <details>
 	<summary><code>swift</code> <code>spritekit</code> <code>game</code> <code>animation</code> </summary>
 
@@ -1185,7 +1185,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='http://a1.mzstatic.com/us/r30/Purple7/v4/e0/65/ca/e065caa7-e2be-1e25-f78a-ccb19a7cf1b0/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple7/v4/d4/bf/20/d4bf20c6-8dc8-0739-9977-1a8c3f2f7052/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/15/60/8d/15608d60-d7c0-2dfb-e89a-97c49573fd75/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple1/v4/b2/36/fb/b236fba1-3e84-c6a4-c186-8b73abca6109/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple2/v4/1c/d0/2d/1cd02d13-9d9c-d115-1605-3fb4dae72831/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- [GeoLicious](https://github.com/da3x/GeoLicious): Location Tracking made easy... GeoLicious is a long term project I've maintained from 2013 to 2017 and made public in May 2017. [` App Store`](https://itunes.apple.com/app/geolicious/id637366170)  
+- [GeoLicious](https://github.com/da3x/GeoLicious): Location tracking made easy [` App Store`](https://itunes.apple.com/app/geolicious/id637366170)  
   <details>
 	<summary><code>objc</code> </summary>
 
