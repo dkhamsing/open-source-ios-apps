@@ -17029,7 +17029,7 @@
       "category-ids": [
         "event"
       ],
-      "description": "An easy way to connect with fellow developers during WWDC, Layers & AltConf",
+      "description": "Easy way to connect with fellow developers during WWDC, Layers & AltConf",
       "source": "https://github.com/ay8s/ConfFriends",
       "itunes": "https://itunes.apple.com/app/id1386399019",
       "license": "mit",
@@ -17068,7 +17068,7 @@
       "category-ids": [
         "keyboard"
       ],
-      "description": "A keyboard for tvOS",
+      "description": "Keyboard for tvOS",
       "source": "https://github.com/noppefoxwolf/DesireKeyboard",
       "license": "other",
       "stars": 18,
@@ -17087,7 +17087,7 @@
       "category-ids": [
         "keyboard"
       ],
-      "description": "A beautiful custom keyboard for developers",
+      "description": "Beautiful custom keyboard for developers",
       "source": "https://github.com/KeyCoApp/KeyCo",
       "license": "gpl-2.0",
       "stars": 15,
@@ -17124,7 +17124,7 @@
       "category-ids": [
         "health"
       ],
-      "description": "A drink tracker with weekly limits, Untappd support, and HealthKit sync",
+      "description": "Drink tracker with weekly limits, Untappd support, and HealthKit sync",
       "source": "https://github.com/archagon/good-spirits",
       "license": "gpl-3.0",
       "itunes": "https://itunes.apple.com/app/good-spirits/id1434237439",
@@ -17146,7 +17146,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "A simple game application for the practice of beginners in Swift-programming",
+      "description": "Simple game application for the practice of beginners in Swift-programming",
       "source": "https://github.com/riley-usagi/SwiftAdvance",
       "lang": "rus",
       "license": "mit",
@@ -17226,7 +17226,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Very simple To Do app to illustrate the principles from my A Better MVC talk",
+      "description": "Simple To Do app to illustrate the principles from my A Better MVC talk",
       "source": "https://github.com/davedelong/MVCTodo",
       "license": "other",
       "stars": 398,
@@ -17260,7 +17260,7 @@
       "category-ids": [
         "photo"
       ],
-      "description": "Augmented Reality Album",
+      "description": "Augmented reality album",
       "source": "https://github.com/SherlockQi/HeavenMemoirs",
       "itunes": "https://itunes.apple.com/app/weare/id1304227680",
       "lang": "zho",
@@ -17311,7 +17311,7 @@
         "swift",
         "archive"
       ],
-      "description": "Danbooru Lite allows you to connect to a various photo hosting services and browse images. Download any image to your device's storage, or set it as your new wallpaper. Share images with friends via your favorite messaging app",
+      "description": "Allows you to connect to a various photo hosting services and browse images. Download any image to your device's storage, or set it as your new wallpaper. Share images with friends via your favorite messaging app.",
       "source": "https://github.com/satishbabariya/Danbooru-Lite",
       "itunes": "https://itunes.apple.com/app/danbooru-lite/id1338782992",
       "screenshots": [
@@ -17329,7 +17329,7 @@
       "category-ids": [
         "realm"
       ],
-      "description": "Model2App Test App is a very simple CRM app built using Model2App library that lets you quickly generate a CRUD iOS app based on just a data model defined in Swift. (CRUD - Create Read Update Delete). Model2App is built on top of Realm.",
+      "description": "Simple CRM app built using Model2App library, lets you quickly generate a CRUD iOS app based on just a data model",
       "source": "https://github.com/Q-Mobile/Model2App",
       "tags": [
         "swift",
@@ -17361,7 +17361,7 @@
       "category-ids": [
         "notes"
       ],
-      "description": "Joplin is a free note taking and to-do application with synchronisation capabilities, which can handle a large number of notes organised into notebooks.",
+      "description": "Note taking and to-do with synchronisation capabilities, can handle a large number of notes organised into notebooks",
       "source": "https://github.com/laurent22/joplin",
       "homepage": "https://joplinapp.org/",
       "itunes": "https://itunes.apple.com/app/joplin/id1315599797",
@@ -17403,7 +17403,7 @@
       "category-ids": [
         "video"
       ],
-      "description": "Play videos from the Files app in a better and darker interface which avoids losing your playback position.",
+      "description": "Play videos from the Files app in a better and darker interface which avoids losing your playback position",
       "source": "https://github.com/justjs/Playerly",
       "license": "mit",
       "tags": [
@@ -17440,7 +17440,7 @@
       "category-ids": [
         "files"
       ],
-      "description": "A powerful file browser that allows its users to choose and remove files and/or directories",
+      "description": "Powerful file browser that allows its users to choose and remove files and/or directories",
       "source": "https://github.com/Augustyniak/FileExplorer",
       "license": "mit",
       "stars": 626,
@@ -17458,7 +17458,7 @@
       "category-ids": [
         "scan"
       ],
-      "description": "Betcalsa is a easy to use document scanner app. Automatically detect your document and enhance the scans with black-and-white filter.",
+      "description": "Document scanner, automatically detect your document and enhance the scans with black-and-white filter",
       "source": "https://github.com/emredurukn/betcalsa",
       "license": "mit",
       "tags": [
@@ -17480,13 +17480,13 @@
       "category-ids": [
         "text"
       ],
-      "description": "TypeStyle is a funky app for iPhone and iPad that stylizes your text and adds decorations!",
+      "description": "Stylizes your text and adds decorations",
       "source": "https://github.com/ebelinski/typestyle-ios",
       "homepage": "https://typestyle.app",
       "itunes": "https://itunes.apple.com/app/typestyle/id1441019779",
       "license": "gpl-3.0",
       "tags": [
-        "swift"
+        "swift", "ipad"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/ebelinski/typestyle-ios/master/media/iphone-x-screenshots.png"
@@ -17500,7 +17500,7 @@
       "category-ids": [
         "education"
       ],
-      "description": "Allows you to create your own games, animations, interactive music videos, and many kind of other apps, directly on device",
+      "description": "Allows you to create games, animations, interactive music videos, and many kind of other apps, directly on device",
       "source": "https://github.com/catrobat/catty",
       "homepage": "https://www.catrobat.org",
       "itunes": "https://itunes.apple.com/app/pocket-code/id1117935892",
@@ -17518,7 +17518,7 @@
       "category-ids": [
         "content"
       ],
-      "description": "A simple TV show tracker",
+      "description": "Simple TV show tracker",
       "source": "https://github.com/madyanov/showio-app",
       "homepage": "https://madyanov.com/showio/en/",
       "itunes": "https://itunes.apple.com/app/id1445035408",
@@ -17590,7 +17590,7 @@
         "game",
         "clone"
       ],
-      "description": "EverWing game clone. Survive as much you can, earn gold, and upgrade/purchase new characters.",
+      "description": "EverWing game clone (survive as much you can, earn gold, and upgrade/purchase new characters)",
       "source": "https://github.com/woguan/Legend-Wings",
       "license": "other",
       "tags": [
