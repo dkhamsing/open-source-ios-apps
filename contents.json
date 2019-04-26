@@ -1074,7 +1074,7 @@
       "stars": 1043,
       "tags": [
         "swift",
-        "watchos2"
+        "watchos2", "archive"
       ],
       "screenshots": [
         "https://github.com/shu223/watchOS-2-Sampler/raw/master/ResourcesForREADME/animation.gif"
@@ -3342,7 +3342,7 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/60/da/8c/60da8cfc-c0c4-56d2-aedb-e97cfe1be461/pr_source.png/460x0w.jpg",
         "https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/13/f0/80/13f08044-d8bc-03cd-341e-aed485137a8f/pr_source.png/460x0w.jpg"
       ],
-      "description": "Location Tracking made easy... GeoLicious is a long term project I've maintained from 2013 to 2017 and made public in May 2017.",
+      "description": "Location tracking made easy",
       "license": "mit",
       "source": "https://github.com/da3x/GeoLicious",
       "itunes": "https://itunes.apple.com/app/geolicious/id637366170",
@@ -8534,7 +8534,7 @@
       "tags": [
         "c"
       ],
-      "description": "The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more",
+      "description": "Comprehensive emulator frontend with support for NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more",
       "source": "https://github.com/libretro/RetroArch",
       "stars": 3098,
       "license": "gpl-3.0",
@@ -16382,7 +16382,7 @@
       "category-ids": [
         "developer"
       ],
-      "description": "Free WiFi, Workplace Internet, and Computer Viruses can put your personal information at risk. With TLS Inspector you can verify the secure connection information of any website and ensure that your information is private.",
+      "description": "Verify the secure connection information of any website and ensure that your information is private",
       "license": "gpl-3.0",
       "source": "https://github.com/certificate-helper/tls-inspector",
       "itunes": "https://itunes.apple.com/app/apple-store/id1100539810",
@@ -16533,7 +16533,7 @@
       "category-ids": [
         "browser"
       ],
-      "description": "A Powerful Private Browser Developed to Truly Protect your Data",
+      "description": "Powerful private browser developed to protect your data",
       "source": "https://github.com/snowhaze/SnowHaze-iOS",
       "itunes": "https://itunes.apple.com/app/snowhaze/id1121026941",
       "screenshots": [
@@ -16597,7 +16597,7 @@
     },
     {
       "title": "FityIt",
-      "description": "FityIt - The shapes game - is a challenging game of skill and reflexes. Not only does this game test your reaction time, is super fun and addictive. How long can you survive in FityIt?",
+      "description": "Challenging shapes game of skill and reflexes",
       "category-ids": [
         "game",
         "spritekit"
@@ -16687,7 +16687,7 @@
         "apple-watch",
         "health"
       ],
-      "description": "An application to display blood glucose values stored at your nightscout server",
+      "description": "Display blood glucose values stored on your nightscout server",
       "source": "https://github.com/nightscout/nightguard",
       "homepage": "http://www.nightscout.info/",
       "license": "gpl-3.0",
@@ -17211,7 +17211,7 @@
       "category-ids": [
         "clone"
       ],
-      "description": "Clone of YouTuben but the main intention is to show how to write clean code, using proper MVC patterns and re-usable coding methodologie",
+      "description": "YouTube clone using MVC",
       "source": "https://github.com/VamshiIITBHU14/YouTubeClone",
       "license": "other",
       "stars": 131,
@@ -17388,7 +17388,7 @@
         "avkit",
         "viper"
       ],
-      "description": "Gleam is mobile application (based on machine learning algorithm) that will help make an early diagnosis of melanoma and get the necessary treatment on time",
+      "description": "Use machine learning algorithm to help make an early diagnosis of melanoma and get the necessary treatment on time",
       "source": "https://github.com/akarataev/gleam-ios",
       "license": "mit",
       "screenshots": [
@@ -17421,7 +17421,7 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "Create your own faces for watchOS.  Customize the watch hands, layout, colors, and images.  Edit faces on your phone and switch them on the watch.",
+      "description": "Create your own faces for watchOS",
       "source": "https://github.com/orff/AppleWatchFaces",
       "license": "gpl-3.0",
       "stars": 52,
@@ -17500,7 +17500,7 @@
       "category-ids": [
         "education"
       ],
-      "description": "Pocket Code allows you to create your own games, animations, interactive music videos, and many kind of other apps, directly on your phone or tablet.",
+      "description": "Allows you to create your own games, animations, interactive music videos, and many kind of other apps, directly on device",
       "source": "https://github.com/catrobat/catty",
       "homepage": "https://www.catrobat.org",
       "itunes": "https://itunes.apple.com/app/pocket-code/id1117935892",
@@ -17590,7 +17590,7 @@
         "game",
         "clone"
       ],
-      "description": "A clone of EverWing game. Survive as much you can, earn gold, and upgrade/purchase new characters",
+      "description": "EverWing game clone. Survive as much you can, earn gold, and upgrade/purchase new characters.",
       "source": "https://github.com/woguan/Legend-Wings",
       "license": "other",
       "tags": [
@@ -17630,11 +17630,11 @@
       "category-ids": [
         "github"
       ],
-      "description": "GitHub client written using MVVM architecture with Router and Realm (without Rx and Interface Builder)",
+      "description": "GitHub client written using MVVM without Rx and Interface Builder",
       "source": "https://github.com/Karambirov/GitHubSearch",
       "license": "mit",
       "tags": [
-        "swift"
+        "swift", "router", "realm"
       ],
       "screenshots": [
         "https://user-images.githubusercontent.com/6949755/52898872-71a60e00-31f4-11e9-853a-d7993aae4eed.png"
