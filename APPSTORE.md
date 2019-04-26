@@ -586,7 +586,7 @@ Click ► to show more details
 	<a href='http://a3.mzstatic.com/us/r30/Purple3/v4/8d/22/e0/8d22e0df-5cea-5fa5-c18e-779b335099ec/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/8c/be/5f/8cbe5f3c-4a89-726b-eb30-037944e756be/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/c8/77/fd/c877fd32-1c98-0268-5164-0cb95b48ce27/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/ce/5f/28/ce5f2856-901f-d130-1173-9c4f869c9fc3/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple5/v4/2a/df/94/2adf9489-96da-4974-db83-5f119d58b11b/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Pocket Code](https://github.com/catrobat/catty): Allows you to create your own games, animations, interactive music videos, and many kind of other apps, directly on device [` App Store`](https://itunes.apple.com/app/pocket-code/id1117935892)  
+- [Pocket Code](https://github.com/catrobat/catty): Allows you to create games, animations, interactive music videos, and many kind of other apps, directly on device [` App Store`](https://itunes.apple.com/app/pocket-code/id1117935892)  
   <details>
 	<summary><code>swift</code> <code>objc</code> </summary>
 
@@ -635,7 +635,7 @@ Click ► to show more details
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/aa/31/79/aa3179bb-94de-501b-3a54-a4ce1a5742c2/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/8d/a4/98/8da49880-bfe1-021b-7ae4-8922ca17f723/pr_source.png/230x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/b4/a9/5f/b4a95ff1-0f47-1a32-c6c8-0bf5a3cc2435/pr_source.png/230x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- [ConfFriends](https://github.com/ay8s/ConfFriends): An easy way to connect with fellow developers during WWDC, Layers & AltConf [` App Store`](https://itunes.apple.com/app/id1386399019)  
+- [ConfFriends](https://github.com/ay8s/ConfFriends): Easy way to connect with fellow developers during WWDC, Layers & AltConf [` App Store`](https://itunes.apple.com/app/id1386399019)  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -1109,7 +1109,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='http://a2.mzstatic.com/us/r30/Purple69/v4/9f/82/17/9f8217e4-00da-b516-1853-23fbc6ecbdaf/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple49/v4/c9/cd/e2/c9cde204-5712-97c4-c952-7f0884490153/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/28/fd/66/28fd66a4-d756-34ce-98f0-aa5dae26ff7d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/7e/80/b9/7e80b966-2e41-a36a-a1a3-b02c70ec0961/screen696x696.jpeg'><code>Screenshot 4</code></a> 
   </details>
 
-- [Good Spirits](https://github.com/archagon/good-spirits): A drink tracker with weekly limits, Untappd support, and HealthKit sync [` App Store`](https://itunes.apple.com/app/good-spirits/id1434237439)  
+- [Good Spirits](https://github.com/archagon/good-spirits): Drink tracker with weekly limits, Untappd support, and HealthKit sync [` App Store`](https://itunes.apple.com/app/good-spirits/id1434237439)  
   <details>
 	<summary><code>swift</code> <code>healthkit</code> ⭐</summary>
 
@@ -1580,7 +1580,7 @@ Image, video, audio, reading — [back to top](#readme)
 	Added July 21, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- [Showio](https://github.com/madyanov/showio-app): A simple TV show tracker [` App Store`](https://itunes.apple.com/app/id1445035408)  
+- [Showio](https://github.com/madyanov/showio-app): Simple TV show tracker [` App Store`](https://itunes.apple.com/app/id1445035408)  
   <details>
 	<summary><code>swift</code> <code>tmdb</code> </summary>
 
@@ -1654,7 +1654,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen1.jpg?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen2.jpg?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen3.jpg?raw=true'><code>Screenshot 3</code></a> 
   </details>
 
-- [WeAre](https://github.com/SherlockQi/HeavenMemoirs): Augmented Reality Album [` App Store`](https://itunes.apple.com/app/weare/id1304227680)  
+- [WeAre](https://github.com/SherlockQi/HeavenMemoirs): Augmented reality album [` App Store`](https://itunes.apple.com/app/weare/id1304227680)  
   <details>
 	<summary><code>swift</code> <code>arkit</code> 🌐 ⭐⭐</summary>
 
@@ -2183,9 +2183,9 @@ https://mastodon.social — [back to top](#readme)
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/4d/3b/dc/4d3bdc1a-2bb9-589d-a574-873167dd7fb8/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [TypeStyle](https://github.com/ebelinski/typestyle-ios): TypeStyle is a funky app for iPhone and iPad that stylizes your text and adds decorations! [` App Store`](https://itunes.apple.com/app/typestyle/id1441019779)  
+- [TypeStyle](https://github.com/ebelinski/typestyle-ios): Stylizes your text and adds decorations [` App Store`](https://itunes.apple.com/app/typestyle/id1441019779)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> <code>ipad</code> </summary>
 
 	https://typestyle.app<br>  Added February 22, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://raw.githubusercontent.com/ebelinski/typestyle-ios/master/media/iphone-x-screenshots.png'><code>Screenshot 1</code></a> 
@@ -2204,7 +2204,7 @@ https://mastodon.social — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f9/72/00/f972005b-5a6b-fc54-b68e-f6a704f82f1f/mzl.kxlcltgy.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/fd/a8/eefda80f-f32b-94e4-27f3-e4a3fa8b1079/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/a0/73/95a0739c-7e40-2e7d-787b-52e59b3d8581/mzl.srqiktcn.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/b1/61/0eb1619e-2e6a-234f-06a6-eefafcad478c/mzl.ihcrhigp.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/60/09/11/60091180-1755-60ca-b390-3223f4ac8b34/mzl.vbvqksns.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Joplin](https://github.com/laurent22/joplin): Joplin is a free note taking and to-do application with synchronisation capabilities, which can handle a large number of notes organised into notebooks. [` App Store`](https://itunes.apple.com/app/joplin/id1315599797)  
+- [Joplin](https://github.com/laurent22/joplin): Note taking and to-do with synchronisation capabilities, can handle a large number of notes organised into notebooks [` App Store`](https://itunes.apple.com/app/joplin/id1315599797)  
   <details>
 	<summary><code>react-native</code> ⭐⭐⭐⭐⭐</summary>
 
