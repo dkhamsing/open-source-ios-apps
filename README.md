@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-872-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2020,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-872-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2026,%202019-lightgrey.svg)
 
 Jump to
 
@@ -206,7 +206,7 @@ Click ► to show more details
 	<a href='https://raw.githubusercontent.com/efremidze/Alarm/master/screenshots/en-US/iPhone7-0-d41d8cd98f00b204e9800998ecf8427e.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [AppleWatchFaces](https://github.com/orff/AppleWatchFaces): Create your own faces for watchOS.  Customize the watch hands, layout, colors, and images.  Edit faces on your phone and switch them on the watch.  
+- [AppleWatchFaces](https://github.com/orff/AppleWatchFaces): Create your own faces for watchOS  
   <details>
 	<summary><code>swift</code> <code>spritekit</code> </summary>
 
@@ -350,7 +350,7 @@ Click ► to show more details
 	<a href='https://github.com/chadkeck/Natural-Language-Clock/raw/master/assets/iPhone-and-Apple-Watch.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [Nightguard](https://github.com/nightscout/nightguard): An application to display blood glucose values stored at your nightscout server  
+- [Nightguard](https://github.com/nightscout/nightguard): Display blood glucose values stored on your nightscout server  
   <details>
 	<summary><code>swift</code> <code>apple-watch</code> </summary>
 
@@ -422,14 +422,6 @@ Click ► to show more details
 	<a href='https://raw.githubusercontent.com/kostiakoval/WatchKit-Apps/master/images/AppsInWatck/Counter.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler): watchOS 2 new features example code  
-  <details>
-	<summary><code>swift</code> <code>watchos2</code> ⭐⭐⭐⭐</summary>
-
-	Added June 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/shu223/watchOS-2-Sampler/raw/master/ResourcesForREADME/animation.gif'><code>Screenshot 1</code></a> 
-  </details>
-
 - [WatchPics](https://github.com/D-32/WatchPics): Instagram app  
   <details>
 	<summary><code>objc</code> </summary>
@@ -498,7 +490,7 @@ Click ► to show more details
 	<a href='http://i.imgur.com/bMQuwAE.png'><code>Screenshot 1</code></a> <a href='http://i.imgur.com/Wjro36A.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [SnowHaze](https://github.com/snowhaze/SnowHaze-iOS): A Powerful Private Browser Developed to Truly Protect your Data [` App Store`](https://itunes.apple.com/app/snowhaze/id1121026941)  
+- [SnowHaze](https://github.com/snowhaze/SnowHaze-iOS): Powerful private browser developed to protect your data [` App Store`](https://itunes.apple.com/app/snowhaze/id1121026941)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -706,7 +698,7 @@ Click ► to show more details
 	<a href='https://cloud.githubusercontent.com/assets/931655/23171892/4d3fd606-f897-11e6-87e0-7230d3010c7b.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Legend-Wings](https://github.com/woguan/Legend-Wings): A clone of EverWing game. Survive as much you can, earn gold, and upgrade/purchase new characters  
+- [Legend-Wings](https://github.com/woguan/Legend-Wings): EverWing game clone. Survive as much you can, earn gold, and upgrade/purchase new characters.  
   <details>
 	<summary><code>swift</code> <code>spritekit</code> ⭐⭐</summary>
 
@@ -746,7 +738,7 @@ Click ► to show more details
 	<a href='https://i.imgur.com/mBi9Jfj.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [YouTube Clone](https://github.com/VamshiIITBHU14/YouTubeClone): Clone of YouTuben but the main intention is to show how to write clean code, using proper MVC patterns and re-usable coding methodologie  
+- [YouTube Clone](https://github.com/VamshiIITBHU14/YouTubeClone): YouTube clone using MVC  
   <details>
 	<summary><code>swift</code> ⭐</summary>
 
@@ -1273,7 +1265,7 @@ Click ► to show more details
 	Added May  3, 2016<br>  License: `other`
   </details>
 
-- [TLS Inspector](https://github.com/certificate-helper/tls-inspector): Free WiFi, Workplace Internet, and Computer Viruses can put your personal information at risk. With TLS Inspector you can verify the secure connection information of any website and ensure that your information is private. [` App Store`](https://itunes.apple.com/app/apple-store/id1100539810)  
+- [TLS Inspector](https://github.com/certificate-helper/tls-inspector): Verify the secure connection information of any website and ensure that your information is private [` App Store`](https://itunes.apple.com/app/apple-store/id1100539810)  
   <details>
 	<summary><code>c</code> <code>objc</code> <code>c++</code> </summary>
 
@@ -1349,9 +1341,9 @@ Click ► to show more details
 	Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- [GitHubSearch](https://github.com/Karambirov/GitHubSearch): GitHub client written using MVVM architecture with Router and Realm (without Rx and Interface Builder)  
+- [GitHubSearch](https://github.com/Karambirov/GitHubSearch): GitHub client written using MVVM without Rx and Interface Builder  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> <code>router</code> <code>realm</code> </summary>
 
 	Added April 19, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://user-images.githubusercontent.com/6949755/52898872-71a60e00-31f4-11e9-853a-d7993aae4eed.png'><code>Screenshot 1</code></a> 
@@ -1482,7 +1474,7 @@ Click ► to show more details
 	<a href='https://i.imgur.com/8u73w5u.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/MShIfCe.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [Pocket Code](https://github.com/catrobat/catty): Pocket Code allows you to create your own games, animations, interactive music videos, and many kind of other apps, directly on your phone or tablet. [` App Store`](https://itunes.apple.com/app/pocket-code/id1117935892)  
+- [Pocket Code](https://github.com/catrobat/catty): Allows you to create your own games, animations, interactive music videos, and many kind of other apps, directly on device [` App Store`](https://itunes.apple.com/app/pocket-code/id1117935892)  
   <details>
 	<summary><code>swift</code> <code>objc</code> </summary>
 
@@ -1622,7 +1614,7 @@ Click ► to show more details
 	<a href='https://jamesaddyman.com/provenance/screenshots/provenance1.png'><code>Screenshot 1</code></a> <a href='https://jamesaddyman.com/provenance/screenshots/provenance6.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [RetroArch](https://github.com/libretro/RetroArch): The most comprehensive emulator frontend with support for systems such as NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more  
+- [RetroArch](https://github.com/libretro/RetroArch): Comprehensive emulator frontend with support for NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more  
   <details>
 	<summary><code>c</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -2275,7 +2267,7 @@ Click ► to show more details
 	<a href='https://i.imgur.com/MZZeHCf.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [FityIt](https://github.com/txaiwieser/FityIt): FityIt - The shapes game - is a challenging game of skill and reflexes. Not only does this game test your reaction time, is super fun and addictive. How long can you survive in FityIt? [` App Store`](https://itunes.apple.com/app/fityit-the-shapes-game/id991444581)  
+- [FityIt](https://github.com/txaiwieser/FityIt): Challenging shapes game of skill and reflexes [` App Store`](https://itunes.apple.com/app/fityit-the-shapes-game/id991444581)  
   <details>
 	<summary><code>swift</code> <code>spritekit</code> <code>game</code> <code>animation</code> </summary>
 
@@ -2363,7 +2355,7 @@ Click ► to show more details
 	<a href='http://a5.mzstatic.com/us/r30/Purple4/v4/3a/ac/87/3aac87ca-d5cc-9bea-3899-807cf211da85/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/d8/75/0d/d8750d68-3619-b760-99c5-ec4eac12ae35/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple3/v4/41/9c/d3/419cd344-da8a-f046-3bcf-757f6f10768d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/11/28/6e/11286e79-b0b0-1057-7315-3e122a15a62c/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple4/v4/ca/99/1e/ca991e9e-1fe3-8764-b7f9-5c38b4c6e565/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Legend-Wings](https://github.com/woguan/Legend-Wings): A clone of EverWing game. Survive as much you can, earn gold, and upgrade/purchase new characters  
+- [Legend-Wings](https://github.com/woguan/Legend-Wings): EverWing game clone. Survive as much you can, earn gold, and upgrade/purchase new characters.  
   <details>
 	<summary><code>swift</code> <code>spritekit</code> ⭐⭐</summary>
 
@@ -2587,7 +2579,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [FityIt](https://github.com/txaiwieser/FityIt): FityIt - The shapes game - is a challenging game of skill and reflexes. Not only does this game test your reaction time, is super fun and addictive. How long can you survive in FityIt? [` App Store`](https://itunes.apple.com/app/fityit-the-shapes-game/id991444581)  
+- [FityIt](https://github.com/txaiwieser/FityIt): Challenging shapes game of skill and reflexes [` App Store`](https://itunes.apple.com/app/fityit-the-shapes-game/id991444581)  
   <details>
 	<summary><code>swift</code> <code>spritekit</code> <code>game</code> <code>animation</code> </summary>
 
@@ -2695,7 +2687,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='http://a2.mzstatic.com/us/r30/Purple69/v4/9f/82/17/9f8217e4-00da-b516-1853-23fbc6ecbdaf/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple49/v4/c9/cd/e2/c9cde204-5712-97c4-c952-7f0884490153/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/28/fd/66/28fd66a4-d756-34ce-98f0-aa5dae26ff7d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/7e/80/b9/7e80b966-2e41-a36a-a1a3-b02c70ec0961/screen696x696.jpeg'><code>Screenshot 4</code></a> 
   </details>
 
-- [Gleam](https://github.com/akarataev/gleam-ios): Gleam is mobile application (based on machine learning algorithm) that will help make an early diagnosis of melanoma and get the necessary treatment on time  
+- [Gleam](https://github.com/akarataev/gleam-ios): Use machine learning algorithm to help make an early diagnosis of melanoma and get the necessary treatment on time  
   <details>
 	<summary><code>swift</code> <code>coreml</code> <code>avkit</code> <code>viper</code> </summary>
 
@@ -2750,7 +2742,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='http://a1.mzstatic.com/us/r30/Purple122/v4/2d/28/8c/2d288c05-33f0-1f18-b06a-4e3a24e1d608/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Nightguard](https://github.com/nightscout/nightguard): An application to display blood glucose values stored at your nightscout server  
+- [Nightguard](https://github.com/nightscout/nightguard): Display blood glucose values stored on your nightscout server  
   <details>
 	<summary><code>swift</code> <code>apple-watch</code> </summary>
 
@@ -2968,7 +2960,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://github.com/findmybusnj/findmybusnj-swift/raw/master/README_banner.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [GeoLicious](https://github.com/da3x/GeoLicious): Location Tracking made easy... GeoLicious is a long term project I've maintained from 2013 to 2017 and made public in May 2017. [` App Store`](https://itunes.apple.com/app/geolicious/id637366170)  
+- [GeoLicious](https://github.com/da3x/GeoLicious): Location tracking made easy [` App Store`](https://itunes.apple.com/app/geolicious/id637366170)  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -6526,7 +6518,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
 	<a href='https://github.com/vkaltyrin/exchanger/blob/master/screenshot.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [Gleam](https://github.com/akarataev/gleam-ios): Gleam is mobile application (based on machine learning algorithm) that will help make an early diagnosis of melanoma and get the necessary treatment on time  
+- [Gleam](https://github.com/akarataev/gleam-ios): Use machine learning algorithm to help make an early diagnosis of melanoma and get the necessary treatment on time  
   <details>
 	<summary><code>swift</code> <code>coreml</code> <code>avkit</code> <code>viper</code> </summary>
 
