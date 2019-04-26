@@ -2,7 +2,7 @@
 
 This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.
 
-![](https://img.shields.io/badge/Projects-216-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2020,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-217-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2026,%202019-lightgrey.svg)
 - [2048](https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/2048)
 - [A Menjar](https://github.com/maurovc/aMenjar)
 - [Abby's Cycle](https://github.com/jc4p/abby-healthkit)
@@ -209,6 +209,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [warpedAR](https://github.com/Trevorrwarduk/warpedAR-Open-Source)
 - [Watchman](https://github.com/DanToml/Watchman)
 - [WatchNotes](https://github.com/azamsharp/WatchNotes)
+- [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler)
 - [WatchSnake](https://github.com/davidcairns/-WatchSnake)
 - [WatchStocks](https://github.com/G2Jose/WatchStocks)
 - [WeatherMap](https://github.com/TakefiveInteractive/WeatherMap)
