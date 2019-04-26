@@ -698,7 +698,7 @@ Click ► to show more details
 	<a href='https://cloud.githubusercontent.com/assets/931655/23171892/4d3fd606-f897-11e6-87e0-7230d3010c7b.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Legend-Wings](https://github.com/woguan/Legend-Wings): EverWing game clone. Survive as much you can, earn gold, and upgrade/purchase new characters.  
+- [Legend-Wings](https://github.com/woguan/Legend-Wings): EverWing game clone (survive as much you can, earn gold, and upgrade/purchase new characters)  
   <details>
 	<summary><code>swift</code> <code>spritekit</code> ⭐⭐</summary>
 
@@ -1474,7 +1474,7 @@ Click ► to show more details
 	<a href='https://i.imgur.com/8u73w5u.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/MShIfCe.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [Pocket Code](https://github.com/catrobat/catty): Allows you to create your own games, animations, interactive music videos, and many kind of other apps, directly on device [` App Store`](https://itunes.apple.com/app/pocket-code/id1117935892)  
+- [Pocket Code](https://github.com/catrobat/catty): Allows you to create games, animations, interactive music videos, and many kind of other apps, directly on device [` App Store`](https://itunes.apple.com/app/pocket-code/id1117935892)  
   <details>
 	<summary><code>swift</code> <code>objc</code> </summary>
 
@@ -1635,7 +1635,7 @@ Click ► to show more details
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/aa/31/79/aa3179bb-94de-501b-3a54-a4ce1a5742c2/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/8d/a4/98/8da49880-bfe1-021b-7ae4-8922ca17f723/pr_source.png/230x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/b4/a9/5f/b4a95ff1-0f47-1a32-c6c8-0bf5a3cc2435/pr_source.png/230x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- [ConfFriends](https://github.com/ay8s/ConfFriends): An easy way to connect with fellow developers during WWDC, Layers & AltConf [` App Store`](https://itunes.apple.com/app/id1386399019)  
+- [ConfFriends](https://github.com/ay8s/ConfFriends): Easy way to connect with fellow developers during WWDC, Layers & AltConf [` App Store`](https://itunes.apple.com/app/id1386399019)  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -1911,7 +1911,7 @@ Click ► to show more details
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/b0/cc/e8/b0cce897-0e91-db42-fb0d-a3e7f1b8c91a/mzl.kfmaddan.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/73/00/4c/73004c98-1b29-5dd2-4e61-1f83a309ded6/mzl.tsjggnvf.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/3d/a3/a4/3da3a42f-9ebf-a80f-4930-dee1dc0f24ef/mzl.zejyzppj.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/86/98/fc/8698fcbe-6761-7bf8-a86f-053ebe1848db/mzl.yqxbksxf.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [FileExplorer](https://github.com/Augustyniak/FileExplorer): A powerful file browser that allows its users to choose and remove files and/or directories  
+- [FileExplorer](https://github.com/Augustyniak/FileExplorer): Powerful file browser that allows its users to choose and remove files and/or directories  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐</summary>
 
@@ -2355,7 +2355,7 @@ Click ► to show more details
 	<a href='http://a5.mzstatic.com/us/r30/Purple4/v4/3a/ac/87/3aac87ca-d5cc-9bea-3899-807cf211da85/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/d8/75/0d/d8750d68-3619-b760-99c5-ec4eac12ae35/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple3/v4/41/9c/d3/419cd344-da8a-f046-3bcf-757f6f10768d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/11/28/6e/11286e79-b0b0-1057-7315-3e122a15a62c/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple4/v4/ca/99/1e/ca991e9e-1fe3-8764-b7f9-5c38b4c6e565/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Legend-Wings](https://github.com/woguan/Legend-Wings): EverWing game clone. Survive as much you can, earn gold, and upgrade/purchase new characters.  
+- [Legend-Wings](https://github.com/woguan/Legend-Wings): EverWing game clone (survive as much you can, earn gold, and upgrade/purchase new characters)  
   <details>
 	<summary><code>swift</code> <code>spritekit</code> ⭐⭐</summary>
 
@@ -2442,7 +2442,7 @@ Click ► to show more details
 	<a href='http://a5.mzstatic.com/us/r30/Purple7/v4/aa/33/d8/aa33d8aa-ccb6-293d-a213-f7bd5cdc55e1/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/2a/fe/98/2afe98b7-d218-cd50-ec2e-706bb93bd9a3/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/ea/29/3d/ea293d10-eb58-009d-9590-51b8c647568f/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/3f/1d/0a/3f1d0a4e-da6c-b3dc-058a-44c8c562855e/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/e0/3d/4f/e03d4f98-caed-0026-9072-0ffd5f6df2aa/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Ragnarok](https://github.com/riley-usagi/SwiftAdvance): A simple game application for the practice of beginners in Swift-programming  
+- [Ragnarok](https://github.com/riley-usagi/SwiftAdvance): Simple game application for the practice of beginners in Swift-programming  
   <details>
 	<summary><code>swift</code> 🌐 </summary>
 
@@ -2702,7 +2702,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	Added January 13, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 
-- [Good Spirits](https://github.com/archagon/good-spirits): A drink tracker with weekly limits, Untappd support, and HealthKit sync [` App Store`](https://itunes.apple.com/app/good-spirits/id1434237439)  
+- [Good Spirits](https://github.com/archagon/good-spirits): Drink tracker with weekly limits, Untappd support, and HealthKit sync [` App Store`](https://itunes.apple.com/app/good-spirits/id1434237439)  
   <details>
 	<summary><code>swift</code> <code>healthkit</code> ⭐</summary>
 
@@ -3721,7 +3721,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://github.com/BalestraPatrick/RealmVideo/raw/master/Resources/demo.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [Showio](https://github.com/madyanov/showio-app): A simple TV show tracker [` App Store`](https://itunes.apple.com/app/id1445035408)  
+- [Showio](https://github.com/madyanov/showio-app): Simple TV show tracker [` App Store`](https://itunes.apple.com/app/id1445035408)  
   <details>
 	<summary><code>swift</code> <code>tmdb</code> </summary>
 
@@ -3907,7 +3907,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen1.jpg?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen2.jpg?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen3.jpg?raw=true'><code>Screenshot 3</code></a> 
   </details>
 
-- [WeAre](https://github.com/SherlockQi/HeavenMemoirs): Augmented Reality Album [` App Store`](https://itunes.apple.com/app/weare/id1304227680)  
+- [WeAre](https://github.com/SherlockQi/HeavenMemoirs): Augmented reality album [` App Store`](https://itunes.apple.com/app/weare/id1304227680)  
   <details>
 	<summary><code>swift</code> <code>arkit</code> 🌐 ⭐⭐</summary>
 
@@ -3944,7 +3944,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<a href='http://getfetchapp.com/img/product.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Playerly](https://github.com/justjs/Playerly): Play videos from the Files app in a better and darker interface which avoids losing your playback position.  
+- [Playerly](https://github.com/justjs/Playerly): Play videos from the Files app in a better and darker interface which avoids losing your playback position  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -4678,7 +4678,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://cloud.githubusercontent.com/assets/1646564/16943747/de7a0c36-4dcf-11e6-913f-103301ef8fda.png'><code>Screenshot 1</code></a> <a href='https://cloud.githubusercontent.com/assets/1646564/16943754/e1d036ee-4dcf-11e6-8994-cc2cf1709bb8.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [MVCTodo](https://github.com/davedelong/MVCTodo): Very simple To Do app to illustrate the principles from my A Better MVC talk  
+- [MVCTodo](https://github.com/davedelong/MVCTodo): Simple To Do app to illustrate the principles from my A Better MVC talk  
   <details>
 	<summary><code>swift</code> ⭐⭐</summary>
 
@@ -4761,7 +4761,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Betcalsa](https://github.com/emredurukn/betcalsa): Betcalsa is a easy to use document scanner app. Automatically detect your document and enhance the scans with black-and-white filter.  
+- [Betcalsa](https://github.com/emredurukn/betcalsa): Document scanner, automatically detect your document and enhance the scans with black-and-white filter  
   <details>
 	<summary><code>swift</code> <code>wescan</code> </summary>
 
@@ -5228,9 +5228,9 @@ https://mastodon.social — [back to top](#readme)
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/4d/fe/2e4dfec4-02b8-eb6f-d104-cfd8f041f7f0/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [TypeStyle](https://github.com/ebelinski/typestyle-ios): TypeStyle is a funky app for iPhone and iPad that stylizes your text and adds decorations! [` App Store`](https://itunes.apple.com/app/typestyle/id1441019779)  
+- [TypeStyle](https://github.com/ebelinski/typestyle-ios): Stylizes your text and adds decorations [` App Store`](https://itunes.apple.com/app/typestyle/id1441019779)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> <code>ipad</code> </summary>
 
 	https://typestyle.app<br>  Added February 22, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://raw.githubusercontent.com/ebelinski/typestyle-ios/master/media/iphone-x-screenshots.png'><code>Screenshot 1</code></a> 
@@ -5257,7 +5257,7 @@ https://mastodon.social — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f9/72/00/f972005b-5a6b-fc54-b68e-f6a704f82f1f/mzl.kxlcltgy.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/fd/a8/eefda80f-f32b-94e4-27f3-e4a3fa8b1079/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/a0/73/95a0739c-7e40-2e7d-787b-52e59b3d8581/mzl.srqiktcn.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/b1/61/0eb1619e-2e6a-234f-06a6-eefafcad478c/mzl.ihcrhigp.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/60/09/11/60091180-1755-60ca-b390-3223f4ac8b34/mzl.vbvqksns.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Joplin](https://github.com/laurent22/joplin): Joplin is a free note taking and to-do application with synchronisation capabilities, which can handle a large number of notes organised into notebooks. [` App Store`](https://itunes.apple.com/app/joplin/id1315599797)  
+- [Joplin](https://github.com/laurent22/joplin): Note taking and to-do with synchronisation capabilities, can handle a large number of notes organised into notebooks [` App Store`](https://itunes.apple.com/app/joplin/id1315599797)  
   <details>
 	<summary><code>react-native</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -6371,7 +6371,7 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Model2App Test App](https://github.com/Q-Mobile/Model2App): Model2App Test App is a very simple CRM app built using Model2App library that lets you quickly generate a CRUD iOS app based on just a data model defined in Swift. (CRUD - Create Read Update Delete). Model2App is built on top of Realm.  
+- [Model2App Test App](https://github.com/Q-Mobile/Model2App): Simple CRM app built using Model2App library, lets you quickly generate a CRUD iOS app based on just a data model  
   <details>
 	<summary><code>swift</code> <code>realm</code> </summary>
 
