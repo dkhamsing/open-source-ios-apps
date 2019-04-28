@@ -14209,9 +14209,10 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+	"archive"
       ],
-      "source": "https://github.com/merciyah/whatsapp",
+      "source": "https://github.com/opensourceios/whatsapp",
       "stars": 1277,
       "license": "other",
       "date_added": "Mon Aug 14 08:18:58 2016 -0800",
@@ -14226,12 +14227,13 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+	"archive"
       ],
       "screenshots": [
         "https://i.imgur.com/6HfPmrT.png"
       ],
-      "source": "https://github.com/merciyah/SnapChat",
+      "source": "https://github.com/opensourceios/SnapChat",
       "stars": 583,
       "license": "other",
       "date_added": "Mon Aug 14 08:19:58 2016 -0800",
@@ -14243,12 +14245,13 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+	"archive"
       ],
       "screenshots": [
         "https://i.imgur.com/PrMRwmY.png"
       ],
-      "source": "https://github.com/merciyah/Pokemon",
+      "source": "https://github.com/c/Pokemon",
       "stars": 229,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
@@ -14260,12 +14263,13 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+	"archive"
       ],
       "screenshots": [
         "https://i.imgur.com/I7d06Pq.png"
       ],
-      "source": "https://github.com/merciyah/Tinder",
+      "source": "https://github.com/opensourceios/Tinder",
       "stars": 636,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
@@ -14277,12 +14281,13 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+	"archive"
       ],
       "screenshots": [
         "https://i.imgur.com/0kzQBEJ.png"
       ],
-      "source": "https://github.com/merciyah/Twitter",
+      "source": "https://github.com/opensourceios/Twitter",
       "stars": 141,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
@@ -14294,12 +14299,13 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+	"archive"
       ],
       "screenshots": [
         "https://i.imgur.com/vMgWK6m.png"
       ],
-      "source": "https://github.com/merciyah/AirBnb",
+      "source": "https://github.com/opensourceios/AirBnb",
       "stars": 435,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
@@ -14311,12 +14317,13 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+	"archive"
       ],
       "screenshots": [
         "https://i.imgur.com/6Xogt5Y.png"
       ],
-      "source": "https://github.com/merciyah/FCBarca",
+      "source": "https://github.com/opensourceios/FCBarca",
       "stars": 63,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
