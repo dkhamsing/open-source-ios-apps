@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-872-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2026,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-871-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2028,%202019-lightgrey.svg)
 
 Jump to
 
@@ -940,14 +940,6 @@ Click ► to show more details
 
 	Added April  6, 2015<br>  License: `other`<br>
 	<a href='http://a5.mzstatic.com/us/r30/Purple62/v4/d1/90/fd/d190fd61-005a-a5b7-0bf4-91b5c588b970/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/95/f3/2e/95f32efb-5e42-841e-f142-b25b14f62f25/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/ad/4c/76/ad4c768a-31c3-8fb2-daf4-effd9914e46c/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/92/80/a3/9280a32a-66b6-15b9-b8fb-866ea1e13bfa/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple62/v4/be/00/19/be00193f-ee7e-9886-09d5-86ca9dfa2faf/screen696x696.jpeg'><code>Screenshot 5</code></a> 
-  </details>
-
-- [Toshi](https://github.com/CoinbaseWallet/toshi-ios-client): Private & secure messaging, Ethereum wallet and browser  
-  <details>
-	<summary><code>swift</code> ⭐</summary>
-
-	Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a1.mzstatic.com/us/r30/Purple122/v4/45/e5/da/45e5daf2-6dd5-ae2c-da9f-35f60f9cdaca/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
 - [TrollDrop](https://github.com/a2/TrollDrop): Send trollfaces to everyone  
@@ -2051,14 +2043,6 @@ Click ► to show more details
 	<a href='http://a4.mzstatic.com/us/r30/Purple1/v4/81/de/d6/81ded63c-8a48-dff9-062f-92ac2c5299ee/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/d2/ca/dd/d2cadd24-5d85-f613-aba2-9931cb785b65/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/82/5a/ff/825affaf-cc4a-6d24-99e0-f3197f769f58/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple7/v4/6e/03/d6/6e03d609-2cb7-4095-cc24-a63b1c8e8d12/screen696x696.jpeg'><code>Screenshot 4</code></a> 
   </details>
 
-- [Toshi](https://github.com/CoinbaseWallet/toshi-ios-client): Private & secure messaging, Ethereum wallet and browser  
-  <details>
-	<summary><code>swift</code> ⭐</summary>
-
-	Added April 21, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a1.mzstatic.com/us/r30/Purple122/v4/45/e5/da/45e5daf2-6dd5-ae2c-da9f-35f60f9cdaca/screen696x696.jpeg'><code>Screenshot 1</code></a> 
-  </details>
-
 - [ToThePenny](https://github.com/vanyaland/ToThePenny): Budget tracker  
   <details>
 	<summary><code>objc</code> </summary>
@@ -2881,14 +2865,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 	Added July  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://a5.mzstatic.com/us/r30/Purple6/v4/28/59/25/285925a7-b4c8-0042-d59c-5ac9ae854189/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/9f/aa/14/9faa14df-83e2-1503-67e1-d482539dca69/screen696x696.jpeg'><code>Screenshot 2</code></a> 
-  </details>
-
-- [Link Keyboard : My Links Everywhere](https://github.com/ayushgoel/LinkKeyboard): Put all your links in one place & make them accessible with a keyboard [` App Store`](https://itunes.apple.com/app/link-keyboard-my-links-everywhere/id1098798450)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added October 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple60/v4/d3/4a/5d/d34a5d0e-45f0-6605-aca6-0b86c169f6a8/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple30/v4/56/d8/5d/56d85d95-eafa-f347-31b5-0c4b0a17bcc9/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple30/v4/70/59/11/705911ee-338a-4154-6074-62c8ba5998ac/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple20/v4/23/d1/bb/23d1bb47-6aac-a6e5-4575-e8639d188af7/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple30/v4/e3/b3/98/e3b398e1-da5e-404a-067e-613a625abe1a/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
 - [Slidden](https://github.com/Brimizer/Slidden): Customizable keyboard  
@@ -6018,14 +5994,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [AirBnb clone](https://github.com/merciyah/AirBnb)  
-  <details>
-	<summary><code>react-native</code> ⭐⭐</summary>
-
-	Added August 14, 2016<br>  License: `other`<br>
-	<a href='https://i.imgur.com/vMgWK6m.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Artist](https://github.com/orta/Relay-Artist-Example): Use Relay to access the Artsy GraphQL API  
   <details>
 	<summary><code>react native</code> <code>graphql</code> </summary>
@@ -6080,14 +6048,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 	Added April 14, 2016<br>  License: `other`<br>
 	<a href='https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [FC Barcelona clone](https://github.com/merciyah/FCBarca)  
-  <details>
-	<summary><code>react-native</code> </summary>
-
-	Added August 14, 2016<br>  License: `other`<br>
-	<a href='https://i.imgur.com/6Xogt5Y.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Finance](https://github.com/7kfpun/FinanceReactNative): The system Stocks app written in React Native  
@@ -6184,14 +6144,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<a href='http://a1.mzstatic.com/us/r30/Purple71/v4/78/63/2e/78632e47-b8cf-5068-19be-e8e848581dbf/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Pokemon Go clone](https://github.com/merciyah/Pokemon)  
-  <details>
-	<summary><code>react-native</code> ⭐⭐</summary>
-
-	Added August 14, 2016<br>  License: `other`<br>
-	<a href='https://i.imgur.com/PrMRwmY.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [pokemon-map](https://github.com/bakery/pokemon-map): Locate Pokemon around you  
   <details>
 	<summary><code>react native</code> </summary>
@@ -6255,28 +6207,12 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<a href='https://github.com/christopherdro/react-native-rss-reader/raw/master/RssReaderDemo.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [Snapchat clone](https://github.com/merciyah/SnapChat)  
-  <details>
-	<summary><code>react-native</code> ⭐⭐⭐</summary>
-
-	Added August 14, 2016<br>  License: `other`<br>
-	<a href='https://i.imgur.com/6HfPmrT.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Snowflake](https://github.com/bartonhammond/snowflake): A React-Native Starter App/BoilerPlate/Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku  
   <details>
 	<summary><code>react-native</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added February 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cloud.githubusercontent.com/assets/1282364/11598478/b2b1b5e6-9a87-11e5-8be9-37cbfa478a71.gif'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Tinder clone](https://github.com/merciyah/Tinder)  
-  <details>
-	<summary><code>react-native</code> ⭐⭐⭐</summary>
-
-	Added August 14, 2016<br>  License: `other`<br>
-	<a href='https://i.imgur.com/I7d06Pq.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [To Do List](https://github.com/joemaddalone/react-native-todo)  
@@ -6302,14 +6238,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<a href='https://github.com/IFours/react-native-twitch/raw/rn0.15/assets/twitch.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [Twitter clone](https://github.com/merciyah/Twitter)  
-  <details>
-	<summary><code>react-native</code> ⭐</summary>
-
-	Added August 14, 2016<br>  License: `other`<br>
-	<a href='https://i.imgur.com/0kzQBEJ.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Weather by JakeLin](https://github.com/JakeLin/ReactNativeWeather)  
   <details>
 	<summary><code>react native</code> </summary>
@@ -6324,14 +6252,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 	https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp<br>  Added May  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen1.png'><code>Screenshot 1</code></a> <a href='http://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen2.png'><code>Screenshot 2</code></a> <a href='http://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen3.png'><code>Screenshot 3</code></a> 
-  </details>
-
-- [Whatsapp clone](https://github.com/merciyah/whatsapp)  
-  <details>
-	<summary><code>react-native</code> ⭐⭐⭐⭐</summary>
-
-	Added August 14, 2016<br>  License: `other`<br>
-	<a href='https://i.imgur.com/T6Hwv3b.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [WWDC Family React Native](https://github.com/wwdc-family/app): Easily connect with fellow developers during WWDC  
