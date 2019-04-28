@@ -3135,11 +3135,11 @@
         "keyboard"
       ],
       "tags": [
-        "swift"
+        "swift",
+	"archive"
       ],
       "description": "Put all your links in one place & make them accessible with a keyboard",
       "source": "https://github.com/ayushgoel/LinkKeyboard",
-      "itunes": "https://itunes.apple.com/app/link-keyboard-my-links-everywhere/id1098798450",
       "screenshots": [
         "http://a2.mzstatic.com/us/r30/Purple60/v4/d3/4a/5d/d34a5d0e-45f0-6605-aca6-0b86c169f6a8/screen696x696.jpeg",
         "http://a3.mzstatic.com/us/r30/Purple30/v4/56/d8/5d/56d85d95-eafa-f347-31b5-0c4b0a17bcc9/screen696x696.jpeg",
@@ -13800,25 +13800,6 @@
       "stars": 0
     },
     {
-      "title": "Toshi",
-      "description": "Private & secure messaging, Ethereum wallet and browser",
-      "source": "https://github.com/CoinbaseWallet/toshi-ios-client",
-      "tags": [
-        "swift"
-      ],
-      "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple122/v4/45/e5/da/45e5daf2-6dd5-ae2c-da9f-35f60f9cdaca/screen696x696.jpeg"
-      ],
-      "category-ids": [
-        "finance",
-        "communication"
-      ],
-      "license": "gpl-3.0",
-      "date_added": "Apr 21 2017",
-      "suggested_by": "@dkhamsing",
-      "stars": 172
-    },
-    {
       "title": "AppleWatchProductHunt",
       "source": "https://github.com/BalestraPatrick/AppleWatchProductHunt",
       "category-ids": [
@@ -14209,9 +14190,10 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+	"archive"
       ],
-      "source": "https://github.com/merciyah/whatsapp",
+      "source": "https://github.com/opensourceios/whatsapp",
       "stars": 1277,
       "license": "other",
       "date_added": "Mon Aug 14 08:18:58 2016 -0800",
@@ -14226,12 +14208,13 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+	"archive"
       ],
       "screenshots": [
         "https://i.imgur.com/6HfPmrT.png"
       ],
-      "source": "https://github.com/merciyah/SnapChat",
+      "source": "https://github.com/opensourceios/SnapChat",
       "stars": 583,
       "license": "other",
       "date_added": "Mon Aug 14 08:19:58 2016 -0800",
@@ -14243,12 +14226,13 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+	"archive"
       ],
       "screenshots": [
         "https://i.imgur.com/PrMRwmY.png"
       ],
-      "source": "https://github.com/merciyah/Pokemon",
+      "source": "https://github.com/c/Pokemon",
       "stars": 229,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
@@ -14260,12 +14244,13 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+	"archive"
       ],
       "screenshots": [
         "https://i.imgur.com/I7d06Pq.png"
       ],
-      "source": "https://github.com/merciyah/Tinder",
+      "source": "https://github.com/opensourceios/Tinder",
       "stars": 636,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
@@ -14277,12 +14262,13 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+	"archive"
       ],
       "screenshots": [
         "https://i.imgur.com/0kzQBEJ.png"
       ],
-      "source": "https://github.com/merciyah/Twitter",
+      "source": "https://github.com/opensourceios/Twitter",
       "stars": 141,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
@@ -14294,12 +14280,13 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+	"archive"
       ],
       "screenshots": [
         "https://i.imgur.com/vMgWK6m.png"
       ],
-      "source": "https://github.com/merciyah/AirBnb",
+      "source": "https://github.com/opensourceios/AirBnb",
       "stars": 435,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
@@ -14311,12 +14298,13 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+	"archive"
       ],
       "screenshots": [
         "https://i.imgur.com/6Xogt5Y.png"
       ],
-      "source": "https://github.com/merciyah/FCBarca",
+      "source": "https://github.com/opensourceios/FCBarca",
       "stars": 63,
       "license": "other",
       "date_added": "Mon Aug 14 08:06:58 2016 -0800",
