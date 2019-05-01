@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-871-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2028,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-871-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%201,%202019-lightgrey.svg)
 
 Jump to
 
@@ -294,14 +294,6 @@ Click ► to show more details
 	<a href='https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Gulps](https://github.com/FancyPixel/gulps): Track your daily water consumption [` App Store`](https://itunes.apple.com/app/gulps/id979057304)  
-  <details>
-	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
-
-	Added April 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://cdn-images-1.medium.com/max/800/1*5sA3rvpUw5bdecwbDx7cYA.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [HeartControl](https://github.com/thomaspaulmann/HeartControl): Continuous heart rate measurement during workouts  
   <details>
 	<summary><code>swift</code> <code>watchos3</code> ⭐</summary>
@@ -435,14 +427,6 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [Brave](https://github.com/brave/browser-ios): Firefox-based browser with ad block & tracking pixel/cookie block built in [` App Store`](https://itunes.apple.com/app/brave-web-browser/id1052879175)  
-  <details>
-	<summary><code>swift</code> ⭐⭐⭐</summary>
-
-	Added May 24, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple18/v4/ed/6c/07/ed6c07f4-c9cd-0daa-a331-a39a85ba1c08/screen696x696.jpeg'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Chrome](https://chromium.googlesource.com/chromium/src.git/+/master/ios/)  
   <details>
 	<summary><code>objective-c++</code> </summary>
@@ -942,14 +926,6 @@ Click ► to show more details
 	<a href='http://a5.mzstatic.com/us/r30/Purple62/v4/d1/90/fd/d190fd61-005a-a5b7-0bf4-91b5c588b970/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/95/f3/2e/95f32efb-5e42-841e-f142-b25b14f62f25/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/ad/4c/76/ad4c768a-31c3-8fb2-daf4-effd9914e46c/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/92/80/a3/9280a32a-66b6-15b9-b8fb-866ea1e13bfa/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple62/v4/be/00/19/be00193f-ee7e-9886-09d5-86ca9dfa2faf/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- [TrollDrop](https://github.com/a2/TrollDrop): Send trollfaces to everyone  
-  <details>
-	<summary><code>objc</code> <code>airdrop</code> </summary>
-
-	Added May  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/gb1G8di.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [TSWeChat](https://github.com/hilen/TSWeChat): A WeChat alternative  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
@@ -1178,14 +1154,6 @@ Click ► to show more details
 	<a href='https://github.com/noodlewerk/NWPusher/raw/master/Docs/osx2.png'><code>Screenshot 1</code></a> <a href='https://github.com/noodlewerk/NWPusher/raw/master/Docs/ios.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [OpenTerm](https://github.com/louisdh/openterm): Sandboxed command line interface  
-  <details>
-	<summary><code>swift</code> <code>panelkit</code> ⭐⭐⭐⭐</summary>
-
-	Added January  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Pastebin Mobile](https://github.com/jonluca/PasteBinApp): Quickly and easily uploads text or code to https://pastebin.com  
   <details>
 	<summary><code>swift</code> </summary>
@@ -1403,14 +1371,6 @@ Click ► to show more details
 
 	Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/OBGvFKw.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/50eCbeX.png'><code>Screenshot 2</code></a> 
-  </details>
-
-- [SwiftHub](https://github.com/sahandnayebaziz/StateView-Samples-SwiftHub): View Swift repositories on GitHub  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	Added May 15, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/NjqYq02.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written in RxSwift and MVVM clean architecture [` App Store`](https://itunes.apple.com/app/swifthub-git-client/id1448628710)  
@@ -2418,28 +2378,12 @@ Click ► to show more details
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'><code>Screenshot 2</code></a> 
   </details>
 
-- [Pterodactyl Attack](https://github.com/shaunlebron/PterodactylAttack): Blast your way through waves of pterodactyls, includes detailed writeup on how it's made  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	https://shaunlebron.github.io/pteroattack.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple7/v4/aa/33/d8/aa33d8aa-ccb6-293d-a213-f7bd5cdc55e1/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/2a/fe/98/2afe98b7-d218-cd50-ec2e-706bb93bd9a3/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/ea/29/3d/ea293d10-eb58-009d-9590-51b8c647568f/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/3f/1d/0a/3f1d0a4e-da6c-b3dc-058a-44c8c562855e/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/e0/3d/4f/e03d4f98-caed-0026-9072-0ffd5f6df2aa/screen696x696.jpeg'><code>Screenshot 5</code></a> 
-  </details>
-
 - [Ragnarok](https://github.com/riley-usagi/SwiftAdvance): Simple game application for the practice of beginners in Swift-programming  
   <details>
 	<summary><code>swift</code> 🌐 </summary>
 
 	Added September  4, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/3.png'><code>Screenshot 3</code></a> 
-  </details>
-
-- [RealmPop](https://github.com/realm/RealmPop): Platform / multiplayer game where players pair up to clear a level of bubbles  
-  <details>
-	<summary><code>swift</code> <code>realm</code> </summary>
-
-	Added March  7, 2017<br>  License: `other`<br>
-	<a href='https://i.imgur.com/pTxoTPX.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/Zrvfypq.png'><code>Screenshot 2</code></a> 
   </details>
 
 - [S.C.P-Asylum-Fail](https://github.com/cpo007/S.C.P-Asylum-Fail): A game like ’Life Line’  
@@ -2974,14 +2918,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 	Added January 14, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo7.jpg'><code>Screenshot 1</code></a> <a href='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo8.jpg'><code>Screenshot 2</code></a> <a href='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo3.jpg'><code>Screenshot 3</code></a> 
-  </details>
-
-- [Locative](https://github.com/LocativeHQ/Locative-iOS): Helping you to get the best out of your automated home, geofencing, iBeacons [` App Store`](https://itunes.apple.com/app/locative/id725198453)  
-  <details>
-	<summary><code>objc</code> ⭐⭐</summary>
-
-	Added December 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a4.mzstatic.com/us/r30/Purple22/v4/21/c1/5b/21c15b39-59ac-cb25-0aea-857ada781327/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple41/v4/e9/2c/30/e92c3020-50f6-3ec9-0f05-93af09dfc536/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple41/v4/9f/63/01/9f630162-1043-5aec-83f7-38c0a056da9c/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple71/v4/38/51/6b/38516bb5-8934-1fb6-876a-9b24b3549cb4/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple62/v4/bc/20/18/bc201818-03fe-d866-a9e0-2fd72085b93a/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
 - [Lunchify](https://github.com/sallar/lunchify-swift): Find restaurants offering 10€ lunch buffets in Finland  
@@ -3609,14 +3545,6 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added February 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/KMindeguia/movies/master/Gif%20Demo/demo.gif'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Open States](https://github.com/openstates/legacy-openstates-ios): Browse state legislatures  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	Added April  6, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
-	<a href='https://s3.mzstatic.com/r30/Purple6/v4/d3/db/1a/d3db1a57-d85c-b2b1-3b15-5c14bb455229/screen1136x1136.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
 - [OpenPics](https://github.com/pj4533/OpenPics): View historical images from multiple remote sources [` App Store`](https://itunes.apple.com/app/openpics/id633423505)  
@@ -4359,14 +4287,6 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
 	<a href='http://a4.mzstatic.com/us/r30/Purple69/v4/d9/af/b7/d9afb7d3-1d4c-2e44-1501-371f2a32a0da/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/ed/8c/2f/ed8c2f53-0d0f-e44f-40a8-f55f87dfd517/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple49/v4/43/09/21/430921eb-aa5a-c68a-9c02-8372dba3a241/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/43/f2/27/43f227be-e0ec-f5de-ef7c-5a786719899a/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/42/98/19/429819d8-b91b-d248-3fc1-1a6f127d82de/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Crystal Clipboard](https://github.com/jzzocc/crystal-clipboard-ios): Copy and paste between devices  
-  <details>
-	<summary><code>swift</code> <code>swift4</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> <code>moya</code> <code>starscream</code> <code>mvvm</code> </summary>
-
-	Added October 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-landing.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-clips.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-add.png'><code>Screenshot 3</code></a> 
-  </details>
-
 - [Giraffe](https://github.com/evgeniyd/Giraffe)  
   <details>
 	<summary><code>swift</code> <code>reactivecocoa</code> </summary>
@@ -5001,14 +4921,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='http://a5.mzstatic.com/us/r30/Purple62/v4/d3/f7/04/d3f7045e-84bc-b237-09f0-6f28c1c6774a/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/c7/3e/c9/c73ec9fb-0284-2bd7-15dd-7378555af681/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/a8/8d/fb/a88dfbcb-6b8e-bb3d-5e0d-f581b686c708/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple71/v4/78/33/45/783345e2-4cfd-b57a-00fc-55b87d91eb51/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple62/v4/83/95/e3/8395e3e4-23f9-b0cd-0ef7-8734f58506ba/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Minds](https://github.com/Minds/mobile): An encrypted social network  
-  <details>
-	<summary><code>angular</code> <code>cordova</code> ⭐</summary>
-
-	https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple69/v4/88/d6/7e/88d67efd-b235-e4ac-fe33-0f9c6a48717d/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple7/v4/cd/91/fb/cd91fbc1-927a-68dc-0d06-6abd52627ff0/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple2/v4/55/27/2c/55272c66-e389-5b0c-ceab-9165d3b4a9ec/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple49/v4/ce/78/dc/ce78dc5a-2c47-0c12-309c-a821bbb8e4f3/screen696x696.jpeg'><code>Screenshot 4</code></a> 
-  </details>
-
 - [Peggsite](https://github.com/jenduf/GenericSocialApp): App for sharing a social board  
   <details>
 	<summary><code>objc</code> </summary>
@@ -5113,14 +5025,6 @@ https://mastodon.social — [back to top](#readme)
 	<a href='https://github.com/aerlinn13/Planc/blob/master/screenshots/1.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [RealmTasks](https://github.com/realm/realm-tasks): To Do app built with Realm, inspired by Clear for iOS  
-  <details>
-	<summary><code>swift</code> <code>realm</code> <code>react native</code> <code>cartography</code> <code>swiftlint</code> ⭐⭐</summary>
-
-	Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/Y9ZG7Of.png'><code>Screenshot 2</code></a> 
-  </details>
-
 - [RealmToDo](https://github.com/pietbrauer/RealmToDo): A small to-do list with Realm integration  
   <details>
 	<summary><code>swift</code> </summary>
@@ -5194,14 +5098,6 @@ https://mastodon.social — [back to top](#readme)
 
 	Added May 17, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Textor](https://github.com/louisdh/textor): Plain text editor  
-  <details>
-	<summary><code>swift</code> ⭐⭐</summary>
-
-	https://silverfox.be/articles/2018-03-11-textor.html<br>  Added March 13, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/4d/fe/2e4dfec4-02b8-eb6f-d104-cfd8f041f7f0/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [TypeStyle](https://github.com/ebelinski/typestyle-ios): Stylizes your text and adds decorations [` App Store`](https://itunes.apple.com/app/typestyle/id1441019779)  
@@ -5391,14 +5287,6 @@ https://mastodon.social — [back to top](#readme)
 
 	https://moviedict.info<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://moviedict.info/iphone.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [prox](https://github.com/mozilla-mobile/prox): Decide what to do next, based on your current location  
-  <details>
-	<summary><code>swift</code> <code>afnetworking</code> <code>firebase</code> </summary>
-
-	https://wiki.mozilla.org/New_Mobile_Experience<br>  Added February  3, 2017<br>  License: `other`<br>
-	<a href='https://cdn-images-1.medium.com/max/800/1*vwHKVE8rpcMyqr5Ec7MSxQ.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Smart Traveller (UberGuide)](https://github.com/hACKbUSTER/UberGuide-iOS): Simple & comfortable way to explore a city  
@@ -5768,14 +5656,6 @@ https://mastodon.social — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Crystal Clipboard](https://github.com/jzzocc/crystal-clipboard-ios): Copy and paste between devices  
-  <details>
-	<summary><code>swift</code> <code>swift4</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> <code>moya</code> <code>starscream</code> <code>mvvm</code> </summary>
-
-	Added October 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-landing.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-clips.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/jzzocc/crystal-clipboard-ios/master/screenshots/en-US/iPhone%208-add.png'><code>Screenshot 3</code></a> 
-  </details>
-
 - [DVD Collection Tracker](https://github.com/chrismiles/OrganisingCoreData)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -5877,14 +5757,6 @@ https://firebase.google.com/ — [back to top](#readme)
 	<a href='https://github.com/surayashivji/PotterPics/blob/master/Overview.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [prox](https://github.com/mozilla-mobile/prox): Decide what to do next, based on your current location  
-  <details>
-	<summary><code>swift</code> <code>afnetworking</code> <code>firebase</code> </summary>
-
-	https://wiki.mozilla.org/New_Mobile_Experience<br>  Added February  3, 2017<br>  License: `other`<br>
-	<a href='https://cdn-images-1.medium.com/max/800/1*vwHKVE8rpcMyqr5Ec7MSxQ.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Quick Chat](https://github.com/aslanyanhaik/Quick-Chat): Real time chat app  
   <details>
 	<summary><code>swift</code> <code>swift3</code> <code>firebase</code> ⭐⭐⭐⭐</summary>
@@ -5908,27 +5780,11 @@ https://firebase.google.com/ — [back to top](#readme)
 	<a href='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [WhatsUp](https://github.com/satishbabariya/WhatsUp): Chat app  
-  <details>
-	<summary><code>swift</code> <code>swift3</code> <code>firebase</code> <code>contacts</code> <code>otp</code> </summary>
-
-	Added September 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/satishbabariya/WhatsUp/master/screenshot2.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
 
 ### Ionic 
  
 http://ionicframework.com/ — [back to top](#readme) 
  
-- [Minds](https://github.com/Minds/mobile): An encrypted social network  
-  <details>
-	<summary><code>angular</code> <code>cordova</code> ⭐</summary>
-
-	https://www.minds.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple69/v4/88/d6/7e/88d67efd-b235-e4ac-fe33-0f9c6a48717d/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple7/v4/cd/91/fb/cd91fbc1-927a-68dc-0d06-6abd52627ff0/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple2/v4/55/27/2c/55272c66-e389-5b0c-ceab-9165d3b4a9ec/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple49/v4/ce/78/dc/ce78dc5a-2c47-0c12-309c-a821bbb8e4f3/screen696x696.jpeg'><code>Screenshot 4</code></a> 
-  </details>
-
 - [Vegan Lists UK](https://github.com/dsgriffin/vegan-lists-uk): View & collect vegan food lists  
   <details>
 	<summary><code>typescript</code> </summary>
@@ -6175,14 +6031,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/refactor/redux/screenshots/iOS/show.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [RealmTasks](https://github.com/realm/realm-tasks): To Do app built with Realm, inspired by Clear for iOS  
-  <details>
-	<summary><code>swift</code> <code>realm</code> <code>react native</code> <code>cartography</code> <code>swiftlint</code> ⭐⭐</summary>
-
-	Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/Y9ZG7Of.png'><code>Screenshot 2</code></a> 
-  </details>
-
 - [Reviewery](https://github.com/vadymmarkov/reviewery-mobile): Rate songs in Spotify playlists  
   <details>
 	<summary><code>react-native</code> </summary>
@@ -6321,22 +6169,6 @@ https://realm.io/ — [back to top](#readme)
 
 	Added July 20, 2016<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [RealmPop](https://github.com/realm/RealmPop): Platform / multiplayer game where players pair up to clear a level of bubbles  
-  <details>
-	<summary><code>swift</code> <code>realm</code> </summary>
-
-	Added March  7, 2017<br>  License: `other`<br>
-	<a href='https://i.imgur.com/pTxoTPX.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/Zrvfypq.png'><code>Screenshot 2</code></a> 
-  </details>
-
-- [RealmTasks](https://github.com/realm/realm-tasks): To Do app built with Realm, inspired by Clear for iOS  
-  <details>
-	<summary><code>swift</code> <code>realm</code> <code>react native</code> <code>cartography</code> <code>swiftlint</code> ⭐⭐</summary>
-
-	Added February  2, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/Y9ZG7Of.png'><code>Screenshot 2</code></a> 
   </details>
 
 - [RealmToDo](https://github.com/pietbrauer/RealmToDo): A small to-do list with Realm integration  
