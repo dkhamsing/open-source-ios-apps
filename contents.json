@@ -17646,6 +17646,32 @@
       "date_added": "Apr 19 2019",
       "suggested_by": "@Karambirov",
       "stars": 1
+    },
+    {
+        "title": "GiTiny",
+        "category-ids": [
+            "github",
+            "rxswift"
+        ],
+        "description": "An app for GitHub with exploring trending",
+        "source": "https://github.com/k-lpmg/GiTiny",
+        "itunes": "https://itunes.apple.com/app/tiny-github/id1461424565",
+        "license": "mit",
+        "stars": 106,
+        "tags": [
+            "swift",
+            "rxswift",
+            "mvvm-c",
+            "clean-architecture"
+        ],
+        "screenshots": [
+            "https://user-images.githubusercontent.com/15151687/57021987-bc1e1f00-6c68-11e9-8d43-25beb9465284.jpg",
+            "https://user-images.githubusercontent.com/15151687/57021990-c17b6980-6c68-11e9-8b56-852508131809.jpg",
+            "https://user-images.githubusercontent.com/15151687/57021992-c3452d00-6c68-11e9-8b54-0f01dd887622.jpg",
+            "https://user-images.githubusercontent.com/15151687/57021995-c4765a00-6c68-11e9-8b95-f3087c8b8e37.jpg"
+        ],
+        "date_added": "May 1 2019",
+        "suggested_by": "@k-lpmg"
     }
   ]
 }
