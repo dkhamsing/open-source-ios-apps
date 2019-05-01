@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **226** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **223** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -128,14 +128,6 @@ Click ► to show more details
 	<a href='http://a4.mzstatic.com/us/r30/Purple69/v4/94/5e/05/945e0506-9e18-749a-1ed9-e018949bfbad/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple69/v4/8f/6c/74/8f6c7422-fdc8-89e4-3514-0ea044e7fd50/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/39/03/e1/3903e1cf-d614-5d26-e3b1-3f9180aa162e/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/7b/9a/d2/7b9ad2f6-0438-c850-f8e0-268b712873a0/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple69/v4/ce/6f/fc/ce6ffc7a-7f95-0c08-f05b-77f15612d0c7/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Gulps](https://github.com/FancyPixel/gulps): Track your daily water consumption [` App Store`](https://itunes.apple.com/app/gulps/id979057304)  
-  <details>
-	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
-
-	Added April 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://cdn-images-1.medium.com/max/800/1*5sA3rvpUw5bdecwbDx7cYA.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [HN Reader](https://github.com/Dimillian/SwiftHN): Hacker News Reader [` App Store`](https://itunes.apple.com/app/hn-reader-hacker-news-reader/id919243741)  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
@@ -165,14 +157,6 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [Brave](https://github.com/brave/browser-ios): Firefox-based browser with ad block & tracking pixel/cookie block built in [` App Store`](https://itunes.apple.com/app/brave-web-browser/id1052879175)  
-  <details>
-	<summary><code>swift</code> ⭐⭐⭐</summary>
-
-	Added May 24, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple18/v4/ed/6c/07/ed6c07f4-c9cd-0daa-a331-a39a85ba1c08/screen696x696.jpeg'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Firefox](https://github.com/mozilla-mobile/firefox-ios): Official Firefox app [` App Store`](https://itunes.apple.com/app/firefox-web-browser/id989804926)  
   <details>
 	<summary><code>swift</code> <code>carthage</code> <code>alamofire</code> <code>snapkit</code> <code>libphonenumber</code> ⭐⭐⭐⭐⭐</summary>
@@ -1191,14 +1175,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 	Added January 14, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo7.jpg'><code>Screenshot 1</code></a> <a href='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo8.jpg'><code>Screenshot 2</code></a> <a href='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo3.jpg'><code>Screenshot 3</code></a> 
-  </details>
-
-- [Locative](https://github.com/LocativeHQ/Locative-iOS): Helping you to get the best out of your automated home, geofencing, iBeacons [` App Store`](https://itunes.apple.com/app/locative/id725198453)  
-  <details>
-	<summary><code>objc</code> ⭐⭐</summary>
-
-	Added December 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a4.mzstatic.com/us/r30/Purple22/v4/21/c1/5b/21c15b39-59ac-cb25-0aea-857ada781327/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple41/v4/e9/2c/30/e92c3020-50f6-3ec9-0f05-93af09dfc536/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple41/v4/9f/63/01/9f630162-1043-5aec-83f7-38c0a056da9c/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple71/v4/38/51/6b/38516bb5-8934-1fb6-876a-9b24b3549cb4/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple62/v4/bc/20/18/bc201818-03fe-d866-a9e0-2fd72085b93a/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
 - [MAPS.ME](https://github.com/mapsme/omim): Offline maps app with navigation [` App Store`](https://itunes.apple.com/app/id510623322)  
