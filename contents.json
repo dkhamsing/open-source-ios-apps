@@ -745,7 +745,8 @@
         "https://cdn-images-1.medium.com/max/800/1*5sA3rvpUw5bdecwbDx7cYA.png"
       ],
       "tags": [
-        "swift"
+        "swift",
+	"archive"
       ],
       "license": "mit",
       "date_added": "Wed Apr 22 08:59:50 2015 -0700",
@@ -1174,7 +1175,8 @@
       "itunes": "https://itunes.apple.com/app/brave-web-browser/id1052879175",
       "stars": 946,
       "tags": [
-        "swift"
+        "swift",
+	"archive"
       ],
       "date_added": "Tue May 24 11:09:33 2016 -0300",
       "suggested_by": "@Francisco Soares"
@@ -1320,7 +1322,8 @@
         "swift3",
         "firebase",
         "contacts",
-        "otp"
+        "otp",
+	"archive"
       ],
       "description": "Chat app",
       "source": "https://github.com/satishbabariya/WhatsUp",
@@ -3417,7 +3420,8 @@
         "location"
       ],
       "tags": [
-        "objc"
+        "objc",
+	"archive"
       ],
       "description": "Helping you to get the best out of your automated home, geofencing, iBeacons",
       "source": "https://github.com/LocativeHQ/Locative-iOS",
@@ -6487,7 +6491,8 @@
         "content"
       ],
       "tags": [
-        "objc"
+        "objc",
+	"archive"
       ],
       "screenshots": [
         "https://s3.mzstatic.com/r30/Purple6/v4/d3/db/1a/d3db1a57-d85c-b2b1-3b15-5c14bb455229/screen1136x1136.jpeg"
@@ -6697,7 +6702,8 @@
       ],
       "tags": [
         "objc",
-        "airdrop"
+        "airdrop",
+	"archive"
       ],
       "screenshots": [
         "https://i.imgur.com/gb1G8di.png"
@@ -6935,7 +6941,8 @@
       "homepage": "https://silverfox.be/articles/2018-03-11-textor.html",
       "stars": 499,
       "tags": [
-        "swift"
+        "swift",
+	"archive"
       ],
       "date_added": "Tue Mar 13 18:10:00 2018 +0200",
       "suggested_by": "@fassko",
@@ -8362,6 +8369,7 @@
       ],
       "source": "https://github.com/dennisreimann/ioctocat",
       "tags": [
+	"ruby",
         "archive"
       ],
       "screenshots": [
@@ -8696,7 +8704,8 @@
         "github"
       ],
       "tags": [
-        "objc"
+        "objc",
+	"archive"
       ],
       "screenshots": [
         "https://i.imgur.com/NjqYq02.png"
@@ -9170,7 +9179,8 @@
         "game"
       ],
       "tags": [
-        "objc"
+        "objc",
+	"archive"
       ],
       "description": "Blast your way through waves of pterodactyls, includes detailed writeup on how it's made",
       "source": "https://github.com/shaunlebron/PterodactylAttack",
@@ -9800,7 +9810,8 @@
       ],
       "tags": [
         "angular",
-        "cordova"
+        "cordova",
+	"archive"
       ],
       "description": "An encrypted social network",
       "source": "https://github.com/Minds/mobile",
@@ -12961,7 +12972,8 @@
         "realm",
         "react native",
         "cartography",
-        "swiftlint"
+        "swiftlint",
+	"archive"
       ],
       "screenshots": [
         "https://cloud.githubusercontent.com/assets/429119/18797910/b01b7fd4-8202-11e6-8b70-afe224f3b9e0.png",
@@ -13008,7 +13020,8 @@
       "tags": [
         "swift",
         "afnetworking",
-        "firebase"
+        "firebase",
+	"archive"
       ],
       "screenshots": [
         "https://cdn-images-1.medium.com/max/800/1*vwHKVE8rpcMyqr5Ec7MSxQ.png"
@@ -13381,7 +13394,8 @@
       ],
       "tags": [
         "swift",
-        "realm"
+        "realm",
+	"archive"
       ],
       "license": "other",
       "date_added": "Mar 7 2017",
@@ -15432,7 +15446,8 @@
         "reactivecocoa",
         "moya",
         "starscream",
-        "mvvm"
+        "mvvm",
+	"archive"
       ],
       "description": "Copy and paste between devices",
       "source": "https://github.com/jzzocc/crystal-clipboard-ios",
@@ -15640,7 +15655,8 @@
       "license": "mit",
       "tags": [
         "swift",
-        "panelkit"
+        "panelkit",
+	"archive"
       ],
       "category-ids": [
         "developer"
