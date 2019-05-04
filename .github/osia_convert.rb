@@ -10,8 +10,7 @@ LATEST = "LATEST.md"
 # Shows that a project is archived. 
 ARCHIVE_TAG = "archive"
 
-NUMBER_OF_LATEST_DAYS = 60
-MINIMUM_LATEST_APPS_COUNT = 15
+LATEST_APPS_COUNT = 15
 
 ##
 #
@@ -262,13 +261,7 @@ def write_latest(source)
     .sort_by { |app| DateTime.parse(app.date_added) }
     .reverse
   
-  latest_apps = apps.select { |app| (DateTime.now - NUMBER_OF_LATEST_DAYS) <= DateTime.parse(app.date_added) }
-  # To make sure that there are always 15 apps at least.
-  # If there are more than 15 apps for a given period of time, show them all, 
-  # otherwise, add a few older apps to reach 15 apps on the list.
-  if latest_apps.count < MINIMUM_LATEST_APPS_COUNT
-    apps[latest_apps.count..MINIMUM_LATEST_APPS_COUNT - 1].each { |app| latest_apps << app }
-  end
+  latest_apps = apps[0..LATEST_APPS_COUNT - 1]
 
   description = "Shows the latest projects that were added to the [main list](https://github.com/dkhamsing/open-source-ios-apps).\n\n"
 
