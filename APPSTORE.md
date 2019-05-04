@@ -663,7 +663,7 @@ Click ► to show more details
  
 - [Adblock Fast](https://github.com/rocketshipapps/adblockfast) [` App Store`](https://itunes.apple.com/app/adblock-fast/id1032930802)  
   <details>
-	<summary><code>objc</code> ⭐⭐</summary>
+	<summary><code>objc</code> ⭐⭐⭐</summary>
 
 	Added September 25, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='http://a5.mzstatic.com/us/r30/Purple71/v4/95/67/fb/9567fb02-2fe7-f4b1-ffd6-aa4892a82c65/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple62/v4/d8/d0/99/d8d0998b-4b1d-87bb-82d3-174e89d3c14d/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple71/v4/38/a8/18/38a818c9-7579-a57c-fe5b-506c4f0beff8/screen696x696.jpeg'><code>Screenshot 3</code></a> 
@@ -1632,7 +1632,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 - [WeAre](https://github.com/SherlockQi/HeavenMemoirs): Augmented reality album [` App Store`](https://itunes.apple.com/app/weare/id1304227680)  
   <details>
-	<summary><code>swift</code> <code>arkit</code> 🌐 ⭐⭐</summary>
+	<summary><code>swift</code> <code>arkit</code> 🌐 ⭐⭐⭐</summary>
 
 	Added December  6, 2018<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/39/ae/1a/39ae1aa9-e91a-3cac-15b1-c19ee9c55001/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/08/ed/70/08ed70e4-49fe-bf83-ca97-c118a8148fb8/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/cc/89/c0/cc89c006-3110-42a5-5eab-a9c04176e774/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/66/83/e2/6683e207-07ca-7d2c-290f-11c1f1d55d71/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
