@@ -525,7 +525,7 @@ Click ► to show more details
 	<a href='http://i.imgur.com/XwW4MI2.png'><code>Screenshot 1</code></a> <a href='http://i.imgur.com/sFgTFJX.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [GiTiny](https://github.com/k-lpmg/GiTiny): An app for GitHub with exploring trending [` App Store`](https://itunes.apple.com/app/tiny-github/id1461424565)  
+- [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub [` App Store`](https://itunes.apple.com/app/tiny-github/id1461424565)  
   <details>
 	<summary><code>swift</code> <code>rxswift</code> <code>mvvm-c</code> <code>clean-architecture</code> ⭐</summary>
 
@@ -1883,7 +1883,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='http://a3.mzstatic.com/us/r30/Purple111/v4/32/20/62/32206236-57e6-dd41-ccc6-9d9870a6e1ac/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple111/v4/6f/1f/77/6f1f771f-c9a8-5d60-6556-1bcb3993d568/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple122/v4/81/bc/39/81bc3933-4d0a-97da-88ab-265b679a2801/screen696x696.jpeg'><code>Screenshot 3</code></a> 
   </details>
 
-- [GiTiny](https://github.com/k-lpmg/GiTiny): An app for GitHub with exploring trending [` App Store`](https://itunes.apple.com/app/tiny-github/id1461424565)  
+- [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub [` App Store`](https://itunes.apple.com/app/tiny-github/id1461424565)  
   <details>
 	<summary><code>swift</code> <code>rxswift</code> <code>mvvm-c</code> <code>clean-architecture</code> ⭐</summary>
 
