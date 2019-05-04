@@ -27,7 +27,7 @@ fi
 
 if [[ $status == *"LATEST.md"* ]]
 then
-  git add APPSTORE.md
+  git add LATEST.md
   git commit -m "[auto] [ci skip] Generate LATEST"
 fi
 
