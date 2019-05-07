@@ -1,6 +1,6 @@
 # Open-Source iOS Apps
 
-List of **224** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
+List of **221** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))
 
 Jump to
 
@@ -619,14 +619,6 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [ChainReactApp](https://github.com/infinitered/ChainReactApp): The official Chain React Conf App [` App Store`](https://itunes.apple.com/app/chain-react-conf/id1239112816)  
-  <details>
-	<summary><code>react-native</code> ⭐⭐</summary>
-
-	Added February  9, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/aa/31/79/aa3179bb-94de-501b-3a54-a4ce1a5742c2/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/8d/a4/98/8da49880-bfe1-021b-7ae4-8922ca17f723/pr_source.png/230x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/b4/a9/5f/b4a95ff1-0f47-1a32-c6c8-0bf5a3cc2435/pr_source.png/230x0w.jpg'><code>Screenshot 3</code></a> 
-  </details>
-
 - [ConfFriends](https://github.com/ay8s/ConfFriends): Easy way to connect with fellow developers during WWDC, Layers & AltConf [` App Store`](https://itunes.apple.com/app/id1386399019)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -1085,14 +1077,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [CaseAssistant](https://github.com/herrkaefer/CaseAssistant): Cases recording, study, & sharing for ophthalmologist [` App Store`](https://itunes.apple.com/app/id1003007080)  
-  <details>
-	<summary><code>swift</code> <code>realm</code> 🌐 ⭐</summary>
-
-	Added June 17, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple1/v4/b2/6c/9c/b26c9cfb-91da-df36-7c08-b9d6b22dae24/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple7/v4/f6/37/56/f6375600-df23-5faf-79b0-0214f031d847/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple7/v4/96/e7/3b/96e73bf8-a1cf-7b66-d5e6-6829d2a540a6/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple7/v4/ce/20/13/ce2013e4-fc70-0b41-718d-c391bb3d9b9e/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/d4/4b/25/d44b2552-cc5f-3b56-74ac-513ee347da0a/screen696x696.jpeg'><code>Screenshot 5</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple7/v4/2a/53/4b/2a534b42-ebef-537e-f7ff-9b90ef827922/screen696x696.jpeg'><code>Screenshot 6</code></a> 
-  </details>
-
 - [Depressed](https://github.com/DerLobi/Depressed): Test if you are depressed [` App Store`](https://itunes.apple.com/app/depressed/id1062594092)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -1213,7 +1197,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   <details>
 	<summary><code>objc</code> </summary>
 
-	https://openstreetcam.org/<br>  Added August 21, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	Added August 21, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='http://a5.mzstatic.com/us/r30/Purple30/v4/b5/9f/0f/b59f0f32-eec9-7612-ad5f-4a545561c2cf/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
@@ -2036,14 +2020,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added February  7, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='http://a4.mzstatic.com/us/r30/Purple7/v4/d8/41/81/d84181ef-d7fe-2283-5b54-7cfb63f8fb01/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple5/v4/16/d4/46/16d446eb-11ab-4f22-48bc-da22b75df89a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/5f/01/13/5f0113bc-577d-ebb9-cd12-58674f9ac989/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple5/v4/38/1d/e7/381de7b6-9414-99bf-d02c-de4ffc12d21d/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple1/v4/1f/dd/eb/1fddeb0e-e562-10f2-8a79-e7ea385117cf/screen696x696.jpeg'><code>Screenshot 5</code></a> 
-  </details>
-
-- [Padlock](https://github.com/padlock/padlock): A minimalist open source password manager [` App Store`](https://itunes.apple.com/app/id871710139)  
-  <details>
-	<summary><code>javascript</code> <code>cordova</code> <code>iphone</code> <code>ipad</code> ⭐⭐⭐</summary>
-
-	https://padlock.io/<br>  Added April  4, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/af/bd/5d/afbd5d00-6c4d-8edf-ff9b-552df523d573/mzl.fszireix.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/6d/82/e2/6d82e289-2522-38f2-9473-65f41700ba12/mzl.xvlxfqzn.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c4/f8/9c/c4f89c59-827f-3b1f-c426-3964c52ab4ac/mzl.pdmecikv.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/5a/9e/18/5a9e1873-9ac8-80d7-0fc9-64d3ad8784e8/mzl.zwomnhtr.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [Pass](https://github.com/mssun/passforios): Client for the Pass command line app https://www.passwordstore.org/ [` App Store`](https://itunes.apple.com/app/pass-password-store/id1205820573)  
