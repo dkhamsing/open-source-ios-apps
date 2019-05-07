@@ -2,7 +2,7 @@
 
 This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.
 
-![](https://img.shields.io/badge/Projects-240-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%207,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-241-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%207,%202019-lightgrey.svg)
 - [2048](https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/2048)
 - [A Menjar](https://github.com/maurovc/aMenjar)
 - [Abby's Cycle](https://github.com/jc4p/abby-healthkit)
@@ -38,6 +38,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [CamLingual](https://github.com/yoshiokatsuneo/camlingual_iphone)
 - [CamShift](https://github.com/shihongzhi/CamShift-on-iOS)
 - [Canvas](https://github.com/usecanvas/ios-v1)
+- [ChainReactApp](https://github.com/infinitered/ChainReactApp2017)
 - [Cheddar](https://github.com/nothingmagical/cheddar-ios)
 - [Cherry](https://github.com/kenshin03/Cherry)
 - [Chess](https://github.com/mjcuva/Chess)
