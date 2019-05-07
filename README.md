@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-872-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%207,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-873-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%207,%202019-lightgrey.svg)
 
 Jump to
 
@@ -1587,14 +1587,6 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [ChainReactApp](https://github.com/infinitered/ChainReactApp): The official Chain React Conf App [` App Store`](https://itunes.apple.com/app/chain-react-conf/id1239112816)  
-  <details>
-	<summary><code>react-native</code> ⭐⭐</summary>
-
-	Added February  9, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/aa/31/79/aa3179bb-94de-501b-3a54-a4ce1a5742c2/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/8d/a4/98/8da49880-bfe1-021b-7ae4-8922ca17f723/pr_source.png/230x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/b4/a9/5f/b4a95ff1-0f47-1a32-c6c8-0bf5a3cc2435/pr_source.png/230x0w.jpg'><code>Screenshot 3</code></a> 
-  </details>
-
 - [ConfFriends](https://github.com/ay8s/ConfFriends): Easy way to connect with fellow developers during WWDC, Layers & AltConf [` App Store`](https://itunes.apple.com/app/id1386399019)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -2607,7 +2599,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- [CaseAssistant](https://github.com/herrkaefer/CaseAssistant): Cases recording, study, & sharing for ophthalmologist [` App Store`](https://itunes.apple.com/app/id1003007080)  
+- [CaseAssistant](https://github.com/herrkaefer/CaseAssistant): Cases recording, study, & sharing for ophthalmologist  
   <details>
 	<summary><code>swift</code> <code>realm</code> 🌐 ⭐</summary>
 
@@ -2980,7 +2972,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   <details>
 	<summary><code>objc</code> </summary>
 
-	https://openstreetcam.org/<br>  Added August 21, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	Added August 21, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='http://a5.mzstatic.com/us/r30/Purple30/v4/b5/9f/0f/b59f0f32-eec9-7612-ad5f-4a545561c2cf/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
@@ -3594,7 +3586,7 @@ Image, video, audio, reading — [back to top](#readme)
 	Added December  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- [PopcornTime](https://github.com/danylokostyshyn/popcorntime-ios): PopcornTime movie app  
+- [PopcornTime](https://github.com/danylokos/popcorntime-ios): PopcornTime movie app  
   <details>
 	<summary><code>swift</code> ⭐</summary>
 
@@ -4832,7 +4824,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='http://a4.mzstatic.com/us/r30/Purple7/v4/d8/41/81/d84181ef-d7fe-2283-5b54-7cfb63f8fb01/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple5/v4/16/d4/46/16d446eb-11ab-4f22-48bc-da22b75df89a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/5f/01/13/5f0113bc-577d-ebb9-cd12-58674f9ac989/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple5/v4/38/1d/e7/381de7b6-9414-99bf-d02c-de4ffc12d21d/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple1/v4/1f/dd/eb/1fddeb0e-e562-10f2-8a79-e7ea385117cf/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Padlock](https://github.com/padlock/padlock): A minimalist open source password manager [` App Store`](https://itunes.apple.com/app/id871710139)  
+- [Padlock](https://github.com/padlock/padlock): A minimalist open source password manager  
   <details>
 	<summary><code>javascript</code> <code>cordova</code> <code>iphone</code> <code>ipad</code> ⭐⭐⭐</summary>
 
@@ -6405,6 +6397,13 @@ https://www.xamarin.com/ — [back to top](#readme)
   </details>
 
 - [open-source-ios-apps archive](https://github.com/dkhamsing/open-source-ios-apps/blob/master/ARCHIVE.md): Projects that are no longer maintained  
+  <details>
+	<summary><code>list</code> </summary>
+
+	License: `other`
+  </details>
+
+- [open-source-ios-apps latest](https://github.com/dkhamsing/open-source-ios-apps/blob/master/LATEST.md): Latest projects added to the list  
   <details>
 	<summary><code>list</code> </summary>
 
