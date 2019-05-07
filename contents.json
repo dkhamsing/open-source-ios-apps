@@ -17676,6 +17676,19 @@
       ],
       "date_added": "May 1 2019",
       "suggested_by": "@k-lpmg"
+    },
+    {
+      "title": "open-source-ios-apps latest",
+      "description": "Latest projects added to the list",
+      "source": "https://github.com/dkhamsing/open-source-ios-apps/blob/master/LATEST.md",
+      "category-ids": [
+        "bonus"
+      ],
+      "tags": [
+        "list"
+      ],
+      "suggested_by": "@dkhamsing",
+      "license": "other"
     }
   ]
 }
