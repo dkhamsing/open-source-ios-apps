@@ -1,4 +1,4 @@
-# Open-Source iOS Apps Archive
+# Open-Source iOS Apps Latest
 
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
