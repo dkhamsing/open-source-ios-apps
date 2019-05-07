@@ -4,6 +4,7 @@ require 'date'
 README = 'README.md'
 ARCHIVE = 'ARCHIVE.md'
 APPSTORE = 'APPSTORE.md'
+LATEST = 'LATEST.md'
 
 NOT_ENGLISH = '🌐'
 ARCHIVE_TAG = 'archive'
@@ -29,6 +30,16 @@ def apps_for_cat(apps, id)
     cat.class == Array ? cat.include?(id) : (cat == id)
   end
   s.sort_by { |k, v| k['title'].downcase }
+end
+
+LATEST_NUM = 15
+
+def apps_latest(apps)
+  a = apps.select { |a| a['date_added'] != nil }
+    .sort_by { |k, v| DateTime.parse(k['date_added']) }
+    .reverse
+
+  a[0..LATEST_NUM - 1]
 end
 
 def app_store_total(j)
@@ -261,8 +272,37 @@ def write_archive(j)
   puts "wrote #{file} ✨"
 end
 
+def write_latest(j)
+  t = j['title']
+  desc = "These are the #{LATEST_NUM} latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).\n\n"
+  f = "## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n"
+  apps = j["projects"]
+  archived = apps_latest apps
+
+  output = "\# #{t} Archive\n\n"
+  output << desc
+  output << output_badges(apps.count)
+  output << "\n"
+
+  count = 1
+  archived.each do |a|
+    t = a['title']
+    s = a['source']
+    output << "#{count}. [#{t}](#{s})\n"
+    count = count + 1
+  end
+
+  output << "\n"
+  output << f
+
+  file = LATEST
+  File.open(file, 'w') { |f| f.write output }
+  puts "wrote #{file} ✨"
+end
+
 j = get_json
 
 write_list(j, README)
 write_archive(j)
 write_list(j, APPSTORE, true)
+write_latest(j)
