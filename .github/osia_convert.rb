@@ -1,6 +1,8 @@
 require_relative 'osia_helper'
 require 'date'
 
+# Constants
+
 README = 'README.md'
 ARCHIVE = 'ARCHIVE.md'
 APPSTORE = 'APPSTORE.md'
@@ -8,6 +10,29 @@ LATEST = 'LATEST.md'
 
 NOT_ENGLISH = '🌐'
 ARCHIVE_TAG = 'archive'
+
+# Helpers
+
+def app_store_total(j)
+  apps = j['projects']
+  s = apps.reject { |x| x['itunes'].nil? }
+
+  count = 1
+  s.each do |x|
+    tags = x['tags']
+    if tags.nil?
+      t = "#{count} "
+      count = count + 1
+    else
+      unless tags.include?(ARCHIVE_TAG)
+        t = "#{count} #{tags}"
+        count = count + 1
+      end
+    end
+  end
+
+  count
+end
 
 def apps_archived(apps)
   a = apps.select { |a| a['tags'] != nil }.select { |b| b['tags'].include?(ARCHIVE_TAG) }
@@ -40,27 +65,6 @@ def apps_latest(apps)
     .reverse
 
   a[0..LATEST_NUM - 1]
-end
-
-def app_store_total(j)
-  apps = j['projects']
-  s = apps.reject { |x| x['itunes'].nil? }
-
-  count = 1
-  s.each do |x|
-    tags = x['tags']
-    if tags.nil?
-      t = "#{count} "
-      count = count + 1
-    else
-      unless tags.include?(ARCHIVE_TAG)
-        t = "#{count} #{tags}"
-        count = count + 1
-      end
-    end
-  end
-
-  count
 end
 
 def output_apps(apps, appstoreonly)
@@ -176,6 +180,60 @@ def output_stars(number)
   end
 end
 
+def write_archive(j)
+  t = j['title']
+  desc = "This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.\n\n"
+  f = "## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n"
+  apps = j['projects']
+  archived = apps_archived apps
+
+  output = "\# #{t} Archive\n\n"
+  output << desc
+  output << output_badges(archived.count)
+  output << "\n"
+
+  archived.each do |a|
+    t = a['title']
+    s = a['source']
+    output << "- [#{t}](#{s})\n"
+  end
+
+  output << "\n"
+  output << f
+
+  file = ARCHIVE
+  File.open(file, 'w') { |f| f.write output }
+  puts "wrote #{file} ✨"
+end
+
+def write_latest(j)
+  t = j['title']
+  desc = "These are the #{LATEST_NUM} latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).\n\n"
+  f = "## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n"
+  apps = j["projects"]
+  latest = apps_latest apps
+
+  output = "\# #{t} Latest\n\n"
+  output << desc
+  output << output_badges(apps.count)
+  output << "\n"
+
+  count = 1
+  latest.each do |a|
+    t = a['title']
+    s = a['source']
+    output << "#{count}. [#{t}](#{s})\n"
+    count = count + 1
+  end
+
+  output << "\n"
+  output << f
+
+  file = LATEST
+  File.open(file, 'w') { |f| f.write output }
+  puts "wrote #{file} ✨"
+end
+
 def write_list(j, file, appstoreonly = false)
   t = j['title']
   subt = j['subtitle']
@@ -246,59 +304,7 @@ def write_list(j, file, appstoreonly = false)
   puts "wrote #{file} ✨"
 end
 
-def write_archive(j)
-  t = j['title']
-  desc = "This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.\n\n"
-  f = "## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n"
-  apps = j['projects']
-  archived = apps_archived apps
-
-  output = "\# #{t} Archive\n\n"
-  output << desc
-  output << output_badges(archived.count)
-  output << "\n"
-
-  archived.each do |a|
-    t = a['title']
-    s = a['source']
-    output << "- [#{t}](#{s})\n"
-  end
-
-  output << "\n"
-  output << f
-
-  file = ARCHIVE
-  File.open(file, 'w') { |f| f.write output }
-  puts "wrote #{file} ✨"
-end
-
-def write_latest(j)
-  t = j['title']
-  desc = "These are the #{LATEST_NUM} latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).\n\n"
-  f = "## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n"
-  apps = j["projects"]
-  archived = apps_latest apps
-
-  output = "\# #{t} Archive\n\n"
-  output << desc
-  output << output_badges(apps.count)
-  output << "\n"
-
-  count = 1
-  archived.each do |a|
-    t = a['title']
-    s = a['source']
-    output << "#{count}. [#{t}](#{s})\n"
-    count = count + 1
-  end
-
-  output << "\n"
-  output << f
-
-  file = LATEST
-  File.open(file, 'w') { |f| f.write output }
-  puts "wrote #{file} ✨"
-end
+# Script begins
 
 j = get_json
 
