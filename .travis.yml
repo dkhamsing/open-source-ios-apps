@@ -5,7 +5,7 @@ before_script:
   - gem install danger
 script:
   - ruby .github/osia_get_links.rb
-  - awesome_bot check-unique.txt --allow-ssl -a 302 -w xbmc/xbmc,Cherry/master,preyproject
+  - awesome_bot check-unique.txt --allow-ssl -w xbmc/xbmc,Cherry/master,preyproject,anim.gif
   - awesome_bot check-links.txt  --allow-ssl -a 403 --allow-dupe -w wheelmap.org,sourceforge,radioparadise,iltofa,douban,preyproject,laravel-china,susi.ai,pastebin
 after_script:
   - awesome_bot check-info.txt -a 403
