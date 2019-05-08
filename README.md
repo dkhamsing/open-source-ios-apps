@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-873-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%207,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-874-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%208,%202019-lightgrey.svg)
 
 Jump to
 
@@ -712,6 +712,14 @@ Click ► to show more details
 
 	Added August 31, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/PiXeL16/SnakeClassic/master/Art/SnakeWatch.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Swiftenstein](https://github.com/nicklockwood/Swiftenstein): Wolfenstein 3D clone  
+  <details>
+	<summary><code>swift</code> ⭐⭐</summary>
+
+	Added May  8, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/nicklockwood/Swiftenstein/master/Screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [SwiftSnake](https://github.com/caleb0/SwiftSnake): Snake clone  
