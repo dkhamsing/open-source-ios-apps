@@ -11,6 +11,8 @@ LATEST = 'LATEST.md'
 NOT_ENGLISH = '🌐'
 ARCHIVE_TAG = 'archive'
 
+LATEST_NUM = 15
+
 # Helpers
 
 def app_store_total(j)
@@ -57,14 +59,12 @@ def apps_for_cat(apps, id)
   s.sort_by { |k, v| k['title'].downcase }
 end
 
-LATEST_NUM = 15
-
-def apps_latest(apps)
+def apps_latest(apps, num)
   a = apps.select { |a| a['date_added'] != nil }
     .sort_by { |k, v| DateTime.parse(k['date_added']) }
     .reverse
 
-  a[0..LATEST_NUM - 1]
+  a[0..num - 1]
 end
 
 def output_apps(apps, appstoreonly)
@@ -206,12 +206,12 @@ def write_archive(j)
   puts "wrote #{file} ✨"
 end
 
-def write_latest(j)
+def write_latest(j, num)
   t = j['title']
-  desc = "These are the #{LATEST_NUM} latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).\n\n"
+  desc = "These are the #{num} latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).\n\n"
   f = "## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n"
   apps = j["projects"]
-  latest = apps_latest apps
+  latest = apps_latest(apps, num)
 
   output = "\# #{t} Latest\n\n"
   output << desc
@@ -311,4 +311,4 @@ j = get_json
 write_list(j, README)
 write_archive(j)
 write_list(j, APPSTORE, true)
-write_latest(j)
+write_latest(j, LATEST_NUM)
