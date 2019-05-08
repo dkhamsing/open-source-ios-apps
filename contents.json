@@ -17686,6 +17686,24 @@
       ],
       "suggested_by": "@dkhamsing",
       "license": "other"
-    }
+    },
+    {
+      "title": "Swiftenstein",
+      "category-ids": [
+        "clone"
+      ],
+      "description": "Wolfenstein 3D clone",
+      "source": "https://github.com/nicklockwood/Swiftenstein",
+      "license": "mit",
+      "stars": 222,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/nicklockwood/Swiftenstein/master/Screenshot.png"
+      ],
+      "date_added": "May 8 2019",
+      "suggested_by": "@dkhamsing"
+    },    
   ]
 }
