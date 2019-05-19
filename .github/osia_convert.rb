@@ -180,15 +180,14 @@ def output_stars(number)
   end
 end
 
-def write_archive(j)
+def write_archive(j, subtitle)
   t = j['title']
-  desc = "This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.\n\n"
-  f = "## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n"
   apps = j['projects']
   archived = apps_archived apps
+  footer = j['footer']
 
   output = "\# #{t} Archive\n\n"
-  output << desc
+  output << subtitle
   output << output_badges(archived.count)
   output << "\n"
 
@@ -199,22 +198,21 @@ def write_archive(j)
   end
 
   output << "\n"
-  output << f
+  output << footer
 
   file = ARCHIVE
   File.open(file, 'w') { |f| f.write output }
   puts "wrote #{file} ✨"
 end
 
-def write_latest(j, num)
+def write_latest(j, num, subtitle)
   t = j['title']
-  desc = "These are the #{num} latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).\n\n"
-  f = "## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n"
   apps = j["projects"]
+  footer = j['footer']
   latest = apps_latest(apps, num)
 
   output = "\# #{t} Latest\n\n"
-  output << desc
+  output << subtitle
   output << output_badges(apps.count)
   output << "\n"
 
@@ -227,23 +225,16 @@ def write_latest(j, num)
   end
 
   output << "\n"
-  output << f
+  output << footer
 
   file = LATEST
   File.open(file, 'w') { |f| f.write output }
   puts "wrote #{file} ✨"
 end
 
-def write_list(j, file, appstoreonly = false)
+def write_list(j, file, subtitle, appstoreonly = false)
   t = j['title']
-  subt = j['subtitle']
-
-  desc = if appstoreonly
-    "List of **#{app_store_total j}** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))"
-  else
-    j['description']
-  end
-
+  desc = j['description']
   h = j['header']
   f = j['footer']
   cats = j['categories']
@@ -255,8 +246,9 @@ def write_list(j, file, appstoreonly = false)
   output << "\n\n"
   output << desc
 
+  output << "\n\n#{subtitle}"
+
   if appstoreonly == false
-    output << "\n\n#{subt}\n\n"
     output << output_badges(apps.count)
 
     unless sponsor.length == 0
@@ -264,7 +256,6 @@ def write_list(j, file, appstoreonly = false)
       output << sponsor
       output << "\n"
     end
-
   end
 
   output << "\n\nJump to\n\n"
@@ -308,7 +299,15 @@ end
 
 j = get_json
 
-write_list(j, README)
-write_archive(j)
-write_list(j, APPSTORE, true)
-write_latest(j, LATEST_NUM)
+
+subtitle_readme = j['subtitle']
+write_list(j, README, subtitle_readme)
+
+subtitle_app_store = "List of **#{app_store_total j}** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))"
+write_list(j, APPSTORE, subtitle_app_store, true)
+
+subtitle_archive = "This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.\n\n"
+write_archive(j, subtitle_archive)
+
+subtitle_latest = "These are the #{LATEST_NUM} latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).\n\n"
+write_latest(j, LATEST_NUM, subtitle_latest)
