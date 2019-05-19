@@ -14570,7 +14570,7 @@
     },
     {
       "title": "notGIF",
-      "source": "https://github.com/atuooo/notGIF",
+      "source": "https://github.com/opensourceios/notGIF",
       "description": "Play - Tag - Share your GIFs in Photos",
       "category-ids": [
         "gif"
@@ -14579,7 +14579,8 @@
         "swift",
         "gif",
         "tag",
-        "share"
+        "share",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/atuooo/notGIF/master/images/screenshots.png"
