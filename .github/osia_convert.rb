@@ -303,7 +303,7 @@ j = get_json
 subtitle_readme = j['subtitle']
 write_list(j, README, subtitle_readme)
 
-subtitle_app_store = "List of **#{app_store_total j}** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))"
+subtitle_app_store = "List of **#{app_store_total j}** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))."
 write_list(j, APPSTORE, subtitle_app_store, true)
 
 subtitle_archive = "This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.\n\n"
