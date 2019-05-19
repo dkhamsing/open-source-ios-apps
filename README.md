@@ -3724,14 +3724,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<a href='https://github.com/KrisYu/LivelyGIFs/blob/master/demo.gif?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [notGIF](https://github.com/atuooo/notGIF): Play - Tag - Share your GIFs in Photos  
-  <details>
-	<summary><code>swift</code> <code>gif</code> <code>tag</code> <code>share</code> </summary>
-
-	Added July  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/atuooo/notGIF/master/images/screenshots.png'><code>Screenshot 1</code></a> 
-  </details>
-
 
 ### Photo 
  
@@ -5316,7 +5308,7 @@ https://mastodon.social — [back to top](#readme)
 	<summary><code>objc</code> </summary>
 
 	https://themoji.me/<br>  Added July 12, 2016<br>  License: `other`<br>
-	<a href='https://themoji.me/ThemojiIdea.jpg'><code>Screenshot 1</code></a> <a href='http://media.148apps.com/screenshots/1086378368/us-ipad-1-themoji-express-yourself-with-emojis.jpeg'><code>Screenshot 2</code></a> <a href='http://media.148apps.com/screenshots/1086378368/us-iphone-3-themoji-express-yourself-with-emojis.jpeg'><code>Screenshot 3</code></a> 
+	<a href='https://themoji.me/ThemojiIdea.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 
