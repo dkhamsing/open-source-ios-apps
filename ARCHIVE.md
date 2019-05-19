@@ -2,7 +2,7 @@
 
 This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.
 
-![](https://img.shields.io/badge/Projects-241-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%208,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-241-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2019,%202019-lightgrey.svg)
 - [2048](https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/2048)
 - [A Menjar](https://github.com/maurovc/aMenjar)
 - [Abby's Cycle](https://github.com/jc4p/abby-healthkit)
@@ -245,7 +245,12 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Yorkie](https://github.com/opensourceios/YorkieApp)
 - [ZXing](https://github.com/zxing/zxing)
 
+## Thanks
+
+This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift). Thanks to all the [contributors](https://github.com/dkhamsing/open-source-ios-apps/graphs/contributors) 🎉 
+
 ## Contact
 
 - [github.com/dkhamsing](https://github.com/dkhamsing)
 - [twitter.com/dkhamsing](https://twitter.com/dkhamsing)
+- [github.com/vpeschenkov](https://github.com/vpeschenkov)
