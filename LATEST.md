@@ -2,7 +2,7 @@
 
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
-![](https://img.shields.io/badge/Projects-874-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2019,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-874-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2020,%202019-lightgrey.svg)
 1. [Swiftenstein](https://github.com/nicklockwood/Swiftenstein)
 2. [GiTiny](https://github.com/k-lpmg/GiTiny)
 3. [GitHubSearch](https://github.com/Karambirov/GitHubSearch)
