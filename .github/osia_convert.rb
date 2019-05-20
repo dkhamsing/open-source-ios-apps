@@ -246,7 +246,7 @@ def write_list(j, file, subtitle, appstoreonly = false)
   output << "\n\n"
   output << desc
 
-  output << "\n\n#{subtitle}"
+  output << "\n\n#{subtitle}\n\n"
 
   if appstoreonly == false
     output << output_badges(apps.count)
