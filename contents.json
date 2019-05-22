@@ -17703,6 +17703,25 @@
       ],
       "date_added": "May 8 2019",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Tinodios",
+      "category-ids": [
+        "communication"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Tinode: fully open source cross platform messenger",
+      "source": "https://github.com/tinode/ios",
+      "stars": 18,
+      "license": "apache-2.0",
+      "date_added": "May 22 2019",
+      "suggested_by": "@or-else",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tinode/ios/master/ios-chats.png",
+        "https://raw.githubusercontent.com/tinode/ios/master/ios-chat.png"
+      ]
     }
   ]
 }
