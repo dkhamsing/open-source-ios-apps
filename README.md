@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-874-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2020,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-875-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2022,%202019-lightgrey.svg)
 
 Jump to
 
@@ -932,6 +932,14 @@ Click ► to show more details
 
 	Added April  6, 2015<br>  License: `other`<br>
 	<a href='http://a5.mzstatic.com/us/r30/Purple62/v4/d1/90/fd/d190fd61-005a-a5b7-0bf4-91b5c588b970/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/95/f3/2e/95f32efb-5e42-841e-f142-b25b14f62f25/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/ad/4c/76/ad4c768a-31c3-8fb2-daf4-effd9914e46c/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/92/80/a3/9280a32a-66b6-15b9-b8fb-866ea1e13bfa/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple62/v4/be/00/19/be00193f-ee7e-9886-09d5-86ca9dfa2faf/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+  </details>
+
+- [Tinodios](https://github.com/tinode/ios): Tinode: fully open source cross platform messenger  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added May 22, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://raw.githubusercontent.com/tinode/ios/master/ios-chats.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/tinode/ios/master/ios-chat.png'><code>Screenshot 2</code></a> 
   </details>
 
 - [TSWeChat](https://github.com/hilen/TSWeChat): A WeChat alternative  
