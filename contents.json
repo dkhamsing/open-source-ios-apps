@@ -4037,7 +4037,8 @@
         "https://github.com/pj4533/OpenPics/raw/master/openpics.gif"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "date_added": "Thu Dec 31 12:25:41 2015 -0500",
       "suggested_by": "@pj4533"
@@ -9903,7 +9904,6 @@
       "description": "Advanced music visualization",
       "source": "https://sourceforge.net/projects/projectm/",
       "homepage": "http://projectm.sourceforge.net/",
-      "itunes": "https://itunes.apple.com/app/id530922227",
       "license": "gpl-2.0",
       "date_added": "Thu Jun 2 00:46:32 2016 -0600",
       "suggested_by": "@scribblemaniac",
@@ -10808,7 +10808,6 @@
       "description": "Official app of recipients for https://developer.apple.com/wwdc19/scholarships/",
       "license": "mit",
       "source": "https://github.com/WWDCScholars/iOS-app",
-      "itunes": "https://itunes.apple.com/app/scholars-of-wwdc/id999731893",
       "tags": [
         "swift"
       ],
