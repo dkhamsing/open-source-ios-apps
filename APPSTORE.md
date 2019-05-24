@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **221** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **218** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1356,14 +1356,6 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='http://a3.mzstatic.com/us/r30/Purple69/v4/ce/65/eb/ce65eb78-616b-b274-0f3d-52c73818cd4c/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/3c/ac/c3/3cacc3cd-dcc9-98da-26ea-6ec44691ebcd/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple7/v4/0b/4a/a3/0b4aa3eb-cdec-8563-c3de-5fbb80de6b04/screen696x696.jpeg'><code>Screenshot 3</code></a> 
   </details>
 
-- [projectM](https://sourceforge.net/projects/projectm/): Advanced music visualization [` App Store`](https://itunes.apple.com/app/id530922227)  
-  <details>
-	<summary><code>opengl</code> </summary>
-
-	http://projectm.sourceforge.net/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple7/v4/44/17/41/44174112-c9f9-1719-8967-c43cb42bbf26/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple7/v4/80/05/55/8005556a-437c-2d6a-d41d-044fc4e6740a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/1a/6e/8e/1a6e8ef0-998f-34e4-7c92-f41de9227c73/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple2/v4/35/c4/e2/35c4e23b-7eae-f138-a333-66e92b4c63dc/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/f3/8a/2b/f38a2bcd-e5d9-22b8-61cd-0b9e4cc159ae/screen696x696.jpeg'><code>Screenshot 5</code></a> 
-  </details>
-
 - [Screenshotter](https://github.com/rsattar/screenshotter): Organize & manage screenshots [` App Store`](https://itunes.apple.com/app/screenshotter-organize-manage/id826596892)  
   <details>
 	<summary><code>iphone</code> </summary>
@@ -1521,14 +1513,6 @@ Image, video, audio, reading — [back to top](#readme)
 
 	https://moviedict.info<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://moviedict.info/iphone.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [OpenPics](https://github.com/pj4533/OpenPics): View historical images from multiple remote sources [` App Store`](https://itunes.apple.com/app/openpics/id633423505)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added December 31, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://github.com/pj4533/OpenPics/raw/master/openpics.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [PhishOD](https://github.com/alecgorge/PhishOD-iOS): Listen to any song from phish.in, view concert ratings & reviews from phish.net [` App Store`](https://itunes.apple.com/app/phish-on-demand-all-phish/id672139018)  
@@ -1784,14 +1768,6 @@ https://newsapi.org/ — [back to top](#readme)
 
 	https://www.iltofa.com/rphd/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://a5.mzstatic.com/us/r30/Purple30/v4/97/22/95/97229577-fbbd-2de8-3822-b906eadb6354/screen800x500.jpeg'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Scholars of WWDC](https://github.com/WWDCScholars/iOS-app): Official app of recipients for https://developer.apple.com/wwdc19/scholarships/ [` App Store`](https://itunes.apple.com/app/scholars-of-wwdc/id999731893)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a1.mzstatic.com/us/r30/Purple60/v4/ab/92/bb/ab92bbe9-6540-ff6b-836d-9fd737221466/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Simplenote](https://github.com/automattic/simplenote-ios): Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration [` App Store`](https://itunes.apple.com/app/simplenote/id289429962)  
