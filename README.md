@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-875-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2022,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-875-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2024,%202019-lightgrey.svg)
 
 Jump to
 
@@ -3245,7 +3245,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='http://a3.mzstatic.com/us/r30/Purple69/v4/ce/65/eb/ce65eb78-616b-b274-0f3d-52c73818cd4c/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/3c/ac/c3/3cacc3cd-dcc9-98da-26ea-6ec44691ebcd/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple7/v4/0b/4a/a3/0b4aa3eb-cdec-8563-c3de-5fbb80de6b04/screen696x696.jpeg'><code>Screenshot 3</code></a> 
   </details>
 
-- [projectM](https://sourceforge.net/projects/projectm/): Advanced music visualization [` App Store`](https://itunes.apple.com/app/id530922227)  
+- [projectM](https://sourceforge.net/projects/projectm/): Advanced music visualization  
   <details>
 	<summary><code>opengl</code> </summary>
 
@@ -3561,14 +3561,6 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added February 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/KMindeguia/movies/master/Gif%20Demo/demo.gif'><code>Screenshot 1</code></a> 
-  </details>
-
-- [OpenPics](https://github.com/pj4533/OpenPics): View historical images from multiple remote sources [` App Store`](https://itunes.apple.com/app/openpics/id633423505)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added December 31, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://github.com/pj4533/OpenPics/raw/master/openpics.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [osia](https://github.com/dkhamsing/osia): Super basic app to browse open-source-ios-apps  
@@ -4183,7 +4175,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='http://a5.mzstatic.com/us/r30/Purple30/v4/97/22/95/97229577-fbbd-2de8-3822-b906eadb6354/screen800x500.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Scholars of WWDC](https://github.com/WWDCScholars/iOS-app): Official app of recipients for https://developer.apple.com/wwdc19/scholarships/ [` App Store`](https://itunes.apple.com/app/scholars-of-wwdc/id999731893)  
+- [Scholars of WWDC](https://github.com/WWDCScholars/iOS-app): Official app of recipients for https://developer.apple.com/wwdc19/scholarships/  
   <details>
 	<summary><code>swift</code> </summary>
 
