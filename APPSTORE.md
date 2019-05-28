@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **218** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **219** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1722,6 +1722,14 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
+- [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS): Control and monitor your home from anywhere in the world. Home Assistant lets you control all your devices and provides advanced location and notification engines to allow for complex mobile automations. Features deep integration with iOS via advanced location and notification systems, as well as a today widget and Apple Watch app. [` App Store`](https://itunes.apple.com/app/home-assistant-open-source-home-automation/id1099568401)  
+  <details>
+	<summary><code>swift</code> ⭐⭐</summary>
+
+	https://www.home-assistant.io/<br>  Added May 27, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/47/a7/a6/47a7a652-c206-4a30-1aae-e20c0c17d5ea/mzl.xkrohcrn.png/690x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/05/68/18/0568186a-f883-1172-de2c-e3dbfb9adaae/mzl.oqskbgaz.png/690x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/4a/5c/09/4a5c097b-df61-fe5c-7d81-97f757d7ad74/mzl.yzivdnlw.png/690x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
 - [Kickstarter](https://github.com/kickstarter/ios-oss): Where independent creators & passionate backers come together to bring new ideas to life [` App Store`](https://itunes.apple.com/app/kickstarter/id596961532)  
   <details>
 	<summary><code>swift</code> <code>1password</code> <code>alamorefire</code> <code>stripe</code> <code>ios-snapshot-test-case</code> ⭐⭐⭐⭐⭐</summary>
@@ -2284,6 +2292,14 @@ https://mastodon.social — [back to top](#readme)
 
 	https://hackfoldr.org<br>  Added July 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://a3.mzstatic.com/us/r30/Purple69/v4/bb/ee/2f/bbee2f6f-68b0-48b8-5949-e5b4bc49cc8c/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple49/v4/b6/7a/49/b67a496a-c81c-d9b9-81e0-cae43136b41b/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/49/56/85/4956850f-d8e7-bcb3-26f5-f778b80f8540/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS): Control and monitor your home from anywhere in the world. Home Assistant lets you control all your devices and provides advanced location and notification engines to allow for complex mobile automations. Features deep integration with iOS via advanced location and notification systems, as well as a today widget and Apple Watch app. [` App Store`](https://itunes.apple.com/app/home-assistant-open-source-home-automation/id1099568401)  
+  <details>
+	<summary><code>swift</code> ⭐⭐</summary>
+
+	https://www.home-assistant.io/<br>  Added May 27, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/47/a7/a6/47a7a652-c206-4a30-1aae-e20c0c17d5ea/mzl.xkrohcrn.png/690x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/05/68/18/0568186a-f883-1172-de2c-e3dbfb9adaae/mzl.oqskbgaz.png/690x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/4a/5c/09/4a5c097b-df61-fe5c-7d81-97f757d7ad74/mzl.yzivdnlw.png/690x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 - [Ladybug](https://github.com/ethanhuang13/ladybug): Handle rdar:// links gracefully [` App Store`](https://itunes.apple.com/app/ladybug-handles-radar-links/id1402968134)  
