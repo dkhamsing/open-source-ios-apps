@@ -17721,6 +17721,29 @@
         "https://raw.githubusercontent.com/tinode/ios/master/ios-chats.png",
         "https://raw.githubusercontent.com/tinode/ios/master/ios-chat.png"
       ]
+    },
+    {
+      "title": "Home Assistant Companion",
+      "category-ids": [
+        "official",
+        "misc"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Control and monitor your home from anywhere in the world. Home Assistant lets you control all your devices and provides advanced location and notification engines to allow for complex mobile automations. Features deep integration with iOS via advanced location and notification systems, as well as a today widget and Apple Watch app.",
+      "license": "apache-2.0",
+      "source": "https://github.com/home-assistant/home-assistant-iOS",
+      "homepage": "https://www.home-assistant.io/",
+      "itunes": "https://itunes.apple.com/app/home-assistant-open-source-home-automation/id1099568401",
+      "stars": 231,
+      "date_added": "Mon May 27 20:30:00 2019 -0700",
+      "suggested_by": "@robbiet480",
+      "screenshots": [
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/47/a7/a6/47a7a652-c206-4a30-1aae-e20c0c17d5ea/mzl.xkrohcrn.png/690x0w.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/05/68/18/0568186a-f883-1172-de2c-e3dbfb9adaae/mzl.oqskbgaz.png/690x0w.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/4a/5c/09/4a5c097b-df61-fe5c-7d81-97f757d7ad74/mzl.yzivdnlw.png/690x0w.jpg"
+      ]
     }
   ]
 }
