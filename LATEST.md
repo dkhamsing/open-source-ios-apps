@@ -2,22 +2,22 @@
 
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
-![](https://img.shields.io/badge/Projects-875-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2024,%202019-lightgrey.svg)
-1. [Tinodios](https://github.com/tinode/ios)
-2. [Swiftenstein](https://github.com/nicklockwood/Swiftenstein)
-3. [GiTiny](https://github.com/k-lpmg/GiTiny)
-4. [GitHubSearch](https://github.com/Karambirov/GitHubSearch)
-5. [TermiWatch](https://github.com/kuglee/TermiWatch)
-6. [Legend-Wings](https://github.com/woguan/Legend-Wings)
-7. [Podcasts](https://github.com/Karambirov/Podcasts)
-8. [Essentia](https://github.com/essentiaone/Essentia-iOS)
-9. [Science Journal](https://github.com/google/science-journal-ios)
-10. [iSH](https://github.com/tbodt/ish)
-11. [Showio](https://github.com/madyanov/showio-app)
-12. [Pocket Code](https://github.com/catrobat/catty)
-13. [GeoLicious](https://github.com/da3x/GeoLicious)
-14. [fitPlant](https://github.com/KrisKodira/fitPlant)
-15. [TypeStyle](https://github.com/ebelinski/typestyle-ios)
+![](https://img.shields.io/badge/Projects-876-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2028,%202019-lightgrey.svg)
+1. [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS)
+2. [Tinodios](https://github.com/tinode/ios)
+3. [Swiftenstein](https://github.com/nicklockwood/Swiftenstein)
+4. [GiTiny](https://github.com/k-lpmg/GiTiny)
+5. [GitHubSearch](https://github.com/Karambirov/GitHubSearch)
+6. [TermiWatch](https://github.com/kuglee/TermiWatch)
+7. [Legend-Wings](https://github.com/woguan/Legend-Wings)
+8. [Podcasts](https://github.com/Karambirov/Podcasts)
+9. [Essentia](https://github.com/essentiaone/Essentia-iOS)
+10. [Science Journal](https://github.com/google/science-journal-ios)
+11. [iSH](https://github.com/tbodt/ish)
+12. [Showio](https://github.com/madyanov/showio-app)
+13. [Pocket Code](https://github.com/catrobat/catty)
+14. [GeoLicious](https://github.com/da3x/GeoLicious)
+15. [fitPlant](https://github.com/KrisKodira/fitPlant)
 
 ## Thanks
 
