@@ -16945,7 +16945,7 @@
       "category-ids": [
         "communication"
       ],
-      "description": "Free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection)",
+      "description": "Free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or cellular connection)",
       "source": "https://gitlab.linphone.org/BC/public/linphone-iphone",
       "itunes": "https://itunes.apple.com/app/linphone/id360065638",
       "license": "gpl-2.0",
@@ -16990,7 +16990,7 @@
         "github",
         "rxswift"
       ],
-      "description": "GitHub client written in RxSwift and MVVM clean architecture",
+      "description": "GitHub client written with RxSwift and MVVM clean architecture",
       "source": "https://github.com/khoren93/SwiftHub",
       "itunes": "https://itunes.apple.com/app/swifthub-git-client/id1448628710",
       "license": "mit",
@@ -17015,7 +17015,7 @@
       "category-ids": [
         "event"
       ],
-      "description": "Easy way to connect with fellow developers during WWDC, Layers & AltConf",
+      "description": "Connect with fellow developers during WWDC, Layers & AltConf",
       "source": "https://github.com/ay8s/ConfFriends",
       "itunes": "https://itunes.apple.com/app/id1386399019",
       "license": "mit",
@@ -17036,7 +17036,7 @@
       "category-ids": [
         "health"
       ],
-      "description": "Efficiently keeping track of medications and when to take them",
+      "description": "Track medication and when to take them",
       "source": "https://github.com/jonrobinsdev/MedKeeper",
       "license": "other",
       "stars": 3,
@@ -17110,7 +17110,7 @@
       "category-ids": [
         "health"
       ],
-      "description": "Drink tracker with weekly limits, Untappd support, and HealthKit sync",
+      "description": "Drink tracker with weekly limits (supports Untappd support and HealthKit)",
       "source": "https://github.com/archagon/good-spirits",
       "license": "gpl-3.0",
       "itunes": "https://itunes.apple.com/app/good-spirits/id1434237439",
@@ -17132,7 +17132,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "Simple game application for the practice of beginners in Swift-programming",
+      "description": "Simple game for folks learning Swift",
       "source": "https://github.com/riley-usagi/SwiftAdvance",
       "lang": "rus",
       "license": "mit",
@@ -17153,7 +17153,7 @@
       "category-ids": [
         "photo"
       ],
-      "description": "A collection of code examples for Depth APIs",
+      "description": "Code examples for Depth APIs",
       "source": "https://github.com/shu223/iOS-Depth-Sampler",
       "license": "mit",
       "stars": 499,
@@ -17297,7 +17297,7 @@
         "swift",
         "archive"
       ],
-      "description": "Allows you to connect to a various photo hosting services and browse images. Download any image to your device's storage, or set it as your new wallpaper. Share images with friends via your favorite messaging app.",
+      "description": "Connect to a various photo hosting services and browse images (save to device, set it as wallpaper, share with friends via your favorite messaging app)",
       "source": "https://github.com/satishbabariya/Danbooru-Lite",
       "itunes": "https://itunes.apple.com/app/danbooru-lite/id1338782992",
       "screenshots": [
@@ -17347,7 +17347,7 @@
       "category-ids": [
         "notes"
       ],
-      "description": "Note taking and to-do with synchronisation capabilities, can handle a large number of notes organised into notebooks",
+      "description": "Note taking and to-do with synchronisation capabilities",
       "source": "https://github.com/laurent22/joplin",
       "homepage": "https://joplinapp.org/",
       "itunes": "https://itunes.apple.com/app/joplin/id1315599797",
@@ -17374,7 +17374,7 @@
         "avkit",
         "viper"
       ],
-      "description": "Use machine learning algorithm to help make an early diagnosis of melanoma and get the necessary treatment on time",
+      "description": "Use machine learning to help make an early diagnosis of melanoma and get the necessary treatment on time",
       "source": "https://github.com/akarataev/gleam-ios",
       "license": "mit",
       "screenshots": [
@@ -17389,7 +17389,7 @@
       "category-ids": [
         "video"
       ],
-      "description": "Play videos from the Files app in a better and darker interface which avoids losing your playback position",
+      "description": "Play videos from the Files app in a better and darker interface",
       "source": "https://github.com/justjs/Playerly",
       "license": "mit",
       "tags": [
@@ -17466,7 +17466,7 @@
       "category-ids": [
         "text"
       ],
-      "description": "Stylizes your text and adds decorations",
+      "description": "Stylize your text and add decorations",
       "source": "https://github.com/ebelinski/typestyle-ios",
       "homepage": "https://typestyle.app",
       "itunes": "https://itunes.apple.com/app/typestyle/id1441019779",
@@ -17487,7 +17487,7 @@
       "category-ids": [
         "education"
       ],
-      "description": "Allows you to create games, animations, interactive music videos, and many kind of other apps, directly on device",
+      "description": "Create games, animations, interactive music videos, and many kind of other apps, directly on device",
       "source": "https://github.com/catrobat/catty",
       "homepage": "https://www.catrobat.org",
       "itunes": "https://itunes.apple.com/app/pocket-code/id1117935892",
@@ -17697,7 +17697,7 @@
       "tags": [
         "swift"
       ],
-      "description": "Tinode: fully open source cross platform messenger",
+      "description": "Cross platform messenger",
       "source": "https://github.com/tinode/ios",
       "stars": 18,
       "license": "apache-2.0",
@@ -17711,13 +17711,12 @@
     {
       "title": "Home Assistant Companion",
       "category-ids": [
-        "official",
         "misc"
       ],
       "tags": [
         "swift"
       ],
-      "description": "Control and monitor your home from anywhere in the world. Home Assistant lets you control all your devices and provides advanced location and notification engines to allow for complex mobile automations. Features deep integration with iOS via advanced location and notification systems, as well as a today widget and Apple Watch app.",
+      "description": "Control and monitor your home from anywhere in the world",
       "license": "apache-2.0",
       "source": "https://github.com/home-assistant/home-assistant-iOS",
       "homepage": "https://www.home-assistant.io/",
