@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-876-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2028,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-875-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2030,%202019-lightgrey.svg)
 
 Jump to
 
@@ -830,7 +830,7 @@ Click ► to show more details
 	<a href='http://a2.mzstatic.com/us/r30/Purple20/v4/f5/c3/f3/f5c3f37e-17b6-e613-aff3-7d66b31a34b0/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple60/v4/87/49/ae/8749ae35-924b-5354-12f7-698113ad3fe4/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple30/v4/83/3a/02/833a024e-5d9e-4802-2c33-212662d4600c/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple18/v4/11/d2/0b/11d20b28-5f21-5718-298f-61a2af7b97e8/screen696x696.jpeg'><code>Screenshot 4</code></a> 
   </details>
 
-- [Linphone](https://gitlab.linphone.org/BC/public/linphone-iphone): Free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection) [` App Store`](https://itunes.apple.com/app/linphone/id360065638)  
+- [Linphone](https://gitlab.linphone.org/BC/public/linphone-iphone): Free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or cellular connection) [` App Store`](https://itunes.apple.com/app/linphone/id360065638)  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -934,7 +934,7 @@ Click ► to show more details
 	<a href='http://a5.mzstatic.com/us/r30/Purple62/v4/d1/90/fd/d190fd61-005a-a5b7-0bf4-91b5c588b970/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/95/f3/2e/95f32efb-5e42-841e-f142-b25b14f62f25/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/ad/4c/76/ad4c768a-31c3-8fb2-daf4-effd9914e46c/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/92/80/a3/9280a32a-66b6-15b9-b8fb-866ea1e13bfa/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple62/v4/be/00/19/be00193f-ee7e-9886-09d5-86ca9dfa2faf/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Tinodios](https://github.com/tinode/ios): Tinode: fully open source cross platform messenger  
+- [Tinodios](https://github.com/tinode/ios): Cross platform messenger  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -1397,7 +1397,7 @@ Click ► to show more details
 	<a href='https://i.imgur.com/OBGvFKw.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/50eCbeX.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written in RxSwift and MVVM clean architecture [` App Store`](https://itunes.apple.com/app/swifthub-git-client/id1448628710)  
+- [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture [` App Store`](https://itunes.apple.com/app/swifthub-git-client/id1448628710)  
   <details>
 	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐</summary>
 
@@ -1450,7 +1450,7 @@ Click ► to show more details
 	<a href='https://i.imgur.com/8u73w5u.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/MShIfCe.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [Pocket Code](https://github.com/catrobat/catty): Allows you to create games, animations, interactive music videos, and many kind of other apps, directly on device [` App Store`](https://itunes.apple.com/app/pocket-code/id1117935892)  
+- [Pocket Code](https://github.com/catrobat/catty): Create games, animations, interactive music videos, and many kind of other apps, directly on device [` App Store`](https://itunes.apple.com/app/pocket-code/id1117935892)  
   <details>
 	<summary><code>swift</code> <code>objc</code> </summary>
 
@@ -1603,7 +1603,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [ConfFriends](https://github.com/ay8s/ConfFriends): Easy way to connect with fellow developers during WWDC, Layers & AltConf [` App Store`](https://itunes.apple.com/app/id1386399019)  
+- [ConfFriends](https://github.com/ay8s/ConfFriends): Connect with fellow developers during WWDC, Layers & AltConf [` App Store`](https://itunes.apple.com/app/id1386399019)  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -2394,7 +2394,7 @@ Click ► to show more details
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'><code>Screenshot 2</code></a> 
   </details>
 
-- [Ragnarok](https://github.com/riley-usagi/SwiftAdvance): Simple game application for the practice of beginners in Swift-programming  
+- [Ragnarok](https://github.com/riley-usagi/SwiftAdvance): Simple game for folks learning Swift  
   <details>
 	<summary><code>swift</code> 🌐 </summary>
 
@@ -2631,7 +2631,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='http://a2.mzstatic.com/us/r30/Purple69/v4/9f/82/17/9f8217e4-00da-b516-1853-23fbc6ecbdaf/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple49/v4/c9/cd/e2/c9cde204-5712-97c4-c952-7f0884490153/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/28/fd/66/28fd66a4-d756-34ce-98f0-aa5dae26ff7d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/7e/80/b9/7e80b966-2e41-a36a-a1a3-b02c70ec0961/screen696x696.jpeg'><code>Screenshot 4</code></a> 
   </details>
 
-- [Gleam](https://github.com/akarataev/gleam-ios): Use machine learning algorithm to help make an early diagnosis of melanoma and get the necessary treatment on time  
+- [Gleam](https://github.com/akarataev/gleam-ios): Use machine learning to help make an early diagnosis of melanoma and get the necessary treatment on time  
   <details>
 	<summary><code>swift</code> <code>coreml</code> <code>avkit</code> <code>viper</code> </summary>
 
@@ -2646,7 +2646,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	Added January 13, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 
-- [Good Spirits](https://github.com/archagon/good-spirits): Drink tracker with weekly limits, Untappd support, and HealthKit sync [` App Store`](https://itunes.apple.com/app/good-spirits/id1434237439)  
+- [Good Spirits](https://github.com/archagon/good-spirits): Drink tracker with weekly limits (supports Untappd support and HealthKit) [` App Store`](https://itunes.apple.com/app/good-spirits/id1434237439)  
   <details>
 	<summary><code>swift</code> <code>healthkit</code> ⭐</summary>
 
@@ -2670,7 +2670,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://i.imgur.com/nOAhewe.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/DmfcHr6.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/5xlFNzo.png'><code>Screenshot 3</code></a> <a href='https://i.imgur.com/mCDJdlD.png'><code>Screenshot 4</code></a> 
   </details>
 
-- [MedKeeper](https://github.com/jonrobinsdev/MedKeeper): Efficiently keeping track of medications and when to take them  
+- [MedKeeper](https://github.com/jonrobinsdev/MedKeeper): Track medication and when to take them  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -2699,14 +2699,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [fitPlant](https://github.com/KrisKodira/fitPlant): Workout tracker where you can grow artificial plants  
-  <details>
-	<summary></summary>
-
-	Added February 26, 2019<br>
-	<a href='https://raw.githubusercontent.com/KrisKodira/fitPlant/master/design/ios-app/main-view.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Jim](https://github.com/kylejm/Jim): Track your gym workouts  
   <details>
 	<summary><code>swift</code> <code>parse</code> </summary>
@@ -3755,7 +3747,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<a href='https://github.com/Yogayu/EmotionNote/raw/master/imgs/Desktop%20HD.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler): A collection of code examples for Depth APIs  
+- [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler): Code examples for Depth APIs  
   <details>
 	<summary><code>swift</code> ⭐⭐</summary>
 
@@ -3848,7 +3840,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<a href='http://getfetchapp.com/img/product.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Playerly](https://github.com/justjs/Playerly): Play videos from the Files app in a better and darker interface which avoids losing your playback position  
+- [Playerly](https://github.com/justjs/Playerly): Play videos from the Files app in a better and darker interface  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -4109,14 +4101,6 @@ https://newsapi.org/ — [back to top](#readme)
 
 	Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
 	<a href='http://a4.mzstatic.com/us/r30/Purple49/v4/53/81/08/53810869-af7c-31ff-c2bd-43b2a7ec5f56/screen322x572.jpeg'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS): Control and monitor your home from anywhere in the world. Home Assistant lets you control all your devices and provides advanced location and notification engines to allow for complex mobile automations. Features deep integration with iOS via advanced location and notification systems, as well as a today widget and Apple Watch app. [` App Store`](https://itunes.apple.com/app/home-assistant-open-source-home-automation/id1099568401)  
-  <details>
-	<summary><code>swift</code> ⭐⭐</summary>
-
-	https://www.home-assistant.io/<br>  Added May 27, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/47/a7/a6/47a7a652-c206-4a30-1aae-e20c0c17d5ea/mzl.xkrohcrn.png/690x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/05/68/18/0568186a-f883-1172-de2c-e3dbfb9adaae/mzl.oqskbgaz.png/690x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/4a/5c/09/4a5c097b-df61-fe5c-7d81-97f757d7ad74/mzl.yzivdnlw.png/690x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 - [Kickstarter](https://github.com/kickstarter/ios-oss): Where independent creators & passionate backers come together to bring new ideas to life [` App Store`](https://itunes.apple.com/app/kickstarter/id596961532)  
@@ -4412,7 +4396,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written in RxSwift and MVVM clean architecture [` App Store`](https://itunes.apple.com/app/swifthub-git-client/id1448628710)  
+- [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture [` App Store`](https://itunes.apple.com/app/swifthub-git-client/id1448628710)  
   <details>
 	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐</summary>
 
@@ -5116,7 +5100,7 @@ https://mastodon.social — [back to top](#readme)
 	<a href='https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [TypeStyle](https://github.com/ebelinski/typestyle-ios): Stylizes your text and adds decorations [` App Store`](https://itunes.apple.com/app/typestyle/id1441019779)  
+- [TypeStyle](https://github.com/ebelinski/typestyle-ios): Stylize your text and add decorations [` App Store`](https://itunes.apple.com/app/typestyle/id1441019779)  
   <details>
 	<summary><code>swift</code> <code>ipad</code> </summary>
 
@@ -5145,7 +5129,7 @@ https://mastodon.social — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f9/72/00/f972005b-5a6b-fc54-b68e-f6a704f82f1f/mzl.kxlcltgy.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/fd/a8/eefda80f-f32b-94e4-27f3-e4a3fa8b1079/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/a0/73/95a0739c-7e40-2e7d-787b-52e59b3d8581/mzl.srqiktcn.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/b1/61/0eb1619e-2e6a-234f-06a6-eefafcad478c/mzl.ihcrhigp.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/60/09/11/60091180-1755-60ca-b390-3223f4ac8b34/mzl.vbvqksns.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Joplin](https://github.com/laurent22/joplin): Note taking and to-do with synchronisation capabilities, can handle a large number of notes organised into notebooks [` App Store`](https://itunes.apple.com/app/joplin/id1315599797)  
+- [Joplin](https://github.com/laurent22/joplin): Note taking and to-do with synchronisation capabilities [` App Store`](https://itunes.apple.com/app/joplin/id1315599797)  
   <details>
 	<summary><code>react-native</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -5498,7 +5482,7 @@ https://mastodon.social — [back to top](#readme)
 	<a href='http://a3.mzstatic.com/us/r30/Purple69/v4/bb/ee/2f/bbee2f6f-68b0-48b8-5949-e5b4bc49cc8c/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple49/v4/b6/7a/49/b67a496a-c81c-d9b9-81e0-cae43136b41b/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/49/56/85/4956850f-d8e7-bcb3-26f5-f778b80f8540/screen696x696.jpeg'><code>Screenshot 3</code></a> 
   </details>
 
-- [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS): Control and monitor your home from anywhere in the world. Home Assistant lets you control all your devices and provides advanced location and notification engines to allow for complex mobile automations. Features deep integration with iOS via advanced location and notification systems, as well as a today widget and Apple Watch app. [` App Store`](https://itunes.apple.com/app/home-assistant-open-source-home-automation/id1099568401)  
+- [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS): Control and monitor your home from anywhere in the world [` App Store`](https://itunes.apple.com/app/home-assistant-open-source-home-automation/id1099568401)  
   <details>
 	<summary><code>swift</code> ⭐⭐</summary>
 
@@ -6294,7 +6278,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
 	<a href='https://github.com/vkaltyrin/exchanger/blob/master/screenshot.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [Gleam](https://github.com/akarataev/gleam-ios): Use machine learning algorithm to help make an early diagnosis of melanoma and get the necessary treatment on time  
+- [Gleam](https://github.com/akarataev/gleam-ios): Use machine learning to help make an early diagnosis of melanoma and get the necessary treatment on time  
   <details>
 	<summary><code>swift</code> <code>coreml</code> <code>avkit</code> <code>viper</code> </summary>
 
