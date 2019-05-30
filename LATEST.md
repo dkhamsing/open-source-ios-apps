@@ -2,7 +2,7 @@
 
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
-![](https://img.shields.io/badge/Projects-876-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2028,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-875-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2030,%202019-lightgrey.svg)
 1. [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS)
 2. [Tinodios](https://github.com/tinode/ios)
 3. [Swiftenstein](https://github.com/nicklockwood/Swiftenstein)
@@ -17,7 +17,7 @@ These are the 15 latest entries from the [main list](https://github.com/dkhamsin
 12. [Showio](https://github.com/madyanov/showio-app)
 13. [Pocket Code](https://github.com/catrobat/catty)
 14. [GeoLicious](https://github.com/da3x/GeoLicious)
-15. [fitPlant](https://github.com/KrisKodira/fitPlant)
+15. [TypeStyle](https://github.com/ebelinski/typestyle-ios)
 
 ## Thanks
 
