@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-875-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2030,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-875-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%201,%202019-lightgrey.svg)
 
 Jump to
 
@@ -856,7 +856,7 @@ Click ► to show more details
 
 - [Monal](https://github.com/anurodhp/Monal): Connect to your chat server without having to give a third party access to your password or messages [` App Store`](https://itunes.apple.com/app/monal-free-xmpp-chat/id317711500)  
   <details>
-	<summary><code>objc</code> <code>xmpp</code> ⭐</summary>
+	<summary><code>objc</code> <code>xmpp</code> ⭐⭐</summary>
 
 	Added November  7, 2016<br>  License: `other`<br>
 	<a href='http://a3.mzstatic.com/us/r30/Purple69/v4/ca/27/98/ca279896-a860-e33f-ef2c-cfdc1c62dbdc/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple49/v4/24/53/b6/2453b64c-0c67-1e71-86f8-d96482ae992a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple69/v4/b2/e8/b2/b2e8b2f2-160e-19d2-1e38-94c9ab629b78/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/68/4c/ec/684cecd3-4d00-b658-9395-57ea1dafef47/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple69/v4/c4/58/60/c458604e-d368-eb11-c315-7631bece7485/screen696x696.jpeg'><code>Screenshot 5</code></a> 
@@ -1100,7 +1100,7 @@ Click ► to show more details
 
 - [iVim](https://github.com/terrychou/iVim): A vim port [` App Store`](https://itunes.apple.com/app/ivim/id1266544660)  
   <details>
-	<summary><code>c</code> <code>vim-script</code> ⭐</summary>
+	<summary><code>c</code> <code>vim-script</code> ⭐⭐</summary>
 
 	Added February 11, 2018<br>  License: `other`<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
@@ -3749,7 +3749,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 - [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler): Code examples for Depth APIs  
   <details>
-	<summary><code>swift</code> ⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐</summary>
 
 	Added September 19, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/3d.gif?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/portraitmatte.gif?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/arkit-depth.gif?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/depth_1.gif?raw=true'><code>Screenshot 4</code></a> 
@@ -5078,7 +5078,7 @@ https://mastodon.social — [back to top](#readme)
 
 - [iVim](https://github.com/terrychou/iVim): A vim port [` App Store`](https://itunes.apple.com/app/ivim/id1266544660)  
   <details>
-	<summary><code>c</code> <code>vim-script</code> ⭐</summary>
+	<summary><code>c</code> <code>vim-script</code> ⭐⭐</summary>
 
 	Added February 11, 2018<br>  License: `other`<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
@@ -5556,7 +5556,7 @@ https://mastodon.social — [back to top](#readme)
 
 - [openHAB](https://github.com/openhab/openhab-ios): Vendor & technology agnostic home automation [` App Store`](https://itunes.apple.com/app/openhab/id492054521)  
   <details>
-	<summary><code>objc</code> </summary>
+	<summary><code>objc</code> ⭐</summary>
 
 	https://www.openhab.org/<br>  Added June  2, 2016<br>  License: [`epl-1.0`](http://choosealicense.com/licenses/epl-1.0/)<br>
 	<a href='http://a5.mzstatic.com/us/r30/Purple1/v4/ce/c8/32/cec832bd-868f-30be-ed46-37c8323659d5/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/ff/54/8e/ff548e6a-7163-1d55-2f22-7fa0cd91475b/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple5/v4/fb/69/1b/fb691b81-40db-5acd-6003-dc5709f04791/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple3/v4/0c/38/5b/0c385b22-15b0-4ab4-b032-f186a1da5f11/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/ef/f2/91/eff2918a-0b62-2d0e-68b4-912ee8b989e1/screen696x696.jpeg'><code>Screenshot 5</code></a> 
