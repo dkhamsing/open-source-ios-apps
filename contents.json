@@ -17733,10 +17733,9 @@
     },
     {
       "title": "PDF to Keynote",
-      "category-ids": ["media", "education"],
+      "category-ids": ["media"],
       "description": "Import PDF presentations as vector images into Keynote for iOS.",
       "source": "https://github.com/LumingYin/PDFToKeynote-iOS",
-      "homepage": "https://github.com/LumingYin/PDFToKeynote-iOS/blob/master/README.md",
       "itunes": "https://itunes.apple.com/app/pdf-to-keynote/id1461682846",    
       "license": "mit",
       "stars": 0,     
