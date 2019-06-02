@@ -122,6 +122,10 @@
       "description": "https://www.apple.com/researchkit/"
     },
     {
+      "title": "Home",
+      "id": "home"
+    },
+    {
       "title": "Keyboard",
       "id": "keyboard"
     },
@@ -9904,7 +9908,7 @@
     {
       "title": "openHAB",
       "category-ids": [
-        "misc"
+        "home"
       ],
       "tags": [
         "objc"
@@ -17712,7 +17716,7 @@
     {
       "title": "Home Assistant Companion",
       "category-ids": [
-        "misc"
+        "home"
       ],
       "tags": [
         "swift"
