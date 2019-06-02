@@ -107,10 +107,6 @@
       "description": "https://developer.apple.com/reference/spritekit"
     },
     {
-      "title": "Home",
-      "id": "home"
-    },
-    {
       "title": "Health",
       "id": "health"
     },
@@ -124,6 +120,10 @@
       "id": "researchkit",
       "parent": "health",
       "description": "https://www.apple.com/researchkit/"
+    },
+    {
+      "title": "Home",
+      "id": "home"
     },
     {
       "title": "Keyboard",
