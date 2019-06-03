@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-875-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%202,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-876-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%203,%202019-lightgrey.svg)
 
 Jump to
 
@@ -3249,6 +3249,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added April 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS): Import PDF presentations as vector images into Keynote for iOS. [` App Store`](https://itunes.apple.com/app/pdf-to-keynote/id1461682846)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June  2, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/LumingYin/PDFToKeynote-iOS/master/screenshot.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Pictograph](https://github.com/MrAdamBoyd/Pictograph): Hide messages in images with steganography [` App Store`](https://itunes.apple.com/us/app/id1051879856)  
