@@ -17734,6 +17734,19 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/05/68/18/0568186a-f883-1172-de2c-e3dbfb9adaae/mzl.oqskbgaz.png/690x0w.jpg",
         "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/4a/5c/09/4a5c097b-df61-fe5c-7d81-97f757d7ad74/mzl.yzivdnlw.png/690x0w.jpg"
       ]
+    },
+    {
+      "title": "PDF to Keynote",
+      "category-ids": ["media"],
+      "description": "Import PDF presentations as vector images into Keynote for iOS.",
+      "source": "https://github.com/LumingYin/PDFToKeynote-iOS",
+      "itunes": "https://itunes.apple.com/app/pdf-to-keynote/id1461682846",    
+      "license": "mit",
+      "stars": 0,     
+      "tags": ["swift"],
+      "screenshots": ["https://raw.githubusercontent.com/LumingYin/PDFToKeynote-iOS/master/screenshot.jpg"],
+      "date_added": "June 2 2019",
+      "suggested_by": "@LumingYin"
     }
   ]
 }
