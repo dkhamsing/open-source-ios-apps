@@ -334,6 +334,23 @@
   ],
   "projects": [
     {
+      "title": "KeyboardKit",
+      "category-ids": [
+        "keyboard"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "KeyboardKit is a Swift library that helps you create iOS keyboard extensions.",
+      "source": "https://github.com/danielsaidi/KeyboardKit",
+      "screenshots": [
+        "https://github.com/danielsaidi/KeyboardKit/blob/master/Resources/Demo.gif"
+      ],
+      "date_added": "Jun 8, 2019",
+      "suggested_by": "@lixiii",
+      "license": "mit"
+    },
+    {
       "title": "iSH",
       "category-ids": [
         "developer",
