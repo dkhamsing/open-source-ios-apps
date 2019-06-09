@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **220** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **218** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1042,14 +1042,6 @@ Click ► to show more details
  
 http://cocos2d.org/ — [back to top](#readme) 
  
-- [Alienblast](https://github.com/etamity/AlienBlast): Cute & sweet shooting game [` App Store`](https://itunes.apple.com/app/id1098323034)  
-  <details>
-	<summary><code>swift</code> <code>spritebuilder</code> </summary>
-
-	Added July 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple49/v4/fd/71/de/fd71deb3-7e75-2d3d-5de1-e859712af0ef/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple49/v4/ba/35/35/ba35350b-2507-990a-4ee0-b1b4fa822413/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple49/v4/c2/e1/d3/c2e1d311-7d49-2d4b-5948-e13bd7066536/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple49/v4/26/32/be/2632be98-bce4-6a61-2eac-c8417e4b8b1d/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple49/v4/e9/4b/50/e94b50db-71b8-13c8-603f-8cee86236b60/screen696x696.jpeg'><code>Screenshot 5</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple49/v4/70/a4/7c/70a47c33-d67c-1563-3bc9-7a238f83d65b/screen696x696.jpeg'><code>Screenshot 6</code></a> 
-  </details>
-
 
 ### SpriteKit 
  
@@ -2153,14 +2145,6 @@ https://mastodon.social — [back to top](#readme)
 
 	https://www.stevemoser.org/posts/apple-dev/richtexture.html<br>  Added June 28, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/4d/3b/dc/4d3bdc1a-2bb9-589d-a574-873167dd7fb8/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
-- [TypeStyle](https://github.com/ebelinski/typestyle-ios): Stylize your text and add decorations [` App Store`](https://itunes.apple.com/app/typestyle/id1441019779)  
-  <details>
-	<summary><code>swift</code> <code>ipad</code> </summary>
-
-	https://typestyle.app<br>  Added February 22, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://raw.githubusercontent.com/ebelinski/typestyle-ios/master/media/iphone-x-screenshots.png'><code>Screenshot 1</code></a> 
   </details>
 
 
