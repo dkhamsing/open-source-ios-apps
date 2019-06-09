@@ -10450,7 +10450,6 @@
       "suggested_by": "@tirupati17",
       "stars": 12,
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple20/v4/20/94/8a/20948a2b-3d8d-e65b-2831-a582d912ed13/screen696x696.jpeg",
         "http://a3.mzstatic.com/us/r30/Purple49/v4/aa/6a/2f/aa6a2f8a-d067-725a-e1f4-83caeaac8e75/screen696x696.jpeg",
         "http://a3.mzstatic.com/us/r30/Purple30/v4/e6/87/fb/e687fb83-cd3d-6b40-2d3b-94f6fd1e82a5/screen696x696.jpeg"
       ]
@@ -14342,7 +14341,7 @@
         "onetimepassword"
       ],
       "screenshots": [
-        "https://github.com/mssun/passforios/raw/master/screenshot/preview.gif"
+        "https://github.com/mssun/passforios/raw/master/img/preview.gif"
       ],
       "stars": 635,
       "license": "mit",
