@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-876-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%203,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-876-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%209,%202019-lightgrey.svg)
 
 Jump to
 
@@ -2249,7 +2249,7 @@ Click ► to show more details
 	<summary><code>objc</code> </summary>
 
 	Added May 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple4/v4/9d/17/17/9d17174d-aee3-a503-38bf-d768056313ce/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple6/v4/43/de/20/43de20bb-d602-e5e4-c7ea-5f4b4551b6fc/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple/v4/d1/a3/59/d1a359c5-0b01-6b61-d87b-a69d9d67dbb5/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+	<a href='http://a5.mzstatic.com/us/r30/Purple4/v4/9d/17/17/9d17174d-aee3-a503-38bf-d768056313ce/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple6/v4/43/de/20/43de20bb-d602-e5e4-c7ea-5f4b4551b6fc/screen696x696.jpeg'><code>Screenshot 2</code></a> 
   </details>
 
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Flappy Bird clone  
@@ -2471,7 +2471,7 @@ Click ► to show more details
  
 http://cocos2d.org/ — [back to top](#readme) 
  
-- [Alienblast](https://github.com/etamity/AlienBlast): Cute & sweet shooting game [` App Store`](https://itunes.apple.com/app/id1098323034)  
+- [Alienblast](https://github.com/etamity/AlienBlast): Cute & sweet shooting game  
   <details>
 	<summary><code>swift</code> <code>spritebuilder</code> </summary>
 
@@ -5130,7 +5130,7 @@ https://mastodon.social — [back to top](#readme)
 	<a href='https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [TypeStyle](https://github.com/ebelinski/typestyle-ios): Stylize your text and add decorations [` App Store`](https://itunes.apple.com/app/typestyle/id1441019779)  
+- [TypeStyle](https://github.com/ebelinski/typestyle-ios): Stylize your text and add decorations  
   <details>
 	<summary><code>swift</code> <code>ipad</code> </summary>
 
