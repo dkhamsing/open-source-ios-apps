@@ -824,7 +824,7 @@ Click ► to show more details
 	<summary><code>swift</code> <code>viper</code> </summary>
 
 	Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple20/v4/20/94/8a/20948a2b-3d8d-e65b-2831-a582d912ed13/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/aa/6a/2f/aa6a2f8a-d067-725a-e1f4-83caeaac8e75/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple30/v4/e6/87/fb/e687fb83-cd3d-6b40-2d3b-94f6fd1e82a5/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+	<a href='http://a3.mzstatic.com/us/r30/Purple49/v4/aa/6a/2f/aa6a2f8a-d067-725a-e1f4-83caeaac8e75/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple30/v4/e6/87/fb/e687fb83-cd3d-6b40-2d3b-94f6fd1e82a5/screen696x696.jpeg'><code>Screenshot 2</code></a> 
   </details>
 
 - [Encryptr](https://github.com/SpiderOak/Encryptr): A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://itunes.apple.com/app/id1066041348)  
@@ -2031,7 +2031,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> <code>carthage</code> <code>keychainaccess</code> <code>onetimepassword</code> ⭐⭐⭐</summary>
 
 	https://mssun.github.io/passforios/<br>  Added May 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/mssun/passforios/raw/master/screenshot/preview.gif'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/mssun/passforios/raw/master/img/preview.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [PassDrop](https://github.com/chadaustin/passdrop): Keepass password manager [` App Store`](https://itunes.apple.com/app/passdrop-2/id1206056096)  
@@ -2485,7 +2485,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
 	<summary><code>swift</code> <code>viper</code> </summary>
 
 	Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple20/v4/20/94/8a/20948a2b-3d8d-e65b-2831-a582d912ed13/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/aa/6a/2f/aa6a2f8a-d067-725a-e1f4-83caeaac8e75/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple30/v4/e6/87/fb/e687fb83-cd3d-6b40-2d3b-94f6fd1e82a5/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+	<a href='http://a3.mzstatic.com/us/r30/Purple49/v4/aa/6a/2f/aa6a2f8a-d067-725a-e1f4-83caeaac8e75/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple30/v4/e6/87/fb/e687fb83-cd3d-6b40-2d3b-94f6fd1e82a5/screen696x696.jpeg'><code>Screenshot 2</code></a> 
   </details>
 
 - [Rambler&IT](https://github.com/rambler-digital-solutions/rambler-it-ios): Portfolio of mobile architectures used at Rambler&Co [` App Store`](https://itunes.apple.com/app/rambler-it/id1145829115)  
