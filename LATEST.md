@@ -2,7 +2,7 @@
 
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
-![](https://img.shields.io/badge/Projects-876-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%203,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-876-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%209,%202019-lightgrey.svg)
 1. [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS)
 2. [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS)
 3. [Tinodios](https://github.com/tinode/ios)
