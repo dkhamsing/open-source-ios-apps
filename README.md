@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-876-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%209,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-877-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2013,%202019-lightgrey.svg)
 
 Jump to
 
@@ -3583,6 +3583,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added February 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/KMindeguia/movies/master/Gif%20Demo/demo.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI): Browse movies, made with SwiftUI, Combine & MovieDB  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> </summary>
+
+	Added June 13, 2019<br>  License: `other`<br>
+	<a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [osia](https://github.com/dkhamsing/osia): Super basic app to browse open-source-ios-apps  
