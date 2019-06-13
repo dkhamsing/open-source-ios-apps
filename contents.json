@@ -17743,6 +17743,18 @@
       "screenshots": ["https://raw.githubusercontent.com/LumingYin/PDFToKeynote-iOS/master/screenshot.jpg"],
       "date_added": "June 2 2019",
       "suggested_by": "@LumingYin"
-    }
+    },
+    {
+      "title": "MovieSwiftUI",
+      "category-ids": ["content"],
+      "description": "Browse movies, made with SwiftUI, Combine & MovieDB",
+      "source": "https://github.com/Dimillian/MovieSwiftUI",
+      "license": "other",
+      "stars": 19,
+      "tags": ["swift", "swiftui", "combine"],
+      "screenshots": ["https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI.png"],
+      "date_added": "June 13 2019",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
