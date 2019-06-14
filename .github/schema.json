@@ -127,7 +127,7 @@
 						"title": "Project iTunes Page",
 						"description": "The URL for iTunes page for the project's app.",
 						"type": ["string", "null"],
-						"pattern": "^https:\\/\\/itunes\\.apple\\.com\\/.*?app\\/([^\\/]+\\/)?id[0-9]+$",
+						"pattern": "^https:\\/\\/apps\\.apple\\.com\\/.*?app\\/([^\\/]+\\/)?id[0-9]+$",
 						"default": null
 					},
 					"stars": {
