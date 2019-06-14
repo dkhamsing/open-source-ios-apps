@@ -17755,6 +17755,19 @@
       "screenshots": ["https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI.png"],
       "date_added": "June 13 2019",
       "suggested_by": "@dkhamsing"
-    }    
+    },
+    {
+      "title": "TicTacToe Ultimatum",
+      "category-ids": ["game"],
+      "description": "An open source clone of Ultimate Tic-Tac-Toe game",
+      "source": "https://github.com/mkhrapov/tictactoe-ultimatum",
+      "homepage": "https://www.tictactoeultimatum.com/",
+      "itunes": "https://apps.apple.com/app/id1463985601",
+      "license": "apache-2.0",
+      "tags": ["swift"],
+      "screenshots": ["https://raw.githubusercontent.com/mkhrapov/tictactoe-ultimatum/master/img/tictactoe-ultimatum.png"],
+      "date_added": "Jun 13 2019",
+      "suggested_by": "@mkhrapov"
+    }
   ]
 }
