@@ -17768,6 +17768,16 @@
       "screenshots": ["https://raw.githubusercontent.com/mkhrapov/tictactoe-ultimatum/master/img/tictactoe-ultimatum.png"],
       "date_added": "Jun 13 2019",
       "suggested_by": "@mkhrapov"
-    }
+    },
+    {
+      "title": "Landmarks",
+      "category-ids": ["location"],
+      "description": "Discover and share places you love",
+      "source": "https://developer.apple.com/tutorials/swiftui/creating-and-combining-views",
+      "license": "other",
+      "tags": ["swift", "swiftui", "mapkit"],
+      "date_added": "June 19 2019",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
