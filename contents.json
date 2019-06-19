@@ -17776,6 +17776,7 @@
       "source": "https://developer.apple.com/tutorials/swiftui/creating-and-combining-views",
       "license": "other",
       "tags": ["swift", "swiftui", "mapkit"],
+      "screenshots": ["http://i.imgur.com/k8BGv5M.png"],
       "date_added": "June 19 2019",
       "suggested_by": "@dkhamsing"
     }    
