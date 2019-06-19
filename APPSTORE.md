@@ -1029,7 +1029,7 @@ Click ► to show more details
 	<a href='http://a2.mzstatic.com/us/r30/Purple5/v4/22/a4/44/22a444e1-7626-03ee-05e7-6bdf58ea577d/screen480x480.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum): An open source clone of Ultimate Tic-Tac-Toe game [` App Store`](https://apps.apple.com/app/id1463985601)  
+- [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum): Clone of Ultimate Tic-Tac-Toe [` App Store`](https://apps.apple.com/app/id1463985601)  
   <details>
 	<summary><code>swift</code> </summary>
 
