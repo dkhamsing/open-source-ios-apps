@@ -17759,7 +17759,7 @@
     {
       "title": "TicTacToe Ultimatum",
       "category-ids": ["game"],
-      "description": "An open source clone of Ultimate Tic-Tac-Toe game",
+      "description": "Clone of Ultimate Tic-Tac-Toe",
       "source": "https://github.com/mkhrapov/tictactoe-ultimatum",
       "homepage": "https://www.tictactoeultimatum.com/",
       "itunes": "https://apps.apple.com/app/id1463985601",
