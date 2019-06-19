@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-878-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2014,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-879-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2019,%202019-lightgrey.svg)
 
 Jump to
 
@@ -2458,7 +2458,7 @@ Click ► to show more details
 	<a href='http://cdn.iphoneincanada.ca/wp-content/uploads/2009/11/IMG_0520.PNG'><code>Screenshot 1</code></a> 
   </details>
 
-- [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum): An open source clone of Ultimate Tic-Tac-Toe game [` App Store`](https://apps.apple.com/app/id1463985601)  
+- [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum): Clone of Ultimate Tic-Tac-Toe [` App Store`](https://apps.apple.com/app/id1463985601)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -2956,6 +2956,13 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 	Added January 14, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo7.jpg'><code>Screenshot 1</code></a> <a href='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo8.jpg'><code>Screenshot 2</code></a> <a href='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo3.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views): Discover and share places you love  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>mapkit</code> </summary>
+
+	Added June 19, 2019<br>  License: `other`
   </details>
 
 - [Lunchify](https://github.com/sallar/lunchify-swift): Find restaurants offering 10€ lunch buffets in Finland  
