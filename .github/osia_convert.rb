@@ -188,7 +188,6 @@ def write_archive(j, subtitle)
 
   output = "\# #{t} Archive\n\n"
   output << subtitle
-  output << output_badges(archived.count)
   output << "\n"
 
   archived.each do |a|
@@ -213,7 +212,6 @@ def write_latest(j, num, subtitle)
 
   output = "\# #{t} Latest\n\n"
   output << subtitle
-  output << output_badges(apps.count)
   output << "\n"
 
   count = 1
