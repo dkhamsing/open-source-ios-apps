@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-879-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2019,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-879-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2021,%202019-lightgrey.svg)
 
 Jump to
 
@@ -2962,7 +2962,8 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   <details>
 	<summary><code>swift</code> <code>swiftui</code> <code>mapkit</code> </summary>
 
-	Added June 19, 2019<br>  License: `other`
+	Added June 19, 2019<br>  License: `other`<br>
+	<a href='http://i.imgur.com/k8BGv5M.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Lunchify](https://github.com/sallar/lunchify-swift): Find restaurants offering 10€ lunch buffets in Finland  
