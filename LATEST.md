@@ -2,7 +2,7 @@
 
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
-![](https://img.shields.io/badge/Projects-879-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2019,%202019-lightgrey.svg)
+
 1. [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
 2. [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum)
 3. [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
