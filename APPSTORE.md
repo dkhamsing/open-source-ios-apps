@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **219** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **220** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1979,6 +1979,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cdn-images-1.medium.com/max/800/1*9qSbd77zijp5UPODaWM9CQ.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [WireGuard](https://github.com/WireGuard/wireguard-apple): WireGuard: fast, modern, secure VPN tunnel (less battery consumption than OpenVPN)  [` App Store`](https://apps.apple.com/app/wireguard/id1441195209)  
+  <details>
+	<summary><code>swift</code> ⭐</summary>
+
+	Added July  1, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/79eUdhK.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/JHQRakO.png'><code>Screenshot 2</code></a> 
   </details>
 
 
