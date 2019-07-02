@@ -6727,6 +6727,26 @@
       "suggested_by": "@dkhamsing"
     },
     {
+      "title": "WireGuard",
+      "category-ids": [
+        "security"
+      ],
+      "description": "WireGuard: fast, modern, secure VPN tunnel (less battery consumption than OpenVPN) ",
+      "license": "mit",
+      "source": "https://github.com/WireGuard/wireguard-apple",
+      "itunes": "https://apps.apple.com/app/wireguard/id1441195209",
+      "stars": 118,
+      "screenshots": [
+        "https://i.imgur.com/79eUdhK.png",
+        "https://i.imgur.com/JHQRakO.png"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Jul 1 2019",
+      "suggested_by": "@GETandSELECT"
+    },
+    {
       "title": "Vinylogue",
       "category-ids": [
         "misc"
