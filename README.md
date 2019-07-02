@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-879-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2021,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-880-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%202,%202019-lightgrey.svg)
 
 Jump to
 
@@ -4815,6 +4815,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cdn-images-1.medium.com/max/800/1*9qSbd77zijp5UPODaWM9CQ.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [WireGuard](https://github.com/WireGuard/wireguard-apple): WireGuard: fast, modern, secure VPN tunnel (less battery consumption than OpenVPN)  [` App Store`](https://apps.apple.com/app/wireguard/id1441195209)  
+  <details>
+	<summary><code>swift</code> ⭐</summary>
+
+	Added July  1, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/79eUdhK.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/JHQRakO.png'><code>Screenshot 2</code></a> 
   </details>
 
 
