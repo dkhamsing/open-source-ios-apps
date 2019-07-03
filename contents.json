@@ -3949,7 +3949,7 @@
       ],
       "description": "Track the releases of your favorite comics",
       "license": "mit",
-      "source": "https://github.com/jayhickey/Longboxed-iOS",
+      "source": "https://github.com/Eason828/Longboxed-iOS",
       "stars": 28,
       "date_added": "Sat Jun 20 10:39:00 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -4686,7 +4686,6 @@
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/singro/v2ex",
-      "itunes": "https://apps.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535",
       "stars": 1961,
       "date_added": "Sun Apr 19 12:57:34 2015 +0800",
       "suggested_by": "@xubinggui",
@@ -5365,7 +5364,7 @@
         "sample"
       ],
       "lang": "zho",
-      "source": "https://github.com/Lax/iOS-Swift-Demos",
+      "source": "https://github.com/Lax/Learn-iOS-Swift-by-Examples",
       "stars": 2875,
       "tags": [
         "swift"
@@ -17772,7 +17771,7 @@
       "license": "other",
       "stars": 19,
       "tags": ["swift", "swiftui", "combine"],
-      "screenshots": ["https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI.png"],
+      "screenshots": ["https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo.png"],
       "date_added": "June 13 2019",
       "suggested_by": "@dkhamsing"
     },
