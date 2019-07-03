@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **220** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **221** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -312,6 +312,14 @@ Click ► to show more details
 
 	Added January 29, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='http://a2.mzstatic.com/us/r30/Purple20/v4/f5/c3/f3/f5c3f37e-17b6-e613-aff3-7d66b31a34b0/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple60/v4/87/49/ae/8749ae35-924b-5354-12f7-698113ad3fe4/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple30/v4/83/3a/02/833a024e-5d9e-4802-2c33-212662d4600c/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple18/v4/11/d2/0b/11d20b28-5f21-5718-298f-61a2af7b97e8/screen696x696.jpeg'><code>Screenshot 4</code></a> 
+  </details>
+
+- [Jami](https://review.jami.net/admin/repos/ring-client-ios): Decentralised text messaging, video and audio calls, file transfer, video conferencing [` App Store`](https://apps.apple.com/ca/app/ring-a-gnu-package/id1306951055)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://jami.net<br>  Added July  3, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/2e/3f/eb/2e3febb6-8e78-7e2d-ab6d-8fd4b887f72a/mzl.tmqasjxc.png/300x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Linphone](https://gitlab.linphone.org/BC/public/linphone-iphone): Free audio/video calls and text messaging (be reachable at any time, even if the app is closed, with a WiFi or cellular connection) [` App Store`](https://apps.apple.com/app/linphone/id360065638)  
