@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [WireGuard](https://github.com/WireGuard/wireguard-apple)
-2. [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
-3. [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum)
-4. [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
-5. [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS)
-6. [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS)
-7. [Tinodios](https://github.com/tinode/ios)
-8. [Swiftenstein](https://github.com/nicklockwood/Swiftenstein)
-9. [GiTiny](https://github.com/k-lpmg/GiTiny)
-10. [GitHubSearch](https://github.com/Karambirov/GitHubSearch)
-11. [TermiWatch](https://github.com/kuglee/TermiWatch)
-12. [Legend-Wings](https://github.com/woguan/Legend-Wings)
-13. [Podcasts](https://github.com/Karambirov/Podcasts)
-14. [Essentia](https://github.com/essentiaone/Essentia-iOS)
-15. [Science Journal](https://github.com/google/science-journal-ios)
+1. [Jami](https://review.jami.net/admin/repos/ring-client-ios)
+2. [WireGuard](https://github.com/WireGuard/wireguard-apple)
+3. [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+4. [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum)
+5. [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
+6. [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS)
+7. [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS)
+8. [Tinodios](https://github.com/tinode/ios)
+9. [Swiftenstein](https://github.com/nicklockwood/Swiftenstein)
+10. [GiTiny](https://github.com/k-lpmg/GiTiny)
+11. [GitHubSearch](https://github.com/Karambirov/GitHubSearch)
+12. [TermiWatch](https://github.com/kuglee/TermiWatch)
+13. [Legend-Wings](https://github.com/woguan/Legend-Wings)
+14. [Podcasts](https://github.com/Karambirov/Podcasts)
+15. [Essentia](https://github.com/essentiaone/Essentia-iOS)
 
 ## Thanks
 
