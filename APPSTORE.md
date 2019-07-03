@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **221** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **220** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1668,14 +1668,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [v2ex](https://github.com/singro/v2ex): Browse the https://www.v2ex.com/ startup, designer & developer site [` App Store`](https://apps.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535)  
-  <details>
-	<summary><code>objc</code> 🌐 ⭐⭐⭐⭐</summary>
-
-	Added April 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a4.mzstatic.com/us/r30/Purple18/v4/cd/7e/af/cd7eafe2-9672-c37a-9c95-bad1651e23b9/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple18/v4/d5/a3/18/d5a31896-d70d-9d06-ba50-004df03d3735/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple20/v4/af/75/88/af7588a9-8481-5d75-f3fd-8b1aa0a35bd6/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/3a/cb/a3/3acba32e-10c3-4916-1136-ebb922c33a2a/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple30/v4/ac/80/bb/ac80bbc1-1f81-1faf-26a0-c141e515082c/screen696x696.jpeg'><code>Screenshot 5</code></a> 
-  </details>
-
 
 ### Hacker News 
  
