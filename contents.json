@@ -17799,6 +17799,19 @@
       "screenshots": ["http://i.imgur.com/k8BGv5M.png"],
       "date_added": "June 19 2019",
       "suggested_by": "@dkhamsing"
-    }    
+    },
+    {
+      "title": "Jami",
+      "category-ids": ["communication"],
+      "description": "Decentralised text messaging, video and audio calls, file transfer, video conferencing",
+      "source": "https://review.jami.net/admin/repos/ring-client-ios",
+      "homepage": "https://jami.net",
+      "itunes": "https://apps.apple.com/ca/app/ring-a-gnu-package/id1306951055",
+      "license": "MIT",
+      "tags": ["swift"],
+      "screenshots": ["https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/2e/3f/eb/2e3febb6-8e78-7e2d-ab6d-8fd4b887f72a/mzl.tmqasjxc.png/300x0w.jpg"],
+      "date_added": "Jul 3 2019",
+      "suggested_by": "@stragu"
+    }
   ]
 }
