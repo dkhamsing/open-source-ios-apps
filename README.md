@@ -3227,7 +3227,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='http://a2.mzstatic.com/us/r30/Purple3/v4/b4/ec/a9/b4eca96d-142c-d230-9eff-37a11d98dca3/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple3/v4/ad/18/46/ad1846eb-e78b-f5a8-c404-967ac5ff18f3/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple2/v4/b1/ff/95/b1ff95a3-1bf4-c7f7-f57f-18f45e2323d7/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple3/v4/4c/20/5e/4c205e02-766b-69c5-7423-34e2eeb85921/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple3/v4/2f/3a/30/2f3a30f0-166d-e7ac-34a5-9b6559ef54a5/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Longboxed](https://github.com/jayhickey/Longboxed-iOS): Track the releases of your favorite comics  
+- [Longboxed](https://github.com/Eason828/Longboxed-iOS): Track the releases of your favorite comics  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -3614,7 +3614,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> </summary>
 
 	Added June 13, 2019<br>  License: `other`<br>
-	<a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI.png'><code>Screenshot 1</code></a> 
+	<a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [osia](https://github.com/dkhamsing/osia): Super basic app to browse open-source-ios-apps  
@@ -3994,7 +3994,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	Added March 18, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
   </details>
 
-- [v2ex](https://github.com/singro/v2ex): Browse the https://www.v2ex.com/ startup, designer & developer site [` App Store`](https://apps.apple.com/app/v2ex-chuang-yi-gong-zuo-zhe/id898181535)  
+- [v2ex](https://github.com/singro/v2ex): Browse the https://www.v2ex.com/ startup, designer & developer site  
   <details>
 	<summary><code>objc</code> 🌐 ⭐⭐⭐⭐</summary>
 
@@ -4707,7 +4707,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/shagedorn/StateRestorationDemo/master/Presentation/app_screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Swift-Demos](https://github.com/Lax/iOS-Swift-Demos): Mirror of Apple example code  
+- [Swift-Demos](https://github.com/Lax/Learn-iOS-Swift-by-Examples): Mirror of Apple example code  
   <details>
 	<summary><code>swift</code> 🌐 ⭐⭐⭐⭐⭐</summary>
 
