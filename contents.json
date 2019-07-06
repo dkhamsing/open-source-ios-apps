@@ -17817,7 +17817,6 @@
       "category-ids": ["password"],
       "description": "KeePassium is a KeePass-compatible password manager for iOS, with support for automatic database synchronization, respect to privacy and premium user experience.",
       "source": "https://github.com/keepassium/KeePassium",
-      "itunes": "Link to App Store",
       "homepage": "https://keepassium.com/",
       "tags": ["swift"],
       "license": "gpl-3.0",
