@@ -17811,6 +17811,18 @@
       "screenshots": ["https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/2e/3f/eb/2e3febb6-8e78-7e2d-ab6d-8fd4b887f72a/mzl.tmqasjxc.png/300x0w.jpg"],
       "date_added": "Jul 3 2019",
       "suggested_by": "@stragu"
+    },
+    {
+      "title": "KeePassium",
+      "category-ids": ["password"],
+      "description": "KeePassium is a KeePass-compatible password manager for iOS, with support for automatic database synchronization, respect to privacy and premium user experience.",
+      "source": "https://github.com/keepassium/KeePassium",
+      "homepage": "https://keepassium.com/",
+      "tags": ["swift"],
+      "license": "gpl-3.0",
+      "screenshots": ["https://camo.githubusercontent.com/06c9d38ada0237520fba642b3c5a63a2aadadd35/68747470733a2f2f6b65657061737369756d2e636f6d2f696d672f6769746875622f756e6c6f636b2d64625f773235302e706e67", "https://camo.githubusercontent.com/2d8bdec5348b4f47448d8e2166cbdbee4f13360e/68747470733a2f2f6b65657061737369756d2e636f6d2f696d672f6769746875622f766965772d67726f75705f773235302e706e67", "https://camo.githubusercontent.com/cb4066dc251b1e7ff7aef723f24089280a1b6063/68747470733a2f2f6b65657061737369756d2e636f6d2f696d672f6769746875622f766965772d656e7472795f773235302e706e67"],
+      "date_added": "Jul 5 2019",
+      "suggested_by": "@dotwee"
     }
   ]
 }
