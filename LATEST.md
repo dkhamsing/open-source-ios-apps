@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Jami](https://review.jami.net/admin/repos/ring-client-ios)
-2. [WireGuard](https://github.com/WireGuard/wireguard-apple)
-3. [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
-4. [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum)
-5. [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
-6. [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS)
-7. [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS)
-8. [Tinodios](https://github.com/tinode/ios)
-9. [Swiftenstein](https://github.com/nicklockwood/Swiftenstein)
-10. [GiTiny](https://github.com/k-lpmg/GiTiny)
-11. [GitHubSearch](https://github.com/Karambirov/GitHubSearch)
-12. [TermiWatch](https://github.com/kuglee/TermiWatch)
-13. [Legend-Wings](https://github.com/woguan/Legend-Wings)
-14. [Podcasts](https://github.com/Karambirov/Podcasts)
-15. [Essentia](https://github.com/essentiaone/Essentia-iOS)
+1. [KeePassium](https://github.com/keepassium/KeePassium)
+2. [Jami](https://review.jami.net/admin/repos/ring-client-ios)
+3. [WireGuard](https://github.com/WireGuard/wireguard-apple)
+4. [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+5. [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum)
+6. [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
+7. [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS)
+8. [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS)
+9. [Tinodios](https://github.com/tinode/ios)
+10. [Swiftenstein](https://github.com/nicklockwood/Swiftenstein)
+11. [GiTiny](https://github.com/k-lpmg/GiTiny)
+12. [GitHubSearch](https://github.com/Karambirov/GitHubSearch)
+13. [TermiWatch](https://github.com/kuglee/TermiWatch)
+14. [Legend-Wings](https://github.com/woguan/Legend-Wings)
+15. [Podcasts](https://github.com/Karambirov/Podcasts)
 
 ## Thanks
 
