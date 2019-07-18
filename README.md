@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-882-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%207,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-882-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2018,%202019-lightgrey.svg)
 
 Jump to
 
@@ -209,7 +209,7 @@ Click ► to show more details
 
 - [AppleWatchFaces](https://github.com/orff/AppleWatchFaces): Create your own faces for watchOS  
   <details>
-	<summary><code>swift</code> <code>spritekit</code> </summary>
+	<summary><code>swift</code> <code>spritekit</code> ⭐</summary>
 
 	Added January 16, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://raw.githubusercontent.com/orff/AppleWatchFaces/master/docs/AppleWatchFacesQuickDemo.gif'><code>Screenshot 1</code></a> 
@@ -997,7 +997,7 @@ Click ► to show more details
 
 - [Awesome ML](https://github.com/eugenebokhan/Awesome-ML): Discover, download, compile & launch different image processing CoreML models  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	Added April  2, 2018<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
 	<a href='https://github.com/eugenebokhan/Awesome-ML/raw/master/Media/App-Demo-Transparent-Background.gif'><code>Screenshot 1</code></a> 
@@ -1408,7 +1408,7 @@ Click ► to show more details
 
 - [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture [` App Store`](https://apps.apple.com/app/swifthub-git-client/id1448628710)  
   <details>
-	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐⭐</summary>
 
 	Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'><code>Screenshot 3</code></a> 
@@ -1768,7 +1768,7 @@ Click ► to show more details
 
 - [Adguard](https://github.com/AdguardTeam/AdguardForiOS): Content blocker for Safari browser [` App Store`](https://apps.apple.com/app/adguard-adblock-privacy/id1047223162)  
   <details>
-	<summary><code>objc</code> <code>javascript</code> ⭐⭐</summary>
+	<summary><code>objc</code> <code>javascript</code> ⭐⭐⭐</summary>
 
 	Added May  6, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://user-images.githubusercontent.com/28860202/37027267-e9cf7534-2141-11e8-89fd-3fc99c3f2c86.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/28860202/37027271-ec5f5972-2141-11e8-884b-038d73fb68ae.png'><code>Screenshot 2</code></a> 
@@ -1906,7 +1906,7 @@ Click ► to show more details
 
 - [Nextcloud](https://github.com/nextcloud/ios): A safe home for all your data [` App Store`](https://apps.apple.com/app/nextcloud/id1125420102)  
   <details>
-	<summary><code>objc</code> ⭐⭐</summary>
+	<summary><code>objc</code> ⭐⭐⭐</summary>
 
 	https://nextcloud.com<br>  Added April  2, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/f9/87/cb/f987cbdd-1382-b745-1eff-85cf980e673f/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/a2/44/89/a2448912-df4f-ac28-a30d-82a9699a9fe4/mzl.bdctkilq.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/ba/7c/25ba7cc2-f9b4-518c-e201-c03bcceffbe1/mzl.fxvipxna.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/8a/dc/14/8adc144f-e5bc-512e-6f1b-5583dd7bb014/mzl.uymqtwli.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
@@ -3611,7 +3611,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI): Browse movies, made with SwiftUI, Combine & MovieDB  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> </summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added June 13, 2019<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo.png'><code>Screenshot 1</code></a> 
@@ -3981,7 +3981,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app  
   <details>
-	<summary><code>afnetworking</code> </summary>
+	<summary><code>afnetworking</code> ⭐</summary>
 
 	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/dkhamsing/TabDump/raw/master/assets/screenshots/screenshot.png'><code>Screenshot 1</code></a> 
@@ -4191,7 +4191,7 @@ https://newsapi.org/ — [back to top](#readme)
 
 - [Nextcloud](https://github.com/nextcloud/ios): A safe home for all your data [` App Store`](https://apps.apple.com/app/nextcloud/id1125420102)  
   <details>
-	<summary><code>objc</code> ⭐⭐</summary>
+	<summary><code>objc</code> ⭐⭐⭐</summary>
 
 	https://nextcloud.com<br>  Added April  2, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/f9/87/cb/f987cbdd-1382-b745-1eff-85cf980e673f/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/a2/44/89/a2448912-df4f-ac28-a30d-82a9699a9fe4/mzl.bdctkilq.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/ba/7c/25ba7cc2-f9b4-518c-e201-c03bcceffbe1/mzl.fxvipxna.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/8a/dc/14/8adc144f-e5bc-512e-6f1b-5583dd7bb014/mzl.uymqtwli.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
@@ -4460,7 +4460,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture [` App Store`](https://apps.apple.com/app/swifthub-git-client/id1448628710)  
   <details>
-	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐⭐</summary>
 
 	Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'><code>Screenshot 3</code></a> 
@@ -4864,13 +4864,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [FreeOTP Authenticator](https://github.com/freeotp/freeotp-ios): Two-Factor Authentication [` App Store`](https://apps.apple.com/app/freeotp/id872559395)  
   <details>
-	<summary><code>swift</code> <code>moa</code> ⭐</summary>
+	<summary><code>swift</code> <code>moa</code> ⭐⭐</summary>
 
 	Added March 11, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='http://a4.mzstatic.com/us/r30/Purple5/v4/66/8b/9c/668b9cf1-3502-3683-7787-ef450ef90019/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [KeePassium](https://github.com/keepassium/KeePassium): KeePassium is a KeePass-compatible password manager for iOS, with support for automatic database synchronization, respect to privacy and premium user experience.  
+- [KeePassium](https://github.com/keepassium/KeePassium): KeePass-compatible password manager with support for automatic database synchronization, respect to privacy and premium user experience  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -5482,7 +5482,7 @@ https://mastodon.social — [back to top](#readme)
 
 - [Bitrise](https://github.com/toshi0383/Bitrise-iOS): Client app for bitrise.io  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	https://www.bitrise.io<br>  Added March  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/toshi0383/assets/master/Bitrise-iOS/screen-shots.png'><code>Screenshot 1</code></a> 
