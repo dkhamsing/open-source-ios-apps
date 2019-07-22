@@ -239,7 +239,7 @@
       "title": "Mastodon",
       "id": "mastodon",
       "parent": "social",
-      "description": "https://mastodon.social"
+      "description": "https://joinmastodon.org"
     },
     {
       "title": "Tasks",
