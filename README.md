@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-882-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2018,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-882-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2022,%202019-lightgrey.svg)
 
 Jump to
 
@@ -5049,7 +5049,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 ### Mastodon 
  
-https://mastodon.social — [back to top](#readme) 
+https://joinmastodon.org — [back to top](#readme) 
  
 - [11t](https://github.com/jeroensmeets/mastodon-app)  
   <details>
