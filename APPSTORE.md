@@ -2111,7 +2111,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 ### Mastodon 
  
-https://mastodon.social — [back to top](#readme) 
+https://joinmastodon.org — [back to top](#readme) 
  
 
 ## Tasks 
