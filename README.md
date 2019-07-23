@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-882-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2022,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-882-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2023,%202019-lightgrey.svg)
 
 Jump to
 
@@ -178,12 +178,12 @@ Click ► to show more details
 	<a href='https://raw.githubusercontent.com/jeffkreeftmeijer/UitzendingGemist/master/Screenshots/recent.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Upcoming Movies](https://github.com/vanyaland/UpcomingMovies)  
+- [Upcoming Movies](https://github.com/ivan-magda/UpcomingMovies)  
   <details>
 	<summary><code>swift</code> <code>themoviedb api</code> </summary>
 
 	Added July 16, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/vanyaland/UpcomingMovies/raw/master/Screenshots/movies.png'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/ivan-magda/UpcomingMovies/raw/master/Screenshots/movies.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [WWDCTV](https://github.com/azzoor/WWDCTV): Watch WWDC Videos  
@@ -2028,7 +2028,7 @@ Click ► to show more details
 	<a href='http://a4.mzstatic.com/us/r30/Purple1/v4/81/de/d6/81ded63c-8a48-dff9-062f-92ac2c5299ee/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/d2/ca/dd/d2cadd24-5d85-f613-aba2-9931cb785b65/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/82/5a/ff/825affaf-cc4a-6d24-99e0-f3197f769f58/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple7/v4/6e/03/d6/6e03d609-2cb7-4095-cc24-a63b1c8e8d12/screen696x696.jpeg'><code>Screenshot 4</code></a> 
   </details>
 
-- [ToThePenny](https://github.com/vanyaland/ToThePenny): Budget tracker  
+- [ToThePenny](https://github.com/ivan-magda/ToThePenny): Budget tracker  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -3339,12 +3339,12 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://i.imgur.com/6khfaX6.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Tagger](https://github.com/vanyaland/Tagger): Help tag your photos on Instagram or Flickr  
+- [Tagger](https://github.com/ivan-magda/Tagger): Help tag your photos on Instagram or Flickr  
   <details>
 	<summary><code>swift</code> </summary>
 
 	Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/vanyaland/Tagger/raw/master/Screenshots/main.png'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/ivan-magda/Tagger/raw/master/Screenshots/main.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Transcription Helper](https://github.com/novinfard/TranscriptionHelper): Player for assisting in transcription [` App Store`](https://apps.apple.com/app/transcription-helper/id1157585714)  
@@ -3656,12 +3656,12 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/3.png'><code>Screenshot 3</code></a> 
   </details>
 
-- [Popular Movies](https://github.com/vanyaland/Popular-Movies): Cross-platform app for discovering recent & popular movies  
+- [Popular Movies](https://github.com/ivan-magda/Popular-Movies): Cross-platform app for discovering recent & popular movies  
   <details>
 	<summary><code>swift</code> <code>realm</code> <code>alamofire</code> <code>tmdb</code> </summary>
 
 	Added January 19, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movie-detail.png'><code>Screenshot 1</code></a> <a href='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movies-list.png'><code>Screenshot 2</code></a> 
+	<a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movie-detail.png'><code>Screenshot 1</code></a> <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movies-list.png'><code>Screenshot 2</code></a> 
   </details>
 
 - [QiitaCollection](https://github.com/anzfactory/QiitaCollection): Technical knowledge sharing & collaboration platform  
@@ -4075,7 +4075,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/paulsumit1993/DailyFeed/master/assets/iphone_dailyfeed.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [News](https://github.com/vanyaland/News): Discover & read news on a range of news sources/blogs  
+- [News](https://github.com/ivan-magda/News): Discover & read news on a range of news sources/blogs  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -4651,12 +4651,12 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://github.com/apiaryio/polls-app/raw/master/Screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Protocol-Oriented MVVM Examples](https://github.com/vanyaland/MVVM-Example)  
+- [Protocol-Oriented MVVM Examples](https://github.com/ivan-magda/MVVM-Example)  
   <details>
 	<summary><code>swift</code> <code>mvvm</code> </summary>
 
 	Added September  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png'><code>Screenshot 1</code></a> <a href='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png'><code>Screenshot 2</code></a> <a href='https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png'><code>Screenshot 3</code></a> 
+	<a href='https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png'><code>Screenshot 1</code></a> <a href='https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png'><code>Screenshot 2</code></a> <a href='https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [Reminders](https://github.com/tiagomartinho/Reminders): An application to demonstrate how to implement a Clean Architecture  
@@ -4907,7 +4907,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> <code>carthage</code> <code>keychainaccess</code> <code>onetimepassword</code> ⭐⭐⭐</summary>
 
 	https://mssun.github.io/passforios/<br>  Added May 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/mssun/passforios/raw/master/img/preview.gif'><code>Screenshot 1</code></a> 
+	<a href='https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot3.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot4.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [PassDrop](https://github.com/chadaustin/passdrop): Keepass password manager [` App Store`](https://apps.apple.com/app/passdrop-2/id1206056096)  
@@ -5335,12 +5335,12 @@ https://joinmastodon.org — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Californication](https://github.com/vanyaland/Californication): Discover only the best points of interest in the California  
+- [Californication](https://github.com/ivan-magda/Californication): Discover only the best points of interest in the California  
   <details>
 	<summary><code>swift</code> </summary>
 
 	Added August  7, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/vanyaland/Californication/raw/master/screenshot.png'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/ivan-magda/Californication/raw/master/screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Conjugar](https://github.com/vermont42/Conjugar): Learn and Practice All the Spanish Verb Tenses [` App Store`](https://apps.apple.com/us/app/conjugar/id1236500467)  
@@ -5750,12 +5750,12 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://i.imgur.com/z8Xw0qC.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/M5pwaAf.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [Tagger](https://github.com/vanyaland/Tagger): Help tag your photos on Instagram or Flickr  
+- [Tagger](https://github.com/ivan-magda/Tagger): Help tag your photos on Instagram or Flickr  
   <details>
 	<summary><code>swift</code> </summary>
 
 	Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/vanyaland/Tagger/raw/master/Screenshots/main.png'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/ivan-magda/Tagger/raw/master/Screenshots/main.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Tasks](https://github.com/mbcrump/TasksForSwiftWithPersistingData): Designed to quickly & easily add tasks  
@@ -5771,12 +5771,12 @@ https://joinmastodon.org — [back to top](#readme)
  
 https://firebase.google.com/ — [back to top](#readme) 
  
-- [Californication](https://github.com/vanyaland/Californication): Discover only the best points of interest in the California  
+- [Californication](https://github.com/ivan-magda/Californication): Discover only the best points of interest in the California  
   <details>
 	<summary><code>swift</code> </summary>
 
 	Added August  7, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/vanyaland/Californication/raw/master/screenshot.png'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/ivan-magda/Californication/raw/master/screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Chaty](https://github.com/LunarFlash/Chaty): Anonymous messaging with real time data sync  
@@ -6225,12 +6225,12 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/2.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/1.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [Popular Movies](https://github.com/vanyaland/Popular-Movies): Cross-platform app for discovering recent & popular movies  
+- [Popular Movies](https://github.com/ivan-magda/Popular-Movies): Cross-platform app for discovering recent & popular movies  
   <details>
 	<summary><code>swift</code> <code>realm</code> <code>alamofire</code> <code>tmdb</code> </summary>
 
 	Added January 19, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movie-detail.png'><code>Screenshot 1</code></a> <a href='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movies-list.png'><code>Screenshot 2</code></a> 
+	<a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movie-detail.png'><code>Screenshot 1</code></a> <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movies-list.png'><code>Screenshot 2</code></a> 
   </details>
 
 - [RaceMe](https://github.com/enochng1/RaceMe): Run tracking & ghosting  
