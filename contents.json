@@ -2259,7 +2259,7 @@
         "objc"
       ],
       "description": "Budget tracker",
-      "source": "https://github.com/vanyaland/ToThePenny",
+      "source": "https://github.com/ivan-magda/ToThePenny",
       "stars": 73,
       "license": "mit",
       "date_added": "Wed Apr 27 15:43:33 2016 +0900",
@@ -10439,9 +10439,9 @@
         "core-data"
       ],
       "description": "Help tag your photos on Instagram or Flickr",
-      "source": "https://github.com/vanyaland/Tagger",
+      "source": "https://github.com/ivan-magda/Tagger",
       "screenshots": [
-        "https://github.com/vanyaland/Tagger/raw/master/Screenshots/main.png"
+        "https://github.com/ivan-magda/Tagger/raw/master/Screenshots/main.png"
       ],
       "stars": 34,
       "license": "mit",
@@ -10925,13 +10925,13 @@
       "category-ids": [
         "apple-tv"
       ],
-      "source": "https://github.com/vanyaland/UpcomingMovies",
+      "source": "https://github.com/ivan-magda/UpcomingMovies",
       "tags": [
         "swift",
         "themoviedb api"
       ],
       "screenshots": [
-        "https://github.com/vanyaland/UpcomingMovies/raw/master/Screenshots/movies.png"
+        "https://github.com/ivan-magda/UpcomingMovies/raw/master/Screenshots/movies.png"
       ],
       "license": "mit",
       "date_added": "Sat Jul 16 15:31:49 2016 +1000",
@@ -11378,13 +11378,13 @@
         "firebase"
       ],
       "description": "Discover only the best points of interest in the California",
-      "source": "https://github.com/vanyaland/Californication",
+      "source": "https://github.com/ivan-magda/Californication",
       "license": "mit",
       "tags": [
         "swift"
       ],
       "screenshots": [
-        "https://github.com/vanyaland/Californication/raw/master/screenshot.png"
+        "https://github.com/ivan-magda/Californication/raw/master/screenshot.png"
       ],
       "date_added": "Aug 7 2016",
       "suggested_by": "@vanyaland",
@@ -11670,12 +11670,12 @@
         "mvvm"
       ],
       "date_added": "Sep 8 2016",
-      "source": "https://github.com/vanyaland/MVVM-Example",
+      "source": "https://github.com/ivan-magda/MVVM-Example",
       "license": "mit",
       "screenshots": [
-        "https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png",
-        "https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png",
-        "https://github.com/vanyaland/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png"
+        "https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png",
+        "https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png",
+        "https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png"
       ],
       "suggested_by": "@vanyaland",
       "stars": 43
@@ -12207,7 +12207,7 @@
         "objc"
       ],
       "license": "mit",
-      "source": "https://github.com/vanyaland/News",
+      "source": "https://github.com/ivan-magda/News",
       "screenshots": [
         "https://raw.githubusercontent.com/vanyaland/News/master/res/sources.png",
         "https://raw.githubusercontent.com/vanyaland/News/master/res/articles.png",
@@ -12881,11 +12881,11 @@
         "tmdb"
       ],
       "screenshots": [
-        "https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movie-detail.png",
-        "https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movies-list.png"
+        "https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movie-detail.png",
+        "https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movies-list.png"
       ],
       "description": "Cross-platform app for discovering recent & popular movies",
-      "source": "https://github.com/vanyaland/Popular-Movies",
+      "source": "https://github.com/ivan-magda/Popular-Movies",
       "stars": 12,
       "license": "mit",
       "date_added": "Jan 19 2017",
