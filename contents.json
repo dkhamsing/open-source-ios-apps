@@ -14360,7 +14360,10 @@
         "onetimepassword"
       ],
       "screenshots": [
-        "https://github.com/mssun/passforios/raw/master/img/preview.gif"
+        "https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot1.png",
+        "https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot2.png",
+        "https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot3.png",
+        "https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot4.png"
       ],
       "stars": 659,
       "license": "mit",
