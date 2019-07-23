@@ -2047,7 +2047,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> <code>carthage</code> <code>keychainaccess</code> <code>onetimepassword</code> ⭐⭐⭐</summary>
 
 	https://mssun.github.io/passforios/<br>  Added May 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/mssun/passforios/raw/master/img/preview.gif'><code>Screenshot 1</code></a> 
+	<a href='https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot3.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot4.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [PassDrop](https://github.com/chadaustin/passdrop): Keepass password manager [` App Store`](https://apps.apple.com/app/passdrop-2/id1206056096)  
