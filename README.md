@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-882-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2023,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-883-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2010,%202019-lightgrey.svg)
 
 Jump to
 
@@ -2087,6 +2087,14 @@ Click ► to show more details
 
 	https://trustwallet.com/<br>  Added March 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://uploads-ssl.webflow.com/5a88babea6e0f90001b39b0d/5aa0e8bcefcfd2000161d6eb_Main_Image-p-500.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios): A fully decentralized Bitcoin, Ethereum, EOS, Binance Chain, Bitcoin Cash and DASH currency wallet [` App Store`](https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added August  9, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/balance.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/transactions.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/settings.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [Wei Wallet](https://github.com/popshootjapan/WeiWallet-iOS): Ethereum wallet [` App Store`](https://apps.apple.com/app/wei-wallet/id1376979142)  
