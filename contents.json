@@ -17870,6 +17870,27 @@
       "date_added": "Jul 5 2019",
       "suggested_by": "@dotwee",
       "stars": 65
+    },
+    {
+      "title": "Unstoppable Wallet",
+      "description": "A fully decentralized Bitcoin, Ethereum, EOS, Binance Chain, Bitcoin Cash and DASH currency wallet",
+      "category-ids": [
+        "cryptocurrency"
+      ],
+      "source": "https://github.com/horizontalsystems/unstoppable-wallet-ios",
+      "itunes": "https://itunes.apple.com/app/bank-bitcoin-wallet/id1447619907?ls=1&mt=8",
+      "license": "mit",
+      "stars": 89,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/balance.png",
+        "https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/transactions.png",
+        "https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/settings.png"
+      ],
+      "date_added": "Aug 9 2019",
+      "suggested_by": "@esengulov"
     }
   ]
 }
