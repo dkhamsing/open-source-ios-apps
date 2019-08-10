@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [KeePassium](https://github.com/keepassium/KeePassium)
-2. [Jami](https://review.jami.net/admin/repos/ring-client-ios)
-3. [WireGuard](https://github.com/WireGuard/wireguard-apple)
-4. [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
-5. [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum)
-6. [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
-7. [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS)
-8. [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS)
-9. [Tinodios](https://github.com/tinode/ios)
-10. [Swiftenstein](https://github.com/nicklockwood/Swiftenstein)
-11. [GiTiny](https://github.com/k-lpmg/GiTiny)
-12. [GitHubSearch](https://github.com/Karambirov/GitHubSearch)
-13. [TermiWatch](https://github.com/kuglee/TermiWatch)
-14. [Legend-Wings](https://github.com/woguan/Legend-Wings)
-15. [Podcasts](https://github.com/Karambirov/Podcasts)
+1. [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios)
+2. [KeePassium](https://github.com/keepassium/KeePassium)
+3. [Jami](https://review.jami.net/admin/repos/ring-client-ios)
+4. [WireGuard](https://github.com/WireGuard/wireguard-apple)
+5. [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+6. [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum)
+7. [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
+8. [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS)
+9. [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS)
+10. [Tinodios](https://github.com/tinode/ios)
+11. [Swiftenstein](https://github.com/nicklockwood/Swiftenstein)
+12. [GiTiny](https://github.com/k-lpmg/GiTiny)
+13. [GitHubSearch](https://github.com/Karambirov/GitHubSearch)
+14. [TermiWatch](https://github.com/kuglee/TermiWatch)
+15. [Legend-Wings](https://github.com/woguan/Legend-Wings)
 
 ## Thanks
 
