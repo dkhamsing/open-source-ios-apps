@@ -1523,7 +1523,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [Kiwix](https://github.com/kiwix/apple): An offline reader for Wikipedia (& many other websites) [` App Store`](https://apps.apple.com/app/id997079563)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	https://wiki.kiwix.org/wiki/Main_Page<br>  Added June  2, 2016<br>  License: `other`<br>
 	<a href='http://a5.mzstatic.com/us/r30/Purple30/v4/d7/75/7d/d7757dca-fbd0-2ad8-5cb5-eedd8a440664/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple60/v4/0a/a6/50/0aa650de-c849-a135-528b-9eaf30da9207/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple60/v4/a4/1c/db/a41cdb64-d122-80f4-fc3c-fc8ebf430f22/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple60/v4/ec/8e/6a/ec8e6a20-8dae-4619-d352-24f076c86550/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple18/v4/da/23/5c/da235cde-a1e6-2cab-3bdb-7d42d81e98e1/screen696x696.jpeg'><code>Screenshot 5</code></a> 
@@ -2012,7 +2012,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [Bitwarden](https://github.com/bitwarden/mobile): An easy way for individuals, teams, and business organizations to store, share, and sync sensitive data [` App Store`](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)  
   <details>
-	<summary><code>csharp</code> ⭐⭐⭐</summary>
+	<summary><code>csharp</code> ⭐⭐⭐⭐</summary>
 
 	https://bitwarden.com<br>  Added June 10, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/3BO1Wcg.png'><code>Screenshot 1</code></a> 
