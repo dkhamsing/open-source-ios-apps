@@ -1251,6 +1251,16 @@
       ]
     },
     {
+            "title": "Ghostery",
+            "category-ids": ["browser"],
+            "tags": ["swift"],
+            "description": "Ghostery Browser",
+            "source": "https://github.com/ghostery/browser-ios",
+            "screenshots": ["https://www.ghostery.com/wp-content/themes/ghostery/images/campaigns/mobile-landing-page/group-7@2x.png"],
+            "date_added": "Aug 20 2019",
+            "suggested_by": "@ebal"
+    },
+    {
       "title": "Actor",
       "category-ids": [
         "communication"
