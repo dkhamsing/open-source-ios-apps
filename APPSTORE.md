@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **221** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **222** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -282,6 +282,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- [//afone](https://github.com/automat-berlin/afone/): //afone is the reference implementation for SIP Telephony that can be used on different SIP stacks with no effort. It comes with an easily extensible adapters concept that encapsulates all details of various providers [` App Store`](https://apps.apple.com/app/afone/id1470424336)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added August 20, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/login.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/login_advanced.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/dialer.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/call.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/settings.png'><code>Screenshot 5</code></a> 
+  </details>
+
 - [Antidote](https://github.com/Antidote-for-Tox/Antidote): A client for https://tox.chat/ [` App Store`](https://apps.apple.com/app/apple-store/id933117605)  
   <details>
 	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> ⭐⭐</summary>
