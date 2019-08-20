@@ -17891,6 +17891,28 @@
       ],
       "date_added": "Aug 9 2019",
       "suggested_by": "@esengulov"
+    },
+    {
+      "title": "//afone",
+      "description": "//afone is the reference implementation for SIP Telephony that can be used on different SIP stacks with no effort. It comes with an easily extensible adapters concept that encapsulates all details of various providers",
+      "category-ids": [
+        "communication"
+      ],
+      "source": "https://github.com/automat-berlin/afone/",
+      "itunes": "https://apps.apple.com/app/afone/id1470424336",
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/login.png",
+        "https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/login_advanced.png",
+        "https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/dialer.png",
+        "https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/call.png",
+        "https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/settings.png"
+      ],
+      "date_added": "Aug 20 2019",
+      "suggested_by": "@rbugajewski"
     }
   ]
 }
