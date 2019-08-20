@@ -17894,7 +17894,7 @@
     },
     {
       "title": "//afone",
-      "description": "//afone is the reference implementation for SIP Telephony that can be used on different SIP stacks with no effort. It comes with an easily extensible adapters concept that encapsulates all details of various providers.",
+      "description": "//afone is the reference implementation for SIP Telephony that can be used on different SIP stacks with no effort. It comes with an easily extensible adapters concept that encapsulates all details of various providers",
       "category-ids": [
         "communication"
       ],
