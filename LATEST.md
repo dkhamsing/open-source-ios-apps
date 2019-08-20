@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios)
-2. [KeePassium](https://github.com/keepassium/KeePassium)
-3. [Jami](https://review.jami.net/admin/repos/ring-client-ios)
-4. [WireGuard](https://github.com/WireGuard/wireguard-apple)
-5. [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
-6. [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum)
-7. [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
-8. [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS)
-9. [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS)
-10. [Tinodios](https://github.com/tinode/ios)
-11. [Swiftenstein](https://github.com/nicklockwood/Swiftenstein)
-12. [GiTiny](https://github.com/k-lpmg/GiTiny)
-13. [GitHubSearch](https://github.com/Karambirov/GitHubSearch)
-14. [TermiWatch](https://github.com/kuglee/TermiWatch)
-15. [Legend-Wings](https://github.com/woguan/Legend-Wings)
+1. [//afone](https://github.com/automat-berlin/afone/)
+2. [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios)
+3. [KeePassium](https://github.com/keepassium/KeePassium)
+4. [Jami](https://review.jami.net/admin/repos/ring-client-ios)
+5. [WireGuard](https://github.com/WireGuard/wireguard-apple)
+6. [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+7. [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum)
+8. [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
+9. [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS)
+10. [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS)
+11. [Tinodios](https://github.com/tinode/ios)
+12. [Swiftenstein](https://github.com/nicklockwood/Swiftenstein)
+13. [GiTiny](https://github.com/k-lpmg/GiTiny)
+14. [GitHubSearch](https://github.com/Karambirov/GitHubSearch)
+15. [TermiWatch](https://github.com/kuglee/TermiWatch)
 
 ## Thanks
 
