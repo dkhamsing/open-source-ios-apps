@@ -1251,6 +1251,19 @@
       ]
     },
     {
+            "title": "Ghostery",
+            "category-ids": ["browser"],
+            "tags": ["swift"],
+            "homepage": "https://www.ghostery.com/mobile/",
+            "description": "Ghostery Browser",
+            "source": "https://github.com/ghostery/browser-ios",
+            "license": "mpl-2.0",
+            "itunes": "https://apps.apple.com/app/ghostery/id472789016",
+            "screenshots": ["https://www.ghostery.com/wp-content/themes/ghostery/images/campaigns/mobile-landing-page/group-7@2x.png"],
+            "date_added": "Aug 20 2019",
+            "suggested_by": "@ebal"
+    },
+    {
       "title": "Actor",
       "category-ids": [
         "communication"
