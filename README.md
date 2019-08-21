@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-884-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2020,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-885-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2021,%202019-lightgrey.svg)
 
 Jump to
 
@@ -457,6 +457,14 @@ Click ► to show more details
 	<summary><code>swift</code> ⭐⭐⭐</summary>
 
 	Added July 31, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [Ghostery](https://github.com/ghostery/browser-ios): Ghostery Browser [` App Store`](https://apps.apple.com/app/ghostery/id472789016)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://www.ghostery.com/mobile/<br>  Added August 20, 2019<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
+	<a href='https://www.ghostery.com/wp-content/themes/ghostery/images/campaigns/mobile-landing-page/group-7@2x.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Onion Browser](https://github.com/OnionBrowser/OnionBrowser): A Tor-powered web browser that improves your privacy [` App Store`](https://apps.apple.com/app/id519296448)  
