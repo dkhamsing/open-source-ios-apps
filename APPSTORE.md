@@ -184,7 +184,7 @@ Click ► to show more details
   <details>
 	<summary><code>swift</code> </summary>
 
-	https://www.ghostery.com/mobile/<br>  Added August 20, 2019<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
+	https://www.ghostery.com/mobile/<br>  Added August 21, 2019<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
 	<a href='https://www.ghostery.com/wp-content/themes/ghostery/images/campaigns/mobile-landing-page/group-7@2x.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -290,7 +290,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [//afone](https://github.com/automat-berlin/afone/): //afone is the reference implementation for SIP Telephony that can be used on different SIP stacks with no effort. It comes with an easily extensible adapters concept that encapsulates all details of various providers [` App Store`](https://apps.apple.com/app/afone/id1470424336)  
+- [afone](https://github.com/automat-berlin/afone/): Reference implementation for SIP Telephony that can be used on different SIP stacks with no effort [` App Store`](https://apps.apple.com/app/afone/id1470424336)  
   <details>
 	<summary><code>swift</code> </summary>
 
