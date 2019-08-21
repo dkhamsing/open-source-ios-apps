@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **222** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **223** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -178,6 +178,14 @@ Click ► to show more details
 
 	Added December  8, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
 	<a href='http://a2.mzstatic.com/us/r30/Purple71/v4/32/81/20/328120a1-29c2-4dd8-fec8-8024eb5bb5ee/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Ghostery](https://github.com/ghostery/browser-ios): Ghostery Browser [` App Store`](https://apps.apple.com/app/ghostery/id472789016)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://www.ghostery.com/mobile/<br>  Added August 20, 2019<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
+	<a href='https://www.ghostery.com/wp-content/themes/ghostery/images/campaigns/mobile-landing-page/group-7@2x.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Onion Browser](https://github.com/OnionBrowser/OnionBrowser): A Tor-powered web browser that improves your privacy [` App Store`](https://apps.apple.com/app/id519296448)  
