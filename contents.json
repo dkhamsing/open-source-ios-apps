@@ -1261,7 +1261,7 @@
             "license": "mpl-2.0",
             "itunes": "https://apps.apple.com/app/ghostery/id472789016",
             "screenshots": ["https://www.ghostery.com/wp-content/themes/ghostery/images/campaigns/mobile-landing-page/group-7@2x.png"],
-            "date_added": "Aug 20 2019",
+            "date_added": "Aug 21 2019",
             "suggested_by": "@ebal"
     },
     {
@@ -17909,8 +17909,8 @@
       "suggested_by": "@esengulov"
     },
     {
-      "title": "//afone",
-      "description": "//afone is the reference implementation for SIP Telephony that can be used on different SIP stacks with no effort. It comes with an easily extensible adapters concept that encapsulates all details of various providers",
+      "title": "afone",
+      "description": "Reference implementation for SIP Telephony that can be used on different SIP stacks with no effort",
       "category-ids": [
         "communication"
       ],
