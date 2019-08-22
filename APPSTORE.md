@@ -351,7 +351,7 @@ Click ► to show more details
 	<summary><code>objc</code> <code>xmpp</code> ⭐⭐</summary>
 
 	Added November  7, 2016<br>  License: `other`<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple69/v4/ca/27/98/ca279896-a860-e33f-ef2c-cfdc1c62dbdc/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple49/v4/24/53/b6/2453b64c-0c67-1e71-86f8-d96482ae992a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple69/v4/b2/e8/b2/b2e8b2f2-160e-19d2-1e38-94c9ab629b78/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple69/v4/68/4c/ec/684cecd3-4d00-b658-9395-57ea1dafef47/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple69/v4/c4/58/60/c458604e-d368-eb11-c315-7631bece7485/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1d/cb/d3/1dcbd350-2399-537e-e224-c8b31450b836/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/bb/64/c2/bb64c2f9-15c9-efd3-06ab-0864d147cdce/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/7b/a1/1c7ba16a-36fe-762d-31a0-3991fd1e7bcc/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 - [Mumble](https://github.com/mumble-voip/mumble-iphoneos): Gaming-focused social voice chat utility [` App Store`](https://apps.apple.com/app/mumble/id443472808)  
@@ -428,7 +428,7 @@ Click ► to show more details
 	<summary><code>objc</code> <code>uickeychainstore</code> <code>passcodelock</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple71/v4/a4/c1/40/a4c1408f-f463-823e-7bb3-fd21b8ccc770/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple71/v4/32/7f/26/327f2687-8f48-cad8-f1d6-bddb50e64353/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple62/v4/c0/d2/d8/c0d2d869-6136-2969-8310-d72781769b39/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple62/v4/b3/7d/9b/b37d9b69-7242-44fb-2059-8fb1e42663e8/screen696x696.jpeg'><code>Screenshot 4</code></a> 
+	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/44/bf/e144bfb0-5397-6e9f-7e94-e7303af10e93/pr_source.png/626x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/a3/3f/b8a33f92-cf60-03ec-a8c2-ff3cdc222f80/pr_source.png/626x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ff/f2/76/fff276ed-0b17-ad45-deee-6fa4be6d3024/pr_source.png/626x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/f5/ec/95f5ec0b-8675-a452-de97-7d6f43a4e9ca/pr_source.png/626x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [CI2Go](https://github.com/ngs/ci2go): An app for https://circleci.com/ [` App Store`](https://apps.apple.com/app/ci2go-the-circleci-client/id940028427)  
@@ -484,7 +484,7 @@ Click ► to show more details
 	<summary><code>swift</code> <code>pop</code> <code>apns</code> </summary>
 
 	Added October 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a4.mzstatic.com/us/r30/Purple49/v4/f9/21/14/f9211459-6b65-ed7c-ec75-c58c4de7f497/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/8d/dd/8c/8ddd8c41-d8ad-45db-0622-367582746b59/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Ladybug](https://github.com/ethanhuang13/ladybug): Handle rdar:// links gracefully [` App Store`](https://apps.apple.com/app/ladybug-handles-radar-links/id1402968134)  
@@ -577,7 +577,7 @@ Click ► to show more details
 	<summary><code>swift</code> ⭐⭐⭐</summary>
 
 	Added October  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple60/v4/9a/a4/9a/9aa49a25-e999-4f3d-e059-89025713cf69/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple20/v4/13/59/b0/1359b0e6-22c4-09ab-6212-e8190f8c3894/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple30/v4/a8/42/13/a8421320-3def-b527-0b12-10a418ce0088/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple18/v4/32/df/45/32df45e3-9e47-1d30-0596-e1888ae6cd3b/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple20/v4/ff/7a/f0/ff7af006-4f67-d158-bda2-c7f461686d73/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/32/f6/58/32f65859-14bd-86e7-a121-b06025e02029/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/41/de/3a41de8e-d316-fbb9-f15e-ddf5fb4e0763/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/1b/2e/9b1b2ebc-03ee-7628-0a81-545af421f519/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8b/e0/8f/8be08fc6-ea85-7325-e2a0-91e90b84b9a1/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a8/f6/09/a8f6095a-2999-95f7-46c5-a09dd89588b3/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture [` App Store`](https://apps.apple.com/app/swifthub-git-client/id1448628710)  
@@ -629,7 +629,7 @@ Click ► to show more details
 	<summary><code>swift</code> </summary>
 
 	Added April  3, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple122/v4/f0/3d/8e/f03d8e27-3e94-a07a-255c-2c56afdf9256/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple111/v4/fd/17/ca/fd17cab3-a3e2-165c-2b0e-d8ff8faeed13/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple111/v4/d1/d2/98/d1d29891-952b-88ad-e865-759ac918ec1f/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/2c/50/95/2c5095ff-6142-37cb-97db-a6421590bf02/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/45/8b/9c458b9b-d316-27ec-51ab-6f530b78f2d0/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/2c/22/0f2c227e-f348-1f32-5fa6-e2771c8f7b6d/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 - [Transcription Helper](https://github.com/novinfard/TranscriptionHelper): Player for assisting in transcription [` App Store`](https://apps.apple.com/app/transcription-helper/id1157585714)  
@@ -663,7 +663,7 @@ Click ► to show more details
 	<summary><code>swift</code> </summary>
 
 	https://sfcherryblossom.org<br>  Added May  4, 2017<br>  License: `other`<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple122/v4/85/60/0d/85600dea-3b85-bb34-07c0-a66db27d11e3/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple111/v4/5d/00/d6/5d00d698-9537-6216-575f-b9dd327d3219/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple111/v4/e5/97/e2/e597e2e9-2d30-f341-72b9-fe1a1227b8c4/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/67/c4/bd/67c4bd2f-bf02-54c3-7b3a-3ff6605a51f2/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [RWDevCon](https://github.com/raywenderlich/RWDevCon-App) [` App Store`](https://apps.apple.com/app/rwdevcon-tutorial-conference/id958625272)  
@@ -729,7 +729,7 @@ Click ► to show more details
 	<summary><code>swift</code> </summary>
 
 	http://swabthe.com/<br>  Added July 12, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple3/v4/be/ea/39/beea3978-efb6-07ef-aefb-3d01e09531d9/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple32/v4/94/4b/3f/944b3fd9-c9da-b74f-952d-0404890b5088/mzm.vlqjkmtq.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 
@@ -774,7 +774,7 @@ Click ► to show more details
 	<summary><code>swift</code> 🌐 ⭐⭐⭐</summary>
 
 	Added February 28, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a1.mzstatic.com/us/r30/Purple122/v4/09/1e/87/091e87a0-cf27-3546-b8ab-f18e300f028e/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple111/v4/ca/1d/37/ca1d3780-fb6f-e350-43fa-cae7997598a4/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple111/v4/da/ce/55/dace5554-786a-71c5-e943-ee413d64ec71/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple122/v4/7b/84/c8/7b84c8b5-1304-ea84-1dc7-92c5a3867034/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple111/v4/65/89/cc/6589cce3-df56-7e9a-7f7b-23945bd1724a/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/1b/a9/b1/1ba9b15f-5388-c76f-1f1e-6d992b14dafb/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/05/44/c1/0544c11f-a635-5163-fcf9-7364d62ce3e8/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/02/b2/19/02b21932-8b61-5a8a-1fa9-51dacbd1ea08/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple91/v4/a1/5c/4e/a15c4e64-db44-2f39-3ec3-af14d99278f1/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/19/f1/d419f1a2-f7e6-cfe9-23a0-b4109ee2b0bb/pr_source.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [VPN On](https://github.com/lexrus/VPNOn): Extension to turn on VPN [` App Store`](https://apps.apple.com/app/vpn-on/id951344279)  
@@ -848,7 +848,7 @@ Click ► to show more details
 	<summary><code>swift</code> <code>viper</code> </summary>
 
 	Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple49/v4/aa/6a/2f/aa6a2f8a-d067-725a-e1f4-83caeaac8e75/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple30/v4/e6/87/fb/e687fb83-cd3d-6b40-2d3b-94f6fd1e82a5/screen696x696.jpeg'><code>Screenshot 2</code></a> 
+	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/43/e8/45/43e84585-f1e0-7af6-7cb6-28ae3cfc5563/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Encryptr](https://github.com/SpiderOak/Encryptr): A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://apps.apple.com/app/id1066041348)  
@@ -954,7 +954,7 @@ Click ► to show more details
 	<summary><code>objc</code> </summary>
 
 	Added July 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple20/v4/3f/36/56/3f3656f4-30d9-df8b-6a58-e1260a72dee9/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/0f/ba/ac/0fbaac33-c886-8e11-e597-2c2356bd7b19/mzl.mgimezjp.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple20/v4/9c/9e/51/9c9e5174-c951-4160-d3ae-fd3bdc96483f/mzl.svdtshvp.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple30/v4/7c/0f/68/7c0f68fd-3a99-78d7-ee00-bc3d2adbe725/mzl.pryailjm.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/64/29/be/6429be2e-f4d4-45de-ff6f-cf68008cecbc/mzl.nsqxiigs.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [Doom Classic](https://github.com/id-Software/DOOM-iOS) [` App Store`](https://apps.apple.com/app/doom-classic/id336347946)  
@@ -978,7 +978,7 @@ Click ► to show more details
 	<summary><code>swift</code> <code>swift2.2</code> ⭐</summary>
 
 	Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple60/v4/7f/50/5a/7f505ad9-b065-e8e3-6fe2-6d8610c13fa7/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/07/e4/58/07e4582c-8d94-330e-011a-81f2919c9a0a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/1e/2f/39/1e2f3975-b854-bd43-b00f-b32a9384d2ae/mzl.cctldxos.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple18/v4/af/e6/a5/afe6a5cd-df5c-5ff2-a181-3e497e7b24ee/mzl.mczqcdkn.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple18/v4/a0/57/79/a0577976-a6d6-42b5-1153-4ccdba93a5e4/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/24/9e/c3/249ec345-2044-b21c-bd09-f7469986aea8/mzl.qlsmijad.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [FityIt](https://github.com/txaiwieser/FityIt): Challenging shapes game of skill and reflexes [` App Store`](https://apps.apple.com/app/fityit-the-shapes-game/id991444581)  
@@ -1002,7 +1002,7 @@ Click ► to show more details
 	<summary><code>javascript</code> <code>netbeans</code> </summary>
 
 	Added October 27, 2016<br>  License: `other`<br>
-	<a href='http://a1.mzstatic.com/us/r30/Purple3/v4/0e/08/99/0e0899aa-4685-d52e-1bea-1586e7531ac4/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple3/v4/58/d2/aa/58d2aab2-e9f9-919d-6856-a94ddb296bdb/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple1/v4/0e/94/aa/0e94aaa8-43fb-8e0b-0238-5acf559da6c0/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple1/v4/7d/9e/b2/7d9eb29e-a89d-04f6-a323-8d17839e11df/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple3/v4/4e/dc/41/4edc41ac-ccd3-ce53-2318-a984ee69b3b6/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple82/v4/b3/d9/e0/b3d9e090-f360-766a-7750-1f8d0a96efae/mzl.piurazqx.png/626x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/11/aa/33/11aa3355-a041-b0de-b61f-aef5cbe37eb7/mzl.rpmbaxie.png/626x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/e2/fa/b1/e2fab17a-edff-168d-3af1-02fe2ed55b02/mzl.docwqcoz.png/626x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/fb/f8/f8/fbf8f894-bbaa-4d5c-23ed-0281dbca5092/mzl.bdvdlyfg.png/626x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/7f/0b/5b/7f0b5bdc-0339-bffd-3f4e-7cb8ea2b8823/mzl.pdsxyfac.png/626x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [Hedgewars](http://hg.hedgewars.org/hedgewars/): A turn-based strategy game [` App Store`](https://apps.apple.com/app/id391234866)  
@@ -1258,7 +1258,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<summary><code>objc</code> </summary>
 
 	Added August 21, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple30/v4/b5/9f/0f/b59f0f32-eec9-7612-ad5f-4a545561c2cf/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/3c/aa/3f3caa9b-98b1-4aa5-5c8c-bed8f892b88b/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/02/2d/b7/022db748-a04b-8efa-fc39-b99ebb04aa4d/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8e/30/8a/8e308ad5-1942-e3ce-c2c9-0b695f850a94/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/9f/00/22/9f00227d-7f69-d30f-ccaa-99a5ea9f3ef8/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/5f/11/6e5f11b8-fbb6-3ee6-59c0-75fd793e426e/pr_source.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [OsmAnd Maps](https://github.com/osmandapp/Osmand): A map app with access to OpenStreetMaps [` App Store`](https://apps.apple.com/app/id934850257)  
@@ -1309,20 +1309,20 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='http://is5.mzstatic.com/image/thumb/Purple118/v4/89/93/38/8993388e-d712-f774-f418-a3662a60aef1/source/392x696bb.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Traccar Client](https://github.com/traccar/traccar-client-ios): Report device location to the server [` App Store`](https://apps.apple.com/us/app/traccar-client/id843156974)  
+- [Traccar Client](https://github.com/traccar/traccar-client-ios): Report device location to the server [` App Store`](https://apps.apple.com/app/traccar-client/id843156974)  
   <details>
 	<summary><code>objc</code> ⭐</summary>
 
 	Added July 12, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple3/v4/6c/6b/d6/6c6bd694-0715-d363-9a3b-ed27dbdaa0b9/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/4d/ea/78/4dea78be-f19a-101f-7014-d2dc339ada88/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Traccar Manager](https://github.com/traccar/traccar-manager-ios): Track GPS devices on a map [` App Store`](https://apps.apple.com/us/app/traccar-manager/id1113966562)  
+- [Traccar Manager](https://github.com/traccar/traccar-manager-ios): Track GPS devices on a map [` App Store`](https://apps.apple.com/app/traccar-manager/id1113966562)  
   <details>
 	<summary><code>objc</code> </summary>
 
 	Added July 12, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple30/v4/26/e7/f5/26e7f5cc-f421-146b-0d05-a81733e58807/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/62/5a/c4/625ac44e-2bb5-6f2b-044c-592e818054d3/screen696x696.jpeg'><code>Screenshot 2</code></a> 
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple82/v4/68/1e/63/681e63ef-4cda-0e94-7489-01858fbfd8ab/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/17/a6/03/17a6033a-1de3-ce5e-fd25-e150f778524d/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/ff/46/cf/ff46cfa4-adc9-27be-96c7-f745c74be801/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [VisitBCN](https://github.com/maurovc/visitBCN): City guide for Barcelona [` App Store`](https://apps.apple.com/app/visitbcn/id904676442)  
@@ -1351,7 +1351,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<summary><code>objc</code> ⭐⭐</summary>
 
 	Added February 24, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple111/v4/25/5b/c7/255bc7ab-95e2-1660-3bba-717b0ae21f1d/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple111/v4/34/7a/42/347a42bd-3a7b-1f86-c2b8-3e043ea5e0e7/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple122/v4/37/6b/27/376b278d-d698-981f-c931-d0e5b01c6733/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple111/v4/ed/9a/9b/ed9a9b30-72f6-fc12-662f-0d1493a3d136/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple122/v4/d0/8e/fa/d08efa30-4057-323e-15ee-9f2fe1e5aaff/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/92/6f/a4/926fa4b0-7002-a610-2d29-aa5d0598ffaf/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4c/af/9b/4caf9b23-c3a5-8177-c7cd-f02e4e3d7ba2/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/52/fb/46/52fb4604-c9fb-1799-ba61-3c1523986e03/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 - [BookPlayer](https://github.com/TortugaPower/BookPlayer): Player for your DRM-free audiobooks [` App Store`](https://apps.apple.com/app/bookplayer-audio-book-player/id1138219998)  
@@ -1781,7 +1781,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<summary><code>swift</code> <code>1password</code> <code>alamorefire</code> <code>stripe</code> <code>ios-snapshot-test-case</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added December 14, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='http://a1.mzstatic.com/us/r30/Purple71/v4/80/e2/06/80e206db-711c-ba1d-dfd1-cf02de5336d7/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/80/e7/17/80e717dd-3ff1-7159-6e0a-5a357b197184/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple71/v4/25/fb/c7/25fbc7b3-ac7c-6019-9a15-c86491121989/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple71/v4/e9/73/49/e97349df-f83d-5970-8937-fffb38fb544c/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple71/v4/ad/c0/93/adc0936c-22d3-d2c1-cb7b-c53cd1f79b9c/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/75/69/8a/75698ab8-816c-5bfe-fb81-f99233bf3852/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/38/a1/50/38a1502f-672f-c6ad-e264-a82cd958bd2c/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ca/cc/9c/cacc9cd5-ba08-7b72-2673-564b7ec281ef/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/cc/71/49/cc71496f-5d16-3b5e-a968-b34f2c802f89/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [Kodi Remote](https://github.com/xbmc/xbmc): A full-featured remote control for Kodi Media Center [` App Store`](https://apps.apple.com/app/id520480364)  
@@ -1813,7 +1813,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	https://sfcherryblossom.org<br>  Added May  4, 2017<br>  License: `other`<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple122/v4/85/60/0d/85600dea-3b85-bb34-07c0-a66db27d11e3/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple111/v4/5d/00/d6/5d00d698-9537-6216-575f-b9dd327d3219/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple111/v4/e5/97/e2/e597e2e9-2d30-f341-72b9-fe1a1227b8c4/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/67/c4/bd/67c4bd2f-bf02-54c3-7b3a-3ff6605a51f2/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Radio Paradise](https://github.com/ilTofa/rposx): Official app for http://www.radioparadise.com/ [` App Store`](https://apps.apple.com/app/id663334697)  
@@ -1900,7 +1900,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> <code>dribbble</code> <code>reactorkit</code> <code>moya</code> <code>kingfisher</code> ⭐⭐</summary>
 
 	Added May  3, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple111/v4/32/20/62/32206236-57e6-dd41-ccc6-9d9870a6e1ac/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple111/v4/6f/1f/77/6f1f771f-c9a8-5d60-6556-1bcb3993d568/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple122/v4/81/bc/39/81bc3933-4d0a-97da-88ab-265b679a2801/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d2/41/58/d241583e-61f6-5acc-19e4-fcd7fbbdddc7/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/81/b0/45/81b045f4-bc98-8c9f-9662-eae1b8cbba4b/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bf/c5/e6/bfc5e69c-4303-de2d-8c95-8025c3e85b02/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 - [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub [` App Store`](https://apps.apple.com/app/tiny-github/id1461424565)  
@@ -1978,7 +1978,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> ⭐⭐</summary>
 
 	Added May  2, 2017<br>  License: `other`<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple122/v4/a1/44/1f/a1441fb4-a4de-c877-fe07-335c75724c03/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/22/51/55/22515500-8c22-2d00-04d7-6e8963bbee16/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/bb/e9/4abbe96e-bbb0-8e2f-86f2-19c42f9409b8/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/de/b1/fa/deb1fae0-1b01-7f38-fbe9-3106315a036e/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/db/14/fb/db14fbe9-1b59-8403-efe4-01f0753a4fa9/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [Prey](https://github.com/prey/prey-ios-client): Track lost or stolen devices & perform actions remotely [` App Store`](https://apps.apple.com/app/id456755037)  
@@ -2079,7 +2079,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>openssl</code> </summary>
 
 	Added July  6, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple111/v4/d3/29/9c/d3299cfd-8dbc-f3b4-3031-8d7d478e744d/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/01/0b/45/010b456f-5226-9eb5-5284-26f80b45896f/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/69/7c/37/697c371b-40a1-d2f4-4773-ee0595dee739/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/71/c3/d071c3c2-2a1f-f354-b7a4-686d5b6b8789/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/56/e5/b5/56e5b5cc-0b67-d210-8551-89622ab34538/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage [` App Store`](https://apps.apple.com/app/zerostore-password-storage/id1037141587)  
@@ -2321,7 +2321,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>swift</code> <code>pantry</code> ⭐</summary>
 
 	Added February 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a4.mzstatic.com/us/r30/Purple111/v4/d1/ae/b8/d1aeb811-24f2-2c1c-9a5f-1d2060157dd7/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple91/v4/ef/98/fc/ef98fc2c-2d69-8c9c-12da-920c6b7c3ffc/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple122/v4/e4/1a/a6/e41aa661-3a3f-eef0-4ea6-5bd5e608a53b/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple111/v4/2d/d7/9e/2dd79e9f-50f4-8ba9-7c9b-c6f5e9cc5dc9/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple111/v4/a1/46/fe/a146fed8-56a2-5bfc-0bf8-db3c6a4a54ac/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/82/86/9a/82869afe-dccb-3e52-b00b-91ba0f19e614/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/47/35/bc473541-4b25-9efb-157b-e45af89e6888/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/fa/4b/32/fa4b326d-188d-2bae-63e5-72c10647b241/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/01/b0/9c/01b09cf3-32b2-6ea5-eebb-bcf30dcead43/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/9e/f2/1e/9ef21e03-3269-dae2-3f02-25950320e786/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [FreeRDP](https://github.com/FreeRDP/FreeRDP): An implementation of the Remote Desktop Protocol (RDP) [` App Store`](https://apps.apple.com/app/ifreerdp/id604813768)  
@@ -2337,7 +2337,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>objc</code> </summary>
 
 	https://hackfoldr.org<br>  Added July 18, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple69/v4/bb/ee/2f/bbee2f6f-68b0-48b8-5949-e5b4bc49cc8c/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple49/v4/b6/7a/49/b67a496a-c81c-d9b9-81e0-cae43136b41b/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple60/v4/49/56/85/4956850f-d8e7-bcb3-26f5-f778b80f8540/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/32/15/1a/32151a02-4fb8-70e2-8d43-e361bee0722a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/16/62/14/16621422-f94c-a589-e5c6-3696177647a2/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> 
   </details>
 
 - [Ladybug](https://github.com/ethanhuang13/ladybug): Handle rdar:// links gracefully [` App Store`](https://apps.apple.com/app/ladybug-handles-radar-links/id1402968134)  
@@ -2385,7 +2385,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>toast</code> </summary>
 
 	Added February 10, 2017<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple122/v4/58/f4/3a/58f43a5b-cc09-413a-c0b5-fc0f1c9c660b/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple122/v4/26/21/b8/2621b82f-f8e8-02ef-7ea7-411d5168247a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple122/v4/72/59/e7/7259e715-c87b-5fd4-daa7-98daccd3892d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple111/v4/93/ed/00/93ed005d-36f9-5e8d-7b9f-0a4e2a8def60/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple111/v4/53/bb/0d/53bb0dae-168b-126b-f8a3-fdb0f9d43111/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/88/8f/c3/888fc31d-7ad9-c6ce-6d80-b081151b3600/mzl.vupiryaa.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e4/f1/e4/e4f1e4ab-d623-d3c4-3a4d-5770de1a6fb4/mzl.suvrwweg.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/67/f8/d6/67f8d6bc-1c11-8164-634e-050953b73439/mzl.tpujfkus.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/a0/14/a6a01466-204c-be56-11aa-9953a6913af0/mzl.qhffrqig.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/23/41/00/2341001e-05ef-e1f1-6b0a-86b4146f6c18/mzl.phvtiqbd.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [OpenStack Foundation Summit](https://github.com/OpenStack-mobile/summit-app-ios): The official app for the OpenStack Foundation Summit [` App Store`](https://apps.apple.com/app/openstack-foundation-summit/id1071261846)  
@@ -2452,7 +2452,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<summary><code>react native</code> </summary>
 
 	Added February 27, 2017<br>  License: `other`<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple122/v4/47/60/af/4760af23-821d-fe64-bef0-609676699d5d/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple111/v4/c2/c2/36/c2c236d9-7144-0a00-54d3-8caffd554174/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple111/v4/9b/15/d4/9b15d4d7-6ca3-1b33-d78c-cd098e35e4af/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple111/v4/c0/e1/83/c0e18311-891e-724b-8d32-e77a9aa3e4a5/screen696x696.jpeg'><code>Screenshot 4</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/2b/2d/6c/2b2d6c4e-9dc9-b2b8-ae46-07ac174aa5ca/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/14/9b/74/149b74e3-3bc2-649a-8b6b-8ed8429442b8/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/65/88/e9/6588e9d3-6f83-cae1-a0d1-767239f6c935/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/2b/66/ef/2b66ef67-d761-e5a1-de80-3d6e535f140c/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/40/ed/41/40ed41ad-1a9e-0ec8-f340-bee3a3e39e0d/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [GitPoint](https://github.com/gitpoint/git-point): GitHub app with a minimal & beautiful UI [` App Store`](https://apps.apple.com/app/gitpoint/id1251245162)  
@@ -2525,7 +2525,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
 	<summary><code>swift</code> <code>viper</code> </summary>
 
 	Added July  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple49/v4/aa/6a/2f/aa6a2f8a-d067-725a-e1f4-83caeaac8e75/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple30/v4/e6/87/fb/e687fb83-cd3d-6b40-2d3b-94f6fd1e82a5/screen696x696.jpeg'><code>Screenshot 2</code></a> 
+	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/43/e8/45/43e84585-f1e0-7af6-7cb6-28ae3cfc5563/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Rambler&IT](https://github.com/rambler-digital-solutions/rambler-it-ios): Portfolio of mobile architectures used at Rambler&Co [` App Store`](https://apps.apple.com/app/rambler-it/id1145829115)  
