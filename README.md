@@ -1463,7 +1463,7 @@ Click ► to show more details
 	<summary><code>objc</code> </summary>
 
 	Added March  2, 2016<br>  License: `other`<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple2/v4/23/ff/89/23ff89c0-a1ac-f9aa-faae-1a2b9180d88a/screen520x924.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/02/1e/b5/021eb54f-b928-319d-7272-047e1b91ac67/pr_source.png/626x0w.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Prayer in English](https://github.com/Flinesoft/Prayer): Help understand the spoken text in Islamic prayers [` App Store`](https://apps.apple.com/app/prayer-in-english/id1217136884)  
@@ -1723,7 +1723,7 @@ Click ► to show more details
 	<summary><code>objc</code> ⭐⭐⭐</summary>
 
 	Added September 25, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple71/v4/95/67/fb/9567fb02-2fe7-f4b1-ffd6-aa4892a82c65/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple62/v4/d8/d0/99/d8d0998b-4b1d-87bb-82d3-174e89d3c14d/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple71/v4/38/a8/18/38a818c9-7579-a57c-fe5b-506c4f0beff8/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/80/06/f9/8006f9c6-cc64-03b0-5df2-d65dd22d2a0c/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/37/6b/3f/376b3f54-9362-75e5-a484-ebcc314efc8e/mzl.wsjuxftd.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/4a/84/98/4a849841-ec59-e945-d290-8245f500b93c/mzl.nnbdchrh.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 - [Adblock Plus](https://github.com/adblockplus/adblockplussafariios) [` App Store`](https://apps.apple.com/app/adblock-plus-abp/id1028871868)  
@@ -1985,7 +1985,7 @@ Click ► to show more details
 	<summary><code>objc</code> </summary>
 
 	Added April 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple7/v4/a3/8e/6d/a38e6df9-b9bb-cb89-bca3-bad9b682fb05/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/18/5b/b1/185bb117-bb3e-fa8b-58cf-c60e73af51b9/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple1/v4/db/70/8f/db708fd7-b3be-fd6b-a7aa-0f4f6af4ba25/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple7/v4/ce/8c/3f/ce8c3f07-99fa-bc94-7223-32620cc7dbd4/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple7/v4/5a/37/35/5a37355a-d2bb-49ba-e6b9-abe7a4b518ee/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+	<a href='https://raw.githubusercontent.com/ivan-magda/ToThePenny/master/Screenshots/1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/ivan-magda/ToThePenny/master/Screenshots/2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/ivan-magda/ToThePenny/master/Screenshots/4.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/ivan-magda/ToThePenny/master/Screenshots/5.png'><code>Screenshot 4</code></a> 
   </details>
 
 
@@ -2193,7 +2193,7 @@ Click ► to show more details
 	<summary><code>objc</code> </summary>
 
 	Added May 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.github.com/EvgenyKarkan/ScaryFlight/master/ScaryFlight/ScaryFlight/Resources/Screen.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/EvgenyKarkan/ScaryFlight/master/ScaryFlight/ScaryFlight/Resources/Screen2.png'><code>Screenshot 2</code></a> 
+	<a href='https://raw.githubusercontent.com/EvgenyKarkan/ScaryFlight/master/ScaryFlight/ScaryFlight/Resources/Screen.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/EvgenyKarkan/ScaryFlight/master/ScaryFlight/ScaryFlight/Resources/Screen2.png'><code>Screenshot 2</code></a> 
   </details>
 
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Flappy Bird clone  
@@ -2541,7 +2541,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	Added January 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple69/v4/9f/82/17/9f8217e4-00da-b516-1853-23fbc6ecbdaf/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple49/v4/c9/cd/e2/c9cde204-5712-97c4-c952-7f0884490153/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/28/fd/66/28fd66a4-d756-34ce-98f0-aa5dae26ff7d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/7e/80/b9/7e80b966-2e41-a36a-a1a3-b02c70ec0961/screen696x696.jpeg'><code>Screenshot 4</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/e4/14/90/e414906d-dff4-4f65-05c3-86fcbc65d25d/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/48/d3/b0/48d3b059-01d3-be32-eeac-09c65fd4b2f5/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/56/f5/83/56f583a3-acdf-f48a-f739-2d3f0a6ef876/pr_source.png/230x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/3a/c0/7a/3ac07ae6-fecb-c139-6645-532e5c24fa3a/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [Gleam](https://github.com/akarataev/gleam-ios): Use machine learning to help make an early diagnosis of melanoma and get the necessary treatment on time  
@@ -2705,14 +2705,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [AA-Keyboard](https://github.com/sonsongithub/AAKeyboard): ASCII art keyboard  
-  <details>
-	<summary><code>objc</code> ⭐</summary>
-
-	Added July  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple6/v4/28/59/25/285925a7-b4c8-0042-d59c-5ac9ae854189/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/9f/aa/14/9faa14df-83e2-1503-67e1-d482539dca69/screen696x696.jpeg'><code>Screenshot 2</code></a> 
-  </details>
-
 - [Slidden](https://github.com/Brimizer/Slidden): Customizable keyboard  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐</summary>
@@ -3059,14 +3051,6 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/95/5b/f0/955bf0bb-c897-bf04-e91e-5872cd937762/mzl.ewoyekko.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/77/09/18/770918b9-a6e0-c18b-d537-2e57539f9d90/mzl.ubgzfasc.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/41/e6/8241e63f-35b1-cbe9-6cd4-2cbdce9feb4b/mzl.ddodyqvp.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/25/d9/ee/25d9eec0-30bb-54e6-4273-d9f29913ccde/mzl.jhwhiolh.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/2e/46/f72e4657-9da9-930a-6f7e-8a636c28d5a5/mzl.kdweouvd.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Longboxed](https://github.com/Eason828/Longboxed-iOS): Track the releases of your favorite comics  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	Added June 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple5/v4/63/78/76/637876d8-da2f-a781-3989-3676566703bb/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple3/v4/d8/55/ba/d855bade-a829-f3c3-44a0-6e0bbc015355/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple1/v4/5d/1b/b3/5d1bb332-047f-3767-b9ec-52e80311a303/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/7c/cb/ab/7ccbab7b-104d-a08e-6a13-a384d8758558/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple5/v4/63/54/a7/6354a7f6-891f-da89-b21b-1b4ab81f59cb/screen696x696.jpeg'><code>Screenshot 5</code></a> 
-  </details>
-
 - [Loose Leaf](https://github.com/adamwulf/loose-leaf): Take notes, import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://apps.apple.com/app/loose-leaf/id625659452)  
   <details>
 	<summary><code>ipad</code> <code>pdf</code> <code>apple pencil</code> ⭐⭐</summary>
@@ -3121,14 +3105,6 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added June 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/4f/99/3c/4f993c14-e215-1e9e-0277-34b02ec222aa/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/10/79/88/107988e0-fb27-96bf-c9dd-14bf092de0af/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple117/v4/15/86/bf/1586bf11-90d6-61ff-ac3d-0deb855b0276/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
-  </details>
-
-- [projectM](https://sourceforge.net/projects/projectm/): Advanced music visualization  
-  <details>
-	<summary><code>opengl</code> </summary>
-
-	http://projectm.sourceforge.net/<br>  Added June  2, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple7/v4/44/17/41/44174112-c9f9-1719-8967-c43cb42bbf26/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple7/v4/80/05/55/8005556a-437c-2d6a-d41d-044fc4e6740a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/1a/6e/8e/1a6e8ef0-998f-34e4-7c92-f41de9227c73/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple2/v4/35/c4/e2/35c4e23b-7eae-f138-a333-66e92b4c63dc/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple1/v4/f3/8a/2b/f38a2bcd-e5d9-22b8-61cd-0b9e4cc159ae/screen696x696.jpeg'><code>Screenshot 5</code></a> 
   </details>
 
 - [Queue'd Music](https://github.com/rldaulton/queued-music): A real-time, votable, democratized music queue on iPad and iPhone using Spotify  
@@ -3192,7 +3168,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<summary><code>webdav</code> <code>dropbox</code> </summary>
 
 	Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='http://a1.mzstatic.com/us/r30/Purple62/v4/c3/82/0a/c3820aba-84fb-fc93-2cd6-092d52360128/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/40/7a/69/407a69d2-7f9e-2c01-0548-e96ba9f862f5/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple62/v4/4d/ea/cf/4deacf02-1071-6dda-e7fe-730858a0515e/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/cb/0d/a3/cb0da3c2-ceb8-2756-ce8f-4fdae819a49b/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/25/29/90/252990fa-4332-32cb-25bb-023a9e09ccf2/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/bf/7d/b9/bf7db949-e1c5-5d5d-733a-b1e09b5b9065/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 - [wallabag](https://github.com/wallabag/ios-app): A self-hosted read-it-later app [` App Store`](https://apps.apple.com/app/wallabag-2-official/id1170800946)  
@@ -3496,14 +3472,6 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movie-detail.png'><code>Screenshot 1</code></a> <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movies-list.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [QiitaCollection](https://github.com/anzfactory/QiitaCollection): Technical knowledge sharing & collaboration platform  
-  <details>
-	<summary><code>objc</code> 🌐 </summary>
-
-	Added October 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a1.mzstatic.com/us/r30/Purple5/v4/4f/7d/a9/4f7da952-8094-5e24-723b-c2c6d590c605/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/00/20/8d/00208db3-aa34-7f70-0c82-ced3cf27f569/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple1/v4/ec/60/2a/ec602a8e-40e5-44bd-475c-d26d8baf6c47/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple3/v4/ca/57/7d/ca577d9b-623f-7b0c-3baa-855f783284a1/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/69/09/1d/69091d91-c788-ab5d-467b-4866763ed7d9/screen696x696.jpeg'><code>Screenshot 5</code></a> 
-  </details>
-
 - [Reading List](https://github.com/AndrewBennet/readinglist): Track personal reading lists [` App Store`](https://apps.apple.com/app/reading-list-a-book-tracking-log/id1217139955)  
   <details>
 	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> <code>core-data</code> ⭐</summary>
@@ -3753,14 +3721,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 	Added March 15, 2015<br>  License: `other`<br>
 	<a href='https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [GrinnellEvents](https://github.com/kvnbautista/Grinnell-Events-iOS): Grinnell College campus events  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	Added October 16, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple1/v4/6e/46/d1/6e46d11f-87e0-0015-cc26-d19bf960a9a9/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/e0/29/8c/e0298c8d-bbea-170f-83b8-6939787fc024/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/db/93/8a/db938a1c-e143-546b-c453-3b0864599163/screen696x696.jpeg'><code>Screenshot 3</code></a> 
   </details>
 
 - [Keinex tech blog](https://github.com/Keinex/Keinex-iOS)  
@@ -4042,7 +4002,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a1.mzstatic.com/us/r30/Purple60/v4/ab/92/bb/ab92bbe9-6540-ff6b-836d-9fd737221466/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/e5/3f/1ce53fa3-4bd4-2f6d-a494-39501ad6d7e3/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/c7/6b/1b/c76b1b18-8777-40df-6484-df8aa5b7d93d/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/14/c6/9a/14c69abf-08d8-2d7d-3111-cb27b9bd6053/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b1/77/b2/b177b240-47eb-65f1-5bfa-87c9cebe73b0/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [Simplenote](https://github.com/automattic/simplenote-ios): Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration [` App Store`](https://apps.apple.com/app/simplenote/id289429962)  
@@ -4675,7 +4635,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>objc</code> ⭐⭐⭐⭐</summary>
 
 	Added May 15, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple1/v4/2d/a3/e2/2da3e280-a7b2-2919-0a62-b4d9063102bd/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/54/31/3c/54313ca9-4faa-3a44-703b-42deadbdb3d5/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple5/v4/9c/8d/8b/9c8d8bee-69ee-7c98-9415-e7237b4e5b17/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/f3/8f/e0/f38fe060-897e-20f9-00d5-cc99b9061673/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/2a/7c/fd/2a7cfd81-8764-4394-6396-4bfc8b41f53c/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/89/49/07/894907ae-8b58-5b87-f682-d813bf2f2e92/mzl.omnsgxug.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple91/v4/fa/80/dd/fa80ddf0-ebe9-34ad-1c94-a249c1a70a73/mzl.zedxpqsy.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/fc/98/37/fc98372a-6d4e-571e-1155-8dd8ecb3df54/mzl.auefrfoz.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f2/a6/a2/f2a6a2ca-9e07-0e7b-d639-5e2914e61d29/mzl.uhuhbzbi.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/4d/76/85/4d76856f-0b5c-ec97-2650-24846cf34217/mzl.obzgvqoe.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [MiniKeePass](https://github.com/MiniKeePass/MiniKeePass): Secure Password Manager [` App Store`](https://apps.apple.com/app/id451661808)  
@@ -4683,7 +4643,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>objc</code> ⭐⭐⭐</summary>
 
 	Added February  7, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a4.mzstatic.com/us/r30/Purple7/v4/d8/41/81/d84181ef-d7fe-2283-5b54-7cfb63f8fb01/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple5/v4/16/d4/46/16d446eb-11ab-4f22-48bc-da22b75df89a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/5f/01/13/5f0113bc-577d-ebb9-cd12-58674f9ac989/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple5/v4/38/1d/e7/381de7b6-9414-99bf-d02c-de4ffc12d21d/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple1/v4/1f/dd/eb/1fddeb0e-e562-10f2-8a79-e7ea385117cf/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/8b/17/6a/8b176a9c-9261-be87-82b6-0d68068dbd5b/mzl.loqogauh.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/06/66/f0/0666f0dd-a899-b26a-9bb3-3519ac5d7839/mzl.ennzvmko.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/42/c6/f2/42c6f26f-8ede-bede-2ec0-9ea012d63308/mzl.ngeytyuw.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/ce/4f/89/ce4f89f5-84b9-834e-b4cc-60a528f4813f/mzl.hfcocbzr.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [Padlock](https://github.com/padlock/padlock): A minimalist open source password manager  
@@ -4860,7 +4820,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>objc</code> ⭐⭐</summary>
 
 	https://habitica.com/static/front<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple6/v4/a2/af/06/a2af06ac-0644-00b5-85f1-ae13e3ebf1cd/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/bf/34/34/bf343412-6b20-bb34-9e7f-36311bc5ec45/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/51/40/88/514088ab-8a5c-b2fd-275d-d4edb1ab584a/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c1/97/fb/c197fba5-e41d-6d6d-fac3-a196ce9e126e/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/39/40/dc/3940dcb3-3d49-a328-2926-c03f40f12594/pr_source.png/460x0w.jpgss'><code>Screenshot 4</code></a> 
   </details>
 
 - [Planc](https://github.com/aerlinn13/planc): Minimalistic to-do list  
@@ -5208,7 +5168,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added June  3, 2015<br>  License: `other`<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple5/v4/a8/a9/22/a8a92296-022f-8779-73b9-663152fcf241/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple1/v4/e3/a6/63/e3a66355-643c-354f-814b-03efc196d9cb/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple3/v4/0b/8d/7a/0b8d7ae5-ff45-9fc6-e77f-9d640a2aa5b0/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/e6/a8/f6/e6a8f6e1-9d8c-f2bf-408d-0bf5626e333a/screen696x696.jpeg'><code>Screenshot 4</code></a> 
+	<a href='https://images.cnitblog.com/blog2015/607542/201504/211608153124546.gif'><code>Screenshot 1</code></a> 
   </details>
 
 
@@ -5357,7 +5317,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>objc</code> </summary>
 
 	Added February 19, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
-	<a href='http://a4.mzstatic.com/us/r30/Purple5/v4/67/ee/d3/67eed392-7fb1-5cb6-7e94-de81031ac6b3/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple3/v4/62/27/f9/6227f9dd-9c29-938d-7dc1-4f6549f4fed9/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple3/v4/d7/7f/24/d77f240e-4f3e-fc00-34b3-1e1a5ade3394/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple3/v4/8d/3b/c0/8d3bc0a3-d13a-4860-ec67-f0f89ef972f2/screen696x696.jpeg'><code>Screenshot 4</code></a> 
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/17/94/ec/1794ec78-67db-8a38-ae0a-89f87503fe67/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/a7/06/8c/a7068c91-de5f-b891-e3a9-34e00c9e3d77/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/3f/19/54/3f1954e5-355a-b143-0b2b-36a8267e5d64/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple5/v4/03/bd/09/03bd09ac-1a58-0ca4-4c72-f46f8bed3b38/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [ooniprobe](https://github.com/ooni/probe-ios): Detect internet censorship & test your network's speed [` App Store`](https://apps.apple.com/app/id1199566366)  
