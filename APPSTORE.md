@@ -629,7 +629,7 @@ Click ► to show more details
 	<summary><code>objc</code> </summary>
 
 	Added March  2, 2016<br>  License: `other`<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple2/v4/23/ff/89/23ff89c0-a1ac-f9aa-faae-1a2b9180d88a/screen520x924.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/02/1e/b5/021eb54f-b928-319d-7272-047e1b91ac67/pr_source.png/626x0w.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Prayer in English](https://github.com/Flinesoft/Prayer): Help understand the spoken text in Islamic prayers [` App Store`](https://apps.apple.com/app/prayer-in-english/id1217136884)  
@@ -705,7 +705,7 @@ Click ► to show more details
 	<summary><code>objc</code> ⭐⭐⭐</summary>
 
 	Added September 25, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple71/v4/95/67/fb/9567fb02-2fe7-f4b1-ffd6-aa4892a82c65/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple62/v4/d8/d0/99/d8d0998b-4b1d-87bb-82d3-174e89d3c14d/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple71/v4/38/a8/18/38a818c9-7579-a57c-fe5b-506c4f0beff8/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/80/06/f9/8006f9c6-cc64-03b0-5df2-d65dd22d2a0c/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/37/6b/3f/376b3f54-9362-75e5-a484-ebcc314efc8e/mzl.wsjuxftd.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/4a/84/98/4a849841-ec59-e945-d290-8245f500b93c/mzl.nnbdchrh.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 - [Adblock Plus](https://github.com/adblockplus/adblockplussafariios) [` App Store`](https://apps.apple.com/app/adblock-plus-abp/id1028871868)  
@@ -1137,7 +1137,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	Added January 13, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple69/v4/9f/82/17/9f8217e4-00da-b516-1853-23fbc6ecbdaf/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple49/v4/c9/cd/e2/c9cde204-5712-97c4-c952-7f0884490153/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple49/v4/28/fd/66/28fd66a4-d756-34ce-98f0-aa5dae26ff7d/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple69/v4/7e/80/b9/7e80b966-2e41-a36a-a1a3-b02c70ec0961/screen696x696.jpeg'><code>Screenshot 4</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/e4/14/90/e414906d-dff4-4f65-05c3-86fcbc65d25d/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/48/d3/b0/48d3b059-01d3-be32-eeac-09c65fd4b2f5/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/56/f5/83/56f583a3-acdf-f48a-f739-2d3f0a6ef876/pr_source.png/230x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/3a/c0/7a/3ac07ae6-fecb-c139-6645-532e5c24fa3a/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [Good Spirits](https://github.com/archagon/good-spirits): Drink tracker with weekly limits (supports Untappd support and HealthKit) [` App Store`](https://apps.apple.com/app/good-spirits/id1434237439)  
@@ -1463,7 +1463,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<summary><code>webdav</code> <code>dropbox</code> </summary>
 
 	Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='http://a1.mzstatic.com/us/r30/Purple62/v4/c3/82/0a/c3820aba-84fb-fc93-2cd6-092d52360128/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple71/v4/40/7a/69/407a69d2-7f9e-2c01-0548-e96ba9f862f5/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple62/v4/4d/ea/cf/4deacf02-1071-6dda-e7fe-730858a0515e/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/cb/0d/a3/cb0da3c2-ceb8-2756-ce8f-4fdae819a49b/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/25/29/90/252990fa-4332-32cb-25bb-023a9e09ccf2/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/bf/7d/b9/bf7db949-e1c5-5d5d-733a-b1e09b5b9065/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 - [wallabag](https://github.com/wallabag/ios-app): A self-hosted read-it-later app [` App Store`](https://apps.apple.com/app/wallabag-2-official/id1170800946)  
@@ -2071,7 +2071,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>objc</code> ⭐⭐⭐⭐</summary>
 
 	Added May 15, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple1/v4/2d/a3/e2/2da3e280-a7b2-2919-0a62-b4d9063102bd/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/54/31/3c/54313ca9-4faa-3a44-703b-42deadbdb3d5/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple5/v4/9c/8d/8b/9c8d8bee-69ee-7c98-9415-e7237b4e5b17/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple5/v4/f3/8f/e0/f38fe060-897e-20f9-00d5-cc99b9061673/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/2a/7c/fd/2a7cfd81-8764-4394-6396-4bfc8b41f53c/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/89/49/07/894907ae-8b58-5b87-f682-d813bf2f2e92/mzl.omnsgxug.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple91/v4/fa/80/dd/fa80ddf0-ebe9-34ad-1c94-a249c1a70a73/mzl.zedxpqsy.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/fc/98/37/fc98372a-6d4e-571e-1155-8dd8ecb3df54/mzl.auefrfoz.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f2/a6/a2/f2a6a2ca-9e07-0e7b-d639-5e2914e61d29/mzl.uhuhbzbi.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/4d/76/85/4d76856f-0b5c-ec97-2650-24846cf34217/mzl.obzgvqoe.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [MiniKeePass](https://github.com/MiniKeePass/MiniKeePass): Secure Password Manager [` App Store`](https://apps.apple.com/app/id451661808)  
@@ -2079,7 +2079,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>objc</code> ⭐⭐⭐</summary>
 
 	Added February  7, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a4.mzstatic.com/us/r30/Purple7/v4/d8/41/81/d84181ef-d7fe-2283-5b54-7cfb63f8fb01/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple5/v4/16/d4/46/16d446eb-11ab-4f22-48bc-da22b75df89a/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple1/v4/5f/01/13/5f0113bc-577d-ebb9-cd12-58674f9ac989/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a1.mzstatic.com/us/r30/Purple5/v4/38/1d/e7/381de7b6-9414-99bf-d02c-de4ffc12d21d/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple1/v4/1f/dd/eb/1fddeb0e-e562-10f2-8a79-e7ea385117cf/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/8b/17/6a/8b176a9c-9261-be87-82b6-0d68068dbd5b/mzl.loqogauh.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/06/66/f0/0666f0dd-a899-b26a-9bb3-3519ac5d7839/mzl.ennzvmko.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/42/c6/f2/42c6f26f-8ede-bede-2ec0-9ea012d63308/mzl.ngeytyuw.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/ce/4f/89/ce4f89f5-84b9-834e-b4cc-60a528f4813f/mzl.hfcocbzr.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [Pass](https://github.com/mssun/passforios): Client for the Pass command line app https://www.passwordstore.org/ [` App Store`](https://apps.apple.com/app/pass-password-store/id1205820573)  
@@ -2171,7 +2171,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>objc</code> ⭐⭐</summary>
 
 	https://habitica.com/static/front<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a5.mzstatic.com/us/r30/Purple6/v4/a2/af/06/a2af06ac-0644-00b5-85f1-ae13e3ebf1cd/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/bf/34/34/bf343412-6b20-bb34-9e7f-36311bc5ec45/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/51/40/88/514088ab-8a5c-b2fd-275d-d4edb1ab584a/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c1/97/fb/c197fba5-e41d-6d6d-fac3-a196ce9e126e/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/39/40/dc/3940dcb3-3d49-a328-2926-c03f40f12594/pr_source.png/460x0w.jpgss'><code>Screenshot 4</code></a> 
   </details>
 
 
@@ -2393,7 +2393,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>objc</code> </summary>
 
 	Added February 19, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
-	<a href='http://a4.mzstatic.com/us/r30/Purple5/v4/67/ee/d3/67eed392-7fb1-5cb6-7e94-de81031ac6b3/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple3/v4/62/27/f9/6227f9dd-9c29-938d-7dc1-4f6549f4fed9/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple3/v4/d7/7f/24/d77f240e-4f3e-fc00-34b3-1e1a5ade3394/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple3/v4/8d/3b/c0/8d3bc0a3-d13a-4860-ec67-f0f89ef972f2/screen696x696.jpeg'><code>Screenshot 4</code></a> 
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/17/94/ec/1794ec78-67db-8a38-ae0a-89f87503fe67/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/a7/06/8c/a7068c91-de5f-b891-e3a9-34e00c9e3d77/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/3f/19/54/3f1954e5-355a-b143-0b2b-36a8267e5d64/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple5/v4/03/bd/09/03bd09ac-1a58-0ca4-4c72-f46f8bed3b38/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [ooniprobe](https://github.com/ooni/probe-ios): Detect internet censorship & test your network's speed [` App Store`](https://apps.apple.com/app/id1199566366)  
