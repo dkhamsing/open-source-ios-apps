@@ -17970,6 +17970,17 @@
       "license": "mit",
       "date_added": "Aug 24 2019",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      	"title": "Flappy Royale",
+      	"category-ids": ["game"],
+      	"tags": ["swift"],
+      	"description": "A 99-player last-bird-flapping battle royale",
+      	"source": "https://github.com/flappy-royale/flappy-royale",
+      	"screenshots": ["https://raw.githubusercontent.com/flappy-royale/flappy-royale/master/web/assets/1-full.png"],
+      	"license": "other",
+        "date_added": "Aug 24 2019",
+        "suggested_by": "@dkhamsing"
     }
   ]
 }
