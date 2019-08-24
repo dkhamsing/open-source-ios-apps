@@ -17959,6 +17959,17 @@
     	"license": "gpl-3.0",
     	"date_added": "Aug 24 2019",
     	"suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "GRDBCombine",
+      "category-ids": ["sample"],
+      "tags": ["swift", "combine"],
+      "description": "Set of extensions for SQLite, GRDB.swift, and Combine",
+      "source": "https://github.com/groue/GRDBCombine",
+      "screenshots": ["https://raw.githubusercontent.com/groue/GRDBCombine/master/Documentation/Demo/Screenshots/Demo1.png"],
+      "license": "mit",
+      "date_added": "Aug 24 2019",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
