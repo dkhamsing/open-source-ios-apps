@@ -565,7 +565,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [LunarCore](https://github.com/cyanzhong/LunarCore): Small lunar calendar with Today Extension [` App Store`](https://apps.apple.com/app/id1031088612)  
+- [LunarCore](https://github.com/cyanzhong/LunarCore): Small lunar calendar with Today Extension  
   <details>
 	<summary><code>objc</code> 🌐 ⭐⭐⭐</summary>
 
@@ -815,12 +815,12 @@ Click ► to show more details
 	<a href='https://github.com/LunarFlash/Chaty/raw/master/ChatChat/screen1.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Colloquy](https://github.com/colloquy/colloquy): IRC client  
+- [Colloquy](https://github.com/colloquy/colloquy): IRC client [` App Store`](https://apps.apple.com/app/colloquy-irc-client/id302000478)  
   <details>
 	<summary><code>objc</code> </summary>
 
 	Added January 27, 2016<br>  License: `other`<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple3/v4/1c/6b/1f/1c6b1f4b-d464-9faf-47ba-aab606d62dff/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a5.mzstatic.com/us/r30/Purple3/v4/af/54/c7/af54c763-96f6-7d4f-0813-1a19d06fb3dc/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple3/v4/29/12/80/291280a9-87f0-41ad-121d-54ee39ec45df/screen696x696.jpeg'><code>Screenshot 3</code></a> <a href='http://a2.mzstatic.com/us/r30/Purple5/v4/7c/ef/78/7cef78fb-56e1-52e2-d5b4-6fbc833ca32b/screen696x696.jpeg'><code>Screenshot 4</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/18/55/21/185521ba-035e-6b2d-362f-0e50b767f5b7/screen696x696.jpeg'><code>Screenshot 5</code></a> 
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/02/ed/a1/02eda19d-a1eb-f607-daed-67cc275db963/mzl.ymupketw.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/e8/a4/95e8a416-ab17-b309-c5f3-db16c8ebd434/mzl.dquclsly.png/626x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/49/39/11/49391171-cf81-3db8-571b-6fae63bf1163/mzl.vmvxxfwh.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/4c/f6/16/4cf61698-128c-eb16-9d7d-a5d7d04599f4/mzl.bludqoil.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [Falcon Messenger](https://github.com/RMizin/FalconMessenger): Fast and beautiful cloud-based messaging app [` App Store`](https://apps.apple.com/app/id1313765714)  
@@ -1803,7 +1803,7 @@ Click ► to show more details
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/97/bc/c597bc2d-339c-8463-e7e7-f47fe7f6f770/mzl.uhkigexq.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/08/a6/aa/08a6aa5a-6a45-fcb0-5e75-c78fc2a10d67/mzl.ckjxbwfu.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8e/72/69/8e72696d-fae0-0f81-4868-aa281ba30866/mzl.ucpnawyo.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- [LunarCore](https://github.com/cyanzhong/LunarCore): Small lunar calendar with Today Extension [` App Store`](https://apps.apple.com/app/id1031088612)  
+- [LunarCore](https://github.com/cyanzhong/LunarCore): Small lunar calendar with Today Extension  
   <details>
 	<summary><code>objc</code> 🌐 ⭐⭐⭐</summary>
 
@@ -1817,14 +1817,6 @@ Click ► to show more details
 
 	Added June  7, 2016<br>  License: `other`<br>
 	<a href='https://github.com/BalestraPatrick/OpenIt/raw/master/OpenItDemo.gif'><code>Screenshot 1</code></a> 
-  </details>
-
-- [TodayMind](https://github.com/cyanzhong/TodayMind): Manage Reminders directly in a Today Extension [` App Store`](https://apps.apple.com/app/id1207158665)  
-  <details>
-	<summary><code>swift</code> 🌐 ⭐⭐⭐</summary>
-
-	Added February 28, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/1b/a9/b1/1ba9b15f-5388-c76f-1f1e-6d992b14dafb/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/05/44/c1/0544c11f-a635-5163-fcf9-7364d62ce3e8/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/02/b2/19/02b21932-8b61-5a8a-1fa9-51dacbd1ea08/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple91/v4/a1/5c/4e/a15c4e64-db44-2f39-3ec3-af14d99278f1/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/19/f1/d419f1a2-f7e6-cfe9-23a0-b4109ee2b0bb/pr_source.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [VPN On](https://github.com/lexrus/VPNOn): Extension to turn on VPN [` App Store`](https://apps.apple.com/app/vpn-on/id951344279)  
@@ -3675,7 +3667,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<summary><code>iphone</code> <code>ipad</code> ⭐⭐⭐⭐</summary>
 
 	Added December  2, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple60/v4/61/14/fa/6114fa5c-1e42-b09b-53db-55b01eb3e810/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple20/v4/06/49/61/0649619f-972d-f7b3-f38c-f81f07a78660/screen696x696.jpeg'><code>Screenshot 2</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple20/v4/b5/0e/31/b50e3114-df2c-b729-a344-1f000fdc02e0/screen696x696.jpeg'><code>Screenshot 3</code></a> 
+	<a href='https://raw.githubusercontent.com/hanton/HTY360Player/master/Screenshot/PlayDemo.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [DownTube](https://github.com/MrAdamBoyd/DownTube): Download videos from YouTube for offline use  
@@ -4321,7 +4313,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> <code>vision</code> ⭐</summary>
 
 	Added January 25, 2018<br>  License: `other`<br>
-	<a href='http://i63.tinypic.com/j10k7b.gif'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/MvyUmm8.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [GRDBCombine](https://github.com/groue/GRDBCombine): Set of extensions for SQLite, GRDB.swift, and Combine  
@@ -4844,7 +4836,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>objc</code> ⭐⭐</summary>
 
 	https://habitica.com/static/front<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/bf/34/34/bf343412-6b20-bb34-9e7f-36311bc5ec45/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/51/40/88/514088ab-8a5c-b2fd-275d-d4edb1ab584a/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c1/97/fb/c197fba5-e41d-6d6d-fac3-a196ce9e126e/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/39/40/dc/3940dcb3-3d49-a328-2926-c03f40f12594/pr_source.png/460x0w.jpgss'><code>Screenshot 4</code></a> 
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/bf/34/34/bf343412-6b20-bb34-9e7f-36311bc5ec45/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/51/40/88/514088ab-8a5c-b2fd-275d-d4edb1ab584a/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c1/97/fb/c197fba5-e41d-6d6d-fac3-a196ce9e126e/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/39/40/dc/3940dcb3-3d49-a328-2926-c03f40f12594/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [Planc](https://github.com/aerlinn13/planc): Minimalistic to-do list  
@@ -5192,7 +5184,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added June  3, 2015<br>  License: `other`<br>
-	<a href='https://images.cnitblog.com/blog2015/607542/201504/211608153124546.gif'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/PxneNkI.gif'><code>Screenshot 1</code></a> 
   </details>
 
 
@@ -5758,12 +5750,12 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<a href='http://res.cloudinary.com/mikkoj/image/upload/v1467119333/nortal-techday-1.mov_triupn.gif'><code>Screenshot 1</code></a> <a href='http://res.cloudinary.com/mikkoj/image/upload/v1467119489/nortal-techday-2.mov_lcvqqx.gif'><code>Screenshot 2</code></a> 
   </details>
 
-- [PokeDB](https://github.com/satya164/PocketGear): Clean and simple Pokédex app for Pokémon GO  
+- [PokeDB](https://github.com/satya164/PocketGear): Clean and simple Pokédex app for Pokémon GO [` App Store`](https://apps.apple.com/app/pocketdex-for-pok%C3%A9mon-go/id1255564898)  
   <details>
 	<summary><code>react-native</code> ⭐</summary>
 
 	Added September 14, 2016<br>  License: `other`<br>
-	<a href='http://a1.mzstatic.com/us/r30/Purple71/v4/78/63/2e/78632e47-b8cf-5068-19be-e8e848581dbf/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/92/e1/4d/92e14db4-8386-6f71-161b-652d76ce89ee/mzl.rlgaqcnk.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/43/11/f3/4311f37f-7232-b725-cd03-f4e8f2e7ace4/mzl.askczwpt.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/62/db/8d/62db8da0-0810-dfd0-937a-63dfc6fae957/mzl.odiufjsj.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/fb/29/a9fb2936-ca9e-c88e-1276-e7a60a5fa565/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/32/c4/b632c4ee-2e2c-ff81-dd04-87e9f49f7341/mzl.sckfqxlh.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [pokemon-map](https://github.com/bakery/pokemon-map): Locate Pokemon around you  
