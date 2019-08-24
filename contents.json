@@ -17947,6 +17947,18 @@
       ],
       "date_added": "Aug 20 2019",
       "suggested_by": "@rbugajewski"
+    },
+    {
+      "title": "Lockdown",
+    	"category-ids": ["security"],
+    	"tags": ["swift"],
+    	"description": "Firewall for your device",
+    	"source": "https://github.com/confirmedcode/lockdown-ios",
+      "homepage": "https://lockdownhq.com",
+    	"screenshots": ["https://lockdownhq.com/images/iphone-screenshot.jpg"],
+    	"license": "gpl-3.0",
+    	"date_added": "Aug 24 2019",
+    	"suggested_by": "@dkhamsing"
     }
   ]
 }
