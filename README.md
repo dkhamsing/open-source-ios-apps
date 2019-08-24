@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-885-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2023,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-889-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2024,%202019-lightgrey.svg)
 
 Jump to
 
@@ -2188,6 +2188,14 @@ Click ► to show more details
 	<a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG'><code>Screenshot 5</code></a> 
   </details>
 
+- [Flappy Royale](https://github.com/flappy-royale/flappy-royale): A 99-player last-bird-flapping battle royale  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added August 24, 2019<br>  License: `other`<br>
+	<a href='https://raw.githubusercontent.com/flappy-royale/flappy-royale/master/web/assets/1-full.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [FlappyBird clone - Scary Flight](https://github.com/EvgenyKarkan/ScaryFlight)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -4316,6 +4324,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='http://i63.tinypic.com/j10k7b.gif'><code>Screenshot 1</code></a> 
   </details>
 
+- [GRDBCombine](https://github.com/groue/GRDBCombine): Set of extensions for SQLite, GRDB.swift, and Combine  
+  <details>
+	<summary><code>swift</code> <code>combine</code> </summary>
+
+	Added August 24, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/groue/GRDBCombine/master/Documentation/Demo/Screenshots/Demo1.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [iOS 10 Day by Day](https://github.com/ShinobiControls/iOS10-day-by-day): Code examples for the new functions in iOS 10  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐</summary>
@@ -4543,6 +4559,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added May  2, 2017<br>  License: `other`<br>
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/22/51/55/22515500-8c22-2d00-04d7-6e8963bbee16/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/bb/e9/4abbe96e-bbb0-8e2f-86f2-19c42f9409b8/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/de/b1/fa/deb1fae0-1b01-7f38-fbe9-3106315a036e/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/db/14/fb/db14fbe9-1b59-8403-efe4-01f0753a4fa9/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
+  </details>
+
+- [Lockdown](https://github.com/confirmedcode/lockdown-ios): Firewall for your device  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://lockdownhq.com<br>  Added August 24, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://lockdownhq.com/images/iphone-screenshot.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Prey](https://github.com/prey/prey-ios-client): Track lost or stolen devices & perform actions remotely [` App Store`](https://apps.apple.com/app/id456755037)  
@@ -5342,6 +5366,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/iAugux/ProjectScreenshots/master/Phonetic/nickname.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Remote](https://github.com/michaelvillar/remote): A remote for your IR devices  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added August 24, 2019<br>  License: `other`<br>
+	<a href='https://raw.githubusercontent.com/michaelvillar/remote/master/screenshots/ios.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Science Journal](https://github.com/google/science-journal-ios): Use the sensors in your mobile devices to perform science experiments  
