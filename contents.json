@@ -17981,6 +17981,17 @@
       	"license": "other",
         "date_added": "Aug 24 2019",
         "suggested_by": "@dkhamsing"
+    },
+    {
+      	"title": "Remote",
+      	"category-ids": ["misc"],
+      	"tags": ["swift"],
+      	"description": "A remote for your IR devices",
+      	"source": "https://github.com/michaelvillar/remote",
+      	"screenshots": ["https://raw.githubusercontent.com/michaelvillar/remote/master/screenshots/ios.png"],
+      	"license": "other",
+        "date_added": "Aug 24 2019",
+        "suggested_by": "@dkhamsing"
     }
   ]
 }
