@@ -1452,14 +1452,14 @@
         "objc"
       ],
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple3/v4/1c/6b/1f/1c6b1f4b-d464-9faf-47ba-aab606d62dff/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple3/v4/af/54/c7/af54c763-96f6-7d4f-0813-1a19d06fb3dc/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple3/v4/29/12/80/291280a9-87f0-41ad-121d-54ee39ec45df/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple5/v4/7c/ef/78/7cef78fb-56e1-52e2-d5b4-6fbc833ca32b/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple5/v4/18/55/21/185521ba-035e-6b2d-362f-0e50b767f5b7/screen696x696.jpeg"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/02/ed/a1/02eda19d-a1eb-f607-daed-67cc275db963/mzl.ymupketw.png/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/e8/a4/95e8a416-ab17-b309-c5f3-db16c8ebd434/mzl.dquclsly.png/626x0w.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/49/39/11/49391171-cf81-3db8-571b-6fae63bf1163/mzl.vmvxxfwh.png/460x0w.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/4c/f6/16/4cf61698-128c-eb16-9d7d-a5d7d04599f4/mzl.bludqoil.png/460x0w.jpg"
       ],
       "description": "IRC client",
       "source": "https://github.com/colloquy/colloquy",
+      "itunes": "https://apps.apple.com/app/colloquy-irc-client/id302000478",
       "stars": 64,
       "license": "other",
       "date_added": "Wed Jan 27 07:15:24 2016 -0800",
@@ -3671,9 +3671,7 @@
       "date_added": "Wed Dec 2 22:17:02 2015 +0800",
       "suggested_by": "@Hanton",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple60/v4/61/14/fa/6114fa5c-1e42-b09b-53db-55b01eb3e810/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple20/v4/06/49/61/0649619f-972d-f7b3-f38c-f81f07a78660/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple20/v4/b5/0e/31/b50e3114-df2c-b729-a344-1f000fdc02e0/screen696x696.jpeg"
+        "https://raw.githubusercontent.com/hanton/HTY360Player/master/Screenshot/PlayDemo.gif"
       ]
     },
     {
@@ -5952,7 +5950,7 @@
       "date_added": "Wed Jun 3 06:05:45 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "https://images.cnitblog.com/blog2015/607542/201504/211608153124546.gif"
+        "https://i.imgur.com/PxneNkI.gif"
       ]
     },
     {
@@ -9725,7 +9723,7 @@
         "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/bf/34/34/bf343412-6b20-bb34-9e7f-36311bc5ec45/pr_source.png/460x0w.jpg",
         "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/51/40/88/514088ab-8a5c-b2fd-275d-d4edb1ab584a/pr_source.png/460x0w.jpg",
         "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c1/97/fb/c197fba5-e41d-6d6d-fac3-a196ce9e126e/pr_source.png/460x0w.jpg",
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/39/40/dc/3940dcb3-3d49-a328-2926-c03f40f12594/pr_source.png/460x0w.jpgss"
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/39/40/dc/3940dcb3-3d49-a328-2926-c03f40f12594/pr_source.png/460x0w.jpg"
       ],
       "stars": 244,
       "date_added": "Wed Jun 1 23:56:30 2016 -0600",
@@ -12214,7 +12212,6 @@
       "title": "LunarCore",
       "description": "Small lunar calendar with Today Extension",
       "source": "https://github.com/cyanzhong/LunarCore",
-      "itunes": "https://apps.apple.com/app/id1031088612",
       "screenshots": [
         "https://github.com/cyanzhong/LunarCore/raw/master/iOS.png"
       ],
@@ -13385,7 +13382,8 @@
       "license": "gpl-3.0",
       "stars": 767,
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "date_added": "Feb 28 2017",
       "suggested_by": "@dkhamsing"
@@ -14363,11 +14361,16 @@
       "tags": [
         "react-native"
       ],
-      "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple71/v4/78/63/2e/78632e47-b8cf-5068-19be-e8e848581dbf/screen696x696.jpeg"
-      ],
       "description": "Clean and simple Pokédex app for Pokémon GO",
       "source": "https://github.com/satya164/PocketGear",
+      "itunes": "https://apps.apple.com/app/pocketdex-for-pok%C3%A9mon-go/id1255564898",
+      "screenshots": [
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/92/e1/4d/92e14db4-8386-6f71-161b-652d76ce89ee/mzl.rlgaqcnk.jpg/460x0w.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/43/11/f3/4311f37f-7232-b725-cd03-f4e8f2e7ace4/mzl.askczwpt.jpg/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/62/db/8d/62db8da0-0810-dfd0-937a-63dfc6fae957/mzl.odiufjsj.jpg/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/fb/29/a9fb2936-ca9e-c88e-1276-e7a60a5fa565/pr_source.jpg/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/32/c4/b632c4ee-2e2c-ff81-dd04-87e9f49f7341/mzl.sckfqxlh.jpg/460x0w.jpg"
+      ],
       "stars": 179,
       "license": "other",
       "date_added": "Mon Sep 14 11:13:58 2016 -0800",
@@ -15792,7 +15795,7 @@
         "swift"
       ],
       "screenshots": [
-        "http://i63.tinypic.com/j10k7b.gif"
+        "https://i.imgur.com/MvyUmm8.gif"
       ],
       "stars": 115,
       "license": "other",
