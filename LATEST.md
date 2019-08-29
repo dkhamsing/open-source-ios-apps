@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Remote](https://github.com/michaelvillar/remote)
-2. [Flappy Royale](https://github.com/flappy-royale/flappy-royale)
-3. [GRDBCombine](https://github.com/groue/GRDBCombine)
-4. [Lockdown](https://github.com/confirmedcode/lockdown-ios)
-5. [Ghostery](https://github.com/ghostery/browser-ios)
-6. [afone](https://github.com/automat-berlin/afone/)
-7. [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios)
-8. [KeePassium](https://github.com/keepassium/KeePassium)
-9. [Jami](https://review.jami.net/admin/repos/ring-client-ios)
-10. [WireGuard](https://github.com/WireGuard/wireguard-apple)
-11. [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
-12. [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum)
-13. [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
-14. [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS)
-15. [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS)
+1. [Iris.iOS](https://github.com/Neko3000/Iris.iOS)
+2. [Remote](https://github.com/michaelvillar/remote)
+3. [Flappy Royale](https://github.com/flappy-royale/flappy-royale)
+4. [GRDBCombine](https://github.com/groue/GRDBCombine)
+5. [Lockdown](https://github.com/confirmedcode/lockdown-ios)
+6. [Ghostery](https://github.com/ghostery/browser-ios)
+7. [afone](https://github.com/automat-berlin/afone/)
+8. [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios)
+9. [KeePassium](https://github.com/keepassium/KeePassium)
+10. [Jami](https://review.jami.net/admin/repos/ring-client-ios)
+11. [WireGuard](https://github.com/WireGuard/wireguard-apple)
+12. [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+13. [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum)
+14. [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
+15. [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS)
 
 ## Thanks
 
