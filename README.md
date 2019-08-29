@@ -3694,7 +3694,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<a href='http://getfetchapp.com/img/product.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Playerly](https://github.com/justjs/Playerly): Play videos from the Files app in a better and darker interface  
+- [Playerly](https://github.com/julianschiavo/Playerly): Play videos from the Files app in a better and darker interface  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -4670,11 +4670,11 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/8b/17/6a/8b176a9c-9261-be87-82b6-0d68068dbd5b/mzl.loqogauh.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/06/66/f0/0666f0dd-a899-b26a-9bb3-3519ac5d7839/mzl.ennzvmko.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/42/c6/f2/42c6f26f-8ede-bede-2ec0-9ea012d63308/mzl.ngeytyuw.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/ce/4f/89/ce4f89f5-84b9-834e-b4cc-60a528f4813f/mzl.hfcocbzr.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [Padlock](https://github.com/padlock/padlock): A minimalist open source password manager  
+- [Padlock](https://github.com/padloc/padloc): A minimalist open source password manager  
   <details>
 	<summary><code>javascript</code> <code>cordova</code> <code>iphone</code> <code>ipad</code> ⭐⭐⭐</summary>
 
-	https://padlock.io/<br>  Added April  4, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	https://padloc.app/<br>  Added April  4, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/af/bd/5d/afbd5d00-6c4d-8edf-ff9b-552df523d573/mzl.fszireix.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/6d/82/e2/6d82e289-2522-38f2-9473-65f41700ba12/mzl.xvlxfqzn.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c4/f8/9c/c4f89c59-827f-3b1f-c426-3964c52ab4ac/mzl.pdmecikv.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/5a/9e/18/5a9e1873-9ac8-80d7-0fc9-64d3ad8784e8/mzl.zwomnhtr.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
