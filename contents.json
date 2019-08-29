@@ -16303,8 +16303,8 @@
         "password"
       ],
       "description": "A minimalist open source password manager",
-      "homepage": "https://padlock.io/",
-      "source": "https://github.com/padlock/padlock",
+      "homepage": "https://padloc.app/",
+      "source": "https://github.com/padloc/padloc",
       "license": "gpl-3.0",
       "stars": 780,
       "tags": [
@@ -17451,7 +17451,7 @@
         "video"
       ],
       "description": "Play videos from the Files app in a better and darker interface",
-      "source": "https://github.com/justjs/Playerly",
+      "source": "https://github.com/julianschiavo/Playerly",
       "license": "mit",
       "tags": [
         "swift"
