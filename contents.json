@@ -17998,9 +17998,9 @@
     },
     {
       	"title": "Iris.iOS",
-      	"category-ids": ["photo","social"],
-      	"tags": ["swift","DeviantArt","masonry"],
-      	"description": "An iOS application enables you explore art works provided by DeviartArt.com with high quality UX.",
+      	"category-ids": ["media"],
+      	"tags": ["swift","deviantart","masonry"],
+      	"description": "Explore artwork from deviantart.com",
       	"source": "https://github.com/Neko3000/Iris.iOS",
       	"screenshots": [
           "https://raw.githubusercontent.com/Neko3000/resource-storage/master/img/screenshot/iris-ios-s4.png",
