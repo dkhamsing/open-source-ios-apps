@@ -18010,6 +18010,24 @@
       	"license": "mpl-2.0",
         "date_added": "Aug 29 2019",
         "suggested_by": "@Neko3000"
+    },
+    {
+      	"title": "Slide for Reddit",
+      	"category-ids": ["social"],
+      	"tags": ["swift"],
+      	"description": "A powerful new way to Reddit",
+      	"source": "https://github.com/ccrama/Slide-iOS",
+      	"itunes": "https://apps.apple.com/app/slide-for-reddit/id1260626828",
+      	"screenshots": [
+          "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/75/3b/91/753b91d1-029a-f898-ae67-910f117ba4ed/pr_source.jpg/300x0w.jpg",
+          "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d8/1e/5f/d81e5fd9-71dc-abb0-bdb1-7d22fecf56b1/pr_source.jpg/300x0w.jpg",
+          "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/fc/aa/e6/fcaae64d-552e-ce44-d3aa-08342eb6ce4b/pr_source.jpg/300x0w.jpg",
+          "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/78/cb/fc/78cbfc3c-f395-943f-5695-e9c7cdbe035b/pr_source.jpg/300x0w.jpg"
+        ],
+      	"license": "apache-2.0",
+        "date_added": "Aug 31 2019",
+        "suggested_by": "@jinthislife",
+        "stars": 255
     }
   ]
 }
