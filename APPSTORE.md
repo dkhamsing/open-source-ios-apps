@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **225** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **226** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -2130,6 +2130,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e8/67/e4/e867e445-cb5b-ae50-b72f-d56a2fef6bb7/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/ec/10/a9ec1009-1b6f-f100-f1f0-74eb0ed5f1b7/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/8f/50/a78f5034-9e83-152c-efcf-e3341b330c6e/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/f2/7d/9d/f27d9d05-08d5-9df7-a7b7-90e5e8b36bbf/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/72/1f/ee/721fee01-d4db-185b-cdf9-1ad6dc743b5c/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
+- [Slide for Reddit](https://github.com/ccrama/Slide-iOS): A powerful new way to Reddit [` App Store`](https://apps.apple.com/app/slide-for-reddit/id1260626828)  
+  <details>
+	<summary><code>swift</code> ⭐⭐</summary>
+
+	Added August 31, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/75/3b/91/753b91d1-029a-f898-ae67-910f117ba4ed/pr_source.jpg/300x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d8/1e/5f/d81e5fd9-71dc-abb0-bdb1-7d22fecf56b1/pr_source.jpg/300x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/fc/aa/e6/fcaae64d-552e-ce44-d3aa-08342eb6ce4b/pr_source.jpg/300x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/78/cb/fc/78cbfc3c-f395-943f-5695-e9c7cdbe035b/pr_source.jpg/300x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 
