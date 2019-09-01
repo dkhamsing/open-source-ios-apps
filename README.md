@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-891-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-August%2031,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-892-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%201,%202019-lightgrey.svg)
 
 Jump to
 
@@ -4283,6 +4283,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added February  7, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [BookStore-iOS](https://github.com/nsoojin/BookStore-iOS): A collection of examples and patterns for Unit Testing, UI Testing, handling Result/Optionals, writing documentation, and more.  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added August 31, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/nsoojin/BookStore/master/README_assets/whats-new.gif'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/nsoojin/BookStore/master/README_assets/search.gif'><code>Screenshot 2</code></a> 
   </details>
 
 - [Cannonball](https://github.com/crashlytics/cannonball-ios): Fun way to create / share stories & poems [` App Store`](https://apps.apple.com/app/cannonball-magnetic-poetry/id929750075)  
