@@ -1252,15 +1252,16 @@
       ]
     },
     {
-      "title": "Ghostery",
+      "title": "Ghostery Privacy Browser",
       "category-ids": [
-        "browser"
+        "browser",
+        "official"
       ],
       "tags": [
         "swift"
       ],
       "homepage": "https://www.ghostery.com/mobile/",
-      "description": "Ghostery Browser",
+      "description": "Private, fast, tracker/add-free mobile browsing",
       "source": "https://github.com/ghostery/browser-ios",
       "license": "mpl-2.0",
       "itunes": "https://apps.apple.com/app/ghostery/id472789016",
