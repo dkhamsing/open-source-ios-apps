@@ -459,7 +459,7 @@ Click ► to show more details
 	Added July 31, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- [Ghostery](https://github.com/ghostery/browser-ios): Ghostery Browser [` App Store`](https://apps.apple.com/app/ghostery/id472789016)  
+- [Ghostery Privacy Browser](https://github.com/ghostery/browser-ios): Private, fast, tracker/add-free mobile browsing [` App Store`](https://apps.apple.com/app/ghostery/id472789016)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -2182,7 +2182,7 @@ Click ► to show more details
 
 - [Flappy Royale](https://github.com/flappy-royale/flappy-royale): A 99-player last-bird-flapping battle royale  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	Added August 24, 2019<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/flappy-royale/flappy-royale/master/web/assets/1-full.png'><code>Screenshot 1</code></a> 
@@ -3765,7 +3765,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app  
   <details>
-	<summary><code>afnetworking</code> </summary>
+	<summary><code>afnetworking</code> ⭐</summary>
 
 	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/dkhamsing/TabDump/raw/master/assets/screenshots/screenshot.png'><code>Screenshot 1</code></a> 
@@ -3939,6 +3939,14 @@ https://newsapi.org/ — [back to top](#readme)
 
 	Added January 26, 2015<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/47/b7/1b/47b71b74-5bb4-9c4d-4826-18f89324af9d/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/24/97/ba249744-0dda-90a9-4406-2d30720e59a4/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/93/d1/d4/93d1d4d1-5cde-f1d7-4e68-1fe824bcdc13/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/89/17/58/89175888-9e1e-3fcf-ce42-9dd347327298/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/36/dc/9f36dc54-b99b-fd5c-0076-0cdb1d4bc53e/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
+- [Ghostery Privacy Browser](https://github.com/ghostery/browser-ios): Private, fast, tracker/add-free mobile browsing [` App Store`](https://apps.apple.com/app/ghostery/id472789016)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://www.ghostery.com/mobile/<br>  Added August 21, 2019<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
+	<a href='https://www.ghostery.com/wp-content/themes/ghostery/images/campaigns/mobile-landing-page/group-7@2x.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Kickstarter](https://github.com/kickstarter/ios-oss): Where independent creators & passionate backers come together to bring new ideas to life [` App Store`](https://apps.apple.com/app/kickstarter/id596961532)  
@@ -4285,14 +4293,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [BookStore-iOS](https://github.com/nsoojin/BookStore-iOS): A collection of examples and patterns for Unit Testing, UI Testing, handling Result/Optionals, writing documentation, and more.  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added August 31, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/nsoojin/BookStore/master/README_assets/whats-new.gif'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/nsoojin/BookStore/master/README_assets/search.gif'><code>Screenshot 2</code></a> 
-  </details>
-
 - [Cannonball](https://github.com/crashlytics/cannonball-ios): Fun way to create / share stories & poems [` App Store`](https://apps.apple.com/app/cannonball-magnetic-poetry/id929750075)  
   <details>
 	<summary><code>swift</code> ⭐⭐</summary>
@@ -4334,7 +4334,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [GRDBCombine](https://github.com/groue/GRDBCombine): Set of extensions for SQLite, GRDB.swift, and Combine  
   <details>
-	<summary><code>swift</code> <code>combine</code> </summary>
+	<summary><code>swift</code> <code>combine</code> ⭐</summary>
 
 	Added August 24, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/groue/GRDBCombine/master/Documentation/Demo/Screenshots/Demo1.png'><code>Screenshot 1</code></a> 
@@ -4571,7 +4571,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [Lockdown](https://github.com/confirmedcode/lockdown-ios): Firewall for your device  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐⭐</summary>
 
 	https://lockdownhq.com<br>  Added August 24, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://lockdownhq.com/images/iphone-screenshot.jpg'><code>Screenshot 1</code></a> 
@@ -5246,6 +5246,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added March 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://78.media.tumblr.com/ceef33afa678fb12d6d257c75c1ca166/tumblr_n5dd14OiyH1qb1l2uo1_540.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [BookStore-iOS](https://github.com/nsoojin/BookStore-iOS): Browse https://itbook.store - examples and patterns for unit/ui testing, handling Result/Optionals, writing documentation  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added August 31, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/nsoojin/BookStore/master/README_assets/whats-new.gif'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/nsoojin/BookStore/master/README_assets/search.gif'><code>Screenshot 2</code></a> 
   </details>
 
 - [Borrowed Books](https://github.com/MatheusCavalca/RenovaLivrosUFRGS): Manage ufrgs.br library books  
