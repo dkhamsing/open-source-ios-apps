@@ -18032,14 +18032,14 @@
     {
         "title": "BookStore-iOS",
         "category-ids": ["sample"],
-        "tags": ["ios", "unit-testing", "ui-testing"],
+        "tags": ["swift"],
         "description": "A collection of examples and patterns for Unit Testing, UI Testing, handling Result/Optionals, writing documentation, and more.",
         "source": "https://github.com/nsoojin/BookStore-iOS",
         "screenshots": [
           "https://raw.githubusercontent.com/nsoojin/BookStore/master/README_assets/whats-new.gif",
           "https://raw.githubusercontent.com/nsoojin/BookStore/master/README_assets/search.gif"
         ],
-        "license": "MIT",
+        "license": "mit",
         "date_added": "Aug 31 2019",
         "suggested_by": "@nsoojin"
     }
