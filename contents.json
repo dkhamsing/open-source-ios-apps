@@ -18031,9 +18031,9 @@
     },
     {
         "title": "BookStore-iOS",
-        "category-ids": ["sample"],
+        "category-ids": ["misc"],
         "tags": ["swift"],
-        "description": "A collection of examples and patterns for Unit Testing, UI Testing, handling Result/Optionals, writing documentation, and more.",
+        "description": "Browse https://itbook.store - examples and patterns for unit/ui testing, handling Result/Optionals, writing documentation",
         "source": "https://github.com/nsoojin/BookStore-iOS",
         "screenshots": [
           "https://raw.githubusercontent.com/nsoojin/BookStore/master/README_assets/whats-new.gif",
