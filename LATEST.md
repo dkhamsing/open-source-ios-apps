@@ -10,7 +10,7 @@ These are the 15 latest entries from the [main list](https://github.com/dkhamsin
 5. [Flappy Royale](https://github.com/flappy-royale/flappy-royale)
 6. [GRDBCombine](https://github.com/groue/GRDBCombine)
 7. [Lockdown](https://github.com/confirmedcode/lockdown-ios)
-8. [Ghostery](https://github.com/ghostery/browser-ios)
+8. [Ghostery Privacy Browser](https://github.com/ghostery/browser-ios)
 9. [afone](https://github.com/automat-berlin/afone/)
 10. [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios)
 11. [KeePassium](https://github.com/keepassium/KeePassium)
