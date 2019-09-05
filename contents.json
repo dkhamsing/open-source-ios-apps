@@ -18096,7 +18096,7 @@
       "suggested_by": "@nsoojin",
       "stars": 81
     },
-	  {
+    {
       "title": "Strongbox",
       "category-ids": [
         "password"
@@ -18118,6 +18118,6 @@
       "date_added": "Thu Sept 5 2019",
       "suggested_by": "@strongbox-password-safe",
       "stars": 173
-	  }
+    }
   ]
 }
