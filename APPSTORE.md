@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **226** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **227** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -2088,6 +2088,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added July  6, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/01/0b/45/010b456f-5226-9eb5-5284-26f80b45896f/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/69/7c/37/697c371b-40a1-d2f4-4773-ee0595dee739/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/71/c3/d071c3c2-2a1f-f354-b7a4-686d5b6b8789/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/56/e5/b5/56e5b5cc-0b67-d210-8551-89622ab34538/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
+  </details>
+
+- [Strongbox](https://github.com/strongbox-password-safe/Strongbox): A Safe Client for KeepPass/Password [` App Store`](https://apps.apple.com/app/strongbox-password-safe/id897283731)  
+  <details>
+	<summary><code>swift</code> ⭐</summary>
+
+	https://strongboxsafe.com/<br>  Added September  5, 2019<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/77/67/c3/7767c3b9-09f8-8af0-3389-a01f4a3b3265/mzl.wkjuejow.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/55/08/4a5508a9-e74c-8cac-8499-c09f375c205c/mzl.rimzypzn.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/d2/9b/58/d29b58d3-30a2-9bfc-7c11-dac8d281bf43/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/fe/33/89fe3374-808d-7583-b4de-ec24198506a1/mzl.xdysdjdb.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage [` App Store`](https://apps.apple.com/app/zerostore-password-storage/id1037141587)  
