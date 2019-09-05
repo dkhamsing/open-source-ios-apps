@@ -18095,6 +18095,29 @@
       "date_added": "Aug 31 2019",
       "suggested_by": "@nsoojin",
       "stars": 81
+    },
+    {
+      "title": "Strongbox",
+      "category-ids": [
+        "password"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "A Safe Client for KeepPass/Password",
+      "homepage": "https://strongboxsafe.com/",
+      "source": "https://github.com/strongbox-password-safe/Strongbox",
+      "itunes": "https://apps.apple.com/app/strongbox-password-safe/id897283731",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/77/67/c3/7767c3b9-09f8-8af0-3389-a01f4a3b3265/mzl.wkjuejow.png/460x0w.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/55/08/4a5508a9-e74c-8cac-8499-c09f375c205c/mzl.rimzypzn.png/460x0w.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/d2/9b/58/d29b58d3-30a2-9bfc-7c11-dac8d281bf43/pr_source.png/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/fe/33/89fe3374-808d-7583-b4de-ec24198506a1/mzl.xdysdjdb.png/460x0w.jpg"
+      ],
+      "license": "agpl-3.0",
+      "date_added": "Thu Sept 5 2019",
+      "suggested_by": "@strongbox-password-safe",
+      "stars": 173
     }
   ]
 }
