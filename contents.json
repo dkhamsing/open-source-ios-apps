@@ -1615,13 +1615,15 @@
         "communication"
       ],
       "tags": [
+        "c",
+        "swift",
         "objc"
       ],
       "description": "Send messages with a focus on speed & security",
-      "source": "https://github.com/peter-iakovlev/Telegram",
+      "source": "https://github.com/TelegramMessenger/Telegram-iOS",
       "itunes": "https://apps.apple.com/app/telegram-messenger/id686449807",
-      "stars": 2781,
-      "license": "other",
+      "stars": 675,
+      "license": "gpl-2.0",
       "date_added": "Mon Apr 6 07:16:32 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
