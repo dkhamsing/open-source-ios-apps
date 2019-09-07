@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **227** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **228** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1642,6 +1642,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/60/68/95/60689578-4fda-6b26-708a-75db9acc8620/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/28/63/f1/2863f1ad-2f93-3f90-e706-eee5054a26b3/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/21/40/c0/2140c030-2b6a-4f8d-e0ee-6600c97e8323/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/85/39/68/85396844-ac62-2ca7-124d-16d61c77e5e1/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
+- [Frame Grabber](https://github.com/arthurhammer/FrameGrabber): Extract video frames as images [` App Store`](https://apps.apple.com/app/frame-grabber/id1434703541)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added September  6, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/3.png'><code>Screenshot 3</code></a> 
+  </details>
+
 - [MetaX](https://github.com/Ckitakishi/MetaX): Check, edit and delete metadata of photos [` App Store`](https://apps.apple.com/app/metax/id1376589355)  
   <details>
 	<summary><code>swift</code> ⭐</summary>
@@ -1679,6 +1687,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
+- [Frame Grabber](https://github.com/arthurhammer/FrameGrabber): Extract video frames as images [` App Store`](https://apps.apple.com/app/frame-grabber/id1434703541)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added September  6, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/3.png'><code>Screenshot 3</code></a> 
+  </details>
+
 - [VLC](https://github.com/videolan/vlc): Media Player [` App Store`](https://apps.apple.com/app/vlc-for-ios/id650377962)  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
