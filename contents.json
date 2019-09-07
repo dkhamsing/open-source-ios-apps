@@ -18118,6 +18118,26 @@
       "date_added": "Thu Sept 5 2019",
       "suggested_by": "@strongbox-password-safe",
       "stars": 173
+    },
+    {
+      "title": "Sansumoku",
+      "category-ids": [
+        "game"
+      ],
+      "description": "A 2-player board game. A mash-up of Sudoku and Ultimate Tic-Tac-Toe",
+      "source": "https://github.com/mkhrapov/sansumoku",
+      "homepage": "https://www.sansumoku.com/",
+      "itunes": "https://apps.apple.com/app/id1458250030",
+      "license": "apache-2.0",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/mkhrapov/sansumoku/master/img/sansumoku.png"
+      ],
+      "date_added": "Sep 6 2019",
+      "suggested_by": "@mkhrapov",
+      "stars": 5
     }
   ]
 }
