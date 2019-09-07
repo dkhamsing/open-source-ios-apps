@@ -18120,6 +18120,22 @@
       "date_added": "Thu Sept 5 2019",
       "suggested_by": "@strongbox-password-safe",
       "stars": 173
-    }
+    },
+    {
+      "title": "Frame Grabber",
+      "category-ids": ["video", "photo"],
+      "tags": ["swift"],
+      "description": "Extract video frames as images",
+      "source": "https://github.com/arthurhammer/FrameGrabber",
+      "license": "mit",
+      "itunes": "https://apps.apple.com/app/frame-grabber/id1434703541",
+      "screenshots": [
+        "https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/1.png", 
+        "https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/2.png", 
+        "https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/3.png"
+      ],
+      "date_added": "Sep 6 2019",            
+      "suggested_by": "@arthurhammer" 
+     }
   ]
 }
