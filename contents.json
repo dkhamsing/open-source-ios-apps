@@ -1615,13 +1615,15 @@
         "communication"
       ],
       "tags": [
+        "c",
+        "swift",
         "objc"
       ],
       "description": "Send messages with a focus on speed & security",
-      "source": "https://github.com/peter-iakovlev/Telegram",
+      "source": "https://github.com/TelegramMessenger/Telegram-iOS",
       "itunes": "https://apps.apple.com/app/telegram-messenger/id686449807",
-      "stars": 2781,
-      "license": "other",
+      "stars": 675,
+      "license": "gpl-2.0",
       "date_added": "Mon Apr 6 07:16:32 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -18138,6 +18140,22 @@
       "date_added": "Sep 6 2019",
       "suggested_by": "@mkhrapov",
       "stars": 5
-    }
+    },
+    {
+      "title": "Frame Grabber",
+      "category-ids": ["video", "photo"],
+      "tags": ["swift"],
+      "description": "Extract video frames as images",
+      "source": "https://github.com/arthurhammer/FrameGrabber",
+      "license": "mit",
+      "itunes": "https://apps.apple.com/app/frame-grabber/id1434703541",
+      "screenshots": [
+        "https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/1.png", 
+        "https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/2.png", 
+        "https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/3.png"
+      ],
+      "date_added": "Sep 6 2019",            
+      "suggested_by": "@arthurhammer" 
+     }
   ]
 }
