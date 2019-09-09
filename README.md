@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-894-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%207,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-895-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%209,%202019-lightgrey.svg)
 
 Jump to
 
@@ -1848,14 +1848,6 @@ Click ► to show more details
 	<a href='https://raw.githubusercontent.com/Augustyniak/FileExplorer/master/Resources/General.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [Local Storage](https://github.com/geberl/swift-localstorage): Save files on your device, visualize storage use, unzip, hash [` App Store`](https://apps.apple.com/app/id1339306324)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added April 14, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://i.imgur.com/t0okveQ.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Nextcloud](https://github.com/nextcloud/ios): A safe home for all your data [` App Store`](https://apps.apple.com/app/nextcloud/id1125420102)  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐</summary>
@@ -2339,6 +2331,14 @@ Click ► to show more details
 	<a href='https://github.com/cpo007/S.C.P-Asylum-Fail/blob/master/Image/Launch.png'><code>Screenshot 1</code></a> <a href='https://github.com/cpo007/S.C.P-Asylum-Fail/blob/master/Image/Home.png'><code>Screenshot 2</code></a> 
   </details>
 
+- [Sansumoku](https://github.com/mkhrapov/sansumoku): A 2-player board game. A mash-up of Sudoku and Ultimate Tic-Tac-Toe [` App Store`](https://apps.apple.com/app/id1458250030)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://www.sansumoku.com/<br>  Added September  6, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://raw.githubusercontent.com/mkhrapov/sansumoku/master/img/sansumoku.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [SaveTheDot](https://github.com/JakeLin/SaveTheDot): Escape from the squares  
   <details>
 	<summary><code>swift</code> <code>uiviewpropertyanimator</code> ⭐⭐⭐</summary>
@@ -2376,14 +2376,6 @@ Click ► to show more details
 
 	Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='http://cdn.iphoneincanada.ca/wp-content/uploads/2009/11/IMG_0520.PNG'><code>Screenshot 1</code></a> 
-  </details>
-
-- [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum): Clone of Ultimate Tic-Tac-Toe [` App Store`](https://apps.apple.com/app/id1463985601)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	https://www.tictactoeultimatum.com/<br>  Added June 13, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://raw.githubusercontent.com/mkhrapov/tictactoe-ultimatum/master/img/tictactoe-ultimatum.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS): Wolfenstein 3D for iOS [` App Store`](https://apps.apple.com/app/wolfenstein-3d-classic-platinum/id309470478)  
@@ -5742,14 +5734,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 	Added July 14, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'><code>Screenshot 2</code></a> 
-  </details>
-
-- [Hacker News app by iSimar](https://github.com/iSimar/HackerNews-React-Native) [` App Store`](https://apps.apple.com/app/hacker-news-reader-react-native/id1067161633)  
-  <details>
-	<summary><code>react native</code> ⭐⭐⭐⭐⭐</summary>
-
-	Added July 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/4e/a0/af/4ea0af4c-b04e-da6f-592f-a21be9659455/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/56/c0/ea/56c0ea6b-c9dd-2ccb-ed60-fd7444417c58/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple69/v4/b2/b9/27/b2b927bf-06d2-ba0c-221b-56b4f5370859/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/cf/81/a6/cf81a63a-6967-2009-36a4-8bcfe75d0bed/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [iTunes Catalog Search](https://github.com/alexissan/ReactNativeWorkshop)  
