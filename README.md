@@ -520,7 +520,7 @@ Click ► to show more details
 	<a href='https://raw.githubusercontent.com/tirupati17/currency-converter-swift3.0-viper/master/CurrencyConverter/Resources/iphone_5s.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Free42](https://thomasokken.com/free42/download/free42.tgz): A re-implementation of the HP-42S Calculator & the HP-82240 printer [` App Store`](https://apps.apple.com/app/id337692629)  
+- [Free42](https://github.com/thomasokken/free42): A re-implementation of the HP-42S Calculator & the HP-82240 printer [` App Store`](https://apps.apple.com/app/id337692629)  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -2130,7 +2130,7 @@ Click ► to show more details
 	<summary><code>objc</code> ⭐⭐</summary>
 
 	Added May 19, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
-	<a href='http://a4.mzstatic.com/us/r30/Purple/v4/2a/60/50/2a6050d0-c040-3684-fb0f-1694fd1edde4/screen480x480.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/44/e6/90/mzl.phnmwflb.png/626x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple/10/9a/3d/mzl.npolzzhp.png/626x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/d5/81/f5/mzl.upixgdwf.png/626x0w.png'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple/95/05/2f/mzl.bntcgfqi.png/626x0w.png'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/c3/f9/35/mzl.ucjimflu.png/626x0w.png'><code>Screenshot 5</code></a> 
   </details>
 
 - [Dragon Shout App 2](https://github.com/rblalock/dragon_shout_app_open_source): A social journal for the Elder Scrolls® series  
@@ -2352,7 +2352,7 @@ Click ► to show more details
 	<summary><code>objc</code> ⭐⭐</summary>
 
 	http://fabiensanglard.net/shmup/<br>  Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple/v4/e2/ee/82/e2ee8263-7265-3376-ec94-604ab58e631a/screen320x480.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple117/v4/40/3a/21/403a21ac-9841-ab2b-4353-ce1f72a2c753/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/2b/f4/8f/2bf48f1f-70fd-33d3-3198-c18ee88e2414/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/c3/97/7e/c3977e1f-48c9-e4b6-5f94-a4a988a53567/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [Skeleton Key](https://github.com/insurgentgames/Skeleton-Key-iOS): A puzzle game where you must shift keys around a board to unlock treasure chests  
@@ -3390,7 +3390,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<summary><code>objc</code> </summary>
 
 	Added May 31, 2016<br>  License: `other`<br>
-	<a href='http://a1.mzstatic.com/us/r30/Purple/v4/2f/7c/cd/2f7ccdde-4478-b24b-7801-809b11b9e6f3/screen320x480.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/f1/46/9e/f1469ec5-e5d7-daf9-2d77-501aede04cb9/mzl.dzwpexqf.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/2c/65/d3/2c65d300-59f9-f41b-f57d-150b28351905/mzl.pjagxicy.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/3a/9b/ce/3a9bced7-ab7c-efba-e392-b953099aa233/mzl.evxxezuj.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 - [movieapp](https://github.com/JuneDomingo/movieapp): Discover movies & tv shows  
@@ -3737,14 +3737,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 	Added March 15, 2015<br>  License: `other`<br>
 	<a href='https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Keinex tech blog](https://github.com/Keinex/Keinex-iOS)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added August  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/Keinex/Keinex-iOS/blob/master/1.jpg'><code>Screenshot 1</code></a> <a href='https://github.com/Keinex/Keinex-iOS/blob/master/2.jpg'><code>Screenshot 2</code></a> 
   </details>
 
 - [LobsterApp](https://github.com/rhysforyou/LobsterApp): Browse the https://lobste.rs community news site  
@@ -4346,14 +4338,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added August 24, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/groue/GRDBCombine/master/Documentation/Demo/Screenshots/Demo1.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [iOS 10 Day by Day](https://github.com/ShinobiControls/iOS10-day-by-day): Code examples for the new functions in iOS 10  
-  <details>
-	<summary><code>swift</code> ⭐⭐⭐</summary>
-
-	Added September  2, 2016<br>  License: `other`<br>
-	<a href='https://www.shinobicontrols.com/wp-content/uploads/2016/07/App_Demo.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [iOS 11 by Examples](https://github.com/artemnovichkov/iOS-11-by-Examples): New iOS 11 APIs  
