@@ -7645,7 +7645,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "license": "mit",
       "source": "https://github.com/iSimar/HackerNews-React-Native",
@@ -16405,7 +16406,8 @@
       ],
       "license": "gpl-3.0",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "date_added": "Apr 14 2018",
       "suggested_by": "@geberl",
@@ -17850,7 +17852,8 @@
       "itunes": "https://apps.apple.com/app/id1463985601",
       "license": "apache-2.0",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/mkhrapov/tictactoe-ultimatum/master/img/tictactoe-ultimatum.png"
