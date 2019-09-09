@@ -225,7 +225,7 @@ Click ► to show more details
 	<a href='https://raw.githubusercontent.com/tirupati17/currency-converter-swift3.0-viper/master/CurrencyConverter/Resources/iphone_5s.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Free42](https://thomasokken.com/free42/download/free42.tgz): A re-implementation of the HP-42S Calculator & the HP-82240 printer [` App Store`](https://apps.apple.com/app/id337692629)  
+- [Free42](https://github.com/thomasokken/free42): A re-implementation of the HP-42S Calculator & the HP-82240 printer [` App Store`](https://apps.apple.com/app/id337692629)  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -962,7 +962,7 @@ Click ► to show more details
 	<summary><code>objc</code> ⭐⭐</summary>
 
 	Added May 19, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
-	<a href='http://a4.mzstatic.com/us/r30/Purple/v4/2a/60/50/2a6050d0-c040-3684-fb0f-1694fd1edde4/screen480x480.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/44/e6/90/mzl.phnmwflb.png/626x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple/10/9a/3d/mzl.npolzzhp.png/626x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/d5/81/f5/mzl.upixgdwf.png/626x0w.png'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple/95/05/2f/mzl.bntcgfqi.png/626x0w.png'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/c3/f9/35/mzl.ucjimflu.png/626x0w.png'><code>Screenshot 5</code></a> 
   </details>
 
 - [DropColour](https://github.com/elpassion/DropColour-iOS): Drag & drop one circle onto another of the same color [` App Store`](https://apps.apple.com/app/dropcolour/id1046339763)  
@@ -1050,7 +1050,7 @@ Click ► to show more details
 	<summary><code>objc</code> ⭐⭐</summary>
 
 	http://fabiensanglard.net/shmup/<br>  Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://a3.mzstatic.com/us/r30/Purple/v4/e2/ee/82/e2ee8263-7265-3376-ec94-604ab58e631a/screen320x480.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple117/v4/40/3a/21/403a21ac-9841-ab2b-4353-ce1f72a2c753/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/2b/f4/8f/2bf48f1f-70fd-33d3-3198-c18ee88e2414/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/c3/97/7e/c3977e1f-48c9-e4b6-5f94-a4a988a53567/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [Spare Parts](https://github.com/adamwulf/spare-parts-app): Simple 2D point & line physics using Verlet integration [` App Store`](https://apps.apple.com/app/spare-parts/id981297199)  
@@ -1558,7 +1558,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<summary><code>objc</code> </summary>
 
 	Added May 31, 2016<br>  License: `other`<br>
-	<a href='http://a1.mzstatic.com/us/r30/Purple/v4/2f/7c/cd/2f7ccdde-4478-b24b-7801-809b11b9e6f3/screen320x480.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/f1/46/9e/f1469ec5-e5d7-daf9-2d77-501aede04cb9/mzl.dzwpexqf.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/2c/65/d3/2c65d300-59f9-f41b-f57d-150b28351905/mzl.pjagxicy.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/3a/9b/ce/3a9bced7-ab7c-efba-e392-b953099aa233/mzl.evxxezuj.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 - [MovieDict](https://github.com/lurado/MovieDict): Offline dictionary for international movie titles [` App Store`](https://apps.apple.com/app/movieglot-what-do-they-call-it/id710587066)  
