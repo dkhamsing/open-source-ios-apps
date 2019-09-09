@@ -2547,7 +2547,11 @@
       "date_added": "Tue, 19 May 2015 07:30:30 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple/v4/2a/60/50/2a6050d0-c040-3684-fb0f-1694fd1edde4/screen480x480.jpeg"
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple/44/e6/90/mzl.phnmwflb.png/626x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple/10/9a/3d/mzl.npolzzhp.png/626x0w.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple/d5/81/f5/mzl.upixgdwf.png/626x0w.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple/95/05/2f/mzl.bntcgfqi.png/626x0w.png",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple/c3/f9/35/mzl.ucjimflu.png/626x0w.png"
       ]
     },
     {
@@ -4585,7 +4589,7 @@
       "category-ids": [
         "news"
       ],
-      "source": "https://github.com/Keinex/Keinex-iOS",
+      "source": "https://github.com/opensourceios/Keinex-iOS",
       "screenshots": [
         "https://github.com/Keinex/Keinex-iOS/blob/master/1.jpg",
         "https://github.com/Keinex/Keinex-iOS/blob/master/2.jpg"
@@ -9032,7 +9036,9 @@
       "date_added": "Tue May 31 22:58:38 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple/v4/2f/7c/cd/2f7ccdde-4478-b24b-7801-809b11b9e6f3/screen320x480.jpeg"
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/f1/46/9e/f1469ec5-e5d7-daf9-2d77-501aede04cb9/mzl.dzwpexqf.png/460x0w.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/2c/65/d3/2c65d300-59f9-f41b-f57d-150b28351905/mzl.pjagxicy.png/460x0w.jpg",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/3a/9b/ce/3a9bced7-ab7c-efba-e392-b953099aa233/mzl.evxxezuj.png/460x0w.jpg"
       ]
     },
     {
@@ -10007,7 +10013,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/7d/7d/ac7d7d47-ebf1-4dc4-b5cb-b07d60f929da/mzl.iizvrigs.png/460x0w.jpg"
       ],
       "description": "A re-implementation of the HP-42S Calculator & the HP-82240 printer",
-      "source": "https://thomasokken.com/free42/download/free42.tgz",
+      "source": "https://github.com/thomasokken/free42",
       "homepage": "https://thomasokken.com/free42/",
       "itunes": "https://apps.apple.com/app/id337692629",
       "license": "gpl-2.0",
@@ -10699,7 +10705,9 @@
       "date_added": "Tue Jul 12 15:39:38 2016 +0100",
       "suggested_by": "@Matthew Sanders",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple/v4/e2/ee/82/e2ee8263-7265-3376-ec94-604ab58e631a/screen320x480.jpeg"
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple117/v4/40/3a/21/403a21ac-9841-ab2b-4353-ce1f72a2c753/pr_source.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/2b/f4/8f/2bf48f1f-70fd-33d3-3198-c18ee88e2414/pr_source.png/460x0w.png",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/c3/97/7e/c3977e1f-48c9-e4b6-5f94-a4a988a53567/pr_source.png/460x0w.png"
       ]
     },
     {
@@ -11638,7 +11646,8 @@
       ],
       "license": "other",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "stars": 640,
       "screenshots": [
