@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **228** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **226** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -798,14 +798,6 @@ Click ► to show more details
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/b0/cc/e8/b0cce897-0e91-db42-fb0d-a3e7f1b8c91a/mzl.kfmaddan.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/73/00/4c/73004c98-1b29-5dd2-4e61-1f83a309ded6/mzl.tsjggnvf.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/3d/a3/a4/3da3a42f-9ebf-a80f-4930-dee1dc0f24ef/mzl.zejyzppj.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/86/98/fc/8698fcbe-6761-7bf8-a86f-053ebe1848db/mzl.yqxbksxf.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [Local Storage](https://github.com/geberl/swift-localstorage): Save files on your device, visualize storage use, unzip, hash [` App Store`](https://apps.apple.com/app/id1339306324)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added April 14, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://i.imgur.com/t0okveQ.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Nextcloud](https://github.com/nextcloud/ios): A safe home for all your data [` App Store`](https://apps.apple.com/app/nextcloud/id1125420102)  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐</summary>
@@ -1045,6 +1037,14 @@ Click ► to show more details
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'><code>Screenshot 2</code></a> 
   </details>
 
+- [Sansumoku](https://github.com/mkhrapov/sansumoku): A 2-player board game. A mash-up of Sudoku and Ultimate Tic-Tac-Toe [` App Store`](https://apps.apple.com/app/id1458250030)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://www.sansumoku.com/<br>  Added September  6, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://raw.githubusercontent.com/mkhrapov/sansumoku/master/img/sansumoku.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [SHMUP](https://github.com/fabiensanglard/Shmup): 3D multiplatform game written primarily in C [` App Store`](https://apps.apple.com/app/shmup/id337663605)  
   <details>
 	<summary><code>objc</code> ⭐⭐</summary>
@@ -1059,14 +1059,6 @@ Click ► to show more details
 
 	Added April  6, 2015<br>  License: `other`<br>
 	<a href='http://a2.mzstatic.com/us/r30/Purple5/v4/22/a4/44/22a444e1-7626-03ee-05e7-6bdf58ea577d/screen480x480.jpeg'><code>Screenshot 1</code></a> 
-  </details>
-
-- [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum): Clone of Ultimate Tic-Tac-Toe [` App Store`](https://apps.apple.com/app/id1463985601)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	https://www.tictactoeultimatum.com/<br>  Added June 13, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://raw.githubusercontent.com/mkhrapov/tictactoe-ultimatum/master/img/tictactoe-ultimatum.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS): Wolfenstein 3D for iOS [` App Store`](https://apps.apple.com/app/wolfenstein-3d-classic-platinum/id309470478)  
@@ -2501,14 +2493,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 	Added July 14, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'><code>Screenshot 2</code></a> 
-  </details>
-
-- [Hacker News app by iSimar](https://github.com/iSimar/HackerNews-React-Native) [` App Store`](https://apps.apple.com/app/hacker-news-reader-react-native/id1067161633)  
-  <details>
-	<summary><code>react native</code> ⭐⭐⭐⭐⭐</summary>
-
-	Added July 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/4e/a0/af/4ea0af4c-b04e-da6f-592f-a21be9659455/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/56/c0/ea/56c0ea6b-c9dd-2ccb-ed60-fd7444417c58/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple69/v4/b2/b9/27/b2b927bf-06d2-ba0c-221b-56b4f5370859/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/cf/81/a6/cf81a63a-6967-2009-36a4-8bcfe75d0bed/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [Keybase](https://github.com/keybase/client) [` App Store`](https://apps.apple.com/app/keybase-crypto-for-everyone/id1044461770)  
