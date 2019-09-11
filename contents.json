@@ -17918,6 +17918,7 @@
       "description": "KeePass-compatible password manager with support for automatic database synchronization, respect to privacy and premium user experience",
       "source": "https://github.com/keepassium/KeePassium",
       "homepage": "https://keepassium.com/",
+      "itunes": "https://apps.apple.com/app/keepassium-password-manager/id1435127111",
       "tags": [
         "swift"
       ],
@@ -17985,6 +17986,8 @@
       "description": "Firewall for your device",
       "source": "https://github.com/confirmedcode/lockdown-ios",
       "homepage": "https://lockdownhq.com",
+      "itunes": "https://apps.apple.com/app/lockdown-apps/id1469783711",
+
       "screenshots": [
         "https://lockdownhq.com/images/iphone-screenshot.jpg"
       ],
@@ -18117,9 +18120,9 @@
         "password"
       ],
       "tags": [
-        "swift"
+        "objc"
       ],
-      "description": "A Safe Client for KeepPass/Password",
+      "description": "A Safe Client for KeePass/Password",
       "homepage": "https://strongboxsafe.com/",
       "source": "https://github.com/strongbox-password-safe/Strongbox",
       "itunes": "https://apps.apple.com/app/strongbox-password-safe/id897283731",
@@ -18169,6 +18172,41 @@
       ],
       "date_added": "Sep 6 2019",            
       "suggested_by": "@arthurhammer" 
-     }
-  ]
-}
+     },
+     {
+      "title": "Adguard Pro",
+      "category-ids": [
+        "security"
+      ],
+      "description": "System-wide ad blocker for iOS",
+      "license": "gpl-3.0",
+      "source": "https://github.com/AdguardTeam/AdguardForiOS",
+      "itunes": "https://apps.apple.com/app/adguard-pro-adblock-privacy/id1126386264",
+      "stars": 545,
+      "tags": [
+        "objc"
+      ],
+      "date_added": "Sep 11 2019",
+      "suggested_by": "@iOS6martinaa",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/28860202/37027267-e9cf7534-2141-11e8-89fd-3fc99c3f2c86.png",
+        "https://user-images.githubusercontent.com/28860202/37027271-ec5f5972-2141-11e8-884b-038d73fb68ae.png"
+      },
+      {
+      "title": "DNSCloak",
+      "category-ids": [
+        "security"
+      ],
+      "description": "System-wide ad blocker for iOS",
+      "license": "gpl-3.0",
+      "source": "https://github.com/s-s/dnscloak",
+      "itunes": "https://apps.apple.com/app/dnscloak-secure-dns-client/id1452162351",
+      "stars": 77,
+      "tags": [
+        "objc"
+      ],
+      "date_added": "Sep 11 2019",
+      "suggested_by": "@iOS6martinaa",
+      ]
+    },
+
