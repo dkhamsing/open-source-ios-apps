@@ -17815,7 +17815,7 @@
 			"category-ids": [
 				"media"
 			],
-			"description": "Import PDF presentations as vector images into Keynote for iOS.",
+			"description": "Import PDF presentations as vector images into Keynote",
 			"source": "https://github.com/LumingYin/PDFToKeynote-iOS",
 			"itunes": "https://apps.apple.com/app/pdf-to-keynote/id1461682846",
 			"license": "mit",
@@ -18176,7 +18176,7 @@
 			"category-ids": [
 				"security"
 			],
-			"description": "System-wide ad blocker for iOS",
+			"description": "Adblocker and anti-tracking",
 			"license": "gpl-3.0",
 			"source": "https://github.com/AdguardTeam/AdguardForiOS",
 			"itunes": "https://apps.apple.com/app/adguard-pro-adblock-privacy/id1126386264",
@@ -18196,7 +18196,7 @@
 			"category-ids": [
 				"security"
 			],
-			"description": "System-wide ad blocker for iOS",
+			"description": "Override & secure DNS queries",
 			"license": "gpl-3.0",
 			"source": "https://github.com/s-s/dnscloak",
 			"itunes": "https://apps.apple.com/app/dnscloak-secure-dns-client/id1452162351",
