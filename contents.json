@@ -16494,7 +16494,7 @@
 			"category-ids": [
 				"content-blocking"
 			],
-			"description": "Content blocker for Safari browser",
+			"description": "Adblocker and anti-tracking",
 			"license": "gpl-3.0",
 			"source": "https://github.com/AdguardTeam/AdguardForiOS",
 			"itunes": "https://apps.apple.com/app/adguard-adblock-privacy/id1047223162",
@@ -18170,26 +18170,6 @@
 			],
 			"date_added": "Sep 6 2019",
 			"suggested_by": "@arthurhammer"
-		},
-		{
-			"title": "Adguard Pro",
-			"category-ids": [
-				"security"
-			],
-			"description": "Adblocker and anti-tracking",
-			"license": "gpl-3.0",
-			"source": "https://github.com/AdguardTeam/AdguardForiOS",
-			"itunes": "https://apps.apple.com/app/adguard-pro-adblock-privacy/id1126386264",
-			"stars": 545,
-			"tags": [
-				"objc"
-			],
-			"date_added": "Sep 11 2019",
-			"suggested_by": "@iOS6martinaa",
-			"screenshots": [
-				"https://user-images.githubusercontent.com/28860202/37027267-e9cf7534-2141-11e8-89fd-3fc99c3f2c86.png",
-				"https://user-images.githubusercontent.com/28860202/37027271-ec5f5972-2141-11e8-884b-038d73fb68ae.png"
-			]
 		},
 		{
 			"title": "DNSCloak",
