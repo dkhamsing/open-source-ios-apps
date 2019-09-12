@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-895-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%20%209,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-897-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%2012,%202019-lightgrey.svg)
 
 Jump to
 
@@ -4523,6 +4523,21 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 [back to top](#readme) 
  
+- [Adguard Pro](https://github.com/AdguardTeam/AdguardForiOS): System-wide ad blocker for iOS [` App Store`](https://apps.apple.com/app/adguard-pro-adblock-privacy/id1126386264)  
+  <details>
+	<summary><code>objc</code> ⭐⭐⭐</summary>
+
+	Added September 11, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://user-images.githubusercontent.com/28860202/37027267-e9cf7534-2141-11e8-89fd-3fc99c3f2c86.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/28860202/37027271-ec5f5972-2141-11e8-884b-038d73fb68ae.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [DNSCloak](https://github.com/s-s/dnscloak): System-wide ad blocker for iOS [` App Store`](https://apps.apple.com/app/dnscloak-secure-dns-client/id1452162351)  
+  <details>
+	<summary><code>objc</code> </summary>
+
+	Added September 11, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+
 - [Easy Diceware](https://github.com/cfdrake/easy-diceware): Passphrase generator  
   <details>
 	<summary><code>swift</code> </summary>
@@ -4561,7 +4576,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/22/51/55/22515500-8c22-2d00-04d7-6e8963bbee16/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/bb/e9/4abbe96e-bbb0-8e2f-86f2-19c42f9409b8/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/de/b1/fa/deb1fae0-1b01-7f38-fbe9-3106315a036e/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/db/14/fb/db14fbe9-1b59-8403-efe4-01f0753a4fa9/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [Lockdown](https://github.com/confirmedcode/lockdown-ios): Firewall for your device  
+- [Lockdown](https://github.com/confirmedcode/lockdown-ios): Firewall for your device [` App Store`](https://apps.apple.com/app/lockdown-apps/id1469783711)  
   <details>
 	<summary><code>swift</code> ⭐⭐</summary>
 
@@ -4646,7 +4661,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='http://a4.mzstatic.com/us/r30/Purple5/v4/66/8b/9c/668b9cf1-3502-3683-7787-ef450ef90019/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [KeePassium](https://github.com/keepassium/KeePassium): KeePass-compatible password manager with support for automatic database synchronization, respect to privacy and premium user experience  
+- [KeePassium](https://github.com/keepassium/KeePassium): KeePass-compatible password manager with support for automatic database synchronization, respect to privacy and premium user experience [` App Store`](https://apps.apple.com/app/keepassium-password-manager/id1435127111)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -4694,9 +4709,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/01/0b/45/010b456f-5226-9eb5-5284-26f80b45896f/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/69/7c/37/697c371b-40a1-d2f4-4773-ee0595dee739/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/71/c3/d071c3c2-2a1f-f354-b7a4-686d5b6b8789/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/56/e5/b5/56e5b5cc-0b67-d210-8551-89622ab34538/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
-- [Strongbox](https://github.com/strongbox-password-safe/Strongbox): A Safe Client for KeepPass/Password [` App Store`](https://apps.apple.com/app/strongbox-password-safe/id897283731)  
+- [Strongbox](https://github.com/strongbox-password-safe/Strongbox): A Safe Client for KeePass/Password [` App Store`](https://apps.apple.com/app/strongbox-password-safe/id897283731)  
   <details>
-	<summary><code>swift</code> ⭐</summary>
+	<summary><code>objc</code> ⭐</summary>
 
 	https://strongboxsafe.com/<br>  Added September  5, 2019<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/77/67/c3/7767c3b9-09f8-8af0-3389-a01f4a3b3265/mzl.wkjuejow.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/55/08/4a5508a9-e74c-8cac-8499-c09f375c205c/mzl.rimzypzn.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/d2/9b/58/d29b58d3-30a2-9bfc-7c11-dac8d281bf43/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/fe/33/89fe3374-808d-7583-b4de-ec24198506a1/mzl.xdysdjdb.png/460x0w.jpg'><code>Screenshot 4</code></a> 
