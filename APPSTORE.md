@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **229** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -716,7 +716,7 @@ Click ► to show more details
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple18/v4/63/2b/11/632b11db-df92-33ba-c29b-7270b3640719/mzm.tllrdtsg.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple6/v4/29/04/d2/2904d25f-f6a9-dbbf-831c-40a147b5212c/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple6/v4/71/4c/32/714c32c6-f775-66ae-a78c-7e2b53f0c864/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/61/de/b9/61deb9d6-885c-ae67-3afe-dc0400a9f299/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/0e/f4/8e/0ef48e26-1547-6765-0b0e-6c1be98c4a2c/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Adguard](https://github.com/AdguardTeam/AdguardForiOS): Content blocker for Safari browser [` App Store`](https://apps.apple.com/app/adguard-adblock-privacy/id1047223162)  
+- [Adguard](https://github.com/AdguardTeam/AdguardForiOS): Adblocker and anti-tracking [` App Store`](https://apps.apple.com/app/adguard-adblock-privacy/id1047223162)  
   <details>
 	<summary><code>objc</code> <code>javascript</code> ⭐⭐⭐</summary>
 
@@ -1394,7 +1394,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/ac/f7/c3acf7d1-9fb6-a5bc-6e09-8ccc70bf3e97/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/77/69/aa/7769aa4a-5e2f-f145-f89e-541c94ac74a7/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/62/0b/52/620b5289-7cdb-fa7a-4883-0d3565d87690/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS): Import PDF presentations as vector images into Keynote for iOS. [` App Store`](https://apps.apple.com/app/pdf-to-keynote/id1461682846)  
+- [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS): Import PDF presentations as vector images into Keynote [` App Store`](https://apps.apple.com/app/pdf-to-keynote/id1461682846)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -1982,15 +1982,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Adguard Pro](https://github.com/AdguardTeam/AdguardForiOS): System-wide ad blocker for iOS [` App Store`](https://apps.apple.com/app/adguard-pro-adblock-privacy/id1126386264)  
-  <details>
-	<summary><code>objc</code> ⭐⭐⭐</summary>
-
-	Added September 11, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://user-images.githubusercontent.com/28860202/37027267-e9cf7534-2141-11e8-89fd-3fc99c3f2c86.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/28860202/37027271-ec5f5972-2141-11e8-884b-038d73fb68ae.png'><code>Screenshot 2</code></a> 
-  </details>
-
-- [DNSCloak](https://github.com/s-s/dnscloak): System-wide ad blocker for iOS [` App Store`](https://apps.apple.com/app/dnscloak-secure-dns-client/id1452162351)  
+- [DNSCloak](https://github.com/s-s/dnscloak): Override & secure DNS queries [` App Store`](https://apps.apple.com/app/dnscloak-secure-dns-client/id1452162351)  
   <details>
 	<summary><code>objc</code> </summary>
 
