@@ -18190,7 +18190,7 @@
 		{
 			"title": "Passepartout",
 			"category-ids": ["security"],
-			"description": "User-friendly OpenVPN client app for iOS",
+			"description": "User-friendly OpenVPN client app",
 			"license": "gpl-3.0",
 			"source": "https://github.com/passepartoutvpn/passepartout-ios",
 			"itunes": "https://apps.apple.com/us/app/passepartout-openvpn-client/id1433648537",
