@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **229** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -2010,6 +2010,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	https://lockdownhq.com<br>  Added August 24, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://lockdownhq.com/images/iphone-screenshot.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Passepartout](https://github.com/passepartoutvpn/passepartout-ios): User-friendly OpenVPN client app [` App Store`](https://apps.apple.com/us/app/passepartout-openvpn-client/id1433648537)  
+  <details>
+	<summary></summary>
+
+	Added September 19, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-home.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-profile.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-trusted.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-parameters.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-network.png'><code>Screenshot 5</code></a> 
   </details>
 
 - [Prey](https://github.com/prey/prey-ios-client): Track lost or stolen devices & perform actions remotely [` App Store`](https://apps.apple.com/app/id456755037)  
