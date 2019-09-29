@@ -18182,7 +18182,8 @@
 			"itunes": "https://apps.apple.com/app/dnscloak-secure-dns-client/id1452162351",
 			"stars": 77,
 			"tags": [
-				"objc"
+				"objc",
+				"cordova"
 			],
 			"date_added": "Sep 11 2019",
 			"suggested_by": "@iOS6martinaa"
