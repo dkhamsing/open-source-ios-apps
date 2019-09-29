@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-897-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%2020,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-899-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%2029,%202019-lightgrey.svg)
 
 Jump to
 
@@ -4525,7 +4525,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 - [DNSCloak](https://github.com/s-s/dnscloak): Override & secure DNS queries [` App Store`](https://apps.apple.com/app/dnscloak-secure-dns-client/id1452162351)  
   <details>
-	<summary><code>objc</code> </summary>
+	<summary><code>objc</code> <code>cordova</code> </summary>
 
 	Added September 11, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
@@ -4576,9 +4576,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://lockdownhq.com/images/iphone-screenshot.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Passepartout](https://github.com/passepartoutvpn/passepartout-ios): User-friendly OpenVPN client app [` App Store`](https://apps.apple.com/us/app/passepartout-openvpn-client/id1433648537)  
+- [Passepartout](https://github.com/passepartoutvpn/passepartout-ios): User-friendly OpenVPN app [` App Store`](https://apps.apple.com/us/app/passepartout-openvpn-client/id1433648537)  
   <details>
-	<summary></summary>
+	<summary><code>swift</code> <code>mbprogresshud</code> </summary>
 
 	Added September 19, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-home.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-profile.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-trusted.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-parameters.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-network.png'><code>Screenshot 5</code></a> 
@@ -5239,6 +5239,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/82/86/9a/82869afe-dccb-3e52-b00b-91ba0f19e614/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/47/35/bc473541-4b25-9efb-157b-e45af89e6888/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/fa/4b/32/fa4b326d-188d-2bae-63e5-72c10647b241/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/01/b0/9c/01b09cf3-32b2-6ea5-eebb-bcf30dcead43/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/9e/f2/1e/9ef21e03-3269-dae2-3f02-25950320e786/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
+- [AltStore](https://github.com/rileytestut/AltStore): An alternate App Store, no jailbreak required  
+  <details>
+	<summary><code>swift</code> <code>nuke</code> <code>keychainaccess</code> ⭐⭐</summary>
+
+	https://altstore.io<br>  License: `other`<br>
+	<a href='https://icdn5.digitaltrends.com/image/digitaltrends/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb1-768x1367.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
 - [AssociationBot](https://github.com/alexsosn/AssociationBot): Game chatbot with word association & image recognition  
   <details>
 	<summary><code>ai</code> <code>machine-learning</code> <code>natural-language-processing</code> <code>neural-network</code> <code>word2vec</code> </summary>
@@ -5381,6 +5389,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added February 19, 2016<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/17/94/ec/1794ec78-67db-8a38-ae0a-89f87503fe67/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/a7/06/8c/a7068c91-de5f-b891-e3a9-34e00c9e3d77/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/3f/19/54/3f1954e5-355a-b143-0b2b-36a8267e5d64/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple5/v4/03/bd/09/03bd09ac-1a58-0ca4-4c72-f46f8bed3b38/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
+  </details>
+
+- [OctoPod](https://github.com/gdombiak/OctoPod): OctoPrint app  
+  <details>
+	<summary><code>swift</code> <code>starscream</code> <code>charts</code> </summary>
+
+	License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://github.com/gdombiak/OctoPod/raw/master/screenshots/OctoPod_Panel.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [ooniprobe](https://github.com/ooni/probe-ios): Detect internet censorship & test your network's speed [` App Store`](https://apps.apple.com/app/id1199566366)  
