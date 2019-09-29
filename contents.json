@@ -18190,7 +18190,8 @@
 		{
 			"title": "Passepartout",
 			"category-ids": ["security"],
-			"description": "User-friendly OpenVPN client app",
+			"tags": ["mbprogresshud", "swift"],
+			"description": "User-friendly OpenVPN app",
 			"license": "gpl-3.0",
 			"source": "https://github.com/passepartoutvpn/passepartout-ios",
 			"itunes": "https://apps.apple.com/us/app/passepartout-openvpn-client/id1433648537",
