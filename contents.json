@@ -18215,6 +18215,16 @@
 			"tags": ["swift", "nuke", "keychainaccess"],
 			"stars": 472,
 			"screenshots": ["https://icdn5.digitaltrends.com/image/digitaltrends/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb1-768x1367.jpg"]
+		},
+		{
+			"title": "OctoPod",
+			"source": "https://github.com/gdombiak/OctoPod",
+			"description": "OctoPrint app",
+			"screenshots": ["https://github.com/gdombiak/OctoPod/raw/master/screenshots/OctoPod_Panel.png"],
+			"tags": ["starscream", "charts", "swift"],
+			"license": "apache-2.0",
+			"stars": 42,
+			"category-ids": ["misc"]
 		}
 	]
 }
