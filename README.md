@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-899-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%2029,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-899-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-September%2030,%202019-lightgrey.svg)
 
 Jump to
 
@@ -2025,7 +2025,7 @@ Click ► to show more details
 	<a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/balance.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/transactions.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/settings.png'><code>Screenshot 3</code></a> 
   </details>
 
-- [Wei Wallet](https://github.com/popshootjapan/WeiWallet-iOS): Ethereum wallet [` App Store`](https://apps.apple.com/app/wei-wallet/id1376979142)  
+- [Wei Wallet](https://github.com/popshootjapan/WeiWallet-iOS): Ethereum wallet  
   <details>
 	<summary><code>swift</code> <code>swinject</code> 🌐 ⭐⭐</summary>
 
@@ -2220,7 +2220,7 @@ Click ► to show more details
 	<a href='https://user-images.githubusercontent.com/3216424/27571005-10f73774-5b35-11e7-9a84-c0b720280fc1.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Green Mahjong](https://github.com/danbeck/green-mahjong): Solitaire mahjong [` App Store`](https://apps.apple.com/app/id933634500)  
+- [Green Mahjong](https://github.com/danbeck/green-mahjong): Solitaire mahjong  
   <details>
 	<summary><code>javascript</code> <code>netbeans</code> </summary>
 
@@ -3649,7 +3649,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/jnordberg/triggy/master/triggy.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [VK Photos](https://github.com/Stmol/vkphotos): Image gallery for social network VK.com [` App Store`](https://apps.apple.com/app/id1435811369)  
+- [VK Photos](https://github.com/Stmol/vkphotos): Image gallery for social network VK.com  
   <details>
 	<summary><code>swift</code> <code>flux</code> <code>rxswift</code> </summary>
 
@@ -3783,7 +3783,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<summary><code>objc</code> 🌐 ⭐⭐⭐⭐</summary>
 
 	Added April 19, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://i.v2ex.co/EwnuC7uf.png'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/KPGpXZc.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/9a1Cxhr.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/x3kp87P.png'><code>Screenshot 3</code></a> <a href='https://i.imgur.com/9wKiGIm.png'><code>Screenshot 4</code></a> <a href='https://i.imgur.com/bQbQmbQ.png'><code>Screenshot 5</code></a> 
   </details>
 
 - [ZeitSuche](https://github.com/niftycode/ZeitSuche_iOS): Search for articles published by Germany's 'Zeit' newspaper  
@@ -5359,7 +5359,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/db/30/13/db301357-71d6-46b1-1eb1-153076a3dcde/mzl.lgwcughc.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple6/v4/d9/80/ba/d980ba2c-ee74-912d-ed69-31e6ee8e4a13/mzl.aheiwncb.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/be/3c/db/be3cdbb6-2a30-2d5f-898f-4d7f71112c9b/mzl.ctjthyav.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple4/v4/d5/a5/d8/d5a5d8fd-7d20-129d-c1a2-6aa46943bd6c/mzl.xqnovjbn.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple/v4/3b/f0/0b/3bf00b84-d0f5-f502-d00a-f624d4f58f89/mzl.sdjokgxw.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Locations for LOST](https://github.com/AdrienVillez/LOST-Location): A movie scenes finder [` App Store`](https://apps.apple.com/app/locations-for-lost/id1286799669)  
+- [Locations for LOST](https://github.com/AdrienVillez/LOST-Location): A movie scenes finder  
   <details>
 	<summary><code>swift</code> </summary>
 
