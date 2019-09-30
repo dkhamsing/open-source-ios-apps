@@ -12177,7 +12177,6 @@
 				"game"
 			],
 			"source": "https://github.com/danbeck/green-mahjong",
-			"itunes": "https://apps.apple.com/app/id933634500",
 			"tags": [
 				"javascript",
 				"netbeans"
@@ -16386,7 +16385,6 @@
 			],
 			"description": "A movie scenes finder",
 			"source": "https://github.com/AdrienVillez/LOST-Location",
-			"itunes": "https://apps.apple.com/app/locations-for-lost/id1286799669",
 			"license": "mit",
 			"stars": 8,
 			"tags": [
@@ -17257,7 +17255,6 @@
 			],
 			"description": "Image gallery for social network VK.com",
 			"source": "https://github.com/Stmol/vkphotos",
-			"itunes": "https://apps.apple.com/app/id1435811369",
 			"license": "gpl-3.0",
 			"stars": 18,
 			"tags": [
