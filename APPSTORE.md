@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **226** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -920,14 +920,6 @@ Click ► to show more details
 	<a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/balance.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/transactions.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/settings.png'><code>Screenshot 3</code></a> 
   </details>
 
-- [Wei Wallet](https://github.com/popshootjapan/WeiWallet-iOS): Ethereum wallet [` App Store`](https://apps.apple.com/app/wei-wallet/id1376979142)  
-  <details>
-	<summary><code>swift</code> <code>swinject</code> 🌐 ⭐⭐</summary>
-
-	License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://raw.githubusercontent.com/popshootjapan/WeiWallet-iOS/master/resources/cover_img.png'><code>Screenshot 1</code></a> 
-  </details>
-
 
 ## Game 
  
@@ -987,14 +979,6 @@ Click ► to show more details
 
 	https://github.com/ifrotz/iosfrotz/blob/wiki/FrotzMain.md<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/44/c4/bc44c4a0-cfa4-77c9-fc27-2da0748cbe77/mzl.vxovhixx.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/3c/37/e1/3c37e1c2-82cb-5633-63a7-2e3268b28f19/mzl.tekdjhho.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/ec/c8/b9/ecc8b9c9-fed6-518c-1595-094bd89a1ebb/mzl.sxvcmhhb.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/cc/ac/ce/ccacce90-af76-33b8-7481-1056b102ebb4/mzl.qrenfxgg.png/460x0w.jpg'><code>Screenshot 4</code></a> 
-  </details>
-
-- [Green Mahjong](https://github.com/danbeck/green-mahjong): Solitaire mahjong [` App Store`](https://apps.apple.com/app/id933634500)  
-  <details>
-	<summary><code>javascript</code> <code>netbeans</code> </summary>
-
-	Added October 27, 2016<br>  License: `other`<br>
-	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple82/v4/b3/d9/e0/b3d9e090-f360-766a-7750-1f8d0a96efae/mzl.piurazqx.png/626x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/11/aa/33/11aa3355-a041-b0de-b61f-aef5cbe37eb7/mzl.rpmbaxie.png/626x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/e2/fa/b1/e2fab17a-edff-168d-3af1-02fe2ed55b02/mzl.docwqcoz.png/626x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/fb/f8/f8/fbf8f894-bbaa-4d5c-23ed-0281dbca5092/mzl.bdvdlyfg.png/626x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/7f/0b/5b/7f0b5bdc-0339-bffd-3f4e-7cb8ea2b8823/mzl.pdsxyfac.png/626x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [Hedgewars](http://hg.hedgewars.org/hedgewars/): A turn-based strategy game [` App Store`](https://apps.apple.com/app/id391234866)  
@@ -1656,14 +1640,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 	Added May 18, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://raw.githubusercontent.com/jnordberg/triggy/master/triggy.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
-- [VK Photos](https://github.com/Stmol/vkphotos): Image gallery for social network VK.com [` App Store`](https://apps.apple.com/app/id1435811369)  
-  <details>
-	<summary><code>swift</code> <code>flux</code> <code>rxswift</code> </summary>
-
-	Added October 10, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen1.jpg?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen2.jpg?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen3.jpg?raw=true'><code>Screenshot 3</code></a> 
   </details>
 
 - [WeAre](https://github.com/SherlockQi/HeavenMemoirs): Augmented reality album [` App Store`](https://apps.apple.com/app/weare/id1304227680)  
@@ -2417,14 +2393,6 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added June  2, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/db/30/13/db301357-71d6-46b1-1eb1-153076a3dcde/mzl.lgwcughc.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple6/v4/d9/80/ba/d980ba2c-ee74-912d-ed69-31e6ee8e4a13/mzl.aheiwncb.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/be/3c/db/be3cdbb6-2a30-2d5f-898f-4d7f71112c9b/mzl.ctjthyav.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple4/v4/d5/a5/d8/d5a5d8fd-7d20-129d-c1a2-6aa46943bd6c/mzl.xqnovjbn.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple/v4/3b/f0/0b/3bf00b84-d0f5-f502-d00a-f624d4f58f89/mzl.sdjokgxw.png/460x0w.jpg'><code>Screenshot 5</code></a> 
-  </details>
-
-- [Locations for LOST](https://github.com/AdrienVillez/LOST-Location): A movie scenes finder [` App Store`](https://apps.apple.com/app/locations-for-lost/id1286799669)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added April 14, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d9/96/1d/d9961d27-0750-2d77-9b3d-1d327d349b73/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/2c/8c/48/2c8c480c-86e1-40db-dd0a-fb2aebe1f698/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/db/36/9b/db369b6e-407f-3a50-46eb-a066b26bfb80/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/fa/9d/c2/fa9dc286-019b-9698-c1ef-f9b3a8b2f4ae/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [MADBike](https://github.com/alexruperez/MADBike): BiciMAD app with its own style and design [` App Store`](https://apps.apple.com/app/madbike/id1067596651)  
