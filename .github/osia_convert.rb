@@ -160,7 +160,7 @@ def output_badges(count)
   date_display = date.strftime "%B %e, %Y"
   date_display = date_display.gsub ' ', '%20'
 
-  b = "![](https://img.shields.io/badge/Projects-#{count}-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-#{date_display}-lightgrey.svg)"
+  b = "[![Build Status](https://travis-ci.org/dkhamsing/open-source-ios-apps.svg?branch=master)](https://travis-ci.org/dkhamsing/open-source-ios-apps/) ![](https://img.shields.io/badge/Projects-#{count}-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-#{date_display}-lightgrey.svg)"
 end
 
 def output_stars(number)
