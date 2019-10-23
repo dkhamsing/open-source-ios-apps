@@ -18256,6 +18256,24 @@
       "category-ids": [
         "misc"
       ]
+    },
+    {
+      "title": "giphy-mvvm-swift",
+      "source": "https://github.com/tirupati17/giphy-mvvm-swift",
+      "description": "iOS app based on __MVVM (Model–view–viewmodel)__ software architectural pattern.",
+      "screenshots": [
+        "https://github.com/tirupati17/giphy-mvvm-swift/blob/master/screenshots/giphy.png"
+      ],
+      "tags": [
+        "mvvm",
+        "swift"
+      ],
+      "date_added": "Oct 23 2019",
+      "suggested_by": "@tirupati17",
+      "license": "mit",
+      "category-ids": [
+        "social"
+      ]
     }
   ]
 }
