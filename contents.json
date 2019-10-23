@@ -18274,6 +18274,26 @@
       "category-ids": [
         "social"
       ]
+    },
+    {
+      "title": "contacts-mvp-swift",
+      "source": "https://github.com/tirupati17/contacts-mvp-swift",
+      "description": "iOS app based on MVP (Model View Presenter) software architectural pattern.",
+      "screenshots": [
+        "https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot1.png",
+        "https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot2.png"
+      ],
+      "tags": [
+        "mvp",
+        "swift",
+        "contacts"
+      ],
+      "date_added": "Oct 23 2019",
+      "suggested_by": "@tirupati17",
+      "license": "mit",
+      "category-ids": [
+        "mvp"
+      ]
     }
   ]
 }
