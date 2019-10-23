@@ -18260,7 +18260,7 @@
     {
       "title": "giphy-mvvm-swift",
       "source": "https://github.com/tirupati17/giphy-mvvm-swift",
-      "description": "iOS app based on __MVVM (Model–view–viewmodel)__ software architectural pattern.",
+      "description": "App based on MVVM (Model–view–viewmodel) software architectural pattern.",
       "screenshots": [
         "https://github.com/tirupati17/giphy-mvvm-swift/blob/master/screenshots/giphy.png"
       ],
@@ -18272,13 +18272,13 @@
       "suggested_by": "@tirupati17",
       "license": "mit",
       "category-ids": [
-        "social"
+        "misc"
       ]
     },
     {
       "title": "contacts-mvp-swift",
       "source": "https://github.com/tirupati17/contacts-mvp-swift",
-      "description": "iOS app based on MVP (Model View Presenter) software architectural pattern.",
+      "description": "App based on MVP (Model View Presenter) software architectural pattern.",
       "screenshots": [
         "https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot1.png",
         "https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot2.png"
@@ -18292,7 +18292,7 @@
       "suggested_by": "@tirupati17",
       "license": "mit",
       "category-ids": [
-        "mvp"
+        "misc"
       ]
     }
   ]
