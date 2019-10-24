@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-899-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October%20%204,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-901-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October%2024,%202019-lightgrey.svg)
 
 Jump to
 
@@ -5303,6 +5303,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/Menu_App_Preview_640x1096.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/App_Preview_640x1096.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/Language_App_Preview_640x1096.png'><code>Screenshot 3</code></a> 
   </details>
 
+- [contacts-mvp-swift](https://github.com/tirupati17/contacts-mvp-swift): App based on MVP (Model View Presenter) software architectural pattern.  
+  <details>
+	<summary><code>swift</code> <code>mvp</code> <code>contacts</code> </summary>
+
+	Added October 23, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot1.png'><code>Screenshot 1</code></a> <a href='https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot2.png'><code>Screenshot 2</code></a> 
+  </details>
+
 - [CutTheNotch](https://github.com/Naituw/CutTheNotch): This app helps your create an illusion that you can hide the notch  
   <details>
 	<summary><code>swift</code> </summary>
@@ -5325,6 +5333,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	http://www.freerdp.com/<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/b0/a5/9a/b0a59a26-836b-8a60-9e33-d562e945a7fb/mzl.royofexn.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple2/v4/4d/15/ce/4d15ce25-faff-baa6-2f73-d5e77718a0d6/mzl.niuitotb.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/v4/e9/56/2d/e9562d0d-02a3-73a0-1523-a79dfe190967/mzl.bfucaujc.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple2/v4/23/a1/2b/23a12beb-b1aa-82b9-b9fd-50b622685114/mzl.ydgieukd.png/460x0w.jpg'><code>Screenshot 4</code></a> 
+  </details>
+
+- [giphy-mvvm-swift](https://github.com/tirupati17/giphy-mvvm-swift): App based on MVVM (Model–view–viewmodel) software architectural pattern.  
+  <details>
+	<summary><code>swift</code> <code>mvvm</code> </summary>
+
+	Added October 23, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/tirupati17/giphy-mvvm-swift/blob/master/screenshots/giphy.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Hackfoldr](https://github.com/hackfoldr/hackfoldr-iOS): Share all your project documents with a link [` App Store`](https://apps.apple.com/app/hackfoldr/id919010837)  
