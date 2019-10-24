@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Passepartout](https://github.com/passepartoutvpn/passepartout-ios)
-2. [DNSCloak](https://github.com/s-s/dnscloak)
-3. [Frame Grabber](https://github.com/arthurhammer/FrameGrabber)
-4. [Sansumoku](https://github.com/mkhrapov/sansumoku)
-5. [Strongbox](https://github.com/strongbox-password-safe/Strongbox)
-6. [BookStore-iOS](https://github.com/nsoojin/BookStore-iOS)
-7. [Slide for Reddit](https://github.com/ccrama/Slide-iOS)
-8. [Iris.iOS](https://github.com/Neko3000/Iris.iOS)
-9. [Remote](https://github.com/michaelvillar/remote)
-10. [Flappy Royale](https://github.com/flappy-royale/flappy-royale)
-11. [GRDBCombine](https://github.com/groue/GRDBCombine)
-12. [Lockdown](https://github.com/confirmedcode/lockdown-ios)
-13. [Ghostery Privacy Browser](https://github.com/ghostery/browser-ios)
-14. [afone](https://github.com/automat-berlin/afone/)
-15. [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios)
+1. [contacts-mvp-swift](https://github.com/tirupati17/contacts-mvp-swift)
+2. [giphy-mvvm-swift](https://github.com/tirupati17/giphy-mvvm-swift)
+3. [Passepartout](https://github.com/passepartoutvpn/passepartout-ios)
+4. [DNSCloak](https://github.com/s-s/dnscloak)
+5. [Frame Grabber](https://github.com/arthurhammer/FrameGrabber)
+6. [Sansumoku](https://github.com/mkhrapov/sansumoku)
+7. [Strongbox](https://github.com/strongbox-password-safe/Strongbox)
+8. [BookStore-iOS](https://github.com/nsoojin/BookStore-iOS)
+9. [Slide for Reddit](https://github.com/ccrama/Slide-iOS)
+10. [Iris.iOS](https://github.com/Neko3000/Iris.iOS)
+11. [Remote](https://github.com/michaelvillar/remote)
+12. [Flappy Royale](https://github.com/flappy-royale/flappy-royale)
+13. [GRDBCombine](https://github.com/groue/GRDBCombine)
+14. [Lockdown](https://github.com/confirmedcode/lockdown-ios)
+15. [Ghostery Privacy Browser](https://github.com/ghostery/browser-ios)
 
 ## Thanks
 
