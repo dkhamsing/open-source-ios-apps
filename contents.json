@@ -18295,5 +18295,18 @@
         "misc"
       ]
     }
+    {
+      "title": "PGPro",
+      "category-ids": ["security"],
+      "description": "PGP En- & Decryption",
+      "source": "https://github.com/lucanaef/PGPro",
+      "homepage": "https://pgpro.app/",
+      "itunes": "https://itunes.apple.com/app/id1481696997",
+      "license": "gpl-3.0",
+      "tags": ["swift"],
+      "screenshots": ["https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-1-EncryptionView.png?raw=true", "https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-2-DecryptionView.png?raw=true", "https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-3-KeychainView.png?raw=true"],
+      "date_added": "Oct 26 2019",
+      "suggested_by": "@lucanaef"
+    }
   ]
 }
