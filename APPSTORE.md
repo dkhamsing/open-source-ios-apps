@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **226** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **227** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1994,6 +1994,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added September 19, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-home.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-profile.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-trusted.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-parameters.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-network.png'><code>Screenshot 5</code></a> 
+  </details>
+
+- [PGPro](https://github.com/lucanaef/PGPro): PGP En- & Decryption [` App Store`](https://apps.apple.com/app/id1481696997)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://pgpro.app/<br>  Added October 26, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-1-EncryptionView.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-2-DecryptionView.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-3-KeychainView.png?raw=true'><code>Screenshot 3</code></a> 
   </details>
 
 - [Prey](https://github.com/prey/prey-ios-client): Track lost or stolen devices & perform actions remotely [` App Store`](https://apps.apple.com/app/id456755037)  
