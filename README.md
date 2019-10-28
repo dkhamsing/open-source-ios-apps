@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-902-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October%2026,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-902-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October%2028,%202019-lightgrey.svg)
 
 Jump to
 
@@ -4055,10 +4055,10 @@ https://newsapi.org/ — [back to top](#readme)
 
 - [WordPress](https://github.com/wordpress-mobile/WordPress-iOS): Official WordPress app [` App Store`](https://apps.apple.com/app/wordpress/id335703880)  
   <details>
-	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added March 17, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
-	<a href='https://cdn-images-1.medium.com/max/800/1*DC2_2VNsltlTH_16RKIvsw.png'><code>Screenshot 1</code></a> 
+	<a href='https://mobiledotblog.files.wordpress.com/2019/10/690x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 
