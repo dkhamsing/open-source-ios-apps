@@ -1850,10 +1850,10 @@ https://newsapi.org/ — [back to top](#readme)
 
 - [WordPress](https://github.com/wordpress-mobile/WordPress-iOS): Official WordPress app [` App Store`](https://apps.apple.com/app/wordpress/id335703880)  
   <details>
-	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added March 17, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
-	<a href='https://cdn-images-1.medium.com/max/800/1*DC2_2VNsltlTH_16RKIvsw.png'><code>Screenshot 1</code></a> 
+	<a href='https://mobiledotblog.files.wordpress.com/2019/10/690x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 
