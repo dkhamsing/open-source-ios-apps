@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **227** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **228** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -2148,6 +2148,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added February 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-PLP.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Post.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Profile.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Reviews.jpg'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Social.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
+- [WooCommerce](https://github.com/woocommerce/woocommerce-ios): Your WooCommerce Store In Your Pocket: manage orders, receive sales notifications, and view key metrics. [` App Store`](https://apps.apple.com/app/id1389130815)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added October 25, 2019<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
+	<a href='https://docs.woocommerce.com/wp-content/uploads/2019/01/mystore-ios.png'><code>Screenshot 1</code></a> 
   </details>
 
 
