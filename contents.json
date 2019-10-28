@@ -18296,6 +18296,25 @@
       ]
     },
     {
+      "title": "WooCommerce",
+      "source": "https://github.com/woocommerce/woocommerce-ios",
+      "itunes": "https://itunes.apple.com/us/app/id1389130815",
+      "stars": 36,
+      "description": "Your WooCommerce Store In Your Pocket: manage orders, receive sales notifications, and view key metrics.",
+      "screenshots": [
+        "https://docs.woocommerce.com/wp-content/uploads/2019/01/mystore-ios.png"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Oct 25 2019",
+      "suggested_by": "@leandroalonso",
+      "license": "gpl-2.0",
+      "category-ids": [
+        "shopping"
+      ]
+    },
+    {
       "title": "PGPro",
       "category-ids": ["security"],
       "description": "PGP En- & Decryption",
