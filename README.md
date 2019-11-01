@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-903-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-October%2028,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-903-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%20%201,%202019-lightgrey.svg)
 
 Jump to
 
@@ -1328,7 +1328,7 @@ Click ► to show more details
 
 - [Gitify](https://github.com/manosim/gitify-mobile): Brings your GitHub notifications in your pocket  
   <details>
-	<summary><code>react-native</code> </summary>
+	<summary><code>react-native</code> ⭐</summary>
 
 	Added July  8, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://a1.mzstatic.com/us/r30/Purple18/v4/88/b6/8a/88b68a7f-d3d8-e51b-9918-cb886b7a4a24/screen696x696.jpeg'><code>Screenshot 1</code></a> 
@@ -1336,7 +1336,7 @@ Click ► to show more details
 
 - [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub [` App Store`](https://apps.apple.com/app/tiny-github/id1461424565)  
   <details>
-	<summary><code>swift</code> <code>rxswift</code> <code>mvvm-c</code> <code>clean-architecture</code> ⭐</summary>
+	<summary><code>swift</code> <code>rxswift</code> <code>mvvm-c</code> <code>clean-architecture</code> ⭐⭐</summary>
 
 	Added May  1, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://user-images.githubusercontent.com/15151687/57021987-bc1e1f00-6c68-11e9-8d43-25beb9465284.jpg'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021990-c17b6980-6c68-11e9-8b56-852508131809.jpg'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021992-c3452d00-6c68-11e9-8b54-0f01dd887622.jpg'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021995-c4765a00-6c68-11e9-8b95-f3087c8b8e37.jpg'><code>Screenshot 4</code></a> 
@@ -2080,7 +2080,7 @@ Click ► to show more details
 
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app  
   <details>
-	<summary><code>swift</code> ⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐</summary>
 
 	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://www.objc.io/images/issue-18/dedicated-9942fc7b.gif'><code>Screenshot 1</code></a> 
@@ -4180,7 +4180,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub [` App Store`](https://apps.apple.com/app/tiny-github/id1461424565)  
   <details>
-	<summary><code>swift</code> <code>rxswift</code> <code>mvvm-c</code> <code>clean-architecture</code> ⭐</summary>
+	<summary><code>swift</code> <code>rxswift</code> <code>mvvm-c</code> <code>clean-architecture</code> ⭐⭐</summary>
 
 	Added May  1, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://user-images.githubusercontent.com/15151687/57021987-bc1e1f00-6c68-11e9-8d43-25beb9465284.jpg'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021990-c17b6980-6c68-11e9-8b56-852508131809.jpg'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021992-c3452d00-6c68-11e9-8b54-0f01dd887622.jpg'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021995-c4765a00-6c68-11e9-8b95-f3087c8b8e37.jpg'><code>Screenshot 4</code></a> 
@@ -5257,7 +5257,7 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [AltStore](https://github.com/rileytestut/AltStore): An alternate App Store, no jailbreak required  
   <details>
-	<summary><code>swift</code> <code>nuke</code> <code>keychainaccess</code> ⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>nuke</code> <code>keychainaccess</code> ⭐⭐⭐⭐</summary>
 
 	https://altstore.io<br>  License: `other`<br>
 	<a href='https://icdn5.digitaltrends.com/image/digitaltrends/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb1-768x1367.jpg'><code>Screenshot 1</code></a> 
@@ -5769,7 +5769,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 - [Gitify](https://github.com/manosim/gitify-mobile): Brings your GitHub notifications in your pocket  
   <details>
-	<summary><code>react-native</code> </summary>
+	<summary><code>react-native</code> ⭐</summary>
 
 	Added July  8, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://a1.mzstatic.com/us/r30/Purple18/v4/88/b6/8a/88b68a7f-d3d8-e51b-9918-cb886b7a4a24/screen696x696.jpeg'><code>Screenshot 1</code></a> 
@@ -5816,7 +5816,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 - [NBAreact](https://github.com/jbkuczma/NBAreact): NBA stats & standings  
   <details>
-	<summary><code>react native</code> </summary>
+	<summary><code>react native</code> ⭐</summary>
 
 	Added July 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -6194,7 +6194,7 @@ https://www.xamarin.com/ — [back to top](#readme)
 
 - [Toggl Timer](https://github.com/toggl/mobileapp): Timesheet tracker  
   <details>
-	<summary><code>csharp</code> ⭐</summary>
+	<summary><code>csharp</code> ⭐⭐</summary>
 
 	Added May  8, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c2/92/12/c292124b-cd47-f2c0-8c53-683b66da71f6/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/70/36/be/7036be07-d26c-5832-a4d4-2dea5affc50f/mzl.hvggawxa.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f5/11/7f/f5117f7f-f369-98ce-8ad6-d23366450347/mzl.ambiyxmf.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/08/6d/2b/086d2b84-e722-c367-9135-bbec9c5b849a/mzl.gobyvnpu.png/460x0w.jpg'><code>Screenshot 4</code></a> 
