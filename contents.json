@@ -18345,7 +18345,7 @@
       "source": "https://github.com/AlphaWallet/alpha-wallet-ios",
       "homepage": "https://alphawallet.com/",
       "itunes": "https://apps.apple.com/app/alphawallet/id1358230430",
-      "license": "gnu-3.0",
+      "license": "agpl-3.0",
       "lang": "eng",
       "stars": 48,
       "tags": ["swift"],
