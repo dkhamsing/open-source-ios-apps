@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-903-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%20%201,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-904-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%2011,%202019-lightgrey.svg)
 
 Jump to
 
@@ -1977,6 +1977,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios): AlphaWallet is an easy to use and secure ethereum wallet with native ERC20, ERC721 and ERC875 support. AlphaWallet supports all Ethereum based networks: Mainnet, xDai, Ethereum Classic, POA, Ropsten, Goerli, Kovan, Rinkeby, Sokol and etc. [` App Store`](https://apps.apple.com/app/alphawallet/id1358230430)  
+  <details>
+	<summary><code>swift</code> 🌐 </summary>
+
+	https://alphawallet.com/<br>  Added November 11, 2019<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/28/bc/b1/28bcb153-cf24-d26d-86cf-4d8c45e0584d/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/97/61/21/97612163-8c96-d1cc-00a1-c913d506a0a9/mzl.ikcervdr.png/230x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/61/b3/1e/61b31e3d-e891-6662-5f70-13222f15d4ac/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
+  </details>
+
 - [Bither](https://github.com/bither/bither-ios): Simple & secure Bitcoin wallet  
   <details>
 	<summary><code>objc</code> ⭐⭐</summary>
