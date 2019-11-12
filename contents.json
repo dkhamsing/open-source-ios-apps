@@ -18339,20 +18339,37 @@
       "stars": 0
     },
     {
-      "title": "Exa Wallet - Monero",
+      "title": "AlphaWallet ETH Wallet",
       "category-ids": ["cryptocurrency"],
-      "description": "Receive, spend and store your Monero with an open-source multisignature wallet.",
+      "description": "AlphaWallet is an easy to use and secure ethereum wallet with native ERC20, ERC721 and ERC875 support. AlphaWallet supports all Ethereum based networks: Mainnet, xDai, Ethereum Classic, POA, Ropsten, Goerli, Kovan, Rinkeby, Sokol and etc.",
+      "source": "https://github.com/AlphaWallet/alpha-wallet-ios",
+      "homepage": "https://alphawallet.com/",
+      "itunes": "https://apps.apple.com/app/alphawallet/id1358230430",
+      "license": "agpl-3.0",
+      "stars": 48,
+      "tags": ["swift"],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/28/bc/b1/28bcb153-cf24-d26d-86cf-4d8c45e0584d/pr_source.png/460x0w.png", 
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/97/61/21/97612163-8c96-d1cc-00a1-c913d506a0a9/mzl.ikcervdr.png/230x0w.png", 
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/61/b3/1e/61b31e3d-e891-6662-5f70-13222f15d4ac/pr_source.png/460x0w.png"
+      ],
+      "date_added": "Nov 11 2019",
+      "suggested_by": "@kristiinara"
+    },
+    {
+      "title": "Exa Wallet Monero",
+      "category-ids": ["cryptocurrency"],
+      "description": "Receive, spend and store your Monero with an open-source multisignature wallet",
       "source": "https://github.com/exantech/exa-wallet-ios",
       "homepage": "https://wallet.exan.tech/",
-      "itunes": "https://apps.apple.com/app/exa-wallet-monero/id1457024905
+      "itunes": "https://apps.apple.com/app/exa-wallet-monero/id1457024905",
       "license": "other",
-      "lang": "eng",
       "stars": 2,
       "tags": ["swift"],
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/61/61/7c6161bf-70b8-95e9-824d-cff92d5960fb/pr_source.png/460x0w.png", 
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/16/ca/e116ca96-5c51-7cc0-f2aa-72e80447e7b0/pr_source.png/460x0w.png"
-      ],
+       ],
       "date_added": "Nov 11 2019",
       "suggested_by": "@kristiinara"
     }
