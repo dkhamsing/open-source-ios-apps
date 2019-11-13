@@ -247,14 +247,6 @@ Click ► to show more details
 	<a href='https://github.com/BalestraPatrick/AppleWatchCalculator/blob/master/Screenshot1.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [Calculator by mukeshthawani](https://github.com/mukeshthawani/Calculator)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added December 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/mukeshthawani/Calculator/master/graphics/scr1.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Cortado](https://github.com/lazerwalker/cortado): Track your caffeine consumption habits  
   <details>
 	<summary><code>objc</code> ⭐</summary>
@@ -475,7 +467,7 @@ Click ► to show more details
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/df/3b/f7/df3bf7dd-a0ec-08f8-1851-8d753207f069/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/b8/ab/9eb8abc1-cf22-9866-9521-88cb7772efa9/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/02/2b/e0/022be068-3552-7b25-2bb5-675c7e878e5a/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- [Radium Web Browser](https://github.com/SlayterDev/RadiumBrowser): Tabbed web browser extendible using JavaScript extensions [` App Store`](https://apps.apple.com/app/radium-web-browser/id1274491203)  
+- [Radium Web Browser](https://github.com/SlayterDev/RadiumBrowser): Tabbed browser extendible using JavaScript extensions [` App Store`](https://apps.apple.com/app/radium-web-browser/id1274491203)  
   <details>
 	<summary><code>swift</code> <code>browser</code> <code>extensible</code> <code>webkit</code> </summary>
 
@@ -1532,7 +1524,7 @@ Click ► to show more details
 	<summary><code>objc</code> </summary>
 
 	Added November 21, 2015<br>  License: `other`<br>
-	<a href='http://www.wtfgamersonly.com/wp-content/uploads/2014/08/gba4ios.jpg'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/EnQ0wdl.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [iAmiga (iUAE)](https://github.com/emufreak/iAmiga): Commodore Amiga emulator, based on UAE  
@@ -1856,12 +1848,12 @@ Click ► to show more details
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/f9/87/cb/f987cbdd-1382-b745-1eff-85cf980e673f/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/a2/44/89/a2448912-df4f-ac28-a30d-82a9699a9fe4/mzl.bdctkilq.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/ba/7c/25ba7cc2-f9b4-518c-e201-c03bcceffbe1/mzl.fxvipxna.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/8a/dc/14/8adc144f-e5bc-512e-6f1b-5583dd7bb014/mzl.uymqtwli.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [ownCloud](https://github.com/owncloud/ios): File browser & sync for ownCloud file hosting service [` App Store`](https://apps.apple.com/app/owncloud/id543672169)  
+- [ownCloud](https://github.com/owncloud/ios-app): File browser & sync for ownCloud file hosting service [` App Store`](https://apps.apple.com/app/owncloud/id1359583808)  
   <details>
-	<summary><code>objc</code> ⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>ipad</code> </summary>
 
 	Added May 18, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/c3/5a/65/c35a6507-5ffb-5a8d-37ca-b3f5bfe163dc/mzl.fgwiqzmp.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple127/v4/49/e6/98/49e69800-75da-736d-8ea4-4c6f45d1bb2d/mzl.halrilcm.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/2e/bf/8f/2ebf8ff2-0726-9e1f-d579-76f6988cd8bf/mzl.hcqffbfb.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/c8/ca/9e/c8ca9e43-abb5-b32f-bfe0-dc37727906a1/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple127/v4/8d/08/f7/8d08f7d6-5552-e1d7-f27c-d7ed810fdc82/mzl.fhfllkfh.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
+	<a href='https://owncloud.org/wp-content/uploads/2019/05/ownCloud-iOS-app-store-parent-file-listing.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Seafile Pro](https://github.com/haiwen/seafile-iOS): App for Seafile self-hosted file sharing [` App Store`](https://apps.apple.com/app/id639202512)  
@@ -1977,7 +1969,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios): AlphaWallet is an easy to use and secure ethereum wallet with native ERC20, ERC721 and ERC875 support. AlphaWallet supports all Ethereum based networks: Mainnet, xDai, Ethereum Classic, POA, Ropsten, Goerli, Kovan, Rinkeby, Sokol and etc. [` App Store`](https://apps.apple.com/app/alphawallet/id1358230430)  
+- [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios): Eeasy to use and secure Ethereum wallet [` App Store`](https://apps.apple.com/app/alphawallet/id1358230430)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -2017,7 +2009,7 @@ Click ► to show more details
 	<a href='https://clogos.essdev.info/ios/iOS_code_Essentia.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Exa Wallet Monero](https://github.com/exantech/exa-wallet-ios): Receive, spend and store your Monero with an open-source multisignature wallet [` App Store`](https://apps.apple.com/app/exa-wallet-monero/id1457024905)  
+- [Exa Wallet Monero](https://github.com/exantech/exa-wallet-ios): Receive, spend and store your Monero with a multisignature wallet [` App Store`](https://apps.apple.com/app/exa-wallet-monero/id1457024905)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -2038,7 +2030,7 @@ Click ► to show more details
 	<summary><code>swift</code> </summary>
 
 	Added August  9, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/balance.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/transactions.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/settings.png'><code>Screenshot 3</code></a> 
+	<a href='https://github.com/horizontalsystems/unstoppable-wallet-ios/blob/master/Images/BankWalletAllTabs-X-Mockup.jpg?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [Wei Wallet](https://github.com/popshootjapan/WeiWallet-iOS): Ethereum wallet  
@@ -4701,7 +4693,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/89/49/07/894907ae-8b58-5b87-f682-d813bf2f2e92/mzl.omnsgxug.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple91/v4/fa/80/dd/fa80ddf0-ebe9-34ad-1c94-a249c1a70a73/mzl.zedxpqsy.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/fc/98/37/fc98372a-6d4e-571e-1155-8dd8ecb3df54/mzl.auefrfoz.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f2/a6/a2/f2a6a2ca-9e07-0e7b-d639-5e2914e61d29/mzl.uhuhbzbi.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/4d/76/85/4d76856f-0b5c-ec97-2650-24846cf34217/mzl.obzgvqoe.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [MiniKeePass](https://github.com/MiniKeePass/MiniKeePass): Secure Password Manager [` App Store`](https://apps.apple.com/app/id451661808)  
+- [MiniKeePass](https://github.com/MiniKeePass/MiniKeePass): Secure Password Manager  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐</summary>
 
@@ -4754,7 +4746,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Good Living Guide: home snacks, gifts, beauty, shopping..](https://github.com/hrscy/DanTang)  
+- [Good Living Guide: home snacks, gifts, beauty, shopping](https://github.com/hrscy/DanTang)  
   <details>
 	<summary><code>swift</code> 🌐 ⭐⭐⭐</summary>
 
@@ -4786,7 +4778,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-PLP.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Post.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Profile.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Reviews.jpg'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Social.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [WooCommerce](https://github.com/woocommerce/woocommerce-ios): Your WooCommerce Store In Your Pocket: manage orders, receive sales notifications, and view key metrics. [` App Store`](https://apps.apple.com/app/id1389130815)  
+- [WooCommerce](https://github.com/woocommerce/woocommerce-ios): Manage orders, receive sales notifications, and view key metrics [` App Store`](https://apps.apple.com/app/id1389130815)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -4985,7 +4977,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [TypeStyle](https://github.com/ebelinski/typestyle-ios): Stylize your text and add decorations  
+- [TypeStyle](https://github.com/ebelinski/typestyle): Stylize your text and add decorations [` App Store`](https://apps.apple.com/app/typestyle/id1441019779)  
   <details>
 	<summary><code>swift</code> <code>ipad</code> </summary>
 
@@ -5335,7 +5327,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/Menu_App_Preview_640x1096.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/App_Preview_640x1096.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/Language_App_Preview_640x1096.png'><code>Screenshot 3</code></a> 
   </details>
 
-- [contacts-mvp-swift](https://github.com/tirupati17/contacts-mvp-swift): App based on MVP (Model View Presenter) software architectural pattern.  
+- [contacts-mvp-swift](https://github.com/tirupati17/contacts-mvp-swift): Uses the MVP (Model View Presenter) pattern  
   <details>
 	<summary><code>swift</code> <code>mvp</code> <code>contacts</code> </summary>
 
@@ -5367,7 +5359,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/b0/a5/9a/b0a59a26-836b-8a60-9e33-d562e945a7fb/mzl.royofexn.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple2/v4/4d/15/ce/4d15ce25-faff-baa6-2f73-d5e77718a0d6/mzl.niuitotb.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/v4/e9/56/2d/e9562d0d-02a3-73a0-1523-a79dfe190967/mzl.bfucaujc.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple2/v4/23/a1/2b/23a12beb-b1aa-82b9-b9fd-50b622685114/mzl.ydgieukd.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [giphy-mvvm-swift](https://github.com/tirupati17/giphy-mvvm-swift): App based on MVVM (Model–view–viewmodel) software architectural pattern.  
+- [giphy-mvvm-swift](https://github.com/tirupati17/giphy-mvvm-swift): Uses the MVVM (Model–view–viewmodel) pattern  
   <details>
 	<summary><code>swift</code> <code>mvvm</code> </summary>
 
