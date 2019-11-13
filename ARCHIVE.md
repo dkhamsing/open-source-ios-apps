@@ -40,6 +40,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Brave](https://github.com/brave/browser-ios)
 - [Brew](https://github.com/contentful/ContentfulWatchKitExample)
 - [Bridges](https://github.com/zgrossbart/bridges)
+- [Calculator by mukeshthawani](https://github.com/opensourceios/Calculator)
 - [Calculator by noodlewerk](https://github.com/noodlewerk/Apple_Watch_Calculator)
 - [Calvin and Hobbes Comic Viewer](https://github.com/sciencemanx/Calvin-and-Hobbes-Viewer)
 - [CamLingual](https://github.com/yoshiokatsuneo/camlingual_iphone)
