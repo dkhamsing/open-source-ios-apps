@@ -18355,6 +18355,23 @@
       ],
       "date_added": "Nov 11 2019",
       "suggested_by": "@kristiinara"
+    },
+    {
+      "title": "Exa Wallet Monero",
+      "category-ids": ["cryptocurrency"],
+      "description": "Receive, spend and store your Monero with an open-source multisignature wallet",
+      "source": "https://github.com/exantech/exa-wallet-ios",
+      "homepage": "https://wallet.exan.tech/",
+      "itunes": "https://apps.apple.com/app/exa-wallet-monero/id1457024905",
+      "license": "other",
+      "stars": 2,
+      "tags": ["swift"],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/61/61/7c6161bf-70b8-95e9-824d-cff92d5960fb/pr_source.png/460x0w.png", 
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/16/ca/e116ca96-5c51-7cc0-f2aa-72e80447e7b0/pr_source.png/460x0w.png"
+       ],
+      "date_added": "Nov 11 2019",
+      "suggested_by": "@kristiinara"
     }
   ]
 }
