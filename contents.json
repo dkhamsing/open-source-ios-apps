@@ -583,12 +583,10 @@
       "category-ids": [
         "apple-watch"
       ],
-      "source": "https://github.com/mukeshthawani/Calculator",
+      "source": "https://github.com/opensourceios/Calculator",
       "tags": [
-        "swift"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/mukeshthawani/Calculator/master/graphics/scr1.png"
+        "swift",
+        "archive"
       ],
       "stars": 6,
       "license": "mit",
@@ -6543,21 +6541,18 @@
         "files"
       ],
       "tags": [
-        "objc"
+        "swift",
+        "ipad"
       ],
       "description": "File browser & sync for ownCloud file hosting service",
-      "source": "https://github.com/owncloud/ios",
-      "itunes": "https://apps.apple.com/app/owncloud/id543672169",
-      "stars": 646,
+      "source": "https://github.com/owncloud/ios-app",
+      "itunes": "https://apps.apple.com/app/owncloud/id1359583808",
+      "stars": 57,
       "license": "gpl-3.0",
       "date_added": "Mon May 18 11:52:02 2015 -0700",
       "suggested_by": "@Mike",
       "screenshots": [
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/c3/5a/65/c35a6507-5ffb-5a8d-37ca-b3f5bfe163dc/mzl.fgwiqzmp.jpg/460x0w.jpg",
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple127/v4/49/e6/98/49e69800-75da-736d-8ea4-4c6f45d1bb2d/mzl.halrilcm.jpg/460x0w.jpg",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/2e/bf/8f/2ebf8ff2-0726-9e1f-d579-76f6988cd8bf/mzl.hcqffbfb.jpg/460x0w.jpg",
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/c8/ca/9e/c8ca9e43-abb5-b32f-bfe0-dc37727906a1/pr_source.jpg/460x0w.jpg",
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple127/v4/8d/08/f7/8d08f7d6-5552-e1d7-f27c-d7ed810fdc82/mzl.fhfllkfh.jpg/460x0w.jpg"
+        "https://owncloud.org/wp-content/uploads/2019/05/ownCloud-iOS-app-store-parent-file-listing.png"
       ]
     },
     {
@@ -17551,8 +17546,9 @@
         "text"
       ],
       "description": "Stylize your text and add decorations",
-      "source": "https://github.com/ebelinski/typestyle-ios",
+      "source": "https://github.com/ebelinski/typestyle",
       "homepage": "https://typestyle.app",
+      "itunes": "https://apps.apple.com/app/typestyle/id1441019779",
       "license": "gpl-3.0",
       "tags": [
         "swift",
@@ -17947,9 +17943,7 @@
         "swift"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/balance.png",
-        "https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/transactions.png",
-        "https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/settings.png"
+        "https://github.com/horizontalsystems/unstoppable-wallet-ios/blob/master/Images/BankWalletAllTabs-X-Mockup.jpg?raw=true"
       ],
       "date_added": "Aug 9 2019",
       "suggested_by": "@esengulov"
@@ -18349,8 +18343,8 @@
       "stars": 48,
       "tags": ["swift"],
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/28/bc/b1/28bcb153-cf24-d26d-86cf-4d8c45e0584d/pr_source.png/460x0w.png", 
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/97/61/21/97612163-8c96-d1cc-00a1-c913d506a0a9/mzl.ikcervdr.png/230x0w.png", 
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/28/bc/b1/28bcb153-cf24-d26d-86cf-4d8c45e0584d/pr_source.png/460x0w.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/97/61/21/97612163-8c96-d1cc-00a1-c913d506a0a9/mzl.ikcervdr.png/230x0w.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/61/b3/1e/61b31e3d-e891-6662-5f70-13222f15d4ac/pr_source.png/460x0w.png"
       ],
       "date_added": "Nov 11 2019",
@@ -18367,7 +18361,7 @@
       "stars": 2,
       "tags": ["swift"],
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/61/61/7c6161bf-70b8-95e9-824d-cff92d5960fb/pr_source.png/460x0w.png", 
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/61/61/7c6161bf-70b8-95e9-824d-cff92d5960fb/pr_source.png/460x0w.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/16/ca/e116ca96-5c51-7cc0-f2aa-72e80447e7b0/pr_source.png/460x0w.png"
        ],
       "date_added": "Nov 11 2019",
