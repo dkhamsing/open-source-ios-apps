@@ -11366,7 +11366,7 @@
       "stars": 7
     },
     {
-      "title": "Good Living Guide: home snacks, gifts, beauty, shopping..",
+      "title": "Good Living Guide: home snacks, gifts, beauty, shopping",
       "category-ids": [
         "shopping"
       ],
@@ -18253,7 +18253,7 @@
     {
       "title": "giphy-mvvm-swift",
       "source": "https://github.com/tirupati17/giphy-mvvm-swift",
-      "description": "App based on MVVM (Model–view–viewmodel) software architectural pattern.",
+      "description": "Uses the MVVM (Model–view–viewmodel) pattern",
       "screenshots": [
         "https://github.com/tirupati17/giphy-mvvm-swift/blob/master/screenshots/giphy.png"
       ],
@@ -18272,7 +18272,7 @@
     {
       "title": "contacts-mvp-swift",
       "source": "https://github.com/tirupati17/contacts-mvp-swift",
-      "description": "App based on MVP (Model View Presenter) software architectural pattern.",
+      "description": "Uses the MVP (Model View Presenter) pattern",
       "screenshots": [
         "https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot1.png",
         "https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot2.png"
@@ -18295,7 +18295,7 @@
       "source": "https://github.com/woocommerce/woocommerce-ios",
       "itunes": "https://apps.apple.com/app/id1389130815",
       "stars": 36,
-      "description": "Your WooCommerce Store In Your Pocket: manage orders, receive sales notifications, and view key metrics.",
+      "description": "Manage orders, receive sales notifications, and view key metrics",
       "screenshots": [
         "https://docs.woocommerce.com/wp-content/uploads/2019/01/mystore-ios.png"
       ],
@@ -18334,7 +18334,7 @@
     {
       "title": "AlphaWallet ETH Wallet",
       "category-ids": ["cryptocurrency"],
-      "description": "AlphaWallet is an easy to use and secure ethereum wallet with native ERC20, ERC721 and ERC875 support. AlphaWallet supports all Ethereum based networks: Mainnet, xDai, Ethereum Classic, POA, Ropsten, Goerli, Kovan, Rinkeby, Sokol and etc.",
+      "description": "Eeasy to use and secure Ethereum wallet",
       "source": "https://github.com/AlphaWallet/alpha-wallet-ios",
       "homepage": "https://alphawallet.com/",
       "itunes": "https://apps.apple.com/app/alphawallet/id1358230430",
@@ -18352,7 +18352,7 @@
     {
       "title": "Exa Wallet Monero",
       "category-ids": ["cryptocurrency"],
-      "description": "Receive, spend and store your Monero with an open-source multisignature wallet",
+      "description": "Receive, spend and store your Monero with a multisignature wallet",
       "source": "https://github.com/exantech/exa-wallet-ios",
       "homepage": "https://wallet.exan.tech/",
       "itunes": "https://apps.apple.com/app/exa-wallet-monero/id1457024905",
