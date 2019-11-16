@@ -18365,6 +18365,19 @@
        ],
       "date_added": "Nov 11 2019",
       "suggested_by": "@kristiinara"
+    },
+    {
+      "title": "Recipes",
+      "source": "https://github.com/mecid/swiftui-recipes-app",
+      "description": "Recipes app written in SwiftUI using Single State Container",
+      "tags": ["swift", "swiftui"],
+      "category-ids": [
+        "misc"
+      ],
+      "screenshots": ["https://github.com/mecid/swiftui-recipes-app/raw/master/Image.PNG?raw=true"],
+      "license": "mit",
+      "date_added": "Nov 16 2019",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
