@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Exa Wallet Monero](https://github.com/exantech/exa-wallet-ios)
-2. [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios)
-3. [PGPro](https://github.com/lucanaef/PGPro)
-4. [WooCommerce](https://github.com/woocommerce/woocommerce-ios)
-5. [contacts-mvp-swift](https://github.com/tirupati17/contacts-mvp-swift)
-6. [giphy-mvvm-swift](https://github.com/tirupati17/giphy-mvvm-swift)
-7. [Passepartout](https://github.com/passepartoutvpn/passepartout-ios)
-8. [DNSCloak](https://github.com/s-s/dnscloak)
-9. [Frame Grabber](https://github.com/arthurhammer/FrameGrabber)
-10. [Sansumoku](https://github.com/mkhrapov/sansumoku)
-11. [Strongbox](https://github.com/strongbox-password-safe/Strongbox)
-12. [BookStore-iOS](https://github.com/nsoojin/BookStore-iOS)
-13. [Slide for Reddit](https://github.com/ccrama/Slide-iOS)
-14. [Iris.iOS](https://github.com/Neko3000/Iris.iOS)
-15. [Remote](https://github.com/michaelvillar/remote)
+1. [Slide](https://github.com/ccrama/Slide-iOS)
+2. [Exa Wallet Monero](https://github.com/exantech/exa-wallet-ios)
+3. [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios)
+4. [PGPro](https://github.com/lucanaef/PGPro)
+5. [WooCommerce](https://github.com/woocommerce/woocommerce-ios)
+6. [contacts-mvp-swift](https://github.com/tirupati17/contacts-mvp-swift)
+7. [giphy-mvvm-swift](https://github.com/tirupati17/giphy-mvvm-swift)
+8. [Passepartout](https://github.com/passepartoutvpn/passepartout-ios)
+9. [DNSCloak](https://github.com/s-s/dnscloak)
+10. [Frame Grabber](https://github.com/arthurhammer/FrameGrabber)
+11. [Sansumoku](https://github.com/mkhrapov/sansumoku)
+12. [Strongbox](https://github.com/strongbox-password-safe/Strongbox)
+13. [BookStore-iOS](https://github.com/nsoojin/BookStore-iOS)
+14. [Slide for Reddit](https://github.com/ccrama/Slide-iOS)
+15. [Iris.iOS](https://github.com/Neko3000/Iris.iOS)
 
 ## Thanks
 
