@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-906-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%2016,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-905-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%2016,%202019-lightgrey.svg)
 
 Jump to
 
@@ -3769,14 +3769,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 	Added November  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/zpz1237/NirZhihuDaily2.0/raw/master/effect1.gif'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Slide](https://github.com/ccrama/Slide-iOS): Feature-packed and ad-free browser for Reddit [` App Store`](https://apps.apple.com/app/slide-for-reddit/id1260626828)  
-  <details>
-	<summary><code>swift</code> <code>ipad</code> </summary>
-
-	Added November 16, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://i.imgur.com/AEwkXVJ.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app  
