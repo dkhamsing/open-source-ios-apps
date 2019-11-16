@@ -18365,6 +18365,26 @@
        ],
       "date_added": "Nov 11 2019",
       "suggested_by": "@kristiinara"
+    },
+    {
+      "title": "Slide",
+      "source": "https://github.com/ccrama/Slide-iOS",
+      "itunes": "https://apps.apple.com/app/slide-for-reddit/id1260626828",
+      "description": "Feature-packed and ad-free browser for Reddit",
+      "category-ids": [
+        "news"
+      ],
+      "license": "apache-2.0",
+      "tags": [
+        "swift",
+        "ipad"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/AEwkXVJ.jpg"
+      ],
+      "stars": 18,
+      "date_added": "Nov 16 2019",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
