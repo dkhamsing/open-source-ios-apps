@@ -18378,6 +18378,23 @@
       "license": "mit",
       "date_added": "Nov 16 2019",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Matchimals.fun",
+      "description": "Animal matching puzzle card game",
+      "source": "https://github.com/igravitystudios/matchimals.fun",
+      "itunes": "https://apps.apple.com/app/id1348821168",
+      "category-ids": [
+        "game",
+        "react-native"
+      ],
+      "tags": [
+        "react-native", "ipad"
+      ],
+      "screenshots": ["https://www.matchimals.app/screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%201.png"],
+      "license": "mit",
+      "date_added": "Nov 16 2019",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
