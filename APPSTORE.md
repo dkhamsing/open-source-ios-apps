@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **231** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1692,14 +1692,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Slide](https://github.com/ccrama/Slide-iOS): Feature-packed and ad-free browser for Reddit [` App Store`](https://apps.apple.com/app/slide-for-reddit/id1260626828)  
-  <details>
-	<summary><code>swift</code> <code>ipad</code> </summary>
-
-	Added November 16, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://i.imgur.com/AEwkXVJ.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
 
 ### Hacker News 
  
