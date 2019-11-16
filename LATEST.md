@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Exa Wallet Monero](https://github.com/exantech/exa-wallet-ios)
-2. [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios)
-3. [PGPro](https://github.com/lucanaef/PGPro)
-4. [WooCommerce](https://github.com/woocommerce/woocommerce-ios)
-5. [contacts-mvp-swift](https://github.com/tirupati17/contacts-mvp-swift)
-6. [giphy-mvvm-swift](https://github.com/tirupati17/giphy-mvvm-swift)
-7. [Passepartout](https://github.com/passepartoutvpn/passepartout-ios)
-8. [DNSCloak](https://github.com/s-s/dnscloak)
-9. [Frame Grabber](https://github.com/arthurhammer/FrameGrabber)
-10. [Sansumoku](https://github.com/mkhrapov/sansumoku)
-11. [Strongbox](https://github.com/strongbox-password-safe/Strongbox)
-12. [BookStore-iOS](https://github.com/nsoojin/BookStore-iOS)
-13. [Slide for Reddit](https://github.com/ccrama/Slide-iOS)
-14. [Iris.iOS](https://github.com/Neko3000/Iris.iOS)
-15. [Remote](https://github.com/michaelvillar/remote)
+1. [Matchimals.fun](https://github.com/igravitystudios/matchimals.fun)
+2. [Recipes](https://github.com/mecid/swiftui-recipes-app)
+3. [Exa Wallet Monero](https://github.com/exantech/exa-wallet-ios)
+4. [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios)
+5. [PGPro](https://github.com/lucanaef/PGPro)
+6. [WooCommerce](https://github.com/woocommerce/woocommerce-ios)
+7. [contacts-mvp-swift](https://github.com/tirupati17/contacts-mvp-swift)
+8. [giphy-mvvm-swift](https://github.com/tirupati17/giphy-mvvm-swift)
+9. [Passepartout](https://github.com/passepartoutvpn/passepartout-ios)
+10. [DNSCloak](https://github.com/s-s/dnscloak)
+11. [Frame Grabber](https://github.com/arthurhammer/FrameGrabber)
+12. [Sansumoku](https://github.com/mkhrapov/sansumoku)
+13. [Strongbox](https://github.com/strongbox-password-safe/Strongbox)
+14. [BookStore-iOS](https://github.com/nsoojin/BookStore-iOS)
+15. [Slide for Reddit](https://github.com/ccrama/Slide-iOS)
 
 ## Thanks
 
