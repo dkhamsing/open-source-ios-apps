@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-905-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%2016,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-907-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-November%2016,%202019-lightgrey.svg)
 
 Jump to
 
@@ -2273,6 +2273,14 @@ Click ► to show more details
 	<summary><code>objc</code> ⭐⭐</summary>
 
 	Added May 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [Matchimals.fun](https://github.com/igravitystudios/matchimals.fun): Animal matching puzzle card game [` App Store`](https://apps.apple.com/app/id1348821168)  
+  <details>
+	<summary><code>react-native</code> <code>ipad</code> </summary>
+
+	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://www.matchimals.app/screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%201.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [MechaHamster](https://github.com/google/mechahamster): Roll through customizable environments that you can share with friends  
@@ -5463,6 +5471,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/iAugux/ProjectScreenshots/master/Phonetic/nickname.gif'><code>Screenshot 1</code></a> 
   </details>
 
+- [Recipes](https://github.com/mecid/swiftui-recipes-app): Recipes app written in SwiftUI using Single State Container  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/mecid/swiftui-recipes-app/raw/master/Image.PNG?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Remote](https://github.com/michaelvillar/remote): A remote for your IR devices  
   <details>
 	<summary><code>swift</code> </summary>
@@ -5804,6 +5820,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<summary><code>react native</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added February  9, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+
+- [Matchimals.fun](https://github.com/igravitystudios/matchimals.fun): Animal matching puzzle card game [` App Store`](https://apps.apple.com/app/id1348821168)  
+  <details>
+	<summary><code>react-native</code> <code>ipad</code> </summary>
+
+	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://www.matchimals.app/screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%201.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [movieapp](https://github.com/JuneDomingo/movieapp): Discover movies & tv shows  
