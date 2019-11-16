@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **231** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1011,6 +1011,14 @@ Click ► to show more details
 
 	Added March  6, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/af/a9/34/afa934c6-45c5-c194-d179-f34520fe8b1c/mzl.jfnjvioh.png/460x0w.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Matchimals.fun](https://github.com/igravitystudios/matchimals.fun): Animal matching puzzle card game [` App Store`](https://apps.apple.com/app/id1348821168)  
+  <details>
+	<summary><code>react-native</code> <code>ipad</code> </summary>
+
+	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://www.matchimals.app/screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%201.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [MUDRammer](https://github.com/splinesoft/MUDRammer): MUD app (Multi-User Dungeon) [` App Store`](https://apps.apple.com/app/mudrammer-a-modern-mud-client/id597157072)  
@@ -2531,6 +2539,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<summary><code>react native</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added February  9, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+
+- [Matchimals.fun](https://github.com/igravitystudios/matchimals.fun): Animal matching puzzle card game [` App Store`](https://apps.apple.com/app/id1348821168)  
+  <details>
+	<summary><code>react-native</code> <code>ipad</code> </summary>
+
+	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://www.matchimals.app/screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%201.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [PokeDB](https://github.com/satya164/PocketGear): Clean and simple Pokédex app for Pokémon GO [` App Store`](https://apps.apple.com/app/pocketdex-for-pok%C3%A9mon-go/id1255564898)  
