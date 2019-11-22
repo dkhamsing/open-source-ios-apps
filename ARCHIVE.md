@@ -69,6 +69,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Communiqué](https://github.com/zadr/Communique)
 - [Compass](https://github.com/zntfdr/Compass)
 - [Concurrency](https://github.com/opensourceios/Concurrency)
+- [ConfFriends](https://github.com/ay8s/ConfFriends)
 - [Connectivity Demo](https://github.com/swilliams/watchkit-connectivity-demo)
 - [Conway's Game of Life](https://github.com/yonbergman/swift-gameoflife)
 - [CoolSpot](https://github.com/neonichu/CoolSpot)
