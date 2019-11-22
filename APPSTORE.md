@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **231** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -666,14 +666,6 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [ConfFriends](https://github.com/ay8s/ConfFriends): Connect with fellow developers during WWDC, Layers & AltConf [` App Store`](https://apps.apple.com/app/id1386399019)  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	Added September  2, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/ef/8b/c2/ef8bc243-adfd-7a19-cdc0-70706eb7a536/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/fe/4e/1f/fe4e1f0d-23dc-b8df-6a7c-3f55996466b7/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/86/ef/b0/86efb0c9-c2d2-b6a1-a0be-7ecf3f336b7c/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
-  </details>
-
 - [Northern California Cherry Blossom Festival](https://github.com/keitaito/NCCBF-iOS) [` App Store`](https://apps.apple.com/app/northern-california-cherry-blossom-festival/id981016442)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -1018,7 +1010,7 @@ Click ► to show more details
 	<summary><code>react-native</code> <code>ipad</code> </summary>
 
 	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://www.matchimals.app/screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%201.png'><code>Screenshot 1</code></a> 
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/51/43/ef/5143ef6b-cb73-4c3f-32ad-619f15073704/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/be/49/b0/be49b0f5-9c45-34d1-a672-7d489b6a11a7/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/02/ad/4a02ad71-965b-f094-1381-22054028ada4/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/57/c7/5057c7f3-0bfe-41f2-0760-fe1b261e27c3/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [MUDRammer](https://github.com/splinesoft/MUDRammer): MUD app (Multi-User Dungeon) [` App Store`](https://apps.apple.com/app/mudrammer-a-modern-mud-client/id597157072)  
@@ -2546,7 +2538,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<summary><code>react-native</code> <code>ipad</code> </summary>
 
 	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://www.matchimals.app/screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%201.png'><code>Screenshot 1</code></a> 
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/51/43/ef/5143ef6b-cb73-4c3f-32ad-619f15073704/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/be/49/b0/be49b0f5-9c45-34d1-a672-7d489b6a11a7/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/02/ad/4a02ad71-965b-f094-1381-22054028ada4/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/57/c7/5057c7f3-0bfe-41f2-0760-fe1b261e27c3/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [PokeDB](https://github.com/satya164/PocketGear): Clean and simple Pokédex app for Pokémon GO [` App Store`](https://apps.apple.com/app/pocketdex-for-pok%C3%A9mon-go/id1255564898)  
