@@ -17100,7 +17100,8 @@
       "license": "mit",
       "stars": 2,
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "screenshots": [
         "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/ef/8b/c2/ef8bc243-adfd-7a19-cdc0-70706eb7a536/pr_source.png/460x0w.png",
@@ -18391,7 +18392,12 @@
       "tags": [
         "react-native", "ipad"
       ],
-      "screenshots": ["https://www.matchimals.app/screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%201.png"],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/51/43/ef/5143ef6b-cb73-4c3f-32ad-619f15073704/pr_source.png/460x0w.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/be/49/b0/be49b0f5-9c45-34d1-a672-7d489b6a11a7/pr_source.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/02/ad/4a02ad71-965b-f094-1381-22054028ada4/pr_source.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/57/c7/5057c7f3-0bfe-41f2-0760-fe1b261e27c3/pr_source.png/460x0w.png"
+      ],
       "license": "mit",
       "date_added": "Nov 16 2019",
       "suggested_by": "@dkhamsing"
