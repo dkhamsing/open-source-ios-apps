@@ -18401,6 +18401,17 @@
       "license": "mit",
       "date_added": "Nov 16 2019",
       "suggested_by": "@dkhamsing"
-    }
+    },
+    {
+    	"title": "Siri Shortcut Example",
+    	"description": "Example project with Siri and Shortcuts (Handoff) iOS 13 ",
+    	"source": "https://github.com/CoyoteLab/Studies-Siri-Shortcut-iOS-13",
+    	"category-ids": ["sample"],
+    	"tags": ["swift"],
+    	"license": "other",
+    	"screenshots": ["https://github.com/CoyoteLab/Studies-Siri-Shortcut-iOS-13/blob/master/1_1.png?raw=true"],
+    	"date_added": "Dec 2 2019",
+    	"suggested_by": "@YanSteph"
+    }    
   ]
 }
