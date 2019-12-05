@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-908-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%20%203,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-908-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%20%205,%202019-lightgrey.svg)
 
 Jump to
 
@@ -817,7 +817,7 @@ Click ► to show more details
 
 - [Falcon Messenger](https://github.com/RMizin/FalconMessenger): Fast and beautiful cloud-based messaging app [` App Store`](https://apps.apple.com/app/id1313765714)  
   <details>
-	<summary><code>swift, firebase</code> ⭐</summary>
+	<summary><code>swift, firebase</code> ⭐⭐</summary>
 
 	Added June 19, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/48/53/6c/48536cdf-5ca1-8285-c0ed-6eca4da33d1a/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/dd/eb/55/ddeb5549-ef4c-faa2-8b98-71bd796a499f/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/35/11/a5/3511a58d-ef7b-38e8-0365-05629c143489/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/4d/f8/124df875-c3cf-30a5-6506-83b5a80f9252/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
@@ -1173,7 +1173,7 @@ Click ► to show more details
 
 - [Pisth](https://github.com/ColdGrub1384/Pisth): SSH and SFTP client [` App Store`](https://apps.apple.com/app/pisth/id1331070425)  
   <details>
-	<summary><code>swift</code> <code>javascript</code> <code>html</code> ⭐</summary>
+	<summary><code>swift</code> <code>javascript</code> <code>html</code> ⭐⭐</summary>
 
 	https://pisth.github.io<br>  Added January 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://pisth.github.io/apt/screenshots.png'><code>Screenshot 1</code></a> 
@@ -1728,7 +1728,7 @@ Click ► to show more details
 
 - [Blahker](https://github.com/ethanhuang13/blahker): Safari content blocker for interstitial ads, mainly for websites in Taiwan [` App Store`](https://apps.apple.com/app/blahker-ba-la-ke-gai-ban-guang/id1182699267)  
   <details>
-	<summary><code>swift</code> 🌐 </summary>
+	<summary><code>swift</code> 🌐 ⭐</summary>
 
 	Added April  2, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/ca/75/fd/ca75fdfe-3952-e440-bca6-3fe9ce0d6d09/pr_source.png/316x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/f9/23/44/f9234464-ba35-362f-a75f-e79ada4aa93e/pr_source.png/316x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/c1/04/11/c1041198-8aed-e23c-61fa-04ff8b7b38ae/pr_source.png/316x0w.png'><code>Screenshot 3</code></a> 
@@ -2019,7 +2019,7 @@ Click ► to show more details
 
 - [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios): A fully decentralized Bitcoin, Ethereum, EOS, Binance Chain, Bitcoin Cash and DASH currency wallet [` App Store`](https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	Added August  9, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/horizontalsystems/unstoppable-wallet-ios/blob/master/Images/BankWalletAllTabs-X-Mockup.jpg?raw=true'><code>Screenshot 1</code></a> 
@@ -3021,7 +3021,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [Filterpedia](https://github.com/FlexMonkey/Filterpedia): Core Image Filter explorer  
   <details>
-	<summary><code>swift</code> <code>coreimage</code> ⭐⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>coreimage</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added January  7, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://github.com/FlexMonkey/Filterpedia/raw/master/Filterpedia/assets/screenshot.jpg'><code>Screenshot 1</code></a> 
@@ -5305,7 +5305,7 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [BookStore-iOS](https://github.com/nsoojin/BookStore-iOS): Browse https://itbook.store - examples and patterns for unit/ui testing, handling Result/Optionals, writing documentation  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	Added August 31, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/nsoojin/BookStore/master/README_assets/whats-new.gif'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/nsoojin/BookStore/master/README_assets/search.gif'><code>Screenshot 2</code></a> 
@@ -5473,7 +5473,7 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [Recipes](https://github.com/mecid/swiftui-recipes-app): Recipes app written in SwiftUI using Single State Container  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> </summary>
+	<summary><code>swift</code> <code>swiftui</code> ⭐</summary>
 
 	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/mecid/swiftui-recipes-app/raw/master/Image.PNG?raw=true'><code>Screenshot 1</code></a> 
@@ -5620,7 +5620,7 @@ https://firebase.google.com/ — [back to top](#readme)
 
 - [Falcon Messenger](https://github.com/RMizin/FalconMessenger): Fast and beautiful cloud-based messaging app [` App Store`](https://apps.apple.com/app/id1313765714)  
   <details>
-	<summary><code>swift, firebase</code> ⭐</summary>
+	<summary><code>swift, firebase</code> ⭐⭐</summary>
 
 	Added June 19, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/48/53/6c/48536cdf-5ca1-8285-c0ed-6eca4da33d1a/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/dd/eb/55/ddeb5549-ef4c-faa2-8b98-71bd796a499f/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/35/11/a5/3511a58d-ef7b-38e8-0365-05629c143489/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/4d/f8/124df875-c3cf-30a5-6506-83b5a80f9252/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
