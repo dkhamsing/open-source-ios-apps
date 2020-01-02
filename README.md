@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-908-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-December%20%205,%202019-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-908-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%20%202,%202020-lightgrey.svg)
 
 Jump to
 
@@ -889,7 +889,7 @@ Click ► to show more details
 
 - [Riot](https://github.com/vector-im/riot-ios): Collaboration for teams, chat & share with https://matrix.org/ [` App Store`](https://apps.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details>
-	<summary><code>objc</code> <code>webrtc</code> <code>realm</code> ⭐⭐</summary>
+	<summary><code>objc</code> <code>webrtc</code> <code>realm</code> ⭐⭐⭐</summary>
 
 	https://matrix.org/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'><code>Screenshot 1</code></a> 
@@ -3230,7 +3230,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne): Free synthesizer https://audiokitpro.com/synth/ [` App Store`](https://apps.apple.com/app/audiokit-synth-one-synthesizer/id1371050497)  
   <details>
-	<summary><code>swift</code> <code>objc</code> ⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>objc</code> ⭐⭐⭐⭐</summary>
 
 	https://audiokitpro.com/synth/<br>  Added July 24, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://audiokitpro.com/images/ak2.gif'><code>Screenshot 1</code></a> 
@@ -4311,7 +4311,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [CastVideos](https://github.com/googlecast/CastVideos-ios): Sender app to be used as the starting for Google Cast  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	Added July 10, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -4541,7 +4541,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 - [DNSCloak](https://github.com/s-s/dnscloak): Override & secure DNS queries [` App Store`](https://apps.apple.com/app/dnscloak-secure-dns-client/id1452162351)  
   <details>
-	<summary><code>objc</code> <code>cordova</code> </summary>
+	<summary><code>objc</code> <code>cordova</code> ⭐</summary>
 
 	Added September 11, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
@@ -5473,7 +5473,7 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [Recipes](https://github.com/mecid/swiftui-recipes-app): Recipes app written in SwiftUI using Single State Container  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> ⭐</summary>
+	<summary><code>swift</code> <code>swiftui</code> ⭐⭐</summary>
 
 	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/mecid/swiftui-recipes-app/raw/master/Image.PNG?raw=true'><code>Screenshot 1</code></a> 
@@ -5489,7 +5489,7 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [Science Journal](https://github.com/google/science-journal-ios): Use the sensors in your mobile devices to perform science experiments  
   <details>
-	<summary><code>swift</code> <code>protobuf</code> ⭐⭐</summary>
+	<summary><code>swift</code> <code>protobuf</code> ⭐⭐⭐</summary>
 
 	Added March 29, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image3.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image4.png'><code>Screenshot 4</code></a> 
@@ -6057,7 +6057,7 @@ https://realm.io/ — [back to top](#readme)
 
 - [Riot](https://github.com/vector-im/riot-ios): Collaboration for teams, chat & share with https://matrix.org/ [` App Store`](https://apps.apple.com/us/app/vector-open-source-collaboration/id1083446067)  
   <details>
-	<summary><code>objc</code> <code>webrtc</code> <code>realm</code> ⭐⭐</summary>
+	<summary><code>objc</code> <code>webrtc</code> <code>realm</code> ⭐⭐⭐</summary>
 
 	https://matrix.org/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'><code>Screenshot 1</code></a> 
