@@ -12529,7 +12529,6 @@
     {
       "title": "Fetch",
       "source": "https://github.com/TryFetch/Fetch",
-      "homepage": "http://getfetchapp.com/",
       "description": "The best way to watch Put.io",
       "category-ids": [
         "video"
@@ -16583,9 +16582,6 @@
       ],
       "description": "Markdown text editor, offline or synced via Dropbox",
       "source": "https://github.com/BoostIO/boostnote-mobile",
-      "screenshots": [
-        "https://boostnote.io/assets/img/top2.png"
-      ],
       "date_added": "May 18, 2018",
       "stars": 843,
       "license": "mit",
@@ -18324,9 +18320,7 @@
         "swift"
       ],
       "screenshots": [
-        "https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-1-EncryptionView.png?raw=true",
-        "https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-2-DecryptionView.png?raw=true",
-        "https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-3-KeychainView.png?raw=true"
+        "https://i.imgur.com/g3vPueY.png" 
       ],
       "date_added": "Oct 26 2019",
       "suggested_by": "@lucanaef",
