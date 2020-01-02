@@ -3844,7 +3844,6 @@
         "mpmovieplayer",
         "iphone"
       ],
-      "description": "https://douban.fm/ app",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/XVXVXXX/DoubanFM",
@@ -5978,16 +5977,13 @@
         "iphone",
         "ipad"
       ],
-      "description": "App for https://laravel-china.org/",
+      "description": "App for https://learnku.com/laravel",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/Aufree/phphub-ios",
       "stars": 1230,
       "date_added": "Fri Dec 4 08:01:50 2015 -0800",
-      "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ]
+      "suggested_by": "@dkhamsing"
     },
     {
       "title": "ProMonster",
@@ -9509,9 +9505,6 @@
       "tags": [
         "swift"
       ],
-      "screenshots": [
-        "https://preyproject.com/img/home/report-simple-2.png"
-      ],
       "license": "gpl-3.0",
       "stars": 14,
       "date_added": "Wed Jun 1 23:03:39 2016 -0600",
@@ -9526,7 +9519,7 @@
       "tags": [
         "objc"
       ],
-      "description": "Official app for http://www.radioparadise.com/",
+      "description": "Official app for https://www.radioparadise.com/",
       "source": "https://github.com/ilTofa/rposx",
       "homepage": "https://www.iltofa.com/rphd/",
       "itunes": "https://apps.apple.com/app/id663334697",
@@ -10052,7 +10045,7 @@
       ],
       "description": "Map to locate wheelchair-accessible places",
       "source": "https://github.com/sozialhelden/wheelmap-iphone2",
-      "homepage": "http://wheelmap.org",
+      "homepage": "https://wheelmap.org",
       "itunes": "https://apps.apple.com/app/id399239476",
       "license": "apache-2.0",
       "stars": 8,
@@ -16101,7 +16094,6 @@
       ],
       "description": "Your Artificial Intelligence for Personal Assistants, Robots, Help Desks and Chatbots",
       "source": "https://github.com/fossasia/susi_iOS",
-      "homepage": "https://chat.susi.ai/overview",
       "license": "apache-2.0",
       "stars": 1374,
       "tags": [
