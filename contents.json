@@ -9560,7 +9560,7 @@
       "tags": [
         "objc"
       ],
-      "description": "A full-featured remote control for Kodi Media Center",
+      "description": "Official Kodi Remote",
       "source": "https://github.com/xbmc/xbmc",
       "homepage": "https://kodi.tv/",
       "itunes": "https://apps.apple.com/app/id520480364",
@@ -10109,7 +10109,6 @@
       ],
       "description": "Create & share memes",
       "source": "https://github.com/MemeMaker/Meme-Maker-iOS",
-      "itunes": "https://apps.apple.com/app/id962121383",
       "tags": [
         "swift"
       ],
@@ -11956,7 +11955,6 @@
       ],
       "lang": "fra",
       "source": "https://github.com/tpgoffline/tpg-offline-iOS",
-      "itunes": "https://apps.apple.com/app/tpg-offline/id1001560047",
       "screenshots": [
         "http://is5.mzstatic.com/image/thumb/Purple118/v4/89/93/38/8993388e-d712-f774-f418-a3662a60aef1/source/392x696bb.jpg"
       ],
@@ -17059,7 +17057,6 @@
       ],
       "description": "GitHub client written with RxSwift and MVVM clean architecture",
       "source": "https://github.com/khoren93/SwiftHub",
-      "itunes": "https://apps.apple.com/app/swifthub-git-client/id1448628710",
       "license": "mit",
       "stars": 1320,
       "tags": [
