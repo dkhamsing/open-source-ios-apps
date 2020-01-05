@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-908-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%20%202,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-908-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%20%205,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1390,7 +1390,7 @@ Click ► to show more details
 	<a href='https://i.imgur.com/OBGvFKw.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/50eCbeX.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture [` App Store`](https://apps.apple.com/app/swifthub-git-client/id1448628710)  
+- [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture  
   <details>
 	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐⭐</summary>
 
@@ -2906,8 +2906,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   <details>
 	<summary><code>swift</code> </summary>
 
-	https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://preyproject.com/img/home/report-simple-2.png'><code>Screenshot 1</code></a> 
+	https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 
 - [S.I.T. (雕刻时光)](https://github.com/flexih/Cafe): An app for Chinese cafe chain Diaokeshiguang (Sit Coffee) [` App Store`](https://apps.apple.com/app/diao-ke-shi-guang/id440983941)  
@@ -2934,7 +2933,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://i.imgur.com/vSyWHSA.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/WJbZSB6.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/fTlosLW.png'><code>Screenshot 3</code></a> <a href='https://i.imgur.com/eTnGn5F.png'><code>Screenshot 4</code></a> 
   </details>
 
-- [tpg offline](https://github.com/tpgoffline/tpg-offline-iOS): Navigate the Geneva public transport [` App Store`](https://apps.apple.com/app/tpg-offline/id1001560047)  
+- [tpg offline](https://github.com/tpgoffline/tpg-offline-iOS): Navigate the Geneva public transport  
   <details>
 	<summary><code>swift</code> <code>carthage</code> <code>alamofire</code> <code>locationmanager</code> 🌐 </summary>
 
@@ -2970,7 +2969,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   <details>
 	<summary><code>objc</code> </summary>
 
-	http://wheelmap.org<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	https://wheelmap.org<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a4/3a/5d/a43a5de5-db45-0f0f-5e4d-0578e140a9d9/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/97/92/d6/9792d697-df64-e97d-f554-068fe5fe0237/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/3b/51/c8/3b51c854-6de0-f53d-493b-0d1afedfcd66/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
@@ -3051,7 +3050,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Kodi Remote](https://github.com/xbmc/xbmc): A full-featured remote control for Kodi Media Center [` App Store`](https://apps.apple.com/app/id520480364)  
+- [Kodi Remote](https://github.com/xbmc/xbmc): Official Kodi Remote [` App Store`](https://apps.apple.com/app/id520480364)  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -3075,7 +3074,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://github.com/thiagolioy/marvelapp/blob/master/assets/marvel_screens.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [Meme Maker](https://github.com/MemeMaker/Meme-Maker-iOS): Create & share memes [` App Store`](https://apps.apple.com/app/id962121383)  
+- [Meme Maker](https://github.com/MemeMaker/Meme-Maker-iOS): Create & share memes  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -3236,7 +3235,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='http://audiokitpro.com/images/ak2.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [DoubanFM](https://github.com/XVXVXXX/DoubanFM): https://douban.fm/ app  
+- [DoubanFM](https://github.com/XVXVXXX/DoubanFM)  
   <details>
 	<summary><code>afnetworking</code> <code>mpmovieplayer</code> <code>iphone</code> 🌐 ⭐⭐</summary>
 
@@ -3284,7 +3283,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://www.queuedapp.com/img/image-3.png'><code>Screenshot 1</code></a> <a href='https://www.queuedapp.com/img/image-2.png'><code>Screenshot 2</code></a> <a href='https://www.queuedapp.com/img/powerful.png'><code>Screenshot 3</code></a> 
   </details>
 
-- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for http://www.radioparadise.com/ [` App Store`](https://apps.apple.com/app/id663334697)  
+- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/ [` App Store`](https://apps.apple.com/app/id663334697)  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -3457,7 +3456,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/MoZhouqi/PhotoBrowser/master/assets/login.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/MoZhouqi/PhotoBrowser/master/assets/gallary.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [PHPHub](https://github.com/Aufree/phphub-ios): App for https://laravel-china.org/  
+- [PHPHub](https://github.com/Aufree/phphub-ios): App for https://learnku.com/laravel  
   <details>
 	<summary><code>iphone</code> <code>ipad</code> 🌐 ⭐⭐⭐⭐</summary>
 
@@ -3698,8 +3697,8 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   <details>
 	<summary><code>iphone</code> <code>ipad</code> <code>alamofire</code> <code>swiftyjson</code> <code>keychainaccess</code> <code>realm</code> <code>1password</code> </summary>
 
-	http://getfetchapp.com/<br>  Added November 16, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://getfetchapp.com/img/product.png'><code>Screenshot 1</code></a> 
+	Added November 16, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://i.imgur.com/8Ty3Mvl.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Frame Grabber](https://github.com/arthurhammer/FrameGrabber): Extract video frames as images [` App Store`](https://apps.apple.com/app/frame-grabber/id1434703541)  
@@ -3973,7 +3972,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Kodi Remote](https://github.com/xbmc/xbmc): A full-featured remote control for Kodi Media Center [` App Store`](https://apps.apple.com/app/id520480364)  
+- [Kodi Remote](https://github.com/xbmc/xbmc): Official Kodi Remote [` App Store`](https://apps.apple.com/app/id520480364)  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -4013,7 +4012,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://github.com/dkhamsing/osia/raw/master/Assets/0.1.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for http://www.radioparadise.com/ [` App Store`](https://apps.apple.com/app/id663334697)  
+- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/ [` App Store`](https://apps.apple.com/app/id663334697)  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -4242,7 +4241,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture [` App Store`](https://apps.apple.com/app/swifthub-git-client/id1448628710)  
+- [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture  
   <details>
 	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐⭐</summary>
 
@@ -4605,7 +4604,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	https://pgpro.app/<br>  Added October 26, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-1-EncryptionView.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-2-DecryptionView.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-3-KeychainView.png?raw=true'><code>Screenshot 3</code></a> 
+	<a href='https://i.imgur.com/g3vPueY.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Prey](https://github.com/prey/prey-ios-client): Track lost or stolen devices & perform actions remotely [` App Store`](https://apps.apple.com/app/id456755037)  
@@ -4620,8 +4619,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details>
 	<summary><code>swift</code> </summary>
 
-	https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://preyproject.com/img/home/report-simple-2.png'><code>Screenshot 1</code></a> 
+	https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 
 - [Tutanota](https://github.com/tutao/tutanota): End-to-end encrypted email [` App Store`](https://apps.apple.com/app/id922429609)  
@@ -5002,8 +5000,7 @@ https://joinmastodon.org — [back to top](#readme)
   <details>
 	<summary><code>react-native</code> ⭐⭐⭐</summary>
 
-	Added May 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://boostnote.io/assets/img/top2.png'><code>Screenshot 1</code></a> 
+	Added May 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [FSNotes](https://github.com/glushchenko/fsnotes): Notes manager [` App Store`](https://apps.apple.com/app/fsnotes-manager/id1346501102)  
@@ -5499,7 +5496,7 @@ https://joinmastodon.org — [back to top](#readme)
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
-	https://chat.susi.ai/overview<br>  Added March  5, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	Added March  5, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen5.png'><code>Screenshot 3</code></a> 
   </details>
 
