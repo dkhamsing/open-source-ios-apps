@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **227** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -586,14 +586,6 @@ Click ► to show more details
 
 	Added October  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/32/f6/58/32f65859-14bd-86e7-a121-b06025e02029/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/41/de/3a41de8e-d316-fbb9-f15e-ddf5fb4e0763/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/1b/2e/9b1b2ebc-03ee-7628-0a81-545af421f519/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8b/e0/8f/8be08fc6-ea85-7325-e2a0-91e90b84b9a1/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a8/f6/09/a8f6095a-2999-95f7-46c5-a09dd89588b3/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
-  </details>
-
-- [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture [` App Store`](https://apps.apple.com/app/swifthub-git-client/id1448628710)  
-  <details>
-	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐⭐</summary>
-
-	Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'><code>Screenshot 3</code></a> 
   </details>
 
 
@@ -1293,14 +1285,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://github.com/flexih/Cafe/raw/master/snapshot/1.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [tpg offline](https://github.com/tpgoffline/tpg-offline-iOS): Navigate the Geneva public transport [` App Store`](https://apps.apple.com/app/tpg-offline/id1001560047)  
-  <details>
-	<summary><code>swift</code> <code>carthage</code> <code>alamofire</code> <code>locationmanager</code> 🌐 </summary>
-
-	Added October 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://is5.mzstatic.com/image/thumb/Purple118/v4/89/93/38/8993388e-d712-f774-f418-a3662a60aef1/source/392x696bb.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Traccar Client](https://github.com/traccar/traccar-client-ios): Report device location to the server [` App Store`](https://apps.apple.com/app/traccar-client/id843156974)  
   <details>
 	<summary><code>objc</code> ⭐</summary>
@@ -1329,7 +1313,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   <details>
 	<summary><code>objc</code> </summary>
 
-	http://wheelmap.org<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	https://wheelmap.org<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a4/3a/5d/a43a5de5-db45-0f0f-5e4d-0578e140a9d9/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/97/92/d6/9792d697-df64-e97d-f554-068fe5fe0237/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/3b/51/c8/3b51c854-6de0-f53d-493b-0d1afedfcd66/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
@@ -1362,7 +1346,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='http://a5.mzstatic.com/us/r30/Purple/v4/d4/c0/91/d4c09117-c6df-beaa-db5f-0566be580645/screen480x480.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Kodi Remote](https://github.com/xbmc/xbmc): A full-featured remote control for Kodi Media Center [` App Store`](https://apps.apple.com/app/id520480364)  
+- [Kodi Remote](https://github.com/xbmc/xbmc): Official Kodi Remote [` App Store`](https://apps.apple.com/app/id520480364)  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -1376,14 +1360,6 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Meme Maker](https://github.com/MemeMaker/Meme-Maker-iOS): Create & share memes [` App Store`](https://apps.apple.com/app/id962121383)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added June  6, 2016<br>  License: `other`<br>
-	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple18/v4/d3/b1/5e/d3b15ed6-e97f-8be4-8b21-0b463ae2fa00/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple60/v4/37/4b/c9/374bc92e-3c96-7dd4-ace5-55bc9872f586/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple20/v4/27/d7/3c/27d73c32-8a97-2bbb-f1df-784fa23f2181/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/c6/92/7a/c6927af0-6a2f-924d-ecdd-f408976e7cde/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple60/v4/19/e7/95/19e79536-30a0-506f-f219-2fca2a5aad2c/pr_source.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [MuPDF](http://git.ghostscript.com/?p=mupdf.git;a=summary): A PDF, XPS/OpenXPS, CBZ & EPUB document viewer [` App Store`](https://apps.apple.com/app/id482941798)  
@@ -1492,7 +1468,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/b5/d4/72/b5d472cf-ca00-aba0-da09-776dc597595a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/6d/85/02/6d850217-73a8-3379-5110-54ca812d6ae0/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/85/79/6d/85796d78-6c7f-6dc6-327f-f3dfcc4c72a3/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/05/e3/da/05e3da31-0d41-dc1d-8111-6bceed1b8095/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for http://www.radioparadise.com/ [` App Store`](https://apps.apple.com/app/id663334697)  
+- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/ [` App Store`](https://apps.apple.com/app/id663334697)  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -1792,7 +1768,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/75/69/8a/75698ab8-816c-5bfe-fb81-f99233bf3852/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/38/a1/50/38a1502f-672f-c6ad-e264-a82cd958bd2c/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ca/cc/9c/cacc9cd5-ba08-7b72-2673-564b7ec281ef/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/cc/71/49/cc71496f-5d16-3b5e-a968-b34f2c802f89/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [Kodi Remote](https://github.com/xbmc/xbmc): A full-featured remote control for Kodi Media Center [` App Store`](https://apps.apple.com/app/id520480364)  
+- [Kodi Remote](https://github.com/xbmc/xbmc): Official Kodi Remote [` App Store`](https://apps.apple.com/app/id520480364)  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -1824,7 +1800,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/67/c4/bd/67c4bd2f-bf02-54c3-7b3a-3ff6605a51f2/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for http://www.radioparadise.com/ [` App Store`](https://apps.apple.com/app/id663334697)  
+- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/ [` App Store`](https://apps.apple.com/app/id663334697)  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -1927,14 +1903,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/37/4c/aa/374caa6c-ef0a-b8b6-20a9-c8ca8920fe32/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1f/7c/40/1f7c4058-fae6-6de9-cdaf-d27f1cbd5afd/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8d/83/63/8d8363ff-0637-8a77-5dc3-19cab426a164/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture [` App Store`](https://apps.apple.com/app/swifthub-git-client/id1448628710)  
-  <details>
-	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐⭐</summary>
-
-	Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'><code>Screenshot 3</code></a> 
-  </details>
-
 
 ## Sample 
  
@@ -2017,7 +1985,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	https://pgpro.app/<br>  Added October 26, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-1-EncryptionView.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-2-DecryptionView.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-3-KeychainView.png?raw=true'><code>Screenshot 3</code></a> 
+	<a href='https://i.imgur.com/g3vPueY.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Prey](https://github.com/prey/prey-ios-client): Track lost or stolen devices & perform actions remotely [` App Store`](https://apps.apple.com/app/id456755037)  
