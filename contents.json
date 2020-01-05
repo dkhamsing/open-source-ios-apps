@@ -3844,7 +3844,6 @@
         "mpmovieplayer",
         "iphone"
       ],
-      "description": "https://douban.fm/ app",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/XVXVXXX/DoubanFM",
@@ -5978,16 +5977,13 @@
         "iphone",
         "ipad"
       ],
-      "description": "App for https://laravel-china.org/",
+      "description": "App for https://learnku.com/laravel",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/Aufree/phphub-ios",
       "stars": 1230,
       "date_added": "Fri Dec 4 08:01:50 2015 -0800",
-      "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ]
+      "suggested_by": "@dkhamsing"
     },
     {
       "title": "ProMonster",
@@ -9509,9 +9505,6 @@
       "tags": [
         "swift"
       ],
-      "screenshots": [
-        "https://preyproject.com/img/home/report-simple-2.png"
-      ],
       "license": "gpl-3.0",
       "stars": 14,
       "date_added": "Wed Jun 1 23:03:39 2016 -0600",
@@ -9526,7 +9519,7 @@
       "tags": [
         "objc"
       ],
-      "description": "Official app for http://www.radioparadise.com/",
+      "description": "Official app for https://www.radioparadise.com/",
       "source": "https://github.com/ilTofa/rposx",
       "homepage": "https://www.iltofa.com/rphd/",
       "itunes": "https://apps.apple.com/app/id663334697",
@@ -9567,7 +9560,7 @@
       "tags": [
         "objc"
       ],
-      "description": "A full-featured remote control for Kodi Media Center",
+      "description": "Official Kodi Remote",
       "source": "https://github.com/xbmc/xbmc",
       "homepage": "https://kodi.tv/",
       "itunes": "https://apps.apple.com/app/id520480364",
@@ -10052,7 +10045,7 @@
       ],
       "description": "Map to locate wheelchair-accessible places",
       "source": "https://github.com/sozialhelden/wheelmap-iphone2",
-      "homepage": "http://wheelmap.org",
+      "homepage": "https://wheelmap.org",
       "itunes": "https://apps.apple.com/app/id399239476",
       "license": "apache-2.0",
       "stars": 8,
@@ -10116,7 +10109,6 @@
       ],
       "description": "Create & share memes",
       "source": "https://github.com/MemeMaker/Meme-Maker-iOS",
-      "itunes": "https://apps.apple.com/app/id962121383",
       "tags": [
         "swift"
       ],
@@ -11963,7 +11955,6 @@
       ],
       "lang": "fra",
       "source": "https://github.com/tpgoffline/tpg-offline-iOS",
-      "itunes": "https://apps.apple.com/app/tpg-offline/id1001560047",
       "screenshots": [
         "http://is5.mzstatic.com/image/thumb/Purple118/v4/89/93/38/8993388e-d712-f774-f418-a3662a60aef1/source/392x696bb.jpg"
       ],
@@ -12529,13 +12520,12 @@
     {
       "title": "Fetch",
       "source": "https://github.com/TryFetch/Fetch",
-      "homepage": "http://getfetchapp.com/",
       "description": "The best way to watch Put.io",
       "category-ids": [
         "video"
       ],
       "screenshots": [
-        "http://getfetchapp.com/img/product.png"
+        "https://i.imgur.com/8Ty3Mvl.png"
       ],
       "tags": [
         "iphone",
@@ -16102,7 +16092,6 @@
       ],
       "description": "Your Artificial Intelligence for Personal Assistants, Robots, Help Desks and Chatbots",
       "source": "https://github.com/fossasia/susi_iOS",
-      "homepage": "https://chat.susi.ai/overview",
       "license": "apache-2.0",
       "stars": 1374,
       "tags": [
@@ -16583,9 +16572,6 @@
       ],
       "description": "Markdown text editor, offline or synced via Dropbox",
       "source": "https://github.com/BoostIO/boostnote-mobile",
-      "screenshots": [
-        "https://boostnote.io/assets/img/top2.png"
-      ],
       "date_added": "May 18, 2018",
       "stars": 843,
       "license": "mit",
@@ -17071,7 +17057,6 @@
       ],
       "description": "GitHub client written with RxSwift and MVVM clean architecture",
       "source": "https://github.com/khoren93/SwiftHub",
-      "itunes": "https://apps.apple.com/app/swifthub-git-client/id1448628710",
       "license": "mit",
       "stars": 1320,
       "tags": [
@@ -18324,9 +18309,7 @@
         "swift"
       ],
       "screenshots": [
-        "https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-1-EncryptionView.png?raw=true",
-        "https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-2-DecryptionView.png?raw=true",
-        "https://github.com/lucanaef/PGPro/blob/master/Fastlane/Screenshots/en-US/iPhone%20Xs-3-KeychainView.png?raw=true"
+        "https://i.imgur.com/g3vPueY.png"
       ],
       "date_added": "Oct 26 2019",
       "suggested_by": "@lucanaef",
