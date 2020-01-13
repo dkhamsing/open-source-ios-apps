@@ -18418,6 +18418,28 @@
       "date_added": "Dec 2 2019",
       "suggested_by": "@YanSteph",
       "stars": 6
+    },
+    {
+      "title": "Ulangi",
+      "category-ids": ["education"],
+      "tags": [
+        "react-native"
+      ],
+      "description": "An app to learn languages using popular methods such as spaced repetition system.",
+      "source": "https://github.com/ulangi/ulangi",
+      "itunes": "https://apps.apple.com/us/app/id1435524341",
+      "screenshots": [
+        "https://ulangi.com/img/screenshots/AdvancedLanguageApp.png",
+        "https://ulangi.com/img/screenshots/CreateFlashcardsEasily.png",
+        "https://ulangi.com/img/screenshots/StudySmarterNotHarder.png",
+        "https://ulangi.com/img/screenshots/TrackYourProgress.png",
+        "https://ulangi.com/img/screenshots/WellDesignedDarkMode.png",
+        "https://ulangi.com/img/screenshots/BuiltInDictionary.png",
+        "https://ulangi.com/img/screenshots/BuiltInImageSearch.png"
+      ],
+      "date_added": "Jan 12 2020",
+      "suggested_by": "@minhloi",
+      "stars": 50
     }
   ]
 }
