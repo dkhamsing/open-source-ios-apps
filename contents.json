@@ -18440,6 +18440,25 @@
       "date_added": "Jan 12 2020",
       "suggested_by": "@minhloi",
       "stars": 50
+    },
+    {
+      "title": "Ultimate Peg Solitaire",
+      "category-ids": [
+        "game"
+      ],
+      "description": "A famous puzzle game",
+      "source": "https://github.com/mkhrapov/ultimate-peg-solitaire",
+      "homepage": "https://www.ultimatepegsolitaire.com/",
+      "itunes": "https://apps.apple.com/app/id1463982222",
+      "license": "apache-2.0",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/mkhrapov/ultimate-peg-solitaire/master/img/UPS400.png"
+      ],
+      "date_added": "Jan 18 2020",
+      "suggested_by": "@mkhrapov"
     }
   ]
 }
