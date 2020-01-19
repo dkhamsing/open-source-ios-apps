@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-909-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2013,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-910-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2019,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2392,6 +2392,14 @@ Click ► to show more details
 
 	Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='http://cdn.iphoneincanada.ca/wp-content/uploads/2009/11/IMG_0520.PNG'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Ultimate Peg Solitaire](https://github.com/mkhrapov/ultimate-peg-solitaire): A famous puzzle game [` App Store`](https://apps.apple.com/app/id1463982222)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://www.ultimatepegsolitaire.com/<br>  Added January 18, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://raw.githubusercontent.com/mkhrapov/ultimate-peg-solitaire/master/img/UPS400.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS): Wolfenstein 3D for iOS [` App Store`](https://apps.apple.com/app/wolfenstein-3d-classic-platinum/id309470478)  
