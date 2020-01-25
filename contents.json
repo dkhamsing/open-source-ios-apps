@@ -18459,6 +18459,32 @@
       ],
       "date_added": "Jan 18 2020",
       "suggested_by": "@mkhrapov"
+    },
+    {
+      "title": "TriangleDraw",
+      "category-ids": [
+        "media",
+        "content"
+      ],
+      "tags": [
+        "ipad",
+        "iphone",
+        "swift",
+        "metal",
+        "uidocument",
+        "apple pencil"
+      ],
+      "description": "Create logos, typography, and other graphics, using nothing but triangles.",
+      "source": "https://github.com/triangledraw/TriangleDraw-iOS",
+      "screenshots": [
+        "https://raw.githubusercontent.com/triangledraw/TriangleDraw-iOS/develop/Source/Documentation/triangledraw_screenshots.png"
+      ],
+      "license": "mit",
+      "date_added": "Jan 25 2020",
+      "suggested_by": "@neoneye",
+      "itunes": "https://apps.apple.com/app/triangledraw/id1453533043",
+      "homepage": "http://www.triangledraw.com/",
+      "stars": 16
     }
   ]
 }
