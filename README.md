@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-911-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January%2028,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-911-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%206,%202020-lightgrey.svg)
 
 Jump to
 
@@ -361,7 +361,7 @@ Click ► to show more details
 
 - [SpriteKitWatchFace](https://github.com/steventroughtonsmith/SpriteKitWatchFace): SpriteKit-based faux analog watch face example for watchOS  
   <details>
-	<summary><code>objc</code> <code>spritekit</code> ⭐⭐⭐</summary>
+	<summary><code>objc</code> <code>spritekit</code> ⭐⭐⭐⭐</summary>
 
 	Added November 18, 2018<br>  License: `other`<br>
 	<a href='https://hccdata.s3.amazonaws.com/gh_spritekitwatchface.jpg'><code>Screenshot 1</code></a> 
@@ -661,7 +661,7 @@ Click ► to show more details
 
 - [Flappy Fly-Bird](https://github.com/jVirus/flappy-fly-bird): A clone of Flappy Bird using SpriteKit and GameplayKit  
   <details>
-	<summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> </summary>
+	<summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> ⭐</summary>
 
 	Added July 23, 2018<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
 	<a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG'><code>Screenshot 5</code></a> 
@@ -929,7 +929,7 @@ Click ► to show more details
 
 - [Telegram](https://github.com/TelegramMessenger/Telegram-iOS): Send messages with a focus on speed & security [` App Store`](https://apps.apple.com/app/telegram-messenger/id686449807)  
   <details>
-	<summary><code>swift</code> <code>c</code> <code>objc</code> ⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>c</code> <code>objc</code> ⭐⭐⭐⭐</summary>
 
 	Added April  6, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/72/35/fb/7235fb9a-07fd-97f1-31f1-b4810f7cd1ca/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/e3/b4/a2e3b456-fdbc-77e6-d3f4-21e3d5998a79/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/78/8d/f5/788df564-08d5-40fc-b18c-d153de535b35/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/89/cf/cd/89cfcd2f-98dd-cbc0-e730-c7cb1854928c/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/6b/23/8e6b239b-28b1-bbe2-f89c-f9e6ea9969b1/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
@@ -2111,7 +2111,7 @@ Click ► to show more details
 
 - [Concentration game (翻翻看)](https://github.com/geek5nan/FanFanSwift)  
   <details>
-	<summary><code>swift</code> 🌐 ⭐</summary>
+	<summary><code>swift</code> 🌐 ⭐⭐</summary>
 
 	Added May 14, 2015<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/geek5nan/FanFanSwift/master/screenshot/2.png'><code>Screenshot 1</code></a> 
@@ -2174,7 +2174,7 @@ Click ► to show more details
 
 - [Flappy Fly-Bird](https://github.com/jVirus/flappy-fly-bird): A clone of Flappy Bird using SpriteKit and GameplayKit  
   <details>
-	<summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> </summary>
+	<summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> ⭐</summary>
 
 	Added July 23, 2018<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
 	<a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG'><code>Screenshot 5</code></a> 
@@ -2478,7 +2478,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [Flappy Fly-Bird](https://github.com/jVirus/flappy-fly-bird): A clone of Flappy Bird using SpriteKit and GameplayKit  
   <details>
-	<summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> </summary>
+	<summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> ⭐</summary>
 
 	Added July 23, 2018<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
 	<a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG'><code>Screenshot 5</code></a> 
@@ -5877,7 +5877,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 - [NBAreact](https://github.com/jbkuczma/NBAreact): NBA stats & standings  
   <details>
-	<summary><code>react native</code> ⭐</summary>
+	<summary><code>react native</code> </summary>
 
 	Added July 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -6047,7 +6047,7 @@ https://realm.io/ — [back to top](#readme)
 
 - [Model2App Test App](https://github.com/Q-Mobile/Model2App): Simple CRM app built using Model2App library, lets you quickly generate a CRUD iOS app based on just a data model  
   <details>
-	<summary><code>swift</code> <code>realm</code> </summary>
+	<summary><code>swift</code> <code>realm</code> ⭐</summary>
 
 	Added December 27, 2018<br>
 	<a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/AppMenu.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_People.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Companies.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Products.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Activities.png'><code>Screenshot 5</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Deals.png'><code>Screenshot 6</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/NewObjectView_Person.png'><code>Screenshot 7</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Company.png'><code>Screenshot 8</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Person.png'><code>Screenshot 9</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Product.png'><code>Screenshot 10</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Activity_CreateNewRelatedObject.png'><code>Screenshot 11</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Company_CreateNewRelatedObject.png'><code>Screenshot 12</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Person_DateEdit.png'><code>Screenshot 13</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_PersonPhotoEdit.png'><code>Screenshot 14</code></a> <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Deal_PriceEdit.png'><code>Screenshot 15</code></a> 
