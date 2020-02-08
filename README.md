@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-911-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%206,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-911-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%20%208,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4796,8 +4796,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details>
 	<summary><code>swift</code> <code>alamofire</code> <code>realm</code> </summary>
 
-	Added May 31, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://thiago.ricieri.com/assets/posts/2018/mojilist-screens.jpg'><code>Screenshot 1</code></a> 
+	Added May 31, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
 - [OpenShop.io](https://github.com/openshopio/openshop.io-ios): Ecommerce shopping app [` App Store`](https://apps.apple.com/app/openshop-io/id1250327932)  
