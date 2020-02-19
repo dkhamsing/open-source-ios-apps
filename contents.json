@@ -17751,7 +17751,7 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Tinodios",
+      "title": "Tinode",
       "category-ids": [
         "communication"
       ],
@@ -17760,13 +17760,15 @@
       ],
       "description": "Cross platform messenger",
       "source": "https://github.com/tinode/ios",
+      "itunes": "https://apps.apple.com/us/app/tinode/id1483763538",
       "stars": 51,
       "license": "apache-2.0",
       "date_added": "May 22 2019",
       "suggested_by": "@or-else",
       "screenshots": [
         "https://raw.githubusercontent.com/tinode/ios/master/ios-chats.png",
-        "https://raw.githubusercontent.com/tinode/ios/master/ios-chat.png"
+        "https://raw.githubusercontent.com/tinode/ios/master/ios-chat.png",
+        "https://raw.githubusercontent.com/tinode/ios/master/ios-account.png"
       ]
     },
     {
