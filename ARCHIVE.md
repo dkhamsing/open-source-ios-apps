@@ -37,7 +37,6 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Bequest](https://github.com/splinesoft/Bequest)
 - [BitStore](https://github.com/BitStore/BitStore-iOS)
 - [boilerplate](https://github.com/tailec/boilerplate)
-- [Brave](https://github.com/brave/browser-ios)
 - [Brew](https://github.com/contentful/ContentfulWatchKitExample)
 - [Bridges](https://github.com/zgrossbart/bridges)
 - [Calculator by mukeshthawani](https://github.com/opensourceios/Calculator)
