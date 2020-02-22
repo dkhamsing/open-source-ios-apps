@@ -10365,7 +10365,6 @@
       ],
       "description": "Search Chronicling America's collection of digitized U.S. newspapers",
       "source": "https://github.com/ryanipete/AmericanChronicle",
-      "homepage": "https://ryanipete.github.io/AmericanChronicle",
       "itunes": "https://apps.apple.com/app/id1092988367",
       "license": "mit",
       "stars": 15,
