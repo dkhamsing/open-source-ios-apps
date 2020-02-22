@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-911-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2020,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-911-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2022,%202020-lightgrey.svg)
 
 Jump to
 
@@ -771,7 +771,7 @@ Click ► to show more details
   <details>
 	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> ⭐⭐</summary>
 
-	https://antidote.im/<br>  Added June  1, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
+	Added June  1, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
 	<a href='https://tox.chat/theme/img/client/antidote_1.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -3344,7 +3344,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [American Chronicle](https://github.com/ryanipete/AmericanChronicle): Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://apps.apple.com/app/id1092988367)  
+- [American Chronicle](https://ryanipete.github.io/AmericanChronicle): Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://apps.apple.com/app/id1092988367)  
   <details>
 	<summary><code>swift</code> <code>viper</code> </summary>
 
@@ -6128,7 +6128,7 @@ https://realm.io/ — [back to top](#readme)
  
 https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture-framework — [back to top](#readme) 
  
-- [American Chronicle](https://github.com/ryanipete/AmericanChronicle): Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://apps.apple.com/app/id1092988367)  
+- [American Chronicle](https://ryanipete.github.io/AmericanChronicle): Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://apps.apple.com/app/id1092988367)  
   <details>
 	<summary><code>swift</code> <code>viper</code> </summary>
 
