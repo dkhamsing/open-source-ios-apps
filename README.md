@@ -3348,7 +3348,7 @@ Image, video, audio, reading — [back to top](#readme)
   <details>
 	<summary><code>swift</code> <code>viper</code> </summary>
 
-	https://ryanipete.github.io/AmericanChronicle<br>  Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/8f/ec/ac/8fecacce-0bbf-ed22-9852-4c451f21218a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/30/f1/23/30f1239f-3f3a-28e5-7ed6-22bbbadd7e95/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> 
   </details>
 
@@ -6132,7 +6132,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
   <details>
 	<summary><code>swift</code> <code>viper</code> </summary>
 
-	https://ryanipete.github.io/AmericanChronicle<br>  Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/8f/ec/ac/8fecacce-0bbf-ed22-9852-4c451f21218a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/30/f1/23/30f1239f-3f3a-28e5-7ed6-22bbbadd7e95/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> 
   </details>
 
