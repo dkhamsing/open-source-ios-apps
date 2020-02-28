@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **232** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **227** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -98,14 +98,6 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [Artsy Shows](https://github.com/artsy/Emergence): Art shows [` App Store`](https://apps.apple.com/by/app/artsy-shows/id1044690553)  
-  <details>
-	<summary><code>swift</code> <code>cocoapodskeys</code> ⭐⭐</summary>
-
-	Added November  6, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/featured.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/artsy/emergence/master/docs/screenshots/show.png'><code>Screenshot 2</code></a> 
-  </details>
-
 - [hexclock](https://github.com/cfdrake/hexclock): Minimal hexadecimal clock [` App Store`](https://apps.apple.com/app/hex-color-clock/id1207660670)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -204,14 +196,6 @@ Click ► to show more details
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/df/3b/f7/df3bf7dd-a0ec-08f8-1851-8d753207f069/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/b8/ab/9eb8abc1-cf22-9866-9521-88cb7772efa9/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/02/2b/e0/022be068-3552-7b25-2bb5-675c7e878e5a/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- [Radium Web Browser](https://github.com/SlayterDev/RadiumBrowser): Tabbed browser extendible using JavaScript extensions [` App Store`](https://apps.apple.com/app/radium-web-browser/id1274491203)  
-  <details>
-	<summary><code>swift</code> <code>browser</code> <code>extensible</code> <code>webkit</code> </summary>
-
-	Added September 27, 2017<br>  License: `other`<br>
-	<a href='http://i.imgur.com/bMQuwAE.png'><code>Screenshot 1</code></a> <a href='http://i.imgur.com/Wjro36A.png'><code>Screenshot 2</code></a> 
-  </details>
-
 - [SnowHaze](https://github.com/snowhaze/SnowHaze-iOS): Powerful private browser developed to protect your data [` App Store`](https://apps.apple.com/app/snowhaze/id1121026941)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -296,14 +280,6 @@ Click ► to show more details
 
 	Added August 20, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/login.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/login_advanced.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/dialer.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/call.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/settings.png'><code>Screenshot 5</code></a> 
-  </details>
-
-- [Antidote](https://github.com/Antidote-for-Tox/Antidote): A client for https://tox.chat/ [` App Store`](https://apps.apple.com/app/apple-store/id933117605)  
-  <details>
-	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> ⭐⭐</summary>
-
-	Added June  1, 2016<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
-	<a href='https://tox.chat/theme/img/client/antidote_1.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [ChatSecure](https://github.com/ChatSecure/ChatSecure-iOS): Send messages with OTR encryption [` App Store`](https://apps.apple.com/app/chatsecure-encrypted-messenger/id464200063)  
@@ -2145,14 +2121,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/77/67/c3/7767c3b9-09f8-8af0-3389-a01f4a3b3265/mzl.wkjuejow.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/55/08/4a5508a9-e74c-8cac-8499-c09f375c205c/mzl.rimzypzn.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/d2/9b/58/d29b58d3-30a2-9bfc-7c11-dac8d281bf43/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/fe/33/89fe3374-808d-7583-b4de-ec24198506a1/mzl.xdysdjdb.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [ZeroStore](https://github.com/kylebshr/zerostore-ios): password storage without the storage [` App Store`](https://apps.apple.com/app/zerostore-password-storage/id1037141587)  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	Added September  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/84/32/74/84327409-9d83-f4c4-1fd2-55ade5e76b0c/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/c1/53/93/c15393b6-6a7d-b0a7-6bc8-f185584fac5f/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple30/v4/9d/18/d2/9d18d2d9-e811-0775-7aae-d338620a9226/mzm.uxlcuwfy.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/e8/14/4e/e8144e78-5382-02b3-82e2-22cf02a3b6dd/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
-  </details>
-
 
 ## Shopping 
  
@@ -2330,14 +2298,6 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/97/bc/c597bc2d-339c-8463-e7e7-f47fe7f6f770/mzl.uhkigexq.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/08/a6/aa/08a6aa5a-6a45-fcb0-5e75-c78fc2a10d67/mzl.ckjxbwfu.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8e/72/69/8e72696d-fae0-0f81-4868-aa281ba30866/mzl.ucpnawyo.png/460x0w.jpg'><code>Screenshot 3</code></a> 
-  </details>
-
-- [Stopwatch](https://github.com/toggl/stopwatch): Best simple stopwatch app with great UI/UX for tracking time [` App Store`](https://apps.apple.com/app/stopwatch-timer-time-logger/id1126783712)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added April 21, 2017<br>  License: `other`<br>
-	<a href='http://is2.mzstatic.com/image/thumb/Purple71/v4/b8/28/80/b82880a1-b833-6fdf-e381-996d9b5efbe9/source/392x696bb.jpg'><code>Screenshot 1</code></a> <a href='http://is4.mzstatic.com/image/thumb/Purple62/v4/b1/93/93/b19393b8-4f40-da6f-5782-9dc064a00b7a/source/392x696bb.jpg'><code>Screenshot 2</code></a> <a href='http://is1.mzstatic.com/image/thumb/Purple62/v4/f0/97/48/f0974881-d371-ed70-ee40-d813d5253a81/source/392x696bb.jpg'><code>Screenshot 3</code></a> <a href='http://is3.mzstatic.com/image/thumb/Purple71/v4/17/6b/c3/176bc37e-da3d-7b14-3983-7fe1e255dc3d/source/392x696bb.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [TrackMyTime](https://github.com/EvgenyKarkan/TrackMyTime) [` App Store`](https://apps.apple.com/app/trackmyday/id789386884)  
