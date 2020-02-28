@@ -367,7 +367,8 @@
       "stars": 352,
       "tags": [
         "swift",
-        "cocoapodskeys"
+        "cocoapodskeys",
+        "archive"
       ],
       "date_added": "Fri Nov 6 06:19:26 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -3694,8 +3695,8 @@
         "audio"
       ],
       "description": "Simple analog synthesizer keyboard music app example",
-      "source": "https://audiokit.io/examples/AnalogSynthX/",
-      "homepage": "https://github.com/audiokit/AudioKit/tree/master/Examples/iOS/AnalogSynthX",
+      "source": "https://github.com/audiokit/AudioKit",
+      "homepage": "https://audiokit.io/examples/AnalogSynthX/",
       "tags": [
         "swift",
         "swift2"
@@ -5489,7 +5490,8 @@
         "password"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "description": "password storage without the storage",
       "license": "mit",
@@ -9585,6 +9587,7 @@
       ],
       "tags": [
         "swift",
+        "archive",
         "iphone",
         "ipad"
       ],
@@ -13812,7 +13815,8 @@
       "source": "https://github.com/toggl/stopwatch",
       "itunes": "https://apps.apple.com/app/stopwatch-timer-time-logger/id1126783712",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "category-ids": [
         "timer"
@@ -15447,6 +15451,7 @@
       ],
       "tags": [
         "swift",
+        "archive",
         "browser",
         "extensible",
         "webkit"
