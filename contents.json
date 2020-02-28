@@ -18144,18 +18144,19 @@
       "tags": [
         "swift"
       ],
-      "description": "Extract video frames as images",
+      "description": "Extract video and Live Photo frames as images",
       "source": "https://github.com/arthurhammer/FrameGrabber",
       "license": "mit",
       "itunes": "https://apps.apple.com/app/frame-grabber/id1434703541",
       "screenshots": [
-        "https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/1.png",
-        "https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/2.png",
-        "https://raw.githubusercontent.com/arthurhammer/FrameGrabber/master/design/open-source-ios-apps/3.png"
+        "https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/1.jpg",
+        "https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/2.jpg",
+        "https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/3.jpg",
+        "https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/4.jpg"
       ],
       "date_added": "Sep 6 2019",
       "suggested_by": "@arthurhammer",
-      "stars": 18
+      "stars": 26
     },
     {
       "title": "DNSCloak",
