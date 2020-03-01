@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-911-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-February%2028,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-912-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%20%201,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3446,6 +3446,13 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added July 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/dkhamsing/osia/raw/master/Assets/0.1.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [OSRSUI](https://github.com/Dimillian/OSRSUI): Old School Runescape database browser  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> </summary>
+
+	Added March  1, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
 - [PhishOD](https://github.com/alecgorge/PhishOD-iOS): Listen to any song from phish.in, view concert ratings & reviews from phish.net [` App Store`](https://apps.apple.com/app/phish-on-demand-all-phish/id672139018)  
