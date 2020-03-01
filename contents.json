@@ -18493,6 +18493,19 @@
       "itunes": "https://apps.apple.com/app/triangledraw/id1453533043",
       "homepage": "http://www.triangledraw.com/",
       "stars": 17
+    },
+    {
+      "title": "OSRSUI",
+      "source": "https://github.com/Dimillian/OSRSUI",
+      "description": "Old School Runescape database browser",
+      "license": "apache-2.0",
+      "tags": [
+        "swift",
+        "swiftui",
+        "combine"
+      ],
+      "date_added": "March 1 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
