@@ -18496,6 +18496,9 @@
     },
     {
       "title": "OSRSUI",
+      "category-ids": [
+        "content"
+      ],      
       "source": "https://github.com/Dimillian/OSRSUI",
       "description": "Old School Runescape database browser",
       "license": "apache-2.0",
