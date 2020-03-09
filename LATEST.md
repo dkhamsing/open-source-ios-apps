@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [OSRSUI](https://github.com/Dimillian/OSRSUI)
-2. [TriangleDraw](https://github.com/triangledraw/TriangleDraw-iOS)
-3. [Ultimate Peg Solitaire](https://github.com/mkhrapov/ultimate-peg-solitaire)
-4. [Ulangi](https://github.com/ulangi/ulangi)
-5. [Siri Shortcut Example](https://github.com/CoyoteLab/Studies-Siri-Shortcut-iOS-13)
-6. [Matchimals.fun](https://github.com/igravitystudios/matchimals.fun)
-7. [Recipes](https://github.com/mecid/swiftui-recipes-app)
-8. [Exa Wallet Monero](https://github.com/exantech/exa-wallet-ios)
-9. [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios)
-10. [PGPro](https://github.com/lucanaef/PGPro)
-11. [WooCommerce](https://github.com/woocommerce/woocommerce-ios)
-12. [contacts-mvp-swift](https://github.com/tirupati17/contacts-mvp-swift)
-13. [giphy-mvvm-swift](https://github.com/tirupati17/giphy-mvvm-swift)
-14. [Passepartout](https://github.com/passepartoutvpn/passepartout-ios)
-15. [DNSCloak](https://github.com/s-s/dnscloak)
+1. [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)
+2. [Corona Virus Tracker & Advice](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)
+3. [Emoncms](https://github.com/emoncms/emoncms-ios)
+4. [2048 SwiftUI](https://github.com/unixzii/SwiftUI-2048)
+5. [OSRSUI](https://github.com/Dimillian/OSRSUI)
+6. [TriangleDraw](https://github.com/triangledraw/TriangleDraw-iOS)
+7. [Ultimate Peg Solitaire](https://github.com/mkhrapov/ultimate-peg-solitaire)
+8. [Ulangi](https://github.com/ulangi/ulangi)
+9. [Siri Shortcut Example](https://github.com/CoyoteLab/Studies-Siri-Shortcut-iOS-13)
+10. [Matchimals.fun](https://github.com/igravitystudios/matchimals.fun)
+11. [Recipes](https://github.com/mecid/swiftui-recipes-app)
+12. [Exa Wallet Monero](https://github.com/exantech/exa-wallet-ios)
+13. [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios)
+14. [PGPro](https://github.com/lucanaef/PGPro)
+15. [WooCommerce](https://github.com/woocommerce/woocommerce-ios)
 
 ## Thanks
 
