@@ -11050,7 +11050,7 @@
       "description": "Collaboration for teams, chat & share with https://matrix.org/",
       "source": "https://github.com/vector-im/riot-ios",
       "homepage": "https://matrix.org/",
-      "itunes": "https://apps.apple.com/us/app/vector-open-source-collaboration/id1083446067",
+      "itunes": "https://apps.apple.com/app/vector-open-source-collaboration/id1083446067",
       "license": "apache-2.0",
       "stars": 556,
       "date_added": "Thu Jul 21 22:53:48 2016 -0700",
@@ -16226,7 +16226,7 @@
       ],
       "license": "mit",
       "stars": 56,
-      "itunes": "https://apps.apple.com/us/app/racerunner-run-tracking-app/id1065017082",
+      "itunes": "https://apps.apple.com/app/racerunner-run-tracking-app/id1065017082",
       "screenshots": [
         "https://raw.githubusercontent.com/vermont42/RaceRunner/master/RaceRunner/RaceRunner1.png?raw=true",
         "https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner2.png?raw=true",
@@ -16251,7 +16251,7 @@
       ],
       "license": "mit",
       "stars": 24,
-      "itunes": "https://apps.apple.com/us/app/conjugar/id1236500467",
+      "itunes": "https://apps.apple.com/app/conjugar/id1236500467",
       "screenshots": [
         "https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true",
         "https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true",
@@ -17764,7 +17764,7 @@
       ],
       "description": "Cross platform messenger",
       "source": "https://github.com/tinode/ios",
-      "itunes": "https://apps.apple.com/us/app/tinode/id1483763538",
+      "itunes": "https://apps.apple.com/app/tinode/id1483763538",
       "stars": 57,
       "license": "apache-2.0",
       "date_added": "May 22 2019",
@@ -18191,7 +18191,7 @@
       "description": "User-friendly OpenVPN app",
       "license": "gpl-3.0",
       "source": "https://github.com/passepartoutvpn/passepartout-ios",
-      "itunes": "https://apps.apple.com/us/app/passepartout-openvpn-client/id1433648537",
+      "itunes": "https://apps.apple.com/app/passepartout-openvpn-client/id1433648537",
       "screenshots": [
         "https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-home.png",
         "https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-profile.png",
@@ -18365,7 +18365,7 @@
     {
       "title": "Recipes",
       "source": "https://github.com/mecid/swiftui-recipes-app",
-      "description": "Recipes app written in SwiftUI using Single State Container",
+      "description": "Recipes using Single State Container",
       "tags": [
         "swift",
         "swiftui"
@@ -18407,7 +18407,7 @@
     },
     {
       "title": "Siri Shortcut Example",
-      "description": "Example project with Siri and Shortcuts (Handoff) iOS 13 ",
+      "description": "Example project with Siri and Shortcuts (Handoff) in iOS 13",
       "source": "https://github.com/CoyoteLab/Studies-Siri-Shortcut-iOS-13",
       "category-ids": [
         "sample"
@@ -18431,9 +18431,9 @@
       "tags": [
         "react-native"
       ],
-      "description": "An app to learn languages using popular methods such as spaced repetition system.",
+      "description": "Learn languages using popular methods such as spaced repetition",
       "source": "https://github.com/ulangi/ulangi",
-      "itunes": "https://apps.apple.com/us/app/id1435524341",
+      "itunes": "https://apps.apple.com/app/id1435524341",
       "screenshots": [
         "https://ulangi.com/img/screenshots/AdvancedLanguageApp.png",
         "https://ulangi.com/img/screenshots/CreateFlashcardsEasily.png",
@@ -18481,7 +18481,7 @@
         "uidocument",
         "apple pencil"
       ],
-      "description": "Create logos, typography, and other graphics, using nothing but triangles.",
+      "description": "Create logos, typography, and other graphics, using nothing but triangles",
       "source": "https://github.com/triangledraw/TriangleDraw-iOS",
       "screenshots": [
         "https://raw.githubusercontent.com/triangledraw/TriangleDraw-iOS/develop/Source/Documentation/triangledraw_screenshots.png"
