@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **227** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **229** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1747,6 +1747,14 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/3c/80/9c/3c809cda-b830-dee3-0b1d-8fa809c84529/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/90/04/3f/90043fda-3ba9-1d5e-d20a-89d1a385b527/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/ce/99/4d/ce994dcb-9ab0-5ba8-9ef1-a5a396280dbb/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/4d/6d/d7/4d6dd753-77c8-8068-bf2a-c2d170fdc3d0/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
+- [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): Feed reader that supports RSS, Atom, JSON Feed, and RSS-in-JSON formats [` App Store`](https://apps.apple.com/app/netnewswire-rss-reader/id1480640210)  
+  <details>
+	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
+
+	https://ranchero.com/netnewswire/<br>  Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/bYxNu6a.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Tenere News Reader](https://github.com/yavuz/Tenere) [` App Store`](https://apps.apple.com/tr/app/tenere-news-reader/id987277462)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -2369,6 +2377,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added February 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/82/86/9a/82869afe-dccb-3e52-b00b-91ba0f19e614/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/47/35/bc473541-4b25-9efb-157b-e45af89e6888/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/fa/4b/32/fa4b326d-188d-2bae-63e5-72c10647b241/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/01/b0/9c/01b09cf3-32b2-6ea5-eebb-bcf30dcead43/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/9e/f2/1e/9ef21e03-3269-dae2-3f02-25950320e786/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
+- [Emoncms](https://github.com/emoncms/emoncms-ios): Emoncms dashboard [` App Store`](https://apps.apple.com/app/emoncms/id1169483587)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/emoncms/emoncms-ios/blob/master/images/screen1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/emoncms/emoncms-ios/blob/master/images/screen2.png?raw=true'><code>Screenshot 2</code></a> 
   </details>
 
 - [FreeRDP](https://github.com/FreeRDP/FreeRDP): An implementation of the Remote Desktop Protocol (RDP) [` App Store`](https://apps.apple.com/app/ifreerdp/id604813768)  
