@@ -18526,6 +18526,22 @@
       "date_added": "March 8 2020",
       "suggested_by": "@dkhamsing",
       "stars": 453
+    },
+    {
+      "title": "Emoncms",
+      "category-ids": [
+        "misc"
+      ],
+      "screenshots": ["https://github.com/emoncms/emoncms-ios/blob/master/images/screen1.png?raw=true", "https://github.com/emoncms/emoncms-ios/blob/master/images/screen2.png?raw=true"],
+      "source": "https://github.com/emoncms/emoncms-ios",
+      "itunes": "https://apps.apple.com/app/emoncms/id1169483587",
+      "description": "Emoncms dashboard",
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "March 8 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
