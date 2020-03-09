@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-912-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%20%204,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-916-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%20%209,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2054,6 +2054,14 @@ Click ► to show more details
 	<a href='https://i.imgur.com/3pZRJ82.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [2048 SwiftUI](https://github.com/unixzii/SwiftUI-2048): 2048 written with SwiftUI  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> ⭐⭐</summary>
+
+	Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/unixzii/SwiftUI-2048/blob/master/Screenshot.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Aeropack](https://github.com/insurgentgames/Aeropack): Steampunk retro 2D platformer  
   <details>
 	<summary><code>objc</code> </summary>
@@ -2534,6 +2542,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> </summary>
 
 	Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [Corona Virus Tracker & Advice](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/alfianlosari/CoronaVirusTrackerSwiftUI/master/promo.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Depressed](https://github.com/DerLobi/Depressed): Test if you are depressed [` App Store`](https://apps.apple.com/app/depressed/id1062594092)  
@@ -3910,6 +3926,14 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/3c/80/9c/3c809cda-b830-dee3-0b1d-8fa809c84529/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/90/04/3f/90043fda-3ba9-1d5e-d20a-89d1a385b527/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/ce/99/4d/ce994dcb-9ab0-5ba8-9ef1-a5a396280dbb/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/4d/6d/d7/4d6dd753-77c8-8068-bf2a-c2d170fdc3d0/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
+- [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): Feed reader that supports RSS, Atom, JSON Feed, and RSS-in-JSON formats [` App Store`](https://apps.apple.com/app/netnewswire-rss-reader/id1480640210)  
+  <details>
+	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
+
+	https://ranchero.com/netnewswire/<br>  Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/bYxNu6a.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [SwiftBlog](https://github.com/BalestraPatrick/SwiftBlog): Read the official Apple Swift Blog with RSS  
   <details>
 	<summary><code>swift</code> </summary>
@@ -4880,10 +4904,9 @@ https://joinmastodon.org — [back to top](#readme)
  
 - [11t](https://github.com/jeroensmeets/mastodon-app)  
   <details>
-	<summary><code>fuse-tools</code> </summary>
+	<summary><code>flutter</code> <code>dart</code> </summary>
 
-	Added April 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/jeroensmeets/mastodon-app/blob/master/Assets/images/store/appstore/screenshot_timeline.png?raw=true'><code>Screenshot 1</code></a> 
+	Added April 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [tootbot](https://github.com/tootbot/tootbot)  
@@ -5360,6 +5383,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added March 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/jpsim/DeckRocket/raw/master/demo.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Emoncms](https://github.com/emoncms/emoncms-ios): Emoncms dashboard [` App Store`](https://apps.apple.com/app/emoncms/id1169483587)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/emoncms/emoncms-ios/blob/master/images/screen1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/emoncms/emoncms-ios/blob/master/images/screen2.png?raw=true'><code>Screenshot 2</code></a> 
   </details>
 
 - [FreeRDP](https://github.com/FreeRDP/FreeRDP): An implementation of the Remote Desktop Protocol (RDP) [` App Store`](https://apps.apple.com/app/ifreerdp/id604813768)  
