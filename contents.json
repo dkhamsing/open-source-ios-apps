@@ -18558,6 +18558,24 @@
       "date_added": "March 8 2020",
       "suggested_by": "@dkhamsing",
       "stars": 79
+    },
+    {
+      "title": "NetNewsWire",
+      "description": "Feed reader that supports RSS, Atom, JSON Feed, and RSS-in-JSON formats",
+      "category-ids": [
+        "rss"
+      ],
+      "screenshots": ["https://i.imgur.com/bYxNu6a.png"],
+      "source": "https://github.com/Ranchero-Software/NetNewsWire",
+      "homepage": "https://ranchero.com/netnewswire/",
+      "itunes": "https://apps.apple.com/app/netnewswire-rss-reader/id1480640210",
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "March 8 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 2800
     }
   ]
 }
