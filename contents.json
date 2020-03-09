@@ -18509,6 +18509,23 @@
       "date_added": "March 1 2020",
       "suggested_by": "@dkhamsing",
       "stars": 8
+    },
+    {
+      "title": "2048 SwiftUI",
+      "category-ids": [
+        "game"
+      ],
+      "screenshots": ["https://github.com/unixzii/SwiftUI-2048/blob/master/Screenshot.png?raw=true"],
+      "source": "https://github.com/unixzii/SwiftUI-2048",
+      "description": "2048 written with SwiftUI",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "date_added": "March 8 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 453
     }
   ]
 }
