@@ -18542,6 +18542,22 @@
       ],
       "date_added": "March 8 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Corona Virus Tracker & Advice",
+      "category-ids": [
+        "health"
+      ],
+      "screenshots": ["https://raw.githubusercontent.com/alfianlosari/CoronaVirusTrackerSwiftUI/master/promo.jpg"],
+      "source": "https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "date_added": "March 8 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 79
     }
   ]
 }
