@@ -18576,6 +18576,23 @@
       "date_added": "March 8 2020",
       "suggested_by": "@dkhamsing",
       "stars": 2800
+    },
+    ,
+    {
+      "title": "Covidcheck",
+      "description": "Track COVID-19 cases in a beautiful, easy-to-use interface",
+      "category-ids": [
+        "health"
+      ],
+      "screenshots": ["https://github.com/julianschiavo/Covidcheck/blob/master/screenshot.PNG?raw=true"],
+      "source": "https://github.com/julianschiavo/Covidcheck",
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "March 16 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 87
     }
   ]
 }
