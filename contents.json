@@ -18592,6 +18592,23 @@
       "date_added": "March 16 2020",
       "suggested_by": "@dkhamsing",
       "stars": 87
+    },
+    {
+      "title": "Corona Tracker",
+      "description": "Coronavirus tracker app for iOS & macOS with maps & charts",
+      "category-ids": [
+        "health"
+      ],
+      "homepage": "https://coronatracker.samabox.com/",
+      "screenshots": ["https://user-images.githubusercontent.com/121827/76356430-fe06ff80-6326-11ea-8107-60f900a73016.png"],
+      "source": "https://github.com/MhdHejazi/CoronaTracker",
+      "license": "gpl-3.0",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "March 20 2020",
+      "suggested_by": "@MhdHejazi",
+      "stars": 564
     }
   ]
 }
