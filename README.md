@@ -1953,7 +1953,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios): Easy to use and secure Ethereum wallet [` App Store`](https://apps.apple.com/app/alphawallet/id1358230430)  
+- [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios): Easy-to-use and secure Ethereum wallet [` App Store`](https://apps.apple.com/app/alphawallet/id1358230430)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -2544,7 +2544,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker): Coronavirus tracker app for iOS & macOS with maps & charts  
+- [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker): Coronavirus tracker with maps & charts, includes macOS  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐</summary>
 
