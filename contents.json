@@ -18324,7 +18324,7 @@
       "category-ids": [
         "cryptocurrency"
       ],
-      "description": "Easy to use and secure Ethereum wallet",
+      "description": "Easy-to-use and secure Ethereum wallet",
       "source": "https://github.com/AlphaWallet/alpha-wallet-ios",
       "homepage": "https://alphawallet.com/",
       "itunes": "https://apps.apple.com/app/alphawallet/id1358230430",
@@ -18595,7 +18595,7 @@
     },
     {
       "title": "Corona Tracker",
-      "description": "Coronavirus tracker app for iOS & macOS with maps & charts",
+      "description": "Coronavirus tracker with maps & charts, includes macOS",
       "category-ids": [
         "health"
       ],
