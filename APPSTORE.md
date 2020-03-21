@@ -864,7 +864,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios): Easy to use and secure Ethereum wallet [` App Store`](https://apps.apple.com/app/alphawallet/id1358230430)  
+- [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios): Easy-to-use and secure Ethereum wallet [` App Store`](https://apps.apple.com/app/alphawallet/id1358230430)  
   <details>
 	<summary><code>swift</code> </summary>
 
