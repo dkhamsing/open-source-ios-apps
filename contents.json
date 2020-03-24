@@ -18609,6 +18609,22 @@
       "date_added": "March 20 2020",
       "suggested_by": "@MhdHejazi",
       "stars": 564
-    }
+    },
+    {
+      "title": "Library Genesis",
+      "category-ids": ["misc"],
+      "description": "Preview and download books from Library Genesis.",
+      "source": "https://github.com/MartinStamenkovski/LibraryGenesis",
+      "license": "mit",
+      "tags": ["swift"],
+      "screenshots": [
+        "https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/latest.png",
+        "https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/search.png",
+        "https: //github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/preview.png"
+      ],
+      "date_added": "March 24 2020",
+      "suggested_by": "@MartinStamenkovski",
+      "stars": 0
+      }
   ]
 }
