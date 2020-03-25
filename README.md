@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-918-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2021,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-919-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2025,%202020-lightgrey.svg)
 
 Jump to
 
@@ -5447,6 +5447,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added July 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Library Genesis](https://github.com/MartinStamenkovski/LibraryGenesis): Preview and download books from Library Genesis.  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added March 24, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/latest.png'><code>Screenshot 1</code></a> <a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/search.png'><code>Screenshot 2</code></a> <a href='https: //github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/preview.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [LibreOffice Remote for Impress](https://cgit.freedesktop.org/libreoffice/impress_remote/): Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely [` App Store`](https://apps.apple.com/app/id806879890)  
