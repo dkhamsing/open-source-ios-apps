@@ -18639,6 +18639,27 @@
       ],
       "date_added": "March 25 2020",
       "suggested_by": "@dkhamsing"
-      }
+    },
+    {
+      "title": "deltachat",
+      "category-ids": [
+        "communication"
+      ],
+      "tags": [
+        "swift",
+        "ipad"
+      ],
+      "description": "Email-based instant messaging",
+      "license": "other",
+      "source": "https://github.com/deltachat/deltachat-ios",
+      "itunes": "https://apps.apple.com/app/delta-chat/id1459523234",
+      "screenshots": [
+        "https://github.com/deltachat/deltachat-ios/blob/master/docs/images/screenshot_chat_list.png?raw=true",
+        "https://github.com/deltachat/deltachat-ios/blob/master/docs/images/screenshot_chat_view.png?raw=true"
+      ],
+      "stars": 107,
+      "date_added": "March 25 2020",
+      "suggested_by": "@dkhamsing"
+    }
   ]
 }
