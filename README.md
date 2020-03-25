@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-920-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2025,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-921-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2025,%202020-lightgrey.svg)
 
 Jump to
 
@@ -797,6 +797,14 @@ Click ► to show more details
 
 	Added January 27, 2016<br>  License: `other`<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/02/ed/a1/02eda19d-a1eb-f607-daed-67cc275db963/mzl.ymupketw.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/e8/a4/95e8a416-ab17-b309-c5f3-db16c8ebd434/mzl.dquclsly.png/626x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/49/39/11/49391171-cf81-3db8-571b-6fae63bf1163/mzl.vmvxxfwh.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/4c/f6/16/4cf61698-128c-eb16-9d7d-a5d7d04599f4/mzl.bludqoil.png/460x0w.jpg'><code>Screenshot 4</code></a> 
+  </details>
+
+- [deltachat](https://github.com/deltachat/deltachat-ios): Email-based instant messaging [` App Store`](https://apps.apple.com/app/delta-chat/id1459523234)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> ⭐</summary>
+
+	Added March 25, 2020<br>  License: `other`<br>
+	<a href='https://github.com/deltachat/deltachat-ios/blob/master/docs/images/screenshot_chat_list.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/deltachat/deltachat-ios/blob/master/docs/images/screenshot_chat_view.png?raw=true'><code>Screenshot 2</code></a> 
   </details>
 
 - [Falcon Messenger](https://github.com/RMizin/FalconMessenger): Fast and beautiful cloud-based messaging app [` App Store`](https://apps.apple.com/app/id1313765714)  
@@ -3096,6 +3104,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	https://kodi.tv/<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/95/5b/f0/955bf0bb-c897-bf04-e91e-5872cd937762/mzl.ewoyekko.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/77/09/18/770918b9-a6e0-c18b-d537-2e57539f9d90/mzl.ubgzfasc.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/41/e6/8241e63f-35b1-cbe9-6cd4-2cbdce9feb4b/mzl.ddodyqvp.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/25/d9/ee/25d9eec0-30bb-54e6-4273-d9f29913ccde/mzl.jhwhiolh.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/2e/46/f72e4657-9da9-930a-6f7e-8a636c28d5a5/mzl.kdweouvd.png/460x0w.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
+- [Library Genesis](https://github.com/MartinStamenkovski/LibraryGenesis): Preview and download books from Library Genesis https://libgen.is  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added March 24, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/latest.png'><code>Screenshot 1</code></a> <a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/search.png'><code>Screenshot 2</code></a> <a href='https: //github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/preview.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [Loose Leaf](https://github.com/adamwulf/loose-leaf): Take notes, import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://apps.apple.com/app/loose-leaf/id625659452)  
@@ -5455,14 +5471,6 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added July 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
-  </details>
-
-- [Library Genesis](https://github.com/MartinStamenkovski/LibraryGenesis): Preview and download books from Library Genesis.  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added March 24, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/latest.png'><code>Screenshot 1</code></a> <a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/search.png'><code>Screenshot 2</code></a> <a href='https: //github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/preview.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [LibreOffice Remote for Impress](https://cgit.freedesktop.org/libreoffice/impress_remote/): Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely [` App Store`](https://apps.apple.com/app/id806879890)  
