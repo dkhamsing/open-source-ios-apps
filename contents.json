@@ -18612,8 +18612,8 @@
     },
     {
       "title": "Library Genesis",
-      "category-ids": ["misc"],
-      "description": "Preview and download books from Library Genesis.",
+      "category-ids": ["media"],
+      "description": "Preview and download books from Library Genesis https://libgen.is",
       "source": "https://github.com/MartinStamenkovski/LibraryGenesis",
       "license": "mit",
       "tags": ["swift"],
