@@ -18625,6 +18625,20 @@
       "date_added": "March 24 2020",
       "suggested_by": "@MartinStamenkovski",
       "stars": 0
+    },
+    {
+      "title": "Suicide Safety Plan",
+      "category-ids": ["health"],
+      "description": "Suicide prevention",
+      "source": "https://github.com/suicidesafetyplan/safetyplan-ios",
+      "itunes": "https://apps.apple.com/app/id1003891579",
+      "license": "mit",
+      "tags": ["objc"],
+      "screenshots": [
+        "https://i.imgur.com/9N05Hru.png"
+      ],
+      "date_added": "March 25 2020",
+      "suggested_by": "@dkhamsing"
       }
   ]
 }
