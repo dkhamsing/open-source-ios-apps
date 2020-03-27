@@ -18660,6 +18660,26 @@
       "stars": 107,
       "date_added": "March 25 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "LibTerm",
+      "description": "Terminal with Python 3.7 and Lua 5.3, supports iOS 13 dark mode and multi window",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift",
+        "ipad"
+      ],
+      "license": "mit",
+      "source": "https://github.com/ColdGrub1384/LibTerm",
+      "itunes": "https://apps.apple.com/app/libterm/id1380911705",
+      "screenshots": [
+        "https://i.imgur.com/dJs2tXc.png"
+      ],
+      "stars": 142,
+      "date_added": "March 27 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
