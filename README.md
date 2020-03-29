@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-923-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2027,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-923-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-March%2029,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1075,7 +1075,7 @@ Click ► to show more details
 	<a href='https://github.com/ndfred/iperf-ios/raw/master/Screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [iSH](https://github.com/tbodt/ish): The Linux shell on iOS  
+- [iSH](https://github.com/ish-app/ish): The Linux shell on iOS  
   <details>
 	<summary><code>c</code> <code>obj-c</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -1543,7 +1543,7 @@ Click ► to show more details
 	<a href='http://moreinfo.thebigboss.org/moreinfo/iuae1.jpg'><code>Screenshot 1</code></a> <a href='http://moreinfo.thebigboss.org/moreinfo/iuae4.jpg'><code>Screenshot 2</code></a> 
   </details>
 
-- [iSH](https://github.com/tbodt/ish): The Linux shell on iOS  
+- [iSH](https://github.com/ish-app/ish): The Linux shell on iOS  
   <details>
 	<summary><code>c</code> <code>obj-c</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -4921,12 +4921,12 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://github.com/tombaranowicz/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.18.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/tombaranowicz/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.54.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/tombaranowicz/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.54.47.png?raw=true'><code>Screenshot 3</code></a> 
   </details>
 
-- [Potter Pics](https://github.com/surayashivji/PotterPics): Harry Potter themed social network similar to Instagram  
+- [Potter Pics](https://github.com/surayashivji/potter-pics): Harry Potter themed social network similar to Instagram  
   <details>
 	<summary><code>swift</code> <code>swift3</code> <code>firebase</code> ⭐</summary>
 
 	Added January 15, 2017<br>
-	<a href='https://github.com/surayashivji/PotterPics/blob/master/Overview.gif'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/surayashivji/potter-pics/blob/master/Overview.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [Queue'd Music](https://github.com/rldaulton/queued-music): A real-time, votable, democratized music queue on iPad and iPhone using Spotify  
@@ -5724,12 +5724,12 @@ https://firebase.google.com/ — [back to top](#readme)
 	<a href='http://relatedcode.com/screen/chat01.png'><code>Screenshot 1</code></a> <a href='http://relatedcode.com/screen/call1.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [Potter Pics](https://github.com/surayashivji/PotterPics): Harry Potter themed social network similar to Instagram  
+- [Potter Pics](https://github.com/surayashivji/potter-pics): Harry Potter themed social network similar to Instagram  
   <details>
 	<summary><code>swift</code> <code>swift3</code> <code>firebase</code> ⭐</summary>
 
 	Added January 15, 2017<br>
-	<a href='https://github.com/surayashivji/PotterPics/blob/master/Overview.gif'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/surayashivji/potter-pics/blob/master/Overview.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [Quick Chat](https://github.com/aslanyanhaik/Quick-Chat): Real time chat app  
