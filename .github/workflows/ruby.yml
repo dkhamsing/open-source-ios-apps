@@ -2,7 +2,7 @@ name: Ruby
 
 on:
   push:
-    branches: [ ga ]
+    branches: [ master ]
   pull_request:
     branches: [ master ]
 
@@ -17,7 +17,7 @@ jobs:
       uses: actions/setup-ruby@v1
       with:
         ruby-version: 2.6.x
-    - name: Build and test with Rake
+    - name: Checks
       run: |
         ruby .github/osia_convert.rb
         gem install awesome_bot
