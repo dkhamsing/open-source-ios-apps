@@ -18723,5 +18723,15 @@
       "date_added": "March 27 2020",
       "suggested_by": "@dkhamsing"
     }
+    {
+      "title": "mChat",
+      "category-ids": ["communication"],
+      "description": "Real-time messaging app using firebase.",
+      "source": "https://github.com/realpaliy/mChat",
+      "itunes": "-",
+      "screenshots": ["https://imgur.com/uvinWB9"],
+      "date_added": "April 2 2020",
+      "suggested_by": "@realpaliy"
+    }   
   ]
 }
