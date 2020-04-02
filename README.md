@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-923-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%202,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-924-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%202,%202020-lightgrey.svg)
 
 Jump to
 
@@ -837,6 +837,14 @@ Click ► to show more details
 
 	Added August 22, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/48/5f/07/485f073c-1bd4-acdb-127f-0bd5d266d359/mzl.gqlurkmf.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/cc/b4/b8/ccb4b8a4-f912-b4a7-d69f-1f9fda24f368/mzl.whsepbnn.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/93/7c/fc/937cfca3-14fd-0a4e-0690-ab02d07452ee/mzl.wkqxfgho.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/49/12/40/4912400a-b408-3bf2-cf8a-8ecdefb858c0/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
+  </details>
+
+- [mChat](https://github.com/realpaliy/mChat): Real-time messaging app using firebase.  
+  <details>
+	<summary></summary>
+
+	Added April  2, 2020<br>
+	<a href='https://imgur.com/uvinWB9'><code>Screenshot 1</code></a> 
   </details>
 
 - [Messenger](https://github.com/relatedcode/Messenger): Audio/video calls, realtime chat & full offline support  
