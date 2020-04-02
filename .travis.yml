@@ -5,8 +5,8 @@ before_script:
   - gem install danger
 script:
   - ruby .github/osia_get_links.rb
-  - awesome_bot check-unique.txt --allow-ssl -a 302 -w xbmc/xbmc
-  - awesome_bot check-links.txt  --allow-ssl -a 403 --allow-dupe
+  - awesome_bot check-unique.txt --allow-ssl -a 302,429 -w xbmc/xbmc
+  - awesome_bot check-links.txt  --allow-ssl -a 403,429 --allow-dupe
 after_script:
-  - awesome_bot check-info.txt -a 403
+  - awesome_bot check-info.txt -a 403,429
   - danger
