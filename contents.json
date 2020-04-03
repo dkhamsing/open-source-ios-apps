@@ -18732,6 +18732,20 @@
       "screenshots": ["https://imgur.com/uvinWB9"],
       "date_added": "April 2 2020",
       "suggested_by": "@realpaliy"
+    },
+    {
+      "title": "wildcats",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "objc",
+        "archive"
+      ],
+      "license": "other",
+      "source": "https://github.com/pietbrauer/wildcats",
+      "date_added": "Apr 3 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
