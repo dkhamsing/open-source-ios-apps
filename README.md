@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-924-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%202,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-926-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%203,%202020-lightgrey.svg)
 
 Jump to
 
@@ -841,9 +841,9 @@ Click ► to show more details
 
 - [mChat](https://github.com/realpaliy/mChat): Real-time messaging app using firebase.  
   <details>
-	<summary></summary>
+	<summary><code>swift</code> </summary>
 
-	Added April  2, 2020<br>
+	Added April  2, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://imgur.com/uvinWB9'><code>Screenshot 1</code></a> 
   </details>
 
@@ -1041,6 +1041,13 @@ Click ► to show more details
 
 	https://kapeli.com/dash_ios<br>  Added November 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://kapeli.com/img/dash_ios-s1.png'><code>Screenshot 1</code></a> <a href='https://kapeli.com/img/dash_ios-s2.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [DevSwitch](https://github.com/aaronpearce/DevSwitch): Switch between countries on the App Store with ease  
+  <details>
+	<summary><code>swift</code> ⭐⭐</summary>
+
+	Added April  3, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [ESCapey](https://github.com/brianmichel/ESCapey): macOS server & iOS client app pair that allow you to turn any iOS device into the escape key you've come to know and love  
