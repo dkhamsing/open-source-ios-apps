@@ -18731,7 +18731,7 @@
       "source": "https://github.com/realpaliy/mChat",
       "screenshots": ["https://imgur.com/uvinWB9"],
       "date_added": "April 2 2020",
-      "license": "apache-2.0",      
+      "license": "apache-2.0",
       "suggested_by": "@realpaliy"
     },
     {
@@ -18745,6 +18745,21 @@
       ],
       "license": "other",
       "source": "https://github.com/pietbrauer/wildcats",
+      "date_added": "Apr 3 2020",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "DevSwitch",
+      "description": "Switch between countries on the App Store with ease",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "mit",
+      "source": "https://github.com/aaronpearce/DevSwitch",
+      "stars": 404,
       "date_added": "Apr 3 2020",
       "suggested_by": "@dkhamsing"
     }
