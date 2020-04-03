@@ -18726,6 +18726,7 @@
     {
       "title": "mChat",
       "category-ids": ["communication"],
+      "tags": ["swift"],
       "description": "Real-time messaging app using firebase.",
       "source": "https://github.com/realpaliy/mChat",
       "screenshots": ["https://imgur.com/uvinWB9"],
