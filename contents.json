@@ -17804,7 +17804,7 @@
       ],
       "description": "Control and monitor your home from anywhere in the world",
       "license": "apache-2.0",
-      "source": "https://github.com/home-assistant/home-assistant-iOS",
+      "source": "https://github.com/home-assistant/iOS",
       "homepage": "https://www.home-assistant.io/",
       "itunes": "https://apps.apple.com/app/home-assistant-open-source-home-automation/id1099568401",
       "stars": 323,
