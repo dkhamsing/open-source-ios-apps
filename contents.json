@@ -18762,6 +18762,24 @@
       "stars": 404,
       "date_added": "Apr 3 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Coronavirus in Iran",
+      "category-ids": [
+        "health"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/soroushchehresa/iran-coronavirus/master/screenshots.jpg"
+      ],
+      "source": "https://github.com/soroushchehresa/iran-coronavirus",
+      "license": "other",
+      "tags": [
+        "swift",
+        "react-native",
+        "typescript"
+      ],
+      "date_added": "Apr 4 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
