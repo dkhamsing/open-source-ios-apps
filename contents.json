@@ -18795,6 +18795,23 @@
       "license": "mit",
       "date_added": "Apr 5 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "covid19",
+      "description": "COVID-19 / health news and tweets",
+      "category-ids": [
+        "news-api"
+      ],
+      "screenshots": [
+        "https://github.com/dkhamsing/covid19.swift/blob/dev/Images/covid19.swift.png?raw=true"
+      ],
+      "source": "https://github.com/dkhamsing/covid19.swift",
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Apr 5 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
