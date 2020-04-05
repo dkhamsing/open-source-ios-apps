@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Apollo](https://github.com/KhaosT/open-apollo)
-2. [Coronavirus in Iran](https://github.com/soroushchehresa/iran-coronavirus)
-3. [DevSwitch](https://github.com/aaronpearce/DevSwitch)
-4. [wildcats](https://github.com/pietbrauer/wildcats)
-5. [mChat](https://github.com/realpaliy/mChat)
-6. [Moonwalk](https://github.com/illu/moonwalk)
-7. [LibTerm](https://github.com/ColdGrub1384/LibTerm)
-8. [deltachat](https://github.com/deltachat/deltachat-ios)
-9. [Suicide Safety Plan](https://github.com/suicidesafetyplan/safetyplan-ios)
-10. [Library Genesis](https://github.com/MartinStamenkovski/LibraryGenesis)
-11. [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker)
-12. [Covidcheck](https://github.com/julianschiavo/Covidcheck)
-13. [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)
-14. [Corona Virus Tracker & Advice](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)
-15. [Emoncms](https://github.com/emoncms/emoncms-ios)
+1. [covid19](https://github.com/dkhamsing/covid19.swift)
+2. [Apollo](https://github.com/KhaosT/open-apollo)
+3. [Coronavirus in Iran](https://github.com/soroushchehresa/iran-coronavirus)
+4. [DevSwitch](https://github.com/aaronpearce/DevSwitch)
+5. [wildcats](https://github.com/pietbrauer/wildcats)
+6. [mChat](https://github.com/realpaliy/mChat)
+7. [Moonwalk](https://github.com/illu/moonwalk)
+8. [LibTerm](https://github.com/ColdGrub1384/LibTerm)
+9. [deltachat](https://github.com/deltachat/deltachat-ios)
+10. [Suicide Safety Plan](https://github.com/suicidesafetyplan/safetyplan-ios)
+11. [Library Genesis](https://github.com/MartinStamenkovski/LibraryGenesis)
+12. [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker)
+13. [Covidcheck](https://github.com/julianschiavo/Covidcheck)
+14. [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)
+15. [Corona Virus Tracker & Advice](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)
 
 ## Thanks
 
