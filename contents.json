@@ -18780,6 +18780,21 @@
       ],
       "date_added": "Apr 4 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Apollo",
+      "category-ids": [
+        "apple-watch"
+      ],
+      "description": "Spotify player for watchOS",
+      "source": "https://github.com/KhaosT/open-apollo",
+      "stars": 34,
+      "tags": [
+        "swift"
+      ],
+      "license": "mit",
+      "date_added": "Apr 5 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
