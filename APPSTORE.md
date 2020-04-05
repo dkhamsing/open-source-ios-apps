@@ -1195,7 +1195,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS): Control and monitor your home from anywhere in the world [` App Store`](https://apps.apple.com/app/home-assistant-open-source-home-automation/id1099568401)  
+- [Home Assistant Companion](https://github.com/home-assistant/iOS): Control and monitor your home from anywhere in the world [` App Store`](https://apps.apple.com/app/home-assistant-open-source-home-automation/id1099568401)  
   <details>
 	<summary><code>swift</code> ⭐⭐</summary>
 
