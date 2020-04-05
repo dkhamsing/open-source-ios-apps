@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-926-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%203,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-928-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%205,%202020-lightgrey.svg)
 
 Jump to
 
@@ -197,6 +197,13 @@ Click ► to show more details
 
 	Added April 11, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://raw.githubusercontent.com/efremidze/Alarm/master/screenshots/en-US/iPhone7-0-d41d8cd98f00b204e9800998ecf8427e.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Apollo](https://github.com/KhaosT/open-apollo): Spotify player for watchOS  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April  5, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [AppleWatchFaces](https://github.com/orff/AppleWatchFaces): Create your own faces for watchOS  
@@ -2591,6 +2598,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/alfianlosari/CoronaVirusTrackerSwiftUI/master/promo.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [Coronavirus in Iran](https://github.com/soroushchehresa/iran-coronavirus)  
+  <details>
+	<summary><code>swift</code> <code>react-native</code> <code>typescript</code> </summary>
+
+	Added April  4, 2020<br>  License: `other`<br>
+	<a href='https://raw.githubusercontent.com/soroushchehresa/iran-coronavirus/master/screenshots.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Covidcheck](https://github.com/julianschiavo/Covidcheck): Track COVID-19 cases in a beautiful, easy-to-use interface  
   <details>
 	<summary><code>swift</code> ⭐⭐</summary>
@@ -2755,7 +2770,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Home Assistant Companion](https://github.com/home-assistant/home-assistant-iOS): Control and monitor your home from anywhere in the world [` App Store`](https://apps.apple.com/app/home-assistant-open-source-home-automation/id1099568401)  
+- [Home Assistant Companion](https://github.com/home-assistant/iOS): Control and monitor your home from anywhere in the world [` App Store`](https://apps.apple.com/app/home-assistant-open-source-home-automation/id1099568401)  
   <details>
 	<summary><code>swift</code> ⭐⭐</summary>
 
