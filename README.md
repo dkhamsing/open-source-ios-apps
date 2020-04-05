@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-928-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%205,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-929-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%205,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3975,6 +3975,14 @@ https://news.ycombinator.com/ — [back to top](#readme)
  
 https://newsapi.org/ — [back to top](#readme) 
  
+- [covid19](https://github.com/dkhamsing/covid19.swift): COVID-19 / health news and tweets  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April  5, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/covid19.swift.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
 - [DailyFeed](https://github.com/paulsumit1993/DailyFeed)  
   <details>
 	<summary><code>swift</code> </summary>
