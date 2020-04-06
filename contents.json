@@ -18843,7 +18843,7 @@
       ],
       "description": "Real time chat",
       "license": "mit",
-      "source": "https://github.com/chrisballinger/BLEMeshChat",
+      "source": "https://github.com/instamobile/messenger-iOS-chat-swift-firestore",
       "screenshots": [
         "https://www.iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png"
       ],
