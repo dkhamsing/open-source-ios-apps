@@ -18812,6 +18812,23 @@
       ],
       "date_added": "Apr 5 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Corona virus Tracker",
+      "category-ids": [
+        "health"
+      ],
+      "screenshots": [
+        "https://github.com/nploi/corona_tracker/blob/master/screenshots/1.jpg?raw=true",
+        "https://github.com/nploi/corona_tracker/blob/master/screenshots/2.jpg?raw=true"
+      ],
+      "source": "https://github.com/nploi/corona_tracker",
+      "license": "mit",
+      "tags": [
+        "dart"
+      ],
+      "date_added": "Apr 6 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
