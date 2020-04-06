@@ -18829,6 +18829,27 @@
       ],
       "date_added": "Apr 6 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Messenger Clone",
+      "category-ids": [
+        "communication",
+        "clone"
+      ],
+      "tags": [
+        "swift",
+        "firebase",
+        "firestore"
+      ],
+      "description": "Real time chat",
+      "license": "mit",
+      "source": "https://github.com/chrisballinger/BLEMeshChat",
+      "screenshots": [
+        "https://www.iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png"
+      ],
+      "stars": 245,
+      "date_added": "Apr 6 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
