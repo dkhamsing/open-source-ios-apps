@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-929-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%205,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-931-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%206,%202020-lightgrey.svg)
 
 Jump to
 
@@ -690,6 +690,14 @@ Click ► to show more details
 	<a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-1.gif?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-2.gif?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-3.gif?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-4.gif?raw=true'><code>Screenshot 4</code></a> 
   </details>
 
+- [Messenger Clone](https://github.com/instamobile/messenger-iOS-chat-swift-firestore): Real time chat  
+  <details>
+	<summary><code>swift</code> <code>firebase</code> <code>firestore</code> ⭐⭐</summary>
+
+	Added April  6, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://www.iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Pinterest](https://github.com/ivsall2012/AHPinterest)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -860,6 +868,14 @@ Click ► to show more details
 
 	Added July 19, 2017<br>  License: `other`<br>
 	<a href='http://relatedcode.com/screen/chat01.png'><code>Screenshot 1</code></a> <a href='http://relatedcode.com/screen/call1.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [Messenger Clone](https://github.com/instamobile/messenger-iOS-chat-swift-firestore): Real time chat  
+  <details>
+	<summary><code>swift</code> <code>firebase</code> <code>firestore</code> ⭐⭐</summary>
+
+	Added April  6, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://www.iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Monal](https://github.com/anurodhp/Monal): Connect to your chat server without having to give a third party access to your password or messages [` App Store`](https://apps.apple.com/app/monal-free-xmpp-chat/id317711500)  
@@ -2588,6 +2604,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	https://coronatracker.samabox.com/<br>  Added March 20, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://user-images.githubusercontent.com/121827/76356430-fe06ff80-6326-11ea-8107-60f900a73016.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Corona virus Tracker](https://github.com/nploi/corona_tracker)  
+  <details>
+	<summary><code>dart</code> </summary>
+
+	Added April  6, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/nploi/corona_tracker/blob/master/screenshots/1.jpg?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/nploi/corona_tracker/blob/master/screenshots/2.jpg?raw=true'><code>Screenshot 2</code></a> 
   </details>
 
 - [Corona Virus Tracker & Advice](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)  
