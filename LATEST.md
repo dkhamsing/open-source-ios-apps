@@ -4,7 +4,7 @@ These are the 15 latest entries from the [main list](https://github.com/dkhamsin
 
 
 1. [Messenger Clone](https://github.com/instamobile/messenger-iOS-chat-swift-firestore)
-2. [Corona virus Tracker](https://github.com/nploi/corona_tracker)
+2. [Corona virus tracker](https://github.com/nploi/corona_tracker)
 3. [covid19](https://github.com/dkhamsing/covid19.swift)
 4. [Apollo](https://github.com/KhaosT/open-apollo)
 5. [Coronavirus in Iran](https://github.com/soroushchehresa/iran-coronavirus)
