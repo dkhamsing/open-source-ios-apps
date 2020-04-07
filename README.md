@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-931-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%206,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-931-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%20%207,%202020-lightgrey.svg)
 
 Jump to
 
@@ -690,7 +690,7 @@ Click ► to show more details
 	<a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-1.gif?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-2.gif?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-3.gif?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-4.gif?raw=true'><code>Screenshot 4</code></a> 
   </details>
 
-- [Messenger Clone](https://github.com/instamobile/messenger-iOS-chat-swift-firestore): Real time chat  
+- [Messenger Clone](https://github.com/instamobile/messenger-iOS-chat-swift-firestore): Real-time chat  
   <details>
 	<summary><code>swift</code> <code>firebase</code> <code>firestore</code> ⭐⭐</summary>
 
@@ -798,7 +798,7 @@ Click ► to show more details
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c8/50/45/c85045d1-e4c3-b45c-b807-88895baabea7/mzl.ifcxuteh.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/76/4a/b2764a43-7234-d208-f390-2d7efd07b13d/mzl.efigjugg.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/f1/8d/b6f18d6a-c361-bfda-9992-6bb0ddc7d9e3/mzl.yplvxiqv.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/49/af/7a/49af7a2a-6ed2-9f47-5511-92c8734a9c77/mzl.bdnewqrd.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [Chaty](https://github.com/LunarFlash/Chaty): Anonymous messaging with real time data sync  
+- [Chaty](https://github.com/LunarFlash/Chaty): Anonymous messaging with real-time data sync  
   <details>
 	<summary><code>swift</code> <code>firebase</code> <code>websocket</code> <code>nosql</code> ⭐⭐</summary>
 
@@ -854,7 +854,7 @@ Click ► to show more details
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/48/5f/07/485f073c-1bd4-acdb-127f-0bd5d266d359/mzl.gqlurkmf.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/cc/b4/b8/ccb4b8a4-f912-b4a7-d69f-1f9fda24f368/mzl.whsepbnn.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/93/7c/fc/937cfca3-14fd-0a4e-0690-ab02d07452ee/mzl.wkqxfgho.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/49/12/40/4912400a-b408-3bf2-cf8a-8ecdefb858c0/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [mChat](https://github.com/realpaliy/mChat): Real-time messaging app using firebase.  
+- [mChat](https://github.com/realpaliy/mChat): Real-time messaging app using firebase  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -870,7 +870,7 @@ Click ► to show more details
 	<a href='http://relatedcode.com/screen/chat01.png'><code>Screenshot 1</code></a> <a href='http://relatedcode.com/screen/call1.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [Messenger Clone](https://github.com/instamobile/messenger-iOS-chat-swift-firestore): Real time chat  
+- [Messenger Clone](https://github.com/instamobile/messenger-iOS-chat-swift-firestore): Real-time chat  
   <details>
 	<summary><code>swift</code> <code>firebase</code> <code>firestore</code> ⭐⭐</summary>
 
@@ -894,7 +894,7 @@ Click ► to show more details
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/71/36/95/7136953f-7ffc-05fa-0df7-78cc7ec4b06b/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/67/56/94/67569407-e82a-6d28-80e6-c59845726c81/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/9f/34/7b/9f347b9a-15f9-bd4f-f020-02f633967c9f/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/16/e3/cc/16e3cc1a-e13a-d7f1-cf4a-f3a658828d10/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
-- [Quick Chat](https://github.com/aslanyanhaik/Quick-Chat): Real time chat app  
+- [Quick Chat](https://github.com/aslanyanhaik/Quick-Chat): Real-time chat  
   <details>
 	<summary><code>swift</code> <code>swift3</code> <code>firebase</code> ⭐⭐⭐⭐</summary>
 
@@ -2290,7 +2290,7 @@ Click ► to show more details
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/1b/b3/47/1bb34751-0f14-8964-0026-d00205a91eaa/pr_source.png/626x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/68/6d/bf/686dbf81-1b2e-d74f-5b38-7a5d859de168/pr_source.png/626x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/4f/94/81/4f94810b-9c6f-32b6-2e44-8cede258f90a/pr_source.png/626x0w.png'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bd/a1/1d/bda11d26-7ab3-eb35-082e-f8a32bcfcecf/pr_source.png/626x0w.png'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/9f/bb/af/9fbbaf4a-110b-3316-f789-09b2be9f9282/pr_source.png/626x0w.png'><code>Screenshot 5</code></a> 
   </details>
 
-- [Hostile Takeover](https://github.com/spiffcode/hostile-takeover): A release of the real time strategy game Warfare Incorporated  
+- [Hostile Takeover](https://github.com/spiffcode/hostile-takeover): A release of the real-time strategy game Warfare Incorporated  
   <details>
 	<summary><code>objc</code> ⭐</summary>
 
@@ -2606,7 +2606,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/121827/76356430-fe06ff80-6326-11ea-8107-60f900a73016.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Corona virus Tracker](https://github.com/nploi/corona_tracker)  
+- [Corona virus tracker](https://github.com/nploi/corona_tracker)  
   <details>
 	<summary><code>dart</code> </summary>
 
@@ -2628,6 +2628,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	Added April  4, 2020<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/soroushchehresa/iran-coronavirus/master/screenshots.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [covid19](https://github.com/dkhamsing/covid19.swift): COVID-19 / health news and tweets  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April  5, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/0.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [Covidcheck](https://github.com/julianschiavo/Covidcheck): Track COVID-19 cases in a beautiful, easy-to-use interface  
@@ -4004,7 +4012,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	Added April  5, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/covid19.swift.png?raw=true'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/0.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [DailyFeed](https://github.com/paulsumit1993/DailyFeed)  
@@ -5754,7 +5762,7 @@ https://firebase.google.com/ — [back to top](#readme)
 	<a href='https://github.com/ivan-magda/Californication/raw/master/screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Chaty](https://github.com/LunarFlash/Chaty): Anonymous messaging with real time data sync  
+- [Chaty](https://github.com/LunarFlash/Chaty): Anonymous messaging with real-time data sync  
   <details>
 	<summary><code>swift</code> <code>firebase</code> <code>websocket</code> <code>nosql</code> ⭐⭐</summary>
 
@@ -5794,7 +5802,7 @@ https://firebase.google.com/ — [back to top](#readme)
 	<a href='https://github.com/surayashivji/potter-pics/blob/master/Overview.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [Quick Chat](https://github.com/aslanyanhaik/Quick-Chat): Real time chat app  
+- [Quick Chat](https://github.com/aslanyanhaik/Quick-Chat): Real-time chat  
   <details>
 	<summary><code>swift</code> <code>swift3</code> <code>firebase</code> ⭐⭐⭐⭐</summary>
 
