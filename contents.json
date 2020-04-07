@@ -1331,7 +1331,7 @@
         "swift3",
         "firebase"
       ],
-      "description": "Real time chat app",
+      "description": "Real-time chat",
       "source": "https://github.com/aslanyanhaik/Quick-Chat",
       "screenshots": [
         "https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif"
@@ -8910,7 +8910,7 @@
         "websocket",
         "nosql"
       ],
-      "description": "Anonymous messaging with real time data sync",
+      "description": "Anonymous messaging with real-time data sync",
       "license": "mit",
       "source": "https://github.com/LunarFlash/Chaty",
       "screenshots": [
@@ -9286,7 +9286,7 @@
       "screenshots": [
         "https://i.imgur.com/PQ1QX2u.jpg"
       ],
-      "description": "A release of the real time strategy game Warfare Incorporated",
+      "description": "A release of the real-time strategy game Warfare Incorporated",
       "source": "https://github.com/spiffcode/hostile-takeover",
       "license": "bsd-2-clause",
       "stars": 128,
@@ -18727,7 +18727,7 @@
       "title": "mChat",
       "category-ids": ["communication"],
       "tags": ["swift"],
-      "description": "Real-time messaging app using firebase.",
+      "description": "Real-time messaging app using firebase",
       "source": "https://github.com/realpaliy/mChat",
       "screenshots": ["https://imgur.com/uvinWB9"],
       "date_added": "April 2 2020",
@@ -18800,10 +18800,11 @@
       "title": "covid19",
       "description": "COVID-19 / health news and tweets",
       "category-ids": [
-        "news-api"
+        "news-api",
+        "health"
       ],
       "screenshots": [
-        "https://github.com/dkhamsing/covid19.swift/blob/dev/Images/covid19.swift.png?raw=true"
+        "https://github.com/dkhamsing/covid19.swift/blob/dev/Images/0.png?raw=true"
       ],
       "source": "https://github.com/dkhamsing/covid19.swift",
       "license": "mit",
@@ -18814,7 +18815,7 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Corona virus Tracker",
+      "title": "Corona virus tracker",
       "category-ids": [
         "health"
       ],
@@ -18841,7 +18842,7 @@
         "firebase",
         "firestore"
       ],
-      "description": "Real time chat",
+      "description": "Real-time chat",
       "license": "mit",
       "source": "https://github.com/instamobile/messenger-iOS-chat-swift-firestore",
       "screenshots": [
