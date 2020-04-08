@@ -18851,6 +18851,26 @@
       "stars": 245,
       "date_added": "Apr 6 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Harbour",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "docker",
+        "ipad"
+      ],
+      "description": "Docker/Portainer app",
+      "source": "https://github.com/rrroyal/Harbour",
+      "screenshots": [
+        "https://github.com/rrroyal/Harbour/blob/master/Resources/Screenshots/Light/Dashboard.png?raw=true"
+      ],
+      "date_added": "Apr 7 2019",
+      "license": "gpl-3.0",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
