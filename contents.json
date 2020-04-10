@@ -18889,6 +18889,21 @@
       "date_added": "Apr 9 2020",
       "license": "mit",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "App Store Clone",
+      "category-ids": [
+        "clone"
+      ],
+      "license": "other",
+      "source": "https://github.com/VamshiIITBHU14/AppStoreClone",
+
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "date_added": "Apr 10 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
