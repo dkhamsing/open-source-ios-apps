@@ -18871,6 +18871,24 @@
       "date_added": "Apr 7 2019",
       "license": "gpl-3.0",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "xFonts",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "objc"
+      ],
+      "description": "Install your favorite fonts on your device to be able to use them in apps like Pages, Numbers, Keynote, and more",
+      "source": "https://github.com/manolosavi/xFonts",
+      "itunes": "https://apps.apple.com/app/xfonts/id1205074470",
+      "screenshots": [
+        "https://i.imgur.com/ozVlT2F.png"
+      ],
+      "date_added": "Apr 9 2019",
+      "license": "mit",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
