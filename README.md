@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-934-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2010,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-935-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2011,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2638,12 +2638,12 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/soroushchehresa/iran-coronavirus/master/screenshots.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [covid19](https://github.com/dkhamsing/covid19.swift): COVID-19 / health news and tweets  
+- [covid19](https://github.com/dkhamsing/covid19.swift): COVID-19 data / health news and tweets  
   <details>
 	<summary><code>swift</code> </summary>
 
 	Added April  5, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/0.png?raw=true'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/0.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/1.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/2.png?raw=true'><code>Screenshot 3</code></a> 
   </details>
 
 - [Covidcheck](https://github.com/julianschiavo/Covidcheck): Track COVID-19 cases in a beautiful, easy-to-use interface  
@@ -4015,12 +4015,12 @@ https://news.ycombinator.com/ — [back to top](#readme)
  
 https://newsapi.org/ — [back to top](#readme) 
  
-- [covid19](https://github.com/dkhamsing/covid19.swift): COVID-19 / health news and tweets  
+- [covid19](https://github.com/dkhamsing/covid19.swift): COVID-19 data / health news and tweets  
   <details>
 	<summary><code>swift</code> </summary>
 
 	Added April  5, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/0.png?raw=true'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/0.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/1.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/2.png?raw=true'><code>Screenshot 3</code></a> 
   </details>
 
 - [DailyFeed](https://github.com/paulsumit1993/DailyFeed)  
