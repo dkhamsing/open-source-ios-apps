@@ -18798,13 +18798,15 @@
     },
     {
       "title": "covid19",
-      "description": "COVID-19 / health news and tweets",
+      "description": "COVID-19 data / health news and tweets",
       "category-ids": [
         "news-api",
         "health"
       ],
       "screenshots": [
-        "https://github.com/dkhamsing/covid19.swift/blob/dev/Images/0.png?raw=true"
+        "https://github.com/dkhamsing/covid19.swift/blob/dev/Images/0.png?raw=true",
+        "https://github.com/dkhamsing/covid19.swift/blob/dev/Images/1.png?raw=true",
+        "https://github.com/dkhamsing/covid19.swift/blob/dev/Images/2.png?raw=true"
       ],
       "source": "https://github.com/dkhamsing/covid19.swift",
       "license": "mit",
