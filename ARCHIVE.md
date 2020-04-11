@@ -293,6 +293,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [WhiteHouse](https://github.com/WhiteHouse/wh-app-ios)
 - [wikiHow](https://github.com/tderouin/wikiHow-iPhone-Application)
 - [wildcats](https://github.com/pietbrauer/wildcats)
+- [windmill](https://github.com/qnoid/windmill-ios)
 - [Wizard War](https://github.com/seanhess/wizardwar)
 - [Workdays](https://github.com/mpak/Workdays)
 - [Wunderschnell](https://github.com/contentful-graveyard/Wunderschnell)
