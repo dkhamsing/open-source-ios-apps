@@ -18927,8 +18927,8 @@
       "category-ids": [
         "education"
       ],
-      "description": "Practice American Sign Language (ASL) fingerspelling.",
-      "license": "MIT",
+      "description": "Practice American Sign Language (ASL) fingerspelling",
+      "license": "mit",
       "source": "https://github.com/sloria/Fingerspelling-iOS",
       "screenshots": ["https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png"],
       "tags": [
