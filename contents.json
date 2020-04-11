@@ -18938,6 +18938,25 @@
       ],
       "date_added": "Apr 11 2020",
       "suggested_by": "@sloria"
+    },
+
+    {
+      "title": "FreeTimePicker",
+      "category-ids": [
+        "calendar"
+      ],
+      "description": "Find free time in your calendar",
+      "license": "mit",
+      "source": "https://github.com/fromkk/FreeTimePicker",
+      "screenshots": ["https://github.com/fromkk/FreeTimePicker/raw/master/images/search.png"],
+      "tags": [
+        "swift",
+        "swiftui",
+        "combine"
+      ],
+      "lang": "jpn",
+      "date_added": "Apr 11 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
