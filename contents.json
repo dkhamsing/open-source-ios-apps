@@ -18921,6 +18921,23 @@
       ],
       "date_added": "Apr 11 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Fingerspelling",
+      "category-ids": [
+        "education"
+      ],
+      "description": "Practice American Sign Language (ASL) fingerspelling.",
+      "license": "MIT",
+      "source": "https://github.com/sloria/Fingerspelling-iOS",
+      "screenshots": ["https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png"],
+      "tags": [
+        "swift",
+        "swiftui",
+        "combine"
+      ],
+      "date_added": "Apr 11 2020",
+      "suggested_by": "@sloria"
     }
   ]
 }
