@@ -18904,6 +18904,21 @@
       ],
       "date_added": "Apr 10 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "windmill",
+      "category-ids": [
+        "developer"
+      ],
+      "description": "In-house delivery of apps",
+      "license": "other",
+      "source": "https://github.com/qnoid/windmill-ios",
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "date_added": "Apr 11 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
