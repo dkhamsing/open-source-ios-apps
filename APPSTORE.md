@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **234** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **235** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1498,6 +1498,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	http://monotone.justuskandzi.com<br>  Added December 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://a4.mzstatic.com/us/r30/Purple5/v4/7d/be/82/7dbe82a0-26a2-ec64-2804-47de55caa190/screen520x924.jpeg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Podverse](https://github.com/podverse/podverse-rn): Feature-rich, cross-platform podcast app with a focus on clip sharing and discovery [` App Store`](https://apps.apple.com/us/app/podverse/id1390888454)  
+  <details>
+	<summary><code>react-native</code> </summary>
+
+	https://podverse.fm<br>  Added April 11, 2020<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>
+	<a href='https://i.imgur.com/nRFpfup.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/x7uP0x7.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/wKagdik.png'><code>Screenshot 3</code></a> <a href='https://i.imgur.com/KC3zv1d.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [Prodigal Music Player](https://github.com/SpongeBobSun/Prodigal-iOS) [` App Store`](https://apps.apple.com/app/kuansun/id1231296263)  
