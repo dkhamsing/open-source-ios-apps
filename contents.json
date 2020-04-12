@@ -18961,10 +18961,9 @@
     {
       "title": "Podverse",
       "category-ids": [
-        "media",
         "audio"
       ],
-      "description": "A feature-rich, cross-platform podcast app with a focus on clip sharing and discovery",
+      "description": "Feature-rich, cross-platform podcast app with a focus on clip sharing and discovery",
       "license": "agpl-3.0",
       "homepage": "https://podverse.fm",
       "source": "https://github.com/podverse/podverse-rn",
@@ -18978,7 +18977,6 @@
       "tags": [
         "react-native"
       ],
-      "lang": "en",
       "date_added": "Apr 11 2020",
       "suggested_by": "@mitchdowney"
     }
