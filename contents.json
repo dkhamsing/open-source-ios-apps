@@ -18957,6 +18957,30 @@
       "lang": "jpn",
       "date_added": "Apr 11 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Podverse",
+      "category-ids": [
+        "media",
+        "audio"
+      ],
+      "description": "A feature-rich, cross-platform podcast app with a focus on clip sharing and discovery",
+      "license": "agpl-3.0",
+      "homepage": "https://podverse.fm",
+      "source": "https://github.com/podverse/podverse-rn",
+      "itunes": "https://apps.apple.com/us/app/podverse/id1390888454",
+      "screenshots": [
+        "https://i.imgur.com/nRFpfup.png",
+        "https://i.imgur.com/x7uP0x7.png",
+        "https://i.imgur.com/wKagdik.png",
+        "https://i.imgur.com/KC3zv1d.png"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "lang": "en",
+      "date_added": "Apr 11 2020",
+      "suggested_by": "@mitchdowney"
     }
   ]
 }
