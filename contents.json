@@ -18979,6 +18979,26 @@
       ],
       "date_added": "Apr 11 2020",
       "suggested_by": "@mitchdowney"
+    },
+    {
+      "title": "Tofu Authenticator",
+      "category-ids": [
+        "security"
+      ],
+      "description": "Easy-to-use two-factor authentication",
+      "source": "https://github.com/calleerlandsson/Tofu",
+      "itunes": "https://apps.apple.com/app/tofu-authenticator/id1082229305",
+      "license": "isc",
+      "tags": [
+        "swift",
+        "2fa"
+      ],
+      "stars": 97,
+      "date_added": "Apr 12",
+      "suggested_by": "@Genesis0x1b",
+      "screenshots": [
+        "https://i.imgur.com/QXPVzw6.png"
+      ]
     }
   ]
 }
