@@ -18999,6 +18999,22 @@
       "screenshots": [
         "https://i.imgur.com/QXPVzw6.png"
       ]
+    },
+    {
+      "title": "Outline",
+      "category-ids": [
+        "security"
+      ],
+      "description": "VPN designed for use with the Outline Server software, but fully compatible with any Shadowsocks server",
+      "source": "https://github.com/Jigsaw-Code/outline-client",
+      "homepage": "https://getoutline.org/en/home",
+      "license": "apache-2.0",
+      "tags": [
+        "cordova"
+      ],
+      "stars": 5400,
+      "date_added": "Apr 13",
+      "suggested_by": "@Genesis0x1b"
     }
   ]
 }
