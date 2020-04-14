@@ -13952,21 +13952,6 @@
       "stars": 9266
     },
     {
-      "title": "boilerplate",
-      "source": "https://github.com/tailec/boilerplate",
-      "tags": [
-        "swift",
-        "archive"
-      ],
-      "category-ids": [
-        "sample"
-      ],
-      "license": "other",
-      "date_added": "Apr 28 2017",
-      "suggested_by": "@dkhamsing",
-      "stars": 352
-    },
-    {
       "title": "Krypton",
       "source": "https://github.com/kryptco/krypton-ios",
       "itunes": "https://apps.apple.com/app/krypton-by-krypt-co/id1161494806",
