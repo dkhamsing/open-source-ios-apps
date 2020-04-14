@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-939-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2013,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-940-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2014,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4786,6 +4786,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	https://lockdownhq.com<br>  Added August 24, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://lockdownhq.com/images/iphone-screenshot.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Outline](https://github.com/Jigsaw-Code/outline-client): VPN designed for use with the Outline Server software, but fully compatible with any Shadowsocks server  
+  <details>
+	<summary><code>cordova</code> ⭐⭐⭐⭐⭐</summary>
+
+	https://getoutline.org/en/home<br>  Added April 13, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
 - [Passepartout](https://github.com/passepartoutvpn/passepartout-ios): User-friendly OpenVPN app [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537)  
