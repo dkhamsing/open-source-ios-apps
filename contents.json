@@ -19000,6 +19000,27 @@
       "stars": 5400,
       "date_added": "Apr 13",
       "suggested_by": "@Genesis0x1b"
+    },
+    {
+      "title": "reddit-swiftui",
+      "category-ids": [
+        "content"
+      ],
+      "description": "Cross-platform Reddit client",
+      "source": "https://github.com/carson-katri/reddit-swiftui",
+      "license": "mit",
+      "stars": 687,
+      "tags": [
+        "swift",
+        "swiftui",
+        "macos",
+        "watchos"        
+      ],
+      "screenshots": [
+        "https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true"
+      ],
+      "date_added": "Apr 14 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
