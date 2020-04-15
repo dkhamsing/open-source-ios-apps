@@ -9847,7 +9847,7 @@
       "description": "An implementation of the Remote Desktop Protocol (RDP)",
       "license": "apache-2.0",
       "source": "https://github.com/FreeRDP/FreeRDP",
-      "homepage": "http://www.freerdp.com/",
+      "homepage": "https://www.freerdp.com/",
       "itunes": "https://apps.apple.com/app/ifreerdp/id604813768",
       "stars": 3932,
       "date_added": "Thu Jun 2 00:11:21 2016 -0600",
@@ -18952,7 +18952,7 @@
       "license": "agpl-3.0",
       "homepage": "https://podverse.fm",
       "source": "https://github.com/podverse/podverse-rn",
-      "itunes": "https://apps.apple.com/us/app/podverse/id1390888454",
+      "itunes": "https://apps.apple.com/app/podverse/id1390888454",
       "screenshots": [
         "https://i.imgur.com/nRFpfup.png",
         "https://i.imgur.com/x7uP0x7.png",
@@ -19014,7 +19014,7 @@
         "swift",
         "swiftui",
         "macos",
-        "watchos"        
+        "watchos"
       ],
       "screenshots": [
         "https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true"
