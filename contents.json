@@ -19057,6 +19057,22 @@
       "license": "mit",
       "date_added": "Apr 15 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "HN Now",
+      "category-ids": [
+        "hacker-news"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "ipad"
+      ],
+      "source": "https://github.com/nathfreder/HNNow",
+      "license": "mit",
+      "date_added": "Apr 15 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 37
     }
   ]
 }
