@@ -19021,6 +19021,24 @@
       ],
       "date_added": "Apr 14 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "ARbusters",
+      "category-ids": [
+        "game"
+      ],
+      "description": "Augmented reality game in a pixel/billboard style",
+      "source": "https://github.com/pedrommcarrasco/ARbusters",
+      "license": "mit",
+      "stars": 69,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/pedrommcarrasco/ARbusters/blob/master/screenshots.png?raw=true"
+      ],
+      "date_added": "Apr 14 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
