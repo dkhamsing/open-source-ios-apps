@@ -242,6 +242,10 @@
       "description": "https://joinmastodon.org"
     },
     {
+      "title": "SwiftUI",
+      "id": "swiftui"
+    },
+    {
       "title": "Tasks",
       "id": "tasks"
     },
@@ -17823,7 +17827,8 @@
     {
       "title": "MovieSwiftUI",
       "category-ids": [
-        "content"
+        "content",
+        "swiftui"
       ],
       "description": "Browse movies, made with SwiftUI, Combine & MovieDB",
       "source": "https://github.com/Dimillian/MovieSwiftUI",
@@ -17831,7 +17836,6 @@
       "stars": 4210,
       "tags": [
         "swift",
-        "swiftui",
         "combine"
       ],
       "screenshots": [
@@ -17864,14 +17868,14 @@
     {
       "title": "Landmarks",
       "category-ids": [
-        "location"
+        "location",
+        "swiftui"
       ],
       "description": "Discover and share places you love",
       "source": "https://developer.apple.com/tutorials/swiftui/creating-and-combining-views",
       "license": "other",
       "tags": [
         "swift",
-        "swiftui",
         "mapkit"
       ],
       "screenshots": [
@@ -18371,11 +18375,10 @@
       "source": "https://github.com/mecid/swiftui-recipes-app",
       "description": "Recipes using Single State Container",
       "tags": [
-        "swift",
-        "swiftui"
+        "swift"
       ],
       "category-ids": [
-        "misc"
+        "swiftui"
       ],
       "screenshots": [
         "https://github.com/mecid/swiftui-recipes-app/raw/master/Image.PNG?raw=true"
@@ -18500,14 +18503,14 @@
     {
       "title": "OSRSUI",
       "category-ids": [
-        "content"
+        "content",
+        "swiftui"
       ],
       "source": "https://github.com/Dimillian/OSRSUI",
       "description": "Old School Runescape database browser",
       "license": "apache-2.0",
       "tags": [
         "swift",
-        "swiftui",
         "combine"
       ],
       "date_added": "March 1 2020",
@@ -18517,7 +18520,8 @@
     {
       "title": "2048 SwiftUI",
       "category-ids": [
-        "game"
+        "game",
+        "swiftui"
       ],
       "screenshots": [
         "https://github.com/unixzii/SwiftUI-2048/blob/master/Screenshot.png?raw=true"
@@ -18526,8 +18530,7 @@
       "description": "2048 written with SwiftUI",
       "license": "mit",
       "tags": [
-        "swift",
-        "swiftui"
+        "swift"
       ],
       "date_added": "March 8 2020",
       "suggested_by": "@dkhamsing",
@@ -18556,7 +18559,8 @@
     {
       "title": "Corona Virus Tracker & Advice",
       "category-ids": [
-        "health"
+        "health",
+        "swiftui"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/alfianlosari/CoronaVirusTrackerSwiftUI/master/promo.jpg"
@@ -18564,8 +18568,7 @@
       "source": "https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI",
       "license": "mit",
       "tags": [
-        "swift",
-        "swiftui"
+        "swift"
       ],
       "date_added": "March 8 2020",
       "suggested_by": "@dkhamsing",
@@ -18842,11 +18845,11 @@
     {
       "title": "Harbour",
       "category-ids": [
-        "developer"
+        "developer",
+        "swiftui"
       ],
       "tags": [
         "swift",
-        "swiftui",
         "docker",
         "ipad"
       ],
@@ -18910,7 +18913,8 @@
     {
       "title": "Fingerspelling",
       "category-ids": [
-        "education"
+        "education",
+        "swiftui"
       ],
       "description": "Practice American Sign Language (ASL) fingerspelling",
       "license": "mit",
@@ -18918,7 +18922,6 @@
       "screenshots": ["https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png"],
       "tags": [
         "swift",
-        "swiftui",
         "combine"
       ],
       "date_added": "Apr 11 2020",
@@ -18928,7 +18931,8 @@
     {
       "title": "FreeTimePicker",
       "category-ids": [
-        "calendar"
+        "calendar",
+        "swiftui"
       ],
       "description": "Find free time in your calendar",
       "license": "mit",
@@ -18936,7 +18940,6 @@
       "screenshots": ["https://github.com/fromkk/FreeTimePicker/raw/master/images/search.png"],
       "tags": [
         "swift",
-        "swiftui",
         "combine"
       ],
       "lang": "jpn",
@@ -19004,7 +19007,8 @@
     {
       "title": "reddit-swiftui",
       "category-ids": [
-        "content"
+        "content",
+        "swiftui"
       ],
       "description": "Cross-platform Reddit client",
       "source": "https://github.com/carson-katri/reddit-swiftui",
@@ -19012,7 +19016,6 @@
       "stars": 687,
       "tags": [
         "swift",
-        "swiftui",
         "macos",
         "watchos"
       ],
@@ -19061,11 +19064,11 @@
     {
       "title": "HN Now",
       "category-ids": [
-        "hacker-news"
+        "hacker-news",
+        "swiftui"
       ],
       "tags": [
         "swift",
-        "swiftui",
         "ipad"
       ],
       "source": "https://github.com/nathfreder/HNNow",
