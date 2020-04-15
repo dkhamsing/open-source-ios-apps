@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-940-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2014,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-941-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2015,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2148,6 +2148,14 @@ Click ► to show more details
 	<a href='http://www.guitarinfocenter.com/gameimages/aeropack1.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [ARbusters](https://github.com/pedrommcarrasco/ARbusters): Augmented reality game in a pixel/billboard style  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/pedrommcarrasco/ARbusters/blob/master/screenshots.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Canabalt](https://github.com/ericjohnson/canabalt-ios): Infinite runner [` App Store`](https://apps.apple.com/app/canabalt/id333180061)  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐⭐</summary>
@@ -3665,6 +3673,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added May 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/BalestraPatrick/RealmVideo/raw/master/Resources/demo.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui): Cross-platform Reddit client  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>macos</code> <code>watchos</code> ⭐⭐⭐</summary>
+
+	Added April 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [Showio](https://github.com/madyanov/showio-app): Simple TV show tracker [` App Store`](https://apps.apple.com/app/id1445035408)  
