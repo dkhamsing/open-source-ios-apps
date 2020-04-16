@@ -19088,7 +19088,9 @@
       "license": "gpl-3.0",
       "stars": 0,
       "tags": [
-        "swift"
+        "swift",
+        "macos",
+        "ipad"
       ],
       "screenshots": [
         "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png",
