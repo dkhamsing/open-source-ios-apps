@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-942-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2016,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-944-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2016,%202020-lightgrey.svg)
 
 Jump to
 
@@ -61,6 +61,7 @@ Jump to
 - [Shopping](#shopping) 
 - [Social](#social) 
   - [Mastodon](#mastodon) 
+- [SwiftUI](#swiftui) 
 - [Tasks](#tasks) 
 - [Text](#text) 
   - [Notes](#notes) 
@@ -558,7 +559,7 @@ Click ► to show more details
  
 - [FreeTimePicker](https://github.com/fromkk/FreeTimePicker): Find free time in your calendar  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> 🌐 </summary>
+	<summary><code>swift</code> <code>combine</code> 🌐 </summary>
 
 	Added April 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/fromkk/FreeTimePicker/raw/master/images/search.png'><code>Screenshot 1</code></a> 
@@ -1107,7 +1108,7 @@ Click ► to show more details
 
 - [Harbour](https://github.com/rrroyal/Harbour): Docker/Portainer app  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>docker</code> <code>ipad</code> </summary>
+	<summary><code>swift</code> <code>docker</code> <code>ipad</code> </summary>
 
 	Added April  7, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://github.com/rrroyal/Harbour/blob/master/Resources/Screenshots/Light/Dashboard.png?raw=true'><code>Screenshot 1</code></a> 
@@ -1465,7 +1466,7 @@ Click ► to show more details
 	<a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'><code>Screenshot 4</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'><code>Screenshot 5</code></a> 
   </details>
 
-- [Delta: Math helper](https://github.com/GroupeMINASTE/Delta-iOS): With Delta: Math helper, quickly solve any math problem with an algorithm. Save time checking your homework or studying for a test, it’s free!  
+- [Delta: Math helper](https://github.com/GroupeMINASTE/Delta-iOS): Quickly solve any math problem with an algorithm, save time checking your homework or studying for a test [` App Store`](https://apps.apple.com/app/delta-math-helper/id1436506800)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -1475,7 +1476,7 @@ Click ► to show more details
 
 - [Fingerspelling](https://github.com/sloria/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> </summary>
+	<summary><code>swift</code> <code>combine</code> </summary>
 
 	Added April 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'><code>Screenshot 1</code></a> 
@@ -2142,7 +2143,7 @@ Click ► to show more details
 
 - [2048 SwiftUI](https://github.com/unixzii/SwiftUI-2048): 2048 written with SwiftUI  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> ⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐</summary>
 
 	Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/unixzii/SwiftUI-2048/blob/master/Screenshot.png?raw=true'><code>Screenshot 1</code></a> 
@@ -2449,6 +2450,14 @@ Click ► to show more details
 	<a href='https://cloud.githubusercontent.com/assets/573856/16248754/90150c2a-3854-11e6-9ee1-c2e4f228a9b6.gif'><code>Screenshot 1</code></a> 
   </details>
 
+- [SF Symbols Game](https://github.com/rudrankriyam/Unofficial-SF-Symbols-Game): Simple game to help you get familar with the names of the amazing SF Symbols by Apple [` App Store`](https://apps.apple.com/app/unofficial-sf-symbols-game/id1507692602)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 15, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/rudrankriyam/Unofficial-SF-Symbols-Game/raw/master/Resources/0.1-Screenshot.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [SHMUP](https://github.com/fabiensanglard/Shmup): 3D multiplatform game written primarily in C [` App Store`](https://apps.apple.com/app/shmup/id337663605)  
   <details>
 	<summary><code>objc</code> ⭐⭐</summary>
@@ -2656,7 +2665,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [Corona Virus Tracker & Advice](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> ⭐</summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/alfianlosari/CoronaVirusTrackerSwiftUI/master/promo.jpg'><code>Screenshot 1</code></a> 
@@ -2966,7 +2975,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 - [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views): Discover and share places you love  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>mapkit</code> </summary>
+	<summary><code>swift</code> <code>mapkit</code> </summary>
 
 	Added June 19, 2019<br>  License: `other`<br>
 	<a href='http://i.imgur.com/k8BGv5M.png'><code>Screenshot 1</code></a> 
@@ -3441,7 +3450,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'><code>Screenshot 4</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'><code>Screenshot 5</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'><code>Screenshot 6</code></a> 
   </details>
 
-- [Podverse](https://github.com/podverse/podverse-rn): Feature-rich, cross-platform podcast app with a focus on clip sharing and discovery [` App Store`](https://apps.apple.com/us/app/podverse/id1390888454)  
+- [Podverse](https://github.com/podverse/podverse-rn): Feature-rich, cross-platform podcast app with a focus on clip sharing and discovery [` App Store`](https://apps.apple.com/app/podverse/id1390888454)  
   <details>
 	<summary><code>react-native</code> </summary>
 
@@ -3608,7 +3617,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI): Browse movies, made with SwiftUI, Combine & MovieDB  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> ⭐⭐⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>combine</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added June 13, 2019<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'><code>Screenshot 1</code></a> 
@@ -3624,7 +3633,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [OSRSUI](https://github.com/Dimillian/OSRSUI): Old School Runescape database browser  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> </summary>
+	<summary><code>swift</code> <code>combine</code> </summary>
 
 	Added March  1, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -3685,7 +3694,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui): Cross-platform Reddit client  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>macos</code> <code>watchos</code> ⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>macos</code> <code>watchos</code> ⭐⭐⭐</summary>
 
 	Added April 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'><code>Screenshot 1</code></a> 
@@ -4025,6 +4034,13 @@ https://news.ycombinator.com/ — [back to top](#readme)
 
 	Added December 15, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/14/98/59/149859fe-f4e3-0a12-d7fb-2d3383efdf45/mzl.ebnguksi.png/460x0w.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [HN Now](https://github.com/nathfreder/HNNow)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> </summary>
+
+	Added April 15, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [HN Reader](https://github.com/Dimillian/SwiftHN): Hacker News Reader [` App Store`](https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741)  
@@ -5106,6 +5122,97 @@ https://joinmastodon.org — [back to top](#readme)
   </details>
 
 
+## SwiftUI 
+ 
+[back to top](#readme) 
+ 
+- [2048 SwiftUI](https://github.com/unixzii/SwiftUI-2048): 2048 written with SwiftUI  
+  <details>
+	<summary><code>swift</code> ⭐⭐</summary>
+
+	Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/unixzii/SwiftUI-2048/blob/master/Screenshot.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Corona Virus Tracker & Advice](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)  
+  <details>
+	<summary><code>swift</code> ⭐</summary>
+
+	Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/alfianlosari/CoronaVirusTrackerSwiftUI/master/promo.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Fingerspelling](https://github.com/sloria/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling  
+  <details>
+	<summary><code>swift</code> <code>combine</code> </summary>
+
+	Added April 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [FreeTimePicker](https://github.com/fromkk/FreeTimePicker): Find free time in your calendar  
+  <details>
+	<summary><code>swift</code> <code>combine</code> 🌐 </summary>
+
+	Added April 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/fromkk/FreeTimePicker/raw/master/images/search.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Harbour](https://github.com/rrroyal/Harbour): Docker/Portainer app  
+  <details>
+	<summary><code>swift</code> <code>docker</code> <code>ipad</code> </summary>
+
+	Added April  7, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://github.com/rrroyal/Harbour/blob/master/Resources/Screenshots/Light/Dashboard.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [HN Now](https://github.com/nathfreder/HNNow)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> </summary>
+
+	Added April 15, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views): Discover and share places you love  
+  <details>
+	<summary><code>swift</code> <code>mapkit</code> </summary>
+
+	Added June 19, 2019<br>  License: `other`<br>
+	<a href='http://i.imgur.com/k8BGv5M.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI): Browse movies, made with SwiftUI, Combine & MovieDB  
+  <details>
+	<summary><code>swift</code> <code>combine</code> ⭐⭐⭐⭐⭐</summary>
+
+	Added June 13, 2019<br>  License: `other`<br>
+	<a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [OSRSUI](https://github.com/Dimillian/OSRSUI): Old School Runescape database browser  
+  <details>
+	<summary><code>swift</code> <code>combine</code> </summary>
+
+	Added March  1, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+
+- [Recipes](https://github.com/mecid/swiftui-recipes-app): Recipes using Single State Container  
+  <details>
+	<summary><code>swift</code> ⭐⭐</summary>
+
+	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/mecid/swiftui-recipes-app/raw/master/Image.PNG?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui): Cross-platform Reddit client  
+  <details>
+	<summary><code>swift</code> <code>macos</code> <code>watchos</code> ⭐⭐⭐</summary>
+
+	Added April 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+
 ## Tasks 
  
 [back to top](#readme) 
@@ -5586,7 +5693,7 @@ https://joinmastodon.org — [back to top](#readme)
   <details>
 	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
 
-	http://www.freerdp.com/<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	https://www.freerdp.com/<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/b0/a5/9a/b0a59a26-836b-8a60-9e33-d562e945a7fb/mzl.royofexn.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple2/v4/4d/15/ce/4d15ce25-faff-baa6-2f73-d5e77718a0d6/mzl.niuitotb.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/v4/e9/56/2d/e9562d0d-02a3-73a0-1523-a79dfe190967/mzl.bfucaujc.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple2/v4/23/a1/2b/23a12beb-b1aa-82b9-b9fd-50b622685114/mzl.ydgieukd.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
@@ -5692,14 +5799,6 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added February 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/iAugux/ProjectScreenshots/master/Phonetic/nickname.gif'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Recipes](https://github.com/mecid/swiftui-recipes-app): Recipes using Single State Container  
-  <details>
-	<summary><code>swift</code> <code>swiftui</code> ⭐⭐</summary>
-
-	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/mecid/swiftui-recipes-app/raw/master/Image.PNG?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [Remote](https://github.com/michaelvillar/remote): A remote for your IR devices  
