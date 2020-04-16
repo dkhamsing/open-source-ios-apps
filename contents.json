@@ -17837,7 +17837,9 @@
       "stars": 4210,
       "tags": [
         "swift",
-        "combine"
+        "combine",
+        "ipad",
+        "macos"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png"
