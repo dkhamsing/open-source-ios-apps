@@ -19104,6 +19104,24 @@
       ],
       "date_added": "Apr 15 2020",
       "suggested_by": "@NathanFallet"
+    },
+    {
+      "title": "SwiftUITodo",
+      "category-ids": [
+        "task",
+        "swiftui"
+      ],
+      "source": "https://github.com/devxoul/SwiftUITodo",
+      "license": "mit",
+      "stars": 510,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://user-images.githubusercontent.com/931655/58843349-f6dbf400-8626-11e9-8227-fbd369c29515.png"
+      ],
+      "date_added": "Apr 16 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
