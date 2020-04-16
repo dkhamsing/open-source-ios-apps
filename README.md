@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-941-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2015,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-942-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2016,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1463,6 +1463,14 @@ Click ► to show more details
 
 	Added March 31, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'><code>Screenshot 4</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'><code>Screenshot 5</code></a> 
+  </details>
+
+- [Delta: Math helper](https://github.com/GroupeMINASTE/Delta-iOS): With Delta: Math helper, quickly solve any math problem with an algorithm. Save time checking your homework or studying for a test, it’s free!  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 15, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/c1/74/31c174b5-5be4-b78d-dbb9-f55fa0c6a624/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/38/1d/e8381dde-da9f-91e9-674f-25077cd6322e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/e0/92/63e092f4-9a11-9936-d3ad-da8cc258afd8/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [Fingerspelling](https://github.com/sloria/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling  

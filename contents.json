@@ -19076,6 +19076,27 @@
       "date_added": "Apr 15 2020",
       "suggested_by": "@dkhamsing",
       "stars": 37
+    },
+    {
+      "title": "Delta: Math helper",
+      "category-ids": [
+        "education"
+      ],
+      "description": "With Delta: Math helper, quickly solve any math problem with an algorithm. Save time checking your homework or studying for a test, it’s free!",
+      "source": "https://github.com/GroupeMINASTE/Delta-iOS",
+      "license": "gpl-3.0",
+      "stars": 0,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/c1/74/31c174b5-5be4-b78d-dbb9-f55fa0c6a624/pr_source.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/38/1d/e8381dde-da9f-91e9-674f-25077cd6322e/pr_source.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/e0/92/63e092f4-9a11-9936-d3ad-da8cc258afd8/pr_source.png/460x0w.png"
+      ],
+      "date_added": "Apr 15 2020",
+      "suggested_by": "@NathanFallet"
     }
   ]
 }
