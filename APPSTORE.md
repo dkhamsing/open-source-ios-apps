@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **236** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **238** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -61,6 +61,7 @@ Jump to
 - [Shopping](#shopping) 
 - [Social](#social) 
   - [Mastodon](#mastodon) 
+- [SwiftUI](#swiftui) 
 - [Tasks](#tasks) 
 - [Text](#text) 
   - [Notes](#notes) 
@@ -609,6 +610,14 @@ Click ► to show more details
 	<a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'><code>Screenshot 4</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'><code>Screenshot 5</code></a> 
   </details>
 
+- [Delta: Math helper](https://github.com/GroupeMINASTE/Delta-iOS): Quickly solve any math problem with an algorithm, save time checking your homework or studying for a test [` App Store`](https://apps.apple.com/app/delta-math-helper/id1436506800)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 15, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/c1/74/31c174b5-5be4-b78d-dbb9-f55fa0c6a624/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/38/1d/e8381dde-da9f-91e9-674f-25077cd6322e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/e0/92/63e092f4-9a11-9936-d3ad-da8cc258afd8/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
+  </details>
+
 - [iGrades](https://github.com/maurovc/iGrades): Track your class grades [` App Store`](https://apps.apple.com/app/id816987574)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -1051,6 +1060,14 @@ Click ► to show more details
 
 	https://www.sansumoku.com/<br>  Added September  6, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://raw.githubusercontent.com/mkhrapov/sansumoku/master/img/sansumoku.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [SF Symbols Game](https://github.com/rudrankriyam/Unofficial-SF-Symbols-Game): Simple game to help you get familar with the names of the amazing SF Symbols by Apple [` App Store`](https://apps.apple.com/app/unofficial-sf-symbols-game/id1507692602)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 15, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/rudrankriyam/Unofficial-SF-Symbols-Game/raw/master/Resources/0.1-Screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [SHMUP](https://github.com/fabiensanglard/Shmup): 3D multiplatform game written primarily in C [` App Store`](https://apps.apple.com/app/shmup/id337663605)  
@@ -1500,7 +1517,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='http://a4.mzstatic.com/us/r30/Purple5/v4/7d/be/82/7dbe82a0-26a2-ec64-2804-47de55caa190/screen520x924.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Podverse](https://github.com/podverse/podverse-rn): Feature-rich, cross-platform podcast app with a focus on clip sharing and discovery [` App Store`](https://apps.apple.com/us/app/podverse/id1390888454)  
+- [Podverse](https://github.com/podverse/podverse-rn): Feature-rich, cross-platform podcast app with a focus on clip sharing and discovery [` App Store`](https://apps.apple.com/app/podverse/id1390888454)  
   <details>
 	<summary><code>react-native</code> </summary>
 
@@ -2233,6 +2250,11 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 https://joinmastodon.org — [back to top](#readme) 
  
 
+## SwiftUI 
+ 
+[back to top](#readme) 
+ 
+
 ## Tasks 
  
 [back to top](#readme) 
@@ -2431,7 +2453,7 @@ https://joinmastodon.org — [back to top](#readme)
   <details>
 	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
 
-	http://www.freerdp.com/<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	https://www.freerdp.com/<br>  Added June  2, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/b0/a5/9a/b0a59a26-836b-8a60-9e33-d562e945a7fb/mzl.royofexn.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple2/v4/4d/15/ce/4d15ce25-faff-baa6-2f73-d5e77718a0d6/mzl.niuitotb.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/v4/e9/56/2d/e9562d0d-02a3-73a0-1523-a79dfe190967/mzl.bfucaujc.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple2/v4/23/a1/2b/23a12beb-b1aa-82b9-b9fd-50b622685114/mzl.ydgieukd.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
