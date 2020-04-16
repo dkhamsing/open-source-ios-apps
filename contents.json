@@ -242,10 +242,6 @@
       "description": "https://joinmastodon.org"
     },
     {
-      "title": "SwiftUI",
-      "id": "swiftui"
-    },
-    {
       "title": "Tasks",
       "id": "tasks"
     },
@@ -318,6 +314,11 @@
       "id": "realm",
       "parent": "misc",
       "description": "https://realm.io/"
+    },
+    {
+      "title": "SwiftUI",
+      "id": "swiftui",
+      "parent": "misc"
     },
     {
       "title": "VIPER",
