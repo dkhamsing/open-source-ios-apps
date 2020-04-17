@@ -19108,7 +19108,7 @@
     {
       "title": "SwiftUITodo",
       "category-ids": [
-        "task",
+        "tasks",
         "swiftui"
       ],
       "source": "https://github.com/devxoul/SwiftUITodo",
