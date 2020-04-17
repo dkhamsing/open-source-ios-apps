@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **238** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **239** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -61,7 +61,6 @@ Jump to
 - [Shopping](#shopping) 
 - [Social](#social) 
   - [Mastodon](#mastodon) 
-- [SwiftUI](#swiftui) 
 - [Tasks](#tasks) 
 - [Text](#text) 
   - [Notes](#notes) 
@@ -77,6 +76,7 @@ Jump to
   - [Parse](#parse) 
   - [React Native](#react-native) 
   - [Realm](#realm) 
+  - [SwiftUI](#swiftui) 
   - [VIPER](#viper) 
   - [Xamarin](#xamarin) 
 - [Bonus](#bonus) 
@@ -612,10 +612,18 @@ Click ► to show more details
 
 - [Delta: Math helper](https://github.com/GroupeMINASTE/Delta-iOS): Quickly solve any math problem with an algorithm, save time checking your homework or studying for a test [` App Store`](https://apps.apple.com/app/delta-math-helper/id1436506800)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> <code>macos</code> <code>ipad</code> </summary>
 
 	Added April 15, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/c1/74/31c174b5-5be4-b78d-dbb9-f55fa0c6a624/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/38/1d/e8381dde-da9f-91e9-674f-25077cd6322e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/e0/92/63e092f4-9a11-9936-d3ad-da8cc258afd8/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
+  </details>
+
+- [Fingerspelling](https://github.com/sloria/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863)  
+  <details>
+	<summary><code>swift</code> <code>combine</code> </summary>
+
+	Added April 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [iGrades](https://github.com/maurovc/iGrades): Track your class grades [` App Store`](https://apps.apple.com/app/id816987574)  
@@ -2250,11 +2258,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 https://joinmastodon.org — [back to top](#readme) 
  
 
-## SwiftUI 
- 
-[back to top](#readme) 
- 
-
 ## Tasks 
  
 [back to top](#readme) 
@@ -2638,6 +2641,19 @@ https://realm.io/ — [back to top](#readme)
 
 	https://matrix.org/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+  </details>
+
+
+### SwiftUI 
+ 
+[back to top](#readme) 
+ 
+- [Fingerspelling](https://github.com/sloria/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863)  
+  <details>
+	<summary><code>swift</code> <code>combine</code> </summary>
+
+	Added April 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
 
