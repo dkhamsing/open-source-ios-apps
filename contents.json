@@ -19122,6 +19122,23 @@
       ],
       "date_added": "Apr 16 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "ACHNBrowserUI",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Animal Crossing New Horizon items catalogue",
+      "source": "https://github.com/Dimillian/ACHNBrowserUI",
+      "license": "apache-2.0",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/Dimillian/ACHNBrowserUI/raw/master/images/image1.png"
+      ],
+      "date_added": "Apr 16 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
