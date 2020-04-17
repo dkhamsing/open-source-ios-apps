@@ -19178,6 +19178,22 @@
       ],
       "date_added": "Apr 17 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Baby Monitor",
+      "category-ids": [
+        "rxswift"
+      ],
+      "tags": [
+        "swift",
+        "swiftlint",
+        "realm",
+        "swiftybeaver"
+      ],
+      "license": "apache-2.0",
+      "source": "https://github.com/netguru/baby-monitor-client-ios",
+      "date_added": "Apr 17 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
