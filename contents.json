@@ -14612,7 +14612,7 @@
       "source": "https://github.com/alexsosn/AssociationBot",
       "description": "Game chatbot with word association & image recognition",
       "category-ids": [
-        "misc"
+        "game"
       ],
       "tags": [
         "ai",
@@ -16121,7 +16121,7 @@
     {
       "title": "Bitrise",
       "category-ids": [
-        "misc"
+        "developer"
       ],
       "description": "Client app for bitrise.io",
       "source": "https://github.com/toshi0383/Bitrise-iOS",
@@ -16140,9 +16140,8 @@
     {
       "title": "OpenStack Foundation Summit",
       "category-ids": [
-        "misc"
+        "event"
       ],
-      "description": "The official app for the OpenStack Foundation Summit",
       "source": "https://github.com/OpenStack-mobile/summit-app-ios",
       "itunes": "https://apps.apple.com/app/openstack-foundation-summit/id1071261846",
       "screenshots": [
@@ -16364,7 +16363,7 @@
     {
       "title": "Ciao",
       "category-ids": [
-        "misc"
+        "education"
       ],
       "description": "A game to learn new languages for people who respond well to repetition. Including Italian, French, Chinese, German, Polish, Portuguese, Russian & Spanish",
       "source": "https://github.com/clintonwoo/ciao",
@@ -18266,7 +18265,7 @@
       "suggested_by": "@tirupati17",
       "license": "mit",
       "category-ids": [
-        "misc"
+        "gif"
       ],
       "stars": 3
     },
@@ -18287,7 +18286,7 @@
       "suggested_by": "@tirupati17",
       "license": "mit",
       "category-ids": [
-        "misc"
+        "sample"
       ],
       "stars": 1
     },
