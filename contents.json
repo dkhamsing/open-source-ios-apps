@@ -19194,6 +19194,23 @@
       "source": "https://github.com/netguru/baby-monitor-client-ios",
       "date_added": "Apr 17 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Royal News",
+      "category-ids": [
+        "news-api",
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "license": "mit",
+      "source": "https://github.com/msal4/royal_news",
+      "screenshots": [
+        "https://cdn-images-1.medium.com/max/800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg"
+      ],
+      "date_added": "Apr 17 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
