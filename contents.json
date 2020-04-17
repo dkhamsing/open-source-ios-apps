@@ -19139,6 +19139,27 @@
       ],
       "date_added": "Apr 16 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "GitHubSearchWithSwiftUI",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Search GitHub",
+      "source": "https://github.com/marty-suzuki/GitHubSearchWithSwiftUI",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "combine"
+      ],
+      "screenshots": [
+        "https://user-images.githubusercontent.com/2082134/58905672-41539280-8745-11e9-99e3-cb3c3c4991f0.png",
+        "https://user-images.githubusercontent.com/2082134/59124140-e1a1f500-8999-11e9-9d28-aaa2181a5e43.png",
+        "https://user-images.githubusercontent.com/2082134/59275420-4198e400-8c97-11e9-8e44-588f328bde8d.png"
+      ],
+      "stars": 170,
+      "date_added": "Apr 17 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
