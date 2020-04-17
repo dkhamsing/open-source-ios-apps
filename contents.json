@@ -19211,6 +19211,24 @@
       ],
       "date_added": "Apr 17 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Open Event Organizer",
+      "category-ids": [
+        "event"
+      ],
+      "description": "Event management app for organizers using Open Event Platform",
+      "license": "mit",
+      "source": "https://github.com/fossasia/open-event-organizer-ios",
+      "stars": 1100,
+      "tags": [
+        "swift",
+        "alamofire",
+        "swiftlint",
+        "objectmapper"
+      ],
+      "date_added": "Apr 17 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
