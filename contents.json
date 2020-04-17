@@ -19229,6 +19229,23 @@
       ],
       "date_added": "Apr 17 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "FakeFBWall",
+      "category-ids": [
+        "misc"
+      ],
+      "description": "Generate fake Facebook wall",
+      "license": "other",
+      "source": "https://github.com/VamshiIITBHU14/FakeFBWall",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://user-images.githubusercontent.com/21070922/44155410-d3d87ee8-a0ca-11e8-8502-6f2b2748f5cb.png"
+      ],
+      "date_added": "Apr 17 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
