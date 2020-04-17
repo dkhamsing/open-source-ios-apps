@@ -19160,6 +19160,24 @@
       "stars": 170,
       "date_added": "Apr 17 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "FancyNews",
+      "category-ids": [
+        "news-api"
+      ],
+      "tags": [
+        "swift",
+        "kingfisher",
+        "alamofire"
+      ],
+      "license": "mit",
+      "source": "https://github.com/aliumujib/FancyNews",
+      "screenshots": [
+        "https://github.com/aliumujib/FancyNews/raw/master/Screens/1.PNG"
+      ],
+      "date_added": "Apr 17 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
