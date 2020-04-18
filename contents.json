@@ -1168,11 +1168,11 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Brave",
+      "title": "Brave Private Web Browser",
       "category-ids": [
         "browser"
       ],
-      "description": "Firefox-based browser with ad block & tracking pixel/cookie block built in",
+      "description": "Lightning fast, safe and private, preventing you from being tracked by ads",
       "license": "mpl-2.0",
       "screenshots": [
         "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/be/5f/babe5fce-b0dd-2412-8dd7-bb20fb27f913/mzl.ckztmnji.jpg/460x0w.jpg",
