@@ -19277,6 +19277,20 @@
       "stars": 1400,
       "date_added": "Apr 18 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "NewsAPISwift",
+      "category-ids": [
+        "news-api"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": ["https://i.imgur.com/1vy5Xd7.png"],
+      "license": "mit",
+      "source": "https://github.com/lucaslimapoa/NewsAPISwift",
+      "suggested_by": "@dkhamsing",
+      "date_added": "Apr 18 2020"
     }
   ]
 }
