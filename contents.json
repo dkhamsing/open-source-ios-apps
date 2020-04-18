@@ -3651,7 +3651,7 @@
     {
       "title": "VisitBCN",
       "category-ids": [
-        "location"
+        "travel"
       ],
       "tags": [
         "objc"
@@ -4422,7 +4422,7 @@
     {
       "title": "Upupu",
       "category-ids": [
-        "media"
+        "photo"
       ],
       "tags": [
         "webdav",
@@ -5138,7 +5138,8 @@
         "sample"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "screenshots": [
         "http://f.cl.ly/items/2m0W310X0f0J2Z0b0o2r/top.jpg"
@@ -5153,7 +5154,8 @@
     {
       "title": "iOS 9 Sampler",
       "category-ids": [
-        "sample"
+        "sample",
+        "archive"
       ],
       "description": "Code examples for the new functions in iOS 9",
       "license": "mit",
@@ -10482,7 +10484,7 @@
     {
       "title": "Tagger",
       "category-ids": [
-        "media",
+        "photo",
         "core-data"
       ],
       "description": "Help tag your photos on Instagram or Flickr",
@@ -11303,7 +11305,7 @@
     {
       "title": "Screenshotter",
       "category-ids": [
-        "media"
+        "photo"
       ],
       "tags": [
         "iphone"
@@ -12896,8 +12898,7 @@
       "source": "https://github.com/adamwulf/loose-leaf",
       "itunes": "https://apps.apple.com/app/loose-leaf/id625659452",
       "category-ids": [
-        "notes",
-        "media"
+        "notes"
       ],
       "tags": [
         "ipad",
@@ -13358,7 +13359,7 @@
       "source": "https://github.com/sindresorhus/blear",
       "itunes": "https://apps.apple.com/app/blear-create-blurry-wallpapers/id994182280",
       "category-ids": [
-        "media"
+        "photo"
       ],
       "tags": [
         "objc"
@@ -14208,7 +14209,7 @@
       "title": "Papr",
       "category-ids": [
         "rxswift",
-        "media"
+        "content"
       ],
       "description": "An unofficial client for https://unsplash.com",
       "source": "https://github.com/jdisho/Papr",
@@ -15381,7 +15382,7 @@
         "coreml"
       ],
       "category-ids": [
-        "media"
+        "photo"
       ],
       "screenshots": [
         "https://github.com/kingreza/SeeFood/raw/master/seefood1.gif"
@@ -15409,7 +15410,8 @@
         "mapkit",
         "identity-lookup",
         "devicecheck",
-        "spritekit"
+        "spritekit",
+        "archive"
       ],
       "stars": 3318,
       "screenshots": [
@@ -16420,7 +16422,6 @@
     {
       "title": "Queue'd Music",
       "category-ids": [
-        "media",
         "audio",
         "social"
       ],
@@ -16788,7 +16789,7 @@
     {
       "title": "BookPlayer",
       "category-ids": [
-        "media"
+        "audio"
       ],
       "description": "Player for your DRM-free audiobooks",
       "source": "https://github.com/TortugaPower/BookPlayer",
@@ -18042,7 +18043,7 @@
     {
       "title": "Iris.iOS",
       "category-ids": [
-        "media"
+        "content"
       ],
       "tags": [
         "swift",
@@ -18475,8 +18476,7 @@
     {
       "title": "TriangleDraw",
       "category-ids": [
-        "media",
-        "content"
+        "misc"
       ],
       "tags": [
         "ipad",
@@ -18632,7 +18632,7 @@
     {
       "title": "Library Genesis",
       "category-ids": [
-        "media"
+        "content"
       ],
       "description": "Preview and download books from Library Genesis https://libgen.is",
       "source": "https://github.com/MartinStamenkovski/LibraryGenesis",
