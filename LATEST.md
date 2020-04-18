@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI)
-2. [SwiftUITodo](https://github.com/devxoul/SwiftUITodo)
-3. [Delta: Math helper](https://github.com/GroupeMINASTE/Delta-iOS)
-4. [HN Now](https://github.com/nathfreder/HNNow)
-5. [SF Symbols Game](https://github.com/rudrankriyam/Unofficial-SF-Symbols-Game)
-6. [ARbusters](https://github.com/pedrommcarrasco/ARbusters)
-7. [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui)
-8. [Outline](https://github.com/Jigsaw-Code/outline-client)
-9. [Tofu Authenticator](https://github.com/calleerlandsson/Tofu)
-10. [Podverse](https://github.com/podverse/podverse-rn)
-11. [FreeTimePicker](https://github.com/fromkk/FreeTimePicker)
-12. [Fingerspelling](https://github.com/sloria/Fingerspelling-iOS)
-13. [windmill](https://github.com/qnoid/windmill-ios)
-14. [App Store Clone](https://github.com/VamshiIITBHU14/AppStoreClone)
-15. [xFonts](https://github.com/manolosavi/xFonts)
+1. [TracePrivately](https://github.com/CrunchyBagel/TracePrivately)
+2. [FakeFBWall](https://github.com/VamshiIITBHU14/FakeFBWall)
+3. [Open Event Organizer](https://github.com/fossasia/open-event-organizer-ios)
+4. [Royal News](https://github.com/msal4/royal_news)
+5. [Baby Monitor](https://github.com/netguru/baby-monitor-client-ios)
+6. [FancyNews](https://github.com/aliumujib/FancyNews)
+7. [GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI)
+8. [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI)
+9. [SwiftUITodo](https://github.com/devxoul/SwiftUITodo)
+10. [Delta: Math helper](https://github.com/GroupeMINASTE/Delta-iOS)
+11. [HN Now](https://github.com/nathfreder/HNNow)
+12. [SF Symbols Game](https://github.com/rudrankriyam/Unofficial-SF-Symbols-Game)
+13. [ARbusters](https://github.com/pedrommcarrasco/ARbusters)
+14. [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui)
+15. [Outline](https://github.com/Jigsaw-Code/outline-client)
 
 ## Thanks
 

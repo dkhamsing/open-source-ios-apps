@@ -699,6 +699,14 @@ Click ► to show more details
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/67/c4/bd/67c4bd2f-bf02-54c3-7b3a-3ff6605a51f2/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [OpenStack Foundation Summit](https://github.com/OpenStack-mobile/summit-app-ios) [` App Store`](https://apps.apple.com/app/openstack-foundation-summit/id1071261846)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added March 16, 2018<br>
+	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7d/ff/a9/7dffa970-0332-eb92-b625-601e1130da99/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [RWDevCon](https://github.com/raywenderlich/RWDevCon-App) [` App Store`](https://apps.apple.com/app/rwdevcon-tutorial-conference/id958625272)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -2506,14 +2514,6 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added February 10, 2017<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/88/8f/c3/888fc31d-7ad9-c6ce-6d80-b081151b3600/mzl.vupiryaa.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e4/f1/e4/e4f1e4ab-d623-d3c4-3a4d-5770de1a6fb4/mzl.suvrwweg.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/67/f8/d6/67f8d6bc-1c11-8164-634e-050953b73439/mzl.tpujfkus.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/a0/14/a6a01466-204c-be56-11aa-9953a6913af0/mzl.qhffrqig.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/23/41/00/2341001e-05ef-e1f1-6b0a-86b4146f6c18/mzl.phvtiqbd.png/460x0w.jpg'><code>Screenshot 5</code></a> 
-  </details>
-
-- [OpenStack Foundation Summit](https://github.com/OpenStack-mobile/summit-app-ios): The official app for the OpenStack Foundation Summit [` App Store`](https://apps.apple.com/app/openstack-foundation-summit/id1071261846)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added March 16, 2018<br>
-	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7d/ff/a9/7dffa970-0332-eb92-b625-601e1130da99/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Vinylogue](https://github.com/twocentstudios/vinylogue): Last.fm app [` App Store`](https://apps.apple.com/app/vinylogue-for-last.fm/id617471119)  
