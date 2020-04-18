@@ -19263,6 +19263,20 @@
       ],
       "date_added": "Apr 17 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "30 mini Swift Apps for self-study",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/soapyigu/Swift-30-Projects",
+      "license": "apache-2.0",
+      "stars": 1400,
+      "date_added": "Apr 18 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
