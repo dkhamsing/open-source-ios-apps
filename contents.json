@@ -126,10 +126,6 @@
       "id": "home"
     },
     {
-      "title": "Keyboard",
-      "id": "keyboard"
-    },
-    {
       "title": "Location",
       "id": "location"
     },
@@ -3130,7 +3126,7 @@
     {
       "title": "AA-Keyboard",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "tags": [
         "objc",
@@ -3150,7 +3146,7 @@
     {
       "title": "ClickWheelKeyboard",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "tags": [
         "ios8",
@@ -3172,7 +3168,7 @@
     {
       "title": "Link Keyboard : My Links Everywhere",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "tags": [
         "swift",
@@ -3233,7 +3229,7 @@
     {
       "title": "Hodor",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "description": "Fun Hodor keyboard",
       "source": "https://github.com/jonomuller/Hodor-Keyboard",
@@ -3252,7 +3248,7 @@
     {
       "title": "NaughtyKeyboard",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "description": "Keyboard that supports The Big List of Naughty Strings",
       "license": "mit",
@@ -3271,7 +3267,7 @@
     {
       "title": "Slidden",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "tags": [
         "objc"
@@ -17126,7 +17122,7 @@
     {
       "title": "DesireKeyboard",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "description": "Keyboard for tvOS",
       "source": "https://github.com/noppefoxwolf/DesireKeyboard",
@@ -17145,7 +17141,7 @@
     {
       "title": "KeyCo",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "description": "Beautiful custom keyboard for developers",
       "source": "https://github.com/KeyCoApp/KeyCo",
