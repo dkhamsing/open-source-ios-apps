@@ -19245,6 +19245,24 @@
       ],
       "date_added": "Apr 17 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "TracePrivately",
+      "category-ids": [
+        "health"
+      ],
+      "description": "Uses Apple's Contact Tracing framework",
+      "license": "other",
+      "source": "https://github.com/CrunchyBagel/TracePrivately",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/CrunchyBagel/TracePrivately/raw/master/screenshots/trace-main.png?raw=true",
+        "https://github.com/CrunchyBagel/TracePrivately/raw/master/screenshots/trace-exposed.png?raw=true"
+      ],
+      "date_added": "Apr 17 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
