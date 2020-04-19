@@ -26,7 +26,7 @@ Jump to
 - [Event](#event) 
 - [Extension](#extension) 
   - [Content Blocking](#content-blocking) 
-  - [Today](#today) 
+  - [Widget](#widget) 
 - [Files](#files) 
 - [Finance](#finance) 
   - [Cryptocurrency](#cryptocurrency) 
@@ -37,7 +37,6 @@ Jump to
   - [Fitness](#fitness) 
   - [ResearchKit](#researchkit) 
 - [Home](#home) 
-- [Keyboard](#keyboard) 
 - [Location](#location) 
 - [Media](#media) 
   - [Animoji](#animoji) 
@@ -157,7 +156,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [Brave](https://github.com/brave/brave-ios): Firefox-based browser with ad block & tracking pixel/cookie block built in [` App Store`](https://apps.apple.com/app/brave-web-browser/id1052879175)  
+- [Brave Private Web Browser](https://github.com/brave/brave-ios): Lightning fast, safe and private, preventing you from being tracked by ads [` App Store`](https://apps.apple.com/app/brave-web-browser/id1052879175)  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐</summary>
 
@@ -774,7 +773,7 @@ Click ► to show more details
   </details>
 
 
-### Today 
+### Widget 
  
 [back to top](#readme) 
  
@@ -1245,11 +1244,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   </details>
 
 
-## Keyboard 
- 
-[back to top](#readme) 
- 
-
 ## Location 
  
 [back to top](#readme) 
@@ -1366,14 +1360,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple82/v4/68/1e/63/681e63ef-4cda-0e94-7489-01858fbfd8ab/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/17/a6/03/17a6033a-1de3-ce5e-fd25-e150f778524d/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/ff/46/cf/ff46cfa4-adc9-27be-96c7-f745c74be801/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
-- [VisitBCN](https://github.com/maurovc/visitBCN): City guide for Barcelona [` App Store`](https://apps.apple.com/app/visitbcn/id904676442)  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/d4/bc/f5/d4bcf520-6fe7-eb65-7df2-bf1146c881a6/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/fd/1d/fc/fd1dfc7f-7b51-5779-6cef-4b7f3cb53a49/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/e0/7e/9e/e07e9e29-c618-f92d-9d93-67743e123be8/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple5/v4/bb/73/8f/bb738ff2-bf37-f697-a6f7-51d27e9cab39/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/39/3b/6a/393b6a53-e267-4661-c5d8-2f547e224dc3/pr_source.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
-  </details>
-
 - [Wheelmap](https://github.com/sozialhelden/wheelmap-iphone2): Map to locate wheelchair-accessible places [` App Store`](https://apps.apple.com/app/id399239476)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -1387,22 +1373,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
  
 Image, video, audio, reading — [back to top](#readme) 
  
-- [Blear](https://github.com/sindresorhus/blear): Transform your photos into stunning blurry wallpapers for your device [` App Store`](https://apps.apple.com/app/blear-create-blurry-wallpapers/id994182280)  
-  <details>
-	<summary><code>objc</code> ⭐⭐</summary>
-
-	Added February 24, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/92/6f/a4/926fa4b0-7002-a610-2d29-aa5d0598ffaf/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4c/af/9b/4caf9b23-c3a5-8177-c7cd-f02e4e3d7ba2/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/52/fb/46/52fb4604-c9fb-1799-ba61-3c1523986e03/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
-  </details>
-
-- [BookPlayer](https://github.com/TortugaPower/BookPlayer): Player for your DRM-free audiobooks [` App Store`](https://apps.apple.com/app/bookplayer-audio-book-player/id1138219998)  
-  <details>
-	<summary><code>swift</code> ⭐⭐</summary>
-
-	Added July  6, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'><code>Screenshot 3</code></a> 
-  </details>
-
 - [ComicFlow](https://github.com/swisspol/ComicFlow): Comic reader [` App Store`](https://apps.apple.com/app/comicflow/id409290355)  
   <details>
 	<summary><code>ipad</code> ⭐⭐</summary>
@@ -1417,14 +1387,6 @@ Image, video, audio, reading — [back to top](#readme)
 
 	https://kodi.tv/<br>  Added June  1, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/95/5b/f0/955bf0bb-c897-bf04-e91e-5872cd937762/mzl.ewoyekko.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/77/09/18/770918b9-a6e0-c18b-d537-2e57539f9d90/mzl.ubgzfasc.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/41/e6/8241e63f-35b1-cbe9-6cd4-2cbdce9feb4b/mzl.ddodyqvp.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/25/d9/ee/25d9eec0-30bb-54e6-4273-d9f29913ccde/mzl.jhwhiolh.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/2e/46/f72e4657-9da9-930a-6f7e-8a636c28d5a5/mzl.kdweouvd.png/460x0w.jpg'><code>Screenshot 5</code></a> 
-  </details>
-
-- [Loose Leaf](https://github.com/adamwulf/loose-leaf): Take notes, import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://apps.apple.com/app/loose-leaf/id625659452)  
-  <details>
-	<summary><code>ipad</code> <code>pdf</code> <code>apple pencil</code> ⭐⭐</summary>
-
-	Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [MuPDF](http://git.ghostscript.com/?p=mupdf.git;a=summary): A PDF, XPS/OpenXPS, CBZ & EPUB document viewer [` App Store`](https://apps.apple.com/app/id482941798)  
@@ -1451,14 +1413,6 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/4f/99/3c/4f993c14-e215-1e9e-0277-34b02ec222aa/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/10/79/88/107988e0-fb27-96bf-c9dd-14bf092de0af/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple117/v4/15/86/bf/1586bf11-90d6-61ff-ac3d-0deb855b0276/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
-- [Screenshotter](https://github.com/rsattar/screenshotter): Organize & manage screenshots [` App Store`](https://apps.apple.com/app/screenshotter-organize-manage/id826596892)  
-  <details>
-	<summary><code>iphone</code> </summary>
-
-	Added July 28, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='http://a1.mzstatic.com/us/r30/Purple111/v4/be/d3/72/bed372f2-d1fb-511b-8e76-d55a7805fc64/screen696x696.jpeg'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Selfie Stick](https://github.com/RF-Nelson/open-source-selfie-stick): Sync 2 devices & use one as a remote control for the other's camera [` App Store`](https://apps.apple.com/app/id1084487132)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -1473,22 +1427,6 @@ Image, video, audio, reading — [back to top](#readme)
 
 	https://novinfard.com<br>  Added May 24, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/df/ca/54/dfca5417-f1d7-3c7f-675a-9bd3e7c1b082/source/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/27/9e/83/279e8336-a1e4-3bbe-4162-4fce7651b2bf/source/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/62/1c/7d/621c7db7-8259-dad3-247c-850b50a76797/source/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/1d/f8/2f/1df82ff0-2f41-c97e-c5dd-a9418323804c/source/460x0w.png'><code>Screenshot 4</code></a> 
-  </details>
-
-- [TriangleDraw](https://github.com/triangledraw/TriangleDraw-iOS): Create logos, typography, and other graphics, using nothing but triangles [` App Store`](https://apps.apple.com/app/triangledraw/id1453533043)  
-  <details>
-	<summary><code>swift</code> <code>ipad</code> <code>iphone</code> <code>metal</code> <code>uidocument</code> <code>apple pencil</code> </summary>
-
-	http://www.triangledraw.com/<br>  Added January 25, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/triangledraw/TriangleDraw-iOS/develop/Source/Documentation/triangledraw_screenshots.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Upupu](https://github.com/xcoo/upupu): Simple camera app that can backup pictures [` App Store`](https://apps.apple.com/app/upupu/id508401854)  
-  <details>
-	<summary><code>webdav</code> <code>dropbox</code> </summary>
-
-	Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/cb/0d/a3/cb0da3c2-ceb8-2756-ce8f-4fdae819a49b/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/25/29/90/252990fa-4332-32cb-25bb-023a9e09ccf2/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/bf/7d/b9/bf7db949-e1c5-5d5d-733a-b1e09b5b9065/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 - [wallabag](https://github.com/wallabag/ios-app): A self-hosted read-it-later app [` App Store`](https://apps.apple.com/app/wallabag-2-official/id1170800946)  
@@ -1523,6 +1461,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	https://audiokitpro.com/synth/<br>  Added July 24, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://audiokitpro.com/images/ak2.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [BookPlayer](https://github.com/TortugaPower/BookPlayer): Player for your DRM-free audiobooks [` App Store`](https://apps.apple.com/app/bookplayer-audio-book-player/id1138219998)  
+  <details>
+	<summary><code>swift</code> ⭐⭐</summary>
+
+	Added July  6, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'><code>Screenshot 3</code></a> 
   </details>
 
 - [Monotone Delay](https://github.com/jkandzi/Monotone-Delay): A simple synthesiser, based on the Korg Monotron Delay [` App Store`](https://apps.apple.com/app/monotone-delay/id737483162)  
@@ -1649,14 +1595,6 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-2.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-3.png?raw=true'><code>Screenshot 3</code></a> 
   </details>
 
-- [TriangleDraw](https://github.com/triangledraw/TriangleDraw-iOS): Create logos, typography, and other graphics, using nothing but triangles [` App Store`](https://apps.apple.com/app/triangledraw/id1453533043)  
-  <details>
-	<summary><code>swift</code> <code>ipad</code> <code>iphone</code> <code>metal</code> <code>uidocument</code> <code>apple pencil</code> </summary>
-
-	http://www.triangledraw.com/<br>  Added January 25, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/triangledraw/TriangleDraw-iOS/develop/Source/Documentation/triangledraw_screenshots.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [xkcd](https://github.com/paulrehkugler/xkcd) [` App Store`](https://apps.apple.com/app/xkcd/id303688284)  
   <details>
 	<summary><code>iphone</code> </summary>
@@ -1691,6 +1629,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
+- [Blear](https://github.com/sindresorhus/blear): Transform your photos into stunning blurry wallpapers for your device [` App Store`](https://apps.apple.com/app/blear-create-blurry-wallpapers/id994182280)  
+  <details>
+	<summary><code>objc</code> ⭐⭐</summary>
+
+	Added February 24, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/92/6f/a4/926fa4b0-7002-a610-2d29-aa5d0598ffaf/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4c/af/9b/4caf9b23-c3a5-8177-c7cd-f02e4e3d7ba2/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/52/fb/46/52fb4604-c9fb-1799-ba61-3c1523986e03/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
 - [ColorBlur](https://github.com/maurovc/ColorBlur): Add blur to your photos [` App Store`](https://apps.apple.com/app/id928863510)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -1715,12 +1661,28 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPhone_en.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPad_en.png'><code>Screenshot 2</code></a> 
   </details>
 
+- [Screenshotter](https://github.com/rsattar/screenshotter): Organize & manage screenshots [` App Store`](https://apps.apple.com/app/screenshotter-organize-manage/id826596892)  
+  <details>
+	<summary><code>iphone</code> </summary>
+
+	Added July 28, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='http://a1.mzstatic.com/us/r30/Purple111/v4/be/d3/72/bed372f2-d1fb-511b-8e76-d55a7805fc64/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Triggy](https://github.com/jnordberg/triggy): Intervalometer for WiFi-enabled Canon DSLRs [` App Store`](https://apps.apple.com/app/triggy/id1193570460)  
   <details>
 	<summary><code>swift</code> </summary>
 
 	Added May 18, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://raw.githubusercontent.com/jnordberg/triggy/master/triggy.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Upupu](https://github.com/xcoo/upupu): Simple camera app that can backup pictures [` App Store`](https://apps.apple.com/app/upupu/id508401854)  
+  <details>
+	<summary><code>webdav</code> <code>dropbox</code> </summary>
+
+	Added April  9, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/cb/0d/a3/cb0da3c2-ceb8-2756-ce8f-4fdae819a49b/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/25/29/90/252990fa-4332-32cb-25bb-023a9e09ccf2/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/bf/7d/b9/bf7db949-e1c5-5d5d-733a-b1e09b5b9065/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 - [WeAre](https://github.com/SherlockQi/HeavenMemoirs): Augmented reality album [` App Store`](https://apps.apple.com/app/weare/id1304227680)  
@@ -2066,7 +2028,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> ⭐⭐⭐</summary>
 
 	https://lockdownhq.com<br>  Added August 24, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://lockdownhq.com/images/iphone-screenshot.jpg'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/HeOTZqn.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Passepartout](https://github.com/passepartoutvpn/passepartout-ios): User-friendly OpenVPN app [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537)  
@@ -2418,6 +2380,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://moviedict.info/iphone.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [VisitBCN](https://github.com/maurovc/visitBCN): City guide for Barcelona [` App Store`](https://apps.apple.com/app/visitbcn/id904676442)  
+  <details>
+	<summary><code>objc</code> </summary>
+
+	Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/d4/bc/f5/d4bcf520-6fe7-eb65-7df2-bf1146c881a6/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/fd/1d/fc/fd1dfc7f-7b51-5779-6cef-4b7f3cb53a49/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/e0/7e/9e/e07e9e29-c618-f92d-9d93-67743e123be8/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple5/v4/bb/73/8f/bb738ff2-bf37-f697-a6f7-51d27e9cab39/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/39/3b/6a/393b6a53-e267-4661-c5d8-2f547e224dc3/pr_source.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
 
 ## Weather 
  
@@ -2514,6 +2484,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added February 10, 2017<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/88/8f/c3/888fc31d-7ad9-c6ce-6d80-b081151b3600/mzl.vupiryaa.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e4/f1/e4/e4f1e4ab-d623-d3c4-3a4d-5770de1a6fb4/mzl.suvrwweg.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/67/f8/d6/67f8d6bc-1c11-8164-634e-050953b73439/mzl.tpujfkus.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/a0/14/a6a01466-204c-be56-11aa-9953a6913af0/mzl.qhffrqig.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/23/41/00/2341001e-05ef-e1f1-6b0a-86b4146f6c18/mzl.phvtiqbd.png/460x0w.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
+- [TriangleDraw](https://github.com/triangledraw/TriangleDraw-iOS): Create logos, typography, and other graphics, using nothing but triangles [` App Store`](https://apps.apple.com/app/triangledraw/id1453533043)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> <code>iphone</code> <code>metal</code> <code>uidocument</code> <code>apple pencil</code> </summary>
+
+	http://www.triangledraw.com/<br>  Added January 25, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/triangledraw/TriangleDraw-iOS/develop/Source/Documentation/triangledraw_screenshots.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Vinylogue](https://github.com/twocentstudios/vinylogue): Last.fm app [` App Store`](https://apps.apple.com/app/vinylogue-for-last.fm/id617471119)  
