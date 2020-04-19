@@ -19287,6 +19287,25 @@
       "source": "https://github.com/lucaslimapoa/NewsAPISwift",
       "suggested_by": "@dkhamsing",
       "date_added": "Apr 18 2020"
+    },
+    {
+      "title": "Restaurant Viewing",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift",
+        "alamofire",
+        "moya",
+        "corelocation"
+      ],
+      "license": "other",
+      "source": "https://github.com/gtokman/Restaurant-Viewing-App",
+      "date_added": "Apr 19 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://i.imgur.com/9thpBwq.gif"
+      ]
     }
   ]
 }
