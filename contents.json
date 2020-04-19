@@ -18784,7 +18784,7 @@
     },
     {
       "title": "covid19",
-      "description": "COVID-19 data / health news and tweets",
+      "description": "COVID-19 health, data, news and tweets",
       "category-ids": [
         "news-api",
         "health"
