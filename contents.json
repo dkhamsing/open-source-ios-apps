@@ -19263,6 +19263,29 @@
       ],
       "date_added": "Apr 17 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "palette-from-image",
+      "category-ids": [
+        "color",
+        "clone"
+      ],
+      "description": "Inspire from https://earthview.withgoogle.com",
+      "license": "other",
+      "source": "https://github.com/chuongtrh/palette-from-image",
+      "tags": [
+        "swift",
+        "palette",
+        "generate color",
+        "earthview"
+      ],
+      "screenshots": [
+        "https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot1.png?raw=true",
+        "https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot2.png?raw=true",
+        "https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot3.png?raw=true"
+      ],
+      "date_added": "Apr 19 2020",
+      "suggested_by": "@chuongtrh"
     }
   ]
 }
