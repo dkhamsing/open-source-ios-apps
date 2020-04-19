@@ -5154,15 +5154,15 @@
     {
       "title": "iOS 9 Sampler",
       "category-ids": [
-        "sample",
-        "archive"
+        "sample"
       ],
       "description": "Code examples for the new functions in iOS 9",
       "license": "mit",
       "source": "https://github.com/shu223/iOS-9-Sampler",
       "stars": 3537,
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/shu223/iOS-9-Sampler/master/ResourcesForREADME/map.gif"
