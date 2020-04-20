@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [NewsAPISwift](https://github.com/lucaslimapoa/NewsAPISwift)
-2. [30 mini Swift Apps for self-study](https://github.com/soapyigu/Swift-30-Projects)
-3. [TracePrivately](https://github.com/CrunchyBagel/TracePrivately)
-4. [FakeFBWall](https://github.com/VamshiIITBHU14/FakeFBWall)
-5. [Open Event Organizer](https://github.com/fossasia/open-event-organizer-ios)
-6. [Royal News](https://github.com/msal4/royal_news)
-7. [Baby Monitor](https://github.com/netguru/baby-monitor-client-ios)
-8. [FancyNews](https://github.com/aliumujib/FancyNews)
-9. [GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI)
-10. [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI)
-11. [SwiftUITodo](https://github.com/devxoul/SwiftUITodo)
-12. [Delta: Math helper](https://github.com/GroupeMINASTE/Delta-iOS)
-13. [HN Now](https://github.com/nathfreder/HNNow)
-14. [SF Symbols Game](https://github.com/rudrankriyam/Unofficial-SF-Symbols-Game)
-15. [ARbusters](https://github.com/pedrommcarrasco/ARbusters)
+1. [Zeplin Client for Zeplin.io](https://github.com/relevantfruit/zeplin-ios)
+2. [Restaurant Viewing](https://github.com/gtokman/Restaurant-Viewing-App)
+3. [palette-from-image](https://github.com/chuongtrh/palette-from-image)
+4. [NewsAPISwift](https://github.com/lucaslimapoa/NewsAPISwift)
+5. [30 mini Swift Apps for self-study](https://github.com/soapyigu/Swift-30-Projects)
+6. [TracePrivately](https://github.com/CrunchyBagel/TracePrivately)
+7. [FakeFBWall](https://github.com/VamshiIITBHU14/FakeFBWall)
+8. [Open Event Organizer](https://github.com/fossasia/open-event-organizer-ios)
+9. [Royal News](https://github.com/msal4/royal_news)
+10. [Baby Monitor](https://github.com/netguru/baby-monitor-client-ios)
+11. [FancyNews](https://github.com/aliumujib/FancyNews)
+12. [GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI)
+13. [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI)
+14. [SwiftUITodo](https://github.com/devxoul/SwiftUITodo)
+15. [Delta: Math helper](https://github.com/GroupeMINASTE/Delta-iOS)
 
 ## Thanks
 
