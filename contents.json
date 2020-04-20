@@ -73,8 +73,8 @@
       "parent": "extension"
     },
     {
-      "title": "Today",
-      "id": "today",
+      "title": "Widget",
+      "id": "widget",
       "parent": "extension"
     },
     {
@@ -124,10 +124,6 @@
     {
       "title": "Home",
       "id": "home"
-    },
-    {
-      "title": "Keyboard",
-      "id": "keyboard"
     },
     {
       "title": "Location",
@@ -544,7 +540,7 @@
       "title": "Bus Today",
       "category-ids": [
         "apple-watch",
-        "today"
+        "widget"
       ],
       "tags": [
         "objc"
@@ -842,7 +838,7 @@
       "title": "Impulse",
       "category-ids": [
         "apple-watch",
-        "today"
+        "widget"
       ],
       "description": "Real-time age ticker",
       "source": "https://github.com/Jasdev/Impulse",
@@ -1168,11 +1164,11 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Brave",
+      "title": "Brave Private Web Browser",
       "category-ids": [
         "browser"
       ],
-      "description": "Firefox-based browser with ad block & tracking pixel/cookie block built in",
+      "description": "Lightning fast, safe and private, preventing you from being tracked by ads",
       "license": "mpl-2.0",
       "screenshots": [
         "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/be/5f/babe5fce-b0dd-2412-8dd7-bb20fb27f913/mzl.ckztmnji.jpg/460x0w.jpg",
@@ -2237,7 +2233,7 @@
       "title": "TodayStocks",
       "category-ids": [
         "finance",
-        "today"
+        "widget"
       ],
       "tags": [
         "objc",
@@ -3116,7 +3112,7 @@
     {
       "title": "AA-Keyboard",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "tags": [
         "objc",
@@ -3136,7 +3132,7 @@
     {
       "title": "ClickWheelKeyboard",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "tags": [
         "ios8",
@@ -3158,7 +3154,7 @@
     {
       "title": "Link Keyboard : My Links Everywhere",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "tags": [
         "swift",
@@ -3219,7 +3215,7 @@
     {
       "title": "Hodor",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "description": "Fun Hodor keyboard",
       "source": "https://github.com/jonomuller/Hodor-Keyboard",
@@ -3238,7 +3234,7 @@
     {
       "title": "NaughtyKeyboard",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "description": "Keyboard that supports The Big List of Naughty Strings",
       "license": "mit",
@@ -3257,7 +3253,7 @@
     {
       "title": "Slidden",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "tags": [
         "objc"
@@ -3641,7 +3637,7 @@
     {
       "title": "VisitBCN",
       "category-ids": [
-        "location"
+        "travel"
       ],
       "tags": [
         "objc"
@@ -4412,7 +4408,7 @@
     {
       "title": "Upupu",
       "category-ids": [
-        "media"
+        "photo"
       ],
       "tags": [
         "webdav",
@@ -5122,7 +5118,8 @@
         "sample"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "screenshots": [
         "http://f.cl.ly/items/2m0W310X0f0J2Z0b0o2r/top.jpg"
@@ -5144,7 +5141,8 @@
       "source": "https://github.com/shu223/iOS-9-Sampler",
       "stars": 3537,
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/shu223/iOS-9-Sampler/master/ResourcesForREADME/map.gif"
@@ -6710,7 +6708,7 @@
     {
       "title": "VPN On",
       "category-ids": [
-        "today",
+        "widget",
         "security"
       ],
       "description": "Extension to turn on VPN",
@@ -7001,7 +6999,7 @@
       "title": "SwiftNote",
       "category-ids": [
         "notes",
-        "today"
+        "widget"
       ],
       "description": "Simple note taking with Today Extension & iCloud sync",
       "license": "mit",
@@ -7036,7 +7034,7 @@
       "title": "Fojusi",
       "category-ids": [
         "timer",
-        "today"
+        "widget"
       ],
       "description": "Work timer with Today Extension",
       "source": "https://github.com/dasdom/Tomate",
@@ -10112,7 +10110,7 @@
     {
       "title": "OpenIt",
       "category-ids": [
-        "today"
+        "widget"
       ],
       "screenshots": [
         "https://github.com/BalestraPatrick/OpenIt/raw/master/OpenItDemo.gif"
@@ -10442,7 +10440,7 @@
     {
       "title": "Tagger",
       "category-ids": [
-        "media",
+        "photo",
         "core-data"
       ],
       "description": "Help tag your photos on Instagram or Flickr",
@@ -11261,7 +11259,7 @@
     {
       "title": "Screenshotter",
       "category-ids": [
-        "media"
+        "photo"
       ],
       "tags": [
         "iphone"
@@ -11869,7 +11867,7 @@
       "itunes": "https://apps.apple.com/app/contributions-for-github/id1153432612",
       "category-ids": [
         "github",
-        "today"
+        "widget"
       ],
       "tags": [
         "objc"
@@ -12206,7 +12204,7 @@
         "https://github.com/cyanzhong/LunarCore/raw/master/iOS.png"
       ],
       "category-ids": [
-        "today",
+        "widget",
         "calendar"
       ],
       "tags": [
@@ -12852,8 +12850,7 @@
       "source": "https://github.com/adamwulf/loose-leaf",
       "itunes": "https://apps.apple.com/app/loose-leaf/id625659452",
       "category-ids": [
-        "notes",
-        "media"
+        "notes"
       ],
       "tags": [
         "ipad",
@@ -13314,7 +13311,7 @@
       "source": "https://github.com/sindresorhus/blear",
       "itunes": "https://apps.apple.com/app/blear-create-blurry-wallpapers/id994182280",
       "category-ids": [
-        "media"
+        "photo"
       ],
       "tags": [
         "objc"
@@ -13356,7 +13353,7 @@
       "title": "TodayMind",
       "description": "Manage Reminders directly in a Today Extension",
       "category-ids": [
-        "today"
+        "widget"
       ],
       "source": "https://github.com/cyanzhong/TodayMind",
       "itunes": "https://apps.apple.com/app/id1207158665",
@@ -14164,7 +14161,7 @@
       "title": "Papr",
       "category-ids": [
         "rxswift",
-        "media"
+        "content"
       ],
       "description": "An unofficial client for https://unsplash.com",
       "source": "https://github.com/jdisho/Papr",
@@ -15337,7 +15334,7 @@
         "coreml"
       ],
       "category-ids": [
-        "media"
+        "photo"
       ],
       "screenshots": [
         "https://github.com/kingreza/SeeFood/raw/master/seefood1.gif"
@@ -15365,7 +15362,8 @@
         "mapkit",
         "identity-lookup",
         "devicecheck",
-        "spritekit"
+        "spritekit",
+        "archive"
       ],
       "stars": 3318,
       "screenshots": [
@@ -16317,7 +16315,7 @@
       "category-ids": [
         "education"
       ],
-      "description": "Game to learn new languages for people who respond well to repetition, includesItalian, French, Chinese, German, Polish, Portuguese, Russian & Spanish",
+      "description": "Game to learn new languages for people who respond well to repetition, includes Italian, French, Chinese, German, Polish, Portuguese, Russian & Spanish",
       "source": "https://github.com/clintonwoo/ciao",
       "license": "apache-2.0",
       "stars": 8,
@@ -16376,7 +16374,6 @@
     {
       "title": "Queue'd Music",
       "category-ids": [
-        "media",
         "audio",
         "social"
       ],
@@ -16744,7 +16741,7 @@
     {
       "title": "BookPlayer",
       "category-ids": [
-        "media"
+        "audio"
       ],
       "description": "Player for your DRM-free audiobooks",
       "source": "https://github.com/TortugaPower/BookPlayer",
@@ -17078,7 +17075,7 @@
     {
       "title": "DesireKeyboard",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "description": "Keyboard for tvOS",
       "source": "https://github.com/noppefoxwolf/DesireKeyboard",
@@ -17097,7 +17094,7 @@
     {
       "title": "KeyCo",
       "category-ids": [
-        "keyboard"
+        "misc"
       ],
       "description": "Beautiful custom keyboard for developers",
       "source": "https://github.com/KeyCoApp/KeyCo",
@@ -17933,7 +17930,7 @@
       "homepage": "https://lockdownhq.com",
       "itunes": "https://apps.apple.com/app/lockdown-apps/id1469783711",
       "screenshots": [
-        "https://lockdownhq.com/images/iphone-screenshot.jpg"
+        "https://i.imgur.com/HeOTZqn.png"
       ],
       "license": "gpl-3.0",
       "date_added": "Aug 24 2019",
@@ -17998,7 +17995,7 @@
     {
       "title": "Iris.iOS",
       "category-ids": [
-        "media"
+        "content"
       ],
       "tags": [
         "swift",
@@ -18431,8 +18428,7 @@
     {
       "title": "TriangleDraw",
       "category-ids": [
-        "media",
-        "content"
+        "misc"
       ],
       "tags": [
         "ipad",
@@ -18588,7 +18584,7 @@
     {
       "title": "Library Genesis",
       "category-ids": [
-        "media"
+        "content"
       ],
       "description": "Preview and download books from Library Genesis https://libgen.is",
       "source": "https://github.com/MartinStamenkovski/LibraryGenesis",
@@ -18746,7 +18742,7 @@
     },
     {
       "title": "covid19",
-      "description": "COVID-19 data / health news and tweets",
+      "description": "COVID-19 health, data, news and tweets",
       "category-ids": [
         "news-api",
         "health"
@@ -19246,6 +19242,34 @@
       ],
       "date_added": "Apr 19 2020",
       "suggested_by": "@chuongtrh"
+    },
+    {
+      "title": "30 mini Swift Apps for self-study",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/soapyigu/Swift-30-Projects",
+      "license": "apache-2.0",
+      "stars": 1400,
+      "date_added": "Apr 18 2020",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "NewsAPISwift",
+      "category-ids": [
+        "news-api"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": ["https://i.imgur.com/1vy5Xd7.png"],
+      "license": "mit",
+      "source": "https://github.com/lucaslimapoa/NewsAPISwift",
+      "suggested_by": "@dkhamsing",
+      "date_added": "Apr 18 2020"
     }
   ]
 }
