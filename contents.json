@@ -19226,13 +19226,13 @@
         "color",
         "clone"
       ],
-      "description": "Inspire by https://earthview.withgoogle.com",
+      "description": "Inspired by https://earthview.withgoogle.com",
       "license": "other",
       "source": "https://github.com/chuongtrh/palette-from-image",
       "tags": [
         "swift",
         "palette",
-        "generate color",
+        "color",
         "earthview"
       ],
       "screenshots": [
