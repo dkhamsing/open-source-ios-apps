@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-955-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2019,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-958-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2020,%202020-lightgrey.svg)
 
 Jump to
 
@@ -600,6 +600,14 @@ Click ► to show more details
 	<a href='https://i.imgur.com/QEAE4B3.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [palette-from-image](https://github.com/chuongtrh/palette-from-image): Inspire by https://earthview.withgoogle.com  
+  <details>
+	<summary><code>swift</code> <code>palette</code> <code>generate color</code> <code>earthview</code> </summary>
+
+	Added April 19, 2020<br>  License: `other`<br>
+	<a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot2.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot3.png?raw=true'><code>Screenshot 3</code></a> 
+  </details>
+
 
 ## Clock 
  
@@ -704,6 +712,14 @@ Click ► to show more details
 
 	Added April  6, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://www.iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [palette-from-image](https://github.com/chuongtrh/palette-from-image): Inspire by https://earthview.withgoogle.com  
+  <details>
+	<summary><code>swift</code> <code>palette</code> <code>generate color</code> <code>earthview</code> </summary>
+
+	Added April 19, 2020<br>  License: `other`<br>
+	<a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot2.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot3.png?raw=true'><code>Screenshot 3</code></a> 
   </details>
 
 - [Pinterest](https://github.com/ivsall2012/AHPinterest)  
@@ -1318,6 +1334,14 @@ Click ► to show more details
 
 	Added June 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen3.png'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Zeplin Client for Zeplin.io](https://github.com/relevantfruit/zeplin-ios): Preview your designs on Zeplin [` App Store`](https://apps.apple.com/app/zeplin-client/id1501596135)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 19, 2020<br>  License: `other`<br>
+	<a href='https://github.com/relevantfruit/zeplin-ios/raw/master/docs/ZeplinClient_GitHub.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [花灰](https://github.com/lexrus/Huahui): How to prounounce programming terms in English  
@@ -4708,6 +4732,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added February 11, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/NYupyuB.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/NInDwlx.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [Restaurant Viewing](https://github.com/gtokman/Restaurant-Viewing-App)  
+  <details>
+	<summary><code>swift</code> <code>alamofire</code> <code>moya</code> <code>corelocation</code> </summary>
+
+	Added April 19, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/9thpBwq.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [RKGist](https://github.com/RestKit/RKGist): GitHub Gists  
