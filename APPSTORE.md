@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **239** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **240** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -525,6 +525,14 @@ Click ► to show more details
 
 	Added May  5, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/eb/03/2e/eb032e7d-9b04-0cea-89af-41478761d5b0/pr_source.png/316x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/de/e0/70/dee07035-182f-b5e1-9e48-38c5660dd760/pr_source.png/316x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/fe/8d/03/fe8d03fd-bdc7-dca5-ddd1-57de854e716e/pr_source.png/316x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Zeplin Client for Zeplin.io](https://github.com/relevantfruit/zeplin-ios): Preview your designs on Zeplin [` App Store`](https://apps.apple.com/app/zeplin-client/id1501596135)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 19, 2020<br>  License: `other`<br>
+	<a href='https://github.com/relevantfruit/zeplin-ios/raw/master/docs/ZeplinClient_GitHub.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 
