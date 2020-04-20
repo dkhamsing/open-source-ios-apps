@@ -19270,6 +19270,18 @@
       "source": "https://github.com/lucaslimapoa/NewsAPISwift",
       "suggested_by": "@dkhamsing",
       "date_added": "Apr 18 2020"
+    },
+    {
+      "title": "Zeplin Client for Zeplin.io",
+      "category-ids": ["developer", "photo"],
+      "description": "Say hello to first unofficial Zeplin companion app, Zeplin Client! It is the only app you need to preview your designs on Zeplin. Simply, log in to your Zeplin account and Zeplin Client will bring your projects into your iPhone.",
+      "source": "https://github.com/relevantfruit/zeplin-ios",
+      "tags": ["swift"],
+      "itunes": "https://apps.apple.com/us/app/zeplin-client/id1501596135?ls=1",
+      "screenshots": ["https://github.com/relevantfruit/zeplin-ios/raw/master/docs/ZeplinClient_GitHub.png?raw=true"],
+      "date_added": "Apr 19 2020",
+      "suggested_by": "@yagiznizipli",
+      "license": "gnu"
     }
   ]
 }
