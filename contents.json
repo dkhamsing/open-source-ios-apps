@@ -19295,11 +19295,11 @@
       "description": "Preview your designs on Zeplin",
       "source": "https://github.com/relevantfruit/zeplin-ios",
       "tags": ["swift"],
-      "itunes": "https://apps.apple.com/us/app/zeplin-client/id1501596135?ls=1",
+      "itunes": "https://apps.apple.com/app/zeplin-client/id1501596135",
       "screenshots": ["https://github.com/relevantfruit/zeplin-ios/raw/master/docs/ZeplinClient_GitHub.png?raw=true"],
       "date_added": "Apr 19 2020",
-      "suggested_by": "@yagiznizipli",
-      "license": "gnu"
+      "suggested_by": "@anonrig",
+      "license": "other"
     }
   ]
 }
