@@ -19300,6 +19300,22 @@
       "date_added": "Apr 19 2020",
       "suggested_by": "@anonrig",
       "license": "other"
+    },
+    {
+      "title": "Voice Memo",
+      "category-ids": [
+        "clone"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "mit",
+      "source": "https://github.com/HassanElDesouky/VoiceMemosClone",
+      "date_added": "Apr 20 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://github.com/HassanElDesouky/VoiceMemosClone/raw/master/cover.jpg"
+      ]
     }
   ]
 }
