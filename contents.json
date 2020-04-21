@@ -19316,6 +19316,24 @@
       "screenshots": [
         "https://github.com/HassanElDesouky/VoiceMemosClone/raw/master/cover.jpg"
       ]
+    },
+    {
+      "title": "The News",
+      "description": "News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook",
+      "category-ids": [
+        "news-api"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "mit",
+      "source": "https://github.com/dkhamsing/TheNews",
+      "screenshots": [
+        "https://github.com/dkhamsing/TheNews/raw/develop/Images/nyt.png",
+        "https://github.com/dkhamsing/TheNews/raw/develop/Images/cnn.png"
+      ],
+      "suggested_by": "@dkhamsing",
+      "date_added": "Apr 20 2020"
     }
   ]
 }
