@@ -19333,6 +19333,21 @@
       ],
       "suggested_by": "@dkhamsing",
       "date_added": "Apr 20 2020"
+    },
+    {
+      "title": "Recordings",
+      "description": "Sample code of the App Architecture book",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "other",
+      "source": "https://github.com/objcio/app-architecture",
+      "homepage": "https://www.objc.io/books/app-architecture",
+      "suggested_by": "@dkhamsing",
+      "date_added": "Apr 21 2020"
     }
   ]
 }
