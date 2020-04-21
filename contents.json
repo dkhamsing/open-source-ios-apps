@@ -3686,8 +3686,7 @@
       "source": "https://github.com/audiokit/AudioKit",
       "homepage": "https://audiokit.io/examples/AnalogSynthX/",
       "tags": [
-        "swift",
-        "swift2"
+        "swift"
       ],
       "screenshots": [
         "https://cdn-images-1.medium.com/max/800/1*hj0rxmPvapxpY1URdvw97A.png"
@@ -4309,8 +4308,7 @@
         "https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png"
       ],
       "tags": [
-        "swift",
-        "swift2"
+        "swift"
       ],
       "date_added": "Sun Jan 24 17:39:00 2016 -0700",
       "suggested_by": "@swiftcodex"
@@ -10807,7 +10805,7 @@
       "license": "mit",
       "tags": [
         "swift",
-        "swift2.2"
+        "swift3.1"
       ],
       "date_added": "Tue Jul 12 18:20:38 2016 +0200",
       "suggested_by": "@Mateusz Szklarek",
@@ -11678,8 +11676,7 @@
       "suggested_by": "@jmp9c",
       "license": "mit",
       "tags": [
-        "swift",
-        "swift3"
+        "swift"
       ],
       "stars": 23
     },
