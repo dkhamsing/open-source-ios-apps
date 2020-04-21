@@ -19348,6 +19348,27 @@
       "homepage": "https://www.objc.io/books/app-architecture",
       "suggested_by": "@dkhamsing",
       "date_added": "Apr 21 2020"
+    },
+    {
+      "title": "SwiftUI-MovieDB",
+      "category-ids": [
+        "content",
+        "swiftui"
+      ],
+      "description": "Browse movies, made with SwiftUI, Combine & MovieDB",
+      "source": "https://github.com/alfianlosari/SwiftUI-MovieDB",
+      "license": "mit",
+      "stars": 183,
+      "tags": [
+        "swift",
+        "themoviedb",
+        "ipad"
+      ],
+      "screenshots": [
+        "https://github.com/alfianlosari/SwiftUI-MovieDB/raw/master/promo.png?raw=true"
+      ],
+      "date_added": "Apr 21 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
