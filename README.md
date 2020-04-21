@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-958-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2020,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-960-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2021,%202020-lightgrey.svg)
 
 Jump to
 
@@ -600,9 +600,9 @@ Click ► to show more details
 	<a href='https://i.imgur.com/QEAE4B3.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [palette-from-image](https://github.com/chuongtrh/palette-from-image): Inspire by https://earthview.withgoogle.com  
+- [palette-from-image](https://github.com/chuongtrh/palette-from-image): Inspired by https://earthview.withgoogle.com  
   <details>
-	<summary><code>swift</code> <code>palette</code> <code>generate color</code> <code>earthview</code> </summary>
+	<summary><code>swift</code> <code>palette</code> <code>color</code> <code>earthview</code> </summary>
 
 	Added April 19, 2020<br>  License: `other`<br>
 	<a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot2.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot3.png?raw=true'><code>Screenshot 3</code></a> 
@@ -714,9 +714,9 @@ Click ► to show more details
 	<a href='https://www.iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [palette-from-image](https://github.com/chuongtrh/palette-from-image): Inspire by https://earthview.withgoogle.com  
+- [palette-from-image](https://github.com/chuongtrh/palette-from-image): Inspired by https://earthview.withgoogle.com  
   <details>
-	<summary><code>swift</code> <code>palette</code> <code>generate color</code> <code>earthview</code> </summary>
+	<summary><code>swift</code> <code>palette</code> <code>color</code> <code>earthview</code> </summary>
 
 	Added April 19, 2020<br>  License: `other`<br>
 	<a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot2.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot3.png?raw=true'><code>Screenshot 3</code></a> 
@@ -760,6 +760,14 @@ Click ► to show more details
 
 	Added August 19, 2016<br>  License: `other`<br>
 	<a href='https://i.imgur.com/mBi9Jfj.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Voice Memo](https://github.com/HassanElDesouky/VoiceMemosClone)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/HassanElDesouky/VoiceMemosClone/raw/master/cover.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [YouTube Clone](https://github.com/VamshiIITBHU14/YouTubeClone): YouTube clone using MVC  
@@ -4150,6 +4158,14 @@ https://newsapi.org/ — [back to top](#readme)
 
 	Added April 17, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cdn-images-1.medium.com/max/800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [The News](https://github.com/dkhamsing/TheNews): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/nyt.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/cnn.png'><code>Screenshot 2</code></a> 
   </details>
 
 
