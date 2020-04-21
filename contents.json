@@ -19392,6 +19392,24 @@
       "date_added": "Apr 21 2020",
       "suggested_by": "@dkhamsing",
       "stars": 214
+    },
+    {
+      "title": "erouska-ios",
+      "description": "Bluetooth contract tracing",
+      "category-ids": [
+        "health"
+      ],
+      "tags": [
+        "swift",
+        "rxswift"
+      ],
+      "screenshots": ["https://i.imgur.com/9f1ojFj.png"],
+      "lang": "ces",
+      "source": "https://github.com/covid19cz/erouska-ios",
+      "homepage": "https://erouska.cz/",
+      "license": "mit",
+      "date_added": "Apr 21 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
