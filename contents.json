@@ -3291,7 +3291,8 @@
         "location"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "description": "Finds the nearest Starbucks",
       "source": "https://github.com/christianroman/Doppio",
