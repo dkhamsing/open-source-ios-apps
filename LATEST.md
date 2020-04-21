@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Zeplin Client for Zeplin.io](https://github.com/relevantfruit/zeplin-ios)
-2. [Restaurant Viewing](https://github.com/gtokman/Restaurant-Viewing-App)
-3. [palette-from-image](https://github.com/chuongtrh/palette-from-image)
-4. [NewsAPISwift](https://github.com/lucaslimapoa/NewsAPISwift)
-5. [30 mini Swift Apps for self-study](https://github.com/soapyigu/Swift-30-Projects)
-6. [TracePrivately](https://github.com/CrunchyBagel/TracePrivately)
-7. [FakeFBWall](https://github.com/VamshiIITBHU14/FakeFBWall)
-8. [Open Event Organizer](https://github.com/fossasia/open-event-organizer-ios)
-9. [Royal News](https://github.com/msal4/royal_news)
-10. [Baby Monitor](https://github.com/netguru/baby-monitor-client-ios)
-11. [FancyNews](https://github.com/aliumujib/FancyNews)
-12. [GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI)
-13. [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI)
-14. [SwiftUITodo](https://github.com/devxoul/SwiftUITodo)
-15. [Delta: Math helper](https://github.com/GroupeMINASTE/Delta-iOS)
+1. [The News](https://github.com/dkhamsing/TheNews)
+2. [Voice Memo](https://github.com/HassanElDesouky/VoiceMemosClone)
+3. [Zeplin Client for Zeplin.io](https://github.com/relevantfruit/zeplin-ios)
+4. [Restaurant Viewing](https://github.com/gtokman/Restaurant-Viewing-App)
+5. [palette-from-image](https://github.com/chuongtrh/palette-from-image)
+6. [NewsAPISwift](https://github.com/lucaslimapoa/NewsAPISwift)
+7. [30 mini Swift Apps for self-study](https://github.com/soapyigu/Swift-30-Projects)
+8. [TracePrivately](https://github.com/CrunchyBagel/TracePrivately)
+9. [FakeFBWall](https://github.com/VamshiIITBHU14/FakeFBWall)
+10. [Open Event Organizer](https://github.com/fossasia/open-event-organizer-ios)
+11. [Royal News](https://github.com/msal4/royal_news)
+12. [Baby Monitor](https://github.com/netguru/baby-monitor-client-ios)
+13. [FancyNews](https://github.com/aliumujib/FancyNews)
+14. [GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI)
+15. [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI)
 
 ## Thanks
 
