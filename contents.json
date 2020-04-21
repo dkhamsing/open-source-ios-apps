@@ -19370,6 +19370,28 @@
       ],
       "date_added": "Apr 21 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "rakning-c19-app",
+      "description": "Helps to analyse individuals’ travel and trace their movements when cases of infection arise",
+      "category-ids": [
+        "health",
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "lang": "isl",
+      "source": "https://github.com/aranja/rakning-c19-app",
+      "itunes": "https://apps.apple.com/app/rakning-c-19/id1504655876",
+      "homepage": "https://www.covid.is/app/is",
+      "screenshots": [
+        "https://i.imgur.com/isjn4UG.png"
+      ],
+      "license": "mit",
+      "date_added": "Apr 21 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 214
     }
   ]
 }
