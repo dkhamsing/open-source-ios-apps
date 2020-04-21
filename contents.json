@@ -10944,7 +10944,7 @@
       "source": "https://github.com/ivan-magda/UpcomingMovies",
       "tags": [
         "swift",
-        "themoviedb api"
+        "themoviedb"
       ],
       "screenshots": [
         "https://github.com/ivan-magda/UpcomingMovies/raw/master/Screenshots/movies.png"
@@ -17785,6 +17785,7 @@
       "stars": 4210,
       "tags": [
         "swift",
+        "themoviedb",
         "combine",
         "ipad",
         "macos"
