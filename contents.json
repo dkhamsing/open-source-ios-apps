@@ -19410,6 +19410,24 @@
       "license": "mit",
       "date_added": "Apr 21 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Hamagen",
+      "description": "Israel's Ministry of Health's COVID-19 exposure prevention app",
+      "category-ids": [
+        "health",
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": ["https://i.imgur.com/n50E9Nh.jpg"],
+      "lang": "heb",
+      "source": "https://github.com/MohGovIL/hamagen-react-native",
+      "license": "mit",
+      "date_added": "Apr 21 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 439
     }
   ]
 }
