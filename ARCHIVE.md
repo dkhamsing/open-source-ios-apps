@@ -83,6 +83,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [DoctorNearby](https://github.com/vincezzh/doctornearby-ios)
 - [Dollar Bets](https://github.com/Rich86man/Dollar-Bets)
 - [Dono](https://github.com/opensourceios/dono-ios)
+- [Doppio](https://github.com/christianroman/Doppio)
 - [doughwallet](https://github.com/peritus/doughwallet)
 - [Dragon Shout](https://github.com/rblalock/dragon_shout_app_open_source)
 - [DrugsNRock](https://github.com/biou/DrugsNRock)
