@@ -848,9 +848,9 @@
         "archive"
       ],
       "screenshots": [
-        "http://i.imgur.com/4ja8xZF.png",
-        "http://i.imgur.com/3CYRNjL.png",
-        "http://i.imgur.com/HcRCkTB.png"
+        "https://i.imgur.com/4ja8xZF.png",
+        "https://i.imgur.com/3CYRNjL.png",
+        "https://i.imgur.com/HcRCkTB.png"
       ],
       "stars": 21,
       "license": "other",
@@ -2600,7 +2600,7 @@
       "date_added": "Wed Mar 18 11:05:17 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://i.imgur.com/1NLoToU.gif"
+        "https://i.imgur.com/1NLoToU.gif"
       ]
     },
     {
@@ -7789,8 +7789,8 @@
         "archive"
       ],
       "screenshots": [
-        "http://i.imgur.com/gVmrxDe.png",
-        "http://i.imgur.com/FYOgBYc.png"
+        "https://i.imgur.com/gVmrxDe.png",
+        "https://i.imgur.com/FYOgBYc.png"
       ],
       "source": "https://github.com/jsdf/ReactNativeHackerNews",
       "stars": 252,
@@ -13297,7 +13297,7 @@
         "c++"
       ],
       "screenshots": [
-        "http://i.imgur.com/Z0KMIaf.png"
+        "https://i.imgur.com/Z0KMIaf.png"
       ],
       "license": "mit",
       "date_added": "Feb 23 2017",
@@ -14544,7 +14544,7 @@
         "notes"
       ],
       "screenshots": [
-        "http://i.imgur.com/263faeN.png"
+        "https://i.imgur.com/263faeN.png"
       ],
       "tags": [
         "swift",
@@ -14649,8 +14649,8 @@
       ],
       "description": "GitHub project manager",
       "screenshots": [
-        "http://i.imgur.com/XwW4MI2.png",
-        "http://i.imgur.com/sFgTFJX.png"
+        "https://i.imgur.com/XwW4MI2.png",
+        "https://i.imgur.com/sFgTFJX.png"
       ],
       "tags": [
         "swift",
@@ -15417,8 +15417,8 @@
       "source": "https://github.com/SlayterDev/RadiumBrowser",
       "itunes": "https://apps.apple.com/app/radium-web-browser/id1274491203",
       "screenshots": [
-        "http://i.imgur.com/bMQuwAE.png",
-        "http://i.imgur.com/Wjro36A.png"
+        "https://i.imgur.com/bMQuwAE.png",
+        "https://i.imgur.com/Wjro36A.png"
       ],
       "date_added": "Sep 27 2017",
       "license": "other",
@@ -17066,7 +17066,7 @@
         "swift"
       ],
       "screenshots": [
-        "http://i.imgur.com/5SWRa9K.png"
+        "https://i.imgur.com/5SWRa9K.png"
       ],
       "date_added": "Sep 2 2018",
       "suggested_by": "@vpeschenkov"
@@ -17104,7 +17104,7 @@
         "archive"
       ],
       "screenshots": [
-        "http://i.imgur.com/UCWQQPOl.png"
+        "https://i.imgur.com/UCWQQPOl.png"
       ],
       "date_added": "Sep 2 2018",
       "suggested_by": "@vpeschenkov"
@@ -17830,7 +17830,7 @@
         "mapkit"
       ],
       "screenshots": [
-        "http://i.imgur.com/k8BGv5M.png"
+        "https://i.imgur.com/k8BGv5M.png"
       ],
       "date_added": "June 19 2019",
       "suggested_by": "@dkhamsing"
@@ -19214,7 +19214,7 @@
         "swift"
       ],
       "screenshots": [
-        "https://github.com/CrunchyBagel/TracePrivately/raw/master/screenshots/main-infected.png?raw=true"
+        "https://i.imgur.com/Xs48MLQ.png"
       ],
       "date_added": "Apr 17 2020",
       "suggested_by": "@dkhamsing"
@@ -19345,7 +19345,7 @@
       ],
       "license": "other",
       "source": "https://github.com/objcio/app-architecture",
-      "homepage": "https://www.objc.io/books/app-architecture",
+      "homepage": "https://www.objc.io/books/app-architecture/",
       "suggested_by": "@dkhamsing",
       "date_added": "Apr 21 2020"
     },
