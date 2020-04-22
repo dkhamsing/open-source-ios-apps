@@ -267,11 +267,6 @@
       "id": "misc"
     },
     {
-      "title": "3D Touch",
-      "id": "3d-touch",
-      "parent": "misc"
-    },
-    {
       "title": "Appcelerator",
       "id": "appcelerator",
       "parent": "misc"
@@ -6852,7 +6847,7 @@
     {
       "title": "ForceSketch",
       "category-ids": [
-        "3d-touch"
+        "misc"
       ],
       "description": "Sketching app",
       "source": "https://github.com/FlexMonkey/ForceSketch",
@@ -6870,7 +6865,7 @@
     {
       "title": "Plum-O-Meter",
       "category-ids": [
-        "3d-touch"
+        "misc"
       ],
       "description": "Weigh plums (and other small fruit!)",
       "source": "https://github.com/FlexMonkey/Plum-O-Meter",
@@ -15383,7 +15378,6 @@
         "misc"
       ],
       "tags": [
-        "3d-touch",
         "clone",
         "core-data",
         "firebase",
