@@ -19443,6 +19443,24 @@
       "license": "other",
       "date_added": "Apr 21 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Expense Tracker",
+      "category-ids": [
+        "core-data",
+        "swiftui"
+      ],
+      "source": "https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted",
+      "license": "other",
+      "tags": [
+        "swift",
+        "core-data"
+      ],
+      "screenshots": [
+        "https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted/raw/master/promo.png?raw=true"
+      ],
+      "date_added": "Apr 22 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
