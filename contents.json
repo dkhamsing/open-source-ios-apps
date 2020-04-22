@@ -288,6 +288,12 @@
       "description": "https://firebase.google.com/"
     },
     {
+      "title": "Flutter",
+      "id": "flutter",
+      "parent": "misc",
+      "description": "https://flutter.dev"
+    },
+    {
       "title": "Ionic",
       "id": "ionic",
       "parent": "misc",
@@ -13646,7 +13652,8 @@
     {
       "title": "11t",
       "category-ids": [
-        "mastodon"
+        "mastodon",
+        "flutter"
       ],
       "source": "https://github.com/jeroensmeets/mastodon-app",
       "tags": [
@@ -19430,7 +19437,8 @@
     {
       "title": "Flutter News App",
       "category-ids": [
-        "news-api"
+        "news-api",
+        "flutter"
       ],
       "screenshots": ["https://user-images.githubusercontent.com/55942632/77102533-00600c80-6a3f-11ea-8212-3735eeb35a90.png"],
       "source": "https://github.com/theindianappguy/FlutterNewsApp",
