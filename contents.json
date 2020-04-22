@@ -19461,6 +19461,23 @@
       ],
       "date_added": "Apr 22 2020",
       "suggested_by": "@dkhamsing"
+    },
+
+    {
+      "title": "CoronaVirusTrackerFlutter",
+      "category-ids": [
+        "health",
+        "flutter"
+      ],
+      "screenshots": ["https://github.com/alfianlosari/CoronaVirusTrackerFlutter/raw/master/promo.jpg?raw=true"],
+      "source": "https://github.com/alfianlosari/CoronaVirusTrackerFlutter",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "mit",
+      "date_added": "Apr 22 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
