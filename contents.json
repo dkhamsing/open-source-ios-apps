@@ -19426,6 +19426,21 @@
       "date_added": "Apr 21 2020",
       "suggested_by": "@dkhamsing",
       "stars": 439
+    },
+    {
+      "title": "Flutter News App",
+      "category-ids": [
+        "news-api"
+      ],
+      "screenshots": ["https://user-images.githubusercontent.com/55942632/77102533-00600c80-6a3f-11ea-8212-3735eeb35a90.png"],
+      "source": "https://github.com/theindianappguy/FlutterNewsApp",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "other",
+      "date_added": "Apr 21 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
