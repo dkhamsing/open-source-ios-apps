@@ -19478,6 +19478,20 @@
       "license": "mit",
       "date_added": "Apr 22 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "CleanStore",
+      "description": "Uses the Clean Swift architecture (Uncle Bob's Clean Architecture)",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "mit",
+      "source": "https://github.com/Clean-Swift/CleanStore",
+      "date_added": "Apr 21 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
