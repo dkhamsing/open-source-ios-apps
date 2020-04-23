@@ -19523,6 +19523,26 @@
       "license": "mit",
       "date_added": "Apr 23 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "COVID-19 SwiftUI Demo",
+      "description": "Data and news",
+      "category-ids": [
+        "news-api",
+        "swiftui",
+        "health"
+      ],
+      "screenshots": [
+        "https://github.com/Joker462/COVID-19_SwiftUI_Demo/raw/master/example.png"
+      ],
+      "source": "https://github.com/Joker462/COVID-19_SwiftUI_Demo",
+      "license": "other",
+      "tags": [
+        "swift",
+        "combine"
+      ],
+      "date_added": "Apr 23 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
