@@ -569,7 +569,7 @@ Click ► to show more details
 	<summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added July  5, 2017<br>  License: `other`<br>
-	<a href='http://i.imgur.com/XwW4MI2.png'><code>Screenshot 1</code></a> <a href='http://i.imgur.com/sFgTFJX.png'><code>Screenshot 2</code></a> 
+	<a href='https://i.imgur.com/XwW4MI2.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/sFgTFJX.png'><code>Screenshot 2</code></a> 
   </details>
 
 - [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub [` App Store`](https://apps.apple.com/app/tiny-github/id1461424565)  
