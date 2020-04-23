@@ -19493,6 +19493,22 @@
       "source": "https://github.com/Clean-Swift/CleanStore",
       "date_added": "Apr 21 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Gmail clone",
+      "category-ids": [
+        "flutter"
+      ],
+      "screenshots": ["https://github.com/AppleEducate/gmail_clone/raw/master/screenshots/listview.png"],
+      "source": "https://github.com/rodydavis/gmail_clone",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "mit",
+      "stars": 597,
+      "date_added": "Apr 23 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
