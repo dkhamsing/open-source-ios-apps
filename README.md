@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-966-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2022,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-969-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2023,%202020-lightgrey.svg)
 
 Jump to
 
@@ -687,7 +687,7 @@ Click ► to show more details
 	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://i.imgur.com/1NLoToU.gif'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/1NLoToU.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [graygram](https://github.com/devxoul/graygram-ios): Instagram clone  
@@ -1310,7 +1310,7 @@ Click ► to show more details
 	<summary><code>c++</code> ⭐⭐</summary>
 
 	Added February 23, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://i.imgur.com/Z0KMIaf.png'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/Z0KMIaf.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [TLDR Man Page](https://github.com/freesuraj/TLDR): Reference dictionary for computer manual commands, but in tl;dr (too long; didn't read) mode  
@@ -1394,7 +1394,7 @@ Click ► to show more details
 	<summary><code>swift</code> <code>iglistkit</code> <code>snapkit</code> <code>alamofire</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added July  5, 2017<br>  License: `other`<br>
-	<a href='http://i.imgur.com/XwW4MI2.png'><code>Screenshot 1</code></a> <a href='http://i.imgur.com/sFgTFJX.png'><code>Screenshot 2</code></a> 
+	<a href='https://i.imgur.com/XwW4MI2.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/sFgTFJX.png'><code>Screenshot 2</code></a> 
   </details>
 
 - [GitHub-Swift](https://github.com/acmacalister/Github-Swift)  
@@ -2358,7 +2358,7 @@ Click ► to show more details
 	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://i.imgur.com/1NLoToU.gif'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/1NLoToU.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [Frogatto & Friends](https://github.com/frogatto/frogatto): Action-adventure game, starring a certain quixotic frog  
@@ -2749,6 +2749,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/soroushchehresa/iran-coronavirus/master/screenshots.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [CoronaVirusTrackerFlutter](https://github.com/alfianlosari/CoronaVirusTrackerFlutter)  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> </summary>
+
+	Added April 22, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/alfianlosari/CoronaVirusTrackerFlutter/raw/master/promo.jpg?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
 - [covid19](https://github.com/dkhamsing/covid19.swift): COVID-19 health, data, news and tweets  
   <details>
 	<summary><code>swift</code> </summary>
@@ -2833,7 +2841,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	Added September  2, 2018<br>  License: `other`<br>
-	<a href='http://i.imgur.com/5SWRa9K.png'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/5SWRa9K.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [MyWeight History](https://github.com/diogot/MyWeight): Body mass tracker with easy data input & access to history [` App Store`](https://apps.apple.com/app/myweight-history/id1098061879)  
@@ -2873,7 +2881,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	Added April 17, 2020<br>  License: `other`<br>
-	<a href='https://github.com/CrunchyBagel/TracePrivately/raw/master/screenshots/main-infected.png?raw=true'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/Xs48MLQ.png'><code>Screenshot 1</code></a> 
   </details>
 
 
@@ -3059,7 +3067,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<summary><code>swift</code> <code>mapkit</code> </summary>
 
 	Added June 19, 2019<br>  License: `other`<br>
-	<a href='http://i.imgur.com/k8BGv5M.png'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/k8BGv5M.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [MAPS.ME](https://github.com/mapsme/omim): Offline maps app with navigation [` App Store`](https://apps.apple.com/app/id510623322)  
@@ -4663,6 +4671,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	Added July 10, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
+- [CleanStore](https://github.com/Clean-Swift/CleanStore): Uses the Clean Swift architecture (Uncle Bob's Clean Architecture)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C)  
   <details>
 	<summary><code>cloudkit</code> ⭐</summary>
@@ -4778,7 +4793,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details>
 	<summary><code>swift</code> </summary>
 
-	https://www.objc.io/books/app-architecture<br>  Added April 21, 2020<br>  License: `other`
+	https://www.objc.io/books/app-architecture/<br>  Added April 21, 2020<br>  License: `other`
   </details>
 
 - [Reminders](https://github.com/tiagomartinho/Reminders): An application to demonstrate how to implement a Clean Architecture  
@@ -5423,7 +5438,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>swift</code> <code>swifthexcolors</code> <code>cfalertviewcontroller</code> </summary>
 
 	Added June 20, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://i.imgur.com/263faeN.png'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/263faeN.png'><code>Screenshot 1</code></a> 
   </details>
 
 
@@ -5901,6 +5916,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://i.imgur.com/MuViFyc.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/pn2qSEg.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/yTD7r0K.png'><code>Screenshot 3</code></a> <a href='https://i.imgur.com/MxFiCpn.png'><code>Screenshot 4</code></a> 
   </details>
 
+- [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)  
+  <details>
+	<summary><code>swift</code> <code>core-data</code> </summary>
+
+	Added April 22, 2020<br>  License: `other`<br>
+	<a href='https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted/raw/master/promo.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Listr](https://github.com/etchsaleh/Listr): Wish list  
   <details>
 	<summary><code>swift</code> </summary>
@@ -6019,6 +6042,14 @@ https://flutter.dev — [back to top](#readme)
 	<summary><code>flutter</code> <code>dart</code> </summary>
 
 	Added April 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [CoronaVirusTrackerFlutter](https://github.com/alfianlosari/CoronaVirusTrackerFlutter)  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> </summary>
+
+	Added April 22, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/alfianlosari/CoronaVirusTrackerFlutter/raw/master/promo.jpg?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)  
@@ -6504,6 +6535,14 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/alfianlosari/CoronaVirusTrackerSwiftUI/master/promo.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)  
+  <details>
+	<summary><code>swift</code> <code>core-data</code> </summary>
+
+	Added April 22, 2020<br>  License: `other`<br>
+	<a href='https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted/raw/master/promo.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Fingerspelling](https://github.com/sloria/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863)  
   <details>
 	<summary><code>swift</code> <code>combine</code> </summary>
@@ -6548,7 +6587,7 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>mapkit</code> </summary>
 
 	Added June 19, 2019<br>  License: `other`<br>
-	<a href='http://i.imgur.com/k8BGv5M.png'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/k8BGv5M.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI): Browse movies, made with SwiftUI, Combine & MovieDB  
