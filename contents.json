@@ -19509,6 +19509,20 @@
       "stars": 597,
       "date_added": "Apr 23 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "calcupad",
+      "category-ids": [
+        "calculator"
+      ],
+      "source": "https://github.com/kwonye/calcupad",
+      "tags": [
+        "swift",
+        "ipad"
+      ],
+      "license": "mit",
+      "date_added": "Apr 23 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
