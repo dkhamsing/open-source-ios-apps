@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-969-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2023,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-972-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2024,%202020-lightgrey.svg)
 
 Jump to
 
@@ -26,7 +26,7 @@ Jump to
 - [Event](#event) 
 - [Extension](#extension) 
   - [Content Blocking](#content-blocking) 
-  - [Widget](#widget) 
+  - [Today](#today) 
 - [Files](#files) 
 - [Finance](#finance) 
   - [Cryptocurrency](#cryptocurrency) 
@@ -493,6 +493,13 @@ Click ► to show more details
 
 	Added March 23, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/8OKDHjU.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [calcupad](https://github.com/kwonye/calcupad)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> </summary>
+
+	Added April 23, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [Coffee Ratio](https://github.com/johnmahlon/Coffee-Ratio): Calculates grams of water needed given grams of coffee based off ratio chosen  
@@ -1900,9 +1907,9 @@ Click ► to show more details
   </details>
 
 
-### Widget 
+### Today 
  
-[back to top](#readme) 
+Today Extensions or Widgets — [back to top](#readme) 
  
 - [Bus Today](https://github.com/JohnWong/bus-today): Track bus line on your wrist, includes Today Extension [` App Store`](https://apps.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341)  
   <details>
@@ -2755,6 +2762,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	Added April 22, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/alfianlosari/CoronaVirusTrackerFlutter/raw/master/promo.jpg?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [COVID-19 SwiftUI Demo](https://github.com/Joker462/COVID-19_SwiftUI_Demo): Data and news  
+  <details>
+	<summary><code>swift</code> <code>combine</code> </summary>
+
+	Added April 23, 2020<br>  License: `other`<br>
+	<a href='https://github.com/Joker462/COVID-19_SwiftUI_Demo/raw/master/example.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [covid19](https://github.com/dkhamsing/covid19.swift): COVID-19 health, data, news and tweets  
@@ -4101,13 +4116,6 @@ https://news.ycombinator.com/ — [back to top](#readme)
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/14/98/59/149859fe-f4e3-0a12-d7fb-2d3383efdf45/mzl.ebnguksi.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [HN Now](https://github.com/nathfreder/HNNow)  
-  <details>
-	<summary><code>swift</code> <code>ipad</code> </summary>
-
-	Added April 15, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
 - [HN Reader](https://github.com/Dimillian/SwiftHN): Hacker News Reader [` App Store`](https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741)  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
@@ -4144,6 +4152,14 @@ https://news.ycombinator.com/ — [back to top](#readme)
  
 https://newsapi.org/ — [back to top](#readme) 
  
+- [COVID-19 SwiftUI Demo](https://github.com/Joker462/COVID-19_SwiftUI_Demo): Data and news  
+  <details>
+	<summary><code>swift</code> <code>combine</code> </summary>
+
+	Added April 23, 2020<br>  License: `other`<br>
+	<a href='https://github.com/Joker462/COVID-19_SwiftUI_Demo/raw/master/example.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [covid19](https://github.com/dkhamsing/covid19.swift): COVID-19 health, data, news and tweets  
   <details>
 	<summary><code>swift</code> </summary>
@@ -6060,6 +6076,14 @@ https://flutter.dev — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/55942632/77102533-00600c80-6a3f-11ea-8212-3735eeb35a90.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Gmail clone](https://github.com/rodydavis/gmail_clone)  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> ⭐⭐⭐</summary>
+
+	Added April 23, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/AppleEducate/gmail_clone/raw/master/screenshots/listview.png'><code>Screenshot 1</code></a> 
+  </details>
+
 
 ### Ionic 
  
@@ -6535,6 +6559,14 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/alfianlosari/CoronaVirusTrackerSwiftUI/master/promo.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [COVID-19 SwiftUI Demo](https://github.com/Joker462/COVID-19_SwiftUI_Demo): Data and news  
+  <details>
+	<summary><code>swift</code> <code>combine</code> </summary>
+
+	Added April 23, 2020<br>  License: `other`<br>
+	<a href='https://github.com/Joker462/COVID-19_SwiftUI_Demo/raw/master/example.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)  
   <details>
 	<summary><code>swift</code> <code>core-data</code> </summary>
@@ -6573,13 +6605,6 @@ https://realm.io/ — [back to top](#readme)
 
 	Added April  7, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://github.com/rrroyal/Harbour/blob/master/Resources/Screenshots/Light/Dashboard.png?raw=true'><code>Screenshot 1</code></a> 
-  </details>
-
-- [HN Now](https://github.com/nathfreder/HNNow)  
-  <details>
-	<summary><code>swift</code> <code>ipad</code> </summary>
-
-	Added April 15, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views): Discover and share places you love  
