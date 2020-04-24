@@ -19544,6 +19544,24 @@
       ],
       "date_added": "Apr 23 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SwiftTerm",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "VT100/Xterm Terminal emulator",
+      "source": "https://github.com/migueldeicaza/SwiftTerm",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/36863/80056069-54a05580-84f1-11ea-8597-5a227c9c64a7.png"
+      ],
+      "date_added": "Apr 24 2020",
+      "license": "mit",
+      "suggested_by": "@dkhamsing",
+      "stars": 114
     }
   ]
 }
