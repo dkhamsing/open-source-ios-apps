@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [CoronaVirusTrackerFlutter](https://github.com/alfianlosari/CoronaVirusTrackerFlutter)
-2. [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)
-3. [CleanStore](https://github.com/Clean-Swift/CleanStore)
-4. [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)
-5. [Hamagen](https://github.com/MohGovIL/hamagen-react-native)
-6. [erouska-ios](https://github.com/covid19cz/erouska-ios)
-7. [rakning-c19-app](https://github.com/aranja/rakning-c19-app)
-8. [SwiftUI-MovieDB](https://github.com/alfianlosari/SwiftUI-MovieDB)
-9. [Recordings](https://github.com/objcio/app-architecture)
-10. [The News](https://github.com/dkhamsing/TheNews)
-11. [Voice Memo](https://github.com/HassanElDesouky/VoiceMemosClone)
-12. [Zeplin](https://github.com/relevantfruit/zeplin-ios)
-13. [Restaurant Viewing](https://github.com/gtokman/Restaurant-Viewing-App)
-14. [palette-from-image](https://github.com/chuongtrh/palette-from-image)
-15. [NewsAPISwift](https://github.com/lucaslimapoa/NewsAPISwift)
+1. [COVID-19 SwiftUI Demo](https://github.com/Joker462/COVID-19_SwiftUI_Demo)
+2. [calcupad](https://github.com/kwonye/calcupad)
+3. [Gmail clone](https://github.com/rodydavis/gmail_clone)
+4. [CoronaVirusTrackerFlutter](https://github.com/alfianlosari/CoronaVirusTrackerFlutter)
+5. [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)
+6. [CleanStore](https://github.com/Clean-Swift/CleanStore)
+7. [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)
+8. [Hamagen](https://github.com/MohGovIL/hamagen-react-native)
+9. [erouska-ios](https://github.com/covid19cz/erouska-ios)
+10. [rakning-c19-app](https://github.com/aranja/rakning-c19-app)
+11. [SwiftUI-MovieDB](https://github.com/alfianlosari/SwiftUI-MovieDB)
+12. [Recordings](https://github.com/objcio/app-architecture)
+13. [The News](https://github.com/dkhamsing/TheNews)
+14. [Voice Memo](https://github.com/HassanElDesouky/VoiceMemosClone)
+15. [Zeplin](https://github.com/relevantfruit/zeplin-ios)
 
 ## Thanks
 
