@@ -73,8 +73,9 @@
       "parent": "extension"
     },
     {
-      "title": "Widget",
-      "id": "widget",
+      "title": "Today",
+      "id": "today",
+      "description": "Today Extensions or Widgets",
       "parent": "extension"
     },
     {
@@ -541,7 +542,7 @@
       "title": "Bus Today",
       "category-ids": [
         "apple-watch",
-        "widget"
+        "today"
       ],
       "tags": [
         "objc"
@@ -839,7 +840,7 @@
       "title": "Impulse",
       "category-ids": [
         "apple-watch",
-        "widget"
+        "today"
       ],
       "description": "Real-time age ticker",
       "source": "https://github.com/Jasdev/Impulse",
@@ -2234,7 +2235,7 @@
       "title": "TodayStocks",
       "category-ids": [
         "finance",
-        "widget"
+        "today"
       ],
       "tags": [
         "objc",
@@ -6708,7 +6709,7 @@
     {
       "title": "VPN On",
       "category-ids": [
-        "widget",
+        "today",
         "security"
       ],
       "description": "Extension to turn on VPN",
@@ -6999,7 +7000,7 @@
       "title": "SwiftNote",
       "category-ids": [
         "notes",
-        "widget"
+        "today"
       ],
       "description": "Simple note taking with Today Extension & iCloud sync",
       "license": "mit",
@@ -7034,7 +7035,7 @@
       "title": "Fojusi",
       "category-ids": [
         "timer",
-        "widget"
+        "today"
       ],
       "description": "Work timer with Today Extension",
       "source": "https://github.com/dasdom/Tomate",
@@ -10110,7 +10111,7 @@
     {
       "title": "OpenIt",
       "category-ids": [
-        "widget"
+        "today"
       ],
       "screenshots": [
         "https://github.com/BalestraPatrick/OpenIt/raw/master/OpenItDemo.gif"
@@ -11866,7 +11867,7 @@
       "itunes": "https://apps.apple.com/app/contributions-for-github/id1153432612",
       "category-ids": [
         "github",
-        "widget"
+        "today"
       ],
       "tags": [
         "objc"
@@ -12203,7 +12204,7 @@
         "https://github.com/cyanzhong/LunarCore/raw/master/iOS.png"
       ],
       "category-ids": [
-        "widget",
+        "today",
         "calendar"
       ],
       "tags": [
@@ -13352,7 +13353,7 @@
       "title": "TodayMind",
       "description": "Manage Reminders directly in a Today Extension",
       "category-ids": [
-        "widget"
+        "today"
       ],
       "source": "https://github.com/cyanzhong/TodayMind",
       "itunes": "https://apps.apple.com/app/id1207158665",
