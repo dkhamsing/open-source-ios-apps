@@ -26,7 +26,7 @@ Jump to
 - [Event](#event) 
 - [Extension](#extension) 
   - [Content Blocking](#content-blocking) 
-  - [Widget](#widget) 
+  - [Today](#today) 
 - [Files](#files) 
 - [Finance](#finance) 
   - [Cryptocurrency](#cryptocurrency) 
@@ -781,9 +781,9 @@ Click ► to show more details
   </details>
 
 
-### Widget 
+### Today 
  
-[back to top](#readme) 
+Today Extensions or Widgets — [back to top](#readme) 
  
 - [Bus Today](https://github.com/JohnWong/bus-today): Track bus line on your wrist, includes Today Extension [` App Store`](https://apps.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341)  
   <details>
