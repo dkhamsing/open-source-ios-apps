@@ -19562,6 +19562,22 @@
       "license": "mit",
       "suggested_by": "@dkhamsing",
       "stars": 114
+    },
+    {
+      "title": "ARKit Example",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift",
+        "arkit"
+      ],
+      "description": "Placing objects",
+      "source": "https://github.com/gao0122/ARKit-Example-by-Apple",
+      "date_added": "Apr 24 2020",
+      "license": "other",
+      "suggested_by": "@dkhamsing",
+      "stars": 262
     }
   ]
 }
