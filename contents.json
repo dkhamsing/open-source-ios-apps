@@ -19578,6 +19578,29 @@
       "license": "other",
       "suggested_by": "@dkhamsing",
       "stars": 262
+    },
+    {
+      "title": "Stopp Corona",
+      "category-ids": [
+        "health"
+      ],
+      "lang": "deu",
+      "description": "Keep track of encounters with friends, family or co-workers and save them anonymously",
+      "license": "apache-2.0",
+      "source": "https://github.com/austrianredcross/stopp-corona-ios",
+      "itunes": "https://apps.apple.com/at/app/apple-store/id1503717224",
+      "screenshots": ["https://i.imgur.com/K0JV32C.png"],
+      "tags": [
+        "swift",
+        "swiftlint",
+        "moya",
+        "swiftybeaver",
+        "firebase",
+        "sqlite",
+        "lottie"
+      ],
+      "date_added": "Apr 25 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
