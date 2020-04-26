@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **241** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **242** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1194,6 +1194,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	https://www.covid.is/app/is<br>  Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/isjn4UG.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Stopp Corona](https://github.com/austrianredcross/stopp-corona-ios): Keep track of encounters with friends, family or co-workers and save them anonymously [` App Store`](https://apps.apple.com/at/app/apple-store/id1503717224)  
+  <details>
+	<summary><code>swift</code> <code>swiftlint</code> <code>moya</code> <code>swiftybeaver</code> <code>firebase</code> <code>sqlite</code> <code>lottie</code> 🌐 </summary>
+
+	Added April 25, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://i.imgur.com/K0JV32C.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Suicide Safety Plan](https://github.com/suicidesafetyplan/safetyplan-ios): Suicide prevention [` App Store`](https://apps.apple.com/app/id1003891579)  
