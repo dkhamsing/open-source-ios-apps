@@ -19616,6 +19616,21 @@
       "source": "https://github.com/latifatcii/DailyNews",
       "suggested_by": "@dkhamsing",
       "date_added": "Apr 26 2020"
+    },
+    {
+      "title": "iOSDCRC",
+      "description": "iOSDC Reject Conference",
+      "category-ids": [
+        "event"
+      ],
+      "tags": [
+        "swift",
+        "twitter"
+      ],
+      "source": "https://github.com/fromkk/iOSDCRC",
+      "license": "other",
+      "date_added": "Apr 26 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
