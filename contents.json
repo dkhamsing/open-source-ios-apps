@@ -19601,6 +19601,21 @@
       ],
       "date_added": "Apr 25 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "DailyNews",
+      "description": "Written with %100 programmatically UI",
+      "category-ids": [
+        "news-api"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": ["https://github.com/latifatcii/DailyNews/raw/master/DailyNewsScreenShots/dailyNewsScreenshot.png"],
+      "license": "mit",
+      "source": "https://github.com/latifatcii/DailyNews",
+      "suggested_by": "@dkhamsing",
+      "date_added": "Apr 26 2020"
     }
   ]
 }
