@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-975-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2026,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-977-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2027,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1751,6 +1751,13 @@ Click ► to show more details
 
 	Added April 14, 2016<br>  License: `other`<br>
 	<a href='https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [iOSDCRC](https://github.com/fromkk/iOSDCRC): iOSDC Reject Conference  
+  <details>
+	<summary><code>swift</code> <code>twitter</code> </summary>
+
+	Added April 26, 2020<br>  License: `other`
   </details>
 
 - [MeetupOrganizer](https://github.com/ayunav/MeetupOrganizer): Extends the Meetup app's functionality  
@@ -4192,6 +4199,14 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/paulsumit1993/DailyFeed/master/assets/iphone_dailyfeed.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [DailyNews](https://github.com/latifatcii/DailyNews): Written with %100 programmatically UI  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/latifatcii/DailyNews/raw/master/DailyNewsScreenShots/dailyNewsScreenshot.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [FancyNews](https://github.com/aliumujib/FancyNews)  
   <details>
 	<summary><code>swift</code> <code>kingfisher</code> <code>alamofire</code> </summary>
@@ -5271,7 +5286,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 https://joinmastodon.org — [back to top](#readme) 
  
-- [11t](https://github.com/jeroensmeets/mastodon-app)  
+- [11t](https://github.com/jeroensmeets/11t)  
   <details>
 	<summary><code>flutter</code> <code>dart</code> </summary>
 
@@ -6076,7 +6091,7 @@ https://firebase.google.com/ — [back to top](#readme)
  
 https://flutter.dev — [back to top](#readme) 
  
-- [11t](https://github.com/jeroensmeets/mastodon-app)  
+- [11t](https://github.com/jeroensmeets/11t)  
   <details>
 	<summary><code>flutter</code> <code>dart</code> </summary>
 
