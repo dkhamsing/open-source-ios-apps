@@ -19637,6 +19637,24 @@
       "license": "other",
       "date_added": "Apr 26 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "TimeLines",
+      "category-ids": [
+        "today"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Know when all your friends, colleagues and family are",
+      "source": "https://github.com/mathieudutour/TimeLines",
+      "homepage": "https://time-lines.app",
+      "license": "other",
+      "date_added": "Apr 27 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://i.imgur.com/haSaUiS.png"
+      ]
     }
   ]
 }
