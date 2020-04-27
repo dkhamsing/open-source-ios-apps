@@ -19379,7 +19379,7 @@
     },
     {
       "title": "rakning-c19-app",
-      "description": "Helps to analyse individuals’ travel and trace their movements when cases of infection arise",
+      "description": "By the Icelandic Government, help analyse individuals’ travel and trace their movements when cases of infection arise",
       "category-ids": [
         "contact-tracing",
         "react-native"
@@ -19401,7 +19401,7 @@
     },
     {
       "title": "erouska-ios",
-      "description": "Bluetooth contract tracing",
+      "description": "By the Ministry of Health of the Czech Republic",
       "category-ids": [
         "contact-tracing"
       ],
@@ -19591,7 +19591,7 @@
         "contact-tracing"
       ],
       "lang": "deu",
-      "description": "Keep track of encounters with friends, family or co-workers and save them anonymously",
+      "description": "By the Austrian Red Cross, keep track of encounters with friends, family or co-workers and save them anonymously",
       "license": "apache-2.0",
       "source": "https://github.com/austrianredcross/stopp-corona-ios",
       "itunes": "https://apps.apple.com/at/app/apple-store/id1503717224",
