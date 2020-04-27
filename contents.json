@@ -112,6 +112,11 @@
       "id": "health"
     },
     {
+      "id": "contact-tracing",
+      "title": "Contract Tracing",
+      "parent": "health"
+    },
+    {
       "id": "fitness",
       "title": "Fitness",
       "parent": "health"
@@ -19207,7 +19212,7 @@
     {
       "title": "TracePrivately",
       "category-ids": [
-        "health"
+        "contact-tracing"
       ],
       "description": "Uses Apple's Contact Tracing framework",
       "license": "other",
@@ -19376,7 +19381,7 @@
       "title": "rakning-c19-app",
       "description": "Helps to analyse individuals’ travel and trace their movements when cases of infection arise",
       "category-ids": [
-        "health",
+        "contact-tracing",
         "react-native"
       ],
       "tags": [
@@ -19398,11 +19403,12 @@
       "title": "erouska-ios",
       "description": "Bluetooth contract tracing",
       "category-ids": [
-        "health"
+        "contact-tracing"
       ],
       "tags": [
         "swift",
-        "rxswift"
+        "rxswift",
+        "bluetooth"
       ],
       "screenshots": ["https://i.imgur.com/9f1ojFj.png"],
       "lang": "ces",
@@ -19416,7 +19422,7 @@
       "title": "Hamagen",
       "description": "Israel's Ministry of Health's COVID-19 exposure prevention app",
       "category-ids": [
-        "health",
+        "contact-tracing",
         "react-native"
       ],
       "tags": [
@@ -19582,7 +19588,7 @@
     {
       "title": "Stopp Corona",
       "category-ids": [
-        "health"
+        "contact-tracing"
       ],
       "lang": "deu",
       "description": "Keep track of encounters with friends, family or co-workers and save them anonymously",
