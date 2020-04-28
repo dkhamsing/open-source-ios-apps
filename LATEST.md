@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [iOSDCRC](https://github.com/fromkk/iOSDCRC)
-2. [DailyNews](https://github.com/latifatcii/DailyNews)
-3. [Stopp Corona](https://github.com/austrianredcross/stopp-corona-ios)
-4. [ARKit Example](https://github.com/gao0122/ARKit-Example-by-Apple)
-5. [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
-6. [COVID-19 SwiftUI Demo](https://github.com/Joker462/COVID-19_SwiftUI_Demo)
-7. [calcupad](https://github.com/kwonye/calcupad)
-8. [Gmail clone](https://github.com/rodydavis/gmail_clone)
-9. [CoronaVirusTrackerFlutter](https://github.com/alfianlosari/CoronaVirusTrackerFlutter)
-10. [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)
-11. [CleanStore](https://github.com/Clean-Swift/CleanStore)
-12. [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)
-13. [Hamagen](https://github.com/MohGovIL/hamagen-react-native)
-14. [erouska-ios](https://github.com/covid19cz/erouska-ios)
-15. [rakning-c19-app](https://github.com/aranja/rakning-c19-app)
+1. [Emission](https://github.com/e-mission/e-mission-phone)
+2. [TimeLines](https://github.com/mathieudutour/TimeLines)
+3. [iOSDCRC](https://github.com/fromkk/iOSDCRC)
+4. [DailyNews](https://github.com/latifatcii/DailyNews)
+5. [Stopp Corona](https://github.com/austrianredcross/stopp-corona-ios)
+6. [ARKit Example](https://github.com/gao0122/ARKit-Example-by-Apple)
+7. [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
+8. [COVID-19 SwiftUI Demo](https://github.com/Joker462/COVID-19_SwiftUI_Demo)
+9. [calcupad](https://github.com/kwonye/calcupad)
+10. [Gmail clone](https://github.com/rodydavis/gmail_clone)
+11. [CoronaVirusTrackerFlutter](https://github.com/alfianlosari/CoronaVirusTrackerFlutter)
+12. [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)
+13. [CleanStore](https://github.com/Clean-Swift/CleanStore)
+14. [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)
+15. [Hamagen](https://github.com/MohGovIL/hamagen-react-native)
 
 ## Thanks
 
