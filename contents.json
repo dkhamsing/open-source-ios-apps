@@ -19675,6 +19675,28 @@
       "screenshots": [
         "https://e-mission.eecs.berkeley.edu/img/personal/common_trips.png"
       ]
+    },
+    {
+      "title": "a-shell",
+      "description": "Terminal with multiple windows",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "vim script",
+        "c++",
+        "c"
+      ],
+      "license": "bsd-3-clause",
+      "description": "Mobile shell terminal based on Mosh",
+      "source": "https://github.com/holzschu/a-shell",
+      "itunes": "https://apps.apple.com/app/a-shell/id1473805438",
+      "screenshots": [
+        "https://holzschu.github.io/a-Shell_iOS/assets/screenshot/nslookup.png"
+      ],
+      "date_added": "Apr 28 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 280
     }
   ]
 }
