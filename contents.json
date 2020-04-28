@@ -19655,6 +19655,26 @@
       "screenshots": [
         "https://i.imgur.com/haSaUiS.png"
       ]
+    },
+    {
+      "title": "Emission",
+      "category-ids": [
+        "location"
+      ],
+      "tags": [
+        "javascript",
+        "phonegap"
+      ],
+      "description": "Track your travel modes and your travel carbon footprint, and compare them against other users",
+      "source": "https://github.com/e-mission/e-mission-phone",
+      "homepage": "https://e-mission.eecs.berkeley.edu/#/home",
+      "itunes": "https://apps.apple.com/app/emission/id1084198445",
+      "license": "bsd-3-clause",
+      "date_added": "Apr 27 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://e-mission.eecs.berkeley.edu/img/personal/common_trips.png"
+      ]
     }
   ]
 }
