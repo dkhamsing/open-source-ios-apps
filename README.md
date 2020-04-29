@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-979-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2028,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-980-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2029,%202020-lightgrey.svg)
 
 Jump to
 
@@ -34,7 +34,7 @@ Jump to
   - [Cocos2d](#cocos2d) 
   - [SpriteKit](#spritekit) 
 - [Health](#health) 
-  - [Contract Tracing](#contact-tracing) 
+  - [Contact Tracing](#contact-tracing) 
   - [Fitness](#fitness) 
   - [ResearchKit](#researchkit) 
 - [Home](#home) 
@@ -153,6 +153,14 @@ Click ► to show more details
 
 	Added May 31, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://github.com/omichde/Telemat-tvOS/raw/master/telemat.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [The News](https://github.com/dkhamsing/TheNews): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [UitzendingGemist by 4np](https://github.com/4np/UitzendingGemist): Uitgebreide UitzendingGemist app voor Nederland  
@@ -1043,6 +1051,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- [a-shell](https://github.com/holzschu/a-shell): Mobile shell terminal based on Mosh [` App Store`](https://apps.apple.com/app/a-shell/id1473805438)  
+  <details>
+	<summary><code>vim script</code> <code>c++</code> <code>c</code> ⭐⭐</summary>
+
+	Added April 28, 2020<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
+	<a href='https://holzschu.github.io/a-Shell_iOS/assets/screenshot/nslookup.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [AppLove](https://github.com/snowpunch/AppLove): View app reviews for all territories (countries)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -2892,7 +2908,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   </details>
 
 
-### Contract Tracing 
+### Contact Tracing 
  
 [back to top](#readme) 
  
@@ -3068,7 +3084,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 - [Emission](https://github.com/e-mission/e-mission-phone): Track your travel modes and your travel carbon footprint, and compare them against other users [` App Store`](https://apps.apple.com/app/emission/id1084198445)  
   <details>
-	<summary><code>javascript</code> <code>phonegap</code> </summary>
+	<summary><code>javascript</code> <code>phonegap</code> <code>cordova</code> <code>ionic</code> </summary>
 
 	https://e-mission.eecs.berkeley.edu/#/home<br>  Added April 27, 2020<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
 	<a href='https://e-mission.eecs.berkeley.edu/img/personal/common_trips.png'><code>Screenshot 1</code></a> 
@@ -4274,7 +4290,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	Added April 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/nyt.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/cnn.png'><code>Screenshot 2</code></a> 
+	<a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
   </details>
 
 
