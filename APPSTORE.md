@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **243** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **244** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -34,7 +34,7 @@ Jump to
   - [Cocos2d](#cocos2d) 
   - [SpriteKit](#spritekit) 
 - [Health](#health) 
-  - [Contract Tracing](#contact-tracing) 
+  - [Contact Tracing](#contact-tracing) 
   - [Fitness](#fitness) 
   - [ResearchKit](#researchkit) 
 - [Home](#home) 
@@ -424,6 +424,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- [a-shell](https://github.com/holzschu/a-shell): Mobile shell terminal based on Mosh [` App Store`](https://apps.apple.com/app/a-shell/id1473805438)  
+  <details>
+	<summary><code>vim script</code> <code>c++</code> <code>c</code> ⭐⭐</summary>
+
+	Added April 28, 2020<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
+	<a href='https://holzschu.github.io/a-Shell_iOS/assets/screenshot/nslookup.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Blink](https://github.com/blinksh/blink): Mobile shell terminal based on Mosh [` App Store`](https://apps.apple.com/app/id1156707581)  
   <details>
 	<summary><code>objc</code> <code>uickeychainstore</code> <code>passcodelock</code> ⭐⭐⭐⭐⭐</summary>
@@ -1198,7 +1206,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   </details>
 
 
-### Contract Tracing 
+### Contact Tracing 
  
 [back to top](#readme) 
  
@@ -1288,7 +1296,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 - [Emission](https://github.com/e-mission/e-mission-phone): Track your travel modes and your travel carbon footprint, and compare them against other users [` App Store`](https://apps.apple.com/app/emission/id1084198445)  
   <details>
-	<summary><code>javascript</code> <code>phonegap</code> </summary>
+	<summary><code>javascript</code> <code>phonegap</code> <code>cordova</code> <code>ionic</code> </summary>
 
 	https://e-mission.eecs.berkeley.edu/#/home<br>  Added April 27, 2020<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
 	<a href='https://e-mission.eecs.berkeley.edu/img/personal/common_trips.png'><code>Screenshot 1</code></a> 
