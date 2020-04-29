@@ -17802,6 +17802,25 @@
       "suggested_by": "@dkhamsing"
     },
     {
+      "title": "SwiftUIRedux",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Comprehensive Redux library for SwiftUI, ensures State consistency across Stores with type-safe pub/sub pattern.",
+      "source": "https://github.com/geekaurora/SwiftUIRedux",
+      "license": "mit",
+      "stars": 8,
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://github.com/geekaurora/SwiftUIRedux/blob/master/Docs/Redux.jpeg"
+      ],
+      "date_added": "April 29, 2020",
+      "suggested_by": "@geekaurora"
+    },
+    {
       "title": "TicTacToe Ultimatum",
       "category-ids": [
         "game"
