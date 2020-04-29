@@ -19327,7 +19327,8 @@
       "title": "The News",
       "description": "News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook",
       "category-ids": [
-        "news-api"
+        "news-api",
+        "apple-tv"
       ],
       "tags": [
         "swift"
@@ -19335,8 +19336,9 @@
       "license": "mit",
       "source": "https://github.com/dkhamsing/TheNews",
       "screenshots": [
-        "https://github.com/dkhamsing/TheNews/raw/develop/Images/nyt.png",
-        "https://github.com/dkhamsing/TheNews/raw/develop/Images/cnn.png"
+        "https://github.com/dkhamsing/TheNews/raw/develop/Images/tvos.png",
+        "https://github.com/dkhamsing/TheNews/raw/develop/Images/facebook.png",
+        "https://github.com/dkhamsing/TheNews/raw/develop/Images/washingtonpost.png"
       ],
       "suggested_by": "@dkhamsing",
       "date_added": "Apr 20 2020"
@@ -19663,7 +19665,9 @@
       ],
       "tags": [
         "javascript",
-        "phonegap"
+        "phonegap",
+        "cordova",
+        "ionic"
       ],
       "description": "Track your travel modes and your travel carbon footprint, and compare them against other users",
       "source": "https://github.com/e-mission/e-mission-phone",
