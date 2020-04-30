@@ -19214,7 +19214,7 @@
       "category-ids": [
         "contact-tracing"
       ],
-      "description": "Uses Apple's Contact Tracing framework",
+      "description": "Uses Apple's Privacy-Preserving Contact Tracing framework (Exposure Notification system)",
       "license": "other",
       "source": "https://github.com/CrunchyBagel/TracePrivately",
       "tags": [
