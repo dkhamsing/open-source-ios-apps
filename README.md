@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-980-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2029,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-980-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2030,%202020-lightgrey.svg)
 
 Jump to
 
@@ -123,6 +123,14 @@ Click ► to show more details
 	<a href='https://polydice.com/iCook-tvOS/images/Screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [NewsApi.swift](https://github.com/dkhamsing/NewsApi.swift): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes a tvOS app  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/dkhamsing/NewsApi.swift/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/NewsApi.swift/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/NewsApi.swift/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
+  </details>
+
 - [Provenance](https://github.com/Provenance-Emu/Provenance): Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more  
   <details>
 	<summary><code>realm</code> ⭐⭐⭐⭐⭐</summary>
@@ -153,14 +161,6 @@ Click ► to show more details
 
 	Added May 31, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://github.com/omichde/Telemat-tvOS/raw/master/telemat.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
-- [The News](https://github.com/dkhamsing/TheNews): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added April 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [UitzendingGemist by 4np](https://github.com/4np/UitzendingGemist): Uitgebreide UitzendingGemist app voor Nederland  
@@ -2944,7 +2944,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://i.imgur.com/K0JV32C.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [TracePrivately](https://github.com/CrunchyBagel/TracePrivately): Uses Apple's Contact Tracing framework  
+- [TracePrivately](https://github.com/CrunchyBagel/TracePrivately): Uses Apple's Privacy-Preserving Contact Tracing framework (Exposure Notification system)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -4269,6 +4269,14 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/vanyaland/News/master/res/sources.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/vanyaland/News/master/res/articles.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/vanyaland/News/master/res/article.png'><code>Screenshot 3</code></a> 
   </details>
 
+- [NewsApi.swift](https://github.com/dkhamsing/NewsApi.swift): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes a tvOS app  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/dkhamsing/NewsApi.swift/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/NewsApi.swift/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/NewsApi.swift/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
+  </details>
+
 - [NewsAPISwift](https://github.com/lucaslimapoa/NewsAPISwift)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -4283,14 +4291,6 @@ https://newsapi.org/ — [back to top](#readme)
 
 	Added April 17, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cdn-images-1.medium.com/max/800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg'><code>Screenshot 1</code></a> 
-  </details>
-
-- [The News](https://github.com/dkhamsing/TheNews): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added April 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/TheNews/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
   </details>
 
 
