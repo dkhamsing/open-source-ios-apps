@@ -19701,6 +19701,27 @@
       "date_added": "Apr 28 2020",
       "suggested_by": "@dkhamsing",
       "stars": 280
+    },
+    {
+      "title": "CZInstagram",
+      "category-ids": [
+        "clone"
+      ],
+      "description": "Instagram written in a way that eliminates Massive View Controller in unidirectional event/state flow manner",
+      "source": "https://github.com/geekaurora/CZInstagram",
+      "tags": [
+        "swift",
+        "mvvm",
+        "flux",
+        "sdwebimage",
+        "easymapping"
+      ],
+      "screenshots": [
+        "https://github.com/geekaurora/CZInstagram/raw/master/Docs/CZInstagram.gif"
+      ],
+      "license": "mit",
+      "date_added": "Apr 30 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
