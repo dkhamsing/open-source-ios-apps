@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-980-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-April%2030,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-982-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%201,%202020-lightgrey.svg)
 
 Jump to
 
@@ -680,6 +680,14 @@ Click ► to show more details
 
 	Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/3pZRJ82.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [CZInstagram](https://github.com/geekaurora/CZInstagram): Instagram written in a way that eliminates Massive View Controller in unidirectional event/state flow manner  
+  <details>
+	<summary><code>swift</code> <code>mvvm</code> <code>flux</code> <code>sdwebimage</code> <code>easymapping</code> </summary>
+
+	Added April 30, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/geekaurora/CZInstagram/raw/master/Docs/CZInstagram.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [Finance](https://github.com/7kfpun/FinanceReactNative): The system Stocks app written in React Native  
@@ -4285,6 +4293,14 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://i.imgur.com/1vy5Xd7.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)  
+  <details>
+	<summary><code>swift</code> <code>combine</code> </summary>
+
+	Added April 30, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Royal News](https://github.com/msal4/royal_news)  
   <details>
 	<summary><code>react-native</code> </summary>
@@ -5667,6 +5683,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://i.imgur.com/Fba7ppE.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/fgPbJVx.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/MdQJiLj.png'><code>Screenshot 3</code></a> 
   </details>
 
+- [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)  
+  <details>
+	<summary><code>swift</code> <code>combine</code> </summary>
+
+	Added April 30, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example)  
   <details>
 	<summary><code>swift</code> <code>typhoon</code> ⭐⭐</summary>
@@ -6697,6 +6721,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June 13, 2019<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)  
+  <details>
+	<summary><code>swift</code> <code>combine</code> </summary>
+
+	Added April 30, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [OSRSUI](https://github.com/Dimillian/OSRSUI): Old School Runescape database browser  
