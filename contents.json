@@ -19722,6 +19722,26 @@
       "license": "mit",
       "date_added": "Apr 30 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "NewsApp-With-SwiftUI-And-Combine",
+      "category-ids": [
+        "news-api",
+        "swiftui",
+        "weather"
+      ],
+      "tags": [
+        "swift",
+        "combine"
+      ],
+      "license": "mit",
+      "source": "https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine",
+      "screenshots": [
+        "https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png"
+      ],
+      "suggested_by": "@dkhamsing",
+      "date_added": "Apr 30 2020",
+      "stars": 95
     }
   ]
 }
