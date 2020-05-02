@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-982-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%201,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-982-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%202,%202020-lightgrey.svg)
 
 Jump to
 
@@ -385,7 +385,7 @@ Click ► to show more details
 
 - [TermiWatch](https://github.com/kuglee/TermiWatch): A terminal face for Apple Watch  
   <details>
-	<summary><code>swift</code> ⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐</summary>
 
 	Added April  8, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/kuglee/TermiWatch/master/Screenshots/44mm.png'><code>Screenshot 1</code></a> 
@@ -756,7 +756,7 @@ Click ► to show more details
 
 - [Podcasts](https://github.com/Karambirov/Podcasts): A clone of Apple's Podcasts  
   <details>
-	<summary><code>swift</code> <code>rxswift</code> </summary>
+	<summary><code>swift</code> <code>rxswift</code> ⭐</summary>
 
 	Added April  7, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'><code>Screenshot 4</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'><code>Screenshot 5</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'><code>Screenshot 6</code></a> 
@@ -912,7 +912,7 @@ Click ► to show more details
 
 - [mChat](https://github.com/realpaliy/mChat): Real-time messaging app using firebase  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐⭐</summary>
 
 	Added April  2, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://imgur.com/uvinWB9'><code>Screenshot 1</code></a> 
@@ -1155,7 +1155,7 @@ Click ► to show more details
 
 - [Evolution](https://github.com/Evolution-App/iOS): An unofficial app for Swift Evolution [` App Store`](https://apps.apple.com/app/evolution-app/id1210898168)  
   <details>
-	<summary><code>swift</code> <code>swift-evolution</code> ⭐</summary>
+	<summary><code>swift</code> <code>swift-evolution</code> ⭐⭐</summary>
 
 	Added April 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/91/90/1d919067-8c46-3f04-f710-ecfed6494539/pr_source.png/900x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/84/cc/ee84cc99-5ff3-5c1c-4408-60c8f24f754d/pr_source.png/900x0w.png'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/28/86/e9/2886e929-b5a9-09ed-47e7-0ed45806f463/pr_source.png/900x0w.png'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/7a/2a/68/7a2a68f4-5575-5d70-be87-d4df54ebb12f/pr_source.png/900x0w.png'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/e6/ed/ec/e6edecdb-78ce-6cfe-4fde-470c7cee306a/pr_source.png/900x0w.png'><code>Screenshot 5</code></a> 
@@ -1423,7 +1423,7 @@ Click ► to show more details
 
 - [Evolution](https://github.com/Evolution-App/iOS): An unofficial app for Swift Evolution [` App Store`](https://apps.apple.com/app/evolution-app/id1210898168)  
   <details>
-	<summary><code>swift</code> <code>swift-evolution</code> ⭐</summary>
+	<summary><code>swift</code> <code>swift-evolution</code> ⭐⭐</summary>
 
 	Added April 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/91/90/1d919067-8c46-3f04-f710-ecfed6494539/pr_source.png/900x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/84/cc/ee84cc99-5ff3-5c1c-4408-60c8f24f754d/pr_source.png/900x0w.png'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/28/86/e9/2886e929-b5a9-09ed-47e7-0ed45806f463/pr_source.png/900x0w.png'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/7a/2a/68/7a2a68f4-5575-5d70-be87-d4df54ebb12f/pr_source.png/900x0w.png'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/e6/ed/ec/e6edecdb-78ce-6cfe-4fde-470c7cee306a/pr_source.png/900x0w.png'><code>Screenshot 5</code></a> 
@@ -2774,7 +2774,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker): Coronavirus tracker with maps & charts, includes macOS  
   <details>
-	<summary><code>swift</code> ⭐⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
 	https://coronatracker.samabox.com/<br>  Added March 20, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://user-images.githubusercontent.com/121827/76356430-fe06ff80-6326-11ea-8107-60f900a73016.png'><code>Screenshot 1</code></a> 
@@ -2946,7 +2946,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [Stopp Corona](https://github.com/austrianredcross/stopp-corona-ios): By the Austrian Red Cross, keep track of encounters with friends, family or co-workers and save them anonymously [` App Store`](https://apps.apple.com/at/app/apple-store/id1503717224)  
   <details>
-	<summary><code>swift</code> <code>swiftlint</code> <code>moya</code> <code>swiftybeaver</code> <code>firebase</code> <code>sqlite</code> <code>lottie</code> 🌐 </summary>
+	<summary><code>swift</code> <code>swiftlint</code> <code>moya</code> <code>swiftybeaver</code> <code>firebase</code> <code>sqlite</code> <code>lottie</code> 🌐 ⭐</summary>
 
 	Added April 25, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://i.imgur.com/K0JV32C.png'><code>Screenshot 1</code></a> 
@@ -2954,7 +2954,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [TracePrivately](https://github.com/CrunchyBagel/TracePrivately): Uses Apple's Privacy-Preserving Contact Tracing framework (Exposure Notification system)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐⭐</summary>
 
 	Added April 17, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/Xs48MLQ.png'><code>Screenshot 1</code></a> 
@@ -3521,7 +3521,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [Podcasts](https://github.com/Karambirov/Podcasts): A clone of Apple's Podcasts  
   <details>
-	<summary><code>swift</code> <code>rxswift</code> </summary>
+	<summary><code>swift</code> <code>rxswift</code> ⭐</summary>
 
 	Added April  7, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'><code>Screenshot 4</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'><code>Screenshot 5</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'><code>Screenshot 6</code></a> 
@@ -4269,6 +4269,14 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/55942632/77102533-00600c80-6a3f-11ea-8212-3735eeb35a90.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [live-news-viper](https://github.com/smalam119/live-news-viper): News app using VIPER  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added August 22, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://i.imgur.com/COrDl6n.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [News](https://github.com/ivan-magda/News): Discover & read news on a range of news sources/blogs  
   <details>
 	<summary><code>objc</code> </summary>
@@ -4298,7 +4306,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<summary><code>swift</code> <code>combine</code> </summary>
 
 	Added April 30, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png '><code>Screenshot 1</code></a> 
   </details>
 
 - [Royal News](https://github.com/msal4/royal_news)  
@@ -4489,7 +4497,7 @@ https://newsapi.org/ — [back to top](#readme)
 
 - [Wikipedia](https://github.com/wikimedia/wikipedia-ios): Official Wikipedia app [` App Store`](https://apps.apple.com/app/wikipedia-mobile/id324715238)  
   <details>
-	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ce/66/0c/ce660cad-9495-8b63-bb6d-c75622b75333/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/80/07/4a800728-ff89-81ad-eaad-5f7ce92d8a4c/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e4/96/48/e49648cf-eb1f-89ac-376e-ca83e43a51e9/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/d5/37/2a/d5372ad3-37b4-e9dd-2506-c5b49e374df1/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/3b/61/e4/3b61e4cc-e063-519b-82de-cafa39650512/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/19/c2/3e/19c23e96-1498-893f-7112-672201f2610e/pr_source.png/460x0w.jpg'><code>Screenshot 6</code></a> 
@@ -4661,7 +4669,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [Podcasts](https://github.com/Karambirov/Podcasts): A clone of Apple's Podcasts  
   <details>
-	<summary><code>swift</code> <code>rxswift</code> </summary>
+	<summary><code>swift</code> <code>rxswift</code> ⭐</summary>
 
 	Added April  7, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'><code>Screenshot 4</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'><code>Screenshot 5</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'><code>Screenshot 6</code></a> 
@@ -4730,7 +4738,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [30 mini Swift Apps for self-study](https://github.com/soapyigu/Swift-30-Projects)  
   <details>
-	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added April 18, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -4781,7 +4789,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [CleanStore](https://github.com/Clean-Swift/CleanStore): Uses the Clean Swift architecture (Uncle Bob's Clean Architecture)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
 	Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -4899,7 +4907,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [Recordings](https://github.com/objcio/app-architecture): Sample code of the App Architecture book  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
 	https://www.objc.io/books/app-architecture/<br>  Added April 21, 2020<br>  License: `other`
   </details>
@@ -5101,7 +5109,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [Tofu Authenticator](https://github.com/calleerlandsson/Tofu): Easy-to-use two-factor authentication [` App Store`](https://apps.apple.com/app/tofu-authenticator/id1082229305)  
   <details>
-	<summary><code>swift</code> <code>2fa</code> </summary>
+	<summary><code>swift</code> <code>2fa</code> ⭐</summary>
 
 	Added April 12, 2020<br>  License: [`isc`](http://choosealicense.com/licenses/isc/)<br>
 	<a href='https://i.imgur.com/QXPVzw6.png'><code>Screenshot 1</code></a> 
@@ -5125,7 +5133,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [WireGuard](https://github.com/WireGuard/wireguard-apple): WireGuard: fast, modern, secure VPN tunnel (less battery consumption than OpenVPN)  [` App Store`](https://apps.apple.com/app/wireguard/id1441195209)  
   <details>
-	<summary><code>swift</code> ⭐</summary>
+	<summary><code>swift</code> ⭐⭐</summary>
 
 	Added July  1, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/79eUdhK.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/JHQRakO.png'><code>Screenshot 2</code></a> 
@@ -5479,13 +5487,6 @@ https://joinmastodon.org — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Boostnote](https://github.com/BoostIO/boostnote-mobile): Markdown text editor, offline or synced via Dropbox  
-  <details>
-	<summary><code>react-native</code> ⭐⭐⭐</summary>
-
-	Added May 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
 - [FSNotes](https://github.com/glushchenko/fsnotes): Notes manager [` App Store`](https://apps.apple.com/app/fsnotes-manager/id1346501102)  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
@@ -5688,7 +5689,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>swift</code> <code>combine</code> </summary>
 
 	Added April 30, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png '><code>Screenshot 1</code></a> 
   </details>
 
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example)  
@@ -5761,7 +5762,7 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [AltStore](https://github.com/rileytestut/AltStore): An alternate App Store, no jailbreak required  
   <details>
-	<summary><code>swift</code> <code>nuke</code> <code>keychainaccess</code> ⭐⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>nuke</code> <code>keychainaccess</code> ⭐⭐⭐⭐⭐</summary>
 
 	https://altstore.io<br>  License: `other`<br>
 	<a href='https://icdn5.digitaltrends.com/image/digitaltrends/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb1-768x1367.jpg'><code>Screenshot 1</code></a> 
@@ -6645,7 +6646,7 @@ https://realm.io/ — [back to top](#readme)
 
 - [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI): Animal Crossing New Horizon items catalogue  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	Added April 16, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://github.com/Dimillian/ACHNBrowserUI/raw/master/images/image1.png'><code>Screenshot 1</code></a> 
@@ -6728,7 +6729,7 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>combine</code> </summary>
 
 	Added April 30, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png '><code>Screenshot 1</code></a> 
   </details>
 
 - [OSRSUI](https://github.com/Dimillian/OSRSUI): Old School Runescape database browser  
