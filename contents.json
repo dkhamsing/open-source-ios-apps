@@ -16983,7 +16983,8 @@
     {
       "title": "live-news-viper",
       "category-ids": [
-        "viper"
+        "viper",
+        "news-api"
       ],
       "description": "News app using VIPER",
       "source": "https://github.com/smalam119/live-news-viper",
