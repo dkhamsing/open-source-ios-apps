@@ -458,7 +458,7 @@ Click ► to show more details
 
 - [Evolution](https://github.com/Evolution-App/iOS): An unofficial app for Swift Evolution [` App Store`](https://apps.apple.com/app/evolution-app/id1210898168)  
   <details>
-	<summary><code>swift</code> <code>swift-evolution</code> ⭐</summary>
+	<summary><code>swift</code> <code>swift-evolution</code> ⭐⭐</summary>
 
 	Added April 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/91/90/1d919067-8c46-3f04-f710-ecfed6494539/pr_source.png/900x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/84/cc/ee84cc99-5ff3-5c1c-4408-60c8f24f754d/pr_source.png/900x0w.png'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/28/86/e9/2886e929-b5a9-09ed-47e7-0ed45806f463/pr_source.png/900x0w.png'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/7a/2a/68/7a2a68f4-5575-5d70-be87-d4df54ebb12f/pr_source.png/900x0w.png'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/e6/ed/ec/e6edecdb-78ce-6cfe-4fde-470c7cee306a/pr_source.png/900x0w.png'><code>Screenshot 5</code></a> 
@@ -567,7 +567,7 @@ Click ► to show more details
 
 - [Evolution](https://github.com/Evolution-App/iOS): An unofficial app for Swift Evolution [` App Store`](https://apps.apple.com/app/evolution-app/id1210898168)  
   <details>
-	<summary><code>swift</code> <code>swift-evolution</code> ⭐</summary>
+	<summary><code>swift</code> <code>swift-evolution</code> ⭐⭐</summary>
 
 	Added April 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/91/90/1d919067-8c46-3f04-f710-ecfed6494539/pr_source.png/900x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/84/cc/ee84cc99-5ff3-5c1c-4408-60c8f24f754d/pr_source.png/900x0w.png'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/28/86/e9/2886e929-b5a9-09ed-47e7-0ed45806f463/pr_source.png/900x0w.png'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/7a/2a/68/7a2a68f4-5575-5d70-be87-d4df54ebb12f/pr_source.png/900x0w.png'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/e6/ed/ec/e6edecdb-78ce-6cfe-4fde-470c7cee306a/pr_source.png/900x0w.png'><code>Screenshot 5</code></a> 
@@ -1220,7 +1220,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [Stopp Corona](https://github.com/austrianredcross/stopp-corona-ios): By the Austrian Red Cross, keep track of encounters with friends, family or co-workers and save them anonymously [` App Store`](https://apps.apple.com/at/app/apple-store/id1503717224)  
   <details>
-	<summary><code>swift</code> <code>swiftlint</code> <code>moya</code> <code>swiftybeaver</code> <code>firebase</code> <code>sqlite</code> <code>lottie</code> 🌐 </summary>
+	<summary><code>swift</code> <code>swiftlint</code> <code>moya</code> <code>swiftybeaver</code> <code>firebase</code> <code>sqlite</code> <code>lottie</code> 🌐 ⭐</summary>
 
 	Added April 25, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://i.imgur.com/K0JV32C.png'><code>Screenshot 1</code></a> 
@@ -1931,7 +1931,7 @@ https://newsapi.org/ — [back to top](#readme)
 
 - [Wikipedia](https://github.com/wikimedia/wikipedia-ios): Official Wikipedia app [` App Store`](https://apps.apple.com/app/wikipedia-mobile/id324715238)  
   <details>
-	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ce/66/0c/ce660cad-9495-8b63-bb6d-c75622b75333/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/80/07/4a800728-ff89-81ad-eaad-5f7ce92d8a4c/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e4/96/48/e49648cf-eb1f-89ac-376e-ca83e43a51e9/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/d5/37/2a/d5372ad3-37b4-e9dd-2506-c5b49e374df1/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/3b/61/e4/3b61e4cc-e063-519b-82de-cafa39650512/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/19/c2/3e/19c23e96-1498-893f-7112-672201f2610e/pr_source.png/460x0w.jpg'><code>Screenshot 6</code></a> 
@@ -2103,7 +2103,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [Tofu Authenticator](https://github.com/calleerlandsson/Tofu): Easy-to-use two-factor authentication [` App Store`](https://apps.apple.com/app/tofu-authenticator/id1082229305)  
   <details>
-	<summary><code>swift</code> <code>2fa</code> </summary>
+	<summary><code>swift</code> <code>2fa</code> ⭐</summary>
 
 	Added April 12, 2020<br>  License: [`isc`](http://choosealicense.com/licenses/isc/)<br>
 	<a href='https://i.imgur.com/QXPVzw6.png'><code>Screenshot 1</code></a> 
@@ -2127,7 +2127,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [WireGuard](https://github.com/WireGuard/wireguard-apple): WireGuard: fast, modern, secure VPN tunnel (less battery consumption than OpenVPN)  [` App Store`](https://apps.apple.com/app/wireguard/id1441195209)  
   <details>
-	<summary><code>swift</code> ⭐</summary>
+	<summary><code>swift</code> ⭐⭐</summary>
 
 	Added July  1, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/79eUdhK.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/JHQRakO.png'><code>Screenshot 2</code></a> 
