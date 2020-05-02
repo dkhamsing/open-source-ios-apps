@@ -52,6 +52,11 @@
       "parent": "developer"
     },
     {
+      "title": "Terminal",
+      "id": "terminal",
+      "parent": "developer"
+    },
+    {
       "title": "Education",
       "id": "education"
     },
@@ -10755,7 +10760,7 @@
     {
       "title": "Blink",
       "category-ids": [
-        "developer"
+        "terminal"
       ],
       "tags": [
         "objc",
@@ -13105,7 +13110,7 @@
       "description": "Proof-of-concept for sandboxed Terminal environment",
       "source": "https://github.com/steventroughtonsmith/MobileTerminal",
       "category-ids": [
-        "developer"
+        "terminal"
       ],
       "tags": [
         "c",
@@ -18701,7 +18706,7 @@
       "title": "LibTerm",
       "description": "Terminal with Python 3.7 and Lua 5.3, supports iOS 13 dark mode and multi window",
       "category-ids": [
-        "developer"
+        "terminal"
       ],
       "tags": [
         "swift",
@@ -19657,7 +19662,7 @@
     {
       "title": "SwiftTerm",
       "category-ids": [
-        "developer"
+        "terminal"
       ],
       "tags": [
         "swift"
@@ -19794,7 +19799,7 @@
       "title": "a-shell",
       "description": "Mobile shell terminal based on Mosh",
       "category-ids": [
-        "developer"
+        "terminal"
       ],
       "tags": [
         "vim script",
