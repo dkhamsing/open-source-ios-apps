@@ -16590,7 +16590,8 @@
       "stars": 853,
       "license": "mit",
       "tags": [
-        "react-native"
+        "react-native",
+        "archive"
       ],
       "suggested_by": "@tylerwince"
     },
