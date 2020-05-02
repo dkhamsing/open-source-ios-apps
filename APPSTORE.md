@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **244** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **245** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -736,6 +736,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- [SimpleLogin](https://github.com/simple-login/Simple-Login-iOS): Protect your email with aliases and more. Its Share Extension helps you create aliases on the fly without leaving your favorite browser [` App Store`](https://apps.apple.com/app/simplelogin-anti-spam/id1494359858)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://simplelogin.io/<br>  Added May  2, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/01-Homepage.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/02-Create.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/03-Activity.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/04-Contact.png'><code>Screenshot 4</code></a> 
+  </details>
+
 
 ### Content Blocking 
  
@@ -2099,6 +2107,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/da/26/c7/da26c749-b889-37a7-9e2f-62c73bcfba3d/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/89/75/a18975f9-b682-9c9b-5f2e-96389f66fec6/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/87/60/24/876024e2-5338-26c9-7e08-7415068a08e0/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a5/1d/29/a51d297d-74c8-4086-7585-263c2c1ea494/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/df/a7/52/dfa7524e-313e-ff82-d615-f95cd5149dc9/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
+- [SimpleLogin](https://github.com/simple-login/Simple-Login-iOS): Protect your email with aliases and more. Its Share Extension helps you create aliases on the fly without leaving your favorite browser [` App Store`](https://apps.apple.com/app/simplelogin-anti-spam/id1494359858)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://simplelogin.io/<br>  Added May  2, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/01-Homepage.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/02-Create.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/03-Activity.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/04-Contact.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [Tofu Authenticator](https://github.com/calleerlandsson/Tofu): Easy-to-use two-factor authentication [` App Store`](https://apps.apple.com/app/tofu-authenticator/id1082229305)  
