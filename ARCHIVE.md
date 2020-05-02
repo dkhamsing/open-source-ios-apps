@@ -39,6 +39,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Be my eyes](https://github.com/opensourceios/bemyeyes-ios)
 - [Bequest](https://github.com/splinesoft/Bequest)
 - [BitStore](https://github.com/BitStore/BitStore-iOS)
+- [Boostnote](https://github.com/BoostIO/boostnote-mobile)
 - [Brew](https://github.com/contentful/ContentfulWatchKitExample)
 - [Bridges](https://github.com/zgrossbart/bridges)
 - [Calculator by mukeshthawani](https://github.com/opensourceios/Calculator)
