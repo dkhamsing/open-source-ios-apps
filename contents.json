@@ -19852,6 +19852,29 @@
       "suggested_by": "@dkhamsing",
       "date_added": "Apr 30 2020",
       "stars": 95
+    },
+    {
+      "title": "SimpleLogin",
+      "category-ids": [
+        "security", 
+        "extension"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Protect your email with aliases and more. Its Share Extension helps you create aliases on the fly without leaving your favorite browser",
+      "source": "https://github.com/simple-login/Simple-Login-iOS",
+      "homepage": "https://simplelogin.io/",
+      "itunes": "https://apps.apple.com/app/simplelogin-anti-spam/id1494359858",
+      "screenshots": [
+        "https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/01-Homepage.png",
+        "https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/02-Create.png",
+        "https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/03-Activity.png",
+        "https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/04-Contact.png"
+      ],
+      "license": "mit",
+      "date_added": "May 2 2020",
+      "suggested_by": "@ntnhon"
     }
   ]
 }
