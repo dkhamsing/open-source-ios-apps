@@ -19860,7 +19860,7 @@
     {
       "title": "SimpleLogin",
       "category-ids": [
-        "security", 
+        "security",
         "extension"
       ],
       "tags": [
@@ -19879,6 +19879,19 @@
       "license": "mit",
       "date_added": "May 2 2020",
       "suggested_by": "@ntnhon"
+    },
+    {
+      "title": "Trello",
+      "category-ids": [
+        "clone"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "mit",
+      "source": "https://github.com/alfianlosari/KanbanDragDropiOS",
+      "suggested_by": "@dkhamsing",
+      "date_added": "May 3 2020"
     }
   ]
 }
