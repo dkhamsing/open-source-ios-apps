@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-984-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%203,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-985-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%204,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3538,6 +3538,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	http://monotone.justuskandzi.com<br>  Added December 21, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://a4.mzstatic.com/us/r30/Purple5/v4/7d/be/82/7dbe82a0-26a2-ec64-2804-47de55caa190/screen520x924.jpeg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer): Let you listen to English news, see the text and let you analyze what you have heard  
+  <details>
+	<summary><code>swift</code> <code>alamofire</code> </summary>
+
+	Added May  4, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/VKbP0Se.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Podcasts](https://github.com/Karambirov/Podcasts): A clone of Apple's Podcasts  
