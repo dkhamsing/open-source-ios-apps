@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-983-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%202,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-984-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%203,%202020-lightgrey.svg)
 
 Jump to
 
@@ -21,6 +21,7 @@ Jump to
 - [Communication](#communication) 
 - [Developer](#developer) 
   - [GitHub](#github) 
+  - [Terminal](#terminal) 
 - [Education](#education) 
 - [Emulator](#emulator) 
 - [Event](#event) 
@@ -786,6 +787,13 @@ Click ► to show more details
 	<a href='https://i.imgur.com/mBi9Jfj.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Trello](https://github.com/alfianlosari/KanbanDragDropiOS)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added May  3, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
 - [Voice Memo](https://github.com/HassanElDesouky/VoiceMemosClone)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -1059,14 +1067,6 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [a-shell](https://github.com/holzschu/a-shell): Mobile shell terminal based on Mosh [` App Store`](https://apps.apple.com/app/a-shell/id1473805438)  
-  <details>
-	<summary><code>vim script</code> <code>c++</code> <code>c</code> ⭐⭐</summary>
-
-	Added April 28, 2020<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
-	<a href='https://holzschu.github.io/a-Shell_iOS/assets/screenshot/nslookup.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [AppLove](https://github.com/snowpunch/AppLove): View app reviews for all territories (countries)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -1088,14 +1088,6 @@ Click ► to show more details
 
 	https://www.bitrise.io<br>  Added March  8, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/toshi0383/assets/master/Bitrise-iOS/screen-shots.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Blink](https://github.com/blinksh/blink): Mobile shell terminal based on Mosh [` App Store`](https://apps.apple.com/app/id1156707581)  
-  <details>
-	<summary><code>objc</code> <code>uickeychainstore</code> <code>passcodelock</code> ⭐⭐⭐⭐⭐</summary>
-
-	Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/44/bf/e144bfb0-5397-6e9f-7e94-e7303af10e93/pr_source.png/626x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/a3/3f/b8a33f92-cf60-03ec-a8c2-ff3cdc222f80/pr_source.png/626x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ff/f2/76/fff276ed-0b17-ad45-deee-6fa4be6d3024/pr_source.png/626x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/f5/ec/95f5ec0b-8675-a452-de97-7d6f43a4e9ca/pr_source.png/626x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [Buglife](https://github.com/Buglife/Buglife-iOS): Awesome bug reporting SDK & web platform  
@@ -1241,14 +1233,6 @@ Click ► to show more details
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
-- [LibTerm](https://github.com/ColdGrub1384/LibTerm): Terminal with Python 3.7 and Lua 5.3, supports iOS 13 dark mode and multi window [` App Store`](https://apps.apple.com/app/libterm/id1380911705)  
-  <details>
-	<summary><code>swift</code> <code>ipad</code> ⭐</summary>
-
-	Added March 27, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/dJs2tXc.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Major Input](https://github.com/rlwimi/major-input): Read WWDC session transcripts synced with the video  
   <details>
 	<summary><code>swift</code> <code>ipad</code> <code>haneke</code> <code>quick</code> <code>nimble</code> <code>carthage</code> <code>swiftyjson</code> </summary>
@@ -1263,14 +1247,6 @@ Click ► to show more details
 
 	Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/74/06/aa/7406aaa2-1913-c66a-3896-b1bcc6f48f23/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/15/71/51/1571512a-a119-11e5-e5c5-7ddc15528ec9/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1b/5f/7e/1b5f7e20-5478-6d36-a8e9-6353a37d94e9/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a0/0b/99/a00b99a7-cb8c-2e54-802b-e828743e22bb/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/85/3b/b4/853bb4b2-3317-17b1-5ed5-7a12a5be6ca6/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
-  </details>
-
-- [MobileTerminal](https://github.com/steventroughtonsmith/MobileTerminal): Proof-of-concept for sandboxed Terminal environment  
-  <details>
-	<summary><code>c</code> <code>dlopen</code> ⭐</summary>
-
-	Added February  6, 2017<br>  License: `other`<br>
-	<a href='http://hccdata.s3.amazonaws.com/gh_mobileterm_1.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [NWPusher](https://github.com/noodlewerk/NWPusher): Play with the Apple Push Notification service  
@@ -1335,14 +1311,6 @@ Click ► to show more details
 
 	Added August 22, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/45/ae/f6/45aef69e-09b9-f90f-8258-cf2f9553e06d/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/a4/2d/63/a42d63c9-b5e2-1319-0c52-72840c95cab5/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/d9/c0/51/d9c05147-ddce-c0af-aa20-9935e8487dc4/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/5e/91/c85e914d-a9c3-b84a-7a62-c32eaa4e751e/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
-  </details>
-
-- [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm): VT100/Xterm Terminal emulator  
-  <details>
-	<summary><code>swift</code> ⭐</summary>
-
-	Added April 24, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://user-images.githubusercontent.com/36863/80056069-54a05580-84f1-11ea-8597-5a227c9c64a7.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Terrarium](https://github.com/penk/terrarium-app): UI prototyping for coders  
@@ -1530,6 +1498,51 @@ Click ► to show more details
 
 	Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'><code>Screenshot 3</code></a> 
+  </details>
+
+
+### Terminal 
+ 
+[back to top](#readme) 
+ 
+- [a-shell](https://github.com/holzschu/a-shell): Mobile shell terminal based on Mosh [` App Store`](https://apps.apple.com/app/a-shell/id1473805438)  
+  <details>
+	<summary><code>vim script</code> <code>c++</code> <code>c</code> ⭐⭐</summary>
+
+	Added April 28, 2020<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
+	<a href='https://holzschu.github.io/a-Shell_iOS/assets/screenshot/nslookup.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Blink](https://github.com/blinksh/blink): Mobile shell terminal based on Mosh [` App Store`](https://apps.apple.com/app/id1156707581)  
+  <details>
+	<summary><code>objc</code> <code>uickeychainstore</code> <code>passcodelock</code> ⭐⭐⭐⭐⭐</summary>
+
+	Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/44/bf/e144bfb0-5397-6e9f-7e94-e7303af10e93/pr_source.png/626x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/a3/3f/b8a33f92-cf60-03ec-a8c2-ff3cdc222f80/pr_source.png/626x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ff/f2/76/fff276ed-0b17-ad45-deee-6fa4be6d3024/pr_source.png/626x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/f5/ec/95f5ec0b-8675-a452-de97-7d6f43a4e9ca/pr_source.png/626x0w.jpg'><code>Screenshot 4</code></a> 
+  </details>
+
+- [LibTerm](https://github.com/ColdGrub1384/LibTerm): Terminal with Python 3.7 and Lua 5.3, supports iOS 13 dark mode and multi window [` App Store`](https://apps.apple.com/app/libterm/id1380911705)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> ⭐</summary>
+
+	Added March 27, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/dJs2tXc.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [MobileTerminal](https://github.com/steventroughtonsmith/MobileTerminal): Proof-of-concept for sandboxed Terminal environment  
+  <details>
+	<summary><code>c</code> <code>dlopen</code> ⭐</summary>
+
+	Added February  6, 2017<br>  License: `other`<br>
+	<a href='http://hccdata.s3.amazonaws.com/gh_mobileterm_1.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm): VT100/Xterm Terminal emulator  
+  <details>
+	<summary><code>swift</code> ⭐</summary>
+
+	Added April 24, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://user-images.githubusercontent.com/36863/80056069-54a05580-84f1-11ea-8597-5a227c9c64a7.png'><code>Screenshot 1</code></a> 
   </details>
 
 
@@ -5645,14 +5658,6 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added May 13, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://i.imgur.com/N2QeLpm.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/f33KAQY.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/EDZFKpP.png'><code>Screenshot 3</code></a> 
-  </details>
-
-- [MovieDict](https://github.com/lurado/MovieDict): Offline dictionary for international movie titles [` App Store`](https://apps.apple.com/app/movieglot-what-do-they-call-it/id710587066)  
-  <details>
-	<summary><code>wikipedia</code> </summary>
-
-	https://moviedict.info<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://moviedict.info/iphone.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Smart Traveller (UberGuide)](https://github.com/hACKbUSTER/UberGuide-iOS): Simple & comfortable way to explore a city  

@@ -21,6 +21,7 @@ Jump to
 - [Communication](#communication) 
 - [Developer](#developer) 
   - [GitHub](#github) 
+  - [Terminal](#terminal) 
 - [Education](#education) 
 - [Emulator](#emulator) 
 - [Event](#event) 
@@ -424,22 +425,6 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [a-shell](https://github.com/holzschu/a-shell): Mobile shell terminal based on Mosh [` App Store`](https://apps.apple.com/app/a-shell/id1473805438)  
-  <details>
-	<summary><code>vim script</code> <code>c++</code> <code>c</code> ⭐⭐</summary>
-
-	Added April 28, 2020<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
-	<a href='https://holzschu.github.io/a-Shell_iOS/assets/screenshot/nslookup.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Blink](https://github.com/blinksh/blink): Mobile shell terminal based on Mosh [` App Store`](https://apps.apple.com/app/id1156707581)  
-  <details>
-	<summary><code>objc</code> <code>uickeychainstore</code> <code>passcodelock</code> ⭐⭐⭐⭐⭐</summary>
-
-	Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/44/bf/e144bfb0-5397-6e9f-7e94-e7303af10e93/pr_source.png/626x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/a3/3f/b8a33f92-cf60-03ec-a8c2-ff3cdc222f80/pr_source.png/626x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ff/f2/76/fff276ed-0b17-ad45-deee-6fa4be6d3024/pr_source.png/626x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/f5/ec/95f5ec0b-8675-a452-de97-7d6f43a4e9ca/pr_source.png/626x0w.jpg'><code>Screenshot 4</code></a> 
-  </details>
-
 - [CI2Go](https://github.com/ngs/ci2go): An app for https://circleci.com/ [` App Store`](https://apps.apple.com/app/ci2go-the-circleci-client/id940028427)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -502,14 +487,6 @@ Click ► to show more details
 
 	Added July 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
-  </details>
-
-- [LibTerm](https://github.com/ColdGrub1384/LibTerm): Terminal with Python 3.7 and Lua 5.3, supports iOS 13 dark mode and multi window [` App Store`](https://apps.apple.com/app/libterm/id1380911705)  
-  <details>
-	<summary><code>swift</code> <code>ipad</code> ⭐</summary>
-
-	Added March 27, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/dJs2tXc.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Matomo](https://github.com/matomo-org/matomo-mobile-2): Access analytics on the go (formerly Piwik) [` App Store`](https://apps.apple.com/app/id737216887)  
@@ -611,6 +588,35 @@ Click ► to show more details
 
 	Added October  4, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/32/f6/58/32f65859-14bd-86e7-a121-b06025e02029/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/41/de/3a41de8e-d316-fbb9-f15e-ddf5fb4e0763/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/1b/2e/9b1b2ebc-03ee-7628-0a81-545af421f519/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8b/e0/8f/8be08fc6-ea85-7325-e2a0-91e90b84b9a1/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a8/f6/09/a8f6095a-2999-95f7-46c5-a09dd89588b3/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
+
+### Terminal 
+ 
+[back to top](#readme) 
+ 
+- [a-shell](https://github.com/holzschu/a-shell): Mobile shell terminal based on Mosh [` App Store`](https://apps.apple.com/app/a-shell/id1473805438)  
+  <details>
+	<summary><code>vim script</code> <code>c++</code> <code>c</code> ⭐⭐</summary>
+
+	Added April 28, 2020<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
+	<a href='https://holzschu.github.io/a-Shell_iOS/assets/screenshot/nslookup.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Blink](https://github.com/blinksh/blink): Mobile shell terminal based on Mosh [` App Store`](https://apps.apple.com/app/id1156707581)  
+  <details>
+	<summary><code>objc</code> <code>uickeychainstore</code> <code>passcodelock</code> ⭐⭐⭐⭐⭐</summary>
+
+	Added July 12, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/44/bf/e144bfb0-5397-6e9f-7e94-e7303af10e93/pr_source.png/626x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/a3/3f/b8a33f92-cf60-03ec-a8c2-ff3cdc222f80/pr_source.png/626x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ff/f2/76/fff276ed-0b17-ad45-deee-6fa4be6d3024/pr_source.png/626x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/f5/ec/95f5ec0b-8675-a452-de97-7d6f43a4e9ca/pr_source.png/626x0w.jpg'><code>Screenshot 4</code></a> 
+  </details>
+
+- [LibTerm](https://github.com/ColdGrub1384/LibTerm): Terminal with Python 3.7 and Lua 5.3, supports iOS 13 dark mode and multi window [` App Store`](https://apps.apple.com/app/libterm/id1380911705)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> ⭐</summary>
+
+	Added March 27, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/dJs2tXc.png'><code>Screenshot 1</code></a> 
   </details>
 
 
@@ -2432,14 +2438,6 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added March 31, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'><code>Screenshot 4</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'><code>Screenshot 5</code></a> 
-  </details>
-
-- [MovieDict](https://github.com/lurado/MovieDict): Offline dictionary for international movie titles [` App Store`](https://apps.apple.com/app/movieglot-what-do-they-call-it/id710587066)  
-  <details>
-	<summary><code>wikipedia</code> </summary>
-
-	https://moviedict.info<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://moviedict.info/iphone.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [VisitBCN](https://github.com/maurovc/visitBCN): City guide for Barcelona [` App Store`](https://apps.apple.com/app/visitbcn/id904676442)  
