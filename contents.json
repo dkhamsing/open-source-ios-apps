@@ -19892,6 +19892,22 @@
       "source": "https://github.com/alfianlosari/KanbanDragDropiOS",
       "suggested_by": "@dkhamsing",
       "date_added": "May 3 2020"
+    },
+    {
+      "title": "NewsAnalyzer",
+      "description": "Let you listen to English news, see the text and let you analyze what you have heard",
+      "category-ids": [
+        "audio"
+      ],
+      "tags": [
+        "swift",
+        "alamofire"
+      ],
+      "license": "mit",
+      "source": "https://github.com/ethanswift/NewsAnalyzer",
+      "screenshots": ["https://i.imgur.com/VKbP0Se.png"],
+      "suggested_by": "@dkhamsing",
+      "date_added": "May 4 2020"
     }
   ]
 }
