@@ -19908,6 +19908,20 @@
       "screenshots": ["https://i.imgur.com/VKbP0Se.png"],
       "suggested_by": "@dkhamsing",
       "date_added": "May 4 2020"
+    },
+    {
+      "title": "TicTacToe",
+      "description": "Demonstrate how to build a full, moderately complex application in the Composable Architecture",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "mit",
+      "source": "https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe",
+      "suggested_by": "@dkhamsing",
+      "date_added": "May 4 2020"
     }
   ]
 }
