@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-985-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%204,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-986-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%205,%202020-lightgrey.svg)
 
 Jump to
 
@@ -5010,6 +5010,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> 🌐 ⭐⭐⭐⭐⭐</summary>
 
 	Added April 22, 2016<br>  License: `other`
+  </details>
+
+- [TicTacToe](https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe): Demonstrate how to build a full, moderately complex application in the Composable Architecture  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added May  4, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 
