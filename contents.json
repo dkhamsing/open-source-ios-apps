@@ -19922,6 +19922,23 @@
       "source": "https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe",
       "suggested_by": "@dkhamsing",
       "date_added": "May 4 2020"
+    },
+    {
+      "title": "DiscussIt",
+      "description": "Scholarly article search, discussion forum and discussion board",
+      "category-ids": [
+        "education"
+      ],
+      "tags": [
+        "swift",
+        "firebase",
+        "swiftyjson"
+      ],
+      "license": "mit",
+      "source": "https://github.com/ethanswift/DiscussIt",
+      "screenshots": ["https://i.imgur.com/35n3RHL.png"],
+      "suggested_by": "@dkhamsing",
+      "date_added": "May 5 2020"
     }
   ]
 }
