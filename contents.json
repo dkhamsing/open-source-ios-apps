@@ -19939,6 +19939,21 @@
       "screenshots": ["https://i.imgur.com/35n3RHL.png"],
       "suggested_by": "@dkhamsing",
       "date_added": "May 5 2020"
+    },
+    {
+      "title": "ExposureNotificationApp",
+      "description": "Inform people when they may have been exposed to COVID-19, using ExposureNotification framework (code by Apple)",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "other",
+      "source": "https://developer.apple.com/documentation/exposurenotification/building_an_app_to_notify_users_of_covid-19_exposure",
+      "screenshots": ["https://i.imgur.com/q0Rkq17.png"],
+      "date_added": "May 5 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
