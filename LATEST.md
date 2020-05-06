@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [TicTacToe](https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe)
-2. [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer)
-3. [Trello](https://github.com/alfianlosari/KanbanDragDropiOS)
-4. [SimpleLogin](https://github.com/simple-login/Simple-Login-iOS)
-5. [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)
-6. [CZInstagram](https://github.com/geekaurora/CZInstagram)
-7. [a-shell](https://github.com/holzschu/a-shell)
-8. [Emission](https://github.com/e-mission/e-mission-phone)
-9. [TimeLines](https://github.com/mathieudutour/TimeLines)
-10. [iOSDCRC](https://github.com/fromkk/iOSDCRC)
-11. [DailyNews](https://github.com/latifatcii/DailyNews)
-12. [Stopp Corona](https://github.com/austrianredcross/stopp-corona-ios)
-13. [ARKit Example](https://github.com/gao0122/ARKit-Example-by-Apple)
-14. [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
-15. [COVID-19 SwiftUI Demo](https://github.com/Joker462/COVID-19_SwiftUI_Demo)
+1. [ExposureNotificationApp](https://developer.apple.com/documentation/exposurenotification/building_an_app_to_notify_users_of_covid-19_exposure)
+2. [DiscussIt](https://github.com/ethanswift/DiscussIt)
+3. [TicTacToe](https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe)
+4. [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer)
+5. [Trello](https://github.com/alfianlosari/KanbanDragDropiOS)
+6. [SimpleLogin](https://github.com/simple-login/Simple-Login-iOS)
+7. [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)
+8. [CZInstagram](https://github.com/geekaurora/CZInstagram)
+9. [a-shell](https://github.com/holzschu/a-shell)
+10. [Emission](https://github.com/e-mission/e-mission-phone)
+11. [TimeLines](https://github.com/mathieudutour/TimeLines)
+12. [iOSDCRC](https://github.com/fromkk/iOSDCRC)
+13. [DailyNews](https://github.com/latifatcii/DailyNews)
+14. [Stopp Corona](https://github.com/austrianredcross/stopp-corona-ios)
+15. [ARKit Example](https://github.com/gao0122/ARKit-Example-by-Apple)
 
 ## Thanks
 
