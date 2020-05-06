@@ -1629,7 +1629,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<summary><code>wikipedia</code> </summary>
 
 	https://moviedict.info<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://moviedict.info/iphone.png'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/l6kVwjX.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [PhishOD](https://github.com/alecgorge/PhishOD-iOS): Listen to any song from phish.in, view concert ratings & reviews from phish.net [` App Store`](https://apps.apple.com/app/phish-on-demand-all-phish/id672139018)  
