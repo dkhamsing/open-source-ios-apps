@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-986-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%205,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-988-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%206,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1574,6 +1574,14 @@ Click ► to show more details
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/c1/74/31c174b5-5be4-b78d-dbb9-f55fa0c6a624/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/38/1d/e8381dde-da9f-91e9-674f-25077cd6322e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/e0/92/63e092f4-9a11-9936-d3ad-da8cc258afd8/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
+- [DiscussIt](https://github.com/ethanswift/DiscussIt): Scholarly article search, discussion forum and discussion board  
+  <details>
+	<summary><code>swift</code> <code>firebase</code> <code>swiftyjson</code> </summary>
+
+	Added May  5, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/35n3RHL.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Fingerspelling](https://github.com/sloria/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863)  
   <details>
 	<summary><code>swift</code> <code>combine</code> </summary>
@@ -2949,6 +2957,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://i.imgur.com/9f1ojFj.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [ExposureNotificationApp](https://developer.apple.com/documentation/exposurenotification/building_an_app_to_notify_users_of_covid-19_exposure): Inform people when they may have been exposed to COVID-19, using ExposureNotification framework (code by Apple)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added May  5, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/q0Rkq17.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Hamagen](https://github.com/MohGovIL/hamagen-react-native): Israel's Ministry of Health's COVID-19 exposure prevention app  
   <details>
 	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
@@ -3726,7 +3742,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<summary><code>wikipedia</code> </summary>
 
 	https://moviedict.info<br>  Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://moviedict.info/iphone.png'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/l6kVwjX.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [movies](https://github.com/KMindeguia/movies): Movie info app  
