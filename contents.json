@@ -19411,7 +19411,7 @@
       "stars": 87
     },
     {
-      "title": "NewsApi.swift",
+      "title": "News API apps",
       "description": "News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes a tvOS app",
       "category-ids": [
         "news-api",
@@ -19421,11 +19421,11 @@
         "swift"
       ],
       "license": "mit",
-      "source": "https://github.com/dkhamsing/NewsApi.swift",
+      "source": "https://github.com/dkhamsing/news.swift",
       "screenshots": [
-        "https://github.com/dkhamsing/NewsApi.swift/raw/develop/Images/tvos.png",
-        "https://github.com/dkhamsing/NewsApi.swift/raw/develop/Images/facebook.png",
-        "https://github.com/dkhamsing/NewsApi.swift/raw/develop/Images/washingtonpost.png"
+        "https://github.com/dkhamsing/news.swift/raw/develop/Images/tvos.png",
+        "https://github.com/dkhamsing/news.swift/raw/develop/Images/facebook.png",
+        "https://github.com/dkhamsing/news.swift/raw/develop/Images/washingtonpost.png"
       ],
       "suggested_by": "@dkhamsing",
       "date_added": "Apr 20 2020",
