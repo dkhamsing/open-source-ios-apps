@@ -19954,6 +19954,21 @@
       "screenshots": ["https://i.imgur.com/q0Rkq17.png"],
       "date_added": "May 5 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "ASETimerSwiftUI",
+      "description": "Countdown to WWDC20",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "other",
+      "source": "https://github.com/rahulrs0029/ASETimerSwiftUI",
+      "screenshots": ["https://i.imgur.com/Yqv29uO.jpg"],
+      "date_added": "May 6 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
