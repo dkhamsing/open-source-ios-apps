@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-989-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%207,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-991-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%208,%202020-lightgrey.svg)
 
 Jump to
 
@@ -124,12 +124,12 @@ Click ► to show more details
 	<a href='https://polydice.com/iCook-tvOS/images/Screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [News API apps](https://github.com/dkhamsing/news.swift): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes a tvOS app  
+- [News API apps](https://github.com/dkhamsing/news): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes a tvOS app  
   <details>
 	<summary><code>swift</code> </summary>
 
 	Added April 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/dkhamsing/news.swift/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/news.swift/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/news.swift/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
+	<a href='https://github.com/dkhamsing/news/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [Provenance](https://github.com/Provenance-Emu/Provenance): Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more  
@@ -154,6 +154,14 @@ Click ► to show more details
 
 	Added April 13, 2017<br>  License: `other`<br>
 	<a href='https://github.com/intere/retro-skate-tvOS/raw/master/assets/screenshot2.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on the Stepik Platform https://stepik.org/ [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> <code>alamofire</code> <code>swiftyjson</code> <code>sdwebimage</code> <code>devicekit</code> <code>promisekit</code> <code>swiftlint</code> </summary>
+
+	Added May  7, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/Br5ht7f.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Telemat-tvOS](https://github.com/omichde/Telemat-tvOS): Stream the German Public Broadcast TV  
@@ -1651,6 +1659,14 @@ Click ► to show more details
 
 	Added May 26, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0b/b5/f6/0bb5f665-9207-58d7-effd-23879f680a01/mzl.jtdasfzc.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/b0/85/4c/b0854c05-6930-b70a-28bc-ea65aefe123f/mzl.udtmgexa.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/5c/7b/955c7b98-b7b6-6680-4024-3f756fef12ac/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/57/d1/bc/57d1bc1d-c8ef-50d4-dda0-fadcd7cc9282/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
+  </details>
+
+- [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on the Stepik Platform https://stepik.org/ [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> <code>alamofire</code> <code>swiftyjson</code> <code>sdwebimage</code> <code>devicekit</code> <code>promisekit</code> <code>swiftlint</code> </summary>
+
+	Added May  7, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/Br5ht7f.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Transcription Helper](https://github.com/novinfard/TranscriptionHelper): Player for assisting in transcription [` App Store`](https://apps.apple.com/app/transcription-helper/id1157585714)  
@@ -4330,12 +4346,12 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/vanyaland/News/master/res/sources.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/vanyaland/News/master/res/articles.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/vanyaland/News/master/res/article.png'><code>Screenshot 3</code></a> 
   </details>
 
-- [News API apps](https://github.com/dkhamsing/news.swift): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes a tvOS app  
+- [News API apps](https://github.com/dkhamsing/news): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes a tvOS app  
   <details>
 	<summary><code>swift</code> </summary>
 
 	Added April 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/dkhamsing/news.swift/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/news.swift/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/news.swift/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
+	<a href='https://github.com/dkhamsing/news/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [NewsAPISwift](https://github.com/lucaslimapoa/NewsAPISwift)  
