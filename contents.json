@@ -20007,6 +20007,21 @@
       "screenshots": ["https://i.imgur.com/Br5ht7f.png"],
       "date_added": "May 7 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "iGit",
+      "description": "Uses GitUpKit to clone a GitHub repo and perform a commit",
+      "category-ids": [
+        "github"
+      ],
+      "tags": [
+        "objc"
+      ],
+      "license": "gpl-3.0",
+      "source": "https://github.com/git-up/GitUp",
+      "stars": 9000,
+      "date_added": "May 8 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
