@@ -20076,6 +20076,20 @@
         "swift"
       ],
       "stars": 99
+    },
+    {
+      "title": "Math Quest",
+      "category-ids": [
+        "game"
+      ],
+      "license": "other",
+      "source": "https://github.com/AdnanZahid/Math-Quest-iOS",
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "date_added": "May 9 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
