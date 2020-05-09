@@ -20022,6 +20022,24 @@
       "stars": 9000,
       "date_added": "May 8 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "newsline",
+      "category-ids": [
+        "news-api",
+        "flutter"
+      ],
+      "screenshots": [
+        "https://i.ibb.co/KWG2Fwx/article-details.png"
+      ],
+      "source": "https://github.com/ayush221b/newsline",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "other",
+      "date_added": "May 8 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
