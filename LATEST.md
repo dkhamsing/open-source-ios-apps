@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Stepik](https://github.com/StepicOrg/stepik-ios)
-2. [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
-3. [ASETimerSwiftUI](https://github.com/rahulrs0029/ASETimerSwiftUI)
-4. [ExposureNotificationApp](https://developer.apple.com/documentation/exposurenotification/building_an_app_to_notify_users_of_covid-19_exposure)
-5. [DiscussIt](https://github.com/ethanswift/DiscussIt)
-6. [TicTacToe](https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe)
-7. [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer)
-8. [Trello](https://github.com/alfianlosari/KanbanDragDropiOS)
-9. [SimpleLogin](https://github.com/simple-login/Simple-Login-iOS)
-10. [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)
-11. [CZInstagram](https://github.com/geekaurora/CZInstagram)
-12. [a-shell](https://github.com/holzschu/a-shell)
-13. [Emission](https://github.com/e-mission/e-mission-phone)
-14. [TimeLines](https://github.com/mathieudutour/TimeLines)
-15. [iOSDCRC](https://github.com/fromkk/iOSDCRC)
+1. [newsline](https://github.com/ayush221b/newsline)
+2. [iGit](https://github.com/git-up/GitUp)
+3. [Stepik](https://github.com/StepicOrg/stepik-ios)
+4. [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
+5. [ASETimerSwiftUI](https://github.com/rahulrs0029/ASETimerSwiftUI)
+6. [ExposureNotificationApp](https://developer.apple.com/documentation/exposurenotification/building_an_app_to_notify_users_of_covid-19_exposure)
+7. [DiscussIt](https://github.com/ethanswift/DiscussIt)
+8. [TicTacToe](https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe)
+9. [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer)
+10. [Trello](https://github.com/alfianlosari/KanbanDragDropiOS)
+11. [SimpleLogin](https://github.com/simple-login/Simple-Login-iOS)
+12. [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)
+13. [CZInstagram](https://github.com/geekaurora/CZInstagram)
+14. [a-shell](https://github.com/holzschu/a-shell)
+15. [Emission](https://github.com/e-mission/e-mission-phone)
 
 ## Thanks
 
