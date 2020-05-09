@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-991-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%208,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-993-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%20%209,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1450,6 +1450,13 @@ Click ► to show more details
 
 	Added July 14, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'><code>Screenshot 2</code></a> 
+  </details>
+
+- [iGit](https://github.com/git-up/GitUp): Uses GitUpKit to clone a GitHub repo and perform a commit  
+  <details>
+	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
+
+	Added May  8, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 
 - [Monkey](https://github.com/coderyi/Monkey): Browse top GitHub coders & repositories [` App Store`](https://apps.apple.com/app/monkey-for-github/id1003765407)  
@@ -4370,6 +4377,14 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png '><code>Screenshot 1</code></a> 
   </details>
 
+- [newsline](https://github.com/ayush221b/newsline)  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> </summary>
+
+	Added May  8, 2020<br>  License: `other`<br>
+	<a href='https://i.ibb.co/KWG2Fwx/article-details.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Royal News](https://github.com/msal4/royal_news)  
   <details>
 	<summary><code>react-native</code> </summary>
@@ -6251,6 +6266,14 @@ https://flutter.dev — [back to top](#readme)
 
 	Added April 23, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/rodydavis/gmail_clone/raw/master/screenshots/listview.png '><code>Screenshot 1</code></a> 
+  </details>
+
+- [newsline](https://github.com/ayush221b/newsline)  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> </summary>
+
+	Added May  8, 2020<br>  License: `other`<br>
+	<a href='https://i.ibb.co/KWG2Fwx/article-details.png'><code>Screenshot 1</code></a> 
   </details>
 
 
