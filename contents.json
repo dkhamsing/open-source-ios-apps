@@ -20040,6 +20040,24 @@
       "license": "other",
       "date_added": "May 8 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "einmal",
+      "category-ids": [
+        "password"
+      ],
+      "description": "Minimalistic and secure two-factor authentication",
+      "source": "https://github.com/incipher/einmal",
+      "license": "cc0-1.0",
+      "date_added": "May 9 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/11808903/80574717-a457b300-8a02-11ea-915e-db7cd98740f2.png"
+      ],
+      "tags": [
+        "dart"
+      ],
+      "stars": 65
     }
   ]
 }
