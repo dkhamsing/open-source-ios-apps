@@ -20090,6 +20090,20 @@
       ],
       "date_added": "May 9 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "EmojiFireplace",
+      "category-ids": [
+        "apple-tv"
+      ],
+      "license": "other",
+      "source": "https://github.com/neonichu/EmojiFireplace",
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "date_added": "May 9 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
