@@ -10726,7 +10726,7 @@
       ],
       "description": "3D multiplatform game written primarily in C",
       "license": "gpl-3.0",
-      "homepage": "http://fabiensanglard.net/shmup/",
+      "homepage": "https://fabiensanglard.net/shmup/",
       "source": "https://github.com/fabiensanglard/Shmup",
       "itunes": "https://apps.apple.com/app/shmup/id337663605",
       "stars": 228,
