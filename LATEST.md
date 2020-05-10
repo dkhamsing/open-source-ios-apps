@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [newsline](https://github.com/ayush221b/newsline)
-2. [iGit](https://github.com/git-up/GitUp)
-3. [Stepik](https://github.com/StepicOrg/stepik-ios)
-4. [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
-5. [ASETimerSwiftUI](https://github.com/rahulrs0029/ASETimerSwiftUI)
-6. [ExposureNotificationApp](https://developer.apple.com/documentation/exposurenotification/building_an_app_to_notify_users_of_covid-19_exposure)
-7. [DiscussIt](https://github.com/ethanswift/DiscussIt)
-8. [TicTacToe](https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe)
-9. [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer)
-10. [Trello](https://github.com/alfianlosari/KanbanDragDropiOS)
-11. [SimpleLogin](https://github.com/simple-login/Simple-Login-iOS)
-12. [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)
-13. [CZInstagram](https://github.com/geekaurora/CZInstagram)
-14. [a-shell](https://github.com/holzschu/a-shell)
-15. [Emission](https://github.com/e-mission/e-mission-phone)
+1. [EmojiFireplace](https://github.com/neonichu/EmojiFireplace)
+2. [Math Quest](https://github.com/AdnanZahid/Math-Quest-iOS)
+3. [SwiftUIAirtableDemo](https://github.com/zackshapiro/SwiftUIAirtableDemo)
+4. [einmal](https://github.com/incipher/einmal)
+5. [newsline](https://github.com/ayush221b/newsline)
+6. [iGit](https://github.com/git-up/GitUp)
+7. [Stepik](https://github.com/StepicOrg/stepik-ios)
+8. [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
+9. [ASETimerSwiftUI](https://github.com/rahulrs0029/ASETimerSwiftUI)
+10. [ExposureNotificationApp](https://developer.apple.com/documentation/exposurenotification/building_an_app_to_notify_users_of_covid-19_exposure)
+11. [DiscussIt](https://github.com/ethanswift/DiscussIt)
+12. [TicTacToe](https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe)
+13. [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer)
+14. [Trello](https://github.com/alfianlosari/KanbanDragDropiOS)
+15. [SimpleLogin](https://github.com/simple-login/Simple-Login-iOS)
 
 ## Thanks
 
