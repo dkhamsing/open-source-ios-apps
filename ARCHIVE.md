@@ -141,6 +141,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [iOS 11 by Examples](https://github.com/artemnovichkov/iOS-11-by-Examples)
 - [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler)
 - [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler)
+- [IpfsIosAppExample](https://github.com/NeoTeo/IpfsIosAppExample)
 - [iStockcheck](https://github.com/AndrewBennet/iStockcheck)
 - [Jupp](https://github.com/dasdom/Jupp)
 - [Keinex tech blog](https://github.com/opensourceios/Keinex-iOS)
