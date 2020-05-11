@@ -19159,7 +19159,7 @@
       ],
       "description": "Animal Crossing New Horizon items catalogue",
       "source": "https://github.com/Dimillian/ACHNBrowserUI",
-      "itunes:": "https://apps.apple.com/app/ac-helper/id1508764244",
+      "itunes": "https://apps.apple.com/app/ac-helper/id1508764244",
       "license": "apache-2.0",
       "tags": [
         "swift"
