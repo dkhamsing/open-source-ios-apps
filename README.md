@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-997-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2010,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-998-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2011,%202020-lightgrey.svg)
 
 Jump to
 
@@ -6743,7 +6743,7 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://github.com/unixzii/SwiftUI-2048/blob/master/Screenshot.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI): Animal Crossing New Horizon items catalogue  
+- [AC Helper](https://github.com/Dimillian/ACHNBrowserUI): Animal Crossing New Horizon items catalogue  
   <details>
 	<summary><code>swift</code> ⭐</summary>
 
