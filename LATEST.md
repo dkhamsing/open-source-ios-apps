@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [EmojiFireplace](https://github.com/neonichu/EmojiFireplace)
-2. [Math Quest](https://github.com/AdnanZahid/Math-Quest-iOS)
-3. [SwiftUIAirtableDemo](https://github.com/zackshapiro/SwiftUIAirtableDemo)
-4. [einmal](https://github.com/incipher/einmal)
-5. [newsline](https://github.com/ayush221b/newsline)
-6. [iGit](https://github.com/git-up/GitUp)
-7. [Stepik](https://github.com/StepicOrg/stepik-ios)
-8. [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
-9. [ASETimerSwiftUI](https://github.com/rahulrs0029/ASETimerSwiftUI)
-10. [ExposureNotificationApp](https://developer.apple.com/documentation/exposurenotification/building_an_app_to_notify_users_of_covid-19_exposure)
-11. [DiscussIt](https://github.com/ethanswift/DiscussIt)
-12. [TicTacToe](https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe)
-13. [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer)
-14. [Trello](https://github.com/alfianlosari/KanbanDragDropiOS)
-15. [SimpleLogin](https://github.com/simple-login/Simple-Login-iOS)
+1. [IpfsIosAppExample](https://github.com/NeoTeo/IpfsIosAppExample)
+2. [EmojiFireplace](https://github.com/neonichu/EmojiFireplace)
+3. [Math Quest](https://github.com/AdnanZahid/Math-Quest-iOS)
+4. [SwiftUIAirtableDemo](https://github.com/zackshapiro/SwiftUIAirtableDemo)
+5. [einmal](https://github.com/incipher/einmal)
+6. [newsline](https://github.com/ayush221b/newsline)
+7. [iGit](https://github.com/git-up/GitUp)
+8. [Stepik](https://github.com/StepicOrg/stepik-ios)
+9. [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
+10. [ASETimerSwiftUI](https://github.com/rahulrs0029/ASETimerSwiftUI)
+11. [ExposureNotificationApp](https://developer.apple.com/documentation/exposurenotification/building_an_app_to_notify_users_of_covid-19_exposure)
+12. [DiscussIt](https://github.com/ethanswift/DiscussIt)
+13. [TicTacToe](https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe)
+14. [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer)
+15. [Trello](https://github.com/alfianlosari/KanbanDragDropiOS)
 
 ## Thanks
 
