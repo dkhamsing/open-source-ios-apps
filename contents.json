@@ -20105,6 +20105,20 @@
       ],
       "date_added": "May 9 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "IpfsIosAppExample",
+      "category-ids": [
+        "developer"
+      ],
+      "license": "other",
+      "source": "https://github.com/NeoTeo/IpfsIosAppExample",
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "date_added": "May 11 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
