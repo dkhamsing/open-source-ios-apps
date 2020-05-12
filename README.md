@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-998-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2011,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-999-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2012,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4884,6 +4884,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added May 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/dS9aFJL.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit): A set of advanced compositional layouts for UICollectionView with examples (Swift 5.1, iOS 13)  
+  <details>
+	<summary><code>swift</code> ⭐⭐</summary>
+
+	Added May 12, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/jVirus/compositional-layouts-kit/raw/master/cover-composlayouts.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [contacts-mvp-swift](https://github.com/tirupati17/contacts-mvp-swift): Uses the MVP (Model View Presenter) pattern  
