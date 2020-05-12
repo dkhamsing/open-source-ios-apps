@@ -20119,6 +20119,24 @@
       ],
       "date_added": "May 11 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "compositional-layouts-kit",
+      "description": "A set of advanced compositional layouts for UICollectionView with examples (Swift 5.1, iOS 13)",
+      "category-ids": [
+        "sample"
+      ],
+      "source": "https://github.com/jVirus/compositional-layouts-kit",
+      "license": "other",
+      "stars": "mit",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/jVirus/compositional-layouts-kit/raw/master/cover-composlayouts.png"
+      ],
+      "date_added": "May 12 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
