@@ -20153,6 +20153,25 @@
       "date_added": "Mar 13 2020",
       "suggested_by": "@dkhamsing",
       "stars": 1000
+    },
+    {
+      "title": "Movement - Watch Tracker",
+      "description": "To track the accuracy of a mechanical watch",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "react-native",
+        "coreml",
+        "pytorch"
+      ],
+      "source": "https://github.com/steadicat/pytorch-coreml-example",
+      "itunes": "https://apps.apple.com/app/movement-watch-tracker/id1329445157",
+      "screenshots": ["https://i.imgur.com/2ybNLcs.png"],
+      "license": "other",
+      "date_added": "Mar 13 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 123
     }
   ]
 }
