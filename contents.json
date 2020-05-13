@@ -20137,6 +20137,22 @@
       ],
       "date_added": "May 12 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "AR Cut & Paste",
+      "description": "Cut and paste your surroundings using AR",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "react-native",
+        "arkit"
+      ],
+      "source": "https://github.com/cyrildiagne/ar-cutpaste",
+      "license": "mit",
+      "date_added": "Mar 13 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 1000
     }
   ]
 }
