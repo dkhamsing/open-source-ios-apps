@@ -20161,7 +20161,7 @@
         "audio"
       ],
       "tags": ["swift"],
-      "description": "iOS music player app that downloads music from the internet, even YouTube",
+      "description": "Music player that downloads from the internet, even YouTube",
       "source": "https://github.com/youstanzr/YouTag",
       "screenshots": ["https://github.com/youstanzr/YouTag/raw/master/Images/screenshot_banner.png"],
       "license": "mit",
