@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1000-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2013,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1003-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2014,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3643,6 +3643,14 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/MoZhouqi/VoiceMemos/master/Screenshots/recording.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [YouTag](https://github.com/youstanzr/YouTag): Music player that downloads from the internet, even YouTube  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added May 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/youstanzr/YouTag/raw/master/Images/screenshot_banner.png'><code>Screenshot 1</code></a> 
+  </details>
+
 
 ### Content 
  
@@ -3694,6 +3702,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added December 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cdn-images-1.medium.com/max/800/1*0TkH9-Guo_A_hdlI9UEnvQ.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [fastmdb](https://github.com/dkhamsing/fastmdb): :Fast app to browse movies, tv, people, credits  
+  <details>
+	<summary><code>swift</code> <code>tmdb</code> </summary>
+
+	Added May 13, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/Kc7V03d.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Homepok](https://github.com/iAlexander/Homepok): Catalog of Ukrainian vehicle plates  
@@ -6470,6 +6486,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 	Added March 27, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://maximenory.com/public/mwpreview2.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Movement - Watch Tracker](https://github.com/steadicat/pytorch-coreml-example): To track the accuracy of a mechanical watch [` App Store`](https://apps.apple.com/app/movement-watch-tracker/id1329445157)  
+  <details>
+	<summary><code>react-native</code> <code>coreml</code> <code>pytorch</code> ⭐</summary>
+
+	Added March 13, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/2ybNLcs.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [movieapp](https://github.com/JuneDomingo/movieapp): Discover movies & tv shows  
