@@ -20190,6 +20190,19 @@
       "license": "mit",
       "date_added": "May 13, 2020",
       "suggested_by": "@dkhamsing"
+}, {
+	    "title": "YouTag",
+    	"category-ids": [
+        "media",
+        "audio"
+      ],
+      "tags": ["swift"],
+      "description": "Music player that downloads from the internet, even YouTube",
+      "source": "https://github.com/youstanzr/YouTag",
+      "screenshots": ["https://github.com/youstanzr/YouTag/raw/master/Images/screenshot_banner.png"],
+      "license": "mit",
+      "date_added": "May 14 2020",
+      "suggested_by": "@youstanzr"
     }
   ]
 }
