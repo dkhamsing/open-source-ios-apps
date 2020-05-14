@@ -20172,6 +20172,24 @@
       "date_added": "Mar 13 2020",
       "suggested_by": "@dkhamsing",
       "stars": 123
+    },
+    {
+      "title": "fastmdb",
+      "category-ids": [
+        "content"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/Kc7V03d.png"
+      ],
+      "tags": [
+        "swift",
+        "tmdb"
+      ],
+      "description": ":Fast app to browse movies, tv, people, credits",
+      "source": "https://github.com/dkhamsing/fastmdb",
+      "license": "mit",
+      "date_added": "May 13, 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
