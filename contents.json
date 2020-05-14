@@ -20193,7 +20193,6 @@
 }, {
 	    "title": "YouTag",
     	"category-ids": [
-        "media",
         "audio"
       ],
       "tags": ["swift"],
