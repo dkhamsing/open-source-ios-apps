@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **247** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **248** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -2666,6 +2666,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 	Added March 27, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://maximenory.com/public/mwpreview2.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Movement - Watch Tracker](https://github.com/steadicat/pytorch-coreml-example): To track the accuracy of a mechanical watch [` App Store`](https://apps.apple.com/app/movement-watch-tracker/id1329445157)  
+  <details>
+	<summary><code>react-native</code> <code>coreml</code> <code>pytorch</code> ⭐</summary>
+
+	Added March 13, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/2ybNLcs.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [PokeDB](https://github.com/satya164/PocketGear): Clean and simple Pokédex app for Pokémon GO [` App Store`](https://apps.apple.com/app/pocketdex-for-pok%C3%A9mon-go/id1255564898)  
