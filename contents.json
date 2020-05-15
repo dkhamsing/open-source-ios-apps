@@ -20185,7 +20185,7 @@
         "swift",
         "tmdb"
       ],
-      "description": "Fast app to browse movies, tv, people, credits",
+      "description": "Fast app to browse and search movies, tv, people, credits",
       "source": "https://github.com/dkhamsing/fastmdb",
       "license": "mit",
       "date_added": "May 13, 2020",
