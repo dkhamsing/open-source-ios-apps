@@ -20202,6 +20202,24 @@
       "license": "mit",
       "date_added": "May 14 2020",
       "suggested_by": "@youstanzr"
+    },
+    {
+      "title": "Bristol Pound",
+      "description": "Simple and convenient way to pay in Bristol Pounds while supporting local businesses",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "source": "https://gitlab.com/TownPound/Cyclos/ScottLogic.mobile.react-native/BristolPound",
+      "itunes": "https://apps.apple.com/gb/app/bristol-pound/id1230035185",
+      "screenshots": [
+        "blob:https://imgur.com/849b0cc9-bdb7-4af6-a1da-a1888601b37d"
+      ],
+      "license": "mit",
+      "date_added": "Mar 14 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
