@@ -2634,7 +2634,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<summary><code>react-native</code> </summary>
 
 	Added March 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='blob:https://imgur.com/849b0cc9-bdb7-4af6-a1da-a1888601b37d'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/oo53yWF.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Bíóhúsið](https://github.com/birkir/kvikmyndr-app): See movie showtimes in Iceland [` App Store`](https://apps.apple.com/app/biohusi/id1112946298)  
