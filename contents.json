@@ -20234,6 +20234,20 @@
       "license": "other",
       "date_added": "May 15 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Gifzat",
+      "category-ids": [
+        "gif"
+      ],
+      "tags": [
+        "objc",
+        "archive"
+      ],
+      "source": "https://github.com/remirobert/Gifzat",
+      "license": "mit",
+      "date_added": "May 16 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
