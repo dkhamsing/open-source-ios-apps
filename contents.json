@@ -20220,6 +20220,20 @@
       "license": "mit",
       "date_added": "Mar 14 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "f.lux",
+      "category-ids": [
+        "color"
+      ],
+      "tags": [
+        "objc",
+        "archive"
+      ],
+      "source": "https://github.com/jefferyleo/f.lux",
+      "license": "other",
+      "date_added": "May 15 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
