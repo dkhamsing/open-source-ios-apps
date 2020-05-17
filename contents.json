@@ -20245,6 +20245,20 @@
       "license": "mit",
       "date_added": "May 16 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "QRGen",
+      "category-ids": [
+        "scan"
+      ],
+      "description": "Read, generate QR codes",
+      "source": "https://github.com/lojals/QRGen",
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "May 17 20202",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
