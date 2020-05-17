@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **249** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **246** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -505,14 +505,6 @@ Click ► to show more details
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/74/06/aa/7406aaa2-1913-c66a-3896-b1bcc6f48f23/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/15/71/51/1571512a-a119-11e5-e5c5-7ddc15528ec9/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1b/5f/7e/1b5f7e20-5478-6d36-a8e9-6353a37d94e9/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a0/0b/99/a00b99a7-cb8c-2e54-802b-e828743e22bb/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/85/3b/b4/853bb4b2-3317-17b1-5ed5-7a12a5be6ca6/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Pisth](https://github.com/ColdGrub1384/Pisth): SSH and SFTP client [` App Store`](https://apps.apple.com/app/pisth/id1331070425)  
-  <details>
-	<summary><code>swift</code> <code>javascript</code> <code>html</code> ⭐⭐</summary>
-
-	https://pisth.github.io<br>  Added January 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://pisth.github.io/apt/screenshots.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [TLS Inspector](https://github.com/certificate-helper/tls-inspector): Verify the secure connection information of any website and ensure that your information is private [` App Store`](https://apps.apple.com/app/apple-store/id1100539810)  
   <details>
 	<summary><code>c</code> <code>objc</code> <code>c++</code> </summary>
@@ -564,14 +556,6 @@ Click ► to show more details
 
 	Added July  5, 2017<br>  License: `other`<br>
 	<a href='https://i.imgur.com/XwW4MI2.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/sFgTFJX.png'><code>Screenshot 2</code></a> 
-  </details>
-
-- [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub [` App Store`](https://apps.apple.com/app/tiny-github/id1461424565)  
-  <details>
-	<summary><code>swift</code> <code>rxswift</code> <code>mvvm-c</code> <code>clean-architecture</code> ⭐⭐</summary>
-
-	Added May  1, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://user-images.githubusercontent.com/15151687/57021987-bc1e1f00-6c68-11e9-8d43-25beb9465284.jpg'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021990-c17b6980-6c68-11e9-8b56-852508131809.jpg'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021992-c3452d00-6c68-11e9-8b54-0f01dd887622.jpg'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021995-c4765a00-6c68-11e9-8b95-f3087c8b8e37.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [GitPoint](https://github.com/gitpoint/git-point): GitHub app with a minimal & beautiful UI [` App Store`](https://apps.apple.com/app/gitpoint/id1251245162)  
@@ -1052,14 +1036,6 @@ Today Extensions or Widgets — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/07/e4/58/07e4582c-8d94-330e-011a-81f2919c9a0a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/1e/2f/39/1e2f3975-b854-bd43-b00f-b32a9384d2ae/mzl.cctldxos.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple18/v4/af/e6/a5/afe6a5cd-df5c-5ff2-a181-3e497e7b24ee/mzl.mczqcdkn.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple18/v4/a0/57/79/a0577976-a6d6-42b5-1153-4ccdba93a5e4/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/24/9e/c3/249ec345-2044-b21c-bd09-f7469986aea8/mzl.qlsmijad.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [FityIt](https://github.com/txaiwieser/FityIt): Challenging shapes game of skill and reflexes [` App Store`](https://apps.apple.com/app/fityit-the-shapes-game/id991444581)  
-  <details>
-	<summary><code>swift</code> <code>spritekit</code> <code>game</code> <code>animation</code> </summary>
-
-	Added May 28, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-1-GameScreen.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-2-GameScreen.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-3-GameScreen.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-4-GameScreen.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-5-GameScreen.png'><code>Screenshot 5</code></a> 
-  </details>
-
 - [Frotz](https://github.com/ifrotz/iosfrotz): Play hundreds of free works of Interactive Fiction (text adventure games) [` App Store`](https://apps.apple.com/app/id287653015)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -1174,14 +1150,6 @@ http://cocos2d.org/ — [back to top](#readme)
  
 https://developer.apple.com/reference/spritekit — [back to top](#readme) 
  
-- [FityIt](https://github.com/txaiwieser/FityIt): Challenging shapes game of skill and reflexes [` App Store`](https://apps.apple.com/app/fityit-the-shapes-game/id991444581)  
-  <details>
-	<summary><code>swift</code> <code>spritekit</code> <code>game</code> <code>animation</code> </summary>
-
-	Added May 28, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-1-GameScreen.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-2-GameScreen.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-3-GameScreen.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-4-GameScreen.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-5-GameScreen.png'><code>Screenshot 5</code></a> 
-  </details>
-
 - [Oh My Plane](https://github.com/softdevstory/OhMyPlane): A game like flappy bird [` App Store`](https://apps.apple.com/app/oh-my-plane/id1100985506)  
   <details>
 	<summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> </summary>
@@ -2020,14 +1988,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added May  3, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d2/41/58/d241583e-61f6-5acc-19e4-fcd7fbbdddc7/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/81/b0/45/81b045f4-bc98-8c9f-9662-eae1b8cbba4b/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bf/c5/e6/bfc5e69c-4303-de2d-8c95-8025c3e85b02/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
-  </details>
-
-- [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub [` App Store`](https://apps.apple.com/app/tiny-github/id1461424565)  
-  <details>
-	<summary><code>swift</code> <code>rxswift</code> <code>mvvm-c</code> <code>clean-architecture</code> ⭐⭐</summary>
-
-	Added May  1, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://user-images.githubusercontent.com/15151687/57021987-bc1e1f00-6c68-11e9-8d43-25beb9465284.jpg'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021990-c17b6980-6c68-11e9-8b56-852508131809.jpg'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021992-c3452d00-6c68-11e9-8b54-0f01dd887622.jpg'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021995-c4765a00-6c68-11e9-8b95-f3087c8b8e37.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles): Interactive diagrams of Rx Observables [` App Store`](https://apps.apple.com/app/rxmarbles/id1087272442)  
