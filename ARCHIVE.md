@@ -108,6 +108,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Furni](https://github.com/opensourceios/furni-ios)
 - [FuseCloud](https://github.com/fusetools/FuseCloud)
 - [gbible](https://github.com/photokandyStudios/gbible)
+- [Gifzat](https://github.com/remirobert/Gifzat)
 - [GitBucket](https://github.com/leichunfeng/MVVMReactiveCocoa)
 - [github-issues](https://github.com/chriseidhof/github-issues)
 - [GlucoSuccess](https://github.com/ResearchKit/GlucoSuccess)
