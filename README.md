@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1005-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2016,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1006-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2017,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1273,7 +1273,7 @@ Click ► to show more details
 	<a href='https://i.imgur.com/dJg21TF.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Pisth](https://github.com/ColdGrub1384/Pisth): SSH and SFTP client [` App Store`](https://apps.apple.com/app/pisth/id1331070425)  
+- [Pisth](https://github.com/ColdGrub1384/Pisth): SSH and SFTP client  
   <details>
 	<summary><code>swift</code> <code>javascript</code> <code>html</code> ⭐⭐</summary>
 
@@ -1436,7 +1436,7 @@ Click ► to show more details
 	<a href='http://a1.mzstatic.com/us/r30/Purple18/v4/88/b6/8a/88b68a7f-d3d8-e51b-9918-cb886b7a4a24/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub [` App Store`](https://apps.apple.com/app/tiny-github/id1461424565)  
+- [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub  
   <details>
 	<summary><code>swift</code> <code>rxswift</code> <code>mvvm-c</code> <code>clean-architecture</code> ⭐⭐</summary>
 
@@ -2428,7 +2428,7 @@ Today Extensions or Widgets — [back to top](#readme)
 	<a href='https://i.imgur.com/MZZeHCf.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [FityIt](https://github.com/txaiwieser/FityIt): Challenging shapes game of skill and reflexes [` App Store`](https://apps.apple.com/app/fityit-the-shapes-game/id991444581)  
+- [FityIt](https://github.com/txaiwieser/FityIt): Challenging shapes game of skill and reflexes  
   <details>
 	<summary><code>swift</code> <code>spritekit</code> <code>game</code> <code>animation</code> </summary>
 
@@ -2732,7 +2732,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [FityIt](https://github.com/txaiwieser/FityIt): Challenging shapes game of skill and reflexes [` App Store`](https://apps.apple.com/app/fityit-the-shapes-game/id991444581)  
+- [FityIt](https://github.com/txaiwieser/FityIt): Challenging shapes game of skill and reflexes  
   <details>
 	<summary><code>swift</code> <code>spritekit</code> <code>game</code> <code>animation</code> </summary>
 
@@ -4735,7 +4735,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://i.imgur.com/611wefH.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub [` App Store`](https://apps.apple.com/app/tiny-github/id1461424565)  
+- [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub  
   <details>
 	<summary><code>swift</code> <code>rxswift</code> <code>mvvm-c</code> <code>clean-architecture</code> ⭐⭐</summary>
 
