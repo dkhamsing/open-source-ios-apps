@@ -20259,6 +20259,24 @@
       ],
       "date_added": "May 17 20202",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "GitHub contributions widget",
+      "category-ids": [
+        "today"
+      ],
+      "source": "https://github.com/fimuxd/GITGET",
+      "itunes": "https://apps.apple.com/app/gitget/id1317170245",
+      "screenshots": ["https://i.imgur.com/16yLR0l.png"],
+      "license": "other",
+      "tags": [
+        "swift",
+        "firebase",
+        "alamofire",
+        "swiftyjson"
+      ],
+      "date_added": "May 17 20202",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
