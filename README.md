@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1006-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2017,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1007-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2018,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2162,6 +2162,14 @@ Today Extensions or Widgets — [back to top](#readme)
 
 	Added December 21, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/vkaltyrin/exchanger/blob/master/screenshot.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [MoneyPlus](https://github.com/SeekingMini/MoneyPlus): An app which can help you record income and expense.  
+  <details>
+	<summary></summary>
+
+	Added May 17, 2020<br>
+	<a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Neverlate](https://github.com/ayunav/Neverlate): Pay-if-U-R-late app with geofences  
