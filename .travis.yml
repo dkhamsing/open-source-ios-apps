@@ -6,7 +6,7 @@ before_script:
 script:
   - ruby .github/osia_get_links.rb
   - awesome_bot check-unique.txt --allow-ssl -a 302,429 -w xbmc/xbmc
-  - awesome_bot check-links.txt  --allow-ssl -a 403,429 --allow-dupe -w stepik
+  - awesome_bot check-links.txt  --allow-ssl -a 403,429 --allow-dupe -w stepik,cozy.io
 after_script:
   - awesome_bot check-info.txt -a 403,429
   - danger
