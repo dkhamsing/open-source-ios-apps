@@ -20287,6 +20287,20 @@
       ],
       "date_added": "May 17 20202",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "AlarmClock",
+      "category-ids": [
+        "clock"
+      ],
+      "tags": [
+        "objc",
+        "archive"
+      ],
+      "source": "https://github.com/robbiehanson/AlarmClock",
+      "license": "mit",
+      "date_added": "May 18 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
