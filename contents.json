@@ -2226,6 +2226,15 @@
       ]
     },
     {
+      "title": "MoneyPlus",
+      "category-ids": ["finance"],
+      "description": "An app which can help you record income and expense.",
+      "source": "https://github.com/SeekingMini/MoneyPlus",
+      "screenshots": ["https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png"],
+      "date_added": "May 17 2020",
+      "suggested_by": "@SeekingMini"
+    },
+    {
       "title": "Savings Assistant",
       "category-ids": [
         "finance"
