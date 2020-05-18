@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **246** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **247** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -830,6 +830,14 @@ Today Extensions or Widgets — [back to top](#readme)
 
 	Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/97/bc/c597bc2d-339c-8463-e7e7-f47fe7f6f770/mzl.uhkigexq.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/08/a6/aa/08a6aa5a-6a45-fcb0-5e75-c78fc2a10d67/mzl.ckjxbwfu.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8e/72/69/8e72696d-fae0-0f81-4868-aa281ba30866/mzl.ucpnawyo.png/460x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
+- [GitHub contributions widget](https://github.com/fimuxd/GITGET) [` App Store`](https://apps.apple.com/app/gitget/id1317170245)  
+  <details>
+	<summary><code>swift</code> <code>firebase</code> <code>alamofire</code> <code>swiftyjson</code> </summary>
+
+	Added May 17, 20202<br>  License: `other`<br>
+	<a href='https://i.imgur.com/16yLR0l.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [VPN On](https://github.com/lexrus/VPNOn): Extension to turn on VPN [` App Store`](https://apps.apple.com/app/vpn-on/id951344279)  
