@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [MoneyPlus](https://github.com/SeekingMini/MoneyPlus)
-2. [Gifzat](https://github.com/remirobert/Gifzat)
-3. [f.lux](https://github.com/jefferyleo/f.lux)
-4. [YouTag](https://github.com/youstanzr/YouTag)
-5. [fastmdb](https://github.com/dkhamsing/fastmdb)
-6. [compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit)
-7. [IpfsIosAppExample](https://github.com/NeoTeo/IpfsIosAppExample)
-8. [EmojiFireplace](https://github.com/neonichu/EmojiFireplace)
-9. [Math Quest](https://github.com/AdnanZahid/Math-Quest-iOS)
-10. [SwiftUIAirtableDemo](https://github.com/zackshapiro/SwiftUIAirtableDemo)
-11. [einmal](https://github.com/incipher/einmal)
-12. [newsline](https://github.com/ayush221b/newsline)
-13. [iGit](https://github.com/git-up/GitUp)
-14. [Stepik](https://github.com/StepicOrg/stepik-ios)
-15. [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
+1. [GitHub contributions widget](https://github.com/fimuxd/GITGET)
+2. [QRGen](https://github.com/lojals/QRGen)
+3. [MoneyPlus](https://github.com/SeekingMini/MoneyPlus)
+4. [Gifzat](https://github.com/remirobert/Gifzat)
+5. [f.lux](https://github.com/jefferyleo/f.lux)
+6. [YouTag](https://github.com/youstanzr/YouTag)
+7. [fastmdb](https://github.com/dkhamsing/fastmdb)
+8. [compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit)
+9. [IpfsIosAppExample](https://github.com/NeoTeo/IpfsIosAppExample)
+10. [EmojiFireplace](https://github.com/neonichu/EmojiFireplace)
+11. [Math Quest](https://github.com/AdnanZahid/Math-Quest-iOS)
+12. [SwiftUIAirtableDemo](https://github.com/zackshapiro/SwiftUIAirtableDemo)
+13. [einmal](https://github.com/incipher/einmal)
+14. [newsline](https://github.com/ayush221b/newsline)
+15. [iGit](https://github.com/git-up/GitUp)
 
 ## Thanks
 
