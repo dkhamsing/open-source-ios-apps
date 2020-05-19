@@ -20316,6 +20316,19 @@
       ],
       "date_added": "May 18 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "ReactKitCalculator",
+      "category-ids": [
+        "clone"
+      ],
+      "license": "other",
+      "source": "https://github.com/ReactKit/ReactKitCalculator",
+      "tags": [
+        "archive"
+      ],
+      "date_added": "May 19 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
