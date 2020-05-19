@@ -20301,6 +20301,21 @@
       "license": "mit",
       "date_added": "May 18 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Travel Guide",
+      "category-ids": [
+        "flutter",
+        "travel"
+      ],
+      "license": "other",
+      "source": "https://github.com/Ivaskuu/travel-guide_app",
+      "screenshots": ["https://github.com/Ivaskuu/travel-guide_app/raw/master/screenshots/flutter_02.png"],
+      "tags": [
+        "flutter"
+      ],
+      "date_added": "May 18 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
