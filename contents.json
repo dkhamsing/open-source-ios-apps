@@ -20346,6 +20346,24 @@
       "license": "other",
       "date_added": "May 19 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "reddift",
+      "category-ids": [
+        "news"
+      ],
+      "description": "Reddit browser, search, comments",
+      "license": "mit",
+      "source": "https://github.com/sonsongithub/reddift",
+      "stars": 208,
+      "tags": [
+        "swift"
+      ],
+      "date_added": "May 6 2018",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://cloud.githubusercontent.com/assets/33768/22405496/0c84f384-e687-11e6-9658-5ebf9d39a082.gif"
+      ]
     }
   ]
 }
