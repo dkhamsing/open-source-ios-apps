@@ -20329,6 +20329,23 @@
       ],
       "date_added": "May 19 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Gasoline",
+      "category-ids": [
+        "finance"
+      ],
+      "description": "Track your gas expense",
+      "source": "https://github.com/Blackjacx/Gasoline",
+      "tags": [
+        "swift",
+        "swiftlint",
+        "quick",
+        "nimble"
+      ],
+      "license": "other",
+      "date_added": "May 19 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
