@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1009-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2018,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1011-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2019,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2172,9 +2172,9 @@ Today Extensions or Widgets — [back to top](#readme)
 	<a href='https://github.com/vkaltyrin/exchanger/blob/master/screenshot.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [MoneyPlus](https://github.com/SeekingMini/MoneyPlus): An app which can help you record income and expense.  
+- [MoneyPlus](https://github.com/SeekingMini/MoneyPlus): Help you record income and expense  
   <details>
-	<summary></summary>
+	<summary><code>swift</code> </summary>
 
 	Added May 17, 2020<br>
 	<a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'><code>Screenshot 1</code></a> 
@@ -5793,6 +5793,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://themoji.me/ThemojiIdea.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [Travel Guide](https://github.com/Ivaskuu/travel-guide_app)  
+  <details>
+	<summary><code>flutter</code> </summary>
+
+	Added May 18, 2020<br>  License: `other`<br>
+	<a href='https://github.com/Ivaskuu/travel-guide_app/raw/master/screenshots/flutter_02.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [VisitBCN](https://github.com/maurovc/visitBCN): City guide for Barcelona [` App Store`](https://apps.apple.com/app/visitbcn/id904676442)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -6187,6 +6195,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://i.imgur.com/CJsIdOS.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/rLX3Fsf.png'><code>Screenshot 2</code></a> 
   </details>
 
+- [MoneyPlus](https://github.com/SeekingMini/MoneyPlus): Help you record income and expense  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added May 17, 2020<br>
+	<a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Nested Lists](https://github.com/objcio/issue-4-full-core-data-application)  
   <details>
 	<summary><code>objc</code> ⭐</summary>
@@ -6329,6 +6345,14 @@ https://flutter.dev — [back to top](#readme)
 
 	Added May  8, 2020<br>  License: `other`<br>
 	<a href='https://i.ibb.co/KWG2Fwx/article-details.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Travel Guide](https://github.com/Ivaskuu/travel-guide_app)  
+  <details>
+	<summary><code>flutter</code> </summary>
+
+	Added May 18, 2020<br>  License: `other`<br>
+	<a href='https://github.com/Ivaskuu/travel-guide_app/raw/master/screenshots/flutter_02.png'><code>Screenshot 1</code></a> 
   </details>
 
 
