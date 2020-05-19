@@ -13,6 +13,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Adler Planetarium Navigation & Tour](https://github.com/lucasqiu/Adler-Mobile-App)
 - [AirBnb clone](https://github.com/opensourceios/AirBnb)
 - [Alarm](https://github.com/ChrisChares/swift-alarm)
+- [AlarmClock](https://github.com/robbiehanson/AlarmClock)
 - [AlcatrazTour](https://github.com/haranicle/AlcatrazTour)
 - [Alien Blue](https://github.com/alienblue/AlienBlue)
 - [Alienblast](https://github.com/etamity/AlienBlast)
