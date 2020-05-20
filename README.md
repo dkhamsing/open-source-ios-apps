@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1011-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2020,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1012-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2020,%202020-lightgrey.svg)
 
 Jump to
 
@@ -924,6 +924,14 @@ Click ► to show more details
 
 	Added August 22, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/48/5f/07/485f073c-1bd4-acdb-127f-0bd5d266d359/mzl.gqlurkmf.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/cc/b4/b8/ccb4b8a4-f912-b4a7-d69f-1f9fda24f368/mzl.whsepbnn.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/93/7c/fc/937cfca3-14fd-0a4e-0690-ab02d07452ee/mzl.wkqxfgho.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/49/12/40/4912400a-b408-3bf2-cf8a-8ecdefb858c0/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
+  </details>
+
+- [Mattermost](https://github.com/mattermost/mattermost-mobile): Secure messaging platform for DevOps teams [` App Store`](https://apps.apple.com/us/app/mattermost/id1257222717)  
+  <details>
+	<summary><code>react-native</code> ⭐⭐⭐⭐</summary>
+
+	Added May 20, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://user-images.githubusercontent.com/13119842/82450764-1c9e1b00-9a7b-11ea-83d2-b835bf51c727.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/13119842/82450847-38092600-9a7b-11ea-92a8-52cf92fb137b.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/13119842/82450869-3e979d80-9a7b-11ea-81ea-0780c7a612f7.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/13119842/82450896-47886f00-9a7b-11ea-92f4-da9e5553f469.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [mChat](https://github.com/realpaliy/mChat): Real-time messaging app using firebase  
@@ -6533,6 +6541,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/51/43/ef/5143ef6b-cb73-4c3f-32ad-619f15073704/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/be/49/b0/be49b0f5-9c45-34d1-a672-7d489b6a11a7/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/02/ad/4a02ad71-965b-f094-1381-22054028ada4/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/57/c7/5057c7f3-0bfe-41f2-0760-fe1b261e27c3/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
+  </details>
+
+- [Mattermost](https://github.com/mattermost/mattermost-mobile): Secure messaging platform for DevOps teams [` App Store`](https://apps.apple.com/us/app/mattermost/id1257222717)  
+  <details>
+	<summary><code>react-native</code> ⭐⭐⭐⭐</summary>
+
+	Added May 20, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://user-images.githubusercontent.com/13119842/82450764-1c9e1b00-9a7b-11ea-83d2-b835bf51c727.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/13119842/82450847-38092600-9a7b-11ea-92a8-52cf92fb137b.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/13119842/82450869-3e979d80-9a7b-11ea-81ea-0780c7a612f7.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/13119842/82450896-47886f00-9a7b-11ea-92f4-da9e5553f469.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [Moonwalk](https://github.com/illu/moonwalk): A simple way to stay up to date with upcoming space launches [` App Store`](https://apps.apple.com/app/moonwalk-rocket-launches/id1439376174)  
