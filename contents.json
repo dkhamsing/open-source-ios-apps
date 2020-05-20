@@ -20318,6 +20318,7 @@
       "suggested_by": "@dkhamsing"
     },
     {
+
       "title": "ReactKitCalculator",
       "category-ids": [
         "clone"
@@ -20364,6 +20365,28 @@
       "screenshots": [
         "https://cloud.githubusercontent.com/assets/33768/22405496/0c84f384-e687-11e6-9658-5ebf9d39a082.gif"
       ]
+    },{
+      "title": "Mattermost",
+      "category-ids": [
+        "communication",
+        "react-native"
+      ],
+      "description": "Secure messaging platform for DevOps teams",
+      "license": "apache-2.0",
+      "source": "https://github.com/mattermost/mattermost-mobile",
+      "itunes": "https://apps.apple.com/us/app/mattermost/id1257222717",
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": [
+        "https://user-images.githubusercontent.com/13119842/82450764-1c9e1b00-9a7b-11ea-83d2-b835bf51c727.png",
+        "https://user-images.githubusercontent.com/13119842/82450847-38092600-9a7b-11ea-92a8-52cf92fb137b.png",
+        "https://user-images.githubusercontent.com/13119842/82450869-3e979d80-9a7b-11ea-81ea-0780c7a612f7.png",
+        "https://user-images.githubusercontent.com/13119842/82450896-47886f00-9a7b-11ea-92f4-da9e5553f469.png"
+      ],
+      "stars": 1083,
+      "date_added": "May 20 2020",
+      "suggested_by": "@jasonblais"
     }
   ]
 }
