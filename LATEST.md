@@ -3,10 +3,10 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [GitHub contributions widget](https://github.com/fimuxd/GITGET)
-2. [QRGen](https://github.com/lojals/QRGen)
-3. [Travel Guide](https://github.com/Ivaskuu/travel-guide_app)
-4. [AlarmClock](https://github.com/robbiehanson/AlarmClock)
+1. [QRGen](https://github.com/lojals/QRGen)
+2. [Travel Guide](https://github.com/Ivaskuu/travel-guide_app)
+3. [AlarmClock](https://github.com/robbiehanson/AlarmClock)
+4. [GitHub contributions widget](https://github.com/fimuxd/GITGET)
 5. [MoneyPlus](https://github.com/SeekingMini/MoneyPlus)
 6. [Gifzat](https://github.com/remirobert/Gifzat)
 7. [f.lux](https://github.com/jefferyleo/f.lux)
