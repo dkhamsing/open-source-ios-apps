@@ -18734,10 +18734,13 @@
         "communication"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "firebase",
+        "lottie",
+        "mapbox"
       ],
       "description": "Real-time messaging app using firebase",
-      "source": "https://github.com/realpaliy/mChat",
+      "source": "https://github.com/realpaliy/Messenger",
       "screenshots": [
         "https://imgur.com/uvinWB9"
       ],
@@ -20318,7 +20321,6 @@
       "suggested_by": "@dkhamsing"
     },
     {
-
       "title": "ReactKitCalculator",
       "category-ids": [
         "clone"
