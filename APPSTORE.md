@@ -836,7 +836,7 @@ Today Extensions or Widgets — [back to top](#readme)
   <details>
 	<summary><code>swift</code> <code>firebase</code> <code>alamofire</code> <code>swiftyjson</code> </summary>
 
-	Added May 17, 20202<br>  License: `other`<br>
+	Added May 17, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/16yLR0l.png'><code>Screenshot 1</code></a> 
   </details>
 
