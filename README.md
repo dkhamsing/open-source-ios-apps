@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1011-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2019,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1011-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2020,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2031,7 +2031,7 @@ Today Extensions or Widgets — [back to top](#readme)
   <details>
 	<summary><code>swift</code> <code>firebase</code> <code>alamofire</code> <code>swiftyjson</code> </summary>
 
-	Added May 17, 20202<br>  License: `other`<br>
+	Added May 17, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/16yLR0l.png'><code>Screenshot 1</code></a> 
   </details>
 
