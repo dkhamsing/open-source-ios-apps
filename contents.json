@@ -20408,6 +20408,25 @@
       "stars": 63,
       "date_added": "May 21 2020",
       "suggested_by": "@th3m"
+    },
+    {
+      "title": "Jitsi Meet",
+      "category-ids": [
+        "react-native"
+      ],
+      "description": "Video meetings for everyone",
+      "license": "apache-2.0",
+      "source": "https://github.com/jitsi/jitsi-meet",
+      "itunes": "https://apps.apple.com/app/jitsi-meet/id1165103905",
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/DVck5BI.png"
+        ],
+      "stars": 11800,
+      "date_added": "May 21 2020",
+      "suggested_by": "@th3m"
     }
   ]
 }
