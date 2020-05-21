@@ -220,6 +220,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [RainMan](https://github.com/Aaron-A/Project-RainMan)
 - [ReactiveHackerNews](https://github.com/syshen/ReactiveHackerNews)
 - [ReactiveKitten](https://github.com/JensRavens/ReactiveKitten)
+- [ReactKitCalculator](https://github.com/ReactKit/ReactKitCalculator)
 - [RealmPop](https://github.com/realm/RealmPop)
 - [RealmTasks](https://github.com/realm/realm-tasks)
 - [Reddit](https://github.com/amitburst/reddit-demo)
