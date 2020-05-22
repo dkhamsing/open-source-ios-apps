@@ -20445,6 +20445,23 @@
       ],
       "date_added": "May 21 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Amaroq",
+      "category-ids": [
+        "mastodon"
+      ],
+      "description": "Lightweight universal client for any Mastodon instance",
+      "license": "mpl-2.0",
+      "source": "https://github.com/ReticentJohn/Amaroq",
+      "itunes": "https://apps.apple.com/app/amaroq-for-mastodon/id1214116200",
+      "tags": [
+        "objc"
+      ],
+      "screenshots": ["https://i.imgur.com/uesvdd4.png"],
+      "stars": 205,
+      "date_added": "May 22 2020",
+      "suggested_by": "@th3m"
     }
   ]
 }
