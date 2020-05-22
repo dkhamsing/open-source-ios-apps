@@ -20427,6 +20427,24 @@
       "stars": 11800,
       "date_added": "May 21 2020",
       "suggested_by": "@th3m"
+    },
+    {
+      "title": "SwiftUI_Tasks",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Simple To-do's with SwiftUI, Combine and Core Data",
+      "source": "https://github.com/shankarmadeshvaran/SwiftUI_Tasks",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "core-data"
+      ],
+      "screenshots": [
+        "https://github.com/shankarmadeshvaran/SwiftUI_Tasks/raw/master/ToDo-tasks.gif"
+      ],
+      "date_added": "May 21 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
