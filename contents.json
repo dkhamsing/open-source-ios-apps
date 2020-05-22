@@ -20521,6 +20521,20 @@
       "stars": 13000,
       "date_added": "May 22 2020",
       "suggested_by": "@th3m"
+    },
+    {
+      "title": "AfishaLviv",
+      "category-ids": [
+        "media"
+      ],
+      "tags": [
+        "objc",
+        "archive"
+      ],
+      "source": "https://github.com/danylokos/AfishaLviv-iOS",
+      "license": "other",
+      "date_added": "May 22 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
