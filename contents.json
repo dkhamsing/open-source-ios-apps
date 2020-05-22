@@ -20462,6 +20462,20 @@
       "stars": 205,
       "date_added": "May 22 2020",
       "suggested_by": "@th3m"
+    },
+    {
+      "title": "SelfieAssist",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "objc",
+        "archive"
+      ],
+      "source": "https://github.com/mxcl/SelfieAssist",
+      "license": "other",
+      "date_added": "May 22 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
