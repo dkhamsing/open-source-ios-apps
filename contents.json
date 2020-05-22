@@ -20476,6 +20476,26 @@
       "license": "other",
       "date_added": "May 22 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Mast",
+      "category-ids": [
+        "mastodon"
+      ],
+      "description": "Beautiful Mastodon app built with macOS design guidelines in mind",
+      "license": "gpl-3.0",
+      "source": "https://github.com/ShihabM/Mast",
+      "itunes": "https://apps.apple.com/app/mast/id1437429129",
+      "tags": [
+        "swift",
+        "ipad",
+        "macos",
+        "watchos"
+      ],
+      "screenshots": ["https://i.imgur.com/DpjNleo.png"],
+      "stars": 172,
+      "date_added": "May 22 2020",
+      "suggested_by": "@th3m"
     }
   ]
 }
