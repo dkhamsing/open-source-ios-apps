@@ -20496,6 +20496,31 @@
       "stars": 172,
       "date_added": "May 22 2020",
       "suggested_by": "@th3m"
+    },
+    {
+      "title": "Session",
+      "category-ids": [
+        "communication"
+      ],
+      "description": "Private messenger",
+      "license": "gpl-3.0",
+      "source": "https://github.com/loki-project/session-ios",
+      "itunes": "https://apps.apple.com/app/session-private-messenger/id1470168868",
+      "tags": [
+        "swift",
+        "objc",
+        "promisekit",
+        "sqlcipher",
+        "mantle",
+        "starscream",
+        "afnetworking",
+        "purelayout",
+        "yyimage"
+      ],
+      "screenshots": ["https://i.imgur.com/TGHbQf1.png"],
+      "stars": 13000,
+      "date_added": "May 22 2020",
+      "suggested_by": "@th3m"
     }
   ]
 }
