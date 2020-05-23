@@ -20535,6 +20535,20 @@
       "license": "other",
       "date_added": "May 22 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Facebook-Pop-Introduction",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "source": "https://github.com/thomasdegry/Facebook-Pop-Introduction",
+      "license": "other",
+      "date_added": "May 23 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
