@@ -20549,6 +20549,21 @@
       "license": "other",
       "date_added": "May 23 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SCRAMApp",
+      "description": "Implements the Salted Challenge Response Authentication Mechanism (SCRAM)",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "source": "https://github.com/SoldoApp/SCRAMApp",
+      "license": "mit",
+      "date_added": "May 23 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
