@@ -20593,6 +20593,20 @@
       ],
       "date_added": "May 23 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "FS-Player",
+      "category-ids": [
+        "media"
+      ],
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "source": "https://github.com/danylokos/FS-Player",
+      "license": "other",
+      "date_added": "May 23 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
