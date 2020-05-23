@@ -20579,6 +20579,20 @@
       "license": "apache-2.0",
       "date_added": "May 23 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SwiftUI-Keyboard-Demo",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "How to add Keyboard Shortcuts UIKeyCommand (SwiftUI)",
+      "source": "https://github.com/emcro/SwiftUI-Keyboard-Demo",
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "May 23 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
