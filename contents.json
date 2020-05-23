@@ -20607,6 +20607,20 @@
       "license": "other",
       "date_added": "May 23 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "MVPTwitterSample",
+      "category-ids": [
+        "social"
+      ],
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "source": "https://github.com/ktanaka117/MVPTwitterSample",
+      "license": "other",
+      "date_added": "May 23 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
