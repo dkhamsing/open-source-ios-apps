@@ -20564,6 +20564,21 @@
       "license": "mit",
       "date_added": "May 23 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Poly API - Samples",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "objc",
+        "arkit",
+        "archive"
+      ],
+      "source": "https://github.com/googlevr/poly-sample-ios",
+      "license": "apache-2.0",
+      "date_added": "May 23 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
