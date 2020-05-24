@@ -20621,6 +20621,20 @@
       "license": "other",
       "date_added": "May 23 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Simplistic",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "source": "https://github.com/e7711bbear/Simplistic",
+      "license": "other",
+      "date_added": "May 23 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
