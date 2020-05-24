@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [AfishaLviv](https://github.com/danylokos/AfishaLviv-iOS)
-2. [Session](https://github.com/loki-project/session-ios)
-3. [Mast](https://github.com/ShihabM/Mast)
-4. [SelfieAssist](https://github.com/mxcl/SelfieAssist)
-5. [Amaroq](https://github.com/ReticentJohn/Amaroq)
-6. [SwiftUI_Tasks](https://github.com/shankarmadeshvaran/SwiftUI_Tasks)
-7. [Jitsi Meet](https://github.com/jitsi/jitsi-meet)
-8. [Raivo OTP](https://github.com/raivo-otp/ios-application)
-9. [Mattermost](https://github.com/mattermost/mattermost-mobile)
-10. [Gasoline](https://github.com/Blackjacx/Gasoline)
-11. [ReactKitCalculator](https://github.com/ReactKit/ReactKitCalculator)
-12. [Travel Guide](https://github.com/Ivaskuu/travel-guide_app)
-13. [AlarmClock](https://github.com/robbiehanson/AlarmClock)
-14. [GitHub contributions widget](https://github.com/fimuxd/GITGET)
-15. [QRGen](https://github.com/lojals/QRGen)
+1. [Simplistic](https://github.com/e7711bbear/Simplistic)
+2. [MVPTwitterSample](https://github.com/ktanaka117/MVPTwitterSample)
+3. [FS-Player](https://github.com/danylokos/FS-Player)
+4. [SwiftUI-Keyboard-Demo](https://github.com/emcro/SwiftUI-Keyboard-Demo)
+5. [Poly API - Samples](https://github.com/googlevr/poly-sample-ios)
+6. [SCRAMApp](https://github.com/SoldoApp/SCRAMApp)
+7. [Facebook-Pop-Introduction](https://github.com/thomasdegry/Facebook-Pop-Introduction)
+8. [AfishaLviv](https://github.com/danylokos/AfishaLviv-iOS)
+9. [Session](https://github.com/loki-project/session-ios)
+10. [Mast](https://github.com/ShihabM/Mast)
+11. [SelfieAssist](https://github.com/mxcl/SelfieAssist)
+12. [Amaroq](https://github.com/ReticentJohn/Amaroq)
+13. [SwiftUI_Tasks](https://github.com/shankarmadeshvaran/SwiftUI_Tasks)
+14. [Jitsi Meet](https://github.com/jitsi/jitsi-meet)
+15. [Raivo OTP](https://github.com/raivo-otp/ios-application)
 
 ## Thanks
 
