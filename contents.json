@@ -20649,6 +20649,20 @@
       "license": "other",
       "date_added": "May 24 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Dictum",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "objc",
+        "archive"
+      ],
+      "source": "https://github.com/matthewpalmer/Dictum",
+      "license": "other",
+      "date_added": "May 24 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
