@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1023-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2023,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1030-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2024,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7025,6 +7025,13 @@ https://realm.io/ — [back to top](#readme)
 
 	Added April 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [SwiftUI-Keyboard-Demo](https://github.com/emcro/SwiftUI-Keyboard-Demo): How to add Keyboard Shortcuts UIKeyCommand (SwiftUI)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added May 23, 2020<br>  License: `other`
   </details>
 
 - [SwiftUI-MovieDB](https://github.com/alfianlosari/SwiftUI-MovieDB): Browse movies, made with SwiftUI, Combine & MovieDB  
