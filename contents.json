@@ -20685,6 +20685,25 @@
       "date_added": "May 24 2020",
       "suggested_by": "@dkhamsing",
       "stars": 219
+    },
+    {
+      "title": "SwipeIt",
+      "category-ids": [
+        "news"
+      ],
+      "description": "Reddit with a swipe",
+      "license": "mit",
+      "source": "https://github.com/ivanbruel/SwipeIt",
+      "stars": 443,
+      "tags": [
+        "swift",
+        "rxswift",
+        "moya",
+        "kingfisher",
+        "snapkit"
+      ],
+      "date_added": "May 25 2018",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
