@@ -7593,7 +7593,7 @@
       "suggested_by": "@xu6148152"
     },
     {
-      "title": "F8 2016",
+      "title": "F8",
       "category-ids": [
         "react-native",
         "official",
@@ -19423,13 +19423,14 @@
     },
     {
       "title": "News API apps",
-      "description": "News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes a tvOS app",
+      "description": "News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes tvOS app, Today widget",
       "category-ids": [
         "news-api",
-        "apple-tv"
+        "apple-tv",
+        "today"
       ],
       "tags": [
-        "swift"
+        "swift", "tvos", "extension"
       ],
       "license": "mit",
       "source": "https://github.com/dkhamsing/news",
@@ -20669,7 +20670,7 @@
       "category-ids": [
         "contact-tracing"
       ],
-      "description": "Contact tracing by the Australian Department of Health",
+      "description": "By the Australian Department of Health",
       "license": "other",
       "source": "https://github.com/AU-COVIDSafe/mobile-ios",
       "itunes": "https://apps.apple.com/au/app/covidsafe/id1509242894",
@@ -20739,7 +20740,7 @@
         "task",
         "swiftui"
       ],
-      "description": "Simple Todo using SwiftUI, Firebase, Redux.",
+      "description": "Simple Todo using SwiftUI, Firebase, Redux",
       "source": "https://github.com/sgr-ksmt/FireTodo",
       "license": "mit",
       "stars": 164,
