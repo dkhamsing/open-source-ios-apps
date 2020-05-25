@@ -20718,6 +20718,20 @@
       "license": "other",
       "date_added": "May 24 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Tripletz Tic Tac Toe",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "source": "https://github.com/Aaron-A/Tripletz",
+      "license": "other",
+      "date_added": "May 24 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
