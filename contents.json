@@ -16485,7 +16485,7 @@
     {
       "title": "Beam",
       "category-ids": [
-        "social"
+        "news"
       ],
       "description": "Enjoy all of Reddit's content in a unique and beautiful package",
       "license": "gpl-2.0",
@@ -18084,7 +18084,7 @@
     {
       "title": "Slide for Reddit",
       "category-ids": [
-        "social"
+        "news"
       ],
       "tags": [
         "swift"
@@ -19048,7 +19048,7 @@
     {
       "title": "reddit-swiftui",
       "category-ids": [
-        "content",
+        "news",
         "swiftui"
       ],
       "description": "Cross-platform Reddit client",
