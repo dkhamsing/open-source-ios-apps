@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **253** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **254** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1232,6 +1232,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 [back to top](#readme) 
  
+- [COVIDSafe](https://github.com/AU-COVIDSafe/mobile-ios): Contact tracing by the Australian Department of Health [` App Store`](https://apps.apple.com/au/app/covidsafe/id1509242894)  
+  <details>
+	<summary><code>swift</code> <code>alamofire</code> <code>keychainswift</code> <code>lottie</code> ⭐⭐</summary>
+
+	Added May 24, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/9xfQb6n.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [rakning-c19-app](https://github.com/aranja/rakning-c19-app): By the Icelandic Government, help analyse individuals’ travel and trace their movements when cases of infection arise [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876)  
   <details>
 	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
