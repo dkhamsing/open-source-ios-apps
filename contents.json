@@ -20732,6 +20732,27 @@
       "license": "other",
       "date_added": "May 24 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "FireTodo",
+      "category-ids": [
+        "task",
+        "swiftui"
+      ],
+      "description": "Simple Todo using SwiftUI, Firebase, Redux.",
+      "source": "https://github.com/sgr-ksmt/FireTodo",
+      "license": "mit",
+      "stars": 164,
+      "tags": [
+        "swift",
+        "firebase",
+        "redux"
+      ],
+      "screenshots": [
+        "https://github.com/sgr-ksmt/FireTodo/blob/master/docs/images/img6.png?raw=true"
+      ],
+      "date_added": "May 25 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
