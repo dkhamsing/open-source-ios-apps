@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1030-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2024,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1033-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2025,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3011,6 +3011,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 [back to top](#readme) 
  
+- [COVIDSafe](https://github.com/AU-COVIDSafe/mobile-ios): Contact tracing by the Australian Department of Health [` App Store`](https://apps.apple.com/au/app/covidsafe/id1509242894)  
+  <details>
+	<summary><code>swift</code> <code>alamofire</code> <code>keychainswift</code> <code>lottie</code> ⭐⭐</summary>
+
+	Added May 24, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/9xfQb6n.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [erouska-ios](https://github.com/covid19cz/erouska-ios): By the Ministry of Health of the Czech Republic  
   <details>
 	<summary><code>swift</code> <code>rxswift</code> <code>bluetooth</code> 🌐 </summary>
