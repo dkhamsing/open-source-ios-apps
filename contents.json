@@ -20753,6 +20753,20 @@
       ],
       "date_added": "May 25 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Flappy Bird using SpriteBuilder",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "objc",
+        "archive"
+      ],
+      "source": "https://github.com/ignotusverum/1w-flappy",
+      "license": "other",
+      "date_added": "May 24 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
