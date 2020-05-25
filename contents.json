@@ -20704,6 +20704,20 @@
       ],
       "date_added": "May 25 2018",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SwiftFanorona",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "source": "https://github.com/jenduf/SwiftFanorona",
+      "license": "other",
+      "date_added": "May 24 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
