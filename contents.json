@@ -20663,6 +20663,28 @@
       "license": "other",
       "date_added": "May 24 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "COVIDSafe",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "description": "Contact tracing by the Australian Department of Health",
+      "license": "other",
+      "source": "https://github.com/AU-COVIDSafe/mobile-ios",
+      "itunes": "https://apps.apple.com/au/app/covidsafe/id1509242894",
+      "tags": [
+        "swift",
+        "alamofire",
+        "keychainswift",
+        "lottie"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/9xfQb6n.png"
+      ],
+      "date_added": "May 24 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 219
     }
   ]
 }
