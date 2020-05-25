@@ -5,6 +5,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 
 - [2048](https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/2048)
 - [2CITY](https://github.com/2city/2CITY-iOS)
+- [8mph](https://github.com/zadr/8mph)
 - [A Menjar](https://github.com/maurovc/aMenjar)
 - [AA-Keyboard](https://github.com/sonsongithub/AAKeyboard)
 - [Abby's Cycle](https://github.com/jc4p/abby-healthkit)
@@ -83,6 +84,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Danbooru Lite](https://github.com/satishbabariya/Danbooru-Lite)
 - [DesireKeyboard](https://github.com/noppefoxwolf/DesireKeyboard)
 - [Dicershaker](https://github.com/millenomi/diceshaker)
+- [Dictum](https://github.com/matthewpalmer/Dictum)
 - [DoctorNearby](https://github.com/vincezzh/doctornearby-ios)
 - [Dollar Bets](https://github.com/Rich86man/Dollar-Bets)
 - [Dono](https://github.com/opensourceios/dono-ios)
