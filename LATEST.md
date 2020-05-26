@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [COVIDSafe](https://github.com/AU-COVIDSafe/mobile-ios)
-2. [Dictum](https://github.com/matthewpalmer/Dictum)
-3. [8mph](https://github.com/zadr/8mph)
-4. [Simplistic](https://github.com/e7711bbear/Simplistic)
-5. [MVPTwitterSample](https://github.com/ktanaka117/MVPTwitterSample)
-6. [FS-Player](https://github.com/danylokos/FS-Player)
-7. [SwiftUI-Keyboard-Demo](https://github.com/emcro/SwiftUI-Keyboard-Demo)
-8. [Poly API - Samples](https://github.com/googlevr/poly-sample-ios)
-9. [SCRAMApp](https://github.com/SoldoApp/SCRAMApp)
-10. [Facebook-Pop-Introduction](https://github.com/thomasdegry/Facebook-Pop-Introduction)
-11. [AfishaLviv](https://github.com/danylokos/AfishaLviv-iOS)
-12. [Session](https://github.com/loki-project/session-ios)
-13. [Mast](https://github.com/ShihabM/Mast)
-14. [SelfieAssist](https://github.com/mxcl/SelfieAssist)
-15. [Amaroq](https://github.com/ReticentJohn/Amaroq)
+1. [StopCovid](https://gitlab.inria.fr/stopcovid19/stopcovid-ios)
+2. [FireTodo](https://github.com/sgr-ksmt/FireTodo)
+3. [Flappy Bird using SpriteBuilder](https://github.com/ignotusverum/1w-flappy)
+4. [Tripletz Tic Tac Toe](https://github.com/Aaron-A/Tripletz)
+5. [SwiftFanorona](https://github.com/jenduf/SwiftFanorona)
+6. [COVIDSafe](https://github.com/AU-COVIDSafe/mobile-ios)
+7. [Dictum](https://github.com/matthewpalmer/Dictum)
+8. [8mph](https://github.com/zadr/8mph)
+9. [Simplistic](https://github.com/e7711bbear/Simplistic)
+10. [MVPTwitterSample](https://github.com/ktanaka117/MVPTwitterSample)
+11. [FS-Player](https://github.com/danylokos/FS-Player)
+12. [SwiftUI-Keyboard-Demo](https://github.com/emcro/SwiftUI-Keyboard-Demo)
+13. [Poly API - Samples](https://github.com/googlevr/poly-sample-ios)
+14. [SCRAMApp](https://github.com/SoldoApp/SCRAMApp)
+15. [Facebook-Pop-Introduction](https://github.com/thomasdegry/Facebook-Pop-Introduction)
 
 ## Thanks
 

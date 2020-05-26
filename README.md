@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1033-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2025,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1039-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2026,%202020-lightgrey.svg)
 
 Jump to
 
@@ -124,9 +124,9 @@ Click ► to show more details
 	<a href='https://polydice.com/iCook-tvOS/images/Screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [News API apps](https://github.com/dkhamsing/news): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes a tvOS app  
+- [News API apps](https://github.com/dkhamsing/news): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes tvOS app, Today widget  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> <code>tvos</code> <code>extension</code> </summary>
 
 	Added April 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/dkhamsing/news/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
@@ -1830,7 +1830,7 @@ Click ► to show more details
 	<a href='https://i.imgur.com/FfNizrW.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [F8 2016](https://github.com/fbsamples/f8app): Official F8 app  
+- [F8](https://github.com/fbsamples/f8app): Official F8 app  
   <details>
 	<summary><code>react native</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -2057,6 +2057,14 @@ Today Extensions or Widgets — [back to top](#readme)
 
 	Added October 31, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/cyanzhong/LunarCore/raw/master/iOS.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [News API apps](https://github.com/dkhamsing/news): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes tvOS app, Today widget  
+  <details>
+	<summary><code>swift</code> <code>tvos</code> <code>extension</code> </summary>
+
+	Added April 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/dkhamsing/news/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [OpenIt](https://github.com/BalestraPatrick/OpenIt): Launch other apps  
@@ -3011,7 +3019,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [COVIDSafe](https://github.com/AU-COVIDSafe/mobile-ios): Contact tracing by the Australian Department of Health [` App Store`](https://apps.apple.com/au/app/covidsafe/id1509242894)  
+- [COVIDSafe](https://github.com/AU-COVIDSafe/mobile-ios): By the Australian Department of Health [` App Store`](https://apps.apple.com/au/app/covidsafe/id1509242894)  
   <details>
 	<summary><code>swift</code> <code>alamofire</code> <code>keychainswift</code> <code>lottie</code> ⭐⭐</summary>
 
@@ -3049,6 +3057,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	https://www.covid.is/app/is<br>  Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/isjn4UG.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [StopCovid](https://gitlab.inria.fr/stopcovid19/stopcovid-ios): By INRIA (French Government)  
+  <details>
+	<summary><code>swift</code> 🌐 </summary>
+
+	https://stopcovid.gouv.fr<br>  Added May 26, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/xCpSSbP.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Stopp Corona](https://github.com/austrianredcross/stopp-corona-ios): By the Austrian Red Cross, keep track of encounters with friends, family or co-workers and save them anonymously [` App Store`](https://apps.apple.com/at/app/apple-store/id1503717224)  
@@ -3924,14 +3940,6 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://github.com/BalestraPatrick/RealmVideo/raw/master/Resources/demo.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui): Cross-platform Reddit client  
-  <details>
-	<summary><code>swift</code> <code>macos</code> <code>watchos</code> ⭐⭐⭐</summary>
-
-	Added April 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Showio](https://github.com/madyanov/showio-app): Simple TV show tracker [` App Store`](https://apps.apple.com/app/id1445035408)  
   <details>
 	<summary><code>swift</code> <code>tmdb</code> </summary>
@@ -4232,6 +4240,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
+- [Beam](https://github.com/awkward/beam): Enjoy all of Reddit's content in a unique and beautiful package [` App Store`](https://apps.apple.com/app/beam-for-reddit/id937987469)  
+  <details>
+	<summary><code>swift</code> <code>objc</code> ⭐</summary>
+
+	Added May  6, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/ab/1c/34/ab1c34ca-9913-ef85-ae35-10c2c7d3b7a6/mzl.gkpfevya.png/316x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/79/57/eb795798-bba3-21d5-6070-d8f508af1be0/mzl.lbvrfpjf.png/316x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/13/5d/53/135d536b-5ec2-a567-d72a-c5e6fb12f804/mzl.rzeufpyk.png/316x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
 - [Designer News](https://github.com/MengTo/DesignerNewsApp): Browse the https://www.designernews.co/ design & technology site  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
@@ -4270,6 +4286,29 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 	Added May  6, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cloud.githubusercontent.com/assets/33768/22405496/0c84f384-e687-11e6-9658-5ebf9d39a082.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui): Cross-platform Reddit client  
+  <details>
+	<summary><code>swift</code> <code>macos</code> <code>watchos</code> ⭐⭐⭐</summary>
+
+	Added April 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Slide for Reddit](https://github.com/ccrama/Slide-iOS): A powerful new way to Reddit [` App Store`](https://apps.apple.com/app/slide-for-reddit/id1260626828)  
+  <details>
+	<summary><code>swift</code> ⭐⭐</summary>
+
+	Added August 31, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/75/3b/91/753b91d1-029a-f898-ae67-910f117ba4ed/pr_source.jpg/300x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d8/1e/5f/d81e5fd9-71dc-abb0-bdb1-7d22fecf56b1/pr_source.jpg/300x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/fc/aa/e6/fcaae64d-552e-ce44-d3aa-08342eb6ce4b/pr_source.jpg/300x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/78/cb/fc/78cbfc3c-f395-943f-5695-e9c7cdbe035b/pr_source.jpg/300x0w.jpg'><code>Screenshot 4</code></a> 
+  </details>
+
+- [SwipeIt](https://github.com/ivanbruel/SwipeIt): Reddit with a swipe  
+  <details>
+	<summary><code>swift</code> <code>rxswift</code> <code>moya</code> <code>kingfisher</code> <code>snapkit</code> ⭐⭐</summary>
+
+	Added May 25, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app  
@@ -4424,9 +4463,9 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/vanyaland/News/master/res/sources.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/vanyaland/News/master/res/articles.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/vanyaland/News/master/res/article.png'><code>Screenshot 3</code></a> 
   </details>
 
-- [News API apps](https://github.com/dkhamsing/news): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes a tvOS app  
+- [News API apps](https://github.com/dkhamsing/news): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes tvOS app, Today widget  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> <code>tvos</code> <code>extension</code> </summary>
 
 	Added April 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/dkhamsing/news/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
@@ -4530,7 +4569,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/02/a3/3d/02a33d9d-e7f5-de88-acc9-59b6225a1725/mzl.ljodcrml.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8d/0d/08/8d0d0837-7725-1de4-80e1-60ccade7a862/mzl.kqfgqvpd.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/e0/5f/d1e05f6b-8070-6c5c-6f44-867bcf4a2ca2/mzl.djmlchip.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/bb/d4/b2/bbd4b2f7-2a81-a746-8935-ed6c95762c96/mzl.dioblpre.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/eb/0e/34/eb0e34f4-37d0-fcca-9734-210b09c30d20/mzl.jfugrexh.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [F8 2016](https://github.com/fbsamples/f8app): Official F8 app  
+- [F8](https://github.com/fbsamples/f8app): Official F8 app  
   <details>
 	<summary><code>react native</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -5481,14 +5520,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	Added February  8, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- [Beam](https://github.com/awkward/beam): Enjoy all of Reddit's content in a unique and beautiful package [` App Store`](https://apps.apple.com/app/beam-for-reddit/id937987469)  
-  <details>
-	<summary><code>swift</code> <code>objc</code> ⭐</summary>
-
-	Added May  6, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
-	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/ab/1c/34/ab1c34ca-9913-ef85-ae35-10c2c7d3b7a6/mzl.gkpfevya.png/316x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/79/57/eb795798-bba3-21d5-6070-d8f508af1be0/mzl.lbvrfpjf.png/316x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/13/5d/53/135d536b-5ec2-a567-d72a-c5e6fb12f804/mzl.rzeufpyk.png/316x0w.jpg'><code>Screenshot 3</code></a> 
-  </details>
-
 - [Ello](https://github.com/ello/ello-ios): Ello is the Creators Network [` App Store`](https://apps.apple.com/app/ello/id953614327)  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐</summary>
@@ -5526,14 +5557,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	https://www.queuedapp.com<br>  Added April 17, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://www.queuedapp.com/img/image-3.png'><code>Screenshot 1</code></a> <a href='https://www.queuedapp.com/img/image-2.png'><code>Screenshot 2</code></a> <a href='https://www.queuedapp.com/img/powerful.png'><code>Screenshot 3</code></a> 
-  </details>
-
-- [Slide for Reddit](https://github.com/ccrama/Slide-iOS): A powerful new way to Reddit [` App Store`](https://apps.apple.com/app/slide-for-reddit/id1260626828)  
-  <details>
-	<summary><code>swift</code> ⭐⭐</summary>
-
-	Added August 31, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/75/3b/91/753b91d1-029a-f898-ae67-910f117ba4ed/pr_source.jpg/300x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d8/1e/5f/d81e5fd9-71dc-abb0-bdb1-7d22fecf56b1/pr_source.jpg/300x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/fc/aa/e6/fcaae64d-552e-ce44-d3aa-08342eb6ce4b/pr_source.jpg/300x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/78/cb/fc/78cbfc3c-f395-943f-5695-e9c7cdbe035b/pr_source.jpg/300x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 
@@ -5590,6 +5613,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added January 25, 2017<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple30/v4/0b/8a/d6/0b8ad6ca-d1f4-65bd-c647-c1a50870a459/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple18/v4/f8/be/80/f8be8054-0653-1ac6-777e-9cff37591e38/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple60/v4/86/9c/19/869c199d-f6ad-0426-bd61-f9316d257399/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple20/v4/74/5f/e9/745fe9d4-3a90-e344-4f71-ccbc5e318b65/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/14/1f/28/141f2833-14cc-b1c1-f29f-52db44eaef67/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
+- [FireTodo](https://github.com/sgr-ksmt/FireTodo): Simple Todo using SwiftUI, Firebase, Redux  
+  <details>
+	<summary><code>swift</code> <code>firebase</code> <code>redux</code> ⭐</summary>
+
+	Added May 25, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/sgr-ksmt/FireTodo/blob/master/docs/images/img6.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [Habitica](https://github.com/HabitRPG/habitica-ios): Habit building & productivity [` App Store`](https://apps.apple.com/app/id994882113)  
@@ -6535,7 +6566,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<a href='https://cloud.githubusercontent.com/assets/2805320/8113463/db61b072-1076-11e5-8aa2-52417f019ea0.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [F8 2016](https://github.com/fbsamples/f8app): Official F8 app  
+- [F8](https://github.com/fbsamples/f8app): Official F8 app  
   <details>
 	<summary><code>react native</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -6962,6 +6993,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added April 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [FireTodo](https://github.com/sgr-ksmt/FireTodo): Simple Todo using SwiftUI, Firebase, Redux  
+  <details>
+	<summary><code>swift</code> <code>firebase</code> <code>redux</code> ⭐</summary>
+
+	Added May 25, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/sgr-ksmt/FireTodo/blob/master/docs/images/img6.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [FreeTimePicker](https://github.com/fromkk/FreeTimePicker): Find free time in your calendar  
