@@ -20787,6 +20787,21 @@
       "license": "other",
       "date_added": "May 26 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Hand-painted style tower defense game",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "swift",
+        "swift2",
+        "archive"
+      ],
+      "source": "https://github.com/gamechina/GoldenWar",
+      "license": "mit",
+      "date_added": "May 25 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
