@@ -20768,6 +20768,25 @@
       "license": "other",
       "date_added": "May 24 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "StopCovid",
+      "description": "By INRIA (French Government)",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "lang": "fra",
+      "source": "https://gitlab.inria.fr/stopcovid19/stopcovid-ios",
+      "homepage": "https://stopcovid.gouv.fr",
+      "screenshots": [
+        "https://i.imgur.com/xCpSSbP.png"
+      ],
+      "license": "other",
+      "date_added": "May 26 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
