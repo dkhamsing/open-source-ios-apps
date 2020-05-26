@@ -20737,7 +20737,7 @@
     {
       "title": "FireTodo",
       "category-ids": [
-        "task",
+        "tasks",
         "swiftui"
       ],
       "description": "Simple Todo using SwiftUI, Firebase, Redux",
