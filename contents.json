@@ -20802,6 +20802,20 @@
       "license": "mit",
       "date_added": "May 25 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "CookieCrunch",
+      "description": "Candy Crush clone",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/renatomcamilio/CookieCrunch",
+      "license": "mit",
+      "date_added": "May 25 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
