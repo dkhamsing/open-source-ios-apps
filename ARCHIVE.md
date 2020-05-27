@@ -132,6 +132,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Hacker News app by jsdf](https://github.com/jsdf/ReactNativeHackerNews)
 - [Hacker News Client](https://github.com/bonzoq/hniosreader)
 - [HackerNews (Y)](https://github.com/vetri02/HackerNews)
+- [Hand-painted style tower defense game](https://github.com/gamechina/GoldenWar)
 - [HausClock](https://github.com/nottombrown/HausClock)
 - [Helio Workstation](https://github.com/helio-fm/helio-workstation)
 - [HighStreet](https://github.com/GetHighstreet/HighstreetWatchApp)

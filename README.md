@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1039-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2026,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1041-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2027,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2436,6 +2436,13 @@ Today Extensions or Widgets — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/0f/ba/ac/0fbaac33-c886-8e11-e597-2c2356bd7b19/mzl.mgimezjp.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple20/v4/9c/9e/51/9c9e5174-c951-4160-d3ae-fd3bdc96483f/mzl.svdtshvp.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple30/v4/7c/0f/68/7c0f68fd-3a99-78d7-ee00-bc3d2adbe725/mzl.pryailjm.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/64/29/be/6429be2e-f4d4-45de-ff6f-cf68008cecbc/mzl.nsqxiigs.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
+- [CookieCrunch](https://github.com/renatomcamilio/CookieCrunch): Candy Crush clone  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added May 25, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
 - [Doom Classic](https://github.com/id-Software/DOOM-iOS) [` App Store`](https://apps.apple.com/app/doom-classic/id336347946)  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐</summary>
@@ -3063,7 +3070,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   <details>
 	<summary><code>swift</code> 🌐 </summary>
 
-	https://stopcovid.gouv.fr<br>  Added May 26, 2020<br>  License: `other`<br>
+	https://www.economie.gouv.fr/stopcovid<br>  Added May 26, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/xCpSSbP.png'><code>Screenshot 1</code></a> 
   </details>
 
