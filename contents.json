@@ -20816,6 +20816,22 @@
       "license": "mit",
       "date_added": "May 25 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Octopus",
+      "description": "Remake of Nintendo's Octopus Game & Watch device",
+      "category-ids": [
+        "game",
+        "apple-tv"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/roger-wetzel/Octopus",
+      "screenshots": ["https://cloud.githubusercontent.com/assets/16686245/12429085/98761c3c-bee8-11e5-9399-1f7cc162e9bd.png"],
+      "license": "other",
+      "date_added": "May 27 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
