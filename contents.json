@@ -20835,10 +20835,11 @@
     },
     {
        "title": "HTTPS4All",
-       "category-ids": ["security"],
-       "description": "Port of HTTPS Everywhere for iOS",
+       "category-ids": ["security", "extension"],
+       "tags": ["swift"],
+       "description": "Port of HTTPS Everywhere to force (most) links to use HTTPS",
        "source": "https://github.com/bouk/HTTPS4All",
-       "itunes": "https://apps.apple.com/us/app/https4all/id1305430042",
+       "itunes": "https://apps.apple.com/app/https4all/id1305430042",
        "license": "gpl-2.0",
        "date_added": "May 27 2020",
        "suggested_by": "@bradenglund"
