@@ -20826,6 +20826,21 @@
        "license": "gpl-2.0",
        "date_added": "May 27 2020",
        "suggested_by": "@bradenglund"
+    }
+    {
+      "title": "OpenCovidTrace",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "description": "Uses own open-source framework for exposure tracing",
+      "license": "gpl-3.0",
+      "source": "https://github.com/OpenCovidTrace/octrace-ios",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "May 28 2020",
+      "suggested_by": "@shiaulis",
+      "stars": 16
     }  
   ]
 }
