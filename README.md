@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1041-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2027,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1044-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2028,%202020-lightgrey.svg)
 
 Jump to
 
@@ -130,6 +130,14 @@ Click ► to show more details
 
 	Added April 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/dkhamsing/news/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Octopus](https://github.com/roger-wetzel/Octopus): Remake of Nintendo's Octopus Game & Watch device  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added May 27, 2020<br>  License: `other`<br>
+	<a href='https://cloud.githubusercontent.com/assets/16686245/12429085/98761c3c-bee8-11e5-9399-1f7cc162e9bd.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Provenance](https://github.com/Provenance-Emu/Provenance): Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more  
@@ -2641,6 +2649,14 @@ Today Extensions or Widgets — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/04/8d/f4/048df460-8415-913d-cea4-9adce71370cf/mzm.lddloznb.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/b0/e7/b4/b0e7b405-69c8-560b-72dd-7e779081adc0/mzm.laponjby.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/fe/ba/07/feba07fb-c2d7-6bc4-eca7-c1a32c6827f4/mzm.dfjfwhds.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/31/21/25/312125a3-e312-f009-115d-8023635314fc/mzm.evrsahoz.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/63/91/58/639158b3-23b1-71ca-de67-f3fa8eabf256/mzm.pxsjydzt.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
+- [Octopus](https://github.com/roger-wetzel/Octopus): Remake of Nintendo's Octopus Game & Watch device  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added May 27, 2020<br>  License: `other`<br>
+	<a href='https://cloud.githubusercontent.com/assets/16686245/12429085/98761c3c-bee8-11e5-9399-1f7cc162e9bd.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Oh My Plane](https://github.com/softdevstory/OhMyPlane): A game like flappy bird [` App Store`](https://apps.apple.com/app/oh-my-plane/id1100985506)  
   <details>
 	<summary><code>swift</code> <code>spritekit</code> <code>gameplaykit</code> </summary>
@@ -3056,6 +3072,13 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/n50E9Nh.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [OpenCovidTrace](https://github.com/OpenCovidTrace/octrace-ios): Uses own open-source framework for exposure tracing  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added May 28, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 
 - [rakning-c19-app](https://github.com/aranja/rakning-c19-app): By the Icelandic Government, help analyse individuals’ travel and trace their movements when cases of infection arise [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876)  
@@ -5244,6 +5267,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added June  1, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/cfdrake/easy-diceware/master/.github/screenshot.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [HTTPS4All](https://github.com/bouk/HTTPS4All): Port of HTTPS Everywhere for iOS [` App Store`](https://apps.apple.com/us/app/https4all/id1305430042)  
+  <details>
+	<summary></summary>
+
+	Added May 27, 2020<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
 
 - [iCepa](https://github.com/iCepa/iCepa): System-wide VPN based Tor client  
