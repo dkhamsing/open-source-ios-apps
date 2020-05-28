@@ -20817,5 +20817,15 @@
       "date_added": "May 25 2020",
       "suggested_by": "@dkhamsing"
     }
+    {
+       "title": "HTTPS4All",
+       "category-ids": ["Security"],
+       "description": "Port of HTTPS Everywhere for iOS",
+       "source": "https://github.com/bouk/HTTPS4All",
+       "itunes": "https://apps.apple.com/us/app/https4all/id1305430042",
+       "license": "gpl-2.0",
+       "date_added": "May 27 2020",
+       "suggested_by": "@bradenglund"
+    }  
   ]
 }
