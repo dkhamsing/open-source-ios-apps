@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **254** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **255** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -2090,6 +2090,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>objc</code> <code>cordova</code> ⭐</summary>
 
 	Added September 11, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+
+- [HTTPS4All](https://github.com/bouk/HTTPS4All): Port of HTTPS Everywhere for iOS [` App Store`](https://apps.apple.com/us/app/https4all/id1305430042)  
+  <details>
+	<summary></summary>
+
+	Added May 27, 2020<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
 
 - [Keybase](https://github.com/keybase/client) [` App Store`](https://apps.apple.com/app/keybase-crypto-for-everyone/id1044461770)  
