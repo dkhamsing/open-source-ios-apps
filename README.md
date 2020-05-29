@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1044-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2028,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1045-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2029,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1945,6 +1945,13 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- [HTTPS4All](https://github.com/bouk/HTTPS4All): Port of HTTPS Everywhere to force (most) links to use HTTPS [` App Store`](https://apps.apple.com/app/https4all/id1305430042)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added May 27, 2020<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+
 - [Post Manager](https://github.com/tombaranowicz/PostManager): Post/schedule Twitter posts like Buffer, includes a Share Extension  
   <details>
 	<summary><code>swift</code> <code>node</code> </summary>
@@ -5269,9 +5276,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/cfdrake/easy-diceware/master/.github/screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [HTTPS4All](https://github.com/bouk/HTTPS4All): Port of HTTPS Everywhere for iOS [` App Store`](https://apps.apple.com/us/app/https4all/id1305430042)  
+- [HTTPS4All](https://github.com/bouk/HTTPS4All): Port of HTTPS Everywhere to force (most) links to use HTTPS [` App Store`](https://apps.apple.com/app/https4all/id1305430042)  
   <details>
-	<summary></summary>
+	<summary><code>swift</code> </summary>
 
 	Added May 27, 2020<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
