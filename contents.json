@@ -20858,6 +20858,20 @@
       "date_added": "May 28 2020",
       "suggested_by": "@shiaulis",
       "stars": 16
+    },
+    {
+      "title": "Tiny Wings Remake",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "objc",
+        "archive"
+      ],
+      "source": "https://github.com/haqu/tiny-wings",
+      "license": "mit",
+      "date_added": "May 27 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
