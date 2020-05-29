@@ -19673,7 +19673,8 @@
     {
       "title": "SwiftTerm",
       "category-ids": [
-        "terminal"
+        "terminal",
+        "swiftui"
       ],
       "tags": [
         "swift"
