@@ -758,6 +758,13 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- [HTTPS4All](https://github.com/bouk/HTTPS4All): Port of HTTPS Everywhere to force (most) links to use HTTPS [` App Store`](https://apps.apple.com/app/https4all/id1305430042)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added May 27, 2020<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
+  </details>
+
 - [SimpleLogin](https://github.com/simple-login/Simple-Login-iOS): Protect your email with aliases and more. Its Share Extension helps you create aliases on the fly without leaving your favorite browser [` App Store`](https://apps.apple.com/app/simplelogin-anti-spam/id1494359858)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -2092,9 +2099,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	Added September 11, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 
-- [HTTPS4All](https://github.com/bouk/HTTPS4All): Port of HTTPS Everywhere for iOS [` App Store`](https://apps.apple.com/us/app/https4all/id1305430042)  
+- [HTTPS4All](https://github.com/bouk/HTTPS4All): Port of HTTPS Everywhere to force (most) links to use HTTPS [` App Store`](https://apps.apple.com/app/https4all/id1305430042)  
   <details>
-	<summary></summary>
+	<summary><code>swift</code> </summary>
 
 	Added May 27, 2020<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
