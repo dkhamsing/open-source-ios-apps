@@ -290,6 +290,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [TicTacToe](https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/TicTacToe)
 - [TicTacToe Ultimatum](https://github.com/mkhrapov/tictactoe-ultimatum)
 - [Tinder clone](https://github.com/opensourceios/Tinder)
+- [Tiny Wings Remake](https://github.com/haqu/tiny-wings)
 - [TKeyboard](https://github.com/music4kid/TKeyboard)
 - [Tob](https://github.com/JRock007/Tob)
 - [TodayMind](https://github.com/cyanzhong/TodayMind)
