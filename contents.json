@@ -20873,6 +20873,25 @@
       "license": "mit",
       "date_added": "May 27 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Milestones",
+      "description": "Count down the days until upcoming milestones",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "combine",
+        "macos"
+      ],
+      "license": "mit",
+      "source": "https://github.com/jpsim/Milestones",
+      "screenshots": [
+        "https://i.imgur.com/CmZhSrp.png"
+      ],
+      "suggested_by": "@dkhamsing",
+      "date_added": "May 29 2020"
     }
   ]
 }
