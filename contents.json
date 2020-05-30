@@ -20892,6 +20892,25 @@
       ],
       "suggested_by": "@dkhamsing",
       "date_added": "May 29 2020"
+    },
+    {
+      "title": "Swiss PT – DP3T (Switzerland)",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "description": "COVID-19 tracing client using the DP3T SDK",
+      "license": "mpl-2.0",
+      "source": "https://github.com/DP-3T/dp3t-app-ios-ch",
+      "tags": [
+        "swift"
+      ],
+      "lang": "deu",
+      "screenshots": [
+        "https://github.com/DP-3T/dp3t-app-ios-ch/blob/develop/Documentation/screenshots/screenshots.png?raw=true"
+      ],
+      "date_added": "May 30 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 66
     }
   ]
 }
