@@ -20911,6 +20911,25 @@
       "date_added": "May 30 2020",
       "suggested_by": "@dkhamsing",
       "stars": 66
+    },
+    {
+      "title": "Corona Warn App (Germany)",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "description": "Uses Apple's Exposure Notification framework",
+      "license": "apache-2.0",
+      "source": "https://github.com/corona-warn-app/cwa-app-ios",
+      "tags": [
+        "swift"
+      ],
+      "lang": "deu",
+      "screenshots": [
+        "https://github.com/corona-warn-app/cwa-documentation/raw/master/images/ui_screens/ui_screens_ios.png"
+      ],
+      "date_added": "May 31 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 116
     }
   ]
 }
