@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1045-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2029,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1046-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2030,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4521,7 +4521,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<summary><code>swift</code> <code>combine</code> </summary>
 
 	Added April 30, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png '><code>Screenshot 1</code></a> 
+	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [newsline](https://github.com/ayush221b/newsline)  
@@ -5973,7 +5973,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>swift</code> <code>combine</code> </summary>
 
 	Added April 30, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png '><code>Screenshot 1</code></a> 
+	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example)  
@@ -6474,7 +6474,7 @@ https://flutter.dev — [back to top](#readme)
 	<summary><code>flutter</code> <code>dart</code> ⭐⭐⭐</summary>
 
 	Added April 23, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/rodydavis/gmail_clone/raw/master/screenshots/listview.png '><code>Screenshot 1</code></a> 
+	<a href='https://github.com/rodydavis/gmail_clone/raw/master/screenshots/listview.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [newsline](https://github.com/ayush221b/newsline)  
@@ -7079,6 +7079,14 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://i.imgur.com/k8BGv5M.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Milestones](https://github.com/jpsim/Milestones): Count down the days until upcoming milestones  
+  <details>
+	<summary><code>swift</code> <code>combine</code> <code>macos</code> </summary>
+
+	Added May 29, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/CmZhSrp.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI): Browse movies, made with SwiftUI, Combine & MovieDB  
   <details>
 	<summary><code>swift</code> <code>themoviedb</code> <code>combine</code> <code>ipad</code> <code>macos</code> ⭐⭐⭐⭐⭐</summary>
@@ -7092,7 +7100,7 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>combine</code> </summary>
 
 	Added April 30, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png '><code>Screenshot 1</code></a> 
+	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [OSRSUI](https://github.com/Dimillian/OSRSUI): Old School Runescape database browser  
@@ -7116,6 +7124,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added April 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm): VT100/Xterm Terminal emulator  
+  <details>
+	<summary><code>swift</code> ⭐</summary>
+
+	Added April 24, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://user-images.githubusercontent.com/36863/80056069-54a05580-84f1-11ea-8597-5a227c9c64a7.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [SwiftUI-Keyboard-Demo](https://github.com/emcro/SwiftUI-Keyboard-Demo): How to add Keyboard Shortcuts UIKeyCommand (SwiftUI)  
