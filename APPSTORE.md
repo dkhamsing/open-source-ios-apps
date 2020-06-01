@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **255** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **256** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -106,6 +106,14 @@ Click ► to show more details
 
 	Added June 14, 2017<br>  License: `other`<br>
 	<a href='http://a1.mzstatic.com/us/r30/Purple122/v4/7b/e9/dd/7be9dd53-fe6b-00f7-57e6-a19e27b103de/sc720x405.jpeg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-ios) [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566)  
+  <details>
+	<summary><code>c</code> <code>ipad</code> ⭐⭐</summary>
+
+	Added May 31, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://i.imgur.com/UMYQpqx.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on the Stepik Platform https://stepik.org/ [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926)  
@@ -1097,6 +1105,14 @@ Today Extensions or Widgets — [back to top](#readme)
 
 	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/51/43/ef/5143ef6b-cb73-4c3f-32ad-619f15073704/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/be/49/b0/be49b0f5-9c45-34d1-a672-7d489b6a11a7/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/02/ad/4a02ad71-965b-f094-1381-22054028ada4/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/57/c7/5057c7f3-0bfe-41f2-0760-fe1b261e27c3/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
+  </details>
+
+- [Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-ios) [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566)  
+  <details>
+	<summary><code>c</code> <code>ipad</code> ⭐⭐</summary>
+
+	Added May 31, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://i.imgur.com/UMYQpqx.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [MUDRammer](https://github.com/splinesoft/MUDRammer): MUD app (Multi-User Dungeon) [` App Store`](https://apps.apple.com/app/mudrammer-a-modern-mud-client/id597157072)  
