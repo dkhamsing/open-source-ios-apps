@@ -20935,14 +20935,14 @@
       "title": "Moonlight Game Streaming",
       "category-ids": [
         "game",
-        "ipad",
         "apple-tv"
       ],
       "license": "gpl-3.0",
       "source": "https://github.com/moonlight-stream/moonlight-ios",
       "itunes": "https://apps.apple.com/app/moonlight-game-streaming/id1000551566",
       "tags": [
-        "c"
+        "c",
+        "ipad"
       ],
       "screenshots": [
         "https://i.imgur.com/UMYQpqx.png"
