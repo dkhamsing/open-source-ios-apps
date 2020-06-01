@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1048-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-May%2031,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1049-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%201,%202020-lightgrey.svg)
 
 Jump to
 
@@ -122,6 +122,14 @@ Click ► to show more details
 
 	Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://polydice.com/iCook-tvOS/images/Screenshot.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-ios) [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566)  
+  <details>
+	<summary><code>c</code> <code>ipad</code> ⭐⭐</summary>
+
+	Added May 31, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://i.imgur.com/UMYQpqx.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [News API apps](https://github.com/dkhamsing/news): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes tvOS app, Today widget  
@@ -2630,6 +2638,14 @@ Today Extensions or Widgets — [back to top](#readme)
 
 	Added July 23, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/matiasvillaverde/mobile-ios-vipergame/master/header.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-ios) [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566)  
+  <details>
+	<summary><code>c</code> <code>ipad</code> ⭐⭐</summary>
+
+	Added May 31, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://i.imgur.com/UMYQpqx.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [MUDRammer](https://github.com/splinesoft/MUDRammer): MUD app (Multi-User Dungeon) [` App Store`](https://apps.apple.com/app/mudrammer-a-modern-mud-client/id597157072)  
