@@ -20950,6 +20950,20 @@
       "date_added": "May 31 2020",
       "suggested_by": "@dkhamsing",
       "stars": 498
+    },
+    {
+      "title": "GPS Stone",
+      "category-ids": [
+        "location"
+      ],
+      "description": "Record your position and export your trip in GPX with GPS Stone",
+      "license": "other",
+      "source": "https://github.com/frostland/GPS-Stone",
+      "tags": [
+        "objc"
+      ],
+      "date_added": "Jun 1 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
