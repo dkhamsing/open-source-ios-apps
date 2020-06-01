@@ -20964,6 +20964,21 @@
       ],
       "date_added": "Jun 1 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "My Stocks",
+      "category-ids": [
+        "finance"
+      ],
+      "description": "Basic stocks tracking, supports Finnhub, Tiingo, or IEX Cloud",
+      "license": "mit",
+      "source": "https://github.com/dkhamsing/stocks",
+      "screenshots": ["https://github.com/dkhamsing/stocks/blob/dev/Images/0.png?raw=true"],
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Jun 1 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
