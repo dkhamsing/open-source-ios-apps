@@ -398,7 +398,7 @@ Click ► to show more details
 
 - [Session](https://github.com/loki-project/session-ios): Private messenger [` App Store`](https://apps.apple.com/app/session-private-messenger/id1470168868)  
   <details>
-	<summary><code>swift</code> <code>objc</code> <code>promisekit</code> <code>sqlcipher</code> <code>mantle</code> <code>starscream</code> <code>afnetworking</code> <code>purelayout</code> <code>yyimage</code> ⭐⭐⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>objc</code> <code>promisekit</code> <code>sqlcipher</code> <code>mantle</code> <code>starscream</code> <code>afnetworking</code> <code>purelayout</code> <code>yyimage</code> </summary>
 
 	Added May 22, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/TGHbQf1.png'><code>Screenshot 1</code></a> 
@@ -713,7 +713,7 @@ Click ► to show more details
 
 - [Ulangi](https://github.com/ulangi/ulangi): Learn languages using popular methods such as spaced repetition [` App Store`](https://apps.apple.com/app/id1435524341)  
   <details>
-	<summary><code>react-native</code> </summary>
+	<summary><code>react-native</code> ⭐</summary>
 
 	Added January 12, 2020<br>
 	<a href='https://ulangi.com/img/screenshots/AdvancedLanguageApp.png'><code>Screenshot 1</code></a> <a href='https://ulangi.com/img/screenshots/CreateFlashcardsEasily.png'><code>Screenshot 2</code></a> <a href='https://ulangi.com/img/screenshots/StudySmarterNotHarder.png'><code>Screenshot 3</code></a> <a href='https://ulangi.com/img/screenshots/TrackYourProgress.png'><code>Screenshot 4</code></a> <a href='https://ulangi.com/img/screenshots/WellDesignedDarkMode.png'><code>Screenshot 5</code></a> <a href='https://ulangi.com/img/screenshots/BuiltInDictionary.png'><code>Screenshot 6</code></a> <a href='https://ulangi.com/img/screenshots/BuiltInImageSearch.png'><code>Screenshot 7</code></a> 
@@ -1413,7 +1413,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 - [OwnTracks](https://github.com/owntracks/ios): Keep track of your own location, you can build your private location diary or share it with your family & friends [` App Store`](https://apps.apple.com/app/mqttitude/id692424691)  
   <details>
-	<summary><code>cocoalumberjack</code> ⭐</summary>
+	<summary><code>cocoalumberjack</code> ⭐⭐</summary>
 
 	Added April  3, 2016<br>  License: `other`<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c0/2f/b2/c02fb296-8abc-ca24-c7a4-05c852f22733/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> 
@@ -1681,7 +1681,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [Reading List](https://github.com/AndrewBennet/readinglist): Track personal reading lists [` App Store`](https://apps.apple.com/app/reading-list-a-book-tracking-log/id1217139955)  
   <details>
-	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> <code>core-data</code> ⭐</summary>
+	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> <code>core-data</code> ⭐⭐</summary>
 
 	Added July 21, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -2454,7 +2454,7 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [Standard Notes](https://github.com/standardnotes/mobile): Notes app with focus on longevity, portability & privacy [` App Store`](https://apps.apple.com/app/standard-notes/id1285392450)  
   <details>
-	<summary><code>react-native</code> ⭐⭐</summary>
+	<summary><code>react-native</code> ⭐⭐⭐</summary>
 
 	Added January 18, 2017<br>  License: `other`<br>
 	<a href='http://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg'><code>Screenshot 1</code></a> 
@@ -2790,7 +2790,7 @@ https://realm.io/ — [back to top](#readme)
  
 - [AC Helper](https://github.com/Dimillian/ACHNBrowserUI): Animal Crossing New Horizon items catalogue [` App Store`](https://apps.apple.com/app/ac-helper/id1508764244)  
   <details>
-	<summary><code>swift</code> ⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐</summary>
 
 	Added April 16, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://github.com/Dimillian/ACHNBrowserUI/raw/master/images/image1.png'><code>Screenshot 1</code></a> 
