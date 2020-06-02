@@ -21067,6 +21067,19 @@
       ],
       "date_added": "Jun 1 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Lumines remake",
+      "category-ids": [
+        "game"
+      ],
+      "source": "https://github.com/kaikai2/luminesk5",
+      "tags": [
+        "c"
+      ],
+      "license": "other",
+      "date_added": "Jun 2 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
