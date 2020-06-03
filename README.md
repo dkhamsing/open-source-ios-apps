@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1051-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%202,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1053-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%203,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2617,6 +2617,13 @@ Today Extensions or Widgets — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/af/a9/34/afa934c6-45c5-c194-d179-f34520fe8b1c/mzl.jfnjvioh.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [Lumines remake](https://github.com/kaikai2/luminesk5)  
+  <details>
+	<summary><code>c</code> </summary>
+
+	Added June  2, 2020<br>  License: `other`
+  </details>
+
 - [Master](https://github.com/Kjuly/iPokeMon): PokéMon-like game that uses your location  
   <details>
 	<summary><code>objc</code> ⭐⭐</summary>
@@ -3264,6 +3271,14 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 	Added November 18, 2016<br>  License: `other`<br>
 	<a href='https://media.giphy.com/media/uSyooIBl2qBHi/giphy.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Arc](https://github.com/sobri909/ArcMini): Learns about the places you visit & how you like to move around [` App Store`](https://apps.apple.com/app/arc-app-location-activity/id1063151918)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June  2, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://i.imgur.com/48WzAt2.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Cepp](https://github.com/filipealva/Cepp): Find information on addresses  
