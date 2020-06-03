@@ -21080,6 +21080,22 @@
       "license": "other",
       "date_added": "Jun 2 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Arc",
+      "category-ids": [
+        "location"
+      ],
+      "description": "Learns about the places you visit & how you like to move around",
+      "license": "gpl-3.0",
+      "source": "https://github.com/sobri909/ArcMini",
+      "itunes": "https://apps.apple.com/app/arc-app-location-activity/id1063151918",
+      "screenshots": ["https://i.imgur.com/48WzAt2.png"],
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Jun 2 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
