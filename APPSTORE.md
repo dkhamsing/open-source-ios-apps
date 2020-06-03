@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **256** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **257** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1339,6 +1339,14 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
  
 [back to top](#readme) 
  
+- [Arc](https://github.com/sobri909/ArcMini): Learns about the places you visit & how you like to move around [` App Store`](https://apps.apple.com/app/arc-app-location-activity/id1063151918)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June  2, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://i.imgur.com/48WzAt2.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [EatNow](https://github.com/callzhang/Eat-Now): Get recommendations for restaurants nearby [` App Store`](https://apps.apple.com/app/eat-now-instant-personalized/id946591471)  
   <details>
 	<summary><code>objc</code> </summary>
