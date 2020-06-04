@@ -21096,6 +21096,20 @@
       ],
       "date_added": "Jun 2 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Strife Veteran Edition",
+      "category-ids": [
+        "game"
+      ],
+      "source": "https://github.com/svkaiser/strife-ve",
+      "tags": [
+        "c",
+        "archive"
+      ],
+      "license": "other",
+      "date_added": "Jun 3 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
