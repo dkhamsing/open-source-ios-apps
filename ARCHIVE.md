@@ -262,6 +262,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Stocks-iOS](https://github.com/MauriceArikoglu/stocks-ios)
 - [Stopwatch](https://github.com/toggl/stopwatch)
 - [StreetMusicMap](https://github.com/henriquevelloso/StreetMusicMap)
+- [Strife Veteran Edition](https://github.com/svkaiser/strife-ve)
 - [Sudoku](https://github.com/christopherdro/react-native-sudoku)
 - [SudokuResolv](https://github.com/Haoest/SudokuResolv)
 - [Superday](https://github.com/opensourceios/superday)
