@@ -21127,6 +21127,24 @@
       "date_added": "Jun 2 2020",
       "suggested_by": "@teolemon",
       "license": "apache-2.0"
-}
-]
+    },
+    {
+      "title": "Repositories",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "SwiftUI + Flux and Combine using GitHub API (Flux enables unidirectional data flow which is testable)",
+      "source": "https://github.com/kitasuke/SwiftUI-Flux",
+      "license": "mit",
+      "stars": 64,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/wiki/kitasuke/SwiftUI-MVVM/images/screenshot.png"
+      ],
+      "date_added": "Jun 4 2020",
+      "suggested_by": "@dkhamsing"
+    }
+  ]
 }
