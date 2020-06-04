@@ -21110,9 +21110,7 @@
       "license": "other",
       "date_added": "Jun 3 2020",
       "suggested_by": "@dkhamsing"
-    }
-  ]
-}
+    },
 {
       "title": "Open Food Facts",
       "category-ids": ["health"],
@@ -21126,4 +21124,6 @@
       "date_added": "Jun 2 2020",
       "suggested_by": "@teolemon",
       "license": "apache-2.0"
+}
+]
 }
