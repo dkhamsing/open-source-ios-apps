@@ -21145,6 +21145,24 @@
       ],
       "date_added": "Jun 4 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Say Their Name",
+      "category-ids": [
+        "misc"
+      ],
+      "description": "Raises awareness of the injustice and often forgotten names of racial inequality at the hands of law enforcement",
+      "source": "https://github.com/Say-Their-Name/say-their-names-ios",
+      "license": "other",
+      "stars": 61,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/9l2ooUL.jpg"
+      ],
+      "date_added": "Jun 4 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
