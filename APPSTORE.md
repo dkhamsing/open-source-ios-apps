@@ -1242,12 +1242,12 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='http://a1.mzstatic.com/us/r30/Purple122/v4/2d/28/8c/2d288c05-33f0-1f18-b06a-4e3a24e1d608/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-ios): Scan the barcode food products to see if they are good for you and the planet. Add missing products to Open Food Facts, and help expand food transparency worldwide. [` App Store`](https://apps.apple.com/fr/app/open-food-facts/id588797948)  
+- [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-ios): Scan food products barcode to see if they are good for you and the planet [` App Store`](https://apps.apple.com/app/open-food-facts/id588797948)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	Added June  2, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://camo.githubusercontent.com/c1b65203ca1976fb94a7ea0dd916e544b5a7c5c3/68747470733a2f2f6973332d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c653131342f76342f39382f31312f34382f39383131343830612d643261372d303035302d663039342d3766323238303964353332642f70725f736f757263652e706e672f3233307830772e706e67'><code>Screenshot 1</code></a> 
+	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/e7/18/27/e71827cd-1fd4-5b81-b52e-2668feed9700/pr_source.png/230x0w.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Suicide Safety Plan](https://github.com/suicidesafetyplan/safetyplan-ios): Suicide prevention [` App Store`](https://apps.apple.com/app/id1003891579)  
