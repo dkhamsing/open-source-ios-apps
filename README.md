@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1055-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%204,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1057-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%205,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3067,12 +3067,12 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-1.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-2.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-3.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-4.jpg'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-5.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-ios): Scan the barcode food products to see if they are good for you and the planet. Add missing products to Open Food Facts, and help expand food transparency worldwide. [` App Store`](https://apps.apple.com/fr/app/open-food-facts/id588797948)  
+- [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-ios): Scan food products barcode to see if they are good for you and the planet [` App Store`](https://apps.apple.com/app/open-food-facts/id588797948)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	Added June  2, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://camo.githubusercontent.com/c1b65203ca1976fb94a7ea0dd916e544b5a7c5c3/68747470733a2f2f6973332d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c653131342f76342f39382f31312f34382f39383131343830612d643261372d303035302d663039342d3766323238303964353332642f70725f736f757263652e706e672f3233307830772e706e67'><code>Screenshot 1</code></a> 
+	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/e7/18/27/e71827cd-1fd4-5b81-b52e-2668feed9700/pr_source.png/230x0w.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Suicide Safety Plan](https://github.com/suicidesafetyplan/safetyplan-ios): Suicide prevention [` App Store`](https://apps.apple.com/app/id1003891579)  
@@ -6306,6 +6306,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/michaelvillar/remote/master/screenshots/ios.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Say Their Name](https://github.com/Say-Their-Name/say-their-names-ios): Raises awareness of the injustice and often forgotten names of racial inequality at the hands of law enforcement  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June  4, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/9l2ooUL.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Science Journal](https://github.com/google/science-journal-ios): Use the sensors in your mobile devices to perform science experiments  
   <details>
 	<summary><code>swift</code> <code>protobuf</code> ⭐⭐⭐</summary>
@@ -7194,6 +7202,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added April 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Repositories](https://github.com/kitasuke/SwiftUI-Flux): SwiftUI + Flux and Combine using GitHub API (Flux enables unidirectional data flow which is testable)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June  4, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/wiki/kitasuke/SwiftUI-MVVM/images/screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm): VT100/Xterm Terminal emulator  
