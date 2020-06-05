@@ -21177,6 +21177,26 @@
       "license": "other",
       "date_added": "Jun 5 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Waterminder",
+      "category-ids": [
+        "swiftui",
+        "apple-watch"
+      ],
+      "description": "Apple Watch app to remind you to drink water",
+      "source": "https://github.com/caiobzen/water-reminder-swiftui",
+      "license": "mit",
+      "stars": 53,
+      "tags": [
+        "swift",
+        "combine"
+      ],
+      "screenshots": [
+        "https://github.com/caiobzen/water-reminder-swiftui/raw/master/drink-water-app.gif"
+      ],
+      "date_added": "Jun 5 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
