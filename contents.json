@@ -21212,6 +21212,24 @@
       ],
       "date_added": "Jun 5 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Todo Combine SwiftUI",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "To-do list with restful API",
+      "source": "https://github.com/jamfly/SwiftUI-Combine-todo-example",
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/jamfly/SwiftUI-Combine-todo-example/raw/master/asset/demo.png",
+        "https://github.com/jamfly/SwiftUI-Combine-todo-example/raw/master/asset/demo.gif"
+      ],
+      "date_added": "Jun 6 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
