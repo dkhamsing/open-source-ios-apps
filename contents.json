@@ -21197,6 +21197,24 @@
       ],
       "date_added": "Jun 5 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Tell Time UK",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Tell time in British English",
+      "source": "https://github.com/renaudjenny/telltime",
+      "itunes": "https://apps.apple.com/app/tell-time-uk/id1496541173",
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/aidCkq1.png"
+      ],
+      "date_added": "Jun 5 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
