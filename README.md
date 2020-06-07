@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1060-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%206,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1061-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%207,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1981,7 +1981,7 @@ Click ► to show more details
 	<summary><code>swift</code> </summary>
 
 	https://simplelogin.io/<br>  Added May  2, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/01-Homepage.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/02-Create.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/03-Activity.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/04-Contact.png'><code>Screenshot 4</code></a> 
+	<a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/1.png'><code>Screenshot 1</code></a> 
   </details>
 
 
@@ -5442,7 +5442,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	https://simplelogin.io/<br>  Added May  2, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/01-Homepage.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/02-Create.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/03-Activity.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/04-Contact.png'><code>Screenshot 4</code></a> 
+	<a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/1.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Tofu Authenticator](https://github.com/calleerlandsson/Tofu): Easy-to-use two-factor authentication [` App Store`](https://apps.apple.com/app/tofu-authenticator/id1082229305)  
@@ -7273,6 +7273,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June  5, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/aidCkq1.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Todo Combine SwiftUI](https://github.com/jamfly/SwiftUI-Combine-todo-example): To-do list with restful API  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June  6, 2020<br>  License: `other`<br>
+	<a href='https://github.com/jamfly/SwiftUI-Combine-todo-example/raw/master/asset/demo.png'><code>Screenshot 1</code></a> <a href='https://github.com/jamfly/SwiftUI-Combine-todo-example/raw/master/asset/demo.gif'><code>Screenshot 2</code></a> 
   </details>
 
 - [Waterminder](https://github.com/caiobzen/water-reminder-swiftui): Apple Watch app to remind you to drink water  
