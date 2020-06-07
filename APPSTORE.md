@@ -778,7 +778,7 @@ Click ► to show more details
 	<summary><code>swift</code> </summary>
 
 	https://simplelogin.io/<br>  Added May  2, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/01-Homepage.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/02-Create.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/03-Activity.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/04-Contact.png'><code>Screenshot 4</code></a> 
+	<a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/1.png'><code>Screenshot 1</code></a> 
   </details>
 
 
@@ -2190,7 +2190,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	https://simplelogin.io/<br>  Added May  2, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/01-Homepage.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/02-Create.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/03-Activity.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/04-Contact.png'><code>Screenshot 4</code></a> 
+	<a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/1.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Tofu Authenticator](https://github.com/calleerlandsson/Tofu): Easy-to-use two-factor authentication [` App Store`](https://apps.apple.com/app/tofu-authenticator/id1082229305)  
