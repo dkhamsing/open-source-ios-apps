@@ -21247,6 +21247,20 @@
       ],
       "date_added": "Jun 7 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "PowerUp",
+      "category-ids": [
+        "game"
+      ],
+      "source": "https://github.com/anitab-org/powerup-iOS",
+      "license": "gpl-2.0",
+      "tags": [
+        "swift",
+        "archive"
+      ],
+      "date_added": "Jun 8 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
