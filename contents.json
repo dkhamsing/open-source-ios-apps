@@ -21230,6 +21230,23 @@
       ],
       "date_added": "Jun 6 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Currency Converter",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/alexliubj/SwiftUI-Currency-Converter",
+      "license": "other",
+      "tags": [
+        "swift",
+        "swift5"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/alexliubj/SwiftUI-Currency-Converter/master/Screenshots/S1.png"
+      ],
+      "date_added": "Jun 7 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
