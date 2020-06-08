@@ -21261,6 +21261,20 @@
       ],
       "date_added": "Jun 8 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "TweetleDumb",
+      "description": "Mock (dumb) Twitter app",
+      "category-ids": [
+        "social"
+      ],
+      "source": "https://github.com/IanKeen/TweetleDumb",
+      "license": "gpl-2.0",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Jun 8 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
