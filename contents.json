@@ -21275,6 +21275,20 @@
       ],
       "date_added": "Jun 8 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "UDF Demo",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Unidirectional data flow techniques",
+      "source": "https://github.com/AlexeyDemedetskiy/SwiftUI-UDF-Demo",
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Jun 9 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
