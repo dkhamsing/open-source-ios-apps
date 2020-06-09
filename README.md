@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1061-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%207,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1062-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%208,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7107,6 +7107,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added April 23, 2020<br>  License: `other`<br>
 	<a href='https://github.com/Joker462/COVID-19_SwiftUI_Demo/raw/master/example.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)  
+  <details>
+	<summary><code>swift</code> <code>swift5</code> </summary>
+
+	Added June  7, 2020<br>  License: `other`<br>
+	<a href='https://raw.githubusercontent.com/alexliubj/SwiftUI-Currency-Converter/master/Screenshots/S1.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)  
