@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1062-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%208,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1064-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%20%209,%202020-lightgrey.svg)
 
 Jump to
 
@@ -5679,6 +5679,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	https://www.queuedapp.com<br>  Added April 17, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://www.queuedapp.com/img/image-3.png'><code>Screenshot 1</code></a> <a href='https://www.queuedapp.com/img/image-2.png'><code>Screenshot 2</code></a> <a href='https://www.queuedapp.com/img/powerful.png'><code>Screenshot 3</code></a> 
+  </details>
+
+- [TweetleDumb](https://github.com/IanKeen/TweetleDumb): Mock (dumb) Twitter app  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June  8, 2020<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
   </details>
 
 

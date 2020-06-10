@@ -217,6 +217,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Poly API - Samples](https://github.com/googlevr/poly-sample-ios)
 - [Poppins](https://github.com/thoughtbot/poppins)
 - [Potatso](https://github.com/opensourceios/Potatso)
+- [PowerUp](https://github.com/anitab-org/powerup-iOS)
 - [Product Catalogue](https://github.com/contentful/product-catalogue-swift)
 - [Product Kitty](https://github.com/rkho/product-kitty)
 - [projectM](https://sourceforge.net/projects/projectm/)
