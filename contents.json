@@ -21289,6 +21289,21 @@
       ],
       "date_added": "Jun 9 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Upcoming TV",
+      "category-ids": [
+        "media"
+      ],
+      "description": "Track when your favorite tv show airs next",
+      "license": "mit",
+      "source": "https://github.com/dkhamsing/upcomingtv",
+      "screenshots": ["https://github.com/dkhamsing/upcomingtv/raw/master/Images/0.png"],
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Jun 9 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
