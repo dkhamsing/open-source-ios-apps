@@ -21304,6 +21304,24 @@
       ],
       "date_added": "Jun 9 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Grocery Shopping",
+      "category-ids": [
+        "flutter"
+      ],
+      "screenshots": [
+        "https://github.com/Widle-Studio/Grocery-App/raw/master/ScreenShot/Animation%20-11-01-11-57-17-742%5B1%5D-ANIMATION.gif"
+      ],
+      "source": "https://github.com/Widle-Studio/Grocery-App",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "gpl-3.0",
+      "date_added": "Jun 10 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 372
     }
   ]
 }
