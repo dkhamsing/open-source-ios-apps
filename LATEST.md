@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Upcoming TV](https://github.com/dkhamsing/upcomingtv)
-2. [UDF Demo](https://github.com/AlexeyDemedetskiy/SwiftUI-UDF-Demo)
-3. [TweetleDumb](https://github.com/IanKeen/TweetleDumb)
-4. [PowerUp](https://github.com/anitab-org/powerup-iOS)
-5. [Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)
-6. [Todo Combine SwiftUI](https://github.com/jamfly/SwiftUI-Combine-todo-example)
-7. [Tell Time UK](https://github.com/renaudjenny/telltime)
-8. [Waterminder](https://github.com/caiobzen/water-reminder-swiftui)
-9. [Show OpenGL content](https://github.com/bradley/iOSSwiftOpenGL)
-10. [Say Their Name](https://github.com/Say-Their-Name/say-their-names-ios)
-11. [Repositories](https://github.com/kitasuke/SwiftUI-Flux)
-12. [Strife Veteran Edition](https://github.com/svkaiser/strife-ve)
-13. [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-ios)
-14. [Arc](https://github.com/sobri909/ArcMini)
-15. [Lumines remake](https://github.com/kaikai2/luminesk5)
+1. [Grocery Shopping](https://github.com/Widle-Studio/Grocery-App)
+2. [Upcoming TV](https://github.com/dkhamsing/upcomingtv)
+3. [UDF Demo](https://github.com/AlexeyDemedetskiy/SwiftUI-UDF-Demo)
+4. [TweetleDumb](https://github.com/IanKeen/TweetleDumb)
+5. [PowerUp](https://github.com/anitab-org/powerup-iOS)
+6. [Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)
+7. [Todo Combine SwiftUI](https://github.com/jamfly/SwiftUI-Combine-todo-example)
+8. [Tell Time UK](https://github.com/renaudjenny/telltime)
+9. [Waterminder](https://github.com/caiobzen/water-reminder-swiftui)
+10. [Show OpenGL content](https://github.com/bradley/iOSSwiftOpenGL)
+11. [Say Their Name](https://github.com/Say-Their-Name/say-their-names-ios)
+12. [Repositories](https://github.com/kitasuke/SwiftUI-Flux)
+13. [Strife Veteran Edition](https://github.com/svkaiser/strife-ve)
+14. [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-ios)
+15. [Arc](https://github.com/sobri909/ArcMini)
 
 ## Thanks
 
