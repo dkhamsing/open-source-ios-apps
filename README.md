@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1066-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2010,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1066-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2011,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1376,7 +1376,7 @@ Click ► to show more details
 	Added May  3, 2016<br>  License: `other`
   </details>
 
-- [TLS Inspector](https://github.com/certificate-helper/tls-inspector): Verify the secure connection information of any website and ensure that your information is private [` App Store`](https://apps.apple.com/app/apple-store/id1100539810)  
+- [TLS Inspector](https://github.com/tls-inspector/tls-inspector): Verify the secure connection information of any website and ensure that your information is private [` App Store`](https://apps.apple.com/app/apple-store/id1100539810)  
   <details>
 	<summary><code>c</code> <code>objc</code> <code>c++</code> </summary>
 
