@@ -21322,6 +21322,21 @@
       "date_added": "Jun 10 2020",
       "suggested_by": "@dkhamsing",
       "stars": 372
+    },
+    {
+      "title": "FTC Scorer - Skystone",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Simple yet powerful way of scoring practice matches",
+      "source": "https://github.com/Pondorasti/StonkScorer",
+      "screenshots": ["https://media.giphy.com/media/ib9hnrPzudBWOE5hTr/giphy.gif"],
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Jun 11 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
