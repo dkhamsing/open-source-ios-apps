@@ -16474,7 +16474,7 @@
       ],
       "description": "Verify the secure connection information of any website and ensure that your information is private",
       "license": "gpl-3.0",
-      "source": "https://github.com/certificate-helper/tls-inspector",
+      "source": "https://github.com/tls-inspector/tls-inspector",
       "itunes": "https://apps.apple.com/app/apple-store/id1100539810",
       "stars": 80,
       "tags": [
