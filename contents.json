@@ -3766,15 +3766,13 @@
       "title": "Artsy",
       "category-ids": [
         "content",
-        "reactivecocoa"
+        "react-native"
       ],
       "tags": [
         "iphone",
         "ipad",
-        "afnetworking",
-        "mantle",
-        "cocoapodskeys",
-        "reactivecocoa"
+        "reactnative",
+        "typescript"
       ],
       "description": "The art world in your pocket",
       "license": "mit",
@@ -3784,7 +3782,7 @@
       "date_added": "Mon Jan 26 15:55:23 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "https://raw.githubusercontent.com/artsy/eigen/master/docs/screenshots/overview.jpg"
+        "https://i.imgur.com/5HxLvwG.png"
       ]
     },
     {
