@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1066-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2011,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1067-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2011,%202020-lightgrey.svg)
 
 Jump to
 
@@ -6576,6 +6576,14 @@ https://flutter.dev — [back to top](#readme)
 
 	Added April 23, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/rodydavis/gmail_clone/raw/master/screenshots/listview.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Grocery Shopping](https://github.com/Widle-Studio/Grocery-App)  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> ⭐⭐</summary>
+
+	Added June 10, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://github.com/Widle-Studio/Grocery-App/raw/master/ScreenShot/Animation%20-11-01-11-57-17-742%5B1%5D-ANIMATION.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [newsline](https://github.com/ayush221b/newsline)  
