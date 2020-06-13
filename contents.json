@@ -19741,12 +19741,14 @@
     },
     {
       "title": "DailyNews",
-      "description": "Written with %100 programmatically UI",
       "category-ids": [
         "news-api"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "mvvm",
+        "rxswift",
+        "sdwebimage"
       ],
       "screenshots": [
         "https://github.com/latifatcii/DailyNews/raw/master/DailyNewsScreenShots/dailyNewsScreenshot.png"
