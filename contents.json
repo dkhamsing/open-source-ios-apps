@@ -21360,6 +21360,24 @@
       "date_added": "Jun 12 2020",
       "suggested_by": "@dkhamsing",
       "stars": 77
+    },
+    {
+      "title": "Jotify",
+      "category-ids": [
+        "notes"
+      ],
+      "description": "Quick note taking",
+      "source": "https://github.com/leathalman/Jotify",
+      "itunes": "https://apps.apple.com/app/jotify/id1469983730",
+      "screenshots": ["https://i.imgur.com/RzKd4VV.png"],
+      "tags": [
+        "swift",
+        "ipad"
+      ],
+      "stars": 46,
+      "license": "apache-2.0",
+      "date_added": "Jun 13 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
