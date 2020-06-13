@@ -18901,7 +18901,7 @@
       "stars": 29
     },
     {
-      "title": "xFonts",
+      "title": "Fontcase",
       "category-ids": [
         "misc"
       ],
@@ -18910,7 +18910,7 @@
       ],
       "description": "Install your favorite fonts on your device to be able to use them in apps like Pages, Numbers, Keynote, and more",
       "source": "https://github.com/manolosavi/xFonts",
-      "itunes": "https://apps.apple.com/app/xfonts/id1205074470",
+      "itunes": "https://apps.apple.com/app/id1205074470",
       "screenshots": [
         "https://i.imgur.com/ozVlT2F.png"
       ],
