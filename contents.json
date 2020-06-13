@@ -21335,6 +21335,31 @@
       ],
       "date_added": "Jun 11 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Immuni",
+      "description": "Italian Government’s exposure notification solution",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "tags": [
+        "swift",
+        "alamofire",
+        "katana",
+        "tempura",
+        "bonmot"
+      ],
+      "lang": "ita",
+      "source": "https://github.com/immuni-app/immuni-app-ios",
+      "itunes": "https://apps.apple.com/it/app/immuni/id1513940977",
+      "homepage": "https://www.covid.is/app/is",
+      "screenshots": [
+        "https://i.imgur.com/XY1igkP.png"
+      ],
+      "license": "gpl-3.0",
+      "date_added": "Jun 12 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 77
     }
   ]
 }
