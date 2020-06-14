@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1068-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2012,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1069-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2013,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3136,6 +3136,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://i.imgur.com/n50E9Nh.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [Immuni](https://github.com/immuni-app/immuni-app-ios): Italian Government’s exposure notification solution [` App Store`](https://apps.apple.com/it/app/immuni/id1513940977)  
+  <details>
+	<summary><code>swift</code> <code>alamofire</code> <code>katana</code> <code>tempura</code> <code>bonmot</code> 🌐 </summary>
+
+	https://www.covid.is/app/is<br>  Added June 12, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://i.imgur.com/XY1igkP.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [OpenCovidTrace](https://github.com/OpenCovidTrace/octrace-ios): Uses own open-source framework for exposure tracing  
   <details>
 	<summary><code>swift</code> </summary>
@@ -3860,10 +3868,10 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [Artsy](https://github.com/artsy/eigen): The art world in your pocket [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
   <details>
-	<summary><code>iphone</code> <code>ipad</code> <code>afnetworking</code> <code>mantle</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> ⭐⭐⭐⭐⭐</summary>
+	<summary><code>iphone</code> <code>ipad</code> <code>reactnative</code> <code>typescript</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/artsy/eigen/master/docs/screenshots/overview.jpg'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/5HxLvwG.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Artsy Folio](https://github.com/artsy/energy): Artwork showcase [` App Store`](https://apps.apple.com/app/artsy-folio/id504862164)  
@@ -4851,14 +4859,6 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
 	<summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> </summary>
 
 	Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
-- [Artsy](https://github.com/artsy/eigen): The art world in your pocket [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
-  <details>
-	<summary><code>iphone</code> <code>ipad</code> <code>afnetworking</code> <code>mantle</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> ⭐⭐⭐⭐⭐</summary>
-
-	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/artsy/eigen/master/docs/screenshots/overview.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [BrewMobile](https://github.com/brewfactory/BrewMobile): App for managing the beer brewing process  
@@ -6669,6 +6669,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 	Added February  7, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Artsy](https://github.com/artsy/eigen): The art world in your pocket [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
+  <details>
+	<summary><code>iphone</code> <code>ipad</code> <code>reactnative</code> <code>typescript</code> ⭐⭐⭐⭐⭐</summary>
+
+	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/5HxLvwG.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Assemblies](https://github.com/buildreactnative/assemblies): Developer-focused Meetup clone  
