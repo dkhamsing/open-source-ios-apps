@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1069-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2013,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1071-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2014,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1214,7 +1214,7 @@ Click ► to show more details
 	<summary><code>swift</code> <code>docker</code> <code>ipad</code> </summary>
 
 	Added April  7, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://github.com/rrroyal/Harbour/blob/master/Resources/Screenshots/Light/Dashboard.png?raw=true'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/rrroyal/Harbour/blob/main/Resources/Screenshots/Light/Dashboard.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [iOSAppsInfo](https://github.com/wujianguo/iOSAppsInfo): List installed apps & URL schemes  
@@ -1651,6 +1651,14 @@ Click ► to show more details
 
 	Added February 18, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple82/v4/c7/52/24/c7522479-fb2a-3667-7d62-5351dc064423/mzl.swmmmbqv.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2e/ce/1c/2ece1c19-0322-4855-495f-bf6d330e85d5/mzl.vusqxtss.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c9/15/e2/c915e243-0276-f089-195d-f9bb0647025e/mzl.rvnqhird.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/dd/2d/bb/dd2dbb29-2c60-e6cd-9a4d-e90781d04382/mzl.hrjdrozv.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/58/c6/e0/58c6e0ed-5be7-6320-ce72-084232f6a29f/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
+- [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc): Keep track of your GPA [` App Store`](https://apps.apple.com/app/gradecalc-gpa-calculator/id1502912052)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 13, 2020<br>  License: `other`<br>
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [iGrades](https://github.com/maurovc/iGrades): Track your class grades [` App Store`](https://apps.apple.com/app/id816987574)  
@@ -4554,9 +4562,9 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/paulsumit1993/DailyFeed/master/assets/iphone_dailyfeed.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [DailyNews](https://github.com/latifatcii/DailyNews): Written with %100 programmatically UI  
+- [DailyNews](https://github.com/latifatcii/DailyNews)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> <code>mvvm</code> <code>rxswift</code> <code>sdwebimage</code> </summary>
 
 	Added April 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/latifatcii/DailyNews/raw/master/DailyNewsScreenShots/dailyNewsScreenshot.png'><code>Screenshot 1</code></a> 
@@ -5880,6 +5888,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/db/aa/50/dbaa50be-e23a-d283-da53-f8cd9528c169/pr_source.jpg/300x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [Jotify](https://github.com/leathalman/Jotify): Quick note taking [` App Store`](https://apps.apple.com/app/jotify/id1469983730)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> </summary>
+
+	Added June 13, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://i.imgur.com/RzKd4VV.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Loose Leaf](https://github.com/adamwulf/loose-leaf): Take notes, import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://apps.apple.com/app/loose-leaf/id625659452)  
   <details>
 	<summary><code>ipad</code> <code>pdf</code> <code>apple pencil</code> ⭐⭐</summary>
@@ -6209,6 +6225,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/21070922/44155410-d3d87ee8-a0ca-11e8-8502-6f2b2748f5cb.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Fontcase](https://github.com/manolosavi/xFonts): Install your favorite fonts on your device to be able to use them in apps like Pages, Numbers, Keynote, and more [` App Store`](https://apps.apple.com/app/id1205074470)  
+  <details>
+	<summary><code>objc</code> </summary>
+
+	Added April  9, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/ozVlT2F.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [ForceSketch](https://github.com/FlexMonkey/ForceSketch): Sketching app  
   <details>
 	<summary><code>swift</code> ⭐</summary>
@@ -6377,14 +6401,6 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ba/78/06/ba7806d1-3e5b-d46f-9448-84366fabfddd/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/c4/7c/15/c47c15e3-1cad-e572-9583-137114cd94a6/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0b/4f/72/0b4f72ec-9fa5-55ed-a719-3d8208af890c/mzl.ewtijcyp.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- [xFonts](https://github.com/manolosavi/xFonts): Install your favorite fonts on your device to be able to use them in apps like Pages, Numbers, Keynote, and more [` App Store`](https://apps.apple.com/app/xfonts/id1205074470)  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	Added April  9, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/ozVlT2F.png'><code>Screenshot 1</code></a> 
-  </details>
-
 
 ### Appcelerator 
  
@@ -6424,6 +6440,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added April 22, 2020<br>  License: `other`<br>
 	<a href='https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted/raw/master/promo.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc): Keep track of your GPA [` App Store`](https://apps.apple.com/app/gradecalc-gpa-calculator/id1502912052)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 13, 2020<br>  License: `other`<br>
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [Listr](https://github.com/etchsaleh/Listr): Wish list  
@@ -7196,12 +7220,20 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/2082134/58905672-41539280-8745-11e9-99e3-cb3c3c4991f0.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/2082134/59124140-e1a1f500-8999-11e9-9d28-aaa2181a5e43.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/2082134/59275420-4198e400-8c97-11e9-8e44-588f328bde8d.png'><code>Screenshot 3</code></a> 
   </details>
 
+- [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc): Keep track of your GPA [` App Store`](https://apps.apple.com/app/gradecalc-gpa-calculator/id1502912052)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 13, 2020<br>  License: `other`<br>
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
+  </details>
+
 - [Harbour](https://github.com/rrroyal/Harbour): Docker/Portainer app  
   <details>
 	<summary><code>swift</code> <code>docker</code> <code>ipad</code> </summary>
 
 	Added April  7, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://github.com/rrroyal/Harbour/blob/master/Resources/Screenshots/Light/Dashboard.png?raw=true'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/rrroyal/Harbour/blob/main/Resources/Screenshots/Light/Dashboard.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views): Discover and share places you love  
