@@ -18893,7 +18893,7 @@
       "description": "Docker/Portainer app",
       "source": "https://github.com/rrroyal/Harbour",
       "screenshots": [
-        "https://github.com/rrroyal/Harbour/blob/master/Resources/Screenshots/Light/Dashboard.png?raw=true"
+        "https://github.com/rrroyal/Harbour/blob/main/Resources/Screenshots/Light/Dashboard.png?raw=true"
       ],
       "date_added": "Apr 7 2019",
       "license": "gpl-3.0",
@@ -18901,7 +18901,7 @@
       "stars": 29
     },
     {
-      "title": "xFonts",
+      "title": "Fontcase",
       "category-ids": [
         "misc"
       ],
@@ -18910,7 +18910,7 @@
       ],
       "description": "Install your favorite fonts on your device to be able to use them in apps like Pages, Numbers, Keynote, and more",
       "source": "https://github.com/manolosavi/xFonts",
-      "itunes": "https://apps.apple.com/app/xfonts/id1205074470",
+      "itunes": "https://apps.apple.com/app/id1205074470",
       "screenshots": [
         "https://i.imgur.com/ozVlT2F.png"
       ],
@@ -19741,12 +19741,14 @@
     },
     {
       "title": "DailyNews",
-      "description": "Written with %100 programmatically UI",
       "category-ids": [
         "news-api"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "mvvm",
+        "rxswift",
+        "sdwebimage"
       ],
       "screenshots": [
         "https://github.com/latifatcii/DailyNews/raw/master/DailyNewsScreenShots/dailyNewsScreenshot.png"
@@ -21383,6 +21385,23 @@
       "license": "other",
       "date_added": "Jun 13 2020",
       "suggested_by": "@marlon360"
+    }, {
+      "title": "Jotify",
+      "category-ids": [
+        "notes"
+      ],
+      "description": "Quick note taking",
+      "source": "https://github.com/leathalman/Jotify",
+      "itunes": "https://apps.apple.com/app/jotify/id1469983730",
+      "screenshots": ["https://i.imgur.com/RzKd4VV.png"],
+      "tags": [
+        "swift",
+        "ipad"
+      ],
+      "stars": 46,
+      "license": "apache-2.0",
+      "date_added": "Jun 13 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
