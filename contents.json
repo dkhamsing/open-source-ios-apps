@@ -21402,6 +21402,25 @@
       "license": "apache-2.0",
       "date_added": "Jun 13 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "ViruSafe",
+      "description": "Share symptoms as well track the spread of COVID-19 with an interactive map, that shows how the infection has spread throughout Bulgaria",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "lang": "bul",
+      "source": "https://github.com/scalefocus/virusafe-ios",
+      "itunes": "https://apps.apple.com/bg/app/virusafe/id1506362170",
+      "screenshots": [
+        "https://i.imgur.com/u6kmnSm.png"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Jun 14 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
