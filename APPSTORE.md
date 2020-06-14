@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **259** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **260** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1271,6 +1271,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://i.imgur.com/9xfQb6n.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Immuni](https://github.com/immuni-app/immuni-app-ios): Italian Government’s exposure notification solution [` App Store`](https://apps.apple.com/it/app/immuni/id1513940977)  
+  <details>
+	<summary><code>swift</code> <code>alamofire</code> <code>katana</code> <code>tempura</code> <code>bonmot</code> 🌐 </summary>
+
+	https://www.covid.is/app/is<br>  Added June 12, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://i.imgur.com/XY1igkP.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [rakning-c19-app](https://github.com/aranja/rakning-c19-app): By the Icelandic Government, help analyse individuals’ travel and trace their movements when cases of infection arise [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876)  
   <details>
 	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
@@ -1633,10 +1641,10 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [Artsy](https://github.com/artsy/eigen): The art world in your pocket [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
   <details>
-	<summary><code>iphone</code> <code>ipad</code> <code>afnetworking</code> <code>mantle</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> ⭐⭐⭐⭐⭐</summary>
+	<summary><code>iphone</code> <code>ipad</code> <code>reactnative</code> <code>typescript</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/artsy/eigen/master/docs/screenshots/overview.jpg'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/5HxLvwG.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Artsy Folio](https://github.com/artsy/energy): Artwork showcase [` App Store`](https://apps.apple.com/app/artsy-folio/id504862164)  
@@ -2048,14 +2056,6 @@ https://newsapi.org/ — [back to top](#readme)
  
 https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme) 
  
-- [Artsy](https://github.com/artsy/eigen): The art world in your pocket [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
-  <details>
-	<summary><code>iphone</code> <code>ipad</code> <code>afnetworking</code> <code>mantle</code> <code>cocoapodskeys</code> <code>reactivecocoa</code> ⭐⭐⭐⭐⭐</summary>
-
-	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/artsy/eigen/master/docs/screenshots/overview.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Tropos Weather](https://github.com/thoughtbot/Tropos) [` App Store`](https://apps.apple.com/app/tropos-weather-forecasts-for/id955209376)  
   <details>
 	<summary><code>dark sky api (forecast api)</code> <code>reactivecocoa</code> ⭐⭐⭐⭐</summary>
@@ -2691,6 +2691,14 @@ https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme)
  
 http://facebook.github.io/react-native/ — [back to top](#readme) 
  
+- [Artsy](https://github.com/artsy/eigen): The art world in your pocket [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
+  <details>
+	<summary><code>iphone</code> <code>ipad</code> <code>reactnative</code> <code>typescript</code> ⭐⭐⭐⭐⭐</summary>
+
+	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/5HxLvwG.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Bristol Pound](https://gitlab.com/TownPound/Cyclos/ScottLogic.mobile.react-native/BristolPound): Simple and convenient way to pay in Bristol Pounds while supporting local businesses [` App Store`](https://apps.apple.com/gb/app/bristol-pound/id1230035185)  
   <details>
 	<summary><code>react-native</code> </summary>
