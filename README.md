@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1071-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2014,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1072-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2015,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3197,6 +3197,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	Added April 17, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/Xs48MLQ.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [ViruSafe](https://github.com/scalefocus/virusafe-ios): Share symptoms as well track the spread of COVID-19 with an interactive map, that shows how the infection has spread throughout Bulgaria [` App Store`](https://apps.apple.com/bg/app/virusafe/id1506362170)  
+  <details>
+	<summary><code>swift</code> 🌐 </summary>
+
+	Added June 14, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://i.imgur.com/u6kmnSm.png'><code>Screenshot 1</code></a> 
   </details>
 
 
