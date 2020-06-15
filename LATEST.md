@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Immuni](https://github.com/immuni-app/immuni-app-ios)
-2. [FTC Scorer - Skystone](https://github.com/Pondorasti/StonkScorer)
-3. [Grocery Shopping](https://github.com/Widle-Studio/Grocery-App)
-4. [Upcoming TV](https://github.com/dkhamsing/upcomingtv)
-5. [UDF Demo](https://github.com/AlexeyDemedetskiy/SwiftUI-UDF-Demo)
-6. [TweetleDumb](https://github.com/IanKeen/TweetleDumb)
-7. [PowerUp](https://github.com/anitab-org/powerup-iOS)
-8. [Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)
-9. [Todo Combine SwiftUI](https://github.com/jamfly/SwiftUI-Combine-todo-example)
-10. [Tell Time UK](https://github.com/renaudjenny/telltime)
-11. [Waterminder](https://github.com/caiobzen/water-reminder-swiftui)
-12. [Show OpenGL content](https://github.com/bradley/iOSSwiftOpenGL)
-13. [Say Their Name](https://github.com/Say-Their-Name/say-their-names-ios)
-14. [Repositories](https://github.com/kitasuke/SwiftUI-Flux)
-15. [Strife Veteran Edition](https://github.com/svkaiser/strife-ve)
+1. [Jotify](https://github.com/leathalman/Jotify)
+2. [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc)
+3. [Immuni](https://github.com/immuni-app/immuni-app-ios)
+4. [FTC Scorer - Skystone](https://github.com/Pondorasti/StonkScorer)
+5. [Grocery Shopping](https://github.com/Widle-Studio/Grocery-App)
+6. [Upcoming TV](https://github.com/dkhamsing/upcomingtv)
+7. [UDF Demo](https://github.com/AlexeyDemedetskiy/SwiftUI-UDF-Demo)
+8. [TweetleDumb](https://github.com/IanKeen/TweetleDumb)
+9. [PowerUp](https://github.com/anitab-org/powerup-iOS)
+10. [Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)
+11. [Todo Combine SwiftUI](https://github.com/jamfly/SwiftUI-Combine-todo-example)
+12. [Tell Time UK](https://github.com/renaudjenny/telltime)
+13. [Waterminder](https://github.com/caiobzen/water-reminder-swiftui)
+14. [Show OpenGL content](https://github.com/bradley/iOSSwiftOpenGL)
+15. [Say Their Name](https://github.com/Say-Their-Name/say-their-names-ios)
 
 ## Thanks
 

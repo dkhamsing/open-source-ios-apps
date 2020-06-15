@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **260** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **262** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -662,6 +662,14 @@ Click ► to show more details
 
 	Added April 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc): Keep track of your GPA [` App Store`](https://apps.apple.com/app/gradecalc-gpa-calculator/id1502912052)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 13, 2020<br>  License: `other`<br>
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [iGrades](https://github.com/maurovc/iGrades): Track your class grades [` App Store`](https://apps.apple.com/app/id816987574)  
@@ -2452,6 +2460,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/db/aa/50/dbaa50be-e23a-d283-da53-f8cd9528c169/pr_source.jpg/300x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [Jotify](https://github.com/leathalman/Jotify): Quick note taking [` App Store`](https://apps.apple.com/app/jotify/id1469983730)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> </summary>
+
+	Added June 13, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://i.imgur.com/RzKd4VV.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Loose Leaf](https://github.com/adamwulf/loose-leaf): Take notes, import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://apps.apple.com/app/loose-leaf/id625659452)  
   <details>
 	<summary><code>ipad</code> <code>pdf</code> <code>apple pencil</code> ⭐⭐</summary>
@@ -2568,6 +2584,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://github.com/emoncms/emoncms-ios/blob/master/images/screen1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/emoncms/emoncms-ios/blob/master/images/screen2.png?raw=true'><code>Screenshot 2</code></a> 
   </details>
 
+- [Fontcase](https://github.com/manolosavi/xFonts): Install your favorite fonts on your device to be able to use them in apps like Pages, Numbers, Keynote, and more [` App Store`](https://apps.apple.com/app/id1205074470)  
+  <details>
+	<summary><code>objc</code> </summary>
+
+	Added April  9, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/ozVlT2F.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [FreeRDP](https://github.com/FreeRDP/FreeRDP): An implementation of the Remote Desktop Protocol (RDP) [` App Store`](https://apps.apple.com/app/ifreerdp/id604813768)  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
@@ -2640,14 +2664,6 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ba/78/06/ba7806d1-3e5b-d46f-9448-84366fabfddd/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/c4/7c/15/c47c15e3-1cad-e572-9583-137114cd94a6/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0b/4f/72/0b4f72ec-9fa5-55ed-a719-3d8208af890c/mzl.ewtijcyp.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- [xFonts](https://github.com/manolosavi/xFonts): Install your favorite fonts on your device to be able to use them in apps like Pages, Numbers, Keynote, and more [` App Store`](https://apps.apple.com/app/xfonts/id1205074470)  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	Added April  9, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/ozVlT2F.png'><code>Screenshot 1</code></a> 
-  </details>
-
 
 ### Appcelerator 
  
@@ -2658,6 +2674,14 @@ https://joinmastodon.org — [back to top](#readme)
  
 [back to top](#readme) 
  
+- [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc): Keep track of your GPA [` App Store`](https://apps.apple.com/app/gradecalc-gpa-calculator/id1502912052)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 13, 2020<br>  License: `other`<br>
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
+  </details>
+
 
 ### Firebase 
  
@@ -2826,6 +2850,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added April 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc): Keep track of your GPA [` App Store`](https://apps.apple.com/app/gradecalc-gpa-calculator/id1502912052)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 13, 2020<br>  License: `other`<br>
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [Tell Time UK](https://github.com/renaudjenny/telltime): Tell time in British English [` App Store`](https://apps.apple.com/app/tell-time-uk/id1496541173)  
