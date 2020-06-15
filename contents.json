@@ -21421,6 +21421,25 @@
       "license": "apache-2.0",
       "date_added": "Jun 14 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "InfiniteListSwiftUI",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Paginated endless scroll",
+      "source": "https://github.com/V8tr/InfiniteListSwiftUI",
+      "tags": [
+        "swift",
+        "combine",
+        "github"
+      ],
+      "screenshots": [
+         "https://github.com/V8tr/InfiniteListSwiftUI/raw/master/demo.gif"
+      ],
+      "license": "other",
+      "date_added": "Jun 13 2020",
+      "suggested_by": "@marlon360"
     }
   ]
 }
