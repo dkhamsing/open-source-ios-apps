@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **262** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **263** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1301,6 +1301,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	Added April 25, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://i.imgur.com/K0JV32C.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [ViruSafe](https://github.com/scalefocus/virusafe-ios): Share symptoms as well track the spread of COVID-19 with an interactive map, that shows how the infection has spread throughout Bulgaria [` App Store`](https://apps.apple.com/bg/app/virusafe/id1506362170)  
+  <details>
+	<summary><code>swift</code> 🌐 </summary>
+
+	Added June 14, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://i.imgur.com/u6kmnSm.png'><code>Screenshot 1</code></a> 
   </details>
 
 
