@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Jotify](https://github.com/leathalman/Jotify)
-2. [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc)
-3. [Immuni](https://github.com/immuni-app/immuni-app-ios)
-4. [FTC Scorer - Skystone](https://github.com/Pondorasti/StonkScorer)
-5. [Grocery Shopping](https://github.com/Widle-Studio/Grocery-App)
-6. [Upcoming TV](https://github.com/dkhamsing/upcomingtv)
-7. [UDF Demo](https://github.com/AlexeyDemedetskiy/SwiftUI-UDF-Demo)
-8. [TweetleDumb](https://github.com/IanKeen/TweetleDumb)
-9. [PowerUp](https://github.com/anitab-org/powerup-iOS)
-10. [Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)
-11. [Todo Combine SwiftUI](https://github.com/jamfly/SwiftUI-Combine-todo-example)
-12. [Tell Time UK](https://github.com/renaudjenny/telltime)
-13. [Waterminder](https://github.com/caiobzen/water-reminder-swiftui)
-14. [Show OpenGL content](https://github.com/bradley/iOSSwiftOpenGL)
-15. [Say Their Name](https://github.com/Say-Their-Name/say-their-names-ios)
+1. [ViruSafe](https://github.com/scalefocus/virusafe-ios)
+2. [Jotify](https://github.com/leathalman/Jotify)
+3. [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc)
+4. [Immuni](https://github.com/immuni-app/immuni-app-ios)
+5. [FTC Scorer - Skystone](https://github.com/Pondorasti/StonkScorer)
+6. [Grocery Shopping](https://github.com/Widle-Studio/Grocery-App)
+7. [Upcoming TV](https://github.com/dkhamsing/upcomingtv)
+8. [UDF Demo](https://github.com/AlexeyDemedetskiy/SwiftUI-UDF-Demo)
+9. [TweetleDumb](https://github.com/IanKeen/TweetleDumb)
+10. [PowerUp](https://github.com/anitab-org/powerup-iOS)
+11. [Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)
+12. [Todo Combine SwiftUI](https://github.com/jamfly/SwiftUI-Combine-todo-example)
+13. [Tell Time UK](https://github.com/renaudjenny/telltime)
+14. [Waterminder](https://github.com/caiobzen/water-reminder-swiftui)
+15. [Show OpenGL content](https://github.com/bradley/iOSSwiftOpenGL)
 
 ## Thanks
 
