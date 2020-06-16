@@ -15815,10 +15815,11 @@
         "location"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "ipad"
       ],
       "screenshots": [
-        "https://i.imgur.com/CQ98cNq.png"                
+        "https://i.imgur.com/CQ98cNq.png"
       ],
       "stars": 642,
       "license": "mit",
