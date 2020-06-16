@@ -1405,10 +1405,10 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 - [iPokeGo](https://github.com/istornz/iPokeGo): Map Pokemon around you! [` App Store`](https://apps.apple.com/app/ipokego-for-pokemon-go/id1138277066)  
   <details>
-	<summary><code>objc</code> ⭐⭐⭐</summary>
+	<summary><code>objc</code> <code>ipad</code> ⭐⭐⭐</summary>
 
 	Added January 14, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo7.jpg'><code>Screenshot 1</code></a> <a href='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo8.jpg'><code>Screenshot 2</code></a> <a href='http://dimitridessus.fr/img/iPokeGo/screenshots/iPokeGo3.jpg'><code>Screenshot 3</code></a> 
+	<a href='https://i.imgur.com/CQ98cNq.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [MAPS.ME](https://github.com/mapsme/omim): Offline maps app with navigation [` App Store`](https://apps.apple.com/app/id510623322)  
