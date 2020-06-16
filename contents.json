@@ -21004,6 +21004,7 @@
       "description": "Uses Apple's Exposure Notification framework",
       "license": "apache-2.0",
       "source": "https://github.com/corona-warn-app/cwa-app-ios",
+      "itunes": "https://apps.apple.com/de/app/corona-warn-app/id1512595757",
       "tags": [
         "swift"
       ],
