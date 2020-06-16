@@ -122,6 +122,11 @@
       "parent": "health"
     },
     {
+      "id": "contact-tracing-reference",
+      "title": "Contact Tracing Reference",
+      "parent": "health"
+    },
+    {
       "id": "fitness",
       "title": "Fitness",
       "parent": "health"
@@ -19300,7 +19305,7 @@
     {
       "title": "TracePrivately",
       "category-ids": [
-        "contact-tracing"
+        "contact-tracing-reference"
       ],
       "description": "Uses Apple's Privacy-Preserving Contact Tracing framework (Exposure Notification system)",
       "license": "other",
@@ -19488,8 +19493,8 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "rakning-c19-app",
-      "description": "By the Icelandic Government, help analyse individuals’ travel and trace their movements when cases of infection arise",
+      "title": "Iceland - rakning-c19-app",
+      "description": "Help analyse individuals’ travel and trace their movements when cases of infection arise",
       "category-ids": [
         "contact-tracing",
         "react-native"
@@ -19510,8 +19515,7 @@
       "stars": 233
     },
     {
-      "title": "erouska-ios",
-      "description": "By the Ministry of Health of the Czech Republic",
+      "title": "Czech Republic - erouska-ios",
       "category-ids": [
         "contact-tracing"
       ],
@@ -19532,8 +19536,8 @@
       "stars": 66
     },
     {
-      "title": "Hamagen",
-      "description": "Israel's Ministry of Health's COVID-19 exposure prevention app",
+      "title": "Israel - Hamagen",
+      "description": "COVID-19 exposure prevention app",
       "category-ids": [
         "contact-tracing",
         "react-native"
@@ -19713,12 +19717,12 @@
       "stars": 264
     },
     {
-      "title": "Stopp Corona",
+      "title": "Austria - Stopp Corona",
       "category-ids": [
         "contact-tracing"
       ],
       "lang": "deu",
-      "description": "By the Austrian Red Cross, keep track of encounters with friends, family or co-workers and save them anonymously",
+      "description": "Keep track of encounters with friends, family or co-workers and save them anonymously",
       "license": "apache-2.0",
       "source": "https://github.com/austrianredcross/stopp-corona-ios",
       "itunes": "https://apps.apple.com/at/app/apple-store/id1503717224",
@@ -19971,7 +19975,7 @@
       "title": "ExposureNotificationApp",
       "description": "Inform people when they may have been exposed to COVID-19, using ExposureNotification framework (code by Apple)",
       "category-ids": [
-        "contact-tracing"
+        "contact-tracing-reference"
       ],
       "tags": [
         "swift"
@@ -20734,11 +20738,10 @@
       "stars": 1
     },
     {
-      "title": "COVIDSafe",
+      "title": "Australia - COVIDSafe",
       "category-ids": [
         "contact-tracing"
       ],
-      "description": "By the Australian Department of Health",
       "license": "other",
       "source": "https://github.com/AU-COVIDSafe/mobile-ios",
       "itunes": "https://apps.apple.com/au/app/covidsafe/id1509242894",
@@ -20841,8 +20844,7 @@
       "stars": 15
     },
     {
-      "title": "StopCovid",
-      "description": "By INRIA (French Government)",
+      "title": "France - StopCovid",
       "category-ids": [
         "contact-tracing"
       ],
@@ -20929,7 +20931,7 @@
     {
       "title": "OpenCovidTrace",
       "category-ids": [
-        "contact-tracing"
+        "contact-tracing-reference"
       ],
       "description": "Uses own open-source framework for exposure tracing",
       "license": "gpl-3.0",
@@ -20977,11 +20979,10 @@
       "stars": 78
     },
     {
-      "title": "Swiss PT – DP3T (Switzerland)",
+      "title": "Switzerland - Swiss PT – DP3T",
       "category-ids": [
         "contact-tracing"
       ],
-      "description": "COVID-19 tracing client using the DP3T SDK",
       "license": "mpl-2.0",
       "source": "https://github.com/DP-3T/dp3t-app-ios-ch",
       "tags": [
@@ -20996,7 +20997,7 @@
       "stars": 70
     },
     {
-      "title": "Corona Warn App (Germany)",
+      "title": "Germany - Corona Warn App",
       "category-ids": [
         "contact-tracing"
       ],
@@ -21338,8 +21339,7 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Immuni",
-      "description": "Italian Government’s exposure notification solution",
+      "title": "Italy - Immuni",
       "category-ids": [
         "contact-tracing"
       ],
@@ -21403,8 +21403,8 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "ViruSafe",
-      "description": "Share symptoms as well track the spread of COVID-19 with an interactive map, that shows how the infection has spread throughout Bulgaria",
+      "title": "Bulgaria - ViruSafe",
+      "description": "Share symptoms as well track the spread of COVID-19 with an interactive map",
       "category-ids": [
         "contact-tracing"
       ],
