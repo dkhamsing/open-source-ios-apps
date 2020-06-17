@@ -21440,6 +21440,26 @@
       "license": "other",
       "date_added": "Jun 13 2020",
       "suggested_by": "@marlon360"
+    },
+    {
+      "title": "Poland - ProteGO Safe",
+      "description": "User daily triage and contact tracing using Exposure Notification API",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "lang": "pol",
+      "source": "https://github.com/ProteGO-Safe/ios",
+      "itunes": "https://apps.apple.com/pl/app/protego-safe/id1508481566 ",
+      "screenshots": [
+        "https://i.imgur.com/Qy5fzXo.png"
+      ],
+      "license": "other",
+      "date_added": "Jun 16 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 82
     }
   ]
 }
