@@ -19307,7 +19307,7 @@
       "category-ids": [
         "contact-tracing-reference"
       ],
-      "description": "Uses Apple's Privacy-Preserving Contact Tracing framework (Exposure Notification system)",
+      "description": "Uses Apple's Privacy-preserving ExposureNotification framework",
       "license": "other",
       "source": "https://github.com/CrunchyBagel/TracePrivately",
       "tags": [
@@ -19973,7 +19973,7 @@
     },
     {
       "title": "ExposureNotificationApp",
-      "description": "Inform people when they may have been exposed to COVID-19, using ExposureNotification framework (code by Apple)",
+      "description": "Inform people when they may have been exposed to COVID-19, using Apple's ExposureNotification framework",
       "category-ids": [
         "contact-tracing-reference"
       ],
