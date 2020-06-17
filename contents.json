@@ -21460,6 +21460,26 @@
       "date_added": "Jun 16 2020",
       "suggested_by": "@dkhamsing",
       "stars": 82
+    },
+    {
+      "title": "BringMyOwnBeer",
+      "category-ids": [
+        "content"
+      ],
+      "description": "Beer browser",
+      "license": "other",
+      "source": "https://github.com/fimuxd/BringMyOwnBeer-",
+      "tags": [
+        "swift",
+        "rxswift",
+        "kingfisher"
+      ],
+      "stars": 45,
+      "date_added": "Jun 17 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://github.com/fimuxd/BringMyOwnBeer-/raw/develop/스크린샷%202019-07-15%2012.11.32.png?raw=true"
+      ]
     }
   ]
 }
