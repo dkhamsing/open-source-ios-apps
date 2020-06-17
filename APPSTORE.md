@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **263** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **265** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -36,6 +36,7 @@ Jump to
   - [SpriteKit](#spritekit) 
 - [Health](#health) 
   - [Contact Tracing](#contact-tracing) 
+  - [Contact Tracing Reference](#contact-tracing-reference) 
   - [Fitness](#fitness) 
   - [ResearchKit](#researchkit) 
 - [Home](#home) 
@@ -1271,7 +1272,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [COVIDSafe](https://github.com/AU-COVIDSafe/mobile-ios): By the Australian Department of Health [` App Store`](https://apps.apple.com/au/app/covidsafe/id1509242894)  
+- [Australia - COVIDSafe](https://github.com/AU-COVIDSafe/mobile-ios) [` App Store`](https://apps.apple.com/au/app/covidsafe/id1509242894)  
   <details>
 	<summary><code>swift</code> <code>alamofire</code> <code>keychainswift</code> <code>lottie</code> ⭐⭐</summary>
 
@@ -1279,23 +1280,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://i.imgur.com/9xfQb6n.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Immuni](https://github.com/immuni-app/immuni-app-ios): Italian Government’s exposure notification solution [` App Store`](https://apps.apple.com/it/app/immuni/id1513940977)  
-  <details>
-	<summary><code>swift</code> <code>alamofire</code> <code>katana</code> <code>tempura</code> <code>bonmot</code> 🌐 </summary>
-
-	https://www.covid.is/app/is<br>  Added June 12, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://i.imgur.com/XY1igkP.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [rakning-c19-app](https://github.com/aranja/rakning-c19-app): By the Icelandic Government, help analyse individuals’ travel and trace their movements when cases of infection arise [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876)  
-  <details>
-	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
-
-	https://www.covid.is/app/is<br>  Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/isjn4UG.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Stopp Corona](https://github.com/austrianredcross/stopp-corona-ios): By the Austrian Red Cross, keep track of encounters with friends, family or co-workers and save them anonymously [` App Store`](https://apps.apple.com/at/app/apple-store/id1503717224)  
+- [Austria - Stopp Corona](https://github.com/austrianredcross/stopp-corona-ios): Keep track of encounters with friends, family or co-workers and save them anonymously [` App Store`](https://apps.apple.com/at/app/apple-store/id1503717224)  
   <details>
 	<summary><code>swift</code> <code>swiftlint</code> <code>moya</code> <code>swiftybeaver</code> <code>firebase</code> <code>sqlite</code> <code>lottie</code> 🌐 ⭐</summary>
 
@@ -1303,7 +1288,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://i.imgur.com/K0JV32C.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [ViruSafe](https://github.com/scalefocus/virusafe-ios): Share symptoms as well track the spread of COVID-19 with an interactive map, that shows how the infection has spread throughout Bulgaria [` App Store`](https://apps.apple.com/bg/app/virusafe/id1506362170)  
+- [Bulgaria - ViruSafe](https://github.com/scalefocus/virusafe-ios): Share symptoms as well track the spread of COVID-19 with an interactive map [` App Store`](https://apps.apple.com/bg/app/virusafe/id1506362170)  
   <details>
 	<summary><code>swift</code> 🌐 </summary>
 
@@ -1311,6 +1296,43 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://i.imgur.com/u6kmnSm.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Germany - Corona Warn App](https://github.com/corona-warn-app/cwa-app-ios): Uses Apple's Exposure Notification framework [` App Store`](https://apps.apple.com/de/app/corona-warn-app/id1512595757)  
+  <details>
+	<summary><code>swift</code> 🌐 ⭐⭐</summary>
+
+	Added May 31, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://github.com/corona-warn-app/cwa-documentation/raw/master/images/ui_screens/ui_screens_ios.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Iceland - rakning-c19-app](https://github.com/aranja/rakning-c19-app): Help analyse individuals’ travel and trace their movements when cases of infection arise [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876)  
+  <details>
+	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
+
+	https://www.covid.is/app/is<br>  Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/isjn4UG.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Italy - Immuni](https://github.com/immuni-app/immuni-app-ios) [` App Store`](https://apps.apple.com/it/app/immuni/id1513940977)  
+  <details>
+	<summary><code>swift</code> <code>alamofire</code> <code>katana</code> <code>tempura</code> <code>bonmot</code> 🌐 </summary>
+
+	https://www.covid.is/app/is<br>  Added June 12, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://i.imgur.com/XY1igkP.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Poland - ProteGO Safe](https://github.com/ProteGO-Safe/ios): User daily triage and contact tracing using Exposure Notification API [` App Store`](https://apps.apple.com/pl/app/protego-safe/id1508481566)  
+  <details>
+	<summary><code>swift</code> 🌐 </summary>
+
+	Added June 16, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/Qy5fzXo.png'><code>Screenshot 1</code></a> 
+  </details>
+
+
+### Contact Tracing Reference 
+ 
+[back to top](#readme) 
+ 
 
 ### Fitness 
  
@@ -1679,7 +1701,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c9/62/b5/c962b556-d941-76a6-1bf9-365b817c8539/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6e/0b/8f/6e0b8fb9-99ec-7490-b13b-48972561f4a4/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bf/82/f8/bf82f8db-130e-c6bf-cd08-b273679747f1/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3e/a8/e6/3ea8e6c4-ca6a-b609-552e-6b46e218a0a1/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/58/b9/bf/58b9bf1a-6ae9-6336-a823-60479de91825/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [KonaBot](https://github.com/hkalexling/KonaBot-iOS): An app for http://konachan.net/ [` App Store`](https://apps.apple.com/app/konabot/id1055716649)  
+- [KonaBot](https://github.com/hkalexling/KonaBot-iOS): An app for https://konachan.net/ [` App Store`](https://apps.apple.com/app/konabot/id1055716649)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -2755,6 +2777,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<a href='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'><code>Screenshot 2</code></a> 
   </details>
 
+- [Iceland - rakning-c19-app](https://github.com/aranja/rakning-c19-app): Help analyse individuals’ travel and trace their movements when cases of infection arise [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876)  
+  <details>
+	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
+
+	https://www.covid.is/app/is<br>  Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/isjn4UG.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet): Video meetings for everyone [` App Store`](https://apps.apple.com/app/jitsi-meet/id1165103905)  
   <details>
 	<summary><code>react-native</code> ⭐⭐⭐⭐⭐</summary>
@@ -2808,14 +2838,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 	Added September 14, 2016<br>  License: `other`<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/92/e1/4d/92e14db4-8386-6f71-161b-652d76ce89ee/mzl.rlgaqcnk.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/43/11/f3/4311f37f-7232-b725-cd03-f4e8f2e7ace4/mzl.askczwpt.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/62/db/8d/62db8da0-0810-dfd0-937a-63dfc6fae957/mzl.odiufjsj.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/fb/29/a9fb2936-ca9e-c88e-1276-e7a60a5fa565/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/32/c4/b632c4ee-2e2c-ff81-dd04-87e9f49f7341/mzl.sckfqxlh.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
-  </details>
-
-- [rakning-c19-app](https://github.com/aranja/rakning-c19-app): By the Icelandic Government, help analyse individuals’ travel and trace their movements when cases of infection arise [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876)  
-  <details>
-	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
-
-	https://www.covid.is/app/is<br>  Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/isjn4UG.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [React Native Hacker News](https://github.com/G2Jose/ReactNative-HackerNews) [` App Store`](https://apps.apple.com/app/react-native-hacker-news/id1220272464)  
