@@ -19515,7 +19515,7 @@
       "stars": 233
     },
     {
-      "title": "Czech Republic - erouska-ios",
+      "title": "Czech Republic - eRouška",
       "category-ids": [
         "contact-tracing"
       ],
@@ -19529,6 +19529,7 @@
       ],
       "lang": "ces",
       "source": "https://github.com/covid19cz/erouska-ios",
+      "itunes": "https://apps.apple.com/cz/app/erou%C5%A1ka/id1509210215",
       "homepage": "https://erouska.cz/",
       "license": "mit",
       "date_added": "Apr 21 2020",
@@ -19550,6 +19551,7 @@
       ],
       "lang": "heb",
       "source": "https://github.com/MohGovIL/hamagen-react-native",
+      "itunes": "https://apps.apple.com/app/id1503224314?",
       "license": "mit",
       "date_added": "Apr 21 2020",
       "suggested_by": "@dkhamsing",
@@ -20853,6 +20855,7 @@
       ],
       "lang": "fra",
       "source": "https://gitlab.inria.fr/stopcovid19/stopcovid-ios",
+      "itunes": "https://apps.apple.com/app/stopcovid-france/id1511279125",
       "homepage": "https://www.economie.gouv.fr/stopcovid",
       "screenshots": [
         "https://i.imgur.com/xCpSSbP.png"
@@ -20979,12 +20982,14 @@
       "stars": 78
     },
     {
-      "title": "Switzerland - Swiss PT – DP3T",
+      "title": "Switzerland - SwissCovid",
+      "description": "COVID-19 tracing client using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T)",
       "category-ids": [
         "contact-tracing"
       ],
       "license": "mpl-2.0",
       "source": "https://github.com/DP-3T/dp3t-app-ios-ch",
+      "itunes": "https://apps.apple.com/ch/app/swisscovid-preview/id1509275381",
       "tags": [
         "swift"
       ],
