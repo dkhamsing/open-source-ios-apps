@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **265** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **269** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1296,6 +1296,22 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://i.imgur.com/u6kmnSm.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Czech Republic - eRouška](https://github.com/covid19cz/erouska-ios) [` App Store`](https://apps.apple.com/cz/app/erou%C5%A1ka/id1509210215)  
+  <details>
+	<summary><code>swift</code> <code>rxswift</code> <code>bluetooth</code> 🌐 </summary>
+
+	https://erouska.cz/<br>  Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/9f1ojFj.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [France - StopCovid](https://gitlab.inria.fr/stopcovid19/stopcovid-ios) [` App Store`](https://apps.apple.com/app/stopcovid-france/id1511279125)  
+  <details>
+	<summary><code>swift</code> 🌐 </summary>
+
+	https://www.economie.gouv.fr/stopcovid<br>  Added May 26, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/xCpSSbP.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Germany - Corona Warn App](https://github.com/corona-warn-app/cwa-app-ios): Uses Apple's Exposure Notification framework [` App Store`](https://apps.apple.com/de/app/corona-warn-app/id1512595757)  
   <details>
 	<summary><code>swift</code> 🌐 ⭐⭐</summary>
@@ -1312,6 +1328,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://i.imgur.com/isjn4UG.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Israel - Hamagen](https://github.com/MohGovIL/hamagen-react-native): COVID-19 exposure prevention app [` App Store`](https://apps.apple.com/app/id1503224314)  
+  <details>
+	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
+
+	Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/n50E9Nh.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Italy - Immuni](https://github.com/immuni-app/immuni-app-ios) [` App Store`](https://apps.apple.com/it/app/immuni/id1513940977)  
   <details>
 	<summary><code>swift</code> <code>alamofire</code> <code>katana</code> <code>tempura</code> <code>bonmot</code> 🌐 </summary>
@@ -1326,6 +1350,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	Added June 16, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/Qy5fzXo.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Switzerland - SwissCovid](https://github.com/DP-3T/dp3t-app-ios-ch): COVID-19 tracing client using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T) [` App Store`](https://apps.apple.com/ch/app/swisscovid-preview/id1509275381)  
+  <details>
+	<summary><code>swift</code> 🌐 </summary>
+
+	Added May 30, 2020<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
+	<a href='https://github.com/DP-3T/dp3t-app-ios-ch/blob/develop/Documentation/screenshots/screenshots.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 
@@ -2783,6 +2815,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 	https://www.covid.is/app/is<br>  Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/isjn4UG.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Israel - Hamagen](https://github.com/MohGovIL/hamagen-react-native): COVID-19 exposure prevention app [` App Store`](https://apps.apple.com/app/id1503224314)  
+  <details>
+	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
+
+	Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/n50E9Nh.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet): Video meetings for everyone [` App Store`](https://apps.apple.com/app/jitsi-meet/id1165103905)  
