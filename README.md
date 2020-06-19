@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1075-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2018,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1076-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2019,%202020-lightgrey.svg)
 
 Jump to
 
@@ -6221,6 +6221,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added April 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/h2ybAgQ.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Clip](https://github.com/rileytestut/Clip): Clipboard manager that can monitor your clipboard indefinitely in the background  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 18, 2020<br>  License: [`unlicense`](http://choosealicense.com/licenses/unlicense/)<br>
+	<a href='https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [CutTheNotch](https://github.com/Naituw/CutTheNotch): This app helps your create an illusion that you can hide the notch  
