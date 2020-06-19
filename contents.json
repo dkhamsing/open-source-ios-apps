@@ -21485,6 +21485,24 @@
       "screenshots": [
         "https://i.imgur.com/yaAkrpm.png"
       ]
+    },
+    {
+      "title": "Clip",
+      "category-ids": [
+        "misc"
+      ],
+      "description": "Clipboard manager that can monitor your clipboard indefinitely in the background",
+      "license": "unlicense",
+      "source": "https://github.com/rileytestut/Clip",
+      "tags": [
+        "swift"
+      ],
+      "stars": 59,
+      "date_added": "Jun 18 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png"
+      ]
     }
   ]
 }
