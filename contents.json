@@ -21524,6 +21524,24 @@
       "screenshots": [
         "https://github.com/raulriera/Bike-Compass/raw/master/Screenshots/iOS.jpg"
       ]
+    },
+    {
+      "title": "HorizonCalendar",
+      "category-ids": [
+        "calendar"
+      ],
+      "description": "Example app for declarative, performant, calendar UI component",
+      "license": "apache-2.0",
+      "source": "https://github.com/airbnb/HorizonCalendar",
+      "tags": [
+        "swift"
+      ],
+      "stars": 538,
+      "date_added": "Jun 19 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://github.com/airbnb/HorizonCalendar/raw/master/Docs/Images/stay_search.png"
+      ]
     }
   ]
 }
