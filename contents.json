@@ -21503,6 +21503,27 @@
       "screenshots": [
         "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png"
       ]
+    },
+    {
+      "title": "Bike Compass",
+      "category-ids": [
+        "location"
+      ],
+      "description": "City bicycle finder",
+      "license": "mit",
+      "source": "https://github.com/raulriera/Bike-Compass",
+      "tags": [
+        "swift",
+        "carthage",
+        "alamofire",
+        "swift3"
+      ],
+      "stars": 72,
+      "date_added": "Jun 19 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://github.com/raulriera/Bike-Compass/raw/master/Screenshots/iOS.jpg"
+      ]
     }
   ]
 }
