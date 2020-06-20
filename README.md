@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1076-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2019,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1078-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2020,%202020-lightgrey.svg)
 
 Jump to
 
@@ -249,7 +249,7 @@ Click ► to show more details
 	<a href='https://raw.githubusercontent.com/orff/AppleWatchFaces/master/docs/AppleWatchFacesQuickDemo.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [BaiduFM](https://github.com/belm/BaiduFM-Swift): A Baidu Music app  
+- [BaiduFM](https://github.com/belm/BaiduFM-Swift): For Baidu Music  
   <details>
 	<summary><code>swift</code> 🌐 ⭐⭐⭐</summary>
 
@@ -433,7 +433,7 @@ Click ► to show more details
 	<a href='https://github.com/ezefranca/watchpresenter/blob/master/print.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps): Tutorials app  
+- [WatchKit tutorials](https://github.com/kostiakoval/WatchKit-Apps)  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
@@ -441,7 +441,7 @@ Click ► to show more details
 	<a href='https://raw.githubusercontent.com/kostiakoval/WatchKit-Apps/master/images/AppsInWatck/Counter.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [WatchPics](https://github.com/D-32/WatchPics): Instagram app  
+- [WatchPics](https://github.com/D-32/WatchPics): For Instagram  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -612,6 +612,14 @@ Click ► to show more details
 
 	Added April 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/fromkk/FreeTimePicker/raw/master/images/search.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [HorizonCalendar](https://github.com/airbnb/HorizonCalendar): Example app for declarative, performant, calendar UI component  
+  <details>
+	<summary><code>swift</code> ⭐⭐⭐</summary>
+
+	Added June 19, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://github.com/airbnb/HorizonCalendar/raw/master/Docs/Images/stay_search.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [LunarCore](https://github.com/cyanzhong/LunarCore): Small lunar calendar with Today Extension  
@@ -1023,7 +1031,7 @@ Click ► to show more details
 	<a href='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.iOS): Meteor chat platform app [` App Store`](https://apps.apple.com/app/rocket-chat/id1148741252)  
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.iOS): For Meteor chat platform [` App Store`](https://apps.apple.com/app/rocket-chat/id1148741252)  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
@@ -1147,7 +1155,7 @@ Click ► to show more details
 	<a href='https://i.imgur.com/mdwgDzd.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Charter](https://github.com/matthewpalmer/Charter): Mailing list app  
+- [Charter](https://github.com/matthewpalmer/Charter): For mailing lists  
   <details>
 	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> ⭐⭐⭐</summary>
 
@@ -1155,7 +1163,7 @@ Click ► to show more details
 	<a href='https://cdn-images-1.medium.com/max/800/1*3igvNkkU0qmS0lox6epnSQ.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [CI2Go](https://github.com/ngs/ci2go): An app for https://circleci.com/ [` App Store`](https://apps.apple.com/app/ci2go-the-circleci-client/id940028427)  
+- [CI2Go](https://github.com/ngs/ci2go): For https://circleci.com/ [` App Store`](https://apps.apple.com/app/ci2go-the-circleci-client/id940028427)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -1508,7 +1516,7 @@ Click ► to show more details
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/7e/7c/52/7e7c5220-f09f-adf0-36d4-6b12aca614d6/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/81/cf/be/81cfbe41-0a63-be27-dea1-85d320c0775a/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/17/d1/91/17d1919b-0d7a-29dc-c519-3086fbb081c8/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d1/5d/be/d15dbebe-0ba4-ebde-b964-1db638f3070e/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/91/c2/a2/91c2a2bd-8f69-1d5c-3a40-090c0980638b/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [MrCode](https://github.com/haolloyin/MrCode): GitHub app that can cache Markdown content  
+- [MrCode](https://github.com/haolloyin/MrCode): For GitHub, caches Markdown content  
   <details>
 	<summary><code>objc</code> <code>iphone</code> 🌐 ⭐⭐</summary>
 
@@ -1855,7 +1863,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [EventBlankApp](https://github.com/icanzilb/EventBlankApp): Template event / conference app  
+- [EventBlankApp](https://github.com/icanzilb/EventBlankApp): Template for event / conference  
   <details>
 	<summary><code>swift</code> <code>iphone</code> ⭐⭐</summary>
 
@@ -2181,7 +2189,7 @@ Today Extensions or Widgets — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Argent](https://github.com/argent-os/argent-ios): Payments app  
+- [Argent](https://github.com/argent-os/argent-ios): For payments  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -2259,7 +2267,7 @@ Today Extensions or Widgets — [back to top](#readme)
 	<a href='https://github.com/dkhamsing/stocks/blob/dev/Images/0.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [Neverlate](https://github.com/ayunav/Neverlate): Pay-if-U-R-late app with geofences  
+- [Neverlate](https://github.com/ayunav/Neverlate): Pay-if-U-R-late with geofences  
   <details>
 	<summary><code>objc</code> <code>venmo api</code> </summary>
 
@@ -2445,7 +2453,7 @@ Today Extensions or Widgets — [back to top](#readme)
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/78/82/60/7882603c-0d25-3271-d06a-57dc1e530022/mzl.jftzbyvq.png/626x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/54/77/7c/54777cc6-b75c-0b28-7d85-f65058d25d7b/mzl.zsmgxukm.png/626x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/c0/0a/a1/c00aa1ce-5094-844c-c25d-cad116ac87e0/mzl.hiakjhrh.png/626x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/98/3f/8c/983f8ceb-23d9-c814-df66-7559d660ccb7/mzl.cwuvjojf.png/626x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a4/22/6b/a4226b93-fd23-b8a1-4eb6-713625f9bb25/mzl.tincqlgv.png/626x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [CardsAgainst](https://github.com/jpsim/CardsAgainst): Cards Against Humanity app  
+- [CardsAgainst](https://github.com/jpsim/CardsAgainst): For Cards Against Humanity  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐</summary>
 
@@ -2680,7 +2688,7 @@ Today Extensions or Widgets — [back to top](#readme)
 	<a href='https://i.imgur.com/UMYQpqx.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [MUDRammer](https://github.com/splinesoft/MUDRammer): MUD app (Multi-User Dungeon) [` App Store`](https://apps.apple.com/app/mudrammer-a-modern-mud-client/id597157072)  
+- [MUDRammer](https://github.com/splinesoft/MUDRammer): For MUD (Multi-User Dungeon) [` App Store`](https://apps.apple.com/app/mudrammer-a-modern-mud-client/id597157072)  
   <details>
 	<summary><code>objc</code> <code>iphone</code> <code>ipad</code> </summary>
 
@@ -3265,7 +3273,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://github.com/kevinvanderlugt/Swift-Walk-Tracker/raw/master/images/screenshot_map.PNG'><code>Screenshot 1</code></a> <a href='https://github.com/kevinvanderlugt/Swift-Walk-Tracker/raw/master/images/screenshot_list.PNG'><code>Screenshot 2</code></a> 
   </details>
 
-- [Theseus](https://github.com/lazerwalker/Theseus): Personal analytics app  
+- [Theseus](https://github.com/lazerwalker/Theseus): Personal analytics  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐</summary>
 
@@ -3333,6 +3341,14 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 	Added June  2, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/48WzAt2.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Bike Compass](https://github.com/raulriera/Bike-Compass): City bicycle finder  
+  <details>
+	<summary><code>swift</code> <code>carthage</code> <code>alamofire</code> <code>swift3</code> </summary>
+
+	Added June 19, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/raulriera/Bike-Compass/raw/master/Screenshots/iOS.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Cepp](https://github.com/filipealva/Cepp): Find information on addresses  
@@ -3430,7 +3446,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://i.imgur.com/k8BGv5M.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [MAPS.ME](https://github.com/mapsme/omim): Offline maps app with navigation [` App Store`](https://apps.apple.com/app/id510623322)  
+- [MAPS.ME](https://github.com/mapsme/omim): Offline maps with navigation [` App Store`](https://apps.apple.com/app/id510623322)  
   <details>
 	<summary><code>openstreetmap api</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -3438,7 +3454,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/85/64/7c/85647c5e-1c4d-f8f4-6413-e9f641eb07bf/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/99/70/fd/9970fdf6-5d94-2792-ebfa-55b3b4c95470/mzl.baklobvl.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/47/be/f7/47bef70a-fdb2-a694-a20c-2dadadd3db64/mzl.nguxiret.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ed/dc/74/eddc74d6-8734-04a0-ddf6-30cc8b6baa97/mzl.jnhpyhtf.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/10/fb/5b/10fb5be5-23e8-7788-eb83-1168e3b2585d/mzl.oukftvjn.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Miataru](https://github.com/miataru/miataru-ios-client): A location tracking app where data can be shared over public or private servers [` App Store`](https://apps.apple.com/app/id717539389)  
+- [Miataru](https://github.com/miataru/miataru-ios-client): Location tracking where data can be shared over public or private servers [` App Store`](https://apps.apple.com/app/id717539389)  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -3454,7 +3470,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://github.com/neonichu/Places/raw/master/Screenshots/1.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Neverlate](https://github.com/ayunav/Neverlate): Pay-if-U-R-late app with geofences  
+- [Neverlate](https://github.com/ayunav/Neverlate): Pay-if-U-R-late with geofences  
   <details>
 	<summary><code>objc</code> <code>venmo api</code> </summary>
 
@@ -3478,7 +3494,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/3c/aa/3f3caa9b-98b1-4aa5-5c8c-bed8f892b88b/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/02/2d/b7/022db748-a04b-8efa-fc39-b99ebb04aa4d/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8e/30/8a/8e308ad5-1942-e3ce-c2c9-0b695f850a94/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/9f/00/22/9f00227d-7f69-d30f-ccaa-99a5ea9f3ef8/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/5f/11/6e5f11b8-fbb6-3ee6-59c0-75fd793e426e/pr_source.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [OsmAnd Maps](https://github.com/osmandapp/Osmand): A map app with access to OpenStreetMaps [` App Store`](https://apps.apple.com/app/id934850257)  
+- [OsmAnd Maps](https://github.com/osmandapp/Osmand): Map with access to OpenStreetMaps [` App Store`](https://apps.apple.com/app/id934850257)  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -3502,7 +3518,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/84/b8/77/84b87703-5804-5855-2304-3b95cd5da950/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/89/69/d3/8969d378-cf5d-3c4c-8666-97f6eb1b060f/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> 
   </details>
 
-- [PebCiti](https://github.com/joemasilotti/PebCiti): Pebble app to show nearest CitiBike NYC dock  
+- [PebCiti](https://github.com/joemasilotti/PebCiti): For Pebble to show nearest CitiBike NYC dock  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -3747,7 +3763,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Analog Synth X](https://github.com/audiokit/AudioKit): Simple analog synthesizer keyboard music app example  
+- [Analog Synth X](https://github.com/audiokit/AudioKit): Simple analog synthesizer music keyboard example  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -3851,7 +3867,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/7c/a1/2d/7ca12dea-f76c-e146-9b89-0f5636d306d3/mzl.uhfvsdne.png/626x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Swift Radio Pro](https://github.com/analogcode/Swift-Radio-Pro): Professional radio station app  
+- [Swift Radio Pro](https://github.com/analogcode/Swift-Radio-Pro): Professional radio station  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -3968,7 +3984,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c9/62/b5/c962b556-d941-76a6-1bf9-365b817c8539/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6e/0b/8f/6e0b8fb9-99ec-7490-b13b-48972561f4a4/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bf/82/f8/bf82f8db-130e-c6bf-cd08-b273679747f1/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3e/a8/e6/3ea8e6c4-ca6a-b609-552e-6b46e218a0a1/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/58/b9/bf/58b9bf1a-6ae9-6336-a823-60479de91825/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [KonaBot](https://github.com/hkalexling/KonaBot-iOS): An app for https://konachan.net/ [` App Store`](https://apps.apple.com/app/konabot/id1055716649)  
+- [KonaBot](https://github.com/hkalexling/KonaBot-iOS): For https://konachan.net/ [` App Store`](https://apps.apple.com/app/konabot/id1055716649)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -4016,7 +4032,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://i.imgur.com/l6kVwjX.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [movies](https://github.com/KMindeguia/movies): Movie info app  
+- [movies](https://github.com/KMindeguia/movies)  
   <details>
 	<summary><code>afnetworking</code> <code>sdwebimage</code> <code>tmdb</code> ⭐⭐⭐</summary>
 
@@ -4078,7 +4094,7 @@ Image, video, audio, reading — [back to top](#readme)
 	Added December  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- [PopcornTime](https://github.com/danylokos/popcorntime-ios): PopcornTime movie app  
+- [PopcornTime](https://github.com/danylokos/popcorntime-ios): Play movies  
   <details>
 	<summary><code>swift</code> ⭐</summary>
 
@@ -4117,7 +4133,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-2.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-3.png?raw=true'><code>Screenshot 3</code></a> 
   </details>
 
-- [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift): SoundCloud app  
+- [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift): For SoundCloud  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐</summary>
 
@@ -4133,7 +4149,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://github.com/alfianlosari/SwiftUI-MovieDB/raw/master/promo.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [Words](https://github.com/soffes/words): Thesaurus app  
+- [Words](https://github.com/soffes/words): Thesaurus  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -4231,7 +4247,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/60/68/95/60689578-4fda-6b26-708a-75db9acc8620/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/28/63/f1/2863f1ad-2f93-3f90-e706-eee5054a26b3/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/21/40/c0/2140c030-2b6a-4f8d-e0ee-6600c97e8323/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/85/39/68/85396844-ac62-2ca7-124d-16d61c77e5e1/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [EmotionNote Diary](https://github.com/Yogayu/EmotionNote): Choose or take a photo of your face & the app will tell you your emotion  
+- [EmotionNote Diary](https://github.com/Yogayu/EmotionNote): Choose or take a photo of your face and this will reveal your emotion  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -4319,7 +4335,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/jnordberg/triggy/master/triggy.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Upupu](https://github.com/xcoo/upupu): Simple camera app that can backup pictures [` App Store`](https://apps.apple.com/app/upupu/id508401854)  
+- [Upupu](https://github.com/xcoo/upupu): Simple camera that can backup pictures [` App Store`](https://apps.apple.com/app/upupu/id508401854)  
   <details>
 	<summary><code>webdav</code> <code>dropbox</code> </summary>
 
@@ -4480,7 +4496,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	Added May 25, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- [TabDump](https://github.com/dkhamsing/TabDump): TabDump news app  
+- [TabDump](https://github.com/dkhamsing/TabDump): TabDump news  
   <details>
 	<summary><code>afnetworking</code> </summary>
 
@@ -4998,7 +5014,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/15151687/57021987-bc1e1f00-6c68-11e9-8d43-25beb9465284.jpg'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021990-c17b6980-6c68-11e9-8b56-852508131809.jpg'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021992-c3452d00-6c68-11e9-8b54-0f01dd887622.jpg'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021995-c4765a00-6c68-11e9-8b95-f3087c8b8e37.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [Kiosk](https://github.com/artsy/eidolon): Artsy auction app  
+- [Kiosk](https://github.com/artsy/eidolon): Artsy auctions  
   <details>
 	<summary><code>swift</code> <code>rxswift</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -5528,7 +5544,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Authenticator](https://github.com/mattrubin/authenticator): A simple two-factor authentication app with a clean UI [` App Store`](https://apps.apple.com/app/id766157276)  
+- [Authenticator](https://github.com/mattrubin/authenticator): Simple two-factor authentication with a clean UI [` App Store`](https://apps.apple.com/app/id766157276)  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐</summary>
 
@@ -5652,7 +5668,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	Added May 31, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
-- [OpenShop.io](https://github.com/openshopio/openshop.io-ios): Ecommerce shopping app [` App Store`](https://apps.apple.com/app/openshop-io/id1250327932)  
+- [OpenShop.io](https://github.com/openshopio/openshop.io-ios): Ecommerce shopping [` App Store`](https://apps.apple.com/app/openshop-io/id1250327932)  
   <details>
 	<summary><code>objc</code> ⭐⭐</summary>
 
@@ -5829,7 +5845,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/931655/58843349-f6dbf400-8626-11e9-8227-fbd369c29515.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Tinylog](https://github.com/binarylevel/Tinylog-iOS): Minimal to-do app  
+- [Tinylog](https://github.com/binarylevel/Tinylog-iOS): Minimal to-do  
   <details>
 	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> </summary>
 
@@ -6231,7 +6247,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [CutTheNotch](https://github.com/Naituw/CutTheNotch): This app helps your create an illusion that you can hide the notch  
+- [CutTheNotch](https://github.com/Naituw/CutTheNotch): Create an illusion that you can hide the notch  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -6239,7 +6255,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://github.com/Naituw/CutTheNotch/blob/master/demo.gif?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [DeckRocket](https://github.com/jpsim/DeckRocket): Remote app for Deckset presentations  
+- [DeckRocket](https://github.com/jpsim/DeckRocket): For Deckset presentations  
   <details>
 	<summary><code>swift</code> <code>iphone</code> ⭐⭐</summary>
 
@@ -6271,7 +6287,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://i.imgur.com/ozVlT2F.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [ForceSketch](https://github.com/FlexMonkey/ForceSketch): Sketching app  
+- [ForceSketch](https://github.com/FlexMonkey/ForceSketch)  
   <details>
 	<summary><code>swift</code> ⭐</summary>
 
@@ -6431,7 +6447,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/triangledraw/TriangleDraw-iOS/develop/Source/Documentation/triangledraw_screenshots.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Vinylogue](https://github.com/twocentstudios/vinylogue): Last.fm app [` App Store`](https://apps.apple.com/app/vinylogue-for-last.fm/id617471119)  
+- [Vinylogue](https://github.com/twocentstudios/vinylogue): For Last.fm [` App Store`](https://apps.apple.com/app/vinylogue-for-last.fm/id617471119)  
   <details>
 	<summary><code>objc</code> ⭐</summary>
 
@@ -6557,7 +6573,7 @@ https://firebase.google.com/ — [back to top](#readme)
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/48/53/6c/48536cdf-5ca1-8285-c0ed-6eca4da33d1a/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/dd/eb/55/ddeb5549-ef4c-faa2-8b98-71bd796a499f/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/35/11/a5/3511a58d-ef7b-38e8-0365-05629c143489/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/4d/f8/124df875-c3cf-30a5-6506-83b5a80f9252/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [how-much](https://github.com/dkhamsing/how-much): Simple app to record how much things cost  
+- [how-much](https://github.com/dkhamsing/how-much): Record how much things cost  
   <details>
 	<summary><code>parse</code> <code>firebase</code> <code>realm</code> </summary>
 
@@ -6915,7 +6931,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	Added July 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- [newswatch](https://github.com/bradoyler/newswatch-react-native): News app based on YouTube playlists  
+- [newswatch](https://github.com/bradoyler/newswatch-react-native): News based on YouTube playlists  
   <details>
 	<summary><code>react native</code> ⭐</summary>
 
@@ -7078,7 +7094,7 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://cloud.githubusercontent.com/assets/3276768/16144253/4e96344e-34a4-11e6-9257-06f5bcdf06ef.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [how-much](https://github.com/dkhamsing/how-much): Simple app to record how much things cost  
+- [how-much](https://github.com/dkhamsing/how-much): Record how much things cost  
   <details>
 	<summary><code>parse</code> <code>firebase</code> <code>realm</code> </summary>
 
