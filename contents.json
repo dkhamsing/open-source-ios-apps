@@ -21538,6 +21538,19 @@
       "screenshots": [
         "https://github.com/airbnb/HorizonCalendar/raw/master/Docs/Images/stay_search.png"
       ]
+    },
+    {
+      "title": "InstaFake - Instagram Clone",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/leavenstee/InstaFake-Swift-UI",
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Jun 20 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
