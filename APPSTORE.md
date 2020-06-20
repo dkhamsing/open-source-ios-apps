@@ -389,7 +389,7 @@ Click ► to show more details
 	<a href='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.iOS): Meteor chat platform app [` App Store`](https://apps.apple.com/app/rocket-chat/id1148741252)  
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.iOS): For Meteor chat platform [` App Store`](https://apps.apple.com/app/rocket-chat/id1148741252)  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
@@ -458,7 +458,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [CI2Go](https://github.com/ngs/ci2go): An app for https://circleci.com/ [` App Store`](https://apps.apple.com/app/ci2go-the-circleci-client/id940028427)  
+- [CI2Go](https://github.com/ngs/ci2go): For https://circleci.com/ [` App Store`](https://apps.apple.com/app/ci2go-the-circleci-client/id940028427)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -1124,7 +1124,7 @@ Today Extensions or Widgets — [back to top](#readme)
 	<a href='https://i.imgur.com/UMYQpqx.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [MUDRammer](https://github.com/splinesoft/MUDRammer): MUD app (Multi-User Dungeon) [` App Store`](https://apps.apple.com/app/mudrammer-a-modern-mud-client/id597157072)  
+- [MUDRammer](https://github.com/splinesoft/MUDRammer): For MUD (Multi-User Dungeon) [` App Store`](https://apps.apple.com/app/mudrammer-a-modern-mud-client/id597157072)  
   <details>
 	<summary><code>objc</code> <code>iphone</code> <code>ipad</code> </summary>
 
@@ -1465,7 +1465,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://i.imgur.com/CQ98cNq.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [MAPS.ME](https://github.com/mapsme/omim): Offline maps app with navigation [` App Store`](https://apps.apple.com/app/id510623322)  
+- [MAPS.ME](https://github.com/mapsme/omim): Offline maps with navigation [` App Store`](https://apps.apple.com/app/id510623322)  
   <details>
 	<summary><code>openstreetmap api</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -1473,7 +1473,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/85/64/7c/85647c5e-1c4d-f8f4-6413-e9f641eb07bf/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/99/70/fd/9970fdf6-5d94-2792-ebfa-55b3b4c95470/mzl.baklobvl.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/47/be/f7/47bef70a-fdb2-a694-a20c-2dadadd3db64/mzl.nguxiret.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ed/dc/74/eddc74d6-8734-04a0-ddf6-30cc8b6baa97/mzl.jnhpyhtf.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/10/fb/5b/10fb5be5-23e8-7788-eb83-1168e3b2585d/mzl.oukftvjn.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Miataru](https://github.com/miataru/miataru-ios-client): A location tracking app where data can be shared over public or private servers [` App Store`](https://apps.apple.com/app/id717539389)  
+- [Miataru](https://github.com/miataru/miataru-ios-client): Location tracking where data can be shared over public or private servers [` App Store`](https://apps.apple.com/app/id717539389)  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -1497,7 +1497,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/3c/aa/3f3caa9b-98b1-4aa5-5c8c-bed8f892b88b/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/02/2d/b7/022db748-a04b-8efa-fc39-b99ebb04aa4d/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8e/30/8a/8e308ad5-1942-e3ce-c2c9-0b695f850a94/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/9f/00/22/9f00227d-7f69-d30f-ccaa-99a5ea9f3ef8/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/5f/11/6e5f11b8-fbb6-3ee6-59c0-75fd793e426e/pr_source.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [OsmAnd Maps](https://github.com/osmandapp/Osmand): A map app with access to OpenStreetMaps [` App Store`](https://apps.apple.com/app/id934850257)  
+- [OsmAnd Maps](https://github.com/osmandapp/Osmand): Map with access to OpenStreetMaps [` App Store`](https://apps.apple.com/app/id934850257)  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -1733,7 +1733,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c9/62/b5/c962b556-d941-76a6-1bf9-365b817c8539/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6e/0b/8f/6e0b8fb9-99ec-7490-b13b-48972561f4a4/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bf/82/f8/bf82f8db-130e-c6bf-cd08-b273679747f1/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3e/a8/e6/3ea8e6c4-ca6a-b609-552e-6b46e218a0a1/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/58/b9/bf/58b9bf1a-6ae9-6336-a823-60479de91825/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [KonaBot](https://github.com/hkalexling/KonaBot-iOS): An app for https://konachan.net/ [` App Store`](https://apps.apple.com/app/konabot/id1055716649)  
+- [KonaBot](https://github.com/hkalexling/KonaBot-iOS): For https://konachan.net/ [` App Store`](https://apps.apple.com/app/konabot/id1055716649)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -1870,7 +1870,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/jnordberg/triggy/master/triggy.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Upupu](https://github.com/xcoo/upupu): Simple camera app that can backup pictures [` App Store`](https://apps.apple.com/app/upupu/id508401854)  
+- [Upupu](https://github.com/xcoo/upupu): Simple camera that can backup pictures [` App Store`](https://apps.apple.com/app/upupu/id508401854)  
   <details>
 	<summary><code>webdav</code> <code>dropbox</code> </summary>
 
@@ -2300,7 +2300,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Authenticator](https://github.com/mattrubin/authenticator): A simple two-factor authentication app with a clean UI [` App Store`](https://apps.apple.com/app/id766157276)  
+- [Authenticator](https://github.com/mattrubin/authenticator): Simple two-factor authentication with a clean UI [` App Store`](https://apps.apple.com/app/id766157276)  
   <details>
 	<summary><code>objc</code> ⭐⭐⭐</summary>
 
@@ -2385,7 +2385,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [OpenShop.io](https://github.com/openshopio/openshop.io-ios): Ecommerce shopping app [` App Store`](https://apps.apple.com/app/openshop-io/id1250327932)  
+- [OpenShop.io](https://github.com/openshopio/openshop.io-ios): Ecommerce shopping [` App Store`](https://apps.apple.com/app/openshop-io/id1250327932)  
   <details>
 	<summary><code>objc</code> ⭐⭐</summary>
 
@@ -2718,7 +2718,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/triangledraw/TriangleDraw-iOS/develop/Source/Documentation/triangledraw_screenshots.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Vinylogue](https://github.com/twocentstudios/vinylogue): Last.fm app [` App Store`](https://apps.apple.com/app/vinylogue-for-last.fm/id617471119)  
+- [Vinylogue](https://github.com/twocentstudios/vinylogue): For Last.fm [` App Store`](https://apps.apple.com/app/vinylogue-for-last.fm/id617471119)  
   <details>
 	<summary><code>objc</code> ⭐</summary>
 
