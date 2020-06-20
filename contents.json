@@ -21538,6 +21538,27 @@
       "screenshots": [
         "https://github.com/airbnb/HorizonCalendar/raw/master/Docs/Images/stay_search.png"
       ]
+    },
+    {
+      "title": "Corona Warn App - iOS",
+      "category-ids": [
+        "health",
+        "swiftui"
+      ],
+      "description": "Native iOS app using the exposure notification framework from Apple. The official German Corona Warn App.",
+      "screenshots": [
+        "https://github.com/corona-warn-app/cwa-documentation/blob/master/images/ui_screens/ui_screens_ios.png"
+      ],
+      "source": "https://github.com/corona-warn-app/cwa-app-ios",
+      "license": "apache-2.0",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Jun 20 2020",
+      "suggested_by": "@mickuehl",
+      "stars": 999
     }
+
+
   ]
 }
