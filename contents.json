@@ -475,7 +475,7 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "A Baidu Music app",
+      "description": "For Baidu Music",
       "source": "https://github.com/belm/BaiduFM-Swift",
       "stars": 577,
       "lang": "zho",
@@ -655,7 +655,7 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "The missing Spotify app",
+      "description": "For Spotify",
       "license": "mit",
       "source": "https://github.com/neonichu/CoolSpot",
       "tags": [
@@ -798,7 +798,7 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "Highstreet shopping app",
+      "description": "For Highstreet shopping",
       "license": "mit",
       "source": "https://github.com/GetHighstreet/HighstreetWatchApp",
       "stars": 357,
@@ -1013,7 +1013,7 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "Countdown app",
+      "description": "For countdowns",
       "source": "https://github.com/sandofsky/soon",
       "tags": [
         "swift",
@@ -1028,11 +1028,10 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "WatchKit-Apps",
+      "title": "WatchKit tutorials",
       "category-ids": [
         "apple-watch"
       ],
-      "description": "Tutorials app",
       "license": "mit",
       "source": "https://github.com/kostiakoval/WatchKit-Apps",
       "stars": 1123,
@@ -1110,7 +1109,7 @@
       "tags": [
         "objc"
       ],
-      "description": "Instagram app",
+      "description": "For Instagram",
       "license": "apache-2.0",
       "source": "https://github.com/D-32/WatchPics",
       "screenshots": [
@@ -1301,7 +1300,7 @@
         "yyimage",
         "archive"
       ],
-      "description": "Cross-platform instant message app",
+      "description": "Cross-platform instant messaging",
       "license": "agpl-3.0",
       "source": "https://github.com/actorapp/actor-platform",
       "stars": 3310,
@@ -1360,7 +1359,7 @@
       "license": "mit"
     },
     {
-      "title": "WhatsUp",
+      "title": "WhatsUp Chat",
       "category-ids": [
         "firebase"
       ],
@@ -1372,7 +1371,6 @@
         "otp",
         "archive"
       ],
-      "description": "Chat app",
       "source": "https://github.com/satishbabariya/WhatsUp",
       "screenshots": [
         "https://raw.githubusercontent.com/satishbabariya/WhatsUp/master/screenshot2.jpg"
@@ -1383,7 +1381,7 @@
       "license": "mit"
     },
     {
-      "title": "MeetPoint App",
+      "title": "MeetPoint",
       "category-ids": [
         "social",
         "firebase"
@@ -1394,7 +1392,7 @@
         "firebase",
         "archive"
       ],
-      "description": "MeetPoint is a social media application that you can share spontaneous activities",
+      "description": "Social media sharing spontaneous activities",
       "source": "https://github.com/MeetPoint-App/meetpoint-ios",
       "itunes": "https://apps.apple.com/app/meetpoint-app/id1363547170",
       "screenshots": [
@@ -1562,7 +1560,7 @@
       "category-ids": [
         "communication"
       ],
-      "description": "Meteor chat platform app",
+      "description": "For Meteor chat platform",
       "license": "mit",
       "source": "https://github.com/RocketChat/Rocket.Chat.iOS",
       "itunes": "https://apps.apple.com/app/rocket-chat/id1148741252",
@@ -1680,7 +1678,7 @@
       "category-ids": [
         "event"
       ],
-      "description": "Template event / conference app",
+      "description": "Template for event / conference",
       "license": "mit",
       "source": "https://github.com/icanzilb/EventBlankApp",
       "stars": 286,
@@ -1933,7 +1931,7 @@
       "category-ids": [
         "developer"
       ],
-      "description": "Mailing list app",
+      "description": "For mailing lists",
       "source": "https://github.com/matthewpalmer/Charter",
       "stars": 528,
       "screenshots": [
@@ -1953,7 +1951,7 @@
       "category-ids": [
         "developer"
       ],
-      "description": "An app for https://circleci.com/",
+      "description": "For https://circleci.com/",
       "source": "https://github.com/ngs/ci2go",
       "itunes": "https://apps.apple.com/app/ci2go-the-circleci-client/id940028427",
       "tags": [
@@ -2054,7 +2052,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/haolloyin/MrCode/master/Screenshots/screenshots_1.jpg"
       ],
-      "description": "GitHub app that can cache Markdown content",
+      "description": "For GitHub, caches Markdown content",
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/haolloyin/MrCode",
@@ -2303,7 +2301,7 @@
       "tags": [
         "swift"
       ],
-      "description": "Payments app",
+      "description": "For payments",
       "source": "https://github.com/argent-os/argent-ios",
       "stars": 39,
       "license": "mit",
@@ -2480,7 +2478,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "Cards Against Humanity app",
+      "description": "For Cards Against Humanity",
       "license": "mit",
       "source": "https://github.com/jpsim/CardsAgainst",
       "stars": 521,
@@ -2758,7 +2756,7 @@
         "iphone",
         "ipad"
       ],
-      "description": "MUD app (Multi-User Dungeon)",
+      "description": "For MUD (Multi-User Dungeon)",
       "license": "mit",
       "source": "https://github.com/splinesoft/MUDRammer",
       "itunes": "https://apps.apple.com/app/mudrammer-a-modern-mud-client/id597157072",
@@ -3039,7 +3037,7 @@
       "category-ids": [
         "fitness"
       ],
-      "description": "Simple logging app for strength athletes",
+      "description": "Simple logging for strength athletes",
       "source": "https://github.com/brettalcox/logU-swift",
       "tags": [
         "swift",
@@ -3323,7 +3321,7 @@
         "location",
         "travel"
       ],
-      "description": "Geolocation based alarm app for travelers",
+      "description": "Geolocation based alarms for travelers",
       "license": "mit",
       "source": "https://github.com/ChrisChares/swift-alarm",
       "stars": 195,
@@ -3592,7 +3590,7 @@
       "category-ids": [
         "location"
       ],
-      "description": "GPS logging app",
+      "description": "GPS logging",
       "source": "https://github.com/eugenpirogoff/pathlogger",
       "itunes": "https://apps.apple.com/app/pathlogger/id980068173",
       "screenshots": [
@@ -3616,7 +3614,7 @@
       "tags": [
         "objc"
       ],
-      "description": "Pebble app to show nearest CitiBike NYC dock",
+      "description": "For Pebble to show nearest CitiBike NYC dock",
       "source": "https://github.com/joemasilotti/PebCiti",
       "screenshots": [
         "https://raw.githubusercontent.com/joemasilotti/PebCiti/master/Screenshots/iOS.png"
@@ -3731,7 +3729,7 @@
       "category-ids": [
         "audio"
       ],
-      "description": "Simple analog synthesizer keyboard music app example",
+      "description": "Simple analog synthesizer music keyboard example",
       "source": "https://github.com/audiokit/AudioKit",
       "homepage": "https://audiokit.io/examples/AnalogSynthX/",
       "tags": [
@@ -3976,7 +3974,7 @@
       "category-ids": [
         "content"
       ],
-      "description": "An app for https://konachan.net/",
+      "description": "For https://konachan.net/",
       "source": "https://github.com/hkalexling/KonaBot-iOS",
       "itunes": "https://apps.apple.com/app/konabot/id1055716649",
       "tags": [
@@ -4049,7 +4047,6 @@
         "sdwebimage",
         "tmdb"
       ],
-      "description": "Movie info app",
       "source": "https://github.com/KMindeguia/movies",
       "stars": 855,
       "license": "mit",
@@ -4068,7 +4065,7 @@
         "archive"
       ],
       "lang": "fra",
-      "description": "Movie info app",
+      "description": "Movie info",
       "source": "https://github.com/florent37/OCiney-iOS",
       "itunes": "https://apps.apple.com/app/id955480687",
       "stars": 232,
@@ -4194,7 +4191,7 @@
       "category-ids": [
         "content"
       ],
-      "description": "PopcornTime movie app",
+      "description": "Play movies",
       "source": "https://github.com/danylokos/popcorntime-ios",
       "tags": [
         "swift"
@@ -4260,7 +4257,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/Ciechan/Revolved/master/screenshot.jpg"
       ],
-      "description": "3D modelling app",
+      "description": "3D modelling",
       "license": "bsd-3-clause",
       "source": "https://github.com/Ciechan/Revolved",
       "stars": 616,
@@ -4272,7 +4269,7 @@
       "category-ids": [
         "content"
       ],
-      "description": "SoundCloud app",
+      "description": "For SoundCloud",
       "license": "mit",
       "source": "https://github.com/pepibumur/SoundCloudSwift",
       "stars": 557,
@@ -4347,7 +4344,7 @@
       "category-ids": [
         "audio"
       ],
-      "description": "Professional radio station app",
+      "description": "Professional radio station",
       "license": "mit",
       "source": "https://github.com/analogcode/Swift-Radio-Pro",
       "stars": 2440,
@@ -4460,7 +4457,7 @@
         "webdav",
         "dropbox"
       ],
-      "description": "Simple camera app that can backup pictures",
+      "description": "Simple camera that can backup pictures",
       "license": "apache-2.0",
       "source": "https://github.com/xcoo/upupu",
       "itunes": "https://apps.apple.com/app/upupu/id508401854",
@@ -4709,7 +4706,7 @@
       "tags": [
         "afnetworking"
       ],
-      "description": "TabDump news app",
+      "description": "TabDump news",
       "license": "mit",
       "source": "https://github.com/dkhamsing/TabDump",
       "stars": 99,
@@ -5139,7 +5136,7 @@
         "swift",
         "archive"
       ],
-      "description": "Furniture store demo app",
+      "description": "Furniture store demo",
       "license": "apache-2.0",
       "source": "https://github.com/opensourceios/furni-ios",
       "stars": 0,
@@ -5286,7 +5283,7 @@
       "tags": [
         "objc"
       ],
-      "description": "Ecommerce shopping app",
+      "description": "Ecommerce shopping",
       "license": "mit",
       "source": "https://github.com/openshopio/openshop.io-ios",
       "itunes": "https://apps.apple.com/app/openshop-io/id1250327932",
@@ -5385,7 +5382,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "A generic Hyperdrive API client app",
+      "description": "A generic Hyperdrive API client",
       "license": "bsd-2-clause",
       "source": "https://github.com/kylef-archive/Starship",
       "tags": [
@@ -5708,7 +5705,7 @@
         "tasks",
         "firebase"
       ],
-      "description": "Firebase powered to-do app, includes tutorial",
+      "description": "Firebase powered to-dos, includes tutorial",
       "source": "https://github.com/opensourceios/swift-off-todo",
       "tags": [
         "swift",
@@ -5786,7 +5783,7 @@
       "category-ids": [
         "tasks"
       ],
-      "description": "Minimal to-do app",
+      "description": "Minimal to-do",
       "license": "mit",
       "source": "https://github.com/binarylevel/Tinylog-iOS",
       "tags": [
@@ -6232,7 +6229,7 @@
       "category-ids": [
         "misc"
       ],
-      "description": "Remote app for Deckset presentations",
+      "description": "For Deckset presentations",
       "license": "mit",
       "source": "https://github.com/jpsim/DeckRocket",
       "stars": 384,
@@ -6251,7 +6248,7 @@
       "category-ids": [
         "photo"
       ],
-      "description": "Choose or take a photo of your face & the app will tell you your emotion",
+      "description": "Choose or take a photo of your face and this will reveal your emotion",
       "license": "mit",
       "source": "https://github.com/Yogayu/EmotionNote",
       "tags": [
@@ -6715,7 +6712,7 @@
       "tags": [
         "objc"
       ],
-      "description": "Personal analytics app",
+      "description": "Personal analytics",
       "license": "gpl-2.0",
       "source": "https://github.com/lazerwalker/Theseus",
       "screenshots": [
@@ -6813,7 +6810,7 @@
       "tags": [
         "objc"
       ],
-      "description": "Last.fm app",
+      "description": "For Last.fm",
       "license": "bsd-3-clause",
       "source": "https://github.com/twocentstudios/vinylogue",
       "itunes": "https://apps.apple.com/app/vinylogue-for-last.fm/id617471119",
@@ -6859,7 +6856,7 @@
       "screenshots": [
         "https://i.imgur.com/84QPJ8v.png"
       ],
-      "description": "Thesaurus app",
+      "description": "Thesaurus",
       "license": "mit",
       "source": "https://github.com/soffes/words",
       "stars": 47,
@@ -6909,7 +6906,6 @@
       "category-ids": [
         "misc"
       ],
-      "description": "Sketching app",
       "source": "https://github.com/FlexMonkey/ForceSketch",
       "stars": 100,
       "tags": [
@@ -7271,7 +7267,7 @@
       "tags": [
         "archive"
       ],
-      "description": "Mobile & web app that lets users share photos similar to Instagram",
+      "description": "Lets users share photos, like Instagram",
       "source": "https://github.com/opensourceios/Anypic",
       "itunes": "https://apps.apple.com/app/anypic/id539741538",
       "license": "cc0-1.0",
@@ -7309,7 +7305,7 @@
       "tags": [
         "archive"
       ],
-      "description": "A fun geolocation app",
+      "description": "Fun with geolocation",
       "source": "https://github.com/opensourceios/AnyWall",
       "license": "cc0-1.0",
       "date_added": "Tue, 17 Mar 2015 14:51:44 -0400",
@@ -7331,7 +7327,7 @@
         "realm"
       ],
       "license": "mit",
-      "description": "Simple app to record how much things cost",
+      "description": "Record how much things cost",
       "source": "https://github.com/dkhamsing/how-much",
       "screenshots": [
         "https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png"
@@ -7679,7 +7675,7 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Hacker News app by iSimar",
+      "title": "For Hacker News by iSimar",
       "category-ids": [
         "react-native"
       ],
@@ -7780,7 +7776,7 @@
       "tags": [
         "react native"
       ],
-      "description": "News app based on YouTube playlists",
+      "description": "News based on YouTube playlists",
       "source": "https://github.com/bradoyler/newswatch-react-native",
       "screenshots": [
         "https://cloud.githubusercontent.com/assets/425966/7039857/2f122810-dd95-11e4-99c4-db636d4c66a9.gif"
@@ -7821,7 +7817,7 @@
       "screenshots": [
         "https://ph-files.imgix.net/8f617c17-4ec6-482d-866d-a65d5387c0ad?auto=format&codec=mozjpeg&cs=strip"
       ],
-      "description": "Product Hunt app",
+      "description": "For Product Hunt",
       "source": "https://github.com/rkho/product-kitty",
       "stars": 130,
       "license": "other",
@@ -7846,7 +7842,7 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Hacker News app by jsdf",
+      "title": "For Hacker News by jsdf",
       "category-ids": [
         "react-native"
       ],
@@ -7911,7 +7907,7 @@
       "screenshots": [
         "https://i.imgur.com/YENtnhd.png"
       ],
-      "description": "A small app displaying NASA's Picture of the Day",
+      "description": "Display NASA's Picture of the Day",
       "source": "https://github.com/campezzi/react-native-spacepics",
       "stars": 18,
       "license": "other",
@@ -8034,7 +8030,7 @@
         "mantle",
         "archive"
       ],
-      "description": "GitHub app",
+      "description": "For GitHub",
       "license": "mit",
       "source": "https://github.com/leichunfeng/MVVMReactiveCocoa",
       "itunes": "https://apps.apple.com/app/id961330940",
@@ -8187,7 +8183,7 @@
       "category-ids": [
         "rxswift"
       ],
-      "description": "Artsy auction app",
+      "description": "Artsy auctions",
       "license": "mit",
       "source": "https://github.com/artsy/eidolon",
       "stars": 2594,
@@ -9002,7 +8998,7 @@
         "objc",
         "venmo api"
       ],
-      "description": "Pay-if-U-R-late app with geofences",
+      "description": "Pay-if-U-R-late with geofences",
       "source": "https://github.com/ayunav/Neverlate",
       "screenshots": [
         "https://github.com/ayunav/Neverlate/raw/master/NeverlateDemo.gif"
@@ -9058,7 +9054,7 @@
       "tags": [
         "openstreetmap api"
       ],
-      "description": "Offline maps app with navigation",
+      "description": "Offline maps with navigation",
       "license": "apache-2.0",
       "source": "https://github.com/mapsme/omim",
       "homepage": "https://maps.me/",
@@ -9380,7 +9376,7 @@
       "tags": [
         "objc"
       ],
-      "description": "A simple two-factor authentication app with a clean UI",
+      "description": "Simple two-factor authentication with a clean UI",
       "source": "https://github.com/mattrubin/authenticator",
       "homepage": "https://mattrubin.me/authenticator/",
       "itunes": "https://apps.apple.com/app/id766157276",
@@ -9759,7 +9755,7 @@
       "tags": [
         "objc"
       ],
-      "description": "A map app with access to OpenStreetMaps",
+      "description": "Map with access to OpenStreetMaps",
       "license": "gpl-3.0",
       "source": "https://github.com/osmandapp/Osmand",
       "homepage": "https://osmand.net/",
@@ -10078,7 +10074,7 @@
       "tags": [
         "objc"
       ],
-      "description": "A location tracking app where data can be shared over public or private servers",
+      "description": "Location tracking where data can be shared over public or private servers",
       "license": "bsd-2-clause",
       "source": "https://github.com/miataru/miataru-ios-client",
       "homepage": "http://miataru.com/ios/",
@@ -16034,7 +16030,7 @@
       "category-ids": [
         "misc"
       ],
-      "description": "This app helps your create an illusion that you can hide the notch",
+      "description": "Create an illusion that you can hide the notch",
       "source": "https://github.com/Naituw/CutTheNotch",
       "license": "mit",
       "stars": 89,
