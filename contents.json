@@ -20979,7 +20979,7 @@
     },
     {
       "title": "Switzerland - SwissCovid",
-      "description": "COVID-19 tracing client using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T)",
+      "description": "COVID-19 tracing using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T)",
       "category-ids": [
         "contact-tracing"
       ],
