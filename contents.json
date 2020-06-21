@@ -21551,6 +21551,21 @@
       ],
       "date_added": "Jun 20 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "TemperatureAtlas",
+      "category-ids": [
+        "swiftui",
+        "weather"
+      ],
+      "description": "Uses Apple Maps combined with the OpenWeather API",
+      "source": "https://github.com/jhatin94/tempatlas-swiftui",
+      "tags": [
+        "swift"        
+      ],
+      "license": "mit",
+      "date_added": "Jun 21 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
