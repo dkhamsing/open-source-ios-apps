@@ -1352,7 +1352,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://i.imgur.com/Qy5fzXo.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Switzerland - SwissCovid](https://github.com/DP-3T/dp3t-app-ios-ch): COVID-19 tracing client using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T) [` App Store`](https://apps.apple.com/ch/app/swisscovid-preview/id1509275381)  
+- [Switzerland - SwissCovid](https://github.com/DP-3T/dp3t-app-ios-ch): COVID-19 tracing using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T) [` App Store`](https://apps.apple.com/ch/app/swisscovid-preview/id1509275381)  
   <details>
 	<summary><code>swift</code> 🌐 </summary>
 
