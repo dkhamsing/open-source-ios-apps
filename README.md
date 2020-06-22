@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1079-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2021,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1080-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2022,%202020-lightgrey.svg)
 
 Jump to
 
@@ -6170,6 +6170,13 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://i.imgur.com/9Ofn3QC.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [TemperatureAtlas](https://github.com/jhatin94/tempatlas-swiftui): Uses Apple Maps combined with the OpenWeather API  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
 - [Tropos Weather](https://github.com/thoughtbot/Tropos) [` App Store`](https://apps.apple.com/app/tropos-weather-forecasts-for/id955209376)  
   <details>
 	<summary><code>dark sky api (forecast api)</code> <code>reactivecocoa</code> ⭐⭐⭐⭐</summary>
@@ -7421,6 +7428,13 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June  5, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/aidCkq1.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [TemperatureAtlas](https://github.com/jhatin94/tempatlas-swiftui): Uses Apple Maps combined with the OpenWeather API  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [Todo Combine SwiftUI](https://github.com/jamfly/SwiftUI-Combine-todo-example): To-do list with restful API  
