@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1078-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2020,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1079-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2021,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3193,7 +3193,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://i.imgur.com/Qy5fzXo.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Switzerland - SwissCovid](https://github.com/DP-3T/dp3t-app-ios-ch): COVID-19 tracing client using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T) [` App Store`](https://apps.apple.com/ch/app/swisscovid-preview/id1509275381)  
+- [Switzerland - SwissCovid](https://github.com/DP-3T/dp3t-app-ios-ch): COVID-19 tracing using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T) [` App Store`](https://apps.apple.com/ch/app/swisscovid-preview/id1509275381)  
   <details>
 	<summary><code>swift</code> 🌐 </summary>
 
@@ -7296,6 +7296,13 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June 13, 2020<br>  License: `other`<br>
 	<a href='https://github.com/V8tr/InfiniteListSwiftUI/raw/master/demo.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [InstaFake - Instagram Clone](https://github.com/leavenstee/InstaFake-Swift-UI)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 20, 2020<br>  License: `other`
   </details>
 
 - [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views): Discover and share places you love  
