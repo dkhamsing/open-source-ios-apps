@@ -19177,7 +19177,8 @@
       "itunes": "https://apps.apple.com/app/ac-helper/id1508764244",
       "license": "apache-2.0",
       "tags": [
-        "swift"
+        "swift",
+        "ipad"
       ],
       "screenshots": [
         "https://i.imgur.com/dcs8niz.png"
@@ -21560,7 +21561,7 @@
       "description": "Uses Apple Maps combined with the OpenWeather API",
       "source": "https://github.com/jhatin94/tempatlas-swiftui",
       "tags": [
-        "swift"        
+        "swift"
       ],
       "license": "mit",
       "date_added": "Jun 21 2020",
