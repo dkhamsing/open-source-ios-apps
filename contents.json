@@ -21572,7 +21572,7 @@
       "category-ids": [
         "swiftui"
       ],
-      "description": "Shows a list of podcasts fetched from listennotes and it can be played",
+      "description": "Shows a list of podcasts that can be played, fetched from listennotes",
       "source": "https://github.com/albertopeam/Podcasts",
       "license": "mit",
       "tags": [
