@@ -21566,6 +21566,24 @@
       "license": "mit",
       "date_added": "Jun 21 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Podcasts",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Shows a list of podcasts fetched from listennotes and it can be played",
+      "source": "https://github.com/albertopeam/Podcasts",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "combine"
+      ],
+      "screenshots": [
+        "https://github.com/albertopeam/Podcasts/raw/master/art/podcasts.png"
+      ],
+      "date_added": "Jun 22 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
