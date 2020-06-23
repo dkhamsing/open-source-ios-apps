@@ -21602,6 +21602,21 @@
       ],
       "date_added": "Jun 23 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Proton",
+      "category-ids": [
+        "text"
+      ],
+      "description": "Example app allows you to extend the behavior of a textview to add rich content",
+      "license": "apache-2.0",
+      "source": "https://github.com/rajdeep/proton",
+      "tags": [
+        "swift"
+      ],
+      "stars": 414,
+      "date_added": "Jun 23 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
