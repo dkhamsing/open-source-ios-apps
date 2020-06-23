@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1080-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2022,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1081-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2023,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7349,6 +7349,14 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>combine</code> </summary>
 
 	Added March  1, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+
+- [Podcasts](https://github.com/albertopeam/Podcasts): Shows a list of podcasts fetched from listennotes and it can be played  
+  <details>
+	<summary><code>swift</code> <code>combine</code> </summary>
+
+	Added June 22, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/albertopeam/Podcasts/raw/master/art/podcasts.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Recipes](https://github.com/mecid/swiftui-recipes-app): Recipes using Single State Container  
