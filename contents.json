@@ -21627,9 +21627,12 @@
       "tags": [
         "swift",
         "iphone",
-        "ipad"
+        "ipad",
+        "dompurify",
+        "afnetworking",
+        "flanimatedimage"
       ],
-      "description": "ProtonMail iOS client app",
+      "description": "Encrypted Email",
       "source": "https://github.com/ProtonMail/ios-mail",
       "homepage": "https://protonmail.com/",
       "itunes": "https://apps.apple.com/app/id979659905",
