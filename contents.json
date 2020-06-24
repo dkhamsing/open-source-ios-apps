@@ -21617,6 +21617,32 @@
       "stars": 414,
       "date_added": "Jun 23 2020",
       "suggested_by": "@dkhamsing"
+      },
+      {
+      "title": "ProtonMail",
+      "category-ids": [
+        "communication",
+        "security"
+      ],
+      "tags": [
+        "swift",
+        "iphone",
+        "ipad"
+      ],
+      "description": "ProtonMail iOS client app",
+      "source": "https://github.com/ProtonMail/ios-mail",
+      "homepage": "https://protonmail.com/",
+      "itunes": "https://apps.apple.com/app/id979659905",
+      "license": "gpl-3.0",
+      "stars": 1017,
+      "date_added": "Jun 23 2020",
+      "suggested_by": "@brianclinkenbeard",
+      "screenshots": [
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1d/c0/ba/1dc0bacb-bd7e-bfb3-4a14-ab9cdfd6336d/pr_source.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/e3/23/9ce32347-1f99-dfa0-2434-c032e6264eda/pr_source.png/460x0w.png",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/11/33/5c/11335cff-69e3-6a55-3248-ebe2e98c4e87/pr_source.png/460x0w.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bc/08/4b/bc084bb4-d8d1-26aa-606f-03de254a345d/pr_source.png/460x0w.png"
+      ]
     }
   ]
 }
