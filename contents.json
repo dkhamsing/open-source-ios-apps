@@ -21608,7 +21608,7 @@
       "category-ids": [
         "text"
       ],
-      "description": "Example app allows you to extend the behavior of a textview to add rich content",
+      "description": "Example for extending the behavior of a textview to add rich content",
       "license": "apache-2.0",
       "source": "https://github.com/rajdeep/proton",
       "tags": [
