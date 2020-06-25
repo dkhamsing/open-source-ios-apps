@@ -21646,6 +21646,22 @@
         "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/11/33/5c/11335cff-69e3-6a55-3248-ebe2e98c4e87/pr_source.png/460x0w.png",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bc/08/4b/bc084bb4-d8d1-26aa-606f-03de254a345d/pr_source.png/460x0w.png"
       ]
+    },
+    {
+      "title": "NewsApiApp",
+      "description": "News app with image caching and infinite loading",
+      "category-ids": [
+        "news-api",
+        "swiftui"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": ["https://i.imgur.com/8KPNblj.png"],
+      "license": "other",
+      "source": "https://github.com/SchwiftyUI/NewsApiApp",
+      "suggested_by": "@dkhamsing",
+      "date_added": "Jun 25 2020"
     }
   ]
 }
