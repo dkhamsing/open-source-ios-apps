@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1082-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2024,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1084-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2024,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1092,7 +1092,7 @@ Click ► to show more details
 	<summary><code>swift</code> </summary>
 
 	Added May 22, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://raw.githubusercontent.com/tinode/ios/master/ios-chats.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/tinode/ios/master/ios-chat.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/tinode/ios/master/ios-account.png'><code>Screenshot 3</code></a> 
+	<a href='https://raw.githubusercontent.com/tinode/ios/master/ios-chats.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/tinode/ios/master/ios-chat.png'><code>Screenshot 2</code></a> 
   </details>
 
 - [TSWeChat](https://github.com/hilen/TSWeChat): A WeChat alternative  
@@ -5905,6 +5905,13 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [Proton](https://github.com/rajdeep/proton): Example app allows you to extend the behavior of a textview to add rich content  
+  <details>
+	<summary><code>swift</code> ⭐⭐</summary>
+
+	Added June 23, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+
 - [RichTexture](https://github.com/stevemoser/richtexture): Rich text editor (fork of Textor but for rich text) [` App Store`](https://apps.apple.com/app/richtexture/id1376116077)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -7211,10 +7218,10 @@ https://realm.io/ — [back to top](#readme)
 
 - [AC Helper](https://github.com/Dimillian/ACHNBrowserUI): Animal Crossing New Horizon items catalogue [` App Store`](https://apps.apple.com/app/ac-helper/id1508764244)  
   <details>
-	<summary><code>swift</code> ⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>ipad</code> ⭐⭐⭐</summary>
 
 	Added April 16, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://github.com/Dimillian/ACHNBrowserUI/raw/master/images/image1.png'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/dcs8niz.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [ASETimerSwiftUI](https://github.com/rahulrs0029/ASETimerSwiftUI): Countdown to WWDC20  
@@ -7279,6 +7286,13 @@ https://realm.io/ — [back to top](#readme)
 
 	Added April 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/fromkk/FreeTimePicker/raw/master/images/search.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Fruta](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an app clip - WWDC 2020 sample code by Apple  
+  <details>
+	<summary><code>swift</code> <code>ios14</code> <code>widgetkit</code> <code>macos</code> <code>app-clip</code> </summary>
+
+	Added June 23, 2020<br>  License: `other`
   </details>
 
 - [FTC Scorer - Skystone](https://github.com/Pondorasti/StonkScorer): Simple yet powerful way of scoring practice matches  
@@ -7367,7 +7381,7 @@ https://realm.io/ — [back to top](#readme)
 	Added March  1, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
-- [Podcasts](https://github.com/albertopeam/Podcasts): Shows a list of podcasts fetched from listennotes and it can be played  
+- [Podcasts](https://github.com/albertopeam/Podcasts): Shows a list of podcasts that can be played, fetched from listennotes  
   <details>
 	<summary><code>swift</code> <code>combine</code> </summary>
 
