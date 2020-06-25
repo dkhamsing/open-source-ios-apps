@@ -381,9 +381,9 @@ Click ► to show more details
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/71/36/95/7136953f-7ffc-05fa-0df7-78cc7ec4b06b/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/67/56/94/67569407-e82a-6d28-80e6-c59845726c81/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/9f/34/7b/9f347b9a-15f9-bd4f-f020-02f633967c9f/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/16/e3/cc/16e3cc1a-e13a-d7f1-cf4a-f3a658828d10/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
-- [ProtonMail](https://github.com/ProtonMail/ios-mail): ProtonMail iOS client app [` App Store`](https://apps.apple.com/app/id979659905)  
+- [ProtonMail](https://github.com/ProtonMail/ios-mail): Encrypted Email [` App Store`](https://apps.apple.com/app/id979659905)  
   <details>
-	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> ⭐⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> <code>dompurify</code> <code>afnetworking</code> <code>flanimatedimage</code> ⭐⭐⭐⭐</summary>
 
 	https://protonmail.com/<br>  Added June 23, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1d/c0/ba/1dc0bacb-bd7e-bfb3-4a14-ab9cdfd6336d/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/e3/23/9ce32347-1f99-dfa0-2434-c032e6264eda/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/11/33/5c/11335cff-69e3-6a55-3248-ebe2e98c4e87/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bc/08/4b/bc084bb4-d8d1-26aa-606f-03de254a345d/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
@@ -2263,9 +2263,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/da/26/c7/da26c749-b889-37a7-9e2f-62c73bcfba3d/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/89/75/a18975f9-b682-9c9b-5f2e-96389f66fec6/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/87/60/24/876024e2-5338-26c9-7e08-7415068a08e0/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a5/1d/29/a51d297d-74c8-4086-7585-263c2c1ea494/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/df/a7/52/dfa7524e-313e-ff82-d615-f95cd5149dc9/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [ProtonMail](https://github.com/ProtonMail/ios-mail): ProtonMail iOS client app [` App Store`](https://apps.apple.com/app/id979659905)  
+- [ProtonMail](https://github.com/ProtonMail/ios-mail): Encrypted Email [` App Store`](https://apps.apple.com/app/id979659905)  
   <details>
-	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> ⭐⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> <code>dompurify</code> <code>afnetworking</code> <code>flanimatedimage</code> ⭐⭐⭐⭐</summary>
 
 	https://protonmail.com/<br>  Added June 23, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1d/c0/ba/1dc0bacb-bd7e-bfb3-4a14-ab9cdfd6336d/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/e3/23/9ce32347-1f99-dfa0-2434-c032e6264eda/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/11/33/5c/11335cff-69e3-6a55-3248-ebe2e98c4e87/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bc/08/4b/bc084bb4-d8d1-26aa-606f-03de254a345d/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
