@@ -21662,6 +21662,22 @@
       "source": "https://github.com/SchwiftyUI/NewsApiApp",
       "suggested_by": "@dkhamsing",
       "date_added": "Jun 25 2020"
+    },
+    {
+      "title": "PapersSwiftUI",
+      "description": "For Unsplash",
+      "category-ids": [
+        "content",
+        "swiftui"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": ["https://i.imgur.com/bYfBVsB.png"],
+      "license": "other",
+      "source": "https://github.com/donbytyqi/PapersSwiftUI",
+      "suggested_by": "@dkhamsing",
+      "date_added": "Jun 26 2020"
     }
   ]
 }
