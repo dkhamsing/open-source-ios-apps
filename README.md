@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1084-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2025,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1085-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2026,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4664,6 +4664,14 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://github.com/dkhamsing/news/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
   </details>
 
+- [NewsApiApp](https://github.com/SchwiftyUI/NewsApiApp): News app with image caching and infinite loading  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 25, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/8KPNblj.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [NewsAPISwift](https://github.com/lucaslimapoa/NewsAPISwift)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -5905,7 +5913,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Proton](https://github.com/rajdeep/proton): Example for extending the behavior of a textview to add rich content  
+- [Proton](https://github.com/rajdeep/proton): Example for extending the behavior of a text view to add rich content  
   <details>
 	<summary><code>swift</code> ⭐⭐</summary>
 
@@ -7364,6 +7372,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June 13, 2019<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [NewsApiApp](https://github.com/SchwiftyUI/NewsApiApp): News app with image caching and infinite loading  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 25, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/8KPNblj.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)  
