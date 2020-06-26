@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [ProtonMail](https://github.com/ProtonMail/ios-mail)
-2. [Proton](https://github.com/rajdeep/proton)
-3. [Fruta](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui)
-4. [Podcasts](https://github.com/albertopeam/Podcasts)
-5. [TemperatureAtlas](https://github.com/jhatin94/tempatlas-swiftui)
-6. [InstaFake - Instagram Clone](https://github.com/leavenstee/InstaFake-Swift-UI)
-7. [HorizonCalendar](https://github.com/airbnb/HorizonCalendar)
-8. [Bike Compass](https://github.com/raulriera/Bike-Compass)
-9. [Clip](https://github.com/rileytestut/Clip)
-10. [BringMyOwnBeer](https://github.com/fimuxd/BringMyOwnBeer-)
-11. [Poland - ProteGO Safe](https://github.com/ProteGO-Safe/ios)
-12. [Bulgaria - ViruSafe](https://github.com/scalefocus/virusafe-ios)
-13. [InfiniteListSwiftUI](https://github.com/V8tr/InfiniteListSwiftUI)
-14. [Jotify](https://github.com/leathalman/Jotify)
-15. [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc)
+1. [NewsApiApp](https://github.com/SchwiftyUI/NewsApiApp)
+2. [ProtonMail](https://github.com/ProtonMail/ios-mail)
+3. [Proton](https://github.com/rajdeep/proton)
+4. [Fruta](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui)
+5. [Podcasts](https://github.com/albertopeam/Podcasts)
+6. [TemperatureAtlas](https://github.com/jhatin94/tempatlas-swiftui)
+7. [InstaFake - Instagram Clone](https://github.com/leavenstee/InstaFake-Swift-UI)
+8. [HorizonCalendar](https://github.com/airbnb/HorizonCalendar)
+9. [Bike Compass](https://github.com/raulriera/Bike-Compass)
+10. [Clip](https://github.com/rileytestut/Clip)
+11. [BringMyOwnBeer](https://github.com/fimuxd/BringMyOwnBeer-)
+12. [Poland - ProteGO Safe](https://github.com/ProteGO-Safe/ios)
+13. [Bulgaria - ViruSafe](https://github.com/scalefocus/virusafe-ios)
+14. [InfiniteListSwiftUI](https://github.com/V8tr/InfiniteListSwiftUI)
+15. [Jotify](https://github.com/leathalman/Jotify)
 
 ## Thanks
 
