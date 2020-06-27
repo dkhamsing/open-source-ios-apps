@@ -21678,6 +21678,49 @@
       "source": "https://github.com/donbytyqi/PapersSwiftUI",
       "suggested_by": "@dkhamsing",
       "date_added": "Jun 26 2020"
+      },{
+      "title": "DivRise",
+      "category-ids": [
+          "swiftui",
+          "finance"
+      ],
+      "description": "Elegant dividend yield and income tracker",
+      "source": "https://github.com/ThasianX/DivRise",
+      "license": "mit",
+      "stars": 41,
+      "tags": [
+          "swiftui",
+          "dividend",
+          "income tracker"
+      ],
+      "screenshots": [
+          "https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png",
+          "https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png",
+          "https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png"
+      ]
+    },{
+      "title": "SpotifyRadar",
+      "category-ids": [
+          "rxswift",
+          "social"
+      ],
+      "description": "Never miss new releases from your favorite Spotify artists",
+      "source": "https://github.com/ThasianX/SpotifyRadar",
+      "license": "mit",
+      "stars": 583,
+      "tags": [
+          "swift",
+          "iphone",
+          "ipad",
+          "spotify",
+          "spotifyradar",
+          "rxswift",
+          "coordinator",
+          "mvvm"
+      ],
+      "screenshots": ["https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png"],
+      "date_added": "June 26 2020",
+      "suggested_by": "@thasianx"
     }
   ]
 }
