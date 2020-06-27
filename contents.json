@@ -21662,6 +21662,30 @@
       "source": "https://github.com/SchwiftyUI/NewsApiApp",
       "suggested_by": "@dkhamsing",
       "date_added": "Jun 25 2020"
+    },
+    {
+      "title": "SpotifyRadar",
+      "category-ids": [
+          "rxswift",
+          "social"
+      ],
+      "description": "Never miss new releases from your favorite Spotify artists",
+      "source": "https://github.com/ThasianX/SpotifyRadar",
+      "license": "mit",
+      "stars": 583,
+      "tags": [
+          "swift",
+          "iphone",
+          "ipad",
+          "spotify",
+          "spotifyradar",
+          "rxswift",
+          "coordinator",
+          "mvvm"
+      ],
+      "screenshots": ["https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png"],
+      "date_added": "June 26 2020",
+      "suggested_by": "@thasianx"
     }
   ]
 }
