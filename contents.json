@@ -21723,6 +21723,23 @@
       "screenshots": ["https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png"],
       "date_added": "June 26 2020",
       "suggested_by": "@thasianx"
+    },
+    {
+    "title": "Beers",
+    "category-ids": [
+        "swiftui"
+    ],
+    "description": "List of beers fetched from Punk API https://punkapi.com",
+    "source": "https://github.com/crelies/Beers",
+    "license": "mit",
+    "tags": [
+        "swiftui"
+    ],
+    "screenshots": [
+      "https://github.com/crelies/Beers/raw/master/preview.gif"
+    ],
+    "date_added": "Jun 27 2020",
+    "suggested_by": "@dkhamsing"
     }
   ]
 }
