@@ -21662,6 +21662,29 @@
       "source": "https://github.com/SchwiftyUI/NewsApiApp",
       "suggested_by": "@dkhamsing",
       "date_added": "Jun 25 2020"
+    },
+    {
+      "title": "DivRise",
+      "category-ids": [
+          "swiftui",
+          "finance"
+      ],
+      "description": "Elegant dividend yield and income tracker",
+      "source": "https://github.com/ThasianX/DivRise",
+      "license": "mit",
+      "stars": 41,
+      "tags": [
+          "swiftui",
+          "dividend",
+          "income tracker"
+      ],
+      "screenshots": [
+          "https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png",
+          "https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png",
+          "https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png"
+      ],
+      "date_added": "June 26 2020",
+      "suggested_by": "@thasianx"
     }
   ]
 }
