@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1085-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2026,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1088-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2027,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2220,6 +2220,14 @@ Today Extensions or Widgets — [back to top](#readme)
 	Added November 16, 2015<br>  License: `other`
   </details>
 
+- [DivRise](https://github.com/ThasianX/DivRise): Elegant dividend yield and income tracker  
+  <details>
+	<summary><code>swiftui</code> <code>dividend</code> <code>income tracker</code> </summary>
+
+	License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png'><code>Screenshot 1</code></a> <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png'><code>Screenshot 2</code></a> <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png'><code>Screenshot 3</code></a> 
+  </details>
+
 - [EconoApp](https://github.com/viniciusvieir/EconoApp): Keep track of economic information  
   <details>
 	<summary><code>swift</code> </summary>
@@ -4071,6 +4079,14 @@ Image, video, audio, reading — [back to top](#readme)
 	Added March  1, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
+- [PapersSwiftUI](https://github.com/donbytyqi/PapersSwiftUI): For Unsplash  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 26, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/bYfBVsB.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Papr](https://github.com/jdisho/Papr): An unofficial client for https://unsplash.com  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐</summary>
@@ -5078,6 +5094,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar): Never miss new releases from your favorite Spotify artists  
+  <details>
+	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> <code>spotify</code> <code>spotifyradar</code> <code>rxswift</code> <code>coordinator</code> <code>mvvm</code> ⭐⭐⭐</summary>
+
+	Added June 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture  
   <details>
 	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐⭐</summary>
@@ -5765,6 +5789,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	https://www.queuedapp.com<br>  Added April 17, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://www.queuedapp.com/img/image-3.png'><code>Screenshot 1</code></a> <a href='https://www.queuedapp.com/img/image-2.png'><code>Screenshot 2</code></a> <a href='https://www.queuedapp.com/img/powerful.png'><code>Screenshot 3</code></a> 
+  </details>
+
+- [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar): Never miss new releases from your favorite Spotify artists  
+  <details>
+	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> <code>spotify</code> <code>spotifyradar</code> <code>rxswift</code> <code>coordinator</code> <code>mvvm</code> ⭐⭐⭐</summary>
+
+	Added June 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [TweetleDumb](https://github.com/IanKeen/TweetleDumb): Mock (dumb) Twitter app  
@@ -7264,6 +7296,14 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/alexliubj/SwiftUI-Currency-Converter/master/Screenshots/S1.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [DivRise](https://github.com/ThasianX/DivRise): Elegant dividend yield and income tracker  
+  <details>
+	<summary><code>swiftui</code> <code>dividend</code> <code>income tracker</code> </summary>
+
+	License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png'><code>Screenshot 1</code></a> <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png'><code>Screenshot 2</code></a> <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png'><code>Screenshot 3</code></a> 
+  </details>
+
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)  
   <details>
 	<summary><code>swift</code> <code>core-data</code> </summary>
@@ -7395,6 +7435,14 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>combine</code> </summary>
 
 	Added March  1, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+
+- [PapersSwiftUI](https://github.com/donbytyqi/PapersSwiftUI): For Unsplash  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 26, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/bYfBVsB.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Podcasts](https://github.com/albertopeam/Podcasts): Shows a list of podcasts that can be played, fetched from listennotes  
