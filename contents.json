@@ -21740,6 +21740,22 @@
     ],
     "date_added": "Jun 27 2020",
     "suggested_by": "@dkhamsing"
-    }
+  },
+  {
+  "title": "Dub Dub Do - TODO List",
+  "category-ids": [
+      "swiftui"
+  ],
+  "source": "https://github.com/StephenMcMillan/Dub-Dub-Do",
+  "license": "other",
+  "tags": [
+      "swiftui"
+  ],
+  "screenshots": [
+    "https://github.com/StephenMcMillan/Dub-Dub-Do/raw/master/todoapp.gif"
+  ],
+  "date_added": "Jun 28 2020",
+  "suggested_by": "@dkhamsing"
+  }
   ]
 }
