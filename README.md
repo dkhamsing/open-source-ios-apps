@@ -6477,11 +6477,11 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/michaelvillar/remote/master/screenshots/ios.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Say Their Name](https://github.com/Say-Their-Name/say-their-names-ios): Raises awareness of the injustice and often forgotten names of racial inequality at the hands of law enforcement  
+- [Say Their Names](https://github.com/Say-Their-Name/say-their-names-ios): Raises awareness of the injustice and often forgotten names of racial inequality. Includes a catalog of verified donation and petition links. [` App Store`](https://apps.apple.com/app/say-their-names/id1517599626)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐⭐</summary>
 
-	Added June  4, 2020<br>  License: `other`<br>
+	Added June  4, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/9l2ooUL.jpg'><code>Screenshot 1</code></a> 
   </details>
 
