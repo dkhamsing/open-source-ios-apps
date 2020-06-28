@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1088-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2027,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1089-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2028,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2224,7 +2224,7 @@ Today Extensions or Widgets — [back to top](#readme)
   <details>
 	<summary><code>swiftui</code> <code>dividend</code> <code>income tracker</code> </summary>
 
-	License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	Added June 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png'><code>Screenshot 1</code></a> <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png'><code>Screenshot 2</code></a> <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png'><code>Screenshot 3</code></a> 
   </details>
 
@@ -7272,6 +7272,14 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://i.imgur.com/Yqv29uO.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [Beers](https://github.com/crelies/Beers): List of beers fetched from Punk API https://punkapi.com  
+  <details>
+	<summary><code>swiftui</code> </summary>
+
+	Added June 27, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/crelies/Beers/raw/master/preview.gif'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Corona Virus Tracker & Advice](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)  
   <details>
 	<summary><code>swift</code> ⭐⭐</summary>
@@ -7300,7 +7308,7 @@ https://realm.io/ — [back to top](#readme)
   <details>
 	<summary><code>swiftui</code> <code>dividend</code> <code>income tracker</code> </summary>
 
-	License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	Added June 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png'><code>Screenshot 1</code></a> <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png'><code>Screenshot 2</code></a> <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png'><code>Screenshot 3</code></a> 
   </details>
 
