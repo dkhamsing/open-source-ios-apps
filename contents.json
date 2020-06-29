@@ -21146,14 +21146,15 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "Say Their Name",
+      "title": "Say Their Names",
       "category-ids": [
         "misc"
       ],
-      "description": "Raises awareness of the injustice and often forgotten names of racial inequality at the hands of law enforcement",
+      "description": "Raises awareness of the injustice and often forgotten names of racial inequality. Includes a catalog of verified donation and petition links.",
       "source": "https://github.com/Say-Their-Name/say-their-names-ios",
-      "license": "other",
-      "stars": 61,
+      "itunes": "https://apps.apple.com/app/say-their-names/id1517599626",
+      "license": "mit",
+      "stars": 233,
       "tags": [
         "swift"
       ],

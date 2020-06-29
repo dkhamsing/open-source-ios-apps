@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar)
-2. [PapersSwiftUI](https://github.com/donbytyqi/PapersSwiftUI)
-3. [NewsApiApp](https://github.com/SchwiftyUI/NewsApiApp)
-4. [ProtonMail](https://github.com/ProtonMail/ios-mail)
-5. [Proton](https://github.com/rajdeep/proton)
-6. [Fruta](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui)
-7. [Podcasts](https://github.com/albertopeam/Podcasts)
-8. [TemperatureAtlas](https://github.com/jhatin94/tempatlas-swiftui)
-9. [InstaFake - Instagram Clone](https://github.com/leavenstee/InstaFake-Swift-UI)
-10. [HorizonCalendar](https://github.com/airbnb/HorizonCalendar)
-11. [Bike Compass](https://github.com/raulriera/Bike-Compass)
-12. [Clip](https://github.com/rileytestut/Clip)
-13. [BringMyOwnBeer](https://github.com/fimuxd/BringMyOwnBeer-)
-14. [Poland - ProteGO Safe](https://github.com/ProteGO-Safe/ios)
-15. [Bulgaria - ViruSafe](https://github.com/scalefocus/virusafe-ios)
+1. [Beers](https://github.com/crelies/Beers)
+2. [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar)
+3. [DivRise](https://github.com/ThasianX/DivRise)
+4. [PapersSwiftUI](https://github.com/donbytyqi/PapersSwiftUI)
+5. [NewsApiApp](https://github.com/SchwiftyUI/NewsApiApp)
+6. [ProtonMail](https://github.com/ProtonMail/ios-mail)
+7. [Proton](https://github.com/rajdeep/proton)
+8. [Fruta](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui)
+9. [Podcasts](https://github.com/albertopeam/Podcasts)
+10. [TemperatureAtlas](https://github.com/jhatin94/tempatlas-swiftui)
+11. [InstaFake - Instagram Clone](https://github.com/leavenstee/InstaFake-Swift-UI)
+12. [HorizonCalendar](https://github.com/airbnb/HorizonCalendar)
+13. [Bike Compass](https://github.com/raulriera/Bike-Compass)
+14. [Clip](https://github.com/rileytestut/Clip)
+15. [BringMyOwnBeer](https://github.com/fimuxd/BringMyOwnBeer-)
 
 ## Thanks
 

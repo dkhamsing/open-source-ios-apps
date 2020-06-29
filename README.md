@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1088-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2027,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1089-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2028,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2224,7 +2224,7 @@ Today Extensions or Widgets — [back to top](#readme)
   <details>
 	<summary><code>swiftui</code> <code>dividend</code> <code>income tracker</code> </summary>
 
-	License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	Added June 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png'><code>Screenshot 1</code></a> <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png'><code>Screenshot 2</code></a> <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png'><code>Screenshot 3</code></a> 
   </details>
 
@@ -6477,11 +6477,11 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/michaelvillar/remote/master/screenshots/ios.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Say Their Name](https://github.com/Say-Their-Name/say-their-names-ios): Raises awareness of the injustice and often forgotten names of racial inequality at the hands of law enforcement  
+- [Say Their Names](https://github.com/Say-Their-Name/say-their-names-ios): Raises awareness of the injustice and often forgotten names of racial inequality. Includes a catalog of verified donation and petition links. [` App Store`](https://apps.apple.com/app/say-their-names/id1517599626)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐⭐</summary>
 
-	Added June  4, 2020<br>  License: `other`<br>
+	Added June  4, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/9l2ooUL.jpg'><code>Screenshot 1</code></a> 
   </details>
 
@@ -7272,6 +7272,14 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://i.imgur.com/Yqv29uO.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [Beers](https://github.com/crelies/Beers): List of beers fetched from Punk API https://punkapi.com  
+  <details>
+	<summary><code>swiftui</code> </summary>
+
+	Added June 27, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/crelies/Beers/raw/master/preview.gif'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Corona Virus Tracker & Advice](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)  
   <details>
 	<summary><code>swift</code> ⭐⭐</summary>
@@ -7300,7 +7308,7 @@ https://realm.io/ — [back to top](#readme)
   <details>
 	<summary><code>swiftui</code> <code>dividend</code> <code>income tracker</code> </summary>
 
-	License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	Added June 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png'><code>Screenshot 1</code></a> <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png'><code>Screenshot 2</code></a> <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png'><code>Screenshot 3</code></a> 
   </details>
 
