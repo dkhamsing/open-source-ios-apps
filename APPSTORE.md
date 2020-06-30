@@ -1962,7 +1962,7 @@ https://news.ycombinator.com/ — [back to top](#readme)
 	<summary><code>react-native</code> </summary>
 
 	Added March 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/refactor/redux/screenshots/iOS/show.png'><code>Screenshot 1</code></a> 
+	<a href='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/iOS/top.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Simple Reader](https://github.com/rnystrom/HackerNewsReader) [` App Store`](https://apps.apple.com/app/simple-reader-free-open-source/id1000995253)  
@@ -2909,7 +2909,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<summary><code>react-native</code> </summary>
 
 	Added March 30, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/refactor/redux/screenshots/iOS/show.png'><code>Screenshot 1</code></a> 
+	<a href='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/iOS/top.png'><code>Screenshot 1</code></a> 
   </details>
 
 
