@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1090-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2029,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1091-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-June%2030,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7389,6 +7389,13 @@ https://realm.io/ — [back to top](#readme)
 
 	Added April  7, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://github.com/rrroyal/Harbour/blob/main/Resources/Screenshots/Light/Dashboard.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [IndieApps](https://github.com/antranapp/IndieApps): Showcase your side projects/apps  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 29, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [InfiniteListSwiftUI](https://github.com/V8tr/InfiniteListSwiftUI): Paginated endless scroll  
