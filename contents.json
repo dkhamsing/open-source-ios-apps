@@ -17856,6 +17856,7 @@
       "stars": 4450,
       "tags": [
         "swift",
+        "swiftui",
         "themoviedb",
         "combine",
         "ipad",
@@ -17899,6 +17900,7 @@
       "license": "other",
       "tags": [
         "swift",
+        "swiftui",
         "mapkit"
       ],
       "screenshots": [
@@ -18398,6 +18400,7 @@
       "source": "https://github.com/mecid/swiftui-recipes-app",
       "description": "Recipes using Single State Container",
       "tags": [
+        "swiftui",
         "swift"
       ],
       "category-ids": [
@@ -18533,6 +18536,7 @@
       "license": "apache-2.0",
       "tags": [
         "swift",
+        "swiftui",
         "combine"
       ],
       "date_added": "March 1 2020",
@@ -18552,6 +18556,7 @@
       "description": "2048 written with SwiftUI",
       "license": "mit",
       "tags": [
+        "swiftui",
         "swift"
       ],
       "date_added": "March 8 2020",
@@ -18590,6 +18595,7 @@
       "source": "https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI",
       "license": "mit",
       "tags": [
+        "swiftui",
         "swift"
       ],
       "date_added": "March 8 2020",
@@ -18887,6 +18893,7 @@
       "tags": [
         "swift",
         "docker",
+        "swiftui",
         "ipad"
       ],
       "description": "Docker/Portainer app",
@@ -18964,6 +18971,7 @@
       ],
       "tags": [
         "swift",
+        "swiftui",
         "combine"
       ],
       "date_added": "Apr 11 2020",
@@ -18984,6 +18992,7 @@
       ],
       "tags": [
         "swift",
+        "swiftui",
         "combine"
       ],
       "lang": "jpn",
@@ -19062,6 +19071,7 @@
       "stars": 747,
       "tags": [
         "swift",
+        "swiftui",
         "macos",
         "watchos"
       ],
@@ -19159,6 +19169,7 @@
       "license": "mit",
       "stars": 526,
       "tags": [
+        "swiftui",
         "swift"
       ],
       "screenshots": [
@@ -19178,6 +19189,7 @@
       "license": "apache-2.0",
       "tags": [
         "swift",
+        "swiftui",
         "ipad"
       ],
       "screenshots": [
@@ -19197,6 +19209,7 @@
       "license": "mit",
       "tags": [
         "swift",
+        "swiftui",
         "combine"
       ],
       "screenshots": [
@@ -19479,6 +19492,7 @@
       "stars": 196,
       "tags": [
         "swift",
+        "swiftui",
         "themoviedb",
         "ipad"
       ],
@@ -19582,6 +19596,7 @@
       "license": "other",
       "tags": [
         "swift",
+        "swiftui",
         "core-data"
       ],
       "screenshots": [
@@ -19673,6 +19688,7 @@
       "license": "other",
       "tags": [
         "swift",
+        "swiftui",
         "combine"
       ],
       "date_added": "Apr 23 2020",
@@ -19686,6 +19702,7 @@
         "swiftui"
       ],
       "tags": [
+        "swiftui",
         "swift"
       ],
       "description": "VT100/Xterm Terminal emulator",
@@ -19870,6 +19887,7 @@
       ],
       "tags": [
         "swift",
+        "swiftui",
         "combine"
       ],
       "license": "mit",
@@ -19993,6 +20011,7 @@
         "swiftui"
       ],
       "tags": [
+        "swiftui",
         "swift"
       ],
       "license": "other",
@@ -20112,6 +20131,7 @@
         "https://p93.f3.n0.cdn.getcloudapp.com/items/BluZWjKm/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20%282nd%20generation%29%20-%202020-05-07%20at%2013.18.57.png?v=e42b4b30c4fd5da17ccde5a61d7cf2d4"
       ],
       "tags": [
+        "swiftui",
         "swift"
       ],
       "stars": 121
@@ -20491,6 +20511,7 @@
       "license": "mit",
       "tags": [
         "swift",
+        "swiftui",
         "core-data"
       ],
       "screenshots": [
@@ -20654,6 +20675,7 @@
       "source": "https://github.com/emcro/SwiftUI-Keyboard-Demo",
       "license": "other",
       "tags": [
+        "swiftui",
         "swift"
       ],
       "date_added": "May 23 2020",
@@ -20817,6 +20839,7 @@
       "stars": 166,
       "tags": [
         "swift",
+        "swiftui",
         "firebase",
         "redux"
       ],
@@ -20965,6 +20988,7 @@
       ],
       "tags": [
         "swift",
+        "swiftui",
         "combine",
         "macos"
       ],
