@@ -21757,6 +21757,20 @@
   ],
   "date_added": "Jun 28 2020",
   "suggested_by": "@dkhamsing"
-  }
+},
+{
+"title": "IndieApps",
+"description": "Showcase your side projects/apps",
+"category-ids": [
+    "swiftui"
+],
+"source": "https://github.com/antranapp/IndieApps",
+"license": "mit",
+"tags": [
+    "swift"
+],
+"date_added": "Jun 29 2020",
+"suggested_by": "@dkhamsing"
+}
   ]
 }
