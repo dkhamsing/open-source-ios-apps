@@ -21771,6 +21771,24 @@
 ],
 "date_added": "Jun 29 2020",
 "suggested_by": "@dkhamsing"
+},
+{
+"title": "SafeTimer",
+"description": "Control how many hours of use are left for all kinds of tools, supplies and equipment",
+"category-ids": [
+    "apple-watch"
+],
+"source": "https://github.com/Hortelanos/SafeTimer",
+"itunes": "https://apps.apple.com/app/apple-store/id1512032981",
+"license": "other",
+"tags": [
+    "swift"
+],
+"screenshots": [
+  "https://i.imgur.com/hgpAKK7.png"
+],
+"date_added": "Jun 30 2020",
+"suggested_by": "@dkhamsing"
 }
   ]
 }
