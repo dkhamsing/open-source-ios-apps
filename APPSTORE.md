@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **271** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **272** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -160,6 +160,14 @@ Click ► to show more details
 
 	Added June 12, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://a1.mzstatic.com/us/r30/Purple122/v4/2d/28/8c/2d288c05-33f0-1f18-b06a-4e3a24e1d608/screen696x696.jpeg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [SafeTimer](https://github.com/Hortelanos/SafeTimer): Control how many hours of use are left for all kinds of tools, supplies and equipment [` App Store`](https://apps.apple.com/app/apple-store/id1512032981)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June 30, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/hgpAKK7.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Watch Clicker Presentation](https://github.com/ezefranca/watchpresenter): Control your Keynote using Apple Watch [` App Store`](https://apps.apple.com/app/watchnotes/id1213397019)  
@@ -638,7 +646,7 @@ Click ► to show more details
 
 - [LibTerm](https://github.com/ColdGrub1384/LibTerm): Terminal with Python 3.7 and Lua 5.3, supports iOS 13 dark mode and multi window [` App Store`](https://apps.apple.com/app/libterm/id1380911705)  
   <details>
-	<summary><code>swift</code> <code>ipad</code> ⭐</summary>
+	<summary><code>swift</code> <code>ipad</code> ⭐⭐</summary>
 
 	Added March 27, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/dJs2tXc.png'><code>Screenshot 1</code></a> 
@@ -667,7 +675,7 @@ Click ► to show more details
 
 - [Fingerspelling](https://github.com/sloria/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863)  
   <details>
-	<summary><code>swift</code> <code>combine</code> </summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> </summary>
 
 	Added April 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'><code>Screenshot 1</code></a> 
@@ -1322,7 +1330,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [Germany - Corona Warn App](https://github.com/corona-warn-app/cwa-app-ios): Uses Apple's Exposure Notification framework [` App Store`](https://apps.apple.com/de/app/corona-warn-app/id1512595757)  
   <details>
-	<summary><code>swift</code> 🌐 ⭐⭐</summary>
+	<summary><code>swift</code> 🌐 ⭐⭐⭐⭐</summary>
 
 	Added May 31, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://github.com/corona-warn-app/cwa-documentation/raw/master/images/ui_screens/ui_screens_ios.png'><code>Screenshot 1</code></a> 
@@ -1346,7 +1354,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [Italy - Immuni](https://github.com/immuni-app/immuni-app-ios) [` App Store`](https://apps.apple.com/it/app/immuni/id1513940977)  
   <details>
-	<summary><code>swift</code> <code>alamofire</code> <code>katana</code> <code>tempura</code> <code>bonmot</code> 🌐 </summary>
+	<summary><code>swift</code> <code>alamofire</code> <code>katana</code> <code>tempura</code> <code>bonmot</code> 🌐 ⭐⭐⭐</summary>
 
 	https://www.covid.is/app/is<br>  Added June 12, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/XY1igkP.png'><code>Screenshot 1</code></a> 
@@ -1362,7 +1370,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [Switzerland - SwissCovid](https://github.com/DP-3T/dp3t-app-ios-ch): COVID-19 tracing using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T) [` App Store`](https://apps.apple.com/ch/app/swisscovid-preview/id1509275381)  
   <details>
-	<summary><code>swift</code> 🌐 </summary>
+	<summary><code>swift</code> 🌐 ⭐</summary>
 
 	Added May 30, 2020<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
 	<a href='https://github.com/DP-3T/dp3t-app-ios-ch/blob/develop/Documentation/screenshots/screenshots.png?raw=true'><code>Screenshot 1</code></a> 
@@ -2932,7 +2940,7 @@ https://realm.io/ — [back to top](#readme)
  
 - [AC Helper](https://github.com/Dimillian/ACHNBrowserUI): Animal Crossing New Horizon items catalogue [` App Store`](https://apps.apple.com/app/ac-helper/id1508764244)  
   <details>
-	<summary><code>swift</code> <code>ipad</code> ⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>ipad</code> ⭐⭐⭐⭐</summary>
 
 	Added April 16, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://i.imgur.com/dcs8niz.png'><code>Screenshot 1</code></a> 
@@ -2940,7 +2948,7 @@ https://realm.io/ — [back to top](#readme)
 
 - [Fingerspelling](https://github.com/sloria/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863)  
   <details>
-	<summary><code>swift</code> <code>combine</code> </summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> </summary>
 
 	Added April 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'><code>Screenshot 1</code></a> 
