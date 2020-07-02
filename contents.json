@@ -21878,6 +21878,26 @@
       "date_added": "Jul 1 2020",
       "suggested_by": "@dkhamsing",
       "stars": 10
+    },
+    {
+      "title": "Revill",
+      "description": "Browse and search games",
+      "category-ids": [
+        "swiftui",
+        "content"
+      ],
+      "source": "https://github.com/ViniciusDeep/Revill",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui",
+        "combine"
+      ],
+      "screenshots": [
+        "https://user-images.githubusercontent.com/32227073/65997616-0ef63f80-e470-11e9-8faa-d2d6728202a5.png"
+      ],
+      "date_added": "Jul 2 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
