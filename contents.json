@@ -20562,7 +20562,7 @@
       ],
       "description": "Beautiful Mastodon app built with macOS design guidelines in mind",
       "license": "gpl-3.0",
-      "source": "https://github.com/ShihabM/Mast",
+      "source": "https://github.com/ShihabMe/Mast2",
       "itunes": "https://apps.apple.com/app/mast/id1437429129",
       "tags": [
         "swift",
@@ -20573,7 +20573,7 @@
       "screenshots": [
         "https://i.imgur.com/DpjNleo.png"
       ],
-      "stars": 183,
+      "stars": 35,
       "date_added": "May 22 2020",
       "suggested_by": "@th3m"
     },
