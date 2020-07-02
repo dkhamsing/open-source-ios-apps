@@ -18344,11 +18344,14 @@
         "swift"
       ],
       "screenshots": [
-        "https://pgpro.app/screenshots/current/"
+        "https://pgpro.app/assets/screenshot/1.png",
+				"https://pgpro.app/assets/screenshot/2.png",
+				"https://pgpro.app/assets/screenshot/3.png",
+				"https://pgpro.app/assets/screenshot/4.png"
       ],
       "date_added": "Oct 26 2019",
       "suggested_by": "@lucanaef",
-      "stars": 22
+      "stars": 24
     },
     {
       "title": "AlphaWallet ETH Wallet",
