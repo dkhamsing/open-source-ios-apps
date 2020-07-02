@@ -21858,6 +21858,26 @@
       "date_added": "Jun 30 2020",
       "suggested_by": "@dkhamsing",
       "stars": 3
+    },
+    {
+      "title": "Astronomy Picture of the Day (APOD)",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/LASER-Yi/SwiftUI-APOD",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui",
+        "combine",
+        "ios13"
+      ],
+      "screenshots": [
+        "https://github.com/LASER-Yi/SwiftUI-APOD/raw/master/images/Group.png"
+      ],
+      "date_added": "Jul 1 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 10
     }
   ]
 }
