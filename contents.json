@@ -401,7 +401,8 @@
         "apple-tv"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "description": "Watch videos from EX.UA file sharing",
       "license": "lgpl-2.1",
