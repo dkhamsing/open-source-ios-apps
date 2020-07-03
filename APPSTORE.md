@@ -117,7 +117,7 @@ Click ► to show more details
 	<a href='https://i.imgur.com/UMYQpqx.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on the Stepik Platform https://stepik.org/ [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926)  
+- [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on https://stepik.org/ [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926)  
   <details>
 	<summary><code>swift</code> <code>ipad</code> <code>alamofire</code> <code>swiftyjson</code> <code>sdwebimage</code> <code>devicekit</code> <code>promisekit</code> <code>swiftlint</code> </summary>
 
@@ -720,7 +720,7 @@ Click ► to show more details
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/2c/50/95/2c5095ff-6142-37cb-97db-a6421590bf02/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/45/8b/9c458b9b-d316-27ec-51ab-6f530b78f2d0/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/2c/22/0f2c227e-f348-1f32-5fa6-e2771c8f7b6d/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on the Stepik Platform https://stepik.org/ [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926)  
+- [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on https://stepik.org/ [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926)  
   <details>
 	<summary><code>swift</code> <code>ipad</code> <code>alamofire</code> <code>swiftyjson</code> <code>sdwebimage</code> <code>devicekit</code> <code>promisekit</code> <code>swiftlint</code> </summary>
 
@@ -2459,9 +2459,9 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://i.imgur.com/uesvdd4.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Mast](https://github.com/ShihabM/Mast): Beautiful Mastodon app built with macOS design guidelines in mind [` App Store`](https://apps.apple.com/app/mast/id1437429129)  
+- [Mast](https://github.com/ShihabMe/Mast2): Beautiful Mastodon app built with macOS design guidelines in mind [` App Store`](https://apps.apple.com/app/mast/id1437429129)  
   <details>
-	<summary><code>swift</code> <code>ipad</code> <code>macos</code> <code>watchos</code> ⭐</summary>
+	<summary><code>swift</code> <code>ipad</code> <code>macos</code> <code>watchos</code> </summary>
 
 	Added May 22, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/DpjNleo.png'><code>Screenshot 1</code></a> 
