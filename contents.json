@@ -10894,7 +10894,7 @@
       "category-ids": [
         "official"
       ],
-      "description": "Official app of recipients for https://developer.apple.com/wwdc19/scholarships/",
+      "description": "Official app of recipients for Apple WWDC scholarships",
       "license": "mit",
       "source": "https://github.com/WWDCScholars/iOS-app",
       "tags": [
