@@ -21901,6 +21901,25 @@
       ],
       "date_added": "Jul 2 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Mamoot!",
+      "description": "For Mastodon and Twitter",
+      "category-ids": [
+        "swiftui",
+        "social"
+      ],
+      "source": "https://github.com/Benetos/Mamoot",
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui",
+        "ios13",
+        "ipad",
+        "macos"
+      ],
+      "date_added": "Jul 3 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
