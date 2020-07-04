@@ -21921,6 +21921,22 @@
       ],
       "date_added": "Jul 3 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "listapp",
+      "description": "Lists from iOS 2 to iOS 14",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/dkhamsing/listapp.ios",
+      "screenshots": ["https://github.com/dkhamsing/listapp.ios/blob/main/images/ios2.png?raw=true"],
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "date_added": "Jul 3 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
