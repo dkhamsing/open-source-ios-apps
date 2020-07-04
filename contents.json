@@ -21937,6 +21937,22 @@
       ],
       "date_added": "Jul 3 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Invoice Ninja",
+      "description": "https://www.invoiceninja.com/",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/invoiceninja/flutter-client",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "other",
+      "date_added": "Jul 4 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 693
     }
   ]
 }
