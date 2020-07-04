@@ -97,6 +97,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [EmojiFireplace](https://github.com/neonichu/EmojiFireplace)
 - [Endless Browser](https://github.com/jcs/endless)
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS)
+- [EX Player](https://github.com/IGRSoft/exTVPlayer)
 - [f.lux](https://github.com/jefferyleo/f.lux)
 - [Facebook Login](https://github.com/brentvatne/react-native-login)
 - [Facebook-Pop-Introduction](https://github.com/thomasdegry/Facebook-Pop-Introduction)
