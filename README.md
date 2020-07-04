@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1094-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%203,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1096-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%204,%202020-lightgrey.svg)
 
 Jump to
 
@@ -101,14 +101,6 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [EX Player](https://github.com/IGRSoft/exTVPlayer): Watch videos from EX.UA file sharing  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	Added February  9, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)<br>
-	<a href='https://raw.githubusercontent.com/IGRSoft/exTVPlayer/master/Screenshots/4.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [hexclock](https://github.com/cfdrake/hexclock): Minimal hexadecimal clock [` App Store`](https://apps.apple.com/app/hex-color-clock/id1207660670)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -4890,7 +4882,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/7c/a1/2d/7ca12dea-f76c-e146-9b89-0f5636d306d3/mzl.uhfvsdne.png/626x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Scholars of WWDC](https://github.com/WWDCScholars/iOS-app): Official app of recipients for https://developer.apple.com/wwdc19/scholarships/  
+- [Scholars of WWDC](https://github.com/WWDCScholars/iOS-app): Official app of recipients for Apple WWDC scholarships  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -5774,6 +5766,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added June  2, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e8/67/e4/e867e445-cb5b-ae50-b72f-d56a2fef6bb7/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/ec/10/a9ec1009-1b6f-f100-f1f0-74eb0ed5f1b7/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/8f/50/a78f5034-9e83-152c-efcf-e3341b330c6e/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/f2/7d/9d/f27d9d05-08d5-9df7-a7b7-90e5e8b36bbf/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/72/1f/ee/721fee01-d4db-185b-cdf9-1ad6dc743b5c/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
+- [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>ios13</code> <code>ipad</code> <code>macos</code> </summary>
+
+	Added July  3, 2020<br>  License: `other`
   </details>
 
 - [Peggsite](https://github.com/jenduf/GenericSocialApp): App for sharing a social board  
@@ -7443,6 +7442,21 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June 19, 2019<br>  License: `other`<br>
 	<a href='https://i.imgur.com/k8BGv5M.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [listapp](https://github.com/dkhamsing/listapp.ios): Lists from iOS 2 to iOS 14  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added July  3, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/dkhamsing/listapp.ios/blob/main/images/ios2.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>ios13</code> <code>ipad</code> <code>macos</code> </summary>
+
+	Added July  3, 2020<br>  License: `other`
   </details>
 
 - [Milestones](https://github.com/jpsim/Milestones): Count down the days until upcoming milestones  
