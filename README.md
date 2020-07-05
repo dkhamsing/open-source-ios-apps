@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1096-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%204,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1097-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%205,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4069,7 +4069,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	Added July 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/dkhamsing/osia/raw/master/Assets/0.1.png'><code>Screenshot 1</code></a> 
+	<a href='https://raw.githubusercontent.com/dkhamsing/osia/main/Assets/0.7.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [OSRSUI](https://github.com/Dimillian/OSRSUI): Old School Runescape database browser  
@@ -4871,7 +4871,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	Added July 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/dkhamsing/osia/raw/master/Assets/0.1.png'><code>Screenshot 1</code></a> 
+	<a href='https://raw.githubusercontent.com/dkhamsing/osia/main/Assets/0.7.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/ [` App Store`](https://apps.apple.com/app/id663334697)  
@@ -6747,6 +6747,13 @@ https://flutter.dev — [back to top](#readme)
 
 	Added June 10, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://github.com/Widle-Studio/Grocery-App/raw/master/ScreenShot/Animation%20-11-01-11-57-17-742%5B1%5D-ANIMATION.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Invoice Ninja](https://github.com/invoiceninja/flutter-client): https://www.invoiceninja.com/  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> ⭐⭐⭐</summary>
+
+	Added July  4, 2020<br>  License: `other`
   </details>
 
 - [newsline](https://github.com/ayush221b/newsline)  
