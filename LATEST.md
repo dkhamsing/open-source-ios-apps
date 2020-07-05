@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [listapp](https://github.com/dkhamsing/listapp.ios)
-2. [Mamoot!](https://github.com/Benetos/Mamoot)
-3. [Revill](https://github.com/ViniciusDeep/Revill)
-4. [Astronomy Picture of the Day (APOD)](https://github.com/LASER-Yi/SwiftUI-APOD)
-5. [SafeTimer](https://github.com/Hortelanos/SafeTimer)
-6. [IndieApps](https://github.com/antranapp/IndieApps)
-7. [Dub Dub Do - TODO List](https://github.com/StephenMcMillan/Dub-Dub-Do)
-8. [Beers](https://github.com/crelies/Beers)
-9. [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar)
-10. [DivRise](https://github.com/ThasianX/DivRise)
-11. [PapersSwiftUI](https://github.com/donbytyqi/PapersSwiftUI)
-12. [NewsApiApp](https://github.com/SchwiftyUI/NewsApiApp)
-13. [ProtonMail](https://github.com/ProtonMail/ios-mail)
-14. [Proton](https://github.com/rajdeep/proton)
-15. [Fruta](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui)
+1. [Invoice Ninja](https://github.com/invoiceninja/flutter-client)
+2. [listapp](https://github.com/dkhamsing/listapp.ios)
+3. [Mamoot!](https://github.com/Benetos/Mamoot)
+4. [Revill](https://github.com/ViniciusDeep/Revill)
+5. [Astronomy Picture of the Day (APOD)](https://github.com/LASER-Yi/SwiftUI-APOD)
+6. [SafeTimer](https://github.com/Hortelanos/SafeTimer)
+7. [IndieApps](https://github.com/antranapp/IndieApps)
+8. [Dub Dub Do - TODO List](https://github.com/StephenMcMillan/Dub-Dub-Do)
+9. [Beers](https://github.com/crelies/Beers)
+10. [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar)
+11. [DivRise](https://github.com/ThasianX/DivRise)
+12. [PapersSwiftUI](https://github.com/donbytyqi/PapersSwiftUI)
+13. [NewsApiApp](https://github.com/SchwiftyUI/NewsApiApp)
+14. [ProtonMail](https://github.com/ProtonMail/ios-mail)
+15. [Proton](https://github.com/rajdeep/proton)
 
 ## Thanks
 
