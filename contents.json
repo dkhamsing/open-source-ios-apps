@@ -21953,6 +21953,21 @@
       "date_added": "Jul 4 2020",
       "suggested_by": "@dkhamsing",
       "stars": 693
+    },
+    {
+      "title": "MemeMaker",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/dempseyatgithub/MemeMaker",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "stars": 93,
+      "date_added": "Jul 5 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
