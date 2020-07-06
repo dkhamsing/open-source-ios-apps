@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1097-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%205,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1098-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%206,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7464,6 +7464,13 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>swiftui</code> <code>ios13</code> <code>ipad</code> <code>macos</code> </summary>
 
 	Added July  3, 2020<br>  License: `other`
+  </details>
+
+- [MemeMaker](https://github.com/dempseyatgithub/MemeMaker)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added July  5, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [Milestones](https://github.com/jpsim/Milestones): Count down the days until upcoming milestones  
