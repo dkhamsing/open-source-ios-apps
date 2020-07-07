@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **272** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **271** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1717,14 +1717,6 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [American Chronicle](https://github.com/ryanipete/AmericanChronicle): Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://apps.apple.com/app/id1092988367)  
-  <details>
-	<summary><code>swift</code> <code>viper</code> </summary>
-
-	Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/8f/ec/ac/8fecacce-0bbf-ed22-9852-4c451f21218a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/30/f1/23/30f1239f-3f3a-28e5-7ed6-22bbbadd7e95/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> 
-  </details>
-
 - [Artsy](https://github.com/artsy/eigen): The art world in your pocket [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080)  
   <details>
 	<summary><code>iphone</code> <code>ipad</code> <code>reactnative</code> <code>typescript</code> ⭐⭐⭐⭐⭐</summary>
@@ -2975,14 +2967,6 @@ https://realm.io/ — [back to top](#readme)
  
 https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture-framework — [back to top](#readme) 
  
-- [American Chronicle](https://github.com/ryanipete/AmericanChronicle): Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://apps.apple.com/app/id1092988367)  
-  <details>
-	<summary><code>swift</code> <code>viper</code> </summary>
-
-	Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/8f/ec/ac/8fecacce-0bbf-ed22-9852-4c451f21218a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/30/f1/23/30f1239f-3f3a-28e5-7ed6-22bbbadd7e95/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> 
-  </details>
-
 - [Currency Converter](https://github.com/tirupati17/currency-converter-swift3.0-viper): Live foreign exchange rates & currency calculator [` App Store`](https://apps.apple.com/app/currency-converter-free-quick/id1163490933)  
   <details>
 	<summary><code>swift</code> <code>viper</code> ⭐</summary>
