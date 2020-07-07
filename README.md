@@ -7448,7 +7448,7 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>swiftui</code> </summary>
 
 	Added July  3, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/dkhamsing/listapp.ios/blob/main/images/ios2.png?raw=true'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/dkhamsing/listapp.ios/blob/main/images/ios14.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter  
