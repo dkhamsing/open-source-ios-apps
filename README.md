@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1099-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%206,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1099-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%207,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3912,14 +3912,6 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [American Chronicle](https://github.com/ryanipete/AmericanChronicle): Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://apps.apple.com/app/id1092988367)  
-  <details>
-	<summary><code>swift</code> <code>viper</code> </summary>
-
-	Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/8f/ec/ac/8fecacce-0bbf-ed22-9852-4c451f21218a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/30/f1/23/30f1239f-3f3a-28e5-7ed6-22bbbadd7e95/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> 
-  </details>
-
 - [ArtShredder](https://github.com/marty-suzuki/ArtShredder): Banksy Shredder  
   <details>
 	<summary><code>swift</code> <code>arkit</code> <code>banksy</code> 🌐 </summary>
@@ -7658,14 +7650,6 @@ https://realm.io/ — [back to top](#readme)
  
 https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture-framework — [back to top](#readme) 
  
-- [American Chronicle](https://github.com/ryanipete/AmericanChronicle): Search Chronicling America's collection of digitized U.S. newspapers [` App Store`](https://apps.apple.com/app/id1092988367)  
-  <details>
-	<summary><code>swift</code> <code>viper</code> </summary>
-
-	Added June 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/8f/ec/ac/8fecacce-0bbf-ed22-9852-4c451f21218a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/30/f1/23/30f1239f-3f3a-28e5-7ed6-22bbbadd7e95/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> 
-  </details>
-
 - [Articles](https://github.com/pedrohperalta/Articles-iOS-VIPER): Fetch and display a list of articles  
   <details>
 	<summary><code>swift</code> <code>rest</code> ⭐⭐</summary>
