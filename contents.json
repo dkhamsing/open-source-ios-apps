@@ -22009,6 +22009,26 @@
       "screenshots": [
         "https://i.imgur.com/bJXOLoo.png"
       ]
-    }  
+    },
+    {
+      "title": "Swift Community",
+      "description": "Cocoa/Swift-related videos",
+      "category-ids": [
+        "video"
+      ],
+      "source": "https://github.com/superarcswift/SwiftCommunity",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "superarc",
+        "markdownview"
+      ],
+      "stars": 31,
+      "date_added": "Jul 7 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://raw.githubusercontent.com/superarcswift/SwiftCommunity/master/Assets/screenshot1.png"
+      ]
+    }
   ]
 }
