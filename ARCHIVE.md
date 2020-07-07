@@ -21,7 +21,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Alienblast](https://github.com/etamity/AlienBlast)
 - [Alphabet-Blocks](https://github.com/insurgentgames/Alphabet-Blocks)
 - [AlzPrevent](https://github.com/BBBInc/AlzPrevent-ios)
-- [American Chronicle](https://github.com/ryanipete/AmericanChronicle)
+- [American Chronicle](https://github.com/opensourceios/AmericanChronicle)
 - [Antidote](https://github.com/Antidote-for-Tox/Antidote)
 - [AntiMap](https://github.com/trentbrooks/AntiMap)
 - [Anypic](https://github.com/opensourceios/Anypic)
