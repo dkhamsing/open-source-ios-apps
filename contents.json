@@ -21989,6 +21989,26 @@
         "https://filipmolcik.com/wp-content/uploads/2020/07/iphonexspacegrey_portrait-2-1024x1024.png",
         "https://filipmolcik.com/wp-content/uploads/2020/07/iphonexspacegrey_landscape-2-1024x1024.png"
       ]
-    }
+    },
+    {
+      "title": "Formant Plotter",
+      "description": "The user speaks and the formant is plotted on the screen",
+      "category-ids": [
+        "audio"
+      ],
+      "source": "https://github.com/fulldecent/formant-analyzer",
+      "itunes": "https://apps.apple.com/app/formant-analyzer/id799183655",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "ipad"
+      ],
+      "stars": 34,
+      "date_added": "Jul 7 2020",
+      "suggested_by": "@fulldecent",
+      "screenshots": [
+        "https://i.imgur.com/bJXOLoo.png"
+      ]
+    }  
   ]
 }
