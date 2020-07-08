@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1099-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%207,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1101-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%208,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3819,6 +3819,14 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://github.com/XVXVXXX/DoubanFM/raw/master/readmeImage/page0.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Formant Plotter](https://github.com/fulldecent/formant-analyzer): The user speaks and the formant is plotted on the screen [` App Store`](https://apps.apple.com/app/formant-analyzer/id799183655)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> </summary>
+
+	Added July  7, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/bJXOLoo.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [MiamiSunglasses](https://github.com/MoralCode/MiamiSunglasses): Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation (YEAAAAAAAAAAHH)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -4434,6 +4442,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 	Added March 24, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/geiofMw.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/fdYYztR.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/sh4pL25.png'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Swift Community](https://github.com/superarcswift/SwiftCommunity): Cocoa/Swift-related videos  
+  <details>
+	<summary><code>swift</code> <code>superarc</code> <code>markdownview</code> </summary>
+
+	Added July  7, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/superarcswift/SwiftCommunity/master/Assets/screenshot1.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [VLC](https://github.com/videolan/vlc): Media Player [` App Store`](https://apps.apple.com/app/vlc-for-ios/id650377962)  
