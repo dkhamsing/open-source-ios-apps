@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **271** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **272** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1678,6 +1678,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added July  6, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Formant Plotter](https://github.com/fulldecent/formant-analyzer): The user speaks and the formant is plotted on the screen [` App Store`](https://apps.apple.com/app/formant-analyzer/id799183655)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> </summary>
+
+	Added July  7, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/bJXOLoo.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Monotone Delay](https://github.com/jkandzi/Monotone-Delay): A simple synthesiser, based on the Korg Monotron Delay [` App Store`](https://apps.apple.com/app/monotone-delay/id737483162)  
