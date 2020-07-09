@@ -22028,6 +22028,26 @@
       "screenshots": [
         "https://raw.githubusercontent.com/superarcswift/SwiftCommunity/master/Assets/screenshot1.png"
       ]
+    },
+    {
+      "title": "NeoIRC",
+      "description": "Simple Internet Relay Chat",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/NozeIO/NeoIRC",
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui",
+        "swiftnio",
+        "irc"
+      ],
+      "date_added": "Jul 9 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://zeezide.de/img/NeoIRC-screenshot-1.png"
+      ]
     }
   ]
 }
