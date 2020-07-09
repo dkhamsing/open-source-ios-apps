@@ -22048,6 +22048,24 @@
       "screenshots": [
         "https://zeezide.de/img/NeoIRC-screenshot-1.png"
       ]
+    },
+    {
+      "title": "8 Ball Answers",
+      "category-ids": [
+        "apple-watch"
+      ],
+      "source": "https://github.com/fulldecent/8-ball",
+      "itunes": "https://apps.apple.com/app/8-ball-answer/id995732766",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "watchos"
+      ],
+      "date_added": "Jul 9 2020",
+      "suggested_by": "@fulldecent",
+      "screenshots": [
+        "https://i.imgur.com/A6FgT4Z.png"
+      ]
     }
   ]
 }
