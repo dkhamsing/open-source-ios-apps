@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **272** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **274** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -136,6 +136,14 @@ Click ► to show more details
 
 	Added April 11, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://raw.githubusercontent.com/efremidze/Alarm/master/screenshots/en-US/iPhone7-0-d41d8cd98f00b204e9800998ecf8427e.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [8 Ball Answers](https://github.com/fulldecent/8-ball) [` App Store`](https://apps.apple.com/app/8-ball-answer/id995732766)  
+  <details>
+	<summary><code>swift</code> <code>watchos</code> </summary>
+
+	Added July  9, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/A6FgT4Z.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Bus Today](https://github.com/JohnWong/bus-today): Track bus line on your wrist, includes Today Extension [` App Store`](https://apps.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341)  
@@ -1162,6 +1170,14 @@ Today Extensions or Widgets — [back to top](#readme)
 
 	Added April 19, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'><code>Screenshot 2</code></a> 
+  </details>
+
+- [Pizza-Man](https://github.com/fulldecent/pizzaman): Play this devilishly difficult diversion [` App Store`](https://apps.apple.com/app/pizza-man/id931174800)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> </summary>
+
+	Added July  9, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/g7PQMxc.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Sansumoku](https://github.com/mkhrapov/sansumoku): A 2-player board game. A mash-up of Sudoku and Ultimate Tic-Tac-Toe [` App Store`](https://apps.apple.com/app/id1458250030)  

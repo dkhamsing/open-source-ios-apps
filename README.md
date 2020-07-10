@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1101-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%20%209,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1104-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2010,%202020-lightgrey.svg)
 
 Jump to
 
@@ -224,6 +224,14 @@ Click ► to show more details
 
 	Added April 11, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://raw.githubusercontent.com/efremidze/Alarm/master/screenshots/en-US/iPhone7-0-d41d8cd98f00b204e9800998ecf8427e.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [8 Ball Answers](https://github.com/fulldecent/8-ball) [` App Store`](https://apps.apple.com/app/8-ball-answer/id995732766)  
+  <details>
+	<summary><code>swift</code> <code>watchos</code> </summary>
+
+	Added July  9, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/A6FgT4Z.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Apollo](https://github.com/KhaosT/open-apollo): Spotify player for watchOS  
@@ -2742,6 +2750,14 @@ Today Extensions or Widgets — [back to top](#readme)
 
 	Added April 19, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'><code>Screenshot 2</code></a> 
+  </details>
+
+- [Pizza-Man](https://github.com/fulldecent/pizzaman): Play this devilishly difficult diversion [` App Store`](https://apps.apple.com/app/pizza-man/id931174800)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> </summary>
+
+	Added July  9, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/g7PQMxc.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Ragnarok](https://github.com/riley-usagi/SwiftAdvance): Simple game for folks learning Swift  
@@ -7495,6 +7511,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June 13, 2019<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [NeoIRC](https://github.com/NozeIO/NeoIRC): Simple Internet Relay Chat  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>swiftnio</code> <code>irc</code> </summary>
+
+	Added July  9, 2020<br>  License: `other`<br>
+	<a href='https://zeezide.de/img/NeoIRC-screenshot-1.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [NewsApiApp](https://github.com/SchwiftyUI/NewsApiApp): News app with image caching and infinite loading  
