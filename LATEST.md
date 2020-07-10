@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Swift Community](https://github.com/superarcswift/SwiftCommunity)
-2. [Formant Plotter](https://github.com/fulldecent/formant-analyzer)
-3. [Sketch Elements](https://github.com/molcik/ios-sketch-elements)
-4. [MemeMaker](https://github.com/dempseyatgithub/MemeMaker)
-5. [Invoice Ninja](https://github.com/invoiceninja/flutter-client)
-6. [listapp](https://github.com/dkhamsing/listapp.ios)
-7. [Mamoot!](https://github.com/Benetos/Mamoot)
-8. [Revill](https://github.com/ViniciusDeep/Revill)
-9. [Astronomy Picture of the Day (APOD)](https://github.com/LASER-Yi/SwiftUI-APOD)
-10. [SafeTimer](https://github.com/Hortelanos/SafeTimer)
-11. [IndieApps](https://github.com/antranapp/IndieApps)
-12. [Dub Dub Do - TODO List](https://github.com/StephenMcMillan/Dub-Dub-Do)
-13. [Beers](https://github.com/crelies/Beers)
-14. [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar)
-15. [DivRise](https://github.com/ThasianX/DivRise)
+1. [Pizza-Man](https://github.com/fulldecent/pizzaman)
+2. [8 Ball Answers](https://github.com/fulldecent/8-ball)
+3. [NeoIRC](https://github.com/NozeIO/NeoIRC)
+4. [Swift Community](https://github.com/superarcswift/SwiftCommunity)
+5. [Formant Plotter](https://github.com/fulldecent/formant-analyzer)
+6. [Sketch Elements](https://github.com/molcik/ios-sketch-elements)
+7. [MemeMaker](https://github.com/dempseyatgithub/MemeMaker)
+8. [Invoice Ninja](https://github.com/invoiceninja/flutter-client)
+9. [listapp](https://github.com/dkhamsing/listapp.ios)
+10. [Mamoot!](https://github.com/Benetos/Mamoot)
+11. [Revill](https://github.com/ViniciusDeep/Revill)
+12. [Astronomy Picture of the Day (APOD)](https://github.com/LASER-Yi/SwiftUI-APOD)
+13. [SafeTimer](https://github.com/Hortelanos/SafeTimer)
+14. [IndieApps](https://github.com/antranapp/IndieApps)
+15. [Dub Dub Do - TODO List](https://github.com/StephenMcMillan/Dub-Dub-Do)
 
 ## Thanks
 
