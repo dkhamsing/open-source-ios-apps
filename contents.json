@@ -22085,6 +22085,22 @@
       "screenshots": [
         "https://i.imgur.com/g7PQMxc.png"
       ]
+    },
+    {
+      "title": "Flutter-Movie: Browse movies",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/khuong291/Flutter-Movie",
+      "screenshots": ["https://github.com/khuong291/Flutter-Movie/raw/master/demo1.png"],
+      "tags": [
+        "flutter",
+        "dart",
+        "tmdb"
+      ],
+      "license": "other",
+      "date_added": "Jul 10 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
