@@ -22066,6 +22066,25 @@
       "screenshots": [
         "https://i.imgur.com/A6FgT4Z.png"
       ]
+    },
+    {
+      "title": "Pizza-Man",
+      "description": "Play this devilishly difficult diversion",
+      "category-ids": [
+        "game"
+      ],
+      "source": "https://github.com/fulldecent/pizzaman",
+      "itunes": "https://apps.apple.com/app/pizza-man/id931174800",
+      "license": "other",
+      "tags": [
+        "swift",
+        "ipad"
+      ],
+      "date_added": "Jul 9 2020",
+      "suggested_by": "@fulldecent",
+      "screenshots": [
+        "https://i.imgur.com/g7PQMxc.png"
+      ]
     }
   ]
 }
