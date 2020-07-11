@@ -21971,7 +21971,7 @@
     },
     {
       "title": "Sketch Elements",
-      "description": "SwiftUI starter kit based on Sketch Elements",
+      "description": "SwiftUI starter kit based on Sketch Elements using a food app template",
       "category-ids": [
         "swiftui"
       ],
