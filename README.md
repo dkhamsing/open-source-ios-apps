@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1104-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2010,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1105-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2011,%202020-lightgrey.svg)
 
 Jump to
 
@@ -6757,6 +6757,14 @@ https://flutter.dev — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/55942632/77102533-00600c80-6a3f-11ea-8212-3735eeb35a90.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Flutter-Movie: Browse movies](https://github.com/khuong291/Flutter-Movie)  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> <code>tmdb</code> </summary>
+
+	Added July 10, 2020<br>  License: `other`<br>
+	<a href='https://github.com/khuong291/Flutter-Movie/raw/master/demo1.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Gmail clone](https://github.com/rodydavis/gmail_clone)  
   <details>
 	<summary><code>flutter</code> <code>dart</code> ⭐⭐⭐</summary>
@@ -7592,7 +7600,7 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/32227073/65997616-0ef63f80-e470-11e9-8faa-d2d6728202a5.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Sketch Elements](https://github.com/molcik/ios-sketch-elements): SwiftUI starter kit based on Sketch Elements  
+- [Sketch Elements](https://github.com/molcik/ios-sketch-elements): SwiftUI starter kit based on Sketch Elements using a food app template  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> </summary>
 
