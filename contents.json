@@ -22101,6 +22101,26 @@
       "license": "other",
       "date_added": "Jul 10 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SwiftUI-Kit",
+      "description": "Demo of SwiftUI iOS system components and interactions",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/jordansinger/SwiftUI-Kit",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui",
+        "ios14"
+      ],
+      "stars": 291,
+      "date_added": "Jul 11 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/110813/87210295-00806280-c2e3-11ea-91e3-4ea6da79f73e.png"
+      ]
     }
   ]
 }
