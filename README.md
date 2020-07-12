@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1105-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2011,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1106-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2012,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7621,6 +7621,14 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>swiftui</code> </summary>
 
 	Added May 23, 2020<br>  License: `other`
+  </details>
+
+- [SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit): Demo of SwiftUI iOS system components and interactions  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>ios14</code> ⭐⭐</summary>
+
+	Added July 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://user-images.githubusercontent.com/110813/87210295-00806280-c2e3-11ea-91e3-4ea6da79f73e.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [SwiftUI-MovieDB](https://github.com/alfianlosari/SwiftUI-MovieDB): Browse movies, made with SwiftUI, Combine & MovieDB  
