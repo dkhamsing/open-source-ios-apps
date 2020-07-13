@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **274** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **275** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -2976,6 +2976,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June 13, 2020<br>  License: `other`<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
+  </details>
+
+- [StackOv](https://github.com/surfstudio/StackOv): For Stack Overflow [` App Store`](https://apps.apple.com/app/stackov/id1511838391)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>ipad</code> <code>macos</code> </summary>
+
+	Added July 12, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Tell Time UK](https://github.com/renaudjenny/telltime): Tell time in British English [` App Store`](https://apps.apple.com/app/tell-time-uk/id1496541173)  
