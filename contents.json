@@ -22121,6 +22121,27 @@
       "screenshots": [
         "https://user-images.githubusercontent.com/110813/87210295-00806280-c2e3-11ea-91e3-4ea6da79f73e.png"
       ]
+    },
+    {
+      "title": "StackOv",
+      "description": "For Stack Overflow",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/surfstudio/StackOv",
+      "itunes": "https://apps.apple.com/app/stackov/id1511838391",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui",
+        "ipad",
+        "macos"
+      ],
+      "date_added": "Jul 12 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png"
+      ]
     }
   ]
 }
