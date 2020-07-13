@@ -22142,6 +22142,20 @@
       "screenshots": [
         "https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png"
       ]
+    },
+    {
+      "title": "IDResistors",
+      "category-ids": ["swiftui"],
+	    "tags": ["swift", "swiftui"],
+	    "description": "Identify resistors",
+	    "source": "https://github.com/thestoneage/IDResistors",
+	    "screenshots": [
+        "https://github.com/thestoneage/IDResistors/raw/gh-pages/assets/schreenshots/Screenshot-05.png",
+        "https://github.com/thestoneage/IDResistors/raw/gh-pages/assets/schreenshots/Screenshot-02.png"
+      ],
+	    "license": "mit",
+	    "date_added": "Jul 12 2020",
+	    "suggested_by": "@thestoneage"
     }
   ]
 }
