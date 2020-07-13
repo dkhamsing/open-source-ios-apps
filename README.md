@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1106-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2012,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1108-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2013,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7453,6 +7453,14 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://github.com/rrroyal/Harbour/blob/main/Resources/Screenshots/Light/Dashboard.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
+- [IDResistors](https://github.com/thestoneage/IDResistors): Identify resistors  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added July 12, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/thestoneage/IDResistors/raw/gh-pages/assets/schreenshots/Screenshot-05.png'><code>Screenshot 1</code></a> <a href='https://github.com/thestoneage/IDResistors/raw/gh-pages/assets/schreenshots/Screenshot-02.png'><code>Screenshot 2</code></a> 
+  </details>
+
 - [IndieApps](https://github.com/antranapp/IndieApps): Showcase your side projects/apps  
   <details>
 	<summary><code>swift</code> </summary>
@@ -7606,6 +7614,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added July  6, 2020<br>  License: `other`<br>
 	<a href='https://filipmolcik.com/wp-content/uploads/2020/07/iphonexspacegrey_portrait-2-1024x1024.png'><code>Screenshot 1</code></a> <a href='https://filipmolcik.com/wp-content/uploads/2020/07/iphonexspacegrey_landscape-2-1024x1024.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [StackOv](https://github.com/surfstudio/StackOv): For Stack Overflow [` App Store`](https://apps.apple.com/app/stackov/id1511838391)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>ipad</code> <code>macos</code> </summary>
+
+	Added July 12, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm): VT100/Xterm Terminal emulator  
