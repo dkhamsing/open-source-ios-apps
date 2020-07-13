@@ -13,6 +13,8 @@ ARCHIVE_TAG = 'archive'
 
 LATEST_NUM = 15
 
+SHOW_TWITTER = true
+
 # Helpers
 
 def app_store_total(j)
@@ -155,12 +157,19 @@ def output_apps(apps, appstoreonly)
   o
 end
 
-def output_badges(count)
+def output_badges(count, twitter)
   date = DateTime.now
   date_display = date.strftime "%B %e, %Y"
   date_display = date_display.gsub ' ', '%20'
 
-  b = "![](https://img.shields.io/badge/Projects-#{count}-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-#{date_display}-lightgrey.svg)"
+  b = "![](https://img.shields.io/badge/Projects-#{count}-green.svg)"
+
+  if twitter
+    b << " [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios)"
+  end
+
+  b << " ![](https://img.shields.io/badge/Updated-#{date_display}-lightgrey.svg)"
+  return b
 end
 
 def output_stars(number)
@@ -247,7 +256,7 @@ def write_list(j, file, subtitle, appstoreonly = false)
   output << "\n\n#{subtitle}\n\n"
 
   if appstoreonly == false
-    output << output_badges(apps.count)
+    output << output_badges(apps.count, SHOW_TWITTER)
 
     unless sponsor.length == 0
       output << "\n\n"
