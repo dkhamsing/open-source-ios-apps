@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1108-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-July%2013,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1108-green.svg) ![](https://img.shields.io/badge/Updated-July%2014,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7534,7 +7534,7 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>swiftui</code> <code>swiftnio</code> <code>irc</code> </summary>
 
 	Added July  9, 2020<br>  License: `other`<br>
-	<a href='https://zeezide.de/img/NeoIRC-screenshot-1.png'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/oNsPtEk.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [NewsApiApp](https://github.com/SchwiftyUI/NewsApiApp): News app with image caching and infinite loading  
