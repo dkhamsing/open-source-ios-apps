@@ -13,7 +13,7 @@ ARCHIVE_TAG = 'archive'
 
 LATEST_NUM = 15
 
-SHOW_TWITTER = true
+SHOW_TWITTER = false
 
 # Helpers
 
