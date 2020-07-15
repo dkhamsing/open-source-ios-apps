@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1108-green.svg) ![](https://img.shields.io/badge/Updated-July%2014,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1109-green.svg) ![](https://img.shields.io/badge/Updated-July%2015,%202020-lightgrey.svg)
 
 Jump to
 
@@ -5116,6 +5116,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added June 29, 2016<br>  License: `other`<br>
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/37/4c/aa/374caa6c-ef0a-b8b6-20a9-c8ca8920fe32/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1f/7c/40/1f7c4058-fae6-6de9-cdaf-d27f1cbd5afd/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8d/83/63/8d8363ff-0637-8a77-5dc3-19cab426a164/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
+- [RxSwift MVVM example using GitHub search](https://github.com/NavdeepSinghh/RxSwift_MVVM_Finished)  
+  <details>
+	<summary><code>swift</code> <code>rxswift</code> </summary>
+
+	Added July 14, 2020<br>  License: `other`
   </details>
 
 - [RxTodo](https://github.com/devxoul/RxTodo)  
