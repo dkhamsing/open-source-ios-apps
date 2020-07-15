@@ -22156,6 +22156,20 @@
 	    "license": "mit",
 	    "date_added": "Jul 12 2020",
 	    "suggested_by": "@thestoneage"
+    },
+    {
+      "title": "RxSwift MVVM example using GitHub search",
+      "category-ids": [
+        "rxswift"
+      ],
+      "source": "https://github.com/NavdeepSinghh/RxSwift_MVVM_Finished",
+      "license": "other",
+      "tags": [
+        "swift",
+        "rxswift"
+      ],
+      "date_added": "Jul 14 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
