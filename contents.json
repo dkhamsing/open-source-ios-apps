@@ -22170,6 +22170,16 @@
       ],
       "date_added": "Jul 14 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Means",
+      "category-ids": ["swiftui"],
+      "tags": ["swift", "swiftui", "macos"],
+      "description": "For Medium",
+      "source": "https://github.com/vmanot/Means",
+      "license": "other",
+      "date_added": "Jul 16 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
