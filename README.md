@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1109-green.svg) ![](https://img.shields.io/badge/Updated-July%2015,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1110-green.svg) ![](https://img.shields.io/badge/Updated-July%2016,%202020-lightgrey.svg)
 
 Jump to
 
@@ -6328,7 +6328,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>objc</code> </summary>
 
 	Added March 10, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://78.media.tumblr.com/ceef33afa678fb12d6d257c75c1ca166/tumblr_n5dd14OiyH1qb1l2uo1_540.jpg'><code>Screenshot 1</code></a> 
+	<a href='https://64.media.tumblr.com/ceef33afa678fb12d6d257c75c1ca166/tumblr_n5dd14OiyH1qb1l2uo1_540.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [BookStore-iOS](https://github.com/nsoojin/BookStore-iOS): Browse https://itbook.store - examples and patterns for unit/ui testing, handling Result/Optionals, writing documentation  
@@ -7511,6 +7511,13 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>swiftui</code> <code>ios13</code> <code>ipad</code> <code>macos</code> </summary>
 
 	Added July  3, 2020<br>  License: `other`
+  </details>
+
+- [Means](https://github.com/vmanot/Means): For Medium  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>macos</code> </summary>
+
+	Added July 16, 2020<br>  License: `other`
   </details>
 
 - [MemeMaker](https://github.com/dempseyatgithub/MemeMaker)  
