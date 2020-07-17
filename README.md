@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1110-green.svg) ![](https://img.shields.io/badge/Updated-July%2016,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1111-green.svg) ![](https://img.shields.io/badge/Updated-July%2017,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2097,6 +2097,14 @@ Today Extensions or Widgets — [back to top](#readme)
 
 	Added October  6, 2016<br>  License: `other`<br>
 	<a href='https://github.com/JustinFincher/GitHubContributionsiOS/raw/master/Sketch/GitHub-Contributions.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Daylight](https://github.com/bakkenbaeck/daylight-ios): Know how much sun you have today  
+  <details>
+	<summary><code>swift</code> <code>carthage</code> </summary>
+
+	Added July 17, 2020<br>  License: `other`<br>
+	<a href='https://raw.githubusercontent.com/bakkenbaeck/daylight-ios/master/GitHub/screenshots.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Fojusi](https://github.com/dasdom/Tomate): Work timer with Today Extension [` App Store`](https://apps.apple.com/app/fojusi/id923044693)  
