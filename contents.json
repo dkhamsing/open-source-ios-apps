@@ -22180,6 +22180,22 @@
       "license": "other",
       "date_added": "Jul 16 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Daylight",
+      "description": "Know how much sun you have today",
+      "category-ids": [
+        "today"
+      ],
+      "source": "https://github.com/bakkenbaeck/daylight-ios",
+      "screenshots": ["https://raw.githubusercontent.com/bakkenbaeck/daylight-ios/master/GitHub/screenshots.png"],
+      "license": "other",
+      "tags": [
+        "swift",
+        "carthage"
+      ],
+      "date_added": "Jul 17 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
