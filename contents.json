@@ -22206,7 +22206,7 @@
       "tags": ["swift", "swiftui"],
       "source": "https://gist.github.com/JohnSundell/7ae3223b5bad3712378a57aaff31d7e2",
       "homepage": "https://twitter.com/johnsundell/status/1280998529394184193",
-      "screenshots": "[https://i.imgur.com/ZIK9gA1.png]",
+      "screenshots": ["https://i.imgur.com/ZIK9gA1.png"],
       "license": "other",
       "date_added": "Jul 18 2020",
       "suggested_by": "@dkhamsing"
