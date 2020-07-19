@@ -22210,6 +22210,17 @@
       "license": "other",
       "date_added": "Jul 18 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Translate",
+      "description": "Recreate iOS 14's Translate App",
+      "category-ids": ["swiftui"],
+      "tags": ["swift", "swiftui"],
+      "source": "https://github.com/vijaywargiya/Translate-SwiftUI",
+      "screenshots": ["https://github.com/vijaywargiya/Translate-SwiftUI/raw/main/Translate.gif"],
+      "license": "other",
+      "date_added": "Jul 19 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
