@@ -5447,6 +5447,7 @@
       ],
       "tags": [
         "swift",
+        "2fa",
         "moa"
       ],
       "stars": 307
@@ -9375,7 +9376,8 @@
         "password"
       ],
       "tags": [
-        "objc"
+        "swift",
+        "2fa"
       ],
       "description": "Simple two-factor authentication with a clean UI",
       "source": "https://github.com/mattrubin/authenticator",
@@ -20117,7 +20119,8 @@
         "https://user-images.githubusercontent.com/11808903/80574717-a457b300-8a02-11ea-915e-db7cd98740f2.png"
       ],
       "tags": [
-        "dart"
+        "react-native",
+        "2fa"
       ],
       "stars": 70
     },
