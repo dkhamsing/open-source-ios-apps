@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1111-green.svg) ![](https://img.shields.io/badge/Updated-July%2018,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1112-green.svg) ![](https://img.shields.io/badge/Updated-July%2019,%202020-lightgrey.svg)
 
 Jump to
 
@@ -5641,7 +5641,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 - [Authenticator](https://github.com/mattrubin/authenticator): Simple two-factor authentication with a clean UI [` App Store`](https://apps.apple.com/app/id766157276)  
   <details>
-	<summary><code>objc</code> ⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>2fa</code> ⭐⭐⭐</summary>
 
 	https://mattrubin.me/authenticator/<br>  Added March 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/89/b8/5b/89b85bf2-395f-6b30-a62b-48cfa15803ab/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8f/78/ae/8f78aefc-9fb3-ed73-d5d8-ee768073869d/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/b0/11/2fb0114c-bce3-0122-9871-0bb88a95802d/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
@@ -5657,7 +5657,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [einmal](https://github.com/incipher/einmal): Minimalistic and secure two-factor authentication  
   <details>
-	<summary><code>dart</code> </summary>
+	<summary><code>react-native</code> <code>2fa</code> </summary>
 
 	Added May  9, 2020<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)<br>
 	<a href='https://user-images.githubusercontent.com/11808903/80574717-a457b300-8a02-11ea-915e-db7cd98740f2.png'><code>Screenshot 1</code></a> 
@@ -5673,7 +5673,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [FreeOTP Authenticator](https://github.com/freeotp/freeotp-ios): Two-Factor Authentication [` App Store`](https://apps.apple.com/app/freeotp/id872559395)  
   <details>
-	<summary><code>swift</code> <code>moa</code> ⭐⭐</summary>
+	<summary><code>swift</code> <code>2fa</code> <code>moa</code> ⭐⭐</summary>
 
 	Added March 11, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='http://a4.mzstatic.com/us/r30/Purple5/v4/66/8b/9c/668b9cf1-3502-3683-7787-ef450ef90019/screen696x696.jpeg'><code>Screenshot 1</code></a> 
@@ -7644,6 +7644,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added July 12, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [StarPlane game proof of concept](https://gist.github.com/JohnSundell/7ae3223b5bad3712378a57aaff31d7e2)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	https://twitter.com/johnsundell/status/1280998529394184193<br>  Added July 18, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/ZIK9gA1.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm): VT100/Xterm Terminal emulator  
