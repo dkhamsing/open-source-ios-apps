@@ -22221,6 +22221,16 @@
       "license": "other",
       "date_added": "Jul 19 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "emitron",
+      "description": "For https://www.raywenderlich.com",
+      "category-ids": ["swiftui"],
+      "tags": ["swift", "swiftui", "combine"],
+      "source": "https://github.com/razeware/emitron-iOS",
+      "license": "apache-2.0",
+      "date_added": "Jul 20 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
