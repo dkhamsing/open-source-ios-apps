@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1112-green.svg) ![](https://img.shields.io/badge/Updated-July%2019,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1113-green.svg) ![](https://img.shields.io/badge/Updated-July%2020,%202020-lightgrey.svg)
 
 Jump to
 
@@ -509,7 +509,7 @@ Click ► to show more details
 	Added July 31, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- [Ghostery Privacy Browser](https://github.com/ghostery/browser-ios): Private, fast, tracker/add-free mobile browsing [` App Store`](https://apps.apple.com/app/ghostery/id472789016)  
+- [Ghostery Privacy Browser](https://github.com/ghostery/browser-ios): Private, fast, tracker / ad-free mobile browsing [` App Store`](https://apps.apple.com/app/ghostery/id472789016)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -4842,7 +4842,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/47/b7/1b/47b71b74-5bb4-9c4d-4826-18f89324af9d/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/24/97/ba249744-0dda-90a9-4406-2d30720e59a4/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/93/d1/d4/93d1d4d1-5cde-f1d7-4e68-1fe824bcdc13/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/89/17/58/89175888-9e1e-3fcf-ce42-9dd347327298/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/36/dc/9f36dc54-b99b-fd5c-0076-0cdb1d4bc53e/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Ghostery Privacy Browser](https://github.com/ghostery/browser-ios): Private, fast, tracker/add-free mobile browsing [` App Store`](https://apps.apple.com/app/ghostery/id472789016)  
+- [Ghostery Privacy Browser](https://github.com/ghostery/browser-ios): Private, fast, tracker / ad-free mobile browsing [` App Store`](https://apps.apple.com/app/ghostery/id472789016)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -6098,7 +6098,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='http://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Thoughtless](https://github.com/macgeekpro/Thoughtless): Quickly jot down thoughts, supports Markdown  
+- [Thoughtless](https://github.com/yohannes/Thoughtless): Quickly jot down thoughts, supports Markdown  
   <details>
 	<summary><code>swift</code> <code>swifthexcolors</code> <code>cfalertviewcontroller</code> </summary>
 
@@ -7730,6 +7730,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June  6, 2020<br>  License: `other`<br>
 	<a href='https://github.com/jamfly/SwiftUI-Combine-todo-example/raw/master/asset/demo.png'><code>Screenshot 1</code></a> <a href='https://github.com/jamfly/SwiftUI-Combine-todo-example/raw/master/asset/demo.gif'><code>Screenshot 2</code></a> 
+  </details>
+
+- [Translate](https://github.com/vijaywargiya/Translate-SwiftUI): Recreate iOS 14's Translate App  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added July 19, 2020<br>  License: `other`<br>
+	<a href='https://github.com/vijaywargiya/Translate-SwiftUI/raw/main/Translate.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [UDF Demo](https://github.com/AlexeyDemedetskiy/SwiftUI-UDF-Demo): Unidirectional data flow techniques  
