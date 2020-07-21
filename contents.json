@@ -22231,6 +22231,19 @@
       "license": "apache-2.0",
       "date_added": "Jul 20 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Concertino",
+      "description": "Classical music and Apple Music working together",
+      "category-ids": ["audio"],
+      "tags": ["swift"],
+      "source": "https://github.com/openopus-org/concertino_ios",
+      "itunes": "https://apps.apple.com/app/concertino/id1506663568",
+      "screenshots": ["https://i.imgur.com/lZip9JG.png"],
+      "license": "gpl-3.0",
+      "stars": 62,
+      "date_added": "Jul 21 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
