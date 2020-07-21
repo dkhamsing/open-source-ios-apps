@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1113-green.svg) ![](https://img.shields.io/badge/Updated-July%2020,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1114-green.svg) ![](https://img.shields.io/badge/Updated-July%2021,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7395,6 +7395,13 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June 28, 2020<br>  License: `other`<br>
 	<a href='https://github.com/StephenMcMillan/Dub-Dub-Do/raw/master/todoapp.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [emitron](https://github.com/razeware/emitron-iOS): For https://www.raywenderlich.com  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> </summary>
+
+	Added July 20, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)  
