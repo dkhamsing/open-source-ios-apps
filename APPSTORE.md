@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **275** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **276** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -673,7 +673,7 @@ Click ► to show more details
 	<a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'><code>Screenshot 4</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'><code>Screenshot 5</code></a> 
   </details>
 
-- [Delta: Math helper](https://github.com/GroupeMINASTE/Delta-iOS): Quickly solve any math problem with an algorithm, save time checking your homework or studying for a test [` App Store`](https://apps.apple.com/app/delta-math-helper/id1436506800)  
+- [Delta: Math helper](https://github.com/opensourceios/Delta-iOS): Quickly solve any math problem with an algorithm, save time checking your homework or studying for a test [` App Store`](https://apps.apple.com/app/delta-math-helper/id1436506800)  
   <details>
 	<summary><code>swift</code> <code>macos</code> <code>ipad</code> </summary>
 
@@ -1694,6 +1694,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added July  6, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Concertino](https://github.com/openopus-org/concertino_ios): Classical music and Apple Music working together [` App Store`](https://apps.apple.com/app/concertino/id1506663568)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added July 21, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://i.imgur.com/lZip9JG.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Formant Plotter](https://github.com/fulldecent/formant-analyzer): The user speaks and the formant is plotted on the screen [` App Store`](https://apps.apple.com/app/formant-analyzer/id799183655)  
