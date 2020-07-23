@@ -22244,6 +22244,16 @@
       "stars": 62,
       "date_added": "Jul 21 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "AniTime",
+      "description": "Anime schedule and Korean subtitle",
+      "category-ids": ["swiftui"],
+      "tags": ["swift", "swiftui", "combine"],
+      "source": "https://github.com/PangMo5/AniTime",
+      "license": "mit",
+      "date_added": "Jul 22 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
