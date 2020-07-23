@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1115-green.svg) ![](https://img.shields.io/badge/Updated-July%2022,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1116-green.svg) ![](https://img.shields.io/badge/Updated-July%2023,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7339,6 +7339,13 @@ https://realm.io/ — [back to top](#readme)
 
 	Added April 16, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://i.imgur.com/dcs8niz.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [AniTime](https://github.com/PangMo5/AniTime): Anime schedule and Korean subtitle  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> </summary>
+
+	Added July 22, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [ASETimerSwiftUI](https://github.com/rahulrs0029/ASETimerSwiftUI): Countdown to WWDC20  
