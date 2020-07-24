@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1116-green.svg) ![](https://img.shields.io/badge/Updated-July%2023,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1116-green.svg) ![](https://img.shields.io/badge/Updated-July%2024,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7451,7 +7451,7 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://github.com/fromkk/FreeTimePicker/raw/master/images/search.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Fruta](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an app clip - WWDC 2020 sample code by Apple  
+- [Fruta](https://developer.apple.com/documentation/app_clips/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an app clip - WWDC 2020 sample code by Apple  
   <details>
 	<summary><code>swift</code> <code>ios14</code> <code>widgetkit</code> <code>macos</code> <code>app-clip</code> </summary>
 
