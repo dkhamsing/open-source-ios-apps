@@ -21654,7 +21654,7 @@
         "swiftui"
       ],
       "description": "Create a shared codebase to build a multiplatform app that offers widgets and an app clip - WWDC 2020 sample code by Apple",
-      "source": "https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui",
+      "source": "https://developer.apple.com/documentation/app_clips/fruta_building_a_feature-rich_app_with_swiftui",
       "license": "other",
       "tags": [
         "swift",
