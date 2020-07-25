@@ -22254,6 +22254,16 @@
       "license": "mit",
       "date_added": "Jul 22 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SF Symbols Browser",
+      "category-ids": ["swiftui"],
+      "tags": ["swift", "swiftui", "ipad"],
+      "source": "https://github.com/atrinh0/sfsymbols",
+      "screenshots": ["https://github.com/atrinh0/sfsymbols/raw/master/images/filter.gif"],
+      "license": "other",
+      "date_added": "Jul 24 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
