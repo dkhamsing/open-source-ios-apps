@@ -22264,6 +22264,16 @@
       "license": "other",
       "date_added": "Jul 24 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Weather",
+      "description": "Simple SwiftUI weather app using MVVM",
+      "category-ids": ["swiftui"],
+      "tags": ["swift", "swiftui", "openweathermap api"],
+      "source": "https://github.com/niazoff/Weather",
+      "license": "other",
+      "date_added": "Jul 25 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
