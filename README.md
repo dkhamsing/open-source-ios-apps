@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1117-green.svg) ![](https://img.shields.io/badge/Updated-July%2025,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1118-green.svg) ![](https://img.shields.io/badge/Updated-July%2026,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7783,6 +7783,13 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June  5, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/caiobzen/water-reminder-swiftui/raw/master/drink-water-app.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Weather](https://github.com/niazoff/Weather): Simple SwiftUI weather app using MVVM  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>openweathermap api</code> </summary>
+
+	Added July 25, 2020<br>  License: `other`
   </details>
 
 
