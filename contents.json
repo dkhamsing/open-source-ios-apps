@@ -22274,6 +22274,17 @@
       "license": "other",
       "date_added": "Jul 25 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "BP Passport - Simple for Patients",
+      "description": "Fast, free software for clinicians to manage patients with hypertension",
+      "category-ids": ["react-native"],
+      "tags": ["react-native"],
+      "source": "https://github.com/simpledotorg/bp-passport",
+      "screenshots": ["https://www.simple.org/images/screen-bp.png"],
+      "license": "mit",
+      "date_added": "Jul 26 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
