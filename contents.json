@@ -22285,6 +22285,21 @@
       "license": "mit",
       "date_added": "Jul 26 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Netherlands - Covid19 Notification",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "lang": "nld",
+      "source": "https://github.com/minvws/nl-covid19-notification-app-ios",
+      "license": "other",
+      "date_added": "Jul 27 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 61
     }
   ]
 }
