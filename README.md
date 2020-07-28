@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1119-green.svg) ![](https://img.shields.io/badge/Updated-July%2027,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1120-green.svg) ![](https://img.shields.io/badge/Updated-July%2028,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3223,6 +3223,13 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	https://www.covid.is/app/is<br>  Added June 12, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/XY1igkP.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Netherlands - Covid19 Notification](https://github.com/minvws/nl-covid19-notification-app-ios)  
+  <details>
+	<summary><code>swift</code> 🌐 </summary>
+
+	Added July 27, 2020<br>  License: `other`
   </details>
 
 - [Poland - ProteGO Safe](https://github.com/ProteGO-Safe/ios): User daily triage and contact tracing using Exposure Notification API [` App Store`](https://apps.apple.com/pl/app/protego-safe/id1508481566)  
