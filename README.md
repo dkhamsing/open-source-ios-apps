@@ -1646,7 +1646,7 @@ Click ► to show more details
 	<a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'><code>Screenshot 4</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'><code>Screenshot 5</code></a> 
   </details>
 
-- [Delta: Math helper](https://github.com/opensourceios/Delta-iOS): Quickly solve any math problem with an algorithm, save time checking your homework or studying for a test [` App Store`](https://apps.apple.com/app/delta-math-helper/id1436506800)  
+- [Delta: Math helper](https://github.com/GroupeMINASTE/Delta-iOS): Quickly solve any math problem with an algorithm, save time checking your homework or studying for a test [` App Store`](https://apps.apple.com/app/delta-math-helper/id1436506800)  
   <details>
 	<summary><code>swift</code> <code>macos</code> <code>ipad</code> </summary>
 
