@@ -22300,6 +22300,16 @@
       "date_added": "Jul 27 2020",
       "suggested_by": "@dkhamsing",
       "stars": 61
+    },
+    {
+      "title": "ShoppingList",
+      "category-ids": ["swiftui"],
+      "tags": ["swift", "swiftui", "core-data"],
+      "source": "https://github.com/ericlewis/ShoppingList",
+      "screenshots": ["https://i.imgur.com/jkzri5G.png"],
+      "license": "mit",
+      "date_added": "Jul 28 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
