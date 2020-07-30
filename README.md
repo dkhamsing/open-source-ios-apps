@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1121-green.svg) ![](https://img.shields.io/badge/Updated-July%2029,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1122-green.svg) ![](https://img.shields.io/badge/Updated-July%2030,%202020-lightgrey.svg)
 
 Jump to
 
@@ -818,6 +818,13 @@ Click ► to show more details
 
 	Added August 31, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/PiXeL16/SnakeClassic/master/Art/SnakeWatch.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Swiftagram](https://github.com/sbertix/Swiftagram): For Instagram, relies on unofficial private APIs  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added July 30, 2020<br>  License: `other`
   </details>
 
 - [Swiftenstein](https://github.com/nicklockwood/Swiftenstein): Wolfenstein 3D clone  
