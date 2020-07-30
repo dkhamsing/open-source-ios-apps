@@ -22310,6 +22310,21 @@
       "license": "mit",
       "date_added": "Jul 28 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Swiftagram",
+      "description": "For Instagram, relies on unofficial private APIs",
+      "category-ids": [
+        "clone"
+      ],
+      "license": "other",
+      "source": "https://github.com/sbertix/Swiftagram",
+      "stars": 28,
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Jul 30 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
