@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1122-green.svg) ![](https://img.shields.io/badge/Updated-July%2030,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1123-green.svg) ![](https://img.shields.io/badge/Updated-July%2031,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7392,6 +7392,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June 27, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/crelies/Beers/raw/master/preview.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [CarBode barcode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added July 31, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/heart/CarBode-Barcode-Scanner-For-SwiftUI/master/logo/scan.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Corona Virus Tracker & Advice](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)  
