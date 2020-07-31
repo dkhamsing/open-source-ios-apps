@@ -84,8 +84,9 @@
       "parent": "extension"
     },
     {
-      "title": "Files",
-      "id": "files"
+      "title": "File",
+      "id": "file",
+      "description": "File Management"
     },
     {
       "title": "Finance",
@@ -6572,7 +6573,7 @@
     {
       "title": "ownCloud",
       "category-ids": [
-        "files"
+        "file"
       ],
       "tags": [
         "swift",
@@ -9730,7 +9731,7 @@
     {
       "title": "Seafile Pro",
       "category-ids": [
-        "files"
+        "file"
       ],
       "tags": [
         "objc"
@@ -16102,7 +16103,7 @@
     {
       "title": "Cozy Drive",
       "category-ids": [
-        "files"
+        "file"
       ],
       "tags": [
         "javascript",
@@ -16298,7 +16299,7 @@
     {
       "title": "Nextcloud",
       "category-ids": [
-        "files",
+        "file",
         "official"
       ],
       "description": "A safe home for all your data",
@@ -16429,7 +16430,7 @@
     {
       "title": "Local Storage",
       "category-ids": [
-        "files"
+        "file"
       ],
       "description": "Save files on your device, visualize storage use, unzip, hash",
       "source": "https://github.com/geberl/swift-localstorage",
@@ -17522,7 +17523,7 @@
     {
       "title": "FileExplorer",
       "category-ids": [
-        "files"
+        "file"
       ],
       "description": "Powerful file browser that allows its users to choose and remove files and/or directories",
       "source": "https://github.com/Augustyniak/FileExplorer",
