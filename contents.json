@@ -22325,6 +22325,16 @@
       ],
       "date_added": "Jul 30 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "CarBode barcode scanner",
+      "category-ids": ["swiftui"],
+      "tags": ["swift", "swiftui"],
+      "source": "https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI",
+      "screenshots": ["https://raw.githubusercontent.com/heart/CarBode-Barcode-Scanner-For-SwiftUI/master/logo/scan.png"],
+      "license": "mit",
+      "date_added": "Jul 31 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
