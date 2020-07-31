@@ -22325,6 +22325,20 @@
       ],
       "date_added": "Jul 30 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+       "title": "APIRequest.swift",
+       "category-ids": [
+         "misc"
+       ],
+       "description": "A swift package to manage a REST API",
+       "source": "https://github.com/GroupeMINASTE/APIRequest.swift",
+       "license": "gpl-3.0",
+       "tags": [
+         "swift"
+       ],
+       "date_added": "Jul 31 2020",
+       "suggested_by": "@NathanFallet"
     }
   ]
 }
