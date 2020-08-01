@@ -4,9 +4,9 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
+A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1123-green.svg) ![](https://img.shields.io/badge/Updated-July%2031,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1123-green.svg) ![](https://img.shields.io/badge/Updated-August%20%201,%202020-lightgrey.svg)
 
 Jump to
 
@@ -28,7 +28,7 @@ Jump to
 - [Extension](#extension) 
   - [Content Blocking](#content-blocking) 
   - [Today](#today) 
-- [Files](#files) 
+- [File](#file) 
 - [Finance](#finance) 
   - [Cryptocurrency](#cryptocurrency) 
 - [Game](#game) 
@@ -2171,9 +2171,9 @@ Today Extensions or Widgets — [back to top](#readme)
   </details>
 
 
-## Files 
+## File 
  
-[back to top](#readme) 
+File Management — [back to top](#readme) 
  
 - [Cozy Drive](https://github.com/cozy/cozy-drive): Store, manage, share all your files, photos and documents securely in the cloud (5GB free storage) [` App Store`](https://apps.apple.com/app/cozy-drive/id1224102389)  
   <details>
