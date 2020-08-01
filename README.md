@@ -119,7 +119,7 @@ Click ► to show more details
 
 - [Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-ios) [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566)  
   <details>
-	<summary><code>c</code> <code>ipad</code> ⭐⭐</summary>
+	<summary><code>c</code> <code>ipad</code> ⭐⭐⭐</summary>
 
 	Added May 31, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/UMYQpqx.png'><code>Screenshot 1</code></a> 
@@ -806,7 +806,7 @@ Click ► to show more details
 
 - [Podcasts](https://github.com/Karambirov/Podcasts): A clone of Apple's Podcasts  
   <details>
-	<summary><code>swift</code> <code>rxswift</code> ⭐</summary>
+	<summary><code>swift</code> <code>rxswift</code> </summary>
 
 	Added April  7, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'><code>Screenshot 4</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'><code>Screenshot 5</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'><code>Screenshot 6</code></a> 
@@ -1594,7 +1594,7 @@ Click ► to show more details
  
 - [a-shell](https://github.com/holzschu/a-shell): Mobile shell terminal based on Mosh [` App Store`](https://apps.apple.com/app/a-shell/id1473805438)  
   <details>
-	<summary><code>vim script</code> <code>c++</code> <code>c</code> ⭐⭐</summary>
+	<summary><code>vim script</code> <code>c++</code> <code>c</code> ⭐⭐⭐</summary>
 
 	Added April 28, 2020<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
 	<a href='https://holzschu.github.io/a-Shell_iOS/assets/screenshot/nslookup.png'><code>Screenshot 1</code></a> 
@@ -2721,7 +2721,7 @@ File Management — [back to top](#readme)
 
 - [Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-ios) [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566)  
   <details>
-	<summary><code>c</code> <code>ipad</code> ⭐⭐</summary>
+	<summary><code>c</code> <code>ipad</code> ⭐⭐⭐</summary>
 
 	Added May 31, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/UMYQpqx.png'><code>Screenshot 1</code></a> 
@@ -3899,7 +3899,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [Podcasts](https://github.com/Karambirov/Podcasts): A clone of Apple's Podcasts  
   <details>
-	<summary><code>swift</code> <code>rxswift</code> ⭐</summary>
+	<summary><code>swift</code> <code>rxswift</code> </summary>
 
 	Added April  7, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'><code>Screenshot 4</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'><code>Screenshot 5</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'><code>Screenshot 6</code></a> 
@@ -3955,7 +3955,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [YouTag](https://github.com/youstanzr/YouTag): Music player that downloads from the internet, even YouTube  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	Added May 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/youstanzr/YouTag/raw/master/Images/screenshot_banner.png'><code>Screenshot 1</code></a> 
@@ -4712,7 +4712,7 @@ https://newsapi.org/ — [back to top](#readme)
 
 - [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)  
   <details>
-	<summary><code>flutter</code> <code>dart</code> </summary>
+	<summary><code>flutter</code> <code>dart</code> ⭐</summary>
 
 	Added April 21, 2020<br>  License: `other`<br>
 	<a href='https://user-images.githubusercontent.com/55942632/77102533-00600c80-6a3f-11ea-8212-3735eeb35a90.png'><code>Screenshot 1</code></a> 
@@ -4760,7 +4760,7 @@ https://newsapi.org/ — [back to top](#readme)
 
 - [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> ⭐</summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> ⭐⭐</summary>
 
 	Added April 30, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'><code>Screenshot 1</code></a> 
@@ -5126,7 +5126,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [Podcasts](https://github.com/Karambirov/Podcasts): A clone of Apple's Podcasts  
   <details>
-	<summary><code>swift</code> <code>rxswift</code> ⭐</summary>
+	<summary><code>swift</code> <code>rxswift</code> </summary>
 
 	Added April  7, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'><code>Screenshot 4</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'><code>Screenshot 5</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'><code>Screenshot 6</code></a> 
@@ -5534,7 +5534,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [iCepa](https://github.com/iCepa/iCepa): System-wide VPN based Tor client  
   <details>
-	<summary><code>swift</code> <code>tor</code> ⭐⭐</summary>
+	<summary><code>swift</code> <code>tor</code> ⭐⭐⭐</summary>
 
 	Added September  7, 2016<br>  License: `other`
   </details>
@@ -6264,7 +6264,7 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> ⭐</summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> ⭐⭐</summary>
 
 	Added April 30, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'><code>Screenshot 1</code></a> 
@@ -6788,7 +6788,7 @@ https://flutter.dev — [back to top](#readme)
 
 - [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)  
   <details>
-	<summary><code>flutter</code> <code>dart</code> </summary>
+	<summary><code>flutter</code> <code>dart</code> ⭐</summary>
 
 	Added April 21, 2020<br>  License: `other`<br>
 	<a href='https://user-images.githubusercontent.com/55942632/77102533-00600c80-6a3f-11ea-8212-3735eeb35a90.png'><code>Screenshot 1</code></a> 
@@ -7621,7 +7621,7 @@ https://realm.io/ — [back to top](#readme)
 
 - [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> ⭐</summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> ⭐⭐</summary>
 
 	Added April 30, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'><code>Screenshot 1</code></a> 
@@ -7739,7 +7739,7 @@ https://realm.io/ — [back to top](#readme)
 
 - [SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit): Demo of SwiftUI iOS system components and interactions  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>ios14</code> ⭐⭐</summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>ios14</code> ⭐⭐⭐</summary>
 
 	Added July 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://user-images.githubusercontent.com/110813/87210295-00806280-c2e3-11ea-91e3-4ea6da79f73e.png'><code>Screenshot 1</code></a> 
