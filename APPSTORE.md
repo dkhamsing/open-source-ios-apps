@@ -111,7 +111,7 @@ Click ► to show more details
 
 - [Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-ios) [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566)  
   <details>
-	<summary><code>c</code> <code>ipad</code> ⭐⭐</summary>
+	<summary><code>c</code> <code>ipad</code> ⭐⭐⭐</summary>
 
 	Added May 31, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/UMYQpqx.png'><code>Screenshot 1</code></a> 
@@ -638,7 +638,7 @@ Click ► to show more details
  
 - [a-shell](https://github.com/holzschu/a-shell): Mobile shell terminal based on Mosh [` App Store`](https://apps.apple.com/app/a-shell/id1473805438)  
   <details>
-	<summary><code>vim script</code> <code>c++</code> <code>c</code> ⭐⭐</summary>
+	<summary><code>vim script</code> <code>c++</code> <code>c</code> ⭐⭐⭐</summary>
 
 	Added April 28, 2020<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
 	<a href='https://holzschu.github.io/a-Shell_iOS/assets/screenshot/nslookup.png'><code>Screenshot 1</code></a> 
@@ -1142,7 +1142,7 @@ File Management — [back to top](#readme)
 
 - [Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-ios) [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566)  
   <details>
-	<summary><code>c</code> <code>ipad</code> ⭐⭐</summary>
+	<summary><code>c</code> <code>ipad</code> ⭐⭐⭐</summary>
 
 	Added May 31, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/UMYQpqx.png'><code>Screenshot 1</code></a> 
