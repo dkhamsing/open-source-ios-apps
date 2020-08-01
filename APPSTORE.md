@@ -28,7 +28,7 @@ Jump to
 - [Extension](#extension) 
   - [Content Blocking](#content-blocking) 
   - [Today](#today) 
-- [Files](#files) 
+- [File](#file) 
 - [Finance](#finance) 
   - [Cryptocurrency](#cryptocurrency) 
 - [Game](#game) 
@@ -913,9 +913,9 @@ Today Extensions or Widgets — [back to top](#readme)
   </details>
 
 
-## Files 
+## File 
  
-[back to top](#readme) 
+File Management — [back to top](#readme) 
  
 - [Cozy Drive](https://github.com/cozy/cozy-drive): Store, manage, share all your files, photos and documents securely in the cloud (5GB free storage) [` App Store`](https://apps.apple.com/app/cozy-drive/id1224102389)  
   <details>
