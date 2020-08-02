@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **276** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **277** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1210,6 +1210,14 @@ File Management — [back to top](#readme)
 
 	Added April  6, 2015<br>  License: `other`<br>
 	<a href='http://a2.mzstatic.com/us/r30/Purple5/v4/22/a4/44/22a444e1-7626-03ee-05e7-6bdf58ea577d/screen480x480.jpeg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Tic TAI Toe](https://github.com/GroupeMINASTE/MorpionTPE-iOS): A tic tac toe with AI and PRO [` App Store`](https://apps.apple.com/app/tic-tai-toe/id1459186328)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added July 31, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/53/e7/af/53e7afa3-8d2d-3667-c1d3-963908340270/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/3b/2d/e63b2dcc-4d84-0432-bfc6-44dbf6fa7e8b/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/8a/16/fb8a16bb-f1cf-bcf8-e2fc-5638ecbb4201/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [Ultimate Peg Solitaire](https://github.com/mkhrapov/ultimate-peg-solitaire): A famous puzzle game [` App Store`](https://apps.apple.com/app/id1463982222)  
