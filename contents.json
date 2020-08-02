@@ -22459,6 +22459,25 @@
       "date_added": "Jul 31 2020",
       "suggested_by": "@dkhamsing",
       "stars": 54
+    },
+    {
+      "title": "BikeShare",
+      "description": "Jetpack Compose and SwiftUI based Kotlin Multiplatform sample project using CityBikes API",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "kotlin",
+        "swiftui",
+        "macos",
+        "jetpack"
+      ],
+      "source": "https://github.com/joreilly/BikeShare",
+      "license": "mit",
+      "date_added": "Aug 1 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 59
     }
   ]
 }
