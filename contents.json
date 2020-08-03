@@ -22478,6 +22478,23 @@
       "date_added": "Aug 1 2020",
       "suggested_by": "@dkhamsing",
       "stars": 59
+    },
+    {
+      "title": "swiftui-2048",
+      "description": "100% SwiftUI 2.0",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "ipad"
+      ],
+      "source": "https://github.com/jVirus/swiftui-2048",
+      "license": "mit",
+      "date_added": "Aug 3 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 69
     }
   ]
 }
