@@ -22495,6 +22495,26 @@
       "date_added": "Aug 3 2020",
       "suggested_by": "@dkhamsing",
       "stars": 69
+    },
+    {
+      "title": "Canada - COVID Alert",
+      "category-ids": [
+        "contact-tracing",
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "lang": "fra",
+      "source": "https://github.com/cds-snc/covid-alert-app",
+      "itunes": "https://apps.apple.com/app/id1520284227",
+      "screenshots": [
+        "https://i.imgur.com/VtkXEik.png"
+      ],
+      "license": "mit",
+      "date_added": "Aug 3 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 347
     }
   ]
 }
