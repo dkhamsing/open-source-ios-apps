@@ -11091,7 +11091,7 @@
       "stars": 10
     },
     {
-      "title": "Riot",
+      "title": "Element",
       "category-ids": [
         "communication",
         "realm"
@@ -11099,18 +11099,20 @@
       "tags": [
         "objc",
         "webrtc",
-        "realm"
+        "ipad",
+        "swift",
+        "cmark"
       ],
-      "description": "Collaboration for teams, chat & share with https://matrix.org/",
-      "source": "https://github.com/vector-im/riot-ios",
-      "homepage": "https://matrix.org/",
-      "itunes": "https://apps.apple.com/app/vector-open-source-collaboration/id1083446067",
+      "description": "Secure decentralised chat/VoIP",
+      "source": "https://github.com/vector-im/element-ios",
+      "homepage": "https://element.io",
+      "itunes": "https://apps.apple.com/app/element/id1083446067",
       "license": "apache-2.0",
       "stars": 695,
       "date_added": "Thu Jul 21 22:53:48 2016 -0700",
       "suggested_by": "@Aakash Kambuj",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg"
+        "https://i.imgur.com/hfxP5xA.png"
       ]
     },
     {
