@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1126-green.svg) ![](https://img.shields.io/badge/Updated-August%20%203,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1127-green.svg) ![](https://img.shields.io/badge/Updated-August%20%204,%202020-lightgrey.svg)
 
 Jump to
 
@@ -942,6 +942,14 @@ Click ► to show more details
 	<a href='https://github.com/deltachat/deltachat-ios/blob/master/docs/images/screenshot_chat_list.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/deltachat/deltachat-ios/blob/master/docs/images/screenshot_chat_view.png?raw=true'><code>Screenshot 2</code></a> 
   </details>
 
+- [Element](https://github.com/vector-im/element-ios): Secure decentralised chat/VoIP [` App Store`](https://apps.apple.com/app/element/id1083446067)  
+  <details>
+	<summary><code>swift</code> <code>objc</code> <code>webrtc</code> <code>ipad</code> <code>cmark</code> ⭐⭐⭐</summary>
+
+	https://element.io<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://i.imgur.com/hfxP5xA.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Falcon Messenger](https://github.com/RMizin/FalconMessenger): Fast and beautiful cloud-based messaging app [` App Store`](https://apps.apple.com/app/id1313765714)  
   <details>
 	<summary><code>swift, firebase</code> ⭐⭐</summary>
@@ -1044,14 +1052,6 @@ Click ► to show more details
 
 	Added November 11, 2016<br>  License: `other`<br>
 	<a href='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Riot](https://github.com/vector-im/riot-ios): Collaboration for teams, chat & share with https://matrix.org/ [` App Store`](https://apps.apple.com/app/vector-open-source-collaboration/id1083446067)  
-  <details>
-	<summary><code>objc</code> <code>webrtc</code> <code>realm</code> ⭐⭐⭐</summary>
-
-	https://matrix.org/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.iOS): For Meteor chat platform [` App Store`](https://apps.apple.com/app/rocket-chat/id1148741252)  
@@ -3190,6 +3190,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	Added June 14, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://i.imgur.com/u6kmnSm.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app) [` App Store`](https://apps.apple.com/app/id1520284227)  
+  <details>
+	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
+
+	Added August  3, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/VtkXEik.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Czech Republic - eRouška](https://github.com/covid19cz/erouska-ios) [` App Store`](https://apps.apple.com/cz/app/erou%C5%A1ka/id1509210215)  
@@ -6966,6 +6974,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<a href='https://i.imgur.com/8OKDHjU.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app) [` App Store`](https://apps.apple.com/app/id1520284227)  
+  <details>
+	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
+
+	Added August  3, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/VtkXEik.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Den](https://github.com/asamiller/den): View houses for sale in the Northwest  
   <details>
 	<summary><code>react native</code> ⭐⭐</summary>
@@ -7263,6 +7279,14 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif'><code>Screenshot 1</code></a> 
   </details>
 
+- [Element](https://github.com/vector-im/element-ios): Secure decentralised chat/VoIP [` App Store`](https://apps.apple.com/app/element/id1083446067)  
+  <details>
+	<summary><code>swift</code> <code>objc</code> <code>webrtc</code> <code>ipad</code> <code>cmark</code> ⭐⭐⭐</summary>
+
+	https://element.io<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://i.imgur.com/hfxP5xA.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Facemotion](https://github.com/remirobert/Facemotion): Find a contact by face recognition  
   <details>
 	<summary><code>opencv</code> ⭐</summary>
@@ -7316,14 +7340,6 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	Added July 31, 2015<br>  License: `other`
-  </details>
-
-- [Riot](https://github.com/vector-im/riot-ios): Collaboration for teams, chat & share with https://matrix.org/ [` App Store`](https://apps.apple.com/app/vector-open-source-collaboration/id1083446067)  
-  <details>
-	<summary><code>objc</code> <code>webrtc</code> <code>realm</code> ⭐⭐⭐</summary>
-
-	https://matrix.org/<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple18/v4/7a/22/48/7a224810-475c-cb4e-a165-02761701831d/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Santa Tracker](https://github.com/keitaito/RealmSantaTracker)  
