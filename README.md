@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1125-green.svg) ![](https://img.shields.io/badge/Updated-August%20%202,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1126-green.svg) ![](https://img.shields.io/badge/Updated-August%20%203,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7743,6 +7743,13 @@ https://realm.io/ — [back to top](#readme)
 
 	Added April 24, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://user-images.githubusercontent.com/36863/80056069-54a05580-84f1-11ea-8597-5a227c9c64a7.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [swiftui-2048](https://github.com/jVirus/swiftui-2048): 100% SwiftUI 2.0  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>ipad</code> </summary>
+
+	Added August  3, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [SwiftUI-Keyboard-Demo](https://github.com/emcro/SwiftUI-Keyboard-Demo): How to add Keyboard Shortcuts UIKeyCommand (SwiftUI)  
