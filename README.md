@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1127-green.svg) ![](https://img.shields.io/badge/Updated-August%20%204,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1128-green.svg) ![](https://img.shields.io/badge/Updated-August%20%205,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2175,6 +2175,13 @@ Today Extensions or Widgets — [back to top](#readme)
  
 File Management — [back to top](#readme) 
  
+- [Amahi](https://github.com/amahi/ios): View all the docs, photos, videos and any other data you have stored in your Amahi server, securely, from anywhere [` App Store`](https://apps.apple.com/app/amahi/id761559919)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> </summary>
+
+	Added August  4, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+
 - [Cozy Drive](https://github.com/cozy/cozy-drive): Store, manage, share all your files, photos and documents securely in the cloud (5GB free storage) [` App Store`](https://apps.apple.com/app/cozy-drive/id1224102389)  
   <details>
 	<summary><code>javascript</code> <code>cordova</code> </summary>
