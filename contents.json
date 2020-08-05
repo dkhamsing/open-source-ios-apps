@@ -22517,6 +22517,23 @@
       "date_added": "Aug 3 2020",
       "suggested_by": "@dkhamsing",
       "stars": 347
+    },
+    {
+      "title": "Amahi",
+      "description": "View all the docs, photos, videos and any other data you have stored in your Amahi server, securely, from anywhere",
+      "category-ids": [
+        "file"
+      ],
+      "tags": [
+        "swift",
+        "ipad"
+      ],
+      "source": "https://github.com/amahi/ios",
+      "itunes": "https://apps.apple.com/app/amahi/id761559919",
+      "license": "gpl-3.0",
+      "date_added": "Aug 4 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 28
     }
   ]
 }
