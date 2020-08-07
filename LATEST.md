@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Amahi](https://github.com/amahi/ios)
-2. [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app)
-3. [swiftui-2048](https://github.com/jVirus/swiftui-2048)
-4. [BikeShare](https://github.com/joreilly/BikeShare)
-5. [CarBode barcode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI)
-6. [Tic TAI Toe](https://github.com/GroupeMINASTE/MorpionTPE-iOS)
-7. [Swiftagram](https://github.com/sbertix/Swiftagram)
-8. [ShoppingList](https://github.com/ericlewis/ShoppingList)
-9. [Netherlands - Covid19 Notification](https://github.com/minvws/nl-covid19-notification-app-ios)
-10. [BP Passport - Simple for Patients](https://github.com/simpledotorg/bp-passport)
-11. [Weather](https://github.com/niazoff/Weather)
-12. [SF Symbols Browser](https://github.com/atrinh0/sfsymbols)
-13. [AniTime](https://github.com/PangMo5/AniTime)
-14. [Concertino](https://github.com/openopus-org/concertino_ios)
-15. [emitron](https://github.com/razeware/emitron-iOS)
+1. [Slovenia - Covid World](https://github.com/CovidWorld/ios)
+2. [Amahi](https://github.com/amahi/ios)
+3. [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app)
+4. [swiftui-2048](https://github.com/jVirus/swiftui-2048)
+5. [BikeShare](https://github.com/joreilly/BikeShare)
+6. [CarBode barcode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI)
+7. [Tic TAI Toe](https://github.com/GroupeMINASTE/MorpionTPE-iOS)
+8. [Swiftagram](https://github.com/sbertix/Swiftagram)
+9. [ShoppingList](https://github.com/ericlewis/ShoppingList)
+10. [Netherlands - Covid19 Notification](https://github.com/minvws/nl-covid19-notification-app-ios)
+11. [BP Passport - Simple for Patients](https://github.com/simpledotorg/bp-passport)
+12. [Weather](https://github.com/niazoff/Weather)
+13. [SF Symbols Browser](https://github.com/atrinh0/sfsymbols)
+14. [AniTime](https://github.com/PangMo5/AniTime)
+15. [Concertino](https://github.com/openopus-org/concertino_ios)
 
 ## Thanks
 
