@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1128-green.svg) ![](https://img.shields.io/badge/Updated-August%20%205,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1128-green.svg) ![](https://img.shields.io/badge/Updated-August%20%206,%202020-lightgrey.svg)
 
 Jump to
 
@@ -6822,7 +6822,7 @@ https://flutter.dev — [back to top](#readme)
 	<summary><code>flutter</code> <code>dart</code> <code>tmdb</code> </summary>
 
 	Added July 10, 2020<br>  License: `other`<br>
-	<a href='https://github.com/khuong291/Flutter-Movie/raw/master/demo1.png'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/khuong291/Flutter-Movie/raw/master/1.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Gmail clone](https://github.com/rodydavis/gmail_clone)  
