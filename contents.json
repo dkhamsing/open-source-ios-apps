@@ -22534,6 +22534,21 @@
       "date_added": "Aug 4 2020",
       "suggested_by": "@dkhamsing",
       "stars": 28
+    },
+    {
+      "title": "Slovenia - Covid World",
+      "description": "Help fight COVID-19 spread by collecting anonymous data about people meeting each other",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "lang": "sk",
+      "source": "https://github.com/CovidWorld/ios",
+      "license": "mit",
+      "date_added": "Aug 6 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
