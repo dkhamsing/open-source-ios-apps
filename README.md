@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1128-green.svg) ![](https://img.shields.io/badge/Updated-August%20%206,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1129-green.svg) ![](https://img.shields.io/badge/Updated-August%20%207,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3268,6 +3268,13 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	Added June 16, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/Qy5fzXo.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Slovenia - Covid World](https://github.com/CovidWorld/ios): Help fight COVID-19 spread by collecting anonymous data about people meeting each other  
+  <details>
+	<summary><code>swift</code> 🌐 </summary>
+
+	Added August  6, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [Switzerland - SwissCovid](https://github.com/DP-3T/dp3t-app-ios-ch): COVID-19 tracing using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T) [` App Store`](https://apps.apple.com/ch/app/swisscovid-preview/id1509275381)  
