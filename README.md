@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1129-green.svg) ![](https://img.shields.io/badge/Updated-August%20%207,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1130-green.svg) ![](https://img.shields.io/badge/Updated-August%20%208,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4393,6 +4393,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 	Added May  7, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPhone_en.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPad_en.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [Phimp.me](https://github.com/jogendra/phimpme-iOS): Photos app replacement  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added August  7, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/jogendra/phimpme-iOS/raw/master/docs/_static/GalleryScreen.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [PixPic](https://github.com/Yalantis/PixPic): Photo editing  
