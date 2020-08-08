@@ -22549,6 +22549,24 @@
       "license": "mit",
       "date_added": "Aug 6 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Phimp.me",
+      "category-ids": [
+        "photo"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/jogendra/phimpme-iOS/raw/master/docs/_static/GalleryScreen.png"
+      ],
+      "description": "Photos app replacement",
+      "source": "https://github.com/jogendra/phimpme-iOS",
+      "stars": 85,
+      "license": "mit",
+      "date_added": "Aug 7 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
