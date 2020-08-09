@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1130-green.svg) ![](https://img.shields.io/badge/Updated-August%20%208,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1132-green.svg) ![](https://img.shields.io/badge/Updated-August%20%209,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4052,6 +4052,14 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://i.imgur.com/Kc7V03d.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Ghibliii](https://github.com/kxvn-lx/Ghibliii): Studio Ghibli movie database  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added August  9, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://github.com/kxvn-lx/Ghibliii/blob/master/Images/image1.png'><code>Screenshot 1</code></a> <a href='https://github.com/kxvn-lx/Ghibliii/blob/master/Images/image2.png'><code>Screenshot 2</code></a> 
+  </details>
+
 - [Homepok](https://github.com/iAlexander/Homepok): Catalog of Ukrainian vehicle plates  
   <details>
 	<summary><code>swift</code> 🌐 </summary>
@@ -4377,6 +4385,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 	Added September 19, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/3d.gif?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/portraitmatte.gif?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/arkit-depth.gif?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/depth_1.gif?raw=true'><code>Screenshot 4</code></a> 
+  </details>
+
+- [Kontax Cam](https://github.com/kxvn-lx/Kontax-Cam): Instant camera hybrid for photographers, by a photographer  
+  <details>
+	<summary><code>swift</code> <code>metal</code> </summary>
+
+	Added August  9, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://github.com/kxvn-lx/Kontax-Cam/blob/master/images/image1.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Megabite](https://github.com/AaronRandall/Megabite): Turn a photo of your food into a face  
