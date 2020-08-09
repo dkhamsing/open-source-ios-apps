@@ -22567,6 +22567,29 @@
       "license": "mit",
       "date_added": "Aug 7 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+        "title": "Ghibliii",
+        "category-ids": ["misc", "content"],
+        "description": "Studio Ghibli movie database app",
+        "source": "https://github.com/kxvn-lx/Ghibliii",
+        "screenshots": [
+        "https://github.com/kxvn-lx/Ghibliii/blob/master/Images/image1.png",
+        "https://github.com/kxvn-lx/Ghibliii/blob/master/Images/image2.png"
+        ],
+        "date_added": "Aug 9 2020",
+        "suggested_by": "@kxvn-lx"
+    },
+    {
+        "title": "Kontax Cam",
+        "category-ids": ["photo", "media"],
+        "description": "Instant camera hybrid for photographers, by photographer.",
+        "source": "https://github.com/kxvn-lx/Kontax-Cam",
+        "screenshots": [
+        "https://github.com/kxvn-lx/Kontax-Cam/blob/master/images/image1.png"
+        ],
+        "date_added": "Aug 9 2020",
+        "suggested_by": "@kxvn-lx"
     }
   ]
 }
