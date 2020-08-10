@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1132-green.svg) ![](https://img.shields.io/badge/Updated-August%20%209,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1133-green.svg) ![](https://img.shields.io/badge/Updated-August%2010,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3764,6 +3764,13 @@ Image, video, audio, reading — [back to top](#readme)
 
 	https://mupdf.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/ac/f7/c3acf7d1-9fb6-a5bc-6e09-8ccc70bf3e97/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/77/69/aa/7769aa4a-5e2f-f145-f89e-541c94ac74a7/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/62/0b/52/620b5289-7cdb-fa7a-4883-0d3565d87690/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
+- [MyAnimeList](https://github.com/MaisaMilena/MyAnimeList)  
+  <details>
+	<summary><code>swift</code> <code>vip</code> <code>realm</code> </summary>
+
+	Added August 10, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS): Import PDF presentations as vector images into Keynote [` App Store`](https://apps.apple.com/app/pdf-to-keynote/id1461682846)  
