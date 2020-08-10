@@ -22594,6 +22594,21 @@
         "tags": ["swift", "metal"],
         "date_added": "Aug 9 2020",
         "suggested_by": "@kxvn-lx"
+    },
+    {
+        "title": "MyAnimeList",
+        "category-ids": [
+          "media"
+        ],
+        "tags": [
+          "swift",
+          "vip",
+          "realm"
+        ],
+        "source": "https://github.com/MaisaMilena/MyAnimeList",
+        "license": "mit",
+        "date_added": "Aug 10 2020",
+        "suggested_by": "@dkhamsing"
     }
   ]
 }
