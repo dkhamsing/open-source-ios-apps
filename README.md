@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1133-green.svg) ![](https://img.shields.io/badge/Updated-August%2010,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1134-green.svg) ![](https://img.shields.io/badge/Updated-August%2011,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4679,6 +4679,13 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 https://news.ycombinator.com/ — [back to top](#readme) 
  
+- [Hacker News Multiplatform](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/): Single codebase for iOS and macOS  
+  <details>
+	<summary><code>swift</code> <code>macos</code> </summary>
+
+	Added August 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
 - [HackerNews](https://github.com/amitburst/HackerNews)  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
