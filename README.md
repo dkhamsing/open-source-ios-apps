@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1134-green.svg) ![](https://img.shields.io/badge/Updated-August%2011,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1135-green.svg) ![](https://img.shields.io/badge/Updated-August%2012,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4270,6 +4270,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/alfianlosari/SwiftUI-MovieDB/raw/master/promo.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [TVToday](https://github.com/rcaos/TVToday)  
+  <details>
+	<summary><code>swift</code> <code>rxswift</code> <code>realm</code> <code>mvvm</code> <code>tmdb</code> </summary>
+
+	Added August 11, 2020<br>  License: `other`<br>
+	<a href='https://github.com/rcaos/TVToday/raw/master/Screens/Screen%20101.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Words](https://github.com/soffes/words): Thesaurus  
