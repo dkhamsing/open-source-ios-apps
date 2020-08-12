@@ -22624,6 +22624,26 @@
         "license": "mit",
         "date_added": "Aug 11 2020",
         "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "TVToday",
+      "category-ids": [
+        "content"
+      ],
+      "screenshots": [
+        "https://github.com/rcaos/TVToday/raw/master/Screens/Screen%20101.png"
+      ],
+      "tags": [
+        "swift",
+        "rxswift",
+        "realm",
+        "mvvm",
+        "tmdb"
+      ],
+      "source": "https://github.com/rcaos/TVToday",
+      "license": "other",
+      "date_added": "Aug 11 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
