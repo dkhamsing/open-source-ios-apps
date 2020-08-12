@@ -22644,6 +22644,22 @@
       "license": "other",
       "date_added": "Aug 11 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Flight Search",
+      "category-ids": [
+        "travel",
+        "flutter"
+      ],
+      "source": "https://github.com/MarcinusX/flutter_ui_challenge_flight_search",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "mit",
+      "date_added": "Aug 12 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 577
     }
   ]
 }
