@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1135-green.svg) ![](https://img.shields.io/badge/Updated-August%2012,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1136-green.svg) ![](https://img.shields.io/badge/Updated-August%2013,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4407,7 +4407,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<summary><code>swift</code> <code>metal</code> </summary>
 
 	Added August  9, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://github.com/kxvn-lx/Kontax-Cam/blob/master/images/image1.png'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/kxvn-lx/Kontax-Cam/raw/master/images/image1.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Megabite](https://github.com/AaronRandall/Megabite): Turn a photo of your food into a face  
@@ -6277,6 +6277,13 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'><code>Screenshot 3</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'><code>Screenshot 4</code></a> <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'><code>Screenshot 5</code></a> 
   </details>
 
+- [Flight Search](https://github.com/MarcinusX/flutter_ui_challenge_flight_search)  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> ⭐⭐⭐</summary>
+
+	Added August 12, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
 - [MetricTime](https://github.com/MoralCode/MetricTime): Displays 'Metric Time' for pranking friends on trips to countries that use the metric system  
   <details>
 	<summary><code>swift</code> </summary>
@@ -6860,6 +6867,13 @@ https://flutter.dev — [back to top](#readme)
 
 	Added April 22, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/alfianlosari/CoronaVirusTrackerFlutter/raw/master/promo.jpg?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Flight Search](https://github.com/MarcinusX/flutter_ui_challenge_flight_search)  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> ⭐⭐⭐</summary>
+
+	Added August 12, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)  
