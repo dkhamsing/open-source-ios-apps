@@ -22588,7 +22588,7 @@
         "description": "Instant camera hybrid for photographers, by a photographer",
         "source": "https://github.com/kxvn-lx/Kontax-Cam",
         "screenshots": [
-        "https://github.com/kxvn-lx/Kontax-Cam/blob/master/images/image1.png"
+        "https://github.com/kxvn-lx/Kontax-Cam/raw/master/images/image1.jpg"
         ],
         "license": "apache-2.0",
         "tags": ["swift", "metal"],
