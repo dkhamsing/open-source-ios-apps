@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1136-green.svg) ![](https://img.shields.io/badge/Updated-August%2013,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1136-green.svg) ![](https://img.shields.io/badge/Updated-August%2014,%202020-lightgrey.svg)
 
 Jump to
 
@@ -75,6 +75,7 @@ Jump to
   - [Firebase](#firebase) 
   - [Flutter](#flutter) 
   - [Ionic](#ionic) 
+  - [macOS](#macos) 
   - [Parse](#parse) 
   - [React Native](#react-native) 
   - [Realm](#realm) 
@@ -3019,7 +3020,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker): Coronavirus tracker with maps & charts, includes macOS  
+- [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker): Coronavirus tracker with maps & charts  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
@@ -4687,7 +4688,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 https://news.ycombinator.com/ — [back to top](#readme) 
  
-- [Hacker News Multiplatform](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/): Single codebase for iOS and macOS  
+- [Hacker News Multiplatform](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/)  
   <details>
 	<summary><code>swift</code> <code>macos</code> </summary>
 
@@ -6936,6 +6937,94 @@ https://flutter.dev — [back to top](#readme)
  
 http://ionicframework.com/ — [back to top](#readme) 
  
+
+### macOS 
+ 
+Cross platform projects — [back to top](#readme) 
+ 
+- [BikeShare](https://github.com/joreilly/BikeShare): Jetpack Compose and SwiftUI based Kotlin Multiplatform sample project using CityBikes API  
+  <details>
+	<summary><code>swift</code> <code>kotlin</code> <code>swiftui</code> <code>macos</code> <code>jetpack</code> </summary>
+
+	Added August  1, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker): Coronavirus tracker with maps & charts  
+  <details>
+	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
+
+	https://coronatracker.samabox.com/<br>  Added March 20, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://user-images.githubusercontent.com/121827/76356430-fe06ff80-6326-11ea-8107-60f900a73016.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Delta: Math helper](https://github.com/GroupeMINASTE/Delta-iOS): Quickly solve any math problem with an algorithm, save time checking your homework or studying for a test [` App Store`](https://apps.apple.com/app/delta-math-helper/id1436506800)  
+  <details>
+	<summary><code>swift</code> <code>macos</code> <code>ipad</code> </summary>
+
+	Added April 15, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/c1/74/31c174b5-5be4-b78d-dbb9-f55fa0c6a624/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/38/1d/e8381dde-da9f-91e9-674f-25077cd6322e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/e0/92/63e092f4-9a11-9936-d3ad-da8cc258afd8/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
+  </details>
+
+- [Fruta](https://developer.apple.com/documentation/app_clips/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an app clip - WWDC 2020 sample code by Apple  
+  <details>
+	<summary><code>swift</code> <code>ios14</code> <code>widgetkit</code> <code>macos</code> <code>app-clip</code> </summary>
+
+	Added June 23, 2020<br>  License: `other`
+  </details>
+
+- [Hacker News Multiplatform](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/)  
+  <details>
+	<summary><code>swift</code> <code>macos</code> </summary>
+
+	Added August 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>ios13</code> <code>ipad</code> <code>macos</code> </summary>
+
+	Added July  3, 2020<br>  License: `other`
+  </details>
+
+- [Means](https://github.com/vmanot/Means): For Medium  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>macos</code> </summary>
+
+	Added July 16, 2020<br>  License: `other`
+  </details>
+
+- [Milestones](https://github.com/jpsim/Milestones): Count down the days until upcoming milestones  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> <code>macos</code> ⭐</summary>
+
+	Added May 29, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/CmZhSrp.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI): Browse movies, made with SwiftUI, Combine & MovieDB  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>themoviedb</code> <code>combine</code> <code>ipad</code> <code>macos</code> ⭐⭐⭐⭐⭐</summary>
+
+	Added June 13, 2019<br>  License: `other`<br>
+	<a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui): Cross-platform Reddit client  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>macos</code> <code>watchos</code> ⭐⭐⭐</summary>
+
+	Added April 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [StackOv](https://github.com/surfstudio/StackOv): For Stack Overflow [` App Store`](https://apps.apple.com/app/stackov/id1511838391)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>ipad</code> <code>macos</code> </summary>
+
+	Added July 12, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'><code>Screenshot 1</code></a> 
+  </details>
+
 
 ### Parse 
  
