@@ -312,6 +312,12 @@
       "description": "http://ionicframework.com/"
     },
     {
+      "title": "macOS",
+      "id": "macos",
+      "parent": "misc",
+      "description": "Cross platform projects"
+    },
+    {
       "title": "Parse",
       "id": "parse",
       "parent": "misc",
@@ -17854,7 +17860,8 @@
       "title": "MovieSwiftUI",
       "category-ids": [
         "content",
-        "swiftui"
+        "swiftui",
+        "macos"
       ],
       "description": "Browse movies, made with SwiftUI, Combine & MovieDB",
       "source": "https://github.com/Dimillian/MovieSwiftUI",
@@ -18651,9 +18658,10 @@
     },
     {
       "title": "Corona Tracker",
-      "description": "Coronavirus tracker with maps & charts, includes macOS",
+      "description": "Coronavirus tracker with maps & charts",
       "category-ids": [
-        "health"
+        "health",
+        "macos"
       ],
       "homepage": "https://coronatracker.samabox.com/",
       "screenshots": [
@@ -19072,7 +19080,8 @@
       "title": "reddit-swiftui",
       "category-ids": [
         "news",
-        "swiftui"
+        "swiftui",
+        "macos"
       ],
       "description": "Cross-platform Reddit client",
       "source": "https://github.com/carson-katri/reddit-swiftui",
@@ -19147,7 +19156,8 @@
     {
       "title": "Delta: Math helper",
       "category-ids": [
-        "education"
+        "education",
+        "macos"
       ],
       "description": "Quickly solve any math problem with an algorithm, save time checking your homework or studying for a test",
       "source": "https://github.com/GroupeMINASTE/Delta-iOS",
@@ -20994,7 +21004,8 @@
       "title": "Milestones",
       "description": "Count down the days until upcoming milestones",
       "category-ids": [
-        "swiftui"
+        "swiftui",
+        "macos"
       ],
       "tags": [
         "swift",
@@ -21654,7 +21665,8 @@
     {
       "title": "Fruta",
       "category-ids": [
-        "swiftui"
+        "swiftui",
+        "macos"
       ],
       "description": "Create a shared codebase to build a multiplatform app that offers widgets and an app clip - WWDC 2020 sample code by Apple",
       "source": "https://developer.apple.com/documentation/app_clips/fruta_building_a_feature-rich_app_with_swiftui",
@@ -21915,7 +21927,8 @@
       "description": "For Mastodon and Twitter",
       "category-ids": [
         "swiftui",
-        "social"
+        "social",
+        "macos"
       ],
       "source": "https://github.com/Benetos/Mamoot",
       "license": "other",
@@ -22143,7 +22156,8 @@
       "title": "StackOv",
       "description": "For Stack Overflow",
       "category-ids": [
-        "swiftui"
+        "swiftui",
+        "macos"
       ],
       "source": "https://github.com/surfstudio/StackOv",
       "itunes": "https://apps.apple.com/app/stackov/id1511838391",
@@ -22199,7 +22213,8 @@
     {
       "title": "Means",
       "category-ids": [
-        "swiftui"
+        "swiftui",
+        "macos"
       ],
       "tags": [
         "swift",
@@ -22466,7 +22481,8 @@
       "title": "BikeShare",
       "description": "Jetpack Compose and SwiftUI based Kotlin Multiplatform sample project using CityBikes API",
       "category-ids": [
-        "swiftui"
+        "swiftui",
+        "macos"
       ],
       "tags": [
         "swift",
@@ -22612,9 +22628,9 @@
     },
     {
         "title": "Hacker News Multiplatform",
-        "description": "Single codebase for iOS and macOS",
         "category-ids": [
-          "hacker-news"
+          "hacker-news",
+          "macos"
         ],
         "tags": [
           "swift",
