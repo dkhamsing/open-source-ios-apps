@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1136-green.svg) ![](https://img.shields.io/badge/Updated-August%2014,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1137-green.svg) ![](https://img.shields.io/badge/Updated-August%2015,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7586,6 +7586,13 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>kotlin</code> <code>swiftui</code> <code>macos</code> <code>jetpack</code> </summary>
 
 	Added August  1, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [BlogIdeaList-SwiftUI](https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI): Using Core Data With SwiftUI  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>core-data</code> </summary>
+
+	Added August 14, 2020<br>  License: `other`
   </details>
 
 - [CarBode barcode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI)  
