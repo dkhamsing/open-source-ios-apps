@@ -22676,6 +22676,23 @@
       "date_added": "Aug 12 2020",
       "suggested_by": "@dkhamsing",
       "stars": 577
+    },
+    {
+      "title": "BlogIdeaList-SwiftUI",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Using Core Data With SwiftUI",
+      "source": "https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI",
+      "license": "other",
+      "stars": 59,
+      "tags": [
+        "swift",
+        "swiftui",
+        "core-data"
+      ],
+      "date_added": "Aug 14 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
