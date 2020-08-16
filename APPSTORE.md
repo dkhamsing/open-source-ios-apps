@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **279** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **280** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -483,6 +483,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- [BaseConverter](https://github.com/GroupeMINASTE/BaseConverter-iOS): The fast and easy way to convert numbers with tons of possibilities [` App Store`](https://apps.apple.com/app/baseconverter-all-in-one/id1446344899)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> </summary>
+
+	Added August 16, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a9/76/9c/a9769c02-45d4-4c99-a32b-8efa206b13c8/bbeabf3b-22d7-48ec-a11f-a464330abbba_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2020-08-15_at_01.56.32.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/c0/7e/23/c07e2375-9678-51a2-9116-6168befec14c/42dafde0-ed12-4644-a552-584a20bc7ead_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2020-08-15_at_01.58.17.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/6b/d4/4b/6bd44b47-689b-9a7d-33a6-8e507c975a4c/3bbb025a-953e-4c0d-ab7c-02b7a9e68b76_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2020-08-15_at_01.58.38.png/460x0w.png'><code>Screenshot 3</code></a> 
+  </details>
+
 - [CI2Go](https://github.com/ngs/ci2go): For https://circleci.com/ [` App Store`](https://apps.apple.com/app/ci2go-the-circleci-client/id940028427)  
   <details>
 	<summary><code>swift</code> </summary>
