@@ -22750,6 +22750,24 @@
       "date_added": "Aug 16 2020",
       "suggested_by": "@dkhamsing",
       "stars": 73
-    }    
+    },
+    {
+      "title": "Tourism Demo",
+      "description": "Backed by Redux, shows animations, internationalization (i18n), ClipPath, fonts and more",
+      "category-ids": [
+        "travel",
+        "flutter"
+      ],
+      "source": "https://github.com/bluemix/tourism-demo",
+      "screenshots": ["https://github.com/bluemix/Tourism-Demo/raw/master/art/flutter-tourism-demo-400x300.gif"],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "other",
+      "date_added": "Aug 16 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 208
+    }
   ]
 }
