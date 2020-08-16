@@ -22693,6 +22693,24 @@
       ],
       "date_added": "Aug 14 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Portfolio",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Use MVI (Model View Intent) to keep track of your portfolio over time",
+      "source": "https://github.com/bastienFalcou/Portfolio",
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui",
+        "combine",
+        "mvi",
+        "model-view-intent"
+      ],
+      "date_added": "Aug 15 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
