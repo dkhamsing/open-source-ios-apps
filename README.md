@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1137-green.svg) ![](https://img.shields.io/badge/Updated-August%2015,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1140-green.svg) ![](https://img.shields.io/badge/Updated-August%2016,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1161,6 +1161,14 @@ Click ► to show more details
 
 	Added April  2, 2018<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)<br>
 	<a href='https://github.com/eugenebokhan/Awesome-ML/raw/master/Media/App-Demo-Transparent-Background.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [BaseConverter](https://github.com/GroupeMINASTE/BaseConverter-iOS): The fast and easy way to convert numbers with tons of possibilities [` App Store`](https://apps.apple.com/app/baseconverter-all-in-one/id1446344899)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> </summary>
+
+	Added August 16, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a9/76/9c/a9769c02-45d4-4c99-a32b-8efa206b13c8/bbeabf3b-22d7-48ec-a11f-a464330abbba_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2020-08-15_at_01.56.32.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/c0/7e/23/c07e2375-9678-51a2-9116-6168befec14c/42dafde0-ed12-4644-a552-584a20bc7ead_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2020-08-15_at_01.58.17.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/6b/d4/4b/6bd44b47-689b-9a7d-33a6-8e507c975a4c/3bbb025a-953e-4c0d-ab7c-02b7a9e68b76_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2020-08-15_at_01.58.38.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [Bitrise](https://github.com/toshi0383/Bitrise-iOS): Client app for bitrise.io  
@@ -6629,6 +6637,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://i.imgur.com/V3kaLaC.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Recipes](https://github.com/onmyway133/Recipes): Showcases many recipes together with their detail information  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added August 16, 2020<br>  License: `other`<br>
+	<a href='https://github.com/onmyway133/Recipes/raw/master/Screenshots/Home.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Remote](https://github.com/michaelvillar/remote): A remote for your IR devices  
   <details>
 	<summary><code>swift</code> </summary>
@@ -7849,6 +7865,13 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June 22, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/albertopeam/Podcasts/raw/master/art/podcasts.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Portfolio](https://github.com/bastienFalcou/Portfolio): Use MVI (Model View Intent) to keep track of your portfolio over time  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> <code>mvi</code> <code>model-view-intent</code> </summary>
+
+	Added August 15, 2020<br>  License: `other`
   </details>
 
 - [Recipes](https://github.com/mecid/swiftui-recipes-app): Recipes using Single State Container  
