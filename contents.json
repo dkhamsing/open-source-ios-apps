@@ -22732,6 +22732,24 @@
       ],
       "date_added": "Aug 15 2020",
       "suggested_by": "@dkhamsing"
-    }
+    },
+    {
+      "title": "Recipes",
+      "source": "https://github.com/onmyway133/Recipes",
+      "description": "Showcases many recipes together with their detail information",
+      "tags": [
+        "swift"
+      ],
+      "category-ids": [
+        "misc"
+      ],
+      "screenshots": [
+        "https://github.com/onmyway133/Recipes/raw/master/Screenshots/Home.png"
+      ],
+      "license": "other",
+      "date_added": "Aug 16 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 73
+    }    
   ]
 }
