@@ -10382,7 +10382,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "redux"
       ],
       "screenshots": [
         "https://github.com/uiheros/react-native-redux-todo-list/raw/master/todolist.gif"
@@ -15990,7 +15991,8 @@
       "license": "mit",
       "stars": 4552,
       "tags": [
-        "react-native"
+        "react-native",
+        "redux"
       ],
       "screenshots": [
         "https://cloud.githubusercontent.com/assets/1282364/11598478/b2b1b5e6-9a87-11e5-8be9-37cbfa478a71.gif"
@@ -22756,7 +22758,8 @@
       "description": "Backed by Redux, shows animations, internationalization (i18n), ClipPath, fonts and more",
       "category-ids": [
         "travel",
-        "flutter"
+        "flutter",
+        "redux"
       ],
       "source": "https://github.com/bluemix/tourism-demo",
       "screenshots": ["https://github.com/bluemix/Tourism-Demo/raw/master/art/flutter-tourism-demo-400x300.gif"],
