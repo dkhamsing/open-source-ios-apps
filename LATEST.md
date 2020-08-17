@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Recipes](https://github.com/onmyway133/Recipes)
-2. [BaseConverter](https://github.com/GroupeMINASTE/BaseConverter-iOS)
-3. [Portfolio](https://github.com/bastienFalcou/Portfolio)
-4. [BlogIdeaList-SwiftUI](https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI)
-5. [Flight Search](https://github.com/MarcinusX/flutter_ui_challenge_flight_search)
-6. [TVToday](https://github.com/rcaos/TVToday)
-7. [Hacker News Multiplatform](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/)
-8. [MyAnimeList](https://github.com/MaisaMilena/MyAnimeList)
-9. [Kontax Cam](https://github.com/kxvn-lx/Kontax-Cam)
-10. [Ghibliii](https://github.com/kxvn-lx/Ghibliii)
-11. [Phimp.me](https://github.com/jogendra/phimpme-iOS)
-12. [Slovenia - Covid World](https://github.com/CovidWorld/ios)
-13. [Amahi](https://github.com/amahi/ios)
-14. [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app)
-15. [swiftui-2048](https://github.com/jVirus/swiftui-2048)
+1. [Tourism Demo](https://github.com/bluemix/tourism-demo)
+2. [Recipes](https://github.com/onmyway133/Recipes)
+3. [BaseConverter](https://github.com/GroupeMINASTE/BaseConverter-iOS)
+4. [Portfolio](https://github.com/bastienFalcou/Portfolio)
+5. [BlogIdeaList-SwiftUI](https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI)
+6. [Flight Search](https://github.com/MarcinusX/flutter_ui_challenge_flight_search)
+7. [TVToday](https://github.com/rcaos/TVToday)
+8. [Hacker News Multiplatform](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/)
+9. [MyAnimeList](https://github.com/MaisaMilena/MyAnimeList)
+10. [Kontax Cam](https://github.com/kxvn-lx/Kontax-Cam)
+11. [Ghibliii](https://github.com/kxvn-lx/Ghibliii)
+12. [Phimp.me](https://github.com/jogendra/phimpme-iOS)
+13. [Slovenia - Covid World](https://github.com/CovidWorld/ios)
+14. [Amahi](https://github.com/amahi/ios)
+15. [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app)
 
 ## Thanks
 
