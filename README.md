@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1140-green.svg) ![](https://img.shields.io/badge/Updated-August%2016,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1141-green.svg) ![](https://img.shields.io/badge/Updated-August%2017,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2220,7 +2220,7 @@ File Management — [back to top](#readme)
 	<summary><code>swift</code> <code>ipad</code> </summary>
 
 	Added May 18, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://owncloud.org/wp-content/uploads/2019/05/ownCloud-iOS-app-store-parent-file-listing.png'><code>Screenshot 1</code></a> 
+	<a href='https://owncloud.com/wp-content/uploads/2019/05/ownCloud-iOS-app-store-parent-file-listing.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Seafile Pro](https://github.com/haiwen/seafile-iOS): App for Seafile self-hosted file sharing [` App Store`](https://apps.apple.com/app/id639202512)  
@@ -5527,7 +5527,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [Snowflake](https://github.com/bartonhammond/snowflake): A React-Native Starter App/BoilerPlate/Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku  
   <details>
-	<summary><code>react-native</code> ⭐⭐⭐⭐⭐</summary>
+	<summary><code>react-native</code> <code>redux</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added February 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cloud.githubusercontent.com/assets/1282364/11598478/b2b1b5e6-9a87-11e5-8be9-37cbfa478a71.gif'><code>Screenshot 1</code></a> 
@@ -6317,6 +6317,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://themoji.me/ThemojiIdea.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [Tourism Demo](https://github.com/bluemix/tourism-demo): Backed by Redux, shows animations, internationalization (i18n), ClipPath, fonts and more  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> <code>redux</code> ⭐⭐</summary>
+
+	Added August 16, 2020<br>  License: `other`<br>
+	<a href='https://github.com/bluemix/Tourism-Demo/raw/master/art/flutter-tourism-demo-400x300.gif'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Travel Guide](https://github.com/Ivaskuu/travel-guide_app)  
   <details>
 	<summary><code>flutter</code> </summary>
@@ -6940,6 +6948,14 @@ https://flutter.dev — [back to top](#readme)
 	<a href='https://i.ibb.co/KWG2Fwx/article-details.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Tourism Demo](https://github.com/bluemix/tourism-demo): Backed by Redux, shows animations, internationalization (i18n), ClipPath, fonts and more  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> <code>redux</code> ⭐⭐</summary>
+
+	Added August 16, 2020<br>  License: `other`<br>
+	<a href='https://github.com/bluemix/Tourism-Demo/raw/master/art/flutter-tourism-demo-400x300.gif'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Travel Guide](https://github.com/Ivaskuu/travel-guide_app)  
   <details>
 	<summary><code>flutter</code> </summary>
@@ -7392,7 +7408,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 - [Snowflake](https://github.com/bartonhammond/snowflake): A React-Native Starter App/BoilerPlate/Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku  
   <details>
-	<summary><code>react-native</code> ⭐⭐⭐⭐⭐</summary>
+	<summary><code>react-native</code> <code>redux</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added February 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cloud.githubusercontent.com/assets/1282364/11598478/b2b1b5e6-9a87-11e5-8be9-37cbfa478a71.gif'><code>Screenshot 1</code></a> 
@@ -7407,7 +7423,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 - [To Do List (Redux)](https://github.com/uiheros/react-native-redux-todo-list): Uses Redux for managing app state  
   <details>
-	<summary><code>react native</code> </summary>
+	<summary><code>react native</code> <code>redux</code> </summary>
 
 	Added June 20, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/uiheros/react-native-redux-todo-list/raw/master/todolist.gif'><code>Screenshot 1</code></a> 
