@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1141-green.svg) ![](https://img.shields.io/badge/Updated-August%2017,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1142-green.svg) ![](https://img.shields.io/badge/Updated-August%2018,%202020-lightgrey.svg)
 
 Jump to
 
@@ -6946,6 +6946,14 @@ https://flutter.dev — [back to top](#readme)
 
 	Added May  8, 2020<br>  License: `other`<br>
 	<a href='https://i.ibb.co/KWG2Fwx/article-details.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [SpaceX GO!](https://github.com/jesusrp98/spacex-go): SpaceX launch tracker  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> ⭐⭐</summary>
+
+	Added August 17, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://raw.githubusercontent.com/jesusrp98/spacex-go/master/screenshots/0.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Tourism Demo](https://github.com/bluemix/tourism-demo): Backed by Redux, shows animations, internationalization (i18n), ClipPath, fonts and more  
