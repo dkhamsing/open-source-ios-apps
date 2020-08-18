@@ -22771,6 +22771,23 @@
       "date_added": "Aug 16 2020",
       "suggested_by": "@dkhamsing",
       "stars": 208
-    }
+    },
+    {
+      "title": "SpaceX GO!",
+      "description": "SpaceX launch tracker",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/jesusrp98/spacex-go",
+      "screenshots": ["https://raw.githubusercontent.com/jesusrp98/spacex-go/master/screenshots/0.jpg"],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "gpl-3.0",
+      "date_added": "Aug 17 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 472
+    }    
   ]
 }
