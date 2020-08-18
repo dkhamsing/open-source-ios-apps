@@ -22788,6 +22788,26 @@
       "date_added": "Aug 17 2020",
       "suggested_by": "@dkhamsing",
       "stars": 472
-    }    
+    },
+    {
+      "title": "Haiti, Guam, Puerto Rico, Wyoming - PathCheck Safeplaces",
+      "description": "COVID-19 exposure notification and contract tracing",
+      "category-ids": [
+        "contact-tracing",
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "source": "https://github.com/Path-Check/covid-safe-paths",
+      "itunes": "https://apps.apple.com/app/covid-safe-paths/id1508266966",
+      "screenshots": [
+        "https://i.imgur.com/N5hdont.png"
+      ],
+      "license": "mit",
+      "date_added": "Aug 18 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 468
+    }
   ]
 }
