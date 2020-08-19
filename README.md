@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1142-green.svg) ![](https://img.shields.io/badge/Updated-August%2018,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1143-green.svg) ![](https://img.shields.io/badge/Updated-August%2019,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3238,6 +3238,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	Added May 31, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://github.com/corona-warn-app/cwa-documentation/raw/master/images/ui_screens/ui_screens_ios.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Haiti, Guam, Puerto Rico, Wyoming - PathCheck Safeplaces](https://github.com/Path-Check/covid-safe-paths): COVID-19 exposure notification and contract tracing [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966)  
+  <details>
+	<summary><code>react-native</code> ⭐⭐</summary>
+
+	Added August 18, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/N5hdont.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Iceland - rakning-c19-app](https://github.com/aranja/rakning-c19-app): Help analyse individuals’ travel and trace their movements when cases of infection arise [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876)  
@@ -7231,6 +7239,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 	Added July 14, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'><code>Screenshot 2</code></a> 
+  </details>
+
+- [Haiti, Guam, Puerto Rico, Wyoming - PathCheck Safeplaces](https://github.com/Path-Check/covid-safe-paths): COVID-19 exposure notification and contract tracing [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966)  
+  <details>
+	<summary><code>react-native</code> ⭐⭐</summary>
+
+	Added August 18, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/N5hdont.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Iceland - rakning-c19-app](https://github.com/aranja/rakning-c19-app): Help analyse individuals’ travel and trace their movements when cases of infection arise [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876)  
