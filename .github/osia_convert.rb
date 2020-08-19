@@ -11,7 +11,7 @@ LATEST = 'LATEST.md'
 NOT_ENGLISH = '🌐'
 ARCHIVE_TAG = 'archive'
 
-LATEST_NUM = 15
+LATEST_NUM = 30
 
 SHOW_TWITTER = false
 
