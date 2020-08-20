@@ -22808,6 +22808,24 @@
       "date_added": "Aug 18 2020",
       "suggested_by": "@dkhamsing",
       "stars": 468
+    },
+    {
+      "title": "AccountBook",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "A account book app is written by SwiftUI.",
+      "source": "https://github.com/Mas0nSun/AccountBook",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://github.com/Mas0nSun/AccountBook/blob/master/1242x2688bb.png"
+      ],
+      "date_added": "Aug 20 2020",
+      "suggested_by": "Mas0nSun"
     }
   ]
 }
