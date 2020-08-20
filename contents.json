@@ -22826,6 +22826,20 @@
       ],
       "date_added": "Aug 20 2020",
       "suggested_by": "Mas0nSun"
+    },
+    {
+      "title": "Gravity Blocks",
+      "description": "Basic physics concept of gravity and elasticity",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/jogendra/gravityBlocks",
+      "license": "other",
+      "date_added": "Aug 19 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
