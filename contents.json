@@ -22814,8 +22814,9 @@
       "category-ids": [
         "swiftui"
       ],
-      "description": "A account book app is written by SwiftUI.",
+      "description": "Track your expenses",
       "source": "https://github.com/Mas0nSun/AccountBook",
+      "itunes": "https://apps.apple.com/app/id1490290251",
       "license": "mit",
       "tags": [
         "swift",
