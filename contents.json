@@ -7493,7 +7493,7 @@
         "https://i.imgur.com/DYqIgci.png"
       ],
       "description": "Showcases React Native views & modules",
-      "source": "https://github.com/facebook/react-native/tree/master/RNTester",
+      "source": "https://github.com/facebook/react-native/tree/master/packages/rn-tester",
       "license": "other",
       "date_added": "Fri, 5 Feb 2016 07:55:10 -0800",
       "suggested_by": "@dkhamsing"
