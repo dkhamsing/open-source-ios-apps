@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1144-green.svg) ![](https://img.shields.io/badge/Updated-August%2020,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1145-green.svg) ![](https://img.shields.io/badge/Updated-August%2021,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2655,6 +2655,13 @@ File Management — [back to top](#readme)
 
 	Added July  5, 2017<br>  License: `other`<br>
 	<a href='https://user-images.githubusercontent.com/3216424/27571005-10f73774-5b35-11e7-9a84-c0b720280fc1.jpeg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Gravity Blocks](https://github.com/jogendra/gravityBlocks): Basic physics concept of gravity and elasticity  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added August 19, 2020<br>  License: `other`
   </details>
 
 - [Green Mahjong](https://github.com/danbeck/green-mahjong): Solitaire mahjong  
@@ -7406,7 +7413,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<a href='https://github.com/vadymmarkov/reviewery-mobile/raw/master/reviewery.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [RNTester](https://github.com/facebook/react-native/tree/master/RNTester): Showcases React Native views & modules  
+- [RNTester](https://github.com/facebook/react-native/tree/master/packages/rn-tester): Showcases React Native views & modules  
   <details>
 	<summary><code>react native</code> </summary>
 
@@ -7606,7 +7613,7 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://i.imgur.com/dcs8niz.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [AccountBook](https://github.com/Mas0nSun/AccountBook): A account book app is written by SwiftUI.  
+- [AccountBook](https://github.com/Mas0nSun/AccountBook): Track your expenses [` App Store`](https://apps.apple.com/app/id1490290251)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> </summary>
 
