@@ -22841,6 +22841,22 @@
       "license": "other",
       "date_added": "Aug 19 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "CineReel",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/kserko/CineReel",
+      "screenshots": ["https://github.com/kserko/CineReel/raw/master/cineReel.gif"],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "gpl-3.0",
+      "date_added": "Aug 21 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 147
     }
   ]
 }
