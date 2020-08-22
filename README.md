@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1145-green.svg) ![](https://img.shields.io/badge/Updated-August%2021,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1146-green.svg) ![](https://img.shields.io/badge/Updated-August%2022,%202020-lightgrey.svg)
 
 Jump to
 
@@ -6899,6 +6899,14 @@ https://flutter.dev — [back to top](#readme)
 	<summary><code>flutter</code> <code>dart</code> </summary>
 
 	Added April 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [CineReel](https://github.com/kserko/CineReel)  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> ⭐</summary>
+
+	Added August 21, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://github.com/kserko/CineReel/raw/master/cineReel.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [CoronaVirusTrackerFlutter](https://github.com/alfianlosari/CoronaVirusTrackerFlutter)  
