@@ -22857,6 +22857,26 @@
       "date_added": "Aug 21 2020",
       "suggested_by": "@dkhamsing",
       "stars": 147
+    },
+    {
+      "title": "SwiftUIMindBlowing",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Collections of mind-blowing snippets and projects",
+      "source": "https://github.com/antranapp/SwiftUIMindBlowing",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui",
+        "combine"
+      ],
+      "screenshots": [
+        "https://github.com/antranapp/SwiftUIMindBlowing/raw/master/Docs/images/screenshot1.png"
+      ],
+      "stars": 64,
+      "date_added": "Au3 20 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
