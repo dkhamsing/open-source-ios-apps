@@ -1976,6 +1976,20 @@
       ]
     },
     {
+      "title": "Haptic Haven",
+      "category-ids": [
+       "developer"
+      ],
+      "description": "Test, learn about, and implement haptic feedback",
+      "source": "https://github.com/davejacobsen/HapticHaven",
+      "itunes": "https://apps.apple.com/us/app/id1523772947",
+      "screenshots": [
+        "https://raw.githubusercontent.com/davejacobsen/HapticHaven/master/Screenshots/Screenshots.png"
+      ],
+      "date_added": "Aug 23 2020",
+      "suggested_by": "@davejacobsen"
+    },
+    {
       "title": "Review Time",
       "category-ids": [
         "developer"
