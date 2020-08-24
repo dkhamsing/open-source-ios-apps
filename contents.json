@@ -22891,6 +22891,23 @@
       "stars": 64,
       "date_added": "Au3 20 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "USA Arizona - Covid Watch",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/covidwatchorg/covidwatch-ios-en",
+      "itunes": "https://apps.apple.com/us/app/id1521655110",
+      "screenshots": [
+        "https://i.imgur.com/cqeZmEr.png"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Apr 23 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
