@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **283** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **284** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -525,9 +525,9 @@ Click ► to show more details
 
 - [Haptic Haven](https://github.com/davejacobsen/HapticHaven): Test, learn about, and implement haptic feedback [` App Store`](https://apps.apple.com/us/app/id1523772947)  
   <details>
-	<summary></summary>
+	<summary><code>swift</code> </summary>
 
-	Added August 23, 2020<br>
+	Added August 23, 2020<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/davejacobsen/HapticHaven/master/Screenshots/Screenshots.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -1438,6 +1438,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	Added May 30, 2020<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
 	<a href='https://github.com/DP-3T/dp3t-app-ios-ch/blob/develop/Documentation/screenshots/screenshots.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [USA Arizona - Covid Watch](https://github.com/covidwatchorg/covidwatch-ios-en) [` App Store`](https://apps.apple.com/us/app/id1521655110)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added April 23, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://i.imgur.com/cqeZmEr.png'><code>Screenshot 1</code></a> 
   </details>
 
 
