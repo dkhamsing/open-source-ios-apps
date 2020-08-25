@@ -1986,6 +1986,8 @@
       "screenshots": [
         "https://raw.githubusercontent.com/davejacobsen/HapticHaven/master/Screenshots/Screenshots.png"
       ],
+      "tags": ["swift"],
+      "license": "other",
       "date_added": "Aug 23 2020",
       "suggested_by": "@davejacobsen"
     },
