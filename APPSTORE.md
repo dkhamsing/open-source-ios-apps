@@ -1444,7 +1444,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   <details>
 	<summary><code>swift</code> </summary>
 
-	Added April 23, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	Added August 25, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://i.imgur.com/cqeZmEr.png'><code>Screenshot 1</code></a> 
   </details>
 
