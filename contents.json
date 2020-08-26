@@ -22910,6 +22910,19 @@
       "license": "apache-2.0",
       "date_added": "Aug 25 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SF Viewer for SF Symbols",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/aaronpearce/SF-Viewer",
+      "license": "mit",
+      "date_added": "Aug 26",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
