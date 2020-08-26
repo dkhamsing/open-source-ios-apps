@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1149-green.svg) ![](https://img.shields.io/badge/Updated-August%2025,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1150-green.svg) ![](https://img.shields.io/badge/Updated-August%2026,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1408,6 +1408,13 @@ Click ► to show more details
 
 	Added August 22, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/45/ae/f6/45aef69e-09b9-f90f-8258-cf2f9553e06d/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/a4/2d/63/a42d63c9-b5e2-1319-0c52-72840c95cab5/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/d9/c0/51/d9c05147-ddce-c0af-aa20-9935e8487dc4/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/5e/91/c85e914d-a9c3-b84a-7a62-c32eaa4e751e/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
+  </details>
+
+- [SF Viewer for SF Symbols](https://github.com/aaronpearce/SF-Viewer)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added August 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [Terrarium](https://github.com/penk/terrarium-app): UI prototyping for coders  
@@ -3321,7 +3328,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   <details>
 	<summary><code>swift</code> </summary>
 
-	Added April 23, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	Added August 25, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://i.imgur.com/cqeZmEr.png'><code>Screenshot 1</code></a> 
   </details>
 
