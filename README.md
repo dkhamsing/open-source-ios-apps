@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1150-green.svg) ![](https://img.shields.io/badge/Updated-August%2026,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1151-green.svg) ![](https://img.shields.io/badge/Updated-August%2027,%202020-lightgrey.svg)
 
 Jump to
 
@@ -6922,6 +6922,14 @@ https://flutter.dev — [back to top](#readme)
 	<summary><code>flutter</code> <code>dart</code> </summary>
 
 	Added April 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [BookSearch](https://github.com/Norbert515/BookSearch): Collecting books as you read them  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> ⭐⭐</summary>
+
+	Added August 26, 2020<br>  License: `other`<br>
+	<a href='https://github.com/Norbert515/BookSearch/raw/dev/readmeAssets/fade_in_myCollection_gif.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [CineReel](https://github.com/kserko/CineReel)  
