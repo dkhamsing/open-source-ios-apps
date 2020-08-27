@@ -22940,6 +22940,25 @@
       "date_added": "Aug 26 2020",
       "suggested_by": "@dkhamsing",
       "stars": 413
+    },
+    {
+      "title": "Condution Task Manager",
+      "category-ids": [
+        "ionic"
+      ],
+      "source": "https://github.com/Shabang-Systems/Condution",
+      "itunes": "https://apps.apple.com/app/condution/id1523249900",
+      "screenshots": ["https://i.imgur.com/dJyPHU6.png"],
+      "tags": [
+        "capacitor",
+        "ionic",
+        "javascript",
+        "ipad"
+      ],
+      "license": "other",
+      "date_added": "Aug 26 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 413
     }
   ]
 }
