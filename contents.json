@@ -22923,6 +22923,23 @@
       "license": "mit",
       "date_added": "Aug 26",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "BookSearch",
+      "description": "Collecting books as you read them",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/Norbert515/BookSearch",
+      "screenshots": ["https://github.com/Norbert515/BookSearch/raw/dev/readmeAssets/fade_in_myCollection_gif.gif"],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "other",
+      "date_added": "Aug 26 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 413
     }
   ]
 }
