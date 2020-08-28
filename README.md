@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1151-green.svg) ![](https://img.shields.io/badge/Updated-August%2027,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1152-green.svg) ![](https://img.shields.io/badge/Updated-August%2028,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1790,10 +1790,10 @@ Click ► to show more details
 
 - [Ulangi](https://github.com/ulangi/ulangi): Learn languages using popular methods such as spaced repetition [` App Store`](https://apps.apple.com/app/id1435524341)  
   <details>
-	<summary><code>react-native</code> ⭐</summary>
+	<summary><code>react-native</code> <code>ipad</code> ⭐</summary>
 
 	Added January 12, 2020<br>
-	<a href='https://ulangi.com/img/screenshots/AdvancedLanguageApp.png'><code>Screenshot 1</code></a> <a href='https://ulangi.com/img/screenshots/CreateFlashcardsEasily.png'><code>Screenshot 2</code></a> <a href='https://ulangi.com/img/screenshots/StudySmarterNotHarder.png'><code>Screenshot 3</code></a> <a href='https://ulangi.com/img/screenshots/TrackYourProgress.png'><code>Screenshot 4</code></a> <a href='https://ulangi.com/img/screenshots/WellDesignedDarkMode.png'><code>Screenshot 5</code></a> <a href='https://ulangi.com/img/screenshots/BuiltInDictionary.png'><code>Screenshot 6</code></a> <a href='https://ulangi.com/img/screenshots/BuiltInImageSearch.png'><code>Screenshot 7</code></a> 
+	<a href='https://i.imgur.com/dd24iEf.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [WaniKani](https://github.com/haawa799/-WaniKani2): Learn kanji with https://www.wanikani.com/ [` App Store`](https://apps.apple.com/app/wanikani/id1034355141)  
@@ -7031,6 +7031,14 @@ https://flutter.dev — [back to top](#readme)
  
 http://ionicframework.com/ — [back to top](#readme) 
  
+- [Condution Task Manager](https://github.com/Shabang-Systems/Condution) [` App Store`](https://apps.apple.com/app/condution/id1523249900)  
+  <details>
+	<summary><code>capacitor</code> <code>ionic</code> <code>javascript</code> <code>ipad</code> ⭐⭐</summary>
+
+	Added August 26, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/dJyPHU6.png'><code>Screenshot 1</code></a> 
+  </details>
+
 
 ### macOS 
  
