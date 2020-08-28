@@ -18694,7 +18694,7 @@
       "category-ids": [
         "content"
       ],
-      "description": "Preview and download books from Library Genesis https://libgen.is",
+      "description": "Preview and download books from Library Genesis http://libgen.rs",
       "source": "https://github.com/MartinStamenkovski/LibraryGenesis",
       "license": "mit",
       "tags": [
@@ -18703,7 +18703,7 @@
       "screenshots": [
         "https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/latest.png",
         "https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/search.png",
-        "https: //github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/preview.png"
+        "https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/preview.png"
       ],
       "date_added": "March 24 2020",
       "suggested_by": "@MartinStamenkovski",
