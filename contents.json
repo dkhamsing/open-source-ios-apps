@@ -18496,19 +18496,14 @@
         "education"
       ],
       "tags": [
-        "react-native"
+        "react-native",
+        "ipad"
       ],
       "description": "Learn languages using popular methods such as spaced repetition",
       "source": "https://github.com/ulangi/ulangi",
       "itunes": "https://apps.apple.com/app/id1435524341",
       "screenshots": [
-        "https://ulangi.com/img/screenshots/AdvancedLanguageApp.png",
-        "https://ulangi.com/img/screenshots/CreateFlashcardsEasily.png",
-        "https://ulangi.com/img/screenshots/StudySmarterNotHarder.png",
-        "https://ulangi.com/img/screenshots/TrackYourProgress.png",
-        "https://ulangi.com/img/screenshots/WellDesignedDarkMode.png",
-        "https://ulangi.com/img/screenshots/BuiltInDictionary.png",
-        "https://ulangi.com/img/screenshots/BuiltInImageSearch.png"
+        "https://i.imgur.com/dd24iEf.png"
       ],
       "date_added": "Jan 12 2020",
       "suggested_by": "@minhloi",
