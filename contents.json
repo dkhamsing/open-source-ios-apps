@@ -22954,6 +22954,22 @@
       "date_added": "Aug 26 2020",
       "suggested_by": "@dkhamsing",
       "stars": 413
+    },
+    {
+      "title": "Koober",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Ride hailing example",
+      "source": "https://github.com/raywenderlich/swiftui-example-app-koober",
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "stars": 35,
+      "date_added": "Aug 28 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
