@@ -22970,6 +22970,19 @@
       "stars": 35,
       "date_added": "Aug 28 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "Alamofire Star Wars",
+      "category-ids": [
+        "content"
+      ],
+      "source": "https://github.com/camiloibarrayepes/AlamofireStarWarsExample",
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Aug 29 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
