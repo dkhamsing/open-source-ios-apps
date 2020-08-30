@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1153-green.svg) ![](https://img.shields.io/badge/Updated-August%2029,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1155-green.svg) ![](https://img.shields.io/badge/Updated-August%2030,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4050,6 +4050,13 @@ Image, video, audio, reading — [back to top](#readme)
  
 [back to top](#readme) 
  
+- [Alamofire Star Wars](https://github.com/camiloibarrayepes/AlamofireStarWarsExample)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added August 29, 2020<br>  License: `other`
+  </details>
+
 - [ArtShredder](https://github.com/marty-suzuki/ArtShredder): Banksy Shredder  
   <details>
 	<summary><code>swift</code> <code>arkit</code> <code>banksy</code> 🌐 </summary>
@@ -7008,6 +7015,13 @@ https://flutter.dev — [back to top](#readme)
 
 	Added August 17, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://raw.githubusercontent.com/jesusrp98/spacex-go/master/screenshots/0.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Toughest](https://github.com/MDSADABWASIM/Toughest)  
+  <details>
+	<summary><code>flutter</code> ⭐</summary>
+
+	Added August 29, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [Tourism Demo](https://github.com/bluemix/tourism-demo): Backed by Redux, shows animations, internationalization (i18n), ClipPath, fonts and more  
