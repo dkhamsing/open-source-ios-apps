@@ -22997,6 +22997,23 @@
       "date_added": "Aug 29 2020",
       "suggested_by": "@dkhamsing",
       "stars": 115
+    },
+    {
+      "title": "GitHub User Search",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/ra1028/SwiftUI-Combine",
+      "screenshots": ["https://github.com/ra1028/SwiftUI-Combine/raw/master/assets/sample.png"],
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui",
+        "combine"
+      ],
+      "stars": 379,
+      "date_added": "Aug 31 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
