@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1155-green.svg) ![](https://img.shields.io/badge/Updated-August%2030,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1156-green.svg) ![](https://img.shields.io/badge/Updated-August%2031,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7827,6 +7827,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June 11, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://media.giphy.com/media/ib9hnrPzudBWOE5hTr/giphy.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [GitHub User Search](https://github.com/ra1028/SwiftUI-Combine)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> ⭐⭐</summary>
+
+	Added August 31, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/ra1028/SwiftUI-Combine/raw/master/assets/sample.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI): Search GitHub  
