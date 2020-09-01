@@ -328,7 +328,7 @@ Click ► to show more details
 
 - [Colloquy](https://github.com/colloquy/colloquy): IRC client [` App Store`](https://apps.apple.com/app/colloquy-irc-client/id302000478)  
   <details>
-	<summary><code>objc</code> </summary>
+	<summary><code>objc</code> ⭐</summary>
 
 	Added January 27, 2016<br>  License: `other`<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/02/ed/a1/02eda19d-a1eb-f607-daed-67cc275db963/mzl.ymupketw.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/e8/a4/95e8a416-ab17-b309-c5f3-db16c8ebd434/mzl.dquclsly.png/626x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/49/39/11/49391171-cf81-3db8-571b-6fae63bf1163/mzl.vmvxxfwh.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/4c/f6/16/4cf61698-128c-eb16-9d7d-a5d7d04599f4/mzl.bludqoil.png/460x0w.jpg'><code>Screenshot 4</code></a> 
@@ -1362,7 +1362,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app) [` App Store`](https://apps.apple.com/app/id1520284227)  
   <details>
-	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
+	<summary><code>react-native</code> 🌐 ⭐⭐⭐</summary>
 
 	Added August  3, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/VtkXEik.png'><code>Screenshot 1</code></a> 
@@ -1936,7 +1936,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 - [Frame Grabber](https://github.com/arthurhammer/FrameGrabber): Extract video and Live Photo frames as images [` App Store`](https://apps.apple.com/app/frame-grabber/id1434703541)  
   <details>
-	<summary><code>swift</code> ⭐</summary>
+	<summary><code>swift</code> ⭐⭐</summary>
 
 	Added September  6, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/1.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/2.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/3.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/4.jpg'><code>Screenshot 4</code></a> 
@@ -1989,7 +1989,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 - [Frame Grabber](https://github.com/arthurhammer/FrameGrabber): Extract video and Live Photo frames as images [` App Store`](https://apps.apple.com/app/frame-grabber/id1434703541)  
   <details>
-	<summary><code>swift</code> ⭐</summary>
+	<summary><code>swift</code> ⭐⭐</summary>
 
 	Added September  6, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/1.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/2.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/3.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/4.jpg'><code>Screenshot 4</code></a> 
@@ -2715,7 +2715,7 @@ https://joinmastodon.org — [back to top](#readme)
  
 - [NearbyWeather](https://github.com/erikmartens/NearbyWeather): Current weather for nearby stations with list, map and detail view [` App Store`](https://apps.apple.com/app/nearbyweather/id1227313069)  
   <details>
-	<summary><code>swift</code> <code>javascript</code> <code>sqlite</code> <code>openweathermap</code> </summary>
+	<summary><code>swift</code> <code>javascript</code> <code>sqlite</code> <code>openweathermap</code> ⭐</summary>
 
 	Added March 18, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/Fba7ppE.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/fgPbJVx.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/MdQJiLj.png'><code>Screenshot 3</code></a> 
@@ -2881,7 +2881,7 @@ http://ionicframework.com/ — [back to top](#readme)
  
 - [Condution Task Manager](https://github.com/Shabang-Systems/Condution) [` App Store`](https://apps.apple.com/app/condution/id1523249900)  
   <details>
-	<summary><code>capacitor</code> <code>ionic</code> <code>javascript</code> <code>ipad</code> ⭐⭐</summary>
+	<summary><code>capacitor</code> <code>ionic</code> <code>javascript</code> <code>ipad</code> ⭐</summary>
 
 	Added August 26, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/dJyPHU6.png'><code>Screenshot 1</code></a> 
@@ -2902,7 +2902,7 @@ Cross platform projects — [back to top](#readme)
 
 - [StackOv](https://github.com/surfstudio/StackOv): For Stack Overflow [` App Store`](https://apps.apple.com/app/stackov/id1511838391)  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>ipad</code> <code>macos</code> </summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>ipad</code> <code>macos</code> ⭐</summary>
 
 	Added July 12, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'><code>Screenshot 1</code></a> 
@@ -2944,7 +2944,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 - [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app) [` App Store`](https://apps.apple.com/app/id1520284227)  
   <details>
-	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
+	<summary><code>react-native</code> 🌐 ⭐⭐⭐</summary>
 
 	Added August  3, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/VtkXEik.png'><code>Screenshot 1</code></a> 
@@ -3097,7 +3097,7 @@ https://realm.io/ — [back to top](#readme)
 
 - [StackOv](https://github.com/surfstudio/StackOv): For Stack Overflow [` App Store`](https://apps.apple.com/app/stackov/id1511838391)  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>ipad</code> <code>macos</code> </summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>ipad</code> <code>macos</code> ⭐</summary>
 
 	Added July 12, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'><code>Screenshot 1</code></a> 
