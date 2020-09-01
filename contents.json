@@ -23014,6 +23014,24 @@
       "stars": 379,
       "date_added": "Aug 31 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "DesignCode",
+      "description": "Showcase beautiful design and animations",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/mythxn/DesignCode-SwiftUI",
+      "screenshots": ["https://github.com/mythxn/DesignCode-SwiftUI/raw/master/preview.gif"],
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui",
+        "ipad"
+      ],
+      "stars": 435,
+      "date_added": "Sep 1 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
