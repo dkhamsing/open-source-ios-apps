@@ -23072,6 +23072,25 @@
       "stars": 435,
       "date_added": "Sep 1 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "UnofficialSandwiches",
+      "description": "Unofficial version of the Sandwiches app from The WWDC20 Session Introduction to SwiftUI",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/dempseyatgithub/UnofficialSandwiches",
+      "screenshots": [
+        "https://i.imgur.com/z6FqTcp.png"
+      ],
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "stars": 77,
+      "date_added": "Sep 2 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
