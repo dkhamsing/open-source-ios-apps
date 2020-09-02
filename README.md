@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1157-green.svg) ![](https://img.shields.io/badge/Updated-September%20%201,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1158-green.svg) ![](https://img.shields.io/badge/Updated-September%20%202,%202020-lightgrey.svg)
 
 Jump to
 
@@ -8191,6 +8191,14 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	Added June  9, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [UnofficialSandwiches](https://github.com/dempseyatgithub/UnofficialSandwiches): Unofficial version of the Sandwiches app from The WWDC20 Session Introduction to SwiftUI  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added September  2, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/z6FqTcp.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Waterminder](https://github.com/caiobzen/water-reminder-swiftui): Apple Watch app to remind you to drink water  
