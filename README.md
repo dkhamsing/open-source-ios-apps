@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1158-green.svg) ![](https://img.shields.io/badge/Updated-September%20%202,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1159-green.svg) ![](https://img.shields.io/badge/Updated-September%20%203,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7867,6 +7867,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added April  7, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://github.com/rrroyal/Harbour/blob/main/Resources/Screenshots/Light/Dashboard.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery): Example of Harvest (Elm Architecture + Optics)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>elm</code> <code>optics</code> <code>combine</code> ⭐</summary>
+
+	Added September  3, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://user-images.githubusercontent.com/138476/67172750-84ae5500-f3f7-11e9-95b5-9ea054d784eb.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/138476/67172750-84ae5500-f3f7-11e9-95b5-9ea054d784eb.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/138476/67172754-86781880-f3f7-11e9-85b1-621895dd1ce4.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [IDResistors](https://github.com/thestoneage/IDResistors): Identify resistors  
