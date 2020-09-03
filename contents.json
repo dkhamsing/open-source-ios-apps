@@ -23091,6 +23091,30 @@
       "stars": 77,
       "date_added": "Sep 2 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "Harvest-SwiftUI-Gallery",
+      "description": "Example of Harvest (Elm Architecture + Optics)",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/inamiy/Harvest-SwiftUI-Gallery",
+      "screenshots": [
+         "https://user-images.githubusercontent.com/138476/67172750-84ae5500-f3f7-11e9-95b5-9ea054d784eb.png",
+         "https://user-images.githubusercontent.com/138476/67172750-84ae5500-f3f7-11e9-95b5-9ea054d784eb.png",
+         "https://user-images.githubusercontent.com/138476/67172754-86781880-f3f7-11e9-85b1-621895dd1ce4.png"
+      ],
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui",
+        "elm",
+        "optics",
+        "combine"
+      ],
+      "stars": 122,
+      "date_added": "Sep 3 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
