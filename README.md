@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1159-green.svg) ![](https://img.shields.io/badge/Updated-September%20%203,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1160-green.svg) ![](https://img.shields.io/badge/Updated-September%20%204,%202020-lightgrey.svg)
 
 Jump to
 
@@ -392,6 +392,14 @@ Click ► to show more details
 
 	Added February 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/dropbox/PhotoWatch/raw/master/Screenshots/watch.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Pomosh](https://github.com/stevenselcuk/Pomosh-iOS-watchOS): Pomodoro Technique assistant for iOS and WatchOS  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added September  3, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/oOfVj2I.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/cI77YU1.png'><code>Screenshot 2</code></a> 
   </details>
 
 - [SafeTimer](https://github.com/Hortelanos/SafeTimer): Control how many hours of use are left for all kinds of tools, supplies and equipment [` App Store`](https://apps.apple.com/app/apple-store/id1512032981)  
@@ -6294,6 +6302,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/97/bc/c597bc2d-339c-8463-e7e7-f47fe7f6f770/mzl.uhkigexq.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/08/a6/aa/08a6aa5a-6a45-fcb0-5e75-c78fc2a10d67/mzl.ckjxbwfu.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8e/72/69/8e72696d-fae0-0f81-4868-aa281ba30866/mzl.ucpnawyo.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
+- [Pomosh](https://github.com/stevenselcuk/Pomosh-iOS-watchOS): Pomodoro Technique assistant for iOS and WatchOS  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added September  3, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/oOfVj2I.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/cI77YU1.png'><code>Screenshot 2</code></a> 
+  </details>
+
 - [TrackMyTime](https://github.com/EvgenyKarkan/TrackMyTime) [` App Store`](https://apps.apple.com/app/trackmyday/id789386884)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -7874,7 +7890,7 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>swiftui</code> <code>elm</code> <code>optics</code> <code>combine</code> ⭐</summary>
 
 	Added September  3, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://user-images.githubusercontent.com/138476/67172750-84ae5500-f3f7-11e9-95b5-9ea054d784eb.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/138476/67172750-84ae5500-f3f7-11e9-95b5-9ea054d784eb.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/138476/67172754-86781880-f3f7-11e9-85b1-621895dd1ce4.png'><code>Screenshot 3</code></a> 
+	<a href='https://user-images.githubusercontent.com/138476/67172750-84ae5500-f3f7-11e9-95b5-9ea054d784eb.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/138476/67172754-86781880-f3f7-11e9-85b1-621895dd1ce4.png'><code>Screenshot 2</code></a> 
   </details>
 
 - [IDResistors](https://github.com/thestoneage/IDResistors): Identify resistors  
