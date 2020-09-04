@@ -23114,6 +23114,21 @@
       "stars": 122,
       "date_added": "Sep 3 2020",
       "suggested_by": "dkhamsing"
-    }
+    },
+     {
+       "title": "Pomosh",
+       "description": "Pomodoro Technique assistant for iOS and WatchOS",
+       "category-ids": ["apple-watch", "timer"],
+       "source": "https://github.com/stevenselcuk/Pomosh-iOS-watchOS",
+       "screenshots": [
+         "https://i.imgur.com/oOfVj2I.png",
+         "https://i.imgur.com/cI77YU1.png"
+       ],
+       "license": "other",
+       "tags": ["swift", "swiftui"],
+       "stars": 3,
+       "date_added": "Sep 3 2020",
+       "suggested_by": "stevenselcuk"
+     }
   ]
 }
