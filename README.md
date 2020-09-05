@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1160-green.svg) ![](https://img.shields.io/badge/Updated-September%20%204,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1161-green.svg) ![](https://img.shields.io/badge/Updated-September%20%205,%202020-lightgrey.svg)
 
 Jump to
 
@@ -394,7 +394,7 @@ Click ► to show more details
 	<a href='https://github.com/dropbox/PhotoWatch/raw/master/Screenshots/watch.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Pomosh](https://github.com/stevenselcuk/Pomosh-iOS-watchOS): Pomodoro Technique assistant for iOS and WatchOS  
+- [Pomosh](https://github.com/stevenselcuk/Pomosh-iOS-watchOS): Pomodoro Technique assistant  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> </summary>
 
@@ -6302,7 +6302,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/97/bc/c597bc2d-339c-8463-e7e7-f47fe7f6f770/mzl.uhkigexq.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/08/a6/aa/08a6aa5a-6a45-fcb0-5e75-c78fc2a10d67/mzl.ckjxbwfu.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8e/72/69/8e72696d-fae0-0f81-4868-aa281ba30866/mzl.ucpnawyo.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- [Pomosh](https://github.com/stevenselcuk/Pomosh-iOS-watchOS): Pomodoro Technique assistant for iOS and WatchOS  
+- [Pomosh](https://github.com/stevenselcuk/Pomosh-iOS-watchOS): Pomodoro Technique assistant  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> </summary>
 
@@ -8115,6 +8115,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added April 24, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://user-images.githubusercontent.com/36863/80056069-54a05580-84f1-11ea-8597-5a227c9c64a7.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [SwiftUI Examples](https://github.com/ivanvorobei/SwiftUI): Include layout, UI, animations, gestures, draw and data  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> ⭐⭐⭐⭐⭐</summary>
+
+	Added September  4, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/ivanvorobei/SwiftUI/raw/master/Previews/animatable-cards.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [swiftui-2048](https://github.com/jVirus/swiftui-2048): 100% SwiftUI 2.0  
