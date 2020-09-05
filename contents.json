@@ -23117,7 +23117,7 @@
     },
      {
        "title": "Pomosh",
-       "description": "Pomodoro Technique assistant for iOS and WatchOS",
+       "description": "Pomodoro Technique assistant",
        "category-ids": ["apple-watch", "timer"],
        "source": "https://github.com/stevenselcuk/Pomosh-iOS-watchOS",
        "screenshots": [
@@ -23129,6 +23129,26 @@
        "stars": 3,
        "date_added": "Sep 3 2020",
        "suggested_by": "stevenselcuk"
+     },
+
+     {
+       "title": "SwiftUI Examples",
+       "description": "Include layout, UI, animations, gestures, draw and data",
+       "category-ids": [
+         "swiftui"
+       ],
+       "source": "https://github.com/ivanvorobei/SwiftUI",
+       "screenshots": [
+          "https://github.com/ivanvorobei/SwiftUI/raw/master/Previews/animatable-cards.gif"
+        ],
+       "license": "mit",
+       "tags": [
+         "swift",
+         "swiftui"
+       ],
+       "stars": 2600,
+       "date_added": "Sep 4 2020",
+       "suggested_by": "dkhamsing"
      }
   ]
 }
