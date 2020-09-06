@@ -23148,6 +23148,23 @@
        "stars": 2600,
        "date_added": "Sep 4 2020",
        "suggested_by": "dkhamsing"
+     },
+     {
+       "title": "TUM Campus",
+       "description": "For Technische Universität München, includes lecture schedule, cafeteria menus, grades and more",
+       "source": "https://github.com/TUM-Dev/Campus-iOS",
+       "screenshots": [
+          "https://user-images.githubusercontent.com/7985149/84211831-93e42f00-aabc-11ea-8594-6d3d6240589e.png"
+        ],
+       "license": "gpl-3.0",
+       "tags": [
+         "swift",
+         "ipad",
+         "macos"
+       ],
+       "stars": 59,
+       "date_added": "Sep 5 2020",
+       "suggested_by": "dkhamsing"
      }
   ]
 }
