@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1161-green.svg) ![](https://img.shields.io/badge/Updated-September%20%205,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1162-green.svg) ![](https://img.shields.io/badge/Updated-September%20%206,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1701,7 +1701,7 @@ Click ► to show more details
 	<a href='https://i.imgur.com/35n3RHL.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Fingerspelling](https://github.com/sloria/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863)  
+- [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> </summary>
 
@@ -6762,6 +6762,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/triangledraw/TriangleDraw-iOS/develop/Source/Documentation/triangledraw_screenshots.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [TUM Campus](https://github.com/TUM-Dev/Campus-iOS): For Technische Universität München, includes lecture schedule, cafeteria menus, grades and more  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> <code>macos</code> </summary>
+
+	Added September  5, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://user-images.githubusercontent.com/7985149/84211831-93e42f00-aabc-11ea-8594-6d3d6240589e.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Vinylogue](https://github.com/twocentstudios/vinylogue): For Last.fm [` App Store`](https://apps.apple.com/app/vinylogue-for-last.fm/id617471119)  
   <details>
 	<summary><code>objc</code> ⭐</summary>
@@ -7814,7 +7822,7 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted/raw/master/promo.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [Fingerspelling](https://github.com/sloria/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863)  
+- [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> </summary>
 
