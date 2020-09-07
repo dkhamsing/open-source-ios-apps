@@ -23168,6 +23168,25 @@
        "stars": 59,
        "date_added": "Sep 5 2020",
        "suggested_by": "dkhamsing"
+     },
+     {
+       "title": "SwiftUI-MVVM",
+       "description": "Use MVVM to make project testable",
+       "category-ids": [
+         "swiftui"
+       ],
+       "source": "https://github.com/kitasuke/SwiftUI-MVVM",
+       "screenshots": [
+          "https://raw.githubusercontent.com/wiki/kitasuke/SwiftUI-MVVM/images/screenshot.png"
+        ],
+       "license": "mit",
+       "tags": [
+         "swift",
+         "swiftui"
+       ],
+       "stars": 400,
+       "date_added": "Sep 6 2020",
+       "suggested_by": "dkhamsing"
      }
   ]
 }
