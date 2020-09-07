@@ -23176,9 +23176,6 @@
          "swiftui"
        ],
        "source": "https://github.com/kitasuke/SwiftUI-MVVM",
-       "screenshots": [
-          "https://raw.githubusercontent.com/wiki/kitasuke/SwiftUI-MVVM/images/screenshot.png"
-        ],
        "license": "mit",
        "tags": [
          "swift",
