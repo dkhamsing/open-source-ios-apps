@@ -23184,6 +23184,23 @@
        "stars": 400,
        "date_added": "Sep 6 2020",
        "suggested_by": "dkhamsing"
+     },
+     {
+       "title": "Fivey",
+       "description": "iOS 14 widget to show FiveThirtyEight's 2020 election model results",
+       "category-ids": [
+         "misc"
+       ],
+       "source": "https://github.com/CastIrony/Fivey",
+       "screenshots": "https://i.imgur.com/R4CrwtY.jpg",
+       "license": "mit",
+       "tags": [
+         "swift",
+         "macos",
+         "widgetkit"
+       ],
+       "date_added": "Sep 6 2020",
+       "suggested_by": "dkhamsing"
      }
   ]
 }
