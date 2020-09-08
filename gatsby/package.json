@@ -31,6 +31,7 @@
     "@material-ui/styles": "^4.10.0",
     "@reduxjs/toolkit": "^1.4.0",
     "deepmerge": "^4.2.2",
+    "fslightbox-react": "^1.5.0",
     "gatsby": "^2.24.47",
     "gatsby-plugin-manifest": "^2.4.23",
     "gatsby-plugin-material-ui": "^2.1.10",
@@ -46,6 +47,7 @@
     "redux": "^4.0.5"
   },
   "devDependencies": {
+    "@types/fslightbox-react": "^1.4.0",
     "@types/node": "^14.6.0",
     "@types/react": "^16.9.46",
     "@types/react-dom": "^16.9.8",
