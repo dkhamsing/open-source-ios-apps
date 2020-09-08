@@ -1,10 +1,9 @@
-import React, { FC } from 'react'
-import { Link as GatsbyLink } from 'gatsby'
-import { Grid, Button, Theme } from '@material-ui/core'
+import { List, ListItem, ListItemText, Theme } from '@material-ui/core'
 import { makeStyles } from '@material-ui/styles'
-
-import SEO from '../components/seo'
+import { graphql } from 'gatsby'
+import React, { FC } from 'react'
 import Hero from '../components/hero'
+import SEO from '../components/seo'
 
 const useStyles = makeStyles((theme: Theme) => ({
   heroButtons: {
@@ -12,33 +11,103 @@ const useStyles = makeStyles((theme: Theme) => ({
   },
 }))
 
-const IndexPage: FC = () => {
+const CategoryItem = ({
+  category,
+  categories,
+}: {
+  category: Category
+  categories: Category[]
+}) => {
+  const childCategories = categories.filter(cat => cat.parent === category.id)
+
+  return (
+    <ListItem
+      button
+      style={{ display: 'block' }}
+      onClick={event => {
+        event.stopPropagation()
+      }}
+    >
+      <ListItemText primary={category.title} />
+      {childCategories.length === 0 ? null : (
+        <div>
+          <List>
+            {childCategories.map(cat => {
+              return (
+                <CategoryItem
+                  key={cat.id}
+                  category={cat}
+                  categories={categories}
+                />
+              )
+            })}
+          </List>
+        </div>
+      )}
+    </ListItem>
+  )
+}
+
+type Category = {
+  id: string | null
+  description: string | null
+  parent: string | null
+  title: string | null
+}
+
+type IndexPageProps = {
+  data: {
+    openSourceIosAppsJson: {
+      categories: Category[]
+    }
+  }
+}
+
+const IndexPage: FC<IndexPageProps> = props => {
   const classes = useStyles()
+
+  const { categories } = props.data.openSourceIosAppsJson
+
+  const topLevelCategories = categories.filter(category => {
+    return category.parent === null
+  })
+
   return (
     <>
       <SEO title="Home" />
       <Hero
-        title="Hi people"
-        description="Welcome to your new Gatsby site. Now go build something great with
-          Typescript and Material-ui."
+        title="Open Source iOS Apps"
+        description="A community curated set of open source iOS apps."
       >
-        <div className={classes.heroButtons}>
-          <Grid container spacing={2} justify="center">
-            <Grid item>
-              <Button
-                component={GatsbyLink}
-                to="/page-2/"
-                variant="contained"
-                color="primary"
-              >
-                Go to page 2
-              </Button>
-            </Grid>
-          </Grid>
+        <div>
+          <List>
+            {topLevelCategories.map(cat => {
+              return (
+                <CategoryItem
+                  key={cat.id}
+                  category={cat}
+                  categories={categories}
+                />
+              )
+            })}
+          </List>
         </div>
       </Hero>
     </>
   )
 }
+
+export const pageQuery = graphql`
+  query IndexPageQuery {
+    openSourceIosAppsJson {
+      categories {
+        id
+        description
+        parent
+        title
+      }
+    }
+  }
+`
 
 export default IndexPage
