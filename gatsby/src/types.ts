@@ -10,14 +10,14 @@ export type Category = {
 export type Project = {
   category_ids: string[]
   date_added: string
-  description: string
-  homepage: string
+  description: string | null
+  homepage: string | null
   id: string
-  itunes: string
-  lang: string
+  itunes: string | null
+  lang: string | null
   license: string
   screenshots: string[]
-  source: string
+  source: string | null
   stars: number
   suggested_by: string
   tags: string[]

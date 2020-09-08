@@ -44,7 +44,7 @@ const CategoryItem: React.FC<CategoryProps> = props => {
         <Grid container spacing={2}>
           {projects.map(project => {
             return (
-              <Grid item xs={12} sm={6} md={4} key={project.id}>
+              <Grid item xs={12} sm={6} key={project.id}>
                 <ProjectCard project={project} />
               </Grid>
             )
