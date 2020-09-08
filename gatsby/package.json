@@ -15,7 +15,8 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "start": "npm run develop",
+    "deploy": "yarn build && yarn gh-pages -d diest",
+    "start": "yarn develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "lint": "run-p lint:**",
