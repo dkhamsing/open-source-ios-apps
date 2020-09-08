@@ -6,7 +6,7 @@ import { Container, Typography, Theme, Link } from '@material-ui/core'
 const useStyles = makeStyles((theme: Theme) => ({
   footer: {
     padding: theme.spacing(3, 2),
-    marginTop: 'auto',
+    marginTop: theme.spacing(4),
     backgroundColor: theme.palette.background.paper,
   },
 }))
@@ -17,21 +17,14 @@ const Footer: FC = () => {
     <footer className={classes.footer}>
       <Container maxWidth="md">
         <Typography variant="body1" color="textSecondary">
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <Link href="https://www.gatsbyjs.org" color="inherit">
-            Gatsby
+          Built with the data from{' '}
+          <Link
+            href="https://github.com/dkhamsing/open-source-ios-apps"
+            target="_blank"
+            rel="noreferrer"
+          >
+            @dkhamsing/open-source-ios-apps
           </Link>
-          ,{` `}
-          <Link href="https://www.typescriptlang.org" color="inherit">
-            Typescript
-          </Link>{' '}
-          and
-          {` `}
-          <Link href="https://material-ui.com/" color="inherit">
-            @Material-ui
-          </Link>
-          ,
         </Typography>
       </Container>
     </footer>
