@@ -14,6 +14,7 @@ import { graphql, Link } from 'gatsby'
 import React, { FC } from 'react'
 import Hero from '../components/hero'
 import SEO from '../components/seo'
+import { Category } from '../types'
 
 const useStyles = makeStyles((theme: Theme) => ({
   wrapper: {
