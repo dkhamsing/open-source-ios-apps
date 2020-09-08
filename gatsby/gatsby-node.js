@@ -1,5 +1,6 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 const path = require('path')
+const crypto = require('crypto')
 
 /**
  * Implement Gatsby's Node APIs in this file.
@@ -9,6 +10,53 @@ const path = require('path')
 
 // You can delete this file if you're not using it
 
+exports.onCreateNode = ({ node, actions }) => {
+  const { createNode } = actions
+  if (node.internal.type === 'OpenSourceIosAppsJson') {
+    const { categories, projects } = node
+
+    categories.forEach(category => {
+      if (typeof category.id !== 'string' || category.id.length < 1) {
+        console.error('Invalid category #veJYyW', category)
+        return
+      }
+
+      createNode({
+        ...category,
+        parentSlug: category.parent,
+        slug: category.id,
+        id: `Category__${category.id}`,
+        parent: node.id,
+        internal: {
+          type: `AppCategory`,
+          contentDigest: crypto
+            .createHash(`md5`)
+            .update(JSON.stringify(category))
+            .digest(`hex`),
+          content: JSON.stringify(category),
+        },
+      })
+    })
+
+    projects.forEach(project => {
+      createNode({
+        ...project,
+        slug: project.id,
+        id: `Program__${project.id}`,
+        parent: node.id,
+        internal: {
+          type: `AppProgram`,
+          contentDigest: crypto
+            .createHash(`md5`)
+            .update(JSON.stringify(project))
+            .digest(`hex`),
+          content: JSON.stringify(project),
+        },
+      })
+    })
+  }
+}
+
 exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions
 
@@ -16,22 +64,27 @@ exports.createPages = async ({ actions, graphql }) => {
 
   const results = await graphql(`
     query Categories {
-      openSourceIosAppsJson {
-        categories {
-          id
+      allAppCategory {
+        edges {
+          node {
+            id
+            title
+            slug
+          }
         }
       }
     }
   `)
 
-  const { categories } = results.data.openSourceIosAppsJson
+  const categories = results.data.allAppCategory.edges
 
-  categories.forEach(category => {
+  categories.forEach(({ node: category }) => {
     createPage({
-      path: `/category/${category.id}/`,
+      path: `/category/${category.slug}/`,
       component: categoryTemplate,
       context: {
         id: category.id,
+        slug: category.slug,
       },
     })
   })

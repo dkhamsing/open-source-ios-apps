@@ -18,7 +18,9 @@ const CategoryItem = ({
   category: Category
   categories: Category[]
 }) => {
-  const childCategories = categories.filter(cat => cat.parent === category.id)
+  const childCategories = categories.filter(
+    cat => cat.parentSlug === category.slug,
+  )
 
   return (
     <ListItem
@@ -26,7 +28,7 @@ const CategoryItem = ({
       style={{ display: 'block' }}
       onClick={event => {
         event.stopPropagation()
-        navigate(`/category/${category.id}/`)
+        navigate(`/category/${category.slug}/`)
       }}
     >
       <ListItemText primary={category.title} />
@@ -50,16 +52,19 @@ const CategoryItem = ({
 }
 
 type Category = {
-  id: string | null
+  id: string
+  slug: string
+  parentSlug: string | null
   description: string | null
-  parent: string | null
   title: string | null
 }
 
 type IndexPageProps = {
   data: {
-    openSourceIosAppsJson: {
-      categories: Category[]
+    allAppCategory: {
+      edges: {
+        node: Category
+      }[]
     }
   }
 }
@@ -67,10 +72,12 @@ type IndexPageProps = {
 const IndexPage: FC<IndexPageProps> = props => {
   const classes = useStyles()
 
-  const { categories } = props.data.openSourceIosAppsJson
+  const { edges: categoryEdges } = props.data.allAppCategory
+
+  const categories = categoryEdges.map(e => e.node)
 
   const topLevelCategories = categories.filter(category => {
-    return category.parent === null
+    return category.parentSlug === null
   })
 
   return (
@@ -100,12 +107,15 @@ const IndexPage: FC<IndexPageProps> = props => {
 
 export const pageQuery = graphql`
   query IndexPageQuery {
-    openSourceIosAppsJson {
-      categories {
-        id
-        description
-        parent
-        title
+    allAppCategory {
+      edges {
+        node {
+          id
+          slug
+          parentSlug
+          description
+          title
+        }
       }
     }
   }
