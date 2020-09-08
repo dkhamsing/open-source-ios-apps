@@ -26,8 +26,6 @@ exports.createPages = async ({ actions, graphql }) => {
 
   const { categories } = results.data.openSourceIosAppsJson
 
-  console.error('Categories count #ebMYvK', categories.length, categories)
-
   categories.forEach(category => {
     createPage({
       path: `/category/${category.id}/`,
