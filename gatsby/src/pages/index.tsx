@@ -1,6 +1,15 @@
-import { List, ListItem, ListItemText, Theme } from '@material-ui/core'
+import {
+  Card,
+  CardContent,
+  Grid,
+  List,
+  ListItem,
+  ListItemText,
+  Theme,
+  Typography,
+} from '@material-ui/core'
 import { makeStyles } from '@material-ui/styles'
-import { graphql, navigate } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 import React, { FC } from 'react'
 import Hero from '../components/hero'
 import SEO from '../components/seo'
@@ -23,31 +32,33 @@ const CategoryItem = ({
   )
 
   return (
-    <ListItem
-      button
-      style={{ display: 'block' }}
-      onClick={event => {
-        event.stopPropagation()
-        navigate(`/category/${category.slug}/`)
-      }}
-    >
-      <ListItemText primary={category.title} />
-      {childCategories.length === 0 ? null : (
-        <div>
-          <List>
-            {childCategories.map(cat => {
-              return (
-                <CategoryItem
-                  key={cat.id}
-                  category={cat}
-                  categories={categories}
-                />
-              )
-            })}
-          </List>
-        </div>
-      )}
-    </ListItem>
+    <Grid item xs={12} sm={6} md={4}>
+      <Card>
+        <CardContent>
+          <Typography variant="h3">
+            <Link to={`/category/${category.slug}/`}>{category.title}</Link>
+          </Typography>
+          <Typography>{category.description}</Typography>
+
+          {childCategories.length === 0 ? null : (
+            <List>
+              {childCategories.map(childCategory => {
+                return (
+                  <ListItem
+                    button
+                    key={childCategory.id}
+                    component={Link}
+                    to={`/category/${childCategory.slug}/`}
+                  >
+                    <ListItemText primary={childCategory.title} />
+                  </ListItem>
+                )
+              })}
+            </List>
+          )}
+        </CardContent>
+      </Card>
+    </Grid>
   )
 }
 
@@ -86,21 +97,20 @@ const IndexPage: FC<IndexPageProps> = props => {
       <Hero
         title="Open Source iOS Apps"
         description="A community curated set of open source iOS apps."
-      >
-        <div>
-          <List>
-            {topLevelCategories.map(cat => {
-              return (
-                <CategoryItem
-                  key={cat.id}
-                  category={cat}
-                  categories={categories}
-                />
-              )
-            })}
-          </List>
-        </div>
-      </Hero>
+      />
+      <div>
+        <Grid container spacing={2}>
+          {topLevelCategories.map(cat => {
+            return (
+              <CategoryItem
+                key={cat.id}
+                category={cat}
+                categories={categories}
+              />
+            )
+          })}
+        </Grid>
+      </div>
     </>
   )
 }
