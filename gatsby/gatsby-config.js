@@ -3,8 +3,8 @@ const join = require('path').join
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Typescript blog Starter`,
-    description: `A simple blog starter using Typescript in front & back side with eslint & prettier.`,
+    title: `Open Source iOS Apps`,
+    description: `A collaborative list of 1163 open-source iOS, watchOS and tvOS apps.`,
     author: {
       name: 'Julien CARON',
       content: 'I like build some things using Javascript',
