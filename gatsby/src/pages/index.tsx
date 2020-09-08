@@ -1,4 +1,5 @@
 import {
+  Button,
   Card,
   CardContent,
   Grid,
@@ -15,6 +16,10 @@ import Hero from '../components/hero'
 import SEO from '../components/seo'
 
 const useStyles = makeStyles((theme: Theme) => ({
+  wrapper: {
+    paddingLeft: theme.spacing(2),
+    paddingRight: theme.spacing(2),
+  },
   heroButtons: {
     marginTop: theme.spacing(4),
   },
@@ -35,26 +40,35 @@ const CategoryItem = ({
     <Grid item xs={12} sm={6} md={4}>
       <Card>
         <CardContent>
-          <Typography variant="h3">
-            <Link to={`/category/${category.slug}/`}>{category.title}</Link>
-          </Typography>
+          <Typography variant="h3">{category.title}</Typography>
           <Typography>{category.description}</Typography>
+          <Typography>{category.projectCount} projects</Typography>
+          <Link to={`/category/${category.slug}/`}>
+            <Button fullWidth>Browse {category.title}.</Button>
+          </Link>
 
           {childCategories.length === 0 ? null : (
-            <List>
-              {childCategories.map(childCategory => {
-                return (
-                  <ListItem
-                    button
-                    key={childCategory.id}
-                    component={Link}
-                    to={`/category/${childCategory.slug}/`}
-                  >
-                    <ListItemText primary={childCategory.title} />
-                  </ListItem>
-                )
-              })}
-            </List>
+            <>
+              <Typography variant="h5" component="h4">
+                Child categories:
+              </Typography>
+              <List>
+                {childCategories.map(childCategory => {
+                  return (
+                    <ListItem
+                      button
+                      key={childCategory.id}
+                      component={Link}
+                      to={`/category/${childCategory.slug}/`}
+                    >
+                      <ListItemText
+                        primary={`${childCategory.title} (${childCategory.projectCount} projects)`}
+                      />
+                    </ListItem>
+                  )
+                })}
+              </List>
+            </>
           )}
         </CardContent>
       </Card>
@@ -66,6 +80,7 @@ type Category = {
   id: string
   slug: string
   parentSlug: string | null
+  projectCount: number
   description: string | null
   title: string | null
 }
@@ -102,7 +117,7 @@ const IndexPage: FC<IndexPageProps> = props => {
         title="Open Source iOS Apps"
         description={`A community curated set of ${projectCount} open source iOS apps.`}
       />
-      <div>
+      <div className={classes.wrapper}>
         <Grid container spacing={2}>
           {topLevelCategories.map(cat => {
             return (
@@ -127,6 +142,7 @@ export const pageQuery = graphql`
           id
           slug
           parentSlug
+          projectCount
           description
           title
         }
