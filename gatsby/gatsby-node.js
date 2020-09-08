@@ -39,17 +39,18 @@ exports.onCreateNode = ({ node, actions }) => {
     })
 
     projects.forEach(project => {
+      const contentDigest = crypto
+        .createHash(`md5`)
+        .update(JSON.stringify(project))
+        .digest(`hex`)
+
       createNode({
         ...project,
-        slug: project.id,
-        id: `Program__${project.id}`,
+        id: `Project__${contentDigest}`,
         parent: node.id,
         internal: {
-          type: `AppProgram`,
-          contentDigest: crypto
-            .createHash(`md5`)
-            .update(JSON.stringify(project))
-            .digest(`hex`),
+          type: `AppProject`,
+          contentDigest,
           content: JSON.stringify(project),
         },
       })
