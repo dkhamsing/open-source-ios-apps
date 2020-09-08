@@ -23192,7 +23192,7 @@
          "misc"
        ],
        "source": "https://github.com/CastIrony/Fivey",
-       "screenshots": "https://i.imgur.com/R4CrwtY.jpg",
+       "screenshots": ["https://i.imgur.com/R4CrwtY.jpg"],
        "license": "mit",
        "tags": [
          "swift",
