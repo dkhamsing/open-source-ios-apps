@@ -1,3 +1,6 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
+const join = require('path').join
+
 module.exports = {
   siteMetadata: {
     title: `Gatsby Typescript blog Starter`,
@@ -32,6 +35,15 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+      },
+    },
+    `gatsby-transformer-json`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `apps`,
+        path: join(__dirname, `../../open-source-ios-apps/`),
+        ignore: [`**/\.*`],
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

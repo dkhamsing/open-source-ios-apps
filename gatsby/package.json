@@ -35,6 +35,8 @@
     "gatsby-plugin-offline": "^3.2.23",
     "gatsby-plugin-react-helmet": "^3.3.10",
     "gatsby-plugin-typescript": "^2.4.18",
+    "gatsby-source-filesystem": "^2.3.28",
+    "gatsby-transformer-json": "^2.4.11",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
