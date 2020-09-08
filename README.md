@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](http://dkhamsing.github.io/open-source-ios-apps/)) :smile:
 
-![](https://img.shields.io/badge/Projects-1163-green.svg) ![](https://img.shields.io/badge/Updated-September%20%207,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1164-green.svg) ![](https://img.shields.io/badge/Updated-September%20%208,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4787,7 +4787,7 @@ https://news.ycombinator.com/ — [back to top](#readme)
 	Added March 19, 2015<br>  License: [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/)
   </details>
 
-- [React Native Hacker News](https://github.com/G2Jose/ReactNative-HackerNews) [` App Store`](https://apps.apple.com/app/react-native-hacker-news/id1220272464)  
+- [React Native Hacker News](https://github.com/G2Jose/ReactNative-HackerNews)  
   <details>
 	<summary><code>react-native</code> </summary>
 
@@ -6586,6 +6586,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/21070922/44155410-d3d87ee8-a0ca-11e8-8502-6f2b2748f5cb.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Fivey](https://github.com/CastIrony/Fivey): iOS 14 widget to show FiveThirtyEight's 2020 election model results  
+  <details>
+	<summary><code>swift</code> <code>macos</code> <code>widgetkit</code> </summary>
+
+	Added September  6, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/R4CrwtY.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Fontcase](https://github.com/manolosavi/xFonts): Install your favorite fonts on your device to be able to use them in apps like Pages, Numbers, Keynote, and more [` App Store`](https://apps.apple.com/app/id1205074470)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -7482,7 +7490,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<a href='https://koenig-media.raywenderlich.com/uploads/2015/03/PropertyFinder.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [React Native Hacker News](https://github.com/G2Jose/ReactNative-HackerNews) [` App Store`](https://apps.apple.com/app/react-native-hacker-news/id1220272464)  
+- [React Native Hacker News](https://github.com/G2Jose/ReactNative-HackerNews)  
   <details>
 	<summary><code>react-native</code> </summary>
 
@@ -8167,8 +8175,7 @@ https://realm.io/ — [back to top](#readme)
   <details>
 	<summary><code>swift</code> <code>swiftui</code> ⭐⭐</summary>
 
-	Added September  6, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/wiki/kitasuke/SwiftUI-MVVM/images/screenshot.png'><code>Screenshot 1</code></a> 
+	Added September  6, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [SwiftUI_Tasks](https://github.com/shankarmadeshvaran/SwiftUI_Tasks): Simple To-do's with SwiftUI, Combine and Core Data  
