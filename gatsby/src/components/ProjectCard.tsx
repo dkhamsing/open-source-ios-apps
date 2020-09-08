@@ -3,12 +3,15 @@ import {
   CardContent,
   createStyles,
   Divider,
+  GridList,
+  GridListTile,
   makeStyles,
   Theme,
   Typography,
 } from '@material-ui/core'
 import Star from '@material-ui/icons/Star'
-import React from 'react'
+import FsLightbox from 'fslightbox-react'
+import React, { useState } from 'react'
 import { Project } from '../types'
 
 const useStyles = makeStyles((theme: Theme) =>
@@ -55,6 +58,8 @@ const RepeatingStars = ({ count }: { count: number }) => {
 
 const ProjectCard = ({ project }: { project: Project }) => {
   const classes = useStyles()
+  const [toggler, setToggler] = useState(false)
+  const [slide, setSlide] = useState(1)
 
   const showStarCount = starCountToIconCount(project.stars)
 
@@ -102,6 +107,36 @@ const ProjectCard = ({ project }: { project: Project }) => {
             'n/a'
           )}
         </Typography>
+        {project.screenshots && project.screenshots.length > 0 ? (
+          <>
+            <GridList cellHeight={160} cols={4}>
+              {project.screenshots.map((url, i) => {
+                return (
+                  <GridListTile key={url} cols={1}>
+                    <a
+                      href={url}
+                      target="_blank"
+                      rel="noreferrer"
+                      onClick={event => {
+                        event.preventDefault()
+                        setSlide(i + 1)
+                        setToggler(true)
+                      }}
+                    >
+                      <img src={url} alt={`Screenshot ${i + 1}`} />
+                    </a>
+                  </GridListTile>
+                )
+              })}
+            </GridList>
+            <FsLightbox
+              toggler={toggler}
+              sources={project.screenshots}
+              slide={slide}
+              onClose={() => setToggler(false)}
+            />
+          </>
+        ) : null}
       </CardContent>
     </Card>
   )
