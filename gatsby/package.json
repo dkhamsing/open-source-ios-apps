@@ -15,7 +15,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "deploy": "yarn build && yarn gh-pages -d public",
+    "deploy": "yarn build --prefix-paths && yarn gh-pages -d public",
     "start": "yarn develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
