@@ -77,6 +77,9 @@ type IndexPageProps = {
         node: Category
       }[]
     }
+    allAppProject: {
+      totalCount: number
+    }
   }
 }
 
@@ -84,6 +87,7 @@ const IndexPage: FC<IndexPageProps> = props => {
   const classes = useStyles()
 
   const { edges: categoryEdges } = props.data.allAppCategory
+  const projectCount = props.data.allAppProject.totalCount
 
   const categories = categoryEdges.map(e => e.node)
 
@@ -96,7 +100,7 @@ const IndexPage: FC<IndexPageProps> = props => {
       <SEO title="Home" />
       <Hero
         title="Open Source iOS Apps"
-        description="A community curated set of open source iOS apps."
+        description={`A community curated set of ${projectCount} open source iOS apps.`}
       />
       <div>
         <Grid container spacing={2}>
@@ -127,6 +131,9 @@ export const pageQuery = graphql`
           title
         }
       }
+    }
+    allAppProject {
+      totalCount
     }
   }
 `
