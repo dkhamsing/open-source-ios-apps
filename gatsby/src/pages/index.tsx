@@ -76,15 +76,6 @@ const CategoryItem = ({
   )
 }
 
-type Category = {
-  id: string
-  slug: string
-  parentSlug: string | null
-  projectCount: number
-  description: string | null
-  title: string | null
-}
-
 type IndexPageProps = {
   data: {
     allAppCategory: {

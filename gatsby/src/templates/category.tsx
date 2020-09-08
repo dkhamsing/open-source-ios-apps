@@ -1,16 +1,10 @@
-import {
-  Card,
-  CardContent,
-  createStyles,
-  Grid,
-  makeStyles,
-  Theme,
-  Typography,
-} from '@material-ui/core'
+import { createStyles, Grid, makeStyles, Theme } from '@material-ui/core'
 import { graphql } from 'gatsby'
 import React from 'react'
 import Hero from '../components/hero'
+import ProjectCard from '../components/ProjectCard'
 import SEO from '../components/seo'
+import { Category, Project } from '../types'
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
@@ -21,12 +15,23 @@ const useStyles = makeStyles((theme: Theme) =>
   }),
 )
 
-const Category = props => {
+type CategoryProps = {
+  data: {
+    appCategory: Category
+    allAppProject: {
+      edges: {
+        node: Project
+      }
+    }
+  }
+}
+
+const CategoryItem: React.FC<CategoryProps> = props => {
   const classes = useStyles()
 
   const category = props.data.appCategory
   const projectEdges = props.data.allAppProject.edges
-  const projects = projectEdges.map(n => n.node)
+  const projects: Project[] = projectEdges.map(n => n.node)
 
   return (
     <>
@@ -40,56 +45,7 @@ const Category = props => {
           {projects.map(project => {
             return (
               <Grid item xs={12} sm={6} md={4} key={project.id}>
-                <Card>
-                  <CardContent>
-                    <Typography variant="h3">{project.title}</Typography>
-                    <Typography>Added: {project.date_added}</Typography>
-                    <Typography>Stars: {project.stars}</Typography>
-                    <Typography>{project.description}</Typography>
-                    <Typography>
-                      Source:{' '}
-                      {project.source ? (
-                        <a
-                          href={project.source}
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          {project.source}
-                        </a>
-                      ) : (
-                        'n/a'
-                      )}
-                    </Typography>
-                    <Typography>
-                      iTunes:{' '}
-                      {project.itunes ? (
-                        <a
-                          href={project.itunes}
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          {project.itunes}
-                        </a>
-                      ) : (
-                        'n/a'
-                      )}
-                    </Typography>
-                    <Typography>
-                      Homepage:{' '}
-                      {project.homepage ? (
-                        <a
-                          href={project.homepage}
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          {project.homepage}
-                        </a>
-                      ) : (
-                        'n/a'
-                      )}
-                    </Typography>
-                  </CardContent>
-                </Card>
+                <ProjectCard project={project} />
               </Grid>
             )
           })}
@@ -98,6 +54,8 @@ const Category = props => {
     </>
   )
 }
+
+export default CategoryItem
 
 export const pageQuery = graphql`
   query CategoryPageQuery($slug: String!) {
@@ -111,21 +69,22 @@ export const pageQuery = graphql`
     allAppProject(filter: { category_ids: { eq: $slug } }) {
       edges {
         node {
-          id
-          title
           category_ids
           date_added
           description
+          homepage
+          id
+          itunes
+          lang
           license
           screenshots
           source
           stars
           suggested_by
           tags
+          title
         }
       }
     }
   }
 `
-
-export default Category
