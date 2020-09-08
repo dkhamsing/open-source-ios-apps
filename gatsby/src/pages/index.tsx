@@ -1,6 +1,6 @@
 import { List, ListItem, ListItemText, Theme } from '@material-ui/core'
 import { makeStyles } from '@material-ui/styles'
-import { graphql } from 'gatsby'
+import { graphql, navigate } from 'gatsby'
 import React, { FC } from 'react'
 import Hero from '../components/hero'
 import SEO from '../components/seo'
@@ -26,6 +26,7 @@ const CategoryItem = ({
       style={{ display: 'block' }}
       onClick={event => {
         event.stopPropagation()
+        navigate(`/category/${category.id}/`)
       }}
     >
       <ListItemText primary={category.title} />
