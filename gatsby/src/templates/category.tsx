@@ -42,31 +42,51 @@ const Category = props => {
               <Grid item xs={12} sm={6} md={4} key={project.id}>
                 <Card>
                   <CardContent>
-                    <Typography>{project.title}</Typography>
+                    <Typography variant="h3">{project.title}</Typography>
                     <Typography>Added: {project.date_added}</Typography>
                     <Typography>Stars: {project.stars}</Typography>
                     <Typography>{project.description}</Typography>
                     <Typography>
                       Source:{' '}
-                      <a href={project.source} target="_blank" rel="noreferrer">
-                        {project.source}
-                      </a>
+                      {project.source ? (
+                        <a
+                          href={project.source}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          {project.source}
+                        </a>
+                      ) : (
+                        'n/a'
+                      )}
                     </Typography>
                     <Typography>
                       iTunes:{' '}
-                      <a href={project.itunes} target="_blank" rel="noreferrer">
-                        {project.itunes}
-                      </a>
+                      {project.itunes ? (
+                        <a
+                          href={project.itunes}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          {project.itunes}
+                        </a>
+                      ) : (
+                        'n/a'
+                      )}
                     </Typography>
                     <Typography>
                       Homepage:{' '}
-                      <a
-                        href={project.homepage}
-                        target="_blank"
-                        rel="noreferrer"
-                      >
-                        {project.homepage}
-                      </a>
+                      {project.homepage ? (
+                        <a
+                          href={project.homepage}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          {project.homepage}
+                        </a>
+                      ) : (
+                        'n/a'
+                      )}
                     </Typography>
                   </CardContent>
                 </Card>
