@@ -21,10 +21,17 @@ exports.onCreateNode = ({ node, actions }) => {
         return
       }
 
+      // Count how many projects are in each category. We can't easily do this
+      // in Gatsby's GraphQL API.
+      const projectCount = projects.filter(project =>
+        project['category-ids'].includes(category.id),
+      ).length
+
       createNode({
         ...category,
-        parentSlug: category.parent,
         slug: category.id,
+        parentSlug: category.parent,
+        projectCount,
         id: `Category__${category.id}`,
         parent: node.id,
         internal: {
