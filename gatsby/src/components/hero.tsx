@@ -18,7 +18,7 @@ const Hero: FC<HeroProps> = ({ title, description = '', children }) => {
   const classes = useStyles()
   return (
     <div className={classes.heroContent}>
-      <Container maxWidth="sm">
+      <Container maxWidth="md">
         <Typography
           component="h1"
           variant="h2"
