@@ -21,8 +21,9 @@ const useStyles = makeStyles((theme: Theme) => ({
     paddingLeft: theme.spacing(2),
     paddingRight: theme.spacing(2),
   },
-  heroButtons: {
-    marginTop: theme.spacing(4),
+  button: {
+    marginTop: theme.spacing(2),
+    marginBottom: theme.spacing(2),
   },
 }))
 
@@ -33,6 +34,8 @@ const CategoryItem = ({
   category: Category
   categories: Category[]
 }) => {
+  const classes = useStyles()
+
   const childCategories = categories.filter(
     cat => cat.parentSlug === category.slug,
   )
@@ -44,9 +47,15 @@ const CategoryItem = ({
           <Typography variant="h3">{category.title}</Typography>
           <Typography>{category.description}</Typography>
           <Typography>{category.projectCount} projects</Typography>
-          <Link to={`/category/${category.slug}/`}>
-            <Button fullWidth>Browse {category.title}.</Button>
-          </Link>
+          <Button
+            variant="contained"
+            component={Link}
+            fullWidth
+            to={`/category/${category.slug}/`}
+            className={classes.button}
+          >
+            Browse {category.title}.
+          </Button>
 
           {childCategories.length === 0 ? null : (
             <>
