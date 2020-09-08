@@ -4,10 +4,10 @@ const join = require('path').join
 module.exports = {
   siteMetadata: {
     title: `Open Source iOS Apps`,
-    description: `A collaborative list of 1163 open-source iOS, watchOS and tvOS apps.`,
+    description: `A collaborative list of open-source iOS, watchOS and tvOS apps.`,
     author: {
-      name: 'Julien CARON',
-      content: 'I like build some things using Javascript',
+      name: 'Callum Macdonald',
+      content: 'I only built the web site, not the data',
     },
     social: {
       github: 'https://github.com/Junscuzzy',
