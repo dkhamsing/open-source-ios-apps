@@ -33,10 +33,7 @@ const Category = props => {
       <SEO title="Home" />
       <Hero
         title={`Category: ${category.title}`}
-        description={
-          category.description ||
-          'A community curated set of open source iOS apps.'
-        }
+        description={category.description || ''}
       ></Hero>
       <div className={classes.wrapper}>
         <Grid container spacing={2}>
