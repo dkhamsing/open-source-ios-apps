@@ -1,5 +1,12 @@
-import { createStyles, Grid, makeStyles, Theme } from '@material-ui/core'
-import { graphql } from 'gatsby'
+import {
+  Button,
+  createStyles,
+  Grid,
+  makeStyles,
+  Theme,
+  Typography,
+} from '@material-ui/core'
+import { graphql, Link } from 'gatsby'
 import React from 'react'
 import Hero from '../components/hero'
 import ProjectCard from '../components/ProjectCard'
@@ -11,6 +18,10 @@ const useStyles = makeStyles((theme: Theme) =>
     wrapper: {
       paddingLeft: theme.spacing(2),
       paddingRight: theme.spacing(2),
+    },
+    backButton: {
+      textAlign: 'center',
+      margin: theme.spacing(4),
     },
   }),
 )
@@ -40,6 +51,11 @@ const CategoryItem: React.FC<CategoryProps> = props => {
         title={`Category: ${category.title}`}
         description={category.description || ''}
       ></Hero>
+      <Typography className={classes.backButton}>
+        <Button component={Link} to="/" variant="contained">
+          Back to category list
+        </Button>
+      </Typography>
       <div className={classes.wrapper}>
         <Grid container spacing={2}>
           {projects.map(project => {
