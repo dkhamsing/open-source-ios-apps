@@ -105,18 +105,16 @@ export const pageQuery = graphql`
               url
               publicURL
               childImageSharp {
-                ... on ImageSharp {
-                  thumbnail: fixed(width: 120, height: 160) {
-                    ...GatsbyImageSharpFixed
-                  }
-                  fullsize: fixed(width: 120, height: 160) {
-                    ...GatsbyImageSharpFixed
-                  }
-                  original {
-                    width
-                    height
-                    src
-                  }
+                thumbnail: fixed(width: 120, height: 160) {
+                  ...GatsbyImageSharpFixed
+                }
+                fullsize: fixed(width: 120, height: 160) {
+                  ...GatsbyImageSharpFixed
+                }
+                original {
+                  width
+                  height
+                  src
                 }
               }
             }
