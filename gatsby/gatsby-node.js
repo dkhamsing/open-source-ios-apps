@@ -21,7 +21,9 @@ exports.onCreateNode = async ({ node, actions, getCache, createNodeId }) => {
   if (node.internal.type === 'OpenSourceIosAppsJson') {
     const { categories, projects } = node
 
-    const limit = isDev ? 10 : 0
+    // NOTE: The limit should be set to 0 in production, but there's a problem
+    // with sharp, so trying it with 100 for now to get the site built.
+    const limit = isDev ? 10 : 100
     let count = 0
 
     categories.forEach(category => {
