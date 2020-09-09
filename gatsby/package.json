@@ -13,7 +13,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
+    "build": "./prebuild.sh && gatsby build",
     "develop": "gatsby develop",
     "deploy": "yarn build --prefix-paths && yarn gh-pages -d public",
     "start": "yarn develop",
