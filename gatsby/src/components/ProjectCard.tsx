@@ -1,5 +1,4 @@
 import {
-  Button,
   Card,
   CardContent,
   createStyles,
@@ -11,10 +10,11 @@ import {
   Typography,
 } from '@material-ui/core'
 import Star from '@material-ui/icons/Star'
-import FsLightbox from 'fslightbox-react'
-import React, { useState } from 'react'
-import { Project } from '../types'
 import Img from 'gatsby-image'
+import React, { useState } from 'react'
+import Lightbox from 'react-image-lightbox'
+import 'react-image-lightbox/style.css'
+import { Project } from '../types'
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
@@ -60,8 +60,8 @@ const RepeatingStars = ({ count }: { count: number }) => {
 
 const ProjectCard = ({ project }: { project: Project }) => {
   const classes = useStyles()
-  const [toggler, setToggler] = useState(false)
-  const [slide, setSlide] = useState(1)
+  const [isLightboxOpen, setIsLightboxOpen] = useState(false)
+  const [lightboxSlide, setLightboxSlide] = useState(0)
 
   const showStarCount = starCountToIconCount(project.stars)
   const sources = project.children.map(
@@ -113,38 +113,47 @@ const ProjectCard = ({ project }: { project: Project }) => {
           )}
         </Typography>
         {project.children.length === 0 ? null : (
-          <GridList cellHeight={160} cols={4}>
-            {project.children.map((screenshot, i) => {
-              return (
-                <GridListTile key={i} cols={1}>
-                  <a
-                    href={screenshot.url || undefined}
-                    target="_blank"
-                    rel="noreferrer"
-                    onClick={event => {
-                      event.preventDefault()
-                      setSlide(i + 1)
-                      setToggler(true)
-                    }}
-                  >
-                    <Img fixed={screenshot.childImageSharp.thumbnail} />
-                  </a>
-                </GridListTile>
-              )
-            })}
-          </GridList>
+          <>
+            <GridList cellHeight={160} cols={4}>
+              {project.children.map((screenshot, i) => {
+                return (
+                  <GridListTile key={i} cols={1}>
+                    <a
+                      href={screenshot.url || undefined}
+                      target="_blank"
+                      rel="noreferrer"
+                      onClick={event => {
+                        event.preventDefault()
+                        setLightboxSlide(i)
+                        setIsLightboxOpen(true)
+                      }}
+                    >
+                      <Img fixed={screenshot.childImageSharp.thumbnail} />
+                    </a>
+                  </GridListTile>
+                )
+              })}
+            </GridList>
+            {!isLightboxOpen ? null : (
+              <Lightbox
+                mainSrc={sources[lightboxSlide]}
+                nextSrc={sources[lightboxSlide + 1]}
+                prevSrc={sources[lightboxSlide - 1]}
+                onCloseRequest={() => setIsLightboxOpen(false)}
+                onMoveNextRequest={() => {
+                  setLightboxSlide(
+                    (lightboxSlide + sources.length + 1) % sources.length,
+                  )
+                }}
+                onMovePrevRequest={() => {
+                  setLightboxSlide(
+                    (lightboxSlide + sources.length - 1) % sources.length,
+                  )
+                }}
+              />
+            )}
+          </>
         )}
-        <FsLightbox
-          toggler={toggler}
-          sources={sources}
-          slide={slide}
-          onClose={() => {
-            console.log('onClose, toggler #YV0ILZ', toggler)
-            if (toggler) {
-              setToggler(false)
-            }
-          }}
-        />
       </CardContent>
     </Card>
   )
