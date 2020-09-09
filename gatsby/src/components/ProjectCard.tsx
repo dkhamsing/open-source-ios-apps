@@ -65,7 +65,9 @@ const ProjectCard = ({ project }: { project: Project }) => {
 
   const showStarCount = starCountToIconCount(project.stars)
   const sources = project.children.map(
-    child => child.childImageSharp.original.src,
+    child =>
+      (child.childImageSharp && child.childImageSharp.original.src) ||
+      child.publicURL,
   )
 
   return (
@@ -128,7 +130,15 @@ const ProjectCard = ({ project }: { project: Project }) => {
                         setIsLightboxOpen(true)
                       }}
                     >
-                      <Img fixed={screenshot.childImageSharp.thumbnail} />
+                      {screenshot.childImageSharp ? (
+                        <Img fixed={screenshot.childImageSharp.thumbnail} />
+                      ) : (
+                        <img
+                          src={screenshot.publicURL}
+                          width="120"
+                          height="160"
+                        />
+                      )}
                     </a>
                   </GridListTile>
                 )

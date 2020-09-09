@@ -87,6 +87,7 @@ export const pageQuery = graphql`
             id
             ... on File {
               url
+              publicURL
               childImageSharp {
                 ... on ImageSharp {
                   thumbnail: fixed(width: 120, height: 160) {

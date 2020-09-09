@@ -26,7 +26,8 @@ export type Project = {
   children: {
     id: string
     url: string | null
-    childImageSharp: {
+    publicURL: string
+    childImageSharp?: {
       thumbnail: any
       fullsize: any
       original: {
