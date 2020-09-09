@@ -17,6 +17,9 @@ exports.onCreateNode = async ({ node, actions, getCache, createNodeId }) => {
   if (node.internal.type === 'OpenSourceIosAppsJson') {
     const { categories, projects } = node
 
+    const limit = process.env.NODE_ENV === 'development' ? 100 : 0
+    let count = 0
+
     categories.forEach(category => {
       if (typeof category.id !== 'string' || category.id.length < 1) {
         console.error('Invalid category #veJYyW', category)
@@ -66,6 +69,13 @@ exports.onCreateNode = async ({ node, actions, getCache, createNodeId }) => {
       })
 
       if (project.screenshots && project.screenshots.length > 0) {
+        // In development, we want to limit how many images we download,
+        // otherwise it takes forever and uses >800MB of disk space.
+        if (limit > 0 && count > limit) {
+          return
+        }
+        count = count + project.screenshots.length
+
         await Bluebird.each(project.screenshots, async url => {
           try {
             await createRemoteFileNode({
