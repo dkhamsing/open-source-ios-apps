@@ -83,6 +83,27 @@ export const pageQuery = graphql`
           suggested_by
           tags
           title
+          children {
+            id
+            ... on File {
+              url
+              childImageSharp {
+                ... on ImageSharp {
+                  thumbnail: fixed(width: 120, height: 160) {
+                    ...GatsbyImageSharpFixed
+                  }
+                  fullsize: fixed(width: 120, height: 160) {
+                    ...GatsbyImageSharpFixed
+                  }
+                  original {
+                    width
+                    height
+                    src
+                  }
+                }
+              }
+            }
+          }
         }
       }
     }

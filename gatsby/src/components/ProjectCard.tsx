@@ -3,12 +3,17 @@ import {
   CardContent,
   createStyles,
   Divider,
+  GridList,
+  GridListTile,
   makeStyles,
   Theme,
   Typography,
 } from '@material-ui/core'
 import Star from '@material-ui/icons/Star'
-import React from 'react'
+import Img from 'gatsby-image'
+import React, { useState } from 'react'
+import Lightbox from 'react-image-lightbox'
+import 'react-image-lightbox/style.css'
 import { Project } from '../types'
 
 const useStyles = makeStyles((theme: Theme) =>
@@ -55,8 +60,13 @@ const RepeatingStars = ({ count }: { count: number }) => {
 
 const ProjectCard = ({ project }: { project: Project }) => {
   const classes = useStyles()
+  const [isLightboxOpen, setIsLightboxOpen] = useState(false)
+  const [lightboxSlide, setLightboxSlide] = useState(0)
 
   const showStarCount = starCountToIconCount(project.stars)
+  const sources = project.children.map(
+    child => child.childImageSharp.original.src,
+  )
 
   return (
     <Card>
@@ -102,6 +112,48 @@ const ProjectCard = ({ project }: { project: Project }) => {
             'n/a'
           )}
         </Typography>
+        {project.children.length === 0 ? null : (
+          <>
+            <GridList cellHeight={160} cols={4}>
+              {project.children.map((screenshot, i) => {
+                return (
+                  <GridListTile key={i} cols={1}>
+                    <a
+                      href={screenshot.url || undefined}
+                      target="_blank"
+                      rel="noreferrer"
+                      onClick={event => {
+                        event.preventDefault()
+                        setLightboxSlide(i)
+                        setIsLightboxOpen(true)
+                      }}
+                    >
+                      <Img fixed={screenshot.childImageSharp.thumbnail} />
+                    </a>
+                  </GridListTile>
+                )
+              })}
+            </GridList>
+            {!isLightboxOpen ? null : (
+              <Lightbox
+                mainSrc={sources[lightboxSlide]}
+                nextSrc={sources[lightboxSlide + 1]}
+                prevSrc={sources[lightboxSlide - 1]}
+                onCloseRequest={() => setIsLightboxOpen(false)}
+                onMoveNextRequest={() => {
+                  setLightboxSlide(
+                    (lightboxSlide + sources.length + 1) % sources.length,
+                  )
+                }}
+                onMovePrevRequest={() => {
+                  setLightboxSlide(
+                    (lightboxSlide + sources.length - 1) % sources.length,
+                  )
+                }}
+              />
+            )}
+          </>
+        )}
       </CardContent>
     </Card>
   )
