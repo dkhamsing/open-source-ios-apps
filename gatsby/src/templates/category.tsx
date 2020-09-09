@@ -84,10 +84,23 @@ export const pageQuery = graphql`
           tags
           title
           children {
-            ... on ImageSharp {
-              id
-              fixed(width: 120, height: 160) {
-                ...GatsbyImageSharpFixed
+            id
+            ... on File {
+              url
+              childImageSharp {
+                ... on ImageSharp {
+                  thumbnail: fixed(width: 120, height: 160) {
+                    ...GatsbyImageSharpFixed
+                  }
+                  fullsize: fixed(width: 120, height: 160) {
+                    ...GatsbyImageSharpFixed
+                  }
+                  original {
+                    width
+                    height
+                    src
+                  }
+                }
               }
             }
           }

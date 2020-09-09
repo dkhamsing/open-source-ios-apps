@@ -22,4 +22,18 @@ export type Project = {
   suggested_by: string
   tags: string[]
   title: string
+
+  children: {
+    id: string
+    url: string | null
+    childImageSharp: {
+      thumbnail: any
+      fullsize: any
+      original: {
+        width: number
+        height: number
+        src: string
+      }
+    }
+  }[]
 }
