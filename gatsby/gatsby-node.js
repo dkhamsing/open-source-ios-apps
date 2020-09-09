@@ -6,6 +6,7 @@ const Bluebird = require('bluebird')
 
 // Set this to true to enable more logging in this file
 const DEBUG = false
+const isDev = process.env.NODE_ENV === 'development'
 
 /**
  * Implement Gatsby's Node APIs in this file.
@@ -20,7 +21,7 @@ exports.onCreateNode = async ({ node, actions, getCache, createNodeId }) => {
   if (node.internal.type === 'OpenSourceIosAppsJson') {
     const { categories, projects } = node
 
-    const limit = process.env.NODE_ENV === 'development' ? 10 : 0
+    const limit = isDev ? 10 : 0
     let count = 0
 
     categories.forEach(category => {
@@ -89,7 +90,7 @@ exports.onCreateNode = async ({ node, actions, getCache, createNodeId }) => {
               createNode,
               createNodeId,
             })
-            if (DEBUG && process.env.NODE_ENV === 'development') {
+            if (DEBUG && isDev) {
               console.log('SUCCESS createRemoteFileNode() #kOaKVj', {
                 nodeId: id,
                 url,
