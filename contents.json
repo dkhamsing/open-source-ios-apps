@@ -2053,7 +2053,6 @@
       ],
       "description": "Browse top GitHub coders & repositories",
       "source": "https://github.com/coderyi/Monkey",
-      "itunes": "https://apps.apple.com/app/monkey-for-github/id1003765407",
       "stars": 1740,
       "license": "mit",
       "date_added": "Fri Aug 28 14:25:44 2015 +0800",
@@ -2582,7 +2581,6 @@
         "objc"
       ],
       "source": "https://github.com/id-Software/DOOM-iOS",
-      "itunes": "https://apps.apple.com/app/doom-classic/id336347946",
       "stars": 671,
       "license": "gpl-2.0",
       "date_added": "Tue, 19 May 2015 07:30:30 -0700",
@@ -3718,7 +3716,6 @@
       ],
       "description": "City guide for Barcelona",
       "source": "https://github.com/maurovc/visitBCN",
-      "itunes": "https://apps.apple.com/app/visitbcn/id904676442",
       "stars": 12,
       "license": "mit",
       "date_added": "Mon Mar 16 07:23:09 2015 -0700",
@@ -3865,7 +3862,6 @@
       ],
       "description": "Add blur to your photos",
       "source": "https://github.com/maurovc/ColorBlur",
-      "itunes": "https://apps.apple.com/app/id928863510",
       "stars": 28,
       "license": "other",
       "date_added": "Mon Mar 16 07:28:42 2015 -0700",
@@ -6437,7 +6433,6 @@
       ],
       "description": "Track your class grades",
       "source": "https://github.com/maurovc/iGrades",
-      "itunes": "https://apps.apple.com/app/id816987574",
       "stars": 15,
       "license": "other",
       "date_added": "Mon Mar 16 07:29:52 2015 -0700",
@@ -6478,7 +6473,6 @@
       "description": "Songbook for Luxembourgish students",
       "lang": "ltz",
       "source": "https://github.com/AcelLuxembourg/LidderbuchApp",
-      "itunes": "https://apps.apple.com/app/lidderbuch/id997143407",
       "tags": [
         "swift"
       ],
@@ -12577,7 +12571,6 @@
       "title": "Dash",
       "description": "Instant offline access to 150+ API documentation sets",
       "source": "https://github.com/Kapeli/Dash-iOS",
-      "itunes": "https://apps.apple.com/app/dash-offline-api-docs/id1239167694",
       "homepage": "https://kapeli.com/dash_ios",
       "category-ids": [
         "developer"
@@ -13434,7 +13427,6 @@
     {
       "title": "Bíóhúsið",
       "source": "https://github.com/birkir/kvikmyndr-app",
-      "itunes": "https://apps.apple.com/app/biohusi/id1112946298",
       "description": "See movie showtimes in Iceland",
       "category-ids": [
         "react-native"
@@ -14251,7 +14243,6 @@
       ],
       "description": "Intervalometer for WiFi-enabled Canon DSLRs",
       "source": "https://github.com/jnordberg/triggy",
-      "itunes": "https://apps.apple.com/app/triggy/id1193570460",
       "date_added": "May 18 2017",
       "suggested_by": "@jnordberg",
       "screenshots": [
@@ -14887,7 +14878,6 @@
     {
       "title": "GitPoint",
       "source": "https://github.com/gitpoint/git-point",
-      "itunes": "https://apps.apple.com/app/gitpoint/id1251245162",
       "category-ids": [
         "github",
         "react-native"
@@ -15943,7 +15933,6 @@
       ],
       "description": "Display and monitor the current Bitcoint rate",
       "source": "https://github.com/Bruno-Furtado/bitprice-ios",
-      "itunes": "https://apps.apple.com/app/id1343270451",
       "license": "mit",
       "stars": 32,
       "tags": [
@@ -17616,7 +17605,7 @@
       ],
       "description": "Create games, animations, interactive music videos, and many kind of other apps, directly on device",
       "source": "https://github.com/catrobat/catty",
-      "homepage": "https://www.catrobat.org",
+      "homepage": "https://catrobat.org/",
       "itunes": "https://apps.apple.com/app/pocket-code/id1117935892",
       "license": "other",
       "tags": [
@@ -17950,7 +17939,7 @@
       "description": "Decentralised text messaging, video and audio calls, file transfer, video conferencing",
       "source": "https://review.jami.net/admin/repos/ring-client-ios",
       "homepage": "https://jami.net",
-      "itunes": "https://apps.apple.com/ca/app/ring-a-gnu-package/id1306951055",
+      "itunes": "https://apps.apple.com/app/ring-a-gnu-package/id1306951055",
       "license": "mit",
       "tags": [
         "swift"
@@ -19774,7 +19763,7 @@
       "description": "Keep track of encounters with friends, family or co-workers and save them anonymously",
       "license": "apache-2.0",
       "source": "https://github.com/austrianredcross/stopp-corona-ios",
-      "itunes": "https://apps.apple.com/at/app/apple-store/id1503717224",
+      "itunes": "https://apps.apple.com/app/apple-store/id1503717224",
       "screenshots": [
         "https://i.imgur.com/K0JV32C.png"
       ],
@@ -20318,7 +20307,6 @@
         "react-native"
       ],
       "source": "https://gitlab.com/TownPound/Cyclos/ScottLogic.mobile.react-native/BristolPound",
-      "itunes": "https://apps.apple.com/gb/app/bristol-pound/id1230035185",
       "screenshots": [
         "https://i.imgur.com/oo53yWF.png"
       ],
@@ -21045,7 +21033,7 @@
       ],
       "license": "mpl-2.0",
       "source": "https://github.com/DP-3T/dp3t-app-ios-ch",
-      "itunes": "https://apps.apple.com/ch/app/swisscovid-preview/id1509275381",
+      "itunes": "https://apps.apple.com/app/swisscovid-preview/id1509275381",
       "tags": [
         "swift"
       ],
@@ -21542,7 +21530,7 @@
       ],
       "lang": "pol",
       "source": "https://github.com/ProteGO-Safe/ios",
-      "itunes": "https://apps.apple.com/pl/app/protego-safe/id1508481566",
+      "itunes": "https://apps.apple.com/app/protego-safe/id1508481566",
       "screenshots": [
         "https://i.imgur.com/Qy5fzXo.png"
       ],
