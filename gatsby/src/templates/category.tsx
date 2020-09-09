@@ -83,6 +83,14 @@ export const pageQuery = graphql`
           suggested_by
           tags
           title
+          children {
+            ... on ImageSharp {
+              id
+              fixed(width: 120, height: 160) {
+                ...GatsbyImageSharpFixed
+              }
+            }
+          }
         }
       }
     }

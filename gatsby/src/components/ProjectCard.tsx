@@ -1,4 +1,5 @@
 import {
+  Button,
   Card,
   CardContent,
   createStyles,
@@ -13,6 +14,7 @@ import Star from '@material-ui/icons/Star'
 import FsLightbox from 'fslightbox-react'
 import React, { useState } from 'react'
 import { Project } from '../types'
+import Img from 'gatsby-image'
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
@@ -110,6 +112,13 @@ const ProjectCard = ({ project }: { project: Project }) => {
         {project.screenshots && project.screenshots.length > 0 ? (
           <>
             <GridList cellHeight={160} cols={4}>
+              {(project as any).children.map(({ fixed }, i) => {
+                return (
+                  <GridListTile key={i} cols={1}>
+                    <Img fixed={fixed} />
+                  </GridListTile>
+                )
+              })}
               {project.screenshots.map((url, i) => {
                 return (
                   <GridListTile key={url} cols={1}>
