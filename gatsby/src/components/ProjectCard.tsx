@@ -64,6 +64,9 @@ const ProjectCard = ({ project }: { project: Project }) => {
   const [slide, setSlide] = useState(1)
 
   const showStarCount = starCountToIconCount(project.stars)
+  const sources = project.children.map(
+    child => child.childImageSharp.original.src,
+  )
 
   return (
     <Card>
@@ -109,43 +112,39 @@ const ProjectCard = ({ project }: { project: Project }) => {
             'n/a'
           )}
         </Typography>
-        {project.screenshots && project.screenshots.length > 0 ? (
-          <>
-            <GridList cellHeight={160} cols={4}>
-              {(project as any).children.map(({ fixed }, i) => {
-                return (
-                  <GridListTile key={i} cols={1}>
-                    <Img fixed={fixed} />
-                  </GridListTile>
-                )
-              })}
-              {project.screenshots.map((url, i) => {
-                return (
-                  <GridListTile key={url} cols={1}>
-                    <a
-                      href={url}
-                      target="_blank"
-                      rel="noreferrer"
-                      onClick={event => {
-                        event.preventDefault()
-                        setSlide(i + 1)
-                        setToggler(true)
-                      }}
-                    >
-                      <img src={url} alt={`Screenshot ${i + 1}`} />
-                    </a>
-                  </GridListTile>
-                )
-              })}
-            </GridList>
-            <FsLightbox
-              toggler={toggler}
-              sources={project.screenshots}
-              slide={slide}
-              onClose={() => setToggler(false)}
-            />
-          </>
-        ) : null}
+        {project.children.length === 0 ? null : (
+          <GridList cellHeight={160} cols={4}>
+            {project.children.map((screenshot, i) => {
+              return (
+                <GridListTile key={i} cols={1}>
+                  <a
+                    href={screenshot.url || undefined}
+                    target="_blank"
+                    rel="noreferrer"
+                    onClick={event => {
+                      event.preventDefault()
+                      setSlide(i + 1)
+                      setToggler(true)
+                    }}
+                  >
+                    <Img fixed={screenshot.childImageSharp.thumbnail} />
+                  </a>
+                </GridListTile>
+              )
+            })}
+          </GridList>
+        )}
+        <FsLightbox
+          toggler={toggler}
+          sources={sources}
+          slide={slide}
+          onClose={() => {
+            console.log('onClose, toggler #YV0ILZ', toggler)
+            if (toggler) {
+              setToggler(false)
+            }
+          }}
+        />
       </CardContent>
     </Card>
   )
