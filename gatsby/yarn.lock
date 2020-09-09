@@ -1908,13 +1908,6 @@
   resolved "https://registry.yarnpkg.com/@types/events/-/events-3.0.0.tgz#2862f3f58a9a7f7c3e78d79f130dd4d71c25c2a7"
   integrity sha512-EaObqwIvayI5a8dCzhFrjKzVwKLxjoG9T6Ppd5CEo07LRKfQ8Yokw54r5+Wq7FaBQ+yXRvQAYPrHwya1/UFt9g==
 
-"@types/fslightbox-react@^1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@types/fslightbox-react/-/fslightbox-react-1.4.0.tgz#d2b20486830745ae80318c1c478c9beae5f2cd8a"
-  integrity sha512-ocIiZqFQ3BWBZB8Bp0fuNma7Eb0aOjkgk/nEUfW0omdRw4ciaVivabfsWldNuR69KwRJrvs6MZQuvVV6JEqlFg==
-  dependencies:
-    "@types/react" "*"
-
 "@types/get-port@^3.2.0":
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/@types/get-port/-/get-port-3.2.0.tgz#f9e0a11443cc21336470185eae3dfba4495d29bc"
@@ -6545,11 +6538,6 @@ fsevents@~2.1.2:
   version "2.1.3"
   resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.1.3.tgz#fb738703ae8d2f9fe900c33836ddebee8b97f23e"
   integrity sha512-Auw9a4AxqWpa9GUfj370BMPzzyncfBABW8Mab7BGWBYDj4Isgq+cDKtx0i6u9jcX9pQDnswsaaOTgTmA5pEjuQ==
-
-fslightbox-react@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/fslightbox-react/-/fslightbox-react-1.5.0.tgz#07cf41d7ff8b02a79a0886d13519550b79dc50e5"
-  integrity sha512-xBe1K06pa3opWar/xBtArsHMnxMJWsmg5EmNdDtheDL9nMCqk2AXYlNnstfYVqtJJjqNReqeL21wc52Yy4rwWg==
 
 function-bind@^1.1.1:
   version "1.1.1"
