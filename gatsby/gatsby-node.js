@@ -4,6 +4,9 @@ const crypto = require('crypto')
 const { createRemoteFileNode } = require('gatsby-source-filesystem')
 const Bluebird = require('bluebird')
 
+// Set this to true to enable more logging in this file
+const DEBUG = false
+
 /**
  * Implement Gatsby's Node APIs in this file.
  *
@@ -13,11 +16,11 @@ const Bluebird = require('bluebird')
 // You can delete this file if you're not using it
 
 exports.onCreateNode = async ({ node, actions, getCache, createNodeId }) => {
-  const { createNode } = actions
+  const { createNode, createParentChildLink } = actions
   if (node.internal.type === 'OpenSourceIosAppsJson') {
     const { categories, projects } = node
 
-    const limit = process.env.NODE_ENV === 'development' ? 100 : 0
+    const limit = process.env.NODE_ENV === 'development' ? 10 : 0
     let count = 0
 
     categories.forEach(category => {
@@ -57,7 +60,7 @@ exports.onCreateNode = async ({ node, actions, getCache, createNodeId }) => {
         .digest(`hex`)
       const id = `Project__${contentDigest}`
 
-      const projectNode = await createNode({
+      const projectNode = {
         ...project,
         parent: node.id,
         id,
@@ -66,7 +69,8 @@ exports.onCreateNode = async ({ node, actions, getCache, createNodeId }) => {
           contentDigest,
           content: JSON.stringify(project),
         },
-      })
+      }
+      await createNode(projectNode)
 
       if (project.screenshots && project.screenshots.length > 0) {
         // In development, we want to limit how many images we download,
@@ -78,13 +82,23 @@ exports.onCreateNode = async ({ node, actions, getCache, createNodeId }) => {
 
         await Bluebird.each(project.screenshots, async url => {
           try {
-            await createRemoteFileNode({
+            const fileNode = await createRemoteFileNode({
               url,
-              parentNodeId: projectNode.id,
+              parentNodeId: id,
               getCache,
               createNode,
               createNodeId,
             })
+            if (DEBUG && process.env.NODE_ENV === 'development') {
+              console.log('SUCCESS createRemoteFileNode() #kOaKVj', {
+                nodeId: id,
+                url,
+                projectNode,
+                fileNode,
+              })
+            }
+            // NOTE: Without this, we cannot access this node as a child.
+            createParentChildLink({ parent: projectNode, child: fileNode })
           } catch (error) {
             console.error('Error creating remote node. #VvXNlr', error)
           }
