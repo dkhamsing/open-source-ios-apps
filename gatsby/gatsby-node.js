@@ -17,6 +17,7 @@ const isDev = process.env.NODE_ENV === 'development'
 
 exports.onCreateNode = async ({ node, actions }) => {
   const { createNode } = actions
+  if (DEBUG) console.error('onCreateNode #JB4YLV', node.internal)
   if (node.internal.type === 'OpenSourceIosAppsJson') {
     const { categories, projects } = node
 
@@ -48,7 +49,7 @@ exports.onCreateNode = async ({ node, actions }) => {
           content: JSON.stringify(category),
         },
       })
-      console.error('Created a project', category.id)
+      if (DEBUG) console.error('Created a project', category.id)
     })
 
     await Bluebird.each(projects, async project => {
@@ -69,7 +70,7 @@ exports.onCreateNode = async ({ node, actions }) => {
         },
       }
       await createNode(projectNode)
-      console.error('Created a project', project.id)
+      if (DEBUG) console.error('Created a project', project.id)
     })
   }
 }
