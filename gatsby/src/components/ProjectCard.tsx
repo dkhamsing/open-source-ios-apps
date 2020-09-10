@@ -95,6 +95,20 @@ const ProjectCard = ({ project }: { project: Project }) => {
           )}
         </Typography>
         <Typography>
+          License:{' '}
+          {project.license ? (
+            <a
+              href={`https://choosealicense.com/licenses/${project.license}/`}
+              target="_blank"
+              rel="noreferrer"
+            >
+              {project.license}
+            </a>
+          ) : (
+            'n/a'
+          )}
+        </Typography>
+        <Typography>
           iTunes:{' '}
           {project.itunes ? (
             <a href={project.itunes} target="_blank" rel="noreferrer">
