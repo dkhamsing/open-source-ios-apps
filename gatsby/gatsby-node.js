@@ -76,8 +76,9 @@ exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions
 
   const categoryTemplate = path.resolve('src/templates/category.tsx')
+  const tagTemplate = path.resolve('src/templates/tag.tsx')
 
-  const results = await graphql(`
+  const categoryResult = await graphql(`
     query Categories {
       allAppCategory {
         edges {
@@ -91,7 +92,7 @@ exports.createPages = async ({ actions, graphql }) => {
     }
   `)
 
-  const categories = results.data.allAppCategory.edges
+  const categories = categoryResult.data.allAppCategory.edges
 
   categories.forEach(({ node: category }) => {
     createPage({
@@ -100,6 +101,41 @@ exports.createPages = async ({ actions, graphql }) => {
       context: {
         id: category.id,
         slug: category.slug,
+      },
+    })
+  })
+
+  const projectResult = await graphql(`
+    query Projects {
+      allAppProject {
+        edges {
+          node {
+            id
+            tags
+          }
+        }
+      }
+    }
+  `)
+
+  const projects = projectResult.data.allAppProject.edges
+  const tags = new Set()
+
+  projects.forEach(({ node: project }) => {
+    if (project.tags && project.tags.length > 0) {
+      project.tags.forEach(tag => {
+        tags.add(tag)
+      })
+    }
+  })
+
+  tags.forEach(tag => {
+    createPage({
+      path: `/tag/${tag}/`,
+      component: tagTemplate,
+      context: {
+        tag,
+        slug: tag,
       },
     })
   })

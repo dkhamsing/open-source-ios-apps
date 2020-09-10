@@ -1,12 +1,5 @@
-import {
-  Button,
-  createStyles,
-  Grid,
-  makeStyles,
-  Theme,
-  Typography,
-} from '@material-ui/core'
-import { graphql, Link } from 'gatsby'
+import { createStyles, Grid, makeStyles, Theme } from '@material-ui/core'
+import { graphql } from 'gatsby'
 import React from 'react'
 import Hero from '../components/hero'
 import ProjectCard from '../components/ProjectCard'
@@ -35,27 +28,22 @@ type Props = {
       }[]
     }
   }
+  pageContext: {
+    tag: string
+    slug: string
+  }
 }
 
-const CategoryTemplate: React.FC<Props> = props => {
+const TagTemplate: React.FC<Props> = props => {
   const classes = useStyles()
 
-  const category = props.data.appCategory
   const projectEdges = props.data.allAppProject.edges
   const projects: Project[] = projectEdges.map(n => n.node)
 
   return (
     <>
       <SEO title="Home" />
-      <Hero
-        title={`Category: ${category.title}`}
-        description={category.description || ''}
-      ></Hero>
-      <Typography className={classes.backButton}>
-        <Button component={Link} to="/" variant="contained">
-          Back to category list
-        </Button>
-      </Typography>
+      <Hero title={`Tag: #${props.pageContext.tag}`} description=""></Hero>
       <div className={classes.wrapper}>
         <Grid container spacing={2}>
           {projects.map(project => {
@@ -71,18 +59,11 @@ const CategoryTemplate: React.FC<Props> = props => {
   )
 }
 
-export default CategoryTemplate
+export default TagTemplate
 
 export const pageQuery = graphql`
-  query CategoryPageQuery($slug: String!) {
-    appCategory(slug: { eq: $slug }) {
-      id
-      description
-      slug
-      title
-    }
-
-    allAppProject(filter: { category_ids: { eq: $slug } }) {
+  query TagPageQuery($slug: String!) {
+    allAppProject(filter: { tags: { eq: $slug } }) {
       edges {
         node {
           ...ProjectCardFields

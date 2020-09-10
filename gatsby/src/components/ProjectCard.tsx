@@ -10,6 +10,7 @@ import {
   Typography,
 } from '@material-ui/core'
 import Star from '@material-ui/icons/Star'
+import { graphql, Link } from 'gatsby'
 import React, { useState } from 'react'
 import Lightbox from 'react-image-lightbox'
 import 'react-image-lightbox/style.css'
@@ -21,6 +22,9 @@ const useStyles = makeStyles((theme: Theme) =>
       marginTop: theme.spacing(1),
       marginBottom: theme.spacing(1),
       fontSize: '1.2em',
+    },
+    tag: {
+      marginRight: theme.spacing(1),
     },
   }),
 )
@@ -64,6 +68,7 @@ const ProjectCard = ({ project }: { project: Project }) => {
 
   const showStarCount = starCountToIconCount(project.stars)
   const screenshotSources = project.screenshots || []
+  const tags = project.tags || []
 
   return (
     <Card>
@@ -108,6 +113,16 @@ const ProjectCard = ({ project }: { project: Project }) => {
           ) : (
             'n/a'
           )}
+        </Typography>
+        <Typography>
+          Tags:{' '}
+          {tags.map(tag => {
+            return (
+              <Link key={tag} to={`/tag/${tag}/`} className={classes.tag}>
+                #{tag}
+              </Link>
+            )
+          })}
         </Typography>
         {screenshotSources.length === 0 ? null : (
           <>
@@ -159,3 +174,22 @@ const ProjectCard = ({ project }: { project: Project }) => {
 }
 
 export default ProjectCard
+
+export const projectCardFragment = graphql`
+  fragment ProjectCardFields on AppProject {
+    category_ids
+    date_added
+    description
+    homepage
+    id
+    itunes
+    lang
+    license
+    screenshots
+    source
+    stars
+    suggested_by
+    tags
+    title
+  }
+`
