@@ -63,7 +63,7 @@ const ProjectCard = ({ project }: { project: Project }) => {
   const [lightboxSlide, setLightboxSlide] = useState(0)
 
   const showStarCount = starCountToIconCount(project.stars)
-  const sources = project.screenshots
+  const screenshotSources = project.screenshots || []
 
   return (
     <Card>
@@ -109,10 +109,10 @@ const ProjectCard = ({ project }: { project: Project }) => {
             'n/a'
           )}
         </Typography>
-        {project.screenshots.length === 0 ? null : (
+        {screenshotSources.length === 0 ? null : (
           <>
             <GridList cellHeight={160} cols={4}>
-              {project.screenshots.map((url, i) => {
+              {screenshotSources.map((url, i) => {
                 return (
                   <GridListTile key={i} cols={1}>
                     <a
@@ -133,18 +133,20 @@ const ProjectCard = ({ project }: { project: Project }) => {
             </GridList>
             {!isLightboxOpen ? null : (
               <Lightbox
-                mainSrc={sources[lightboxSlide]}
-                nextSrc={sources[lightboxSlide + 1]}
-                prevSrc={sources[lightboxSlide - 1]}
+                mainSrc={screenshotSources[lightboxSlide]}
+                nextSrc={screenshotSources[lightboxSlide + 1]}
+                prevSrc={screenshotSources[lightboxSlide - 1]}
                 onCloseRequest={() => setIsLightboxOpen(false)}
                 onMoveNextRequest={() => {
                   setLightboxSlide(
-                    (lightboxSlide + sources.length + 1) % sources.length,
+                    (lightboxSlide + screenshotSources.length + 1) %
+                      screenshotSources.length,
                   )
                 }}
                 onMovePrevRequest={() => {
                   setLightboxSlide(
-                    (lightboxSlide + sources.length - 1) % sources.length,
+                    (lightboxSlide + screenshotSources.length - 1) %
+                      screenshotSources.length,
                   )
                 }}
               />
