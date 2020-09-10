@@ -48,6 +48,7 @@ exports.onCreateNode = async ({ node, actions }) => {
           content: JSON.stringify(category),
         },
       })
+      console.error('Created a project', category.id)
     })
 
     await Bluebird.each(projects, async project => {
@@ -68,6 +69,7 @@ exports.onCreateNode = async ({ node, actions }) => {
         },
       }
       await createNode(projectNode)
+      console.error('Created a project', project.id)
     })
   }
 }
