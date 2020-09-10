@@ -20,7 +20,7 @@ exports.onCreateNode = async ({ node, actions }) => {
   if (node.internal.type === 'OpenSourceIosAppsJson') {
     const { categories, projects } = node
 
-    categories.forEach(category => {
+    await Bluebird.each(categories, async category => {
       if (typeof category.id !== 'string' || category.id.length < 1) {
         console.error('Invalid category #veJYyW', category)
         return
@@ -32,7 +32,7 @@ exports.onCreateNode = async ({ node, actions }) => {
         project['category-ids'].includes(category.id),
       ).length
 
-      createNode({
+      await createNode({
         ...category,
         slug: category.id,
         parentSlug: category.parent,
