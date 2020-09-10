@@ -2,7 +2,6 @@
 const path = require('path')
 const crypto = require('crypto')
 const Bluebird = require('bluebird')
-const util = require('util')
 
 // Set this to true to enable more logging in this file
 const DEBUG = true
@@ -124,7 +123,7 @@ exports.createPages = async ({ actions, graphql, getNodesByType }) => {
       }
     `)
 
-    console.error('File nodes #bIMtXP', util.inspect(debugResult.data))
+    console.error('File nodes #bIMtXP', JSON.stringify(debugResult.data))
   }
 
   const categoryTemplate = path.resolve('src/templates/category.tsx')
