@@ -5,7 +5,7 @@ const Bluebird = require('bluebird')
 const util = require('util')
 
 // Set this to true to enable more logging in this file
-const DEBUG = true
+const DEBUG = false
 const isDev = process.env.NODE_ENV === 'development'
 
 const jsonTypeName = `jsonFile`
