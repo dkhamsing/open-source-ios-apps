@@ -25,9 +25,6 @@
     "lint:typescript": "tsc",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
-  "resolutions": {
-    "sharp":"0.24.0"
-  },
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
