@@ -11,7 +11,7 @@ const makeTheme = (variant: ThemeOptions): Theme => {
   const common = {
     palette: {
       primary: {
-        main: '#542c85',
+        main: '#3E3F3A',
       },
       secondary: {
         main: '#19857b',
