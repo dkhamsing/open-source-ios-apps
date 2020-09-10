@@ -21,11 +21,6 @@ export interface HeaderProps {
 
 const Header: FC<HeaderProps> = ({ siteTitle = '' }) => {
   const classes = useStyles()
-  const dispatch = useDispatch()
-
-  const handleToggleTheme = () => {
-    dispatch(toggleTheme())
-  }
 
   console.log('mount header')
 
@@ -42,8 +37,14 @@ const Header: FC<HeaderProps> = ({ siteTitle = '' }) => {
             {siteTitle}
           </Link>
         </Typography>
-        <Button color="inherit" onClick={handleToggleTheme}>
-          Toggle Theme
+        <Button
+          color="inherit"
+          component="a"
+          href="https://github.com/dkhamsing/open-source-ios-apps"
+          target="_blank"
+          rel="noreferrer"
+        >
+          GitHub
         </Button>
       </Toolbar>
     </AppBar>
