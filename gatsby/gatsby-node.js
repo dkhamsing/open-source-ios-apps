@@ -95,7 +95,35 @@ exports.createPages = async ({ actions, graphql, getNodesByType }) => {
   if (DEBUG) {
     const jsonNodes = getNodesByType(`OpenSourceIosAppsJson`)
     const fileNodes = getNodesByType(`File`)
-    console.error('sourceNodes #IMKm8p', jsonNodes.length, fileNodes.length)
+    console.error(
+      'START createPages() #IMKm8p',
+      jsonNodes.length,
+      fileNodes.length,
+    )
+
+    const debugResult = await graphql(`
+      query Debugging {
+        allFile {
+          edges {
+            node {
+              id
+              internal {
+                type
+              }
+              relativePath
+              children {
+                id
+                internal {
+                  type
+                }
+              }
+            }
+          }
+        }
+      }
+    `)
+
+    console.error('File nodes #bIMtXP', debugResult.data)
   }
 
   const categoryTemplate = path.resolve('src/templates/category.tsx')
