@@ -1,0 +1,9 @@
+[[plugins]]
+  package = "netlify-plugin-gatsby-cache"
+
+[build.environment]
+  SHARP_IGNORE_GLOBAL_LIBVIPS="true"
+
+[build]
+  publish = "public/"
+  command = "yarn run build"
