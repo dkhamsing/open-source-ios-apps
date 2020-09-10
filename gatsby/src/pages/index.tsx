@@ -54,7 +54,7 @@ const CategoryItem = ({
             to={`/category/${category.slug}/`}
             className={classes.button}
           >
-            Browse {category.title}.
+            Browse {category.title}
           </Button>
 
           {childCategories.length === 0 ? null : (
