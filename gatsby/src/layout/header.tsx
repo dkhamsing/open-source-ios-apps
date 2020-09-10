@@ -1,9 +1,7 @@
+import { AppBar, Button, Link, Toolbar, Typography } from '@material-ui/core'
+import { makeStyles } from '@material-ui/styles'
 import { Link as GatsbyLink } from 'gatsby'
 import React, { FC } from 'react'
-import { AppBar, Toolbar, Typography, Link, Button } from '@material-ui/core'
-import { makeStyles } from '@material-ui/styles'
-import { useDispatch } from 'react-redux'
-import { toggleTheme } from '../redux/appModule'
 
 const useStyles = makeStyles({
   toolbar: {},
@@ -21,8 +19,6 @@ export interface HeaderProps {
 
 const Header: FC<HeaderProps> = ({ siteTitle = '' }) => {
   const classes = useStyles()
-
-  console.log('mount header')
 
   return (
     <AppBar component="header" position="static">
