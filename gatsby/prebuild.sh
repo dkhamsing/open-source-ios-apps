@@ -10,5 +10,5 @@ fi
 cd ../../open-source-ios-apps
 if ! [[ -f contents.json ]]
 then
-  wget "https://github.com/dkhamsing/open-source-ios-apps/raw/master/contents.json"
+  wget "https://github.com/chmac/open-source-ios-apps/raw/removing-problematic-images/contents.json"
 fi
