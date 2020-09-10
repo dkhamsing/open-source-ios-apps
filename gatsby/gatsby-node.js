@@ -4,7 +4,7 @@ const crypto = require('crypto')
 const Bluebird = require('bluebird')
 
 // Set this to true to enable more logging in this file
-const DEBUG = false
+const DEBUG = true
 const isDev = process.env.NODE_ENV === 'development'
 
 /**
