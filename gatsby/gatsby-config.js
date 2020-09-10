@@ -30,7 +30,12 @@ module.exports = {
         display: `minimal-ui`,
       },
     },
-    `gatsby-transformer-json`,
+    {
+      resolve: `gatsby-transformer-json`,
+      options: {
+        typeName: `jsonFile`,
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {

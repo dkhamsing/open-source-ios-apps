@@ -2,10 +2,13 @@
 const path = require('path')
 const crypto = require('crypto')
 const Bluebird = require('bluebird')
+const util = require('util')
 
 // Set this to true to enable more logging in this file
 const DEBUG = true
 const isDev = process.env.NODE_ENV === 'development'
+
+const jsonTypeName = `jsonFile`
 
 /**
  * Implement Gatsby's Node APIs in this file.
@@ -18,10 +21,10 @@ const isDev = process.env.NODE_ENV === 'development'
 exports.onCreateNode = async ({ node, actions }) => {
   const { createNode } = actions
 
-  if (node.internal.type === 'OpenSourceIosAppsJson') {
+  if (node.internal.type === jsonTypeName) {
     const { categories, projects } = node
 
-    if (DEBUG) console.error('Found the OpenSourceIosAppsJson node #QE5PnL')
+    if (DEBUG) console.error('Found the json node #QE5PnL')
 
     let createdCategoryCount = 0
     let createdProjectCount = 0
@@ -93,7 +96,7 @@ exports.createPages = async ({ actions, graphql, getNodesByType }) => {
   const { createPage } = actions
 
   if (DEBUG) {
-    const jsonNodes = getNodesByType(`OpenSourceIosAppsJson`)
+    const jsonNodes = getNodesByType(jsonTypeName)
     const fileNodes = getNodesByType(`File`)
     console.error(
       'START createPages() #IMKm8p',
@@ -123,7 +126,10 @@ exports.createPages = async ({ actions, graphql, getNodesByType }) => {
       }
     `)
 
-    console.error('File nodes #bIMtXP', JSON.stringify(debugResult.data))
+    console.error(
+      'File nodes #bIMtXP',
+      util.inspect(debugResult.data, { depth: null }),
+    )
   }
 
   const categoryTemplate = path.resolve('src/templates/category.tsx')
