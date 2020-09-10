@@ -40,11 +40,12 @@ module.exports = {
         // root of the repo
         ignore: [
           `**/.*`,
+          `**/.*/**`,
           `**/gatsby/**`,
           `**/*.md`,
           `**/*.toml`,
-          `LICENSE`,
-          `Dangerfile`,
+          `**/LICENSE`,
+          `**/Dangerfile`,
         ],
       },
     },
