@@ -4,7 +4,7 @@ const join = require('path').join
 module.exports = {
   pathPrefix: '/open-source-ios/',
   siteMetadata: {
-    title: `Open Source iOS Apps`,
+    title: `Open-Source iOS Apps`,
     description: `A collaborative list of open-source iOS, watchOS and tvOS apps.`,
   },
   plugins: [

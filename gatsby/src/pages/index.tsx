@@ -115,8 +115,8 @@ const IndexPage: FC<IndexPageProps> = props => {
     <>
       <SEO title="Home" />
       <Hero
-        title="Open Source iOS Apps"
-        description={`A community curated set of ${projectCount} open source iOS apps.`}
+        title="Open-Source iOS Apps"
+        description={`A community curated set of ${projectCount} open-source iOS apps.`}
       />
       <div className={classes.wrapper}>
         <Grid container spacing={2}>
