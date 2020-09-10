@@ -32,7 +32,7 @@ type CategoryProps = {
     allAppProject: {
       edges: {
         node: Project
-      }
+      }[]
     }
   }
 }
