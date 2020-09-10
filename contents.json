@@ -23204,6 +23204,23 @@
        "stars": 5500,
        "date_added": "Sep 9 2020",
        "suggested_by": "dkhamsing"
+     },
+     {
+       "title": "buttoncraft",
+       "description": "Craft that perfect button style",
+       "category-ids": [
+         "swiftui"
+       ],
+       "source": "https://github.com/atrinh0/buttoncraft",
+       "screenshots":["https://github.com/atrinh0/buttoncraft/raw/master/images/demo.gif"],
+       "license": "other",
+       "tags": [
+         "swift",
+         "swiftui"
+       ],
+       "stars": 45,
+       "date_added": "Sep 10 2020",
+       "suggested_by": "dkhamsing"
      }
   ]
 }
