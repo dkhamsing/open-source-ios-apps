@@ -6,4 +6,4 @@
 
 [build]
   publish = "public/"
-  command = "yarn run build"
+  command = "head -n 2 ../contents.json && yarn run build"
