@@ -6,13 +6,6 @@ module.exports = {
   siteMetadata: {
     title: `Open Source iOS Apps`,
     description: `A collaborative list of open-source iOS, watchOS and tvOS apps.`,
-    author: {
-      name: 'Callum Macdonald',
-      content: 'I only built the web site, not the data',
-    },
-    social: {
-      github: 'https://github.com/Junscuzzy',
-    },
   },
   plugins: [
     `gatsby-plugin-typescript`,
@@ -29,13 +22,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `open-source-ios-apps`,
+        short_name: `os-ios-apps`,
         start_url: `/`,
         background_color: `#663399`,
-        theme_color: `#663399`,
+        theme_color: `#3E3F3A`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-transformer-json`,

@@ -41,9 +41,6 @@ const SEO: FC<SEOProps> = ({
           siteMetadata {
             title
             description
-            author {
-              name
-            }
           }
         }
       }
@@ -79,10 +76,6 @@ const SEO: FC<SEOProps> = ({
         {
           name: `twitter:card`,
           content: `summary`,
-        },
-        {
-          name: `twitter:creator`,
-          content: site.siteMetadata.author.name,
         },
         {
           name: `twitter:title`,
