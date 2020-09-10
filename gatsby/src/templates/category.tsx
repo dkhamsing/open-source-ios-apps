@@ -26,7 +26,7 @@ const useStyles = makeStyles((theme: Theme) =>
   }),
 )
 
-type CategoryProps = {
+type Props = {
   data: {
     appCategory: Category
     allAppProject: {
@@ -37,7 +37,7 @@ type CategoryProps = {
   }
 }
 
-const CategoryItem: React.FC<CategoryProps> = props => {
+const CategoryTemplate: React.FC<Props> = props => {
   const classes = useStyles()
 
   const category = props.data.appCategory
@@ -71,7 +71,7 @@ const CategoryItem: React.FC<CategoryProps> = props => {
   )
 }
 
-export default CategoryItem
+export default CategoryTemplate
 
 export const pageQuery = graphql`
   query CategoryPageQuery($slug: String!) {
