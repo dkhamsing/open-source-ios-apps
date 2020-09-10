@@ -13,9 +13,9 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "NODE_ENV=production ./prebuild.sh && gatsby build",
+    "build": "NODE_ENV=production gatsby build",
     "develop": "gatsby develop",
-    "deploy": "yarn build --prefix-paths && yarn gh-pages -d public",
+    "deploy-gh": "yarn build --prefix-paths && yarn gh-pages -d public",
     "start": "yarn develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",

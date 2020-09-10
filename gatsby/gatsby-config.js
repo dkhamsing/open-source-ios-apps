@@ -35,8 +35,17 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `apps`,
-        path: join(__dirname, `../../open-source-ios-apps/`),
-        ignore: [`**/\.*`],
+        path: join(__dirname, `../`),
+        // This aims to ignore everything EXCEPT the `contents.json` file at the
+        // root of the repo
+        ignore: [
+          `**/.*`,
+          `**/gatsby/**`,
+          `**/*.md`,
+          `**/*.toml`,
+          `LICENSE`,
+          `Dangerfile`,
+        ],
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
