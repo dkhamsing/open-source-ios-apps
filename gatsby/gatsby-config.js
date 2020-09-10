@@ -30,7 +30,15 @@ module.exports = {
         display: `minimal-ui`,
       },
     },
-    `gatsby-transformer-json`,
+    {
+      resolve: `gatsby-transformer-json`,
+      options: {
+        // NOTE: Without this setting, the JSON types are named based on the
+        // folder name. In the case of `content.json`, that depends on what the
+        // directory name of the repo is. In netlify's case, that's `repo`.
+        typeName: `jsonFile`,
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {

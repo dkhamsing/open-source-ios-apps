@@ -2,10 +2,13 @@
 const path = require('path')
 const crypto = require('crypto')
 const Bluebird = require('bluebird')
+const util = require('util')
 
 // Set this to true to enable more logging in this file
 const DEBUG = false
 const isDev = process.env.NODE_ENV === 'development'
+
+const jsonTypeName = `jsonFile`
 
 /**
  * Implement Gatsby's Node APIs in this file.
@@ -17,10 +20,16 @@ const isDev = process.env.NODE_ENV === 'development'
 
 exports.onCreateNode = async ({ node, actions }) => {
   const { createNode } = actions
-  if (node.internal.type === 'OpenSourceIosAppsJson') {
+
+  if (node.internal.type === jsonTypeName) {
     const { categories, projects } = node
 
-    categories.forEach(category => {
+    if (DEBUG) console.error('Found the json node #QE5PnL')
+
+    let createdCategoryCount = 0
+    let createdProjectCount = 0
+
+    await Bluebird.each(categories, async category => {
       if (typeof category.id !== 'string' || category.id.length < 1) {
         console.error('Invalid category #veJYyW', category)
         return
@@ -32,7 +41,7 @@ exports.onCreateNode = async ({ node, actions }) => {
         project['category-ids'].includes(category.id),
       ).length
 
-      createNode({
+      await createNode({
         ...category,
         slug: category.id,
         parentSlug: category.parent,
@@ -48,6 +57,8 @@ exports.onCreateNode = async ({ node, actions }) => {
           content: JSON.stringify(category),
         },
       })
+
+      createdCategoryCount++
     })
 
     await Bluebird.each(projects, async project => {
@@ -67,13 +78,59 @@ exports.onCreateNode = async ({ node, actions }) => {
           content: JSON.stringify(project),
         },
       }
+
       await createNode(projectNode)
+
+      createdProjectCount++
     })
+
+    console.error(
+      'Created counts #WVIeFH',
+      createdCategoryCount,
+      createdProjectCount,
+    )
   }
 }
 
-exports.createPages = async ({ actions, graphql }) => {
+exports.createPages = async ({ actions, graphql, getNodesByType }) => {
   const { createPage } = actions
+
+  if (DEBUG) {
+    const jsonNodes = getNodesByType(jsonTypeName)
+    const fileNodes = getNodesByType(`File`)
+    console.error(
+      'START createPages() #IMKm8p',
+      jsonNodes.length,
+      fileNodes.length,
+    )
+
+    const debugResult = await graphql(`
+      query Debugging {
+        allFile {
+          edges {
+            node {
+              id
+              internal {
+                type
+              }
+              relativePath
+              children {
+                id
+                internal {
+                  type
+                }
+              }
+            }
+          }
+        }
+      }
+    `)
+
+    console.error(
+      'File nodes #bIMtXP',
+      util.inspect(debugResult.data, { depth: null }),
+    )
+  }
 
   const categoryTemplate = path.resolve('src/templates/category.tsx')
   const tagTemplate = path.resolve('src/templates/tag.tsx')
