@@ -16,9 +16,11 @@ const isDev = process.env.NODE_ENV === 'development'
 // You can delete this file if you're not using it
 
 exports.sourceNodes = async ({ getNodesByType }) => {
-  const jsonNodes = getNodesByType(`OpenSourceIosAppsJson`)
-  const fileNodes = getNodesByType(`File`)
-  console.error('sourceNodes #IMKm8p', jsonNodes.length, fileNodes.length)
+  if (DEBUG) {
+    const jsonNodes = getNodesByType(`OpenSourceIosAppsJson`)
+    const fileNodes = getNodesByType(`File`)
+    console.error('sourceNodes #IMKm8p', jsonNodes.length, fileNodes.length)
+  }
 }
 
 exports.onCreateNode = async ({ node, actions }) => {
