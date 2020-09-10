@@ -1,7 +1,6 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 const path = require('path')
 const crypto = require('crypto')
-const { createRemoteFileNode } = require('gatsby-source-filesystem')
 const Bluebird = require('bluebird')
 
 // Set this to true to enable more logging in this file
@@ -16,13 +15,10 @@ const isDev = process.env.NODE_ENV === 'development'
 
 // You can delete this file if you're not using it
 
-exports.onCreateNode = async ({ node, actions, getCache, createNodeId }) => {
-  const { createNode, createParentChildLink } = actions
+exports.onCreateNode = async ({ node, actions }) => {
+  const { createNode } = actions
   if (node.internal.type === 'OpenSourceIosAppsJson') {
     const { categories, projects } = node
-
-    const limit = isDev ? 10 : 0
-    let count = 0
 
     categories.forEach(category => {
       if (typeof category.id !== 'string' || category.id.length < 1) {
@@ -72,39 +68,6 @@ exports.onCreateNode = async ({ node, actions, getCache, createNodeId }) => {
         },
       }
       await createNode(projectNode)
-
-      if (project.screenshots && project.screenshots.length > 0) {
-        // In development, we want to limit how many images we download,
-        // otherwise it takes forever and uses >800MB of disk space.
-        if (limit > 0 && count > limit) {
-          return
-        }
-        count = count + project.screenshots.length
-
-        await Bluebird.each(project.screenshots, async url => {
-          try {
-            const fileNode = await createRemoteFileNode({
-              url,
-              parentNodeId: id,
-              getCache,
-              createNode,
-              createNodeId,
-            })
-            if (DEBUG && isDev) {
-              console.log('SUCCESS createRemoteFileNode() #kOaKVj', {
-                nodeId: id,
-                url,
-                projectNode,
-                fileNode,
-              })
-            }
-            // NOTE: Without this, we cannot access this node as a child.
-            createParentChildLink({ parent: projectNode, child: fileNode })
-          } catch (error) {
-            console.error('Error creating remote node. #VvXNlr', error)
-          }
-        })
-      }
     })
   }
 }

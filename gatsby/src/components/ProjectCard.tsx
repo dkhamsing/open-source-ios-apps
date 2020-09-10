@@ -10,7 +10,6 @@ import {
   Typography,
 } from '@material-ui/core'
 import Star from '@material-ui/icons/Star'
-import Img from 'gatsby-image'
 import React, { useState } from 'react'
 import Lightbox from 'react-image-lightbox'
 import 'react-image-lightbox/style.css'
@@ -64,11 +63,7 @@ const ProjectCard = ({ project }: { project: Project }) => {
   const [lightboxSlide, setLightboxSlide] = useState(0)
 
   const showStarCount = starCountToIconCount(project.stars)
-  const sources = project.children.map(
-    child =>
-      (child.childImageSharp && child.childImageSharp.original.src) ||
-      child.publicURL,
-  )
+  const sources = project.screenshots
 
   return (
     <Card>
@@ -114,14 +109,14 @@ const ProjectCard = ({ project }: { project: Project }) => {
             'n/a'
           )}
         </Typography>
-        {project.children.length === 0 ? null : (
+        {project.screenshots.length === 0 ? null : (
           <>
             <GridList cellHeight={160} cols={4}>
-              {project.children.map((screenshot, i) => {
+              {project.screenshots.map((url, i) => {
                 return (
                   <GridListTile key={i} cols={1}>
                     <a
-                      href={screenshot.url || undefined}
+                      href={url}
                       target="_blank"
                       rel="noreferrer"
                       onClick={event => {
@@ -130,15 +125,7 @@ const ProjectCard = ({ project }: { project: Project }) => {
                         setIsLightboxOpen(true)
                       }}
                     >
-                      {screenshot.childImageSharp ? (
-                        <Img fixed={screenshot.childImageSharp.thumbnail} />
-                      ) : (
-                        <img
-                          src={screenshot.publicURL}
-                          width="120"
-                          height="160"
-                        />
-                      )}
+                      <img src={url} width="120" height="160" />
                     </a>
                   </GridListTile>
                 )
