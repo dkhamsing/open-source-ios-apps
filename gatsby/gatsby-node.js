@@ -15,14 +15,6 @@ const isDev = process.env.NODE_ENV === 'development'
 
 // You can delete this file if you're not using it
 
-exports.sourceNodes = async ({ getNodesByType }) => {
-  if (DEBUG) {
-    const jsonNodes = getNodesByType(`OpenSourceIosAppsJson`)
-    const fileNodes = getNodesByType(`File`)
-    console.error('sourceNodes #IMKm8p', jsonNodes.length, fileNodes.length)
-  }
-}
-
 exports.onCreateNode = async ({ node, actions }) => {
   const { createNode } = actions
 
@@ -97,8 +89,14 @@ exports.onCreateNode = async ({ node, actions }) => {
   }
 }
 
-exports.createPages = async ({ actions, graphql }) => {
+exports.createPages = async ({ actions, graphql, getNodesByType }) => {
   const { createPage } = actions
+
+  if (DEBUG) {
+    const jsonNodes = getNodesByType(`OpenSourceIosAppsJson`)
+    const fileNodes = getNodesByType(`File`)
+    console.error('sourceNodes #IMKm8p', jsonNodes.length, fileNodes.length)
+  }
 
   const categoryTemplate = path.resolve('src/templates/category.tsx')
   const tagTemplate = path.resolve('src/templates/tag.tsx')
