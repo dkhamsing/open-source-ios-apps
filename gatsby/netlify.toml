@@ -1,0 +1,6 @@
+[[plugins]]
+  package = "netlify-plugin-gatsby-cache"
+
+[build]
+  publish = "public/"
+  command = "head -n 2 ../contents.json && yarn run build"

@@ -1,0 +1,76 @@
+{
+  "name": "gatsby-material-typescript-starter",
+  "private": true,
+  "description": "A simple starter using Typescript & Material-ui",
+  "version": "0.1.0",
+  "author": "Julien CARON <juliencaron@protonmail.com>",
+  "keywords": [
+    "gatsby",
+    "typescript",
+    "eslint",
+    "prettier",
+    "material-ui"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "NODE_ENV=production gatsby build",
+    "develop": "gatsby develop",
+    "deploy-gh": "yarn build --prefix-paths && yarn gh-pages -d public",
+    "start": "yarn develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "lint": "run-p lint:**",
+    "lint:prettier": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "lint:eslint": "eslint 'src/**/*.{ts,tsx}'",
+    "lint:typescript": "tsc",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/styles": "^4.10.0",
+    "@reduxjs/toolkit": "^1.4.0",
+    "bluebird": "^3.7.2",
+    "deepmerge": "^4.2.2",
+    "gatsby": "^2.24.56",
+    "gatsby-plugin-manifest": "^2.4.28",
+    "gatsby-plugin-material-ui": "^2.1.10",
+    "gatsby-plugin-offline": "^3.2.27",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "gatsby-plugin-typescript": "^2.4.19",
+    "gatsby-source-filesystem": "^2.3.29",
+    "gatsby-transformer-json": "^2.4.11",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0",
+    "react-image-lightbox": "^5.1.1",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "^14.6.4",
+    "@types/react": "^16.9.49",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-helmet": "^6.1.0",
+    "@types/react-redux": "^7.1.9",
+    "@types/redux": "^3.6.0",
+    "@typescript-eslint/eslint-plugin": "^4.1.0",
+    "@typescript-eslint/parser": "^4.1.0",
+    "eslint": "^7.8.1",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.1.0",
+    "gh-pages": "^3.1.0",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.1.1",
+    "typescript": "^4.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Junscuzzy/gatsby-material-typescript-starter"
+  },
+  "bugs": {
+    "url": "https://github.com/Junscuzzy/gatsby-material-typescript-starter/issues"
+  }
+}
