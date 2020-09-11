@@ -4,9 +4,9 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://dkhamsing.github.io/open-source-ios-apps/)) :smile:
+A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1165-green.svg) ![](https://img.shields.io/badge/Updated-September%2010,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1166-green.svg) ![](https://img.shields.io/badge/Updated-September%2011,%202020-lightgrey.svg)
 
 Jump to
 
@@ -375,7 +375,7 @@ Click ► to show more details
 	<summary><code>swift</code> <code>apple-watch</code> </summary>
 
 	http://www.nightscout.info/<br>  Added June 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-1.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-2.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-3.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-4.jpg'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-5.jpg'><code>Screenshot 5</code></a> 
+	<a href='https://github.com/nightscout/nightguard/raw/master/images/nightguard24.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Parties for WWDC](https://github.com/genadyo/WWDC)  
@@ -3198,7 +3198,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<summary><code>swift</code> <code>apple-watch</code> </summary>
 
 	http://www.nightscout.info/<br>  Added June 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-1.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-2.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-3.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-4.jpg'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/nightscout/nightguard/master/images/ng55-5.jpg'><code>Screenshot 5</code></a> 
+	<a href='https://github.com/nightscout/nightguard/raw/master/images/nightguard24.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-ios): Scan food products barcode to see if they are good for you and the planet [` App Store`](https://apps.apple.com/app/open-food-facts/id588797948)  
@@ -7765,6 +7765,14 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>swiftui</code> <code>core-data</code> </summary>
 
 	Added August 14, 2020<br>  License: `other`
+  </details>
+
+- [buttoncraft](https://github.com/atrinh0/buttoncraft): Craft that perfect button style  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added September 10, 2020<br>  License: `other`<br>
+	<a href='https://github.com/atrinh0/buttoncraft/raw/master/images/demo.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [CarBode barcode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI)  
