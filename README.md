@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1166-green.svg) ![](https://img.shields.io/badge/Updated-September%2011,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1167-green.svg) ![](https://img.shields.io/badge/Updated-September%2012,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7781,6 +7781,13 @@ https://realm.io/ — [back to top](#readme)
 
 	Added July 31, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/heart/CarBode-Barcode-Scanner-For-SwiftUI/master/logo/scan.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Chat](https://github.com/niazoff/Chat): Leverages URLSessionWebSocketTask  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> <code>mvvm</code> </summary>
+
+	Added September 11, 2020<br>  License: `other`
   </details>
 
 - [Corona Virus Tracker & Advice](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)  
