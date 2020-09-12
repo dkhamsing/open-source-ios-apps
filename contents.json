@@ -23217,6 +23217,23 @@
        "stars": 45,
        "date_added": "Sep 10 2020",
        "suggested_by": "dkhamsing"
+     },
+     {
+       "title": "Chat",
+       "description": "Leverages URLSessionWebSocketTask",
+       "category-ids": [
+         "swiftui"
+       ],
+       "source": "https://github.com/niazoff/Chat",
+       "license": "other",
+       "tags": [
+         "swift",
+         "swiftui",
+         "combine",
+         "mvvm"
+       ],
+       "date_added": "Sep 11 2020",
+       "suggested_by": "dkhamsing"
      }
   ]
 }
