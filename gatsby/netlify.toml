@@ -2,5 +2,6 @@
   package = "netlify-plugin-gatsby-cache"
 
 [build]
+  ignore = "git diff —quiet HEAD^ HEAD . ../contents.json"
   publish = "public/"
   command = "head -n 2 ../contents.json && yarn run build"
