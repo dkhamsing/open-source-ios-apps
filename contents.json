@@ -23234,6 +23234,25 @@
        ],
        "date_added": "Sep 11 2020",
        "suggested_by": "dkhamsing"
+     },
+     {
+       "title": "CCC",
+       "description": "Currency Converter & Calculator",
+       "category-ids": [
+         "swiftui"
+       ],
+       "source": "https://github.com/CurrencyConverterCalculator/iosCCC",
+       "screenshots": ["https://github.com/CurrencyConverterCalculator/iosCCC/raw/master/dark.gif"],
+       "license": "apache-2.0",
+       "tags": [
+         "swift",
+         "swiftui",
+         "combine",
+         "mvvm",
+         "core-data"
+       ],
+       "date_added": "Sep 12 2020",
+       "suggested_by": "dkhamsing"
      }
   ]
 }
