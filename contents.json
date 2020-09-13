@@ -23253,6 +23253,22 @@
        ],
        "date_added": "Sep 12 2020",
        "suggested_by": "dkhamsing"
+     },
+     {
+       "title": "Xylophone",
+       "category-ids": [
+         "audio"
+       ],
+       "description": "Play sounds",
+       "source": "https://github.com/appbrewery/Xylophone-iOS13",
+       "tags": [
+         "swift",
+         "avfoundation",
+         "avaudioplayer"
+       ],
+       "license": "other",
+       "date_added": "Sep 13 2020",
+       "suggested_by": "@dkhamsing"
      }
   ]
 }
