@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1168-green.svg) ![](https://img.shields.io/badge/Updated-September%2013,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1169-green.svg) ![](https://img.shields.io/badge/Updated-September%2014,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4051,6 +4051,13 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added April  1, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/MoZhouqi/VoiceMemos/master/Screenshots/recording.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Xylophone](https://github.com/appbrewery/Xylophone-iOS13): Play sounds  
+  <details>
+	<summary><code>swift</code> <code>avfoundation</code> <code>avaudioplayer</code> </summary>
+
+	Added September 13, 2020<br>  License: `other`
   </details>
 
 - [YouTag](https://github.com/youstanzr/YouTag): Music player that downloads from the internet, even YouTube  
