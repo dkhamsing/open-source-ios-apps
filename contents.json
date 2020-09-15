@@ -23269,6 +23269,24 @@
        "license": "other",
        "date_added": "Sep 13 2020",
        "suggested_by": "@dkhamsing"
+     },
+     {
+       "title": "SwiftStrike",
+       "description": "Sample code by Apple",
+       "category-ids": [
+         "sample"
+       ],
+       "source": "https://developer.apple.com/documentation/realitykit/swiftstrike_creating_a_game_with_realitykit",
+       "screenshots": ["https://twitter.com/oscarfalmer/status/1304457111318003714"],
+       "tags": [
+         "swift",
+         "ios14",
+         "realitykit",
+         "game"
+       ],
+       "license": "other",
+       "date_added": "Sep 14 2020",
+       "suggested_by": "@dkhamsing"
      }
   ]
 }
