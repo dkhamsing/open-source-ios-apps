@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1169-green.svg) ![](https://img.shields.io/badge/Updated-September%2014,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1170-green.svg) ![](https://img.shields.io/badge/Updated-September%2015,%202020-lightgrey.svg)
 
 Jump to
 
@@ -5614,6 +5614,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> 🌐 ⭐⭐⭐⭐⭐</summary>
 
 	Added April 22, 2016<br>  License: `other`
+  </details>
+
+- [SwiftStrike](https://developer.apple.com/documentation/realitykit/swiftstrike_creating_a_game_with_realitykit): Sample code by Apple  
+  <details>
+	<summary><code>swift</code> <code>ios14</code> <code>realitykit</code> <code>game</code> </summary>
+
+	Added September 14, 2020<br>  License: `other`<br>
+	<a href='https://twitter.com/oscarfalmer/status/1304457111318003714'><code>Screenshot 1</code></a> 
   </details>
 
 - [TicTacToe](https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe): Demonstrate how to build a full, moderately complex application in the Composable Architecture  
