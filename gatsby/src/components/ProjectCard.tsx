@@ -109,7 +109,7 @@ const ProjectCard = ({ project }: { project: Project }) => {
           )}
         </Typography>
         <Typography>
-          iTunes:{' '}
+          App Store:{' '}
           {project.itunes ? (
             <a href={project.itunes} target="_blank" rel="noreferrer">
               {project.itunes}
