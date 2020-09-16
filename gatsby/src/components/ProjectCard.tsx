@@ -81,8 +81,8 @@ const ProjectCard = ({ project }: { project: Project }) => {
           {project.description}
         </Typography>
         <Divider />
-        <Typography>Lang: {project.lang || 'en'}</Typography>
-        <Typography>Added: {project.date_added}</Typography>
+        <Typography>Language: {project.lang || 'en'}</Typography>
+        <Typography>Added: {project.date_added || 'n/a'}</Typography>
         <Typography>GitHub Stars: {project.stars}</Typography>
         <Typography>
           Code:{' '}
@@ -109,7 +109,7 @@ const ProjectCard = ({ project }: { project: Project }) => {
           )}
         </Typography>
         <Typography>
-          iTunes:{' '}
+          App Store:{' '}
           {project.itunes ? (
             <a href={project.itunes} target="_blank" rel="noreferrer">
               {project.itunes}
