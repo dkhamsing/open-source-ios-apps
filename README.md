@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1170-green.svg) ![](https://img.shields.io/badge/Updated-September%2015,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1170-green.svg) ![](https://img.shields.io/badge/Updated-September%2016,%202020-lightgrey.svg)
 
 Jump to
 
@@ -520,10 +520,10 @@ Click ► to show more details
 
 - [Ghostery Privacy Browser](https://github.com/ghostery/browser-ios): Private, fast, tracker / ad-free mobile browsing [` App Store`](https://apps.apple.com/app/ghostery/id472789016)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> <code>ipad</code> </summary>
 
-	https://www.ghostery.com/mobile/<br>  Added August 21, 2019<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
-	<a href='https://www.ghostery.com/wp-content/themes/ghostery/images/campaigns/mobile-landing-page/group-7@2x.png'><code>Screenshot 1</code></a> 
+	Added August 21, 2019<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
+	<a href='https://i.imgur.com/escGoB8.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Onion Browser](https://github.com/OnionBrowser/OnionBrowser): A Tor-powered web browser that improves your privacy [` App Store`](https://apps.apple.com/app/id519296448)  
@@ -5019,10 +5019,10 @@ https://newsapi.org/ — [back to top](#readme)
 
 - [Ghostery Privacy Browser](https://github.com/ghostery/browser-ios): Private, fast, tracker / ad-free mobile browsing [` App Store`](https://apps.apple.com/app/ghostery/id472789016)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> <code>ipad</code> </summary>
 
-	https://www.ghostery.com/mobile/<br>  Added August 21, 2019<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
-	<a href='https://www.ghostery.com/wp-content/themes/ghostery/images/campaigns/mobile-landing-page/group-7@2x.png'><code>Screenshot 1</code></a> 
+	Added August 21, 2019<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
+	<a href='https://i.imgur.com/escGoB8.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Kickstarter](https://github.com/kickstarter/ios-oss): Where independent creators & passionate backers come together to bring new ideas to life [` App Store`](https://apps.apple.com/app/kickstarter/id596961532)  
