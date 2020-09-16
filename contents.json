@@ -1283,15 +1283,15 @@
         "official"
       ],
       "tags": [
-        "swift"
+        "swift",
+        "ipad"
       ],
-      "homepage": "https://www.ghostery.com/mobile/",
       "description": "Private, fast, tracker / ad-free mobile browsing",
       "source": "https://github.com/ghostery/browser-ios",
       "license": "mpl-2.0",
       "itunes": "https://apps.apple.com/app/ghostery/id472789016",
       "screenshots": [
-        "https://www.ghostery.com/wp-content/themes/ghostery/images/campaigns/mobile-landing-page/group-7@2x.png"
+        "https://i.imgur.com/escGoB8.png"
       ],
       "date_added": "Aug 21 2019",
       "suggested_by": "@ebal",
