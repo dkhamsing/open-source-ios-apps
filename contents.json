@@ -23287,6 +23287,23 @@
        "license": "other",
        "date_added": "Sep 14 2020",
        "suggested_by": "@dkhamsing"
+     },
+     {
+       "title": "FlightUtilities",
+       "description": "Uses the private FlightUtilities.framework to show information about any flight given the airline code, flight code and date",
+       "category-ids": [
+         "misc"
+       ],
+       "tags": [
+         "objc"
+       ],
+       "source": "https://github.com/BalestraPatrick/FlightUtilities",
+       "screenshots": [
+         "https://github.com/BalestraPatrick/FlightUtilities/raw/master/header.jpg"
+       ],
+       "license": "mit",
+       "date_added": "Sep 18 2020",
+       "suggested_by": "@dkhamsing"
      }
   ]
 }
