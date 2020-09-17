@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1170-green.svg) ![](https://img.shields.io/badge/Updated-September%2016,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1171-green.svg) ![](https://img.shields.io/badge/Updated-September%2017,%202020-lightgrey.svg)
 
 Jump to
 
@@ -6615,6 +6615,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added September  6, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/R4CrwtY.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [FlightUtilities](https://github.com/BalestraPatrick/FlightUtilities): Uses the private FlightUtilities.framework to show information about any flight given the airline code, flight code and date  
+  <details>
+	<summary><code>objc</code> </summary>
+
+	Added September 18, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/BalestraPatrick/FlightUtilities/raw/master/header.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Fontcase](https://github.com/manolosavi/xFonts): Install your favorite fonts on your device to be able to use them in apps like Pages, Numbers, Keynote, and more [` App Store`](https://apps.apple.com/app/id1205074470)  
