@@ -23304,6 +23304,25 @@
        "license": "mit",
        "date_added": "Sep 18 2020",
        "suggested_by": "@dkhamsing"
+     },
+     {
+       "title": "yacd",
+       "description": "Yet Another Code Decrypter, decrypts FairPlay (App Store) applications on iOS 13.4.1 and lower, no jailbreak required",
+       "category-ids": [
+         "misc"
+       ],
+       "tags": [
+         "objc",
+         "c"
+       ],
+       "source": "https://github.com/DerekSelander/yacd",
+       "screenshots": [
+         "https://github.com/DerekSelander/yacd/raw/master/media/img.png"
+       ],
+       "license": "mit",
+       "date_added": "Sep 18 2020",
+       "suggested_by": "@dkhamsing",
+       "stars": 368
      }
   ]
 }
