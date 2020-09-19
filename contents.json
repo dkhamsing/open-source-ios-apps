@@ -23323,6 +23323,24 @@
        "date_added": "Sep 18 2020",
        "suggested_by": "@dkhamsing",
        "stars": 368
+     },
+     {
+       "title": "OutRun",
+       "description": "Outdoor fitness tracker that supports walking, hiking, cycling and skating",
+       "category-ids": [
+         "fitness"
+       ],
+       "source": "https://github.com/timfraedrich/OutRun",
+       "itunes": "https://apps.apple.com/app/OutRun/id1477511092",
+       "screenshots": ["https://i.imgur.com/x4pzDE2.png"],
+       "license": "gpl-3.0",
+       "tags": [
+         "swift",
+         "snapkit",
+         "charts"
+       ],
+       "date_added": "Sep 19 2020",
+       "suggested_by": "KovalevArtem"
      }
   ]
 }
