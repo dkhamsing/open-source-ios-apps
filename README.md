@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1172-green.svg) ![](https://img.shields.io/badge/Updated-September%2018,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1173-green.svg) ![](https://img.shields.io/badge/Updated-September%2019,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3386,6 +3386,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<summary><code>swift</code> <code>parse</code> </summary>
 
 	Added January  4, 2016<br>  License: `other`
+  </details>
+
+- [OutRun](https://github.com/timfraedrich/OutRun): Outdoor fitness tracker that supports walking, hiking, cycling and skating [` App Store`](https://apps.apple.com/app/OutRun/id1477511092)  
+  <details>
+	<summary><code>swift</code> <code>snapkit</code> <code>charts</code> </summary>
+
+	Added September 19, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://i.imgur.com/x4pzDE2.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [RaceMe](https://github.com/enochng1/RaceMe): Run tracking & ghosting  
