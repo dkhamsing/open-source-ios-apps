@@ -23358,6 +23358,24 @@
       ],
       "date_added": "Sep 19 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "Directory",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/hbmartin/Directory-SwiftUI",
+      "screenshots": ["https://github.com/hbmartin/Directory-SwiftUI/raw/master/docs/screenshots/light.png"],
+      "license": "apache-2.0",
+      "tags": [
+        "swift",
+        "swiftui",
+        "core-data",
+        "alamofire",
+        "kingfisher"
+      ],
+      "date_added": "Sep 20 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
