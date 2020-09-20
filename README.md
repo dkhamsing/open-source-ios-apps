@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1173-green.svg) ![](https://img.shields.io/badge/Updated-September%2019,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1174-green.svg) ![](https://img.shields.io/badge/Updated-September%2020,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7835,6 +7835,14 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> <code>mvvm</code> </summary>
 
 	Added September 11, 2020<br>  License: `other`
+  </details>
+
+- [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>macos</code> <code>mvvm</code> </summary>
+
+	Added September 19, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/nalexn/blob_files/raw/master/images/countries_preview.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [Corona Virus Tracker & Advice](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)  
