@@ -23341,6 +23341,23 @@
        ],
        "date_added": "Sep 19 2020",
        "suggested_by": "KovalevArtem"
-     }
+     },
+     {
+      "title": "Clean Architecture for SwiftUI + Combine",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/nalexn/clean-architecture-swiftui",
+      "screenshots": ["https://github.com/nalexn/blob_files/raw/master/images/countries_preview.png?raw=true"],
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui",
+        "macos",
+        "mvvm"
+      ],
+      "date_added": "Sep 19 2020",
+      "suggested_by": "dkhamsing"
+    }
   ]
 }
