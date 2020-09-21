@@ -20587,7 +20587,8 @@
         "swift",
         "ipad",
         "macos",
-        "watchos"
+        "watchos",
+        "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/DpjNleo.png"
