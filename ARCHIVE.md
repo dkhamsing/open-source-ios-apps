@@ -171,6 +171,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Lunchify](https://github.com/sallar/lunchify-swift)
 - [M](https://github.com/Mynigma/M)
 - [MapBox Earth](https://github.com/mapbox/mapbox-earth)
+- [Mast](https://github.com/ShihabMe/Mast2)
 - [Math Quest](https://github.com/AdnanZahid/Math-Quest-iOS)
 - [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
 - [MeetPoint](https://github.com/MeetPoint-App/meetpoint-ios)
