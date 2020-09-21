@@ -23377,6 +23377,20 @@
       ],
       "date_added": "Sep 20 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "FOSSASIA",
+      "description": "Organize concerts, conferences, summits and regular meetups",
+      "category-ids": [
+        "event"
+      ],
+      "source": "https://github.com/fossasia/open-event-attendee-ios",
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Sep 21 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
