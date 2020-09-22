@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1175-green.svg) ![](https://img.shields.io/badge/Updated-September%2021,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1176-green.svg) ![](https://img.shields.io/badge/Updated-September%2022,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1940,6 +1940,13 @@ Click ► to show more details
 
 	Added April 14, 2016<br>  License: `other`<br>
 	<a href='https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [FOSSASIA](https://github.com/fossasia/open-event-attendee-ios): Organize concerts, conferences, summits and regular meetups  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added September 21, 2020<br>  License: `other`
   </details>
 
 - [iOSDCRC](https://github.com/fromkk/iOSDCRC): iOSDC Reject Conference  
@@ -7134,6 +7141,14 @@ Cross platform projects — [back to top](#readme)
 	<summary><code>swift</code> <code>kotlin</code> <code>swiftui</code> <code>macos</code> <code>jetpack</code> ⭐</summary>
 
 	Added August  1, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>macos</code> <code>mvvm</code> </summary>
+
+	Added September 19, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/nalexn/blob_files/raw/master/images/countries_preview.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker): Coronavirus tracker with maps & charts  
