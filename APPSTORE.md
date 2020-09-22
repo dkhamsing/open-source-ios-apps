@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **273** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **272** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -2465,14 +2465,6 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added May 22, 2020<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
 	<a href='https://i.imgur.com/uesvdd4.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Mast](https://github.com/ShihabMe/Mast2): Beautiful Mastodon app built with macOS design guidelines in mind [` App Store`](https://apps.apple.com/app/mast/id1437429129)  
-  <details>
-	<summary><code>swift</code> <code>ipad</code> <code>macos</code> <code>watchos</code> </summary>
-
-	Added May 22, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://i.imgur.com/DpjNleo.png'><code>Screenshot 1</code></a> 
   </details>
 
 

@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1174-green.svg) ![](https://img.shields.io/badge/Updated-September%2020,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1175-green.svg) ![](https://img.shields.io/badge/Updated-September%2021,%202020-lightgrey.svg)
 
 Jump to
 
@@ -6071,14 +6071,6 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://i.imgur.com/uesvdd4.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Mast](https://github.com/ShihabMe/Mast2): Beautiful Mastodon app built with macOS design guidelines in mind [` App Store`](https://apps.apple.com/app/mast/id1437429129)  
-  <details>
-	<summary><code>swift</code> <code>ipad</code> <code>macos</code> <code>watchos</code> </summary>
-
-	Added May 22, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://i.imgur.com/DpjNleo.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [tootbot](https://github.com/tootbot/tootbot)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -7875,6 +7867,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added September  1, 2020<br>  License: `other`<br>
 	<a href='https://github.com/mythxn/DesignCode-SwiftUI/raw/master/preview.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Directory](https://github.com/hbmartin/Directory-SwiftUI)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>core-data</code> <code>alamofire</code> <code>kingfisher</code> </summary>
+
+	Added September 20, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://github.com/hbmartin/Directory-SwiftUI/raw/master/docs/screenshots/light.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [DivRise](https://github.com/ThasianX/DivRise): Elegant dividend yield and income tracker  
