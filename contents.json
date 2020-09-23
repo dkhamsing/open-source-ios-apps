@@ -23407,6 +23407,24 @@
       ],
       "date_added": "Sep 21 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "LifeGame",
+      "description": "Conway's Game of Life",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/YusukeHosonuma/SwiftUI-LifeGame",
+      "screenshots": ["https://github.com/YusukeHosonuma/SwiftUI-LifeGame/raw/main/Image/screenshot-ios.png"],
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui",
+        "ipad",
+        "macos"
+      ],
+      "date_added": "Sep 23 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
