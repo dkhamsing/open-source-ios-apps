@@ -23392,6 +23392,21 @@
       ],
       "date_added": "Sep 21 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "App Switcher",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/crafterm/swiftui-app-switcher",
+      "screenshots": ["https://i.imgur.com/bAz5erU.png"],
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "date_added": "Sep 21 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
