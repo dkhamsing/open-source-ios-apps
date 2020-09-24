@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1177-green.svg) ![](https://img.shields.io/badge/Updated-September%2023,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1178-green.svg) ![](https://img.shields.io/badge/Updated-September%2024,%202020-lightgrey.svg)
 
 Jump to
 
@@ -8055,6 +8055,14 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://i.imgur.com/k8BGv5M.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [LifeGame](https://github.com/YusukeHosonuma/SwiftUI-LifeGame): Conway's Game of Life  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>ipad</code> <code>macos</code> </summary>
+
+	Added September 23, 2020<br>  License: `other`<br>
+	<a href='https://github.com/YusukeHosonuma/SwiftUI-LifeGame/raw/main/Image/screenshot-ios.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [listapp](https://github.com/dkhamsing/listapp.ios): Lists from iOS 2 to iOS 14  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> </summary>
@@ -8191,7 +8199,7 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> <code>swiftui</code> <code>ipad</code> </summary>
 
 	Added July 24, 2020<br>  License: `other`<br>
-	<a href='https://github.com/atrinh0/sfsymbols/raw/master/images/filter.gif'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/atrinh0/sfsymbols/raw/develop/images/search.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [ShoppingList](https://github.com/ericlewis/ShoppingList)  
