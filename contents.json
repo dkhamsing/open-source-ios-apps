@@ -23425,6 +23425,25 @@
       ],
       "date_added": "Sep 23 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "NHS COVID-19 - UK",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/UwpQpVv.png"
+      ],
+      "source": "https://github.com/nhsx/covid-19-app-ios-ag-public",
+      "itunes": "https://apps.apple.com/gb/app/nhs-covid-19/id1520427663",
+      "homepage": "https://www.nhsx.nhs.uk",
+      "license": "other",
+      "date_added": "Sep 24 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 47
     }
   ]
 }
