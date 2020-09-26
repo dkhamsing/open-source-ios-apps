@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1179-green.svg) ![](https://img.shields.io/badge/Updated-September%2025,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1180-green.svg) ![](https://img.shields.io/badge/Updated-September%2026,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2009,6 +2009,14 @@ Click ► to show more details
 
 	Added March 13, 2016<br>  License: `other`<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/5c/4c/2d/5c4c2da8-6986-3bdc-25e5-a919fe3f7b9a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/d5/f0/f2/d5f0f223-3291-b773-dedf-57e887e89174/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/3d/0e/6c/3d0e6c28-bdd6-fde7-b3b0-089370738ffe/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Technex, IIT(BHU) Varanasi](https://github.com/jogendra/technex-ios)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added September 25, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/imjog/technex-ios/raw/master/Technex18/gifs/gif-technex-ios-1.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [try! Swift NYC](https://github.com/tryswift/trySwiftNYC)  
