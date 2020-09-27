@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1180-green.svg) ![](https://img.shields.io/badge/Updated-September%2026,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1180-green.svg) ![](https://img.shields.io/badge/Updated-September%2027,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2016,7 +2016,7 @@ Click ► to show more details
 	<summary><code>swift</code> </summary>
 
 	Added September 25, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/imjog/technex-ios/raw/master/Technex18/gifs/gif-technex-ios-1.gif'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/jogendra/technex-ios/raw/master/Technex18/gifs/gif-technex-ios-1.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [try! Swift NYC](https://github.com/tryswift/trySwiftNYC)  
