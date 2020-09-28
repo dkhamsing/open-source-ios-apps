@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1180-green.svg) ![](https://img.shields.io/badge/Updated-September%2027,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1181-green.svg) ![](https://img.shields.io/badge/Updated-September%2028,%202020-lightgrey.svg)
 
 Jump to
 
@@ -400,6 +400,14 @@ Click ► to show more details
 
 	Added September  3, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/oOfVj2I.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/cI77YU1.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [RSToDoList](https://github.com/rursache/ToDoList) [` App Store`](https://apps.apple.com/app/todolist-task-manager/id1454122524)  
+  <details>
+	<summary><code>swift</code> <code>apple-watch</code> <code>ipad</code> </summary>
+
+	Added September 27, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://i.imgur.com/PbupJ7n.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [SafeTimer](https://github.com/Hortelanos/SafeTimer): Control how many hours of use are left for all kinds of tools, supplies and equipment [` App Store`](https://apps.apple.com/app/apple-store/id1512032981)  
@@ -6151,6 +6159,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	Added July 31, 2015<br>  License: `other`
+  </details>
+
+- [RSToDoList](https://github.com/rursache/ToDoList) [` App Store`](https://apps.apple.com/app/todolist-task-manager/id1454122524)  
+  <details>
+	<summary><code>swift</code> <code>apple-watch</code> <code>ipad</code> </summary>
+
+	Added September 27, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://i.imgur.com/PbupJ7n.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [SwiftUITodo](https://github.com/devxoul/SwiftUITodo)  
