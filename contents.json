@@ -23460,6 +23460,27 @@
       "license": "mit",
       "date_added": "Sep 25 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "RSToDoList",
+      "category-ids": [
+        "tasks",
+        "apple-watch"
+      ],
+      "tags": [
+        "swift",
+        "apple-watch",
+        "ipad"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/PbupJ7n.png"
+      ],
+      "source": "https://github.com/rursache/ToDoList",
+      "itunes": "https://apps.apple.com/app/todolist-task-manager/id1454122524",
+      "license": "gpl-3.0",
+      "stars": 75,
+      "date_added": "Sep 27 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
