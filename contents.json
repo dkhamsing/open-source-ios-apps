@@ -23481,6 +23481,24 @@
       "stars": 75,
       "date_added": "Sep 27 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Alfresco secure content management",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "objc",
+        "ipad"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/wCinRSS.png"
+      ],
+      "source": "https://github.com/Alfresco/alfresco-ios-app",
+      "itunes": "https://apps.apple.com/app/alfresco/id459242610",
+      "license": "other",
+      "date_added": "Sep 28 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
