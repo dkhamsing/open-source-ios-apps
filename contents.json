@@ -23499,6 +23499,22 @@
       "license": "other",
       "date_added": "Sep 28 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Barcode Scanner",
+      "category-ids": [
+        "scan"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/hyperoslo/BarcodeScanner",
+      "license": "other",
+      "date_added": "Sep 29 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://github.com/hyperoslo/BarcodeScanner/raw/master/Art/ExampleScanning.png"
+      ]
     }
   ]
 }
