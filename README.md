@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1182-green.svg) ![](https://img.shields.io/badge/Updated-September%2029,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1183-green.svg) ![](https://img.shields.io/badge/Updated-September%2030,%202020-lightgrey.svg)
 
 Jump to
 
@@ -5675,6 +5675,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 [back to top](#readme) 
  
+- [Barcode Scanner](https://github.com/hyperoslo/BarcodeScanner)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added September 29, 2020<br>  License: `other`<br>
+	<a href='https://github.com/hyperoslo/BarcodeScanner/raw/master/Art/ExampleScanning.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Betcalsa](https://github.com/emredurukn/betcalsa): Document scanner, automatically detect your document and enhance the scans with black-and-white filter  
   <details>
 	<summary><code>swift</code> <code>wescan</code> </summary>
