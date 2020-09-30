@@ -23555,6 +23555,21 @@
         "https://github.com/hyperoslo/BarcodeScanner/raw/master/Art/ExampleScanning.png"
       ],
       "stars": 1391
+    },
+    {
+      "title": "Notes",
+      "description": "Notes app written in < 100 lines",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451",
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "date_added": "Sep 30 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
