@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1183-green.svg) ![](https://img.shields.io/badge/Updated-September%2030,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1185-green.svg) ![](https://img.shields.io/badge/Updated-October%20%201,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1952,7 +1952,7 @@ Click ► to show more details
 
 - [FOSSASIA](https://github.com/fossasia/open-event-attendee-ios): Organize concerts, conferences, summits and regular meetups  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
 	Added September 21, 2020<br>  License: `other`
   </details>
@@ -1980,7 +1980,7 @@ Click ► to show more details
 	<a href='http://res.cloudinary.com/mikkoj/image/upload/v1467119333/nortal-techday-1.mov_triupn.gif'><code>Screenshot 1</code></a> <a href='http://res.cloudinary.com/mikkoj/image/upload/v1467119489/nortal-techday-2.mov_lcvqqx.gif'><code>Screenshot 2</code></a> 
   </details>
 
-- [Northern California Cherry Blossom Festival](https://github.com/keitaito/NCCBF-iOS) [` App Store`](https://apps.apple.com/app/northern-california-cherry-blossom-festival/id981016442)  
+- [Northern California Cherry Blossom Festival](https://github.com/keitaito/NCCBF-iOS)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -2524,7 +2524,7 @@ File Management — [back to top](#readme)
 
 - [2048 SwiftUI](https://github.com/unixzii/SwiftUI-2048): 2048 written with SwiftUI  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> ⭐⭐</summary>
+	<summary><code>swift</code> <code>swiftui</code> ⭐⭐⭐</summary>
 
 	Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/unixzii/SwiftUI-2048/blob/master/Screenshot.png?raw=true'><code>Screenshot 1</code></a> 
@@ -3319,7 +3319,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [Israel - Hamagen](https://github.com/MohGovIL/hamagen-react-native): COVID-19 exposure prevention app [` App Store`](https://apps.apple.com/app/id1503224314)  
   <details>
-	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
+	<summary><code>react-native</code> 🌐 ⭐⭐⭐</summary>
 
 	Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/n50E9Nh.jpg'><code>Screenshot 1</code></a> 
@@ -3494,7 +3494,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
  
 - [Home Assistant Companion](https://github.com/home-assistant/iOS): Control and monitor your home from anywhere in the world [` App Store`](https://apps.apple.com/app/home-assistant-open-source-home-automation/id1099568401)  
   <details>
-	<summary><code>swift</code> ⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐</summary>
 
 	https://www.home-assistant.io/<br>  Added May 27, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/47/a7/a6/47a7a652-c206-4a30-1aae-e20c0c17d5ea/mzl.xkrohcrn.png/690x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/05/68/18/0568186a-f883-1172-de2c-e3dbfb9adaae/mzl.oqskbgaz.png/690x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/4a/5c/09/4a5c097b-df61-fe5c-7d81-97f757d7ad74/mzl.yzivdnlw.png/690x0w.jpg'><code>Screenshot 3</code></a> 
@@ -4068,7 +4068,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://www.queuedapp.com/img/image-3.png'><code>Screenshot 1</code></a> <a href='https://www.queuedapp.com/img/image-2.png'><code>Screenshot 2</code></a> <a href='https://www.queuedapp.com/img/powerful.png'><code>Screenshot 3</code></a> 
   </details>
 
-- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/ [` App Store`](https://apps.apple.com/app/id663334697)  
+- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -4698,7 +4698,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 - [Beam](https://github.com/awkward/beam): Enjoy all of Reddit's content in a unique and beautiful package [` App Store`](https://apps.apple.com/app/beam-for-reddit/id937987469)  
   <details>
-	<summary><code>swift</code> <code>objc</code> ⭐</summary>
+	<summary><code>swift</code> <code>objc</code> ⭐⭐</summary>
 
 	Added May  6, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/ab/1c/34/ab1c34ca-9913-ef85-ae35-10c2c7d3b7a6/mzl.gkpfevya.png/316x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/79/57/eb795798-bba3-21d5-6070-d8f508af1be0/mzl.lbvrfpjf.png/316x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/13/5d/53/135d536b-5ec2-a567-d72a-c5e6fb12f804/mzl.rzeufpyk.png/316x0w.jpg'><code>Screenshot 3</code></a> 
@@ -4750,6 +4750,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 	Added April 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Scoop](https://github.com/SaiBalaji22/Scoop): Read, bookmark and share news articles  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added October  1, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://user-images.githubusercontent.com/51410810/87435407-5584e700-c609-11ea-9ff2-fcfe23062bb3.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/51410810/87435422-5ae23180-c609-11ea-990d-47e865822c7d.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/51410810/87435438-5fa6e580-c609-11ea-8afa-de3ffba67df8.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/51410810/87437498-055b5400-c60c-11ea-968b-12f521f92c8f.png'><code>Screenshot 4</code></a> <a href='https://user-images.githubusercontent.com/51410810/87437502-07bdae00-c60c-11ea-88c3-a0d735aad81d.png'><code>Screenshot 5</code></a> <a href='https://user-images.githubusercontent.com/51410810/87435484-6d5c6b00-c609-11ea-9f52-92c534dfcf77.png'><code>Screenshot 6</code></a> 
   </details>
 
 - [Slide for Reddit](https://github.com/ccrama/Slide-iOS): A powerful new way to Reddit [` App Store`](https://apps.apple.com/app/slide-for-reddit/id1260626828)  
@@ -4979,7 +4987,7 @@ https://newsapi.org/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Feeds4U](https://github.com/EvgenyKarkan/Feeds4U): Well architected RSS reader [` App Store`](https://apps.apple.com/app/feeds4u/id1038456442)  
+- [Feeds4U](https://github.com/EvgenyKarkan/Feeds4U): Well architected RSS reader  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -5104,7 +5112,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e3/82/1e/e3821efd-c7fe-d7ce-1416-a8ddc7b86a23/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a8/ba/96/a8ba9621-f390-9fda-27fb-2be07e57ccde/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/e3/ae/14/e3ae1453-2409-40d9-9d4b-e83da63d7f2c/mzl.luuiuato.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/07/0e/98/070e9847-526d-c901-b8fd-d3f50c03a718/mzl.renucwgu.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [Northern California Cherry Blossom Festival](https://github.com/keitaito/NCCBF-iOS) [` App Store`](https://apps.apple.com/app/northern-california-cherry-blossom-festival/id981016442)  
+- [Northern California Cherry Blossom Festival](https://github.com/keitaito/NCCBF-iOS)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -5120,7 +5128,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/dkhamsing/osia/main/Assets/0.7.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/ [` App Store`](https://apps.apple.com/app/id663334697)  
+- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -5677,7 +5685,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
  
 - [Barcode Scanner](https://github.com/hyperoslo/BarcodeScanner)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
 	Added September 29, 2020<br>  License: `other`<br>
 	<a href='https://github.com/hyperoslo/BarcodeScanner/raw/master/Art/ExampleScanning.png'><code>Screenshot 1</code></a> 
@@ -6130,7 +6138,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/JerryHDev/1Trackr/master/Screenshots/Simulator%20Screen%20Shot%20Sep%2028%2C%202016%2C%202.18.07%20PM.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/JerryHDev/1Trackr/master/Screenshots/Simulator%20Screen%20Shot%20Sep%2028%2C%202016%2C%202.19.28%20PM.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/JerryHDev/1Trackr/master/Screenshots/Simulator%20Screen%20Shot%20Sep%2028%2C%202016%2C%202.19.40%20PM.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/JerryHDev/1Trackr/master/Screenshots/Simulator%20Screen%20Shot%20Sep%2028%2C%202016%2C%202.20.50%20PM.png'><code>Screenshot 4</code></a> 
   </details>
 
-- [eCortex](https://github.com/whymani005/cortex): Manage / organize thoughts & ideas into custom categories [` App Store`](https://apps.apple.com/app/ecortex/id1105026832)  
+- [eCortex](https://github.com/whymani005/cortex): Manage / organize thoughts & ideas into custom categories  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -6231,7 +6239,7 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [Proton](https://github.com/rajdeep/proton): Example for extending the behavior of a text view to add rich content  
   <details>
-	<summary><code>swift</code> ⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐</summary>
 
 	Added June 23, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -6380,7 +6388,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://i.imgur.com/oOfVj2I.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/cI77YU1.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [TrackMyTime](https://github.com/EvgenyKarkan/TrackMyTime) [` App Store`](https://apps.apple.com/app/trackmyday/id789386884)  
+- [TrackMyTime](https://github.com/EvgenyKarkan/TrackMyTime)  
   <details>
 	<summary><code>objc</code> </summary>
 
@@ -7032,7 +7040,7 @@ https://firebase.google.com/ — [back to top](#readme)
 
 - [Quickstart Samples](https://github.com/firebase/quickstart-ios)  
   <details>
-	<summary><code>objc</code> ⭐⭐⭐⭐</summary>
+	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added May 17, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
@@ -7193,7 +7201,7 @@ Cross platform projects — [back to top](#readme)
 
 - [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui)  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>macos</code> <code>mvvm</code> </summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>macos</code> <code>mvvm</code> ⭐⭐⭐⭐</summary>
 
 	Added September 19, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/nalexn/blob_files/raw/master/images/countries_preview.png?raw=true'><code>Screenshot 1</code></a> 
@@ -7405,7 +7413,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 - [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app)  
   <details>
-	<summary><code>react native</code> <code>dribbble</code> ⭐⭐⭐⭐</summary>
+	<summary><code>react native</code> <code>dribbble</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added June 13, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cloud.githubusercontent.com/assets/2805320/8113463/db61b072-1076-11e5-8aa2-52417f019ea0.jpg'><code>Screenshot 1</code></a> 
@@ -7461,7 +7469,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 - [Israel - Hamagen](https://github.com/MohGovIL/hamagen-react-native): COVID-19 exposure prevention app [` App Store`](https://apps.apple.com/app/id1503224314)  
   <details>
-	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
+	<summary><code>react-native</code> 🌐 ⭐⭐⭐</summary>
 
 	Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/n50E9Nh.jpg'><code>Screenshot 1</code></a> 
@@ -7794,7 +7802,7 @@ https://realm.io/ — [back to top](#readme)
  
 - [2048 SwiftUI](https://github.com/unixzii/SwiftUI-2048): 2048 written with SwiftUI  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> ⭐⭐</summary>
+	<summary><code>swift</code> <code>swiftui</code> ⭐⭐⭐</summary>
 
 	Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/unixzii/SwiftUI-2048/blob/master/Screenshot.png?raw=true'><code>Screenshot 1</code></a> 
@@ -7902,7 +7910,7 @@ https://realm.io/ — [back to top](#readme)
 
 - [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui)  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>macos</code> <code>mvvm</code> </summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>macos</code> <code>mvvm</code> ⭐⭐⭐⭐</summary>
 
 	Added September 19, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/nalexn/blob_files/raw/master/images/countries_preview.png?raw=true'><code>Screenshot 1</code></a> 
@@ -8178,6 +8186,13 @@ https://realm.io/ — [back to top](#readme)
 
 	Added April 30, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Notes](https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451): Notes app written in < 100 lines  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added September 30, 2020<br>  License: `other`
   </details>
 
 - [OSRSUI](https://github.com/Dimillian/OSRSUI): Old School Runescape database browser  
