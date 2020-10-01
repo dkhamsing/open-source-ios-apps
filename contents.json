@@ -23576,6 +23576,20 @@
       ],
       "date_added": "Sep 30 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "Chess",
+      "category-ids": [
+        "game"
+      ],
+      "source": "https://github.com/nicklockwood/Chess",
+      "screenshots": ["https://github.com/nicklockwood/Chess/raw/master/Screenshot.png?raw=true"],
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Oct 1 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
