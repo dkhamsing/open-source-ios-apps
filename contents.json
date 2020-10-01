@@ -7071,7 +7071,8 @@
         "notes"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "description": "Sync notes to EverNote",
       "license": "mit",
