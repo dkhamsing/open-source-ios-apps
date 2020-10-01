@@ -859,6 +859,17 @@
       "suggested_by": "@dkhamsing"
     },
     {
+	"title": "Scoop",
+	"category-ids": ["news"],
+	"tags": ["swift"],
+	"description": "A NEWS App built using Swift which allow the users to read,bookmark and share news articles.",
+	"source": "https://github.com/SaiBalaji22/Scoop",
+	"screenshots": ["https://user-images.githubusercontent.com/51410810/87435407-5584e700-c609-11ea-9ff2-fcfe23062bb3.png","https://user-images.githubusercontent.com/51410810/87435422-5ae23180-c609-11ea-990d-47e865822c7d.png","https://user-images.githubusercontent.com/51410810/87435438-5fa6e580-c609-11ea-8afa-de3ffba67df8.png","https://user-images.githubusercontent.com/51410810/87437498-055b5400-c60c-11ea-968b-12f521f92c8f.png","https://user-images.githubusercontent.com/51410810/87437502-07bdae00-c60c-11ea-88c3-a0d735aad81d.png","https://user-images.githubusercontent.com/51410810/87435484-6d5c6b00-c609-11ea-9f52-92c534dfcf77.png"],
+	"license": "mit",
+	"date_added": "Oct 1 2020",
+	"suggested_by": "SaiBalaji22"
+},
+    {
       "title": "Impulse",
       "category-ids": [
         "apple-watch",
