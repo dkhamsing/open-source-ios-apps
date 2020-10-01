@@ -4602,7 +4602,6 @@
       "description": "Well architected RSS reader",
       "license": "mit",
       "source": "https://github.com/EvgenyKarkan/Feeds4U",
-      "itunes": "https://apps.apple.com/app/feeds4u/id1038456442",
       "tags": [
         "swift"
       ],
@@ -5786,7 +5785,6 @@
       ],
       "description": "Manage / organize thoughts & ideas into custom categories",
       "source": "https://github.com/whymani005/cortex",
-      "itunes": "https://apps.apple.com/app/ecortex/id1105026832",
       "screenshots": [
         "https://is2-ssl.mzstatic.com/image/thumb/Purple30/v4/0b/8a/d6/0b8ad6ca-d1f4-65bd-c647-c1a50870a459/pr_source.png/460x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple18/v4/f8/be/80/f8be8054-0653-1ac6-777e-9cff37591e38/pr_source.png/460x0w.jpg",
@@ -7141,7 +7139,6 @@
       ],
       "license": "mit",
       "source": "https://github.com/EvgenyKarkan/TrackMyTime",
-      "itunes": "https://apps.apple.com/app/trackmyday/id789386884",
       "screenshots": [
         "https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/4e/36/20/4e3620e8-78cc-28c1-14c1-99dd795a0c3e/mzl.rbjfeuro.png/460x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple/v4/86/79/aa/8679aa86-b1df-b753-e573-5841fc8e040d/mzl.qrcseovv.png/460x0w.jpg",
@@ -9599,7 +9596,6 @@
       "description": "Official app for https://www.radioparadise.com/",
       "source": "https://github.com/ilTofa/rposx",
       "homepage": "https://www.iltofa.com/rphd/",
-      "itunes": "https://apps.apple.com/app/id663334697",
       "license": "mit",
       "stars": 16,
       "date_added": "Wed Jun 1 23:14:19 2016 -0600",
@@ -14076,7 +14072,6 @@
     {
       "title": "Northern California Cherry Blossom Festival",
       "source": "https://github.com/keitaito/NCCBF-iOS",
-      "itunes": "https://apps.apple.com/app/northern-california-cherry-blossom-festival/id981016442",
       "homepage": "https://sfcherryblossom.org",
       "category-ids": [
         "official",
