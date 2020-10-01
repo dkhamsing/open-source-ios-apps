@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **275** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **270** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -763,14 +763,6 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [Northern California Cherry Blossom Festival](https://github.com/keitaito/NCCBF-iOS) [` App Store`](https://apps.apple.com/app/northern-california-cherry-blossom-festival/id981016442)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	https://sfcherryblossom.org<br>  Added May  4, 2017<br>  License: `other`<br>
-	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/67/c4/bd/67c4bd2f-bf02-54c3-7b3a-3ff6605a51f2/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
 - [OpenStack Foundation Summit](https://github.com/OpenStack-mobile/summit-app-ios) [` App Store`](https://apps.apple.com/app/openstack-foundation-summit/id1071261846)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -1370,7 +1362,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [Israel - Hamagen](https://github.com/MohGovIL/hamagen-react-native): COVID-19 exposure prevention app [` App Store`](https://apps.apple.com/app/id1503224314)  
   <details>
-	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
+	<summary><code>react-native</code> 🌐 ⭐⭐⭐</summary>
 
 	Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/n50E9Nh.jpg'><code>Screenshot 1</code></a> 
@@ -1470,7 +1462,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
  
 - [Home Assistant Companion](https://github.com/home-assistant/iOS): Control and monitor your home from anywhere in the world [` App Store`](https://apps.apple.com/app/home-assistant-open-source-home-automation/id1099568401)  
   <details>
-	<summary><code>swift</code> ⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐</summary>
 
 	https://www.home-assistant.io/<br>  Added May 27, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/47/a7/a6/47a7a652-c206-4a30-1aae-e20c0c17d5ea/mzl.xkrohcrn.png/690x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/05/68/18/0568186a-f883-1172-de2c-e3dbfb9adaae/mzl.oqskbgaz.png/690x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/4a/5c/09/4a5c097b-df61-fe5c-7d81-97f757d7ad74/mzl.yzivdnlw.png/690x0w.jpg'><code>Screenshot 3</code></a> 
@@ -1768,14 +1760,6 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/b5/d4/72/b5d472cf-ca00-aba0-da09-776dc597595a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/6d/85/02/6d850217-73a8-3379-5110-54ca812d6ae0/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/85/79/6d/85796d78-6c7f-6dc6-327f-f3dfcc4c72a3/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/05/e3/da/05e3da31-0d41-dc1d-8111-6bceed1b8095/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/ [` App Store`](https://apps.apple.com/app/id663334697)  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	https://www.iltofa.com/rphd/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/7c/a1/2d/7ca12dea-f76c-e146-9b89-0f5636d306d3/mzl.uhfvsdne.png/626x0w.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
 
 ### Content 
  
@@ -1962,7 +1946,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 - [Beam](https://github.com/awkward/beam): Enjoy all of Reddit's content in a unique and beautiful package [` App Store`](https://apps.apple.com/app/beam-for-reddit/id937987469)  
   <details>
-	<summary><code>swift</code> <code>objc</code> ⭐</summary>
+	<summary><code>swift</code> <code>objc</code> ⭐⭐</summary>
 
 	Added May  6, 2018<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/ab/1c/34/ab1c34ca-9913-ef85-ae35-10c2c7d3b7a6/mzl.gkpfevya.png/316x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/79/57/eb795798-bba3-21d5-6070-d8f508af1be0/mzl.lbvrfpjf.png/316x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/13/5d/53/135d536b-5ec2-a567-d72a-c5e6fb12f804/mzl.rzeufpyk.png/316x0w.jpg'><code>Screenshot 3</code></a> 
@@ -2015,14 +1999,6 @@ https://newsapi.org/ — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Feeds4U](https://github.com/EvgenyKarkan/Feeds4U): Well architected RSS reader [` App Store`](https://apps.apple.com/app/feeds4u/id1038456442)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added October 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/3c/80/9c/3c809cda-b830-dee3-0b1d-8fa809c84529/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/90/04/3f/90043fda-3ba9-1d5e-d20a-89d1a385b527/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/ce/99/4d/ce994dcb-9ab0-5ba8-9ef1-a5a396280dbb/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/4d/6d/d7/4d6dd753-77c8-8068-bf2a-c2d170fdc3d0/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
-  </details>
-
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): Feed reader that supports RSS, Atom, JSON Feed, and RSS-in-JSON formats [` App Store`](https://apps.apple.com/app/netnewswire-rss-reader/id1480640210)  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
@@ -2098,22 +2074,6 @@ https://newsapi.org/ — [back to top](#readme)
 
 	https://nextcloud.com<br>  Added April  2, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e3/82/1e/e3821efd-c7fe-d7ce-1416-a8ddc7b86a23/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a8/ba/96/a8ba9621-f390-9fda-27fb-2be07e57ccde/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/e3/ae/14/e3ae1453-2409-40d9-9d4b-e83da63d7f2c/mzl.luuiuato.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/07/0e/98/070e9847-526d-c901-b8fd-d3f50c03a718/mzl.renucwgu.png/460x0w.jpg'><code>Screenshot 4</code></a> 
-  </details>
-
-- [Northern California Cherry Blossom Festival](https://github.com/keitaito/NCCBF-iOS) [` App Store`](https://apps.apple.com/app/northern-california-cherry-blossom-festival/id981016442)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	https://sfcherryblossom.org<br>  Added May  4, 2017<br>  License: `other`<br>
-	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/67/c4/bd/67c4bd2f-bf02-54c3-7b3a-3ff6605a51f2/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/ [` App Store`](https://apps.apple.com/app/id663334697)  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	https://www.iltofa.com/rphd/<br>  Added June  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/7c/a1/2d/7ca12dea-f76c-e146-9b89-0f5636d306d3/mzl.uhfvsdne.png/626x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Simplenote](https://github.com/automattic/simplenote-ios): Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration [` App Store`](https://apps.apple.com/app/simplenote/id289429962)  
@@ -2488,14 +2448,6 @@ https://joinmastodon.org — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [eCortex](https://github.com/whymani005/cortex): Manage / organize thoughts & ideas into custom categories [` App Store`](https://apps.apple.com/app/ecortex/id1105026832)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added January 25, 2017<br>
-	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple30/v4/0b/8a/d6/0b8ad6ca-d1f4-65bd-c647-c1a50870a459/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple18/v4/f8/be/80/f8be8054-0653-1ac6-777e-9cff37591e38/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple60/v4/86/9c/19/869c199d-f6ad-0426-bd61-f9316d257399/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple20/v4/74/5f/e9/745fe9d4-3a90-e344-4f71-ccbc5e318b65/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/14/1f/28/141f2833-14cc-b1c1-f29f-52db44eaef67/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
-  </details>
-
 - [Habitica](https://github.com/HabitRPG/habitica-ios): Habit building & productivity [` App Store`](https://apps.apple.com/app/id994882113)  
   <details>
 	<summary><code>objc</code> ⭐⭐</summary>
@@ -2613,14 +2565,6 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added June 21, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/97/bc/c597bc2d-339c-8463-e7e7-f47fe7f6f770/mzl.uhkigexq.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/08/a6/aa/08a6aa5a-6a45-fcb0-5e75-c78fc2a10d67/mzl.ckjxbwfu.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8e/72/69/8e72696d-fae0-0f81-4868-aa281ba30866/mzl.ucpnawyo.png/460x0w.jpg'><code>Screenshot 3</code></a> 
-  </details>
-
-- [TrackMyTime](https://github.com/EvgenyKarkan/TrackMyTime) [` App Store`](https://apps.apple.com/app/trackmyday/id789386884)  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	Added May  3, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/4e/36/20/4e3620e8-78cc-28c1-14c1-99dd795a0c3e/mzl.rbjfeuro.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple/v4/86/79/aa/8679aa86-b1df-b753-e573-5841fc8e040d/mzl.qrcseovv.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple4/v4/22/06/03/220603d3-6d56-fd65-fe60-57f41b3f6ace/mzl.wtrrxsrw.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/44/5e/d1/445ed17f-75e4-4913-ca74-d97cddaaf061/mzl.mgggbmuz.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/e2/26/41/e2264119-fcba-7cbd-6234-69bec9dd8e49/mzl.wosfnlnx.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 
@@ -2888,7 +2832,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 - [Israel - Hamagen](https://github.com/MohGovIL/hamagen-react-native): COVID-19 exposure prevention app [` App Store`](https://apps.apple.com/app/id1503224314)  
   <details>
-	<summary><code>react-native</code> 🌐 ⭐⭐</summary>
+	<summary><code>react-native</code> 🌐 ⭐⭐⭐</summary>
 
 	Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/n50E9Nh.jpg'><code>Screenshot 1</code></a> 
