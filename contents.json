@@ -23590,6 +23590,19 @@
       ],
       "date_added": "Oct 1 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "Blurry",
+      "category-ids": [
+        "photo"
+      ],
+      "source": "https://github.com/meteochu/Blurry",
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Oct 2 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
