@@ -23592,21 +23592,22 @@
       "suggested_by": "dkhamsing"
     },
 	  {
-      "title": "NYTimes-Web scraping with SwiftUI, SwiftSoup and Combine",
+      "title": "NYTimes-iOS",
+      "description": "NYTimes web scraping",
       "category-ids": [
-        "misc"
+        "news"
       ],
       "source": "https://github.com/TheCodeMonks/NYTimes-iOS",
       "screenshots": ["https://raw.githubusercontent.com/TheCodeMonks/NYTimes-iOS/master/NYTimes%20Screenshots/Banner%400.25x.png"],
-      "license": "MIT",
+      "license": "mit",
       "tags": [
         "swift",
-        "swiftUI",
-        "Combine",
-        "SwiftSoup"
+        "swiftui",
+        "combine",
+        "swiftsoup"
       ],
       "date_added": "Oct 3 2020",
-      "suggested_by": "devwaseem"
+      "suggested_by": "@devwaseem"
     }
   ]
 }
