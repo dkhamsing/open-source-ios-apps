@@ -9952,7 +9952,6 @@
       "description": "A zero-knowledge, cloud-based e-wallet & password manager",
       "license": "gpl-3.0",
       "source": "https://github.com/SpiderOak/Encryptr",
-      "homepage": "https://spideroak.com/encryptr/",
       "itunes": "https://apps.apple.com/app/id1066041348",
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/9c/1c/74/9c1c7418-0b94-8c1b-8da8-fa869914e591/pr_source.png/460x0w.jpg",
