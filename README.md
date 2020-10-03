@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1186-green.svg) ![](https://img.shields.io/badge/Updated-October%20%202,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1187-green.svg) ![](https://img.shields.io/badge/Updated-October%20%203,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4742,6 +4742,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 	Added November  4, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/zpz1237/NirZhihuDaily2.0/raw/master/effect1.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [NYTimes-iOS](https://github.com/TheCodeMonks/NYTimes-iOS): NYTimes web scraping  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> <code>swiftsoup</code> </summary>
+
+	Added October  3, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/TheCodeMonks/NYTimes-iOS/master/NYTimes%20Screenshots/Banner%400.25x.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [reddift](https://github.com/sonsongithub/reddift): Reddit browser, search, comments  
