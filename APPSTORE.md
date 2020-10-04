@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **270** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **271** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -758,6 +758,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- [DOSPad](https://github.com/litchie/dospad): DOSBox [` App Store`](https://apps.apple.com/app/idos-2/id918131840)  
+  <details>
+	<summary><code>objc</code> <code>ipad</code> ⭐⭐</summary>
+
+	Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
+	<a href='https://litchie.com/images/splash-small.png'><code>Screenshot 1</code></a> 
+  </details>
+
 
 ## Event 
  
