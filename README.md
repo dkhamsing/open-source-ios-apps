@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1187-green.svg) ![](https://img.shields.io/badge/Updated-October%20%203,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1188-green.svg) ![](https://img.shields.io/badge/Updated-October%20%204,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1849,12 +1849,12 @@ Click ► to show more details
 	<a href='https://raw.githubusercontent.com/ogoguel/activegs-ios/master/README.images/screen5.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [DOSPad](https://github.com/litchie/dospad): DOSBox  
+- [DOSPad](https://github.com/litchie/dospad): DOSBox [` App Store`](https://apps.apple.com/app/idos-2/id918131840)  
   <details>
-	<summary><code>objc</code> ⭐⭐</summary>
+	<summary><code>objc</code> <code>ipad</code> ⭐⭐</summary>
 
 	Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
-	<a href='https://github.com/litchie/dospad/blob/master/screenshots/portrait.png?raw=true'><code>Screenshot 1</code></a> 
+	<a href='https://litchie.com/images/splash-small.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [GBA4iOS](https://bitbucket.org/rileytestut/gba4ios/): Gameboy, Gameboy Color & Gameboy Advance emulator  
@@ -4492,6 +4492,13 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 	Added February 24, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/92/6f/a4/926fa4b0-7002-a610-2d29-aa5d0598ffaf/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4c/af/9b/4caf9b23-c3a5-8177-c7cd-f02e4e3d7ba2/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/52/fb/46/52fb4604-c9fb-1799-ba61-3c1523986e03/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Blurry](https://github.com/meteochu/Blurry)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added October  2, 2020<br>  License: `other`
   </details>
 
 - [ColorBlur](https://github.com/maurovc/ColorBlur): Add blur to your photos  
