@@ -23593,6 +23593,24 @@
       "date_added": "Oct 1 2020",
       "suggested_by": "dkhamsing"
     },
+	  {
+      "title": "NYTimes-iOS",
+      "description": "NYTimes web scraping",
+      "category-ids": [
+        "news"
+      ],
+      "source": "https://github.com/TheCodeMonks/NYTimes-iOS",
+      "screenshots": ["https://raw.githubusercontent.com/TheCodeMonks/NYTimes-iOS/master/NYTimes%20Screenshots/Banner%400.25x.png"],
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui",
+        "combine",
+        "swiftsoup"
+      ],
+      "date_added": "Oct 3 2020",
+      "suggested_by": "@devwaseem"
+    },
     {
       "title": "Blurry",
       "category-ids": [
@@ -23604,7 +23622,7 @@
         "swift"
       ],
       "date_added": "Oct 2 2020",
-      "suggested_by": "dkhamsing"
+      "suggested_by": "dkhamsing"      
     }
   ]
 }

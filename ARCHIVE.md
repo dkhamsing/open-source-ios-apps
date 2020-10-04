@@ -253,6 +253,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Shadertweak](https://github.com/opensourceios/Shadertweak)
 - [Show OpenGL content](https://github.com/bradley/iOSSwiftOpenGL)
 - [Shuttle-Tracker](https://github.com/AbstractedSheep/Shuttle-Tracker)
+- [SimpleMemo](https://github.com/lijuncode/SimpleMemo)
 - [Simplistic](https://github.com/e7711bbear/Simplistic)
 - [SkeletonKey](https://github.com/chrishulbert/SkeletonKey)
 - [Snapchat clone](https://github.com/opensourceios/SnapChat)
