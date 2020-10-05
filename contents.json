@@ -23623,6 +23623,20 @@
       ],
       "date_added": "Oct 2 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "appstore",
+      "category-ids": [
+        "clone"
+      ],
+      "source": "https://github.com/phillfarrugia/appstore-clone",
+      "screenshots": ["https://cdn-images-1.medium.com/max/2000/1*tQ0-dhZvBH3O0h9GTScihA.png"],
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Oct 4 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
