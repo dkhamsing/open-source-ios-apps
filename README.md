@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1188-green.svg) ![](https://img.shields.io/badge/Updated-October%20%204,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1189-green.svg) ![](https://img.shields.io/badge/Updated-October%20%205,%202020-lightgrey.svg)
 
 Jump to
 
@@ -747,6 +747,14 @@ Click ► to show more details
 
 	Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/3pZRJ82.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [appstore](https://github.com/phillfarrugia/appstore-clone)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added October  4, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://cdn-images-1.medium.com/max/2000/1*tQ0-dhZvBH3O0h9GTScihA.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [CZInstagram](https://github.com/geekaurora/CZInstagram): Instagram written in a way that eliminates Massive View Controller in unidirectional event/state flow manner  
