@@ -23637,6 +23637,23 @@
       ],
       "date_added": "Oct 4 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "Fluttery Filmy",
+      "description": "Movies powered by tmdb",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/ibhavikmakwana/Fluttery-Filmy",
+      "screenshots": ["https://github.com/ibhavikmakwana/Fluttery-Filmy/raw/master/screenshot/Fluttery_Filmy.gif"],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Oct 5 2017",
+      "suggested_by": "@dkhamsing",
+      "stars": 188
     }
   ]
 }
