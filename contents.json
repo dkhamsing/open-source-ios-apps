@@ -23654,6 +23654,20 @@
       "date_added": "Oct 5 2017",
       "suggested_by": "@dkhamsing",
       "stars": 188
+    },
+    {
+      "title": "File Browser",
+      "category-ids": [
+        "file"
+      ],
+      "source": "https://github.com/steventroughtonsmith/files-ios",
+      "screenshots": ["https://lh3.googleusercontent.com/-bPGPJDM78p0/V13sA3epxEI/AAAAAAAACNs/McPEkTL1mZY9pYrZxmZzsFibBwDoDz_ugCCo/s800/A1.jpg"],
+      "license": "other",
+      "tags": [
+        "objc"
+      ],
+      "date_added": "Oct 6 2020",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
