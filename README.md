@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1189-green.svg) ![](https://img.shields.io/badge/Updated-October%20%205,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1190-green.svg) ![](https://img.shields.io/badge/Updated-October%20%206,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7134,6 +7134,14 @@ https://flutter.dev — [back to top](#readme)
 
 	Added July 10, 2020<br>  License: `other`<br>
 	<a href='https://github.com/khuong291/Flutter-Movie/raw/master/1.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Fluttery Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy): Movies powered by tmdb  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> ⭐</summary>
+
+	Added October  5, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://github.com/ibhavikmakwana/Fluttery-Filmy/raw/master/screenshot/Fluttery_Filmy.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [Gmail clone](https://github.com/rodydavis/gmail_clone)  
