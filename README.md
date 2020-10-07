@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1190-green.svg) ![](https://img.shields.io/badge/Updated-October%20%206,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1191-green.svg) ![](https://img.shields.io/badge/Updated-October%20%207,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2261,6 +2261,14 @@ File Management — [back to top](#readme)
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/b0/cc/e8/b0cce897-0e91-db42-fb0d-a3e7f1b8c91a/mzl.kfmaddan.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/73/00/4c/73004c98-1b29-5dd2-4e61-1f83a309ded6/mzl.tsjggnvf.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/3d/a3/a4/3da3a42f-9ebf-a80f-4930-dee1dc0f24ef/mzl.zejyzppj.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/86/98/fc/8698fcbe-6761-7bf8-a86f-053ebe1848db/mzl.yqxbksxf.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
+- [File Browser](https://github.com/steventroughtonsmith/files-ios)  
+  <details>
+	<summary><code>objc</code> </summary>
+
+	Added October  6, 2020<br>  License: `other`<br>
+	<a href='https://lh3.googleusercontent.com/-bPGPJDM78p0/V13sA3epxEI/AAAAAAAACNs/McPEkTL1mZY9pYrZxmZzsFibBwDoDz_ugCCo/s800/A1.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
 - [FileExplorer](https://github.com/Augustyniak/FileExplorer): Powerful file browser that allows its users to choose and remove files and/or directories  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐</summary>
@@ -2353,12 +2361,12 @@ File Management — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/9c/1c/74/9c1c7418-0b94-8c1b-8da8-fa869914e591/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/73/2a/60/732a6002-e689-f012-96be-a1501c226821/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/dd/85/df/dd85df8d-d795-b847-6cad-2bde2b1df6d9/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/c7/b2/59/c7b2590b-cc11-0aea-c5dc-4263313fb97f/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/41/a3/dc/41a3dc56-02fe-83f8-6fe0-8813691868c3/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Exchanger](https://github.com/vkaltyrin/exchanger): Exchange currencies from multiply wallets on ECB exchange rates  
+- [Exchanger](https://github.com/vladimir-kaltyrin/exchanger): Exchange currencies from multiply wallets on ECB exchange rates  
   <details>
 	<summary><code>viper</code> <code>objc</code> <code>core-data</code> </summary>
 
 	Added December 21, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/vkaltyrin/exchanger/blob/master/screenshot.png?raw=true'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/vladimir-kaltyrin/exchanger/blob/master/screenshot.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [Gasoline](https://github.com/Blackjacx/Gasoline): Track your gas expense  
@@ -8519,12 +8527,12 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/43/e8/45/43e84585-f1e0-7af6-7cb6-28ae3cfc5563/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Exchanger](https://github.com/vkaltyrin/exchanger): Exchange currencies from multiply wallets on ECB exchange rates  
+- [Exchanger](https://github.com/vladimir-kaltyrin/exchanger): Exchange currencies from multiply wallets on ECB exchange rates  
   <details>
 	<summary><code>viper</code> <code>objc</code> <code>core-data</code> </summary>
 
 	Added December 21, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/vkaltyrin/exchanger/blob/master/screenshot.png?raw=true'><code>Screenshot 1</code></a> 
+	<a href='https://github.com/vladimir-kaltyrin/exchanger/blob/master/screenshot.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [Gleam](https://github.com/akarataev/gleam-ios): Use machine learning to help make an early diagnosis of melanoma and get the necessary treatment on time  
