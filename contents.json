@@ -23668,6 +23668,24 @@
       ],
       "date_added": "Oct 6 2020",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "Sounds",
+      "category-ids": [
+        "apple-watch"
+      ],
+      "description": "Play some favorite sounds",
+      "source": "https://ericasadun.com/2020/06/05/building-a-silly-watchkit-app/",
+      "license": "other",
+      "tags": [
+        "swift",
+        "apple-watch"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/PEf5Ojz.png"
+      ],
+      "date_added": "Oct 7 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
