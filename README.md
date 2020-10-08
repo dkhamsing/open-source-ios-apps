@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1191-green.svg) ![](https://img.shields.io/badge/Updated-October%20%207,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1192-green.svg) ![](https://img.shields.io/badge/Updated-October%20%208,%202020-lightgrey.svg)
 
 Jump to
 
@@ -416,6 +416,14 @@ Click ► to show more details
 
 	Added June 30, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/hgpAKK7.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Sounds](https://ericasadun.com/2020/06/05/building-a-silly-watchkit-app/): Play some favorite sounds  
+  <details>
+	<summary><code>swift</code> <code>apple-watch</code> </summary>
+
+	Added October  7, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/PEf5Ojz.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [SpriteKitWatchFace](https://github.com/steventroughtonsmith/SpriteKitWatchFace): SpriteKit-based faux analog watch face example for watchOS  
