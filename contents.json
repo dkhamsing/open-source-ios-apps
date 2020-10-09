@@ -21096,10 +21096,10 @@
         "location"
       ],
       "description": "Record your position and export your trip in GPX with GPS Stone",
-      "license": "other",
+      "license": "apache-2.0",
       "source": "https://github.com/frostland/GPS-Stone",
       "tags": [
-        "objc"
+        "swift"
       ],
       "date_added": "Jun 1 2020",
       "suggested_by": "@dkhamsing",
