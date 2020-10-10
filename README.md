@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1192-green.svg) ![](https://img.shields.io/badge/Updated-October%20%208,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1192-green.svg) ![](https://img.shields.io/badge/Updated-October%2010,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3627,9 +3627,9 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 - [GPS Stone](https://github.com/frostland/GPS-Stone): Record your position and export your trip in GPX with GPS Stone  
   <details>
-	<summary><code>objc</code> </summary>
+	<summary><code>swift</code> </summary>
 
-	Added June  1, 2020<br>  License: `other`
+	Added June  1, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
 - [Grove](https://github.com/kylebshr/grove-ios): Crowd-sourced hammock locations  
