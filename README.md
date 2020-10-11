@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1192-green.svg) ![](https://img.shields.io/badge/Updated-October%2010,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1193-green.svg) ![](https://img.shields.io/badge/Updated-October%2011,%202020-lightgrey.svg)
 
 Jump to
 
@@ -400,6 +400,14 @@ Click ► to show more details
 
 	Added September  3, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/oOfVj2I.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/cI77YU1.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [Quote Today](https://github.com/SaiBalaji22/Quote-Today): This app display a random quote by fetching the quote from the quote API everytime user open the app  
+  <details>
+	<summary></summary>
+
+	Added October 11, 2020<br>
+	<a href='https://user-images.githubusercontent.com/51410810/87869133-0b11ba80-c9bb-11ea-80ed-4d4286744caa.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/51410810/87869148-1fee4e00-c9bb-11ea-8935-6646c352a6e6.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/51410810/87869153-2a104c80-c9bb-11ea-932e-53cf16cf0e75.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/51410810/87869174-4b713880-c9bb-11ea-86d0-6a8675cecfb5.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [RSToDoList](https://github.com/rursache/ToDoList) [` App Store`](https://apps.apple.com/app/todolist-task-manager/id1454122524)  
