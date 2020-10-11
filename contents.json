@@ -21262,6 +21262,18 @@
       "date_added": "Jun 5 2020",
       "suggested_by": "@dkhamsing"
     },
+     {
+            "title": "Quote Today",
+            "category-ids": ["apple-watch"],
+            "description": "This app display a random quote by fetching the quote from the quote API everytime user open the app",
+            "source": "https://github.com/SaiBalaji22/Quote-Today",
+            "screenshots": ["https://user-images.githubusercontent.com/51410810/87869133-0b11ba80-c9bb-11ea-80ed-4d4286744caa.png",
+                            "https://user-images.githubusercontent.com/51410810/87869148-1fee4e00-c9bb-11ea-8935-6646c352a6e6.png",
+                            "https://user-images.githubusercontent.com/51410810/87869153-2a104c80-c9bb-11ea-932e-53cf16cf0e75.png",
+                            "https://user-images.githubusercontent.com/51410810/87869174-4b713880-c9bb-11ea-86d0-6a8675cecfb5.png"],
+            "date_added": "Oct 11 2020",
+            "suggested_by": "SaiBalaji22"
+    },
     {
       "title": "Tell Time UK",
       "category-ids": [
