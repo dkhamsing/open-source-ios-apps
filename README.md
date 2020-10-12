@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1193-green.svg) ![](https://img.shields.io/badge/Updated-October%2011,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1194-green.svg) ![](https://img.shields.io/badge/Updated-October%2012,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2398,6 +2398,14 @@ File Management — [back to top](#readme)
 
 	Added May 17, 2020<br>
 	<a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [MoneyPlusPro](https://github.com/IcedOtaku/MoneyPlusPro): Help you record income and expense  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added October 12, 2020<br>
+	<a href='https://github.com/IcedOtaku/MoneyPlusPro/blob/master/images/main.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [My Stocks](https://github.com/dkhamsing/stocks): Basic stocks tracking, supports Finnhub, Tiingo, or IEX Cloud  
@@ -6999,6 +7007,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added May 17, 2020<br>
 	<a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [MoneyPlusPro](https://github.com/IcedOtaku/MoneyPlusPro): Help you record income and expense  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added October 12, 2020<br>
+	<a href='https://github.com/IcedOtaku/MoneyPlusPro/blob/master/images/main.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Nested Lists](https://github.com/objcio/issue-4-full-core-data-application)  
