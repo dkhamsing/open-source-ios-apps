@@ -2283,6 +2283,24 @@
       "stars": 12
     },
     {
+      "title": "MoneyPlusPro",
+      "category-ids": [
+        "finance",
+        "core-data"
+      ],
+      "description": "Help you record income and expense",
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/IcedOtaku/MoneyPlusPro",
+      "screenshots": [
+        "https://github.com/IcedOtaku/MoneyPlusPro/blob/master/images/main.png"
+      ],
+      "date_added": "Oct 12 2020",
+      "suggested_by": "@IcedOtaku",
+      "stars": 0
+    },
+    {
       "title": "Savings Assistant",
       "category-ids": [
         "finance"
