@@ -2272,7 +2272,8 @@
       ],
       "description": "Help you record income and expense",
       "tags": [
-        "swift"
+        "swift",
+        "snapkit"
       ],
       "source": "https://github.com/SeekingMini/MoneyPlus",
       "screenshots": [
@@ -2280,6 +2281,7 @@
       ],
       "date_added": "May 17 2020",
       "suggested_by": "@SeekingMini",
+      "license": "other",
       "stars": 12
     },
     {
