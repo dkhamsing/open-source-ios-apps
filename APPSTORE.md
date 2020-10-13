@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **271** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **272** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -2628,6 +2628,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added September 28, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/wCinRSS.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Bean Juice](https://github.com/NiftyTreeStudios/Bean-Juice): A simple coffee recipe app [` App Store`](https://apps.apple.com/app/bean-juice/id1502380351)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://www.niftytreestudios.com/work/bean-juice<br>  Added October 13, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/62/56/5a/62565a20-df0d-7619-ea80-4eaf183b32b4/pr_source.png/230x0w.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Emoncms](https://github.com/emoncms/emoncms-ios): Emoncms dashboard [` App Store`](https://apps.apple.com/app/emoncms/id1169483587)  
