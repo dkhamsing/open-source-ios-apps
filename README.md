@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1194-green.svg) ![](https://img.shields.io/badge/Updated-October%2012,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1195-green.svg) ![](https://img.shields.io/badge/Updated-October%2013,%202020-lightgrey.svg)
 
 Jump to
 
@@ -2394,9 +2394,9 @@ File Management — [back to top](#readme)
 
 - [MoneyPlus](https://github.com/SeekingMini/MoneyPlus): Help you record income and expense  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> <code>snapkit</code> </summary>
 
-	Added May 17, 2020<br>
+	Added May 17, 2020<br>  License: `other`<br>
 	<a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -6656,6 +6656,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://icdn5.digitaltrends.com/image/digitaltrends/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb1-768x1367.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [Bean Juice](https://github.com/NiftyTreeStudios/Bean-Juice): A simple coffee recipe app [` App Store`](https://apps.apple.com/app/bean-juice/id1502380351)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://www.niftytreestudios.com/work/bean-juice<br>  Added October 13, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/62/56/5a/62565a20-df0d-7619-ea80-4eaf183b32b4/pr_source.png/230x0w.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [BlogQuest](https://github.com/irace/BlogQuest): Alternative Tumblr client  
   <details>
 	<summary><code>objc</code> </summary>
@@ -7003,9 +7011,9 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [MoneyPlus](https://github.com/SeekingMini/MoneyPlus): Help you record income and expense  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> <code>snapkit</code> </summary>
 
-	Added May 17, 2020<br>
+	Added May 17, 2020<br>  License: `other`<br>
 	<a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'><code>Screenshot 1</code></a> 
   </details>
 
