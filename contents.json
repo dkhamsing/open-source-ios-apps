@@ -23718,6 +23718,22 @@
       ],
       "date_added": "Oct 7 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Bean Juice",
+      "category-ids": ["misc"],
+      "description": "A simple coffee recipe app",
+      "source": "https://github.com/NiftyTreeStudios/Bean-Juice",
+      "homepage": "https://www.niftytreestudios.com/work/bean-juice",
+      "itunes": "https://apps.apple.com/app/bean-juice/id1502380351",		
+      "license": "mit",
+      "stars": 1,     
+      "tags": ["swift"],
+      "screenshots": [
+	"https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/62/56/5a/62565a20-df0d-7619-ea80-4eaf183b32b4/pr_source.png/230x0w.png"
+      ],
+      "date_added": "Oct 13 2020",
+      "suggested_by": "@Iikeli"
     }
   ]
 }
