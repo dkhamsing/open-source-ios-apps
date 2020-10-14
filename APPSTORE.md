@@ -2235,7 +2235,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details>
 	<summary><code>swift</code> ⭐⭐⭐</summary>
 
-	https://lockdownhq.com<br>  Added August 24, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	https://lockdownprivacy.com<br>  Added August 24, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/HeOTZqn.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -2630,7 +2630,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://i.imgur.com/wCinRSS.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Bean Juice](https://github.com/NiftyTreeStudios/Bean-Juice): A simple coffee recipe app [` App Store`](https://apps.apple.com/app/bean-juice/id1502380351)  
+- [Bean Juice](https://github.com/NiftyTreeStudios/Bean-Juice): Coffee brewing recipes [` App Store`](https://apps.apple.com/app/bean-juice/id1502380351)  
   <details>
 	<summary><code>swift</code> </summary>
 
