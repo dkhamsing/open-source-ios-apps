@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1195-green.svg) ![](https://img.shields.io/badge/Updated-October%2013,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1196-green.svg) ![](https://img.shields.io/badge/Updated-October%2014,%202020-lightgrey.svg)
 
 Jump to
 
@@ -402,11 +402,11 @@ Click ► to show more details
 	<a href='https://i.imgur.com/oOfVj2I.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/cI77YU1.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [Quote Today](https://github.com/SaiBalaji22/Quote-Today): This app display a random quote by fetching the quote from the quote API everytime user open the app  
+- [Quote Today](https://github.com/SaiBalaji22/Quote-Today): Display a random quote from the Quote API  
   <details>
 	<summary></summary>
 
-	Added October 11, 2020<br>
+	Added October 11, 2020<br>  License: `other`<br>
 	<a href='https://user-images.githubusercontent.com/51410810/87869133-0b11ba80-c9bb-11ea-80ed-4d4286744caa.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/51410810/87869148-1fee4e00-c9bb-11ea-8935-6646c352a6e6.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/51410810/87869153-2a104c80-c9bb-11ea-932e-53cf16cf0e75.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/51410810/87869174-4b713880-c9bb-11ea-86d0-6a8675cecfb5.png'><code>Screenshot 4</code></a> 
   </details>
 
@@ -5845,7 +5845,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details>
 	<summary><code>swift</code> ⭐⭐⭐</summary>
 
-	https://lockdownhq.com<br>  Added August 24, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	https://lockdownprivacy.com<br>  Added August 24, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/HeOTZqn.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -6656,7 +6656,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://icdn5.digitaltrends.com/image/digitaltrends/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb1-768x1367.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Bean Juice](https://github.com/NiftyTreeStudios/Bean-Juice): A simple coffee recipe app [` App Store`](https://apps.apple.com/app/bean-juice/id1502380351)  
+- [Bean Juice](https://github.com/NiftyTreeStudios/Bean-Juice): Coffee brewing recipes [` App Store`](https://apps.apple.com/app/bean-juice/id1502380351)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -6910,6 +6910,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added November 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/Brimizer/Slidden/raw/master/assets/screenshot.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [SortingAlgorithmsApp](https://github.com/victorpanitz/iOS-SortingAlgorithmsApp)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added October 13, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/CL9hL95.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [SUSI AI](https://github.com/fossasia/susi_iOS): Your Artificial Intelligence for Personal Assistants, Robots, Help Desks and Chatbots  
