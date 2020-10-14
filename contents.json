@@ -23749,6 +23749,19 @@
       ],
       "date_added": "Oct 13 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Flash Chat",
+      "category-ids": [
+        "communication"
+      ],
+      "source": "https://github.com/appbrewery/Flash-Chat-iOS13",
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Oct 14 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
