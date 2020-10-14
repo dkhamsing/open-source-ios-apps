@@ -23735,6 +23735,20 @@
       ],
       "date_added": "Oct 13 2020",
       "suggested_by": "@Iikeli"
+    },
+    {
+      "title": "SortingAlgorithmsApp",
+      "category-ids": [
+        "misc"
+      ],
+      "source": "https://github.com/victorpanitz/iOS-SortingAlgorithmsApp",
+      "screenshots": ["https://i.imgur.com/CL9hL95.png"],
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Oct 13 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
