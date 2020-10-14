@@ -23726,9 +23726,9 @@
       "description": "Coffee brewing recipes",
       "source": "https://github.com/NiftyTreeStudios/Bean-Juice",
       "homepage": "https://www.niftytreestudios.com/work/bean-juice",
-      "itunes": "https://apps.apple.com/app/bean-juice/id1502380351",		
+      "itunes": "https://apps.apple.com/app/bean-juice/id1502380351",
       "license": "mit",
-      "stars": 1,     
+      "stars": 1,
       "tags": ["swift"],
       "screenshots": [
 	"https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/62/56/5a/62565a20-df0d-7619-ea80-4eaf183b32b4/pr_source.png/230x0w.png"
