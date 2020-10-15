@@ -346,11 +346,11 @@ Click ► to show more details
 	<a href='https://cdn-images-1.medium.com/max/800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [KHabit](https://github.com/elkiwy/KHabit): an open, pure and minimalistic app which helps you maintain productive habits. [` App Store`](https://apps.apple.com/app/khabit/id1533656718)  
+- [KHabit](https://github.com/elkiwy/KHabit): Maintain productive habits [` App Store`](https://apps.apple.com/app/khabit/id1533656718)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> </summary>
 
-	Added October 15, 2020<br>
+	Added October 15, 2020<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'><code>Screenshot 3</code></a> 
   </details>
 
@@ -8192,11 +8192,11 @@ https://realm.io/ — [back to top](#readme)
 	Added June 20, 2020<br>  License: `other`
   </details>
 
-- [KHabit](https://github.com/elkiwy/KHabit): an open, pure and minimalistic app which helps you maintain productive habits. [` App Store`](https://apps.apple.com/app/khabit/id1533656718)  
+- [KHabit](https://github.com/elkiwy/KHabit): Maintain productive habits [` App Store`](https://apps.apple.com/app/khabit/id1533656718)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> </summary>
 
-	Added October 15, 2020<br>
+	Added October 15, 2020<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'><code>Screenshot 3</code></a> 
   </details>
 
