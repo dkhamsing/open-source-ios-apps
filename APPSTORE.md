@@ -163,11 +163,11 @@ Click ► to show more details
 	<a href='https://cdn-images-1.medium.com/max/800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [KHabit](https://github.com/elkiwy/KHabit): an open, pure and minimalistic app which helps you maintain productive habits. [` App Store`](https://apps.apple.com/app/khabit/id1533656718)  
+- [KHabit](https://github.com/elkiwy/KHabit): Maintain productive habits [` App Store`](https://apps.apple.com/app/khabit/id1533656718)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> </summary>
 
-	Added October 15, 2020<br>
+	Added October 15, 2020<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'><code>Screenshot 3</code></a> 
   </details>
 
@@ -2967,11 +2967,11 @@ https://realm.io/ — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
   </details>
 
-- [KHabit](https://github.com/elkiwy/KHabit): an open, pure and minimalistic app which helps you maintain productive habits. [` App Store`](https://apps.apple.com/app/khabit/id1533656718)  
+- [KHabit](https://github.com/elkiwy/KHabit): Maintain productive habits [` App Store`](https://apps.apple.com/app/khabit/id1533656718)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> </summary>
 
-	Added October 15, 2020<br>
+	Added October 15, 2020<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'><code>Screenshot 3</code></a> 
   </details>
 
