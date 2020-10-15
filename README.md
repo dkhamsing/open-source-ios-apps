@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1196-green.svg) ![](https://img.shields.io/badge/Updated-October%2014,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1197-green.svg) ![](https://img.shields.io/badge/Updated-October%2015,%202020-lightgrey.svg)
 
 Jump to
 
@@ -344,6 +344,14 @@ Click ► to show more details
 
 	Added January 26, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://cdn-images-1.medium.com/max/800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [KHabit](https://github.com/elkiwy/KHabit): an open, pure and minimalistic app which helps you maintain productive habits. [` App Store`](https://apps.apple.com/app/khabit/id1533656718)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added October 15, 2020<br>
+	<a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer  
@@ -8182,6 +8190,14 @@ https://realm.io/ — [back to top](#readme)
 	<summary><code>swift</code> </summary>
 
 	Added June 20, 2020<br>  License: `other`
+  </details>
+
+- [KHabit](https://github.com/elkiwy/KHabit): an open, pure and minimalistic app which helps you maintain productive habits. [` App Store`](https://apps.apple.com/app/khabit/id1533656718)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added October 15, 2020<br>
+	<a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [Koober](https://github.com/raywenderlich/swiftui-example-app-koober): Ride hailing example  
