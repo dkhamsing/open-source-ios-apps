@@ -23754,11 +23754,12 @@
       "title": "KHabit",
       "category-ids": ["apple-watch", "swiftui"],
       "tags": ["swift", "swiftui"],
-      "description": "an open, pure and minimalistic app which helps you maintain productive habits.",
+      "description": "Maintain productive habits",
       "source": "https://github.com/elkiwy/KHabit",
       "itunes": "https://apps.apple.com/app/khabit/id1533656718",
       "screenshots": ["https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png", "https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png", "https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png"],
       "date_added": "Oct 15 2020",
+      "license": "other",
       "suggested_by": "@elkiwy"
     }
   ]
