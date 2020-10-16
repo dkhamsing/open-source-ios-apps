@@ -23762,6 +23762,17 @@
       ],
       "date_added": "Oct 14 2020",
       "suggested_by": "@dkhamsing"
+      },{
+      "title": "KHabit",
+      "category-ids": ["apple-watch", "swiftui"],
+      "tags": ["swift", "swiftui"],
+      "description": "Maintain productive habits",
+      "source": "https://github.com/elkiwy/KHabit",
+      "itunes": "https://apps.apple.com/app/khabit/id1533656718",
+      "screenshots": ["https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png", "https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png", "https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png"],
+      "date_added": "Oct 15 2020",
+      "license": "other",
+      "suggested_by": "@elkiwy"
     }
   ]
 }

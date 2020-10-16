@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **272** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **273** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -161,6 +161,14 @@ Click ► to show more details
 
 	Added January 26, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://cdn-images-1.medium.com/max/800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [KHabit](https://github.com/elkiwy/KHabit): Maintain productive habits [` App Store`](https://apps.apple.com/app/khabit/id1533656718)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added October 15, 2020<br>  License: `other`<br>
+	<a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [MyWeight History](https://github.com/diogot/MyWeight): Body mass tracker with easy data input & access to history [` App Store`](https://apps.apple.com/app/myweight-history/id1098061879)  
@@ -2235,7 +2243,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   <details>
 	<summary><code>swift</code> ⭐⭐⭐</summary>
 
-	https://lockdownhq.com<br>  Added August 24, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	https://lockdownprivacy.com<br>  Added August 24, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/HeOTZqn.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -2630,7 +2638,7 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://i.imgur.com/wCinRSS.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Bean Juice](https://github.com/NiftyTreeStudios/Bean-Juice): A simple coffee recipe app [` App Store`](https://apps.apple.com/app/bean-juice/id1502380351)  
+- [Bean Juice](https://github.com/NiftyTreeStudios/Bean-Juice): Coffee brewing recipes [` App Store`](https://apps.apple.com/app/bean-juice/id1502380351)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -2957,6 +2965,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added June 13, 2020<br>  License: `other`<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
+  </details>
+
+- [KHabit](https://github.com/elkiwy/KHabit): Maintain productive habits [` App Store`](https://apps.apple.com/app/khabit/id1533656718)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added October 15, 2020<br>  License: `other`<br>
+	<a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'><code>Screenshot 3</code></a> 
   </details>
 
 - [StackOv](https://github.com/surfstudio/StackOv): For Stack Overflow [` App Store`](https://apps.apple.com/app/stackov/id1511838391)  
