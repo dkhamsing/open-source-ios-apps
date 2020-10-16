@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1197-green.svg) ![](https://img.shields.io/badge/Updated-October%2015,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1198-green.svg) ![](https://img.shields.io/badge/Updated-October%2016,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1005,6 +1005,13 @@ Click ► to show more details
 
 	Added June 19, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/48/53/6c/48536cdf-5ca1-8285-c0ed-6eca4da33d1a/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/dd/eb/55/ddeb5549-ef4c-faa2-8b98-71bd796a499f/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/35/11/a5/3511a58d-ef7b-38e8-0365-05629c143489/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/4d/f8/124df875-c3cf-30a5-6506-83b5a80f9252/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
+  </details>
+
+- [Flash Chat](https://github.com/appbrewery/Flash-Chat-iOS13)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added October 14, 2020<br>  License: `other`
   </details>
 
 - [IRCCloud](https://github.com/irccloud/ios): IRC client/service [` App Store`](https://apps.apple.com/app/irccloud/id672699103)  
