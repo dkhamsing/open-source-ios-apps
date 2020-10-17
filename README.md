@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1198-green.svg) ![](https://img.shields.io/badge/Updated-October%2016,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1199-green.svg) ![](https://img.shields.io/badge/Updated-October%2017,%202020-lightgrey.svg)
 
 Jump to
 
@@ -5700,6 +5700,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	https://vimeo.com/136968596<br>  Added April 22, 2016<br>  License: `other`<br>
 	<a href='https://i.imgur.com/vaGCfA0.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Sample MVVM, Data Binding, Dependency Injection](https://github.com/igorkulman/iOSSampleApp)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added October 16, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [Siesta GitHub Browser](https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser): Browse & star GitHub repositories  
