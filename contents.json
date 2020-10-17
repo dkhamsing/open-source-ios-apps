@@ -23773,6 +23773,19 @@
       "date_added": "Oct 15 2020",
       "license": "other",
       "suggested_by": "@elkiwy"
+    },
+    {
+      "title": "Sample MVVM, Data Binding, Dependency Injection",
+      "category-ids": [
+        "sample"
+      ],
+      "source": "https://github.com/igorkulman/iOSSampleApp",
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Oct 16 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
