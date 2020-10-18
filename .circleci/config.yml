@@ -31,9 +31,8 @@ jobs:
         - ~/.go_workspace
         - ~/.gradle
         - ~/.cache/bower
-# Disabled because of an isssue https://app.circleci.com/pipelines/github/dkhamsing/open-source-ios-apps/532/workflows/3f389fb8-9d07-4a61-aeb0-d07d92818b90/jobs/3315       
-#    - run: sudo pip install json-spec 
-#    - run: json validate --schema-file=.github/schema.json --document-file=contents.json
+    - run: sudo pip install json-spec 
+    - run: json validate --schema-file=.github/schema.json --document-file=contents.json
     - run: ruby .github/osia_validate_categories.rb
     - store_test_results:
         path: /tmp/circleci-test-results
