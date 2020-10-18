@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1199-green.svg) ![](https://img.shields.io/badge/Updated-October%2017,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1199-green.svg) ![](https://img.shields.io/badge/Updated-October%2018,%202020-lightgrey.svg)
 
 Jump to
 
