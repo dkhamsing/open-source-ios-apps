@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1199-green.svg) ![](https://img.shields.io/badge/Updated-October%2018,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1200-green.svg) ![](https://img.shields.io/badge/Updated-October%2021,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7251,6 +7251,14 @@ https://flutter.dev — [back to top](#readme)
 
 	Added May  8, 2020<br>  License: `other`<br>
 	<a href='https://i.ibb.co/KWG2Fwx/article-details.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Sandwhich](https://github.com/MotionMobs/Sandwhich): Solve the sandwich debate by determining if the picture you've taken is a sandwich using machine learning  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> <code>python</code> </summary>
+
+	Added October 20, 2020<br>  License: `other`<br>
+	<a href='https://github.com/MotionMobs/Sandwhich/raw/master/media/animated.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [SpaceX GO!](https://github.com/jesusrp98/spacex-go): SpaceX launch tracker  
