@@ -23786,6 +23786,24 @@
       ],
       "date_added": "Oct 16 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Sandwhich",
+      "description": "Solve the sandwich debate by determining if the picture you've taken is a sandwich using machine learning",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/MotionMobs/Sandwhich",
+      "screenshots": ["https://github.com/MotionMobs/Sandwhich/raw/master/media/animated.gif"],
+      "tags": [
+        "flutter",
+        "dart",
+        "python"
+      ],
+      "license": "other",
+      "date_added": "Oct 20 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 97
     }
   ]
 }
