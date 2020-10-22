@@ -23804,6 +23804,23 @@
       "date_added": "Oct 20 2020",
       "suggested_by": "@dkhamsing",
       "stars": 97
+    },
+    {
+      "title": "HackerWeb 2",
+      "category-ids": [
+        "hacker-news",
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "source": "https://github.com/cheeaun/hackerweb-native-2",
+      "screenshots": [
+        "https://github.com/cheeaun/hackerweb-native-2/raw/main/screenshots/hackerweb-stories-light.png"
+      ],
+      "license": "other",
+      "date_added": "Oct 21 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
