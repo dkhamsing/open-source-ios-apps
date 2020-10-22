@@ -23821,6 +23821,23 @@
       "license": "other",
       "date_added": "Oct 21 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "bitalarm",
+      "description": "Cryptocurrencies tracker",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/damoonrashidi/bitalarm",
+      "screenshots": ["https://user-images.githubusercontent.com/207421/79063575-d8ad3e80-7ca2-11ea-82fb-f7c2eee5d340.png"],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "other",
+      "date_added": "Oct 22 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 77
     }
   ]
 }
