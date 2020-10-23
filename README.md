@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1200-green.svg) ![](https://img.shields.io/badge/Updated-October%2021,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1201-green.svg) ![](https://img.shields.io/badge/Updated-October%2022,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4912,6 +4912,14 @@ https://news.ycombinator.com/ — [back to top](#readme)
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/14/98/59/149859fe-f4e3-0a12-d7fb-2d3383efdf45/mzl.ebnguksi.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
+- [HackerWeb 2](https://github.com/cheeaun/hackerweb-native-2)  
+  <details>
+	<summary><code>react-native</code> </summary>
+
+	Added October 21, 2020<br>  License: `other`<br>
+	<a href='https://github.com/cheeaun/hackerweb-native-2/raw/main/screenshots/hackerweb-stories-light.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [HN Reader](https://github.com/Dimillian/SwiftHN): Hacker News Reader [` App Store`](https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741)  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
@@ -7567,6 +7575,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 	Added July 14, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'><code>Screenshot 2</code></a> 
+  </details>
+
+- [HackerWeb 2](https://github.com/cheeaun/hackerweb-native-2)  
+  <details>
+	<summary><code>react-native</code> </summary>
+
+	Added October 21, 2020<br>  License: `other`<br>
+	<a href='https://github.com/cheeaun/hackerweb-native-2/raw/main/screenshots/hackerweb-stories-light.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Haiti, Guam, Puerto Rico, Wyoming - PathCheck Safeplaces](https://github.com/Path-Check/covid-safe-paths): COVID-19 exposure notification and contract tracing [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966)  
