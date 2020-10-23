@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1201-green.svg) ![](https://img.shields.io/badge/Updated-October%2022,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1202-green.svg) ![](https://img.shields.io/badge/Updated-October%2023,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7173,6 +7173,14 @@ https://flutter.dev — [back to top](#readme)
 	<summary><code>flutter</code> <code>dart</code> </summary>
 
 	Added April 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [bitalarm](https://github.com/damoonrashidi/bitalarm): Cryptocurrencies tracker  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> </summary>
+
+	Added October 22, 2020<br>  License: `other`<br>
+	<a href='https://user-images.githubusercontent.com/207421/79063575-d8ad3e80-7ca2-11ea-82fb-f7c2eee5d340.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [BookSearch](https://github.com/Norbert515/BookSearch): Collecting books as you read them  
