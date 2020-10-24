@@ -1344,11 +1344,11 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://i.imgur.com/9f1ojFj.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [France - StopCovid](https://gitlab.inria.fr/stopcovid19/stopcovid-ios) [` App Store`](https://apps.apple.com/app/stopcovid-france/id1511279125)  
+- [France - TousAntiCovid](https://gitlab.inria.fr/stopcovid19/stopcovid-ios) [` App Store`](https://apps.apple.com/app/stopcovid-france/id1511279125)  
   <details>
 	<summary><code>swift</code> 🌐 </summary>
 
-	https://www.economie.gouv.fr/stopcovid<br>  Added May 26, 2020<br>  License: `other`<br>
+	https://www.economie.gouv.fr/tousanticovid<br>  Added May 26, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/xCpSSbP.png'><code>Screenshot 1</code></a> 
   </details>
 
