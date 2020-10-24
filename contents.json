@@ -20913,7 +20913,7 @@
       "stars": 15
     },
     {
-      "title": "France - StopCovid",
+      "title": "France - TousAntiCovid",
       "category-ids": [
         "contact-tracing"
       ],
@@ -20923,7 +20923,7 @@
       "lang": "fra",
       "source": "https://gitlab.inria.fr/stopcovid19/stopcovid-ios",
       "itunes": "https://apps.apple.com/app/stopcovid-france/id1511279125",
-      "homepage": "https://www.economie.gouv.fr/stopcovid",
+      "homepage": "https://www.economie.gouv.fr/tousanticovid",
       "screenshots": [
         "https://i.imgur.com/xCpSSbP.png"
       ],
