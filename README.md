@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1202-green.svg) ![](https://img.shields.io/badge/Updated-October%2024,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1202-green.svg) ![](https://img.shields.io/badge/Updated-October%2025,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1337,7 +1337,7 @@ Click ► to show more details
 	<a href='https://github.com/ndfred/iperf-ios/raw/master/Screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [iSH](https://github.com/ish-app/ish): The Linux shell on iOS  
+- [iSH](https://github.com/ish-app/ish): The Linux shell on iOS [` App Store`](https://apps.apple.com/app/ish-shell/id1436902243)  
   <details>
 	<summary><code>c</code> <code>obj-c</code> ⭐⭐⭐⭐⭐</summary>
 
@@ -1912,7 +1912,7 @@ Click ► to show more details
 	<a href='http://moreinfo.thebigboss.org/moreinfo/iuae1.jpg'><code>Screenshot 1</code></a> <a href='http://moreinfo.thebigboss.org/moreinfo/iuae4.jpg'><code>Screenshot 2</code></a> 
   </details>
 
-- [iSH](https://github.com/ish-app/ish): The Linux shell on iOS  
+- [iSH](https://github.com/ish-app/ish): The Linux shell on iOS [` App Store`](https://apps.apple.com/app/ish-shell/id1436902243)  
   <details>
 	<summary><code>c</code> <code>obj-c</code> ⭐⭐⭐⭐⭐</summary>
 
