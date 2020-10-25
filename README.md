@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1202-green.svg) ![](https://img.shields.io/badge/Updated-October%2023,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1202-green.svg) ![](https://img.shields.io/badge/Updated-October%2024,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3348,11 +3348,11 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://i.imgur.com/9f1ojFj.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [France - StopCovid](https://gitlab.inria.fr/stopcovid19/stopcovid-ios) [` App Store`](https://apps.apple.com/app/stopcovid-france/id1511279125)  
+- [France - TousAntiCovid](https://gitlab.inria.fr/stopcovid19/stopcovid-ios) [` App Store`](https://apps.apple.com/app/stopcovid-france/id1511279125)  
   <details>
 	<summary><code>swift</code> 🌐 </summary>
 
-	https://www.economie.gouv.fr/stopcovid<br>  Added May 26, 2020<br>  License: `other`<br>
+	https://www.economie.gouv.fr/tousanticovid<br>  Added May 26, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/xCpSSbP.png'><code>Screenshot 1</code></a> 
   </details>
 
