@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **273** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **274** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -539,6 +539,14 @@ Click ► to show more details
 	<a href='https://raw.githubusercontent.com/davejacobsen/HapticHaven/master/Screenshots/Screenshots.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [iSH](https://github.com/ish-app/ish): The Linux shell on iOS [` App Store`](https://apps.apple.com/app/ish-shell/id1436902243)  
+  <details>
+	<summary><code>c</code> <code>obj-c</code> ⭐⭐⭐⭐⭐</summary>
+
+	https://ish.app<br>  Added March 21, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg'><code>Screenshot 2</code></a> 
+  </details>
+
 - [iVim](https://github.com/terrychou/iVim): A vim port [` App Store`](https://apps.apple.com/app/ivim/id1266544660)  
   <details>
 	<summary><code>c</code> <code>vim-script</code> ⭐⭐</summary>
@@ -772,6 +780,14 @@ Click ► to show more details
 
 	Added May 13, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://litchie.com/images/splash-small.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [iSH](https://github.com/ish-app/ish): The Linux shell on iOS [` App Store`](https://apps.apple.com/app/ish-shell/id1436902243)  
+  <details>
+	<summary><code>c</code> <code>obj-c</code> ⭐⭐⭐⭐⭐</summary>
+
+	https://ish.app<br>  Added March 21, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg'><code>Screenshot 2</code></a> 
   </details>
 
 
