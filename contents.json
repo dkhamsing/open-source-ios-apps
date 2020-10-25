@@ -370,6 +370,7 @@
       ],
       "description": "The Linux shell on iOS",
       "source": "https://github.com/ish-app/ish",
+      "itunes": "https://apps.apple.com/app/ish-shell/id1436902243",
       "homepage": "https://ish.app",
       "screenshots": [
         "https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg",
