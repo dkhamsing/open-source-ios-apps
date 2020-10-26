@@ -23858,6 +23858,22 @@
       "screenshots": [
         "https://github.com/fimuxd/BringMyOwnBeer-Combine/raw/develop/ScreenShots/Random.png"
       ]
+    },
+    {
+      "title": "Flutter Pokedex",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/scitbiz/flutter_pokedex",
+      "screenshots": ["https://github.com/scitbiz/flutter_pokedex/raw/master/screenshots/home.png"],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "other",
+      "date_added": "Oct 26 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 879
     }
   ]
 }
