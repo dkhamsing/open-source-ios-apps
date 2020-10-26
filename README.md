@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1202-green.svg) ![](https://img.shields.io/badge/Updated-October%2025,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1203-green.svg) ![](https://img.shields.io/badge/Updated-October%2026,%202020-lightgrey.svg)
 
 Jump to
 
@@ -4220,6 +4220,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added June 17, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/yaAkrpm.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [BringMyOwnBeer](https://github.com/fimuxd/BringMyOwnBeer-Combine): Beer browser (Combine)  
+  <details>
+	<summary><code>swift</code> <code>combine</code> </summary>
+
+	Added October 25, 2020<br>  License: `other`<br>
+	<a href='https://github.com/fimuxd/BringMyOwnBeer-Combine/raw/develop/ScreenShots/Random.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Dunk](https://github.com/naoyashiga/Dunk)  
