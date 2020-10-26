@@ -23839,6 +23839,25 @@
       "date_added": "Oct 22 2020",
       "suggested_by": "@dkhamsing",
       "stars": 77
+    },
+    {
+      "title": "BringMyOwnBeer",
+      "category-ids": [
+        "content"
+      ],
+      "description": "Beer browser (Combine)",
+      "license": "other",
+      "source": "https://github.com/fimuxd/BringMyOwnBeer-Combine",
+      "tags": [
+        "swift",
+        "combine"
+      ],
+      "stars": 36,
+      "date_added": "Oct 25 2020",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://github.com/fimuxd/BringMyOwnBeer-Combine/raw/develop/ScreenShots/Random.png"
+      ]
     }
   ]
 }
