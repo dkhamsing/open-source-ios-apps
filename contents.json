@@ -23860,6 +23860,18 @@
       ]
     },
     {
+      "title": "Contribution Graphs for GitHub",
+      "category-ids": ["github"],
+      "description": "Quickly check in on your GitHub contributions from your Home Screen using Widgets",
+      "source": "https://github.com/AnderGoig/github-contributions-ios",
+      "itunes": "https://apps.apple.com/app/id1537192731",		
+      "license": "mit",
+      "tags": ["swift"],
+      "screenshots": ["https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-1.png", "https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-2.png"],
+      "date_added": "Oct 26 2020",
+      "suggested_by": "@AnderGoig"
+    },
+    {
       "title": "Flutter Pokedex",
       "category-ids": [
         "flutter"
