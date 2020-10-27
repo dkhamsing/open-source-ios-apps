@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1204-green.svg) ![](https://img.shields.io/badge/Updated-October%2027,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1205-green.svg) ![](https://img.shields.io/badge/Updated-October%2027,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1546,6 +1546,14 @@ Click ► to show more details
 
 	http://codehub-app.com/<br>  Added June  1, 2016<br>  License: `other`<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/77/e7/1d/77e71d18-b826-ef66-70c8-b626ae944915/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple69/v4/d5/f9/4c/d5f94c85-b1b8-32c7-793a-869b99b556cb/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/73/76/3c/73763cb3-482d-5b6e-e620-413a7a1db461/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple69/v4/bc/c4/95/bcc49560-3812-69c5-7939-83e12743e936/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/9b/a8/e5/9ba8e57e-c5dd-843b-27e1-06b9cc170403/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
+- [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Quickly check in on your GitHub contributions from your Home Screen using Widgets [` App Store`](https://apps.apple.com/app/id1537192731)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added October 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-1.png'><code>Screenshot 1</code></a> <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-2.png'><code>Screenshot 2</code></a> 
   </details>
 
 - [Contributions for GitHub](https://github.com/JustinFincher/GitHubContributionsiOS): Look at your GitHub contributions graph in a Today Extension [` App Store`](https://apps.apple.com/app/contributions-for-github/id1153432612)  
