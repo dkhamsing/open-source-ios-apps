@@ -560,7 +560,7 @@ Click ► to show more details
 	<summary>⭐⭐⭐</summary>
 
 	Added August 11, 2018<br>
-	<a href='https://i.imgur.com/FkkMn0M.gifv'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/FkkMn0M.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [Knuff](https://github.com/KnuffApp/Knuff-iOS): The debug app for Apple Push Notification service [` App Store`](https://apps.apple.com/app/knuff-the-apns-debug-tool/id993435856)  
