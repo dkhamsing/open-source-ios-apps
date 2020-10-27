@@ -16974,7 +16974,7 @@
       "source": "https://github.com/ethanhuang13/knil",
       "itunes": "https://apps.apple.com/app/knil-universal-link-testing/id1195310358",
       "screenshots": [
-        "https://i.imgur.com/FkkMn0M.gifv"
+        "https://i.imgur.com/FkkMn0M.gif"
       ],
       "date_added": "Aug 11 2018",
       "suggested_by": "@ethanhuang13",
@@ -23870,6 +23870,22 @@
       "screenshots": ["https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-1.png", "https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-2.png"],
       "date_added": "Oct 26 2020",
       "suggested_by": "@AnderGoig"
+    },
+    {
+      "title": "Flutter Pokedex",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/scitbiz/flutter_pokedex",
+      "screenshots": ["https://github.com/scitbiz/flutter_pokedex/raw/master/screenshots/home.png"],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "other",
+      "date_added": "Oct 26 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 879
     }
   ]
 }

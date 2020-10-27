@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1203-green.svg) ![](https://img.shields.io/badge/Updated-October%2026,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1204-green.svg) ![](https://img.shields.io/badge/Updated-October%2027,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1366,7 +1366,7 @@ Click ► to show more details
 	<summary>⭐⭐⭐</summary>
 
 	Added August 11, 2018<br>
-	<a href='https://i.imgur.com/FkkMn0M.gifv'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/FkkMn0M.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [Knuff](https://github.com/KnuffApp/Knuff-iOS): The debug app for Apple Push Notification service [` App Store`](https://apps.apple.com/app/knuff-the-apns-debug-tool/id993435856)  
@@ -7228,6 +7228,14 @@ https://flutter.dev — [back to top](#readme)
 
 	Added April 21, 2020<br>  License: `other`<br>
 	<a href='https://user-images.githubusercontent.com/55942632/77102533-00600c80-6a3f-11ea-8212-3735eeb35a90.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Flutter Pokedex](https://github.com/scitbiz/flutter_pokedex)  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> ⭐⭐⭐</summary>
+
+	Added October 26, 2020<br>  License: `other`<br>
+	<a href='https://github.com/scitbiz/flutter_pokedex/raw/master/screenshots/home.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Flutter-Movie: Browse movies](https://github.com/khuong291/Flutter-Movie)  
