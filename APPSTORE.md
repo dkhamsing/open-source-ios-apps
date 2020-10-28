@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **275** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **276** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -743,6 +743,14 @@ Click ► to show more details
 
 	Added April  3, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/2c/50/95/2c5095ff-6142-37cb-97db-a6421590bf02/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/45/8b/9c458b9b-d316-27ec-51ab-6f530b78f2d0/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/2c/22/0f2c227e-f348-1f32-5fa6-e2771c8f7b6d/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day [` App Store`](https://apps.apple.com/app/id1536864924)  
+  <details>
+	<summary></summary>
+
+	Added October 27, 2020<br>
+	<a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on https://stepik.org/ [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926)  
@@ -1942,6 +1950,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 	<a href='http://a1.mzstatic.com/us/r30/Purple111/v4/be/d3/72/bed372f2-d1fb-511b-8e76-d55a7805fc64/screen696x696.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
+- [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day [` App Store`](https://apps.apple.com/app/id1536864924)  
+  <details>
+	<summary></summary>
+
+	Added October 27, 2020<br>
+	<a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'><code>Screenshot 4</code></a> 
+  </details>
+
 - [Upupu](https://github.com/xcoo/upupu): Simple camera that can backup pictures [` App Store`](https://apps.apple.com/app/upupu/id508401854)  
   <details>
 	<summary><code>webdav</code> <code>dropbox</code> </summary>
@@ -2997,6 +3013,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added October 15, 2020<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day [` App Store`](https://apps.apple.com/app/id1536864924)  
+  <details>
+	<summary></summary>
+
+	Added October 27, 2020<br>
+	<a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [StackOv](https://github.com/surfstudio/StackOv): For Stack Overflow [` App Store`](https://apps.apple.com/app/stackov/id1511838391)  
