@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1205-green.svg) ![](https://img.shields.io/badge/Updated-October%2027,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1206-green.svg) ![](https://img.shields.io/badge/Updated-October%2028,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1841,6 +1841,14 @@ Click ► to show more details
 
 	Added May 26, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0b/b5/f6/0bb5f665-9207-58d7-effd-23879f680a01/mzl.jtdasfzc.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/b0/85/4c/b0854c05-6930-b70a-28bc-ea65aefe123f/mzl.udtmgexa.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/5c/7b/955c7b98-b7b6-6680-4024-3f756fef12ac/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/57/d1/bc/57d1bc1d-c8ef-50d4-dda0-fadcd7cc9282/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
+  </details>
+
+- [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day [` App Store`](https://apps.apple.com/app/id1536864924)  
+  <details>
+	<summary></summary>
+
+	Added October 27, 2020<br>
+	<a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on https://stepik.org/ [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926)  
@@ -4666,6 +4674,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 	Added November 18, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/crspybits/SharedImages/raw/master/Screenshots/screenshot1.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day [` App Store`](https://apps.apple.com/app/id1536864924)  
+  <details>
+	<summary></summary>
+
+	Added October 27, 2020<br>
+	<a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [Tagger](https://github.com/ivan-magda/Tagger): Help tag your photos on Instagram or Flickr  
@@ -8453,6 +8469,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added July  6, 2020<br>  License: `other`<br>
 	<a href='https://filipmolcik.com/wp-content/uploads/2020/07/iphonexspacegrey_portrait-2-1024x1024.png'><code>Screenshot 1</code></a> <a href='https://filipmolcik.com/wp-content/uploads/2020/07/iphonexspacegrey_landscape-2-1024x1024.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day [` App Store`](https://apps.apple.com/app/id1536864924)  
+  <details>
+	<summary></summary>
+
+	Added October 27, 2020<br>
+	<a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [StackOv](https://github.com/surfstudio/StackOv): For Stack Overflow [` App Store`](https://apps.apple.com/app/stackov/id1511838391)  
