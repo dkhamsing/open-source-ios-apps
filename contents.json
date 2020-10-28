@@ -23886,6 +23886,16 @@
       "date_added": "Oct 26 2020",
       "suggested_by": "@dkhamsing",
       "stars": 879
+    },
+    {
+      "title": "Space!",
+      "category-ids": ["swiftui", "education", "photo"],
+      "description": "iOS 14 widget displaying NASA's Astronomy Picture of the Day",
+      "source": "https://github.com/jtbandes/SpacePOD",
+      "itunes": "https://apps.apple.com/app/id1536864924",
+      "screenshots": ["https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png", "https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png", "https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png", "https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png"],
+      "date_added": "Oct 27 2020",
+      "suggested_by": "@jtbandes"
     }
   ]
 }
