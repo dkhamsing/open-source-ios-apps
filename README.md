@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1206-green.svg) ![](https://img.shields.io/badge/Updated-October%2028,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1207-green.svg) ![](https://img.shields.io/badge/Updated-October%2029,%202020-lightgrey.svg)
 
 Jump to
 
@@ -8562,6 +8562,14 @@ https://realm.io/ — [back to top](#readme)
 
 	Added May  9, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://p93.f3.n0.cdn.getcloudapp.com/items/BluZWjKm/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20%282nd%20generation%29%20-%202020-05-07%20at%2013.18.57.png?v=e42b4b30c4fd5da17ccde5a61d7cf2d4'><code>Screenshot 1</code></a> 
+  </details>
+
+- [SwiftUIAuthenticationCompleted](https://github.com/alfianlosari/SwiftUIAuthenticationCompleted): Authentication in SwiftUI using Firebase Auth SDK & Sign in with Apple  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>firebase</code> </summary>
+
+	Added October 28, 2020<br>  License: `other`<br>
+	<a href='https://github.com/alfianlosari/SwiftUIAuthenticationCompleted/raw/master/promo.jpg?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [SwiftUIMindBlowing](https://github.com/antranapp/SwiftUIMindBlowing): Collections of mind-blowing snippets and projects  
