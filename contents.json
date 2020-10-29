@@ -84,6 +84,12 @@
       "parent": "extension"
     },
     {
+      "title": "Widget",
+      "id": "widget",
+      "description": "Widget (iOS 14)",
+      "parent": "extension"
+    },
+    {
       "title": "File",
       "id": "file",
       "description": "File Management"
@@ -21708,7 +21714,8 @@
       "title": "Fruta",
       "category-ids": [
         "swiftui",
-        "macos"
+        "macos",
+        "widget"
       ],
       "description": "Create a shared codebase to build a multiplatform app that offers widgets and an app clip - WWDC 2020 sample code by Apple",
       "source": "https://developer.apple.com/documentation/app_clips/fruta_building_a_feature-rich_app_with_swiftui",
@@ -23221,7 +23228,7 @@
       "title": "Fivey",
       "description": "iOS 14 widget to show FiveThirtyEight's 2020 election model results",
       "category-ids": [
-        "misc"
+        "widget"
       ],
       "source": "https://github.com/CastIrony/Fivey",
       "screenshots": [
@@ -23889,7 +23896,7 @@
     },
     {
       "title": "Space!",
-      "category-ids": ["swiftui", "education", "photo"],
+      "category-ids": ["swiftui", "education", "photo", "widget"],
       "description": "iOS 14 widget displaying NASA's Astronomy Picture of the Day",
       "source": "https://github.com/jtbandes/SpacePOD",
       "itunes": "https://apps.apple.com/app/id1536864924",
