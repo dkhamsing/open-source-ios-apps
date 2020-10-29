@@ -23896,6 +23896,25 @@
       "screenshots": ["https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png", "https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png", "https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png", "https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png"],
       "date_added": "Oct 27 2020",
       "suggested_by": "@jtbandes"
+    },
+    {
+      "title": "SwiftUIAuthenticationCompleted",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Authentication in SwiftUI using Firebase Auth SDK & Sign in with Apple",
+      "source": "https://github.com/alfianlosari/SwiftUIAuthenticationCompleted",
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui",
+        "firebase"
+      ],
+      "screenshots": [
+        "https://github.com/alfianlosari/SwiftUIAuthenticationCompleted/raw/master/promo.jpg?raw=true"
+      ],
+      "date_added": "Oct 28 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
