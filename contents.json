@@ -23922,6 +23922,23 @@
       ],
       "date_added": "Oct 28 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "flutterflip",
+      "description": "Single-player reversi game clone",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/RedBrogdon/flutterflip",
+      "screenshots": ["https://i.imgur.com/A96Hdcr.png"],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "other",
+      "date_added": "Oct 31 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 178
     }
   ]
 }
