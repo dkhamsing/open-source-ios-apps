@@ -28,6 +28,7 @@ Jump to
 - [Extension](#extension) 
   - [Content Blocking](#content-blocking) 
   - [Today](#today) 
+  - [Widget](#widget) 
 - [File](#file) 
 - [Finance](#finance) 
   - [Cryptocurrency](#cryptocurrency) 
@@ -943,6 +944,19 @@ Today Extensions or Widgets — [back to top](#readme)
 
 	Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cdn-images-1.medium.com/max/800/1*9qSbd77zijp5UPODaWM9CQ.png'><code>Screenshot 1</code></a> 
+  </details>
+
+
+### Widget 
+ 
+Widget (iOS 14) — [back to top](#readme) 
+ 
+- [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day [` App Store`](https://apps.apple.com/app/id1536864924)  
+  <details>
+	<summary></summary>
+
+	Added October 27, 2020<br>
+	<a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'><code>Screenshot 4</code></a> 
   </details>
 
 

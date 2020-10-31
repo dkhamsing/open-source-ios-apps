@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1207-green.svg) ![](https://img.shields.io/badge/Updated-October%2029,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1207-green.svg) ![](https://img.shields.io/badge/Updated-October%2031,%202020-lightgrey.svg)
 
 Jump to
 
@@ -28,6 +28,7 @@ Jump to
 - [Extension](#extension) 
   - [Content Blocking](#content-blocking) 
   - [Today](#today) 
+  - [Widget](#widget) 
 - [File](#file) 
 - [Finance](#finance) 
   - [Cryptocurrency](#cryptocurrency) 
@@ -2286,6 +2287,34 @@ Today Extensions or Widgets — [back to top](#readme)
 
 	Added March 16, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cdn-images-1.medium.com/max/800/1*9qSbd77zijp5UPODaWM9CQ.png'><code>Screenshot 1</code></a> 
+  </details>
+
+
+### Widget 
+ 
+Widget (iOS 14) — [back to top](#readme) 
+ 
+- [Fivey](https://github.com/CastIrony/Fivey): iOS 14 widget to show FiveThirtyEight's 2020 election model results  
+  <details>
+	<summary><code>swift</code> <code>macos</code> <code>widgetkit</code> </summary>
+
+	Added September  6, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/R4CrwtY.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Fruta](https://developer.apple.com/documentation/app_clips/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an app clip - WWDC 2020 sample code by Apple  
+  <details>
+	<summary><code>swift</code> <code>ios14</code> <code>widgetkit</code> <code>macos</code> <code>app-clip</code> </summary>
+
+	Added June 23, 2020<br>  License: `other`
+  </details>
+
+- [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day [` App Store`](https://apps.apple.com/app/id1536864924)  
+  <details>
+	<summary></summary>
+
+	Added October 27, 2020<br>
+	<a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'><code>Screenshot 4</code></a> 
   </details>
 
 
@@ -6796,14 +6825,6 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added April 17, 2020<br>  License: `other`<br>
 	<a href='https://user-images.githubusercontent.com/21070922/44155410-d3d87ee8-a0ca-11e8-8502-6f2b2748f5cb.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Fivey](https://github.com/CastIrony/Fivey): iOS 14 widget to show FiveThirtyEight's 2020 election model results  
-  <details>
-	<summary><code>swift</code> <code>macos</code> <code>widgetkit</code> </summary>
-
-	Added September  6, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/R4CrwtY.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [FlightUtilities](https://github.com/BalestraPatrick/FlightUtilities): Uses the private FlightUtilities.framework to show information about any flight given the airline code, flight code and date  
