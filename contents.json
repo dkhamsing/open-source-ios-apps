@@ -16915,7 +16915,7 @@
         "swift"
       ],
       "description": "Memory game using VIPER with robust Unit Tests and Fastlane",
-      "source": "https://github.com/matiasvillaverde/mobile-ios-vipergame",
+      "source": "https://github.com/integer256/mobile-ios-vipergame",
       "license": "mit",
       "screenshots": [
         "https://raw.githubusercontent.com/matiasvillaverde/mobile-ios-vipergame/master/header.png"
