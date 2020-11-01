@@ -951,6 +951,14 @@ Today Extensions or Widgets — [back to top](#readme)
  
 Widget (iOS 14) — [back to top](#readme) 
  
+- [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Quickly check in on your GitHub contributions from your Home Screen using Widgets [` App Store`](https://apps.apple.com/app/id1537192731)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added October 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-1.png'><code>Screenshot 1</code></a> <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-2.png'><code>Screenshot 2</code></a> 
+  </details>
+
 - [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day [` App Store`](https://apps.apple.com/app/id1536864924)  
   <details>
 	<summary></summary>
@@ -1440,7 +1448,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [NHS COVID-19 - UK](https://github.com/nhsx/covid-19-app-ios-ag-public) [` App Store`](https://apps.apple.com/gb/app/nhs-covid-19/id1520427663)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	https://www.nhsx.nhs.uk<br>  Added September 24, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/UwpQpVv.png'><code>Screenshot 1</code></a> 
@@ -1776,7 +1784,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [BookPlayer](https://github.com/TortugaPower/BookPlayer): Player for your DRM-free audiobooks [` App Store`](https://apps.apple.com/app/bookplayer-audio-book-player/id1138219998)  
   <details>
-	<summary><code>swift</code> ⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐</summary>
 
 	Added July  6, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'><code>Screenshot 3</code></a> 
