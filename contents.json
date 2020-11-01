@@ -23927,7 +23927,7 @@
     {
       "title": "Contribution Graphs for GitHub",
       "category-ids": [
-        "github"
+        "github", "widget"
       ],
       "description": "Quickly check in on your GitHub contributions from your Home Screen using Widgets",
       "source": "https://github.com/AnderGoig/github-contributions-ios",
