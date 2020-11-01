@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1207-green.svg) ![](https://img.shields.io/badge/Updated-October%2031,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1208-green.svg) ![](https://img.shields.io/badge/Updated-November%20%201,%202020-lightgrey.svg)
 
 Jump to
 
@@ -776,7 +776,7 @@ Click ► to show more details
 
 - [appstore](https://github.com/phillfarrugia/appstore-clone)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐⭐</summary>
 
 	Added October  4, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cdn-images-1.medium.com/max/2000/1*tQ0-dhZvBH3O0h9GTScihA.png'><code>Screenshot 1</code></a> 
@@ -2294,6 +2294,14 @@ Today Extensions or Widgets — [back to top](#readme)
  
 Widget (iOS 14) — [back to top](#readme) 
  
+- [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Quickly check in on your GitHub contributions from your Home Screen using Widgets [` App Store`](https://apps.apple.com/app/id1537192731)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added October 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-1.png'><code>Screenshot 1</code></a> <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-2.png'><code>Screenshot 2</code></a> 
+  </details>
+
 - [Fivey](https://github.com/CastIrony/Fivey): iOS 14 widget to show FiveThirtyEight's 2020 election model results  
   <details>
 	<summary><code>swift</code> <code>macos</code> <code>widgetkit</code> </summary>
@@ -2339,7 +2347,7 @@ File Management — [back to top](#readme)
 
 - [File Browser](https://github.com/steventroughtonsmith/files-ios)  
   <details>
-	<summary><code>objc</code> </summary>
+	<summary><code>objc</code> ⭐⭐</summary>
 
 	Added October  6, 2020<br>  License: `other`<br>
 	<a href='https://lh3.googleusercontent.com/-bPGPJDM78p0/V13sA3epxEI/AAAAAAAACNs/McPEkTL1mZY9pYrZxmZzsFibBwDoDz_ugCCo/s800/A1.jpg'><code>Screenshot 1</code></a> 
@@ -2896,7 +2904,7 @@ File Management — [back to top](#readme)
 	<a href='https://google.github.io/mechahamster/gameplay1.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Memory Game](https://github.com/matiasvillaverde/mobile-ios-vipergame): Memory game using VIPER with robust Unit Tests and Fastlane  
+- [Memory Game](https://github.com/integer256/mobile-ios-vipergame): Memory game using VIPER with robust Unit Tests and Fastlane  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -3443,14 +3451,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [Netherlands - Covid19 Notification](https://github.com/minvws/nl-covid19-notification-app-ios)  
   <details>
-	<summary><code>swift</code> 🌐 </summary>
+	<summary><code>swift</code> 🌐 ⭐</summary>
 
 	Added July 27, 2020<br>  License: `other`
   </details>
 
 - [NHS COVID-19 - UK](https://github.com/nhsx/covid-19-app-ios-ag-public) [` App Store`](https://apps.apple.com/gb/app/nhs-covid-19/id1520427663)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	https://www.nhsx.nhs.uk<br>  Added September 24, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/UwpQpVv.png'><code>Screenshot 1</code></a> 
@@ -4090,7 +4098,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [BookPlayer](https://github.com/TortugaPower/BookPlayer): Player for your DRM-free audiobooks [` App Store`](https://apps.apple.com/app/bookplayer-audio-book-player/id1138219998)  
   <details>
-	<summary><code>swift</code> ⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐</summary>
 
 	Added July  6, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'><code>Screenshot 3</code></a> 
@@ -5773,7 +5781,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [Sample MVVM, Data Binding, Dependency Injection](https://github.com/igorkulman/iOSSampleApp)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐⭐</summary>
 
 	Added October 16, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
@@ -6925,7 +6933,7 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [OctoPod](https://github.com/gdombiak/OctoPod): OctoPrint app  
   <details>
-	<summary><code>swift</code> <code>starscream</code> <code>charts</code> </summary>
+	<summary><code>swift</code> <code>starscream</code> <code>charts</code> ⭐</summary>
 
 	License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://github.com/gdombiak/OctoPod/raw/master/screenshots/OctoPod_Panel.png'><code>Screenshot 1</code></a> 
@@ -7291,6 +7299,14 @@ https://flutter.dev — [back to top](#readme)
 	<a href='https://github.com/khuong291/Flutter-Movie/raw/master/1.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [flutterflip](https://github.com/RedBrogdon/flutterflip): Single-player reversi game clone  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> ⭐</summary>
+
+	Added October 31, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/A96Hdcr.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Fluttery Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy): Movies powered by tmdb  
   <details>
 	<summary><code>flutter</code> <code>dart</code> ⭐</summary>
@@ -7309,7 +7325,7 @@ https://flutter.dev — [back to top](#readme)
 
 - [Grocery Shopping](https://github.com/Widle-Studio/Grocery-App)  
   <details>
-	<summary><code>flutter</code> <code>dart</code> ⭐⭐</summary>
+	<summary><code>flutter</code> <code>dart</code> ⭐⭐⭐</summary>
 
 	Added June 10, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://github.com/Widle-Studio/Grocery-App/raw/master/ScreenShot/Animation%20-11-01-11-57-17-742%5B1%5D-ANIMATION.gif'><code>Screenshot 1</code></a> 
@@ -7340,7 +7356,7 @@ https://flutter.dev — [back to top](#readme)
 
 - [SpaceX GO!](https://github.com/jesusrp98/spacex-go): SpaceX launch tracker  
   <details>
-	<summary><code>flutter</code> <code>dart</code> ⭐⭐</summary>
+	<summary><code>flutter</code> <code>dart</code> ⭐⭐⭐</summary>
 
 	Added August 17, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://raw.githubusercontent.com/jesusrp98/spacex-go/master/screenshots/0.jpg'><code>Screenshot 1</code></a> 
@@ -8738,7 +8754,7 @@ https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture
 	<a href='https://i.imgur.com/COrDl6n.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Memory Game](https://github.com/matiasvillaverde/mobile-ios-vipergame): Memory game using VIPER with robust Unit Tests and Fastlane  
+- [Memory Game](https://github.com/integer256/mobile-ios-vipergame): Memory game using VIPER with robust Unit Tests and Fastlane  
   <details>
 	<summary><code>swift</code> </summary>
 
