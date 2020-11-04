@@ -20535,7 +20535,7 @@
         "communication",
         "react-native"
       ],
-      "description": "Simple, elegant and open-source live chat software for businesses",
+      "description": "Live chat for businesses",
       "license": "mit",
       "source": "https://github.com/chatwoot/chatwoot-mobile-app",
       "itunes": "https://apps.apple.com/app/id1495796682",
@@ -20543,10 +20543,7 @@
         "react-native"
       ],
       "screenshots": [
-        "https://www.dropbox.com/s/dstxe5715haqr6w/conversation.png?dl=0",
-        "https://www.dropbox.com/s/889ga43f4ruw8rt/chat.png?dl=0",
-        "https://www.dropbox.com/s/gkifksfh7w1ks75/details.png?dl=0",
-        "https://www.dropbox.com/s/p44g526u2fd5p6a/settings.png?dl=0"
+        "https://i.imgur.com/2c2XCKd.png"
       ],
       "stars": 66,
       "date_added": "Nov 4 2020",
