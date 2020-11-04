@@ -927,14 +927,6 @@ Click ► to show more details
 ## Communication 
  
 [back to top](#readme) 
-
-- [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app): Simple, elegant and open-source live chat software for businesses [` App Store`](https://apps.apple.com/app/id1495796682)  
-  <details>
-	<summary><code>react-native</code> ⭐⭐⭐⭐</summary>
-
-	Added Nov 4, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://www.dropbox.com/s/dstxe5715haqr6w/conversation.png?dl=0'><code>Screenshot 1</code></a> <a href='https://www.dropbox.com/s/889ga43f4ruw8rt/chat.png?dl=0'><code>Screenshot 2</code></a> <a href='https://www.dropbox.com/s/gkifksfh7w1ks75/details.png?dl=0'><code>Screenshot 3</code></a> <a href='https://www.dropbox.com/s/p44g526u2fd5p6a/settings.png?dl=0'><code>Screenshot 4</code></a> 
-  </details>
  
 - [afone](https://github.com/automat-berlin/afone/): Reference implementation for SIP Telephony that can be used on different SIP stacks with no effort [` App Store`](https://apps.apple.com/app/afone/id1470424336)  
   <details>
