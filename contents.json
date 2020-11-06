@@ -24041,6 +24041,28 @@
       "date_added": "Oct 31 2020",
       "suggested_by": "@dkhamsing",
       "stars": 178
+    },
+    {
+      "title": "Spain - RadarCOVID",
+      "description": "RadarCOVID tracing using DP3T",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "tags": [
+        "swift",
+        "dp3t"
+      ],
+      "lang": "spa",
+      "source": "https://github.com/RadarCOVID/radar-covid-ios",
+      "itunes": "https://apps.apple.com/app/radar-covid/id1520443509",
+      "homepage": "https://radarcovid.gob.es",
+      "screenshots": [
+        "https://i.imgur.com/ZuwiVyO.png"
+      ],
+      "license":"mpl-2.0",
+      "date_added": "Nov 6 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 260
     }
   ]
 }
