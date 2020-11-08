@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1210-green.svg) ![](https://img.shields.io/badge/Updated-November%20%206,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1210-green.svg) ![](https://img.shields.io/badge/Updated-November%20%208,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3464,14 +3464,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	Added July 27, 2020<br>  License: `other`
   </details>
 
-- [NHS COVID-19 - UK](https://github.com/nhsx/covid-19-app-ios-ag-public) [` App Store`](https://apps.apple.com/gb/app/nhs-covid-19/id1520427663)  
-  <details>
-	<summary><code>swift</code> ⭐</summary>
-
-	https://www.nhsx.nhs.uk<br>  Added September 24, 2020<br>  License: `other`<br>
-	<a href='https://i.imgur.com/UwpQpVv.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Poland - ProteGO Safe](https://github.com/ProteGO-Safe/ios): User daily triage and contact tracing using Exposure Notification API [` App Store`](https://apps.apple.com/app/protego-safe/id1508481566)  
   <details>
 	<summary><code>swift</code> 🌐 </summary>
@@ -3501,6 +3493,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 	Added May 30, 2020<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
 	<a href='https://github.com/DP-3T/dp3t-app-ios-ch/blob/develop/Documentation/screenshots/screenshots.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [UK - NHS COVID-19](https://github.com/nhsx/covid-19-app-ios-ag-public) [` App Store`](https://apps.apple.com/gb/app/nhs-covid-19/id1520427663)  
+  <details>
+	<summary><code>swift</code> ⭐</summary>
+
+	https://www.nhsx.nhs.uk<br>  Added September 24, 2020<br>  License: `other`<br>
+	<a href='https://i.imgur.com/UwpQpVv.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [USA Arizona - Covid Watch](https://github.com/covidwatchorg/covidwatch-ios-en) [` App Store`](https://apps.apple.com/us/app/id1521655110)  
