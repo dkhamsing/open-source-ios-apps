@@ -15980,7 +15980,7 @@
       ],
       "description": "Display and monitor the current Bitcoint rate",
       "source": "https://github.com/Bruno-Furtado/bitprice-ios",
-      "itunes": "https://itunes.apple.com/us/app/bitprice-bitcoin-rate/id1343270451?l=pt&ls=1&mt=8",
+      "itunes": "https://itunes.apple.com/app/bitprice-bitcoin-rate/id1343270451",
       "license": "mit",
       "stars": 32,
       "tags": [
