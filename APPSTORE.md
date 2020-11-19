@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **278** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **279** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1083,6 +1083,14 @@ File Management — [back to top](#readme)
 
 	https://alphawallet.com/<br>  Added November 11, 2019<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/28/bc/b1/28bcb153-cf24-d26d-86cf-4d8c45e0584d/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/97/61/21/97612163-8c96-d1cc-00a1-c913d506a0a9/mzl.ikcervdr.png/230x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/61/b3/1e/61b31e3d-e891-6662-5f70-13222f15d4ac/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
+  </details>
+
+- [BitPrice](https://github.com/Bruno-Furtado/bitprice-ios): Display and monitor the current Bitcoint rate [` App Store`](https://apps.apple.com/app/bitprice-bitcoin-rate/id1343270451)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added February  6, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/07/30/e3/0730e3d1-dd14-e27f-b982-734f3f8dda6d/source/230x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/da/2a/10/da2a1060-8e6c-4a9d-41ef-3839a493cf92/source/230x0w.jpg'><code>Screenshot 2</code></a> 
   </details>
 
 - [Bread](https://github.com/breadwallet/breadwallet-ios): Bitcoin wallet [` App Store`](https://apps.apple.com/app/breadwallet/id885251393)  
