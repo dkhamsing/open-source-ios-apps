@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1210-green.svg) ![](https://img.shields.io/badge/Updated-November%2019,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1210-green.svg) ![](https://img.shields.io/badge/Updated-November%2021,%202020-lightgrey.svg)
 
 Jump to
 
@@ -77,7 +77,6 @@ Jump to
   - [Flutter](#flutter) 
   - [Ionic](#ionic) 
   - [macOS](#macos) 
-  - [Parse](#parse) 
   - [React Native](#react-native) 
   - [Realm](#realm) 
   - [SwiftUI](#swiftui) 
@@ -3544,13 +3543,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [Jim](https://github.com/kylejm/Jim): Track your gym workouts  
-  <details>
-	<summary><code>swift</code> <code>parse</code> </summary>
-
-	Added January  4, 2016<br>  License: `other`
-  </details>
-
 - [OutRun](https://github.com/timfraedrich/OutRun): Outdoor fitness tracker that supports walking, hiking, cycling and skating [` App Store`](https://apps.apple.com/app/OutRun/id1477511092)  
   <details>
 	<summary><code>swift</code> <code>snapkit</code> <code>charts</code> </summary>
@@ -4610,6 +4602,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
  
 [back to top](#readme) 
  
+- [Anypic](https://github.com/SwiftAnyPic/SwiftAnyPic)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added November  2, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)<br>
+	<a href='https://i.imgur.com/hkcrHaH.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
 - [ArtShredder](https://github.com/marty-suzuki/ArtShredder): Banksy Shredder  
   <details>
 	<summary><code>swift</code> <code>arkit</code> <code>banksy</code> 🌐 </summary>
@@ -6308,14 +6308,6 @@ https://joinmastodon.org — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [1Trackr](https://github.com/JerryHDev/1Trackr): Log your community service hours to the cloud  
-  <details>
-	<summary><code>parse</code> </summary>
-
-	Added April 11, 2016<br>  License: `other`<br>
-	<a href='https://raw.githubusercontent.com/JerryHDev/1Trackr/master/Screenshots/Simulator%20Screen%20Shot%20Sep%2028%2C%202016%2C%202.18.07%20PM.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/JerryHDev/1Trackr/master/Screenshots/Simulator%20Screen%20Shot%20Sep%2028%2C%202016%2C%202.19.28%20PM.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/JerryHDev/1Trackr/master/Screenshots/Simulator%20Screen%20Shot%20Sep%2028%2C%202016%2C%202.19.40%20PM.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/JerryHDev/1Trackr/master/Screenshots/Simulator%20Screen%20Shot%20Sep%2028%2C%202016%2C%202.20.50%20PM.png'><code>Screenshot 4</code></a> 
-  </details>
-
 - [eCortex](https://github.com/whymani005/cortex): Manage / organize thoughts & ideas into custom categories  
   <details>
 	<summary><code>swift</code> </summary>
@@ -7508,42 +7500,6 @@ Cross platform projects — [back to top](#readme)
 
 	Added July 12, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'><code>Screenshot 1</code></a> 
-  </details>
-
-
-### Parse 
- 
-https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme) 
- 
-- [1Trackr](https://github.com/JerryHDev/1Trackr): Log your community service hours to the cloud  
-  <details>
-	<summary><code>parse</code> </summary>
-
-	Added April 11, 2016<br>  License: `other`<br>
-	<a href='https://raw.githubusercontent.com/JerryHDev/1Trackr/master/Screenshots/Simulator%20Screen%20Shot%20Sep%2028%2C%202016%2C%202.18.07%20PM.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/JerryHDev/1Trackr/master/Screenshots/Simulator%20Screen%20Shot%20Sep%2028%2C%202016%2C%202.19.28%20PM.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/JerryHDev/1Trackr/master/Screenshots/Simulator%20Screen%20Shot%20Sep%2028%2C%202016%2C%202.19.40%20PM.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/JerryHDev/1Trackr/master/Screenshots/Simulator%20Screen%20Shot%20Sep%2028%2C%202016%2C%202.20.50%20PM.png'><code>Screenshot 4</code></a> 
-  </details>
-
-- [Anypic](https://github.com/SwiftAnyPic/SwiftAnyPic)  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added November  2, 2015<br>  License: [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/)<br>
-	<a href='https://i.imgur.com/hkcrHaH.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Jim](https://github.com/kylejm/Jim): Track your gym workouts  
-  <details>
-	<summary><code>swift</code> <code>parse</code> </summary>
-
-	Added January  4, 2016<br>  License: `other`
-  </details>
-
-- [RaceMe](https://github.com/enochng1/RaceMe): Run tracking & ghosting  
-  <details>
-	<summary><code>swift</code> <code>parse</code> ⭐⭐⭐</summary>
-
-	Added July 20, 2016<br>  License: `other`<br>
-	<a href='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'><code>Screenshot 1</code></a> 
   </details>
 
 
