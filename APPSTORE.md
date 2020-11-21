@@ -77,7 +77,6 @@ Jump to
   - [Flutter](#flutter) 
   - [Ionic](#ionic) 
   - [macOS](#macos) 
-  - [Parse](#parse) 
   - [React Native](#react-native) 
   - [Realm](#realm) 
   - [SwiftUI](#swiftui) 
@@ -2898,11 +2897,6 @@ Cross platform projects — [back to top](#readme)
 	<a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'><code>Screenshot 1</code></a> 
   </details>
 
-
-### Parse 
- 
-https://en.wikipedia.org/wiki/Parse_(company) — [back to top](#readme) 
- 
 
 ### React Native 
  
