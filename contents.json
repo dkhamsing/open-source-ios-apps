@@ -324,12 +324,6 @@
       "description": "Cross platform projects"
     },
     {
-      "title": "Parse",
-      "id": "parse",
-      "parent": "misc",
-      "description": "https://en.wikipedia.org/wiki/Parse_(company)"
-    },
-    {
       "title": "React Native",
       "id": "react-native",
       "parent": "misc",
@@ -3092,14 +3086,14 @@
     {
       "title": "Jim",
       "category-ids": [
-        "fitness",
-        "parse"
+        "fitness"
       ],
       "description": "Track your gym workouts",
       "source": "https://github.com/kylejm/Jim",
       "tags": [
         "swift",
-        "parse"
+        "parse",
+        "archive"
       ],
       "stars": 58,
       "license": "other",
@@ -5696,12 +5690,11 @@
     {
       "title": "1Trackr",
       "category-ids": [
-        "tasks",
-        "parse"
+        "tasks"
       ],
       "description": "Log your community service hours to the cloud",
       "tags": [
-        "parse"
+        "parse", "archive"
       ],
       "source": "https://github.com/JerryHDev/1Trackr",
       "stars": 5,
@@ -7330,7 +7323,6 @@
     {
       "title": "Anypic",
       "category-ids": [
-        "parse",
         "clone"
       ],
       "tags": [
@@ -7352,7 +7344,7 @@
     {
       "title": "Anypic",
       "category-ids": [
-        "parse"
+        "photo"
       ],
       "source": "https://github.com/SwiftAnyPic/SwiftAnyPic",
       "tags": [
@@ -11122,7 +11114,6 @@
       "title": "RaceMe",
       "category-ids": [
         "realm",
-        "parse",
         "fitness"
       ],
       "description": "Run tracking & ghosting",
