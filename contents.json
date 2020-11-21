@@ -3532,7 +3532,6 @@
       "title": "iBeaconTasks",
       "category-ids": [
         "location",
-        "parse",
         "tasks"
       ],
       "tags": [
@@ -7301,7 +7300,7 @@
     {
       "title": "2CITY",
       "category-ids": [
-        "parse"
+        "misc"
       ],
       "tags": [
         "objc",
@@ -7361,7 +7360,7 @@
     {
       "title": "AnyWall",
       "category-ids": [
-        "parse"
+        "misc"
       ],
       "tags": [
         "archive"
@@ -7400,7 +7399,7 @@
     {
       "title": "Parse-Challenge-App",
       "category-ids": [
-        "parse"
+        "misc"
       ],
       "tags": [
         "iphone",
@@ -7422,7 +7421,7 @@
     {
       "title": "ParseStore",
       "category-ids": [
-        "parse"
+        "misc"
       ],
       "tags": [
         "archive"
@@ -7441,7 +7440,7 @@
     {
       "title": "Paws",
       "category-ids": [
-        "parse",
+        "misc",
         "clone"
       ],
       "description": "Instagram clone",
@@ -9547,7 +9546,7 @@
       "category-ids": [
         "game",
         "reactivecocoa",
-        "parse"
+        "misc"
       ],
       "tags": [
         "reactivecocoa",
@@ -15562,7 +15561,7 @@
     {
       "title": "Parse Dashboard",
       "category-ids": [
-        "parse"
+        "misc"
       ],
       "tags": [
         "swift",
