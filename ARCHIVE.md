@@ -3,6 +3,7 @@
 This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.
 
 
+- [1Trackr](https://github.com/JerryHDev/1Trackr)
 - [2048](https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/2048)
 - [2CITY](https://github.com/2city/2CITY-iOS)
 - [8mph](https://github.com/zadr/8mph)
@@ -155,6 +156,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler)
 - [IpfsIosAppExample](https://github.com/NeoTeo/IpfsIosAppExample)
 - [iStockcheck](https://github.com/AndrewBennet/iStockcheck)
+- [Jim](https://github.com/kylejm/Jim)
 - [Jupp](https://github.com/dasdom/Jupp)
 - [Keinex tech blog](https://github.com/opensourceios/Keinex-iOS)
 - [KeyCo](https://github.com/KeyCoApp/KeyCo)
