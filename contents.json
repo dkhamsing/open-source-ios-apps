@@ -24057,6 +24057,29 @@
       "date_added": "Nov 6 2020",
       "suggested_by": "@dkhamsing",
       "stars": 160
+    },
+    {
+      "title": "Simon Tatham's Portable Puzzle Collection",
+      "category-ids": [
+        "game"
+      ],
+      "description": "This is a port of Simon Tatham's Portable Puzzle Collection to iOS, which is a collection of 38 single-player puzzle games.",
+      "source": "https://github.com/ghewgill/puzzles",
+      "homepage": "https://hewgill.com/puzzles/",
+      "itunes": "https://apps.apple.com/app/simon-tathams-portable-puzzle/id622220631",
+      "license": "mit",
+      "stars": 64,
+      "tags": [
+        "objc"
+      ],
+      "screenshots": [
+        "https://hewgill.com/puzzles/screenshot-iphone4-1-200.png",
+        "https://hewgill.com/puzzles/screenshot-iphone4-2-200.png",
+        "https://hewgill.com/puzzles/screenshot-iphone4-3-200.png",
+        "https://hewgill.com/puzzles/screenshot-iphone4-4-200.png"
+      ],
+      "date_added": "Dec 5 2020",
+      "suggested_by": "@NLZ"
     }
   ]
 }
