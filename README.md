@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1210-green.svg) ![](https://img.shields.io/badge/Updated-November%2021,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1210-green.svg) ![](https://img.shields.io/badge/Updated-December%20%205,%202020-lightgrey.svg)
 
 Jump to
 
@@ -1168,7 +1168,7 @@ Click ► to show more details
 
 - [Tinode](https://github.com/tinode/ios): Cross platform messenger [` App Store`](https://apps.apple.com/app/tinode/id1483763538)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	Added May 22, 2019<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://raw.githubusercontent.com/tinode/ios/master/ios-chats.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/tinode/ios/master/ios-chat.png'><code>Screenshot 2</code></a> 
@@ -1532,7 +1532,7 @@ Click ► to show more details
 	<summary><code>swift</code> </summary>
 
 	Added April 19, 2020<br>  License: `other`<br>
-	<a href='https://github.com/relevantfruit/zeplin-ios/raw/master/docs/ZeplinClient_GitHub.png?raw=true'><code>Screenshot 1</code></a> 
+	<a href='https://raw.githubusercontent.com/anonrig/zeplin-ios/master/docs/ZeplinClient_GitHub.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [花灰](https://github.com/lexrus/Huahui): How to prounounce programming terms in English  
@@ -2538,7 +2538,7 @@ File Management — [back to top](#readme)
  
 - [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios): Easy-to-use and secure Ethereum wallet [` App Store`](https://apps.apple.com/app/alphawallet/id1358230430)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	https://alphawallet.com/<br>  Added November 11, 2019<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/28/bc/b1/28bcb153-cf24-d26d-86cf-4d8c45e0584d/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/97/61/21/97612163-8c96-d1cc-00a1-c913d506a0a9/mzl.ikcervdr.png/230x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/61/b3/1e/61b31e3d-e891-6662-5f70-13222f15d4ac/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
@@ -3480,7 +3480,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [Spain - RadarCOVID](https://github.com/RadarCOVID/radar-covid-ios): RadarCOVID tracing using DP3T [` App Store`](https://apps.apple.com/app/radar-covid/id1520443509)  
   <details>
-	<summary><code>swift</code> <code>dp3t</code> 🌐 ⭐⭐</summary>
+	<summary><code>swift</code> <code>dp3t</code> 🌐 ⭐</summary>
 
 	https://radarcovid.gob.es<br>  Added November  6, 2020<br>  License: [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/)<br>
 	<a href='https://i.imgur.com/ZuwiVyO.png'><code>Screenshot 1</code></a> 
@@ -6065,7 +6065,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [Bitwarden](https://github.com/bitwarden/mobile): An easy way for individuals, teams, and business organizations to store, share, and sync sensitive data [` App Store`](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)  
   <details>
-	<summary><code>csharp</code> ⭐⭐⭐⭐</summary>
+	<summary><code>csharp</code> ⭐⭐⭐⭐⭐</summary>
 
 	https://bitwarden.com<br>  Added June 10, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/3BO1Wcg.png'><code>Screenshot 1</code></a> 
@@ -6153,7 +6153,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [Strongbox](https://github.com/strongbox-password-safe/Strongbox): A Safe Client for KeePass/Password [` App Store`](https://apps.apple.com/app/strongbox-password-safe/id897283731)  
   <details>
-	<summary><code>objc</code> ⭐⭐</summary>
+	<summary><code>objc</code> ⭐⭐⭐</summary>
 
 	https://strongboxsafe.com/<br>  Added September  5, 2019<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/77/67/c3/7767c3b9-09f8-8af0-3389-a01f4a3b3265/mzl.wkjuejow.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/55/08/4a5508a9-e74c-8cac-8499-c09f375c205c/mzl.rimzypzn.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/d2/9b/58/d29b58d3-30a2-9bfc-7c11-dac8d281bf43/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/fe/33/89fe3374-808d-7583-b4de-ec24198506a1/mzl.xdysdjdb.png/460x0w.jpg'><code>Screenshot 4</code></a> 
@@ -7094,7 +7094,7 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>core-data</code> </summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>core-data</code> ⭐</summary>
 
 	Added April 22, 2020<br>  License: `other`<br>
 	<a href='https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted/raw/master/promo.png?raw=true'><code>Screenshot 1</code></a> 
@@ -8173,14 +8173,14 @@ https://realm.io/ — [back to top](#readme)
 
 - [emitron](https://github.com/razeware/emitron-iOS): For https://www.raywenderlich.com  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> </summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> ⭐</summary>
 
 	Added July 20, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)  
   <details>
-	<summary><code>swift</code> <code>swiftui</code> <code>core-data</code> </summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>core-data</code> ⭐</summary>
 
 	Added April 22, 2020<br>  License: `other`<br>
 	<a href='https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted/raw/master/promo.png?raw=true'><code>Screenshot 1</code></a> 
