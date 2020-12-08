@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **280** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **281** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -974,6 +974,14 @@ Widget (iOS 14) — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'><code>Screenshot 4</code></a> 
   </details>
 
+- [Spontaneous - Random quotes](https://github.com/FranicevicNikola/DiscoverRandomQuotes) [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added December  8, 2020<br>  License: `other`<br>
+	<a href='https://github.com/FranicevicNikola/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'><code>Screenshot 1</code></a> 
+  </details>
+
 
 ## File 
  
@@ -1935,6 +1943,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	https://madyanov.com/showio/en/<br>  Added March 17, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-1.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-2.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-3.png?raw=true'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Spontaneous - Random quotes](https://github.com/FranicevicNikola/DiscoverRandomQuotes) [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added December  8, 2020<br>  License: `other`<br>
+	<a href='https://github.com/FranicevicNikola/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [xkcd](https://github.com/paulrehkugler/xkcd) [` App Store`](https://apps.apple.com/app/xkcd/id303688284)  
