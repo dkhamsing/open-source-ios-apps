@@ -1445,7 +1445,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://github.com/corona-warn-app/cwa-documentation/raw/master/images/ui_screens/ui_screens_ios.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Haiti, Guam, Puerto Rico, Wyoming - PathCheck Safeplaces](https://github.com/Path-Check/covid-safe-paths): COVID-19 exposure notification and contract tracing [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966)  
+- [Haiti, Guam, Puerto Rico, Wyoming - COVID Safe Paths](https://github.com/Path-Check/safeplaces-dct-app): COVID-19 exposure notification and contract tracing [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966)  
   <details>
 	<summary><code>react-native</code> ⭐⭐</summary>
 
@@ -2950,7 +2950,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<a href='https://i.imgur.com/2c2XCKd.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Haiti, Guam, Puerto Rico, Wyoming - PathCheck Safeplaces](https://github.com/Path-Check/covid-safe-paths): COVID-19 exposure notification and contract tracing [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966)  
+- [Haiti, Guam, Puerto Rico, Wyoming - COVID Safe Paths](https://github.com/Path-Check/safeplaces-dct-app): COVID-19 exposure notification and contract tracing [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966)  
   <details>
 	<summary><code>react-native</code> ⭐⭐</summary>
 
