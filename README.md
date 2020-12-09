@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1212-green.svg) ![](https://img.shields.io/badge/Updated-December%20%208,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1212-green.svg) ![](https://img.shields.io/badge/Updated-December%20%209,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3440,7 +3440,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://github.com/corona-warn-app/cwa-documentation/raw/master/images/ui_screens/ui_screens_ios.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Haiti, Guam, Puerto Rico, Wyoming - PathCheck Safeplaces](https://github.com/Path-Check/covid-safe-paths): COVID-19 exposure notification and contract tracing [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966)  
+- [Haiti, Guam, Puerto Rico, Wyoming - COVID Safe Paths](https://github.com/Path-Check/safeplaces-dct-app): COVID-19 exposure notification and contract tracing [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966)  
   <details>
 	<summary><code>react-native</code> ⭐⭐</summary>
 
@@ -7674,7 +7674,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<a href='https://github.com/cheeaun/hackerweb-native-2/raw/main/screenshots/hackerweb-stories-light.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Haiti, Guam, Puerto Rico, Wyoming - PathCheck Safeplaces](https://github.com/Path-Check/covid-safe-paths): COVID-19 exposure notification and contract tracing [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966)  
+- [Haiti, Guam, Puerto Rico, Wyoming - COVID Safe Paths](https://github.com/Path-Check/safeplaces-dct-app): COVID-19 exposure notification and contract tracing [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966)  
   <details>
 	<summary><code>react-native</code> ⭐⭐</summary>
 
