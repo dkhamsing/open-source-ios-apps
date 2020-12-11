@@ -976,9 +976,9 @@ Widget (iOS 14) — [back to top](#readme)
 
 - [Spontaneous - Random quotes](https://github.com/FranicevicNikola/DiscoverRandomQuotes) [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>widgetkit</code> <code>ios14</code> </summary>
 
-	Added December  8, 2020<br>  License: `other`<br>
+	Added December  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/FranicevicNikola/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -1947,9 +1947,9 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [Spontaneous - Random quotes](https://github.com/FranicevicNikola/DiscoverRandomQuotes) [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> <code>swiftui</code> <code>widgetkit</code> <code>ios14</code> </summary>
 
-	Added December  8, 2020<br>  License: `other`<br>
+	Added December  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/FranicevicNikola/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'><code>Screenshot 1</code></a> 
   </details>
 
