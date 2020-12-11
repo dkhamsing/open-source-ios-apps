@@ -24101,6 +24101,21 @@
       ],
       "date_added": "Dec 8 2020",
       "suggested_by": "@FranicevicNikola"
+    },
+    {
+      "title": "Scrumdinger",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Keeps track of daily scrums, sample code by Apple",
+      "source": "https://developer.apple.com/tutorials/app-dev-training/",
+      "license": "other",
+      "tags": [
+        "swift",
+        "ios14"
+      ],
+      "date_added": "Dec 11 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
