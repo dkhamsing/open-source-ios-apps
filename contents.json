@@ -24089,9 +24089,12 @@
       ],
       "source": "https://github.com/FranicevicNikola/DiscoverRandomQuotes",
       "itunes": "https://apps.apple.com/app/spontaneous-random-quotes/id1538265374",
-      "license": "other",
+      "license": "mit",
       "tags": [
-        "swift"
+        "swift",
+        "swiftui",
+        "widgetkit",
+        "ios14"
       ],
       "screenshots": [
         "https://github.com/FranicevicNikola/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png"
