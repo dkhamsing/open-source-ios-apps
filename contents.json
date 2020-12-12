@@ -214,22 +214,6 @@
       "id": "official"
     },
     {
-      "title": "Reactive Programming",
-      "id": "reactive-programming"
-    },
-    {
-      "title": "ReactiveCocoa",
-      "id": "reactivecocoa",
-      "parent": "reactive-programming",
-      "description": "https://github.com/ReactiveCocoa/ReactiveCocoa"
-    },
-    {
-      "title": "RxSwift",
-      "id": "rxswift",
-      "parent": "reactive-programming",
-      "description": "https://github.com/ReactiveX/RxSwift"
-    },
-    {
       "title": "Sample",
       "id": "sample"
     },
@@ -334,6 +318,18 @@
       "id": "realm",
       "parent": "misc",
       "description": "https://realm.io/"
+    },
+    {
+      "title": "ReactiveCocoa",
+      "id": "reactivecocoa",
+      "parent": "misc",
+      "description": "https://github.com/ReactiveCocoa/ReactiveCocoa"
+    },
+    {
+      "title": "RxSwift",
+      "id": "rxswift",
+      "parent": "misc",
+      "description": "https://github.com/ReactiveX/RxSwift"
     },
     {
       "title": "SwiftUI",
