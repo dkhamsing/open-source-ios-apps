@@ -11679,7 +11679,7 @@
       ]
     },
     {
-      "title": "OpenStreetView",
+      "title": "KartaView",
       "category-ids": [
         "location"
       ],
@@ -11688,7 +11688,7 @@
       ],
       "description": "Collect OpenStreetView data",
       "license": "gpl-3.0",
-      "source": "https://github.com/openstreetcam/ios",
+      "source": "https://github.com/kartaview/ios",
       "itunes": "https://apps.apple.com/app/openstreetview/id1089548849",
       "stars": 38,
       "screenshots": [
