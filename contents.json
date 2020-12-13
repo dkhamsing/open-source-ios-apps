@@ -8374,7 +8374,6 @@
     {
       "title": "ReactiveKitten",
       "category-ids": [
-        "reactive-programming",
         "gif",
         "sample"
       ],
@@ -11294,7 +11293,6 @@
       "title": "Siesta GitHub Browser",
       "category-ids": [
         "github",
-        "reactive-programming",
         "sample"
       ],
       "description": "Browse & star GitHub repositories",
