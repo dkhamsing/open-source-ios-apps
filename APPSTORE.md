@@ -54,9 +54,6 @@ Jump to
   - [News API](#news-api) 
   - [RSS](#rss) 
 - [Official](#official) 
-- [Reactive Programming](#reactive-programming) 
-  - [ReactiveCocoa](#reactivecocoa) 
-  - [RxSwift](#rxswift) 
 - [Sample](#sample) 
 - [Scan](#scan) 
 - [Security](#security) 
@@ -79,6 +76,8 @@ Jump to
   - [macOS](#macos) 
   - [React Native](#react-native) 
   - [Realm](#realm) 
+  - [ReactiveCocoa](#reactivecocoa) 
+  - [RxSwift](#rxswift) 
   - [SwiftUI](#swiftui) 
   - [VIPER](#viper) 
   - [Xamarin](#xamarin) 
@@ -2242,45 +2241,6 @@ https://newsapi.org/ — [back to top](#readme)
   </details>
 
 
-## Reactive Programming 
- 
-[back to top](#readme) 
- 
-
-### ReactiveCocoa 
- 
-https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme) 
- 
-- [Tropos Weather](https://github.com/thoughtbot/Tropos) [` App Store`](https://apps.apple.com/app/tropos-weather-forecasts-for/id955209376)  
-  <details>
-	<summary><code>dark sky api (forecast api)</code> <code>reactivecocoa</code> ⭐⭐⭐⭐</summary>
-
-	Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg'><code>Screenshot 2</code></a> 
-  </details>
-
-
-### RxSwift 
- 
-https://github.com/ReactiveX/RxSwift — [back to top](#readme) 
- 
-- [Drrrible](https://github.com/devxoul/Drrrible) [` App Store`](https://apps.apple.com/app/drrrible/id1229592223)  
-  <details>
-	<summary><code>swift</code> <code>dribbble</code> <code>reactorkit</code> <code>moya</code> <code>kingfisher</code> ⭐⭐</summary>
-
-	Added May  3, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d2/41/58/d241583e-61f6-5acc-19e4-fcd7fbbdddc7/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/81/b0/45/81b045f4-bc98-8c9f-9662-eae1b8cbba4b/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bf/c5/e6/bfc5e69c-4303-de2d-8c95-8025c3e85b02/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
-  </details>
-
-- [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles): Interactive diagrams of Rx Observables [` App Store`](https://apps.apple.com/app/rxmarbles/id1087272442)  
-  <details>
-	<summary><code>swift</code> ⭐⭐</summary>
-
-	Added June 29, 2016<br>  License: `other`<br>
-	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/37/4c/aa/374caa6c-ef0a-b8b6-20a9-c8ca8920fe32/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1f/7c/40/1f7c4058-fae6-6de9-cdaf-d27f1cbd5afd/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8d/83/63/8d8363ff-0637-8a77-5dc3-19cab426a164/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
-  </details>
-
-
 ## Sample 
  
 [back to top](#readme) 
@@ -3040,6 +3000,40 @@ https://realm.io/ — [back to top](#readme)
 
 	https://element.io<br>  Added July 21, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://i.imgur.com/hfxP5xA.png'><code>Screenshot 1</code></a> 
+  </details>
+
+
+### ReactiveCocoa 
+ 
+https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme) 
+ 
+- [Tropos Weather](https://github.com/thoughtbot/Tropos) [` App Store`](https://apps.apple.com/app/tropos-weather-forecasts-for/id955209376)  
+  <details>
+	<summary><code>dark sky api (forecast api)</code> <code>reactivecocoa</code> ⭐⭐⭐⭐</summary>
+
+	Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='http://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg'><code>Screenshot 2</code></a> 
+  </details>
+
+
+### RxSwift 
+ 
+https://github.com/ReactiveX/RxSwift — [back to top](#readme) 
+ 
+- [Drrrible](https://github.com/devxoul/Drrrible) [` App Store`](https://apps.apple.com/app/drrrible/id1229592223)  
+  <details>
+	<summary><code>swift</code> <code>dribbble</code> <code>reactorkit</code> <code>moya</code> <code>kingfisher</code> ⭐⭐</summary>
+
+	Added May  3, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d2/41/58/d241583e-61f6-5acc-19e4-fcd7fbbdddc7/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/81/b0/45/81b045f4-bc98-8c9f-9662-eae1b8cbba4b/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bf/c5/e6/bfc5e69c-4303-de2d-8c95-8025c3e85b02/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
+- [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles): Interactive diagrams of Rx Observables [` App Store`](https://apps.apple.com/app/rxmarbles/id1087272442)  
+  <details>
+	<summary><code>swift</code> ⭐⭐</summary>
+
+	Added June 29, 2016<br>  License: `other`<br>
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/37/4c/aa/374caa6c-ef0a-b8b6-20a9-c8ca8920fe32/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1f/7c/40/1f7c4058-fae6-6de9-cdaf-d27f1cbd5afd/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8d/83/63/8d8363ff-0637-8a77-5dc3-19cab426a164/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
 

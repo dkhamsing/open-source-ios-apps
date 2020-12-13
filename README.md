@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1213-green.svg) ![](https://img.shields.io/badge/Updated-December%2011,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1213-green.svg) ![](https://img.shields.io/badge/Updated-December%2013,%202020-lightgrey.svg)
 
 Jump to
 
@@ -54,9 +54,6 @@ Jump to
   - [News API](#news-api) 
   - [RSS](#rss) 
 - [Official](#official) 
-- [Reactive Programming](#reactive-programming) 
-  - [ReactiveCocoa](#reactivecocoa) 
-  - [RxSwift](#rxswift) 
 - [Sample](#sample) 
 - [Scan](#scan) 
 - [Security](#security) 
@@ -79,6 +76,8 @@ Jump to
   - [macOS](#macos) 
   - [React Native](#react-native) 
   - [Realm](#realm) 
+  - [ReactiveCocoa](#reactivecocoa) 
+  - [RxSwift](#rxswift) 
   - [SwiftUI](#swiftui) 
   - [VIPER](#viper) 
   - [Xamarin](#xamarin) 
@@ -5380,217 +5379,6 @@ https://newsapi.org/ — [back to top](#readme)
   </details>
 
 
-## Reactive Programming 
- 
-[back to top](#readme) 
- 
-- [Siesta GitHub Browser](https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser): Browse & star GitHub repositories  
-  <details>
-	<summary><code>swift</code> <code>rest</code> ⭐⭐⭐</summary>
-
-	Added July 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/OBGvFKw.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/50eCbeX.png'><code>Screenshot 2</code></a> 
-  </details>
-
-
-### ReactiveCocoa 
- 
-https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme) 
- 
-- [Arex](https://github.com/a2/arex): Reminders for taking your medications  
-  <details>
-	<summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> </summary>
-
-	Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
-- [BrewMobile](https://github.com/brewfactory/BrewMobile): App for managing the beer brewing process  
-  <details>
-	<summary><code>swift</code> ⭐</summary>
-
-	Added September 10, 2015<br>  License: `other`<br>
-	<a href='http://brewfactory.org/BrewMobile/img/9_small.png'><code>Screenshot 1</code></a> <a href='http://brewfactory.org/BrewMobile/img/8_small.png'><code>Screenshot 2</code></a> 
-  </details>
-
-- [C-41](https://github.com/ashfurrow/C-41): Simple timer to make developing film easier & more reliable  
-  <details>
-	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
-
-	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
-- [Coding](https://github.com/Coding/Coding-iOS): Official Coding app  
-  <details>
-	<summary><code>reactivecocoa</code> <code>masonry</code> 🌐 ⭐⭐⭐⭐⭐</summary>
-
-	Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/3.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/4.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/5.png'><code>Screenshot 5</code></a> 
-  </details>
-
-- [Giraffe](https://github.com/evgeniyd/Giraffe)  
-  <details>
-	<summary><code>swift</code> <code>reactivecocoa</code> </summary>
-
-	Added September  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): Photo search  
-  <details>
-	<summary><code>swift</code> <code>mvvm</code> <code>flickr api</code> ⭐⭐</summary>
-
-	Added February  4, 2015<br>  License: `other`<br>
-	<a href='https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch/raw/master/FinishedApp.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)  
-  <details>
-	<summary><code>objc</code> ⭐⭐⭐⭐</summary>
-
-	Added April 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/OxImInV.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Tropos Weather](https://github.com/thoughtbot/Tropos) [` App Store`](https://apps.apple.com/app/tropos-weather-forecasts-for/id955209376)  
-  <details>
-	<summary><code>dark sky api (forecast api)</code> <code>reactivecocoa</code> ⭐⭐⭐⭐</summary>
-
-	Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg'><code>Screenshot 2</code></a> 
-  </details>
-
-
-### RxSwift 
- 
-https://github.com/ReactiveX/RxSwift — [back to top](#readme) 
- 
-- [Baby Monitor](https://github.com/netguru/baby-monitor-client-ios)  
-  <details>
-	<summary><code>swift</code> <code>swiftlint</code> <code>realm</code> <code>swiftybeaver</code> </summary>
-
-	Added April 17, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  </details>
-
-- [Count It](https://github.com/PiXeL16/CountItApp): Dead simple way to you count anything  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/d7/16/dc/d716dc20-ac17-d9ce-5183-76706ffff706/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/b1/15/4c/b1154c11-88fa-9e85-3c5d-e3884815a5b5/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/92/1a/86/921a866a-c638-c13a-2782-5703a96ec450/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/48/e8/a0/48e8a0d7-15b2-05f7-3a08-72cded731f9c/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
-  </details>
-
-- [Drrrible](https://github.com/devxoul/Drrrible) [` App Store`](https://apps.apple.com/app/drrrible/id1229592223)  
-  <details>
-	<summary><code>swift</code> <code>dribbble</code> <code>reactorkit</code> <code>moya</code> <code>kingfisher</code> ⭐⭐</summary>
-
-	Added May  3, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d2/41/58/d241583e-61f6-5acc-19e4-fcd7fbbdddc7/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/81/b0/45/81b045f4-bc98-8c9f-9662-eae1b8cbba4b/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bf/c5/e6/bfc5e69c-4303-de2d-8c95-8025c3e85b02/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
-  </details>
-
-- [GitHub API Client](https://github.com/tailec/boilerplate)  
-  <details>
-	<summary><code>swift</code> <code>mvvm</code> <code>rxswift</code> ⭐⭐</summary>
-
-	Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/611wefH.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub  
-  <details>
-	<summary><code>swift</code> <code>rxswift</code> <code>mvvm-c</code> <code>clean-architecture</code> ⭐⭐</summary>
-
-	Added May  1, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://user-images.githubusercontent.com/15151687/57021987-bc1e1f00-6c68-11e9-8d43-25beb9465284.jpg'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021990-c17b6980-6c68-11e9-8b56-852508131809.jpg'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021992-c3452d00-6c68-11e9-8b54-0f01dd887622.jpg'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021995-c4765a00-6c68-11e9-8b95-f3087c8b8e37.jpg'><code>Screenshot 4</code></a> 
-  </details>
-
-- [Kiosk](https://github.com/artsy/eidolon): Artsy auctions  
-  <details>
-	<summary><code>swift</code> <code>rxswift</code> ⭐⭐⭐⭐⭐</summary>
-
-	Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://artsy.github.io/images/2014-11-12-eidolon-retrospective/listings.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Papr](https://github.com/jdisho/Papr): An unofficial client for https://unsplash.com  
-  <details>
-	<summary><code>swift</code> ⭐⭐⭐</summary>
-
-	Added April 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'><code>Screenshot 2</code></a> 
-  </details>
-
-- [Podcasts](https://github.com/Karambirov/Podcasts): A clone of Apple's Podcasts  
-  <details>
-	<summary><code>swift</code> <code>rxswift</code> </summary>
-
-	Added April  7, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'><code>Screenshot 4</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'><code>Screenshot 5</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'><code>Screenshot 6</code></a> 
-  </details>
-
-- [RxCurrency](https://github.com/inkyfox/RxCurrency_iOS): Currency converter for ReactiveX  
-  <details>
-	<summary><code>swift</code> <code>swift3</code> </summary>
-
-	Added February 16, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/inkyfox/RxCurrency_iOS/master/RxCurrency.gif'><code>Screenshot 1</code></a> 
-  </details>
-
-- [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles): Interactive diagrams of Rx Observables [` App Store`](https://apps.apple.com/app/rxmarbles/id1087272442)  
-  <details>
-	<summary><code>swift</code> ⭐⭐</summary>
-
-	Added June 29, 2016<br>  License: `other`<br>
-	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/37/4c/aa/374caa6c-ef0a-b8b6-20a9-c8ca8920fe32/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1f/7c/40/1f7c4058-fae6-6de9-cdaf-d27f1cbd5afd/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8d/83/63/8d8363ff-0637-8a77-5dc3-19cab426a164/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
-  </details>
-
-- [RxSwift MVVM example using GitHub search](https://github.com/NavdeepSinghh/RxSwift_MVVM_Finished)  
-  <details>
-	<summary><code>swift</code> <code>rxswift</code> </summary>
-
-	Added July 14, 2020<br>  License: `other`
-  </details>
-
-- [RxTodo](https://github.com/devxoul/RxTodo)  
-  <details>
-	<summary><code>swift</code> <code>swift3</code> <code>rxswift</code> <code>mvvm</code> ⭐⭐⭐⭐</summary>
-
-	Added September 19, 2016<br>  License: `other`<br>
-	<a href='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar): Never miss new releases from your favorite Spotify artists  
-  <details>
-	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> <code>spotify</code> <code>spotifyradar</code> <code>rxswift</code> <code>coordinator</code> <code>mvvm</code> ⭐⭐⭐</summary>
-
-	Added June 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture  
-  <details>
-	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐⭐</summary>
-
-	Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'><code>Screenshot 3</code></a> 
-  </details>
-
-- [Tweetometer](https://github.com/BalestraPatrick/Tweetometer): See who is tweeting in your timeline  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added May 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/BalestraPatrick/Tweetometer/raw/master/header.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [WWDCast](https://github.com/sgl0v/WWDCast): The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast  
-  <details>
-	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> </summary>
-
-	Added June 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen3.png'><code>Screenshot 3</code></a> 
-  </details>
-
-
 ## Sample 
  
 [back to top](#readme) 
@@ -8016,6 +7804,204 @@ https://realm.io/ — [back to top](#readme)
 
 	Added February 22, 2017<br>  License: `other`<br>
 	<a href='https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png'><code>Screenshot 1</code></a> <a href='https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png'><code>Screenshot 2</code></a> 
+  </details>
+
+
+### ReactiveCocoa 
+ 
+https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme) 
+ 
+- [Arex](https://github.com/a2/arex): Reminders for taking your medications  
+  <details>
+	<summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> </summary>
+
+	Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [BrewMobile](https://github.com/brewfactory/BrewMobile): App for managing the beer brewing process  
+  <details>
+	<summary><code>swift</code> ⭐</summary>
+
+	Added September 10, 2015<br>  License: `other`<br>
+	<a href='http://brewfactory.org/BrewMobile/img/9_small.png'><code>Screenshot 1</code></a> <a href='http://brewfactory.org/BrewMobile/img/8_small.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [C-41](https://github.com/ashfurrow/C-41): Simple timer to make developing film easier & more reliable  
+  <details>
+	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
+
+	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [Coding](https://github.com/Coding/Coding-iOS): Official Coding app  
+  <details>
+	<summary><code>reactivecocoa</code> <code>masonry</code> 🌐 ⭐⭐⭐⭐⭐</summary>
+
+	Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/3.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/4.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/5.png'><code>Screenshot 5</code></a> 
+  </details>
+
+- [Giraffe](https://github.com/evgeniyd/Giraffe)  
+  <details>
+	<summary><code>swift</code> <code>reactivecocoa</code> </summary>
+
+	Added September  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): Photo search  
+  <details>
+	<summary><code>swift</code> <code>mvvm</code> <code>flickr api</code> ⭐⭐</summary>
+
+	Added February  4, 2015<br>  License: `other`<br>
+	<a href='https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch/raw/master/FinishedApp.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)  
+  <details>
+	<summary><code>objc</code> ⭐⭐⭐⭐</summary>
+
+	Added April 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/OxImInV.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Tropos Weather](https://github.com/thoughtbot/Tropos) [` App Store`](https://apps.apple.com/app/tropos-weather-forecasts-for/id955209376)  
+  <details>
+	<summary><code>dark sky api (forecast api)</code> <code>reactivecocoa</code> ⭐⭐⭐⭐</summary>
+
+	Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='http://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg'><code>Screenshot 2</code></a> 
+  </details>
+
+
+### RxSwift 
+ 
+https://github.com/ReactiveX/RxSwift — [back to top](#readme) 
+ 
+- [Baby Monitor](https://github.com/netguru/baby-monitor-client-ios)  
+  <details>
+	<summary><code>swift</code> <code>swiftlint</code> <code>realm</code> <code>swiftybeaver</code> </summary>
+
+	Added April 17, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+
+- [Count It](https://github.com/PiXeL16/CountItApp): Dead simple way to you count anything  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/d7/16/dc/d716dc20-ac17-d9ce-5183-76706ffff706/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/b1/15/4c/b1154c11-88fa-9e85-3c5d-e3884815a5b5/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/92/1a/86/921a866a-c638-c13a-2782-5703a96ec450/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/48/e8/a0/48e8a0d7-15b2-05f7-3a08-72cded731f9c/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
+  </details>
+
+- [Drrrible](https://github.com/devxoul/Drrrible) [` App Store`](https://apps.apple.com/app/drrrible/id1229592223)  
+  <details>
+	<summary><code>swift</code> <code>dribbble</code> <code>reactorkit</code> <code>moya</code> <code>kingfisher</code> ⭐⭐</summary>
+
+	Added May  3, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d2/41/58/d241583e-61f6-5acc-19e4-fcd7fbbdddc7/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/81/b0/45/81b045f4-bc98-8c9f-9662-eae1b8cbba4b/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bf/c5/e6/bfc5e69c-4303-de2d-8c95-8025c3e85b02/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
+- [GitHub API Client](https://github.com/tailec/boilerplate)  
+  <details>
+	<summary><code>swift</code> <code>mvvm</code> <code>rxswift</code> ⭐⭐</summary>
+
+	Added March 14, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/611wefH.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub  
+  <details>
+	<summary><code>swift</code> <code>rxswift</code> <code>mvvm-c</code> <code>clean-architecture</code> ⭐⭐</summary>
+
+	Added May  1, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://user-images.githubusercontent.com/15151687/57021987-bc1e1f00-6c68-11e9-8d43-25beb9465284.jpg'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021990-c17b6980-6c68-11e9-8b56-852508131809.jpg'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021992-c3452d00-6c68-11e9-8b54-0f01dd887622.jpg'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/15151687/57021995-c4765a00-6c68-11e9-8b95-f3087c8b8e37.jpg'><code>Screenshot 4</code></a> 
+  </details>
+
+- [Kiosk](https://github.com/artsy/eidolon): Artsy auctions  
+  <details>
+	<summary><code>swift</code> <code>rxswift</code> ⭐⭐⭐⭐⭐</summary>
+
+	Added January 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://artsy.github.io/images/2014-11-12-eidolon-retrospective/listings.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Papr](https://github.com/jdisho/Papr): An unofficial client for https://unsplash.com  
+  <details>
+	<summary><code>swift</code> ⭐⭐⭐</summary>
+
+	Added April 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [Podcasts](https://github.com/Karambirov/Podcasts): A clone of Apple's Podcasts  
+  <details>
+	<summary><code>swift</code> <code>rxswift</code> </summary>
+
+	Added April  7, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'><code>Screenshot 4</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'><code>Screenshot 5</code></a> <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'><code>Screenshot 6</code></a> 
+  </details>
+
+- [RxCurrency](https://github.com/inkyfox/RxCurrency_iOS): Currency converter for ReactiveX  
+  <details>
+	<summary><code>swift</code> <code>swift3</code> </summary>
+
+	Added February 16, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/inkyfox/RxCurrency_iOS/master/RxCurrency.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles): Interactive diagrams of Rx Observables [` App Store`](https://apps.apple.com/app/rxmarbles/id1087272442)  
+  <details>
+	<summary><code>swift</code> ⭐⭐</summary>
+
+	Added June 29, 2016<br>  License: `other`<br>
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/37/4c/aa/374caa6c-ef0a-b8b6-20a9-c8ca8920fe32/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1f/7c/40/1f7c4058-fae6-6de9-cdaf-d27f1cbd5afd/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8d/83/63/8d8363ff-0637-8a77-5dc3-19cab426a164/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
+  </details>
+
+- [RxSwift MVVM example using GitHub search](https://github.com/NavdeepSinghh/RxSwift_MVVM_Finished)  
+  <details>
+	<summary><code>swift</code> <code>rxswift</code> </summary>
+
+	Added July 14, 2020<br>  License: `other`
+  </details>
+
+- [RxTodo](https://github.com/devxoul/RxTodo)  
+  <details>
+	<summary><code>swift</code> <code>swift3</code> <code>rxswift</code> <code>mvvm</code> ⭐⭐⭐⭐</summary>
+
+	Added September 19, 2016<br>  License: `other`<br>
+	<a href='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar): Never miss new releases from your favorite Spotify artists  
+  <details>
+	<summary><code>swift</code> <code>iphone</code> <code>ipad</code> <code>spotify</code> <code>spotifyradar</code> <code>rxswift</code> <code>coordinator</code> <code>mvvm</code> ⭐⭐⭐</summary>
+
+	Added June 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [SwiftHub](https://github.com/khoren93/SwiftHub): GitHub client written with RxSwift and MVVM clean architecture  
+  <details>
+	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> <code>moya</code> <code>fastlane</code> ⭐⭐⭐⭐</summary>
+
+	Added September  1, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'><code>Screenshot 2</code></a> <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'><code>Screenshot 3</code></a> 
+  </details>
+
+- [Tweetometer](https://github.com/BalestraPatrick/Tweetometer): See who is tweeting in your timeline  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added May 26, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/BalestraPatrick/Tweetometer/raw/master/header.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [WWDCast](https://github.com/sgl0v/WWDCast): The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast  
+  <details>
+	<summary><code>swift</code> <code>rxswift</code> <code>mvvm</code> </summary>
+
+	Added June 10, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen3.png'><code>Screenshot 3</code></a> 
   </details>
 
 
