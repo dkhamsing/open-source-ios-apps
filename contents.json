@@ -314,16 +314,16 @@
       "description": "http://facebook.github.io/react-native/"
     },
     {
-      "title": "Realm",
-      "id": "realm",
-      "parent": "misc",
-      "description": "https://realm.io/"
-    },
-    {
       "title": "ReactiveCocoa",
       "id": "reactivecocoa",
       "parent": "misc",
       "description": "https://github.com/ReactiveCocoa/ReactiveCocoa"
+    },
+    {
+      "title": "Realm",
+      "id": "realm",
+      "parent": "misc",
+      "description": "https://realm.io/"
     },
     {
       "title": "RxSwift",
