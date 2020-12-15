@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1213-green.svg) ![](https://img.shields.io/badge/Updated-December%2013,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1213-green.svg) ![](https://img.shields.io/badge/Updated-December%2015,%202020-lightgrey.svg)
 
 Jump to
 
@@ -75,8 +75,8 @@ Jump to
   - [Ionic](#ionic) 
   - [macOS](#macos) 
   - [React Native](#react-native) 
-  - [Realm](#realm) 
   - [ReactiveCocoa](#reactivecocoa) 
+  - [Realm](#realm) 
   - [RxSwift](#rxswift) 
   - [SwiftUI](#swiftui) 
   - [VIPER](#viper) 
@@ -3763,6 +3763,14 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://i.imgur.com/CQ98cNq.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [KartaView](https://github.com/kartaview/ios): Collect OpenStreetView data [` App Store`](https://apps.apple.com/app/openstreetview/id1089548849)  
+  <details>
+	<summary><code>objc</code> </summary>
+
+	Added August 21, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/3c/aa/3f3caa9b-98b1-4aa5-5c8c-bed8f892b88b/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/02/2d/b7/022db748-a04b-8efa-fc39-b99ebb04aa4d/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8e/30/8a/8e308ad5-1942-e3ce-c2c9-0b695f850a94/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/9f/00/22/9f00227d-7f69-d30f-ccaa-99a5ea9f3ef8/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/5f/11/6e5f11b8-fbb6-3ee6-59c0-75fd793e426e/pr_source.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
 - [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views): Discover and share places you love  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> <code>mapkit</code> </summary>
@@ -3809,14 +3817,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 	Added August 21, 2015<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/11/80/e7/1180e747-411f-fe03-71ca-c42fd1165876/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/a4/b2/5b/a4b25b8f-322b-52b3-7209-bdb8da744af7/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/4d/0c/d0/4d0cd0bc-64b6-f05e-fb5b-b2b3e8b54a95/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/97/96/19/9796194c-ee95-6d4c-8944-00af72e64452/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/f3/16/c1/f316c14c-8ab0-5fb7-12d9-eb4875f3dcd7/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
-  </details>
-
-- [OpenStreetView](https://github.com/openstreetcam/ios): Collect OpenStreetView data [` App Store`](https://apps.apple.com/app/openstreetview/id1089548849)  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	Added August 21, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/3c/aa/3f3caa9b-98b1-4aa5-5c8c-bed8f892b88b/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/02/2d/b7/022db748-a04b-8efa-fc39-b99ebb04aa4d/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8e/30/8a/8e308ad5-1942-e3ce-c2c9-0b695f850a94/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/9f/00/22/9f00227d-7f69-d30f-ccaa-99a5ea9f3ef8/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/5f/11/6e5f11b8-fbb6-3ee6-59c0-75fd793e426e/pr_source.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [OsmAnd Maps](https://github.com/osmandapp/Osmand): Map with access to OpenStreetMaps [` App Store`](https://apps.apple.com/app/id934850257)  
@@ -7707,6 +7707,73 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
   </details>
 
 
+### ReactiveCocoa 
+ 
+https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme) 
+ 
+- [Arex](https://github.com/a2/arex): Reminders for taking your medications  
+  <details>
+	<summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> </summary>
+
+	Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [BrewMobile](https://github.com/brewfactory/BrewMobile): App for managing the beer brewing process  
+  <details>
+	<summary><code>swift</code> ⭐</summary>
+
+	Added September 10, 2015<br>  License: `other`<br>
+	<a href='http://brewfactory.org/BrewMobile/img/9_small.png'><code>Screenshot 1</code></a> <a href='http://brewfactory.org/BrewMobile/img/8_small.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [C-41](https://github.com/ashfurrow/C-41): Simple timer to make developing film easier & more reliable  
+  <details>
+	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
+
+	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
+- [Coding](https://github.com/Coding/Coding-iOS): Official Coding app  
+  <details>
+	<summary><code>reactivecocoa</code> <code>masonry</code> 🌐 ⭐⭐⭐⭐⭐</summary>
+
+	Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/3.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/4.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/5.png'><code>Screenshot 5</code></a> 
+  </details>
+
+- [Giraffe](https://github.com/evgeniyd/Giraffe)  
+  <details>
+	<summary><code>swift</code> <code>reactivecocoa</code> </summary>
+
+	Added September  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): Photo search  
+  <details>
+	<summary><code>swift</code> <code>mvvm</code> <code>flickr api</code> ⭐⭐</summary>
+
+	Added February  4, 2015<br>  License: `other`<br>
+	<a href='https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch/raw/master/FinishedApp.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)  
+  <details>
+	<summary><code>objc</code> ⭐⭐⭐⭐</summary>
+
+	Added April 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/OxImInV.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Tropos Weather](https://github.com/thoughtbot/Tropos) [` App Store`](https://apps.apple.com/app/tropos-weather-forecasts-for/id955209376)  
+  <details>
+	<summary><code>dark sky api (forecast api)</code> <code>reactivecocoa</code> ⭐⭐⭐⭐</summary>
+
+	Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='http://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg'><code>Screenshot 2</code></a> 
+  </details>
+
+
 ### Realm 
  
 https://realm.io/ — [back to top](#readme) 
@@ -7804,73 +7871,6 @@ https://realm.io/ — [back to top](#readme)
 
 	Added February 22, 2017<br>  License: `other`<br>
 	<a href='https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png'><code>Screenshot 1</code></a> <a href='https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png'><code>Screenshot 2</code></a> 
-  </details>
-
-
-### ReactiveCocoa 
- 
-https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme) 
- 
-- [Arex](https://github.com/a2/arex): Reminders for taking your medications  
-  <details>
-	<summary><code>swift</code> <code>swift2.2</code> <code>carthage</code> <code>pistachio</code> <code>reactivecocoa</code> </summary>
-
-	Added June  9, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
-- [BrewMobile](https://github.com/brewfactory/BrewMobile): App for managing the beer brewing process  
-  <details>
-	<summary><code>swift</code> ⭐</summary>
-
-	Added September 10, 2015<br>  License: `other`<br>
-	<a href='http://brewfactory.org/BrewMobile/img/9_small.png'><code>Screenshot 1</code></a> <a href='http://brewfactory.org/BrewMobile/img/8_small.png'><code>Screenshot 2</code></a> 
-  </details>
-
-- [C-41](https://github.com/ashfurrow/C-41): Simple timer to make developing film easier & more reliable  
-  <details>
-	<summary><code>objc</code> ⭐⭐⭐⭐⭐</summary>
-
-	Added January 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  </details>
-
-- [Coding](https://github.com/Coding/Coding-iOS): Official Coding app  
-  <details>
-	<summary><code>reactivecocoa</code> <code>masonry</code> 🌐 ⭐⭐⭐⭐⭐</summary>
-
-	Added September 26, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/3.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/4.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/5.png'><code>Screenshot 5</code></a> 
-  </details>
-
-- [Giraffe](https://github.com/evgeniyd/Giraffe)  
-  <details>
-	<summary><code>swift</code> <code>reactivecocoa</code> </summary>
-
-	Added September  1, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): Photo search  
-  <details>
-	<summary><code>swift</code> <code>mvvm</code> <code>flickr api</code> ⭐⭐</summary>
-
-	Added February  4, 2015<br>  License: `other`<br>
-	<a href='https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch/raw/master/FinishedApp.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)  
-  <details>
-	<summary><code>objc</code> ⭐⭐⭐⭐</summary>
-
-	Added April 10, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/OxImInV.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Tropos Weather](https://github.com/thoughtbot/Tropos) [` App Store`](https://apps.apple.com/app/tropos-weather-forecasts-for/id955209376)  
-  <details>
-	<summary><code>dark sky api (forecast api)</code> <code>reactivecocoa</code> ⭐⭐⭐⭐</summary>
-
-	Added June 22, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg'><code>Screenshot 2</code></a> 
   </details>
 
 
