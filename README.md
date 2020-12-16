@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1213-green.svg) ![](https://img.shields.io/badge/Updated-December%2015,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1213-green.svg) ![](https://img.shields.io/badge/Updated-December%2016,%202020-lightgrey.svg)
 
 Jump to
 
@@ -8542,7 +8542,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> <code>swiftui</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added September  4, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/ivanvorobei/SwiftUI/raw/master/Previews/animatable-cards.gif'><code>Screenshot 1</code></a> 
+	<a href='https://raw.githubusercontent.com/varabeis/SwiftUI/master/Previews/animatable-cards.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [swiftui-2048](https://github.com/jVirus/swiftui-2048): 100% SwiftUI 2.0  
