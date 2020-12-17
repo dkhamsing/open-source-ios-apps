@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1213-green.svg) ![](https://img.shields.io/badge/Updated-December%2016,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1213-green.svg) ![](https://img.shields.io/badge/Updated-December%2017,%202020-lightgrey.svg)
 
 Jump to
 
@@ -5780,7 +5780,7 @@ https://newsapi.org/ — [back to top](#readme)
   <details>
 	<summary><code>cordova</code> ⭐⭐⭐⭐⭐</summary>
 
-	https://getoutline.org/en/home<br>  Added April 13, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+	https://getoutline.org<br>  Added April 13, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
 - [Passepartout](https://github.com/passepartoutvpn/passepartout-ios): User-friendly OpenVPN app [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537)  
