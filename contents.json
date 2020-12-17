@@ -19100,7 +19100,7 @@
       ],
       "description": "VPN designed for use with the Outline Server software, but fully compatible with any Shadowsocks server",
       "source": "https://github.com/Jigsaw-Code/outline-client",
-      "homepage": "https://getoutline.org/en/home",
+      "homepage": "https://getoutline.org",
       "license": "apache-2.0",
       "tags": [
         "cordova"
