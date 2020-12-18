@@ -248,6 +248,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Runner-Stats](https://github.com/hukun01/Runner-Stats)
 - [Savings Assistant](https://github.com/chrisamanse/savings-assistant)
 - [SceneKitFrogger](https://github.com/devindazzle/SceneKitFrogger)
+- [Science Journal](https://github.com/googlearchive/science-journal-ios)
 - [SCRAMApp](https://github.com/SoldoApp/SCRAMApp)
 - [Scratch](https://github.com/johnmci/Scratch.app.for.iOS)
 - [SelfieAssist](https://github.com/mxcl/SelfieAssist)
