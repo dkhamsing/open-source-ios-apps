@@ -17674,11 +17674,12 @@
         "misc"
       ],
       "description": "Use the sensors in your mobile devices to perform science experiments",
-      "source": "https://github.com/google/science-journal-ios",
+      "source": "https://github.com/googlearchive/science-journal-ios",
       "license": "apache-2.0",
       "tags": [
         "swift",
-        "protobuf"
+        "protobuf",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image1.png",
