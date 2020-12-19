@@ -296,6 +296,11 @@
       "description": "https://flutter.dev"
     },
     {
+      "title": "GraphQL",
+      "id": "graphql",
+      "parent": "misc"
+    },
+    {
       "title": "Ionic",
       "id": "ionic",
       "parent": "misc",
@@ -13203,11 +13208,10 @@
       "description": "Use Relay to access the Artsy GraphQL API",
       "category-ids": [
         "react-native",
-        "sample"
+        "graphql"
       ],
       "tags": [
-        "react native",
-        "graphql"
+        "react native"
       ],
       "screenshots": [
         "https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true"
@@ -24110,6 +24114,23 @@
         "ios14"
       ],
       "date_added": "Dec 11 2020",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "CovidUI",
+      "category-ids": [
+        "swiftui",
+        "graphql",
+        "health"
+      ],
+      "description": "Track the status of COVID-19 around the world",
+      "source": "https://github.com/nerdsupremacist/CovidUI",
+      "license": "other",
+      "screenshots": ["https://github.com/nerdsupremacist/CovidUI/raw/master/demo.gif"],
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Dec 19 2020",
       "suggested_by": "@dkhamsing"
     }
   ]
