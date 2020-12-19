@@ -72,6 +72,7 @@ Jump to
   - [Core Data](#core-data) 
   - [Firebase](#firebase) 
   - [Flutter](#flutter) 
+  - [GraphQL](#graphql) 
   - [Ionic](#ionic) 
   - [macOS](#macos) 
   - [React Native](#react-native) 
@@ -2846,6 +2847,11 @@ https://firebase.google.com/ — [back to top](#readme)
 ### Flutter 
  
 https://flutter.dev — [back to top](#readme) 
+ 
+
+### GraphQL 
+ 
+[back to top](#readme) 
  
 
 ### Ionic 
