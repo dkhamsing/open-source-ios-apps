@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1213-green.svg) ![](https://img.shields.io/badge/Updated-December%2018,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1214-green.svg) ![](https://img.shields.io/badge/Updated-December%2019,%202020-lightgrey.svg)
 
 Jump to
 
@@ -72,6 +72,7 @@ Jump to
   - [Core Data](#core-data) 
   - [Firebase](#firebase) 
   - [Flutter](#flutter) 
+  - [GraphQL](#graphql) 
   - [Ionic](#ionic) 
   - [macOS](#macos) 
   - [React Native](#react-native) 
@@ -3291,6 +3292,14 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://github.com/julianschiavo/Covidcheck/blob/master/screenshot.PNG?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
+- [CovidUI](https://github.com/nerdsupremacist/CovidUI): Track the status of COVID-19 around the world  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added December 19, 2020<br>  License: `other`<br>
+	<a href='https://github.com/nerdsupremacist/CovidUI/raw/master/demo.gif'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Depressed](https://github.com/DerLobi/Depressed): Test if you are depressed [` App Store`](https://apps.apple.com/app/depressed/id1062594092)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -5419,14 +5428,6 @@ https://newsapi.org/ — [back to top](#readme)
 	Added April 24, 2020<br>  License: `other`
   </details>
 
-- [Artist](https://github.com/orta/Relay-Artist-Example): Use Relay to access the Artsy GraphQL API  
-  <details>
-	<summary><code>react native</code> <code>graphql</code> </summary>
-
-	Added February  7, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Cannonball](https://github.com/crashlytics/cannonball-ios): Fun way to create / share stories & poems [` App Store`](https://apps.apple.com/app/cannonball-magnetic-poetry/id929750075)  
   <details>
 	<summary><code>swift</code> ⭐⭐</summary>
@@ -7198,6 +7199,27 @@ https://flutter.dev — [back to top](#readme)
   </details>
 
 
+### GraphQL 
+ 
+[back to top](#readme) 
+ 
+- [Artist](https://github.com/orta/Relay-Artist-Example): Use Relay to access the Artsy GraphQL API  
+  <details>
+	<summary><code>react native</code> </summary>
+
+	Added February  7, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [CovidUI](https://github.com/nerdsupremacist/CovidUI): Track the status of COVID-19 around the world  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added December 19, 2020<br>  License: `other`<br>
+	<a href='https://github.com/nerdsupremacist/CovidUI/raw/master/demo.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+
 ### Ionic 
  
 http://ionicframework.com/ — [back to top](#readme) 
@@ -7328,7 +7350,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 - [Artist](https://github.com/orta/Relay-Artist-Example): Use Relay to access the Artsy GraphQL API  
   <details>
-	<summary><code>react native</code> <code>graphql</code> </summary>
+	<summary><code>react native</code> </summary>
 
 	Added February  7, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'><code>Screenshot 1</code></a> 
@@ -8131,6 +8153,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added April 23, 2020<br>  License: `other`<br>
 	<a href='https://github.com/Joker462/COVID-19_SwiftUI_Demo/raw/master/example.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [CovidUI](https://github.com/nerdsupremacist/CovidUI): Track the status of COVID-19 around the world  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added December 19, 2020<br>  License: `other`<br>
+	<a href='https://github.com/nerdsupremacist/CovidUI/raw/master/demo.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)  
