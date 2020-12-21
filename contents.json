@@ -24132,6 +24132,22 @@
       ],
       "date_added": "Dec 19 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "MortyUI",
+      "category-ids": [
+        "swiftui",
+        "graphql"
+      ],
+      "description": "Simple Rick & Morty app to demo GraphQL + SwiftUI",
+      "source": "https://github.com/Dimillian/MortyUI",
+      "license": "apache-2.0",
+      "screenshots": ["https://github.com/Dimillian/MortyUI/raw/main/Screenshots/characters.png"],
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Dec 21 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
