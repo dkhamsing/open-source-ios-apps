@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1214-green.svg) ![](https://img.shields.io/badge/Updated-December%2019,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1215-green.svg) ![](https://img.shields.io/badge/Updated-December%2021,%202020-lightgrey.svg)
 
 Jump to
 
@@ -7219,6 +7219,14 @@ https://flutter.dev — [back to top](#readme)
 	<a href='https://github.com/nerdsupremacist/CovidUI/raw/master/demo.gif'><code>Screenshot 1</code></a> 
   </details>
 
+- [MortyUI](https://github.com/Dimillian/MortyUI): Simple Rick & Morty app to demo GraphQL + SwiftUI  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added December 21, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://github.com/Dimillian/MortyUI/raw/main/Screenshots/characters.png'><code>Screenshot 1</code></a> 
+  </details>
+
 
 ### Ionic 
  
@@ -8393,6 +8401,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added May 29, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/CmZhSrp.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [MortyUI](https://github.com/Dimillian/MortyUI): Simple Rick & Morty app to demo GraphQL + SwiftUI  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added December 21, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
+	<a href='https://github.com/Dimillian/MortyUI/raw/main/Screenshots/characters.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI): Browse movies, made with SwiftUI, Combine & MovieDB  
