@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1215-green.svg) ![](https://img.shields.io/badge/Updated-December%2021,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1216-green.svg) ![](https://img.shields.io/badge/Updated-December%2022,%202020-lightgrey.svg)
 
 Jump to
 
@@ -655,6 +655,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- [CalendarKit](https://github.com/richardtop/CalendarKit): Example app for a day view calendar UI component. Similar to Apple calendar app  
+  <details>
+	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
+
+	Added December 22, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://user-images.githubusercontent.com/8013017/102885008-5729c500-445b-11eb-9f26-f835b51d8ebf.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
 - [FreeTimePicker](https://github.com/fromkk/FreeTimePicker): Find free time in your calendar  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> <code>combine</code> 🌐 </summary>
@@ -669,14 +677,6 @@ Click ► to show more details
 
 	Added June 19, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://github.com/airbnb/HorizonCalendar/raw/master/Docs/Images/stay_search.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [CalendarKit](https://github.com/richardtop/CalendarKit): Example app for a day view calendar UI component. Similar to Apple iOS calendar app.
-  <details>
-	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
-
-	Added December 22, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://user-images.githubusercontent.com/8013017/102885008-5729c500-445b-11eb-9f26-f835b51d8ebf.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [LunarCore](https://github.com/cyanzhong/LunarCore): Small lunar calendar with Today Extension  
