@@ -671,6 +671,14 @@ Click ► to show more details
 	<a href='https://github.com/airbnb/HorizonCalendar/raw/master/Docs/Images/stay_search.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [CalendarKit](https://github.com/richardtop/CalendarKit): Example app for a day view calendar UI component. Similar to Apple iOS calendar app.
+  <details>
+	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
+
+	Added December 22, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://user-images.githubusercontent.com/8013017/102885008-5729c500-445b-11eb-9f26-f835b51d8ebf.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
 - [LunarCore](https://github.com/cyanzhong/LunarCore): Small lunar calendar with Today Extension  
   <details>
 	<summary><code>objc</code> 🌐 ⭐⭐⭐</summary>
