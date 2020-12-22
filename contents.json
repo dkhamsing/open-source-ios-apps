@@ -24148,6 +24148,24 @@
       ],
       "date_added": "Dec 21 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "CalendarKit",
+      "category-ids": [
+        "calendar"
+      ],
+      "description": "Example app for a day view calendar UI component. Similar to Apple calendar app",
+      "license": "mit",
+      "source": "https://github.com/richardtop/CalendarKit",
+      "tags": [
+        "swift"
+      ],
+      "stars": 1595,
+      "date_added": "Dec 22 2020",
+      "suggested_by": "@richardtop",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/8013017/102885008-5729c500-445b-11eb-9f26-f835b51d8ebf.jpg"
+      ]
     }
   ]
 }
