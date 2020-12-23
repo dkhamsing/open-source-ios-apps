@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1216-green.svg) ![](https://img.shields.io/badge/Updated-December%2022,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1217-green.svg) ![](https://img.shields.io/badge/Updated-December%2023,%202020-lightgrey.svg)
 
 Jump to
 
@@ -3575,6 +3575,13 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 [back to top](#readme) 
  
+- [Minimalistic Push](https://github.com/iIDRAGONFIREIi/minimalistic_push): Track your push-ups in the training mode and see an overview of your sessions  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> </summary>
+
+	Added December 22, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
 - [OutRun](https://github.com/timfraedrich/OutRun): Outdoor fitness tracker that supports walking, hiking, cycling and skating [` App Store`](https://apps.apple.com/app/OutRun/id1477511092)  
   <details>
 	<summary><code>swift</code> <code>snapkit</code> <code>charts</code> </summary>
@@ -7159,6 +7166,13 @@ https://flutter.dev — [back to top](#readme)
 	Added July  4, 2020<br>  License: `other`
   </details>
 
+- [Minimalistic Push](https://github.com/iIDRAGONFIREIi/minimalistic_push): Track your push-ups in the training mode and see an overview of your sessions  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> </summary>
+
+	Added December 22, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+  </details>
+
 - [newsline](https://github.com/ayush221b/newsline)  
   <details>
 	<summary><code>flutter</code> <code>dart</code> </summary>
@@ -8583,7 +8597,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/36863/80056069-54a05580-84f1-11ea-8597-5a227c9c64a7.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [SwiftUI Examples](https://github.com/ivanvorobei/SwiftUI): Include layout, UI, animations, gestures, draw and data  
+- [SwiftUI Examples](https://github.com/varabeis/SwiftUI): Include layout, UI, animations, gestures, draw and data  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> ⭐⭐⭐⭐⭐</summary>
 
