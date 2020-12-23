@@ -24166,6 +24166,22 @@
       "screenshots": [
         "https://user-images.githubusercontent.com/8013017/102885008-5729c500-445b-11eb-9f26-f835b51d8ebf.jpg"
       ]
+    },
+    {
+      "title": "Minimalistic Push",
+      "description": "Track your push-ups in the training mode and see an overview of your sessions",
+      "category-ids": [
+        "flutter",
+        "fitness"
+      ],
+      "source": "https://github.com/iIDRAGONFIREIi/minimalistic_push",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "mit",
+      "date_added": "Dec 22 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
