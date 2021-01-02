@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1217-green.svg) ![](https://img.shields.io/badge/Updated-December%2023,%202020-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1218-green.svg) ![](https://img.shields.io/badge/Updated-January%20%202,%202021-lightgrey.svg)
 
 Jump to
 
@@ -380,7 +380,7 @@ Click ► to show more details
 
 - [Nightguard](https://github.com/nightscout/nightguard): Display blood glucose values stored on your nightscout server  
   <details>
-	<summary><code>swift</code> <code>apple-watch</code> </summary>
+	<summary><code>swift</code> <code>apple-watch</code> ⭐</summary>
 
 	http://www.nightscout.info/<br>  Added June 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://github.com/nightscout/nightguard/raw/master/images/nightguard24.jpg'><code>Screenshot 1</code></a> 
@@ -1168,7 +1168,7 @@ Click ► to show more details
 
 - [Telegram](https://github.com/TelegramMessenger/Telegram-iOS): Send messages with a focus on speed & security [` App Store`](https://apps.apple.com/app/telegram-messenger/id686449807)  
   <details>
-	<summary><code>swift</code> <code>c</code> <code>objc</code> ⭐⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>c</code> <code>objc</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added April  6, 2015<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/72/35/fb/7235fb9a-07fd-97f1-31f1-b4810f7cd1ca/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/e3/b4/a2e3b456-fdbc-77e6-d3f4-21e3d5998a79/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/78/8d/f5/788df564-08d5-40fc-b18c-d153de535b35/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/89/cf/cd/89cfcd2f-98dd-cbc0-e730-c7cb1854928c/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/6b/23/8e6b239b-28b1-bbe2-f89c-f9e6ea9969b1/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
@@ -1485,7 +1485,7 @@ Click ► to show more details
   <details>
 	<summary><code>swift</code> </summary>
 
-	Added August 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+	Added August 26, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [Terrarium](https://github.com/penk/terrarium-app): UI prototyping for coders  
@@ -1566,7 +1566,7 @@ Click ► to show more details
 
 - [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Quickly check in on your GitHub contributions from your Home Screen using Widgets [` App Store`](https://apps.apple.com/app/id1537192731)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	Added October 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-1.png'><code>Screenshot 1</code></a> <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-2.png'><code>Screenshot 2</code></a> 
@@ -2311,7 +2311,7 @@ Widget (iOS 14) — [back to top](#readme)
  
 - [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Quickly check in on your GitHub contributions from your Home Screen using Widgets [` App Store`](https://apps.apple.com/app/id1537192731)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	Added October 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-1.png'><code>Screenshot 1</code></a> <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-2.png'><code>Screenshot 2</code></a> 
@@ -3373,7 +3373,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 
 - [Nightguard](https://github.com/nightscout/nightguard): Display blood glucose values stored on your nightscout server  
   <details>
-	<summary><code>swift</code> <code>apple-watch</code> </summary>
+	<summary><code>swift</code> <code>apple-watch</code> ⭐</summary>
 
 	http://www.nightscout.info/<br>  Added June 17, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://github.com/nightscout/nightguard/raw/master/images/nightguard24.jpg'><code>Screenshot 1</code></a> 
@@ -4467,7 +4467,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [Papr](https://github.com/jdisho/Papr): An unofficial client for https://unsplash.com  
   <details>
-	<summary><code>swift</code> ⭐⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
 	Added April 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'><code>Screenshot 2</code></a> 
@@ -5796,7 +5796,7 @@ https://newsapi.org/ — [back to top](#readme)
   <details>
 	<summary><code>cordova</code> ⭐⭐⭐⭐⭐</summary>
 
-	https://getoutline.org<br>  Added April 13, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+	https://getoutline.org<br>  Added April 13, 2021<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
 - [Passepartout](https://github.com/passepartoutvpn/passepartout-ios): User-friendly OpenVPN app [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537)  
@@ -5850,7 +5850,7 @@ https://newsapi.org/ — [back to top](#readme)
   <details>
 	<summary><code>swift</code> <code>2fa</code> ⭐</summary>
 
-	Added April 12, 2020<br>  License: [`isc`](http://choosealicense.com/licenses/isc/)<br>
+	Added April 12, 2021<br>  License: [`isc`](http://choosealicense.com/licenses/isc/)<br>
 	<a href='https://i.imgur.com/QXPVzw6.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -6799,6 +6799,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://i.imgur.com/V3kaLaC.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [ReadingList](https://github.com/AndrewBennet/ReadingList): Track personal reading lists [` App Store`](https://apps.apple.com/app/reading-list-book-log/id1217139955)  
+  <details>
+	<summary><code>swift</code> <code>storyboard</code> <code>eureka</code> <code>firebase</code> ⭐⭐</summary>
+
+	Added January  2, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/AndrewBennet/ReadingList/raw/master/media/iPhone%20X-0_ToReadList_framed.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Recipes](https://github.com/onmyway133/Recipes): Showcases many recipes together with their detail information  
   <details>
 	<summary><code>swift</code> </summary>
@@ -7183,7 +7191,7 @@ https://flutter.dev — [back to top](#readme)
 
 - [Sandwhich](https://github.com/MotionMobs/Sandwhich): Solve the sandwich debate by determining if the picture you've taken is a sandwich using machine learning  
   <details>
-	<summary><code>flutter</code> <code>dart</code> <code>python</code> </summary>
+	<summary><code>flutter</code> <code>dart</code> <code>python</code> ⭐</summary>
 
 	Added October 20, 2020<br>  License: `other`<br>
 	<a href='https://github.com/MotionMobs/Sandwhich/raw/master/media/animated.gif'><code>Screenshot 1</code></a> 
@@ -7243,7 +7251,7 @@ https://flutter.dev — [back to top](#readme)
 
 - [MortyUI](https://github.com/Dimillian/MortyUI): Simple Rick & Morty app to demo GraphQL + SwiftUI  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐⭐</summary>
 
 	Added December 21, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://github.com/Dimillian/MortyUI/raw/main/Screenshots/characters.png'><code>Screenshot 1</code></a> 
@@ -7971,7 +7979,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [Papr](https://github.com/jdisho/Papr): An unofficial client for https://unsplash.com  
   <details>
-	<summary><code>swift</code> ⭐⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
 
 	Added April 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'><code>Screenshot 2</code></a> 
@@ -8427,7 +8435,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 - [MortyUI](https://github.com/Dimillian/MortyUI): Simple Rick & Morty app to demo GraphQL + SwiftUI  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐⭐</summary>
 
 	Added December 21, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://github.com/Dimillian/MortyUI/raw/main/Screenshots/characters.png'><code>Screenshot 1</code></a> 
