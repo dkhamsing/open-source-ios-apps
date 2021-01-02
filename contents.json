@@ -24190,6 +24190,26 @@
       "date_added": "Dec 22 2020",
       "suggested_by": "@dkhamsing",
       "stars": 0
+    },
+    {
+      "title": "ReadingList",
+      "description": "Track personal reading lists",
+      "category-ids": [
+        "misc"
+      ],
+      "screenshots": ["https://github.com/AndrewBennet/ReadingList/raw/master/media/iPhone%20X-0_ToReadList_framed.png"],
+      "source": "https://github.com/AndrewBennet/ReadingList",
+      "itunes": "https://apps.apple.com/app/reading-list-book-log/id1217139955",
+      "tags": [
+        "swift",
+        "storyboard",
+        "eureka",
+        "firebase"
+      ],
+      "license": "mit",
+      "date_added": "Jan 2 2021",
+      "suggested_by": "@dkhamsing",
+      "stars": 252
     }
   ]
 }
