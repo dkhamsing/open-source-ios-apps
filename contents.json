@@ -24210,6 +24210,25 @@
       "date_added": "Jan 2 2021",
       "suggested_by": "@dkhamsing",
       "stars": 252
+    },
+    {
+      "title": "US NewsFeed",
+      "category-ids": [
+        "swiftui",
+        "news-api",
+        "widget",
+        "apple watch"
+      ],
+      "source": "https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM",
+      "license": "other",
+      "screenshots": [
+        "https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM/raw/main/news2.gif"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Jan 3 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
