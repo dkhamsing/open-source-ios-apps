@@ -2361,7 +2361,7 @@ https://newsapi.org/ — [back to top](#readme)
   <details>
 	<summary><code>swift</code> <code>2fa</code> ⭐</summary>
 
-	Added April 12, 2021<br>  License: [`isc`](http://choosealicense.com/licenses/isc/)<br>
+	Added April 12, 2020<br>  License: [`isc`](http://choosealicense.com/licenses/isc/)<br>
 	<a href='https://i.imgur.com/QXPVzw6.png'><code>Screenshot 1</code></a> 
   </details>
 
