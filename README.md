@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1218-green.svg) ![](https://img.shields.io/badge/Updated-January%20%202,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1219-green.svg) ![](https://img.shields.io/badge/Updated-January%20%203,%202021-lightgrey.svg)
 
 Jump to
 
@@ -472,6 +472,14 @@ Click ► to show more details
 
 	Added November  8, 2016<br>  License: `other`<br>
 	<a href='https://i.imgur.com/xyu7t89.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/Jes7vLF.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [US NewsFeed](https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added January  3, 2021<br>  License: `other`<br>
+	<a href='https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM/raw/main/news2.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [Watch Clicker Presentation](https://github.com/ezefranca/watchpresenter): Control your Keynote using Apple Watch [` App Store`](https://apps.apple.com/app/watchnotes/id1213397019)  
@@ -1485,7 +1493,7 @@ Click ► to show more details
   <details>
 	<summary><code>swift</code> </summary>
 
-	Added August 26, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+	Added August 26, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [Terrarium](https://github.com/penk/terrarium-app): UI prototyping for coders  
@@ -2346,6 +2354,14 @@ Widget (iOS 14) — [back to top](#readme)
 
 	Added December  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/FranicevicNikola/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [US NewsFeed](https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added January  3, 2021<br>  License: `other`<br>
+	<a href='https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM/raw/main/news2.gif'><code>Screenshot 1</code></a> 
   </details>
 
 
@@ -5200,6 +5216,14 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://cdn-images-1.medium.com/max/800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
+- [US NewsFeed](https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added January  3, 2021<br>  License: `other`<br>
+	<a href='https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM/raw/main/news2.gif'><code>Screenshot 1</code></a> 
+  </details>
+
 
 ### RSS 
  
@@ -5796,7 +5820,7 @@ https://newsapi.org/ — [back to top](#readme)
   <details>
 	<summary><code>cordova</code> ⭐⭐⭐⭐⭐</summary>
 
-	https://getoutline.org<br>  Added April 13, 2021<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+	https://getoutline.org<br>  Added April 13, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
 - [Passepartout](https://github.com/passepartoutvpn/passepartout-ios): User-friendly OpenVPN app [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537)  
@@ -5850,7 +5874,7 @@ https://newsapi.org/ — [back to top](#readme)
   <details>
 	<summary><code>swift</code> <code>2fa</code> ⭐</summary>
 
-	Added April 12, 2021<br>  License: [`isc`](http://choosealicense.com/licenses/isc/)<br>
+	Added April 12, 2020<br>  License: [`isc`](http://choosealicense.com/licenses/isc/)<br>
 	<a href='https://i.imgur.com/QXPVzw6.png'><code>Screenshot 1</code></a> 
   </details>
 
@@ -8734,6 +8758,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added September  2, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/z6FqTcp.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [US NewsFeed](https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added January  3, 2021<br>  License: `other`<br>
+	<a href='https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM/raw/main/news2.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [Waterminder](https://github.com/caiobzen/water-reminder-swiftui): Apple Watch app to remind you to drink water  
