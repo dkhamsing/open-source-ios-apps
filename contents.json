@@ -18279,14 +18279,10 @@
       ],
       "description": "User-friendly OpenVPN app",
       "license": "gpl-3.0",
-      "source": "https://github.com/passepartoutvpn/passepartout-ios",
+      "source": "https://github.com/passepartoutvpn/passepartout-apple",
       "itunes": "https://apps.apple.com/app/passepartout-openvpn-client/id1433648537",
       "screenshots": [
-        "https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-home.png",
-        "https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-profile.png",
-        "https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-trusted.png",
-        "https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-parameters.png",
-        "https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-network.png"
+        "https://github.com/passepartoutvpn/passepartout-apple/raw/master/res/ios/snap-home.png"
       ],
       "date_added": "Sep 19 2019",
       "suggested_by": "@baenglund",
