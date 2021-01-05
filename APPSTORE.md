@@ -2317,12 +2317,12 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://i.imgur.com/HeOTZqn.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Passepartout](https://github.com/passepartoutvpn/passepartout-ios): User-friendly OpenVPN app [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537)  
+- [Passepartout](https://github.com/passepartoutvpn/passepartout-apple): User-friendly OpenVPN app [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537)  
   <details>
 	<summary><code>swift</code> <code>mbprogresshud</code> ⭐⭐</summary>
 
 	Added September 19, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-home.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-profile.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-trusted.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-parameters.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-network.png'><code>Screenshot 5</code></a> 
+	<a href='https://github.com/passepartoutvpn/passepartout-apple/raw/master/res/ios/snap-home.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [PGPro](https://github.com/lucanaef/PGPro): PGP En- & Decryption [` App Store`](https://apps.apple.com/app/id1481696997)  
