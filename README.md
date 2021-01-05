@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1219-green.svg) ![](https://img.shields.io/badge/Updated-January%20%203,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1219-green.svg) ![](https://img.shields.io/badge/Updated-January%20%205,%202021-lightgrey.svg)
 
 Jump to
 
@@ -5823,12 +5823,12 @@ https://newsapi.org/ — [back to top](#readme)
 	https://getoutline.org<br>  Added April 13, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
-- [Passepartout](https://github.com/passepartoutvpn/passepartout-ios): User-friendly OpenVPN app [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537)  
+- [Passepartout](https://github.com/passepartoutvpn/passepartout-apple): User-friendly OpenVPN app [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537)  
   <details>
 	<summary><code>swift</code> <code>mbprogresshud</code> ⭐⭐</summary>
 
 	Added September 19, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-home.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-profile.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-trusted.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-parameters.png'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout-ios/master/res/snap-network.png'><code>Screenshot 5</code></a> 
+	<a href='https://github.com/passepartoutvpn/passepartout-apple/raw/master/res/ios/snap-home.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [PGPro](https://github.com/lucanaef/PGPro): PGP En- & Decryption [` App Store`](https://apps.apple.com/app/id1481696997)  
