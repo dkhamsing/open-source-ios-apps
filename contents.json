@@ -24238,21 +24238,6 @@
       "license": "other",
       "date_added": "Jan 9 2021",
       "suggested_by": "@dkhamsing"
-    },
-    {
-      "title": "UK - NHS COVID-19",
-      "category-ids": [
-        "contact-tracing"
-      ],
-      "tags": [
-        "swift"
-      ],
-      "source": "https://github.com/nhsx/covid-19-app-ios-ag-public",
-      "itunes": "https://apps.apple.com/gb/app/nhs-covid-19/id1520427663",
-      "screenshots": ["https://i.imgur.com/2mdkTOf.png"],
-      "license": "other",
-      "date_added": "Jan 9 2021",
-      "suggested_by": "@dkhamsing"
     }
   ]
 }
