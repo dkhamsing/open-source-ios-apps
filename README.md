@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1219-green.svg) ![](https://img.shields.io/badge/Updated-January%20%205,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1221-green.svg) ![](https://img.shields.io/badge/Updated-January%20%209,%202021-lightgrey.svg)
 
 Jump to
 
@@ -7242,6 +7242,13 @@ https://flutter.dev — [back to top](#readme)
 
 	Added August 16, 2020<br>  License: `other`<br>
 	<a href='https://github.com/bluemix/Tourism-Demo/raw/master/art/flutter-tourism-demo-400x300.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Trace](https://github.com/trentpiercy/trace): Modern crypto Portfolio & market explorer  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> ⭐⭐⭐</summary>
+
+	Added January  9, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [Travel Guide](https://github.com/Ivaskuu/travel-guide_app)  
