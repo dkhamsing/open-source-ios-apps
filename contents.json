@@ -24238,6 +24238,22 @@
       "license": "other",
       "date_added": "Jan 9 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Trace",
+      "description": "Modern crypto Portfolio & market explorer",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/trentpiercy/trace",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "mit",
+      "date_added": "Jan 9 2021",
+      "suggested_by": "@dkhamsing",
+      "stars": 623
     }
   ]
 }
