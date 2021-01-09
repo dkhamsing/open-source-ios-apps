@@ -24225,6 +24225,19 @@
       ],
       "date_added": "Jan 3 2021",
       "suggested_by": "@dkhamsing"
-    }
+    },
+    {
+      "title": "UK",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "tags": [
+        "archive"
+      ],
+      "source": "https://github.com/nhsx/COVID-19-app-iOS-BETA",
+      "license": "other",
+      "date_added": "Jan 9 2021",
+      "suggested_by": "@dkhamsing"
+    }  
   ]
 }
