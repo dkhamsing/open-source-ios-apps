@@ -24254,7 +24254,7 @@
       "date_added": "Jan 9 2021",
       "suggested_by": "@dkhamsing",
       "stars": 623
-    }
+    },
      	{
       "title": "Umbrella",
       "description": "Education app for learning about and managing digital and physical security",
@@ -24263,16 +24263,14 @@
       ],
       "screenshots": ["https://raw.githubusercontent.com/securityfirst/Umbrella_ios/master/umbrella_ios.png"],
       "source": "https://github.com/securityfirst/Umbrella_ios",
-      "itunes": "https://apps.apple.com/us/app/umbrella-security/id1453715310",  
-      ],
+      "itunes": "https://apps.apple.com/us/app/umbrella-security/id1453715310",
       "tags": [
-        "swift",
+        "swift"
       ],
       "license": "gpl-3.0",
       "date_added": "Jan 18 2021",
       "suggested_by": "@rorymbyrne",
       "stars": 5
     }
-
   ]
 }
