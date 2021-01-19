@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1221-green.svg) ![](https://img.shields.io/badge/Updated-January%20%209,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1222-green.svg) ![](https://img.shields.io/badge/Updated-January%2019,%202021-lightgrey.svg)
 
 Jump to
 
@@ -6893,6 +6893,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added September  5, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://user-images.githubusercontent.com/7985149/84211831-93e42f00-aabc-11ea-8594-6d3d6240589e.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Umbrella](https://github.com/securityfirst/Umbrella_ios): Learn about and managing digital and physical security [` App Store`](https://apps.apple.com/us/app/umbrella-security/id1453715310)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added January 18, 2021<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://raw.githubusercontent.com/securityfirst/Umbrella_ios/master/umbrella_ios.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Vinylogue](https://github.com/twocentstudios/vinylogue): For Last.fm [` App Store`](https://apps.apple.com/app/vinylogue-for-last.fm/id617471119)  
