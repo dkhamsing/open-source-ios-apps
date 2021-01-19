@@ -24259,7 +24259,7 @@
       "title": "Umbrella",
       "description": "Education app for learning about and managing digital and physical security",
       "category-ids": [
-        "swift"
+        "misc"
       ],
       "screenshots": ["https://raw.githubusercontent.com/securityfirst/Umbrella_ios/master/umbrella_ios.png"],
       "source": "https://github.com/securityfirst/Umbrella_ios",
