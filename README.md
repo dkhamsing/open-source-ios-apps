@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1222-green.svg) ![](https://img.shields.io/badge/Updated-January%2019,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1222-green.svg) ![](https://img.shields.io/badge/Updated-January%2020,%202021-lightgrey.svg)
 
 Jump to
 
@@ -5241,7 +5241,7 @@ https://newsapi.org/ — [back to top](#readme)
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
 
-	https://ranchero.com/netnewswire/<br>  Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	https://netnewswire.com<br>  Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/bYxNu6a.png'><code>Screenshot 1</code></a> 
   </details>
 
