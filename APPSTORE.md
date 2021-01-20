@@ -2128,7 +2128,7 @@ https://newsapi.org/ — [back to top](#readme)
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
 
-	https://ranchero.com/netnewswire/<br>  Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	https://netnewswire.com<br>  Added March  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/bYxNu6a.png'><code>Screenshot 1</code></a> 
   </details>
 
