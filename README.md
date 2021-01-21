@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1222-green.svg) ![](https://img.shields.io/badge/Updated-January%2020,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1223-green.svg) ![](https://img.shields.io/badge/Updated-January%2021,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3981,6 +3981,13 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added August 13, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='http://a5.mzstatic.com/us/r30/Purple/v4/d4/c0/91/d4c09117-c6df-beaa-db5f-0566be580645/screen480x480.jpeg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [CouchTracker](https://github.com/pietrocaselani/CouchTracker): Keep track of your favorite TV shows and movies using Trakt  
+  <details>
+	<summary><code>swift</code> <code>trakt</code> <code>moya</code> <code>kingfisher</code> <code>mvvm</code> </summary>
+
+	Added January 20, 2021<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 
 - [Facemotion](https://github.com/remirobert/Facemotion): Find a contact by face recognition  
@@ -7974,6 +7981,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary><code>swift</code> <code>swiftlint</code> <code>realm</code> <code>swiftybeaver</code> </summary>
 
 	Added April 17, 2020<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
+  </details>
+
+- [CouchTracker](https://github.com/pietrocaselani/CouchTracker): Keep track of your favorite TV shows and movies using Trakt  
+  <details>
+	<summary><code>swift</code> <code>trakt</code> <code>moya</code> <code>kingfisher</code> <code>mvvm</code> </summary>
+
+	Added January 20, 2021<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 
 - [Count It](https://github.com/PiXeL16/CountItApp): Dead simple way to you count anything  
