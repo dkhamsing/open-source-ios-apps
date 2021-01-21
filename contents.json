@@ -24271,6 +24271,26 @@
       "date_added": "Jan 18 2021",
       "suggested_by": "@rorymbyrne",
       "stars": 5
+    },
+    {
+      "title": "CouchTracker",
+      "category-ids": [
+        "media",
+        "mvvm"
+      ],
+      "tags": [
+        "swift",
+        "trakt",
+        "rxswift",
+        "moya",
+        "kingfisher"
+      ],
+      "description": "Keep track of your favorite TV shows and movies using Trakt",
+      "source": "https://github.com/pietrocaselani/CouchTracker",
+      "license": "gpl-3.0",
+      "stars": 36,
+      "date_added": "Jan 20 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
