@@ -24276,14 +24276,14 @@
       "title": "CouchTracker",
       "category-ids": [
         "media",
-        "mvvm"
+        "rxswift"
       ],
       "tags": [
         "swift",
         "trakt",
-        "rxswift",
         "moya",
-        "kingfisher"
+        "kingfisher",
+        "mvvm"
       ],
       "description": "Keep track of your favorite TV shows and movies using Trakt",
       "source": "https://github.com/pietrocaselani/CouchTracker",
