@@ -24291,6 +24291,25 @@
       "stars": 36,
       "date_added": "Jan 20 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Sunshine Weather",
+      "category-ids": [
+        "weather",
+        "swiftui"
+      ],
+      "source": "https://github.com/MaximeHeckel/sunshine-weather-app",
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui",
+        "openweathermap"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/gLwqXmY.png"
+      ],
+      "date_added": "Jan 23 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
