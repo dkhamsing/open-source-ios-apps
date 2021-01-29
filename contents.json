@@ -20658,7 +20658,7 @@
       ],
       "description": "Private messenger",
       "license": "gpl-3.0",
-      "source": "https://github.com/loki-project/session-ios",
+      "source": "https://github.com/oxen-io/session-ios",
       "itunes": "https://apps.apple.com/app/session-private-messenger/id1470168868",
       "tags": [
         "swift",
@@ -20669,6 +20669,7 @@
         "starscream",
         "afnetworking",
         "purelayout",
+        "archive",
         "yyimage"
       ],
       "screenshots": [
