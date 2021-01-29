@@ -253,6 +253,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Scratch](https://github.com/johnmci/Scratch.app.for.iOS)
 - [SelfieAssist](https://github.com/mxcl/SelfieAssist)
 - [Send To Me](https://github.com/PiXeL16/SendToMe)
+- [Session](https://github.com/oxen-io/session-ios)
 - [Shadertweak](https://github.com/opensourceios/Shadertweak)
 - [Show OpenGL content](https://github.com/bradley/iOSSwiftOpenGL)
 - [Shuttle-Tracker](https://github.com/AbstractedSheep/Shuttle-Tracker)
