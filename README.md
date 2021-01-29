@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1223-green.svg) ![](https://img.shields.io/badge/Updated-January%2021,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1224-green.svg) ![](https://img.shields.io/badge/Updated-January%2029,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1140,14 +1140,6 @@ Click ► to show more details
 
 	Added January 29, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a5/92/5e/a5925eca-3df6-1df4-0824-039df79d6b5b/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/56/71/e7/5671e781-80fb-b8f6-059e-e928b96249c1/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/71/11/9a/71119a69-1316-cbf8-ffee-acea9a8c4501/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/c7/e0/2fc7e09b-5620-035b-1316-089d9805a3d5/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/03/e8/b0/03e8b0a0-cc5d-08d3-70c6-8dd817439f6a/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
-  </details>
-
-- [Session](https://github.com/loki-project/session-ios): Private messenger [` App Store`](https://apps.apple.com/app/session-private-messenger/id1470168868)  
-  <details>
-	<summary><code>swift</code> <code>objc</code> <code>promisekit</code> <code>sqlcipher</code> <code>mantle</code> <code>starscream</code> <code>afnetworking</code> <code>purelayout</code> <code>yyimage</code> </summary>
-
-	Added May 22, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://i.imgur.com/TGHbQf1.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Signal](https://github.com/signalapp/Signal-iOS): Free, world-wide, private messaging & phone calls [` App Store`](https://apps.apple.com/app/id874139669)  
@@ -6562,6 +6554,14 @@ https://joinmastodon.org — [back to top](#readme)
 	<a href='https://github.com/comyar/Sol/raw/master/Screenshots/1.png'><code>Screenshot 1</code></a> <a href='https://github.com/comyar/Sol/raw/master/Screenshots/2.png'><code>Screenshot 2</code></a> 
   </details>
 
+- [Sunshine Weather](https://github.com/MaximeHeckel/sunshine-weather-app)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>openweathermap</code> </summary>
+
+	Added January 23, 2021<br>  License: `other`<br>
+	<a href='https://i.imgur.com/gLwqXmY.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [SwiftLanguageWeather](https://github.com/JakeLin/SwiftLanguageWeather)  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐⭐</summary>
@@ -8648,6 +8648,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	https://twitter.com/johnsundell/status/1280998529394184193<br>  Added July 18, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/ZIK9gA1.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Sunshine Weather](https://github.com/MaximeHeckel/sunshine-weather-app)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>openweathermap</code> </summary>
+
+	Added January 23, 2021<br>  License: `other`<br>
+	<a href='https://i.imgur.com/gLwqXmY.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm): VT100/Xterm Terminal emulator  
