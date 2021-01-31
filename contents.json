@@ -24311,6 +24311,19 @@
       ],
       "date_added": "Jan 23 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "film",
+      "category-ids": [
+        "content"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/christianampe/film-ios",
+      "license": "other",
+      "date_added": "Jan 31 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
