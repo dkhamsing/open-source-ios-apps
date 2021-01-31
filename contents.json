@@ -12938,7 +12938,7 @@
       "title": "Marvel Comics",
       "source": "https://github.com/thiagolioy/marvelapp",
       "category-ids": [
-        "media"
+        "content"
       ],
       "tags": [
         "swift",
@@ -21432,7 +21432,7 @@
     {
       "title": "Upcoming TV",
       "category-ids": [
-        "media"
+        "content"
       ],
       "description": "Track when your favorite tv show airs next",
       "license": "mit",
@@ -22703,7 +22703,7 @@
     {
       "title": "MyAnimeList",
       "category-ids": [
-        "media"
+        "content"
       ],
       "tags": [
         "swift",
@@ -24276,7 +24276,7 @@
     {
       "title": "CouchTracker",
       "category-ids": [
-        "media",
+        "content",
         "rxswift"
       ],
       "tags": [

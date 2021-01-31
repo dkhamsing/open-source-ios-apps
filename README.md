@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1224-green.svg) ![](https://img.shields.io/badge/Updated-January%2029,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1225-green.svg) ![](https://img.shields.io/badge/Updated-January%2031,%202021-lightgrey.svg)
 
 Jump to
 
@@ -765,12 +765,12 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [2048](https://github.com/austinzheng/iOS-2048)  
+- [2048](https://github.com/danqing/2048)  
   <details>
-	<summary><code>objc</code> ⭐⭐</summary>
+	<summary><code>spritekit</code> <code>objc</code> ⭐⭐⭐⭐</summary>
 
-	Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/austinzheng/iOS-2048/raw/master/screenshots/ss1.png?raw=true'><code>Screenshot 1</code></a> 
+	Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/3pZRJ82.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [2048](https://github.com/austinzheng/swift-2048)  
@@ -781,12 +781,12 @@ Click ► to show more details
 	<a href='https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [2048](https://github.com/danqing/2048)  
+- [2048](https://github.com/austinzheng/iOS-2048)  
   <details>
-	<summary><code>spritekit</code> <code>objc</code> ⭐⭐⭐⭐</summary>
+	<summary><code>objc</code> ⭐⭐</summary>
 
-	Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/3pZRJ82.jpg'><code>Screenshot 1</code></a> 
+	Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/austinzheng/iOS-2048/raw/master/screenshots/ss1.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [appstore](https://github.com/phillfarrugia/appstore-clone)  
@@ -2637,6 +2637,14 @@ File Management — [back to top](#readme)
  
 [back to top](#readme) 
  
+- [2048](https://github.com/danqing/2048)  
+  <details>
+	<summary><code>spritekit</code> <code>objc</code> ⭐⭐⭐⭐</summary>
+
+	Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/3pZRJ82.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
 - [2048](https://github.com/austinzheng/iOS-2048)  
   <details>
 	<summary><code>objc</code> ⭐⭐</summary>
@@ -2651,14 +2659,6 @@ File Management — [back to top](#readme)
 
 	Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [2048](https://github.com/danqing/2048)  
-  <details>
-	<summary><code>spritekit</code> <code>objc</code> ⭐⭐⭐⭐</summary>
-
-	Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/3pZRJ82.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [2048 SwiftUI](https://github.com/unixzii/SwiftUI-2048): 2048 written with SwiftUI  
@@ -4361,6 +4361,13 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://i.imgur.com/Kc7V03d.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [film](https://github.com/christianampe/film-ios)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added January 31, 2021<br>  License: `other`
+  </details>
+
 - [Ghibliii](https://github.com/kxvn-lx/Ghibliii): Studio Ghibli movie database  
   <details>
 	<summary><code>swift</code> </summary>
@@ -5488,20 +5495,20 @@ https://newsapi.org/ — [back to top](#readme)
 	Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C)  
-  <details>
-	<summary><code>cloudkit</code> ⭐</summary>
-
-	Added May 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/anNR2DT.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift)  
   <details>
 	<summary><code>swift</code> <code>cloudkit</code> ⭐⭐</summary>
 
 	Added May 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/dS9aFJL.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C)  
+  <details>
+	<summary><code>cloudkit</code> ⭐</summary>
+
+	Added May 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/anNR2DT.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit): A set of advanced compositional layouts for UICollectionView with examples (Swift 5.1, iOS 13)  
@@ -5838,19 +5845,19 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://pgpro.app/assets/screenshot/1.png'><code>Screenshot 1</code></a> <a href='https://pgpro.app/assets/screenshot/2.png'><code>Screenshot 2</code></a> <a href='https://pgpro.app/assets/screenshot/3.png'><code>Screenshot 3</code></a> <a href='https://pgpro.app/assets/screenshot/4.png'><code>Screenshot 4</code></a> 
   </details>
 
+- [Prey](https://github.com/prey/prey-swift-client): Track lost or stolen devices & perform actions remotely  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+
 - [Prey](https://github.com/prey/prey-ios-client): Track lost or stolen devices & perform actions remotely [` App Store`](https://apps.apple.com/app/id456755037)  
   <details>
 	<summary><code>objc</code> ⭐⭐</summary>
 
 	https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/da/26/c7/da26c749-b889-37a7-9e2f-62c73bcfba3d/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/89/75/a18975f9-b682-9c9b-5f2e-96389f66fec6/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/87/60/24/876024e2-5338-26c9-7e08-7415068a08e0/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a5/1d/29/a51d297d-74c8-4086-7585-263c2c1ea494/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/df/a7/52/dfa7524e-313e-ff82-d615-f95cd5149dc9/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
-  </details>
-
-- [Prey](https://github.com/prey/prey-swift-client): Track lost or stolen devices & perform actions remotely  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 
 - [ProtonMail](https://github.com/ProtonMail/ios-mail): Encrypted Email [` App Store`](https://apps.apple.com/app/id979659905)  
