@@ -765,12 +765,12 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [2048](https://github.com/danqing/2048)  
+- [2048](https://github.com/austinzheng/iOS-2048)  
   <details>
-	<summary><code>spritekit</code> <code>objc</code> ⭐⭐⭐⭐</summary>
+	<summary><code>objc</code> ⭐⭐</summary>
 
-	Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/3pZRJ82.jpg'><code>Screenshot 1</code></a> 
+	Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/austinzheng/iOS-2048/raw/master/screenshots/ss1.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 - [2048](https://github.com/austinzheng/swift-2048)  
@@ -781,12 +781,12 @@ Click ► to show more details
 	<a href='https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [2048](https://github.com/austinzheng/iOS-2048)  
+- [2048](https://github.com/danqing/2048)  
   <details>
-	<summary><code>objc</code> ⭐⭐</summary>
+	<summary><code>spritekit</code> <code>objc</code> ⭐⭐⭐⭐</summary>
 
-	Added March 24, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/austinzheng/iOS-2048/raw/master/screenshots/ss1.png?raw=true'><code>Screenshot 1</code></a> 
+	Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/3pZRJ82.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [appstore](https://github.com/phillfarrugia/appstore-clone)  
@@ -2637,14 +2637,6 @@ File Management — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [2048](https://github.com/danqing/2048)  
-  <details>
-	<summary><code>spritekit</code> <code>objc</code> ⭐⭐⭐⭐</summary>
-
-	Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/3pZRJ82.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
 - [2048](https://github.com/austinzheng/iOS-2048)  
   <details>
 	<summary><code>objc</code> ⭐⭐</summary>
@@ -2659,6 +2651,14 @@ File Management — [back to top](#readme)
 
 	Added March 18, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [2048](https://github.com/danqing/2048)  
+  <details>
+	<summary><code>spritekit</code> <code>objc</code> ⭐⭐⭐⭐</summary>
+
+	Added July 11, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/3pZRJ82.jpg'><code>Screenshot 1</code></a> 
   </details>
 
 - [2048 SwiftUI](https://github.com/unixzii/SwiftUI-2048): 2048 written with SwiftUI  
@@ -3975,13 +3975,6 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='http://a5.mzstatic.com/us/r30/Purple/v4/d4/c0/91/d4c09117-c6df-beaa-db5f-0566be580645/screen480x480.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [CouchTracker](https://github.com/pietrocaselani/CouchTracker): Keep track of your favorite TV shows and movies using Trakt  
-  <details>
-	<summary><code>swift</code> <code>trakt</code> <code>moya</code> <code>kingfisher</code> <code>mvvm</code> </summary>
-
-	Added January 20, 2021<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  </details>
-
 - [Facemotion](https://github.com/remirobert/Facemotion): Find a contact by face recognition  
   <details>
 	<summary><code>opencv</code> ⭐</summary>
@@ -4022,14 +4015,6 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/95/5b/f0/955bf0bb-c897-bf04-e91e-5872cd937762/mzl.ewoyekko.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/77/09/18/770918b9-a6e0-c18b-d537-2e57539f9d90/mzl.ubgzfasc.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/41/e6/8241e63f-35b1-cbe9-6cd4-2cbdce9feb4b/mzl.ddodyqvp.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/25/d9/ee/25d9eec0-30bb-54e6-4273-d9f29913ccde/mzl.jhwhiolh.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/2e/46/f72e4657-9da9-930a-6f7e-8a636c28d5a5/mzl.kdweouvd.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Marvel Comics](https://github.com/thiagolioy/marvelapp)  
-  <details>
-	<summary><code>swift</code> <code>moya</code> <code>rxswift</code> <code>dollar</code> <code>kingfisher</code> <code>quick</code> <code>nimble</code> ⭐</summary>
-
-	Added January  9, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/thiagolioy/marvelapp/blob/master/assets/marvel_screens.png?raw=true'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Meme Maker](https://github.com/MemeMaker/Meme-Maker-iOS): Create & share memes  
   <details>
 	<summary><code>swift</code> </summary>
@@ -4044,13 +4029,6 @@ Image, video, audio, reading — [back to top](#readme)
 
 	https://mupdf.com/<br>  Added June  2, 2016<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/ac/f7/c3acf7d1-9fb6-a5bc-6e09-8ccc70bf3e97/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/77/69/aa/7769aa4a-5e2f-f145-f89e-541c94ac74a7/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/62/0b/52/620b5289-7cdb-fa7a-4883-0d3565d87690/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
-  </details>
-
-- [MyAnimeList](https://github.com/MaisaMilena/MyAnimeList)  
-  <details>
-	<summary><code>swift</code> <code>vip</code> <code>realm</code> </summary>
-
-	Added August 10, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS): Import PDF presentations as vector images into Keynote [` App Store`](https://apps.apple.com/app/pdf-to-keynote/id1461682846)  
@@ -4091,14 +4069,6 @@ Image, video, audio, reading — [back to top](#readme)
 
 	https://novinfard.com<br>  Added May 24, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/df/ca/54/dfca5417-f1d7-3c7f-675a-9bd3e7c1b082/source/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/27/9e/83/279e8336-a1e4-3bbe-4162-4fce7651b2bf/source/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/62/1c/7d/621c7db7-8259-dad3-247c-850b50a76797/source/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/1d/f8/2f/1df82ff0-2f41-c97e-c5dd-a9418323804c/source/460x0w.png'><code>Screenshot 4</code></a> 
-  </details>
-
-- [Upcoming TV](https://github.com/dkhamsing/upcomingtv): Track when your favorite tv show airs next  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added June  9, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://github.com/dkhamsing/upcomingtv/raw/master/Images/0.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [wallabag](https://github.com/wallabag/ios-app): A self-hosted read-it-later app [` App Store`](https://apps.apple.com/app/wallabag-2-official/id1170800946)  
@@ -4345,6 +4315,13 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://github.com/fimuxd/BringMyOwnBeer-Combine/raw/develop/ScreenShots/Random.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [CouchTracker](https://github.com/pietrocaselani/CouchTracker): Keep track of your favorite TV shows and movies using Trakt  
+  <details>
+	<summary><code>swift</code> <code>trakt</code> <code>moya</code> <code>kingfisher</code> <code>mvvm</code> </summary>
+
+	Added January 20, 2021<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+  </details>
+
 - [Dunk](https://github.com/naoyashiga/Dunk)  
   <details>
 	<summary><code>swift</code> <code>dribbble</code> ⭐⭐⭐</summary>
@@ -4424,6 +4401,14 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/80/e9/b6/80e9b600-72e3-3e8e-d3b0-5c13fdf14e9c/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/da/41/08/da4108a2-eaf0-77d2-fb06-b8d6681dae04/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/05/c9/51/05c951c9-2276-0228-4642-4ed19c4b7f1a/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/64/9b/c4/649bc454-3911-5de4-d57b-8f016ac9bf68/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
+- [Marvel Comics](https://github.com/thiagolioy/marvelapp)  
+  <details>
+	<summary><code>swift</code> <code>moya</code> <code>rxswift</code> <code>dollar</code> <code>kingfisher</code> <code>quick</code> <code>nimble</code> ⭐</summary>
+
+	Added January  9, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/thiagolioy/marvelapp/blob/master/assets/marvel_screens.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Molecules](http://www.sunsetlakesoftware.com/molecules): Visualize molecules in 3D [` App Store`](https://apps.apple.com/app/molecules/id284943090)  
   <details>
 	<summary><code>objc</code> </summary>
@@ -4462,6 +4447,13 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added June 13, 2019<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [MyAnimeList](https://github.com/MaisaMilena/MyAnimeList)  
+  <details>
+	<summary><code>swift</code> <code>vip</code> <code>realm</code> </summary>
+
+	Added August 10, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [osia](https://github.com/dkhamsing/osia): Super basic app to browse open-source-ios-apps  
@@ -4595,6 +4587,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added August 11, 2020<br>  License: `other`<br>
 	<a href='https://github.com/rcaos/TVToday/raw/master/Screens/Screen%20101.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Upcoming TV](https://github.com/dkhamsing/upcomingtv): Track when your favorite tv show airs next  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added June  9, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/dkhamsing/upcomingtv/raw/master/Images/0.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Words](https://github.com/soffes/words): Thesaurus  
@@ -5495,20 +5495,20 @@ https://newsapi.org/ — [back to top](#readme)
 	Added April 21, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
-- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift)  
-  <details>
-	<summary><code>swift</code> <code>cloudkit</code> ⭐⭐</summary>
-
-	Added May 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/dS9aFJL.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C)  
   <details>
 	<summary><code>cloudkit</code> ⭐</summary>
 
 	Added May 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/anNR2DT.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift)  
+  <details>
+	<summary><code>swift</code> <code>cloudkit</code> ⭐⭐</summary>
+
+	Added May 17, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://i.imgur.com/dS9aFJL.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit): A set of advanced compositional layouts for UICollectionView with examples (Swift 5.1, iOS 13)  
@@ -5845,19 +5845,19 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://pgpro.app/assets/screenshot/1.png'><code>Screenshot 1</code></a> <a href='https://pgpro.app/assets/screenshot/2.png'><code>Screenshot 2</code></a> <a href='https://pgpro.app/assets/screenshot/3.png'><code>Screenshot 3</code></a> <a href='https://pgpro.app/assets/screenshot/4.png'><code>Screenshot 4</code></a> 
   </details>
 
-- [Prey](https://github.com/prey/prey-swift-client): Track lost or stolen devices & perform actions remotely  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  </details>
-
 - [Prey](https://github.com/prey/prey-ios-client): Track lost or stolen devices & perform actions remotely [` App Store`](https://apps.apple.com/app/id456755037)  
   <details>
 	<summary><code>objc</code> ⭐⭐</summary>
 
 	https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/da/26/c7/da26c749-b889-37a7-9e2f-62c73bcfba3d/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/89/75/a18975f9-b682-9c9b-5f2e-96389f66fec6/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/87/60/24/876024e2-5338-26c9-7e08-7415068a08e0/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a5/1d/29/a51d297d-74c8-4086-7585-263c2c1ea494/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/df/a7/52/dfa7524e-313e-ff82-d615-f95cd5149dc9/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
+  </details>
+
+- [Prey](https://github.com/prey/prey-swift-client): Track lost or stolen devices & perform actions remotely  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://preyproject.com/<br>  Added June  1, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 
 - [ProtonMail](https://github.com/ProtonMail/ios-mail): Encrypted Email [` App Store`](https://apps.apple.com/app/id979659905)  
