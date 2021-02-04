@@ -19080,7 +19080,7 @@
         "security"
       ],
       "description": "Easy-to-use two-factor authentication",
-      "source": "https://github.com/calleerlandsson/Tofu",
+      "source": "https://github.com/calleluks/Tofu",
       "itunes": "https://apps.apple.com/app/tofu-authenticator/id1082229305",
       "license": "isc",
       "tags": [
@@ -24340,7 +24340,7 @@
         "ipad"
       ],
       "source": "https://github.com/vinhnx/Clendar",
-      "itunes": "https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041?itsct=apps_box&itscg=30200",
+      "itunes": "https://apps.apple.com/app/clendar-a-calendar-app/id1548102041",
       "screenshots": ["https://vinhnx.github.io/clendar-site/img/screenshot.png"],
       "license": "gpl-3.0",
       "date_added": "Feb 04 2021",
