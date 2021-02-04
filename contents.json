@@ -24324,6 +24324,27 @@
       "license": "other",
       "date_added": "Jan 31 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Clendar - minimal calendar",
+      "description": "Minimal Calendar & Widgets",
+      "category-ids": [
+        "calendar",
+        "widget",
+        "apple-watch"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "iphone",
+        "ipad"
+      ],
+      "source": "https://github.com/vinhnx/Clendar",
+      "itunes": "https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041?itsct=apps_box&itscg=30200",
+      "screenshots": ["https://vinhnx.github.io/clendar-site/img/screenshot.png"],
+      "license": "gpl-3.0",
+      "date_added": "Feb 04 2021",
+      "suggested_by": "@vinhnx"
     }
   ]
 }
