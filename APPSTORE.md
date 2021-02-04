@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **282** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **283** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -155,6 +155,14 @@ Click ► to show more details
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/60/13/98/60139811-685a-cc58-9e1e-544a1b87ca74/mzl.zqoaqzsb.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/1e/ac/03/1eac03ec-45ed-7efe-6ff9-f3713baa4da0/mzl.iahmmuul.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/b0/43/ce/b043ce1c-e33a-790d-fb17-7842db114fdb/mzl.zrqjzmbz.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/39/a4/54/39a45485-b91e-6f23-d020-2c513194c022/mzl.mppkwkjn.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/fa/3a/53/fa3a53ea-47a4-f93d-5bae-0c685ae2e160/mzl.ajscbauc.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
+- [Clendar - minimal calendar](https://github.com/vinhnx/Clendar): Minimal Calendar & Widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>iphone</code> <code>ipad</code> </summary>
+
+	Added February  4, 2021<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [HN Reader](https://github.com/Dimillian/SwiftHN): Hacker News Reader [` App Store`](https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741)  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
@@ -298,6 +306,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- [Clendar - minimal calendar](https://github.com/vinhnx/Clendar): Minimal Calendar & Widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>iphone</code> <code>ipad</code> </summary>
+
+	Added February  4, 2021<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'><code>Screenshot 1</code></a> 
+  </details>
+
 
 ## Color 
  
@@ -950,6 +966,14 @@ Today Extensions or Widgets — [back to top](#readme)
  
 Widget (iOS 14) — [back to top](#readme) 
  
+- [Clendar - minimal calendar](https://github.com/vinhnx/Clendar): Minimal Calendar & Widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>iphone</code> <code>ipad</code> </summary>
+
+	Added February  4, 2021<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Quickly check in on your GitHub contributions from your Home Screen using Widgets [` App Store`](https://apps.apple.com/app/id1537192731)  
   <details>
 	<summary><code>swift</code> ⭐</summary>
@@ -2349,7 +2373,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/1.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Tofu Authenticator](https://github.com/calleerlandsson/Tofu): Easy-to-use two-factor authentication [` App Store`](https://apps.apple.com/app/tofu-authenticator/id1082229305)  
+- [Tofu Authenticator](https://github.com/calleluks/Tofu): Easy-to-use two-factor authentication [` App Store`](https://apps.apple.com/app/tofu-authenticator/id1082229305)  
   <details>
 	<summary><code>swift</code> <code>2fa</code> ⭐</summary>
 
