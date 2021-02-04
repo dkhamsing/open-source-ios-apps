@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1225-green.svg) ![](https://img.shields.io/badge/Updated-January%2031,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1226-green.svg) ![](https://img.shields.io/badge/Updated-February%20%204,%202021-lightgrey.svg)
 
 Jump to
 
@@ -280,6 +280,14 @@ Click ► to show more details
 
 	Added March 24, 2017<br>  License: `other`<br>
 	<a href='https://github.com/BalestraPatrick/AppleWatchCalculator/blob/master/Screenshot1.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Clendar - minimal calendar](https://github.com/vinhnx/Clendar): Minimal Calendar & Widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>iphone</code> <code>ipad</code> </summary>
+
+	Added February  4, 2021<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Cortado](https://github.com/lazerwalker/cortado): Track your caffeine consumption habits  
@@ -669,6 +677,14 @@ Click ► to show more details
 
 	Added December 22, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://user-images.githubusercontent.com/8013017/102885008-5729c500-445b-11eb-9f26-f835b51d8ebf.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Clendar - minimal calendar](https://github.com/vinhnx/Clendar): Minimal Calendar & Widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>iphone</code> <code>ipad</code> </summary>
+
+	Added February  4, 2021<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [FreeTimePicker](https://github.com/fromkk/FreeTimePicker): Find free time in your calendar  
@@ -2309,6 +2325,14 @@ Today Extensions or Widgets — [back to top](#readme)
  
 Widget (iOS 14) — [back to top](#readme) 
  
+- [Clendar - minimal calendar](https://github.com/vinhnx/Clendar): Minimal Calendar & Widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> <code>iphone</code> <code>ipad</code> </summary>
+
+	Added February  4, 2021<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Quickly check in on your GitHub contributions from your Home Screen using Widgets [` App Store`](https://apps.apple.com/app/id1537192731)  
   <details>
 	<summary><code>swift</code> ⭐</summary>
@@ -4591,7 +4615,7 @@ Image, video, audio, reading — [back to top](#readme)
 
 - [Upcoming TV](https://github.com/dkhamsing/upcomingtv): Track when your favorite tv show airs next  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> <code>tmdb</code> </summary>
 
 	Added June  9, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/dkhamsing/upcomingtv/raw/master/Images/0.png'><code>Screenshot 1</code></a> 
@@ -5876,7 +5900,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/1.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Tofu Authenticator](https://github.com/calleerlandsson/Tofu): Easy-to-use two-factor authentication [` App Store`](https://apps.apple.com/app/tofu-authenticator/id1082229305)  
+- [Tofu Authenticator](https://github.com/calleluks/Tofu): Easy-to-use two-factor authentication [` App Store`](https://apps.apple.com/app/tofu-authenticator/id1082229305)  
   <details>
 	<summary><code>swift</code> <code>2fa</code> ⭐</summary>
 
