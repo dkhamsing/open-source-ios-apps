@@ -360,7 +360,7 @@ Click ► to show more details
 
 - [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app): Live chat for businesses [` App Store`](https://apps.apple.com/app/id1495796682)  
   <details>
-	<summary><code>react-native</code> </summary>
+	<summary><code>react-native</code> ⭐</summary>
 
 	Added November  4, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/2c2XCKd.png'><code>Screenshot 1</code></a> 
@@ -1028,7 +1028,7 @@ File Management — [back to top](#readme)
 
 - [ownCloud](https://github.com/owncloud/ios-app): File browser & sync for ownCloud file hosting service [` App Store`](https://apps.apple.com/app/owncloud/id1359583808)  
   <details>
-	<summary><code>swift</code> <code>ipad</code> </summary>
+	<summary><code>swift</code> <code>ipad</code> ⭐</summary>
 
 	Added May 18, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://owncloud.com/wp-content/uploads/2019/05/ownCloud-iOS-app-store-parent-file-listing.png'><code>Screenshot 1</code></a> 
@@ -1118,7 +1118,7 @@ File Management — [back to top](#readme)
 
 - [Bread](https://github.com/breadwallet/breadwallet-ios): Bitcoin wallet [` App Store`](https://apps.apple.com/app/breadwallet/id885251393)  
   <details>
-	<summary><code>swift</code> ⭐⭐</summary>
+	<summary><code>swift</code> ⭐⭐⭐</summary>
 
 	Added July  8, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='http://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg'><code>Screenshot 1</code></a> 
@@ -1211,7 +1211,7 @@ File Management — [back to top](#readme)
 
 - [littlego](https://github.com/herzbube/littlego): Game of Go [` App Store`](https://apps.apple.com/app/little-go/id490753989)  
   <details>
-	<summary><code>iphone</code> <code>ipad</code> </summary>
+	<summary><code>iphone</code> <code>ipad</code> ⭐</summary>
 
 	Added March  6, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/af/a9/34/afa934c6-45c5-c194-d179-f34520fe8b1c/mzl.jfnjvioh.png/460x0w.jpg'><code>Screenshot 1</code></a> 
@@ -2634,7 +2634,7 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [Loose Leaf](https://github.com/adamwulf/loose-leaf): Take notes, import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://apps.apple.com/app/loose-leaf/id625659452)  
   <details>
-	<summary><code>ipad</code> <code>pdf</code> <code>apple pencil</code> ⭐⭐</summary>
+	<summary><code>ipad</code> <code>pdf</code> <code>apple pencil</code> ⭐⭐⭐</summary>
 
 	Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'><code>Screenshot 1</code></a> 
@@ -2942,7 +2942,7 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 - [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app): Live chat for businesses [` App Store`](https://apps.apple.com/app/id1495796682)  
   <details>
-	<summary><code>react-native</code> </summary>
+	<summary><code>react-native</code> ⭐</summary>
 
 	Added November  4, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://i.imgur.com/2c2XCKd.png'><code>Screenshot 1</code></a> 
