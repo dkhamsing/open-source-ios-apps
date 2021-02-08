@@ -24357,6 +24357,18 @@
       "date_added": "Feb 04 2021",
       "suggested_by": "@vinhnx",
       "stars": 12
+    },
+    {
+        "title": "GitTime",
+        "category-ids": ["github"],
+        "tags": ["swift, reactorkit, rxswift"],
+        "description": "GitHub working time - GitTime. Show your GitHub contributions and activities. Written ReactorKit, RxSwift, Moya",
+        "source": "https://github.com/87kangsw/GitTime",
+        "screenshots": ["https://raw.githubusercontent.com/87kangsw/resume/master/images/gittime.png"],
+        "license": "mit",
+        "date_added": "Feb 09 2021",
+        "suggested_by": "@87kangsw",
+        "itunes": "https://apps.apple.com/app/id1469013856?mt=8"
     }
   ]
 }
