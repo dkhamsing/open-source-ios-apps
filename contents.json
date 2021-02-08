@@ -24310,6 +24310,30 @@
       ],
       "date_added": "Jan 23 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Word Of The Day",
+      "category-ids": [
+        "swiftui",
+        "widget",
+        "apple-watch"
+      ],
+      "tags": [
+        "watchos",
+        "swiftui",
+        "alamofire"
+      ],
+      "description": "iOS app, widget and watch app that shows random word of the day",
+      "source": "https://github.com/kyledold/WordOfTheDay",
+      "itunes": "https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328",
+      "screenshots": [
+        "https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png",
+        "https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png",
+        "https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png"
+      ],
+      "date_added": "Feb 8 2021",
+      "license": "mit",
+      "suggested_by": "@kyledold"
     }
   ]
 }
