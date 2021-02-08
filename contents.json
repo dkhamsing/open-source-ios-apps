@@ -24359,16 +24359,40 @@
       "stars": 12
     },
     {
-        "title": "GitTime",
-        "category-ids": ["github"],
-        "tags": ["swift, reactorkit, rxswift"],
-        "description": "GitHub working time - GitTime. Show your GitHub contributions and activities. Written ReactorKit, RxSwift, Moya",
-        "source": "https://github.com/87kangsw/GitTime",
-        "screenshots": ["https://raw.githubusercontent.com/87kangsw/resume/master/images/gittime.png"],
-        "license": "mit",
-        "date_added": "Feb 09 2021",
-        "suggested_by": "@87kangsw",
-        "itunes": "https://apps.apple.com/app/id1469013856"
+      "title": "GitTime",
+      "category-ids": ["github"],
+      "tags": ["swift, reactorkit, rxswift"],
+      "description": "GitHub working time - GitTime. Show your GitHub contributions and activities. Written ReactorKit, RxSwift, Moya",
+      "source": "https://github.com/87kangsw/GitTime",
+      "screenshots": ["https://raw.githubusercontent.com/87kangsw/resume/master/images/gittime.png"],
+      "license": "mit",
+      "date_added": "Feb 09 2021",
+      "suggested_by": "@87kangsw",
+      "itunes": "https://apps.apple.com/app/id1469013856"
+    },
+    {
+      "title": "Word Of The Day",
+      "category-ids": [
+        "swiftui",
+        "widget",
+        "apple-watch"
+      ],
+      "tags": [
+        "watchos",
+        "swiftui",
+        "alamofire"
+      ],
+      "description": "iOS app, widget and watch app that shows random word of the day",
+      "source": "https://github.com/kyledold/WordOfTheDay",
+      "itunes": "https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328",
+      "screenshots": [
+        "https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png",
+        "https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png",
+        "https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png"
+      ],
+      "date_added": "Feb 8 2021",
+      "license": "mit",
+      "suggested_by": "@kyledold"
     }
   ]
 }
