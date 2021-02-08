@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **283** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **285** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -209,6 +209,14 @@ Click ► to show more details
 
 	Added March 28, 2017<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://github.com/ezefranca/watchpresenter/blob/master/print.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): iOS app, widget and watch app that shows random word of the day [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
+  <details>
+	<summary><code>watchos</code> <code>swiftui</code> <code>alamofire</code> </summary>
+
+	Added February  8, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'><code>Screenshot 1</code></a> <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'><code>Screenshot 2</code></a> <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'><code>Screenshot 3</code></a> 
   </details>
 
 
@@ -430,7 +438,7 @@ Click ► to show more details
 	<a href='https://user-images.githubusercontent.com/13119842/82450764-1c9e1b00-9a7b-11ea-83d2-b835bf51c727.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/13119842/82450847-38092600-9a7b-11ea-92a8-52cf92fb137b.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/13119842/82450869-3e979d80-9a7b-11ea-81ea-0780c7a612f7.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/13119842/82450896-47886f00-9a7b-11ea-92f4-da9e5553f469.png'><code>Screenshot 4</code></a> 
   </details>
 
-- [Monal](https://github.com/anurodhp/Monal): Connect to your chat server without having to give a third party access to your password or messages [` App Store`](https://apps.apple.com/app/monal-free-xmpp-chat/id317711500)  
+- [Monal](https://github.com/monal-im/Monal): Connect to your chat server without having to give a third party access to your password or messages [` App Store`](https://apps.apple.com/app/monal-free-xmpp-chat/id317711500)  
   <details>
 	<summary><code>objc</code> <code>xmpp</code> ⭐⭐</summary>
 
@@ -662,6 +670,14 @@ Click ► to show more details
 
 	Added July  5, 2017<br>  License: `other`<br>
 	<a href='https://i.imgur.com/XwW4MI2.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/sFgTFJX.png'><code>Screenshot 2</code></a> 
+  </details>
+
+- [GitTime](https://github.com/87kangsw/GitTime): GitHub working time - GitTime. Show your GitHub contributions and activities. Written ReactorKit, RxSwift, Moya [` App Store`](https://apps.apple.com/app/id1469013856)  
+  <details>
+	<summary><code>swift, reactorkit, rxswift</code> </summary>
+
+	Added February  9, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://raw.githubusercontent.com/87kangsw/resume/master/images/gittime.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Pocket Trailer](https://github.com/ptsochantaris/trailer): Manage pull requests & issues for GitHub / GitHub Enterprise [` App Store`](https://apps.apple.com/app/id806104975)  
@@ -996,6 +1012,14 @@ Widget (iOS 14) — [back to top](#readme)
 
 	Added December  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/FranicevicNikola/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): iOS app, widget and watch app that shows random word of the day [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
+  <details>
+	<summary><code>watchos</code> <code>swiftui</code> <code>alamofire</code> </summary>
+
+	Added February  8, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'><code>Screenshot 1</code></a> <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'><code>Screenshot 2</code></a> <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'><code>Screenshot 3</code></a> 
   </details>
 
 
@@ -3141,6 +3165,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added June  5, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/aidCkq1.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): iOS app, widget and watch app that shows random word of the day [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
+  <details>
+	<summary><code>watchos</code> <code>swiftui</code> <code>alamofire</code> </summary>
+
+	Added February  8, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'><code>Screenshot 1</code></a> <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'><code>Screenshot 2</code></a> <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'><code>Screenshot 3</code></a> 
   </details>
 
 
