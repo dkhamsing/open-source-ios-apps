@@ -24335,8 +24335,8 @@
       "stars": 0
     },
     {
-      "title": "Clendar - minimal calendar",
-      "description": "Minimal Calendar & Widgets",
+      "title": "Clendar",
+      "description": "Minimal calendar & widgets",
       "category-ids": [
         "calendar",
         "widget",
@@ -24362,14 +24362,12 @@
       "title": "Monotone",
       "category-ids": [
         "content",
-        "photo",
-        "rxswift",
-        "social"
+        "rxswift"
       ],
       "tags": [
         "swift"
       ],
-      "description": "Modern Mobile Application for Exploring Unsplash.",
+      "description": "Modern way to explore Unsplash.",
       "source": "https://github.com/Neko3000/Monotone",
       "screenshots": [
         "https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-1.png",
@@ -24384,12 +24382,12 @@
     {
       "title": "GitTime",
       "category-ids": ["github"],
-      "tags": ["swift, reactorkit, rxswift"],
-      "description": "GitHub working time - GitTime. Show your GitHub contributions and activities. Written ReactorKit, RxSwift, Moya",
+      "tags": ["swift, reactorkit, rxswift", "moya"],
+      "description": "Show your GitHub contributions and activities",
       "source": "https://github.com/87kangsw/GitTime",
       "screenshots": ["https://raw.githubusercontent.com/87kangsw/resume/master/images/gittime.png"],
       "license": "mit",
-      "date_added": "Feb 09 2021",
+      "date_added": "Feb 9 2021",
       "suggested_by": "@87kangsw",
       "itunes": "https://apps.apple.com/app/id1469013856"
     },
@@ -24405,7 +24403,7 @@
         "swiftui",
         "alamofire"
       ],
-      "description": "iOS app, widget and watch app that shows random word of the day",
+      "description": "Includes a widget and watch app",
       "source": "https://github.com/kyledold/WordOfTheDay",
       "itunes": "https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328",
       "screenshots": [
