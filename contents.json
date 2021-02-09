@@ -24359,6 +24359,29 @@
       "stars": 12
     },
     {
+      "title": "Monotone",
+      "category-ids": [
+        "content",
+        "photo",
+        "rxswift",
+        "social"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Modern Mobile Application for Exploring Unsplash.",
+      "source": "https://github.com/Neko3000/Monotone",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-1.png",
+        "https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-2.png",
+        "https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-3.png",
+        "https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-4.png"
+      ],
+      "license": "mit",
+      "date_added": "Feb 8 2021",
+      "suggested_by": "@Neko3000"
+    },
+    {
       "title": "GitTime",
       "category-ids": ["github"],
       "tags": ["swift, reactorkit, rxswift"],
