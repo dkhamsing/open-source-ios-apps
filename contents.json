@@ -24414,6 +24414,23 @@
       "date_added": "Feb 8 2021",
       "license": "mit",
       "suggested_by": "@kyledold"
+    },
+    {
+      "title": "lil news",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/jordansinger/lil-news-app",
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://user-images.githubusercontent.com/110813/107532668-20834780-6b8c-11eb-9dcd-d53c4739e37f.png"
+      ],
+      "date_added": "Feb 11 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
