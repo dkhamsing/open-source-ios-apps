@@ -155,7 +155,7 @@ Click ► to show more details
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/60/13/98/60139811-685a-cc58-9e1e-544a1b87ca74/mzl.zqoaqzsb.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/1e/ac/03/1eac03ec-45ed-7efe-6ff9-f3713baa4da0/mzl.iahmmuul.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/b0/43/ce/b043ce1c-e33a-790d-fb17-7842db114fdb/mzl.zrqjzmbz.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/39/a4/54/39a45485-b91e-6f23-d020-2c513194c022/mzl.mppkwkjn.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/fa/3a/53/fa3a53ea-47a4-f93d-5bae-0c685ae2e160/mzl.ajscbauc.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Clendar - minimal calendar](https://github.com/vinhnx/Clendar): Minimal Calendar & Widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
+- [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> <code>iphone</code> <code>ipad</code> </summary>
 
@@ -211,7 +211,7 @@ Click ► to show more details
 	<a href='https://github.com/ezefranca/watchpresenter/blob/master/print.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): iOS app, widget and watch app that shows random word of the day [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
+- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
   <details>
 	<summary><code>watchos</code> <code>swiftui</code> <code>alamofire</code> </summary>
 
@@ -314,7 +314,7 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [Clendar - minimal calendar](https://github.com/vinhnx/Clendar): Minimal Calendar & Widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
+- [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> <code>iphone</code> <code>ipad</code> </summary>
 
@@ -672,9 +672,9 @@ Click ► to show more details
 	<a href='https://i.imgur.com/XwW4MI2.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/sFgTFJX.png'><code>Screenshot 2</code></a> 
   </details>
 
-- [GitTime](https://github.com/87kangsw/GitTime): GitHub working time - GitTime. Show your GitHub contributions and activities. Written ReactorKit, RxSwift, Moya [` App Store`](https://apps.apple.com/app/id1469013856)  
+- [GitTime](https://github.com/87kangsw/GitTime): Show your GitHub contributions and activities [` App Store`](https://apps.apple.com/app/id1469013856)  
   <details>
-	<summary><code>swift, reactorkit, rxswift</code> </summary>
+	<summary><code>swift, reactorkit, rxswift</code> <code>moya</code> </summary>
 
 	Added February  9, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/87kangsw/resume/master/images/gittime.png'><code>Screenshot 1</code></a> 
@@ -982,7 +982,7 @@ Today Extensions or Widgets — [back to top](#readme)
  
 Widget (iOS 14) — [back to top](#readme) 
  
-- [Clendar - minimal calendar](https://github.com/vinhnx/Clendar): Minimal Calendar & Widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
+- [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> <code>iphone</code> <code>ipad</code> </summary>
 
@@ -1014,7 +1014,7 @@ Widget (iOS 14) — [back to top](#readme)
 	<a href='https://github.com/FranicevicNikola/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): iOS app, widget and watch app that shows random word of the day [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
+- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
   <details>
 	<summary><code>watchos</code> <code>swiftui</code> <code>alamofire</code> </summary>
 
@@ -3167,7 +3167,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://i.imgur.com/aidCkq1.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): iOS app, widget and watch app that shows random word of the day [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
+- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
   <details>
 	<summary><code>watchos</code> <code>swiftui</code> <code>alamofire</code> </summary>
 
