@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1229-green.svg) ![](https://img.shields.io/badge/Updated-February%20%209,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1230-green.svg) ![](https://img.shields.io/badge/Updated-February%2011,%202021-lightgrey.svg)
 
 Jump to
 
@@ -282,7 +282,7 @@ Click ► to show more details
 	<a href='https://github.com/BalestraPatrick/AppleWatchCalculator/blob/master/Screenshot1.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [Clendar - minimal calendar](https://github.com/vinhnx/Clendar): Minimal Calendar & Widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
+- [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> <code>iphone</code> <code>ipad</code> </summary>
 
@@ -522,7 +522,7 @@ Click ► to show more details
 	<a href='https://github.com/caiobzen/water-reminder-swiftui/raw/master/drink-water-app.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): iOS app, widget and watch app that shows random word of the day [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
+- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
   <details>
 	<summary><code>watchos</code> <code>swiftui</code> <code>alamofire</code> </summary>
 
@@ -687,7 +687,7 @@ Click ► to show more details
 	<a href='https://user-images.githubusercontent.com/8013017/102885008-5729c500-445b-11eb-9f26-f835b51d8ebf.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Clendar - minimal calendar](https://github.com/vinhnx/Clendar): Minimal Calendar & Widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
+- [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> <code>iphone</code> <code>ipad</code> </summary>
 
@@ -1659,9 +1659,9 @@ Click ► to show more details
 	<a href='http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'><code>Screenshot 1</code></a> <a href='http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'><code>Screenshot 2</code></a> 
   </details>
 
-- [GitTime](https://github.com/87kangsw/GitTime): GitHub working time - GitTime. Show your GitHub contributions and activities. Written ReactorKit, RxSwift, Moya [` App Store`](https://apps.apple.com/app/id1469013856)  
+- [GitTime](https://github.com/87kangsw/GitTime): Show your GitHub contributions and activities [` App Store`](https://apps.apple.com/app/id1469013856)  
   <details>
-	<summary><code>swift, reactorkit, rxswift</code> </summary>
+	<summary><code>swift, reactorkit, rxswift</code> <code>moya</code> </summary>
 
 	Added February  9, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/87kangsw/resume/master/images/gittime.png'><code>Screenshot 1</code></a> 
@@ -2341,7 +2341,7 @@ Today Extensions or Widgets — [back to top](#readme)
  
 Widget (iOS 14) — [back to top](#readme) 
  
-- [Clendar - minimal calendar](https://github.com/vinhnx/Clendar): Minimal Calendar & Widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
+- [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> <code>iphone</code> <code>ipad</code> </summary>
 
@@ -2396,7 +2396,7 @@ Widget (iOS 14) — [back to top](#readme)
 	<a href='https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM/raw/main/news2.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): iOS app, widget and watch app that shows random word of the day [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
+- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
   <details>
 	<summary><code>watchos</code> <code>swiftui</code> <code>alamofire</code> </summary>
 
@@ -4465,7 +4465,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/f1/46/9e/f1469ec5-e5d7-daf9-2d77-501aede04cb9/mzl.dzwpexqf.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/2c/65/d3/2c65d300-59f9-f41b-f57d-150b28351905/mzl.pjagxicy.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/3a/9b/ce/3a9bced7-ab7c-efba-e392-b953099aa233/mzl.evxxezuj.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- [Monotone](https://github.com/Neko3000/Monotone): Modern Mobile Application for Exploring Unsplash.  
+- [Monotone](https://github.com/Neko3000/Monotone): Modern way to explore Unsplash.  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -4812,14 +4812,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 	Added May  7, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPhone_en.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPad_en.png'><code>Screenshot 2</code></a> 
-  </details>
-
-- [Monotone](https://github.com/Neko3000/Monotone): Modern Mobile Application for Exploring Unsplash.  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added February  8, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-3.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-4.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [Phimp.me](https://github.com/jogendra/phimpme-iOS): Photos app replacement  
@@ -6150,14 +6142,6 @@ https://newsapi.org/ — [back to top](#readme)
 	<summary><code>swift</code> <code>swiftui</code> <code>ios13</code> <code>ipad</code> <code>macos</code> </summary>
 
 	Added July  3, 2020<br>  License: `other`
-  </details>
-
-- [Monotone](https://github.com/Neko3000/Monotone): Modern Mobile Application for Exploring Unsplash.  
-  <details>
-	<summary><code>swift</code> </summary>
-
-	Added February  8, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-3.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-4.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [Peggsite](https://github.com/jenduf/GenericSocialApp): App for sharing a social board  
@@ -8109,7 +8093,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://artsy.github.io/images/2014-11-12-eidolon-retrospective/listings.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Monotone](https://github.com/Neko3000/Monotone): Modern Mobile Application for Exploring Unsplash.  
+- [Monotone](https://github.com/Neko3000/Monotone): Modern way to explore Unsplash.  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -8536,6 +8520,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://github.com/YusukeHosonuma/SwiftUI-LifeGame/raw/main/Image/screenshot-ios.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [lil news](https://github.com/jordansinger/lil-news-app)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> </summary>
+
+	Added February 11, 2021<br>  License: `other`<br>
+	<a href='https://user-images.githubusercontent.com/110813/107532668-20834780-6b8c-11eb-9dcd-d53c4739e37f.png'><code>Screenshot 1</code></a> 
+  </details>
+
 - [listapp](https://github.com/dkhamsing/listapp.ios): Lists from iOS 2 to iOS 14  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> </summary>
@@ -8907,7 +8899,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	Added July 25, 2020<br>  License: `other`
   </details>
 
-- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): iOS app, widget and watch app that shows random word of the day [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
+- [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328)  
   <details>
 	<summary><code>watchos</code> <code>swiftui</code> <code>alamofire</code> </summary>
 
