@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1230-green.svg) ![](https://img.shields.io/badge/Updated-February%2011,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1231-green.svg) ![](https://img.shields.io/badge/Updated-February%2013,%202021-lightgrey.svg)
 
 Jump to
 
@@ -4301,6 +4301,14 @@ Image, video, audio, reading — [back to top](#readme)
 
 	Added May 14, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/youstanzr/YouTag/raw/master/Images/screenshot_banner.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [ZenTuner](https://github.com/jpsim/ZenTuner): Minimal chromatic tuner.  
+  <details>
+	<summary><code>swift</code> ⭐</summary>
+
+	Added February 13, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://github.com/jpsim/ZenTuner/raw/main/images/zentuner-ios-dark.png'><code>Screenshot 1</code></a> 
   </details>
 
 
