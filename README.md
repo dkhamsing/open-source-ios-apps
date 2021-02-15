@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1231-green.svg) ![](https://img.shields.io/badge/Updated-February%2013,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1232-green.svg) ![](https://img.shields.io/badge/Updated-February%2015,%202021-lightgrey.svg)
 
 Jump to
 
@@ -7343,6 +7343,13 @@ https://flutter.dev — [back to top](#readme)
 
 	Added May 18, 2020<br>  License: `other`<br>
 	<a href='https://github.com/Ivaskuu/travel-guide_app/raw/master/screenshots/flutter_02.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [WeightTracker](https://github.com/MSzalek-Mobile/weight_tracker)  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> ⭐⭐</summary>
+
+	Added February 15, 2021<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
   </details>
 
 
