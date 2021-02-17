@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1232-green.svg) ![](https://img.shields.io/badge/Updated-February%2015,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1232-green.svg) ![](https://img.shields.io/badge/Updated-February%2017,%202021-lightgrey.svg)
 
 Jump to
 
@@ -4303,7 +4303,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://github.com/youstanzr/YouTag/raw/master/Images/screenshot_banner.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [ZenTuner](https://github.com/jpsim/ZenTuner): Minimal chromatic tuner.  
+- [ZenTuner](https://github.com/jpsim/ZenTuner): Minimal chromatic tuner. [` App Store`](https://apps.apple.com/app/zen-tuner/id1550640624)  
   <details>
 	<summary><code>swift</code> ⭐</summary>
 
