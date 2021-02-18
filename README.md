@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1232-green.svg) ![](https://img.shields.io/badge/Updated-February%2017,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1233-green.svg) ![](https://img.shields.io/badge/Updated-February%2018,%202021-lightgrey.svg)
 
 Jump to
 
@@ -603,6 +603,13 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- [BMI Calculator](https://github.com/appbrewery/BMI-Calculator-iOS13)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	Added February 18, 2021<br>  License: `other`
+  </details>
+
 - [Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator): React Native calculator  
   <details>
 	<summary><code>react native</code> ⭐⭐⭐⭐⭐</summary>
