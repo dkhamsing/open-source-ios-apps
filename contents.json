@@ -24465,6 +24465,20 @@
       "date_added": "Feb 15 2021",
       "suggested_by": "@dkhamsing",
       "stars": 297
+    },
+    {
+      "title": "BMI Calculator",
+      "category-ids": [
+        "calculator"
+      ],
+      "source": "https://github.com/appbrewery/BMI-Calculator-iOS13",
+      "tags": [
+        "swift"
+      ],
+      "stars": 28,
+      "license": "other",
+      "date_added": "Feb 18 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
