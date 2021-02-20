@@ -24479,6 +24479,21 @@
       "license": "other",
       "date_added": "Feb 18 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Clubhouse clone",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/FranckNdame/swiftui.builds",
+      "license": "other",
+      "stars": 193,
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "date_added": "Feb 20 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
