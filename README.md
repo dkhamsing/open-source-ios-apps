@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1233-green.svg) ![](https://img.shields.io/badge/Updated-February%2018,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1234-green.svg) ![](https://img.shields.io/badge/Updated-February%2020,%202021-lightgrey.svg)
 
 Jump to
 
@@ -8321,6 +8321,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added September 19, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/nalexn/blob_files/raw/master/images/countries_preview.png?raw=true'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Clubhouse clone](https://github.com/FranckNdame/swiftui.builds)  
+  <details>
+	<summary><code>swift</code> <code>swiftui</code> ⭐</summary>
+
+	Added February 20, 2021<br>  License: `other`
   </details>
 
 - [Corona Virus Tracker & Advice](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)  
