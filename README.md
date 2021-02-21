@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1234-green.svg) ![](https://img.shields.io/badge/Updated-February%2020,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1235-green.svg) ![](https://img.shields.io/badge/Updated-February%2021,%202021-lightgrey.svg)
 
 Jump to
 
@@ -7203,6 +7203,13 @@ https://flutter.dev — [back to top](#readme)
 
 	Added August 26, 2020<br>  License: `other`<br>
 	<a href='https://github.com/Norbert515/BookSearch/raw/dev/readmeAssets/fade_in_myCollection_gif.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Cinematic movies](https://github.com/aaronoe/FlutterCinematic)  
+  <details>
+	<summary><code>flutter</code> <code>dart</code> <code>tmdb</code> ⭐⭐⭐</summary>
+
+	Added February 21, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [CineReel](https://github.com/kserko/CineReel)  
