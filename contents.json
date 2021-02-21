@@ -24494,6 +24494,22 @@
       ],
       "date_added": "Feb 20 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Cinematic movies",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/aaronoe/FlutterCinematic",
+      "tags": [
+        "flutter",
+        "dart",
+        "tmdb"
+      ],
+      "license": "mit",
+      "date_added": "Feb 21 2021",
+      "suggested_by": "@dkhamsing",
+      "stars": 784
     }
   ]
 }
