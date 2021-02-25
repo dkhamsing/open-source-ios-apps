@@ -24510,6 +24510,22 @@
       "date_added": "Feb 21 2021",
       "suggested_by": "@dkhamsing",
       "stars": 784
+    },
+    {
+      "title": "Static Widget in iOS 14",
+      "category-ids": [
+        "swiftui",        
+        "widget"
+      ],
+      "source": "https://github.com/StewartLynch/iOS-14-Widget",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "ios14",
+        "widgetkit"
+      ],
+      "date_added": "Feb 25 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
