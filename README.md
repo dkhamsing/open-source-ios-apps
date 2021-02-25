@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1235-green.svg) ![](https://img.shields.io/badge/Updated-February%2021,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1236-green.svg) ![](https://img.shields.io/badge/Updated-February%2025,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2393,6 +2393,13 @@ Widget (iOS 14) — [back to top](#readme)
 
 	Added December  8, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/FranicevicNikola/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Static Widget in iOS 14](https://github.com/StewartLynch/iOS-14-Widget)  
+  <details>
+	<summary><code>swift</code> <code>ios14</code> <code>widgetkit</code> </summary>
+
+	Added February 25, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [US NewsFeed](https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM)  
@@ -8763,6 +8770,13 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	https://twitter.com/johnsundell/status/1280998529394184193<br>  Added July 18, 2020<br>  License: `other`<br>
 	<a href='https://i.imgur.com/ZIK9gA1.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Static Widget in iOS 14](https://github.com/StewartLynch/iOS-14-Widget)  
+  <details>
+	<summary><code>swift</code> <code>ios14</code> <code>widgetkit</code> </summary>
+
+	Added February 25, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 
 - [Sunshine Weather](https://github.com/MaximeHeckel/sunshine-weather-app)  
