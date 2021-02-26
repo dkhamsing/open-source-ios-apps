@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1236-green.svg) ![](https://img.shields.io/badge/Updated-February%2025,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1236-green.svg) ![](https://img.shields.io/badge/Updated-February%2026,%202021-lightgrey.svg)
 
 Jump to
 
@@ -434,7 +434,7 @@ Click ► to show more details
 	<a href='https://i.imgur.com/PbupJ7n.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [SafeTimer](https://github.com/Hortelanos/SafeTimer): Control how many hours of use are left for all kinds of tools, supplies and equipment [` App Store`](https://apps.apple.com/app/apple-store/id1512032981)  
+- [SafeTimer](https://github.com/Chubby-Apps/SafeTimer): Control how many hours of use are left for all kinds of tools, supplies and equipment [` App Store`](https://apps.apple.com/app/apple-store/id1512032981)  
   <details>
 	<summary><code>swift</code> </summary>
 
