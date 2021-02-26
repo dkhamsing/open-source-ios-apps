@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **286** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **287** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -736,6 +736,14 @@ Click ► to show more details
 
 	Added April 15, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/c1/74/31c174b5-5be4-b78d-dbb9-f55fa0c6a624/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/38/1d/e8381dde-da9f-91e9-674f-25077cd6322e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/e0/92/63e092f4-9a11-9936-d3ad-da8cc258afd8/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
+  </details>
+
+- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching. [` App Store`](https://apps.apple.com/us/app/id1531906207)  
+  <details>
+	<summary></summary>
+
+	Added February 26, 2021<br>
+	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863)  
@@ -2943,6 +2951,14 @@ Cross platform projects — [back to top](#readme)
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/c1/74/31c174b5-5be4-b78d-dbb9-f55fa0c6a624/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/38/1d/e8381dde-da9f-91e9-674f-25077cd6322e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/e0/92/63e092f4-9a11-9936-d3ad-da8cc258afd8/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
+- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching. [` App Store`](https://apps.apple.com/us/app/id1531906207)  
+  <details>
+	<summary></summary>
+
+	Added February 26, 2021<br>
+	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
+  </details>
+
 - [StackOv](https://github.com/surfstudio/StackOv): For Stack Overflow [` App Store`](https://apps.apple.com/app/stackov/id1511838391)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> <code>ipad</code> <code>macos</code> ⭐</summary>
@@ -3125,6 +3141,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added August 20, 2020<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/Mas0nSun/AccountBook/blob/master/1242x2688bb.png'><code>Screenshot 1</code></a> 
+  </details>
+
+- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching. [` App Store`](https://apps.apple.com/us/app/id1531906207)  
+  <details>
+	<summary></summary>
+
+	Added February 26, 2021<br>
+	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863)  
