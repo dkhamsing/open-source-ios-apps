@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1236-green.svg) ![](https://img.shields.io/badge/Updated-February%2026,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1237-green.svg) ![](https://img.shields.io/badge/Updated-February%2026,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1809,6 +1809,14 @@ Click ► to show more details
 
 	Added April 15, 2020<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/c1/74/31c174b5-5be4-b78d-dbb9-f55fa0c6a624/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/38/1d/e8381dde-da9f-91e9-674f-25077cd6322e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/e0/92/63e092f4-9a11-9936-d3ad-da8cc258afd8/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
+  </details>
+
+- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching. [` App Store`](https://apps.apple.com/us/app/id1531906207)  
+  <details>
+	<summary></summary>
+
+	Added February 26, 2021<br>
+	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
 - [DiscussIt](https://github.com/ethanswift/DiscussIt): Scholarly article search, discussion forum and discussion board  
@@ -7451,6 +7459,14 @@ Cross platform projects — [back to top](#readme)
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/c1/74/31c174b5-5be4-b78d-dbb9-f55fa0c6a624/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/38/1d/e8381dde-da9f-91e9-674f-25077cd6322e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/e0/92/63e092f4-9a11-9936-d3ad-da8cc258afd8/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
+- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching. [` App Store`](https://apps.apple.com/us/app/id1531906207)  
+  <details>
+	<summary></summary>
+
+	Added February 26, 2021<br>
+	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
+  </details>
+
 - [Fruta](https://developer.apple.com/documentation/app_clips/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an app clip - WWDC 2020 sample code by Apple  
   <details>
 	<summary><code>swift</code> <code>ios14</code> <code>widgetkit</code> <code>macos</code> <code>app-clip</code> </summary>
@@ -8382,6 +8398,14 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 	Added September  1, 2020<br>  License: `other`<br>
 	<a href='https://github.com/mythxn/DesignCode-SwiftUI/raw/master/preview.gif'><code>Screenshot 1</code></a> 
+  </details>
+
+- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching. [` App Store`](https://apps.apple.com/us/app/id1531906207)  
+  <details>
+	<summary></summary>
+
+	Added February 26, 2021<br>
+	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
 - [Directory](https://github.com/hbmartin/Directory-SwiftUI)  
