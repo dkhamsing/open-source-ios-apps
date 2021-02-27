@@ -24532,8 +24532,9 @@
       "category-ids": ["education", "swiftui", "macos"],
       "description": "Find LaTeX symbols by drawing or searching.",
       "source": "https://github.com/venkatasg/DeTeXt",
-      "itunes": "https://apps.apple.com/us/app/id1531906207",
+      "itunes": "https://apps.apple.com/app/id1531906207",
       "screenshots": ["https://venkatasg.me/files/apps/detext/iphone12mini.jpeg"],
+      "license": "mit",
       "date_added": "Feb 26 2021",
       "suggested_by": "@venkatasg"
     }
