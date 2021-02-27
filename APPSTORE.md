@@ -738,11 +738,11 @@ Click ► to show more details
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/c1/74/31c174b5-5be4-b78d-dbb9-f55fa0c6a624/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/38/1d/e8381dde-da9f-91e9-674f-25077cd6322e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/e0/92/63e092f4-9a11-9936-d3ad-da8cc258afd8/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
-- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching. [` App Store`](https://apps.apple.com/us/app/id1531906207)  
+- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching. [` App Store`](https://apps.apple.com/app/id1531906207)  
   <details>
 	<summary></summary>
 
-	Added February 26, 2021<br>
+	Added February 26, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
@@ -2951,11 +2951,11 @@ Cross platform projects — [back to top](#readme)
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/c1/74/31c174b5-5be4-b78d-dbb9-f55fa0c6a624/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/38/1d/e8381dde-da9f-91e9-674f-25077cd6322e/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/e0/92/63e092f4-9a11-9936-d3ad-da8cc258afd8/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
-- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching. [` App Store`](https://apps.apple.com/us/app/id1531906207)  
+- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching. [` App Store`](https://apps.apple.com/app/id1531906207)  
   <details>
 	<summary></summary>
 
-	Added February 26, 2021<br>
+	Added February 26, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
@@ -3143,11 +3143,11 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://github.com/Mas0nSun/AccountBook/blob/master/1242x2688bb.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching. [` App Store`](https://apps.apple.com/us/app/id1531906207)  
+- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching. [` App Store`](https://apps.apple.com/app/id1531906207)  
   <details>
 	<summary></summary>
 
-	Added February 26, 2021<br>
+	Added February 26, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
