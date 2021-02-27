@@ -1816,7 +1816,7 @@ Click ► to show more details
 	<summary></summary>
 
 	Added February 26, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/pyO2KGA.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [DiscussIt](https://github.com/ethanswift/DiscussIt): Scholarly article search, discussion forum and discussion board  
@@ -7464,7 +7464,7 @@ Cross platform projects — [back to top](#readme)
 	<summary></summary>
 
 	Added February 26, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/pyO2KGA.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Fruta](https://developer.apple.com/documentation/app_clips/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an app clip - WWDC 2020 sample code by Apple  
@@ -8405,7 +8405,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary></summary>
 
 	Added February 26, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/pyO2KGA.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Directory](https://github.com/hbmartin/Directory-SwiftUI)  
