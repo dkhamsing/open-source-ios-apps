@@ -743,7 +743,7 @@ Click ► to show more details
 	<summary></summary>
 
 	Added February 26, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/pyO2KGA.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863)  
@@ -2956,7 +2956,7 @@ Cross platform projects — [back to top](#readme)
 	<summary></summary>
 
 	Added February 26, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/pyO2KGA.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [StackOv](https://github.com/surfstudio/StackOv): For Stack Overflow [` App Store`](https://apps.apple.com/app/stackov/id1511838391)  
@@ -3148,7 +3148,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<summary></summary>
 
 	Added February 26, 2021<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://venkatasg.me/files/apps/detext/iphone12mini.jpeg'><code>Screenshot 1</code></a> 
+	<a href='https://i.imgur.com/pyO2KGA.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863)  
