@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **287** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **278** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -619,14 +619,6 @@ Click ► to show more details
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/eb/03/2e/eb032e7d-9b04-0cea-89af-41478761d5b0/pr_source.png/316x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/de/e0/70/dee07035-182f-b5e1-9e48-38c5660dd760/pr_source.png/316x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/fe/8d/03/fe8d03fd-bdc7-dca5-ddd1-57de854e716e/pr_source.png/316x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- [Zeplin](https://github.com/anonrig/zeplin-ios): Preview your designs on Zeplin [` App Store`](https://apps.apple.com/app/zeplin-client/id1501596135)  
-  <details>
-	<summary><code>swift</code>  <code>2020</code> </summary>
-
-	Added: `April 2020`<br>  License: `other`<br>
-	<a href='https://raw.githubusercontent.com/anonrig/zeplin-ios/master/docs/ZeplinClient_GitHub.png'><code>Screenshot 1</code></a> 
-  </details>
-
 
 ### GitHub 
  
@@ -1035,13 +1027,6 @@ Widget (iOS 14) — [back to top](#readme)
  
 File Management — [back to top](#readme) 
  
-- [Amahi](https://github.com/amahi/ios): View all the docs, photos, videos and any other data you have stored in your Amahi server, securely, from anywhere [` App Store`](https://apps.apple.com/app/amahi/id761559919)  
-  <details>
-	<summary><code>swift</code> <code>ipad</code>  <code>2020</code> </summary>
-
-	Added: `August 2020`<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
-  </details>
-
 - [Cozy Drive](https://github.com/cozy/cozy-drive): Store, manage, share all your files, photos and documents securely in the cloud (5GB free storage) [` App Store`](https://apps.apple.com/app/cozy-drive/id1224102389)  
   <details>
 	<summary><code>javascript</code> <code>cordova</code>  <code>2021</code> </summary>
@@ -1079,28 +1064,12 @@ File Management — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [BoardBank](https://github.com/richardxyx/BoardBank): Money manager for board games [` App Store`](https://apps.apple.com/app/boardbank-money-manager-for/id1191367526)  
-  <details>
-	<summary><code>swift</code> ⭐ <code>2020</code> </summary>
-
-	https://www.richardneitzke.com<br>  Added: `March 2017`<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/fXB42iY.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/EMGOw0g.png'><code>Screenshot 2</code></a> 
-  </details>
-
 - [EMI Calculator](https://github.com/tirupati17/loan-emi-calculator-clean-swift): Calculate your Equated Monthly installment (EMI) for home, car & personal loans [` App Store`](https://apps.apple.com/app/id1105890730)  
   <details>
 	<summary><code>swift</code> <code>viper</code>  <code>2016</code> </summary>
 
 	Added: `July 2016`<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/43/e8/45/43e84585-f1e0-7af6-7cb6-28ae3cfc5563/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Encryptr](https://github.com/SpiderOak/Encryptr): A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://apps.apple.com/app/id1066041348)  
-  <details>
-	<summary><code>cordova</code> <code>grunt</code> <code>node</code> ⭐⭐⭐⭐ <code>2017</code> </summary>
-
-	Added: `June 2016`<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/9c/1c/74/9c1c7418-0b94-8c1b-8da8-fa869914e591/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/73/2a/60/732a6002-e689-f012-96be-a1501c226821/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/dd/85/df/dd85df8d-d795-b847-6cad-2bde2b1df6d9/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/c7/b2/59/c7b2590b-cc11-0aea-c5dc-4263313fb97f/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/41/a3/dc/41a3dc56-02fe-83f8-6fe0-8813691868c3/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [SIP Calculator](https://github.com/tirupati17/sip-calculator-swift): Calculate the future value of SIP (Systematic Investment Plan) payments [` App Store`](https://apps.apple.com/app/id1092822415)  
@@ -1138,14 +1107,6 @@ File Management — [back to top](#readme)
 
 	https://alphawallet.com/<br>  Added: `November 2019`<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/28/bc/b1/28bcb153-cf24-d26d-86cf-4d8c45e0584d/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/97/61/21/97612163-8c96-d1cc-00a1-c913d506a0a9/mzl.ikcervdr.png/230x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/61/b3/1e/61b31e3d-e891-6662-5f70-13222f15d4ac/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
-  </details>
-
-- [BitPrice](https://github.com/Bruno-Furtado/bitprice-ios): Display and monitor the current Bitcoint rate [` App Store`](https://apps.apple.com/app/bitprice-bitcoin-rate/id1343270451)  
-  <details>
-	<summary><code>swift</code>  <code>2018</code> </summary>
-
-	Added: `February 2018`<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/07/30/e3/0730e3d1-dd14-e27f-b982-734f3f8dda6d/source/230x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/da/2a/10/da2a1060-8e6c-4a9d-41ef-3839a493cf92/source/230x0w.jpg'><code>Screenshot 2</code></a> 
   </details>
 
 - [Bread](https://github.com/breadwallet/breadwallet-ios): Bitcoin wallet [` App Store`](https://apps.apple.com/app/breadwallet/id885251393)  
@@ -1215,14 +1176,6 @@ File Management — [back to top](#readme)
 
 	Added: `May 2015`<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/44/e6/90/mzl.phnmwflb.png/626x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple/10/9a/3d/mzl.npolzzhp.png/626x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/d5/81/f5/mzl.upixgdwf.png/626x0w.png'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple/95/05/2f/mzl.bntcgfqi.png/626x0w.png'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/c3/f9/35/mzl.ucjimflu.png/626x0w.png'><code>Screenshot 5</code></a> 
-  </details>
-
-- [DropColour](https://github.com/elpassion/DropColour-iOS): Drag & drop one circle onto another of the same color [` App Store`](https://apps.apple.com/app/dropcolour/id1046339763)  
-  <details>
-	<summary><code>swift</code> <code>swift3.1</code> ⭐ <code>2017</code> </summary>
-
-	Added: `July 2016`<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/07/e4/58/07e4582c-8d94-330e-011a-81f2919c9a0a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/1e/2f/39/1e2f3975-b854-bd43-b00f-b32a9384d2ae/mzl.cctldxos.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple18/v4/af/e6/a5/afe6a5cd-df5c-5ff2-a181-3e497e7b24ee/mzl.mczqcdkn.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple18/v4/a0/57/79/a0577976-a6d6-42b5-1153-4ccdba93a5e4/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/24/9e/c3/249ec345-2044-b21c-bd09-f7469986aea8/mzl.qlsmijad.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [Frotz](https://github.com/ifrotz/iosfrotz): Play hundreds of free works of Interactive Fiction (text adventure games) [` App Store`](https://apps.apple.com/app/id287653015)  
@@ -1646,14 +1599,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://i.imgur.com/48WzAt2.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [EatNow](https://github.com/callzhang/Eat-Now): Get recommendations for restaurants nearby [` App Store`](https://apps.apple.com/app/eat-now-instant-personalized/id946591471)  
-  <details>
-	<summary><code>objc</code>  <code>2015</code> </summary>
-
-	Added: `October 2015`<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple7/v4/72/02/3e/72023e7a-2b36-6a02-e984-5a9fc51b6236/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple7/v4/01/4f/c2/014fc213-6e0c-175c-6291-3ae14413fad4/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple5/v4/30/ae/12/30ae128e-dc11-9969-4775-7b1af163e200/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple1/v4/d4/77/51/d477519b-5be6-2934-fd66-6d7d5417f918/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
-  </details>
-
 - [Emission](https://github.com/e-mission/e-mission-phone): Track your travel modes and your travel carbon footprint, and compare them against other users [` App Store`](https://apps.apple.com/app/emission/id1084198445)  
   <details>
 	<summary><code>javascript</code> <code>phonegap</code> <code>cordova</code> <code>ionic</code>  <code>2021</code> </summary>
@@ -1668,14 +1613,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 	Added: `March 2019`<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/08/18/250818d7-a6b1-0af4-0efb-cb977f7c5c93/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/ce/5f/bcce5fcd-b809-72d6-63f8-aff380326149/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/60/da/8c/60da8cfc-c0c4-56d2-aedb-e97cfe1be461/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/13/f0/80/13f08044-d8bc-03cd-341e-aed485137a8f/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
-  </details>
-
-- [iPokeGo](https://github.com/istornz/iPokeGo): Map Pokemon around you! [` App Store`](https://apps.apple.com/app/ipokego-for-pokemon-go/id1138277066)  
-  <details>
-	<summary><code>objc</code> <code>ipad</code> ⭐⭐⭐ <code>2017</code> </summary>
-
-	Added: `January 2018`<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/CQ98cNq.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [KartaView](https://github.com/kartaview/ios): Collect OpenStreetView data [` App Store`](https://apps.apple.com/app/openstreetview/id1089548849)  
@@ -1907,14 +1844,6 @@ Image, video, audio, reading — [back to top](#readme)
 
 	https://podverse.fm<br>  Added: `April 2020`<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>
 	<a href='https://i.imgur.com/nRFpfup.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/x7uP0x7.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/wKagdik.png'><code>Screenshot 3</code></a> <a href='https://i.imgur.com/KC3zv1d.png'><code>Screenshot 4</code></a> 
-  </details>
-
-- [Prodigal Music Player](https://github.com/SpongeBobSun/Prodigal-iOS) [` App Store`](https://apps.apple.com/app/kuansun/id1231296263)  
-  <details>
-	<summary><code>swift</code> <code>snapkit</code> <code>haneke</code> <code>koloda</code>  <code>2020</code> </summary>
-
-	Added: `May 2017`<br>  License: `other`<br>
-	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/b5/d4/72/b5d472cf-ca00-aba0-da09-776dc597595a/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/6d/85/02/6d850217-73a8-3379-5110-54ca812d6ae0/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/85/79/6d/85796d78-6c7f-6dc6-327f-f3dfcc4c72a3/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/05/e3/da/05e3da31-0d41-dc1d-8111-6bceed1b8095/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
 - [ZenTuner](https://github.com/jpsim/ZenTuner): Minimal chromatic tuner. [` App Store`](https://apps.apple.com/app/zen-tuner/id1550640624)  
@@ -2464,14 +2393,6 @@ https://newsapi.org/ — [back to top](#readme)
 
 	https://bitwarden.com<br>  Added: `June 2018`<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://i.imgur.com/3BO1Wcg.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Encryptr](https://github.com/SpiderOak/Encryptr): A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://apps.apple.com/app/id1066041348)  
-  <details>
-	<summary><code>cordova</code> <code>grunt</code> <code>node</code> ⭐⭐⭐⭐ <code>2017</code> </summary>
-
-	Added: `June 2016`<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/9c/1c/74/9c1c7418-0b94-8c1b-8da8-fa869914e591/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/73/2a/60/732a6002-e689-f012-96be-a1501c226821/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/dd/85/df/dd85df8d-d795-b847-6cad-2bde2b1df6d9/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/c7/b2/59/c7b2590b-cc11-0aea-c5dc-4263313fb97f/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/41/a3/dc/41a3dc56-02fe-83f8-6fe0-8813691868c3/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
 - [FreeOTP Authenticator](https://github.com/freeotp/freeotp-ios): Two-Factor Authentication [` App Store`](https://apps.apple.com/app/freeotp/id872559395)  
@@ -3210,7 +3131,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 ### VIPER 
  
-https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture-framework — [back to top](#readme) 
+https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme) 
  
 - [Currency Converter](https://github.com/tirupati17/currency-converter-swift3.0-viper): Live foreign exchange rates & currency calculator [` App Store`](https://apps.apple.com/app/currency-converter-free-quick/id1163490933)  
   <details>
