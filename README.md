@@ -1566,7 +1566,7 @@ Click ► to show more details
 	<a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen3.png'><code>Screenshot 3</code></a> 
   </details>
 
-- [Zeplin](https://github.com/anonrig/zeplin-ios): Preview your designs on Zeplin [` App Store`](https://apps.apple.com/app/zeplin-client/id1501596135)  
+- [Zeplin](https://github.com/anonrig/zeplin-ios): Preview your designs on Zeplin  
   <details>
 	<summary><code>swift</code>  <code>2020</code> </summary>
 
@@ -2431,7 +2431,7 @@ Widget (iOS 14) — [back to top](#readme)
  
 File Management — [back to top](#readme) 
  
-- [Amahi](https://github.com/amahi/ios): View all the docs, photos, videos and any other data you have stored in your Amahi server, securely, from anywhere [` App Store`](https://apps.apple.com/app/amahi/id761559919)  
+- [Amahi](https://github.com/amahi/ios): View all the docs, photos, videos and any other data you have stored in your Amahi server, securely, from anywhere  
   <details>
 	<summary><code>swift</code> <code>ipad</code>  <code>2020</code> </summary>
 
@@ -2499,7 +2499,7 @@ File Management — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/argent-os/argent-ios/master/demo.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [BoardBank](https://github.com/richardxyx/BoardBank): Money manager for board games [` App Store`](https://apps.apple.com/app/boardbank-money-manager-for/id1191367526)  
+- [BoardBank](https://github.com/richardxyx/BoardBank): Money manager for board games  
   <details>
 	<summary><code>swift</code> ⭐ <code>2020</code> </summary>
 
@@ -2538,7 +2538,7 @@ File Management — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/43/e8/45/43e84585-f1e0-7af6-7cb6-28ae3cfc5563/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Encryptr](https://github.com/SpiderOak/Encryptr): A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://apps.apple.com/app/id1066041348)  
+- [Encryptr](https://github.com/SpiderOak/Encryptr): A zero-knowledge, cloud-based e-wallet & password manager  
   <details>
 	<summary><code>cordova</code> <code>grunt</code> <code>node</code> ⭐⭐⭐⭐ <code>2017</code> </summary>
 
@@ -2646,7 +2646,7 @@ File Management — [back to top](#readme)
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/41/7e/fe/417efe4a-cb72-2911-af76-5c3c95af8d13/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/39/68/85/39688509-61d9-a94a-d8fb-7f5642bf1e94/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/0f/12/3c0f12c3-2bfe-c262-e01f-b2b8698cc624/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/86/71/7b/86717be0-9497-cefa-6e40-c8a9bf48002c/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [BitPrice](https://github.com/Bruno-Furtado/bitprice-ios): Display and monitor the current Bitcoint rate [` App Store`](https://apps.apple.com/app/bitprice-bitcoin-rate/id1343270451)  
+- [BitPrice](https://github.com/Bruno-Furtado/bitprice-ios): Display and monitor the current Bitcoint rate  
   <details>
 	<summary><code>swift</code>  <code>2018</code> </summary>
 
@@ -2848,7 +2848,7 @@ File Management — [back to top](#readme)
 	Added: `June 2016`<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
   </details>
 
-- [DropColour](https://github.com/elpassion/DropColour-iOS): Drag & drop one circle onto another of the same color [` App Store`](https://apps.apple.com/app/dropcolour/id1046339763)  
+- [DropColour](https://github.com/elpassion/DropColour-iOS): Drag & drop one circle onto another of the same color  
   <details>
 	<summary><code>swift</code> <code>swift3.1</code> ⭐ <code>2017</code> </summary>
 
@@ -3794,7 +3794,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper1a-1.jpg'><code>Screenshot 1</code></a> <a href='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper2a.jpg'><code>Screenshot 2</code></a> <a href='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper3a.jpg'><code>Screenshot 3</code></a> <a href='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper4a.jpg'><code>Screenshot 4</code></a> <a href='http://samwoolf.net/wp-content/uploads/2017/03/crimemapper5a.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [EatNow](https://github.com/callzhang/Eat-Now): Get recommendations for restaurants nearby [` App Store`](https://apps.apple.com/app/eat-now-instant-personalized/id946591471)  
+- [EatNow](https://github.com/callzhang/Eat-Now): Get recommendations for restaurants nearby  
   <details>
 	<summary><code>objc</code>  <code>2015</code> </summary>
 
@@ -3857,7 +3857,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RouteView.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RealTimeView.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RouteTimesView.png'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/MapView.png'><code>Screenshot 4</code></a> 
   </details>
 
-- [iPokeGo](https://github.com/istornz/iPokeGo): Map Pokemon around you! [` App Store`](https://apps.apple.com/app/ipokego-for-pokemon-go/id1138277066)  
+- [iPokeGo](https://github.com/istornz/iPokeGo): Map Pokemon around you!  
   <details>
 	<summary><code>objc</code> <code>ipad</code> ⭐⭐⭐ <code>2017</code> </summary>
 
@@ -4270,7 +4270,7 @@ Image, video, audio, reading — [back to top](#readme)
 	<a href='https://i.imgur.com/nRFpfup.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/x7uP0x7.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/wKagdik.png'><code>Screenshot 3</code></a> <a href='https://i.imgur.com/KC3zv1d.png'><code>Screenshot 4</code></a> 
   </details>
 
-- [Prodigal Music Player](https://github.com/SpongeBobSun/Prodigal-iOS) [` App Store`](https://apps.apple.com/app/kuansun/id1231296263)  
+- [Prodigal Music Player](https://github.com/SpongeBobSun/Prodigal-iOS)  
   <details>
 	<summary><code>swift</code> <code>snapkit</code> <code>haneke</code> <code>koloda</code>  <code>2020</code> </summary>
 
@@ -6023,7 +6023,7 @@ https://newsapi.org/ — [back to top](#readme)
 	<a href='https://user-images.githubusercontent.com/11808903/80574717-a457b300-8a02-11ea-915e-db7cd98740f2.png'><code>Screenshot 1</code></a> 
   </details>
 
-- [Encryptr](https://github.com/SpiderOak/Encryptr): A zero-knowledge, cloud-based e-wallet & password manager [` App Store`](https://apps.apple.com/app/id1066041348)  
+- [Encryptr](https://github.com/SpiderOak/Encryptr): A zero-knowledge, cloud-based e-wallet & password manager  
   <details>
 	<summary><code>cordova</code> <code>grunt</code> <code>node</code> ⭐⭐⭐⭐ <code>2017</code> </summary>
 
@@ -8984,7 +8984,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 
 ### VIPER 
  
-https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture-framework — [back to top](#readme) 
+https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme) 
  
 - [Articles](https://github.com/pedrohperalta/Articles-iOS-VIPER): Fetch and display a list of articles  
   <details>
@@ -9158,7 +9158,7 @@ https://www.xamarin.com/ — [back to top](#readme)
 	License: `other`
   </details>
 
-- [open-source-ios-apps latest](https://github.com/dkhamsing/open-source-ios-apps/blob/master/LATEST.md): Latest projects added to the list  
+- [open-source-ios-apps latest](https://github.com/dkhamsing/open-source-ios-apps/blob/master/LATEST.md): List of latest projects added and most recently updated projects  
   <details>
 	<summary><code>list</code> </summary>
 
