@@ -131,7 +131,7 @@ def output_apps(apps, appstoreonly)
     unless date_updated.nil?
       date = DateTime.parse(date_updated)
       formatted_date = date.strftime "%Y"
-      details << "<code>#{formatted_date}</code> "
+      details << " <code>#{formatted_date}</code> "
     end
     
     o << details
