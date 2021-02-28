@@ -155,6 +155,11 @@
 						"description": "Date when project was added.",
 						"type": "string"
 					},
+					"updated": {
+						"title": "Date Updated",
+						"description": "Date when project was updated.",
+						"type": "string"
+					},
 					"screenshots": {
 						"title": "Screenshots",
 						"description": "Links to screenshot images.",
