@@ -69,6 +69,14 @@ def apps_latest(apps, num)
   a[0..num - 1]
 end
 
+def apps_updated(apps, num)
+  a = apps.select { |a| a['updated'] != nil }
+  .sort_by { |k, v| DateTime.parse(k['updated']) }
+  .reverse
+
+  a[0..num - 1]
+end
+
 def output_apps(apps, appstoreonly)
   o = ''
   apps.each do |a|
@@ -82,6 +90,7 @@ def output_apps(apps, appstoreonly)
     lang = a['lang']
 
     date_added = a['date_added']
+    date_updated = a['updated']
     screenshots = a['screenshots']
     license = a['license']
 
@@ -118,6 +127,13 @@ def output_apps(apps, appstoreonly)
     unless stars.nil?
       details << output_stars(stars)
     end
+
+    unless date_updated.nil?
+      date = DateTime.parse(date_updated)
+      formatted_date = date.strftime "%Y"
+      details << "<code>#{formatted_date}</code> "
+    end
+    
     o << details
 
     o << "</summary>"
@@ -129,8 +145,8 @@ def output_apps(apps, appstoreonly)
 
     unless date_added.nil?
       date = DateTime.parse(date_added)
-      formatted_date = date.strftime "%B %e, %Y"
-      details_list.push "Added #{formatted_date}"
+      formatted_date = date.strftime "%B %Y"
+      details_list.push "Added: `#{formatted_date}`"
     end
 
     unless license.nil?
@@ -213,18 +229,32 @@ def write_archive(j, subtitle)
   puts "wrote #{file} ✨"
 end
 
-def write_latest(j, num, subtitle)
+def write_latest(j, num, sub1, sub2)
   t = j['title']
   apps = j["projects"]
   footer = j['footer']
   latest = apps_latest(apps, num)
 
   output = "\# #{t} Latest\n\n"
-  output << subtitle
+  output << sub1
   output << "\n"
 
   count = 1
   latest.each do |a|
+    t = a['title']
+    s = a['source']
+    output << "#{count}. [#{t}](#{s})\n"
+    count = count + 1
+  end
+
+  updated = apps_updated(apps, num)
+
+  output << "\n"
+  output << sub2
+  output << "\n"
+
+  count = 1
+  updated.each do |a|
     t = a['title']
     s = a['source']
     output << "#{count}. [#{t}](#{s})\n"
@@ -316,5 +346,6 @@ write_list(j, APPSTORE, subtitle_app_store, true)
 subtitle_archive = "This is an archive of the [main list](https://github.com/dkhamsing/open-source-ios-apps) for projects that are no longer maintained / old.\n\n"
 write_archive(j, subtitle_archive)
 
-subtitle_latest = "These are the #{LATEST_NUM} latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).\n\n"
-write_latest(j, LATEST_NUM, subtitle_latest)
+subtitle_latest = "## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)\n"
+subtitle_updated = "## Most recently updated\n"
+write_latest(j, LATEST_NUM, subtitle_latest, subtitle_updated)
