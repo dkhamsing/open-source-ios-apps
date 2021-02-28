@@ -20,8 +20,8 @@ apps.each_with_index do |a, index|
     begin
         g = s.gsub('https://github.com/', '')
         r = client.repo g
-        stars = r['stargazers_count']
-        a['stars'] = stars
+        a['stars'] = r['stargazers_count']
+        a['updated'] = r['pushed_at']
         updated.push a
       rescue => e
         puts "\nerror for #{s}: #{e}"
