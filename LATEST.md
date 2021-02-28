@@ -1,7 +1,6 @@
 # Open-Source iOS Apps Latest
 
-These are the 30 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
-
+## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
 1. [DeTeXt](https://github.com/venkatasg/DeTeXt)
 2. [Static Widget in iOS 14](https://github.com/StewartLynch/iOS-14-Widget)
@@ -33,6 +32,39 @@ These are the 30 latest entries from the [main list](https://github.com/dkhamsin
 28. [Spain - RadarCOVID](https://github.com/RadarCOVID/radar-covid-ios)
 29. [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app)
 30. [flutterflip](https://github.com/RedBrogdon/flutterflip)
+
+## Most recently updated
+
+1. [Free42](https://github.com/thomasokken/free42)
+2. [fastmdb](https://github.com/dkhamsing/fastmdb)
+3. [Keybase](https://github.com/keybase/client)
+4. [Simplenote](https://github.com/automattic/simplenote-ios)
+5. [PPSSPP](https://github.com/hrydgard/ppsspp)
+6. [littlego](https://github.com/herzbube/littlego)
+7. [Slide for Reddit](https://github.com/ccrama/Slide-iOS)
+8. [Expo Client](https://github.com/expo/expo)
+9. [Monal](https://github.com/monal-im/Monal)
+10. [Joplin](https://github.com/laurent22/joplin)
+11. [Pocket Code](https://github.com/catrobat/catty)
+12. [Kodi Remote](https://github.com/xbmc/xbmc)
+13. [Kodi](https://github.com/xbmc/xbmc)
+14. [Germany - Corona Warn App](https://github.com/corona-warn-app/cwa-app-ios)
+15. [Emission](https://github.com/e-mission/e-mission-phone)
+16. [OsmAnd Maps](https://github.com/osmandapp/Osmand)
+17. [WordPress](https://github.com/wordpress-mobile/WordPress-iOS)
+18. [Standard Notes](https://github.com/standardnotes/mobile)
+19. [FreeRDP](https://github.com/FreeRDP/FreeRDP)
+20. [Switzerland - SwissCovid](https://github.com/DP-3T/dp3t-app-ios-ch)
+21. [Nextcloud](https://github.com/nextcloud/ios)
+22. [Jitsi Meet](https://github.com/jitsi/jitsi-meet)
+23. [Signal](https://github.com/signalapp/Signal-iOS)
+24. [ownCloud](https://github.com/owncloud/ios-app)
+25. [Stepik](https://github.com/StepicOrg/stepik-ios)
+26. [GitTime](https://github.com/87kangsw/GitTime)
+27. [iSH](https://github.com/ish-app/ish)
+28. [Artsy](https://github.com/artsy/eigen)
+29. [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app)
+30. [Outline](https://github.com/Jigsaw-Code/outline-client)
 
 ## Thanks
 
