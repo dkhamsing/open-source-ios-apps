@@ -3600,7 +3600,6 @@
       ],
       "description": "Get recommendations for restaurants nearby",
       "source": "https://github.com/callzhang/Eat-Now",
-      "itunes": "https://apps.apple.com/app/eat-now-instant-personalized/id946591471",
       "stars": 41,
       "license": "mit",
       "date_added": "Mon Oct 19 07:07:53 2015 -0700",
@@ -10438,7 +10437,6 @@
       "description": "A zero-knowledge, cloud-based e-wallet & password manager",
       "license": "gpl-3.0",
       "source": "https://github.com/SpiderOak/Encryptr",
-      "itunes": "https://apps.apple.com/app/id1066041348",
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/9c/1c/74/9c1c7418-0b94-8c1b-8da8-fa869914e591/pr_source.png/460x0w.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/73/2a/60/732a6002-e689-f012-96be-a1501c226821/pr_source.png/460x0w.jpg",
@@ -11430,7 +11428,6 @@
       ],
       "description": "Drag & drop one circle onto another of the same color",
       "source": "https://github.com/elpassion/DropColour-iOS",
-      "itunes": "https://apps.apple.com/app/dropcolour/id1046339763",
       "stars": 153,
       "license": "mit",
       "tags": [
@@ -14199,7 +14196,6 @@
       "description": "Money manager for board games",
       "source": "https://github.com/richardxyx/BoardBank",
       "homepage": "https://www.richardneitzke.com",
-      "itunes": "https://apps.apple.com/app/boardbank-money-manager-for/id1191367526",
       "license": "mit",
       "stars": 154,
       "tags": [
@@ -14737,7 +14733,6 @@
     {
       "title": "Prodigal Music Player",
       "source": "https://github.com/SpongeBobSun/Prodigal-iOS",
-      "itunes": "https://apps.apple.com/app/kuansun/id1231296263",
       "category-ids": [
         "audio"
       ],
@@ -16609,7 +16604,6 @@
       "title": "iPokeGo",
       "description": "Map Pokemon around you!",
       "source": "https://github.com/istornz/iPokeGo",
-      "itunes": "https://apps.apple.com/app/ipokego-for-pokemon-go/id1138277066",
       "category-ids": [
         "location"
       ],
@@ -16714,7 +16708,6 @@
       ],
       "description": "Display and monitor the current Bitcoint rate",
       "source": "https://github.com/Bruno-Furtado/bitprice-ios",
-      "itunes": "https://apps.apple.com/app/bitprice-bitcoin-rate/id1343270451",
       "license": "mit",
       "stars": 33,
       "tags": [
@@ -20375,7 +20368,6 @@
       "tags": [
         "swift"
       ],
-      "itunes": "https://apps.apple.com/app/zeplin-client/id1501596135",
       "screenshots": [
         "https://raw.githubusercontent.com/anonrig/zeplin-ios/master/docs/ZeplinClient_GitHub.png"
       ],
@@ -23695,7 +23687,6 @@
         "ipad"
       ],
       "source": "https://github.com/amahi/ios",
-      "itunes": "https://apps.apple.com/app/amahi/id761559919",
       "license": "gpl-3.0",
       "date_added": "Aug 4 2020",
       "suggested_by": "@dkhamsing",
