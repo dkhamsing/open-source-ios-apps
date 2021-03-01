@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1237-green.svg) ![](https://img.shields.io/badge/Updated-February%2028,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1237-green.svg) ![](https://img.shields.io/badge/Updated-March%20%201,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2739,14 +2739,6 @@ File Management — [back to top](#readme)
 	<a href='https://github.com/unixzii/SwiftUI-2048/blob/master/Screenshot.png?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
-- [Aeropack](https://github.com/insurgentgames/Aeropack): Steampunk retro 2D platformer  
-  <details>
-	<summary><code>objc</code>  <code>2012</code> </summary>
-
-	Added: `May 2016`<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://www.guitarinfocenter.com/gameimages/aeropack1.jpg'><code>Screenshot 1</code></a> 
-  </details>
-
 - [ARbusters](https://github.com/pedrommcarrasco/ARbusters): Augmented reality game in a pixel/billboard style  
   <details>
 	<summary><code>swift</code>  <code>2020</code> </summary>
@@ -3140,14 +3132,6 @@ File Management — [back to top](#readme)
 	<a href='http://a2.mzstatic.com/us/r30/Purple5/v4/22/a4/44/22a444e1-7626-03ee-05e7-6bdf58ea577d/screen480x480.jpeg'><code>Screenshot 1</code></a> 
   </details>
 
-- [teh internets](https://github.com/insurgentgames/teh-internets): Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers & more in this side-scrolling arcade shooter  
-  <details>
-	<summary><code>objc</code>  <code>2012</code> </summary>
-
-	Added: `June 2016`<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='http://cdn.iphoneincanada.ca/wp-content/uploads/2009/11/IMG_0520.PNG'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Tic TAI Toe](https://github.com/GroupeMINASTE/MorpionTPE-iOS): A tic tac toe with AI and PRO [` App Store`](https://apps.apple.com/app/tic-tai-toe/id1459186328)  
   <details>
 	<summary><code>swift</code>  <code>2020</code> </summary>
@@ -3177,14 +3161,6 @@ File Management — [back to top](#readme)
  
 http://cocos2d.org/ — [back to top](#readme) 
  
-- [Balloon Burst](https://github.com/jamiely/ios-balloon-burst)  
-  <details>
-	<summary><code>objc</code>  <code>2012</code> </summary>
-
-	Added: `May 2016`<br>  License: `other`<br>
-	<a href='https://i.imgur.com/z9rNl4a.png'><code>Screenshot 1</code></a> 
-  </details>
-
 - [Heredox](https://github.com/RolandasRazma/Heredox): Place tiles to form your allegiance's symbols  
   <details>
 	<summary><code>objc</code>  <code>2014</code> </summary>
@@ -7044,14 +7020,6 @@ https://joinmastodon.org — [back to top](#readme)
  
 [back to top](#readme) 
  
-- [DVD Collection Tracker](https://github.com/chrismiles/OrganisingCoreData)  
-  <details>
-	<summary><code>objc</code>  <code>2011</code> </summary>
-
-	Added: `August 2015`<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/MuViFyc.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/pn2qSEg.png'><code>Screenshot 2</code></a> <a href='https://i.imgur.com/yTD7r0K.png'><code>Screenshot 3</code></a> <a href='https://i.imgur.com/MxFiCpn.png'><code>Screenshot 4</code></a> 
-  </details>
-
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)  
   <details>
 	<summary><code>swift</code> <code>swiftui</code> <code>core-data</code> ⭐ <code>2020</code> </summary>
