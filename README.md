@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1237-green.svg) ![](https://img.shields.io/badge/Updated-March%20%201,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1237-green.svg) ![](https://img.shields.io/badge/Updated-March%20%202,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2967,13 +2967,6 @@ File Management — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/af/a9/34/afa934c6-45c5-c194-d179-f34520fe8b1c/mzl.jfnjvioh.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Lumines remake](https://github.com/kaikai2/luminesk5)  
-  <details>
-	<summary><code>c</code>  <code>2013</code> </summary>
-
-	Added: `June 2020`<br>  License: `other`
-  </details>
-
 - [Master](https://github.com/Kjuly/iPokeMon): PokéMon-like game that uses your location  
   <details>
 	<summary><code>objc</code> ⭐⭐ <code>2016</code> </summary>
@@ -4996,14 +4989,6 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 
 	Added: `March 2015`<br>  License: `other`<br>
 	<a href='https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [LobsterApp](https://github.com/rhysforyou/LobsterApp): Browse the https://lobste.rs community news site  
-  <details>
-	<summary><code>objc</code>  <code>2013</code> </summary>
-
-	Added: `July 2016`<br>  License: `other`<br>
-	<a href='https://i.imgur.com/WF6eY71.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [lobsters-reader](https://github.com/cfdrake/lobsters-reader)  
@@ -7058,14 +7043,6 @@ https://joinmastodon.org — [back to top](#readme)
 
 	Added: `October 2020`<br>
 	<a href='https://github.com/IcedOtaku/MoneyPlusPro/blob/master/images/main.png'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Nested Lists](https://github.com/objcio/issue-4-full-core-data-application)  
-  <details>
-	<summary><code>objc</code> ⭐ <code>2013</code> </summary>
-
-	Added: `August 2015`<br>  License: `other`<br>
-	<a href='https://i.imgur.com/z8Xw0qC.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/M5pwaAf.png'><code>Screenshot 2</code></a> 
   </details>
 
 - [Tagger](https://github.com/ivan-magda/Tagger): Help tag your photos on Instagram or Flickr  
