@@ -7572,7 +7572,8 @@
         "core-data"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "source": "https://github.com/objcio/issue-4-full-core-data-application",
       "stars": 167,
@@ -11641,7 +11642,8 @@
         "news"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/WF6eY71.png"
@@ -22171,7 +22173,8 @@
       ],
       "source": "https://github.com/kaikai2/luminesk5",
       "tags": [
-        "c"
+        "c",
+        "archive"
       ],
       "license": "other",
       "date_added": "Jun 2 2020",
