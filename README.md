@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1237-green.svg) ![](https://img.shields.io/badge/Updated-March%20%202,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1237-green.svg) ![](https://img.shields.io/badge/Updated-March%20%204,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2833,13 +2833,6 @@ File Management — [back to top](#readme)
 	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/44/e6/90/mzl.phnmwflb.png/626x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple/10/9a/3d/mzl.npolzzhp.png/626x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/d5/81/f5/mzl.upixgdwf.png/626x0w.png'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple/95/05/2f/mzl.bntcgfqi.png/626x0w.png'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/c3/f9/35/mzl.ucjimflu.png/626x0w.png'><code>Screenshot 5</code></a> 
   </details>
 
-- [Dragon Shout App 2](https://github.com/rblalock/dragon_shout_app_open_source): A social journal for the Elder Scrolls® series  
-  <details>
-	<summary><code>objc</code>  <code>2014</code> </summary>
-
-	Added: `June 2016`<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-  </details>
-
 - [DropColour](https://github.com/elpassion/DropColour-iOS): Drag & drop one circle onto another of the same color  
   <details>
 	<summary><code>swift</code> <code>swift3.1</code> ⭐ <code>2017</code> </summary>
@@ -3154,14 +3147,6 @@ File Management — [back to top](#readme)
  
 http://cocos2d.org/ — [back to top](#readme) 
  
-- [Heredox](https://github.com/RolandasRazma/Heredox): Place tiles to form your allegiance's symbols  
-  <details>
-	<summary><code>objc</code>  <code>2014</code> </summary>
-
-	http://www.heredox.com/<br>  Added: `June 2016`<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://i.imgur.com/Wg6TIR7.jpg'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/PatEcU8.jpg'><code>Screenshot 2</code></a> 
-  </details>
-
 - [Lumio](https://github.com/sephine/lumio): Puzzle game  
   <details>
 	<summary><code>objc</code> ⭐ <code>2016</code> </summary>
@@ -3669,14 +3654,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 	<a href='https://github.com/kevinvanderlugt/Swift-Walk-Tracker/raw/master/images/screenshot_map.PNG'><code>Screenshot 1</code></a> <a href='https://github.com/kevinvanderlugt/Swift-Walk-Tracker/raw/master/images/screenshot_list.PNG'><code>Screenshot 2</code></a> 
   </details>
 
-- [Theseus](https://github.com/lazerwalker/Theseus): Personal analytics  
-  <details>
-	<summary><code>objc</code> ⭐⭐⭐ <code>2014</code> </summary>
-
-	Added: `April 2015`<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)<br>
-	<a href='https://raw.githubusercontent.com/lazerwalker/Theseus/master/ReadmeImages/triptych.png'><code>Screenshot 1</code></a> 
-  </details>
-
 
 ### ResearchKit 
  
@@ -3793,14 +3770,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 
 	Added: `March 2019`<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/08/18/250818d7-a6b1-0af4-0efb-cb977f7c5c93/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/ce/5f/bcce5fcd-b809-72d6-63f8-aff380326149/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/60/da/8c/60da8cfc-c0c4-56d2-aedb-e97cfe1be461/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/13/f0/80/13f08044-d8bc-03cd-341e-aed485137a8f/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> 
-  </details>
-
-- [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS): Share your location  
-  <details>
-	<summary><code>objc</code>  <code>2014</code> </summary>
-
-	Added: `April 2015`<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
-	<a href='https://i.imgur.com/FWj32S0.png'><code>Screenshot 1</code></a> <a href='https://i.imgur.com/IyfFdCc.png'><code>Screenshot 2</code></a> 
   </details>
 
 - [GPS Stone](https://github.com/frostland/GPS-Stone): Record your position and export your trip in GPX with GPS Stone  
