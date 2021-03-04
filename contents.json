@@ -3641,7 +3641,8 @@
         "location"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/FWj32S0.png",
@@ -7077,7 +7078,8 @@
         "fitness"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "description": "Personal analytics",
       "license": "gpl-2.0",
@@ -9739,7 +9741,8 @@
         "cocos2d"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "description": "Place tiles to form your allegiance's symbols",
       "source": "https://github.com/RolandasRazma/Heredox",
@@ -9923,7 +9926,8 @@
         "game"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "description": "A social journal for the Elder Scrolls® series",
       "source": "https://github.com/rblalock/dragon_shout_app_open_source",
