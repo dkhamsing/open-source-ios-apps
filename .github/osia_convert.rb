@@ -4,6 +4,7 @@ require 'date'
 # Constants
 
 README = 'README.md'
+PROJECTS = 'PROJECTS.md'
 ARCHIVE = 'ARCHIVE.md'
 APPSTORE = 'APPSTORE.md'
 LATEST = 'LATEST.md'
@@ -14,6 +15,7 @@ ARCHIVE_TAG = 'archive'
 LATEST_NUM = 30
 
 SHOW_TWITTER = false
+WEBSITE = 'https://open-source-ios-apps.netlify.app'
 
 # Helpers
 
@@ -43,6 +45,22 @@ def apps_archived(apps)
   a.sort_by { |k, v| k['title'].downcase }
 end
 
+def apps_latest(apps, num)
+  a = apps.select { |a| a['date_added'] != nil }
+    .sort_by { |k, v| DateTime.parse(k['date_added']) }
+    .reverse
+
+  a[0..num - 1]
+end
+
+def apps_updated(apps, num)
+  a = apps.select { |a| a['updated'] != nil }
+  .sort_by { |k, v| DateTime.parse(k['updated']) }
+  .reverse
+
+  a[0..num - 1]
+end
+
 def apps_for_cat(apps, id)
   f = apps.select do |a|
 
@@ -59,22 +77,6 @@ def apps_for_cat(apps, id)
     cat.class == Array ? cat.include?(id) : (cat == id)
   end
   s.sort_by { |k, v| k['title'].downcase }
-end
-
-def apps_latest(apps, num)
-  a = apps.select { |a| a['date_added'] != nil }
-    .sort_by { |k, v| DateTime.parse(k['date_added']) }
-    .reverse
-
-  a[0..num - 1]
-end
-
-def apps_updated(apps, num)
-  a = apps.select { |a| a['updated'] != nil }
-  .sort_by { |k, v| DateTime.parse(k['updated']) }
-  .reverse
-
-  a[0..num - 1]
 end
 
 def output_apps(apps, appstoreonly)
@@ -173,13 +175,17 @@ def output_apps(apps, appstoreonly)
   o
 end
 
-def output_badges(count, twitter)
+def output_badges(count, twitter, project_count = true)
   date = DateTime.now
   date_display = date.strftime "%B %e, %Y"
   date_display = date_display.gsub ' ', '%20'
 
-  b = "![](https://img.shields.io/badge/Projects-#{count}-green.svg)"
+  b = ""
 
+  if project_count
+    b << "![](https://img.shields.io/badge/Projects-#{count}-green.svg)"
+  end
+  
   if twitter
     b << " [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios)"
   end
@@ -203,6 +209,43 @@ def output_stars(number)
   else
     ''
   end
+end
+
+def write_readme(j, file, subtitle)
+  t = j['title']
+  desc = j['description']
+  f = j['footer']
+  cats = j['categories']
+  apps = j['projects']
+
+  sponsor = j['sponsor']
+
+  output = '# ' + t
+  output << "\n\n"
+  output << desc
+
+  output << "\n\n#{subtitle}\n\n"
+
+  output << output_badges(apps.count, SHOW_TWITTER, false)
+
+  unless sponsor.length == 0
+    output << "\n\n"
+    output << sponsor
+    output << "\n"
+  end
+
+  output << "\n"
+  output << "- [All projects (#{apps.count})](#{PROJECTS})\n"
+  output << "- [Latest projects (#{apps_latest(apps, LATEST_NUM).count})](#{LATEST})\n"
+  output << "- [App Store projects (#{app_store_total(j)})](#{APPSTORE})\n"
+  output << "- [Archived projects (#{apps_archived(apps).count})](#{ARCHIVE})\n"
+  output << "- [Project website](#{WEBSITE})\n"
+
+  output << "\n"
+  output << f
+
+  File.open(file, 'w') { |f| f.write output }
+  puts "wrote #{file} ✨"
 end
 
 def write_archive(j, subtitle)
@@ -336,9 +379,11 @@ end
 
 j = get_json
 
+subtitle_projects = "A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:"
+write_readme(j, README, subtitle_projects)
 
-subtitle_readme = j['subtitle']
-write_list(j, README, subtitle_readme)
+subtitle_projects = j['subtitle']
+write_list(j, PROJECTS, subtitle_projects)
 
 subtitle_app_store = "List of **#{app_store_total j}** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps))."
 write_list(j, APPSTORE, subtitle_app_store, true)
