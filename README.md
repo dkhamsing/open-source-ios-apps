@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1237-green.svg) ![](https://img.shields.io/badge/Updated-March%20%204,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1237-green.svg) ![](https://img.shields.io/badge/Updated-March%20%206,%202021-lightgrey.svg)
 
 Jump to
 
@@ -360,14 +360,6 @@ Click ► to show more details
 
 	Added: `October 2020`<br>  License: `other`<br>
 	<a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'><code>Screenshot 3</code></a> 
-  </details>
-
-- [KTPomodoro](https://github.com/kenshin03/KTPomodoro): Mini Pomodoro Timer  
-  <details>
-	<summary><code>objc</code>  <code>2015</code> </summary>
-
-	Added: `February 2015`<br>  License: `other`<br>
-	<a href='https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [MyWeight History](https://github.com/diogot/MyWeight): Body mass tracker with easy data input & access to history [` App Store`](https://apps.apple.com/app/myweight-history/id1098061879)  
@@ -2090,14 +2082,6 @@ Click ► to show more details
 	<a href='https://github.com/ayunav/MeetupOrganizer/blob/master/MeetupOrganizerAppDemo.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [Nortal TechDay 2015](https://github.com/mikkoj/NortalTechDay)  
-  <details>
-	<summary><code>react native</code> ⭐⭐ <code>2016</code> </summary>
-
-	Added: `May 2015`<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://res.cloudinary.com/mikkoj/image/upload/v1467119333/nortal-techday-1.mov_triupn.gif'><code>Screenshot 1</code></a> <a href='http://res.cloudinary.com/mikkoj/image/upload/v1467119489/nortal-techday-2.mov_lcvqqx.gif'><code>Screenshot 2</code></a> 
-  </details>
-
 - [Northern California Cherry Blossom Festival](https://github.com/keitaito/NCCBF-iOS)  
   <details>
 	<summary><code>swift</code>  <code>2019</code> </summary>
@@ -2325,14 +2309,6 @@ Today Extensions or Widgets — [back to top](#readme)
 
 	Added: `April 2020`<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://github.com/dkhamsing/news/raw/develop/Images/tvos.png'><code>Screenshot 1</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/facebook.png'><code>Screenshot 2</code></a> <a href='https://github.com/dkhamsing/news/raw/develop/Images/washingtonpost.png'><code>Screenshot 3</code></a> 
-  </details>
-
-- [OpenIt](https://github.com/BalestraPatrick/OpenIt): Launch other apps  
-  <details>
-	<summary><code>objc</code> ⭐ <code>2015</code> </summary>
-
-	Added: `June 2016`<br>  License: `other`<br>
-	<a href='https://github.com/BalestraPatrick/OpenIt/raw/master/OpenItDemo.gif'><code>Screenshot 1</code></a> 
   </details>
 
 - [TimeLines](https://github.com/mathieudutour/TimeLines): Know when all your friends, colleagues and family are  
@@ -7697,14 +7673,6 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 
 	Added: `May 2015`<br>  License: `other`<br>
 	<a href='https://cloud.githubusercontent.com/assets/425966/7039857/2f122810-dd95-11e4-99c4-db636d4c66a9.gif'><code>Screenshot 1</code></a> 
-  </details>
-
-- [Nortal TechDay 2015](https://github.com/mikkoj/NortalTechDay)  
-  <details>
-	<summary><code>react native</code> ⭐⭐ <code>2016</code> </summary>
-
-	Added: `May 2015`<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='http://res.cloudinary.com/mikkoj/image/upload/v1467119333/nortal-techday-1.mov_triupn.gif'><code>Screenshot 1</code></a> <a href='http://res.cloudinary.com/mikkoj/image/upload/v1467119489/nortal-techday-2.mov_lcvqqx.gif'><code>Screenshot 2</code></a> 
   </details>
 
 - [PokeDB](https://github.com/satya164/PocketGear): Clean and simple Pokédex app for Pokémon GO [` App Store`](https://apps.apple.com/app/pocketdex-for-pok%C3%A9mon-go/id1255564898)  
