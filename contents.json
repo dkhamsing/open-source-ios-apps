@@ -937,7 +937,8 @@
         "apple-watch"
       ],
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "description": "Mini Pomodoro Timer",
       "source": "https://github.com/kenshin03/KTPomodoro",
@@ -1794,7 +1795,8 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native",
+        "archive"
       ],
       "screenshots": [
         "http://res.cloudinary.com/mikkoj/image/upload/v1467119333/nortal-techday-1.mov_triupn.gif",
@@ -10721,7 +10723,8 @@
       "description": "Launch other apps",
       "source": "https://github.com/BalestraPatrick/OpenIt",
       "tags": [
-        "objc"
+        "objc",
+        "archive"
       ],
       "license": "other",
       "stars": 111,
