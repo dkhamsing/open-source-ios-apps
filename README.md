@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1237-green.svg) ![](https://img.shields.io/badge/Updated-March%20%206,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1237-green.svg) ![](https://img.shields.io/badge/Updated-March%20%207,%202021-lightgrey.svg)
 
 Jump to
 
@@ -342,8 +342,8 @@ Click ► to show more details
   <details>
 	<summary><code>swift</code> <code>watchos2</code> ⭐⭐ <code>2019</code> </summary>
 
-	https://imgur.com/a/xVqqj<br>  Added: `July 2015`<br>  License: `other`<br>
-	<a href='https://i.imgur.com/hOfxCBx.png'><code>Screenshot 1</code></a> 
+	Added: `July 2015`<br>  License: `other`<br>
+	<a href='https://imgur.com/a/xVqqj'><code>Screenshot 1</code></a> 
   </details>
 
 - [HN Reader](https://github.com/Dimillian/SwiftHN): Hacker News Reader [` App Store`](https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741)  
@@ -506,7 +506,7 @@ Click ► to show more details
 	<a href='https://i.imgur.com/pEIRuzr.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Waterminder](https://github.com/caiobzen/water-reminder-swiftui): Apple Watch app to remind you to drink water  
+- [Waterminder](https://github.com/caiobzen/water-reminder-swiftui): Watch app to remind you to drink water  
   <details>
 	<summary><code>swift</code> <code>combine</code> ⭐ <code>2021</code> </summary>
 
@@ -1093,7 +1093,7 @@ Click ► to show more details
 	<a href='https://user-images.githubusercontent.com/13119842/82450764-1c9e1b00-9a7b-11ea-83d2-b835bf51c727.png'><code>Screenshot 1</code></a> <a href='https://user-images.githubusercontent.com/13119842/82450847-38092600-9a7b-11ea-92a8-52cf92fb137b.png'><code>Screenshot 2</code></a> <a href='https://user-images.githubusercontent.com/13119842/82450869-3e979d80-9a7b-11ea-81ea-0780c7a612f7.png'><code>Screenshot 3</code></a> <a href='https://user-images.githubusercontent.com/13119842/82450896-47886f00-9a7b-11ea-92f4-da9e5553f469.png'><code>Screenshot 4</code></a> 
   </details>
 
-- [mChat](https://github.com/realpaliy/Messenger): Real-time messaging app using firebase  
+- [mChat](https://github.com/vitaliy-paliy/Messenger): Real-time messaging app using firebase  
   <details>
 	<summary><code>swift</code> <code>firebase</code> <code>lottie</code> <code>mapbox</code> ⭐⭐ <code>2021</code> </summary>
 
@@ -2522,7 +2522,7 @@ File Management — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/9c/1c/74/9c1c7418-0b94-8c1b-8da8-fa869914e591/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/73/2a/60/732a6002-e689-f012-96be-a1501c226821/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/dd/85/df/dd85df8d-d795-b847-6cad-2bde2b1df6d9/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/c7/b2/59/c7b2590b-cc11-0aea-c5dc-4263313fb97f/pr_source.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/41/a3/dc/41a3dc56-02fe-83f8-6fe0-8813691868c3/pr_source.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [Exchanger](https://github.com/vladimir-kaltyrin/exchanger): Exchange currencies from multiply wallets on ECB exchange rates  
+- [Exchanger](https://github.com/vladimir-kaltyrin/exchanger): Exchange currencies from multiple wallets on ECB exchange rates  
   <details>
 	<summary><code>viper</code> <code>objc</code> <code>core-data</code>  <code>2017</code> </summary>
 
@@ -6463,7 +6463,7 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [Themoji](https://github.com/themoji/ios): Use Emojis to communicate while traveling  
   <details>
-	<summary><code>objc</code>  <code>2020</code> </summary>
+	<summary><code>swift</code>  <code>2020</code> </summary>
 
 	https://themoji.me/<br>  Added: `July 2016`<br>  License: `other`<br>
 	<a href='https://themoji.me/ThemojiIdea.jpg'><code>Screenshot 1</code></a> 
@@ -8840,7 +8840,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM/raw/main/news2.gif'><code>Screenshot 1</code></a> 
   </details>
 
-- [Waterminder](https://github.com/caiobzen/water-reminder-swiftui): Apple Watch app to remind you to drink water  
+- [Waterminder](https://github.com/caiobzen/water-reminder-swiftui): Watch app to remind you to drink water  
   <details>
 	<summary><code>swift</code> <code>combine</code> ⭐ <code>2021</code> </summary>
 
@@ -8907,7 +8907,7 @@ https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme)
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/43/e8/45/43e84585-f1e0-7af6-7cb6-28ae3cfc5563/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> 
   </details>
 
-- [Exchanger](https://github.com/vladimir-kaltyrin/exchanger): Exchange currencies from multiply wallets on ECB exchange rates  
+- [Exchanger](https://github.com/vladimir-kaltyrin/exchanger): Exchange currencies from multiple wallets on ECB exchange rates  
   <details>
 	<summary><code>viper</code> <code>objc</code> <code>core-data</code>  <code>2017</code> </summary>
 
