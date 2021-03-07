@@ -1617,7 +1617,7 @@ File Management — [back to top](#readme)
   -  `2016`   `swift` 
   -  ☆`8` 
 - [Oh My Plane](https://github.com/softdevstory/OhMyPlane): A game like flappy bird
-  - [` App Store`](https://apps.apple.com/app/oh-my-plane/id1100985506) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'>`Screenshot 2`</a> 
+  -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'>`Screenshot 2`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `spritekit` `gameplaykit` 
   -  ☆`13` 
 - [Pizza-Man](https://github.com/fulldecent/pizzaman): Play this devilishly difficult diversion
@@ -1718,7 +1718,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`8` 
 - [Oh My Plane](https://github.com/softdevstory/OhMyPlane): A game like flappy bird
-  - [` App Store`](https://apps.apple.com/app/oh-my-plane/id1100985506) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'>`Screenshot 2`</a> 
+  -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'>`Screenshot 2`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `spritekit` `gameplaykit` 
   -  ☆`13` 
 - [Sakura Fly](https://github.com/cl7/Sakura-Fly)
