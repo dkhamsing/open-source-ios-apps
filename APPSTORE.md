@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **278** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **277** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -734,10 +734,6 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/eveuniverse/id418895101) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/04/8d/f4/048df460-8415-913d-cea4-9adce71370cf/mzm.lddloznb.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/b0/e7/b4/b0e7b405-69c8-560b-72dd-7e779081adc0/mzm.laponjby.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/fe/ba/07/feba07fb-c2d7-6bc4-eca7-c1a32c6827f4/mzm.dfjfwhds.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/31/21/25/312125a3-e312-f009-115d-8023635314fc/mzm.evrsahoz.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/63/91/58/639158b3-23b1-71ca-de67-f3fa8eabf256/mzm.pxsjydzt.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2020`  [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/) `objc` 
   -  ☆`92` 
-- [Oh My Plane](https://github.com/softdevstory/OhMyPlane): A game like flappy bird
-  - [` App Store`](https://apps.apple.com/app/oh-my-plane/id1100985506) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'>`Screenshot 2`</a> 
-  -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `spritekit` `gameplaykit` 
-  -  ☆`13` 
 - [Pizza-Man](https://github.com/fulldecent/pizzaman): Play this devilishly difficult diversion
   - [` App Store`](https://apps.apple.com/app/pizza-man/id931174800) <a href='https://i.imgur.com/g7PQMxc.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` `ipad` 
@@ -788,10 +784,6 @@ http://cocos2d.org/ — [back to top](#readme)
 https://developer.apple.com/reference/spritekit — [back to top](#readme) 
  
 
-- [Oh My Plane](https://github.com/softdevstory/OhMyPlane): A game like flappy bird
-  - [` App Store`](https://apps.apple.com/app/oh-my-plane/id1100985506) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'>`Screenshot 2`</a> 
-  -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `spritekit` `gameplaykit` 
-  -  ☆`13` 
 - [Sakura Fly](https://github.com/cl7/Sakura-Fly)
   - [` App Store`](https://apps.apple.com/app/sakura-fly/id1019023051) <a href='https://cloud.githubusercontent.com/assets/6619146/13731560/965791fe-e942-11e5-9a11-f66f404fa18c.gif'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
