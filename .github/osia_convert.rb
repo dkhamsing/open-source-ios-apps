@@ -8,7 +8,6 @@ ARCHIVE = 'ARCHIVE.md'
 APPSTORE = 'APPSTORE.md'
 LATEST = 'LATEST.md'
 
-NOT_ENGLISH = '🌐'
 ARCHIVE_TAG = 'archive'
 
 LATEST_NUM = 30
@@ -87,88 +86,87 @@ def output_apps(apps, appstoreonly)
     desc = a['description']
     tags = a['tags']
     stars = a['stars']
-    lang = a['lang']
-
-    date_added = a['date_added']
     date_updated = a['updated']
     screenshots = a['screenshots']
     license = a['license']
 
-    t = "[#{name}](#{link})"
+    lines = []
 
-    if desc.nil?
-      t << ' '
-    else
-      t << ": #{desc} " if desc.size>0
+    line = []
+    line.push "[#{name}](#{link})"
+
+    unless desc.nil?
+      line.push ": #{desc}" if desc.size>0
     end
 
+    lines.push line
+
+    line = []
+    unless homepage.nil?
+      line.push "<a href=#{homepage}>`#{homepage}`</a>"
+    end
+
+    lines.push line
+
+    line = []
     unless itunes.nil?
-      t << "[` App Store`](#{itunes}) "
+      line.push "[` App Store`](#{itunes})"
     end
 
     if appstoreonly
       next if itunes.nil?
     end
 
-    o << "- #{t} \n"
-    o <<  "  <details>\n\t<summary>"
-
-    details = ""
-
-    unless tags.nil?
-      details << '<code>swift</code> ' if tags.include? 'swift'
-      tags.each do |t|
-        details << "<code>#{t.downcase}</code> " if t.downcase != 'swift'
+    unless screenshots.nil? || screenshots.empty?
+      screenshots.each_with_index do |s, i|
+        line.push " <a href='#{screenshots[i]}'>`Screenshot #{i+1}`</a> "
       end
     end
 
-    details << "#{NOT_ENGLISH} " unless lang.nil?
+    lines.push line
 
-    unless stars.nil?
-      details << output_stars(stars)
-    end
+    line = []
 
     unless date_updated.nil?
       date = DateTime.parse(date_updated)
       formatted_date = date.strftime "%Y"
-      details << " <code>#{formatted_date}</code> "
-    end
-    
-    o << details
-
-    o << "</summary>"
-
-    details_list = []
-    unless homepage.nil?
-      details_list.push homepage
-    end
-
-    unless date_added.nil?
-      date = DateTime.parse(date_added)
-      formatted_date = date.strftime "%B %Y"
-      details_list.push "Added: `#{formatted_date}`"
+      line.push " `#{formatted_date}` "
     end
 
     unless license.nil?
-      license_display = license == 'other' ? "`#{license}`" : "[`#{license}`](http://choosealicense.com/licenses/#{license}/)"
-      details_list.push "License: #{license_display}"
+      license_display = license == 'other' ? "" : "[`#{license}`](http://choosealicense.com/licenses/#{license}/)"
+      line.push << " #{license_display} "
     end
 
-    details = "\n\n\t"
-    details << details_list[0]
-    details_list[1..-1].each { |x| details << "<br>  #{x}" }
-
-    unless screenshots.nil? || screenshots.empty?
-      details << "<br>"
-      details << "\n\t"
-      screenshots.each_with_index do |s, i|
-        details << "<a href='#{screenshots[i]}'><code>Screenshot #{i+1}</code></a> "
+    unless tags.nil?
+      line.push '`swift` ' if tags.include? 'swift'
+      tags.each do |t|
+        line.push "`#{t.downcase}` " if t.downcase != 'swift'
       end
     end
 
-    details << "\n  "
-    details << "</details>\n\n"
-    o << details
+   lines.push line
+
+   line = []
+   unless stars.nil?
+    line.push " ☆`#{stars}` " if stars > 0
+   end
+
+   lines.push line
+
+   lines.each_with_index do |item, i|
+     temp = ''
+     item.each { |x| temp << "#{x}" }
+     unless temp.empty?
+       if i == 0
+         o << "\n- #{temp}"
+       else
+         o << "\n  - #{temp}"
+       end
+     end
+   end
+
+   # o << "\n"
   end
   o
 end
@@ -186,23 +184,6 @@ def output_badges(count, twitter)
 
   b << " ![](https://img.shields.io/badge/Updated-#{date_display}-lightgrey.svg)"
   return b
-end
-
-def output_stars(number)
-  case number
-  when 100...200
-    '⭐'
-  when 200...500
-    '⭐⭐'
-  when 500...1000
-    '⭐⭐⭐'
-  when 1000...2000
-    '⭐⭐⭐⭐'
-  when 2000...100000
-    '⭐⭐⭐⭐⭐'
-  else
-    ''
-  end
 end
 
 def write_archive(j, subtitle)
