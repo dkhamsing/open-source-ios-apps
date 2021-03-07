@@ -811,14 +811,13 @@
       ],
       "description": "Show streaming heart rate from the watch",
       "source": "https://github.com/coolioxlr/watchOS-2-heartrate",
-      "homepage": "https://imgur.com/a/xVqqj",
       "stars": 327,
       "tags": [
         "swift",
         "watchos2"
       ],
       "screenshots": [
-        "https://i.imgur.com/hOfxCBx.png"
+        "https://imgur.com/a/xVqqj"
       ],
       "license": "other",
       "date_added": "Wed Jul 29 07:36:26 2015 -0700",
@@ -16478,7 +16477,7 @@
         "objc",
         "core-data"
       ],
-      "description": "Exchange currencies from multiply wallets on ECB exchange rates",
+      "description": "Exchange currencies from multiple wallets on ECB exchange rates",
       "source": "https://github.com/vladimir-kaltyrin/exchanger",
       "license": "mit",
       "screenshots": [
@@ -22306,7 +22305,7 @@
         "swiftui",
         "apple-watch"
       ],
-      "description": "Apple Watch app to remind you to drink water",
+      "description": "Watch app to remind you to drink water",
       "source": "https://github.com/caiobzen/water-reminder-swiftui",
       "license": "mit",
       "stars": 104,
