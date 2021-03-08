@@ -5605,7 +5605,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "App for Polls API by Apiary",
+      "description": "Uses the Apiary Polls API",
       "license": "mit",
       "source": "https://github.com/apiaryio/polls-app",
       "tags": [
@@ -12554,7 +12554,7 @@
     },
     {
       "title": "Contributions for GitHub",
-      "description": "Look at your GitHub contributions graph in a Today Extension",
+      "description": "Look at your contributions graph in a Today Extension",
       "source": "https://github.com/JustinFincher/GitHubContributionsiOS",
       "itunes": "https://apps.apple.com/app/contributions-for-github/id1153432612",
       "category-ids": [
