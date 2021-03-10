@@ -393,7 +393,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-1.png'>`Screenshot 1`</a>  <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-2.png'>`Screenshot 2`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`141` 
-- [Contributions for GitHub](https://github.com/JustinFincher/GitHubContributionsiOS): Look at your GitHub contributions graph in a Today Extension
+- [Contributions for GitHub](https://github.com/JustinFincher/GitHubContributionsiOS): Look at your contributions graph in a Today Extension
   - [` App Store`](https://apps.apple.com/app/contributions-for-github/id1153432612) <a href='https://github.com/JustinFincher/GitHubContributionsiOS/raw/master/Sketch/GitHub-Contributions.jpg'>`Screenshot 1`</a> 
   -  `2021`   `objc` 
   -  ☆`408` 
@@ -569,7 +569,7 @@ Today Extensions or Widgets — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/60/13/98/60139811-685a-cc58-9e1e-544a1b87ca74/mzl.zqoaqzsb.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/1e/ac/03/1eac03ec-45ed-7efe-6ff9-f3713baa4da0/mzl.iahmmuul.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/b0/43/ce/b043ce1c-e33a-790d-fb17-7842db114fdb/mzl.zrqjzmbz.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/39/a4/54/39a45485-b91e-6f23-d020-2c513194c022/mzl.mppkwkjn.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/fa/3a/53/fa3a53ea-47a4-f93d-5bae-0c685ae2e160/mzl.ajscbauc.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2019`   `objc` 
   -  ☆`67` 
-- [Contributions for GitHub](https://github.com/JustinFincher/GitHubContributionsiOS): Look at your GitHub contributions graph in a Today Extension
+- [Contributions for GitHub](https://github.com/JustinFincher/GitHubContributionsiOS): Look at your contributions graph in a Today Extension
   - [` App Store`](https://apps.apple.com/app/contributions-for-github/id1153432612) <a href='https://github.com/JustinFincher/GitHubContributionsiOS/raw/master/Sketch/GitHub-Contributions.jpg'>`Screenshot 1`</a> 
   -  `2021`   `objc` 
   -  ☆`408` 
