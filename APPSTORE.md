@@ -445,7 +445,7 @@ Jump to
   -  ☆`6` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching.
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
-  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) 
+  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`12` 
 - [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling
   - [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863) <a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'>`Screenshot 1`</a> 
@@ -1706,7 +1706,7 @@ Cross platform projects — [back to top](#readme)
   -  ☆`6` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching.
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
-  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) 
+  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`12` 
 - [StackOv](https://github.com/surfstudio/StackOv): For Stack Overflow
   - [` App Store`](https://apps.apple.com/app/stackov/id1511838391) <a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'>`Screenshot 1`</a> 
@@ -1817,7 +1817,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  ☆`4` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching.
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
-  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) 
+  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`12` 
 - [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling
   - [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863) <a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'>`Screenshot 1`</a> 
