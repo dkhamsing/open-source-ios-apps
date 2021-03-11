@@ -25732,6 +25732,22 @@
       "suggested_by": "@venkatasg",
       "stars": 12,
       "updated": "2021-02-17 22:12:40 UTC"
+    },
+    {
+      "title": "TextScanner",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": ["visionkit", "swift"],
+      "description": "Text recognition",
+      "source": "https://github.com/appcoda/TextScanner/",
+      "homepage": "https://www.appcoda.com/swiftui-text-recognition/",
+      "screenshots": [
+        "https://www.appcoda.com/wp-content/uploads/2021/03/sample-scanner-app.png"
+      ],
+      "license": "mit",
+      "date_added": "Mar 11 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
