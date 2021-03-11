@@ -25727,6 +25727,7 @@
       "screenshots": [
         "https://i.imgur.com/pyO2KGA.png"
       ],
+      "tags": ["swift"],
       "license": "mit",
       "date_added": "Feb 26 2021",
       "suggested_by": "@venkatasg",
@@ -25740,7 +25741,7 @@
       ],
       "tags": ["visionkit", "swift"],
       "description": "Text recognition",
-      "source": "https://github.com/appcoda/TextScanner/",
+      "source": "https://github.com/appcoda/TextScanner",
       "homepage": "https://www.appcoda.com/swiftui-text-recognition/",
       "screenshots": [
         "https://www.appcoda.com/wp-content/uploads/2021/03/sample-scanner-app.png"
