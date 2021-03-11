@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1237-green.svg) ![](https://img.shields.io/badge/Updated-March%2010,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1238-green.svg) ![](https://img.shields.io/badge/Updated-March%2011,%202021-lightgrey.svg)
 
 Jump to
 
@@ -980,7 +980,7 @@ Jump to
   -  ☆`6` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching.
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
-  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) 
+  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`12` 
 - [DiscussIt](https://github.com/ethanswift/DiscussIt): Scholarly article search, discussion forum and discussion board
   -  <a href='https://i.imgur.com/35n3RHL.png'>`Screenshot 1`</a> 
@@ -3924,7 +3924,7 @@ Cross platform projects — [back to top](#readme)
   -  ☆`6` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching.
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
-  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) 
+  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`12` 
 - [Fruta](https://developer.apple.com/documentation/app_clips/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an app clip - WWDC 2020 sample code by Apple
   -   `swift` `ios14` `widgetkit` `macos` `app-clip` 
@@ -4392,7 +4392,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  ☆`515` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching.
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
-  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) 
+  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`12` 
 - [Directory](https://github.com/hbmartin/Directory-SwiftUI)
   -  <a href='https://github.com/hbmartin/Directory-SwiftUI/raw/master/docs/screenshots/light.png'>`Screenshot 1`</a> 
@@ -4636,6 +4636,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [TemperatureAtlas](https://github.com/jhatin94/tempatlas-swiftui): Uses Apple Maps combined with the OpenWeather API
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`6` 
+- [TextScanner](https://github.com/appcoda/TextScanner): Text recognition
+  - <a href=https://www.appcoda.com/swiftui-text-recognition/>`https://www.appcoda.com/swiftui-text-recognition/`</a>
+  -  <a href='https://www.appcoda.com/wp-content/uploads/2021/03/sample-scanner-app.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `visionkit` 
 - [Todo Combine SwiftUI](https://github.com/jamfly/SwiftUI-Combine-todo-example): To-do list with restful API
   -  <a href='https://github.com/jamfly/SwiftUI-Combine-todo-example/raw/master/asset/demo.png'>`Screenshot 1`</a>  <a href='https://github.com/jamfly/SwiftUI-Combine-todo-example/raw/master/asset/demo.gif'>`Screenshot 2`</a> 
   -  `2019`   `swift` 
