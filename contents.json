@@ -2173,6 +2173,27 @@
       "updated": "2020-05-09 03:15:01 UTC"
     },
     {
+      "title": "FakeGithub",
+      "category-ids": [
+        "github"
+      ],
+      "tags": [
+        "objc"
+      ],
+      "description": "An iOS application written using Objective-C",
+      "source": "https://github.com/IcedOtaku/FakeGithub",
+      "stars": 0,
+      "license": "mit",
+      "date_added": "Sat March 13 15:00:00 2021 +0800",
+      "suggested_by": "@IcedOtaku",
+      "screenshots": [
+        "https://github.com/IcedOtaku/FakeGithub/blob/main/Screenshots/1.png",
+        "https://github.com/IcedOtaku/FakeGithub/blob/main/Screenshots/2.png",
+        "https://github.com/IcedOtaku/FakeGithub/blob/main/Screenshots/3.png",
+        "https://github.com/IcedOtaku/FakeGithub/blob/main/Screenshots/4.png"
+      ]
+    },
+    {
       "title": "MrCode",
       "category-ids": [
         "github"
