@@ -2180,7 +2180,7 @@
       "tags": [
         "objc"
       ],
-      "description": "An iOS application written using Objective-C",
+      "description": "Browse GitHub",
       "source": "https://github.com/IcedOtaku/FakeGithub",
       "stars": 0,
       "license": "mit",
