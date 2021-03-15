@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1239-green.svg) ![](https://img.shields.io/badge/Updated-March%2014,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1240-green.svg) ![](https://img.shields.io/badge/Updated-March%2015,%202021-lightgrey.svg)
 
 Jump to
 
@@ -4351,6 +4351,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [BlogIdeaList-SwiftUI](https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI): Using Core Data With SwiftUI
   -  `2020`   `swift` `swiftui` `core-data` 
   -  ☆`62` 
+- [Bombus Pomodoro](https://github.com/Yonodactyl/Bombus)
+  -   `swift` `swiftui` 
 - [buttoncraft](https://github.com/atrinh0/buttoncraft): Craft that perfect button style
   -  <a href='https://github.com/atrinh0/buttoncraft/raw/master/images/demo.gif'>`Screenshot 1`</a> 
   -  `2021`   `swift` `swiftui` 
