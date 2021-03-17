@@ -25784,6 +25784,28 @@
       ],
       "date_added": "Mar 15 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "ZLGithubClient",
+      "category-ids": [
+        "github",
+        "developer"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Github iOS Client based on Github REST V3 API and GraphQL V4 API",
+      "source": "https://github.com/ExistOrLive/GithubClient",
+      "itunes": "https://apps.apple.com/app/gorillas/id1498787032",
+      "license": "MIT",
+      "date_added": "Mar 18 2021",
+      "suggested_by": "@existorlive",
+      "screenshots": [
+        "https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_4245.PNG",
+        "https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3785.JPG",
+        "https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3789.JPG",
+        "https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3788.JPG"
+      ]
     }
   ]
 }
