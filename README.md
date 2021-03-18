@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1240-green.svg) ![](https://img.shields.io/badge/Updated-March%2015,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1241-green.svg) ![](https://img.shields.io/badge/Updated-March%2018,%202021-lightgrey.svg)
 
 Jump to
 
@@ -939,6 +939,9 @@ Jump to
   -  <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'>`Screenshot 3`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `rxswift` `mvvm` `moya` `fastlane` 
   -  ☆`1985` 
+- [ZLGithubClient](https://github.com/ExistOrLive/GithubClient): Browse GitHub using GitHub REST V3 API and GraphQL V4 API
+  - [` App Store`](https://apps.apple.com/app/gorillas/id1498787032) <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_4245.PNG'>`Screenshot 1`</a>  <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3785.JPG'>`Screenshot 2`</a>  <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3789.JPG'>`Screenshot 3`</a>  <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3788.JPG'>`Screenshot 4`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 ### Terminal 
  
 [back to top](#readme) 
