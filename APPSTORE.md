@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **277** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **278** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -413,6 +413,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id806104975) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/32/f6/58/32f65859-14bd-86e7-a121-b06025e02029/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/41/de/3a41de8e-d316-fbb9-f15e-ddf5fb4e0763/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/1b/2e/9b1b2ebc-03ee-7628-0a81-545af421f519/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8b/e0/8f/8be08fc6-ea85-7325-e2a0-91e90b84b9a1/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a8/f6/09/a8f6095a-2999-95f7-46c5-a09dd89588b3/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`924` 
+- [ZLGithubClient](https://github.com/ExistOrLive/GithubClient): Browse GitHub using GitHub REST V3 API and GraphQL V4 API
+  - [` App Store`](https://apps.apple.com/app/gorillas/id1498787032) <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_4245.PNG'>`Screenshot 1`</a>  <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3785.JPG'>`Screenshot 2`</a>  <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3789.JPG'>`Screenshot 3`</a>  <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3788.JPG'>`Screenshot 4`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 ### Terminal 
  
 [back to top](#readme) 
