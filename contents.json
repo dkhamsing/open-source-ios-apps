@@ -25788,16 +25788,15 @@
     {
       "title": "ZLGithubClient",
       "category-ids": [
-        "github",
-        "developer"
+        "github"
       ],
       "tags": [
         "swift"
       ],
-      "description": "Github iOS Client based on Github REST V3 API and GraphQL V4 API",
+      "description": "Browse GitHub using GitHub REST V3 API and GraphQL V4 API",
       "source": "https://github.com/ExistOrLive/GithubClient",
       "itunes": "https://apps.apple.com/app/gorillas/id1498787032",
-      "license": "MIT",
+      "license": "mit",
       "date_added": "Mar 18 2021",
       "suggested_by": "@existorlive",
       "screenshots": [
