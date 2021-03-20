@@ -585,7 +585,6 @@
       "description": "Track bus line on your wrist, includes Today Extension",
       "lang": "zho",
       "source": "https://github.com/JohnWong/bus-today",
-      "itunes": "https://apps.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341",
       "stars": 67,
       "license": "other",
       "date_added": "Wed Feb 17 10:44:11 2016 +0800",
@@ -21374,7 +21373,6 @@
         "today"
       ],
       "source": "https://github.com/fimuxd/GITGET",
-      "itunes": "https://apps.apple.com/app/gitget/id1317170245",
       "screenshots": [
         "https://i.imgur.com/16yLR0l.png"
       ],
