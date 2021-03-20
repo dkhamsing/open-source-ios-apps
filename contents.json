@@ -5622,6 +5622,29 @@
       "updated": "2019-03-03 07:45:17 UTC"
     },
     {
+      "title": "Shlist",
+      "category-ids": [
+        "shopping"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Shopping list",
+      "license": "mit",
+      "source": "https://github.com/pointspy/shlist",
+      "itunes": "https://apps.apple.com/ru/app/shlist/id1551533470",
+      "stars": 0,
+      "date_added": "Sat Mar 20 14:27:17 +0500 2021",
+      "suggested_by": "@pointspy",
+      "screenshots": [
+        "https://github.com/pointspy/shlist/blob/master/images/image1.png",
+        "https://github.com/pointspy/shlist/blob/master/images/image2.png",
+        "https://github.com/pointspy/shlist/blob/master/images/image3.png",
+        "https://github.com/pointspy/shlist/blob/master/images/image4.png"
+      ],
+      "updated": "2021-03-20 14:30:00 UTC"
+    },
+    {
       "title": "Polls",
       "category-ids": [
         "sample"
