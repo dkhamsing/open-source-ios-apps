@@ -24042,12 +24042,13 @@
         "swiftui"
       ],
       "description": "Track your expenses",
-      "source": "https://github.com/Mas0nSun/AccountBook",
+      "source": "https://github.com/opensourceios/AccountBook",
       "itunes": "https://apps.apple.com/app/id1490290251",
       "license": "mit",
       "tags": [
         "swift",
-        "swiftui"
+        "swiftui",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/Mas0nSun/AccountBook/blob/master/1242x2688bb.png"
