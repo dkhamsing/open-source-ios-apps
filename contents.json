@@ -111,7 +111,7 @@
       "title": "Cocos2d",
       "id": "cocos2d",
       "parent": "game",
-      "description": "http://cocos2d.org/"
+      "description": "https://cocos2d.org/"
     },
     {
       "title": "SpriteKit",
@@ -175,7 +175,7 @@
     {
       "title": "GIF",
       "id": "gif",
-      "description": "Mostly using http://giphy.com/",
+      "description": "Mostly using https://giphy.com/",
       "parent": "media"
     },
     {
@@ -304,7 +304,7 @@
       "title": "Ionic",
       "id": "ionic",
       "parent": "misc",
-      "description": "http://ionicframework.com/"
+      "description": "https://ionicframework.com/"
     },
     {
       "title": "macOS",
@@ -316,7 +316,7 @@
       "title": "React Native",
       "id": "react-native",
       "parent": "misc",
-      "description": "http://facebook.github.io/react-native/"
+      "description": "https://facebook.github.io/react-native/"
     },
     {
       "title": "ReactiveCocoa",
@@ -567,9 +567,9 @@
       "date_added": "Wed Apr 29 16:01:24 2015 +0200",
       "suggested_by": "@Boris Bügling",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/d8/0b/60/d80b6021-c445-60b3-718e-6aa9b767dd67/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple5/v4/a7/a9/83/a7a983cb-7a25-f622-2bed-225c2e77ca15/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple7/v4/67/4c/62/674c628c-ab5a-3aa1-e480-40b0afbce87e/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/d8/0b/60/d80b6021-c445-60b3-718e-6aa9b767dd67/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple5/v4/a7/a9/83/a7a983cb-7a25-f622-2bed-225c2e77ca15/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple7/v4/67/4c/62/674c628c-ab5a-3aa1-e480-40b0afbce87e/screen696x696.jpeg"
       ],
       "updated": "2015-04-29 13:36:11 UTC"
     },
@@ -769,7 +769,7 @@
       "license": "gpl-3.0",
       "source": "https://github.com/macoscope/GrandCentralBoard",
       "screenshots": [
-        "http://cdn.macoscope.com/blog/wp-content/uploads/2016/03/zegar_anim_1.gif"
+        "https://cdn.macoscope.com/blog/wp-content/uploads/2016/03/zegar_anim_1.gif"
       ],
       "stars": 206,
       "tags": [
@@ -1042,10 +1042,10 @@
       "date_added": "Sun Jul 5 15:34:48 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple7/v4/21/00/59/210059e1-5da5-d2c4-60f0-1298fa1b063d/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple1/v4/dc/a1/a5/dca1a575-79a5-a5d0-8e7a-2cc4a5127675/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple1/v4/5c/d2/f5/5cd2f541-dfc4-a75e-f32e-11028c16ad5b/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple5/v4/fd/d0/34/fdd0347a-8486-03ad-0e6b-b53a8e3e701a/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple7/v4/21/00/59/210059e1-5da5-d2c4-60f0-1298fa1b063d/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple1/v4/dc/a1/a5/dca1a575-79a5-a5d0-8e7a-2cc4a5127675/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple1/v4/5c/d2/f5/5cd2f541-dfc4-a75e-f32e-11028c16ad5b/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple5/v4/fd/d0/34/fdd0347a-8486-03ad-0e6b-b53a8e3e701a/screen696x696.jpeg"
       ],
       "tags": [
         "archive"
@@ -1290,9 +1290,9 @@
       "date_added": "Tue Dec 22 07:04:44 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple7/v4/4a/22/70/4a22706f-6fe0-0e71-ad4c-178a83a062ad/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple7/v4/cb/d1/06/cbd1063b-c086-9e3b-caff-34e938b6433c/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple5/v4/e3/b4/ae/e3b4ae59-3f2e-2784-93aa-fae83a3aa6f1/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple7/v4/4a/22/70/4a22706f-6fe0-0e71-ad4c-178a83a062ad/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple7/v4/cb/d1/06/cbd1063b-c086-9e3b-caff-34e938b6433c/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple5/v4/e3/b4/ae/e3b4ae59-3f2e-2784-93aa-fae83a3aa6f1/screen696x696.jpeg"
       ],
       "updated": "2019-04-09 16:15:05 UTC"
     },
@@ -1383,11 +1383,11 @@
       "date_added": "Mon Apr 11 07:56:04 2016 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple18/v4/90/4f/79/904f794e-c2b3-363e-4c5c-4118dd6e7ee0/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple60/v4/cd/67/d3/cd67d381-6a18-34cf-4e75-390075d426f3/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple20/v4/a7/09/81/a70981f7-305d-cef5-c9ec-39c7aed6249e/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple20/v4/f9/7c/af/f97caf76-fab8-31bc-2956-1dd0654064a9/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple60/v4/a7/2c/57/a72c57e4-0bef-5009-1c98-c5395823d1ca/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple18/v4/90/4f/79/904f794e-c2b3-363e-4c5c-4118dd6e7ee0/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple60/v4/cd/67/d3/cd67d381-6a18-34cf-4e75-390075d426f3/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple20/v4/a7/09/81/a70981f7-305d-cef5-c9ec-39c7aed6249e/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple20/v4/f9/7c/af/f97caf76-fab8-31bc-2956-1dd0654064a9/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple60/v4/a7/2c/57/a72c57e4-0bef-5009-1c98-c5395823d1ca/screen696x696.jpeg"
       ],
       "updated": "2020-06-19 21:17:08 UTC"
     },
@@ -1476,12 +1476,12 @@
       "source": "https://github.com/MeetPoint-App/meetpoint-ios",
       "itunes": "https://apps.apple.com/app/meetpoint-app/id1363547170",
       "screenshots": [
-        "http://meetpointapp.co/assets/images/screenshot/01.jpg",
-        "http://meetpointapp.co/assets/images/screenshot/02.jpg",
-        "http://meetpointapp.co/assets/images/screenshot/03.jpg",
-        "http://meetpointapp.co/assets/images/screenshot/04.jpg",
-        "http://meetpointapp.co/assets/images/screenshot/05.jpg",
-        "http://meetpointapp.co/assets/images/screenshot/06.jpg"
+        "https://meetpointapp.co/assets/images/screenshot/01.jpg",
+        "https://meetpointapp.co/assets/images/screenshot/02.jpg",
+        "https://meetpointapp.co/assets/images/screenshot/03.jpg",
+        "https://meetpointapp.co/assets/images/screenshot/04.jpg",
+        "https://meetpointapp.co/assets/images/screenshot/05.jpg",
+        "https://meetpointapp.co/assets/images/screenshot/06.jpg"
       ],
       "date_added": "Thu June 21 2018",
       "suggested_by": "@yusufkildan",
@@ -1615,7 +1615,7 @@
       "date_added": "Mon Jan 26 19:03:54 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple41/v4/39/79/63/39796337-2166-4778-9a89-1a1059b0c05a/screen800x500.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple41/v4/39/79/63/39796337-2166-4778-9a89-1a1059b0c05a/screen800x500.jpeg"
       ],
       "updated": "2015-04-08 12:49:02 UTC"
     },
@@ -1797,8 +1797,8 @@
         "archive"
       ],
       "screenshots": [
-        "http://res.cloudinary.com/mikkoj/image/upload/v1467119333/nortal-techday-1.mov_triupn.gif",
-        "http://res.cloudinary.com/mikkoj/image/upload/v1467119489/nortal-techday-2.mov_lcvqqx.gif"
+        "https://res.cloudinary.com/mikkoj/image/upload/v1467119333/nortal-techday-1.mov_triupn.gif",
+        "https://res.cloudinary.com/mikkoj/image/upload/v1467119489/nortal-techday-2.mov_lcvqqx.gif"
       ],
       "source": "https://github.com/mikkoj/NortalTechDay",
       "stars": 237,
@@ -1854,7 +1854,7 @@
       ],
       "source": "https://github.com/opensourceios/trySwiftApp",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple49/v4/18/81/9f/18819f2d-1bb8-feeb-bb22-89bbe85d6516/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple49/v4/18/81/9f/18819f2d-1bb8-feeb-bb22-89bbe85d6516/screen696x696.jpeg"
       ],
       "stars": 0,
       "tags": [
@@ -2025,11 +2025,11 @@
       "date_added": "Mon Apr 11 20:05:16 2016 -0500",
       "suggested_by": "@Kevin Bautista",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple20/v4/a6/14/16/a61416a0-e5cb-1166-0358-c680f2f2f42e/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple60/v4/bc/e1/11/bce111fb-5d80-a414-fc6d-6117ecc6bc5d/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple60/v4/c0/b8/6a/c0b86aa4-1d6e-1e86-6871-c975daa505da/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple18/v4/24/5f/b2/245fb21c-e2e1-7c71-4d62-7cfa8134b7ea/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple60/v4/b2/86/1a/b2861a3d-ec5d-5888-7331-c73d5c5c2859/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple20/v4/a6/14/16/a61416a0-e5cb-1166-0358-c680f2f2f42e/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple60/v4/bc/e1/11/bce111fb-5d80-a414-fc6d-6117ecc6bc5d/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple60/v4/c0/b8/6a/c0b86aa4-1d6e-1e86-6871-c975daa505da/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple18/v4/24/5f/b2/245fb21c-e2e1-7c71-4d62-7cfa8134b7ea/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple60/v4/b2/86/1a/b2861a3d-ec5d-5888-7331-c73d5c5c2859/screen696x696.jpeg"
       ]
     },
     {
@@ -2251,11 +2251,11 @@
       "date_added": "Sat Apr 11 06:07:19 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/4a/97/6b/4a976b84-565e-e7a1-b62b-b2a14b3cea7a/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple3/v4/19/23/7a/19237adf-2fa5-39aa-f92f-7c1a0f9d3c4b/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple3/v4/e0/65/f1/e065f1b2-cb58-ae9a-8b10-012dc1c81c11/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/5d/a3/69/5da3692e-96a8-7c15-d115-16bdb2e6329f/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple1/v4/ae/40/19/ae4019c9-463b-3b73-7147-1b47473596d7/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/4a/97/6b/4a976b84-565e-e7a1-b62b-b2a14b3cea7a/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple3/v4/19/23/7a/19237adf-2fa5-39aa-f92f-7c1a0f9d3c4b/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple3/v4/e0/65/f1/e065f1b2-cb58-ae9a-8b10-012dc1c81c11/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/5d/a3/69/5da3692e-96a8-7c15-d115-16bdb2e6329f/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple1/v4/ae/40/19/ae4019c9-463b-3b73-7147-1b47473596d7/screen696x696.jpeg"
       ],
       "updated": "2014-11-30 17:57:00 UTC"
     },
@@ -2295,7 +2295,7 @@
       "date_added": "Wed Jul 8 06:45:27 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg"
+        "https://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg"
       ],
       "updated": "2021-02-22 20:24:25 UTC"
     },
@@ -2356,11 +2356,11 @@
       "date_added": "Wed Jan 28 07:30:34 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple/v4/13/3d/ed/133deda0-a56e-7375-0988-77d2c10e26c5/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple4/v4/3a/f5/ff/3af5ff73-a799-2f4e-be15-6e52358a20bd/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple/v4/49/c0/23/49c02389-d6a9-5ab1-c753-2d6b190a3580/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple/v4/f0/f7/8f/f0f78f2d-96a4-32a5-275a-282fa583cb20/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple4/v4/af/09/6a/af096a8e-dc97-d4ea-bf92-253a49f08a27/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple/v4/13/3d/ed/133deda0-a56e-7375-0988-77d2c10e26c5/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple4/v4/3a/f5/ff/3af5ff73-a799-2f4e-be15-6e52358a20bd/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple/v4/49/c0/23/49c02389-d6a9-5ab1-c753-2d6b190a3580/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple/v4/f0/f7/8f/f0f78f2d-96a4-32a5-275a-282fa583cb20/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple4/v4/af/09/6a/af096a8e-dc97-d4ea-bf92-253a49f08a27/screen696x696.jpeg"
       ],
       "updated": "2015-10-15 20:12:50 UTC"
     },
@@ -2381,11 +2381,11 @@
       "date_added": "Thu Jul 9 07:45:32 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple1/v4/f7/97/46/f7974641-835a-3c11-fa55-0d08f429308c/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple3/v4/ba/3d/89/ba3d89f9-98e5-2844-3de3-b4fd23b3fab0/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/8d/20/50/8d2050d0-751a-17fa-1e25-a77abaa68de8/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple1/v4/a5/35/20/a53520fa-de31-3635-f319-c08956a5951c/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple3/v4/ca/4f/9e/ca4f9e88-4e1e-e87e-42a0-26bfa586d8b3/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple1/v4/f7/97/46/f7974641-835a-3c11-fa55-0d08f429308c/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple3/v4/ba/3d/89/ba3d89f9-98e5-2844-3de3-b4fd23b3fab0/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/8d/20/50/8d2050d0-751a-17fa-1e25-a77abaa68de8/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple1/v4/a5/35/20/a53520fa-de31-3635-f319-c08956a5951c/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple3/v4/ca/4f/9e/ca4f9e88-4e1e-e87e-42a0-26bfa586d8b3/screen696x696.jpeg"
       ],
       "updated": "2017-07-30 12:16:46 UTC"
     },
@@ -2446,11 +2446,11 @@
       "date_added": "Sat Sep 5 15:45:42 2015 +0800",
       "suggested_by": "@Chris Amanse",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple69/v4/74/bb/6d/74bb6dc2-2177-fe4b-17d3-2caa07a9cd59/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple49/v4/72/08/f6/7208f671-6648-9cb6-8ae2-2cfcbaaacaf5/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple7/v4/94/bf/a9/94bfa97b-3d91-2c54-1df7-bc738949a73d/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple18/v4/7b/ef/6f/7bef6f61-5ea6-9525-b4ee-77948bc7d3ab/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple7/v4/ef/12/d6/ef12d62a-80f1-b719-8d2b-b51e69317b7f/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple69/v4/74/bb/6d/74bb6dc2-2177-fe4b-17d3-2caa07a9cd59/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple49/v4/72/08/f6/7208f671-6648-9cb6-8ae2-2cfcbaaacaf5/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple7/v4/94/bf/a9/94bfa97b-3d91-2c54-1df7-bc738949a73d/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple18/v4/7b/ef/6f/7bef6f61-5ea6-9525-b4ee-77948bc7d3ab/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple7/v4/ef/12/d6/ef12d62a-80f1-b719-8d2b-b51e69317b7f/screen696x696.jpeg"
       ]
     },
     {
@@ -2470,10 +2470,10 @@
       "date_added": "Mon Jun 29 11:48:38 2015 +0800",
       "suggested_by": "@Joker",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple1/v4/81/de/d6/81ded63c-8a48-dff9-062f-92ac2c5299ee/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple5/v4/d2/ca/dd/d2cadd24-5d85-f613-aba2-9931cb785b65/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/82/5a/ff/825affaf-cc4a-6d24-99e0-f3197f769f58/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple7/v4/6e/03/d6/6e03d609-2cb7-4095-cc24-a63b1c8e8d12/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple1/v4/81/de/d6/81ded63c-8a48-dff9-062f-92ac2c5299ee/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple5/v4/d2/ca/dd/d2cadd24-5d85-f613-aba2-9931cb785b65/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/82/5a/ff/825affaf-cc4a-6d24-99e0-f3197f769f58/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple7/v4/6e/03/d6/6e03d609-2cb7-4095-cc24-a63b1c8e8d12/screen696x696.jpeg"
       ],
       "updated": "2017-01-12 20:44:18 UTC"
     },
@@ -2614,12 +2614,12 @@
       "suggested_by": "@etamity",
       "stars": 9,
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple49/v4/fd/71/de/fd71deb3-7e75-2d3d-5de1-e859712af0ef/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple49/v4/ba/35/35/ba35350b-2507-990a-4ee0-b1b4fa822413/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple49/v4/c2/e1/d3/c2e1d311-7d49-2d4b-5948-e13bd7066536/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple49/v4/26/32/be/2632be98-bce4-6a61-2eac-c8417e4b8b1d/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple49/v4/e9/4b/50/e94b50db-71b8-13c8-603f-8cee86236b60/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple49/v4/70/a4/7c/70a47c33-d67c-1563-3bc9-7a238f83d65b/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple49/v4/fd/71/de/fd71deb3-7e75-2d3d-5de1-e859712af0ef/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple49/v4/ba/35/35/ba35350b-2507-990a-4ee0-b1b4fa822413/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple49/v4/c2/e1/d3/c2e1d311-7d49-2d4b-5948-e13bd7066536/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple49/v4/26/32/be/2632be98-bce4-6a61-2eac-c8417e4b8b1d/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple49/v4/e9/4b/50/e94b50db-71b8-13c8-603f-8cee86236b60/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple49/v4/70/a4/7c/70a47c33-d67c-1563-3bc9-7a238f83d65b/screen696x696.jpeg"
       ],
       "updated": "2016-07-27 13:55:33 UTC"
     },
@@ -2709,7 +2709,7 @@
         "objc"
       ],
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/a6/e5/e4/a6e5e42e-cfb4-159c-8fe6-819e0db0d09c/screen480x480.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/a6/e5/e4/a6e5e42e-cfb4-159c-8fe6-819e0db0d09c/screen480x480.jpeg"
       ],
       "description": "Multiplayer programming game for learning how to code",
       "license": "mit",
@@ -2735,11 +2735,11 @@
       "date_added": "Sun Oct 25 11:26:51 2015 +0100",
       "suggested_by": "@moowahaha",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple6/v4/c6/fd/bc/c6fdbcde-afe3-a9aa-44ea-781ca2b8e468/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple22/v4/b4/4a/07/b44a070b-ec26-2b15-40d0-dc71de6daa1f/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple32/v4/32/26/2b/32262b2d-90ce-96fd-bf5a-445156aeee08/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple69/v4/8e/40/9d/8e409d97-5b09-4581-8f3f-5b7ba83c4f1d/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple32/v4/23/1f/c5/231fc547-694a-995d-13d6-7d1097487388/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple6/v4/c6/fd/bc/c6fdbcde-afe3-a9aa-44ea-781ca2b8e468/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple22/v4/b4/4a/07/b44a070b-ec26-2b15-40d0-dc71de6daa1f/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple32/v4/32/26/2b/32262b2d-90ce-96fd-bf5a-445156aeee08/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple69/v4/8e/40/9d/8e409d97-5b09-4581-8f3f-5b7ba83c4f1d/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple32/v4/23/1f/c5/231fc547-694a-995d-13d6-7d1097487388/screen696x696.jpeg"
       ],
       "updated": "2015-11-26 19:27:46 UTC"
     },
@@ -2893,17 +2893,17 @@
       ],
       "description": "Port of the popular old QBasic game with spunk",
       "source": "https://github.com/Lyndir/Gorillas",
-      "homepage": "http://gorillas.lyndir.com/",
+      "homepage": "https://gorillas.lyndir.com/",
       "itunes": "https://apps.apple.com/app/gorillas/id302275459",
       "stars": 250,
       "license": "other",
       "date_added": "Sat Mar 5 01:30:21 2016 +0100",
       "suggested_by": "@Xabier Gorostidi",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple/v4/d6/b0/0b/d6b00be6-a152-e345-d897-311826fb8c7a/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple4/v4/b2/ae/fd/b2aefdfc-0404-10c3-01f7-7c68b187d4ca/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple6/v4/ee/f0/48/eef048df-adcb-a352-cdb5-adfe31e2079e/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple6/v4/2b/7b/4f/2b7b4f5b-082f-6973-c55e-a732c01c3a19/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple/v4/d6/b0/0b/d6b00be6-a152-e345-d897-311826fb8c7a/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple4/v4/b2/ae/fd/b2aefdfc-0404-10c3-01f7-7c68b187d4ca/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple6/v4/ee/f0/48/eef048df-adcb-a352-cdb5-adfe31e2079e/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple6/v4/2b/7b/4f/2b7b4f5b-082f-6973-c55e-a732c01c3a19/screen696x696.jpeg"
       ],
       "updated": "2014-05-22 03:37:18 UTC"
     },
@@ -2989,11 +2989,11 @@
       "date_added": "Wed Feb 17 13:25:59 2016 +0800",
       "suggested_by": "@whunmr",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple6/v4/6a/6f/1f/6a6f1f51-23ab-7457-f5db-47590d971f2d/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple5/v4/cc/34/24/cc34240d-245f-4776-dc12-11c0eef68b51/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple69/v4/55/d9/20/55d9203f-ae32-c684-1cbd-328334082f2a/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple30/v4/44/51/4b/44514bb9-5c0b-ada3-eaa3-fa31fabcda90/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple6/v4/e6/ff/e8/e6ffe8ed-9702-e843-6202-c51a94b52e62/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple6/v4/6a/6f/1f/6a6f1f51-23ab-7457-f5db-47590d971f2d/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple5/v4/cc/34/24/cc34240d-245f-4776-dc12-11c0eef68b51/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple69/v4/55/d9/20/55d9203f-ae32-c684-1cbd-328334082f2a/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple30/v4/44/51/4b/44514bb9-5c0b-ada3-eaa3-fa31fabcda90/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple6/v4/e6/ff/e8/e6ffe8ed-9702-e843-6202-c51a94b52e62/screen696x696.jpeg"
       ],
       "updated": "2016-03-19 14:04:10 UTC"
     },
@@ -3070,7 +3070,7 @@
       "date_added": "Mon Apr 6 07:25:12 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple5/v4/22/a4/44/22a444e1-7626-03ee-05e7-6bdf58ea577d/screen480x480.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple5/v4/22/a4/44/22a444e1-7626-03ee-05e7-6bdf58ea577d/screen480x480.jpeg"
       ],
       "updated": "2015-05-07 00:33:27 UTC"
     },
@@ -3110,8 +3110,8 @@
       "date_added": "Tue, 19 May 2015 07:30:30 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple5/v4/7e/e4/82/7ee482ac-e8e2-edef-1187-d27110ed80d3/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/08/71/7b/08717b85-2044-bc08-0b7e-db345d80ff1d/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple5/v4/7e/e4/82/7ee482ac-e8e2-edef-1187-d27110ed80d3/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/08/71/7b/08717b85-2044-bc08-0b7e-db345d80ff1d/screen696x696.jpeg"
       ],
       "updated": "2020-10-15 15:37:48 UTC"
     },
@@ -3152,12 +3152,12 @@
       "date_added": "Tue Apr 14 11:14:52 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple69/v4/34/15/aa/3415aab3-bb08-71df-35be-156f803e04a8/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple69/v4/6f/81/89/6f81894e-754b-3056-12a3-81f0e4c6e239/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple69/v4/f8/49/97/f8499754-0be4-eb3c-f9e3-ffa9c5c6345c/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple49/v4/c9/d6/1f/c9d61f44-4ae5-5181-5052-bb1e1821a895/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple69/v4/62/35/cf/6235cf12-7979-ab53-2b97-14062bdc44fc/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple69/v4/05/86/f8/0586f8fd-b7f5-30a5-694f-bd38e2454edc/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple69/v4/34/15/aa/3415aab3-bb08-71df-35be-156f803e04a8/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple69/v4/6f/81/89/6f81894e-754b-3056-12a3-81f0e4c6e239/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple69/v4/f8/49/97/f8499754-0be4-eb3c-f9e3-ffa9c5c6345c/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple49/v4/c9/d6/1f/c9d61f44-4ae5-5181-5052-bb1e1821a895/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple69/v4/62/35/cf/6235cf12-7979-ab53-2b97-14062bdc44fc/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple69/v4/05/86/f8/0586f8fd-b7f5-30a5-694f-bd38e2454edc/screen696x696.jpeg"
       ],
       "updated": "2016-10-26 19:26:40 UTC"
     },
@@ -3200,12 +3200,12 @@
       "date_added": "Wed, 15 Apr 2015 06:59:02 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple3/v4/01/45/a4/0145a41a-cad3-58b3-6db9-20d72bc2b595/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple5/v4/9e/40/f3/9e40f3d1-90dd-ba6a-c680-9543544b4e41/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple3/v4/bb/e2/e1/bbe2e151-2884-fdf6-ba9d-5aaa76baf876/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple5/v4/61/8f/72/618f7292-b0e1-48b7-040f-05b91420d745/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple3/v4/e2/d8/c2/e2d8c2e8-f8f3-dec5-03c9-e662d10b4d69/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple5/v4/e7/4b/80/e74b80fd-e9db-3a24-83af-753964ab8288/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple3/v4/01/45/a4/0145a41a-cad3-58b3-6db9-20d72bc2b595/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple5/v4/9e/40/f3/9e40f3d1-90dd-ba6a-c680-9543544b4e41/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple3/v4/bb/e2/e1/bbe2e151-2884-fdf6-ba9d-5aaa76baf876/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple5/v4/61/8f/72/618f7292-b0e1-48b7-040f-05b91420d745/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple3/v4/e2/d8/c2/e2d8c2e8-f8f3-dec5-03c9-e662d10b4d69/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple5/v4/e7/4b/80/e74b80fd-e9db-3a24-83af-753964ab8288/screen696x696.jpeg"
       ],
       "updated": "2015-07-29 18:24:43 UTC"
     },
@@ -3266,11 +3266,11 @@
       "date_added": "Mon Apr 11 17:48:57 2016 -0500",
       "suggested_by": "@Kevin Bautista",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple69/v4/3b/93/e1/3b93e16c-298e-0f9d-2339-e81e8ec73d8a/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple69/v4/a5/0a/d9/a50ad971-6053-f4c4-2dc1-23efc843a207/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple49/v4/2f/21/50/2f21504e-ebc3-5ea9-77c9-b6d940fc7d6d/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple69/v4/4e/8c/a1/4e8ca167-df01-5d8f-ca5e-f0458099e0dc/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple69/v4/c9/53/9b/c9539bcd-3064-bdab-0192-6d82a785a458/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple69/v4/3b/93/e1/3b93e16c-298e-0f9d-2339-e81e8ec73d8a/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple69/v4/a5/0a/d9/a50ad971-6053-f4c4-2dc1-23efc843a207/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple49/v4/2f/21/50/2f21504e-ebc3-5ea9-77c9-b6d940fc7d6d/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple69/v4/4e/8c/a1/4e8ca167-df01-5d8f-ca5e-f0458099e0dc/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple69/v4/c9/53/9b/c9539bcd-3064-bdab-0192-6d82a785a458/screen696x696.jpeg"
       ],
       "updated": "2016-03-27 23:00:36 UTC"
     },
@@ -3290,11 +3290,11 @@
       "date_added": "Wed, 15 Apr 2015 06:59:02 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple69/v4/29/a9/f8/29a9f8e0-8c4e-2e07-46c7-2f0034ee9eb3/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple49/v4/ea/1f/46/ea1f46f8-f539-0bcb-348f-66721384daa7/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple49/v4/a9/91/c5/a991c55e-a298-217d-c8c6-e420409f00cb/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple69/v4/00/a5/3e/00a53e69-ae5b-130c-941f-618474ca0911/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple49/v4/83/1c/ce/831cce21-8d46-cb68-6d00-76570ed44a1e/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple69/v4/29/a9/f8/29a9f8e0-8c4e-2e07-46c7-2f0034ee9eb3/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple49/v4/ea/1f/46/ea1f46f8-f539-0bcb-348f-66721384daa7/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple49/v4/a9/91/c5/a991c55e-a298-217d-c8c6-e420409f00cb/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple69/v4/00/a5/3e/00a53e69-ae5b-130c-941f-618474ca0911/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple49/v4/83/1c/ce/831cce21-8d46-cb68-6d00-76570ed44a1e/screen696x696.jpeg"
       ],
       "updated": "2020-04-16 03:54:55 UTC"
     },
@@ -3396,8 +3396,8 @@
       "date_added": "Wed Jul 1 09:19:12 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple6/v4/28/59/25/285925a7-b4c8-0042-d59c-5ac9ae854189/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple3/v4/9f/aa/14/9faa14df-83e2-1503-67e1-d482539dca69/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple6/v4/28/59/25/285925a7-b4c8-0042-d59c-5ac9ae854189/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple3/v4/9f/aa/14/9faa14df-83e2-1503-67e1-d482539dca69/screen696x696.jpeg"
       ],
       "updated": "2016-08-23 20:59:35 UTC"
     },
@@ -3418,9 +3418,9 @@
       "date_added": "Sat May 23 08:28:22 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple7/v4/72/05/4f/72054f5a-b311-f8b4-a336-050e593cfdb1/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/1e/1c/61/1e1c6189-48d7-e952-986a-8aff9739531b/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple5/v4/ee/a7/f6/eea7f69e-cb3f-eb12-7232-d5cd07c32c8c/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple7/v4/72/05/4f/72054f5a-b311-f8b4-a336-050e593cfdb1/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/1e/1c/61/1e1c6189-48d7-e952-986a-8aff9739531b/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple5/v4/ee/a7/f6/eea7f69e-cb3f-eb12-7232-d5cd07c32c8c/screen696x696.jpeg"
       ],
       "updated": "2015-05-18 21:33:41 UTC"
     },
@@ -3436,11 +3436,11 @@
       "description": "Put all your links in one place & make them accessible with a keyboard",
       "source": "https://github.com/ayushgoel/LinkKeyboard",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple60/v4/d3/4a/5d/d34a5d0e-45f0-6605-aca6-0b86c169f6a8/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple30/v4/56/d8/5d/56d85d95-eafa-f347-31b5-0c4b0a17bcc9/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple30/v4/70/59/11/705911ee-338a-4154-6074-62c8ba5998ac/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple20/v4/23/d1/bb/23d1bb47-6aac-a6e5-4575-e8639d188af7/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple30/v4/e3/b3/98/e3b398e1-da5e-404a-067e-613a625abe1a/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple60/v4/d3/4a/5d/d34a5d0e-45f0-6605-aca6-0b86c169f6a8/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple30/v4/56/d8/5d/56d85d95-eafa-f347-31b5-0c4b0a17bcc9/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple30/v4/70/59/11/705911ee-338a-4154-6074-62c8ba5998ac/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple20/v4/23/d1/bb/23d1bb47-6aac-a6e5-4575-e8639d188af7/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple30/v4/e3/b3/98/e3b398e1-da5e-404a-067e-613a625abe1a/screen696x696.jpeg"
       ],
       "license": "mit",
       "date_added": "Thursday, 20 October 2016",
@@ -3603,11 +3603,11 @@
       "date_added": "Thu Jul 14 06:04:39 2016 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple69/v4/91/75/58/9175587b-c43c-f330-342e-da05235719c0/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple69/v4/58/10/27/58102772-bd0a-fde4-3525-01e4f35c132e/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple69/v4/d5/90/e9/d590e967-8355-db00-03a6-1adf8bccc298/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple49/v4/de/d2/b5/ded2b5b4-9414-c195-40da-36335d961d2e/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple69/v4/02/3e/29/023e2983-bb73-dc0b-a541-7887704e4fac/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple69/v4/91/75/58/9175587b-c43c-f330-342e-da05235719c0/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple69/v4/58/10/27/58102772-bd0a-fde4-3525-01e4f35c132e/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple69/v4/d5/90/e9/d590e967-8355-db00-03a6-1adf8bccc298/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple49/v4/de/d2/b5/ded2b5b4-9414-c195-40da-36335d961d2e/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple69/v4/02/3e/29/023e2983-bb73-dc0b-a541-7887704e4fac/screen696x696.jpeg"
       ],
       "updated": "2016-03-11 20:39:20 UTC"
     },
@@ -3712,7 +3712,7 @@
       "description": "iBeacon to-do reminders",
       "source": "https://github.com/TomekB/iBeaconTasks",
       "screenshots": [
-        "http://s25.postimg.org/4y6bvq67z/20140221051029-screen1.png"
+        "https://s25.postimg.org/4y6bvq67z/20140221051029-screen1.png"
       ],
       "stars": 115,
       "license": "other",
@@ -3737,11 +3737,11 @@
       "date_added": "Mon Dec 21 09:26:26 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple22/v4/21/c1/5b/21c15b39-59ac-cb25-0aea-857ada781327/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple41/v4/e9/2c/30/e92c3020-50f6-3ec9-0f05-93af09dfc536/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple41/v4/9f/63/01/9f630162-1043-5aec-83f7-38c0a056da9c/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple71/v4/38/51/6b/38516bb5-8934-1fb6-876a-9b24b3549cb4/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple62/v4/bc/20/18/bc201818-03fe-d866-a9e0-2fd72085b93a/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple22/v4/21/c1/5b/21c15b39-59ac-cb25-0aea-857ada781327/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple41/v4/e9/2c/30/e92c3020-50f6-3ec9-0f05-93af09dfc536/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple41/v4/9f/63/01/9f630162-1043-5aec-83f7-38c0a056da9c/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple71/v4/38/51/6b/38516bb5-8934-1fb6-876a-9b24b3549cb4/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple62/v4/bc/20/18/bc201818-03fe-d866-a9e0-2fd72085b93a/screen696x696.jpeg"
       ]
     },
     {
@@ -4121,7 +4121,7 @@
       "date_added": "Thu Aug 13 13:56:05 2015 -0400",
       "suggested_by": "@Jay Hickey",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple/v4/d4/c0/91/d4c09117-c6df-beaa-db5f-0566be580645/screen480x480.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple/v4/d4/c0/91/d4c09117-c6df-beaa-db5f-0566be580645/screen480x480.jpeg"
       ],
       "updated": "2019-01-04 13:01:07 UTC"
     },
@@ -4181,11 +4181,11 @@
       "date_added": "Thu Oct 1 06:12:38 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple4/v4/5b/f9/c5/5bf9c5df-5d4b-8a6d-ddab-cc1763aaf7bf/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple4/v4/f5/3b/46/f53b4695-1188-05b2-39a1-8838697940e2/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple18/v4/92/f8/1d/92f81dca-2b49-db74-de6f-aa5fc072b13f/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple69/v4/aa/4d/48/aa4d48e5-c8e3-c178-d55e-ae12a80964f2/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple60/v4/d3/01/8b/d3018b08-f3f7-ae1d-3a40-4f10ac4dfd30/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple4/v4/5b/f9/c5/5bf9c5df-5d4b-8a6d-ddab-cc1763aaf7bf/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple4/v4/f5/3b/46/f53b4695-1188-05b2-39a1-8838697940e2/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple18/v4/92/f8/1d/92f81dca-2b49-db74-de6f-aa5fc072b13f/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple69/v4/aa/4d/48/aa4d48e5-c8e3-c178-d55e-ae12a80964f2/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple60/v4/d3/01/8b/d3018b08-f3f7-ae1d-3a40-4f10ac4dfd30/screen696x696.jpeg"
       ],
       "updated": "2015-11-27 05:10:56 UTC"
     },
@@ -4269,11 +4269,11 @@
       "date_added": "Sat Jun 20 10:39:00 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple5/v4/63/78/76/637876d8-da2f-a781-3989-3676566703bb/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple3/v4/d8/55/ba/d855bade-a829-f3c3-44a0-6e0bbc015355/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple1/v4/5d/1b/b3/5d1bb332-047f-3767-b9ec-52e80311a303/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple5/v4/7c/cb/ab/7ccbab7b-104d-a08e-6a13-a384d8758558/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/63/54/a7/6354a7f6-891f-da89-b21b-1b4ab81f59cb/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple5/v4/63/78/76/637876d8-da2f-a781-3989-3676566703bb/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple3/v4/d8/55/ba/d855bade-a829-f3c3-44a0-6e0bbc015355/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple1/v4/5d/1b/b3/5d1bb332-047f-3767-b9ec-52e80311a303/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple5/v4/7c/cb/ab/7ccbab7b-104d-a08e-6a13-a384d8758558/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/63/54/a7/6354a7f6-891f-da89-b21b-1b4ab81f59cb/screen696x696.jpeg"
       ],
       "updated": "2015-06-16 01:31:27 UTC"
     },
@@ -4337,10 +4337,10 @@
       "date_added": "Tue Mar 3 07:22:33 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/7d/dc/67/7ddc6778-b5f2-acea-e384-cc5225334fca/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple3/v4/0a/c0/0a/0ac00a3c-90e5-26c6-a007-a2b8acfe5c96/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple3/v4/08/ed/f3/08edf3e4-f963-1ef9-fef4-749a5df5c543/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple3/v4/ce/c2/8b/cec28bd9-b317-71c1-cf14-e5a985543991/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/7d/dc/67/7ddc6778-b5f2-acea-e384-cc5225334fca/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple3/v4/0a/c0/0a/0ac00a3c-90e5-26c6-a007-a2b8acfe5c96/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple3/v4/08/ed/f3/08edf3e4-f963-1ef9-fef4-749a5df5c543/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple3/v4/ce/c2/8b/cec28bd9-b317-71c1-cf14-e5a985543991/screen696x696.jpeg"
       ],
       "updated": "2015-10-26 05:43:41 UTC"
     },
@@ -4424,11 +4424,11 @@
       "date_added": "Wed Jul 22 07:21:42 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple1/v4/cb/a5/c3/cba5c34b-9fc3-305d-8b45-0049b7f15067/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/c1/8f/75/c18f7559-ca52-6e65-7a66-caf7bfd9d1d3/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple7/v4/0c/43/99/0c43994d-b629-5527-ea40-793d4fee149c/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple7/v4/86/7f/bc/867fbc27-4d90-2e91-2809-48c4393f3275/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple7/v4/29/b1/31/29b13102-333b-4d80-8e12-2f8b207a05d3/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple1/v4/cb/a5/c3/cba5c34b-9fc3-305d-8b45-0049b7f15067/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/c1/8f/75/c18f7559-ca52-6e65-7a66-caf7bfd9d1d3/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple7/v4/0c/43/99/0c43994d-b629-5527-ea40-793d4fee149c/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple7/v4/86/7f/bc/867fbc27-4d90-2e91-2809-48c4393f3275/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple7/v4/29/b1/31/29b13102-333b-4d80-8e12-2f8b207a05d3/screen696x696.jpeg"
       ],
       "updated": "2015-12-18 18:16:58 UTC"
     },
@@ -4448,11 +4448,11 @@
       "date_added": "Fri, 26 Jun 2015 15:11:01 -0500",
       "suggested_by": "@kvnbautista",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple5/v4/9d/27/83/9d27832d-3c16-a64e-f3a2-7e3fbd5cc2b5/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple5/v4/ec/74/2a/ec742a14-e875-2070-178b-948def533d2e/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/9d/c4/58/9dc45823-97bd-296d-0126-fc9e86879d87/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/9f/aa/5f/9faa5ff9-d299-9859-8c8c-00d680d26dd6/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/80/1f/f7/801ff748-97f6-9092-0b7d-dda68070de3d/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple5/v4/9d/27/83/9d27832d-3c16-a64e-f3a2-7e3fbd5cc2b5/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple5/v4/ec/74/2a/ec742a14-e875-2070-178b-948def533d2e/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/9d/c4/58/9dc45823-97bd-296d-0126-fc9e86879d87/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/9f/aa/5f/9faa5ff9-d299-9859-8c8c-00d680d26dd6/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/80/1f/f7/801ff748-97f6-9092-0b7d-dda68070de3d/screen696x696.jpeg"
       ],
       "updated": "2016-02-23 15:02:54 UTC"
     },
@@ -4672,11 +4672,11 @@
       "date_added": "Tue Apr 19 10:01:56 2016 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple3/v4/b8/c5/a4/b8c5a466-4466-404a-0c8d-2b82d4b633f3/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple3/v4/79/d7/52/79d7520a-4d52-c801-0c6d-9f2a35644608/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple3/v4/2b/6b/5d/2b6b5d04-aa10-6532-05ef-d189d5d28626/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple3/v4/43/be/fd/43befdba-e3f2-d0d4-9d0b-8acacf57b8c2/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple62/v4/e4/6b/03/e46b0382-cd97-607e-de99-2800694d927f/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple3/v4/b8/c5/a4/b8c5a466-4466-404a-0c8d-2b82d4b633f3/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple3/v4/79/d7/52/79d7520a-4d52-c801-0c6d-9f2a35644608/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple3/v4/2b/6b/5d/2b6b5d04-aa10-6532-05ef-d189d5d28626/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple3/v4/43/be/fd/43befdba-e3f2-d0d4-9d0b-8acacf57b8c2/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple62/v4/e4/6b/03/e46b0382-cd97-607e-de99-2800694d927f/screen696x696.jpeg"
       ],
       "updated": "2018-06-29 05:53:11 UTC"
     },
@@ -4700,10 +4700,10 @@
       "date_added": "Sat Jun 27 07:42:10 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple/v4/ff/00/78/ff007811-7989-9a06-d917-ae2f7532177a/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple4/v4/67/7b/d9/677bd916-def9-74c9-a628-fb35197f7d66/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple/v4/e8/9c/42/e89c421c-2188-aaf4-bf1d-8decb208eda0/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple4/v4/a7/cd/22/a7cd228b-f17d-7e64-6f0b-2ae55dd6be6c/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple/v4/ff/00/78/ff007811-7989-9a06-d917-ae2f7532177a/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple4/v4/67/7b/d9/677bd916-def9-74c9-a628-fb35197f7d66/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple/v4/e8/9c/42/e89c421c-2188-aaf4-bf1d-8decb208eda0/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple4/v4/a7/cd/22/a7cd228b-f17d-7e64-6f0b-2ae55dd6be6c/screen696x696.jpeg"
       ]
     },
     {
@@ -4723,10 +4723,10 @@
       "date_added": "Wed Feb 17 10:44:11 2016 +0800",
       "suggested_by": "@John Wong",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple7/v4/53/a8/65/53a8655a-f9bc-61c5-260e-2ef534d8b950/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple1/v4/a4/1e/6d/a41e6d5b-54cd-a1e7-eafd-eb49278b26c8/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple5/v4/2f/84/19/2f8419f7-bb15-c1d2-28eb-674e780ba533/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple7/v4/52/20/0c/52200c71-07d2-a6c6-d3da-2bacf03ac0d1/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple7/v4/53/a8/65/53a8655a-f9bc-61c5-260e-2ef534d8b950/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple1/v4/a4/1e/6d/a41e6d5b-54cd-a1e7-eafd-eb49278b26c8/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple5/v4/2f/84/19/2f8419f7-bb15-c1d2-28eb-674e780ba533/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple7/v4/52/20/0c/52200c71-07d2-a6c6-d3da-2bacf03ac0d1/screen696x696.jpeg"
       ],
       "updated": "2016-10-08 14:02:55 UTC"
     },
@@ -4771,9 +4771,9 @@
       "date_added": "Sun Mar 22 17:42:59 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple1/v4/09/9c/32/099c326b-be06-90db-a070-591bb182b718/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/cf/ea/8e/cfea8e88-0160-6c53-6595-78bb802d5252/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/a6/2b/21/a62b2150-b431-4b12-2707-a681f83554aa/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple1/v4/09/9c/32/099c326b-be06-90db-a070-591bb182b718/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/cf/ea/8e/cfea8e88-0160-6c53-6595-78bb802d5252/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/a6/2b/21/a62b2150-b431-4b12-2707-a681f83554aa/screen696x696.jpeg"
       ],
       "updated": "2021-02-26 14:35:07 UTC"
     },
@@ -4898,9 +4898,9 @@
       "date_added": "Fri Oct 16 11:19:36 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple1/v4/6e/46/d1/6e46d11f-87e0-0015-cc26-d19bf960a9a9/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple5/v4/e0/29/8c/e0298c8d-bbea-170f-83b8-6939787fc024/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple3/v4/db/93/8a/db938a1c-e143-546b-c453-3b0864599163/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple1/v4/6e/46/d1/6e46d11f-87e0-0015-cc26-d19bf960a9a9/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple5/v4/e0/29/8c/e0298c8d-bbea-170f-83b8-6939787fc024/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple3/v4/db/93/8a/db938a1c-e143-546b-c453-3b0864599163/screen696x696.jpeg"
       ],
       "updated": "2015-02-08 23:44:12 UTC"
     },
@@ -4980,11 +4980,11 @@
       "date_added": "Sun Apr 19 11:53:57 2015 +0800",
       "suggested_by": "@pcqpcq",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple3/v4/15/a3/26/15a3262c-4dd0-e9c3-9215-3f30cffae17b/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple1/v4/1d/6a/c9/1d6ac957-8507-39bd-a74b-c185399b2ec6/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/78/2a/fa/782afab4-c37e-f882-cc1b-52af95d00447/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple5/v4/77/15/8a/77158a0d-e8bd-3fd5-6b23-5e6cde61b9df/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple5/v4/6a/2b/e7/6a2be7dc-361d-e815-e35c-5ce9f47cd1c3/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple3/v4/15/a3/26/15a3262c-4dd0-e9c3-9215-3f30cffae17b/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple1/v4/1d/6a/c9/1d6ac957-8507-39bd-a74b-c185399b2ec6/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/78/2a/fa/782afab4-c37e-f882-cc1b-52af95d00447/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple5/v4/77/15/8a/77158a0d-e8bd-3fd5-6b23-5e6cde61b9df/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple5/v4/6a/2b/e7/6a2be7dc-361d-e815-e35c-5ce9f47cd1c3/screen696x696.jpeg"
       ],
       "updated": "2017-02-04 05:43:15 UTC"
     },
@@ -5067,10 +5067,10 @@
       "date_added": "Thu Apr 30 07:23:12 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple1/v4/46/69/84/46698435-8f5f-dd7f-ac16-367147207a19/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple1/v4/e2/ed/6b/e2ed6bb7-0c9f-f508-b05b-f466adedbf2e/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple3/v4/af/7a/39/af7a39ec-9064-7d8b-5167-4ba6ef58c46d/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple1/v4/86/90/fc/8690fc26-a667-d618-be3d-c84cb55cdb84/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple1/v4/46/69/84/46698435-8f5f-dd7f-ac16-367147207a19/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple1/v4/e2/ed/6b/e2ed6bb7-0c9f-f508-b05b-f466adedbf2e/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple3/v4/af/7a/39/af7a39ec-9064-7d8b-5167-4ba6ef58c46d/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple1/v4/86/90/fc/8690fc26-a667-d618-be3d-c84cb55cdb84/screen696x696.jpeg"
       ],
       "updated": "2018-02-13 09:26:40 UTC"
     },
@@ -5093,9 +5093,9 @@
       "date_added": "Wed Oct 14 07:27:54 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/28/41/0c/28410cfe-5506-ebf8-1634-fec74bf240fc/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple7/v4/5c/f2/a6/5cf2a68f-cd7d-c69d-47b0-32b28986b505/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple69/v4/1a/dc/4e/1adc4edf-5b2d-eb44-0ac4-e8c03cf3ff75/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/28/41/0c/28410cfe-5506-ebf8-1634-fec74bf240fc/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple7/v4/5c/f2/a6/5cf2a68f-cd7d-c69d-47b0-32b28986b505/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple69/v4/1a/dc/4e/1adc4edf-5b2d-eb44-0ac4-e8c03cf3ff75/screen696x696.jpeg"
       ],
       "updated": "2015-08-31 17:39:45 UTC"
     },
@@ -5172,9 +5172,9 @@
       "date_added": "Tue Jan 27 07:15:41 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple1/v4/05/9a/e1/059ae1f3-83ef-e2f5-d8c6-f93e6a53dcad/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/8a/13/c0/8a13c09e-5c41-d2c9-df03-38da1596fbd7/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple5/v4/a7/12/c7/a712c7d8-dbbf-d4c3-c85a-2c93c74f039d/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple1/v4/05/9a/e1/059ae1f3-83ef-e2f5-d8c6-f93e6a53dcad/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/8a/13/c0/8a13c09e-5c41-d2c9-df03-38da1596fbd7/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple5/v4/a7/12/c7/a712c7d8-dbbf-d4c3-c85a-2c93c74f039d/screen696x696.jpeg"
       ],
       "updated": "2015-08-04 14:03:43 UTC"
     },
@@ -5284,11 +5284,11 @@
       "date_added": "Fri May 15 12:23:53 2015 -0400",
       "suggested_by": "@Sanket",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple3/v4/da/18/da/da18da5c-96e9-42cb-e181-01aebb59d499/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple1/v4/a7/7a/bc/a77abcc4-65df-4a35-4ab8-d5c231c83198/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple3/v4/c1/1b/6b/c11b6bf8-f1ce-9484-ddcb-dd3958dc76e9/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple3/v4/db/ce/8b/dbce8bbc-ecbd-9a60-8b3e-7b47bdb2c6f9/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple3/v4/ad/42/ad/ad42add7-5082-3bdd-67eb-10c428431134/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple3/v4/da/18/da/da18da5c-96e9-42cb-e181-01aebb59d499/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple1/v4/a7/7a/bc/a77abcc4-65df-4a35-4ab8-d5c231c83198/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple3/v4/c1/1b/6b/c11b6bf8-f1ce-9484-ddcb-dd3958dc76e9/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple3/v4/db/ce/8b/dbce8bbc-ecbd-9a60-8b3e-7b47bdb2c6f9/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple3/v4/ad/42/ad/ad42add7-5082-3bdd-67eb-10c428431134/screen696x696.jpeg"
       ],
       "updated": "2015-09-04 01:41:21 UTC"
     },
@@ -5486,7 +5486,7 @@
         "archive"
       ],
       "screenshots": [
-        "http://f.cl.ly/items/2m0W310X0f0J2Z0b0o2r/top.jpg"
+        "https://f.cl.ly/items/2m0W310X0f0J2Z0b0o2r/top.jpg"
       ],
       "description": "Code examples for the new functions in iOS 8",
       "license": "mit",
@@ -5794,7 +5794,7 @@
       "date_added": "Fri Mar 11 08:00:19 2016 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple5/v4/66/8b/9c/668b9cf1-3502-3683-7787-ef450ef90019/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple5/v4/66/8b/9c/668b9cf1-3502-3683-7787-ef450ef90019/screen696x696.jpeg"
       ],
       "tags": [
         "swift",
@@ -5866,11 +5866,11 @@
       "date_added": "Thu Mar 31 07:29:14 2016 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple1/v4/83/3d/68/833d684f-39f7-f310-1b18-e9a6d0f7353f/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple3/v4/c0/cc/aa/c0ccaaee-4ae8-2d84-974a-d4a3b887fa5a/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple1/v4/a3/17/ff/a317ff61-9846-47ba-0633-b3bc203326c0/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple4/v4/09/94/7f/09947fc6-28e0-0182-74d3-08f5c97c7451/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple5/v4/13/10/89/13108957-9826-ccd6-40d0-0a65f08299d4/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple1/v4/83/3d/68/833d684f-39f7-f310-1b18-e9a6d0f7353f/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple3/v4/c0/cc/aa/c0ccaaee-4ae8-2d84-974a-d4a3b887fa5a/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple1/v4/a3/17/ff/a317ff61-9846-47ba-0633-b3bc203326c0/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple4/v4/09/94/7f/09947fc6-28e0-0182-74d3-08f5c97c7451/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple5/v4/13/10/89/13108957-9826-ccd6-40d0-0a65f08299d4/screen696x696.jpeg"
       ],
       "updated": "2017-06-12 02:15:13 UTC"
     },
@@ -5952,10 +5952,10 @@
       "date_added": "Wed Apr 20 18:18:37 2016 -0500",
       "suggested_by": "@Kevin Bautista",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple5/v4/a6/87/38/a68738e5-ed64-b538-cd38-42df82d5339f/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/a3/e0/05/a3e0055b-b4fc-dc75-4276-e4e0bba4ad7b/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple7/v4/81/7d/f4/817df403-8bb2-1d31-8046-b3e6f0509e12/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple5/v4/bd/30/db/bd30dbd9-0ef6-f21a-8822-c0dd37b6f014/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple5/v4/a6/87/38/a68738e5-ed64-b538-cd38-42df82d5339f/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/a3/e0/05/a3e0055b-b4fc-dc75-4276-e4e0bba4ad7b/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple7/v4/81/7d/f4/817df403-8bb2-1d31-8046-b3e6f0509e12/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple5/v4/bd/30/db/bd30dbd9-0ef6-f21a-8822-c0dd37b6f014/screen696x696.jpeg"
       ],
       "updated": "2015-06-19 07:32:28 UTC"
     },
@@ -5975,11 +5975,11 @@
       "date_added": "Wed Feb 3 07:34:24 2016 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple49/v4/7b/87/7a/7b877a50-9913-34d0-2c17-b065abeaa351/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple69/v4/2f/ea/ae/2feaae56-46f9-16ce-1cd8-970cb5ac2d53/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple49/v4/2b/f4/0c/2bf40cc1-0dc4-e731-86ab-544c473674ea/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple69/v4/f7/2c/ef/f72cefc8-8dd4-3e9f-b7cc-84247cc30978/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple49/v4/71/50/e6/7150e6ce-963d-1383-c627-1c81f2015bbc/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple49/v4/7b/87/7a/7b877a50-9913-34d0-2c17-b065abeaa351/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple69/v4/2f/ea/ae/2feaae56-46f9-16ce-1cd8-970cb5ac2d53/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple49/v4/2b/f4/0c/2bf40cc1-0dc4-e731-86ab-544c473674ea/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple69/v4/f7/2c/ef/f72cefc8-8dd4-3e9f-b7cc-84247cc30978/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple49/v4/71/50/e6/7150e6ce-963d-1383-c627-1c81f2015bbc/screen696x696.jpeg"
       ],
       "updated": "2017-02-01 10:52:46 UTC"
     },
@@ -6118,10 +6118,10 @@
       "date_added": "Mon Nov 30 07:46:58 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple6/v4/41/c8/da/41c8dafa-79ab-3405-f45c-faf12256d62e/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple6/v4/0d/90/54/0d9054bf-a38b-9c6d-44a9-8dccf72a7917/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple/v4/df/95/0a/df950a0e-dd3a-786a-0ebe-8936062b03be/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple/v4/aa/4c/3a/aa4c3acf-4b93-ceae-2315-fd25837d2241/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple6/v4/41/c8/da/41c8dafa-79ab-3405-f45c-faf12256d62e/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple6/v4/0d/90/54/0d9054bf-a38b-9c6d-44a9-8dccf72a7917/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple/v4/df/95/0a/df950a0e-dd3a-786a-0ebe-8936062b03be/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple/v4/aa/4c/3a/aa4c3acf-4b93-ceae-2315-fd25837d2241/screen696x696.jpeg"
       ],
       "updated": "2017-08-24 15:55:42 UTC"
     },
@@ -6200,7 +6200,7 @@
         "dark sky api (forecast api)"
       ],
       "screenshots": [
-        "http://i.giphy.com/mcmrs3ArwawE0.gif"
+        "https://i.giphy.com/mcmrs3ArwawE0.gif"
       ],
       "stars": 69,
       "date_added": "Tue Jan 5 16:03:00 2016 +0000",
@@ -6316,8 +6316,8 @@
       "date_added": "Mon Jun 22 08:15:17 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg"
       ],
       "updated": "2019-08-01 15:10:13 UTC"
     },
@@ -6330,9 +6330,9 @@
         "react native"
       ],
       "screenshots": [
-        "http://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen1.png",
-        "http://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen2.png",
-        "http://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen3.png"
+        "https://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen1.png",
+        "https://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen2.png",
+        "https://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen3.png"
       ],
       "homepage": "https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp",
       "source": "https://github.com/jsphkhan/ReactNativeExamples",
@@ -6360,11 +6360,11 @@
       "date_added": "Fri Jun 19 11:11:35 2015 -0700",
       "suggested_by": "@Teng Yifei",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple7/v4/fa/17/28/fa17286e-ee25-52ea-ae4a-e75d5331ccb7/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple7/v4/21/85/b7/2185b753-ca28-b2bc-5055-cf50196d891b/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/ac/c6/74/acc67412-b02c-f077-290d-9b5fc259340c/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple1/v4/7a/78/01/7a7801d7-9c20-4e63-ab97-6fd147020bbf/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple5/v4/95/a9/82/95a9820d-a7e6-aa74-77f3-cebc26d6c146/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple7/v4/fa/17/28/fa17286e-ee25-52ea-ae4a-e75d5331ccb7/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple7/v4/21/85/b7/2185b753-ca28-b2bc-5055-cf50196d891b/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/ac/c6/74/acc67412-b02c-f077-290d-9b5fc259340c/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple1/v4/7a/78/01/7a7801d7-9c20-4e63-ab97-6fd147020bbf/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple5/v4/95/a9/82/95a9820d-a7e6-aa74-77f3-cebc26d6c146/screen696x696.jpeg"
       ],
       "updated": "2015-09-05 04:35:05 UTC"
     },
@@ -6437,11 +6437,11 @@
       "date_added": "Sat Oct 17 06:52:17 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/4f/7d/a9/4f7da952-8094-5e24-723b-c2c6d590c605/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple3/v4/00/20/8d/00208db3-aa34-7f70-0c82-ced3cf27f569/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple1/v4/ec/60/2a/ec602a8e-40e5-44bd-475c-d26d8baf6c47/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple3/v4/ca/57/7d/ca577d9b-623f-7b0c-3baa-855f783284a1/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple5/v4/69/09/1d/69091d91-c788-ab5d-467b-4866763ed7d9/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/4f/7d/a9/4f7da952-8094-5e24-723b-c2c6d590c605/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple3/v4/00/20/8d/00208db3-aa34-7f70-0c82-ced3cf27f569/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple1/v4/ec/60/2a/ec602a8e-40e5-44bd-475c-d26d8baf6c47/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple3/v4/ca/57/7d/ca577d9b-623f-7b0c-3baa-855f783284a1/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple5/v4/69/09/1d/69091d91-c788-ab5d-467b-4866763ed7d9/screen696x696.jpeg"
       ],
       "updated": "2018-03-09 02:25:44 UTC"
     },
@@ -6463,10 +6463,10 @@
       "date_added": "Mon Mar 16 07:27:08 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple4/v4/52/51/78/525178dc-a5c4-ccc3-b2bb-fb1afe4915b5/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple4/v4/f1/1f/ee/f11fee6f-f21d-af5f-3921-04f8adfecb6b/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple4/v4/ad/c0/e1/adc0e18d-ade4-d0a2-e272-ed34500e63b2/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/c7/e4/22/c7e4228e-9e7e-a42b-24bd-48663cb2ed6d/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple4/v4/52/51/78/525178dc-a5c4-ccc3-b2bb-fb1afe4915b5/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple4/v4/f1/1f/ee/f11fee6f-f21d-af5f-3921-04f8adfecb6b/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple4/v4/ad/c0/e1/adc0e18d-ade4-d0a2-e272-ed34500e63b2/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/c7/e4/22/c7e4228e-9e7e-a42b-24bd-48663cb2ed6d/screen696x696.jpeg"
       ],
       "updated": "2016-02-01 02:14:52 UTC"
     },
@@ -6509,10 +6509,10 @@
       "date_added": "Mon Oct 12 12:04:57 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple49/v4/91/f6/9c/91f69c78-b178-439c-22e1-badfc60ae90e/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple69/v4/88/3d/64/883d643a-287a-452c-c45d-5c71427c31e8/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple49/v4/35/b2/7b/35b27b0a-996c-12f1-f3a7-075791074129/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple49/v4/e7/d1/a0/e7d1a097-bbcc-f171-c6ef-3124901da147/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple49/v4/91/f6/9c/91f69c78-b178-439c-22e1-badfc60ae90e/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple69/v4/88/3d/64/883d643a-287a-452c-c45d-5c71427c31e8/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple49/v4/35/b2/7b/35b27b0a-996c-12f1-f3a7-075791074129/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple49/v4/e7/d1/a0/e7d1a097-bbcc-f171-c6ef-3124901da147/screen696x696.jpeg"
       ],
       "updated": "2016-01-08 08:23:28 UTC"
     },
@@ -6706,11 +6706,11 @@
       "date_added": "Mon Mar 16 09:42:21 2015 +0700",
       "suggested_by": "@vinhnx",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple4/v4/7c/02/41/7c024189-7030-2183-08fd-a7ae4f0dbb7f/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple4/v4/a4/cb/0d/a4cb0dba-039e-4f8e-1b44-95a946a3638f/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple3/v4/4b/2f/2a/4b2f2ade-d9dc-cd4a-cf2b-357938ba0df0/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple3/v4/d7/8a/2f/d78a2f7a-862b-c836-60c8-271d62679184/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple4/v4/72/bf/92/72bf92cd-73c6-6046-2a9a-1fb081f30fab/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple4/v4/7c/02/41/7c024189-7030-2183-08fd-a7ae4f0dbb7f/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple4/v4/a4/cb/0d/a4cb0dba-039e-4f8e-1b44-95a946a3638f/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple3/v4/4b/2f/2a/4b2f2ade-d9dc-cd4a-cf2b-357938ba0df0/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple3/v4/d7/8a/2f/d78a2f7a-862b-c836-60c8-271d62679184/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple4/v4/72/bf/92/72bf92cd-73c6-6046-2a9a-1fb081f30fab/screen696x696.jpeg"
       ],
       "updated": "2020-10-06 07:28:00 UTC"
     },
@@ -6730,7 +6730,7 @@
       "date_added": "Fri, 7 Aug 2015 07:29:07 -0700",
       "suggested_by": "@raynesio",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple62/v4/84/bc/eb/84bcebe0-eae4-e03e-af50-fc2896293c02/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple62/v4/84/bc/eb/84bcebe0-eae4-e03e-af50-fc2896293c02/screen696x696.jpeg"
       ]
     },
     {
@@ -6792,10 +6792,10 @@
       "date_added": "Tue Jan 27 07:40:30 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple5/v4/8e/b7/65/8eb765cc-9f41-3350-d2e5-b140b483ba22/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple3/v4/a7/56/6f/a7566fb2-8957-7aee-1f03-94c1eebf1c80/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple3/v4/80/cd/d2/80cdd204-4b1f-f7d0-48e7-8fa75c5f6384/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/92/5f/77/925f776e-9252-18a9-f627-420f82c16373/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple5/v4/8e/b7/65/8eb765cc-9f41-3350-d2e5-b140b483ba22/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple3/v4/a7/56/6f/a7566fb2-8957-7aee-1f03-94c1eebf1c80/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple3/v4/80/cd/d2/80cdd204-4b1f-f7d0-48e7-8fa75c5f6384/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/92/5f/77/925f776e-9252-18a9-f627-420f82c16373/screen696x696.jpeg"
       ],
       "updated": "2014-10-24 19:02:07 UTC"
     },
@@ -6835,7 +6835,7 @@
         "archive"
       ],
       "screenshots": [
-        "http://a3.mzstatic.com/eu/r30/Purple1/v4/01/df/ae/01dfaee3-3ea0-8fdc-cfb4-de38aa3cb2cd/screen696x696.jpeg"
+        "https://a3.mzstatic.com/eu/r30/Purple1/v4/01/df/ae/01dfaee3-3ea0-8fdc-cfb4-de38aa3cb2cd/screen696x696.jpeg"
       ],
       "stars": 17,
       "license": "mit",
@@ -6917,8 +6917,8 @@
       "license": "gpl-2.0",
       "source": "https://github.com/opensourceios/OpenCB",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/2f/2d/54/2f2d54db-9aae-ddba-607a-a6e2aa2567b7/screen322x572.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple5/v4/0a/7f/6a/0a7f6a07-858c-de9e-f192-3210e982baf1/screen322x572.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/2f/2d/54/2f2d54db-9aae-ddba-607a-a6e2aa2567b7/screen322x572.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple5/v4/0a/7f/6a/0a7f6a07-858c-de9e-f192-3210e982baf1/screen322x572.jpeg"
       ],
       "tags": [
         "archive"
@@ -6945,10 +6945,10 @@
       "date_added": "Tue Jan 27 07:15:41 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple/v4/d0/08/29/d00829d7-e34f-69e7-d21b-bfd3f48ae8fc/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple4/v4/9d/18/f7/9d18f743-51ef-adfa-5720-ce52057f2232/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple2/v4/85/63/c3/8563c3ce-2e2a-0a6f-472d-68b60a274841/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple/v4/e2/43/a1/e243a12f-6391-f347-c684-22e5236f0d79/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple/v4/d0/08/29/d00829d7-e34f-69e7-d21b-bfd3f48ae8fc/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple4/v4/9d/18/f7/9d18f743-51ef-adfa-5720-ce52057f2232/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple2/v4/85/63/c3/8563c3ce-2e2a-0a6f-472d-68b60a274841/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple/v4/e2/43/a1/e243a12f-6391-f347-c684-22e5236f0d79/screen696x696.jpeg"
       ],
       "updated": "2015-09-29 04:56:19 UTC"
     },
@@ -7089,10 +7089,10 @@
       "date_added": "Tue Apr 26 07:53:52 2016 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple69/v4/86/ab/68/86ab68a5-88d7-b086-da5d-1fc67b01053a/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple49/v4/59/06/4d/59064d82-a209-b76f-11d9-60cc244a3280/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple49/v4/8d/19/c8/8d19c833-2cb8-49d0-3ae3-a646d9a9a1ee/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple69/v4/02/b0/7c/02b07c1a-40ad-417a-a875-fa6b3bfbe12d/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple69/v4/86/ab/68/86ab68a5-88d7-b086-da5d-1fc67b01053a/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple49/v4/59/06/4d/59064d82-a209-b76f-11d9-60cc244a3280/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple49/v4/8d/19/c8/8d19c833-2cb8-49d0-3ae3-a646d9a9a1ee/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple69/v4/02/b0/7c/02b07c1a-40ad-417a-a875-fa6b3bfbe12d/screen696x696.jpeg"
       ],
       "updated": "2016-01-18 09:45:34 UTC"
     },
@@ -7319,7 +7319,7 @@
       "date_added": "Sun Feb 28 18:45:12 2016 +0100",
       "suggested_by": "@Carlos Butron",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple7/v4/cd/be/78/cdbe78cd-bcd6-5e05-1034-0557b115989f/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple7/v4/cd/be/78/cdbe78cd-bcd6-5e05-1034-0557b115989f/screen696x696.jpeg"
       ],
       "updated": "2015-12-03 11:59:03 UTC"
     },
@@ -7396,8 +7396,8 @@
       "date_added": "Thu Aug 20 05:14:21 2015 +0600",
       "suggested_by": "@Syed Shariefi",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple5/v4/02/fa/8e/02fa8ec3-2586-48f8-a759-42695f62dde9/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple3/v4/49/47/2c/49472c02-7607-80a8-6f0f-4b42aa0420aa/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple5/v4/02/fa/8e/02fa8ec3-2586-48f8-a759-42695f62dde9/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple3/v4/49/47/2c/49472c02-7607-80a8-6f0f-4b42aa0420aa/screen696x696.jpeg"
       ],
       "updated": "2015-10-12 08:19:13 UTC"
     },
@@ -7583,10 +7583,10 @@
       "date_added": "Thu Apr 21 07:34:31 2016 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple49/v4/f5/f4/07/f5f4071e-ba12-9c92-a931-599dcabffa71/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple49/v4/29/de/d0/29ded0fb-2754-ea0d-d0d7-ed66f26e5838/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple49/v4/aa/24/c7/aa24c7ba-6fc1-5c13-ec7c-0a8509296c95/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple49/v4/8a/d4/97/8ad49780-e8f9-a122-fbba-a0a62a08506c/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple49/v4/f5/f4/07/f5f4071e-ba12-9c92-a931-599dcabffa71/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple49/v4/29/de/d0/29ded0fb-2754-ea0d-d0d7-ed66f26e5838/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple49/v4/aa/24/c7/aa24c7ba-6fc1-5c13-ec7c-0a8509296c95/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple49/v4/8a/d4/97/8ad49780-e8f9-a122-fbba-a0a62a08506c/screen696x696.jpeg"
       ],
       "updated": "2018-08-07 08:39:05 UTC"
     },
@@ -7668,11 +7668,11 @@
       "date_added": "Sun Feb 28 16:04:01 2016 +0000",
       "suggested_by": "@daniel seán griffin",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple49/v4/4d/55/87/4d558798-7ba1-51fd-cfaf-f43073621bd2/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple69/v4/09/43/96/09439616-213a-1355-1cbd-d65626cf2bb6/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple69/v4/cd/09/c1/cd09c198-bb31-5b74-1aca-6973eeade7ae/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple49/v4/ee/cc/c0/eeccc040-d840-4c30-0dd0-037dce7ec3dd/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple69/v4/0e/36/32/0e36329c-71a0-a6af-fa2a-643a91167c05/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple49/v4/4d/55/87/4d558798-7ba1-51fd-cfaf-f43073621bd2/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple69/v4/09/43/96/09439616-213a-1355-1cbd-d65626cf2bb6/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple69/v4/cd/09/c1/cd09c198-bb31-5b74-1aca-6973eeade7ae/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple49/v4/ee/cc/c0/eeccc040-d840-4c30-0dd0-037dce7ec3dd/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple69/v4/0e/36/32/0e36329c-71a0-a6af-fa2a-643a91167c05/screen696x696.jpeg"
       ],
       "updated": "2017-11-12 23:46:06 UTC"
     },
@@ -7692,10 +7692,10 @@
       "date_added": "Mon Oct 12 08:03:06 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple3/v4/97/56/ac/9756acae-6315-37b3-3e0c-f53d7317a056/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/b9/03/90/b90390ca-787a-b0aa-f5b3-82d1ba233bd1/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple3/v4/97/98/5d/97985d61-9604-7eaa-8087-027f97beb1e8/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple3/v4/f2/22/22/f22222e3-e3cd-aa5e-9a1f-e58506c8b94e/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple3/v4/97/56/ac/9756acae-6315-37b3-3e0c-f53d7317a056/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/b9/03/90/b90390ca-787a-b0aa-f5b3-82d1ba233bd1/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple3/v4/97/98/5d/97985d61-9604-7eaa-8087-027f97beb1e8/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple3/v4/f2/22/22/f22222e3-e3cd-aa5e-9a1f-e58506c8b94e/screen696x696.jpeg"
       ],
       "updated": "2015-10-11 22:00:32 UTC"
     },
@@ -7714,9 +7714,9 @@
       "date_added": "Tue, 17 Mar 2015 14:51:44 -0400",
       "suggested_by": "@jeffreyjackson",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/7d/32/6b/7d326b7f-0913-9ffe-1b1d-f25c4672bb5e/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple3/v4/fe/f4/40/fef440e3-2a36-d849-282a-3ac6eb44c6ec/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple1/v4/4c/4b/26/4c4b26b2-71d1-1fdd-b574-afe0f217e7ed/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/7d/32/6b/7d326b7f-0913-9ffe-1b1d-f25c4672bb5e/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple3/v4/fe/f4/40/fef440e3-2a36-d849-282a-3ac6eb44c6ec/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple1/v4/4c/4b/26/4c4b26b2-71d1-1fdd-b574-afe0f217e7ed/screen696x696.jpeg"
       ],
       "stars": 0,
       "updated": "2016-02-04 17:12:02 UTC"
@@ -7797,9 +7797,9 @@
       "date_added": "Thu Mar 5 07:45:57 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/2b/7a/76/2b7a76d2-3622-dc56-fc51-38b28f5e5739/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple1/v4/95/ea/a2/95eaa213-a27b-a3c2-1060-48a003e349fc/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple5/v4/fb/76/54/fb76545d-9a8b-16b2-b94d-9f8f166af6bb/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/2b/7a/76/2b7a76d2-3622-dc56-fc51-38b28f5e5739/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple1/v4/95/ea/a2/95eaa213-a27b-a3c2-1060-48a003e349fc/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple5/v4/fb/76/54/fb76545d-9a8b-16b2-b94d-9f8f166af6bb/screen696x696.jpeg"
       ],
       "updated": "2015-09-21 12:46:46 UTC"
     },
@@ -7830,13 +7830,13 @@
         "clone"
       ],
       "description": "Instagram clone",
-      "source": "http://www.appcoda.com/instagram-app-parse-swift/",
+      "source": "https://www.appcoda.com/instagram-app-parse-swift/",
       "tags": [
         "swift",
         "archive"
       ],
       "screenshots": [
-        "http://www.appcoda.com/wp-content/uploads/2015/04/paws-demo-animation.png"
+        "https://www.appcoda.com/wp-content/uploads/2015/04/paws-demo-animation.png"
       ],
       "license": "other",
       "date_added": "Fri Apr 17 08:44:37 2015 -0700",
@@ -8460,8 +8460,8 @@
       "description": "App for managing the beer brewing process",
       "source": "https://github.com/brewfactory/BrewMobile",
       "screenshots": [
-        "http://brewfactory.org/BrewMobile/img/9_small.png",
-        "http://brewfactory.org/BrewMobile/img/8_small.png"
+        "https://brewfactory.org/BrewMobile/img/9_small.png",
+        "https://brewfactory.org/BrewMobile/img/8_small.png"
       ],
       "stars": 191,
       "tags": [
@@ -8512,11 +8512,11 @@
       "date_added": "Mon Oct 12 08:00:52 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple20/v4/ba/37/a3/ba37a3d1-622f-866f-f9eb-e2d21173cc93/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple20/v4/8e/06/d7/8e06d79a-ede3-284c-df34-9702c835a382/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple60/v4/24/11/37/2411374d-175b-7290-1f36-8190f4ee7740/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple20/v4/cb/ab/b6/cbabb6b4-854f-9b86-ddaa-d9455dc272cc/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple60/v4/a2/64/07/a2640705-ccef-163c-56e5-87a7874d9483/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple20/v4/ba/37/a3/ba37a3d1-622f-866f-f9eb-e2d21173cc93/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple20/v4/8e/06/d7/8e06d79a-ede3-284c-df34-9702c835a382/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple60/v4/24/11/37/2411374d-175b-7290-1f36-8190f4ee7740/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple20/v4/cb/ab/b6/cbabb6b4-854f-9b86-ddaa-d9455dc272cc/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple60/v4/a2/64/07/a2640705-ccef-163c-56e5-87a7874d9483/screen696x696.jpeg"
       ],
       "updated": "2018-02-05 02:11:26 UTC"
     },
@@ -8574,10 +8574,10 @@
       "date_added": "Wed Aug 12 16:37:56 2015 +0100",
       "suggested_by": "@Mark Aron Szulyovszky",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple5/v4/b9/12/55/b912554c-5eda-4866-b57a-f528ad26a6aa/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple6/v4/43/ff/b3/43ffb350-62e4-3c21-cb99-20cdb99544be/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple3/v4/8f/61/04/8f610400-1f87-1811-31a3-3a8b4994f141/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple3/v4/51/b1/27/51b1277d-e738-a4c9-6955-af828790a123/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple5/v4/b9/12/55/b912554c-5eda-4866-b57a-f528ad26a6aa/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple6/v4/43/ff/b3/43ffb350-62e4-3c21-cb99-20cdb99544be/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple3/v4/8f/61/04/8f610400-1f87-1811-31a3-3a8b4994f141/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple3/v4/51/b1/27/51b1277d-e738-a4c9-6955-af828790a123/screen696x696.jpeg"
       ],
       "updated": "2015-03-27 08:24:51 UTC"
     },
@@ -8771,8 +8771,8 @@
         "archive"
       ],
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple60/v4/59/b4/ef/59b4efea-2cfb-c615-a13f-e39956b00a0b/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple18/v4/11/f9/f5/11f9f584-027d-3947-e1f6-d60e084f9ea5/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple60/v4/59/b4/ef/59b4efea-2cfb-c615-a13f-e39956b00a0b/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple18/v4/11/f9/f5/11f9f584-027d-3947-e1f6-d60e084f9ea5/screen696x696.jpeg"
       ],
       "source": "https://github.com/opensourceios/toggle-mobile",
       "itunes": "https://apps.apple.com/app/toggl-timer/id885767775",
@@ -8825,7 +8825,7 @@
     },
     {
       "title": "RailsCasts",
-      "description": "Ruby on Rails screencasts from http://railscasts.com/",
+      "description": "Ruby on Rails screencasts",
       "category-ids": [
         "apple-tv"
       ],
@@ -8911,11 +8911,11 @@
         "archive"
       ],
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple1/v4/9a/62/aa/9a62aacf-1164-b8bd-6930-dc255845dd9f/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple3/v4/a1/8d/59/a18d5943-4879-4185-a788-022db7580328/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple3/v4/f1/cd/35/f1cd3508-e061-a706-91e0-46cb423d1be0/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple4/v4/ff/da/47/ffda478b-be96-75c3-e6cf-2fae62df7592/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple4/v4/d9/23/46/d9234681-13ea-a11c-de7c-bd2cb05ae11a/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple1/v4/9a/62/aa/9a62aacf-1164-b8bd-6930-dc255845dd9f/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple3/v4/a1/8d/59/a18d5943-4879-4185-a788-022db7580328/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple3/v4/f1/cd/35/f1cd3508-e061-a706-91e0-46cb423d1be0/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple4/v4/ff/da/47/ffda478b-be96-75c3-e6cf-2fae62df7592/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple4/v4/d9/23/46/d9234681-13ea-a11c-de7c-bd2cb05ae11a/screen696x696.jpeg"
       ],
       "stars": 3042,
       "date_added": "Mon Jan 26 19:23:07 2015 -0800",
@@ -8951,9 +8951,9 @@
         "archive"
       ],
       "screenshots": [
-        "http://a4.mzstatic.com/us/r1000/098/Purple/v4/f2/ce/23/f2ce23f1-c0f5-f589-6cf6-8afcc6f374bf/mzl.taaxblls.1136x1136-75.jpg",
-        "http://a1808.phobos.apple.com/us/r1000/070/Purple/v4/c8/df/c2/c8dfc22a-9ef2-abc1-c8a6-55faab448440/mzl.qlhvmpoi.png",
-        "http://a2.mzstatic.com/us/r1000/103/Purple2/v4/48/4c/e4/484ce4d9-7e47-b6d9-261b-d1270cd31c4d/mzl.jnoizpbg.1136x1136-75.jpg"
+        "https://a4.mzstatic.com/us/r1000/098/Purple/v4/f2/ce/23/f2ce23f1-c0f5-f589-6cf6-8afcc6f374bf/mzl.taaxblls.1136x1136-75.jpg",
+        "https://a1808.phobos.apple.com/us/r1000/070/Purple/v4/c8/df/c2/c8dfc22a-9ef2-abc1-c8a6-55faab448440/mzl.qlhvmpoi.png",
+        "https://a2.mzstatic.com/us/r1000/103/Purple2/v4/48/4c/e4/484ce4d9-7e47-b6d9-261b-d1270cd31c4d/mzl.jnoizpbg.1136x1136-75.jpg"
       ],
       "stars": 1671,
       "license": "other",
@@ -9007,7 +9007,7 @@
         "archive"
       ],
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple/v4/c9/6f/75/c96f755a-6b1d-8ded-8258-1bb578fa6349/screen320x480.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple/v4/c9/6f/75/c96f755a-6b1d-8ded-8258-1bb578fa6349/screen320x480.jpeg"
       ],
       "stars": 30,
       "license": "other",
@@ -9021,13 +9021,13 @@
         "misc"
       ],
       "source": "https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki",
-      "homepage": "http://imgur.com/a/ROZBz",
+      "homepage": "https://imgur.com/a/ROZBz",
       "tags": [
         "archive"
       ],
       "screenshots": [
-        "http://www.stwing.upenn.edu/~cyrusn/blog/pictures/PocketFlix/1.0/IMG_0002.png",
-        "http://www.stwing.upenn.edu/~cyrusn/blog/pictures/PocketFlix/1.0/IMG_0001.png"
+        "https://www.stwing.upenn.edu/~cyrusn/blog/pictures/PocketFlix/1.0/IMG_0002.png",
+        "https://www.stwing.upenn.edu/~cyrusn/blog/pictures/PocketFlix/1.0/IMG_0001.png"
       ],
       "license": "gpl-2.0",
       "date_added": "Fri May 15 12:23:53 2015 -0400",
@@ -9044,7 +9044,7 @@
         "archive"
       ],
       "screenshots": [
-        "http://f.cl.ly/items/1o0g3B3N1d1s3L3s0i3o/2013-08-22%2000.04.06_iphone_white_angle1.png"
+        "https://f.cl.ly/items/1o0g3B3N1d1s3L3s0i3o/2013-08-22%2000.04.06_iphone_white_angle1.png"
       ],
       "stars": 5,
       "date_added": "Mon Dec 21 08:55:37 2015 -0800",
@@ -9186,9 +9186,9 @@
         "c++"
       ],
       "screenshots": [
-        "http://www.ppsspp.org/img/screens/small/finalfantasycrisiscore.jpg",
-        "http://www.ppsspp.org/img/screens/small/burnoutdominator.jpg",
-        "http://www.ppsspp.org/img/screens/small/littlebigplanet.jpg"
+        "https://www.ppsspp.org/img/screens/small/finalfantasycrisiscore.jpg",
+        "https://www.ppsspp.org/img/screens/small/burnoutdominator.jpg",
+        "https://www.ppsspp.org/img/screens/small/littlebigplanet.jpg"
       ],
       "description": "PSP emulator",
       "source": "https://github.com/hrydgard/ppsspp",
@@ -9265,7 +9265,7 @@
         "objc"
       ],
       "screenshots": [
-        "http://cdn.redmondpie.com/wp-content/uploads/2015/11/ROM-List_.jpg"
+        "https://cdn.redmondpie.com/wp-content/uploads/2015/11/ROM-List_.jpg"
       ],
       "description": "Nintendo DS emulator, port of DeSmuME",
       "source": "https://github.com/raaxis/nds4ios",
@@ -9284,8 +9284,8 @@
         "objc"
       ],
       "screenshots": [
-        "http://moreinfo.thebigboss.org/moreinfo/iuae1.jpg",
-        "http://moreinfo.thebigboss.org/moreinfo/iuae4.jpg"
+        "https://moreinfo.thebigboss.org/moreinfo/iuae1.jpg",
+        "https://moreinfo.thebigboss.org/moreinfo/iuae4.jpg"
       ],
       "description": "Commodore Amiga emulator, based on UAE",
       "source": "https://github.com/emufreak/iAmiga",
@@ -9350,7 +9350,7 @@
       "date_added": "Fri May 13 18:38:28 2016 +0100",
       "suggested_by": "@Pete O'Grady",
       "screenshots": [
-        "http://a2.mzstatic.com/eu/r30/Purple1/v4/5d/9b/8d/5d9b8d65-42b1-f847-d532-bb1cf37e19c7/screen696x696.jpeg"
+        "https://a2.mzstatic.com/eu/r30/Purple1/v4/5d/9b/8d/5d9b8d65-42b1-f847-d532-bb1cf37e19c7/screen696x696.jpeg"
       ],
       "updated": "2016-05-09 19:06:54 UTC"
     },
@@ -9408,9 +9408,9 @@
       "date_added": "Wed, 18 May 2016 19:48:20 +0200",
       "suggested_by": "@matteocrippa",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple49/v4/70/f7/85/70f78511-8bc9-7151-2a5a-b057d24a91e5/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple49/v4/c5/b3/cb/c5b3cb07-fdd8-ed26-db4a-263bbb8765d9/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple49/v4/b3/cb/71/b3cb710e-b4de-adc5-2369-cfb46a2ef0a8/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple49/v4/70/f7/85/70f78511-8bc9-7151-2a5a-b057d24a91e5/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple49/v4/c5/b3/cb/c5b3cb07-fdd8-ed26-db4a-263bbb8765d9/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple49/v4/b3/cb/71/b3cb710e-b4de-adc5-2369-cfb46a2ef0a8/screen696x696.jpeg"
       ],
       "updated": "2016-05-18 18:01:04 UTC"
     },
@@ -9569,7 +9569,7 @@
       ],
       "description": "An experimental prototype calculator",
       "source": "https://github.com/bridger/NumberPad",
-      "homepage": "http://bridgermaxwell.com/blog/numberpad-notation/",
+      "homepage": "https://bridgermaxwell.com/blog/numberpad-notation/",
       "license": "apache-2.0",
       "stars": 81,
       "date_added": "Tue May 31 07:35:40 2016 -0700",
@@ -9610,7 +9610,7 @@
         "objc"
       ],
       "description": "Visualize molecules in 3D",
-      "source": "http://www.sunsetlakesoftware.com/molecules",
+      "source": "https://www.sunsetlakesoftware.com/molecules",
       "itunes": "https://apps.apple.com/app/molecules/id284943090",
       "license": "other",
       "date_added": "Tue May 31 22:58:38 2016 -0600",
@@ -9638,11 +9638,11 @@
       "date_added": "Tue May 31 23:13:24 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple6/v4/91/19/de/9119debe-4936-ac90-6fa0-6cd9bd92fd1e/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple4/v4/52/9b/45/529b453d-1cae-0720-1d9e-ef336c760f4f/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple6/v4/d5/f0/a8/d5f0a87a-3772-0e79-2709-6d5ecdf6d5d2/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple/v4/8c/8d/7b/8c8d7b2c-5739-cf8f-a3ab-d7b2c5a492b1/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple6/v4/fe/9b/1e/fe9b1e76-6717-7223-6944-c5587c834b18/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple6/v4/91/19/de/9119debe-4936-ac90-6fa0-6cd9bd92fd1e/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple4/v4/52/9b/45/529b453d-1cae-0720-1d9e-ef336c760f4f/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple6/v4/d5/f0/a8/d5f0a87a-3772-0e79-2709-6d5ecdf6d5d2/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple/v4/8c/8d/7b/8c8d7b2c-5739-cf8f-a3ab-d7b2c5a492b1/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple6/v4/fe/9b/1e/fe9b1e76-6717-7223-6944-c5587c834b18/screen696x696.jpeg"
       ]
     },
     {
@@ -9709,7 +9709,7 @@
         "archive"
       ],
       "screenshots": [
-        "http://www.guitarinfocenter.com/gameimages/aeropack1.jpg"
+        "https://www.guitarinfocenter.com/gameimages/aeropack1.jpg"
       ],
       "description": "Steampunk retro 2D platformer",
       "source": "https://github.com/insurgentgames/Aeropack",
@@ -9729,7 +9729,7 @@
         "archive"
       ],
       "screenshots": [
-        "http://cdn.iphoneincanada.ca/wp-content/uploads/2009/11/IMG_0520.PNG"
+        "https://cdn.iphoneincanada.ca/wp-content/uploads/2009/11/IMG_0520.PNG"
       ],
       "description": "Pilot a rolfcopter to collect lolcats, dodge popups, feed trolls cheezburgers & more in this side-scrolling arcade shooter",
       "source": "https://github.com/insurgentgames/teh-internets",
@@ -9755,11 +9755,11 @@
       "date_added": "Wed Jun 1 00:32:12 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple4/v4/3a/ac/87/3aac87ca-d5cc-9bea-3899-807cf211da85/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple3/v4/d8/75/0d/d8750d68-3619-b760-99c5-ec4eac12ae35/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple3/v4/41/9c/d3/419cd344-da8a-f046-3bcf-757f6f10768d/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple5/v4/11/28/6e/11286e79-b0b0-1057-7315-3e122a15a62c/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple4/v4/ca/99/1e/ca991e9e-1fe3-8764-b7f9-5c38b4c6e565/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple4/v4/3a/ac/87/3aac87ca-d5cc-9bea-3899-807cf211da85/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple3/v4/d8/75/0d/d8750d68-3619-b760-99c5-ec4eac12ae35/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple3/v4/41/9c/d3/419cd344-da8a-f046-3bcf-757f6f10768d/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple5/v4/11/28/6e/11286e79-b0b0-1057-7315-3e122a15a62c/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple4/v4/ca/99/1e/ca991e9e-1fe3-8764-b7f9-5c38b4c6e565/screen696x696.jpeg"
       ],
       "updated": "2016-05-29 18:25:35 UTC"
     },
@@ -9790,7 +9790,7 @@
       ],
       "description": "Place tiles to form your allegiance's symbols",
       "source": "https://github.com/RolandasRazma/Heredox",
-      "homepage": "http://www.heredox.com/",
+      "homepage": "https://www.heredox.com/",
       "screenshots": [
         "https://i.imgur.com/Wg6TIR7.jpg",
         "https://i.imgur.com/PatEcU8.jpg"
@@ -9818,11 +9818,11 @@
       "date_added": "Wed Jun 1 01:24:56 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple7/v4/aa/33/d8/aa33d8aa-ccb6-293d-a213-f7bd5cdc55e1/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple1/v4/2a/fe/98/2afe98b7-d218-cd50-ec2e-706bb93bd9a3/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple5/v4/ea/29/3d/ea293d10-eb58-009d-9590-51b8c647568f/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/3f/1d/0a/3f1d0a4e-da6c-b3dc-058a-44c8c562855e/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple5/v4/e0/3d/4f/e03d4f98-caed-0026-9072-0ffd5f6df2aa/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple7/v4/aa/33/d8/aa33d8aa-ccb6-293d-a213-f7bd5cdc55e1/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple1/v4/2a/fe/98/2afe98b7-d218-cd50-ec2e-706bb93bd9a3/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple5/v4/ea/29/3d/ea293d10-eb58-009d-9590-51b8c647568f/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/3f/1d/0a/3f1d0a4e-da6c-b3dc-058a-44c8c562855e/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple5/v4/e0/3d/4f/e03d4f98-caed-0026-9072-0ffd5f6df2aa/screen696x696.jpeg"
       ],
       "updated": "2014-07-03 20:36:52 UTC"
     },
@@ -9875,8 +9875,8 @@
         "game"
       ],
       "description": "Port of the classic XPilot game",
-      "source": "http://7b5labs.com/xpilot.git/",
-      "homepage": "http://7b5labs.com/xpilotiphone",
+      "source": "https://7b5labs.com/xpilot.git/",
+      "homepage": "https://7b5labs.com/xpilotiphone",
       "license": "gpl-2.0",
       "tags": [
         "archive",
@@ -9907,10 +9907,10 @@
       "date_added": "Wed Jun 1 22:22:35 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple4/v4/57/8c/17/578c175d-2dc8-ca29-104f-a83c67ce463c/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple/v4/d5/25/5e/d5255e9c-4dad-3259-4da8-34bf76ab0d1a/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple4/v4/fa/d0/be/fad0be86-d28d-7ddb-00b3-8ee90015f3d2/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple4/v4/39/b3/a2/39b3a289-16ac-a3c9-0cc2-ce99934a5002/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple4/v4/57/8c/17/578c175d-2dc8-ca29-104f-a83c67ce463c/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple/v4/d5/25/5e/d5255e9c-4dad-3259-4da8-34bf76ab0d1a/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple4/v4/fa/d0/be/fad0be86-d28d-7ddb-00b3-8ee90015f3d2/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple4/v4/39/b3/a2/39b3a289-16ac-a3c9-0cc2-ce99934a5002/screen696x696.jpeg"
       ],
       "updated": "2014-04-21 08:33:44 UTC"
     },
@@ -9949,7 +9949,7 @@
       ],
       "description": "Browse & maintain GitHub repositories",
       "source": "https://github.com/CodeHubApp/CodeHub",
-      "homepage": "http://codehub-app.com/",
+      "homepage": "https://codehub-app.com/",
       "itunes": "https://apps.apple.com/app/id707173885",
       "license": "other",
       "stars": 23172,
@@ -10044,11 +10044,11 @@
         "archive"
       ],
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple6/v4/61/e1/45/61e14599-9ddb-b299-9339-7bf09a85fd55/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple/v4/59/b5/e0/59b5e0e1-3b1b-b29e-1093-fbe3273157ff/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple4/v4/52/87/67/52876746-f548-1e4b-2f6c-6fedd5beef7e/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple4/v4/d6/25/c8/d625c8ef-42a8-7868-ac72-16430d62adb3/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple/v4/30/b9/a9/30b9a99c-e4fc-262d-94f0-9888aed89177/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple6/v4/61/e1/45/61e14599-9ddb-b299-9339-7bf09a85fd55/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple/v4/59/b5/e0/59b5e0e1-3b1b-b29e-1093-fbe3273157ff/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple4/v4/52/87/67/52876746-f548-1e4b-2f6c-6fedd5beef7e/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple4/v4/d6/25/c8/d625c8ef-42a8-7868-ac72-16430d62adb3/screen696x696.jpeg"
       ],
       "description": "Cast spells in single or multiplayer wizard duels",
       "source": "https://github.com/seanhess/wizardwar",
@@ -10069,7 +10069,6 @@
       ],
       "description": "A comprehensive barcode reader",
       "source": "https://sourceforge.net/projects/zbar/",
-      "homepage": "http://zbar.sourceforge.net/",
       "license": "lgpl-2.1",
       "date_added": "Wed Jun 1 22:58:57 2016 -0600",
       "suggested_by": "@scribblemaniac",
@@ -10366,7 +10365,7 @@
         "objc"
       ],
       "description": "A PDF, XPS/OpenXPS, CBZ & EPUB document viewer",
-      "source": "http://git.ghostscript.com/?p=mupdf.git;a=summary",
+      "source": "https://git.ghostscript.com/?p=mupdf.git;a=summary",
       "homepage": "https://mupdf.com/",
       "itunes": "https://apps.apple.com/app/id482941798",
       "license": "agpl-3.0",
@@ -10412,8 +10411,8 @@
         "objc"
       ],
       "description": "A turn-based strategy game",
-      "source": "http://hg.hedgewars.org/hedgewars/",
-      "homepage": "http://www.hedgewars.org/",
+      "source": "https://hg.hedgewars.org/hedgewars/",
+      "homepage": "https://www.hedgewars.org/",
       "itunes": "https://apps.apple.com/app/id391234866",
       "license": "gpl-2.0",
       "date_added": "Thu Jun 2 00:07:12 2016 -0600",
@@ -10469,10 +10468,10 @@
       "date_added": "Thu Jun 2 00:25:37 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple69/v4/88/d6/7e/88d67efd-b235-e4ac-fe33-0f9c6a48717d/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple7/v4/cd/91/fb/cd91fbc1-927a-68dc-0d06-6abd52627ff0/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple2/v4/55/27/2c/55272c66-e389-5b0c-ceab-9165d3b4a9ec/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple49/v4/ce/78/dc/ce78dc5a-2c47-0c12-309c-a821bbb8e4f3/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple69/v4/88/d6/7e/88d67efd-b235-e4ac-fe33-0f9c6a48717d/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple7/v4/cd/91/fb/cd91fbc1-927a-68dc-0d06-6abd52627ff0/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple2/v4/55/27/2c/55272c66-e389-5b0c-ceab-9165d3b4a9ec/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple49/v4/ce/78/dc/ce78dc5a-2c47-0c12-309c-a821bbb8e4f3/screen696x696.jpeg"
       ],
       "updated": "2018-03-27 17:07:23 UTC"
     },
@@ -10558,16 +10557,16 @@
       ],
       "description": "Advanced music visualization",
       "source": "https://sourceforge.net/projects/projectm/",
-      "homepage": "http://projectm.sourceforge.net/",
+      "homepage": "https://projectm.sourceforge.net/",
       "license": "gpl-2.0",
       "date_added": "Thu Jun 2 00:46:32 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple7/v4/44/17/41/44174112-c9f9-1719-8967-c43cb42bbf26/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple7/v4/80/05/55/8005556a-437c-2d6a-d41d-044fc4e6740a/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple5/v4/1a/6e/8e/1a6e8ef0-998f-34e4-7c92-f41de9227c73/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple2/v4/35/c4/e2/35c4e23b-7eae-f138-a333-66e92b4c63dc/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/f3/8a/2b/f38a2bcd-e5d9-22b8-61cd-0b9e4cc159ae/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple7/v4/44/17/41/44174112-c9f9-1719-8967-c43cb42bbf26/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple7/v4/80/05/55/8005556a-437c-2d6a-d41d-044fc4e6740a/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple5/v4/1a/6e/8e/1a6e8ef0-998f-34e4-7c92-f41de9227c73/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple2/v4/35/c4/e2/35c4e23b-7eae-f138-a333-66e92b4c63dc/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/f3/8a/2b/f38a2bcd-e5d9-22b8-61cd-0b9e4cc159ae/screen696x696.jpeg"
       ]
     },
     {
@@ -10648,7 +10647,7 @@
       "description": "Location tracking where data can be shared over public or private servers",
       "license": "bsd-2-clause",
       "source": "https://github.com/miataru/miataru-ios-client",
-      "homepage": "http://miataru.com/ios/",
+      "homepage": "https://miataru.com/ios/",
       "itunes": "https://apps.apple.com/app/id717539389",
       "stars": 13,
       "date_added": "Thu Jun 2 01:14:28 2016 -0600",
@@ -10792,11 +10791,11 @@
       "date_added": "Sat, 11 Jun 2016 20:43:53 +0200",
       "suggested_by": "@matteocrippa",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple1/v4/95/16/1a/95161a0b-1f38-d1e3-d535-bab4fdc95cb8/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple1/v4/de/40/91/de4091f4-de82-f018-03b1-67224139f3df/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple1/v4/f3/26/ae/f326aee3-af48-fc10-746e-898072b7d931/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple4/v4/65/33/cf/6533cfdf-3c11-91ad-86c3-707dfdd42e5b/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple49/v4/54/3b/9e/543b9e97-0797-8058-5cbb-e430d6dc605b/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple1/v4/95/16/1a/95161a0b-1f38-d1e3-d535-bab4fdc95cb8/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple1/v4/de/40/91/de4091f4-de82-f018-03b1-67224139f3df/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple1/v4/f3/26/ae/f326aee3-af48-fc10-746e-898072b7d931/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple4/v4/65/33/cf/6533cfdf-3c11-91ad-86c3-707dfdd42e5b/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple49/v4/54/3b/9e/543b9e97-0797-8058-5cbb-e430d6dc605b/screen696x696.jpeg"
       ],
       "updated": "2018-10-05 16:59:37 UTC"
     },
@@ -10816,7 +10815,7 @@
       "date_added": "Sun Jun 12 05:11:26 2016 +0800",
       "suggested_by": "@Xinghua Fan",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple60/v4/4a/73/de/4a73decc-8bd5-3f57-9a75-fe59403e2030/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple60/v4/4a/73/de/4a73decc-8bd5-3f57-9a75-fe59403e2030/screen696x696.jpeg"
       ],
       "license": "other"
     },
@@ -10922,12 +10921,12 @@
       "date_added": "Fri Jun 17 21:09:54 2016 +0800",
       "suggested_by": "@herrkaefer",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple1/v4/b2/6c/9c/b26c9cfb-91da-df36-7c08-b9d6b22dae24/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple7/v4/f6/37/56/f6375600-df23-5faf-79b0-0214f031d847/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple7/v4/96/e7/3b/96e73bf8-a1cf-7b66-d5e6-6829d2a540a6/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple7/v4/ce/20/13/ce2013e4-fc70-0b41-718d-c391bb3d9b9e/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/d4/4b/25/d44b2552-cc5f-3b56-74ac-513ee347da0a/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple7/v4/2a/53/4b/2a534b42-ebef-537e-f7ff-9b90ef827922/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple1/v4/b2/6c/9c/b26c9cfb-91da-df36-7c08-b9d6b22dae24/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple7/v4/f6/37/56/f6375600-df23-5faf-79b0-0214f031d847/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple7/v4/96/e7/3b/96e73bf8-a1cf-7b66-d5e6-6829d2a540a6/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple7/v4/ce/20/13/ce2013e4-fc70-0b41-718d-c391bb3d9b9e/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/d4/4b/25/d44b2552-cc5f-3b56-74ac-513ee347da0a/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple7/v4/2a/53/4b/2a534b42-ebef-537e-f7ff-9b90ef827922/screen696x696.jpeg"
       ],
       "updated": "2017-06-15 02:57:22 UTC"
     },
@@ -11073,11 +11072,11 @@
       "date_added": "Thu Jun 30 09:00:57 2016 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple20/v4/2c/b0/76/2cb07652-ae2c-d915-2795-32d1862b5f11/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple18/v4/4a/1f/c4/4a1fc48b-8d25-4626-9a3d-82fa2b3cbee9/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple18/v4/68/8e/96/688e9627-19b1-8366-297d-278960065bda/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple30/v4/23/04/99/2304999f-cdf5-882b-8ed3-11bbd82329b5/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple18/v4/4a/5f/9d/4a5f9de7-92c3-a411-9ebd-c7a3a146f4a0/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple20/v4/2c/b0/76/2cb07652-ae2c-d915-2795-32d1862b5f11/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple18/v4/4a/1f/c4/4a1fc48b-8d25-4626-9a3d-82fa2b3cbee9/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple18/v4/68/8e/96/688e9627-19b1-8366-297d-278960065bda/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple30/v4/23/04/99/2304999f-cdf5-882b-8ed3-11bbd82329b5/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple18/v4/4a/5f/9d/4a5f9de7-92c3-a411-9ebd-c7a3a146f4a0/screen696x696.jpeg"
       ],
       "updated": "2016-07-31 05:16:57 UTC"
     },
@@ -11301,7 +11300,7 @@
       "description": "Ad blocker for creative, web & design ads",
       "license": "bsd-3-clause",
       "source": "https://github.com/pkamb/swab",
-      "homepage": "http://swabthe.com/",
+      "homepage": "https://swabthe.com/",
       "itunes": "https://apps.apple.com/app/swab-content-blocker-creative/id1042086002",
       "tags": [
         "swift"
@@ -11444,10 +11443,10 @@
       "date_added": "Mon Jul 11 11:38:05 2016 -0600",
       "suggested_by": "@Christopher Jimenez",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple49/v4/8a/a1/9d/8aa19d98-cde0-1260-9391-8cc9d27019f6/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple49/v4/55/17/3e/55173edb-4240-952f-6a4c-a7d39b8db7b7/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple49/v4/51/2a/79/512a7981-d796-8dae-ac21-68a8b02ea85f/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple49/v4/30/e5/2f/30e52ff8-8f01-870e-fb16-b5a6d16e9ad3/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple49/v4/8a/a1/9d/8aa19d98-cde0-1260-9391-8cc9d27019f6/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple49/v4/55/17/3e/55173edb-4240-952f-6a4c-a7d39b8db7b7/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple49/v4/51/2a/79/512a7981-d796-8dae-ac21-68a8b02ea85f/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple49/v4/30/e5/2f/30e52ff8-8f01-870e-fb16-b5a6d16e9ad3/screen696x696.jpeg"
       ],
       "updated": "2016-05-24 19:01:52 UTC"
     },
@@ -11469,10 +11468,10 @@
       "date_added": "Mon Jul 11 21:20:33 2016 +0200",
       "suggested_by": "@JRock007",
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple20/v4/cb/fa/27/cbfa272c-7787-ed8a-3fc4-dc6926f3932e/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple60/v4/36/1c/99/361c9989-1abe-90e1-c1b6-b6cfebaeda56/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple30/v4/9c/c6/87/9cc68726-80a3-1289-0848-de0b745a31aa/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple20/v4/b5/22/48/b52248a7-2d0b-7f68-3985-cbac5d7bcd3e/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple20/v4/cb/fa/27/cbfa272c-7787-ed8a-3fc4-dc6926f3932e/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple60/v4/36/1c/99/361c9989-1abe-90e1-c1b6-b6cfebaeda56/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple30/v4/9c/c6/87/9cc68726-80a3-1289-0848-de0b745a31aa/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple20/v4/b5/22/48/b52248a7-2d0b-7f68-3985-cbac5d7bcd3e/screen696x696.jpeg"
       ]
     },
     {
@@ -11537,11 +11536,11 @@
       "suggested_by": "@dkhamsing",
       "stars": 15,
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple3/v4/b3/63/b0/b363b05e-8d4a-a8b5-1591-efc0cce59314/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple3/v4/a0/c4/6d/a0c46d99-a34e-d317-5df2-8b348850c20a/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple5/v4/8c/08/eb/8c08ebfd-da89-af44-c1c5-9c39ec464576/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple5/v4/fd/9d/3d/fd9d3d73-3a97-af1c-d421-abf38b518f24/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/eb/3c/49/eb3c4940-c927-284d-0dfb-e96eb4ca0703/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple3/v4/b3/63/b0/b363b05e-8d4a-a8b5-1591-efc0cce59314/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple3/v4/a0/c4/6d/a0c46d99-a34e-d317-5df2-8b348850c20a/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple5/v4/8c/08/eb/8c08ebfd-da89-af44-c1c5-9c39ec464576/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple5/v4/fd/9d/3d/fd9d3d73-3a97-af1c-d421-abf38b518f24/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/eb/3c/49/eb3c4940-c927-284d-0dfb-e96eb4ca0703/screen696x696.jpeg"
       ],
       "updated": "2015-03-04 02:46:11 UTC"
     },
@@ -11794,7 +11793,7 @@
       "suggested_by": "@lfarah",
       "stars": 549,
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple60/v4/81/ee/c1/81eec17b-96c0-6b5c-de9b-da1515ffc3f9/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple60/v4/81/ee/c1/81eec17b-96c0-6b5c-de9b-da1515ffc3f9/screen696x696.jpeg"
       ],
       "updated": "2017-06-14 13:08:56 UTC"
     },
@@ -11975,7 +11974,7 @@
       "date_added": "Jul 28 2016",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple111/v4/be/d3/72/bed372f2-d1fb-511b-8e76-d55a7805fc64/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple111/v4/be/d3/72/bed372f2-d1fb-511b-8e76-d55a7805fc64/screen696x696.jpeg"
       ],
       "stars": 91,
       "updated": "2017-07-26 06:53:03 UTC"
@@ -12034,11 +12033,11 @@
         "archive"
       ],
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple49/v4/a3/ae/9e/a3ae9e2a-6586-5f76-2ff7-6373a7a40d9f/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple69/v4/52/2b/46/522b460b-ac91-ee2e-de45-a17d2947f00b/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple49/v4/1f/5e/0a/1f5e0a2a-5b04-7ffc-9dca-e373ba2deb4b/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple49/v4/7c/f8/36/7cf8369a-56a5-b59c-3a65-763cd468740b/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple69/v4/19/70/ee/1970eed8-6dea-c646-a99a-bb4752ab2339/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple49/v4/a3/ae/9e/a3ae9e2a-6586-5f76-2ff7-6373a7a40d9f/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple69/v4/52/2b/46/522b460b-ac91-ee2e-de45-a17d2947f00b/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple49/v4/1f/5e/0a/1f5e0a2a-5b04-7ffc-9dca-e373ba2deb4b/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple49/v4/7c/f8/36/7cf8369a-56a5-b59c-3a65-763cd468740b/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple69/v4/19/70/ee/1970eed8-6dea-c646-a99a-bb4752ab2339/screen696x696.jpeg"
       ],
       "date_added": "Aug 2 2016",
       "suggested_by": "@dkhamsing",
@@ -12059,7 +12058,7 @@
       "date_added": "Aug 4 2016",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple1/v4/7a/5f/b7/7a5fb7a2-e038-2b81-63b6-8b76872b86fe/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple1/v4/7a/5f/b7/7a5fb7a2-e038-2b81-63b6-8b76872b86fe/screen696x696.jpeg"
       ],
       "updated": "2017-03-24 12:56:39 UTC"
     },
@@ -12261,7 +12260,7 @@
       "date_added": "Aug 20 2016",
       "suggested_by": "@yavuz",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/75/87/99/75879937-4c0d-a6df-ac99-e1f9b30b8e66/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/75/87/99/75879937-4c0d-a6df-ac99-e1f9b30b8e66/screen696x696.jpeg"
       ],
       "updated": "2016-08-10 22:02:36 UTC"
     },
@@ -12299,7 +12298,7 @@
       "itunes": "https://apps.apple.com/app/pi-a-students-dream/id1117743302",
       "license": "mit",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple60/v4/44/b7/13/44b713c0-a307-b098-f835-33f2ec471436/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple60/v4/44/b7/13/44b713c0-a307-b098-f835-33f2ec471436/screen696x696.jpeg"
       ],
       "tags": [
         "archive"
@@ -12481,7 +12480,7 @@
         "archive"
       ],
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple18/v4/f9/5c/67/f95c6741-8c28-958e-f532-1eb7ec8fe792/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple18/v4/f9/5c/67/f95c6741-8c28-958e-f532-1eb7ec8fe792/screen696x696.jpeg"
       ],
       "lang": "zho",
       "license": "mit",
@@ -12672,7 +12671,7 @@
       "lang": "fra",
       "source": "https://github.com/tpgoffline/tpg-offline-iOS",
       "screenshots": [
-        "http://is5.mzstatic.com/image/thumb/Purple118/v4/89/93/38/8993388e-d712-f774-f418-a3662a60aef1/source/392x696bb.jpg"
+        "https://is5.mzstatic.com/image/thumb/Purple118/v4/89/93/38/8993388e-d712-f774-f418-a3662a60aef1/source/392x696bb.jpg"
       ],
       "license": "mit",
       "date_added": "Oct 14 2016",
@@ -12763,9 +12762,9 @@
         "archive"
       ],
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple49/v4/6a/24/b7/6a24b73c-dc99-d96f-93e8-268f9bb74268/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple49/v4/ad/59/63/ad59636f-7605-60dd-17ac-319075222468/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple49/v4/e5/62/50/e56250a9-07b0-ca33-58e4-33124aff6fab/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple49/v4/6a/24/b7/6a24b73c-dc99-d96f-93e8-268f9bb74268/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple49/v4/ad/59/63/ad59636f-7605-60dd-17ac-319075222468/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple49/v4/e5/62/50/e56250a9-07b0-ca33-58e4-33124aff6fab/screen696x696.jpeg"
       ],
       "license": "mit",
       "date_added": "Oct 25 2016",
@@ -12824,11 +12823,11 @@
       ],
       "source": "https://github.com/xyclos/BatLovesBugs",
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple1/v4/9a/1a/f9/9a1af9cc-7db1-7985-a14f-b5ccdfcc985b/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple3/v4/da/43/ec/da43ecba-523c-02b4-1391-1b9104e8f5cc/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple3/v4/c1/78/f6/c178f6ab-6803-430d-5028-a764015d240d/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple1/v4/27/44/51/2744512c-9a1a-0e68-2cd1-7aa8392a7ddd/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple5/v4/88/f1/33/88f13350-94f9-7248-2fb7-9bed86ff3179/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple1/v4/9a/1a/f9/9a1af9cc-7db1-7985-a14f-b5ccdfcc985b/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple3/v4/da/43/ec/da43ecba-523c-02b4-1391-1b9104e8f5cc/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple3/v4/c1/78/f6/c178f6ab-6803-430d-5028-a764015d240d/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple1/v4/27/44/51/2744512c-9a1a-0e68-2cd1-7aa8392a7ddd/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple5/v4/88/f1/33/88f13350-94f9-7248-2fb7-9bed86ff3179/screen696x696.jpeg"
       ],
       "description": "Eat as many bugs as you can catch",
       "license": "other",
@@ -13037,7 +13036,7 @@
         "archive"
       ],
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple62/v4/9a/a7/5b/9aa75b3a-0dec-0834-7475-dbd611e0ba5d/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple62/v4/9a/a7/5b/9aa75b3a-0dec-0834-7475-dbd611e0ba5d/screen696x696.jpeg"
       ],
       "license": "mit",
       "date_added": "Nov 2 2016",
@@ -13187,7 +13186,7 @@
         "javascript"
       ],
       "source": "https://github.com/Jasonette/JASONETTE-iOS",
-      "homepage": "http://jasonette.com/",
+      "homepage": "https://jasonette.com/",
       "screenshots": [
         "https://github.com/Jasonette/Instagram-UI-example/raw/master/images/instagram.gif"
       ],
@@ -13323,11 +13322,11 @@
       "license": "mit",
       "source": "https://github.com/chauvincent/CodeSprint-iOS",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple62/v4/95/15/ad/9515add9-5322-a96e-5ab6-bbd258d524d5/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple71/v4/3e/95/f0/3e95f062-ed08-1a9f-b64a-f7cc05930e42/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple62/v4/88/94/25/88942500-f5ea-c03f-41d6-81477f9b78f9/screen696x696.jpeg",
-        "http://a3.mzstatic.com/us/r30/Purple62/v4/36/1c/42/361c4270-a061-f7fc-19fa-91e4321aecc4/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple62/v4/5a/47/90/5a47904c-a86c-336d-c105-9dd20dac1872/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple62/v4/95/15/ad/9515add9-5322-a96e-5ab6-bbd258d524d5/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple71/v4/3e/95/f0/3e95f062-ed08-1a9f-b64a-f7cc05930e42/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple62/v4/88/94/25/88942500-f5ea-c03f-41d6-81477f9b78f9/screen696x696.jpeg",
+        "https://a3.mzstatic.com/us/r30/Purple62/v4/36/1c/42/361c4270-a061-f7fc-19fa-91e4321aecc4/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple62/v4/5a/47/90/5a47904c-a86c-336d-c105-9dd20dac1872/screen696x696.jpeg"
       ],
       "date_added": "Nov 23 2016",
       "suggested_by": "@chauvincent",
@@ -13464,8 +13463,8 @@
       ],
       "source": "https://github.com/tastejs/PropertyCross/tree/master/xamarin",
       "screenshots": [
-        "http://propertycross.com/frameworks/xamarin/ios/PropertyCross.thumbnail.png",
-        "http://propertycross.com/frameworks/xamarin/ios/SearchResults.thumbnail.png"
+        "https://propertycross.com/frameworks/xamarin/ios/PropertyCross.thumbnail.png",
+        "https://propertycross.com/frameworks/xamarin/ios/SearchResults.thumbnail.png"
       ],
       "tags": [
         "csharp"
@@ -13543,12 +13542,11 @@
       "description": "A simple synthesiser, based on the Korg Monotron Delay",
       "source": "https://github.com/jkandzi/Monotone-Delay",
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple5/v4/7d/be/82/7dbe82a0-26a2-ec64-2804-47de55caa190/screen520x924.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple5/v4/7d/be/82/7dbe82a0-26a2-ec64-2804-47de55caa190/screen520x924.jpeg"
       ],
       "date_added": "Dec 21 2016",
       "suggested_by": "@jkandzi",
       "license": "mit",
-      "homepage": "http://monotone.justuskandzi.com",
       "itunes": "https://apps.apple.com/app/monotone-delay/id737483162",
       "stars": 14,
       "updated": "2016-12-21 19:39:53 UTC"
@@ -13566,11 +13564,11 @@
         "archive"
       ],
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple1/v4/ff/44/1f/ff441f09-8a8f-b839-b9be-e80d614318c9/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple1/v4/13/fe/a1/13fea138-ceff-8ff1-a768-6840ce787ddd/screen696x696.jpeg",
-        "http://a1.mzstatic.com/us/r30/Purple5/v4/f3/b0/79/f3b07907-a0f8-21e1-cceb-b623cf786020/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple1/v4/4d/30/a9/4d30a9a7-b8bc-eb8b-a038-1db045a18524/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple3/v4/de/2b/09/de2b09a8-b6f6-9558-28bb-ce2ce90c471c/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple1/v4/ff/44/1f/ff441f09-8a8f-b839-b9be-e80d614318c9/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple1/v4/13/fe/a1/13fea138-ceff-8ff1-a768-6840ce787ddd/screen696x696.jpeg",
+        "https://a1.mzstatic.com/us/r30/Purple5/v4/f3/b0/79/f3b07907-a0f8-21e1-cceb-b623cf786020/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple1/v4/4d/30/a9/4d30a9a7-b8bc-eb8b-a038-1db045a18524/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple3/v4/de/2b/09/de2b09a8-b6f6-9558-28bb-ce2ce90c471c/screen696x696.jpeg"
       ],
       "license": "mit",
       "date_added": "Dec 21 2016",
@@ -13616,9 +13614,9 @@
         "archive"
       ],
       "screenshots": [
-        "http://www.okanarikan.com/assets/Apps/Pickery/Screen1.jpg",
-        "http://www.okanarikan.com/assets/Apps/Pickery/Screen2.jpg",
-        "http://www.okanarikan.com/assets/Apps/Pickery/Screen3.jpg"
+        "https://www.okanarikan.com/assets/Apps/Pickery/Screen1.jpg",
+        "https://www.okanarikan.com/assets/Apps/Pickery/Screen2.jpg",
+        "https://www.okanarikan.com/assets/Apps/Pickery/Screen3.jpg"
       ],
       "license": "mit",
       "date_added": "Jan 10 2017",
@@ -13660,7 +13658,7 @@
         "react-native"
       ],
       "screenshots": [
-        "http://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg"
+        "https://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg"
       ],
       "license": "other",
       "date_added": "Jan 18 2017",
@@ -13849,7 +13847,7 @@
         "dlopen"
       ],
       "screenshots": [
-        "http://hccdata.s3.amazonaws.com/gh_mobileterm_1.jpg"
+        "https://hccdata.s3.amazonaws.com/gh_mobileterm_1.jpg"
       ],
       "license": "other",
       "date_added": "Feb 6 2017",
@@ -14451,11 +14449,11 @@
         "swift"
       ],
       "screenshots": [
-        "http://samwoolf.net/wp-content/uploads/2017/03/crimemapper1a-1.jpg",
-        "http://samwoolf.net/wp-content/uploads/2017/03/crimemapper2a.jpg",
-        "http://samwoolf.net/wp-content/uploads/2017/03/crimemapper3a.jpg",
-        "http://samwoolf.net/wp-content/uploads/2017/03/crimemapper4a.jpg",
-        "http://samwoolf.net/wp-content/uploads/2017/03/crimemapper5a.jpg"
+        "https://samwoolf.net/wp-content/uploads/2017/03/crimemapper1a-1.jpg",
+        "https://samwoolf.net/wp-content/uploads/2017/03/crimemapper2a.jpg",
+        "https://samwoolf.net/wp-content/uploads/2017/03/crimemapper3a.jpg",
+        "https://samwoolf.net/wp-content/uploads/2017/03/crimemapper4a.jpg",
+        "https://samwoolf.net/wp-content/uploads/2017/03/crimemapper5a.jpg"
       ],
       "date_added": "April 6 2017",
       "suggested_by": "@swwol",
@@ -14577,7 +14575,7 @@
         "archive"
       ],
       "screenshots": [
-        "http://fat.gfycat.com/MajesticAntiqueKagu.gif"
+        "https://fat.gfycat.com/MajesticAntiqueKagu.gif"
       ],
       "category-ids": [
         "weather"
@@ -14620,10 +14618,10 @@
         "timer"
       ],
       "screenshots": [
-        "http://is2.mzstatic.com/image/thumb/Purple71/v4/b8/28/80/b82880a1-b833-6fdf-e381-996d9b5efbe9/source/392x696bb.jpg",
-        "http://is4.mzstatic.com/image/thumb/Purple62/v4/b1/93/93/b19393b8-4f40-da6f-5782-9dc064a00b7a/source/392x696bb.jpg",
-        "http://is1.mzstatic.com/image/thumb/Purple62/v4/f0/97/48/f0974881-d371-ed70-ee40-d813d5253a81/source/392x696bb.jpg",
-        "http://is3.mzstatic.com/image/thumb/Purple71/v4/17/6b/c3/176bc37e-da3d-7b14-3983-7fe1e255dc3d/source/392x696bb.jpg"
+        "https://is2.mzstatic.com/image/thumb/Purple71/v4/b8/28/80/b82880a1-b833-6fdf-e381-996d9b5efbe9/source/392x696bb.jpg",
+        "https://is4.mzstatic.com/image/thumb/Purple62/v4/b1/93/93/b19393b8-4f40-da6f-5782-9dc064a00b7a/source/392x696bb.jpg",
+        "https://is1.mzstatic.com/image/thumb/Purple62/v4/f0/97/48/f0974881-d371-ed70-ee40-d813d5253a81/source/392x696bb.jpg",
+        "https://is3.mzstatic.com/image/thumb/Purple71/v4/17/6b/c3/176bc37e-da3d-7b14-3983-7fe1e255dc3d/source/392x696bb.jpg"
       ],
       "license": "other",
       "date_added": "Apr 21 2017",
@@ -14644,9 +14642,9 @@
       ],
       "source": "https://github.com/opensourceios/superday",
       "screenshots": [
-        "http://is5.mzstatic.com/image/thumb/Purple118/v4/d6/97/b8/d697b84a-e5e4-9a30-f349-64e46c960310/source/392x696bb.jpg",
-        "http://is3.mzstatic.com/image/thumb/Purple128/v4/77/2c/1a/772c1ad8-a491-8688-5747-b5f8c2dfc3e9/source/392x696bb.jpg",
-        "http://is2.mzstatic.com/image/thumb/Purple118/v4/ed/52/fe/ed52fead-02f5-dbea-ae3b-e1a8c902f0f0/source/392x696bb.jpg"
+        "https://is5.mzstatic.com/image/thumb/Purple118/v4/d6/97/b8/d697b84a-e5e4-9a30-f349-64e46c960310/source/392x696bb.jpg",
+        "https://is3.mzstatic.com/image/thumb/Purple128/v4/77/2c/1a/772c1ad8-a491-8688-5747-b5f8c2dfc3e9/source/392x696bb.jpg",
+        "https://is2.mzstatic.com/image/thumb/Purple118/v4/ed/52/fe/ed52fead-02f5-dbea-ae3b-e1a8c902f0f0/source/392x696bb.jpg"
       ],
       "license": "bsd-3-clause",
       "date_added": "Oct 10 2017",
@@ -14684,8 +14682,8 @@
       ],
       "itunes": "https://apps.apple.com/app/id943796588",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple111/v4/ec/90/d9/ec90d9a0-0eac-cc83-0781-16cc3eebd783/sc552x414.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple122/v4/72/a1/be/72a1bedb-055b-2fc5-b8e6-bcfb8f396b61/sc552x414.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple111/v4/ec/90/d9/ec90d9a0-0eac-cc83-0781-16cc3eebd783/sc552x414.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple122/v4/72/a1/be/72a1bedb-055b-2fc5-b8e6-bcfb8f396b61/sc552x414.jpeg"
       ],
       "category-ids": [
         "audio"
@@ -14726,7 +14724,7 @@
         "javascript"
       ],
       "screenshots": [
-        "http://a4.mzstatic.com/us/r30/Purple111/v4/42/1e/6e/421e6e4d-2524-5e1a-93aa-b8159d48a8fa/screen696x696.jpeg"
+        "https://a4.mzstatic.com/us/r30/Purple111/v4/42/1e/6e/421e6e4d-2524-5e1a-93aa-b8159d48a8fa/screen696x696.jpeg"
       ],
       "category-ids": [
         "developer"
@@ -14840,7 +14838,7 @@
         "social"
       ],
       "screenshots": [
-        "http://f.cl.ly/items/0w3y0r1F2x1P0j3f1Z2z/fdasfsadfas800.png"
+        "https://f.cl.ly/items/0w3y0r1F2x1P0j3f1Z2z/fdasfsadfas800.png"
       ],
       "license": "other",
       "date_added": "May 5 2017",
@@ -14918,7 +14916,7 @@
         "archive"
       ],
       "screenshots": [
-        "http://a5.mzstatic.com/us/r30/Purple122/v4/ea/60/8e/ea608e2a-a471-11d8-1801-e621ad8ed651/screen696x696.jpeg"
+        "https://a5.mzstatic.com/us/r30/Purple122/v4/ea/60/8e/ea608e2a-a471-11d8-1801-e621ad8ed651/screen696x696.jpeg"
       ],
       "date_added": "May 12 2017",
       "suggested_by": "@zntfdr",
@@ -15276,7 +15274,7 @@
       "description": "Enter content into your device with a Mac keyboard, clipboard/image sync & more",
       "source": "https://github.com/music4kid/TKeyboard",
       "screenshots": [
-        "http://a2.mzstatic.com/us/r30/Purple122/v4/e0/19/ea/e019ea9f-124c-4476-2683-e49f4e568d43/screen696x696.jpeg"
+        "https://a2.mzstatic.com/us/r30/Purple122/v4/e0/19/ea/e019ea9f-124c-4476-2683-e49f4e568d43/screen696x696.jpeg"
       ],
       "tags": [
         "bluetooth",
@@ -15336,7 +15334,7 @@
         "swift"
       ],
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple122/v4/2d/28/8c/2d288c05-33f0-1f18-b06a-4e3a24e1d608/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple122/v4/2d/28/8c/2d288c05-33f0-1f18-b06a-4e3a24e1d608/screen696x696.jpeg"
       ],
       "license": "mit",
       "date_added": "June 12 2017",
@@ -15366,7 +15364,6 @@
       "title": "hexclock",
       "description": "Minimal hexadecimal clock",
       "source": "https://github.com/cfdrake/hexclock",
-      "itunes": "https://apps.apple.com/app/hex-color-clock/id1207660670",
       "category-ids": [
         "apple-tv"
       ],
@@ -15374,7 +15371,7 @@
         "swift"
       ],
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple122/v4/7b/e9/dd/7be9dd53-fe6b-00f7-57e6-a19e27b103de/sc720x405.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple122/v4/7b/e9/dd/7be9dd53-fe6b-00f7-57e6-a19e27b103de/sc720x405.jpeg"
       ],
       "license": "other",
       "date_added": "June 14 2017",
@@ -15603,7 +15600,7 @@
       "title": "Gitify",
       "source": "https://github.com/manosim/gitify-mobile",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple18/v4/88/b6/8a/88b68a7f-d3d8-e51b-9918-cb886b7a4a24/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple18/v4/88/b6/8a/88b68a7f-d3d8-e51b-9918-cb886b7a4a24/screen696x696.jpeg"
       ],
       "description": "Brings your GitHub notifications in your pocket",
       "tags": [
@@ -15662,8 +15659,8 @@
         "react-native"
       ],
       "screenshots": [
-        "http://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg",
-        "http://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg"
+        "https://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg",
+        "https://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg"
       ],
       "license": "mit",
       "date_added": "Jul 14 2017",
@@ -15704,8 +15701,8 @@
         "realm"
       ],
       "screenshots": [
-        "http://relatedcode.com/screen/chat01.png",
-        "http://relatedcode.com/screen/call1.png"
+        "https://relatedcode.com/screen/chat01.png",
+        "https://relatedcode.com/screen/call1.png"
       ],
       "license": "other",
       "date_added": "Jul 19 2017",
@@ -15746,8 +15743,8 @@
       ],
       "source": "https://github.com/fusetools/FuseCloud",
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple71/v4/98/3a/e2/983ae222-5541-f601-0c9f-4b83bc2d12d1/screen696x696.jpeg",
-        "http://a2.mzstatic.com/us/r30/Purple71/v4/25/a9/d6/25a9d622-1764-f0d4-eb74-bb0662a3c375/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple71/v4/98/3a/e2/983ae222-5541-f601-0c9f-4b83bc2d12d1/screen696x696.jpeg",
+        "https://a2.mzstatic.com/us/r30/Purple71/v4/25/a9/d6/25a9d622-1764-f0d4-eb74-bb0662a3c375/screen696x696.jpeg"
       ],
       "license": "mit",
       "date_added": "Jul 24 2017",
@@ -16181,8 +16178,8 @@
         "security"
       ],
       "screenshots": [
-        "http://a1.mzstatic.com/us/r30/Purple117/v4/49/ba/f3/49baf3cf-a821-ec84-21f4-ac7f466c72b4/screen696x696.jpeg",
-        "http://a5.mzstatic.com/us/r30/Purple117/v4/36/fe/e2/36fee29b-22fc-d047-396a-3d2b043e9d53/screen696x696.jpeg"
+        "https://a1.mzstatic.com/us/r30/Purple117/v4/49/ba/f3/49baf3cf-a821-ec84-21f4-ac7f466c72b4/screen696x696.jpeg",
+        "https://a5.mzstatic.com/us/r30/Purple117/v4/36/fe/e2/36fee29b-22fc-d047-396a-3d2b043e9d53/screen696x696.jpeg"
       ],
       "tags": [
         "swift",
@@ -16401,8 +16398,8 @@
         "sfspeechrecognizer"
       ],
       "screenshots": [
-        "http://is1.mzstatic.com/image/thumb/Purple82/v4/44/60/72/446072a3-cc4f-3fc8-ece5-14568643dc15/source/392x696bb.jpg",
-        "http://is4.mzstatic.com/image/thumb/Purple91/v4/90/58/e3/9058e3be-4676-5668-8301-2488df8322d3/source/392x696bb.jpg"
+        "https://is1.mzstatic.com/image/thumb/Purple82/v4/44/60/72/446072a3-cc4f-3fc8-ece5-14568643dc15/source/392x696bb.jpg",
+        "https://is4.mzstatic.com/image/thumb/Purple91/v4/90/58/e3/9058e3be-4676-5668-8301-2488df8322d3/source/392x696bb.jpg"
       ],
       "date_added": "Oct 28 2017",
       "suggested_by": "@michaello",
@@ -16417,8 +16414,8 @@
       "description": "Collaborative list of Mobile Conferences",
       "itunes": "https://apps.apple.com/app/awesome-mobile-conferences/id1289255473",
       "screenshots": [
-        "http://is2.mzstatic.com/image/thumb/Purple128/v4/92/6b/9d/926b9de9-9f22-39e3-073b-f409ed8e7439/source/392x696bb.jpg",
-        "http://is5.mzstatic.com/image/thumb/Purple128/v4/83/90/53/839053c8-d824-2188-7053-d21a92f24618/source/392x696bb.jpg"
+        "https://is2.mzstatic.com/image/thumb/Purple128/v4/92/6b/9d/926b9de9-9f22-39e3-073b-f409ed8e7439/source/392x696bb.jpg",
+        "https://is5.mzstatic.com/image/thumb/Purple128/v4/83/90/53/839053c8-d824-2188-7053-d21a92f24618/source/392x696bb.jpg"
       ],
       "tags": [
         "swift",
@@ -16580,7 +16577,7 @@
       "source": "https://github.com/louisdh/openterm",
       "description": "Sandboxed command line interface",
       "screenshots": [
-        "http://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg"
+        "https://is3.mzstatic.com/image/thumb/Purple128/v4/0e/5a/9c/0e5a9c66-67f4-d369-a701-f295e84cd959/source/392x696bb.jpg"
       ],
       "date_added": "Jan 8 2018",
       "suggested_by": "@dkhamsing",
@@ -17470,11 +17467,11 @@
         "swift"
       ],
       "screenshots": [
-        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%201.png",
-        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%202.png",
-        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%203.png",
-        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%204.png",
-        "http://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%205.png"
+        "https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%201.png",
+        "https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%202.png",
+        "https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%203.png",
+        "https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%204.png",
+        "https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%205.png"
       ],
       "date_added": "May 18 2018",
       "suggested_by": "@novinfard",
@@ -17660,7 +17657,7 @@
       ],
       "description": "Display blood glucose values stored on your nightscout server",
       "source": "https://github.com/nightscout/nightguard",
-      "homepage": "http://www.nightscout.info/",
+      "homepage": "https://www.nightscout.info/",
       "license": "gpl-3.0",
       "tags": [
         "swift",
@@ -17806,7 +17803,7 @@
         "swift"
       ],
       "screenshots": [
-        "http://audiokitpro.com/images/ak2.gif"
+        "https://audiokitpro.com/images/ak2.gif"
       ],
       "date_added": "July 24 2018",
       "suggested_by": "@vpeschenkov",
@@ -19481,7 +19478,7 @@
       "date_added": "Jan 25 2020",
       "suggested_by": "@neoneye",
       "itunes": "https://apps.apple.com/app/triangledraw/id1453533043",
-      "homepage": "http://www.triangledraw.com/",
+      "homepage": "https://www.triangledraw.com/",
       "stars": 38,
       "updated": "2020-09-14 15:29:55 UTC"
     },
@@ -19632,7 +19629,7 @@
       "category-ids": [
         "content"
       ],
-      "description": "Preview and download books from Library Genesis http://libgen.rs",
+      "description": "Preview and download books from Library Genesis https://libgen.rs",
       "source": "https://github.com/MartinStamenkovski/LibraryGenesis",
       "license": "mit",
       "tags": [
@@ -24044,12 +24041,13 @@
         "swiftui"
       ],
       "description": "Track your expenses",
-      "source": "https://github.com/Mas0nSun/AccountBook",
+      "source": "https://github.com/opensourceios/AccountBook",
       "itunes": "https://apps.apple.com/app/id1490290251",
       "license": "mit",
       "tags": [
         "swift",
-        "swiftui"
+        "swiftui",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/Mas0nSun/AccountBook/blob/master/1242x2688bb.png"
