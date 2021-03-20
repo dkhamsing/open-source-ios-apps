@@ -25805,6 +25805,26 @@
         "https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3789.JPG",
         "https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3788.JPG"
       ]
+    },
+    {
+      "title": "Metatext",
+      "category-ids": [
+        "mastodon"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "A free, accessible Mastodon client",
+      "source": "https://github.com/metabolist/metatext",
+      "itunes": "https://apps.apple.com/app/metatext/id1523996615",
+      "license": "gpl-3.0",
+      "date_added": "Mar 19 2021",
+      "suggested_by": "@jzzocc",
+      "screenshots": [
+        "https://i.imgur.com/zVvJQQv.png",
+        "https://i.imgur.com/yYi56m9.png",
+        "https://i.imgur.com/64vIXsb.png"
+      ]
     }
   ]
 }
