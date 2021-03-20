@@ -585,7 +585,6 @@
       "description": "Track bus line on your wrist, includes Today Extension",
       "lang": "zho",
       "source": "https://github.com/JohnWong/bus-today",
-      "itunes": "https://apps.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341",
       "stars": 67,
       "license": "other",
       "date_added": "Wed Feb 17 10:44:11 2016 +0800",
@@ -5620,6 +5619,29 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/50/d6/ed/50d6ed5b-7919-bb1c-e129-eb78a8abf542/mzl.mlzjazoh.jpg/460x0w.jpg"
       ],
       "updated": "2019-03-03 07:45:17 UTC"
+    },
+    {
+      "title": "Shlist",
+      "category-ids": [
+        "shopping"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Shopping list",
+      "license": "mit",
+      "source": "https://github.com/pointspy/shlist",
+      "itunes": "https://apps.apple.com/ru/app/shlist/id1551533470",
+      "stars": 0,
+      "date_added": "Sat Mar 20 14:27:17 +0500 2021",
+      "suggested_by": "@pointspy",
+      "screenshots": [
+        "https://github.com/pointspy/shlist/blob/master/images/image1.png",
+        "https://github.com/pointspy/shlist/blob/master/images/image2.png",
+        "https://github.com/pointspy/shlist/blob/master/images/image3.png",
+        "https://github.com/pointspy/shlist/blob/master/images/image4.png"
+      ],
+      "updated": "2021-03-20 14:30:00 UTC"
     },
     {
       "title": "Polls",
@@ -21372,7 +21394,6 @@
         "today"
       ],
       "source": "https://github.com/fimuxd/GITGET",
-      "itunes": "https://apps.apple.com/app/gitget/id1317170245",
       "screenshots": [
         "https://i.imgur.com/16yLR0l.png"
       ],
@@ -24693,7 +24714,7 @@
       "screenshots": [
         "https://i.imgur.com/UwpQpVv.png"
       ],
-      "source": "https://github.com/nhsx/covid-19-app-ios-ag-public",
+      "source": "https://github.com/nihp-public/covid-19-app-ios-ag-public",
       "itunes": "https://apps.apple.com/gb/app/nhs-covid-19/id1520427663",
       "homepage": "https://www.nhsx.nhs.uk",
       "license": "other",
@@ -25802,6 +25823,26 @@
         "https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3785.JPG",
         "https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3789.JPG",
         "https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3788.JPG"
+      ]
+    },
+    {
+      "title": "Metatext",
+      "category-ids": [
+        "mastodon"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "A free, accessible Mastodon client",
+      "source": "https://github.com/metabolist/metatext",
+      "itunes": "https://apps.apple.com/app/metatext/id1523996615",
+      "license": "gpl-3.0",
+      "date_added": "Mar 19 2021",
+      "suggested_by": "@jzzocc",
+      "screenshots": [
+        "https://i.imgur.com/zVvJQQv.png",
+        "https://i.imgur.com/yYi56m9.png",
+        "https://i.imgur.com/64vIXsb.png"
       ]
     }
   ]

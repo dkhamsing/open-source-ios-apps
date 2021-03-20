@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **278** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **280** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1454,6 +1454,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/openshop-io/id1250327932) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/73/69/85/73698567-5cab-f880-98fc-2d8ed66dbe40/mzl.dmuxskhb.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/df/db/08/dfdb08af-c9bf-bf5c-dba7-160112403315/mzl.sthehrds.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/3c/81/17/3c811783-8c5a-196a-484f-3653c688e288/mzl.eogwkzlb.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/c7/5d/05/c75d053d-97e1-7734-ed0c-f6b8e3187a15/mzl.ylqpisof.jpg/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/50/d6/ed/50d6ed5b-7919-bb1c-e129-eb78a8abf542/mzl.mlzjazoh.jpg/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`374` 
+- [Shlist](https://github.com/pointspy/shlist): Shopping list
+  - [` App Store`](https://apps.apple.com/ru/app/shlist/id1551533470) <a href='https://github.com/pointspy/shlist/blob/master/images/image1.png'>`Screenshot 1`</a>  <a href='https://github.com/pointspy/shlist/blob/master/images/image2.png'>`Screenshot 2`</a>  <a href='https://github.com/pointspy/shlist/blob/master/images/image3.png'>`Screenshot 3`</a>  <a href='https://github.com/pointspy/shlist/blob/master/images/image4.png'>`Screenshot 4`</a> 
+  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [The Wave - A Jeep Marketplace](https://github.com/xYello/ThePost): A place for Jeep owners to buy and sell Jeep parts
   - [` App Store`](https://apps.apple.com/app/the-wave-a-jeep-marketplace/id1260803629) <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Post.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Profile.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Reviews.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Social.jpg'>`Screenshot 4`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `jeep` `jeep-parts` `wave` `marketplace` 
@@ -1480,6 +1483,9 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/amaroq-for-mastodon/id1214116200) <a href='https://i.imgur.com/uesvdd4.png'>`Screenshot 1`</a> 
   -  `2020`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `objc` 
   -  ☆`227` 
+- [Metatext](https://github.com/metabolist/metatext): A free, accessible Mastodon client
+  - [` App Store`](https://apps.apple.com/app/metatext/id1523996615) <a href='https://i.imgur.com/zVvJQQv.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/yYi56m9.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/64vIXsb.png'>`Screenshot 3`</a> 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
 ## Tasks 
  
 [back to top](#readme) 
