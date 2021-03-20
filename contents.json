@@ -15364,7 +15364,6 @@
       "title": "hexclock",
       "description": "Minimal hexadecimal clock",
       "source": "https://github.com/cfdrake/hexclock",
-      "itunes": "https://apps.apple.com/app/hex-color-clock/id1207660670",
       "category-ids": [
         "apple-tv"
       ],
