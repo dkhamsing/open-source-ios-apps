@@ -585,7 +585,6 @@
       "description": "Track bus line on your wrist, includes Today Extension",
       "lang": "zho",
       "source": "https://github.com/JohnWong/bus-today",
-      "itunes": "https://apps.apple.com/app/jin-ri-gong-jiao-tong-zhi/id975022341",
       "stars": 67,
       "license": "other",
       "date_added": "Wed Feb 17 10:44:11 2016 +0800",
@@ -21397,7 +21396,6 @@
         "today"
       ],
       "source": "https://github.com/fimuxd/GITGET",
-      "itunes": "https://apps.apple.com/app/gitget/id1317170245",
       "screenshots": [
         "https://i.imgur.com/16yLR0l.png"
       ],
@@ -24718,7 +24716,7 @@
       "screenshots": [
         "https://i.imgur.com/UwpQpVv.png"
       ],
-      "source": "https://github.com/nhsx/covid-19-app-ios-ag-public",
+      "source": "https://github.com/nihp-public/covid-19-app-ios-ag-public",
       "itunes": "https://apps.apple.com/gb/app/nhs-covid-19/id1520427663",
       "homepage": "https://www.nhsx.nhs.uk",
       "license": "other",
