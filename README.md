@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1243-green.svg) ![](https://img.shields.io/badge/Updated-March%2022,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1244-green.svg) ![](https://img.shields.io/badge/Updated-March%2022,%202021-lightgrey.svg)
 
 Jump to
 
@@ -4473,6 +4473,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [InstaFake - Instagram Clone](https://github.com/leavenstee/InstaFake-Swift-UI)
   -  `2019`   `swift` 
   -  ☆`7` 
+- [isowords](https://github.com/pointfreeco/isowords): Word search game played on a vanishing cube
+  - [` App Store`](https://apps.apple.com/app/isowords/id1528246952) <a href='https://dbsqho33cgp4y.cloudfront.net/github/isowords-screenshots.jpg'>`Screenshot 1`</a> 
+  -   `swift` 
+  -  ☆`92` 
 - [KHabit](https://github.com/elkiwy/KHabit): Maintain productive habits
   - [` App Store`](https://apps.apple.com/app/khabit/id1533656718) <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'>`Screenshot 3`</a> 
   -  `2020`   `swift` `swiftui` 
