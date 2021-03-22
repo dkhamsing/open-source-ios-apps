@@ -25844,6 +25844,23 @@
         "https://i.imgur.com/yYi56m9.png",
         "https://i.imgur.com/64vIXsb.png"
       ]
+    },
+    {
+             "title": "isowords",
+             "description": "Word search game played on a vanishing cube",
+             "category-ids": [
+               "swiftui"
+             ],
+             "tags": ["swift"],
+             "source": "https://github.com/pointfreeco/isowords",
+             "itunes": "https://apps.apple.com/app/isowords/id1528246952",
+             "screenshots": [
+               "https://dbsqho33cgp4y.cloudfront.net/github/isowords-screenshots.jpg"
+             ],
+             "license": "other",
+             "date_added": "Mar 22 2021",
+             "stars": 92,
+             "suggested_by": "@dkhamsing"
     }
   ]
 }
