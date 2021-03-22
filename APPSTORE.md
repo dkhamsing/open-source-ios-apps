@@ -257,7 +257,7 @@ Jump to
   -  ☆`876` 
 - [Falcon Messenger](https://github.com/RMizin/FalconMessenger): Fast and beautiful cloud-based messaging app
   - [` App Store`](https://apps.apple.com/app/id1313765714) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/48/53/6c/48536cdf-5ca1-8285-c0ed-6eca4da33d1a/pr_source.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/dd/eb/55/ddeb5549-ef4c-faa2-8b98-71bd796a499f/pr_source.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/35/11/a5/3511a58d-ef7b-38e8-0365-05629c143489/pr_source.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/4d/f8/124df875-c3cf-30a5-6506-83b5a80f9252/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift, firebase` 
+  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift, firebase` 
   -  ☆`304` 
 - [IRCCloud](https://github.com/irccloud/ios): IRC client/service
   - [` App Store`](https://apps.apple.com/app/irccloud/id672699103) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/ff/82/0dff82e1-3677-5fb4-7134-2ae21552b635/mzl.exbmpwni.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/70/4b/ae/704bae65-fbd1-f842-860e-90c1cd0ba722/mzl.oifhpoij.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/48/89/a5/4889a5d7-b7f6-7642-2c19-c8a3458e5b7f/mzl.znhavvnj.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/42/5b/ac/425baceb-e9f0-cf7f-8aa9-ab203ce8132d/mzl.ocminncy.png/460x0w.jpg'>`Screenshot 4`</a> 
@@ -1666,7 +1666,7 @@ https://firebase.google.com/ — [back to top](#readme)
 
 - [Falcon Messenger](https://github.com/RMizin/FalconMessenger): Fast and beautiful cloud-based messaging app
   - [` App Store`](https://apps.apple.com/app/id1313765714) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/48/53/6c/48536cdf-5ca1-8285-c0ed-6eca4da33d1a/pr_source.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/dd/eb/55/ddeb5549-ef4c-faa2-8b98-71bd796a499f/pr_source.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/35/11/a5/3511a58d-ef7b-38e8-0365-05629c143489/pr_source.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/4d/f8/124df875-c3cf-30a5-6506-83b5a80f9252/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift, firebase` 
+  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift, firebase` 
   -  ☆`304` 
 ### Flutter 
  
