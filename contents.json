@@ -17680,7 +17680,7 @@
       "description": "Fast and beautiful cloud-based messaging app",
       "source": "https://github.com/RMizin/FalconMessenger",
       "itunes": "https://apps.apple.com/app/id1313765714",
-      "license": "gpl-3.0",
+      "license": "mit",
       "stars": 304,
       "tags": [
         "swift, firebase"
