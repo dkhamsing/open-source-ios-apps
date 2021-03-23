@@ -5604,7 +5604,6 @@
       "tags": [
         "objc"
       ],
-      "description": "Ecommerce shopping",
       "license": "mit",
       "source": "https://github.com/openshopio/openshop.io-ios",
       "itunes": "https://apps.apple.com/app/openshop-io/id1250327932",
@@ -12044,7 +12043,8 @@
       "stars": 7
     },
     {
-      "title": "Good Living Guide: home snacks, gifts, beauty, shopping",
+      "title": "Good Living Guide",
+      "description": "Home snacks, gifts, beauty, shopping",
       "category-ids": [
         "shopping"
       ],
