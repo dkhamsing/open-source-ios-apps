@@ -5625,12 +5625,12 @@
         "shopping"
       ],
       "tags": [
-        "swift"
+        "swift", "ipad"
       ],
       "description": "Shopping list",
       "license": "mit",
       "source": "https://github.com/pointspy/shlist",
-      "itunes": "https://apps.apple.com/ru/app/shlist/id1551533470",
+      "itunes": "https://apps.apple.com/app/shlist/id1551533470",
       "stars": 0,
       "date_added": "Sat Mar 20 14:27:17 +0500 2021",
       "suggested_by": "@pointspy",
