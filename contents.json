@@ -25833,7 +25833,7 @@
       "tags": [
         "swift"
       ],
-      "description": "A free, accessible Mastodon client",
+      "description": "An accessible Mastodon client",
       "source": "https://github.com/metabolist/metatext",
       "itunes": "https://apps.apple.com/app/metatext/id1523996615",
       "license": "gpl-3.0",
