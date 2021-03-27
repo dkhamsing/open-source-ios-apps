@@ -25861,6 +25861,24 @@
              "date_added": "Mar 22 2021",
              "stars": 92,
              "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Hour Blocks",
+      "description": "Day Planner",
+      "category-ids": [
+        "swiftui", "macos"
+      ],
+      "source": "https://github.com/jtsaeed/Hour-Blocks",
+      "itunes": "https://apps.apple.com/app/hour-blocks-day-planner/id1456275153",
+      "license": "gpl-3.0",
+      "tags": [
+        "swift",
+        "swiftui",
+        "ipad",
+        "macos"
+      ],
+      "date_added": "Mar 27 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
