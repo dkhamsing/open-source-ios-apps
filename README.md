@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1244-green.svg) ![](https://img.shields.io/badge/Updated-March%2023,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1245-green.svg) ![](https://img.shields.io/badge/Updated-March%2027,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3940,6 +3940,9 @@ Cross platform projects — [back to top](#readme)
   -   `swift` `ios14` `widgetkit` `macos` `app-clip` 
 - [Hacker News Multiplatform](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/)
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `macos` 
+- [Hour Blocks](https://github.com/jtsaeed/Hour-Blocks): Day Planner
+  - [` App Store`](https://apps.apple.com/app/hour-blocks-day-planner/id1456275153)
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `ipad` `macos` 
 - [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter
   -  `2019`   `swift` `swiftui` `ios13` `ipad` `macos` 
   -  ☆`2` 
@@ -4459,6 +4462,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/138476/67172750-84ae5500-f3f7-11e9-95b5-9ea054d784eb.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/138476/67172754-86781880-f3f7-11e9-85b1-621895dd1ce4.png'>`Screenshot 2`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `elm` `optics` `combine` 
   -  ☆`150` 
+- [Hour Blocks](https://github.com/jtsaeed/Hour-Blocks): Day Planner
+  - [` App Store`](https://apps.apple.com/app/hour-blocks-day-planner/id1456275153)
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `ipad` `macos` 
 - [IDResistors](https://github.com/thestoneage/IDResistors): Identify resistors
   -  <a href='https://github.com/thestoneage/IDResistors/raw/gh-pages/assets/schreenshots/Screenshot-05.png'>`Screenshot 1`</a>  <a href='https://github.com/thestoneage/IDResistors/raw/gh-pages/assets/schreenshots/Screenshot-02.png'>`Screenshot 2`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
