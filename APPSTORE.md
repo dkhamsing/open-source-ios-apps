@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **277** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **278** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1700,6 +1700,9 @@ Cross platform projects — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`12` 
+- [Hour Blocks](https://github.com/jtsaeed/Hour-Blocks): Day Planner
+  - [` App Store`](https://apps.apple.com/app/hour-blocks-day-planner/id1456275153)
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `ipad` `macos` 
 - [StackOv](https://github.com/surfstudio/StackOv): For Stack Overflow
   - [` App Store`](https://apps.apple.com/app/stackov/id1511838391) <a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `ipad` `macos` 
@@ -1815,6 +1818,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/gradecalc-gpa-calculator/id1502912052) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2020`   `swift` 
   -  ☆`13` 
+- [Hour Blocks](https://github.com/jtsaeed/Hour-Blocks): Day Planner
+  - [` App Store`](https://apps.apple.com/app/hour-blocks-day-planner/id1456275153)
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `ipad` `macos` 
 - [isowords](https://github.com/pointfreeco/isowords): Word search game played on a vanishing cube
   - [` App Store`](https://apps.apple.com/app/isowords/id1528246952) <a href='https://dbsqho33cgp4y.cloudfront.net/github/isowords-screenshots.jpg'>`Screenshot 1`</a> 
   -   `swift` 
