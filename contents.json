@@ -20094,13 +20094,13 @@
         "game"
       ],
       "tags": [
-        "swift"
+        "swift", "ipad"
       ],
-      "description": "Simple game to help you get familar with the names of the amazing SF Symbols by Apple",
-      "source": "https://github.com/rudrankriyam/Unofficial-SF-Symbols-Game",
+      "description": "Get familar with the names of the amazing SF Symbols by Apple",
+      "source": "https://github.com/rudrankriyam/SF-Symbols-Game",
       "itunes": "https://apps.apple.com/app/unofficial-sf-symbols-game/id1507692602",
       "screenshots": [
-        "https://github.com/rudrankriyam/Unofficial-SF-Symbols-Game/raw/master/Resources/0.1-Screenshot.png"
+        "https://github.com/rudrankriyam/SF-Symbols-Game/raw/master/Resources/0.1-Screenshot.png"
       ],
       "license": "mit",
       "date_added": "Apr 15 2020",
@@ -25878,23 +25878,6 @@
         "macos"
       ],
       "date_added": "Mar 27 2021",
-      "suggested_by": "@dkhamsing"
-    },
-    {
-      "title": "SF Symbols Game",
-      "category-ids": [
-        "game"
-      ],
-      "source": "https://github.com/rudrankriyam/SF-Symbols-Game",
-      "itunes": "https://apps.apple.com/app/unofficial-sf-symbols-game/id1507692602",
-      "tags": [
-        "swift"
-      ],
-      "screenshots": [
-        "https://github.com/rudrankriyam/Unofficial-SF-Symbols-Game/raw/master/Resources/0.1-Screenshot.png"
-      ],
-      "license": "other",
-      "date_added": "Mar 30 2021",
       "suggested_by": "@dkhamsing"
     }
   ]
