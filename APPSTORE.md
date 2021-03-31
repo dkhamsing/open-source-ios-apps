@@ -730,13 +730,10 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1458250030) <a href='https://raw.githubusercontent.com/mkhrapov/sansumoku/master/img/sansumoku.png'>`Screenshot 1`</a> 
   -  `2020`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`8` 
-- [SF Symbols Game](https://github.com/rudrankriyam/Unofficial-SF-Symbols-Game): Simple game to help you get familar with the names of the amazing SF Symbols by Apple
-  - [` App Store`](https://apps.apple.com/app/unofficial-sf-symbols-game/id1507692602) <a href='https://github.com/rudrankriyam/Unofficial-SF-Symbols-Game/raw/master/Resources/0.1-Screenshot.png'>`Screenshot 1`</a> 
-  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
+- [SF Symbols Game](https://github.com/rudrankriyam/SF-Symbols-Game): Get familar with the names of the amazing SF Symbols by Apple
+  - [` App Store`](https://apps.apple.com/app/unofficial-sf-symbols-game/id1507692602) <a href='https://github.com/rudrankriyam/SF-Symbols-Game/raw/master/Resources/0.1-Screenshot.png'>`Screenshot 1`</a> 
+  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `ipad` 
   -  ☆`11` 
-- [SF Symbols Game](https://github.com/rudrankriyam/SF-Symbols-Game)
-  - [` App Store`](https://apps.apple.com/app/unofficial-sf-symbols-game/id1507692602) <a href='https://github.com/rudrankriyam/Unofficial-SF-Symbols-Game/raw/master/Resources/0.1-Screenshot.png'>`Screenshot 1`</a> 
-  -   `swift` 
 - [SHMUP](https://github.com/fabiensanglard/Shmup): 3D multiplatform game written primarily in C
   - <a href=https://fabiensanglard.net/shmup/>`https://fabiensanglard.net/shmup/`</a>
   - [` App Store`](https://apps.apple.com/app/shmup/id337663605) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple117/v4/40/3a/21/403a21ac-9841-ab2b-4353-ce1f72a2c753/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/2b/f4/8f/2bf48f1f-70fd-33d3-3198-c18ee88e2414/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/c3/97/7e/c3977e1f-48c9-e4b6-5f94-a4a988a53567/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
@@ -1527,6 +1524,9 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/jotify/id1469983730) <a href='https://i.imgur.com/RzKd4VV.png'>`Screenshot 1`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `ipad` 
   -  ☆`76` 
+- [Logger](https://github.com/nathanborror/logger): Quickly send messages to yourself as a means of fast note taking
+  - [` App Store`](https://apps.apple.com/app/logger-notes/id1364248334) <a href='https://github.com/nathanborror/logger/raw/master/static/2021-03-29%20Logger.png?raw=true'>`Screenshot 1`</a> 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `go` `golang` 
 - [Loose Leaf](https://github.com/adamwulf/loose-leaf): Take notes, import & annotate PDFs, manipulate imported photos with intuitive gestures
   - [` App Store`](https://apps.apple.com/app/loose-leaf/id625659452) <a href='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `ipad` `pdf` `apple pencil` 
