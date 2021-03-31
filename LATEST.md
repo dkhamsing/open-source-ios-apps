@@ -2,7 +2,7 @@
 
 ## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
-1. [SF Symbols Game](https://github.com/rudrankriyam/SF-Symbols-Game)
+1. [Logger](https://github.com/nathanborror/logger)
 2. [Hour Blocks](https://github.com/jtsaeed/Hour-Blocks)
 3. [isowords](https://github.com/pointfreeco/isowords)
 4. [Shlist](https://github.com/pointspy/shlist)
