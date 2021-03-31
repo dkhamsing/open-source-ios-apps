@@ -25879,6 +25879,26 @@
       ],
       "date_added": "Mar 27 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Logger",
+      "category-ids": [
+        "notes"
+      ],
+      "tags": [
+        "swift",
+        "go",
+        "golang"
+      ],
+      "description": "Quickly send messages to yourself as a means of fast note taking",
+      "source": "https://github.com/nathanborror/logger",
+      "itunes": "https://apps.apple.com/app/logger-notes/id1364248334",
+      "license": "gpl-3.0",
+      "date_added": "Mar 30 2021",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://github.com/nathanborror/logger/raw/master/static/2021-03-29%20Logger.png?raw=true"
+      ]
     }
   ]
 }
