@@ -25905,7 +25905,7 @@
       "category-ids": [
         "developer"
       ],
-      "description": "An OCaml editor for iOS, iPadOS and macOS",
+      "description": "An OCaml editor with an interactive toplevel and a growing learn section",
       "source": "https://github.com/GroupeMINASTE/OCaml-iOS",
       "itunes": "https://apps.apple.com/app/ocaml-learn-code/id1547506826",
       "license": "gpl-3.0",
