@@ -24352,9 +24352,9 @@
       "category-ids": [
         "swiftui"
       ],
-      "source": "https://github.com/varabeis/SwiftUI",
+      "source": "https://github.com/ivanvorobei/SwiftUI",
       "screenshots": [
-        "https://raw.githubusercontent.com/varabeis/SwiftUI/master/Previews/animatable-cards.gif"
+        "https://raw.githubusercontent.com/ivanvorobei/SwiftUI/master/Previews/animatable-cards.gif"
       ],
       "license": "mit",
       "tags": [
