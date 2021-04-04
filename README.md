@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1247-green.svg) ![](https://img.shields.io/badge/Updated-April%20%202,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1248-green.svg) ![](https://img.shields.io/badge/Updated-April%20%204,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2992,6 +2992,10 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://cloud.githubusercontent.com/assets/1646564/16943747/de7a0c36-4dcf-11e6-913f-103301ef8fda.png'>`Screenshot 1`</a>  <a href='https://cloud.githubusercontent.com/assets/1646564/16943754/e1d036ee-4dcf-11e6-8994-cc2cf1709bb8.png'>`Screenshot 2`</a> 
   -  `2018`   `swift` 
   -  ☆`2417` 
+- [Modern Collection Views](https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios): Showcase different compositional layouts and how to achieve them
+  -  <a href='https://nemecek.be/media/images/photosLayoutOptimized.gif'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
+  -  ☆`239` 
 - [MVCTodo](https://github.com/davedelong/MVCTodo): Simple To Do app to illustrate the principles from my A Better MVC talk
   -  `2019`   `swift` 
   -  ☆`434` 
@@ -4621,8 +4625,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/36863/80056069-54a05580-84f1-11ea-8597-5a227c9c64a7.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
   -  ☆`364` 
-- [SwiftUI Examples](https://github.com/varabeis/SwiftUI): Include layout, UI, animations, gestures, draw and data
-  -  <a href='https://raw.githubusercontent.com/varabeis/SwiftUI/master/Previews/animatable-cards.gif'>`Screenshot 1`</a> 
+- [SwiftUI Examples](https://github.com/ivanvorobei/SwiftUI): Include layout, UI, animations, gestures, draw and data
+  -  <a href='https://raw.githubusercontent.com/ivanvorobei/SwiftUI/master/Previews/animatable-cards.gif'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
   -  ☆`3110` 
 - [swiftui-2048](https://github.com/jVirus/swiftui-2048): 100% SwiftUI 2.0
