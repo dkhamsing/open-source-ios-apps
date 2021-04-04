@@ -25946,6 +25946,24 @@
       "date_added": "Apr 2 2021",
       "suggested_by": "@NathanFallet",
       "updated": "2021-04-02 11:13:32 UTC"
+    },
+    {
+      "title": "Modern Collection Views",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Showcase different compositional layouts and how to achieve them",
+      "license": "mit",
+      "source": "https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios",
+      "stars": 239,
+      "date_added": "Apr 4 2021",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://nemecek.be/media/images/photosLayoutOptimized.gif"
+      ]
     }
   ]
 }
