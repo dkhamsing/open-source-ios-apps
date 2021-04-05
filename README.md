@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1248-green.svg) ![](https://img.shields.io/badge/Updated-April%20%204,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1249-green.svg) ![](https://img.shields.io/badge/Updated-April%20%205,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2976,6 +2976,9 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/bradley/iOSSwiftMetalCamera/blob/master/no_shader.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/bradley/iOSSwiftMetalCamera/blob/master/shader.png?raw=true'>`Screenshot 2`</a> 
   -  `2017`   `swift` `metal` 
   -  ☆`106` 
+- [iSpy game](https://github.com/ByCyril/iSpy-Game)
+  -  <a href='https://user-images.githubusercontent.com/4723115/113598587-33495400-95f2-11eb-9d50-835eed6f0072.png'>`Screenshot 1`</a> 
+  -   `swift` `machine-learning` `camera` 
 - [Knock](https://github.com/MatheusCavalca/Knock): Use Accelerometer & background mode to create a feature of knocking your phone
   -  <a href='https://i.imgur.com/PfuYfjU.png'>`Screenshot 1`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
