@@ -25978,6 +25978,24 @@
       "source": "https://github.com/ByCyril/iSpy-Game",
       "date_added": "Apr 5 2021",
       "suggested_by": "@dkhamsing"
-    }
+    },
+    {
+      "title": "NetworkArch",
+      "category-ids": [
+        "developer",
+        "communication",
+        "misc"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Diagnose and analyze network connections",
+      "source": "https://github.com/ivirtex/NetworkArch",
+      "screenshots": ["https://ibb.co/8cD4ndt"],
+      "itunes": "https://apps.apple.com/app/networkarch/id1526690989#?platform=iphone",
+      "license": "mit",
+      "date_added": "Apr 5 2021",
+      "suggested_by": "@ivirtex"
+  }
   ]
 }
