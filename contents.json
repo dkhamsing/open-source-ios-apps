@@ -5564,7 +5564,6 @@
       "description": "Explore the capabilities of Apple's Core Animation API",
       "license": "mit",
       "source": "https://github.com/scotteg/LayerPlayer",
-      "itunes": "https://apps.apple.com/app/layer-player/id949768742",
       "stars": 1076,
       "tags": [
         "swift"
@@ -23188,7 +23187,6 @@
         "audio"
       ],
       "source": "https://github.com/fulldecent/formant-analyzer",
-      "itunes": "https://apps.apple.com/app/formant-analyzer/id799183655",
       "license": "mit",
       "tags": [
         "swift",
@@ -23251,7 +23249,6 @@
         "apple-watch"
       ],
       "source": "https://github.com/fulldecent/8-ball",
-      "itunes": "https://apps.apple.com/app/8-ball-answer/id995732766",
       "license": "mit",
       "tags": [
         "swift",
