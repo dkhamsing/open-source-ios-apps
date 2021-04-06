@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **280** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **278** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -110,10 +110,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/420/id1194325430) <a href='https://raw.githubusercontent.com/efremidze/Alarm/master/screenshots/en-US/iPhone7-0-d41d8cd98f00b204e9800998ecf8427e.png'>`Screenshot 1`</a> 
   -  `2019`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`32` 
-- [8 Ball Answers](https://github.com/fulldecent/8-ball)
-  - [` App Store`](https://apps.apple.com/app/8-ball-answer/id995732766) <a href='https://i.imgur.com/A6FgT4Z.png'>`Screenshot 1`</a> 
-  -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `watchos` 
-  -  ☆`3` 
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets
   - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `iphone` `ipad` 
@@ -1063,10 +1059,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/concertino/id1506663568) <a href='https://i.imgur.com/lZip9JG.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
   -  ☆`80` 
-- [Formant Plotter](https://github.com/fulldecent/formant-analyzer): The user speaks and the formant is plotted on the screen
-  - [` App Store`](https://apps.apple.com/app/formant-analyzer/id799183655) <a href='https://i.imgur.com/bJXOLoo.png'>`Screenshot 1`</a> 
-  -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `ipad` 
-  -  ☆`43` 
 - [Monotone Delay](https://github.com/jkandzi/Monotone-Delay): A simple synthesiser, based on the Korg Monotron Delay
   - [` App Store`](https://apps.apple.com/app/monotone-delay/id737483162) <a href='https://a4.mzstatic.com/us/r30/Purple5/v4/7d/be/82/7dbe82a0-26a2-ec64-2804-47de55caa190/screen520x924.jpeg'>`Screenshot 1`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
@@ -1307,10 +1299,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/cannonball-magnetic-poetry/id929750075) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/33/28/ce/3328ce01-615a-cca8-f219-9696c4616b6c/mzl.yvhfoxdx.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple5/v4/dc/63/1e/dc631e76-0e04-7172-4469-a29701b5eb16/mzl.gxyhiuqe.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple5/v4/f5/72/97/f5729724-aea9-e475-6847-051da67cd1ad/mzl.grshysaw.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple7/v4/14/6c/99/146c9960-a339-6ae1-60ce-bdb3fe22a23a/mzl.bchzernf.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2018`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`281` 
-- [LayerPlayer](https://github.com/scotteg/LayerPlayer): Explore the capabilities of Apple's Core Animation API
-  - [` App Store`](https://apps.apple.com/app/layer-player/id949768742) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/1f/d7/6b/1fd76bad-a826-04e3-7d3c-63597d1f382d/mzm.lmczjzqb.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/19/b1/85/19b185da-e8b3-6245-7f99-cf2345fa115d/mzm.olxmsgjq.png/460x0w.jpg'>`Screenshot 2`</a> 
-  -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
-  -  ☆`1076` 
 ## Scan 
  
 [back to top](#readme) 
@@ -1630,6 +1618,9 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/my41cx/id979041950) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/17/94/ec/1794ec78-67db-8a38-ae0a-89f87503fe67/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/a7/06/8c/a7068c91-de5f-b891-e3a9-34e00c9e3d77/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/3f/19/54/3f1954e5-355a-b143-0b2b-36a8267e5d64/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple5/v4/03/bd/09/03bd09ac-1a58-0ca4-4c72-f46f8bed3b38/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2021`  [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/) `objc` 
   -  ☆`14` 
+- [NetworkArch](https://github.com/ivirtex/NetworkArch): Diagnose and analyze network connections
+  - [` App Store`](https://apps.apple.com/app/networkarch/id1526690989) <a href='https://ibb.co/8cD4ndt'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `ipad` 
 - [ooniprobe](https://github.com/ooni/probe-ios): Detect internet censorship & test your network's speed
   - [` App Store`](https://apps.apple.com/app/id1199566366) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/88/8f/c3/888fc31d-7ad9-c6ce-6d80-b081151b3600/mzl.vupiryaa.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e4/f1/e4/e4f1e4ab-d623-d3c4-3a4d-5770de1a6fb4/mzl.suvrwweg.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/67/f8/d6/67f8d6bc-1c11-8164-634e-050953b73439/mzl.tpujfkus.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/a0/14/a6a01466-204c-be56-11aa-9953a6913af0/mzl.qhffrqig.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/23/41/00/2341001e-05ef-e1f1-6b0a-86b4146f6c18/mzl.phvtiqbd.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2021`  [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/) `toast` 
