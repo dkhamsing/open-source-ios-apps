@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1249-green.svg) ![](https://img.shields.io/badge/Updated-April%20%205,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1250-green.svg) ![](https://img.shields.io/badge/Updated-April%20%206,%202021-lightgrey.svg)
 
 Jump to
 
@@ -159,7 +159,7 @@ Jump to
   -  `2019`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`32` 
 - [8 Ball Answers](https://github.com/fulldecent/8-ball)
-  - [` App Store`](https://apps.apple.com/app/8-ball-answer/id995732766) <a href='https://i.imgur.com/A6FgT4Z.png'>`Screenshot 1`</a> 
+  -  <a href='https://i.imgur.com/A6FgT4Z.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `watchos` 
   -  ☆`3` 
 - [Apollo](https://github.com/KhaosT/open-apollo): Spotify player for watchOS
@@ -2242,7 +2242,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `afnetworking` `mpmovieplayer` `iphone` 
   -  ☆`460` 
 - [Formant Plotter](https://github.com/fulldecent/formant-analyzer): The user speaks and the formant is plotted on the screen
-  - [` App Store`](https://apps.apple.com/app/formant-analyzer/id799183655) <a href='https://i.imgur.com/bJXOLoo.png'>`Screenshot 1`</a> 
+  -  <a href='https://i.imgur.com/bJXOLoo.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `ipad` 
   -  ☆`43` 
 - [MiamiSunglasses](https://github.com/MoralCode/MiamiSunglasses): Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation (YEAAAAAAAAAAHH)
@@ -2988,7 +2988,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2016`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `parse` `atlas` 
   -  ☆`121` 
 - [LayerPlayer](https://github.com/scotteg/LayerPlayer): Explore the capabilities of Apple's Core Animation API
-  - [` App Store`](https://apps.apple.com/app/layer-player/id949768742) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/1f/d7/6b/1fd76bad-a826-04e3-7d3c-63597d1f382d/mzm.lmczjzqb.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/19/b1/85/19b185da-e8b3-6245-7f99-cf2345fa115d/mzm.olxmsgjq.png/460x0w.jpg'>`Screenshot 2`</a> 
+  -  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/1f/d7/6b/1fd76bad-a826-04e3-7d3c-63597d1f382d/mzm.lmczjzqb.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/19/b1/85/19b185da-e8b3-6245-7f99-cf2345fa115d/mzm.olxmsgjq.png/460x0w.jpg'>`Screenshot 2`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`1076` 
 - [Live](https://github.com/ltebean/Live): Live broadcasting
@@ -3663,6 +3663,9 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/my41cx/id979041950) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/17/94/ec/1794ec78-67db-8a38-ae0a-89f87503fe67/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/a7/06/8c/a7068c91-de5f-b891-e3a9-34e00c9e3d77/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/3f/19/54/3f1954e5-355a-b143-0b2b-36a8267e5d64/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple5/v4/03/bd/09/03bd09ac-1a58-0ca4-4c72-f46f8bed3b38/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2021`  [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/) `objc` 
   -  ☆`14` 
+- [NetworkArch](https://github.com/ivirtex/NetworkArch): Diagnose and analyze network connections
+  - [` App Store`](https://apps.apple.com/app/networkarch/id1526690989) <a href='https://ibb.co/8cD4ndt'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `ipad` 
 - [OctoPod](https://github.com/gdombiak/OctoPod): OctoPrint app
   -  <a href='https://github.com/gdombiak/OctoPod/raw/master/screenshots/OctoPod_Panel.png'>`Screenshot 1`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `starscream` `charts` 
