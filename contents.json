@@ -25982,12 +25982,12 @@
         "misc"
       ],
       "tags": [
-        "swift"
+        "swift", "ipad"
       ],
       "description": "Diagnose and analyze network connections",
       "source": "https://github.com/ivirtex/NetworkArch",
       "screenshots": ["https://ibb.co/8cD4ndt"],
-      "itunes": "https://apps.apple.com/app/networkarch/id1526690989#?platform=iphone",
+      "itunes": "https://apps.apple.com/app/networkarch/id1526690989",
       "license": "mit",
       "date_added": "Apr 5 2021",
       "suggested_by": "@ivirtex"
