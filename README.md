@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1250-green.svg) ![](https://img.shields.io/badge/Updated-April%2017,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1251-green.svg) ![](https://img.shields.io/badge/Updated-April%2019,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2648,6 +2648,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Area51 for Reddit](https://github.com/kgellci/Area51)
+  -  <a href='https://i.imgur.com/sf1v3Ae.png'>`Screenshot 1`</a> 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
+  -  ☆`134` 
 - [Beam](https://github.com/awkward/beam): Enjoy all of Reddit's content in a unique and beautiful package
   - [` App Store`](https://apps.apple.com/app/beam-for-reddit/id937987469) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/ab/1c/34/ab1c34ca-9913-ef85-ae35-10c2c7d3b7a6/mzl.gkpfevya.png/316x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/79/57/eb795798-bba3-21d5-6070-d8f508af1be0/mzl.lbvrfpjf.png/316x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/13/5d/53/135d536b-5ec2-a567-d72a-c5e6fb12f804/mzl.rzeufpyk.png/316x0w.jpg'>`Screenshot 3`</a> 
   -  `2020`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `swift` `objc` 
