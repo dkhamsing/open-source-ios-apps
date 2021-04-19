@@ -25991,6 +25991,24 @@
       "license": "mit",
       "date_added": "Apr 5 2021",
       "suggested_by": "@ivirtex"
-  }
+    },
+    {
+      "title": "Area51 for Reddit",
+      "category-ids": [
+        "news"
+      ],
+      "license": "mit",
+      "source": "https://github.com/kgellci/Area51",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://i.imgur.com/sf1v3Ae.png"
+      ],
+      "stars": 134,
+      "date_added": "Apr 19 2021",
+      "suggested_by": "@dkhamsing",
+      "license": "gpl-3.0"
+    }
   ]
 }
