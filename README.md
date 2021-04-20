@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1251-green.svg) ![](https://img.shields.io/badge/Updated-April%2019,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1252-green.svg) ![](https://img.shields.io/badge/Updated-April%2020,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1351,6 +1351,8 @@ File Management — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/argent-os/argent-ios/master/demo.png'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`42` 
+- [bandit-hat-budget](https://github.com/danielmgauthier/bandit-hat-budget): Simple budgeting
+  -   `swift` 
 - [BoardBank](https://github.com/richardxyx/BoardBank): Money manager for board games
   - <a href=https://www.richardneitzke.com>`https://www.richardneitzke.com`</a>
   -  <a href='https://i.imgur.com/fXB42iY.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/EMGOw0g.png'>`Screenshot 2`</a> 
