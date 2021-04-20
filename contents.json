@@ -26009,6 +26009,20 @@
       "date_added": "Apr 19 2021",
       "suggested_by": "@dkhamsing",
       "license": "gpl-3.0"
+    },
+    {
+      "title": "bandit-hat-budget",
+      "category-ids": [
+        "finance"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Simple budgeting",
+      "source": "https://github.com/danielmgauthier/bandit-hat-budget",
+      "license": "other",
+      "date_added": "Apr 20 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
