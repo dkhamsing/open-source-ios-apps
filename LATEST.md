@@ -56,7 +56,7 @@
 19. [Wire](https://github.com/wireapp/wire-ios)
 20. [Wikipedia](https://github.com/wikimedia/wikipedia-ios)
 21. [WooCommerce](https://github.com/woocommerce/woocommerce-ios)
-22. [Invoice Ninja](https://github.com/invoiceninja/flutter-client)
+22. [Invoice Ninja](https://github.com/invoiceninja/admin-portal)
 23. [Tutanota](https://github.com/tutao/tutanota)
 24. [Brave Private Web Browser](https://github.com/brave/brave-ios)
 25. [deltachat](https://github.com/deltachat/deltachat-ios)
