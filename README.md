@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1253-green.svg) ![](https://img.shields.io/badge/Updated-April%2022,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1253-green.svg) ![](https://img.shields.io/badge/Updated-April%2024,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3882,7 +3882,7 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://github.com/Widle-Studio/Grocery-App/raw/master/ScreenShot/Animation%20-11-01-11-57-17-742%5B1%5D-ANIMATION.gif'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` `dart` 
   -  ☆`568` 
-- [Invoice Ninja](https://github.com/invoiceninja/flutter-client): https://www.invoiceninja.com/
+- [Invoice Ninja](https://github.com/invoiceninja/admin-portal): https://www.invoiceninja.com/
   -  `2021`   `flutter` `dart` 
   -  ☆`913` 
 - [Minimalistic Push](https://github.com/iIDRAGONFIREIi/minimalistic_push): Track your push-ups in the training mode and see an overview of your sessions
