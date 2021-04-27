@@ -26054,6 +26054,7 @@
         "widget"
       ],
       "source": "https://github.com/StewartLynch/iOS-14-Widget",
+      "screenshots": ["https://user-images.githubusercontent.com/4723115/116166465-ea496480-a6b2-11eb-97af-77802532f5a2.png"],
       "license": "mit",
       "tags": [
         "swift",
