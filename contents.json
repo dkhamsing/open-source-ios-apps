@@ -26046,6 +26046,27 @@
       "date_added": "Apr 22 2021",
       "suggested_by": "@NathanFallet",
       "updated": "2021-04-21 21:25:00 UTC"
+    },
+    {
+      "title": "ImageFilterSwiftUI",
+      "category-ids": [
+        "swiftui",
+        "macos"
+      ],
+      "description": "Cross platform image filter",
+      "source": "https://github.com/alfianlosari/ImageFilterSwiftUICompleted",
+      "license": "other",
+      "stars": 41,
+      "tags": [
+        "swift",
+        "swiftui",
+        "macos"
+      ],
+      "screenshots": [
+        "https://github.com/alfianlosari/ImageFilterSwiftUICompleted/raw/master/promo.jpg?raw=true"
+      ],
+      "date_added": "Apr 27 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
