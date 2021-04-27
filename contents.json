@@ -26046,6 +26046,22 @@
       "date_added": "Apr 22 2021",
       "suggested_by": "@NathanFallet",
       "updated": "2021-04-21 21:25:00 UTC"
+    },
+    {
+      "title": "Static Widget Tutorial",
+      "category-ids": [
+        "swiftui",        
+        "widget"
+      ],
+      "source": "https://github.com/StewartLynch/iOS-14-Widget",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "ios14",
+        "widgetkit"
+      ],
+      "date_added": "Apr 26 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
