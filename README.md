@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1253-green.svg) ![](https://img.shields.io/badge/Updated-April%2027,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1254-green.svg) ![](https://img.shields.io/badge/Updated-April%2027,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3976,6 +3976,10 @@ Cross platform projects — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/hour-blocks-day-planner/id1456275153)
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `ipad` `macos` 
   -  ☆`49` 
+- [ImageFilterSwiftUI](https://github.com/alfianlosari/ImageFilterSwiftUICompleted): Cross platform image filter
+  -  <a href='https://github.com/alfianlosari/ImageFilterSwiftUICompleted/raw/master/promo.jpg?raw=true'>`Screenshot 1`</a> 
+  -   `swift` `swiftui` `macos` 
+  -  ☆`41` 
 - [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter
   -  `2019`   `swift` `swiftui` `ios13` `ipad` `macos` 
   -  ☆`3` 
@@ -4504,6 +4508,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/thestoneage/IDResistors/raw/gh-pages/assets/schreenshots/Screenshot-05.png'>`Screenshot 1`</a>  <a href='https://github.com/thestoneage/IDResistors/raw/gh-pages/assets/schreenshots/Screenshot-02.png'>`Screenshot 2`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
   -  ☆`5` 
+- [ImageFilterSwiftUI](https://github.com/alfianlosari/ImageFilterSwiftUICompleted): Cross platform image filter
+  -  <a href='https://github.com/alfianlosari/ImageFilterSwiftUICompleted/raw/master/promo.jpg?raw=true'>`Screenshot 1`</a> 
+  -   `swift` `swiftui` `macos` 
+  -  ☆`41` 
 - [IndieApps](https://github.com/antranapp/IndieApps): Showcase your side projects/apps
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`13` 
