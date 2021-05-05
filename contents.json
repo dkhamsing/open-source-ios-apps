@@ -26088,8 +26088,7 @@
       "category-ids": [
         "security"
       ],
-      "description": "VPN app for Mullvad VPN",
-      "source": "https://github.com/mullvad/mullvadvpn-app/tree/master/ios",
+      "source": "https://github.com/mullvad/mullvadvpn-app",
       "license": "gpl-3.0",
       "stars": 1500,
       "tags": [
