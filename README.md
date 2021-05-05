@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1254-green.svg) ![](https://img.shields.io/badge/Updated-May%20%201,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1255-green.svg) ![](https://img.shields.io/badge/Updated-May%20%205,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3129,6 +3129,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/lockdown-apps/id1469783711) <a href='https://i.imgur.com/HeOTZqn.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
   -  ☆`665` 
+- [Mullvad VPN](https://github.com/mullvad/mullvadvpn-app)
+  - [` App Store`](https://apps.apple.com/us/app/mullvad-vpn/id1488466513) <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-connected.PNG'>`Screenshot 1`</a>  <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-login.PNG'>`Screenshot 2`</a>  <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-location-server.PNG'>`Screenshot 3`</a> 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
+  -  ☆`1500` 
 - [Outline](https://github.com/Jigsaw-Code/outline-client): VPN designed for use with the Outline Server software, but fully compatible with any Shadowsocks server
   - <a href=https://getoutline.org>`https://getoutline.org`</a>
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `cordova` 
