@@ -26082,6 +26082,27 @@
       "date_added": "Apr 27 2021",
       "suggested_by": "@dkhamsing",
       "updated": "2020-03-16 15:39:38 UTC"
+    },
+    {
+      "title": "Mullvad VPN",
+      "category-ids": [
+        "security"
+      ],
+      "description": "VPN app for Mullvad VPN",
+      "source": "https://github.com/mullvad/mullvadvpn-app/tree/master/ios",
+      "license": "gpl-3.0",
+      "stars": 1500,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-connected.PNG",
+        "https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-login.PNG",
+        "https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-location-server.PNG"
+      ],
+      "itunes": "https://apps.apple.com/us/app/mullvad-vpn/id1488466513",
+      "date_added": "May 5 2021",
+      "suggested_by": "@Necklaces"
     }
   ]
 }
