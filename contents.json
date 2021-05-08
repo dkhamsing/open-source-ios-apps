@@ -2271,7 +2271,6 @@
       "description": "Multi wallet, All in one Blockchain solution",
       "license": "gpl-3.0",
       "source": "https://github.com/essentiaone/Essentia-iOS",
-      "itunes": "https://apps.apple.com/ua/app/essentia/id1438535734",
       "screenshots": [
         "https://clogos.essdev.info/ios/iOS_code_Essentia.png"
       ],
@@ -7528,7 +7527,6 @@
       ],
       "description": "Work timer with Today Extension",
       "source": "https://github.com/dasdom/Tomate",
-      "itunes": "https://apps.apple.com/app/fojusi/id923044693",
       "stars": 523,
       "tags": [
         "swift"
