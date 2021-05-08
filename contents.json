@@ -26102,6 +26102,21 @@
       "itunes": "https://apps.apple.com/us/app/mullvad-vpn/id1488466513",
       "date_added": "May 5 2021",
       "suggested_by": "@Necklaces"
+    },
+    {
+      "title": "Collected for AWS",
+      "category-ids": [
+        "misc"
+      ],
+      "source": "https://github.com/RoyalIcing/CollectedApp",
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+      ],
+      "date_added": "May 8 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
