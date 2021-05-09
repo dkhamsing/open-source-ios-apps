@@ -323,6 +323,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [TodayStocks](https://github.com/premnirmal/TodayStocks)
 - [Todo.txt](https://github.com/todotxt/todo.txt-ios)
 - [Toggl Timer](https://github.com/opensourceios/toggle-mobile)
+- [Toggl Timer](https://github.com/opensourceios/mobileapp)
 - [Tracker 4 Compassion](https://github.com/fokkezb/tracker)
 - [Tripletz Tic Tac Toe](https://github.com/Aaron-A/Tripletz)
 - [TrollDrop](https://github.com/a2/TrollDrop)
