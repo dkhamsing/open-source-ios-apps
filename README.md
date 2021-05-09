@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1256-green.svg) ![](https://img.shields.io/badge/Updated-May%20%208,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1256-green.svg) ![](https://img.shields.io/badge/Updated-May%20%209,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1246,7 +1246,7 @@ Today Extensions or Widgets — [back to top](#readme)
   -  `2021`   `swift` `carthage` 
   -  ☆`104` 
 - [Fojusi](https://github.com/dasdom/Tomate): Work timer with Today Extension
-  - [` App Store`](https://apps.apple.com/app/fojusi/id923044693) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/97/bc/c597bc2d-339c-8463-e7e7-f47fe7f6f770/mzl.uhkigexq.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/08/a6/aa/08a6aa5a-6a45-fcb0-5e75-c78fc2a10d67/mzl.ckjxbwfu.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8e/72/69/8e72696d-fae0-0f81-4868-aa281ba30866/mzl.ucpnawyo.png/460x0w.jpg'>`Screenshot 3`</a> 
+  -  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/97/bc/c597bc2d-339c-8463-e7e7-f47fe7f6f770/mzl.uhkigexq.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/08/a6/aa/08a6aa5a-6a45-fcb0-5e75-c78fc2a10d67/mzl.ckjxbwfu.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8e/72/69/8e72696d-fae0-0f81-4868-aa281ba30866/mzl.ucpnawyo.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`523` 
 - [GitHub contributions widget](https://github.com/fimuxd/GITGET)
@@ -1441,7 +1441,7 @@ File Management — [back to top](#readme)
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`571` 
 - [Essentia](https://github.com/essentiaone/Essentia-iOS): Multi wallet, All in one Blockchain solution
-  - [` App Store`](https://apps.apple.com/ua/app/essentia/id1438535734) <a href='https://clogos.essdev.info/ios/iOS_code_Essentia.png'>`Screenshot 1`</a> 
+  -  <a href='https://clogos.essdev.info/ios/iOS_code_Essentia.png'>`Screenshot 1`</a> 
   -  `2019`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
   -  ☆`39` 
 - [Exa Wallet Monero](https://github.com/exantech/exa-wallet-ios): Receive, spend and store your Monero with a multisignature wallet
@@ -3464,7 +3464,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`64` 
 - [Fojusi](https://github.com/dasdom/Tomate): Work timer with Today Extension
-  - [` App Store`](https://apps.apple.com/app/fojusi/id923044693) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/97/bc/c597bc2d-339c-8463-e7e7-f47fe7f6f770/mzl.uhkigexq.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/08/a6/aa/08a6aa5a-6a45-fcb0-5e75-c78fc2a10d67/mzl.ckjxbwfu.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8e/72/69/8e72696d-fae0-0f81-4868-aa281ba30866/mzl.ucpnawyo.png/460x0w.jpg'>`Screenshot 3`</a> 
+  -  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/97/bc/c597bc2d-339c-8463-e7e7-f47fe7f6f770/mzl.uhkigexq.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/08/a6/aa/08a6aa5a-6a45-fcb0-5e75-c78fc2a10d67/mzl.ckjxbwfu.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8e/72/69/8e72696d-fae0-0f81-4868-aa281ba30866/mzl.ucpnawyo.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`523` 
 - [Pomosh](https://github.com/stevenselcuk/Pomosh-iOS-watchOS): Pomodoro Technique assistant
@@ -4814,10 +4814,6 @@ https://www.xamarin.com/ — [back to top](#readme)
   -  <a href='https://propertycross.com/frameworks/xamarin/ios/PropertyCross.thumbnail.png'>`Screenshot 1`</a>  <a href='https://propertycross.com/frameworks/xamarin/ios/SearchResults.thumbnail.png'>`Screenshot 2`</a> 
   -   `csharp` 
   -  ☆`516` 
-- [Toggl Timer](https://github.com/toggl/mobileapp): Timesheet tracker
-  -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c2/92/12/c292124b-cd47-f2c0-8c53-683b66da71f6/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/70/36/be/7036be07-d26c-5832-a4d4-2dea5affc50f/mzl.hvggawxa.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f5/11/7f/f5117f7f-f369-98ce-8ad6-d23366450347/mzl.ambiyxmf.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/08/6d/2b/086d2b84-e722-c367-9135-bbec9c5b849a/mzl.gobyvnpu.png/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2020`  [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/) `csharp` 
-  -  ☆`250` 
 ## Bonus 
  
 [back to top](#readme) 
