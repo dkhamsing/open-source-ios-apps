@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1255-green.svg) ![](https://img.shields.io/badge/Updated-May%20%205,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1256-green.svg) ![](https://img.shields.io/badge/Updated-May%20%208,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3614,6 +3614,9 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png'>`Screenshot 1`</a> 
   -  `2020`  [`unlicense`](http://choosealicense.com/licenses/unlicense/) `swift` 
   -  ☆`194` 
+- [Collected for AWS](https://github.com/RoyalIcing/CollectedApp)
+  -  <a href='https://user-images.githubusercontent.com/4723115/117551270-ea722a00-aff9-11eb-879c-b0fedb57b4d0.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/4723115/117551271-ec3bed80-aff9-11eb-969e-c04313e214db.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/4723115/117551272-ed6d1a80-aff9-11eb-8d73-78c8f38176aa.png'>`Screenshot 3`</a> 
+  -   `swift` 
 - [CutTheNotch](https://github.com/Naituw/CutTheNotch): Create an illusion that you can hide the notch
   -  <a href='https://github.com/Naituw/CutTheNotch/blob/master/demo.gif?raw=true'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
