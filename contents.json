@@ -18571,7 +18571,7 @@
         "rxswift"
       ],
       "description": "A clone of Apple's Podcasts",
-      "source": "https://github.com/Karambirov/Podcasts",
+      "source": "https://github.com/Karambirov/Podcasts-SwiftUI",
       "license": "mit",
       "tags": [
         "swift",
