@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1256-green.svg) ![](https://img.shields.io/badge/Updated-May%20%209,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1256-green.svg) ![](https://img.shields.io/badge/Updated-May%2012,%202021-lightgrey.svg)
 
 Jump to
 
@@ -505,7 +505,7 @@ Jump to
   -  <a href='https://github.com/ivsall2012/AHPinterest/blob/master/AHPinterset.png?raw=true'>`Screenshot 1`</a> 
   -  `2017`   `swift` 
   -  ☆`68` 
-- [Podcasts](https://github.com/Karambirov/Podcasts): A clone of Apple's Podcasts
+- [Podcasts](https://github.com/Karambirov/Podcasts-SwiftUI): A clone of Apple's Podcasts
   -  <a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'>`Screenshot 4`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'>`Screenshot 5`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'>`Screenshot 6`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `rxswift` 
   -  ☆`18` 
@@ -2264,7 +2264,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://i.imgur.com/VKbP0Se.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `alamofire` 
   -  ☆`1` 
-- [Podcasts](https://github.com/Karambirov/Podcasts): A clone of Apple's Podcasts
+- [Podcasts](https://github.com/Karambirov/Podcasts-SwiftUI): A clone of Apple's Podcasts
   -  <a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'>`Screenshot 4`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'>`Screenshot 5`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'>`Screenshot 6`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `rxswift` 
   -  ☆`18` 
@@ -4332,7 +4332,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'>`Screenshot 2`</a> 
   -  `2020`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`1037` 
-- [Podcasts](https://github.com/Karambirov/Podcasts): A clone of Apple's Podcasts
+- [Podcasts](https://github.com/Karambirov/Podcasts-SwiftUI): A clone of Apple's Podcasts
   -  <a href='https://user-images.githubusercontent.com/6949755/54340090-a5375500-4647-11e9-8124-87794e1c2c05.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340091-a5375500-4647-11e9-844d-e6a5cd78fd44.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340092-a5cfeb80-4647-11e9-8cf7-3b9b4892b20c.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340093-a5cfeb80-4647-11e9-84a1-2de51cdc0ccc.png'>`Screenshot 4`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340095-a5cfeb80-4647-11e9-8ae5-f758aaa3014e.png'>`Screenshot 5`</a>  <a href='https://user-images.githubusercontent.com/6949755/54340096-a5cfeb80-4647-11e9-853c-fa0aa9128d34.png'>`Screenshot 6`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `rxswift` 
   -  ☆`18` 
