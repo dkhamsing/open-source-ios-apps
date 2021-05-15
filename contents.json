@@ -13745,7 +13745,7 @@
     },
     {
       "title": "Chrome",
-      "source": "https://chromium.googlesource.com/chromium/src.git/+/master/ios/",
+      "source": "https://chromium.googlesource.com/chromium/src/ios/",
       "homepage": "https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html",
       "category-ids": [
         "official",
