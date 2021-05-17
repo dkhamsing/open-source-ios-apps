@@ -22306,7 +22306,7 @@
       "category-ids": [
         "misc"
       ],
-      "description": "Raises awareness of the injustice and often forgotten names of racial inequality. Includes a catalog of verified donation and petition links.",
+      "description": "Raises awareness of the injustice and often forgotten names of racial inequality, includes a catalog of verified donation and petition links",
       "source": "https://github.com/Say-Their-Name/say-their-names-ios",
       "itunes": "https://apps.apple.com/app/say-their-names/id1517599626",
       "license": "mit",
@@ -25248,7 +25248,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "This is a port of Simon Tatham's Portable Puzzle Collection to iOS, which is a collection of 38 single-player puzzle games.",
+      "description": "This is a port of Simon Tatham's Portable Puzzle Collection to iOS, which is a collection of 38 single-player puzzle games",
       "source": "https://github.com/ghewgill/puzzles",
       "homepage": "https://hewgill.com/puzzles/",
       "itunes": "https://apps.apple.com/app/simon-tathams-portable-puzzle/id622220631",
@@ -25570,7 +25570,7 @@
       "tags": [
         "swift"
       ],
-      "description": "Modern way to explore Unsplash.",
+      "description": "Modern way to explore Unsplash",
       "source": "https://github.com/Neko3000/Monotone",
       "screenshots": [
         "https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-1.png",
@@ -25655,7 +25655,7 @@
       "category-ids": [
         "audio"
       ],
-      "description": "Minimal chromatic tuner.",
+      "description": "Minimal chromatic tuner",
       "source": "https://github.com/jpsim/ZenTuner",
       "itunes": "https://apps.apple.com/app/zen-tuner/id1550640624",
       "tags": [
@@ -25759,7 +25759,7 @@
         "swiftui",
         "macos"
       ],
-      "description": "Find LaTeX symbols by drawing or searching.",
+      "description": "Find LaTeX symbols by drawing or searching",
       "source": "https://github.com/venkatasg/DeTeXt",
       "itunes": "https://apps.apple.com/app/id1531906207",
       "screenshots": [
@@ -25907,7 +25907,7 @@
         "go",
         "golang"
       ],
-      "description": "Quickly send messages to yourself as a means of fast note taking",
+      "description": "Quickly send messages to yourself as a means of note taking",
       "source": "https://github.com/nathanborror/logger",
       "itunes": "https://apps.apple.com/app/logger-notes/id1364248334",
       "license": "gpl-3.0",
@@ -25924,7 +25924,7 @@
       "category-ids": [
         "developer"
       ],
-      "description": "An OCaml editor with an interactive toplevel and a growing learn section",
+      "description": "OCaml editor with a growing learn section",
       "source": "https://github.com/GroupeMINASTE/OCaml-iOS",
       "itunes": "https://apps.apple.com/app/ocaml-learn-code/id1547506826",
       "license": "gpl-3.0",
@@ -26041,7 +26041,7 @@
       "category-ids": [
         "health"
       ],
-      "description": "Quicky find a COVID-19 vaccine near home in France",
+      "description": "Quicky find a COVID-19 vaccine in France",
       "source": "https://github.com/CovidTrackerFr/vitemadose-ios",
       "itunes": "https://apps.apple.com/fr/app/vite-ma-dose/id1563630754",
       "license": "gpl-3.0",
