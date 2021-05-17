@@ -363,7 +363,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id737216887) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/74/06/aa/7406aaa2-1913-c66a-3896-b1bcc6f48f23/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/15/71/51/1571512a-a119-11e5-e5c5-7ddc15528ec9/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1b/5f/7e/1b5f7e20-5478-6d36-a8e9-6353a37d94e9/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a0/0b/99/a00b99a7-cb8c-2e54-802b-e828743e22bb/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/85/3b/b4/853bb4b2-3317-17b1-5ed5-7a12a5be6ca6/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2020`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `objc` 
   -  ☆`84` 
-- [OCaml: Learn & Code](https://github.com/GroupeMINASTE/OCaml-iOS): An OCaml editor with an interactive toplevel and a growing learn section
+- [OCaml: Learn & Code](https://github.com/GroupeMINASTE/OCaml-iOS): OCaml editor with a growing learn section
   - [` App Store`](https://apps.apple.com/app/ocaml-learn-code/id1547506826) <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/18/27/a5/1827a5ca-d493-968e-520c-a1da52c14053/aac6dd60-c3ba-48e7-b763-d065b3d6cccb_MAX-EN-1@3x.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/7d/fc/cc/7dfccced-4658-54c8-c20b-d447e6caec06/13ec0f62-b0cf-427e-8c25-9c282432ddf7_MAX-EN-2@3x.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b2/d7/02/b2d7025c-a38b-47bd-96b9-3dbc6eae2979/2201b288-e06a-469f-bdcc-5d511e254716_MAX-EN-3@3x.png/600x0w.png'>`Screenshot 3`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `ipad` 
   -  ☆`12` 
@@ -439,7 +439,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/delta-math-helper/id1436506800) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/c1/74/31c174b5-5be4-b78d-dbb9-f55fa0c6a624/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/38/1d/e8381dde-da9f-91e9-674f-25077cd6322e/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/e0/92/63e092f4-9a11-9936-d3ad-da8cc258afd8/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `macos` `ipad` 
   -  ☆`9` 
-- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching.
+- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`15` 
@@ -732,7 +732,7 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/shmup/id337663605) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple117/v4/40/3a/21/403a21ac-9841-ab2b-4353-ce1f72a2c753/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/2b/f4/8f/2bf48f1f-70fd-33d3-3198-c18ee88e2414/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/c3/97/7e/c3977e1f-48c9-e4b6-5f94-a4a988a53567/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2018`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `objc` 
   -  ☆`234` 
-- [Simon Tatham's Portable Puzzle Collection](https://github.com/ghewgill/puzzles): This is a port of Simon Tatham's Portable Puzzle Collection to iOS, which is a collection of 38 single-player puzzle games.
+- [Simon Tatham's Portable Puzzle Collection](https://github.com/ghewgill/puzzles): This is a port of Simon Tatham's Portable Puzzle Collection to iOS, which is a collection of 38 single-player puzzle games
   - <a href=https://hewgill.com/puzzles/>`https://hewgill.com/puzzles/`</a>
   - [` App Store`](https://apps.apple.com/app/simon-tathams-portable-puzzle/id622220631) <a href='https://hewgill.com/puzzles/screenshot-iphone4-1-200.png'>`Screenshot 1`</a>  <a href='https://hewgill.com/puzzles/screenshot-iphone4-2-200.png'>`Screenshot 2`</a>  <a href='https://hewgill.com/puzzles/screenshot-iphone4-3-200.png'>`Screenshot 3`</a>  <a href='https://hewgill.com/puzzles/screenshot-iphone4-4-200.png'>`Screenshot 4`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
@@ -793,7 +793,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1003891579) <a href='https://i.imgur.com/9N05Hru.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`10` 
-- [Vite Ma Dose de Vaccin !](https://github.com/CovidTrackerFr/vitemadose-ios): Quicky find a COVID-19 vaccine near home in France
+- [Vite Ma Dose de Vaccin !](https://github.com/CovidTrackerFr/vitemadose-ios): Quicky find a COVID-19 vaccine in France
   - [` App Store`](https://apps.apple.com/fr/app/vite-ma-dose/id1563630754) <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/bd/45/d5/bd45d5dd-4168-d2f5-ae62-448ea5cfc435/5635e2d4-0e69-45cb-8bf1-6779b7585c02_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-04-20_at_13.21.23.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a0/73/70/a0737094-f8da-eb35-a2ce-a828b9a420c4/41353d0c-d4c4-402c-b31f-a5391db4c6a9_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-04-20_at_13.21.27.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/81/d6/94/81d69467-242b-cf3d-30d7-6222b9b0eddf/467635c0-5acc-40d8-8d7e-0728ef287724_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-04-20_at_13.21.32.png/600x0w.png'>`Screenshot 3`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
   -  ☆`18` 
@@ -1064,7 +1064,7 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/podverse/id1390888454) <a href='https://i.imgur.com/nRFpfup.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/x7uP0x7.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/wKagdik.png'>`Screenshot 3`</a>  <a href='https://i.imgur.com/KC3zv1d.png'>`Screenshot 4`</a> 
   -  `2021`  [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/) `react-native` 
   -  ☆`12` 
-- [ZenTuner](https://github.com/jpsim/ZenTuner): Minimal chromatic tuner.
+- [ZenTuner](https://github.com/jpsim/ZenTuner): Minimal chromatic tuner
   - [` App Store`](https://apps.apple.com/app/zen-tuner/id1550640624) <a href='https://github.com/jpsim/ZenTuner/raw/main/images/zentuner-ios-dark.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`317` 
@@ -1519,7 +1519,7 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/jotify/id1469983730) <a href='https://i.imgur.com/RzKd4VV.png'>`Screenshot 1`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `ipad` 
   -  ☆`86` 
-- [Logger](https://github.com/nathanborror/logger): Quickly send messages to yourself as a means of fast note taking
+- [Logger](https://github.com/nathanborror/logger): Quickly send messages to yourself as a means of note taking
   - [` App Store`](https://apps.apple.com/app/logger-notes/id1364248334) <a href='https://github.com/nathanborror/logger/raw/master/static/2021-03-29%20Logger.png?raw=true'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `go` `golang` 
   -  ☆`28` 
@@ -1627,7 +1627,7 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/reading-list-book-log/id1217139955) <a href='https://github.com/AndrewBennet/ReadingList/raw/master/media/iPhone%20X-0_ToReadList_framed.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `storyboard` `eureka` `firebase` 
   -  ☆`270` 
-- [Say Their Names](https://github.com/Say-Their-Name/say-their-names-ios): Raises awareness of the injustice and often forgotten names of racial inequality. Includes a catalog of verified donation and petition links.
+- [Say Their Names](https://github.com/Say-Their-Name/say-their-names-ios): Raises awareness of the injustice and often forgotten names of racial inequality, includes a catalog of verified donation and petition links
   - [` App Store`](https://apps.apple.com/app/say-their-names/id1517599626) <a href='https://i.imgur.com/9l2ooUL.jpg'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`253` 
@@ -1695,7 +1695,7 @@ Cross platform projects — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/delta-math-helper/id1436506800) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/c1/74/31c174b5-5be4-b78d-dbb9-f55fa0c6a624/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/38/1d/e8381dde-da9f-91e9-674f-25077cd6322e/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/e0/92/63e092f4-9a11-9936-d3ad-da8cc258afd8/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `macos` `ipad` 
   -  ☆`9` 
-- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching.
+- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`15` 
@@ -1806,7 +1806,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/ac-helper/id1508764244) <a href='https://i.imgur.com/dcs8niz.png'>`Screenshot 1`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `ipad` 
   -  ☆`1380` 
-- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching.
+- [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`15` 
