@@ -26118,6 +26118,24 @@
       ],
       "date_added": "May 8 2021",
       "suggested_by": "@dkhamsing"
-    }
+    },
+    {
+      "title": "CalendarApp",
+      "category-ids": [
+        "calendar"
+      ],
+      "description": "Sample calendar app created with CalendarKit (template repository). Shows events from EventKit.",
+      "license": "mit",
+      "source": "https://github.com/richardtop/CalendarApp",
+      "tags": [
+        "swift"
+      ],
+      "stars": 4,
+      "date_added": "May 18 2021",
+      "suggested_by": "@richardtop",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/8013017/118695043-68fa7300-b815-11eb-8153-f13b51335f19.jpg"
+      ],
+    },
   ]
 }
