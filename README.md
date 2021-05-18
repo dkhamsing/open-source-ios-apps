@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1256-green.svg) ![](https://img.shields.io/badge/Updated-May%2017,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1257-green.svg) ![](https://img.shields.io/badge/Updated-May%2018,%202021-lightgrey.svg)
 
 Jump to
 
@@ -391,6 +391,10 @@ Jump to
 [back to top](#readme) 
  
 
+- [CalendarApp](https://github.com/richardtop/CalendarApp): Sample calendar app created with CalendarKit (template repository). Shows events from EventKit.
+  -  <a href='https://user-images.githubusercontent.com/8013017/118695043-68fa7300-b815-11eb-8153-f13b51335f19.jpg'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
+  -  ☆`4` 
 - [CalendarKit](https://github.com/richardtop/CalendarKit): Example app for a day view calendar UI component. Similar to Apple calendar app
   -  <a href='https://user-images.githubusercontent.com/8013017/102885008-5729c500-445b-11eb-9f26-f835b51d8ebf.jpg'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
