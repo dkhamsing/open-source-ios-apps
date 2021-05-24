@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1257-green.svg) ![](https://img.shields.io/badge/Updated-May%2018,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1257-green.svg) ![](https://img.shields.io/badge/Updated-May%2024,%202021-lightgrey.svg)
 
 Jump to
 
@@ -395,10 +395,6 @@ Jump to
   -  <a href='https://user-images.githubusercontent.com/8013017/118695043-68fa7300-b815-11eb-8153-f13b51335f19.jpg'>`Screenshot 1`</a> 
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`4` 
-- [CalendarKit](https://github.com/richardtop/CalendarKit): Example app for a day view calendar UI component. Similar to Apple calendar app
-  -  <a href='https://user-images.githubusercontent.com/8013017/102885008-5729c500-445b-11eb-9f26-f835b51d8ebf.jpg'>`Screenshot 1`</a> 
-  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
-  -  ☆`1781` 
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets
   - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `iphone` `ipad` 
