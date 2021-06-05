@@ -25927,10 +25927,10 @@
         "developer"
       ],
       "description": "OCaml editor with a growing learn section",
-      "source": "https://github.com/GroupeMINASTE/OCaml-iOS",
+      "source": "https://github.com/GroupeMINASTE/OCaml",
       "itunes": "https://apps.apple.com/app/ocaml-learn-code/id1547506826",
       "license": "gpl-3.0",
-      "stars": 15,
+      "stars": 16,
       "tags": [
         "swift",
         "ipad"
