@@ -12,7 +12,7 @@
 8. [NetworkArch](https://github.com/ivirtex/NetworkArch)
 9. [iSpy game](https://github.com/ByCyril/iSpy-Game)
 10. [Modern Collection Views](https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios)
-11. [OCaml: Learn & Code](https://github.com/GroupeMINASTE/OCaml-iOS)
+11. [OCaml: Learn & Code](https://github.com/GroupeMINASTE/OCaml)
 12. [Logger](https://github.com/nathanborror/logger)
 13. [Hour Blocks](https://github.com/jtsaeed/Hour-Blocks)
 14. [isowords](https://github.com/pointfreeco/isowords)
