@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1257-green.svg) ![](https://img.shields.io/badge/Updated-June%20%205,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1257-green.svg) ![](https://img.shields.io/badge/Updated-June%20%207,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1200,7 +1200,7 @@ Jump to
  
 
 - [Adblock Fast](https://github.com/rocketshipapps/adblockfast)
-  - [` App Store`](https://apps.apple.com/app/adblock-fast/id1032930802) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/80/06/f9/8006f9c6-cc64-03b0-5df2-d65dd22d2a0c/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/37/6b/3f/376b3f54-9362-75e5-a484-ebcc314efc8e/mzl.wsjuxftd.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/4a/84/98/4a849841-ec59-e945-d290-8245f500b93c/mzl.nnbdchrh.png/460x0w.jpg'>`Screenshot 3`</a> 
+  -  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/80/06/f9/8006f9c6-cc64-03b0-5df2-d65dd22d2a0c/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/37/6b/3f/376b3f54-9362-75e5-a484-ebcc314efc8e/mzl.wsjuxftd.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/4a/84/98/4a849841-ec59-e945-d290-8245f500b93c/mzl.nnbdchrh.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `objc` 
   -  ☆`595` 
 - [Adblock Plus](https://github.com/adblockplus/adblockplussafariios)
@@ -1515,7 +1515,7 @@ File Management — [back to top](#readme)
   -  `2019`   `swift` 
   -  ☆`203` 
 - [Conway's Game of Life (Vie)](https://github.com/fabienwarniez/Vie)
-  - [` App Store`](https://apps.apple.com/app/vie-conways-game-of-life/id989686123) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/0f/ba/ac/0fbaac33-c886-8e11-e597-2c2356bd7b19/mzl.mgimezjp.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple20/v4/9c/9e/51/9c9e5174-c951-4160-d3ae-fd3bdc96483f/mzl.svdtshvp.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple30/v4/7c/0f/68/7c0f68fd-3a99-78d7-ee00-bc3d2adbe725/mzl.pryailjm.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/64/29/be/6429be2e-f4d4-45de-ff6f-cf68008cecbc/mzl.nsqxiigs.png/460x0w.jpg'>`Screenshot 4`</a> 
+  -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/0f/ba/ac/0fbaac33-c886-8e11-e597-2c2356bd7b19/mzl.mgimezjp.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple20/v4/9c/9e/51/9c9e5174-c951-4160-d3ae-fd3bdc96483f/mzl.svdtshvp.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple30/v4/7c/0f/68/7c0f68fd-3a99-78d7-ee00-bc3d2adbe725/mzl.pryailjm.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/64/29/be/6429be2e-f4d4-45de-ff6f-cf68008cecbc/mzl.nsqxiigs.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`5` 
 - [CookieCrunch](https://github.com/renatomcamilio/CookieCrunch): Candy Crush clone
@@ -2222,7 +2222,6 @@ Image, video, audio, reading — [back to top](#readme)
  
 
 - [Analog Synth X](https://github.com/audiokit/AudioKit): Simple analog synthesizer music keyboard example
-  - <a href=https://audiokit.io/examples/AnalogSynthX/>`https://audiokit.io/examples/AnalogSynthX/`</a>
   -  <a href='https://cdn-images-1.medium.com/max/800/1*hj0rxmPvapxpY1URdvw97A.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`8445` 
