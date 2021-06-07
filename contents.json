@@ -1891,7 +1891,6 @@
         "objc"
       ],
       "source": "https://github.com/rocketshipapps/adblockfast",
-      "itunes": "https://apps.apple.com/app/adblock-fast/id1032930802",
       "stars": 595,
       "license": "gpl-3.0",
       "date_added": "Fri Sep 25 08:41:14 2015 -0700",
@@ -3980,7 +3979,6 @@
       ],
       "description": "Simple analog synthesizer music keyboard example",
       "source": "https://github.com/audiokit/AudioKit",
-      "homepage": "https://audiokit.io/examples/AnalogSynthX/",
       "tags": [
         "swift"
       ],
@@ -11761,7 +11759,6 @@
         "objc"
       ],
       "source": "https://github.com/fabienwarniez/Vie",
-      "itunes": "https://apps.apple.com/app/vie-conways-game-of-life/id989686123",
       "license": "mit",
       "date_added": "Fri Jul 22 08:52:28 2016 -0700",
       "suggested_by": "@fabienwarniez",
