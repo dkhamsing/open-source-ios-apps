@@ -22813,12 +22813,13 @@
         "macos",
         "widget"
       ],
-      "description": "Create a shared codebase to build a multiplatform app that offers widgets and an app clip - WWDC 2020 sample code by Apple",
+      "description": "Create a shared codebase to build a multiplatform app that offers widgets and an App Clip - WWDC 2020 and WWDC 2021 sample code by Apple",
       "source": "https://developer.apple.com/documentation/app_clips/fruta_building_a_feature-rich_app_with_swiftui",
       "license": "other",
       "tags": [
         "swift",
         "ios14",
+        "ios15",
         "widgetkit",
         "macos",
         "app-clip"
