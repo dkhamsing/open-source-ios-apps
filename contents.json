@@ -26140,6 +26140,26 @@
         "https://user-images.githubusercontent.com/8013017/118695043-68fa7300-b815-11eb-8153-f13b51335f19.jpg"
       ],
       "updated": "2021-05-25 02:33:49 UTC"
-    }
+    },
+	{
+	  "title": "COVID Certificate",
+	  "category-ids": [
+		  "health"
+	  ],
+	  "description": "The official app for storing and presenting COVID certificates issued in Switzerland.",
+	  "source": "https://github.com/admin-ch/CovidCertificate-App-iOS",
+	  "itunes": "https://apps.apple.com/app/covid-certificate/id1565917320",
+	  "license": "mpl-2.0",
+	  "stars": 35,
+	  "tags": ["swift"],
+	  "screenshots": [
+		  "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/f1/60/29/f16029e5-bcea-6da0-089a-e9602c213b3d/711afbc3-7fcc-4e1d-8b23-da297da2f13a_EN_01.png/460x0w.png",
+		  "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/df/21/4e/df214e74-9e0a-b75c-e7a9-c205daa722e5/dc80b2a9-e4ad-445b-8508-dcd4ff88c427_EN_02.png/460x0w.png",
+		  "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/f8/70/cf/f870cfa1-3c6f-5f2c-1557-055a854cf0ec/22f1b368-1222-400d-bbeb-6c121f58cf46_EN_03.png/460x0w.png",
+		  "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a3/53/b2/a353b254-57b2-ad1c-2bd3-d780cbb148ec/75a16b48-358e-4d6c-bdca-47c571b07f42_EN_04.png/460x0w.png"
+	  ],
+	  "date_added": "June 8 2021",
+	  "suggested_by": "@0xced"
+	}
   ]
 }
