@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **277** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **278** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -110,6 +110,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/420/id1194325430) <a href='https://raw.githubusercontent.com/efremidze/Alarm/master/screenshots/en-US/iPhone7-0-d41d8cd98f00b204e9800998ecf8427e.png'>`Screenshot 1`</a> 
   -  `2019`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`33` 
+- [Chanify](https://github.com/chanify/chanify-ios): Safe and simple notification tool, includes a Notification Service Extension
+  - <a href=https://www.chanify.net>`https://www.chanify.net`</a>
+  - [` App Store`](https://apps.apple.com/app/id1531546573) <a href='https://raw.githubusercontent.com/wiki/chanify/chanify/images/preview.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets
   - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `iphone` `ipad` 
@@ -517,6 +521,10 @@ Jump to
 [back to top](#readme) 
  
 
+- [Chanify](https://github.com/chanify/chanify-ios): Safe and simple notification tool, includes a Notification Service Extension
+  - <a href=https://www.chanify.net>`https://www.chanify.net`</a>
+  - [` App Store`](https://apps.apple.com/app/id1531546573) <a href='https://raw.githubusercontent.com/wiki/chanify/chanify/images/preview.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
 - [HTTPS4All](https://github.com/bouk/HTTPS4All): Port of HTTPS Everywhere to force (most) links to use HTTPS
   - [` App Store`](https://apps.apple.com/app/https4all/id1305430042)
   -  `2020`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `swift` 
@@ -765,7 +773,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [COVID Certificate](https://github.com/admin-ch/CovidCertificate-App-iOS): The official app for storing and presenting COVID certificates issued in Switzerland.
+- [COVID Certificate](https://github.com/admin-ch/CovidCertificate-App-iOS): The official app for storing and presenting COVID certificates issued in Switzerland
   - [` App Store`](https://apps.apple.com/app/covid-certificate/id1565917320) <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/f1/60/29/f16029e5-bcea-6da0-089a-e9602c213b3d/711afbc3-7fcc-4e1d-8b23-da297da2f13a_EN_01.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/df/21/4e/df214e74-9e0a-b75c-e7a9-c205daa722e5/dc80b2a9-e4ad-445b-8508-dcd4ff88c427_EN_02.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/f8/70/cf/f870cfa1-3c6f-5f2c-1557-055a854cf0ec/22f1b368-1222-400d-bbeb-6c121f58cf46_EN_03.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a3/53/b2/a353b254-57b2-ad1c-2bd3-d780cbb148ec/75a16b48-358e-4d6c-bdca-47c571b07f42_EN_04.png/460x0w.png'>`Screenshot 4`</a> 
   -  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` 
   -  ☆`35` 
