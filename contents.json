@@ -26127,7 +26127,7 @@
       "category-ids": [
         "calendar"
       ],
-      "description": "Sample calendar app created with CalendarKit (template repository). Shows events from EventKit.",
+      "description": "Sample calendar app created with CalendarKit (template repository), shows events from EventKit",
       "license": "mit",
       "source": "https://github.com/richardtop/CalendarApp",
       "tags": [
@@ -26146,7 +26146,7 @@
 	  "category-ids": [
 		  "health"
 	  ],
-	  "description": "The official app for storing and presenting COVID certificates issued in Switzerland.",
+	  "description": "The official app for storing and presenting COVID certificates issued in Switzerland",
 	  "source": "https://github.com/admin-ch/CovidCertificate-App-iOS",
 	  "itunes": "https://apps.apple.com/app/covid-certificate/id1565917320",
 	  "license": "mpl-2.0",
