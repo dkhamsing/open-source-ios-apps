@@ -26160,6 +26160,21 @@
 	  ],
 	  "date_added": "June 8 2021",
 	  "suggested_by": "@0xced"
-	}
+	},
+    {
+      "title": "Chanify",
+      "category-ids": [
+        "extension",
+        "apple-watch"
+      ],
+      "description": "Chanify is a safe and simple notification tools, includes a Notification Service Extension.",
+      "source": "https://github.com/chanify/chanify-ios",
+      "homepage": "https://www.chanify.net",
+      "itunes": "https://itunes.apple.com/app/id1531546573",
+      "license": "mit",
+      "screenshots": ["https://raw.githubusercontent.com/wiki/chanify/chanify/images/preview.png"],
+      "date_added": "Jun 9 2021",
+      "suggested_by": "@wizjin"
+    }
   ]
 }
