@@ -26170,7 +26170,7 @@
       "description": "Safe and simple notification tool, includes a Notification Service Extension",
       "source": "https://github.com/chanify/chanify-ios",
       "homepage": "https://www.chanify.net",
-      "itunes": "https://itunes.apple.com/app/id1531546573",
+      "itunes": "https://apps.apple.com/app/id1531546573",
       "license": "mit",
       "tags": ["objc"],
       "screenshots": ["https://raw.githubusercontent.com/wiki/chanify/chanify/images/preview.png"],
