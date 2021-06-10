@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1259-green.svg) ![](https://img.shields.io/badge/Updated-June%20%209,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1260-green.svg) ![](https://img.shields.io/badge/Updated-June%2010,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2422,6 +2422,10 @@ Image, video, audio, reading — [back to top](#readme)
 - [MyAnimeList](https://github.com/MaisaMilena/MyAnimeList)
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `vip` `realm` 
   -  ☆`17` 
+- [OldOS](https://github.com/zzanehip/The-OldOS-Project): iOS 4 beautifully rebuilt in SwiftUI
+  -  <a href='https://dl.airtable.com/.attachmentThumbnails/87909068b484180426674d0c537c778f/c8597d6a'>`Screenshot 1`</a> 
+  -   `swift` `swiftui` 
+  -  ☆`830` 
 - [osia](https://github.com/dkhamsing/osia): Super basic app to browse open-source-ios-apps
   -  <a href='https://raw.githubusercontent.com/dkhamsing/osia/main/Assets/0.7.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
@@ -4017,6 +4021,10 @@ Cross platform projects — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` `swiftui` `themoviedb` `combine` `ipad` `macos` 
   -  ☆`5632` 
+- [OldOS](https://github.com/zzanehip/The-OldOS-Project): iOS 4 beautifully rebuilt in SwiftUI
+  -  <a href='https://dl.airtable.com/.attachmentThumbnails/87909068b484180426674d0c537c778f/c8597d6a'>`Screenshot 1`</a> 
+  -   `swift` `swiftui` 
+  -  ☆`830` 
 - [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui): Cross-platform Reddit client
   -  <a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `macos` `watchos` 
@@ -4607,6 +4615,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  ☆`281` 
 - [Notes](https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451): Notes app written in < 100 lines
   -   `swift` `swiftui` 
+- [OldOS](https://github.com/zzanehip/The-OldOS-Project): iOS 4 beautifully rebuilt in SwiftUI
+  -  <a href='https://dl.airtable.com/.attachmentThumbnails/87909068b484180426674d0c537c778f/c8597d6a'>`Screenshot 1`</a> 
+  -   `swift` `swiftui` 
+  -  ☆`830` 
 - [OSRSUI](https://github.com/Dimillian/OSRSUI): Old School Runescape database browser
   -  `2020`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `combine` 
   -  ☆`30` 
