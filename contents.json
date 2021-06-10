@@ -26176,6 +26176,27 @@
       "screenshots": ["https://raw.githubusercontent.com/wiki/chanify/chanify/images/preview.png"],
       "date_added": "Jun 9 2021",
       "suggested_by": "@wizjin"
+    },
+    {
+      "title": "OldOS",
+      "category-ids": [
+        "content",
+        "swiftui",
+        "macos"
+      ],
+      "description": "iOS 4 beautifully rebuilt in SwiftUI",
+      "source": "https://github.com/zzanehip/The-OldOS-Project",
+      "license": "other",
+      "stars": 830,
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://dl.airtable.com/.attachmentThumbnails/87909068b484180426674d0c537c778f/c8597d6a"
+      ],
+      "date_added": "June 10 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
