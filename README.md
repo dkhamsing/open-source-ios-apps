@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1260-green.svg) ![](https://img.shields.io/badge/Updated-June%2010,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1260-green.svg) ![](https://img.shields.io/badge/Updated-June%2012,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2422,10 +2422,6 @@ Image, video, audio, reading — [back to top](#readme)
 - [MyAnimeList](https://github.com/MaisaMilena/MyAnimeList)
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `vip` `realm` 
   -  ☆`17` 
-- [OldOS](https://github.com/zzanehip/The-OldOS-Project): iOS 4 beautifully rebuilt in SwiftUI
-  -  <a href='https://dl.airtable.com/.attachmentThumbnails/87909068b484180426674d0c537c778f/c8597d6a'>`Screenshot 1`</a> 
-  -   `swift` `swiftui` 
-  -  ☆`830` 
 - [osia](https://github.com/dkhamsing/osia): Super basic app to browse open-source-ios-apps
   -  <a href='https://raw.githubusercontent.com/dkhamsing/osia/main/Assets/0.7.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
@@ -4021,10 +4017,6 @@ Cross platform projects — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` `swiftui` `themoviedb` `combine` `ipad` `macos` 
   -  ☆`5632` 
-- [OldOS](https://github.com/zzanehip/The-OldOS-Project): iOS 4 beautifully rebuilt in SwiftUI
-  -  <a href='https://dl.airtable.com/.attachmentThumbnails/87909068b484180426674d0c537c778f/c8597d6a'>`Screenshot 1`</a> 
-  -   `swift` `swiftui` 
-  -  ☆`830` 
 - [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui): Cross-platform Reddit client
   -  <a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `macos` `watchos` 
