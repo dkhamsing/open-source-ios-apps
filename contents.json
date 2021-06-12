@@ -26180,9 +26180,7 @@
     {
       "title": "OldOS",
       "category-ids": [
-        "content",
-        "swiftui",
-        "macos"
+        "swiftui"
       ],
       "description": "iOS 4 beautifully rebuilt in SwiftUI",
       "source": "https://github.com/zzanehip/The-OldOS-Project",
