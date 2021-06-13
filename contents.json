@@ -5377,7 +5377,7 @@
         "sample"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Code samples from WWDC 2015",
       "source": "https://developer.apple.com/videos/2015/",
