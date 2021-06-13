@@ -26195,6 +26195,21 @@
       ],
       "date_added": "June 10 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Apple WWDC 2021",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Sample code referenced in WWDC21 session videos",
+      "source": "https://developer.apple.com/sample-code/wwdc/2021/",
+      "license": "other",
+      "date_added": "Jun 12 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
