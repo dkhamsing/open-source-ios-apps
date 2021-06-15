@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1261-green.svg) ![](https://img.shields.io/badge/Updated-June%2013,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1261-green.svg) ![](https://img.shields.io/badge/Updated-June%2015,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2951,8 +2951,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`6751` 
 - [Apple Developer Library](https://developer.apple.com/library/archive/navigation/)
   -   `objc` 
-- [Apple WWDC 2015](https://developer.apple.com/videos/2015/): Code samples from WWDC 2015
-  -   `objc` 
 - [Apple WWDC 2021](https://developer.apple.com/sample-code/wwdc/2021/): Sample code referenced in WWDC21 session videos
   -   `swift` `swiftui` 
 - [ARKit Example](https://github.com/gao0122/ARKit-Example-by-Apple): Placing objects
@@ -3544,7 +3542,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  ☆`71` 
 - [NearbyWeather](https://github.com/erikmartens/NearbyWeather): Current weather for nearby stations with list, map and detail view
   - [` App Store`](https://apps.apple.com/app/nearbyweather/id1227313069) <a href='https://i.imgur.com/Fba7ppE.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/fgPbJVx.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/MdQJiLj.png'>`Screenshot 3`</a> 
-  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `javascript` `sqlite` `openweathermap` 
+  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `javascript` `sqlite` `openweathermap` `rxswift` `alamofire` 
   -  ☆`182` 
 - [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)
   -  <a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'>`Screenshot 1`</a> 
