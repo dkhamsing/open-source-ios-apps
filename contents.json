@@ -15580,7 +15580,9 @@
         "swift",
         "javascript",
         "sqlite",
-        "openweathermap"
+        "openweathermap",
+        "rxswift",
+        "alamofire"
       ],
       "screenshots": [
         "https://i.imgur.com/Fba7ppE.png",
