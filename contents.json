@@ -22118,7 +22118,7 @@
         "contact-tracing"
       ],
       "license": "mpl-2.0",
-      "source": "https://github.com/DP-3T/dp3t-app-ios-ch",
+      "source": "https://github.com/SwissCovid/swisscovid-app-ios",
       "itunes": "https://apps.apple.com/app/swisscovid-preview/id1509275381",
       "tags": [
         "swift",
@@ -22126,7 +22126,7 @@
       ],
       "lang": "deu",
       "screenshots": [
-        "https://github.com/DP-3T/dp3t-app-ios-ch/blob/develop/Documentation/screenshots/screenshots.png?raw=true"
+        "https://github.com/SwissCovid/swisscovid-app-ios/blob/develop/Documentation/screenshots/screenshots.png?raw=true"
       ],
       "date_added": "May 30 2020",
       "suggested_by": "@dkhamsing",
@@ -25374,7 +25374,7 @@
         "flutter",
         "fitness"
       ],
-      "source": "https://github.com/iIDRAGONFIREIi/minimalistic_push",
+      "source": "https://github.com/jonaspoxleitner/minimalistic_push",
       "tags": [
         "flutter",
         "dart"
@@ -25802,11 +25802,12 @@
       "category-ids": [
         "swiftui"
       ],
-      "source": "https://github.com/Yonodactyl/Bombus",
+      "source": "https://github.com/opensourceios/Bombus",
       "license": "other",
       "tags": [
         "swift",
-        "swiftui"
+        "swiftui",
+        "archive"
       ],
       "date_added": "Mar 15 2021",
       "suggested_by": "@dkhamsing",
