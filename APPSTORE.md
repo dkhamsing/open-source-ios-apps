@@ -862,8 +862,8 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/radar-covid/id1520443509) <a href='https://i.imgur.com/ZuwiVyO.png'>`Screenshot 1`</a> 
   -  `2021`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `dp3t` 
   -  ☆`156` 
-- [Switzerland - SwissCovid](https://github.com/DP-3T/dp3t-app-ios-ch): COVID-19 tracing using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T)
-  - [` App Store`](https://apps.apple.com/app/swisscovid-preview/id1509275381) <a href='https://github.com/DP-3T/dp3t-app-ios-ch/blob/develop/Documentation/screenshots/screenshots.png?raw=true'>`Screenshot 1`</a> 
+- [Switzerland - SwissCovid](https://github.com/SwissCovid/swisscovid-app-ios): COVID-19 tracing using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T)
+  - [` App Store`](https://apps.apple.com/app/swisscovid-preview/id1509275381) <a href='https://github.com/SwissCovid/swisscovid-app-ios/blob/develop/Documentation/screenshots/screenshots.png?raw=true'>`Screenshot 1`</a> 
   -  `2021`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `dp3t` 
   -  ☆`147` 
 - [UK - NHS COVID-19](https://github.com/nihp-public/covid-19-app-ios-ag-public)
