@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1261-green.svg) ![](https://img.shields.io/badge/Updated-June%2015,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1261-green.svg) ![](https://img.shields.io/badge/Updated-June%2017,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1923,8 +1923,8 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/radar-covid/id1520443509) <a href='https://i.imgur.com/ZuwiVyO.png'>`Screenshot 1`</a> 
   -  `2021`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `dp3t` 
   -  ☆`156` 
-- [Switzerland - SwissCovid](https://github.com/DP-3T/dp3t-app-ios-ch): COVID-19 tracing using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T)
-  - [` App Store`](https://apps.apple.com/app/swisscovid-preview/id1509275381) <a href='https://github.com/DP-3T/dp3t-app-ios-ch/blob/develop/Documentation/screenshots/screenshots.png?raw=true'>`Screenshot 1`</a> 
+- [Switzerland - SwissCovid](https://github.com/SwissCovid/swisscovid-app-ios): COVID-19 tracing using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T)
+  - [` App Store`](https://apps.apple.com/app/swisscovid-preview/id1509275381) <a href='https://github.com/SwissCovid/swisscovid-app-ios/blob/develop/Documentation/screenshots/screenshots.png?raw=true'>`Screenshot 1`</a> 
   -  `2021`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `dp3t` 
   -  ☆`147` 
 - [UK - NHS COVID-19](https://github.com/nihp-public/covid-19-app-ios-ag-public)
@@ -1956,7 +1956,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [Minimalistic Push](https://github.com/iIDRAGONFIREIi/minimalistic_push): Track your push-ups in the training mode and see an overview of your sessions
+- [Minimalistic Push](https://github.com/jonaspoxleitner/minimalistic_push): Track your push-ups in the training mode and see an overview of your sessions
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `dart` 
   -  ☆`3` 
 - [OutRun](https://github.com/timfraedrich/OutRun): Outdoor fitness tracker that supports walking, hiking, cycling and skating
@@ -3908,7 +3908,7 @@ https://flutter.dev — [back to top](#readme)
 - [Invoice Ninja](https://github.com/invoiceninja/admin-portal): https://www.invoiceninja.com/
   -  `2021`   `flutter` `dart` 
   -  ☆`954` 
-- [Minimalistic Push](https://github.com/iIDRAGONFIREIi/minimalistic_push): Track your push-ups in the training mode and see an overview of your sessions
+- [Minimalistic Push](https://github.com/jonaspoxleitner/minimalistic_push): Track your push-ups in the training mode and see an overview of your sessions
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `dart` 
   -  ☆`3` 
 - [newsline](https://github.com/ayush221b/newsline)
@@ -4418,9 +4418,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [BlogIdeaList-SwiftUI](https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI): Using Core Data With SwiftUI
   -  `2020`   `swift` `swiftui` `core-data` 
   -  ☆`64` 
-- [Bombus Pomodoro](https://github.com/Yonodactyl/Bombus)
-  -  `2021`   `swift` `swiftui` 
-  -  ☆`9` 
 - [buttoncraft](https://github.com/atrinh0/buttoncraft): Craft that perfect button style
   -  <a href='https://github.com/atrinh0/buttoncraft/raw/master/images/demo.gif'>`Screenshot 1`</a> 
   -  `2021`   `swift` `swiftui` 
