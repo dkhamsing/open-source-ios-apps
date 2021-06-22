@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1261-green.svg) ![](https://img.shields.io/badge/Updated-June%2017,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1262-green.svg) ![](https://img.shields.io/badge/Updated-June%2022,%202021-lightgrey.svg)
 
 Jump to
 
@@ -4400,6 +4400,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://i.imgur.com/bAz5erU.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
   -  ☆`57` 
+- [Apple WWDC 2021](https://developer.apple.com/sample-code/wwdc/2021/): Sample code referenced in WWDC21 session videos
+  -   `swift` `swiftui` 
 - [ASETimerSwiftUI](https://github.com/rahulrs0029/ASETimerSwiftUI): Countdown to WWDC20
   -  <a href='https://i.imgur.com/Yqv29uO.jpg'>`Screenshot 1`</a> 
   -  `2021`   `swift` `swiftui` 
@@ -4716,6 +4718,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/931655/58843349-f6dbf400-8626-11e9-8227-fbd369c29515.png'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
   -  ☆`622` 
+- [Tap It](https://github.com/nikitamounier/tapit-app): Lets 2 people share their social media details by putting one phone on top of the other
+  -   `swift` `swiftui` `combine` `sourcery` 
 - [Tell Time UK](https://github.com/renaudjenny/telltime): Tell time in British English
   - [` App Store`](https://apps.apple.com/app/tell-time-uk/id1496541173) <a href='https://i.imgur.com/aidCkq1.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` 
