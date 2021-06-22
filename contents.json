@@ -26213,6 +26213,23 @@
       "license": "other",
       "date_added": "Jun 12 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Tap It",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "combine",
+        "sourcery"
+      ],
+      "description": "Lets 2 people share their social media details by putting one phone on top of the other",
+      "source": "https://github.com/nikitamounier/tapit-app",
+      "license": "other",
+      "date_added": "Jun 22 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
