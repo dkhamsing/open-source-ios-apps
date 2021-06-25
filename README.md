@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1262-green.svg) ![](https://img.shields.io/badge/Updated-June%2022,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1262-green.svg) ![](https://img.shields.io/badge/Updated-June%2025,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1504,7 +1504,7 @@ File Management — [back to top](#readme)
   -  `2011`   `objc` 
   -  ☆`1564` 
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): For Cards Against Humanity
-  -  <a href='https://www.objc.io/images/issue-18/dedicated-9942fc7b.gif'>`Screenshot 1`</a> 
+  -  <a href='https://user-images.githubusercontent.com/4723115/122964516-33790600-d33c-11eb-8b2d-0ceb2cee906e.gif'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`545` 
 - [Castle Hassle](https://github.com/bryceredd/CastleHassle): A real-time physical game where you build your kingdom while crushing your opponents
