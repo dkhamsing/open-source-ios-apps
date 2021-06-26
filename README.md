@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1262-green.svg) ![](https://img.shields.io/badge/Updated-June%2025,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1263-green.svg) ![](https://img.shields.io/badge/Updated-June%2026,%202021-lightgrey.svg)
 
 Jump to
 
@@ -4571,6 +4571,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/listapp.ios/blob/main/images/ios14.png?raw=true'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `objc` `swiftui` 
   -  ☆`13` 
+- [lockd](https://github.com/il1ane/lockd): Generate strong passwords
+  - [` App Store`](https://apps.apple.com/app/lockd/id1571284259) <a href='https://user-images.githubusercontent.com/61360545/121601803-bb126b00-ca46-11eb-8163-ea77ef7dbc0b.gif'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
 - [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter
   -  `2019`   `swift` `swiftui` `ios13` `ipad` `macos` 
   -  ☆`3` 
