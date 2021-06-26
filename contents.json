@@ -26230,6 +26230,23 @@
       "license": "other",
       "date_added": "Jun 22 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "lockd",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Generate strong passwords",
+      "source": "https://github.com/il1ane/lockd",
+      "itunes": "https://apps.apple.com/app/lockd/id1571284259",
+      "screenshots": ["https://user-images.githubusercontent.com/61360545/121601803-bb126b00-ca46-11eb-8163-ea77ef7dbc0b.gif"],
+      "license": "mit",
+      "date_added": "Jun 26  2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
