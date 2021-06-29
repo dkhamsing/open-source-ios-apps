@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1263-green.svg) ![](https://img.shields.io/badge/Updated-June%2026,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1264-green.svg) ![](https://img.shields.io/badge/Updated-June%2029,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1231,6 +1231,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1055677337) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/64/3e/cf/643ecf24-6c83-232f-738b-5c901cb93818/mzl.naqeofur.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/1e/be/37/1ebe37e9-2f5a-a03b-88f9-4616841616eb/mzl.cduzuocj.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/02/e7/58/02e7584c-647f-d0bd-d264-f6a458fa2858/mzl.ggxihvbz.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2021`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` 
   -  ☆`1005` 
+- [Hush](https://github.com/oblador/hush): Noiseless browsing
+  - [` App Store`](https://apps.apple.com/app/id1544743900)
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `macos` `ipad` 
+  -  ☆`1700` 
 - [Swab](https://github.com/pkamb/swab): Ad blocker for creative, web & design ads
   - <a href=https://swabthe.com/>`https://swabthe.com/`</a>
   - [` App Store`](https://apps.apple.com/app/swab-content-blocker-creative/id1042086002) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple32/v4/94/4b/3f/944b3fd9-c9da-b74f-952d-0404890b5088/mzm.vlqjkmtq.png/460x0w.jpg'>`Screenshot 1`</a> 
