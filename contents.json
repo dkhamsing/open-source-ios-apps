@@ -26247,6 +26247,24 @@
       "license": "mit",
       "date_added": "Jun 26  2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Hush",
+      "category-ids": [
+        "content-blocking"
+      ],
+      "description": "Noiseless browsing",
+      "license": "mit",
+      "source": "https://github.com/oblador/hush",
+      "itunes": "https://apps.apple.com/app/id1544743900",
+      "tags": [
+        "swift",
+        "macos",
+        "ipad"
+      ],
+      "date_added": "Jun 29 2021",
+      "suggested_by": "@dkhamsing",
+      "stars": 1700
     }
   ]
 }
