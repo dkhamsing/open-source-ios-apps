@@ -26267,4 +26267,15 @@
       "stars": 1700
     }
   ]
+},
+{
+	"title": "Apple Music Clone",
+	"category-ids": ["clone"],
+	"tags": ["swift"],
+	"description": "Simple apple music app clone",
+	"source": "https://github.com/Salmik/Apple-Music-Clone",
+	"screenshots": ["https://user-images.githubusercontent.com/5484111/123752132-5aa27b00-d8da-11eb-8c00-04a0dcef3537.jpeg"],
+	"license": "mit",
+	"date_added": "03.05.2020.",
+	"suggested_by": "@github_username"
 }
