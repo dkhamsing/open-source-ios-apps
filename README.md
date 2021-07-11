@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1264-green.svg) ![](https://img.shields.io/badge/Updated-July%20%205,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1265-green.svg) ![](https://img.shields.io/badge/Updated-July%2011,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3305,6 +3305,9 @@ https://newsapi.org/ — [back to top](#readme)
 - [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter
   -  `2019`   `swift` `swiftui` `ios13` `ipad` `macos` 
   -  ☆`5` 
+- [Micro.blog](https://github.com/microdotblog/microblog-ios): Fastest way to blog
+  - [` App Store`](https://apps.apple.com/app/micro-blog/id1253201335) <a href='https://user-images.githubusercontent.com/4723115/125169400-d1533a00-e15e-11eb-80f0-5264dd67ee5d.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `objc` `ipad` 
 - [Peggsite](https://github.com/jenduf/GenericSocialApp): App for sharing a social board
   -  `2015`   `objc` 
   -  ☆`31` 
