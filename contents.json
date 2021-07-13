@@ -26304,6 +26304,19 @@
       ],
       "date_added": "Jul 10 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "FSMobile",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "gpl-3.0",
+      "source": "https://github.com/GroupeMINASTE/FMobile-iOS",
+      "date_added": "Jul 13 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
