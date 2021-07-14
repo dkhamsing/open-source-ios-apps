@@ -2,7 +2,7 @@
 
 ## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
-1. [FSMobile](https://github.com/GroupeMINASTE/FMobile-iOS)
+1. [FMobile](https://github.com/GroupeMINASTE/FMobile-iOS)
 2. [Micro.blog](https://github.com/microdotblog/microblog-ios)
 3. [Hush](https://github.com/oblador/hush)
 4. [lockd](https://github.com/il1ane/lockd)
