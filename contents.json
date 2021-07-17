@@ -26316,6 +26316,21 @@
       "source": "https://github.com/GroupeMINASTE/FMobile-iOS",
       "date_added": "Jul 13 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "BarcodeScanner",
+      "category-ids": [
+        "scan"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Simple & easy application that helps you to scan both EAN8 and EAN13 barcodes.",
+      "source": "https://github.com/onl1ner/BarcodeScanner",
+      "screenshots": ["https://github.com/onl1ner/onl1ner/blob/master/Resources/BarcodeScanner/Header.png?raw=true"],
+      "license": "mit",
+      "date_added": "Jul 17 2021",
+      "suggested_by": "@onl1ner"
     }
   ]
 }
