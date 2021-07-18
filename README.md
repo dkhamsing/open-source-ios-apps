@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1266-green.svg) ![](https://img.shields.io/badge/Updated-July%2014,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1267-green.svg) ![](https://img.shields.io/badge/Updated-July%2018,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3096,6 +3096,9 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/hyperoslo/BarcodeScanner/raw/master/Art/ExampleScanning.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` 
   -  ☆`1484` 
+- [BarcodeScanner](https://github.com/onl1ner/BarcodeScanner): Simple & easy application that helps you to scan both EAN8 and EAN13 barcodes.
+  -  <a href='https://github.com/onl1ner/onl1ner/blob/master/Resources/BarcodeScanner/Header.png?raw=true'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [Betcalsa](https://github.com/emredurukn/betcalsa): Document scanner, automatically detect your document and enhance the scans with black-and-white filter
   -  <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/4.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/5.jpeg'>`Screenshot 4`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `wescan` 
