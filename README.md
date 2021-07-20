@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1267-green.svg) ![](https://img.shields.io/badge/Updated-July%2018,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1267-green.svg) ![](https://img.shields.io/badge/Updated-July%2020,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2557,10 +2557,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
 - [Blurry](https://github.com/meteochu/Blurry)
   -  `2020`   `swift` 
   -  ☆`11` 
-- [ColorBlur](https://github.com/maurovc/ColorBlur): Add blur to your photos
-  -  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/60/68/95/60689578-4fda-6b26-708a-75db9acc8620/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/28/63/f1/2863f1ad-2f93-3f90-e706-eee5054a26b3/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/21/40/c0/2140c030-2b6a-4f8d-e0ee-6600c97e8323/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/85/39/68/85396844-ac62-2ca7-124d-16d61c77e5e1/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2016`   `objc` 
-  -  ☆`31` 
 - [EmotionNote Diary](https://github.com/Yogayu/EmotionNote): Choose or take a photo of your face and this will reveal your emotion
   -  <a href='https://github.com/Yogayu/EmotionNote/raw/master/imgs/Desktop%20HD.png'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
@@ -3539,10 +3535,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/Ivaskuu/travel-guide_app/raw/master/screenshots/flutter_02.png'>`Screenshot 1`</a> 
   -  `2018`   `flutter` 
   -  ☆`23` 
-- [VisitBCN](https://github.com/maurovc/visitBCN): City guide for Barcelona
-  -  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/d4/bc/f5/d4bcf520-6fe7-eb65-7df2-bf1146c881a6/pr_source.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/fd/1d/fc/fd1dfc7f-7b51-5779-6cef-4b7f3cb53a49/pr_source.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/e0/7e/9e/e07e9e29-c618-f92d-9d93-67743e123be8/pr_source.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple5/v4/bb/73/8f/bb738ff2-bf37-f697-a6f7-51d27e9cab39/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/39/3b/6a/393b6a53-e267-4661-c5d8-2f547e224dc3/pr_source.jpg/460x0w.jpg'>`Screenshot 5`</a> 
-  -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
-  -  ☆`12` 
 ## Weather 
  
 [back to top](#readme) 
