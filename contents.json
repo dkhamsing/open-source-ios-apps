@@ -3935,10 +3935,10 @@
         "travel"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "City guide for Barcelona",
-      "source": "https://github.com/maurovc/visitBCN",
+      "source": "https://github.com/opensourceios/visitBCN",
       "stars": 12,
       "license": "mit",
       "date_added": "Mon Mar 16 07:23:09 2015 -0700",
@@ -4087,10 +4087,10 @@
         "photo"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Add blur to your photos",
-      "source": "https://github.com/maurovc/ColorBlur",
+      "source": "https://github.com/opensourceios/ColorBlur",
       "stars": 31,
       "license": "other",
       "date_added": "Mon Mar 16 07:28:42 2015 -0700",
