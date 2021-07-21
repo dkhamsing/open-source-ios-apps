@@ -26331,6 +26331,20 @@
       "license": "mit",
       "date_added": "Jul 17 2021",
       "suggested_by": "@onl1ner"
+    },
+    {
+      "title": "Fearless Wallet",
+      "category-ids": ["cryptocurrency"],
+      "description": "Mobile wallet is designed for the decentralized future on the Kusama and Polkadot networks.",
+      "source": "https://github.com/soramitsu/fearless-iOS",
+      "homepage": "https://fearlesswallet.io/",
+      "itunes": "https://apps.apple.com/app/fearless-wallet/id1537251089",		
+      "license": "apache-2.0",
+      "stars": 35,     
+      "tags": ["swift"],
+      "screenshots": ["https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/84/7f/c5/847fc57b-0d8e-d2ea-23cd-6b3a144762bd/1279be76-e29b-4dcf-9c72-a795e43bd1ec_2.jpg/600x0w.jpg", "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/4e/02/fc/4e02fcc7-f838-dce7-17ab-f52ec722f067/60a5c7bf-69ce-4b5c-9bcb-311a20acfe5c_3.jpg/600x0w.jpg", "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/05/32/38/053238ed-03e1-1818-bef2-89dcdd81a90a/d176b4b0-7a8b-4a86-b4e9-773c02427d44_7.jpg/600x0w.jpg"],
+      "date_added": "Jul 21 2021",
+      "suggested_by": "@ef1rspb"
     }
   ]
 }
