@@ -26325,7 +26325,7 @@
       "tags": [
         "swift"
       ],
-      "description": "Simple & easy application that helps you to scan both EAN8 and EAN13 barcodes.",
+      "description": "Simple & easy way to scan both EAN8 and EAN13 barcodes",
       "source": "https://github.com/onl1ner/BarcodeScanner",
       "screenshots": ["https://github.com/onl1ner/onl1ner/blob/master/Resources/BarcodeScanner/Header.png?raw=true"],
       "license": "mit",
@@ -26335,7 +26335,7 @@
     {
       "title": "Fearless Wallet",
       "category-ids": ["cryptocurrency"],
-      "description": "Mobile wallet is designed for the decentralized future on the Kusama and Polkadot networks.",
+      "description": "Supports the Kusama and Polkadot networks",
       "source": "https://github.com/soramitsu/fearless-iOS",
       "homepage": "https://fearlesswallet.io/",
       "itunes": "https://apps.apple.com/app/fearless-wallet/id1537251089",		
