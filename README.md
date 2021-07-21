@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1267-green.svg) ![](https://img.shields.io/badge/Updated-July%2020,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1268-green.svg) ![](https://img.shields.io/badge/Updated-July%2021,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1463,6 +1463,11 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/exa-wallet-monero/id1457024905) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/61/61/7c6161bf-70b8-95e9-824d-cff92d5960fb/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/16/ca/e116ca96-5c51-7cc0-f2aa-72e80447e7b0/pr_source.png/460x0w.png'>`Screenshot 2`</a> 
   -  `2019`   `swift` 
   -  ☆`2` 
+- [Fearless Wallet](https://github.com/soramitsu/fearless-iOS): Mobile wallet is designed for the decentralized future on the Kusama and Polkadot networks.
+  - <a href=https://fearlesswallet.io/>`https://fearlesswallet.io/`</a>
+  - [` App Store`](https://apps.apple.com/app/fearless-wallet/id1537251089) <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/84/7f/c5/847fc57b-0d8e-d2ea-23cd-6b3a144762bd/1279be76-e29b-4dcf-9c72-a795e43bd1ec_2.jpg/600x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/4e/02/fc/4e02fcc7-f838-dce7-17ab-f52ec722f067/60a5c7bf-69ce-4b5c-9bcb-311a20acfe5c_3.jpg/600x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/05/32/38/053238ed-03e1-1818-bef2-89dcdd81a90a/d176b4b0-7a8b-4a86-b4e9-773c02427d44_7.jpg/600x0w.jpg'>`Screenshot 3`</a> 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
+  -  ☆`35` 
 - [Trust](https://github.com/TrustWallet/trust-wallet-ios): Ethereum Wallet and Web3 DApp Browser
   - <a href=https://trustwallet.com/>`https://trustwallet.com/`</a>
   - [` App Store`](https://apps.apple.com/app/trust-ethereum-wallet/id1288339409) <a href='https://uploads-ssl.webflow.com/5a88babea6e0f90001b39b0d/5aa0e8bcefcfd2000161d6eb_Main_Image-p-500.png'>`Screenshot 1`</a> 
