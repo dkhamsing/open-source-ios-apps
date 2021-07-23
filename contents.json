@@ -26349,7 +26349,7 @@
     {
       "title": "EhPanda",
       "category-ids": ["browser"],
-      "description": "An unofficial E-Hentai App built with SwiftUI.",
+      "description": "Unofficial E-Hentai browser",
       "source": "https://github.com/tatsuz0u/EhPanda",
       "homepage": "https://ehpanda.app",		
       "license": "apache-2.0",
