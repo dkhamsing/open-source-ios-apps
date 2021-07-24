@@ -26367,6 +26367,22 @@
       ],
       "date_added": "Jul 23 2021",
       "suggested_by": "@tatsuz0u"
+    },
+    {
+      "title": "FEhViewer",
+      "category-ids": ["flutter"],
+      "description": "Unofficial E-Hentai viewer",
+      "source": "https://github.com/honjow/FEhViewer",
+      "license": "apache-2.0",
+      "stars": 155,     
+      "tags": ["flutter", "dart", "e-hentai"],
+      "screenshots": [
+        "https://github.com/honjow/FEhViewer/blob/nullsafety/screenshot/2021-06-21%2019.15.21.jpg?raw=true",
+        "https://github.com/honjow/FEhViewer/blob/nullsafety/screenshot/2021-06-21%2019.15.27.jpg?raw=true",
+        "https://github.com/honjow/FEhViewer/blob/nullsafety/screenshot/2021-06-21%2019.15.58.jpg?raw=true"
+      ],
+      "date_added": "Jul 24 2021",
+      "suggested_by": "@honjow"
     } 
   ]
 }
