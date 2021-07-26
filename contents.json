@@ -26383,6 +26383,27 @@
       ],
       "date_added": "Jul 24 2021",
       "suggested_by": "@honjow"
-    } 
+    },
+    {
+      "title": "Canada - COVID Shield",
+      "description": "Exposure notification solution built with privacy as its top priority",
+      "category-ids": [
+        "contact-tracing",
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "source": "https://github.com/CovidShield/mobile",
+      "itunes": "https://apps.apple.com/app/id1520284227",
+      "homepage": "https://www.covidshield.app",
+      "screenshots": [
+        "https://github.com/CovidShield/rationale/raw/master/assets/ios-screens.png"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Jul 26 2021",
+      "suggested_by": "@dkhamsing",
+      "stars": 596
+    }
   ]
 }
