@@ -26389,7 +26389,7 @@
       "description": "Exposure notification solution built with privacy as its top priority",
       "category-ids": [
         "contact-tracing",
-        "react-native"
+        "react-native", "archive"
       ],
       "tags": [
         "react-native"
