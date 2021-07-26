@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1270-green.svg) ![](https://img.shields.io/badge/Updated-July%2024,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1271-green.svg) ![](https://img.shields.io/badge/Updated-July%2026,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1893,6 +1893,11 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1520284227) <a href='https://i.imgur.com/VtkXEik.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
   -  ☆`871` 
+- [Canada - COVID Shield](https://github.com/CovidShield/mobile): Exposure notification solution built with privacy as its top priority
+  - <a href=https://www.covidshield.app>`https://www.covidshield.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id1520284227) <a href='https://github.com/CovidShield/rationale/raw/master/assets/ios-screens.png'>`Screenshot 1`</a> 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `react-native` 
+  -  ☆`596` 
 - [Czech Republic - eRouška](https://github.com/covid19cz/erouska-ios)
   - <a href=https://erouska.cz/>`https://erouska.cz/`</a>
   - [` App Store`](https://apps.apple.com/cz/app/erou%C5%A1ka/id1509210215) <a href='https://i.imgur.com/9f1ojFj.png'>`Screenshot 1`</a> 
@@ -4088,6 +4093,11 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1520284227) <a href='https://i.imgur.com/VtkXEik.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
   -  ☆`871` 
+- [Canada - COVID Shield](https://github.com/CovidShield/mobile): Exposure notification solution built with privacy as its top priority
+  - <a href=https://www.covidshield.app>`https://www.covidshield.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id1520284227) <a href='https://github.com/CovidShield/rationale/raw/master/assets/ios-screens.png'>`Screenshot 1`</a> 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `react-native` 
+  -  ☆`596` 
 - [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app): Live chat for businesses
   - [` App Store`](https://apps.apple.com/app/id1495796682) <a href='https://i.imgur.com/2c2XCKd.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
