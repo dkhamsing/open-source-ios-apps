@@ -26389,10 +26389,10 @@
       "description": "Exposure notification solution built with privacy as its top priority",
       "category-ids": [
         "contact-tracing",
-        "react-native", "archive"
+        "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native", "archive"
       ],
       "source": "https://github.com/CovidShield/mobile",
       "itunes": "https://apps.apple.com/app/id1520284227",
