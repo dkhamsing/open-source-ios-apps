@@ -58,6 +58,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Calvin and Hobbes Comic Viewer](https://github.com/sciencemanx/Calvin-and-Hobbes-Viewer)
 - [CamLingual](https://github.com/yoshiokatsuneo/camlingual_iphone)
 - [CamShift](https://github.com/shihongzhi/CamShift-on-iOS)
+- [Canada - COVID Shield](https://github.com/CovidShield/mobile)
 - [Canvas](https://github.com/usecanvas/ios-v1)
 - [CaseAssistant](https://github.com/herrkaefer/CaseAssistant)
 - [Celluloid Photo Editing extension](https://github.com/100mango/Celluloid)
