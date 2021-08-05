@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **282** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **283** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1595,6 +1595,9 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/alfresco/id459242610) <a href='https://i.imgur.com/wCinRSS.png'>`Screenshot 1`</a> 
   -  `2021`   `objc` `ipad` 
   -  ☆`36` 
+- [Avo Keepr](https://github.com/davejacobsen/AvoKeepr): Track your avocados
+  - [` App Store`](https://apps.apple.com/us/app/avo-keepr/id1515186481) <a href='https://github.com/davejacobsen/AvoKeepr/raw/master/Screenshots/1.png'>`Screenshot 1`</a> 
+  -   `swift` 
 - [Bean Juice](https://github.com/NiftyTreeStudios/Bean-Juice): Coffee brewing recipes
   - <a href=https://www.niftytreestudios.com/work/bean-juice>`https://www.niftytreestudios.com/work/bean-juice`</a>
   - [` App Store`](https://apps.apple.com/app/bean-juice/id1502380351) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/62/56/5a/62565a20-df0d-7619-ea80-4eaf183b32b4/pr_source.png/230x0w.png'>`Screenshot 1`</a> 
