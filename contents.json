@@ -26455,6 +26455,24 @@
       "date_added": "Jul 31 2021",
       "stars": 14,
       "updated": "2020-07-31 10:20:37 UTC"
+    },
+    {
+      "title": "Avo Keepr",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Track your avocados",
+      "source": "https://github.com/davejacobsen/AvoKeepr",
+      "itunes": "https://apps.apple.com/us/app/avo-keepr/id1515186481",
+      "license": "other",
+      "date_added": "Aug 4 2021",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://github.com/davejacobsen/AvoKeepr/raw/master/Screenshots/1.png"
+      ]
     }
   ]
 }
