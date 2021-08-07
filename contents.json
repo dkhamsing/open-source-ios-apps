@@ -26473,6 +26473,23 @@
       "screenshots": [
         "https://github.com/davejacobsen/AvoKeepr/raw/master/Screenshots/1.png"
       ]
+    },
+    {
+      "title": "XKCDY for xkcd",
+      "category-ids": [
+        "content", "swiftui", "widget"
+      ],
+      "tags": [
+        "iphone", "ipad"
+      ],
+      "license": "gpl-3.0",
+      "source": "https://github.com/XKCDY/app",
+      "itunes": "https://apps.apple.com/app/xkcdy/id1520259318",
+      "stars": 21,
+      "date_added": "Aug 7 2021",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+      ]
     }
   ]
 }
