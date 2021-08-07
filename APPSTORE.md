@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **283** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **284** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -604,6 +604,10 @@ Widget (iOS 14) — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'>`Screenshot 3`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `watchos` `swiftui` `alamofire` 
   -  ☆`15` 
+- [XKCDY for xkcd](https://github.com/XKCDY/app)
+  - [` App Store`](https://apps.apple.com/app/xkcdy/id1520259318) <a href='https://user-images.githubusercontent.com/4723115/128615800-e136ba1b-6c14-4aae-ac0e-59fa9b382b4b.png'>`Screenshot 1`</a> 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `iphone` `ipad` 
+  -  ☆`21` 
 ## File 
  
 File Management — [back to top](#readme) 
@@ -1138,6 +1142,10 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/xkcd-open-source/id995811425) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/4e/06/a14e06d7-8f0e-6269-7376-2976249c2b92/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/00/91/b1/0091b145-4e25-558c-a2b5-2199cfc1bedf/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/29/1b/95/291b9535-07fe-efb0-d92b-ff56b7eb9d5c/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/6f/c3/1e/6fc31e82-39d7-28a8-df0e-f29bc9fe4c9b/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`247` 
+- [XKCDY for xkcd](https://github.com/XKCDY/app)
+  - [` App Store`](https://apps.apple.com/app/xkcdy/id1520259318) <a href='https://user-images.githubusercontent.com/4723115/128615800-e136ba1b-6c14-4aae-ac0e-59fa9b382b4b.png'>`Screenshot 1`</a> 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `iphone` `ipad` 
+  -  ☆`21` 
 ### GIF 
  
 Mostly using https://giphy.com/ — [back to top](#readme) 
@@ -1872,6 +1880,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'>`Screenshot 3`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `watchos` `swiftui` `alamofire` 
   -  ☆`15` 
+- [XKCDY for xkcd](https://github.com/XKCDY/app)
+  - [` App Store`](https://apps.apple.com/app/xkcdy/id1520259318) <a href='https://user-images.githubusercontent.com/4723115/128615800-e136ba1b-6c14-4aae-ac0e-59fa9b382b4b.png'>`Screenshot 1`</a> 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `iphone` `ipad` 
+  -  ☆`21` 
 ### VIPER 
  
 https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme) 
