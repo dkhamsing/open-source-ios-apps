@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1274-green.svg) ![](https://img.shields.io/badge/Updated-August%20%207,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1274-green.svg) ![](https://img.shields.io/badge/Updated-August%20%208,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2061,7 +2061,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   -  ☆`40` 
 - [Emission](https://github.com/e-mission/e-mission-phone): Track your travel modes and your travel carbon footprint, and compare them against other users
   - <a href=https://e-mission.eecs.berkeley.edu/#/home>`https://e-mission.eecs.berkeley.edu/#/home`</a>
-  - [` App Store`](https://apps.apple.com/app/emission/id1084198445) <a href='https://e-mission.eecs.berkeley.edu/img/personal/common_trips.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/emission/id1084198445) <a href='https://i.imgur.com/SV9ysjZ.png'>`Screenshot 1`</a> 
   -  `2021`  [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/) `javascript` `phonegap` `cordova` `ionic` 
   -  ☆`8` 
 - [Find My Bus NJ](https://github.com/findmybusnj/findmybusnj-swift): Track NJ Transit bus times
