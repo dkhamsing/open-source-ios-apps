@@ -18,4 +18,4 @@ jobs:
         with:
           force: true
           author-name: READMEbot
-          commit-message: [auto] [ci skip] Generate README's
+          commit-message: "[auto] [ci skip] Generate README's"
