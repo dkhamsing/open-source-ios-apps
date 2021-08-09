@@ -16,9 +16,19 @@ jobs:
         ruby-version: 2.6
     - run: |
         ruby .github/osia_convert.rb
+        ruby .github/osia_validate_categories.rb
+  links: 
+    runs-on: ubuntu-latest
+    needs: build
+    steps: 
+    - run: |
         gem install awesome_bot
         ruby .github/osia_get_links.rb
         awesome_bot check-unique.txt --allow-ssl -a 302,429 -w xbmc/xbmc
+  schema:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+    - run: |
         gem install json_schema
-        validate-schema .github/schema.json contents.json
-        ruby .github/osia_validate_categories.rb
+        validate-schema .github/schema.json contents.json        
