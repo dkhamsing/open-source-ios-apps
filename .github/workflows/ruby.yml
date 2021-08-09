@@ -21,6 +21,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps: 
+    - uses: actions/checkout@v2
+    - uses: actions/setup-ruby@v1    
     - run: |
         gem install awesome_bot
         ruby .github/osia_get_links.rb
@@ -29,6 +31,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-ruby@v1    
     - run: |
         gem install json_schema
         validate-schema .github/schema.json contents.json        
