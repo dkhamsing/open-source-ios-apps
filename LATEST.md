@@ -26,7 +26,7 @@
 22. [Vite Ma Dose de Vaccin !](https://github.com/CovidTrackerFr/vitemadose-ios)
 23. [bandit-hat-budget](https://github.com/danielmgauthier/bandit-hat-budget)
 24. [Area51 for Reddit](https://github.com/kgellci/Area51)
-25. [NetworkArch](https://github.com/ivirtex/NetworkArch)
+25. [NetworkArch](https://github.com/ivirtex/network-arch)
 26. [iSpy game](https://github.com/ByCyril/iSpy-Game)
 27. [Modern Collection Views](https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios)
 28. [OCaml: Learn & Code](https://github.com/GroupeMINASTE/OCaml)
