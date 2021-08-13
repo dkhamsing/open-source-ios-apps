@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1274-green.svg) ![](https://img.shields.io/badge/Updated-August%2012,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1275-green.svg) ![](https://img.shields.io/badge/Updated-August%2013,%202021-lightgrey.svg)
 
 Jump to
 
@@ -4518,6 +4518,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [emitron](https://github.com/razeware/emitron-iOS): For https://www.raywenderlich.com
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `combine` 
   -  ☆`266` 
+- [EU VAT Number - VIES Freelance](https://github.com/FranicevicNikola/VIES)
+  - [` App Store`](https://apps.apple.com/app/eu-vat-number-vies-freelance/id1546039758) <a href='https://github.com/FranicevicNikola/VIES/blob/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `iphone` `ipad` 
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)
   -  <a href='https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted/raw/master/promo.png?raw=true'>`Screenshot 1`</a> 
   -  `2020`   `swift` `swiftui` `core-data` 
