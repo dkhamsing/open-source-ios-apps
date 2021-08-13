@@ -26495,12 +26495,12 @@
         {
       "title": "EU VAT Number - VIES Freelance",
       "category-ids": [
-        "swift", "swiftui"
+         "swiftui"
       ],
       "tags": [
         "iphone", "ipad"
       ],
-      "license": "MIT",
+      "license": "mit",
       "source": "https://github.com/FranicevicNikola/VIES",
       "itunes": "https://apps.apple.com/app/eu-vat-number-vies-freelance/id1546039758",
       "stars": 0,
