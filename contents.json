@@ -26491,6 +26491,24 @@
       "screenshots": [
         "https://user-images.githubusercontent.com/4723115/128615800-e136ba1b-6c14-4aae-ac0e-59fa9b382b4b.png"
       ]
+    },
+        {
+      "title": "EU VAT Number - VIES Freelance",
+      "category-ids": [
+        "swift", "swiftui"
+      ],
+      "tags": [
+        "iphone", "ipad"
+      ],
+      "license": "MIT",
+      "source": "https://github.com/FranicevicNikola/VIES",
+      "itunes": "https://apps.apple.com/app/eu-vat-number-vies-freelance/id1546039758",
+      "stars": 0,
+      "date_added": "Aug 13 2021",
+      "suggested_by": "@FranicevicNikola",
+      "screenshots": [
+        "https://github.com/FranicevicNikola/VIES/blob/main/iPhone%2011%20Pro%20Maxgithub.png"
+      ]
     }
   ]
 }
