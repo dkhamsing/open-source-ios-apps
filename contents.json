@@ -26516,7 +26516,7 @@
         "contact-tracing"
       ],
       "lang": "hrv",
-      "license": "other",
+      "license": "apache-2.0",
       "source": "https://github.com/Stop-COVID-19-Croatia/stopcovid19-ios",
       "itunes": "https://apps.apple.com/app/stop-covid-19/id1519179939",
       "screenshots": [
