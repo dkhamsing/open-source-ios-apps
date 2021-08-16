@@ -26509,6 +26509,24 @@
       "screenshots": [
         "https://github.com/FranicevicNikola/VIES/blob/main/iPhone%2011%20Pro%20Maxgithub.png"
       ]
+    },
+    {
+      "title": "Croatia - Stop COVID-19",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "lang": "hrv",
+      "license": "apache-2.0",
+      "source": "https://github.com/Stop-COVID-19-Croatia/stopcovid19-ios",
+      "itunes": "https://apps.apple.com/app/stop-covid-19/id1519179939",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/4723115/129609595-4d08dc82-a418-477f-bbf8-3e6d7e4f89f8.png"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Aug 16 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
