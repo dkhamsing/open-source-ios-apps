@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1275-green.svg) ![](https://img.shields.io/badge/Updated-August%2013,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1276-green.svg) ![](https://img.shields.io/badge/Updated-August%2016,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1897,6 +1897,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1520284227) <a href='https://i.imgur.com/VtkXEik.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
   -  ☆`874` 
+- [Croatia - Stop COVID-19](https://github.com/Stop-COVID-19-Croatia/stopcovid19-ios)
+  - [` App Store`](https://apps.apple.com/app/stop-covid-19/id1519179939) <a href='https://user-images.githubusercontent.com/4723115/129609595-4d08dc82-a418-477f-bbf8-3e6d7e4f89f8.png'>`Screenshot 1`</a> 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
 - [Czech Republic - eRouška](https://github.com/covid19cz/erouska-ios)
   - <a href=https://erouska.cz/>`https://erouska.cz/`</a>
   - [` App Store`](https://apps.apple.com/cz/app/erou%C5%A1ka/id1509210215) <a href='https://i.imgur.com/9f1ojFj.png'>`Screenshot 1`</a> 
