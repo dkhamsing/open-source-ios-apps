@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **286** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **287** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1705,6 +1705,10 @@ https://firebase.google.com/ — [back to top](#readme)
 https://flutter.dev — [back to top](#readme) 
  
 
+- [Platypus Crypto](https://github.com/Blakexx/CryptoTracker)
+  - [` App Store`](https://apps.apple.com/app/platypus-crypto/id1397122793) <a href='https://user-images.githubusercontent.com/4723115/129973780-284f8ef0-7ad7-4a29-aaf4-082b76c24b44.png'>`Screenshot 1`</a> 
+  -   `flutter` `dart` 
+  -  ☆`144` 
 ### GraphQL 
  
 [back to top](#readme) 
