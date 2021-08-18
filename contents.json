@@ -26527,6 +26527,22 @@
       ],
       "date_added": "Aug 16 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Platypus Crypto",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/Blakexx/CryptoTracker",
+      "itunes": "https://apps.apple.com/app/platypus-crypto/id1397122793#?platform=iphone",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "other",
+      "date_added": "Aug 18 2021",
+      "suggested_by": "@dkhamsing",
+      "stars": 144
     }
   ]
 }
