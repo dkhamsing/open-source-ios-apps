@@ -26544,6 +26544,24 @@
       "date_added": "Aug 18 2021",
       "suggested_by": "@dkhamsing",
       "stars": 144
+    },
+    {
+      "title": "Finland - Koronavilkku",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "tags": [
+        "swift",
+        "snapkit"
+      ],
+      "screenshots": [        
+      ],
+      "source": "https://github.com/THLfi/koronavilkku-ios",
+      "itunes": "https://apps.apple.com/app/koronavilkku/id1520576224",
+      "license": "other",
+      "date_added": "Aug 19 2021",
+      "suggested_by": "@dkhamsing",
+      "stars": 75
     }
   ]
 }
