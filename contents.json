@@ -26563,6 +26563,24 @@
       "date_added": "Aug 19 2021",
       "suggested_by": "@dkhamsing",
       "stars": 75
+    },
+    {
+      "title": "inKino",
+      "description": "Browse movies and showtimes for Finnkino cinemas",
+      "category-ids": [
+        "flutter"
+      ],
+      "screenshots": ["https://github.com/roughike/inKino/raw/development/assets/screenshots/now_in_theaters.png"],
+      "source": "https://github.com/roughike/inKino",
+      "itunes": "https://apps.apple.com/app/inkino/id1367181450",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Aug 20 2021",
+      "suggested_by": "@dkhamsing",
+      "stars": 3200
     }
   ]
 }
