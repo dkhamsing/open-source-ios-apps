@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1278-green.svg) ![](https://img.shields.io/badge/Updated-August%2020,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1279-green.svg) ![](https://img.shields.io/badge/Updated-August%2020,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3949,6 +3949,10 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://github.com/Widle-Studio/Grocery-App/raw/master/ScreenShot/Animation%20-11-01-11-57-17-742%5B1%5D-ANIMATION.gif'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` `dart` 
   -  ☆`614` 
+- [inKino](https://github.com/roughike/inKino): Browse movies and showtimes for Finnkino cinemas
+  - [` App Store`](https://apps.apple.com/app/inkino/id1367181450) <a href='https://github.com/roughike/inKino/raw/development/assets/screenshots/now_in_theaters.png'>`Screenshot 1`</a> 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `flutter` `dart` 
+  -  ☆`3200` 
 - [Invoice Ninja](https://github.com/invoiceninja/admin-portal): https://www.invoiceninja.com/
   -  `2021`   `flutter` `dart` 
   -  ☆`980` 
