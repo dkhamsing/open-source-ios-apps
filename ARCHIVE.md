@@ -304,6 +304,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [SwiftNote](https://github.com/mslathrop/SwiftNote)
 - [SwiftRACGoogleImages](https://github.com/Adlai-Holler/SwiftRACGoogleImages)
 - [SwiftTextClock](https://github.com/MichMich/SwiftTextClock)
+- [Tack](https://github.com/stig/Tack)
 - [Task Coach](https://sourceforge.net/projects/taskcoach/)
 - [TaskPaper](https://github.com/jessegrosjean/NOTTaskPaperForIOS)
 - [TechTavta](https://github.com/LUGM/TechTatva-15)
