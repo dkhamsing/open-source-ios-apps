@@ -26581,6 +26581,20 @@
       "date_added": "Aug 20 2021",
       "suggested_by": "@dkhamsing",
       "stars": 3200
+    },
+    {
+      "title": "Tack",
+      "category-ids": [
+        "game"
+      ],
+      "license": "other",
+      "source": "https://github.com/stig/Tack",
+      "tags": [
+        "objc",
+        "archive"
+      ],
+      "date_added": "Aug 22 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
