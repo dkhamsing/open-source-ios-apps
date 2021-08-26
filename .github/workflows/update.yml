@@ -1,9 +1,9 @@
-name: Update metadata
+name: Update Metadata
 
 on: [workflow_dispatch, push]
 
 jobs:
-  Categories:
+  Update Metadata:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -11,4 +11,6 @@ jobs:
       with:
         ruby-version: 2.6
     - name: Run scripts
-      run: ruby .github/osia_update_github.rb
+      run: |
+        gem install octokit
+        ruby .github/osia_update_github.rb
