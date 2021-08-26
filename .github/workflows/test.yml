@@ -1,0 +1,14 @@
+name: Update metadata
+
+on: workflow_dispatch
+
+jobs:
+  Categories:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6
+    - name: Run scripts
+      run: ruby .github/osia_update_github.rb
