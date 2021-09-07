@@ -1133,7 +1133,7 @@ Jump to
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `iphone` 
   -  ☆`288` 
 - [F8](https://github.com/fbsamples/f8app): Official F8 app
-  -  <a href='https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png'>`Screenshot 1`</a> 
+  -  <a href='https://raw.githubusercontent.com/fbsamples/f8app/main/.github/screenshot-app%402x.png'>`Screenshot 1`</a> 
   -  `2021`   `react native` 
   -  ☆`13999` 
 - [FOSSASIA](https://github.com/fossasia/open-event-attendee-ios): Organize concerts, conferences, summits and regular meetups
@@ -1686,10 +1686,6 @@ File Management — [back to top](#readme)
   -  <a href='https://cloud.githubusercontent.com/assets/573856/16248754/90150c2a-3854-11e6-9ee1-c2e4f228a9b6.gif'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `uiviewpropertyanimator` 
   -  ☆`795` 
-- [SF Symbols Game](https://github.com/rudrankriyam/SF-Symbols-Game): Get familar with the names of the amazing SF Symbols by Apple
-  - [` App Store`](https://apps.apple.com/app/unofficial-sf-symbols-game/id1507692602) <a href='https://github.com/rudrankriyam/SF-Symbols-Game/raw/master/Resources/0.1-Screenshot.png'>`Screenshot 1`</a> 
-  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `ipad` 
-  -  ☆`17` 
 - [SHMUP](https://github.com/fabiensanglard/Shmup): 3D multiplatform game written primarily in C
   - <a href=https://fabiensanglard.net/shmup/>`https://fabiensanglard.net/shmup/`</a>
   - [` App Store`](https://apps.apple.com/app/shmup/id337663605) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple117/v4/40/3a/21/403a21ac-9841-ab2b-4353-ce1f72a2c753/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/2b/f4/8f/2bf48f1f-70fd-33d3-3198-c18ee88e2414/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/c3/97/7e/c3977e1f-48c9-e4b6-5f94-a4a988a53567/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
@@ -2896,7 +2892,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `afnetworking` 
   -  ☆`1059` 
 - [F8](https://github.com/fbsamples/f8app): Official F8 app
-  -  <a href='https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png'>`Screenshot 1`</a> 
+  -  <a href='https://raw.githubusercontent.com/fbsamples/f8app/main/.github/screenshot-app%402x.png'>`Screenshot 1`</a> 
   -  `2021`   `react native` 
   -  ☆`13999` 
 - [Firefox](https://github.com/mozilla-mobile/firefox-ios): Official Firefox app
@@ -4138,7 +4134,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `react native` `dribbble` 
   -  ☆`2016` 
 - [F8](https://github.com/fbsamples/f8app): Official F8 app
-  -  <a href='https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png'>`Screenshot 1`</a> 
+  -  <a href='https://raw.githubusercontent.com/fbsamples/f8app/main/.github/screenshot-app%402x.png'>`Screenshot 1`</a> 
   -  `2021`   `react native` 
   -  ☆`13999` 
 - [Finance](https://github.com/7kfpun/FinanceReactNative): The system Stocks app written in React Native
