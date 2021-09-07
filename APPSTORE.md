@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **289** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **290** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -692,6 +692,9 @@ File Management — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum): AR Headset Experience
+  - [` App Store`](https://apps.apple.com/app/ar-multipendulum/id1583322801) <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/0c/37/91/0c3791f3-97cc-6229-0535-d2482c1bbb45/0e4dc155-6721-4be7-91f7-4a6426dfcfe4_Move_Pendulums__U0028iPhone_U002c_full-screen_U0029.png/600x0w.webp'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ad/86/cd/ad86cd62-077d-3675-8b31-bddded73ea69/253528ba-4df8-445b-95a7-e182aecffb08_Interact_With_Simulation__U0028iPhone_U002c_full-screen_U0029.png/600x0w.webp'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ff/88/5d/ff885da7-b568-8c29-cbd9-9f7213c1624f/75815eef-0ecb-4f9d-8379-2e58d7718a44_LiDAR_Comparison__U0028iPhone_U0029.png/600x0w.webp'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/ba/cf/0b/bacf0bb4-47c0-2f82-41f3-5ac658398a8d/8536dad0-5183-45ac-b308-466194fde85a_AR_Headset_Experience__U0028full-screen_U0029.png/600x0w.webp'>`Screenshot 4`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `metal` `arkit` `vision` 
 - [Canabalt](https://github.com/ericjohnson/canabalt-ios): Infinite runner
   - [` App Store`](https://apps.apple.com/app/canabalt/id333180061) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/78/82/60/7882603c-0d25-3271-d06a-57dc1e530022/mzl.jftzbyvq.png/626x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/54/77/7c/54777cc6-b75c-0b28-7d85-f65058d25d7b/mzl.zsmgxukm.png/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/c0/0a/a1/c00aa1ce-5094-844c-c25d-cad116ac87e0/mzl.hiakjhrh.png/626x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/98/3f/8c/983f8ceb-23d9-c814-df66-7559d660ccb7/mzl.cwuvjojf.png/626x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a4/22/6b/a4226b93-fd23-b8a1-4eb6-713625f9bb25/mzl.tincqlgv.png/626x0w.jpg'>`Screenshot 5`</a> 
   -  `2011`   `objc` 
@@ -1853,6 +1856,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/ac-helper/id1508764244) <a href='https://i.imgur.com/dcs8niz.png'>`Screenshot 1`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `ipad` 
   -  ☆`1445` 
+- [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum): AR Headset Experience
+  - [` App Store`](https://apps.apple.com/app/ar-multipendulum/id1583322801) <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/0c/37/91/0c3791f3-97cc-6229-0535-d2482c1bbb45/0e4dc155-6721-4be7-91f7-4a6426dfcfe4_Move_Pendulums__U0028iPhone_U002c_full-screen_U0029.png/600x0w.webp'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ad/86/cd/ad86cd62-077d-3675-8b31-bddded73ea69/253528ba-4df8-445b-95a7-e182aecffb08_Interact_With_Simulation__U0028iPhone_U002c_full-screen_U0029.png/600x0w.webp'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ff/88/5d/ff885da7-b568-8c29-cbd9-9f7213c1624f/75815eef-0ecb-4f9d-8379-2e58d7718a44_LiDAR_Comparison__U0028iPhone_U0029.png/600x0w.webp'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/ba/cf/0b/bacf0bb4-47c0-2f82-41f3-5ac658398a8d/8536dad0-5183-45ac-b308-466194fde85a_AR_Headset_Experience__U0028full-screen_U0029.png/600x0w.webp'>`Screenshot 4`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `metal` `arkit` `vision` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
