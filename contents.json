@@ -26618,7 +26618,7 @@
     },
     {
       "title": "AR MultiPendulum",
-      "description": "AR Headset Experience",
+      "description": "AR headset experience",
       "category-ids": [
         "game",
         "swiftui"
