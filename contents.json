@@ -26641,6 +26641,20 @@
       "license": "mit",
       "date_added": "Sep 6 2021",
       "suggested_by": "@philipturner"
+    },
+    {
+      "title": "SudokuBreaker",
+      "description": "Resolve a given Sudoku",
+      "category-ids": [
+        "misc"
+      ],
+      "source": "https://github.com/popei69/SudokuBreaker",
+      "tags": [
+          "swift"
+        ],
+      "license": "apache-2.0",
+      "date_added": "Sep 9 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
