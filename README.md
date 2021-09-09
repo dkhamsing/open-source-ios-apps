@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1281-green.svg) ![](https://img.shields.io/badge/Updated-September%20%208,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1282-green.svg) ![](https://img.shields.io/badge/Updated-September%20%209,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3780,6 +3780,8 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://i.imgur.com/CL9hL95.png'>`Screenshot 1`</a> 
   -  `2020`   `swift` 
   -  ☆`40` 
+- [SudokuBreaker](https://github.com/popei69/SudokuBreaker): Resolve a given Sudoku
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
 - [SUSI AI](https://github.com/fossasia/susi_iOS): Your Artificial Intelligence for Personal Assistants, Robots, Help Desks and Chatbots
   -  <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen5.png'>`Screenshot 3`</a> 
   -  `2020`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
