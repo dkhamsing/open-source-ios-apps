@@ -1,0 +1,41 @@
+name: README's Update
+
+on:
+   push:
+    branches: [master]
+
+jobs:
+  Categories:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6
+    - name: Run scripts
+      run: ruby .github/osia_validate_categories.rb
+  Schema:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6    
+    - name: Check schema
+      run: |
+        gem install json_schema
+        validate-schema .github/schema.json contents.json     
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+      - run: ruby .github/osia_convert.rb
+      - name: Push changes
+        uses: actions-go/push@v1
+        with:
+          force: true
+          author-name: READMEbot
+          commit-message: "[auto] [ci skip] Generate README's"

@@ -1,0 +1,43 @@
+name: Pull Request
+
+on:
+  push:
+    branches: [ '*' ]
+  pull_request:
+    branches: [ '*' ]
+
+jobs:
+  Checks:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6
+    - name: Run scripts
+      run: |
+        ruby .github/osia_convert.rb
+        ruby .github/osia_validate_categories.rb
+  Links: 
+    runs-on: ubuntu-latest
+    steps: 
+    - uses: actions/checkout@v2
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6    
+    - name: Check links
+      run: |
+        gem install awesome_bot
+        ruby .github/osia_get_links.rb
+        awesome_bot check-unique.txt --allow-ssl -a 302,429 -w xbmc/xbmc
+  Schema:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6    
+    - name: Check schema
+      run: |
+        gem install json_schema
+        validate-schema .github/schema.json contents.json        
