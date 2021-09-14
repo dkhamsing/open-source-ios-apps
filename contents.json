@@ -26678,6 +26678,22 @@
       "license": "apache-2.0",
       "date_added": "Sep 9 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "OpenSesame",
+      "description": "Native and encrypted password manager",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/OpenSesameManager/OpenSesame",
+      "screenshots": ["https://github.com/OpenSesameManager/OpenSesame/blob/main/Images/All.png?raw=true"],
+      "tags": [
+          "swift",
+          "macos"
+        ],
+      "license": "apache-2.0",
+      "date_added": "Sep 14 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
