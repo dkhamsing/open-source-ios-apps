@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1283-green.svg) ![](https://img.shields.io/badge/Updated-September%2013,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1284-green.svg) ![](https://img.shields.io/badge/Updated-September%2014,%202021-lightgrey.svg)
 
 Jump to
 
@@ -4680,6 +4680,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://dl.airtable.com/.attachmentThumbnails/87909068b484180426674d0c537c778f/c8597d6a'>`Screenshot 1`</a> 
   -  `2021`   `swift` `swiftui` 
   -  ☆`2646` 
+- [OpenSesame](https://github.com/OpenSesameManager/OpenSesame): Native and encrypted password manager
+  -  <a href='https://github.com/OpenSesameManager/OpenSesame/blob/main/Images/All.png?raw=true'>`Screenshot 1`</a> 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `macos` 
 - [OSRSUI](https://github.com/Dimillian/OSRSUI): Old School Runescape database browser
   -  `2020`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `combine` 
   -  ☆`31` 
