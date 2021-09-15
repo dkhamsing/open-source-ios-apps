@@ -26689,6 +26689,7 @@
       "screenshots": ["https://github.com/OpenSesameManager/OpenSesame/blob/main/Images/All.png?raw=true"],
       "tags": [
           "swift",
+          "swiftui",
           "macos"
         ],
       "license": "apache-2.0",
