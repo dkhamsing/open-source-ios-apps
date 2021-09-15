@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1284-green.svg) ![](https://img.shields.io/badge/Updated-September%2014,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1284-green.svg) ![](https://img.shields.io/badge/Updated-September%2015,%202021-lightgrey.svg)
 
 Jump to
 
@@ -504,7 +504,7 @@ Jump to
   -  `2017`   `swift` `spritekit` 
   -  ☆`493` 
 - [Messenger Clone](https://github.com/instamobile/messenger-iOS-chat-swift-firestore): Real-time chat
-  -  <a href='https://www.iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'>`Screenshot 1`</a> 
+  -  <a href='https://iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `firebase` `firestore` 
   -  ☆`471` 
 - [palette-from-image](https://github.com/chuongtrh/palette-from-image): Inspired by https://earthview.withgoogle.com
@@ -624,7 +624,7 @@ Jump to
   -  `2021`   `objc` `firebase` `onesignal` `realm` 
   -  ☆`4201` 
 - [Messenger Clone](https://github.com/instamobile/messenger-iOS-chat-swift-firestore): Real-time chat
-  -  <a href='https://www.iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'>`Screenshot 1`</a> 
+  -  <a href='https://iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `firebase` `firestore` 
   -  ☆`471` 
 - [Monal](https://github.com/monal-im/Monal): Connect to your chat server without having to give a third party access to your password or messages
@@ -4682,7 +4682,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  ☆`2646` 
 - [OpenSesame](https://github.com/OpenSesameManager/OpenSesame): Native and encrypted password manager
   -  <a href='https://github.com/OpenSesameManager/OpenSesame/blob/main/Images/All.png?raw=true'>`Screenshot 1`</a> 
-  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `macos` 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `macos` 
 - [OSRSUI](https://github.com/Dimillian/OSRSUI): Old School Runescape database browser
   -  `2020`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `combine` 
   -  ☆`31` 
