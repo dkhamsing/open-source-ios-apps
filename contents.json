@@ -26695,6 +26695,32 @@
       "license": "apache-2.0",
       "date_added": "Sep 14 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Go Cycling",
+      "description": "Cycling tracker app built in SwiftUI",
+      "category-ids": [
+        "health",
+        "core-data"
+      ],
+      "source": "https://github.com/AnthonyH93/GoCycling",
+      "itunes": "https://apps.apple.com/app/go-cycling/id1565861313",
+      "license": "mit",
+      "date_added": "Sep 17 2021",
+      "suggested_by": "@AnthonyH93",
+      "screenshots": [
+        "https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/1.png",
+        "https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/3.png",
+        "https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/5.png",
+        "https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/6.png"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "mapkit",
+        "coredata"
+      ],
+      "stars": 14
     }
   ]
 }
