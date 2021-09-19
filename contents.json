@@ -26721,6 +26721,23 @@
         "coredata"
       ],
       "stars": 14
+    },
+    {
+      "title": "SwiftUI-HackerNews",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/woxtu/SwiftUI-HackerNews",
+      "license": "mit",
+      "date_added": "Sep 19 2021",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/5673994/60109316-1b9a3600-97a5-11e9-9566-4576490e245b.png"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ]
     }
   ]
 }
