@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1285-green.svg) ![](https://img.shields.io/badge/Updated-September%2019,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1286-green.svg) ![](https://img.shields.io/badge/Updated-September%2019,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1838,7 +1838,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - [Glucosio](https://github.com/Glucosio/glucosio-ios): Diabetes management and research
   -  `2018`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `objc` `healthkit` `realm` 
   -  ☆`49` 
-- [Go Cycling](https://github.com/AnthonyH93/GoCycling): Cycling tracker app built in SwiftUI
+- [Go Cycling](https://github.com/AnthonyH93/GoCycling): Cycling tracker built in SwiftUI
   - [` App Store`](https://apps.apple.com/app/go-cycling/id1565861313) <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/3.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/5.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/6.png'>`Screenshot 4`</a> 
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `mapkit` `coredata` 
   -  ☆`14` 
@@ -3835,7 +3835,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted/raw/master/promo.png?raw=true'>`Screenshot 1`</a> 
   -  `2020`   `swift` `swiftui` `core-data` 
   -  ☆`152` 
-- [Go Cycling](https://github.com/AnthonyH93/GoCycling): Cycling tracker app built in SwiftUI
+- [Go Cycling](https://github.com/AnthonyH93/GoCycling): Cycling tracker built in SwiftUI
   - [` App Store`](https://apps.apple.com/app/go-cycling/id1565861313) <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/3.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/5.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/6.png'>`Screenshot 4`</a> 
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `mapkit` `coredata` 
   -  ☆`14` 
@@ -4765,6 +4765,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [swiftui-2048](https://github.com/jVirus/swiftui-2048): 100% SwiftUI 2.0
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `ipad` 
   -  ☆`129` 
+- [SwiftUI-HackerNews](https://github.com/woxtu/SwiftUI-HackerNews)
+  -  <a href='https://user-images.githubusercontent.com/5673994/60109316-1b9a3600-97a5-11e9-9566-4576490e245b.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
 - [SwiftUI-Keyboard-Demo](https://github.com/emcro/SwiftUI-Keyboard-Demo): How to add Keyboard Shortcuts UIKeyCommand (SwiftUI)
   -  `2020`   `swift` `swiftui` 
   -  ☆`25` 
