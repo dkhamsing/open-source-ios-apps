@@ -26698,7 +26698,7 @@
     },
     {
       "title": "Go Cycling",
-      "description": "Cycling tracker app built in SwiftUI",
+      "description": "Cycling tracker built in SwiftUI",
       "category-ids": [
         "health",
         "core-data"
