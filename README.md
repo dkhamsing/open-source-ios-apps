@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1286-green.svg) ![](https://img.shields.io/badge/Updated-September%2019,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1286-green.svg) ![](https://img.shields.io/badge/Updated-September%2022,%202021-lightgrey.svg)
 
 Jump to
 
@@ -324,7 +324,7 @@ Jump to
   -  [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/) `objective-c++` 
 - [EhPanda](https://github.com/tatsuz0u/EhPanda): Unofficial E-Hentai browser
   - <a href=https://ehpanda.app>`https://ehpanda.app`</a>
-  -  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Home_EN_Light.png'>`Screenshot 1`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Slidemenu_EN_Light.png'>`Screenshot 2`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Detail_EN_Light.png'>`Screenshot 3`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Comment_EN_Light.png'>`Screenshot 4`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Archive_EN_Light.png'>`Screenshot 5`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Torrent_EN_Light.png'>`Screenshot 6`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Filter_EN_Light.png'>`Screenshot 7`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Setting_EN_Light.png'>`Screenshot 8`</a> 
+  -  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Home_EN_Light.png'>`Screenshot 1`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Detail_EN_Light.png'>`Screenshot 2`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Comment_EN_Light.png'>`Screenshot 3`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Archive_EN_Light.png'>`Screenshot 4`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Torrent_EN_Light.png'>`Screenshot 5`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Filter_EN_Light.png'>`Screenshot 6`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Setting_EN_Light.png'>`Screenshot 7`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swiftui` `combine` `e-hentai` 
   -  ☆`527` 
 - [Firefox](https://github.com/mozilla-mobile/firefox-ios): Official Firefox app
