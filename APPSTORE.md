@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **291** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **292** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -27,6 +27,7 @@ Jump to
 - [Event](#event) 
 - [Extension](#extension) 
   - [Content Blocking](#content-blocking) 
+  - [Safari Extension](#safari-extension) 
   - [Today](#today) 
   - [Widget](#widget) 
 - [File](#file) 
@@ -566,6 +567,15 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/swab-content-blocker-creative/id1042086002) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple32/v4/94/4b/3f/944b3fd9-c9da-b74f-952d-0404890b5088/mzm.vlqjkmtq.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2017`  [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/) `swift` 
   -  ☆`6` 
+### Safari Extension 
+ 
+[back to top](#readme) 
+ 
+
+- [Amplosion](https://github.com/christianselig/Amplosion): Redirect AMP links to their normal counterpart
+  - [` App Store`](https://apps.apple.com/app/id1585734696) <a href='https://user-images.githubusercontent.com/4723115/134539974-58b14c40-3c54-4fd2-b020-e762314b7f24.png'>`Screenshot 1`</a> 
+  -   `swift` 
+  -  ☆`186` 
 ### Today 
  
 Today Extensions or Widgets — [back to top](#readme) 
