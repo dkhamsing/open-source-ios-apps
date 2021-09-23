@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1286-green.svg) ![](https://img.shields.io/badge/Updated-September%2022,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1287-green.svg) ![](https://img.shields.io/badge/Updated-September%2023,%202021-lightgrey.svg)
 
 Jump to
 
@@ -27,6 +27,7 @@ Jump to
 - [Event](#event) 
 - [Extension](#extension) 
   - [Content Blocking](#content-blocking) 
+  - [Safari Extension](#safari-extension) 
   - [Today](#today) 
   - [Widget](#widget) 
 - [File](#file) 
@@ -1247,6 +1248,15 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/swab-content-blocker-creative/id1042086002) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple32/v4/94/4b/3f/944b3fd9-c9da-b74f-952d-0404890b5088/mzm.vlqjkmtq.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2017`  [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/) `swift` 
   -  ☆`6` 
+### Safari Extension 
+ 
+[back to top](#readme) 
+ 
+
+- [Amplosion](https://github.com/christianselig/Amplosion): Redirect AMP links to their normal counterpart
+  - [` App Store`](https://apps.apple.com/app/id1585734696) <a href='https://user-images.githubusercontent.com/4723115/134539974-58b14c40-3c54-4fd2-b020-e762314b7f24.png'>`Screenshot 1`</a> 
+  -   `swift` 
+  -  ☆`186` 
 ### Today 
  
 Today Extensions or Widgets — [back to top](#readme) 
