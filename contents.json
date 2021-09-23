@@ -78,6 +78,11 @@
       "parent": "extension"
     },
     {
+      "title": "Safari Extension",
+      "id": "safari-extension",
+      "parent": "extension"
+    },
+    {
       "title": "Today",
       "id": "today",
       "description": "Today Extensions or Widgets",
@@ -26737,6 +26742,25 @@
         "swift",
         "swiftui"
       ]
+    },
+    {
+      "title": "Amplosion",
+      "description": "Redirect AMP links to their normal counterpart",
+      "category-ids": [
+        "safari-extension"
+      ],
+      "source": "https://github.com/christianselig/Amplosion",
+      "itunes": "https://apps.apple.com/app/id1585734696",
+      "license": "other",
+      "date_added": "Sep 23 2021",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/4723115/134539974-58b14c40-3c54-4fd2-b020-e762314b7f24.png"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "stars": 186
     }
   ]
 }
