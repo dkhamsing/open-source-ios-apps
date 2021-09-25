@@ -19906,7 +19906,7 @@
       "description": "Docker/Portainer app",
       "source": "https://github.com/rrroyal/Harbour",
       "screenshots": [
-        "https://github.com/rrroyal/Harbour/blob/main/Resources/Screenshots/Light/Dashboard.png?raw=true"
+        "https://raw.githubusercontent.com/rrroyal/Harbour/legacy/Resources/Screenshots/Light/Dashboard.png"
       ],
       "date_added": "Apr 7 2019",
       "license": "gpl-3.0",
