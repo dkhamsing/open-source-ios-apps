@@ -1288,15 +1288,12 @@
       ],
       "description": "Web browser built with privacy & security in mind",
       "source": "https://github.com/jcs/endless",
-      "itunes": "https://apps.apple.com/app/endless-browser/id974745755",
       "stars": 240,
       "license": "other",
       "date_added": "Tue Dec 22 07:04:44 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "https://a3.mzstatic.com/us/r30/Purple7/v4/4a/22/70/4a22706f-6fe0-0e71-ad4c-178a83a062ad/screen696x696.jpeg",
-        "https://a4.mzstatic.com/us/r30/Purple7/v4/cb/d1/06/cbd1063b-c086-9e3b-caff-34e938b6433c/screen696x696.jpeg",
-        "https://a3.mzstatic.com/us/r30/Purple5/v4/e3/b4/ae/e3b4ae59-3f2e-2784-93aa-fae83a3aa6f1/screen696x696.jpeg"
+        "https://i.imgur.com/8FgHAWZ.png"
       ],
       "updated": "2019-04-09 16:15:05 UTC"
     },
