@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1287-green.svg) ![](https://img.shields.io/badge/Updated-September%2023,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1287-green.svg) ![](https://img.shields.io/badge/Updated-September%2027,%202021-lightgrey.svg)
 
 Jump to
 
@@ -753,7 +753,7 @@ Jump to
   -  `2021`   `swift` 
   -  ☆`24` 
 - [Harbour](https://github.com/rrroyal/Harbour): Docker/Portainer app
-  -  <a href='https://github.com/rrroyal/Harbour/blob/main/Resources/Screenshots/Light/Dashboard.png?raw=true'>`Screenshot 1`</a> 
+  -  <a href='https://raw.githubusercontent.com/rrroyal/Harbour/legacy/Resources/Screenshots/Light/Dashboard.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `docker` `swiftui` `ipad` 
   -  ☆`81` 
 - [iOSAppsInfo](https://github.com/wujianguo/iOSAppsInfo): List installed apps & URL schemes
@@ -4600,7 +4600,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2020`   `swift` 
   -  ☆`23` 
 - [Harbour](https://github.com/rrroyal/Harbour): Docker/Portainer app
-  -  <a href='https://github.com/rrroyal/Harbour/blob/main/Resources/Screenshots/Light/Dashboard.png?raw=true'>`Screenshot 1`</a> 
+  -  <a href='https://raw.githubusercontent.com/rrroyal/Harbour/legacy/Resources/Screenshots/Light/Dashboard.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `docker` `swiftui` `ipad` 
   -  ☆`81` 
 - [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery): Example of Harvest (Elm Architecture + Optics)
