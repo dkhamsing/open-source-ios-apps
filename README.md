@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1287-green.svg) ![](https://img.shields.io/badge/Updated-September%2027,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1287-green.svg) ![](https://img.shields.io/badge/Updated-September%2028,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1396,7 +1396,7 @@ File Management — [back to top](#readme)
   -  `2016`   `swift` 
   -  ☆`33` 
 - [DivRise](https://github.com/ThasianX/DivRise): Elegant dividend yield and income tracker
-  -  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png'>`Screenshot 1`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png'>`Screenshot 2`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png'>`Screenshot 3`</a> 
+  -  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png?raw=true'>`Screenshot 3`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swiftui` `dividend` `income tracker` 
   -  ☆`64` 
 - [EconoApp](https://github.com/viniciusvieir/EconoApp): Keep track of economic information
@@ -4551,7 +4551,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2020`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `core-data` `alamofire` `kingfisher` 
   -  ☆`7` 
 - [DivRise](https://github.com/ThasianX/DivRise): Elegant dividend yield and income tracker
-  -  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png'>`Screenshot 1`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png'>`Screenshot 2`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png'>`Screenshot 3`</a> 
+  -  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png?raw=true'>`Screenshot 3`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swiftui` `dividend` `income tracker` 
   -  ☆`64` 
 - [Dub Dub Do - TODO List](https://github.com/StephenMcMillan/Dub-Dub-Do)
