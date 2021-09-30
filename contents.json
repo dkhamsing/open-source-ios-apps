@@ -26759,5 +26759,15 @@
       ],
       "stars": 186
     }
+    {
+      "title": "PiPifier",
+      "category-ids": ["safari-extension"],
+      "description": "Use every HTML5 video in Picture in Picture mode",
+      "source": "https://github.com/arnoappenzeller/PiPifier",
+      "itunes": "https://apps.apple.com/us/app/pipifier/id1234771095",
+      "license": "mit",
+      "date_added": "Sep 30 2021",
+      "suggested_by": "@bradenglund"
+    }
   ]
 }
