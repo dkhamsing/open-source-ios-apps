@@ -26761,7 +26761,7 @@
     },
     {
       "title": "HTTP/S Response Code Lookup",
-      "description": "Quick and easy way to lookup HTTP/S Response Codes and their meanings.",
+      "description": "Quick and easy way to lookup HTTP Response Codes and their meanings",
       "category-ids": [
         "developer",
         "swiftui"
