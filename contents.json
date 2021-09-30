@@ -26755,9 +26755,8 @@
         "https://user-images.githubusercontent.com/4723115/134539974-58b14c40-3c54-4fd2-b020-e762314b7f24.png"
       ],
       "tags": [
-        "swift"
-      ],
-      "stars": 186
+        "swift", "archive"
+      ]      
     },
     {
       "title": "HTTP/S Response Code Lookup",
