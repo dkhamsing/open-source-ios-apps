@@ -26760,10 +26760,12 @@
     },
     {
       "title": "Overamped",
-      "description": "Safari Web Extension to disable AMP ⚡️",
+      "description": "Safari Web Extension to disable AMP",
       "category-ids": [
         "safari-extension"
       ],
+      "tags": ["swift"],
+      "screenshots": ["https://user-images.githubusercontent.com/4723115/135640037-320d9de2-b0d9-49d0-ba46-b58ef600907b.png"],
       "source": "https://github.com/JosephDuffy/Overamped",
       "itunes": "https://apps.apple.com/app/apple-store/id1573901090",
       "license": "other",
