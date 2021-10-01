@@ -26759,6 +26759,17 @@
       ]      
     },
     {
+      "title": "Overamped",
+      "description": "Safari Web Extension to disable AMP ⚡️",
+      "category-ids": [
+        "safari-extension"
+      ],
+      "source": "https://github.com/JosephDuffy/Overamped",
+      "itunes": "https://apps.apple.com/app/apple-store/id1573901090",
+      "license": "other",
+      "date_added": "Sep 30 2021",
+      "suggested_by": "@bradenglund"
+    },{
       "title": "HTTP/S Response Code Lookup",
       "description": "Quick and easy way to lookup HTTP Response Codes and their meanings",
       "category-ids": [
