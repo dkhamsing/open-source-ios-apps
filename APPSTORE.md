@@ -577,10 +577,9 @@ Jump to
 [back to top](#readme) 
  
 
-- [Amplosion](https://github.com/christianselig/Amplosion): Redirect AMP links to their normal counterpart
-  - [` App Store`](https://apps.apple.com/app/id1585734696) <a href='https://user-images.githubusercontent.com/4723115/134539974-58b14c40-3c54-4fd2-b020-e762314b7f24.png'>`Screenshot 1`</a> 
+- [Overamped](https://github.com/JosephDuffy/Overamped): Safari Web Extension to disable AMP
+  - [` App Store`](https://apps.apple.com/app/apple-store/id1573901090) <a href='https://user-images.githubusercontent.com/4723115/135640037-320d9de2-b0d9-49d0-ba46-b58ef600907b.png'>`Screenshot 1`</a> 
   -   `swift` 
-  -  ☆`186` 
 ### Today 
  
 Today Extensions or Widgets — [back to top](#readme) 
