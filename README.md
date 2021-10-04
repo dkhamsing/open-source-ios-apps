@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1287-green.svg) ![](https://img.shields.io/badge/Updated-September%2028,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1289-green.svg) ![](https://img.shields.io/badge/Updated-October%20%201,%202021-lightgrey.svg)
 
 Jump to
 
@@ -756,6 +756,11 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/rrroyal/Harbour/legacy/Resources/Screenshots/Light/Dashboard.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `docker` `swiftui` `ipad` 
   -  ☆`81` 
+- [HTTP/S Response Code Lookup](https://github.com/Person2099/HTTPS-Responses): Quick and easy way to lookup HTTP Response Codes and their meanings
+  - <a href=https://httpsresponselookup.onuniverse.com>`https://httpsresponselookup.onuniverse.com`</a>
+  - [` App Store`](https://apps.apple.com/app/id1580906147) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a6/75/0d/a6750dee-7361-ca1f-34bc-804b2b0d79e4/56caf957-c128-4b7a-8458-106a0de6fdaa_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.29.40.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/e7/9e/c6/e79ec63c-db19-2029-165d-ce6fc55500d1/c30f507f-54df-4fe8-bc7f-44c86a61a72c_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.33.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/81/01/ea/8101ea88-c459-e2b2-e18f-03eb42ccd5ff/5324ca34-a122-46fa-a618-1bb03d6afe7d_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.48.png/460x0w.webp'>`Screenshot 3`</a> 
+  -   `swift` `swiftui` 
+  -  ☆`1` 
 - [iOSAppsInfo](https://github.com/wujianguo/iOSAppsInfo): List installed apps & URL schemes
   -  <a href='https://github.com/wujianguo/iOSAppsInfo/raw/master/SampleImages/1.PNG'>`Screenshot 1`</a>  <a href='https://github.com/wujianguo/iOSAppsInfo/raw/master/SampleImages/3.PNG'>`Screenshot 2`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
@@ -1253,10 +1258,9 @@ Jump to
 [back to top](#readme) 
  
 
-- [Amplosion](https://github.com/christianselig/Amplosion): Redirect AMP links to their normal counterpart
-  - [` App Store`](https://apps.apple.com/app/id1585734696) <a href='https://user-images.githubusercontent.com/4723115/134539974-58b14c40-3c54-4fd2-b020-e762314b7f24.png'>`Screenshot 1`</a> 
+- [Overamped](https://github.com/JosephDuffy/Overamped): Safari Web Extension to disable AMP
+  - [` App Store`](https://apps.apple.com/app/apple-store/id1573901090) <a href='https://user-images.githubusercontent.com/4723115/135640037-320d9de2-b0d9-49d0-ba46-b58ef600907b.png'>`Screenshot 1`</a> 
   -   `swift` 
-  -  ☆`186` 
 ### Today 
  
 Today Extensions or Widgets — [back to top](#readme) 
@@ -4611,6 +4615,11 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/hour-blocks-day-planner/id1456275153)
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `ipad` `macos` 
   -  ☆`74` 
+- [HTTP/S Response Code Lookup](https://github.com/Person2099/HTTPS-Responses): Quick and easy way to lookup HTTP Response Codes and their meanings
+  - <a href=https://httpsresponselookup.onuniverse.com>`https://httpsresponselookup.onuniverse.com`</a>
+  - [` App Store`](https://apps.apple.com/app/id1580906147) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a6/75/0d/a6750dee-7361-ca1f-34bc-804b2b0d79e4/56caf957-c128-4b7a-8458-106a0de6fdaa_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.29.40.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/e7/9e/c6/e79ec63c-db19-2029-165d-ce6fc55500d1/c30f507f-54df-4fe8-bc7f-44c86a61a72c_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.33.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/81/01/ea/8101ea88-c459-e2b2-e18f-03eb42ccd5ff/5324ca34-a122-46fa-a618-1bb03d6afe7d_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.48.png/460x0w.webp'>`Screenshot 3`</a> 
+  -   `swift` `swiftui` 
+  -  ☆`1` 
 - [IDResistors](https://github.com/thestoneage/IDResistors): Identify resistors
   -  <a href='https://github.com/thestoneage/IDResistors/raw/gh-pages/assets/schreenshots/Screenshot-05.png'>`Screenshot 1`</a>  <a href='https://github.com/thestoneage/IDResistors/raw/gh-pages/assets/schreenshots/Screenshot-02.png'>`Screenshot 2`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
