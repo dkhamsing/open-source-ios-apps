@@ -26817,6 +26817,22 @@
       ],
       "stars": 1,
       "updated": "2021-09-07 04:38:22 UTC"
+    },
+    {
+      "title": "iCloudCoreDataStarter",
+      "description": "Example Xcode swift iOS project for Core Data + iCloud syncingr",
+      "category-ids": [
+        "developer"
+      ],
+      "source": "https://github.com/jazzychad/iCloudCoreDataStarter",
+      "license": "mit",
+      "date_added": "Oct 4 2021",
+      "suggested_by": "@dkhamsing",
+      "tags": [
+        "swift",
+        "coredata"
+      ],
+      "stars": 367
     }
   ]
 }
