@@ -26850,12 +26850,12 @@
       ],
       "description": "Location sharing app – cross-platform and end-to-end encrypted",
       "license": "gpl-3.0",
+      "homepage": "https://ticeapp.com",
       "source": "https://github.com/TICESoftware/tice-ios",
       "itunes": "https://apps.apple.com/app/tice-secure-location-sharing/id1494324936",
       "stars": 3,
-      "date_added": "Oct 06 2021",
-      "suggested_by": "@ChaosCoder",
-      "updated": "2021-11-11 09:12:39 UTC"
+      "date_added": "Oct 6 2021",
+      "suggested_by": "@ChaosCoder"
     }
   ]
 }
