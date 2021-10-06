@@ -26833,6 +26833,29 @@
         "coredata"
       ],
       "stars": 367
+    },
+    {
+      "title": "TICE",
+      "category-ids": [
+        "location"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/89/a8/e6/89a8e617-a95d-d1e1-47b1-1f82de971b92/f9f41d98-73f0-4357-ae19-7faad0036a26_iPhone_11_Pro_Max-01TeamScreenWithAnnotation_framed.png/460x0w.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/34/ff/0f/34ff0f8d-4607-2651-c7f6-8c56d3520436/be2eaf91-1a01-4dd2-a1cd-cf053e1daaf3_iPhone_11_Pro_Max-04TeamInfoScreen_framed.png/460x0w.png",
+        "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/92/09/b8/9209b8d8-de12-e9c7-f4f6-f8d40f8e1cbb/1fcd2bfb-0db6-439f-9f3e-5ebaf51ac431_iPhone_11_Pro_Max-03Chat_framed.png/460x0w.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/6f/6d/d6/6f6dd6e4-04ae-de60-0360-7e9b2a61eeea/eff7d3c3-dbc0-4418-be76-bced238dc962_iPhone_11_Pro_Max-05TeamScreen_framed.png/460x0w.png"
+      ],
+      "description": "Location sharing app – cross-platform and end-to-end encrypted",
+      "license": "gpl-3.0",
+      "homepage": "https://ticeapp.com",
+      "source": "https://github.com/TICESoftware/tice-ios",
+      "itunes": "https://apps.apple.com/app/tice-secure-location-sharing/id1494324936",
+      "stars": 3,
+      "date_added": "Oct 6 2021",
+      "suggested_by": "@ChaosCoder"
     }
   ]
 }
