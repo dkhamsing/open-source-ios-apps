@@ -26833,7 +26833,7 @@
         "coredata"
       ],
       "stars": 367
-    }
+    },
     {
       "title": "TICE",
       "category-ids": [
@@ -26856,6 +26856,6 @@
       "date_added": "Oct 06 2021",
       "suggested_by": "@ChaosCoder",
       "updated": "2021-11-11 09:12:39 UTC"
-    },
+    }
   ]
 }
