@@ -26801,6 +26801,9 @@
       "itunes": "https://apps.apple.com/us/app/pipifier/id1234771095",
       "license": "mit",
       "date_added": "Sep 30 2021",
+      "tags": [
+        "swift"
+      ],      
       "suggested_by": "@bradenglund"
     },
     {
