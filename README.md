@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1291-green.svg) ![](https://img.shields.io/badge/Updated-October%20%206,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1292-green.svg) ![](https://img.shields.io/badge/Updated-October%20%207,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1265,6 +1265,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/apple-store/id1573901090) <a href='https://user-images.githubusercontent.com/4723115/135640037-320d9de2-b0d9-49d0-ba46-b58ef600907b.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` 
   -  ☆`8` 
+- [PiPifier](https://github.com/arnoappenzeller/PiPifier): Use every HTML5 video in Picture in Picture mode
+  - [` App Store`](https://apps.apple.com/us/app/pipifier/id1234771095)
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 ### Today 
  
 Today Extensions or Widgets — [back to top](#readme) 
