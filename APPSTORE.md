@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **294** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **295** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -581,6 +581,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/apple-store/id1573901090) <a href='https://user-images.githubusercontent.com/4723115/135640037-320d9de2-b0d9-49d0-ba46-b58ef600907b.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` 
   -  ☆`8` 
+- [PiPifier](https://github.com/arnoappenzeller/PiPifier): Use every HTML5 video in Picture in Picture mode
+  - [` App Store`](https://apps.apple.com/us/app/pipifier/id1234771095)
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 ### Today 
  
 Today Extensions or Widgets — [back to top](#readme) 
