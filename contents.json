@@ -26794,6 +26794,19 @@
       "updated": "2021-09-30 12:44:44 UTC"
     },
     {
+      "title": "PiPifier",
+      "category-ids": ["safari-extension"],
+      "description": "Use every HTML5 video in Picture in Picture mode",
+      "source": "https://github.com/arnoappenzeller/PiPifier",
+      "itunes": "https://apps.apple.com/us/app/pipifier/id1234771095",
+      "license": "mit",
+      "date_added": "Sep 30 2021",
+      "tags": [
+        "swift"
+      ],      
+      "suggested_by": "@bradenglund"
+    },
+    {
       "title": "HTTP/S Response Code Lookup",
       "description": "Quick and easy way to lookup HTTP Response Codes and their meanings",
       "category-ids": [
