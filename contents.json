@@ -26869,6 +26869,21 @@
       "stars": 3,
       "date_added": "Oct 6 2021",
       "suggested_by": "@ChaosCoder"
+    },
+    {
+      "title": "Custom View Controller Transitions",
+      "description": "Make custom view controller transitions in the most simple way possible",
+      "category-ids": [
+        "sample"
+      ],
+      "source": "https://github.com/DreamingInBinary/Custom-ViewController-Transitions",
+      "license": "mit",
+      "date_added": "Oct 8 2021",
+      "suggested_by": "@dkhamsing",
+      "tags": [
+        "swift"
+      ],
+      "stars": 67
     }
   ]
 }
