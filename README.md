@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1292-green.svg) ![](https://img.shields.io/badge/Updated-October%20%207,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1293-green.svg) ![](https://img.shields.io/badge/Updated-October%20%208,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3043,6 +3043,9 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot1.png'>`Screenshot 1`</a>  <a href='https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot2.png'>`Screenshot 2`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `mvp` `contacts` 
   -  ☆`2` 
+- [Custom View Controller Transitions](https://github.com/DreamingInBinary/Custom-ViewController-Transitions): Make custom view controller transitions in the most simple way possible
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
+  -  ☆`67` 
 - [Face Landmarks Detection](https://github.com/mattlawer/FaceLandmarksDetection): Find facial features such as face contour, eyes, mouth and nose in an image
   -  <a href='https://i.imgur.com/MvyUmm8.gif'>`Screenshot 1`</a> 
   -  `2018`   `swift` `vision` 
