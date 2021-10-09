@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1293-green.svg) ![](https://img.shields.io/badge/Updated-October%20%208,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1293-green.svg) ![](https://img.shields.io/badge/Updated-October%20%209,%202021-lightgrey.svg)
 
 Jump to
 
@@ -761,9 +761,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1580906147) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a6/75/0d/a6750dee-7361-ca1f-34bc-804b2b0d79e4/56caf957-c128-4b7a-8458-106a0de6fdaa_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.29.40.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/e7/9e/c6/e79ec63c-db19-2029-165d-ce6fc55500d1/c30f507f-54df-4fe8-bc7f-44c86a61a72c_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.33.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/81/01/ea/8101ea88-c459-e2b2-e18f-03eb42ccd5ff/5324ca34-a122-46fa-a618-1bb03d6afe7d_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.48.png/460x0w.webp'>`Screenshot 3`</a> 
   -  `2021`   `swift` `swiftui` 
   -  ☆`1` 
-- [iCloudCoreDataStarter](https://github.com/jazzychad/iCloudCoreDataStarter): Example Xcode swift iOS project for Core Data + iCloud syncingr
-  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `coredata` 
-  -  ☆`367` 
 - [iOSAppsInfo](https://github.com/wujianguo/iOSAppsInfo): List installed apps & URL schemes
   -  <a href='https://github.com/wujianguo/iOSAppsInfo/raw/master/SampleImages/1.PNG'>`Screenshot 1`</a>  <a href='https://github.com/wujianguo/iOSAppsInfo/raw/master/SampleImages/3.PNG'>`Screenshot 2`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
@@ -3054,6 +3051,9 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/groue/GRDBCombine/master/Documentation/Demo/Screenshots/Demo1.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `combine` 
   -  ☆`221` 
+- [iCloudCoreDataStarter](https://github.com/jazzychad/iCloudCoreDataStarter): Example Xcode swift iOS project for Core Data + iCloud syncingr
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `coredata` 
+  -  ☆`367` 
 - [iOSDesignPatternSamples](https://github.com/marty-suzuki/iOSDesignPatternSamples): GitHub user search app with variety of design patterns
   -  <a href='https://github.com/marty-suzuki/iOSDesignPatternSamples/blob/master/Images/app.gif?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/marty-suzuki/iOSDesignPatternSamples/blob/master/Images/diff.png?raw=true'>`Screenshot 2`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `mvc` `mvp` `mvvm` `flux` `design-patterns` 
