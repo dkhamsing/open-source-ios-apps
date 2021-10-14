@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1293-green.svg) ![](https://img.shields.io/badge/Updated-October%20%209,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1294-green.svg) ![](https://img.shields.io/badge/Updated-October%2014,%202021-lightgrey.svg)
 
 Jump to
 
@@ -4519,6 +4519,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [BikeShare](https://github.com/joreilly/BikeShare): Jetpack Compose and SwiftUI based Kotlin Multiplatform sample project using CityBikes API
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `kotlin` `swiftui` `macos` `jetpack` 
   -  ☆`279` 
+- [Binary Clock](https://github.com/MrKai77/Binary-Clock)
+  -  <a href='https://github.com/MrKai77/Binary-Clock/raw/main/BinaryClock-screenshot.png'>`Screenshot 1`</a> 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` 
 - [BlogIdeaList-SwiftUI](https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI): Using Core Data With SwiftUI
   -  `2020`   `swift` `swiftui` `core-data` 
   -  ☆`66` 
