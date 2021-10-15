@@ -26901,6 +26901,23 @@
       ],
       "date_added": "Oct 14 2021",
       "suggested_by": "@MrKai77"
+    },
+    {
+      "title": "ProtonVPN",
+      "category-ids": [
+        "security"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "VPN Client for iOS and macOS",
+      "source": "https://github.com/ProtonVPN/ios-mac-app",
+      "homepage": "https://protonvpn.com/",
+      "itunes": "https://apps.apple.com/app/id1437005085",
+      "license": "gpl-3.0",
+      "stars": 14,
+      "date_added": "Oct 15 2021",
+      "suggested_by": "@pahnev"
     }
   ]
 }
