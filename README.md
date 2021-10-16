@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1294-green.svg) ![](https://img.shields.io/badge/Updated-October%2014,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1295-green.svg) ![](https://img.shields.io/badge/Updated-October%2016,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3239,6 +3239,11 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id979659905) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1d/c0/ba/1dc0bacb-bd7e-bfb3-4a14-ab9cdfd6336d/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/e3/23/9ce32347-1f99-dfa0-2434-c032e6264eda/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/11/33/5c/11335cff-69e3-6a55-3248-ebe2e98c4e87/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bc/08/4b/bc084bb4-d8d1-26aa-606f-03de254a345d/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `iphone` `ipad` `dompurify` `afnetworking` `flanimatedimage` 
   -  ☆`1123` 
+- [ProtonVPN](https://github.com/ProtonVPN/ios-mac-app)
+  - <a href=https://protonvpn.com/>`https://protonvpn.com/`</a>
+  - [` App Store`](https://apps.apple.com/app/id1437005085) <a href='https://user-images.githubusercontent.com/4723115/137601688-ab7d6dbf-46c3-42f7-9b87-ea5e6d9896ea.png'>`Screenshot 1`</a> 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
+  -  ☆`14` 
 - [SimpleLogin](https://github.com/simple-login/Simple-Login-iOS): Protect your email with aliases and more. Its Share Extension helps you create aliases on the fly without leaving your favorite browser
   - <a href=https://simplelogin.io/>`https://simplelogin.io/`</a>
   - [` App Store`](https://apps.apple.com/app/simplelogin-anti-spam/id1494359858) <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/1.png'>`Screenshot 1`</a> 
@@ -4115,6 +4120,11 @@ Cross platform projects — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` `swiftui` `themoviedb` `combine` `ipad` `macos` 
   -  ☆`5797` 
+- [ProtonVPN](https://github.com/ProtonVPN/ios-mac-app)
+  - <a href=https://protonvpn.com/>`https://protonvpn.com/`</a>
+  - [` App Store`](https://apps.apple.com/app/id1437005085) <a href='https://user-images.githubusercontent.com/4723115/137601688-ab7d6dbf-46c3-42f7-9b87-ea5e6d9896ea.png'>`Screenshot 1`</a> 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
+  -  ☆`14` 
 - [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui): Cross-platform Reddit client
   -  <a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `macos` `watchos` 
