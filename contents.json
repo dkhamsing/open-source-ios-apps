@@ -26905,17 +26905,19 @@
     {
       "title": "ProtonVPN",
       "category-ids": [
-        "security"
+        "security", "macos"
       ],
       "tags": [
         "swift"
       ],
-      "description": "VPN Client for iOS and macOS",
       "source": "https://github.com/ProtonVPN/ios-mac-app",
       "homepage": "https://protonvpn.com/",
       "itunes": "https://apps.apple.com/app/id1437005085",
       "license": "gpl-3.0",
       "stars": 14,
+      "screenshots": [
+        "https://user-images.githubusercontent.com/4723115/137601688-ab7d6dbf-46c3-42f7-9b87-ea5e6d9896ea.png"
+      ],
       "date_added": "Oct 15 2021",
       "suggested_by": "@pahnev"
     }
