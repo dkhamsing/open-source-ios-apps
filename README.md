@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1295-green.svg) ![](https://img.shields.io/badge/Updated-October%2016,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1296-green.svg) ![](https://img.shields.io/badge/Updated-October%2018,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2736,6 +2736,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png'>`Screenshot 1`</a> 
   -  `2019`   `swift` 
   -  ☆`2424` 
+- [Hipstapaper](https://github.com/jeffreybergier/Hipstapaper): Cross-platform reading list app.
+  -  <a href='https://github.com/jeffreybergier/Hipstapaper/raw/main/readme-screenshot.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `coredata` 
+  -  ☆`35` 
 - [lobsters-reader](https://github.com/cfdrake/lobsters-reader)
   -  <a href='https://raw.githubusercontent.com/cfdrake/lobsters-reader/master/Assets/screenshot.png'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
@@ -4098,6 +4102,10 @@ Cross platform projects — [back to top](#readme)
   -   `swift` `ios14` `ios15` `widgetkit` `macos` `app-clip` 
 - [Hacker News Multiplatform](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/)
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `macos` 
+- [Hipstapaper](https://github.com/jeffreybergier/Hipstapaper): Cross-platform reading list app.
+  -  <a href='https://github.com/jeffreybergier/Hipstapaper/raw/main/readme-screenshot.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `coredata` 
+  -  ☆`35` 
 - [Hour Blocks](https://github.com/jtsaeed/Hour-Blocks): Day Planner
   - [` App Store`](https://apps.apple.com/app/hour-blocks-day-planner/id1456275153)
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `ipad` `macos` 
