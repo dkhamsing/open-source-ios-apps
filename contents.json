@@ -26920,6 +26920,24 @@
       ],
       "date_added": "Oct 15 2021",
       "suggested_by": "@pahnev"
-    }
+    },
+    {
+      "title": "Hipstapaper",
+      "description": "Cross-platform reading list app.",
+      "category-ids": [
+        "news", "macos"
+      ],
+      "tags": [
+        "swift", "swiftui", "coredata"
+      ],
+      "source": "https://github.com/jeffreybergier/Hipstapaper",
+      "license": "mit",
+      "stars": 35,
+      "screenshots": [
+        "https://github.com/jeffreybergier/Hipstapaper/raw/main/readme-screenshot.png"
+      ],
+      "date_added": "Oct 18 2021",
+      "suggested_by": "@pahnev"
+    }  
   ]
 }
