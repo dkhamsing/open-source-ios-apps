@@ -26942,10 +26942,7 @@
     {
       "title": "PIA VPN",
       "category-ids": [
-        "security",
-        "safari-extension",
-        "content-blocking",
-        "widget"
+        "content-blocking"
       ],
       "tags": [
         "swift"
