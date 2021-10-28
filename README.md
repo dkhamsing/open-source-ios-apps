@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1297-green.svg) ![](https://img.shields.io/badge/Updated-October%2024,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1298-green.svg) ![](https://img.shields.io/badge/Updated-October%2028,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1374,6 +1374,11 @@ File Management — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/Augustyniak/FileExplorer/master/Resources/General.gif'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`696` 
+- [kDrive](https://github.com/Infomaniak/ios-kDrive): Synchronise, share, collaborate. The Swiss cloud that’s 100% secure.
+  - <a href=https://www.infomaniak.com/kdrive>`https://www.infomaniak.com/kdrive`</a>
+  - [` App Store`](https://apps.apple.com/app/infomaniak-kdrive/id1482778676) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/fd/5e/eb/fd5eeb3a-6bef-a79f-b3f6-f6dacd824b8e/2da2a5e3-f988-4215-931a-58f58c9b9a66_mobile-6.5-1.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/8e/a7/72/8ea772cc-81d0-112f-ee4b-c475a92501bc/0c9b7def-a516-4116-92b4-7fa131519ac3_mobile-6.5-2.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c5/ca/17/c5ca17ff-2950-0ec1-ab91-4e02f8d0947f/1391ef65-23e7-44b7-9c64-62bb35d84f80_mobile-6.5-3.png/600x0w.png'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/d7/de/85/d7de854f-c3b4-269d-9777-0252d4933666/9eef055e-3d6b-4bf0-9ab4-a0d6d9b9055b_mobile-6.5-4.png/600x0w.png'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/cd/2a/1acd2a04-49eb-94f5-fca3-6fc9c1e4ada5/df89351c-147d-457f-ba48-e6765e6a24c2_mobile-6.5-5.png/600x0w.png'>`Screenshot 5`</a> 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
+  -  ☆`15` 
 - [Nextcloud](https://github.com/nextcloud/ios): A safe home for all your data
   - <a href=https://nextcloud.com>`https://nextcloud.com`</a>
   - [` App Store`](https://apps.apple.com/app/nextcloud/id1125420102) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/f9/87/cb/f987cbdd-1382-b745-1eff-85cf980e673f/pr_source.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/a2/44/89/a2448912-df4f-ac28-a30d-82a9699a9fe4/mzl.bdctkilq.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/ba/7c/25ba7cc2-f9b4-518c-e201-c03bcceffbe1/mzl.fxvipxna.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/8a/dc/14/8adc144f-e5bc-512e-6f1b-5583dd7bb014/mzl.uymqtwli.jpg/460x0w.jpg'>`Screenshot 4`</a> 
@@ -2741,7 +2746,7 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png'>`Screenshot 1`</a> 
   -  `2019`   `swift` 
   -  ☆`2424` 
-- [Hipstapaper](https://github.com/jeffreybergier/Hipstapaper): Cross-platform reading list app.
+- [Hipstapaper](https://github.com/jeffreybergier/Hipstapaper): Cross-platform reading list
   -  <a href='https://github.com/jeffreybergier/Hipstapaper/raw/main/readme-screenshot.png'>`Screenshot 1`</a> 
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `coredata` 
   -  ☆`35` 
@@ -2940,6 +2945,11 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/ghostery/id472789016) <a href='https://i.imgur.com/escGoB8.png'>`Screenshot 1`</a> 
   -  `2020`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `ipad` 
   -  ☆`13` 
+- [kDrive](https://github.com/Infomaniak/ios-kDrive): Synchronise, share, collaborate. The Swiss cloud that’s 100% secure.
+  - <a href=https://www.infomaniak.com/kdrive>`https://www.infomaniak.com/kdrive`</a>
+  - [` App Store`](https://apps.apple.com/app/infomaniak-kdrive/id1482778676) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/fd/5e/eb/fd5eeb3a-6bef-a79f-b3f6-f6dacd824b8e/2da2a5e3-f988-4215-931a-58f58c9b9a66_mobile-6.5-1.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/8e/a7/72/8ea772cc-81d0-112f-ee4b-c475a92501bc/0c9b7def-a516-4116-92b4-7fa131519ac3_mobile-6.5-2.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c5/ca/17/c5ca17ff-2950-0ec1-ab91-4e02f8d0947f/1391ef65-23e7-44b7-9c64-62bb35d84f80_mobile-6.5-3.png/600x0w.png'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/d7/de/85/d7de854f-c3b4-269d-9777-0252d4933666/9eef055e-3d6b-4bf0-9ab4-a0d6d9b9055b_mobile-6.5-4.png/600x0w.png'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/cd/2a/1acd2a04-49eb-94f5-fca3-6fc9c1e4ada5/df89351c-147d-457f-ba48-e6765e6a24c2_mobile-6.5-5.png/600x0w.png'>`Screenshot 5`</a> 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
+  -  ☆`15` 
 - [Kickstarter](https://github.com/kickstarter/ios-oss): Where independent creators & passionate backers come together to bring new ideas to life
   - [` App Store`](https://apps.apple.com/app/kickstarter/id596961532) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/75/69/8a/75698ab8-816c-5bfe-fb81-f99233bf3852/pr_source.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/38/a1/50/38a1502f-672f-c6ad-e264-a82cd958bd2c/pr_source.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ca/cc/9c/cacc9cd5-ba08-7b72-2673-564b7ec281ef/pr_source.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/cc/71/49/cc71496f-5d16-3b5e-a968-b34f2c802f89/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `1password` `alamorefire` `stripe` `ios-snapshot-test-case` 
@@ -4107,7 +4117,7 @@ Cross platform projects — [back to top](#readme)
   -   `swift` `ios14` `ios15` `widgetkit` `macos` `app-clip` 
 - [Hacker News Multiplatform](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/)
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `macos` 
-- [Hipstapaper](https://github.com/jeffreybergier/Hipstapaper): Cross-platform reading list app.
+- [Hipstapaper](https://github.com/jeffreybergier/Hipstapaper): Cross-platform reading list
   -  <a href='https://github.com/jeffreybergier/Hipstapaper/raw/main/readme-screenshot.png'>`Screenshot 1`</a> 
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `coredata` 
   -  ☆`35` 
