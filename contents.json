@@ -26985,6 +26985,21 @@
       ],
       "date_added": "Oct 28 2021",
       "suggested_by": "@flowbe"
+    },
+    {
+      "title": "osu!",
+      "category-ids": [
+        "game"
+      ],
+      "description": "Rhythm game",
+      "source": "https://github.com/ppy/osu",
+      "license": "mit",
+      "stars": 8200,
+      "tags": [
+        "csharp"
+      ],
+      "date_added": "Oct 30 2021",
+      "suggested_by": "@Gigas002"
     }
   ]
 }
