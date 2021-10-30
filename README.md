@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1298-green.svg) ![](https://img.shields.io/badge/Updated-October%2028,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1299-green.svg) ![](https://img.shields.io/badge/Updated-October%2030,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1694,6 +1694,9 @@ File Management — [back to top](#readme)
   -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'>`Screenshot 2`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `spritekit` `gameplaykit` 
   -  ☆`13` 
+- [osu!](https://github.com/ppy/osu): Rhythm game
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `csharp` 
+  -  ☆`8200` 
 - [Pizza-Man](https://github.com/fulldecent/pizzaman): Play this devilishly difficult diversion
   - [` App Store`](https://apps.apple.com/app/pizza-man/id931174800) <a href='https://i.imgur.com/g7PQMxc.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` `ipad` 
