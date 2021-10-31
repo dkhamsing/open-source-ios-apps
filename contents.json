@@ -26887,7 +26887,7 @@
     },
     {
       "title": "Binary Clock",
-      "category-ids": [        
+      "category-ids": [
         "swiftui"
       ],
       "source": "https://github.com/MrKai77/Binary-Clock",
@@ -26972,7 +26972,7 @@
       "homepage": "https://www.infomaniak.com/kdrive",
       "itunes": "https://apps.apple.com/app/infomaniak-kdrive/id1482778676",
       "license": "gpl-3.0",
-      "stars": 15,     
+      "stars": 15,
       "tags": [
         "swift"
       ],
