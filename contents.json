@@ -27000,6 +27000,27 @@
       ],
       "date_added": "Oct 30 2021",
       "suggested_by": "@Gigas002"
+    },
+    {
+      "title": "Rainbow",
+      "category-ids": [
+        "cryptocurrency",
+        "official",
+        "react-native"
+      ],
+      "description": "Ethereum wallet that lives in your pocket",
+      "source": "https://github.com/rainbow-me/rainbow",
+      "homepage": "https://rainbow.me",
+      "itunes": "https://apps.apple.com/app/rainbow-ethereum-wallet/id1457119021",
+      "license": "gpl-3.0",
+      "stars": 1500,
+      "tags": [
+        "reactnative", "typescript"
+      ],
+      "screenshots": [
+      ],
+      "date_added": "Nov 1 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
