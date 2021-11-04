@@ -27043,6 +27043,34 @@
       "date_added": "Nov 1 2021",
       "suggested_by": "@dkhamsing",
       "updated": "2021-11-01 15:59:45 UTC"
+    },
+    {
+      "title": "SpotifyClone",
+      "category-ids": [
+        "clone",
+        "swiftui",
+        "audio"
+      ],
+      "description": "A visual and functional(songs only play the 30 sec preview) clone of Spotify, using the official API.",
+      "source": "https://github.com/gabrieldenoni/SpotifyClone",
+      "license": "mit",
+      "lang": "eng",
+      "tags": [
+        "spotify",
+        "swift",
+        "swiftui",
+        "combine",
+        "mvvm",
+        "alamofire"
+      ],
+      "screenshots": [
+        "https://imgur.com/a/usflCky",
+        "https://imgur.com/a/xWAsYYv",
+        "https://imgur.com/a/VGYibqJ",
+        "https://imgur.com/a/MhKMWLb"
+      ],
+      "date_added": "Nov 4 2021",
+      "suggested_by": "@gabrieldenoni"
     }
   ]
 }
