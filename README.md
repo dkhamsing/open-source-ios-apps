@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1300-green.svg) ![](https://img.shields.io/badge/Updated-November%20%202,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1301-green.svg) ![](https://img.shields.io/badge/Updated-November%20%207,%202021-lightgrey.svg)
 
 Jump to
 
@@ -524,6 +524,9 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/PiXeL16/SnakeClassic/master/Art/SnakeWatch.png'>`Screenshot 1`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`52` 
+- [SpotifyClone](https://github.com/gabrieldenoni/SpotifyClone): Uses the official API
+  -  <a href='https://imgur.com/a/usflCky'>`Screenshot 1`</a>  <a href='https://imgur.com/a/xWAsYYv'>`Screenshot 2`</a>  <a href='https://imgur.com/a/VGYibqJ'>`Screenshot 3`</a>  <a href='https://imgur.com/a/MhKMWLb'>`Screenshot 4`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `spotify` `swiftui` `combine` `mvvm` `alamofire` 
 - [Swiftagram](https://github.com/sbertix/Swiftagram): For Instagram, relies on unofficial private APIs
   -  `2021`   `swift` 
   -  ☆`160` 
@@ -4585,10 +4588,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/heart/CarBode-Barcode-Scanner-For-SwiftUI/master/logo/scan.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
   -  ☆`143` 
-- [CCC](https://github.com/CurrencyConverterCalculator/iosCCC): Currency Converter & Calculator
-  -  <a href='https://github.com/CurrencyConverterCalculator/iosCCC/raw/master/dark.gif'>`Screenshot 1`</a> 
-  -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `combine` `mvvm` `core-data` 
-  -  ☆`61` 
 - [Chat](https://github.com/niazoff/Chat): Leverages URLSessionWebSocketTask
   -  `2019`   `swift` `swiftui` `combine` `mvvm` 
   -  ☆`19` 
@@ -4832,6 +4831,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1536864924) <a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'>`Screenshot 4`</a> 
   -  `2021` 
   -  ☆`42` 
+- [SpotifyClone](https://github.com/gabrieldenoni/SpotifyClone): Uses the official API
+  -  <a href='https://imgur.com/a/usflCky'>`Screenshot 1`</a>  <a href='https://imgur.com/a/xWAsYYv'>`Screenshot 2`</a>  <a href='https://imgur.com/a/VGYibqJ'>`Screenshot 3`</a>  <a href='https://imgur.com/a/MhKMWLb'>`Screenshot 4`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `spotify` `swiftui` `combine` `mvvm` `alamofire` 
 - [StackOv](https://github.com/surfstudio/StackOv): For Stack Overflow
   - [` App Store`](https://apps.apple.com/app/stackov/id1511838391) <a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `ipad` `macos` 
