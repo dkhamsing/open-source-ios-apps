@@ -24515,7 +24515,7 @@
       "category-ids": [
         "swiftui"
       ],
-      "source": "https://github.com/CurrencyConverterCalculator/iosCCC",
+      "source": "https://github.com/Oztechan/iosCCC",
       "screenshots": [
         "https://github.com/CurrencyConverterCalculator/iosCCC/raw/master/dark.gif"
       ],
@@ -24525,7 +24525,8 @@
         "swiftui",
         "combine",
         "mvvm",
-        "core-data"
+        "core-data",
+        "archive"
       ],
       "date_added": "Sep 12 2020",
       "suggested_by": "dkhamsing",
