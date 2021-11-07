@@ -27048,13 +27048,12 @@
       "title": "SpotifyClone",
       "category-ids": [
         "clone",
-        "swiftui",
-        "audio"
+        "swiftui"
       ],
-      "description": "A visual and functional(songs only play the 30 sec preview) clone of Spotify, using the official API.",
+      "description": "Uses the official API",
       "source": "https://github.com/gabrieldenoni/SpotifyClone",
       "license": "mit",
-      "lang": "eng",
+      "lang": "en",
       "tags": [
         "spotify",
         "swift",
