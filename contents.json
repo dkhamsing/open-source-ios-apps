@@ -27071,6 +27071,23 @@
       ],
       "date_added": "Nov 4 2021",
       "suggested_by": "@gabrieldenoni"
+    },
+    {
+      "title": "Food2Fork Recipes",
+      "category-ids": [
+        "misc"
+      ],
+      "source": "https://github.com/mitchtabian/Food2Fork-KMM",
+      "license": "other",
+      "tags": [
+        "kmm",
+        "kotlin"
+      ],
+      "screenshots": [
+        "https://github.com/mitchtabian/Food2Fork-KMM/blob/master/assets/list_detail_demo.gif"
+      ],
+      "date_added": "Nov 8 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
