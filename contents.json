@@ -27103,6 +27103,22 @@
       "license": "apache-2.0",
       "date_added": "Nov 9 2021",
       "suggested_by": "@Gigas002"
+    },
+    {
+      "title": "Dai-Hentai for ex hentai",
+      "category-ids": [
+        "content"
+      ],
+      "tags": [
+        "objc", "adult"
+      ],
+      "license": "other",
+      "source": "https://github.com/DaidoujiChen/Dai-Hentai",
+      "date_added": "Nov 9 2021",
+      "suggested_by": "@Gigas002",
+      "screenshots": [
+        "http://img.youtube.com/vi/DqkIxhpzP9s/0.jpg"
+      ]
     }
   ]
 }
