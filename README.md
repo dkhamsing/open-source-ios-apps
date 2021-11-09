@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1301-green.svg) ![](https://img.shields.io/badge/Updated-November%20%207,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1302-green.svg) ![](https://img.shields.io/badge/Updated-November%20%209,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3773,6 +3773,9 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1205074470) <a href='https://i.imgur.com/ozVlT2F.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`112` 
+- [Food2Fork Recipes](https://github.com/mitchtabian/Food2Fork-KMM)
+  -  <a href='https://github.com/mitchtabian/Food2Fork-KMM/blob/master/assets/list_detail_demo.gif'>`Screenshot 1`</a> 
+  -   `kmm` `kotlin` 
 - [ForceSketch](https://github.com/FlexMonkey/ForceSketch)
   -  <a href='https://github.com/FlexMonkey/ForceSketch/raw/master/ForceSketch/ForceSketch.gif'>`Screenshot 1`</a> 
   -  `2019`   `swift` 
