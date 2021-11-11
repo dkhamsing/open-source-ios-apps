@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1302-green.svg) ![](https://img.shields.io/badge/Updated-November%20%209,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1304-green.svg) ![](https://img.shields.io/badge/Updated-November%2011,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2432,6 +2432,9 @@ Image, video, audio, reading — [back to top](#readme)
 - [CouchTracker](https://github.com/pietrocaselani/CouchTracker): Keep track of your favorite TV shows and movies using Trakt
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `trakt` `moya` `kingfisher` `mvvm` 
   -  ☆`39` 
+- [Dai-Hentai for ex hentai](https://github.com/DaidoujiChen/Dai-Hentai)
+  -  <a href='https://img.youtube.com/vi/DqkIxhpzP9s/0.jpg'>`Screenshot 1`</a> 
+  -   `objc` `adult` 
 - [Dunk](https://github.com/naoyashiga/Dunk)
   -  <a href='https://cdn-images-1.medium.com/max/800/1*0TkH9-Guo_A_hdlI9UEnvQ.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `dribbble` 
@@ -4079,6 +4082,8 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://github.com/Ivaskuu/travel-guide_app/raw/master/screenshots/flutter_02.png'>`Screenshot 1`</a> 
   -  `2018`   `flutter` 
   -  ☆`25` 
+- [violet](https://github.com/project-violet/violet): E-Hentai viewer
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `flutter` `dart` 
 - [WeightTracker](https://github.com/MSzalek-Mobile/weight_tracker)
   -  `2020`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` `dart` 
   -  ☆`325` 
