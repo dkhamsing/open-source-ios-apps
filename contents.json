@@ -26396,7 +26396,7 @@
     {
       "title": "EhPanda",
       "category-ids": [
-        "browser"
+        "content"
       ],
       "description": "Unofficial E-Hentai browser",
       "source": "https://github.com/tatsuz0u/EhPanda",
@@ -26406,7 +26406,7 @@
       "tags": [
         "swiftui",
         "combine",
-        "e-hentai"
+        "adult"
       ],
       "screenshots": [
         "https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Home_EN_Light.png",
@@ -26433,7 +26433,7 @@
       "tags": [
         "flutter",
         "dart",
-        "e-hentai"
+        "adult"
       ],
       "screenshots": [
         "https://github.com/honjow/FEhViewer/blob/nullsafety/screenshot/2021-06-21%2019.15.21.jpg?raw=true",
@@ -27098,7 +27098,8 @@
       "source": "https://github.com/project-violet/violet",
       "tags": [
         "flutter",
-        "dart"
+        "dart",
+        "adult"
       ],
       "license": "apache-2.0",
       "date_added": "Nov 9 2021",
