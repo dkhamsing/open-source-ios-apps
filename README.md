@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1304-green.svg) ![](https://img.shields.io/badge/Updated-November%2013,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1305-green.svg) ![](https://img.shields.io/badge/Updated-November%2015,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1132,6 +1132,9 @@ Jump to
 [back to top](#readme) 
  
 
+- [Droidcon Events](https://github.com/touchlab/DroidconKotlin)
+  -  <a href='https://user-images.githubusercontent.com/4723115/141655128-e94c9cc9-3e69-427f-b1a6-79b1a8197f60.jpeg'>`Screenshot 1`</a> 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `kmm` `kotlin` 
 - [EventBlankApp](https://github.com/icanzilb/EventBlankApp): Template for event / conference
   -  <a href='https://i.imgur.com/FfNizrW.png'>`Screenshot 1`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `iphone` 
