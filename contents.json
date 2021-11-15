@@ -27120,6 +27120,22 @@
       "screenshots": [
         "https://img.youtube.com/vi/DqkIxhpzP9s/0.jpg"
       ]
+    },
+      {
+        "title": "Droidcon Events",
+        "category-ids": [
+          "event"
+        ],
+        "tags": [
+          "kmm", "kotlin"
+        ],
+        "license": "apache-2.0",
+        "source": "https://github.com/touchlab/DroidconKotlin",
+        "date_added": "Nov 13 2021",
+        "suggested_by": "@dkhamsing",
+        "screenshots": [
+          "https://user-images.githubusercontent.com/4723115/141655128-e94c9cc9-3e69-427f-b1a6-79b1a8197f60.jpeg"
+        ]
     }
   ]
 }
