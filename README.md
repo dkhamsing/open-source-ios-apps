@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1305-green.svg) ![](https://img.shields.io/badge/Updated-November%2015,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1306-green.svg) ![](https://img.shields.io/badge/Updated-November%2016,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3655,6 +3655,9 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Elseweather](https://github.com/jareksedy/Elseweather): App that displays current weather at a random location.
+  -  <a href='https://raw.githubusercontent.com/jareksedy/Elseweather/main/Screenshots/ew_sc1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jareksedy/Elseweather/main/Screenshots/ew_sc2.png'>`Screenshot 2`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [Lucid Weather Clock](https://github.com/wrutkowski/Lucid-Weather-Clock): Precipitation clock
   -  <a href='https://i.giphy.com/mcmrs3ArwawE0.gif'>`Screenshot 1`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `dark sky api (forecast api)` 
