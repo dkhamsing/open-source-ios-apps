@@ -27140,12 +27140,12 @@
     {
         "title": "Elseweather",
         "category-ids": [
-          "weather"
+          "weather", "swiftui"
         ],
         "tags": [
-          "swift"
+          "swift", "swiftui"
         ],
-        "description": "App that displays current weather at a random location.",
+        "description": "Displays current weather at a random location",
         "license": "mit",
         "source": "https://github.com/jareksedy/Elseweather",
         "date_added": "Nov 16 2021",
