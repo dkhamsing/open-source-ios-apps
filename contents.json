@@ -27136,6 +27136,24 @@
         "screenshots": [
           "https://user-images.githubusercontent.com/4723115/141655128-e94c9cc9-3e69-427f-b1a6-79b1a8197f60.jpeg"
         ]
+    },
+    {
+        "title": "Elseweather",
+        "category-ids": [
+          "weather"
+        ],
+        "tags": [
+          "swift"
+        ],
+        "description": "App that displays current weather at a random location.",
+        "license": "mit",
+        "source": "https://github.com/jareksedy/Elseweather",
+        "date_added": "Nov 16 2021",
+        "suggested_by": "@jareksedy",
+        "screenshots": [
+          "https://raw.githubusercontent.com/jareksedy/Elseweather/main/Screenshots/ew_sc1.png",
+          "https://raw.githubusercontent.com/jareksedy/Elseweather/main/Screenshots/ew_sc2.png"
+        ]
     }
   ]
 }
