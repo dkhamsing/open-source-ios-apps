@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **299** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **300** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1682,6 +1682,9 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/bean-juice/id1502380351) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/62/56/5a/62565a20-df0d-7619-ea80-4eaf183b32b4/pr_source.png/230x0w.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`5` 
+- [Brain Marks](https://github.com/mikaelacaron/brain-marks): Organize your tweets
+  - [` App Store`](https://apps.apple.com/us/app/brain-marks/id1577423925) <a href='https://user-images.githubusercontent.com/22946902/135545890-6afb5e3f-4b04-4957-81b7-364f9f229080.PNG'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `aws amplify` 
 - [Emoncms](https://github.com/emoncms/emoncms-ios): Emoncms dashboard
   - [` App Store`](https://apps.apple.com/app/emoncms/id1169483587) <a href='https://github.com/emoncms/emoncms-ios/blob/master/images/screen1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/emoncms/emoncms-ios/blob/master/images/screen2.png?raw=true'>`Screenshot 2`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
