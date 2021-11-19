@@ -27154,6 +27154,24 @@
           "https://raw.githubusercontent.com/jareksedy/Elseweather/main/Screenshots/ew_sc1.png",
           "https://raw.githubusercontent.com/jareksedy/Elseweather/main/Screenshots/ew_sc2.png"
         ]
+    },
+    {
+      "title": "Brain Marks",
+      "description": "Organize your tweets",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift", "aws amplify"
+      ],
+      "license": "mit",
+      "source": "https://github.com/mikaelacaron/brain-marks",
+      "itunes": "https://apps.apple.com/us/app/brain-marks/id1577423925",
+      "date_added": "Nov 19 2021",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/22946902/135545890-6afb5e3f-4b04-4957-81b7-364f9f229080.PNG"
+      ]
     }
   ]
 }
