@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1306-green.svg) ![](https://img.shields.io/badge/Updated-November%2016,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1306-green.svg) ![](https://img.shields.io/badge/Updated-November%2019,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3655,9 +3655,9 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [Elseweather](https://github.com/jareksedy/Elseweather): App that displays current weather at a random location.
+- [Elseweather](https://github.com/jareksedy/Elseweather): Displays current weather at a random location
   -  <a href='https://raw.githubusercontent.com/jareksedy/Elseweather/main/Screenshots/ew_sc1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jareksedy/Elseweather/main/Screenshots/ew_sc2.png'>`Screenshot 2`</a> 
-  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
 - [Lucid Weather Clock](https://github.com/wrutkowski/Lucid-Weather-Clock): Precipitation clock
   -  <a href='https://i.giphy.com/mcmrs3ArwawE0.gif'>`Screenshot 1`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `dark sky api (forecast api)` 
@@ -4648,6 +4648,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/StephenMcMillan/Dub-Dub-Do/raw/master/todoapp.gif'>`Screenshot 1`</a> 
   -  `2020`   `swift` 
   -  ☆`59` 
+- [Elseweather](https://github.com/jareksedy/Elseweather): Displays current weather at a random location
+  -  <a href='https://raw.githubusercontent.com/jareksedy/Elseweather/main/Screenshots/ew_sc1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jareksedy/Elseweather/main/Screenshots/ew_sc2.png'>`Screenshot 2`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
 - [emitron](https://github.com/razeware/emitron-iOS): For https://www.raywenderlich.com
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `combine` 
   -  ☆`285` 
