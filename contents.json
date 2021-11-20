@@ -27172,6 +27172,26 @@
       "screenshots": [
         "https://user-images.githubusercontent.com/22946902/135545890-6afb5e3f-4b04-4957-81b7-364f9f229080.PNG"
       ]
+    },
+    {
+      "title": "Öppna Skolplattformen",
+      "description": "For parents to check child information using the city of Stockholm's school platform",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "lang": "swe",
+      "source": "https://github.com/kolplattformen/skolplattformen",
+      "itunes": "https://apps.apple.com/se/app/öppna-skolplattformen/id1543853468",
+      "screenshots": [
+        "https://github.com/kolplattformen/skolplattformen/raw/main/apps/website/assets/img/screenshots/screenshot_login.png"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Nov 20 2021",
+      "suggested_by": "@dkhamsing",
+      "stars": 707
     }
   ]
 }
