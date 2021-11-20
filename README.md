@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1307-green.svg) ![](https://img.shields.io/badge/Updated-November%2019,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1308-green.svg) ![](https://img.shields.io/badge/Updated-November%2020,%202021-lightgrey.svg)
 
 Jump to
 
@@ -4388,6 +4388,10 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/wwdc-family/app/master/design/Screenshot1.png'>`Screenshot 1`</a> 
   -  `2019`   `react-native` 
   -  ☆`189` 
+- [Öppna Skolplattformen](https://github.com/kolplattformen/skolplattformen): For parents to check child information using the city of Stockholm's school platform
+  - [` App Store`](https://apps.apple.com/se/app/öppna-skolplattformen/id1543853468) <a href='https://github.com/kolplattformen/skolplattformen/raw/main/apps/website/assets/img/screenshots/screenshot_login.png'>`Screenshot 1`</a> 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `react-native` 
+  -  ☆`707` 
 ### ReactiveCocoa 
  
 https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme) 
