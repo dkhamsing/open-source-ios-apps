@@ -14473,13 +14473,6 @@
       "tags": [
         "swift"
       ],
-      "screenshots": [
-        "https://samwoolf.net/wp-content/uploads/2017/03/crimemapper1a-1.jpg",
-        "https://samwoolf.net/wp-content/uploads/2017/03/crimemapper2a.jpg",
-        "https://samwoolf.net/wp-content/uploads/2017/03/crimemapper3a.jpg",
-        "https://samwoolf.net/wp-content/uploads/2017/03/crimemapper4a.jpg",
-        "https://samwoolf.net/wp-content/uploads/2017/03/crimemapper5a.jpg"
-      ],
       "date_added": "April 6 2017",
       "suggested_by": "@swwol",
       "stars": 9,
@@ -26025,7 +26018,7 @@
         "ipad"
       ],
       "description": "Diagnose and analyze network connections",
-      "source": "https://github.com/ivirtex/network-arch",
+      "source": "https://github.com/ivirtex/networkarch-old",
       "screenshots": [
         "https://i.ibb.co/VmWp0Q5/1242x2688bb.png"
       ],
@@ -26436,9 +26429,7 @@
         "adult"
       ],
       "screenshots": [
-        "https://github.com/honjow/FEhViewer/blob/nullsafety/screenshot/2021-06-21%2019.15.21.jpg?raw=true",
-        "https://github.com/honjow/FEhViewer/blob/nullsafety/screenshot/2021-06-21%2019.15.27.jpg?raw=true",
-        "https://github.com/honjow/FEhViewer/blob/nullsafety/screenshot/2021-06-21%2019.15.58.jpg?raw=true"
+        "https://raw.githubusercontent.com/honjow/FEhViewer/nullsafety/screenshot/home1.jpg"
       ],
       "date_added": "Jul 24 2021",
       "suggested_by": "@honjow",
