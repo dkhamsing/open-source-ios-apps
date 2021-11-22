@@ -27183,6 +27183,24 @@
       "date_added": "Nov 20 2021",
       "suggested_by": "@dkhamsing",
       "stars": 707
+    },
+    {
+      "title": "Star Wars",
+      "description": "Uses swapi",
+      "category-ids": [
+        "content"
+      ],
+      "tags": [
+        "kmm", "graphql"
+      ],
+      "license": "mit",
+      "source": "https://github.com/joreilly/StarWars",
+      "date_added": "Nov 22 2021",
+      "suggested_by": "apache-2.0",
+      "screenshots": [
+        "https://github.com/joreilly/StarWars/raw/main/art/screenshot1.png?raw=true"
+      ],
+      "stars": 71
     }
   ]
 }
