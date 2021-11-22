@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1308-green.svg) ![](https://img.shields.io/badge/Updated-November%2021,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1309-green.svg) ![](https://img.shields.io/badge/Updated-November%2022,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2566,6 +2566,10 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374) <a href='https://github.com/FranicevicNikola/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `widgetkit` `ios14` 
   -  ☆`20` 
+- [Star Wars](https://github.com/joreilly/StarWars): Uses swapi
+  -  <a href='https://github.com/joreilly/StarWars/raw/main/art/screenshot1.png?raw=true'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `kmm` `graphql` 
+  -  ☆`71` 
 - [SwiftUI-MovieDB](https://github.com/alfianlosari/SwiftUI-MovieDB): Browse movies, made with SwiftUI, Combine & MovieDB
   -  <a href='https://github.com/alfianlosari/SwiftUI-MovieDB/raw/master/promo.png?raw=true'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `themoviedb` `ipad` 
