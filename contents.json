@@ -22792,14 +22792,12 @@
     {
       "title": "Slime",
       "category-ids": [
-        "swiftui"
+        "swiftui",
+        "developer"
       ],
       "description": "App icon assets generator written in SwiftUI",
       "source": "https://github.com/Mas0nSun/Slime",
       "license": "mit",
-      "category-ids": [
-        "developer"
-      ],
       "tags": [
         "swift",
         "swiftui"
@@ -22808,7 +22806,6 @@
         "https://user-images.githubusercontent.com/20198012/142772891-8b142e73-9f23-46a0-af3b-ddf063a25875.png"
       ],
       "date_added": "Nov 22 2021",
-      "license": "mit",
       "suggested_by": "Mas0nSun"
     }
   ]
