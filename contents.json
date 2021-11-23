@@ -27201,6 +27201,22 @@
         "https://github.com/joreilly/StarWars/raw/main/art/screenshot1.png?raw=true"
       ],
       "stars": 71
-    }
+    },
+    {
+      "title": "MVI SwiftUI Example",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift", "mvi"
+      ],
+      "license": "mit",
+      "source": "https://github.com/AnupAmmanavar/Mvi-SwiftUI",
+      "date_added": "Nov 23 2021",
+      "suggested_by": "other",
+      "screenshots": [
+        "https://github.com/joreilly/StarWars/raw/main/art/screenshot1.png?raw=true"
+      ]
+    }    
   ]
 }
