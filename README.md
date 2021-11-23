@@ -306,10 +306,6 @@ Jump to
   -  <a href='https://github.com/caiobzen/water-reminder-swiftui/raw/master/drink-water-app.gif'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `combine` 
   -  ☆`134` 
-- [Waterminder](https://github.com/caiobzen/water-reminder-swiftui): Remind you to drink water on the watch
-  -  <a href='https://github.com/caiobzen/water-reminder-swiftui/raw/master/drink-water-app.gif'>`Screenshot 1`</a> 
-  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
-  -  ☆`137` 
 - [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app
   - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'>`Screenshot 3`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `watchos` `swiftui` `alamofire` 
@@ -3138,6 +3134,9 @@ https://newsapi.org/ — [back to top](#readme)
 - [MVCTodo](https://github.com/davedelong/MVCTodo): Simple To Do app to illustrate the principles from my A Better MVC talk
   -  `2019`   `swift` 
   -  ☆`436` 
+- [MVI SwiftUI Example](https://github.com/AnupAmmanavar/Mvi-SwiftUI)
+  -  <a href='https://github.com/joreilly/StarWars/raw/main/art/screenshot1.png?raw=true'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `mvi` 
 - [Polls](https://github.com/apiaryio/polls-app): Uses the Apiary Polls API
   -  <a href='https://github.com/apiaryio/polls-app/raw/master/Screenshot.png'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
