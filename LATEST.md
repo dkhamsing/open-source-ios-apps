@@ -2,7 +2,7 @@
 
 ## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
-1. [Waterminder](https://github.com/caiobzen/water-reminder-swiftui)
+1. [MVI SwiftUI Example](https://github.com/AnupAmmanavar/Mvi-SwiftUI)
 2. [Star Wars](https://github.com/joreilly/StarWars)
 3. [Öppna Skolplattformen](https://github.com/kolplattformen/skolplattformen)
 4. [Brain Marks](https://github.com/mikaelacaron/brain-marks)
