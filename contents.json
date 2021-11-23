@@ -27201,24 +27201,6 @@
         "https://github.com/joreilly/StarWars/raw/main/art/screenshot1.png?raw=true"
       ],
       "stars": 71
-    },
-    {
-      "title": "Waterminder",
-      "category-ids": [
-        "apple-watch"
-      ],
-      "description": "Remind you to drink water on the watch",
-      "source": "https://github.com/caiobzen/water-reminder-swiftui",
-      "stars": 137,
-      "screenshots": [
-        "https://github.com/caiobzen/water-reminder-swiftui/raw/master/drink-water-app.gif"
-      ],
-      "tags": [
-        "swift", "swiftui"
-      ],
-      "license": "mit",
-      "date_added": "Nov 23 2021",
-      "suggested_by": "@dkhamsing"
     }
   ]
 }
