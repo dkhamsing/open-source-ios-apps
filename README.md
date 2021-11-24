@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1310-green.svg) ![](https://img.shields.io/badge/Updated-November%2023,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1310-green.svg) ![](https://img.shields.io/badge/Updated-November%2024,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3135,7 +3135,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2019`   `swift` 
   -  ☆`436` 
 - [MVI SwiftUI Example](https://github.com/AnupAmmanavar/Mvi-SwiftUI)
-  -  <a href='https://github.com/joreilly/StarWars/raw/main/art/screenshot1.png?raw=true'>`Screenshot 1`</a> 
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `mvi` 
 - [Polls](https://github.com/apiaryio/polls-app): Uses the Apiary Polls API
   -  <a href='https://github.com/apiaryio/polls-app/raw/master/Screenshot.png'>`Screenshot 1`</a> 
