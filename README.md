@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1311-green.svg) ![](https://img.shields.io/badge/Updated-November%2025,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1310-green.svg) ![](https://img.shields.io/badge/Updated-November%2025,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3135,13 +3135,11 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2019`   `swift` 
   -  ☆`436` 
 - [MVI SwiftUI Example](https://github.com/AnupAmmanavar/Mvi-SwiftUI)
-  -   `swift` `mvi` 
+  -   `swift` `mvi` `model-view-intent` 
 - [Polls](https://github.com/apiaryio/polls-app): Uses the Apiary Polls API
   -  <a href='https://github.com/apiaryio/polls-app/raw/master/Screenshot.png'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`32` 
-- [Portfolio](https://github.com/bastienFalcou/Portfolio): An MVI, SwiftUI and Combine exploration project to shop clothe by resemblance
-  -   `swift` `mvi` `combine` 
 - [Protocol-Oriented MVVM Examples](https://github.com/ivan-magda/MVVM-Example)
   -  <a href='https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png'>`Screenshot 1`</a>  <a href='https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png'>`Screenshot 2`</a>  <a href='https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png'>`Screenshot 3`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `mvvm` 
