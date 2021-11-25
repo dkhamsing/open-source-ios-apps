@@ -27208,25 +27208,11 @@
         "sample"
       ],
       "tags": [
-        "swift", "mvi"
+        "swift", "mvi", "model-view-intent"
       ],
       "license": "other",
       "source": "https://github.com/AnupAmmanavar/Mvi-SwiftUI",
       "date_added": "Nov 23 2021",
-      "suggested_by": "@dkhamsing"
-    },
-    {
-      "title": "Portfolio",
-      "description": "An MVI, SwiftUI and Combine exploration project to shop clothe by resemblance",
-      "category-ids": [
-        "sample"
-      ],
-      "tags": [
-        "swift", "mvi", "combine"
-      ],
-      "license": "other",
-      "source": "https://github.com/bastienFalcou/Portfolio",
-      "date_added": "Nov 25 2021",
       "suggested_by": "@dkhamsing"
     }
   ]
