@@ -27214,6 +27214,21 @@
       "source": "https://github.com/AnupAmmanavar/Mvi-SwiftUI",
       "date_added": "Nov 23 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "GrailerApp",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Track your items in Diable 2 and much, much more",
+      "source": "https://github.com/Dimillian/GrailerApp",
+      "license": "apache-2.0",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "date_added": "Nov 26 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
