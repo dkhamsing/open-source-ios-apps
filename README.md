@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1311-green.svg) ![](https://img.shields.io/badge/Updated-November%2026,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1311-green.svg) ![](https://img.shields.io/badge/Updated-November%2027,%202021-lightgrey.svg)
 
 Jump to
 
@@ -4704,7 +4704,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/gradecalc-gpa-calculator/id1502912052) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2020`   `swift` 
   -  ☆`24` 
-- [GrailerApp](https://github.com/Dimillian/GrailerApp): Track your items in Diable 2 and much, much more
+- [GrailerApp](https://github.com/Dimillian/GrailerApp): Track your items in Diablo 2 and much, much more
   -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` 
 - [Harbour](https://github.com/rrroyal/Harbour): Docker/Portainer app
   -  <a href='https://raw.githubusercontent.com/rrroyal/Harbour/legacy/Resources/Screenshots/Light/Dashboard.png'>`Screenshot 1`</a> 
