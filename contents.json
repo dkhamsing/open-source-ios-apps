@@ -27229,6 +27229,19 @@
       ],
       "date_added": "Nov 26 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SwiftUI Concurrency Essentials",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift", "swiftui"
+      ],
+      "license": "apache-2.0",
+      "source": "https://github.com/peterfriese/SwiftUI-Concurrency-Essentials",
+      "date_added": "Nov 27 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
