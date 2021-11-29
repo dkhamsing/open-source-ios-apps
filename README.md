@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1311-green.svg) ![](https://img.shields.io/badge/Updated-November%2027,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1312-green.svg) ![](https://img.shields.io/badge/Updated-November%2029,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3190,6 +3190,8 @@ https://newsapi.org/ — [back to top](#readme)
 - [SwiftStrike](https://developer.apple.com/documentation/realitykit/swiftstrike_creating_a_game_with_realitykit): Sample code by Apple
   -  <a href='https://twitter.com/oscarfalmer/status/1304457111318003714'>`Screenshot 1`</a> 
   -   `swift` `ios14` `realitykit` `game` 
+- [SwiftUI Concurrency Essentials](https://github.com/peterfriese/SwiftUI-Concurrency-Essentials)
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` 
 - [TicTacToe](https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe): Demonstrate how to build a full, moderately complex application in the Composable Architecture
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 ## Scan 
