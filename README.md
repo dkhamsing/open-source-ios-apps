@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1312-green.svg) ![](https://img.shields.io/badge/Updated-November%2029,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1313-green.svg) ![](https://img.shields.io/badge/Updated-November%2030,%202021-lightgrey.svg)
 
 Jump to
 
@@ -4581,6 +4581,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://i.imgur.com/bAz5erU.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
   -  ☆`60` 
+- [Apple clock widget](https://github.com/ntnhon/Random-SwiftUI)
+  -  <a href='https://raw.githubusercontent.com/ntnhon/Random-SwiftUI/master/Demo/Demo.gif'>`Screenshot 1`</a> 
+  -   `swift` `swiftui` 
 - [Apple WWDC 2021](https://developer.apple.com/sample-code/wwdc/2021/): Sample code referenced in WWDC21 session videos
   -   `swift` `swiftui` 
 - [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum): AR headset experience
