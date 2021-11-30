@@ -27242,6 +27242,23 @@
       "source": "https://github.com/peterfriese/SwiftUI-Concurrency-Essentials",
       "date_added": "Nov 27 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Apple clock widget",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/ntnhon/Random-SwiftUI",
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/ntnhon/Random-SwiftUI/master/Demo/Demo.gif"
+      ],
+      "date_added": "Nov 29 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
