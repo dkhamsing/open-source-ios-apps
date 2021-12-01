@@ -27258,6 +27258,23 @@
       ],
       "date_added": "Nov 29 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "PKDex",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/mzapatae/PKDex-iOS",
+      "license": "gpl-3.0",
+      "tags": [
+        "swift",
+        "swiftui",
+        "combine",
+        "mvi",
+        "model-view-intent"
+      ],
+      "date_added": "Nov 30 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
