@@ -27310,6 +27310,22 @@
       "suggested_by": "@dkhamsing",
       "stars": 7,
       "updated": "2021-10-20 17:43:52 UTC"
+    },
+    {
+      "title": "MVI-SwiftUI",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/VAnsimov/MVI-SwiftUI",
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui",
+        "mvi",
+        "model-view-intent"
+      ],
+      "date_added": "Dec 3 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
