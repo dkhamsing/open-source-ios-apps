@@ -27326,6 +27326,21 @@
       ],
       "date_added": "Dec 3 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "MVI-SingleState",
+      "category-ids": [
+        "misc"
+      ],
+      "source": "https://github.com/VAnsimov/MVI-SingleState",
+      "license": "other",
+      "tags": [
+        "swift",
+        "mvi",
+        "model-view-intent"
+      ],
+      "date_added": "Dec 4 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
