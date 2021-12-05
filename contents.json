@@ -27341,6 +27341,19 @@
       ],
       "date_added": "Dec 4 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "BlackJackTrainer",
+      "category-ids": [
+        "misc"
+      ],
+      "source": "https://github.com/mongodb-developer/BlackJackTrainer",
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Dec 4 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
