@@ -27350,6 +27350,28 @@
       ],
       "date_added": "Dec 4 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Scribe - Language Keyboards",
+      "description": "Communicate with confidence using keyboards designed for language learners.",
+      "category-ids": [
+        "education"
+      ],
+      "tags": [
+        "swift",
+        "iphone",
+        "ipad",
+        "productivity",
+        "reference"
+      ],
+      "license": "gpl-3.0",
+      "source": "https://github.com/scribe-org/Scribe-iOS",
+      "date_added": "Dec 6 2021",
+      "suggested_by": "@andrewtavis",
+      "screenshots": [
+        "https://raw.githubusercontent.com/scribe-org/Scribe-iOS/main/Resources/GitHub/Images/scribeAppStoreImages.png"
+      ],
+      "stars": 0
     }
   ]
 }
