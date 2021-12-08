@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%20%207,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%20%208,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2567,7 +2567,7 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1445035408) <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-3.png?raw=true'>`Screenshot 3`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `tmdb` 
   -  ☆`15` 
-- [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift): For SoundCloud
+- [SoundCloudSwift](https://github.com/pepicrft/SoundCloudSwift): For SoundCloud
   -  <a href='https://cdn-images-1.medium.com/max/800/1*C0s-C27rJbQrIa0j5dBctQ.png'>`Screenshot 1`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`564` 
