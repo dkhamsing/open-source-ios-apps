@@ -6830,7 +6830,7 @@
         "objc"
       ],
       "description": "Track your class grades",
-      "source": "https://github.com/maurovc/iGrades",
+      "source": "https://github.com/archive/iGrades",
       "stars": 15,
       "license": "other",
       "date_added": "Mon Mar 16 07:29:52 2015 -0700",
@@ -27353,7 +27353,7 @@
     },
     {
       "title": "Scribe - Language Keyboards",
-      "description": "Communicate with confidence using keyboards designed for language learners.",
+      "description": "Communicate with confidence using keyboards designed for language learners",
       "category-ids": [
         "education"
       ],
@@ -27372,8 +27372,7 @@
         "https://raw.githubusercontent.com/scribe-org/Scribe-iOS/main/Resources/GitHub/Images/scribeAppStoreImages.png"
       ],
       "stars": 0,
-      "itunes": "https://apps.apple.com/app/scribe-language-keyboards/id1596613886",
-      "homepage": "https://github.com/scribe-org"
+      "itunes": "https://apps.apple.com/app/scribe-language-keyboards/id1596613886"
     }
   ]
 }
