@@ -161,6 +161,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [iBeaconTasks](https://github.com/TomekB/iBeaconTasks)
 - [Iceland Earthquakes](https://github.com/paranoida/IcelandEarthquakes)
 - [iContactU](https://github.com/rizal72/iContactU)
+- [iGrades](https://github.com/opensourceios/iGrades)
 - [iLabyrinth](https://github.com/RolandasRazma/iLabyrinth)
 - [Impulse](https://github.com/Jasdev/Impulse)
 - [iOctocat](https://github.com/dennisreimann/ioctocat)
