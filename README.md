@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%20%209,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%2011,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1025,10 +1025,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/gradecalc-gpa-calculator/id1502912052) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2020`   `swift` 
   -  ☆`25` 
-- [iGrades](https://github.com/archive/iGrades): Track your class grades
-  -  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/e0/67/f7/e067f75c-17d3-a802-28e8-6e879e4c1ed2/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/6b/d4/da/6bd4da1b-a638-9707-ee28-087f8707f7ff/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/ac/f0/0e/acf00ebc-eddb-1b95-74b6-887b598045bb/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/de/3b/38/de3b3831-796e-4783-2acd-a79319093b2e/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/d9/b1/28/d9b128ad-3a92-7b55-eca1-11111ede6ed0/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
-  -  `2016`   `objc` 
-  -  ☆`15` 
 - [Kotoba](https://github.com/willhains/Kotoba): Quickly search the built-in dictionary to see definitions of words. Collect the words you want to remember
   -  <a href='https://i.imgur.com/yNc3GOl.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/aF4JedS.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/pw0M2yi.png'>`Screenshot 3`</a>  <a href='https://i.imgur.com/zv3RKrZ.png'>`Screenshot 4`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
