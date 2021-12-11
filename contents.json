@@ -6827,10 +6827,10 @@
         "education"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Track your class grades",
-      "source": "https://github.com/archive/iGrades",
+      "source": "https://github.com/opensourceios/iGrades",
       "stars": 15,
       "license": "other",
       "date_added": "Mon Mar 16 07:29:52 2015 -0700",
