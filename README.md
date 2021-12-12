@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%2011,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%2012,%202021-lightgrey.svg)
 
 Jump to
 
@@ -192,7 +192,7 @@ Jump to
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`103` 
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets
-  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://www.clendar.info/img/screenshot.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `iphone` `ipad` 
   -  ☆`264` 
 - [Cortado](https://github.com/lazerwalker/cortado): Track your caffeine consumption habits
@@ -403,7 +403,7 @@ Jump to
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`89` 
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets
-  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://www.clendar.info/img/screenshot.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `iphone` `ipad` 
   -  ☆`264` 
 - [FreeTimePicker](https://github.com/fromkk/FreeTimePicker): Find free time in your calendar
@@ -1322,7 +1322,7 @@ Widget (iOS 14) — [back to top](#readme)
  
 
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets
-  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://www.clendar.info/img/screenshot.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `iphone` `ipad` 
   -  ☆`264` 
 - [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Quickly check in on your GitHub contributions from your Home Screen using Widgets
@@ -2484,9 +2484,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/thiagolioy/marvelapp/blob/master/assets/marvel_screens.png?raw=true'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `moya` `rxswift` `dollar` `kingfisher` `quick` `nimble` 
   -  ☆`170` 
-- [Molecules](https://www.sunsetlakesoftware.com/molecules): Visualize molecules in 3D
-  - [` App Store`](https://apps.apple.com/app/molecules/id284943090) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/f1/46/9e/f1469ec5-e5d7-daf9-2d77-501aede04cb9/mzl.dzwpexqf.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/2c/65/d3/2c65d300-59f9-f41b-f57d-150b28351905/mzl.pjagxicy.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/3a/9b/ce/3a9bced7-ab7c-efba-e392-b953099aa233/mzl.evxxezuj.png/460x0w.jpg'>`Screenshot 3`</a> 
-  -   `objc` 
 - [Monotone](https://github.com/Neko3000/Monotone): Modern way to explore Unsplash
   -  <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-3.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-4.png'>`Screenshot 4`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
