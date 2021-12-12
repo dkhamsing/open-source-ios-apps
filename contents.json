@@ -9631,7 +9631,6 @@
         "objc"
       ],
       "description": "Visualize molecules in 3D",
-      "source": "https://www.sunsetlakesoftware.com/molecules",
       "itunes": "https://apps.apple.com/app/molecules/id284943090",
       "license": "other",
       "date_added": "Tue May 31 22:58:38 2016 -0600",
@@ -25575,7 +25574,7 @@
       "source": "https://github.com/vinhnx/Clendar",
       "itunes": "https://apps.apple.com/app/clendar-a-calendar-app/id1548102041",
       "screenshots": [
-        "https://vinhnx.github.io/clendar-site/img/screenshot.png"
+        "https://www.clendar.info/img/screenshot.png"
       ],
       "license": "gpl-3.0",
       "date_added": "Feb 04 2021",
