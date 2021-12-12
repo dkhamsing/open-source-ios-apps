@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **302** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **301** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -117,7 +117,7 @@ Jump to
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`103` 
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets
-  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://www.clendar.info/img/screenshot.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `iphone` `ipad` 
   -  ☆`264` 
 - [HN Reader](https://github.com/Dimillian/SwiftHN): Hacker News Reader
@@ -206,7 +206,7 @@ Jump to
  
 
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets
-  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://www.clendar.info/img/screenshot.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `iphone` `ipad` 
   -  ☆`264` 
 ## Color 
@@ -612,7 +612,7 @@ Widget (iOS 14) — [back to top](#readme)
  
 
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets
-  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://vinhnx.github.io/clendar-site/img/screenshot.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://www.clendar.info/img/screenshot.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `iphone` `ipad` 
   -  ☆`264` 
 - [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Quickly check in on your GitHub contributions from your Home Screen using Widgets
@@ -1163,9 +1163,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/konabot/id1055716649) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/68/a2/9e/68a29ead-7597-31c8-5a31-f9be59f9a536/mzl.yqyizpwt.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/06/83/30/0683300f-f270-ed21-2440-a08ed95e2dc2/mzl.mjpipbbh.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/a0/56/43/a056435c-39b3-53fa-d855-4c14da2dc5b8/mzl.rygecdxi.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/80/c2/5a/80c25a18-9da4-c858-52c9-355730428a10/mzl.sabxxynu.jpg/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/52/01/11/52011118-29f2-74f9-a0bd-30fded86e17a/mzl.bgdhdgpx.jpg/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2016`   `swift` 
   -  ☆`26` 
-- [Molecules](https://www.sunsetlakesoftware.com/molecules): Visualize molecules in 3D
-  - [` App Store`](https://apps.apple.com/app/molecules/id284943090) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/f1/46/9e/f1469ec5-e5d7-daf9-2d77-501aede04cb9/mzl.dzwpexqf.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/2c/65/d3/2c65d300-59f9-f41b-f57d-150b28351905/mzl.pjagxicy.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/3a/9b/ce/3a9bced7-ab7c-efba-e392-b953099aa233/mzl.evxxezuj.png/460x0w.jpg'>`Screenshot 3`</a> 
-  -   `objc` 
 - [MovieDict](https://github.com/lurado/MovieDict): Offline dictionary for international movie titles
   - <a href=https://moviedict.info>`https://moviedict.info`</a>
   - [` App Store`](https://apps.apple.com/app/movieglot-what-do-they-call-it/id710587066) <a href='https://i.imgur.com/l6kVwjX.png'>`Screenshot 1`</a> 
