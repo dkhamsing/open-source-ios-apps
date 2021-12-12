@@ -9628,9 +9628,10 @@
         "content"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Visualize molecules in 3D",
+      "source": "https://www.sunsetlakesoftware.com/molecules",
       "itunes": "https://apps.apple.com/app/molecules/id284943090",
       "license": "other",
       "date_added": "Tue May 31 22:58:38 2016 -0600",
