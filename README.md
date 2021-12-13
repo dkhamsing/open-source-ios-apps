@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%2012,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%2013,%202021-lightgrey.svg)
 
 Jump to
 
@@ -769,7 +769,7 @@ Jump to
   -  <a href='https://github.com/ndfred/iperf-ios/raw/master/Screenshot.png'>`Screenshot 1`</a> 
   -  `2021`   `objc` 
   -  ☆`117` 
-- [iSH](https://github.com/ish-app/ish): The Linux shell on iOS
+- [iSH](https://github.com/ish-app/ish): Linux shell
   - <a href=https://ish.app>`https://ish.app`</a>
   - [` App Store`](https://apps.apple.com/app/ish-shell/id1436902243) <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg'>`Screenshot 2`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `c` `obj-c` 
@@ -828,7 +828,7 @@ Jump to
   -  <a href='https://github.com/cyanzhong/retriever/raw/master/Screenshots/1.PNG'>`Screenshot 1`</a>  <a href='https://github.com/cyanzhong/retriever/raw/master/Screenshots/2.PNG'>`Screenshot 2`</a> 
   -  `2017`   `objc` 
   -  ☆`1001` 
-- [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS & Mac apps
+- [Review Time](https://github.com/nthegedus/ReviewTime): Shows average App Store review times
   -  <a href='https://github.com/nthegedus/ReviewTime/raw/master/Design/ReviewTime.png'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`147` 
@@ -1098,7 +1098,7 @@ Jump to
   -  <a href='https://moreinfo.thebigboss.org/moreinfo/iuae1.jpg'>`Screenshot 1`</a>  <a href='https://moreinfo.thebigboss.org/moreinfo/iuae4.jpg'>`Screenshot 2`</a> 
   -  `2018`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` 
   -  ☆`42` 
-- [iSH](https://github.com/ish-app/ish): The Linux shell on iOS
+- [iSH](https://github.com/ish-app/ish): Linux shell
   - <a href=https://ish.app>`https://ish.app`</a>
   - [` App Store`](https://apps.apple.com/app/ish-shell/id1436902243) <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg'>`Screenshot 2`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `c` `obj-c` 
@@ -1754,7 +1754,7 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1463982222) <a href='https://raw.githubusercontent.com/mkhrapov/ultimate-peg-solitaire/master/img/UPS400.png'>`Screenshot 1`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`1` 
-- [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS): Wolfenstein 3D for iOS
+- [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS): Wolfenstein 3D
   - [` App Store`](https://apps.apple.com/app/wolfenstein-3d-classic-platinum/id309470478) <a href='https://a2.mzstatic.com/us/r30/Purple5/v4/7e/e4/82/7ee482ac-e8e2-edef-1187-d27110ed80d3/screen696x696.jpeg'>`Screenshot 1`</a>  <a href='https://a1.mzstatic.com/us/r30/Purple1/v4/08/71/7b/08717b85-2044-bc08-0b7e-db345d80ff1d/screen696x696.jpeg'>`Screenshot 2`</a> 
   -  `2021`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` 
   -  ☆`455` 
