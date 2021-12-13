@@ -374,7 +374,7 @@
         "c",
         "obj-c"
       ],
-      "description": "The Linux shell on iOS",
+      "description": "Linux shell",
       "source": "https://github.com/ish-app/ish",
       "itunes": "https://apps.apple.com/app/ish-shell/id1436902243",
       "homepage": "https://ish.app",
@@ -2096,7 +2096,7 @@
       "category-ids": [
         "developer"
       ],
-      "description": "Shows average review times for iOS & Mac apps",
+      "description": "Shows average App Store review times",
       "license": "mit",
       "source": "https://github.com/nthegedus/ReviewTime",
       "stars": 147,
@@ -3098,7 +3098,7 @@
       "tags": [
         "objc"
       ],
-      "description": "Wolfenstein 3D for iOS",
+      "description": "Wolfenstein 3D",
       "source": "https://github.com/id-Software/Wolf3D-iOS",
       "itunes": "https://apps.apple.com/app/wolfenstein-3d-classic-platinum/id309470478",
       "stars": 455,
