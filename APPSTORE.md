@@ -349,7 +349,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1580906147) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a6/75/0d/a6750dee-7361-ca1f-34bc-804b2b0d79e4/56caf957-c128-4b7a-8458-106a0de6fdaa_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.29.40.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/e7/9e/c6/e79ec63c-db19-2029-165d-ce6fc55500d1/c30f507f-54df-4fe8-bc7f-44c86a61a72c_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.33.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/81/01/ea/8101ea88-c459-e2b2-e18f-03eb42ccd5ff/5324ca34-a122-46fa-a618-1bb03d6afe7d_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.48.png/460x0w.webp'>`Screenshot 3`</a> 
   -  `2021`   `swift` `swiftui` 
   -  ☆`1` 
-- [iSH](https://github.com/ish-app/ish): The Linux shell on iOS
+- [iSH](https://github.com/ish-app/ish): Linux shell
   - <a href=https://ish.app>`https://ish.app`</a>
   - [` App Store`](https://apps.apple.com/app/ish-shell/id1436902243) <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg'>`Screenshot 2`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `c` `obj-c` 
@@ -508,7 +508,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/idos-2/id918131840) <a href='https://litchie.com/images/splash-small.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` `ipad` 
   -  ☆`416` 
-- [iSH](https://github.com/ish-app/ish): The Linux shell on iOS
+- [iSH](https://github.com/ish-app/ish): Linux shell
   - <a href=https://ish.app>`https://ish.app`</a>
   - [` App Store`](https://apps.apple.com/app/ish-shell/id1436902243) <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg'>`Screenshot 2`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `c` `obj-c` 
@@ -802,7 +802,7 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1463982222) <a href='https://raw.githubusercontent.com/mkhrapov/ultimate-peg-solitaire/master/img/UPS400.png'>`Screenshot 1`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`1` 
-- [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS): Wolfenstein 3D for iOS
+- [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS): Wolfenstein 3D
   - [` App Store`](https://apps.apple.com/app/wolfenstein-3d-classic-platinum/id309470478) <a href='https://a2.mzstatic.com/us/r30/Purple5/v4/7e/e4/82/7ee482ac-e8e2-edef-1187-d27110ed80d3/screen696x696.jpeg'>`Screenshot 1`</a>  <a href='https://a1.mzstatic.com/us/r30/Purple1/v4/08/71/7b/08717b85-2044-bc08-0b7e-db345d80ff1d/screen696x696.jpeg'>`Screenshot 2`</a> 
   -  `2021`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` 
   -  ☆`455` 
