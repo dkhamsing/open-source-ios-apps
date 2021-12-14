@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%2013,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%2014,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2576,7 +2576,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `themoviedb` `ipad` 
   -  ☆`275` 
 - [TVToday](https://github.com/rcaos/TVToday)
-  -  <a href='https://github.com/rcaos/TVToday/raw/master/Screens/Screen%20101.png'>`Screenshot 1`</a> 
+  -  <a href='https://raw.githubusercontent.com/rcaos/TVToday/master/Screenshots/dark/01.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` `rxswift` `realm` `mvvm` `tmdb` 
   -  ☆`20` 
 - [Upcoming TV](https://github.com/dkhamsing/upcomingtv): Track when your favorite tv show airs next
