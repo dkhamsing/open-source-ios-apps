@@ -790,7 +790,7 @@ File Management — [back to top](#readme)
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`84` 
 - [Spare Parts](https://github.com/adamwulf/spare-parts-app): Simple 2D point & line physics using Verlet integration
-  - [` App Store`](https://apps.apple.com/app/spare-parts/id981297199) <a href='https://a2.mzstatic.com/us/r30/Purple5/v4/22/a4/44/22a444e1-7626-03ee-05e7-6bdf58ea577d/screen480x480.jpeg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/spare-parts/id981297199) <a href='https://user-images.githubusercontent.com/4723115/146472281-78e77a62-14ed-4d56-ba05-8986712f0adf.png'>`Screenshot 1`</a> 
   -  `2015`   `objc` 
   -  ☆`14` 
 - [Tic TAI Toe](https://github.com/GroupeMINASTE/MorpionTPE-iOS): A tic tac toe with AI and PRO
