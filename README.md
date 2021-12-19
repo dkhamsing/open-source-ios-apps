@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%2018,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%2019,%202021-lightgrey.svg)
 
 Jump to
 
@@ -1577,7 +1577,6 @@ File Management — [back to top](#readme)
   -  `2020`   `swift` 
   -  ☆`104` 
 - [CodeCombat](https://github.com/codecombat/codecombat-ios): Multiplayer programming game for learning how to code
-  -  <a href=''>`Screenshot 1`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`54` 
 - [Concentration game (翻翻看)](https://github.com/geek5nan/FanFanSwift)
