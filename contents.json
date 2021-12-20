@@ -4748,7 +4748,8 @@
       "title": "VLC",
       "category-ids": [
         "video",
-        "official"
+        "official",
+        "apple-tv"
       ],
       "tags": [
         "objc"
@@ -4762,9 +4763,7 @@
       "date_added": "Sun Mar 22 17:42:59 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "https://a2.mzstatic.com/us/r30/Purple1/v4/09/9c/32/099c326b-be06-90db-a070-591bb182b718/screen696x696.jpeg",
-        "https://a1.mzstatic.com/us/r30/Purple1/v4/cf/ea/8e/cfea8e88-0160-6c53-6595-78bb802d5252/screen696x696.jpeg",
-        "https://a1.mzstatic.com/us/r30/Purple5/v4/a6/2b/21/a62b2150-b431-4b12-2707-a681f83554aa/screen696x696.jpeg"
+
       ],
       "updated": "2021-12-01 17:24:08 UTC"
     },
