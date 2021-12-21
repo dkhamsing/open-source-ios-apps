@@ -4106,7 +4106,7 @@
         "media"
       ],
       "tags": [
-        "ipad"
+        "ipad", "archive"
       ],
       "description": "Comic reader",
       "source": "https://github.com/swisspol/ComicFlow",
@@ -4115,9 +4115,6 @@
       "stars": 351,
       "date_added": "Thu Aug 13 13:56:05 2015 -0400",
       "suggested_by": "@Jay Hickey",
-      "screenshots": [
-        "https://a5.mzstatic.com/us/r30/Purple/v4/d4/c0/91/d4c09117-c6df-beaa-db5f-0566be580645/screen480x480.jpeg"
-      ],
       "updated": "2019-01-04 13:01:07 UTC"
     },
     {
