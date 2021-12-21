@@ -83,6 +83,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Colorblind](https://github.com/boostcode/ResearchKit-ColorBlind)
 - [ColorBlur](https://github.com/opensourceios/ColorBlur)
 - [ColorCipher](https://github.com/obviousjim/ColorCipher)
+- [ComicFlow](https://github.com/swisspol/ComicFlow)
 - [Communiqué](https://github.com/zadr/Communique)
 - [Compass](https://github.com/zntfdr/Compass)
 - [Concurrency](https://github.com/opensourceios/Concurrency)
