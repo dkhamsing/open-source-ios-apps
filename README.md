@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%2020,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%2021,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2236,10 +2236,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://ijoshsmith.files.wordpress.com/2015/04/ascii_kermit.png'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`278` 
-- [ComicFlow](https://github.com/swisspol/ComicFlow): Comic reader
-  - [` App Store`](https://apps.apple.com/app/comicflow/id409290355) <a href='https://a5.mzstatic.com/us/r30/Purple/v4/d4/c0/91/d4c09117-c6df-beaa-db5f-0566be580645/screen480x480.jpeg'>`Screenshot 1`</a> 
-  -  `2019`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `ipad` 
-  -  ☆`351` 
 - [Facemotion](https://github.com/remirobert/Facemotion): Find a contact by face recognition
   -  <a href='https://cloud.githubusercontent.com/assets/3276768/16144253/4e96344e-34a4-11e6-9257-06f5bcdf06ef.gif'>`Screenshot 1`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `opencv` 
