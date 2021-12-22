@@ -129,7 +129,7 @@ Jump to
   -  `2020`   `swift` `swiftui` 
   -  ☆`26` 
 - [MyWeight History](https://github.com/diogot/MyWeight): Body mass tracker with easy data input & access to history
-  - [` App Store`](https://apps.apple.com/app/myweight-history/id1098061879) <a href='https://a1.mzstatic.com/us/r30/Purple122/v4/2d/28/8c/2d288c05-33f0-1f18-b06a-4e3a24e1d608/screen696x696.jpeg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/myweight-history/id1098061879) <a href='https://user-images.githubusercontent.com/4723115/146957241-b8b43b10-1132-472d-8fb7-b95afdf0cfc0.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`64` 
 - [RSToDoList](https://github.com/rursache/ToDoList)
@@ -842,7 +842,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2018`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `healthkit` 
   -  ☆`172` 
 - [MyWeight History](https://github.com/diogot/MyWeight): Body mass tracker with easy data input & access to history
-  - [` App Store`](https://apps.apple.com/app/myweight-history/id1098061879) <a href='https://a1.mzstatic.com/us/r30/Purple122/v4/2d/28/8c/2d288c05-33f0-1f18-b06a-4e3a24e1d608/screen696x696.jpeg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/myweight-history/id1098061879) <a href='https://user-images.githubusercontent.com/4723115/146957241-b8b43b10-1132-472d-8fb7-b95afdf0cfc0.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`64` 
 - [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-ios): Scan food products barcode to see if they are good for you and the planet
