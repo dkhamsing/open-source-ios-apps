@@ -102,6 +102,11 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926) <a href='https://i.imgur.com/Br5ht7f.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` `ipad` `alamofire` `swiftyjson` `sdwebimage` `devicekit` `promisekit` `swiftlint` 
   -  ☆`112` 
+- [VLC](https://github.com/videolan/vlc): Media Player
+  - <a href=https://www.videolan.org/>`https://www.videolan.org/`</a>
+  - [` App Store`](https://apps.apple.com/app/vlc-for-ios/id650377962) <a href='https://user-images.githubusercontent.com/4723115/146823429-c85f22c0-e757-48c0-ba54-0930ed1769bc.png'>`Screenshot 1`</a> 
+  -  `2021`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` `ipad` 
+  -  ☆`8262` 
 ## Apple Watch 
  
 [back to top](#readme) 
@@ -1246,8 +1251,8 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  ☆`274` 
 - [VLC](https://github.com/videolan/vlc): Media Player
   - <a href=https://www.videolan.org/>`https://www.videolan.org/`</a>
-  - [` App Store`](https://apps.apple.com/app/vlc-for-ios/id650377962) <a href='https://a2.mzstatic.com/us/r30/Purple1/v4/09/9c/32/099c326b-be06-90db-a070-591bb182b718/screen696x696.jpeg'>`Screenshot 1`</a>  <a href='https://a1.mzstatic.com/us/r30/Purple1/v4/cf/ea/8e/cfea8e88-0160-6c53-6595-78bb802d5252/screen696x696.jpeg'>`Screenshot 2`</a>  <a href='https://a1.mzstatic.com/us/r30/Purple5/v4/a6/2b/21/a62b2150-b431-4b12-2707-a681f83554aa/screen696x696.jpeg'>`Screenshot 3`</a> 
-  -  `2021`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` 
+  - [` App Store`](https://apps.apple.com/app/vlc-for-ios/id650377962) <a href='https://user-images.githubusercontent.com/4723115/146823429-c85f22c0-e757-48c0-ba54-0930ed1769bc.png'>`Screenshot 1`</a> 
+  -  `2021`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` `ipad` 
   -  ☆`8262` 
 ## News 
  
@@ -1351,8 +1356,8 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`1835` 
 - [VLC](https://github.com/videolan/vlc): Media Player
   - <a href=https://www.videolan.org/>`https://www.videolan.org/`</a>
-  - [` App Store`](https://apps.apple.com/app/vlc-for-ios/id650377962) <a href='https://a2.mzstatic.com/us/r30/Purple1/v4/09/9c/32/099c326b-be06-90db-a070-591bb182b718/screen696x696.jpeg'>`Screenshot 1`</a>  <a href='https://a1.mzstatic.com/us/r30/Purple1/v4/cf/ea/8e/cfea8e88-0160-6c53-6595-78bb802d5252/screen696x696.jpeg'>`Screenshot 2`</a>  <a href='https://a1.mzstatic.com/us/r30/Purple5/v4/a6/2b/21/a62b2150-b431-4b12-2707-a681f83554aa/screen696x696.jpeg'>`Screenshot 3`</a> 
-  -  `2021`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` 
+  - [` App Store`](https://apps.apple.com/app/vlc-for-ios/id650377962) <a href='https://user-images.githubusercontent.com/4723115/146823429-c85f22c0-e757-48c0-ba54-0930ed1769bc.png'>`Screenshot 1`</a> 
+  -  `2021`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` `ipad` 
   -  ☆`8262` 
 - [Wikipedia](https://github.com/wikimedia/wikipedia-ios): Official Wikipedia app
   - [` App Store`](https://apps.apple.com/app/wikipedia-mobile/id324715238) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ce/66/0c/ce660cad-9495-8b63-bb6d-c75622b75333/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/80/07/4a800728-ff89-81ad-eaad-5f7ce92d8a4c/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e4/96/48/e49648cf-eb1f-89ac-376e-ca83e43a51e9/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/d5/37/2a/d5372ad3-37b4-e9dd-2506-c5b49e374df1/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/3b/61/e4/3b61e4cc-e063-519b-82de-cafa39650512/pr_source.png/460x0w.jpg'>`Screenshot 5`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/19/c2/3e/19c23e96-1498-893f-7112-672201f2610e/pr_source.png/460x0w.jpg'>`Screenshot 6`</a> 
