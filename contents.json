@@ -27363,6 +27363,19 @@
       ],
       "stars": 0,
       "itunes": "https://apps.apple.com/app/scribe-language-keyboards/id1596613886"
+    },
+    {
+      "title": "Exploring SwiftUI Sample Apps by Apple",
+      "category-ids": [
+        "sample", "swiftui"
+      ],
+      "source": "https://developer.apple.com/tutorials/sample-apps",
+      "tags": [
+        "swift"
+      ],
+      "license": "other",
+      "date_added": "Dec 24 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
