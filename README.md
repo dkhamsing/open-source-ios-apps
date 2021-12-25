@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1318-green.svg) ![](https://img.shields.io/badge/Updated-December%2024,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1319-green.svg) ![](https://img.shields.io/badge/Updated-December%2025,%202021-lightgrey.svg)
 
 Jump to
 
@@ -3090,6 +3090,8 @@ https://newsapi.org/ — [back to top](#readme)
 - [Custom View Controller Transitions](https://github.com/DreamingInBinary/Custom-ViewController-Transitions): Make custom view controller transitions in the most simple way possible
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`79` 
+- [Exploring SwiftUI Sample Apps by Apple](https://developer.apple.com/tutorials/sample-apps)
+  -   `swift` 
 - [Face Landmarks Detection](https://github.com/mattlawer/FaceLandmarksDetection): Find facial features such as face contour, eyes, mouth and nose in an image
   -  <a href='https://i.imgur.com/MvyUmm8.gif'>`Screenshot 1`</a> 
   -  `2018`   `swift` `vision` 
@@ -4693,6 +4695,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted/raw/master/promo.png?raw=true'>`Screenshot 1`</a> 
   -  `2020`   `swift` `swiftui` `core-data` 
   -  ☆`165` 
+- [Exploring SwiftUI Sample Apps by Apple](https://developer.apple.com/tutorials/sample-apps)
+  -   `swift` 
 - [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling
   - [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863) <a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` 
