@@ -27376,6 +27376,21 @@
       "license": "other",
       "date_added": "Dec 24 2021",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "lil wallet",
+      "category-ids": [
+        "cryptocurrency"
+      ],
+      "description": " Ethereum wallet",
+      "license": "other",
+      "source": "https://github.com/jordansinger/lil-wallet",
+      "tags": [
+        "swift", "swiftui"
+      ],
+      "stars": 121,
+      "date_added": "Dec 27 2021",
+      "suggested_by": "dkhamsing"
     }
   ]
 }
