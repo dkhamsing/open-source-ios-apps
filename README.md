@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1320-green.svg) ![](https://img.shields.io/badge/Updated-December%2027,%202021-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1320-green.svg) ![](https://img.shields.io/badge/Updated-December%2028,%202021-lightgrey.svg)
 
 Jump to
 
@@ -2445,7 +2445,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`943` 
 - [EhPanda](https://github.com/tatsuz0u/EhPanda): Unofficial E-Hentai browser
   - <a href=https://ehpanda.app>`https://ehpanda.app`</a>
-  -  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Home_EN_Light.png'>`Screenshot 1`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Detail_EN_Light.png'>`Screenshot 2`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Comment_EN_Light.png'>`Screenshot 3`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Archive_EN_Light.png'>`Screenshot 4`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Torrent_EN_Light.png'>`Screenshot 5`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Filter_EN_Light.png'>`Screenshot 6`</a>  <a href='https://github.com/tatsuz0u/EhPanda-PromotionResources/raw/main/images/screenshot/Setting_EN_Light.png'>`Screenshot 7`</a> 
+  -  <a href='https://user-images.githubusercontent.com/4723115/147510278-346eacd6-8d4f-4fb7-a4b8-17a75efc2536.png'>`Screenshot 1`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swiftui` `combine` `adult` 
   -  ☆`797` 
 - [fastmdb](https://github.com/dkhamsing/fastmdb): Fast app to browse and search movies, tv, people, credits
