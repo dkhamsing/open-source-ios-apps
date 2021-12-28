@@ -27388,7 +27388,7 @@
     },
     {
       "title": "Stay",
-      "description": "Stay in the Safari, prevent app jumping, block ads, auto unfolding the text",
+      "description": "Stay in the Safari, prevent app jumping, block ads, text auto unfold",
       "category-ids": [
         "safari-extension"
       ],
