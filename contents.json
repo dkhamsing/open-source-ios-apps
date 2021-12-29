@@ -27385,6 +27385,25 @@
       "stars": 121,
       "date_added": "Dec 27 2021",
       "suggested_by": "dkhamsing"
+    },
+    {
+      "title": "Stay",
+      "description": "Stay in the Safari, prevent app jumping, block ads, text auto unfold",
+      "category-ids": [
+        "safari-extension"
+      ],
+      "source": "https://github.com/shenruisi/Stay",
+      "itunes": "https://apps.apple.com/app/stay-网页纯浏览/id1591620171",
+      "license": "mpl-2.0",
+      "date_added": "Dec 28 2021",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/4723115/147595814-d20a0ffe-4cd3-4994-9204-969b5657376f.png"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "stars": 188
     }
   ]
 }
