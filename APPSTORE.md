@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **300** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **301** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -598,6 +598,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/us/app/pipifier/id1234771095)
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`662` 
+- [Stay](https://github.com/shenruisi/Stay): Stay in the Safari, prevent app jumping, block ads, text auto unfold
+  - [` App Store`](https://apps.apple.com/app/stay-网页纯浏览/id1591620171) <a href='https://user-images.githubusercontent.com/4723115/147595814-d20a0ffe-4cd3-4994-9204-969b5657376f.png'>`Screenshot 1`</a> 
+  -  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` 
+  -  ☆`188` 
 ### Today 
  
 Today Extensions or Widgets — [back to top](#readme) 
