@@ -27420,6 +27420,24 @@
       ],
       "stars": 206,
       "updated": "2022-01-01 01:36:30 UTC"
+    },
+    {
+      "title": "Splito!",
+      "description": "Billing and tips calculator",
+      "category-ids": [
+        "calculator"
+      ],
+      "source": "https://github.com/aleksandr-mor/Splito",
+      "itunes": "https://apps.apple.com/app/splito/id1602086746",
+      "license": "mpl-2.0",
+      "date_added": "Jan 1 2022",
+      "suggested_by": "@dkhamsing",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/85921199/147791061-392897f8-2b68-4be8-9194-db35dd5d04d9.png"
+      ],
+      "tags": [
+        "swift"
+      ]
     }
   ]
 }
