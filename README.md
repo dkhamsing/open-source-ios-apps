@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1321-green.svg) ![](https://img.shields.io/badge/Updated-January%20%202,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1322-green.svg) ![](https://img.shields.io/badge/Updated-January%20%203,%202022-lightgrey.svg)
 
 Jump to
 
@@ -398,6 +398,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1092822415) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/3c/33/53/3c335302-9f13-5771-52df-150de85ab20e/pr_source.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`23` 
+- [Splito!](https://github.com/aleksandr-mor/Splito): Billing and tips calculator
+  - [` App Store`](https://apps.apple.com/app/splito/id1602086746) <a href='https://user-images.githubusercontent.com/85921199/147791061-392897f8-2b68-4be8-9194-db35dd5d04d9.png'>`Screenshot 1`</a> 
+  -  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` 
 ## Calendar 
  
 [back to top](#readme) 
