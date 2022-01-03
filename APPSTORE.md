@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **301** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **302** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -205,6 +205,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1092822415) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/3c/33/53/3c335302-9f13-5771-52df-150de85ab20e/pr_source.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`23` 
+- [Splito!](https://github.com/aleksandr-mor/Splito): Billing and tips calculator
+  - [` App Store`](https://apps.apple.com/app/splito/id1602086746) <a href='https://user-images.githubusercontent.com/85921199/147791061-392897f8-2b68-4be8-9194-db35dd5d04d9.png'>`Screenshot 1`</a> 
+  -  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` 
 ## Calendar 
  
 [back to top](#readme) 
