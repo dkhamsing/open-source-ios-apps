@@ -27438,6 +27438,27 @@
       "tags": [
         "swift"
       ]
+    },
+    {
+      "title": "Actions",
+      "description": "Provides many useful actions for the Shortcuts app.",
+      "category-ids": [
+          "misc",
+          "developer",
+          "macos",
+          "swiftui"
+      ],
+      "source": "https://github.com/sindresorhus/Actions",
+      "itunes": "https://apps.apple.com/app/id1586435171",
+      "license": "mit",
+      "screenshots": [
+        "https://github.com/sindresorhus/Actions/raw/4c1ba4514125ce30e71c005cf7fc8af5949847c8/Stuff/screenshot1.jpg"
+      ],
+      "date_added": "Jan 3 2022",
+      "suggested_by": "@sindresorhus",
+      "tags": [
+        "swift"
+      ]
     }
   ]
 }
