@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1322-green.svg) ![](https://img.shields.io/badge/Updated-January%20%203,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1323-green.svg) ![](https://img.shields.io/badge/Updated-January%20%204,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4160,6 +4160,9 @@ https://ionicframework.com/ — [back to top](#readme)
 Cross platform projects — [back to top](#readme) 
  
 
+- [Actions](https://github.com/sindresorhus/Actions): Provides many useful actions for the Shortcuts app
+  - [` App Store`](https://apps.apple.com/app/id1586435171) <a href='https://github.com/sindresorhus/Actions/raw/4c1ba4514125ce30e71c005cf7fc8af5949847c8/Stuff/screenshot1.jpg'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [BikeShare](https://github.com/joreilly/BikeShare): Jetpack Compose and SwiftUI based Kotlin Multiplatform sample project using CityBikes API
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `kotlin` `swiftui` `macos` `jetpack` 
   -  ☆`323` 
@@ -4600,6 +4603,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/ac-helper/id1508764244) <a href='https://i.imgur.com/dcs8niz.png'>`Screenshot 1`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `ipad` 
   -  ☆`1479` 
+- [Actions](https://github.com/sindresorhus/Actions): Provides many useful actions for the Shortcuts app
+  - [` App Store`](https://apps.apple.com/app/id1586435171) <a href='https://github.com/sindresorhus/Actions/raw/4c1ba4514125ce30e71c005cf7fc8af5949847c8/Stuff/screenshot1.jpg'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [AniTime](https://github.com/PangMo5/AniTime): Anime schedule and Korean subtitle
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` 
   -  ☆`5` 
