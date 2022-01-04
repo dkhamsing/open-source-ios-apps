@@ -27441,10 +27441,8 @@
     },
     {
       "title": "Actions",
-      "description": "Provides many useful actions for the Shortcuts app.",
+      "description": "Provides many useful actions for the Shortcuts app",
       "category-ids": [
-          "misc",
-          "developer",
           "macos",
           "swiftui"
       ],
