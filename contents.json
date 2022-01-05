@@ -20476,9 +20476,9 @@
       "license": "mit",
       "source": "https://github.com/dkhamsing/news",
       "screenshots": [
-        "https://github.com/dkhamsing/news/raw/develop/Images/tvos.png",
-        "https://github.com/dkhamsing/news/raw/develop/Images/facebook.png",
-        "https://github.com/dkhamsing/news/raw/develop/Images/washingtonpost.png"
+        "https://github.com/dkhamsing/news/raw/main/Images/tvos.png",
+        "https://github.com/dkhamsing/news/raw/main/Images/facebook.png",
+        "https://github.com/dkhamsing/news/raw/main/Images/washingtonpost.png"
       ],
       "suggested_by": "@dkhamsing",
       "date_added": "Apr 20 2020",
@@ -25159,9 +25159,9 @@
       "category-ids": [
         "flutter"
       ],
-      "source": "https://github.com/scitbiz/flutter_pokedex",
+      "source": "https://github.com/hungps/flutter_pokedex",
       "screenshots": [
-        "https://github.com/scitbiz/flutter_pokedex/raw/master/screenshots/home.png"
+        "https://raw.githubusercontent.com/hungps/flutter_pokedex/master/screenshots/home.png"
       ],
       "tags": [
         "flutter",
@@ -25844,10 +25844,7 @@
       "date_added": "Mar 18 2021",
       "suggested_by": "@existorlive",
       "screenshots": [
-        "https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_4245.PNG",
-        "https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3785.JPG",
-        "https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3789.JPG",
-        "https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3788.JPG"
+        "https://user-images.githubusercontent.com/4723115/147950657-336bb67e-bdd3-4320-a8cf-a1963e2a9f7b.JPG"
       ],
       "stars": 21,
       "updated": "2021-12-30 14:54:49 UTC"
