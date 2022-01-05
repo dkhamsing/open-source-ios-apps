@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1323-green.svg) ![](https://img.shields.io/badge/Updated-January%20%204,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1323-green.svg) ![](https://img.shields.io/badge/Updated-January%20%205,%202022-lightgrey.svg)
 
 Jump to
 
@@ -107,7 +107,7 @@ Jump to
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `c` `ipad` 
   -  ☆`615` 
 - [News API apps](https://github.com/dkhamsing/news): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes tvOS app, Today widget
-  -  <a href='https://github.com/dkhamsing/news/raw/develop/Images/tvos.png'>`Screenshot 1`</a>  <a href='https://github.com/dkhamsing/news/raw/develop/Images/facebook.png'>`Screenshot 2`</a>  <a href='https://github.com/dkhamsing/news/raw/develop/Images/washingtonpost.png'>`Screenshot 3`</a> 
+  -  <a href='https://github.com/dkhamsing/news/raw/main/Images/tvos.png'>`Screenshot 1`</a>  <a href='https://github.com/dkhamsing/news/raw/main/Images/facebook.png'>`Screenshot 2`</a>  <a href='https://github.com/dkhamsing/news/raw/main/Images/washingtonpost.png'>`Screenshot 3`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `tvos` `extension` 
   -  ☆`58` 
 - [Octopus](https://github.com/roger-wetzel/Octopus): Remake of Nintendo's Octopus Game & Watch device
@@ -968,7 +968,7 @@ Jump to
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `rxswift` `mvvm` `moya` `fastlane` 
   -  ☆`2339` 
 - [ZLGithubClient](https://github.com/ExistOrLive/GithubClient): Browse GitHub using GitHub REST V3 API and GraphQL V4 API
-  - [` App Store`](https://apps.apple.com/app/gorillas/id1498787032) <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_4245.PNG'>`Screenshot 1`</a>  <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3785.JPG'>`Screenshot 2`</a>  <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3789.JPG'>`Screenshot 3`</a>  <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3788.JPG'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/gorillas/id1498787032) <a href='https://user-images.githubusercontent.com/4723115/147950657-336bb67e-bdd3-4320-a8cf-a1963e2a9f7b.JPG'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`21` 
 ### Terminal 
@@ -1316,7 +1316,7 @@ Today Extensions or Widgets — [back to top](#readme)
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`779` 
 - [News API apps](https://github.com/dkhamsing/news): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes tvOS app, Today widget
-  -  <a href='https://github.com/dkhamsing/news/raw/develop/Images/tvos.png'>`Screenshot 1`</a>  <a href='https://github.com/dkhamsing/news/raw/develop/Images/facebook.png'>`Screenshot 2`</a>  <a href='https://github.com/dkhamsing/news/raw/develop/Images/washingtonpost.png'>`Screenshot 3`</a> 
+  -  <a href='https://github.com/dkhamsing/news/raw/main/Images/tvos.png'>`Screenshot 1`</a>  <a href='https://github.com/dkhamsing/news/raw/main/Images/facebook.png'>`Screenshot 2`</a>  <a href='https://github.com/dkhamsing/news/raw/main/Images/washingtonpost.png'>`Screenshot 3`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `tvos` `extension` 
   -  ☆`58` 
 - [TimeLines](https://github.com/mathieudutour/TimeLines): Know when all your friends, colleagues and family are
@@ -2900,7 +2900,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`17` 
 - [News API apps](https://github.com/dkhamsing/news): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes tvOS app, Today widget
-  -  <a href='https://github.com/dkhamsing/news/raw/develop/Images/tvos.png'>`Screenshot 1`</a>  <a href='https://github.com/dkhamsing/news/raw/develop/Images/facebook.png'>`Screenshot 2`</a>  <a href='https://github.com/dkhamsing/news/raw/develop/Images/washingtonpost.png'>`Screenshot 3`</a> 
+  -  <a href='https://github.com/dkhamsing/news/raw/main/Images/tvos.png'>`Screenshot 1`</a>  <a href='https://github.com/dkhamsing/news/raw/main/Images/facebook.png'>`Screenshot 2`</a>  <a href='https://github.com/dkhamsing/news/raw/main/Images/washingtonpost.png'>`Screenshot 3`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `tvos` `extension` 
   -  ☆`58` 
 - [NewsApiApp](https://github.com/SchwiftyUI/NewsApiApp): News app with image caching and infinite loading
@@ -4059,8 +4059,8 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/55942632/77102533-00600c80-6a3f-11ea-8212-3735eeb35a90.png'>`Screenshot 1`</a> 
   -  `2021`   `flutter` `dart` 
   -  ☆`300` 
-- [Flutter Pokedex](https://github.com/scitbiz/flutter_pokedex)
-  -  <a href='https://github.com/scitbiz/flutter_pokedex/raw/master/screenshots/home.png'>`Screenshot 1`</a> 
+- [Flutter Pokedex](https://github.com/hungps/flutter_pokedex)
+  -  <a href='https://raw.githubusercontent.com/hungps/flutter_pokedex/master/screenshots/home.png'>`Screenshot 1`</a> 
   -  `2021`   `flutter` `dart` 
   -  ☆`1291` 
 - [Flutter-Movie: Browse movies](https://github.com/khuong291/Flutter-Movie)
