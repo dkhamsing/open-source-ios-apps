@@ -425,7 +425,7 @@ Jump to
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`1011` 
 - [ZLGithubClient](https://github.com/ExistOrLive/GithubClient): Browse GitHub using GitHub REST V3 API and GraphQL V4 API
-  - [` App Store`](https://apps.apple.com/app/gorillas/id1498787032) <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_4245.PNG'>`Screenshot 1`</a>  <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3785.JPG'>`Screenshot 2`</a>  <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3789.JPG'>`Screenshot 3`</a>  <a href='https://gitee.com/existorlive/exist-or-live-pic/raw/master/IMG_3788.JPG'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/gorillas/id1498787032) <a href='https://user-images.githubusercontent.com/4723115/147950657-336bb67e-bdd3-4320-a8cf-a1963e2a9f7b.JPG'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`21` 
 ### Terminal 
