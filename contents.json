@@ -27454,6 +27454,24 @@
       "tags": [
         "swift"
       ]
+    },
+    {
+      "title": "Spiro",
+      "description": "Animating spirograph generator, created on Swift Playgrounds 4",
+      "category-ids": [
+          "swiftui"
+      ],
+      "source": "https://github.com/atrinh0/spiro",
+      "itunes": "https://apps.apple.com/app/id1602980337",
+      "license": "mit",
+      "screenshots": [
+        "https://github.com/atrinh0/spiro/raw/main/images/demo.gif"
+      ],
+      "date_added": "Jan 5 2022",
+      "suggested_by": "@dkhamsing",
+      "tags": [
+        "swift", "playgrounds"
+      ]
     }
   ]
 }
