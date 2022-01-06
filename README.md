@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome (project [website](https://open-source-ios-apps.netlify.app)) :smile:
 
-![](https://img.shields.io/badge/Projects-1323-green.svg) ![](https://img.shields.io/badge/Updated-January%20%205,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1324-green.svg) ![](https://img.shields.io/badge/Updated-January%20%206,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4911,6 +4911,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1536864924) <a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'>`Screenshot 4`</a> 
   -  `2021` 
   -  ☆`44` 
+- [Spiro](https://github.com/atrinh0/spiro): Animating spirograph generator, created on Swift Playgrounds 4
+  - [` App Store`](https://apps.apple.com/app/id1602980337) <a href='https://github.com/atrinh0/spiro/raw/main/images/demo.gif'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `playgrounds` 
 - [SpotifyClone](https://github.com/gabrieldenoni/SpotifyClone): Uses the official API
   -  <a href='https://imgur.com/a/usflCky'>`Screenshot 1`</a>  <a href='https://imgur.com/a/xWAsYYv'>`Screenshot 2`</a>  <a href='https://imgur.com/a/VGYibqJ'>`Screenshot 3`</a>  <a href='https://imgur.com/a/MhKMWLb'>`Screenshot 4`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `spotify` `swiftui` `combine` `mvvm` `alamofire` 
