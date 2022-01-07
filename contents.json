@@ -27472,6 +27472,23 @@
       "tags": [
         "swift", "playgrounds"
       ]
+    },
+    {
+      "title": "UK COVID-19 Statistics",
+      "description": "UK COVID-19 Statistics app to track UK cases & deaths with local notifications and widgets",
+      "category-ids": [
+          "swiftui"
+      ],
+      "source": "https://github.com/atrinh0/covid19",
+      "license": "mit",
+      "screenshots": [
+        "https://github.com/atrinh0/covid19/blob/master/images/graphs.png?raw=true"
+      ],
+      "date_added": "Jan 7 2022",
+      "suggested_by": "@atrinh0",
+      "tags": [
+        "swift"
+      ]
     }
   ]
 }
