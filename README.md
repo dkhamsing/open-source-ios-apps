@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1324-green.svg) ![](https://img.shields.io/badge/Updated-January%20%207,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1325-green.svg) ![](https://img.shields.io/badge/Updated-January%20%208,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5008,6 +5008,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [UDF Demo](https://github.com/AlexeyDemedetskiy/SwiftUI-UDF-Demo): Unidirectional data flow techniques
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`40` 
+- [UK COVID-19 Statistics](https://github.com/atrinh0/covid19): Track cases & deaths with local notifications and widgets
+  -  <a href='https://github.com/atrinh0/covid19/blob/master/images/graphs.png?raw=true'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [UnofficialSandwiches](https://github.com/dempseyatgithub/UnofficialSandwiches): Unofficial version of the Sandwiches app from The WWDC20 Session Introduction to SwiftUI
   -  <a href='https://i.imgur.com/z6FqTcp.png'>`Screenshot 1`</a> 
   -  `2020`   `swift` `swiftui` 
