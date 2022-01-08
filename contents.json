@@ -27475,7 +27475,7 @@
     },
     {
       "title": "UK COVID-19 Statistics",
-      "description": "UK COVID-19 Statistics app to track UK cases & deaths with local notifications and widgets",
+      "description": "Track cases & deaths with local notifications and widgets",
       "category-ids": [
           "swiftui"
       ],
