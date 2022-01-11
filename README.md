@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1325-green.svg) ![](https://img.shields.io/badge/Updated-January%20%208,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1326-green.svg) ![](https://img.shields.io/badge/Updated-January%2011,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4226,6 +4226,10 @@ Cross platform projects — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/stackov/id1511838391) <a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `ipad` `macos` 
   -  ☆`219` 
+- [WordMasterKMP](https://github.com/joreilly/WordMasterKMP): Heavily inspired by the Wordle game,Word Master and wordle-solver
+  -  <a href='https://user-images.githubusercontent.com/6302/148663064-3ed57b1f-c1a3-4e39-b2c2-2ddb3fb09ed9.png'>`Screenshot 1`</a> 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `kotlin` `swiftui` `macos` `kmp` 
+  -  ☆`34` 
 ### React Native 
  
 https://facebook.github.io/react-native/ — [back to top](#readme) 
@@ -5030,6 +5034,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'>`Screenshot 3`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `watchos` `swiftui` `alamofire` 
   -  ☆`33` 
+- [WordMasterKMP](https://github.com/joreilly/WordMasterKMP): Heavily inspired by the Wordle game,Word Master and wordle-solver
+  -  <a href='https://user-images.githubusercontent.com/6302/148663064-3ed57b1f-c1a3-4e39-b2c2-2ddb3fb09ed9.png'>`Screenshot 1`</a> 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `kotlin` `swiftui` `macos` `kmp` 
+  -  ☆`34` 
 - [XKCDY for xkcd](https://github.com/XKCDY/app)
   - [` App Store`](https://apps.apple.com/app/xkcdy/id1520259318) <a href='https://user-images.githubusercontent.com/4723115/128615800-e136ba1b-6c14-4aae-ac0e-59fa9b382b4b.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `iphone` `ipad` 
