@@ -27489,6 +27489,29 @@
       "tags": [
         "swift"
       ]
+    },
+    {
+      "title": "WordMasterKMP",
+      "description": "Heavily inspired by the Wordle game,Word Master and wordle-solver",
+      "category-ids": [
+        "swiftui",
+        "macos"
+      ],
+      "tags": [
+        "swift",
+        "kotlin",
+        "swiftui",
+        "macos",
+        "kmp"
+      ],
+      "source": "https://github.com/joreilly/WordMasterKMP",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/6302/148663064-3ed57b1f-c1a3-4e39-b2c2-2ddb3fb09ed9.png"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Aug 1 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 34
     }
   ]
 }
