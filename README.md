@@ -2786,6 +2786,9 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/cfdrake/lobsters-reader/master/Assets/screenshot.png'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`15` 
+- [NewsAllInOne](https://github.com/emretopcu1234/NewsAllInOne_iOS): Browse categorized websites about news
+  -  `2021` `swift` `swiftui` `coredata` 
+  -  ☆`0`
 - [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)
   -  <a href='https://github.com/zpz1237/NirZhihuDaily2.0/raw/master/effect1.gif'>`Screenshot 1`</a> 
   -  `2015`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
