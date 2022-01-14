@@ -27512,6 +27512,27 @@
       "date_added": "Jan 11 2022",
       "suggested_by": "@dkhamsing",
       "stars": 34
+    },
+    {
+      "title": "MakeItSo",
+      "category-ids": [
+        "swiftui",
+        "clone"
+      ],
+      "description": "A clone of Apple's Reminders",
+      "source": "https://github.com/peterfriese/MakeItSo",
+      "license": "apache-2.0",
+      "tags": [
+        "swift",
+        "swiftui",
+        "firebase"
+      ],
+      "screenshots": [
+        "https://user-images.githubusercontent.com/4723115/149539522-01ae6d20-e365-40bc-aaf0-c1f357321878.gif"
+      ],
+      "date_added": "Jan 14 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 259
     }
   ]
 }
