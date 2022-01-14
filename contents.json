@@ -27524,7 +27524,8 @@
       "license": "apache-2.0",
       "tags": [
         "swift",
-        "swiftui"
+        "swiftui",
+        "firebase"
       ],
       "screenshots": [
         "https://user-images.githubusercontent.com/4723115/149539522-01ae6d20-e365-40bc-aaf0-c1f357321878.gif"
