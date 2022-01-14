@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1326-green.svg) ![](https://img.shields.io/badge/Updated-January%2012,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1327-green.svg) ![](https://img.shields.io/badge/Updated-January%2014,%202022-lightgrey.svg)
 
 Jump to
 
@@ -508,6 +508,10 @@ Jump to
   -  <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-1.gif?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-2.gif?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-3.gif?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-4.gif?raw=true'>`Screenshot 4`</a> 
   -  `2017`   `swift` `spritekit` 
   -  ☆`500` 
+- [MakeItSo](https://github.com/peterfriese/MakeItSo): A clone of Apple's Reminders
+  -  <a href='https://user-images.githubusercontent.com/4723115/149539522-01ae6d20-e365-40bc-aaf0-c1f357321878.gif'>`Screenshot 1`</a> 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `firebase` 
+  -  ☆`259` 
 - [Messenger Clone](https://github.com/instamobile/messenger-iOS-chat-swift-firestore): Real-time chat
   -  <a href='https://iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `firebase` `firestore` 
@@ -4818,6 +4822,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/lockd/id1571284259) <a href='https://user-images.githubusercontent.com/61360545/121601803-bb126b00-ca46-11eb-8163-ea77ef7dbc0b.gif'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
   -  ☆`28` 
+- [MakeItSo](https://github.com/peterfriese/MakeItSo): A clone of Apple's Reminders
+  -  <a href='https://user-images.githubusercontent.com/4723115/149539522-01ae6d20-e365-40bc-aaf0-c1f357321878.gif'>`Screenshot 1`</a> 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `firebase` 
+  -  ☆`259` 
 - [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter
   -  `2019`   `swift` `swiftui` `ios13` `ipad` `macos` 
   -  ☆`6` 
