@@ -3612,7 +3612,7 @@
         "location"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Get recommendations for restaurants nearby",
       "source": "https://github.com/callzhang/Eat-Now",
@@ -3851,7 +3851,7 @@
         "location"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "For Pebble to show nearest CitiBike NYC dock",
       "source": "https://github.com/joemasilotti/PebCiti",
@@ -4920,7 +4920,7 @@
         "news"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://github.com/zpz1237/NirZhihuDaily2.0/raw/master/effect1.gif"
@@ -5938,7 +5938,7 @@
         "social"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "App for sharing a social board",
       "source": "https://github.com/jenduf/GenericSocialApp",
@@ -6754,7 +6754,7 @@
         "health"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Interacts with smart water bottle",
       "source": "https://github.com/mjcuva/Hidrate",
@@ -9667,7 +9667,7 @@
         "game"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "A real-time physical game where you build your kingdom while crushing your opponents",
       "source": "https://github.com/bryceredd/CastleHassle",
@@ -22023,7 +22023,7 @@
         "game"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "source": "https://github.com/renatomcamilio/CookieCrunch",
       "license": "mit",
