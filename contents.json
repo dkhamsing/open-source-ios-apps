@@ -27533,6 +27533,20 @@
       "date_added": "Jan 14 2022",
       "suggested_by": "@dkhamsing",
       "stars": 259
+    },
+    {
+      "title": "Loot Raider",
+      "category-ids": [
+        "game"
+      ],
+      "description": "Retro 80s platform game",
+      "source": "https://github.com/ecrichlow/LootRaideriOS_OS",
+      "tags": [
+        "swift"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Jan 17 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
