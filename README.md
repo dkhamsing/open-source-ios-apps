@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1327-green.svg) ![](https://img.shields.io/badge/Updated-January%2015,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1328-green.svg) ![](https://img.shields.io/badge/Updated-January%2017,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1677,6 +1677,8 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/little-go/id490753989) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/af/a9/34/afa934c6-45c5-c194-d179-f34520fe8b1c/mzl.jfnjvioh.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `iphone` `ipad` 
   -  ☆`114` 
+- [Loot Raider](https://github.com/ecrichlow/LootRaideriOS_OS): Retro 80s platform game
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
 - [Master](https://github.com/Kjuly/iPokeMon): PokéMon-like game that uses your location
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`430` 
@@ -5114,7 +5116,7 @@ https://www.xamarin.com/ — [back to top](#readme)
 - [open-source-ios-apps app store](https://github.com/dkhamsing/open-source-ios-apps/blob/master/APPSTORE.md): Only listing projects that are on the App Store
   -   `list` 
 - [open-source-ios-apps archive](https://github.com/dkhamsing/open-source-ios-apps/blob/master/ARCHIVE.md): Projects that are no longer maintained
-  -   `list` 
+  -  [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/) `list` 
 - [open-source-ios-apps latest](https://github.com/dkhamsing/open-source-ios-apps/blob/master/LATEST.md): List of latest projects added and most recently updated projects
   -   `list` 
 ## Thanks
