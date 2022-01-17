@@ -2787,6 +2787,7 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`15` 
 - [NewsAllInOne](https://github.com/emretopcu1234/NewsAllInOne_iOS): Browse categorized websites about news
+  - <a href='https://github.com/emretopcu1234/NewsAllInOne_iOS/blob/main/Screenshot1.png'>`Screenshot 1`</a>  <a href='https://github.com/emretopcu1234/NewsAllInOne_iOS/blob/main/Screenshot2.png'>`Screenshot 2`</a>  <a href='https://github.com/emretopcu1234/NewsAllInOne_iOS/blob/main/Screenshot3.png'>`Screenshot 3`</a>
   -  `2021` `swift` `swiftui` `coredata` 
   -  ☆`0`
 - [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)
