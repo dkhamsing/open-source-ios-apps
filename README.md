@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1328-green.svg) ![](https://img.shields.io/badge/Updated-January%2017,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1328-green.svg) ![](https://img.shields.io/badge/Updated-January%2018,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3643,7 +3643,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  ☆`266` 
 - [Themoji](https://github.com/themoji/ios): Use Emojis to communicate while traveling
   - <a href=https://themoji.me/>`https://themoji.me/`</a>
-  -  <a href='https://themoji.me/ThemojiIdea.jpg'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/Themoji/themoji.me/blob/gh-pages/ThemojiIdea.jpg?raw=true'>`Screenshot 1`</a> 
   -  `2021`   `swift` 
   -  ☆`37` 
 - [Tourism Demo](https://github.com/bluemix/tourism-demo): Backed by Redux, shows animations, internationalization (i18n), ClipPath, fonts and more
