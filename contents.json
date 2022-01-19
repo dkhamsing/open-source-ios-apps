@@ -27547,6 +27547,23 @@
       "license": "apache-2.0",
       "date_added": "Jan 17 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "My Little Popcat",
+      "category-ids": ["game"],
+      "tags": ["swift"],
+      "description": "The only Popcat & anti-stress Cat App for iOS",
+      "source": "https://github.com/ChoiysApple/My-Little-Popcat",
+      "homepage": "https://choiysapple.notion.site/My-Little-Popcat-fb84db75b76449fbae2d0c72278b1790",
+      "itunes": "https://apps.apple.com/us/app/my-little-popcat/id1558128186",		
+      "screenshots": [
+        "https://user-images.githubusercontent.com/43776784/124684902-1e3ed280-df0b-11eb-9129-1313bdc280b0.gif",
+        "https://user-images.githubusercontent.com/43776784/124684912-239c1d00-df0b-11eb-97fb-bb1e2bd1ae5f.png",
+        "https://user-images.githubusercontent.com/43776784/124684916-2434b380-df0b-11eb-91dd-c279267a1323.png"
+      ],
+      "license": "mit",
+      "date_added": "Jan 18 2022",
+      "suggested_by": "@ChoiysApple"
     }
   ]
 }
