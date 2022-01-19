@@ -27550,12 +27550,12 @@
     },
     {
       "title": "My Little Popcat",
-      "category-ids": ["game"],
+      "category-ids": ["misc"],
       "tags": ["swift"],
-      "description": "The only Popcat & anti-stress Cat App for iOS",
+      "description": "Relaxing and fun pop cat",
       "source": "https://github.com/ChoiysApple/My-Little-Popcat",
       "homepage": "https://choiysapple.notion.site/My-Little-Popcat-fb84db75b76449fbae2d0c72278b1790",
-      "itunes": "https://apps.apple.com/us/app/my-little-popcat/id1558128186",		
+      "itunes": "https://apps.apple.com/app/my-little-popcat/id1558128186",
       "screenshots": [
         "https://user-images.githubusercontent.com/43776784/124684902-1e3ed280-df0b-11eb-9129-1313bdc280b0.gif",
         "https://user-images.githubusercontent.com/43776784/124684912-239c1d00-df0b-11eb-97fb-bb1e2bd1ae5f.png",
