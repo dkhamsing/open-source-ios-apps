@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1329-green.svg) ![](https://img.shields.io/badge/Updated-January%2019,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1329-green.svg) ![](https://img.shields.io/badge/Updated-January%2020,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5120,7 +5120,7 @@ https://www.xamarin.com/ — [back to top](#readme)
 - [open-source-ios-apps app store](https://github.com/dkhamsing/open-source-ios-apps/blob/master/APPSTORE.md): Only listing projects that are on the App Store
   -   `list` 
 - [open-source-ios-apps archive](https://github.com/dkhamsing/open-source-ios-apps/blob/master/ARCHIVE.md): Projects that are no longer maintained
-  -  [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/) `list` 
+  - `list` 
 - [open-source-ios-apps latest](https://github.com/dkhamsing/open-source-ios-apps/blob/master/LATEST.md): List of latest projects added and most recently updated projects
   -   `list` 
 ## Thanks
