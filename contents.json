@@ -18314,7 +18314,7 @@
         "swift",
         "archive"
       ],
-      "description": "Connect to a various photo hosting services and browse images (save to device, set it as wallpaper, share with friends via your favorite messaging app)",
+      "description": "Connect to various photo hosting services and browse images (save to device, set wallpaper, share with friends via your favorite messaging app)",
       "source": "https://github.com/satishbabariya/Danbooru-Lite",
       "itunes": "https://apps.apple.com/app/danbooru-lite/id1338782992",
       "screenshots": [
@@ -18394,7 +18394,7 @@
         "avkit",
         "viper"
       ],
-      "description": "Use machine learning to help make an early diagnosis of melanoma and get the necessary treatment on time",
+      "description": "Use machine learning to help diagnose melanoma early, get the necessary treatment",
       "source": "https://github.com/akarataev/gleam-ios",
       "license": "mit",
       "screenshots": [
@@ -26680,8 +26680,7 @@
       "updated": "2021-11-15 18:41:59 UTC"
     },
     {
-      "title": "Go Cycling",
-      "description": "Cycling tracker built in SwiftUI",
+      "title": "Go Cycling Tracker",
       "category-ids": [
         "health",
         "core-data"
@@ -26785,7 +26784,7 @@
     },
     {
       "title": "HTTP/S Response Code Lookup",
-      "description": "Quick and easy way to lookup HTTP Response Codes and their meanings",
+      "description": "Quick and easy way to lookup HTTP response codes",
       "category-ids": [
         "developer",
         "swiftui"
@@ -26810,7 +26809,7 @@
     },
     {
       "title": "iCloudCoreDataStarter",
-      "description": "Example Xcode swift iOS project for Core Data + iCloud syncingr",
+      "description": "Example Xcode project for Core Data + iCloud syncing",
       "category-ids": [
         "sample"
       ],
@@ -26839,7 +26838,7 @@
         "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/92/09/b8/9209b8d8-de12-e9c7-f4f6-f8d40f8e1cbb/1fcd2bfb-0db6-439f-9f3e-5ebaf51ac431_iPhone_11_Pro_Max-03Chat_framed.png/460x0w.png",
         "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/6f/6d/d6/6f6dd6e4-04ae-de60-0360-7e9b2a61eeea/eff7d3c3-dbc0-4418-be76-bced238dc962_iPhone_11_Pro_Max-05TeamScreen_framed.png/460x0w.png"
       ],
-      "description": "Location sharing app – cross-platform and end-to-end encrypted",
+      "description": "Location sharing, cross-platform and end-to-end encrypted",
       "license": "gpl-3.0",
       "homepage": "https://ticeapp.com",
       "source": "https://github.com/TICESoftware/tice-ios",
@@ -26956,7 +26955,7 @@
         "file",
         "official"
       ],
-      "description": "Secure cloud for collaborating online and accessing your documents and files on all your devices",
+      "description": "Secure cloud to collaborate online, access your documents and files on all your devices",
       "source": "https://github.com/Infomaniak/ios-kDrive",
       "homepage": "https://www.infomaniak.com/kdrive",
       "itunes": "https://apps.apple.com/app/infomaniak-kdrive/id1482778676",
