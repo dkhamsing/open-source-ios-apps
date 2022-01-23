@@ -25137,7 +25137,7 @@
         "github",
         "widget"
       ],
-      "description": "Quickly check in on your GitHub contributions from your Home Screen using Widgets",
+      "description": "Check your GitHub contributions using Home Screen Widgets",
       "source": "https://github.com/AnderGoig/github-contributions-ios",
       "itunes": "https://apps.apple.com/app/id1537192731",
       "license": "mit",
@@ -25263,7 +25263,7 @@
       "category-ids": [
         "game"
       ],
-      "description": "This is a port of Simon Tatham's Portable Puzzle Collection to iOS, which is a collection of 38 single-player puzzle games",
+      "description": "38 single-player puzzle games",
       "source": "https://github.com/ghewgill/puzzles",
       "homepage": "https://hewgill.com/puzzles/",
       "itunes": "https://apps.apple.com/app/simon-tathams-portable-puzzle/id622220631",
@@ -25354,7 +25354,7 @@
         "https://github.com/Dimillian/MortyUI/raw/main/Screenshots/characters.png"
       ],
       "tags": [
-        "swift"
+        "swift", "swiftui", "graphql"
       ],
       "date_added": "Dec 21 2020",
       "suggested_by": "@dkhamsing",
@@ -25366,7 +25366,7 @@
       "category-ids": [
         "calendar"
       ],
-      "description": "Example app for a day view calendar UI component. Similar to Apple calendar app",
+      "description": "Example app for a day view calendar UI component, similar to Apple's Calendar",
       "license": "mit",
       "source": "https://github.com/richardtop/CalendarKit",
       "tags": [
@@ -25383,7 +25383,7 @@
     },
     {
       "title": "Minimalistic Push",
-      "description": "Track your push-ups in the training mode and see an overview of your sessions",
+      "description": "Track your push-ups and see an overview of your sessions",
       "category-ids": [
         "flutter",
         "fitness"
@@ -25508,7 +25508,7 @@
         "kingfisher",
         "mvvm"
       ],
-      "description": "Keep track of your favorite TV shows and movies using Trakt",
+      "description": "Keep track of your favorite TV shows & movies using Trakt",
       "source": "https://github.com/pietrocaselani/CouchTracker",
       "license": "gpl-3.0",
       "stars": 38,
@@ -25836,7 +25836,7 @@
       "tags": [
         "swift"
       ],
-      "description": "Browse GitHub using GitHub REST V3 API and GraphQL V4 API",
+      "description": "Browse GitHub using its REST V3 / GraphQL V4",
       "source": "https://github.com/ExistOrLive/GithubClient",
       "itunes": "https://apps.apple.com/app/gorillas/id1498787032",
       "license": "mit",
