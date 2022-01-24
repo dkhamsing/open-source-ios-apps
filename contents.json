@@ -23570,7 +23570,7 @@
     },
     {
       "title": "BP Passport - Simple for Patients",
-      "description": "Fast, free software for clinicians to manage patients with hypertension",
+      "description": "Fast way for clinicians to manage patients with hypertension",
       "category-ids": [
         "react-native"
       ],
@@ -23682,7 +23682,7 @@
     },
     {
       "title": "BikeShare",
-      "description": "Jetpack Compose and SwiftUI based Kotlin Multiplatform sample project using CityBikes API",
+      "description": "Jetpack Compose and SwiftUI based Kotlin Multiplatform sample project using the CityBikes API",
       "category-ids": [
         "swiftui",
         "macos"
@@ -23742,7 +23742,7 @@
     },
     {
       "title": "Amahi",
-      "description": "View all the docs, photos, videos and any other data you have stored in your Amahi server, securely, from anywhere",
+      "description": "View all the docs, photos, videos and other data you have stored in your Amahi server, securely, from anywhere",
       "category-ids": [
         "file"
       ],
@@ -23968,7 +23968,6 @@
     {
       "title": "Recipes",
       "source": "https://github.com/onmyway133/Recipes",
-      "description": "Showcases many recipes together with their detail information",
       "tags": [
         "swift"
       ],
@@ -23986,7 +23985,7 @@
     },
     {
       "title": "Tourism Demo",
-      "description": "Backed by Redux, shows animations, internationalization (i18n), ClipPath, fonts and more",
+      "description": "Backed by Redux, shows animations, internationalization (i18n), ClipPath, fonts & more",
       "category-ids": [
         "travel",
         "flutter"
@@ -24377,7 +24376,7 @@
     },
     {
       "title": "TUM Campus",
-      "description": "For Technische Universität München, includes lecture schedule, cafeteria menus, grades and more",
+      "description": "For Technische Universität München, includes lecture schedule, cafeteria menus, grades & more",
       "source": "https://github.com/TUM-Dev/Campus-iOS",
       "screenshots": [
         "https://user-images.githubusercontent.com/7985149/84211831-93e42f00-aabc-11ea-8594-6d3d6240589e.png"
@@ -24556,7 +24555,7 @@
     },
     {
       "title": "FlightUtilities",
-      "description": "Uses the private FlightUtilities.framework to show information about any flight given the airline code, flight code and date",
+      "description": "Uses the private FlightUtilities.framework to show information about any flight given the airline code, flight code & date",
       "category-ids": [
         "misc"
       ],
@@ -24595,7 +24594,7 @@
     },
     {
       "title": "OutRun",
-      "description": "Outdoor fitness tracker that supports walking, hiking, cycling and skating",
+      "description": "Outdoor fitness tracker that supports walking, hiking, cycling & skating",
       "category-ids": [
         "fitness"
       ],
@@ -24661,7 +24660,7 @@
     },
     {
       "title": "FOSSASIA",
-      "description": "Organize concerts, conferences, summits and regular meetups",
+      "description": "Organize concerts, conferences, summits & regular meetups",
       "category-ids": [
         "event"
       ],
