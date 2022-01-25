@@ -22984,7 +22984,7 @@
       "category-ids": [
         "swiftui"
       ],
-      "description": "List of beers fetched from Punk API https://punkapi.com",
+      "description": "List of beers fetched from the Punk API https://punkapi.com",
       "source": "https://github.com/crelies/Beers",
       "license": "mit",
       "tags": [
@@ -23034,7 +23034,7 @@
     },
     {
       "title": "SafeTimer",
-      "description": "Control how many hours of use are left for all kinds of tools, supplies and equipment",
+      "description": "Control hours of use left for all kinds of tools, supplies & equipment",
       "category-ids": [
         "apple-watch"
       ],
