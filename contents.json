@@ -25835,7 +25835,7 @@
       "tags": [
         "swift"
       ],
-      "description": "Browse GitHub using its REST V3 / GraphQL V4",
+      "description": "Browse GitHub using its REST V3 / GraphQL V4 API",
       "source": "https://github.com/ExistOrLive/GithubClient",
       "itunes": "https://apps.apple.com/app/gorillas/id1498787032",
       "license": "mit",
