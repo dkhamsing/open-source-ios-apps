@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1329-green.svg) ![](https://img.shields.io/badge/Updated-January%2026,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1329-green.svg) ![](https://img.shields.io/badge/Updated-January%2027,%202022-lightgrey.svg)
 
 Jump to
 
@@ -971,7 +971,7 @@ Jump to
   -  <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'>`Screenshot 3`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `rxswift` `mvvm` `moya` `fastlane` 
   -  ☆`2339` 
-- [ZLGithubClient](https://github.com/ExistOrLive/GithubClient): Browse GitHub using its REST V3 / GraphQL V4
+- [ZLGithubClient](https://github.com/ExistOrLive/GithubClient): Browse GitHub using its REST V3 / GraphQL V4 API
   - [` App Store`](https://apps.apple.com/app/gorillas/id1498787032) <a href='https://user-images.githubusercontent.com/4723115/147950657-336bb67e-bdd3-4320-a8cf-a1963e2a9f7b.JPG'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`21` 
