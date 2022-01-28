@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1329-green.svg) ![](https://img.shields.io/badge/Updated-January%2027,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1329-green.svg) ![](https://img.shields.io/badge/Updated-January%2028,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1970,7 +1970,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/stopcovid-france/id1511279125) <a href='https://i.imgur.com/xCpSSbP.png'>`Screenshot 1`</a> 
   -   `swift` 
 - [Germany - Corona Warn App](https://github.com/corona-warn-app/cwa-app-ios): Uses Apple's Exposure Notification framework
-  - [` App Store`](https://apps.apple.com/de/app/corona-warn-app/id1512595757) <a href='https://github.com/corona-warn-app/cwa-documentation/raw/master/images/ui_screens/ui_screens_ios.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/de/app/corona-warn-app/id1512595757) <a href='https://github.com/corona-warn-app/cwa-documentation/raw/main/images/ui_screens/ios/cwa_home_ios.png'>`Screenshot 1`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`1698` 
 - [Haiti, Guam, Puerto Rico, Wyoming - COVID Safe Paths](https://github.com/Path-Check/safeplaces-dct-app): COVID-19 exposure notification and contract tracing
