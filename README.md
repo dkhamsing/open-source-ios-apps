@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1329-green.svg) ![](https://img.shields.io/badge/Updated-January%2028,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1329-green.svg) ![](https://img.shields.io/badge/Updated-January%2029,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4516,7 +4516,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [CouchTracker](https://github.com/pietrocaselani/CouchTracker): Keep track of your favorite TV shows & movies using Trakt
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `trakt` `moya` `kingfisher` `mvvm` 
   -  ☆`38` 
-- [Count It](https://github.com/PiXeL16/CountItApp): Dead simple way to you count anything
+- [Count It](https://github.com/PiXeL16/CountItApp): Dead simple way for you to count anything
   -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/d7/16/dc/d716dc20-ac17-d9ce-5183-76706ffff706/pr_source.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/b1/15/4c/b1154c11-88fa-9e85-3c5d-e3884815a5b5/pr_source.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/92/1a/86/921a866a-c638-c13a-2782-5703a96ec450/pr_source.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/48/e8/a0/48e8a0d7-15b2-05f7-3a08-72cded731f9c/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`59` 
