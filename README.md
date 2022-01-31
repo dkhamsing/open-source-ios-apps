@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1329-green.svg) ![](https://img.shields.io/badge/Updated-January%2029,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1330-green.svg) ![](https://img.shields.io/badge/Updated-January%2031,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1078,6 +1078,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/transcription-helper/id1157585714) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/df/ca/54/dfca5417-f1d7-3c7f-675a-9bd3e7c1b082/source/460x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/27/9e/83/279e8336-a1e4-3bbe-4162-4fce7651b2bf/source/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/62/1c/7d/621c7db7-8259-dad3-247c-850b50a76797/source/460x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/1d/f8/2f/1df82ff0-2f41-c97e-c5dd-a9418323804c/source/460x0w.png'>`Screenshot 4`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`5` 
+- [TwitterSentiment](https://github.com/draese/TwitterSentiment): Receives Twitter messages and scores them using a CoreML model for NLP sentiment analysis.
+  -  <a href='https://github.com/draese/TwitterSentiment/blob/main/doc/screenshot.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [Ulangi](https://github.com/ulangi/ulangi): Learn languages using popular methods such as spaced repetition
   - [` App Store`](https://apps.apple.com/app/id1435524341) <a href='https://i.imgur.com/dd24iEf.png'>`Screenshot 1`</a> 
   -  `2021` `react-native` `ipad` 
@@ -3449,6 +3452,9 @@ https://newsapi.org/ — [back to top](#readme)
 - [TweetleDumb](https://github.com/IanKeen/TweetleDumb): Mock (dumb) Twitter app
   -  `2020`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `swift` 
   -  ☆`24` 
+- [TwitterSentiment](https://github.com/draese/TwitterSentiment): Receives Twitter messages and scores them using a CoreML model for NLP sentiment analysis.
+  -  <a href='https://github.com/draese/TwitterSentiment/blob/main/doc/screenshot.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 ### Mastodon 
  
 https://joinmastodon.org — [back to top](#readme) 
