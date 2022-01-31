@@ -5914,24 +5914,24 @@
       "updated": "2021-09-12 17:41:04 UTC"
     },
     {
-      "title": "Aozora",
-      "category-ids": [
-        "social"
-      ],
-      "description": "Discover & track anime",
-      "source": "https://github.com/opensourceios/Aozora",
-      "tags": [
-        "swift"
-      ],
-      "stars": 14,
-      "license": "mit",
-      "date_added": "Mon Feb 8 06:15:08 2016 -0800",
-      "suggested_by": "@dkhamsing",
-      "screenshots": [
+         "title": "Aozora",
+         "category-ids": [
+           "social"
+         ],
+         "description": "Discover & track anime",
+         "source": "https://github.com/opensourceios/Aozora",
+         "tags": [
+           "swift"
+         ],
+         "stars": 14,
+         "license": "mit",
+         "date_added": "Mon Feb 8 06:15:08 2016 -0800",
+         "suggested_by": "@dkhamsing",
+         "screenshots": [
 
-      ],
-      "updated": "2016-02-06 22:00:56 UTC"
-    },
+         ],
+         "updated": "2016-02-06 22:00:56 UTC"
+       },    
     {
       "title": "Peggsite",
       "category-ids": [
@@ -27561,6 +27561,24 @@
       "license": "mit",
       "date_added": "Jan 18 2022",
       "suggested_by": "@ChoiysApple"
+    },
+    {
+      "title": "TwitterSentiment",
+      "category-ids": [
+        "education",
+        "social"
+      ],
+      "description": "Receives Twitter messages and scores them using a CoreML model for NLP sentiment analysis.",
+      "source": "https://github.com/draese/TwitterSentiment",
+      "tags": [
+        "swift"
+      ],
+      "license": "mit",
+      "date_added": "Jan 19 2022",
+      "suggested_by": "@draese",
+      "screenshots": [
+        "https://github.com/draese/TwitterSentiment/blob/main/doc/screenshot.png"
+      ]
     }
   ]
 }
