@@ -27597,7 +27597,7 @@
         "education",
         "social"
       ],
-      "description": "Receives Twitter messages and scores them using a CoreML model for NLP sentiment analysis.",
+      "description": "Score Twitter messages using a CoreML model for NLP sentiment analysis",
       "source": "https://github.com/draese/TwitterSentiment",
       "tags": [
         "swift"
