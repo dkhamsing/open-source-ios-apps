@@ -27610,6 +27610,21 @@
       ],
       "stars": 0,
       "updated": "2022-01-19 18:43:01 UTC"
+    },
+    {
+      "title": "BMI Calculator",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/londonappbrewery/bmi-calculator-flutter",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "other",
+      "date_added": "Feb 2 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 119
     }
   ]
 }
