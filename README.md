@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1331-green.svg) ![](https://img.shields.io/badge/Updated-February%20%203,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1332-green.svg) ![](https://img.shields.io/badge/Updated-February%20%206,%202022-lightgrey.svg)
 
 Jump to
 
@@ -130,6 +130,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926) <a href='https://i.imgur.com/Br5ht7f.png'>`Screenshot 1`</a> 
   -  `2022`   `swift` `ipad` `alamofire` `swiftyjson` `sdwebimage` `devicekit` `promisekit` `swiftlint` 
   -  ☆`114` 
+- [Swiftfin](https://github.com/jellyfin/Swiftfin): Jellyfin Client
+  -  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` 
+  -  ☆`331` 
 - [Telemat-tvOS](https://github.com/omichde/Telemat-tvOS): Stream the German Public Broadcast TV
   -  <a href='https://github.com/omichde/Telemat-tvOS/raw/master/telemat.jpg'>`Screenshot 1`</a> 
   -  `2017`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` 
