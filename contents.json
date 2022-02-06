@@ -27625,6 +27625,21 @@
       "date_added": "Feb 2 2022",
       "suggested_by": "@dkhamsing",
       "stars": 119
+    },
+    {
+      "title": "Swiftfin",
+      "category-ids": [
+        "apple-tv"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Jellyfin Client",
+      "license": "mpl-2.0",
+      "source": "https://github.com/jellyfin/Swiftfin",
+      "stars": 331,
+      "date_added": "Feb 6 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
