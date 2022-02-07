@@ -1667,7 +1667,7 @@
     {
       "title": "Signal",
       "category-ids": [
-        "communication"
+        "communication", "official"
       ],
       "tags": [
         "objc",
@@ -11840,7 +11840,6 @@
     {
       "title": "osia",
       "category-ids": [
-        "official",
         "content"
       ],
       "tags": [
