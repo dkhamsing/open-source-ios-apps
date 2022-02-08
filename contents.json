@@ -27639,6 +27639,26 @@
       "stars": 331,
       "date_added": "Feb 6 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Vocable AAC",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift",
+        "ipad"
+      ],
+      "description": "Hands-free text-to-speech",
+      "source": "https://github.com/willowtreeapps/vocable-ios",
+      "itunes": "https://apps.apple.com/app/tell-time-uk/id1497040547",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/4723115/153076282-adbb708a-8213-4d86-9a91-5ad356535642.png"
+      ],
+      "license": "mit",
+      "date_added": "Feb 8 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 59
     }
   ]
 }
