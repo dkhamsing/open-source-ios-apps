@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1332-green.svg) ![](https://img.shields.io/badge/Updated-February%20%207,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1333-green.svg) ![](https://img.shields.io/badge/Updated-February%20%208,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3928,6 +3928,10 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/vinylogue-for-last.fm/id617471119) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ba/78/06/ba7806d1-3e5b-d46f-9448-84366fabfddd/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/c4/7c/15/c47c15e3-1cad-e572-9583-137114cd94a6/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0b/4f/72/0b4f72ec-9fa5-55ed-a719-3d8208af890c/mzl.ewtijcyp.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2020`  [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/) `objc` 
   -  ☆`110` 
+- [Vocable AAC](https://github.com/willowtreeapps/vocable-ios): Hands-free text-to-speech
+  - [` App Store`](https://apps.apple.com/app/tell-time-uk/id1497040547) <a href='https://user-images.githubusercontent.com/4723115/153076282-adbb708a-8213-4d86-9a91-5ad356535642.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `ipad` 
+  -  ☆`59` 
 - [yacd](https://github.com/DerekSelander/yacd): Yet Another Code Decrypter, decrypts FairPlay (App Store) applications on iOS 13.4.1 and lower, no jailbreak required
   -  <a href='https://github.com/DerekSelander/yacd/raw/master/media/img.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` `c` 
