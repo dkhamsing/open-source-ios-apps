@@ -27659,6 +27659,23 @@
       "date_added": "Feb 8 2022",
       "suggested_by": "@dkhamsing",
       "stars": 59
+    },
+    {
+      "title": "Nio Matrix client",
+      "category-ids": [
+        "communication"
+      ],
+      "source": "https://github.com/niochat/nio",
+      "license": "mit",
+      "stars": 375,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://nio.chat/screenshots.png"
+      ],
+      "date_added": "Feb 9 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
