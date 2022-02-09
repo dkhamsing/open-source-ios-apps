@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1333-green.svg) ![](https://img.shields.io/badge/Updated-February%20%208,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1334-green.svg) ![](https://img.shields.io/badge/Updated-February%20%209,%202022-lightgrey.svg)
 
 Jump to
 
@@ -652,6 +652,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/mumble/id443472808) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/71/36/95/7136953f-7ffc-05fa-0df7-78cc7ec4b06b/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/67/56/94/67569407-e82a-6d28-80e6-c59845726c81/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/9f/34/7b/9f347b9a-15f9-bd4f-f020-02f633967c9f/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/16/e3/cc/16e3cc1a-e13a-d7f1-cf4a-f3a658828d10/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
   -  `2021`  [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/) `objc` `fmdb` 
   -  ☆`181` 
+- [Nio Matrix client](https://github.com/niochat/nio)
+  -  <a href='https://nio.chat/screenshots.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
+  -  ☆`375` 
 - [ProtonMail](https://github.com/ProtonMail/ios-mail): Encrypted Email
   - <a href=https://protonmail.com/>`https://protonmail.com/`</a>
   - [` App Store`](https://apps.apple.com/app/id979659905) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1d/c0/ba/1dc0bacb-bd7e-bfb3-4a14-ab9cdfd6336d/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/e3/23/9ce32347-1f99-dfa0-2434-c032e6264eda/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/11/33/5c/11335cff-69e3-6a55-3248-ebe2e98c4e87/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bc/08/4b/bc084bb4-d8d1-26aa-606f-03de254a345d/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
