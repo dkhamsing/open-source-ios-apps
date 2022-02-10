@@ -27676,6 +27676,23 @@
       ],
       "date_added": "Feb 9 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "DeltaUI",
+      "description": "SwiftUI + CoreData user interface for DeltaCore & Friends",
+      "category-ids": [
+        "core-data"
+      ],
+      "source": "https://github.com/ericlewis/DeltaUI",
+      "license": "mit",
+      "date_added": "Feb 10 2022",
+      "suggested_by": "@dkhamsing",
+      "tags": [
+        "swift",
+        "coredata",
+        "swiftui"
+      ],
+      "stars": 55
     }
   ]
 }
