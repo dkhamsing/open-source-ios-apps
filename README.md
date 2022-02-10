@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1334-green.svg) ![](https://img.shields.io/badge/Updated-February%20%209,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1335-green.svg) ![](https://img.shields.io/badge/Updated-February%2010,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3956,6 +3956,9 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [DeltaUI](https://github.com/ericlewis/DeltaUI): SwiftUI + CoreData user interface for DeltaCore & Friends
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `coredata` `swiftui` 
+  -  ☆`55` 
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)
   -  <a href='https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted/raw/master/promo.png?raw=true'>`Screenshot 1`</a> 
   -  `2020`   `swift` `swiftui` `core-data` 
