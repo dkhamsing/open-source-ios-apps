@@ -27683,6 +27683,12 @@
       "category-ids": [
         "core-data"
       ],
+      "screenshots": [
+        "https://imgur.com/L5VsH6Z.png",
+        "https://imgur.com/TUtp5wZ.png",
+        "https://imgur.com/SIn2Ald.png",
+        "https://imgur.com/OR2nAOF.png"        
+      ],
       "source": "https://github.com/ericlewis/DeltaUI",
       "license": "mit",
       "date_added": "Feb 10 2022",
