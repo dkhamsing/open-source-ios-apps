@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1335-green.svg) ![](https://img.shields.io/badge/Updated-February%2011,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1335-green.svg) ![](https://img.shields.io/badge/Updated-February%2012,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3957,7 +3957,7 @@ https://joinmastodon.org — [back to top](#readme)
  
 
 - [DeltaUI](https://github.com/ericlewis/DeltaUI): SwiftUI + CoreData user interface for DeltaCore & Friends
-  -  <a href='https://imgur.com/L5VsH6Z.png'>`Screenshot 1`</a>  <a href='https://imgur.com/TUtp5wZ.png'>`Screenshot 2`</a>  <a href='https://imgur.com/SIn2Ald.png'>`Screenshot 3`</a>  <a href='https://imgur.com/OR2nAOF.png'>`Screenshot 4`</a> 
+  -  <a href='https://i.imgur.com/L5VsH6Z.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/TUtp5wZ.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/SIn2Ald.png'>`Screenshot 3`</a>  <a href='https://i.imgur.com/OR2nAOF.png'>`Screenshot 4`</a> 
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `coredata` `swiftui` 
   -  ☆`55` 
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)
