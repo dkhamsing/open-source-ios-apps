@@ -15711,14 +15711,12 @@
         "firebase"
       ],
       "tags": [
-        "objc",
-        "firebase",
-        "onesignal",
-        "realm"
+        "swift",
+        "graphql"
       ],
       "screenshots": [
-        "https://relatedcode.com/screen/chat01.png",
-        "https://relatedcode.com/screen/call1.png"
+        "https://related.chat/messenger/01x.png",
+        "https://related.chat/messenger/02x.png"
       ],
       "license": "other",
       "date_added": "Jul 19 2017",
