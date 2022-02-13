@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1335-green.svg) ![](https://img.shields.io/badge/Updated-February%2012,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1335-green.svg) ![](https://img.shields.io/badge/Updated-February%2013,%202022-lightgrey.svg)
 
 Jump to
 
@@ -637,8 +637,8 @@ Jump to
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `firebase` `lottie` `mapbox` 
   -  ☆`539` 
 - [Messenger](https://github.com/relatedcode/Messenger): Audio/video calls, realtime chat & full offline support
-  -  <a href='https://relatedcode.com/screen/chat01.png'>`Screenshot 1`</a>  <a href='https://relatedcode.com/screen/call1.png'>`Screenshot 2`</a> 
-  -  `2021`   `objc` `firebase` `onesignal` `realm` 
+  -  <a href='https://related.chat/messenger/01x.png'>`Screenshot 1`</a>  <a href='https://related.chat/messenger/02x.png'>`Screenshot 2`</a> 
+  -  `2021`   `swift` `graphql` 
   -  ☆`4289` 
 - [Messenger Clone](https://github.com/instamobile/messenger-iOS-chat-swift-firestore): Real-time chat
   -  <a href='https://iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'>`Screenshot 1`</a> 
@@ -4014,8 +4014,8 @@ https://firebase.google.com/ — [back to top](#readme)
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `parse` `firebase` `realm` 
   -  ☆`20` 
 - [Messenger](https://github.com/relatedcode/Messenger): Audio/video calls, realtime chat & full offline support
-  -  <a href='https://relatedcode.com/screen/chat01.png'>`Screenshot 1`</a>  <a href='https://relatedcode.com/screen/call1.png'>`Screenshot 2`</a> 
-  -  `2021`   `objc` `firebase` `onesignal` `realm` 
+  -  <a href='https://related.chat/messenger/01x.png'>`Screenshot 1`</a>  <a href='https://related.chat/messenger/02x.png'>`Screenshot 2`</a> 
+  -  `2021`   `swift` `graphql` 
   -  ☆`4289` 
 - [Potter Pics](https://github.com/surayashivji/potter-pics): Harry Potter themed social network similar to Instagram
   -  <a href='https://github.com/surayashivji/potter-pics/blob/master/Overview.gif'>`Screenshot 1`</a> 
