@@ -27697,6 +27697,27 @@
         "swiftui"
       ],
       "stars": 55
+    },
+    {
+      "title": "Construct for D&D 5e",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Dungeon Master companion",
+      "source": "https://github.com/Thomvis/Construct",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Thomvis/Construct/main/assets/screenshot1.png"
+      ],
+      "itunes": "https://apps.apple.com/app/construct-for-d-d-5e/id1490015210",
+      "license": "mit",
+      "date_added": "Feb 15 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 97
+
     }
   ]
 }
