@@ -27718,6 +27718,24 @@
       "suggested_by": "@dkhamsing",
       "stars": 97
 
+    },
+    {
+      "title": "Critter Clan",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Africa's Animal Park",
+      "source": "https://github.com/shameemreza/critterclan",
+      "screenshots": [
+        "https://github.com/shameemreza/critterclan/raw/main/row/preview.png"
+      ],      
+      "license": "apache-2.0",
+      "date_added": "Feb 16 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
