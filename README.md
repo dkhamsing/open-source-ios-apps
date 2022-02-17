@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1337-green.svg) ![](https://img.shields.io/badge/Updated-February%2016,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1338-green.svg) ![](https://img.shields.io/badge/Updated-February%2017,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1896,6 +1896,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://github.com/nerdsupremacist/CovidUI/raw/master/demo.gif'>`Screenshot 1`</a> 
   -  `2021`   `swift` 
   -  ☆`72` 
+- [Das E-Rezept](https://github.com/gematik/E-Rezept-App-iOS): Electronic prescription
+  -  <a href='https://user-images.githubusercontent.com/4723115/154331528-8cf655bc-dac4-433d-a521-9179324f9188.png'>`Screenshot 1`</a> 
+  -   `swift` `swiftui` `tca` `combine` 
 - [Depressed](https://github.com/DerLobi/Depressed): Test if you are depressed
   - [` App Store`](https://apps.apple.com/app/depressed/id1062594092) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/e4/14/90/e414906d-dff4-4f65-05c3-86fcbc65d25d/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/48/d3/b0/48d3b059-01d3-be32-eeac-09c65fd4b2f5/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/56/f5/83/56f583a3-acdf-f48a-f739-2d3f0a6ef876/pr_source.png/230x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/3a/c0/7a/3ac07ae6-fecb-c139-6645-532e5c24fa3a/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
