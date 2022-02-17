@@ -27736,6 +27736,27 @@
       "license": "apache-2.0",
       "date_added": "Feb 16 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Das E-Rezept",
+      "category-ids": [
+        "health"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "tca",
+        "combine"
+      ],
+      "description": "Electronic prescription",
+      "lang": "deu",
+      "source": "https://github.com/gematik/E-Rezept-App-iOS",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/4723115/154331528-8cf655bc-dac4-433d-a521-9179324f9188.png"
+      ],
+      "license": "other",
+      "date_added": "Feb 17 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
