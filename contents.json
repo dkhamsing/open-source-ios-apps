@@ -27757,6 +27757,30 @@
       "license": "other",
       "date_added": "Feb 17 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "HexaCalc",
+      "description": "Programmer's calculator",
+      "category-ids": [
+        "calculator",
+        "core-data"
+      ],
+      "source": "https://github.com/AnthonyH93/HexaCalc",
+      "itunes": "https://apps.apple.com/app/hexacalc/id1529225315",
+      "license": "mit",
+      "date_added": "Feb 18 2022",
+      "suggested_by": "@AnthonyH93",
+      "tags": [
+        "swift",
+        "coredata"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveHex.png",
+        "https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveBin.png",
+        "https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveDec.png",
+        "https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/DefaultSettings.png"
+      ],
+      "stars": 3
     }
   ]
 }
