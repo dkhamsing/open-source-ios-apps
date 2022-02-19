@@ -27781,6 +27781,24 @@
         "https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/DefaultSettings.png"
       ],
       "stars": 3
+    },
+    {
+      "title": "WePeiYang-iOS-Everest for Tianjin University",
+      "category-ids": [
+        "health"
+      ],
+      "tags": [
+        "swift",
+        "alamofire",
+        "objectmapper",
+        "swiftlint",
+        "snapkit",
+        "charts"
+      ],
+      "source": "https://github.com/twtstudio/WePeiYang-iOS-Everest",
+      "license": "other",
+      "date_added": "Feb 18 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
