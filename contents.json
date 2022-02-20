@@ -27799,6 +27799,19 @@
       "license": "other",
       "date_added": "Feb 18 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "UIKit Catalog by Apple",
+      "category-ids": [
+        "sample"
+      ],
+      "source": "https://developer.apple.com/documentation/uikit/views_and_controls/uikit_catalog_creating_and_customizing_views_and_controls",
+      "tags": [
+        "swift"
+      ],
+      "license": "other",
+      "date_added": "Feb 20 2022",
+      "suggested_by": "@krzyzanowskim"    
     }
   ]
 }
