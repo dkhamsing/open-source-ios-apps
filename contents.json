@@ -27811,7 +27811,7 @@
       ],
       "license": "other",
       "date_added": "Feb 20 2022",
-      "suggested_by": "@krzyzanowskim"    
+      "suggested_by": "@krzyzanowskim"
     },
     {
       "title": "Hacki for Hacker News",
@@ -27819,8 +27819,9 @@
         "hacker-news",
         "flutter"
       ],
+      "tags": ["flutter"],
       "source": "https://github.com/Livinglist/Hacki",
-      "itunes": "https://apps.apple.com/us/app/hacki/id1602043763",
+      "itunes": "https://apps.apple.com/app/hacki/id1602043763",
       "screenshots": [
         "https://user-images.githubusercontent.com/7277662/148859621-965080f3-a191-44cd-a2fc-9ac1f489ef84.png",
         "https://user-images.githubusercontent.com/7277662/148859627-48290a22-9679-442b-bae4-97f21546b3ae.png",
