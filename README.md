@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1342-green.svg) ![](https://img.shields.io/badge/Updated-February%2021,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1343-green.svg) ![](https://img.shields.io/badge/Updated-February%2022,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2562,6 +2562,9 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movie-detail.png'>`Screenshot 1`</a>  <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movies-list.png'>`Screenshot 2`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `realm` `alamofire` `tmdb` 
   -  ☆`14` 
+- [Projector](https://github.com/fthgrsy27/Projector.git): Projector is an iOS mobile app that enables to get all information about movies, based on The Movie Database(TMDb)
+  -  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png'>`Screenshot 1`</a>  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png'>`Screenshot 2`</a>  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/SearchScreenSS.png'>`Screenshot 3`</a> 
+  -   `swift` `core-data` `alamofire` 
 - [Reading List](https://github.com/AndrewBennet/readinglist): Track personal reading lists
   - [` App Store`](https://apps.apple.com/app/reading-list-a-book-tracking-log/id1217139955)
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `iphone` `ipad` `core-data` 
@@ -2853,7 +2856,7 @@ https://news.ycombinator.com/ — [back to top](#readme)
   -  <a href='https://github.com/cheeaun/hackerweb-native-2/raw/main/screenshots/hackerweb-stories-light.png'>`Screenshot 1`</a> 
   -  `2022`   `react-native` 
   -  ☆`38` 
-- [Hacki for Hacker News](https://github.com/Livinglist/Hacki): Hacki is a Hacker News reader made with Flutter
+- [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
   - [` App Store`](https://apps.apple.com/us/app/hacki/id1602043763) <a href='https://user-images.githubusercontent.com/7277662/148859621-965080f3-a191-44cd-a2fc-9ac1f489ef84.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859627-48290a22-9679-442b-bae4-97f21546b3ae.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859630-93f7e372-f2e7-4357-86c0-250a3f69c10f.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859632-b52a89ca-b8d7-464c-a508-faa86bcc87f8.png'>`Screenshot 4`</a> 
   -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) 
   -  ☆`132` 
@@ -4122,7 +4125,7 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://github.com/Widle-Studio/Grocery-App/raw/master/ScreenShot/Animation%20-11-01-11-57-17-742%5B1%5D-ANIMATION.gif'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` `dart` 
   -  ☆`655` 
-- [Hacki for Hacker News](https://github.com/Livinglist/Hacki): Hacki is a Hacker News reader made with Flutter
+- [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
   - [` App Store`](https://apps.apple.com/us/app/hacki/id1602043763) <a href='https://user-images.githubusercontent.com/7277662/148859621-965080f3-a191-44cd-a2fc-9ac1f489ef84.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859627-48290a22-9679-442b-bae4-97f21546b3ae.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859630-93f7e372-f2e7-4357-86c0-250a3f69c10f.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859632-b52a89ca-b8d7-464c-a508-faa86bcc87f8.png'>`Screenshot 4`</a> 
   -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) 
   -  ☆`132` 
