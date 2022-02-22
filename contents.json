@@ -27831,6 +27831,19 @@
       "date_added": "Feb 20 2022",
       "suggested_by": "@livinglist",
       "stars": 132
+    },
+    {
+      "title": "Projector",
+      "category-ids": ["content"],
+      "tags": ["swift","core-data","alamofire"],
+      "description": "Projector is an iOS mobile app that enables to get all information about movies, based on The Movie Database(TMDb)",
+      "source": "https://github.com/fthgrsy27/Projector.git",
+      "screenshots": ["https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png",
+                      "https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png",
+                      "https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/SearchScreenSS.png"],
+      "license": "other",
+      "date_added": "Feb 10 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
