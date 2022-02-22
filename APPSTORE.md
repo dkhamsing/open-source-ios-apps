@@ -1289,7 +1289,7 @@ https://news.ycombinator.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/hackers-hacker-news-reading/id603503901) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/14/98/59/149859fe-f4e3-0a12-d7fb-2d3383efdf45/mzl.ebnguksi.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`568` 
-- [Hacki for Hacker News](https://github.com/Livinglist/Hacki): Hacki is a Hacker News reader made with Flutter
+- [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
   - [` App Store`](https://apps.apple.com/us/app/hacki/id1602043763) <a href='https://user-images.githubusercontent.com/7277662/148859621-965080f3-a191-44cd-a2fc-9ac1f489ef84.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859627-48290a22-9679-442b-bae4-97f21546b3ae.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859630-93f7e372-f2e7-4357-86c0-250a3f69c10f.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859632-b52a89ca-b8d7-464c-a508-faa86bcc87f8.png'>`Screenshot 4`</a> 
   -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) 
   -  ☆`132` 
@@ -1820,7 +1820,7 @@ https://firebase.google.com/ — [back to top](#readme)
 https://flutter.dev — [back to top](#readme) 
  
 
-- [Hacki for Hacker News](https://github.com/Livinglist/Hacki): Hacki is a Hacker News reader made with Flutter
+- [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
   - [` App Store`](https://apps.apple.com/us/app/hacki/id1602043763) <a href='https://user-images.githubusercontent.com/7277662/148859621-965080f3-a191-44cd-a2fc-9ac1f489ef84.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859627-48290a22-9679-442b-bae4-97f21546b3ae.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859630-93f7e372-f2e7-4357-86c0-250a3f69c10f.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859632-b52a89ca-b8d7-464c-a508-faa86bcc87f8.png'>`Screenshot 4`</a> 
   -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) 
   -  ☆`132` 
