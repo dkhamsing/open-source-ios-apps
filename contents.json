@@ -27847,14 +27847,16 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "QZ",
+      "title": "QZ - qdomyos-zwift",
       "category-ids": ["fitness"],
-      "description": "QZ Fitness syncs fitness bikes, ellipticals, rowers, and treadmills to training apps like Echelon, Peloton, Zwift and Strava providing you with an unparalleled level of connectivity that keeps you informed and in control of your workouts",
+      "description": "Unlock your bike / treadmill",
       "source": "https://github.com/cagnulein/qdomyos-zwift",
-      "itunes": "https://apps.apple.com/app/id1543684531?fbclid=IwAR10H6y3mEgwkTlGJON3e8voYOh2wt3kLFOpFzoIXaYZ_N0y0pDvKxHMUaM",
+      "itunes": "https://apps.apple.com/app/id1543684531",
+      "tags": ["cpp"],
       "screenshots": ["https://github.com/cagnulein/qdomyos-zwift/raw/master/icons/AppScreen/iOS%20Phones%20-%206.5_/screenshot2.jpeg"],
       "date_added": "Feb 23 2022",
+      "license": "gpl-3.0",
       "suggested_by": "@cagnulein"
-    }    
+    }
   ]
 }
