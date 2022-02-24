@@ -2262,13 +2262,13 @@
         "cryptocurrency"
       ],
       "tags": [
-        "swift"
+        "swift", "ipad"
       ],
       "description": "Multi wallet, All in one Blockchain solution",
       "license": "gpl-3.0",
       "source": "https://github.com/essentiaone/Essentia-iOS",
       "screenshots": [
-        "https://clogos.essdev.info/ios/iOS_code_Essentia.png"
+        "https://essentia.one/img/image-main-new.png"
       ],
       "stars": 48,
       "date_added": "Sat Mar 30 00:39:19 2019 +0200",
