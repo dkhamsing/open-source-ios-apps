@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1344-green.svg) ![](https://img.shields.io/badge/Updated-February%2023,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1344-green.svg) ![](https://img.shields.io/badge/Updated-February%2024,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1529,8 +1529,8 @@ File Management — [back to top](#readme)
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`645` 
 - [Essentia](https://github.com/essentiaone/Essentia-iOS): Multi wallet, All in one Blockchain solution
-  -  <a href='https://clogos.essdev.info/ios/iOS_code_Essentia.png'>`Screenshot 1`</a> 
-  -  `2019`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
+  -  <a href='https://essentia.one/img/image-main-new.png'>`Screenshot 1`</a> 
+  -  `2019`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `ipad` 
   -  ☆`48` 
 - [Exa Wallet Monero](https://github.com/exantech/exa-wallet-ios): Receive, spend and store your Monero with a multisignature wallet
   - <a href=https://wallet.exan.tech/>`https://wallet.exan.tech/`</a>
