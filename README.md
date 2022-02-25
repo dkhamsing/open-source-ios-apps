@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1344-green.svg) ![](https://img.shields.io/badge/Updated-February%2024,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1344-green.svg) ![](https://img.shields.io/badge/Updated-February%2025,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2328,7 +2328,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2020`  [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/) `objc` `iphonex` 
   -  ☆`1179` 
 - [SBSAnimoji](https://github.com/simonbs/SBSAnimoji): Uses Apple's private framework AvatarKit
-  -  <a href='https://github.com/simonbs/SBSAnimoji/raw/master/screenshot.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/simonbs/SBSAnimoji/raw/main/screenshot.png'>`Screenshot 1`</a> 
   -  `2022`   `swift` `iphonex` 
   -  ☆`936` 
 ### Audio 
