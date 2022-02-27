@@ -27505,7 +27505,7 @@
     },
     {
       "title": "WordMasterKMP",
-      "description": "Heavily inspired by the Wordle game,Word Master and wordle-solver",
+      "description": "Heavily inspired by the Wordle game, Word Master and wordle-solver",
       "category-ids": [
         "swiftui",
         "macos"
@@ -27836,8 +27836,8 @@
     {
       "title": "Projector",
       "category-ids": ["content"],
-      "tags": ["swift","core-data","alamofire"],
-      "description": "Projector is an iOS mobile app that enables to get all information about movies, based on The Movie Database(TMDb)",
+      "tags": ["swift","core-data","alamofire","tmdb"],
+      "description": "Get information about movies using The Movie Database (TMDb)",
       "source": "https://github.com/fthgrsy27/Projector.git",
       "screenshots": ["https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png",
                       "https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png",
