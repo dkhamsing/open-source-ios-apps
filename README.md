@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1344-green.svg) ![](https://img.shields.io/badge/Updated-February%2025,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1344-green.svg) ![](https://img.shields.io/badge/Updated-February%2027,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2565,9 +2565,9 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movie-detail.png'>`Screenshot 1`</a>  <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movies-list.png'>`Screenshot 2`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `realm` `alamofire` `tmdb` 
   -  ☆`14` 
-- [Projector](https://github.com/fthgrsy27/Projector.git): Projector is an iOS mobile app that enables to get all information about movies, based on The Movie Database(TMDb)
+- [Projector](https://github.com/fthgrsy27/Projector.git): Get information about movies using The Movie Database (TMDb)
   -  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png'>`Screenshot 1`</a>  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png'>`Screenshot 2`</a>  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/SearchScreenSS.png'>`Screenshot 3`</a> 
-  -   `swift` `core-data` `alamofire` 
+  -   `swift` `core-data` `alamofire` `tmdb` 
 - [Reading List](https://github.com/AndrewBennet/readinglist): Track personal reading lists
   - [` App Store`](https://apps.apple.com/app/reading-list-a-book-tracking-log/id1217139955)
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `iphone` `ipad` `core-data` 
@@ -4276,7 +4276,7 @@ Cross platform projects — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/stackov/id1511838391) <a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `ipad` `macos` 
   -  ☆`222` 
-- [WordMasterKMP](https://github.com/joreilly/WordMasterKMP): Heavily inspired by the Wordle game,Word Master and wordle-solver
+- [WordMasterKMP](https://github.com/joreilly/WordMasterKMP): Heavily inspired by the Wordle game, Word Master and wordle-solver
   -  <a href='https://user-images.githubusercontent.com/6302/148663064-3ed57b1f-c1a3-4e39-b2c2-2ddb3fb09ed9.png'>`Screenshot 1`</a> 
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `kotlin` `swiftui` `macos` `kmp` 
   -  ☆`51` 
@@ -5091,7 +5091,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'>`Screenshot 3`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `watchos` `swiftui` `alamofire` 
   -  ☆`34` 
-- [WordMasterKMP](https://github.com/joreilly/WordMasterKMP): Heavily inspired by the Wordle game,Word Master and wordle-solver
+- [WordMasterKMP](https://github.com/joreilly/WordMasterKMP): Heavily inspired by the Wordle game, Word Master and wordle-solver
   -  <a href='https://user-images.githubusercontent.com/6302/148663064-3ed57b1f-c1a3-4e39-b2c2-2ddb3fb09ed9.png'>`Screenshot 1`</a> 
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `kotlin` `swiftui` `macos` `kmp` 
   -  ☆`51` 
