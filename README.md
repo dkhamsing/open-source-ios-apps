@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1344-green.svg) ![](https://img.shields.io/badge/Updated-February%2027,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1344-green.svg) ![](https://img.shields.io/badge/Updated-February%2028,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2398,7 +2398,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`82` 
 - [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/
   - <a href=https://www.iltofa.com/rphd/>`https://www.iltofa.com/rphd/`</a>
-  -  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/7c/a1/2d/7ca12dea-f76c-e146-9b89-0f5636d306d3/mzl.uhfvsdne.png/626x0w.jpg'>`Screenshot 1`</a> 
+  -  <a href='https://user-images.githubusercontent.com/4723115/155891071-90a9d4a4-a63d-4cdf-a57b-1f838854422a.jpg'>`Screenshot 1`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`16` 
 - [Swift Radio Pro](https://github.com/analogcode/Swift-Radio-Pro): Professional radio station
@@ -3030,7 +3030,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`9` 
 - [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/
   - <a href=https://www.iltofa.com/rphd/>`https://www.iltofa.com/rphd/`</a>
-  -  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/7c/a1/2d/7ca12dea-f76c-e146-9b89-0f5636d306d3/mzl.uhfvsdne.png/626x0w.jpg'>`Screenshot 1`</a> 
+  -  <a href='https://user-images.githubusercontent.com/4723115/155891071-90a9d4a4-a63d-4cdf-a57b-1f838854422a.jpg'>`Screenshot 1`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`16` 
 - [Rainbow](https://github.com/rainbow-me/rainbow): Ethereum wallet that lives in your pocket
