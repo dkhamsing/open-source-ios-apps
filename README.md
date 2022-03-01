@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1344-green.svg) ![](https://img.shields.io/badge/Updated-February%2028,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1345-green.svg) ![](https://img.shields.io/badge/Updated-March%20%201,%202022-lightgrey.svg)
 
 Jump to
 
@@ -496,6 +496,8 @@ Jump to
   -  <a href='https://github.com/geekaurora/CZInstagram/raw/master/Docs/CZInstagram.gif'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `mvvm` `flux` `sdwebimage` `easymapping` 
   -  ☆`48` 
+- [DesignRemakes](https://github.com/chFlorian/DesignRemakes): Dribbble designs, speed-coded in SwiftUI
+  -   `swift` `swiftui` 
 - [Finance](https://github.com/7kfpun/FinanceReactNative): The system Stocks app written in React Native
   -  <a href='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `react native` 
