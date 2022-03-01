@@ -27857,6 +27857,20 @@
       "date_added": "Feb 23 2022",
       "license": "gpl-3.0",
       "suggested_by": "@cagnulein"
+    },
+    {
+      "title": "DesignRemakes",
+      "description": "Dribbble designs, speed-coded in SwiftUI",
+      "category-ids": [
+        "clone"
+      ],
+      "source": "https://github.com/chFlorian/DesignRemakes",
+      "tags": [
+        "swift", "swiftui"
+      ],
+      "license": "other",
+      "date_added": "Mar 1 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
