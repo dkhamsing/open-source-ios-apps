@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1345-green.svg) ![](https://img.shields.io/badge/Updated-March%20%202,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1346-green.svg) ![](https://img.shields.io/badge/Updated-March%20%203,%202022-lightgrey.svg)
 
 Jump to
 
@@ -956,6 +956,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1469013856) <a href='https://raw.githubusercontent.com/87kangsw/resume/master/images/gittime.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift, reactorkit, rxswift` `moya` 
   -  ☆`50` 
+- [GitTrends](https://github.com/brminnick/GitTrends): Track Repo Clones and Views
+  - [` App Store`](https://apps.apple.com/app/gittrends-github-insights/id1500300399) <a href='https://user-images.githubusercontent.com/13558917/81881433-02c57b00-9545-11ea-920c-27b5b54f19c1.gif'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `csharp` 
+  -  ☆`514` 
 - [iGit](https://github.com/git-up/GitUp): Uses GitUpKit to clone a GitHub repo and perform a commit
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `objc` 
   -  ☆`10135` 
@@ -5180,6 +5184,10 @@ https://www.xamarin.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id707173885) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/77/e7/1d/77e71d18-b826-ef66-70c8-b626ae944915/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple69/v4/d5/f9/4c/d5f94c85-b1b8-32c7-793a-869b99b556cb/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/73/76/3c/73763cb3-482d-5b6e-e620-413a7a1db461/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple69/v4/bc/c4/95/bcc49560-3812-69c5-7939-83e12743e936/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/9b/a8/e5/9ba8e57e-c5dd-843b-27e1-06b9cc170403/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2021`   `csharp` 
   -  ☆`23247` 
+- [GitTrends](https://github.com/brminnick/GitTrends): Track Repo Clones and Views
+  - [` App Store`](https://apps.apple.com/app/gittrends-github-insights/id1500300399) <a href='https://user-images.githubusercontent.com/13558917/81881433-02c57b00-9545-11ea-920c-27b5b54f19c1.gif'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `csharp` 
+  -  ☆`514` 
 - [PropertyCross](https://github.com/tastejs/PropertyCross/tree/master/xamarin): Search UK property listings
   -  <a href='https://propertycross.com/frameworks/xamarin/ios/PropertyCross.thumbnail.png'>`Screenshot 1`</a>  <a href='https://propertycross.com/frameworks/xamarin/ios/SearchResults.thumbnail.png'>`Screenshot 2`</a> 
   -   `csharp` 
