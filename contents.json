@@ -27908,6 +27908,25 @@
       "suggested_by": "@dkhamsing",
       "stars": 34,
       "updated": "2022-02-22 18:44:52 UTC"
+    },
+    {
+      "title": "GitTrends",
+      "description": "Track Repo Clones and Views",
+      "category-ids": [
+        "xamarin", "github"
+      ],
+      "tags": [
+        "csharp"
+      ],
+      "screenshots": [
+        "https://user-images.githubusercontent.com/13558917/81881433-02c57b00-9545-11ea-920c-27b5b54f19c1.gif"
+      ],
+      "source": "https://github.com/brminnick/GitTrends",
+      "itunes": "https://apps.apple.com/app/gittrends-github-insights/id1500300399",
+      "stars": 514,
+      "license": "mit",
+      "date_added": "Mar 3 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
