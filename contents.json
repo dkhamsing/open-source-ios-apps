@@ -14603,7 +14603,6 @@
     },
     {
       "title": "GitHub Contributions",
-      "description": "Track your GitHub contributions",
       "source": "https://github.com/remirobert/Github-contributions",
       "tags": [
         "swift"
