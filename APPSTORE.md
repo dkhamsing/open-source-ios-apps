@@ -935,7 +935,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
   -  ☆`509` 
 - [Italy - Immuni](https://github.com/immuni-app/immuni-app-ios)
-  - <a href=https://www.covid.is/app/is>`https://www.covid.is/app/is`</a>
+  - <a href=https://www.immuni.italia.it/>`https://www.immuni.italia.it/`</a>
   - [` App Store`](https://apps.apple.com/it/app/immuni/id1513940977) <a href='https://i.imgur.com/XY1igkP.png'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `alamofire` `katana` `tempura` `bonmot` 
   -  ☆`559` 
