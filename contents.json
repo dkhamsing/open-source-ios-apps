@@ -27926,6 +27926,22 @@
       "license": "mit",
       "date_added": "Mar 3 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Template iOS App using Clean Architecture and MVVM",
+      "category-ids": [
+        "sample"
+      ],
+      "source": "https://github.com/kudoleh/iOS-Clean-Architecture-MVVM",
+      "license": "other",
+      "stars": 1600,
+      "tags": [
+        "swift",
+        "mvvm",
+        "clean-architecture"
+      ],
+      "date_added": "Mar 5 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
