@@ -2557,11 +2557,10 @@
     {
       "title": "Instagram-SwiftUI",
       "category-ids": [
-        "Social Media",
-        "clone"
+        "clone", "swiftui"
       ],
       "tags": [
-        "Swift", "SwiftUI"
+        "swift", "swiftui"
       ],
       "license": "mit",
       "source": "https://github.com/PankajGaikar/Instagram-Clone-SwiftUI",
@@ -2572,7 +2571,7 @@
       ],
       "stars": 9,
       "date_added": "Sun Mar 6",
-      "suggested_by": "@github"
+      "suggested_by": "@PankajGaikar"
     },
     {
       "title": "The Spin Zone",
