@@ -2555,6 +2555,26 @@
       "updated": "2015-08-06 15:49:04 UTC"
     },
     {
+      "title": "Instagram-SwiftUI",
+      "category-ids": [
+        "Social Media",
+        "clone"
+      ],
+      "tags": [
+        "Swift", "SwiftUI"
+      ],
+      "license": "mit",
+      "source": "https://github.com/PankajGaikar/Instagram-Clone-SwiftUI",
+      "screenshots": [
+        "https://raw.githubusercontent.com/PankajGaikar/Instagram-Clone-SwiftUI/main/Screenshots/IMG_1607.PNG",
+        "https://raw.githubusercontent.com/PankajGaikar/Instagram-Clone-SwiftUI/main/Screenshots/activity-dark.PNG",
+        "https://raw.githubusercontent.com/PankajGaikar/Instagram-Clone-SwiftUI/main/Screenshots/profile-dark.PNG"
+      ],
+      "stars": 9,
+      "date_added": "Sun Mar 6",
+      "suggested_by": "@github"
+    },
+    {
       "title": "The Spin Zone",
       "category-ids": [
         "spritekit"
