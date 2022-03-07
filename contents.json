@@ -27961,6 +27961,27 @@
       ],
       "date_added": "Mar 5 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Upcoming Movies",
+      "category-ids": [
+        "content"
+      ],
+      "screenshots": [
+        "https://github.com/DeluxeAlonso/UpcomingMovies/raw/development/Demo.gif"
+      ],
+      "tags": [
+        "clean-architecture",
+        "mvvm",
+        "coordinator",
+        "tmdb"
+      ],
+      "source": "https://github.com/DeluxeAlonso/UpcomingMovies",
+      "stars": 318,
+      "license": "mit",
+      "date_added": "Mar 7 2022",
+      "suggested_by": "@dkhamsing"
+
     }
   ]
 }
