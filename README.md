@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1348-green.svg) ![](https://img.shields.io/badge/Updated-March%20%206,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1349-green.svg) ![](https://img.shields.io/badge/Updated-March%20%207,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2623,6 +2623,10 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/rcaos/TVToday/master/Screenshots/dark/01.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` `rxswift` `realm` `mvvm` `tmdb` 
   -  ☆`26` 
+- [Upcoming Movies](https://github.com/DeluxeAlonso/UpcomingMovies)
+  -  <a href='https://github.com/DeluxeAlonso/UpcomingMovies/raw/development/Demo.gif'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `clean-architecture` `mvvm` `coordinator` `tmdb` 
+  -  ☆`318` 
 - [Upcoming TV](https://github.com/dkhamsing/upcomingtv): Track when your favorite tv show airs next
   -  <a href='https://github.com/dkhamsing/upcomingtv/raw/master/Images/0.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `tmdb` 
