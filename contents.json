@@ -27982,6 +27982,25 @@
       "date_added": "Mar 7 2022",
       "suggested_by": "@dkhamsing"
 
+    },
+    {
+      "title": "Go Cycling",
+      "description": "Cycling Tracker",
+      "category-ids": [
+        "swiftui"
+      ],
+      "screenshots": [
+        
+      ],
+      "tags": [
+        "swiftui", "ipad"
+      ],
+      "source": "https://github.com/AnthonyH93/GoCycling",
+      "itunes": "https://apps.apple.com/app/go-cycling/id1565861313",
+      "stars": 39,
+      "license": "mit",
+      "date_added": "Mar 8 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
