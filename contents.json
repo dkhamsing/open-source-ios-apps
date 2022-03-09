@@ -27981,6 +27981,24 @@
       "license": "mit",
       "date_added": "Mar 7 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "NHL Tracker",
+      "category-ids": [
+        "content"
+      ],
+      "screenshots": [
+        "https://github.com/AnthonyH93/NHLTracker/raw/master/NHL-Tracker-Screenshots/NYIvsPHILiveEmptyNet.png?raw=true"
+      ],
+      "tags": [
+        "swift",
+        "storyboard",
+        "nhl api"
+      ],
+      "source": "https://github.com/AnthonyH93/NHLTracker",
+      "license": "other",
+      "date_added": "Mar 9 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
