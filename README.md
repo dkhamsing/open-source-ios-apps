@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1349-green.svg) ![](https://img.shields.io/badge/Updated-March%20%207,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1350-green.svg) ![](https://img.shields.io/badge/Updated-March%20%209,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2549,6 +2549,9 @@ Image, video, audio, reading — [back to top](#readme)
 - [MyAnimeList](https://github.com/MaisaMilena/MyAnimeList)
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `vip` `realm` 
   -  ☆`21` 
+- [NHL Tracker](https://github.com/AnthonyH93/NHLTracker)
+  -  <a href='https://github.com/AnthonyH93/NHLTracker/raw/master/NHL-Tracker-Screenshots/NYIvsPHILiveEmptyNet.png?raw=true'>`Screenshot 1`</a> 
+  -   `swift` `storyboard` `nhl api` 
 - [osia](https://github.com/dkhamsing/osia): Super basic app to browse open-source-ios-apps
   -  <a href='https://raw.githubusercontent.com/dkhamsing/osia/main/Assets/0.7.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
