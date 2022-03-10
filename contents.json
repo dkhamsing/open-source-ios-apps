@@ -27999,6 +27999,20 @@
       "license": "other",
       "date_added": "Mar 9 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Template using Modular Architecture",
+      "category-ids": [
+        "sample"
+      ],
+      "source": "https://github.com/kudoleh/iOS-Modular-Architecture",
+      "license": "other",
+      "stars": 357,
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Mar 10 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
