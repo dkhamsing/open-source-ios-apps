@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1350-green.svg) ![](https://img.shields.io/badge/Updated-March%20%209,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1351-green.svg) ![](https://img.shields.io/badge/Updated-March%2010,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3252,6 +3252,9 @@ https://newsapi.org/ — [back to top](#readme)
 - [Template using Clean Architecture and MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM)
   -   `swift` `mvvm` `clean-architecture` 
   -  ☆`1600` 
+- [Template using Modular Architecture](https://github.com/kudoleh/iOS-Modular-Architecture)
+  -   `swift` 
+  -  ☆`357` 
 - [TicTacToe](https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe): Demonstrate how to build a full, moderately complex application in the Composable Architecture
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [UIKit Catalog by Apple](https://developer.apple.com/documentation/uikit/views_and_controls/uikit_catalog_creating_and_customizing_views_and_controls)
