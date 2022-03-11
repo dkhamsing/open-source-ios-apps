@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1351-green.svg) ![](https://img.shields.io/badge/Updated-March%2010,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1351-green.svg) ![](https://img.shields.io/badge/Updated-March%2011,%202022-lightgrey.svg)
 
 Jump to
 
@@ -975,10 +975,6 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/haolloyin/MrCode/master/Screenshots/screenshots_1.jpg'>`Screenshot 1`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` `iphone` 
   -  ☆`450` 
-- [OctoPodium](https://github.com/nunogoncalves/iOS-OctoPodium): List users ranked by GitHub repository star count
-  -  <a href='https://user-images.githubusercontent.com/3007012/33797018-2584b078-dcf8-11e7-8442-76782753dc80.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/3007012/33797017-256bb1d6-dcf8-11e7-9ce4-0f04bb6ada7b.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/3007012/33797036-81bbf3d8-dcf8-11e7-9e7c-0b9fc5ca69e6.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/3007012/33797020-25b66280-dcf8-11e7-9395-5f4059a62be8.png'>`Screenshot 4`</a> 
-  -  `2022`   `swift` 
-  -  ☆`212` 
 - [Pocket Trailer](https://github.com/ptsochantaris/trailer): Manage pull requests & issues for GitHub / GitHub Enterprise
   - [` App Store`](https://apps.apple.com/app/id806104975) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/32/f6/58/32f65859-14bd-86e7-a121-b06025e02029/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/41/de/3a41de8e-d316-fbb9-f15e-ddf5fb4e0763/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/1b/2e/9b1b2ebc-03ee-7628-0a81-545af421f519/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8b/e0/8f/8be08fc6-ea85-7325-e2a0-91e90b84b9a1/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a8/f6/09/a8f6095a-2999-95f7-46c5-a09dd89588b3/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
