@@ -2217,9 +2217,9 @@
         "github"
       ],
       "description": "List users ranked by GitHub repository star count",
-      "source": "https://github.com/nunogoncalves/iOS-OctoPodium",
+      "source": "https://github.com/opensourceios/iOS-OctoPodium",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "stars": 212,
       "license": "other",
