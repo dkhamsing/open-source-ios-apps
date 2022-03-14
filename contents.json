@@ -28013,6 +28013,22 @@
       ],
       "date_added": "Mar 10 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Flutter Wallet UI",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/kalismeras61/flutter_wallet_ui",
+      "screenshots": ["https://github.com/kalismeras61/flutter_wallet_ui/raw/master/screens/homepage.png"],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "bsd-2-clause",
+      "date_added": "Mar 14 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 454
     }
   ]
 }
