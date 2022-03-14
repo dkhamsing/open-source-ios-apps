@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1351-green.svg) ![](https://img.shields.io/badge/Updated-March%2012,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1352-green.svg) ![](https://img.shields.io/badge/Updated-March%2014,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4138,6 +4138,10 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/hungps/flutter_pokedex/master/screenshots/home.png'>`Screenshot 1`</a> 
   -  `2022`   `flutter` `dart` 
   -  ☆`1328` 
+- [Flutter Wallet UI](https://github.com/kalismeras61/flutter_wallet_ui)
+  -  <a href='https://github.com/kalismeras61/flutter_wallet_ui/raw/master/screens/homepage.png'>`Screenshot 1`</a> 
+  -  [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/) `flutter` `dart` 
+  -  ☆`454` 
 - [Flutter-Movie: Browse movies](https://github.com/khuong291/Flutter-Movie)
   -  <a href='https://github.com/khuong291/Flutter-Movie/raw/master/1.png'>`Screenshot 1`</a> 
   -  `2020`   `flutter` `dart` `tmdb` 
