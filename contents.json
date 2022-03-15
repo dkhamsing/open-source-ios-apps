@@ -28029,6 +28029,24 @@
       "date_added": "Mar 14 2022",
       "suggested_by": "@dkhamsing",
       "stars": 454
+    },
+    {
+      "title": "News Buzz",
+      "description": "Uses News API for fetching realtime data and Firebase as the backend and authenticator",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/theankurkedia/NewsBuzz",
+      "screenshots": ["https://github.com/theankurkedia/newsbuzz/raw/master/screenshots/NewsBuzz.gif"],
+      "tags": [
+        "flutter",
+        "dart",
+        "news-api"
+      ],
+      "license": "mit",
+      "date_added": "Mar 15 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 517
     }
   ]
 }
