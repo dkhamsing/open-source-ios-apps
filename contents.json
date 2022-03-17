@@ -28047,6 +28047,23 @@
       "date_added": "Mar 15 2022",
       "suggested_by": "@dkhamsing",
       "stars": 517
+    },
+    {
+      "title": "Zavala",
+      "description": "A good, simple outliner",
+      "category-ids": [
+        "macos"
+      ],
+      "source": "https://github.com/vincode-io/Zavala",
+      "itunes": "https://apps.apple.com/us/app/zavala/id1546457750",
+      "screenshots": ["https://zavala.vincode.io/assets/images/feature-screenshot-iphone.png"],
+      "tags": [
+        "swift", "ipad", "macos"
+      ],
+      "license": "mit",
+      "date_added": "Mar 17 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 157
     }
   ]
 }
