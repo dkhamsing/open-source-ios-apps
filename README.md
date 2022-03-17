@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1353-green.svg) ![](https://img.shields.io/badge/Updated-March%2015,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1354-green.svg) ![](https://img.shields.io/badge/Updated-March%2017,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4142,7 +4142,7 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://github.com/kalismeras61/flutter_wallet_ui/raw/master/screens/homepage.png'>`Screenshot 1`</a> 
   -  [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/) `flutter` `dart` 
   -  ☆`454` 
-- [Flutter-Movie: Browse movies](https://github.com/khuong291/Flutter-Movie)
+- [Flutter-Movie Browser](https://github.com/khuong291/Flutter-Movie)
   -  <a href='https://github.com/khuong291/Flutter-Movie/raw/master/1.png'>`Screenshot 1`</a> 
   -  `2020`   `flutter` `dart` `tmdb` 
   -  ☆`12` 
@@ -4318,6 +4318,10 @@ Cross platform projects — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/6302/148663064-3ed57b1f-c1a3-4e39-b2c2-2ddb3fb09ed9.png'>`Screenshot 1`</a> 
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `kotlin` `swiftui` `macos` `kmp` 
   -  ☆`52` 
+- [Zavala](https://github.com/vincode-io/Zavala): A good, simple outliner
+  - [` App Store`](https://apps.apple.com/us/app/zavala/id1546457750) <a href='https://zavala.vincode.io/assets/images/feature-screenshot-iphone.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `ipad` `macos` 
+  -  ☆`157` 
 ### React Native 
  
 https://facebook.github.io/react-native/ — [back to top](#readme) 
