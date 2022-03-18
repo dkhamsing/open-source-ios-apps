@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1354-green.svg) ![](https://img.shields.io/badge/Updated-March%2017,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1355-green.svg) ![](https://img.shields.io/badge/Updated-March%2018,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3147,6 +3147,8 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/groue/GRDBCombine/master/Documentation/Demo/Screenshots/Demo1.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `combine` 
   -  ☆`222` 
+- [Homescreen Quick Actions](https://github.com/StewartLynch/Homescreen-Quick-Actions)
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [iCloudCoreDataStarter](https://github.com/jazzychad/iCloudCoreDataStarter): Example Xcode project for Core Data + iCloud syncing
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `coredata` 
   -  ☆`486` 
