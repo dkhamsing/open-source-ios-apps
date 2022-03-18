@@ -28064,6 +28064,19 @@
       "date_added": "Mar 17 2022",
       "suggested_by": "@dkhamsing",
       "stars": 157
+    },
+    {
+      "title": "Homescreen Quick Actions",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "mit",
+      "source": "https://github.com/StewartLynch/Homescreen-Quick-Actions",
+      "date_added": "Mar 18 2022",
+      "suggested_by": "@dkhamsing"     
     }
   ]
 }
