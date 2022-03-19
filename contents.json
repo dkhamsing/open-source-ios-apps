@@ -28057,6 +28057,19 @@
       "source": "https://github.com/StewartLynch/Homescreen-Quick-Actions",
       "date_added": "Mar 18 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Shortcuts support for Micro.blog",
+      "source": "https://github.com/vincode-io/Humboldt",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "mit",
+      "date_added": "Mar 19 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
