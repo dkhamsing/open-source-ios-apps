@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1356-green.svg) ![](https://img.shields.io/badge/Updated-March%2019,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1357-green.svg) ![](https://img.shields.io/badge/Updated-March%2019,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3964,6 +3964,8 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/say-their-names/id1517599626) <a href='https://i.imgur.com/9l2ooUL.jpg'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`254` 
+- [Shortcuts support for Micro.blog](https://github.com/vincode-io/Humboldt)
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [Slidden](https://github.com/Brimizer/Slidden): Customizable keyboard
   -  <a href='https://github.com/Brimizer/Slidden/raw/master/assets/screenshot.png'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
