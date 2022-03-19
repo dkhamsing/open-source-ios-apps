@@ -1340,9 +1340,7 @@
       "license": "mit",
       "date_added": "Fri Jul 31 10:48:33 2015 -0400",
       "suggested_by": "@Jay Hickey",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2017-02-07 15:11:31 UTC"
     },
     {
@@ -1979,9 +1977,7 @@
       "stars": 48,
       "date_added": "Sat May 7 21:01:14 2016 -0500",
       "suggested_by": "@Kevin Bautista",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-09-19 00:08:20 UTC"
     },
     {
@@ -2125,9 +2121,7 @@
       "license": "other",
       "date_added": "Tue May 3 06:36:59 2016 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-12-20 09:04:37 UTC"
     },
     {
@@ -2219,7 +2213,8 @@
       "description": "List users ranked by GitHub repository star count",
       "source": "https://github.com/opensourceios/iOS-OctoPodium",
       "tags": [
-        "swift", "archive"
+        "swift",
+        "archive"
       ],
       "stars": 212,
       "license": "other",
@@ -2311,9 +2306,7 @@
       "license": "other",
       "date_added": "Mon Nov 16 22:20:44 2015 -0800",
       "suggested_by": "@ReadmeCritic",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-05-07 18:49:24 UTC"
     },
     {
@@ -2557,10 +2550,12 @@
     {
       "title": "Instagram-SwiftUI",
       "category-ids": [
-        "clone", "swiftui"
+        "clone",
+        "swiftui"
       ],
       "tags": [
-        "swift", "swiftui"
+        "swift",
+        "swiftui"
       ],
       "license": "mit",
       "source": "https://github.com/PankajGaikar/Instagram-Clone-SwiftUI",
@@ -2654,9 +2649,7 @@
       "license": "apache-2.0",
       "date_added": "Fri May 15 12:23:53 2015 -0400",
       "suggested_by": "@Sanket",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2021-05-12 11:17:38 UTC"
     },
     {
@@ -2725,9 +2718,7 @@
       "tags": [
         "objc"
       ],
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "description": "Multiplayer programming game for learning how to code",
       "license": "mit",
       "source": "https://github.com/codecombat/codecombat-ios",
@@ -3372,9 +3363,7 @@
       "stars": 76,
       "date_added": "Wed, 15 Apr 2015 06:59:02 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-01-08 23:05:53 UTC"
     },
     {
@@ -3391,9 +3380,7 @@
       "license": "mit",
       "date_added": "Mon Apr 6 11:49:54 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-03-09 13:07:50 UTC"
     },
     {
@@ -5035,9 +5022,7 @@
       ],
       "date_added": "Wed Mar 18 11:12:08 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-04-29 23:18:57 UTC"
     },
     {
@@ -5164,9 +5149,7 @@
       "license": "mit",
       "date_added": "Wed Jan 13 08:29:59 2016 -0800",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2015-04-08 03:56:21 UTC"
     },
     {
@@ -5206,9 +5189,7 @@
       "stars": 1114,
       "date_added": "Thu Mar 19 07:22:04 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-09-29 07:31:26 UTC"
     },
     {
@@ -5951,9 +5932,7 @@
       "license": "mit",
       "date_added": "Mon Feb 8 06:15:08 2016 -0800",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-02-06 22:00:56 UTC"
     },
     {
@@ -5971,9 +5950,7 @@
       "license": "other",
       "date_added": "Tue Mar 17 07:22:10 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2015-11-26 17:55:58 UTC"
     },
     {
@@ -6203,9 +6180,7 @@
       "stars": 32,
       "date_added": "Tue Jan 26 17:23:50 2016 +0200",
       "suggested_by": "@Spiros Gerokostas",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-03-22 15:51:47 UTC"
     },
     {
@@ -7110,9 +7085,7 @@
       "stars": 48,
       "date_added": "Mon Oct 12 09:06:52 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2015-05-15 15:34:31 UTC"
     },
     {
@@ -7521,9 +7494,7 @@
       "stars": 264,
       "date_added": "Thu Aug 27 07:22:13 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ]
+      "screenshots": []
     },
     {
       "title": "SwiftNote",
@@ -7793,9 +7764,7 @@
       "license": "cc0-1.0",
       "date_added": "Tue, 17 Mar 2015 14:51:44 -0400",
       "suggested_by": "@jeffreyjackson",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "stars": 0,
       "updated": "2016-01-05 07:07:44 UTC"
     },
@@ -7858,9 +7827,7 @@
       "license": "cc0-1.0",
       "date_added": "Tue, 17 Mar 2015 14:51:44 -0400",
       "suggested_by": "@jeffreyjackson",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "stars": 0,
       "updated": "2015-12-16 01:35:10 UTC"
     },
@@ -8528,9 +8495,7 @@
       "stars": 2066,
       "date_added": "Mon Jan 26 15:48:19 2015 -0800",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2021-04-27 02:03:11 UTC"
     },
     {
@@ -9702,9 +9667,7 @@
       "stars": 117,
       "date_added": "Tue May 31 23:42:32 2016 -0600",
       "suggested_by": "@scribblemaniac",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2015-09-01 04:22:31 UTC"
     },
     {
@@ -9927,9 +9890,7 @@
       ],
       "date_added": "Wed Jun 1 22:18:46 2016 -0600",
       "suggested_by": "@scribblemaniac",
-      "screenshots": [
-
-      ]
+      "screenshots": []
     },
     {
       "title": "AppSlate",
@@ -10022,9 +9983,7 @@
       "stars": 19,
       "date_added": "Wed Jun 1 22:36:19 2016 -0600",
       "suggested_by": "@scribblemaniac",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2014-03-24 14:31:49 UTC"
     },
     {
@@ -10115,9 +10074,7 @@
       "license": "lgpl-2.1",
       "date_added": "Wed Jun 1 22:58:57 2016 -0600",
       "suggested_by": "@scribblemaniac",
-      "screenshots": [
-
-      ]
+      "screenshots": []
     },
     {
       "title": "Prey",
@@ -11853,9 +11810,7 @@
       "date_added": "Fri May 15 12:15:50 2015 -0400",
       "suggested_by": "@Sanket",
       "stars": 431,
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-08-26 17:07:19 UTC"
     },
     {
@@ -12058,6 +12013,24 @@
       "date_added": "Jul 29 2016",
       "suggested_by": "@dkhamsing",
       "updated": "2020-04-20 07:31:01 UTC"
+    },
+    {
+      "title": "PrivacyBlur",
+      "category-ids": [
+        "photo"
+      ],
+      "description": "Obfuscate sensitive data in your pictures before sharing them online. ",
+      "source": "https://github.com/MATHEMA-GmbH/privacyblur",
+      "homepage": "https://privacyblur.app/",
+      "itunes": "https://apps.apple.com/app/privacyblur/id1536274106",
+      "license": "mit",
+      "stars": 34,
+      "screenshots": [
+        "https://privacyblur.app/assets/case_9.png",
+        "https://privacyblur.app/assets/case_2.png"
+      ],
+      "date_added": "Mar 18 2022",
+      "suggested_by": "@aarontorres0"
     },
     {
       "title": "AlzPrevent",
@@ -12540,9 +12513,7 @@
       "tags": [
         "react native"
       ],
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "license": "mit",
       "date_added": "Sep 14 2016",
       "suggested_by": "@dkhamsing",
@@ -27931,7 +27902,8 @@
       "title": "GitTrends",
       "description": "Track Repo Clones and Views",
       "category-ids": [
-        "xamarin", "github"
+        "xamarin",
+        "github"
       ],
       "tags": [
         "csharp"
@@ -28020,7 +27992,9 @@
         "flutter"
       ],
       "source": "https://github.com/kalismeras61/flutter_wallet_ui",
-      "screenshots": ["https://github.com/kalismeras61/flutter_wallet_ui/raw/master/screens/homepage.png"],
+      "screenshots": [
+        "https://github.com/kalismeras61/flutter_wallet_ui/raw/master/screens/homepage.png"
+      ],
       "tags": [
         "flutter",
         "dart"
@@ -28037,7 +28011,9 @@
         "flutter"
       ],
       "source": "https://github.com/theankurkedia/NewsBuzz",
-      "screenshots": ["https://github.com/theankurkedia/newsbuzz/raw/master/screenshots/NewsBuzz.gif"],
+      "screenshots": [
+        "https://github.com/theankurkedia/newsbuzz/raw/master/screenshots/NewsBuzz.gif"
+      ],
       "tags": [
         "flutter",
         "dart",
@@ -28056,9 +28032,13 @@
       ],
       "source": "https://github.com/vincode-io/Zavala",
       "itunes": "https://apps.apple.com/us/app/zavala/id1546457750",
-      "screenshots": ["https://zavala.vincode.io/assets/images/feature-screenshot-iphone.png"],
+      "screenshots": [
+        "https://zavala.vincode.io/assets/images/feature-screenshot-iphone.png"
+      ],
       "tags": [
-        "swift", "ipad", "macos"
+        "swift",
+        "ipad",
+        "macos"
       ],
       "license": "mit",
       "date_added": "Mar 17 2022",
@@ -28076,7 +28056,7 @@
       "license": "mit",
       "source": "https://github.com/StewartLynch/Homescreen-Quick-Actions",
       "date_added": "Mar 18 2022",
-      "suggested_by": "@dkhamsing"     
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
