@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **312** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **313** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1245,6 +1245,11 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/metax/id1376589355) <a href='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPhone_en.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPad_en.png'>`Screenshot 2`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`175` 
+- [PrivacyBlur](https://github.com/MATHEMA-GmbH/privacyblur): Obfuscate sensitive data in your pictures before sharing them online. 
+  - <a href=https://privacyblur.app/>`https://privacyblur.app/`</a>
+  - [` App Store`](https://apps.apple.com/app/privacyblur/id1536274106) <a href='https://privacyblur.app/assets/case_9.png'>`Screenshot 1`</a>  <a href='https://privacyblur.app/assets/case_2.png'>`Screenshot 2`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) 
+  -  ☆`34` 
 - [Screenshotter](https://github.com/rsattar/screenshotter): Organize & manage screenshots
   - [` App Store`](https://apps.apple.com/app/screenshotter-organize-manage/id826596892) <a href='https://a1.mzstatic.com/us/r30/Purple111/v4/be/d3/72/bed372f2-d1fb-511b-8e76-d55a7805fc64/screen696x696.jpeg'>`Screenshot 1`</a> 
   -  `2017`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `iphone` 
