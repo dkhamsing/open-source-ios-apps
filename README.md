@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1355-green.svg) ![](https://img.shields.io/badge/Updated-March%2018,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1356-green.svg) ![](https://img.shields.io/badge/Updated-March%2019,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2724,6 +2724,11 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://i.imgur.com/c8ahfkv.png'>`Screenshot 1`</a> 
   -  `2020`   `swift` 
   -  ☆`1290` 
+- [PrivacyBlur](https://github.com/MATHEMA-GmbH/privacyblur): Obfuscate sensitive data in your pictures before sharing them online. 
+  - <a href=https://privacyblur.app/>`https://privacyblur.app/`</a>
+  - [` App Store`](https://apps.apple.com/app/privacyblur/id1536274106) <a href='https://privacyblur.app/assets/case_9.png'>`Screenshot 1`</a>  <a href='https://privacyblur.app/assets/case_2.png'>`Screenshot 2`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) 
+  -  ☆`34` 
 - [Screenshotter](https://github.com/rsattar/screenshotter): Organize & manage screenshots
   - [` App Store`](https://apps.apple.com/app/screenshotter-organize-manage/id826596892) <a href='https://a1.mzstatic.com/us/r30/Purple111/v4/be/d3/72/bed372f2-d1fb-511b-8e76-d55a7805fc64/screen696x696.jpeg'>`Screenshot 1`</a> 
   -  `2017`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `iphone` 
