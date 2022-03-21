@@ -28070,6 +28070,20 @@
       "license": "mit",
       "date_added": "Mar 19 2020",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "MarkyMarkdown",
+      "description": "An entire markdown app in a single line of Swift code",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift", "ipad", "mac"
+      ],
+      "license": "mit",
+      "source": "https://github.com/MatthewWaller/MarkyMarkdown",
+      "date_added": "Mar 21 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
