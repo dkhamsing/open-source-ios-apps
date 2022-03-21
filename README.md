@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1357-green.svg) ![](https://img.shields.io/badge/Updated-March%2019,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1358-green.svg) ![](https://img.shields.io/badge/Updated-March%2021,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3185,6 +3185,8 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://cloud.githubusercontent.com/assets/1646564/16943747/de7a0c36-4dcf-11e6-913f-103301ef8fda.png'>`Screenshot 1`</a>  <a href='https://cloud.githubusercontent.com/assets/1646564/16943754/e1d036ee-4dcf-11e6-8994-cc2cf1709bb8.png'>`Screenshot 2`</a> 
   -  `2018`   `swift` 
   -  ☆`2420` 
+- [MarkyMarkdown](https://github.com/MatthewWaller/MarkyMarkdown): An entire markdown app in a single line of Swift code
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `ipad` `mac` 
 - [Modern Collection Views](https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios): Showcase different compositional layouts and how to achieve them
   -  <a href='https://nemecek.be/media/images/photosLayoutOptimized.gif'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
