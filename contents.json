@@ -28084,6 +28084,20 @@
       "source": "https://github.com/MatthewWaller/MarkyMarkdown",
       "date_added": "Mar 21 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "The Roundtable",
+      "description": "Elden Ring companion",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift", "swiftui", "graphql"
+      ],
+      "license": "mit",
+      "source": "https://github.com/Dimillian/The-Roundtable",
+      "date_added": "Mar 21 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
