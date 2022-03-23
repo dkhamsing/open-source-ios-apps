@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1359-green.svg) ![](https://img.shields.io/badge/Updated-March%2022,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1360-green.svg) ![](https://img.shields.io/badge/Updated-March%2023,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4221,6 +4221,9 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://github.com/Ivaskuu/travel-guide_app/raw/master/screenshots/flutter_02.png'>`Screenshot 1`</a> 
   -  `2018`   `flutter` 
   -  ☆`26` 
+- [Trovami](https://github.com/Samaritan1011001/Trovami): Live location sharing
+  -   `flutter` `dart` 
+  -  ☆`208` 
 - [violet](https://github.com/project-violet/violet): E-Hentai viewer
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `flutter` `dart` `adult` 
   -  ☆`198` 
