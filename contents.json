@@ -28114,6 +28114,23 @@
       "date_added": "Mar 23 2022",
       "suggested_by": "@dkhamsing",
       "stars": 208
+    },
+    {
+      "title": "flews",
+      "description": "Multi-service news (Hacker News, Reddit, ...)",
+      "description": "Live location sharing",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/jbarr21/flews",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Mar 25 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 148
     }
   ]
 }
