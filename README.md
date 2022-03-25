@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1360-green.svg) ![](https://img.shields.io/badge/Updated-March%2023,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1361-green.svg) ![](https://img.shields.io/badge/Updated-March%2025,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4138,6 +4138,9 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/honjow/FEhViewer/nullsafety/screenshot/home1.jpg'>`Screenshot 1`</a> 
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `flutter` `dart` `adult` 
   -  ☆`519` 
+- [flews](https://github.com/jbarr21/flews): Live location sharing
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `flutter` `dart` 
+  -  ☆`148` 
 - [Flight Search](https://github.com/MarcinusX/flutter_ui_challenge_flight_search)
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `dart` 
   -  ☆`748` 
