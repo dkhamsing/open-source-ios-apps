@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1361-green.svg) ![](https://img.shields.io/badge/Updated-March%2025,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1362-green.svg) ![](https://img.shields.io/badge/Updated-March%2026,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3262,6 +3262,8 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`357` 
 - [TicTacToe](https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe): Demonstrate how to build a full, moderately complex application in the Composable Architecture
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
+- [UbiquitousKeyValue-Storage](https://github.com/StewartLynch/UbiquitousKeyValue-Storage): NSUbiquitousKeyValueStore or iCLoud Shared UserDefaults project
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
 - [UIKit Catalog by Apple](https://developer.apple.com/documentation/uikit/views_and_controls/uikit_catalog_creating_and_customizing_views_and_controls)
   -   `swift` 
 ## Scan 
