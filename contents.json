@@ -28131,6 +28131,20 @@
       "date_added": "Mar 25 2022",
       "suggested_by": "@dkhamsing",
       "stars": 148
+    },
+    {
+      "title": "UbiquitousKeyValue-Storage",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "NSUbiquitousKeyValueStore or iCLoud Shared UserDefaults project",
+      "license": "apache-2.0",
+      "source": "https://github.com/StewartLynch/UbiquitousKeyValue-Storage",
+      "date_added": "Mar 26 2023",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
