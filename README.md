@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1362-green.svg) ![](https://img.shields.io/badge/Updated-March%2026,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1363-green.svg) ![](https://img.shields.io/badge/Updated-March%2027,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3260,6 +3260,10 @@ https://newsapi.org/ — [back to top](#readme)
 - [Template using Modular Architecture](https://github.com/kudoleh/iOS-Modular-Architecture)
   -   `swift` 
   -  ☆`357` 
+- [The Weather App Course](https://www.createchsol.com/WeatherApp/Lesson15Complete.zip)
+  - <a href=https://www.createchsol.com/WeatherAppCourse/>`https://www.createchsol.com/WeatherAppCourse/`</a>
+  -   `swift` 
+  -  ☆`278` 
 - [TicTacToe](https://github.com/pointfreeco/swift-composable-architecture/tree/master/Examples/TicTacToe): Demonstrate how to build a full, moderately complex application in the Composable Architecture
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [UbiquitousKeyValue-Storage](https://github.com/StewartLynch/UbiquitousKeyValue-Storage): NSUbiquitousKeyValueStore or iCLoud Shared UserDefaults project
