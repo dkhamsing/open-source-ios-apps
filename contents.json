@@ -28145,6 +28145,21 @@
       "source": "https://github.com/StewartLynch/UbiquitousKeyValue-Storage",
       "date_added": "Mar 26 2023",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "The Weather App Course",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "other",
+      "source": "https://www.createchsol.com/WeatherApp/Lesson15Complete.zip",
+      "homepage": "https://www.createchsol.com/WeatherAppCourse/",
+      "stars": 278,
+      "date_added": "Mar 27 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
