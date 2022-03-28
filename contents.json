@@ -28118,7 +28118,6 @@
     {
       "title": "flews",
       "description": "Multi-service news (Hacker News, Reddit, ...)",
-      "description": "Live location sharing",
       "category-ids": [
         "flutter"
       ],
