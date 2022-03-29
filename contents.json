@@ -28159,6 +28159,22 @@
       "stars": 278,
       "date_added": "Mar 27 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Deer",
+      "description": "Minimalist Flutter Todo App, built using BLoC pattern",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/aleksanderwozniak/deer",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "mit",
+      "date_added": "Mar 29 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 318
     }
   ]
 }
