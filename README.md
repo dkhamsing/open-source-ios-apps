@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1363-green.svg) ![](https://img.shields.io/badge/Updated-March%2027,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1364-green.svg) ![](https://img.shields.io/badge/Updated-March%2029,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4140,11 +4140,14 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://github.com/alfianlosari/CoronaVirusTrackerFlutter/raw/master/promo.jpg?raw=true'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `dart` 
   -  ☆`86` 
+- [Deer](https://github.com/aleksanderwozniak/deer): Minimalist Flutter Todo App, built using BLoC pattern
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `dart` 
+  -  ☆`318` 
 - [FEhViewer](https://github.com/honjow/FEhViewer): Unofficial E-Hentai viewer
   -  <a href='https://raw.githubusercontent.com/honjow/FEhViewer/nullsafety/screenshot/home1.jpg'>`Screenshot 1`</a> 
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `flutter` `dart` `adult` 
   -  ☆`519` 
-- [flews](https://github.com/jbarr21/flews): Live location sharing
+- [flews](https://github.com/jbarr21/flews): Multi-service news (Hacker News, Reddit, ...)
   -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `flutter` `dart` 
   -  ☆`148` 
 - [Flight Search](https://github.com/MarcinusX/flutter_ui_challenge_flight_search)
