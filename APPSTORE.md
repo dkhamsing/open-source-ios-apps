@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **313** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **314** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1364,6 +1364,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id520480364) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/95/5b/f0/955bf0bb-c897-bf04-e91e-5872cd937762/mzl.ewoyekko.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/77/09/18/770918b9-a6e0-c18b-d537-2e57539f9d90/mzl.ubgzfasc.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/41/e6/8241e63f-35b1-cbe9-6cd4-2cbdce9feb4b/mzl.ddodyqvp.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/25/d9/ee/25d9eec0-30bb-54e6-4273-d9f29913ccde/mzl.jhwhiolh.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/2e/46/f72e4657-9da9-930a-6f7e-8a636c28d5a5/mzl.kdweouvd.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2022`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` 
   -  ☆`13520` 
+- [Mastodon](https://github.com/mastodon/mastodon-ios)
+  - [` App Store`](https://apps.apple.com/app/mastodon-for-iphone/id1571998974)
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `ipad` 
+  -  ☆`158` 
 - [Nextcloud](https://github.com/nextcloud/ios): A safe home for all your data
   - <a href=https://nextcloud.com>`https://nextcloud.com`</a>
   - [` App Store`](https://apps.apple.com/app/nextcloud/id1125420102) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/f9/87/cb/f987cbdd-1382-b745-1eff-85cf980e673f/pr_source.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/a2/44/89/a2448912-df4f-ac28-a30d-82a9699a9fe4/mzl.bdctkilq.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/ba/7c/25ba7cc2-f9b4-518c-e201-c03bcceffbe1/mzl.fxvipxna.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/8a/dc/14/8adc144f-e5bc-512e-6f1b-5583dd7bb014/mzl.uymqtwli.jpg/460x0w.jpg'>`Screenshot 4`</a> 
