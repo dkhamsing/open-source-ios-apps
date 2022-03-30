@@ -28175,6 +28175,22 @@
       "date_added": "Mar 29 2022",
       "suggested_by": "@dkhamsing",
       "stars": 318
+    },
+    {
+      "title": "Mastodon (official client)",
+      "category-ids": [
+        "mastodon"
+      ],
+      "description": "The official client for Mastodon",
+      "license": "GPL-3.0",
+      "source": "https://github.com/mastodon/mastodon-ios",
+      "itunes": "https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Mar 30 2022",
+      "suggested_by": "@zer0-x",
+      "stars": 158
     }
   ]
 }
