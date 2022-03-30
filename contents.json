@@ -28177,16 +28177,15 @@
       "stars": 318
     },
     {
-      "title": "Mastodon (official client)",
+      "title": "Mastodon",
       "category-ids": [
-        "mastodon"
+        "official"
       ],
-      "description": "The official client for Mastodon",
-      "license": "GPL-3.0",
+      "license": "gpl-3.0",
       "source": "https://github.com/mastodon/mastodon-ios",
-      "itunes": "https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974",
+      "itunes": "https://apps.apple.com/app/mastodon-for-iphone/id1571998974",
       "tags": [
-        "swift"
+        "swift", "ipad"
       ],
       "date_added": "Mar 30 2022",
       "suggested_by": "@zer0-x",
