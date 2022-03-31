@@ -2,10 +2,10 @@
 
 ## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
-1. [UbiquitousKeyValue-Storage](https://github.com/StewartLynch/UbiquitousKeyValue-Storage)
-2. [Mastodon](https://github.com/mastodon/mastodon-ios)
-3. [Deer](https://github.com/aleksanderwozniak/deer)
-4. [The Weather App Course](https://www.createchsol.com/WeatherApp/Lesson15Complete.zip)
+1. [Mastodon](https://github.com/mastodon/mastodon-ios)
+2. [Deer](https://github.com/aleksanderwozniak/deer)
+3. [The Weather App Course](https://www.createchsol.com/WeatherApp/Lesson15Complete.zip)
+4. [UbiquitousKeyValue-Storage](https://github.com/StewartLynch/UbiquitousKeyValue-Storage)
 5. [flews](https://github.com/jbarr21/flews)
 6. [Trovami](https://github.com/Samaritan1011001/Trovami)
 7. [The Roundtable](https://github.com/Dimillian/The-Roundtable)
