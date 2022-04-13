@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1365-green.svg) ![](https://img.shields.io/badge/Updated-April%20%201,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1366-green.svg) ![](https://img.shields.io/badge/Updated-April%2013,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1785,6 +1785,9 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/spare-parts/id981297199) <a href='https://user-images.githubusercontent.com/4723115/146472281-78e77a62-14ed-4d56-ba05-8986712f0adf.png'>`Screenshot 1`</a> 
   -  `2015`   `objc` 
   -  ☆`14` 
+- [Swune](https://github.com/nicklockwood/Swune): Reimplementation of the Dune II RTS game
+  -  <a href='https://github.com/nicklockwood/Swune/raw/main/Screenshot.png'>`Screenshot 1`</a> 
+  -   `swift` 
 - [Tic TAI Toe](https://github.com/GroupeMINASTE/MorpionTPE-iOS): A tic tac toe with AI and PRO
   - [` App Store`](https://apps.apple.com/app/tic-tai-toe/id1459186328) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/53/e7/af/53e7afa3-8d2d-3667-c1d3-963908340270/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/3b/2d/e63b2dcc-4d84-0432-bfc6-44dbf6fa7e8b/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/8a/16/fb8a16bb-f1cf-bcf8-e2fc-5638ecbb4201/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
