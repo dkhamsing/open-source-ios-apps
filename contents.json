@@ -28270,6 +28270,23 @@
       "suggested_by": "@zer0-x",
       "stars": 159,
       "updated": "2022-04-01 02:47:08 UTC"
+    },
+    {
+      "title": "Swune",
+      "description": "Reimplementation of the Dune II RTS game",
+      "category-ids": [
+        "game"
+      ],
+      "source": "https://github.com/nicklockwood/Swune",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/nicklockwood/Swune/raw/main/Screenshot.png"
+      ],
+      "license": "other",
+      "date_added": "Apr 13 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
