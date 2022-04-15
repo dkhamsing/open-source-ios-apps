@@ -28287,6 +28287,24 @@
       "license": "other",
       "date_added": "Apr 13 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SwiftTermApp",
+      "category-ids": [
+        "terminal"
+      ],
+      "tags": [
+        "swiftui"
+      ],
+      "license": "mit",
+      "description": "Terminal emulator and SSH client",
+      "source": "https://github.com/migueldeicaza/SwiftTermApp",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/36863/81033655-645d5980-8e62-11ea-91c5-1d8b1931c7ce.png"
+      ],
+      "date_added": "Apr 14 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 162
     }
   ]
 }
