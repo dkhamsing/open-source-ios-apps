@@ -9210,13 +9210,9 @@
         "objc",
         "ipad"
       ],
-      "screenshots": [
-        "https://litchie.com/images/splash-small.png"
-      ],
       "description": "DOSBox",
       "license": "gpl-2.0",
       "source": "https://github.com/litchie/dospad",
-      "itunes": "https://apps.apple.com/app/idos-2/id918131840",
       "stars": 441,
       "date_added": "Fri, 13 May 2016 08:25:26 -1000",
       "suggested_by": "@yoshisuga",
