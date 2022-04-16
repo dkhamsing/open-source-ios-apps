@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1367-green.svg) ![](https://img.shields.io/badge/Updated-April%2015,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1367-green.svg) ![](https://img.shields.io/badge/Updated-April%2016,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1129,7 +1129,6 @@ Jump to
   -  `2021`   `objc` 
   -  ☆`60` 
 - [DOSPad](https://github.com/litchie/dospad): DOSBox
-  - [` App Store`](https://apps.apple.com/app/idos-2/id918131840) <a href='https://litchie.com/images/splash-small.png'>`Screenshot 1`</a> 
   -  `2021`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` `ipad` 
   -  ☆`441` 
 - [GBA4iOS](https://bitbucket.org/rileytestut/gba4ios/): Gameboy, Gameboy Color & Gameboy Advance emulator
