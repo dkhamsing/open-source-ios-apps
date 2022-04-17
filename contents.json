@@ -28301,6 +28301,20 @@
       "date_added": "Apr 14 2022",
       "suggested_by": "@dkhamsing",
       "stars": 162
+    },
+    {
+      "title": "Apple Pay Cash Animation",
+      "category-ids": [
+        "clone"
+      ],
+      "source": "https://github.com/jtrivedi/Apple-Cash-Animation",
+      "tags": [
+        "swift"
+      ],
+      "stars": 211,
+      "license": "mit",
+      "date_added": "Apr 16 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
