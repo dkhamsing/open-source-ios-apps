@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1367-green.svg) ![](https://img.shields.io/badge/Updated-April%2016,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1368-green.svg) ![](https://img.shields.io/badge/Updated-April%2017,%202022-lightgrey.svg)
 
 Jump to
 
@@ -488,6 +488,9 @@ Jump to
   -  <a href='https://i.imgur.com/3pZRJ82.jpg'>`Screenshot 1`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `spritekit` `objc` 
   -  ☆`1099` 
+- [Apple Pay Cash Animation](https://github.com/jtrivedi/Apple-Cash-Animation)
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
+  -  ☆`211` 
 - [appstore](https://github.com/phillfarrugia/appstore-clone)
   -  <a href='https://cdn-images-1.medium.com/max/2000/1*tQ0-dhZvBH3O0h9GTScihA.png'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
