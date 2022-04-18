@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1368-green.svg) ![](https://img.shields.io/badge/Updated-April%2017,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1369-green.svg) ![](https://img.shields.io/badge/Updated-April%2018,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3555,6 +3555,9 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/amaroq-for-mastodon/id1214116200) <a href='https://i.imgur.com/uesvdd4.png'>`Screenshot 1`</a> 
   -  `2021`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `objc` 
   -  ☆`236` 
+- [iMast for Mastodon](https://github.com/cinderella-project/iMast)
+  -   `swift` `swiftlint` `alamofire` `grdb` 
+  -  ☆`84` 
 - [Metatext](https://github.com/metabolist/metatext): An accessible Mastodon client
   - [` App Store`](https://apps.apple.com/app/metatext/id1523996615) <a href='https://i.imgur.com/zVvJQQv.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/yYi56m9.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/64vIXsb.png'>`Screenshot 3`</a> 
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
@@ -4328,6 +4331,9 @@ Cross platform projects — [back to top](#readme)
   -  <a href='https://github.com/alfianlosari/ImageFilterSwiftUICompleted/raw/master/promo.jpg?raw=true'>`Screenshot 1`</a> 
   -  `2020`   `swift` `swiftui` `macos` 
   -  ☆`66` 
+- [iMast for Mastodon](https://github.com/cinderella-project/iMast)
+  -   `swift` `swiftlint` `alamofire` `grdb` 
+  -  ☆`84` 
 - [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter
   -  `2019`   `swift` `swiftui` `ios13` `ipad` `macos` 
   -  ☆`8` 
