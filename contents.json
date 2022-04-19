@@ -28330,6 +28330,21 @@
       "suggested_by": "@Gigas002",
       "stars": 84
 
+    },
+    {
+      "title": "Yattee",
+      "description": "Alternative to YouTube",
+      "category-ids": [
+        "video", "macos"
+      ],
+      "source": "https://github.com/yattee/yattee",
+      "tags": [
+        "swift", "tvos"
+      ],
+      "stars": 288,
+      "license": "mit",
+      "date_added": "Apr 19 2022",
+      "suggested_by": "@Gigas002"
     }
   ]
 }
