@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1369-green.svg) ![](https://img.shields.io/badge/Updated-April%2018,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1370-green.svg) ![](https://img.shields.io/badge/Updated-April%2019,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2812,6 +2812,9 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/vlc-for-ios/id650377962) <a href='https://user-images.githubusercontent.com/4723115/146823429-c85f22c0-e757-48c0-ba54-0930ed1769bc.png'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` `ipad` 
   -  ☆`8764` 
+- [Yattee](https://github.com/yattee/yattee): Alternative to YouTube
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `tvos` 
+  -  ☆`288` 
 ## News 
  
 [back to top](#readme) 
@@ -4365,6 +4368,9 @@ Cross platform projects — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/6302/148663064-3ed57b1f-c1a3-4e39-b2c2-2ddb3fb09ed9.png'>`Screenshot 1`</a> 
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `kotlin` `swiftui` `macos` `kmp` 
   -  ☆`52` 
+- [Yattee](https://github.com/yattee/yattee): Alternative to YouTube
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `tvos` 
+  -  ☆`288` 
 - [Zavala](https://github.com/vincode-io/Zavala): A good, simple outliner
   - [` App Store`](https://apps.apple.com/us/app/zavala/id1546457750) <a href='https://zavala.vincode.io/assets/images/feature-screenshot-iphone.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `ipad` `macos` 
