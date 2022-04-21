@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **313** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **314** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1845,6 +1845,11 @@ https://flutter.dev — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/platypus-crypto/id1397122793) <a href='https://user-images.githubusercontent.com/4723115/129973780-284f8ef0-7ad7-4a29-aaf4-082b76c24b44.png'>`Screenshot 1`</a> 
   -  `2021`   `flutter` `dart` 
   -  ☆`159` 
+- [Twake](https://github.com/linagora/Twake-Mobile): Team channels, direct chat, task management, drive and calendar; all in one place
+  - <a href=https://twake.app>`https://twake.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id1313765714)
+  -   `swift, ipad` `dart` 
+  -  ☆`34` 
 ### GraphQL 
  
 [back to top](#readme) 
