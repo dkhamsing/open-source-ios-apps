@@ -28344,6 +28344,23 @@
       "license": "mit",
       "date_added": "Apr 19 2022",
       "suggested_by": "@Gigas002"
+    },
+    {
+      "title": "Twake",
+      "category-ids": [
+        "flutter"
+      ],
+      "description": "Team channels, direct chat, task management, drive and calendar; all in one place",
+      "homepage": "https://twake.app",
+      "source": "https://github.com/linagora/Twake-Mobile",
+      "itunes": "https://apps.apple.com/app/id1313765714",
+      "license": "other",
+      "stars": 34,
+      "tags": [
+        "swift, ipad", "dart"
+      ],
+      "date_added": "Apr 21 2022",
+      "suggested_by": "@itsnotsaved"
     }
   ]
 }
