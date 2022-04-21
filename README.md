@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1370-green.svg) ![](https://img.shields.io/badge/Updated-April%2019,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1371-green.svg) ![](https://img.shields.io/badge/Updated-April%2021,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4257,6 +4257,11 @@ https://flutter.dev — [back to top](#readme)
 - [Trovami](https://github.com/Samaritan1011001/Trovami): Live location sharing
   -  `2021`   `flutter` `dart` 
   -  ☆`208` 
+- [Twake](https://github.com/linagora/Twake-Mobile): Team channels, direct chat, task management, drive and calendar; all in one place
+  - <a href=https://twake.app>`https://twake.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id1313765714)
+  -   `swift, ipad` `dart` 
+  -  ☆`34` 
 - [violet](https://github.com/project-violet/violet): E-Hentai viewer
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `flutter` `dart` `adult` 
   -  ☆`204` 
