@@ -28361,6 +28361,22 @@
       ],
       "date_added": "Apr 21 2022",
       "suggested_by": "@itsnotsaved"
+    },
+    {
+      "title": "Zulip team chat",
+      "category-ids": [
+        "communication"
+      ],
+      "homepage": "https://zulip.com",
+      "source": "https://github.com/zulip/zulip-mobile",
+      "itunes": "https://apps.apple.com/app/zulip/id1203036395",
+      "license": "other",
+      "stars": 1000,
+      "tags": [
+        "swift", "reactnative"
+      ],
+      "date_added": "Apr 22 2022",
+      "suggested_by": "@itsnotsaved"
     }
   ]
 }
