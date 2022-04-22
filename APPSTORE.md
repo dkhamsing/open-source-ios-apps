@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **314** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **315** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -331,6 +331,11 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/wire/id930944768) <a href='https://cdn-images-1.medium.com/max/800/1*CEtofzY1rIOKuGT7JO3VkA.png'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `carthage` `afnetworking` `purelayout` 
   -  ☆`3106` 
+- [Zulip team chat](https://github.com/zulip/zulip-mobile)
+  - <a href=https://zulip.com>`https://zulip.com`</a>
+  - [` App Store`](https://apps.apple.com/app/zulip/id1203036395)
+  -   `swift` `reactnative` 
+  -  ☆`1000` 
 ## Developer 
  
 [back to top](#readme) 
