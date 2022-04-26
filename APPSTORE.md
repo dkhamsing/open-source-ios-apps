@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **315** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **316** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -738,6 +738,11 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rainbow-ethereum-wallet/id1457119021) <a href='https://user-images.githubusercontent.com/4723115/139700145-bb518aef-a815-421b-a504-1f2646ed32bc.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/4723115/139700159-5ac0f3cc-8ecf-4b56-a020-e5e848d460e3.png'>`Screenshot 2`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `reactnative` `typescript` 
   -  ☆`2518` 
+- [Status](https://github.com/status-im/status-react): Mobile OS for Ethereum
+  - <a href=https://status.im/>`https://status.im/`</a>
+  - [` App Store`](https://apps.apple.com/app/status-private-communication/id1178893006) <a href='https://status.im/img/teaser-image.png'>`Screenshot 1`</a> 
+  -  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `reactnative` 
+  -  ☆`3400` 
 - [Trust](https://github.com/TrustWallet/trust-wallet-ios): Ethereum Wallet and Web3 DApp Browser
   - <a href=https://trustwallet.com/>`https://trustwallet.com/`</a>
   - [` App Store`](https://apps.apple.com/app/trust-ethereum-wallet/id1288339409) <a href='https://uploads-ssl.webflow.com/5a88babea6e0f90001b39b0d/5aa0e8bcefcfd2000161d6eb_Main_Image-p-500.png'>`Screenshot 1`</a> 
@@ -1853,7 +1858,7 @@ https://flutter.dev — [back to top](#readme)
 - [Twake](https://github.com/linagora/Twake-Mobile): Team channels, direct chat, task management, drive and calendar; all in one place
   - <a href=https://twake.app>`https://twake.app`</a>
   - [` App Store`](https://apps.apple.com/app/id1313765714)
-  -   `swift, ipad` `dart` 
+  -   `swift` `ipad` `dart` 
   -  ☆`34` 
 ### GraphQL 
  
