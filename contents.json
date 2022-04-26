@@ -28377,6 +28377,24 @@
       ],
       "date_added": "Apr 22 2022",
       "suggested_by": "@itsnotsaved"
+    },
+    {
+      "title": "Status",
+      "description": "Mobile OS for Ethereum",
+      "category-ids": [
+        "cryptocurrency"
+      ],
+      "homepage": "https://status.im/",
+      "source": "https://github.com/status-im/status-react",
+      "itunes": "https://apps.apple.com/app/status-private-communication/id1178893006",
+      "screenshots": ["https://status.im/img/teaser-image.png"],
+      "license": "mpl-2.0",
+      "stars": 3400,
+      "tags": [
+        "swift", "reactnative"
+      ],
+      "date_added": "Apr 26 2022",
+      "suggested_by": "@itsnotsaved"
     }
   ]
 }
