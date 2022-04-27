@@ -28370,6 +28370,7 @@
       "homepage": "https://zulip.com",
       "source": "https://github.com/zulip/zulip-mobile",
       "itunes": "https://apps.apple.com/app/zulip/id1203036395",
+      "screenshots": ["https://zulip.com/static/images/app-screenshots/zulip-iphone-rough.png"],
       "license": "other",
       "stars": 1000,
       "tags": [
