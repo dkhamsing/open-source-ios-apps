@@ -333,7 +333,7 @@ Jump to
   -  ☆`3106` 
 - [Zulip team chat](https://github.com/zulip/zulip-mobile)
   - <a href=https://zulip.com>`https://zulip.com`</a>
-  - [` App Store`](https://apps.apple.com/app/zulip/id1203036395)
+  - [` App Store`](https://apps.apple.com/app/zulip/id1203036395) <a href='https://zulip.com/static/images/app-screenshots/zulip-iphone-rough.png'>`Screenshot 1`</a> 
   -   `swift` `reactnative` 
   -  ☆`1000` 
 ## Developer 
