@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1373-green.svg) ![](https://img.shields.io/badge/Updated-April%2026,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1373-green.svg) ![](https://img.shields.io/badge/Updated-April%2027,%202022-lightgrey.svg)
 
 Jump to
 
@@ -726,7 +726,7 @@ Jump to
   -  ☆`3106` 
 - [Zulip team chat](https://github.com/zulip/zulip-mobile)
   - <a href=https://zulip.com>`https://zulip.com`</a>
-  - [` App Store`](https://apps.apple.com/app/zulip/id1203036395)
+  - [` App Store`](https://apps.apple.com/app/zulip/id1203036395) <a href='https://zulip.com/static/images/app-screenshots/zulip-iphone-rough.png'>`Screenshot 1`</a> 
   -   `swift` `reactnative` 
   -  ☆`1000` 
 ## Developer 
