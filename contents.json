@@ -28400,8 +28400,10 @@
     {
       "title": "BreadBuddy",
       "category-ids": [
-        "sample"
+        "swiftui"
       ],
+      "tags": ["swift", "swiftui"],
+      "license": "bsd-2-clause",
       "description": "Recipe scheduler for baked goods",
       "source": "https://github.com/maxhumber/BreadBuddy",
       "itunes": "https://apps.apple.com/app/id1620912870",
