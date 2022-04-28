@@ -28396,6 +28396,18 @@
       ],
       "date_added": "Apr 26 2022",
       "suggested_by": "@itsnotsaved"
+    }, 
+    {
+      "title": "BreadBuddy",
+      "category-ids": [
+        "sample"
+      ],
+      "description": "Recipe scheduler for baked goods",
+      "source": "https://github.com/maxhumber/BreadBuddy",
+      "itunes": "https://apps.apple.com/app/id1620912870",
+      "screenshots": ["https://raw.githubusercontent.com/maxhumber/BreadBuddy/master/Marketing/Screenshots/screenshot_13pm_1.png"],
+      "date_added": "Apr 28 2022",
+      "suggested_by": "@maxhumber"
     }
   ]
 }
