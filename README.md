@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1373-green.svg) ![](https://img.shields.io/badge/Updated-April%2027,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1374-green.svg) ![](https://img.shields.io/badge/Updated-April%2028,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4810,6 +4810,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [BlogIdeaList-SwiftUI](https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI): Using Core Data With SwiftUI
   -  `2020`   `swift` `swiftui` `core-data` 
   -  ☆`70` 
+- [BreadBuddy](https://github.com/maxhumber/BreadBuddy): Recipe scheduler for baked goods
+  - [` App Store`](https://apps.apple.com/app/id1620912870) <a href='https://raw.githubusercontent.com/maxhumber/BreadBuddy/master/Marketing/Screenshots/screenshot_13pm_1.png'>`Screenshot 1`</a> 
+  -  [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/) `swift` `swiftui` 
 - [buttoncraft](https://github.com/atrinh0/buttoncraft): Craft that perfect button style
   -  <a href='https://github.com/atrinh0/buttoncraft/raw/master/images/demo.gif'>`Screenshot 1`</a> 
   -  `2021`   `swift` `swiftui` 
