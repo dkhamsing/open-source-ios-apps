@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1374-green.svg) ![](https://img.shields.io/badge/Updated-April%2028,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1375-green.svg) ![](https://img.shields.io/badge/Updated-April%2029,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4884,6 +4884,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  ☆`193` 
 - [Exploring SwiftUI Sample Apps by Apple](https://developer.apple.com/tutorials/sample-apps)
   -   `swift` 
+- [Fabula](https://github.com/jasudev/FabulaItemsProvider): Share and communicate with developers around the world
+  - [` App Store`](https://apps.apple.com/app/id1591155142) <a href='https://github.com/jasudev/FabulaItemsProvider/raw/main/Markdown/FabulaPlus_iOS.gif'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `macos` `ipad` 
 - [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling
   - [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863) <a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` 
