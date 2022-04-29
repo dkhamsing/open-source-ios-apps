@@ -28410,6 +28410,20 @@
       "screenshots": ["https://raw.githubusercontent.com/maxhumber/BreadBuddy/master/Marketing/Screenshots/screenshot_13pm_1.png"],
       "date_added": "Apr 28 2022",
       "suggested_by": "@maxhumber"
+    },
+    {
+      "title": "Fabula",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": ["swift", "swiftui", "macos", "ipad"],
+      "license": "mit",
+      "description": "Share and communicate with developers around the world",
+      "source": "https://github.com/jasudev/FabulaItemsProvider",
+      "itunes": "https://apps.apple.com/app/id1591155142",
+      "screenshots": ["https://github.com/jasudev/FabulaItemsProvider/raw/main/Markdown/FabulaPlus_iOS.gif"],
+      "date_added": "Apr 29 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
