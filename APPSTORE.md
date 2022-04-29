@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **317** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **318** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -2035,6 +2035,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/eu-vat-number-vies-freelance/id1546039758) <a href='https://github.com/FranicevicNikola/VIES/blob/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `iphone` `ipad` 
   -  ☆`5` 
+- [Fabula](https://github.com/jasudev/FabulaItemsProvider): Share and communicate with developers around the world
+  - [` App Store`](https://apps.apple.com/app/id1591155142) <a href='https://github.com/jasudev/FabulaItemsProvider/raw/main/Markdown/FabulaPlus_iOS.gif'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `macos` `ipad` 
 - [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling
   - [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863) <a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` 
