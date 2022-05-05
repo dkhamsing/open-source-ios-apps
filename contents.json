@@ -28463,6 +28463,21 @@
       "suggested_by": "@dkhamsing",
       "stars": 90,
       "updated": "2022-04-29 15:02:16 UTC"
+    },
+    {
+      "title": "Social Contributor App",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "other",
+      "description": "Share and communicate with developers around the world",
+      "source": "https://github.com/adamrushy/social-swiftui-app",
+      "date_added": "May 5 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
