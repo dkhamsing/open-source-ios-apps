@@ -28478,6 +28478,24 @@
       "source": "https://github.com/adamrushy/social-swiftui-app",
       "date_added": "May 5 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "RealityKitLaunchScreen",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "mit",
+      "description": "Launch screen made with SwiftUI and RealityKit",
+      "source": "https://github.com/aheze/RealityKitLaunchScreen",
+      "screenshots": [
+        "https://raw.githubusercontent.com/maxhumber/BreadBuddy/master/Marketing/Screenshots/screenshot_13pm_1.png"
+      ],
+      "date_added": "May 16 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
