@@ -27899,7 +27899,7 @@
         "tmdb"
       ],
       "description": "Get information about movies using The Movie Database (TMDb)",
-      "source": "https://github.com/fthgrsy27/Projector.git",
+      "source": "https://github.com/fthgrsy27/Projector",
       "screenshots": [
         "https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png",
         "https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png",
