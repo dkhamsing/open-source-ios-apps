@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1377-green.svg) ![](https://img.shields.io/badge/Updated-May%2017,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1377-green.svg) ![](https://img.shields.io/badge/Updated-May%2018,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2601,7 +2601,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movie-detail.png'>`Screenshot 1`</a>  <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movies-list.png'>`Screenshot 2`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `realm` `alamofire` `tmdb` 
   -  ☆`15` 
-- [Projector](https://github.com/fthgrsy27/Projector.git): Get information about movies using The Movie Database (TMDb)
+- [Projector](https://github.com/fthgrsy27/Projector): Get information about movies using The Movie Database (TMDb)
   -  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png'>`Screenshot 1`</a>  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png'>`Screenshot 2`</a>  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/SearchScreenSS.png'>`Screenshot 3`</a> 
   -   `swift` `core-data` `alamofire` `tmdb` 
 - [Reading List](https://github.com/AndrewBennet/readinglist): Track personal reading lists
