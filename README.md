@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1377-green.svg) ![](https://img.shields.io/badge/Updated-May%2018,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1378-green.svg) ![](https://img.shields.io/badge/Updated-May%2020,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3837,6 +3837,9 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://icdn5.digitaltrends.com/image/digitaltrends/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb1-768x1367.jpg'>`Screenshot 1`</a> 
   -  `2022`   `swift` `nuke` `keychainaccess` 
   -  ☆`6858` 
+- [AR Art Attractors](https://github.com/ynagatomo/ARArtAttractors): Display 3d graphic art in AR (Augumented Reality)
+  -  <a href='https://user-images.githubusercontent.com/66309582/169184790-873d6e02-aacf-4348-9d39-a11d4f7bd1f6.png'>`Screenshot 1`</a> 
+  -   `swift` 
 - [Avo Keepr](https://github.com/davejacobsen/AvoKeepr): Track your avocados
   - [` App Store`](https://apps.apple.com/us/app/avo-keepr/id1515186481) <a href='https://github.com/davejacobsen/AvoKeepr/raw/master/Screenshots/1.png'>`Screenshot 1`</a> 
   -  `2020`   `swift` 
