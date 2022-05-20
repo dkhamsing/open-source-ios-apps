@@ -28496,6 +28496,23 @@
       ],
       "date_added": "May 16 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "AR Art Attractors",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "other",
+      "description": "Display 3d graphic art in AR (Augumented Reality)",
+      "source": "https://github.com/ynagatomo/ARArtAttractors",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/66309582/169184790-873d6e02-aacf-4348-9d39-a11d4f7bd1f6.png"
+      ],
+      "date_added": "May 20 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
