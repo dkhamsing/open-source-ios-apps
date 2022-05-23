@@ -28513,6 +28513,21 @@
       ],
       "date_added": "May 20 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SwiftUI Series - Speedrun Challenge (anikaseibezeder)",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "other",
+      "description": "Replicate the screenshot from the camera app",
+      "source": "https://github.com/anikaseibezeder/SwiftUISpeedrunChallenge",
+      "date_added": "May 23 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
