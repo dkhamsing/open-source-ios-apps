@@ -5966,7 +5966,7 @@
       "description": "Organise the monthly critical mass movement around the world",
       "source": "https://github.com/criticalmaps/criticalmaps-ios",
       "homepage": "https://www.criticalmaps.net",
-      "itunes": "https://itunes.apple.com/app/critical-maps/id918669647",
+      "itunes": "https://apps.apple.com/app/critical-maps/id918669647",
       "license": "mit",
       "stars": 143,
       "tags": ["swift", "swiftui", "combine", "tca", "snapshottesting"],
