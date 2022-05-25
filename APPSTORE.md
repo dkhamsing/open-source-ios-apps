@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **319** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **320** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1590,6 +1590,11 @@ https://newsapi.org/ — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Critical Maps](https://github.com/criticalmaps/criticalmaps-ios): Organise the monthly critical mass movement around the world
+  - <a href=https://www.criticalmaps.net>`https://www.criticalmaps.net`</a>
+  - [` App Store`](https://apps.apple.com/app/critical-maps/id918669647) <a href='https://www.criticalmaps.net/assets/images/app-ios-dark.jpg'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` `tca` `snapshottesting` 
+  -  ☆`143` 
 - [Ello](https://github.com/ello/ello-ios): Ello is the Creators Network
   - [` App Store`](https://apps.apple.com/app/ello/id953614327) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e8/67/e4/e867e445-cb5b-ae50-b72f-d56a2fef6bb7/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/ec/10/a9ec1009-1b6f-f100-f1f0-74eb0ed5f1b7/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/8f/50/a78f5034-9e83-152c-efcf-e3341b330c6e/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/f2/7d/9d/f27d9d05-08d5-9df7-a7b7-90e5e8b36bbf/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/72/1f/ee/721fee01-d4db-185b-cdf9-1ad6dc743b5c/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
