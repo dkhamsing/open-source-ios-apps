@@ -5961,6 +5961,21 @@
       "updated": "2016-02-06 22:00:56 UTC"
     },
     {
+      "title": "Critical Maps",
+      "category-ids": ["social"],
+      "description": "An app to organise the monthly critical mass movement around the world.",
+      "source": "https://github.com/criticalmaps/criticalmaps-ios",
+      "homepage": "https://www.criticalmaps.net",
+      "itunes": "https://itunes.apple.com/app/critical-maps/id918669647",
+      "license": "mit",
+      "lang": "swift",     
+      "stars": 143,     
+      "tags": ["swift", "SwiftUI", "Combine", "TCA", "SnapshotTesting"],
+      "screenshots": ["https://www.criticalmaps.net/assets/images/app-ios-dark.jpg"],
+      "date_added": "May 25 2022",
+      "suggested_by": "@mltbnz"
+    },
+    {
       "title": "Peggsite",
       "category-ids": [
         "social"
