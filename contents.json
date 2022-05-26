@@ -28546,13 +28546,13 @@
     {
       "title": "Threema",
       "category-ids": [
-        "communication", 
+        "communication",
         "official"
       ],
-      "description": "The Secure Messenger - Secure. Anonymous. Private",
+      "description": "Secure, Anonymous and Private Messenger",
       "license": "agpl-3.0",
       "tags": [
-        "objc", 
+        "objc",
         "swift"
       ],
       "source": "https://github.com/threema-ch/threema-ios",
