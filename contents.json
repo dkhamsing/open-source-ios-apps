@@ -28565,6 +28565,21 @@
       ],
       "date_added": "May 23 2022",
       "suggested_by": "@inc-ali"
+    },
+    {
+      "title": "SwiftUI Series - Speedrun Challenge (jegnux)",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "other",
+      "description": "Replicate the screenshot from the camera app",
+      "source": "https://github.com/jegnux/SwiftUICameraAppSpeedrunChallenge",
+      "date_added": "May 29 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
