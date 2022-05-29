@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1381-green.svg) ![](https://img.shields.io/badge/Updated-May%2026,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1382-green.svg) ![](https://img.shields.io/badge/Updated-May%2029,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5143,6 +5143,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
   -  ☆`3810` 
 - [SwiftUI Series - Speedrun Challenge (anikaseibezeder)](https://github.com/anikaseibezeder/SwiftUISpeedrunChallenge): Replicate the screenshot from the camera app
+  -   `swift` `swiftui` 
+- [SwiftUI Series - Speedrun Challenge (jegnux)](https://github.com/jegnux/SwiftUICameraAppSpeedrunChallenge): Replicate the screenshot from the camera app
   -   `swift` `swiftui` 
 - [swiftui-2048](https://github.com/jVirus/swiftui-2048): 100% SwiftUI 2.0
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `ipad` 
