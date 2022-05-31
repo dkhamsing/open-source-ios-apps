@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1382-green.svg) ![](https://img.shields.io/badge/Updated-May%2029,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1383-green.svg) ![](https://img.shields.io/badge/Updated-May%2031,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2507,6 +2507,9 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://i.imgur.com/Kc7V03d.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `tmdb` 
   -  ☆`12` 
+- [Fecapp](https://github.com/betzerra/Fecapp): Displays specialty coffee shops in Buenos Aires (Argentina)
+  - <a href=https://www.betzerra.com/project/fecapp>`https://www.betzerra.com/project/fecapp`</a>
+  -   `swift` 
 - [film](https://github.com/christianampe/film-ios)
   -  `2020`   `swift` 
   -  ☆`1` 
