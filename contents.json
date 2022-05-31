@@ -28580,6 +28580,22 @@
       "source": "https://github.com/jegnux/SwiftUICameraAppSpeedrunChallenge",
       "date_added": "May 29 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Fecapp",
+      "category-ids": [
+        "content"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "license": "other",
+      "lang": "spa",
+      "description": "Displays specialty coffee shops in Buenos Aires (Argentina)",
+      "source": "https://github.com/betzerra/Fecapp",
+      "homepage": "https://www.betzerra.com/project/fecapp",
+      "date_added": "May 31 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
