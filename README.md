@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1383-green.svg) ![](https://img.shields.io/badge/Updated-June%20%202,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1384-green.svg) ![](https://img.shields.io/badge/Updated-June%20%205,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5111,6 +5111,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://i.imgur.com/jkzri5G.png'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `core-data` 
   -  ☆`12` 
+- [Simple SwiftUI](https://github.com/twostraws/simple-swiftui): Collection of small SwiftUI sample projects, including news, to-do and scores
+  -   `swift` `swiftui` 
 - [Sketch Elements](https://github.com/molcik/ios-sketch-elements): SwiftUI starter kit based on Sketch Elements using a food app template
   -  <a href='https://filipmolcik.com/wp-content/uploads/2020/07/iphonexspacegrey_portrait-2-1024x1024.png'>`Screenshot 1`</a>  <a href='https://filipmolcik.com/wp-content/uploads/2020/07/iphonexspacegrey_landscape-2-1024x1024.png'>`Screenshot 2`</a> 
   -  `2021`   `swift` `swiftui` 
