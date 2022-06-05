@@ -28623,6 +28623,21 @@
       "suggested_by": "@dkhamsing",
       "stars": 2,
       "updated": "2022-05-30 21:27:35 UTC"
+    },
+    {
+      "title": "Simple SwiftUI",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift", "swiftui"
+      ],
+      "license": "other",
+      "lang": "spa",
+      "description": "Collection of small SwiftUI sample projects, including news, to-do and scores",
+      "source": "https://github.com/twostraws/simple-swiftui",
+      "date_added": "Jun 5 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
