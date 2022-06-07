@@ -28638,6 +28638,23 @@
       "source": "https://github.com/twostraws/simple-swiftui",
       "date_added": "Jun 5 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Food Truck",
+      "category-ids": [
+        "swiftui",
+        "macos"
+      ],
+      "description": "Create a single codebase and app target for Mac, iPad, and iPhone. Sample code by Apple",
+      "source": "https://github.com/apple/sample-food-truck",
+      "license": "other",
+      "tags": [
+        "swift",
+        "macos",
+        "swiftui"
+      ],
+      "date_added": "Jun 7 2021",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
