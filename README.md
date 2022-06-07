@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1384-green.svg) ![](https://img.shields.io/badge/Updated-June%20%205,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1385-green.svg) ![](https://img.shields.io/badge/Updated-June%20%207,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4356,6 +4356,8 @@ Cross platform projects — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`60` 
+- [Food Truck](https://github.com/apple/sample-food-truck): Create a single codebase and app target for Mac, iPad, and iPhone. Sample code by Apple
+  -   `swift` `macos` `swiftui` 
 - [Fruta](https://developer.apple.com/documentation/app_clips/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an App Clip - WWDC 2020 and WWDC 2021 sample code by Apple
   -   `swift` `ios14` `ios15` `widgetkit` `macos` `app-clip` 
 - [Hacker News Multiplatform](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/)
@@ -4920,6 +4922,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/sgr-ksmt/FireTodo/blob/master/docs/images/img6.png?raw=true'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `firebase` `redux` 
   -  ☆`318` 
+- [Food Truck](https://github.com/apple/sample-food-truck): Create a single codebase and app target for Mac, iPad, and iPhone. Sample code by Apple
+  -   `swift` `macos` `swiftui` 
 - [FreeTimePicker](https://github.com/fromkk/FreeTimePicker): Find free time in your calendar
   -  <a href='https://github.com/fromkk/FreeTimePicker/raw/master/images/search.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` 
