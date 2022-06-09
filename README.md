@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1385-green.svg) ![](https://img.shields.io/badge/Updated-June%20%208,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1385-green.svg) ![](https://img.shields.io/badge/Updated-June%20%209,%202022-lightgrey.svg)
 
 Jump to
 
@@ -708,7 +708,7 @@ Jump to
   -  `2022`  [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/) `swift` `objc` 
   -  ☆`279` 
 - [Tinode](https://github.com/tinode/ios): Cross platform messenger
-  - [` App Store`](https://apps.apple.com/app/tinode/id1483763538) <a href='https://raw.githubusercontent.com/tinode/ios/master/ios-chats.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/tinode/ios/master/ios-chat.png'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/app/tinode/id1483763538) <a href='https://raw.githubusercontent.com/tinode/ios/master/ios-chat.png'>`Screenshot 1`</a> 
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`157` 
 - [TSWeChat](https://github.com/hilen/TSWeChat): A WeChat alternative
