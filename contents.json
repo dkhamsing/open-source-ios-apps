@@ -28654,6 +28654,20 @@
       ],
       "date_added": "Jun 7 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "CarSample",
+      "category-ids": [
+        "misc"
+      ],
+      "description": "Try out CarPlay apps in the iOS Simulator without a CarPlay entitlement",
+      "source": "https://github.com/below/CarSample",
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Jun 10 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
