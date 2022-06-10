@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1385-green.svg) ![](https://img.shields.io/badge/Updated-June%20%209,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1386-green.svg) ![](https://img.shields.io/badge/Updated-June%2010,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3892,6 +3892,8 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://i.imgur.com/h2ybAgQ.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`40` 
+- [CarSample](https://github.com/below/CarSample): Try out CarPlay apps in the iOS Simulator without a CarPlay entitlement
+  -   `swift` 
 - [Clip](https://github.com/rileytestut/Clip): Clipboard manager that can monitor your clipboard indefinitely in the background
   -  <a href='https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png'>`Screenshot 1`</a> 
   -  `2020`  [`unlicense`](http://choosealicense.com/licenses/unlicense/) `swift` 
