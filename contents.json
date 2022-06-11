@@ -28668,6 +28668,21 @@
       ],
       "date_added": "Jun 10 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "ARStickers",
+      "category-ids": [
+        "misc"
+      ],
+      "description": "Put stickers in the 3d space",
+      "source": "https://github.com/ynagatomo/ARStickers",
+      "license": "other",
+      "tags": [
+        "swift", "arkit", "realitykit"
+      ],
+      "screenshots": ["https://user-images.githubusercontent.com/66309582/171107988-02406cd6-b625-41d8-9f70-ef15b011d82d.jpeg"],
+      "date_added": "Jun 11 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
