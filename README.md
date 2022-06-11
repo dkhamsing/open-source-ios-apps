@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1386-green.svg) ![](https://img.shields.io/badge/Updated-June%2010,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1387-green.svg) ![](https://img.shields.io/badge/Updated-June%2011,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3860,6 +3860,9 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/66309582/169184790-873d6e02-aacf-4348-9d39-a11d4f7bd1f6.png'>`Screenshot 1`</a> 
   -  `2022`   `swift` 
   -  ☆`17` 
+- [ARStickers](https://github.com/ynagatomo/ARStickers): Put stickers in the 3d space
+  -  <a href='https://user-images.githubusercontent.com/66309582/171107988-02406cd6-b625-41d8-9f70-ef15b011d82d.jpeg'>`Screenshot 1`</a> 
+  -   `swift` `arkit` `realitykit` 
 - [Avo Keepr](https://github.com/davejacobsen/AvoKeepr): Track your avocados
   - [` App Store`](https://apps.apple.com/us/app/avo-keepr/id1515186481) <a href='https://github.com/davejacobsen/AvoKeepr/raw/master/Screenshots/1.png'>`Screenshot 1`</a> 
   -  `2020`   `swift` 
