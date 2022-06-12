@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1387-green.svg) ![](https://img.shields.io/badge/Updated-June%2011,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1388-green.svg) ![](https://img.shields.io/badge/Updated-June%2012,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5164,6 +5164,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/ivanvorobei/SwiftUI/master/Previews/animatable-cards.gif'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
   -  ☆`3855` 
+- [SwiftUI Series - DefibHeart animation](https://github.com/ryanlintott/DefibHeart)
+  -  <a href='https://user-images.githubusercontent.com/2143656/170134149-95c59fd9-4770-4ce2-b455-043589ef5fe0.gif'>`Screenshot 1`</a> 
+  -   `swift` `swiftui` 
 - [SwiftUI Series - Speedrun Challenge (anikaseibezeder)](https://github.com/anikaseibezeder/SwiftUISpeedrunChallenge): Replicate the screenshot from the camera app
   -  `2022`   `swift` `swiftui` 
 - [SwiftUI Series - Speedrun Challenge (jegnux)](https://github.com/jegnux/SwiftUICameraAppSpeedrunChallenge): Replicate the screenshot from the camera app
