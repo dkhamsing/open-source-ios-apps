@@ -28683,6 +28683,21 @@
       "screenshots": ["https://user-images.githubusercontent.com/66309582/171107988-02406cd6-b625-41d8-9f70-ef15b011d82d.jpeg"],
       "date_added": "Jun 11 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SwiftUI Series - DefibHeart animation",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "screenshots": ["https://user-images.githubusercontent.com/2143656/170134149-95c59fd9-4770-4ce2-b455-043589ef5fe0.gif"],
+      "license": "other",
+      "source": "https://github.com/ryanlintott/DefibHeart",
+      "date_added": "Jun 12 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
