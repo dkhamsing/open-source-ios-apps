@@ -631,7 +631,7 @@ Jump to
 - [Flash Chat](https://github.com/appbrewery/Flash-Chat-iOS13)
   -  `2022`   `swift` 
   -  ☆`42` 
-- [Flat](https://github.com/netless-io/flat-ios)
+- [Flat](https://github.com/netless-io/flat-ios): Agora Flat classroom
   -  <a href='https://raw.githubusercontent.com/netless-io/flat-ios/main/art/flat-showcase.png'>`Screenshot 1`</a> 
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [IRCCloud](https://github.com/irccloud/ios): IRC client/service
@@ -1068,7 +1068,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863) <a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` 
   -  ☆`11` 
-- [Flat](https://github.com/netless-io/flat-ios)
+- [Flat](https://github.com/netless-io/flat-ios): Agora Flat classroom
   -  <a href='https://raw.githubusercontent.com/netless-io/flat-ios/main/art/flat-showcase.png'>`Screenshot 1`</a> 
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [Go Flashcards](https://github.com/roymckenzie/Go-Flashcards): Create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch
