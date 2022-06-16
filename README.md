@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1389-green.svg) ![](https://img.shields.io/badge/Updated-June%2014,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1390-green.svg) ![](https://img.shields.io/badge/Updated-June%2016,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5162,6 +5162,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://i.imgur.com/gLwqXmY.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` `swiftui` `openweathermap` 
   -  ☆`17` 
+- [Swift Charts Examples](https://github.com/jordibruin/Swift-Charts-Examples)
+  -  <a href='https://user-images.githubusercontent.com/170948/173253882-1a80b934-a0b9-4acb-a290-a299ae3fdd7d.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
 - [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm): VT100/Xterm Terminal emulator
   -  <a href='https://user-images.githubusercontent.com/36863/80056069-54a05580-84f1-11ea-8597-5a227c9c64a7.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
