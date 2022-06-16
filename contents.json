@@ -28714,6 +28714,20 @@
       "source": "https://github.com/netless-io/flat-ios",
       "date_added": "Jun 13 2022",
       "suggested_by": "@vince-hz"
+    },
+    {
+      "title": "Swift Charts Examples",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift", "swiftui"
+      ],
+      "screenshots": ["https://user-images.githubusercontent.com/170948/173253882-1a80b934-a0b9-4acb-a290-a299ae3fdd7d.png"],
+      "license": "mit",
+      "source": "https://github.com/jordibruin/Swift-Charts-Examples",
+      "date_added": "Jun 16 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
