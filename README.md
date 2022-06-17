@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1390-green.svg) ![](https://img.shields.io/badge/Updated-June%2016,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1391-green.svg) ![](https://img.shields.io/badge/Updated-June%2017,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1846,6 +1846,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://i.imgur.com/3pZRJ82.jpg'>`Screenshot 1`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `spritekit` `objc` 
   -  ☆`1102` 
+- [Asteroid+](https://github.com/ChoiysApple/Asteroids-Plus): Remake of Retro Asteroid game with Endless gameplay
+  -  <a href='https://user-images.githubusercontent.com/43776784/174206305-e52d9933-b80c-4c70-92d5-b7a03f4f909c.gif'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/43776784/174208219-ca441c05-c3db-437e-86a8-a2d00ea1cae0.gif'>`Screenshot 2`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `spritekit` 
 - [Crosses-n-Ous](https://github.com/jVirus/tic-tac-toe): Class Tic Tac Toe reincarnation with AI and state machines
   -  <a href='https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif'>`Screenshot 1`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `gameplaykit` 
