@@ -28745,6 +28745,21 @@
       ],
       "date_added": "Jun 17 2022",
       "suggested_by": "@ChoiysApple"
+    },
+    {
+      "title": "Atmos",
+      "description": "SwiftUI proof-of-concept which adds rain to a view's background using Metal",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift", "swiftui", "metal"
+      ],
+      "screenshots": ["https://user-images.githubusercontent.com/641197/174412574-d7eb2fe1-47c2-461c-a68b-00a8960e015e.png"],
+      "license": "cc0-1.0",
+      "source": "https://github.com/dejager/atmos",
+      "date_added": "Jun 18 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
