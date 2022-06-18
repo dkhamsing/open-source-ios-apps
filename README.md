@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1391-green.svg) ![](https://img.shields.io/badge/Updated-June%2017,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1392-green.svg) ![](https://img.shields.io/badge/Updated-June%2018,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4835,6 +4835,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/LASER-Yi/SwiftUI-APOD/raw/master/images/Group.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` `ios13` 
   -  ☆`20` 
+- [Atmos](https://github.com/dejager/atmos): SwiftUI proof-of-concept which adds rain to a view's background using Metal
+  -  <a href='https://user-images.githubusercontent.com/641197/174412574-d7eb2fe1-47c2-461c-a68b-00a8960e015e.png'>`Screenshot 1`</a> 
+  -  [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/) `swift` `swiftui` `metal` 
 - [Beers](https://github.com/crelies/Beers): List of beers fetched from the Punk API https://punkapi.com
   -  <a href='https://github.com/crelies/Beers/raw/master/preview.gif'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swiftui` 
