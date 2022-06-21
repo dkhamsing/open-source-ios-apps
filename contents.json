@@ -28734,13 +28734,13 @@
       "category-ids": ["spritekit"],
       "description": "Remake of Retro Asteroid game with Endless gameplay",
       "source": "https://github.com/ChoiysApple/Asteroids-Plus",
-      "license": "mit",         
+      "license": "mit",
       "tags": [
         "swift",
         "spritekit"
       ],
       "screenshots": [
-        "https://user-images.githubusercontent.com/43776784/174206305-e52d9933-b80c-4c70-92d5-b7a03f4f909c.gif", 
+        "https://user-images.githubusercontent.com/43776784/174206305-e52d9933-b80c-4c70-92d5-b7a03f4f909c.gif",
         "https://user-images.githubusercontent.com/43776784/174208219-ca441c05-c3db-437e-86a8-a2d00ea1cae0.gif"
       ],
       "date_added": "Jun 17 2022",
