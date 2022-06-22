@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1392-green.svg) ![](https://img.shields.io/badge/Updated-June%2018,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1393-green.svg) ![](https://img.shields.io/badge/Updated-June%2022,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1986,6 +1986,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/open-food-facts/id588797948) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/e7/18/27/e71827cd-1fd4-5b81-b52e-2668feed9700/pr_source.png/230x0w.png'>`Screenshot 1`</a> 
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`267` 
+- [Solstice](https://github.com/daneden/Solstice): Tells you how the daylight is changing
+  -  <a href='https://daneden.me/_next/image?url=%2Fimages%2Fsolstice.png&w=750&q=75'>`Screenshot 1`</a> 
+  -  [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/) `swift` 
 - [Suicide Safety Plan](https://github.com/suicidesafetyplan/safetyplan-ios): Suicide prevention
   - [` App Store`](https://apps.apple.com/app/id1003891579) <a href='https://i.imgur.com/9N05Hru.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
