@@ -28760,6 +28760,21 @@
       "source": "https://github.com/dejager/atmos",
       "date_added": "Jun 18 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Solstice",
+      "description": "Tells you how the daylight is changing",
+      "category-ids": [
+        "health"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": ["https://daneden.me/_next/image?url=%2Fimages%2Fsolstice.png&w=750&q=75"],
+      "license": "cc0-1.0",
+      "source": "https://github.com/daneden/Solstice",
+      "date_added": "Jun 22 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
