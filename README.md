@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1393-green.svg) ![](https://img.shields.io/badge/Updated-June%2022,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1393-green.svg) ![](https://img.shields.io/badge/Updated-June%2023,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2512,7 +2512,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://cdn-images-1.medium.com/max/800/1*0TkH9-Guo_A_hdlI9UEnvQ.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `dribbble` 
   -  ☆`945` 
-- [EhPanda](https://github.com/tatsuz0u/EhPanda): Unofficial E-Hentai browser
+- [EhPanda](https://github.com/EhPanda-Team/EhPanda): Unofficial E-Hentai browser
   - <a href=https://ehpanda.app>`https://ehpanda.app`</a>
   -  <a href='https://user-images.githubusercontent.com/4723115/147510278-346eacd6-8d4f-4fb7-a4b8-17a75efc2536.png'>`Screenshot 1`</a> 
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swiftui` `combine` `adult` 
