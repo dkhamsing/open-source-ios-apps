@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1393-green.svg) ![](https://img.shields.io/badge/Updated-June%2023,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1393-green.svg) ![](https://img.shields.io/badge/Updated-June%2024,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2941,7 +2941,6 @@ https://news.ycombinator.com/ — [back to top](#readme)
   -  `2016`  [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/) `objc` 
   -  ☆`1112` 
 - [React Native Hacker News](https://github.com/G2Jose/ReactNative-HackerNews)
-  -  <a href='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/iOS/top.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
   -  ☆`64` 
 - [Simple Reader](https://github.com/rnystrom/HackerNewsReader)
@@ -4584,7 +4583,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `reactnative` `typescript` 
   -  ☆`2692` 
 - [React Native Hacker News](https://github.com/G2Jose/ReactNative-HackerNews)
-  -  <a href='https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/iOS/top.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
   -  ☆`64` 
 - [Reviewery](https://github.com/vadymmarkov/reviewery-mobile): Rate songs in Spotify playlists
