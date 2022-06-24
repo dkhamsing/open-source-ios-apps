@@ -857,9 +857,6 @@
         "react-native"
       ],
       "source": "https://github.com/G2Jose/ReactNative-HackerNews",
-      "screenshots": [
-        "https://raw.githubusercontent.com/G2Jose/ReactNative-HackerNews/master/screenshots/iOS/top.png"
-      ],
       "license": "mit",
       "date_added": "Mar 30 2017",
       "suggested_by": "@g2jose",
