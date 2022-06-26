@@ -28772,6 +28772,20 @@
       "source": "https://github.com/daneden/Solstice",
       "date_added": "Jun 22 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "RevenueCat Paywall",
+      "description": "Super basic SwiftUI with paywall using RevenueCat",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift", "swiftui"
+      ],
+      "license": "other",
+      "source": "https://gist.github.com/joshdholtz/48aa8be3d139381b5eee1c370f407fd8",
+      "date_added": "Jun 26 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
