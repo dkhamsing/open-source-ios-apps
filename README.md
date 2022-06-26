@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1393-green.svg) ![](https://img.shields.io/badge/Updated-June%2025,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1394-green.svg) ![](https://img.shields.io/badge/Updated-June%2026,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5119,6 +5119,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/wiki/kitasuke/SwiftUI-MVVM/images/screenshot.png'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`85` 
+- [RevenueCat Paywall](https://gist.github.com/joshdholtz/48aa8be3d139381b5eee1c370f407fd8): Super basic SwiftUI with paywall using RevenueCat
+  -   `swift` `swiftui` 
 - [Revill](https://github.com/ViniciusDeep/Revill): Browse and search games
   -  <a href='https://user-images.githubusercontent.com/32227073/65997616-0ef63f80-e470-11e9-8faa-d2d6728202a5.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` 
