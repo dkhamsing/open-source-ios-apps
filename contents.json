@@ -28845,6 +28845,21 @@
       "suggested_by": "@dkhamsing",
       "stars": 2,
       "updated": "2022-06-30 21:18:55 UTC"
+    },
+    {
+      "title": "Broadcast",
+      "description": "Write-only Twitter client",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "other",
+      "source": "https://github.com/daneden/Broadcast",
+      "date_added": "Jul 3 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
