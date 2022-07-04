@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1396-green.svg) ![](https://img.shields.io/badge/Updated-July%20%203,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1397-green.svg) ![](https://img.shields.io/badge/Updated-July%20%204,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5289,6 +5289,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM/raw/main/news2.gif'>`Screenshot 1`</a> 
   -  `2020`   `swift` 
   -  ☆`4` 
+- [VariableType](https://github.com/philipcdavis/VariableType)
+  -  <a href='https://user-images.githubusercontent.com/3452573/172999114-4554113d-122d-4320-b2ad-ebf33f9219e6.png'>`Screenshot 1`</a> 
+  -   `swift` `swiftui` 
 - [Waterminder](https://github.com/caiobzen/water-reminder-swiftui): Watch app to remind you to drink water
   -  <a href='https://github.com/caiobzen/water-reminder-swiftui/raw/master/drink-water-app.gif'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `combine` 
