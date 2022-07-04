@@ -28860,6 +28860,21 @@
       "source": "https://github.com/daneden/Broadcast",
       "date_added": "Jul 3 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "VariableType",
+      "category-ids": [
+        "swiftui"
+      ],
+      "screenshots": ["https://user-images.githubusercontent.com/3452573/172999114-4554113d-122d-4320-b2ad-ebf33f9219e6.png"],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "other",
+      "source": "https://github.com/philipcdavis/VariableType",
+      "date_added": "Jul 4 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
