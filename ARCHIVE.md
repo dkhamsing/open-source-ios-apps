@@ -44,6 +44,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Awesome Swift iOS App](https://github.com/matteocrippa/awesome-swift-ios)
 - [Balloon Burst](https://github.com/jamiely/ios-balloon-burst)
 - [Bancha](https://github.com/squallstar/bancha-ios-app)
+- [BaseConverter](https://github.com/opensourceios/BaseConverter-iOS)
 - [Bat Loves Bugs](https://github.com/xyclos/BatLovesBugs)
 - [Battle for Wesnoth](https://github.com/dailin/wesnoth_ios)
 - [Be my eyes](https://github.com/opensourceios/bemyeyes-ios)
