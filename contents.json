@@ -28875,6 +28875,20 @@
       "source": "https://github.com/philipcdavis/VariableType",
       "date_added": "Jul 4 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "The SwiftUI cookbook for navigation",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "other",
+      "source": "https://developer.apple.com/documentation/swiftui/bringing_robust_navigation_structure_to_your_swiftui_app",
+      "date_added": "Jul 5 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
