@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1397-green.svg) ![](https://img.shields.io/badge/Updated-July%20%204,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1398-green.svg) ![](https://img.shields.io/badge/Updated-July%20%205,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5266,6 +5266,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [The Roundtable](https://github.com/Dimillian/The-Roundtable): Elden Ring companion
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `graphql` 
   -  ☆`44` 
+- [The SwiftUI cookbook for navigation](https://developer.apple.com/documentation/swiftui/bringing_robust_navigation_structure_to_your_swiftui_app)
+  -   `swift` `swiftui` 
 - [Todo Combine SwiftUI](https://github.com/jamfly/SwiftUI-Combine-todo-example): To-do list with restful API
   -  <a href='https://github.com/jamfly/SwiftUI-Combine-todo-example/raw/master/asset/demo.png'>`Screenshot 1`</a>  <a href='https://github.com/jamfly/SwiftUI-Combine-todo-example/raw/master/asset/demo.gif'>`Screenshot 2`</a> 
   -  `2019`   `swift` 
