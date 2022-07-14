@@ -27410,7 +27410,7 @@
     },
     {
       "title": "Scribe - Language Keyboards",
-      "description": "Communicate with confidence using keyboards designed for language learners",
+      "description": "Keyboards for language learners with translation, verb conjugation and more!",
       "category-ids": [
         "education"
       ],
@@ -27426,7 +27426,7 @@
       "date_added": "Dec 6 2021",
       "suggested_by": "@andrewtavis",
       "screenshots": [
-        "https://raw.githubusercontent.com/scribe-org/Scribe-iOS/main/Resources/GitHub/Images/scribeAppStoreImages.png"
+        "https://raw.githubusercontent.com/scribe-org/Scribe-iOS/main/.github/resources/images/scribeAppStoreImages.png"
       ],
       "stars": 14,
       "itunes": "https://apps.apple.com/app/scribe-language-keyboards/id1596613886",
