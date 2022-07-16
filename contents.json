@@ -28890,6 +28890,20 @@
       "source": "https://developer.apple.com/documentation/swiftui/bringing_robust_navigation_structure_to_your_swiftui_app",
       "date_added": "Jul 5 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Pong made with Swift Charts",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "other",
+      "source": "https://gist.github.com/dduan/a3ae008105950dbd843a32fa696a55e1",
+      "date_added": "Jul 15 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
