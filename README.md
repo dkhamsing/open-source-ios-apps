@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1398-green.svg) ![](https://img.shields.io/badge/Updated-July%2014,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1399-green.svg) ![](https://img.shields.io/badge/Updated-July%2016,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5110,6 +5110,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/albertopeam/Podcasts/raw/master/art/podcasts.png'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `combine` 
   -  ☆`26` 
+- [Pong made with Swift Charts](https://gist.github.com/dduan/a3ae008105950dbd843a32fa696a55e1)
+  -  <a href='https://user-images.githubusercontent.com/4723115/179327456-2b827ad2-4906-492b-b961-11b5948c77e2.png'>`Screenshot 1`</a> 
+  -   `swift` `swiftui` 
 - [Portfolio](https://github.com/bastienFalcou/Portfolio): Use MVI (Model View Intent) to keep track of your portfolio over time
   -  `2021`   `swift` `swiftui` `combine` `mvi` `model-view-intent` 
   -  ☆`6` 
