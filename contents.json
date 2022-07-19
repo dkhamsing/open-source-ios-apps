@@ -28905,6 +28905,21 @@
       "source": "https://gist.github.com/dduan/a3ae008105950dbd843a32fa696a55e1",
       "date_added": "Jul 15 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Zeitgeist",
+      "description": "Keepi an eye on your Vercel deployments",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": ["https://user-images.githubusercontent.com/4723115/179809265-e6318a71-bf14-4a05-9043-6f0e2d7c306f.png"],
+      "license": "apache-2.0",
+      "source": "https://github.com/daneden/Zeitgeist",
+      "date_added": "Jul 19 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
