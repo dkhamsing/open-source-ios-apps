@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1400-green.svg) ![](https://img.shields.io/badge/Updated-July%2019,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1400-green.svg) ![](https://img.shields.io/badge/Updated-July%2020,%202022-lightgrey.svg)
 
 Jump to
 
@@ -910,7 +910,7 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen3.png'>`Screenshot 3`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `rxswift` `mvvm` 
   -  ☆`22` 
-- [Zeitgeist](https://github.com/daneden/Zeitgeist): Keepi an eye on your Vercel deployments
+- [Zeitgeist](https://github.com/daneden/Zeitgeist): Keep an eye on your Vercel deployments
   -  <a href='https://user-images.githubusercontent.com/4723115/179809265-e6318a71-bf14-4a05-9043-6f0e2d7c306f.png'>`Screenshot 1`</a> 
   -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
 - [Zeplin](https://github.com/anonrig/zeplin-ios): Preview your designs on Zeplin
