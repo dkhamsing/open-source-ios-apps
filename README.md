@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1400-green.svg) ![](https://img.shields.io/badge/Updated-July%2020,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1400-green.svg) ![](https://img.shields.io/badge/Updated-July%2021,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4846,7 +4846,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2022`  [`cc0-1.0`](http://choosealicense.com/licenses/cc0-1.0/) `swift` `swiftui` `metal` 
   -  ☆`164` 
 - [Beers](https://github.com/crelies/Beers): List of beers fetched from the Punk API https://punkapi.com
-  -  <a href='https://github.com/crelies/Beers/raw/master/preview.gif'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/crelies/Beers/blob/master/screenshots/phone1.png?raw=true'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swiftui` 
   -  ☆`23` 
 - [BikeShare](https://github.com/joreilly/BikeShare): Jetpack Compose and SwiftUI based Kotlin Multiplatform sample project using the CityBikes API
