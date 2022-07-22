@@ -28920,6 +28920,19 @@
       "source": "https://github.com/daneden/Zeitgeist",
       "date_added": "Jul 19 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Parallax-Card-SwiftUI",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift", "swiftui"
+      ],
+      "license": "other",
+      "source": "https://github.com/neodroid/Parallax-Card-SwiftUI",
+      "date_added": "Jul 22 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
