@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **319** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **320** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1234,6 +1234,9 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/aloha-gifs-with-dynamic-subtitles/id1231254189) <a href='https://is1.mzstatic.com/image/thumb/Purple82/v4/44/60/72/446072a3-cc4f-3fc8-ece5-14568643dc15/source/392x696bb.jpg'>`Screenshot 1`</a>  <a href='https://is4.mzstatic.com/image/thumb/Purple91/v4/90/58/e3/9058e3be-4676-5668-8301-2488df8322d3/source/392x696bb.jpg'>`Screenshot 2`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `avfoundation` `sfspeechrecognizer` 
   -  ☆`60` 
+- [ProgressGif](https://github.com/aheze/ProgressGif): Add progress bars to gifs
+  - [` App Store`](https://apps.apple.com/app/id1526969349) <a href='https://raw.githubusercontent.com/aheze/ProgressGif/main/Assets/GitHub/Usage/Step1.gif'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `ipad` 
 ### Photo 
  
 [back to top](#readme) 
