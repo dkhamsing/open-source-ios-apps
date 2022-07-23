@@ -28933,6 +28933,22 @@
       "source": "https://github.com/neodroid/Parallax-Card-SwiftUI",
       "date_added": "Jul 22 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "ProgressGif",
+      "description": "Add progress bars to gifs",
+      "category-ids": [
+        "gif"
+      ],
+      "tags": [
+        "swift", "ipad"
+      ],
+      "screenshots": ["https://raw.githubusercontent.com/aheze/ProgressGif/main/Assets/GitHub/Usage/Step1.gif"],
+      "license": "mit",
+      "source": "https://github.com/aheze/ProgressGif",
+      "itunes": "https://apps.apple.com/app/id1526969349",
+      "date_added": "Jul 23 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
