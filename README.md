@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1401-green.svg) ![](https://img.shields.io/badge/Updated-July%2022,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1402-green.svg) ![](https://img.shields.io/badge/Updated-July%2023,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2711,6 +2711,9 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://github.com/KrisYu/LivelyGIFs/blob/master/demo.gif?raw=true'>`Screenshot 1`</a> 
   -  `2019` `objc` 
   -  ☆`95` 
+- [ProgressGif](https://github.com/aheze/ProgressGif): Add progress bars to gifs
+  - [` App Store`](https://apps.apple.com/app/id1526969349) <a href='https://raw.githubusercontent.com/aheze/ProgressGif/main/Assets/GitHub/Usage/Step1.gif'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `ipad` 
 ### Photo 
  
 [back to top](#readme) 
