@@ -28949,6 +28949,20 @@
       "itunes": "https://apps.apple.com/app/id1526969349",
       "date_added": "Jul 23 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Overcast drawer animation",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift", "swiftui"
+      ],
+      "license": "other",
+      "source": "https://github.com/ryanlintott/OvercastDrawer",
+      "homepage": "https://twitter.com/ryanlintott/status/1548445717257064448",
+      "date_added": "Jul 24 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
