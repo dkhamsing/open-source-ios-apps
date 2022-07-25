@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1403-green.svg) ![](https://img.shields.io/badge/Updated-July%2024,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1402-green.svg) ![](https://img.shields.io/badge/Updated-July%2025,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2629,8 +2629,8 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png'>`Screenshot 1`</a>  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png'>`Screenshot 2`</a>  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/SearchScreenSS.png'>`Screenshot 3`</a> 
   -  `2022`   `swift` `core-data` `alamofire` `tmdb` 
   -  ☆`3` 
-- [Reading List](https://github.com/AndrewBennet/readinglist): Track personal reading lists
-  - [` App Store`](https://apps.apple.com/app/reading-list-a-book-tracking-log/id1217139955)
+- [Reading List](https://github.com/AndrewBennet/ReadingListV1): Track personal reading lists
+  - [` App Store`](https://apps.apple.com/app/reading-list-a-book-tracking-log/id1217139955) <a href='https://raw.githubusercontent.com/AndrewBennet/ReadingListV1/master/media/iPhone%20X-0_ToReadList_framed.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `iphone` `ipad` `core-data` 
   -  ☆`292` 
 - [RealmVideo](https://github.com/BalestraPatrick/RealmVideo): Watch Realm videos & slides
@@ -4032,10 +4032,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://i.imgur.com/V3kaLaC.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` 
   -  ☆`526` 
-- [ReadingList](https://github.com/AndrewBennet/ReadingList): Track personal reading lists
-  - [` App Store`](https://apps.apple.com/app/reading-list-book-log/id1217139955) <a href='https://github.com/AndrewBennet/ReadingList/raw/master/media/iPhone%20X-0_ToReadList_framed.png'>`Screenshot 1`</a> 
-  -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `storyboard` `eureka` `firebase` 
-  -  ☆`292` 
 - [Recipes](https://github.com/onmyway133/Recipes)
   -  <a href='https://github.com/onmyway133/Recipes/raw/master/Screenshots/Home.png'>`Screenshot 1`</a> 
   -  `2020`   `swift` 
