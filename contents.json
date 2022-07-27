@@ -28943,6 +28943,19 @@
       "homepage": "https://twitter.com/ryanlintott/status/1548445717257064448",
       "date_added": "Jul 24 2022",
       "suggested_by": "@dkhamsing"
-    }
+    },
+{
+	"title": "Domination",
+	"category-ids": ["game"],
+	"description": "Clone of the classic board game Risk using MOE https://multi-os-engine.org",
+	"source": "https://sf.net/p/domination/code/HEAD/tree/Domination/",
+	"homepage": "http://risk.sf.net",
+	"itunes": "https://apps.apple.com/app/id1602913079",
+	"license": "gpl-3.0",
+	"tags": ["java"],
+	"screenshots": ["http://domination.sf.net/screenshots/ss_tegmap.png"],
+	"date_added": "Jul 26 2022",
+	"suggested_by": "@sdyura"
+}    
   ]
 }
