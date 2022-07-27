@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **319** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **320** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -765,6 +765,10 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/canabalt/id333180061) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/78/82/60/7882603c-0d25-3271-d06a-57dc1e530022/mzl.jftzbyvq.png/626x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/54/77/7c/54777cc6-b75c-0b28-7d85-f65058d25d7b/mzl.zsmgxukm.png/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/c0/0a/a1/c00aa1ce-5094-844c-c25d-cad116ac87e0/mzl.hiakjhrh.png/626x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/98/3f/8c/983f8ceb-23d9-c814-df66-7559d660ccb7/mzl.cwuvjojf.png/626x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a4/22/6b/a4226b93-fd23-b8a1-4eb6-713625f9bb25/mzl.tincqlgv.png/626x0w.jpg'>`Screenshot 5`</a> 
   -  `2011`   `objc` 
   -  ☆`1576` 
+- [Domination](https://sf.net/p/domination/code/HEAD/tree/Domination/): Clone of the classic board game Risk using MOE https://multi-os-engine.org
+  - <a href=http://risk.sf.net>`http://risk.sf.net`</a>
+  - [` App Store`](https://apps.apple.com/app/id1602913079) <a href='http://domination.sf.net/screenshots/ss_tegmap.png'>`Screenshot 1`</a> 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `java` 
 - [DOOM Classic 2](https://github.com/id-Software/DOOM-IOS2)
   - [` App Store`](https://apps.apple.com/app/doom-ii-rpg/id354051766) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/44/e6/90/mzl.phnmwflb.png/626x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple/10/9a/3d/mzl.npolzzhp.png/626x0w.png'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/d5/81/f5/mzl.upixgdwf.png/626x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple/95/05/2f/mzl.bntcgfqi.png/626x0w.png'>`Screenshot 4`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/c3/f9/35/mzl.ucjimflu.png/626x0w.png'>`Screenshot 5`</a> 
   -  `2016`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` 
