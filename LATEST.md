@@ -44,7 +44,7 @@
 7. [Padlock](https://github.com/padloc/padloc)
 8. [Telegram](https://github.com/TelegramMessenger/Telegram-iOS)
 9. [Nextcloud](https://github.com/nextcloud/ios)
-10. [Status](https://github.com/status-im/status-react)
+10. [Status](https://github.com/status-im/status-mobile)
 11. [Expo Client](https://github.com/expo/expo)
 12. [Wire](https://github.com/wireapp/wire-ios)
 13. [Bitwarden](https://github.com/bitwarden/mobile)
