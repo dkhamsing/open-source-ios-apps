@@ -2,7 +2,7 @@
 
 ## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
-1. [Domination](https://sf.net/p/domination/code/HEAD/tree/Domination/)
+1. [Domination](https://sourceforge.net/projects/domination/)
 2. [Overcast drawer animation](https://github.com/ryanlintott/OvercastDrawer)
 3. [ProgressGif](https://github.com/aheze/ProgressGif)
 4. [Parallax-Card-SwiftUI](https://github.com/neodroid/Parallax-Card-SwiftUI)
