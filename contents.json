@@ -28948,7 +28948,7 @@
 	"title": "Domination",
 	"category-ids": ["game"],
 	"description": "Clone of the classic board game Risk using MOE https://multi-os-engine.org",
-	"source": "https://sf.net/p/domination/code/HEAD/tree/Domination/",
+	"source": "https://sourceforge.net/projects/domination/",
 	"homepage": "http://risk.sf.net",
 	"itunes": "https://apps.apple.com/app/id1602913079",
 	"license": "gpl-3.0",
