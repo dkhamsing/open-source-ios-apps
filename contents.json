@@ -1696,10 +1696,10 @@
         "communication"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Secures all messages with end-to-end encryption",
-      "source": "https://github.com/surespot/surespot-ios",
+      "source": "https://github.com/opensourceios/surespot-ios",
       "itunes": "https://apps.apple.com/app/surespot/id790314865",
       "stars": 69,
       "license": "gpl-3.0",
