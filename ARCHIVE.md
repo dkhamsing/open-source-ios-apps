@@ -310,6 +310,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Sudoku](https://github.com/christopherdro/react-native-sudoku)
 - [SudokuResolv](https://github.com/Haoest/SudokuResolv)
 - [Superday](https://github.com/opensourceios/superday)
+- [surespot](https://github.com/opensourceios/surespot-ios)
 - [Swiflytics](https://github.com/aciidb0mb3r/Swiflytics)
 - [Swift Off](https://github.com/opensourceios/swift-off-todo)
 - [Swift-Gif](https://github.com/pjchavarria/Swift-Gif)
