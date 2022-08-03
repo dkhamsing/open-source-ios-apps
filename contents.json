@@ -28969,6 +28969,20 @@
       "updated": "2022-07-17 10:39:46 UTC"
     },
     {
+            "title": "Switcher",
+            "category-ids": ["swiftui", "keyboard"],
+            "description": "A lightweight application to prevent keypress by mistake",
+            "source": "https://github.com/tkgka/switcher",
+            "tags": [
+            "swift",
+            "swiftui"
+            ],
+            "screenshots": ["https://user-images.githubusercontent.com/52348220/150669417-04c33fc1-5780-4627-abf4-359eaa5a333c.gif"],
+            "date_added": "Aug 3 2022",
+            "suggested_by": "@tkgka"
+            "stars": 34,
+    },   
+    {
       "title": "Domination",
       "category-ids": [
         "game"
