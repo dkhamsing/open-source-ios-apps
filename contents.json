@@ -28986,6 +28986,21 @@
       ],
       "date_added": "Jul 26 2022",
       "suggested_by": "@sdyura"
+    },
+    {
+      "title": "MeWeather",
+      "category-ids": [
+        "weather"
+      ],
+      "tags": [
+        "swift",
+        "openweathermap"
+      ],
+      "screenshots": ["https://user-images.githubusercontent.com/80169743/181288499-3e0c2e95-cdf7-4388-8acd-464b1ac2ecb2.jpg"],
+      "license": "other",
+      "source": "https://github.com/meggsila/MeWeather",
+      "date_added": "Aug 3 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
