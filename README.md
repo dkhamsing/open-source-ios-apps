@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1404-green.svg) ![](https://img.shields.io/badge/Updated-August%20%205,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1404-green.svg) ![](https://img.shields.io/badge/Updated-August%20%206,%202022-lightgrey.svg)
 
 Jump to
 
@@ -655,7 +655,7 @@ Jump to
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `firebase` `lottie` `mapbox` 
   -  ☆`563` 
 - [Messenger](https://github.com/relatedcode/Messenger): Audio/video calls, realtime chat & full offline support
-  -  <a href='https://related.chat/messenger/01x.png'>`Screenshot 1`</a>  <a href='https://related.chat/messenger/02x.png'>`Screenshot 2`</a> 
+  -  <a href='https://user-images.githubusercontent.com/4723115/183111668-70d3f114-bd84-4af7-9633-9e5fc09f1188.png'>`Screenshot 1`</a> 
   -  `2022`   `swift` `graphql` 
   -  ☆`4377` 
 - [Messenger Clone](https://github.com/instamobile/messenger-iOS-chat-swift-firestore): Real-time chat
@@ -4173,7 +4173,7 @@ https://firebase.google.com/ — [back to top](#readme)
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `parse` `firebase` `realm` 
   -  ☆`21` 
 - [Messenger](https://github.com/relatedcode/Messenger): Audio/video calls, realtime chat & full offline support
-  -  <a href='https://related.chat/messenger/01x.png'>`Screenshot 1`</a>  <a href='https://related.chat/messenger/02x.png'>`Screenshot 2`</a> 
+  -  <a href='https://user-images.githubusercontent.com/4723115/183111668-70d3f114-bd84-4af7-9633-9e5fc09f1188.png'>`Screenshot 1`</a> 
   -  `2022`   `swift` `graphql` 
   -  ☆`4377` 
 - [Potter Pics](https://github.com/surayashivji/potter-pics): Harry Potter themed social network similar to Instagram
