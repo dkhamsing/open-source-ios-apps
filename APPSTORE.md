@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **319** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **320** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -869,6 +869,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/good-spirits/id1434237439) <a href='https://github.com/archagon/good-spirits/raw/master/screen1.png'>`Screenshot 1`</a>  <a href='https://github.com/archagon/good-spirits/raw/master/screen2.png'>`Screenshot 2`</a>  <a href='https://github.com/archagon/good-spirits/raw/master/screen3.png'>`Screenshot 3`</a> 
   -  `2018`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `healthkit` 
   -  ☆`172` 
+- [Migraine Log](https://gitlab.com/zerodogg/org.zerodogg.migraineLog): A headache diary that respects your privacy
+  - <a href=https://migrainelog.zerodogg.org>`https://migrainelog.zerodogg.org`</a>
+  - [` App Store`](https://apps.apple.com/app/migraine-log/id1636946550) <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/1-iPhone%2013%20Pro%20Max.png'>`Screenshot 1`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/2-iPhone%2013%20Pro%20Max.png'>`Screenshot 2`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/3-iPhone%2013%20Pro%20Max.png'>`Screenshot 3`</a> 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) 
 - [MyWeight History](https://github.com/diogot/MyWeight): Body mass tracker with easy data input & access to history
   - [` App Store`](https://apps.apple.com/app/myweight-history/id1098061879) <a href='https://user-images.githubusercontent.com/4723115/146957241-b8b43b10-1132-472d-8fb7-b95afdf0cfc0.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
