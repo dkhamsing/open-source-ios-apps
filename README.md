@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1405-green.svg) ![](https://img.shields.io/badge/Updated-August%20%208,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1405-green.svg) ![](https://img.shields.io/badge/Updated-August%20%209,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1979,7 +1979,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - [Migraine Log](https://gitlab.com/zerodogg/org.zerodogg.migraineLog): A headache diary that respects your privacy
   - <a href=https://migrainelog.zerodogg.org>`https://migrainelog.zerodogg.org`</a>
   - [` App Store`](https://apps.apple.com/app/migraine-log/id1636946550) <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/1-iPhone%2013%20Pro%20Max.png'>`Screenshot 1`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/2-iPhone%2013%20Pro%20Max.png'>`Screenshot 2`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/3-iPhone%2013%20Pro%20Max.png'>`Screenshot 3`</a> 
-  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) 
+  -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` `dart` 
 - [MyWeight History](https://github.com/diogot/MyWeight): Body mass tracker with easy data input & access to history
   - [` App Store`](https://apps.apple.com/app/myweight-history/id1098061879) <a href='https://user-images.githubusercontent.com/4723115/146957241-b8b43b10-1132-472d-8fb7-b95afdf0cfc0.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
