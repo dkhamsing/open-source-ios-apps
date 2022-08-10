@@ -29026,14 +29026,11 @@
     {
         "title": "Skiff Mail",
         "category-ids": ["communication"],
-        "description": "Encrypted & Decentralized Email -- available on web, iOS/Android, and macOS.",
+        "description": "Encrypted & Decentralized Email",
         "source": "https://github.com/skiff-org/skiff-mail",
         "homepage": "https://skiff.com/mail",
         "itunes": "https://apps.apple.com/app/id1619168801",		
         "license": "other",
-        "lang": "en",     
-        "stars": 182,     
-        "tags": [""],
         "screenshots": [
           "https://user-images.githubusercontent.com/1927690/166390238-fe78fedd-41c6-48ee-a4c5-efcb3f1cfa78.png",
           "https://user-images.githubusercontent.com/1927690/166291826-bf21933f-f637-4756-9951-ac5a1e69be0f.png"
