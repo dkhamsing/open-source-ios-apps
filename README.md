@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1405-green.svg) ![](https://img.shields.io/badge/Updated-August%20%209,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1406-green.svg) ![](https://img.shields.io/badge/Updated-August%2010,%202022-lightgrey.svg)
 
 Jump to
 
@@ -694,6 +694,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id874139669) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/62/68/576268bf-3474-99e7-2621-adbf2438b3ce/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/d3/7a/b8d37a2b-3ecc-8775-3ce1-534d0adc2904/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/11/82/fc/1182fc57-5a43-4403-1048-47735d0a75f7/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/65/78/39/6578398d-7204-d380-cf59-783acd3fa859/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `objc` `iphone` `carthage` `socketrocket` `purelayout` `openssl` 
   -  ☆`9372` 
+- [Skiff Mail](https://github.com/skiff-org/skiff-mail): Encrypted & Decentralized Email
+  - <a href=https://skiff.com/mail>`https://skiff.com/mail`</a>
+  - [` App Store`](https://apps.apple.com/app/id1619168801) <a href='https://user-images.githubusercontent.com/1927690/166390238-fe78fedd-41c6-48ee-a4c5-efcb3f1cfa78.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/1927690/166291826-bf21933f-f637-4756-9951-ac5a1e69be0f.png'>`Screenshot 2`</a> 
+  -   
 - [Spika](https://github.com/cloverstudio/Spika): Cross-platform messenger module
   - <a href=https://spika.business/>`https://spika.business/`</a>
   -  <a href='https://github.com/cloverstudio/Spika/raw/master/spika_demo_new.gif'>`Screenshot 1`</a> 
