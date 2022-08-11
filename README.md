@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1406-green.svg) ![](https://img.shields.io/badge/Updated-August%2010,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1406-green.svg) ![](https://img.shields.io/badge/Updated-August%2011,%202022-lightgrey.svg)
 
 Jump to
 
@@ -697,7 +697,7 @@ Jump to
 - [Skiff Mail](https://github.com/skiff-org/skiff-mail): Encrypted & Decentralized Email
   - <a href=https://skiff.com/mail>`https://skiff.com/mail`</a>
   - [` App Store`](https://apps.apple.com/app/id1619168801) <a href='https://user-images.githubusercontent.com/1927690/166390238-fe78fedd-41c6-48ee-a4c5-efcb3f1cfa78.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/1927690/166291826-bf21933f-f637-4756-9951-ac5a1e69be0f.png'>`Screenshot 2`</a> 
-  -   
+  -   `typescript` 
 - [Spika](https://github.com/cloverstudio/Spika): Cross-platform messenger module
   - <a href=https://spika.business/>`https://spika.business/`</a>
   -  <a href='https://github.com/cloverstudio/Spika/raw/master/spika_demo_new.gif'>`Screenshot 1`</a> 
