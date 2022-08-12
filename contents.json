@@ -29009,7 +29009,7 @@
         "tags": [
           "flutter",
           "dart"
-        ],        
+        ],
         "description": "A headache diary that respects your privacy",
         "screenshots": [
             "https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/1-iPhone%2013%20Pro%20Max.png",
@@ -29029,7 +29029,7 @@
         "description": "Encrypted & Decentralized Email",
         "source": "https://github.com/skiff-org/skiff-mail",
         "homepage": "https://skiff.com/mail",
-        "itunes": "https://apps.apple.com/app/id1619168801",		
+        "itunes": "https://apps.apple.com/app/id1619168801",
         "license": "other",
         "screenshots": [
           "https://user-images.githubusercontent.com/1927690/166390238-fe78fedd-41c6-48ee-a4c5-efcb3f1cfa78.png",
