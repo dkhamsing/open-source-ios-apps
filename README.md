@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1406-green.svg) ![](https://img.shields.io/badge/Updated-August%2011,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1407-green.svg) ![](https://img.shields.io/badge/Updated-August%2016,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5137,6 +5137,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [Portfolio](https://github.com/bastienFalcou/Portfolio): Use MVI (Model View Intent) to keep track of your portfolio over time
   -  `2021`   `swift` `swiftui` `combine` `mvi` `model-view-intent` 
   -  ☆`5` 
+- [Purposeful Animations](https://github.com/GetStream/purposeful-ios-animations)
+  -   `swift` `swiftui` 
+  -  ☆`167` 
 - [RealityKitLaunchScreen](https://github.com/aheze/RealityKitLaunchScreen): Launch screen made with SwiftUI and RealityKit
   -  <a href='https://raw.githubusercontent.com/aheze/RealityKitLaunchScreen/main/Screenshot.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
