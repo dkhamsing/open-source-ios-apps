@@ -29040,6 +29040,21 @@
         ],
         "date_added": "Aug 10 2022",
         "suggested_by": "@ollybeck"
+    },
+    {
+      "title": "Purposeful Animations",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "other",
+      "source": "https://github.com/GetStream/purposeful-ios-animations",
+      "date_added": "Aug 16 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 167
     }
   ]
 }
