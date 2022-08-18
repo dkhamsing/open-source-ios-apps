@@ -24510,7 +24510,7 @@
       ],
       "source": "https://github.com/utmapp/UTM",
       "screenshots": [
-        "https://github.com/utmapp/UTM/raw/master/screen.png"
+        "https://raw.githubusercontent.com/utmapp/UTM/main/screen.png"
       ],
       "license": "mit",
       "tags": [
