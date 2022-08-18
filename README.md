@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1407-green.svg) ![](https://img.shields.io/badge/Updated-August%2016,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1407-green.svg) ![](https://img.shields.io/badge/Updated-August%2018,%202022-lightgrey.svg)
 
 Jump to
 
@@ -903,7 +903,7 @@ Jump to
   -  `2022`   `swift` 
   -  ☆`2070` 
 - [UTM](https://github.com/utmapp/UTM): Virtual machines
-  -  <a href='https://github.com/utmapp/UTM/raw/master/screen.png'>`Screenshot 1`</a> 
+  -  <a href='https://raw.githubusercontent.com/utmapp/UTM/main/screen.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`13732` 
 - [WWDCast](https://github.com/sgl0v/WWDCast): The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast
