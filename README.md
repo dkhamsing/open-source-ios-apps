@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1407-green.svg) ![](https://img.shields.io/badge/Updated-August%2018,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1408-green.svg) ![](https://img.shields.io/badge/Updated-August%2019,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4643,6 +4643,10 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  <a href='https://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen1.png'>`Screenshot 1`</a>  <a href='https://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen2.png'>`Screenshot 2`</a>  <a href='https://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen3.png'>`Screenshot 3`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `react native` 
   -  ☆`92` 
+- [Wordnote](https://github.com/zehfernandes/wordnote): The fast way to check a word definition
+  - [` App Store`](https://apps.apple.com/app/wordnote-dictionary/id1596537633) <a href='https://www.wordnote.app/assets/polish.png'>`Screenshot 1`</a> 
+  -   `expo` `react-native` 
+  -  ☆`541` 
 - [WWDC Family React Native](https://github.com/wwdc-family/app): Easily connect with fellow developers during WWDC
   -  <a href='https://raw.githubusercontent.com/wwdc-family/app/master/design/Screenshot1.png'>`Screenshot 1`</a> 
   -  `2019`   `react-native` 
