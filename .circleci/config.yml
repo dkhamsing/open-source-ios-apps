@@ -70,8 +70,8 @@ jobs:
         - ~/.cache/bower
     - run: ruby .github/osia_convert.rb
     - run: ./.github/deploy.sh
-    - run: gem install delete_my_tweets
-    - run: ruby .github/osia_tweet_clean.rb
+#     - run: gem install delete_my_tweets
+#     - run: ruby .github/osia_tweet_clean.rb
 workflows:
   version: 2
   osia:
