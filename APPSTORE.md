@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **321** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **322** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1988,6 +1988,10 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rainbow-ethereum-wallet/id1457119021) <a href='https://user-images.githubusercontent.com/4723115/139700145-bb518aef-a815-421b-a504-1f2646ed32bc.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/4723115/139700159-5ac0f3cc-8ecf-4b56-a020-e5e848d460e3.png'>`Screenshot 2`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `reactnative` `typescript` 
   -  ☆`2828` 
+- [Wordnote](https://github.com/zehfernandes/wordnote): The fast way to check a word definition
+  - [` App Store`](https://apps.apple.com/app/wordnote-dictionary/id1596537633) <a href='https://www.wordnote.app/assets/polish.png'>`Screenshot 1`</a> 
+  -   `expo` `react-native` 
+  -  ☆`541` 
 - [Öppna Skolplattformen](https://github.com/kolplattformen/skolplattformen): For parents to check child information using the city of Stockholm's school platform
   - [` App Store`](https://apps.apple.com/se/app/öppna-skolplattformen/id1543853468) <a href='https://github.com/kolplattformen/skolplattformen/raw/main/apps/website/assets/img/screenshots/screenshot_login.png'>`Screenshot 1`</a> 
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `react-native` 
