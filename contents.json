@@ -29055,6 +29055,24 @@
       "date_added": "Aug 16 2022",
       "suggested_by": "@dkhamsing",
       "stars": 167
+    },
+    {
+      "title": "Wordnote",
+      "description": "The fast way to check a word definition",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "expo",
+        "react-native"
+      ],
+      "screenshots": ["https://www.wordnote.app/assets/polish.png"],
+      "license": "other",
+      "source": "https://github.com/zehfernandes/wordnote",
+      "itunes": "https://apps.apple.com/app/wordnote-dictionary/id1596537633",
+      "date_added": "Aug 19 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 541
     }
   ]
 }
