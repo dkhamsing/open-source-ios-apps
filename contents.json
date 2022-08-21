@@ -29073,6 +29073,20 @@
       "date_added": "Aug 19 2022",
       "suggested_by": "@dkhamsing",
       "stars": 541
+    },
+    {
+      "title": "BudgetApp",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "other",
+      "source": "https://github.com/azamsharp/BudgetApp",
+      "date_added": "Aug 21 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
