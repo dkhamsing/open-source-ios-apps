@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1408-green.svg) ![](https://img.shields.io/badge/Updated-August%2019,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1409-green.svg) ![](https://img.shields.io/badge/Updated-August%2021,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4884,6 +4884,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [Broadcast](https://github.com/daneden/Broadcast): Write-only Twitter client
   -  `2022`   `swift` `swiftui` 
   -  ☆`35` 
+- [BudgetApp](https://github.com/azamsharp/BudgetApp)
+  -   `swift` `swiftui` 
 - [buttoncraft](https://github.com/atrinh0/buttoncraft): Craft that perfect button style
   -  <a href='https://github.com/atrinh0/buttoncraft/raw/master/images/demo.gif'>`Screenshot 1`</a> 
   -  `2022`   `swift` `swiftui` 
