@@ -29087,6 +29087,22 @@
       "source": "https://github.com/azamsharp/BudgetApp",
       "date_added": "Aug 21 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "InfiniteListSwiftUI",
+      "description": "Paginated endless scroll",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "combine"
+      ],
+      "license": "other",
+      "source": "https://github.com/V8tr/InfiniteListSwiftUI",
+      "date_added": "Aug 22 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
