@@ -26090,7 +26090,7 @@
         "swift"
       ],
       "description": "Simple budgeting",
-      "source": "https://github.com/danielmgauthier/bandit-hat-budget",
+      "source": "https://github.com/opensourceios/bandit-hat-budget",
       "license": "other",
       "date_added": "Apr 20 2021",
       "suggested_by": "@dkhamsing",
