@@ -26087,7 +26087,7 @@
         "finance"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "Simple budgeting",
       "source": "https://github.com/opensourceios/bandit-hat-budget",
