@@ -29087,6 +29087,26 @@
       "source": "https://github.com/azamsharp/BudgetApp",
       "date_added": "Aug 21 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "PeopleInSpace",
+      "description": "List of people currently in space",
+      "category-ids": [
+        "misc"
+      ],
+      "source": "https://github.com/joreilly/PeopleInSpace",
+      "license": "other",
+      "tags": [
+        "kmm",
+        "kotlin",
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://user-images.githubusercontent.com/6302/109386736-ac1f0700-78f4-11eb-812e-4bf971a8c2a7.png"
+      ],
+      "date_added": "Auf 25 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 2000
     }
   ]
 }
