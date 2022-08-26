@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1410-green.svg) ![](https://img.shields.io/badge/Updated-August%2025,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1411-green.svg) ![](https://img.shields.io/badge/Updated-August%2026,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4905,6 +4905,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [Clubhouse clone](https://github.com/FranckNdame/swiftui.builds)
   -  `2022`   `swift` `swiftui` 
   -  ☆`547` 
+- [Cocktails](https://github.com/joforsell/Cocktails): Take home assignment for an interview process
+  -   `swift` `swiftui` 
 - [Corona Virus Tracker & Advice](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI)
   -  <a href='https://raw.githubusercontent.com/alfianlosari/CoronaVirusTrackerSwiftUI/master/promo.jpg'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
