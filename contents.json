@@ -29107,6 +29107,21 @@
       "date_added": "Auf 25 2022",
       "suggested_by": "@dkhamsing",
       "stars": 2000
+    },
+    {
+      "title": "Cocktails",
+      "description": "Take home assignment for an interview process",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "other",
+      "source": "https://github.com/joforsell/Cocktails",
+      "date_added": "Aug 26 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
