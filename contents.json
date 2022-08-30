@@ -29119,6 +29119,20 @@
       "source": "https://github.com/joforsell/Cocktails",
       "date_added": "Aug 26 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "TelemetryViewer for TelemetryDeck",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "mit",
+      "source": "https://github.com/TelemetryDeck/TelemetryViewer",
+      "date_added": "Aug 30 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
