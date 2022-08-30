@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1411-green.svg) ![](https://img.shields.io/badge/Updated-August%2028,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1412-green.svg) ![](https://img.shields.io/badge/Updated-August%2030,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5282,6 +5282,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [Tap It](https://github.com/nikitamounier/tapit-app): Share social media info by putting a phone on top of another
   -  `2022`   `swift` `swiftui` `combine` `sourcery` 
   -  ☆`19` 
+- [TelemetryViewer for TelemetryDeck](https://github.com/TelemetryDeck/TelemetryViewer)
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
 - [Tell Time UK](https://github.com/renaudjenny/telltime): Tell time in British English
   - [` App Store`](https://apps.apple.com/app/tell-time-uk/id1496541173) <a href='https://i.imgur.com/aidCkq1.png'>`Screenshot 1`</a> 
   -  `2022`   `swift` 
