@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **322** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **323** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -537,6 +537,10 @@ Jump to
 [back to top](#readme) 
  
 
+- [Droidcon Events using Kotlin Multiplatfom](https://github.com/touchlab/DroidconKotlin)
+  - [` App Store`](https://apps.apple.com/app/droidcon-nyc-2019/id1477469914) <a href='https://user-images.githubusercontent.com/4723115/141655128-e94c9cc9-3e69-427f-b1a6-79b1a8197f60.jpeg'>`Screenshot 1`</a> 
+  -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `kotlin` 
+  -  ☆`524` 
 - [OpenStack Foundation Summit](https://github.com/OpenStack-mobile/summit-app-ios)
   - [` App Store`](https://apps.apple.com/app/openstack-foundation-summit/id1071261846) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7d/ff/a9/7dffa970-0332-eb92-b625-601e1130da99/pr_source.png/460x0w.png'>`Screenshot 1`</a> 
   -  `2019` `swift` 
