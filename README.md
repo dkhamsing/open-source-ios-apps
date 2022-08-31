@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1412-green.svg) ![](https://img.shields.io/badge/Updated-August%2030,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1412-green.svg) ![](https://img.shields.io/badge/Updated-August%2031,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1193,9 +1193,9 @@ Jump to
 [back to top](#readme) 
  
 
-- [Droidcon Events](https://github.com/touchlab/DroidconKotlin)
-  -  <a href='https://user-images.githubusercontent.com/4723115/141655128-e94c9cc9-3e69-427f-b1a6-79b1a8197f60.jpeg'>`Screenshot 1`</a> 
-  -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `kmm` `kotlin` 
+- [Droidcon Events using Kotlin Multiplatfom](https://github.com/touchlab/DroidconKotlin)
+  - [` App Store`](https://apps.apple.com/app/droidcon-nyc-2019/id1477469914) <a href='https://user-images.githubusercontent.com/4723115/141655128-e94c9cc9-3e69-427f-b1a6-79b1a8197f60.jpeg'>`Screenshot 1`</a> 
+  -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `kotlin` 
   -  ☆`524` 
 - [EventBlankApp](https://github.com/icanzilb/EventBlankApp): Template for event / conference
   -  <a href='https://i.imgur.com/FfNizrW.png'>`Screenshot 1`</a> 
