@@ -27146,16 +27146,16 @@
       "updated": "2022-02-24 09:24:55 UTC"
     },
     {
-      "title": "Droidcon Events",
+      "title": "Droidcon Events using Kotlin Multiplatfom",
       "category-ids": [
         "event"
       ],
       "tags": [
-        "kmm",
         "kotlin"
       ],
       "license": "apache-2.0",
       "source": "https://github.com/touchlab/DroidconKotlin",
+      "itunes": "https://apps.apple.com/app/droidcon-nyc-2019/id1477469914",
       "date_added": "Nov 13 2021",
       "suggested_by": "@dkhamsing",
       "screenshots": [
