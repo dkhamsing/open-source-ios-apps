@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1412-green.svg) ![](https://img.shields.io/badge/Updated-September%20%201,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1413-green.svg) ![](https://img.shields.io/badge/Updated-September%20%202,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3166,6 +3166,8 @@ https://newsapi.org/ — [back to top](#readme)
 - [30 mini Swift Apps for self-study](https://github.com/soapyigu/Swift-30-Projects)
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`7265` 
+- [ApnsSample](https://github.com/PaulaScholz/ApnsSample): Shows how to use the Apple Push Notification service (APNs)
+  -   `swift` `apns` `ios12` 
 - [Apple Developer Library](https://developer.apple.com/library/archive/navigation/)
   -   `objc` 
 - [Apple WWDC 2021](https://developer.apple.com/sample-code/wwdc/2021/): Sample code referenced in WWDC21 session videos
