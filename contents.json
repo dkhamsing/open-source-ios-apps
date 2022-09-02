@@ -29154,6 +29154,22 @@
       "suggested_by": "@dkhamsing",
       "stars": 42,
       "updated": "2022-08-26 08:39:31 UTC"
+    },
+    {
+      "title": "ApnsSample",
+      "description": "Shows how to use the Apple Push Notification service (APNs)",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift",
+        "apns",
+        "ios12"
+      ],
+      "license": "other",
+      "source": "https://github.com/PaulaScholz/ApnsSample",
+      "date_added": "Sep 2 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
