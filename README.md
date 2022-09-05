@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1413-green.svg) ![](https://img.shields.io/badge/Updated-September%20%202,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1414-green.svg) ![](https://img.shields.io/badge/Updated-September%20%205,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5120,6 +5120,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://dl.airtable.com/.attachmentThumbnails/87909068b484180426674d0c537c778f/c8597d6a'>`Screenshot 1`</a> 
   -  `2022`   `swift` `swiftui` 
   -  ☆`2852` 
+- [OnlineStoreTCA](https://github.com/pitt500/OnlineStoreTCA): Online Store made with The Composable Architecture (TCA)
+  -  <a href='https://raw.githubusercontent.com/pitt500/OnlineStoreTCA/main/Images/demo1.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `tca` 
 - [OpenSesame](https://github.com/OpenSesameManager/OpenSesame): Native and encrypted password manager
   -  <a href='https://github.com/OpenSesameManager/OpenSesame/blob/main/Images/All.png?raw=true'>`Screenshot 1`</a> 
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `macos` 
