@@ -29170,6 +29170,23 @@
       "source": "https://github.com/PaulaScholz/ApnsSample",
       "date_added": "Sep 2 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "OnlineStoreTCA",
+      "description": "Online Store made with The Composable Architecture (TCA)",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "tca"
+      ],
+      "screenshots": ["https://raw.githubusercontent.com/pitt500/OnlineStoreTCA/main/Images/demo1.png"],
+      "license": "mit",
+      "source": "https://github.com/pitt500/OnlineStoreTCA",
+      "date_added": "Sep 5 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
