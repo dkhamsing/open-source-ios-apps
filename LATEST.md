@@ -2,11 +2,11 @@
 
 ## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
-1. [PeopleInSpace](https://github.com/joreilly/PeopleInSpace)
-2. [OnlineStoreTCA](https://github.com/pitt500/OnlineStoreTCA)
-3. [ApnsSample](https://github.com/PaulaScholz/ApnsSample)
-4. [TelemetryViewer for TelemetryDeck](https://github.com/TelemetryDeck/TelemetryViewer)
-5. [Cocktails](https://github.com/joforsell/Cocktails)
+1. [OnlineStoreTCA](https://github.com/pitt500/OnlineStoreTCA)
+2. [ApnsSample](https://github.com/PaulaScholz/ApnsSample)
+3. [TelemetryViewer for TelemetryDeck](https://github.com/TelemetryDeck/TelemetryViewer)
+4. [Cocktails](https://github.com/joforsell/Cocktails)
+5. [PeopleInSpace](https://github.com/joreilly/PeopleInSpace)
 6. [BudgetApp](https://github.com/azamsharp/BudgetApp)
 7. [Wordnote](https://github.com/zehfernandes/wordnote)
 8. [Purposeful Animations](https://github.com/GetStream/purposeful-ios-animations)
