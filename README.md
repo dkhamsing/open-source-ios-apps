@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1414-green.svg) ![](https://img.shields.io/badge/Updated-September%20%207,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1415-green.svg) ![](https://img.shields.io/badge/Updated-September%2012,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4984,6 +4984,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/fromkk/FreeTimePicker/raw/master/images/search.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` 
   -  ☆`39` 
+- [friendlyeats](https://github.com/firebase/friendlyeats-ios)
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `firebase` `firestore` 
 - [Fruta](https://developer.apple.com/documentation/app_clips/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an App Clip - WWDC 2020 and WWDC 2021 sample code by Apple
   -   `swift` `ios14` `ios15` `widgetkit` `macos` `app-clip` 
 - [FTC Scorer - Skystone](https://github.com/Pondorasti/StonkScorer): Score practice matches
