@@ -29189,9 +29189,9 @@
       "suggested_by": "@dkhamsing"
     },
     {
-      "title": "friendlyeats",
+      "title": "FriendlyEats for Cloud Firestore",
       "category-ids": [
-        "swiftui"
+        "sample"
       ],
       "tags": [
         "swift",
