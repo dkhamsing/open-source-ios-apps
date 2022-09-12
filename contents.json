@@ -29187,6 +29187,21 @@
       "source": "https://github.com/pitt500/OnlineStoreTCA",
       "date_added": "Sep 5 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "friendlyeats",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "firebase",
+        "firestore"
+      ],
+      "license": "apache-2.0",
+      "source": "https://github.com/firebase/friendlyeats-ios",
+      "date_added": "Sep 11 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
