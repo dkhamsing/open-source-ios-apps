@@ -3210,6 +3210,8 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://i.imgur.com/MvyUmm8.gif'>`Screenshot 1`</a> 
   -  `2018`   `swift` `vision` 
   -  ☆`140` 
+- [FriendlyEats for Cloud Firestore](https://github.com/firebase/friendlyeats-ios)
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `firebase` `firestore` 
 - [GRDBCombine](https://github.com/groue/GRDBCombine): Set of extensions for SQLite, GRDB.swift, and Combine
   -  <a href='https://raw.githubusercontent.com/groue/GRDBCombine/master/Documentation/Demo/Screenshots/Demo1.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `combine` 
@@ -4984,8 +4986,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/fromkk/FreeTimePicker/raw/master/images/search.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` 
   -  ☆`39` 
-- [friendlyeats](https://github.com/firebase/friendlyeats-ios)
-  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `firebase` `firestore` 
 - [Fruta](https://developer.apple.com/documentation/app_clips/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an App Clip - WWDC 2020 and WWDC 2021 sample code by Apple
   -   `swift` `ios14` `ios15` `widgetkit` `macos` `app-clip` 
 - [FTC Scorer - Skystone](https://github.com/Pondorasti/StonkScorer): Score practice matches
