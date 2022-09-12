@@ -2,7 +2,7 @@
 
 ## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
-1. [friendlyeats](https://github.com/firebase/friendlyeats-ios)
+1. [FriendlyEats for Cloud Firestore](https://github.com/firebase/friendlyeats-ios)
 2. [OnlineStoreTCA](https://github.com/pitt500/OnlineStoreTCA)
 3. [ApnsSample](https://github.com/PaulaScholz/ApnsSample)
 4. [TelemetryViewer for TelemetryDeck](https://github.com/TelemetryDeck/TelemetryViewer)
