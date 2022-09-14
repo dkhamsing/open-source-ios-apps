@@ -12881,7 +12881,7 @@
         "developer"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://github.com/cyanzhong/retriever/raw/master/Screenshots/1.PNG",
@@ -13040,7 +13040,7 @@
         "calendar"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "stars": 782,
       "lang": "zho",
