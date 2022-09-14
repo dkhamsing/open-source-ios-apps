@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1415-green.svg) ![](https://img.shields.io/badge/Updated-September%2012,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1415-green.svg) ![](https://img.shields.io/badge/Updated-September%2014,%202022-lightgrey.svg)
 
 Jump to
 
@@ -430,10 +430,6 @@ Jump to
   -  <a href='https://github.com/airbnb/HorizonCalendar/raw/master/Docs/Images/stay_search.png'>`Screenshot 1`</a> 
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`2159` 
-- [LunarCore](https://github.com/cyanzhong/LunarCore): Small lunar calendar with Today Extension
-  -  <a href='https://github.com/cyanzhong/LunarCore/raw/master/iOS.png'>`Screenshot 1`</a> 
-  -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
-  -  ☆`782` 
 - [Malendar](https://github.com/croossin/Malendar): A redesigned calendar
   -  <a href='https://github.com/croossin/Malendar/raw/master/Images/MalendarStockPhoto.png'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
@@ -868,10 +864,6 @@ Jump to
   -  <a href='https://github.com/BalestraPatrick/RealmVideo/raw/master/Resources/demo.gif'>`Screenshot 1`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `iphone` 
   -  ☆`321` 
-- [Retriever](https://github.com/cyanzhong/Retriever): Get InfoPlist without jailbreak
-  -  <a href='https://github.com/cyanzhong/retriever/raw/master/Screenshots/1.PNG'>`Screenshot 1`</a>  <a href='https://github.com/cyanzhong/retriever/raw/master/Screenshots/2.PNG'>`Screenshot 2`</a> 
-  -  `2017`   `objc` 
-  -  ☆`994` 
 - [Review Time](https://github.com/nthegedus/ReviewTime): Shows average App Store review times
   -  <a href='https://github.com/nthegedus/ReviewTime/raw/master/Design/ReviewTime.png'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
@@ -1364,10 +1356,6 @@ Today Extensions or Widgets — [back to top](#readme)
   -  <a href='https://i.imgur.com/16yLR0l.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` `firebase` `alamofire` `swiftyjson` 
   -  ☆`114` 
-- [LunarCore](https://github.com/cyanzhong/LunarCore): Small lunar calendar with Today Extension
-  -  <a href='https://github.com/cyanzhong/LunarCore/raw/master/iOS.png'>`Screenshot 1`</a> 
-  -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
-  -  ☆`782` 
 - [News API apps](https://github.com/dkhamsing/news): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes tvOS app, Today widget
   -  <a href='https://github.com/dkhamsing/news/raw/main/Images/tvos.png'>`Screenshot 1`</a>  <a href='https://github.com/dkhamsing/news/raw/main/Images/facebook.png'>`Screenshot 2`</a>  <a href='https://github.com/dkhamsing/news/raw/main/Images/washingtonpost.png'>`Screenshot 3`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `tvos` `extension` 
