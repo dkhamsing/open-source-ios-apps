@@ -12875,7 +12875,7 @@
     },
     {
       "title": "Retriever",
-      "source": "https://github.com/cyanzhong/Retriever",
+      "source": "https://github.com/opensourceios/Retriever",
       "description": "Get InfoPlist without jailbreak",
       "category-ids": [
         "developer"
@@ -13031,7 +13031,7 @@
     {
       "title": "LunarCore",
       "description": "Small lunar calendar with Today Extension",
-      "source": "https://github.com/cyanzhong/LunarCore",
+      "source": "https://github.com/opensourceios/LunarCore",
       "screenshots": [
         "https://github.com/cyanzhong/LunarCore/raw/master/iOS.png"
       ],
