@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1415-green.svg) ![](https://img.shields.io/badge/Updated-September%2015,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1416-green.svg) ![](https://img.shields.io/badge/Updated-September%2017,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3192,6 +3192,9 @@ https://newsapi.org/ — [back to top](#readme)
 - [Custom View Controller Transitions](https://github.com/DreamingInBinary/Custom-ViewController-Transitions): Make custom view controller transitions in the most simple way possible
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`89` 
+- [Dynamic Islands](https://github.com/jordibruin/Dynamic-Islands)
+  -  <a href='https://user-images.githubusercontent.com/170948/190398276-91af47a8-239c-4190-8fef-3954bf4ac8fa.gif'>`Screenshot 1`</a> 
+  -   `swift` `swiftui` 
 - [Exploring SwiftUI Sample Apps by Apple](https://developer.apple.com/tutorials/sample-apps)
   -   `swift` 
 - [Face Landmarks Detection](https://github.com/mattlawer/FaceLandmarksDetection): Find facial features such as face contour, eyes, mouth and nose in an image
