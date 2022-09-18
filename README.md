@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1416-green.svg) ![](https://img.shields.io/badge/Updated-September%2017,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1417-green.svg) ![](https://img.shields.io/badge/Updated-September%2018,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3283,6 +3283,8 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://i.imgur.com/vaGCfA0.png'>`Screenshot 1`</a> 
   -  `2017`   `swift` `ios9` 
   -  ☆`485` 
+- [Sample for Async, Searchable, Live Activity and more](https://github.com/SwiftyAlex/Samples)
+  -   `swift` `swiftui` 
 - [Sample MVVM, Data Binding, Dependency Injection](https://github.com/igorkulman/iOSSampleApp)
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`617` 
