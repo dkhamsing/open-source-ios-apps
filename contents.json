@@ -29217,6 +29217,20 @@
       "source": "https://github.com/jordibruin/Dynamic-Islands",
       "date_added": "Sep 17 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Sample for Async, Searchable, Live Activity and more",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "other",
+      "source": "https://github.com/SwiftyAlex/Samples",
+      "date_added": "Sep 18 2022",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
