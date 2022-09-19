@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1417-green.svg) ![](https://img.shields.io/badge/Updated-September%2018,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1418-green.svg) ![](https://img.shields.io/badge/Updated-September%2019,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4260,6 +4260,10 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://i.imgur.com/A96Hdcr.png'>`Screenshot 1`</a> 
   -  `2021`   `flutter` `dart` 
   -  ☆`233` 
+- [Fluttergram](https://github.com/mdanics/fluttergram): Instagram clone using Flutter, Firebase, Firestore
+  -  <a href='https://user-images.githubusercontent.com/10066840/45931079-61844e00-bf36-11e8-80d5-e02f8123db59.gif'>`Screenshot 1`</a> 
+  -   `flutter` `dart` 
+  -  ☆`2100` 
 - [Fluttery Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy): Movies powered by tmdb
   -  <a href='https://github.com/ibhavikmakwana/Fluttery-Filmy/raw/master/screenshot/Fluttery_Filmy.gif'>`Screenshot 1`</a> 
   -  `2019`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `flutter` `dart` 
