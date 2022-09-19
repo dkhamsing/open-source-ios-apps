@@ -29231,6 +29231,23 @@
       "source": "https://github.com/SwiftyAlex/Samples",
       "date_added": "Sep 18 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Fluttergram",
+      "description": "Instagram clone using Flutter, Firebase, Firestore",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/mdanics/fluttergram",
+      "screenshots": ["https://user-images.githubusercontent.com/10066840/45931079-61844e00-bf36-11e8-80d5-e02f8123db59.gif"],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "other",
+      "date_added": "Sep 19 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 2100
     }
   ]
 }
