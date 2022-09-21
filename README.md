@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1418-green.svg) ![](https://img.shields.io/badge/Updated-September%2020,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1418-green.svg) ![](https://img.shields.io/badge/Updated-September%2021,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5137,7 +5137,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [Parallax-Card-SwiftUI](https://github.com/neodroid/Parallax-Card-SwiftUI)
   -  `2022`   `swift` `swiftui` 
   -  ☆`121` 
-- [PKDex](https://github.com/mzapatae/PKDex-iOS)
+- [PKDex](https://github.com/MaikCL/PKDex-iOS)
   -  `2021`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `combine` `mvi` `model-view-intent` 
   -  ☆`11` 
 - [Podcasts](https://github.com/albertopeam/Podcasts): Shows a list of podcasts that can be played, fetched from listennotes
