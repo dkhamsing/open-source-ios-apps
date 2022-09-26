@@ -29249,6 +29249,21 @@
       "date_added": "Sep 19 2022",
       "suggested_by": "@dkhamsing",
       "stars": 2100
+    },
+    {
+      "title": "Wallpaper",
+      "category-ids": [
+        "flutter"
+      ],
+      "source": "https://github.com/bimsina/wallpaper",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "license": "mit",
+      "date_added": "Sep 16 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 270
     }
   ]
 }
