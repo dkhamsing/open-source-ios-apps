@@ -2,10 +2,10 @@
 
 ## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
-1. [Fluttergram](https://github.com/mdanics/fluttergram)
-2. [Sample for Async, Searchable, Live Activity and more](https://github.com/SwiftyAlex/Samples)
-3. [Dynamic Islands](https://github.com/jordibruin/Dynamic-Islands)
-4. [Wallpaper](https://github.com/bimsina/wallpaper)
+1. [Wallpaper](https://github.com/bimsina/wallpaper)
+2. [Fluttergram](https://github.com/mdanics/fluttergram)
+3. [Sample for Async, Searchable, Live Activity and more](https://github.com/SwiftyAlex/Samples)
+4. [Dynamic Islands](https://github.com/jordibruin/Dynamic-Islands)
 5. [FriendlyEats for Cloud Firestore](https://github.com/firebase/friendlyeats-ios)
 6. [OnlineStoreTCA](https://github.com/pitt500/OnlineStoreTCA)
 7. [ApnsSample](https://github.com/PaulaScholz/ApnsSample)
