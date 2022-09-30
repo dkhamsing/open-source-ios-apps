@@ -29264,6 +29264,20 @@
       "date_added": "Sep 26 2022",
       "suggested_by": "@dkhamsing",
       "stars": 270
+    },
+    {
+      "title": "Sprite Pencil",
+      "description": "Create and edit sprites and pixel art.",
+      "category-ids": [ "photo" ],
+      "screenshots": [
+        "https://www.jaydenirwin.com/spritepencil/shot1.jpg"
+      ],
+      "source": "https://github.com/256Arts/Sprite-Pencil",
+      "homepage": "https://www.jaydenirwin.com/spritepencil/",
+      "itunes": "https://apps.apple.com/app/sprite-pencil/id1437835952",
+      "tags": [ "swift" ],
+      "date_added": "Sep 29 2022",
+      "suggested_by": "@256ArtsDeveloper"
     }
   ]
 }
