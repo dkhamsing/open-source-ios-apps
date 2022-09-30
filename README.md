@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1419-green.svg) ![](https://img.shields.io/badge/Updated-September%2029,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1420-green.svg) ![](https://img.shields.io/badge/Updated-September%2030,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2783,6 +2783,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1536864924) <a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'>`Screenshot 4`</a> 
   -  `2021` 
   -  ☆`68` 
+- [Sprite Pencil](https://github.com/256Arts/Sprite-Pencil): Create and edit sprites and pixel art.
+  - <a href=https://www.jaydenirwin.com/spritepencil/>`https://www.jaydenirwin.com/spritepencil/`</a>
+  - [` App Store`](https://apps.apple.com/app/sprite-pencil/id1437835952) <a href='https://www.jaydenirwin.com/spritepencil/shot1.jpg'>`Screenshot 1`</a> 
+  - `swift` 
 - [Tagger](https://github.com/ivan-magda/Tagger): Help tag your photos on Instagram or Flickr
   -  <a href='https://github.com/ivan-magda/Tagger/raw/master/Screenshots/main.png'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 

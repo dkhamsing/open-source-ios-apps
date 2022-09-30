@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **323** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **324** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1281,6 +1281,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1536864924) <a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'>`Screenshot 4`</a> 
   -  `2021` 
   -  ☆`68` 
+- [Sprite Pencil](https://github.com/256Arts/Sprite-Pencil): Create and edit sprites and pixel art.
+  - <a href=https://www.jaydenirwin.com/spritepencil/>`https://www.jaydenirwin.com/spritepencil/`</a>
+  - [` App Store`](https://apps.apple.com/app/sprite-pencil/id1437835952) <a href='https://www.jaydenirwin.com/spritepencil/shot1.jpg'>`Screenshot 1`</a> 
+  - `swift` 
 - [Upupu](https://github.com/xcoo/upupu): Simple camera that can backup pictures
   - [` App Store`](https://apps.apple.com/app/upupu/id508401854) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/cb/0d/a3/cb0da3c2-ceb8-2756-ce8f-4fdae819a49b/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/25/29/90/252990fa-4332-32cb-25bb-023a9e09ccf2/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/bf/7d/b9/bf7db949-e1c5-5d5d-733a-b1e09b5b9065/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2018`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `webdav` `dropbox` 
