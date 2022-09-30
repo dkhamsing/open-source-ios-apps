@@ -29264,6 +29264,20 @@
       "date_added": "Sep 26 2022",
       "suggested_by": "@dkhamsing",
       "stars": 270
+    },
+    {
+      "title": "Sprite Cutter",
+      "description": "Quickly cut spritesheets into separate sprite PNG images.",
+      "category-ids": [ "photo" ],
+      "screenshots": [
+        "https://www.jaydenirwin.com/spritecutter/shot1.jpg"
+      ],
+      "source": "https://github.com/256Arts/Sprite-Cutter",
+      "homepage": "https://www.jaydenirwin.com/spritecutter/",
+      "itunes": "https://apps.apple.com/app/sprite-cutter/id1562779425",
+      "tags": [ "swift", "swiftui" ],
+      "date_added": "Sep 29 2022",
+      "suggested_by": "@256ArtsDeveloper"
     }
   ]
 }
