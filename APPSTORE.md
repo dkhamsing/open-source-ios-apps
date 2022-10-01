@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **324** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **325** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1281,6 +1281,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1536864924) <a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'>`Screenshot 4`</a> 
   -  `2021` 
   -  ☆`68` 
+- [Sprite Cutter](https://github.com/256Arts/Sprite-Cutter): Quickly cut spritesheets into separate sprite PNG images.
+  - <a href=https://www.jaydenirwin.com/spritecutter/>`https://www.jaydenirwin.com/spritecutter/`</a>
+  - [` App Store`](https://apps.apple.com/app/sprite-cutter/id1562779425) <a href='https://www.jaydenirwin.com/spritecutter/shot1.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [Sprite Pencil](https://github.com/256Arts/Sprite-Pencil): Create and edit sprites and pixel art.
   - <a href=https://www.jaydenirwin.com/spritepencil/>`https://www.jaydenirwin.com/spritepencil/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-pencil/id1437835952) <a href='https://www.jaydenirwin.com/spritepencil/shot1.jpg'>`Screenshot 1`</a> 
