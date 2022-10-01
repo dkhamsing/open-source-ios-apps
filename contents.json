@@ -29278,6 +29278,18 @@
       "tags": [ "swift" ],
       "date_added": "Sep 29 2022",
       "suggested_by": "@256ArtsDeveloper"
+    },
+    {
+      "title": "Hasha",
+      "category-ids": ["security"],
+      "description": "SHA-256 Hash collision computer",
+      "source": "https://github.com/LemonPepperSeasoning/Hasher",
+      "itunes": "https://apps.apple.com/app/hasha/id6443560907",
+      "screenshots": [
+        "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/59/cb/9e/59cb9eee-457c-e149-11d6-e84f39928147/1c3e71e3-2067-4f4c-9c60-aa4c9f8768d5_simulator_screenshot_224F753E-E5E4-4A19-80CC-ABDDDFDB7732.png/600x0w.webp"
+      ],
+      "date_added": "Oct 1 2022",
+      "suggested_by": "@LemonPepperSeasoning"
     }
   ]
 }
