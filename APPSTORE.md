@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **325** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **326** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1471,6 +1471,8 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/dnscloak-secure-dns-client/id1452162351)
   -  `2020`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `objc` `cordova` 
   -  ☆`255` 
+- [Hasha](https://github.com/LemonPepperSeasoning/Hasher): SHA-256 Hash collision computer
+  - [` App Store`](https://apps.apple.com/app/hasha/id6443560907) <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/59/cb/9e/59cb9eee-457c-e149-11d6-e84f39928147/1c3e71e3-2067-4f4c-9c60-aa4c9f8768d5_simulator_screenshot_224F753E-E5E4-4A19-80CC-ABDDDFDB7732.png/600x0w.webp'>`Screenshot 1`</a> 
 - [HTTPS4All](https://github.com/bouk/HTTPS4All): Port of HTTPS Everywhere to force (most) links to use HTTPS
   - [` App Store`](https://apps.apple.com/app/https4all/id1305430042)
   -  `2020`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `swift` 
