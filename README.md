@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1421-green.svg) ![](https://img.shields.io/badge/Updated-October%20%201,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1422-green.svg) ![](https://img.shields.io/badge/Updated-October%20%202,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3377,6 +3377,8 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/cfdrake/easy-diceware/master/.github/screenshot.png'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`16` 
+- [Hasha](https://github.com/LemonPepperSeasoning/Hasher): SHA-256 Hash collision computer
+  - [` App Store`](https://apps.apple.com/app/hasha/id6443560907) <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/59/cb/9e/59cb9eee-457c-e149-11d6-e84f39928147/1c3e71e3-2067-4f4c-9c60-aa4c9f8768d5_simulator_screenshot_224F753E-E5E4-4A19-80CC-ABDDDFDB7732.png/600x0w.webp'>`Screenshot 1`</a> 
 - [HTTPS4All](https://github.com/bouk/HTTPS4All): Port of HTTPS Everywhere to force (most) links to use HTTPS
   - [` App Store`](https://apps.apple.com/app/https4all/id1305430042)
   -  `2020`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `swift` 
