@@ -29304,6 +29304,17 @@
       ],
       "date_added": "Oct 1 2022",
       "suggested_by": "@LemonPepperSeasoning"
+    },
+    {            
+      "title": "Cuisiner",
+      "category-ids": ["Misc"],
+      "description": "Cuisiner is a user generated recipe/cooking collection app",
+      "source": "https://github.com/fthgrsy27/Cuisiner",
+      "itunes": "https://apps.apple.com/app/id1641238583",
+      "tags": ["swift"],
+      "screenshots": ["https://github.com/fthgrsy27/Cuisiner/blob/master/Screenshots/ss3.png"],
+      "date_added": "Oct 3 2022",
+      "suggested_by": "@fthgrsy27"
     }
   ]
 }
