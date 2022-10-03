@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **326** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **327** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1771,6 +1771,9 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/construct-for-d-d-5e/id1490015210) <a href='https://raw.githubusercontent.com/Thomvis/Construct/main/assets/screenshot1.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
   -  ☆`109` 
+- [Cuisiner](https://github.com/fthgrsy27/Cuisiner): User generated recipe/cooking collection
+  - [` App Store`](https://apps.apple.com/app/id1641238583) <a href='https://github.com/fthgrsy27/Cuisiner/blob/master/Screenshots/ss3.png'>`Screenshot 1`</a> 
+  - `swift` 
 - [Emoncms](https://github.com/emoncms/emoncms-ios): Emoncms dashboard
   - [` App Store`](https://apps.apple.com/app/emoncms/id1169483587) <a href='https://github.com/emoncms/emoncms-ios/blob/master/images/screen1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/emoncms/emoncms-ios/blob/master/images/screen2.png?raw=true'>`Screenshot 2`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
