@@ -29307,8 +29307,8 @@
     },
     {            
       "title": "Cuisiner",
-      "category-ids": ["Misc"],
-      "description": "Cuisiner is a user generated recipe/cooking collection app",
+      "category-ids": ["misc"],
+      "description": "User generated recipe/cooking collection",
       "source": "https://github.com/fthgrsy27/Cuisiner",
       "itunes": "https://apps.apple.com/app/id1641238583",
       "tags": ["swift"],
