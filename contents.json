@@ -29294,6 +29294,20 @@
       "suggested_by": "@256ArtsDeveloper"
     },
     {
+      "title": "Sprite Catalog",
+      "description": "A large collection of pixel art sprites and resources.",
+      "category-ids": [ "photo", "developer" ],
+      "screenshots": [
+        "https://www.jaydenirwin.com/spritecatalog/shot1.jpg"
+      ],
+      "source": "https://github.com/256Arts/Sprite-Catalog",
+      "homepage": "https://www.jaydenirwin.com/spritecatalog/",
+      "itunes": "https://apps.apple.com/app/sprite-catalog/id1560692872",
+      "tags": [ "swift", "swiftui" ],
+      "date_added": "Oct 2 2022",
+      "suggested_by": "@256ArtsDeveloper"
+    },
+    {
       "title": "Hasha",
       "category-ids": ["security"],
       "description": "SHA-256 Hash collision computer",
