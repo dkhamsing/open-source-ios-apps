@@ -29308,6 +29308,20 @@
       "suggested_by": "@256ArtsDeveloper"
     },
     {
+      "title": "Sprite Fonts",
+      "description": "Install a variety of pixel perfect fonts for use in other apps.",
+      "category-ids": [ "text" ],
+      "screenshots": [
+        "https://www.jaydenirwin.com/spritefonts/shot1.jpg"
+      ],
+      "source": "https://github.com/256Arts/Sprite-Fonts",
+      "homepage": "https://www.jaydenirwin.com/spritefonts/",
+      "itunes": "https://apps.apple.com/app/sprite-fonts/id1554027877",
+      "tags": [ "swift", "swiftui" ],
+      "date_added": "Oct 4 2022",
+      "suggested_by": "@256ArtsDeveloper"
+    },
+    {
       "title": "Hasha",
       "category-ids": ["security"],
       "description": "SHA-256 Hash collision computer",
