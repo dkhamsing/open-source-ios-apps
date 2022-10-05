@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1424-green.svg) ![](https://img.shields.io/badge/Updated-October%20%204,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1425-green.svg) ![](https://img.shields.io/badge/Updated-October%20%205,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1492,6 +1492,9 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/vladimir-kaltyrin/exchanger/blob/master/screenshot.png?raw=true'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `viper` `objc` `core-data` 
   -  ☆`10` 
+- [Expenses Tracker](https://github.com/abdorizak/Expensive-Tracker-App): Expenses Tracker 🫰 is a financial app that used to track daily Expense from you Income
+  -  <a href='https://raw.githubusercontent.com/abdorizak/Expensive-Tracker-App/main/Screenshots.png'>`Screenshot 1`</a> 
+  - `swift` 
 - [Gasoline](https://github.com/Blackjacx/Gasoline): Track your gas expense
   -  `2020`   `swift` `swiftlint` `quick` `nimble` 
   -  ☆`4` 
