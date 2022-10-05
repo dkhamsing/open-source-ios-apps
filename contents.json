@@ -29329,6 +29329,16 @@
       "screenshots": ["https://github.com/fthgrsy27/Cuisiner/blob/master/Screenshots/ss3.png"],
       "date_added": "Oct 3 2022",
       "suggested_by": "@fthgrsy27"
+    },
+    {            
+      "title": "Expenses Tracker",
+      "category-ids": ["finance"],
+      "description": "Expenses Tracker 🫰 is a financial app that used to track daily Expense from you Income",
+      "source": "https://github.com/abdorizak/Expensive-Tracker-App",
+      "tags": ["swift"],
+      "screenshots": ["https://raw.githubusercontent.com/abdorizak/Expensive-Tracker-App/main/Screenshots.png"],
+      "date_added": "Oct 4 2022",
+      "suggested_by": "@pahnev"
     }
   ]
 }
