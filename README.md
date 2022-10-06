@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1425-green.svg) ![](https://img.shields.io/badge/Updated-October%20%205,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1426-green.svg) ![](https://img.shields.io/badge/Updated-October%20%206,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3706,6 +3706,10 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif'>`Screenshot 1`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`176` 
+- [Sprite Fonts](https://github.com/256Arts/Sprite-Fonts): Install a variety of pixel perfect fonts for use in other apps.
+  - <a href=https://www.jaydenirwin.com/spritefonts/>`https://www.jaydenirwin.com/spritefonts/`</a>
+  - [` App Store`](https://apps.apple.com/app/sprite-fonts/id1554027877) <a href='https://www.jaydenirwin.com/spritefonts/shot1.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [TypeStyle](https://github.com/ebelinski/typestyle): Stylize your text and add decorations
   - <a href=https://typestyle.app>`https://typestyle.app`</a>
   - [` App Store`](https://apps.apple.com/app/typestyle/id1441019779) <a href='https://raw.githubusercontent.com/ebelinski/typestyle-ios/master/media/iphone-x-screenshots.png'>`Screenshot 1`</a> 
