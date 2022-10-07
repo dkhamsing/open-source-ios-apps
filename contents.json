@@ -29322,6 +29322,20 @@
       "suggested_by": "@256ArtsDeveloper"
     },
     {
+      "title": "My Assets",
+      "description": "Track your money going in and out, with this simple birds-eye-view of your finances.",
+      "category-ids": [ "finance" ],
+      "screenshots": [
+        "https://www.jaydenirwin.com/myassets/shot1.jpg"
+      ],
+      "source": "https://github.com/256Arts/My-Assets",
+      "homepage": "https://www.jaydenirwin.com/myassets/",
+      "itunes": "https://apps.apple.com/app/my-assets/id1592367070",
+      "tags": [ "swift", "swiftui" ],
+      "date_added": "Oct 6 2022",
+      "suggested_by": "@256ArtsDeveloper"
+    },
+    {
       "title": "Hasha",
       "category-ids": ["security"],
       "description": "SHA-256 Hash collision computer",
