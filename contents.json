@@ -29336,6 +29336,20 @@
       "suggested_by": "@256ArtsDeveloper"
     },
     {
+      "title": "Symbol Code",
+      "description": "Play with symbols. Programs execute visually by moving variables around the symbol grid.",
+      "category-ids": [ "misc" ],
+      "screenshots": [
+        "https://www.jaydenirwin.com/sfcode/shot1.jpg"
+      ],
+      "source": "https://github.com/256Arts/Symbol-Code",
+      "homepage": "https://www.jaydenirwin.com/sfcode/",
+      "itunes": "https://apps.apple.com/app/sf-code/id1568916751",
+      "tags": [ "swift", "swiftui" ],
+      "date_added": "Oct 7 2022",
+      "suggested_by": "@256ArtsDeveloper"
+    },
+    {
       "title": "Hasha",
       "category-ids": ["security"],
       "description": "SHA-256 Hash collision computer",
