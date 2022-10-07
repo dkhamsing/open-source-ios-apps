@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **330** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **331** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1841,6 +1841,10 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/say-their-names/id1517599626) <a href='https://i.imgur.com/9l2ooUL.jpg'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`249` 
+- [Symbol Code](https://github.com/256Arts/Symbol-Code): Play with symbols. Programs execute visually by moving variables around the symbol grid.
+  - <a href=https://www.jaydenirwin.com/sfcode/>`https://www.jaydenirwin.com/sfcode/`</a>
+  - [` App Store`](https://apps.apple.com/app/sf-code/id1568916751) <a href='https://www.jaydenirwin.com/sfcode/shot1.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [TriangleDraw](https://github.com/triangledraw/TriangleDraw-iOS): Create logos, typography, and other graphics, using nothing but triangles
   - <a href=https://www.triangledraw.com/>`https://www.triangledraw.com/`</a>
   - [` App Store`](https://apps.apple.com/app/triangledraw/id1453533043) <a href='https://raw.githubusercontent.com/triangledraw/TriangleDraw-iOS/develop/Source/Documentation/triangledraw_screenshots.png'>`Screenshot 1`</a> 
