@@ -29365,6 +29365,20 @@
       "suggested_by": "@256ArtsDeveloper"
     },
     {
+      "title": "Space UI",
+      "description": "Generate and access great, realistic looking sci-fi user interfaces for use in TV and film production.",
+      "category-ids": [ "misc" ],
+      "screenshots": [
+        "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/d0/b1/7d/d0b17dc2-f840-5d32-69f3-6b0cf223addc/7ccac1f9-433e-4cad-8e7c-91b71f9ff84e_Phone.png/460x0w.webp"
+      ],
+      "source": "https://github.com/256Arts/Space-UI",
+      "homepage": "https://www.jaydenirwin.com/spaceui/",
+      "itunes": "https://apps.apple.com/app/space-ui/id1494402514",
+      "tags": [ "swift", "swiftui" ],
+      "date_added": "Oct 7 2022",
+      "suggested_by": "@256ArtsDeveloper"
+    },
+    {
       "title": "Hasha",
       "category-ids": ["security"],
       "description": "SHA-256 Hash collision computer",
