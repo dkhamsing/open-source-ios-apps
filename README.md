@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1426-green.svg) ![](https://img.shields.io/badge/Updated-October%20%206,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1427-green.svg) ![](https://img.shields.io/badge/Updated-October%20%207,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1506,6 +1506,10 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/IcedOtaku/MoneyPlusPro/blob/master/images/main.png'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`21` 
+- [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances.
+  - <a href=https://www.jaydenirwin.com/myassets/>`https://www.jaydenirwin.com/myassets/`</a>
+  - [` App Store`](https://apps.apple.com/app/my-assets/id1592367070) <a href='https://www.jaydenirwin.com/myassets/shot1.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [My Stocks](https://github.com/dkhamsing/stocks): Basic stocks tracking, supports Finnhub, Tiingo, or IEX Cloud
   -  <a href='https://github.com/dkhamsing/stocks/blob/dev/Images/0.png?raw=true'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
