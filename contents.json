@@ -4873,6 +4873,21 @@
       "suggested_by": "@dkhamsing",
       "updated": "2019-02-11 07:14:24 UTC"
     },
+        {
+      "title": "Democracy",
+      "description": "Democracy helps you be a better citizen by providing fair, unbiased coverage of elections.",
+      "category-ids": [
+        "news"
+      ],
+      "source": "https://github.com/SkiingIsFun123/Project-Democracy",
+      "tags": [
+        "swift"
+      ],
+      "itunes": "https://apps.apple.com/us/app/project-democracy/id6443437676?uo=4",
+      "license": "other",
+      "date_added": "October 7, 2022,
+      "suggested_by": "@SkiingIsFun123",
+    },
     {
       "title": "Feeds4U",
       "category-ids": [
