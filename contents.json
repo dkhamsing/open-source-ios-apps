@@ -4875,7 +4875,7 @@
     },
     {
       "title": "Democracy",
-      "description": "Democracy helps you be a better citizen by providing fair, unbiased coverage of elections.",
+      "description": "Helps you be a better citizen by providing fair, unbiased coverage of elections",
       "category-ids": [
         "news"
       ],
@@ -4883,7 +4883,7 @@
       "tags": [
         "swift"
       ],
-      "itunes": "https://apps.apple.com/us/app/project-democracy/id6443437676?uo=4",
+      "itunes": "https://apps.apple.com/app/project-democracy/id6443437676",
       "license": "other",
       "date_added": "October 7, 2022",
       "suggested_by": "@SkiingIsFun123"
@@ -29282,7 +29282,7 @@
     },
     {
       "title": "Sprite Cutter",
-      "description": "Quickly cut spritesheets into separate sprite PNG images.",
+      "description": "Quickly cut spritesheets into separate sprite PNG images",
       "category-ids": [ "photo" ],
       "screenshots": [
         "https://www.jaydenirwin.com/spritecutter/shot1.jpg"
@@ -29296,7 +29296,7 @@
     },
     {
       "title": "Sprite Pencil",
-      "description": "Create and edit sprites and pixel art.",
+      "description": "Create and edit sprites and pixel art",
       "category-ids": [ "photo" ],
       "screenshots": [
         "https://www.jaydenirwin.com/spritepencil/shot1.jpg"
@@ -29310,8 +29310,8 @@
     },
     {
       "title": "Sprite Catalog",
-      "description": "A large collection of pixel art sprites and resources.",
-      "category-ids": [ "photo", "developer" ],
+      "description": "A large collection of pixel art sprites and resources",
+      "category-ids": [ "photo" ],
       "screenshots": [
         "https://www.jaydenirwin.com/spritecatalog/shot1.jpg"
       ],
@@ -29324,7 +29324,7 @@
     },
     {
       "title": "Sprite Fonts",
-      "description": "Install a variety of pixel perfect fonts for use in other apps.",
+      "description": "Install a variety of pixel perfect fonts for use in other apps",
       "category-ids": [ "text" ],
       "screenshots": [
         "https://www.jaydenirwin.com/spritefonts/shot1.jpg"
@@ -29338,7 +29338,7 @@
     },
     {
       "title": "My Assets",
-      "description": "Track your money going in and out, with this simple birds-eye-view of your finances.",
+      "description": "Track your money going in and out, with this simple birds-eye-view of your finances",
       "category-ids": [ "finance" ],
       "screenshots": [
         "https://www.jaydenirwin.com/myassets/shot1.jpg"
@@ -29352,7 +29352,7 @@
     },
     {
       "title": "Symbol Code",
-      "description": "Play with symbols. Programs execute visually by moving variables around the symbol grid.",
+      "description": "Programs execute visually by moving variables around the symbol grid",
       "category-ids": [ "misc" ],
       "screenshots": [
         "https://www.jaydenirwin.com/sfcode/shot1.jpg"
@@ -29366,7 +29366,7 @@
     },
     {
       "title": "Space UI",
-      "description": "Generate and access great, realistic looking sci-fi user interfaces for use in TV and film production.",
+      "description": "Generate and access great, realistic looking sci-fi user interfaces for use in TV and film production",
       "category-ids": [ "misc" ],
       "screenshots": [
         "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/d0/b1/7d/d0b17dc2-f840-5d32-69f3-6b0cf223addc/7ccac1f9-433e-4cad-8e7c-91b71f9ff84e_Phone.png/460x0w.webp"
@@ -29404,7 +29404,7 @@
     {            
       "title": "Expenses Tracker",
       "category-ids": ["finance"],
-      "description": "Expenses Tracker 🫰 is a financial app that used to track daily Expense from you Income",
+      "description": "Track daily expense from your income",
       "source": "https://github.com/abdorizak/Expensive-Tracker-App",
       "tags": ["swift"],
       "screenshots": ["https://raw.githubusercontent.com/abdorizak/Expensive-Tracker-App/main/Screenshots.png"],
