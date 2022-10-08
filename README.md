@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1428-green.svg) ![](https://img.shields.io/badge/Updated-October%20%207,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1430-green.svg) ![](https://img.shields.io/badge/Updated-October%20%208,%202022-lightgrey.svg)
 
 Jump to
 
@@ -879,10 +879,6 @@ Jump to
 - [SF Viewer for SF Symbols](https://github.com/aaronpearce/SF-Viewer)
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`29` 
-- [Sprite Catalog](https://github.com/256Arts/Sprite-Catalog): A large collection of pixel art sprites and resources.
-  - <a href=https://www.jaydenirwin.com/spritecatalog/>`https://www.jaydenirwin.com/spritecatalog/`</a>
-  - [` App Store`](https://apps.apple.com/app/sprite-catalog/id1560692872) <a href='https://www.jaydenirwin.com/spritecatalog/shot1.jpg'>`Screenshot 1`</a> 
-  - `swift` `swiftui` 
 - [Terrarium](https://github.com/penk/terrarium-app): UI prototyping for coders
   -  <a href='https://i.imgur.com/Z0KMIaf.png'>`Screenshot 1`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `c++` 
@@ -1492,7 +1488,7 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/vladimir-kaltyrin/exchanger/blob/master/screenshot.png?raw=true'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `viper` `objc` `core-data` 
   -  ☆`10` 
-- [Expenses Tracker](https://github.com/abdorizak/Expensive-Tracker-App): Expenses Tracker 🫰 is a financial app that used to track daily Expense from you Income
+- [Expenses Tracker](https://github.com/abdorizak/Expensive-Tracker-App): Track daily expense from your income
   -  <a href='https://raw.githubusercontent.com/abdorizak/Expensive-Tracker-App/main/Screenshots.png'>`Screenshot 1`</a> 
   - `swift` 
 - [Gasoline](https://github.com/Blackjacx/Gasoline): Track your gas expense
@@ -1506,7 +1502,7 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/IcedOtaku/MoneyPlusPro/blob/master/images/main.png'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`21` 
-- [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances.
+- [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances
   - <a href=https://www.jaydenirwin.com/myassets/>`https://www.jaydenirwin.com/myassets/`</a>
   - [` App Store`](https://apps.apple.com/app/my-assets/id1592367070) <a href='https://www.jaydenirwin.com/myassets/shot1.jpg'>`Screenshot 1`</a> 
   - `swift` `swiftui` 
@@ -2794,15 +2790,15 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1536864924) <a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'>`Screenshot 4`</a> 
   -  `2021` 
   -  ☆`68` 
-- [Sprite Catalog](https://github.com/256Arts/Sprite-Catalog): A large collection of pixel art sprites and resources.
+- [Sprite Catalog](https://github.com/256Arts/Sprite-Catalog): A large collection of pixel art sprites and resources
   - <a href=https://www.jaydenirwin.com/spritecatalog/>`https://www.jaydenirwin.com/spritecatalog/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-catalog/id1560692872) <a href='https://www.jaydenirwin.com/spritecatalog/shot1.jpg'>`Screenshot 1`</a> 
   - `swift` `swiftui` 
-- [Sprite Cutter](https://github.com/256Arts/Sprite-Cutter): Quickly cut spritesheets into separate sprite PNG images.
+- [Sprite Cutter](https://github.com/256Arts/Sprite-Cutter): Quickly cut spritesheets into separate sprite PNG images
   - <a href=https://www.jaydenirwin.com/spritecutter/>`https://www.jaydenirwin.com/spritecutter/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-cutter/id1562779425) <a href='https://www.jaydenirwin.com/spritecutter/shot1.jpg'>`Screenshot 1`</a> 
   - `swift` `swiftui` 
-- [Sprite Pencil](https://github.com/256Arts/Sprite-Pencil): Create and edit sprites and pixel art.
+- [Sprite Pencil](https://github.com/256Arts/Sprite-Pencil): Create and edit sprites and pixel art
   - <a href=https://www.jaydenirwin.com/spritepencil/>`https://www.jaydenirwin.com/spritepencil/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-pencil/id1437835952) <a href='https://www.jaydenirwin.com/spritepencil/shot1.jpg'>`Screenshot 1`</a> 
   - `swift` 
@@ -2880,6 +2876,9 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/beam-for-reddit/id937987469) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/ab/1c/34/ab1c34ca-9913-ef85-ae35-10c2c7d3b7a6/mzl.gkpfevya.png/316x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/79/57/eb795798-bba3-21d5-6070-d8f508af1be0/mzl.lbvrfpjf.png/316x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/13/5d/53/135d536b-5ec2-a567-d72a-c5e6fb12f804/mzl.rzeufpyk.png/316x0w.jpg'>`Screenshot 3`</a> 
   -  `2020`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `swift` `objc` 
   -  ☆`241` 
+- [Democracy](https://github.com/SkiingIsFun123/Project-Democracy): Helps you be a better citizen by providing fair, unbiased coverage of elections
+  - [` App Store`](https://apps.apple.com/app/project-democracy/id6443437676)
+  -   `swift` 
 - [Designer News](https://github.com/MengTo/DesignerNewsApp): Browse the https://www.designernews.co/ design & technology site
   -  <a href='https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png'>`Screenshot 1`</a> 
   -  `2019`   `swift` 
@@ -3710,7 +3709,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif'>`Screenshot 1`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`176` 
-- [Sprite Fonts](https://github.com/256Arts/Sprite-Fonts): Install a variety of pixel perfect fonts for use in other apps.
+- [Sprite Fonts](https://github.com/256Arts/Sprite-Fonts): Install a variety of pixel perfect fonts for use in other apps
   - <a href=https://www.jaydenirwin.com/spritefonts/>`https://www.jaydenirwin.com/spritefonts/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-fonts/id1554027877) <a href='https://www.jaydenirwin.com/spritefonts/shot1.jpg'>`Screenshot 1`</a> 
   - `swift` `swiftui` 
@@ -4101,6 +4100,10 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://i.imgur.com/CL9hL95.png'>`Screenshot 1`</a> 
   -  `2020`   `swift` 
   -  ☆`44` 
+- [Space UI](https://github.com/256Arts/Space-UI): Generate and access great, realistic looking sci-fi user interfaces for use in TV and film production
+  - <a href=https://www.jaydenirwin.com/spaceui/>`https://www.jaydenirwin.com/spaceui/`</a>
+  - [` App Store`](https://apps.apple.com/app/space-ui/id1494402514) <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/d0/b1/7d/d0b17dc2-f840-5d32-69f3-6b0cf223addc/7ccac1f9-433e-4cad-8e7c-91b71f9ff84e_Phone.png/460x0w.webp'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [SudokuBreaker](https://github.com/popei69/SudokuBreaker): Resolve a given Sudoku
   -  `2016`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`2` 
@@ -4108,7 +4111,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen5.png'>`Screenshot 3`</a> 
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`1849` 
-- [Symbol Code](https://github.com/256Arts/Symbol-Code): Play with symbols. Programs execute visually by moving variables around the symbol grid.
+- [Symbol Code](https://github.com/256Arts/Symbol-Code): Programs execute visually by moving variables around the symbol grid
   - <a href=https://www.jaydenirwin.com/sfcode/>`https://www.jaydenirwin.com/sfcode/`</a>
   - [` App Store`](https://apps.apple.com/app/sf-code/id1568916751) <a href='https://www.jaydenirwin.com/sfcode/shot1.jpg'>`Screenshot 1`</a> 
   - `swift` `swiftui` 
