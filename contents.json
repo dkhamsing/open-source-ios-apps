@@ -17894,6 +17894,17 @@
       "date_added": "June 13 2019",
       "suggested_by": "@dkhamsing"
     },
+     {
+	"title": "Object Capture",
+	"category-ids": ["macos","realitykit"],
+	"tags": ["swift","appkit","macos","reality kit","scenekit"],
+	"description": "A MacOS app built using Swift, Appkit, RealityKit Object capture which uses a series of 2D images to construct a 3D Mesh with textures, lighting. The app has built-in model viewer which uses Scenekit with metal to render the preview of the generated 3D Model.",
+	"source": "https://github.com/SaiBalaji22/ObjectCapture-App",
+	"screenshots": ["https://user-images.githubusercontent.com/51410810/191278394-efdb31a4-cce0-4184-a8d0-faac0c486f3a.gif"],
+	"license": "mit",
+	"date_added": "Oct 9 2022",
+	"suggested_by": "@SaiBalaji22"
+     },
     {
       "title": "TicTacToe Ultimatum",
       "category-ids": [
