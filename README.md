@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1430-green.svg) ![](https://img.shields.io/badge/Updated-October%20%208,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1430-green.svg) ![](https://img.shields.io/badge/Updated-October%2010,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1490,7 +1490,7 @@ File Management — [back to top](#readme)
   -  ☆`10` 
 - [Expenses Tracker](https://github.com/abdorizak/Expensive-Tracker-App): Track daily expense from your income
   -  <a href='https://raw.githubusercontent.com/abdorizak/Expensive-Tracker-App/main/Screenshots.png'>`Screenshot 1`</a> 
-  -  `2022` `swift` 
+  -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`3` 
 - [Gasoline](https://github.com/Blackjacx/Gasoline): Track your gas expense
   -  `2020`   `swift` `swiftlint` `quick` `nimble` 
@@ -1506,7 +1506,7 @@ File Management — [back to top](#readme)
 - [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances
   - <a href=https://www.jaydenirwin.com/myassets/>`https://www.jaydenirwin.com/myassets/`</a>
   - [` App Store`](https://apps.apple.com/app/my-assets/id1592367070) <a href='https://www.jaydenirwin.com/myassets/shot1.jpg'>`Screenshot 1`</a> 
-  -  `2022` `swift` `swiftui` 
+  -  `2022`   `swift` `swiftui` 
 - [My Stocks](https://github.com/dkhamsing/stocks): Basic stocks tracking, supports Finnhub, Tiingo, or IEX Cloud
   -  <a href='https://github.com/dkhamsing/stocks/blob/dev/Images/0.png?raw=true'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
@@ -2794,15 +2794,15 @@ Mostly using https://giphy.com/ — [back to top](#readme)
 - [Sprite Catalog](https://github.com/256Arts/Sprite-Catalog): A large collection of pixel art sprites and resources
   - <a href=https://www.jaydenirwin.com/spritecatalog/>`https://www.jaydenirwin.com/spritecatalog/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-catalog/id1560692872) <a href='https://www.jaydenirwin.com/spritecatalog/shot1.jpg'>`Screenshot 1`</a> 
-  -  `2022` `swift` `swiftui` 
+  -  `2022`   `swift` `swiftui` 
 - [Sprite Cutter](https://github.com/256Arts/Sprite-Cutter): Quickly cut spritesheets into separate sprite PNG images
   - <a href=https://www.jaydenirwin.com/spritecutter/>`https://www.jaydenirwin.com/spritecutter/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-cutter/id1562779425) <a href='https://www.jaydenirwin.com/spritecutter/shot1.jpg'>`Screenshot 1`</a> 
-  -  `2022` `swift` `swiftui` 
+  -  `2022`   `swift` `swiftui` 
 - [Sprite Pencil](https://github.com/256Arts/Sprite-Pencil): Create and edit sprites and pixel art
   - <a href=https://www.jaydenirwin.com/spritepencil/>`https://www.jaydenirwin.com/spritepencil/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-pencil/id1437835952) <a href='https://www.jaydenirwin.com/spritepencil/shot1.jpg'>`Screenshot 1`</a> 
-  -  `2022` `swift` 
+  -  `2022`   `swift` 
 - [Tagger](https://github.com/ivan-magda/Tagger): Help tag your photos on Instagram or Flickr
   -  <a href='https://github.com/ivan-magda/Tagger/raw/master/Screenshots/main.png'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
@@ -3399,7 +3399,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`16` 
 - [Hasha](https://github.com/LemonPepperSeasoning/Hasher): SHA-256 Hash collision computer
   - [` App Store`](https://apps.apple.com/app/hasha/id6443560907) <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/59/cb/9e/59cb9eee-457c-e149-11d6-e84f39928147/1c3e71e3-2067-4f4c-9c60-aa4c9f8768d5_simulator_screenshot_224F753E-E5E4-4A19-80CC-ABDDDFDB7732.png/600x0w.webp'>`Screenshot 1`</a> 
-  -  `2022` 
+  -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) 
 - [HTTPS4All](https://github.com/bouk/HTTPS4All): Port of HTTPS Everywhere to force (most) links to use HTTPS
   - [` App Store`](https://apps.apple.com/app/https4all/id1305430042)
   -  `2020`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `swift` 
@@ -3719,7 +3719,7 @@ https://joinmastodon.org — [back to top](#readme)
 - [Sprite Fonts](https://github.com/256Arts/Sprite-Fonts): Install a variety of pixel perfect fonts for use in other apps
   - <a href=https://www.jaydenirwin.com/spritefonts/>`https://www.jaydenirwin.com/spritefonts/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-fonts/id1554027877) <a href='https://www.jaydenirwin.com/spritefonts/shot1.jpg'>`Screenshot 1`</a> 
-  -  `2022` `swift` `swiftui` 
+  -  `2022`   `swift` `swiftui` 
 - [TypeStyle](https://github.com/ebelinski/typestyle): Stylize your text and add decorations
   - <a href=https://typestyle.app>`https://typestyle.app`</a>
   - [` App Store`](https://apps.apple.com/app/typestyle/id1441019779) <a href='https://raw.githubusercontent.com/ebelinski/typestyle-ios/master/media/iphone-x-screenshots.png'>`Screenshot 1`</a> 
@@ -3975,7 +3975,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  ☆`5` 
 - [Cuisiner](https://github.com/fthgrsy27/Cuisiner): User generated recipe/cooking collection
   - [` App Store`](https://apps.apple.com/app/id1641238583) <a href='https://github.com/fthgrsy27/Cuisiner/blob/master/Screenshots/ss3.png'>`Screenshot 1`</a> 
-  -  `2022` `swift` 
+  -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`6` 
 - [CutTheNotch](https://github.com/Naituw/CutTheNotch): Create an illusion that you can hide the notch
   -  <a href='https://github.com/Naituw/CutTheNotch/blob/master/demo.gif?raw=true'>`Screenshot 1`</a> 
@@ -4111,7 +4111,7 @@ https://joinmastodon.org — [back to top](#readme)
 - [Space UI](https://github.com/256Arts/Space-UI): Generate and access great, realistic looking sci-fi user interfaces for use in TV and film production
   - <a href=https://www.jaydenirwin.com/spaceui/>`https://www.jaydenirwin.com/spaceui/`</a>
   - [` App Store`](https://apps.apple.com/app/space-ui/id1494402514) <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/d0/b1/7d/d0b17dc2-f840-5d32-69f3-6b0cf223addc/7ccac1f9-433e-4cad-8e7c-91b71f9ff84e_Phone.png/460x0w.webp'>`Screenshot 1`</a> 
-  -  `2022` `swift` `swiftui` 
+  -  `2022`   `swift` `swiftui` 
 - [SudokuBreaker](https://github.com/popei69/SudokuBreaker): Resolve a given Sudoku
   -  `2016`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`2` 
@@ -4122,7 +4122,7 @@ https://joinmastodon.org — [back to top](#readme)
 - [Symbol Code](https://github.com/256Arts/Symbol-Code): Programs execute visually by moving variables around the symbol grid
   - <a href=https://www.jaydenirwin.com/sfcode/>`https://www.jaydenirwin.com/sfcode/`</a>
   - [` App Store`](https://apps.apple.com/app/sf-code/id1568916751) <a href='https://www.jaydenirwin.com/sfcode/shot1.jpg'>`Screenshot 1`</a> 
-  -  `2022` `swift` `swiftui` 
+  -  `2022`   `swift` `swiftui` 
 - [TriangleDraw](https://github.com/triangledraw/TriangleDraw-iOS): Create logos, typography, and other graphics, using nothing but triangles
   - <a href=https://www.triangledraw.com/>`https://www.triangledraw.com/`</a>
   - [` App Store`](https://apps.apple.com/app/triangledraw/id1453533043) <a href='https://raw.githubusercontent.com/triangledraw/TriangleDraw-iOS/develop/Source/Documentation/triangledraw_screenshots.png'>`Screenshot 1`</a> 
