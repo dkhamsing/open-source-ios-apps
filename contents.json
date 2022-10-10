@@ -29318,6 +29318,7 @@
         "swift",
         "swiftui"
       ],
+      "license": "other",
       "date_added": "Sep 29 2022",
       "suggested_by": "@256ArtsDeveloper",
       "stars": 0,
@@ -29332,6 +29333,7 @@
       "screenshots": [
         "https://www.jaydenirwin.com/spritepencil/shot1.jpg"
       ],
+      "license": "other",
       "source": "https://github.com/256Arts/Sprite-Pencil",
       "homepage": "https://www.jaydenirwin.com/spritepencil/",
       "itunes": "https://apps.apple.com/app/sprite-pencil/id1437835952",
@@ -29359,6 +29361,7 @@
         "swift",
         "swiftui"
       ],
+      "license": "other",
       "date_added": "Oct 2 2022",
       "suggested_by": "@256ArtsDeveloper",
       "stars": 0,
@@ -29380,6 +29383,7 @@
         "swift",
         "swiftui"
       ],
+      "license": "other",
       "date_added": "Oct 4 2022",
       "suggested_by": "@256ArtsDeveloper",
       "stars": 0,
@@ -29401,6 +29405,7 @@
         "swift",
         "swiftui"
       ],
+      "license": "other",
       "date_added": "Oct 6 2022",
       "suggested_by": "@256ArtsDeveloper",
       "stars": 0,
@@ -29422,6 +29427,7 @@
         "swift",
         "swiftui"
       ],
+      "license": "other",
       "date_added": "Oct 7 2022",
       "suggested_by": "@256ArtsDeveloper",
       "stars": 0,
@@ -29443,6 +29449,7 @@
         "swift",
         "swiftui"
       ],
+      "license": "other",
       "date_added": "Oct 7 2022",
       "suggested_by": "@256ArtsDeveloper",
       "stars": 0,
@@ -29460,6 +29467,7 @@
         "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/59/cb/9e/59cb9eee-457c-e149-11d6-e84f39928147/1c3e71e3-2067-4f4c-9c60-aa4c9f8768d5_simulator_screenshot_224F753E-E5E4-4A19-80CC-ABDDDFDB7732.png/600x0w.webp"
       ],
       "date_added": "Oct 1 2022",
+      "license": "mit",
       "suggested_by": "@LemonPepperSeasoning",
       "stars": 0,
       "updated": "2022-10-01 05:13:28 UTC"
@@ -29475,6 +29483,7 @@
       "tags": [
         "swift"
       ],
+      "license": "mit",
       "screenshots": [
         "https://github.com/fthgrsy27/Cuisiner/blob/master/Screenshots/ss3.png"
       ],
@@ -29493,6 +29502,7 @@
       "tags": [
         "swift"
       ],
+      "license": "mit",
       "screenshots": [
         "https://raw.githubusercontent.com/abdorizak/Expensive-Tracker-App/main/Screenshots.png"
       ],
