@@ -29510,6 +29510,23 @@
       "suggested_by": "@pahnev",
       "stars": 3,
       "updated": "2022-09-20 18:22:28 UTC"
+    },
+    {
+      "title": "LivescoreApp using Sports API",
+      "category-ids": [
+        "misc"
+      ],
+      "source": "https://github.com/gideonrotich/LivescoreApp",
+      "tags": [
+        "kotlin"
+      ],
+      "license": "other",
+      "screenshots": [
+        "https://github.com/gideonrotich/Livescore/raw/master/screenshots/one.png"
+      ],
+      "date_added": "Oct 10 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 40
     }
   ]
 }
