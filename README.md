@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1431-green.svg) ![](https://img.shields.io/badge/Updated-October%2011,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1431-green.svg) ![](https://img.shields.io/badge/Updated-October%2012,%202022-lightgrey.svg)
 
 Jump to
 
@@ -4053,9 +4053,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://i.imgur.com/i2nVDNQ.png'>`Screenshot 1`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`11` 
-- [MVI-SingleState](https://github.com/VAnsimov/MVI-SingleState)
-  -  `2020`   `swift` `mvi` `model-view-intent` 
-  -  ☆`5` 
 - [My Little Popcat](https://github.com/ChoiysApple/My-Little-Popcat): Relaxing and fun pop cat
   - <a href=https://choiysapple.notion.site/My-Little-Popcat-fb84db75b76449fbae2d0c72278b1790>`https://choiysapple.notion.site/My-Little-Popcat-fb84db75b76449fbae2d0c72278b1790`</a>
   - [` App Store`](https://apps.apple.com/app/my-little-popcat/id1558128186) <a href='https://user-images.githubusercontent.com/43776784/124684902-1e3ed280-df0b-11eb-9129-1313bdc280b0.gif'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/43776784/124684912-239c1d00-df0b-11eb-97fb-bb1e2bd1ae5f.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/43776784/124684916-2434b380-df0b-11eb-91dd-c279267a1323.png'>`Screenshot 3`</a> 
