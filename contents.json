@@ -27380,12 +27380,13 @@
       "category-ids": [
         "misc"
       ],
-      "source": "https://github.com/VAnsimov/MVI-SingleState",
+      "source": "https://github.com/opensourceios/MVI-SingleState",
       "license": "other",
       "tags": [
         "swift",
         "mvi",
-        "model-view-intent"
+        "model-view-intent",
+        "archive"
       ],
       "date_added": "Dec 4 2021",
       "suggested_by": "@dkhamsing",
