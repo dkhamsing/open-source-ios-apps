@@ -213,6 +213,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Mugician](https://github.com/rfielding/Mugician)
 - [Mume](https://github.com/opensourceios/Mume)
 - [Munch](https://github.com/opensourceios/Munch)
+- [MVI-SingleState](https://github.com/opensourceios/MVI-SingleState)
 - [MVI-SwiftUI](https://github.com/opensourceios/MVI-SwiftUI)
 - [MVPTwitterSample](https://github.com/ktanaka117/MVPTwitterSample)
 - [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist)
