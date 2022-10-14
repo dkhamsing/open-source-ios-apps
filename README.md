@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1431-green.svg) ![](https://img.shields.io/badge/Updated-October%2012,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1432-green.svg) ![](https://img.shields.io/badge/Updated-October%2014,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5149,6 +5149,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` `swiftui` `themoviedb` `combine` `ipad` `macos` 
   -  ☆`6129` 
+- [MVI-SwiftUI](https://github.com/VAnsimov/MVI-SwiftUI)
+  -   `swift` `swiftui` `mvi` `model-view-intent` 
+  -  ☆`13` 
 - [NeoIRC](https://github.com/NozeIO/NeoIRC): Simple Internet Relay Chat
   -  <a href='https://i.imgur.com/oNsPtEk.png'>`Screenshot 1`</a> 
   -  `2020`   `swift` `swiftui` `swiftnio` `irc` 
