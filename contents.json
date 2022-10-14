@@ -29528,6 +29528,23 @@
       "date_added": "Oct 10 2022",
       "suggested_by": "@dkhamsing",
       "stars": 40
+    },
+    {
+      "title": "MVI-SwiftUI",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/VAnsimov/MVI-SwiftUI",
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui",
+        "mvi",
+        "model-view-intent"
+      ],
+      "date_added": "Oct 12 2020",
+      "suggested_by": "@dkhamsing",
+      "stars": 13
     }
   ]
 }
