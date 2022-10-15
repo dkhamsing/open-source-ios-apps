@@ -29545,6 +29545,21 @@
       "date_added": "Oct 12 2020",
       "suggested_by": "@dkhamsing",
       "stars": 13
-    }
+    },
+    {
+      "title": "NowPlayingPlus",
+      "category-ids": [
+        "apple-watch"
+      ],
+      "tags": [
+        "watchos"        
+      ],
+      "description": "Circular and corner complications for Now Playing controls",
+      "license": "other",
+      "source": "https://github.com/chockenberry/NowPlayingPlus",
+      "stars": 16,
+      "date_added": "Oct 15 2022",
+      "suggested_by": "@dkhamsing"     
+    }    
   ]
 }
