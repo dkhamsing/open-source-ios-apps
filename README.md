@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1432-green.svg) ![](https://img.shields.io/badge/Updated-October%2014,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1433-green.svg) ![](https://img.shields.io/badge/Updated-October%2015,%202022-lightgrey.svg)
 
 Jump to
 
@@ -252,6 +252,9 @@ Jump to
   -  <a href='https://github.com/nightscout/nightguard/raw/master/images/nightguard24.jpg'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `apple-watch` 
   -  ☆`165` 
+- [NowPlayingPlus](https://github.com/chockenberry/NowPlayingPlus): Circular and corner complications for Now Playing controls
+  -   `watchos` 
+  -  ☆`16` 
 - [Parties for WWDC](https://github.com/genadyo/WWDC)
   -  <a href='https://raw.githubusercontent.com/genadyo/WWDC/master/Assets/iPhone/screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/genadyo/WWDC/master/Assets/iPhone/screen2.png'>`Screenshot 2`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `cloudkit` 
