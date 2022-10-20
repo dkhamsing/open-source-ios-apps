@@ -29560,6 +29560,20 @@
       "stars": 16,
       "date_added": "Oct 15 2022",
       "suggested_by": "@dkhamsing"     
-    }    
+    },
+    {
+      "title": "Pocket Casts",
+      "category-ids": [
+        "media"
+      ],
+      "tags": [
+        "swift", "podcast"        
+      ],
+      "license": "mpl-2.0",
+      "source": "https://github.com/Automattic/pocket-casts-ios",
+      "stars": 333,
+      "date_added": "Oct 15 2022",
+      "suggested_by": "@dkhamsing"     
+    }            
   ]
 }
