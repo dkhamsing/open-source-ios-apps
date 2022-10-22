@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **333** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **334** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1264,6 +1264,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/blear-create-blurry-wallpapers/id994182280) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/92/6f/a4/926fa4b0-7002-a610-2d29-aa5d0598ffaf/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4c/af/9b/4caf9b23-c3a5-8177-c7cd-f02e4e3d7ba2/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/52/fb/46/52fb4604-c9fb-1799-ba61-3c1523986e03/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`396` 
+- [Find](https://github.com/aheze/OpenFind): Text search for images
+  - [` App Store`](https://apps.apple.com/app/id1506500202) <a href='https://open.getfind.app/assets/Find.jpg'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `realm` `camera` 
+  -  ☆`333` 
 - [Frame Grabber](https://github.com/arthurhammer/FrameGrabber): Extract video and Live Photo frames as images
   - [` App Store`](https://apps.apple.com/app/frame-grabber/id1434703541) <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/3.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/4.jpg'>`Screenshot 4`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
