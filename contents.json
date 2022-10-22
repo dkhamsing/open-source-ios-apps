@@ -29574,6 +29574,23 @@
       "stars": 333,
       "date_added": "Oct 15 2022",
       "suggested_by": "@dkhamsing"     
-    }            
+    },
+    {
+      "title": "Find",
+      "description": "Text search for images",
+      "category-ids": [
+        "photo"
+      ],
+      "tags": [
+        "swift", "swiftui", "realm", "camera"
+      ],
+      "license": "mit",
+      "source": "https://github.com/aheze/OpenFind",
+      "itunes": "https://apps.apple.com/app/id1506500202",
+      "screenshots": ["https://open.getfind.app/assets/Find.jpg"],
+      "stars": 333,
+      "date_added": "Oct 15 2022",
+      "suggested_by": "@dkhamsing"     
+    }                 
   ]
 }
