@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1434-green.svg) ![](https://img.shields.io/badge/Updated-October%2020,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1435-green.svg) ![](https://img.shields.io/badge/Updated-October%2022,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2748,6 +2748,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://github.com/Yogayu/EmotionNote/raw/master/imgs/Desktop%20HD.png'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`34` 
+- [Find](https://github.com/aheze/OpenFind): Text search for images
+  - [` App Store`](https://apps.apple.com/app/id1506500202) <a href='https://open.getfind.app/assets/Find.jpg'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `realm` `camera` 
+  -  ☆`333` 
 - [Frame Grabber](https://github.com/arthurhammer/FrameGrabber): Extract video and Live Photo frames as images
   - [` App Store`](https://apps.apple.com/app/frame-grabber/id1434703541) <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/3.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/4.jpg'>`Screenshot 4`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
