@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1435-green.svg) ![](https://img.shields.io/badge/Updated-October%2023,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1435-green.svg) ![](https://img.shields.io/badge/Updated-October%2024,%202022-lightgrey.svg)
 
 Jump to
 
@@ -682,7 +682,7 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swift3` `firebase` 
   -  ☆`1806` 
-- [Real-time Chat](https://www.raywenderlich.com/22067733-firebase-tutorial-real-time-chat)
+- [Real-time Chat](https://www.kodeco.com/22067733-firebase-tutorial-real-time-chat)
   -  <a href='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'>`Screenshot 1`</a> 
   -   `firebase` 
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.iOS): For Meteor chat platform
@@ -4252,7 +4252,7 @@ https://firebase.google.com/ — [back to top](#readme)
 - [Quickstart Samples](https://github.com/firebase/quickstart-ios)
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `objc` 
   -  ☆`2490` 
-- [Real-time Chat](https://www.raywenderlich.com/22067733-firebase-tutorial-real-time-chat)
+- [Real-time Chat](https://www.kodeco.com/22067733-firebase-tutorial-real-time-chat)
   -  <a href='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'>`Screenshot 1`</a> 
   -   `firebase` 
 ### Flutter 
@@ -5012,7 +5012,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/jareksedy/Elseweather/raw/main/Screenshots/ew-scr.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
   -  ☆`10` 
-- [emitron](https://github.com/razeware/emitron-iOS): For https://www.raywenderlich.com
+- [emitron](https://github.com/razeware/emitron-iOS): For https://www.kodeco.com
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `combine` 
   -  ☆`328` 
 - [EU VAT Number - VIES Freelance](https://github.com/FranicevicNikola/VIES)
