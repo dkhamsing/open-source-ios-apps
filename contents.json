@@ -29602,6 +29602,26 @@
       "date_added": "Oct 15 2022",
       "suggested_by": "@dkhamsing",
       "updated": "2022-10-31 15:31:56 UTC"
-    }
+    },
+    {
+      "title": "Velik",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Ride tracking",
+      "source": "https://github.com/avdyushin/Velik",
+      "license": "apache-2.0",
+      "stars": 256,
+      "tags": [
+        "swift",
+        "swiftui",
+        "core-data"
+      ],
+      "screenshots": [
+        "https://github.com/avdyushin/Velik/raw/master/docs/assets/velik_dark.png"
+      ],
+      "date_added": "Nov 6 2022",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
