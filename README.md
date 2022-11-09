@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1436-green.svg) ![](https://img.shields.io/badge/Updated-November%20%206,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1437-green.svg) ![](https://img.shields.io/badge/Updated-November%20%209,%202022-lightgrey.svg)
 
 Jump to
 
@@ -564,6 +564,9 @@ Jump to
   -  <a href='https://i.imgur.com/mBi9Jfj.png'>`Screenshot 1`</a> 
   -  `2016`   `swift` 
   -  ☆`25` 
+- [SwiftUICraft](https://github.com/aheze/SwiftUICraft): Minecraft clone
+  -  <a href='https://github.com/aheze/SwiftUICraft/raw/main/Assets/Level1.PNG'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
 - [Trello](https://github.com/alfianlosari/KanbanDragDropiOS)
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`95` 
@@ -5341,6 +5344,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/alfianlosari/SwiftUIAuthenticationCompleted/raw/master/promo.jpg?raw=true'>`Screenshot 1`</a> 
   -  `2020`   `swift` `swiftui` `firebase` 
   -  ☆`42` 
+- [SwiftUICraft](https://github.com/aheze/SwiftUICraft): Minecraft clone
+  -  <a href='https://github.com/aheze/SwiftUICraft/raw/main/Assets/Level1.PNG'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
 - [SwiftUIMindBlowing](https://github.com/antranapp/SwiftUIMindBlowing): Collections of mind-blowing snippets and projects
   -  <a href='https://github.com/antranapp/SwiftUIMindBlowing/raw/master/Docs/images/screenshot1.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` 
