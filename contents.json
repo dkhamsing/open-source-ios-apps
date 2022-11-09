@@ -29622,6 +29622,24 @@
       ],
       "date_added": "Nov 6 2022",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "SwiftUICraft",
+      "category-ids": [
+        "swiftui", "clone"
+      ],
+      "description": "Minecraft clone",
+      "source": "https://github.com/aheze/SwiftUICraft",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui"        
+      ],
+      "screenshots": [
+        "https://github.com/aheze/SwiftUICraft/raw/main/Assets/Level1.PNG"
+      ],
+      "date_added": "Nov 9 2022",
+      "suggested_by": "@dkhamsing"
     }    
   ]
 }
