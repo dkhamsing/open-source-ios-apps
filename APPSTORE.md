@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **334** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **333** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1651,10 +1651,6 @@ https://newsapi.org/ — [back to top](#readme)
 https://joinmastodon.org — [back to top](#readme) 
  
 
-- [Amaroq](https://github.com/ReticentJohn/Amaroq): Lightweight universal client for any Mastodon instance
-  - [` App Store`](https://apps.apple.com/app/amaroq-for-mastodon/id1214116200) <a href='https://i.imgur.com/uesvdd4.png'>`Screenshot 1`</a> 
-  -  `2021`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `objc` 
-  -  ☆`238` 
 - [Metatext](https://github.com/metabolist/metatext): An accessible Mastodon client
   - [` App Store`](https://apps.apple.com/app/metatext/id1523996615) <a href='https://i.imgur.com/zVvJQQv.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/yYi56m9.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/64vIXsb.png'>`Screenshot 3`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
