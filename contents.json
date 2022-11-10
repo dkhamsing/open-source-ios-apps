@@ -14577,7 +14577,7 @@
         "mastodon"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "agpl-3.0",
       "date_added": "Apr 11 2017",
@@ -21709,7 +21709,7 @@
       "source": "https://github.com/ReticentJohn/Amaroq",
       "itunes": "https://apps.apple.com/app/amaroq-for-mastodon/id1214116200",
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/uesvdd4.png"
