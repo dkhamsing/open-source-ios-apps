@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1437-green.svg) ![](https://img.shields.io/badge/Updated-November%20%209,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1437-green.svg) ![](https://img.shields.io/badge/Updated-November%2010,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3646,10 +3646,6 @@ https://joinmastodon.org — [back to top](#readme)
 - [11t](https://github.com/jeroensmeets/11t)
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `dart` 
   -  ☆`86` 
-- [Amaroq](https://github.com/ReticentJohn/Amaroq): Lightweight universal client for any Mastodon instance
-  - [` App Store`](https://apps.apple.com/app/amaroq-for-mastodon/id1214116200) <a href='https://i.imgur.com/uesvdd4.png'>`Screenshot 1`</a> 
-  -  `2021`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `objc` 
-  -  ☆`238` 
 - [iMast for Mastodon](https://github.com/cinderella-project/iMast)
   -  `2022`   `swift` `swiftlint` `alamofire` `grdb` 
   -  ☆`94` 
@@ -3657,9 +3653,6 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/metatext/id1523996615) <a href='https://i.imgur.com/zVvJQQv.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/yYi56m9.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/64vIXsb.png'>`Screenshot 3`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
   -  ☆`201` 
-- [tootbot](https://github.com/tootbot/tootbot)
-  -  `2017`  [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/) `swift` 
-  -  ☆`27` 
 ## Tasks 
  
 [back to top](#readme) 
