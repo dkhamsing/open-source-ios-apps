@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1437-green.svg) ![](https://img.shields.io/badge/Updated-November%2010,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1437-green.svg) ![](https://img.shields.io/badge/Updated-November%2011,%202022-lightgrey.svg)
 
 Jump to
 
@@ -174,10 +174,6 @@ Jump to
 - [Apollo](https://github.com/KhaosT/open-apollo): Spotify player for watchOS
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`73` 
-- [AppleWatchFaces](https://github.com/orff/AppleWatchFaces): Create your own faces for watchOS
-  -  <a href='https://raw.githubusercontent.com/orff/AppleWatchFaces/master/docs/AppleWatchFacesQuickDemo.gif'>`Screenshot 1`</a> 
-  -  `2019`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `spritekit` 
-  -  ☆`395` 
 - [BaiduFM](https://github.com/belm/BaiduFM-Swift): For Baidu Music
   -  <a href='https://github.com/belm/BaiduFM-Swift/raw/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png?raw=true'>`Screenshot 1`</a> 
   -  `2021`   `swift` 
