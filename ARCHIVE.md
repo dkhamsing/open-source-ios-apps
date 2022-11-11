@@ -34,6 +34,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [apnagent-ios](https://github.com/logicalparadox/apnagent-ios)
 - [App Store Clone](https://github.com/VamshiIITBHU14/AppStoreClone)
 - [Apple WWDC 2015](https://developer.apple.com/videos/2015/)
+- [AppleWatchFaces](https://github.com/opensourceios/AppleWatchFaces)
 - [AppleWatchProductHunt](https://github.com/BalestraPatrick/AppleWatchProductHunt)
 - [AppSales-Mobile](https://github.com/omz/AppSales-Mobile)
 - [AppSlate](https://github.com/Taehan-Kim/AppSlate)
