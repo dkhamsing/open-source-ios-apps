@@ -18514,12 +18514,13 @@
         "apple-watch"
       ],
       "description": "Create your own faces for watchOS",
-      "source": "https://github.com/orff/AppleWatchFaces",
+      "source": "https://github.com/opensourceios/AppleWatchFaces",
       "license": "gpl-3.0",
       "stars": 395,
       "tags": [
         "swift",
-        "spritekit"
+        "spritekit",
+        "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/orff/AppleWatchFaces/master/docs/AppleWatchFacesQuickDemo.gif"
