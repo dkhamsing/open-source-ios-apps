@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1437-green.svg) ![](https://img.shields.io/badge/Updated-November%2011,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1437-green.svg) ![](https://img.shields.io/badge/Updated-November%2012,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5235,7 +5235,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [Scrumdinger](https://developer.apple.com/tutorials/app-dev-training/): Keeps track of daily scrums, sample code by Apple
   -   `swift` `ios14` 
 - [SF Symbols Browser](https://github.com/atrinh0/sfsymbols)
-  -  <a href='https://github.com/atrinh0/sfsymbols/raw/develop/images/search.gif'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/atrinh0/sfsymbols/raw/main/images/search.gif'>`Screenshot 1`</a> 
   -  `2022`   `swift` `swiftui` `ipad` 
   -  ☆`101` 
 - [ShoppingList](https://github.com/ericlewis/ShoppingList)
