@@ -29641,6 +29641,24 @@
       ],
       "date_added": "Nov 9 2022",
       "suggested_by": "@dkhamsing"
-    }    
+    },
+    {
+      "title": "AR Plastic Ocean",
+      "category-ids": [
+        "education"
+      ],
+      "description": "Educate those interested in marine plastic pollution",
+      "source": "https://github.com/ynagatomo/ARPlasticOcean",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui"        
+      ],
+      "screenshots": [
+        "https://github.com/ynagatomo/ARPlasticOcean/raw/main/images/ss1.png"
+      ],
+      "date_added": "Nov 19 2022",
+      "suggested_by": "@dkhamsing"
+    }
   ]
 }
