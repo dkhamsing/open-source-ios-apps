@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1438-green.svg) ![](https://img.shields.io/badge/Updated-November%2019,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1438-green.svg) ![](https://img.shields.io/badge/Updated-November%2020,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1298,7 +1298,7 @@ Jump to
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`115` 
 - [BlockParty](https://github.com/krishkumar/BlockParty)
-  -  <a href='https://github.com/krishkumar/BlockParty/raw/master/Screenshot01.png'>`Screenshot 1`</a>  <a href='https://github.com/krishkumar/BlockParty/raw/master/Screenshot02.png'>`Screenshot 2`</a> 
+  -  <a href='https://user-images.githubusercontent.com/425580/202258987-80ad7bb6-f943-44ff-8512-a11c3c5c8415.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`764` 
 - [Firefox Focus](https://github.com/mozilla-mobile/focus-ios): Browse the web privately
