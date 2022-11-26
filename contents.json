@@ -29658,6 +29658,17 @@
       ],
       "date_added": "Nov 19 2022",
       "suggested_by": "@dkhamsing"
+    }, 
+    {
+      "title": "MoodSnap mood diary",
+      "category-ids": ["health"],
+      "description": "MoodSnap is a free and open source mood diary app for iOS written in SwiftUI.",
+      "source": "https://github.com/drpeterrohde/MoodSnap",
+      "homepage": "https://www.moodsnap.app",
+      "itunes": "https://apps.apple.com/au/app/moodsnap-mood-diary/id1616291944",
+      "screenshots": ["https://www.moodsnap.app"],
+      "date_added": "Nov 27 2022",
+      "suggested_by": "@drpeterrohde"
     }
   ]
 }
