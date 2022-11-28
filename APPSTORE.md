@@ -887,8 +887,8 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/migraine-log/id1636946550) <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/1-iPhone%2013%20Pro%20Max.png'>`Screenshot 1`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/2-iPhone%2013%20Pro%20Max.png'>`Screenshot 2`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/3-iPhone%2013%20Pro%20Max.png'>`Screenshot 3`</a> 
   -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` `dart` 
 - [MoodSnap](https://github.com/drpeterrohde/MoodSnap): Mood diary
-  - <a href=https://www.moodsnap.app>`https://www.moodsnap.app`</a>
-  - [` App Store`](https://apps.apple.com/au/app/moodsnap-mood-diary/id1616291944) <a href='https://www.moodsnap.app'>`Screenshot 1`</a> 
+  - <a href=https://moodsnap.app/>`https://moodsnap.app/`</a>
+  - [` App Store`](https://apps.apple.com/au/app/moodsnap-mood-diary/id1616291944) <a href='https://i0.wp.com/moodsnap.app/wp-content/uploads/2022/04/6D23AD28-AA53-47EE-B01F-81637A23FEF2.jpeg?resize=947%2C2048&ssl=1'>`Screenshot 1`</a> 
   -  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swiftui` 
 - [MyWeight History](https://github.com/diogot/MyWeight): Body mass tracker with easy data input & access to history
   - [` App Store`](https://apps.apple.com/app/myweight-history/id1098061879) <a href='https://user-images.githubusercontent.com/4723115/146957241-b8b43b10-1132-472d-8fb7-b95afdf0cfc0.png'>`Screenshot 1`</a> 
