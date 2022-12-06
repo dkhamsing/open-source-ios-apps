@@ -29687,6 +29687,21 @@
       "suggested_by": "@drpeterrohde",
       "stars": 13,
       "updated": "2022-11-30 20:48:45 UTC"
+    },
+    {
+      "title": "Ice Cubes",
+      "category-ids": [
+        "mastodon"
+      ],
+      "source": "https://github.com/Dimillian/IceCubesApp",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Dec 6 2021",
+      "suggested_by": "@dkhamsing",
+      "stars": 41
     }
   ]
 }
