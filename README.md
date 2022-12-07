@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1440-green.svg) ![](https://img.shields.io/badge/Updated-December%20%206,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1440-green.svg) ![](https://img.shields.io/badge/Updated-December%20%207,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3928,7 +3928,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  ☆`42` 
 - [AltStore](https://github.com/rileytestut/AltStore): An alternate App Store, no jailbreak required
   - <a href=https://altstore.io>`https://altstore.io`</a>
-  -  <a href='https://icdn5.digitaltrends.com/image/digitaltrends/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb1-768x1367.jpg'>`Screenshot 1`</a> 
+  -  <a href='https://user-images.githubusercontent.com/4723115/206248971-116cb695-f580-45db-be46-e3a908d6b776.jpeg'>`Screenshot 1`</a> 
   -  `2022`   `swift` `nuke` `keychainaccess` 
   -  ☆`8061` 
 - [AR Art Attractors](https://github.com/ynagatomo/ARArtAttractors): Display 3d graphic art in AR (Augumented Reality)
