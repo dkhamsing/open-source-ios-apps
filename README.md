@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1440-green.svg) ![](https://img.shields.io/badge/Updated-December%20%207,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1441-green.svg) ![](https://img.shields.io/badge/Updated-December%20%208,%202022-lightgrey.svg)
 
 Jump to
 
@@ -219,6 +219,9 @@ Jump to
   -  <a href='https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png'>`Screenshot 1`</a> 
   -  `2019`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
   -  ☆`73` 
+- [Gym Routine Tracker](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
+  - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://github.com/gym-routine-tracker/gym-routine-tracker.github.io/blob/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
+  -  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `swiftui` 
 - [HeartControl](https://github.com/thomaspaulmann/HeartControl): Continuous heart rate measurement during workouts
   -  <a href='https://i.imgur.com/AggsuxA.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/r8El1FE.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/zCkknWc.png'>`Screenshot 3`</a> 
   -  `2021`   `swift` `watchos3` 
@@ -2128,6 +2131,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Gym Routine Tracker](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
+  - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://github.com/gym-routine-tracker/gym-routine-tracker.github.io/blob/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
+  -  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `swiftui` 
 - [Minimalistic Push](https://github.com/jonaspoxleitner/minimalistic_push): Track your push-ups and see an overview of your sessions
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `dart` 
   -  ☆`9` 
