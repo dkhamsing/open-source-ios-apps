@@ -29702,6 +29702,22 @@
       "date_added": "Dec 6 2021",
       "suggested_by": "@dkhamsing",
       "stars": 41
+    },
+    {
+      "title": "Gym Routine Tracker",
+      "category-ids": ["apple-watch", "fitness"],
+      "description": "minimalist workout routine tracker",
+      "source": "https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App",
+      "tags": [
+        "swift",
+        "swiftui",
+        "fitness"
+      ],
+      "license": "mpl-2.0",
+      "itunes": "https://apps.apple.com/us/app/gym-routine-tracker/id6444747204",
+      "screenshots": ["https://github.com/gym-routine-tracker/gym-routine-tracker.github.io/blob/gh-pages/assets/images/exercise-run-display.png"],
+      "date_added": "Dec 7 2022",
+      "suggested_by": "@reedes"
     }
   ]
 }
