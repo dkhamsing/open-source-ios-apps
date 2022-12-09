@@ -16,7 +16,7 @@
 12. [Symbol Code](https://github.com/256Arts/Symbol-Code)
 13. [Democracy](https://github.com/SkiingIsFun123/Project-Democracy)
 14. [My Assets](https://github.com/256Arts/My-Assets)
-15. [Expenses Tracker](https://github.com/abdorizak/Expensive-Tracker-App)
+15. [Expenses Tracker](https://github.com/abdorizak/Expense-Tracker-App)
 16. [Sprite Fonts](https://github.com/256Arts/Sprite-Fonts)
 17. [Cuisiner](https://github.com/fthgrsy27/Cuisiner)
 18. [Sprite Catalog](https://github.com/256Arts/Sprite-Catalog)
