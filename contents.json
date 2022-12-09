@@ -29501,13 +29501,13 @@
         "finance"
       ],
       "description": "Track daily expense from your income",
-      "source": "https://github.com/abdorizak/Expensive-Tracker-App",
+      "source": "https://github.com/abdorizak/Expense-Tracker-App",
       "tags": [
         "swift"
       ],
       "license": "mit",
       "screenshots": [
-        "https://raw.githubusercontent.com/abdorizak/Expensive-Tracker-App/main/Screenshots.png"
+        "https://raw.githubusercontent.com/abdorizak/Expense-Tracker-App/main/Screenshots.png"
       ],
       "date_added": "Oct 4 2022",
       "suggested_by": "@pahnev",
