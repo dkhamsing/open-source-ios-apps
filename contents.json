@@ -29717,6 +29717,23 @@
       "screenshots": ["https://github.com/gym-routine-tracker/gym-routine-tracker.github.io/blob/gh-pages/assets/images/exercise-run-display.png"],
       "date_added": "Dec 7 2022",
       "suggested_by": "@reedes"
-    }
+    },
+
+    {
+      "title": "Image Generator with Stable Diffusion v2",
+      "category-ids": [
+        "misc"
+      ],
+      "screenshots": ["https://github.com/ynagatomo/ImgGenSD2/raw/main/images/ss_4_imgs.png"],
+      "source": "https://github.com/ynagatomo/ImgGenSD2",
+      "tags": [
+        "swift",
+        "stable-diffusion"
+      ],
+      "license": "mit",
+      "date_added": "Dec 10 2022",
+      "suggested_by": "@dkhamsing",
+      "stars": 144
+    }    
   ]
 }
