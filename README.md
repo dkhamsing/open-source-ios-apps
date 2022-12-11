@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1441-green.svg) ![](https://img.shields.io/badge/Updated-December%20%209,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1442-green.svg) ![](https://img.shields.io/badge/Updated-December%2011,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1498,7 +1498,7 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/vladimir-kaltyrin/exchanger/blob/master/screenshot.png?raw=true'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `viper` `objc` `core-data` 
   -  ☆`11` 
-- [Expenses Tracker](https://github.com/abdorizak/Expense-Tracker-App): Track daily expense from your income
+- [Expense Tracker](https://github.com/abdorizak/Expense-Tracker-App): Track daily expense from your income
   -  <a href='https://raw.githubusercontent.com/abdorizak/Expense-Tracker-App/main/Screenshots.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`27` 
@@ -4049,6 +4049,10 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://i.imgur.com/6Tw24I2.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/akwJw0D.png'>`Screenshot 2`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`23` 
+- [Image Generator with Stable Diffusion v2](https://github.com/ynagatomo/ImgGenSD2)
+  -  <a href='https://github.com/ynagatomo/ImgGenSD2/raw/main/images/ss_4_imgs.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `stable-diffusion` 
+  -  ☆`144` 
 - [Ladybug](https://github.com/ethanhuang13/ladybug): Handle rdar:// links gracefully
   - [` App Store`](https://apps.apple.com/app/ladybug-handles-radar-links/id1402968134) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
