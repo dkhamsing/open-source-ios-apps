@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **335** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **334** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1763,10 +1763,6 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [NearbyWeather](https://github.com/erikmartens/NearbyWeather): Current weather for nearby stations with list, map and detail view
-  - [` App Store`](https://apps.apple.com/app/nearbyweather/id1227313069) <a href='https://i.imgur.com/Fba7ppE.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/fgPbJVx.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/MdQJiLj.png'>`Screenshot 3`</a> 
-  -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `javascript` `sqlite` `openweathermap` `rxswift` `alamofire` 
-  -  ☆`203` 
 - [Tropos Weather](https://github.com/thoughtbot/Tropos)
   - [` App Store`](https://apps.apple.com/app/tropos-weather-forecasts-for/id955209376) <a href='https://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg'>`Screenshot 1`</a>  <a href='https://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg'>`Screenshot 2`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `dark sky api (forecast api)` `reactivecocoa` 
