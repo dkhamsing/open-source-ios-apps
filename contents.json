@@ -15670,7 +15670,7 @@
         "weather"
       ],
       "description": "Current weather for nearby stations with list, map and detail view",
-      "source": "https://github.com/erikmartens/NearbyWeather",
+      "source": "https://github.com/erikmartens/nearbyweather-legacy",
       "itunes": "https://apps.apple.com/app/nearbyweather/id1227313069",
       "tags": [
         "swift",
@@ -15678,7 +15678,8 @@
         "sqlite",
         "openweathermap",
         "rxswift",
-        "alamofire"
+        "alamofire",
+        "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/Fba7ppE.png",
