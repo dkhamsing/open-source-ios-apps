@@ -221,6 +221,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist)
 - [NatsuLion](https://github.com/takuma104/ntlniph)
 - [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
+- [NearbyWeather](https://github.com/erikmartens/nearbyweather-legacy)
 - [Nested Lists](https://github.com/objcio/issue-4-full-core-data-application)
 - [News/YC](https://github.com/bennyguitar/News-YC---iPhone)
 - [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)
