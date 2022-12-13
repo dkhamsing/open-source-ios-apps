@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1442-green.svg) ![](https://img.shields.io/badge/Updated-December%2011,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1442-green.svg) ![](https://img.shields.io/badge/Updated-December%2013,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3877,10 +3877,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/80169743/181288499-3e0c2e95-cdf7-4388-8acd-464b1ac2ecb2.jpg'>`Screenshot 1`</a> 
   -  `2022`   `swift` `openweathermap` 
   -  ☆`12` 
-- [NearbyWeather](https://github.com/erikmartens/NearbyWeather): Current weather for nearby stations with list, map and detail view
-  - [` App Store`](https://apps.apple.com/app/nearbyweather/id1227313069) <a href='https://i.imgur.com/Fba7ppE.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/fgPbJVx.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/MdQJiLj.png'>`Screenshot 3`</a> 
-  -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `javascript` `sqlite` `openweathermap` `rxswift` `alamofire` 
-  -  ☆`203` 
 - [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)
   -  <a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` 
