@@ -29735,6 +29735,21 @@
       "date_added": "Dec 10 2022",
       "suggested_by": "@dkhamsing",
       "stars": 144
-    }    
+    },
+    {
+      "title": "Airdash",
+      "category-ids": ["file", "flutter"],
+      "description": "Transfer photos and files to any device, anywhere",
+      "source": "https://github.com/simonbengtsson/airdash",
+      "homepage": "https://airdash-project.web.app",
+      "itunes": "https://apps.apple.com/se/app/airdash-file-sharing/id1596599922",
+      "license": "mit",
+      "lang": "en",
+      "stars": 173,
+      "tags": ["flutter", "webrtc"],
+      "screenshots": ["https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/d1/65/bdd16515-3594-0d63-7486-3e3a5635aaf8/bb596084-a356-4916-bdd0-aede1ef119ea_Simulator_Screen_Shot_-_iPhone_13_-_2022-06-20_at_18.48.30.png/460x0w.webp"],
+      "date_added": "Dec 13 2022",
+      "suggested_by": "@simonbengtsson"
+    }
   ]
 }
