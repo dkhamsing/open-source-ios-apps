@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **334** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **335** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -671,6 +671,11 @@ Widget (iOS 14) — [back to top](#readme)
 File Management — [back to top](#readme) 
  
 
+- [Airdash](https://github.com/simonbengtsson/airdash): Transfer photos and files to any device, anywhere
+  - <a href=https://airdash-project.web.app>`https://airdash-project.web.app`</a>
+  - [` App Store`](https://apps.apple.com/se/app/airdash-file-sharing/id1596599922) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/d1/65/bdd16515-3594-0d63-7486-3e3a5635aaf8/bb596084-a356-4916-bdd0-aede1ef119ea_Simulator_Screen_Shot_-_iPhone_13_-_2022-06-20_at_18.48.30.png/460x0w.webp'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `webrtc` 
+  -  ☆`173` 
 - [Cozy Drive](https://github.com/cozy/cozy-drive): Store, manage, share all your files, photos and documents securely in the cloud (5GB free storage)
   - <a href=https://cozy.io/en/>`https://cozy.io/en/`</a>
   - [` App Store`](https://apps.apple.com/app/cozy-drive/id1224102389) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/b0/cc/e8/b0cce897-0e91-db42-fb0d-a3e7f1b8c91a/mzl.kfmaddan.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/73/00/4c/73004c98-1b29-5dd2-4e61-1f83a309ded6/mzl.tsjggnvf.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/3d/a3/a4/3da3a42f-9ebf-a80f-4930-dee1dc0f24ef/mzl.zejyzppj.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/86/98/fc/8698fcbe-6761-7bf8-a86f-053ebe1848db/mzl.yqxbksxf.png/460x0w.jpg'>`Screenshot 4`</a> 
@@ -1914,6 +1919,11 @@ https://firebase.google.com/ — [back to top](#readme)
 https://flutter.dev — [back to top](#readme) 
  
 
+- [Airdash](https://github.com/simonbengtsson/airdash): Transfer photos and files to any device, anywhere
+  - <a href=https://airdash-project.web.app>`https://airdash-project.web.app`</a>
+  - [` App Store`](https://apps.apple.com/se/app/airdash-file-sharing/id1596599922) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/d1/65/bdd16515-3594-0d63-7486-3e3a5635aaf8/bb596084-a356-4916-bdd0-aede1ef119ea_Simulator_Screen_Shot_-_iPhone_13_-_2022-06-20_at_18.48.30.png/460x0w.webp'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `webrtc` 
+  -  ☆`173` 
 - [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
   - [` App Store`](https://apps.apple.com/app/hacki/id1602043763) <a href='https://user-images.githubusercontent.com/7277662/148859621-965080f3-a191-44cd-a2fc-9ac1f489ef84.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859627-48290a22-9679-442b-bae4-97f21546b3ae.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859630-93f7e372-f2e7-4357-86c0-250a3f69c10f.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859632-b52a89ca-b8d7-464c-a508-faa86bcc87f8.png'>`Screenshot 4`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` 
