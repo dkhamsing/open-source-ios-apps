@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1442-green.svg) ![](https://img.shields.io/badge/Updated-December%2013,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1443-green.svg) ![](https://img.shields.io/badge/Updated-December%2014,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1426,6 +1426,11 @@ Widget (iOS 14) — [back to top](#readme)
 File Management — [back to top](#readme) 
  
 
+- [Airdash](https://github.com/simonbengtsson/airdash): Transfer photos and files to any device, anywhere
+  - <a href=https://airdash-project.web.app>`https://airdash-project.web.app`</a>
+  - [` App Store`](https://apps.apple.com/se/app/airdash-file-sharing/id1596599922) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/d1/65/bdd16515-3594-0d63-7486-3e3a5635aaf8/bb596084-a356-4916-bdd0-aede1ef119ea_Simulator_Screen_Shot_-_iPhone_13_-_2022-06-20_at_18.48.30.png/460x0w.webp'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `webrtc` 
+  -  ☆`173` 
 - [Amahi](https://github.com/amahi/ios): View all the docs, photos, videos and other data you have stored in your Amahi server, securely, from anywhere
   -  `2020`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `ipad` 
   -  ☆`37` 
@@ -4277,6 +4282,11 @@ https://flutter.dev — [back to top](#readme)
 - [11t](https://github.com/jeroensmeets/11t)
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `dart` 
   -  ☆`86` 
+- [Airdash](https://github.com/simonbengtsson/airdash): Transfer photos and files to any device, anywhere
+  - <a href=https://airdash-project.web.app>`https://airdash-project.web.app`</a>
+  - [` App Store`](https://apps.apple.com/se/app/airdash-file-sharing/id1596599922) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/d1/65/bdd16515-3594-0d63-7486-3e3a5635aaf8/bb596084-a356-4916-bdd0-aede1ef119ea_Simulator_Screen_Shot_-_iPhone_13_-_2022-06-20_at_18.48.30.png/460x0w.webp'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `webrtc` 
+  -  ☆`173` 
 - [bitalarm](https://github.com/damoonrashidi/bitalarm): Cryptocurrencies tracker
   -  <a href='https://user-images.githubusercontent.com/207421/79063575-d8ad3e80-7ca2-11ea-82fb-f7c2eee5d340.png'>`Screenshot 1`</a> 
   -  `2020`   `flutter` `dart` 
