@@ -26937,14 +26937,14 @@
       "category-ids": [
         "swiftui"
       ],
-      "source": "https://github.com/MrKai77/Binary-Clock",
+      "source": "https://github.com/MrKai77/Binary-Clock-iOS",
       "license": "gpl-3.0",
       "tags": [
         "swift",
         "swiftui"
       ],
       "screenshots": [
-        "https://github.com/MrKai77/Binary-Clock/raw/main/BinaryClock-screenshot.png"
+        "https://github.com/MrKai77/Binary-Clock-iOS/raw/main/BinaryClock-screenshot.png"
       ],
       "date_added": "Oct 14 2021",
       "suggested_by": "@MrKai77",
