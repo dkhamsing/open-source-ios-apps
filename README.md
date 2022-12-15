@@ -4,7 +4,9 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
+A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile: 
+> **Note**
+> If the list is clipped, go [here](README.md) for the entire list.
 
 ![](https://img.shields.io/badge/Projects-1443-green.svg) ![](https://img.shields.io/badge/Updated-December%2015,%202022-lightgrey.svg)
 
