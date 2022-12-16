@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1443-green.svg) ![](https://img.shields.io/badge/Updated-December%2015,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1443-green.svg) ![](https://img.shields.io/badge/Updated-December%2016,%202022-lightgrey.svg)
 
 Jump to
 
@@ -3987,7 +3987,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png'>`Screenshot 1`</a> 
   -  `2020`  [`unlicense`](http://choosealicense.com/licenses/unlicense/) `swift` 
   -  ☆`293` 
-- [Collected for AWS](https://github.com/RoyalIcing/CollectedApp)
+- [Collected for AWS](https://github.com/BurntCaramel/CollectedApp)
   -  <a href='https://user-images.githubusercontent.com/4723115/117551270-ea722a00-aff9-11eb-879c-b0fedb57b4d0.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/4723115/117551271-ec3bed80-aff9-11eb-969e-c04313e214db.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/4723115/117551272-ed6d1a80-aff9-11eb-8d73-78c8f38176aa.png'>`Screenshot 3`</a> 
   -  `2022`   `swift` 
   -  ☆`7` 
