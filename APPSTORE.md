@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **335** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **334** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1237,11 +1237,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/reading-list-a-book-tracking-log/id1217139955) <a href='https://raw.githubusercontent.com/AndrewBennet/ReadingListV1/master/media/iPhone%20X-0_ToReadList_framed.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `iphone` `ipad` `core-data` 
   -  ☆`295` 
-- [Showio](https://github.com/madyanov/showio-app): Simple TV show tracker
-  - <a href=https://madyanov.com/showio/en/>`https://madyanov.com/showio/en/`</a>
-  - [` App Store`](https://apps.apple.com/app/id1445035408) <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/madyanov/showio-app/blob/master/assets/screen-3.png?raw=true'>`Screenshot 3`</a> 
-  -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `tmdb` 
-  -  ☆`16` 
 - [Spontaneous - Random quotes](https://github.com/FranicevicNikola/DiscoverRandomQuotes)
   - [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374) <a href='https://github.com/FranicevicNikola/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `widgetkit` `ios14` 
