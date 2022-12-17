@@ -18619,13 +18619,14 @@
         "content"
       ],
       "description": "Simple TV show tracker",
-      "source": "https://github.com/madyanov/showio-app",
+      "source": "https://github.com/opensourceios/showio-app",
       "homepage": "https://madyanov.com/showio/en/",
       "itunes": "https://apps.apple.com/app/id1445035408",
       "license": "mit",
       "tags": [
         "swift",
-        "tmdb"
+        "tmdb",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/madyanov/showio-app/blob/master/assets/screen-1.png?raw=true",
