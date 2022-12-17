@@ -297,6 +297,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [SF Symbols Game](https://github.com/rudrankriyam/SF-Symbols-Game)
 - [Shadertweak](https://github.com/opensourceios/Shadertweak)
 - [Show OpenGL content](https://github.com/bradley/iOSSwiftOpenGL)
+- [Showio](https://github.com/opensourceios/showio-app)
 - [Shuttle-Tracker](https://github.com/AbstractedSheep/Shuttle-Tracker)
 - [SimpleMemo](https://github.com/lijuncode/SimpleMemo)
 - [Simplistic](https://github.com/e7711bbear/Simplistic)
