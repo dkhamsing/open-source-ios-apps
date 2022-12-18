@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1443-green.svg) ![](https://img.shields.io/badge/Updated-December%2017,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1444-green.svg) ![](https://img.shields.io/badge/Updated-December%2018,%202022-lightgrey.svg)
 
 Jump to
 
@@ -2873,6 +2873,8 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/frame-grabber/id1434703541) <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/3.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/arthurhammer/FrameGrabber/bbb7631baa1bd4f79e0de023cb58218ceecbc8d6/design/open-source-ios-apps/4.jpg'>`Screenshot 4`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`314` 
+- [Loadify](https://github.com/VishwaiOSDev/Loadify-iOS): Instant YouTube video downloader
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swift5` `download` `youtube` `downloader` 
 - [Playerly](https://github.com/julianschiavo/Playerly): Play videos from the Files app in a better and darker interface
   -  <a href='https://raw.githubusercontent.com/justJS/Playerly/master/Playerly/Other/Screenshot.png'>`Screenshot 1`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
