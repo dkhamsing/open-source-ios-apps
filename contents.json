@@ -970,13 +970,13 @@
     {
       "title": "Loadify",
       "category-ids": [
-        "video",
-        "media"
+        "video"
       ],
       "description": "Instant YouTube video downloader",
       "source": "https://github.com/VishwaiOSDev/Loadify-iOS",
       "license": "mit",
       "tags": [
+        "swift",
         "swift5",
         "download",
         "youtube",
