@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1444-green.svg) ![](https://img.shields.io/badge/Updated-December%2018,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1444-green.svg) ![](https://img.shields.io/badge/Updated-December%2019,%202022-lightgrey.svg)
 
 Jump to
 
@@ -5135,7 +5135,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/khabit/id1533656718) <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'>`Screenshot 3`</a> 
   -  `2020`   `swift` `swiftui` 
   -  ☆`43` 
-- [Koober](https://github.com/raywenderlich/swiftui-example-app-koober): Ride hailing example
+- [Koober](https://github.com/kodecocodes/swiftui-example-app-koober): Ride hailing example
   -  `2019`   `swift` `swiftui` 
   -  ☆`54` 
 - [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views): Discover and share places you love
