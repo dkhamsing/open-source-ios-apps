@@ -14364,12 +14364,12 @@
         "finance"
       ],
       "description": "Money manager for board games",
-      "source": "https://github.com/richardxyx/BoardBank",
+      "source": "https://github.com/richardneitzke/BoardBank",
       "homepage": "https://www.richardneitzke.com",
       "license": "mit",
       "stars": 164,
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/fXB42iY.png",
