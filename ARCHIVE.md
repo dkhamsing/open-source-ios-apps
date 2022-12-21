@@ -53,6 +53,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Be my eyes](https://github.com/opensourceios/bemyeyes-ios)
 - [Bequest](https://github.com/splinesoft/Bequest)
 - [BitStore](https://github.com/BitStore/BitStore-iOS)
+- [BoardBank](https://github.com/richardneitzke/BoardBank)
 - [Bombus Pomodoro](https://github.com/opensourceios/Bombus)
 - [Boostnote](https://github.com/BoostIO/boostnote-mobile)
 - [Brew](https://github.com/contentful/ContentfulWatchKitExample)
