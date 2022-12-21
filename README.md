@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1444-green.svg) ![](https://img.shields.io/badge/Updated-December%2020,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1444-green.svg) ![](https://img.shields.io/badge/Updated-December%2021,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1477,11 +1477,6 @@ File Management — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/argent-os/argent-ios/master/demo.png'>`Screenshot 1`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`45` 
-- [BoardBank](https://github.com/richardxyx/BoardBank): Money manager for board games
-  - <a href=https://www.richardneitzke.com>`https://www.richardneitzke.com`</a>
-  -  <a href='https://i.imgur.com/fXB42iY.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/EMGOw0g.png'>`Screenshot 2`</a> 
-  -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
-  -  ☆`164` 
 - [Buck Tracker](https://github.com/hkalexling/Buck_Tracker): Expense tracker
   -  `2016`   `swift` 
   -  ☆`35` 
