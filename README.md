@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1444-green.svg) ![](https://img.shields.io/badge/Updated-December%2021,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1445-green.svg) ![](https://img.shields.io/badge/Updated-December%2022,%202022-lightgrey.svg)
 
 Jump to
 
@@ -950,6 +950,10 @@ Jump to
   -  <a href='https://github.com/IcedOtaku/FakeGithub/blob/main/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://github.com/IcedOtaku/FakeGithub/blob/main/Screenshots/2.png'>`Screenshot 2`</a>  <a href='https://github.com/IcedOtaku/FakeGithub/blob/main/Screenshots/3.png'>`Screenshot 3`</a>  <a href='https://github.com/IcedOtaku/FakeGithub/blob/main/Screenshots/4.png'>`Screenshot 4`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`5` 
+- [GistHub](https://github.com/ldakhoa/GistHub): GitHub Gist Management, Comment, In-app Editor
+  - [` App Store`](https://apps.apple.com/app/gisthub/id1660465260) <a href='https://imgur.com/PorFi4s'>`Screenshot 1`</a>  <a href='https://imgur.com/MUNRH0y'>`Screenshot 2`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `asyncswift` 
+  -  ☆`8` 
 - [GitHawk](https://github.com/GitHawkApp/GitHawk): GitHub project manager
   - [` App Store`](https://apps.apple.com/app/githawk-for-github/id1252320249) <a href='https://i.imgur.com/XwW4MI2.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/sFgTFJX.png'>`Screenshot 2`</a> 
   -  `2022`   `swift` `iglistkit` `snapkit` `alamofire` 
@@ -1598,7 +1602,7 @@ File Management — [back to top](#readme)
   -  `2019`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
   -  ☆`1420` 
 - [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios): A fully decentralized Bitcoin, Ethereum, EOS, Binance Chain, Bitcoin Cash and DASH currency wallet
-  - [` App Store`](https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907) <a href='https://github.com/horizontalsystems/unstoppable-wallet-ios/blob/master/Images/BankWalletAllTabs-X-Mockup.jpg?raw=true'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907)
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`434` 
 - [Wei Wallet](https://github.com/popshootjapan/WeiWallet-iOS): Ethereum wallet
