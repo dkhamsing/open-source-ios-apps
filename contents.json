@@ -20247,14 +20247,15 @@
         "macos"
       ],
       "description": "Quickly solve any math problem with an algorithm, save time checking your homework or studying for a test",
-      "source": "https://github.com/GroupeMINASTE/Delta-iOS",
+      "source": "https://github.com/opensourceios/Delta-iOS",
       "itunes": "https://apps.apple.com/app/delta-math-helper/id1436506800",
       "license": "gpl-3.0",
       "stars": 16,
       "tags": [
         "swift",
         "macos",
-        "ipad"
+        "ipad",
+        "archive"
       ],
       "screenshots": [
         "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/ec/5f/17ec5fa5-57ac-7504-65a8-dc007b6afb03/pr_source.png/460x0w.png",
