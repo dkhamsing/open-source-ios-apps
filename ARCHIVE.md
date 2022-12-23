@@ -102,6 +102,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Crystal Clipboard](https://github.com/jzzocc/crystal-clipboard-ios)
 - [Currency Converter](https://github.com/ashwinpreet/ReactNativeExamples)
 - [Danbooru Lite](https://github.com/satishbabariya/Danbooru-Lite)
+- [Delta: Math helper](https://github.com/opensourceios/Delta-iOS)
 - [DesireKeyboard](https://github.com/noppefoxwolf/DesireKeyboard)
 - [Dicershaker](https://github.com/millenomi/diceshaker)
 - [Dictum](https://github.com/matthewpalmer/Dictum)
