@@ -20126,7 +20126,7 @@
         "security"
       ],
       "description": "Easy-to-use two-factor authentication",
-      "source": "https://github.com/calleluks/Tofu",
+      "source": "https://github.com/iKenndac/Tofu",
       "itunes": "https://apps.apple.com/app/tofu-authenticator/id1082229305",
       "license": "isc",
       "tags": [
