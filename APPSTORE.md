@@ -1553,7 +1553,7 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/simplelogin-anti-spam/id1494359858) <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/1.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`65` 
-- [Tofu Authenticator](https://github.com/calleluks/Tofu): Easy-to-use two-factor authentication
+- [Tofu Authenticator](https://github.com/iKenndac/Tofu): Easy-to-use two-factor authentication
   - [` App Store`](https://apps.apple.com/app/tofu-authenticator/id1082229305) <a href='https://i.imgur.com/QXPVzw6.png'>`Screenshot 1`</a> 
   -  `2022`  [`isc`](http://choosealicense.com/licenses/isc/) `swift` `2fa` 
   -  ☆`371` 
