@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1445-green.svg) ![](https://img.shields.io/badge/Updated-December%2026,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1446-green.svg) ![](https://img.shields.io/badge/Updated-December%2027,%202022-lightgrey.svg)
 
 Jump to
 
@@ -1515,6 +1515,9 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/IcedOtaku/MoneyPlusPro/blob/master/images/main.png'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`23` 
+- [Motivator](https://github.com/DaniSpringer/timeismoney)
+  - [` App Store`](https://apps.apple.com/app/motivator-money-counter/id6444535220)
+  -   `swift` 
 - [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances
   - <a href=https://www.jaydenirwin.com/myassets/>`https://www.jaydenirwin.com/myassets/`</a>
   - [` App Store`](https://apps.apple.com/app/my-assets/id1592367070) <a href='https://www.jaydenirwin.com/myassets/shot1.jpg'>`Screenshot 1`</a> 
