@@ -29791,6 +29791,7 @@
     },
     {
       "title": "Motivator",
+      "description": "Countdown for how much more you can make today",      
       "category-ids": [
         "finance"
       ],
