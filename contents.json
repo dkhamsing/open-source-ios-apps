@@ -29803,6 +29803,21 @@
       "license": "other",
       "date_added": "Dec 27 2022",
       "suggested_by": "@DaniSpringer"     
-    }    
+    },
+    {
+      "title": "PickerFull",
+      "description": "Extract a color from any photo",
+      "category-ids": [
+        "color"
+      ],
+      "itunes": "https://apps.apple.com/app/pickerfull/id1410565176",
+      "source": "https://github.com/DaniSpringer/pickerfull",
+      "tags": [
+        "swift"
+      ],
+      "license": "other",
+      "date_added": "Dec 28 2022",
+      "suggested_by": "@DaniSpringer"     
+    }
   ]
 }
