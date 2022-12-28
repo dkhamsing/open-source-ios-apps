@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **335** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **336** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -230,6 +230,9 @@ Jump to
 [back to top](#readme) 
  
 
+- [PickerFull](https://github.com/DaniSpringer/pickerfull): Extract a color from any photo
+  - [` App Store`](https://apps.apple.com/app/pickerfull/id1410565176)
+  -   `swift` 
 ## Clock 
  
 [back to top](#readme) 
@@ -709,7 +712,7 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1105890730) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/43/e8/45/43e84585-f1e0-7af6-7cb6-28ae3cfc5563/pr_source.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `viper` 
   -  ☆`19` 
-- [Motivator](https://github.com/DaniSpringer/timeismoney)
+- [Motivator](https://github.com/DaniSpringer/timeismoney): Countdown for how much more you can make today
   - [` App Store`](https://apps.apple.com/app/motivator-money-counter/id6444535220)
   -   `swift` 
 - [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances
