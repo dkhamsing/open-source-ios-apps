@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1446-green.svg) ![](https://img.shields.io/badge/Updated-December%2027,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1447-green.svg) ![](https://img.shields.io/badge/Updated-December%2028,%202022-lightgrey.svg)
 
 Jump to
 
@@ -454,6 +454,9 @@ Jump to
   -  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot3.png?raw=true'>`Screenshot 3`</a> 
   -  `2020`   `swift` `palette` `color` `earthview` 
   -  ☆`19` 
+- [PickerFull](https://github.com/DaniSpringer/pickerfull): Extract a color from any photo
+  - [` App Store`](https://apps.apple.com/app/pickerfull/id1410565176)
+  -   `swift` 
 ## Clock 
  
 [back to top](#readme) 
@@ -1515,7 +1518,7 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/IcedOtaku/MoneyPlusPro/blob/master/images/main.png'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`23` 
-- [Motivator](https://github.com/DaniSpringer/timeismoney)
+- [Motivator](https://github.com/DaniSpringer/timeismoney): Countdown for how much more you can make today
   - [` App Store`](https://apps.apple.com/app/motivator-money-counter/id6444535220)
   -   `swift` 
 - [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances
