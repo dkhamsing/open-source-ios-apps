@@ -29818,6 +29818,21 @@
       "license": "other",
       "date_added": "Dec 28 2022",
       "suggested_by": "@DaniSpringer"     
+    },
+    {
+      "title": "Mathee",
+      "description": "Math games collection",
+      "category-ids": [
+        "misc"
+      ],
+      "itunes": "https://apps.apple.com/app/mathee/id1406084758",
+      "source": "https://github.com/DaniSpringer/mathee",
+      "tags": [
+        "swift"
+      ],
+      "license": "other",
+      "date_added": "Dec 29 2022",
+      "suggested_by": "@DaniSpringer"     
     }
   ]
 }
