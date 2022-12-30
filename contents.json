@@ -29833,6 +29833,20 @@
       "license": "other",
       "date_added": "Dec 29 2022",
       "suggested_by": "@DaniSpringer"     
+    },
+    {
+      "title": "Prefacto for prime numbers",
+      "category-ids": [
+        "misc"
+      ],
+      "itunes": "https://apps.apple.com/app/prefacto/id1402417667",
+      "source": "https://github.com/DaniSpringer/prefacto",
+      "tags": [
+        "swift"
+      ],
+      "license": "other",
+      "date_added": "Dec 30 2022",
+      "suggested_by": "@DaniSpringer"     
     }
   ]
 }
