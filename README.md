@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1449-green.svg) ![](https://img.shields.io/badge/Updated-December%2030,%202022-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1449-green.svg) ![](https://img.shields.io/badge/Updated-December%2031,%202022-lightgrey.svg)
 
 Jump to
 
@@ -804,7 +804,6 @@ Jump to
   -  `2021`   `swift` 
   -  ☆`31` 
 - [Harbour](https://github.com/rrroyal/Harbour): Docker/Portainer app
-  -  <a href='https://raw.githubusercontent.com/rrroyal/Harbour/legacy/Resources/Screenshots/Light/Dashboard.png'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `docker` `swiftui` `ipad` 
   -  ☆`236` 
 - [HTTP/S Response Code Lookup](https://github.com/Person2099/HTTPS-Responses): Quick and easy way to lookup HTTP response codes
@@ -5092,7 +5091,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` 
   -  ☆`6` 
 - [Harbour](https://github.com/rrroyal/Harbour): Docker/Portainer app
-  -  <a href='https://raw.githubusercontent.com/rrroyal/Harbour/legacy/Resources/Screenshots/Light/Dashboard.png'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `docker` `swiftui` `ipad` 
   -  ☆`236` 
 - [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery): Example of Harvest (Elm Architecture + Optics)
