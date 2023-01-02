@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1449-green.svg) ![](https://img.shields.io/badge/Updated-January%20%201,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1449-green.svg) ![](https://img.shields.io/badge/Updated-January%20%202,%202023-lightgrey.svg)
 
 Jump to
 
