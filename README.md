@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1449-green.svg) ![](https://img.shields.io/badge/Updated-January%20%202,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1450-green.svg) ![](https://img.shields.io/badge/Updated-January%20%203,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3350,6 +3350,8 @@ https://newsapi.org/ — [back to top](#readme)
 - [Sample MVVM, Data Binding, Dependency Injection](https://github.com/igorkulman/iOSSampleApp)
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`632` 
+- [Scrumdinger](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger): Example by Apple
+  -   `swift` `swiftui` 
 - [Siesta GitHub Browser](https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser): Browse & star GitHub repositories
   -  <a href='https://i.imgur.com/OBGvFKw.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/50eCbeX.png'>`Screenshot 2`</a> 
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `rest` 
