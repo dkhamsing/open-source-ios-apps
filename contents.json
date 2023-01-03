@@ -29875,6 +29875,20 @@
       "suggested_by": "@DaniSpringer",
       "stars": 0,
       "updated": "2022-12-27 03:54:37 UTC"
-    }
+    },
+    {
+      "title": "Scrumdinger",
+      "category-ids": [
+        "sample"
+      ],
+      "description": "Example by Apple",
+      "source": "https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger",
+      "tags": [
+        "swift", "swiftui"
+      ],
+      "license": "other",
+      "date_added": "Jan 3 2023",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
