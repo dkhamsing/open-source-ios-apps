@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1450-green.svg) ![](https://img.shields.io/badge/Updated-January%20%203,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1451-green.svg) ![](https://img.shields.io/badge/Updated-January%20%205,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1998,7 +1998,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - [MoodSnap](https://github.com/drpeterrohde/MoodSnap): Mood diary
   - <a href=https://moodsnap.app/>`https://moodsnap.app/`</a>
   - [` App Store`](https://apps.apple.com/au/app/moodsnap-mood-diary/id1616291944) <a href='https://i0.wp.com/moodsnap.app/wp-content/uploads/2022/04/6D23AD28-AA53-47EE-B01F-81637A23FEF2.jpeg?resize=947%2C2048&ssl=1'>`Screenshot 1`</a> 
-  -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swiftui` 
+  -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` 
   -  ☆`18` 
 - [MyWeight History](https://github.com/diogot/MyWeight): Body mass tracker with easy data input & access to history
   - [` App Store`](https://apps.apple.com/app/myweight-history/id1098061879) <a href='https://user-images.githubusercontent.com/4723115/146957241-b8b43b10-1132-472d-8fb7-b95afdf0cfc0.png'>`Screenshot 1`</a> 
@@ -3905,6 +3905,9 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/comyar/Sol/raw/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://github.com/comyar/Sol/raw/master/Screenshots/2.png'>`Screenshot 2`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `wunderground api` 
   -  ☆`1429` 
+- [StormyLaunch](https://github.com/Sendeky/weatherkit-weather-app): Weather app with launchable rocket and animations
+  -  <a href='https://user-images.githubusercontent.com/83136978/210652066-0f5549b8-3f8c-48dc-967e-34bd6565400f.jpg'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652073-e86a0af8-fbea-426b-8188-6ce3ca398d15.jpg'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652084-95f427d1-4151-43d9-a8a0-de1ce7b8ee70.jpg'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652087-967675d9-dcb0-4372-b986-c3a364c95844.jpg'>`Screenshot 4`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652091-f347f1d6-8d0e-4d1b-8935-cd41b4518c9a.jpg'>`Screenshot 5`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [Sunshine Weather](https://github.com/MaximeHeckel/sunshine-weather-app)
   -  <a href='https://i.imgur.com/gLwqXmY.png'>`Screenshot 1`</a> 
   -  `2021`   `swift` `swiftui` `openweathermap` 
