@@ -29891,25 +29891,25 @@
       "suggested_by": "@dkhamsing"
     },
     {
-	    "title": “StormyLaunch,
+	    "title": "StormyLaunch",
 	    "category-ids": [
-        “weather”
+        "weather"
       ],
 	    "tags": [
         "swift"
       ],
-	    "description": “Weather app with launchable rocket and animations”,
+	    "description": "Weather app with launchable rocket and animations",
 	    "source": "https://github.com/Sendeky/weatherkit-weather-app",
 	    "screenshots": [
-      "https://user-images.githubusercontent.com/83136978/210652066-0f5549b8-3f8c-48dc-967e-34bd6565400f.jpg”, 
-      “https://user-images.githubusercontent.com/83136978/210652073-e86a0af8-fbea-426b-8188-6ce3ca398d15.jpg”,
-      “https://user-images.githubusercontent.com/83136978/210652084-95f427d1-4151-43d9-a8a0-de1ce7b8ee70.jpg”,
-      “https://user-images.githubusercontent.com/83136978/210652087-967675d9-dcb0-4372-b986-c3a364c95844.jpg”,
-      “https://user-images.githubusercontent.com/83136978/210652091-f347f1d6-8d0e-4d1b-8935-cd41b4518c9a.jpg”
+      "https://user-images.githubusercontent.com/83136978/210652066-0f5549b8-3f8c-48dc-967e-34bd6565400f.jpg", 
+      "https://user-images.githubusercontent.com/83136978/210652073-e86a0af8-fbea-426b-8188-6ce3ca398d15.jpg",
+      "https://user-images.githubusercontent.com/83136978/210652084-95f427d1-4151-43d9-a8a0-de1ce7b8ee70.jpg",
+      "https://user-images.githubusercontent.com/83136978/210652087-967675d9-dcb0-4372-b986-c3a364c95844.jpg",
+      "https://user-images.githubusercontent.com/83136978/210652091-f347f1d6-8d0e-4d1b-8935-cd41b4518c9a.jpg"
       ],
 	    "license": "mit",
-	    "date_added": “Jan 4 2023”,
-	    "suggested_by": “@Sendeky”
+	    "date_added": "Jan 4 2023",
+	    "suggested_by": "@Sendeky"
     }
   ]
 }
