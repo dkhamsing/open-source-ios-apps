@@ -904,7 +904,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - [MoodSnap](https://github.com/drpeterrohde/MoodSnap): Mood diary
   - <a href=https://moodsnap.app/>`https://moodsnap.app/`</a>
   - [` App Store`](https://apps.apple.com/au/app/moodsnap-mood-diary/id1616291944) <a href='https://i0.wp.com/moodsnap.app/wp-content/uploads/2022/04/6D23AD28-AA53-47EE-B01F-81637A23FEF2.jpeg?resize=947%2C2048&ssl=1'>`Screenshot 1`</a> 
-  -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swiftui` 
+  -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` 
   -  ☆`18` 
 - [MyWeight History](https://github.com/diogot/MyWeight): Body mass tracker with easy data input & access to history
   - [` App Store`](https://apps.apple.com/app/myweight-history/id1098061879) <a href='https://user-images.githubusercontent.com/4723115/146957241-b8b43b10-1132-472d-8fb7-b95afdf0cfc0.png'>`Screenshot 1`</a> 
