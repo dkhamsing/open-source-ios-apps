@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1451-green.svg) ![](https://img.shields.io/badge/Updated-January%20%205,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1452-green.svg) ![](https://img.shields.io/badge/Updated-January%20%207,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1659,6 +1659,9 @@ File Management — [back to top](#readme)
 - [CodeCombat](https://github.com/codecombat/codecombat-ios): Multiplayer programming game for learning how to code
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`57` 
+- [Color Way](https://github.com/mshll/Color-Way): A fast-paced 2D game where you navigate colored barriers that match your color.
+  -  <a href='https://user-images.githubusercontent.com/17913113/211129119-1e304b4c-f1e7-42d3-8e41-b25503e71126.PNG'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129116-432d635b-89a5-450e-a1be-177fff78d3e4.PNG'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129115-e647ce29-151b-424c-b46c-8f130f99a857.PNG'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129113-41f4ad1a-041a-40f7-a86c-256a49132e81.PNG'>`Screenshot 4`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129104-148bee36-020f-45f7-a579-317785df5dbf.PNG'>`Screenshot 5`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [Concentration game (翻翻看)](https://github.com/geek5nan/FanFanSwift)
   -  <a href='https://raw.githubusercontent.com/geek5nan/FanFanSwift/master/screenshot/2.png'>`Screenshot 1`</a> 
   -  `2019`   `swift` 
@@ -1867,6 +1870,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/43776784/174206305-e52d9933-b80c-4c70-92d5-b7a03f4f909c.gif'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/43776784/174208219-ca441c05-c3db-437e-86a8-a2d00ea1cae0.gif'>`Screenshot 2`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `spritekit` 
   -  ☆`10` 
+- [Color Way](https://github.com/mshll/Color-Way): A fast-paced 2D game where you navigate colored barriers that match your color.
+  -  <a href='https://user-images.githubusercontent.com/17913113/211129119-1e304b4c-f1e7-42d3-8e41-b25503e71126.PNG'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129116-432d635b-89a5-450e-a1be-177fff78d3e4.PNG'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129115-e647ce29-151b-424c-b46c-8f130f99a857.PNG'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129113-41f4ad1a-041a-40f7-a86c-256a49132e81.PNG'>`Screenshot 4`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129104-148bee36-020f-45f7-a579-317785df5dbf.PNG'>`Screenshot 5`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [Crosses-n-Ous](https://github.com/jVirus/tic-tac-toe): Class Tic Tac Toe reincarnation with AI and state machines
   -  <a href='https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif'>`Screenshot 1`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `gameplaykit` 
@@ -3905,7 +3911,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/comyar/Sol/raw/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://github.com/comyar/Sol/raw/master/Screenshots/2.png'>`Screenshot 2`</a> 
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `wunderground api` 
   -  ☆`1429` 
-- [StormyLaunch](https://github.com/Sendeky/weatherkit-weather-app): Weather app with launchable rocket and animations
+- [StormyLaunch](https://github.com/Sendeky/weatherkit-weather-app): Weather with launchable rocket and animations
   -  <a href='https://user-images.githubusercontent.com/83136978/210652066-0f5549b8-3f8c-48dc-967e-34bd6565400f.jpg'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652073-e86a0af8-fbea-426b-8188-6ce3ca398d15.jpg'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652084-95f427d1-4151-43d9-a8a0-de1ce7b8ee70.jpg'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652087-967675d9-dcb0-4372-b986-c3a364c95844.jpg'>`Screenshot 4`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652091-f347f1d6-8d0e-4d1b-8935-cd41b4518c9a.jpg'>`Screenshot 5`</a> 
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [Sunshine Weather](https://github.com/MaximeHeckel/sunshine-weather-app)
