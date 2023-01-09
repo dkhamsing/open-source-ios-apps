@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1452-green.svg) ![](https://img.shields.io/badge/Updated-January%20%207,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1452-green.svg) ![](https://img.shields.io/badge/Updated-January%20%209,%202023-lightgrey.svg)
 
 Jump to
 
@@ -554,7 +554,7 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/PiXeL16/SnakeClassic/master/Art/SnakeWatch.png'>`Screenshot 1`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`59` 
-- [SpotifyClone](https://github.com/gabrieldenoni/SpotifyClone): Uses the official API
+- [SpotifyClone](https://github.com/denoni/SpotifyClone): Uses the official API
   -  <a href='https://imgur.com/a/usflCky'>`Screenshot 1`</a>  <a href='https://imgur.com/a/xWAsYYv'>`Screenshot 2`</a>  <a href='https://imgur.com/a/VGYibqJ'>`Screenshot 3`</a>  <a href='https://imgur.com/a/MhKMWLb'>`Screenshot 4`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `spotify` `swiftui` `combine` `mvvm` `alamofire` 
   -  ☆`102` 
@@ -5306,7 +5306,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1602980337) <a href='https://github.com/atrinh0/spiro/raw/main/images/demo.gif'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `playgrounds` 
   -  ☆`47` 
-- [SpotifyClone](https://github.com/gabrieldenoni/SpotifyClone): Uses the official API
+- [SpotifyClone](https://github.com/denoni/SpotifyClone): Uses the official API
   -  <a href='https://imgur.com/a/usflCky'>`Screenshot 1`</a>  <a href='https://imgur.com/a/xWAsYYv'>`Screenshot 2`</a>  <a href='https://imgur.com/a/VGYibqJ'>`Screenshot 3`</a>  <a href='https://imgur.com/a/MhKMWLb'>`Screenshot 4`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `spotify` `swiftui` `combine` `mvvm` `alamofire` 
   -  ☆`102` 
