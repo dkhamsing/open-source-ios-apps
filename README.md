@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1452-green.svg) ![](https://img.shields.io/badge/Updated-January%20%209,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1452-green.svg) ![](https://img.shields.io/badge/Updated-January%2010,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1659,9 +1659,6 @@ File Management — [back to top](#readme)
 - [CodeCombat](https://github.com/codecombat/codecombat-ios): Multiplayer programming game for learning how to code
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`57` 
-- [Color Way](https://github.com/mshll/Color-Way): A fast-paced 2D game where you navigate colored barriers that match your color.
-  -  <a href='https://user-images.githubusercontent.com/17913113/211129119-1e304b4c-f1e7-42d3-8e41-b25503e71126.PNG'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129116-432d635b-89a5-450e-a1be-177fff78d3e4.PNG'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129115-e647ce29-151b-424c-b46c-8f130f99a857.PNG'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129113-41f4ad1a-041a-40f7-a86c-256a49132e81.PNG'>`Screenshot 4`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129104-148bee36-020f-45f7-a579-317785df5dbf.PNG'>`Screenshot 5`</a> 
-  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [Concentration game (翻翻看)](https://github.com/geek5nan/FanFanSwift)
   -  <a href='https://raw.githubusercontent.com/geek5nan/FanFanSwift/master/screenshot/2.png'>`Screenshot 1`</a> 
   -  `2019`   `swift` 
@@ -1870,7 +1867,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/43776784/174206305-e52d9933-b80c-4c70-92d5-b7a03f4f909c.gif'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/43776784/174208219-ca441c05-c3db-437e-86a8-a2d00ea1cae0.gif'>`Screenshot 2`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `spritekit` 
   -  ☆`10` 
-- [Color Way](https://github.com/mshll/Color-Way): A fast-paced 2D game where you navigate colored barriers that match your color.
+- [Color Way](https://github.com/mshll/Color-Way): Fast-paced 2D game where you navigate colored barriers that match your color
   -  <a href='https://user-images.githubusercontent.com/17913113/211129119-1e304b4c-f1e7-42d3-8e41-b25503e71126.PNG'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129116-432d635b-89a5-450e-a1be-177fff78d3e4.PNG'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129115-e647ce29-151b-424c-b46c-8f130f99a857.PNG'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129113-41f4ad1a-041a-40f7-a86c-256a49132e81.PNG'>`Screenshot 4`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129104-148bee36-020f-45f7-a579-317785df5dbf.PNG'>`Screenshot 5`</a> 
   -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
 - [Crosses-n-Ous](https://github.com/jVirus/tic-tac-toe): Class Tic Tac Toe reincarnation with AI and state machines
