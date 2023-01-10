@@ -29914,10 +29914,9 @@
     {
       "title": "Color Way",
       "category-ids": [
-        "game",
         "spritekit"
       ],
-      "description": "A fast-paced 2D game where you navigate colored barriers that match your color.",
+      "description": "Fast-paced 2D game where you navigate colored barriers that match your color",
       "source": "https://github.com/mshll/Color-Way",
       "license": "mit",
       "tags": [
