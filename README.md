@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1452-green.svg) ![](https://img.shields.io/badge/Updated-January%2010,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1453-green.svg) ![](https://img.shields.io/badge/Updated-January%2014,%202023-lightgrey.svg)
 
 Jump to
 
@@ -198,7 +198,7 @@ Jump to
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`155` 
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets
-  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://www.clendar.info/img/screenshot.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://user-images.githubusercontent.com/4723115/211681182-b43b1c2d-b754-4408-ae44-c94fbd83370c.png'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `iphone` `ipad` 
   -  ☆`418` 
 - [Cortado](https://github.com/lazerwalker/cortado): Track your caffeine consumption habits
@@ -424,7 +424,7 @@ Jump to
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`136` 
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets
-  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://www.clendar.info/img/screenshot.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://user-images.githubusercontent.com/4723115/211681182-b43b1c2d-b754-4408-ae44-c94fbd83370c.png'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `iphone` `ipad` 
   -  ☆`418` 
 - [FreeTimePicker](https://github.com/fromkk/FreeTimePicker): Find free time in your calendar
@@ -1390,7 +1390,7 @@ Widget (iOS 14) — [back to top](#readme)
  
 
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets
-  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://www.clendar.info/img/screenshot.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://user-images.githubusercontent.com/4723115/211681182-b43b1c2d-b754-4408-ae44-c94fbd83370c.png'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `iphone` `ipad` 
   -  ☆`418` 
 - [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Check your GitHub contributions using Home Screen Widgets
@@ -3952,6 +3952,10 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/66309582/169184790-873d6e02-aacf-4348-9d39-a11d4f7bd1f6.png'>`Screenshot 1`</a> 
   -  `2022`   `swift` 
   -  ☆`21` 
+- [AR Diffusion Museum](https://github.com/ynagatomo/ARDiffMuseum): Generate images using Stable Diffusion and displays them in AR
+  -  <a href='https://github.com/ynagatomo/ImgGenSD2/raw/main/images/ss_4_imgs.png'>`Screenshot 1`</a> 
+  -   `swift` `stable-diffusion` 
+  -  ☆`45` 
 - [ARStickers](https://github.com/ynagatomo/ARStickers): Put stickers in the 3d space
   -  <a href='https://user-images.githubusercontent.com/66309582/171107988-02406cd6-b625-41d8-9f70-ef15b011d82d.jpeg'>`Screenshot 1`</a> 
   -  `2022`   `swift` `arkit` `realitykit` 
