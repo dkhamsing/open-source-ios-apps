@@ -29931,6 +29931,25 @@
       ],
       "date_added": "Jan 6 2023",
       "suggested_by": "@mshll"
-    }
+    },
+    {
+      "title": "AR Diffusion Museum",
+      "description": "Generate images using Stable Diffusion and displays them in AR",
+      "category-ids": [
+        "misc"
+      ],
+      "screenshots": [
+        "https://github.com/ynagatomo/ImgGenSD2/raw/main/images/ss_4_imgs.png"
+      ],
+      "source": "https://github.com/ynagatomo/ARDiffMuseum",
+      "tags": [
+        "swift",
+        "stable-diffusion"
+      ],
+      "license": "other",
+      "date_added": "Jan 13 2023",
+      "suggested_by": "@dkhamsing",
+      "stars": 45      
+    }    
   ]
 }
