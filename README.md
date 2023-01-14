@@ -3953,7 +3953,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2022`   `swift` 
   -  ☆`21` 
 - [AR Diffusion Museum](https://github.com/ynagatomo/ARDiffMuseum): Generate images using Stable Diffusion and displays them in AR
-  -  <a href='https://github.com/ynagatomo/ImgGenSD2/raw/main/images/ss_4_imgs.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/ynagatomo/ARDiffMuseum/raw/main/images/ui_960.jpg'>`Screenshot 1`</a> 
   -   `swift` `stable-diffusion` 
   -  ☆`45` 
 - [ARStickers](https://github.com/ynagatomo/ARStickers): Put stickers in the 3d space
