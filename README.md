@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1453-green.svg) ![](https://img.shields.io/badge/Updated-January%2014,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1454-green.svg) ![](https://img.shields.io/badge/Updated-January%2015,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4134,6 +4134,10 @@ https://joinmastodon.org — [back to top](#readme)
 - [Prefacto for prime numbers](https://github.com/DaniSpringer/prefacto)
   - [` App Store`](https://apps.apple.com/app/prefacto/id1402417667)
   -  `2022`   `swift` 
+- [Question answering and text generation](https://github.com/huggingface/swift-coreml-transformers): Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT
+  -  <a href='https://raw.githubusercontent.com/huggingface/swift-coreml-transformers/master/media/coreml-gpt2.gif'>`Screenshot 1`</a> 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `gpt2` 
+  -  ☆`1300` 
 - [Recipes](https://github.com/onmyway133/Recipes)
   -  <a href='https://github.com/onmyway133/Recipes/raw/master/Screenshots/Home.png'>`Screenshot 1`</a> 
   -  `2020`   `swift` 
