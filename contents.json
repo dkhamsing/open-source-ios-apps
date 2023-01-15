@@ -29950,6 +29950,25 @@
       "date_added": "Jan 13 2023",
       "suggested_by": "@dkhamsing",
       "stars": 45      
-    }    
+    },
+    {
+      "title": "Question answering and text generation",
+      "description": "Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT",
+      "category-ids": [
+        "misc"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/huggingface/swift-coreml-transformers/master/media/coreml-gpt2.gif"
+      ],
+      "source": "https://github.com/huggingface/swift-coreml-transformers",
+      "tags": [
+        "swift",
+        "gpt2"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Jan 15 2023",
+      "suggested_by": "@dkhamsing",
+      "stars": 1300
+    }
   ]
 }
