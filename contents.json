@@ -14945,10 +14945,10 @@
       "description": "An early stage app.net iPhone app",
       "source": "https://github.com/FredericJacobs/fudge",
       "tags": [
-        "archive"
+        "archive", "archive"
       ],
       "category-ids": [
-        "social", "archive"
+        "social"
       ],
       "screenshots": [
         "https://f.cl.ly/items/0w3y0r1F2x1P0j3f1Z2z/fdasfsadfas800.png"
