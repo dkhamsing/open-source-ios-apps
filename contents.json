@@ -2315,12 +2315,12 @@
     {
       "title": "Buck Tracker",
       "category-ids": [
-        "finance", "archive"
+        "finance"
       ],
       "description": "Expense tracker",
       "source": "https://github.com/hkalexling/Buck_Tracker",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "stars": 35,
       "license": "other",
