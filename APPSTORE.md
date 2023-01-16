@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **338** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **333** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -239,10 +239,6 @@ Jump to
 [back to top](#readme) 
  
 
-- [4clock](https://github.com/nicolapps/4clock): Multiplayer chess clock
-  - [` App Store`](https://apps.apple.com/app/4clock-chronometre-jeu-multijoueur/id1163604465) <a href='https://cdn-images-1.medium.com/max/600/1*wGpCIUaprr1viJ8JIJe9Hw.png'>`Screenshot 1`</a> 
-  -  `2016` `javascript` `cordova` 
-  -  ☆`5` 
 ## Clone 
  
 [back to top](#readme) 
@@ -709,10 +705,6 @@ File Management — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [EMI Calculator](https://github.com/tirupati17/loan-emi-calculator-clean-swift): Calculate your Equated Monthly installment (EMI) for home, car & personal loans
-  - [` App Store`](https://apps.apple.com/app/id1105890730) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/43/e8/45/43e84585-f1e0-7af6-7cb6-28ae3cfc5563/pr_source.png/460x0w.jpg'>`Screenshot 1`</a> 
-  -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `viper` 
-  -  ☆`19` 
 - [Motivator](https://github.com/DaniSpringer/timeismoney): Countdown for how much more you can make today
   - [` App Store`](https://apps.apple.com/app/motivator-money-counter/id6444535220)
   -  `2022`   `swift` 
@@ -729,10 +721,6 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/smart-wallet/id1378013954) <a href='https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%201.png'>`Screenshot 1`</a>  <a href='https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%202.png'>`Screenshot 2`</a>  <a href='https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%203.png'>`Screenshot 3`</a>  <a href='https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%204.png'>`Screenshot 4`</a>  <a href='https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%205.png'>`Screenshot 5`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`53` 
-- [Tip Calculator](https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c): Calculate tip & split the bill between any number of people
-  - [` App Store`](https://apps.apple.com/app/id1139456857) <a href='https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png'>`Screenshot 1`</a> 
-  -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `viper` 
-  -  ☆`6` 
 ### Cryptocurrency 
  
 [back to top](#readme) 
@@ -1228,10 +1216,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id997079563) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c9/62/b5/c962b556-d941-76a6-1bf9-365b817c8539/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6e/0b/8f/6e0b8fb9-99ec-7490-b13b-48972561f4a4/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bf/82/f8/bf82f8db-130e-c6bf-cd08-b273679747f1/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3e/a8/e6/3ea8e6c4-ca6a-b609-552e-6b46e218a0a1/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/58/b9/bf/58b9bf1a-6ae9-6336-a823-60479de91825/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2022`   `swift` 
   -  ☆`299` 
-- [KonaBot](https://github.com/hkalexling/KonaBot-iOS): For https://konachan.net/
-  - [` App Store`](https://apps.apple.com/app/konabot/id1055716649) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/68/a2/9e/68a29ead-7597-31c8-5a31-f9be59f9a536/mzl.yqyizpwt.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/06/83/30/0683300f-f270-ed21-2440-a08ed95e2dc2/mzl.mjpipbbh.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/a0/56/43/a056435c-39b3-53fa-d855-4c14da2dc5b8/mzl.rygecdxi.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/80/c2/5a/80c25a18-9da4-c858-52c9-355730428a10/mzl.sabxxynu.jpg/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/52/01/11/52011118-29f2-74f9-a0bd-30fded86e17a/mzl.bgdhdgpx.jpg/460x0w.jpg'>`Screenshot 5`</a> 
-  -  `2016`   `swift` 
-  -  ☆`29` 
 - [MovieDict](https://github.com/lurado/MovieDict): Offline dictionary for international movie titles
   - <a href=https://moviedict.info>`https://moviedict.info`</a>
   - [` App Store`](https://apps.apple.com/app/movieglot-what-do-they-call-it/id710587066) <a href='https://i.imgur.com/l6kVwjX.png'>`Screenshot 1`</a> 
@@ -1397,10 +1381,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/netnewswire-rss-reader/id1480640210) <a href='https://i.imgur.com/bYxNu6a.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`6296` 
-- [Tenere News Reader](https://github.com/yavuz/Tenere)
-  - [` App Store`](https://apps.apple.com/tr/app/tenere-news-reader/id987277462) <a href='https://a1.mzstatic.com/us/r30/Purple1/v4/75/87/99/75879937-4c0d-a6df-ac99-e1f9b30b8e66/screen696x696.jpeg'>`Screenshot 1`</a> 
-  -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
-  -  ☆`20` 
 ## Official 
  
 [back to top](#readme) 
@@ -2192,18 +2172,10 @@ https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/currency-converter-free-quick/id1163490933) <a href='https://raw.githubusercontent.com/tirupati17/currency-converter-swift3.0-viper/master/CurrencyConverter/Resources/iphone_5s.png'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `viper` 
   -  ☆`212` 
-- [EMI Calculator](https://github.com/tirupati17/loan-emi-calculator-clean-swift): Calculate your Equated Monthly installment (EMI) for home, car & personal loans
-  - [` App Store`](https://apps.apple.com/app/id1105890730) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/43/e8/45/43e84585-f1e0-7af6-7cb6-28ae3cfc5563/pr_source.png/460x0w.jpg'>`Screenshot 1`</a> 
-  -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `viper` 
-  -  ☆`19` 
 - [Rambler&IT](https://github.com/rambler-digital-solutions/rambler-it-ios): Portfolio of mobile architectures used at Rambler&Co
   - [` App Store`](https://apps.apple.com/app/rambler-it/id1145829115) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/dd/63/b1/dd63b115-f823-4876-b295-f13ae115ff5c/mzl.izsgncma.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/55/3b/7a/553b7a86-c036-e844-a6fa-1888ec3efb61/mzl.wdrchpxn.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/5e/77/0d/5e770d63-382a-ff3b-3d59-241a6d1db885/mzl.boxgxscn.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple91/v4/95/37/97/9537975c-d8f2-bb24-642d-9ce480a69873/mzl.cwpmtiuz.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/81/7e/4e/817e4e98-1b13-09de-8115-4ddd29519309/mzl.uhxljsuy.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `magicalrecord` `typhoon` `afnetworking` `purelayout` `sdwebimage` 
   -  ☆`334` 
-- [Tip Calculator](https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c): Calculate tip & split the bill between any number of people
-  - [` App Store`](https://apps.apple.com/app/id1139456857) <a href='https://raw.githubusercontent.com/tirupati17/tip-calculator-auto-layout-viper-objective-c/master/TipCalculator/Resources/Images/iphone_5s.png'>`Screenshot 1`</a> 
-  -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `viper` 
-  -  ☆`6` 
 ### Xamarin 
  
 https://www.xamarin.com/ — [back to top](#readme) 
