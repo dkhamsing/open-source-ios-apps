@@ -1793,7 +1793,7 @@
       "stars": 290,
       "tags": [
         "swift",
-        "iphone"
+        "iphone", "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/FfNizrW.png"
@@ -1991,7 +1991,7 @@
       "license": "mit",
       "source": "https://github.com/snowpunch/AppLove",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "stars": 52,
       "date_added": "Sat May 7 21:01:14 2016 -0500",
@@ -2155,7 +2155,7 @@
       "license": "mit",
       "source": "https://github.com/acmacalister/Github-Swift",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "stars": 38,
       "date_added": "Tue May 3 08:53:38 2016 -0700",
@@ -2315,7 +2315,7 @@
     {
       "title": "Buck Tracker",
       "category-ids": [
-        "finance"
+        "finance", "archive"
       ],
       "description": "Expense tracker",
       "source": "https://github.com/hkalexling/Buck_Tracker",
@@ -3163,7 +3163,7 @@
         "swift2.2",
         "carthage",
         "pistachio",
-        "reactivecocoa"
+        "reactivecocoa", "archive"
       ],
       "stars": 99,
       "date_added": "Tue Jun 9 23:06:39 2015 -0700",
@@ -3720,7 +3720,7 @@
       "description": "Timetable for the University of Nottingham Hopper Bus",
       "source": "https://github.com/TosinAF/HopperBus-iOS",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/TosinAF/HopperBus-iOS/master/Screenshots/RouteView.png",
@@ -4273,7 +4273,7 @@
       "source": "https://github.com/hkalexling/KonaBot-iOS",
       "itunes": "https://apps.apple.com/app/konabot/id1055716649",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "stars": 29,
       "license": "other",
@@ -4321,7 +4321,7 @@
       "source": "https://github.com/AaronRandall/Megabite",
       "tags": [
         "opencv",
-        "pop"
+        "pop", "archive"
       ],
       "screenshots": [
         "https://github.com/AaronRandall/Megabite/raw/master/Megabite/Assets.xcassets/Megabite.gif"
@@ -4435,7 +4435,7 @@
       "stars": 533,
       "tags": [
         "swift",
-        "instagram api"
+        "instagram api", "archive"
       ],
       "license": "other",
       "date_added": "Tue Mar 31 06:55:38 2015 -0700",
@@ -5067,7 +5067,7 @@
       "source": "https://github.com/aclissold/the-oakland-post",
       "stars": 280,
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "date_added": "Wed Mar 18 11:12:08 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -5234,7 +5234,7 @@
         "hacker-news"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "yc",
       "license": "bsd-2-clause",
@@ -5637,7 +5637,7 @@
       "description": "Multicolumn ListView example",
       "tags": [
         "titanium",
-        "javascript"
+        "javascript", "archive"
       ],
       "license": "mit",
       "source": "https://github.com/falkolab/LVMC-Demo-Alloy-App",
@@ -5741,7 +5741,7 @@
       ],
       "tags": [
         "objc",
-        "restkit"
+        "restkit", "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/3yKeZP7.png",
@@ -5981,7 +5981,7 @@
       "description": "Discover & track anime",
       "source": "https://github.com/opensourceios/Aozora",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "stars": 15,
       "license": "mit",
@@ -6241,7 +6241,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/14/1f/28/141f2833-14cc-b1c1-f29f-52db44eaef67/pr_source.png/460x0w.jpg"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "date_added": "Wed Jan 25 05:49:30 2017 -0700",
       "suggested_by": "@myeramareddy",
@@ -6259,7 +6259,7 @@
       "tags": [
         "swift",
         "iphone",
-        "ipad"
+        "ipad", "archive"
       ],
       "stars": 32,
       "date_added": "Tue Jan 26 17:23:50 2016 +0200",
@@ -6298,7 +6298,7 @@
       "source": "https://github.com/wrutkowski/Lucid-Weather-Clock",
       "tags": [
         "swift",
-        "dark sky api (forecast api)"
+        "dark sky api (forecast api)", "archive"
       ],
       "screenshots": [
         "https://i.giphy.com/mcmrs3ArwawE0.gif"
@@ -6645,7 +6645,7 @@
       "source": "https://github.com/MatheusCavalca/RenovaLivrosUFRGS",
       "tags": [
         "swift",
-        "alamofire"
+        "alamofire", "archive"
       ],
       "screenshots": [
         "https://github.com/MatheusCavalca/RenovaLivrosUFRGS/raw/master/RenovaLivrosUFRGS/Images.xcassets/login_scren.imageset/login_scren.png",
@@ -6655,7 +6655,7 @@
       "stars": 5,
       "license": "other",
       "date_added": "Sun Mar 20 18:09:41 2016 -0300",
-      "suggested_by": "@ MatheusCavalca",
+      "suggested_by": "@MatheusCavalca",
       "updated": "2016-07-19 00:15:37 UTC"
     },
     {
@@ -6867,7 +6867,7 @@
       "source": "https://github.com/alltheflow/iCopyPasta",
       "stars": 23,
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/6Tw24I2.png",
@@ -7612,7 +7612,7 @@
       "license": "mit",
       "source": "https://github.com/ashfurrow/yourfirstswiftapp",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/p2r8TmY.png",
@@ -8121,7 +8121,7 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native", "archive"
       ],
       "description": "View houses for sale in the Northwest",
       "license": "mit",
@@ -8396,7 +8396,7 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native", "archive"
       ],
       "screenshots": [
         "https://koenig-media.raywenderlich.com/uploads/2015/03/PropertyFinder.png"
@@ -8434,7 +8434,7 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native", "archive"
       ],
       "screenshots": [
         "https://github.com/christopherdro/react-native-rss-reader/raw/master/RssReaderDemo.gif"
@@ -8542,7 +8542,7 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/JakeLin/ReactNativeWeather/master/screenshots/screenshot-iOS.png"
@@ -8803,7 +8803,7 @@
         "viper"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/vgZbwrp.png"
@@ -8850,7 +8850,7 @@
         "viper"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/UhJOVuw.png"
@@ -8898,7 +8898,7 @@
       "stars": 322,
       "tags": [
         "swift",
-        "iphone"
+        "iphone", "archive"
       ],
       "license": "mit",
       "date_added": "Wed May 11 09:16:38 2016 -0700",
@@ -9561,7 +9561,7 @@
         "swift",
         "firebase",
         "websocket",
-        "nosql"
+        "nosql", "archive"
       ],
       "description": "Anonymous messaging with real-time data sync",
       "license": "mit",
@@ -9621,7 +9621,7 @@
       ],
       "tags": [
         "objc",
-        "venmo api"
+        "venmo api", "archive"
       ],
       "description": "Pay-if-U-R-late with geofences",
       "source": "https://github.com/ayunav/Neverlate",
@@ -9660,7 +9660,7 @@
         "calculator"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/5o7MaMll.png"
@@ -10212,7 +10212,7 @@
       "source": "https://github.com/prey/prey-swift-client",
       "homepage": "https://preyproject.com/",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "gpl-3.0",
       "stars": 17,
@@ -11232,7 +11232,7 @@
       "itunes": "https://apps.apple.com/app/id1105890730",
       "tags": [
         "swift",
-        "viper"
+        "viper", "archive"
       ],
       "license": "mit",
       "date_added": "Sun, 3 Jul 2016 23:08:32 +0530",
@@ -11253,7 +11253,7 @@
       "source": "https://github.com/Sajjon/SwiftIntro",
       "tags": [
         "swift",
-        "instagram api"
+        "instagram api", "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/8u73w5u.png",
@@ -11710,7 +11710,7 @@
       "license": "other",
       "tags": [
         "swift",
-        "node"
+        "node", "archive"
       ],
       "screenshots": [
         "https://github.com/tombaranowicz/PostManager/raw/master/IMG/Simulator%20Screen%20Shot%2015%20Jul%202016%2007.52.18.png?raw=true",
@@ -11983,7 +11983,7 @@
         "realm"
       ],
       "tags": [
-        "opencv"
+        "opencv", "archive"
       ],
       "description": "Find a contact by face recognition",
       "source": "https://github.com/remirobert/Facemotion",
@@ -12241,7 +12241,7 @@
         "viper"
       ],
       "tags": [
-        "viper"
+        "viper", "archive"
       ],
       "description": "Calculate tip & split the bill between any number of people",
       "source": "https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c",
@@ -12368,7 +12368,7 @@
         "rss"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "source": "https://github.com/yavuz/Tenere",
       "itunes": "https://apps.apple.com/tr/app/tenere-news-reader/id987277462",
@@ -12552,7 +12552,7 @@
       ],
       "tags": [
         "react native",
-        "goradar"
+        "goradar", "archive"
       ],
       "screenshots": [
         "https://github.com/alexkirsz/rn-pokevision/raw/master/screenshot.png"
@@ -12614,7 +12614,7 @@
         "react-native"
       ],
       "tags": [
-        "react native"
+        "react native", "archive"
       ],
       "screenshots": [
 
@@ -12745,7 +12745,7 @@
         "game"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "other",
       "date_added": "Oct 8 2016",
@@ -12809,7 +12809,7 @@
         "realm",
         "swiftybeaver",
         "kingfisher",
-        "asyncswift"
+        "asyncswift", "archive"
       ],
       "screenshots": [
         "https://github.com/kylebshr/grove-ios/blob/master/External%20Assets/Original%20Screenshots/Screenshot%201.png?raw=true"
@@ -13415,7 +13415,7 @@
         "mapbox",
         "pop",
         "swiftyjson",
-        "alamofire"
+        "alamofire", "archive"
       ],
       "screenshots": [
         "https://media.giphy.com/media/uSyooIBl2qBHi/giphy.gif"
@@ -14003,7 +14003,7 @@
       ],
       "tags": [
         "titanium",
-        "javascript"
+        "javascript", "archive"
       ],
       "license": "apache-2.0",
       "date_added": "Feb 8 2017",
@@ -14091,7 +14091,7 @@
       "suggested_by": "@RemyDCF",
       "tags": [
         "javascript",
-        "cordova"
+        "cordova", "archive"
       ],
       "lang": "fra",
       "itunes": "https://apps.apple.com/app/4clock-chronometre-jeu-multijoueur/id1163604465",
@@ -14413,7 +14413,7 @@
       "tags": [
         "swift",
         "ibinspectable",
-        "ibdesignable"
+        "ibdesignable", "archive"
       ],
       "license": "other",
       "date_added": "Mar 23 2017",
@@ -14948,7 +14948,7 @@
         "archive"
       ],
       "category-ids": [
-        "social"
+        "social", "archive"
       ],
       "screenshots": [
         "https://f.cl.ly/items/0w3y0r1F2x1P0j3f1Z2z/fdasfsadfas800.png"
@@ -15047,7 +15047,7 @@
       "license": "other",
       "tags": [
         "swift",
-        "realm"
+        "realm", "archive"
       ],
       "screenshots": [
         "https://images.ctfassets.net/emmiduwd41v7/1TmcZsJy7Si4qCYm24aAse/158d511e7e58461d64cf902fb5a26d32/santa-app-final.png"
@@ -15540,7 +15540,7 @@
         "machine-learning",
         "natural-language-processing",
         "neural-network",
-        "word2vec"
+        "word2vec", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/alexsosn/AssociationBot/master/Screenshots/Screen%20Shot%201.png",
@@ -18152,7 +18152,7 @@
       "license": "other",
       "stars": 6,
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://i.imgur.com/5SWRa9K.png"
@@ -19110,7 +19110,7 @@
         "misc"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "A remote for your IR devices",
       "source": "https://github.com/michaelvillar/remote",
@@ -22144,7 +22144,7 @@
         "apple-tv"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "source": "https://github.com/roger-wetzel/Octopus",
       "screenshots": [
@@ -26735,7 +26735,7 @@
       ],
       "source": "https://github.com/popei69/SudokuBreaker",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "apache-2.0",
       "date_added": "Sep 9 2021",
