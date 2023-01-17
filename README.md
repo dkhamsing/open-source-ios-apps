@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1454-green.svg) ![](https://img.shields.io/badge/Updated-January%2016,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1454-green.svg) ![](https://img.shields.io/badge/Updated-January%2017,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1746,10 +1746,6 @@ File Management — [back to top](#readme)
 - [Skeleton Key](https://github.com/insurgentgames/Skeleton-Key-iOS): A puzzle game where you must shift keys around a board to unlock treasure chests
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`117` 
-- [Spare Parts](https://github.com/adamwulf/spare-parts-app): Simple 2D point & line physics using Verlet integration
-  - [` App Store`](https://apps.apple.com/app/spare-parts/id981297199) <a href='https://user-images.githubusercontent.com/4723115/146472281-78e77a62-14ed-4d56-ba05-8986712f0adf.png'>`Screenshot 1`</a> 
-  -  `2015`   `objc` 
-  -  ☆`14` 
 - [Swune](https://github.com/nicklockwood/Swune): Reimplementation of the Dune II RTS game
   -  <a href='https://github.com/nicklockwood/Swune/raw/main/Screenshot.png'>`Screenshot 1`</a> 
   -  `2022`   `swift` 
