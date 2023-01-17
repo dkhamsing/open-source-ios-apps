@@ -3095,7 +3095,7 @@
         "game"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Simple 2D point & line physics using Verlet integration",
       "source": "https://github.com/adamwulf/spare-parts-app",
