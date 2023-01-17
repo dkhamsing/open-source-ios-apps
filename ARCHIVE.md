@@ -354,6 +354,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [SoundCloudSwift](https://github.com/opensourceios/SoundCloudSwift)
 - [Space Zero](https://github.com/xyclos/space_squared)
 - [Spacepics](https://github.com/campezzi/react-native-spacepics)
+- [Spare Parts](https://github.com/adamwulf/spare-parts-app)
 - [SparkleShare](https://github.com/darvin/SparkleShare-iOS)
 - [Speak](https://github.com/opensourceios/speakability)
 - [Starship](https://github.com/kylef-archive/Starship)
