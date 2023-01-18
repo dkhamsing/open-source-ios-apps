@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1454-green.svg) ![](https://img.shields.io/badge/Updated-January%2017,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1455-green.svg) ![](https://img.shields.io/badge/Updated-January%2018,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1484,6 +1484,10 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/smart-wallet/id1378013954) <a href='https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%201.png'>`Screenshot 1`</a>  <a href='https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%202.png'>`Screenshot 2`</a>  <a href='https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%203.png'>`Screenshot 3`</a>  <a href='https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%204.png'>`Screenshot 4`</a>  <a href='https://novinfard.com/media/gitshots/SmartWallet%20-%20iPhone%20X%20-%205.png'>`Screenshot 5`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`53` 
+- [Spend Stack Budget Tracker](https://github.com/DreamingInBinary/Spend-Stack-Public)
+  -  <a href='https://d33wubrfki0l68.cloudfront.net/da80c0431a6808c8303d250ee79a08ffb4f33f8b/3aa2c/assets/images/ssos_1.gif'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `fmdb` `iglistkit` `masonry` `snapkit` `swiftcsv` 
+  -  ☆`135` 
 - [ToThePenny](https://github.com/ivan-magda/ToThePenny): Budget tracker
   -  <a href='https://raw.githubusercontent.com/ivan-magda/ToThePenny/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/ivan-magda/ToThePenny/master/Screenshots/2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/ivan-magda/ToThePenny/master/Screenshots/4.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/ivan-magda/ToThePenny/master/Screenshots/5.png'>`Screenshot 4`</a> 
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
