@@ -29969,6 +29969,23 @@
       "date_added": "Jan 15 2023",
       "suggested_by": "@dkhamsing",
       "stars": 1300
-    }
+    },
+    {
+      "title": "Spend Stack Budget Tracker",
+      "category-ids": [
+        "finance"
+      ],
+      "screenshots": [
+        "https://d33wubrfki0l68.cloudfront.net/da80c0431a6808c8303d250ee79a08ffb4f33f8b/3aa2c/assets/images/ssos_1.gif"
+      ],
+      "source": "https://github.com/DreamingInBinary/Spend-Stack-Public",
+      "tags": [
+        "swift", "fmdb", "iglistkit", "masonry", "snapkit", "swiftcsv"
+      ],
+      "license": "mit",
+      "date_added": "Jan 18 2023",
+      "suggested_by": "@dkhamsing",
+      "stars": 135
+    }    
   ]
 }
