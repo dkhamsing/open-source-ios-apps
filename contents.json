@@ -29986,6 +29986,24 @@
       "date_added": "Jan 18 2023",
       "suggested_by": "@dkhamsing",
       "stars": 135
-    }    
+    },
+    {
+      "title": "Pow Examples",
+      "description":"Effects framework for SwiftUI",
+      "category-ids": [
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/movingparts-io/Pow-Examples/main/Screenshots/screenshot0.png"
+      ],
+      "source": "https://github.com/movingparts-io/Pow-Examples",
+      "tags": [
+        "swift", "swiftui"
+      ],
+      "license": "other",
+      "date_added": "Jan 20 2023",
+      "suggested_by": "@dkhamsing",
+      "stars": 32
+    }
   ]
 }
