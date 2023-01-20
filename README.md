@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1455-green.svg) ![](https://img.shields.io/badge/Updated-January%2018,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1456-green.svg) ![](https://img.shields.io/badge/Updated-January%2020,%202023-lightgrey.svg)
 
 Jump to
 
@@ -5029,6 +5029,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [Portfolio](https://github.com/bastienFalcou/Portfolio): Use MVI (Model View Intent) to keep track of your portfolio over time
   -  `2021`   `swift` `swiftui` `combine` `mvi` `model-view-intent` 
   -  ☆`7` 
+- [Pow Examples](https://github.com/movingparts-io/Pow-Examples): Effects framework for SwiftUI
+  -  <a href='https://raw.githubusercontent.com/movingparts-io/Pow-Examples/main/Screenshots/screenshot0.png'>`Screenshot 1`</a> 
+  -   `swift` `swiftui` 
+  -  ☆`32` 
 - [Purposeful Animations](https://github.com/GetStream/purposeful-ios-animations)
   -  `2022`   `swift` `swiftui` 
   -  ☆`426` 
