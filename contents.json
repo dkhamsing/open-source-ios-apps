@@ -13864,7 +13864,7 @@
       "updated": "2021-07-28 10:07:04 UTC"
     },
     {
-      "title": "Chrome",
+      "title": "Chromium",
       "source": "https://chromium.googlesource.com/chromium/src/ios/",
       "homepage": "https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html",
       "category-ids": [
