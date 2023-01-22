@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1456-green.svg) ![](https://img.shields.io/badge/Updated-January%2020,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1457-green.svg) ![](https://img.shields.io/badge/Updated-January%2022,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3787,6 +3787,10 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/ynagatomo/ARDiffMuseum/raw/main/images/ui_960.jpg'>`Screenshot 1`</a> 
   -   `swift` `stable-diffusion` 
   -  ☆`45` 
+- [AR Wall Picture](https://github.com/ynagatomo/ARWallPicture): Display images on the wall with AR
+  -  <a href='https://github.com/ynagatomo/ARWallPicture/raw/main/assets/ss1_3000.jpg'>`Screenshot 1`</a> 
+  -   `swift` 
+  -  ☆`16` 
 - [ARStickers](https://github.com/ynagatomo/ARStickers): Put stickers in the 3d space
   -  <a href='https://user-images.githubusercontent.com/66309582/171107988-02406cd6-b625-41d8-9f70-ef15b011d82d.jpeg'>`Screenshot 1`</a> 
   -  `2022`   `swift` `arkit` `realitykit` 
