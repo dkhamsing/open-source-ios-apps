@@ -30004,6 +30004,24 @@
       "date_added": "Jan 20 2023",
       "suggested_by": "@dkhamsing",
       "stars": 32
-    }
+    },
+    {
+      "title": "AR Wall Picture",
+      "description": "Display images on the wall with AR",
+      "category-ids": [
+        "misc"
+      ],
+      "screenshots": [
+        "https://github.com/ynagatomo/ARWallPicture/raw/main/assets/ss1_3000.jpg"
+      ],
+      "source": "https://github.com/ynagatomo/ARWallPicture",
+      "tags": [
+        "swift"
+      ],
+      "license": "other",
+      "date_added": "Jan 22 2023",
+      "suggested_by": "@dkhamsing",
+      "stars": 16
+    }    
   ]
 }
