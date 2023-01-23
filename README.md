@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1457-green.svg) ![](https://img.shields.io/badge/Updated-January%2022,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1457-green.svg) ![](https://img.shields.io/badge/Updated-January%2023,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3594,7 +3594,7 @@ https://joinmastodon.org — [back to top](#readme)
   - <a href=https://www.jaydenirwin.com/spritefonts/>`https://www.jaydenirwin.com/spritefonts/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-fonts/id1554027877) <a href='https://www.jaydenirwin.com/spritefonts/shot1.jpg'>`Screenshot 1`</a> 
   -  `2022`   `swift` `swiftui` 
-- [TypeStyle](https://github.com/ebelinski/typestyle): Stylize your text and add decorations
+- [TypeStyle](https://github.com/tapmoko/typestyle): Stylize your text and add decorations
   - <a href=https://typestyle.app>`https://typestyle.app`</a>
   - [` App Store`](https://apps.apple.com/app/typestyle/id1441019779) <a href='https://raw.githubusercontent.com/ebelinski/typestyle-ios/master/media/iphone-x-screenshots.png'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `ipad` 
