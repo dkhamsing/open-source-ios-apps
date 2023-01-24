@@ -229,6 +229,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [MapBox Earth](https://github.com/mapbox/mapbox-earth)
 - [Mast](https://github.com/ShihabMe/Mast2)
 - [Math Quest](https://github.com/AdnanZahid/Math-Quest-iOS)
+- [Means](https://github.com/opensourceios/Means)
 - [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
 - [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
 - [MeetPoint](https://github.com/MeetPoint-App/meetpoint-ios)
