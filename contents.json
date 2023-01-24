@@ -23511,10 +23511,10 @@
       "tags": [
         "swift",
         "swiftui",
-        "macos"
+        "macos", "archive"
       ],
       "description": "For Medium",
-      "source": "https://github.com/vmanot/Means",
+      "source": "https://github.com/opensourceios/Means",
       "license": "other",
       "date_added": "Jul 16 2020",
       "suggested_by": "@dkhamsing",
