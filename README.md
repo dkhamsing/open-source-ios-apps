@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1457-green.svg) ![](https://img.shields.io/badge/Updated-January%2023,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1457-green.svg) ![](https://img.shields.io/badge/Updated-January%2024,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4332,9 +4332,6 @@ Cross platform projects — [back to top](#readme)
 - [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter
   -  `2019`   `swift` `swiftui` `ios13` `ipad` `macos` 
   -  ☆`13` 
-- [Means](https://github.com/vmanot/Means): For Medium
-  -  `2022`   `swift` `swiftui` `macos` 
-  -  ☆`8` 
 - [Milestones](https://github.com/jpsim/Milestones): Count down the days until upcoming milestones
   -  <a href='https://i.imgur.com/CmZhSrp.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` `macos` 
@@ -4959,9 +4956,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter
   -  `2019`   `swift` `swiftui` `ios13` `ipad` `macos` 
   -  ☆`13` 
-- [Means](https://github.com/vmanot/Means): For Medium
-  -  `2022`   `swift` `swiftui` `macos` 
-  -  ☆`8` 
 - [MemeMaker](https://github.com/dempseyatgithub/MemeMaker)
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
   -  ☆`99` 
