@@ -1781,8 +1781,8 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/construct-for-d-d-5e/id1490015210) <a href='https://raw.githubusercontent.com/Thomvis/Construct/main/assets/screenshot1.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` 
   -  ☆`113` 
-- [Cuisiner](https://github.com/fthgrsy27/Cuisiner): User generated recipe/cooking collection
-  - [` App Store`](https://apps.apple.com/app/id1641238583) <a href='https://github.com/fthgrsy27/Cuisiner/blob/master/Screenshots/ss3.png'>`Screenshot 1`</a> 
+- [Cuisiner](https://github.com/fatih-gursoy/Cuisiner): User generated recipe/cooking collection
+  - [` App Store`](https://apps.apple.com/app/id1641238583) <a href='https://raw.githubusercontent.com/fatih-gursoy/Cuisiner/master/Screenshots/ss3.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`8` 
 - [Emoncms](https://github.com/emoncms/emoncms-ios): Emoncms dashboard
