@@ -29499,14 +29499,14 @@
         "misc"
       ],
       "description": "User generated recipe/cooking collection",
-      "source": "https://github.com/fthgrsy27/Cuisiner",
+      "source": "https://github.com/fatih-gursoy/Cuisiner",
       "itunes": "https://apps.apple.com/app/id1641238583",
       "tags": [
         "swift"
       ],
       "license": "mit",
       "screenshots": [
-        "https://github.com/fthgrsy27/Cuisiner/blob/master/Screenshots/ss3.png"
+        "https://raw.githubusercontent.com/fatih-gursoy/Cuisiner/master/Screenshots/ss3.png"
       ],
       "date_added": "Oct 3 2022",
       "suggested_by": "@fthgrsy27",
