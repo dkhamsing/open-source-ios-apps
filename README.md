@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1457-green.svg) ![](https://img.shields.io/badge/Updated-January%2024,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1457-green.svg) ![](https://img.shields.io/badge/Updated-January%2025,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3842,8 +3842,8 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/shameemreza/critterclan/raw/main/row/preview.png'>`Screenshot 1`</a> 
   -  `2021`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` 
   -  ☆`5` 
-- [Cuisiner](https://github.com/fthgrsy27/Cuisiner): User generated recipe/cooking collection
-  - [` App Store`](https://apps.apple.com/app/id1641238583) <a href='https://github.com/fthgrsy27/Cuisiner/blob/master/Screenshots/ss3.png'>`Screenshot 1`</a> 
+- [Cuisiner](https://github.com/fatih-gursoy/Cuisiner): User generated recipe/cooking collection
+  - [` App Store`](https://apps.apple.com/app/id1641238583) <a href='https://raw.githubusercontent.com/fatih-gursoy/Cuisiner/master/Screenshots/ss3.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`8` 
 - [CutTheNotch](https://github.com/Naituw/CutTheNotch): Create an illusion that you can hide the notch
