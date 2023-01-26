@@ -9284,9 +9284,7 @@
         "c++"
       ],
       "screenshots": [
-        "https://www.ppsspp.org/img/screens/small/finalfantasycrisiscore.jpg",
-        "https://www.ppsspp.org/img/screens/small/burnoutdominator.jpg",
-        "https://www.ppsspp.org/img/screens/small/littlebigplanet.jpg"
+        "https://www.ppsspp.org/img/screens/small/finalfantasycrisiscore.jpg"        
       ],
       "description": "PSP emulator",
       "source": "https://github.com/hrydgard/ppsspp",
