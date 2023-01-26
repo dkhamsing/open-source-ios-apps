@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1457-green.svg) ![](https://img.shields.io/badge/Updated-January%2025,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1457-green.svg) ![](https://img.shields.io/badge/Updated-January%2026,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1146,7 +1146,7 @@ Jump to
   -  `2017`   `objc` 
   -  ☆`162` 
 - [PPSSPP](https://github.com/hrydgard/ppsspp): PSP emulator
-  -  <a href='https://www.ppsspp.org/img/screens/small/finalfantasycrisiscore.jpg'>`Screenshot 1`</a>  <a href='https://www.ppsspp.org/img/screens/small/burnoutdominator.jpg'>`Screenshot 2`</a>  <a href='https://www.ppsspp.org/img/screens/small/littlebigplanet.jpg'>`Screenshot 3`</a> 
+  -  <a href='https://www.ppsspp.org/img/screens/small/finalfantasycrisiscore.jpg'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `c++` 
   -  ☆`8117` 
 - [Provenance](https://github.com/Provenance-Emu/Provenance): Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more
