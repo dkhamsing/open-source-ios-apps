@@ -9283,9 +9283,6 @@
       "tags": [
         "c++"
       ],
-      "screenshots": [
-        "https://www.ppsspp.org/img/screens/small/finalfantasycrisiscore.jpg"        
-      ],
       "description": "PSP emulator",
       "source": "https://github.com/hrydgard/ppsspp",
       "stars": 8117,
