@@ -30017,6 +30017,24 @@
       "date_added": "Jan 22 2023",
       "suggested_by": "@dkhamsing",
       "stars": 16
-    }    
+    },
+    {
+      "title": "Tusker",
+      "category-ids": [
+        "mastodon"
+      ],
+      "screenshots": [
+        "https://vaccor.space/tusker/img/tusker-light.png"
+      ],
+      "source": "https://git.shadowfacts.net/shadowfacts/Tusker",
+      "homepage": "https://vaccor.space/tusker/",
+      "itunes": "https://apps.apple.com/app/tusker/id1498334597",
+      "tags": [
+        "swift", "pleroma"
+      ],
+      "license": "other",
+      "date_added": "Jan 22 2023",
+      "suggested_by": "@dkhamsing"       
+    }         
   ]
 }
