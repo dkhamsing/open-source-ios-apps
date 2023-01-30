@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **332** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **333** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1652,6 +1652,10 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/metatext/id1523996615) <a href='https://i.imgur.com/zVvJQQv.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/yYi56m9.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/64vIXsb.png'>`Screenshot 3`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
   -  ☆`694` 
+- [Tusker](https://git.shadowfacts.net/shadowfacts/Tusker)
+  - <a href=https://vaccor.space/tusker/>`https://vaccor.space/tusker/`</a>
+  - [` App Store`](https://apps.apple.com/app/tusker/id1498334597) <a href='https://vaccor.space/tusker/img/tusker-light.png'>`Screenshot 1`</a> 
+  -   `swift` `pleroma` 
 ## Tasks 
  
 [back to top](#readme) 
