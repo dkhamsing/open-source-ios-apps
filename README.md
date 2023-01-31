@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1458-green.svg) ![](https://img.shields.io/badge/Updated-January%2030,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1458-green.svg) ![](https://img.shields.io/badge/Updated-January%2031,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1753,7 +1753,7 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/nicklockwood/Swune/raw/main/Screenshot.png'>`Screenshot 1`</a> 
   -  `2022`   `swift` 
   -  ☆`42` 
-- [Tic TAI Toe](https://github.com/GroupeMINASTE/MorpionTPE-iOS): A tic tac toe with AI and PRO
+- [Tic TAI Toe](https://github.com/NathanFallet/MorpionTPE-iOS): A tic tac toe with AI and PRO
   - [` App Store`](https://apps.apple.com/app/tic-tai-toe/id1459186328) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/53/e7/af/53e7afa3-8d2d-3667-c1d3-963908340270/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/3b/2d/e63b2dcc-4d84-0432-bfc6-44dbf6fa7e8b/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/8a/16/fb8a16bb-f1cf-bcf8-e2fc-5638ecbb4201/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
   -  ☆`4` 
