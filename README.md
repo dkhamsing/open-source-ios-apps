@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1458-green.svg) ![](https://img.shields.io/badge/Updated-February%20%201,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1458-green.svg) ![](https://img.shields.io/badge/Updated-February%20%202,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2539,8 +2539,8 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movie-detail.png'>`Screenshot 1`</a>  <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movies-list.png'>`Screenshot 2`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `realm` `alamofire` `tmdb` 
   -  ☆`15` 
-- [Projector](https://github.com/fthgrsy27/Projector): Get information about movies using The Movie Database (TMDb)
-  -  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png'>`Screenshot 1`</a>  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png'>`Screenshot 2`</a>  <a href='https://github.com/fthgrsy27/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/SearchScreenSS.png'>`Screenshot 3`</a> 
+- [Projector](https://github.com/fatih-gursoy/Projector): Get information about movies using The Movie Database (TMDb)
+  -  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png'>`Screenshot 1`</a>  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png'>`Screenshot 2`</a>  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/SearchScreenSS.png'>`Screenshot 3`</a> 
   -  `2022`   `swift` `core-data` `alamofire` `tmdb` 
   -  ☆`4` 
 - [Reading List](https://github.com/AndrewBennet/ReadingListV1): Track personal reading lists
