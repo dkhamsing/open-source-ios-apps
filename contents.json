@@ -30110,12 +30110,12 @@
     },
     {
       "title": "Scan Now",
-      "description": "A fast and simple app for document scanning on iPhones and iPads.",
+      "description": "A fast and simple app for document scanning on iPhones and iPads",
       "category-ids": [
         "scan"
       ],
       "source": "https://github.com/WezSieTato/ScanNow",
-      "itunes": "https://apps.apple.com/pl/app/scan-now/id1660940489",
+      "itunes": "https://apps.apple.com/app/scan-now/id1660940489",
       "tags": [
         "swift",
         "swiftui",
@@ -30123,8 +30123,8 @@
         "pdf",
         "productivity"
       ],
-      "license": "MIT",
-      "date_added": "Fev 03 2023",
+      "license": "mit",
+      "date_added": "Feb 3 2023",
       "suggested_by": "@WezSieTato"
     }
   ]
