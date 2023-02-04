@@ -1475,9 +1475,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1137064763) <a href='https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif'>`Screenshot 1`</a>  <a href='https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg'>`Screenshot 2`</a>  <a href='https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg'>`Screenshot 3`</a> 
   -  `2017`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`37` 
-- [Scan Now](https://github.com/WezSieTato/ScanNow): A fast and simple app for document scanning on iPhones and iPads
+- [Scan Now](https://github.com/WezSieTato/ScanNow): Fast and simple document scanning
   - [` App Store`](https://apps.apple.com/app/scan-now/id1660940489)
-  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `visionkit` `pdf` `productivity` 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `visionkit` `pdf` `productivity` `ipad` 
 ## Security 
  
 [back to top](#readme) 
