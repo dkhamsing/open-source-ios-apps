@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1459-green.svg) ![](https://img.shields.io/badge/Updated-February%20%203,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1459-green.svg) ![](https://img.shields.io/badge/Updated-February%20%204,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3278,9 +3278,9 @@ https://newsapi.org/ — [back to top](#readme)
 - [QRGen](https://github.com/lojals/QRGen): Read, generate QR codes
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`3` 
-- [Scan Now](https://github.com/WezSieTato/ScanNow): A fast and simple app for document scanning on iPhones and iPads
+- [Scan Now](https://github.com/WezSieTato/ScanNow): Fast and simple document scanning
   - [` App Store`](https://apps.apple.com/app/scan-now/id1660940489)
-  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `visionkit` `pdf` `productivity` 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `visionkit` `pdf` `productivity` `ipad` 
 - [ZBar Barcode Reader](https://sourceforge.net/projects/zbar/): A comprehensive barcode reader
   -  [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/) `objc` 
 ## Security 
