@@ -30110,7 +30110,7 @@
     },
     {
       "title": "Scan Now",
-      "description": "A fast and simple app for document scanning on iPhones and iPads",
+      "description": "Fast and simple document scanning",
       "category-ids": [
         "scan"
       ],
@@ -30121,7 +30121,8 @@
         "swiftui",
         "visionkit",
         "pdf",
-        "productivity"
+        "productivity",
+        "ipad"
       ],
       "license": "mit",
       "date_added": "Feb 3 2023",
