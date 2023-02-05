@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1459-green.svg) ![](https://img.shields.io/badge/Updated-February%20%204,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1459-green.svg) ![](https://img.shields.io/badge/Updated-February%20%205,%202023-lightgrey.svg)
 
 Jump to
 
@@ -834,7 +834,7 @@ Jump to
   -  <a href='https://github.com/noodlewerk/NWPusher/raw/master/Docs/osx2.png'>`Screenshot 1`</a>  <a href='https://github.com/noodlewerk/NWPusher/raw/master/Docs/ios.png'>`Screenshot 2`</a> 
   -  `2021`  [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/) `objc` `apns` 
   -  ☆`6244` 
-- [OCaml: Learn & Code](https://github.com/GroupeMINASTE/OCaml): OCaml editor with a growing learn section
+- [OCaml: Learn & Code](https://github.com/NathanFallet/OCaml): OCaml editor with a growing learn section
   - [` App Store`](https://apps.apple.com/app/ocaml-learn-code/id1547506826) <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/18/27/a5/1827a5ca-d493-968e-520c-a1da52c14053/aac6dd60-c3ba-48e7-b763-d065b3d6cccb_MAX-EN-1@3x.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/7d/fc/cc/7dfccced-4658-54c8-c20b-d447e6caec06/13ec0f62-b0cf-427e-8c25-9c282432ddf7_MAX-EN-2@3x.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b2/d7/02/b2d7025c-a38b-47bd-96b9-3dbc6eae2979/2201b288-e06a-469f-bdcc-5d511e254716_MAX-EN-3@3x.png/600x0w.png'>`Screenshot 3`</a> 
   -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `ipad` 
   -  ☆`42` 
