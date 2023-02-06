@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1459-green.svg) ![](https://img.shields.io/badge/Updated-February%20%205,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1460-green.svg) ![](https://img.shields.io/badge/Updated-February%20%206,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2531,6 +2531,8 @@ Image, video, audio, reading — [back to top](#readme)
 - [PHPHub](https://github.com/Aufree/phphub-ios): App for https://learnku.com/laravel
   -  `2018`  [`mit`](http://choosealicense.com/licenses/mit/) `iphone` `ipad` 
   -  ☆`1212` 
+- [Picsum](https://github.com/meggsila/Picsum): Uses the public API of Lorem Picsum https://picsum.photos
+  -   `swift` 
 - [PopcornTime](https://github.com/danylokos/popcorntime-ios): Play movies
   -  <a href='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/3.png'>`Screenshot 3`</a> 
   -  `2017`   `swift` 
