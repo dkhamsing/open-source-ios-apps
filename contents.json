@@ -30127,6 +30127,20 @@
       "license": "mit",
       "date_added": "Feb 3 2023",
       "suggested_by": "@WezSieTato"
-    }
+    },
+    {
+      "title": "Picsum",
+      "category-ids": [
+        "content"        
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Uses the public API of Lorem Picsum https://picsum.photos",
+      "license": "other",
+      "source": "https://github.com/meggsila/Picsum",
+      "date_added": "Feb 6 2023",
+      "suggested_by": "@dkhamsing"      
+    }    
   ]
 }
