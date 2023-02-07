@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1460-green.svg) ![](https://img.shields.io/badge/Updated-February%20%206,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1461-green.svg) ![](https://img.shields.io/badge/Updated-February%20%207,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4235,6 +4235,9 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/jesusrp98/spacex-go/master/screenshots/0.jpg'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` `dart` 
   -  ☆`793` 
+- [TailorMade](https://github.com/jogboms/tailor_made): Managing a Fashion designer's daily routine
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `dart` 
+  -  ☆`288` 
 - [Toughest](https://github.com/MDSADABWASIM/Toughest)
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` 
   -  ☆`243` 
