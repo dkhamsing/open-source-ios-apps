@@ -4008,12 +4008,12 @@
       ],
       "description": "360 video player",
       "license": "mit",
-      "source": "https://github.com/hanton/HTY360Player",
+      "source": "https://github.com/hanton/Fisheye",
       "stars": 2027,
       "date_added": "Wed Dec 2 22:17:02 2015 +0800",
       "suggested_by": "@Hanton",
       "screenshots": [
-        "https://raw.githubusercontent.com/hanton/HTY360Player/master/Screenshot/PlayDemo.gif"
+        "https://raw.githubusercontent.com/hanton/Fisheye/master/Screenshot/PlayDemo.gif"
       ],
       "updated": "2019-11-02 23:21:59 UTC"
     },
