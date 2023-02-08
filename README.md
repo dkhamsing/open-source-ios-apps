@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1461-green.svg) ![](https://img.shields.io/badge/Updated-February%20%207,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1461-green.svg) ![](https://img.shields.io/badge/Updated-February%20%208,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2735,8 +2735,8 @@ Mostly using https://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [360 VR Player](https://github.com/hanton/HTY360Player): 360 video player
-  -  <a href='https://raw.githubusercontent.com/hanton/HTY360Player/master/Screenshot/PlayDemo.gif'>`Screenshot 1`</a> 
+- [360 VR Player](https://github.com/hanton/Fisheye): 360 video player
+  -  <a href='https://raw.githubusercontent.com/hanton/Fisheye/master/Screenshot/PlayDemo.gif'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `iphone` `ipad` 
   -  ☆`2027` 
 - [DownTube](https://github.com/MrAdamBoyd/DownTube): Download videos from YouTube for offline use
