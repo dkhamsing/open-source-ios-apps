@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1461-green.svg) ![](https://img.shields.io/badge/Updated-February%20%208,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1461-green.svg) ![](https://img.shields.io/badge/Updated-February%2010,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3784,7 +3784,7 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/alfresco/id459242610) <a href='https://i.imgur.com/wCinRSS.png'>`Screenshot 1`</a> 
   -  `2022`   `objc` `ipad` 
   -  ☆`42` 
-- [AltStore](https://github.com/rileytestut/AltStore): An alternate App Store, no jailbreak required
+- [AltStore](https://github.com/altstoreio/AltStore): An alternate App Store, no jailbreak required
   - <a href=https://altstore.io>`https://altstore.io`</a>
   -  <a href='https://user-images.githubusercontent.com/4723115/206248971-116cb695-f580-45db-be46-e3a908d6b776.jpeg'>`Screenshot 1`</a> 
   -  `2023`   `swift` `nuke` `keychainaccess` 
