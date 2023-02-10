@@ -19346,7 +19346,7 @@
     {
       "title": "AltStore",
       "description": "An alternate App Store, no jailbreak required",
-      "source": "https://github.com/rileytestut/AltStore",
+      "source": "https://github.com/altstoreio/AltStore",
       "homepage": "https://altstore.io",
       "license": "other",
       "category-ids": [
