@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1461-green.svg) ![](https://img.shields.io/badge/Updated-February%2010,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1461-green.svg) ![](https://img.shields.io/badge/Updated-February%2011,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2815,7 +2815,7 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `macos` `watchos` 
   -  ☆`1180` 
-- [Scoop](https://github.com/SaiBalaji22/Scoop): Read, bookmark and share news articles
+- [Scoop](https://github.com/SaiBalaji-PSS/Scoop): Read, bookmark and share news articles
   -  <a href='https://user-images.githubusercontent.com/51410810/87435407-5584e700-c609-11ea-9ff2-fcfe23062bb3.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/51410810/87435422-5ae23180-c609-11ea-990d-47e865822c7d.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/51410810/87435438-5fa6e580-c609-11ea-8afa-de3ffba67df8.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/51410810/87437498-055b5400-c60c-11ea-968b-12f521f92c8f.png'>`Screenshot 4`</a>  <a href='https://user-images.githubusercontent.com/51410810/87437502-07bdae00-c60c-11ea-88c3-a0d735aad81d.png'>`Screenshot 5`</a>  <a href='https://user-images.githubusercontent.com/51410810/87435484-6d5c6b00-c609-11ea-9f52-92c534dfcf77.png'>`Screenshot 6`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`3` 
