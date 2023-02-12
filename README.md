@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1461-green.svg) ![](https://img.shields.io/badge/Updated-February%2011,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1461-green.svg) ![](https://img.shields.io/badge/Updated-February%2012,%202023-lightgrey.svg)
 
 Jump to
 
@@ -265,7 +265,7 @@ Jump to
   -  <a href='https://i.imgur.com/oOfVj2I.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/cI77YU1.png'>`Screenshot 2`</a> 
   -  `2021`   `swift` `swiftui` 
   -  ☆`63` 
-- [Quote Today](https://github.com/SaiBalaji22/Quote-Today): Display a random quote from the Quote API
+- [Quote Today](https://github.com/SaiBalaji-PSS/Quote-Today): Display a random quote from the Quote API
   -  <a href='https://user-images.githubusercontent.com/51410810/87869133-0b11ba80-c9bb-11ea-80ed-4d4286744caa.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/51410810/87869148-1fee4e00-c9bb-11ea-8935-6646c352a6e6.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/51410810/87869153-2a104c80-c9bb-11ea-932e-53cf16cf0e75.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/51410810/87869174-4b713880-c9bb-11ea-86d0-6a8675cecfb5.png'>`Screenshot 4`</a> 
   -  `2020`   
   -  ☆`6` 
