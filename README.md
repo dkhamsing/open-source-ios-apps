@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1461-green.svg) ![](https://img.shields.io/badge/Updated-February%2012,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1462-green.svg) ![](https://img.shields.io/badge/Updated-February%2013,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4223,6 +4223,10 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://i.ibb.co/KWG2Fwx/article-details.png'>`Screenshot 1`</a> 
   -  `2020`   `flutter` `dart` 
   -  ☆`19` 
+- [notes-app](https://github.com/bimsina/notes-app): Note taking
+  -  <a href='https://user-images.githubusercontent.com/29589003/57538958-2ae63100-7369-11e9-9efc-102497249cdd.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `dart` 
+  -  ☆`360` 
 - [Platypus Crypto](https://github.com/Blakexx/CryptoTracker)
   - [` App Store`](https://apps.apple.com/app/platypus-crypto/id1397122793) <a href='https://user-images.githubusercontent.com/4723115/129973780-284f8ef0-7ad7-4a29-aaf4-082b76c24b44.png'>`Screenshot 1`</a> 
   -  `2021`   `flutter` `dart` 
