@@ -30157,6 +30157,23 @@
       "date_added": "Feb 7 2023",
       "suggested_by": "@dkhamsing",
       "stars": 288      
-    }    
+    },
+    {
+      "title": "notes-app",
+      "description": "Note taking",
+      "category-ids": [        
+        "flutter"
+      ], 
+      "source": "https://github.com/bimsina/notes-app",
+      "tags": [ 
+        "flutter",
+        "dart"
+      ],
+      "screenshots": ["https://user-images.githubusercontent.com/29589003/57538958-2ae63100-7369-11e9-9efc-102497249cdd.png"],
+      "license": "mit",
+      "date_added": "Feb 13 2023",
+      "suggested_by": "@dkhamsing",
+      "stars": 360
+    }
   ]
 }
