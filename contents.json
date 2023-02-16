@@ -30174,6 +30174,22 @@
       "date_added": "Feb 13 2023",
       "suggested_by": "@dkhamsing",
       "stars": 360
-    }
+    },
+    {
+      "title": "Flutter Games",
+      "description": "Purchase and rent games",
+      "category-ids": [        
+        "flutter"
+      ], 
+      "source": "https://github.com/searchy2/FlutterGames",
+      "tags": [ 
+        "flutter",
+        "dart"
+      ],
+      "license": "other",
+      "date_added": "Feb 16 2023",
+      "suggested_by": "@dkhamsing",
+      "stars": 230
+    }    
   ]
 }
