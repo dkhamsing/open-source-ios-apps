@@ -30190,6 +30190,23 @@
       "date_added": "Feb 16 2023",
       "suggested_by": "@dkhamsing",
       "stars": 230
+    },
+    {
+      "title": "Ireland - COVID Tracker",
+      "category-ids": [
+        "contact-tracing",
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "source": "https://github.com/HSEIreland/covid-tracker-app",
+      "itunes": "https://apps.apple.com/ie/app/covid-tracker-ireland/id1505596721",
+      "homepage": "https://www.covidtracker.ie",
+      "license": "mit",
+      "date_added": "Feb 17 2023",
+      "suggested_by": "@dkhamsing",
+      "stars": 470      
     }    
   ]
 }
