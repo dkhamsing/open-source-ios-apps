@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **334** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **335** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -957,6 +957,11 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876) <a href='https://i.imgur.com/isjn4UG.png'>`Screenshot 1`</a> 
   -  `2023`  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
   -  ☆`242` 
+- [Ireland - COVID Tracker](https://github.com/HSEIreland/covid-tracker-app)
+  - <a href=https://www.covidtracker.ie>`https://www.covidtracker.ie`</a>
+  - [` App Store`](https://apps.apple.com/ie/app/covid-tracker-ireland/id1505596721)
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
+  -  ☆`470` 
 - [Israel - Hamagen](https://github.com/MohGovIL/hamagen-react-native): COVID-19 exposure prevention app
   - [` App Store`](https://apps.apple.com/app/id1503224314) <a href='https://i.imgur.com/n50E9Nh.jpg'>`Screenshot 1`</a> 
   -  `2023`  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
@@ -2003,6 +2008,11 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876) <a href='https://i.imgur.com/isjn4UG.png'>`Screenshot 1`</a> 
   -  `2023`  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
   -  ☆`242` 
+- [Ireland - COVID Tracker](https://github.com/HSEIreland/covid-tracker-app)
+  - <a href=https://www.covidtracker.ie>`https://www.covidtracker.ie`</a>
+  - [` App Store`](https://apps.apple.com/ie/app/covid-tracker-ireland/id1505596721)
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
+  -  ☆`470` 
 - [Israel - Hamagen](https://github.com/MohGovIL/hamagen-react-native): COVID-19 exposure prevention app
   - [` App Store`](https://apps.apple.com/app/id1503224314) <a href='https://i.imgur.com/n50E9Nh.jpg'>`Screenshot 1`</a> 
   -  `2023`  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
