@@ -30207,6 +30207,20 @@
       "date_added": "Feb 17 2023",
       "suggested_by": "@dkhamsing",
       "stars": 470      
+    },
+    {
+      "title": "Hangman",
+      "category-ids": [        
+        "flutter"
+      ], 
+      "source": "https://github.com/jerald-jacob/Flutter-Apps",
+      "tags": [ 
+        "flutter",
+        "dart"
+      ],
+      "license": "other",
+      "date_added": "Feb 18 2023",
+      "suggested_by": "@dkhamsing"
     }    
   ]
 }
