@@ -6946,6 +6946,19 @@
       "updated": "2016-02-01 02:14:20 UTC"
     },
     {
+      "title": "Flippy Learn - Word Flashcards",
+      "category-ids": ["education"],
+      "description": "Simple flash card app. Privacy first, no tracking, everything stays on your device.",
+      "source": "https://github.com/misteu/VocabularyTraining",
+      "itunes": "https://apps.apple.com/us/app/flippy-learn-word-flashcards/id1479486387",
+      "screenshots": [
+        "https://github.com/misteu/VocabularyTraining/raw/master/screenshots/flippy1.png",
+        "https://github.com/misteu/VocabularyTraining/raw/master/screenshots/flippy7.png"
+      ],
+      "date_added": "Feb 19 2023",
+      "suggested_by": "@misteu
+    }
+    {
       "title": "Jupp",
       "category-ids": [
         "extension"
