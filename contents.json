@@ -6948,11 +6948,12 @@
     {
       "title": "Flippy Learn",
       "category-ids": ["education"],
-      "description": "Simple flash card app. Privacy first, no tracking, everything stays on your device.",
+      "description": "Simple flash cards (privacy first, no tracking, everything stays on your device)",
       "source": "https://github.com/misteu/VocabularyTraining",
       "stars": 7,
       "license": "apache-2.0",
-      "itunes": "https://apps.apple.com/us/app/flippy-learn-word-flashcards/id1479486387",
+      "tags": ["swift"],
+      "itunes": "https://apps.apple.com/app/flippy-learn-word-flashcards/id1479486387",
       "screenshots": [
         "https://github.com/misteu/VocabularyTraining/raw/master/screenshots/flippy1.png",
         "https://github.com/misteu/VocabularyTraining/raw/master/screenshots/flippy7.png"
