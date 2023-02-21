@@ -484,9 +484,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863) <a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `combine` 
   -  ☆`17` 
-- [Flippy Learn](https://github.com/misteu/VocabularyTraining): Simple flash card app. Privacy first, no tracking, everything stays on your device.
-  - [` App Store`](https://apps.apple.com/us/app/flippy-learn-word-flashcards/id1479486387) <a href='https://github.com/misteu/VocabularyTraining/raw/master/screenshots/flippy1.png'>`Screenshot 1`</a>  <a href='https://github.com/misteu/VocabularyTraining/raw/master/screenshots/flippy7.png'>`Screenshot 2`</a> 
-  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) 
+- [Flippy Learn](https://github.com/misteu/VocabularyTraining): Simple flash cards (privacy first, no tracking, everything stays on your device)
+  - [` App Store`](https://apps.apple.com/app/flippy-learn-word-flashcards/id1479486387) <a href='https://github.com/misteu/VocabularyTraining/raw/master/screenshots/flippy1.png'>`Screenshot 1`</a>  <a href='https://github.com/misteu/VocabularyTraining/raw/master/screenshots/flippy7.png'>`Screenshot 2`</a> 
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` 
   -  ☆`7` 
 - [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc): Keep track of your GPA
   - [` App Store`](https://apps.apple.com/app/gradecalc-gpa-calculator/id1502912052) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
