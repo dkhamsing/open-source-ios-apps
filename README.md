@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1466-green.svg) ![](https://img.shields.io/badge/Updated-February%2021,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1467-green.svg) ![](https://img.shields.io/badge/Updated-February%2022,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4249,6 +4249,9 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://github.com/MotionMobs/Sandwhich/raw/master/media/animated.gif'>`Screenshot 1`</a> 
   -  `2019`   `flutter` `dart` `python` 
   -  ☆`146` 
+- [Slide Puzzle](https://github.com/kevmoo/slide_puzzle)
+  -  [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/) `flutter` `dart` 
+  -  ☆`175` 
 - [SpaceX GO!](https://github.com/jesusrp98/spacex-go): SpaceX launch tracker
   -  <a href='https://raw.githubusercontent.com/jesusrp98/spacex-go/master/screenshots/0.jpg'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` `dart` 
