@@ -30237,6 +30237,21 @@
       "license": "other",
       "date_added": "Feb 18 2023",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Slide Puzzle",
+      "category-ids": [        
+        "flutter"
+      ], 
+      "source": "https://github.com/kevmoo/slide_puzzle",
+      "tags": [ 
+        "flutter",
+        "dart"
+      ],
+      "license": "bsd-3-clause",
+      "date_added": "Feb 22 2023",
+      "stars": 175,
+      "suggested_by": "@dkhamsing"
     }    
   ]
 }
