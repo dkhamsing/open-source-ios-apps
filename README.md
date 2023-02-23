@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1467-green.svg) ![](https://img.shields.io/badge/Updated-February%2022,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1468-green.svg) ![](https://img.shields.io/badge/Updated-February%2023,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3905,6 +3905,10 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/ifreerdp/id604813768) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/b0/a5/9a/b0a59a26-836b-8a60-9e33-d562e945a7fb/mzl.royofexn.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple2/v4/4d/15/ce/4d15ce25-faff-baa6-2f73-d5e77718a0d6/mzl.niuitotb.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/v4/e9/56/2d/e9562d0d-02a3-73a0-1523-a79dfe190967/mzl.bfucaujc.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple2/v4/23/a1/2b/23a12beb-b1aa-82b9-b9fd-50b622685114/mzl.ydgieukd.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2023`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `objc` 
   -  ☆`7838` 
+- [Groceries](https://github.com/Sophiestication/Groceries)
+  -  <a href='https://cdn.masto.host/ganeshasocial/media_attachments/files/109/904/566/324/548/104/original/ea68dff1acf34844.png'>`Screenshot 1`</a> 
+  -  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
+  -  ☆`44` 
 - [Hackfoldr](https://github.com/hackfoldr/hackfoldr-iOS): Share all your project documents with a link
   - <a href=https://hackfoldr.org>`https://hackfoldr.org`</a>
   - [` App Store`](https://apps.apple.com/app/hackfoldr/id919010837) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/32/15/1a/32151a02-4fb8-70e2-8d43-e361bee0722a/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/16/62/14/16621422-f94c-a589-e5c6-3696177647a2/pr_source.png/460x0w.jpg'>`Screenshot 2`</a> 
