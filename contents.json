@@ -30252,6 +30252,21 @@
       "date_added": "Feb 22 2023",
       "stars": 175,
       "suggested_by": "@dkhamsing"
-    }    
+    },
+    {
+      "title": "Groceries",
+      "category-ids": [        
+        "misc"
+      ],
+      "screenshots": ["https://cdn.masto.host/ganeshasocial/media_attachments/files/109/904/566/324/548/104/original/ea68dff1acf34844.png"],
+      "source": "https://github.com/Sophiestication/Groceries",
+      "tags": [ 
+        "objc"
+      ],
+      "license": "mit",
+      "date_added": "Feb 23 2023",
+      "stars": 44,
+      "suggested_by": "@dkhamsing"
+    } 
   ]
 }
