@@ -658,8 +658,8 @@ Widget (iOS 14) — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1536864924) <a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'>`Screenshot 4`</a> 
   -  `2021` 
   -  ☆`72` 
-- [Spontaneous - Random quotes](https://github.com/FranicevicNikola/DiscoverRandomQuotes)
-  - [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374) <a href='https://github.com/FranicevicNikola/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
+- [Spontaneous - Random quotes](https://github.com/bulbousigloo/DiscoverRandomQuotes)
+  - [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374) <a href='https://github.com/bulbousigloo/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `widgetkit` `ios14` 
   -  ☆`43` 
 - [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app
@@ -1234,8 +1234,8 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/reading-list-a-book-tracking-log/id1217139955) <a href='https://raw.githubusercontent.com/AndrewBennet/ReadingListV1/master/media/iPhone%20X-0_ToReadList_framed.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `iphone` `ipad` `core-data` 
   -  ☆`297` 
-- [Spontaneous - Random quotes](https://github.com/FranicevicNikola/DiscoverRandomQuotes)
-  - [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374) <a href='https://github.com/FranicevicNikola/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
+- [Spontaneous - Random quotes](https://github.com/bulbousigloo/DiscoverRandomQuotes)
+  - [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374) <a href='https://github.com/bulbousigloo/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `swiftui` `widgetkit` `ios14` 
   -  ☆`43` 
 - [xkcd](https://github.com/paulrehkugler/xkcd)
