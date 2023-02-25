@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1468-green.svg) ![](https://img.shields.io/badge/Updated-February%2024,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1468-green.svg) ![](https://img.shields.io/badge/Updated-February%2025,%202023-lightgrey.svg)
 
 Jump to
 
@@ -5235,10 +5235,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  ☆`45` 
 - [The SwiftUI cookbook for navigation](https://developer.apple.com/documentation/swiftui/bringing_robust_navigation_structure_to_your_swiftui_app)
   -   `swift` `swiftui` 
-- [Todo Combine SwiftUI](https://github.com/jamfly/SwiftUI-Combine-todo-example): To-do list with restful API
-  -  <a href='https://github.com/jamfly/SwiftUI-Combine-todo-example/raw/master/asset/demo.png'>`Screenshot 1`</a>  <a href='https://github.com/jamfly/SwiftUI-Combine-todo-example/raw/master/asset/demo.gif'>`Screenshot 2`</a> 
-  -  `2019`   `swift` 
-  -  ☆`14` 
 - [Translate](https://github.com/vijaywargiya/Translate-SwiftUI): Recreate iOS 14's Translate App
   -  <a href='https://github.com/vijaywargiya/Translate-SwiftUI/raw/main/Translate.gif'>`Screenshot 1`</a> 
   -  `2020`   `swift` `swiftui` 
