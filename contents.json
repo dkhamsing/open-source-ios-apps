@@ -22223,7 +22223,7 @@
       "title": "EditKit Pro",
       "category-ids": ["developer","extension"],
       "tags": ["swift"],
-      "description": "Xcode Editor Extension multi-tool for iOS / macOS developers",
+      "description": "Xcode Editor Extension multi-tool for developers",
       "source": "https://github.com/aryamansharda/EditKitProb",
       "screenshots": ["https://digitalbunker.dev/editkit-pro/"],
       "license": "mit",
