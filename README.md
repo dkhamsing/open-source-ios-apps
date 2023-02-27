@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1468-green.svg) ![](https://img.shields.io/badge/Updated-February%2025,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1469-green.svg) ![](https://img.shields.io/badge/Updated-February%2027,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4294,6 +4294,9 @@ https://flutter.dev — [back to top](#readme)
 - [WeightTracker](https://github.com/MSzalek-Mobile/weight_tracker)
   -  `2020`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` `dart` 
   -  ☆`344` 
+- [WhatTodo](https://github.com/burhanrashid52/WhatTodo): Keep track of your tasks on a daily basis
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `flutter` `dart` 
+  -  ☆`1000` 
 ### GraphQL 
  
 [back to top](#readme) 
