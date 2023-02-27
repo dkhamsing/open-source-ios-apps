@@ -30267,6 +30267,22 @@
       "date_added": "Feb 23 2023",
       "stars": 44,
       "suggested_by": "@dkhamsing"
-    } 
+    },
+    {
+      "title": "WhatTodo",
+      "description": "Keep track of your tasks on a daily basis",
+      "category-ids": [        
+        "flutter"
+      ], 
+      "source": "https://github.com/burhanrashid52/WhatTodo",
+      "tags": [ 
+        "flutter",
+        "dart"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Feb 27 2023",
+      "stars": 1000,
+      "suggested_by": "@dkhamsing"
+    }     
   ]
 }
