@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1469-green.svg) ![](https://img.shields.io/badge/Updated-February%2027,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1470-green.svg) ![](https://img.shields.io/badge/Updated-February%2028,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4217,6 +4217,9 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://github.com/Widle-Studio/Grocery-App/raw/master/ScreenShot/Animation%20-11-01-11-57-17-742%5B1%5D-ANIMATION.gif'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` `dart` 
   -  ☆`822` 
+- [GSYGithubApp](https://github.com/CarGuo/gsy_github_app_flutter): GitHub client
+  -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `flutter` `dart` 
+  -  ☆`13000` 
 - [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
   - [` App Store`](https://apps.apple.com/app/hacki/id1602043763) <a href='https://user-images.githubusercontent.com/7277662/148859621-965080f3-a191-44cd-a2fc-9ac1f489ef84.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859627-48290a22-9679-442b-bae4-97f21546b3ae.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859630-93f7e372-f2e7-4357-86c0-250a3f69c10f.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859632-b52a89ca-b8d7-464c-a508-faa86bcc87f8.png'>`Screenshot 4`</a> 
   -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` 
