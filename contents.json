@@ -30283,6 +30283,22 @@
       "date_added": "Feb 27 2023",
       "stars": 1000,
       "suggested_by": "@dkhamsing"
-    }     
+    },
+    {
+      "title": "GSYGithubApp",
+      "description": "GitHub client",
+      "category-ids": [        
+        "flutter"
+      ], 
+      "source": "https://github.com/CarGuo/gsy_github_app_flutter",
+      "tags": [ 
+        "flutter",
+        "dart"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Feb 28 2023",
+      "stars": 13000,
+      "suggested_by": "@dkhamsing"
+    }
   ]
 }
