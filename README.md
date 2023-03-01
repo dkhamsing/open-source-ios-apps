@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1470-green.svg) ![](https://img.shields.io/badge/Updated-February%2028,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1470-green.svg) ![](https://img.shields.io/badge/Updated-March%20%201,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4218,6 +4218,7 @@ https://flutter.dev — [back to top](#readme)
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` `dart` 
   -  ☆`822` 
 - [GSYGithubApp](https://github.com/CarGuo/gsy_github_app_flutter): GitHub client
+  -  <a href='https://github.com/CarGuo/gsy_github_app_flutter/raw/master/ios.gif'>`Screenshot 1`</a> 
   -  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `flutter` `dart` 
   -  ☆`13000` 
 - [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
