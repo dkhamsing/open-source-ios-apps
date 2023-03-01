@@ -30298,6 +30298,8 @@
       "license": "apache-2.0",
       "date_added": "Feb 28 2023",
       "stars": 13000,
+      "lang": "zho",
+      "screenshots": ["https://github.com/CarGuo/gsy_github_app_flutter/raw/master/ios.gif"],
       "suggested_by": "@dkhamsing"
     }
   ]
