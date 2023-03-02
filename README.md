@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1470-green.svg) ![](https://img.shields.io/badge/Updated-March%20%201,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1470-green.svg) ![](https://img.shields.io/badge/Updated-March%20%202,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4881,8 +4881,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [emitron](https://github.com/razeware/emitron-iOS): For https://www.kodeco.com
   -  `2023`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `swift` `swiftui` `combine` 
   -  ☆`334` 
-- [EU VAT Number - VIES Freelance](https://github.com/FranicevicNikola/VIES)
-  - [` App Store`](https://apps.apple.com/app/eu-vat-number-vies-freelance/id1546039758) <a href='https://github.com/FranicevicNikola/VIES/blob/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
+- [EU VAT Number - VIES Freelance](https://github.com/bulbousigloo/VIES)
+  - [` App Store`](https://apps.apple.com/app/eu-vat-number-vies-freelance/id1546039758) <a href='https://raw.githubusercontent.com/bulbousigloo/VIES/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `iphone` `ipad` 
   -  ☆`8` 
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)
