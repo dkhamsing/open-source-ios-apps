@@ -30327,6 +30327,20 @@
       ],
       "suggested_by": "@dkhamsing",
       "updated": "2023-02-24 10:21:44 UTC"
-    }
+    },
+    {
+      "title": "Tipulator",
+      "category-ids": [
+        "misc"
+      ],  
+      "source": "https://github.com/Sophiestication/Tipulator",
+      "tags": [
+        "objc"
+      ],
+      "license": "mit",
+      "date_added": "Mar 3 2023",
+      "stars": 36,
+      "suggested_by": "@dkhamsing"      
+    }    
   ]
 }
