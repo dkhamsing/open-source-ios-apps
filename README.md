@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1471-green.svg) ![](https://img.shields.io/badge/Updated-March%20%205,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1471-green.svg) ![](https://img.shields.io/badge/Updated-March%20%206,%202023-lightgrey.svg)
 
 Jump to
 
@@ -748,7 +748,7 @@ Jump to
   -  `2022`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `objc` 
   -  ☆`499` 
 - [Charter](https://github.com/matthewpalmer/Charter): For mailing lists
-  -  <a href='https://cdn-images-1.medium.com/max/800/1*3igvNkkU0qmS0lox6epnSQ.png'>`Screenshot 1`</a> 
+  -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*3igvNkkU0qmS0lox6epnSQ.png'>`Screenshot 1`</a> 
   -  `2017`   `swift` `iphone` `ipad` 
   -  ☆`527` 
 - [CI2Go](https://github.com/ngs/ci2go): For https://circleci.com/
