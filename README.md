@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1471-green.svg) ![](https://img.shields.io/badge/Updated-March%20%206,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1471-green.svg) ![](https://img.shields.io/badge/Updated-March%20%207,%202023-lightgrey.svg)
 
 Jump to
 
@@ -230,7 +230,7 @@ Jump to
   -  `2019`   `swift` `watchos2` 
   -  ☆`335` 
 - [HN Reader](https://github.com/Dimillian/SwiftHN): Hacker News Reader
-  - [` App Store`](https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741) <a href='https://cdn-images-1.medium.com/max/800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'>`Screenshot 1`</a> 
   -  `2020`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `swift` 
   -  ☆`1696` 
 - [KHabit](https://github.com/elkiwy/KHabit): Maintain productive habits
@@ -2876,7 +2876,7 @@ https://news.ycombinator.com/ — [back to top](#readme)
   -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` 
   -  ☆`516` 
 - [HN Reader](https://github.com/Dimillian/SwiftHN): Hacker News Reader
-  - [` App Store`](https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741) <a href='https://cdn-images-1.medium.com/max/800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'>`Screenshot 1`</a> 
   -  `2020`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `swift` 
   -  ☆`1696` 
 - [React Native Hacker News](https://github.com/G2Jose/ReactNative-HackerNews)
