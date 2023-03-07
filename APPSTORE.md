@@ -130,7 +130,7 @@ Jump to
   -  `2023`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `swiftui` 
   -  ☆`6` 
 - [HN Reader](https://github.com/Dimillian/SwiftHN): Hacker News Reader
-  - [` App Store`](https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741) <a href='https://cdn-images-1.medium.com/max/800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'>`Screenshot 1`</a> 
   -  `2020`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `swift` 
   -  ☆`1696` 
 - [KHabit](https://github.com/elkiwy/KHabit): Maintain productive habits
@@ -1365,7 +1365,7 @@ https://news.ycombinator.com/ — [back to top](#readme)
   -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `flutter` 
   -  ☆`516` 
 - [HN Reader](https://github.com/Dimillian/SwiftHN): Hacker News Reader
-  - [` App Store`](https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741) <a href='https://cdn-images-1.medium.com/max/800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'>`Screenshot 1`</a> 
   -  `2020`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `swift` 
   -  ☆`1696` 
 - [Simple Reader](https://github.com/rnystrom/HackerNewsReader)
