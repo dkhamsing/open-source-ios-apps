@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1471-green.svg) ![](https://img.shields.io/badge/Updated-March%20%207,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1471-green.svg) ![](https://img.shields.io/badge/Updated-March%20%208,%202023-lightgrey.svg)
 
 Jump to
 
@@ -472,7 +472,7 @@ Jump to
   -  `2015`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`322` 
 - [2048](https://github.com/austinzheng/swift-2048)
-  -  <a href='https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'>`Screenshot 1`</a> 
+  -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'>`Screenshot 1`</a> 
   -  `2023`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`3085` 
 - [2048](https://github.com/danqing/2048)
@@ -1570,7 +1570,7 @@ File Management — [back to top](#readme)
   -  `2015`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`322` 
 - [2048](https://github.com/austinzheng/swift-2048)
-  -  <a href='https://cdn-images-1.medium.com/max/800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'>`Screenshot 1`</a> 
+  -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'>`Screenshot 1`</a> 
   -  `2023`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`3085` 
 - [2048](https://github.com/danqing/2048)
