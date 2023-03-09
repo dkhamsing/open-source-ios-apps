@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1471-green.svg) ![](https://img.shields.io/badge/Updated-March%20%208,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1471-green.svg) ![](https://img.shields.io/badge/Updated-March%20%209,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2323,7 +2323,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 
 - [Analog Synth X](https://github.com/audiokit/AudioKit): Simple analog synthesizer music keyboard example
-  -  <a href='https://cdn-images-1.medium.com/max/800/1*hj0rxmPvapxpY1URdvw97A.png'>`Screenshot 1`</a> 
+  -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*hj0rxmPvapxpY1URdvw97A.png'>`Screenshot 1`</a> 
   -  `2023`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`9639` 
 - [AudioKit ROM Player](https://github.com/AudioKit/ROMPlayer): Make your own sample music instrument
@@ -2447,7 +2447,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2022`   `objc` `adult` 
   -  ☆`1196` 
 - [Dunk](https://github.com/naoyashiga/Dunk)
-  -  <a href='https://cdn-images-1.medium.com/max/800/1*0TkH9-Guo_A_hdlI9UEnvQ.png'>`Screenshot 1`</a> 
+  -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*0TkH9-Guo_A_hdlI9UEnvQ.png'>`Screenshot 1`</a> 
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `dribbble` 
   -  ☆`940` 
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda): Unofficial E-Hentai browser
