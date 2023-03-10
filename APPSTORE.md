@@ -337,7 +337,7 @@ Jump to
   -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `javascript` `cordova` `iphone` `ipad` 
   -  ☆`5171` 
 - [Wire](https://github.com/wireapp/wire-ios): Modern, private communications with crystal clear voice, video, group chats - always encrypted
-  - [` App Store`](https://apps.apple.com/app/wire/id930944768) <a href='https://cdn-images-1.medium.com/max/800/1*CEtofzY1rIOKuGT7JO3VkA.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/wire/id930944768) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*CEtofzY1rIOKuGT7JO3VkA.png'>`Screenshot 1`</a> 
   -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `carthage` `afnetworking` `purelayout` 
   -  ☆`3169` 
 - [Zulip team chat](https://github.com/zulip/zulip-mobile)
@@ -639,7 +639,7 @@ Today Extensions or Widgets — [back to top](#readme)
   -  `2021`   `objc` 
   -  ☆`485` 
 - [VPN On](https://github.com/lexrus/VPNOn): Extension to turn on VPN
-  - [` App Store`](https://apps.apple.com/app/vpn-on/id951344279) <a href='https://cdn-images-1.medium.com/max/800/1*9qSbd77zijp5UPODaWM9CQ.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/vpn-on/id951344279) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*9qSbd77zijp5UPODaWM9CQ.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`4383` 
 ### Widget 
@@ -1460,7 +1460,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2023`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`2593` 
 - [Wire](https://github.com/wireapp/wire-ios): Modern, private communications with crystal clear voice, video, group chats - always encrypted
-  - [` App Store`](https://apps.apple.com/app/wire/id930944768) <a href='https://cdn-images-1.medium.com/max/800/1*CEtofzY1rIOKuGT7JO3VkA.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/wire/id930944768) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*CEtofzY1rIOKuGT7JO3VkA.png'>`Screenshot 1`</a> 
   -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `carthage` `afnetworking` `purelayout` 
   -  ☆`3169` 
 - [WordPress](https://github.com/wordpress-mobile/WordPress-iOS): Official WordPress app
@@ -1561,7 +1561,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `javascript` `cordova` `iphone` `ipad` 
   -  ☆`5171` 
 - [VPN On](https://github.com/lexrus/VPNOn): Extension to turn on VPN
-  - [` App Store`](https://apps.apple.com/app/vpn-on/id951344279) <a href='https://cdn-images-1.medium.com/max/800/1*9qSbd77zijp5UPODaWM9CQ.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/vpn-on/id951344279) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*9qSbd77zijp5UPODaWM9CQ.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`4383` 
 - [WireGuard](https://github.com/WireGuard/wireguard-apple): WireGuard: fast, modern, secure VPN tunnel (less battery consumption than OpenVPN) 
