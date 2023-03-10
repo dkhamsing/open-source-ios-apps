@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1471-green.svg) ![](https://img.shields.io/badge/Updated-March%20%209,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1471-green.svg) ![](https://img.shields.io/badge/Updated-March%2010,%202023-lightgrey.svg)
 
 Jump to
 
@@ -721,7 +721,7 @@ Jump to
   -  `2020`   `swift` `starscream` 
   -  ☆`66` 
 - [Wire](https://github.com/wireapp/wire-ios): Modern, private communications with crystal clear voice, video, group chats - always encrypted
-  - [` App Store`](https://apps.apple.com/app/wire/id930944768) <a href='https://cdn-images-1.medium.com/max/800/1*CEtofzY1rIOKuGT7JO3VkA.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/wire/id930944768) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*CEtofzY1rIOKuGT7JO3VkA.png'>`Screenshot 1`</a> 
   -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `carthage` `afnetworking` `purelayout` 
   -  ☆`3169` 
 - [Zulip team chat](https://github.com/zulip/zulip-mobile)
@@ -1341,7 +1341,7 @@ Today Extensions or Widgets — [back to top](#readme)
   -  `2022`   `swift` 
   -  ☆`50` 
 - [VPN On](https://github.com/lexrus/VPNOn): Extension to turn on VPN
-  - [` App Store`](https://apps.apple.com/app/vpn-on/id951344279) <a href='https://cdn-images-1.medium.com/max/800/1*9qSbd77zijp5UPODaWM9CQ.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/vpn-on/id951344279) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*9qSbd77zijp5UPODaWM9CQ.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`4383` 
 ### Widget 
@@ -2388,7 +2388,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2016`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`19` 
 - [Swift Radio Pro](https://github.com/analogcode/Swift-Radio-Pro): Professional radio station
-  -  <a href='https://cdn-images-1.medium.com/max/800/1*THdzhTjeuB-niUriPwsxfg.png'>`Screenshot 1`</a> 
+  -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*THdzhTjeuB-niUriPwsxfg.png'>`Screenshot 1`</a> 
   -  `2023`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`2733` 
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Audio recorder
@@ -2806,7 +2806,7 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  `2023`   `swift` 
   -  ☆`6` 
 - [Designer News](https://github.com/MengTo/DesignerNewsApp): Browse the https://www.designernews.co/ design & technology site
-  -  <a href='https://cdn-images-1.medium.com/max/800/1*NeMFTvgJVJiM8aiy4Pambw.png'>`Screenshot 1`</a> 
+  -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*NeMFTvgJVJiM8aiy4Pambw.png'>`Screenshot 1`</a> 
   -  `2019`   `swift` 
   -  ☆`2423` 
 - [Hipstapaper](https://github.com/jeffreybergier/Hipstapaper): Cross-platform reading list
@@ -2944,7 +2944,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2020`   `flutter` `dart` 
   -  ☆`19` 
 - [Royal News](https://github.com/msal4/royal_news)
-  -  <a href='https://cdn-images-1.medium.com/max/800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg'>`Screenshot 1`</a> 
+  -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
   -  ☆`96` 
 - [US NewsFeed](https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM)
@@ -3073,7 +3073,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2023`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`2593` 
 - [Wire](https://github.com/wireapp/wire-ios): Modern, private communications with crystal clear voice, video, group chats - always encrypted
-  - [` App Store`](https://apps.apple.com/app/wire/id930944768) <a href='https://cdn-images-1.medium.com/max/800/1*CEtofzY1rIOKuGT7JO3VkA.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/wire/id930944768) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*CEtofzY1rIOKuGT7JO3VkA.png'>`Screenshot 1`</a> 
   -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `carthage` `afnetworking` `purelayout` 
   -  ☆`3169` 
 - [WordPress](https://github.com/wordpress-mobile/WordPress-iOS): Official WordPress app
@@ -3387,7 +3387,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2023`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `javascript` `cordova` `iphone` `ipad` 
   -  ☆`5171` 
 - [VPN On](https://github.com/lexrus/VPNOn): Extension to turn on VPN
-  - [` App Store`](https://apps.apple.com/app/vpn-on/id951344279) <a href='https://cdn-images-1.medium.com/max/800/1*9qSbd77zijp5UPODaWM9CQ.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/vpn-on/id951344279) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*9qSbd77zijp5UPODaWM9CQ.png'>`Screenshot 1`</a> 
   -  `2020`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`4383` 
 - [WireGuard](https://github.com/WireGuard/wireguard-apple): WireGuard: fast, modern, secure VPN tunnel (less battery consumption than OpenVPN) 
@@ -4568,7 +4568,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  <a href='https://i.imgur.com/DYqIgci.png'>`Screenshot 1`</a> 
   -   `react native` 
 - [Royal News](https://github.com/msal4/royal_news)
-  -  <a href='https://cdn-images-1.medium.com/max/800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg'>`Screenshot 1`</a> 
+  -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `react-native` 
   -  ☆`96` 
 - [Snowflake](https://github.com/bartonhammond/snowflake): A React-Native Starter App/BoilerPlate/Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku
