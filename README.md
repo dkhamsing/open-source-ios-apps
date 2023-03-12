@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1472-green.svg) ![](https://img.shields.io/badge/Updated-March%2011,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1472-green.svg) ![](https://img.shields.io/badge/Updated-March%2012,%202023-lightgrey.svg)
 
 Jump to
 
@@ -483,7 +483,7 @@ Jump to
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`323` 
 - [appstore](https://github.com/phillfarrugia/appstore-clone)
-  -  <a href='https://cdn-images-1.medium.com/max/2000/1*tQ0-dhZvBH3O0h9GTScihA.png'>`Screenshot 1`</a> 
+  -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*tQ0-dhZvBH3O0h9GTScihA.png'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`501` 
 - [CZInstagram](https://github.com/geekaurora/CZInstagram): Instagram written in a way that eliminates Massive View Controller in unidirectional event/state flow manner
