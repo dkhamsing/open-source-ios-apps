@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1472-green.svg) ![](https://img.shields.io/badge/Updated-March%2012,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1472-green.svg) ![](https://img.shields.io/badge/Updated-March%2013,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3912,7 +3912,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2023`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `objc` 
   -  ☆`7937` 
 - [Groceries](https://github.com/Sophiestication/Groceries)
-  -  <a href='https://cdn.masto.host/ganeshasocial/media_attachments/files/109/904/566/324/548/104/original/ea68dff1acf34844.png'>`Screenshot 1`</a> 
   -  `2023`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
   -  ☆`59` 
 - [Hackfoldr](https://github.com/hackfoldr/hackfoldr-iOS): Share all your project documents with a link
