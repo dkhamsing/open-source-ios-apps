@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1474-green.svg) ![](https://img.shields.io/badge/Updated-March%2015,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1475-green.svg) ![](https://img.shields.io/badge/Updated-March%2016,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1112,6 +1112,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/wanikani/id1034355141) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/65/6a/dc656a24-e549-d4b0-f663-e479fa96a396/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/74/47/3c/74473cb9-dd3a-666b-67f3-807f12d8940d/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d0/b3/cc/d0b3cc28-62fa-7f48-8fb4-dd695e695d94/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/24/1f/af/241faf70-86e5-abc3-10e4-6a2872d369b9/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2017`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
   -  ☆`11` 
+- [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner): An ad-free English dictionary
+  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/iphone_portrait.webp'>`Screenshot 1`</a>  <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/iphone_landscape.webp'>`Screenshot 2`</a>  <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/ipad_landscape.webp'>`Screenshot 3`</a> 
+  - `flutter` `dart` 
 - [WWDCast](https://github.com/sgl0v/WWDCast): The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast
   -  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen3.png'>`Screenshot 3`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` `rxswift` `mvvm` 
@@ -4320,6 +4323,9 @@ https://flutter.dev — [back to top](#readme)
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo): Keep track of your tasks on a daily basis
   -  `2023`  [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/) `flutter` `dart` 
   -  ☆`1036` 
+- [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner): An ad-free English dictionary
+  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/iphone_portrait.webp'>`Screenshot 1`</a>  <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/iphone_landscape.webp'>`Screenshot 2`</a>  <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/ipad_landscape.webp'>`Screenshot 3`</a> 
+  - `flutter` `dart` 
 ### GraphQL 
  
 [back to top](#readme) 
