@@ -30392,6 +30392,27 @@
       "license": "mit",
       "date_added": "Mar 15 2023",
       "suggested_by": "@dkhamsing"      
-    }    
+    },
+    {
+      "title": "WordDefiner English Dictionary",
+      "category-ids": [
+        "education",
+        "flutter"
+      ],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "description": "An ad-free English dictionary",
+       "source": "https://github.com/ritwiktakkar/WordDefiner",
+       "itunes": "https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027",
+       "screenshots": [
+         "https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/iphone_portrait.webp",
+         "https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/iphone_landscape.webp",
+         "https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/ipad_landscape.webp"
+       ],
+       "date_added": "Mar 16 2023",
+       "suggested_by": "@ritwiktakkar"      
+    }
   ]
 }
