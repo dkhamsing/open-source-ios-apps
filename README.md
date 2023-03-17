@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1475-green.svg) ![](https://img.shields.io/badge/Updated-March%2016,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1475-green.svg) ![](https://img.shields.io/badge/Updated-March%2017,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4010,9 +4010,6 @@ https://joinmastodon.org — [back to top](#readme)
 - [Shortcuts support for Micro.blog](https://github.com/vincode-io/Humboldt)
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`9` 
-- [ShortenMyURL](https://github.com/ritwiktakkar/shorten_my_URL): An elegant URL shortener
-  - [` App Store`](https://apps.apple.com/app/shortenmyurl/id1525888533) <a href='https://github.com/ritwiktakkar/shorten_my_URL/raw/master/screenshots/iphone_portrait.webp'>`Screenshot 1`</a>  <a href='https://github.com/ritwiktakkar/shorten_my_URL/raw/master/screenshots/iphone_landscape.webp'>`Screenshot 2`</a>  <a href='https://github.com/ritwiktakkar/shorten_my_URL/raw/master/screenshots/ipad_landscape.webp'>`Screenshot 3`</a> 
-  - `flutter` `dart` 
 - [Slidden](https://github.com/Brimizer/Slidden): Customizable keyboard
   -  <a href='https://github.com/Brimizer/Slidden/raw/master/assets/screenshot.png'>`Screenshot 1`</a> 
   -  `2019`  [`mit`](http://choosealicense.com/licenses/mit/) `objc` 
