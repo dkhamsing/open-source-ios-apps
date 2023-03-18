@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1475-green.svg) ![](https://img.shields.io/badge/Updated-March%2017,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1475-green.svg) ![](https://img.shields.io/badge/Updated-March%2018,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4189,7 +4189,7 @@ https://flutter.dev — [back to top](#readme)
 - [Flight Search](https://github.com/MarcinusX/flutter_ui_challenge_flight_search)
   -  `2021`  [`mit`](http://choosealicense.com/licenses/mit/) `flutter` `dart` 
   -  ☆`813` 
-- [Flutter Games](https://github.com/searchy2/FlutterGames): Purchase and rent games
+- [Flutter Games](https://github.com/rayliverified/FlutterGames): Purchase and rent games
   -  `2020`   `flutter` `dart` 
   -  ☆`237` 
 - [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)
