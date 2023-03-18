@@ -14,7 +14,7 @@
 10. [Flippy Learn](https://github.com/misteu/VocabularyTraining)
 11. [Hangman](https://github.com/jerald-jacob/Flutter-Apps)
 12. [Ireland - COVID Tracker](https://github.com/HSEIreland/covid-tracker-app)
-13. [Flutter Games](https://github.com/searchy2/FlutterGames)
+13. [Flutter Games](https://github.com/rayliverified/FlutterGames)
 14. [notes-app](https://github.com/bimsina/notes-app)
 15. [TailorMade](https://github.com/jogboms/tailor_made)
 16. [Picsum](https://github.com/meggsila/Picsum)
