@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1475-green.svg) ![](https://img.shields.io/badge/Updated-March%2018,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1475-green.svg) ![](https://img.shields.io/badge/Updated-March%2019,%202023-lightgrey.svg)
 
 Jump to
 
@@ -217,8 +217,8 @@ Jump to
   -  <a href='https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png'>`Screenshot 1`</a> 
   -  `2019`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` 
   -  ☆`73` 
-- [Gym Routine Tracker](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
-  - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://github.com/gym-routine-tracker/gym-routine-tracker.github.io/blob/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
+- [Gym Routine Tracker](https://github.com/open-trackers/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
+  - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://raw.githubusercontent.com/gym-routine-tracker/gym-routine-tracker.github.io/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
   -  `2023`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `swiftui` 
   -  ☆`6` 
 - [HeartControl](https://github.com/thomaspaulmann/HeartControl): Continuous heart rate measurement during workouts
@@ -2073,8 +2073,8 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [Gym Routine Tracker](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
-  - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://github.com/gym-routine-tracker/gym-routine-tracker.github.io/blob/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
+- [Gym Routine Tracker](https://github.com/open-trackers/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
+  - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://raw.githubusercontent.com/gym-routine-tracker/gym-routine-tracker.github.io/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
   -  `2023`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `swiftui` 
   -  ☆`6` 
 - [Minimalistic Push](https://github.com/jonaspoxleitner/minimalistic_push): Track your push-ups and see an overview of your sessions
