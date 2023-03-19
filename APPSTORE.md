@@ -125,8 +125,8 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://user-images.githubusercontent.com/4723115/211681182-b43b1c2d-b754-4408-ae44-c94fbd83370c.png'>`Screenshot 1`</a> 
   -  `2022`  [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/) `swift` `swiftui` `iphone` `ipad` 
   -  ☆`426` 
-- [Gym Routine Tracker](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
-  - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://github.com/gym-routine-tracker/gym-routine-tracker.github.io/blob/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
+- [Gym Routine Tracker](https://github.com/open-trackers/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
+  - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://raw.githubusercontent.com/gym-routine-tracker/gym-routine-tracker.github.io/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
   -  `2023`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `swiftui` 
   -  ☆`6` 
 - [HN Reader](https://github.com/Dimillian/SwiftHN): Hacker News Reader
@@ -1011,8 +1011,8 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [Gym Routine Tracker](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
-  - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://github.com/gym-routine-tracker/gym-routine-tracker.github.io/blob/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
+- [Gym Routine Tracker](https://github.com/open-trackers/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
+  - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://raw.githubusercontent.com/gym-routine-tracker/gym-routine-tracker.github.io/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
   -  `2023`  [`mpl-2.0`](http://choosealicense.com/licenses/mpl-2.0/) `swift` `swiftui` 
   -  ☆`6` 
 - [OutRun](https://github.com/timfraedrich/OutRun): Outdoor fitness tracker that supports walking, hiking, cycling & skating
