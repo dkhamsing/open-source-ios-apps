@@ -29801,7 +29801,7 @@
         "fitness"
       ],
       "description": "Minimalist workout tracker",
-      "source": "https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App",
+      "source": "https://github.com/open-trackers/Gym-Routine-Tracker-Watch-App",
       "tags": [
         "swift",
         "swiftui"
@@ -29809,7 +29809,7 @@
       "license": "mpl-2.0",
       "itunes": "https://apps.apple.com/app/gym-routine-tracker/id6444747204",
       "screenshots": [
-        "https://github.com/gym-routine-tracker/gym-routine-tracker.github.io/blob/gh-pages/assets/images/exercise-run-display.png"
+        "https://raw.githubusercontent.com/gym-routine-tracker/gym-routine-tracker.github.io/gh-pages/assets/images/exercise-run-display.png"
       ],
       "date_added": "Dec 7 2022",
       "suggested_by": "@reedes",
