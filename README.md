@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1475-green.svg) ![](https://img.shields.io/badge/Updated-March%2019,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1475-green.svg) ![](https://img.shields.io/badge/Updated-March%2020,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1677,10 +1677,10 @@ File Management — [back to top](#readme)
   -  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple82/v4/b3/d9/e0/b3d9e090-f360-766a-7750-1f8d0a96efae/mzl.piurazqx.png/626x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/11/aa/33/11aa3355-a041-b0de-b61f-aef5cbe37eb7/mzl.rpmbaxie.png/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/e2/fa/b1/e2fab17a-edff-168d-3af1-02fe2ed55b02/mzl.docwqcoz.png/626x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/fb/f8/f8/fbf8f894-bbaa-4d5c-23ed-0281dbca5092/mzl.bdvdlyfg.png/626x0w.jpg'>`Screenshot 4`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/7f/0b/5b/7f0b5bdc-0339-bffd-3f4e-7cb8ea2b8823/mzl.pdsxyfac.png/626x0w.jpg'>`Screenshot 5`</a> 
   -  `2017`   `javascript` `netbeans` 
   -  ☆`83` 
-- [Hedgewars](https://hg.hedgewars.org/hedgewars/): A turn-based strategy game
+- [Hedgewars](https://hg.hedgewars.org/hedgewars/): Turn-based strategy game
   - <a href=https://www.hedgewars.org/>`https://www.hedgewars.org/`</a>
   - [` App Store`](https://apps.apple.com/app/id391234866) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/1b/b3/47/1bb34751-0f14-8964-0026-d00205a91eaa/pr_source.png/626x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/68/6d/bf/686dbf81-1b2e-d74f-5b38-7a5d859de168/pr_source.png/626x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/4f/94/81/4f94810b-9c6f-32b6-2e44-8cede258f90a/pr_source.png/626x0w.png'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bd/a1/1d/bda11d26-7ab3-eb35-082e-f8a32bcfcecf/pr_source.png/626x0w.png'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/9f/bb/af/9fbbaf4a-110b-3316-f789-09b2be9f9282/pr_source.png/626x0w.png'>`Screenshot 5`</a> 
-  -  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` 
+  -  `2018`  [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/) `objc` 
 - [Hostile Takeover](https://github.com/spiffcode/hostile-takeover): A release of the real-time strategy game Warfare Incorporated
   -  <a href='https://i.imgur.com/PQ1QX2u.jpg'>`Screenshot 1`</a> 
   -  `2017`  [`bsd-2-clause`](http://choosealicense.com/licenses/bsd-2-clause/) `objc` 
