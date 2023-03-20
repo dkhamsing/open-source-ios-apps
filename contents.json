@@ -10558,13 +10558,14 @@
       "tags": [
         "objc"
       ],
-      "description": "A turn-based strategy game",
+      "description": "Turn-based strategy game",
       "source": "https://hg.hedgewars.org/hedgewars/",
       "homepage": "https://www.hedgewars.org/",
       "itunes": "https://apps.apple.com/app/id391234866",
       "license": "gpl-2.0",
       "date_added": "Thu Jun 2 00:07:12 2016 -0600",
       "suggested_by": "@scribblemaniac",
+      "updated": "2018-04-02 15:00:01 UTC",
       "screenshots": [
         "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/1b/b3/47/1bb34751-0f14-8964-0026-d00205a91eaa/pr_source.png/626x0w.png",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/68/6d/bf/686dbf81-1b2e-d74f-5b38-7a5d859de168/pr_source.png/626x0w.png",
