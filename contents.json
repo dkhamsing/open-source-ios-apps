@@ -30412,6 +30412,25 @@
        ],
        "date_added": "Mar 16 2023",
        "suggested_by": "@ritwiktakkar"      
+    },
+    {
+      "title": "LeitnerBox",
+      "description": "With LeitnerBox you could memorize words faster than before. You will never back to ordinary memorization of vocabulary.",
+      "category-ids": [
+        "education"
+      ],
+      "tags": [
+        "SwiftUI",
+        "Swift"
+      ],
+       "source": "https://github.com/hamed8080/LeitnerBox",
+       "screenshots": [
+         "https://hamed8080.github.io/LeitnerBox/leitnerbox/images/review.png"
+       ],
+       "homepage": "https://hamed8080.github.io/LeitnerBox/leitnerbox/documentation/leitnerbox/",
+       "stars": 200,
+       "date_added": "Mar 22 2023",
+       "suggested_by": "@hamed8080"      
     }
   ]
 }
