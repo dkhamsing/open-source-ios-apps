@@ -8,7 +8,7 @@ A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, 
 > **Note**
 > If the list is clipped, go [here](README.md) for the entire list.
 
-![](https://img.shields.io/badge/Projects-1475-green.svg) ![](https://img.shields.io/badge/Updated-March%2021,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1476-green.svg) ![](https://img.shields.io/badge/Updated-March%2022,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1066,6 +1066,10 @@ Jump to
   -  <a href='https://i.imgur.com/yNc3GOl.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/aF4JedS.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/pw0M2yi.png'>`Screenshot 3`</a>  <a href='https://i.imgur.com/zv3RKrZ.png'>`Screenshot 4`</a> 
   -  `2022`  [`mit`](http://choosealicense.com/licenses/mit/) `swift` 
   -  ☆`453` 
+- [LeitnerBox](https://github.com/hamed8080/LeitnerBox): Help language learners memorize words faster
+  - <a href=https://hamed8080.github.io/LeitnerBox/leitnerbox/documentation/leitnerbox/>`https://hamed8080.github.io/LeitnerBox/leitnerbox/documentation/leitnerbox/`</a>
+  -  <a href='https://hamed8080.github.io/LeitnerBox/leitnerbox/images/review.png'>`Screenshot 1`</a> 
+  -   `swift` `swiftui` 
 - [Pocket Code](https://github.com/catrobat/catty): Create games, animations, interactive music videos, and many kind of other apps, directly on device
   - <a href=https://catrobat.org/>`https://catrobat.org/`</a>
   - [` App Store`](https://apps.apple.com/app/pocket-code/id1117935892)
