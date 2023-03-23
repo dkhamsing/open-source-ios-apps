@@ -133,10 +133,10 @@ def output_apps(apps, appstoreonly)
       line.push " `#{formatted_date}` "
     end
 
-    unless license.nil?
-      license_display = license == 'other' ? "" : "[`#{license}`](http://choosealicense.com/licenses/#{license}/)"
-      line.push << " #{license_display} "
-    end
+    # unless license.nil?
+    #   license_display = license == 'other' ? "" : "[`#{license}`](http://choosealicense.com/licenses/#{license}/)"
+    #   line.push << " #{license_display} "
+    # end
 
     unless tags.nil?
       line.push '`swift` ' if tags.include? 'swift'
