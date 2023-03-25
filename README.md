@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1476-green.svg) ![](https://img.shields.io/badge/Updated-March%2024,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1476-green.svg) ![](https://img.shields.io/badge/Updated-March%2025,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4248,7 +4248,7 @@ https://flutter.dev — [back to top](#readme)
 - [Invoice Ninja](https://github.com/invoiceninja/admin-portal): https://www.invoiceninja.com/
   -  `2023` `flutter` `dart` 
   -  ☆`1314` 
-- [Math Metrix](https://github.com/rwema3/Math-Metrix-App): Math game that tries improvise your math skills in a fun way
+- [Math Metrix](https://github.com/rwema3/Math-Metrix-App): Math game to improve your math skills in a fun way
   -  <a href='https://user-images.githubusercontent.com/52289151/155140417-d18d0716-c84f-43c8-8e9e-cdbdd17a950a.JPG'>`Screenshot 1`</a> 
   - `flutter` `dart` 
   -  ☆`38` 
