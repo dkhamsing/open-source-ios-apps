@@ -30171,7 +30171,7 @@
     },
     {
       "title": "TailorMade",
-      "description": "Managing a Fashion designer's daily routine",
+      "description": "Manage a fashion designer's daily routine",
       "category-ids": [
         "flutter"
       ],
@@ -30290,7 +30290,7 @@
     },
     {
       "title": "WhatTodo",
-      "description": "Keep track of your tasks on a daily basis",
+      "description": "Keep track of your tasks daily",
       "category-ids": [
         "flutter"
       ],
@@ -30368,7 +30368,7 @@
         "flutter",
         "dart"
       ],
-      "description": "An elegant URL shortener",
+      "description": "Elegant URL shortener",
       "source": "https://github.com/ritwiktakkar/shorten_my_URL",
       "itunes": "https://apps.apple.com/app/shortenmyurl/id1525888533",
       "screenshots": [
