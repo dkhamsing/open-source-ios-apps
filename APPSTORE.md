@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **338** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -979,6 +979,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/it/app/immuni/id1513940977) <a href='https://i.imgur.com/XY1igkP.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `alamofire` `katana` `tempura` `bonmot` 
   -  ☆`552` 
+- [Japan - COCOA](https://github.com/cocoa-mhlw/cocoa): COVID-19 Contact-Confirming Application
+  - [` App Store`](https://apps.apple.com/app/id1503224314)
+  - `csharp` 
 - [Poland - ProteGO Safe](https://github.com/ProteGO-Safe/ios): User daily triage and contact tracing using Exposure Notification API
   - [` App Store`](https://apps.apple.com/app/protego-safe/id1508481566) <a href='https://i.imgur.com/Qy5fzXo.png'>`Screenshot 1`</a> 
   -  `2021` `swift` 
@@ -1942,7 +1945,7 @@ https://flutter.dev — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/platypus-crypto/id1397122793) <a href='https://user-images.githubusercontent.com/4723115/129973780-284f8ef0-7ad7-4a29-aaf4-082b76c24b44.png'>`Screenshot 1`</a> 
   -  `2021` `flutter` `dart` 
   -  ☆`180` 
-- [ShortenMyURL](https://github.com/ritwiktakkar/shorten_my_URL): An elegant URL shortener
+- [ShortenMyURL](https://github.com/ritwiktakkar/shorten_my_URL): Elegant URL shortener
   - [` App Store`](https://apps.apple.com/app/shortenmyurl/id1525888533) <a href='https://github.com/ritwiktakkar/shorten_my_URL/raw/master/screenshots/iphone_portrait.webp'>`Screenshot 1`</a>  <a href='https://github.com/ritwiktakkar/shorten_my_URL/raw/master/screenshots/iphone_landscape.webp'>`Screenshot 2`</a>  <a href='https://github.com/ritwiktakkar/shorten_my_URL/raw/master/screenshots/ipad_landscape.webp'>`Screenshot 3`</a> 
   - `flutter` `dart` 
 - [Twake](https://github.com/linagora/Twake-Mobile): Team channels, direct chat, task management, drive and calendar; all in one place
