@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1476-green.svg) ![](https://img.shields.io/badge/Updated-March%2025,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1477-green.svg) ![](https://img.shields.io/badge/Updated-March%2028,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2024,6 +2024,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/it/app/immuni/id1513940977) <a href='https://i.imgur.com/XY1igkP.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `alamofire` `katana` `tempura` `bonmot` 
   -  ☆`552` 
+- [Japan - COCOA](https://github.com/cocoa-mhlw/cocoa): COVID-19 Contact-Confirming Application
+  - [` App Store`](https://apps.apple.com/app/id1503224314)
+  - `csharp` 
 - [Netherlands - Covid19 Notification](https://github.com/minvws/nl-covid19-notification-app-ios)
   -  `2022` `swift` 
   -  ☆`121` 
@@ -4275,7 +4278,7 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://github.com/MotionMobs/Sandwhich/raw/master/media/animated.gif'>`Screenshot 1`</a> 
   -  `2019` `flutter` `dart` `python` 
   -  ☆`150` 
-- [ShortenMyURL](https://github.com/ritwiktakkar/shorten_my_URL): An elegant URL shortener
+- [ShortenMyURL](https://github.com/ritwiktakkar/shorten_my_URL): Elegant URL shortener
   - [` App Store`](https://apps.apple.com/app/shortenmyurl/id1525888533) <a href='https://github.com/ritwiktakkar/shorten_my_URL/raw/master/screenshots/iphone_portrait.webp'>`Screenshot 1`</a>  <a href='https://github.com/ritwiktakkar/shorten_my_URL/raw/master/screenshots/iphone_landscape.webp'>`Screenshot 2`</a>  <a href='https://github.com/ritwiktakkar/shorten_my_URL/raw/master/screenshots/ipad_landscape.webp'>`Screenshot 3`</a> 
   - `flutter` `dart` 
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle)
@@ -4285,7 +4288,7 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/jesusrp98/spacex-go/master/screenshots/0.jpg'>`Screenshot 1`</a> 
   -  `2022` `flutter` `dart` 
   -  ☆`793` 
-- [TailorMade](https://github.com/jogboms/tailor_made): Managing a Fashion designer's daily routine
+- [TailorMade](https://github.com/jogboms/tailor_made): Manage a fashion designer's daily routine
   -  `2023` `flutter` `dart` 
   -  ☆`291` 
 - [Toughest](https://github.com/MDSADABWASIM/Toughest)
@@ -4319,7 +4322,7 @@ https://flutter.dev — [back to top](#readme)
 - [WeightTracker](https://github.com/MSzalek-Mobile/weight_tracker)
   -  `2020` `flutter` `dart` 
   -  ☆`348` 
-- [WhatTodo](https://github.com/burhanrashid52/WhatTodo): Keep track of your tasks on a daily basis
+- [WhatTodo](https://github.com/burhanrashid52/WhatTodo): Keep track of your tasks daily
   -  `2023` `flutter` `dart` 
   -  ☆`1036` 
 - [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner)
