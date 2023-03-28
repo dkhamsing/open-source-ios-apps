@@ -30431,6 +30431,21 @@
        "homepage": "https://hamed8080.github.io/LeitnerBox/leitnerbox/documentation/leitnerbox/",
        "date_added": "Mar 22 2023",
        "suggested_by": "@hamed8080"      
-    }
+    },
+    {
+      "title": "Japan - COCOA",
+      "description": "COVID-19 Contact-Confirming Application",
+      "category-ids": [
+        "contact-tracing"
+      ],
+      "tags": [
+        "csharp"
+      ], 
+      "source": "https://github.com/cocoa-mhlw/cocoa",
+      "itunes": "https://apps.apple.com/app/id1503224314",
+      "license": "mpl-2.0",
+      "date_added": "Mar 28 2023",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
