@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1477-green.svg) ![](https://img.shields.io/badge/Updated-March%2028,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1478-green.svg) ![](https://img.shields.io/badge/Updated-April%20%201,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3835,6 +3835,8 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/us/app/avo-keepr/id1515186481) <a href='https://github.com/davejacobsen/AvoKeepr/raw/master/Screenshots/1.png'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`5` 
+- [Basic Chat GPT 3.5/4](https://github.com/ynagatomo/BasicChatGPT): Converse with OpenAI Chat GPT
+  - `swift` `gpt` 
 - [Bean Juice](https://github.com/NiftyTreeStudios/Bean-Juice): Coffee brewing recipes
   - <a href=https://www.niftytreestudios.com/work/bean-juice>`https://www.niftytreestudios.com/work/bean-juice`</a>
   - [` App Store`](https://apps.apple.com/app/bean-juice/id1502380351) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/62/56/5a/62565a20-df0d-7619-ea80-4eaf183b32b4/pr_source.png/230x0w.png'>`Screenshot 1`</a> 
