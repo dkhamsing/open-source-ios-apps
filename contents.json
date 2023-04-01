@@ -30446,6 +30446,21 @@
       "license": "mpl-2.0",
       "date_added": "Mar 28 2023",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Basic Chat GPT 3.5/4",
+      "description": "Converse with OpenAI Chat GPT",
+      "category-ids": [
+        "misc"
+      ],
+      "source": "https://github.com/ynagatomo/BasicChatGPT",
+      "tags": [
+        "swift",
+        "gpt"
+      ],
+      "license": "other",
+      "date_added": "Apr 1 2023",
+      "suggested_by": "@dkhamsing" 
     }    
   ]
 }
