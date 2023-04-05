@@ -32,7 +32,6 @@
 28. [Airdash](https://github.com/simonbengtsson/airdash)
 29. [Image Generator with Stable Diffusion v2](https://github.com/ynagatomo/ImgGenSD2)
 30. [Gym Routine Tracker](https://github.com/gym-routine-tracker/Gym-Routine-Tracker-Watch-App)
-31. [Math Metrix App](https://github.com/rwema3/Math-Metrix-App)
 
 ## Most recently updated
 
