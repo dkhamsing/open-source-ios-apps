@@ -30208,6 +30208,22 @@
       "stars": 230
     },
     {
+      "title": "Space Empires",
+      "description": "Space Empires A 4X Space themed Strategy Game made with Flutter",
+      "category-ids": [        
+        "flutter"
+      ], 
+      "source": "https://github.com/rwema3/Space_Empires",
+      "tags": [ 
+        "flutter",
+        "dart"
+      ],
+      "license": "MIT license",
+      "date_added": "Apr 05 2023",
+      "suggested_by": "@rwema3",
+      "stars": 33
+    },
+    {
       "title": "Ireland - COVID Tracker",
       "category-ids": [
         "contact-tracing",
