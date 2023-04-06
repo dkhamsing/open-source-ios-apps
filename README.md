@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1478-green.svg) ![](https://img.shields.io/badge/Updated-April%20%203,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1479-green.svg) ![](https://img.shields.io/badge/Updated-April%20%206,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4293,6 +4293,9 @@ https://flutter.dev — [back to top](#readme)
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle)
   -  `2022` `flutter` `dart` 
   -  ☆`175` 
+- [Space Empires](https://github.com/rwema3/Space_Empires): A Flutter 4X Space themed strategy game
+  - `flutter` `dart` 
+  -  ☆`33` 
 - [SpaceX GO!](https://github.com/jesusrp98/spacex-go): SpaceX launch tracker
   -  <a href='https://raw.githubusercontent.com/jesusrp98/spacex-go/master/screenshots/0.jpg'>`Screenshot 1`</a> 
   -  `2022` `flutter` `dart` 
