@@ -30209,7 +30209,7 @@
     },
     {
       "title": "Space Empires",
-      "description": "Space Empires A 4X Space themed Strategy Game made with Flutter",
+      "description": "A Flutter 4X Space themed strategy game",
       "category-ids": [        
         "flutter"
       ], 
