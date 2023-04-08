@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1479-green.svg) ![](https://img.shields.io/badge/Updated-April%20%206,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1480-green.svg) ![](https://img.shields.io/badge/Updated-April%20%208,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4065,6 +4065,8 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/tell-time-uk/id1497040547) <a href='https://user-images.githubusercontent.com/4723115/153076282-adbb708a-8213-4d86-9a91-5ad356535642.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `ipad` 
   -  ☆`70` 
+- [Web98](https://github.com/nate-parrott/web98): Fantasy internet simulator
+  - `swift` `chatgpt` 
 - [yacd](https://github.com/DerekSelander/yacd): Yet Another Code Decrypter, decrypts FairPlay (App Store) applications on iOS 13.4.1 and lower, no jailbreak required
   -  <a href='https://github.com/DerekSelander/yacd/raw/master/media/img.png'>`Screenshot 1`</a> 
   -  `2021` `objc` `c` 
