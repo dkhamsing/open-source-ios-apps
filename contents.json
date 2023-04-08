@@ -30493,6 +30493,21 @@
       "suggested_by": "@dkhamsing",
       "stars": 9,
       "updated": "2023-04-01 15:06:15 UTC"
-    }
+    },
+    {
+      "title": "Web98",
+      "description": "Fantasy internet simulator",
+      "category-ids": [
+        "misc"
+      ],
+      "source": "https://github.com/nate-parrott/web98",
+      "tags": [
+        "swift",
+        "chatgpt"
+      ],
+      "license": "other",
+      "date_added": "Apr 8 2023",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
