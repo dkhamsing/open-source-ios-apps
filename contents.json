@@ -30508,6 +30508,29 @@
       "license": "other",
       "date_added": "Apr 8 2023",
       "suggested_by": "@dkhamsing"
-    }    
+    },
+    {
+      "title": "Habo",
+      "description": "Minimalistic habit tracker",
+      "category-ids": [
+        "tasks",
+        "flutter"
+      ],
+      "homepage": "https://habo.space",
+      "source": "https://github.com/xpavle00/Habo",
+      "itunes": "https://apps.apple.com/us/app/habo-habit-tracker/id1670223360",
+      "screenshots": [
+        "https://habo.space/img/mockup/1.png",
+        "https://habo.space/img/mockup/2.png"
+      ],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "stars": 149,
+      "license": "gpl-3.0",
+      "date_added": "Apr 24 2023",
+      "suggested_by": "@xpavle00"
+    }
   ]
 }
