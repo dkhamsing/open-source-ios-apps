@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1689,6 +1689,11 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id994882113) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/bf/34/34/bf343412-6b20-bb34-9e7f-36311bc5ec45/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/51/40/88/514088ab-8a5c-b2fd-275d-d4edb1ab584a/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c1/97/fb/c197fba5-e41d-6d6d-fac3-a196ce9e126e/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/39/40/dc/3940dcb3-3d49-a328-2926-c03f40f12594/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2023` `objc` 
   -  ☆`470` 
+- [Habo](https://github.com/xpavle00/Habo): Minimalistic habit tracker
+  - <a href=https://habo.space>`https://habo.space`</a>
+  - [` App Store`](https://apps.apple.com/us/app/habo-habit-tracker/id1670223360) <a href='https://habo.space/img/mockup/1.png'>`Screenshot 1`</a>  <a href='https://habo.space/img/mockup/2.png'>`Screenshot 2`</a> 
+  - `flutter` `dart` 
+  -  ☆`149` 
 - [RSToDoList](https://github.com/rursache/ToDoList)
   - [` App Store`](https://apps.apple.com/app/todolist-task-manager/id1454122524) <a href='https://i.imgur.com/PbupJ7n.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `apple-watch` `ipad` 
@@ -1936,6 +1941,11 @@ https://flutter.dev — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/se/app/airdash-file-sharing/id1596599922) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/d1/65/bdd16515-3594-0d63-7486-3e3a5635aaf8/bb596084-a356-4916-bdd0-aede1ef119ea_Simulator_Screen_Shot_-_iPhone_13_-_2022-06-20_at_18.48.30.png/460x0w.webp'>`Screenshot 1`</a> 
   -  `2023` `flutter` `webrtc` 
   -  ☆`289` 
+- [Habo](https://github.com/xpavle00/Habo): Minimalistic habit tracker
+  - <a href=https://habo.space>`https://habo.space`</a>
+  - [` App Store`](https://apps.apple.com/us/app/habo-habit-tracker/id1670223360) <a href='https://habo.space/img/mockup/1.png'>`Screenshot 1`</a>  <a href='https://habo.space/img/mockup/2.png'>`Screenshot 2`</a> 
+  - `flutter` `dart` 
+  -  ☆`149` 
 - [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
   - [` App Store`](https://apps.apple.com/app/hacki/id1602043763) <a href='https://user-images.githubusercontent.com/7277662/148859621-965080f3-a191-44cd-a2fc-9ac1f489ef84.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859627-48290a22-9679-442b-bae4-97f21546b3ae.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859630-93f7e372-f2e7-4357-86c0-250a3f69c10f.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/7277662/148859632-b52a89ca-b8d7-464c-a508-faa86bcc87f8.png'>`Screenshot 4`</a> 
   -  `2023` `flutter` 
