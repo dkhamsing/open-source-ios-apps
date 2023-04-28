@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1481-green.svg) ![](https://img.shields.io/badge/Updated-April%2026,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1481-green.svg) ![](https://img.shields.io/badge/Updated-April%2028,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1474,8 +1474,8 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `snapkit` 
   -  ☆`31` 
-- [MoneyPlusPro](https://github.com/IcedOtaku/MoneyPlusPro): Help you record income and expense
-  -  <a href='https://github.com/IcedOtaku/MoneyPlusPro/blob/master/images/main.png'>`Screenshot 1`</a> 
+- [MoneyPlusPro](https://github.com/tt1k/MoneyPlusPro): Help you record income and expense
+  -  <a href='https://github.com/tt1k/MoneyPlusPro/blob/master/images/main.png'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`23` 
 - [Motivator](https://github.com/DaniSpringer/timeismoney): Countdown for how much more you can make today
@@ -4114,8 +4114,8 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `snapkit` 
   -  ☆`31` 
-- [MoneyPlusPro](https://github.com/IcedOtaku/MoneyPlusPro): Help you record income and expense
-  -  <a href='https://github.com/IcedOtaku/MoneyPlusPro/blob/master/images/main.png'>`Screenshot 1`</a> 
+- [MoneyPlusPro](https://github.com/tt1k/MoneyPlusPro): Help you record income and expense
+  -  <a href='https://github.com/tt1k/MoneyPlusPro/blob/master/images/main.png'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`23` 
 - [Tagger](https://github.com/ivan-magda/Tagger): Help tag your photos on Instagram or Flickr
