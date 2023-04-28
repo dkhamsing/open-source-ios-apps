@@ -1374,8 +1374,8 @@ Widget (iOS 14) — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1536864924) <a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'>`Screenshot 4`</a> 
   -  `2021` 
   -  ☆`76` 
-- [Spontaneous - Random quotes](https://github.com/bulbousigloo/DiscoverRandomQuotes)
-  - [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374) <a href='https://github.com/bulbousigloo/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
+- [Spontaneous - Random quotes](https://github.com/OdvojeniFerid/DiscoverRandomQuotes)
+  - [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374) <a href='https://github.com/OdvojeniFerid/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `widgetkit` `ios14` 
   -  ☆`46` 
 - [Static Widget in iOS 14](https://github.com/StewartLynch/iOS-14-Widget)
@@ -2583,8 +2583,8 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/32227073/65997616-0ef63f80-e470-11e9-8faa-d2d6728202a5.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `combine` 
   -  ☆`21` 
-- [Spontaneous - Random quotes](https://github.com/bulbousigloo/DiscoverRandomQuotes)
-  - [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374) <a href='https://github.com/bulbousigloo/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
+- [Spontaneous - Random quotes](https://github.com/OdvojeniFerid/DiscoverRandomQuotes)
+  - [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374) <a href='https://github.com/OdvojeniFerid/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `widgetkit` `ios14` 
   -  ☆`46` 
 - [Star Wars](https://github.com/joreilly/StarWars): Uses swapi
@@ -5091,7 +5091,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [Notes](https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451): Notes app written in < 100 lines
   - `swift` `swiftui` 
 - [OldOS](https://github.com/zzanehip/The-OldOS-Project): iOS 4 beautifully rebuilt in SwiftUI
-  -  <a href='https://dl.airtable.com/.attachmentThumbnails/87909068b484180426674d0c537c778f/c8597d6a'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` 
   -  ☆`2939` 
 - [OnlineStoreTCA](https://github.com/pitt500/OnlineStoreTCA): Online Store made with The Composable Architecture (TCA)
