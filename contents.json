@@ -25461,7 +25461,7 @@
         "content",
         "widget"
       ],
-      "source": "https://github.com/bulbousigloo/DiscoverRandomQuotes",
+      "source": "https://github.com/OdvojeniFerid/DiscoverRandomQuotes",
       "itunes": "https://apps.apple.com/app/spontaneous-random-quotes/id1538265374",
       "license": "mit",
       "tags": [
@@ -25471,7 +25471,7 @@
         "ios14"
       ],
       "screenshots": [
-        "https://github.com/bulbousigloo/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png"
+        "https://github.com/OdvojeniFerid/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png"
       ],
       "date_added": "Dec 8 2020",
       "suggested_by": "@FranicevicNikola",
@@ -26365,10 +26365,7 @@
       "tags": [
         "swift",
         "swiftui"
-      ],
-      "screenshots": [
-        "https://dl.airtable.com/.attachmentThumbnails/87909068b484180426674d0c537c778f/c8597d6a"
-      ],
+      ],      
       "date_added": "June 10 2021",
       "suggested_by": "@dkhamsing",
       "updated": "2022-04-24 00:26:23 UTC"
