@@ -518,9 +518,7 @@
       "description": "A feature-packed Reddit client for the Apple Watch",
       "source": "https://github.com/opensourceios/RedditWatch",
       "screenshots": [
-        "https://i.imgur.com/1uQFYwh.png",
-        "https://i.imgur.com/beQhpmF.png",
-        "https://i.imgur.com/HqUk3sg.png"
+        "https://user-images.githubusercontent.com/4723115/235315003-fd607d20-ee40-46ab-b793-17ea613db83f.png"
       ],
       "tags": [
         "swift",
