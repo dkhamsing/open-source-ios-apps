@@ -11713,7 +11713,7 @@
       "category-ids": [
         "location"
       ],
-      "description": "Find your Seat",
+      "description": "app that finds you a seat.",
       "source": "https://github.com/rwema3/FindSeat-App",
       "tags": [
         "swift"
