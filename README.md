@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1482-green.svg) ![](https://img.shields.io/badge/Updated-May%20%201,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1482-green.svg) ![](https://img.shields.io/badge/Updated-May%20%202,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3151,10 +3151,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/170948/190398276-91af47a8-239c-4190-8fef-3954bf4ac8fa.gif'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` 
   -  ☆`369` 
-- [EasyCrypto](https://github.com/mehrankmlf/EasyCrypto): A simple crypto market app, build with SwiftUI and Combine, its build to demonstrate iOS clean app
-  -  <a href='https://user-images.githubusercontent.com/24524023/232792000-f2265938-f65a-44ac-b4a1-f7777967a7ab.png?raw=true'>`Screenshot 1`</a> 
-  - `swift` `swiftui` `combine` `coredata` `networklayer` `mvvm` `clean architecture` 
-  -  ☆`6` 
 - [Exploring SwiftUI Sample Apps by Apple](https://developer.apple.com/tutorials/sample-apps)
   - `swift` 
 - [Face Landmarks Detection](https://github.com/mattlawer/FaceLandmarksDetection): Find facial features such as face contour, eyes, mouth and nose in an image
@@ -4930,9 +4926,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/StephenMcMillan/Dub-Dub-Do/raw/master/todoapp.gif'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`68` 
-- [EasyCrypto](https://github.com/mehrankmlf/EasyCrypto): A simple crypto market app, build with SwiftUI and Combine, its build to demonstrate iOS clean app
+- [EasyCrypto](https://github.com/mehrankmlf/EasyCrypto): Simple crypto market
   -  <a href='https://user-images.githubusercontent.com/24524023/232792000-f2265938-f65a-44ac-b4a1-f7777967a7ab.png?raw=true'>`Screenshot 1`</a> 
-  - `swift` `swiftui` `combine` `coredata` `networklayer` `mvvm` `clean architecture` 
+  - `swift` `swiftui` `combine` `core-data` `mvvm` `clean-architecture` 
   -  ☆`6` 
 - [Elseweather](https://github.com/jareksedy/Elseweather): Displays current weather at a random location
   -  <a href='https://github.com/jareksedy/Elseweather/raw/main/Screenshots/ew-scr.png'>`Screenshot 1`</a> 
