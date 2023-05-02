@@ -30527,10 +30527,9 @@
     {
       "title": "EasyCrypto",
       "category-ids": [
-        "sample",
         "swiftui"
       ],
-      "description": "A simple crypto market app, build with SwiftUI and Combine, its build to demonstrate iOS clean app",
+      "description": "Simple crypto market",
       "source": "https://github.com/mehrankmlf/EasyCrypto",
       "license": "mit",
       "stars": 6,
@@ -30538,10 +30537,9 @@
         "swift",
         "swiftui",
         "combine",
-        "coredata",
-        "networklayer",
+        "core-data",
         "mvvm",
-        "clean architecture"
+        "clean-architecture"
       ],
       "screenshots": [
         "https://user-images.githubusercontent.com/24524023/232792000-f2265938-f65a-44ac-b4a1-f7777967a7ab.png?raw=true"
