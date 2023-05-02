@@ -11709,6 +11709,25 @@
       "updated": "2017-11-11 01:33:23 UTC"
     },
     {
+      "title": "Find Seat App",
+      "category-ids": [
+        "location"
+      ],
+      "description": "Find your Seat",
+      "source": "https://github.com/rwema3/FindSeat-App",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/findmybusnj/findmybusnj-swift/raw/master/README_banner.png"
+      ],
+      "license": "gpl-3.0",
+      "date_added": "Wed, 13 Jul 2016 13:36:49 -0700",
+      "suggested_by": "@Aghassi",
+      "stars": 44,
+      "updated": "2017-11-11 01:33:23 UTC"
+    },
+    {
       "title": "NBAreact",
       "category-ids": [
         "react-native"
@@ -30315,6 +30334,23 @@
       "date_added": "Feb 28 2023",
       "stars": 13000,
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "FiND",
+      "description": "GitHub client",
+      "category-ids": [        
+        "flutter"
+      ], 
+      "source": "https://github.com/CarGuo/gsy_github_app_flutter",
+      "tags": [ 
+        "flutter",
+        "dart"
+      ],
+      "license": "apache-2.0",
+      "date_added": "Feb 28 2023",
+      "stars": 13000,
+      "suggested_by": "@dkhamsing"
     }
+
   ]
 }
