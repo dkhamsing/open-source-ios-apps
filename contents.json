@@ -11719,13 +11719,13 @@
         "swift"
       ],
       "screenshots": [
-        "https://github.com/findmybusnj/findmybusnj-swift/raw/master/README_banner.png"
+        "https://github.com/rwema3/FindSeat-App/blob/main/images/Findseat.png"
       ],
-      "license": "gpl-3.0",
-      "date_added": "Wed, 13 Jul 2016 13:36:49 -0700",
-      "suggested_by": "@Aghassi",
-      "stars": 44,
-      "updated": "2017-11-11 01:33:23 UTC"
+      "license": "bsd-3-clause",
+      "date_added": "Wed, 3 Jul 2023 12:30:49 -0700",
+      "suggested_by": "@rwema3",
+      "stars": 48,
+      "updated": "2023-05-03 12:33:23 UTC"
     },
     {
       "title": "NBAreact",
@@ -30334,23 +30334,6 @@
       "date_added": "Feb 28 2023",
       "stars": 13000,
       "suggested_by": "@dkhamsing"
-    },
-    {
-      "title": "FiND",
-      "description": "GitHub client",
-      "category-ids": [        
-        "flutter"
-      ], 
-      "source": "https://github.com/CarGuo/gsy_github_app_flutter",
-      "tags": [ 
-        "flutter",
-        "dart"
-      ],
-      "license": "apache-2.0",
-      "date_added": "Feb 28 2023",
-      "stars": 13000,
-      "suggested_by": "@dkhamsing"
     }
-
   ]
 }
