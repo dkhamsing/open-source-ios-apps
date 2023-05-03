@@ -307,7 +307,7 @@ Jump to
   -  `2017` `swift` 
   -  ☆`1146` 
 - [WatchPics](https://github.com/D-32/WatchPics): For Instagram
-  -  <a href='https://i.imgur.com/pEIRuzr.jpg'>`Screenshot 1`</a> 
+  -  <a href='https://user-images.githubusercontent.com/4723115/235376637-429750ad-f3cf-4600-8684-8028e78572af.jpg'>`Screenshot 1`</a> 
   -  `2021` `objc` 
   -  ☆`93` 
 - [Waterminder](https://github.com/caiobzen/water-reminder-swiftui): Watch app to remind you to drink water
@@ -2170,10 +2170,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   -  <a href='https://github.com/findmybusnj/findmybusnj-swift/raw/master/README_banner.png'>`Screenshot 1`</a> 
   -  `2017` `swift` 
   -  ☆`44` 
-- [Find Seat App](https://github.com/rwema3/FindSeat-App): app that finds you a seat.
-  -  <a href='https://github.com/rwema3/FindSeat-App/blob/main/images/Findseat.png'>`Screenshot 1`</a> 
-  -  `2023` `swift` 
-  -  ☆`48` 
 - [GeoLicious](https://github.com/da3x/GeoLicious): Location tracking made easy
   - [` App Store`](https://apps.apple.com/app/geolicious/id637366170) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/08/18/250818d7-a6b1-0af4-0efb-cb977f7c5c93/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/ce/5f/bcce5fcd-b809-72d6-63f8-aff380326149/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/60/da/8c/60da8cfc-c0c4-56d2-aedb-e97cfe1be461/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/13/f0/80/13f08044-d8bc-03cd-341e-aed485137a8f/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2021` `objc` 
@@ -4207,6 +4203,10 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/honjow/FEhViewer/master/screenshot/home1.jpg'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` `adult` 
   -  ☆`1572` 
+- [Find Seat](https://github.com/rwema3/FindSeat-App): Find a seat at the movies
+  -  <a href='https://github.com/rwema3/FindSeat-App/blob/main/images/Findseat.png?raw=true'>`Screenshot 1`</a> 
+  -  `2023` `flutter` 
+  -  ☆`48` 
 - [flews](https://github.com/jbarr21/flews): Multi-service news (Hacker News, Reddit, ...)
   -  `2020` `flutter` `dart` 
   -  ☆`158` 
