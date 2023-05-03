@@ -11710,6 +11710,25 @@
       "updated": "2017-11-11 01:33:23 UTC"
     },
     {
+      "title": "Find Seat App",
+      "category-ids": [
+        "location"
+      ],
+      "description": "app that finds you a seat.",
+      "source": "https://github.com/rwema3/FindSeat-App",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/rwema3/FindSeat-App/blob/main/images/Findseat.png"
+      ],
+      "license": "bsd-3-clause",
+      "date_added": "Wed, 3 Jul 2023 12:30:49 -0700",
+      "suggested_by": "@rwema3",
+      "stars": 48,
+      "updated": "2023-05-03 12:33:23 UTC"
+    },
+    {
       "title": "NBAreact",
       "category-ids": [
         "react-native"
