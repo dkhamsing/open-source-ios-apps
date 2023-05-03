@@ -2,7 +2,7 @@
 
 ## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
-1. [Find Seat App](https://github.com/rwema3/FindSeat-App)
+1. [Find Seat](https://github.com/rwema3/FindSeat-App)
 2. [EasyCrypto](https://github.com/mehrankmlf/EasyCrypto)
 3. [Habo](https://github.com/xpavle00/Habo)
 4. [Web98](https://github.com/nate-parrott/web98)
@@ -35,7 +35,7 @@
 
 ## Most recently updated
 
-1. [Find Seat App](https://github.com/rwema3/FindSeat-App)
+1. [Find Seat](https://github.com/rwema3/FindSeat-App)
 2. [Scan Now](https://github.com/WezSieTato/ScanNow)
 3. [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
 4. [Home Assistant Companion](https://github.com/home-assistant/iOS)
