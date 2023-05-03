@@ -11710,20 +11710,20 @@
       "updated": "2017-11-11 01:33:23 UTC"
     },
     {
-      "title": "Find Seat App",
+      "title": "Find Seat",
       "category-ids": [
-        "location"
+        "flutter"
       ],
-      "description": "app that finds you a seat.",
+      "description": "Find a seat at the movies",
       "source": "https://github.com/rwema3/FindSeat-App",
       "tags": [
-        "swift"
+        "flutter"
       ],
       "screenshots": [
-        "https://github.com/rwema3/FindSeat-App/blob/main/images/Findseat.png"
+        "https://github.com/rwema3/FindSeat-App/blob/main/images/Findseat.png?raw=true"
       ],
       "license": "bsd-3-clause",
-      "date_added": "Wed, 3 Jul 2023 12:30:49 -0700",
+      "date_added": "May 3, 2023",
       "suggested_by": "@rwema3",
       "stars": 48,
       "updated": "2023-05-03 12:33:23 UTC"
