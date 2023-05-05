@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1483-green.svg) ![](https://img.shields.io/badge/Updated-May%20%204,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1483-green.svg) ![](https://img.shields.io/badge/Updated-May%20%205,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1948,7 +1948,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`311` 
 - [Solstice](https://github.com/daneden/Solstice): Tells you how the daylight is changing
-  -  <a href='https://daneden.me/_next/image?url=%2Fimages%2Fsolstice.png&w=750&q=75'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`47` 
 - [Suicide Safety Plan](https://github.com/suicidesafetyplan/safetyplan-ios): Suicide prevention
