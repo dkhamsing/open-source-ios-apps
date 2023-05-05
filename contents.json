@@ -1361,7 +1361,7 @@
       "updated": "2017-02-07 15:11:31 UTC"
     },
     {
-      "title": "Ghostery Privacy Browser",
+      "title": "Ghostery Dawn Privacy Browser",
       "category-ids": [
         "browser",
         "official"
@@ -1370,12 +1370,12 @@
         "swift",
         "ipad"
       ],
-      "description": "Private, fast, tracker / ad-free mobile browsing",
-      "source": "https://github.com/ghostery/browser-ios",
+      "description": "Private and fast browsing",
+      "source": "https://github.com/ghostery/user-agent-ios",
       "license": "mpl-2.0",
       "itunes": "https://apps.apple.com/app/ghostery/id472789016",
       "screenshots": [
-        "https://i.imgur.com/escGoB8.png"
+
       ],
       "date_added": "Aug 21 2019",
       "suggested_by": "@ebal",
