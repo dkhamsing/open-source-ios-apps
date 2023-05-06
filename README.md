@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1483-green.svg) ![](https://img.shields.io/badge/Updated-May%20%205,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1483-green.svg) ![](https://img.shields.io/badge/Updated-May%20%206,%202023-lightgrey.svg)
 
 Jump to
 
@@ -342,8 +342,8 @@ Jump to
 - [Frameless](https://github.com/stakes/Frameless): A full-screen web browser
   -  `2017` `swift` 
   -  ☆`644` 
-- [Ghostery Privacy Browser](https://github.com/ghostery/browser-ios): Private, fast, tracker / ad-free mobile browsing
-  - [` App Store`](https://apps.apple.com/app/ghostery/id472789016) <a href='https://i.imgur.com/escGoB8.png'>`Screenshot 1`</a> 
+- [Ghostery Dawn Privacy Browser](https://github.com/ghostery/user-agent-ios): Private and fast browsing
+  - [` App Store`](https://apps.apple.com/app/ghostery/id472789016) <a href='https://user-images.githubusercontent.com/4723115/236500328-a62c5c64-7238-4eb9-b97f-3982c6974b84.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `ipad` 
   -  ☆`19` 
 - [Onion Browser](https://github.com/OnionBrowser/OnionBrowser): A Tor-powered web browser that improves your privacy
@@ -3009,8 +3009,8 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/firefox-web-browser/id989804926) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/47/b7/1b/47b71b74-5bb4-9c4d-4826-18f89324af9d/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/24/97/ba249744-0dda-90a9-4406-2d30720e59a4/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/93/d1/d4/93d1d4d1-5cde-f1d7-4e68-1fe824bcdc13/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/89/17/58/89175888-9e1e-3fcf-ce42-9dd347327298/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/36/dc/9f36dc54-b99b-fd5c-0076-0cdb1d4bc53e/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2023` `swift` `carthage` `alamofire` `snapkit` `libphonenumber` 
   -  ☆`11348` 
-- [Ghostery Privacy Browser](https://github.com/ghostery/browser-ios): Private, fast, tracker / ad-free mobile browsing
-  - [` App Store`](https://apps.apple.com/app/ghostery/id472789016) <a href='https://i.imgur.com/escGoB8.png'>`Screenshot 1`</a> 
+- [Ghostery Dawn Privacy Browser](https://github.com/ghostery/user-agent-ios): Private and fast browsing
+  - [` App Store`](https://apps.apple.com/app/ghostery/id472789016) <a href='https://user-images.githubusercontent.com/4723115/236500328-a62c5c64-7238-4eb9-b97f-3982c6974b84.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `ipad` 
   -  ☆`19` 
 - [kDrive](https://github.com/Infomaniak/ios-kDrive): Secure cloud to collaborate online, access your documents and files on all your devices
