@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1483-green.svg) ![](https://img.shields.io/badge/Updated-May%20%206,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1483-green.svg) ![](https://img.shields.io/badge/Updated-May%20%207,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4940,8 +4940,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [emitron](https://github.com/razeware/emitron-iOS): For https://www.kodeco.com
   -  `2023` `swift` `swiftui` `combine` 
   -  ☆`340` 
-- [EU VAT Number - VIES Freelance](https://github.com/bulbousigloo/VIES)
-  - [` App Store`](https://apps.apple.com/app/eu-vat-number-vies-freelance/id1546039758) <a href='https://raw.githubusercontent.com/bulbousigloo/VIES/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
+- [EU VAT Number - VIES Freelance](https://github.com/OdvojeniFerid/VIES)
+  - [` App Store`](https://apps.apple.com/app/eu-vat-number-vies-freelance/id1546039758) <a href='https://raw.githubusercontent.com/OdvojeniFerid/VIES/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
   -  `2023` `iphone` `ipad` 
   -  ☆`8` 
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)
