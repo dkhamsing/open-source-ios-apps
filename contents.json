@@ -30567,6 +30567,22 @@
       "date_added": "May 1 2023",
       "suggested_by": "@mehrankmlf",
       "updated": "2023-05-02 19:57:31 UTC"
+    },
+    {
+      "title": "Toilet Radar Paris",
+      "category-ids": [
+        "location"
+      ],
+      "description": "A convenient app to find public toilets in Paris",
+      "source": "https://github.com/IvanBogdantsev/Toilet-Radar-Paris",
+      "tags": [
+        "swift",
+        "rxswift",
+        "navigation",
+        "mvvm"
+      ],
+      "date_added": "May 9 2023",
+      "suggested_by": "@IvanBogdantsev"
     }
   ]
 }
