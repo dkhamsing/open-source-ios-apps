@@ -30573,8 +30573,11 @@
       "category-ids": [
         "location"
       ],
-      "description": "A convenient app to find public toilets in Paris",
+      "description": "Find public toilets",
       "source": "https://github.com/IvanBogdantsev/Toilet-Radar-Paris",
+      "license": "other",
+      "screenshots": ["https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b80a2c3e-42bc-4b24-87e7-c4f26d280ffd"],
+      "itunes": "https://apps.apple.com/app/toilet-radar-paris/id6448686615",
       "tags": [
         "swift",
         "rxswift",
