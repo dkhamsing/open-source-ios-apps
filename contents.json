@@ -30586,6 +30586,30 @@
       ],
       "date_added": "May 9 2023",
       "suggested_by": "@IvanBogdantsev"
+    },
+    {
+      "title": "Z Combinator for Hacker News",
+      "category-ids": [
+        "hacker-news",
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "source": "https://github.com/Livinglist/ZCombinator",
+      "itunes": "https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818",
+      "screenshots": [
+        "https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-1.png",
+        "https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-2.png",
+        "https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-3.png",
+        "https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-6.png"
+      ],
+      "license": "gpl-3.0",
+      "date_added": "May 10 2023",
+      "suggested_by": "@livinglist",
+      "stars": 19,
+      "updated": "2023-04-17 06:41:02 UTC"
     }
   ]
 }
