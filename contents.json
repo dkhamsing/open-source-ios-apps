@@ -30606,6 +30606,24 @@
       "suggested_by": "@livinglist",
       "stars": 19,
       "updated": "2023-04-17 06:41:02 UTC"
-    }
+    },
+{
+      "title": "StepTracker",
+      "category-ids": [ 
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "source": "https://github.com/brittanyarima/Steps",
+      "itunes": "https://apps.apple.com/app/id1663569893",
+      "screenshots": [
+        "https://user-images.githubusercontent.com/76922883/209883943-03fc014d-778a-429d-8817-79d5a665ba0d.jpg"
+      ],
+      "license": "other",
+      "date_added": "May 13 2023",
+      "suggested_by": "@dkhamsing"             
+    }    
   ]
 }
