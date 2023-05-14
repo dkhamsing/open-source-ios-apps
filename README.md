@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1485-green.svg) ![](https://img.shields.io/badge/Updated-May%2013,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1486-green.svg) ![](https://img.shields.io/badge/Updated-May%2014,%202023-lightgrey.svg)
 
 Jump to
 
@@ -5214,6 +5214,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [Static Widget in iOS 14](https://github.com/StewartLynch/iOS-14-Widget)
   -  `2020` `swift` `ios14` `widgetkit` 
   -  ☆`9` 
+- [StepTracker](https://github.com/brittanyarima/Steps)
+  - [` App Store`](https://apps.apple.com/app/id1663569893) <a href='https://user-images.githubusercontent.com/76922883/209883943-03fc014d-778a-429d-8817-79d5a665ba0d.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [Sunshine Weather](https://github.com/MaximeHeckel/sunshine-weather-app)
   -  <a href='https://i.imgur.com/gLwqXmY.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` `openweathermap` 
