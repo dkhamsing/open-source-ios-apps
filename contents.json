@@ -30624,6 +30624,24 @@
       "license": "other",
       "date_added": "May 13 2023",
       "suggested_by": "@dkhamsing"             
-    }    
+    },
+    {
+      "title": "uhohlingo",
+      "category-ids": [ 
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "source": "https://github.com/nate-parrott/uhohlingo", 
+      "screenshots": [
+        
+      ],
+      "license": "other",
+      "date_added": "May 15 2023",
+      "suggested_by": "@dkhamsing"             
+    }      
   ]
 }
+
