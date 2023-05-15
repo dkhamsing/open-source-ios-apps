@@ -30642,6 +30642,25 @@
       "license": "other",
       "date_added": "May 15 2023",
       "suggested_by": "@dkhamsing"             
+    },
+    {
+      "title": "SafePeople",
+      "description": "Get help when struggling with addiction, anxiety, depression.",
+      "category-ids": [ 
+        "health"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "core-data"
+      ],
+      "source": "https://github.com/brittanyarima/SafePeople", 
+      "screenshots": [
+        "https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png"
+      ],
+      "license": "other",
+      "date_added": "May 15 2023",
+      "suggested_by": "@dkhamsing"             
     }      
   ]
 }
