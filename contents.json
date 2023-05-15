@@ -30627,8 +30627,9 @@
     },
     {
       "title": "uhohlingo",
+      "description": "Like duolingo but you can generate whatever lesson you want",
       "category-ids": [ 
-        "swiftui"
+        "education"
       ],
       "tags": [
         "swift",
@@ -30644,4 +30645,3 @@
     }      
   ]
 }
-
