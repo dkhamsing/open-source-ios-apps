@@ -16410,7 +16410,7 @@
         "spritekit"
       ],
       "description": "Class Tic Tac Toe reincarnation with AI and state machines",
-      "source": "https://github.com/jVirus/tic-tac-toe",
+      "source": "https://github.com/eleev/tic-tac-toe",
       "screenshots": [
         "https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif"
       ],
@@ -17961,7 +17961,7 @@
         "spritekit"
       ],
       "description": "A clone of Flappy Bird using SpriteKit and GameplayKit",
-      "source": "https://github.com/jVirus/flappy-fly-bird",
+      "source": "https://github.com/eleev/flappy-fly-bird",
       "license": "bsd-3-clause",
       "stars": 331,
       "tags": [
@@ -17970,11 +17970,11 @@
         "gameplaykit"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG",
-        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG",
-        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG",
-        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG",
-        "https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG"
+        "https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-01.PNG",
+        "https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-02.PNG",
+        "https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-03.PNG",
+        "https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-04.PNG",
+        "https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-05.PNG"
       ],
       "date_added": "July 23 2018",
       "suggested_by": "@jVirus",
@@ -21425,14 +21425,14 @@
       "category-ids": [
         "sample"
       ],
-      "source": "https://github.com/jVirus/compositional-layouts-kit",
+      "source": "https://github.com/eleev/compositional-layouts-kit",
       "license": "mit",
       "stars": 386,
       "tags": [
         "swift"
       ],
       "screenshots": [
-        "https://github.com/jVirus/compositional-layouts-kit/raw/master/cover-composlayouts.png"
+        "https://github.com/eleev/compositional-layouts-kit/raw/master/cover-composlayouts.png"
       ],
       "date_added": "May 12 2020",
       "suggested_by": "@dkhamsing",
@@ -23898,7 +23898,7 @@
         "swiftui",
         "ipad"
       ],
-      "source": "https://github.com/jVirus/swiftui-2048",
+      "source": "https://github.com/eleev/swiftui-2048",
       "license": "mit",
       "date_added": "Aug 3 2020",
       "suggested_by": "@dkhamsing",
