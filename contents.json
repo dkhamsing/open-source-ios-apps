@@ -30669,7 +30669,8 @@
         "official"
       ],
       "tags": [
-        "typescript"
+        "typescript",
+        "react-native"
       ],
       "source": "https://github.com/bluesky-social/social-app",
       "itunes": "https://apps.apple.com/app/bluesky-social/id6444370199",
