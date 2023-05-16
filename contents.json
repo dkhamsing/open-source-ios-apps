@@ -30664,7 +30664,7 @@
       "suggested_by": "@dkhamsing"             
     },
       {
-      "title": "Bluesky",
+      "title": "Bluesky Social",
       "category-ids": [ 
         "official"
       ],
@@ -30674,7 +30674,7 @@
       "source": "https://github.com/bluesky-social/social-app",
       "itunes": "https://apps.apple.com/app/bluesky-social/id6444370199",
       "screenshots": [
-        
+         
       ],
       "license": "mit",
       "date_added": "May 16 2023",
