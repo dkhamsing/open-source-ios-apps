@@ -17515,7 +17515,7 @@
         "social"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "A real-time, votable, democratized music queue on iPad and iPhone using Spotify",
       "license": "apache-2.0",
