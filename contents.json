@@ -30666,7 +30666,7 @@
       {
       "title": "Bluesky Social",
       "category-ids": [ 
-        "official"
+        "official", "social"
       ],
       "tags": [
         "typescript",
