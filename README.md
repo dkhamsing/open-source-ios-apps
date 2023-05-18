@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1489-green.svg) ![](https://img.shields.io/badge/Updated-May%2017,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1489-green.svg) ![](https://img.shields.io/badge/Updated-May%2018,%202023-lightgrey.svg)
 
 Jump to
 
@@ -495,8 +495,8 @@ Jump to
   -  <a href='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'>`Screenshot 1`</a> 
   -  `2022` `react native` 
   -  ☆`1999` 
-- [Flappy Fly-Bird](https://github.com/jVirus/flappy-fly-bird): A clone of Flappy Bird using SpriteKit and GameplayKit
-  -  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG'>`Screenshot 5`</a> 
+- [Flappy Fly-Bird](https://github.com/eleev/flappy-fly-bird): A clone of Flappy Bird using SpriteKit and GameplayKit
+  -  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-01.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-02.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-03.PNG'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-04.PNG'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-05.PNG'>`Screenshot 5`</a> 
   -  `2022` `swift` `spritekit` `gameplaykit` 
   -  ☆`331` 
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Flappy Bird clone
@@ -1648,8 +1648,8 @@ File Management — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-1-GameScreen.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-2-GameScreen.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-3-GameScreen.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-4-GameScreen.png'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-5-GameScreen.png'>`Screenshot 5`</a> 
   -  `2021` `swift` `spritekit` `game` `animation` 
   -  ☆`92` 
-- [Flappy Fly-Bird](https://github.com/jVirus/flappy-fly-bird): A clone of Flappy Bird using SpriteKit and GameplayKit
-  -  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG'>`Screenshot 5`</a> 
+- [Flappy Fly-Bird](https://github.com/eleev/flappy-fly-bird): A clone of Flappy Bird using SpriteKit and GameplayKit
+  -  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-01.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-02.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-03.PNG'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-04.PNG'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-05.PNG'>`Screenshot 5`</a> 
   -  `2022` `swift` `spritekit` `gameplaykit` 
   -  ☆`331` 
 - [Flappy Royale](https://github.com/flappy-royale/flappy-royale): A 99-player last-bird-flapping battle royale
@@ -1811,7 +1811,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/17913113/211129119-1e304b4c-f1e7-42d3-8e41-b25503e71126.PNG'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129116-432d635b-89a5-450e-a1be-177fff78d3e4.PNG'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129115-e647ce29-151b-424c-b46c-8f130f99a857.PNG'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129113-41f4ad1a-041a-40f7-a86c-256a49132e81.PNG'>`Screenshot 4`</a>  <a href='https://user-images.githubusercontent.com/17913113/211129104-148bee36-020f-45f7-a579-317785df5dbf.PNG'>`Screenshot 5`</a> 
   -  `2023` `swift` 
   -  ☆`9` 
-- [Crosses-n-Ous](https://github.com/jVirus/tic-tac-toe): Class Tic Tac Toe reincarnation with AI and state machines
+- [Crosses-n-Ous](https://github.com/eleev/tic-tac-toe): Class Tic Tac Toe reincarnation with AI and state machines
   -  <a href='https://user-images.githubusercontent.com/5098753/29486890-28e5c01a-84f9-11e7-8572-8b9f3b3d37a4.gif'>`Screenshot 1`</a> 
   -  `2021` `swift` `gameplaykit` 
   -  ☆`62` 
@@ -1823,8 +1823,8 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://i.imgur.com/anzIXHK.png'>`Screenshot 1`</a> 
   -  `2022` `objc` 
   -  ☆`22` 
-- [Flappy Fly-Bird](https://github.com/jVirus/flappy-fly-bird): A clone of Flappy Bird using SpriteKit and GameplayKit
-  -  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-01.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-02.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-03.PNG'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-04.PNG'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/jVirus/flappy-fly-bird/master/resources/img-05.PNG'>`Screenshot 5`</a> 
+- [Flappy Fly-Bird](https://github.com/eleev/flappy-fly-bird): A clone of Flappy Bird using SpriteKit and GameplayKit
+  -  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-01.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-02.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-03.PNG'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-04.PNG'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-05.PNG'>`Screenshot 5`</a> 
   -  `2022` `swift` `spritekit` `gameplaykit` 
   -  ☆`331` 
 - [GameJam](https://github.com/TheSwiftAlps/GameJam): Contains all the games that were made at the Game Jam
@@ -3151,8 +3151,8 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://i.imgur.com/dS9aFJL.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `cloudkit` 
   -  ☆`252` 
-- [compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit): A set of advanced compositional layouts for UICollectionView with examples (Swift 5.1, iOS 13)
-  -  <a href='https://github.com/jVirus/compositional-layouts-kit/raw/master/cover-composlayouts.png'>`Screenshot 1`</a> 
+- [compositional-layouts-kit](https://github.com/eleev/compositional-layouts-kit): A set of advanced compositional layouts for UICollectionView with examples (Swift 5.1, iOS 13)
+  -  <a href='https://github.com/eleev/compositional-layouts-kit/raw/master/cover-composlayouts.png'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`386` 
 - [contacts-mvp-swift](https://github.com/tirupati17/contacts-mvp-swift): Uses the MVP (Model View Presenter) pattern
@@ -5251,7 +5251,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [SwiftUI Series - Speedrun Challenge (jegnux)](https://github.com/jegnux/SwiftUICameraAppSpeedrunChallenge): Replicate the screenshot from the camera app
   -  `2022` `swift` `swiftui` 
   -  ☆`4` 
-- [swiftui-2048](https://github.com/jVirus/swiftui-2048): 100% SwiftUI 2.0
+- [swiftui-2048](https://github.com/eleev/swiftui-2048): 100% SwiftUI 2.0
   -  `2022` `swift` `swiftui` `ipad` 
   -  ☆`215` 
 - [SwiftUI-HackerNews](https://github.com/woxtu/SwiftUI-HackerNews)
