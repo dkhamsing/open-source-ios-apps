@@ -30680,6 +30680,26 @@
       "license": "mit",
       "date_added": "May 16 2023",
       "suggested_by": "@dkhamsing"             
-    }      
+    },
+    {
+      "title": "Sketchy",
+      "description": "iPad sketching",
+      "category-ids": [ 
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "pencilkit",
+        "ipad"
+      ],
+      "source": "https://github.com/brittanyarima/Sketchy", 
+      "screenshots": [
+        "https://user-images.githubusercontent.com/76922883/206352895-8bab29e9-b6e3-473b-9b58-654864853eab.png"
+      ],
+      "license": "other",
+      "date_added": "May 18 2023",
+      "suggested_by": "@dkhamsing"             
+    }    
   ]
 }
