@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1489-green.svg) ![](https://img.shields.io/badge/Updated-May%2018,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1490-green.svg) ![](https://img.shields.io/badge/Updated-May%2019,%202023-lightgrey.svg)
 
 Jump to
 
@@ -5197,6 +5197,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://filipmolcik.com/wp-content/uploads/2020/07/iphonexspacegrey_portrait-2-1024x1024.png'>`Screenshot 1`</a>  <a href='https://filipmolcik.com/wp-content/uploads/2020/07/iphonexspacegrey_landscape-2-1024x1024.png'>`Screenshot 2`</a> 
   -  `2021` `swift` `swiftui` 
   -  ☆`35` 
+- [Sketchy](https://github.com/brittanyarima/Sketchy): iPad sketching
+  -  <a href='https://user-images.githubusercontent.com/76922883/206352895-8bab29e9-b6e3-473b-9b58-654864853eab.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `pencilkit` `ipad` 
 - [Social Contributor App](https://github.com/adamrushy/social-swiftui-app): Share and communicate with developers around the world
   -  `2022` `swift` `swiftui` 
   -  ☆`61` 
