@@ -1368,7 +1368,8 @@
       ],
       "tags": [
         "swift",
-        "ipad"
+        "ipad",
+        "archive"
       ],
       "description": "Private and fast browsing",
       "source": "https://github.com/ghostery/user-agent-ios",
@@ -5279,7 +5280,8 @@
       ],
       "tags": [
         "reactivecocoa",
-        "masonry"
+        "masonry",
+        "archive"
       ],
       "lang": "zho",
       "description": "Official Coding app",
@@ -10266,7 +10268,7 @@
         "official"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Official app for https://www.radioparadise.com/",
       "source": "https://github.com/ilTofa/rposx",
@@ -15002,7 +15004,7 @@
         "event"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/67/c4/bd/67c4bd2f-bf02-54c3-7b3a-3ff6605a51f2/pr_source.png/460x0w.jpg"
