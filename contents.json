@@ -30700,6 +30700,25 @@
       "license": "other",
       "date_added": "May 18 2023",
       "suggested_by": "@dkhamsing"             
-    }    
+    },
+    {
+      "title": "MovieDB",
+      "description": "Movie search, see movie info and cast",
+      "category-ids": [ 
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "tmdb" 
+      ],
+      "source": "https://github.com/brittanyarima/MovieDB", 
+      "screenshots": [
+        "https://user-images.githubusercontent.com/76922883/205459025-f78eaf85-0d5e-4b42-9b89-4680906dd408.png"
+      ],
+      "license": "other",
+      "date_added": "May 19 2023",
+      "suggested_by": "@dkhamsing"             
+    }
   ]
 }
