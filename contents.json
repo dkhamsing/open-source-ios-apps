@@ -30719,6 +30719,22 @@
       "license": "other",
       "date_added": "May 19 2023",
       "suggested_by": "@dkhamsing"             
-    }
+    },
+    {
+      "title": "Learning Metal with metal-cpp",
+      "category-ids": [ 
+        "sample"
+      ],
+      "tags": [
+        "cpp", "metal"
+      ],
+      "source": "https://github.com/metal-by-example/learn-metal-cpp-ios", 
+      "screenshots": [
+        "https://user-images.githubusercontent.com/76922883/205459025-f78eaf85-0d5e-4b42-9b89-4680906dd408.png"
+      ],
+      "license": "apache-2.0",
+      "date_added": "May 20 2023",
+      "suggested_by": "@dkhamsing"             
+    }    
   ]
 }
