@@ -30728,10 +30728,7 @@
       "tags": [
         "cpp", "metal"
       ],
-      "source": "https://github.com/metal-by-example/learn-metal-cpp-ios", 
-      "screenshots": [
-        "https://user-images.githubusercontent.com/76922883/205459025-f78eaf85-0d5e-4b42-9b89-4680906dd408.png"
-      ],
+      "source": "https://github.com/metal-by-example/learn-metal-cpp-ios",
       "license": "apache-2.0",
       "date_added": "May 20 2023",
       "suggested_by": "@dkhamsing"             
