@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1492-green.svg) ![](https://img.shields.io/badge/Updated-May%2021,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1492-green.svg) ![](https://img.shields.io/badge/Updated-May%2022,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3210,7 +3210,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2022` `swift` 
   -  ☆`1093` 
 - [Learning Metal with metal-cpp](https://github.com/metal-by-example/learn-metal-cpp-ios)
-  -  <a href='https://user-images.githubusercontent.com/76922883/205459025-f78eaf85-0d5e-4b42-9b89-4680906dd408.png'>`Screenshot 1`</a> 
   - `cpp` `metal` 
 - [Live](https://github.com/ltebean/Live): Live broadcasting
   -  <a href='https://cloud.githubusercontent.com/assets/1646564/16943747/de7a0c36-4dcf-11e6-913f-103301ef8fda.png'>`Screenshot 1`</a>  <a href='https://cloud.githubusercontent.com/assets/1646564/16943754/e1d036ee-4dcf-11e6-8994-cc2cf1709bb8.png'>`Screenshot 2`</a> 
