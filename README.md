@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1492-green.svg) ![](https://img.shields.io/badge/Updated-May%2022,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1492-green.svg) ![](https://img.shields.io/badge/Updated-May%2023,%202023-lightgrey.svg)
 
 Jump to
 
@@ -342,10 +342,6 @@ Jump to
 - [Frameless](https://github.com/stakes/Frameless): A full-screen web browser
   -  `2017` `swift` 
   -  ☆`644` 
-- [Ghostery Dawn Privacy Browser](https://github.com/ghostery/user-agent-ios): Private and fast browsing
-  - [` App Store`](https://apps.apple.com/app/ghostery/id472789016) <a href='https://user-images.githubusercontent.com/4723115/236500328-a62c5c64-7238-4eb9-b97f-3982c6974b84.png'>`Screenshot 1`</a> 
-  -  `2020` `swift` `ipad` 
-  -  ☆`19` 
 - [Onion Browser](https://github.com/OnionBrowser/OnionBrowser): A Tor-powered web browser that improves your privacy
   - <a href=https://onionbrowser.com>`https://onionbrowser.com`</a>
   - [` App Store`](https://apps.apple.com/app/id519296448) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/df/3b/f7/df3bf7dd-a0ec-08f8-1851-8d753207f069/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/b8/ab/9eb8abc1-cf22-9866-9521-88cb7772efa9/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/02/2b/e0/022be068-3552-7b25-2bb5-675c7e878e5a/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
@@ -1197,11 +1193,6 @@ Jump to
   -  <a href='https://github.com/ayunav/MeetupOrganizer/blob/master/MeetupOrganizerAppDemo.gif'>`Screenshot 1`</a> 
   -  `2017` `swift` `alamofire` `oauthswift` 
   -  ☆`29` 
-- [Northern California Cherry Blossom Festival](https://github.com/keitaito/NCCBF-iOS)
-  - <a href=https://sfcherryblossom.org>`https://sfcherryblossom.org`</a>
-  -  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/67/c4/bd/67c4bd2f-bf02-54c3-7b3a-3ff6605a51f2/pr_source.png/460x0w.jpg'>`Screenshot 1`</a> 
-  -  `2019` `swift` 
-  -  ☆`11` 
 - [Open Event Organizer](https://github.com/fossasia/open-event-organizer-ios): Event management app for organizers using Open Event Platform
   -  `2022` `swift` `alamofire` `swiftlint` `objectmapper` 
   -  ☆`1484` 
@@ -2406,11 +2397,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://www.queuedapp.com/img/image-3.png'>`Screenshot 1`</a>  <a href='https://www.queuedapp.com/img/image-2.png'>`Screenshot 2`</a>  <a href='https://www.queuedapp.com/img/powerful.png'>`Screenshot 3`</a> 
   -  `2020` `swift` 
   -  ☆`88` 
-- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/
-  - <a href=https://www.iltofa.com/rphd/>`https://www.iltofa.com/rphd/`</a>
-  -  <a href='https://user-images.githubusercontent.com/4723115/155891071-90a9d4a4-a63d-4cdf-a57b-1f838854422a.jpg'>`Screenshot 1`</a> 
-  -  `2016` `objc` 
-  -  ☆`19` 
 - [Swift Radio Pro](https://github.com/analogcode/Swift-Radio-Pro): Professional radio station
   -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*THdzhTjeuB-niUriPwsxfg.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
@@ -3009,10 +2995,6 @@ https://newsapi.org/ — [back to top](#readme)
   - <a href=https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html>`https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html`</a>
   -  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/15/4d/26/154d2610-1d6e-ed2e-7a7a-698f98e466c1/mzl.fuawsxsw.png/626x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/69/51/f2/6951f239-8529-90e5-3b24-0b8ccae172e3/mzl.qdavkgej.png/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/f9/84/0af984c6-83d0-270a-d062-5a16fd16acfb/mzl.ykkkwqij.png/626x0w.jpg'>`Screenshot 3`</a> 
   - `objective-c++` 
-- [Coding](https://github.com/Coding/Coding-iOS): Official Coding app
-  -  <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/3.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/4.png'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/5.png'>`Screenshot 5`</a> 
-  -  `2019` `reactivecocoa` `masonry` 
-  -  ☆`3793` 
 - [DuckDuckGo](https://github.com/duckduckgo/ios): Official DuckDuckGo app
   - [` App Store`](https://apps.apple.com/app/duckduckgo-search-stories/id663592361) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/02/a3/3d/02a33d9d-e7f5-de88-acc9-59b6225a1725/mzl.ljodcrml.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8d/0d/08/8d0d0837-7725-1de4-80e1-60ccade7a862/mzl.kqfgqvpd.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/e0/5f/d1e05f6b-8070-6c5c-6f44-867bcf4a2ca2/mzl.djmlchip.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/bb/d4/b2/bbd4b2f7-2a81-a746-8935-ed6c95762c96/mzl.dioblpre.jpg/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/eb/0e/34/eb0e34f4-37d0-fcca-9734-210b09c30d20/mzl.jfugrexh.jpg/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2023` `afnetworking` 
@@ -3025,10 +3007,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/firefox-web-browser/id989804926) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/47/b7/1b/47b71b74-5bb4-9c4d-4826-18f89324af9d/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/24/97/ba249744-0dda-90a9-4406-2d30720e59a4/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/93/d1/d4/93d1d4d1-5cde-f1d7-4e68-1fe824bcdc13/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/89/17/58/89175888-9e1e-3fcf-ce42-9dd347327298/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/36/dc/9f36dc54-b99b-fd5c-0076-0cdb1d4bc53e/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2023` `swift` `carthage` `alamofire` `snapkit` `libphonenumber` 
   -  ☆`11348` 
-- [Ghostery Dawn Privacy Browser](https://github.com/ghostery/user-agent-ios): Private and fast browsing
-  - [` App Store`](https://apps.apple.com/app/ghostery/id472789016) <a href='https://user-images.githubusercontent.com/4723115/236500328-a62c5c64-7238-4eb9-b97f-3982c6974b84.png'>`Screenshot 1`</a> 
-  -  `2020` `swift` `ipad` 
-  -  ☆`19` 
 - [kDrive](https://github.com/Infomaniak/ios-kDrive): Secure cloud to collaborate online, access your documents and files on all your devices
   - <a href=https://www.infomaniak.com/kdrive>`https://www.infomaniak.com/kdrive`</a>
   - [` App Store`](https://apps.apple.com/app/infomaniak-kdrive/id1482778676) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/fd/5e/eb/fd5eeb3a-6bef-a79f-b3f6-f6dacd824b8e/2da2a5e3-f988-4215-931a-58f58c9b9a66_mobile-6.5-1.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/8e/a7/72/8ea772cc-81d0-112f-ee4b-c475a92501bc/0c9b7def-a516-4116-92b4-7fa131519ac3_mobile-6.5-2.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c5/ca/17/c5ca17ff-2950-0ec1-ab91-4e02f8d0947f/1391ef65-23e7-44b7-9c64-62bb35d84f80_mobile-6.5-3.png/600x0w.png'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/d7/de/85/d7de854f-c3b4-269d-9777-0252d4933666/9eef055e-3d6b-4bf0-9ab4-a0d6d9b9055b_mobile-6.5-4.png/600x0w.png'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/cd/2a/1acd2a04-49eb-94f5-fca3-6fc9c1e4ada5/df89351c-147d-457f-ba48-e6765e6a24c2_mobile-6.5-5.png/600x0w.png'>`Screenshot 5`</a> 
@@ -3062,16 +3040,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/nextcloud-talk/id1296825574) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e3/82/1e/e3821efd-c7fe-d7ce-1416-a8ddc7b86a23/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a8/ba/96/a8ba9621-f390-9fda-27fb-2be07e57ccde/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/e3/ae/14/e3ae1453-2409-40d9-9d4b-e83da63d7f2c/mzl.luuiuato.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/07/0e/98/070e9847-526d-c901-b8fd-d3f50c03a718/mzl.renucwgu.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2023` `objc` 
   -  ☆`120` 
-- [Northern California Cherry Blossom Festival](https://github.com/keitaito/NCCBF-iOS)
-  - <a href=https://sfcherryblossom.org>`https://sfcherryblossom.org`</a>
-  -  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/67/c4/bd/67c4bd2f-bf02-54c3-7b3a-3ff6605a51f2/pr_source.png/460x0w.jpg'>`Screenshot 1`</a> 
-  -  `2019` `swift` 
-  -  ☆`11` 
-- [Radio Paradise](https://github.com/ilTofa/rposx): Official app for https://www.radioparadise.com/
-  - <a href=https://www.iltofa.com/rphd/>`https://www.iltofa.com/rphd/`</a>
-  -  <a href='https://user-images.githubusercontent.com/4723115/155891071-90a9d4a4-a63d-4cdf-a57b-1f838854422a.jpg'>`Screenshot 1`</a> 
-  -  `2016` `objc` 
-  -  ☆`19` 
 - [Rainbow](https://github.com/rainbow-me/rainbow): Ethereum wallet that lives in your pocket
   - <a href=https://rainbow.me>`https://rainbow.me`</a>
   - [` App Store`](https://apps.apple.com/app/rainbow-ethereum-wallet/id1457119021) <a href='https://user-images.githubusercontent.com/4723115/139700145-bb518aef-a815-421b-a504-1f2646ed32bc.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/4723115/139700159-5ac0f3cc-8ecf-4b56-a020-e5e848d460e3.png'>`Screenshot 2`</a> 
@@ -4681,10 +4649,6 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
 - [C-41](https://github.com/ashfurrow/C-41): Simple timer to make developing film easier & more reliable
   -  `2021` `objc` 
   -  ☆`2066` 
-- [Coding](https://github.com/Coding/Coding-iOS): Official Coding app
-  -  <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/3.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/4.png'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/Coding/Coding-iOS/master/Screenshots/5.png'>`Screenshot 5`</a> 
-  -  `2019` `reactivecocoa` `masonry` 
-  -  ☆`3793` 
 - [Giraffe](https://github.com/evgeniyd/Giraffe)
   -  <a href='https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png'>`Screenshot 1`</a> 
   -  `2016` `swift` `reactivecocoa` 
