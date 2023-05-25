@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1492-green.svg) ![](https://img.shields.io/badge/Updated-May%2024,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1492-green.svg) ![](https://img.shields.io/badge/Updated-May%2025,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2392,11 +2392,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/b5/d4/72/b5d472cf-ca00-aba0-da09-776dc597595a/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/6d/85/02/6d850217-73a8-3379-5110-54ca812d6ae0/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/85/79/6d/85796d78-6c7f-6dc6-327f-f3dfcc4c72a3/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/05/e3/da/05e3da31-0d41-dc1d-8111-6bceed1b8095/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2022` `swift` `snapkit` `haneke` `koloda` 
   -  ☆`42` 
-- [Queue'd Music](https://github.com/rldaulton/queued-music): A real-time, votable, democratized music queue on iPad and iPhone using Spotify
-  - <a href=https://www.queuedapp.com>`https://www.queuedapp.com`</a>
-  -  <a href='https://www.queuedapp.com/img/image-3.png'>`Screenshot 1`</a>  <a href='https://www.queuedapp.com/img/image-2.png'>`Screenshot 2`</a>  <a href='https://www.queuedapp.com/img/powerful.png'>`Screenshot 3`</a> 
-  -  `2020` `swift` 
-  -  ☆`88` 
 - [Swift Radio Pro](https://github.com/analogcode/Swift-Radio-Pro): Professional radio station
   -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*THdzhTjeuB-niUriPwsxfg.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
@@ -3518,11 +3513,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/surayashivji/potter-pics/blob/master/Overview.gif'>`Screenshot 1`</a> 
   -  `2017` `swift` `swift3` `firebase` 
   -  ☆`149` 
-- [Queue'd Music](https://github.com/rldaulton/queued-music): A real-time, votable, democratized music queue on iPad and iPhone using Spotify
-  - <a href=https://www.queuedapp.com>`https://www.queuedapp.com`</a>
-  -  <a href='https://www.queuedapp.com/img/image-3.png'>`Screenshot 1`</a>  <a href='https://www.queuedapp.com/img/image-2.png'>`Screenshot 2`</a>  <a href='https://www.queuedapp.com/img/powerful.png'>`Screenshot 3`</a> 
-  -  `2020` `swift` 
-  -  ☆`88` 
 - [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar): Never miss new releases from your favorite Spotify artists
   -  <a href='https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `iphone` `ipad` `spotify` `spotifyradar` `rxswift` `coordinator` `mvvm` 
