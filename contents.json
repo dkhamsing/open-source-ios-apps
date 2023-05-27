@@ -30735,6 +30735,32 @@
       "license": "apache-2.0",
       "date_added": "May 20 2023",
       "suggested_by": "@dkhamsing"             
+    },
+    {
+      "title": "Notesnook",
+      "description": "A fully end-to-end encrypted and private note taking alternative to Evernote.",
+      "source": "https://github.com/streetwriters/notesnook",
+      "itunes": "https://apps.apple.com/app/notesnook-keep-notes-private/id1544027013",
+      "homepage": "https://notesnook.com",
+      "category-ids": [
+        "notes"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": [
+        "https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg?raw=true",
+        "https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg?raw=true",
+        "https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg?raw=true",
+        "https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg?raw=true",
+        "https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg?raw=true",
+        "https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg?raw=true",
+        "https://github.com/streetwriters/notesnook/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/7.jpg?raw=true"
+      ],
+      "license": "gpl-3.0",
+      "date_added": "May 27 2023",
+      "suggested_by": "@ammarahm-ed",
+      "stars": 6090,
     }    
   ]
 }
