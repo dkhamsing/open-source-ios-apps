@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1492-green.svg) ![](https://img.shields.io/badge/Updated-May%2026,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1492-green.svg) ![](https://img.shields.io/badge/Updated-May%2027,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1811,7 +1811,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2021` `swift` `spritekit` `game` `animation` 
   -  ☆`92` 
 - [Five In A Row (五子棋)](https://github.com/WelkinXie/FiveInARow)
-  -  <a href='https://i.imgur.com/anzIXHK.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/db9dd37c-b3b1-4878-ad05-dd6e1efa1a19'>`Screenshot 1`</a> 
   -  `2022` `objc` 
   -  ☆`22` 
 - [Flappy Fly-Bird](https://github.com/eleev/flappy-fly-bird): A clone of Flappy Bird using SpriteKit and GameplayKit
