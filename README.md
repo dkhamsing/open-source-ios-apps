@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1493-green.svg) ![](https://img.shields.io/badge/Updated-May%2027,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1493-green.svg) ![](https://img.shields.io/badge/Updated-May%2028,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1941,7 +1941,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/open-food-facts/id588797948) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/e7/18/27/e71827cd-1fd4-5b81-b52e-2668feed9700/pr_source.png/230x0w.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`311` 
-- [SafePeople](https://github.com/brittanyarima/SafePeople): Get help when struggling with addiction, anxiety, depression.
+- [SafePeople](https://github.com/brittanyarima/SafePeople): Get help when struggling with addiction, anxiety, depression
   - [` App Store`](https://apps.apple.com/app/safe-people/id1615862411) <a href='https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png'>`Screenshot 1`</a> 
   - `swift` `swiftui` `core-data` 
 - [Solstice](https://github.com/daneden/Solstice): Tells you how the daylight is changing
