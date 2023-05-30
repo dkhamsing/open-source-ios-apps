@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1493-green.svg) ![](https://img.shields.io/badge/Updated-May%2029,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1493-green.svg) ![](https://img.shields.io/badge/Updated-May%2030,%202023-lightgrey.svg)
 
 Jump to
 
@@ -496,7 +496,7 @@ Jump to
   -  `2022` `swift` `spritekit` `gameplaykit` 
   -  ☆`331` 
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Flappy Bird clone
-  -  <a href='https://i.imgur.com/1NLoToU.gif'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/7f53f721-96d1-440a-8c42-73f4cc86f8cd'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`9563` 
 - [graygram](https://github.com/devxoul/graygram-ios): Instagram clone
@@ -1652,7 +1652,7 @@ File Management — [back to top](#readme)
   -  `2023` `objc` 
   -  ☆`26` 
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Flappy Bird clone
-  -  <a href='https://i.imgur.com/1NLoToU.gif'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/7f53f721-96d1-440a-8c42-73f4cc86f8cd'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`9563` 
 - [Frogatto & Friends](https://github.com/frogatto/frogatto): Action-adventure game, starring a certain quixotic frog
