@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1493-green.svg) ![](https://img.shields.io/badge/Updated-June%20%203,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1493-green.svg) ![](https://img.shields.io/badge/Updated-June%20%204,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1369,10 +1369,6 @@ Widget (iOS 14) — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1536864924) <a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'>`Screenshot 4`</a> 
   -  `2021` 
   -  ☆`82` 
-- [Spontaneous - Random quotes](https://github.com/OdvojeniFerid/DiscoverRandomQuotes)
-  - [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374) <a href='https://github.com/OdvojeniFerid/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
-  -  `2023` `swift` `swiftui` `widgetkit` `ios14` 
-  -  ☆`48` 
 - [Static Widget in iOS 14](https://github.com/StewartLynch/iOS-14-Widget)
   -  `2020` `swift` `ios14` `widgetkit` 
   -  ☆`9` 
@@ -2573,10 +2569,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/32227073/65997616-0ef63f80-e470-11e9-8faa-d2d6728202a5.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `combine` 
   -  ☆`21` 
-- [Spontaneous - Random quotes](https://github.com/OdvojeniFerid/DiscoverRandomQuotes)
-  - [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374) <a href='https://github.com/OdvojeniFerid/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
-  -  `2023` `swift` `swiftui` `widgetkit` `ios14` 
-  -  ☆`48` 
 - [Star Wars](https://github.com/joreilly/StarWars): Uses swapi
   -  <a href='https://github.com/joreilly/StarWars/raw/main/art/screenshot1.png?raw=true'>`Screenshot 1`</a> 
   -  `2023` `kmm` `graphql` 
@@ -4924,10 +4916,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [emitron](https://github.com/razeware/emitron-iOS): For https://www.kodeco.com
   -  `2023` `swift` `swiftui` `combine` 
   -  ☆`339` 
-- [EU VAT Number - VIES Freelance](https://github.com/OdvojeniFerid/VIES)
-  - [` App Store`](https://apps.apple.com/app/eu-vat-number-vies-freelance/id1546039758) <a href='https://raw.githubusercontent.com/OdvojeniFerid/VIES/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
-  -  `2023` `iphone` `ipad` 
-  -  ☆`8` 
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)
   -  <a href='https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted/raw/master/promo.png?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` `swiftui` `core-data` 
