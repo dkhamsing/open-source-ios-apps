@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **345** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **343** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -659,10 +659,6 @@ Widget (iOS 14) — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1536864924) <a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'>`Screenshot 4`</a> 
   -  `2021` 
   -  ☆`82` 
-- [Spontaneous - Random quotes](https://github.com/OdvojeniFerid/DiscoverRandomQuotes)
-  - [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374) <a href='https://github.com/OdvojeniFerid/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
-  -  `2023` `swift` `swiftui` `widgetkit` `ios14` 
-  -  ☆`48` 
 - [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app
   - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'>`Screenshot 3`</a> 
   -  `2021` `watchos` `swiftui` `alamofire` 
@@ -1247,10 +1243,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/reading-list-a-book-tracking-log/id1217139955) <a href='https://raw.githubusercontent.com/AndrewBennet/ReadingListV1/master/media/iPhone%20X-0_ToReadList_framed.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `iphone` `ipad` `core-data` 
   -  ☆`301` 
-- [Spontaneous - Random quotes](https://github.com/OdvojeniFerid/DiscoverRandomQuotes)
-  - [` App Store`](https://apps.apple.com/app/spontaneous-random-quotes/id1538265374) <a href='https://github.com/OdvojeniFerid/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
-  -  `2023` `swift` `swiftui` `widgetkit` `ios14` 
-  -  ☆`48` 
 - [xkcd](https://github.com/paulrehkugler/xkcd)
   - [` App Store`](https://apps.apple.com/app/xkcd/id303688284) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a5/4b/89/a54b89ec-8cf6-78c7-9f5c-67c6a8d00341/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/33/33/49/333349c4-fc0e-d230-0bd4-f687460dc2de/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4c/af/fd/4caffd9b-7cfb-ce00-7fa9-7b09771009de/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/4e/68/a1/4e68a100-d19d-a6dd-6c83-4c26d47078fd/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2021` `iphone` 
@@ -2163,10 +2155,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`83` 
-- [EU VAT Number - VIES Freelance](https://github.com/OdvojeniFerid/VIES)
-  - [` App Store`](https://apps.apple.com/app/eu-vat-number-vies-freelance/id1546039758) <a href='https://raw.githubusercontent.com/OdvojeniFerid/VIES/main/iPhone%2011%20Pro%20Maxgithub.png'>`Screenshot 1`</a> 
-  -  `2023` `iphone` `ipad` 
-  -  ☆`8` 
 - [Fabula](https://github.com/jasudev/FabulaItemsProvider): Share and communicate with developers around the world
   - [` App Store`](https://apps.apple.com/app/id1591155142) <a href='https://github.com/jasudev/FabulaItemsProvider/raw/main/Markdown/FabulaPlus_iOS.gif'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `macos` `ipad` 
