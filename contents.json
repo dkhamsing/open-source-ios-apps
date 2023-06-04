@@ -26624,16 +26624,16 @@
         "misc"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "Track your avocados",
-      "source": "https://github.com/davejacobsen/AvoKeepr",
+      "source": "https://github.com/opensourceios/AvoKeepr",
       "itunes": "https://apps.apple.com/us/app/avo-keepr/id1515186481",
       "license": "other",
       "date_added": "Aug 4 2021",
       "suggested_by": "@dkhamsing",
       "screenshots": [
-        "https://github.com/davejacobsen/AvoKeepr/raw/master/Screenshots/1.png"
+        "https://github.com/opensourceios/AvoKeepr/raw/master/Screenshots/1.png"
       ],
       "stars": 5,
       "updated": "2020-07-26 13:20:54 UTC"
