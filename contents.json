@@ -25473,17 +25473,18 @@
         "content",
         "widget"
       ],
-      "source": "https://github.com/OdvojeniFerid/DiscoverRandomQuotes",
+      "source": "https://github.com/opensourceios/DiscoverRandomQuotes",
       "itunes": "https://apps.apple.com/app/spontaneous-random-quotes/id1538265374",
       "license": "mit",
       "tags": [
         "swift",
         "swiftui",
         "widgetkit",
-        "ios14"
+        "ios14",
+        "archive"
       ],
       "screenshots": [
-        "https://github.com/OdvojeniFerid/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png"
+        "https://github.com/opensourceios/DiscoverRandomQuotes/raw/main/iPhone%2011%20Pro%20Maxgithub.png"
       ],
       "date_added": "Dec 8 2020",
       "suggested_by": "@FranicevicNikola",
@@ -26666,16 +26667,17 @@
       ],
       "tags": [
         "iphone",
-        "ipad"
+        "ipad",
+        "archive"
       ],
       "license": "mit",
-      "source": "https://github.com/OdvojeniFerid/VIES",
+      "source": "https://github.com/opensourceios/VIES",
       "itunes": "https://apps.apple.com/app/eu-vat-number-vies-freelance/id1546039758",
       "stars": 8,
       "date_added": "Aug 13 2021",
       "suggested_by": "@FranicevicNikola",
       "screenshots": [
-        "https://raw.githubusercontent.com/OdvojeniFerid/VIES/main/iPhone%2011%20Pro%20Maxgithub.png"
+        "https://raw.githubusercontent.com/opensourceios/VIES/main/iPhone%2011%20Pro%20Maxgithub.png"
       ],
       "updated": "2023-04-21 02:08:35 UTC"
     },
