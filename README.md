@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1493-green.svg) ![](https://img.shields.io/badge/Updated-June%20%204,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1493-green.svg) ![](https://img.shields.io/badge/Updated-June%20%205,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1116,7 +1116,7 @@ Jump to
   -  `2017` `swift` 
   -  ☆`11` 
 - [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner)
-  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/iphone_portrait.webp'>`Screenshot 1`</a>  <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/iphone_landscape.webp'>`Screenshot 2`</a>  <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/ipad_landscape.webp'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://raw.githubusercontent.com/ritwiktakkar/WordDefiner/main/ListingMaterials/Play%20Store%20Listing/Feature%20graphic.png'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`3` 
 - [WWDCast](https://github.com/sgl0v/WWDCast): The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast
@@ -4333,7 +4333,7 @@ https://flutter.dev — [back to top](#readme)
   -  `2023` `flutter` `dart` 
   -  ☆`1057` 
 - [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner)
-  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/iphone_portrait.webp'>`Screenshot 1`</a>  <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/iphone_landscape.webp'>`Screenshot 2`</a>  <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/ipad_landscape.webp'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://raw.githubusercontent.com/ritwiktakkar/WordDefiner/main/ListingMaterials/Play%20Store%20Listing/Feature%20graphic.png'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`3` 
 ### GraphQL 
