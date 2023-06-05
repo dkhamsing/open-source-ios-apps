@@ -528,7 +528,7 @@ Jump to
   -  `2017` `swift` 
   -  ☆`11` 
 - [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner)
-  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/iphone_portrait.webp'>`Screenshot 1`</a>  <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/iphone_landscape.webp'>`Screenshot 2`</a>  <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/ipad_landscape.webp'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://raw.githubusercontent.com/ritwiktakkar/WordDefiner/main/ListingMaterials/Play%20Store%20Listing/Feature%20graphic.png'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`3` 
 ## Emulator 
@@ -1975,7 +1975,7 @@ https://flutter.dev — [back to top](#readme)
   -  `2023` `swift` `ipad` `dart` 
   -  ☆`51` 
 - [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner)
-  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/iphone_portrait.webp'>`Screenshot 1`</a>  <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/iphone_landscape.webp'>`Screenshot 2`</a>  <a href='https://github.com/ritwiktakkar/WordDefiner/raw/main/screenshots/ipad_landscape.webp'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://raw.githubusercontent.com/ritwiktakkar/WordDefiner/main/ListingMaterials/Play%20Store%20Listing/Feature%20graphic.png'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`3` 
 ### GraphQL 
