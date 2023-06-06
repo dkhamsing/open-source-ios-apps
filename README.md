@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1493-green.svg) ![](https://img.shields.io/badge/Updated-June%20%205,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1493-green.svg) ![](https://img.shields.io/badge/Updated-June%20%206,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3820,10 +3820,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/66309582/171107988-02406cd6-b625-41d8-9f70-ef15b011d82d.jpeg'>`Screenshot 1`</a> 
   -  `2022` `swift` `arkit` `realitykit` 
   -  ☆`10` 
-- [Avo Keepr](https://github.com/davejacobsen/AvoKeepr): Track your avocados
-  - [` App Store`](https://apps.apple.com/us/app/avo-keepr/id1515186481) <a href='https://github.com/davejacobsen/AvoKeepr/raw/master/Screenshots/1.png'>`Screenshot 1`</a> 
-  -  `2020` `swift` 
-  -  ☆`5` 
 - [Basic Chat GPT 3.5/4](https://github.com/ynagatomo/BasicChatGPT): Converse with OpenAI Chat GPT
   -  `2023` `swift` `gpt` 
   -  ☆`47` 
