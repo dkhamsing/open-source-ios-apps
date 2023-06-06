@@ -48,6 +48,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [AssociationBot](https://github.com/alexsosn/AssociationBot)
 - [AsthmaHealth](https://github.com/ResearchKit/AsthmaHealth)
 - [audiograph](https://github.com/tkzic/audiograph)
+- [Avo Keepr](https://github.com/opensourceios/AvoKeepr)
 - [Awesome Mobile Conference](https://github.com/aweconf/iOS)
 - [Awesome Swift iOS App](https://github.com/matteocrippa/awesome-swift-ios)
 - [Balloon Burst](https://github.com/jamiely/ios-balloon-burst)
