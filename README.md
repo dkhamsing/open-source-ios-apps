@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1493-green.svg) ![](https://img.shields.io/badge/Updated-June%20%207,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1493-green.svg) ![](https://img.shields.io/badge/Updated-June%20%208,%202023-lightgrey.svg)
 
 Jump to
 
@@ -547,7 +547,7 @@ Jump to
   -  `2019` `swift` 
   -  ☆`355` 
 - [SwiftSnake](https://github.com/caleb0/SwiftSnake): Snake clone
-  -  <a href='https://i.imgur.com/mBi9Jfj.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/8578d8fd-fbeb-4628-acb2-6ae32d281d4c'>`Screenshot 1`</a> 
   -  `2016` `swift` 
   -  ☆`27` 
 - [SwiftUICraft](https://github.com/aheze/SwiftUICraft): Minecraft clone
@@ -1840,7 +1840,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2020` `swift` `iphone` `ipad` 
   -  ☆`458` 
 - [SwiftSnake](https://github.com/caleb0/SwiftSnake): Snake clone
-  -  <a href='https://i.imgur.com/mBi9Jfj.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/8578d8fd-fbeb-4628-acb2-6ae32d281d4c'>`Screenshot 1`</a> 
   -  `2016` `swift` 
   -  ☆`27` 
 ## Health 
