@@ -367,16 +367,13 @@
     {
       "title": "Kurozora",
       "category-ids": [
-        "content",
-        "media",
         "official"
       ],
       "tags": [
         "swift",
-        "TRON (Alamofire)",
-        "iOS",
-        "iPadOS",
-        "macOS",
+        "tron",
+        "ipad",
+        "macos",
         "anime",
         "manga",
         "game",
@@ -384,9 +381,9 @@
         "multilingual",
         "wiki"
       ],
-      "description": "Official Kurozora app for discovering and tracking anime, manga, game and music.",
+      "description": "Official app for discovering and tracking anime, manga, game, music",
       "source": "https://github.com/kurozora/kurozora-app",
-      "itunes": "https://apple.co/3CsQlKq",
+      "itunes": "https://apps.apple.com/app/kurozora/id1476153872",
       "screenshots": [
         "https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/1.jpg",
         "https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/2.jpg",
@@ -396,9 +393,9 @@
       ],
       "date_added": "June 11, 2023",
       "license": "gpl-3.0",
-      "suggested_by": "@Kurozora",
+      "suggested_by": "@kiritokatklian",
       "stars": 13,
-      "updated_at": "2023-06-11 13:00:00 UTC"
+      "updated": "2023-06-11 13:00:00 UTC"
     },
     {
       "title": "iSH",
