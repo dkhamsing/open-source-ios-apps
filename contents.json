@@ -30809,6 +30809,21 @@
       "suggested_by": "@ammarahm-ed",
       "stars": 6159,
       "updated": "2023-06-01 15:56:52 UTC"
-    }
+    },
+    {
+      "title": "Backyard Birds",
+      "description": "App with persistent data, interactive widgets, and an all new in-app purchase experience",  
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift", "swiftdata", "widget", "ios17", "iap", "swiftui"
+      ],
+      "source": "https://github.com/apple/sample-backyard-birds",
+      "license": "mit",
+      "date_added": "Jun 13 2023",
+      "suggested_by": "@dkhamsing",
+      "stars": 289       
+    }    
   ]
 }
