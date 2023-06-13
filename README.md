@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1494-green.svg) ![](https://img.shields.io/badge/Updated-June%2012,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1494-green.svg) ![](https://img.shields.io/badge/Updated-June%2013,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2422,7 +2422,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2018` `swift` `arkit` `banksy` 
   -  ☆`41` 
 - [Artsy](https://github.com/artsy/eigen): The art world in your pocket
-  - [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://i.imgur.com/5HxLvwG.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e40b21e-59fa-4026-ad3c-07e2a08bf4f5'>`Screenshot 1`</a> 
   -  `2023` `iphone` `ipad` `reactnative` `typescript` 
   -  ☆`3237` 
 - [Artsy Folio](https://github.com/artsy/energy): Artwork showcase
@@ -4461,7 +4461,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2017` `react native` 
   -  ☆`22` 
 - [Artsy](https://github.com/artsy/eigen): The art world in your pocket
-  - [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://i.imgur.com/5HxLvwG.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e40b21e-59fa-4026-ad3c-07e2a08bf4f5'>`Screenshot 1`</a> 
   -  `2023` `iphone` `ipad` `reactnative` `typescript` 
   -  ☆`3237` 
 - [Assemblies](https://github.com/buildreactnative/assemblies): Developer-focused Meetup clone
