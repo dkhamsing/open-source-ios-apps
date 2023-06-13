@@ -1218,7 +1218,7 @@ Image, video, audio, reading — [back to top](#readme)
  
 
 - [Artsy](https://github.com/artsy/eigen): The art world in your pocket
-  - [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://i.imgur.com/5HxLvwG.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e40b21e-59fa-4026-ad3c-07e2a08bf4f5'>`Screenshot 1`</a> 
   -  `2023` `iphone` `ipad` `reactnative` `typescript` 
   -  ☆`3237` 
 - [Artsy Folio](https://github.com/artsy/energy): Artwork showcase
@@ -2028,7 +2028,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
  
 
 - [Artsy](https://github.com/artsy/eigen): The art world in your pocket
-  - [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://i.imgur.com/5HxLvwG.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e40b21e-59fa-4026-ad3c-07e2a08bf4f5'>`Screenshot 1`</a> 
   -  `2023` `iphone` `ipad` `reactnative` `typescript` 
   -  ☆`3237` 
 - [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app)
