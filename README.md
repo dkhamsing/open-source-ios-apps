@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1495-green.svg) ![](https://img.shields.io/badge/Updated-June%2014,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1495-green.svg) ![](https://img.shields.io/badge/Updated-June%2015,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2942,7 +2942,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2022` `swift` `swiftui` `combine` 
   -  ☆`419` 
 - [newsline](https://github.com/ayush221b/newsline)
-  -  <a href='https://i.ibb.co/KWG2Fwx/article-details.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3122442c-d888-4062-9d51-5be9f074fa75'>`Screenshot 1`</a> 
   -  `2020` `flutter` `dart` 
   -  ☆`20` 
 - [Royal News](https://github.com/msal4/royal_news)
@@ -4270,7 +4270,7 @@ https://flutter.dev — [back to top](#readme)
   -  `2018` `flutter` `dart` `news-api` 
   -  ☆`568` 
 - [newsline](https://github.com/ayush221b/newsline)
-  -  <a href='https://i.ibb.co/KWG2Fwx/article-details.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3122442c-d888-4062-9d51-5be9f074fa75'>`Screenshot 1`</a> 
   -  `2020` `flutter` `dart` 
   -  ☆`20` 
 - [notes-app](https://github.com/bimsina/notes-app): Note taking
