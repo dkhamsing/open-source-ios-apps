@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1495-green.svg) ![](https://img.shields.io/badge/Updated-June%2015,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1495-green.svg) ![](https://img.shields.io/badge/Updated-June%2016,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2771,7 +2771,7 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  `2018` `swift` 
   -  ☆`31` 
 - [prankPro](https://github.com/huijimuhe/prankPro): Record a 6-second video while playing prank sounds
-  -  <a href='https://i.imgur.com/geiofMw.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/fdYYztR.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/sh4pL25.png'>`Screenshot 3`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/eb0767eb-1a6a-412b-8d06-623665a6ac6e'>`Screenshot 1`</a> 
   -  `2016` `objc` 
   -  ☆`258` 
 - [Swift Community](https://github.com/superarcswift/SwiftCommunity): Cocoa/Swift-related videos
