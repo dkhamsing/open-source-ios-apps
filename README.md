@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1495-green.svg) ![](https://img.shields.io/badge/Updated-June%2018,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1495-green.svg) ![](https://img.shields.io/badge/Updated-June%2019,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3108,7 +3108,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2021` `swift` 
   -  ☆`1803` 
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C)
-  -  <a href='https://i.imgur.com/anNR2DT.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fe1d6842-ecb6-4ab0-b47c-ab3611ffbd44'>`Screenshot 1`</a> 
   -  `2017` `cloudkit` 
   -  ☆`135` 
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift)
