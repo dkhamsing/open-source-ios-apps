@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1495-green.svg) ![](https://img.shields.io/badge/Updated-June%2019,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1495-green.svg) ![](https://img.shields.io/badge/Updated-June%2020,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3162,7 +3162,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2021` `swift` `machine-learning` `camera` 
   -  ☆`3` 
 - [Knock](https://github.com/MatheusCavalca/Knock): Use Accelerometer & background mode to create a feature of knocking your phone
-  -  <a href='https://i.imgur.com/PfuYfjU.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/be6673d7-7dfe-4c58-acdb-c5aa407d5b62'>`Screenshot 1`</a> 
   -  `2016` `objc` 
   -  ☆`25` 
 - [Layer-Parse](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example)
