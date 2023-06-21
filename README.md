@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1495-green.svg) ![](https://img.shields.io/badge/Updated-June%2020,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1495-green.svg) ![](https://img.shields.io/badge/Updated-June%2021,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3779,7 +3779,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2021` `swift` `swiftui` `openweathermap` 
   -  ☆`21` 
 - [SwiftLanguageWeather](https://github.com/JakeLin/SwiftLanguageWeather)
-  -  <a href='https://i.imgur.com/9Ofn3QC.jpg'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/5c358a47-e58c-4df0-b0bb-c8b2eb5f0213'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`5210` 
 - [TemperatureAtlas](https://github.com/jhatin94/tempatlas-swiftui): Uses Apple Maps combined with the OpenWeather API
