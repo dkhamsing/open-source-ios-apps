@@ -30818,6 +30818,20 @@
       "date_added": "Jun 13 2023",
       "suggested_by": "@dkhamsing",
       "stars": 289       
-    }    
+    },
+{
+      "title": "Hello World",
+      "description": "Use windows, volumes, and immersive spaces to teach people about the Earth - Sample code by Apple",  
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift", "xcode15", "visionos", "visionos1"
+      ],
+      "source": "https://developer.apple.com/documentation/visionOS/World",
+      "license": "other",
+      "date_added": "Jun 22 2023",
+      "suggested_by": "@dkhamsing"       
+    } 
   ]
 }
