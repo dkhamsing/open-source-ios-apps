@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1495-green.svg) ![](https://img.shields.io/badge/Updated-June%2021,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-June%2022,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3143,6 +3143,8 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/groue/GRDBCombine/master/Documentation/Demo/Screenshots/Demo1.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `combine` 
   -  ☆`222` 
+- [Hello World](https://developer.apple.com/documentation/visionOS/World): Use windows, volumes, and immersive spaces to teach people about the Earth - Sample code by Apple
+  - `swift` `xcode15` `visionos` `visionos1` 
 - [Homescreen Quick Actions](https://github.com/StewartLynch/Homescreen-Quick-Actions)
   -  `2022` `swift` 
   -  ☆`1` 
