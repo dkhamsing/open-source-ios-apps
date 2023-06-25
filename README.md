@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-June%2023,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-June%2025,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3853,7 +3853,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2023` `swift` `aws amplify` 
   -  ☆`81` 
 - [CardDecks](https://github.com/aharren/CardDecks): Configurable card decks
-  -  <a href='https://i.imgur.com/h2ybAgQ.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/014ac33b-7bb4-4495-a611-5b49479c12b5'>`Screenshot 1`</a> 
   -  `2021` `objc` 
   -  ☆`40` 
 - [CarSample](https://github.com/below/CarSample): Try out CarPlay apps in the iOS Simulator without a CarPlay entitlement
