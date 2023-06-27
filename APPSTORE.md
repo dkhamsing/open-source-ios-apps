@@ -1577,7 +1577,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2020` `swift` 
   -  ☆`4401` 
 - [WireGuard](https://github.com/WireGuard/wireguard-apple): WireGuard: fast, modern, secure VPN tunnel (less battery consumption than OpenVPN) 
-  - [` App Store`](https://apps.apple.com/app/wireguard/id1441195209) <a href='https://i.imgur.com/79eUdhK.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/JHQRakO.png'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/app/wireguard/id1441195209) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f9e45058-bd35-4626-b5c9-12f8ba174f63'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`693` 
 ### Password 
