@@ -26,7 +26,7 @@
 22. [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner)
 23. [Articles](https://github.com/Sophiestication/Articles)
 24. [ShortenMyURL](https://github.com/ritwiktakkar/shorten_my_URL)
-25. [Math Metrix](https://github.com/rwema3/Math-Metrix-App)
+25. [Math Matrix](https://github.com/rwema3/Math-Matrix-App)
 26. [Tipulator](https://github.com/Sophiestication/Tipulator)
 27. [GSYGithubApp](https://github.com/CarGuo/gsy_github_app_flutter)
 28. [WhatTodo](https://github.com/burhanrashid52/WhatTodo)
