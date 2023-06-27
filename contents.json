@@ -30384,15 +30384,15 @@
       "updated": "2023-02-01 21:24:58 UTC"
     },
     {
-      "title": "Math Metrix",
-      "description": "Math game to improve your math skills in a fun way",
+      "title": "Math Matrix",
+      "description": "Game to improve your math skills in a fun way",
       "category-ids": [
         "flutter"
       ],
       "screenshots": [
         "https://user-images.githubusercontent.com/52289151/155140417-d18d0716-c84f-43c8-8e9e-cdbdd17a950a.JPG"
       ],
-      "source": "https://github.com/rwema3/Math-Metrix-App",
+      "source": "https://github.com/rwema3/Math-Matrix-App",
       "tags": [
         "flutter",
         "dart"
