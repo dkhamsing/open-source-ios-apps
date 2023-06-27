@@ -4260,7 +4260,7 @@ https://flutter.dev — [back to top](#readme)
 - [Invoice Ninja](https://github.com/invoiceninja/admin-portal): https://www.invoiceninja.com/
   -  `2023` `flutter` `dart` 
   -  ☆`1350` 
-- [Math Metrix](https://github.com/rwema3/Math-Metrix-App): Math game to improve your math skills in a fun way
+- [Math Matrix](https://github.com/rwema3/Math-Matrix-App): Game to improve your math skills in a fun way
   -  <a href='https://user-images.githubusercontent.com/52289151/155140417-d18d0716-c84f-43c8-8e9e-cdbdd17a950a.JPG'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`43` 
