@@ -27327,27 +27327,6 @@
       "updated": "2021-11-28 16:40:34 UTC"
     },
     {
-      "title": "Brain Marks",
-      "description": "Organize your tweets",
-      "category-ids": [
-        "misc"
-      ],
-      "tags": [
-        "swift",
-        "aws amplify"
-      ],
-      "license": "mit",
-      "source": "https://github.com/mikaelacaron/brain-marks",
-      "itunes": "https://apps.apple.com/us/app/brain-marks/id1577423925",
-      "date_added": "Nov 19 2021",
-      "suggested_by": "@dkhamsing",
-      "screenshots": [
-        "https://user-images.githubusercontent.com/22946902/135545890-6afb5e3f-4b04-4957-81b7-364f9f229080.PNG"
-      ],
-      "stars": 81,
-      "updated": "2023-02-04 05:58:03 UTC"
-    },
-    {
       "title": "Öppna Skolplattformen",
       "description": "For parents to check child information using the city of Stockholm's school platform",
       "category-ids": [
