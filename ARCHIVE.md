@@ -64,6 +64,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Bombus Pomodoro](https://github.com/opensourceios/Bombus)
 - [Boostnote](https://github.com/BoostIO/boostnote-mobile)
 - [Borrowed Books](https://github.com/MatheusCavalca/RenovaLivrosUFRGS)
+- [Brain Marks](https://github.com/mikaelacaron/brain-marks)
 - [Brew](https://github.com/contentful/ContentfulWatchKitExample)
 - [Bridges](https://github.com/zgrossbart/bridges)
 - [Buck Tracker](https://github.com/hkalexling/Buck_Tracker)
