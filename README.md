@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-June%2027,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-June%2028,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3848,10 +3848,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/nsoojin/BookStore/master/README_assets/whats-new.gif'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/nsoojin/BookStore/master/README_assets/search.gif'>`Screenshot 2`</a> 
   -  `2021` `swift` 
   -  ☆`218` 
-- [Brain Marks](https://github.com/mikaelacaron/brain-marks): Organize your tweets
-  - [` App Store`](https://apps.apple.com/us/app/brain-marks/id1577423925) <a href='https://user-images.githubusercontent.com/22946902/135545890-6afb5e3f-4b04-4957-81b7-364f9f229080.PNG'>`Screenshot 1`</a> 
-  -  `2023` `swift` `aws amplify` 
-  -  ☆`81` 
 - [CardDecks](https://github.com/aharren/CardDecks): Configurable card decks
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/014ac33b-7bb4-4495-a611-5b49479c12b5'>`Screenshot 1`</a> 
   -  `2021` `objc` 
