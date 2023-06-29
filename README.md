@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-June%2028,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-June%2029,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2590,7 +2590,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2020` `swift` `tmdb` 
   -  ☆`8` 
 - [Words](https://github.com/soffes/words): Thesaurus
-  -  <a href='https://i.imgur.com/84QPJ8v.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/614294c0-e93e-47c8-8131-acb55a3c97cb'>`Screenshot 1`</a> 
   -  `2016` `objc` 
   -  ☆`47` 
 - [WWDC Students](https://github.com/wwdc): WWDC scholarship entries
