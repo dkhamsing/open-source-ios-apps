@@ -2594,7 +2594,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2016` `objc` 
   -  ☆`47` 
 - [WWDC Students](https://github.com/wwdc): WWDC scholarship entries
-  -  <a href='https://i.imgur.com/EsK2V67.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/vmrzCDz.png'>`Screenshot 2`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/bb0d2903-eaec-4e84-a6f0-b0c94390bc3a'>`Screenshot 1`</a> 
   - `swift` 
   -  ☆`100` 
 - [xkcd](https://github.com/paulrehkugler/xkcd)
