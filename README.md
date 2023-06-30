@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-June%2029,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-June%2030,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1168,7 +1168,7 @@ Jump to
   -  `2023` `realm` 
   -  ☆`5251` 
 - [RetroArch](https://github.com/libretro/RetroArch): Comprehensive emulator frontend with support for NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more
-  -  <a href='https://i.imgur.com/MUNX0Mq.jpg'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/76548a8f-626c-4cc9-93f1-962782a177b1'>`Screenshot 1`</a> 
   -  `2023` `c` 
   -  ☆`8022` 
 ## Event 
@@ -3720,7 +3720,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2021` `flutter` `dart` 
   -  ☆`830` 
 - [MetricTime](https://github.com/MoralCode/MetricTime): Displays 'Metric Time' for pranking friends on trips to countries that use the metric system
-  -  <a href='https://i.imgur.com/N2QeLpm.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/f33KAQY.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/EDZFKpP.png'>`Screenshot 3`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/05dffc70-0b1a-4dac-858a-cb3c69e39b73'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`4` 
 - [Smart Traveller (UberGuide)](https://github.com/hACKbUSTER/UberGuide-iOS): Simple & comfortable way to explore a city
