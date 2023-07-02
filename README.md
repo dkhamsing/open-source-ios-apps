@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%20%201,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%20%202,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3248,7 +3248,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`3616` 
 - [SwiftStrike](https://developer.apple.com/documentation/realitykit/swiftstrike_creating_a_game_with_realitykit): Sample code by Apple
-  -  <a href='https://twitter.com/oscarfalmer/status/1304457111318003714'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/519f3775-e3cf-40a3-9681-9d46b9659344'>`Screenshot 1`</a> 
   - `swift` `ios14` `realitykit` `game` 
 - [SwiftUI Concurrency Essentials](https://github.com/peterfriese/SwiftUI-Concurrency-Essentials)
   -  `2022` `swift` `swiftui` 
