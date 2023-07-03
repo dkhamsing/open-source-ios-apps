@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%20%202,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%20%203,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1116,7 +1116,7 @@ Jump to
   -  `2017` `swift` 
   -  ☆`11` 
 - [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner)
-  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://raw.githubusercontent.com/ritwiktakkar/WordDefiner/main/ListingMaterials/Play%20Store%20Listing/Feature%20graphic.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://camo.githubusercontent.com/61fa9900294eada789ea109791848755cdc3514c0e34d502427ad767548dc114/68747470733a2f2f6973312d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c65536f757263653131362f76342f39382f35352f35302f39383535353063372d376238322d613731372d326630392d6338356536383362313961352f66366163376137322d623365642d343434322d393066312d6364636236303031303965375f73637265656e73686f74732d362e352e3030322e6a7065672f3630307830772e77656270'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`3` 
 - [WWDCast](https://github.com/sgl0v/WWDCast): The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast
@@ -4334,7 +4334,7 @@ https://flutter.dev — [back to top](#readme)
   -  `2023` `flutter` `dart` 
   -  ☆`1061` 
 - [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner)
-  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://raw.githubusercontent.com/ritwiktakkar/WordDefiner/main/ListingMaterials/Play%20Store%20Listing/Feature%20graphic.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://camo.githubusercontent.com/61fa9900294eada789ea109791848755cdc3514c0e34d502427ad767548dc114/68747470733a2f2f6973312d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c65536f757263653131362f76342f39382f35352f35302f39383535353063372d376238322d613731372d326630392d6338356536383362313961352f66366163376137322d623365642d343434322d393066312d6364636236303031303965375f73637265656e73686f74732d362e352e3030322e6a7065672f3630307830772e77656270'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`3` 
 ### GraphQL 
