@@ -17013,6 +17013,7 @@
       "suggested_by": "@vpeschenkov",
       "updated": "2018-02-13 15:49:07 UTC"
     },
+
     {
       "title": "Snowflake",
       "category-ids": [
@@ -17034,6 +17035,30 @@
       "suggested_by": "@vpeschenkov",
       "updated": "2019-03-07 19:03:55 UTC"
     },
+
+    {
+      "title": "ChartingLibray",
+      "category-ids": [
+        "sample",
+        "js"
+      ],
+      "description": "This is how to add charting_library to your flutter application with JS api.",
+      "source": "https://github.com/rwema3/Charting-library-flutter",
+      "license": "mpl-2.0",
+      "stars": 2,
+      "tags": [
+        "flutter",
+        "api"
+        
+      ],
+      "screenshots": [
+        "https://github.com/rwema3/Charting-library-flutter/blob/main/docs/images/screenshot-android.pngf"
+      ],
+      "date_added": "Jul 3 2023",
+      "suggested_by": "@rwema3",
+      "updated": "2022-05-14 19:03:55 UTC"
+    },
+
     {
       "title": "iVim",
       "category-ids": [
@@ -18491,6 +18516,10 @@
       "suggested_by": "@marty-suzuki",
       "updated": "2018-12-12 16:17:42 UTC"
     },
+
+    
+
+
     {
       "title": "Danbooru Lite",
       "category-ids": [
@@ -18514,6 +18543,9 @@
       "stars": 11,
       "updated": "2020-05-23 06:58:03 UTC"
     },
+
+
+
     {
       "title": "Model2App Test App",
       "category-ids": [
