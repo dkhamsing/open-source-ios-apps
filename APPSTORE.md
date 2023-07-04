@@ -1963,7 +1963,7 @@ https://flutter.dev — [back to top](#readme)
   -  `2021` `flutter` `dart` 
   -  ☆`183` 
 - [ShortenMyURL](https://github.com/ritwiktakkar/shorten_my_URL): Elegant URL shortener
-  - [` App Store`](https://apps.apple.com/app/shortenmyurl/id1525888533) <a href='https://github.com/ritwiktakkar/shorten_my_URL/raw/master/screenshots/iphone_portrait.webp'>`Screenshot 1`</a>  <a href='https://github.com/ritwiktakkar/shorten_my_URL/raw/master/screenshots/iphone_landscape.webp'>`Screenshot 2`</a>  <a href='https://github.com/ritwiktakkar/shorten_my_URL/raw/master/screenshots/ipad_landscape.webp'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/shortenmyurl/id1525888533) <a href='https://camo.githubusercontent.com/3af068c2bd5a94577bab34bcc261f391359145d5d5d2c2009ce139694e9f81d8/68747470733a2f2f6973312d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c65536f757263653131362f76342f39342f39622f63382f39343962633862632d663866622d616632312d386263622d3166353936666463653466372f61636130623762652d616336622d343066322d386163342d3139656164363536626566645f73637265656e73686f74732d362e352e3030312e6a7065672f3630307830772e77656270'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
 - [Twake](https://github.com/linagora/Twake-Mobile): Team channels, direct chat, task management, drive and calendar; all in one place
   - <a href=https://twake.app>`https://twake.app`</a>
