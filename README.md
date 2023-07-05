@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%20%204,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%20%205,%202023-lightgrey.svg)
 
 Jump to
 
@@ -470,7 +470,7 @@ Jump to
   -  `2023` `swift` 
   -  ☆`3110` 
 - [2048](https://github.com/danqing/2048)
-  -  <a href='https://i.imgur.com/3pZRJ82.jpg'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/aa4dfd0d-8e00-4dbb-9f2e-7bcb55dc2ab3'>`Screenshot 1`</a> 
   -  `2023` `spritekit` `objc` 
   -  ☆`1112` 
 - [Apple Pay Cash Animation](https://github.com/jtrivedi/Apple-Cash-Animation)
@@ -1573,7 +1573,7 @@ File Management — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`3110` 
 - [2048](https://github.com/danqing/2048)
-  -  <a href='https://i.imgur.com/3pZRJ82.jpg'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/aa4dfd0d-8e00-4dbb-9f2e-7bcb55dc2ab3'>`Screenshot 1`</a> 
   -  `2023` `spritekit` `objc` 
   -  ☆`1112` 
 - [2048 SwiftUI](https://github.com/unixzii/SwiftUI-2048): 2048 written with SwiftUI
@@ -1788,7 +1788,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 
 - [2048](https://github.com/danqing/2048)
-  -  <a href='https://i.imgur.com/3pZRJ82.jpg'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/aa4dfd0d-8e00-4dbb-9f2e-7bcb55dc2ab3'>`Screenshot 1`</a> 
   -  `2023` `spritekit` `objc` 
   -  ☆`1112` 
 - [Asteroid+](https://github.com/ChoiysApple/Asteroids-Plus): Remake of Retro Asteroid game with Endless gameplay
