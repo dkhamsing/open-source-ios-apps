@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%20%206,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%20%207,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3954,7 +3954,6 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/mathee/id1406084758)
   -  `2023` `swift` 
 - [Mirror++](https://github.com/nathanmsmith/MirrorPlusPlus): Minimalist mirror
-  -  <a href='https://i.imgur.com/i2nVDNQ.png'>`Screenshot 1`</a> 
   -  `2018` `swift` 
   -  ☆`12` 
 - [My Little Popcat](https://github.com/ChoiysApple/My-Little-Popcat): Relaxing and fun pop cat
