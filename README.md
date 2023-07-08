@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%20%207,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%20%208,%202023-lightgrey.svg)
 
 Jump to
 
@@ -606,7 +606,7 @@ Jump to
   -  ☆`260` 
 - [Element](https://github.com/vector-im/element-ios): Secure decentralised chat/VoIP
   - <a href=https://element.io>`https://element.io`</a>
-  - [` App Store`](https://apps.apple.com/app/element/id1083446067) <a href='https://i.imgur.com/hfxP5xA.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/element/id1083446067) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d61605e1-7fee-440d-be53-b96b9af0d03c'>`Screenshot 1`</a> 
   -  `2023` `swift` `objc` `webrtc` `ipad` `cmark` 
   -  ☆`1628` 
 - [Falcon Messenger](https://github.com/RMizin/FalconMessenger): Fast and beautiful cloud-based messaging app
@@ -4670,7 +4670,7 @@ https://realm.io/ — [back to top](#readme)
   -  ☆`148` 
 - [Element](https://github.com/vector-im/element-ios): Secure decentralised chat/VoIP
   - <a href=https://element.io>`https://element.io`</a>
-  - [` App Store`](https://apps.apple.com/app/element/id1083446067) <a href='https://i.imgur.com/hfxP5xA.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/element/id1083446067) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d61605e1-7fee-440d-be53-b96b9af0d03c'>`Screenshot 1`</a> 
   -  `2023` `swift` `objc` `webrtc` `ipad` `cmark` 
   -  ☆`1628` 
 - [how-much](https://github.com/dkhamsing/how-much): Record how much things cost
