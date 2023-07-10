@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%20%209,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2010,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2684,7 +2684,7 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  `2019` `swift` 
   -  ☆`115` 
 - [PixPic](https://github.com/Yalantis/PixPic): Photo editing
-  -  <a href='https://i.imgur.com/c8ahfkv.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/418dc9f3-3670-4074-8cd8-af7397b8aa58'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`1322` 
 - [PrivacyBlur](https://github.com/MATHEMA-GmbH/privacyblur): Obfuscate sensitive data in your pictures before sharing them online. 
