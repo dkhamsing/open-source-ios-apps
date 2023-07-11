@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2010,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2011,%202023-lightgrey.svg)
 
 Jump to
 
@@ -367,7 +367,7 @@ Jump to
   -  `2021` `swift` `ipad` 
   -  ☆`6` 
 - [Coffee Ratio](https://github.com/johnmahlon/Coffee-Ratio): Calculates grams of water needed given grams of coffee based off ratio chosen
-  -  <a href='https://i.imgur.com/rQxOsqO.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6923f2e9-33c1-4930-bca3-74a1d83dbbe4'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`76` 
 - [Currency Converter](https://github.com/tirupati17/currency-converter-swift3.0-viper): Live foreign exchange rates & currency calculator
