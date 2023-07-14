@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2011,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2014,%202023-lightgrey.svg)
 
 Jump to
 
@@ -711,7 +711,7 @@ Jump to
   -  `2023` `javascript` `cordova` `iphone` `ipad` 
   -  ☆`5360` 
 - [Vapor Chat](https://github.com/vapor-community/chat-ios-example): Basic realtime chat project using Vapor on the server
-  -  <a href='https://i.imgur.com/DuQSjpY.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3be268b6-1457-4842-85f6-06a7d19ef527'>`Screenshot 1`</a> 
   -  `2020` `swift` `starscream` 
   -  ☆`67` 
 - [Wire](https://github.com/wireapp/wire-ios): Modern, private communications with crystal clear voice, video, group chats - always encrypted
