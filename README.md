@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2014,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2016,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1654,7 +1654,7 @@ File Management — [back to top](#readme)
   -  ☆`9589` 
 - [Frogatto & Friends](https://github.com/frogatto/frogatto): Action-adventure game, starring a certain quixotic frog
   - <a href=https://frogatto.com/>`https://frogatto.com/`</a>
-  -  <a href='https://i.imgur.com/vMp5j2Y.gif'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ace8b2cf-38d7-45c5-b354-6652cd9a21b2'>`Screenshot 1`</a> 
   -  `2023` `objc` 
   -  ☆`551` 
 - [Frotz](https://github.com/ifrotz/iosfrotz): Play hundreds of free works of Interactive Fiction (text adventure games)
