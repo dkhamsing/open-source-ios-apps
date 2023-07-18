@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2016,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2018,%202023-lightgrey.svg)
 
 Jump to
 
@@ -5340,7 +5340,7 @@ https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme)
 
 - [Articles](https://github.com/pedrohperalta/Articles-iOS-VIPER): Fetch and display a list of articles
   - <a href=https://cheesecakelabs.com/blog/ios-project-architecture-using-viper/>`https://cheesecakelabs.com/blog/ios-project-architecture-using-viper/`</a>
-  -  <a href='https://i.imgur.com/fEPFBzr.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0aa1867f-befc-4ded-ac3e-d68cd69d6a58'>`Screenshot 1`</a> 
   -  `2017` `swift` `rest` 
   -  ☆`265` 
 - [Contacts](https://github.com/sebastianwr/VIPER-Persons)
