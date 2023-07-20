@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2018,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2020,%202023-lightgrey.svg)
 
 Jump to
 
@@ -291,7 +291,7 @@ Jump to
   -  `2022` `swift` 
   -  ☆`1988` 
 - [try! Swift NYC](https://github.com/tryswift/trySwiftNYC)
-  -  <a href='https://i.imgur.com/xyu7t89.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/Jes7vLF.png'>`Screenshot 2`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f0740ff3-b5e2-4ee7-8cab-9f1310af829f'>`Screenshot 1`</a> 
   -  `2018` `swift` `toucan` `realm` 
   -  ☆`139` 
 - [US NewsFeed](https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM)
@@ -1214,7 +1214,7 @@ Jump to
   -  `2018` `swift` 
   -  ☆`12` 
 - [try! Swift NYC](https://github.com/tryswift/trySwiftNYC)
-  -  <a href='https://i.imgur.com/xyu7t89.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/Jes7vLF.png'>`Screenshot 2`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f0740ff3-b5e2-4ee7-8cab-9f1310af829f'>`Screenshot 1`</a> 
   -  `2018` `swift` `toucan` `realm` 
   -  ☆`139` 
 - [try! Swift Tokyo](https://github.com/tryswift/trySwiftAppFinal)
@@ -4697,7 +4697,7 @@ https://realm.io/ — [back to top](#readme)
   -  `2017` `swift` 
   -  ☆`51` 
 - [try! Swift NYC](https://github.com/tryswift/trySwiftNYC)
-  -  <a href='https://i.imgur.com/xyu7t89.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/Jes7vLF.png'>`Screenshot 2`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f0740ff3-b5e2-4ee7-8cab-9f1310af829f'>`Screenshot 1`</a> 
   -  `2018` `swift` `toucan` `realm` 
   -  ☆`139` 
 - [try! Swift Tokyo](https://github.com/tryswift/trySwiftAppFinal)
