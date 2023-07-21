@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2020,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2021,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1820,7 +1820,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2017` `swift` `spritekit` 
   -  ☆`92` 
 - [Mergel](https://github.com/snazzware/Mergel): Shape matching puzzle
-  -  <a href='https://i.imgur.com/978TVq5.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/02de2a60-25b1-4941-bf68-843911e8b77d'>`Screenshot 1`</a> 
   -  `2016` `swift` 
   -  ☆`10` 
 - [Oh My Plane](https://github.com/softdevstory/OhMyPlane): A game like flappy bird
