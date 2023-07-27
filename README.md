@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2025,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1496-green.svg) ![](https://img.shields.io/badge/Updated-July%2027,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4087,7 +4087,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2023` `swift` `coredata` 
   -  ☆`19` 
 - [Listr](https://github.com/etchsaleh/Listr): Wish list
-  -  <a href='https://i.imgur.com/CJsIdOS.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/rLX3Fsf.png'>`Screenshot 2`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/024e3be5-cf9e-45f0-a65b-e2d5ea45fd13'>`Screenshot 1`</a> 
   -  `2017` `swift` 
   -  ☆`17` 
 - [MoneyPlus](https://github.com/SeekingMini/MoneyPlus): Help you record income and expense
