@@ -30828,6 +30828,19 @@
       "license": "other",
       "date_added": "Jun 22 2023",
       "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Rise — Sleep Companion",
+      "category-ids": ["health"],
+      "description": "Smart Personal Sleep Schedule App. Reimagine your mornings with Rise, your personal smart sleep companion! Tailor your own sleep schedule, wake up serenely to gentle nature sounds, and track your progress seamlessly.",
+      "source": "https://github.com/VladimirBrejcha/Rise",
+      "homepage": "http://rise.vladimirbrejcha.com",
+      "itunes": "https://apps.apple.com/app/rise-sleep-companion/id6451386327",
+      "license": "mit",
+      "tags": ["swift"],
+      "screenshots": ["https://github.com/VladimirBrejcha/Rise/assets/44097057/f680e08c-2c2b-4293-a1cd-2bd342f284b0"],
+      "date_added": "Jul 29 2023",
+      "suggested_by": "@vladimirbrejcha"
     }
   ]
 }
