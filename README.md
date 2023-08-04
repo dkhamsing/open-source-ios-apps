@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1497-green.svg) ![](https://img.shields.io/badge/Updated-July%2031,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1498-green.svg) ![](https://img.shields.io/badge/Updated-August%20%204,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1424,6 +1424,8 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/owncloud/id1359583808) <a href='https://owncloud.com/wp-content/uploads/2019/05/ownCloud-iOS-app-store-parent-file-listing.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `ipad` 
   -  ☆`179` 
+- [Proton Drive](https://github.com/ProtonDriveApps/ios-drive): End-to-end encrypted cloud storage made by Proton AG
+  - `swift` 
 - [Seafile Pro](https://github.com/haiwen/seafile-iOS): App for Seafile self-hosted file sharing
   - <a href=https://www.seafile.com/en/home/>`https://www.seafile.com/en/home/`</a>
   - [` App Store`](https://apps.apple.com/app/id639202512) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ed/9e/11/ed9e1114-3a30-ae5d-5342-db867d9dd93b/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/c2/9c/05/c29c05cd-708f-bd7b-95d2-a6c45fdbd907/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/97/06/a2/9706a2bd-d71e-6c9f-8250-354e33c134c4/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/38/da/c3/38dac3d5-8c7f-5a76-4c34-e2825772bc73/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
