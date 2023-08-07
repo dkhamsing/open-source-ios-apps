@@ -30864,6 +30864,21 @@
       "suggested_by": "@zhangyoufu",
       "stars": 61,
       "updated": "2023-07-05 17:51:32 UTC"
-    }
+    },
+{
+      "title": "Immich",
+      "category-ids": [
+        "flutter"
+      ],
+      "description": "Self-hosted photo and video backup",
+      "source": "https://github.com/immich-app/immich",
+      "license": "mit",
+      "tags": [
+        "flutter"
+      ],
+      "suggested_by": "@dkhamsing",
+      "stars": 16000,
+      
+    }    
   ]
 }
