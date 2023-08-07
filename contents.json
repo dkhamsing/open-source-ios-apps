@@ -30865,7 +30865,7 @@
       "stars": 61,
       "updated": "2023-07-05 17:51:32 UTC"
     },
-{
+    {
       "title": "Immich",
       "category-ids": [
         "flutter"
@@ -30877,8 +30877,7 @@
         "flutter"
       ],
       "suggested_by": "@dkhamsing",
-      "stars": 16000,
-      
+      "stars": 16000      
     }    
   ]
 }
