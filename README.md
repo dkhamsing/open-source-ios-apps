@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1498-green.svg) ![](https://img.shields.io/badge/Updated-August%20%205,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1499-green.svg) ![](https://img.shields.io/badge/Updated-August%20%207,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4257,6 +4257,9 @@ https://flutter.dev — [back to top](#readme)
 - [Hangman](https://github.com/jerald-jacob/Flutter-Apps)
   -  `2021` `flutter` `dart` 
   -  ☆`19` 
+- [Immich](https://github.com/immich-app/immich): Self-hosted photo and video backup
+  - `flutter` 
+  -  ☆`16000` 
 - [inKino](https://github.com/roughike/inKino): Browse movies and showtimes for Finnkino cinemas
   - [` App Store`](https://apps.apple.com/app/inkino/id1367181450) <a href='https://github.com/roughike/inKino/raw/development/assets/screenshots/now_in_theaters.png'>`Screenshot 1`</a> 
   -  `2022` `flutter` `dart` 
