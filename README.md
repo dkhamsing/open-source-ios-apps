@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1499-green.svg) ![](https://img.shields.io/badge/Updated-August%20%207,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%20%208,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2967,6 +2967,10 @@ https://newsapi.org/ — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [FeedFlow](https://github.com/prof18/feed-flow): Minimalistic and opinionated RSS Reader
+  -  <a href='https://github.com/prof18/feed-flow/raw/main/assets/banners.png'>`Screenshot 1`</a> 
+  - `swift` `kotlin` `swiftui` `jetpack` 
+  -  ☆`85` 
 - [Feeds4U](https://github.com/EvgenyKarkan/Feeds4U): Well architected RSS reader
   -  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/3c/80/9c/3c809cda-b830-dee3-0b1d-8fa809c84529/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/90/04/3f/90043fda-3ba9-1d5e-d20a-89d1a385b527/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/ce/99/4d/ce994dcb-9ab0-5ba8-9ef1-a5a396280dbb/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple3/v4/4d/6d/d7/4d6dd753-77c8-8068-bf2a-c2d170fdc3d0/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2023` `swift` 
