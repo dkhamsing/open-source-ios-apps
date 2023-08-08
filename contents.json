@@ -30878,6 +30878,21 @@
       ],
       "suggested_by": "@dkhamsing",
       "stars": 16000      
-    }    
+    },
+    {
+      "title": "FeedFlow",
+      "category-ids": [
+        "rss"
+      ],
+      "description": "Minimalistic and opinionated RSS Reader",
+      "source": "https://github.com/prof18/feed-flow",
+      "license": "apache-2.0",
+      "tags": [
+        "kotlin", "swiftui", "jetpack", "swift"
+      ],
+      "screenshots": ["https://github.com/prof18/feed-flow/raw/main/assets/banners.png"],
+      "suggested_by": "@dkhamsing",
+      "stars": 85      
+    }       
   ]
 }
