@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%20%208,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%20%209,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3685,7 +3685,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2022` `react-native` 
   -  ☆`833` 
 - [Thoughtless](https://github.com/yohannes/Thoughtless): Quickly jot down thoughts, supports Markdown
-  -  <a href='https://i.imgur.com/263faeN.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/54202a63-75ba-49a8-b607-e337a1ea7021'>`Screenshot 1`</a> 
   -  `2017` `swift` `swifthexcolors` `cfalertviewcontroller` 
   -  ☆`26` 
 ## Timer 
