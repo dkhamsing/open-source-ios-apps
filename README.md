@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%20%209,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%2010,%202023-lightgrey.svg)
 
 Jump to
 
@@ -928,7 +928,7 @@ Jump to
   -  `2023` `swift` `swiftui` `asyncswift` 
   -  ☆`50` 
 - [GitHawk](https://github.com/GitHawkApp/GitHawk): GitHub project manager
-  - [` App Store`](https://apps.apple.com/app/githawk-for-github/id1252320249) <a href='https://i.imgur.com/XwW4MI2.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/sFgTFJX.png'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/app/githawk-for-github/id1252320249) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9ac0b1ab-8f34-4b16-a4f5-261ecb7ae7a3'>`Screenshot 1`</a> 
   -  `2022` `swift` `iglistkit` `snapkit` `alamofire` 
   -  ☆`2864` 
 - [GitHubSearch](https://github.com/Karambirov/GitHubSearch): GitHub client written using MVVM without Rx and Interface Builder
