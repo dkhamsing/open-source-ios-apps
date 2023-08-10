@@ -428,7 +428,7 @@ Jump to
   -  `2023` `swift` `swiftui` `asyncswift` 
   -  ☆`50` 
 - [GitHawk](https://github.com/GitHawkApp/GitHawk): GitHub project manager
-  - [` App Store`](https://apps.apple.com/app/githawk-for-github/id1252320249) <a href='https://i.imgur.com/XwW4MI2.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/sFgTFJX.png'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/app/githawk-for-github/id1252320249) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9ac0b1ab-8f34-4b16-a4f5-261ecb7ae7a3'>`Screenshot 1`</a> 
   -  `2022` `swift` `iglistkit` `snapkit` `alamofire` 
   -  ☆`2864` 
 - [GitTime](https://github.com/87kangsw/GitTime): Show your GitHub contributions and activities
