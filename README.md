@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%2010,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%2011,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3774,7 +3774,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2021` `swift` `typhoon` 
   -  ☆`351` 
 - [SimpleWeather](https://github.com/rnystrom/SimpleWeather)
-  -  <a href='https://i.imgur.com/yN9A2oJ.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/oODNivj.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/vjf1Bsr.png'>`Screenshot 3`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3cdb6944-0019-4d4f-a68b-4b7bf7da01bb'>`Screenshot 1`</a>  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/38da29d2-cb53-46c3-85b1-78ee86a3c223'>`Screenshot 2`</a> 
   -  `2017` `swift` `iglistkit` `openweathermap` 
   -  ☆`83` 
 - [SmileWeather](https://github.com/liu044100/SmileWeather)
