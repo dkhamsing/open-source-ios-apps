@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%2012,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%2013,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2179,7 +2179,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   -  `2022` `swift` 
   -  ☆`12` 
 - [iPokeGo](https://github.com/istornz/iPokeGo): Map Pokemon around you!
-  -  <a href='https://i.imgur.com/CQ98cNq.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9813a1f5-527d-4cba-b674-8d2fb6038ab7'>`Screenshot 1`</a> 
   -  `2022` `objc` `ipad` 
   -  ☆`638` 
 - [KartaView](https://github.com/kartaview/ios): Collect OpenStreetView data
