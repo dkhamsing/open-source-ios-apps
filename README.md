@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%2014,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%2015,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3146,7 +3146,7 @@ https://newsapi.org/ — [back to top](#readme)
 - [Exploring SwiftUI Sample Apps by Apple](https://developer.apple.com/tutorials/sample-apps)
   - `swift` 
 - [Face Landmarks Detection](https://github.com/mattlawer/FaceLandmarksDetection): Find facial features such as face contour, eyes, mouth and nose in an image
-  -  <a href='https://i.imgur.com/MvyUmm8.gif'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9e0ac896-083f-417f-acf5-98db8a903bb9'>`Screenshot 1`</a> 
   -  `2018` `swift` `vision` 
   -  ☆`146` 
 - [FriendlyEats for Cloud Firestore](https://github.com/firebase/friendlyeats-ios)
