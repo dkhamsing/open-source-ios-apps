@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%2015,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%2016,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3221,7 +3221,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2021` `swift` 
   -  ☆`2024` 
 - [Reminders](https://github.com/tiagomartinho/Reminders): An application to demonstrate how to implement a Clean Architecture
-  -  <a href='https://i.imgur.com/NYupyuB.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/NInDwlx.png'>`Screenshot 2`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/8d7407ba-2d79-4e06-82e0-6a7f4e4285e5'>`Screenshot 1`</a> 
   -  `2018` `swift` 
   -  ☆`314` 
 - [Restaurant Viewing](https://github.com/gtokman/Restaurant-Viewing-App)
