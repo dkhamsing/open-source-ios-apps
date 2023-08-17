@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%2016,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1500-green.svg) ![](https://img.shields.io/badge/Updated-August%2017,%202023-lightgrey.svg)
 
 Jump to
 
@@ -837,7 +837,7 @@ Jump to
   -  `2023` `swift` `ipad` 
   -  ☆`57` 
 - [Pastebin Mobile](https://github.com/jonluca/PasteBinApp): Quickly and easily uploads text or code to https://pastebin.com
-  -  <a href='https://i.imgur.com/dJg21TF.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/94807f11-7942-403f-94b9-0ea9df01969b'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`27` 
 - [Pisth](https://github.com/ColdGrub1384/Pisth): SSH and SFTP client
