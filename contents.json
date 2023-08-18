@@ -2621,6 +2621,26 @@
       "updated": "2022-09-29 13:02:50 UTC"
     },
     {
+      "title": "Frozen Bubble",
+      "category-ids": ["spritekit"],
+      "tags": ["swift"],
+      "description": "Re-implementation of Linux Frozen Bubble Game",
+      "source": "https://github.com/ulritter/FrozenBubbleSwift",
+      "screenshots": [
+        "https://github.com/ulritter/FrozenBubbleSwift/blob/main/fb1.png",
+        "https://github.com/ulritter/FrozenBubbleSwift/blob/main/fb2.png",
+        "https://github.com/ulritter/FrozenBubbleSwift/blob/main/fb3.png",
+        "https://github.com/ulritter/FrozenBubbleSwift/blob/main/fb4.png",
+        "https://github.com/ulritter/FrozenBubbleSwift/blob/main/fb5.png",
+        "https://github.com/ulritter/FrozenBubbleSwift/blob/main/fb6.png",
+        "https://github.com/ulritter/FrozenBubbleSwift/blob/main/fb7.png",
+        "https://github.com/ulritter/FrozenBubbleSwift/blob/main/fb8.png"
+      ],
+      "license": "mit",
+      "date_added": "Aug 18 2023",
+      "suggested_by": "@ulritter"
+    },
+    {
       "title": "The Spin Zone",
       "category-ids": [
         "spritekit"
