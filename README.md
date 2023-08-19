@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1501-green.svg) ![](https://img.shields.io/badge/Updated-August%2018,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1501-green.svg) ![](https://img.shields.io/badge/Updated-August%2019,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3422,7 +3422,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`793` 
 - [Bitwarden](https://github.com/bitwarden/mobile): An easy way for individuals, teams, and business organizations to store, share, and sync sensitive data
   - <a href=https://bitwarden.com>`https://bitwarden.com`</a>
-  - [` App Store`](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744) <a href='https://i.imgur.com/3BO1Wcg.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ac13c51f-580b-40e6-b1ff-c90b9ee6f4e2'>`Screenshot 1`</a> 
   -  `2023` `csharp` 
   -  ☆`4846` 
 - [einmal](https://github.com/incipher/einmal): Minimalistic and secure two-factor authentication
