@@ -1598,7 +1598,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`793` 
 - [Bitwarden](https://github.com/bitwarden/mobile): An easy way for individuals, teams, and business organizations to store, share, and sync sensitive data
   - <a href=https://bitwarden.com>`https://bitwarden.com`</a>
-  - [` App Store`](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744) <a href='https://i.imgur.com/3BO1Wcg.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ac13c51f-580b-40e6-b1ff-c90b9ee6f4e2'>`Screenshot 1`</a> 
   -  `2023` `csharp` 
   -  ☆`4846` 
 - [FreeOTP Authenticator](https://github.com/freeotp/freeotp-ios): Two-Factor Authentication
