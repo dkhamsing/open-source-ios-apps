@@ -19346,7 +19346,7 @@
         "photo"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "Extract video and Live Photo frames as images",
       "source": "https://github.com/arthurhammer/FrameGrabber",
