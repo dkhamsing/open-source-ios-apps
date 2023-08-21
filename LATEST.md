@@ -2,7 +2,7 @@
 
 ## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
-1. [Frozen Bubble](https://github.com/ulritter/FrozenBubbleSwift)
+1. [Frozen Bubble](https://github.com/ulritter/FrozenPengu)
 2. [Rise — Sleep Companion](https://github.com/VladimirBrejcha/Rise)
 3. [Hello World](https://developer.apple.com/documentation/visionOS/World)
 4. [Backyard Birds](https://github.com/apple/sample-backyard-birds)
