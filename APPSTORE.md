@@ -378,7 +378,7 @@ Jump to
   -  `2020` `c` `vim-script` 
   -  ☆`556` 
 - [Knil](https://github.com/ethanhuang13/knil): Universal Links testing made easy
-  - [` App Store`](https://apps.apple.com/app/knil-universal-link-testing/id1195310358) <a href='https://i.imgur.com/FkkMn0M.gif'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/knil-universal-link-testing/id1195310358) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/038718b7-d829-4e60-9f81-f86d2b926eec'>`Screenshot 1`</a> 
   -  `2019` 
   -  ☆`754` 
 - [Knuff](https://github.com/KnuffApp/Knuff-iOS): The debug app for Apple Push Notification service
