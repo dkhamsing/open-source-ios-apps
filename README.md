@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1501-green.svg) ![](https://img.shields.io/badge/Updated-August%2023,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1501-green.svg) ![](https://img.shields.io/badge/Updated-August%2024,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1057,7 +1057,7 @@ Jump to
   -  `2022` `swift` 
   -  ☆`44` 
 - [Kotoba](https://github.com/willhains/Kotoba): Quickly search the built-in dictionary to see definitions of words. Collect the words you want to remember
-  -  <a href='https://i.imgur.com/yNc3GOl.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/aF4JedS.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/pw0M2yi.png'>`Screenshot 3`</a>  <a href='https://i.imgur.com/zv3RKrZ.png'>`Screenshot 4`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/eef23e33-992d-476d-b10e-b24ef6a35240'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`460` 
 - [LeitnerBox](https://github.com/hamed8080/LeitnerBox): Help language learners memorize words faster
