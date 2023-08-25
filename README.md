@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1501-green.svg) ![](https://img.shields.io/badge/Updated-August%2024,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1501-green.svg) ![](https://img.shields.io/badge/Updated-August%2025,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1822,7 +1822,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb1.png'>`Screenshot 1`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb2.png'>`Screenshot 2`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb3.png'>`Screenshot 3`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb4.png'>`Screenshot 4`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb5.png'>`Screenshot 5`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb6.png'>`Screenshot 6`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb7.png'>`Screenshot 7`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb8.png'>`Screenshot 8`</a> 
   - `swift` 
 - [GameJam](https://github.com/TheSwiftAlps/GameJam): Contains all the games that were made at the Game Jam
-  -  <a href='https://i.imgur.com/zTZyj8e.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/4aFlJUv.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/t4NdOM7.png'>`Screenshot 3`</a>  <a href='https://i.imgur.com/6ltFesP.png'>`Screenshot 4`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d673c21f-e1ae-4072-809b-b71e2213c74c'>`Screenshot 1`</a> 
   -  `2017` `swift` `spritekit` 
   -  ☆`92` 
 - [Mergel](https://github.com/snazzware/Mergel): Shape matching puzzle
