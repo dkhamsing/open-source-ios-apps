@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1501-green.svg) ![](https://img.shields.io/badge/Updated-August%2025,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1501-green.svg) ![](https://img.shields.io/badge/Updated-August%2026,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2190,7 +2190,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   -  `2021` `objc` 
   -  ☆`45` 
 - [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views): Discover and share places you love
-  -  <a href='https://i.imgur.com/k8BGv5M.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b86fb1dd-b11d-4254-bed7-cd6a81545710'>`Screenshot 1`</a> 
   - `swift` `swiftui` `mapkit` 
 - [MAPS.ME](https://github.com/mapsme/omim): Offline maps with navigation
   - <a href=https://maps.me/>`https://maps.me/`</a>
@@ -5024,7 +5024,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2019` `swift` `swiftui` 
   -  ☆`57` 
 - [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views): Discover and share places you love
-  -  <a href='https://i.imgur.com/k8BGv5M.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b86fb1dd-b11d-4254-bed7-cd6a81545710'>`Screenshot 1`</a> 
   - `swift` `swiftui` `mapkit` 
 - [LifeGame](https://github.com/YusukeHosonuma/SwiftUI-LifeGame): Conway's Game of Life
   -  <a href='https://github.com/YusukeHosonuma/SwiftUI-LifeGame/raw/main/Image/screenshot-ios.png'>`Screenshot 1`</a> 
