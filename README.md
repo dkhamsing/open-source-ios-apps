@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1501-green.svg) ![](https://img.shields.io/badge/Updated-August%2026,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1501-green.svg) ![](https://img.shields.io/badge/Updated-August%2028,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3345,7 +3345,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`334` 
 - [Lockdown](https://github.com/confirmedcode/lockdown-ios): Firewall for your device
   - <a href=https://lockdownprivacy.com>`https://lockdownprivacy.com`</a>
-  - [` App Store`](https://apps.apple.com/app/lockdown-apps/id1469783711) <a href='https://i.imgur.com/HeOTZqn.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/lockdown-apps/id1469783711) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b2e713a8-4cf2-41e9-8ddc-fa87a2ea5282'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`854` 
 - [Mullvad VPN](https://github.com/mullvad/mullvadvpn-app)
