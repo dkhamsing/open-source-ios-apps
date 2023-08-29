@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1501-green.svg) ![](https://img.shields.io/badge/Updated-August%2028,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1501-green.svg) ![](https://img.shields.io/badge/Updated-August%2029,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2972,7 +2972,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`63` 
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): Feed reader that supports RSS, Atom, JSON Feed, and RSS-in-JSON formats
   - <a href=https://netnewswire.com>`https://netnewswire.com`</a>
-  - [` App Store`](https://apps.apple.com/app/netnewswire-rss-reader/id1480640210) <a href='https://i.imgur.com/bYxNu6a.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/netnewswire-rss-reader/id1480640210) <a href='https://netnewswire.com/images/nnwios5/iPad-Light-Thumb.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`7051` 
 - [SwiftBlog](https://github.com/BalestraPatrick/SwiftBlog): Read the official Apple Swift Blog with RSS
