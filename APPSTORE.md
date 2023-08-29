@@ -1390,7 +1390,7 @@ https://newsapi.org/ — [back to top](#readme)
 
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): Feed reader that supports RSS, Atom, JSON Feed, and RSS-in-JSON formats
   - <a href=https://netnewswire.com>`https://netnewswire.com`</a>
-  - [` App Store`](https://apps.apple.com/app/netnewswire-rss-reader/id1480640210) <a href='https://i.imgur.com/bYxNu6a.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/netnewswire-rss-reader/id1480640210) <a href='https://netnewswire.com/images/nnwios5/iPad-Light-Thumb.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`7051` 
 ## Official 
