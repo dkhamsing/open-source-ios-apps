@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1501-green.svg) ![](https://img.shields.io/badge/Updated-August%2029,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-August%2030,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3949,6 +3949,9 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/gideonrotich/LivescoreApp/master/screenshots/one.png'>`Screenshot 1`</a> 
   -  `2022` `kotlin` 
   -  ☆`76` 
+- [localsend](https://github.com/localsend/localsend): Cross-platform alternative to AirDrop
+  -  <a href='https://camo.githubusercontent.com/722283a1bf8e4c866a781df40eb8ba7452dba3b86db00008898854583837ed82/68747470733a2f2f6c6f63616c73656e642e6f72672f696d672f73637265656e73686f742d6970686f6e652e77656270'>`Screenshot 1`</a> 
+  - `flutter` 
 - [Locations for LOST](https://github.com/AdrienVillez/LOST-Location): A movie scenes finder
   -  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d9/96/1d/d9961d27-0750-2d77-9b3d-1d327d349b73/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/2c/8c/48/2c8c480c-86e1-40db-dd0a-fb2aebe1f698/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/db/36/9b/db369b6e-407f-3a50-46eb-a066b26bfb80/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/fa/9d/c2/fa9dc286-019b-9698-c1ef-f9b3a8b2f4ae/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
   -  `2019` `swift` 
