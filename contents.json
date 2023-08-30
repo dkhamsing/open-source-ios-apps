@@ -30898,6 +30898,20 @@
       "screenshots": ["https://github.com/prof18/feed-flow/raw/main/assets/banners.png"],
       "suggested_by": "@dkhamsing",
       "stars": 85      
-    }       
+    },
+{
+      "title": "localsend",
+      "category-ids": [
+        "misc"
+      ],
+      "description": "Cross-platform alternative to AirDrop",
+      "source": "https://github.com/localsend/localsend",
+      "license": "mit",
+      "tags": [
+        "flutter"
+      ],
+      "screenshots": ["https://camo.githubusercontent.com/722283a1bf8e4c866a781df40eb8ba7452dba3b86db00008898854583837ed82/68747470733a2f2f6c6f63616c73656e642e6f72672f696d672f73637265656e73686f742d6970686f6e652e77656270"],
+      "suggested_by": "@alx-xlx"       
+    }      
   ]
 }
