@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-August%2030,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-August%2031,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1956,7 +1956,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`57` 
 - [Suicide Safety Plan](https://github.com/suicidesafetyplan/safetyplan-ios): Suicide prevention
-  - [` App Store`](https://apps.apple.com/app/id1003891579) <a href='https://i.imgur.com/9N05Hru.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1003891579) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/93d87e60-c5e3-467a-a7df-d724c3e5d4fb'>`Screenshot 1`</a> 
   -  `2023` `objc` 
   -  ☆`15` 
 - [Vite Ma Dose de Vaccin !](https://github.com/CovidTrackerFr/vitemadose-ios): Quicky find a COVID-19 vaccine in France
