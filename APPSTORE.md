@@ -461,7 +461,7 @@ Jump to
   -  `2023` `objc` `uickeychainstore` `passcodelock` 
   -  ☆`5798` 
 - [LibTerm](https://github.com/ColdGrub1384/LibTerm): Terminal with Python 3.7 and Lua 5.3, supports iOS 13 dark mode and multi window
-  - [` App Store`](https://apps.apple.com/app/libterm/id1380911705) <a href='https://i.imgur.com/dJs2tXc.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/libterm/id1380911705) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ea79adef-7060-4696-998b-fd147b103083'>`Screenshot 1`</a> 
   -  `2023` `swift` `ipad` 
   -  ☆`581` 
 ## Education 
