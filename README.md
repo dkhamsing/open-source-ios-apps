@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-August%2031,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%20%201,%202023-lightgrey.svg)
 
 Jump to
 
@@ -996,7 +996,7 @@ Jump to
   -  `2023` `objc` `uickeychainstore` `passcodelock` 
   -  ☆`5798` 
 - [LibTerm](https://github.com/ColdGrub1384/LibTerm): Terminal with Python 3.7 and Lua 5.3, supports iOS 13 dark mode and multi window
-  - [` App Store`](https://apps.apple.com/app/libterm/id1380911705) <a href='https://i.imgur.com/dJs2tXc.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/libterm/id1380911705) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ea79adef-7060-4696-998b-fd147b103083'>`Screenshot 1`</a> 
   -  `2023` `swift` `ipad` 
   -  ☆`581` 
 - [MobileTerminal](https://github.com/steventroughtonsmith/MobileTerminal): Proof-of-concept for sandboxed Terminal environment
