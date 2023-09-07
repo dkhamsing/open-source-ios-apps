@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%20%206,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%20%207,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3908,7 +3908,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`5` 
 - [Fontcase](https://github.com/manolosavi/xFonts): Install your favorite fonts on your device to be able to use them in apps like Pages, Numbers, Keynote, and more
-  - [` App Store`](https://apps.apple.com/app/id1205074470) <a href='https://i.imgur.com/ozVlT2F.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1205074470) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/1ca2b8ae-9190-48bb-9146-cf0c2de72012'>`Screenshot 1`</a> 
   -  `2022` `objc` 
   -  ☆`148` 
 - [Food2Fork Recipes](https://github.com/mitchtabian/Food2Fork-KMM)
