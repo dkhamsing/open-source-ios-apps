@@ -1211,7 +1211,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`18` 
 - [Podverse](https://github.com/podverse/podverse-rn): Feature-rich, cross-platform podcast app with a focus on clip sharing and discovery
   - <a href=https://podverse.fm>`https://podverse.fm`</a>
-  - [` App Store`](https://apps.apple.com/app/podverse/id1390888454) <a href='https://i.imgur.com/nRFpfup.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/x7uP0x7.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/wKagdik.png'>`Screenshot 3`</a>  <a href='https://i.imgur.com/KC3zv1d.png'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/podverse/id1390888454) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b7d0b732-f756-4d80-b1a5-8578ea71b817'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`125` 
 - [ZenTuner](https://github.com/jpsim/ZenTuner): Minimal chromatic tuner
