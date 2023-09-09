@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%20%208,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%20%209,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3387,7 +3387,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`95` 
 - [Tofu Authenticator](https://github.com/iKenndac/Tofu): Easy-to-use two-factor authentication
-  - [` App Store`](https://apps.apple.com/app/tofu-authenticator/id1082229305) <a href='https://i.imgur.com/QXPVzw6.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/tofu-authenticator/id1082229305) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2c5a3cce-9c17-4c58-b71d-0ac2a990848b'>`Screenshot 1`</a> 
   -  `2023` `swift` `2fa` 
   -  ☆`439` 
 - [Tutanota](https://github.com/tutao/tutanota): End-to-end encrypted email
