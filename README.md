@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%2010,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%2011,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4805,7 +4805,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2020` `swift` `swiftui` 
   -  ☆`666` 
 - [AC Helper](https://github.com/Dimillian/ACHNBrowserUI): Animal Crossing New Horizon items catalogue
-  - [` App Store`](https://apps.apple.com/app/ac-helper/id1508764244) <a href='https://i.imgur.com/dcs8niz.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/ac-helper/id1508764244) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/871e94f7-5dbf-4710-8994-37b4e4c4b993'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` `ipad` 
   -  ☆`1620` 
 - [Actions](https://github.com/sindresorhus/Actions): Provides many useful actions for the Shortcuts app
