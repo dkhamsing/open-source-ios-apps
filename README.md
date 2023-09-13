@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%2012,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%2013,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2079,7 +2079,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2021` `swift` 
   -  ☆`17` 
 - [TracePrivately](https://github.com/CrunchyBagel/TracePrivately): Uses Apple's Privacy-preserving ExposureNotification framework
-  -  <a href='https://i.imgur.com/Xs48MLQ.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6dcbbd24-a509-4559-aeeb-404a9d9392d6'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`351` 
 ### Fitness 
