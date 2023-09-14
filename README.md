@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%2013,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%2014,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2015,7 +2015,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  ☆`466` 
 - [Iceland - rakning-c19-app](https://github.com/aranja/rakning-c19-app): Help analyse individuals’ travel and trace their movements when cases of infection arise
   - <a href=https://www.covid.is/app/is>`https://www.covid.is/app/is`</a>
-  - [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876) <a href='https://i.imgur.com/isjn4UG.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/c1db03e9-fb0e-4aae-9273-018ae8b50bea'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`240` 
 - [Ireland - COVID Tracker](https://github.com/HSEIreland/covid-tracker-app)
@@ -4538,7 +4538,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  ☆`466` 
 - [Iceland - rakning-c19-app](https://github.com/aranja/rakning-c19-app): Help analyse individuals’ travel and trace their movements when cases of infection arise
   - <a href=https://www.covid.is/app/is>`https://www.covid.is/app/is`</a>
-  - [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876) <a href='https://i.imgur.com/isjn4UG.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/c1db03e9-fb0e-4aae-9273-018ae8b50bea'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`240` 
 - [Ireland - COVID Tracker](https://github.com/HSEIreland/covid-tracker-app)
