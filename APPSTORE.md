@@ -944,7 +944,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  ☆`6` 
 - [Czech Republic - eRouška](https://github.com/covid19cz/erouska-ios)
   - <a href=https://erouska.cz/>`https://erouska.cz/`</a>
-  - [` App Store`](https://apps.apple.com/cz/app/erou%C5%A1ka/id1509210215) <a href='https://i.imgur.com/9f1ojFj.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/cz/app/erou%C5%A1ka/id1509210215) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0f311927-f8a0-400d-bcb2-060d5c3c93dd'>`Screenshot 1`</a> 
   -  `2021` `swift` `rxswift` `bluetooth` 
   -  ☆`104` 
 - [Finland - Koronavilkku](https://github.com/THLfi/koronavilkku-ios)
