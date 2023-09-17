@@ -927,7 +927,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2021` `swift` `alamofire` `keychainswift` `lottie` 
   -  ☆`278` 
 - [Austria - Stopp Corona](https://github.com/austrianredcross/stopp-corona-ios): Keep track of encounters with friends, family or co-workers and save them anonymously
-  - [` App Store`](https://apps.apple.com/app/apple-store/id1503717224) <a href='https://i.imgur.com/K0JV32C.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/apple-store/id1503717224) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/cc16de41-9c6e-4142-a7e2-547eef9e1c81'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftlint` `moya` `swiftybeaver` `firebase` `sqlite` `lottie` 
   -  ☆`157` 
 - [Bulgaria - ViruSafe](https://github.com/scalefocus/virusafe-ios): Share symptoms as well track the spread of COVID-19 with an interactive map
