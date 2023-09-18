@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%2017,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%2018,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1339,7 +1339,7 @@ Today Extensions or Widgets — [back to top](#readme)
   -  ☆`170` 
 - [TimeLines](https://github.com/mathieudutour/TimeLines): Know when all your friends, colleagues and family are
   - <a href=https://time-lines.app>`https://time-lines.app`</a>
-  -  <a href='https://i.imgur.com/haSaUiS.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d3e4aabc-1ab5-4515-ac35-65b9c301f25e'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`56` 
 - [VPN On](https://github.com/lexrus/VPNOn): Extension to turn on VPN
