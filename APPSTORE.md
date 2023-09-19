@@ -1073,7 +1073,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   -  ☆`78` 
 - [Emission](https://github.com/e-mission/e-mission-phone): Track your travel modes and your travel carbon footprint, and compare them against other users
   - <a href=https://e-mission.eecs.berkeley.edu/#/home>`https://e-mission.eecs.berkeley.edu/#/home`</a>
-  - [` App Store`](https://apps.apple.com/app/emission/id1084198445) <a href='https://i.imgur.com/SV9ysjZ.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/emission/id1084198445) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3518c87d-e95d-43d3-b4ff-29aafc615c84'>`Screenshot 1`</a> 
   -  `2023` `javascript` `phonegap` `cordova` `ionic` 
   -  ☆`17` 
 - [GeoLicious](https://github.com/da3x/GeoLicious): Location tracking made easy
