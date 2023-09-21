@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%2020,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%2021,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1033,7 +1033,7 @@ Jump to
   -  `2023` `swift` 
   -  ☆`91` 
 - [DiscussIt](https://github.com/ethanswift/DiscussIt): Scholarly article search, discussion forum and discussion board
-  -  <a href='https://i.imgur.com/35n3RHL.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ebc1598e-6d19-42a0-845e-cc4d73b0d1d0'>`Screenshot 1`</a> 
   -  `2020` `swift` `firebase` `swiftyjson` 
   -  ☆`7` 
 - [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling
