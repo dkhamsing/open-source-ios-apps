@@ -220,6 +220,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Light-Jockey](https://github.com/jmfieldman/Light-Jockey)
 - [Link Keyboard : My Links Everywhere](https://github.com/ayushgoel/LinkKeyboard)
 - [Lister](https://developer.apple.com/library/content/samplecode/Lister/Introduction/Intro.html)
+- [LivescoreApp using Sports API](https://github.com/gideonrotich/LivescoreApp)
 - [LobsterApp](https://github.com/rhysforyou/LobsterApp)
 - [Local Storage](https://github.com/geberl/swift-localstorage)
 - [Locative](https://github.com/LocativeHQ/Locative-iOS)
