@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%2023,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%2024,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1281,7 +1281,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1544743900)
   -  `2023` `swift` `macos` `ipad` 
   -  ☆`2695` 
-- [PIA VPN](https://github.com/pia-foss/vpn-ios)
+- [PIA VPN](https://github.com/pia-foss/mobile-ios)
   - <a href=https://www.privateinternetaccess.com/download/ios-vpn/>`https://www.privateinternetaccess.com/download/ios-vpn/`</a>
   - [` App Store`](https://apps.apple.com/app/id955626407) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2c/4c/3e/2c4c3ebf-d7bf-2470-c434-32767b574c6f/56ba6ee1-3819-4351-b9c3-46c9e2eb494a_pia_iphone_appstore_1.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/de/9c/4b/de9c4b68-6ade-4abd-97ee-e83c575fd4fb/4660eca5-bfa5-4042-aff9-161d475acba7_pia_iphone_appstore_3.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/08/d5/ad/08d5adae-7392-2f50-87cd-35302ea0ad1d/bd1e8f0f-6fcc-4cc9-bb5f-08286fc8eab1_pia_iphone_appstore_4.png/600x0w.png'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2c/9c/c1/2c9cc150-4d85-842f-9ee3-a5cc82ec85c1/4496bbe3-e21f-4e71-b723-90ff31c2ea60_pia_iphone_appstore_5.png/600x0w.png'>`Screenshot 4`</a> 
   -  `2022` `swift` 
