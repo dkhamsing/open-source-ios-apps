@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1502-green.svg) ![](https://img.shields.io/badge/Updated-September%2025,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1503-green.svg) ![](https://img.shields.io/badge/Updated-September%2026,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4837,6 +4837,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/641197/174412574-d7eb2fe1-47c2-461c-a68b-00a8960e015e.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `metal` 
   -  ☆`220` 
+- [Basic Car Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance): Track your car's maintenance
+  - `swift` `swiftui` `firebase` 
 - [Beers](https://github.com/crelies/Beers): List of beers fetched from the Punk API https://punkapi.com
   -  <a href='https://github.com/crelies/Beers/blob/master/screenshots/phone1.png?raw=true'>`Screenshot 1`</a> 
   -  `2023` `swiftui` 
