@@ -30930,6 +30930,20 @@
       "suggested_by": "@alx-xlx",
       "stars": 13709,
       "updated": "2023-08-29 11:07:00 UTC"
-    }
+    },
+{
+      "title": "Basic Car Maintenance",
+      "category-ids": [
+        "swiftui"
+      ],
+      "description": "Track your car's maintenance",
+      "source": "https://github.com/mikaelacaron/Basic-Car-Maintenance",
+      "license": "apache-2.0",
+      "tags": [
+        "swift", "swiftui", "firebase"
+      ],
+      "date_added": "Sep 25, 2023",
+      "suggested_by": "@dkhamsing"      
+    }    
   ]
 }
