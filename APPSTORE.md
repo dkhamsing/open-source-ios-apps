@@ -99,7 +99,7 @@ Jump to
   -  `2023` `c` `ipad` 
   -  ☆`817` 
 - [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on https://stepik.org/
-  - [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926) <a href='https://i.imgur.com/Br5ht7f.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6bbc0c9b-3c2c-4f2a-b8c6-10805eefd664'>`Screenshot 1`</a> 
   -  `2023` `swift` `ipad` `alamofire` `swiftyjson` `sdwebimage` `devicekit` `promisekit` `swiftlint` 
   -  ☆`144` 
 - [VLC](https://github.com/videolan/vlc): Media Player
@@ -511,7 +511,7 @@ Jump to
   -  `2021` 
   -  ☆`83` 
 - [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on https://stepik.org/
-  - [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926) <a href='https://i.imgur.com/Br5ht7f.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6bbc0c9b-3c2c-4f2a-b8c6-10805eefd664'>`Screenshot 1`</a> 
   -  `2023` `swift` `ipad` `alamofire` `swiftyjson` `sdwebimage` `devicekit` `promisekit` `swiftlint` 
   -  ☆`144` 
 - [Transcription Helper](https://github.com/novinfard/TranscriptionHelper): Player for assisting in transcription
