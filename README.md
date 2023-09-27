@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1503-green.svg) ![](https://img.shields.io/badge/Updated-September%2026,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1503-green.svg) ![](https://img.shields.io/badge/Updated-September%2027,%202023-lightgrey.svg)
 
 Jump to
 
@@ -123,7 +123,7 @@ Jump to
   -  `2016` `swift` 
   -  ☆`16` 
 - [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on https://stepik.org/
-  - [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926) <a href='https://i.imgur.com/Br5ht7f.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6bbc0c9b-3c2c-4f2a-b8c6-10805eefd664'>`Screenshot 1`</a> 
   -  `2023` `swift` `ipad` `alamofire` `swiftyjson` `sdwebimage` `devicekit` `promisekit` `swiftlint` 
   -  ☆`144` 
 - [Swiftfin](https://github.com/jellyfin/Swiftfin): Jellyfin Client
@@ -1091,7 +1091,7 @@ Jump to
   -  `2021` 
   -  ☆`83` 
 - [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on https://stepik.org/
-  - [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926) <a href='https://i.imgur.com/Br5ht7f.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6bbc0c9b-3c2c-4f2a-b8c6-10805eefd664'>`Screenshot 1`</a> 
   -  `2023` `swift` `ipad` `alamofire` `swiftyjson` `sdwebimage` `devicekit` `promisekit` `swiftlint` 
   -  ☆`144` 
 - [Transcription Helper](https://github.com/novinfard/TranscriptionHelper): Player for assisting in transcription
