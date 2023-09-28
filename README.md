@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1503-green.svg) ![](https://img.shields.io/badge/Updated-September%2027,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1503-green.svg) ![](https://img.shields.io/badge/Updated-September%2028,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2471,7 +2471,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2023` `swiftui` `combine` `adult` 
   -  ☆`2503` 
 - [fastmdb](https://github.com/dkhamsing/fastmdb): Fast app to browse and search movies, tv, people, credits
-  -  <a href='https://i.imgur.com/Kc7V03d.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/90843ee2-a6ee-4f41-bc2b-20b3292957d6'>`Screenshot 1`</a> 
   -  `2023` `swift` `tmdb` 
   -  ☆`15` 
 - [Fecapp](https://github.com/betzerra/Fecapp): Displays specialty coffee shops in Buenos Aires (Argentina)
