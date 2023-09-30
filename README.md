@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1503-green.svg) ![](https://img.shields.io/badge/Updated-September%2029,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1503-green.svg) ![](https://img.shields.io/badge/Updated-September%2030,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1330,7 +1330,7 @@ Today Extensions or Widgets — [back to top](#readme)
   -  `2020` `swift` 
   -  ☆`532` 
 - [GitHub contributions widget](https://github.com/fimuxd/GITGET)
-  -  <a href='https://i.imgur.com/16yLR0l.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/c12cfbbb-b3d0-464b-8ca2-745b8ab33e6b'>`Screenshot 1`</a> 
   -  `2023` `swift` `firebase` `alamofire` `swiftyjson` 
   -  ☆`145` 
 - [News API apps](https://github.com/dkhamsing/news): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes tvOS app, Today widget
