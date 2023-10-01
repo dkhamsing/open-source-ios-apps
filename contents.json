@@ -17308,8 +17308,8 @@
     {
       "title": "Evolution",
       "category-ids": [
-        "developer",
-        "github"
+        "developer"
+        
       ],
       "description": "An unofficial app for Swift Evolution",
       "source": "https://github.com/Evolution-App/iOS",
