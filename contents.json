@@ -22689,7 +22689,7 @@
         "swiftui"
       ],
       "description": "Unidirectional data flow techniques",
-      "source": "https://github.com/AlexeyDemedetskiy/SwiftUI-UDF-Demo",
+      "source": "https://github.com/oleksii-demedetskyi/SwiftUI-UDF-Demo",
       "license": "mit",
       "tags": [
         "swift"
