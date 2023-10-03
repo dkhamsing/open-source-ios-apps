@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1503-green.svg) ![](https://img.shields.io/badge/Updated-October%20%202,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1503-green.svg) ![](https://img.shields.io/badge/Updated-October%20%203,%202023-lightgrey.svg)
 
 Jump to
 
@@ -5300,7 +5300,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/vijaywargiya/Translate-SwiftUI/raw/main/Translate.gif'>`Screenshot 1`</a> 
   -  `2020` `swift` `swiftui` 
   -  ☆`36` 
-- [UDF Demo](https://github.com/AlexeyDemedetskiy/SwiftUI-UDF-Demo): Unidirectional data flow techniques
+- [UDF Demo](https://github.com/oleksii-demedetskyi/SwiftUI-UDF-Demo): Unidirectional data flow techniques
   -  `2020` `swift` 
   -  ☆`51` 
 - [UK COVID-19 Statistics](https://github.com/atrinh0/covid19): Track cases & deaths with local notifications and widgets
