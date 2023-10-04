@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1503-green.svg) ![](https://img.shields.io/badge/Updated-October%20%203,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1503-green.svg) ![](https://img.shields.io/badge/Updated-October%20%204,%202023-lightgrey.svg)
 
 Jump to
 
@@ -361,7 +361,7 @@ Jump to
   -  ☆`61` 
 - [Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator): React Native calculator
   -  <a href='https://i.imgur.com/8OKDHjU.png'>`Screenshot 1`</a> 
-  -  `2021` `react native` 
+  -  `2021` `react-native` 
   -  ☆`5209` 
 - [calcupad](https://github.com/kwonye/calcupad)
   -  `2021` `swift` `ipad` 
@@ -489,7 +489,7 @@ Jump to
   -  ☆`52` 
 - [Finance](https://github.com/7kfpun/FinanceReactNative): The system Stocks app written in React Native
   -  <a href='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'>`Screenshot 1`</a> 
-  -  `2022` `react native` 
+  -  `2022` `react-native` 
   -  ☆`2016` 
 - [Flappy Fly-Bird](https://github.com/eleev/flappy-fly-bird): A clone of Flappy Bird using SpriteKit and GameplayKit
   -  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-01.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-02.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-03.PNG'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-04.PNG'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/eleev/flappy-fly-bird/master/resources/img-05.PNG'>`Screenshot 5`</a> 
@@ -1178,7 +1178,7 @@ Jump to
   -  ☆`922` 
 - [F8](https://github.com/fbsamples/f8app): Official F8 app
   -  <a href='https://raw.githubusercontent.com/fbsamples/f8app/main/.github/screenshot-app%402x.png'>`Screenshot 1`</a> 
-  -  `2023` `react native` 
+  -  `2023` `react-native` 
   -  ☆`14023` 
 - [FOSSASIA](https://github.com/fossasia/open-event-attendee-ios): Organize concerts, conferences, summits & regular meetups
   -  `2020` `swift` 
@@ -2512,7 +2512,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`201` 
 - [movieapp](https://github.com/JuneDomingo/movieapp): Discover movies & tv shows
   -  <a href='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'>`Screenshot 1`</a> 
-  -  `2021` `react native` `tmdb` 
+  -  `2021` `react-native` `tmdb` 
   -  ☆`1814` 
 - [MovieDict](https://github.com/lurado/MovieDict): Offline dictionary for international movie titles
   - <a href=https://moviedict.info>`https://moviedict.info`</a>
@@ -2995,7 +2995,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`1664` 
 - [F8](https://github.com/fbsamples/f8app): Official F8 app
   -  <a href='https://raw.githubusercontent.com/fbsamples/f8app/main/.github/screenshot-app%402x.png'>`Screenshot 1`</a> 
-  -  `2023` `react native` 
+  -  `2023` `react-native` 
   -  ☆`14023` 
 - [Firefox](https://github.com/mozilla-mobile/firefox-ios): Official Firefox app
   - [` App Store`](https://apps.apple.com/app/firefox-web-browser/id989804926) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/47/b7/1b/47b71b74-5bb4-9c4d-4826-18f89324af9d/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/24/97/ba249744-0dda-90a9-4406-2d30720e59a4/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/93/d1/d4/93d1d4d1-5cde-f1d7-4e68-1fe824bcdc13/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/89/17/58/89175888-9e1e-3fcf-ce42-9dd347327298/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/36/dc/9f36dc54-b99b-fd5c-0076-0cdb1d4bc53e/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
@@ -3084,7 +3084,7 @@ https://newsapi.org/ — [back to top](#readme)
 
 - [30 days of React Native demos](https://github.com/fangwei716/30-days-of-react-native)
   -  <a href='https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif'>`Screenshot 1`</a> 
-  -  `2018` `react native` 
+  -  `2018` `react-native` 
   -  ☆`6721` 
 - [30 mini Swift Apps for self-study](https://github.com/soapyigu/Swift-30-Projects)
   -  `2023` `swift` 
@@ -3334,7 +3334,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`12` 
 - [Keybase](https://github.com/keybase/client)
   - [` App Store`](https://apps.apple.com/app/keybase-crypto-for-everyone/id1044461770)
-  -  `2023` `react native` 
+  -  `2023` `react-native` 
   -  ☆`8580` 
 - [Krypton](https://github.com/kryptco/krypton-ios): Generate & store an SSH key on your phone
   - [` App Store`](https://apps.apple.com/app/krypton-by-krypt-co/id1161494806) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/22/51/55/22515500-8c22-2d00-04d7-6e8963bbee16/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/bb/e9/4abbe96e-bbb0-8e2f-86f2-19c42f9409b8/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/de/b1/fa/deb1fae0-1b01-7f38-fbe9-3106315a036e/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/db/14/fb/db14fbe9-1b59-8403-efe4-01f0753a4fa9/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
@@ -4353,7 +4353,7 @@ https://flutter.dev — [back to top](#readme)
 
 - [Artist](https://github.com/orta/Relay-Artist-Example): Use Relay to access the Artsy GraphQL API
   -  <a href='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'>`Screenshot 1`</a> 
-  -  `2017` `react native` 
+  -  `2017` `react-native` 
   -  ☆`22` 
 - [CovidUI](https://github.com/nerdsupremacist/CovidUI): Track the status of COVID-19 around the world
   -  <a href='https://github.com/nerdsupremacist/CovidUI/raw/master/demo.gif'>`Screenshot 1`</a> 
@@ -4461,14 +4461,14 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
 
 - [30 days of React Native demos](https://github.com/fangwei716/30-days-of-react-native)
   -  <a href='https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif'>`Screenshot 1`</a> 
-  -  `2018` `react native` 
+  -  `2018` `react-native` 
   -  ☆`6721` 
 - [AR Cut & Paste](https://github.com/cyrildiagne/ar-cutpaste): Cut and paste your surroundings using AR
   -  `2023` `react-native` `arkit` 
   -  ☆`14536` 
 - [Artist](https://github.com/orta/Relay-Artist-Example): Use Relay to access the Artsy GraphQL API
   -  <a href='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'>`Screenshot 1`</a> 
-  -  `2017` `react native` 
+  -  `2017` `react-native` 
   -  ☆`22` 
 - [Artsy](https://github.com/artsy/eigen): The art world in your pocket
   - [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e40b21e-59fa-4026-ad3c-07e2a08bf4f5'>`Screenshot 1`</a> 
@@ -4476,7 +4476,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  ☆`3325` 
 - [Assemblies](https://github.com/buildreactnative/assemblies): Developer-focused Meetup clone
   -  <a href='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-a.png'>`Screenshot 1`</a>  <a href='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-b.png'>`Screenshot 2`</a>  <a href='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-c.png'>`Screenshot 3`</a> 
-  -  `2017` `react native` 
+  -  `2017` `react-native` 
   -  ☆`358` 
 - [BP Passport - Simple for Patients](https://github.com/simpledotorg/bp-passport): Fast way for clinicians to manage patients with hypertension
   -  <a href='https://www.simple.org/images/screen-bp.png'>`Screenshot 1`</a> 
@@ -4487,11 +4487,11 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   - `react-native` 
 - [Bíóhúsið](https://github.com/birkir/kvikmyndr-app): See movie showtimes in Iceland
   -  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/2b/2d/6c/2b2d6c4e-9dc9-b2b8-ae46-07ac174aa5ca/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/14/9b/74/149b74e3-3bc2-649a-8b6b-8ed8429442b8/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/65/88/e9/6588e9d3-6f83-cae1-a0d1-767239f6c935/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/2b/66/ef/2b66ef67-d761-e5a1-de80-3d6e535f140c/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/40/ed/41/40ed41ad-1a9e-0ec8-f340-bee3a3e39e0d/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
-  -  `2022` `react native` 
+  -  `2022` `react-native` 
   -  ☆`48` 
 - [Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator): React Native calculator
   -  <a href='https://i.imgur.com/8OKDHjU.png'>`Screenshot 1`</a> 
-  -  `2021` `react native` 
+  -  `2021` `react-native` 
   -  ☆`5209` 
 - [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app)
   - [` App Store`](https://apps.apple.com/app/id1520284227) <a href='https://i.imgur.com/VtkXEik.png'>`Screenshot 1`</a> 
@@ -4503,15 +4503,15 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  ☆`481` 
 - [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app)
   -  <a href='https://cloud.githubusercontent.com/assets/2805320/8113463/db61b072-1076-11e5-8aa2-52417f019ea0.jpg'>`Screenshot 1`</a> 
-  -  `2023` `react native` `dribbble` 
+  -  `2023` `react-native` `dribbble` 
   -  ☆`2052` 
 - [F8](https://github.com/fbsamples/f8app): Official F8 app
   -  <a href='https://raw.githubusercontent.com/fbsamples/f8app/main/.github/screenshot-app%402x.png'>`Screenshot 1`</a> 
-  -  `2023` `react native` 
+  -  `2023` `react-native` 
   -  ☆`14023` 
 - [Finance](https://github.com/7kfpun/FinanceReactNative): The system Stocks app written in React Native
   -  <a href='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'>`Screenshot 1`</a> 
-  -  `2022` `react native` 
+  -  `2022` `react-native` 
   -  ☆`2016` 
 - [Gitify](https://github.com/manosim/gitify-mobile): Brings your GitHub notifications in your pocket
   -  <a href='https://a1.mzstatic.com/us/r30/Purple18/v4/88/b6/8a/88b68a7f-d3d8-e51b-9918-cb886b7a4a24/screen696x696.jpeg'>`Screenshot 1`</a> 
@@ -4545,7 +4545,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  ☆`509` 
 - [iTunes Catalog Search](https://github.com/alexissan/ReactNativeWorkshop)
   -  <a href='https://github.com/alexissan/ReactNativeWorkshop/raw/master/Screenshots/scsh1.png?raw=true'>`Screenshot 1`</a> 
-  -  `2018` `react native` 
+  -  `2018` `react-native` 
   -  ☆`56` 
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet): Video meetings for everyone
   - [` App Store`](https://apps.apple.com/app/jitsi-meet/id1165103905) <a href='https://i.imgur.com/DVck5BI.png'>`Screenshot 1`</a> 
@@ -4553,7 +4553,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  ☆`20359` 
 - [Keybase](https://github.com/keybase/client)
   - [` App Store`](https://apps.apple.com/app/keybase-crypto-for-everyone/id1044461770)
-  -  `2023` `react native` 
+  -  `2023` `react-native` 
   -  ☆`8580` 
 - [Matchimals.fun](https://github.com/igravitystudios/matchimals.fun): Animal matching puzzle card game
   - [` App Store`](https://apps.apple.com/app/id1348821168) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/51/43/ef/5143ef6b-cb73-4c3f-32ad-619f15073704/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/be/49/b0/be49b0f5-9c45-34d1-a672-7d489b6a11a7/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/02/ad/4a02ad71-965b-f094-1381-22054028ada4/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/57/c7/5057c7f3-0bfe-41f2-0760-fe1b261e27c3/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
@@ -4573,18 +4573,18 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  ☆`129` 
 - [movieapp](https://github.com/JuneDomingo/movieapp): Discover movies & tv shows
   -  <a href='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'>`Screenshot 1`</a> 
-  -  `2021` `react native` `tmdb` 
+  -  `2021` `react-native` `tmdb` 
   -  ☆`1814` 
 - [NBA allyoop](https://github.com/wwayne/react-native-nba-app): NBA game scores
   -  <a href='https://cloud.githubusercontent.com/assets/5305874/12059257/dacf1ad0-af92-11e5-920c-ba4818d8dc1d.png'>`Screenshot 1`</a> 
-  -  `2019` `react native` 
+  -  `2019` `react-native` 
   -  ☆`2233` 
 - [NBAreact](https://github.com/jbkuczma/NBAreact): NBA stats & standings
-  -  `2018` `react native` 
+  -  `2018` `react-native` 
   -  ☆`107` 
 - [newswatch](https://github.com/bradoyler/newswatch-react-native): News based on YouTube playlists
   -  <a href='https://cloud.githubusercontent.com/assets/425966/7039857/2f122810-dd95-11e4-99c4-db636d4c66a9.gif'>`Screenshot 1`</a> 
-  -  `2017` `react native` 
+  -  `2017` `react-native` 
   -  ☆`157` 
 - [PokeDB](https://github.com/satya164/PocketGear): Clean and simple Pokédex app for Pokémon GO
   - [` App Store`](https://apps.apple.com/app/pocketdex-for-pok%C3%A9mon-go/id1255564898) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/92/e1/4d/92e14db4-8386-6f71-161b-652d76ce89ee/mzl.rlgaqcnk.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/43/11/f3/4311f37f-7232-b725-cd03-f4e8f2e7ace4/mzl.askczwpt.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/62/db/8d/62db8da0-0810-dfd0-937a-63dfc6fae957/mzl.odiufjsj.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/fb/29/a9fb2936-ca9e-c88e-1276-e7a60a5fa565/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/32/c4/b632c4ee-2e2c-ff81-dd04-87e9f49f7341/mzl.sckfqxlh.jpg/460x0w.jpg'>`Screenshot 5`</a> 
@@ -4604,7 +4604,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  ☆`15` 
 - [RNTester](https://github.com/facebook/react-native/tree/master/packages/rn-tester): Showcases React Native views & modules
   -  <a href='https://i.imgur.com/DYqIgci.png'>`Screenshot 1`</a> 
-  - `react native` 
+  - `react-native` 
 - [Royal News](https://github.com/msal4/royal_news)
   -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg'>`Screenshot 1`</a> 
   -  `2019` `react-native` 
@@ -4614,20 +4614,20 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2019` `react-native` `redux` 
   -  ☆`4589` 
 - [To Do List](https://github.com/joemaddalone/react-native-todo)
-  -  `2017` `react native` 
+  -  `2017` `react-native` 
   -  ☆`177` 
 - [To Do List (Redux)](https://github.com/uiheros/react-native-redux-todo-list): Uses Redux for managing app state
   -  <a href='https://github.com/uiheros/react-native-redux-todo-list/raw/master/todolist.gif'>`Screenshot 1`</a> 
-  -  `2020` `react native` `redux` 
+  -  `2020` `react-native` `redux` 
   -  ☆`43` 
 - [Twitch](https://github.com/IFours/react-native-twitch)
   -  <a href='https://github.com/IFours/react-native-twitch/raw/rn0.15/assets/twitch.gif'>`Screenshot 1`</a> 
-  -  `2017` `react native` 
+  -  `2017` `react-native` 
   -  ☆`89` 
 - [Weather by jsphkhan](https://github.com/jsphkhan/ReactNativeExamples)
   - <a href=https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp>`https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp`</a>
   -  <a href='https://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen1.png'>`Screenshot 1`</a>  <a href='https://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen2.png'>`Screenshot 2`</a>  <a href='https://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen3.png'>`Screenshot 3`</a> 
-  -  `2018` `react native` 
+  -  `2018` `react-native` 
   -  ☆`93` 
 - [Wordnote](https://github.com/zehfernandes/wordnote): The fast way to check a word definition
   - [` App Store`](https://apps.apple.com/app/wordnote-dictionary/id1596537633) <a href='https://www.wordnote.app/assets/polish.png'>`Screenshot 1`</a> 
