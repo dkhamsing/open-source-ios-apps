@@ -254,7 +254,7 @@ Jump to
   -  `2022` `objc` `xmpp` 
   -  ☆`3110` 
 - [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app): Live chat for businesses
-  - [` App Store`](https://apps.apple.com/app/id1495796682) <a href='https://i.imgur.com/2c2XCKd.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1495796682) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ca04127b-5c28-419f-95cf-3b1d4816ad07'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`481` 
 - [Colloquy](https://github.com/colloquy/colloquy): IRC client
@@ -2028,7 +2028,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2022` `react-native` 
   -  ☆`892` 
 - [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app): Live chat for businesses
-  - [` App Store`](https://apps.apple.com/app/id1495796682) <a href='https://i.imgur.com/2c2XCKd.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1495796682) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ca04127b-5c28-419f-95cf-3b1d4816ad07'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`481` 
 - [Haiti, Guam, Puerto Rico, Wyoming - COVID Safe Paths](https://github.com/Path-Check/safeplaces-dct-app): COVID-19 exposure notification and contract tracing
