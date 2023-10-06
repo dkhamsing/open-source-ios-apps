@@ -2910,7 +2910,7 @@
         "clone"
       ],
       "description": "Flappy Bird clone",
-      "source": "https://github.com/fullstackio/FlappySwift",
+      "source": "https://github.com/newlinedotco/FlappySwift",
       "stars": 9611,
       "tags": [
         "swift"
