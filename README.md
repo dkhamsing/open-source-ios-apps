@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1503-green.svg) ![](https://img.shields.io/badge/Updated-October%20%206,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1503-green.svg) ![](https://img.shields.io/badge/Updated-October%20%207,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4548,7 +4548,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2018` `react-native` 
   -  ☆`56` 
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet): Video meetings for everyone
-  - [` App Store`](https://apps.apple.com/app/jitsi-meet/id1165103905) <a href='https://i.imgur.com/DVck5BI.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/jitsi-meet/id1165103905) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/049383c1-2870-4b7d-ac2b-52c677e0e04b'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`20359` 
 - [Keybase](https://github.com/keybase/client)
