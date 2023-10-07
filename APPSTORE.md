@@ -2050,7 +2050,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2023` `react-native` 
   -  ☆`509` 
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet): Video meetings for everyone
-  - [` App Store`](https://apps.apple.com/app/jitsi-meet/id1165103905) <a href='https://i.imgur.com/DVck5BI.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/jitsi-meet/id1165103905) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/049383c1-2870-4b7d-ac2b-52c677e0e04b'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`20359` 
 - [Keybase](https://github.com/keybase/client)
