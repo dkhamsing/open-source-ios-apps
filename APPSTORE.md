@@ -919,7 +919,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 
 - [Australia - COVIDSafe](https://github.com/AU-COVIDSafe/mobile-ios)
-  - [` App Store`](https://apps.apple.com/au/app/covidsafe/id1509242894) <a href='https://i.imgur.com/9xfQb6n.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/au/app/covidsafe/id1509242894) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/7e571841-430e-4fea-bde0-c9bc400a994d'>`Screenshot 1`</a> 
   -  `2021` `swift` `alamofire` `keychainswift` `lottie` 
   -  ☆`278` 
 - [Austria - Stopp Corona](https://github.com/austrianredcross/stopp-corona-ios): Keep track of encounters with friends, family or co-workers and save them anonymously
