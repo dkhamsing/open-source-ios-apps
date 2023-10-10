@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1503-green.svg) ![](https://img.shields.io/badge/Updated-October%20%209,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2010,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2808,6 +2808,9 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*NeMFTvgJVJiM8aiy4Pambw.png'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`2425` 
+- [DevSpotlight](https://github.com/DominatorVbN/DevSpotlight): Latest tech news
+  -  <a href='https://raw.githubusercontent.com/DominatorVbN/DevSpotlight/main/ios1.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `macos` 
 - [Hipstapaper](https://github.com/jeffreybergier/Hipstapaper): Cross-platform reading list
   -  <a href='https://github.com/jeffreybergier/Hipstapaper/raw/main/readme-screenshot.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `coredata` 
