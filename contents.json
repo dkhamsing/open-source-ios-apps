@@ -30898,6 +30898,23 @@
       "suggested_by": "@dkhamsing",
       "stars": 58,
       "updated": "2023-10-01 14:23:05 UTC"
-    }
+    },
+{
+      "title": "DevSpotlight",
+      "category-ids": [
+        "news"
+      ],
+      "screenshots": ["https://raw.githubusercontent.com/DominatorVbN/DevSpotlight/main/ios1.png"],
+      "description": "Latest tech news",
+      "source": "https://github.com/DominatorVbN/DevSpotlight",
+      "license": "other",
+      "tags": [
+        "swift",
+        "swiftui",
+        "macos"
+      ],
+      "date_added": "Oct 9 2023",
+      "suggested_by": "@dkhamsing"      
+    }    
   ]
 }
