@@ -279,6 +279,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [OpenClien](https://github.com/kewlbear/OpenClien)
 - [OpenIt](https://github.com/BalestraPatrick/OpenIt)
 - [OpenPics](https://github.com/pj4533/OpenPics)
+- [OpenSesame](https://github.com/OpenSesameManager/OpenSesame)
 - [OpenTerm](https://github.com/louisdh/openterm)
 - [Orbit7](https://github.com/Aaron-A/Orbit7)
 - [packlog](https://github.com/jdg/packlog)
