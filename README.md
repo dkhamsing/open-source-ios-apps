@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2010,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2011,%202023-lightgrey.svg)
 
 Jump to
 
@@ -5096,10 +5096,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/pitt500/OnlineStoreTCA/main/Images/demo1.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `tca` 
   -  ☆`176` 
-- [OpenSesame](https://github.com/OpenSesameManager/OpenSesame): Native and encrypted password manager
-  -  <a href='https://github.com/OpenSesameManager/OpenSesame/blob/main/Images/All.png?raw=true'>`Screenshot 1`</a> 
-  -  `2023` `swift` `swiftui` `macos` 
-  -  ☆`478` 
 - [OSRSUI](https://github.com/Dimillian/OSRSUI): Old School Runescape database browser
   -  `2020` `swift` `swiftui` `combine` 
   -  ☆`35` 
