@@ -95,7 +95,7 @@ Jump to
  
 
 - [Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-ios)
-  - [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566) <a href='https://i.imgur.com/UMYQpqx.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a66520cc-5bf8-49e0-bfff-f859de4ad37a'>`Screenshot 1`</a> 
   -  `2023` `c` `ipad` 
   -  ☆`832` 
 - [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on https://stepik.org/
@@ -801,7 +801,7 @@ File Management — [back to top](#readme)
   -  `2022` `react-native` `ipad` 
   -  ☆`155` 
 - [Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-ios)
-  - [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566) <a href='https://i.imgur.com/UMYQpqx.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a66520cc-5bf8-49e0-bfff-f859de4ad37a'>`Screenshot 1`</a> 
   -  `2023` `c` `ipad` 
   -  ☆`832` 
 - [MUDRammer](https://github.com/splinesoft/MUDRammer): For MUD (Multi-User Dungeon)
