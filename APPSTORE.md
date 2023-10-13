@@ -949,7 +949,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  ☆`76` 
 - [France - TousAntiCovid](https://gitlab.inria.fr/stopcovid19/stopcovid-ios)
   - <a href=https://www.economie.gouv.fr/tousanticovid>`https://www.economie.gouv.fr/tousanticovid`</a>
-  - [` App Store`](https://apps.apple.com/app/stopcovid-france/id1511279125) <a href='https://i.imgur.com/xCpSSbP.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/stopcovid-france/id1511279125) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9cddac33-77fa-48f5-8b61-f596e9594b63'>`Screenshot 1`</a> 
   - `swift` 
 - [Germany - Corona Warn App](https://github.com/corona-warn-app/cwa-app-ios): Uses Apple's Exposure Notification framework
   - [` App Store`](https://apps.apple.com/de/app/corona-warn-app/id1512595757) <a href='https://github.com/corona-warn-app/cwa-documentation/raw/main/images/ui_screens/ios/cwa_home_ios.png'>`Screenshot 1`</a> 
