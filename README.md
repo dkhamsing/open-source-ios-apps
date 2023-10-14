@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2013,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2014,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4426,7 +4426,7 @@ Cross platform projects — [back to top](#readme)
   -  `2019` `swift` `swiftui` `ios13` `ipad` `macos` 
   -  ☆`14` 
 - [Milestones](https://github.com/jpsim/Milestones): Count down the days until upcoming milestones
-  -  <a href='https://i.imgur.com/CmZhSrp.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fc649fcc-e716-46ab-9f04-b77b5bfd8872'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `combine` `macos` 
   -  ☆`198` 
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI): Browse movies, made with SwiftUI, Combine & MovieDB
@@ -5057,7 +5057,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2019` `swift` `swiftui` 
   -  ☆`100` 
 - [Milestones](https://github.com/jpsim/Milestones): Count down the days until upcoming milestones
-  -  <a href='https://i.imgur.com/CmZhSrp.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fc649fcc-e716-46ab-9f04-b77b5bfd8872'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `combine` `macos` 
   -  ☆`198` 
 - [MortyUI](https://github.com/Dimillian/MortyUI): Simple Rick & Morty app to demo GraphQL + SwiftUI
