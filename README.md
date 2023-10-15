@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2014,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2015,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2147,7 +2147,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
  
 
 - [Arc](https://github.com/sobri909/ArcMini): Learns about the places you visit & how you like to move around
-  - [` App Store`](https://apps.apple.com/app/arc-app-location-activity/id1063151918) <a href='https://i.imgur.com/48WzAt2.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/arc-app-location-activity/id1063151918) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/add2f568-16b9-442f-859a-d19e45c248bc'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`78` 
 - [Bike Compass](https://github.com/raulriera/Bike-Compass): City bicycle finder
