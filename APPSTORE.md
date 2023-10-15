@@ -1064,7 +1064,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
  
 
 - [Arc](https://github.com/sobri909/ArcMini): Learns about the places you visit & how you like to move around
-  - [` App Store`](https://apps.apple.com/app/arc-app-location-activity/id1063151918) <a href='https://i.imgur.com/48WzAt2.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/arc-app-location-activity/id1063151918) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/add2f568-16b9-442f-859a-d19e45c248bc'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`78` 
 - [Emission](https://github.com/e-mission/e-mission-phone): Track your travel modes and your travel carbon footprint, and compare them against other users
