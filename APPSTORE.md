@@ -1870,7 +1870,7 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/prefacto/id1402417667)
   -  `2023` `swift` 
 - [Say Their Names](https://github.com/Say-Their-Name/say-their-names-ios): Raises awareness of the injustice and often forgotten names of racial inequality, includes a catalog of verified donation and petition links
-  - [` App Store`](https://apps.apple.com/app/say-their-names/id1517599626) <a href='https://i.imgur.com/9l2ooUL.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/say-their-names/id1517599626) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a71406d7-15d2-4519-8ebb-f8c51c51c187'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`248` 
 - [Space UI](https://github.com/256Arts/Space-UI): Generate and access great, realistic looking sci-fi user interfaces for use in TV and film production
