@@ -4927,12 +4927,12 @@
       "updated": "2019-02-11 07:14:24 UTC"
     },
     {
-      "title": "Democracy",
+      "title": "Project Democracy",
       "description": "Helps you be a better citizen by providing fair, unbiased coverage of elections",
       "category-ids": [
         "news"
       ],
-      "source": "https://github.com/SkiingIsFun123/Project-Democracy",
+      "source": "https://github.com/itsliamdowd/Project-Democracy",
       "tags": [
         "swift"
       ],
