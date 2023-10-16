@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2015,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2016,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4010,7 +4010,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2020` `swift` 
   -  ☆`88` 
 - [Say Their Names](https://github.com/Say-Their-Name/say-their-names-ios): Raises awareness of the injustice and often forgotten names of racial inequality, includes a catalog of verified donation and petition links
-  - [` App Store`](https://apps.apple.com/app/say-their-names/id1517599626) <a href='https://i.imgur.com/9l2ooUL.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/say-their-names/id1517599626) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a71406d7-15d2-4519-8ebb-f8c51c51c187'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`248` 
 - [Shortcuts support for Micro.blog](https://github.com/vincode-io/Humboldt)
