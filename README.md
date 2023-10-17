@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2016,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2017,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2800,10 +2800,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/beam-for-reddit/id937987469) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/ab/1c/34/ab1c34ca-9913-ef85-ae35-10c2c7d3b7a6/mzl.gkpfevya.png/316x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/79/57/eb795798-bba3-21d5-6070-d8f508af1be0/mzl.lbvrfpjf.png/316x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/13/5d/53/135d536b-5ec2-a567-d72a-c5e6fb12f804/mzl.rzeufpyk.png/316x0w.jpg'>`Screenshot 3`</a> 
   -  `2020` `swift` `objc` 
   -  ☆`267` 
-- [Democracy](https://github.com/SkiingIsFun123/Project-Democracy): Helps you be a better citizen by providing fair, unbiased coverage of elections
-  - [` App Store`](https://apps.apple.com/app/project-democracy/id6443437676)
-  -  `2023` `swift` 
-  -  ☆`8` 
 - [Designer News](https://github.com/MengTo/DesignerNewsApp): Browse the https://www.designernews.co/ design & technology site
   -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*NeMFTvgJVJiM8aiy4Pambw.png'>`Screenshot 1`</a> 
   -  `2019` `swift` 
@@ -2823,6 +2819,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/TheCodeMonks/NYTimes-iOS/master/NYTimes%20Screenshots/Banner%400.25x.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `combine` `swiftsoup` 
   -  ☆`242` 
+- [Project Democracy](https://github.com/itsliamdowd/Project-Democracy): Helps you be a better citizen by providing fair, unbiased coverage of elections
+  - [` App Store`](https://apps.apple.com/app/project-democracy/id6443437676)
+  -  `2023` `swift` 
+  -  ☆`8` 
 - [reddift](https://github.com/sonsongithub/reddift): Reddit browser, search, comments
   -  <a href='https://cloud.githubusercontent.com/assets/33768/22405496/0c84f384-e687-11e6-9658-5ebf9d39a082.gif'>`Screenshot 1`</a> 
   -  `2020` `swift` 
