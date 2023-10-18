@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2017,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2018,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3651,7 +3651,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2023` `react-native` 
   -  ☆`38801` 
 - [Jotify](https://github.com/leathalman/Jotify): Quick note taking
-  - [` App Store`](https://apps.apple.com/app/jotify/id1469983730) <a href='https://i.imgur.com/RzKd4VV.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/jotify/id1469983730) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b5890d4b-813c-4802-b75a-d5f7c8fe6d49'>`Screenshot 1`</a> 
   -  `2022` `swift` `ipad` 
   -  ☆`141` 
 - [Logger](https://github.com/nathanborror/logger): Quickly send messages to yourself as a means of note taking
