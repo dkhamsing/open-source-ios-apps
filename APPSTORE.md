@@ -2197,7 +2197,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2023` `swift` `swiftui` 
   -  ☆`13` 
 - [Tell Time UK](https://github.com/renaudjenny/telltime): Tell time in British English
-  - [` App Store`](https://apps.apple.com/app/tell-time-uk/id1496541173) <a href='https://i.imgur.com/aidCkq1.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/tell-time-uk/id1496541173) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0dcab4d6-99d0-4b9b-b0d1-168d1df7e72f'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`55` 
 - [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app
