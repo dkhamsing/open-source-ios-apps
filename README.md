@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2019,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2021,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2025,7 +2025,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  ☆`509` 
 - [Italy - Immuni](https://github.com/immuni-app/immuni-app-ios)
   - <a href=https://www.immuni.italia.it/>`https://www.immuni.italia.it/`</a>
-  - [` App Store`](https://apps.apple.com/it/app/immuni/id1513940977) <a href='https://i.imgur.com/XY1igkP.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/it/app/immuni/id1513940977) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0d30d103-e7f2-4422-aef6-5fbd1c405e19'>`Screenshot 1`</a> 
   -  `2022` `swift` `alamofire` `katana` `tempura` `bonmot` 
   -  ☆`547` 
 - [Japan - COCOA](https://github.com/cocoa-mhlw/cocoa): COVID-19 Contact-Confirming Application
