@@ -927,7 +927,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2022` `swift` `swiftlint` `moya` `swiftybeaver` `firebase` `sqlite` `lottie` 
   -  ☆`157` 
 - [Bulgaria - ViruSafe](https://github.com/scalefocus/virusafe-ios): Share symptoms as well track the spread of COVID-19 with an interactive map
-  - [` App Store`](https://apps.apple.com/bg/app/virusafe/id1506362170) <a href='https://i.imgur.com/u6kmnSm.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/bg/app/virusafe/id1506362170) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f7b2b7ce-1a94-4dd6-8e58-d70ffbe55cbf'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`16` 
 - [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app)
