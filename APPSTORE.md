@@ -983,7 +983,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2022` `csharp` 
   -  ☆`992` 
 - [Poland - ProteGO Safe](https://github.com/ProteGO-Safe/ios): User daily triage and contact tracing using Exposure Notification API
-  - [` App Store`](https://apps.apple.com/app/protego-safe/id1508481566) <a href='https://i.imgur.com/Qy5fzXo.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/protego-safe/id1508481566) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/1e70f5e9-78a0-4d53-b176-03393309c91a'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`87` 
 - [Spain - RadarCOVID](https://github.com/RadarCOVID/radar-covid-ios): RadarCOVID tracing using DP3T
