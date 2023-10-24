@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2023,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2024,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2443,7 +2443,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`77` 
 - [BringMyOwnBeer](https://github.com/fimuxd/BringMyOwnBeer-): Beer browser
-  -  <a href='https://i.imgur.com/yaAkrpm.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/1b79c2dd-495e-4ce7-bf28-2e149085c91f'>`Screenshot 1`</a> 
   -  `2021` `swift` `rxswift` `kingfisher` 
   -  ☆`88` 
 - [BringMyOwnBeer](https://github.com/fimuxd/BringMyOwnBeer-Combine): Beer browser (Combine)
