@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **342** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **343** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -702,6 +702,9 @@ File Management — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Dime](https://github.com/rarfell/dimeApp): Beautiful expense tracker built with iOS design guidelines in mind
+  - [` App Store`](https://apps.apple.com/app/dime-budget-expense-tracker/id1635280255) <a href='https://github.com/rarfell/dimeApp/blob/main/ReadmeAssets/hero.png?raw=true'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [Motivator](https://github.com/DaniSpringer/timeismoney): Countdown for how much more you can make today
   - [` App Store`](https://apps.apple.com/app/motivator-money-counter/id6444535220)
   -  `2023` `swift` 
