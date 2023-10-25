@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1504-green.svg) ![](https://img.shields.io/badge/Updated-October%2024,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-October%2025,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1437,6 +1437,9 @@ File Management — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/argent-os/argent-ios/master/demo.png'>`Screenshot 1`</a> 
   -  `2017` `swift` 
   -  ☆`46` 
+- [Dime](https://github.com/rarfell/dimeApp): Beautiful expense tracker built with iOS design guidelines in mind
+  - [` App Store`](https://apps.apple.com/app/dime-budget-expense-tracker/id1635280255) <a href='https://github.com/rarfell/dimeApp/blob/main/ReadmeAssets/hero.png?raw=true'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [DivRise](https://github.com/ThasianX/DivRise): Elegant dividend yield and income tracker
   -  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png?raw=true'>`Screenshot 3`</a> 
   -  `2020` `swiftui` `dividend` `income tracker` 
