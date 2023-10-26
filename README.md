@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-October%2025,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-October%2026,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4191,7 +4191,7 @@ https://flutter.dev — [back to top](#readme)
 - [Deer](https://github.com/aleksanderwozniak/deer): Minimalist Flutter Todo App, built using BLoC pattern
   -  `2020` `flutter` `dart` 
   -  ☆`391` 
-- [FEhViewer](https://github.com/honjow/FEhViewer): Unofficial E-Hentai viewer
+- [FEhViewer](https://github.com/3003h/FEhViewer): Unofficial E-Hentai viewer
   -  <a href='https://raw.githubusercontent.com/honjow/FEhViewer/master/screenshot/home1.jpg'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` `adult` 
   -  ☆`2062` 
