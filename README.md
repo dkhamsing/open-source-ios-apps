@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-October%2026,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-October%2028,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2373,7 +2373,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2017` `afnetworking` `mpmovieplayer` `iphone` 
   -  ☆`500` 
 - [Formant Plotter](https://github.com/fulldecent/formant-analyzer): The user speaks and the formant is plotted on the screen
-  -  <a href='https://i.imgur.com/bJXOLoo.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/36840778-4f5a-4fed-8e71-c90862c5d193'>`Screenshot 1`</a> 
   -  `2021` `swift` `ipad` 
   -  ☆`52` 
 - [MiamiSunglasses](https://github.com/MoralCode/MiamiSunglasses): Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation (YEAAAAAAAAAAHH)
