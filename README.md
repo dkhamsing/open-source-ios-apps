@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-October%2028,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-October%2029,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2937,7 +2937,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2023` `swift` `tvos` `extension` 
   -  ☆`172` 
 - [NewsApiApp](https://github.com/SchwiftyUI/NewsApiApp): News app with image caching and infinite loading
-  -  <a href='https://i.imgur.com/8KPNblj.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/99e25cd1-ebe3-4541-aaf8-734f389b1a36'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`37` 
 - [NewsAPISwift](https://github.com/lucaslimapoa/NewsAPISwift)
@@ -5083,7 +5083,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2020` `swift` `swiftui` `swiftnio` `irc` 
   -  ☆`18` 
 - [NewsApiApp](https://github.com/SchwiftyUI/NewsApiApp): News app with image caching and infinite loading
-  -  <a href='https://i.imgur.com/8KPNblj.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/99e25cd1-ebe3-4541-aaf8-734f389b1a36'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`37` 
 - [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)
