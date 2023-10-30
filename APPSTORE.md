@@ -146,7 +146,7 @@ Jump to
   -  `2022` `swift` `apple-watch` `ipad` 
   -  ☆`204` 
 - [SafeTimer](https://github.com/Chubby-Apps/SafeTimer): Control hours of use left for all kinds of tools, supplies & equipment
-  - [` App Store`](https://apps.apple.com/app/apple-store/id1512032981) <a href='https://i.imgur.com/hgpAKK7.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/apple-store/id1512032981) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/5b9f32b3-e190-4ca5-bd60-e9e00bb6bd73'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`15` 
 - [Watch Clicker Presentation](https://github.com/ezefranca/watchpresenter): Control your Keynote using Apple Watch
