@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-October%2030,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-October%2031,%202023-lightgrey.svg)
 
 Jump to
 
@@ -164,7 +164,7 @@ Jump to
   -  `2022` `swift` 
   -  ☆`51` 
 - [8 Ball Answers](https://github.com/fulldecent/8-ball)
-  -  <a href='https://i.imgur.com/A6FgT4Z.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/32a6a550-4ff1-40e7-bd4e-fbea2b3ec986'>`Screenshot 1`</a> 
   -  `2023` `swift` `watchos` 
   -  ☆`14` 
 - [Apollo](https://github.com/KhaosT/open-apollo): Spotify player for watchOS
