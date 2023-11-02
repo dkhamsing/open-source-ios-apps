@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%20%201,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%20%202,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1730,7 +1730,7 @@ File Management — [back to top](#readme)
   -  `2023` `csharp` 
   -  ☆`13085` 
 - [Pizza-Man](https://github.com/fulldecent/pizzaman): Play this devilishly difficult diversion
-  - [` App Store`](https://apps.apple.com/app/pizza-man/id931174800) <a href='https://i.imgur.com/g7PQMxc.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/pizza-man/id931174800) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/c68b4414-07a0-445f-a3e0-eaa69a32a180'>`Screenshot 1`</a> 
   -  `2021` `swift` `ipad` 
   -  ☆`9` 
 - [Ragnarok](https://github.com/riley-usagi/SwiftAdvance): Simple game for folks learning Swift
