@@ -1202,7 +1202,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`1309` 
 - [Concertino](https://github.com/openopus-org/concertino_ios): Classical music and Apple Music working together
-  - [` App Store`](https://apps.apple.com/app/concertino/id1506663568) <a href='https://i.imgur.com/lZip9JG.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/concertino/id1506663568) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4c68ecdf-6fce-462e-8d8d-368cbd02f43c'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`114` 
 - [Monotone Delay](https://github.com/jkandzi/Monotone-Delay): A simple synthesiser, based on the Korg Monotron Delay
