@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%20%202,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%20%203,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2366,7 +2366,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`1309` 
 - [Concertino](https://github.com/openopus-org/concertino_ios): Classical music and Apple Music working together
-  - [` App Store`](https://apps.apple.com/app/concertino/id1506663568) <a href='https://i.imgur.com/lZip9JG.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/concertino/id1506663568) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4c68ecdf-6fce-462e-8d8d-368cbd02f43c'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`114` 
 - [DoubanFM](https://github.com/XVXVXXX/DoubanFM)
