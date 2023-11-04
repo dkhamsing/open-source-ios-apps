@@ -1985,7 +1985,7 @@ https://ionicframework.com/ — [back to top](#readme)
  
 
 - [Condution Task Manager](https://github.com/Shabang-Systems/Condution)
-  - [` App Store`](https://apps.apple.com/app/condution/id1523249900) <a href='https://i.imgur.com/dJyPHU6.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/condution/id1523249900) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fa34a310-abfd-400c-a045-811ce9d84433'>`Screenshot 1`</a> 
   -  `2023` `capacitor` `ionic` `javascript` `ipad` 
   -  ☆`381` 
 ### macOS 
