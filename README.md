@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%20%203,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%20%204,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4377,7 +4377,7 @@ https://ionicframework.com/ — [back to top](#readme)
  
 
 - [Condution Task Manager](https://github.com/Shabang-Systems/Condution)
-  - [` App Store`](https://apps.apple.com/app/condution/id1523249900) <a href='https://i.imgur.com/dJyPHU6.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/condution/id1523249900) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fa34a310-abfd-400c-a045-811ce9d84433'>`Screenshot 1`</a> 
   -  `2023` `capacitor` `ionic` `javascript` `ipad` 
   -  ☆`381` 
 ### macOS 
