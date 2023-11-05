@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%20%204,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%20%205,%202023-lightgrey.svg)
 
 Jump to
 
@@ -5312,7 +5312,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2022` `swift` 
   -  ☆`44` 
 - [UnofficialSandwiches](https://github.com/dempseyatgithub/UnofficialSandwiches): Unofficial version of the Sandwiches app from The WWDC20 Session Introduction to SwiftUI
-  -  <a href='https://i.imgur.com/z6FqTcp.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/77a69eeb-22da-4019-b283-5fdf69c75e82'>`Screenshot 1`</a> 
   -  `2020` `swift` `swiftui` 
   -  ☆`94` 
 - [US NewsFeed](https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM)
