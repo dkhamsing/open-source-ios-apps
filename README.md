@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%20%205,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%20%206,%202023-lightgrey.svg)
 
 Jump to
 
@@ -260,7 +260,7 @@ Jump to
   -  `2021` `swift` 
   -  ☆`118` 
 - [Pomosh](https://github.com/stevenselcuk/Pomosh-iOS-watchOS): Pomodoro Technique assistant
-  -  <a href='https://i.imgur.com/oOfVj2I.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/cI77YU1.png'>`Screenshot 2`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ac2f2230-23ad-4f7c-9625-862b365565d3'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` 
   -  ☆`75` 
 - [Quote Today](https://github.com/SaiBalaji-PSS/Quote-Today): Display a random quote from the Quote API
@@ -3706,7 +3706,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2020` `swift` 
   -  ☆`533` 
 - [Pomosh](https://github.com/stevenselcuk/Pomosh-iOS-watchOS): Pomodoro Technique assistant
-  -  <a href='https://i.imgur.com/oOfVj2I.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/cI77YU1.png'>`Screenshot 2`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ac2f2230-23ad-4f7c-9625-862b365565d3'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` 
   -  ☆`75` 
 - [TrackMyTime](https://github.com/EvgenyKarkan/TrackMyTime)
