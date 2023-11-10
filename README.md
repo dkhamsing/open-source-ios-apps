@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%20%209,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2010,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4817,7 +4817,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2020` `swift` `swiftui` `combine` 
   -  ☆`8` 
 - [App Switcher](https://github.com/crafterm/swiftui-app-switcher)
-  -  <a href='https://i.imgur.com/bAz5erU.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/16251b87-5ff9-49f6-8b08-8bd39ba0f454'>`Screenshot 1`</a> 
   -  `2020` `swift` `swiftui` 
   -  ☆`65` 
 - [Apple clock widget](https://github.com/ntnhon/Random-SwiftUI)
