@@ -711,7 +711,7 @@ File Management — [back to top](#readme)
   -  `2023` `swift` 
 - [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances
   - <a href=https://www.jaydenirwin.com/myassets/>`https://www.jaydenirwin.com/myassets/`</a>
-  - [` App Store`](https://apps.apple.com/app/my-assets/id1592367070) <a href='https://www.jaydenirwin.com/myassets/shot1.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/my-assets/id1592367070)
   -  `2023` `swift` `swiftui` 
   -  ☆`2` 
 - [SIP Calculator](https://github.com/tirupati17/sip-calculator-swift): Calculate the future value of SIP (Systematic Investment Plan) payments
@@ -1306,16 +1306,16 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  ☆`85` 
 - [Sprite Catalog](https://github.com/256Arts/Sprite-Catalog): A large collection of pixel art sprites and resources
   - <a href=https://www.jaydenirwin.com/spritecatalog/>`https://www.jaydenirwin.com/spritecatalog/`</a>
-  - [` App Store`](https://apps.apple.com/app/sprite-catalog/id1560692872) <a href='https://www.jaydenirwin.com/spritecatalog/shot1.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/sprite-catalog/id1560692872)
   -  `2023` `swift` `swiftui` 
   -  ☆`2` 
 - [Sprite Cutter](https://github.com/256Arts/Sprite-Cutter): Quickly cut spritesheets into separate sprite PNG images
   - <a href=https://www.jaydenirwin.com/spritecutter/>`https://www.jaydenirwin.com/spritecutter/`</a>
-  - [` App Store`](https://apps.apple.com/app/sprite-cutter/id1562779425) <a href='https://www.jaydenirwin.com/spritecutter/shot1.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/sprite-cutter/id1562779425)
   -  `2022` `swift` `swiftui` 
 - [Sprite Pencil](https://github.com/256Arts/Sprite-Pencil): Create and edit sprites and pixel art
   - <a href=https://www.jaydenirwin.com/spritepencil/>`https://www.jaydenirwin.com/spritepencil/`</a>
-  - [` App Store`](https://apps.apple.com/app/sprite-pencil/id1437835952) <a href='https://www.jaydenirwin.com/spritepencil/shot1.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/sprite-pencil/id1437835952)
   -  `2023` `swift` 
   -  ☆`5` 
 - [Upupu](https://github.com/xcoo/upupu): Simple camera that can backup pictures
@@ -1723,7 +1723,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  ☆`46` 
 - [Sprite Fonts](https://github.com/256Arts/Sprite-Fonts): Install a variety of pixel perfect fonts for use in other apps
   - <a href=https://www.jaydenirwin.com/spritefonts/>`https://www.jaydenirwin.com/spritefonts/`</a>
-  - [` App Store`](https://apps.apple.com/app/sprite-fonts/id1554027877) <a href='https://www.jaydenirwin.com/spritefonts/shot1.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/sprite-fonts/id1554027877)
   -  `2022` `swift` `swiftui` 
   -  ☆`1` 
 - [TypeStyle](https://github.com/tapmoko/typestyle): Stylize your text and add decorations
@@ -1884,7 +1884,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  ☆`2` 
 - [Symbol Code](https://github.com/256Arts/Symbol-Code): Programs execute visually by moving variables around the symbol grid
   - <a href=https://www.jaydenirwin.com/sfcode/>`https://www.jaydenirwin.com/sfcode/`</a>
-  - [` App Store`](https://apps.apple.com/app/sf-code/id1568916751) <a href='https://www.jaydenirwin.com/sfcode/shot1.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/sf-code/id1568916751)
   -  `2022` `swift` `swiftui` 
 - [TriangleDraw](https://github.com/triangledraw/TriangleDraw-iOS): Create logos, typography, and other graphics, using nothing but triangles
   - <a href=https://www.triangledraw.com/>`https://www.triangledraw.com/`</a>
