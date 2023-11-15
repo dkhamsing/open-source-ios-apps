@@ -1804,7 +1804,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2023` `swift` `pantry` 
   -  ☆`137` 
 - [Alfresco secure content management](https://github.com/Alfresco/alfresco-ios-app)
-  - [` App Store`](https://apps.apple.com/app/alfresco/id459242610) <a href='https://i.imgur.com/wCinRSS.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/alfresco/id459242610) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2ecea54f-5b91-44e3-945a-cd47d0c34334'>`Screenshot 1`</a> 
   -  `2023` `objc` `ipad` 
   -  ☆`42` 
 - [Bean Juice](https://github.com/NiftyTreeStudios/Bean-Juice): Coffee brewing recipes
