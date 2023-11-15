@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2014,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2015,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3819,7 +3819,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2023` `swift` `pantry` 
   -  ☆`137` 
 - [Alfresco secure content management](https://github.com/Alfresco/alfresco-ios-app)
-  - [` App Store`](https://apps.apple.com/app/alfresco/id459242610) <a href='https://i.imgur.com/wCinRSS.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/alfresco/id459242610) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2ecea54f-5b91-44e3-945a-cd47d0c34334'>`Screenshot 1`</a> 
   -  `2023` `objc` `ipad` 
   -  ☆`42` 
 - [AltStore](https://github.com/altstoreio/AltStore): An alternate App Store, no jailbreak required
