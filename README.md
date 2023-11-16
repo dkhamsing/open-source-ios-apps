@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2015,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2016,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4026,7 +4026,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2019` `objc` 
   -  ☆`597` 
 - [SortingAlgorithmsApp](https://github.com/victorpanitz/iOS-SortingAlgorithmsApp)
-  -  <a href='https://i.imgur.com/CL9hL95.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4237eb9f-6d02-4227-abe0-c2867cf8d09b'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`46` 
 - [Space UI](https://github.com/256Arts/Space-UI): Generate and access great, realistic looking sci-fi user interfaces for use in TV and film production
