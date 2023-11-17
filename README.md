@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2016,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2017,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4227,7 +4227,7 @@ https://flutter.dev — [back to top](#readme)
   -  `2020` `flutter` `dart` `tmdb` 
   -  ☆`15` 
 - [flutterflip](https://github.com/RedBrogdon/flutterflip): Single-player reversi game clone
-  -  <a href='https://i.imgur.com/A96Hdcr.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0c22e5da-e33b-4f54-adc3-da77bd96727e'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`263` 
 - [Fluttergram](https://github.com/mdanics/fluttergram): Instagram clone using Flutter, Firebase, Firestore
