@@ -992,7 +992,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  ☆`87` 
 - [Spain - RadarCOVID](https://github.com/RadarCOVID/radar-covid-ios): RadarCOVID tracing using DP3T
   - <a href=https://radarcovid.gob.es>`https://radarcovid.gob.es`</a>
-  - [` App Store`](https://apps.apple.com/app/radar-covid/id1520443509) <a href='https://i.imgur.com/ZuwiVyO.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/radar-covid/id1520443509) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b8914750-06ce-484c-bb25-dcfa1ff900be'>`Screenshot 1`</a> 
   -  `2022` `swift` `dp3t` 
   -  ☆`145` 
 - [Switzerland - SwissCovid](https://github.com/SwissCovid/swisscovid-app-ios): COVID-19 tracing using the Decentralised Privacy-Preserving Proximity Tracing (DP-3T or DP3T)
