@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2018,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2019,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3791,7 +3791,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`7` 
 - [Sunshine Weather](https://github.com/MaximeHeckel/sunshine-weather-app)
-  -  <a href='https://i.imgur.com/gLwqXmY.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f5b9b19a-bd62-4e0d-aa8c-e84123db3077'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` `openweathermap` 
   -  ☆`21` 
 - [SwiftLanguageWeather](https://github.com/JakeLin/SwiftLanguageWeather)
@@ -5209,7 +5209,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2023` `swift` `swiftui` 
   -  ☆`40` 
 - [Sunshine Weather](https://github.com/MaximeHeckel/sunshine-weather-app)
-  -  <a href='https://i.imgur.com/gLwqXmY.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f5b9b19a-bd62-4e0d-aa8c-e84123db3077'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` `openweathermap` 
   -  ☆`21` 
 - [Swift Charts Examples](https://github.com/jordibruin/Swift-Charts-Examples)
