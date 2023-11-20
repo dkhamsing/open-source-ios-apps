@@ -470,7 +470,7 @@ Jump to
   -  `2023` `swift` 
   -  ☆`40` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
-  - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a175e471-523d-4137-add4-c02ef6fa0dff'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`94` 
 - [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling
@@ -1998,7 +1998,7 @@ Cross platform projects — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`1886` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
-  - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a175e471-523d-4137-add4-c02ef6fa0dff'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`94` 
 - [Hour Blocks](https://github.com/jtsaeed/Hour-Blocks): Day Planner
@@ -2148,7 +2148,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2022` `swift` `swiftui` 
   -  ☆`116` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
-  - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a175e471-523d-4137-add4-c02ef6fa0dff'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`94` 
 - [Fabula](https://github.com/jasudev/FabulaItemsProvider): Share and communicate with developers around the world
