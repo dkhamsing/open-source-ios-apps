@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2019,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2020,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1025,7 +1025,7 @@ Jump to
   -  `2023` `swift` 
   -  ☆`40` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
-  - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a175e471-523d-4137-add4-c02ef6fa0dff'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`94` 
 - [DiscussIt](https://github.com/ethanswift/DiscussIt): Scholarly article search, discussion forum and discussion board
@@ -4402,7 +4402,7 @@ Cross platform projects — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`1539` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
-  - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a175e471-523d-4137-add4-c02ef6fa0dff'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`94` 
 - [Food Truck](https://github.com/apple/sample-food-truck): Create a single codebase and app target for Mac, iPad, and iPhone. Sample code by Apple
@@ -4911,7 +4911,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2019` `swift` `swiftui` `ipad` 
   -  ☆`748` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
-  - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://i.imgur.com/pyO2KGA.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a175e471-523d-4137-add4-c02ef6fa0dff'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`94` 
 - [Directory](https://github.com/hbmartin/Directory-SwiftUI)
