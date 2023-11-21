@@ -1677,7 +1677,7 @@ https://joinmastodon.org — [back to top](#readme)
  
 
 - [Metatext](https://github.com/metabolist/metatext): An accessible Mastodon client
-  - [` App Store`](https://apps.apple.com/app/metatext/id1523996615) <a href='https://i.imgur.com/zVvJQQv.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/yYi56m9.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/64vIXsb.png'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/metatext/id1523996615) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0e74587f-89b8-4d00-a2b8-dfffb421619f'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`734` 
 - [Tusker](https://git.shadowfacts.net/shadowfacts/Tusker)
