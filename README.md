@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2021,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2022,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4081,7 +4081,7 @@ https://joinmastodon.org — [back to top](#readme)
  
 
 - [DeltaUI](https://github.com/ericlewis/DeltaUI): SwiftUI + CoreData user interface for DeltaCore & Friends
-  -  <a href='https://i.imgur.com/L5VsH6Z.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/TUtp5wZ.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/SIn2Ald.png'>`Screenshot 3`</a>  <a href='https://i.imgur.com/OR2nAOF.png'>`Screenshot 4`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/bbd04c26-7251-446f-96ab-8d520bd60093'>`Screenshot 1`</a> 
   -  `2021` `swift` `coredata` `swiftui` 
   -  ☆`69` 
 - [Expense Tracker](https://github.com/alfianlosari/SwiftUICDExpenseTrackerCompleted)
