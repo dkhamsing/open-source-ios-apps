@@ -420,7 +420,7 @@ Jump to
   -  `2023` `objc` 
   -  ☆`503` 
 - [GistHub](https://github.com/ldakhoa/GistHub): GitHub Gist Management, Comment, In-app Editor
-  - [` App Store`](https://apps.apple.com/app/gisthub/id1660465260) <a href='https://imgur.com/PorFi4s'>`Screenshot 1`</a>  <a href='https://imgur.com/MUNRH0y'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/app/gisthub/id1660465260) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/89053471-20aa-4ab7-ab5a-ecf34c372093'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `asyncswift` 
   -  ☆`67` 
 - [GitHawk](https://github.com/GitHawkApp/GitHawk): GitHub project manager
