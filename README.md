@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2023,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2024,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3806,7 +3806,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2021` `dark sky api (forecast api)` `reactivecocoa` 
   -  ☆`1518` 
 - [YoCelsius](https://github.com/YouXianMing/YoCelsius)
-  -  <a href='https://i.imgur.com/PxneNkI.gif'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3179d52e-fc87-4043-95dc-b541d28a95da'>`Screenshot 1`</a> 
   -  `2023` `objc` 
   -  ☆`2883` 
 ## Misc 
