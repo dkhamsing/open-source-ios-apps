@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2026,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2027,%202023-lightgrey.svg)
 
 Jump to
 
@@ -360,7 +360,7 @@ Jump to
   -  `2022` `swift` 
   -  ☆`61` 
 - [Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator): React Native calculator
-  -  <a href='https://i.imgur.com/8OKDHjU.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/29330b53-7fe9-4a62-accf-aa82c5658f67'>`Screenshot 1`</a> 
   -  `2021` `react-native` 
   -  ☆`5207` 
 - [calcupad](https://github.com/kwonye/calcupad)
@@ -4490,7 +4490,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2022` `react-native` 
   -  ☆`48` 
 - [Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator): React Native calculator
-  -  <a href='https://i.imgur.com/8OKDHjU.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/29330b53-7fe9-4a62-accf-aa82c5658f67'>`Screenshot 1`</a> 
   -  `2021` `react-native` 
   -  ☆`5207` 
 - [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app)
