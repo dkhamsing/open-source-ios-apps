@@ -516,7 +516,7 @@ Jump to
   -  `2018` `objc` 
   -  ☆`7` 
 - [Ulangi](https://github.com/ulangi/ulangi): Learn languages using popular methods such as spaced repetition
-  - [` App Store`](https://apps.apple.com/app/id1435524341) <a href='https://i.imgur.com/dd24iEf.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1435524341) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/06bb7b52-5b66-4825-ae95-489e634b05dd'>`Screenshot 1`</a> 
   -  `2023` `react-native` `ipad` 
   -  ☆`431` 
 - [WaniKani](https://github.com/haawa799/-WaniKani2): Learn kanji with https://www.wanikani.com/
