@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2029,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2030,%202023-lightgrey.svg)
 
 Jump to
 
@@ -220,7 +220,7 @@ Jump to
   -  `2023` `swift` `swiftui` 
   -  ☆`23` 
 - [HeartControl](https://github.com/thomaspaulmann/HeartControl): Continuous heart rate measurement during workouts
-  -  <a href='https://i.imgur.com/AggsuxA.png'>`Screenshot 1`</a>  <a href='https://i.imgur.com/r8El1FE.png'>`Screenshot 2`</a>  <a href='https://i.imgur.com/zCkknWc.png'>`Screenshot 3`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/5df9d7bf-c8d6-4977-9692-98100471123d'>`Screenshot 1`</a> 
   -  `2021` `swift` `watchos3` 
   -  ☆`189` 
 - [heartrate](https://github.com/coolioxlr/watchOS-2-heartrate): Show streaming heart rate from the watch
