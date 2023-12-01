@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-November%2030,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-December%20%201,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2923,7 +2923,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2023` `flutter` `dart` 
   -  ☆`453` 
 - [live-news-viper](https://github.com/smalam119/live-news-viper): News app using VIPER
-  -  <a href='https://i.imgur.com/COrDl6n.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2faf5a74-74b0-48d4-82d7-0a0975e826b2'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`158` 
 - [News](https://github.com/ivan-magda/News): Discover & read news on a range of news sources/blogs
@@ -5368,7 +5368,7 @@ https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme)
   -  `2019` `swift` `coreml` `avkit` `viper` 
   -  ☆`36` 
 - [live-news-viper](https://github.com/smalam119/live-news-viper): News app using VIPER
-  -  <a href='https://i.imgur.com/COrDl6n.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2faf5a74-74b0-48d4-82d7-0a0975e826b2'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`158` 
 - [Memory Game](https://github.com/windwithbirds/mobile-ios-vipergame): Memory game using VIPER with robust Unit Tests and Fastlane
