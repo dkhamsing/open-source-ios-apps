@@ -30983,6 +30983,19 @@
       "suggested_by": "@dkhamsing",
       "stars": 382,
       "updated": "2023-11-26 15:14:03 UTC"
-    }
+    },
+    {
+      "title": "Using on-demand resources for securely storing API keys",
+      "category-ids": [
+        "sample"
+      ], 
+      "source": "https://github.com/laevandus/OnDemandAPIKeyExample",       
+      "license": "mit",
+      "tags": [
+        "swift"         
+      ],
+      "date_added": "Dec 1 2023",
+      "suggested_by": "@dkhamsing"             
+    }    
   ]
 }
