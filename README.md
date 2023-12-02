@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1505-green.svg) ![](https://img.shields.io/badge/Updated-December%20%201,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%20%202,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3274,6 +3274,8 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2022` `swift` 
   -  ☆`3` 
 - [UIKit Catalog by Apple](https://developer.apple.com/documentation/uikit/views_and_controls/uikit_catalog_creating_and_customizing_views_and_controls)
+  - `swift` 
+- [Using on-demand resources for securely storing API keys](https://github.com/laevandus/OnDemandAPIKeyExample)
   - `swift` 
 ## Scan 
  
