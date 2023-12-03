@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%20%202,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%20%203,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3221,7 +3221,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2018` `swift` 
   -  ☆`313` 
 - [Restaurant Viewing](https://github.com/gtokman/Restaurant-Viewing-App)
-  -  <a href='https://i.imgur.com/9thpBwq.gif'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e65417a-339d-4281-a5f1-6db84ea879a2'>`Screenshot 1`</a> 
   -  `2019` `swift` `alamofire` `moya` `corelocation` 
   -  ☆`46` 
 - [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest): Demo of how to auto-login users using Safari cookies
