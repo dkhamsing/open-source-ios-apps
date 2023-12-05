@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%20%204,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%20%205,%202023-lightgrey.svg)
 
 Jump to
 
@@ -5075,7 +5075,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2023` `swift` `swiftui` `mvi` `model-view-intent` 
   -  ☆`48` 
 - [NeoIRC](https://github.com/NozeIO/NeoIRC): Simple Internet Relay Chat
-  -  <a href='https://i.imgur.com/oNsPtEk.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/81d321d0-e4bd-452a-97c8-9ccfd8585941'>`Screenshot 1`</a> 
   -  `2020` `swift` `swiftui` `swiftnio` `irc` 
   -  ☆`19` 
 - [NewsApiApp](https://github.com/SchwiftyUI/NewsApiApp): News app with image caching and infinite loading
