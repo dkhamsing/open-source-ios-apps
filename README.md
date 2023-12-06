@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%20%205,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%20%206,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1981,7 +1981,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2020` `swift` 
   -  ☆`16` 
 - [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app)
-  - [` App Store`](https://apps.apple.com/app/id1520284227) <a href='https://i.imgur.com/VtkXEik.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1520284227) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3bfd8fe9-58a3-4f52-91a6-16426a6be60d'>`Screenshot 1`</a> 
   -  `2022` `react-native` 
   -  ☆`890` 
 - [Croatia - Stop COVID-19](https://github.com/Stop-COVID-19-Croatia/stopcovid19-ios)
@@ -4496,7 +4496,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2021` `react-native` 
   -  ☆`5206` 
 - [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app)
-  - [` App Store`](https://apps.apple.com/app/id1520284227) <a href='https://i.imgur.com/VtkXEik.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1520284227) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3bfd8fe9-58a3-4f52-91a6-16426a6be60d'>`Screenshot 1`</a> 
   -  `2022` `react-native` 
   -  ☆`890` 
 - [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app): Live chat for businesses
