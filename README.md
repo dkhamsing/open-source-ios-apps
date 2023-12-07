@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%20%206,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%20%207,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2006,7 +2006,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`1704` 
 - [Haiti, Guam, Puerto Rico, Wyoming - COVID Safe Paths](https://github.com/Path-Check/safeplaces-dct-app): COVID-19 exposure notification and contract tracing
-  - [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966) <a href='https://i.imgur.com/N5hdont.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/200dfb7d-3dd6-421e-b05b-bad5ef709d87'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`465` 
 - [Iceland - rakning-c19-app](https://github.com/aranja/rakning-c19-app): Help analyse individuals’ travel and trace their movements when cases of infection arise
@@ -4528,7 +4528,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2022` `react-native` 
   -  ☆`56` 
 - [Haiti, Guam, Puerto Rico, Wyoming - COVID Safe Paths](https://github.com/Path-Check/safeplaces-dct-app): COVID-19 exposure notification and contract tracing
-  - [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966) <a href='https://i.imgur.com/N5hdont.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/200dfb7d-3dd6-421e-b05b-bad5ef709d87'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`465` 
 - [Iceland - rakning-c19-app](https://github.com/aranja/rakning-c19-app): Help analyse individuals’ travel and trace their movements when cases of infection arise
