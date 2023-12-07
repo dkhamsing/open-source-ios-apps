@@ -960,7 +960,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`1704` 
 - [Haiti, Guam, Puerto Rico, Wyoming - COVID Safe Paths](https://github.com/Path-Check/safeplaces-dct-app): COVID-19 exposure notification and contract tracing
-  - [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966) <a href='https://i.imgur.com/N5hdont.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/200dfb7d-3dd6-421e-b05b-bad5ef709d87'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`465` 
 - [Iceland - rakning-c19-app](https://github.com/aranja/rakning-c19-app): Help analyse individuals’ travel and trace their movements when cases of infection arise
@@ -2036,7 +2036,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2023` `react-native` 
   -  ☆`500` 
 - [Haiti, Guam, Puerto Rico, Wyoming - COVID Safe Paths](https://github.com/Path-Check/safeplaces-dct-app): COVID-19 exposure notification and contract tracing
-  - [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966) <a href='https://i.imgur.com/N5hdont.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/covid-safe-paths/id1508266966) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/200dfb7d-3dd6-421e-b05b-bad5ef709d87'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`465` 
 - [Iceland - rakning-c19-app](https://github.com/aranja/rakning-c19-app): Help analyse individuals’ travel and trace their movements when cases of infection arise
