@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%20%207,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%20%208,%202023-lightgrey.svg)
 
 Jump to
 
@@ -536,7 +536,7 @@ Jump to
   -  `2023` `swift` 
   -  ☆`67` 
 - [SpotifyClone](https://github.com/denoni/SpotifyClone): Uses the official API
-  -  <a href='https://imgur.com/a/usflCky'>`Screenshot 1`</a>  <a href='https://imgur.com/a/xWAsYYv'>`Screenshot 2`</a>  <a href='https://imgur.com/a/VGYibqJ'>`Screenshot 3`</a>  <a href='https://imgur.com/a/MhKMWLb'>`Screenshot 4`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fe18fc75-b5cb-4d15-a665-df7705f522b4'>`Screenshot 1`</a> 
   -  `2023` `swift` `spotify` `swiftui` `combine` `mvvm` `alamofire` 
   -  ☆`176` 
 - [Swiftagram](https://github.com/sbertix/Swiftagram): For Instagram, relies on unofficial private APIs
@@ -5184,7 +5184,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2022` `swift` `playgrounds` 
   -  ☆`51` 
 - [SpotifyClone](https://github.com/denoni/SpotifyClone): Uses the official API
-  -  <a href='https://imgur.com/a/usflCky'>`Screenshot 1`</a>  <a href='https://imgur.com/a/xWAsYYv'>`Screenshot 2`</a>  <a href='https://imgur.com/a/VGYibqJ'>`Screenshot 3`</a>  <a href='https://imgur.com/a/MhKMWLb'>`Screenshot 4`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fe18fc75-b5cb-4d15-a665-df7705f522b4'>`Screenshot 1`</a> 
   -  `2023` `swift` `spotify` `swiftui` `combine` `mvvm` `alamofire` 
   -  ☆`176` 
 - [StackOv](https://github.com/surfstudio/StackOv): For Stack Overflow
