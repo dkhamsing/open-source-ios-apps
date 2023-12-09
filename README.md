@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%20%208,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%20%209,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3121,7 +3121,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2017` `cloudkit` 
   -  ☆`135` 
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift)
-  -  <a href='https://i.imgur.com/dS9aFJL.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d03e7542-2f22-41bd-87b5-736f084ca720'>`Screenshot 1`</a> 
   -  `2020` `swift` `cloudkit` 
   -  ☆`253` 
 - [compositional-layouts-kit](https://github.com/eleev/compositional-layouts-kit): A set of advanced compositional layouts for UICollectionView with examples (Swift 5.1, iOS 13)
