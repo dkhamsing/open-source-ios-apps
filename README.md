@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%20%209,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2010,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2648,10 +2648,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [Anypic](https://github.com/SwiftAnyPic/SwiftAnyPic)
-  -  <a href='https://i.imgur.com/hkcrHaH.jpg'>`Screenshot 1`</a> 
-  -  `2016` `swift` 
-  -  ☆`91` 
 - [ArtShredder](https://github.com/marty-suzuki/ArtShredder): Banksy Shredder
   - <a href=https://marty-suzuki.github.io/ArtShredder/>`https://marty-suzuki.github.io/ArtShredder/`</a>
   -  <a href='https://raw.githubusercontent.com/marty-suzuki/ArtShredder/master/Images/anim.gif'>`Screenshot 1`</a>  <a href='https://camo.qiitausercontent.com/fc07258a6de07cd230de6ea740043046eab57d92/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f36303332352f34363832663864312d323366352d386365322d376132332d6435303933613439643664322e676966'>`Screenshot 2`</a> 
