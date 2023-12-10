@@ -32,6 +32,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Antidote](https://github.com/Antidote-for-Tox/Antidote)
 - [AntiMap](https://github.com/trentbrooks/AntiMap)
 - [Anypic](https://github.com/opensourceios/Anypic)
+- [Anypic](https://github.com/SwiftAnyPic/SwiftAnyPic)
 - [AnyWall](https://github.com/opensourceios/AnyWall)
 - [Aozora](https://github.com/opensourceios/Aozora)
 - [apnagent-ios](https://github.com/logicalparadox/apnagent-ios)
