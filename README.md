@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2010,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2011,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3592,10 +3592,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/JakeLin/Todo/raw/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://github.com/JakeLin/Todo/raw/master/Screenshots/2.png'>`Screenshot 2`</a> 
   -  `2016` `swift` 
   -  ☆`273` 
-- [VIPER-SWIFT](https://github.com/mutualmobile/VIPER-SWIFT): Todo list
-  -  <a href='https://i.imgur.com/BlZtGZR.png'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`494` 
 ## Text 
  
 [back to top](#readme) 
@@ -5377,10 +5373,6 @@ https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rambler-it/id1145829115) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/dd/63/b1/dd63b115-f823-4876-b295-f13ae115ff5c/mzl.izsgncma.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/55/3b/7a/553b7a86-c036-e844-a6fa-1888ec3efb61/mzl.wdrchpxn.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/5e/77/0d/5e770d63-382a-ff3b-3d59-241a6d1db885/mzl.boxgxscn.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple91/v4/95/37/97/9537975c-d8f2-bb24-642d-9ce480a69873/mzl.cwpmtiuz.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/81/7e/4e/817e4e98-1b13-09de-8115-4ddd29519309/mzl.uhxljsuy.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2021` `magicalrecord` `typhoon` `afnetworking` `purelayout` `sdwebimage` 
   -  ☆`334` 
-- [VIPER-SWIFT](https://github.com/mutualmobile/VIPER-SWIFT): Todo list
-  -  <a href='https://i.imgur.com/BlZtGZR.png'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`494` 
 ### Xamarin 
  
 https://www.xamarin.com/ — [back to top](#readme) 
