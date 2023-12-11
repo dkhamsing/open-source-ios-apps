@@ -439,6 +439,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Vegan Lists UK](https://github.com/dsgriffin/vegan-lists-uk)
 - [Vesper](https://github.com/brentsimmons/Vesper)
 - [Vim](https://github.com/applidium/Vim)
+- [VIPER-SWIFT](https://github.com/mutualmobile/VIPER-SWIFT)
 - [VisitBCN](https://github.com/opensourceios/visitBCN)
 - [warpedAR](https://github.com/Trevorrwarduk/warpedAR-Open-Source)
 - [Watchman](https://github.com/DanToml/Watchman)
