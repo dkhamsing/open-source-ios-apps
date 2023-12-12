@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2011,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2012,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4597,8 +4597,8 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2023` `react-native` 
   -  ☆`15` 
 - [RNTester](https://github.com/facebook/react-native/tree/master/packages/rn-tester): Showcases React Native views & modules
-  -  <a href='https://i.imgur.com/DYqIgci.png'>`Screenshot 1`</a> 
-  - `react-native` 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6ef0b930-4ab0-4c65-a70e-9a58bbc24c6d'>`Screenshot 1`</a> 
+  -  `2023` `react-native` 
 - [Royal News](https://github.com/msal4/royal_news)
   -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg'>`Screenshot 1`</a> 
   -  `2019` `react-native` 
