@@ -11906,8 +11906,7 @@
     {
       "title": "Element",
       "category-ids": [
-        "communication",
-        "realm"
+        "communication"
       ],
       "tags": [
         "objc",
@@ -11917,7 +11916,7 @@
         "cmark"
       ],
       "description": "Secure decentralised chat/VoIP",
-      "source": "https://github.com/vector-im/element-ios",
+      "source": "https://github.com/element-hq/element-ios",
       "homepage": "https://element.io",
       "itunes": "https://apps.apple.com/app/element/id1083446067",
       "license": "apache-2.0",
@@ -11927,7 +11926,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d61605e1-7fee-440d-be53-b96b9af0d03c"
       ],
-      "updated": "2023-11-23 14:45:08 UTC"
+      "updated": "2023-11-30 14:45:08 UTC"
     },
     {
       "title": "Wire",
