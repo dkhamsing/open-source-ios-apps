@@ -265,7 +265,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/delta-chat/id1459523234) <a href='https://github.com/deltachat/deltachat-ios/blob/master/docs/images/screenshot_chat_list.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/deltachat/deltachat-ios/blob/master/docs/images/screenshot_chat_view.png?raw=true'>`Screenshot 2`</a> 
   -  `2023` `swift` `ipad` 
   -  ☆`270` 
-- [Element](https://github.com/vector-im/element-ios): Secure decentralised chat/VoIP
+- [Element](https://github.com/element-hq/element-ios): Secure decentralised chat/VoIP
   - <a href=https://element.io>`https://element.io`</a>
   - [` App Store`](https://apps.apple.com/app/element/id1083446067) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d61605e1-7fee-440d-be53-b96b9af0d03c'>`Screenshot 1`</a> 
   -  `2023` `swift` `objc` `webrtc` `ipad` `cmark` 
@@ -2108,11 +2108,6 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
 https://realm.io/ — [back to top](#readme) 
  
 
-- [Element](https://github.com/vector-im/element-ios): Secure decentralised chat/VoIP
-  - <a href=https://element.io>`https://element.io`</a>
-  - [` App Store`](https://apps.apple.com/app/element/id1083446067) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d61605e1-7fee-440d-be53-b96b9af0d03c'>`Screenshot 1`</a> 
-  -  `2023` `swift` `objc` `webrtc` `ipad` `cmark` 
-  -  ☆`1677` 
 ### RxSwift 
  
 https://github.com/ReactiveX/RxSwift — [back to top](#readme) 
