@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2012,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2013,%202023-lightgrey.svg)
 
 Jump to
 
@@ -604,7 +604,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/delta-chat/id1459523234) <a href='https://github.com/deltachat/deltachat-ios/blob/master/docs/images/screenshot_chat_list.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/deltachat/deltachat-ios/blob/master/docs/images/screenshot_chat_view.png?raw=true'>`Screenshot 2`</a> 
   -  `2023` `swift` `ipad` 
   -  ☆`270` 
-- [Element](https://github.com/vector-im/element-ios): Secure decentralised chat/VoIP
+- [Element](https://github.com/element-hq/element-ios): Secure decentralised chat/VoIP
   - <a href=https://element.io>`https://element.io`</a>
   - [` App Store`](https://apps.apple.com/app/element/id1083446067) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d61605e1-7fee-440d-be53-b96b9af0d03c'>`Screenshot 1`</a> 
   -  `2023` `swift` `objc` `webrtc` `ipad` `cmark` 
@@ -4672,11 +4672,6 @@ https://realm.io/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif'>`Screenshot 1`</a> 
   -  `2017` `swift` `realm` `watchkit` 
   -  ☆`148` 
-- [Element](https://github.com/vector-im/element-ios): Secure decentralised chat/VoIP
-  - <a href=https://element.io>`https://element.io`</a>
-  - [` App Store`](https://apps.apple.com/app/element/id1083446067) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d61605e1-7fee-440d-be53-b96b9af0d03c'>`Screenshot 1`</a> 
-  -  `2023` `swift` `objc` `webrtc` `ipad` `cmark` 
-  -  ☆`1677` 
 - [how-much](https://github.com/dkhamsing/how-much): Record how much things cost
   -  <a href='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'>`Screenshot 1`</a> 
   -  `2017` `parse` `firebase` `realm` 
