@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2013,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2014,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4656,7 +4656,7 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
   -  `2017` `swift` `mvvm` `flickr api` 
   -  ☆`377` 
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)
-  -  <a href='https://i.imgur.com/OxImInV.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6e1ed1d3-5592-4a20-a69d-9ed4348ff077'>`Screenshot 1`</a> 
   -  `2018` `objc` 
   -  ☆`1152` 
 - [Tropos Weather](https://github.com/thoughtbot/Tropos)
