@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2014,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2015,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2935,7 +2935,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2020` `swift` 
   -  ☆`37` 
 - [NewsAPISwift](https://github.com/lucaslimapoa/NewsAPISwift)
-  -  <a href='https://i.imgur.com/1vy5Xd7.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b9fb3358-9ce1-45ee-a35e-c37c3c330d41'>`Screenshot 1`</a> 
   -  `2018` `swift` 
   -  ☆`24` 
 - [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)
