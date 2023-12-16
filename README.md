@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2015,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2016,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2541,7 +2541,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2020` `swift` `swiftui` `combine` 
   -  ☆`35` 
 - [PapersSwiftUI](https://github.com/donbytyqi/PapersSwiftUI): For Unsplash
-  -  <a href='https://i.imgur.com/bYfBVsB.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/62f3fdc5-dcc2-4038-8c87-f489ecc39628'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`19` 
 - [Papr](https://github.com/jdisho/Papr): An unofficial client for https://unsplash.com
@@ -5090,7 +5090,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2022` `swift` `swiftui` 
   -  ☆`18` 
 - [PapersSwiftUI](https://github.com/donbytyqi/PapersSwiftUI): For Unsplash
-  -  <a href='https://i.imgur.com/bYfBVsB.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/62f3fdc5-dcc2-4038-8c87-f489ecc39628'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`19` 
 - [Parallax-Card-SwiftUI](https://github.com/neodroid/Parallax-Card-SwiftUI)
