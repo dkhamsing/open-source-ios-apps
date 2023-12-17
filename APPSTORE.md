@@ -1005,7 +1005,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`165` 
 - [USA Arizona - Covid Watch](https://github.com/covidwatchorg/covidwatch-ios-en)
-  - [` App Store`](https://apps.apple.com/us/app/id1521655110) <a href='https://i.imgur.com/cqeZmEr.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/us/app/id1521655110) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/50e7f707-8163-466e-97a0-b6d4e149b5a8'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`11` 
 ### Contact Tracing Reference 
