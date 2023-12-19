@@ -344,6 +344,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [RSSRead](https://github.com/ming1016/RSSRead)
 - [Runner-Stats](https://github.com/hukun01/Runner-Stats)
 - [S.C.P-Asylum-Fail](https://github.com/cpo007/S.C.P-Asylum-Fail)
+- [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest)
 - [Santa Tracker](https://github.com/keitaito/RealmSantaTracker)
 - [Savings Assistant](https://github.com/chrisamanse/savings-assistant)
 - [SceneKitFrogger](https://github.com/devindazzle/SceneKitFrogger)
