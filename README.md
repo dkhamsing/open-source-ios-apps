@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2018,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2019,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3220,11 +3220,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e65417a-339d-4281-a5f1-6db84ea879a2'>`Screenshot 1`</a> 
   -  `2019` `swift` `alamofire` `moya` `corelocation` 
   -  ☆`46` 
-- [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest): Demo of how to auto-login users using Safari cookies
-  - <a href=https://vimeo.com/136968596>`https://vimeo.com/136968596`</a>
-  -  <a href='https://i.imgur.com/vaGCfA0.png'>`Screenshot 1`</a> 
-  -  `2017` `swift` `ios9` 
-  -  ☆`490` 
 - [Sample for Async, Searchable, Live Activity and more](https://github.com/SwiftyAlex/Samples)
   -  `2023` `swift` `swiftui` 
   -  ☆`91` 
