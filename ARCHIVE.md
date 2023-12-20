@@ -60,6 +60,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Battle for Wesnoth](https://github.com/dailin/wesnoth_ios)
 - [Be my eyes](https://github.com/opensourceios/bemyeyes-ios)
 - [Bequest](https://github.com/splinesoft/Bequest)
+- [BitPrice](https://github.com/opensourceios/bitprice-ios)
 - [BitStore](https://github.com/BitStore/BitStore-iOS)
 - [BoardBank](https://github.com/richardneitzke/BoardBank)
 - [Bombus Pomodoro](https://github.com/opensourceios/Bombus)
