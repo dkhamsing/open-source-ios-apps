@@ -16984,11 +16984,11 @@
         "cryptocurrency"
       ],
       "description": "Display and monitor the current Bitcoint rate",
-      "source": "https://github.com/Bruno-Furtado/bitprice-ios",
+      "source": "https://github.com/opensourceios/bitprice-ios",
       "license": "mit",
       "stars": 38,
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/07/30/e3/0730e3d1-dd14-e27f-b982-734f3f8dda6d/source/230x0w.jpg",
