@@ -169,6 +169,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Ghostery Dawn Privacy Browser](https://github.com/ghostery/user-agent-ios)
 - [Gifzat](https://github.com/remirobert/Gifzat)
 - [GitBucket](https://github.com/leichunfeng/MVVMReactiveCocoa)
+- [GitHub API Client](https://github.com/tailec/boilerplate)
 - [github-issues](https://github.com/chriseidhof/github-issues)
 - [GitHub-Swift](https://github.com/acmacalister/Github-Swift)
 - [GlucoSuccess](https://github.com/ResearchKit/GlucoSuccess)
