@@ -173,6 +173,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [github-issues](https://github.com/chriseidhof/github-issues)
 - [GitHub-Swift](https://github.com/acmacalister/Github-Swift)
 - [GlucoSuccess](https://github.com/ResearchKit/GlucoSuccess)
+- [GoodNight](https://github.com/anthonya1999/GoodNight)
 - [Google Feud](https://github.com/opensourceios/Google-Feud-iOS)
 - [Gorillas](https://github.com/Lyndir/Gorillas)
 - [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard)
