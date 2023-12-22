@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2021,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2022,%202023-lightgrey.svg)
 
 Jump to
 
@@ -431,10 +431,6 @@ Jump to
 - [GammaThingy](https://github.com/thomasfinch/GammaThingy): Change screen gamma dynamically
   -  `2022` `objc` 
   -  ☆`772` 
-- [GoodNight](https://github.com/anthonya1999/GoodNight): Change screen gamma dynamically
-  -  <a href='https://i.imgur.com/QEAE4B3.jpg'>`Screenshot 1`</a> 
-  -  `2018` `objc` 
-  -  ☆`557` 
 - [palette-from-image](https://github.com/chuongtrh/palette-from-image): Inspired by https://earthview.withgoogle.com
   -  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot3.png?raw=true'>`Screenshot 3`</a> 
   -  `2020` `swift` `palette` `color` `earthview` 
