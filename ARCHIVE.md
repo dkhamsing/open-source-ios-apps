@@ -250,6 +250,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Molecules](https://www.sunsetlakesoftware.com/molecules)
 - [Morse](https://github.com/ijoshsmith/swift-morse-code)
 - [mosaix](https://github.com/shelly/mosaix)
+- [Movement - Watch Tracker](https://github.com/steadicat/pytorch-coreml-example)
 - [Movies](https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/Movies)
 - [mPower](https://github.com/ResearchKit/mPower)
 - [Mugician](https://github.com/rfielding/Mugician)
