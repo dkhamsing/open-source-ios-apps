@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2022,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2023,%202023-lightgrey.svg)
 
 Jump to
 
@@ -4548,10 +4548,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/moonwalk-rocket-launches/id1439376174) <a href='https://maximenory.com/public/mwpreview2.png'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`287` 
-- [Movement - Watch Tracker](https://github.com/steadicat/pytorch-coreml-example): To track the accuracy of a mechanical watch
-  - [` App Store`](https://apps.apple.com/app/movement-watch-tracker/id1329445157) <a href='https://i.imgur.com/2ybNLcs.png'>`Screenshot 1`</a> 
-  -  `2018` `react-native` `coreml` `pytorch` 
-  -  ☆`129` 
 - [movieapp](https://github.com/JuneDomingo/movieapp): Discover movies & tv shows
   -  <a href='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'>`Screenshot 1`</a> 
   -  `2021` `react-native` `tmdb` 
