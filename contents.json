@@ -21481,7 +21481,7 @@
       "tags": [
         "react-native",
         "coreml",
-        "pytorch"
+        "pytorch", "archive"
       ],
       "source": "https://github.com/steadicat/pytorch-coreml-example",
       "itunes": "https://apps.apple.com/app/movement-watch-tracker/id1329445157",
