@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2023,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2024,%202023-lightgrey.svg)
 
 Jump to
 
@@ -5159,7 +5159,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  ☆`236` 
 - [StarPlane game proof of concept](https://gist.github.com/JohnSundell/7ae3223b5bad3712378a57aaff31d7e2)
   - <a href=https://twitter.com/johnsundell/status/1280998529394184193>`https://twitter.com/johnsundell/status/1280998529394184193`</a>
-  -  <a href='https://i.imgur.com/ZIK9gA1.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/09b87de7-56be-47e9-83f8-4db1d72eac09'>`Screenshot 1`</a> 
   - `swift` `swiftui` 
 - [Static Widget in iOS 14](https://github.com/StewartLynch/iOS-14-Widget)
   -  `2020` `swift` `ios14` `widgetkit` 
