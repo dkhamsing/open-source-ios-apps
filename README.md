@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2024,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2026,%202023-lightgrey.svg)
 
 Jump to
 
@@ -5124,7 +5124,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2023` `swift` `swiftui` `ipad` 
   -  ☆`124` 
 - [ShoppingList](https://github.com/ericlewis/ShoppingList)
-  -  <a href='https://i.imgur.com/jkzri5G.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d31e5272-d5e8-4f10-bec7-cc5398a66631'>`Screenshot 1`</a> 
   -  `2019` `swift` `swiftui` `core-data` 
   -  ☆`12` 
 - [Simple SwiftUI](https://github.com/twostraws/simple-swiftui): Collection of small SwiftUI sample projects, including news, to-do and scores
