@@ -30670,9 +30670,9 @@
       "tags": [
         "swift",
         "swiftui",
-        "core-data"
+        "core-data", "archive"
       ],
-      "source": "https://github.com/brittanyarima/SafePeople",
+      "source": "https://github.com/opensourceios/SafePeople",
       "itunes": "https://apps.apple.com/app/safe-people/id1615862411",
       "screenshots": [
         "https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png"
