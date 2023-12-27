@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2026,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2027,%202023-lightgrey.svg)
 
 Jump to
 
@@ -2781,7 +2781,7 @@ Mostly using https://giphy.com/ — [back to top](#readme)
  
 
 - [Area51 for Reddit](https://github.com/kgellci/Area51)
-  -  <a href='https://i.imgur.com/sf1v3Ae.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/10d06e0e-941e-4ac3-8acb-b15798795964'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`143` 
 - [Beam](https://github.com/awkward/beam): Enjoy all of Reddit's content in a unique and beautiful package
