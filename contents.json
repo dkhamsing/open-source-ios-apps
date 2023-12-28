@@ -2796,7 +2796,7 @@
         "game"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
 
@@ -2882,7 +2882,7 @@
         "game"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/bc39bf17-685b-4a6d-b337-e5ca3808ab0e"
@@ -3837,7 +3837,7 @@
         "location"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Visualize where you spend your time",
       "license": "mit",
@@ -3988,7 +3988,7 @@
         "https://github.com/kevinvanderlugt/Swift-Walk-Tracker/raw/master/images/screenshot_list.PNG"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "stars": 135,
       "license": "other",
@@ -4525,7 +4525,7 @@
         "content"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Listen to any song from phish.in, view concert ratings & reviews from phish.net",
       "source": "https://github.com/alecgorge/PhishOD-iOS",
@@ -4566,7 +4566,7 @@
         "video"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/eb0767eb-1a6a-412b-8d06-623665a6ac6e"
@@ -7445,7 +7445,7 @@
         "content"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/614294c0-e93e-47c8-8131-acb55a3c97cb"
@@ -12001,7 +12001,7 @@
         "game"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "PokéMon-like game that uses your location",
       "license": "mit",
@@ -12541,7 +12541,7 @@
       "license": "mit",
       "tags": [
         "swift",
-        "reactivecocoa"
+        "reactivecocoa", "archive"
       ],
       "stars": 45,
       "updated": "2016-08-01 17:40:19 UTC"
@@ -12864,7 +12864,7 @@
         "developer"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "source": "https://github.com/wujianguo/iOSAppsInfo",
       "screenshots": [
@@ -13002,7 +13002,7 @@
       ],
       "source": "https://github.com/brianmichel/ESCapey",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/brianmichel/ESCapey/raw/master/images/ios-screenshot-2.png",
@@ -13385,7 +13385,7 @@
         "spritekit"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "Shape matching puzzle",
       "source": "https://github.com/snazzware/Mergel",
@@ -13761,7 +13761,7 @@
         "audio"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "A simple synthesiser, based on the Korg Monotron Delay",
       "source": "https://github.com/jkandzi/Monotone-Delay",
