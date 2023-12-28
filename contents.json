@@ -4002,7 +4002,7 @@
         "travel"
       ],
       "tags": [
-        "uber api"
+        "uber api", "archive"
       ],
       "description": "Simple & comfortable way to explore a city",
       "license": "mit",
@@ -5622,7 +5622,7 @@
         "sample"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/be6673d7-7dfe-4c58-acdb-c5aa407d5b62"
@@ -5648,7 +5648,7 @@
       "tags": [
         "swift",
         "parse",
-        "atlas"
+        "atlas", "archive"
       ],
       "stars": 118,
       "date_added": "Mon Jan 25 08:14:18 2016 -0800",
@@ -6245,7 +6245,7 @@
       "source": "https://github.com/JakeLin/Todo",
       "stars": 273,
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/JakeLin/Todo/raw/master/Screenshots/1.png",
@@ -6406,7 +6406,7 @@
         "weather"
       ],
       "tags": [
-        "wunderground api"
+        "wunderground api", "archive"
       ],
       "license": "mit",
       "source": "https://github.com/comyar/Sol",
@@ -8643,7 +8643,7 @@
       ],
       "stars": 196,
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "other",
       "date_added": "Thu Sep 10 13:25:52 2015 -0700",
@@ -9533,7 +9533,7 @@
       "license": "mit",
       "source": "https://github.com/kyleweiner/Sentiments",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif"
@@ -21591,7 +21591,7 @@
       "source": "https://github.com/lojals/QRGen",
       "license": "mit",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "date_added": "May 17 2020",
       "suggested_by": "@dkhamsing",
