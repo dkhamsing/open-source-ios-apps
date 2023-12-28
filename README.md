@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2027,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2028,%202023-lightgrey.svg)
 
 Jump to
 
@@ -1937,10 +1937,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rise-sleep-companion/id6451386327) <a href='https://github.com/VladimirBrejcha/Rise/assets/44097057/f680e08c-2c2b-4293-a1cd-2bd342f284b0'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`21` 
-- [SafePeople](https://github.com/brittanyarima/SafePeople): Get help when struggling with addiction, anxiety, depression
-  - [` App Store`](https://apps.apple.com/app/safe-people/id1615862411) <a href='https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png'>`Screenshot 1`</a> 
-  -  `2023` `swift` `swiftui` `core-data` 
-  -  ☆`2` 
 - [Solstice](https://github.com/daneden/Solstice): Tells you how the daylight is changing
   -  `2023` `swift` 
   -  ☆`65` 
