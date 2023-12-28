@@ -510,7 +510,7 @@
         "apple-tv"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Watch WWDC Videos",
       "source": "https://github.com/azzoor/WWDCTV",
@@ -3546,7 +3546,7 @@
       ],
       "license": "other",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "date_added": "Aug 19 2016",
       "suggested_by": "@caleb0",
@@ -9011,7 +9011,7 @@
         "apple-tv"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "source": "https://github.com/spritlesoftware/railscasts-on-appletv",
       "screenshots": [
@@ -14756,7 +14756,7 @@
         "apple-tv"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/intere/retro-skate-tvOS/raw/master/assets/screenshot2.png"
