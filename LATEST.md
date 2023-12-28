@@ -20,7 +20,7 @@
 16. [MovieDB](https://github.com/brittanyarima/MovieDB)
 17. [Sketchy](https://github.com/brittanyarima/Sketchy)
 18. [Bluesky Social](https://github.com/bluesky-social/social-app)
-19. [SafePeople](https://github.com/brittanyarima/SafePeople)
+19. [SafePeople](https://github.com/opensourceios/SafePeople)
 20. [uhohlingo](https://github.com/nate-parrott/uhohlingo)
 21. [StepTracker](https://github.com/brittanyarima/Steps)
 22. [Z Combinator for Hacker News](https://github.com/Livinglist/ZCombinator)
