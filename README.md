@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2028,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2029,%202023-lightgrey.svg)
 
 Jump to
 
@@ -114,14 +114,6 @@ Jump to
   -  <a href='https://user-images.githubusercontent.com/4723115/132869460-db573d22-8474-47bb-9c31-db727821b879.png'>`Screenshot 1`</a> 
   -  `2023` `realm` 
   -  ☆`5447` 
-- [RailsCasts](https://github.com/spritlesoftware/railscasts-on-appletv): Ruby on Rails screencasts
-  -  <a href='https://raw.githubusercontent.com/spritlesoftware/railscasts-on-appletv/master/TVOSExample/image/apple-tv-railscast.png'>`Screenshot 1`</a> 
-  -  `2016` `objc` 
-  -  ☆`12` 
-- [Retro Skate](https://github.com/intere/retro-skate-tvOS)
-  -  <a href='https://github.com/intere/retro-skate-tvOS/raw/master/assets/screenshot2.png'>`Screenshot 1`</a> 
-  -  `2016` `swift` 
-  -  ☆`17` 
 - [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on https://stepik.org/
   - [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6bbc0c9b-3c2c-4f2a-b8c6-10805eefd664'>`Screenshot 1`</a> 
   -  `2023` `swift` `ipad` `alamofire` `swiftyjson` `sdwebimage` `devicekit` `promisekit` `swiftlint` 
@@ -150,10 +142,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/vlc-for-ios/id650377962) <a href='https://user-images.githubusercontent.com/4723115/146823429-c85f22c0-e757-48c0-ba54-0930ed1769bc.png'>`Screenshot 1`</a> 
   -  `2023` `objc` `ipad` 
   -  ☆`12042` 
-- [WWDCTV](https://github.com/azzoor/WWDCTV): Watch WWDC Videos
-  -  <a href='https://github.com/azzoor/WWDCTV/blob/master/WWDC/screen01.png?raw=true'>`Screenshot 1`</a> 
-  -  `2016` `objc` 
-  -  ☆`420` 
 ## Apple Watch 
  
 [back to top](#readme) 
@@ -542,10 +530,6 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/nicklockwood/Swiftenstein/master/Screenshot.png'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`360` 
-- [SwiftSnake](https://github.com/caleb0/SwiftSnake): Snake clone
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/8578d8fd-fbeb-4628-acb2-6ae32d281d4c'>`Screenshot 1`</a> 
-  -  `2016` `swift` 
-  -  ☆`29` 
 - [SwiftUICraft](https://github.com/aheze/SwiftUICraft): Minecraft clone
   -  <a href='https://github.com/aheze/SwiftUICraft/raw/main/Assets/Level1.PNG'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` 
@@ -757,10 +741,6 @@ Jump to
 - [DevSwitch](https://github.com/aaronpearce/DevSwitch): Switch between countries on the App Store with ease
   -  `2021` `swift` 
   -  ☆`435` 
-- [ESCapey](https://github.com/brianmichel/ESCapey): macOS server & iOS client app pair that allow you to turn any iOS device into the escape key you've come to know and love
-  -  <a href='https://github.com/brianmichel/ESCapey/raw/master/images/ios-screenshot-2.png'>`Screenshot 1`</a>  <a href='https://github.com/brianmichel/ESCapey/raw/master/images/ios-screenshot-1.png'>`Screenshot 2`</a> 
-  -  `2016` `swift` 
-  -  ☆`259` 
 - [Evolution](https://github.com/Evolution-App/iOS): An unofficial app for Swift Evolution
   - [` App Store`](https://apps.apple.com/app/evolution-app/id1210898168) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/91/90/1d919067-8c46-3f04-f710-ecfed6494539/pr_source.png/900x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/84/cc/ee84cc99-5ff3-5c1c-4408-60c8f24f754d/pr_source.png/900x0w.png'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/28/86/e9/2886e929-b5a9-09ed-47e7-0ed45806f463/pr_source.png/900x0w.png'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/7a/2a/68/7a2a68f4-5575-5d70-be87-d4df54ebb12f/pr_source.png/900x0w.png'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/e6/ed/ec/e6edecdb-78ce-6cfe-4fde-470c7cee306a/pr_source.png/900x0w.png'>`Screenshot 5`</a> 
   -  `2023` `swift` `swift-evolution` 
@@ -782,10 +762,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1580906147) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a6/75/0d/a6750dee-7361-ca1f-34bc-804b2b0d79e4/56caf957-c128-4b7a-8458-106a0de6fdaa_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.29.40.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/e7/9e/c6/e79ec63c-db19-2029-165d-ce6fc55500d1/c30f507f-54df-4fe8-bc7f-44c86a61a72c_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.33.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/81/01/ea/8101ea88-c459-e2b2-e18f-03eb42ccd5ff/5324ca34-a122-46fa-a618-1bb03d6afe7d_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.48.png/460x0w.webp'>`Screenshot 3`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`12` 
-- [iOSAppsInfo](https://github.com/wujianguo/iOSAppsInfo): List installed apps & URL schemes
-  -  <a href='https://github.com/wujianguo/iOSAppsInfo/raw/master/SampleImages/1.PNG'>`Screenshot 1`</a>  <a href='https://github.com/wujianguo/iOSAppsInfo/raw/master/SampleImages/3.PNG'>`Screenshot 2`</a> 
-  -  `2016` `objc` 
-  -  ☆`315` 
 - [iperf](https://github.com/ndfred/iperf-ios): Run an iperf3 client, including reverse mode & multiple streams selection
   -  <a href='https://github.com/ndfred/iperf-ios/raw/master/Screenshot.png'>`Screenshot 1`</a> 
   -  `2021` `objc` 
@@ -1591,9 +1567,6 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/nicklockwood/Chess/raw/master/Screenshot.png?raw=true'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`164` 
-- [CodeCombat](https://github.com/codecombat/codecombat-ios): Multiplayer programming game for learning how to code
-  -  `2016` `objc` 
-  -  ☆`59` 
 - [Concentration game (翻翻看)](https://github.com/geek5nan/FanFanSwift)
   -  <a href='https://raw.githubusercontent.com/geek5nan/FanFanSwift/master/screenshot/2.png'>`Screenshot 1`</a> 
   -  `2019` `swift` 
@@ -1618,11 +1591,6 @@ File Management — [back to top](#readme)
   -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/07/e4/58/07e4582c-8d94-330e-011a-81f2919c9a0a/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/1e/2f/39/1e2f3975-b854-bd43-b00f-b32a9384d2ae/mzl.cctldxos.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple18/v4/af/e6/a5/afe6a5cd-df5c-5ff2-a181-3e497e7b24ee/mzl.mczqcdkn.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple18/v4/a0/57/79/a0577976-a6d6-42b5-1153-4ccdba93a5e4/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/24/9e/c3/249ec345-2044-b21c-bd09-f7469986aea8/mzl.qlsmijad.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2017` `swift` `swift3.1` 
   -  ☆`176` 
-- [Dungeon Crawl](https://github.com/CliffsDover/crawl): A game of dungeon exploration, combat & magic, involving characters of diverse skills
-  - <a href=https://github.com/CliffsDover/crawl/tree/iOS_Release>`https://github.com/CliffsDover/crawl/tree/iOS_Release`</a>
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/bc39bf17-685b-4a6d-b337-e5ca3808ab0e'>`Screenshot 1`</a> 
-  -  `2016` `objc` 
-  -  ☆`30` 
 - [FityIt](https://github.com/txaiwieser/FityIt): Challenging shapes game of skill and reflexes
   -  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-1-GameScreen.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-2-GameScreen.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-3-GameScreen.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-4-GameScreen.png'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-5-GameScreen.png'>`Screenshot 5`</a> 
   -  `2021` `swift` `spritekit` `game` `animation` 
@@ -1683,9 +1651,6 @@ File Management — [back to top](#readme)
 - [Loot Raider](https://github.com/ecrichlow/LootRaideriOS_OS): Retro 80s platform game
   -  `2022` `swift` 
   -  ☆`11` 
-- [Master](https://github.com/Kjuly/iPokeMon): PokéMon-like game that uses your location
-  -  `2016` `objc` 
-  -  ☆`429` 
 - [Matchimals.fun](https://github.com/igravitystudios/matchimals.fun): Animal matching puzzle card game
   - [` App Store`](https://apps.apple.com/app/id1348821168) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/51/43/ef/5143ef6b-cb73-4c3f-32ad-619f15073704/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/be/49/b0/be49b0f5-9c45-34d1-a672-7d489b6a11a7/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/02/ad/4a02ad71-965b-f094-1381-22054028ada4/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/57/c7/5057c7f3-0bfe-41f2-0760-fe1b261e27c3/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
   -  `2022` `react-native` `ipad` 
@@ -1814,10 +1779,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d673c21f-e1ae-4072-809b-b71e2213c74c'>`Screenshot 1`</a> 
   -  `2017` `swift` `spritekit` 
   -  ☆`95` 
-- [Mergel](https://github.com/snazzware/Mergel): Shape matching puzzle
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/02de2a60-25b1-4941-bf68-843911e8b77d'>`Screenshot 1`</a> 
-  -  `2016` `swift` 
-  -  ☆`10` 
 - [Oh My Plane](https://github.com/softdevstory/OhMyPlane): A game like flappy bird
   -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'>`Screenshot 2`</a> 
   -  `2018` `swift` `spritekit` `gameplaykit` 
@@ -1834,10 +1795,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/phpmaple/Stick-Hero-Swift/master/Assets/Images/stick_background.jpg'>`Screenshot 1`</a> 
   -  `2020` `swift` `iphone` `ipad` 
   -  ☆`457` 
-- [SwiftSnake](https://github.com/caleb0/SwiftSnake): Snake clone
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/8578d8fd-fbeb-4628-acb2-6ae32d281d4c'>`Screenshot 1`</a> 
-  -  `2016` `swift` 
-  -  ☆`29` 
 ## Health 
  
 [back to top](#readme) 
@@ -2098,10 +2055,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rtracker-track-it-all-your-way/id486541371) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/b8/0a/8e/b80a8e89-ca96-388e-6ea2-f35048b3d75f/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/c4/76/40/c476408e-27d6-6f4f-e304-3bccf1855509/pr_source.png/460x0w.jpg'>`Screenshot 2`</a> 
   -  `2023` `objc` 
   -  ☆`41` 
-- [Swift-Walk-Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker): Track your walks
-  -  <a href='https://github.com/kevinvanderlugt/Swift-Walk-Tracker/raw/master/images/screenshot_map.PNG'>`Screenshot 1`</a>  <a href='https://github.com/kevinvanderlugt/Swift-Walk-Tracker/raw/master/images/screenshot_list.PNG'>`Screenshot 2`</a> 
-  -  `2016` `swift` 
-  -  ☆`135` 
 ### ResearchKit 
  
 https://www.apple.com/researchkit/ — [back to top](#readme) 
@@ -2187,10 +2140,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id717539389) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/6a/b0/f6/6ab0f684-a286-16d9-199d-89b4307590ac/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/64/49/47/64494743-7090-202f-344d-4d1750755ac4/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/1d/31/e6/1d31e607-ebbc-8dda-7b48-d4361667e152/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/85/f6/a1/85f6a122-2962-a4be-126e-f2c97804caaf/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2020` `objc` 
   -  ☆`14` 
-- [Moves](https://github.com/neonichu/Places): Visualize where you spend your time
-  -  <a href='https://github.com/neonichu/Places/raw/master/Screenshots/1.png'>`Screenshot 1`</a> 
-  -  `2016` `objc` 
-  -  ☆`43` 
 - [OneBusAway](https://github.com/OneBusAway/onebusaway-iphone): Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, & more
   - [` App Store`](https://apps.apple.com/app/onebusaway/id329380089) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/11/80/e7/1180e747-411f-fe03-71ca-c42fd1165876/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/a4/b2/5b/a4b25b8f-322b-52b3-7209-bdb8da744af7/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/4d/0c/d0/4d0cd0bc-64b6-f05e-fb5b-b2b3e8b54a95/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/97/96/19/9796194c-ee95-6d4c-8944-00af72e64452/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/f3/16/c1/f316c14c-8ab0-5fb7-12d9-eb4875f3dcd7/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2021` `objc` 
@@ -2365,10 +2314,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ec65e9bd-482f-433a-8fb0-6e3654594274'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`4` 
-- [Monotone Delay](https://github.com/jkandzi/Monotone-Delay): A simple synthesiser, based on the Korg Monotron Delay
-  - [` App Store`](https://apps.apple.com/app/monotone-delay/id737483162) <a href='https://a4.mzstatic.com/us/r30/Purple5/v4/7d/be/82/7dbe82a0-26a2-ec64-2804-47de55caa190/screen520x924.jpeg'>`Screenshot 1`</a> 
-  -  `2016` `objc` 
-  -  ☆`18` 
 - [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer): Let you listen to English news, see the text and let you analyze what you have heard
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/7d6171ac-a14c-497b-9208-a3dc2cd778ab'>`Screenshot 1`</a> 
   -  `2020` `swift` `alamofire` 
@@ -2536,10 +2481,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'>`Screenshot 2`</a> 
   -  `2020` `swift` 
   -  ☆`1145` 
-- [PhishOD](https://github.com/alecgorge/PhishOD-iOS): Listen to any song from phish.in, view concert ratings & reviews from phish.net
-  - [` App Store`](https://apps.apple.com/app/phish-on-demand-all-phish/id672139018) <a href='https://user-images.githubusercontent.com/4723115/146681646-df559ece-7a58-4544-bfc0-68d14ed467ec.png'>`Screenshot 1`</a> 
-  -  `2016` `objc` 
-  -  ☆`36` 
 - [PHPHub](https://github.com/Aufree/phphub-ios): App for https://learnku.com/laravel
   -  `2018` `iphone` `ipad` 
   -  ☆`1221` 
@@ -2586,10 +2527,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/upcomingtv/raw/master/Images/0.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `tmdb` 
   -  ☆`8` 
-- [Words](https://github.com/soffes/words): Thesaurus
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/614294c0-e93e-47c8-8131-acb55a3c97cb'>`Screenshot 1`</a> 
-  -  `2016` `objc` 
-  -  ☆`47` 
 - [WWDC Students](https://github.com/wwdc): WWDC scholarship entries
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/bb0d2903-eaec-4e84-a6f0-b0c94390bc3a'>`Screenshot 1`</a> 
   - `swift` 
@@ -2619,10 +2556,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://github.com/tirupati17/giphy-mvvm-swift/blob/master/screenshots/giphy.png'>`Screenshot 1`</a> 
   -  `2019` `swift` `mvvm` 
   -  ☆`8` 
-- [Giraffe](https://github.com/evgeniyd/Giraffe)
-  -  <a href='https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png'>`Screenshot 1`</a> 
-  -  `2016` `swift` `reactivecocoa` 
-  -  ☆`45` 
 - [LivelyGIFs](https://github.com/KrisYu/LivelyGIFs): Show your Live Photos & export as GIF
   -  <a href='https://github.com/KrisYu/LivelyGIFs/blob/master/demo.gif?raw=true'>`Screenshot 1`</a> 
   -  `2019` `objc` 
@@ -2755,10 +2688,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/justJS/Playerly/master/Playerly/Other/Screenshot.png'>`Screenshot 1`</a> 
   -  `2018` `swift` 
   -  ☆`31` 
-- [prankPro](https://github.com/huijimuhe/prankPro): Record a 6-second video while playing prank sounds
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/eb0767eb-1a6a-412b-8d06-623665a6ac6e'>`Screenshot 1`</a> 
-  -  `2016` `objc` 
-  -  ☆`258` 
 - [Swift Community](https://github.com/superarcswift/SwiftCommunity): Cocoa/Swift-related videos
   -  <a href='https://raw.githubusercontent.com/superarcswift/SwiftCommunity/master/Assets/screenshot1.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `superarc` `markdownview` 
@@ -3156,14 +3085,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/4723115/113598587-33495400-95f2-11eb-9d50-835eed6f0072.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `machine-learning` `camera` 
   -  ☆`3` 
-- [Knock](https://github.com/MatheusCavalca/Knock): Use Accelerometer & background mode to create a feature of knocking your phone
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/be6673d7-7dfe-4c58-acdb-c5aa407d5b62'>`Screenshot 1`</a> 
-  -  `2016` `objc` 
-  -  ☆`25` 
-- [Layer-Parse](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example)
-  -  <a href='https://raw.githubusercontent.com/kwkhaw/Layer-Parse-iOS-Swift-Example/master/Assets/Atlas-Layer-Parse-github.png'>`Screenshot 1`</a> 
-  -  `2016` `swift` `parse` `atlas` 
-  -  ☆`118` 
 - [LayerPlayer](https://github.com/scotteg/LayerPlayer): Explore the capabilities of Apple's Core Animation API
   -  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/1f/d7/6b/1fd76bad-a826-04e3-7d3c-63597d1f382d/mzm.lmczjzqb.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/19/b1/85/19b185da-e8b3-6245-7f99-cf2345fa115d/mzm.olxmsgjq.png/460x0w.jpg'>`Screenshot 2`</a> 
   -  `2022` `swift` 
@@ -3277,9 +3198,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1137064763) <a href='https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif'>`Screenshot 1`</a>  <a href='https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg'>`Screenshot 2`</a>  <a href='https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg'>`Screenshot 3`</a> 
   -  `2017` `swift` 
   -  ☆`38` 
-- [QRGen](https://github.com/lojals/QRGen): Read, generate QR codes
-  -  `2016` `swift` 
-  -  ☆`4` 
 - [Scan Now](https://github.com/WezSieTato/ScanNow): Fast and simple document scanning
   - [` App Store`](https://apps.apple.com/app/scan-now/id1660940489)
   -  `2023` `swift` `swiftui` `visionkit` `pdf` `productivity` `ipad` 
@@ -3571,10 +3489,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/931655/58843349-f6dbf400-8626-11e9-8227-fbd369c29515.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`746` 
-- [Todo](https://github.com/JakeLin/Todo)
-  -  <a href='https://github.com/JakeLin/Todo/raw/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://github.com/JakeLin/Todo/raw/master/Screenshots/2.png'>`Screenshot 2`</a> 
-  -  `2016` `swift` 
-  -  ☆`273` 
 ## Text 
  
 [back to top](#readme) 
@@ -3596,10 +3510,6 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/richtexture/id1376116077) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/4d/3b/dc/4d3bdc1a-2bb9-589d-a574-873167dd7fb8/pr_source.png/230x0w.jpg'>`Screenshot 1`</a> 
   -  `2018` `swift` 
   -  ☆`46` 
-- [Sentiments](https://github.com/kyleweiner/Sentiments): Analyzes text for positive or negative sentiment
-  -  <a href='https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif'>`Screenshot 1`</a> 
-  -  `2016` `swift` 
-  -  ☆`178` 
 - [Sprite Fonts](https://github.com/256Arts/Sprite-Fonts): Install a variety of pixel perfect fonts for use in other apps
   - <a href=https://www.jaydenirwin.com/spritefonts/>`https://www.jaydenirwin.com/spritefonts/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-fonts/id1554027877)
@@ -3706,10 +3616,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/05dffc70-0b1a-4dac-858a-cb3c69e39b73'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`4` 
-- [Smart Traveller (UberGuide)](https://github.com/hACKbUSTER/UberGuide-iOS): Simple & comfortable way to explore a city
-  -  <a href='https://raw.githubusercontent.com/hACKbUSTER/UberGuide-iOS/master/ScreenShots/IMG_0460.PNG'>`Screenshot 1`</a> 
-  -  `2016` `uber api` 
-  -  ☆`268` 
 - [Themoji](https://github.com/themoji/ios): Use Emojis to communicate while traveling
   - <a href=https://themoji.me/>`https://themoji.me/`</a>
   -  <a href='https://github.com/Themoji/themoji.me/blob/gh-pages/ThemojiIdea.jpg?raw=true'>`Screenshot 1`</a> 
@@ -3751,10 +3657,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/liu044100/SmileWeather/raw/master/SmileWeather-Example/demo_gif/new_pro.jpg'>`Screenshot 1`</a> 
   -  `2017` `wunderground api` `openweathermap api` 
   -  ☆`485` 
-- [Sol](https://github.com/comyar/Sol)
-  -  <a href='https://github.com/comyar/Sol/raw/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://github.com/comyar/Sol/raw/master/Screenshots/2.png'>`Screenshot 2`</a> 
-  -  `2016` `wunderground api` 
-  -  ☆`1440` 
 - [StormyLaunch](https://github.com/Sendeky/weatherkit-weather-app): Weather with launchable rocket and animations
   -  <a href='https://user-images.githubusercontent.com/83136978/210652066-0f5549b8-3f8c-48dc-967e-34bd6565400f.jpg'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652073-e86a0af8-fbea-426b-8188-6ce3ca398d15.jpg'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652084-95f427d1-4151-43d9-a8a0-de1ce7b8ee70.jpg'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652087-967675d9-dcb0-4372-b986-c3a364c95844.jpg'>`Screenshot 4`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652091-f347f1d6-8d0e-4d1b-8935-cd41b4518c9a.jpg'>`Screenshot 5`</a> 
   -  `2023` `swift` 
@@ -4619,17 +4521,9 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
 https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme) 
  
 
-- [BrewMobile](https://github.com/brewfactory/BrewMobile): App for managing the beer brewing process
-  -  <a href='https://brewfactory.org/BrewMobile/img/9_small.png'>`Screenshot 1`</a>  <a href='https://brewfactory.org/BrewMobile/img/8_small.png'>`Screenshot 2`</a> 
-  -  `2016` `swift` 
-  -  ☆`196` 
 - [C-41](https://github.com/ashfurrow/C-41): Simple timer to make developing film easier & more reliable
   -  `2021` `objc` 
   -  ☆`2056` 
-- [Giraffe](https://github.com/evgeniyd/Giraffe)
-  -  <a href='https://raw.githubusercontent.com/evgeniyd/Giraffe/master/App_Preview_Giraffe_Screens.png'>`Screenshot 1`</a> 
-  -  `2016` `swift` `reactivecocoa` 
-  -  ☆`45` 
 - [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): Photo search
   -  <a href='https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch/raw/master/FinishedApp.png'>`Screenshot 1`</a> 
   -  `2017` `swift` `mvvm` `flickr api` 
