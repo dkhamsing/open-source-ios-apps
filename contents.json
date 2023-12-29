@@ -29807,6 +29807,7 @@
         "swift",
         "swiftui"
       ],
+      "screenshots": ["https://raw.githubusercontent.com/Dimillian/IceCubesApp/main/Images/promo.png"],
       "license": "apache-2.0",
       "date_added": "Dec 6 2022",
       "suggested_by": "@dkhamsing",
