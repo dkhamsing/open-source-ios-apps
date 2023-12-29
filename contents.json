@@ -510,7 +510,7 @@
         "apple-tv"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Watch WWDC Videos",
       "source": "https://github.com/azzoor/WWDCTV",
@@ -2796,7 +2796,7 @@
         "game"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
 
@@ -2882,7 +2882,7 @@
         "game"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/bc39bf17-685b-4a6d-b337-e5ca3808ab0e"
@@ -3546,7 +3546,7 @@
       ],
       "license": "other",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "date_added": "Aug 19 2016",
       "suggested_by": "@caleb0",
@@ -3837,7 +3837,7 @@
         "location"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Visualize where you spend your time",
       "license": "mit",
@@ -3988,7 +3988,7 @@
         "https://github.com/kevinvanderlugt/Swift-Walk-Tracker/raw/master/images/screenshot_list.PNG"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "stars": 135,
       "license": "other",
@@ -4002,7 +4002,7 @@
         "travel"
       ],
       "tags": [
-        "uber api"
+        "uber api", "archive"
       ],
       "description": "Simple & comfortable way to explore a city",
       "license": "mit",
@@ -4525,7 +4525,7 @@
         "content"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Listen to any song from phish.in, view concert ratings & reviews from phish.net",
       "source": "https://github.com/alecgorge/PhishOD-iOS",
@@ -4566,7 +4566,7 @@
         "video"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/eb0767eb-1a6a-412b-8d06-623665a6ac6e"
@@ -5622,7 +5622,7 @@
         "sample"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/be6673d7-7dfe-4c58-acdb-c5aa407d5b62"
@@ -5648,7 +5648,7 @@
       "tags": [
         "swift",
         "parse",
-        "atlas"
+        "atlas", "archive"
       ],
       "stars": 118,
       "date_added": "Mon Jan 25 08:14:18 2016 -0800",
@@ -6245,7 +6245,7 @@
       "source": "https://github.com/JakeLin/Todo",
       "stars": 273,
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/JakeLin/Todo/raw/master/Screenshots/1.png",
@@ -6406,7 +6406,7 @@
         "weather"
       ],
       "tags": [
-        "wunderground api"
+        "wunderground api", "archive"
       ],
       "license": "mit",
       "source": "https://github.com/comyar/Sol",
@@ -7445,7 +7445,7 @@
         "content"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/614294c0-e93e-47c8-8131-acb55a3c97cb"
@@ -8643,7 +8643,7 @@
       ],
       "stars": 196,
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "other",
       "date_added": "Thu Sep 10 13:25:52 2015 -0700",
@@ -9011,7 +9011,7 @@
         "apple-tv"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "source": "https://github.com/spritlesoftware/railscasts-on-appletv",
       "screenshots": [
@@ -9533,7 +9533,7 @@
       "license": "mit",
       "source": "https://github.com/kyleweiner/Sentiments",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/kyleweiner/Sentiments/raw/master/Assets/sentiments_example.gif"
@@ -12001,7 +12001,7 @@
         "game"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "PokéMon-like game that uses your location",
       "license": "mit",
@@ -12541,7 +12541,7 @@
       "license": "mit",
       "tags": [
         "swift",
-        "reactivecocoa"
+        "reactivecocoa", "archive"
       ],
       "stars": 45,
       "updated": "2016-08-01 17:40:19 UTC"
@@ -12864,7 +12864,7 @@
         "developer"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "source": "https://github.com/wujianguo/iOSAppsInfo",
       "screenshots": [
@@ -13002,7 +13002,7 @@
       ],
       "source": "https://github.com/brianmichel/ESCapey",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/brianmichel/ESCapey/raw/master/images/ios-screenshot-2.png",
@@ -13385,7 +13385,7 @@
         "spritekit"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "Shape matching puzzle",
       "source": "https://github.com/snazzware/Mergel",
@@ -13761,7 +13761,7 @@
         "audio"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "A simple synthesiser, based on the Korg Monotron Delay",
       "source": "https://github.com/jkandzi/Monotone-Delay",
@@ -14756,7 +14756,7 @@
         "apple-tv"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/intere/retro-skate-tvOS/raw/master/assets/screenshot2.png"
@@ -21591,7 +21591,7 @@
       "source": "https://github.com/lojals/QRGen",
       "license": "mit",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "date_added": "May 17 2020",
       "suggested_by": "@dkhamsing",
