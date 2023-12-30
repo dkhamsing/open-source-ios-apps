@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2029,%202023-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1506-green.svg) ![](https://img.shields.io/badge/Updated-December%2030,%202023-lightgrey.svg)
 
 Jump to
 
@@ -3442,6 +3442,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2022` `flutter` `dart` 
   -  ☆`93` 
 - [Ice Cubes](https://github.com/Dimillian/IceCubesApp)
+  -  <a href='https://raw.githubusercontent.com/Dimillian/IceCubesApp/main/Images/promo.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`3792` 
 - [iMast for Mastodon](https://github.com/cinderella-project/iMast)
