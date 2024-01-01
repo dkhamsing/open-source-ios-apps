@@ -278,6 +278,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [NearbyWeather](https://github.com/erikmartens/nearbyweather-legacy)
 - [Nested Lists](https://github.com/objcio/issue-4-full-core-data-application)
 - [Neverlate](https://github.com/ayunav/Neverlate)
+- [New Zealand - NZ COVID Tracer](https://github.com/minhealthnz/nzcovidtracer-app)
 - [news](https://github.com/grp/newsyc)
 - [News/YC](https://github.com/bennyguitar/News-YC---iPhone)
 - [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)
