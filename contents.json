@@ -31003,6 +31003,21 @@
       "suggested_by": "@dkhamsing",
       "stars": 17,
       "updated": "2023-11-26 11:36:52 UTC"
-    }
+    },     
+    {
+      "title": "New Zealand - NZ COVID Tracer",
+      "category-ids": [
+        "contact-tracing",
+        "react-native"
+      ],
+      "tags": [
+        "archive"
+      ],
+      "source": "https://github.com/minhealthnz/nzcovidtracer-app",
+      "license": "other",
+      "date_added": "Dec 27 2023",
+      "suggested_by": "@dkhamsing",
+      "stars": 430      
+    }    
   ]
 }
