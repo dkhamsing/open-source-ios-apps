@@ -31018,6 +31018,21 @@
       "date_added": "Dec 27 2023",
       "suggested_by": "@dkhamsing",
       "stars": 430      
-    }    
+    },
+    {
+      "title": "Frosty",
+      "description": "Twitch client with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": ["https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4ade6dbc-6bee-4018-9f10-4e9d28ca6027"],
+      "source": "https://github.com/tommyxchow/frosty",
+      "license": "agpl-3.0",
+      "date_added": "Jan 1 2024",
+      "suggested_by": "@dkhamsing" 
+    }        
   ]
 }
