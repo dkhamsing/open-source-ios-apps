@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1507-green.svg) ![](https://img.shields.io/badge/Updated-January%20%201,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1508-green.svg) ![](https://img.shields.io/badge/Updated-January%20%202,%202024-lightgrey.svg)
 
 Jump to
 
@@ -4394,6 +4394,9 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  <a href='https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif?raw=true'>`Screenshot 1`</a> 
   -  `2022` `react-native` 
   -  ☆`2022` 
+- [Frosty](https://github.com/tommyxchow/frosty): Twitch client with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4ade6dbc-6bee-4018-9f10-4e9d28ca6027'>`Screenshot 1`</a> 
+  - `react-native` 
 - [Gitify](https://github.com/manosim/gitify-mobile): Brings your GitHub notifications in your pocket
   -  <a href='https://a1.mzstatic.com/us/r30/Purple18/v4/88/b6/8a/88b68a7f-d3d8-e51b-9918-cb886b7a4a24/screen696x696.jpeg'>`Screenshot 1`</a> 
   -  `2018` `react-native` 
