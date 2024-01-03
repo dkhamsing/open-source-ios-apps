@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1508-green.svg) ![](https://img.shields.io/badge/Updated-January%20%202,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1509-green.svg) ![](https://img.shields.io/badge/Updated-January%20%203,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3099,6 +3099,8 @@ https://newsapi.org/ — [back to top](#readme)
 - [MarkyMarkdown](https://github.com/MatthewWaller/MarkyMarkdown): An entire markdown app in a single line of Swift code
   -  `2022` `swift` `ipad` `mac` 
   -  ☆`6` 
+- [Mesh Transform Animation](https://github.com/jtrivedi/Mesh-Transform-Animation): Simplified reproduction of the Dynamic Island mesh transform animation
+  - `swiftui` `metal` 
 - [Modern Collection Views](https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios): Showcase different compositional layouts and how to achieve them
   -  <a href='https://nemecek.be/media/images/photosLayoutOptimized.gif'>`Screenshot 1`</a> 
   -  `2022` `swift` 
