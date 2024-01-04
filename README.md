@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1509-green.svg) ![](https://img.shields.io/badge/Updated-January%20%203,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1509-green.svg) ![](https://img.shields.io/badge/Updated-January%20%204,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1080,7 +1080,7 @@ Jump to
   -  `2017` `swift` 
   -  ☆`12` 
 - [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner)
-  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://camo.githubusercontent.com/61fa9900294eada789ea109791848755cdc3514c0e34d502427ad767548dc114/68747470733a2f2f6973312d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c65536f757263653131362f76342f39382f35352f35302f39383535353063372d376238322d613731372d326630392d6338356536383362313961352f66366163376137322d623365642d343434322d393066312d6364636236303031303965375f73637265656e73686f74732d362e352e3030322e6a7065672f3630307830772e77656270'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/35/c1/26/35c12695-7b3b-b7d0-d73f-316be3f6db22/b33c5447-0a52-46ca-9fc7-66295ab9d0ac__U200escreenshots-6.5._U200e001.jpeg/600x0w.webp'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`8` 
 - [WWDCast](https://github.com/sgl0v/WWDCast): The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast
@@ -3330,7 +3330,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`624` 
 - [KeePassium](https://github.com/keepassium/KeePassium): KeePass-compatible password manager with support for automatic database synchronization, respect to privacy and premium user experience
   - <a href=https://keepassium.com/>`https://keepassium.com/`</a>
-  - [` App Store`](https://apps.apple.com/app/keepassium-password-manager/id1435127111) <a href='https://camo.githubusercontent.com/06c9d38ada0237520fba642b3c5a63a2aadadd35/68747470733a2f2f6b65657061737369756d2e636f6d2f696d672f6769746875622f756e6c6f636b2d64625f773235302e706e67'>`Screenshot 1`</a>  <a href='https://camo.githubusercontent.com/2d8bdec5348b4f47448d8e2166cbdbee4f13360e/68747470733a2f2f6b65657061737369756d2e636f6d2f696d672f6769746875622f766965772d67726f75705f773235302e706e67'>`Screenshot 2`</a>  <a href='https://camo.githubusercontent.com/cb4066dc251b1e7ff7aef723f24089280a1b6063/68747470733a2f2f6b65657061737369756d2e636f6d2f696d672f6769746875622f766965772d656e7472795f773235302e706e67'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/keepassium-password-manager/id1435127111) <a href='https://keepassium.com/img/github/unlock-db_w250.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`1026` 
 - [MasterPassword](https://github.com/Lyndir/MasterPassword): Stateless password management solution
@@ -3827,7 +3827,7 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id806879890) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/db/30/13/db301357-71d6-46b1-1eb1-153076a3dcde/mzl.lgwcughc.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple6/v4/d9/80/ba/d980ba2c-ee74-912d-ed69-31e6ee8e4a13/mzl.aheiwncb.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/be/3c/db/be3cdbb6-2a30-2d5f-898f-4d7f71112c9b/mzl.ctjthyav.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple4/v4/d5/a5/d8/d5a5d8fd-7d20-129d-c1a2-6aa46943bd6c/mzl.xqnovjbn.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple/v4/3b/f0/0b/3bf00b84-d0f5-f502-d00a-f624d4f58f89/mzl.sdjokgxw.png/460x0w.jpg'>`Screenshot 5`</a> 
   - `objc` 
 - [localsend](https://github.com/localsend/localsend): Cross-platform alternative to AirDrop
-  -  <a href='https://camo.githubusercontent.com/722283a1bf8e4c866a781df40eb8ba7452dba3b86db00008898854583837ed82/68747470733a2f2f6c6f63616c73656e642e6f72672f696d672f73637265656e73686f742d6970686f6e652e77656270'>`Screenshot 1`</a> 
+  -  <a href='https://localsend.org/img/screenshot-iphone.webp'>`Screenshot 1`</a> 
   -  `2023` `flutter` 
   -  ☆`25642` 
 - [Locations for LOST](https://github.com/AdrienVillez/LOST-Location): A movie scenes finder
@@ -4175,7 +4175,7 @@ https://flutter.dev — [back to top](#readme)
   -  `2019` `flutter` `dart` `python` 
   -  ☆`154` 
 - [ShortenMyURL](https://github.com/ritwiktakkar/shorten_my_URL): Elegant URL shortener
-  - [` App Store`](https://apps.apple.com/app/shortenmyurl/id1525888533) <a href='https://camo.githubusercontent.com/3af068c2bd5a94577bab34bcc261f391359145d5d5d2c2009ce139694e9f81d8/68747470733a2f2f6973312d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c65536f757263653131362f76342f39342f39622f63382f39343962633862632d663866622d616632312d386263622d3166353936666463653466372f61636130623762652d616336622d343066322d386163342d3139656164363536626566645f73637265656e73686f74732d362e352e3030312e6a7065672f3630307830772e77656270'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/shortenmyurl/id1525888533) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/94/9b/c8/949bc8bc-f8fb-af21-8bcb-1f596fdce4f7/aca0b7be-ac6b-40f2-8ac4-19ead656befd_screenshots-6.5.001.jpeg/600x0w.webp'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`4` 
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle)
@@ -4226,7 +4226,7 @@ https://flutter.dev — [back to top](#readme)
   -  `2023` `flutter` `dart` 
   -  ☆`1098` 
 - [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner)
-  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://camo.githubusercontent.com/61fa9900294eada789ea109791848755cdc3514c0e34d502427ad767548dc114/68747470733a2f2f6973312d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c65536f757263653131362f76342f39382f35352f35302f39383535353063372d376238322d613731372d326630392d6338356536383362313961352f66366163376137322d623365642d343434322d393066312d6364636236303031303965375f73637265656e73686f74732d362e352e3030322e6a7065672f3630307830772e77656270'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/35/c1/26/35c12695-7b3b-b7d0-d73f-316be3f6db22/b33c5447-0a52-46ca-9fc7-66295ab9d0ac__U200escreenshots-6.5._U200e001.jpeg/600x0w.webp'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`8` 
 ### GraphQL 
