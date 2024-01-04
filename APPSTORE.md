@@ -524,7 +524,7 @@ Jump to
   -  `2017` `swift` 
   -  ☆`12` 
 - [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner)
-  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://camo.githubusercontent.com/61fa9900294eada789ea109791848755cdc3514c0e34d502427ad767548dc114/68747470733a2f2f6973312d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c65536f757263653131362f76342f39382f35352f35302f39383535353063372d376238322d613731372d326630392d6338356536383362313961352f66366163376137322d623365642d343434322d393066312d6364636236303031303965375f73637265656e73686f74732d362e352e3030322e6a7065672f3630307830772e77656270'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/35/c1/26/35c12695-7b3b-b7d0-d73f-316be3f6db22/b33c5447-0a52-46ca-9fc7-66295ab9d0ac__U200escreenshots-6.5._U200e001.jpeg/600x0w.webp'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`8` 
 ## Emulator 
@@ -1587,7 +1587,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`624` 
 - [KeePassium](https://github.com/keepassium/KeePassium): KeePass-compatible password manager with support for automatic database synchronization, respect to privacy and premium user experience
   - <a href=https://keepassium.com/>`https://keepassium.com/`</a>
-  - [` App Store`](https://apps.apple.com/app/keepassium-password-manager/id1435127111) <a href='https://camo.githubusercontent.com/06c9d38ada0237520fba642b3c5a63a2aadadd35/68747470733a2f2f6b65657061737369756d2e636f6d2f696d672f6769746875622f756e6c6f636b2d64625f773235302e706e67'>`Screenshot 1`</a>  <a href='https://camo.githubusercontent.com/2d8bdec5348b4f47448d8e2166cbdbee4f13360e/68747470733a2f2f6b65657061737369756d2e636f6d2f696d672f6769746875622f766965772d67726f75705f773235302e706e67'>`Screenshot 2`</a>  <a href='https://camo.githubusercontent.com/cb4066dc251b1e7ff7aef723f24089280a1b6063/68747470733a2f2f6b65657061737369756d2e636f6d2f696d672f6769746875622f766965772d656e7472795f773235302e706e67'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/keepassium-password-manager/id1435127111) <a href='https://keepassium.com/img/github/unlock-db_w250.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`1026` 
 - [MasterPassword](https://github.com/Lyndir/MasterPassword): Stateless password management solution
@@ -1950,7 +1950,7 @@ https://flutter.dev — [back to top](#readme)
   -  `2021` `flutter` `dart` 
   -  ☆`182` 
 - [ShortenMyURL](https://github.com/ritwiktakkar/shorten_my_URL): Elegant URL shortener
-  - [` App Store`](https://apps.apple.com/app/shortenmyurl/id1525888533) <a href='https://camo.githubusercontent.com/3af068c2bd5a94577bab34bcc261f391359145d5d5d2c2009ce139694e9f81d8/68747470733a2f2f6973312d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c65536f757263653131362f76342f39342f39622f63382f39343962633862632d663866622d616632312d386263622d3166353936666463653466372f61636130623762652d616336622d343066322d386163342d3139656164363536626566645f73637265656e73686f74732d362e352e3030312e6a7065672f3630307830772e77656270'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/shortenmyurl/id1525888533) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/94/9b/c8/949bc8bc-f8fb-af21-8bcb-1f596fdce4f7/aca0b7be-ac6b-40f2-8ac4-19ead656befd_screenshots-6.5.001.jpeg/600x0w.webp'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`4` 
 - [Twake](https://github.com/linagora/Twake-Mobile): Team channels, direct chat, task management, drive and calendar; all in one place
@@ -1959,7 +1959,7 @@ https://flutter.dev — [back to top](#readme)
   -  `2023` `swift` `ipad` `dart` 
   -  ☆`55` 
 - [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner)
-  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://camo.githubusercontent.com/61fa9900294eada789ea109791848755cdc3514c0e34d502427ad767548dc114/68747470733a2f2f6973312d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c65536f757263653131362f76342f39382f35352f35302f39383535353063372d376238322d613731372d326630392d6338356536383362313961352f66366163376137322d623365642d343434322d393066312d6364636236303031303965375f73637265656e73686f74732d362e352e3030322e6a7065672f3630307830772e77656270'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/35/c1/26/35c12695-7b3b-b7d0-d73f-316be3f6db22/b33c5447-0a52-46ca-9fc7-66295ab9d0ac__U200escreenshots-6.5._U200e001.jpeg/600x0w.webp'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`8` 
 ### GraphQL 
