@@ -31045,6 +31045,20 @@
       "license": "mit",
       "date_added": "Jan 2 2024",
       "suggested_by": "@dkhamsing" 
-    }            
+    },
+    {
+      "title": "DinnerRoll",
+      "description": "Where to eat",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "archive"
+      ],       
+      "source": "https://github.com/DinnerRollApp/iOS",
+      "license": "other",
+      "date_added": "Jan 3 2024",
+      "suggested_by": "@dkhamsing" 
+    }                
   ]
 }
