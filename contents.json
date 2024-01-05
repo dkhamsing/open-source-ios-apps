@@ -31059,6 +31059,20 @@
       "license": "other",
       "date_added": "Jan 3 2024",
       "suggested_by": "@dkhamsing" 
-    }                
+    },
+    {
+      "title": "whathaveiread",
+      "description": "Keep track of all books you've read and keep a short summary about them",
+      "category-ids": [
+        "media"
+      ],
+      "tags": [
+        "swift", "core-data"
+      ],       
+      "source": "https://github.com/bcye/whathaveiread",
+      "license": "gpl-3.0",
+      "date_added": "Jan 3 2024",
+      "suggested_by": "@dkhamsing" 
+    }              
   ]
 }
