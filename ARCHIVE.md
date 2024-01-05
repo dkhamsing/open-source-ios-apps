@@ -125,6 +125,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [DesireKeyboard](https://github.com/noppefoxwolf/DesireKeyboard)
 - [Dicershaker](https://github.com/millenomi/diceshaker)
 - [Dictum](https://github.com/matthewpalmer/Dictum)
+- [DinnerRoll](https://github.com/DinnerRollApp/iOS)
 - [DoctorNearby](https://github.com/vincezzh/doctornearby-ios)
 - [Dollar Bets](https://github.com/Rich86man/Dollar-Bets)
 - [Dono](https://github.com/opensourceios/dono-ios)
