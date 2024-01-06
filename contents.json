@@ -31073,6 +31073,21 @@
       "license": "gpl-3.0",
       "date_added": "Jan 3 2024",
       "suggested_by": "@dkhamsing" 
-    }              
+    }, 
+    {
+      "title": "Swordfish",
+      "description": "See upcoming schedules, GPAs, and billing information for Binus University",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift", "realm", "rxswift"
+      ],  
+      "screenshots": ["https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3a3ee691-e5e3-4c73-9924-a67a80c3a13b"],
+      "source": "https://github.com/kevinyou77/Swordfish",
+      "license": "other",
+      "date_added": "Jan 6 2024",
+      "suggested_by": "@dkhamsing" 
+    }                  
   ]
 }
