@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1510-green.svg) ![](https://img.shields.io/badge/Updated-January%20%205,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1511-green.svg) ![](https://img.shields.io/badge/Updated-January%20%206,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2263,6 +2263,8 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/wallabag-2-official/id1170800946) <a href='https://github.com/wallabag/ios-app/blob/master/fastlane/framed/iPhone6Plus-01Home-d41d8cd98f00b204e9800998ecf8427e_framed.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/wallabag/ios-app/blob/master/fastlane/framed/iPhone6Plus-02Article-d41d8cd98f00b204e9800998ecf8427e_framed.png?raw=true'>`Screenshot 2`</a> 
   -  `2023` `swift` 
   -  ☆`155` 
+- [whathaveiread](https://github.com/bcye/whathaveiread): Keep track of all books you've read and keep a short summary about them
+  - `swift` `core-data` 
 ### Animoji 
  
 [back to top](#readme) 
