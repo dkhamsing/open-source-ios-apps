@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1511-green.svg) ![](https://img.shields.io/badge/Updated-January%20%206,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1512-green.svg) ![](https://img.shields.io/badge/Updated-January%20%207,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3915,6 +3915,9 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen5.png'>`Screenshot 3`</a> 
   -  `2022` `swift` 
   -  ☆`1867` 
+- [Swordfish](https://github.com/kevinyou77/Swordfish): See upcoming schedules, GPAs, and billing information for Binus University
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3a3ee691-e5e3-4c73-9924-a67a80c3a13b'>`Screenshot 1`</a> 
+  - `swift` `realm` `rxswift` 
 - [Symbol Code](https://github.com/256Arts/Symbol-Code): Programs execute visually by moving variables around the symbol grid
   - <a href=https://www.jaydenirwin.com/sfcode/>`https://www.jaydenirwin.com/sfcode/`</a>
   - [` App Store`](https://apps.apple.com/app/sf-code/id1568916751)
