@@ -16962,7 +16962,7 @@
       "updated": "2018-02-02 22:12:01 UTC"
     },
     {
-      "title": "wallabag",
+      "title": "Wallabag",
       "description": "A self-hosted read-it-later app",
       "source": "https://github.com/wallabag/ios-app",
       "itunes": "https://apps.apple.com/app/wallabag-2-official/id1170800946",
@@ -16973,8 +16973,7 @@
         "swift"
       ],
       "screenshots": [
-        "https://github.com/wallabag/ios-app/blob/master/fastlane/framed/iPhone6Plus-01Home-d41d8cd98f00b204e9800998ecf8427e_framed.png?raw=true",
-        "https://github.com/wallabag/ios-app/blob/master/fastlane/framed/iPhone6Plus-02Article-d41d8cd98f00b204e9800998ecf8427e_framed.png?raw=true"
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6ee36d3c-1dbd-4b1d-9a39-0070fd5e0681"
       ],
       "stars": 155,
       "license": "mit",
