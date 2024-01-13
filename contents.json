@@ -31085,7 +31085,7 @@
       "title": "Dream",
       "description": "Lucid text-to-3D tool built with the Apple VisionOS SDK",
       "category-ids": [
-        "misc"
+        "apple-vision"
       ],
       "tags": [
         "swift", "swiftui", "vision", "visionos", "gpt"
