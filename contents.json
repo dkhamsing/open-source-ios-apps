@@ -11,6 +11,10 @@
       "id": "apple-tv"
     },
     {
+      "title": "Apple Vision",
+      "id": "apple-vision"
+    },    
+    {
       "title": "Apple Watch",
       "id": "apple-watch"
     },
