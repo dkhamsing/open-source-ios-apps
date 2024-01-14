@@ -31084,6 +31084,21 @@
       "license": "other",
       "date_added": "Jan 6 2024",
       "suggested_by": "@dkhamsing" 
-    }                  
+    },
+    {
+      "title": "Dream",
+      "description": "Lucid text-to-3D tool built with the Apple VisionOS SDK",
+      "category-ids": [
+        "apple-vision"
+      ],
+      "tags": [
+        "swift", "swiftui", "vision", "visionos", "gpt"
+      ],  
+      "screenshots": ["https://github.com/Sigil-Wen/Dream-with-Vision-Pro/blob/main/image-1.png?raw=true"],
+      "source": "https://github.com/Sigil-Wen/Dream-with-Vision-Pro",
+      "license": "other",
+      "date_added": "Jan 12 2024",
+      "suggested_by": "@dkhamsing" 
+    }    
   ]
 }
