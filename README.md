@@ -6,11 +6,12 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1512-green.svg) ![](https://img.shields.io/badge/Updated-January%20%209,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1513-green.svg) ![](https://img.shields.io/badge/Updated-January%2014,%202024-lightgrey.svg)
 
 Jump to
 
 - [Apple TV](#apple-tv) 
+- [Apple Vision](#apple-vision) 
 - [Apple Watch](#apple-watch) 
 - [Browser](#browser) 
 - [Calculator](#calculator) 
@@ -142,6 +143,14 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/vlc-for-ios/id650377962) <a href='https://user-images.githubusercontent.com/4723115/146823429-c85f22c0-e757-48c0-ba54-0930ed1769bc.png'>`Screenshot 1`</a> 
   -  `2023` `objc` `ipad` 
   -  ☆`12230` 
+## Apple Vision 
+ 
+[back to top](#readme) 
+ 
+
+- [Dream](https://github.com/Sigil-Wen/Dream-with-Vision-Pro): Lucid text-to-3D tool built with the Apple VisionOS SDK
+  -  <a href='https://github.com/Sigil-Wen/Dream-with-Vision-Pro/blob/main/image-1.png?raw=true'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `vision` `visionos` `gpt` 
 ## Apple Watch 
  
 [back to top](#readme) 
