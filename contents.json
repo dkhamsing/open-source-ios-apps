@@ -31099,6 +31099,21 @@
       "license": "other",
       "date_added": "Jan 12 2024",
       "suggested_by": "@dkhamsing" 
-    }    
+    },
+    {
+      "title": "NetflixVisionPro",
+      "description": "Immersive Netflix clone developed for visionOS",
+      "category-ids": [
+        "apple-vision"
+      ],
+      "tags": [
+        "swift", "swiftui", "vision", "visionos"
+      ],  
+      "screenshots": ["https://repository-images.githubusercontent.com/657306985/e1517173-f5ce-4702-8bc4-2bf0644b0297"],
+      "source": "https://github.com/barisozgenn/NetflixVisionPro",
+      "license": "mit",
+      "date_added": "Jan 14 2024",
+      "suggested_by": "@dkhamsing" 
+    }        
   ]
 }
