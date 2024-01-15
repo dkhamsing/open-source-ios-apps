@@ -17021,6 +17021,16 @@
       "updated": "2017-04-17 07:49:35 UTC"
     },
     {
+      "title": "Nextcloud",
+      "category-ids": ["Category id"],
+      "description": "A safe home for all your data. The Nextcloud iOS app allows you to access all your files on your Nextcloud",
+      "source": "https://github.com/nextcloud/ios?tab=readme-ov-file",
+      "itunes": "https://apps.apple.com/us/app/nextcloud/id1125420102",
+      "screenshots": ["https://github.com/nextcloud/ios/blob/master/widget.png"],
+      "date_added": "Jan 14 2024",
+      "suggested_by": "MariamCoder22"
+},
+    {
       "title": "ChainReactApp",
       "category-ids": [
         "event"
