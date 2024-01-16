@@ -31114,6 +31114,21 @@
       "license": "mit",
       "date_added": "Jan 14 2024",
       "suggested_by": "@dkhamsing" 
-    }        
+    },
+    {
+      "title": "StonksPro",
+      "description": "List most actively traded stocks and top market cap crypto assets",
+      "category-ids": [
+        "apple-vision"
+      ],
+      "tags": [
+        "swift", "swiftui", "vision", "visionos"
+      ],  
+      "screenshots": ["https://github.com/6/StonksPro/assets/158675/373a476d-1f94-4a76-9826-74fd581d7afc"],
+      "source": "https://github.com/6/StonksPro",
+      "license": "other",
+      "date_added": "Jan 15 2024",
+      "suggested_by": "@dkhamsing" 
+    }          
   ]
 }
