@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1514-green.svg) ![](https://img.shields.io/badge/Updated-January%2015,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1515-green.svg) ![](https://img.shields.io/badge/Updated-January%2016,%202024-lightgrey.svg)
 
 Jump to
 
@@ -153,6 +153,9 @@ Jump to
   - `swift` `swiftui` `vision` `visionos` `gpt` 
 - [NetflixVisionPro](https://github.com/barisozgenn/NetflixVisionPro): Immersive Netflix clone developed for visionOS
   -  <a href='https://repository-images.githubusercontent.com/657306985/e1517173-f5ce-4702-8bc4-2bf0644b0297'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `vision` `visionos` 
+- [StonksPro](https://github.com/6/StonksPro): List most actively traded stocks and top market cap crypto assets
+  -  <a href='https://github.com/6/StonksPro/assets/158675/373a476d-1f94-4a76-9826-74fd581d7afc'>`Screenshot 1`</a> 
   - `swift` `swiftui` `vision` `visionos` 
 ## Apple Watch 
  
