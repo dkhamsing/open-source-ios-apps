@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1515-green.svg) ![](https://img.shields.io/badge/Updated-January%2016,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1516-green.svg) ![](https://img.shields.io/badge/Updated-January%2017,%202024-lightgrey.svg)
 
 Jump to
 
@@ -148,6 +148,9 @@ Jump to
 [back to top](#readme) 
  
 
+- [Beatmap AR](https://github.com/fabio914/BeatmapVisionPro): Beat Saber map visualizer
+  -  <a href='https://github.com/fabio914/BeatmapVisionPro/blob/main/Images/screenshot1.jpg?raw=true'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `vision` `visionos` `realitykit` 
 - [Dream](https://github.com/Sigil-Wen/Dream-with-Vision-Pro): Lucid text-to-3D tool built with the Apple VisionOS SDK
   -  <a href='https://github.com/Sigil-Wen/Dream-with-Vision-Pro/blob/main/image-1.png?raw=true'>`Screenshot 1`</a> 
   - `swift` `swiftui` `vision` `visionos` `gpt` 
