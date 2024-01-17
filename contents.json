@@ -31129,6 +31129,21 @@
       "license": "other",
       "date_added": "Jan 15 2024",
       "suggested_by": "@dkhamsing" 
-    }          
+    },
+    {
+      "title": "Beatmap AR",
+      "description": "Beat Saber map visualizer",
+      "category-ids": [
+        "apple-vision"
+      ],
+      "tags": [
+        "swift", "swiftui", "vision", "visionos", "realitykit"
+      ],  
+      "screenshots": ["https://github.com/fabio914/BeatmapVisionPro/blob/main/Images/screenshot1.jpg?raw=true"],
+      "source": "https://github.com/fabio914/BeatmapVisionPro",
+      "license": "mit",
+      "date_added": "Jan 16 2024",
+      "suggested_by": "@dkhamsing" 
+    }              
   ]
 }
