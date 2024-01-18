@@ -31144,6 +31144,21 @@
       "license": "mit",
       "date_added": "Jan 16 2024",
       "suggested_by": "@dkhamsing" 
-    }              
+    },
+    {
+      "title": "VisionCraft",
+      "description": "Minecraft clone",
+      "category-ids": [
+        "apple-vision"
+      ],
+      "tags": [
+        "swift", "swiftui", "vision", "visionos" 
+      ],  
+      "screenshots": ["https://github.com/Sigil-Wen/VisionCraft/raw/main/progress%202.png"],
+      "source": "https://github.com/Sigil-Wen/VisionCraft",
+      "license": "other",
+      "date_added": "Jan 17 2024",
+      "suggested_by": "@dkhamsing" 
+    }                  
   ]
 }
