@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1516-green.svg) ![](https://img.shields.io/badge/Updated-January%2017,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1517-green.svg) ![](https://img.shields.io/badge/Updated-January%2018,%202024-lightgrey.svg)
 
 Jump to
 
@@ -159,6 +159,9 @@ Jump to
   - `swift` `swiftui` `vision` `visionos` 
 - [StonksPro](https://github.com/6/StonksPro): List most actively traded stocks and top market cap crypto assets
   -  <a href='https://github.com/6/StonksPro/assets/158675/373a476d-1f94-4a76-9826-74fd581d7afc'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `vision` `visionos` 
+- [VisionCraft](https://github.com/Sigil-Wen/VisionCraft): Minecraft clone
+  -  <a href='https://github.com/Sigil-Wen/VisionCraft/raw/main/progress%202.png'>`Screenshot 1`</a> 
   - `swift` `swiftui` `vision` `visionos` 
 ## Apple Watch 
  
