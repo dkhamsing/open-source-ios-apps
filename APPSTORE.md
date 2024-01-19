@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -491,6 +491,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/gradecalc-gpa-calculator/id1502912052) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2022` `swift` 
   -  ☆`45` 
+- [MultiBuddy](https://github.com/danispringer/multi): Learn math time tables while having fun
+  - [` App Store`](https://apps.apple.com/app/multibuddy/id6449202900) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a93c588f-f777-4204-996c-43b7367ba9a9'>`Screenshot 1`</a> 
+  - `swift` `ipad` 
 - [Pocket Code](https://github.com/catrobat/catty): Create games, animations, interactive music videos, and many kind of other apps, directly on device
   - <a href=https://catrobat.org/>`https://catrobat.org/`</a>
   - [` App Store`](https://apps.apple.com/app/pocket-code/id1117935892)
