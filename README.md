@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1517-green.svg) ![](https://img.shields.io/badge/Updated-January%2018,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1518-green.svg) ![](https://img.shields.io/badge/Updated-January%2019,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1050,6 +1050,9 @@ Jump to
   -  <a href='https://hamed8080.github.io/LeitnerBox/leitnerbox/images/review.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`10` 
+- [MultiBuddy](https://github.com/danispringer/multi): Learn math time tables while having fun
+  - [` App Store`](https://apps.apple.com/app/multibuddy/id6449202900) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a93c588f-f777-4204-996c-43b7367ba9a9'>`Screenshot 1`</a> 
+  - `swift` `ipad` 
 - [Pocket Code](https://github.com/catrobat/catty): Create games, animations, interactive music videos, and many kind of other apps, directly on device
   - <a href=https://catrobat.org/>`https://catrobat.org/`</a>
   - [` App Store`](https://apps.apple.com/app/pocket-code/id1117935892)
