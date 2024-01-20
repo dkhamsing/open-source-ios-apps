@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1518-green.svg) ![](https://img.shields.io/badge/Updated-January%2019,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1518-green.svg) ![](https://img.shields.io/badge/Updated-January%2020,%202024-lightgrey.svg)
 
 Jump to
 
@@ -444,7 +444,7 @@ Jump to
   -  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot3.png?raw=true'>`Screenshot 3`</a> 
   -  `2020` `swift` `palette` `color` `earthview` 
   -  ☆`22` 
-- [PickerFull](https://github.com/DaniSpringer/pickerfull): Extract a color from any photo
+- [PickerFull](https://github.com/danispringer/pickerfull): Extract a color from any photo
   - [` App Store`](https://apps.apple.com/app/pickerfull/id1410565176)
   -  `2023` `swift` 
   -  ☆`4` 
@@ -1464,7 +1464,7 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/tt1k/MoneyPlusPro/blob/master/images/main.png'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`23` 
-- [Motivator](https://github.com/DaniSpringer/timeismoney): Countdown for how much more you can make today
+- [Motivator](https://github.com/danispringer/timeismoney): Countdown for how much more you can make today
   - [` App Store`](https://apps.apple.com/app/motivator-money-counter/id6444535220)
   -  `2023` `swift` 
 - [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances
@@ -3865,7 +3865,7 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/madbike/id1067596651) <a href='https://user-images.githubusercontent.com/4723115/171218451-82b563c5-c2b3-4f41-bf77-fc432245499e.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/10/6d/cc/106dcc94-1daf-c1f8-12ce-0cb234657f7e/pr_source.png/0x0ss.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/85/a5/a7/85a5a7c0-ebc9-27d4-5f81-6d7c6f7b4c02/pr_source.png/0x0ss.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/b6/91/dd/b691dda9-6f80-4942-3182-0c848ac0477a/pr_source.jpg/0x0ss.jpg'>`Screenshot 4`</a> 
   -  `2019` `clone` `core-data` `firebase` `fitness` `location` `news` `weather` 
   -  ☆`24` 
-- [Mathee](https://github.com/DaniSpringer/mathee): Math games collection
+- [Mathee](https://github.com/danispringer/mathee): Math games collection
   - [` App Store`](https://apps.apple.com/app/mathee/id1406084758)
   -  `2023` `swift` 
 - [Mirror++](https://github.com/nathanmsmith/MirrorPlusPlus): Minimalist mirror
@@ -3904,7 +3904,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/1d2ecfbd-ef48-4dd7-9866-a938e8128aad'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`527` 
-- [Prefacto for prime numbers](https://github.com/DaniSpringer/prefacto)
+- [Prefacto for prime numbers](https://github.com/danispringer/prefacto)
   - [` App Store`](https://apps.apple.com/app/prefacto/id1402417667)
   -  `2023` `swift` 
 - [Question answering and text generation](https://github.com/huggingface/swift-coreml-transformers): Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT
