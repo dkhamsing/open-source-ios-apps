@@ -233,7 +233,7 @@ Jump to
 [back to top](#readme) 
  
 
-- [PickerFull](https://github.com/DaniSpringer/pickerfull): Extract a color from any photo
+- [PickerFull](https://github.com/danispringer/pickerfull): Extract a color from any photo
   - [` App Store`](https://apps.apple.com/app/pickerfull/id1410565176)
   -  `2023` `swift` 
   -  ☆`4` 
@@ -715,7 +715,7 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/dime-budget-expense-tracker/id1635280255) <a href='https://github.com/rarfell/dimeApp/blob/main/ReadmeAssets/hero.png?raw=true'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`495` 
-- [Motivator](https://github.com/DaniSpringer/timeismoney): Countdown for how much more you can make today
+- [Motivator](https://github.com/danispringer/timeismoney): Countdown for how much more you can make today
   - [` App Store`](https://apps.apple.com/app/motivator-money-counter/id6444535220)
   -  `2023` `swift` 
 - [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances
@@ -1847,7 +1847,7 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/madbike/id1067596651) <a href='https://user-images.githubusercontent.com/4723115/171218451-82b563c5-c2b3-4f41-bf77-fc432245499e.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/10/6d/cc/106dcc94-1daf-c1f8-12ce-0cb234657f7e/pr_source.png/0x0ss.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/85/a5/a7/85a5a7c0-ebc9-27d4-5f81-6d7c6f7b4c02/pr_source.png/0x0ss.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/b6/91/dd/b691dda9-6f80-4942-3182-0c848ac0477a/pr_source.jpg/0x0ss.jpg'>`Screenshot 4`</a> 
   -  `2019` `clone` `core-data` `firebase` `fitness` `location` `news` `weather` 
   -  ☆`24` 
-- [Mathee](https://github.com/DaniSpringer/mathee): Math games collection
+- [Mathee](https://github.com/danispringer/mathee): Math games collection
   - [` App Store`](https://apps.apple.com/app/mathee/id1406084758)
   -  `2023` `swift` 
 - [My Little Popcat](https://github.com/ChoiysApple/My-Little-Popcat): Relaxing and fun pop cat
@@ -1867,7 +1867,7 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1199566366) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/88/8f/c3/888fc31d-7ad9-c6ce-6d80-b081151b3600/mzl.vupiryaa.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e4/f1/e4/e4f1e4ab-d623-d3c4-3a4d-5770de1a6fb4/mzl.suvrwweg.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/67/f8/d6/67f8d6bc-1c11-8164-634e-050953b73439/mzl.tpujfkus.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/a0/14/a6a01466-204c-be56-11aa-9953a6913af0/mzl.qhffrqig.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/23/41/00/2341001e-05ef-e1f1-6b0a-86b4146f6c18/mzl.phvtiqbd.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2023` `toast` 
   -  ☆`63` 
-- [Prefacto for prime numbers](https://github.com/DaniSpringer/prefacto)
+- [Prefacto for prime numbers](https://github.com/danispringer/prefacto)
   - [` App Store`](https://apps.apple.com/app/prefacto/id1402417667)
   -  `2023` `swift` 
 - [Say Their Names](https://github.com/Say-Their-Name/say-their-names-ios): Raises awareness of the injustice and often forgotten names of racial inequality, includes a catalog of verified donation and petition links
