@@ -17970,10 +17970,10 @@
         "viper"
       ],
       "tags": [
-        "swift"
+        "swift", "fastlane"
       ],
-      "description": "Memory game using VIPER with robust Unit Tests and Fastlane",
-      "source": "https://github.com/windwithbirds/mobile-ios-vipergame",
+      "description": "Uses VIPER with robust unit tests",
+      "source": "https://github.com/matiasvillaverde/mobile-ios-vipergame",
       "license": "mit",
       "screenshots": [
         "https://raw.githubusercontent.com/matiasvillaverde/mobile-ios-vipergame/master/header.png"
