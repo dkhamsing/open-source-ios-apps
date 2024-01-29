@@ -5806,7 +5806,7 @@
         "sample"
       ],
       "screenshots": [
-        "https://i.imgur.com/vaGCfA0.png"
+
       ],
       "description": "Demo of how to auto-login users using Safari cookies",
       "source": "https://github.com/mackuba/SafariAutoLoginTest",
