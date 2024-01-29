@@ -321,6 +321,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [PlainNote](https://github.com/vkoser/PlainNote)
 - [PocketFlix](https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki)
 - [PocketNode](https://github.com/mzabriskie/PocketNode)
+- [Podcasts](https://github.com/opensourceios/Podcasts-SwiftUI)
 - [Pokedex](https://github.com/yoha/Pokedex)
 - [Pokemon Go clone](https://github.com/c/Pokemon)
 - [pokemon-map](https://github.com/bakery/pokemon-map)
