@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1518-green.svg) ![](https://img.shields.io/badge/Updated-January%2031,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1518-green.svg) ![](https://img.shields.io/badge/Updated-February%20%204,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1457,14 +1457,14 @@ File Management — [back to top](#readme)
 - [Gasoline](https://github.com/Blackjacx/Gasoline): Track your gas expense
   -  `2020` `swift` `swiftlint` `quick` `nimble` 
   -  ☆`4` 
+- [MoneyMate](https://github.com/tt1k/money-mate): Help you record income and expense
+  -  <a href='https://github.com/tt1k/money-mate/blob/master/images/main.jpg?raw=true'>`Screenshot 1`</a> 
+  -  `2020` `swift` 
+  -  ☆`23` 
 - [MoneyPlus](https://github.com/SeekingMini/MoneyPlus): Help you record income and expense
   -  <a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `snapkit` 
   -  ☆`34` 
-- [MoneyPlusPro](https://github.com/tt1k/MoneyPlusPro): Help you record income and expense
-  -  <a href='https://github.com/tt1k/MoneyPlusPro/blob/master/images/main.png'>`Screenshot 1`</a> 
-  -  `2020` `swift` 
-  -  ☆`23` 
 - [Motivator](https://github.com/danispringer/timeismoney): Countdown for how much more you can make today
   - [` App Store`](https://apps.apple.com/app/motivator-money-counter/id6444535220)
   -  `2024` `swift` 
@@ -4008,14 +4008,14 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/024e3be5-cf9e-45f0-a65b-e2d5ea45fd13'>`Screenshot 1`</a> 
   -  `2017` `swift` 
   -  ☆`20` 
+- [MoneyMate](https://github.com/tt1k/money-mate): Help you record income and expense
+  -  <a href='https://github.com/tt1k/money-mate/blob/master/images/main.jpg?raw=true'>`Screenshot 1`</a> 
+  -  `2020` `swift` 
+  -  ☆`23` 
 - [MoneyPlus](https://github.com/SeekingMini/MoneyPlus): Help you record income and expense
   -  <a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `snapkit` 
   -  ☆`34` 
-- [MoneyPlusPro](https://github.com/tt1k/MoneyPlusPro): Help you record income and expense
-  -  <a href='https://github.com/tt1k/MoneyPlusPro/blob/master/images/main.png'>`Screenshot 1`</a> 
-  -  `2020` `swift` 
-  -  ☆`23` 
 - [Tagger](https://github.com/ivan-magda/Tagger): Help tag your photos on Instagram or Flickr
   -  <a href='https://github.com/ivan-magda/Tagger/raw/master/Screenshots/main.png'>`Screenshot 1`</a> 
   -  `2019` `swift` 
