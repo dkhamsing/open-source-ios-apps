@@ -2451,7 +2451,7 @@
       "updated": "2020-12-19 15:47:39 UTC"
     },
     {
-      "title": "MoneyPlusPro",
+      "title": "MoneyMate",
       "category-ids": [
         "finance",
         "core-data"
@@ -2460,9 +2460,9 @@
       "tags": [
         "swift"
       ],
-      "source": "https://github.com/tt1k/MoneyPlusPro",
+      "source": "https://github.com/tt1k/money-mate",
       "screenshots": [
-        "https://github.com/tt1k/MoneyPlusPro/blob/master/images/main.png"
+        "https://github.com/tt1k/money-mate/blob/master/images/main.jpg?raw=true"
       ],
       "date_added": "Oct 12 2020",
       "suggested_by": "@IcedOtaku",
