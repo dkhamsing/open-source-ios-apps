@@ -4133,11 +4133,11 @@
         "content"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Artwork showcase",
       "license": "mit",
-      "source": "https://github.com/artsy/energy",
+      "source": "https://github.com/artsy/energy-legacy",
       "itunes": "https://apps.apple.com/app/artsy-folio/id504862164",
       "stars": 14,
       "date_added": "Tue Aug 11 07:32:03 2015 -0700",
