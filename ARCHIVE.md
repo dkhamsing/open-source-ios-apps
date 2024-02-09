@@ -45,6 +45,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [AppSlate](https://github.com/Taehan-Kim/AppSlate)
 - [Arex](https://github.com/a2/arex)
 - [Around Me](https://github.com/bgryszko/react-native-example)
+- [Artsy Folio](https://github.com/artsy/energy-legacy)
 - [Artsy Shows](https://github.com/artsy/Emergence)
 - [AssociationBot](https://github.com/alexsosn/AssociationBot)
 - [AsthmaHealth](https://github.com/ResearchKit/AsthmaHealth)
