@@ -59,7 +59,7 @@
 22. [Artsy](https://github.com/artsy/eigen)
 23. [Zavala](https://github.com/vincode-io/Zavala)
 24. [Wire](https://github.com/wireapp/wire-ios)
-25. [Artsy Folio](https://github.com/artsy/energy)
+25. [Artsy Folio](https://github.com/artsy/energy-legacy)
 26. [deltachat](https://github.com/deltachat/deltachat-ios)
 27. [PPSSPP](https://github.com/hrydgard/ppsspp)
 28. [violet](https://github.com/project-violet/violet)
