@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1518-green.svg) ![](https://img.shields.io/badge/Updated-February%20%204,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1518-green.svg) ![](https://img.shields.io/badge/Updated-February%20%209,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2391,10 +2391,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e40b21e-59fa-4026-ad3c-07e2a08bf4f5'>`Screenshot 1`</a> 
   -  `2024` `iphone` `ipad` `reactnative` `typescript` 
   -  ☆`3393` 
-- [Artsy Folio](https://github.com/artsy/energy): Artwork showcase
-  - [` App Store`](https://apps.apple.com/app/artsy-folio/id504862164) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/76/bf/5a/76bf5acd-ea5c-51f6-1cc3-100ca9069161/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/8b/52/54/8b52540f-9828-07b4-9c39-2c12fe659ff9/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/dd/4d/0c/dd4d0c97-dceb-48ba-2654-151a6bb5ae6a/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/ae/fe/ff/aefeff40-164c-9274-7945-91b11c7ced1c/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2024` `objc` 
-  -  ☆`14` 
 - [bar](https://github.com/soffes/bar): Cocktail menu
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/5ebd1009-9b8c-4ad8-9aff-c47a77a923e4'>`Screenshot 1`</a> 
   -  `2023` `swift` 
