@@ -390,6 +390,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [SimpleMemo](https://github.com/lijuncode/SimpleMemo)
 - [Simplistic](https://github.com/e7711bbear/Simplistic)
 - [SkeletonKey](https://github.com/chrishulbert/SkeletonKey)
+- [Skiff Mail](https://github.com/skiff-org/skiff-apps)
 - [Smart Traveller (UberGuide)](https://github.com/hACKbUSTER/UberGuide-iOS)
 - [Snapchat clone](https://github.com/opensourceios/SnapChat)
 - [Sol](https://github.com/comyar/Sol)
