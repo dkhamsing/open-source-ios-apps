@@ -8490,7 +8490,7 @@
       "updated": "2016-03-30 02:08:00 UTC"
     },
     {
-      "title": "For Hacker News by jsdf",
+      "title": "ReactNativeHackerNews",
       "category-ids": [
         "react-native"
       ],
@@ -8499,8 +8499,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://i.imgur.com/gVmrxDe.png",
-        "https://i.imgur.com/FYOgBYc.png"
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d2cfdc51-6dc6-4a24-97fc-1e5fb873d8ed"
       ],
       "source": "https://github.com/jsdf/ReactNativeHackerNews",
       "stars": 259,
