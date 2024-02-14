@@ -31259,6 +31259,27 @@
       "suggested_by": "@dkhamsing",
       "stars": 0,
       "updated": "2024-01-17 01:55:19 UTC"
-    }
+    },
+    {
+      "title": "SpatialDock",
+      "description": "Placing a dock at the bottom of your sight so that you do not have to awkwardly reach the Digital Crown",
+      "category-ids": [
+        "apple-vision"
+      ],
+      "tags": [
+        "swift",
+        "swiftui", 
+        "visionos",
+        "gpt"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/kjwamlex/SpatialDock/main/simulator_screenshot_E092138F-E2EF-4EC7-9968-09DFE76D9440.png"
+      ],
+      "source": "https://github.com/kjwamlex/SpatialDock",
+      "license": "gpl-3.0",
+      "date_added": "Feb 13 2024",
+      "suggested_by": "@dkhamsing",
+      "stars": 42      
+    }    
   ]
 }
