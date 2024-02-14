@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1518-green.svg) ![](https://img.shields.io/badge/Updated-February%2011,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1519-green.svg) ![](https://img.shields.io/badge/Updated-February%2014,%202024-lightgrey.svg)
 
 Jump to
 
@@ -160,6 +160,10 @@ Jump to
   -  <a href='https://repository-images.githubusercontent.com/657306985/e1517173-f5ce-4702-8bc4-2bf0644b0297'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `vision` `visionos` 
   -  ☆`43` 
+- [SpatialDock](https://github.com/kjwamlex/SpatialDock): Placing a dock at the bottom of your sight so that you do not have to awkwardly reach the Digital Crown
+  -  <a href='https://raw.githubusercontent.com/kjwamlex/SpatialDock/main/simulator_screenshot_E092138F-E2EF-4EC7-9968-09DFE76D9440.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `visionos` `gpt` 
+  -  ☆`42` 
 - [StonksPro](https://github.com/6/StonksPro): List most actively traded stocks and top market cap crypto assets
   -  <a href='https://github.com/6/StonksPro/assets/158675/373a476d-1f94-4a76-9826-74fd581d7afc'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `vision` `visionos` 
