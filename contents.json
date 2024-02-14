@@ -31280,6 +31280,24 @@
       "date_added": "Feb 13 2024",
       "suggested_by": "@dkhamsing",
       "stars": 42      
+    },
+    {
+      "title": "Logseq",
+      "category-ids": [
+        "notes" 
+      ],
+      "tags": [
+        "react-native" 
+      ],
+      "description": "Outliner that works on top of local plain-text Markdown and Org-mode files",
+      "source": "https://github.com/logseq/logseq",
+      "stars": 28000,
+      "license": "gpl-3.0",
+      "date_added": "Feb 14 2024",
+      "suggested_by": "@l2dy",
+      "screenshots": [
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/79fd777e-caf7-4021-badf-8b5ca12b9a7a"
+       ]      
     }    
   ]
 }
