@@ -31299,6 +31299,25 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/79fd777e-caf7-4021-badf-8b5ca12b9a7a"
        ]      
-    }    
+    },
+    {
+      "title": "Concertmaster Player",
+      "description": "Classical music front-end for Spotify",
+      "category-ids": [
+        "audio"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/openopus-org/concertmaster_ios",
+      "itunes": "https://apps.apple.com/app/concertmaster-player/id1561622325",
+      "screenshots": [
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/57d23dbc-ee29-49b6-b02c-fb653c1abc17"
+      ],
+      "license": "gpl-3.0",
+      "date_added": "Feb 15 2020",
+      "suggested_by": "@dkhamsing",
+      "updated": "2022-06-10 02:53:27 UTC"
+    },    
   ]
 }
