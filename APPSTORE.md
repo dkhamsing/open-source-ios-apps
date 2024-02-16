@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1205,6 +1205,9 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/concertino/id1506663568) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4c68ecdf-6fce-462e-8d8d-368cbd02f43c'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`115` 
+- [Concertmaster Player](https://github.com/openopus-org/concertmaster_ios): Classical music front-end for Spotify
+  - [` App Store`](https://apps.apple.com/app/concertmaster-player/id1561622325) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/57d23dbc-ee29-49b6-b02c-fb653c1abc17'>`Screenshot 1`</a> 
+  -  `2022` `swift` 
 - [Podverse](https://github.com/podverse/podverse-rn): Feature-rich, cross-platform podcast app with a focus on clip sharing and discovery
   - <a href=https://podverse.fm>`https://podverse.fm`</a>
   - [` App Store`](https://apps.apple.com/app/podverse/id1390888454) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b7d0b732-f756-4d80-b1a5-8578ea71b817'>`Screenshot 1`</a> 
