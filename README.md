@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1520-green.svg) ![](https://img.shields.io/badge/Updated-February%2015,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1521-green.svg) ![](https://img.shields.io/badge/Updated-February%2016,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2329,6 +2329,9 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/concertino/id1506663568) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4c68ecdf-6fce-462e-8d8d-368cbd02f43c'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`115` 
+- [Concertmaster Player](https://github.com/openopus-org/concertmaster_ios): Classical music front-end for Spotify
+  - [` App Store`](https://apps.apple.com/app/concertmaster-player/id1561622325) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/57d23dbc-ee29-49b6-b02c-fb653c1abc17'>`Screenshot 1`</a> 
+  -  `2022` `swift` 
 - [DoubanFM](https://github.com/XVXVXXX/DoubanFM)
   -  <a href='https://github.com/XVXVXXX/DoubanFM/raw/master/readmeImage/page0.png'>`Screenshot 1`</a> 
   -  `2017` `afnetworking` `mpmovieplayer` `iphone` 
