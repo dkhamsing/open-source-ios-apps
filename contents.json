@@ -10595,7 +10595,7 @@
         "game"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Turn-based strategy game",
       "source": "https://hg.hedgewars.org/hedgewars/",
