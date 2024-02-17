@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -796,10 +796,6 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id287653015) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/44/c4/bc44c4a0-cfa4-77c9-fc27-2da0748cbe77/mzl.vxovhixx.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/3c/37/e1/3c37e1c2-82cb-5633-63a7-2e3268b28f19/mzl.tekdjhho.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/ec/c8/b9/ecc8b9c9-fed6-518c-1595-094bd89a1ebb/mzl.sxvcmhhb.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/cc/ac/ce/ccacce90-af76-33b8-7481-1056b102ebb4/mzl.qrenfxgg.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2023` `objc` 
   -  ☆`47` 
-- [Hedgewars](https://hg.hedgewars.org/hedgewars/): Turn-based strategy game
-  - <a href=https://www.hedgewars.org/>`https://www.hedgewars.org/`</a>
-  - [` App Store`](https://apps.apple.com/app/id391234866) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/1b/b3/47/1bb34751-0f14-8964-0026-d00205a91eaa/pr_source.png/626x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/68/6d/bf/686dbf81-1b2e-d74f-5b38-7a5d859de168/pr_source.png/626x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/4f/94/81/4f94810b-9c6f-32b6-2e44-8cede258f90a/pr_source.png/626x0w.png'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bd/a1/1d/bda11d26-7ab3-eb35-082e-f8a32bcfcecf/pr_source.png/626x0w.png'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/9f/bb/af/9fbbaf4a-110b-3316-f789-09b2be9f9282/pr_source.png/626x0w.png'>`Screenshot 5`</a> 
-  -  `2018` `objc` 
 - [littlego](https://github.com/herzbube/littlego): Game of Go
   - [` App Store`](https://apps.apple.com/app/little-go/id490753989) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/af/a9/34/afa934c6-45c5-c194-d179-f34520fe8b1c/mzl.jfnjvioh.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2024` `iphone` `ipad` 
