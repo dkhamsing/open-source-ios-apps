@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1521-green.svg) ![](https://img.shields.io/badge/Updated-February%2017,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1522-green.svg) ![](https://img.shields.io/badge/Updated-February%2018,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3194,6 +3194,9 @@ https://newsapi.org/ — [back to top](#readme)
 - [UbiquitousKeyValue-Storage](https://github.com/StewartLynch/UbiquitousKeyValue-Storage): NSUbiquitousKeyValueStore or iCLoud Shared UserDefaults project
   -  `2022` `swift` 
   -  ☆`3` 
+- [UICollectionView-Collapsible-Section-Demo](https://github.com/sebjvidal/UICollectionView-Collapsible-Section-Demo): How to create collapsible list sections using UICollectionView and NSDiffableDataSourceSectionSnapshot
+  -  <a href='https://github.com/sebjvidal/UICollectionView-Collapsible-Section-Demo/assets/27621026/361d25d2-f6b5-4c44-9d1a-f36a8a085312'>`Screenshot 1`</a> 
+  - `swift` 
 - [UIKit Catalog by Apple](https://developer.apple.com/documentation/uikit/views_and_controls/uikit_catalog_creating_and_customizing_views_and_controls)
   - `swift` 
 - [Using on-demand resources for securely storing API keys](https://github.com/laevandus/OnDemandAPIKeyExample)
