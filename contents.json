@@ -31318,6 +31318,23 @@
       "date_added": "Feb 15 2020",
       "suggested_by": "@dkhamsing",
       "updated": "2022-06-10 02:53:27 UTC"
-    }
+    },
+    {
+      "title": "UICollectionView-Collapsible-Section-Demo",
+      "description": "How to create collapsible list sections using UICollectionView and NSDiffableDataSourceSectionSnapshot",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/sebjvidal/UICollectionView-Collapsible-Section-Demo",
+      "screenshots": [
+        "https://github.com/sebjvidal/UICollectionView-Collapsible-Section-Demo/assets/27621026/361d25d2-f6b5-4c44-9d1a-f36a8a085312"
+      ],
+      "license": "other",
+      "date_added": "Feb 17 2020",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
