@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1522-green.svg) ![](https://img.shields.io/badge/Updated-February%2018,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1522-green.svg) ![](https://img.shields.io/badge/Updated-February%2019,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2321,10 +2321,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/bookplayer-audio-book-player/id1138219998) <a href='https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'>`Screenshot 3`</a> 
   -  `2024` `swift` 
   -  ☆`1401` 
-- [Concertino](https://github.com/openopus-org/concertino_ios): Classical music and Apple Music working together
-  - [` App Store`](https://apps.apple.com/app/concertino/id1506663568) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4c68ecdf-6fce-462e-8d8d-368cbd02f43c'>`Screenshot 1`</a> 
-  -  `2022` `swift` 
-  -  ☆`115` 
 - [Concertmaster Player](https://github.com/openopus-org/concertmaster_ios): Classical music front-end for Spotify
   - [` App Store`](https://apps.apple.com/app/concertmaster-player/id1561622325) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/57d23dbc-ee29-49b6-b02c-fb653c1abc17'>`Screenshot 1`</a> 
   -  `2022` `swift` 
