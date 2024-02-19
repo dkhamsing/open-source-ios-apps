@@ -30199,11 +30199,11 @@
         "content"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "Uses the public API of Lorem Picsum https://picsum.photos",
       "license": "other",
-      "source": "https://github.com/meggsila/Picsum",
+      "source": "https://github.com/opensourceios/Picsum",
       "date_added": "Feb 6 2023",
       "suggested_by": "@dkhamsing",
       "stars": 7,
