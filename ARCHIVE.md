@@ -320,6 +320,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser)
 - [Pi](https://github.com/opensourceios/Pi)
 - [Pickery](https://github.com/Performador/Pickery)
+- [Picsum](https://github.com/opensourceios/Picsum)
 - [PlainNote](https://github.com/vkoser/PlainNote)
 - [PocketFlix](https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki)
 - [PocketNode](https://github.com/mzabriskie/PocketNode)
