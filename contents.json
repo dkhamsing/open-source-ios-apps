@@ -3751,8 +3751,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://i.imgur.com/FWj32S0.png",
-        "https://i.imgur.com/IyfFdCc.png"
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/55173e9c-0330-42f5-8126-8112acbf05df"
       ],
       "description": "Share your location",
       "license": "apache-2.0",
@@ -8382,7 +8381,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://i.imgur.com/zcyhbtv.png"
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/7092e6c1-1332-4973-9b24-392da16b024b"
       ],
       "source": "https://github.com/JoeStanton/london-react",
       "stars": 51,
@@ -8833,7 +8832,7 @@
       "source": "https://github.com/tailec/boilerplate",
       "stars": 348,
       "screenshots": [
-        "https://i.imgur.com/611wefH.png"
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/c5301416-600f-41b3-85da-88bb0edde346"
       ],
       "tags": [
         "swift",
@@ -8891,7 +8890,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://i.imgur.com/vgZbwrp.png"
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/c4dae92b-136a-4046-a353-86334a8de79a"
       ],
       "license": "mit",
       "source": "https://github.com/mutualmobile/Counter",
@@ -8939,7 +8938,7 @@
         "archive"
       ],
       "screenshots": [
-        "https://i.imgur.com/UhJOVuw.png"
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/e37dd034-4f6f-4542-9f99-76c723a6fa6d"
       ],
       "source": "https://github.com/objcio/issue-13-viper",
       "homepage": "https://www.objc.io/issues/13-architecture/viper/",
@@ -23722,9 +23721,9 @@
         "audio"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
-      "source": "https://github.com/openopus-org/concertino_ios",
+      "source": "https://github.com/opensourceios/concertino_ios",
       "itunes": "https://apps.apple.com/app/concertino/id1506663568",
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4c68ecdf-6fce-462e-8d8d-368cbd02f43c"
@@ -30199,11 +30198,11 @@
         "content"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "Uses the public API of Lorem Picsum https://picsum.photos",
       "license": "other",
-      "source": "https://github.com/meggsila/Picsum",
+      "source": "https://github.com/opensourceios/Picsum",
       "date_added": "Feb 6 2023",
       "suggested_by": "@dkhamsing",
       "stars": 7,
@@ -31317,7 +31316,25 @@
       "license": "gpl-3.0",
       "date_added": "Feb 15 2020",
       "suggested_by": "@dkhamsing",
+
       "updated": "2021-04-23 02:53:27 UTC"
+    },
+    {
+      "title": "UICollectionView-Collapsible-Section-Demo",
+      "description": "How to create collapsible list sections using UICollectionView and NSDiffableDataSourceSectionSnapshot",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/sebjvidal/UICollectionView-Collapsible-Section-Demo",
+      "screenshots": [
+        "https://github.com/sebjvidal/UICollectionView-Collapsible-Section-Demo/assets/27621026/361d25d2-f6b5-4c44-9d1a-f36a8a085312"
+      ],
+      "license": "other",
+      "date_added": "Feb 17 2020",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }
