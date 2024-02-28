@@ -10876,10 +10876,10 @@
         "social"
       ],
       "description": "Ello is the Creators Network",
-      "source": "https://github.com/ello/ello-ios",
+      "source": "https://github.com/opensourceios/ello-ios",
       "itunes": "https://apps.apple.com/app/ello/id953614327",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "mit",
       "stars": 740,
