@@ -142,6 +142,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [EatNow](https://github.com/callzhang/Eat-Now)
 - [eCortex](https://github.com/whymani005/cortex)
 - [Eleven](https://github.com/opensourceios/Eleven)
+- [Ello](https://github.com/opensourceios/ello-ios)
 - [EMI Calculator](https://github.com/tirupati17/loan-emi-calculator-clean-swift)
 - [EmojiFireplace](https://github.com/neonichu/EmojiFireplace)
 - [Endless Browser](https://github.com/jcs/endless)
