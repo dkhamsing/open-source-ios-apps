@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1522-green.svg) ![](https://img.shields.io/badge/Updated-March%20%203,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1522-green.svg) ![](https://img.shields.io/badge/Updated-March%20%204,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3659,10 +3659,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/jareksedy/Elseweather/raw/main/Screenshots/ew-scr.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` 
   -  ☆`11` 
-- [MeWeather](https://github.com/meggsila/MeWeather)
-  -  <a href='https://user-images.githubusercontent.com/80169743/181288499-3e0c2e95-cdf7-4388-8acd-464b1ac2ecb2.jpg'>`Screenshot 1`</a> 
-  -  `2023` `swift` `openweathermap` 
-  -  ☆`16` 
 - [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)
   -  <a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `combine` 
