@@ -29145,13 +29145,13 @@
       ],
       "tags": [
         "swift",
-        "openweathermap"
+        "openweathermap", "archive"
       ],
       "screenshots": [
         "https://user-images.githubusercontent.com/80169743/181288499-3e0c2e95-cdf7-4388-8acd-464b1ac2ecb2.jpg"
       ],
       "license": "other",
-      "source": "https://github.com/meggsila/MeWeather",
+      "source": "https://github.com/opensourceios/MeWeather",
       "date_added": "Aug 3 2022",
       "suggested_by": "@dkhamsing",
       "stars": 16,
