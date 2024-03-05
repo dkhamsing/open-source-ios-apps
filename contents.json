@@ -31362,6 +31362,22 @@
       "license": "other",
       "date_added": "Mar 3 2020",
       "suggested_by": "@dkhamsing"      
-    }    
+    },
+    {
+      "title": "Vision Pro Vacuum Demo",
+      "description": "Showcases how to work with Apple Vision Pro, RealityKit, ARKit",
+      "category-ids": [
+        "apple-vision"
+      ],
+      "tags": [
+        "swift", "vision", "visionos"
+      ],
+      "source": "https://github.com/gonchar/VisionProVacuumDemo",
+      "screenshots": [
+        "https://github.com/gonchar/VisionProVacuumDemo/assets/1416917/97ce2fd7-db31-41dd-bf70-1f9bef06f353"
+      ],
+      "license": "mit",
+      "date_added": "Mar 5 2020",
+      "suggested_by": "@dkhamsing"
   ]
 }
