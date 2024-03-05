@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1522-green.svg) ![](https://img.shields.io/badge/Updated-March%20%204,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1523-green.svg) ![](https://img.shields.io/badge/Updated-March%20%205,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3789,6 +3789,9 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/emoncms/id1169483587) <a href='https://github.com/emoncms/emoncms-ios/blob/master/images/screen1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/emoncms/emoncms-ios/blob/master/images/screen2.png?raw=true'>`Screenshot 2`</a> 
   -  `2022` `swift` 
   -  ☆`18` 
+- [EmployeeCheckin](https://github.com/meggsila/EmployeeCheckin): Allows employees to check in their time using a date picker
+  -  <a href='https://github.com/meggsila/EmployeeCheckin/assets/80169743/447521f2-bc34-4823-8ba5-699240de608d'>`Screenshot 1`</a> 
+  - `swift` `mvvm` `core-data` 
 - [FakeFBWall](https://github.com/VamshiIITBHU14/FakeFBWall): Generate fake Facebook wall
   -  <a href='https://user-images.githubusercontent.com/21070922/44155410-d3d87ee8-a0ca-11e8-8502-6f2b2748f5cb.png'>`Screenshot 1`</a> 
   -  `2018` `swift` 
