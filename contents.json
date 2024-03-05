@@ -31345,6 +31345,23 @@
       "suggested_by": "@dkhamsing",
       "stars": 31,
       "updated": "2024-02-17 10:35:44 UTC"
-    }
+    },
+{
+      "title": "EmployeeCheckin",
+      "description": "Allows employees to check in their time using a date picker",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift", "mvvm", "core-data"
+      ],
+      "source": "https://github.com/meggsila/EmployeeCheckin",
+      "screenshots": [
+        "https://github.com/meggsila/EmployeeCheckin/assets/80169743/447521f2-bc34-4823-8ba5-699240de608d"
+      ],
+      "license": "other",
+      "date_added": "Mar 3 2020",
+      "suggested_by": "@dkhamsing"      
+    }    
   ]
 }
