@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1523-green.svg) ![](https://img.shields.io/badge/Updated-March%20%205,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1524-green.svg) ![](https://img.shields.io/badge/Updated-March%20%206,%202024-lightgrey.svg)
 
 Jump to
 
@@ -168,6 +168,9 @@ Jump to
   -  <a href='https://github.com/6/StonksPro/assets/158675/373a476d-1f94-4a76-9826-74fd581d7afc'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `vision` `visionos` 
   -  ☆`25` 
+- [Vision Pro Vacuum Demo](https://github.com/gonchar/VisionProVacuumDemo): Showcases how to work with Apple Vision Pro, RealityKit, ARKit
+  -  <a href='https://github.com/gonchar/VisionProVacuumDemo/assets/1416917/97ce2fd7-db31-41dd-bf70-1f9bef06f353'>`Screenshot 1`</a> 
+  - `swift` `vision` `visionos` 
 - [VisionCraft](https://github.com/Sigil-Wen/VisionCraft): Minecraft clone
   -  <a href='https://github.com/Sigil-Wen/VisionCraft/raw/main/progress%202.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `vision` `visionos` 
