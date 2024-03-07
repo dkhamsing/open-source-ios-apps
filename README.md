@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1524-green.svg) ![](https://img.shields.io/badge/Updated-March%20%206,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1525-green.svg) ![](https://img.shields.io/badge/Updated-March%20%207,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3117,6 +3117,8 @@ https://newsapi.org/ — [back to top](#readme)
 - [Mesh Transform Animation](https://github.com/jtrivedi/Mesh-Transform-Animation): Simplified reproduction of the Dynamic Island mesh transform animation
   -  `2023` `swiftui` `metal` 
   -  ☆`134` 
+- [MLX Examples by Apple](https://github.com/ml-explore/mlx-swift-examples)
+  - `swift` `mlx` 
 - [Modern Collection Views](https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios): Showcase different compositional layouts and how to achieve them
   -  <a href='https://nemecek.be/media/images/photosLayoutOptimized.gif'>`Screenshot 1`</a> 
   -  `2022` `swift` 
