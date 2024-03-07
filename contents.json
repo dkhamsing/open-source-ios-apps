@@ -31379,6 +31379,19 @@
       "license": "mit",
       "date_added": "Mar 5 2020",
       "suggested_by": "@dkhamsing"
-    }
+    },
+    {
+      "title": "MLX Examples by Apple",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift", "mlx"
+      ],
+      "source": "https://github.com/ml-explore/mlx-swift-examples",
+      "license": "mit",
+      "date_added": "Mar 6 2020",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
