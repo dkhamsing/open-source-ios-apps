@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1525-green.svg) ![](https://img.shields.io/badge/Updated-March%20%207,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1525-green.svg) ![](https://img.shields.io/badge/Updated-March%20%208,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3273,7 +3273,7 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/us/app/mullvad-vpn/id1488466513) <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-connected.PNG'>`Screenshot 1`</a>  <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-login.PNG'>`Screenshot 2`</a>  <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-location-server.PNG'>`Screenshot 3`</a> 
   -  `2024` `swift` 
   -  ☆`4234` 
-- [Outline](https://github.com/Jigsaw-Code/outline-client): VPN designed for use with the Outline Server software, but fully compatible with any Shadowsocks server
+- [Outline](https://github.com/Jigsaw-Code/outline-apps): VPN designed for use with the Outline Server software, but fully compatible with any Shadowsocks server
   - <a href=https://getoutline.org>`https://getoutline.org`</a>
   -  `2024` `cordova` 
   -  ☆`8049` 
