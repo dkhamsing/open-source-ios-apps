@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **337** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **338** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1940,6 +1940,9 @@ https://flutter.dev — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/inkino/id1367181450) <a href='https://github.com/roughike/inKino/raw/development/assets/screenshots/now_in_theaters.png'>`Screenshot 1`</a> 
   -  `2022` `flutter` `dart` 
   -  ☆`3582` 
+- [Openreads](https://github.com/mateusz-bak/openreads): Books tracker that respects your privacy
+  - [` App Store`](https://apps.apple.com/app/id6476542305) <a href='https://github.com/mateusz-bak/openreads/blob/master/doc/gplay/app-mockup/Google%20Pixel%204%20XL%20Screenshot%200.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/mateusz-bak/openreads/blob/master/doc/gplay/app-mockup/Google%20Pixel%204%20XL%20Screenshot%201.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/mateusz-bak/openreads/blob/master/doc/gplay/app-mockup/Google%20Pixel%204%20XL%20Screenshot%202.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/mateusz-bak/openreads/blob/master/doc/gplay/app-mockup/Google%20Pixel%204%20XL%20Screenshot%203.png?raw=true'>`Screenshot 4`</a>  <a href='https://github.com/mateusz-bak/openreads/blob/master/doc/gplay/app-mockup/Google%20Pixel%204%20XL%20Screenshot%204.png?raw=true'>`Screenshot 5`</a> 
+  -  ☆`658` 
 - [Platypus Crypto](https://github.com/Blakexx/CryptoTracker)
   - [` App Store`](https://apps.apple.com/app/platypus-crypto/id1397122793) <a href='https://user-images.githubusercontent.com/4723115/129973780-284f8ef0-7ad7-4a29-aaf4-082b76c24b44.png'>`Screenshot 1`</a> 
   -  `2021` `flutter` `dart` 
