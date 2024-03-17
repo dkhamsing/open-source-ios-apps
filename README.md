@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1526-green.svg) ![](https://img.shields.io/badge/Updated-March%2016,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1526-green.svg) ![](https://img.shields.io/badge/Updated-March%2017,%202024-lightgrey.svg)
 
 Jump to
 
@@ -184,7 +184,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/420/id1194325430) <a href='https://raw.githubusercontent.com/efremidze/Alarm/master/screenshots/en-US/iPhone7-0-d41d8cd98f00b204e9800998ecf8427e.png'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`54` 
-- [8 Ball Answers](https://github.com/fulldecent/8-ball)
+- [8 Ball Answers](https://github.com/fulldecent/8-ball-answer)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/32a6a550-4ff1-40e7-bd4e-fbea2b3ec986'>`Screenshot 1`</a> 
   -  `2024` `swift` `watchos` 
   -  ☆`14` 
