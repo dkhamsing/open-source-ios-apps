@@ -121,6 +121,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Cryptose](https://github.com/insurgentgames/Cryptose)
 - [Crystal Clipboard](https://github.com/jzzocc/crystal-clipboard-ios)
 - [Currency Converter](https://github.com/ashwinpreet/ReactNativeExamples)
+- [CZInstagram](https://github.com/opensourceios/CZInstagram)
 - [Danbooru Lite](https://github.com/satishbabariya/Danbooru-Lite)
 - [Delta: Math helper](https://github.com/opensourceios/Delta-iOS)
 - [Den](https://github.com/asamiller/den)
