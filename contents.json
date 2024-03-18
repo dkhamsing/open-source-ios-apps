@@ -21113,13 +21113,13 @@
         "clone"
       ],
       "description": "Instagram written in a way that eliminates Massive View Controller in unidirectional event/state flow manner",
-      "source": "https://github.com/geekaurora/CZInstagram",
+      "source": "https://github.com/opensourceios/CZInstagram",
       "tags": [
         "swift",
         "mvvm",
         "flux",
         "sdwebimage",
-        "easymapping"
+        "easymapping", "archive"
       ],
       "screenshots": [
         "https://github.com/geekaurora/CZInstagram/raw/master/Docs/CZInstagram.gif"
