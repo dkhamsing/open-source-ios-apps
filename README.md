@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1526-green.svg) ![](https://img.shields.io/badge/Updated-March%2017,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1526-green.svg) ![](https://img.shields.io/badge/Updated-March%2018,%202024-lightgrey.svg)
 
 Jump to
 
@@ -497,10 +497,6 @@ Jump to
   -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*tQ0-dhZvBH3O0h9GTScihA.png'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`503` 
-- [CZInstagram](https://github.com/geekaurora/CZInstagram): Instagram written in a way that eliminates Massive View Controller in unidirectional event/state flow manner
-  -  <a href='https://github.com/geekaurora/CZInstagram/raw/master/Docs/CZInstagram.gif'>`Screenshot 1`</a> 
-  -  `2019` `swift` `mvvm` `flux` `sdwebimage` `easymapping` 
-  -  ☆`60` 
 - [DesignRemakes](https://github.com/chFlorian/DesignRemakes): Dribbble designs, speed-coded in SwiftUI
   -  `2023` `swift` `swiftui` 
   -  ☆`52` 
