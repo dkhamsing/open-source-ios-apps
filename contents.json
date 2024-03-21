@@ -26583,12 +26583,12 @@
       "updated": "2024-02-19 00:46:41 UTC"
     },
     {
-      "title": "FEhViewer",
+      "title": "Eros-FE",
       "category-ids": [
         "flutter"
       ],
       "description": "Unofficial E-Hentai viewer",
-      "source": "https://github.com/3003h/FEhViewer",
+      "source": "https://github.com/3003h/Eros-FE",
       "license": "apache-2.0",
       "stars": 2419,
       "tags": [
@@ -26597,7 +26597,7 @@
         "adult"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/honjow/FEhViewer/master/screenshot/home1.jpg"
+        "https://raw.githubusercontent.com/3003h/Eros-FE/master/screenshot/gallery1.png"
       ],
       "date_added": "Jul 24 2021",
       "suggested_by": "@honjow",
