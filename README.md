@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1526-green.svg) ![](https://img.shields.io/badge/Updated-March%2021,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1526-green.svg) ![](https://img.shields.io/badge/Updated-March%2025,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3273,8 +3273,8 @@ https://newsapi.org/ — [back to top](#readme)
   - <a href=https://getoutline.org>`https://getoutline.org`</a>
   -  `2024` `cordova` 
   -  ☆`8049` 
-- [Passepartout](https://github.com/passepartoutvpn/passepartout-apple): User-friendly OpenVPN app
-  - [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537) <a href='https://github.com/passepartoutvpn/passepartout-apple/raw/master/res/ios/snap-home.png'>`Screenshot 1`</a> 
+- [Passepartout](https://github.com/passepartoutvpn/passepartout-app): User-friendly OpenVPN app
+  - [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537) <a href='https://github.com/passepartoutvpn/passepartout-app/raw/master/res/ios/snap-home.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `mbprogresshud` 
   -  ☆`714` 
 - [PGPro](https://github.com/lucanaef/PGPro): PGP En- & Decryption
