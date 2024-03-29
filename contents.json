@@ -2754,6 +2754,14 @@
       "updated": "2011-08-20 03:32:45 UTC"
     },
     {
+            "title": "FunkiniOS",
+            "category-ids": ["game"],
+            "description": "Friday Night Funkin' iOS port",
+            "source": "https://github.com/hadobedo/FunkiniOS",
+            "date_added": "March 29 2024",
+            "suggested_by": "@stuffed2"
+    },
+    {
       "title": "CardsAgainst",
       "category-ids": [
         "game"
