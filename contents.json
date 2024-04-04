@@ -10563,7 +10563,7 @@
         "content"
       ],
       "description": "An offline reader for Wikipedia (& many other websites)",
-      "source": "https://github.com/kiwix/apple",
+      "source": "https://github.com/kiwix/kiwix-apple",
       "homepage": "https://wiki.kiwix.org/wiki/Main_Page",
       "itunes": "https://apps.apple.com/app/id997079563",
       "tags": [
