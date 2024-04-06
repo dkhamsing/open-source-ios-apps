@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **338** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -618,6 +618,8 @@ Jump to
 [back to top](#readme) 
  
 
+- [Homepage](https://github.com/infinitepower18/Homepage-MobileSafari): Set any website as your homepage when opening a new tab
+  - [` App Store`](https://apps.apple.com/app/homepage-for-safari/id6481118559) <a href='https://ahnafmahmud.com/apps/Homepage/screenshot-ipad.png'>`Screenshot 1`</a> 
 - [Overamped](https://github.com/JosephDuffy/Overamped): Safari Web Extension to disable AMP
   - [` App Store`](https://apps.apple.com/app/apple-store/id1573901090) <a href='https://user-images.githubusercontent.com/4723115/135640037-320d9de2-b0d9-49d0-ba46-b58ef600907b.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
