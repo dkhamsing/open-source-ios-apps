@@ -31417,6 +31417,16 @@
       "date_added": "Mar 14 2024",
       "suggested_by": "@mateusz-bak",
       "updated": "2024-03-24 07:56:29 UTC"
+    },
+    {
+      "title": "Homepage",
+      "category-ids": ["safari-extension"],
+      "description": "Set any website as your homepage when opening a new tab",
+      "source": "https://github.com/infinitepower18/Homepage-MobileSafari",
+      "itunes": "https://apps.apple.com/app/homepage-for-safari/id6481118559",
+      "screenshots": ["https://ahnafmahmud.com/apps/Homepage/screenshot-ipad.png"],
+      "date_added": "Apr 5 2024",
+      "suggested_by": "@infinitepower18"
     }
   ]
 }
