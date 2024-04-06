@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1527-green.svg) ![](https://img.shields.io/badge/Updated-April%20%205,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1528-green.svg) ![](https://img.shields.io/badge/Updated-April%20%206,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1285,6 +1285,8 @@ Jump to
 [back to top](#readme) 
  
 
+- [Homepage](https://github.com/infinitepower18/Homepage-MobileSafari): Set any website as your homepage when opening a new tab
+  - [` App Store`](https://apps.apple.com/app/homepage-for-safari/id6481118559) <a href='https://ahnafmahmud.com/apps/Homepage/screenshot-ipad.png'>`Screenshot 1`</a> 
 - [Overamped](https://github.com/JosephDuffy/Overamped): Safari Web Extension to disable AMP
   - [` App Store`](https://apps.apple.com/app/apple-store/id1573901090) <a href='https://user-images.githubusercontent.com/4723115/135640037-320d9de2-b0d9-49d0-ba46-b58ef600907b.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
