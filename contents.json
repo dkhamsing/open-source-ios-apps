@@ -31434,7 +31434,7 @@
        "description": "This is a companion app to exercism.org. You can choose a track, join it, and code all in within the app",
        "source": "https://github.com/apps-fab/exercism-app",
        "screenshots": ["https://paste.pics/QOUL3", "https://paste.pics/QOULV", "https://paste.pics/QOUM3"],
-       "license": "MIT",
+       "license": "mit",
        "date_added": "April 5 2024",
        "suggested_by": "@angiemugo"
      }
