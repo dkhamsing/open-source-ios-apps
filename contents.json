@@ -31425,6 +31425,10 @@
       "source": "https://github.com/infinitepower18/Homepage-MobileSafari",
       "itunes": "https://apps.apple.com/app/homepage-for-safari/id6481118559",
       "screenshots": ["https://ahnafmahmud.com/apps/Homepage/screenshot-ipad.png"],
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
       "date_added": "Apr 5 2024",
       "suggested_by": "@infinitepower18"
     }
