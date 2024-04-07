@@ -31428,7 +31428,7 @@
       "date_added": "Apr 5 2024",
       "suggested_by": "@infinitepower18"
     },
-    { "title": "Exercism MacOS",
+    { "title": "Exercism",
        "category-ids": ["education"],
        "tags": ["swift"],
        "description": "This is a companion app to exercism.org. You can choose a track, join it, and code all in within the app",
