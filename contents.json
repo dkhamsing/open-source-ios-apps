@@ -31427,6 +31427,16 @@
       "screenshots": ["https://ahnafmahmud.com/apps/Homepage/screenshot-ipad.png"],
       "date_added": "Apr 5 2024",
       "suggested_by": "@infinitepower18"
-    }
+    },
+    { "title": "Exercism",
+       "category-ids": ["education"],
+       "tags": ["swift"],
+       "description": "Choose an exercism.org track, join it, and code",
+       "source": "https://github.com/apps-fab/exercism-app",
+       "screenshots": ["https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fb34cb66-1364-4887-87b9-b23283bd132f"],
+       "license": "mit",
+       "date_added": "Apr 5 2024",
+       "suggested_by": "@angiemugo"
+     }
   ]
 }
