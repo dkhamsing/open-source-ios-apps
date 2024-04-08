@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1528-green.svg) ![](https://img.shields.io/badge/Updated-April%20%206,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1529-green.svg) ![](https://img.shields.io/badge/Updated-April%20%208,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1021,6 +1021,9 @@ Jump to
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ebc1598e-6d19-42a0-845e-cc4d73b0d1d0'>`Screenshot 1`</a> 
   -  `2020` `swift` `firebase` `swiftyjson` 
   -  ☆`8` 
+- [Exercism](https://github.com/apps-fab/exercism-app): Choose an exercism.org track, join it, and code
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fb34cb66-1364-4887-87b9-b23283bd132f'>`Screenshot 1`</a> 
+  - `swift` 
 - [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling
   - [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863) <a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `combine` 
