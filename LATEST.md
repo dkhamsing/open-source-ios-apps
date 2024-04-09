@@ -4,7 +4,7 @@
 
 1. [Exercism](https://github.com/apps-fab/exercism-app)
 2. [Homepage](https://github.com/infinitepower18/Homepage-MobileSafari)
-3. [FunkiniOS](https://github.com/hadobedo/FunkiniOS)
+3. [Friday Night Funkin'](https://github.com/hadobedo/FunkiniOS)
 4. [Openreads](https://github.com/mateusz-bak/openreads)
 5. [Logseq](https://github.com/logseq/logseq)
 6. [SpatialDock](https://github.com/kjwamlex/SpatialDock)
