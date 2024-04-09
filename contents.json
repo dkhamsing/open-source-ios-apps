@@ -2754,11 +2754,14 @@
       "updated": "2011-08-20 03:32:45 UTC"
     },
     {
-            "title": "FunkiniOS",
-            "category-ids": ["game"],
-            "description": "Friday Night Funkin' iOS port",
+            "title": "Friday Night Funkin'",
+            "category-ids": ["game"],             
             "source": "https://github.com/hadobedo/FunkiniOS",
             "date_added": "March 29 2024",
+            "license": "apache-2.0",
+       "tags": [
+        "haxe"
+      ],
             "suggested_by": "@stuffed2"
     },
     {
