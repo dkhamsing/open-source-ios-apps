@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1529-green.svg) ![](https://img.shields.io/badge/Updated-April%2012,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1529-green.svg) ![](https://img.shields.io/badge/Updated-April%2027,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1021,7 +1021,7 @@ Jump to
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ebc1598e-6d19-42a0-845e-cc4d73b0d1d0'>`Screenshot 1`</a> 
   -  `2020` `swift` `firebase` `swiftyjson` 
   -  ☆`8` 
-- [Exercism](https://github.com/apps-fab/exercism-app): Choose an exercism.org track, join it, and code
+- [Exercism](https://github.com/apps-fab/exercism-app): Choose an exercism.org track, join it and code
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fb34cb66-1364-4887-87b9-b23283bd132f'>`Screenshot 1`</a> 
   - `swift` 
 - [Fingerspelling](https://github.com/OpenASL/Fingerspelling-iOS): Practice American Sign Language (ASL) fingerspelling
@@ -3201,7 +3201,7 @@ https://newsapi.org/ — [back to top](#readme)
 - [UbiquitousKeyValue-Storage](https://github.com/StewartLynch/UbiquitousKeyValue-Storage): NSUbiquitousKeyValueStore or iCLoud Shared UserDefaults project
   -  `2022` `swift` 
   -  ☆`3` 
-- [UICollectionView-Collapsible-Section-Demo](https://github.com/sebjvidal/UICollectionView-Collapsible-Section-Demo): How to create collapsible list sections using UICollectionView and NSDiffableDataSourceSectionSnapshot
+- [UICollectionView-Collapsible-Section-Demo](https://github.com/sebjvidal/UICollectionView-Collapsible-Section-Demo): Create collapsible list sections using UICollectionView and NSDiffableDataSourceSectionSnapshot
   -  <a href='https://github.com/sebjvidal/UICollectionView-Collapsible-Section-Demo/assets/27621026/361d25d2-f6b5-4c44-9d1a-f36a8a085312'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`35` 
