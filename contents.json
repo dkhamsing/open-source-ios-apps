@@ -7791,10 +7791,7 @@
       "source": "https://github.com/chrismiles/OrganisingCoreData",
       "stars": 37,
       "screenshots": [
-        "https://i.imgur.com/MuViFyc.png",
-        "https://i.imgur.com/pn2qSEg.png",
-        "https://i.imgur.com/yTD7r0K.png",
-        "https://i.imgur.com/MxFiCpn.png"
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4bded66f-04b2-4368-997c-65eaa831c97b"
       ],
       "date_added": "Fri, 7 Aug 2015 07:29:07 -0700",
       "suggested_by": "@dkhamsing",
@@ -31321,7 +31318,7 @@
     },
     {
       "title": "UICollectionView-Collapsible-Section-Demo",
-      "description": "How to create collapsible list sections using UICollectionView and NSDiffableDataSourceSectionSnapshot",
+      "description": "Create collapsible list sections using UICollectionView and NSDiffableDataSourceSectionSnapshot",
       "category-ids": [
         "sample"
       ],
@@ -31444,17 +31441,13 @@
       ],
       "tags": [
         "swift"
-      ],
-      "description": "Choose an exercism.org track, join it, and code",
-      "source": "https://github.com/apps-fab/exercism-app",
-      "screenshots": [
-        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fb34cb66-1364-4887-87b9-b23283bd132f"
-      ],
-      "license": "mit",
-      "date_added": "Apr 5 2024",
-      "suggested_by": "@angiemugo",
-      "stars": 5,
-      "updated": "2024-04-23 13:53:29 UTC"
-    }
+      ],      
+       "description": "Choose an exercism.org track, join it and code",
+       "source": "https://github.com/apps-fab/exercism-app",
+       "screenshots": ["https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fb34cb66-1364-4887-87b9-b23283bd132f"],
+       "license": "mit",
+       "date_added": "Apr 5 2024",
+       "suggested_by": "@angiemugo"
+     }
   ]
 }
