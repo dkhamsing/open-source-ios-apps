@@ -31314,7 +31314,7 @@
     },
     {
       "title": "UICollectionView-Collapsible-Section-Demo",
-      "description": "How to create collapsible list sections using UICollectionView and NSDiffableDataSourceSectionSnapshot",
+      "description": "Create collapsible list sections using UICollectionView and NSDiffableDataSourceSectionSnapshot",
       "category-ids": [
         "sample"
       ],
@@ -31427,7 +31427,7 @@
     { "title": "Exercism",
        "category-ids": ["education"],
        "tags": ["swift"],
-       "description": "Choose an exercism.org track, join it, and code",
+       "description": "Choose an exercism.org track, join it and code",
        "source": "https://github.com/apps-fab/exercism-app",
        "screenshots": ["https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fb34cb66-1364-4887-87b9-b23283bd132f"],
        "license": "mit",
