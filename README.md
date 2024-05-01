@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1529-green.svg) ![](https://img.shields.io/badge/Updated-April%2030,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1529-green.svg) ![](https://img.shields.io/badge/Updated-May%20%201,%202024-lightgrey.svg)
 
 Jump to
 
@@ -518,10 +518,6 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/PankajGaikar/Instagram-Clone-SwiftUI/main/Screenshots/IMG_1607.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/PankajGaikar/Instagram-Clone-SwiftUI/main/Screenshots/activity-dark.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/PankajGaikar/Instagram-Clone-SwiftUI/main/Screenshots/profile-dark.PNG'>`Screenshot 3`</a> 
   -  `2024` `swift` `swiftui` 
   -  ☆`95` 
-- [Legend-Wings](https://github.com/woguan/Legend-Wings): EverWing game clone (survive as much you can, earn gold, and upgrade/purchase new characters)
-  -  <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-1.gif?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-2.gif?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-3.gif?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-4.gif?raw=true'>`Screenshot 4`</a> 
-  -  `2017` `swift` `spritekit` 
-  -  ☆`527` 
 - [MakeItSo](https://github.com/peterfriese/MakeItSo): A clone of Apple's Reminders
   -  <a href='https://user-images.githubusercontent.com/4723115/149539522-01ae6d20-e365-40bc-aaf0-c1f357321878.gif'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `firebase` 
@@ -1669,10 +1665,6 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/dd65decc-d1d5-4f3f-966b-9d935c130c82'>`Screenshot 1`</a> 
   -  `2017` `objc` 
   -  ☆`180` 
-- [Legend-Wings](https://github.com/woguan/Legend-Wings): EverWing game clone (survive as much you can, earn gold, and upgrade/purchase new characters)
-  -  <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-1.gif?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-2.gif?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-3.gif?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/woguan/Legend-Wings/blob/master/Angelica%20Fighti/Gif/v3_5_1-4.gif?raw=true'>`Screenshot 4`</a> 
-  -  `2017` `swift` `spritekit` 
-  -  ☆`527` 
 - [littlego](https://github.com/herzbube/littlego): Game of Go
   - [` App Store`](https://apps.apple.com/app/little-go/id490753989) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/af/a9/34/afa934c6-45c5-c194-d179-f34520fe8b1c/mzl.jfnjvioh.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2024` `iphone` `ipad` 
