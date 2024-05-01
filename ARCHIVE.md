@@ -234,6 +234,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro)
 - [LastFM](https://github.com/lastfm/lastfm-iphone)
 - [Layer-Parse](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example)
+- [Legend-Wings](https://github.com/woguan/Legend-Wings)
 - [Letters](https://github.com/jessegrosjean/letters.iphone)
 - [Light-Jockey](https://github.com/jmfieldman/Light-Jockey)
 - [Link Keyboard : My Links Everywhere](https://github.com/ayushgoel/LinkKeyboard)
