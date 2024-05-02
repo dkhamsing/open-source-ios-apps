@@ -31448,6 +31448,24 @@
        "license": "mit",
        "date_added": "Apr 5 2024",
        "suggested_by": "@angiemugo"
-     }
+     },
+     {
+      "title": "Physics",
+      "description": "Simulating physics with collisions",
+      "category-ids": [
+        "apple-vision"
+      ],
+      "tags": [
+        "vision",
+        "visionos"
+      ],
+      "screenshots": [
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/13448df3-073b-410e-b3a8-af9ea537018c"
+      ],
+      "source": "https://developer.apple.com/documentation/realitykit/simulating-physics-with-collisions-in-your-visionos-app",
+      "license": "other",
+      "date_added": "May 1 2024",
+      "suggested_by": "@dkhamsing"      
+    }    
   ]
 }
