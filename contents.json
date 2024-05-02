@@ -31466,6 +31466,24 @@
       "license": "other",
       "date_added": "May 1 2024",
       "suggested_by": "@dkhamsing"      
-    }    
+    },
+    {
+      "title": "Particles",
+      "description": "Simulating particles",
+      "category-ids": [
+        "apple-vision"
+      ],
+      "tags": [
+        "vision",
+        "visionos"
+      ],
+      "screenshots": [
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9e5f5460-14c6-4af3-9166-61831187737c"
+      ],
+      "source": "https://developer.apple.com/documentation/realitykit/simulating-particles-in-your-visionos-app",
+      "license": "other",
+      "date_added": "May 2 2024",
+      "suggested_by": "@dkhamsing"      
+    }        
   ]
 }
