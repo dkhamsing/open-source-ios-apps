@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1530-green.svg) ![](https://img.shields.io/badge/Updated-May%20%202,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1531-green.svg) ![](https://img.shields.io/badge/Updated-May%20%203,%202024-lightgrey.svg)
 
 Jump to
 
@@ -160,6 +160,9 @@ Jump to
   -  <a href='https://repository-images.githubusercontent.com/657306985/e1517173-f5ce-4702-8bc4-2bf0644b0297'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `vision` `visionos` 
   -  ☆`97` 
+- [Particles](https://developer.apple.com/documentation/realitykit/simulating-particles-in-your-visionos-app): Simulating particles
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9e5f5460-14c6-4af3-9166-61831187737c'>`Screenshot 1`</a> 
+  - `vision` `visionos` 
 - [Physics](https://developer.apple.com/documentation/realitykit/simulating-physics-with-collisions-in-your-visionos-app): Simulating physics with collisions
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/13448df3-073b-410e-b3a8-af9ea537018c'>`Screenshot 1`</a> 
   - `vision` `visionos` 
