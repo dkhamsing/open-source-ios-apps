@@ -173,6 +173,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [fudge](https://github.com/FredericJacobs/fudge)
 - [Furni](https://github.com/opensourceios/furni-ios)
 - [FuseCloud](https://github.com/fusetools/FuseCloud)
+- [GameJam](https://github.com/TheSwiftAlps/GameJam)
 - [gbible](https://github.com/photokandyStudios/gbible)
 - [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS)
 - [Ghostery Dawn Privacy Browser](https://github.com/ghostery/user-agent-ios)
