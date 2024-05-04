@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1531-green.svg) ![](https://img.shields.io/badge/Updated-May%20%203,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1531-green.svg) ![](https://img.shields.io/badge/Updated-May%20%204,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1802,10 +1802,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb1.png'>`Screenshot 1`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb2.png'>`Screenshot 2`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb3.png'>`Screenshot 3`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb4.png'>`Screenshot 4`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb5.png'>`Screenshot 5`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb6.png'>`Screenshot 6`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb7.png'>`Screenshot 7`</a>  <a href='https://github.com/ulritter/FrozenPengu/blob/main/fb8.png'>`Screenshot 8`</a> 
   -  `2023` `swift` 
   -  ☆`3` 
-- [GameJam](https://github.com/TheSwiftAlps/GameJam): Contains all the games that were made at the Game Jam
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d673c21f-e1ae-4072-809b-b71e2213c74c'>`Screenshot 1`</a> 
-  -  `2017` `swift` `spritekit` 
-  -  ☆`95` 
 - [Oh My Plane](https://github.com/softdevstory/OhMyPlane): A game like flappy bird
   -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'>`Screenshot 2`</a> 
   -  `2018` `swift` `spritekit` `gameplaykit` 
