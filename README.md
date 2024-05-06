@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1531-green.svg) ![](https://img.shields.io/badge/Updated-May%20%204,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%20%206,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3028,6 +3028,9 @@ https://newsapi.org/ — [back to top](#readme)
   - `objc` 
 - [Apple WWDC 2021](https://developer.apple.com/sample-code/wwdc/2021/): Sample code referenced in WWDC21 session videos
   - `swift` `swiftui` 
+- [Apple-Music-UI-Demo](https://github.com/sebjvidal/Apple-Music-UI-Demo): Apple Music / Podcasts UI with custom view controller transition
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3f8e4a90-447e-4929-9d25-c8bfabe907b0'>`Screenshot 1`</a> 
+  - `swift` 
 - [ARKit Example](https://github.com/gao0122/ARKit-Example-by-Apple): Placing objects
   -  `2022` `swift` `arkit` 
   -  ☆`285` 
