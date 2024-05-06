@@ -31484,6 +31484,23 @@
       "license": "other",
       "date_added": "May 2 2024",
       "suggested_by": "@dkhamsing"      
-    }        
+    }, 
+    {
+      "title": "Apple-Music-UI-Demo",
+      "description": "Apple Music / Podcasts UI with custom view controller transition",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3f8e4a90-447e-4929-9d25-c8bfabe907b0"
+      ],
+      "source": "https://github.com/sebjvidal/Apple-Music-UI-Demo",
+      "license": "other",
+      "date_added": "May 6 2024",
+      "suggested_by": "@dkhamsing"      
+    }            
   ]
 }
