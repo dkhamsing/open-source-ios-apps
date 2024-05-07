@@ -126,6 +126,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Delta: Math helper](https://github.com/opensourceios/Delta-iOS)
 - [Den](https://github.com/asamiller/den)
 - [DesireKeyboard](https://github.com/noppefoxwolf/DesireKeyboard)
+- [DevSwitch](https://github.com/opensourceios/DevSwitch)
 - [Dicershaker](https://github.com/millenomi/diceshaker)
 - [Dictum](https://github.com/matthewpalmer/Dictum)
 - [DinnerRoll](https://github.com/DinnerRollApp/iOS)
