@@ -85,6 +85,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [CCC](https://github.com/Oztechan/iosCCC)
 - [Celluloid Photo Editing extension](https://github.com/100mango/Celluloid)
 - [ChainReactApp](https://github.com/infinitered/ChainReactApp2017)
+- [Charter](https://github.com/matthewpalmer/Charter)
 - [Chaty](https://github.com/LunarFlash/Chaty)
 - [Cheddar](https://github.com/nothingmagical/cheddar-ios)
 - [Cherry](https://github.com/kenshin03/Cherry)
