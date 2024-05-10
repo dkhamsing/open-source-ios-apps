@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%20%209,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2010,%202024-lightgrey.svg)
 
 Jump to
 
@@ -826,10 +826,6 @@ Jump to
   -  <a href='https://pisth.github.io/apt/screenshots.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `javascript` `html` 
   -  ☆`404` 
-- [Review Time](https://github.com/nthegedus/ReviewTime): Shows average App Store review times
-  -  <a href='https://github.com/nthegedus/ReviewTime/raw/master/Design/ReviewTime.png'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`147` 
 - [ReviewMonitor](https://github.com/RishabhTayal/Unofficial-iTC): iTunes Connect app which is actually useful
   -  <a href='https://github.com/RishabhTayal/Unofficial-iTC/blob/master/public-screenshots/screenshot1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/RishabhTayal/Unofficial-iTC/blob/master/public-screenshots/screenshot2.png?raw=true'>`Screenshot 2`</a> 
   -  `2020` `swift` 
