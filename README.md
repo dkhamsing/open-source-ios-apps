@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2010,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2011,%202024-lightgrey.svg)
 
 Jump to
 
@@ -869,11 +869,6 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/anonrig/zeplin-ios/master/docs/ZeplinClient_GitHub.png'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`44` 
-- [花灰](https://github.com/lexrus/Huahui): How to prounounce programming terms in English
-  - <a href=https://twitter.com/lexrus/status/836928202912063491>`https://twitter.com/lexrus/status/836928202912063491`</a>
-  -  <a href='https://media.giphy.com/media/3oKIPvvaugnP88DdOE/source.gif'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`152` 
 ### GitHub 
  
 [back to top](#readme) 
