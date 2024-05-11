@@ -513,6 +513,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Yorkie](https://github.com/opensourceios/YorkieApp)
 - [ZeroStore](https://github.com/kylebshr/zerostore-ios)
 - [ZXing](https://github.com/zxing/zxing)
+- [花灰](https://github.com/lexrus/Huahui)
 
 ## Thanks
 
