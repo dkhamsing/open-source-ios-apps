@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2011,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2012,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1161,10 +1161,6 @@ Jump to
 - [iOSDCRC](https://github.com/fromkk/iOSDCRC): iOSDC Reject Conference
   -  `2018` `swift` `twitter` 
   -  ☆`16` 
-- [MeetupOrganizer](https://github.com/ayunav/MeetupOrganizer): Extends the Meetup app's functionality
-  -  <a href='https://github.com/ayunav/MeetupOrganizer/blob/master/MeetupOrganizerAppDemo.gif'>`Screenshot 1`</a> 
-  -  `2017` `swift` `alamofire` `oauthswift` 
-  -  ☆`29` 
 - [Open Event Organizer](https://github.com/fossasia/open-event-organizer-ios): Event management app for organizers using Open Event Platform
   -  `2023` `swift` `alamofire` `swiftlint` `objectmapper` 
   -  ☆`1496` 
