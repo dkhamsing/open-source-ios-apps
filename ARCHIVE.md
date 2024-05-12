@@ -264,6 +264,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
 - [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
 - [MeetPoint](https://github.com/MeetPoint-App/meetpoint-ios)
+- [MeetupOrganizer](https://github.com/ayunav/MeetupOrganizer)
 - [Megabite](https://github.com/AaronRandall/Megabite)
 - [Mergel](https://github.com/snazzware/Mergel)
 - [MeWeather](https://github.com/opensourceios/MeWeather)
