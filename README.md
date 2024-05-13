@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2012,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2013,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1572,7 +1572,7 @@ File Management — [back to top](#readme)
   -  `2019` `swift` 
   -  ☆`571` 
 - [Chess](https://github.com/nicklockwood/Chess)
-  -  <a href='https://github.com/nicklockwood/Chess/raw/master/Screenshot.png?raw=true'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/nicklockwood/Chess/raw/main/Screenshot.png?raw=true'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`172` 
 - [Concentration game (翻翻看)](https://github.com/geek5nan/FanFanSwift)
