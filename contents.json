@@ -11673,7 +11673,7 @@
       "license": "mit",
       "tags": [
         "swift",
-        "swift3.1"
+        "swift3.1", "archive"
       ],
       "date_added": "Tue Jul 12 18:20:38 2016 +0200",
       "suggested_by": "@Mateusz Szklarek",
