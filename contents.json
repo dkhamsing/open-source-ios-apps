@@ -14262,7 +14262,7 @@
       "updated": "2022-07-21 22:04:31 UTC"
     },
     {
-      "title": "WWDC Family iOS",
+      "title": "WWDC Family",
       "source": "https://github.com/Foreverland/ios",
       "screenshots": [
         "https://raw.githubusercontent.com/wwdc-family/design/master/Images/1.png"
@@ -14272,7 +14272,7 @@
       ],
       "description": "Easily connect with fellow developers during WWDC",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "other",
       "date_added": "Feb 21 2017",
