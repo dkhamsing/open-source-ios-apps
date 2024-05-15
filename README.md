@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2014,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2015,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1591,10 +1591,6 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/doom-ii-rpg/id354051766) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/44/e6/90/mzl.phnmwflb.png/626x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple/10/9a/3d/mzl.npolzzhp.png/626x0w.png'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/d5/81/f5/mzl.upixgdwf.png/626x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple/95/05/2f/mzl.bntcgfqi.png/626x0w.png'>`Screenshot 4`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple/c3/f9/35/mzl.ucjimflu.png/626x0w.png'>`Screenshot 5`</a> 
   -  `2016` `objc` 
   -  ☆`319` 
-- [DropColour](https://github.com/elpassion/DropColour-iOS): Drag & drop one circle onto another of the same color
-  -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/07/e4/58/07e4582c-8d94-330e-011a-81f2919c9a0a/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/1e/2f/39/1e2f3975-b854-bd43-b00f-b32a9384d2ae/mzl.cctldxos.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple18/v4/af/e6/a5/afe6a5cd-df5c-5ff2-a181-3e497e7b24ee/mzl.mczqcdkn.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple18/v4/a0/57/79/a0577976-a6d6-42b5-1153-4ccdba93a5e4/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/24/9e/c3/249ec345-2044-b21c-bd09-f7469986aea8/mzl.qlsmijad.png/460x0w.jpg'>`Screenshot 5`</a> 
-  -  `2017` `swift` `swift3.1` 
-  -  ☆`178` 
 - [FityIt](https://github.com/txaiwieser/FityIt): Challenging shapes game of skill and reflexes
   -  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-1-GameScreen.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-2-GameScreen.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-3-GameScreen.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-4-GameScreen.png'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/txaiwieser/fityit/master/fastlane/screenshots/en-US/iPhone%20X-5-GameScreen.png'>`Screenshot 5`</a> 
   -  `2021` `swift` `spritekit` `game` `animation` 
