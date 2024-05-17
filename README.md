@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2016,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2017,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1404,10 +1404,6 @@ File Management — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [Argent](https://github.com/argent-os/argent-ios): For payments
-  -  <a href='https://raw.githubusercontent.com/argent-os/argent-ios/master/demo.png'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`49` 
 - [Dime](https://github.com/rarfell/dimeApp): Beautiful expense tracker built with iOS design guidelines in mind
   - [` App Store`](https://apps.apple.com/app/dime-budget-expense-tracker/id1635280255) <a href='https://github.com/rarfell/dimeApp/blob/main/ReadmeAssets/hero.png?raw=true'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
