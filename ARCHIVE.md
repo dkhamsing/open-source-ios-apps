@@ -214,6 +214,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Hodor](https://github.com/jonomuller/Hodor-Keyboard)
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo)
 - [HopperBus](https://github.com/TosinAF/HopperBus-iOS)
+- [Hostile Takeover](https://github.com/spiffcode/hostile-takeover)
 - [hoxChess](https://github.com/huygithub/hoxChess)
 - [IBCalculator](https://github.com/JakeLin/IBCalculator)
 - [iBeaconTasks](https://github.com/TomekB/iBeaconTasks)
