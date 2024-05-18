@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2017,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2018,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1631,10 +1631,6 @@ File Management — [back to top](#readme)
   -  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple82/v4/b3/d9/e0/b3d9e090-f360-766a-7750-1f8d0a96efae/mzl.piurazqx.png/626x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/11/aa/33/11aa3355-a041-b0de-b61f-aef5cbe37eb7/mzl.rpmbaxie.png/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/e2/fa/b1/e2fab17a-edff-168d-3af1-02fe2ed55b02/mzl.docwqcoz.png/626x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/fb/f8/f8/fbf8f894-bbaa-4d5c-23ed-0281dbca5092/mzl.bdvdlyfg.png/626x0w.jpg'>`Screenshot 4`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/7f/0b/5b/7f0b5bdc-0339-bffd-3f4e-7cb8ea2b8823/mzl.pdsxyfac.png/626x0w.jpg'>`Screenshot 5`</a> 
   -  `2017` `javascript` `netbeans` 
   -  ☆`88` 
-- [Hostile Takeover](https://github.com/spiffcode/hostile-takeover): A release of the real-time strategy game Warfare Incorporated
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/dd65decc-d1d5-4f3f-966b-9d935c130c82'>`Screenshot 1`</a> 
-  -  `2017` `objc` 
-  -  ☆`180` 
 - [littlego](https://github.com/herzbube/littlego): Game of Go
   - [` App Store`](https://apps.apple.com/app/little-go/id490753989) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/af/a9/34/afa934c6-45c5-c194-d179-f34520fe8b1c/mzl.jfnjvioh.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2024` `iphone` `ipad` 
