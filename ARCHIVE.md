@@ -194,6 +194,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard)
 - [graygram](https://github.com/devxoul/graygram-ios)
 - [GreatReader](https://github.com/semweb/GreatReader)
+- [Green Mahjong](https://github.com/danbeck/green-mahjong)
 - [GrinnellEvents](https://github.com/kvnbautista/Grinnell-Events-iOS)
 - [GroceryList](https://github.com/jspahrsummers/GroceryList)
 - [Grove](https://github.com/kylebshr/grove-ios)
