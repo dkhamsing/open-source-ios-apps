@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2019,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1532-green.svg) ![](https://img.shields.io/badge/Updated-May%2020,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2070,10 +2070,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/arc-app-location-activity/id1063151918) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/add2f568-16b9-442f-859a-d19e45c248bc'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`84` 
-- [Bike Compass](https://github.com/raulriera/Bike-Compass): City bicycle finder
-  -  <a href='https://github.com/raulriera/Bike-Compass/raw/master/Screenshots/iOS.jpg'>`Screenshot 1`</a> 
-  -  `2017` `swift` `carthage` `alamofire` `swift3` 
-  -  ☆`82` 
 - [Cepp](https://github.com/filipealva/Cepp): Find information on addresses
   -  <a href='https://raw.githubusercontent.com/filipealva/Cepp/res/searchi5.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/filipealva/Cepp/res/detailsi5.png'>`Screenshot 2`</a> 
   -  `2022` `swift` `afnetworking` 
