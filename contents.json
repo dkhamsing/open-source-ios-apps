@@ -10852,7 +10852,7 @@
         "location"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Map to locate wheelchair-accessible places",
       "source": "https://github.com/sozialhelden/wheelmap-iphone2",
