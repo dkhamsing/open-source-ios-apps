@@ -9633,7 +9633,7 @@
     },
     {
       "title": "MuVis",
-      "category-ids": ["github", "media", "music"],
+      "category-ids": ["music"],
       "description": "Music Visualization",
       "source": "https://github.com/Keith-43/MuVis",
       "homepage": "https://apps.apple.com/us/app/muvis-music-visualizer/id1582324352",
