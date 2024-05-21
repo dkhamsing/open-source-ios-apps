@@ -9638,7 +9638,6 @@
       "source": "https://github.com/Keith-43/MuVis",
       "itunes": "https://apps.apple.com/app/muvis-music-visualizer/id1582324352",		
       "license": "mit",
-      "lang": "swift",     
       "stars": 13,     
       "tags": ["swift", "swiftui", "metal", "audio", "music"],
       "screenshots": ["https://www.youtube.com/watch?v=M19ysBQ219U", "https://www.youtube.com/watch?v=sshO3nEeTEQ"],
