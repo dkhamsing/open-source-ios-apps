@@ -433,6 +433,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [SudokuResolv](https://github.com/Haoest/SudokuResolv)
 - [Superday](https://github.com/opensourceios/superday)
 - [surespot](https://github.com/opensourceios/surespot-ios)
+- [Swab](https://github.com/pkamb/swab)
 - [Swiflytics](https://github.com/aciidb0mb3r/Swiflytics)
 - [Swift Off](https://github.com/opensourceios/swift-off-todo)
 - [Swift-Gif](https://github.com/pjchavarria/Swift-Gif)
