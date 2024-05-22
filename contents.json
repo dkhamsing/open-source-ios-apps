@@ -9632,6 +9632,19 @@
       "updated": "2022-12-16 20:44:25 UTC"
     },
     {
+      "title": "MuVis",
+      "category-ids": ["music"],
+      "description": "Music Visualization",
+      "source": "https://github.com/Keith-43/MuVis",
+      "itunes": "https://apps.apple.com/app/muvis-music-visualizer/id1582324352",		
+      "license": "mit",
+      "stars": 13,     
+      "tags": ["swift", "swiftui", "metal", "audio", "music"],
+      "screenshots": ["https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0cb6a163-5169-4427-b831-ae07ae5641d7"],
+      "date_added": "May 21 2024",
+      "suggested_by": "@Treata11"
+    },
+    {
       "title": "Chaty",
       "category-ids": [
         "firebase",
