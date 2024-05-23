@@ -146,6 +146,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [DVD Collection Tracker](https://github.com/chrismiles/OrganisingCoreData)
 - [DWA Mobile](https://github.com/DesktopWebAnalytics/DWA_Mobile)
 - [EatNow](https://github.com/callzhang/Eat-Now)
+- [EconoApp](https://github.com/viniciusvieir/EconoApp)
 - [eCortex](https://github.com/whymani005/cortex)
 - [Eleven](https://github.com/opensourceios/Eleven)
 - [Ello](https://github.com/opensourceios/ello-ios)
