@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1533-green.svg) ![](https://img.shields.io/badge/Updated-May%2022,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1533-green.svg) ![](https://img.shields.io/badge/Updated-May%2023,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1407,10 +1407,6 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png?raw=true'>`Screenshot 3`</a> 
   -  `2020` `swiftui` `dividend` `income tracker` 
   -  ☆`97` 
-- [EconoApp](https://github.com/viniciusvieir/EconoApp): Keep track of economic information
-  -  <a href='https://raw.githubusercontent.com/viniciusvieir/EconoApp/1da96afc7317c1096a6c9a45c7a06f9d72f431fb/Screenshot%20EN%201.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/viniciusvieir/EconoApp/3520001bbbc88e6e2f15d6fc0ca7e6bcb0819364/Screenshot%20EN%202.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/viniciusvieir/EconoApp/2afa3886d92de25f87a272f18fd5725f875ed108/Screenshot%20EN%203.jpg'>`Screenshot 3`</a> 
-  -  `2017` `swift` 
-  -  ☆`8` 
 - [Encryptr](https://github.com/SpiderOak/Encryptr): A zero-knowledge, cloud-based e-wallet & password manager
   -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/9c/1c/74/9c1c7418-0b94-8c1b-8da8-fa869914e591/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/73/2a/60/732a6002-e689-f012-96be-a1501c226821/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/dd/85/df/dd85df8d-d795-b847-6cad-2bde2b1df6d9/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/c7/b2/59/c7b2590b-cc11-0aea-c5dc-4263313fb97f/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/41/a3/dc/41a3dc56-02fe-83f8-6fe0-8813691868c3/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2017` `cordova` `grunt` `node` 
