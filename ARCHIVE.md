@@ -121,6 +121,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [CookieCrunch](https://github.com/renatomcamilio/CookieCrunch)
 - [CoolSpot](https://github.com/neonichu/CoolSpot)
 - [Counter](https://github.com/mutualmobile/Counter)
+- [CrimeMapper](https://github.com/swwol/CrimeMapper)
 - [Cryptose](https://github.com/insurgentgames/Cryptose)
 - [Crystal Clipboard](https://github.com/jzzocc/crystal-clipboard-ios)
 - [Currency Converter](https://github.com/ashwinpreet/ReactNativeExamples)
