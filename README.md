@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1533-green.svg) ![](https://img.shields.io/badge/Updated-May%2023,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1533-green.svg) ![](https://img.shields.io/badge/Updated-May%2024,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2065,10 +2065,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/filipealva/Cepp/res/searchi5.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/filipealva/Cepp/res/detailsi5.png'>`Screenshot 2`</a> 
   -  `2022` `swift` `afnetworking` 
   -  ☆`16` 
-- [CrimeMapper](https://github.com/swwol/CrimeMapper): Look at crime data in the UK
-  - <a href=https://samwoolf.net>`https://samwoolf.net`</a>
-  -  `2017` `swift` 
-  -  ☆`14` 
 - [Emission](https://github.com/e-mission/e-mission-phone): Track your travel modes and your travel carbon footprint, and compare them against other users
   - <a href=https://e-mission.eecs.berkeley.edu/#/home>`https://e-mission.eecs.berkeley.edu/#/home`</a>
   - [` App Store`](https://apps.apple.com/app/emission/id1084198445) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3518c87d-e95d-43d3-b4ff-29aafc615c84'>`Screenshot 1`</a> 
