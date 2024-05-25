@@ -507,6 +507,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [WeatherMap](https://github.com/TakefiveInteractive/WeatherMap)
 - [Whatsapp clone](https://github.com/opensourceios/whatsapp)
 - [WhatsUp Chat](https://github.com/satishbabariya/WhatsUp)
+- [Wheelmap](https://github.com/sozialhelden/wheelmap-iphone2)
 - [WhiteHouse](https://github.com/WhiteHouse/wh-app-ios)
 - [wikiHow](https://github.com/tderouin/wikiHow-iPhone-Application)
 - [wildcats](https://github.com/pietbrauer/wildcats)
