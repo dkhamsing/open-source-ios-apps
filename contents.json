@@ -10938,7 +10938,7 @@
       "description": "Create & share memes",
       "source": "https://github.com/MemeMaker/Meme-Maker-iOS",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "other",
       "stars": 63,
