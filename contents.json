@@ -29935,9 +29935,9 @@
         "finance"
       ],
       "itunes": "https://apps.apple.com/app/motivator-money-counter/id6444535220",
-      "source": "https://github.com/danispringer/timeismoney",
+      "source": "https://github.com/opensourceios/timeismoney",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "other",
       "date_added": "Dec 27 2022",
