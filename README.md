@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1533-green.svg) ![](https://img.shields.io/badge/Updated-May%2027,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1533-green.svg) ![](https://img.shields.io/badge/Updated-May%2029,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2440,10 +2440,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/3.png'>`Screenshot 3`</a> 
   -  `2017` `swift` 
   -  ☆`193` 
-- [Popular Movies](https://github.com/ivan-magda/Popular-Movies): Cross-platform app for discovering recent & popular movies
-  -  <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movie-detail.png'>`Screenshot 1`</a>  <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movies-list.png'>`Screenshot 2`</a> 
-  -  `2017` `swift` `realm` `alamofire` `tmdb` 
-  -  ☆`15` 
 - [Projector](https://github.com/fatih-gursoy/Projector): Get information about movies using The Movie Database (TMDb)
   -  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png'>`Screenshot 1`</a>  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png'>`Screenshot 2`</a>  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/SearchScreenSS.png'>`Screenshot 3`</a> 
   -  `2022` `swift` `core-data` `alamofire` `tmdb` 
@@ -4535,10 +4531,6 @@ https://realm.io/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/2.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/1.png'>`Screenshot 2`</a> 
   -  `2017` `swift` `alamofire` `swiftyjson` 
   -  ☆`12` 
-- [Popular Movies](https://github.com/ivan-magda/Popular-Movies): Cross-platform app for discovering recent & popular movies
-  -  <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movie-detail.png'>`Screenshot 1`</a>  <a href='https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movies-list.png'>`Screenshot 2`</a> 
-  -  `2017` `swift` `realm` `alamofire` `tmdb` 
-  -  ☆`15` 
 - [RaceMe](https://github.com/enochng1/RaceMe): Run tracking & ghosting
   -  <a href='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `parse` 
