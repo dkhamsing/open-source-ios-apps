@@ -13926,7 +13926,7 @@
         "swift",
         "realm",
         "alamofire",
-        "tmdb"
+        "tmdb", "archive"
       ],
       "screenshots": [
         "https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movie-detail.png",
