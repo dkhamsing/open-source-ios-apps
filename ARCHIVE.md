@@ -349,6 +349,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [pokevision](https://github.com/alexkirsz/rn-pokevision)
 - [Poly API - Samples](https://github.com/googlevr/poly-sample-ios)
 - [Poppins](https://github.com/thoughtbot/poppins)
+- [Popular Movies](https://github.com/ivan-magda/Popular-Movies)
 - [Post Manager](https://github.com/tombaranowicz/PostManager)
 - [Potatso](https://github.com/opensourceios/Potatso)
 - [PowerUp](https://github.com/anitab-org/powerup-iOS)
