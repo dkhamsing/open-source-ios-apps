@@ -29952,9 +29952,9 @@
         "color"
       ],
       "itunes": "https://apps.apple.com/app/pickerfull/id1410565176",
-      "source": "https://github.com/danispringer/pickerfull",
+      "source": "https://github.com/opensourceios/pickerfull",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "other",
       "date_added": "Dec 28 2022",
