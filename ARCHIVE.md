@@ -337,6 +337,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [PhoneBattery](https://github.com/opensourceios/PhoneBattery)
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser)
 - [Pi](https://github.com/opensourceios/Pi)
+- [PickerFull](https://github.com/opensourceios/pickerfull)
 - [Pickery](https://github.com/Performador/Pickery)
 - [Picsum](https://github.com/opensourceios/Picsum)
 - [PlainNote](https://github.com/vkoser/PlainNote)
