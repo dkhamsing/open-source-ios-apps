@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1533-green.svg) ![](https://img.shields.io/badge/Updated-May%2029,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1533-green.svg) ![](https://img.shields.io/badge/Updated-May%2030,%202024-lightgrey.svg)
 
 Jump to
 
@@ -460,10 +460,6 @@ Jump to
   -  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot3.png?raw=true'>`Screenshot 3`</a> 
   -  `2020` `swift` `palette` `color` `earthview` 
   -  ☆`24` 
-- [PickerFull](https://github.com/danispringer/pickerfull): Extract a color from any photo
-  - [` App Store`](https://apps.apple.com/app/pickerfull/id1410565176)
-  -  `2024` `swift` 
-  -  ☆`7` 
 ## Clock 
  
 [back to top](#readme) 
