@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **338** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **337** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -233,10 +233,6 @@ Jump to
 [back to top](#readme) 
  
 
-- [PickerFull](https://github.com/danispringer/pickerfull): Extract a color from any photo
-  - [` App Store`](https://apps.apple.com/app/pickerfull/id1410565176)
-  -  `2024` `swift` 
-  -  ☆`7` 
 ## Clock 
  
 [back to top](#readme) 
