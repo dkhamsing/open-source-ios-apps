@@ -29969,9 +29969,9 @@
         "misc"
       ],
       "itunes": "https://apps.apple.com/app/mathee/id1406084758",
-      "source": "https://github.com/danispringer/mathee",
+      "source": "https://github.com/opensourceios/mathee",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "other",
       "date_added": "Dec 29 2022",
