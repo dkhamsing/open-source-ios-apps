@@ -267,6 +267,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Mast](https://github.com/ShihabMe/Mast2)
 - [Master](https://github.com/Kjuly/iPokeMon)
 - [Math Quest](https://github.com/AdnanZahid/Math-Quest-iOS)
+- [Mathee](https://github.com/opensourceios/mathee)
 - [Means](https://github.com/opensourceios/Means)
 - [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
 - [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
