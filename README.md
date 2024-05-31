@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1533-green.svg) ![](https://img.shields.io/badge/Updated-May%2030,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1533-green.svg) ![](https://img.shields.io/badge/Updated-May%2031,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3791,10 +3791,6 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/madbike/id1067596651) <a href='https://user-images.githubusercontent.com/4723115/171218451-82b563c5-c2b3-4f41-bf77-fc432245499e.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/10/6d/cc/106dcc94-1daf-c1f8-12ce-0cb234657f7e/pr_source.png/0x0ss.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/85/a5/a7/85a5a7c0-ebc9-27d4-5f81-6d7c6f7b4c02/pr_source.png/0x0ss.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/b6/91/dd/b691dda9-6f80-4942-3182-0c848ac0477a/pr_source.jpg/0x0ss.jpg'>`Screenshot 4`</a> 
   -  `2019` `clone` `core-data` `firebase` `fitness` `location` `news` `weather` 
   -  ☆`24` 
-- [Mathee](https://github.com/danispringer/mathee): Math games collection
-  - [` App Store`](https://apps.apple.com/app/mathee/id1406084758)
-  -  `2024` `swift` 
-  -  ☆`1` 
 - [Mirror++](https://github.com/nathanmsmith/MirrorPlusPlus): Minimalist mirror
   -  `2018` `swift` 
   -  ☆`12` 
