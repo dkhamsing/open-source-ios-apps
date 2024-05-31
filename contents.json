@@ -29985,9 +29985,9 @@
         "misc"
       ],
       "itunes": "https://apps.apple.com/app/prefacto/id1402417667",
-      "source": "https://github.com/danispringer/prefacto",
+      "source": "https://github.com/opensourceios/prefacto",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "other",
       "date_added": "Dec 30 2022",
