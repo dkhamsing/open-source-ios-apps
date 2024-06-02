@@ -12,7 +12,7 @@
 8. [Openreads](https://github.com/mateusz-bak/openreads)
 9. [Logseq](https://github.com/logseq/logseq)
 10. [SpatialDock](https://github.com/kjwamlex/SpatialDock)
-11. [MultiBuddy](https://github.com/danispringer/multi)
+11. [MultiBuddy](https://github.com/opensourceios/multi)
 12. [VisionCraft](https://github.com/Sigil-Wen/VisionCraft)
 13. [Beatmap AR](https://github.com/fabio914/BeatmapVisionPro)
 14. [StonksPro](https://github.com/6/StonksPro)
