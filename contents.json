@@ -31547,6 +31547,24 @@
       "suggested_by": "@dkhamsing",
       "stars": 185,
       "updated": "2024-05-04 14:30:47 UTC"
-    }
+    },
+    {
+      "title": "BiliBili Demo",
+      "category-ids": [
+        "apple-tv"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "lang": "zho",
+      "screenshots": [
+        "https://github.com/yichengchen/ATV-Bilibili-demo/raw/main/imgs/1.jpg"
+      ],
+      "source": "https://github.com/yichengchen/ATV-Bilibili-demo",
+      "license": "other",
+      "date_added": "Jun 3 2024",
+      "suggested_by": "@dkhamsing",
+      "stars": 1900      
+    }    
   ]
 }
