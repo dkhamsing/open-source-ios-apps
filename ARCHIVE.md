@@ -357,6 +357,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Potatso](https://github.com/opensourceios/Potatso)
 - [PowerUp](https://github.com/anitab-org/powerup-iOS)
 - [prankPro](https://github.com/huijimuhe/prankPro)
+- [Prefacto for prime numbers](https://github.com/opensourceios/prefacto)
 - [Prey](https://github.com/prey/prey-swift-client)
 - [Product Catalogue](https://github.com/contentful/product-catalogue-swift)
 - [Product Kitty](https://github.com/rkho/product-kitty)
