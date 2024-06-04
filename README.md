@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1533-green.svg) ![](https://img.shields.io/badge/Updated-June%20%203,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%20%204,%202024-lightgrey.svg)
 
 Jump to
 
@@ -95,6 +95,10 @@ Jump to
 [back to top](#readme) 
  
 
+- [BiliBili Demo](https://github.com/yichengchen/ATV-Bilibili-demo)
+  -  <a href='https://github.com/yichengchen/ATV-Bilibili-demo/raw/main/imgs/1.jpg'>`Screenshot 1`</a> 
+  - `swift` 
+  -  ☆`1900` 
 - [hexclock](https://github.com/cfdrake/hexclock): Minimal hexadecimal clock
   -  <a href='https://a1.mzstatic.com/us/r30/Purple122/v4/7b/e9/dd/7be9dd53-fe6b-00f7-57e6-a19e27b103de/sc720x405.jpeg'>`Screenshot 1`</a> 
   -  `2017` `swift` 
