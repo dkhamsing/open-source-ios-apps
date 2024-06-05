@@ -2346,7 +2346,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`2946` 
 - [fastmdb](https://github.com/dkhamsing/fastmdb): Fast app to browse and search movies, tv, people, credits
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/90843ee2-a6ee-4f41-bc2b-20b3292957d6'>`Screenshot 1`</a> 
-  -  `2024` `swift` `tmdb` 
+  -  `2024` `swift` `themoviedb` 
   -  ☆`22` 
 - [Fecapp](https://github.com/betzerra/Fecapp): Displays specialty coffee shops in Buenos Aires (Argentina)
   - <a href=https://www.betzerra.com/project/fecapp>`https://www.betzerra.com/project/fecapp`</a>
@@ -2390,7 +2390,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`203` 
 - [movieapp](https://github.com/JuneDomingo/movieapp): Discover movies & tv shows
   -  <a href='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'>`Screenshot 1`</a> 
-  -  `2021` `react-native` `tmdb` 
+  -  `2021` `react-native` `themoviedb` 
   -  ☆`1811` 
 - [MovieDict](https://github.com/lurado/MovieDict): Offline dictionary for international movie titles
   - <a href=https://moviedict.info>`https://moviedict.info`</a>
@@ -2399,7 +2399,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`7` 
 - [movies](https://github.com/KMindeguia/movies)
   -  <a href='https://raw.githubusercontent.com/KMindeguia/movies/master/Gif%20Demo/demo.gif'>`Screenshot 1`</a> 
-  -  `2019` `afnetworking` `sdwebimage` `tmdb` 
+  -  `2019` `afnetworking` `sdwebimage` `themoviedb` 
   -  ☆`857` 
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI): Browse movies, made with SwiftUI, Combine & MovieDB
   -  <a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'>`Screenshot 1`</a> 
@@ -2435,7 +2435,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`193` 
 - [Projector](https://github.com/fatih-gursoy/Projector): Get information about movies using The Movie Database (TMDb)
   -  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png'>`Screenshot 1`</a>  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png'>`Screenshot 2`</a>  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/SearchScreenSS.png'>`Screenshot 3`</a> 
-  -  `2022` `swift` `core-data` `alamofire` `tmdb` 
+  -  `2022` `swift` `core-data` `alamofire` `themoviedb` 
   -  ☆`4` 
 - [Reading List](https://github.com/AndrewBennet/ReadingListV1): Track personal reading lists
   - [` App Store`](https://apps.apple.com/app/reading-list-a-book-tracking-log/id1217139955) <a href='https://raw.githubusercontent.com/AndrewBennet/ReadingListV1/master/media/iPhone%20X-0_ToReadList_framed.png'>`Screenshot 1`</a> 
@@ -2455,15 +2455,15 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`310` 
 - [TVToday](https://github.com/rcaos/TVToday)
   -  <a href='https://raw.githubusercontent.com/rcaos/TVToday/master/Screenshots/dark/01.png'>`Screenshot 1`</a> 
-  -  `2023` `swift` `rxswift` `realm` `mvvm` `tmdb` 
+  -  `2023` `swift` `rxswift` `realm` `mvvm` `themoviedb` 
   -  ☆`154` 
 - [Upcoming Movies](https://github.com/DeluxeAlonso/UpcomingMovies)
   -  <a href='https://github.com/DeluxeAlonso/UpcomingMovies/raw/development/Demo.gif'>`Screenshot 1`</a> 
-  -  `2024` `clean-architecture` `mvvm` `coordinator` `tmdb` 
+  -  `2024` `clean-architecture` `mvvm` `coordinator` `themoviedb` 
   -  ☆`517` 
 - [Upcoming TV](https://github.com/dkhamsing/upcomingtv): Track when your favorite tv show airs next
   -  <a href='https://github.com/dkhamsing/upcomingtv/raw/master/Images/0.png'>`Screenshot 1`</a> 
-  -  `2020` `swift` `tmdb` 
+  -  `2020` `swift` `themoviedb` 
   -  ☆`8` 
 - [WWDC Students](https://github.com/wwdc): WWDC scholarship entries
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/bb0d2903-eaec-4e84-a6f0-b0c94390bc3a'>`Screenshot 1`</a> 
@@ -4003,7 +4003,7 @@ https://flutter.dev — [back to top](#readme)
   -  `2018` `flutter` `dart` 
   -  ☆`540` 
 - [Cinematic movies](https://github.com/aaronoe/FlutterCinematic)
-  -  `2020` `flutter` `dart` `tmdb` 
+  -  `2020` `flutter` `dart` `themoviedb` 
   -  ☆`890` 
 - [CineReel](https://github.com/kserko/CineReel)
   -  <a href='https://github.com/kserko/CineReel/raw/master/cineReel.gif'>`Screenshot 1`</a> 
@@ -4047,7 +4047,7 @@ https://flutter.dev — [back to top](#readme)
   -  ☆`541` 
 - [Flutter-Movie Browser](https://github.com/khuong291/Flutter-Movie)
   -  <a href='https://github.com/khuong291/Flutter-Movie/raw/master/1.png'>`Screenshot 1`</a> 
-  -  `2020` `flutter` `dart` `tmdb` 
+  -  `2020` `flutter` `dart` `themoviedb` 
   -  ☆`16` 
 - [flutterflip](https://github.com/RedBrogdon/flutterflip): Single-player reversi game clone
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0c22e5da-e33b-4f54-adc3-da77bd96727e'>`Screenshot 1`</a> 
@@ -4408,7 +4408,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  ☆`288` 
 - [movieapp](https://github.com/JuneDomingo/movieapp): Discover movies & tv shows
   -  <a href='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'>`Screenshot 1`</a> 
-  -  `2021` `react-native` `tmdb` 
+  -  `2021` `react-native` `themoviedb` 
   -  ☆`1811` 
 - [NBA allyoop](https://github.com/wwayne/react-native-nba-app): NBA game scores
   -  <a href='https://cloud.githubusercontent.com/assets/5305874/12059257/dacf1ad0-af92-11e5-920c-ba4818d8dc1d.png'>`Screenshot 1`</a> 
@@ -4873,7 +4873,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  ☆`463` 
 - [MovieDB](https://github.com/brittanyarima/MovieDB): Movie search, see movie info and cast
   -  <a href='https://user-images.githubusercontent.com/76922883/205459025-f78eaf85-0d5e-4b42-9b89-4680906dd408.png'>`Screenshot 1`</a> 
-  -  `2023` `swift` `swiftui` `tmdb` 
+  -  `2023` `swift` `swiftui` `themoviedb` 
   -  ☆`3` 
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI): Browse movies, made with SwiftUI, Combine & MovieDB
   -  <a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'>`Screenshot 1`</a> 
