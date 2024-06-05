@@ -4414,7 +4414,7 @@
       "tags": [
         "afnetworking",
         "sdwebimage",
-        "tmdb"
+        "themoviedb"
       ],
       "source": "https://github.com/KMindeguia/movies",
       "stars": 857,
@@ -4793,7 +4793,7 @@
         "shimmer",
         "nslogger",
         "cocoalumberjack",
-        "tmdb",
+        "themoviedb",
         "archive"
       ],
       "description": "Find common movies among actors",
@@ -13652,7 +13652,7 @@
       ],
       "tags": [
         "react-native",
-        "tmdb"
+        "themoviedb"
       ],
       "screenshots": [
         "https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png"
@@ -13945,7 +13945,7 @@
         "swift",
         "realm",
         "alamofire",
-        "tmdb", "archive"
+        "themoviedb", "archive"
       ],
       "screenshots": [
         "https://github.com/ivan-magda/Popular-Movies/blob/master/res/iOS-movie-detail.png",
@@ -18789,7 +18789,7 @@
       "license": "mit",
       "tags": [
         "swift",
-        "tmdb",
+        "themoviedb",
         "archive"
       ],
       "screenshots": [
@@ -21552,7 +21552,7 @@
       ],
       "tags": [
         "swift",
-        "tmdb"
+        "themoviedb"
       ],
       "description": "Fast app to browse and search movies, tv, people, credits",
       "source": "https://github.com/dkhamsing/fastmdb",
@@ -22761,7 +22761,7 @@
       ],
       "tags": [
         "swift",
-        "tmdb"
+        "themoviedb"
       ],
       "date_added": "Jun 9 2020",
       "suggested_by": "@dkhamsing",
@@ -23559,7 +23559,7 @@
       "tags": [
         "flutter",
         "dart",
-        "tmdb"
+        "themoviedb"
       ],
       "license": "other",
       "date_added": "Jul 10 2020",
@@ -24132,7 +24132,7 @@
         "rxswift",
         "realm",
         "mvvm",
-        "tmdb"
+        "themoviedb"
       ],
       "source": "https://github.com/rcaos/TVToday",
       "license": "other",
@@ -25975,7 +25975,7 @@
       "tags": [
         "flutter",
         "dart",
-        "tmdb"
+        "themoviedb"
       ],
       "license": "mit",
       "date_added": "Feb 21 2021",
@@ -28081,7 +28081,7 @@
         "swift",
         "core-data",
         "alamofire",
-        "tmdb"
+        "themoviedb"
       ],
       "description": "Get information about movies using The Movie Database (TMDb)",
       "source": "https://github.com/fatih-gursoy/Projector",
@@ -28183,7 +28183,7 @@
         "clean-architecture",
         "mvvm",
         "coordinator",
-        "tmdb"
+        "themoviedb"
       ],
       "source": "https://github.com/DeluxeAlonso/UpcomingMovies",
       "stars": 517,
@@ -30793,7 +30793,7 @@
       "tags": [
         "swift",
         "swiftui",
-        "tmdb"
+        "themoviedb"
       ],
       "source": "https://github.com/brittanyarima/MovieDB",
       "screenshots": [
