@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%20%204,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%20%205,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1427,10 +1427,6 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `snapkit` 
   -  ☆`37` 
-- [Motivator](https://github.com/danispringer/timeismoney): Countdown for how much more you can make today
-  - [` App Store`](https://apps.apple.com/app/motivator-money-counter/id6444535220)
-  -  `2024` `swift` 
-  -  ☆`1` 
 - [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances
   - <a href=https://www.jaydenirwin.com/myassets/>`https://www.jaydenirwin.com/myassets/`</a>
   - [` App Store`](https://apps.apple.com/app/my-assets/id1592367070)
