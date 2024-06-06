@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%20%205,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%20%206,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2486,10 +2486,6 @@ Image, video, audio, reading — [back to top](#readme)
 Mostly using https://giphy.com/ — [back to top](#readme) 
  
 
-- [AlohaGIF](https://github.com/michaello/Aloha): Create GIFs easily with speech detection
-  - [` App Store`](https://apps.apple.com/app/aloha-gifs-with-dynamic-subtitles/id1231254189) <a href='https://is1.mzstatic.com/image/thumb/Purple82/v4/44/60/72/446072a3-cc4f-3fc8-ece5-14568643dc15/source/392x696bb.jpg'>`Screenshot 1`</a>  <a href='https://is4.mzstatic.com/image/thumb/Purple91/v4/90/58/e3/9058e3be-4676-5668-8301-2488df8322d3/source/392x696bb.jpg'>`Screenshot 2`</a> 
-  -  `2017` `swift` `avfoundation` `sfspeechrecognizer` 
-  -  ☆`62` 
 - [giphy-mvvm-swift](https://github.com/tirupati17/giphy-mvvm-swift): Uses the MVVM (Model–view–viewmodel) pattern
   -  <a href='https://github.com/tirupati17/giphy-mvvm-swift/blob/master/screenshots/giphy.png'>`Screenshot 1`</a> 
   -  `2019` `swift` `mvvm` 
