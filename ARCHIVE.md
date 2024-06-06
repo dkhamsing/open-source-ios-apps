@@ -24,6 +24,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [AlcatrazTour](https://github.com/haranicle/AlcatrazTour)
 - [Alien Blue](https://github.com/alienblue/AlienBlue)
 - [Alienblast](https://github.com/etamity/AlienBlast)
+- [AlohaGIF](https://github.com/michaello/Aloha)
 - [Alphabet-Blocks](https://github.com/insurgentgames/Alphabet-Blocks)
 - [AlzPrevent](https://github.com/BBBInc/AlzPrevent-ios)
 - [Amaroq](https://github.com/ReticentJohn/Amaroq)
