@@ -154,6 +154,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Ello](https://github.com/opensourceios/ello-ios)
 - [EMI Calculator](https://github.com/tirupati17/loan-emi-calculator-clean-swift)
 - [EmojiFireplace](https://github.com/neonichu/EmojiFireplace)
+- [EmotionNote Diary](https://github.com/Yogayu/EmotionNote)
 - [Endless Browser](https://github.com/jcs/endless)
 - [ESCapey](https://github.com/brianmichel/ESCapey)
 - [EU VAT Number - VIES Freelance](https://github.com/opensourceios/VIES)
