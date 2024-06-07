@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%20%206,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%20%207,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2515,10 +2515,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
 - [Blurry](https://github.com/meteochu/Blurry)
   -  `2021` `swift` 
   -  ☆`19` 
-- [EmotionNote Diary](https://github.com/Yogayu/EmotionNote): Choose or take a photo of your face and this will reveal your emotion
-  -  <a href='https://github.com/Yogayu/EmotionNote/raw/master/imgs/Desktop%20HD.png'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`35` 
 - [Find](https://github.com/aheze/OpenFind): Text search for images
   - [` App Store`](https://apps.apple.com/app/id1506500202) <a href='https://open.getfind.app/assets/Find.jpg'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `realm` `camera` 
