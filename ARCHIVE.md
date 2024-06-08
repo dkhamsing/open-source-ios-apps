@@ -254,6 +254,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Lister](https://developer.apple.com/library/content/samplecode/Lister/Introduction/Intro.html)
 - [LivescoreApp using Sports API](https://github.com/gideonrotich/LivescoreApp)
 - [LobsterApp](https://github.com/rhysforyou/LobsterApp)
+- [lobsters-reader](https://github.com/cfdrake/lobsters-reader)
 - [Local Storage](https://github.com/geberl/swift-localstorage)
 - [Locative](https://github.com/LocativeHQ/Locative-iOS)
 - [LogU](https://github.com/brettalcox/logU-swift)
