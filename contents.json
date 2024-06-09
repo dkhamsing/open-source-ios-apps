@@ -16782,7 +16782,7 @@
       "tags": [
         "viper",
         "objc",
-        "core-data"
+        "core-data", "archive"
       ],
       "description": "Exchange currencies from multiple wallets on ECB exchange rates",
       "source": "https://github.com/vladimir-kaltyrin/exchanger",
