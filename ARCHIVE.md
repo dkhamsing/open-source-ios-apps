@@ -161,6 +161,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [EventBlankApp](https://github.com/icanzilb/EventBlankApp)
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS)
 - [EX Player](https://github.com/IGRSoft/exTVPlayer)
+- [Exchanger](https://github.com/vladimir-kaltyrin/exchanger)
 - [f.lux](https://github.com/jefferyleo/f.lux)
 - [Facebook Login](https://github.com/brentvatne/react-native-login)
 - [Facebook-Pop-Introduction](https://github.com/thomasdegry/Facebook-Pop-Introduction)
