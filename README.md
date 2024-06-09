@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%20%208,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%20%209,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1408,10 +1408,6 @@ File Management — [back to top](#readme)
   -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/9c/1c/74/9c1c7418-0b94-8c1b-8da8-fa869914e591/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/73/2a/60/732a6002-e689-f012-96be-a1501c226821/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/dd/85/df/dd85df8d-d795-b847-6cad-2bde2b1df6d9/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/c7/b2/59/c7b2590b-cc11-0aea-c5dc-4263313fb97f/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/41/a3/dc/41a3dc56-02fe-83f8-6fe0-8813691868c3/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2017` `cordova` `grunt` `node` 
   -  ☆`1577` 
-- [Exchanger](https://github.com/vladimir-kaltyrin/exchanger): Exchange currencies from multiple wallets on ECB exchange rates
-  -  <a href='https://github.com/vladimir-kaltyrin/exchanger/blob/master/screenshot.png?raw=true'>`Screenshot 1`</a> 
-  -  `2017` `viper` `objc` `core-data` 
-  -  ☆`13` 
 - [Expense Tracker](https://github.com/abdorizak/Expense-Tracker-App): Track daily expense from your income
   -  <a href='https://raw.githubusercontent.com/abdorizak/Expense-Tracker-App/main/Screenshots.png'>`Screenshot 1`</a> 
   -  `2024` `swift` 
@@ -5157,10 +5153,6 @@ https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/currency-converter-free-quick/id1163490933) <a href='https://raw.githubusercontent.com/tirupati17/currency-converter-swift3.0-viper/master/CurrencyConverter/Resources/iphone_5s.png'>`Screenshot 1`</a> 
   -  `2019` `swift` `viper` 
   -  ☆`218` 
-- [Exchanger](https://github.com/vladimir-kaltyrin/exchanger): Exchange currencies from multiple wallets on ECB exchange rates
-  -  <a href='https://github.com/vladimir-kaltyrin/exchanger/blob/master/screenshot.png?raw=true'>`Screenshot 1`</a> 
-  -  `2017` `viper` `objc` `core-data` 
-  -  ☆`13` 
 - [Gleam](https://github.com/akarataev/gleam-ios): Use machine learning to help diagnose melanoma early, get the necessary treatment
   -  <a href='https://raw.githubusercontent.com/akarataev/gleam-ios/master/Docs/Mockup-small.png'>`Screenshot 1`</a> 
   -  `2019` `swift` `coreml` `avkit` `viper` 
