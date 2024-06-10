@@ -20484,7 +20484,7 @@
       "tags": [
         "swift",
         "kingfisher",
-        "alamofire"
+        "alamofire", "archive"
       ],
       "license": "mit",
       "source": "https://github.com/aliumujib/FancyNews",
