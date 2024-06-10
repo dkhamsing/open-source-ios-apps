@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%20%209,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%2010,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2749,10 +2749,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/latifatcii/DailyNews/raw/master/DailyNewsScreenShots/dailyNewsScreenshot.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `mvvm` `rxswift` `sdwebimage` 
   -  ☆`48` 
-- [FancyNews](https://github.com/aliumujib/FancyNews)
-  -  <a href='https://github.com/aliumujib/FancyNews/raw/master/Screens/1.PNG'>`Screenshot 1`</a> 
-  -  `2017` `swift` `kingfisher` `alamofire` 
-  -  ☆`32` 
 - [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)
   -  <a href='https://user-images.githubusercontent.com/55942632/77102533-00600c80-6a3f-11ea-8212-3735eeb35a90.png'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
