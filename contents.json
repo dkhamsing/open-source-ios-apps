@@ -5775,7 +5775,7 @@
       "license": "mit",
       "source": "https://github.com/apiaryio/polls-app",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/apiaryio/polls-app/raw/master/Screenshot.png"
