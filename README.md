@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%2011,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%2012,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3037,10 +3037,6 @@ https://newsapi.org/ — [back to top](#readme)
 - [MVI SwiftUI Example](https://github.com/AnupAmmanavar/Mvi-SwiftUI)
   -  `2020` `swift` `mvi` `model-view-intent` 
   -  ☆`18` 
-- [Polls](https://github.com/apiaryio/polls-app): Uses the Apiary Polls API
-  -  <a href='https://github.com/apiaryio/polls-app/raw/master/Screenshot.png'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`34` 
 - [Protocol-Oriented MVVM Examples](https://github.com/ivan-magda/MVVM-Example)
   -  <a href='https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png'>`Screenshot 1`</a>  <a href='https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png'>`Screenshot 2`</a>  <a href='https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png'>`Screenshot 3`</a> 
   -  `2017` `swift` `mvvm` 
