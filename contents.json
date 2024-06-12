@@ -31565,6 +31565,19 @@
       "date_added": "Jun 3 2024",
       "suggested_by": "@dkhamsing",
       "stars": 1900      
-    }    
+    },
+    {
+      "title": "Demo",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/ivan-magda/ios-demo",
+      "license": "other",
+      "date_added": "Jun 12 2024",
+      "suggested_by": "@dkhamsing"
+    }      
   ]
 }
