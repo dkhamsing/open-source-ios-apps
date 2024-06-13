@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%2012,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%2013,%202024-lightgrey.svg)
 
 Jump to
 
@@ -5070,7 +5070,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  ☆`13` 
 - [TextScanner](https://github.com/appcoda/TextScanner): Text recognition
   - <a href=https://www.appcoda.com/swiftui-text-recognition/>`https://www.appcoda.com/swiftui-text-recognition/`</a>
-  -  <a href='https://www.appcoda.com/wp-content/uploads/2021/03/sample-scanner-app.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/905475e8-dfb1-4a19-8543-860547686955'>`Screenshot 1`</a> 
   -  `2021` `swift` `visionkit` 
   -  ☆`50` 
 - [The Roundtable](https://github.com/Dimillian/The-Roundtable): Elden Ring companion
