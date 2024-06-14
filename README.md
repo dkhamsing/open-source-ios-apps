@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1534-green.svg) ![](https://img.shields.io/badge/Updated-June%2013,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1535-green.svg) ![](https://img.shields.io/badge/Updated-June%2014,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2970,6 +2970,8 @@ https://newsapi.org/ — [back to top](#readme)
 - [Custom View Controller Transitions](https://github.com/DreamingInBinary/Custom-ViewController-Transitions): Make custom view controller transitions in the most simple way possible
   -  `2021` `swift` 
   -  ☆`100` 
+- [Demo](https://github.com/ivan-magda/ios-demo)
+  - `swift` 
 - [Dynamic Islands](https://github.com/jordibruin/Dynamic-Islands)
   -  <a href='https://user-images.githubusercontent.com/170948/190398276-91af47a8-239c-4190-8fef-3954bf4ac8fa.gif'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
