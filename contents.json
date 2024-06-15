@@ -14256,7 +14256,7 @@
       "description": "Currency converter for ReactiveX",
       "tags": [
         "swift",
-        "swift3"
+        "swift3", "archive"
       ],
       "category-ids": [
         "rxswift"
