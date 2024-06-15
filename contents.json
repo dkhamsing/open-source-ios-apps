@@ -31578,6 +31578,27 @@
       "license": "other",
       "date_added": "Jun 12 2024",
       "suggested_by": "@dkhamsing"
-    }      
+    },
+     {
+      "title": "Dynamic RealityKit Meshes with LowLevelMesh",
+      "category-ids": [
+        "apple-vision"
+      ],
+      "tags": [
+        "swift",
+        "vision",
+        "visionos",
+        "metal", 
+        "xcode16"
+      ],
+      "screenshots": [
+        "https://github.com/metal-by-example/metal-spatial-dynamic-mesh/raw/master/screenshots/01.png"
+      ],
+      "source": "https://github.com/metal-by-example/metal-spatial-dynamic-mesh",
+      "license": "other",
+      "date_added": "Jun 14 2024",
+      "suggested_by": "@dkhamsing",
+      "stars": 36
+    }
   ]
 }
