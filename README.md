@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1535-green.svg) ![](https://img.shields.io/badge/Updated-June%2014,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2015,%202024-lightgrey.svg)
 
 Jump to
 
@@ -160,6 +160,10 @@ Jump to
   -  <a href='https://github.com/Sigil-Wen/Dream-with-Vision-Pro/blob/main/image-1.png?raw=true'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `vision` `visionos` `gpt` 
   -  ☆`167` 
+- [Dynamic RealityKit Meshes with LowLevelMesh](https://github.com/metal-by-example/metal-spatial-dynamic-mesh)
+  -  <a href='https://github.com/metal-by-example/metal-spatial-dynamic-mesh/raw/master/screenshots/01.png'>`Screenshot 1`</a> 
+  - `swift` `vision` `visionos` `metal` `xcode16` 
+  -  ☆`36` 
 - [NetflixVisionPro](https://github.com/barisozgenn/NetflixVisionPro): Immersive Netflix clone developed for visionOS
   -  <a href='https://repository-images.githubusercontent.com/657306985/e1517173-f5ce-4702-8bc4-2bf0644b0297'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `vision` `visionos` 
