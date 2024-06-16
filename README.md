@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2015,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2016,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2761,10 +2761,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2faf5a74-74b0-48d4-82d7-0a0975e826b2'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`157` 
-- [News](https://github.com/ivan-magda/News): Discover & read news on a range of news sources/blogs
-  -  <a href='https://raw.githubusercontent.com/vanyaland/News/master/res/sources.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/vanyaland/News/master/res/articles.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/vanyaland/News/master/res/article.png'>`Screenshot 3`</a> 
-  -  `2017` `objc` 
-  -  ☆`18` 
 - [News API apps](https://github.com/dkhamsing/news): News app in the style of the NYT, CNN, BBC, Reddit, Twitter, Facebook - includes tvOS app, Today widget
   -  <a href='https://github.com/dkhamsing/news/raw/main/Images/tvos.png'>`Screenshot 1`</a>  <a href='https://github.com/dkhamsing/news/raw/main/Images/facebook.png'>`Screenshot 2`</a>  <a href='https://github.com/dkhamsing/news/raw/main/Images/washingtonpost.png'>`Screenshot 3`</a> 
   -  `2024` `swift` `tvos` `extension` 
