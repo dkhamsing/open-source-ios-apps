@@ -309,6 +309,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Neverlate](https://github.com/ayunav/Neverlate)
 - [New Zealand - NZ COVID Tracer](https://github.com/minhealthnz/nzcovidtracer-app)
 - [news](https://github.com/grp/newsyc)
+- [News](https://github.com/ivan-magda/News)
 - [News/YC](https://github.com/bennyguitar/News-YC---iPhone)
 - [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)
 - [Nortal TechDay 2015](https://github.com/mikkoj/NortalTechDay)
