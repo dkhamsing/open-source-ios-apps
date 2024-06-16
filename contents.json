@@ -13241,7 +13241,7 @@
         "news-api"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "license": "mit",
       "source": "https://github.com/ivan-magda/News",
