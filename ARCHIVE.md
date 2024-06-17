@@ -121,6 +121,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Conway's Game of Life](https://github.com/yonbergman/swift-gameoflife)
 - [CookieCrunch](https://github.com/renatomcamilio/CookieCrunch)
 - [CoolSpot](https://github.com/neonichu/CoolSpot)
+- [Count It](https://github.com/PiXeL16/CountItApp)
 - [Counter](https://github.com/mutualmobile/Counter)
 - [CrimeMapper](https://github.com/swwol/CrimeMapper)
 - [Cryptose](https://github.com/insurgentgames/Cryptose)
