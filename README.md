@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2016,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2017,%202024-lightgrey.svg)
 
 Jump to
 
@@ -235,10 +235,6 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/lazerwalker/cortado/master/screenshots/notif-6.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/lazerwalker/cortado/master/screenshots/notif-swipe-6.png'>`Screenshot 2`</a> 
   -  `2019` `objc` 
   -  ☆`169` 
-- [Count It](https://github.com/PiXeL16/CountItApp): Dead simple way for you to count anything
-  -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/d7/16/dc/d716dc20-ac17-d9ce-5183-76706ffff706/pr_source.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/b1/15/4c/b1154c11-88fa-9e85-3c5d-e3884815a5b5/pr_source.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/92/1a/86/921a866a-c638-c13a-2782-5703a96ec450/pr_source.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/48/e8/a0/48e8a0d7-15b2-05f7-3a08-72cded731f9c/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2017` `swift` 
-  -  ☆`66` 
 - [Done](https://github.com/FancyPixel/done-swift): To-do list data sharing between extension & main app
   -  <a href='https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif'>`Screenshot 1`</a> 
   -  `2017` `swift` `realm` `watchkit` 
@@ -4521,10 +4517,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [CouchTracker](https://github.com/pietrocaselani/CouchTracker): Keep track of your favorite TV shows & movies using Trakt
   -  `2021` `swift` `trakt` `moya` `kingfisher` `mvvm` 
   -  ☆`46` 
-- [Count It](https://github.com/PiXeL16/CountItApp): Dead simple way for you to count anything
-  -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/d7/16/dc/d716dc20-ac17-d9ce-5183-76706ffff706/pr_source.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/b1/15/4c/b1154c11-88fa-9e85-3c5d-e3884815a5b5/pr_source.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/92/1a/86/921a866a-c638-c13a-2782-5703a96ec450/pr_source.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/48/e8/a0/48e8a0d7-15b2-05f7-3a08-72cded731f9c/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2017` `swift` 
-  -  ☆`66` 
 - [Drrrible](https://github.com/devxoul/Drrrible)
   - [` App Store`](https://apps.apple.com/app/drrrible/id1229592223) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d2/41/58/d241583e-61f6-5acc-19e4-fcd7fbbdddc7/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/81/b0/45/81b045f4-bc98-8c9f-9662-eae1b8cbba4b/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bf/c5/e6/bfc5e69c-4303-de2d-8c95-8025c3e85b02/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2019` `swift` `dribbble` `reactorkit` `moya` `kingfisher` 
