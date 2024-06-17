@@ -8874,7 +8874,7 @@
         "viper"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "source": "https://github.com/sebastianwr/VIPER-Persons",
       "stars": 43,
