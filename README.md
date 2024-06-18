@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2017,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2018,%202024-lightgrey.svg)
 
 Jump to
 
@@ -4537,10 +4537,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'>`Screenshot 2`</a> 
   -  `2020` `swift` 
   -  ☆`1148` 
-- [RxCurrency](https://github.com/inkyfox/RxCurrency_iOS): Currency converter for ReactiveX
-  -  <a href='https://raw.githubusercontent.com/inkyfox/RxCurrency_iOS/master/RxCurrency.gif'>`Screenshot 1`</a> 
-  -  `2017` `swift` `swift3` 
-  -  ☆`58` 
 - [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles): Interactive diagrams of Rx Observables
   - [` App Store`](https://apps.apple.com/app/rxmarbles/id1087272442) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/37/4c/aa/374caa6c-ef0a-b8b6-20a9-c8ca8920fe32/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1f/7c/40/1f7c4058-fae6-6de9-cdaf-d27f1cbd5afd/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8d/83/63/8d8363ff-0637-8a77-5dc3-19cab426a164/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2020` `swift` 
