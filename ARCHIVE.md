@@ -404,6 +404,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
 - [RSSRead](https://github.com/ming1016/RSSRead)
 - [Runner-Stats](https://github.com/hukun01/Runner-Stats)
+- [RxCurrency](https://github.com/inkyfox/RxCurrency_iOS)
 - [S.C.P-Asylum-Fail](https://github.com/cpo007/S.C.P-Asylum-Fail)
 - [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest)
 - [SafePeople](https://github.com/opensourceios/SafePeople)
