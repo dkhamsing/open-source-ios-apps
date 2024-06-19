@@ -118,6 +118,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Concurrency](https://github.com/opensourceios/Concurrency)
 - [ConfFriends](https://github.com/ay8s/ConfFriends)
 - [Connectivity Demo](https://github.com/swilliams/watchkit-connectivity-demo)
+- [Contacts](https://github.com/sebastianwr/VIPER-Persons)
 - [Conway's Game of Life](https://github.com/yonbergman/swift-gameoflife)
 - [CookieCrunch](https://github.com/renatomcamilio/CookieCrunch)
 - [CoolSpot](https://github.com/neonichu/CoolSpot)
