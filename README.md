@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2018,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2019,%202024-lightgrey.svg)
 
 Jump to
 
@@ -5128,9 +5128,6 @@ https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0aa1867f-befc-4ded-ac3e-d68cd69d6a58'>`Screenshot 1`</a> 
   -  `2017` `swift` `rest` 
   -  ☆`271` 
-- [Contacts](https://github.com/sebastianwr/VIPER-Persons)
-  -  `2017` `objc` 
-  -  ☆`43` 
 - [Currency Converter](https://github.com/tirupati17/currency-converter-swift3.0-viper): Live foreign exchange rates & currency calculator
   - [` App Store`](https://apps.apple.com/app/currency-converter-free-quick/id1163490933) <a href='https://raw.githubusercontent.com/tirupati17/currency-converter-swift3.0-viper/master/CurrencyConverter/Resources/iphone_5s.png'>`Screenshot 1`</a> 
   -  `2019` `swift` `viper` 
