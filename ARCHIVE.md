@@ -465,6 +465,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [SwiftRACGoogleImages](https://github.com/Adlai-Holler/SwiftRACGoogleImages)
 - [SwiftSnake](https://github.com/caleb0/SwiftSnake)
 - [SwiftTextClock](https://github.com/MichMich/SwiftTextClock)
+- [SwipeIt](https://github.com/ivanbruel/SwipeIt)
 - [Tack](https://github.com/stig/Tack)
 - [Task Coach](https://sourceforge.net/projects/taskcoach/)
 - [TaskPaper](https://github.com/jessegrosjean/NOTTaskPaperForIOS)
