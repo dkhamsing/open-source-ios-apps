@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2019,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2020,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2675,9 +2675,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/slide-for-reddit/id1260626828) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/75/3b/91/753b91d1-029a-f898-ae67-910f117ba4ed/pr_source.jpg/300x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d8/1e/5f/d81e5fd9-71dc-abb0-bdb1-7d22fecf56b1/pr_source.jpg/300x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/fc/aa/e6/fcaae64d-552e-ce44-d3aa-08342eb6ce4b/pr_source.jpg/300x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/78/cb/fc/78cbfc3c-f395-943f-5695-e9c7cdbe035b/pr_source.jpg/300x0w.jpg'>`Screenshot 4`</a> 
   -  `2023` `swift` 
   -  ☆`484` 
-- [SwipeIt](https://github.com/ivanbruel/SwipeIt): Reddit with a swipe
-  -  `2017` `swift` `rxswift` `moya` `kingfisher` `snapkit` 
-  -  ☆`443` 
 - [TabDump](https://github.com/dkhamsing/TabDump): TabDump news
   -  <a href='https://github.com/dkhamsing/TabDump/raw/master/assets/screenshots/screenshot.png'>`Screenshot 1`</a> 
   -  `2017` `afnetworking` 
