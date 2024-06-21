@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2020,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2021,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3151,10 +3151,6 @@ https://newsapi.org/ — [back to top](#readme)
 - [iCepa](https://github.com/iCepa/iCepa): System-wide VPN based Tor client
   -  `2021` `swift` `tor` 
   -  ☆`731` 
-- [keyacid](https://github.com/keyacid/keyacid-iOS): Secure and easy crypto for everyone
-  -  <a href='https://a1.mzstatic.com/us/r30/Purple117/v4/49/ba/f3/49baf3cf-a821-ec84-21f4-ac7f466c72b4/screen696x696.jpeg'>`Screenshot 1`</a>  <a href='https://a5.mzstatic.com/us/r30/Purple117/v4/36/fe/e2/36fee29b-22fc-d047-396a-3d2b043e9d53/screen696x696.jpeg'>`Screenshot 2`</a> 
-  -  `2017` `swift` `carthage` `libsodium` 
-  -  ☆`12` 
 - [Keybase](https://github.com/keybase/client)
   - [` App Store`](https://apps.apple.com/app/keybase-crypto-for-everyone/id1044461770)
   -  `2024` `react-native` 
