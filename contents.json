@@ -6230,7 +6230,7 @@
       "description": "A small to-do list with Realm integration",
       "source": "https://github.com/pietbrauer/RealmToDo",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "stars": 51,
       "license": "other",
