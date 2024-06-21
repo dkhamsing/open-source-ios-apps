@@ -16452,7 +16452,7 @@
       "tags": [
         "swift",
         "carthage",
-        "libsodium"
+        "libsodium", "archive"
       ],
       "license": "bsd-3-clause",
       "date_added": "Aug 3 2017",
