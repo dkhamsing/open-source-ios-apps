@@ -197,6 +197,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [github-issues](https://github.com/chriseidhof/github-issues)
 - [GitHub-Swift](https://github.com/acmacalister/Github-Swift)
 - [GlucoSuccess](https://github.com/ResearchKit/GlucoSuccess)
+- [Good Living Guide](https://github.com/hrscy/DanTang)
 - [GoodNight](https://github.com/anthonya1999/GoodNight)
 - [Google Feud](https://github.com/opensourceios/Google-Feud-iOS)
 - [Gorillas](https://github.com/Lyndir/Gorillas)
