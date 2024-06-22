@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2021,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2022,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3290,10 +3290,6 @@ https://newsapi.org/ — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [Good Living Guide](https://github.com/hrscy/DanTang): Home snacks, gifts, beauty, shopping
-  -  <a href='https://a4.mzstatic.com/us/r30/Purple1/v4/7a/5f/b7/7a5fb7a2-e038-2b81-63b6-8b76872b86fe/screen696x696.jpeg'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`659` 
 - [Mojilist](https://github.com/thiagoricieri/Mojilist): Create shopping lists with emojis!
   -  `2018` `swift` `alamofire` `realm` 
   -  ☆`61` 
