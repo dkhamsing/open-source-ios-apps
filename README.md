@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2022,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1536-green.svg) ![](https://img.shields.io/badge/Updated-June%2023,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3391,9 +3391,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/aerlinn13/Planc/blob/master/screenshots/1.png?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`4` 
-- [RealmToDo](https://github.com/pietbrauer/RealmToDo): A small to-do list with Realm integration
-  -  `2017` `swift` 
-  -  ☆`51` 
 - [RSToDoList](https://github.com/rursache/ToDoList)
   - [` App Store`](https://apps.apple.com/app/todolist-task-manager/id1454122524) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/7ba77342-79e0-41f3-9a85-e44fd877d9ca'>`Screenshot 1`</a> 
   -  `2024` `swift` `apple-watch` `ipad` 
@@ -4484,9 +4481,6 @@ https://realm.io/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `parse` 
   -  ☆`610` 
-- [RealmToDo](https://github.com/pietbrauer/RealmToDo): A small to-do list with Realm integration
-  -  `2017` `swift` 
-  -  ☆`51` 
 - [try! Swift NYC](https://github.com/tryswift/trySwiftNYC)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f0740ff3-b5e2-4ee7-8cab-9f1310af829f'>`Screenshot 1`</a> 
   -  `2018` `swift` `toucan` `realm` 
