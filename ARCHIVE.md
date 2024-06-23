@@ -392,6 +392,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [ReactNativeHackerNews](https://github.com/jsdf/ReactNativeHackerNews)
 - [RealmPop](https://github.com/realm/RealmPop)
 - [RealmTasks](https://github.com/realm/realm-tasks)
+- [RealmToDo](https://github.com/pietbrauer/RealmToDo)
 - [RealmVideo](https://github.com/BalestraPatrick/RealmVideo)
 - [Reddit](https://github.com/amitburst/reddit-demo)
 - [RedditWatch](https://github.com/opensourceios/RedditWatch)
