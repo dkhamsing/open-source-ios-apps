@@ -31624,6 +31624,20 @@
       "suggested_by": "@dkhamsing",
       "stars": 40,
       "updated": "2024-06-11 20:22:02 UTC"
-    }
+    },
+    {
+  "title": "BetBudd",
+  "category-ids": ["Swift"],
+  "description": "Betbudd is a free application tool that helps users keep track of their spending on bets and other gambling activities.",
+  "source": "https://github.com/bigjermaine/BetBudd",
+  "itunes": "https://apps.apple.com/us/app/betbudd/id1661151432",		
+  "license": "other",
+  "lang": "English",     
+  "stars":"12" ,     
+  "tags": ["swift"],
+  "screenshots": ["https://github.com/bigjermaine/BetBudd/assets/113020989/8cd7016f-3dcf-48ff-bde4-272264f486c5","https://github.com/bigjermaine/BetBudd/assets/113020989/03516bb2-1217-4557-a3d7-37b95e4bda30"],
+  "date_added": "Jul 6 2024",
+  "suggested_by": "@bigjermaine"
+}
   ]
 }
