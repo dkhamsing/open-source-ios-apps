@@ -31628,7 +31628,7 @@
     {
   "title": "BetBudd",
   "category-ids": ["finance"],
-  "description": "Betbudd is a free application tool that helps users keep track of their spending on bets and other gambling activities.",
+  "description": "Keep track of spending on bets and other gambling activities",
   "source": "https://github.com/bigjermaine/BetBudd",
   "itunes": "https://apps.apple.com/us/app/betbudd/id1661151432",		
   "license": "other",
