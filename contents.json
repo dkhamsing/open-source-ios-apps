@@ -21826,7 +21826,7 @@
       "source": "https://github.com/raivo-otp/ios-application",
       "itunes": "https://apps.apple.com/app/raivo-otp/id1459042137",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/raivo-otp/ios-application/master/.github/preview_left.png"
