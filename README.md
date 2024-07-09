@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1537-green.svg) ![](https://img.shields.io/badge/Updated-July%20%208,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1538-green.svg) ![](https://img.shields.io/badge/Updated-July%20%209,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3831,6 +3831,10 @@ https://joinmastodon.org — [back to top](#readme)
   - <a href=https://www.jaydenirwin.com/sfcode/>`https://www.jaydenirwin.com/sfcode/`</a>
   - [` App Store`](https://apps.apple.com/app/sf-code/id1568916751)
   -  `2022` `swift` `swiftui` 
+- [tortellini](https://github.com/nate-parrott/tortellini): Makes cooking easier
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/16e9420f-c4dc-4bd5-be92-55af3cd0fad6'>`Screenshot 1`</a> 
+  - `swift` 
+  -  ☆`17` 
 - [TriangleDraw](https://github.com/triangledraw/TriangleDraw-iOS): Create logos, typography, and other graphics, using nothing but triangles
   - <a href=https://www.triangledraw.com/>`https://www.triangledraw.com/`</a>
   - [` App Store`](https://apps.apple.com/app/triangledraw/id1453533043) <a href='https://raw.githubusercontent.com/triangledraw/TriangleDraw-iOS/develop/Source/Documentation/triangledraw_screenshots.png'>`Screenshot 1`</a> 
