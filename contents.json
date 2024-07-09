@@ -31637,6 +31637,24 @@
   "screenshots": ["https://github.com/bigjermaine/BetBudd/assets/113020989/8cd7016f-3dcf-48ff-bde4-272264f486c5","https://github.com/bigjermaine/BetBudd/assets/113020989/03516bb2-1217-4557-a3d7-37b95e4bda30"],
   "date_added": "Jul 6 2024",
   "suggested_by": "@bigjermaine"
-}
+},
+    {
+      "title": "tortellini",
+      "description": "Makes cooking easier",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/16e9420f-c4dc-4bd5-be92-55af3cd0fad6"
+      ],
+      "source": "https://github.com/nate-parrott/tortellini",
+      "license": "other",
+      "date_added": "Jul 8 2024",
+      "suggested_by": "@dkhamsing",
+      "stars": 17
+    }
   ]
 }
