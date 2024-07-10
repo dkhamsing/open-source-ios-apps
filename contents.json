@@ -31655,6 +31655,23 @@
       "date_added": "Jul 8 2024",
       "suggested_by": "@dkhamsing",
       "stars": 17
-    }
+    },
+ {
+      "title": "PokePal",
+      "description": "AI Pokedex using Neuron",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift", "neural-network"
+      ],
+      "screenshots": [
+        "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f018af5c-870a-459a-b507-c378773d2269"
+      ],
+      "source": "https://github.com/wvabrinskas/PokePal",
+      "license": "other",
+      "date_added": "Jul 9 2024",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
