@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1538-green.svg) ![](https://img.shields.io/badge/Updated-July%20%209,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1539-green.svg) ![](https://img.shields.io/badge/Updated-July%2010,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3791,6 +3791,9 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/1d2ecfbd-ef48-4dd7-9866-a938e8128aad'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`529` 
+- [PokePal](https://github.com/wvabrinskas/PokePal): AI Pokedex using Neuron
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f018af5c-870a-459a-b507-c378773d2269'>`Screenshot 1`</a> 
+  - `swift` `neural-network` 
 - [Question answering and text generation](https://github.com/huggingface/swift-coreml-transformers): Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT
   -  <a href='https://raw.githubusercontent.com/huggingface/swift-coreml-transformers/master/media/coreml-gpt2.gif'>`Screenshot 1`</a> 
   -  `2023` `swift` `gpt2` 
