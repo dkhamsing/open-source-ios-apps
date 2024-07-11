@@ -31668,6 +31668,23 @@
       "license": "other",
       "date_added": "Jul 9 2024",
       "suggested_by": "@dkhamsing"
-    }    
+    },
+{
+      "title": "SneakerShop",
+      "description": "Uses a Skip dual-platform project",
+      "category-ids": [
+        "sample"
+      ],
+      "tags": [
+        "swift", "skip"
+      ],
+      "screenshots": [
+        "https://github.com/c-villain/SneakerShop/raw/main/demo/demo.png"
+      ],
+      "source": "https://github.com/c-villain/SneakerShop",
+      "license": "other",
+      "date_added": "Jul 11 2024",
+      "suggested_by": "@dkhamsing"
+    }       
   ]
 }
