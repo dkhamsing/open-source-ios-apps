@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1539-green.svg) ![](https://img.shields.io/badge/Updated-July%2010,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1539-green.svg) ![](https://img.shields.io/badge/Updated-July%2011,%202024-lightgrey.svg)
 
 Jump to
 
@@ -4935,7 +4935,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2024` `swift` `swiftui` 
   -  ☆`635` 
 - [Sketch Elements](https://github.com/molcik/ios-sketch-elements): SwiftUI starter kit based on Sketch Elements using a food app template
-  -  <a href='https://filipmolcik.com/wp-content/uploads/2020/07/iphonexspacegrey_portrait-2-1024x1024.png'>`Screenshot 1`</a>  <a href='https://filipmolcik.com/wp-content/uploads/2020/07/iphonexspacegrey_landscape-2-1024x1024.png'>`Screenshot 2`</a> 
   -  `2021` `swift` `swiftui` 
   -  ☆`34` 
 - [Sketchy](https://github.com/brittanyarima/Sketchy): iPad sketching
