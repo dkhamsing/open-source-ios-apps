@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1539-green.svg) ![](https://img.shields.io/badge/Updated-July%2011,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1540-green.svg) ![](https://img.shields.io/badge/Updated-July%2012,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3066,6 +3066,9 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/CoyoteLab/Studies-Siri-Shortcut-iOS-13/blob/master/1_1.png?raw=true'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`19` 
+- [SneakerShop](https://github.com/c-villain/SneakerShop): Uses a Skip dual-platform project
+  -  <a href='https://github.com/c-villain/SneakerShop/raw/main/demo/demo.png'>`Screenshot 1`</a> 
+  - `swift` `skip` 
 - [Snowflake](https://github.com/bartonhammond/snowflake): A React-Native Starter App/BoilerPlate/Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku
   -  <a href='https://cloud.githubusercontent.com/assets/1282364/11598478/b2b1b5e6-9a87-11e5-8be9-37cbfa478a71.gif'>`Screenshot 1`</a> 
   -  `2019` `react-native` `redux` 
