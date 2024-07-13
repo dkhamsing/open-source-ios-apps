@@ -386,6 +386,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Radium Web Browser](https://github.com/SlayterDev/RadiumBrowser)
 - [RailsCasts](https://github.com/spritlesoftware/railscasts-on-appletv)
 - [RainMan](https://github.com/Aaron-A/Project-RainMan)
+- [Raivo OTP](https://github.com/raivo-otp/ios-application)
 - [ReactiveHackerNews](https://github.com/syshen/ReactiveHackerNews)
 - [ReactiveKitten](https://github.com/JensRavens/ReactiveKitten)
 - [ReactKitCalculator](https://github.com/ReactKit/ReactKitCalculator)
