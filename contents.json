@@ -31685,6 +31685,26 @@
       "license": "other",
       "date_added": "Jul 11 2024",
       "suggested_by": "@dkhamsing"
-    }       
+    },
+    {
+      "title": "BOT-anist",
+      "description": "Multiplatform app that uses windows, volumes, and animations to create a robot botanist’s greenhouse",
+      "category-ids": [
+        "apple-vision"
+      ],
+      "tags": [
+        "swift",
+        "vision",
+        "visionos",
+        "xcode16"
+      ],
+      "screenshots": [
+        "https://github.com/user-attachments/assets/fcc87e31-5580-444e-9318-9dd27beceb18"
+      ],
+      "source": "https://developer.apple.com/documentation/visionos/bot-anist",
+      "license": "other",
+      "date_added": "Jul 13 2024",
+      "suggested_by": "@dkhamsing"
+    }
   ]
 }
