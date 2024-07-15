@@ -4101,7 +4101,7 @@
 {
     "title": "Controllers",
     "category-ids": ["audio"],
-    "description": "An intuitive DJ controller app.",
+    "description": "Intuitive DJ controller",
     "source": "https://github.com/yuripetrosyan/Controllers",
      "tags": [
         "swiftui",
