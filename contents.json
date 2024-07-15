@@ -4104,7 +4104,6 @@
     "description": "An intuitive DJ controller app.",
     "source": "https://github.com/yuripetrosyan/Controllers",
      "tags": [
-         "2024",
         "swiftui",
         "swift"  
       ],
