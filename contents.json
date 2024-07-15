@@ -4097,6 +4097,21 @@
       "stars": 10490,
       "updated": "2024-05-16 07:53:34 UTC"
     },
+
+{
+    "title": "Controllers",
+    "category-ids": ["audio"],
+    "description": "Intuitive DJ controller",
+    "source": "https://github.com/yuripetrosyan/Controllers",
+     "tags": [
+        "swiftui",
+        "swift"  
+      ],
+    "screenshots": ["https://github.com/yuripetrosyan/Controllers/assets/73176415/f60607c2-7a1b-4df3-b6af-6c6f3988f478"],
+    "date_added": "Jul 15 2024",
+    "suggested_by": "@yuripetrosyan"
+}
+    ,
     {
       "title": "AudioKit ROM Player",
       "category-ids": [
