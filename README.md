@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1541-green.svg) ![](https://img.shields.io/badge/Updated-July%2014,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1542-green.svg) ![](https://img.shields.io/badge/Updated-July%2015,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2258,6 +2258,9 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/concertmaster-player/id1561622325) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/57d23dbc-ee29-49b6-b02c-fb653c1abc17'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`5` 
+- [Controllers](https://github.com/yuripetrosyan/Controllers): Intuitive DJ controller
+  -  <a href='https://github.com/yuripetrosyan/Controllers/assets/73176415/f60607c2-7a1b-4df3-b6af-6c6f3988f478'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [DoubanFM](https://github.com/XVXVXXX/DoubanFM)
   -  <a href='https://github.com/XVXVXXX/DoubanFM/raw/master/readmeImage/page0.png'>`Screenshot 1`</a> 
   -  `2017` `afnetworking` `mpmovieplayer` `iphone` 
