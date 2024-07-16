@@ -24426,19 +24426,20 @@
       "updated": "2020-09-17 16:42:17 UTC"
     },
     {
-      "title": "SF Viewer for SF Symbols",
+      "title": "SymbolGrid",
+      "description": "Just a personal iOS SF Symbol App also available for macOS, visionOS",
       "category-ids": [
         "developer"
       ],
       "tags": [
         "swift"
       ],
-      "source": "https://github.com/aaronpearce/SF-Viewer",
+      "source": "https://github.com/dl-alexandre/SymbolView",
       "license": "mit",
-      "date_added": "Aug 26 2020",
-      "suggested_by": "@dkhamsing",
-      "stars": 32,
-      "updated": "2020-01-02 22:45:39 UTC"
+      "date_added": "July 16 2024",
+      "suggested_by": "@dl-alexandre",
+      "stars": 0,
+      "updated": "2024-07-16 09:14:39 UTC"
     },
     {
       "title": "BookSearch",
