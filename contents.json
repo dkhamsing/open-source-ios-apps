@@ -31720,6 +31720,26 @@
       "license": "other",
       "date_added": "Jul 13 2024",
       "suggested_by": "@dkhamsing"
-    }
+    },
+   {
+      "title": "Destination Video",
+      "description": "Immersive media experience in a multiplatform app",
+      "category-ids": [
+        "apple-vision"
+      ],
+      "tags": [
+        "swift",
+        "vision",
+        "visionos",
+        "xcode16"
+      ],
+      "screenshots": [
+        "https://github.com/user-attachments/assets/2f02cc7e-f4ea-4ef0-8a47-eab18840e3c8"
+      ],
+      "source": "https://developer.apple.com/documentation/visionos/destination-video",
+      "license": "other",
+      "date_added": "Jul 17 2024",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
