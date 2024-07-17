@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1542-green.svg) ![](https://img.shields.io/badge/Updated-July%2015,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1543-green.svg) ![](https://img.shields.io/badge/Updated-July%2017,%202024-lightgrey.svg)
 
 Jump to
 
@@ -158,6 +158,9 @@ Jump to
   -  ☆`34` 
 - [BOT-anist](https://developer.apple.com/documentation/visionos/bot-anist): Multiplatform app that uses windows, volumes, and animations to create a robot botanist’s greenhouse
   -  <a href='https://github.com/user-attachments/assets/fcc87e31-5580-444e-9318-9dd27beceb18'>`Screenshot 1`</a> 
+  - `swift` `vision` `visionos` `xcode16` 
+- [Destination Video](https://developer.apple.com/documentation/visionos/destination-video): Immersive media experience in a multiplatform app
+  -  <a href='https://github.com/user-attachments/assets/2f02cc7e-f4ea-4ef0-8a47-eab18840e3c8'>`Screenshot 1`</a> 
   - `swift` `vision` `visionos` `xcode16` 
 - [Dream](https://github.com/Sigil-Wen/Dream-with-Vision-Pro): Lucid text-to-3D tool built with the Apple VisionOS SDK
   -  <a href='https://github.com/Sigil-Wen/Dream-with-Vision-Pro/blob/main/image-1.png?raw=true'>`Screenshot 1`</a> 
