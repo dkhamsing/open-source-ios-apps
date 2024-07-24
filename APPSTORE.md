@@ -161,7 +161,7 @@ Jump to
   -  ☆`163` 
 - [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app
   - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'>`Screenshot 3`</a> 
-  -  `2021` `watchos` `swiftui` `alamofire` 
+  -  `2024` `watchos` `swiftui` `alamofire` 
   -  ☆`76` 
 ## Browser 
  
@@ -653,7 +653,7 @@ Widget (iOS 14) — [back to top](#readme)
   -  ☆`94` 
 - [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app
   - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'>`Screenshot 3`</a> 
-  -  `2021` `watchos` `swiftui` `alamofire` 
+  -  `2024` `watchos` `swiftui` `alamofire` 
   -  ☆`76` 
 - [XKCDY for xkcd](https://github.com/XKCDY/app)
   - [` App Store`](https://apps.apple.com/app/xkcdy/id1520259318) <a href='https://user-images.githubusercontent.com/4723115/128615800-e136ba1b-6c14-4aae-ac0e-59fa9b382b4b.png'>`Screenshot 1`</a> 
@@ -2164,7 +2164,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  ☆`63` 
 - [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app
   - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'>`Screenshot 3`</a> 
-  -  `2021` `watchos` `swiftui` `alamofire` 
+  -  `2024` `watchos` `swiftui` `alamofire` 
   -  ☆`76` 
 - [XKCDY for xkcd](https://github.com/XKCDY/app)
   - [` App Store`](https://apps.apple.com/app/xkcdy/id1520259318) <a href='https://user-images.githubusercontent.com/4723115/128615800-e136ba1b-6c14-4aae-ac0e-59fa9b382b4b.png'>`Screenshot 1`</a> 
