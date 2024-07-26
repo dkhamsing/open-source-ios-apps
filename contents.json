@@ -31740,6 +31740,22 @@
       "license": "other",
       "date_added": "Jul 17 2024",
       "suggested_by": "@dkhamsing"
-    }    
+    },
+    {
+      "title": "OpenNutriTracker",
+      "category-ids": [
+        "health"
+      ],
+      "description": "Easily log your meals and snacks, and access a vast database of food items and ingredients to get detailed nutritional information.",
+      "source": "https://github.com/simonoppowa/OpenNutriTracker",
+      "screenshots": [
+        "https://github.com/simonoppowa/OpenNutriTracker/raw/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png",
+        "https://github.com/simonoppowa/OpenNutriTracker/raw/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png",
+        "https://github.com/simonoppowa/OpenNutriTracker/raw/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png",
+        "https://github.com/simonoppowa/OpenNutriTracker/raw/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png"
+      ],
+      "date_added": "Jul 26 2024",
+      "suggested_by": "@fuddl"
+    }
   ]
 }
