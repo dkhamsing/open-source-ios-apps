@@ -31756,7 +31756,9 @@
       ],
       "date_added": "Jul 26 2024",
       "license": "gpl-3.0",
-      "suggested_by": "@fuddl"
+      "suggested_by": "@fuddl",
+      "stars": 200,
+      "updated": "2024-06-29 20:22:02 UTC"      
     }
   ]
 }
