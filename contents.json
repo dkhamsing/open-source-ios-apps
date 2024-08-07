@@ -30596,7 +30596,7 @@
       "source": "https://github.com/ynagatomo/BasicChatGPT",
       "tags": [
         "swift",
-        "gpt"
+        "gpt", "openai"
       ],
       "license": "other",
       "date_added": "Apr 1 2023",
