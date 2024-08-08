@@ -31783,6 +31783,23 @@
       "suggested_by": "@fuddl",
       "stars": 240,
       "updated": "2024-07-19 14:11:59 UTC"
-    }
+    },
+    {
+      "title": "OpenAI Wrapper",
+      "category-ids": [
+        "swiftui" 
+      ],
+      "source": "https://github.com/adamlyttleapps/OpenAI-Wrapper-SwiftUI",
+      "screenshots": [
+        "https://adamlyttleapps.com/demo/OpenAI-Wrapper-SwiftUI/demo-v3.png"
+      ],
+      "tags": [
+        "swift", "swiftui", "openai"
+      ],
+      "date_added": "Aug 7 2024",
+      "license": "mit",
+      "suggested_by": "@dkhamsing",
+      "stars": 30
+    }    
   ]
 }
