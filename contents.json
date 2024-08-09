@@ -24439,7 +24439,7 @@
         "developer"
       ],
       "tags": [
-        "swift"
+        "swift","archive"
       ],
       "source": "https://github.com/aaronpearce/SF-Viewer",
       "license": "mit",
