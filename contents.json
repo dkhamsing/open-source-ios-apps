@@ -31800,6 +31800,19 @@
       "license": "mit",
       "suggested_by": "@dkhamsing",
       "stars": 30
-    }    
+    },
+     {
+      "title": "SymbolView for SF Symbols",       
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift", "macos", "visionos"
+      ],       
+      "source": "https://github.com/dl-alexandre/SymbolView",
+      "license": "mit",       
+      "date_added": "July 16 2024",
+      "suggested_by": "@dl-alexandre" 
+    },
   ]
 }
