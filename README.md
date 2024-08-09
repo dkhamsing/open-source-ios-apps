@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1545-green.svg) ![](https://img.shields.io/badge/Updated-August%20%208,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1546-green.svg) ![](https://img.shields.io/badge/Updated-August%20%209,%202024-lightgrey.svg)
 
 Jump to
 
@@ -843,6 +843,8 @@ Jump to
 - [SF Viewer for SF Symbols](https://github.com/aaronpearce/SF-Viewer)
   -  `2020` `swift` 
   -  ☆`32` 
+- [SymbolView for SF Symbols](https://github.com/dl-alexandre/SymbolView)
+  - `swift` `macos` `visionos` 
 - [Terrarium](https://github.com/penk/terrarium-app): UI prototyping for coders
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ccb0ee42-c8bc-43f7-8691-29d8f6c714a9'>`Screenshot 1`</a> 
   -  `2018` `c++` 
