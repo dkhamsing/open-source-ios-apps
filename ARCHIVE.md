@@ -424,6 +424,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Sentiments](https://github.com/kyleweiner/Sentiments)
 - [Session](https://github.com/oxen-io/session-ios)
 - [SF Symbols Game](https://github.com/rudrankriyam/SF-Symbols-Game)
+- [SF Viewer for SF Symbols](https://github.com/aaronpearce/SF-Viewer)
 - [Shadertweak](https://github.com/opensourceios/Shadertweak)
 - [Show OpenGL content](https://github.com/bradley/iOSSwiftOpenGL)
 - [Showio](https://github.com/opensourceios/showio-app)
