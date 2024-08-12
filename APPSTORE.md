@@ -1505,9 +1505,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/us/app/mullvad-vpn/id1488466513) <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-connected.PNG'>`Screenshot 1`</a>  <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-login.PNG'>`Screenshot 2`</a>  <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-location-server.PNG'>`Screenshot 3`</a> 
   -  `2024` `swift` 
   -  ☆`4706` 
-- [Passepartout](https://github.com/passepartoutvpn/passepartout-app): User-friendly OpenVPN app
-  - [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537) <a href='https://github.com/passepartoutvpn/passepartout-app/raw/master/res/ios/snap-home.png'>`Screenshot 1`</a> 
-  -  `2024` `swift` `mbprogresshud` 
+- [Passepartout](https://github.com/passepartoutvpn/passepartout): User-friendly OpenVPN app
+  - [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537) <a href='https://raw.githubusercontent.com/passepartoutvpn/passepartout/master/res/ios/snap-home.png'>`Screenshot 1`</a> 
+  -  `2024` `swift` 
   -  ☆`786` 
 - [PGPro](https://github.com/lucanaef/PGPro): PGP En- & Decryption
   - <a href=https://pgpro.app/>`https://pgpro.app/`</a>
