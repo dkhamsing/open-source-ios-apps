@@ -19463,15 +19463,14 @@
         "security"
       ],
       "tags": [
-        "mbprogresshud",
         "swift"
       ],
       "description": "User-friendly OpenVPN app",
       "license": "gpl-3.0",
-      "source": "https://github.com/passepartoutvpn/passepartout-app",
+      "source": "https://github.com/passepartoutvpn/passepartout",
       "itunes": "https://apps.apple.com/app/passepartout-openvpn-client/id1433648537",
       "screenshots": [
-        "https://github.com/passepartoutvpn/passepartout-app/raw/master/res/ios/snap-home.png"
+        "https://raw.githubusercontent.com/passepartoutvpn/passepartout/master/res/ios/snap-home.png"
       ],
       "date_added": "Sep 19 2019",
       "suggested_by": "@baenglund",
