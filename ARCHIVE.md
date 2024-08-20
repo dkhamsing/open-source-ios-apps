@@ -447,6 +447,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Speak](https://github.com/opensourceios/speakability)
 - [Spontaneous - Random quotes](https://github.com/opensourceios/DiscoverRandomQuotes)
 - [Starship](https://github.com/kylef-archive/Starship)
+- [Stay](https://github.com/shenruisi/Stay)
 - [Steps](https://github.com/gizmosachin/Steps)
 - [Stocks-iOS](https://github.com/MauriceArikoglu/stocks-ios)
 - [Stopwatch](https://github.com/toggl/stopwatch)
