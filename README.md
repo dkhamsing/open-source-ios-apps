@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1546-green.svg) ![](https://img.shields.io/badge/Updated-August%2012,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1546-green.svg) ![](https://img.shields.io/badge/Updated-August%2020,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1268,10 +1268,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/us/app/pipifier/id1234771095)
   -  `2021` `swift` 
   -  ☆`757` 
-- [Stay](https://github.com/shenruisi/Stay): Stay in the Safari, prevent app jumping, block ads, text auto unfold
-  - [` App Store`](https://apps.apple.com/app/stay-网页纯浏览/id1591620171) <a href='https://user-images.githubusercontent.com/4723115/147595814-d20a0ffe-4cd3-4994-9204-969b5657376f.png'>`Screenshot 1`</a> 
-  -  `2024` `swift` 
-  -  ☆`1067` 
 ### Today 
  
 Today Extensions or Widgets — [back to top](#readme) 
