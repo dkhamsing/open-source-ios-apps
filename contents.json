@@ -10813,10 +10813,10 @@
         "home"
       ],
       "tags": [
-        "objc"
+        "swift"
       ],
       "description": "Vendor & technology agnostic home automation",
-      "license": "epl-1.0",
+      "license": "epl-2.0",
       "source": "https://github.com/openhab/openhab-ios",
       "homepage": "https://www.openhab.org/",
       "itunes": "https://apps.apple.com/app/openhab/id492054521",
