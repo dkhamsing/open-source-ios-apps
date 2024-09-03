@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1546-green.svg) ![](https://img.shields.io/badge/Updated-August%2031,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1549-green.svg) ![](https://img.shields.io/badge/Updated-September%20%203,%202024-lightgrey.svg)
 
 Jump to
 
@@ -418,6 +418,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/hexacalc/id1529225315) <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveHex.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveBin.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveDec.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/DefaultSettings.png'>`Screenshot 4`</a> 
   -  `2024` `swift` `coredata` 
   -  ☆`41` 
+- [NeuCalc](https://github.com/YusuFKaan48/NeuCalc): This project showcases a mobile application developed using React Native, embracing the neumorphism design language to deliver a modern, soft, and intuitive user experience.
+  -  <a href='https://github.com/user-attachments/assets/d3ab64f6-5128-47fc-a602-3703e7efa235'>`Screenshot 1`</a> 
+  - `react-native` 
 - [Round & Split](https://github.com/lukhnos/roundandsplit): Tip Calculator
   - [` App Store`](https://apps.apple.com/app/round-split/id912288737) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/a9/92/1e/a9921e81-a138-5694-4970-14460572137b/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/40/d5/69/40d5698f-9a36-f7bc-ad27-e828e86b519f/pr_source.png/460x0w.jpg'>`Screenshot 2`</a> 
   -  `2024` `swift` 
@@ -2664,6 +2667,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://github.com/jeffreybergier/Hipstapaper/raw/main/readme-screenshot.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` `coredata` 
   -  ☆`73` 
+- [News](https://github.com/YusuFKaan48/News): The news app, designed with a minimalist approach, not only delivers global news but also offers user-friendly filters for a personalized reading experience.
+  -  <a href='https://github.com/YusuFKaan48/News/assets/111217286/dc81e7ff-e58b-4a4d-8526-f2f75fd957a0'>`Screenshot 1`</a> 
+  - `swift` 
+  -  ☆`2` 
 - [NYTimes-iOS](https://github.com/TheCodeMonks/NYTimes-iOS): NYTimes web scraping
   -  <a href='https://raw.githubusercontent.com/TheCodeMonks/NYTimes-iOS/master/NYTimes%20Screenshots/Banner%400.25x.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `combine` `swiftsoup` 
@@ -3570,6 +3577,10 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `combine` 
   -  ☆`464` 
+- [Pixel Weather](https://github.com/YusuFKaan48/PixelWeather): Pixel Weather provides users with real-time weather and location information, complemented by AI-generated images that adapt to the current weather conditions. All of this is presented in a charming pixel font.
+  -  <a href='https://github.com/YusuFKaan48/PixelWeather/assets/111217286/b2d03a5a-ee9b-4ee6-8275-f3e7c26b7601'>`Screenshot 1`</a> 
+  - `swift` 
+  -  ☆`4` 
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example)
   -  `2021` `swift` `typhoon` 
   -  ☆`352` 
