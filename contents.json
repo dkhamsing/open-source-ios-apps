@@ -31823,5 +31823,17 @@
       "stars": 0,
       "updated": "2024-06-27 20:54:45 UTC"
     }
+
+{
+  "title": "Pixel Weather",
+  "category-ids": ["github", "parse"],
+  "description": "Pixel Weather provides users with real-time weather and location information, complemented by AI-generated images that adapt to the current weather conditions. All of this is presented in a charming pixel font.",
+  "source": "https://github.com/YusuFKaan48/PixelWeather",   
+  "stars": 4,     
+  "tags": ["swift"],
+  "screenshots": ["https://github.com/YusuFKaan48/PixelWeather/assets/111217286/b2d03a5a-ee9b-4ee6-8275-f3e7c26b7601"],
+  "date_added": "Sep 3 2024",
+  "suggested_by": "@github_YusuFKaan48"
+}
   ]
 }
