@@ -19718,10 +19718,10 @@
       ],
       "tags": [
         "react-native",
-        "ipad"
+        "ipad", "archive"
       ],
       "description": "Learn languages using popular methods such as spaced repetition",
-      "source": "https://github.com/ulangi/ulangi",
+      "source": "https://github.com/subconcept-labs/ulangi",
       "itunes": "https://apps.apple.com/app/id1435524341",
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/06bb7b52-5b66-4825-ae95-489e634b05dd"
