@@ -31835,5 +31835,27 @@
   "date_added": "Sep 3 2024",
   "suggested_by": "@github_YusuFKaan48"
 }
+    {
+  "title": "News",
+  "category-ids": ["news"],
+  "description": "The news app, designed with a minimalist approach, not only delivers global news but also offers user-friendly filters for a personalized reading experience.",
+  "source": "https://github.com/YusuFKaan48/News",   
+  "stars": 2,     
+  "tags": ["swift"],
+  "screenshots": ["https://github.com/YusuFKaan48/News/assets/111217286/dc81e7ff-e58b-4a4d-8526-f2f75fd957a0"],
+  "date_added": "Sep 3 2024",
+  "suggested_by": "@github_YusuFKaan48"
+}
+    {
+  "title": "NeuCalc",
+  "category-ids": ["calculator"],
+  "description": "This project showcases a mobile application developed using React Native, embracing the neumorphism design language to deliver a modern, soft, and intuitive user experience.",
+  "source": "https://github.com/YusuFKaan48/NeuCalc",   
+  "stars": 0,     
+  "tags": ["react-native"],
+  "screenshots": ["https://github.com/user-attachments/assets/d3ab64f6-5128-47fc-a602-3703e7efa235"],
+  "date_added": "Sep 3 2024",
+  "suggested_by": "@github_YusuFKaan48"
+}
   ]
 }
