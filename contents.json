@@ -31826,7 +31826,7 @@
 
 {
   "title": "Pixel Weather",
-  "category-ids": ["github", "parse"],
+  "category-ids": ["weather"],
   "description": "Pixel Weather provides users with real-time weather and location information, complemented by AI-generated images that adapt to the current weather conditions. All of this is presented in a charming pixel font.",
   "source": "https://github.com/YusuFKaan48/PixelWeather",   
   "stars": 4,     
