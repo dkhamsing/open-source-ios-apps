@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1549-green.svg) ![](https://img.shields.io/badge/Updated-September%20%203,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1549-green.svg) ![](https://img.shields.io/badge/Updated-September%20%204,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1083,10 +1083,6 @@ Jump to
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3d7acd3a-fcf5-4c72-b3ae-f14a397eab8f'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `chatgpt` 
   -  ☆`34` 
-- [Ulangi](https://github.com/ulangi/ulangi): Learn languages using popular methods such as spaced repetition
-  - [` App Store`](https://apps.apple.com/app/id1435524341) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/06bb7b52-5b66-4825-ae95-489e634b05dd'>`Screenshot 1`</a> 
-  -  `2023` `react-native` `ipad` 
-  -  ☆`440` 
 - [WaniKani](https://github.com/haawa799/-WaniKani2): Learn kanji with https://www.wanikani.com/
   - [` App Store`](https://apps.apple.com/app/wanikani/id1034355141) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/65/6a/dc656a24-e549-d4b0-f663-e479fa96a396/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/74/47/3c/74473cb9-dd3a-666b-67f3-807f12d8940d/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d0/b3/cc/d0b3cc28-62fa-7f48-8fb4-dd695e695d94/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/24/1f/af/241faf70-86e5-abc3-10e4-6a2872d369b9/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2017` `swift` 
