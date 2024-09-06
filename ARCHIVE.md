@@ -114,6 +114,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [ComicFlow](https://github.com/swisspol/ComicFlow)
 - [Communiqué](https://github.com/zadr/Communique)
 - [Compass](https://github.com/zntfdr/Compass)
+- [Concentration game (翻翻看)](https://github.com/duquewu/FanFanSwift)
 - [Concertino](https://github.com/opensourceios/concertino_ios)
 - [Concurrency](https://github.com/opensourceios/Concurrency)
 - [ConfFriends](https://github.com/ay8s/ConfFriends)
