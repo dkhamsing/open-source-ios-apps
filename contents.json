@@ -31827,7 +31827,7 @@
 {
   "title": "Pixel Weather",
   "category-ids": ["weather"],
-  "description": "Pixel Weather provides users with real-time weather and location information, complemented by AI-generated images that adapt to the current weather conditions. All of this is presented in a charming pixel font.",
+  "description": "Provides users with real-time weather and location information, complemented by AI-generated images that adapt to the current weather conditions (all of this is presented in a charming pixel font)",
   "source": "https://github.com/YusuFKaan48/PixelWeather",   
   "stars": 4,     
   "tags": ["swift"],
@@ -31838,7 +31838,7 @@
     {
   "title": "News",
   "category-ids": ["news"],
-  "description": "The news app, designed with a minimalist approach, not only delivers global news but also offers user-friendly filters for a personalized reading experience.",
+  "description": "Designed with a minimalist approach, delivers global news and offers user-friendly filters for a personalized reading experience",
   "source": "https://github.com/YusuFKaan48/News",   
   "stars": 2,     
   "tags": ["swift"],
@@ -31849,7 +31849,7 @@
     {
   "title": "NeuCalc",
   "category-ids": ["calculator"],
-  "description": "This project showcases a mobile application developed using React Native, embracing the neumorphism design language to deliver a modern, soft, and intuitive user experience.",
+  "description": "Embraces the neumorphism design language to deliver a modern, soft, and intuitive user experience",
   "source": "https://github.com/YusuFKaan48/NeuCalc",   
   "stars": 0,     
   "tags": ["react-native"],
