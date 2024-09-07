@@ -31807,7 +31807,7 @@
       "updated": "2024-07-09 13:06:28 UTC"
     },
     {
-      "title": "SymbolView for SF Symbols",
+      "title": "SymbolGrid for SF Symbols",
       "category-ids": [
         "developer"
       ],
@@ -31816,7 +31816,8 @@
         "macos",
         "visionos"
       ],
-      "source": "https://github.com/dl-alexandre/SymbolView",
+      "source": "https://github.com/dl-alexandre/SymbolGrid",
+      "itunes": "https://apps.apple.com/app/symbolgrid/id1640916135",
       "license": "mit",
       "date_added": "July 16 2024",
       "suggested_by": "@dl-alexandre",
