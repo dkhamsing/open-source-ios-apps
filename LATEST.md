@@ -9,7 +9,7 @@
 5. [OpenAI Wrapper](https://github.com/adamlyttleapps/OpenAI-Wrapper-SwiftUI)
 6. [OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker)
 7. [Destination Video](https://developer.apple.com/documentation/visionos/destination-video)
-8. [SymbolView for SF Symbols](https://github.com/dl-alexandre/SymbolView)
+8. [SymbolGrid for SF Symbols](https://github.com/dl-alexandre/SymbolGrid)
 9. [Controllers](https://github.com/yuripetrosyan/Controllers)
 10. [BOT-anist](https://developer.apple.com/documentation/visionos/bot-anist)
 11. [SneakerShop](https://github.com/c-villain/SneakerShop)
