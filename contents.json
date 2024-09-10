@@ -31876,6 +31876,26 @@
       "date_added": "Sep 4, 2024",
       "suggested_by": "@dkhamsing"
       
-    }    
+    },
+    {
+      "title": "iOS-MVVM-Clean-Architecture",
+      "category-ids": [
+        "sample"
+      ],
+      "description": "Example app designed using MVVM-C and Clean Architecture. Uses Swift Concurrency.”,
+      "source": "https://github.com/denissimon/iOS-MVVM-Clean-Architecture",
+      "license": "mit",
+      "stars": 20,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/1_iOS-MVVM-Clean-Architecture.png",
+        "https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/2_iOS-MVVM-Clean-Architecture.png",
+        "https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/3_iOS-MVVM-Clean-Architecture.png"
+      ],
+      "date_added": "Sep 10 2024",
+      "suggested_by": "@denissimon"
+    }
   ]
 }
