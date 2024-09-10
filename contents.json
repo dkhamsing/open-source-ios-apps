@@ -31896,6 +31896,27 @@
       ],
       "date_added": "Sep 10 2024",
       "suggested_by": "@denissimon"
+    },
+    {
+      "title": "Cryptocurrency Info",
+      "category-ids": [
+        "cryptocurrency"
+      ],
+      "description": "Shows cryptocurrency prices and other related info using Messari API”,
+      "source": "https://github.com/denissimon/Cryptocurrency-Info",
+      "license": "mit",
+      "stars": 3,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/1_Cryptocurrency-Info.png",
+        "https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/2_Cryptocurrency-Info.png",
+        "https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/3_Cryptocurrency-Info.png",
+        "https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/4_Cryptocurrency-Info.png"
+      ],
+      "date_added": "Sep 10 2024",
+      "suggested_by": "@denissimon"
     }
   ]
 }
