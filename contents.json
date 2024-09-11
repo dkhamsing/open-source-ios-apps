@@ -31921,7 +31921,6 @@
     {
       "title": "Distributed Model Training",
       "category-ids": [
-        "developer",
         "sample"
       ],
       "description": "Approach to implementing distributed training of an ML model: server/device training for iOS",
