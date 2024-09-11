@@ -31882,7 +31882,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Example app designed using MVVM-C and Clean Architecture. Uses Swift Concurrency.”,
+      "description": "Example app designed using MVVM-C and Clean Architecture. Uses Swift Concurrency.",
       "source": "https://github.com/denissimon/iOS-MVVM-Clean-Architecture",
       "license": "mit",
       "stars": 20,
@@ -31902,7 +31902,7 @@
       "category-ids": [
         "cryptocurrency"
       ],
-      "description": "Shows cryptocurrency prices and other related info using Messari API”,
+      "description": "Shows cryptocurrency prices and other related info using Messari API",
       "source": "https://github.com/denissimon/Cryptocurrency-Info",
       "license": "mit",
       "stars": 3,
@@ -31924,7 +31924,7 @@
         "developer",
         "sample"
       ],
-      "description": "Approach to implementing distributed training of an ML model: server/device training for iOS”,
+      "description": "Approach to implementing distributed training of an ML model: server/device training for iOS",
       "source": "https://github.com/denissimon/distributed-model-training",
       "license": "mit",
       "stars": 5,
