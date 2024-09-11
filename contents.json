@@ -31876,6 +31876,65 @@
       "date_added": "Sep 4, 2024",
       "suggested_by": "@dkhamsing"
       
-    }    
+    },
+    {
+      "title": "iOS-MVVM-Clean-Architecture",
+      "category-ids": [
+        "sample"
+      ],
+      "description": "Example app designed using MVVM-C and Clean Architecture. Uses Swift Concurrency.",
+      "source": "https://github.com/denissimon/iOS-MVVM-Clean-Architecture",
+      "license": "mit",
+      "stars": 20,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/1_iOS-MVVM-Clean-Architecture.png",
+        "https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/2_iOS-MVVM-Clean-Architecture.png",
+        "https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/3_iOS-MVVM-Clean-Architecture.png"
+      ],
+      "date_added": "Sep 10 2024",
+      "suggested_by": "@denissimon"
+    },
+    {
+      "title": "Cryptocurrency Info",
+      "category-ids": [
+        "cryptocurrency"
+      ],
+      "description": "Shows cryptocurrency prices and other related info using Messari API",
+      "source": "https://github.com/denissimon/Cryptocurrency-Info",
+      "license": "mit",
+      "stars": 3,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/1_Cryptocurrency-Info.png",
+        "https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/2_Cryptocurrency-Info.png",
+        "https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/3_Cryptocurrency-Info.png",
+        "https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/4_Cryptocurrency-Info.png"
+      ],
+      "date_added": "Sep 10 2024",
+      "suggested_by": "@denissimon"
+    },
+    {
+      "title": "Distributed Model Training",
+      "category-ids": [
+        "sample"
+      ],
+      "description": "Approach to implementing distributed training of an ML model: server/device training for iOS",
+      "source": "https://github.com/denissimon/distributed-model-training",
+      "license": "mit",
+      "stars": 5,
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/denissimon/distributed-model-training/master/Images/iOS-app-screenshot.png"
+      ],
+      "date_added": "Sep 10 2024",
+      "suggested_by": "@denissimon"
+    }
   ]
 }
