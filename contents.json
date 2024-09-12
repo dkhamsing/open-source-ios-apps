@@ -31935,6 +31935,22 @@
       ],
       "date_added": "Sep 10 2024",
       "suggested_by": "@denissimon"
-    }
+    },
+    {
+    "title": "Pet Note",
+    "category-ids": [
+        "notes",
+        "shopping",
+        "weather"
+    ],
+    "description": "Record the life of pets~",
+    "source": "https://github.com/XunMengWinter/PetNote-oss",
+    "itunes": "https://apps.apple.com/app/id6657973126",
+    "screenshots": [
+        "https://mymx2-oss.oss-cn-shanghai.aliyuncs.com/doc/img-aichongshe-oss-demo.jpg"
+    ],
+    "date_added": "Sep 13 2024",
+    "suggested_by": "@XunMengWinter"
+  }  
   ]
 }
