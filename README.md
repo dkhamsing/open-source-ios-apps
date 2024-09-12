@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1553-green.svg) ![](https://img.shields.io/badge/Updated-September%2011,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1553-green.svg) ![](https://img.shields.io/badge/Updated-September%2012,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1472,7 +1472,7 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/breadwallet/id885251393) <a href='https://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`641` 
-- [Cryptocurrency Info](https://github.com/denissimon/Cryptocurrency-Info): Shows cryptocurrency prices and other related info using Messari API
+- [Cryptocurrency Info](https://github.com/denissimon/Cryptocurrency-Info): Cryptocurrency prices and other related info using the Messari API
   -  <a href='https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/1_Cryptocurrency-Info.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/2_Cryptocurrency-Info.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/3_Cryptocurrency-Info.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/4_Cryptocurrency-Info.png'>`Screenshot 4`</a> 
   - `swift` 
   -  ☆`3` 
@@ -2987,7 +2987,7 @@ https://newsapi.org/ — [back to top](#readme)
 - [Demo](https://github.com/ivan-magda/ios-demo)
   -  `2020` `swift` 
   -  ☆`1` 
-- [Distributed Model Training](https://github.com/denissimon/distributed-model-training): Approach to implementing distributed training of an ML model: server/device training for iOS
+- [Distributed Model Training](https://github.com/denissimon/distributed-model-training): Distributed training of an ML model (server/device training)
   -  <a href='https://raw.githubusercontent.com/denissimon/distributed-model-training/master/Images/iOS-app-screenshot.png'>`Screenshot 1`</a> 
   - `swift` 
   -  ☆`5` 
@@ -3016,7 +3016,7 @@ https://newsapi.org/ — [back to top](#readme)
 - [iCloudCoreDataStarter](https://github.com/jazzychad/iCloudCoreDataStarter): Example Xcode project for Core Data + iCloud syncing
   -  `2022` `swift` `coredata` 
   -  ☆`537` 
-- [iOS-MVVM-Clean-Architecture](https://github.com/denissimon/iOS-MVVM-Clean-Architecture): Example app designed using MVVM-C and Clean Architecture. Uses Swift Concurrency.
+- [iOS-MVVM-Clean-Architecture](https://github.com/denissimon/iOS-MVVM-Clean-Architecture): Uses MVVM-C, Clean Architecture and Swift Concurrency
   -  <a href='https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/1_iOS-MVVM-Clean-Architecture.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/2_iOS-MVVM-Clean-Architecture.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/3_iOS-MVVM-Clean-Architecture.png'>`Screenshot 3`</a> 
   - `swift` 
   -  ☆`20` 
