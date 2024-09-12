@@ -31939,11 +31939,13 @@
     {
     "title": "Pet Note",
     "category-ids": [
-        "notes",
-        "shopping",
-        "weather"
+        "notes"
     ],
-    "description": "Record the life of pets~",
+      "tags": [
+        "swift", "swiftui"
+      ],
+       "license": "mit",
+    "description": "Record the life of pets",
     "source": "https://github.com/XunMengWinter/PetNote-oss",
     "itunes": "https://apps.apple.com/app/id6657973126",
     "screenshots": [
