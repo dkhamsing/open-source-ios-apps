@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1554-green.svg) ![](https://img.shields.io/badge/Updated-September%2012,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1554-green.svg) ![](https://img.shields.io/badge/Updated-September%2013,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1112,7 +1112,7 @@ Jump to
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/cb26c188-371e-42b4-ba96-7cb7d79b5c6d'>`Screenshot 1`</a> 
   - `objc` 
 - [iAmiga (iUAE)](https://github.com/emufreak/iAmiga): Commodore Amiga emulator, based on UAE
-  -  <a href='https://moreinfo.thebigboss.org/moreinfo/iuae1.jpg'>`Screenshot 1`</a>  <a href='https://moreinfo.thebigboss.org/moreinfo/iuae4.jpg'>`Screenshot 2`</a> 
+  -  <a href='https://github.com/user-attachments/assets/71c86e15-7050-4a11-9393-ac8ea5d340c6'>`Screenshot 1`</a>  <a href='https://github.com/user-attachments/assets/c4b6e324-0071-4d2f-a4fb-52c814b953c4'>`Screenshot 2`</a> 
   -  `2018` `objc` 
   -  ☆`47` 
 - [iSH](https://github.com/ish-app/ish): Linux shell
