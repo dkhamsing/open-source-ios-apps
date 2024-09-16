@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1554-green.svg) ![](https://img.shields.io/badge/Updated-September%2013,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1554-green.svg) ![](https://img.shields.io/badge/Updated-September%2016,%202024-lightgrey.svg)
 
 Jump to
 
@@ -241,10 +241,6 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/lazerwalker/cortado/master/screenshots/notif-6.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/lazerwalker/cortado/master/screenshots/notif-swipe-6.png'>`Screenshot 2`</a> 
   -  `2019` `objc` 
   -  ☆`169` 
-- [Done](https://github.com/FancyPixel/done-swift): To-do list data sharing between extension & main app
-  -  <a href='https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif'>`Screenshot 1`</a> 
-  -  `2017` `swift` `realm` `watchkit` 
-  -  ☆`148` 
 - [Giovanni](https://github.com/gabrieloc/GIOVANNI): Gameboy emulator for the Apple Watch
   -  <a href='https://github.com/gabrieloc/GIOVANNI/blob/master/gameplay.gif?raw=true'>`Screenshot 1`</a> 
   -  `2019` `swift` 
@@ -4514,10 +4510,6 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
 https://realm.io/ — [back to top](#readme) 
  
 
-- [Done](https://github.com/FancyPixel/done-swift): To-do list data sharing between extension & main app
-  -  <a href='https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif'>`Screenshot 1`</a> 
-  -  `2017` `swift` `realm` `watchkit` 
-  -  ☆`148` 
 - [how-much](https://github.com/dkhamsing/how-much): Record how much things cost
   -  <a href='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'>`Screenshot 1`</a> 
   -  `2017` `parse` `firebase` `realm` 
