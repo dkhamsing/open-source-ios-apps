@@ -767,7 +767,7 @@
       "tags": [
         "swift",
         "realm",
-        "watchkit"
+        "watchkit", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif"
