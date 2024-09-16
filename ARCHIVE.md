@@ -140,6 +140,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [DinnerRoll](https://github.com/DinnerRollApp/iOS)
 - [DoctorNearby](https://github.com/vincezzh/doctornearby-ios)
 - [Dollar Bets](https://github.com/Rich86man/Dollar-Bets)
+- [Done](https://github.com/FancyPixel/done-swift)
 - [Dono](https://github.com/opensourceios/dono-ios)
 - [Doppio](https://github.com/christianroman/Doppio)
 - [doughwallet](https://github.com/peritus/doughwallet)
