@@ -31953,6 +31953,26 @@
     ],
     "date_added": "Sep 13 2024",
     "suggested_by": "@XunMengWinter"
-  }  
+  },
+    {
+      "title": "Chronos Authenticator 2FA",
+      "category-ids": [
+        "password"
+      ],
+      "source": "https://github.com/joeldavidw/Chronos",
+      "itunes": "https://apps.apple.com/app/chronos-authenticator/id6503929490",
+      "screenshots": [
+        "https://github.com/joeldavidw/Chronos/raw/main/.github/assets/previews/4.png?raw=true"
+      ],
+      "tags": [
+        "swift",
+        "2fa"
+      ],
+      "license": "agpl-3.0",
+      "date_added": "Sep 16 2024",
+      "license": "mit",
+      "suggested_by": "@AtFreezingPoint",
+      "stars": 18       
+    }
   ]
 }
