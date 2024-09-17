@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1554-green.svg) ![](https://img.shields.io/badge/Updated-September%2016,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1555-green.svg) ![](https://img.shields.io/badge/Updated-September%2017,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3267,6 +3267,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ac13c51f-580b-40e6-b1ff-c90b9ee6f4e2'>`Screenshot 1`</a> 
   -  `2024` `csharp` 
   -  ☆`63` 
+- [Chronos Authenticator 2FA](https://github.com/joeldavidw/Chronos)
+  - [` App Store`](https://apps.apple.com/app/chronos-authenticator/id6503929490) <a href='https://github.com/joeldavidw/Chronos/raw/main/.github/assets/previews/4.png?raw=true'>`Screenshot 1`</a> 
+  - `swift` `2fa` 
+  -  ☆`18` 
 - [einmal](https://github.com/incipher/einmal): Minimalistic and secure two-factor authentication
   -  <a href='https://user-images.githubusercontent.com/11808903/80574717-a457b300-8a02-11ea-915e-db7cd98740f2.png'>`Screenshot 1`</a> 
   -  `2022` `react-native` `2fa` 
