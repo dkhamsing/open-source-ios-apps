@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **333** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **334** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1569,6 +1569,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ac13c51f-580b-40e6-b1ff-c90b9ee6f4e2'>`Screenshot 1`</a> 
   -  `2024` `csharp` 
   -  ☆`63` 
+- [Chronos Authenticator 2FA](https://github.com/joeldavidw/Chronos)
+  - [` App Store`](https://apps.apple.com/app/chronos-authenticator/id6503929490) <a href='https://github.com/joeldavidw/Chronos/raw/main/.github/assets/previews/4.png?raw=true'>`Screenshot 1`</a> 
+  - `swift` `2fa` 
+  -  ☆`18` 
 - [FreeOTP Authenticator](https://github.com/freeotp/freeotp-ios): Two-Factor Authentication
   - [` App Store`](https://apps.apple.com/app/freeotp/id872559395) <a href='https://user-images.githubusercontent.com/4723115/146823923-adf76295-18e8-43e5-8d75-27ef5a8c0822.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `2fa` `moa` 
