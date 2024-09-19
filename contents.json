@@ -7069,9 +7069,9 @@
       ],
       "description": "Songbook for Luxembourgish students",
       "lang": "ltz",
-      "source": "https://github.com/AcelLuxembourg/LidderbuchApp",
+      "source": "https://github.com/opensourceios/LidderbuchApp",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "stars": 9,
       "license": "mit",
