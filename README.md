@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1555-green.svg) ![](https://img.shields.io/badge/Updated-September%2018,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1555-green.svg) ![](https://img.shields.io/badge/Updated-September%2019,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2380,10 +2380,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/latest.png'>`Screenshot 1`</a>  <a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/search.png'>`Screenshot 2`</a>  <a href='https://github.com/MartinStamenkovski/LibraryGenesis/blob/master/Screenshot/preview.png'>`Screenshot 3`</a> 
   -  `2021` `swift` 
   -  ☆`54` 
-- [LidderbuchApp](https://github.com/AcelLuxembourg/LidderbuchApp): Songbook for Luxembourgish students
-  -  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/80/e9/b6/80e9b600-72e3-3e8e-d3b0-5c13fdf14e9c/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/da/41/08/da4108a2-eaf0-77d2-fb06-b8d6681dae04/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/05/c9/51/05c951c9-2276-0228-4642-4ed19c4b7f1a/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/64/9b/c4/649bc454-3911-5de4-d57b-8f016ac9bf68/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2018` `swift` 
-  -  ☆`9` 
 - [Marvel Comics](https://github.com/thiagolioy/marvelapp)
   -  <a href='https://github.com/thiagolioy/marvelapp/blob/master/assets/marvel_screens.png?raw=true'>`Screenshot 1`</a> 
   -  `2017` `swift` `moya` `rxswift` `dollar` `kingfisher` `quick` `nimble` 
