@@ -257,6 +257,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Layer-Parse](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example)
 - [Legend-Wings](https://github.com/woguan/Legend-Wings)
 - [Letters](https://github.com/jessegrosjean/letters.iphone)
+- [LidderbuchApp](https://github.com/opensourceios/LidderbuchApp)
 - [Light-Jockey](https://github.com/jmfieldman/Light-Jockey)
 - [Link Keyboard : My Links Everywhere](https://github.com/ayushgoel/LinkKeyboard)
 - [Lister](https://developer.apple.com/library/content/samplecode/Lister/Introduction/Intro.html)
