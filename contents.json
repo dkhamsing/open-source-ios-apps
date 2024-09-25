@@ -31973,6 +31973,24 @@
       "license": "mit",
       "suggested_by": "@AtFreezingPoint",
       "stars": 18       
-    }
+    },
+    {
+      "title": "Enhancing your app’s content with tab navigation",
+      "description": "Sample code by Apple",
+      "category-ids": [
+        "sample"
+      ],
+      "source": "https://developer.apple.com/documentation/swiftui/enhancing-your-app-content-with-tab-navigation",       
+      "screenshots": [
+        "https://github.com/user-attachments/assets/ab863403-f676-4c42-b209-ee817165da41",
+        "https://github.com/user-attachments/assets/931f631e-e01a-4e01-a483-5dc139d22328"
+      ],
+      "tags": [
+        "swift", "swiftui"
+      ],
+      "date_added": "Sep 16 2024",
+      "license": "other",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
