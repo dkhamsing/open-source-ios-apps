@@ -2,7 +2,7 @@
 
 ## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
-1. [Enhancing your app’s content with tab navigation](https://developer.apple.com/documentation/swiftui/enhancing-your-app-content-with-tab-navigation)
+1. [Enhancing content with tab navigation](https://developer.apple.com/documentation/swiftui/enhancing-your-app-content-with-tab-navigation)
 2. [Chronos Authenticator 2FA](https://github.com/joeldavidw/Chronos)
 3. [Pet Note](https://github.com/XunMengWinter/PetNote-oss)
 4. [Distributed Model Training](https://github.com/denissimon/distributed-model-training)
