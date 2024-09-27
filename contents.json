@@ -31833,7 +31833,7 @@
       "category-ids": [
         "weather"
       ],
-      "description": "Provides users with real-time weather and location information, complemented by AI-generated images that adapt to the current weather conditions (all of this is presented in a charming pixel font)",
+      "description": "Provides real-time weather and location information, complemented by AI-generated images that adapt to the current weather conditions",
       "source": "https://github.com/YusuFKaan48/PixelWeather",
       "stars": 5,
       "tags": [
@@ -31869,7 +31869,7 @@
       "category-ids": [
         "calculator"
       ],
-      "description": "Embraces the neumorphism design language to deliver a modern, soft, and intuitive user experience",
+      "description": "Embraces the neumorphism design language to deliver a modern, soft and intuitive user experience",
       "source": "https://github.com/YusuFKaan48/NeuCalc",
       "stars": 0,
       "tags": [
@@ -31929,7 +31929,7 @@
       "category-ids": [
         "cryptocurrency"
       ],
-      "description": "Cryptocurrency prices and other related info using the Messari API",
+      "description": "Prices and other related info using the Messari API",
       "source": "https://github.com/denissimon/Cryptocurrency-Info",
       "license": "mit",
       "stars": 4,
@@ -32007,7 +32007,7 @@
       "updated": "2024-08-09 06:47:13 UTC"
     },
     {
-      "title": "Enhancing your app’s content with tab navigation",
+      "title": "Enhancing content with tab navigation",
       "description": "Sample code by Apple",
       "category-ids": [
         "sample"
