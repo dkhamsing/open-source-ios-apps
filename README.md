@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1556-green.svg) ![](https://img.shields.io/badge/Updated-September%2026,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1556-green.svg) ![](https://img.shields.io/badge/Updated-September%2027,%202024-lightgrey.svg)
 
 Jump to
 
@@ -414,7 +414,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/hexacalc/id1529225315) <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveHex.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveBin.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveDec.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/DefaultSettings.png'>`Screenshot 4`</a> 
   -  `2024` `swift` `coredata` 
   -  ☆`42` 
-- [NeuCalc](https://github.com/YusuFKaan48/NeuCalc): Embraces the neumorphism design language to deliver a modern, soft, and intuitive user experience
+- [NeuCalc](https://github.com/YusuFKaan48/NeuCalc): Embraces the neumorphism design language to deliver a modern, soft and intuitive user experience
   -  <a href='https://github.com/user-attachments/assets/d3ab64f6-5128-47fc-a602-3703e7efa235'>`Screenshot 1`</a> 
   -  `2024` `react-native` 
 - [Round & Split](https://github.com/lukhnos/roundandsplit): Tip Calculator
@@ -1468,7 +1468,7 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/breadwallet/id885251393) <a href='https://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`639` 
-- [Cryptocurrency Info](https://github.com/denissimon/Cryptocurrency-Info): Cryptocurrency prices and other related info using the Messari API
+- [Cryptocurrency Info](https://github.com/denissimon/Cryptocurrency-Info): Prices and other related info using the Messari API
   -  <a href='https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/1_Cryptocurrency-Info.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/2_Cryptocurrency-Info.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/3_Cryptocurrency-Info.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/4_Cryptocurrency-Info.png'>`Screenshot 4`</a> 
   -  `2024` `swift` 
   -  ☆`4` 
@@ -2987,7 +2987,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/170948/190398276-91af47a8-239c-4190-8fef-3954bf4ac8fa.gif'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`494` 
-- [Enhancing your app’s content with tab navigation](https://developer.apple.com/documentation/swiftui/enhancing-your-app-content-with-tab-navigation): Sample code by Apple
+- [Enhancing content with tab navigation](https://developer.apple.com/documentation/swiftui/enhancing-your-app-content-with-tab-navigation): Sample code by Apple
   -  <a href='https://github.com/user-attachments/assets/ab863403-f676-4c42-b209-ee817165da41'>`Screenshot 1`</a>  <a href='https://github.com/user-attachments/assets/931f631e-e01a-4e01-a483-5dc139d22328'>`Screenshot 2`</a> 
   - `swift` `swiftui` 
 - [Exploring SwiftUI Sample Apps by Apple](https://developer.apple.com/tutorials/sample-apps)
@@ -3593,7 +3593,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `combine` 
   -  ☆`466` 
-- [Pixel Weather](https://github.com/YusuFKaan48/PixelWeather): Provides users with real-time weather and location information, complemented by AI-generated images that adapt to the current weather conditions (all of this is presented in a charming pixel font)
+- [Pixel Weather](https://github.com/YusuFKaan48/PixelWeather): Provides real-time weather and location information, complemented by AI-generated images that adapt to the current weather conditions
   -  <a href='https://github.com/YusuFKaan48/PixelWeather/assets/111217286/b2d03a5a-ee9b-4ee6-8275-f3e7c26b7601'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`5` 
