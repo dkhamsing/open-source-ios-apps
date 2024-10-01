@@ -32024,6 +32024,24 @@
       "date_added": "Sep 16 2024",
       "license": "other",
       "suggested_by": "@dkhamsing"
-    }
+    },
+    {
+      "title": "Simulating physics joints",
+      "description": "Sample code by Apple",
+      "category-ids": [
+        "sample"
+      ],
+      "source": "https://developer.apple.com/documentation/realitykit/simulating-physics-joints-in-your-realitykit-app",
+      "screenshots": [
+        "https://github.com/user-attachments/assets/ccffdd48-37f5-4724-9b1e-7d53f9dcc84c"        
+      ],
+      "tags": [
+        "swift",
+        "realitykit"
+      ],
+      "date_added": "Oct 1 2024",
+      "license": "other",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
