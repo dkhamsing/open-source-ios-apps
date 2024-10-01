@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1556-green.svg) ![](https://img.shields.io/badge/Updated-September%2027,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1557-green.svg) ![](https://img.shields.io/badge/Updated-October%20%201,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3081,6 +3081,9 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`882` 
 - [Scrumdinger](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger): Example by Apple
   - `swift` `swiftui` 
+- [Simulating physics joints](https://developer.apple.com/documentation/realitykit/simulating-physics-joints-in-your-realitykit-app): Sample code by Apple
+  -  <a href='https://github.com/user-attachments/assets/ccffdd48-37f5-4724-9b1e-7d53f9dcc84c'>`Screenshot 1`</a> 
+  - `swift` `realitykit` 
 - [Siri Shortcut Example](https://github.com/CoyoteLab/Studies-Siri-Shortcut-iOS-13): Example project with Siri and Shortcuts (Handoff) in iOS 13
   -  <a href='https://github.com/CoyoteLab/Studies-Siri-Shortcut-iOS-13/blob/master/1_1.png?raw=true'>`Screenshot 1`</a> 
   -  `2019` `swift` 
