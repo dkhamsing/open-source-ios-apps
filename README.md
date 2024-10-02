@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1557-green.svg) ![](https://img.shields.io/badge/Updated-October%20%201,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1557-green.svg) ![](https://img.shields.io/badge/Updated-October%20%202,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3100,7 +3100,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/shagedorn/StateRestorationDemo/master/Presentation/app_screenshot.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`49` 
-- [Swift-Demos](https://github.com/Lax/Learn-iOS-Swift-by-Examples): Mirror of Apple example code
+- [Swift-Demos](https://github.com/Lax/Learn-iOS-Swift-by-Examples): Mirror of Apple sample code
   -  `2023` `swift` 
   -  ☆`3730` 
 - [SwiftStrike](https://developer.apple.com/documentation/realitykit/swiftstrike_creating_a_game_with_realitykit): Sample code by Apple
