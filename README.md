@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1557-green.svg) ![](https://img.shields.io/badge/Updated-October%20%202,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1557-green.svg) ![](https://img.shields.io/badge/Updated-October%20%203,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3079,7 +3079,7 @@ https://newsapi.org/ — [back to top](#readme)
 - [Sample MVVM, Data Binding, Dependency Injection](https://github.com/igorkulman/iOSSampleApp)
   -  `2024` `swift` 
   -  ☆`882` 
-- [Scrumdinger](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger): Example by Apple
+- [Scrumdinger](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger): Sample code by Apple
   - `swift` `swiftui` 
 - [Simulating physics joints](https://developer.apple.com/documentation/realitykit/simulating-physics-joints-in-your-realitykit-app): Sample code by Apple
   -  <a href='https://github.com/user-attachments/assets/ccffdd48-37f5-4724-9b1e-7d53f9dcc84c'>`Screenshot 1`</a> 
