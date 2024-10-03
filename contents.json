@@ -987,7 +987,7 @@
       "category-ids": [
         "apple-watch"
       ],
-      "description": "List app example by Apple",
+      "description": "List app sample by Apple",
       "source": "https://developer.apple.com/library/content/samplecode/Lister/Introduction/Intro.html",
       "tags": [
         "swift",
@@ -30071,7 +30071,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "Example by Apple",
+      "description": "Sample code by Apple",
       "source": "https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger",
       "tags": [
         "swift",
