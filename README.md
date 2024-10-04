@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1557-green.svg) ![](https://img.shields.io/badge/Updated-October%20%203,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1557-green.svg) ![](https://img.shields.io/badge/Updated-October%20%204,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3008,7 +3008,7 @@ https://newsapi.org/ — [back to top](#readme)
 - [Homescreen Quick Actions](https://github.com/StewartLynch/Homescreen-Quick-Actions)
   -  `2022` `swift` 
   -  ☆`1` 
-- [iCloudCoreDataStarter](https://github.com/jazzychad/iCloudCoreDataStarter): Example Xcode project for Core Data + iCloud syncing
+- [iCloudCoreDataStarter](https://github.com/jazzychad/iCloudCoreDataStarter): Uses Core Data + iCloud syncing
   -  `2022` `swift` `coredata` 
   -  ☆`536` 
 - [iOS-MVVM-Clean-Architecture](https://github.com/denissimon/iOS-MVVM-Clean-Architecture): Uses MVVM-C, Clean Architecture and Swift Concurrency
@@ -3019,7 +3019,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/marty-suzuki/iOSDesignPatternSamples/blob/master/Images/app.gif?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/marty-suzuki/iOSDesignPatternSamples/blob/master/Images/diff.png?raw=true'>`Screenshot 2`</a> 
   -  `2021` `swift` `mvc` `mvp` `mvvm` `flux` `design-patterns` 
   -  ☆`690` 
-- [iOSSwiftMetalCamera](https://github.com/bradley/iOSSwiftMetalCamera): An example app showing how to use AVCaptureSession with Metal in Swift
+- [iOSSwiftMetalCamera](https://github.com/bradley/iOSSwiftMetalCamera): Shows how to use AVCaptureSession
   -  <a href='https://github.com/bradley/iOSSwiftMetalCamera/blob/master/no_shader.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/bradley/iOSSwiftMetalCamera/blob/master/shader.png?raw=true'>`Screenshot 2`</a> 
   -  `2017` `swift` `metal` 
   -  ☆`115` 
