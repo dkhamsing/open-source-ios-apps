@@ -6064,7 +6064,7 @@
         "swift",
         "2fa",
         "cloudkit",
-        "coredata"
+        "core-data"
       ],
       "stars": 30,
       "updated": "2022-09-15 16:32:21 UTC"
@@ -26972,7 +26972,7 @@
         "swift",
         "swiftui",
         "mapkit",
-        "coredata"
+        "core-data"
       ],
       "stars": 140,
       "updated": "2024-07-03 06:09:34 UTC"
@@ -27091,7 +27091,7 @@
       "suggested_by": "@dkhamsing",
       "tags": [
         "swift",
-        "coredata"
+        "core-data"
       ],
       "stars": 536,
       "updated": "2022-01-14 15:53:04 UTC"
@@ -27186,7 +27186,7 @@
       "tags": [
         "swift",
         "swiftui",
-        "coredata"
+        "core-data"
       ],
       "source": "https://github.com/jeffreybergier/Hipstapaper",
       "license": "mit",
@@ -27961,7 +27961,7 @@
       "suggested_by": "@dkhamsing",
       "tags": [
         "swift",
-        "coredata",
+        "core-data",
         "swiftui"
       ],
       "stars": 73,
@@ -28045,7 +28045,7 @@
       "suggested_by": "@AnthonyH93",
       "tags": [
         "swift",
-        "coredata"
+        "core-data"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveHex.png",
@@ -29038,7 +29038,7 @@
       "tags": [
         "swift",
         "alamofire",
-        "coredata"
+        "core-data"
       ],
       "license": "other",
       "source": "https://github.com/aleksandr-mor/Learning",
