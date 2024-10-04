@@ -17084,7 +17084,7 @@
       "category-ids": [
         "sample"
       ],
-      "description": "An example app showing how to use AVCaptureSession with Metal in Swift",
+      "description": "Shows how to use AVCaptureSession",
       "source": "https://github.com/bradley/iOSSwiftMetalCamera",
       "license": "other",
       "stars": 115,
@@ -27081,7 +27081,7 @@
     },
     {
       "title": "iCloudCoreDataStarter",
-      "description": "Example Xcode project for Core Data + iCloud syncing",
+      "description": "Uses Core Data + iCloud syncing",
       "category-ids": [
         "sample"
       ],
