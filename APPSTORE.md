@@ -205,7 +205,7 @@ Jump to
   -  ☆`284` 
 - [HexaCalc](https://github.com/AnthonyH93/HexaCalc): Programmer's calculator
   - [` App Store`](https://apps.apple.com/app/hexacalc/id1529225315) <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveHex.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveBin.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveDec.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/DefaultSettings.png'>`Screenshot 4`</a> 
-  -  `2024` `swift` `coredata` 
+  -  `2024` `swift` `core-data` 
   -  ☆`42` 
 - [Round & Split](https://github.com/lukhnos/roundandsplit): Tip Calculator
   - [` App Store`](https://apps.apple.com/app/round-split/id912288737) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/a9/92/1e/a9921e81-a138-5694-4970-14460572137b/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/40/d5/69/40d5698f-9a36-f7bc-ad27-e828e86b519f/pr_source.png/460x0w.jpg'>`Screenshot 2`</a> 
@@ -865,7 +865,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  ☆`95` 
 - [Go Cycling Tracker](https://github.com/AnthonyH93/GoCycling)
   - [` App Store`](https://apps.apple.com/app/go-cycling/id1565861313) <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/3.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/5.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/6.png'>`Screenshot 4`</a> 
-  -  `2024` `swift` `swiftui` `mapkit` `coredata` 
+  -  `2024` `swift` `swiftui` `mapkit` `core-data` 
   -  ☆`140` 
 - [Good Spirits](https://github.com/archagon/good-spirits): Drink tracker with weekly limits (supports Untappd support and HealthKit)
   - [` App Store`](https://apps.apple.com/app/good-spirits/id1434237439) <a href='https://github.com/archagon/good-spirits/raw/master/screen1.png'>`Screenshot 1`</a>  <a href='https://github.com/archagon/good-spirits/raw/master/screen2.png'>`Screenshot 2`</a>  <a href='https://github.com/archagon/good-spirits/raw/master/screen3.png'>`Screenshot 3`</a> 
@@ -1588,7 +1588,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`1140` 
 - [OakOTP](https://github.com/AlexCatch/Oak): Two-Factor Authentication app built with SwiftUI
   - [` App Store`](https://apps.apple.com/app/oakotp/id1567761178) <a href='https://raw.githubusercontent.com/AlexCatch/Oak/master/DesignAssets/accounts.png'>`Screenshot 1`</a>  <a href='https://github.com/AlexCatch/Oak/raw/master/DesignAssets/setup.png'>`Screenshot 2`</a>  <a href='https://github.com/AlexCatch/Oak/raw/master/DesignAssets/new.png'>`Screenshot 3`</a> 
-  -  `2022` `swift` `2fa` `cloudkit` `coredata` 
+  -  `2022` `swift` `2fa` `cloudkit` `core-data` 
   -  ☆`30` 
 - [Pass](https://github.com/mssun/passforios): Client for the Pass command line app https://www.passwordstore.org/
   - <a href=https://mssun.github.io/passforios/>`https://mssun.github.io/passforios/`</a>
@@ -1889,7 +1889,7 @@ https://joinmastodon.org — [back to top](#readme)
 
 - [Go Cycling Tracker](https://github.com/AnthonyH93/GoCycling)
   - [` App Store`](https://apps.apple.com/app/go-cycling/id1565861313) <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/3.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/5.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/6.png'>`Screenshot 4`</a> 
-  -  `2024` `swift` `swiftui` `mapkit` `coredata` 
+  -  `2024` `swift` `swiftui` `mapkit` `core-data` 
   -  ☆`140` 
 - [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc): Keep track of your GPA
   - [` App Store`](https://apps.apple.com/app/gradecalc-gpa-calculator/id1502912052) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
@@ -1897,7 +1897,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  ☆`44` 
 - [HexaCalc](https://github.com/AnthonyH93/HexaCalc): Programmer's calculator
   - [` App Store`](https://apps.apple.com/app/hexacalc/id1529225315) <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveHex.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveBin.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveDec.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/DefaultSettings.png'>`Screenshot 4`</a> 
-  -  `2024` `swift` `coredata` 
+  -  `2024` `swift` `core-data` 
   -  ☆`42` 
 ### Firebase 
  
