@@ -32042,6 +32042,25 @@
       "date_added": "Oct 1 2024",
       "license": "other",
       "suggested_by": "@dkhamsing"
-    }    
+    },
+    {
+      "title": "fullmoon",
+      "description": "Chat with private and local large language models",
+      "category-ids": [
+        "swiftui"
+      ],
+      "source": "https://github.com/mainframecomputer/fullmoon-ios",
+      "screenshots": [
+        "https://fullmoon.app/images/app.png"
+      ],
+      "tags": [
+        "swift",
+        "swiftui", 
+        "mlx"
+      ],
+      "date_added": "Oct 9 2024",
+      "license": "mit",
+      "suggested_by": "@dkhamsing"
+    }
   ]
 }
