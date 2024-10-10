@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1557-green.svg) ![](https://img.shields.io/badge/Updated-October%20%206,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1558-green.svg) ![](https://img.shields.io/badge/Updated-October%2010,%202024-lightgrey.svg)
 
 Jump to
 
@@ -4771,6 +4771,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://media.giphy.com/media/ib9hnrPzudBWOE5hTr/giphy.gif'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`43` 
+- [fullmoon](https://github.com/mainframecomputer/fullmoon-ios): Chat with private and local large language models
+  -  <a href='https://fullmoon.app/images/app.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `mlx` 
 - [GitHub User Search](https://github.com/ra1028/SwiftUI-Combine)
   -  <a href='https://github.com/ra1028/SwiftUI-Combine/raw/master/assets/sample.png'>`Screenshot 1`</a> 
   -  `2019` `swift` `swiftui` `combine` 
