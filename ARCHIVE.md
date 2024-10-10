@@ -374,6 +374,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [prankPro](https://github.com/huijimuhe/prankPro)
 - [Prefacto for prime numbers](https://github.com/opensourceios/prefacto)
 - [Prey](https://github.com/prey/prey-swift-client)
+- [PrivacyBlur](https://github.com/opensourceios/privacyblur)
 - [Product Catalogue](https://github.com/contentful/product-catalogue-swift)
 - [Product Kitty](https://github.com/rkho/product-kitty)
 - [projectM](https://sourceforge.net/projects/projectm/)
