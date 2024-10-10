@@ -12291,7 +12291,7 @@
         "photo"
       ],
       "description": "Obfuscate sensitive data in your pictures before sharing them online. ",
-      "source": "https://github.com/MATHEMA-GmbH/privacyblur",
+      "source": "https://github.com/opensourceios/privacyblur",
       "homepage": "https://privacyblur.app/",
       "itunes": "https://apps.apple.com/app/privacyblur/id1536274106",
       "license": "mit",
@@ -12299,6 +12299,9 @@
       "screenshots": [
         "https://privacyblur.app/assets/case_9.png",
         "https://privacyblur.app/assets/case_2.png"
+      ],
+       "tags": [
+        "archive"
       ],
       "date_added": "Mar 18 2022",
       "suggested_by": "@aarontorres0",
