@@ -32066,6 +32066,24 @@
       "suggested_by": "@dkhamsing",
       "stars": 372,
       "updated": "2024-10-17 19:05:34 UTC"
-    }
+    },
+  {
+      "title": "2048",
+      "description": "Using Jetpack Compose Multiplatform",
+      "category-ids": [
+        "game"
+      ],
+      "source": "https://github.com/alexjlockwood/compose-multiplatform-2048",
+      "screenshots": [
+        "https://github.com/alexjlockwood/compose-multiplatform-2048/raw/master/art/twenty-forty-eight.gif"
+      ],
+      "tags": [
+        "jetpack" 
+      ],
+      "date_added": "Oct 20 2024",
+      "license": "mit",
+      "suggested_by": "@dkhamsing",
+      "stars": 382
+    }    
   ]
 }
