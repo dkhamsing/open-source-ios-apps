@@ -32068,8 +32068,7 @@
       "updated": "2024-10-17 19:05:34 UTC"
     },
   {
-      "title": "2048",
-      "description": "Using Jetpack Compose Multiplatform",
+      "title": "2048 Jetpack Compose Multiplatform",
       "category-ids": [
         "game"
       ],
