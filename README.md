@@ -4,6 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
+.. the chage is text place
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
 ![](https://img.shields.io/badge/Projects-1559-green.svg) ![](https://img.shields.io/badge/Updated-October%2021,%202024-lightgrey.svg)
