@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1559-green.svg) ![](https://img.shields.io/badge/Updated-October%2021,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1559-green.svg) ![](https://img.shields.io/badge/Updated-October%2022,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1530,7 +1530,7 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/aa4dfd0d-8e00-4dbb-9f2e-7bcb55dc2ab3'>`Screenshot 1`</a> 
   -  `2023` `spritekit` `objc` 
   -  ☆`1115` 
-- [2048](https://github.com/alexjlockwood/compose-multiplatform-2048): Using Jetpack Compose Multiplatform
+- [2048 Jetpack Compose Multiplatform](https://github.com/alexjlockwood/compose-multiplatform-2048)
   -  <a href='https://github.com/alexjlockwood/compose-multiplatform-2048/raw/master/art/twenty-forty-eight.gif'>`Screenshot 1`</a> 
   - `jetpack` 
   -  ☆`382` 
