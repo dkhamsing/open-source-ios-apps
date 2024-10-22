@@ -2,7 +2,7 @@
 
 ## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
-1. [2048](https://github.com/alexjlockwood/compose-multiplatform-2048)
+1. [2048 Jetpack Compose Multiplatform](https://github.com/alexjlockwood/compose-multiplatform-2048)
 2. [fullmoon](https://github.com/mainframecomputer/fullmoon-ios)
 3. [Simulating physics joints](https://developer.apple.com/documentation/realitykit/simulating-physics-joints-in-your-realitykit-app)
 4. [Enhancing content with tab navigation](https://developer.apple.com/documentation/swiftui/enhancing-your-app-content-with-tab-navigation)
