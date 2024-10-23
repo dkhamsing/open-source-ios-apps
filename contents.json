@@ -32082,6 +32082,20 @@
       "license": "mit",
       "suggested_by": "@dkhamsing",
       "stars": 382
-    }    
+    },
+{
+      "title": "Cardiorespiratory Fitness",
+      "category-ids": [
+        "health"
+      ],
+      "source": "https://github.com/Sage-Bionetworks/CardiorespiratoryFitness-iOS", 
+      "tags": [
+        "swift" 
+      ],
+      "date_added": "Oct 23 2024",
+      "license": "bsd-3-clause",
+      "suggested_by": "@dkhamsing",
+      "stars": 7
+    }      
   ]
 }
