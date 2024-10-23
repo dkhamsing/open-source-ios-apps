@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1559-green.svg) ![](https://img.shields.io/badge/Updated-October%2022,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1559-green.svg) ![](https://img.shields.io/badge/Updated-October%2023,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1534,7 +1534,7 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/alexjlockwood/compose-multiplatform-2048/raw/master/art/twenty-forty-eight.gif'>`Screenshot 1`</a> 
   - `jetpack` 
   -  ☆`382` 
-- [2048 SwiftUI](https://github.com/unixzii/SwiftUI-2048): 2048 written with SwiftUI
+- [2048 SwiftUI](https://github.com/unixzii/SwiftUI-2048)
   -  <a href='https://github.com/unixzii/SwiftUI-2048/blob/master/Screenshot.png?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` `swiftui` 
   -  ☆`696` 
@@ -4605,7 +4605,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [2048 SwiftUI](https://github.com/unixzii/SwiftUI-2048): 2048 written with SwiftUI
+- [2048 SwiftUI](https://github.com/unixzii/SwiftUI-2048)
   -  <a href='https://github.com/unixzii/SwiftUI-2048/blob/master/Screenshot.png?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` `swiftui` 
   -  ☆`696` 
