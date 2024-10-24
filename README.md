@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1559-green.svg) ![](https://img.shields.io/badge/Updated-October%2023,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1560-green.svg) ![](https://img.shields.io/badge/Updated-October%2024,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1766,6 +1766,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Cardiorespiratory Fitness](https://github.com/Sage-Bionetworks/CardiorespiratoryFitness-iOS)
+  - `swift` 
+  -  ☆`7` 
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker): Coronavirus tracker with maps & charts
   - <a href=https://coronatracker.samabox.com/>`https://coronatracker.samabox.com/`</a>
   -  <a href='https://user-images.githubusercontent.com/121827/76356430-fe06ff80-6326-11ea-8107-60f900a73016.png'>`Screenshot 1`</a> 
