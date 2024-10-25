@@ -32096,6 +32096,19 @@
       "license": "bsd-3-clause",
       "suggested_by": "@dkhamsing",
       "stars": 7
-    }      
+    },
+{
+      "title": "Basic Chat (Bluetooth Low Energy)",
+      "category-ids": [
+        "communication"
+      ],
+      "source": "https://github.com/adafruit/Basic-Chat", 
+      "tags": [
+        "swift", "bluetooth" 
+      ],
+      "date_added": "Oct 24 2024",
+      "license": "mit",
+      "suggested_by": "@dkhamsing" 
+    }          
   ]
 }
