@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1560-green.svg) ![](https://img.shields.io/badge/Updated-October%2024,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1561-green.svg) ![](https://img.shields.io/badge/Updated-October%2025,%202024-lightgrey.svg)
 
 Jump to
 
@@ -587,6 +587,8 @@ Jump to
   -  <a href='https://github.com/ISBX/apprtc-ios/raw/master/screenshots/screenshots.jpg'>`Screenshot 1`</a> 
   -  `2019` `objc` `webrtc` `google` 
   -  ☆`1347` 
+- [Basic Chat (Bluetooth Low Energy)](https://github.com/adafruit/Basic-Chat)
+  - `swift` `bluetooth` 
 - [BLEMeshChat](https://github.com/chrisballinger/BLEMeshChat): Chat using Bluetooth 4.0 Low Energy API (Bluetooth LE)
   -  <a href='https://user-images.githubusercontent.com/4723115/236501293-3e613366-e186-4b94-a060-d8aae797b610.jpg'>`Screenshot 1`</a> 
   -  `2017` `objc` `yapdatabase` `purelayout` `mantle` `bluetooth` 
