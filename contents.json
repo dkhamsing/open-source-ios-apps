@@ -32109,6 +32109,20 @@
       "date_added": "Oct 24 2024",
       "license": "mit",
       "suggested_by": "@dkhamsing" 
-    }          
+    }, 
+    {
+      "title": "Emerge Tools Hacker News",
+      "category-ids": [
+        "hacker-news"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/EmergeTools/hackernews",
+      "license": "mit",
+      "date_added": "Oct 25 2024",
+      "suggested_by": "@dkhamsing",
+      "stars": 72
+    }
   ]
 }
