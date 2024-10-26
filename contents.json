@@ -32123,6 +32123,21 @@
       "date_added": "Oct 25 2024",
       "suggested_by": "@dkhamsing",
       "stars": 72
-    }
+    },
+ {
+      "title": "Particle",
+      "description": "Works with Particle Mesh boards over Bluetooth",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift", "bluetooth"
+      ],
+      "source": "https://github.com/jaredwolff/swift-bluetooth-particle-rgb",
+      "license": "mit",
+      "date_added": "Oct 26 2024",
+      "suggested_by": "@dkhamsing",
+      "stars": 63
+    }    
   ]
 }
