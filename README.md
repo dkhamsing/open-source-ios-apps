@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1561-green.svg) ![](https://img.shields.io/badge/Updated-October%2025,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1562-green.svg) ![](https://img.shields.io/badge/Updated-October%2026,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2707,6 +2707,9 @@ Mostly using https://giphy.com/ — [back to top](#readme)
 https://news.ycombinator.com/ — [back to top](#readme) 
  
 
+- [Emerge Tools Hacker News](https://github.com/EmergeTools/hackernews)
+  - `swift` 
+  -  ☆`72` 
 - [Hacker News Multiplatform](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/)
   - `swift` `macos` 
 - [HackerNews](https://github.com/amitburst/HackerNews)
