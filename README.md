@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1562-green.svg) ![](https://img.shields.io/badge/Updated-October%2026,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1563-green.svg) ![](https://img.shields.io/badge/Updated-October%2027,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3826,6 +3826,9 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1199566366) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/88/8f/c3/888fc31d-7ad9-c6ce-6d80-b081151b3600/mzl.vupiryaa.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e4/f1/e4/e4f1e4ab-d623-d3c4-3a4d-5770de1a6fb4/mzl.suvrwweg.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/67/f8/d6/67f8d6bc-1c11-8164-634e-050953b73439/mzl.tpujfkus.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/a0/14/a6a01466-204c-be56-11aa-9953a6913af0/mzl.qhffrqig.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/23/41/00/2341001e-05ef-e1f1-6b0a-86b4146f6c18/mzl.phvtiqbd.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2024` `toast` 
   -  ☆`68` 
+- [Particle](https://github.com/jaredwolff/swift-bluetooth-particle-rgb): Works with Particle Mesh boards over Bluetooth
+  - `swift` `bluetooth` 
+  -  ☆`63` 
 - [PeopleInSpace](https://github.com/joreilly/PeopleInSpace): List of people currently in space
   -  <a href='https://user-images.githubusercontent.com/6302/109386736-ac1f0700-78f4-11eb-812e-4bf971a8c2a7.png'>`Screenshot 1`</a> 
   -  `2024` `kmm` `kotlin` `swiftui` 
