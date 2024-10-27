@@ -32138,6 +32138,22 @@
       "date_added": "Oct 26 2024",
       "suggested_by": "@dkhamsing",
       "stars": 63
-    }    
+    },
+
+ {
+      "title": "Hello Bluetooth",
+      "description": "Communicates with an Arduino 101 over Bluetooth with the ButtonLED",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift", "bluetooth", "arduino"
+      ],
+      "source": "https://github.com/nebs/hello-bluetooth",
+      "license": "mit",
+      "date_added": "Oct 27 2024",
+      "suggested_by": "@dkhamsing",
+      "stars": 73
+    }        
   ]
 }
