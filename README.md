@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1564-green.svg) ![](https://img.shields.io/badge/Updated-October%2028,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1564-green.svg) ![](https://img.shields.io/badge/Updated-October%2029,%202024-lightgrey.svg)
 
 Jump to
 
@@ -5219,10 +5219,6 @@ https://www.xamarin.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/gittrends-github-insights/id1500300399) <a href='https://user-images.githubusercontent.com/13558917/81881433-02c57b00-9545-11ea-920c-27b5b54f19c1.gif'>`Screenshot 1`</a> 
   -  `2024` `csharp` 
   -  ☆`726` 
-- [PropertyCross](https://github.com/tastejs/PropertyCross/tree/master/xamarin): Search UK property listings
-  -  <a href='https://propertycross.com/frameworks/xamarin/ios/PropertyCross.thumbnail.png'>`Screenshot 1`</a>  <a href='https://propertycross.com/frameworks/xamarin/ios/SearchResults.thumbnail.png'>`Screenshot 2`</a> 
-  - `csharp` 
-  -  ☆`516` 
 ## Bonus 
  
 [back to top](#readme) 
