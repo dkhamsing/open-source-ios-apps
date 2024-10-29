@@ -380,6 +380,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [projectM](https://sourceforge.net/projects/projectm/)
 - [ProMonster](https://github.com/usemobile/promonster-ios)
 - [Property Finder](https://github.com/ColinEberhardt/ReactNative-PropertyFinder)
+- [PropertyCross](https://github.com/tastejs/PropertyCross/tree/master/xamarin)
 - [prox](https://github.com/mozilla-mobile/prox)
 - [Pterodactyl Attack](https://github.com/shaunlebron/PterodactylAttack)
 - [Pugs](https://github.com/soffes/Pugs)
