@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1564-green.svg) ![](https://img.shields.io/badge/Updated-October%2029,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1564-green.svg) ![](https://img.shields.io/badge/Updated-October%2030,%202024-lightgrey.svg)
 
 Jump to
 
@@ -130,14 +130,10 @@ Jump to
   -  <a href='https://github.com/omichde/Telemat-tvOS/raw/master/telemat.jpg'>`Screenshot 1`</a> 
   -  `2017` `objc` 
   -  ☆`19` 
-- [UitzendingGemist by 4np](https://github.com/4np/UitzendingGemist): Uitgebreide UitzendingGemist app voor Nederland
+- [UitzendingGemist](https://github.com/4np/UitzendingGemist): Uitgebreide UitzendingGemist app voor Nederland
   -  <a href='https://cloud.githubusercontent.com/assets/1049693/18724167/ba26d9ba-803b-11e6-9c76-2f44c47d2dee.png'>`Screenshot 1`</a> 
   -  `2018` `swift` 
   -  ☆`49` 
-- [UitzendingGemist by jeffkreeftmeijer](https://github.com/jeffkreeftmeijer/UitzendingGemist): Dutch Public Broadcasting video on demand
-  -  <a href='https://raw.githubusercontent.com/jeffkreeftmeijer/UitzendingGemist/master/Screenshots/recent.png'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`78` 
 - [Upcoming Movies](https://github.com/ivan-magda/UpcomingMovies)
   -  <a href='https://github.com/ivan-magda/UpcomingMovies/raw/master/Screenshots/movies.png'>`Screenshot 1`</a> 
   -  `2017` `swift` `themoviedb` 
