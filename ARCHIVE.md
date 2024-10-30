@@ -518,6 +518,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [tweedie](https://github.com/aanon4/tweedie)
 - [tweejump](https://github.com/haqu/tweejump)
 - [Twitter clone](https://github.com/opensourceios/Twitter)
+- [UitzendingGemist by jeffkreeftmeijer](https://github.com/jeffkreeftmeijer/UitzendingGemist)
 - [UK](https://github.com/nhsx/COVID-19-app-iOS-BETA)
 - [Ulangi](https://github.com/subconcept-labs/ulangi)
 - [Uncle Nagy's House](https://github.com/kenmickles/unh_tvos)
