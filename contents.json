@@ -498,7 +498,7 @@
       "lang": "nld",
       "license": "mit",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/jeffkreeftmeijer/UitzendingGemist/master/Screenshots/recent.png"
@@ -9623,7 +9623,7 @@
       "updated": "2016-05-18 18:01:04 UTC"
     },
     {
-      "title": "UitzendingGemist by 4np",
+      "title": "UitzendingGemist",
       "category-ids": [
         "apple-tv"
       ],
