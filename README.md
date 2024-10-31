@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1564-green.svg) ![](https://img.shields.io/badge/Updated-October%2030,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1564-green.svg) ![](https://img.shields.io/badge/Updated-October%2031,%202024-lightgrey.svg)
 
 Jump to
 
@@ -842,10 +842,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/symbolgrid/id1640916135)
   -  `2024` `swift` `macos` `visionos` 
   -  ☆`2` 
-- [Terrarium](https://github.com/penk/terrarium-app): UI prototyping for coders
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ccb0ee42-c8bc-43f7-8691-29d8f6c714a9'>`Screenshot 1`</a> 
-  -  `2018` `c++` 
-  -  ☆`291` 
 - [TLDR Man Page](https://github.com/freesuraj/TLDR): Reference dictionary for computer manual commands, but in tl;dr (too long; didn't read) mode
   -  `2022` `swift` 
   -  ☆`68` 
