@@ -15913,7 +15913,7 @@
       ],
       "description": "Brings your GitHub notifications in your pocket",
       "tags": [
-        "react-native"
+        "react-native", "archive"
       ],
       "category-ids": [
         "github",
