@@ -2547,7 +2547,7 @@
         "finance"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Budget tracker",
       "source": "https://github.com/ivan-magda/ToThePenny",
