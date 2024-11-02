@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1564-green.svg) ![](https://img.shields.io/badge/Updated-November%20%201,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1564-green.svg) ![](https://img.shields.io/badge/Updated-November%20%202,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1438,10 +1438,6 @@ File Management — [back to top](#readme)
   -  <a href='https://d33wubrfki0l68.cloudfront.net/da80c0431a6808c8303d250ee79a08ffb4f33f8b/3aa2c/assets/images/ssos_1.gif'>`Screenshot 1`</a> 
   -  `2023` `swift` `fmdb` `iglistkit` `masonry` `snapkit` `swiftcsv` 
   -  ☆`207` 
-- [ToThePenny](https://github.com/ivan-magda/ToThePenny): Budget tracker
-  -  <a href='https://raw.githubusercontent.com/ivan-magda/ToThePenny/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/ivan-magda/ToThePenny/master/Screenshots/2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/ivan-magda/ToThePenny/master/Screenshots/4.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/ivan-magda/ToThePenny/master/Screenshots/5.png'>`Screenshot 4`</a> 
-  -  `2018` `objc` 
-  -  ☆`86` 
 ### Cryptocurrency 
  
 [back to top](#readme) 
