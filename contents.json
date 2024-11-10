@@ -32154,6 +32154,23 @@
       "date_added": "Oct 27 2024",
       "suggested_by": "@dkhamsing",
       "stars": 73
-    }        
+    },
+    {
+      "title": "Netflix UI",
+      "category-ids": [
+        "clone", "react-native"
+      ],
+      "tags": [
+        "react-native", "expo"
+      ],
+      "screenshots": [
+        "https://github.com/saulamsal/netflix-ui/raw/main/assets/gifs/demo.gif"
+      ],      
+      "source": "https://github.com/saulamsal/netflix-ui",
+      "license": "other",
+      "date_added": "Nov 9 2024",
+      "suggested_by": "@dkhamsing",
+      "stars": 769
+    }      
   ]
 }
