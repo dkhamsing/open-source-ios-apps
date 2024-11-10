@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1564-green.svg) ![](https://img.shields.io/badge/Updated-November%20%202,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1565-green.svg) ![](https://img.shields.io/badge/Updated-November%2010,%202024-lightgrey.svg)
 
 Jump to
 
@@ -530,6 +530,10 @@ Jump to
   -  <a href='https://iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `firebase` `firestore` 
   -  ☆`766` 
+- [Netflix UI](https://github.com/saulamsal/netflix-ui)
+  -  <a href='https://github.com/saulamsal/netflix-ui/raw/main/assets/gifs/demo.gif'>`Screenshot 1`</a> 
+  - `react-native` `expo` 
+  -  ☆`769` 
 - [palette-from-image](https://github.com/chuongtrh/palette-from-image): Inspired by https://earthview.withgoogle.com
   -  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot3.png?raw=true'>`Screenshot 3`</a> 
   -  `2020` `swift` `palette` `color` `earthview` 
@@ -4424,6 +4428,10 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
 - [NBAreact](https://github.com/jbkuczma/NBAreact): NBA stats & standings
   -  `2018` `react-native` 
   -  ☆`104` 
+- [Netflix UI](https://github.com/saulamsal/netflix-ui)
+  -  <a href='https://github.com/saulamsal/netflix-ui/raw/main/assets/gifs/demo.gif'>`Screenshot 1`</a> 
+  - `react-native` `expo` 
+  -  ☆`769` 
 - [newswatch](https://github.com/bradoyler/newswatch-react-native): News based on YouTube playlists
   -  <a href='https://cloud.githubusercontent.com/assets/425966/7039857/2f122810-dd95-11e4-99c4-db636d4c66a9.gif'>`Screenshot 1`</a> 
   -  `2017` `react-native` 
