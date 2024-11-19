@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1565-green.svg) ![](https://img.shields.io/badge/Updated-November%2010,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1565-green.svg) ![](https://img.shields.io/badge/Updated-November%2019,%202024-lightgrey.svg)
 
 Jump to
 
@@ -665,7 +665,7 @@ Jump to
   -  `2024` `objc` `fmdb` 
   -  ☆`194` 
 - [Nio Matrix client](https://github.com/niochat/nio)
-  -  <a href='https://nio.chat/screenshots.png'>`Screenshot 1`</a> 
+  -  <a href='https://niochat.github.io/screenshots.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`535` 
 - [ProtonMail](https://github.com/ProtonMail/ios-mail): Encrypted Email
