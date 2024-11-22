@@ -32189,6 +32189,23 @@
       "suggested_by": "@dkhamsing",
       "stars": 1195,
       "updated": "2024-11-12 04:07:46 UTC"
-    }
+    },
+ {
+      "title": "IcySky for BlueSky",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "agpl-3.0",
+      "source": "https://github.com/Dimillian/IcySky",
+      "screenshots": [
+        "https://github.com/Dimillian/IcySky/raw/main/Images/image1.png"         
+      ],
+      "date_added": "Nov 21 2024",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
