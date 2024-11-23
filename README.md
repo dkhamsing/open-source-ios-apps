@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1566-green.svg) ![](https://img.shields.io/badge/Updated-November%2022,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1567-green.svg) ![](https://img.shields.io/badge/Updated-November%2023,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3071,6 +3071,9 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e65417a-339d-4281-a5f1-6db84ea879a2'>`Screenshot 1`</a> 
   -  `2019` `swift` `alamofire` `moya` `corelocation` 
   -  ☆`47` 
+- [RoomPlan](https://developer.apple.com/documentation/roomplan/create_a_3d_model_of_an_interior_room_by_guiding_the_user_through_an_ar_experience): Create a 3D model of an interior room by guiding the user through an AR experience
+  -  <a href='https://github.com/user-attachments/assets/f5f439be-0578-46c7-95fb-f63f66bf2dac'>`Screenshot 1`</a> 
+  - `swift` 
 - [Sample for Async, Searchable, Live Activity and more](https://github.com/SwiftyAlex/Samples)
   -  `2023` `swift` `swiftui` 
   -  ☆`94` 
