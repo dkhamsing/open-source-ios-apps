@@ -32221,6 +32221,21 @@
       "license": "other",
       "date_added": "Nov 22 2024",
       "suggested_by": "@dkhamsing"       
+    },
+     {
+      "title": "SwiftUI Experiments",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [ 
+        "swift", "swiftui"
+      ],
+   "screenshots": ["https://github.com/mikelikesdesign/SwiftUI-experiments/blob/main/bob/bob.gif?raw=true"],
+      "source": "https://github.com/mikelikesdesign/SwiftUI-experiments",
+      "license": "mit",
+      "date_added": "Nov 23 2024",
+      "suggested_by": "@dkhamsing"       
     } 
+ 
   ]
 }
