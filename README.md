@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1567-green.svg) ![](https://img.shields.io/badge/Updated-November%2023,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1568-green.svg) ![](https://img.shields.io/badge/Updated-November%2024,%202024-lightgrey.svg)
 
 Jump to
 
@@ -5044,6 +5044,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/ivanvorobei/SwiftUI/master/Previews/animatable-cards.gif'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`5239` 
+- [SwiftUI Experiments](https://github.com/mikelikesdesign/SwiftUI-experiments)
+  -  <a href='https://github.com/mikelikesdesign/SwiftUI-experiments/blob/main/bob/bob.gif?raw=true'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [SwiftUI Series - DefibHeart animation](https://github.com/ryanlintott/DefibHeart)
   -  <a href='https://user-images.githubusercontent.com/2143656/170134149-95c59fd9-4770-4ce2-b455-043589ef5fe0.gif'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` 
