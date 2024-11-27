@@ -32235,7 +32235,20 @@
       "license": "mit",
       "date_added": "Nov 23 2024",
       "suggested_by": "@dkhamsing"       
-    } 
- 
+    },
+{
+      "title": "Mini vMac",
+  "description": "Emulate Mac Plus, Mac II or Mac 128K",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [ 
+        "swift", 
+      ],
+      "source": "https://github.com/zydeco/minivmac4ios",
+      "license": "gpl-2.0",
+      "date_added": "Nov 27 2024",
+      "suggested_by": "@dkhamsing"       
+    }     
   ]
 }
