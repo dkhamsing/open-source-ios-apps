@@ -44,6 +44,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [AppLove](https://github.com/snowpunch/AppLove)
 - [AppSales-Mobile](https://github.com/omz/AppSales-Mobile)
 - [AppSlate](https://github.com/Taehan-Kim/AppSlate)
+- [AR Plastic Ocean](https://github.com/opensourceios/ARPlasticOcean)
 - [Arex](https://github.com/a2/arex)
 - [Argent](https://github.com/argent-os/argent-ios)
 - [Around Me](https://github.com/bgryszko/react-native-example)
