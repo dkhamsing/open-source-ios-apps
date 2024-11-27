@@ -29861,11 +29861,11 @@
         "education"
       ],
       "description": "Educate those interested in marine plastic pollution",
-      "source": "https://github.com/ynagatomo/ARPlasticOcean",
+      "source": "https://github.com/opensourceios/ARPlasticOcean",
       "license": "mit",
       "tags": [
         "swift",
-        "swiftui"
+        "swiftui", "archive"
       ],
       "screenshots": [
         "https://github.com/ynagatomo/ARPlasticOcean/raw/main/images/ss1.png"
