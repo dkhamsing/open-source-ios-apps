@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1568-green.svg) ![](https://img.shields.io/badge/Updated-November%2024,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1568-green.svg) ![](https://img.shields.io/badge/Updated-November%2027,%202024-lightgrey.svg)
 
 Jump to
 
@@ -982,10 +982,6 @@ Jump to
 [back to top](#readme) 
  
 
-- [AR Plastic Ocean](https://github.com/ynagatomo/ARPlasticOcean): Educate those interested in marine plastic pollution
-  -  <a href='https://github.com/ynagatomo/ARPlasticOcean/raw/main/images/ss1.png'>`Screenshot 1`</a> 
-  -  `2022` `swift` `swiftui` 
-  -  ☆`13` 
 - [Ciao](https://github.com/clintonwoo/ciao): Game to learn new languages for people who respond well to repetition, includes Italian, French, Chinese, German, Polish, Portuguese, Russian & Spanish
   -  <a href='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/Menu_App_Preview_640x1096.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/App_Preview_640x1096.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/Language_App_Preview_640x1096.png'>`Screenshot 3`</a> 
   -  `2017` `swift` 
