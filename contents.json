@@ -32235,7 +32235,22 @@
       "license": "mit",
       "date_added": "Nov 23 2024",
       "suggested_by": "@dkhamsing"       
-    } 
- 
+    },
+ {
+      "title": "Hey ChatGPT",
+      "description": "Interact with ChatGPT with your voice",
+      "category-ids": [
+        "misc"
+      ],
+      "source": "https://github.com/ynagatomo/HeyChatGPT",
+      "tags": [
+        "swift",
+        "gpt",
+        "openai", "chatgpt"
+      ],
+      "license": "other",
+      "date_added": "Nov 27 2023",
+      "suggested_by": "@dkhamsing"
+    }   
   ]
 }
