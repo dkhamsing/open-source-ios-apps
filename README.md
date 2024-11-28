@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1568-green.svg) ![](https://img.shields.io/badge/Updated-November%2027,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1569-green.svg) ![](https://img.shields.io/badge/Updated-November%2028,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3766,6 +3766,8 @@ https://joinmastodon.org — [back to top](#readme)
 - [Hello Bluetooth](https://github.com/nebs/hello-bluetooth): Communicates with an Arduino 101 over Bluetooth with the ButtonLED
   -  `2019` `swift` `bluetooth` `arduino` 
   -  ☆`74` 
+- [Hey ChatGPT](https://github.com/ynagatomo/HeyChatGPT): Interact with ChatGPT with your voice
+  - `swift` `gpt` `openai` `chatgpt` 
 - [Image Generator with Stable Diffusion v2](https://github.com/ynagatomo/ImgGenSD2)
   -  <a href='https://github.com/ynagatomo/ImgGenSD2/raw/main/images/ss_4_imgs.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `stable-diffusion` 
