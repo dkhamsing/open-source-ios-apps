@@ -32251,6 +32251,30 @@
       "license": "other",
       "date_added": "Nov 27 2023",
       "suggested_by": "@dkhamsing"
-    }   
+    },
+    {
+      "title": "RicketyRick",
+      "category-ids": ["swiftui"],
+      "tags": [
+        "rickandmorty",
+        "uikit",
+        "clean-architecture",
+        "mvvm-c"
+      ],
+      "description": "A Rick and Morty fan app that uses the Rick and Morty API",
+      "source": "https://github.com/hishd/RicketyRick-iOS",
+      "stars": 0,
+      "license": "mit",
+      "date_added": "Nov 29 2024",
+      "suggested_by": "@hishd",
+      "screenshots": [
+        "https://github.com/hishd/RickAndMorty/blob/master/Images/1.png",
+        "https://github.com/hishd/RickAndMorty/blob/master/Images/2.png",
+        "https://github.com/hishd/RickAndMorty/blob/master/Images/3.png",
+        "https://github.com/hishd/RickAndMorty/blob/master/Images/6.png",
+        "https://github.com/hishd/RickAndMorty/blob/master/Images/7.png",
+        "https://github.com/hishd/RickAndMorty/blob/master/Images/8.png"
+      ]
+    }
   ]
 }
