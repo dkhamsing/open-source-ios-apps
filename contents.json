@@ -32258,6 +32258,7 @@
       "description": "SKTetris is an educational project for developers learning how to use Apple's SpriteKit 2D framework. This is a partial recreation of the Tetris game".
       "source": "https://github.com/chsxf/SKTetris",
       "date_added": "Nov 29 2024",
-      "suggested_by": "@chsxf"
+      "suggested_by": "@chsxf",
+      "screenshots": ["https://chsxf.dev/assets/posts/2/sktetris.png"]
   ]
 }
