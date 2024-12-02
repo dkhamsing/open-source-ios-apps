@@ -32253,6 +32253,33 @@
       "suggested_by": "@dkhamsing"
     },
     {
+      "title": "Sky Wizard",
+      "category-ids": ["weather"],
+      "tags": [
+        "swiftui",
+        "weather",
+        "spritekit",
+        "scenekit",
+        "openmetro",
+        "geocoding"
+      ],
+      "description": "Interactive 3D models, animated forecasts and a wizard guide for real-time updates",
+      "source": "https://github.com/hishd/SkyWizard-SwiftUI",
+      "itunes": "https://apps.apple.com/app/sky-wizard/id6738307790",
+      "homepage": "https://hishd.github.io/SkyWizard/",
+      "stars": 0,
+      "license": "apache-2.0",
+      "date_added": "Nov 29 2024",
+      "suggested_by": "@hishd",
+      "screenshots": [
+        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone1.jpg",
+        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone2.jpg",
+        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone3.jpg",
+        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone4.jpg",
+        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone5.jpg",
+        "https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone6.jpg"
+      ]
+    }, {
       "title": "SKTetris",
       "category-ids": ["spritekit"],
       "description": "SKTetris is an educational project for developers learning how to use Apple's SpriteKit 2D framework. This is a partial recreation of the Tetris game",
