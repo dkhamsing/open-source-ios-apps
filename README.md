@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1570-green.svg) ![](https://img.shields.io/badge/Updated-November%2030,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1571-green.svg) ![](https://img.shields.io/badge/Updated-December%20%202,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3606,6 +3606,10 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3cdb6944-0019-4d4f-a68b-4b7bf7da01bb'>`Screenshot 1`</a>  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/38da29d2-cb53-46c3-85b1-78ee86a3c223'>`Screenshot 2`</a> 
   -  `2017` `swift` `iglistkit` `openweathermap` 
   -  ☆`83` 
+- [Sky Wizard](https://github.com/hishd/SkyWizard-SwiftUI): Interactive 3D models, animated forecasts and a wizard guide for real-time updates
+  - <a href=https://hishd.github.io/SkyWizard/>`https://hishd.github.io/SkyWizard/`</a>
+  - [` App Store`](https://apps.apple.com/app/sky-wizard/id6738307790) <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone1.jpg'>`Screenshot 1`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone2.jpg'>`Screenshot 2`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone3.jpg'>`Screenshot 3`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone4.jpg'>`Screenshot 4`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone5.jpg'>`Screenshot 5`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone6.jpg'>`Screenshot 6`</a> 
+  - `swiftui` `weather` `spritekit` `scenekit` `openmetro` `geocoding` 
 - [SmileWeather](https://github.com/liu044100/SmileWeather)
   -  <a href='https://github.com/liu044100/SmileWeather/raw/master/SmileWeather-Example/demo_gif/new_pro.jpg'>`Screenshot 1`</a> 
   -  `2017` `wunderground api` `openweathermap api` 
