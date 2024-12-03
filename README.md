@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1571-green.svg) ![](https://img.shields.io/badge/Updated-December%20%202,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1572-green.svg) ![](https://img.shields.io/badge/Updated-December%20%203,%202024-lightgrey.svg)
 
 Jump to
 
@@ -4982,6 +4982,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/32227073/65997616-0ef63f80-e470-11e9-8faa-d2d6728202a5.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `combine` 
   -  ☆`22` 
+- [RicketyRick](https://github.com/hishd/RicketyRick-iOS): A Rick and Morty fan app that uses the Rick and Morty API
+  -  <a href='https://github.com/hishd/RicketyRick-iOS/blob/master/Images/1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/hishd/RicketyRick-iOS/blob/master/Images/2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/hishd/RicketyRick-iOS/blob/master/Images/3.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/hishd/RicketyRick-iOS/blob/master/Images/6.png?raw=true'>`Screenshot 4`</a>  <a href='https://github.com/hishd/RicketyRick-iOS/blob/master/Images/7.png?raw=true'>`Screenshot 5`</a>  <a href='https://github.com/hishd/RicketyRick-iOS/blob/master/Images/8.png?raw=true'>`Screenshot 6`</a> 
+  - `rickandmorty` `uikit` `clean-architecture` `mvvm-c` 
 - [Scrumdinger](https://developer.apple.com/tutorials/app-dev-training/): Keeps track of daily scrums, sample code by Apple
   - `swift` `ios14` 
 - [SF Symbols Browser](https://github.com/atrinh0/sfsymbols)
