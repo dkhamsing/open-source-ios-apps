@@ -9414,9 +9414,10 @@
       ],
       "description": "Nintendo Switch emulator",
       "source": "https://gitlab.com/Pomelo-Emu/Pomelo",
+      "screenshots": ["https://gitlab.com/pomelo-emu/Pomelo/-/raw/main/images/IMG_1807.png"],
       "stars": 6,
       "license": "gpl-3.0",
-      "date_added": "Thu, 12 Dec 2024 10:22 -0400",
+      "date_added": "Thu, 12 Dec 2024 10:52 -0400",
       "suggested_by": "@CycloKid",
       "updated": "2024-12-4 7:16 UTC"
     },
