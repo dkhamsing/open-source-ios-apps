@@ -32310,6 +32310,18 @@
       "date_added": "Nov 29 2024",
       "suggested_by": "@chsxf",
       "screenshots": ["https://chsxf.dev/assets/posts/2/sktetris.png"] 
-      }
+      }, {
+      "title": "Wordflick",
+      "category-ids": ["game"],
+      "description": "A fast-paced, addictive word game. Drag and drop letter tiles to the board and spell words.",
+      "source": "https://github.com/mthomason/wordflick-ios",
+      "license": "mit",
+	  "date_added": "Dec 11 2024",
+      "suggested_by": "@mthomason",
+      "screenshots": [
+        "https://raw.githubusercontent.com/mthomason/wordflick-ios/main/assets/screenshot-sim.png",
+        "https://raw.githubusercontent.com/mthomason/wordflick-ios/main/assets/foutput_320.gif"
+      ]
+    }
   ]
 }
