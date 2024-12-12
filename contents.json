@@ -9408,6 +9408,19 @@
       "updated": "2024-11-21 15:17:27 UTC"
     },
     {
+      "title": "Pomelo",
+      "category-ids": [
+        "emulator"
+      ],
+      "description": "Nintendo Switch emulator",
+      "source": "https://gitlab.com/Pomelo-Emu/Pomelo",
+      "stars": 6,
+      "license": "gpl-3.0",
+      "date_added": "Thu, 12 Dec 2024 10:22 -0400",
+      "suggested_by": "@CycloKid",
+      "updated": "2024-12-4 7:16 UTC"
+    },
+    {
       "title": "FlappyBird clone - Scary Flight",
       "category-ids": [
         "game"
