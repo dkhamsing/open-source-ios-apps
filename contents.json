@@ -9413,7 +9413,7 @@
         "emulator"
       ],
       "description": "Nintendo Switch emulator",
-      "source": "https://gitlab.com/Pomelo-Emu/Pomelo",
+      "source": "https://gitlab.com/pomelo-emu/Pomelo",
       "screenshots": ["https://gitlab.com/pomelo-emu/Pomelo/-/raw/main/images/IMG_1807.png"],
       "stars": 6,
       "license": "gpl-3.0",
