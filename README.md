@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1574-green.svg) ![](https://img.shields.io/badge/Updated-December%2013,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1574-green.svg) ![](https://img.shields.io/badge/Updated-December%2014,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1122,7 +1122,7 @@ Jump to
   -  <a href='https://cdn.redmondpie.com/wp-content/uploads/2015/11/ROM-List_.jpg'>`Screenshot 1`</a> 
   -  `2017` `objc` 
   -  ☆`180` 
-- [Pomelo](https://gitlab.com/Pomelo-Emu/Pomelo): Nintendo Switch emulator
+- [Pomelo](https://gitlab.com/pomelo-emu/Pomelo): Nintendo Switch emulator
   -  <a href='https://gitlab.com/pomelo-emu/Pomelo/-/raw/main/images/IMG_1807.png'>`Screenshot 1`</a> 
   -  `2024` 
   -  ☆`6` 
