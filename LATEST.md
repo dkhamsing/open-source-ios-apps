@@ -2,7 +2,7 @@
 
 ## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
-1. [Pomelo](https://gitlab.com/Pomelo-Emu/Pomelo)
+1. [Pomelo](https://gitlab.com/pomelo-emu/Pomelo)
 2. [Wordflick](https://github.com/mthomason/wordflick-ios)
 3. [SKTetris](https://github.com/chsxf/SKTetris)
 4. [Sky Wizard](https://github.com/hishd/SkyWizard-SwiftUI)
@@ -35,7 +35,7 @@
 
 ## Most recently updated
 
-1. [Pomelo](https://gitlab.com/Pomelo-Emu/Pomelo)
+1. [Pomelo](https://gitlab.com/pomelo-emu/Pomelo)
 2. [WooCommerce](https://github.com/woocommerce/woocommerce-ios)
 3. [Jitsi Meet](https://github.com/jitsi/jitsi-meet)
 4. [Expo Client](https://github.com/expo/expo)
