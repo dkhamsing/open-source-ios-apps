@@ -32336,6 +32336,21 @@
         "https://raw.githubusercontent.com/mthomason/wordflick-ios/main/assets/screenshot-sim.png",
         "https://raw.githubusercontent.com/mthomason/wordflick-ios/main/assets/foutput_320.gif"
       ]
+    },
+    {
+      "title": "KFinder",
+      "category-ids": ["health"],
+      "description": "Promotes consistent Vitamin K intake and regular blood testing for warfarin users.",
+      "source": "https://github.com/robertwtucker/kfinderapp-ios",
+      "homepage": "https://kfinderapp.com",
+      "itunes": "https://itunes.apple.com/app/kfinder/id6738031531",
+      "license": "mit",
+      "tags": ["swift", "swiftui"],
+      "screenshots": [
+        "https://raw.githubusercontent.com/robertwtucker/kfinderapp-ios/master/assets/kfinder-home.png"
+      ],
+      "date_added": "Dec 15 2024",
+      "suggested_by": "@robertwtucker"
     }
   ]
 }
