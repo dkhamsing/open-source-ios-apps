@@ -28755,11 +28755,11 @@
         "misc"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "other",
       "description": "Display 3d graphic art in AR (Augumented Reality)",
-      "source": "https://github.com/ynagatomo/ARArtAttractors",
+      "source": "https://github.com/opensourceios/ARArtAttractors",
       "screenshots": [
         "https://user-images.githubusercontent.com/66309582/169184790-873d6e02-aacf-4348-9d39-a11d4f7bd1f6.png"
       ],
@@ -28904,12 +28904,12 @@
         "misc"
       ],
       "description": "Put stickers in the 3d space",
-      "source": "https://github.com/ynagatomo/ARStickers",
+      "source": "https://github.com/opensourceios/ARStickers",
       "license": "other",
       "tags": [
         "swift",
         "arkit",
-        "realitykit"
+        "realitykit", "archive"
       ],
       "screenshots": [
         "https://user-images.githubusercontent.com/66309582/171107988-02406cd6-b625-41d8-9f70-ef15b011d82d.jpeg"
@@ -30619,11 +30619,11 @@
       "category-ids": [
         "misc"
       ],
-      "source": "https://github.com/ynagatomo/BasicChatGPT",
+      "source": "https://github.com/opensourceios/BasicChatGPT",
       "tags": [
         "swift",
         "gpt",
-        "openai"
+        "openai", "archive"
       ],
       "license": "other",
       "date_added": "Apr 1 2023",
@@ -32260,7 +32260,7 @@
       "tags": [
         "swift",
         "gpt",
-        "openai", "chatgpt"
+        "openai", "chatgpt", "archive"
       ],
       "license": "other",
       "date_added": "Nov 27 2024",
