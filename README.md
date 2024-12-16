@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1574-green.svg) ![](https://img.shields.io/badge/Updated-December%2015,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1575-green.svg) ![](https://img.shields.io/badge/Updated-December%2016,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1831,6 +1831,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift): Sample app
   -  `2020` `swift` `healthkit` 
   -  ☆`113` 
+- [KFinder](https://github.com/robertwtucker/kfinderapp-ios): Promotes consistent Vitamin K intake and regular blood testing for warfarin users.
+  - <a href=https://kfinderapp.com>`https://kfinderapp.com`</a>
+  - [` App Store`](https://apps.apple.com/app/kfinder/id6738031531) <a href='https://raw.githubusercontent.com/robertwtucker/kfinderapp-ios/master/assets/kfinder-home.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [Migraine Log](https://gitlab.com/zerodogg/org.zerodogg.migraineLog): A headache diary that respects your privacy
   - <a href=https://migrainelog.zerodogg.org>`https://migrainelog.zerodogg.org`</a>
   - [` App Store`](https://apps.apple.com/app/migraine-log/id1636946550) <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/1-iPhone%2013%20Pro%20Max.png'>`Screenshot 1`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/2-iPhone%2013%20Pro%20Max.png'>`Screenshot 2`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/3-iPhone%2013%20Pro%20Max.png'>`Screenshot 3`</a> 
@@ -3661,10 +3665,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/4723115/206248971-116cb695-f580-45db-be46-e3a908d6b776.jpeg'>`Screenshot 1`</a> 
   -  `2024` `swift` `nuke` `keychainaccess` 
   -  ☆`11866` 
-- [AR Art Attractors](https://github.com/ynagatomo/ARArtAttractors): Display 3d graphic art in AR (Augumented Reality)
-  -  <a href='https://user-images.githubusercontent.com/66309582/169184790-873d6e02-aacf-4348-9d39-a11d4f7bd1f6.png'>`Screenshot 1`</a> 
-  -  `2022` `swift` 
-  -  ☆`35` 
 - [AR Diffusion Museum](https://github.com/ynagatomo/ARDiffMuseum): Generate images using Stable Diffusion and displays them in AR
   -  <a href='https://github.com/ynagatomo/ARDiffMuseum/raw/main/images/ui_960.jpg'>`Screenshot 1`</a> 
   -  `2023` `swift` `stable-diffusion` 
@@ -3673,13 +3673,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/ynagatomo/ARWallPicture/raw/main/assets/ss1_3000.jpg'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`43` 
-- [ARStickers](https://github.com/ynagatomo/ARStickers): Put stickers in the 3d space
-  -  <a href='https://user-images.githubusercontent.com/66309582/171107988-02406cd6-b625-41d8-9f70-ef15b011d82d.jpeg'>`Screenshot 1`</a> 
-  -  `2022` `swift` `arkit` `realitykit` 
-  -  ☆`15` 
-- [Basic Chat GPT 3.5/4](https://github.com/ynagatomo/BasicChatGPT): Converse with OpenAI Chat GPT
-  -  `2023` `swift` `gpt` `openai` 
-  -  ☆`80` 
 - [Bean Juice](https://github.com/NiftyTreeStudios/Bean-Juice): Coffee brewing recipes
   - <a href=https://www.niftytreestudios.com/work/bean-juice>`https://www.niftytreestudios.com/work/bean-juice`</a>
   - [` App Store`](https://apps.apple.com/app/bean-juice/id1502380351) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/62/56/5a/62565a20-df0d-7619-ea80-4eaf183b32b4/pr_source.png/230x0w.png'>`Screenshot 1`</a> 
@@ -3778,8 +3771,6 @@ https://joinmastodon.org — [back to top](#readme)
 - [Hello Bluetooth](https://github.com/nebs/hello-bluetooth): Communicates with an Arduino 101 over Bluetooth with the ButtonLED
   -  `2019` `swift` `bluetooth` `arduino` 
   -  ☆`74` 
-- [Hey ChatGPT](https://github.com/ynagatomo/HeyChatGPT): Interact with ChatGPT with your voice
-  - `swift` `gpt` `openai` `chatgpt` 
 - [Image Generator with Stable Diffusion v2](https://github.com/ynagatomo/ImgGenSD2)
   -  <a href='https://github.com/ynagatomo/ImgGenSD2/raw/main/images/ss_4_imgs.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `stable-diffusion` 
