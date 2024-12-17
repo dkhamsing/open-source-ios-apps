@@ -32326,7 +32326,7 @@
       }, {
       "title": "Wordflick",
       "category-ids": ["game"],
-      "description": "A fast-paced, addictive word game. Drag and drop letter tiles to the board and spell words.",
+      "description": "Drag and drop letter tiles to the board and spell words",
       "source": "https://github.com/mthomason/wordflick-ios",
       "license": "mit",
 	  "date_added": "Dec 11 2024",
