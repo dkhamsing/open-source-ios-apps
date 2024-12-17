@@ -32339,7 +32339,7 @@
     {
       "title": "KFinder",
       "category-ids": ["health"],
-      "description": "Promotes consistent Vitamin K intake and regular blood testing for warfarin users.",
+      "description": "Promotes consistent Vitamin K intake and regular blood testing for warfarin users",
       "source": "https://github.com/robertwtucker/kfinderapp-ios",
       "homepage": "https://kfinderapp.com",
       "itunes": "https://apps.apple.com/app/kfinder/id6738031531",
