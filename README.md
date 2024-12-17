@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1575-green.svg) ![](https://img.shields.io/badge/Updated-December%2016,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1575-green.svg) ![](https://img.shields.io/badge/Updated-December%2017,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2321,7 +2321,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`2` 
 - [ArtShredder](https://github.com/marty-suzuki/ArtShredder): Banksy Shredder
   - <a href=https://marty-suzuki.github.io/ArtShredder/>`https://marty-suzuki.github.io/ArtShredder/`</a>
-  -  <a href='https://raw.githubusercontent.com/marty-suzuki/ArtShredder/master/Images/anim.gif'>`Screenshot 1`</a>  <a href='https://camo.qiitausercontent.com/fc07258a6de07cd230de6ea740043046eab57d92/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f36303332352f34363832663864312d323366352d386365322d376132332d6435303933613439643664322e676966'>`Screenshot 2`</a> 
+  -  <a href='https://raw.githubusercontent.com/marty-suzuki/ArtShredder/master/Images/anim.gif'>`Screenshot 1`</a> 
   -  `2018` `swift` `arkit` `banksy` 
   -  ☆`42` 
 - [Artsy](https://github.com/artsy/eigen): The art world in your pocket
@@ -2513,7 +2513,7 @@ Mostly using https://giphy.com/ — [back to top](#readme)
 
 - [ArtShredder](https://github.com/marty-suzuki/ArtShredder): Banksy Shredder
   - <a href=https://marty-suzuki.github.io/ArtShredder/>`https://marty-suzuki.github.io/ArtShredder/`</a>
-  -  <a href='https://raw.githubusercontent.com/marty-suzuki/ArtShredder/master/Images/anim.gif'>`Screenshot 1`</a>  <a href='https://camo.qiitausercontent.com/fc07258a6de07cd230de6ea740043046eab57d92/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f36303332352f34363832663864312d323366352d386365322d376132332d6435303933613439643664322e676966'>`Screenshot 2`</a> 
+  -  <a href='https://raw.githubusercontent.com/marty-suzuki/ArtShredder/master/Images/anim.gif'>`Screenshot 1`</a> 
   -  `2018` `swift` `arkit` `banksy` 
   -  ☆`42` 
 - [Blear](https://github.com/sindresorhus/blear): Transform your photos into stunning blurry wallpapers for your device
