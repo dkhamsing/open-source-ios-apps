@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1575-green.svg) ![](https://img.shields.io/badge/Updated-December%2017,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1575-green.svg) ![](https://img.shields.io/badge/Updated-December%2019,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1692,6 +1692,7 @@ File Management — [back to top](#readme)
   -  ☆`520` 
 - [Wordflick](https://github.com/mthomason/wordflick-ios): A fast-paced, addictive word game. Drag and drop letter tiles to the board and spell words.
   -  <a href='https://raw.githubusercontent.com/mthomason/wordflick-ios/main/assets/screenshot-sim.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/mthomason/wordflick-ios/main/assets/foutput_320.gif'>`Screenshot 2`</a> 
+  - `objc` 
 ### Cocos2d 
  
 https://cocos2d.org/ — [back to top](#readme) 
@@ -1746,8 +1747,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/sakura-fly/id1019023051) <a href='https://cloud.githubusercontent.com/assets/6619146/13731560/965791fe-e942-11e5-9a11-f66f404fa18c.gif'>`Screenshot 1`</a> 
   -  `2019` `objc` 
   -  ☆`103` 
-- [SKTetris](https://github.com/chsxf/SKTetris): SKTetris is an educational project for developers learning how to use Apple's SpriteKit 2D framework. This is a partial recreation of the Tetris game
+- [SKTetris](https://github.com/chsxf/SKTetris): Partial recreation of the Tetris game using SpriteKit 2D
   -  <a href='https://chsxf.dev/assets/posts/2/sktetris.png'>`Screenshot 1`</a> 
+  - `swift` 
 - [Snake Classic](https://github.com/PiXeL16/SnakeClassic): A snake engine for all Apple devices
   -  <a href='https://raw.githubusercontent.com/PiXeL16/SnakeClassic/master/Art/SnakeWatch.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
