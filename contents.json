@@ -32333,6 +32333,7 @@
       "license": "mit",
 	  "date_added": "Dec 11 2024",
       "suggested_by": "@mthomason",
+      "tags": ["objc"],
       "screenshots": [
         "https://raw.githubusercontent.com/mthomason/wordflick-ios/main/assets/screenshot-sim.png",
         "https://raw.githubusercontent.com/mthomason/wordflick-ios/main/assets/foutput_320.gif"
