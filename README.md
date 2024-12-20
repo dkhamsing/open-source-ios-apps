@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1575-green.svg) ![](https://img.shields.io/badge/Updated-December%2019,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1575-green.svg) ![](https://img.shields.io/badge/Updated-December%2020,%202024-lightgrey.svg)
 
 Jump to
 
@@ -1833,7 +1833,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift): Sample app
   -  `2020` `swift` `healthkit` 
   -  ☆`113` 
-- [KFinder](https://github.com/robertwtucker/kfinderapp-ios): Promotes consistent Vitamin K intake and regular blood testing for warfarin users.
+- [KFinder](https://github.com/robertwtucker/kfinderapp-ios): Promotes consistent Vitamin K intake and regular blood testing for warfarin users
   - <a href=https://kfinderapp.com>`https://kfinderapp.com`</a>
   - [` App Store`](https://apps.apple.com/app/kfinder/id6738031531) <a href='https://raw.githubusercontent.com/robertwtucker/kfinderapp-ios/master/assets/kfinder-home.png'>`Screenshot 1`</a> 
   - `swift` `swiftui` 
