@@ -12014,6 +12014,32 @@
       "updated": "2024-11-14 15:28:06 UTC"
     },
     {
+      "title": "Element X",
+      "category-ids": [
+        "communication"
+      ],
+      "tags": [
+        "swift",
+        "iphone",
+        "ipad",
+        "matrix",
+        "rust"
+      ],
+      "description": "Secure decentralised chat/VoIP, newer version of Element",
+      "source": "https://github.com/element-hq/element-x-ios",
+      "homepage": "https://element.io",
+      "license": "agpl-3.0",
+      "itunes": "https://apps.apple.com/app/element-x-secure-chat-call/id1631335820",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/5a/ff/0c5affe2-b3f0-e83e-a095-1aa4a34ac2a3/d0306b7e-aa04-4ef2-b56b-d4a097ef1677_12.9-inch-6th-gen-1.png/626x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/80/33/93803343-c529-20f5-cf80-ffbd7cb937b3/106a3d55-876d-4fb4-a37b-2d82cd9a6340_12.9-inch-6th-gen-2.png/626x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/36/2b/2c362b4d-5cf0-3eb5-6756-5185fa747439/5a643efe-d553-43df-bd67-2daee496b467_12.9-inch-6th-gen-3.png/626x0w.webp"
+      ],
+      "stars": 446,
+      "date_added": "Dec 20 2024",
+      "suggested_by": "@Velin92"
+    },
+    {
       "title": "Wire",
       "category-ids": [
         "communication",
