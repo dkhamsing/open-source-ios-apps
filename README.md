@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1576-green.svg) ![](https://img.shields.io/badge/Updated-December%2024,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1576-green.svg) ![](https://img.shields.io/badge/Updated-December%2027,%202024-lightgrey.svg)
 
 Jump to
 
@@ -2082,10 +2082,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/emission/id1084198445) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3518c87d-e95d-43d3-b4ff-29aafc615c84'>`Screenshot 1`</a> 
   -  `2024` `javascript` `phonegap` `cordova` `ionic` 
   -  ☆`25` 
-- [Find My Bus NJ](https://github.com/findmybusnj/findmybusnj-swift): Track NJ Transit bus times
-  -  <a href='https://github.com/findmybusnj/findmybusnj-swift/raw/master/README_banner.png'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`45` 
 - [GeoLicious](https://github.com/da3x/GeoLicious): Location tracking made easy
   - [` App Store`](https://apps.apple.com/app/geolicious/id637366170) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/08/18/250818d7-a6b1-0af4-0efb-cb977f7c5c93/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/ce/5f/bcce5fcd-b809-72d6-63f8-aff380326149/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/60/da/8c/60da8cfc-c0c4-56d2-aedb-e97cfe1be461/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/13/f0/80/13f08044-d8bc-03cd-341e-aed485137a8f/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2021` `objc` 
@@ -2557,14 +2553,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/418dc9f3-3670-4074-8cd8-af7397b8aa58'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`1355` 
-- [Screenshotter](https://github.com/rsattar/screenshotter): Organize & manage screenshots
-  - [` App Store`](https://apps.apple.com/app/screenshotter-organize-manage/id826596892) <a href='https://a1.mzstatic.com/us/r30/Purple111/v4/be/d3/72/bed372f2-d1fb-511b-8e76-d55a7805fc64/screen696x696.jpeg'>`Screenshot 1`</a> 
-  -  `2017` `iphone` 
-  -  ☆`95` 
-- [SeeFood](https://github.com/kingreza/SeeFood): Detect various dishes using the camera
-  -  <a href='https://github.com/kingreza/SeeFood/raw/master/seefood1.gif'>`Screenshot 1`</a> 
-  -  `2017` `swift` `coreml` 
-  -  ☆`447` 
 - [SharedImages](https://github.com/crspybits/SharedImages): Save your images in your own cloud storage (e.g., Google Drive), and safely share those images with others
   -  <a href='https://github.com/crspybits/SharedImages/raw/master/Screenshots/screenshot1.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `google drive api` `facebook api` `syncserverii client` 
@@ -2592,10 +2580,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://github.com/ivan-magda/Tagger/raw/master/Screenshots/main.png'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`48` 
-- [Triggy](https://github.com/jnordberg/triggy): Intervalometer for WiFi-enabled Canon DSLRs
-  -  <a href='https://raw.githubusercontent.com/jnordberg/triggy/master/triggy.jpg'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`34` 
 - [Upupu](https://github.com/xcoo/upupu): Simple camera that can backup pictures
   - [` App Store`](https://apps.apple.com/app/upupu/id508401854) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/cb/0d/a3/cb0da3c2-ceb8-2756-ce8f-4fdae819a49b/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/25/29/90/252990fa-4332-32cb-25bb-023a9e09ccf2/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/bf/7d/b9/bf7db949-e1c5-5d5d-733a-b1e09b5b9065/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2018` `webdav` `dropbox` 
@@ -2825,10 +2809,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/netnewswire-rss-reader/id1480640210) <a href='https://netnewswire.com/images/nnwios5/iPad-Light-Thumb.png'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`8493` 
-- [SwiftBlog](https://github.com/BalestraPatrick/SwiftBlog): Read the official Apple Swift Blog with RSS
-  -  <a href='https://github.com/BalestraPatrick/SwiftBlog/raw/master/Screenshot.png'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`22` 
 ## Official 
  
 [back to top](#readme) 
@@ -2977,10 +2957,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fe1d6842-ecb6-4ab0-b47c-ab3611ffbd44'>`Screenshot 1`</a> 
   -  `2017` `cloudkit` 
   -  ☆`132` 
-- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift)
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d03e7542-2f22-41bd-87b5-736f084ca720'>`Screenshot 1`</a> 
-  -  `2020` `swift` `cloudkit` 
-  -  ☆`255` 
 - [compositional-layouts-kit](https://github.com/eleev/compositional-layouts-kit): A set of advanced compositional layouts for UICollectionView with examples (Swift 5.1, iOS 13)
   -  <a href='https://github.com/eleev/compositional-layouts-kit/raw/main/cover-composlayouts.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
@@ -3035,10 +3011,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/marty-suzuki/iOSDesignPatternSamples/blob/master/Images/app.gif?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/marty-suzuki/iOSDesignPatternSamples/blob/master/Images/diff.png?raw=true'>`Screenshot 2`</a> 
   -  `2021` `swift` `mvc` `mvp` `mvvm` `flux` `design-patterns` 
   -  ☆`690` 
-- [iOSSwiftMetalCamera](https://github.com/bradley/iOSSwiftMetalCamera): Shows how to use AVCaptureSession
-  -  <a href='https://github.com/bradley/iOSSwiftMetalCamera/blob/master/no_shader.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/bradley/iOSSwiftMetalCamera/blob/master/shader.png?raw=true'>`Screenshot 2`</a> 
-  -  `2017` `swift` `metal` 
-  -  ☆`116` 
 - [iSpy game](https://github.com/ByCyril/iSpy-Game)
   -  <a href='https://user-images.githubusercontent.com/4723115/113598587-33495400-95f2-11eb-9d50-835eed6f0072.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `machine-learning` `camera` 
@@ -3188,10 +3160,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/dnscloak-secure-dns-client/id1452162351)
   -  `2020` `objc` `cordova` 
   -  ☆`325` 
-- [Easy Diceware](https://github.com/cfdrake/easy-diceware): Passphrase generator
-  -  <a href='https://raw.githubusercontent.com/cfdrake/easy-diceware/master/.github/screenshot.png'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`17` 
 - [Hasha](https://github.com/LemonPepperSeasoning/Hasher): SHA-256 Hash collision computer
   - [` App Store`](https://apps.apple.com/app/hasha/id6443560907) <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/59/cb/9e/59cb9eee-457c-e149-11d6-e84f39928147/1c3e71e3-2067-4f4c-9c60-aa4c9f8768d5_simulator_screenshot_224F753E-E5E4-4A19-80CC-ABDDDFDB7732.png/600x0w.webp'>`Screenshot 1`</a> 
   -  `2022` 
@@ -3385,10 +3353,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/micro-blog/id1253201335) <a href='https://user-images.githubusercontent.com/4723115/125169400-d1533a00-e15e-11eb-80f0-5264dd67ee5d.png'>`Screenshot 1`</a> 
   -  `2022` `objc` `ipad` 
   -  ☆`32` 
-- [Potter Pics](https://github.com/surayashivji/potter-pics): Harry Potter themed social network similar to Instagram
-  -  <a href='https://github.com/surayashivji/potter-pics/blob/master/Overview.gif'>`Screenshot 1`</a> 
-  -  `2017` `swift` `swift3` `firebase` 
-  -  ☆`150` 
 - [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar): Never miss new releases from your favorite Spotify artists
   -  <a href='https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `iphone` `ipad` `spotify` `spotifyradar` `rxswift` `coordinator` `mvvm` 
@@ -3546,10 +3510,6 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [4Pets](https://github.com/fborges/4pets): Helps you take care of your pet's routines & schedules
-  -  <a href='https://raw.githubusercontent.com/feliborgez/4pets/master/img/screenshots.png'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`19` 
 - [C-41](https://github.com/ashfurrow/C-41): Simple timer to make developing film easier & more reliable
   -  `2021` `objc` 
   -  ☆`2055` 
@@ -3565,10 +3525,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/4e/36/20/4e3620e8-78cc-28c1-14c1-99dd795a0c3e/mzl.rbjfeuro.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple/v4/86/79/aa/8679aa86-b1df-b753-e573-5841fc8e040d/mzl.qrcseovv.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple4/v4/22/06/03/220603d3-6d56-fd65-fe60-57f41b3f6ace/mzl.wtrrxsrw.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/44/5e/d1/445ed17f-75e4-4913-ca74-d97cddaaf061/mzl.mgggbmuz.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/e2/26/41/e2264119-fcba-7cbd-6234-69bec9dd8e49/mzl.wosfnlnx.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2024` `objc` 
   -  ☆`33` 
-- [Triggy](https://github.com/jnordberg/triggy): Intervalometer for WiFi-enabled Canon DSLRs
-  -  <a href='https://raw.githubusercontent.com/jnordberg/triggy/master/triggy.jpg'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`34` 
 ## Travel 
  
 [back to top](#readme) 
@@ -3631,10 +3587,6 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/sky-wizard/id6738307790) <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone1.jpg'>`Screenshot 1`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone2.jpg'>`Screenshot 2`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone3.jpg'>`Screenshot 3`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone4.jpg'>`Screenshot 4`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone5.jpg'>`Screenshot 5`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone6.jpg'>`Screenshot 6`</a> 
   -  `2024` `swiftui` `weather` `spritekit` `scenekit` `openmetro` `geocoding` 
   -  ☆`1` 
-- [SmileWeather](https://github.com/liu044100/SmileWeather)
-  -  <a href='https://github.com/liu044100/SmileWeather/raw/master/SmileWeather-Example/demo_gif/new_pro.jpg'>`Screenshot 1`</a> 
-  -  `2017` `wunderground api` `openweathermap api` 
-  -  ☆`484` 
 - [StormyLaunch](https://github.com/Sendeky/weatherkit-weather-app): Weather with launchable rocket and animations
   -  <a href='https://user-images.githubusercontent.com/83136978/210652066-0f5549b8-3f8c-48dc-967e-34bd6565400f.jpg'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652073-e86a0af8-fbea-426b-8188-6ce3ca398d15.jpg'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652084-95f427d1-4151-43d9-a8a0-de1ce7b8ee70.jpg'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652087-967675d9-dcb0-4372-b986-c3a364c95844.jpg'>`Screenshot 4`</a>  <a href='https://user-images.githubusercontent.com/83136978/210652091-f347f1d6-8d0e-4d1b-8935-cd41b4518c9a.jpg'>`Screenshot 5`</a> 
   -  `2024` `swift` 
@@ -3995,10 +3947,6 @@ https://firebase.google.com/ — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/4723115/183111668-70d3f114-bd84-4af7-9633-9e5fc09f1188.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `graphql` 
   -  ☆`4822` 
-- [Potter Pics](https://github.com/surayashivji/potter-pics): Harry Potter themed social network similar to Instagram
-  -  <a href='https://github.com/surayashivji/potter-pics/blob/master/Overview.gif'>`Screenshot 1`</a> 
-  -  `2017` `swift` `swift3` `firebase` 
-  -  ☆`150` 
 - [Quick Chat](https://github.com/aslanyanhaik/Quick-Chat): Real-time chat
   -  <a href='https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif'>`Screenshot 1`</a> 
   -  `2019` `swift` `swift3` `firebase` 
