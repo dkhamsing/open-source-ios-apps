@@ -1544,7 +1544,7 @@
       "tags": [
         "swift",
         "swift3",
-        "firebase"
+        "firebase", "archive"
       ],
       "description": "Harry Potter themed social network similar to Instagram",
       "source": "https://github.com/surayashivji/potter-pics",
@@ -5558,7 +5558,7 @@
       "source": "https://github.com/Yalantis/CloudKit-Demo.Swift",
       "tags": [
         "swift",
-        "cloudkit"
+        "cloudkit", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d03e7542-2f22-41bd-87b5-736f084ca720"
@@ -6472,7 +6472,7 @@
       ],
       "tags": [
         "wunderground api",
-        "openweathermap api"
+        "openweathermap api", "archive"
       ],
       "screenshots": [
         "https://github.com/liu044100/SmileWeather/raw/master/SmileWeather-Example/demo_gif/new_pro.jpg"
@@ -11241,7 +11241,7 @@
       "source": "https://github.com/BalestraPatrick/SwiftBlog",
       "license": "other",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/BalestraPatrick/SwiftBlog/raw/master/Screenshot.png"
@@ -11818,7 +11818,7 @@
       "description": "Track NJ Transit bus times",
       "source": "https://github.com/findmybusnj/findmybusnj-swift",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/findmybusnj/findmybusnj-swift/raw/master/README_banner.png"
@@ -12276,7 +12276,7 @@
         "photo"
       ],
       "tags": [
-        "iphone"
+        "iphone", "archive"
       ],
       "description": "Organize & manage screenshots",
       "source": "https://github.com/rsattar/screenshotter",
@@ -15326,7 +15326,7 @@
       ],
       "license": "gpl-3.0",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "stars": 19,
       "updated": "2017-05-18 14:15:37 UTC"
@@ -15346,7 +15346,7 @@
       ],
       "license": "gpl-3.0",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "stars": 34,
       "updated": "2017-05-18 21:29:09 UTC"
@@ -15609,7 +15609,7 @@
         "security"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/cfdrake/easy-diceware/master/.github/screenshot.png"
@@ -16589,7 +16589,7 @@
       "source": "https://github.com/kingreza/SeeFood",
       "tags": [
         "swift",
-        "coreml"
+        "coreml", "archive"
       ],
       "category-ids": [
         "photo"
@@ -17141,7 +17141,7 @@
       "stars": 116,
       "tags": [
         "swift",
-        "metal"
+        "metal", "archive"
       ],
       "screenshots": [
         "https://github.com/bradley/iOSSwiftMetalCamera/blob/master/no_shader.png?raw=true",
