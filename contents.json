@@ -1031,7 +1031,7 @@
       "source": "https://github.com/chadkeck/Natural-Language-Clock",
       "tags": [
         "swift",
-        "watchos2"
+        "watchos2", "archive"
       ],
       "screenshots": [
         "https://github.com/chadkeck/Natural-Language-Clock/raw/master/assets/iPhone-and-Apple-Watch.png?raw=true"
@@ -1153,7 +1153,7 @@
       "source": "https://github.com/kostiakoval/WatchKit-Apps",
       "stars": 1151,
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/kostiakoval/WatchKit-Apps/master/images/AppsInWatck/Counter.gif"
@@ -8172,7 +8172,7 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native", "archive"
       ],
       "screenshots": [
         "https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-a.png",
@@ -8446,7 +8446,7 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native", "archive"
       ],
       "description": "News based on YouTube playlists",
       "source": "https://github.com/bradoyler/newswatch-react-native",
@@ -8619,7 +8619,7 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native", "archive"
       ],
       "source": "https://github.com/joemaddalone/react-native-todo",
       "stars": 177,
@@ -8806,7 +8806,7 @@
       "tags": [
         "swift",
         "mvvm",
-        "flickr api"
+        "flickr api", "archive"
       ],
       "screenshots": [
         "https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch/raw/master/FinishedApp.png"
@@ -9794,7 +9794,7 @@
         "apple-tv"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://github.com/omichde/Telemat-tvOS/raw/master/telemat.jpg"
@@ -11154,7 +11154,7 @@
       "tags": [
         "swift",
         "alamofire",
-        "swiftyjson"
+        "swiftyjson", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/2.png",
@@ -13400,7 +13400,7 @@
       ],
       "tags": [
         "swift",
-        "rest"
+        "rest", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0aa1867f-befc-4ded-ac3e-d68cd69d6a58"
@@ -14150,7 +14150,7 @@
         "core-data"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/024e3be5-cf9e-45f0-a65b-e2d5ea45fd13"
@@ -15244,7 +15244,7 @@
         "https://github.com/ivsall2012/AHPinterest/blob/master/AHPinterset.png?raw=true"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "category-ids": [
         "clone"
@@ -15723,7 +15723,7 @@
         "apple-tv"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://a1.mzstatic.com/us/r30/Purple122/v4/7b/e9/dd/7be9dd53-fe6b-00f7-57e6-a19e27b103de/sc720x405.jpeg"
@@ -17246,7 +17246,7 @@
       "license": "mit",
       "stars": 96,
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/Naituw/CutTheNotch/blob/master/demo.gif?raw=true"
