@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1576-green.svg) ![](https://img.shields.io/badge/Updated-December%2027,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1576-green.svg) ![](https://img.shields.io/badge/Updated-December%2028,%202024-lightgrey.svg)
 
 Jump to
 
@@ -99,10 +99,6 @@ Jump to
   -  <a href='https://github.com/yichengchen/ATV-Bilibili-demo/raw/main/imgs/1.jpg'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`2375` 
-- [hexclock](https://github.com/cfdrake/hexclock): Minimal hexadecimal clock
-  -  <a href='https://a1.mzstatic.com/us/r30/Purple122/v4/7b/e9/dd/7be9dd53-fe6b-00f7-57e6-a19e27b103de/sc720x405.jpeg'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`19` 
 - [iCook TV](https://github.com/polydice/iCook-tvOS): Taiwanese cuisine cooking videos
   -  <a href='https://polydice.com/iCook-tvOS/images/Screenshot.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
@@ -126,10 +122,6 @@ Jump to
 - [Swiftfin](https://github.com/jellyfin/Swiftfin): Jellyfin Client
   -  `2024` `swift` 
   -  ☆`2650` 
-- [Telemat-tvOS](https://github.com/omichde/Telemat-tvOS): Stream the German Public Broadcast TV
-  -  <a href='https://github.com/omichde/Telemat-tvOS/raw/master/telemat.jpg'>`Screenshot 1`</a> 
-  -  `2017` `objc` 
-  -  ☆`19` 
 - [UitzendingGemist](https://github.com/4np/UitzendingGemist): Uitgebreide UitzendingGemist app voor Nederland
   -  <a href='https://cloud.githubusercontent.com/assets/1049693/18724167/ba26d9ba-803b-11e6-9c76-2f44c47d2dee.png'>`Screenshot 1`</a> 
   -  `2018` `swift` 
@@ -269,10 +261,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/myweight-history/id1098061879) <a href='https://user-images.githubusercontent.com/4723115/146957241-b8b43b10-1132-472d-8fb7-b95afdf0cfc0.png'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`76` 
-- [Natural Language Clock](https://github.com/chadkeck/Natural-Language-Clock): Display the time as you would speak it
-  -  <a href='https://github.com/chadkeck/Natural-Language-Clock/raw/master/assets/iPhone-and-Apple-Watch.png?raw=true'>`Screenshot 1`</a> 
-  -  `2017` `swift` `watchos2` 
-  -  ☆`85` 
 - [Nightguard](https://github.com/nightscout/nightguard): Display blood glucose values stored on your nightscout server
   - <a href=https://www.nightscout.info/>`https://www.nightscout.info/`</a>
   -  <a href='https://github.com/nightscout/nightguard/raw/master/images/nightguard24.jpg'>`Screenshot 1`</a> 
@@ -332,10 +320,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/watchnotes/id1213397019) <a href='https://github.com/ezefranca/watchpresenter/blob/master/print.png?raw=true'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`165` 
-- [WatchKit tutorials](https://github.com/kostiakoval/WatchKit-Apps)
-  -  <a href='https://raw.githubusercontent.com/kostiakoval/WatchKit-Apps/master/images/AppsInWatck/Counter.gif'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`1151` 
 - [WatchPics](https://github.com/D-32/WatchPics): For Instagram
   -  <a href='https://user-images.githubusercontent.com/4723115/235376637-429750ad-f3cf-4600-8684-8028e78572af.jpg'>`Screenshot 1`</a> 
   -  `2021` `objc` 
@@ -475,10 +459,6 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/scribblemaniac/Fibonnac-iClock/master/Screenshot.png'>`Screenshot 1`</a> 
   -  `2022` `objc` 
   -  ☆`12` 
-- [Natural Language Clock](https://github.com/chadkeck/Natural-Language-Clock): Display the time as you would speak it
-  -  <a href='https://github.com/chadkeck/Natural-Language-Clock/raw/master/assets/iPhone-and-Apple-Watch.png?raw=true'>`Screenshot 1`</a> 
-  -  `2017` `swift` `watchos2` 
-  -  ☆`85` 
 ## Clone 
  
 [back to top](#readme) 
@@ -538,10 +518,6 @@ Jump to
   -  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot3.png?raw=true'>`Screenshot 3`</a> 
   -  `2020` `swift` `palette` `color` `earthview` 
   -  ☆`25` 
-- [Pinterest](https://github.com/ivsall2012/AHPinterest)
-  -  <a href='https://github.com/ivsall2012/AHPinterest/blob/master/AHPinterset.png?raw=true'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`77` 
 - [Snake Classic](https://github.com/PiXeL16/SnakeClassic): A snake engine for all Apple devices
   -  <a href='https://raw.githubusercontent.com/PiXeL16/SnakeClassic/master/Art/SnakeWatch.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
@@ -3679,10 +3655,6 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1641238583) <a href='https://raw.githubusercontent.com/fatih-gursoy/Cuisiner/master/Screenshots/ss3.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`19` 
-- [CutTheNotch](https://github.com/Naituw/CutTheNotch): Create an illusion that you can hide the notch
-  -  <a href='https://github.com/Naituw/CutTheNotch/blob/master/demo.gif?raw=true'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`96` 
 - [DeckRocket](https://github.com/jpsim/DeckRocket): For Deckset presentations
   -  <a href='https://github.com/jpsim/DeckRocket/raw/master/demo.gif'>`Screenshot 1`</a> 
   -  `2021` `swift` `iphone` 
@@ -3906,10 +3878,6 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/hexacalc/id1529225315) <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveHex.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveBin.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/GreenPositiveDec.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/HexaCalc/master/iPhoneX_DeviceScreenshots/DefaultSettings.png'>`Screenshot 4`</a> 
   -  `2024` `swift` `core-data` 
   -  ☆`41` 
-- [Listr](https://github.com/etchsaleh/Listr): Wish list
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/024e3be5-cf9e-45f0-a65b-e2d5ea45fd13'>`Screenshot 1`</a> 
-  -  `2017` `swift` 
-  -  ☆`20` 
 - [MoneyMate](https://github.com/tt1k/money-mate): Help you record income and expense
   -  <a href='https://github.com/tt1k/money-mate/blob/master/images/main.jpg?raw=true'>`Screenshot 1`</a> 
   -  `2024` `swift` 
@@ -4288,10 +4256,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e40b21e-59fa-4026-ad3c-07e2a08bf4f5'>`Screenshot 1`</a> 
   -  `2024` `iphone` `ipad` `reactnative` `typescript` 
   -  ☆`3593` 
-- [Assemblies](https://github.com/buildreactnative/assemblies): Developer-focused Meetup clone
-  -  <a href='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-a.png'>`Screenshot 1`</a>  <a href='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-b.png'>`Screenshot 2`</a>  <a href='https://github.com/buildreactnative/assemblies/raw/master/screenshots/assemblies-c.png'>`Screenshot 3`</a> 
-  -  `2017` `react-native` 
-  -  ☆`359` 
 - [BP Passport - Simple for Patients](https://github.com/simpledotorg/bp-passport): Fast way for clinicians to manage patients with hypertension
   -  <a href='https://www.simple.org/images/screen-bp.png'>`Screenshot 1`</a> 
   -  `2024` `react-native` 
@@ -4396,10 +4360,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  <a href='https://github.com/saulamsal/netflix-ui/raw/main/assets/gifs/demo.gif'>`Screenshot 1`</a> 
   -  `2024` `react-native` `expo` 
   -  ☆`1274` 
-- [newswatch](https://github.com/bradoyler/newswatch-react-native): News based on YouTube playlists
-  -  <a href='https://cloud.githubusercontent.com/assets/425966/7039857/2f122810-dd95-11e4-99c4-db636d4c66a9.gif'>`Screenshot 1`</a> 
-  -  `2017` `react-native` 
-  -  ☆`153` 
 - [OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker): Easily log your meals, snacks and access a vast database of food items and ingredients to get detailed nutritional information
   -  <a href='https://simonoppowa.github.io/OpenNutriTracker-Website/assets/screenshot/yourscreenshot.png'>`Screenshot 1`</a> 
   -  `2024` `react-native` 
@@ -4431,9 +4391,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  <a href='https://cloud.githubusercontent.com/assets/1282364/11598478/b2b1b5e6-9a87-11e5-8be9-37cbfa478a71.gif'>`Screenshot 1`</a> 
   -  `2019` `react-native` `redux` 
   -  ☆`4593` 
-- [To Do List](https://github.com/joemaddalone/react-native-todo)
-  -  `2017` `react-native` 
-  -  ☆`177` 
 - [To Do List (Redux)](https://github.com/uiheros/react-native-redux-todo-list): Uses Redux for managing app state
   -  <a href='https://github.com/uiheros/react-native-redux-todo-list/raw/master/todolist.gif'>`Screenshot 1`</a> 
   -  `2020` `react-native` `redux` 
@@ -4467,10 +4424,6 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
 - [C-41](https://github.com/ashfurrow/C-41): Simple timer to make developing film easier & more reliable
   -  `2021` `objc` 
   -  ☆`2055` 
-- [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch): Photo search
-  -  <a href='https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch/raw/master/FinishedApp.png'>`Screenshot 1`</a> 
-  -  `2017` `swift` `mvvm` `flickr api` 
-  -  ☆`374` 
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6e1ed1d3-5592-4a20-a69d-9ed4348ff077'>`Screenshot 1`</a> 
   -  `2018` `objc` 
@@ -4492,10 +4445,6 @@ https://realm.io/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/AppMenu.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_People.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Companies.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Products.png'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Activities.png'>`Screenshot 5`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Deals.png'>`Screenshot 6`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/NewObjectView_Person.png'>`Screenshot 7`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Company.png'>`Screenshot 8`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Person.png'>`Screenshot 9`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Product.png'>`Screenshot 10`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Activity_CreateNewRelatedObject.png'>`Screenshot 11`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Company_CreateNewRelatedObject.png'>`Screenshot 12`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Person_DateEdit.png'>`Screenshot 13`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_PersonPhotoEdit.png'>`Screenshot 14`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Deal_PriceEdit.png'>`Screenshot 15`</a> 
   -  `2019` `swift` `realm` 
   -  ☆`137` 
-- [Obědář](https://github.com/syky27/LunchGuy): Daily menu of restaurants near Czech Technical University
-  -  <a href='https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/2.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/1.png'>`Screenshot 2`</a> 
-  -  `2017` `swift` `alamofire` `swiftyjson` 
-  -  ☆`12` 
 - [RaceMe](https://github.com/enochng1/RaceMe): Run tracking & ghosting
   -  <a href='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `parse` 
@@ -5143,11 +5092,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme) 
  
 
-- [Articles](https://github.com/pedrohperalta/Articles-iOS-VIPER): Fetch and display a list of articles
-  - <a href=https://cheesecakelabs.com/blog/ios-project-architecture-using-viper/>`https://cheesecakelabs.com/blog/ios-project-architecture-using-viper/`</a>
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0aa1867f-befc-4ded-ac3e-d68cd69d6a58'>`Screenshot 1`</a> 
-  -  `2017` `swift` `rest` 
-  -  ☆`269` 
 - [Currency Converter](https://github.com/tirupati17/currency-converter-swift3.0-viper): Live foreign exchange rates & currency calculator
   - [` App Store`](https://apps.apple.com/app/currency-converter-free-quick/id1163490933) <a href='https://raw.githubusercontent.com/tirupati17/currency-converter-swift3.0-viper/master/CurrencyConverter/Resources/iphone_5s.png'>`Screenshot 1`</a> 
   -  `2019` `swift` `viper` 
