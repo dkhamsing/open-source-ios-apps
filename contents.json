@@ -4260,7 +4260,7 @@
       "tags": [
         "afnetworking",
         "mpmovieplayer",
-        "iphone"
+        "iphone", "archive"
       ],
       "lang": "zho",
       "license": "mit",
@@ -4772,7 +4772,7 @@
       "source": "https://github.com/FlexMonkey/SwiftSpace",
       "tags": [
         "swift",
-        "coremotion"
+        "coremotion", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4e0d88ac-25bc-47ba-982a-7c627b65a54a"
@@ -7472,7 +7472,7 @@
       "source": "https://github.com/haawa799/-WaniKani2",
       "itunes": "https://apps.apple.com/app/wanikani/id1034355141",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "stars": 14,
       "date_added": "Tue May 3 06:32:54 2016 -0700",
@@ -10743,7 +10743,7 @@
       "tags": [
         "cordova",
         "grunt",
-        "node"
+        "node", "archive"
       ],
       "description": "A zero-knowledge, cloud-based e-wallet & password manager",
       "license": "gpl-3.0",
@@ -12297,7 +12297,7 @@
         "location"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "source": "https://github.com/flexih/Cafe",
       "itunes": "https://apps.apple.com/app/diao-ke-shi-guang/id440983941",
@@ -13076,7 +13076,7 @@
       "tags": [
         "swift",
         "pop",
-        "apns"
+        "apns", "archive"
       ],
       "screenshots": [
         "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/8d/dd/8c/8ddd8c41-d8ad-45db-0622-367582746b59/pr_source.png/460x0w.jpg"
@@ -17616,7 +17616,7 @@
       "license": "apache-2.0",
       "stars": 35,
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/clintonwoo/ciao/master/images/Menu_App_Preview_640x1096.png",
