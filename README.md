@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1576-green.svg) ![](https://img.shields.io/badge/Updated-December%2028,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1576-green.svg) ![](https://img.shields.io/badge/Updated-December%2029,%202024-lightgrey.svg)
 
 Jump to
 
@@ -783,10 +783,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/knil-universal-link-testing/id1195310358) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/038718b7-d829-4e60-9f81-f86d2b926eec'>`Screenshot 1`</a> 
   -  `2019` 
   -  ☆`760` 
-- [Knuff](https://github.com/KnuffApp/Knuff-iOS): The debug app for Apple Push Notification service
-  - [` App Store`](https://apps.apple.com/app/knuff-the-apns-debug-tool/id993435856) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/8d/dd/8c/8ddd8c41-d8ad-45db-0622-367582746b59/pr_source.png/460x0w.jpg'>`Screenshot 1`</a> 
-  -  `2017` `swift` `pop` `apns` 
-  -  ☆`48` 
 - [Ladybug](https://github.com/ethanhuang13/ladybug): Handle rdar:// links gracefully
   - [` App Store`](https://apps.apple.com/app/ladybug-handles-radar-links/id1402968134) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2019` `swift` 
@@ -963,10 +959,6 @@ Jump to
 [back to top](#readme) 
  
 
-- [Ciao](https://github.com/clintonwoo/ciao): Game to learn new languages for people who respond well to repetition, includes Italian, French, Chinese, German, Polish, Portuguese, Russian & Spanish
-  -  <a href='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/Menu_App_Preview_640x1096.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/App_Preview_640x1096.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/clintonwoo/ciao/master/images/Language_App_Preview_640x1096.png'>`Screenshot 3`</a> 
-  -  `2017` `swift` 
-  -  ☆`35` 
 - [Conjugar](https://github.com/vermont42/Conjugar): Learn and Practice All the Spanish Verb Tenses
   - [` App Store`](https://apps.apple.com/app/conjugar/id1236500467) <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'>`Screenshot 4`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'>`Screenshot 5`</a> 
   -  `2023` `swift` 
@@ -1054,10 +1046,6 @@ Jump to
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3d7acd3a-fcf5-4c72-b3ae-f14a397eab8f'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` `chatgpt` 
   -  ☆`41` 
-- [WaniKani](https://github.com/haawa799/-WaniKani2): Learn kanji with https://www.wanikani.com/
-  - [` App Store`](https://apps.apple.com/app/wanikani/id1034355141) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/65/6a/dc656a24-e549-d4b0-f663-e479fa96a396/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/74/47/3c/74473cb9-dd3a-666b-67f3-807f12d8940d/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d0/b3/cc/d0b3cc28-62fa-7f48-8fb4-dd695e695d94/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/24/1f/af/241faf70-86e5-abc3-10e4-6a2872d369b9/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2017` `swift` 
-  -  ☆`14` 
 - [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner)
   - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/35/c1/26/35c12695-7b3b-b7d0-d73f-316be3f6db22/b33c5447-0a52-46ca-9fc7-66295ab9d0ac__U200escreenshots-6.5._U200e001.jpeg/600x0w.webp'>`Screenshot 1`</a> 
   -  `2024` `flutter` `dart` 
@@ -1383,10 +1371,6 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png?raw=true'>`Screenshot 3`</a> 
   -  `2020` `swiftui` `dividend` `income tracker` 
   -  ☆`96` 
-- [Encryptr](https://github.com/SpiderOak/Encryptr): A zero-knowledge, cloud-based e-wallet & password manager
-  -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/9c/1c/74/9c1c7418-0b94-8c1b-8da8-fa869914e591/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/73/2a/60/732a6002-e689-f012-96be-a1501c226821/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/dd/85/df/dd85df8d-d795-b847-6cad-2bde2b1df6d9/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/c7/b2/59/c7b2590b-cc11-0aea-c5dc-4263313fb97f/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/41/a3/dc/41a3dc56-02fe-83f8-6fe0-8813691868c3/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
-  -  `2017` `cordova` `grunt` `node` 
-  -  ☆`1571` 
 - [Expense Tracker](https://github.com/abdorizak/Expense-Tracker-App): Track daily expense from your income
   -  <a href='https://raw.githubusercontent.com/abdorizak/Expense-Tracker-App/main/Screenshots.png'>`Screenshot 1`</a> 
   -  `2024` `swift` 
@@ -2108,10 +2092,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id456755037) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/da/26/c7/da26c749-b889-37a7-9e2f-62c73bcfba3d/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/89/75/a18975f9-b682-9c9b-5f2e-96389f66fec6/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/87/60/24/876024e2-5338-26c9-7e08-7415068a08e0/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a5/1d/29/a51d297d-74c8-4086-7585-263c2c1ea494/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/df/a7/52/dfa7524e-313e-ff82-d615-f95cd5149dc9/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2024` `objc` 
   -  ☆`273` 
-- [S.I.T. (雕刻时光)](https://github.com/flexih/Cafe): An app for Chinese cafe chain Diaokeshiguang (Sit Coffee)
-  - [` App Store`](https://apps.apple.com/app/diao-ke-shi-guang/id440983941) <a href='https://github.com/flexih/Cafe/raw/master/snapshot/1.png'>`Screenshot 1`</a> 
-  -  `2017` `objc` 
-  -  ☆`24` 
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael): Discover new startups & locate co-working spaces
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/78cb7967-7304-4aa2-a319-7182347f9bde'>`Screenshot 1`</a> 
   -  `2019` `objc` 
@@ -2191,10 +2171,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1084487132) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/9b/ad/60/9bad60df-6399-bac0-b8c3-83bce2072273/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/56/f2/0e/56f20eb8-420b-eaff-bf6a-99eaf4b1b05a/pr_source.png/460x0w.png'>`Screenshot 2`</a> 
   -  `2017` `objc` 
   -  ☆`47` 
-- [SwiftSpace](https://github.com/FlexMonkey/SwiftSpace): Gyroscope driven drawing in 3D space
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4e0d88ac-25bc-47ba-982a-7c627b65a54a'>`Screenshot 1`</a> 
-  -  `2017` `swift` `coremotion` 
-  -  ☆`152` 
 - [Transcription Helper](https://github.com/novinfard/TranscriptionHelper): Player for assisting in transcription
   - <a href=https://novinfard.com>`https://novinfard.com`</a>
   - [` App Store`](https://apps.apple.com/app/transcription-helper/id1157585714) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/df/ca/54/dfca5417-f1d7-3c7f-675a-9bd3e7c1b082/source/460x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/27/9e/83/279e8336-a1e4-3bbe-4162-4fce7651b2bf/source/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/62/1c/7d/621c7db7-8259-dad3-247c-850b50a76797/source/460x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/1d/f8/2f/1df82ff0-2f41-c97e-c5dd-a9418323804c/source/460x0w.png'>`Screenshot 4`</a> 
@@ -2249,10 +2225,6 @@ Image, video, audio, reading — [back to top](#readme)
 - [Controllers](https://github.com/yuripetrosyan/Controllers): Intuitive DJ controller
   -  <a href='https://github.com/yuripetrosyan/Controllers/assets/73176415/f60607c2-7a1b-4df3-b6af-6c6f3988f478'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
-- [DoubanFM](https://github.com/XVXVXXX/DoubanFM)
-  -  <a href='https://github.com/XVXVXXX/DoubanFM/raw/master/readmeImage/page0.png'>`Screenshot 1`</a> 
-  -  `2017` `afnetworking` `mpmovieplayer` `iphone` 
-  -  ☆`497` 
 - [Formant Plotter](https://github.com/fulldecent/formant-analyzer): The user speaks and the formant is plotted on the screen
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/36840778-4f5a-4fed-8e71-c90862c5d193'>`Screenshot 1`</a> 
   -  `2024` `swift` `ipad` 
@@ -3240,10 +3212,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/11808903/80574717-a457b300-8a02-11ea-915e-db7cd98740f2.png'>`Screenshot 1`</a> 
   -  `2022` `react-native` `2fa` 
   -  ☆`80` 
-- [Encryptr](https://github.com/SpiderOak/Encryptr): A zero-knowledge, cloud-based e-wallet & password manager
-  -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/9c/1c/74/9c1c7418-0b94-8c1b-8da8-fa869914e591/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/73/2a/60/732a6002-e689-f012-96be-a1501c226821/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/dd/85/df/dd85df8d-d795-b847-6cad-2bde2b1df6d9/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/c7/b2/59/c7b2590b-cc11-0aea-c5dc-4263313fb97f/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/41/a3/dc/41a3dc56-02fe-83f8-6fe0-8813691868c3/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
-  -  `2017` `cordova` `grunt` `node` 
-  -  ☆`1571` 
 - [FreeOTP Authenticator](https://github.com/freeotp/freeotp-ios): Two-Factor Authentication
   - [` App Store`](https://apps.apple.com/app/freeotp/id872559395) <a href='https://user-images.githubusercontent.com/4723115/146823923-adf76295-18e8-43e5-8d75-27ef5a8c0822.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `2fa` `moa` 
