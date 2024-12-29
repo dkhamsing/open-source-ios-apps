@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **335** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **332** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -383,10 +383,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/knil-universal-link-testing/id1195310358) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/038718b7-d829-4e60-9f81-f86d2b926eec'>`Screenshot 1`</a> 
   -  `2019` 
   -  ☆`760` 
-- [Knuff](https://github.com/KnuffApp/Knuff-iOS): The debug app for Apple Push Notification service
-  - [` App Store`](https://apps.apple.com/app/knuff-the-apns-debug-tool/id993435856) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/8d/dd/8c/8ddd8c41-d8ad-45db-0622-367582746b59/pr_source.png/460x0w.jpg'>`Screenshot 1`</a> 
-  -  `2017` `swift` `pop` `apns` 
-  -  ☆`48` 
 - [Ladybug](https://github.com/ethanhuang13/ladybug): Handle rdar:// links gracefully
   - [` App Store`](https://apps.apple.com/app/ladybug-handles-radar-links/id1402968134) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2019` `swift` 
@@ -521,10 +517,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/transcription-helper/id1157585714) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/df/ca/54/dfca5417-f1d7-3c7f-675a-9bd3e7c1b082/source/460x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/27/9e/83/279e8336-a1e4-3bbe-4162-4fce7651b2bf/source/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/62/1c/7d/621c7db7-8259-dad3-247c-850b50a76797/source/460x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/1d/f8/2f/1df82ff0-2f41-c97e-c5dd-a9418323804c/source/460x0w.png'>`Screenshot 4`</a> 
   -  `2018` `objc` 
   -  ☆`7` 
-- [WaniKani](https://github.com/haawa799/-WaniKani2): Learn kanji with https://www.wanikani.com/
-  - [` App Store`](https://apps.apple.com/app/wanikani/id1034355141) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/65/6a/dc656a24-e549-d4b0-f663-e479fa96a396/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/74/47/3c/74473cb9-dd3a-666b-67f3-807f12d8940d/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d0/b3/cc/d0b3cc28-62fa-7f48-8fb4-dd695e695d94/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/24/1f/af/241faf70-86e5-abc3-10e4-6a2872d369b9/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2017` `swift` 
-  -  ☆`14` 
 - [WordDefiner English Dictionary](https://github.com/ritwiktakkar/WordDefiner)
   - [` App Store`](https://apps.apple.com/app/worddefiner-english-dictionary/id1637774027) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/35/c1/26/35c12695-7b3b-b7d0-d73f-316be3f6db22/b33c5447-0a52-46ca-9fc7-66295ab9d0ac__U200escreenshots-6.5._U200e001.jpeg/600x0w.webp'>`Screenshot 1`</a> 
   -  `2024` `flutter` `dart` 
@@ -1111,10 +1103,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id456755037) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/da/26/c7/da26c749-b889-37a7-9e2f-62c73bcfba3d/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/89/75/a18975f9-b682-9c9b-5f2e-96389f66fec6/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/87/60/24/876024e2-5338-26c9-7e08-7415068a08e0/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a5/1d/29/a51d297d-74c8-4086-7585-263c2c1ea494/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/df/a7/52/dfa7524e-313e-ff82-d615-f95cd5149dc9/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2024` `objc` 
   -  ☆`273` 
-- [S.I.T. (雕刻时光)](https://github.com/flexih/Cafe): An app for Chinese cafe chain Diaokeshiguang (Sit Coffee)
-  - [` App Store`](https://apps.apple.com/app/diao-ke-shi-guang/id440983941) <a href='https://github.com/flexih/Cafe/raw/master/snapshot/1.png'>`Screenshot 1`</a> 
-  -  `2017` `objc` 
-  -  ☆`24` 
 - [TICE](https://github.com/TICESoftware/tice-ios): Location sharing, cross-platform and end-to-end encrypted
   - <a href=https://ticeapp.com>`https://ticeapp.com`</a>
   - [` App Store`](https://apps.apple.com/app/tice-secure-location-sharing/id1494324936) <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/89/a8/e6/89a8e617-a95d-d1e1-47b1-1f82de971b92/f9f41d98-73f0-4357-ae19-7faad0036a26_iPhone_11_Pro_Max-01TeamScreenWithAnnotation_framed.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/34/ff/0f/34ff0f8d-4607-2651-c7f6-8c56d3520436/be2eaf91-1a01-4dd2-a1cd-cf053e1daaf3_iPhone_11_Pro_Max-04TeamInfoScreen_framed.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/92/09/b8/9209b8d8-de12-e9c7-f4f6-f8d40f8e1cbb/1fcd2bfb-0db6-439f-9f3e-5ebaf51ac431_iPhone_11_Pro_Max-03Chat_framed.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/6f/6d/d6/6f6dd6e4-04ae-de60-0360-7e9b2a61eeea/eff7d3c3-dbc0-4418-be76-bced238dc962_iPhone_11_Pro_Max-05TeamScreen_framed.png/460x0w.png'>`Screenshot 4`</a> 
