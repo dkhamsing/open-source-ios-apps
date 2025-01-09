@@ -10622,7 +10622,7 @@
         "objc"
       ],
       "description": "A PDF, XPS/OpenXPS, CBZ & EPUB document viewer",
-      "source": "https://git.ghostscript.com/?p=mupdf.git;a=summary",
+      "source": "https://github.com/ArtifexSoftware/mupdf",
       "homepage": "https://mupdf.com/",
       "itunes": "https://apps.apple.com/app/id482941798",
       "license": "agpl-3.0",
