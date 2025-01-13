@@ -32427,6 +32427,20 @@
       "suggested_by": "@robertwtucker",
       "stars": 1,
       "updated": "2024-12-15 02:59:35 UTC"
-    }
+    },
+    {
+      "title": "Pixelfed",
+      "category-ids": [
+        "media"
+      ],
+      "source": "https://github.com/pixelfed/pixelfed-rn",
+      "tags": [
+        "react-native",
+        "typescript" 
+      ],
+      "license": "agpl-3.0",
+      "date_added": "Jan 13 2025",
+      "suggested_by": "@dkhamsing"
+    },    
   ]
 }
