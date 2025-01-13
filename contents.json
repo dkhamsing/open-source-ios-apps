@@ -32438,9 +32438,10 @@
         "react-native",
         "typescript" 
       ],
+      "screenshots": ["https://pixelfed.nyc3.cdn.digitaloceanspaces.com/media/pixelfed-app-screenshot-3.jpg"],
       "license": "agpl-3.0",
       "date_added": "Jan 13 2025",
       "suggested_by": "@dkhamsing"
-    },    
+    } 
   ]
 }
