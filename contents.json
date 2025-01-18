@@ -32442,6 +32442,21 @@
       "license": "agpl-3.0",
       "date_added": "Jan 13 2025",
       "suggested_by": "@dkhamsing"
-    } 
+    },
+    {
+      "title": "PhotoApp",
+      "category-ids": [
+        "sample"
+      ],
+      "source": "https://github.com/chunkyguy/PhotoApp",
+      "tags": [
+        "kotlin",
+        "kotlin-multiplatform",
+        "compose-multiplatform" 
+      ],
+      "license": "agpl-3.0",
+      "date_added": "Jan 17 2025",
+      "suggested_by": "@dkhamsing"
+    }     
   ]
 }
