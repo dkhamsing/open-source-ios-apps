@@ -32457,6 +32457,15 @@
       "license": "agpl-3.0",
       "date_added": "Jan 17 2025",
       "suggested_by": "@dkhamsing"
-    }     
+    },
+    { 
+      "title": "Numerics",
+      "catergory-ids": [
+      "Business"
+      ],
+      "description": "KPI Dashboards that are deeply integrated with your tools, devices & teams."
+      "itunes": "https://appsforapplevision.com/apps-directory/numerics"
+      "date_added": "Jan 19 2025"
+      "Suggested_by": "@mahnoor-design" 
   ]
 }
