@@ -372,6 +372,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [PebCiti](https://github.com/joemasilotti/PebCiti)
 - [Peggsite](https://github.com/jenduf/GenericSocialApp)
 - [PencilAnnotator](https://github.com/kevinzhangftw/PencilAnnotator)
+- [PGPro](https://github.com/opensourceios/PGPro)
 - [PhishOD](https://github.com/alecgorge/PhishOD-iOS)
 - [PhoneBattery](https://github.com/opensourceios/PhoneBattery)
 - [PhotoBrowser](https://github.com/MoZhouqi/PhotoBrowser)
