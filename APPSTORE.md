@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **332** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **331** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1502,11 +1502,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537) <a href='https://github.com/user-attachments/assets/c57fbc5f-07fa-418f-abdf-43befda35af2'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`868` 
-- [PGPro](https://github.com/lucanaef/PGPro): PGP En- & Decryption
-  - <a href=https://pgpro.app/>`https://pgpro.app/`</a>
-  - [` App Store`](https://apps.apple.com/app/id1481696997) <a href='https://pgpro.app/assets/screenshot/1.png'>`Screenshot 1`</a>  <a href='https://pgpro.app/assets/screenshot/2.png'>`Screenshot 2`</a>  <a href='https://pgpro.app/assets/screenshot/3.png'>`Screenshot 3`</a>  <a href='https://pgpro.app/assets/screenshot/4.png'>`Screenshot 4`</a> 
-  -  `2023` `swift` 
-  -  ☆`389` 
 - [Prey](https://github.com/prey/prey-ios-client): Track lost or stolen devices & perform actions remotely
   - <a href=https://preyproject.com/>`https://preyproject.com/`</a>
   - [` App Store`](https://apps.apple.com/app/id456755037) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/da/26/c7/da26c749-b889-37a7-9e2f-62c73bcfba3d/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/89/75/a18975f9-b682-9c9b-5f2e-96389f66fec6/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/87/60/24/876024e2-5338-26c9-7e08-7415068a08e0/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a5/1d/29/a51d297d-74c8-4086-7585-263c2c1ea494/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/df/a7/52/dfa7524e-313e-ff82-d615-f95cd5149dc9/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
