@@ -19637,12 +19637,12 @@
         "security"
       ],
       "description": "PGP En- & Decryption",
-      "source": "https://github.com/lucanaef/PGPro",
+      "source": "https://github.com/opensourceios/PGPro",
       "homepage": "https://pgpro.app/",
       "itunes": "https://apps.apple.com/app/id1481696997",
       "license": "gpl-3.0",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://pgpro.app/assets/screenshot/1.png",
