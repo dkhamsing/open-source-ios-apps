@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1578-green.svg) ![](https://img.shields.io/badge/Updated-January%2021,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1578-green.svg) ![](https://img.shields.io/badge/Updated-January%2022,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1805,7 +1805,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/kfinder/id6738031531) <a href='https://raw.githubusercontent.com/robertwtucker/kfinderapp-ios/master/assets/kfinder-home.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
   -  ☆`1` 
-- [Migraine Log](https://gitlab.com/zerodogg/org.zerodogg.migraineLog): A headache diary that respects your privacy
+- [Migraine Log](https://gitlab.com/mglog/org.zerodogg.migraineLog): A headache diary that respects your privacy
   - <a href=https://migrainelog.zerodogg.org>`https://migrainelog.zerodogg.org`</a>
   - [` App Store`](https://apps.apple.com/app/migraine-log/id1636946550) <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/1-iPhone%2013%20Pro%20Max.png'>`Screenshot 1`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/2-iPhone%2013%20Pro%20Max.png'>`Screenshot 2`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/3-iPhone%2013%20Pro%20Max.png'>`Screenshot 3`</a> 
   - `flutter` `dart` 
