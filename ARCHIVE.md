@@ -476,6 +476,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Songkick](https://github.com/ArnaudRinquin/sk-react-native)
 - [Soon](https://github.com/sandofsky/soon)
 - [SoundCloudSwift](https://github.com/opensourceios/SoundCloudSwift)
+- [Sounds](https://ericasadun.com/2020/06/05/building-a-silly-watchkit-app/)
 - [Space Zero](https://github.com/xyclos/space_squared)
 - [Spacepics](https://github.com/campezzi/react-native-spacepics)
 - [Spare Parts](https://github.com/adamwulf/spare-parts-app)
