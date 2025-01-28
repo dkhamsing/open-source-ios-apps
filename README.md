@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1578-green.svg) ![](https://img.shields.io/badge/Updated-January%2022,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1578-green.svg) ![](https://img.shields.io/badge/Updated-January%2028,%202025-lightgrey.svg)
 
 Jump to
 
@@ -293,9 +293,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/apple-store/id1512032981) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/5b9f32b3-e190-4ca5-bd60-e9e00bb6bd73'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`16` 
-- [Sounds](https://ericasadun.com/2020/06/05/building-a-silly-watchkit-app/): Play some favorite sounds
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/bc04e1d9-9b3c-4a34-9ccb-c558a7e425c0'>`Screenshot 1`</a> 
-  - `swift` `apple-watch` 
 - [SpriteKitWatchFace](https://github.com/steventroughtonsmith/SpriteKitWatchFace): SpriteKit-based faux analog watch face example for watchOS
   -  <a href='https://hccdata.s3.amazonaws.com/gh_spritekitwatchface.jpg'>`Screenshot 1`</a> 
   -  `2019` `objc` `spritekit` 
