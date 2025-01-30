@@ -29999,7 +29999,6 @@
     {
       "title": "Piecelet for NeoDB",
       "category-ids": ["mastodon", "social"],
-      "description": "Describe what this app does",
       "source": ": https://github.com/lcandy2/neodb-app",
       "homepage": "https://awesome-url",
       "itunes": "https://apps.apple.com/app/piecelet-for-neodb/id6739444863",		
