@@ -215,7 +215,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1092822415) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/3c/33/53/3c335302-9f13-5771-52df-150de85ab20e/pr_source.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`34` 
-- [Splito!](https://github.com/aleksandr-mor/Splito): Billing and tips calculator
+- [Splito!](https://github.com/almormd/Splito): Billing and tips calculator
   - [` App Store`](https://apps.apple.com/app/splito/id1602086746) <a href='https://user-images.githubusercontent.com/85921199/147791061-392897f8-2b68-4be8-9194-db35dd5d04d9.png'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`14` 
