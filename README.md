@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1579-green.svg) ![](https://img.shields.io/badge/Updated-January%2031,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1579-green.svg) ![](https://img.shields.io/badge/Updated-February%20%201,%202025-lightgrey.svg)
 
 Jump to
 
@@ -403,7 +403,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1092822415) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/3c/33/53/3c335302-9f13-5771-52df-150de85ab20e/pr_source.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`34` 
-- [Splito!](https://github.com/aleksandr-mor/Splito): Billing and tips calculator
+- [Splito!](https://github.com/almormd/Splito): Billing and tips calculator
   - [` App Store`](https://apps.apple.com/app/splito/id1602086746) <a href='https://user-images.githubusercontent.com/85921199/147791061-392897f8-2b68-4be8-9194-db35dd5d04d9.png'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`14` 
@@ -3688,7 +3688,7 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/ladybug-handles-radar-links/id1402968134) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2019` `swift` 
   -  ☆`161` 
-- [Learning](https://github.com/aleksandr-mor/Learning): Different projects to test and learn
+- [Learning](https://github.com/almormd/Learning): Different projects to test and learn
   -  `2022` `swift` `alamofire` `core-data` 
   -  ☆`9` 
 - [LibreOffice Remote for Impress](https://git.libreoffice.org/impress_remote/): Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely
