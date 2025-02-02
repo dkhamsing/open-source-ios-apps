@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1579-green.svg) ![](https://img.shields.io/badge/Updated-February%20%201,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1579-green.svg) ![](https://img.shields.io/badge/Updated-February%20%202,%202025-lightgrey.svg)
 
 Jump to
 
@@ -4659,7 +4659,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [Fruta](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an App Clip - WWDC 2020 and WWDC 2021 sample code by Apple
   - `swift` `ios14` `ios15` `widgetkit` `macos` `app-clip` 
 - [FTC Scorer - Skystone](https://github.com/Pondorasti/StonkScorer): Score practice matches
-  -  <a href='https://media.giphy.com/media/ib9hnrPzudBWOE5hTr/giphy.gif'>`Screenshot 1`</a> 
+  -  <a href='https://media.giphy.com/media/ib9hnrPzudBWOE5hTr/giphy.webp'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`44` 
 - [fullmoon](https://github.com/mainframecomputer/fullmoon-ios): Chat with private and local large language models
