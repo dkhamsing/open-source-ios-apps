@@ -183,6 +183,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Facebook Login](https://github.com/brentvatne/react-native-login)
 - [Facebook-Pop-Introduction](https://github.com/thomasdegry/Facebook-Pop-Introduction)
 - [Facemotion](https://github.com/remirobert/Facemotion)
+- [Falcon Messenger](https://github.com/RMizin/FalconMessenger)
 - [FancyNews](https://github.com/aliumujib/FancyNews)
 - [FC Barcelona clone](https://github.com/opensourceios/FCBarca)
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App)
