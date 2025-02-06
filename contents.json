@@ -32510,6 +32510,22 @@
       "suggested_by": "@dkhamsing",
       "stars": 11,
       "updated": "2025-01-11 21:43:38 UTC"
-    }
+    },
+    {
+      "title": "Twine RSS Reader",
+      "category-ids": [
+        "rss"
+      ],
+      "source": "https://github.com/msasikanth/twine",
+      "itunes": "https://apps.apple.com/app/twine-rss-reader/id6465694958",
+      "tags": [
+        "kotlin",
+        "kotlin-multiplatform"
+      ],
+      "screenshots": ["https://github.com/msasikanth/twine/blob/main/readme_images/banner.png?raw=true"],
+      "license": "apache-2.0",
+      "date_added": "Feb 6 2025",
+      "suggested_by": "@th3m"
+    }     
   ]
 }
