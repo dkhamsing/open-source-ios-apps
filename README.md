@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1579-green.svg) ![](https://img.shields.io/badge/Updated-February%20%203,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1580-green.svg) ![](https://img.shields.io/badge/Updated-February%20%206,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2760,6 +2760,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/netnewswire-rss-reader/id1480640210) <a href='https://netnewswire.com/images/nnwios5/iPad-Light-Thumb.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`8587` 
+- [Twine RSS Reader](https://github.com/msasikanth/twine)
+  - [` App Store`](https://apps.apple.com/app/twine-rss-reader/id6465694958) <a href='https://github.com/msasikanth/twine/blob/main/readme_images/banner.png?raw=true'>`Screenshot 1`</a> 
+  - `kotlin` `kotlin-multiplatform` 
 ## Official 
  
 [back to top](#readme) 
