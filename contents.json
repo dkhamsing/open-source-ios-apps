@@ -32520,7 +32520,7 @@
       "itunes": "https://apps.apple.com/app/twine-rss-reader/id6465694958",
       "tags": [
         "kotlin",
-        "kotlin-multiplatform",
+        "kotlin-multiplatform"
       ],
       "screenshots": ["https://github.com/msasikanth/twine/blob/main/readme_images/banner.png?raw=true"],
       "license": "apache-2.0",
