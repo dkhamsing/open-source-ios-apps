@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1580-green.svg) ![](https://img.shields.io/badge/Updated-February%20%206,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1581-green.svg) ![](https://img.shields.io/badge/Updated-February%2010,%202025-lightgrey.svg)
 
 Jump to
 
@@ -56,6 +56,7 @@ Jump to
   - [News API](#news-api) 
   - [RSS](#rss) 
 - [Official](#official) 
+- [Productivity](#productivity) 
 - [Sample](#sample) 
 - [Scan](#scan) 
 - [Security](#security) 
@@ -2868,6 +2869,14 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/wordpress/id335703880) <a href='https://mobiledotblog.files.wordpress.com/2019/10/690x0w.jpg'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`3717` 
+## Productivity 
+ 
+[back to top](#readme) 
+ 
+
+- [Foqos](https://github.com/awaseem/foqos): Block distractions, lock apps behind the tap of a NFC tag
+  - [` App Store`](https://apps.apple.com/app/foqos/id6736793117) <a href='https://www.foqos.app/assets/screenshot.jpg'>`Screenshot 1`</a> 
+  - `swift` 
 ## Sample 
  
 [back to top](#readme) 
