@@ -223,6 +223,10 @@
       "id": "official"
     },
     {
+      "title": "Productivity",
+      "id": "productivity"
+    },    
+    {
       "title": "Sample",
       "id": "sample"
     },
@@ -32526,6 +32530,22 @@
       "license": "apache-2.0",
       "date_added": "Feb 6 2025",
       "suggested_by": "@th3m"
-    }     
+    },
+    {
+      "title": "Foqos",
+      "description": "Block distractions, lock apps behind the tap of a NFC tag",
+      "category-ids": [
+        "productivity"
+      ],
+      "source": "https://github.com/awaseem/foqos",
+      "itunes": "https://apps.apple.com/app/foqos/id6736793117",
+      "tags": [
+        "swift" 
+      ],
+      "screenshots": ["https://www.foqos.app/assets/screenshot.jpg"],
+      "license": "mit",
+      "date_added": "Feb 9 2025",
+      "suggested_by": "@awaseem"
+    }       
   ]
 }
