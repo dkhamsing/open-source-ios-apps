@@ -31117,6 +31117,7 @@
       ],
       "description": "Cross-platform alternative to AirDrop",
       "source": "https://github.com/localsend/localsend",
+      "itunes": "https://apps.apple.com/app/localsend/id1661733229",
       "license": "mit",
       "tags": [
         "flutter"
