@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **332** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **333** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -56,6 +56,7 @@ Jump to
   - [News API](#news-api) 
   - [RSS](#rss) 
 - [Official](#official) 
+- [Productivity](#productivity) 
 - [Sample](#sample) 
 - [Scan](#scan) 
 - [Security](#security) 
@@ -1443,6 +1444,14 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/wordpress/id335703880) <a href='https://mobiledotblog.files.wordpress.com/2019/10/690x0w.jpg'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`3717` 
+## Productivity 
+ 
+[back to top](#readme) 
+ 
+
+- [Foqos](https://github.com/awaseem/foqos): Block distractions, lock apps behind the tap of a NFC tag
+  - [` App Store`](https://apps.apple.com/app/foqos/id6736793117) <a href='https://www.foqos.app/assets/screenshot.jpg'>`Screenshot 1`</a> 
+  - `swift` 
 ## Sample 
  
 [back to top](#readme) 
