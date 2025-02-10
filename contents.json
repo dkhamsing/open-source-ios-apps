@@ -32560,6 +32560,7 @@
       ],
       "description": "Video game emulator for non-jailbroken devices",
       "source": "https://github.com/rileytestut/Delta",
+      "itunes": "https://apps.apple.com/app/delta-game-emulator/id1048524688",
       "license": "other",
       "date_added": "Feb 10 2025",
       "suggested_by": "@ndrew222"
