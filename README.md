@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1582-green.svg) ![](https://img.shields.io/badge/Updated-February%2011,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1583-green.svg) ![](https://img.shields.io/badge/Updated-February%2012,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1103,6 +1103,9 @@ Jump to
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/76548a8f-626c-4cc9-93f1-962782a177b1'>`Screenshot 1`</a> 
   -  `2025` `c` 
   -  ☆`10814` 
+- [SameBoy](https://github.com/LIJI32/SameBoy): Game Boy and Game Boy Color emulator
+  - [` App Store`](https://apps.apple.com/app/sameboy/id6496971295) <a href='https://github.com/user-attachments/assets/56b1af5b-26ab-4468-a2d5-a885b9d0bf8c'>`Screenshot 1`</a> 
+  - `c` 
 ## Event 
  
 [back to top](#readme) 
