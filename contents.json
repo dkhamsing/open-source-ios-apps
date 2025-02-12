@@ -32564,6 +32564,24 @@
       "license": "other",
       "date_added": "Feb 10 2025",
       "suggested_by": "@ndrew222"
-    }
+    },
+    {
+      "title": "SameBoy",
+      "category-ids": [
+        "emulator"
+      ],
+      "tags": [
+        "c"
+      ],
+      "screenshots": [
+        "https://github.com/user-attachments/assets/56b1af5b-26ab-4468-a2d5-a885b9d0bf8c"
+      ],
+      "description": "Game Boy and Game Boy Color emulator",
+      "source": "https://github.com/LIJI32/SameBoy",
+      "itunes": "https://apps.apple.com/app/sameboy/id6496971295",
+      "license": "other",
+      "date_added": "Feb 11 2025",
+      "suggested_by": "@ndrew222"
+    }    
   ]
 }
