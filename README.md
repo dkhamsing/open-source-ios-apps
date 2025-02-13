@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1583-green.svg) ![](https://img.shields.io/badge/Updated-February%2012,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1583-green.svg) ![](https://img.shields.io/badge/Updated-February%2013,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2584,6 +2584,7 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  `2025` `objc` `ipad` 
   -  ☆`14777` 
 - [Yattee](https://github.com/yattee/yattee): Alternative to YouTube
+  - [` App Store`](https://apps.apple.com/app/yattee/id1595136629)
   -  `2024` `swift` `tvos` 
   -  ☆`2826` 
 ## News 
@@ -4215,6 +4216,7 @@ Cross platform projects — [back to top](#readme)
   -  `2024` `swift` `kotlin` `swiftui` `macos` `kmp` 
   -  ☆`65` 
 - [Yattee](https://github.com/yattee/yattee): Alternative to YouTube
+  - [` App Store`](https://apps.apple.com/app/yattee/id1595136629)
   -  `2024` `swift` `tvos` 
   -  ☆`2826` 
 - [Zavala](https://github.com/vincode-io/Zavala): A good, simple outliner
