@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **335** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **336** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1302,6 +1302,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/vlc-for-ios/id650377962) <a href='https://user-images.githubusercontent.com/4723115/146823429-c85f22c0-e757-48c0-ba54-0930ed1769bc.png'>`Screenshot 1`</a> 
   -  `2025` `objc` `ipad` 
   -  ☆`14777` 
+- [Yattee](https://github.com/yattee/yattee): Alternative to YouTube
+  - [` App Store`](https://apps.apple.com/app/yattee/id1595136629)
+  -  `2024` `swift` `tvos` 
+  -  ☆`2826` 
 ## News 
  
 [back to top](#readme) 
@@ -1999,6 +2003,10 @@ Cross platform projects — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/stackov/id1511838391) <a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` `ipad` `macos` 
   -  ☆`240` 
+- [Yattee](https://github.com/yattee/yattee): Alternative to YouTube
+  - [` App Store`](https://apps.apple.com/app/yattee/id1595136629)
+  -  `2024` `swift` `tvos` 
+  -  ☆`2826` 
 - [Zavala](https://github.com/vincode-io/Zavala): A good, simple outliner
   - [` App Store`](https://apps.apple.com/us/app/zavala/id1546457750) <a href='https://zavala.vincode.io/assets/images/feature-screenshot-iphone.png'>`Screenshot 1`</a> 
   -  `2025` `swift` `ipad` `macos` 
