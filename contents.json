@@ -23092,7 +23092,7 @@
     {
       "title": "Clip",
       "category-ids": [
-        "misc"
+        "productivity"
       ],
       "description": "Clipboard manager that can monitor your clipboard indefinitely in the background",
       "license": "unlicense",
