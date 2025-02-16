@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1583-green.svg) ![](https://img.shields.io/badge/Updated-February%2015,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1583-green.svg) ![](https://img.shields.io/badge/Updated-February%2016,%202025-lightgrey.svg)
 
 Jump to
 
@@ -504,7 +504,7 @@ Jump to
   -  <a href='https://user-images.githubusercontent.com/4723115/149539522-01ae6d20-e365-40bc-aaf0-c1f357321878.gif'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` `firebase` 
   -  ☆`505` 
-- [Messenger Clone](https://github.com/instamobile/messenger-iOS-chat-swift-firestore): Real-time chat
+- [Messenger Clone](https://github.com/dopebase/messenger-iOS-chat-swift-firestore): Real-time chat
   -  <a href='https://iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `firebase` `firestore` 
   -  ☆`776` 
@@ -628,7 +628,7 @@ Jump to
   -  <a href='https://user-images.githubusercontent.com/4723115/183111668-70d3f114-bd84-4af7-9633-9e5fc09f1188.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `graphql` 
   -  ☆`4822` 
-- [Messenger Clone](https://github.com/instamobile/messenger-iOS-chat-swift-firestore): Real-time chat
+- [Messenger Clone](https://github.com/dopebase/messenger-iOS-chat-swift-firestore): Real-time chat
   -  <a href='https://iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `firebase` `firestore` 
   -  ☆`776` 
