@@ -27798,27 +27798,6 @@
       "updated": "2021-12-30 22:10:09 UTC"
     },
     {
-      "title": "Actions",
-      "description": "Provides many useful actions for the Shortcuts app",
-      "category-ids": [
-        "macos",
-        "swiftui"
-      ],
-      "source": "https://github.com/sindresorhus/Actions",
-      "itunes": "https://apps.apple.com/app/id1586435171",
-      "license": "mit",
-      "screenshots": [
-        "https://github.com/sindresorhus/Actions/raw/4c1ba4514125ce30e71c005cf7fc8af5949847c8/Stuff/screenshot1.jpg"
-      ],
-      "date_added": "Jan 3 2022",
-      "suggested_by": "@sindresorhus",
-      "tags": [
-        "swift"
-      ],
-      "stars": 2728,
-      "updated": "2024-10-21 16:44:13 UTC"
-    },
-    {
       "title": "Spiro",
       "description": "Animating spirograph generator, created on Swift Playgrounds 4",
       "category-ids": [
