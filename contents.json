@@ -32600,7 +32600,7 @@
       ],
       "description": "A client for the Pinboard.in bookmarking service",
       "source": "https://github.com/lionheart/Pushpin",
-      "itunes": "https://apps.apple.com/us/app/pushpin-for-pinboard/id548052590",
+      "itunes": "https://apps.apple.com/app/pushpin-for-pinboard/id548052590",
       "license": "gpl-3.0",
       "date_added": "Feb 17 2025",
       "suggested_by": "@dlo"
