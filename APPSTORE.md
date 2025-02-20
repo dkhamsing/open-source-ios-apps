@@ -523,7 +523,7 @@ Jump to
 [back to top](#readme) 
  
 
-- [Delta](https://github.com/rileytestut/Delta): Video game emulator for non-jailbroken devices
+- [Delta](https://github.com/rileytestut/Delta): Video game emulator for non-jailbroken devices (successor to GBA4iOS)
   - [` App Store`](https://apps.apple.com/app/delta-game-emulator/id1048524688) <a href='https://user-images.githubusercontent.com/705880/115471008-203aa480-a1ec-11eb-8aba-237a46799543.png'>`Screenshot 1`</a> 
   - `swift` 
 - [iSH](https://github.com/ish-app/ish): Linux shell
