@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1584-green.svg) ![](https://img.shields.io/badge/Updated-February%2019,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1584-green.svg) ![](https://img.shields.io/badge/Updated-February%2020,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1057,7 +1057,7 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/ogoguel/activegs-ios/master/README.images/screen5.png'>`Screenshot 1`</a> 
   -  `2024` `objc` 
   -  ☆`89` 
-- [Delta](https://github.com/rileytestut/Delta): Video game emulator for non-jailbroken devices
+- [Delta](https://github.com/rileytestut/Delta): Video game emulator for non-jailbroken devices (successor to GBA4iOS)
   - [` App Store`](https://apps.apple.com/app/delta-game-emulator/id1048524688) <a href='https://user-images.githubusercontent.com/705880/115471008-203aa480-a1ec-11eb-8aba-237a46799543.png'>`Screenshot 1`</a> 
   - `swift` 
 - [DOSPad](https://github.com/litchie/dospad): DOSBox
