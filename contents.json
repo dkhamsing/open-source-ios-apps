@@ -32627,6 +32627,39 @@
       "suggested_by": "@dlo",
       "stars": 16,
       "updated": "2025-02-18 15:52:24 UTC"
-    }
+    },
+    {
+      "title": "PomPadDo",
+      "category-ids": [
+        "apple-watch",
+        "safari-extension",
+        "widget",
+        "productivity",
+        "tasks",
+        "timer",
+        "macos",
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "swiftdata"
+      ],
+      "description": "A personal task manager / planner app",
+      "source": "https://github.com/amikhaylin/pompaddo",
+      "itunes": "https://apps.apple.com/app/id6742197499",
+      "screenshots": [
+        "https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-today.png",
+        "https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-project.png",
+        "https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-timer.png",
+        "https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-today.png",
+        "https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-section.png",
+        "https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-project.png",
+        "https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-today.png",
+        "https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-section.png",
+        "https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-menu.png"      ],
+      "date_added": "Mar 3 2025",
+      "suggested_by": "@amikhaylin"
+    }    
   ]
 }
