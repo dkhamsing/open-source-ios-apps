@@ -23368,13 +23368,13 @@
         "swiftui"
       ],
       "description": "List of beers fetched from the Punk API https://punkapi.com",
-      "source": "https://github.com/crelies/Beers",
+      "source": "https://github.com/chris-swift-dev/Beers",
       "license": "mit",
       "tags": [
         "swiftui"
       ],
       "screenshots": [
-        "https://github.com/crelies/Beers/blob/master/screenshots/phone1.png?raw=true"
+        "https://raw.githubusercontent.com/chris-swift-dev/Beers/refs/heads/master/screenshots/phone1.png"
       ],
       "date_added": "Jun 27 2020",
       "suggested_by": "@dkhamsing",
