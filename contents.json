@@ -32631,21 +32631,15 @@
     {
       "title": "PomPadDo",
       "category-ids": [
-        "apple-watch",
-        "safari-extension",
-        "widget",
-        "productivity",
-        "tasks",
-        "timer",
-        "macos",
-        "swiftui"
+        "productivity"
       ],
       "tags": [
         "swift",
         "swiftui",
         "swiftdata"
       ],
-      "description": "A personal task manager / planner app",
+      "license": "other",
+      "description": "A personal task manager / planner",
       "source": "https://github.com/amikhaylin/pompaddo",
       "itunes": "https://apps.apple.com/app/id6742197499",
       "screenshots": [
