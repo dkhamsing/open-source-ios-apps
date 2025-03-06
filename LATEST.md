@@ -20,7 +20,7 @@
 16. [RicketyRick](https://github.com/hishd/RicketyRick-iOS)
 17. [Hey ChatGPT](https://github.com/ynagatomo/HeyChatGPT)
 18. [SwiftUI Experiments](https://github.com/mikelikesdesign/SwiftUI-experiments)
-19. [RoomPlan](https://developer.apple.com/documentation/roomplan/create_a_3d_model_of_an_interior_room_by_guiding_the_user_through_an_ar_experience)
+19. [RoomPlan](https://developer.apple.com/documentation/roomplan/create-a-3d-model-of-an-interior-room-by-guiding-the-user-through-an-ar-experience)
 20. [IcySky for BlueSky](https://github.com/Dimillian/IcySky)
 21. [Netflix UI](https://github.com/saulamsal/netflix-ui)
 22. [Hello Bluetooth](https://github.com/nebs/hello-bluetooth)
