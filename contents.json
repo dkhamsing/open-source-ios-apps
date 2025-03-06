@@ -20106,7 +20106,7 @@
         "swift",
         "firebase",
         "lottie",
-        "mapbox"
+        "mapbox", "archive"
       ],
       "description": "Real-time messaging app using firebase",
       "source": "https://github.com/vitaliy-paliy/Messenger",
