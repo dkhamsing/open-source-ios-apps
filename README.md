@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1585-green.svg) ![](https://img.shields.io/badge/Updated-March%20%206,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1585-green.svg) ![](https://img.shields.io/badge/Updated-March%20%207,%202025-lightgrey.svg)
 
 Jump to
 
@@ -620,10 +620,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/us/app/mattermost/id1257222717) <a href='https://user-images.githubusercontent.com/13119842/82450764-1c9e1b00-9a7b-11ea-83d2-b835bf51c727.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/13119842/82450847-38092600-9a7b-11ea-92a8-52cf92fb137b.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/13119842/82450869-3e979d80-9a7b-11ea-81ea-0780c7a612f7.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/13119842/82450896-47886f00-9a7b-11ea-92f4-da9e5553f469.png'>`Screenshot 4`</a> 
   -  `2025` `react-native` 
   -  ☆`2329` 
-- [mChat](https://github.com/vitaliy-paliy/Messenger): Real-time messaging app using firebase
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/92116317-6b49-4167-af1f-5a11183e5a17'>`Screenshot 1`</a> 
-  -  `2024` `swift` `firebase` `lottie` `mapbox` 
-  -  ☆`622` 
 - [Messenger](https://github.com/relatedcode/Messenger): Audio/video calls, realtime chat & full offline support
   -  <a href='https://user-images.githubusercontent.com/4723115/183111668-70d3f114-bd84-4af7-9633-9e5fc09f1188.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `graphql` 
