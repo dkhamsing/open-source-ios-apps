@@ -301,6 +301,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Master](https://github.com/Kjuly/iPokeMon)
 - [Math Quest](https://github.com/AdnanZahid/Math-Quest-iOS)
 - [Mathee](https://github.com/opensourceios/mathee)
+- [mChat](https://github.com/opensourceios/Messenger)
 - [Means](https://github.com/opensourceios/Means)
 - [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
 - [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
