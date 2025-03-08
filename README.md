@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1585-green.svg) ![](https://img.shields.io/badge/Updated-March%20%207,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1585-green.svg) ![](https://img.shields.io/badge/Updated-March%20%208,%202025-lightgrey.svg)
 
 Jump to
 
@@ -4558,8 +4558,8 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [Basic Car Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance): Track your car's maintenance
   -  `2025` `swift` `swiftui` `firebase` 
   -  ☆`270` 
-- [Beers](https://github.com/crelies/Beers): List of beers fetched from the Punk API https://punkapi.com
-  -  <a href='https://github.com/crelies/Beers/blob/master/screenshots/phone1.png?raw=true'>`Screenshot 1`</a> 
+- [Beers](https://github.com/chris-swift-dev/Beers): List of beers fetched from the Punk API https://punkapi.com
+  -  <a href='https://raw.githubusercontent.com/chris-swift-dev/Beers/refs/heads/master/screenshots/phone1.png'>`Screenshot 1`</a> 
   -  `2024` `swiftui` 
   -  ☆`38` 
 - [BikeShare](https://github.com/joreilly/BikeShare): Jetpack Compose and SwiftUI based Kotlin Multiplatform sample project using the CityBikes API
