@@ -6400,7 +6400,7 @@
     },
     {
             "title": "SaxWeather",
-            "category-ids": "weather",
+            "category-ids": ["weather"],
             "description": "Displays weather and forecasts from multiple user-selectable api's or PWS",
             "source": "https://github.com/saxobroko/SaxWeather",
             "itunes": "https://apps.apple.com/au/app/saxweather/id6742063425",
