@@ -6399,6 +6399,16 @@
       "updated": "2020-08-23 20:32:46 UTC"
     },
     {
+            "title": "SaxWeather",
+            "category-ids": ["weather"],
+            "description": "Displays weather and forecasts from multiple user-selectable api's or PWS",
+            "source": "https://github.com/saxobroko/SaxWeather",
+            "itunes": "https://apps.apple.com/app/saxweather/id6742063425",
+            "screenshots": ["https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/e7/a9/8be7a9fa-d6ce-5e5b-27cd-dee72af11cc0/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-03-02_at_17.57.19.png/0x0ss.png"],
+            "date_added": "Mar 8 2025",
+            "suggested_by": "@saxobroko"
+    },
+    {
       "title": "Lucid Weather Clock",
       "category-ids": [
         "weather"
