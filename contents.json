@@ -6401,7 +6401,7 @@
     {
             "title": "SaxWeather",
             "category-ids": ["weather"],
-            "tags" ["swift"],
+            "tags": ["swift"],
             "license": "other",
             "description": "Weather and forecasts from multiple user-selectable api's or PWS",
             "source": "https://github.com/saxobroko/SaxWeather",
