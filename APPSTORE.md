@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1793,6 +1793,9 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [SaxWeather](https://github.com/saxobroko/SaxWeather): Weather and forecasts from multiple user-selectable api's or PWS
+  - [` App Store`](https://apps.apple.com/app/saxweather/id6742063425) <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/e7/a9/8be7a9fa-d6ce-5e5b-27cd-dee72af11cc0/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-03-02_at_17.57.19.png/0x0ss.png'>`Screenshot 1`</a> 
+  - `swift` 
 - [Sky Wizard](https://github.com/hishd/SkyWizard-SwiftUI): Interactive 3D models, animated forecasts and a wizard guide for real-time updates
   - <a href=https://hishd.github.io/SkyWizard/>`https://hishd.github.io/SkyWizard/`</a>
   - [` App Store`](https://apps.apple.com/app/sky-wizard/id6738307790) <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone1.jpg'>`Screenshot 1`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone2.jpg'>`Screenshot 2`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone3.jpg'>`Screenshot 3`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone4.jpg'>`Screenshot 4`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone5.jpg'>`Screenshot 5`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone6.jpg'>`Screenshot 6`</a> 
