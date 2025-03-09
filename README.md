@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1585-green.svg) ![](https://img.shields.io/badge/Updated-March%20%208,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1586-green.svg) ![](https://img.shields.io/badge/Updated-March%20%209,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3557,6 +3557,9 @@ https://joinmastodon.org — [back to top](#readme)
 - [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example)
   -  `2021` `swift` `typhoon` 
   -  ☆`352` 
+- [SaxWeather](https://github.com/saxobroko/SaxWeather): Weather and forecasts from multiple user-selectable api's or PWS
+  - [` App Store`](https://apps.apple.com/app/saxweather/id6742063425) <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/e7/a9/8be7a9fa-d6ce-5e5b-27cd-dee72af11cc0/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-03-02_at_17.57.19.png/0x0ss.png'>`Screenshot 1`</a> 
+  - `swift` 
 - [SimpleWeather](https://github.com/rnystrom/SimpleWeather)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3cdb6944-0019-4d4f-a68b-4b7bf7da01bb'>`Screenshot 1`</a>  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/38da29d2-cb53-46c3-85b1-78ee86a3c223'>`Screenshot 2`</a> 
   -  `2017` `swift` `iglistkit` `openweathermap` 
