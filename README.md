@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1586-green.svg) ![](https://img.shields.io/badge/Updated-March%20%209,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1586-green.svg) ![](https://img.shields.io/badge/Updated-March%2010,%202025-lightgrey.svg)
 
 Jump to
 
@@ -4155,10 +4155,6 @@ https://ionicframework.com/ — [back to top](#readme)
 Cross platform projects — [back to top](#readme) 
  
 
-- [Actions](https://github.com/sindresorhus/Actions): Provides many useful actions for the Shortcuts app
-  - [` App Store`](https://apps.apple.com/app/id1586435171) <a href='https://github.com/sindresorhus/Actions/raw/4c1ba4514125ce30e71c005cf7fc8af5949847c8/Stuff/screenshot1.jpg'>`Screenshot 1`</a> 
-  -  `2025` `swift` 
-  -  ☆`2753` 
 - [BikeShare](https://github.com/joreilly/BikeShare): Jetpack Compose and SwiftUI based Kotlin Multiplatform sample project using the CityBikes API
   -  `2025` `swift` `kotlin` `swiftui` `macos` `jetpack` 
   -  ☆`724` 
@@ -4525,10 +4521,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/ac-helper/id1508764244) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/871e94f7-5dbf-4710-8994-37b4e4c4b993'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `ipad` 
   -  ☆`1703` 
-- [Actions](https://github.com/sindresorhus/Actions): Provides many useful actions for the Shortcuts app
-  - [` App Store`](https://apps.apple.com/app/id1586435171) <a href='https://github.com/sindresorhus/Actions/raw/4c1ba4514125ce30e71c005cf7fc8af5949847c8/Stuff/screenshot1.jpg'>`Screenshot 1`</a> 
-  -  `2025` `swift` 
-  -  ☆`2753` 
 - [AniTime](https://github.com/PangMo5/AniTime): Anime schedule and Korean subtitle
   -  `2020` `swift` `swiftui` `combine` 
   -  ☆`8` 
