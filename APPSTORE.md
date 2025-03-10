@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -2000,10 +2000,6 @@ https://ionicframework.com/ — [back to top](#readme)
 Cross platform projects — [back to top](#readme) 
  
 
-- [Actions](https://github.com/sindresorhus/Actions): Provides many useful actions for the Shortcuts app
-  - [` App Store`](https://apps.apple.com/app/id1586435171) <a href='https://github.com/sindresorhus/Actions/raw/4c1ba4514125ce30e71c005cf7fc8af5949847c8/Stuff/screenshot1.jpg'>`Screenshot 1`</a> 
-  -  `2025` `swift` 
-  -  ☆`2753` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a175e471-523d-4137-add4-c02ef6fa0dff'>`Screenshot 1`</a> 
   -  `2024` `swift` 
@@ -2137,10 +2133,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/ac-helper/id1508764244) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/871e94f7-5dbf-4710-8994-37b4e4c4b993'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `ipad` 
   -  ☆`1703` 
-- [Actions](https://github.com/sindresorhus/Actions): Provides many useful actions for the Shortcuts app
-  - [` App Store`](https://apps.apple.com/app/id1586435171) <a href='https://github.com/sindresorhus/Actions/raw/4c1ba4514125ce30e71c005cf7fc8af5949847c8/Stuff/screenshot1.jpg'>`Screenshot 1`</a> 
-  -  `2025` `swift` 
-  -  ☆`2753` 
 - [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum): AR headset experience
   - [` App Store`](https://apps.apple.com/app/ar-multipendulum/id1583322801) <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/0c/37/91/0c3791f3-97cc-6229-0535-d2482c1bbb45/0e4dc155-6721-4be7-91f7-4a6426dfcfe4_Move_Pendulums__U0028iPhone_U002c_full-screen_U0029.png/600x0w.webp'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ad/86/cd/ad86cd62-077d-3675-8b31-bddded73ea69/253528ba-4df8-445b-95a7-e182aecffb08_Interact_With_Simulation__U0028iPhone_U002c_full-screen_U0029.png/600x0w.webp'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ff/88/5d/ff885da7-b568-8c29-cbd9-9f7213c1624f/75815eef-0ecb-4f9d-8379-2e58d7718a44_LiDAR_Comparison__U0028iPhone_U0029.png/600x0w.webp'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/ba/cf/0b/bacf0bb4-47c0-2f82-41f3-5ac658398a8d/8536dad0-5183-45ac-b308-466194fde85a_AR_Headset_Experience__U0028full-screen_U0029.png/600x0w.webp'>`Screenshot 4`</a> 
   -  `2021` `swift` `swiftui` `metal` `arkit` `vision` 
