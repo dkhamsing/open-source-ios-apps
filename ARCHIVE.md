@@ -14,6 +14,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Abby's Cycle](https://github.com/jc4p/abby-healthkit)
 - [ABU](https://github.com/flexih/ABU)
 - [AccountBook](https://github.com/opensourceios/AccountBook)
+- [Actions](https://github.com/sindresorhus/Actions)
 - [Actor](https://github.com/actorapp/actor-platform)
 - [Adler Planetarium Navigation & Tour](https://github.com/lucasqiu/Adler-Mobile-App)
 - [Aeropack](https://github.com/insurgentgames/Aeropack)
