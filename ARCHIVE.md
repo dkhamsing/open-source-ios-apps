@@ -512,6 +512,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [SwiftRACGoogleImages](https://github.com/Adlai-Holler/SwiftRACGoogleImages)
 - [SwiftSnake](https://github.com/caleb0/SwiftSnake)
 - [SwiftSpace](https://github.com/FlexMonkey/SwiftSpace)
+- [SwiftStrike](https://developer.apple.com/documentation/realitykit/swiftstrike_creating_a_game_with_realitykit)
 - [SwiftTextClock](https://github.com/MichMich/SwiftTextClock)
 - [SwipeIt](https://github.com/ivanbruel/SwipeIt)
 - [Tack](https://github.com/stig/Tack)
