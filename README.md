@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1586-green.svg) ![](https://img.shields.io/badge/Updated-March%2021,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1586-green.svg) ![](https://img.shields.io/badge/Updated-March%2022,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1362,7 +1362,7 @@ File Management — [back to top](#readme)
   -  `2024` `swift` 
   -  ☆`12` 
 - [Dime](https://github.com/rarfell/dimeApp): Beautiful expense tracker built with iOS design guidelines in mind
-  - [` App Store`](https://apps.apple.com/app/dime-budget-expense-tracker/id1635280255) <a href='https://github.com/rarfell/dimeApp/blob/main/ReadmeAssets/hero.png?raw=true'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/dime-budget-expense-tracker/id1635280255) <a href='https://github.com/rarfell/dimeApp/blob/main/docs/assets/hero.png?raw=true'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` 
   -  ☆`1057` 
 - [DivRise](https://github.com/ThasianX/DivRise): Elegant dividend yield and income tracker
