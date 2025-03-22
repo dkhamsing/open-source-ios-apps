@@ -701,7 +701,7 @@ File Management — [back to top](#readme)
   -  `2024` `swift` 
   -  ☆`12` 
 - [Dime](https://github.com/rarfell/dimeApp): Beautiful expense tracker built with iOS design guidelines in mind
-  - [` App Store`](https://apps.apple.com/app/dime-budget-expense-tracker/id1635280255) <a href='https://github.com/rarfell/dimeApp/blob/main/ReadmeAssets/hero.png?raw=true'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/dime-budget-expense-tracker/id1635280255) <a href='https://github.com/rarfell/dimeApp/blob/main/docs/assets/hero.png?raw=true'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` 
   -  ☆`1057` 
 - [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances
