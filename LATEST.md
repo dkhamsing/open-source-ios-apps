@@ -15,7 +15,7 @@
 11. [Element X](https://github.com/element-hq/element-x-ios)
 12. [KFinder](https://github.com/robertwtucker/kfinderapp-ios)
 13. [Pomelo](https://gitlab.com/pomelo-emu/Pomelo)
-14. [Wordflick](https://github.com/mthomason/wordflick-ios)
+14. [Wordflick](https://github.com/opensourceios/wordflick-ios)
 15. [SKTetris](https://github.com/chsxf/SKTetris)
 16. [Sky Wizard](https://github.com/hishd/SkyWizard-SwiftUI)
 17. [RicketyRick](https://github.com/hishd/RicketyRick-iOS)
