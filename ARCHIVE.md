@@ -464,6 +464,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [SF Symbols Game](https://github.com/rudrankriyam/SF-Symbols-Game)
 - [SF Viewer for SF Symbols](https://github.com/aaronpearce/SF-Viewer)
 - [Shadertweak](https://github.com/opensourceios/Shadertweak)
+- [Share The Journey](https://github.com/ResearchKit/ShareTheJourney)
 - [Show OpenGL content](https://github.com/bradley/iOSSwiftOpenGL)
 - [Showio](https://github.com/opensourceios/showio-app)
 - [Shuttle-Tracker](https://github.com/AbstractedSheep/Shuttle-Tracker)
