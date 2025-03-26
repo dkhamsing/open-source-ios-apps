@@ -589,6 +589,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [wildcats](https://github.com/pietbrauer/wildcats)
 - [windmill](https://github.com/qnoid/windmill-ios)
 - [Wizard War](https://github.com/seanhess/wizardwar)
+- [Wordflick](https://github.com/opensourceios/wordflick-ios)
 - [Words](https://github.com/soffes/words)
 - [Workdays](https://github.com/mpak/Workdays)
 - [Wunderschnell](https://github.com/contentful-graveyard/Wunderschnell)
