@@ -32475,12 +32475,12 @@
         "game"
       ],
       "description": "Drag and drop letter tiles to the board and spell words",
-      "source": "https://github.com/mthomason/wordflick-ios",
+      "source": "https://github.com/opensourceios/wordflick-ios",
       "license": "mit",
       "date_added": "Dec 11 2024",
       "suggested_by": "@mthomason",
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/mthomason/wordflick-ios/main/assets/screenshot-sim.png",
