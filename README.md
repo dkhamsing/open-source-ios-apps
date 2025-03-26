@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1586-green.svg) ![](https://img.shields.io/badge/Updated-March%2023,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1586-green.svg) ![](https://img.shields.io/badge/Updated-March%2026,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1653,10 +1653,6 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/wolfenstein-3d-classic-platinum/id309470478) <a href='https://user-images.githubusercontent.com/4723115/146569119-685104a8-b67c-448c-9c3e-6898b5c0ceac.png'>`Screenshot 1`</a> 
   -  `2022` `objc` 
   -  ☆`525` 
-- [Wordflick](https://github.com/mthomason/wordflick-ios): Drag and drop letter tiles to the board and spell words
-  -  <a href='https://raw.githubusercontent.com/mthomason/wordflick-ios/main/assets/screenshot-sim.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/mthomason/wordflick-ios/main/assets/foutput_320.gif'>`Screenshot 2`</a> 
-  -  `2024` `objc` 
-  -  ☆`1` 
 ### Cocos2d 
  
 https://cocos2d.org/ — [back to top](#readme) 
