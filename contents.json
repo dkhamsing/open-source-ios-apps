@@ -3462,7 +3462,7 @@
         "researchkit"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Breast cancer study",
       "license": "bsd-3-clause",
