@@ -107,6 +107,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [ClickWheelKeyboard](https://github.com/b3ll/ClickWheelKeyboard)
 - [climbers](https://github.com/haqu/climbers)
 - [Closebox](https://github.com/opensourceios/Closebox)
+- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C)
 - [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Swift)
 - [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List)
 - [CodeCombat](https://github.com/codecombat/codecombat-ios)
