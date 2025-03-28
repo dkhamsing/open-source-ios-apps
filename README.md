@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1586-green.svg) ![](https://img.shields.io/badge/Updated-March%2026,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1586-green.svg) ![](https://img.shields.io/badge/Updated-March%2028,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2931,10 +2931,6 @@ https://newsapi.org/ — [back to top](#readme)
 - [CleanStore](https://github.com/Clean-Swift/CleanStore): Uses the Clean Swift architecture (Uncle Bob's Clean Architecture)
   -  `2021` `swift` 
   -  ☆`1932` 
-- [CloudKit](https://github.com/Yalantis/CloudKit-Demo.Objective-C)
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fe1d6842-ecb6-4ab0-b47c-ab3611ffbd44'>`Screenshot 1`</a> 
-  -  `2017` `cloudkit` 
-  -  ☆`132` 
 - [compositional-layouts-kit](https://github.com/eleev/compositional-layouts-kit): A set of advanced compositional layouts for UICollectionView with examples (Swift 5.1, iOS 13)
   -  <a href='https://github.com/eleev/compositional-layouts-kit/raw/main/cover-composlayouts.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
