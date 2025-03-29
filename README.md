@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1586-green.svg) ![](https://img.shields.io/badge/Updated-March%2028,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1586-green.svg) ![](https://img.shields.io/badge/Updated-March%2029,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3022,10 +3022,6 @@ https://newsapi.org/ — [back to top](#readme)
 - [PhotoApp](https://github.com/chunkyguy/PhotoApp)
   -  `2025` `kotlin` `kotlin-multiplatform` `compose-multiplatform` 
   -  ☆`13` 
-- [Protocol-Oriented MVVM Examples](https://github.com/ivan-magda/MVVM-Example)
-  -  <a href='https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-generic-apps-list.png'>`Screenshot 1`</a>  <a href='https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-generic-detail.png'>`Screenshot 2`</a>  <a href='https://github.com/ivan-magda/MVVM-Example/blob/master/resources/images/mvvm-example-minion.png'>`Screenshot 3`</a> 
-  -  `2017` `swift` `mvvm` 
-  -  ☆`52` 
 - [Recordings](https://github.com/objcio/app-architecture): Sample code of the App Architecture book
   - <a href=https://www.objc.io/books/app-architecture/>`https://www.objc.io/books/app-architecture/`</a>
   -  `2024` `swift` 
