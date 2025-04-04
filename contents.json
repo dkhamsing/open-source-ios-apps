@@ -32679,6 +32679,24 @@
       "suggested_by": "@amikhaylin",
       "stars": 2,
       "updated": "2025-03-18 10:29:54 UTC"
-    }
+    },
+ {
+      "title": "orgro",
+      "category-ids": [
+        "fluttee"
+      ],
+      "tags": [
+        "flutter"
+      ],
+      "license": "gpl-3.0",
+      "description": "Mobile Org Mode viewer and editor",
+      "source": "https://github.com/amake/orgro",
+      "itunes": "https://apps.apple.com/app/orgro/id1512580074",
+      "screenshots": [
+        "https://github.com/amake/orgro/assets/2172537/a3d841a3-84f3-4c34-9381-c73ab4dc9249"
+      ],
+      "date_added": "Apr 4 2025",
+      "suggested_by": "@ndrew222"      
+    }    
   ]
 }
