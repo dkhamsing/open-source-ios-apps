@@ -32697,6 +32697,24 @@
       ],
       "date_added": "Apr 4 2025",
       "suggested_by": "@ndrew222"      
-    }    
+    },
+    {
+      "title": "Mindustry",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "java"
+      ],
+      "license": "gpl-3.0",
+      "description": "A factory management TD/RTS",
+      "source": "https://github.com/Anuken/Mindustry",
+      "itunes": "https://apps.apple.com/app/mindustry/id1385258906",
+      "screenshots": [
+        "https://github.com/user-attachments/assets/5bc17e10-8f95-4af4-8c83-c0051d18eb21"
+      ],
+      "date_added": "Apr 7 2025",
+      "suggested_by": "@ndrew222"      
+    }  
   ]
 }
