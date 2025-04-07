@@ -10,7 +10,7 @@
 6. [Delta](https://github.com/rileytestut/Delta)
 7. [Foqos](https://github.com/awaseem/foqos)
 8. [Twine RSS Reader](https://github.com/msasikanth/twine)
-9. [Piecelet for NeoDB](https://github.com/lcandy2/neodb-app)
+9. [Piecelet for NeoDB](https://github.com/Piecelet/neodb-app)
 10. [PhotoApp](https://github.com/chunkyguy/PhotoApp)
 11. [Pixelfed](https://github.com/pixelfed/pixelfed-rn)
 12. [Element X](https://github.com/element-hq/element-x-ios)
