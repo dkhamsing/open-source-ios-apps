@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1587-green.svg) ![](https://img.shields.io/badge/Updated-April%20%207,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1588-green.svg) ![](https://img.shields.io/badge/Updated-April%20%208,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1587,6 +1587,9 @@ File Management — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/matiasvillaverde/mobile-ios-vipergame/master/header.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `fastlane` 
   -  ☆`29` 
+- [Mindustry](https://github.com/Anuken/Mindustry): A factory management TD/RTS
+  - [` App Store`](https://apps.apple.com/app/mindustry/id1385258906) <a href='https://github.com/user-attachments/assets/5bc17e10-8f95-4af4-8c83-c0051d18eb21'>`Screenshot 1`</a> 
+  - `java` 
 - [Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-ios)
   - [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a66520cc-5bf8-49e0-bfff-f859de4ad37a'>`Screenshot 1`</a> 
   -  `2024` `c` `ipad` 
