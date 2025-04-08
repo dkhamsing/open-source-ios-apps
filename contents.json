@@ -32715,6 +32715,20 @@
       ],
       "date_added": "Apr 7 2025",
       "suggested_by": "@ndrew222"      
-    }  
+    },
+    {
+      "title": "Sakura Fly",
+      "category-ids": ["github", "game"],
+      "description": "Sakura Fly is an iOS action game developed with Apple's native game engine SpriteKit. Fly over the Fuji mountain and follow the falling sakura flowers.",
+      "source": "https://github.com/cl7/Sakura-Fly",
+      "itunes": "https://apps.apple.com/us/app/sakura-fly/id1019023051",		
+      "license": "mit",   
+      "stars": 106,     
+      "tags": ["swift"],
+      "screenshots": ["https://cloud.githubusercontent.com/assets/6619146/13731560/965791fe-e942-11e5-9a11-f66f404fa18c.gif", 
+      "https://cloud.githubusercontent.com/assets/6619146/13731456/53f81f98-e93f-11e5-9900-03065a18693b.png"],
+      "date_added": "Apr 8, 2025",
+      "suggested_by": "@genbautista"
+    }
   ]
 }
