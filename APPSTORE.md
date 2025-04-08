@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **341** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -795,6 +795,9 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1348821168) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/51/43/ef/5143ef6b-cb73-4c3f-32ad-619f15073704/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/be/49/b0/be49b0f5-9c45-34d1-a672-7d489b6a11a7/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/02/ad/4a02ad71-965b-f094-1381-22054028ada4/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/57/c7/5057c7f3-0bfe-41f2-0760-fe1b261e27c3/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
   -  `2024` `react-native` `ipad` 
   -  ☆`179` 
+- [Mindustry](https://github.com/Anuken/Mindustry): A factory management TD/RTS
+  - [` App Store`](https://apps.apple.com/app/mindustry/id1385258906) <a href='https://github.com/user-attachments/assets/5bc17e10-8f95-4af4-8c83-c0051d18eb21'>`Screenshot 1`</a> 
+  - `java` 
 - [Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-ios)
   - [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a66520cc-5bf8-49e0-bfff-f859de4ad37a'>`Screenshot 1`</a> 
   -  `2024` `c` `ipad` 
