@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1588-green.svg) ![](https://img.shields.io/badge/Updated-April%20%208,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1589-green.svg) ![](https://img.shields.io/badge/Updated-April%20%209,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3457,6 +3457,10 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id6657973126) <a href='https://mymx2-oss.oss-cn-shanghai.aliyuncs.com/doc/img-aichongshe-oss-demo.jpg'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` 
   -  ☆`84` 
+- [Saber](https://github.com/saber-notes/saber): Take handwritten notes with the same functionalities as typed ones
+  - [` App Store`](https://apps.apple.com/app/saber-handwritten-notes/id1671523739) <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/1_home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/2_editor.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/3_login.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/4_settings.png'>`Screenshot 4`</a> 
+  - `dart` 
+  -  ☆`2915` 
 - [Simplenote](https://github.com/automattic/simplenote-ios): Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration
   - <a href=https://simplenote.com/>`https://simplenote.com/`</a>
   - [` App Store`](https://apps.apple.com/app/simplenote/id289429962) <a href='https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg'>`Screenshot 1`</a> 
