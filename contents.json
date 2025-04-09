@@ -32715,6 +32715,24 @@
       ],
       "date_added": "Apr 7 2025",
       "suggested_by": "@ndrew222"      
-    }  
+    },
+{
+  "title": "Saber",
+  "category-ids": ["notes"],
+  "description": "Take handwritten notes with the same functionalities as typed ones",
+  "source": "https://github.com/saber-notes/saber",
+  "itunes": "https://apps.apple.com/app/saber-handwritten-notes/id1671523739",		
+  "license": "gpl-3.0",   
+  "stars": 2915,     
+  "tags": ["dart"],
+  "screenshots": [
+   "https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/1_home.png", 
+   "https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/2_editor.png",
+   "https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/3_login.png",
+   "https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/4_settings.png"
+   ],
+  "date_added": "Apr 8 2025",
+  "suggested_by": "@xjessxx"
+}
   ]
 }
