@@ -32721,7 +32721,7 @@
   "category-ids": ["notes"],
   "description": "Take handwritten notes with the same functionalities as typed ones",
   "source": "https://github.com/saber-notes/saber",
-  "itunes": "https://apps.apple.com/us/app/saber-handwritten-notes/id1671523739",		
+  "itunes": "https://apps.apple.com/app/saber-handwritten-notes/id1671523739",		
   "license": "gpl-3.0",   
   "stars": 2915,     
   "tags": ["2023", "dart"],
