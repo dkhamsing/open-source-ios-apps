@@ -32718,7 +32718,7 @@
     },
 {
   "title": "Saber",
-  "category-ids": ["github", "notes"],
+  "category-ids": ["notes"],
   "description": "Take handwritten notes with the same functianalites as typed ones",
   "source": "https://github.com/saber-notes/saber",
   "itunes": "https://apps.apple.com/us/app/saber-handwritten-notes/id1671523739",		
