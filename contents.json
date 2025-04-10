@@ -32716,6 +32716,26 @@
       "date_added": "Apr 7 2025",
       "suggested_by": "@ndrew222"      
     },
+    {
+      "title": "Goruma IRC",
+      "category-ids": [
+        "communication"
+      ],
+      "tags": [
+        "flutter"
+      ],
+      "license": "gpl-3.0",
+      "source": "https://codeberg.org/emersion/goguma",
+      "itunes": "https://apps.apple.com/app/goguma-irc/id6470394620",
+      "screenshots": [
+        "https://fs.emersion.fr/protected/img/goguma/main.png"
+      ],
+      "date_added": "Apr 8 2025",
+      "suggested_by": "@ndrew222",
+      "stars": 40,
+      "license": "agpl-3.0",
+      "updated": "2025-04-02 15:52:24 UTC"
+    },
 {
   "title": "Saber",
   "category-ids": ["notes"],
