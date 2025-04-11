@@ -31144,7 +31144,7 @@
     {
       "title": "localsend",
       "category-ids": [
-        "misc"
+        "file"
       ],
       "description": "Cross-platform alternative to AirDrop",
       "source": "https://github.com/localsend/localsend",
