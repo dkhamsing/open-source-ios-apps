@@ -32753,6 +32753,25 @@
    ],
   "date_added": "Apr 8 2025",
   "suggested_by": "@xjessxx"
-}
+}, 
+    {
+      "title": "OnionShare",
+      "description": "Securely and anonymously share files using the Tor network",
+      "category-ids": [
+        "file"
+      ],
+      "tags": [
+        "ipad", "python", "tor"
+      ],
+      "license": "other",
+      "source": "https://github.com/onionshare/onionshare",
+      "itunes": "https://apps.apple.com/app/onionshare/id1601890129",
+      "screenshots": [
+        "https://github.com/user-attachments/assets/b12897e0-11f9-43eb-a1e6-636db0400a1d"
+      ],
+      "date_added": "Apr 10 2025",
+      "suggested_by": "@ndrew222",
+      "license": "agpl-3.0"
+    }
   ]
 }
