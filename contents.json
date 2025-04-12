@@ -372,15 +372,11 @@
     }
   ],
   "projects": [
-   {
+    {
       "title": "DevLint",
       "category-ids": ["developer"],
-      "description": "A lightweight macOS app for formatting and correcting Swift syntax.",
-      "source": "https://github.com/csprasad/DevLint",	
-      "license": "mit",
-      "lang": "eng",     
-      "stars": 1,     
-      "tags": ["swift"],
+      "description": "A lightweight macOS app for formatting and correcting Swift syntax. ",
+      "source": "https://github.com/csprasad/DevLint",
       "screenshots": ["https://github.com/csprasad/DevLint/raw/main/screenshot/App_screen.png"],
       "date_added": "Apr 12 2025",
       "suggested_by": "@csprasad"
