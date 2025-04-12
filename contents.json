@@ -386,6 +386,19 @@
       "suggested_by": "@csprasad"
     },
     {
+      "title": "Mr.Tip",
+      "category-ids": ["calculator"],
+      "description": "Mr.Tip designed to easily calculate tips and split bills with a simple, intuitive interface.",
+      "source": "https://github.com/csprasad/Mr-Tip",	
+      "license": "mit",
+      "lang": "eng",     
+      "tags": ["swift"],
+      "screenshots": ["https://github.com/csprasad/Mr-Tip/raw/main/Mr.%20Tip/screenshots/Light.png",
+                      "https://github.com/csprasad/Mr-Tip/raw/main/Mr.%20Tip/screenshots/Dark.png"],
+      "date_added": "Apr 12 2025",
+      "suggested_by": "@csprasad"
+    },
+    {
       "title": "Kurozora",
       "category-ids": [
         "official"
