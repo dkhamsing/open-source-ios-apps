@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1591-green.svg) ![](https://img.shields.io/badge/Updated-April%2012,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1591-green.svg) ![](https://img.shields.io/badge/Updated-April%2013,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3103,7 +3103,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/sebjvidal/UICollectionView-Collapsible-Section-Demo/assets/27621026/361d25d2-f6b5-4c44-9d1a-f36a8a085312'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`40` 
-- [UIKit Catalog by Apple](https://developer.apple.com/documentation/uikit/views_and_controls/uikit_catalog_creating_and_customizing_views_and_controls)
+- [UIKit Catalog by Apple](https://developer.apple.com/documentation/uikit/uikit-catalog-creating-and-customizing-views-and-controls)
   - `swift` 
 - [Using on-demand resources for securely storing API keys](https://github.com/laevandus/OnDemandAPIKeyExample)
   -  `2023` `swift` 
