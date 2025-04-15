@@ -373,6 +373,39 @@
   ],
   "projects": [
     {
+      "title": "QR Share Pro",
+      "category-ids": ["Utilities", "scan"],
+      "description": "QR Share Pro is a privacy-focused QR code app that allows you to scan, generate, and share QR codes effortlessly. It protects your privacy by un-shortening and removing trackers from URLs, providing phishing protection, and keeping all data securely on your device. With features like history tracking, Siri integration, and home screen widgets, QR Share Pro offers a seamless and secure QR code experience—all completely free and ad-free.",
+      "source": "https://github.com/Visual-Studio-Coder/QR-Share-Pro",
+      "itunes": "https://apps.apple.com/us/app/qr-share-pro/id6479589995",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/cf/95/e0cf9583-2545-efa1-942c-8d7857bb3696/d729913c-d19b-4900-9829-2902ea163d47_iPhone_14__U0026_15_Pro_Max_5__U00281_U0029.png/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/d4/07/2dd407be-1619-add1-e5c9-1e98a7b6e2ad/45359dbe-2d34-4ebb-9335-38f3dd332dd0_iPhone_14__U0026_15_Pro_Max_6.png/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/37/73/c9377339-a70e-d9e8-7167-27e67b36af3b/1b0d7659-1e57-4a74-a1a7-aff92576fc91_iPhone_14__U0026_15_Pro_Max_7.png/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/c5/1b/42c51b1d-9993-1fd3-da81-dd54b26e573e/4304ffd3-6040-4899-b8bf-94ebc0a84479_iPhone_14__U0026_15_Pro_Max_8.png/460x0w.webp"
+      ],
+      "date_added": "Apr 15 2025",
+      "suggested_by": "@Visual-Studio-Coder"
+    },
+    {
+      "title": "Recap AI",
+      "category-ids": ["Productivity", "AI", "Gemini", "LLM", "Education"],
+      "description": "Recap AI is an innovative AI-powered app designed to transform your notes, videos, or URLs into personalized quizzes to reinforce learning. Leveraging cutting-edge Gemini AI technology, Recap generates multiple-choice, free-response, and AI-graded quizzes, while also providing detailed feedback to help you improve. With features like quiz history, performance analysis, and seamless sharing, Recap AI is the ultimate tool for students seeking a personalized and effective study experience.",
+      "source": "https://github.com/Visual-Studio-Coder/Recap",
+      "itunes": "https://apps.apple.com/us/app/recap-ai/id6602897472",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/cd/b0/c4cdb03a-23ac-78f0-acaa-a1f30f0bb38d/8d0520ac-e756-4cf0-ab72-7079b1acb6f3_iPhone_14__U0026_15_Pro_Max_-_2.png/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/87/bb/d387bb71-0312-a1d3-c53b-07417d697e60/e5410608-e331-44f5-8019-605261f589f8_iPhone_14__U0026_15_Pro_Max_-_3.png/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/d4/20/59d420e4-507a-93db-9428-fa8590003cae/ec202bf0-e05b-404b-9fd3-df90523bdbdd_iPhone_14__U0026_15_Pro_Max_-_6.png/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/12/20/e91220a5-631d-2e9d-9b66-882f773ee889/3f989e8e-bfe0-4eb4-a4ad-82e17105736f_iPhone_14__U0026_15_Pro_Max_-_4.png/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/23/c3/7f23c35c-d48d-5b33-7dd0-db53ee575dab/5ea8d46b-b3a0-4774-b9d5-79723df112c7_iPhone_14__U0026_15_Pro_Max_5.png/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/ed/65/2ced658a-5d97-1f76-d8c2-090e4bf6fb84/83310b67-678e-445a-8699-bbc9a1f21cfc_iPhone_14__U0026_15_Pro_Max_-_1.png/460x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/5c/fb/de5cfb15-b3aa-7df9-859c-38c49db2c134/b1330fae-d1dc-48d6-9ee7-0f88b9e72e3a_iPhone_14__U0026_15_Pro_Max_-_7.png/460x0w.webp"
+      ],
+      "date_added": "Apr 15 2025",
+      "suggested_by": "@Visual-Studio-Coder"
+    },
+    {
       "title": "Kurozora",
       "category-ids": [
         "official"
