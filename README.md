@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1591-green.svg) ![](https://img.shields.io/badge/Updated-April%2013,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1592-green.svg) ![](https://img.shields.io/badge/Updated-April%2015,%202025-lightgrey.svg)
 
 Jump to
 
@@ -392,6 +392,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/hexacalc/id1529225315) <a href='https://github.com/AnthonyH93/HexaCalc/raw/master/DeviceScreenshots/1.6.0/GreenPositiveHex.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/AnthonyH93/HexaCalc/raw/master/DeviceScreenshots/1.6.0/GreenPositiveBin.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/AnthonyH93/HexaCalc/raw/master/DeviceScreenshots/1.6.0/GreenPositiveDec.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/AnthonyH93/HexaCalc/raw/master/DeviceScreenshots/1.6.0/DefaultSettings.png?raw=true'>`Screenshot 4`</a> 
   -  `2025` `swift` `core-data` 
   -  ☆`44` 
+- [Mr.Tip](https://github.com/csprasad/Mr-Tip): Designed to easily calculate tips and split bills with a simple, intuitive interface
+  -  <a href='https://github.com/csprasad/Mr-Tip/raw/main/Mr.%20Tip/screenshots/Light.png'>`Screenshot 1`</a>  <a href='https://github.com/csprasad/Mr-Tip/raw/main/Mr.%20Tip/screenshots/Dark.png'>`Screenshot 2`</a> 
+  - `swift` 
 - [NeuCalc](https://github.com/YusuFKaan48/NeuCalc): Embraces the neumorphism design language to deliver a modern, soft and intuitive user experience
   -  <a href='https://github.com/user-attachments/assets/d3ab64f6-5128-47fc-a602-3703e7efa235'>`Screenshot 1`</a> 
   -  `2024` `react-native` 
