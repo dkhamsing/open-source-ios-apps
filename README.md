@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1592-green.svg) ![](https://img.shields.io/badge/Updated-April%2015,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1594-green.svg) ![](https://img.shields.io/badge/Updated-April%2016,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1014,6 +1014,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/prayer-in-english/id1217136884) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/2c/50/95/2c5095ff-6142-37cb-97db-a6421590bf02/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/45/8b/9c458b9b-d316-27ec-51ab-6f530b78f2d0/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/2c/22/0f2c227e-f348-1f32-5fa6-e2771c8f7b6d/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2022` `swift` 
   -  ☆`34` 
+- [Recap AI](https://github.com/Visual-Studio-Coder/Recap): Transform your notes, videos, or URLs into personalized quizzes to reinforce learning
+  - [` App Store`](https://apps.apple.com/app/recap-ai/id6602897472) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/cd/b0/c4cdb03a-23ac-78f0-acaa-a1f30f0bb38d/8d0520ac-e756-4cf0-ab72-7079b1acb6f3_iPhone_14__U0026_15_Pro_Max_-_2.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/87/bb/d387bb71-0312-a1d3-c53b-07417d697e60/e5410608-e331-44f5-8019-605261f589f8_iPhone_14__U0026_15_Pro_Max_-_3.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/d4/20/59d420e4-507a-93db-9428-fa8590003cae/ec202bf0-e05b-404b-9fd3-df90523bdbdd_iPhone_14__U0026_15_Pro_Max_-_6.png/460x0w.webp'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/12/20/e91220a5-631d-2e9d-9b66-882f773ee889/3f989e8e-bfe0-4eb4-a4ad-82e17105736f_iPhone_14__U0026_15_Pro_Max_-_4.png/460x0w.webp'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/23/c3/7f23c35c-d48d-5b33-7dd0-db53ee575dab/5ea8d46b-b3a0-4774-b9d5-79723df112c7_iPhone_14__U0026_15_Pro_Max_5.png/460x0w.webp'>`Screenshot 5`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/ed/65/2ced658a-5d97-1f76-d8c2-090e4bf6fb84/83310b67-678e-445a-8699-bbc9a1f21cfc_iPhone_14__U0026_15_Pro_Max_-_1.png/460x0w.webp'>`Screenshot 6`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/5c/fb/de5cfb15-b3aa-7df9-859c-38c49db2c134/b1330fae-d1dc-48d6-9ee7-0f88b9e72e3a_iPhone_14__U0026_15_Pro_Max_-_7.png/460x0w.webp'>`Screenshot 7`</a> 
+  - `productivity` `ai` `gemini` `llm` 
 - [Recast](https://github.com/cuappdev/podcast-ios): A podcast client that seeks to transform the way you listen to, interact with, and share and discover podcasts
   -  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0b/b5/f6/0bb5f665-9207-58d7-effd-23879f680a01/mzl.jtdasfzc.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/b0/85/4c/b0854c05-6930-b70a-28bc-ea65aefe123f/mzl.udtmgexa.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/5c/7b/955c7b98-b7b6-6680-4024-3f756fef12ac/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/57/d1/bc/57d1bc1d-c8ef-50d4-dda0-fadcd7cc9282/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
   -  `2020` `swift` 
@@ -3132,6 +3135,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1137064763) <a href='https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif'>`Screenshot 1`</a>  <a href='https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg'>`Screenshot 2`</a>  <a href='https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg'>`Screenshot 3`</a> 
   -  `2017` `swift` 
   -  ☆`38` 
+- [QR Share Pro](https://github.com/Visual-Studio-Coder/QR-Share-Pro): Privacy-focused, allows you to scan, generate, and share QR codes effortlessly
+  - [` App Store`](https://apps.apple.com/app/qr-share-pro/id6479589995) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/cf/95/e0cf9583-2545-efa1-942c-8d7857bb3696/d729913c-d19b-4900-9829-2902ea163d47_iPhone_14__U0026_15_Pro_Max_5__U00281_U0029.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/d4/07/2dd407be-1619-add1-e5c9-1e98a7b6e2ad/45359dbe-2d34-4ebb-9335-38f3dd332dd0_iPhone_14__U0026_15_Pro_Max_6.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/37/73/c9377339-a70e-d9e8-7167-27e67b36af3b/1b0d7659-1e57-4a74-a1a7-aff92576fc91_iPhone_14__U0026_15_Pro_Max_7.png/460x0w.webp'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/c5/1b/42c51b1d-9993-1fd3-da81-dd54b26e573e/4304ffd3-6040-4899-b8bf-94ebc0a84479_iPhone_14__U0026_15_Pro_Max_8.png/460x0w.webp'>`Screenshot 4`</a> 
+  - `swift` 
 - [Scan Now](https://github.com/WezSieTato/ScanNow): Fast and simple document scanning
   - [` App Store`](https://apps.apple.com/app/scan-now/id1660940489)
   -  `2025` `swift` `swiftui` `visionkit` `pdf` `productivity` `ipad` 
