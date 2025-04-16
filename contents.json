@@ -32788,10 +32788,11 @@
     },
     {
       "title": "QR Share Pro",
-      "category-ids": ["Utilities", "scan"],
-      "description": "QR Share Pro is a privacy-focused QR code app that allows you to scan, generate, and share QR codes effortlessly. It protects your privacy by un-shortening and removing trackers from URLs, providing phishing protection, and keeping all data securely on your device. With features like history tracking, Siri integration, and home screen widgets, QR Share Pro offers a seamless and secure QR code experience—all completely free and ad-free.",
+      "category-ids": ["scan"],
+      "tags": ["swift"],
+      "description": "Privacy-focused, allows you to scan, generate, and share QR codes effortlessly",
       "source": "https://github.com/Visual-Studio-Coder/QR-Share-Pro",
-      "itunes": "https://apps.apple.com/us/app/qr-share-pro/id6479589995",
+      "itunes": "https://apps.apple.com/app/qr-share-pro/id6479589995",
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/cf/95/e0cf9583-2545-efa1-942c-8d7857bb3696/d729913c-d19b-4900-9829-2902ea163d47_iPhone_14__U0026_15_Pro_Max_5__U00281_U0029.png/460x0w.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/d4/07/2dd407be-1619-add1-e5c9-1e98a7b6e2ad/45359dbe-2d34-4ebb-9335-38f3dd332dd0_iPhone_14__U0026_15_Pro_Max_6.png/460x0w.webp",
@@ -32803,10 +32804,11 @@
     },
     {
       "title": "Recap AI",
-      "category-ids": ["Productivity", "AI", "Gemini", "LLM", "Education"],
-      "description": "Recap AI is an innovative AI-powered app designed to transform your notes, videos, or URLs into personalized quizzes to reinforce learning. Leveraging cutting-edge Gemini AI technology, Recap generates multiple-choice, free-response, and AI-graded quizzes, while also providing detailed feedback to help you improve. With features like quiz history, performance analysis, and seamless sharing, Recap AI is the ultimate tool for students seeking a personalized and effective study experience.",
+      "category-ids": ["education"],
+      "tags": ["Productivity", "AI", "Gemini", "LLM"],
+      "description": "Transform your notes, videos, or URLs into personalized quizzes to reinforce learning",
       "source": "https://github.com/Visual-Studio-Coder/Recap",
-      "itunes": "https://apps.apple.com/us/app/recap-ai/id6602897472",
+      "itunes": "https://apps.apple.com/app/recap-ai/id6602897472",
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/cd/b0/c4cdb03a-23ac-78f0-acaa-a1f30f0bb38d/8d0520ac-e756-4cf0-ab72-7079b1acb6f3_iPhone_14__U0026_15_Pro_Max_-_2.png/460x0w.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/87/bb/d387bb71-0312-a1d3-c53b-07417d697e60/e5410608-e331-44f5-8019-605261f589f8_iPhone_14__U0026_15_Pro_Max_-_3.png/460x0w.webp",
