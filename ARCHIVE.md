@@ -443,6 +443,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Revolved](https://github.com/Ciechan/Revolved)
 - [Rewatch](https://github.com/Palleas/Rewatch)
 - [RKGist](https://github.com/RestKit/RKGist)
+- [Round & Split](https://github.com/lukhnos/roundandsplit)
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
 - [RSSRead](https://github.com/ming1016/RSSRead)
 - [Runner-Stats](https://github.com/hukun01/Runner-Stats)
