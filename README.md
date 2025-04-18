@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1594-green.svg) ![](https://img.shields.io/badge/Updated-April%2016,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1594-green.svg) ![](https://img.shields.io/badge/Updated-April%2018,%202025-lightgrey.svg)
 
 Jump to
 
@@ -399,10 +399,6 @@ Jump to
   -  <a href='https://github.com/user-attachments/assets/d3ab64f6-5128-47fc-a602-3703e7efa235'>`Screenshot 1`</a> 
   -  `2024` `react-native` 
   -  ☆`1` 
-- [Round & Split](https://github.com/lukhnos/roundandsplit): Tip Calculator
-  - [` App Store`](https://apps.apple.com/app/round-split/id912288737) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/a9/92/1e/a9921e81-a138-5694-4970-14460572137b/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/40/d5/69/40d5698f-9a36-f7bc-ad27-e828e86b519f/pr_source.png/460x0w.jpg'>`Screenshot 2`</a> 
-  -  `2024` `swift` 
-  -  ☆`50` 
 - [SIP Calculator](https://github.com/tirupati17/sip-calculator-swift): Calculate the future value of SIP (Systematic Investment Plan) payments
   - [` App Store`](https://apps.apple.com/app/id1092822415) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/3c/33/53/3c335302-9f13-5771-52df-150de85ab20e/pr_source.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2023` `swift` 
