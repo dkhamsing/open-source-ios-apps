@@ -73,6 +73,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Bequest](https://github.com/splinesoft/Bequest)
 - [Bike Compass](https://github.com/raulriera/Bike-Compass)
 - [BitPrice](https://github.com/opensourceios/bitprice-ios)
+- [Bitrise](https://github.com/toshi0383/Bitrise-iOS)
 - [BitStore](https://github.com/BitStore/BitStore-iOS)
 - [BoardBank](https://github.com/richardneitzke/BoardBank)
 - [Bombus Pomodoro](https://github.com/opensourceios/Bombus)
