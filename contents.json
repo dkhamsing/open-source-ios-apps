@@ -32820,6 +32820,15 @@
       ],
       "date_added": "Apr 15 2025",
       "suggested_by": "@Visual-Studio-Coder"
-    }
+    },
+   {
+     "title": "MultiSelectPicker",
+     "category-ids": ["components", "ui", "swiftui"],
+     "description": "A SwiftUI component for selecting multiple options, built to feel as close as possible to the native Picker.",
+     "source": "https://github.com/yusuphjoluwasen/MultiSelectPicker",
+     "screenshots": ["https://github.com/user-attachments/assets/afbc3ec1-ec20-41d8-b950-2743c6a4cace"],
+     "date_added": "Apr 19 2025",
+     "suggested_by": "@yusuphjoluwasen"
+  },
   ]
 }
