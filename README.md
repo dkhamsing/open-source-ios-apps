@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1594-green.svg) ![](https://img.shields.io/badge/Updated-April%2018,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1594-green.svg) ![](https://img.shields.io/badge/Updated-April%2019,%202025-lightgrey.svg)
 
 Jump to
 
@@ -711,11 +711,6 @@ Jump to
   -  <a href='https://github.com/eugenebokhan/Awesome-ML/raw/master/Media/App-Demo-Transparent-Background.gif'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`220` 
-- [Bitrise](https://github.com/toshi0383/Bitrise-iOS): Client app for bitrise.io
-  - <a href=https://www.bitrise.io>`https://www.bitrise.io`</a>
-  -  <a href='https://raw.githubusercontent.com/toshi0383/assets/master/Bitrise-iOS/screen-shots.png'>`Screenshot 1`</a> 
-  -  `2020` `swift` 
-  -  ☆`144` 
 - [Buglife](https://github.com/Buglife/Buglife-iOS): Awesome bug reporting SDK & web platform
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d9e38638-c758-4240-ac12-f9c56e96f5bd'>`Screenshot 1`</a> 
   -  `2023` `objc` 
