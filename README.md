@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1594-green.svg) ![](https://img.shields.io/badge/Updated-April%2019,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1594-green.svg) ![](https://img.shields.io/badge/Updated-April%2020,%202025-lightgrey.svg)
 
 Jump to
 
@@ -719,10 +719,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/ci2go-the-circleci-client/id940028427) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/a8/7b/8fa87bff-369c-f556-19be-04f9d64aafe5/mzl.cbjemxao.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/32/ba/3e/32ba3e1c-2ca3-9acb-6edb-837d9813d42f/mzl.fnosaifu.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/75/b1/c3/75b1c366-26f2-3468-88cb-a5576b72ee38/mzl.fdapyomc.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2022` `swift` 
   -  ☆`92` 
-- [CodeBucket](https://github.com/thedillonb/CodeBucket): Browse & maintain your Bitbucket repositories
-  -  <a href='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/RepositoryView.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Slideout.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Repositories.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/ChangeSets.png'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/Issues.png'>`Screenshot 5`</a> 
-  -  `2022` `objc` 
-  -  ☆`198` 
 - [Dash](https://github.com/Kapeli/Dash-iOS): Instant offline access to 150+ API documentation sets
   - <a href=https://kapeli.com/dash_ios>`https://kapeli.com/dash_ios`</a>
   -  <a href='https://kapeli.com/img/dash_ios-s1.png'>`Screenshot 1`</a>  <a href='https://kapeli.com/img/dash_ios-s2.png'>`Screenshot 2`</a> 
