@@ -11014,7 +11014,7 @@
         "developer"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/thedillonb/CodeBucket/master/Screenshots/RepositoryView.png",
