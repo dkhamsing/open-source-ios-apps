@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1594-green.svg) ![](https://img.shields.io/badge/Updated-April%2020,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1594-green.svg) ![](https://img.shields.io/badge/Updated-April%2021,%202025-lightgrey.svg)
 
 Jump to
 
@@ -832,10 +832,6 @@ Jump to
   -  <a href='https://user-images.githubusercontent.com/4723115/179809265-e6318a71-bf14-4a05-9043-6f0e2d7c306f.png'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`203` 
-- [Zeplin](https://github.com/anonrig/zeplin-ios): Preview your designs on Zeplin
-  -  <a href='https://raw.githubusercontent.com/anonrig/zeplin-ios/master/docs/ZeplinClient_GitHub.png'>`Screenshot 1`</a> 
-  -  `2021` `swift` 
-  -  ☆`47` 
 ### GitHub 
  
 [back to top](#readme) 
