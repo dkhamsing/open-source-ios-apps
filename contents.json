@@ -20827,7 +20827,7 @@
       "description": "Preview your designs on Zeplin",
       "source": "https://github.com/anonrig/zeplin-ios",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/anonrig/zeplin-ios/master/docs/ZeplinClient_GitHub.png"
