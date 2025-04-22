@@ -15641,7 +15641,7 @@
         "quick",
         "nimble",
         "carthage",
-        "swiftyjson"
+        "swiftyjson", "archive"
       ],
       "screenshots": [
         "https://github.com/rlwimi/major-input/raw/master/Resources/screenshots/tour.gif"
