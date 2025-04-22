@@ -300,6 +300,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Lunchify](https://github.com/sallar/lunchify-swift)
 - [LVMC](https://github.com/falkolab/LVMC-Demo-Alloy-App)
 - [M](https://github.com/Mynigma/M)
+- [Major Input](https://github.com/rlwimi/major-input)
 - [MapBox Earth](https://github.com/mapbox/mapbox-earth)
 - [Mast](https://github.com/ShihabMe/Mast2)
 - [Master](https://github.com/Kjuly/iPokeMon)
