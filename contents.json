@@ -8303,7 +8303,7 @@
         "event"
       ],
       "tags": [
-        "react-native"
+        "react-native", "archive"
       ],
       "description": "Official F8 app",
       "source": "https://github.com/fbsamples/f8app",
