@@ -26641,10 +26641,10 @@
       ],
       "tags": [
         "swift",
-        "swiftui"
+        "swiftui", "archive"
       ],
       "description": "Generate strong passwords",
-      "source": "https://github.com/il1ane/lockd",
+      "source": "https://github.com/opensourceios/lockd",
       "itunes": "https://apps.apple.com/app/lockd/id1571284259",
       "screenshots": [
         "https://user-images.githubusercontent.com/61360545/121601803-bb126b00-ca46-11eb-8163-ea77ef7dbc0b.gif"
