@@ -32820,6 +32820,15 @@
       ],
       "date_added": "Apr 15 2025",
       "suggested_by": "@Visual-Studio-Coder"
-    }
+    },
+   {
+      "title": "StoicQuotes",
+      "category-ids": ["misc"],
+      "tags": ["swift"],
+      "license": "other",
+      "source": "https://github.com/il1ane/StoicQuotes", 
+      "date_added": "Apr 23 2025",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
