@@ -292,6 +292,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [lobsters-reader](https://github.com/cfdrake/lobsters-reader)
 - [Local Storage](https://github.com/geberl/swift-localstorage)
 - [Locative](https://github.com/LocativeHQ/Locative-iOS)
+- [lockd](https://github.com/opensourceios/lockd)
 - [LogU](https://github.com/brettalcox/logU-swift)
 - [london-react](https://github.com/JoeStanton/london-react)
 - [Longboxed](https://github.com/Eason828/Longboxed-iOS)
