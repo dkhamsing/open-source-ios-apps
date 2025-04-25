@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1595-green.svg) ![](https://img.shields.io/badge/Updated-April%2024,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1595-green.svg) ![](https://img.shields.io/badge/Updated-April%2025,%202025-lightgrey.svg)
 
 Jump to
 
@@ -4741,10 +4741,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/listapp.ios/blob/main/images/ios14.png?raw=true'>`Screenshot 1`</a> 
   -  `2022` `swift` `objc` `swiftui` 
   -  ☆`30` 
-- [lockd](https://github.com/il1ane/lockd): Generate strong passwords
-  - [` App Store`](https://apps.apple.com/app/lockd/id1571284259) <a href='https://user-images.githubusercontent.com/61360545/121601803-bb126b00-ca46-11eb-8163-ea77ef7dbc0b.gif'>`Screenshot 1`</a> 
-  -  `2022` `swift` `swiftui` 
-  -  ☆`79` 
 - [MakeItSo](https://github.com/peterfriese/MakeItSo): A clone of Apple's Reminders
   -  <a href='https://user-images.githubusercontent.com/4723115/149539522-01ae6d20-e365-40bc-aaf0-c1f357321878.gif'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` `firebase` 
