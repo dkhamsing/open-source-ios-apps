@@ -194,6 +194,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App)
 - [FinalFighter](https://github.com/sebcode/FinalFighter-iphone)
 - [Find My Bus NJ](https://github.com/findmybusnj/findmybusnj-swift)
+- [Firefox Focus](https://github.com/mozilla-mobile/focus-ios)
 - [Flappy Bird using SpriteBuilder](https://github.com/ignotusverum/1w-flappy)
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search)
 - [FlickrWatch](https://github.com/jazzychad/FlickrWatch)
