@@ -20005,7 +20005,7 @@
       "source": "https://github.com/julianschiavo/Covidcheck",
       "license": "other",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "date_added": "March 16 2020",
       "suggested_by": "@dkhamsing",
