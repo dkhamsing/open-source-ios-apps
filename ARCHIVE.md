@@ -581,6 +581,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Vim](https://github.com/applidium/Vim)
 - [VIPER-SWIFT](https://github.com/mutualmobile/VIPER-SWIFT)
 - [VisitBCN](https://github.com/opensourceios/visitBCN)
+- [VPN On](https://github.com/lexrus/VPNOn)
 - [WaniKani](https://github.com/haawa799/-WaniKani2)
 - [warpedAR](https://github.com/Trevorrwarduk/warpedAR-Open-Source)
 - [WatchKit tutorials](https://github.com/kostiakoval/WatchKit-Apps)
