@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1595-green.svg) ![](https://img.shields.io/badge/Updated-April%2026,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1595-green.svg) ![](https://img.shields.io/badge/Updated-April%2027,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1239,10 +1239,6 @@ Today Extensions or Widgets — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d3e4aabc-1ab5-4515-ac35-65b9c301f25e'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`68` 
-- [VPN On](https://github.com/lexrus/VPNOn): Extension to turn on VPN
-  - [` App Store`](https://apps.apple.com/app/vpn-on/id951344279) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*9qSbd77zijp5UPODaWM9CQ.png'>`Screenshot 1`</a> 
-  -  `2020` `swift` 
-  -  ☆`4484` 
 ### Widget 
  
 Widget (iOS 14) — [back to top](#readme) 
@@ -3185,10 +3181,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id922429609) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/10/b6/9e10b656-8e6e-b4b8-bdce-5f787f12d25e/mzl.utcbsrcn.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/40/cc/5f/40cc5f60-4d7a-cb19-ddb5-fb9e92de9205/mzl.xpwjvrke.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/c5/a2/a8c5a2de-33fc-1fad-7f5d-3f1579bc3fc3/mzl.xvkhmgab.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/be/32/0a/be320a6b-a860-a359-5c33-38bba742aef1/mzl.vgjqcasc.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2025` `javascript` `cordova` `iphone` `ipad` 
   -  ☆`6409` 
-- [VPN On](https://github.com/lexrus/VPNOn): Extension to turn on VPN
-  - [` App Store`](https://apps.apple.com/app/vpn-on/id951344279) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*9qSbd77zijp5UPODaWM9CQ.png'>`Screenshot 1`</a> 
-  -  `2020` `swift` 
-  -  ☆`4484` 
 - [WireGuard](https://github.com/WireGuard/wireguard-apple): WireGuard: fast, modern, secure VPN tunnel (less battery consumption than OpenVPN) 
   - [` App Store`](https://apps.apple.com/app/wireguard/id1441195209) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f9e45058-bd35-4626-b5c9-12f8ba174f63'>`Screenshot 1`</a> 
   -  `2024` `swift` 
