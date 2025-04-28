@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1595-green.svg) ![](https://img.shields.io/badge/Updated-April%2027,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1595-green.svg) ![](https://img.shields.io/badge/Updated-April%2028,%202025-lightgrey.svg)
 
 Jump to
 
@@ -335,10 +335,6 @@ Jump to
 [back to top](#readme) 
  
 
-- [Brave Private Web Browser](https://github.com/brave/brave-ios): Lightning fast, safe and private, preventing you from being tracked by ads
-  - [` App Store`](https://apps.apple.com/app/brave-web-browser/id1052879175) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/be/5f/babe5fce-b0dd-2412-8dd7-bb20fb27f913/mzl.ckztmnji.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ae/85/6d/ae856db2-fe4c-5937-ea1d-1ffd34947c37/mzl.mgkpxjfj.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/eb/33/2feb3354-06ab-6314-e71b-e1de8afcecdb/mzl.dbsrkeua.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/3a/93/c0/3a93c0e0-5343-af24-2450-cc683a8c78db/mzl.dtsvqdku.jpg/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2024` `swift` 
-  -  ☆`1714` 
 - [Chrome](https://chromium.googlesource.com/chromium/src/ios/)
   - <a href=https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html>`https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html`</a>
   -  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/15/4d/26/154d2610-1d6e-ed2e-7a7a-698f98e466c1/mzl.fuawsxsw.png/626x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/69/51/f2/6951f239-8529-90e5-3b24-0b8ccae172e3/mzl.qdavkgej.png/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/f9/84/0af984c6-83d0-270a-d062-5a16fd16acfb/mzl.ykkkwqij.png/626x0w.jpg'>`Screenshot 3`</a> 
