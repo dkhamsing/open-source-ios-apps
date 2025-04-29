@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1595-green.svg) ![](https://img.shields.io/badge/Updated-April%2028,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1595-green.svg) ![](https://img.shields.io/badge/Updated-April%2029,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1739,10 +1739,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/0.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/1.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/dkhamsing/covid19.swift/blob/dev/Images/2.png?raw=true'>`Screenshot 3`</a> 
   -  `2021` `swift` 
   -  ☆`31` 
-- [Covidcheck](https://github.com/julianschiavo/Covidcheck): Track COVID-19 cases in a beautiful, easy-to-use interface
-  -  <a href='https://github.com/julianschiavo/Covidcheck/blob/master/screenshot.PNG?raw=true'>`Screenshot 1`</a> 
-  -  `2020` `swift` 
-  -  ☆`252` 
 - [CovidUI](https://github.com/nerdsupremacist/CovidUI): Track the status of COVID-19 around the world
   -  <a href='https://github.com/nerdsupremacist/CovidUI/raw/master/demo.gif'>`Screenshot 1`</a> 
   -  `2021` `swift` 
