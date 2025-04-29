@@ -139,6 +139,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [CoolSpot](https://github.com/neonichu/CoolSpot)
 - [Count It](https://github.com/PiXeL16/CountItApp)
 - [Counter](https://github.com/mutualmobile/Counter)
+- [Covidcheck](https://github.com/julianschiavo/Covidcheck)
 - [CrimeMapper](https://github.com/swwol/CrimeMapper)
 - [Cryptose](https://github.com/insurgentgames/Cryptose)
 - [Crystal Clipboard](https://github.com/jzzocc/crystal-clipboard-ios)
