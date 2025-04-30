@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1595-green.svg) ![](https://img.shields.io/badge/Updated-April%2029,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1596-green.svg) ![](https://img.shields.io/badge/Updated-April%2030,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1034,6 +1034,9 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/ogoguel/activegs-ios/master/README.images/screen5.png'>`Screenshot 1`</a> 
   -  `2024` `objc` 
   -  ☆`89` 
+- [CraftOS-PC](https://github.com/MCJack123/craftos2): Modern ComputerCraft emulator
+  - [` App Store`](https://apps.apple.com/app/craftos-pc/id1565893014) <a href='https://github.com/user-attachments/assets/28474b01-a9c3-4479-8cb5-09db3938fd5a'>`Screenshot 1`</a> 
+  - `cpp` `java` 
 - [Delta](https://github.com/rileytestut/Delta): Video game emulator for non-jailbroken devices (successor to GBA4iOS)
   - [` App Store`](https://apps.apple.com/app/delta-game-emulator/id1048524688) <a href='https://user-images.githubusercontent.com/705880/115471008-203aa480-a1ec-11eb-8aba-237a46799543.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
