@@ -32829,6 +32829,24 @@
       "source": "https://github.com/il1ane/StoicQuotes", 
       "date_added": "Apr 23 2025",
       "suggested_by": "@dkhamsing"
-    }    
+    },
+     {
+      "title": "CraftOS-PC",
+      "category-ids": [
+        "emulator"
+      ],
+      "tags": [
+        "cpp", "java"
+      ],
+      "screenshots": [
+        "https://github.com/user-attachments/assets/28474b01-a9c3-4479-8cb5-09db3938fd5a"
+      ],
+      "description": "Modern ComputerCraft emulator",
+      "source": "https://github.com/MCJack123/craftos2",
+      "itunes": "https://apps.apple.com/app/craftos-pc/id1565893014",
+      "license": "mit",
+      "date_added": "Apr 29 2025",
+      "suggested_by": "@ndrew222" 
+    }
   ]
 }
