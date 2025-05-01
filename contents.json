@@ -32849,10 +32849,10 @@
         "education"
       ],
       "tags": [
-        "Productivity",
-        "AI",
-        "Gemini",
-        "LLM"
+        "productivity",
+        "ai",
+        "gemini",
+        "llm"
       ],
       "description": "Transform your notes, videos, or URLs into personalized quizzes to reinforce learning",
       "source": "https://github.com/Visual-Studio-Coder/Recap",
