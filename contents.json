@@ -3887,7 +3887,7 @@
         "location"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, & more",
       "license": "apache-2.0",
