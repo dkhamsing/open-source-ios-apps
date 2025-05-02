@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **342** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **341** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1090,10 +1090,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id717539389) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/6a/b0/f6/6ab0f684-a286-16d9-199d-89b4307590ac/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/64/49/47/64494743-7090-202f-344d-4d1750755ac4/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/1d/31/e6/1d31e607-ebbc-8dda-7b48-d4361667e152/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/85/f6/a1/85f6a122-2962-a4be-126e-f2c97804caaf/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2020` `objc` 
   -  ☆`15` 
-- [OneBusAway](https://github.com/OneBusAway/onebusaway-iphone): Real-time arrival & schedule information for public transit in Seattle, Atlanta, Tampa, & more
-  - [` App Store`](https://apps.apple.com/app/onebusaway/id329380089) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/11/80/e7/1180e747-411f-fe03-71ca-c42fd1165876/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/a4/b2/5b/a4b25b8f-322b-52b3-7209-bdb8da744af7/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/4d/0c/d0/4d0cd0bc-64b6-f05e-fb5b-b2b3e8b54a95/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/97/96/19/9796194c-ee95-6d4c-8944-00af72e64452/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/f3/16/c1/f316c14c-8ab0-5fb7-12d9-eb4875f3dcd7/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
-  -  `2021` `objc` 
-  -  ☆`219` 
 - [OsmAnd Maps](https://github.com/osmandapp/Osmand): Map with access to OpenStreetMaps
   - <a href=https://osmand.net/>`https://osmand.net/`</a>
   - [` App Store`](https://apps.apple.com/app/id934850257) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/4e/2e/83/4e2e8318-746e-d079-d520-145290e37c16/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/cd/55/dc/cd55dc5f-143c-89a0-8239-426c195c6490/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/86/9b/65/869b6564-776f-bed9-5896-2ec9c0fcb299/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
