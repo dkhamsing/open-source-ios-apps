@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1596-green.svg) ![](https://img.shields.io/badge/Updated-May%20%202,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1596-green.svg) ![](https://img.shields.io/badge/Updated-May%20%203,%202025-lightgrey.svg)
 
 Jump to
 
@@ -559,10 +559,6 @@ Jump to
   -  <a href='https://user-images.githubusercontent.com/4723115/236501293-3e613366-e186-4b94-a060-d8aae797b610.jpg'>`Screenshot 1`</a> 
   -  `2017` `objc` `yapdatabase` `purelayout` `mantle` `bluetooth` 
   -  ☆`489` 
-- [Chats](https://github.com/acani/Chats)
-  -  <a href='https://github.com/acani/Chats/raw/master/Documents/iPhone-Client-Screenshots/iPhone-Client-Screenshots.gif'>`Screenshot 1`</a> 
-  -  `2021` `swift` 
-  -  ☆`2050` 
 - [ChatSecure](https://github.com/ChatSecure/ChatSecure-iOS): Send messages with OTR encryption
   - [` App Store`](https://apps.apple.com/app/chatsecure-encrypted-messenger/id464200063) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c8/50/45/c85045d1-e4c3-b45c-b807-88895baabea7/mzl.ifcxuteh.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/76/4a/b2764a43-7234-d208-f390-2d7efd07b13d/mzl.efigjugg.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/f1/8d/b6f18d6a-c361-bfda-9992-6bb0ddc7d9e3/mzl.yplvxiqv.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/49/af/7a/49af7a2a-6ed2-9f47-5511-92c8734a9c77/mzl.bdnewqrd.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2024` `objc` `xmpp` 
