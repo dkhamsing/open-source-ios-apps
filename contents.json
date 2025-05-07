@@ -5405,7 +5405,7 @@
         "official"
       ],
       "tags": [
-        "afnetworking"
+        "afnetworking", "archive"
       ],
       "description": "Official DuckDuckGo app",
       "source": "https://github.com/duckduckgo/ios",
