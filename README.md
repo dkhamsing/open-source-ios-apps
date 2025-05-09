@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1596-green.svg) ![](https://img.shields.io/badge/Updated-May%20%208,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1597-green.svg) ![](https://img.shields.io/badge/Updated-May%20%209,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2750,6 +2750,9 @@ https://newsapi.org/ — [back to top](#readme)
   - <a href=https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html>`https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html`</a>
   -  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/15/4d/26/154d2610-1d6e-ed2e-7a7a-698f98e466c1/mzl.fuawsxsw.png/626x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/69/51/f2/6951f239-8529-90e5-3b24-0b8ccae172e3/mzl.qdavkgej.png/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/f9/84/0af984c6-83d0-270a-d062-5a16fd16acfb/mzl.ykkkwqij.png/626x0w.jpg'>`Screenshot 3`</a> 
   - `objective-c++` 
+- [DuckDuckGo browser](https://github.com/duckduckgo/apple-browsers)
+  - [` App Store`](https://apps.apple.com/app/duckduckgo-browser-search-ai/id663592361) <a href='https://github.com/user-attachments/assets/c67787e0-97ef-40d4-89ad-deed9dfa3c98'>`Screenshot 1`</a> 
+  - `swift` `ipad` `macos` 
 - [Firefox](https://github.com/mozilla-mobile/firefox-ios): Official Firefox app
   - [` App Store`](https://apps.apple.com/app/firefox-web-browser/id989804926) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/47/b7/1b/47b71b74-5bb4-9c4d-4826-18f89324af9d/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/24/97/ba249744-0dda-90a9-4406-2d30720e59a4/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/93/d1/d4/93d1d4d1-5cde-f1d7-4e68-1fe824bcdc13/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/89/17/58/89175888-9e1e-3fcf-ce42-9dd347327298/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/36/dc/9f36dc54-b99b-fd5c-0076-0cdb1d4bc53e/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2025` `swift` `carthage` `alamofire` `snapkit` `libphonenumber` 
