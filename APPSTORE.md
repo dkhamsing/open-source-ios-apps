@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **341** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1382,6 +1382,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/bluesky-social/id6444370199) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/8a73b9fb-4708-4ce5-b241-bb8da41feebd'>`Screenshot 1`</a> 
   -  `2025` `typescript` `react-native` 
   -  ☆`15951` 
+- [DuckDuckGo browser](https://github.com/duckduckgo/apple-browsers)
+  - [` App Store`](https://apps.apple.com/app/duckduckgo-browser-search-ai/id663592361) <a href='https://github.com/user-attachments/assets/c67787e0-97ef-40d4-89ad-deed9dfa3c98'>`Screenshot 1`</a> 
+  - `swift` `ipad` `macos` 
 - [Firefox](https://github.com/mozilla-mobile/firefox-ios): Official Firefox app
   - [` App Store`](https://apps.apple.com/app/firefox-web-browser/id989804926) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/47/b7/1b/47b71b74-5bb4-9c4d-4826-18f89324af9d/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/24/97/ba249744-0dda-90a9-4406-2d30720e59a4/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/93/d1/d4/93d1d4d1-5cde-f1d7-4e68-1fe824bcdc13/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/89/17/58/89175888-9e1e-3fcf-ce42-9dd347327298/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/36/dc/9f36dc54-b99b-fd5c-0076-0cdb1d4bc53e/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2025` `swift` `carthage` `alamofire` `snapkit` `libphonenumber` 
