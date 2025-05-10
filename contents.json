@@ -5498,7 +5498,7 @@
         "sample"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "Fun way to create / share stories & poems",
       "license": "apache-2.0",
