@@ -4602,7 +4602,7 @@
       "description": "Play movies",
       "source": "https://github.com/danylokos/popcorntime-ios",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/1.png",
