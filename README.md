@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1597-green.svg) ![](https://img.shields.io/badge/Updated-May%20%209,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1597-green.svg) ![](https://img.shields.io/badge/Updated-May%2010,%202025-lightgrey.svg)
 
 Jump to
 
@@ -643,10 +643,6 @@ Jump to
 - [Real-time Chat](https://www.kodeco.com/22067733-firebase-tutorial-real-time-chat)
   -  <a href='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'>`Screenshot 1`</a> 
   - `firebase` 
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.iOS): For Meteor chat platform
-  - [` App Store`](https://apps.apple.com/app/rocket-chat/id1148741252) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a5/92/5e/a5925eca-3df6-1df4-0824-039df79d6b5b/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/56/71/e7/5671e781-80fb-b8f6-059e-e928b96249c1/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/71/11/9a/71119a69-1316-cbf8-ffee-acea9a8c4501/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/c7/e0/2fc7e09b-5620-035b-1316-089d9805a3d5/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/03/e8/b0/03e8b0a0-cc5d-08d3-70c6-8dd817439f6a/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
-  -  `2020` `swift` 
-  -  ☆`1036` 
 - [Signal](https://github.com/signalapp/Signal-iOS): Free, world-wide, private messaging & phone calls
   - [` App Store`](https://apps.apple.com/app/id874139669) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/62/68/576268bf-3474-99e7-2621-adbf2438b3ce/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/d3/7a/b8d37a2b-3ecc-8775-3ce1-534d0adc2904/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/11/82/fc/1182fc57-5a43-4403-1048-47735d0a75f7/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/65/78/39/6578398d-7204-d380-cf59-783acd3fa859/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2025` `objc` `iphone` `carthage` `socketrocket` `purelayout` `openssl` 
