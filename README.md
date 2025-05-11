@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1597-green.svg) ![](https://img.shields.io/badge/Updated-May%2010,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1597-green.svg) ![](https://img.shields.io/badge/Updated-May%2011,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2358,10 +2358,6 @@ Image, video, audio, reading — [back to top](#readme)
 - [PHPHub](https://github.com/Aufree/phphub-ios): App for https://learnku.com/laravel
   -  `2018` `iphone` `ipad` 
   -  ☆`1228` 
-- [PopcornTime](https://github.com/danylokos/popcorntime-ios): Play movies
-  -  <a href='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/danylokostyshyn/popcorntime-ios/master/Screenshots/3.png'>`Screenshot 3`</a> 
-  -  `2017` `swift` 
-  -  ☆`191` 
 - [Projector](https://github.com/fatih-gursoy/Projector): Get information about movies using The Movie Database (TMDb)
   -  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture1.png'>`Screenshot 1`</a>  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/picture2.png'>`Screenshot 2`</a>  <a href='https://github.com/fatih-gursoy/Projector/blob/61a9b1e84a5e9f84252ace3ae881cf1f35581343/Assets/Screenshots/SearchScreenSS.png'>`Screenshot 3`</a> 
   -  `2022` `swift` `core-data` `alamofire` `themoviedb` 
