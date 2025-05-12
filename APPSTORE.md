@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1477,10 +1477,6 @@ https://newsapi.org/ — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [Cannonball](https://github.com/crashlytics/cannonball-ios): Fun way to create / share stories & poems
-  - [` App Store`](https://apps.apple.com/app/cannonball-magnetic-poetry/id929750075) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/33/28/ce/3328ce01-615a-cca8-f219-9696c4616b6c/mzl.yvhfoxdx.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple5/v4/dc/63/1e/dc631e76-0e04-7172-4469-a29701b5eb16/mzl.gxyhiuqe.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple5/v4/f5/72/97/f5729724-aea9-e475-6847-051da67cd1ad/mzl.grshysaw.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple7/v4/14/6c/99/146c9960-a339-6ae1-60ce-bdb3fe22a23a/mzl.bchzernf.png/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2018` `swift` 
-  -  ☆`278` 
 ## Scan 
  
 [back to top](#readme) 
