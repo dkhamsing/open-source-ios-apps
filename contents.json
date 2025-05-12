@@ -5996,7 +5996,7 @@
         "password"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Secure Password Manager",
       "source": "https://github.com/MiniKeePass/MiniKeePass",
