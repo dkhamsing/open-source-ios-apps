@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1597-green.svg) ![](https://img.shields.io/badge/Updated-May%2011,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1597-green.svg) ![](https://img.shields.io/badge/Updated-May%2012,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2878,10 +2878,6 @@ https://newsapi.org/ — [back to top](#readme)
 - [Backyard Birds](https://github.com/apple/sample-backyard-birds): App with persistent data, interactive widgets, and an all new in-app purchase experience - WWDC 2023 sample code by Apple
   -  `2023` `swift` `swiftdata` `widget` `ios17` `iap` `swiftui` 
   -  ☆`581` 
-- [Cannonball](https://github.com/crashlytics/cannonball-ios): Fun way to create / share stories & poems
-  - [` App Store`](https://apps.apple.com/app/cannonball-magnetic-poetry/id929750075) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/33/28/ce/3328ce01-615a-cca8-f219-9696c4616b6c/mzl.yvhfoxdx.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple5/v4/dc/63/1e/dc631e76-0e04-7172-4469-a29701b5eb16/mzl.gxyhiuqe.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple5/v4/f5/72/97/f5729724-aea9-e475-6847-051da67cd1ad/mzl.grshysaw.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple7/v4/14/6c/99/146c9960-a339-6ae1-60ce-bdb3fe22a23a/mzl.bchzernf.png/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2018` `swift` 
-  -  ☆`278` 
 - [CastVideos](https://github.com/googlecast/CastVideos-ios): Sender app to be used as the starting for Google Cast
   -  `2024` `swift` 
   -  ☆`201` 
