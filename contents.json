@@ -32925,6 +32925,27 @@
       "screenshots": [
         "https://github.com/user-attachments/assets/c67787e0-97ef-40d4-89ad-deed9dfa3c98"
       ]
+    },
+    {
+      "title": "Simple.",
+      "category-ids": [
+        "fitness"
+      ],
+      "tags": [
+        "react-native", "expo", "typescript"
+      ],
+      "description": "An easy to use fitness app that lets you create, schedule and track your workouts locally.",
+      "screenshots": [
+        "https://github.com/user-attachments/assets/d04a192f-836e-439e-aa0a-6fd8010cb13a",
+        "https://github.com/user-attachments/assets/0bd94a1f-bca0-41ab-a67d-5745ed4d8599",
+        "https://github.com/user-attachments/assets/7011f5ae-c0d7-444e-9bdc-1023d4bfd546",
+        "https://github.com/user-attachments/assets/de2a6493-ec9e-4935-a49b-c33dd9f66829"
+      ],
+      "source": "https://github.com/basarsubasi/simplefitnessapp",
+      "itunes": "https://apps.apple.com/us/app/simple-fitness-simplified/id6740262965",
+      "license": "mit",
+      "date_added": "May 12 2025",
+      "suggested_by": "@basarsubasi"
     }    
   ]
 }
