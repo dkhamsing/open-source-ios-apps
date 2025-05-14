@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1598-green.svg) ![](https://img.shields.io/badge/Updated-May%2013,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1598-green.svg) ![](https://img.shields.io/badge/Updated-May%2014,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2869,8 +2869,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`7` 
 - [Apple Developer Library](https://developer.apple.com/library/archive/navigation/)
   - `objc` 
-- [Apple WWDC 2021](https://developer.apple.com/sample-code/wwdc/2021/): Sample code referenced in WWDC21 session videos
-  - `swift` `swiftui` 
 - [Apple-Music-UI-Demo](https://github.com/sebjvidal/Apple-Music-UI-Demo): Apple Music / Podcasts UI with custom view controller transition
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3f8e4a90-447e-4929-9d25-c8bfabe907b0'>`Screenshot 1`</a> 
   -  `2024` `swift` 
@@ -4474,8 +4472,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/ntnhon/Random-SwiftUI/master/Demo/Demo.gif'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` 
   -  ☆`8` 
-- [Apple WWDC 2021](https://developer.apple.com/sample-code/wwdc/2021/): Sample code referenced in WWDC21 session videos
-  - `swift` `swiftui` 
 - [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum): AR headset experience
   - [` App Store`](https://apps.apple.com/app/ar-multipendulum/id1583322801) <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/0c/37/91/0c3791f3-97cc-6229-0535-d2482c1bbb45/0e4dc155-6721-4be7-91f7-4a6426dfcfe4_Move_Pendulums__U0028iPhone_U002c_full-screen_U0029.png/600x0w.webp'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ad/86/cd/ad86cd62-077d-3675-8b31-bddded73ea69/253528ba-4df8-445b-95a7-e182aecffb08_Interact_With_Simulation__U0028iPhone_U002c_full-screen_U0029.png/600x0w.webp'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ff/88/5d/ff885da7-b568-8c29-cbd9-9f7213c1624f/75815eef-0ecb-4f9d-8379-2e58d7718a44_LiDAR_Comparison__U0028iPhone_U0029.png/600x0w.webp'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/ba/cf/0b/bacf0bb4-47c0-2f82-41f3-5ac658398a8d/8536dad0-5183-45ac-b308-466194fde85a_AR_Headset_Experience__U0028full-screen_U0029.png/600x0w.webp'>`Screenshot 4`</a> 
   -  `2021` `swift` `swiftui` `metal` `arkit` `vision` 
