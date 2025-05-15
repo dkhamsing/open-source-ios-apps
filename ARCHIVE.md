@@ -456,6 +456,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Review Time](https://github.com/nthegedus/ReviewTime)
 - [Revolved](https://github.com/Ciechan/Revolved)
 - [Rewatch](https://github.com/Palleas/Rewatch)
+- [RichTexture](https://github.com/stevemoser/richtexture)
 - [RKGist](https://github.com/RestKit/RKGist)
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.iOS)
 - [Round & Split](https://github.com/lukhnos/roundandsplit)
