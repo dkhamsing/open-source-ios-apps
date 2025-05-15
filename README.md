@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1598-green.svg) ![](https://img.shields.io/badge/Updated-May%2014,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1598-green.svg) ![](https://img.shields.io/badge/Updated-May%2015,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3350,11 +3350,6 @@ https://joinmastodon.org — [back to top](#readme)
 - [Proton](https://github.com/rajdeep/proton): Example for extending the behavior of a text view to add rich content
   -  `2025` `swift` 
   -  ☆`1315` 
-- [RichTexture](https://github.com/stevemoser/richtexture): Rich text editor (fork of Textor but for rich text)
-  - <a href=https://www.stevemoser.org/posts/apple-dev/richtexture.html>`https://www.stevemoser.org/posts/apple-dev/richtexture.html`</a>
-  - [` App Store`](https://apps.apple.com/app/richtexture/id1376116077) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/4d/3b/dc/4d3bdc1a-2bb9-589d-a574-873167dd7fb8/pr_source.png/230x0w.jpg'>`Screenshot 1`</a> 
-  -  `2018` `swift` 
-  -  ☆`48` 
 - [Sprite Fonts](https://github.com/256Arts/Sprite-Fonts): Install a variety of pixel perfect fonts for use in other apps
   - <a href=https://www.jaydenirwin.com/spritefonts/>`https://www.jaydenirwin.com/spritefonts/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-fonts/id1554027877)
