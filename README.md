@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1598-green.svg) ![](https://img.shields.io/badge/Updated-May%2015,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1598-green.svg) ![](https://img.shields.io/badge/Updated-May%2016,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3197,10 +3197,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id510296984) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/89/49/07/894907ae-8b58-5b87-f682-d813bf2f2e92/mzl.omnsgxug.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple91/v4/fa/80/dd/fa80ddf0-ebe9-34ad-1c94-a249c1a70a73/mzl.zedxpqsy.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/fc/98/37/fc98372a-6d4e-571e-1155-8dd8ecb3df54/mzl.auefrfoz.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f2/a6/a2/f2a6a2ca-9e07-0e7b-d639-5e2914e61d29/mzl.uhuhbzbi.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/4d/76/85/4d76856f-0b5c-ec97-2650-24846cf34217/mzl.obzgvqoe.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2022` `objc` 
   -  ☆`1142` 
-- [MiniKeePass](https://github.com/MiniKeePass/MiniKeePass): Secure Password Manager
-  -  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/8b/17/6a/8b176a9c-9261-be87-82b6-0d68068dbd5b/mzl.loqogauh.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/06/66/f0/0666f0dd-a899-b26a-9bb3-3519ac5d7839/mzl.ennzvmko.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/42/c6/f2/42c6f26f-8ede-bede-2ec0-9ea012d63308/mzl.ngeytyuw.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/ce/4f/89/ce4f89f5-84b9-834e-b4cc-60a528f4813f/mzl.hfcocbzr.png/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2019` `objc` 
-  -  ☆`893` 
 - [OakOTP](https://github.com/AlexCatch/Oak): Two-Factor Authentication app built with SwiftUI
   - [` App Store`](https://apps.apple.com/app/oakotp/id1567761178) <a href='https://raw.githubusercontent.com/AlexCatch/Oak/master/DesignAssets/accounts.png'>`Screenshot 1`</a>  <a href='https://github.com/AlexCatch/Oak/raw/master/DesignAssets/setup.png'>`Screenshot 2`</a>  <a href='https://github.com/AlexCatch/Oak/raw/master/DesignAssets/new.png'>`Screenshot 3`</a> 
   -  `2025` `swift` `2fa` `cloudkit` `core-data` 
