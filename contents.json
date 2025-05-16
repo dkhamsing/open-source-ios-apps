@@ -8735,7 +8735,7 @@
         "timer"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Simple timer to make developing film easier & more reliable",
       "license": "mit",
