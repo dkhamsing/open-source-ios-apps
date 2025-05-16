@@ -326,6 +326,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Mergel](https://github.com/snazzware/Mergel)
 - [MeWeather](https://github.com/opensourceios/MeWeather)
 - [Minds](https://github.com/Minds/mobile)
+- [MiniKeePass](https://github.com/MiniKeePass/MiniKeePass)
 - [Mission999](https://github.com/whunmr/Mission999)
 - [Molecules](https://www.sunsetlakesoftware.com/molecules)
 - [Monotone Delay](https://github.com/jkandzi/Monotone-Delay)
