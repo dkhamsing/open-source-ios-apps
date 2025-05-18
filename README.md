@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1598-green.svg) ![](https://img.shields.io/badge/Updated-May%2017,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1598-green.svg) ![](https://img.shields.io/badge/Updated-May%2018,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3421,9 +3421,6 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [C-41](https://github.com/ashfurrow/C-41): Simple timer to make developing film easier & more reliable
-  -  `2021` `objc` 
-  -  ☆`2056` 
 - [Fojusi](https://github.com/dasdom/Tomate): Work timer with Today Extension
   -  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/97/bc/c597bc2d-339c-8463-e7e7-f47fe7f6f770/mzl.uhkigexq.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/08/a6/aa/08a6aa5a-6a45-fcb0-5e75-c78fc2a10d67/mzl.ckjxbwfu.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8e/72/69/8e72696d-fae0-0f81-4868-aa281ba30866/mzl.ucpnawyo.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2020` `swift` 
@@ -4342,9 +4339,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
 https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme) 
  
 
-- [C-41](https://github.com/ashfurrow/C-41): Simple timer to make developing film easier & more reliable
-  -  `2021` `objc` 
-  -  ☆`2056` 
 - [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6e1ed1d3-5592-4a20-a69d-9ed4348ff077'>`Screenshot 1`</a> 
   -  `2018` `objc` 
