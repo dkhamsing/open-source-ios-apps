@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1598-green.svg) ![](https://img.shields.io/badge/Updated-May%2019,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1598-green.svg) ![](https://img.shields.io/badge/Updated-May%2020,%202025-lightgrey.svg)
 
 Jump to
 
@@ -4339,10 +4339,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
 https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme) 
  
 
-- [SimpleAuth](https://github.com/calebd/SimpleAuth): Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6e1ed1d3-5592-4a20-a69d-9ed4348ff077'>`Screenshot 1`</a> 
-  -  `2018` `objc` 
-  -  ☆`1144` 
 - [Tropos Weather](https://github.com/thoughtbot/Tropos)
   - [` App Store`](https://apps.apple.com/app/tropos-weather-forecasts-for/id955209376) <a href='https://a2.mzstatic.com/us/r30/Purple5/v4/8b/3e/bd/8b3ebd2c-9dfe-1ce5-cdf5-8c89d854e375/screen696x696.jpeg'>`Screenshot 1`</a>  <a href='https://a3.mzstatic.com/us/r30/Purple5/v4/e6/4f/36/e64f369d-d453-f007-dd15-361d21641116/screen696x696.jpeg'>`Screenshot 2`</a> 
   -  `2021` `dark sky api (forecast api)` `reactivecocoa` 
