@@ -168,6 +168,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Dragon Shout](https://github.com/rblalock/dragon_shout_app_open_source)
 - [Dragon Shout App 2](https://github.com/rblalock/dragon_shout_app_open_source)
 - [DropColour](https://github.com/elpassion/DropColour-iOS)
+- [Drrrible](https://github.com/devxoul/Drrrible)
 - [DrugsNRock](https://github.com/biou/DrugsNRock)
 - [DuckDuckGo](https://github.com/duckduckgo/ios)
 - [Dungeon Crawl](https://github.com/CliffsDover/crawl)
