@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **338** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -2111,10 +2111,6 @@ https://realm.io/ — [back to top](#readme)
 https://github.com/ReactiveX/RxSwift — [back to top](#readme) 
  
 
-- [Drrrible](https://github.com/devxoul/Drrrible)
-  - [` App Store`](https://apps.apple.com/app/drrrible/id1229592223) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d2/41/58/d241583e-61f6-5acc-19e4-fcd7fbbdddc7/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/81/b0/45/81b045f4-bc98-8c9f-9662-eae1b8cbba4b/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bf/c5/e6/bfc5e69c-4303-de2d-8c95-8025c3e85b02/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
-  -  `2019` `swift` `dribbble` `reactorkit` `moya` `kingfisher` 
-  -  ☆`517` 
 - [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles): Interactive diagrams of Rx Observables
   - [` App Store`](https://apps.apple.com/app/rxmarbles/id1087272442) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/37/4c/aa/374caa6c-ef0a-b8b6-20a9-c8ca8920fe32/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1f/7c/40/1f7c4058-fae6-6de9-cdaf-d27f1cbd5afd/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8d/83/63/8d8363ff-0637-8a77-5dc3-19cab426a164/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2020` `swift` 
