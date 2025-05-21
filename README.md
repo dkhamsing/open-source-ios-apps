@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1598-green.svg) ![](https://img.shields.io/badge/Updated-May%2020,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1598-green.svg) ![](https://img.shields.io/badge/Updated-May%2021,%202025-lightgrey.svg)
 
 Jump to
 
@@ -4379,10 +4379,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [CouchTracker](https://github.com/pietrocaselani/CouchTracker): Keep track of your favorite TV shows & movies using Trakt
   -  `2021` `swift` `trakt` `moya` `kingfisher` `mvvm` 
   -  ☆`50` 
-- [Drrrible](https://github.com/devxoul/Drrrible)
-  - [` App Store`](https://apps.apple.com/app/drrrible/id1229592223) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d2/41/58/d241583e-61f6-5acc-19e4-fcd7fbbdddc7/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/81/b0/45/81b045f4-bc98-8c9f-9662-eae1b8cbba4b/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bf/c5/e6/bfc5e69c-4303-de2d-8c95-8025c3e85b02/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
-  -  `2019` `swift` `dribbble` `reactorkit` `moya` `kingfisher` 
-  -  ☆`517` 
 - [GiTiny](https://github.com/k-lpmg/GiTiny): Explore what's trending in GitHub
   -  <a href='https://user-images.githubusercontent.com/15151687/57021987-bc1e1f00-6c68-11e9-8d43-25beb9465284.jpg'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/15151687/57021990-c17b6980-6c68-11e9-8b56-852508131809.jpg'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/15151687/57021992-c3452d00-6c68-11e9-8b54-0f01dd887622.jpg'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/15151687/57021995-c4765a00-6c68-11e9-8b95-f3087c8b8e37.jpg'>`Screenshot 4`</a> 
   -  `2019` `swift` `rxswift` `mvvm-c` `clean-architecture` 
