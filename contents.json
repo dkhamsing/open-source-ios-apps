@@ -32947,6 +32947,21 @@
       "license": "mit",
       "date_added": "May 12 2025",
       "suggested_by": "@basarsubasi"
-    }    
+    },
+    {
+      "title": "Clearcam",
+      "category-ids": ["misc"],
+      "description": "IP Camera with AI object detection.",
+      "source": "https://github.com/roryclear/clearcam/",
+      "homepage": "https://github.com/roryclear/clearcam/",
+      "itunes": "https://itunes.apple.com/app/id6743237694",
+      "license": "AGPL",
+      "lang": "eng",
+      "stars": 2,
+      "tags": ["objc","security","selfhosted","ai","ml","object detection"],
+      "screenshots": ["https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/recording.PNG", "https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/browser_events.PNG","https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/browser_playback.PNG"],
+      "date_added": "May 23 2025",
+      "suggested_by": "@roryclear"
+    }
   ]
 }
