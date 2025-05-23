@@ -32953,7 +32953,7 @@
       "category-ids": ["misc"],
       "description": "IP Camera with AI object detection",
       "source": "https://github.com/roryclear/clearcam",
-      "itunes": "https://itunes.apple.com/app/id6743237694",
+      "itunes": "https://apps.apple.com/app/clearcam/id6743237694",
       "license": "agpl-3.0",
       "stars": 2,
       "tags": ["objc","security","selfhosted","ai","ml","object detection"],
