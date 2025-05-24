@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **337** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **338** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1814,6 +1814,10 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/bean-juice/id1502380351) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/62/56/5a/62565a20-df0d-7619-ea80-4eaf183b32b4/pr_source.png/230x0w.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`27` 
+- [Clearcam](https://github.com/roryclear/clearcam): IP Camera with AI object detection
+  - [` App Store`](https://apps.apple.com/app/clearcam/id6743237694) <a href='https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/recording.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/browser_events.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/browser_playback.PNG'>`Screenshot 3`</a> 
+  - `objc` `security` `selfhosted` `ai` `ml` `object detection` 
+  -  ☆`2` 
 - [Construct for D&D 5e](https://github.com/Thomvis/Construct): Dungeon Master companion
   - [` App Store`](https://apps.apple.com/app/construct-for-d-d-5e/id1490015210) <a href='https://raw.githubusercontent.com/Thomvis/Construct/main/assets/screenshot1.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
