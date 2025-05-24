@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1598-green.svg) ![](https://img.shields.io/badge/Updated-May%2023,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1599-green.svg) ![](https://img.shields.io/badge/Updated-May%2024,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3564,6 +3564,10 @@ https://joinmastodon.org — [back to top](#readme)
 - [CarSample](https://github.com/below/CarSample): Try out CarPlay apps in the iOS Simulator without a CarPlay entitlement
   -  `2022` `swift` 
   -  ☆`28` 
+- [Clearcam](https://github.com/roryclear/clearcam): IP Camera with AI object detection
+  - [` App Store`](https://apps.apple.com/app/clearcam/id6743237694) <a href='https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/recording.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/browser_events.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/browser_playback.PNG'>`Screenshot 3`</a> 
+  - `objc` `security` `selfhosted` `ai` `ml` `object detection` 
+  -  ☆`2` 
 - [Collected for AWS](https://github.com/BurntCaramel/CollectedApp)
   -  <a href='https://user-images.githubusercontent.com/4723115/117551270-ea722a00-aff9-11eb-879c-b0fedb57b4d0.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/4723115/117551271-ec3bed80-aff9-11eb-969e-c04313e214db.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/4723115/117551272-ed6d1a80-aff9-11eb-8d73-78c8f38176aa.png'>`Screenshot 3`</a> 
   -  `2022` `swift` 
