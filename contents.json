@@ -32960,6 +32960,24 @@
       "screenshots": ["https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/recording.PNG", "https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/browser_events.PNG","https://raw.githubusercontent.com/roryclear/clearcam/refs/heads/main/images/browser_playback.PNG"],
       "date_added": "May 23 2025",
       "suggested_by": "@roryclear"
+    },
+    {
+      "title": "Off-Day",
+      "category-ids": [
+        "calendar", "clock"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Holiday alarm clock",
+      "screenshots": [
+        "https://camo.githubusercontent.com/0f5409278cbafb73c16f0ac3a76d2d8d7ebeb93bbc00a7f638c7fab648f59380/68747470733a2f2f692e763265782e636f2f30534c37356256642e706e67",
+      ],
+      "source": "https://github.com/zizicici/Off-Day",
+      "itunes": "https://apps.apple.com/app/off-day/id6501973975",
+      "license": "mit",
+      "date_added": "May 25 2025",
+      "suggested_by": "@csprasad"
     }
   ]
 }
