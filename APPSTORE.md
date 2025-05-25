@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **338** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -227,6 +227,9 @@ Jump to
 [back to top](#readme) 
  
 
+- [Off-Day](https://github.com/zizicici/Off-Day): Holiday alarm clock
+  - [` App Store`](https://apps.apple.com/app/off-day/id6501973975) <a href='https://camo.githubusercontent.com/0f5409278cbafb73c16f0ac3a76d2d8d7ebeb93bbc00a7f638c7fab648f59380/68747470733a2f2f692e763265782e636f2f30534c37356256642e706e67'>`Screenshot 1`</a> 
+  - `swift` 
 ## Clone 
  
 [back to top](#readme) 
