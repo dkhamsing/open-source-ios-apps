@@ -357,6 +357,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [New Zealand - NZ COVID Tracer](https://github.com/minhealthnz/nzcovidtracer-app)
 - [news](https://github.com/grp/newsyc)
 - [News](https://github.com/ivan-magda/News)
+- [News](https://github.com/YusuFKaan48/News)
 - [News/YC](https://github.com/bennyguitar/News-YC---iPhone)
 - [newswatch](https://github.com/bradoyler/newswatch-react-native)
 - [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)
