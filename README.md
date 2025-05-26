@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1600-green.svg) ![](https://img.shields.io/badge/Updated-May%2025,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1600-green.svg) ![](https://img.shields.io/badge/Updated-May%2026,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2567,10 +2567,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://github.com/jeffreybergier/Hipstapaper/raw/main/readme-screenshot.png'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` `core-data` 
   -  ☆`77` 
-- [News](https://github.com/YusuFKaan48/News): Designed with a minimalist approach, delivers global news and offers user-friendly filters for a personalized reading experience
-  -  <a href='https://github.com/YusuFKaan48/News/assets/111217286/dc81e7ff-e58b-4a4d-8526-f2f75fd957a0'>`Screenshot 1`</a> 
-  -  `2023` `swift` 
-  -  ☆`3` 
 - [NYTimes-iOS](https://github.com/TheCodeMonks/NYTimes-iOS): NYTimes web scraping
   -  <a href='https://raw.githubusercontent.com/TheCodeMonks/NYTimes-iOS/master/NYTimes%20Screenshots/Banner%400.25x.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `combine` `swiftsoup` 
