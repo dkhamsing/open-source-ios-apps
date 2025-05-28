@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1600-green.svg) ![](https://img.shields.io/badge/Updated-May%2027,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1600-green.svg) ![](https://img.shields.io/badge/Updated-May%2028,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3063,10 +3063,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/4.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/emredurukn/betcalsa/master/Assets/5.jpeg'>`Screenshot 4`</a> 
   -  `2019` `swift` `wescan` 
   -  ☆`73` 
-- [QR Blank](https://github.com/kahopoon/QR-Blank): No ads simple QR code URL scanner
-  - [` App Store`](https://apps.apple.com/app/id1137064763) <a href='https://raw.githubusercontent.com/kahopoon/QR-Blank/master/readme-images/intro.gif'>`Screenshot 1`</a>  <a href='https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenA.jpeg'>`Screenshot 2`</a>  <a href='https://github.com/kahopoon/QR-Blank/raw/master/readme-images/screenB.jpeg'>`Screenshot 3`</a> 
-  -  `2017` `swift` 
-  -  ☆`39` 
 - [QR Share Pro](https://github.com/Visual-Studio-Coder/QR-Share-Pro): Privacy-focused, allows you to scan, generate, and share QR codes effortlessly
   - [` App Store`](https://apps.apple.com/app/qr-share-pro/id6479589995) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/cf/95/e0cf9583-2545-efa1-942c-8d7857bb3696/d729913c-d19b-4900-9829-2902ea163d47_iPhone_14__U0026_15_Pro_Max_5__U00281_U0029.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/d4/07/2dd407be-1619-add1-e5c9-1e98a7b6e2ad/45359dbe-2d34-4ebb-9335-38f3dd332dd0_iPhone_14__U0026_15_Pro_Max_6.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/37/73/c9377339-a70e-d9e8-7167-27e67b36af3b/1b0d7659-1e57-4a74-a1a7-aff92576fc91_iPhone_14__U0026_15_Pro_Max_7.png/460x0w.webp'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/c5/1b/42c51b1d-9993-1fd3-da81-dd54b26e573e/4304ffd3-6040-4899-b8bf-94ebc0a84479_iPhone_14__U0026_15_Pro_Max_8.png/460x0w.webp'>`Screenshot 4`</a> 
   -  `2025` `swift` 
