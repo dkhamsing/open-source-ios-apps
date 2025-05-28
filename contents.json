@@ -15160,7 +15160,7 @@
       "itunes": "https://apps.apple.com/app/krypton-by-krypt-co/id1161494806",
       "description": "Generate & store an SSH key on your phone",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "category-ids": [
         "security"
