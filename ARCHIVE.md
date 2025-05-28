@@ -436,6 +436,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Pterodactyl Attack](https://github.com/shaunlebron/PterodactylAttack)
 - [Pugs](https://github.com/soffes/Pugs)
 - [QiitaCollection](https://github.com/anzfactory/QiitaCollection)
+- [QR Blank](https://github.com/kahopoon/QR-Blank)
 - [QRGen](https://github.com/lojals/QRGen)
 - [Queue'd Music](https://github.com/rldaulton/queued-music)
 - [Radio Paradise](https://github.com/ilTofa/rposx)
