@@ -33020,12 +33020,12 @@
     {
 	"title": "Feather",
 	"category-ids": ["developer"],
-	"description": "Feather is a free on-device iOS application manager/installer, using certificates part of the Apple Developer Program.",
+	"description": "Feather is a free on-device application manager/installer, using certificates part of the Apple Developer Program.",
 	"source": "https://github.com/khcrysalis/Feather",
 	"screenshots": ["https://raw.githubusercontent.com/khcrysalis/Feather/refs/heads/main/Images/Image-dark.png"],
 	"date_added": "May 29 2025",
 	"suggested_by": "@jacobprezant",
-  "stars": 2200
-}
+        "stars": 2200
+    }
   ]
 }
