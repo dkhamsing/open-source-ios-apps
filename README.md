@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1600-green.svg) ![](https://img.shields.io/badge/Updated-May%2028,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1601-green.svg) ![](https://img.shields.io/badge/Updated-May%2029,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2374,6 +2374,10 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/32227073/65997616-0ef63f80-e470-11e9-8faa-d2d6728202a5.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `combine` 
   -  ☆`23` 
+- [Sora](https://github.com/cranci1/Sora): Modular web scraping
+  - [` App Store`](https://apps.apple.com/app/sulfur/id6742741043) <a href='https://raw.githubusercontent.com/cranci1/Sora/refs/heads/main/assets/Sulfur.png'>`Screenshot 1`</a> 
+  - `swift` 
+  -  ☆`178` 
 - [Star Wars](https://github.com/joreilly/StarWars): Uses swapi
   -  <a href='https://github.com/joreilly/StarWars/raw/main/art/screenshot1.png?raw=true'>`Screenshot 1`</a> 
   -  `2025` `kmm` `graphql` 
