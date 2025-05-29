@@ -33035,7 +33035,7 @@
       "date_added": "May 28 2025",
       "suggested_by": "@csprasad",
       "stars": 178
-    }
+    },
     {
 	"title": "Feather",
 	"category-ids": ["developer"],
@@ -33044,6 +33044,6 @@
 	"screenshots": ["https://raw.githubusercontent.com/khcrysalis/Feather/refs/heads/main/Images/Image-dark.png"],
 	"date_added": "May 29 2025",
 	"suggested_by": "@jacobprezant"
-    }
+    },
   ]
 }
