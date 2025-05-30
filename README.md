@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1601-green.svg) ![](https://img.shields.io/badge/Updated-May%2029,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1602-green.svg) ![](https://img.shields.io/badge/Updated-May%2030,%202025-lightgrey.svg)
 
 Jump to
 
@@ -721,6 +721,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/expo-client/id982107779) <a href='https://a4.mzstatic.com/us/r30/Purple111/v4/42/1e/6e/421e6e4d-2524-5e1a-93aa-b8159d48a8fa/screen696x696.jpeg'>`Screenshot 1`</a> 
   -  `2025` `react-native` `javascript` 
   -  ☆`40425` 
+- [Feather](https://github.com/khcrysalis/Feather): Feather is a free on-device application manager/installer, using certificates part of the Apple Developer Program.
+  -  <a href='https://raw.githubusercontent.com/khcrysalis/Feather/69bf3146b651b2bf123af6ad92c01f19f0118901/Images/Image-dark.png'>`Screenshot 1`</a> 
+  - `swift` 
+  -  ☆`2200` 
 - [Haptic Haven](https://github.com/davejacobsen/HapticHaven): Test, learn about, and implement haptic feedback
   - [` App Store`](https://apps.apple.com/us/app/id1523772947) <a href='https://raw.githubusercontent.com/davejacobsen/HapticHaven/master/Screenshots/Screenshots.png'>`Screenshot 1`</a> 
   -  `2024` `swift` 
