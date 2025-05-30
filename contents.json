@@ -33035,6 +33035,23 @@
       "date_added": "May 28 2025",
       "suggested_by": "@csprasad",
       "stars": 178
+    },
+    {
+      "title": "Moblin",
+      "description": "IRL streaming",
+      "screenshots": [
+        "https://raw.githubusercontent.com/eerimoq/moblin/main/docs/iphone15-pro-max-screenshot.png",
+        "https://raw.githubusercontent.com/eerimoq/moblin/main/docs/watch-series-9-screenshot.png",
+        "https://raw.githubusercontent.com/eerimoq/moblin/main/docs/watch-series-9-screenshot-chat.png"
+      ],
+      "category-ids": ["video"],
+      "tags": ["swift"],
+      "source": "https://github.com/eerimoq/moblin",
+      "itunes": "https://apps.apple.com/app/moblin/id6466745933",
+      "license": "mit",
+      "date_added": "May 30 2025",
+      "suggested_by": "@csprasad",
+      "stars": 323
     }
   ]
 }
