@@ -586,6 +586,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Triggy](https://github.com/jnordberg/triggy)
 - [Tripletz Tic Tac Toe](https://github.com/Aaron-A/Tripletz)
 - [TrollDrop](https://github.com/a2/TrollDrop)
+- [Trust](https://github.com/TrustWallet/trust-wallet-ios)
 - [try! Swift](https://github.com/opensourceios/trySwiftApp)
 - [tweedie](https://github.com/aanon4/tweedie)
 - [tweejump](https://github.com/haqu/tweejump)
