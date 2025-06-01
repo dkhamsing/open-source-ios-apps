@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1602-green.svg) ![](https://img.shields.io/badge/Updated-May%2031,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1603-green.svg) ![](https://img.shields.io/badge/Updated-June%20%201,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2530,6 +2530,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
 - [Loadify](https://github.com/VishwaiOSDev/Loadify-iOS): Instant YouTube video downloader
   -  `2024` `swift` `swift5` `download` `youtube` `downloader` 
   -  ☆`59` 
+- [Moblin](https://github.com/eerimoq/moblin): IRL streaming
+  - [` App Store`](https://apps.apple.com/app/moblin/id6466745933) <a href='https://raw.githubusercontent.com/eerimoq/moblin/main/docs/iphone15-pro-max-screenshot.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/eerimoq/moblin/main/docs/watch-series-9-screenshot.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/eerimoq/moblin/main/docs/watch-series-9-screenshot-chat.png'>`Screenshot 3`</a> 
+  - `swift` 
+  -  ☆`323` 
 - [Playerly](https://github.com/julianschiavo/Playerly): Play videos from the Files app in a better and darker interface
   -  <a href='https://raw.githubusercontent.com/justJS/Playerly/master/Playerly/Other/Screenshot.png'>`Screenshot 1`</a> 
   -  `2018` `swift` 
