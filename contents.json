@@ -33037,16 +33037,37 @@
       "stars": 178
     },
     {
-  "title": "Feather",
-  "category-ids": ["developer"],
-  "description": "Feather is a free on-device application manager/installer, using certificates part of the Apple Developer Program.",
-  "source": "https://github.com/khcrysalis/Feather",		
-  "license": "gpl-3.0",    
-  "stars": 2200,     
-  "tags": ["swift"],
-  "screenshots": ["https://raw.githubusercontent.com/khcrysalis/Feather/69bf3146b651b2bf123af6ad92c01f19f0118901/Images/Image-dark.png"],
-  "date_added": "May 29 2025",
-  "suggested_by": "@jacobprezant"
-   }
+      "title": "Feather",
+      "category-ids": ["developer"],
+      "description": "Feather is a free on-device application manager/installer, using certificates part of the Apple Developer Program.",
+      "source": "https://github.com/khcrysalis/Feather",		
+      "license": "gpl-3.0",    
+      "stars": 2200,     
+      "tags": ["swift"],
+      "screenshots": ["https://raw.githubusercontent.com/khcrysalis/Feather/69bf3146b651b2bf123af6ad92c01f19f0118901/Images/Image-dark.png"],
+      "date_added": "May 29 2025",
+      "suggested_by": "@jacobprezant"
+   },
+   {
+      "title": "Moblin",
+      "description": "IRL streaming",
+      "screenshots": [
+          "https://raw.githubusercontent.com/eerimoq/moblin/main/docs/iphone15-pro-max-screenshot.png",
+          "https://raw.githubusercontent.com/eerimoq/moblin/main/docs/watch-series-9-screenshot.png",
+          "https://raw.githubusercontent.com/eerimoq/moblin/main/docs/watch-series-9-screenshot-chat.png"
+      ],
+      "category-ids": [
+          "video"
+      ],
+      "tags": [
+          "swift"
+      ],
+      "source": "https://github.com/eerimoq/moblin",
+      "itunes": "https://apps.apple.com/app/moblin/id6466745933",
+      "license": "mit",
+      "date_added": "May 30 2025",
+      "suggested_by": "@csprasad",
+      "stars": 323
+    }
   ]
 }
