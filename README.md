@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1603-green.svg) ![](https://img.shields.io/badge/Updated-June%20%201,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1604-green.svg) ![](https://img.shields.io/badge/Updated-June%20%202,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3112,6 +3112,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/krypton-by-krypt-co/id1161494806) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/22/51/55/22515500-8c22-2d00-04d7-6e8963bbee16/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/bb/e9/4abbe96e-bbb0-8e2f-86f2-19c42f9409b8/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/de/b1/fa/deb1fae0-1b01-7f38-fbe9-3106315a036e/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/db/14/fb/db14fbe9-1b59-8403-efe4-01f0753a4fa9/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2023` `swift` 
   -  ☆`340` 
+- [LegitURL](https://github.com/sigfault-byte/LegitURL): Scan links for safety. no AI, no internet
+  - [` App Store`](https://apps.apple.com/app/legiturl/id6745583794) <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/1_input-view.png'>`Screenshot 1`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/2_home-analysis-view.png'>`Screenshot 2`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/3_logs-view.png'>`Screenshot 3`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/4_url-detail-view.png'>`Screenshot 4`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/5_cookie-detail-view.png'>`Screenshot 5`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/6_CSP-directive-view.png'>`Screenshot 6`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/7_tls-details-view.png'>`Screenshot 7`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/8_scripts-detail-view.png'>`Screenshot 8`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/9_glossary-view.png'>`Screenshot 9`</a> 
+  - `swift` 
+  -  ☆`9` 
 - [Lockdown](https://github.com/confirmedcode/lockdown-ios): Firewall for your device
   - <a href=https://lockdownprivacy.com>`https://lockdownprivacy.com`</a>
   - [` App Store`](https://apps.apple.com/app/lockdown-apps/id1469783711) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b2e713a8-4cf2-41e9-8ddc-fa87a2ea5282'>`Screenshot 1`</a> 
