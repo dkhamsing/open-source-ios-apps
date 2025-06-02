@@ -10939,13 +10939,13 @@
         "calculator"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/7d/7d/ac7d7d47-ebf1-4dc4-b5cb-b07d60f929da/mzl.iizvrigs.png/460x0w.jpg"
       ],
       "description": "A re-implementation of the HP-42S Calculator & the HP-82240 printer",
-      "source": "https://github.com/thomasokken/free42",
+      "source": "https://github.com/opensourceios/free42",
       "homepage": "https://thomasokken.com/free42/",
       "itunes": "https://apps.apple.com/app/id337692629",
       "license": "gpl-2.0",
