@@ -33073,15 +33073,7 @@
       "title": "LegitURL",
       "description": "Scan links for safety. no AI, no internet",
       "screenshots": [
-          "https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/1_input-view.png",
-          "https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/2_home-analysis-view.png",
-          "https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/3_logs-view.png",
-          "https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/4_url-detail-view.png",
-          "https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/5_cookie-detail-view.png",
-          "https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/6_CSP-directive-view.png",
-          "https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/7_tls-details-view.png",
-          "https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/8_scripts-detail-view.png",
-          "https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/9_glossary-view.png"
+          "https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/LegitURL_demo.gif?raw=true"
       ],
       "category-ids": [
           "security"
