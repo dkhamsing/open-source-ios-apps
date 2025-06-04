@@ -1523,7 +1523,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`340` 
 - [LegitURL](https://github.com/sigfault-byte/LegitURL): Scan links for safety. no AI, no internet
-  - [` App Store`](https://apps.apple.com/app/legiturl/id6745583794) <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/1_input-view.png'>`Screenshot 1`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/2_home-analysis-view.png'>`Screenshot 2`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/3_logs-view.png'>`Screenshot 3`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/4_url-detail-view.png'>`Screenshot 4`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/5_cookie-detail-view.png'>`Screenshot 5`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/6_CSP-directive-view.png'>`Screenshot 6`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/7_tls-details-view.png'>`Screenshot 7`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/8_scripts-detail-view.png'>`Screenshot 8`</a>  <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/9_glossary-view.png'>`Screenshot 9`</a> 
+  - [` App Store`](https://apps.apple.com/app/legiturl/id6745583794) <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/LegitURL_demo.gif?raw=true'>`Screenshot 1`</a> 
   - `swift` 
   -  ☆`9` 
 - [Lockdown](https://github.com/confirmedcode/lockdown-ios): Firewall for your device
