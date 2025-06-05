@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1604-green.svg) ![](https://img.shields.io/badge/Updated-June%20%204,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1604-green.svg) ![](https://img.shields.io/badge/Updated-June%20%205,%202025-lightgrey.svg)
 
 Jump to
 
@@ -4730,7 +4730,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2024` `swift` `swiftui` `tca` 
   -  ☆`225` 
 - [OpenAI Wrapper](https://github.com/adamlyttleapps/OpenAI-Wrapper-SwiftUI)
-  -  <a href='https://adamlyttleapps.com/demo/OpenAI-Wrapper-SwiftUI/demo-v3.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/user-attachments/assets/1d9f9414-40a7-473c-8ce9-f4f881197b23'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` `openai` 
   -  ☆`264` 
 - [OSRSUI](https://github.com/Dimillian/OSRSUI): Old School Runescape database browser
