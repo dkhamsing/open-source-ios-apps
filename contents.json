@@ -33087,6 +33087,28 @@
       "date_added": "Jun 1 2025",
       "suggested_by": "@csprasad",
       "stars": 9
+    },
+    {
+      "title": "Berkeley Mobile",
+      "description": "UC Berkeley companion. Track buses, find library hours, see dining menus, and access campus resources",
+      "screenshots": [
+        "https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen1.png",
+        "https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen2.png",
+        "https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen3.png",
+        "https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen4.png"
+      ],
+      "category-ids": [
+          "official"
+      ],
+      "tags": [
+          "swift"
+      ],
+      "source": "https://github.com/asuc-octo/berkeley-mobile-ios",
+      "itunes": "https://apps.apple.com/app/berkeley-mobile/id912243518",
+      "license": "ecl-2.0",
+      "date_added": "Jun 4 2025",
+      "suggested_by": "@csprasad",
+      "stars": 13
     }
   ]
 }
