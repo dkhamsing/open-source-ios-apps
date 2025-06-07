@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1376,6 +1376,10 @@ https://newsapi.org/ — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Berkeley Mobile](https://github.com/asuc-octo/berkeley-mobile-ios): UC Berkeley companion. Track buses, find library hours, see dining menus, and access campus resources
+  - [` App Store`](https://apps.apple.com/app/berkeley-mobile/id912243518) <a href='https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen3.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen4.png'>`Screenshot 4`</a> 
+  - `swift` 
+  -  ☆`13` 
 - [Bluesky Social](https://github.com/bluesky-social/social-app)
   - [` App Store`](https://apps.apple.com/app/bluesky-social/id6444370199) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/8a73b9fb-4708-4ce5-b241-bb8da41feebd'>`Screenshot 1`</a> 
   -  `2025` `typescript` `react-native` 
