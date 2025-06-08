@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1522,10 +1522,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/keybase-crypto-for-everyone/id1044461770)
   -  `2025` `react-native` 
   -  ☆`9022` 
-- [Krypton](https://github.com/kryptco/krypton-ios): Generate & store an SSH key on your phone
-  - [` App Store`](https://apps.apple.com/app/krypton-by-krypt-co/id1161494806) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/22/51/55/22515500-8c22-2d00-04d7-6e8963bbee16/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/bb/e9/4abbe96e-bbb0-8e2f-86f2-19c42f9409b8/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/de/b1/fa/deb1fae0-1b01-7f38-fbe9-3106315a036e/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/db/14/fb/db14fbe9-1b59-8403-efe4-01f0753a4fa9/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2023` `swift` 
-  -  ☆`340` 
 - [LegitURL](https://github.com/sigfault-byte/LegitURL): Scan links for safety. no AI, no internet
   - [` App Store`](https://apps.apple.com/app/legiturl/id6745583794) <a href='https://github.com/sigfault-byte/LegitURL/blob/main/AppPreview/LegitURL_demo.gif?raw=true'>`Screenshot 1`</a> 
   - `swift` 
