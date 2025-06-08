@@ -287,6 +287,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Knock](https://github.com/MatheusCavalca/Knock)
 - [Knuff](https://github.com/KnuffApp/Knuff-iOS)
 - [KonaBot](https://github.com/hkalexling/KonaBot-iOS)
+- [Krypton](https://github.com/kryptco/krypton-ios)
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro)
 - [LastFM](https://github.com/lastfm/lastfm-iphone)
 - [Layer-Parse](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example)
