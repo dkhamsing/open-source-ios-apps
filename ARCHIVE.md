@@ -284,6 +284,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Keinex tech blog](https://github.com/opensourceios/Keinex-iOS)
 - [keyacid](https://github.com/keyacid/keyacid-iOS)
 - [KeyCo](https://github.com/KeyCoApp/KeyCo)
+- [Kiosk](https://github.com/artsy/eidolon)
 - [Knock](https://github.com/MatheusCavalca/Knock)
 - [Knuff](https://github.com/KnuffApp/Knuff-iOS)
 - [KonaBot](https://github.com/hkalexling/KonaBot-iOS)
