@@ -19877,12 +19877,12 @@
         "game"
       ],
       "description": "A famous puzzle game",
-      "source": "https://github.com/mkhrapov/ultimate-peg-solitaire",
+      "source": "https://github.com/opensourceios/ultimate-peg-solitaire",
       "homepage": "https://www.ultimatepegsolitaire.com/",
       "itunes": "https://apps.apple.com/app/id1463982222",
       "license": "apache-2.0",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/mkhrapov/ultimate-peg-solitaire/master/img/UPS400.png"
