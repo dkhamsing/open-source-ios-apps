@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1605-green.svg) ![](https://img.shields.io/badge/Updated-June%20%208,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1605-green.svg) ![](https://img.shields.io/badge/Updated-June%20%209,%202025-lightgrey.svg)
 
 Jump to
 
@@ -4387,10 +4387,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/15151687/57021987-bc1e1f00-6c68-11e9-8d43-25beb9465284.jpg'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/15151687/57021990-c17b6980-6c68-11e9-8b56-852508131809.jpg'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/15151687/57021992-c3452d00-6c68-11e9-8b54-0f01dd887622.jpg'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/15151687/57021995-c4765a00-6c68-11e9-8b95-f3087c8b8e37.jpg'>`Screenshot 4`</a> 
   -  `2019` `swift` `rxswift` `mvvm-c` `clean-architecture` 
   -  ☆`280` 
-- [Kiosk](https://github.com/artsy/eidolon): Artsy auctions
-  -  <a href='https://artsy.github.io/images/2014-11-12-eidolon-retrospective/listings.png'>`Screenshot 1`</a> 
-  -  `2023` `swift` `rxswift` 
-  -  ☆`2707` 
 - [Monotone](https://github.com/Neko3000/Monotone): Modern way to explore Unsplash
   -  <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-3.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-4.png'>`Screenshot 4`</a> 
   -  `2022` `swift` 
