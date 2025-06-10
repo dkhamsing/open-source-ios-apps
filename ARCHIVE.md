@@ -478,6 +478,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [S.I.T. (雕刻时光)](https://github.com/flexih/Cafe)
 - [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest)
 - [SafePeople](https://github.com/opensourceios/SafePeople)
+- [Sansumoku](https://github.com/opensourceios/sansumoku)
 - [Santa Tracker](https://github.com/keitaito/RealmSantaTracker)
 - [Savings Assistant](https://github.com/chrisamanse/savings-assistant)
 - [SceneKitFrogger](https://github.com/devindazzle/SceneKitFrogger)
