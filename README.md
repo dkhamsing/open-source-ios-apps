@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1605-green.svg) ![](https://img.shields.io/badge/Updated-June%20%209,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1605-green.svg) ![](https://img.shields.io/badge/Updated-June%2010,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1590,11 +1590,6 @@ File Management — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/3.png'>`Screenshot 3`</a> 
   -  `2018` `swift` 
   -  ☆`8` 
-- [Sansumoku](https://github.com/mkhrapov/sansumoku): A 2-player board game. A mash-up of Sudoku and Ultimate Tic-Tac-Toe
-  - <a href=https://www.sansumoku.com/>`https://www.sansumoku.com/`</a>
-  - [` App Store`](https://apps.apple.com/app/id1458250030) <a href='https://raw.githubusercontent.com/mkhrapov/sansumoku/master/img/sansumoku.png'>`Screenshot 1`</a> 
-  -  `2020` `swift` 
-  -  ☆`13` 
 - [SaveTheDot](https://github.com/JakeLin/SaveTheDot): Escape from the squares
   -  <a href='https://cloud.githubusercontent.com/assets/573856/16248754/90150c2a-3854-11e6-9ee1-c2e4f228a9b6.gif'>`Screenshot 1`</a> 
   -  `2020` `swift` `uiviewpropertyanimator` 
