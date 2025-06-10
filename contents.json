@@ -19537,12 +19537,12 @@
         "game"
       ],
       "description": "A 2-player board game. A mash-up of Sudoku and Ultimate Tic-Tac-Toe",
-      "source": "https://github.com/mkhrapov/sansumoku",
+      "source": "https://github.com/opensourceios/sansumoku",
       "homepage": "https://www.sansumoku.com/",
       "itunes": "https://apps.apple.com/app/id1458250030",
       "license": "apache-2.0",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/mkhrapov/sansumoku/master/img/sansumoku.png"
