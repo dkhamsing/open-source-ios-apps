@@ -31,7 +31,7 @@
 27. [Twine RSS Reader](https://github.com/msasikanth/twine)
 28. [Piecelet for NeoDB](https://github.com/Piecelet/neodb-app)
 29. [PhotoApp](https://github.com/chunkyguy/PhotoApp)
-30. [Pixelfed](https://github.com/pixelfed/pixelfed-rn)
+30. [Apple Intelligence Chat](https://github.com/PallavAg/Apple-Intelligence-Chat)
 
 ## Most recently updated
 
