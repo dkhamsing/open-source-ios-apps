@@ -33128,6 +33128,25 @@
       "date_added": "Jun 11 2025",
       "suggested_by": "@csprasad",
       "stars": 58
-    }
+    },
+    {
+      "title": "Apple Intelligence Chat",
+      "description": "Chat with Apple Intelligence using the new Foundation Models Framework and Liquid Glass UI",
+      "category-ids": [
+        "communication"
+      ],
+      "source": "https://github.com/PallavAg/Apple-Intelligence-Chat",
+      "tags": [
+        "swiftui",
+        "ios26"
+      ],
+      "screenshots": [
+        "https://github.com/user-attachments/assets/6305de96-2c6a-4eaa-99ff-a923ad6be368"
+      ],
+      "license": "mit",
+      "date_added": "Jan 13 2025",
+      "suggested_by": "@dkhamsing",
+      "stars": 100
+    }    
   ]
 }
