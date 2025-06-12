@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1606-green.svg) ![](https://img.shields.io/badge/Updated-June%2011,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1607-green.svg) ![](https://img.shields.io/badge/Updated-June%2012,%202025-lightgrey.svg)
 
 Jump to
 
@@ -547,6 +547,10 @@ Jump to
 - [afone](https://github.com/automat-berlin/afone/): Reference implementation for SIP Telephony that can be used on different SIP stacks with no effort
   - [` App Store`](https://apps.apple.com/app/afone/id1470424336) <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/login.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/login_advanced.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/dialer.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/call.png'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/settings.png'>`Screenshot 5`</a> 
   - `swift` 
+- [Apple Intelligence Chat](https://github.com/PallavAg/Apple-Intelligence-Chat): Chat with Apple Intelligence using the new Foundation Models Framework and Liquid Glass UI
+  -  <a href='https://github.com/user-attachments/assets/6305de96-2c6a-4eaa-99ff-a923ad6be368'>`Screenshot 1`</a> 
+  - `swiftui` `ios26` 
+  -  ☆`100` 
 - [AppRTC](https://github.com/ISBX/apprtc-ios): A native video chat app
   -  <a href='https://github.com/ISBX/apprtc-ios/raw/master/screenshots/screenshots.jpg'>`Screenshot 1`</a> 
   -  `2019` `objc` `webrtc` `google` 
