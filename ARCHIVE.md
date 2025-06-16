@@ -225,6 +225,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Gifzat](https://github.com/remirobert/Gifzat)
 - [Giraffe](https://github.com/evgeniyd/Giraffe)
 - [GitBucket](https://github.com/leichunfeng/MVVMReactiveCocoa)
+- [GitHawk](https://github.com/GitHawkApp/GitHawk)
 - [GitHub API Client](https://github.com/tailec/boilerplate)
 - [github-issues](https://github.com/chriseidhof/github-issues)
 - [GitHub-Swift](https://github.com/acmacalister/Github-Swift)
