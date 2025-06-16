@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **337** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **336** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -409,10 +409,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/gisthub/id1660465260) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/89053471-20aa-4ab7-ab5a-ecf34c372093'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` `asyncswift` 
   -  ☆`117` 
-- [GitHawk](https://github.com/GitHawkApp/GitHawk): GitHub project manager
-  - [` App Store`](https://apps.apple.com/app/githawk-for-github/id1252320249) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9ac0b1ab-8f34-4b16-a4f5-261ecb7ae7a3'>`Screenshot 1`</a> 
-  -  `2022` `swift` `iglistkit` `snapkit` `alamofire` 
-  -  ☆`2883` 
 - [GitTime](https://github.com/87kangsw/GitTime): Show your GitHub contributions and activities
   - [` App Store`](https://apps.apple.com/app/id1469013856) <a href='https://raw.githubusercontent.com/87kangsw/resume/master/images/gittime.png'>`Screenshot 1`</a> 
   -  `2024` `swift, reactorkit, rxswift` `moya` 
