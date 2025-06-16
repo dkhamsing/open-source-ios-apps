@@ -15951,7 +15951,8 @@
         "swift",
         "iglistkit",
         "snapkit",
-        "alamofire"
+        "alamofire",
+        "archive"
       ],
       "license": "other",
       "date_added": "Jul 5 2017",
