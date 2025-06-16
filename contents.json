@@ -33148,6 +33148,23 @@
       "date_added": "Jan 13 2025",
       "suggested_by": "@dkhamsing",
       "stars": 100
-    }    
+    },
+    {
+      "title": "Strata",
+      "description": " Notes for Micro.blog",
+      "category-ids": [
+          "react-native",
+          "content"
+      ],
+      "tags": [
+          "react-native"
+      ],
+      "source": "https://github.com/microdotblog/strata",
+      "itunes": "https://apps.apple.com/app/strata-for-micro-blog/id6474192080",
+      "license": "mit",
+      "date_added": "Jan 17 2025",
+      "suggested_by": "@csprasad",
+      "stars": 2
+    }
   ]
 }
