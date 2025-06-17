@@ -30,8 +30,8 @@
 26. [Foqos](https://github.com/awaseem/foqos)
 27. [Twine RSS Reader](https://github.com/msasikanth/twine)
 28. [Piecelet for NeoDB](https://github.com/Piecelet/neodb-app)
-29. [PhotoApp](https://github.com/chunkyguy/PhotoApp)
-30. [Apple Intelligence Chat](https://github.com/PallavAg/Apple-Intelligence-Chat)
+29. [Strata](https://github.com/microdotblog/strata)
+30. [PhotoApp](https://github.com/chunkyguy/PhotoApp)
 
 ## Most recently updated
 
