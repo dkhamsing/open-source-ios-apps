@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1608-green.svg) ![](https://img.shields.io/badge/Updated-June%2017,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1608-green.svg) ![](https://img.shields.io/badge/Updated-June%2018,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1078,9 +1078,9 @@ Jump to
   -  `2025` `realm` 
   -  ☆`6098` 
 - [RetroArch](https://github.com/libretro/RetroArch): Comprehensive emulator frontend with support for NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/76548a8f-626c-4cc9-93f1-962782a177b1'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/retroarch/id6499539433) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/76548a8f-626c-4cc9-93f1-962782a177b1'>`Screenshot 1`</a> 
   -  `2025` `c` 
-  -  ☆`11383` 
+  -  ☆`11475` 
 - [SameBoy](https://github.com/LIJI32/SameBoy): Game Boy and Game Boy Color emulator
   - [` App Store`](https://apps.apple.com/app/sameboy/id6496971295) <a href='https://github.com/user-attachments/assets/56b1af5b-26ab-4468-a2d5-a885b9d0bf8c'>`Screenshot 1`</a> 
   -  `2025` `c` 
