@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1608-green.svg) ![](https://img.shields.io/badge/Updated-June%2018,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1608-green.svg) ![](https://img.shields.io/badge/Updated-June%2019,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1071,8 +1071,9 @@ Jump to
   -  `2024` 
   -  ☆`6` 
 - [PPSSPP](https://github.com/hrydgard/ppsspp): PSP emulator
+  - [` App Store`](https://apps.apple.com/app/ppsspp-psp-emulator/id6496972903)
   -  `2025` `c++` 
-  -  ☆`12261` 
+  -  ☆`12411` 
 - [Provenance](https://github.com/Provenance-Emu/Provenance): Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more
   -  <a href='https://user-images.githubusercontent.com/4723115/132869460-db573d22-8474-47bb-9c31-db727821b879.png'>`Screenshot 1`</a> 
   -  `2025` `realm` 
