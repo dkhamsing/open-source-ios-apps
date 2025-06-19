@@ -32547,10 +32547,10 @@
     },
     {
       "title": "Pixelfed",
+      "description": "Share your photography on a privacy-focused, ad-free platform. Own your content. Connect authentically"
       "category-ids": [
         "media"
       ],
-      "source": "https://github.com/pixelfed/pixelfed-rn",
       "tags": [
         "react-native",
         "typescript"
@@ -32558,10 +32558,12 @@
       "screenshots": [
         "https://pixelfed.nyc3.cdn.digitaloceanspaces.com/media/pixelfed-app-screenshot-3.jpg"
       ],
+      "source": "https://github.com/pixelfed/pixelfed-rn",
+      "itunes": "https://apps.apple.com/app/pixelfed/id1632519816",
       "license": "agpl-3.0",
       "date_added": "Jan 13 2025",
       "suggested_by": "@dkhamsing",
-      "stars": 307,
+      "stars": 308,
       "updated": "2025-05-18 10:48:04 UTC"
     },
     {
