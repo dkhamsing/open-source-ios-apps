@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1608-green.svg) ![](https://img.shields.io/badge/Updated-June%2019,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1608-green.svg) ![](https://img.shields.io/badge/Updated-June%2020,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2124,8 +2124,9 @@ Image, video, audio, reading — [back to top](#readme)
   -  `2025` `react-native` `typescript` 
   -  ☆`307` 
 - [Pocket Casts](https://github.com/Automattic/pocket-casts-ios)
+  - [` App Store`](https://apps.apple.com/app/pocket-casts-podcast-player/id414834813)
   -  `2025` `swift` `podcast` 
-  -  ☆`1706` 
+  -  ☆`1712` 
 - [Selfie Stick](https://github.com/RF-Nelson/open-source-selfie-stick): Sync 2 devices & use one as a remote control for the other's camera
   - [` App Store`](https://apps.apple.com/app/id1084487132) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/9b/ad/60/9bad60df-6399-bac0-b8c3-83bce2072273/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/56/f2/0e/56f20eb8-420b-eaff-bf6a-99eaf4b1b05a/pr_source.png/460x0w.png'>`Screenshot 2`</a> 
   -  `2017` `objc` 
