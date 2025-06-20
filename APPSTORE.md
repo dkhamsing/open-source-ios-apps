@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1140,6 +1140,10 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/piecelet-for-neodb/id6739444863) <a href='https://raw.githubusercontent.com/lcandy2/neodb-app/refs/heads/main/Images/Featured.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`45` 
+- [Pocket Casts](https://github.com/Automattic/pocket-casts-ios)
+  - [` App Store`](https://apps.apple.com/app/pocket-casts-podcast-player/id414834813)
+  -  `2025` `swift` `podcast` 
+  -  ☆`1712` 
 - [Selfie Stick](https://github.com/RF-Nelson/open-source-selfie-stick): Sync 2 devices & use one as a remote control for the other's camera
   - [` App Store`](https://apps.apple.com/app/id1084487132) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/9b/ad/60/9bad60df-6399-bac0-b8c3-83bce2072273/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/56/f2/0e/56f20eb8-420b-eaff-bf6a-99eaf4b1b05a/pr_source.png/460x0w.png'>`Screenshot 2`</a> 
   -  `2017` `objc` 
