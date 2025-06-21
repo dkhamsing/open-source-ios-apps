@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **341** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1140,6 +1140,10 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/piecelet-for-neodb/id6739444863) <a href='https://raw.githubusercontent.com/lcandy2/neodb-app/refs/heads/main/Images/Featured.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`45` 
+- [Pixelfed](https://github.com/pixelfed/pixelfed-rn): Share your photography on a privacy-focused, ad-free platform. Own your content. Connect authentically
+  - [` App Store`](https://apps.apple.com/app/pixelfed/id1632519816) <a href='https://pixelfed.nyc3.cdn.digitaloceanspaces.com/media/pixelfed-app-screenshot-3.jpg'>`Screenshot 1`</a> 
+  -  `2025` `react-native` `typescript` 
+  -  ☆`308` 
 - [Pocket Casts](https://github.com/Automattic/pocket-casts-ios)
   - [` App Store`](https://apps.apple.com/app/pocket-casts-podcast-player/id414834813)
   -  `2025` `swift` `podcast` 
