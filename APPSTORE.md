@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **341** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -152,10 +152,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/todolist-task-manager/id1454122524) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/7ba77342-79e0-41f3-9a85-e44fd877d9ca'>`Screenshot 1`</a> 
   -  `2025` `swift` `apple-watch` `ipad` 
   -  ☆`234` 
-- [SafeTimer](https://github.com/Chubby-Apps/SafeTimer): Control hours of use left for all kinds of tools, supplies & equipment
-  - [` App Store`](https://apps.apple.com/app/apple-store/id1512032981) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/5b9f32b3-e190-4ca5-bd60-e9e00bb6bd73'>`Screenshot 1`</a> 
-  -  `2022` `swift` 
-  -  ☆`16` 
 - [Watch Clicker Presentation](https://github.com/ezefranca/watchpresenter): Control your Keynote using Apple Watch
   - [` App Store`](https://apps.apple.com/app/watchnotes/id1213397019) <a href='https://github.com/ezefranca/watchpresenter/blob/master/print.png?raw=true'>`Screenshot 1`</a> 
   -  `2019` `swift` 
