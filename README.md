@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1608-green.svg) ![](https://img.shields.io/badge/Updated-June%2021,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1608-green.svg) ![](https://img.shields.io/badge/Updated-June%2022,%202025-lightgrey.svg)
 
 Jump to
 
@@ -290,10 +290,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/todolist-task-manager/id1454122524) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/7ba77342-79e0-41f3-9a85-e44fd877d9ca'>`Screenshot 1`</a> 
   -  `2025` `swift` `apple-watch` `ipad` 
   -  ☆`234` 
-- [SafeTimer](https://github.com/Chubby-Apps/SafeTimer): Control hours of use left for all kinds of tools, supplies & equipment
-  - [` App Store`](https://apps.apple.com/app/apple-store/id1512032981) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/5b9f32b3-e190-4ca5-bd60-e9e00bb6bd73'>`Screenshot 1`</a> 
-  -  `2022` `swift` 
-  -  ☆`16` 
 - [SpriteKitWatchFace](https://github.com/steventroughtonsmith/SpriteKitWatchFace): SpriteKit-based faux analog watch face example for watchOS
   -  <a href='https://hccdata.s3.amazonaws.com/gh_spritekitwatchface.jpg'>`Screenshot 1`</a> 
   -  `2019` `objc` `spritekit` 
