@@ -33046,7 +33046,7 @@
     {
       "title": "Feather",
       "category-ids": ["developer"],
-      "description": "Feather is a free on-device application manager/installer, using certificates part of the Apple Developer Program.",
+      "description": "On-device application manager/installer, uses certificates part of the Apple Developer Program",
       "source": "https://github.com/khcrysalis/Feather",		
       "license": "gpl-3.0",    
       "stars": 2200,     
