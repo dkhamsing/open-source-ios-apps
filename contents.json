@@ -33097,7 +33097,7 @@
     },
     {
       "title": "Berkeley Mobile",
-      "description": "UC Berkeley companion. Track buses, find library hours, see dining menus, and access campus resources",
+      "description": "UC Berkeley companion (track buses, find library hours, see dining menus, and access campus resources)",
       "screenshots": [
         "https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen1.png",
         "https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen2.png",
@@ -33105,7 +33105,7 @@
         "https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen4.png"
       ],
       "category-ids": [
-          "official"
+          "education"
       ],
       "tags": [
           "swift"
