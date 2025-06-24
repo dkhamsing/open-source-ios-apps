@@ -26735,7 +26735,7 @@
         "misc"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "gpl-3.0",
       "source": "https://github.com/GroupeMINASTE/FMobile-iOS",
