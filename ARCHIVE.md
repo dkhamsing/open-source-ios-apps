@@ -506,6 +506,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Simplistic](https://github.com/e7711bbear/Simplistic)
 - [SkeletonKey](https://github.com/chrishulbert/SkeletonKey)
 - [Skiff Mail](https://github.com/skiff-org/skiff-apps)
+- [Slide for Reddit](https://github.com/Haptic-Apps/Slide-iOS)
 - [Smart Traveller (UberGuide)](https://github.com/hACKbUSTER/UberGuide-iOS)
 - [SmileWeather](https://github.com/liu044100/SmileWeather)
 - [Snapchat clone](https://github.com/opensourceios/SnapChat)
