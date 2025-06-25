@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1329,10 +1329,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/pushpin-for-pinboard/id548052590) <a href='https://camo.githubusercontent.com/ee9665d8adf0fb6007d274f58bc8ad6fb96e5781b1e5e0f92eb75924e0f7fb1c/68747470733a2f2f323031372e6c696f6e686561727473772e636f6d2f7374617469632f696d616765732f7075736870696e2d312e706e67'>`Screenshot 1`</a>  <a href='https://camo.githubusercontent.com/f201929ac7e7faff2a9dc6138d4006e9cb818030896d90862e827042511c58ec/68747470733a2f2f323031372e6c696f6e686561727473772e636f6d2f7374617469632f696d616765732f7075736870696e2d322e706e67'>`Screenshot 2`</a>  <a href='https://camo.githubusercontent.com/e6abdd17ee52245c1e7d6e91bf9437d0534699b5ce148b9c41f707d07299b84d/68747470733a2f2f323031372e6c696f6e686561727473772e636f6d2f7374617469632f696d616765732f7075736870696e2d332e706e67'>`Screenshot 3`</a>  <a href='https://camo.githubusercontent.com/a53adf40cb03fb25a7a9bb4d401061593fc2554ccd944c1ffbe8379eee3acdc4/68747470733a2f2f323031372e6c696f6e686561727473772e636f6d2f7374617469632f696d616765732f7075736870696e2d342e706e67'>`Screenshot 4`</a> 
   -  `2025` `objc` 
   -  ☆`36` 
-- [Slide for Reddit](https://github.com/Haptic-Apps/Slide-iOS): A powerful new way to Reddit
-  - [` App Store`](https://apps.apple.com/app/slide-for-reddit/id1260626828) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/75/3b/91/753b91d1-029a-f898-ae67-910f117ba4ed/pr_source.jpg/300x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d8/1e/5f/d81e5fd9-71dc-abb0-bdb1-7d22fecf56b1/pr_source.jpg/300x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/fc/aa/e6/fcaae64d-552e-ce44-d3aa-08342eb6ce4b/pr_source.jpg/300x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/78/cb/fc/78cbfc3c-f395-943f-5695-e9c7cdbe035b/pr_source.jpg/300x0w.jpg'>`Screenshot 4`</a> 
-  -  `2023` `swift` 
-  -  ☆`491` 
 ### Hacker News 
  
 https://news.ycombinator.com/ — [back to top](#readme) 
