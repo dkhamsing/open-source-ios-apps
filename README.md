@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1608-green.svg) ![](https://img.shields.io/badge/Updated-June%2025,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1608-green.svg) ![](https://img.shields.io/badge/Updated-June%2026,%202025-lightgrey.svg)
 
 Jump to
 
@@ -4176,7 +4176,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2025` `iphone` `ipad` `reactnative` `typescript` 
   -  ☆`3672` 
 - [BP Passport - Simple for Patients](https://github.com/simpledotorg/bp-passport): Fast way for clinicians to manage patients with hypertension
-  -  <a href='https://simple.org/images/screen-bp.png'>`Screenshot 1`</a> 
+  -  <a href='https://www.simple.org/images/screen-bp.png'>`Screenshot 1`</a> 
   -  `2024` `react-native` 
   -  ☆`7` 
 - [Bristol Pound](https://gitlab.com/TownPound/Cyclos/ScottLogic.mobile.react-native/BristolPound): Simple and convenient way to pay in Bristol Pounds while supporting local businesses
