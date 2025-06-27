@@ -118,6 +118,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List)
 - [CodeBucket](https://github.com/thedillonb/CodeBucket)
 - [CodeCombat](https://github.com/codecombat/codecombat-ios)
+- [CodeHub](https://github.com/CodeHubApp/CodeHub)
 - [CodeSprint](https://github.com/chauvincent/CodeSprint-iOS)
 - [Codinator](https://github.com/DanilaVladi/codinator)
 - [Coding](https://github.com/Coding/Coding-iOS)
