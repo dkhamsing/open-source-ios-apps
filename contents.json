@@ -10259,7 +10259,7 @@
         "xamarin"
       ],
       "tags": [
-        "csharp"
+        "csharp", "archive"
       ],
       "description": "Browse & maintain GitHub repositories",
       "source": "https://github.com/CodeHubApp/CodeHub",
