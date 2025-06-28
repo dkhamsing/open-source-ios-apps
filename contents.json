@@ -33192,6 +33192,24 @@
       "suggested_by": "@ndrew222",
       "stars": 3,
       "updated": "2025-05-12 12:00:52 UTC"
-    }
+    },
+    {
+      "title": "FoundationChat",
+      "description": "Chat using iOS 26 Foundation Models",
+      "category-ids": [
+        "communication"
+      ],
+      "source": "https://github.com/Dimillian/FoundationChat",
+      "tags": [
+        "swiftui",
+        "ios26"
+      ],
+      "screenshots": [
+        "https://github.com/Dimillian/FoundationChat/blob/main/Images/image.png?raw=true"
+      ],
+      "license": "mit",
+      "date_added": "Jun 28 2025",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
