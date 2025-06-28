@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1608-green.svg) ![](https://img.shields.io/badge/Updated-June%2027,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1608-green.svg) ![](https://img.shields.io/badge/Updated-June%2028,%202025-lightgrey.svg)
 
 Jump to
 
@@ -524,10 +524,6 @@ Jump to
 - [Trello](https://github.com/alfianlosari/KanbanDragDropiOS)
   -  `2022` `swift` 
   -  ☆`116` 
-- [Voice Memo](https://github.com/HassanElDesouky/VoiceMemosClone)
-  -  <a href='https://github.com/HassanElDesouky/VoiceMemosClone/raw/master/cover.jpg'>`Screenshot 1`</a> 
-  -  `2019` `swift` 
-  -  ☆`194` 
 - [YouTube Clone](https://github.com/VamshiIITBHU14/YouTubeClone): YouTube clone using MVC
   -  `2024` `swift` 
   -  ☆`176` 
