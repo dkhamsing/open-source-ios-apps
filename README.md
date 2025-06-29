@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1608-green.svg) ![](https://img.shields.io/badge/Updated-June%2028,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1609-green.svg) ![](https://img.shields.io/badge/Updated-June%2029,%202025-lightgrey.svg)
 
 Jump to
 
@@ -587,6 +587,9 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/netless-io/flat-ios/main/art/flat-showcase.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`53` 
+- [FoundationChat](https://github.com/Dimillian/FoundationChat): Chat using iOS 26 Foundation Models
+  -  <a href='https://github.com/Dimillian/FoundationChat/blob/main/Images/image.png?raw=true'>`Screenshot 1`</a> 
+  - `swiftui` `ios26` 
 - [Goruma IRC](https://codeberg.org/emersion/goguma)
   - [` App Store`](https://apps.apple.com/app/goguma-irc/id6470394620) <a href='https://fs.emersion.fr/protected/img/goguma/main.png'>`Screenshot 1`</a> 
   -  `2025` `flutter` 
