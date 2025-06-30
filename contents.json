@@ -33210,6 +33210,21 @@
       "license": "mit",
       "date_added": "Jun 28 2025",
       "suggested_by": "@dkhamsing"
-    }    
+    },
+    {
+      "title": "Medito",
+      "description": "Meditation app No ads, no sign-up. Medito Foundation",
+      "source": "https://github.com/meditohq/medito-app",
+      "itunes": "https://apps.apple.com/app/medito/id1500780518",
+      "category-ids": [
+        "fitness", "flutter"
+      ],
+      "tags": [
+        "flutter"
+      ],
+      "license": "agpl-3.0",
+      "date_added": "Jun 30 2025",
+      "suggested_by": "@csprasad"
+    }  
   ]
 }
