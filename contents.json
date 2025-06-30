@@ -18198,7 +18198,7 @@
         "fastlane"
       ],
       "description": "Uses VIPER with robust unit tests",
-      "source": "https://github.com/matiasvillaverde/mobile-ios-vipergame",
+      "source": "https://github.com/vibeprogrammer/mobile-ios-vipergame",
       "license": "mit",
       "screenshots": [
         "https://raw.githubusercontent.com/matiasvillaverde/mobile-ios-vipergame/master/header.png"
