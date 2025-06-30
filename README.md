@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1609-green.svg) ![](https://img.shields.io/badge/Updated-June%2029,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1609-green.svg) ![](https://img.shields.io/badge/Updated-June%2030,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1550,7 +1550,7 @@ File Management — [back to top](#readme)
   -  <a href='https://google.github.io/mechahamster/gameplay1.png'>`Screenshot 1`</a> 
   -  `2021` `unity3d` `csharp` `firebase` 
   -  ☆`507` 
-- [Memory Game](https://github.com/matiasvillaverde/mobile-ios-vipergame): Uses VIPER with robust unit tests
+- [Memory Game](https://github.com/vibeprogrammer/mobile-ios-vipergame): Uses VIPER with robust unit tests
   -  <a href='https://raw.githubusercontent.com/matiasvillaverde/mobile-ios-vipergame/master/header.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `fastlane` 
   -  ☆`29` 
@@ -4993,7 +4993,7 @@ https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2faf5a74-74b0-48d4-82d7-0a0975e826b2'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`156` 
-- [Memory Game](https://github.com/matiasvillaverde/mobile-ios-vipergame): Uses VIPER with robust unit tests
+- [Memory Game](https://github.com/vibeprogrammer/mobile-ios-vipergame): Uses VIPER with robust unit tests
   -  <a href='https://raw.githubusercontent.com/matiasvillaverde/mobile-ios-vipergame/master/header.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `fastlane` 
   -  ☆`29` 
