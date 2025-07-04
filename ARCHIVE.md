@@ -589,6 +589,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Todo.txt](https://github.com/todotxt/todo.txt-ios)
 - [Toggl Timer](https://github.com/opensourceios/toggle-mobile)
 - [Toggl Timer](https://github.com/opensourceios/mobileapp)
+- [Toilet Radar Paris](https://github.com/IvanBogdantsev/Toilet-Radar-Paris)
 - [tootbot](https://github.com/tootbot/tootbot)
 - [ToThePenny](https://github.com/ivan-magda/ToThePenny)
 - [Tracker 4 Compassion](https://github.com/fokkezb/tracker)
