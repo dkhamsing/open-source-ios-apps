@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1610-green.svg) ![](https://img.shields.io/badge/Updated-July%20%204,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1610-green.svg) ![](https://img.shields.io/badge/Updated-July%20%205,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1831,10 +1831,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/cz/app/erou%C5%A1ka/id1509210215) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0f311927-f8a0-400d-bcb2-060d5c3c93dd'>`Screenshot 1`</a> 
   -  `2021` `swift` `rxswift` `bluetooth` 
   -  ☆`105` 
-- [Finland - Koronavilkku](https://github.com/THLfi/koronavilkku-ios)
-  - [` App Store`](https://apps.apple.com/app/koronavilkku/id1520576224) <a href='https://user-images.githubusercontent.com/4723115/130166843-01852cbf-a105-4571-b5a3-a4f0e3b20283.png'>`Screenshot 1`</a> 
-  -  `2022` `swift` `snapkit` 
-  -  ☆`74` 
 - [France - TousAntiCovid](https://gitlab.inria.fr/stopcovid19/stopcovid-ios)
   - <a href=https://www.economie.gouv.fr/tousanticovid>`https://www.economie.gouv.fr/tousanticovid`</a>
   - [` App Store`](https://apps.apple.com/app/stopcovid-france/id1511279125) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9cddac33-77fa-48f5-8b61-f596e9594b63'>`Screenshot 1`</a> 
