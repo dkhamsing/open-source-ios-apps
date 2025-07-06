@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1610-green.svg) ![](https://img.shields.io/badge/Updated-July%20%205,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1610-green.svg) ![](https://img.shields.io/badge/Updated-July%20%206,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3218,10 +3218,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/shlist/id1551533470) <a href='https://github.com/pointspy/shlist/blob/master/images/image1.png'>`Screenshot 1`</a>  <a href='https://github.com/pointspy/shlist/blob/master/images/image2.png'>`Screenshot 2`</a>  <a href='https://github.com/pointspy/shlist/blob/master/images/image3.png'>`Screenshot 3`</a>  <a href='https://github.com/pointspy/shlist/blob/master/images/image4.png'>`Screenshot 4`</a> 
   -  `2021` `swift` `ipad` 
   -  ☆`17` 
-- [The Wave - A Jeep Marketplace](https://github.com/xYello/ThePost): A place for Jeep owners to buy and sell Jeep parts
-  - [` App Store`](https://apps.apple.com/app/the-wave-a-jeep-marketplace/id1260803629) <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Post.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Profile.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Reviews.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Social.jpg'>`Screenshot 4`</a> 
-  -  `2018` `swift` `jeep` `jeep-parts` `wave` `marketplace` 
-  -  ☆`83` 
 - [WooCommerce](https://github.com/woocommerce/woocommerce-ios): Manage orders, receive sales notifications, and view key metrics
   - [` App Store`](https://apps.apple.com/app/id1389130815) <a href='https://docs.woocommerce.com/wp-content/uploads/2019/01/mystore-ios.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
