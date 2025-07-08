@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1610-green.svg) ![](https://img.shields.io/badge/Updated-July%20%207,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1610-green.svg) ![](https://img.shields.io/badge/Updated-July%20%208,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1921,7 +1921,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://raw.githubusercontent.com/gym-routine-tracker/gym-routine-tracker.github.io/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`50` 
-- [Medito](https://github.com/meditohq/medito-app): Meditation app No ads, no sign-up. Medito Foundation
+- [Medito](https://github.com/meditohq/medito-app): No ads, no sign-up
   - [` App Store`](https://apps.apple.com/app/medito/id1500780518)
   - `flutter` 
   -  ☆`1072` 
@@ -3947,7 +3947,7 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/52289151/155140417-d18d0716-c84f-43c8-8e9e-cdbdd17a950a.JPG'>`Screenshot 1`</a> 
   -  `2023` `flutter` `dart` 
   -  ☆`49` 
-- [Medito](https://github.com/meditohq/medito-app): Meditation app No ads, no sign-up. Medito Foundation
+- [Medito](https://github.com/meditohq/medito-app): No ads, no sign-up
   - [` App Store`](https://apps.apple.com/app/medito/id1500780518)
   - `flutter` 
   -  ☆`1072` 
