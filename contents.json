@@ -33236,6 +33236,12 @@
             "date_added": "Jul 9 2025",
             "suggested_by": "@eugenepyvovarov",
             "license": "apache-2.0",
+            "screenshots": [
+              "https://raw.githubusercontent.com/eugenepyvovarov/CodeAgentsMobile/refs/heads/main/screenshots/screenshot_1.png?raw=true",
+              "https://raw.githubusercontent.com/eugenepyvovarov/CodeAgentsMobile/refs/heads/main/screenshots/screenshot_2.png?raw=true",
+              "https://raw.githubusercontent.com/eugenepyvovarov/CodeAgentsMobile/refs/heads/main/screenshots/screenshot_3.png?raw=true",
+              "https://raw.githubusercontent.com/eugenepyvovarov/CodeAgentsMobile/refs/heads/main/screenshots/screenshot_4.png?raw=true",
+            ],
             "tags": [
               "ai", "claude-code"
             ],
