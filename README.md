@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1610-green.svg) ![](https://img.shields.io/badge/Updated-July%20%208,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1610-green.svg) ![](https://img.shields.io/badge/Updated-July%2010,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3427,10 +3427,6 @@ https://joinmastodon.org — [back to top](#readme)
 - [Flight Search](https://github.com/MarcinusX/flutter_ui_challenge_flight_search)
   -  `2021` `flutter` `dart` 
   -  ☆`996` 
-- [MetricTime](https://github.com/MoralCode/MetricTime): Displays 'Metric Time' for pranking friends on trips to countries that use the metric system
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/05dffc70-0b1a-4dac-858a-cb3c69e39b73'>`Screenshot 1`</a> 
-  -  `2021` `swift` 
-  -  ☆`7` 
 - [Themoji](https://github.com/themoji/ios): Use Emojis to communicate while traveling
   - <a href=https://themoji.me/>`https://themoji.me/`</a>
   -  <a href='https://github.com/Themoji/themoji.me/blob/gh-pages/ThemojiIdea.jpg?raw=true'>`Screenshot 1`</a> 
