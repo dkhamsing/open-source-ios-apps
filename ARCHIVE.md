@@ -333,6 +333,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Megabite](https://github.com/AaronRandall/Megabite)
 - [Meme Maker](https://github.com/MemeMaker/Meme-Maker-iOS)
 - [Mergel](https://github.com/snazzware/Mergel)
+- [MetricTime](https://github.com/MoralCode/MetricTime)
 - [MeWeather](https://github.com/opensourceios/MeWeather)
 - [Minds](https://github.com/Minds/mobile)
 - [MiniKeePass](https://github.com/MiniKeePass/MiniKeePass)
