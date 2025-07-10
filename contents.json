@@ -9126,7 +9126,7 @@
       "description": "Displays 'Metric Time' for pranking friends on trips to countries that use the metric system",
       "source": "https://github.com/MoralCode/MetricTime",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/05dffc70-0b1a-4dac-858a-cb3c69e39b73"
