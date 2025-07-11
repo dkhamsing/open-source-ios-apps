@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1610-green.svg) ![](https://img.shields.io/badge/Updated-July%2010,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1610-green.svg) ![](https://img.shields.io/badge/Updated-July%2011,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2097,7 +2097,7 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id482941798) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/ac/f7/c3acf7d1-9fb6-a5bc-6e09-8ccc70bf3e97/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/77/69/aa/7769aa4a-5e2f-f145-f89e-541c94ac74a7/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/62/0b/52/620b5289-7cdb-fa7a-4883-0d3565d87690/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2025` `objc` 
   -  ☆`2178` 
-- [MuVis](https://github.com/Keith-43/MuVis): Music Visualization
+- [MuVis](https://github.com/Keith-43/MuVis-Experimentation): Music Visualization
   - [` App Store`](https://apps.apple.com/app/muvis-music-visualizer/id1582324352) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0cb6a163-5169-4427-b831-ae07ae5641d7'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` `metal` `audio` `music` 
   -  ☆`10` 
